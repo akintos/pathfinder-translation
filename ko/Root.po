@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-15 09:51+0000\n"
-"Last-Translator: 냠 <setsuna444@naver.com>\n"
+"PO-Revision-Date: 2020-06-15 11:43+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/root/ko/>\n"
 "Language: ko\n"
@@ -15,7 +15,6 @@ msgstr ""
 "X-Generator: Weblate 3.3\n"
 
 #
-
 #. Mechanics/Blueprints/Root/BlueprintRoot_LocalizedTexts.LockedContainer
 msgctxt "d8e4fdba-9804-45c4-a2fd-7a2b12aed679"
 msgid "Locked"
@@ -51,7 +50,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/BlueprintRoot_NewGameSettings.StoryList.Array.data[0].Title
 msgctxt "154f713f-fa8e-4eb6-ba1a-555c0c9fad40"
 msgid "Main Story"
-msgstr ""
+msgstr "메인 스토리"
 
 #. Mechanics/Blueprints/Root/BlueprintRoot_NewGameSettings.StoryList.Array.data[1].Description
 msgctxt "bbf5341e-0429-49e0-b9cd-68d797b7fc8e"
@@ -67,7 +66,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/BlueprintRoot_NewGameSettings.StoryList.Array.data[1].Title
 msgctxt "ca04fbc3-cd5e-4125-b937-d1a0d9ebd448"
 msgid "Varnhold's Lot"
-msgstr ""
+msgstr "반홀드의 운명"
 
 #. Mechanics/Blueprints/Root/BlueprintRoot_NewGameSettings.StoryList.Array.data[2].Description
 msgctxt "590d36d8-5589-4e05-a753-f400710060fe"
@@ -214,57 +213,57 @@ msgstr "아바디우스(1월)"
 #. Mechanics/Blueprints/Root/Calendar_Months.Array.data[10].Name
 msgctxt "6706012f-3d98-4e83-8143-fc1d2295bee9"
 msgid "Neth"
-msgstr "네스(2월)"
+msgstr "네스(11월)"
 
 #. Mechanics/Blueprints/Root/Calendar_Months.Array.data[11].Name
 msgctxt "d447f1b0-1c7c-4014-98c2-bd65defef807"
 msgid "Kuthona"
-msgstr "쿠소나(3월)"
+msgstr "쿠소나(12월)"
 
 #. Mechanics/Blueprints/Root/Calendar_Months.Array.data[1].Name
 msgctxt "d728807d-391b-4f4f-8a72-72a99091c352"
 msgid "Calistril"
-msgstr "칼리스트릴(4월)"
+msgstr "칼리스트릴(2월)"
 
 #. Mechanics/Blueprints/Root/Calendar_Months.Array.data[2].Name
 msgctxt "83396ea7-ad2c-4157-85e5-79042ef6322c"
 msgid "Pharast"
-msgstr "파라스트(5월)"
+msgstr "파라스트(3월)"
 
 #. Mechanics/Blueprints/Root/Calendar_Months.Array.data[3].Name
 msgctxt "fa7794d6-b054-4d3b-9a62-a758f78aa37a"
 msgid "Gozran"
-msgstr "고즈란(6월)"
+msgstr "고즈란(4월)"
 
 #. Mechanics/Blueprints/Root/Calendar_Months.Array.data[4].Name
 msgctxt "1bf37264-2ede-48fe-b5e7-b57ec8ac69e5"
 msgid "Desnus"
-msgstr "데즈누스(7월)"
+msgstr "데즈누스(5월)"
 
 #. Mechanics/Blueprints/Root/Calendar_Months.Array.data[5].Name
 msgctxt "b368aa79-9fff-4959-bfb8-4cbbc372b3c1"
 msgid "Sarenith"
-msgstr "서레니스(8월)"
+msgstr "서레니스(6월)"
 
 #. Mechanics/Blueprints/Root/Calendar_Months.Array.data[6].Name
 msgctxt "e788aeb4-1a22-4a4c-a70d-6b5b862bf4e5"
 msgid "Erastus"
-msgstr "에라스투스(9월)"
+msgstr "에라스투스(7월)"
 
 #. Mechanics/Blueprints/Root/Calendar_Months.Array.data[7].Name
 msgctxt "790e4d02-3cc8-4095-9de0-8d99ff9a5741"
 msgid "Arodus"
-msgstr "아로두스(10월)"
+msgstr "아로두스(8월)"
 
 #. Mechanics/Blueprints/Root/Calendar_Months.Array.data[8].Name
 msgctxt "ae9278f2-cfe2-4f99-8f66-5e2691c8cf70"
 msgid "Rova"
-msgstr "로바(11월)"
+msgstr "로바(9월)"
 
 #. Mechanics/Blueprints/Root/Calendar_Months.Array.data[9].Name
 msgctxt "5f86ec94-b418-42ad-8406-18a8d97f040e"
 msgid "Lamashan"
-msgstr "라마샨(12월)"
+msgstr "라마샨"
 
 #. Mechanics/Blueprints/Root/Calendar_TimePeriodStrings.And
 msgctxt "b148c221-df87-4ee9-830a-0076b8a700cc"
