@@ -1,6 +1,20 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-15 18:51+0900\n"
+"PO-Revision-Date: 2020-06-15 09:51+0000\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/"
+"pathfinder_kingmaker/world/ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.3\n"
+
+#
 
 #. Mechanics/Blueprints/World/Areas/2DLC/RestovThroneRoom_DLC2/RestovThroneRoom_DLC2_AreaName
 #. Mechanics/Blueprints/World/Areas/DLC2/RestovThroneRoom_DLC2/RestovThroneRoom_DLC2_AreaName
@@ -3334,7 +3348,7 @@ msgid ""
 "achieved Triumph and reduces Military by 1 for each achieved Disaster."
 msgstr ""
 "병사들이 자가 양조한 포션을 사용함으로써 명료한 정신을 댓가로 그들의 전투 기량을 향상시킵니다.\n"
-"매 대성공마다 군사를 1씩 증가시키며, 매 재앙마다 군사를 1씩 감소시킵니다."
+"대성공마다 군사를 1씩 증가시키며, 재난마다 군사를 1씩 감소시킵니다."
 
 #. Mechanics/Blueprints/World/Encounters/CapitalThroneRoom/KingdomBuffs/RankUp_Military_PotionIgnore_DisplayName
 msgctxt "899eade1-9d27-4fc5-af19-d6c74d424723"
@@ -3358,7 +3372,7 @@ msgctxt "b724085a-848a-46de-b467-974ca5aa3800"
 msgid ""
 "The nobles approve of your actions. Any event resolved by the Regent "
 "increases Stability by 1."
-msgstr "귀족들이 당신의 행동을 인정합니다. 섭정이 해결하는 모든 이벤트는 안정도를 1 증가시킵니다."
+msgstr "귀족들이 당신의 행동을 인정합니다. 섭정이 해결하는 모든 이벤트는 치안을 1 증가시킵니다."
 
 #. Mechanics/Blueprints/World/Encounters/CapitalThroneRoom/KingdomBuffs/RankUp_Population_Noble_DisplayName
 msgctxt "c3d484cb-8d89-45b0-a2b0-5fd59c9dfd25"
@@ -3370,7 +3384,7 @@ msgctxt "aed48724-2a5a-468f-99d1-ae96c41f9deb"
 msgid ""
 "The common folk approve of your actions. Any event resolved by the Regent "
 "increases Loyalty by 1."
-msgstr "일반 대중들은 당신의 행동에 찬성합니다. 섭정이 해결하는 모든 사건은 충성도를 1 증가시킵니다."
+msgstr "일반 대중들은 당신의 행동에 찬성합니다. 섭정이 해결하는 모든 사건은 민심를 1 증가시킵니다."
 
 #. Mechanics/Blueprints/World/Encounters/CapitalThroneRoom/KingdomBuffs/RankUp_Population_People_DisplayName
 msgctxt "f94785ee-93c6-4180-b3ee-0085e2ac36e0"
