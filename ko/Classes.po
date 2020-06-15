@@ -1,6 +1,20 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-15 20:42+0900\n"
+"PO-Revision-Date: 2020-06-15 11:42+0000\n"
+"Last-Translator: haenim <zzz-well@hanmail.net>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/"
+"pathfinder_kingmaker/classes/ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.3\n"
+
+#
 
 #. Mechanics/Blueprints/Classes/Alchemist/AlchemistClass_LocalizedDescription
 msgctxt "33e45c4d-8deb-45b9-a649-ae4ee66cd2e0"
@@ -21620,6 +21634,7 @@ msgid "Opportunist"
 msgstr "기회주의자"
 
 #. Mechanics/Blueprints/Classes/Slayer/MasterSlayerFeature_Description_String
+#, fuzzy
 msgctxt "a16d74c5-ee19-45c2-a01a-c4d50ec4430b"
 msgid ""
 "At 20th level, the slayer becomes a master at capturing or killing his "
@@ -21630,27 +21645,34 @@ msgid ""
 "Intelligence modifier. Whether or not the target succeeds, it cannot be "
 "targeted by this ability again (by any slayer) for 24 hours."
 msgstr ""
+"20 레벨에, 슬레이어는 조사대상을 죽이거나 포획하는데 통달합니다. 일반 행동으로, 조사대상에게 최대 공격 보너스로 공격을 한 번 "
+"가합니다. 공격이 성공하면, 대상은 정상적인 데미지를 받지만 인내 내성 굴림에 실패하면 죽습니다. DC는 10 + 1/2 슬레이어 레벨 +"
+" 슬레이어 지능 수정치 입니다. 성공하든 실패하든 대상에게는 24 시간 동안 이 능력을 다시 사용할 수 없습니다."
 
 #. Mechanics/Blueprints/Classes/Slayer/MasterSlayerFeature_DisplayName_String
+#, fuzzy
 msgctxt "43868a54-0f36-4e0b-a95f-957de25d5bf5"
 msgid "Master Slayer"
-msgstr ""
+msgstr "마스터 슬레이어"
 
 #. Mechanics/Blueprints/Classes/Slayer/SlayerCamouflage_Description_String
 #. Mechanics/Blueprints/Classes/Slayer/SlayerCamouflage_m_Description
+#, fuzzy
 msgctxt "ee1cc170-0e4e-4f13-8276-077f21b704be"
 msgid ""
 "A slayer can use the Stealth skill to hide in any of his favored terrains, "
 "even if the terrain doesn't grant cover or concealment."
-msgstr ""
+msgstr "슬레이어는 선호 지형이라면, 엄폐나 은폐 없이도 은신 기술을 사용할 수 있습니다."
 
 #. Mechanics/Blueprints/Classes/Slayer/SlayerCamouflage_DisplayName_String
 #. Mechanics/Blueprints/Classes/Slayer/SlayerCamouflage_m_DisplayName
+#, fuzzy
 msgctxt "18e1f71f-026f-4635-b189-0e4cfc3d32d2"
 msgid "Slayer Camouflage"
-msgstr ""
+msgstr "슬레이어 위장"
 
 #. Mechanics/Blueprints/Classes/Slayer/SlayerClass_LocalizedDescription
+#, fuzzy
 msgctxt "11f211e0-a625-4391-944c-057480ae62b0"
 msgid ""
 "Skilled at tracking down targets, slayers are consummate hunters, living for"
@@ -21658,45 +21680,56 @@ msgid ""
 "most of their time honing their weapon skills, studying the habits and "
 "anatomy of foes, and practicing combat maneuvers."
 msgstr ""
+"대상을 추적하는데 능한 슬레이어는 완벽한 사냥꾼입니다. 사냥감을 추적해서 숨통을 끊어 놓는 것이 삶의 목적입니다. 슬레이어는 무기술을 "
+"연마하고, 적의 습관과 해부학적 특성을 조사하고, 전법을 연습하는 것에 대부분의 시간을 보냅니다."
 
 #. Mechanics/Blueprints/Classes/Slayer/SlayerClass_LocalizedName
+#, fuzzy
 msgctxt "e527179c-d9bc-4e9b-8023-940938329359"
 msgid "Slayer"
-msgstr ""
+msgstr "슬레이어"
 
 #. Mechanics/Blueprints/Classes/Slayer/SlayerProficiencies_m_Description
+#, fuzzy
 msgctxt "2bac4ea6-a23a-494d-974f-0f499e8972c4"
 msgid ""
 "A slayer is proficient with all simple and martial weapons, as well as with "
 "light armor, medium armor, and shields (except tower shields)."
-msgstr ""
+msgstr "슬레이어는 모든 단순, 군용 무기에 숙련돼있고, 경장과 평장 갑옷, 타워 실드를 제외한 방패에 숙련되었습니다."
 
 #. Mechanics/Blueprints/Classes/Slayer/SlayerProficiencies_m_DisplayName
+#, fuzzy
 msgctxt "5b76ad79-e97f-40f8-99de-05d7ae5db445"
 msgid "Slayer Proficiencies"
-msgstr ""
+msgstr "슬레이어 숙련"
 
 #. Mechanics/Blueprints/Classes/Slayer/SlayersAdvanceBuff_m_Description
+#, fuzzy
 msgctxt "5d92b322-57d8-4932-8868-a30570765f91"
 msgid ""
 "Increases movement speed by 30 ft and makes the target immune to attacks of "
 "opportunity."
-msgstr ""
+msgstr "이동속도를 30 피트 올리고 기회공격에 면역이 됩니다."
 
 #. Mechanics/Blueprints/Classes/Slayer/SlayersAdvanceFeature_Description_String
+#, fuzzy
 msgctxt "a5b44813-c7f5-4079-a0c0-441a2adcc601"
 msgid ""
 "At 13th level, a slayer can once per day increase his movement speed by 30 "
 "ft, and his movement doesn't provoke attacks of opportunity. At 17th level, "
 "he can do this twice per day."
 msgstr ""
+"13 레벨에, 슬레이어는 하루에 한 번 이동속도를 30피트 올리고 이동으로 기회공격을 유발하지 않습니다. 17 레벨에, 이 능력을 하루에 "
+"두 번 쓸 수 있습니다."
 
 #. Mechanics/Blueprints/Classes/Slayer/SlayersAdvanceFeature_DisplayName_String
+#, fuzzy
 msgctxt "8ecc6bbe-3839-408e-9332-d0947890ca88"
 msgid "Slayer's Advance"
-msgstr ""
+msgstr "슬레이어의 전진"
 
 #. Mechanics/Blueprints/Classes/Slayer/SlayerStudyTargetAbility_Description_String
+#, fuzzy
 msgctxt "0b851f73-e399-4e4e-8280-e1cd8c469084"
 msgid ""
 "A slayer can study an opponent he can see as a move action. The slayer then gains a +1 bonus on weapon attack and damage rolls against it. The DCs of slayer class abilities against that opponent increase by 1.\n"
@@ -21704,44 +21737,62 @@ msgid ""
 "At 5th, 10th, 15th, and 20th levels, the bonuses on weapon attack rolls, damage rolls and to slayer DCs against a studied target increase by 1.\n"
 "At 7th level, a slayer can study an opponent as a move or swift action."
 msgstr ""
+"슬레이어는 이동 행동으로 적 하나를 조사할 수 있습니다. 대상에 대해 무기 공격의 명중 굴림과 피해 굴림, 슬레이어 클래스 능력의 DC에 "
+"+1 보너스를 얻습니다. 슬레이어가 암습 피해를 가하면, 대상을 조사하고, 조사 대상 보너스 피해를 더합니다.\\n"
+"5, 10, 15, 20 레벨에 보너스는 1 씩 증가합니다.\\n"
+"7 레벨부터 슬레이어는 신속 행동으로 조사할 수 있습니다."
 
 #. Mechanics/Blueprints/Classes/Slayer/SlayerStudyTargetAbility_DisplayName_String
+#, fuzzy
 msgctxt "9f5b2380-644e-4a0f-bcf1-c619987d4073"
 msgid "Studied Target"
-msgstr ""
+msgstr "조사대상"
 
 #. Mechanics/Blueprints/Classes/Slayer/SlayerSwiftStudyTargetAbility_DisplayName_String
+#, fuzzy
 msgctxt "d66ae661-71bb-46ba-b4fd-581c7056cdd0"
 msgid "Studied Target (Swift)"
-msgstr ""
+msgstr "조사대상 (신속)"
 
 #. Mechanics/Blueprints/Classes/Slayer/SlayerTalentSelection2_Description_String
+#, fuzzy
 msgctxt "d2855071-0212-453f-a952-d5e12e192fbd"
 msgid ""
 "As a slayer gains experience, he learns a number of talents that aid him and confound his foes. Starting at 2nd level and every 2 levels thereafter, a slayer gains one slayer talent. Unless otherwise noted, a slayer cannot select an individual talent more than once.\n"
 "Slayer can take rogue talents as slayer talents, counting his slayer level as rogue level.\n"
 "After 2nd level, the slayer can select a ranger combat style (such as archery or two-weapon combat) and gains a combat feat from the first feat list of that style. He can choose feats from his selected combat style, even if he does not have the normal prerequisites. After 6th level, he may select this talent again and add the 6th-level ranger combat feats from his chosen style to the list. After 10th level, he may select this talent again and add the 10th-level ranger combat feats from his chosen style to the list."
 msgstr ""
+"슬레이어가 성장함에 따라, 슬레이어를 돕고 적을 교란하는 여러 능력을 얻습니다. 짝수 레벨 마다 슬레이어 재능 하나를 얻습니다. 별다른 "
+"설명이 없다면, 슬레이어는 같은 재능을 한 번 이상 선택할 수 없습니다.\\n"
+"슬레이어는 슬레이어 레벨을 로그 레벨로 취급하여 로그 재능을 획득할 수 있습니다.\\n"
+"2 레벨이 되면, 슬레이어는 궁술이나 쌍검술 같은 레인저 전투 방식을 선택할 수 있습니다. 그리고 그 전투 방식의 첫 번째 전투 특기 "
+"목록 중에서 하나의 전투 특기를 얻습니다. 이런 식으로 특기를 습득할 때는 선결조건을 만족할 필요가 없습니다. 6 레벨에 이 재능을 한 "
+"번 더 고르면 그 전투 방식에 해당하는 6 레벨 레인저 전투 특기를 고를 수 있습니다. 10 레벨에 이 재능을 한 번 더 고르면 그 전투 "
+"방식에 해당하는 10 레벨 레인저 전투 특기를 고를 수 있습니다."
 
 #. Mechanics/Blueprints/Classes/Slayer/SlayerTalentSelection2_DisplayName_String
+#, fuzzy
 msgctxt "7f8b47a1-95af-43d7-b078-c91e2aea6af4"
 msgid "Slayer Talents"
-msgstr ""
+msgstr "슬레이어 재능"
 
 #. Mechanics/Blueprints/Classes/Slayer/SlayerTrapfinding_Description_String
+#, fuzzy
 msgctxt "1850fad5-ce4d-4613-8a89-988bd551554b"
 msgid ""
 "The slayer gains Trickery as a class skill. The slayer also gains the "
 "trapfinding rogue ability, using his slayer level as his effective rogue "
 "level."
-msgstr ""
+msgstr "슬레이어는 손재주를 클래스 기술에 추가합니다. 또한 슬레이어 레벨을 로그 레벨로 취급하는 함정 탐지 로그 능력을 얻습니다."
 
 #. Mechanics/Blueprints/Classes/Slayer/SlayerTrapfinding_DisplayName_String
+#, fuzzy
 msgctxt "76c4f90b-62d3-4bde-9fcc-9771820eb585"
 msgid "Trapfinding"
-msgstr ""
+msgstr "함정 탐지"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Deliverer/DelivererArchetype_LocalizedDescription
+#, fuzzy
 msgctxt "c0d0b5ed-74ed-4d86-99d3-85537923d847"
 msgid ""
 "Also known as a divine assassin, god's blade, or wrath-bringer, a deliverer "
@@ -21751,51 +21802,68 @@ msgid ""
 "nature than a cleric, inquisitor, paladin, or warpriest can typically "
 "handle."
 msgstr ""
+"신성한 암살자, 신의 칼날, 또는 진노대행자로 불리는 딜리버는 신에게 불경을 저지른 자를 처단하기 위해 선택된 무기입니다. 악한 신격은 "
+"딜리버 보다는 암살자를 쓰는 경향이 있긴 합니다만, 일부 선한 신격은 클레릭, 인퀴지터, 팔라딘, 워프리스트가 다루기 미묘한 성격의 "
+"문제를 해결하는데 딜리버를 이용합니다."
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Deliverer/DelivererArchetype_LocalizedName
+#, fuzzy
 msgctxt "7ca1d274-0278-4984-acfd-bb050a56321d"
 msgid "Deliverer"
-msgstr ""
+msgstr "딜리버"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Deliverer/DeterminedZeal_Description_String
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Deliverer/DeterminedZeal_m_Description
+#, fuzzy
 msgctxt "ed251836-27c9-4647-81e3-1dfcbfcf53ec"
 msgid ""
 "At 2nd level, a deliverer shrugs off attempts by his moral opposite to control or kill him. On any round in which deliverer attacks an opponent whose alignment is at least two steps away from his own (such as a lawful good deliverer fighting a chaotic good or lawful evil foe, or a neutral foe with no other alignment components), he gains a +2 bonus on Will saving throws against that opponent's abilities, as well as the benefit of the Diehard feat until the end of his next turn.\n"
 "This ability replaces the slayer talent gained at 2nd level."
 msgstr ""
+"2레벨부터, 딜리버의 도덕적 적대자가 딜리버를 통제하거나 죽이려 들 때, 이를 견뎌낼 수 있습니다. 딜리버와 성향이 2 단계 이상 "
+"차이나는 적을 (예를 들어 질서 선 딜리버라면 혼돈 선 또는 질서 악, 순수 중립 등의 적을) 공격할 때, 다음 턴 까지 질긴 생명력 "
+"특기와 상대방의 능력에 대한 +2 의지 내성 굴림 보너스를 얻습니다.\\n"
+"이 능력은 슬레이어가 2 레벨에 얻는 재능을 대체합니다."
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Deliverer/DeterminedZeal_DisplayName_String
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Deliverer/DeterminedZeal_m_DisplayName
+#, fuzzy
 msgctxt "bb9d7690-fa33-495e-beff-68104c0fd8da"
 msgid "Determined Zeal"
-msgstr ""
+msgstr "단호한 열성"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Deliverer/DivineAnathema_m_Description
+#, fuzzy
 msgctxt "84f61418-27e6-4aea-8f3a-fc51526e5f4b"
 msgid ""
 "At 10th level, if the studied target's alignment is at least two steps away from that of the deliverer, the deliverer's attacks deal an additional 2d6 points of damage; this damage is directly from divine power.\n"
 "This ability replaces the advanced slayer talent gained at 10th level."
 msgstr ""
+"10 레벨에, 조사대상의 성향이 딜리버와 2 단계 이상 차이나면, 딜리버의 공격은 2d6 점의 추가 피해를 가합니다. 이 피해는 신격의 "
+"힘과 직결되어 있습니다. 이 능력은 슬레이어가 10 레벨에 얻는 고급 재능을 대체합니다."
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Deliverer/DivineAnathema_m_DisplayName
+#, fuzzy
 msgctxt "5c324c1e-7386-4cf9-bec6-8fe8dd2ebe91"
 msgid "Divine Anathema"
-msgstr ""
+msgstr "신성한 파문"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/SpawnSlayer/SpawnSlayerArchetype_LocalizedDescription
+#, fuzzy
 msgctxt "9f99af26-2507-4b44-bd41-d82b3577e1b2"
 msgid ""
 "Generations of warriors hold the line against impossible odds. Some of their"
 " ancient techniques persist to this day."
-msgstr ""
+msgstr "수 세대에 걸쳐 불가능한 역경에 맞서 물러서지 않은 전사들이 있습니다. 그 고대 전술의 일부가 오늘날까지 전해지고 있습니다."
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/SpawnSlayer/SpawnSlayerArchetype_LocalizedName
+#, fuzzy
 msgctxt "d3de04c1-12dd-46ec-b716-6a0d3c8da7a3"
 msgid "Spawn Slayer"
-msgstr ""
+msgstr "스폰 슬레이어"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/SpawnSlayer/SpawnSlayerGainLeverage_m_Description
+#, fuzzy
 msgctxt "cf9c8422-0312-43df-b204-7df8330a5e80"
 msgid ""
 "At 7th level, a spawn slayer learns techniques to counteract a foe's size "
@@ -21805,151 +21873,195 @@ msgid ""
 "Colossal +8). The spawn slayer adds this same bonus to his CMD when "
 "defending against combat maneuvers from a Large or larger studied target."
 msgstr ""
+"7 레벨부터 스폰 슬레이어는 적의 크기상 이점을 역이용하는 기술을 터득합니다. 대형 이상의 조사대상에게 전법을 사용할 때, 크리처의 크기 "
+"수정치 (대형 +1, 거대 +2, 특대 +4, 극대 +8) 만큼 CMB에 더하고, 전법을 방어할 때는 같은 값을 CMD에 더합니다."
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/SpawnSlayer/SpawnSlayerGainLeverage_m_DisplayName
+#, fuzzy
 msgctxt "f3b51255-575f-4066-8c7b-207d063e3acc"
 msgid "Gain Leverage"
-msgstr ""
+msgstr "지레의 원리"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/SpawnSlayer/StudiedSpawnColossalSizeBonus_Description_String
+#, fuzzy
 msgctxt "347e8ea0-50ea-4753-9c57-fe193db08660"
 msgid ""
 "A spawn slayer specializes in fighting against larger, single targets. At 5th, 10th, 15th, and 20th levels, the bonuses on weapon attack rolls, and damage rolls, as do the DCs of slayer abilities against a studied target. At 5th level, if the target is Large or larger, these bonuses increase by an additional 1. At 10th level, if the target is Huge or larger, the bonuses increase by an additional 2. At 15th level, if the target is Gargantuan or larger, the bonuses increase by an additional 3. At 20th level, if the target is Colossal in size, the bonuses increase by an additional 4. He does not gain the ability to study an opponent as a swift action at 7th level.\n"
 "This alters studied target."
 msgstr ""
+"스폰 슬레이어는 거대한 단일 개체와의 전투에 전문화됩니다. 5, 10, 15, 20 레벨에, 대상에 대해 무기 공격의 명중 굴림과 피해 "
+"굴림, 슬레이어 클래스 능력의 DC에 보너스를 얻습니다. 5 레벨부터, 대상의 크기가 대형 이상이면 이 보너스들은 1 씩 추가됩니다. "
+"10 레벨부터는 대상이 거대 이상이면 보너스가 2 씩 추가됩니다. 15 레벨부터 대상이 특대 이상이면 보너스가 3 씩 추가됩니다. 20 "
+"레벨에 대상의 크기가 특대라면 보너스가 4 씩 추가됩니다. 7 레벨에 신속 행동으로 조사하는 능력을 얻지 못합니다.\\n"
+"이 능력은 조사대상을 대체합니다."
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/SpawnSlayer/StudiedSpawnColossalSizeBonus_m_DisplayName
+#, fuzzy
 msgctxt "ae5ef6f3-e1ad-4d6f-a39e-4427a3786914"
 msgid "Studied Spawn — Colossal"
-msgstr ""
+msgstr "괴물 조사 - 극대"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/SpawnSlayer/StudiedSpawnGargantuanSizeBonus_m_DisplayName
+#, fuzzy
 msgctxt "27c894f8-8ba6-4ef8-85be-35cef6bd0552"
 msgid "Studied Spawn — Gargantuan"
-msgstr ""
+msgstr "괴물 조사 - 특대"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/SpawnSlayer/StudiedSpawnHugeSizeBonus_m_DisplayName
+#, fuzzy
 msgctxt "631e2861-d1aa-4b64-9217-8a214fa6322a"
 msgid "Studied Spawn — Huge"
-msgstr ""
+msgstr "괴물 조사 - 거대"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/SpawnSlayer/StudiedSpawnLargeSizeBonus_m_DisplayName
+#, fuzzy
 msgctxt "562a4612-6ec5-4242-bde6-8f8b3f69bf24"
 msgid "Studied Spawn — Large"
-msgstr ""
+msgstr "괴물 조사 - 대형"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Vanguard/VanguardArchetype_LocalizedDescription
+#, fuzzy
 msgctxt "359a0740-6868-4704-a141-67afdfd6e978"
 msgid ""
 "Vanguards are battlefield commanders who focus on the brutality of combat "
 "and lead their allies to bloody victory. Quick to react to danger, a "
 "vanguard is a valuable scout, capable officer, and skilled tactician."
 msgstr ""
+"뱅가드는 치열한 전투에서 아군을 적의 피로 물든 승리로 이끄는 전장의 사령관입니다. 위험에 빠르게 반응하는 뱅가드는 뛰어난 정찰병이고, "
+"능력있는 장교이며, 노련한 전술가입니다."
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Vanguard/VanguardArchetype_LocalizedName
+#, fuzzy
 msgctxt "04099a10-7689-4e1c-ba45-507bbfa97364"
 msgid "Vanguard"
-msgstr ""
+msgstr "뱅가드"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Vanguard/VanguardBond_Description_String
+#, fuzzy
 msgctxt "995c224b-6515-4b2f-afc2-16e2d08f5a7f"
 msgid ""
 "At 4th level, a vanguard forms a bond with his fighting companions. As a move action, he can choose one of his current studied targets and grant half his studied target bonus against that target to all allies. This bonus lasts for a number of rounds equal to the slayer's Intelligence modifier (minimum 1).\n"
 "This ability replaces the slayer talent gained at 4th level."
 msgstr ""
+"4 레벨 부터, 뱅가드는 전투 동료와 유대를 형성합니다.조사된 대상 중 하나를 선택하여 조사대상 보너스의 절반을 모든 아군에게 "
+"부여합니다. 이 보너스는 슬레이어의 지능 수정치 만큼의 라운드 (최소 1) 동안 지속 됩니다.\\n"
+"이 능력은 슬레이어가 4 레벨에 얻는 재능을 대체합니다."
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Vanguard/VanguardBond_DisplayName_String
+#, fuzzy
 msgctxt "80bcb65e-1119-4e21-afaa-ac7066a03685"
 msgid "Vanguard's Bond"
-msgstr ""
+msgstr "뱅가드의 유대"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Vanguard/VanguardTacticianExtraUseTalent_m_Description
+#, fuzzy
 msgctxt "99262c59-9e06-48b6-afb5-e6d96881ed00"
 msgid ""
 "Vanguard gets an additional use per day of the Vanguard Tactician ability."
-msgstr ""
+msgstr "뱅가드는 선봉 전술가 능력의 하루 당 사용 가능 횟수를 하나 얻습니다."
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Vanguard/VanguardTacticianExtraUseTalent_m_DisplayName
+#, fuzzy
 msgctxt "07124582-1e04-4d51-bed8-1b66992a06c1"
 msgid "Vanguard Tactician — Extra Use"
-msgstr ""
+msgstr "선봉 전술가 - 추가 사용"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianAlliedSpellcasterAbility_DisplayName_String
+#, fuzzy
 msgctxt "def0ef21-5dce-43b2-b462-4c9efd81af51"
 msgid "Vanguard Tactician — Allied Spellcaster"
-msgstr ""
+msgstr "선봉 전술가 - 연합 시전"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianAlliedSpellcasterBuff_m_DisplayName
+#, fuzzy
 msgctxt "47367085-0661-40ce-8746-36898dd788c2"
 msgid "Vanguard Tactician — Allied Spellcaster"
-msgstr ""
+msgstr "선봉 전술가 - 연합 시전"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianBackToBackAbility_DisplayName_String
+#, fuzzy
 msgctxt "3eadc397-3b0a-4939-a4b5-399e71957c37"
 msgid "Vanguard Tactician — Back to Back"
-msgstr ""
+msgstr "선봉 전술가 - 등 맞대기"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianBaseAbility_Description_String
+#, fuzzy
 msgctxt "96f83998-2f86-459f-9ccb-67168f6dd94d"
 msgid ""
 "At 2nd level, a vanguard receives a teamwork feat as a bonus feat. He must meet the prerequisites for this feat. Once per day as a standard action, the vanguard can grant one of his teamwork feats to all allies within 30 feet who can see and hear him. Allies retain the use of this bonus feat for 3 rounds plus 1 round for every 2 levels the vanguard possesses. Allies do not need to meet the prerequisites of this bonus feat. Whenever the vanguard is able to select a new slayer talent, he can instead choose to gain an additional use per day of this ability.\n"
 "This ability replaces the slayer talent gained at 2nd level."
 msgstr ""
+"2 레벨에, 뱅가드는 선결조건을 만족하는 협동 특기를 보너스 피트로 받습니다. 하루에 한 번 일반 행동으로 뱅가드는 자신의 협동 특기 중 "
+"하나를 30 피트 내의 모든 아군에게 적용시킬 수 있습니다. 아군은 협동 특기를 3 + 뱅가드 레벨 2 마다 1 라운드 동안 보유합니다. "
+"아군은 협동 특기의 선결조건을 만족할 필요가 없습니다. 뱅가드가 새로운 슬레이어 재능을 얻을 때, 그 대신 이 능력의 하루 당 사용 가능 "
+"횟수를 늘리는 것을 택할 수도 있습니다.\\n"
+" 이 능력은 슬레이어가 2 레벨에 얻는 재능을 대체합니다."
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianBaseAbility_DisplayName_String
+#, fuzzy
 msgctxt "6d0a0128-f8a7-4168-9aaa-12ba6038d7d1"
 msgid "Vanguard Tactician"
-msgstr ""
+msgstr "선봉 전술가"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianCoordinatedDefenseAbility_DisplayName_String
+#, fuzzy
 msgctxt "54376f90-2c60-43ab-8628-9275b5229044"
 msgid "Vanguard Tactician — Coordinated Defense"
-msgstr ""
+msgstr "선봉 전술가 - 전법 합동 방어"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianCoordinatedManeuversAbility_DisplayName_String
+#, fuzzy
 msgctxt "d883c99c-4fef-415c-a7b2-c4b8c3c82402"
 msgid "Vanguard Tactician — Coordinated Maneuvers"
-msgstr ""
+msgstr "선봉 전술가 - 전법 합동 수행"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianOutflankAbility_DisplayName_String
+#, fuzzy
 msgctxt "74065581-3a7c-4dec-ac7a-bf45909c1594"
 msgid "Vanguard Tactician — Outflank"
-msgstr ""
+msgstr "선봉 전술가 - 측면 포위"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianPreciseStrikeAbility_DisplayName_String
+#, fuzzy
 msgctxt "c9e8c2d2-29d1-48f4-b696-28475e44ae75"
 msgid "Vanguard Tactician — Precise Strike"
-msgstr ""
+msgstr "선봉 전술가 - 정밀 타격"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianShakeItOffAbility_DisplayName_String
+#, fuzzy
 msgctxt "01765484-0ff6-4240-853c-7925d6a350da"
 msgid "Vanguard Tactician — Shake it Off"
-msgstr ""
+msgstr "선봉 전술가 - 떨쳐내기"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianShieldedCasterAbility_DisplayName_String
+#, fuzzy
 msgctxt "4ed62725-355f-4e41-a4b6-10fde5e95faf"
 msgid "Vanguard Tactician — Shielded Caster"
-msgstr ""
+msgstr "선봉 전술가 - 방패 뒤의 시전자"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianShieldWallAbility_DisplayName_String
+#, fuzzy
 msgctxt "7b9e43d1-c4a3-4a3a-9514-78044a0d632f"
 msgid "Vanguard Tactician — Shield Wall"
-msgstr ""
+msgstr "선봉 전술가 - 방패벽"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianSiezeTheMomentAbility_DisplayName_String
+#, fuzzy
 msgctxt "329a3488-c20f-4309-a33d-c27302c7b008"
 msgid "Vanguard Tactician — Seize the Moment"
-msgstr ""
+msgstr "선봉 전술가 - 순간 포착"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianTandemTripAbility_DisplayName_String
+#, fuzzy
 msgctxt "0af71893-7739-4f5b-80d1-a087aa0ad28d"
 msgid "Vanguard Tactician — Tandem Trip"
-msgstr ""
+msgstr "선봉 전술가 - 넘어뜨리기 연계"
 
 #. Mechanics/Blueprints/Classes/Slayer/Archetypes/Vanguard/Tactician/VanguardTacticianVolleyFireAbility_DisplayName_String
+#, fuzzy
 msgctxt "299c7693-4820-4c96-98d6-57189cc84627"
 msgid "Vanguard Tactician — Volley Fire"
-msgstr ""
+msgstr "선봉 전술가 - 일제 사격"
 
 #. Mechanics/Blueprints/Classes/Sorcerer/SorcererBloodlineSelection_m_Description
 msgctxt "aa51c8bf-a49c-4a67-ae56-05985d98cc04"
@@ -26215,31 +26327,40 @@ msgid "Defensive Powers"
 msgstr "방어 태세 능력"
 
 #. Mechanics/Blueprints/Classes/Swordlord/AldoriSwordlordAdaptiveTactics_Description_String
+#, fuzzy
 msgctxt "0e2e83f7-c17b-4b1b-923c-04593f5a128b"
 msgid ""
 "At 4th level, an Aldori swordlord learns to adapt his fighting style to counter his enemy's strengths. An Aldori swordlord reduces the attack roll penalty for fighting defensively or using Combat Expertise by 1 at 4th level and by 2 at 8th level.\n"
 "In addition, after a creature attacks an Aldori swordlord for the first time, he attempts a Perception check (DC = 10 + the opponent's base attack bonus). If successful, the Aldori swordlord gains a +2 circumstance bonus on attack rolls and to his AC against that creature until the end of combat."
 msgstr ""
+"4 레벨부터, 알도리 소드로드는 적에 맞춰서 그 힘을 받아치는 전투 방식을 배웁니다. 방어적 전투의 명중 굴림 페널티를 4 레벨에 1, "
+"8 레벨에 2 줄입니다.\\n"
+"또한 크리처가 알도리 소드로드를 처음 공격할 때, DC = 10 + 크리처의 기본 공격 보너스에 대한 지각 판정에 성공하면, 알도리 "
+"소드로드는 그 크리처를 상대로 명중 굴림과 AC에 +2 상황 보너스를 받습니다."
 
 #. Mechanics/Blueprints/Classes/Swordlord/AldoriSwordlordAdaptiveTactics_DisplayName_String
+#, fuzzy
 msgctxt "9c7e88fd-0746-4470-a8e8-96c967cd6ff8"
 msgid "Adaptive Tactics"
-msgstr ""
+msgstr "맞춤 전술"
 
 #. Mechanics/Blueprints/Classes/Swordlord/AldoriSwordlordConfoundingDuelist_Description_String
+#, fuzzy
 msgctxt "2925aeaf-919b-4f17-a0c6-2e03639cfc50"
 msgid ""
 "At 10th level, the penalty from Aldori swordlord's shatter confidence "
 "increases to -2. The target also loses all insight and competence bonuses to"
 " these checks."
-msgstr ""
+msgstr "10 레벨에, 전의 박살의 페널티가 -2로 늘어납니다. 또한 대상은 이 판정에 모든 통찰 및 능숙 보너스를 잃습니다."
 
 #. Mechanics/Blueprints/Classes/Swordlord/AldoriSwordlordConfoundingDuelist_DisplayName_String
+#, fuzzy
 msgctxt "26389389-36d6-42f5-9fa3-c3f89bc0c5d9"
 msgid "Confounding Duelist"
-msgstr ""
+msgstr "교란하는 결투가"
 
 #. Mechanics/Blueprints/Classes/Swordlord/AldoriSwordlordDefensiveParry_Description_String
+#, fuzzy
 msgctxt "32ef966c-53f7-4c70-9971-7ce946fbd419"
 msgid ""
 "At 3rd level, an Aldori swordlord gains a +1 bonus to his AC against melee "
@@ -26248,13 +26369,17 @@ msgid ""
 "the Aldori defender fighter archetype, levels in this class stack with his "
 "fighter levels when determining the AC bonus from this ability."
 msgstr ""
+"3 레벨에 알도리 소드로드는 결투용 검으로 전력 공격을 할 때 +1 AC 보너스를 받습니다. 이 보너스는 7 레벨에 +2 로 증가합니다. "
+"알도리 소드로드가 알도리 디펜더 전형 파이터 레벨을 갖고 있다면, 이 능력의 AC를 결정할 때 더해서 계산합니다."
 
 #. Mechanics/Blueprints/Classes/Swordlord/AldoriSwordlordDefensiveParry_DisplayName_String
+#, fuzzy
 msgctxt "5d01419d-c3af-44b0-bf56-6983f51afd1e"
 msgid "Defensive Parry"
-msgstr ""
+msgstr "방어적 쳐내기"
 
 #. Mechanics/Blueprints/Classes/Swordlord/AldoriSwordlordDeftStrike_Description_String
+#, fuzzy
 msgctxt "9d342bd9-9444-4aa3-8ce9-cdc47a3812dc"
 msgid ""
 "An Aldori swordlord can add his Dexterity bonus (if any) to damage rolls "
@@ -26264,25 +26389,32 @@ msgid ""
 "wielding a shield or using an off-hand weapon (including armor spikes, "
 "unarmed strikes, or natural weapons)."
 msgstr ""
+"알도리 소드로드는 결투용 검의 피해 굴림에 힘 보너스 대신 민첩 보너스를 더할 수 있습니다. 이 보너스는 결투용 검을 휘두르는게 한손이든 "
+"양손이든 모두 적용됩니다. 소드로드는 방패를 사용하거나 반대 손 무기(가시 갑옷, 비무장 타격 또는 자연 무기를 포함)를 사용하는 경우 "
+"이 능력을 사용할 수 없습니다."
 
 #. Mechanics/Blueprints/Classes/Swordlord/AldoriSwordlordDeftStrike_DisplayName_String
+#, fuzzy
 msgctxt "b1751ca7-e3c5-492b-8c67-1d9930df61d1"
 msgid "Deft Strike"
-msgstr ""
+msgstr "재빠른 타격"
 
 #. Mechanics/Blueprints/Classes/Swordlord/AldoriSwordlordDextrousDuelist_Description_String
+#, fuzzy
 msgctxt "cd531e36-1fa8-4dab-8f31-da1b95f5068f"
 msgid ""
 "At 7th level, an Aldori swordlord does not provoke attacks of opportunity "
 "when standing up from prone."
-msgstr ""
+msgstr "7 레벨부터 알도리 소드로드는 쓰러짐 상태에서 일어날 때 기회공격을 유발하지 않습니다."
 
 #. Mechanics/Blueprints/Classes/Swordlord/AldoriSwordlordDextrousDuelist_DisplayName_String
+#, fuzzy
 msgctxt "5cc1ba7f-0522-439f-a68c-eaa22d74cb7a"
 msgid "Dexterous Duelist"
-msgstr ""
+msgstr "민첩한 결투가"
 
 #. Mechanics/Blueprints/Classes/Swordlord/AldoriSwordlordDisplay_Description_String
+#, fuzzy
 msgctxt "9d8fe221-c809-45db-833e-c2d4164d2c16"
 msgid ""
 "At 2nd level, an Aldori swordlord adds a bonus equal to half his class level"
@@ -26292,25 +26424,32 @@ msgid ""
 " dueling sword: Greater Weapon Focus, Greater Weapon Specialization, "
 "Improved Critical, Weapon Focus, or Weapon Specialization."
 msgstr ""
+"2 레벨부터, 알도리 소드로드는 클래스 레벨의 절반을 협박에 쓰는 설득 기술 판정에 더합니다. 또한 결투용 검으로 현란한 과시를 쓸 때, "
+"결투용 검으로 선택한 다음의 특기 마다 설득 판정에 +1 보너스를 받습니다. 특기: 상급 무기 중점화, 상급 무기 전문화, 향상된 "
+"치명타, 무기 중점화, 무기 전문화"
 
 #. Mechanics/Blueprints/Classes/Swordlord/AldoriSwordlordDisplay_DisplayName_String
+#, fuzzy
 msgctxt "bec61674-e9f1-4131-a7f8-4906fd4d40da"
 msgid "Display Weapon Prowess"
-msgstr ""
+msgstr "무기술 과시"
 
 #. Mechanics/Blueprints/Classes/Swordlord/AldoriSwordlordSavingSlashGreater_Description_String
+#, fuzzy
 msgctxt "d3f15419-2c7b-431b-9f52-e439ab270865"
 msgid ""
 "At 9th level, an Aldori swordlord's saving slash has a 50% chance of "
 "reducing a critical hit to a normal hit."
-msgstr ""
+msgstr "9레벨부터 급소 가리기는 50% 확률로 치명타를 일반 공격으로 바꿉니다."
 
 #. Mechanics/Blueprints/Classes/Swordlord/AldoriSwordlordSavingSlashGreater_DisplayName_String
+#, fuzzy
 msgctxt "81457a36-12d8-4d36-b720-b1acd5c5adb2"
 msgid "Greater Saving Slash"
-msgstr ""
+msgstr "상급 급소 가리기"
 
 #. Mechanics/Blueprints/Classes/Swordlord/AldoriSwordlordSavingSlash_Description_String
+#, fuzzy
 msgctxt "a16f1a70-0621-4497-9c94-da4dfa914a2c"
 msgid ""
 "At 6th level, when wielding a dueling sword, an Aldori swordlord can try "
@@ -26318,13 +26457,17 @@ msgid ""
 "normal hit, with a 25% chance of success. This does not stack with the "
 "fortification special ability of magical armor or similar effects."
 msgstr ""
+"6 레벨부터, 결투용 검을 쓸 때, 알도리 소드로드는 25% 확률로 치명타를 빗겨내서 일반적인 피해를 받을 수 있습니다. 마법 갑옷의 "
+"방비 특수 능력 같은 유사한 효과와 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Classes/Swordlord/AldoriSwordlordSavingSlash_DisplayName_String
+#, fuzzy
 msgctxt "f91cfa1e-f54d-482f-add3-ddf503608157"
 msgid "Saving Slash"
-msgstr ""
+msgstr "급소 가리기"
 
 #. Mechanics/Blueprints/Classes/Swordlord/AldoriSwordlordShatterConfidence_Description_String
+#, fuzzy
 msgctxt "0305171d-e781-45d8-8fe6-abb2089e9c8b"
 msgid ""
 "At 5th level, an Aldori swordlord attempts a Persuasion skill check to "
@@ -26337,24 +26480,32 @@ msgid ""
 "attack rolls and saving throws, and loses all morale bonuses to these "
 "checks."
 msgstr ""
+"5 레벨부터 알도리 소드로드는 치명타나 무장해제, 갑옷 벗겨내기 전법을 성공시킨 적에게 설득 기술 판정으로 적을 위협하고 사기를 "
+"꺾습니다. 대상이 이미 동요 상태라면, 근접 공격이나 전법이 성공할 때 매 라운드 마다 한 번 설득 기술 판정으로 적의 사기를 더 꺾을 "
+"수 있습니다. 성공하면 대상은 명중 굴림과 내성 굴림에 -1 페널티가 추가되고, 이 판정에 대한 모든 사기 보너스를 잃습니다."
 
 #. Mechanics/Blueprints/Classes/Swordlord/AldoriSwordlordShatterConfidence_DisplayName_String
+#, fuzzy
 msgctxt "4c047cc4-fbbd-4bfb-acab-f3bd45ed75bb"
 msgid "Shatter Confidence"
-msgstr ""
+msgstr "전의 박살"
 
 #. Mechanics/Blueprints/Classes/Swordlord/AldoriSwordlord_Description_String
+#, fuzzy
 msgctxt "cea5b7ea-1bf8-4d6f-9350-e99f3ab2bb65"
 msgid ""
 "The swordlords follow no singular path to dueling mastery — some of those "
 "who take up the blade only dabble in its use, while others explore swordplay"
 " with the dueling weapon in unconventional ways."
 msgstr ""
+"소드로드는 결투의 대가에 이르는 길을 하나만 따르지는 않습니다. 어떤 이들은 결투용 검으로 부리는 기교를 가볍게 익히는데 그치지만, 어떤 "
+"이들은 그 기교를 남다른 방식으로 탐구합니다."
 
 #. Mechanics/Blueprints/Classes/Swordlord/AldoriSwordlord_DisplayName_String
+#, fuzzy
 msgctxt "4b3547ab-4b0d-4ba8-a378-f7892ae125ef"
 msgid "Aldori Swordlord"
-msgstr ""
+msgstr "알도리 소드로드"
 
 #. Mechanics/Blueprints/Classes/Swordlord/DeftStrike_m_Description
 msgctxt "2b0b4ece-4749-445f-b27f-b669230b405c"
