@@ -1,6 +1,20 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-15 18:51+0900\n"
+"PO-Revision-Date: 2020-06-15 09:51+0000\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/"
+"pathfinder_kingmaker/root/ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.3\n"
+
+#
 
 #. Mechanics/Blueprints/Root/BlueprintRoot_LocalizedTexts.LockedContainer
 msgctxt "d8e4fdba-9804-45c4-a2fd-7a2b12aed679"
@@ -21868,12 +21882,12 @@ msgstr "이 지역에 권리를 주장할 수 있습니다."
 #. Mechanics/Blueprints/Root/UITexts/KingdomRegionWindow_ClaimBtnLabel_String
 msgctxt "29273537-eaf5-4b1b-a99c-6b5caae57e04"
 msgid "Claim Region Project"
-msgstr "지역 권리 주장 계획"
+msgstr "지역 점령 계획"
 
 #. Mechanics/Blueprints/Root/UITexts/KingdomRegionWindow_ClaimRegionHint_String
 msgctxt "42cb50ea-20b3-406e-b133-9bcf6d6c1d1f"
 msgid "This region will be available to claim in the future."
-msgstr "이 지역은 나중에 권리 주장이 가능합니다."
+msgstr "이 지역은 나중에 점령이 가능합니다."
 
 #. Mechanics/Blueprints/Root/UITexts/KingdomRegionWindow_ResourceHeader_String
 msgctxt "5dffbc12-d44d-459b-a5be-8c6dc7cf964e"
