@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
 "PO-Revision-Date: 2020-06-15 18:04+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -1252,8 +1252,8 @@ msgid ""
 "remains at Rank 10, Stability is above rank 7, and Unrest is Worried or "
 "better. Maximum value is 40 BP per month."
 msgstr ""
-"이 교역의 가치는 주민이 10등급일 때, 치안이 7등급 이상일 때, 안정도가 우려 이상일 때 매달 +4 BP 만큼 증가해 최대 40 "
-"BP까지 증가합니다."
+"30일마다 4 BP를 제공합니다. 이 가치는 주민이 10등급이고, 치안이 7등급을 넘고, 안정도가 우려 이상일 때 매달 +4 BP 만큼 "
+"증가해 최대 40 BP까지 증가합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Projects/TradingWithCheliax_DisplayName_String
 msgctxt "ea4e7259-694d-4b66-820b-98040ab0b5ab"
@@ -1468,8 +1468,8 @@ msgid ""
 "Mansion, Monument, Noble's Villa, Pathfinder's Lodge, Temple of Abadar, Town"
 " Hall, Trade Shop, Waterfront) is reduced by 10%."
 msgstr ""
-"고정 주민 보너스가 있는 건물(바드 대학, 시청, 법원, 드워프 보루, 곡물 창고, 롱하우스, 사치품 상점, 대저택, 기념비, 귀족 "
-"별장, 패스파인더 지부, 아바다르 신전, 마을 회관, 무역 상점, 부두)의 비용이 10% 절감됩니다."
+"고정 주민 보너스가 있는 건물(바드 대학, 시청, 법원, 드워프 보루, 곡창, 롱하우스, 사치품 상점, 대저택, 기념비, 귀족 별장, "
+"패스파인더 지부, 아바다르 신전, 마을 회관, 무역 상점, 부둣가)의 비용이 10% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ComRank5-DiscountComBuildings_DisplayName_String
@@ -1528,8 +1528,8 @@ msgid ""
 "Mansion, Monument, Noble's Villa, Pathfinder's Lodge, Temple of Abadar, Town"
 " Hall, Trade Shop, Waterfront) is reduced by 15%."
 msgstr ""
-"고정 주민 보너스가 있는 건물(바드 대학, 시청, 법원, 드워프 보루, 곡물 창고, 롱하우스, 사치품 상점, 대저택, 기념비, 귀족 "
-"별장, 패스파인더 지부, 아바다르 신전, 마을 회관, 무역 상점, 부두)의 비용이 15% 절감됩니다."
+"고정 주민 보너스가 있는 건물(바드 대학, 시청, 법원, 드워프 보루, 곡창, 롱하우스, 사치품 상점, 대저택, 기념비, 귀족 별장, "
+"패스파인더 지부, 아바다르 신전, 마을 회관, 무역 상점, 부둣가)의 비용이 15% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ComRank9-DiscountComBuildings_DisplayName_String
@@ -1559,7 +1559,7 @@ msgid ""
 "by 15%."
 msgstr ""
 "고정 문화 보너스가 있는 건물(바바리안 경기장, 바드 대학, 시청, 축제, 롱하우스, 대저택, 박물관, 패스파인더 지부, 왕립 박물관, "
-"극장, 마을 회관, 대학, 부두)의 비용이 15% 절감됩니다."
+"극장, 마을 회관, 대학, 부둣가)의 비용이 15% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/CulRank5-DiscountCulBuildings_DisplayName_String
@@ -1616,7 +1616,7 @@ msgid ""
 " Community by 1 for each Success with the Regent or Treasurer. Receive 2 BP "
 "per week for every 20 points of Community above 200, up to 20 BP per week."
 msgstr ""
-"섭정과 재무관이 해결하는 모든 기회에 +2 보너스. 섭정이나 재무관이 성공할 때마다 주민 1 증가. 주민이 200 이상일 때 20점 마다 "
+"섭정과 재무관이 해결하는 모든 기회에 +2 보너스. 섭정이나 재무관이 성공할 때마다 주민 1 증가. 200을 넘어가는 주민 20점 마다 "
 "매주 2 BP, 최대 20 BP 제공."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
@@ -1631,7 +1631,7 @@ msgctxt "274bb8c4-71f7-487e-8ecc-1fb162c1e03f"
 msgid ""
 "+1 bonus to resolving any problem for every 20 points of Stability above "
 "200, up to +10 bonus."
-msgstr "모든 문제 해결시 치안 20점당 +1 보너스, 치안 200일때 최대 +10 보너스."
+msgstr "모든 문제 해결시 200을 넘는 치안 20점당 +1 보너스, 최대 +10 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank10-BlessingofAsmodeus_DisplayName
@@ -1764,7 +1764,7 @@ msgid ""
 "College, Festival, Forge, Foundry, Inn, Lumberyard, Luxury Store, Marina, "
 "Mint, Piers, Shop, Tavern, Trade Shop, Waterfront) is reduced by 15%."
 msgstr ""
-"고정 경제 보너스가 있는 건물(주조소, 제련소, 목재소, 잔교, 정박지, 부둣가, 상점, 무역 상점, 사치품 상점, 선술집, 여관, "
+"고정 경제 보너스가 있는 건물(주조소, 제련소, 목재소, 선착장, 정박지, 부둣가, 상점, 무역 상점, 사치품 상점, 선술집, 여관, "
 "안도란 은행, 은행, 축제, 조폐국)의 비용이 15% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
@@ -2058,8 +2058,8 @@ msgid ""
 " Shop, Monument, Park, Swordlords' Academy, Temple of Cayden Cailean, Town "
 "Hall) is reduced by 10%."
 msgstr ""
-"고정 민심 보너스가 있는 건물(약초상의, 알케미스트의 실험실, 바드 대학, 시청, 마르지 않는 분수, 이국적인 정원, 마법 상점, "
-"기념물, 공원, 소드로드 아카데미, 케이든 사원, 마을 회관)의 비용이 10% 감소합니다."
+"고정 민심 보너스가 있는 건물(약초상의, 알케미스트의 실험실, 바드 대학, 시청, 영구 분수, 이국적인 정원, 마법 상점, 기념물, "
+"공원, 소드로드 아카데미, 케이든 사원, 마을 회관)의 비용이 10% 감소합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/LoyRank3-DiscountLoyBuildings_DisplayName_String
@@ -2287,8 +2287,8 @@ msgid ""
 "Jail, Justiciaries' Garrison, Lighthouse, Military Academy, Swordlords' "
 "Academy, Temple of Asmodeus) is reduced by 10%."
 msgstr ""
-"고정 치안 보너스가 있는 건물(성, 저수지, 법원, 드워프 요새, 마르지 않는 분수, 요새, 헬나이트 성, 법관투사 주둔지, 등대, "
-"사관학교, 소드로드 아카데미, 아스모데우스 신전)의 비용이 10% 감소합니다."
+"고정 치안 보너스가 있는 건물(성, 저수조, 법원, 드워프 요새, 영구 분수, 요새, 헬나이트 성, 법관투사 주둔지, 등대, 사관학교, "
+"소드로드 아카데미, 아스모데우스 신전)의 비용이 10% 감소합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/StaRank2-DiscountStaBuildings_DisplayName_String
@@ -2329,8 +2329,8 @@ msgid ""
 "Jail, Justiciaries' Garrison, Lighthouse, Military Academy, Swordlords' "
 "Academy, Temple of Asmodeus) is reduced by 15%."
 msgstr ""
-"고정 치안 보너스가 있는 건물(성, 저수지, 법원, 드워프 요새, 마르지 않는 분수, 요새, 헬나이트 성, 법관투사 주둔지, 등대, "
-"사관학교, 소드로드 아카데미, 아스모데우스 신전)의 비용이 15% 감소합니다."
+"고정 치안 보너스가 있는 건물(성, 저수조, 법원, 드워프 요새, 영구 분수, 요새, 헬나이트 성, 법관투사 주둔지, 등대, 사관학교, "
+"소드로드 아카데미, 아스모데우스 신전)의 비용이 15% 감소합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/StaRank7-MoreDiscountStaBuildings_DisplayName_String
@@ -2673,158 +2673,157 @@ msgstr "첩보 등급이 8을 넘어설 때마다 매주 3 BP 제공."
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PartofRiverKingdoms_DisplayName
 msgctxt "3920599e-0535-41f0-8294-721cbcbb2ae2"
 msgid "Among the River Kingdoms"
-msgstr ""
+msgstr "강의 왕국들 사이에서"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxAsUsual_Description
 msgctxt "744551e2-8abd-4880-acea-2a953e9e49c8"
 msgid ""
 "Pitax has returned to its old ways. — After all, with or without Irovetti, "
 "the city has a spirit of its own!"
-msgstr ""
-"피탁스는 그들의 오래된 방식으로 돌아갔습니다. 결론적으로 이로베티와는 관계없이, 도시는 그들만의 고유한 정신을 가지고 있습니다!"
+msgstr "피탁스는 옛날처럼 돌아갔습니다. 결국 이로베티가 있든 말든 도시는 고유의 정신을 가지고 있습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxAsUsual_DisplayName
 msgctxt "7fb1f56a-7598-41aa-9702-46fc50f2ec62"
 msgid "Good Old Pitax"
-msgstr ""
+msgstr "훌륭한 옛 피탁스"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxCultureAnnameda_Description
 msgctxt "f975334a-727d-4e9a-94e2-9b050823df28"
 msgid ""
 "Maestro Belavarah has turned the Academy of Grand Arts into a free-spirited "
 "institution that welcomes true talent."
-msgstr ""
+msgstr "마에스트로 빌라바라는 대 예술 아카데미를 진정한 재능을 환영하는 자유로운 기관으로 변모시켰습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxCultureAnnameda_DisplayName
 msgctxt "67902834-7c2e-46cd-a959-b5a6d5f1dbc2"
 msgid "Annamede's Reign Over the Academy"
-msgstr ""
+msgstr "안나미데의 아카데미 장악"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxCultureAtalia_Description
 msgctxt "a2a8aaaa-0227-4ca1-a29e-83407c2c362f"
 msgid ""
 "Headmistress Atalia Gitaren has turned the Academy of Grand Arts into a "
 "respectable and stable institution."
-msgstr ""
+msgstr "아탈리아 기타렌 교장은 대 예술 아카데미를 존경스럽고 안정적인 기관으로 만들었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxCultureAtalia_DisplayName
 msgctxt "899f3be9-b84b-42eb-b540-2c39d18ab668"
 msgid "Atalia's Reign Over the Academy"
-msgstr ""
+msgstr "아탈리아의 아카데미 장악"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxCultureElection_Description
 msgctxt "aa9e3401-4124-437c-90f5-f12af13a4338"
 msgid ""
 "Without a definite leader, the Academy of Grand Arts has become a strange "
 "but colorful place."
-msgstr ""
+msgstr "확실한 지도자가 없는 대예술 아카데미는 이상하지만 다채로운 곳이 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxCultureElection_DisplayName
 msgctxt "1d8ce08e-b4bd-4e23-91aa-8bf5145d134b"
 msgid "Self-administration of the Academy"
-msgstr ""
+msgstr "아카데미 자치행정"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxCultureNoAcademy_Description
 msgctxt "35dbe8e4-6d9d-4fcb-8dbd-6ec5f88a8a60"
 msgid ""
 "There's no place left for idle arts in the ragged Pitax. The Academy of "
 "Grand Arts was dismantled."
-msgstr ""
+msgstr "너덜너덜해진 피탁스에는 한가롭게 예술이나 하고있을 공간이 없습니다. 대 예술 아카데미는 해체되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxCultureNoAcademy_DisplayName
 msgctxt "1b2d67fe-5f1c-4d0e-8f66-920a7dc2cdd8"
 msgid "Cultural Stagnation"
-msgstr ""
+msgstr "문화 침체"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxIntrigues_Description
 msgctxt "11a6395e-642b-46cb-8827-5739b17fd9a1"
 msgid ""
 "Internal struggle has turned Pitax into a boiling cauldron of intrigue, "
 "betrayal, and even outright violence."
-msgstr ""
+msgstr "피탁스는 내분으로 인해 음모와 배신, 노골적인 폭력이 판치는 아수라장이 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxIntrigues_DisplayName
 msgctxt "932827c9-d1af-4b33-a2af-5914400406ac"
 msgid "Struggling Times for Pitax"
-msgstr ""
+msgstr "피탁스의 시련기"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxMosconiBonus_Description
 msgctxt "24e50fe0-99de-45be-aa70-f52b8571d54c"
 msgid ""
 "Serving as the new governor, Stefano brought a measure of stability to "
 "ragged Pitax."
-msgstr "새로운 영주로 부임한 스테파노는  어수선한 피탁스에 안정감을 불러왔습니다."
+msgstr "새로운 영주로 부임한 스테파노는 어수선한 피탁스에 안정감을 불러왔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxMosconiBonus_DisplayName
 msgctxt "9b5142aa-0989-4b59-900d-a74094b4e4cc"
 msgid "Moskoni's Ways"
-msgstr ""
+msgstr "모스코니의 방식"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxNewCrime_Description
 msgctxt "0d9a9d9d-1e97-420c-b672-acb9afa4b2e4"
 msgid ""
 "Pitax's new crime lords rule the city with a single concern: making a "
 "handsome profit."
-msgstr "피탁스의 새로운 범죄조직 수장들은 하나의 관심사로 도시를 운영합니다: 많은 이윤을 만들 것."
+msgstr "피탁스의 새로운 범죄조직의 두목들이 도시를 다스리는 이유는 딱 하나입니다. 최대한 많이 남겨먹는 것이지요."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxNewCrime_DisplayName
 msgctxt "b2cbdaa1-80bd-493e-b66a-1f803ca64c37"
 msgid "New Rulers of Pitax"
-msgstr ""
+msgstr "피탁스의 새 통치자들"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxNoGuards_Description
 msgctxt "30cd3a5b-da7a-4c89-9c30-fcf2b6dd651f"
 msgid "Without its guards, Pitax plunged into anarchy."
-msgstr ""
+msgstr "경비대 없는 피탁스는 무정부 상태에 빠졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxNoGuards_DisplayName
 msgctxt "989faa64-ca18-4756-bc19-73839eae83ca"
 msgid "Pitax in Chaos"
-msgstr ""
+msgstr "혼란에 빠진 피탁스"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxPiratesHired_Description
 msgctxt "1b76e12b-afb5-48f1-925b-3722b991d61f"
 msgid "The pirates bring in part of their income as tribute."
-msgstr ""
+msgstr "해적들이 수입의 일부를 바칩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxPiratesHired_DisplayName
 msgctxt "7d4dda33-830f-41e9-8f3a-95ba60712569"
 msgid "Pirates' Lot"
-msgstr ""
+msgstr "해적 무리"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxPiratesMilitary_Description
 msgctxt "e3a038df-40d4-408c-bd5a-d886d9305957"
 msgid ""
 "Our river regiments, reinforced by the Pitaxian pirates, have become a force"
 " to be reckoned with."
-msgstr ""
+msgstr "피탁스 해적들로 강화된 우리 함대는 무시할 수 없는 세력이 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxPiratesMilitary_DisplayName
 msgctxt "15e05ffa-721d-40a5-ade8-74ee4ab46388"
 msgid "Pitaxian Fleet"
-msgstr ""
+msgstr "피탁스 함대"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxRedemptionBonus_Description
 msgctxt "e2d6c247-362d-4ef7-8743-97fba36e8656"
 msgid "The admiration of Pitax's citizens brings fortune and prosperity."
-msgstr ""
+msgstr "피탁스 시민의 존경은 부와 번영을 가져다 주었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxRedemptionBonus_DisplayName
 msgctxt "ab021129-7796-4846-a9d3-1a36a785b17b"
 msgid "Love for the New Ruler"
-msgstr ""
+msgstr "사랑받는 새 통치자"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxRedemptionPenalty_Description
 msgctxt "6593aea4-cf1b-479a-bcd0-058f288ff023"
 msgid ""
 "Old grudges are not so easily forgotten. — The consequences will linger for "
 "some time."
-msgstr ""
+msgstr "오래된 원한은 그렇게 쉽게 잊혀지지 않습니다. 앙금이 당분간 사라지지 않을 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxRedemptionPenalty_DisplayName
 msgctxt "e4b65a7c-a60b-470d-bd92-b84fc72732e2"
 msgid "Pitaxian Hatred"
-msgstr ""
+msgstr "피탁스의 증오"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/SellemiusDebuff_Description
 msgctxt "d1b48cff-04c7-4311-b5e3-847d7656f4dd"
@@ -2833,11 +2832,13 @@ msgid ""
 "builders guild is charging us unfair prices. The cost of all buildings "
 "increases by 25%"
 msgstr ""
+"요셉 셀레미우스와의 계약은 거의 이득이 없는 것으로 판명되었습니다. 레스토프의 건축 조합이 불공정한 대금을 청구하고 있습니다. 건축 비용 "
+"25% 증가"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/SellemiusDebuff_DisplayName
 msgctxt "73866643-6046-4e94-9138-40ec56ac89bf"
 msgid "Unfair Prices"
-msgstr ""
+msgstr "불공정 가격"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/Shared_BaronyIsRavagedByBarbarians_Description_String
 msgctxt "5b0cd98f-159f-41ae-97f9-c62291ef12e3"
@@ -2847,6 +2848,8 @@ msgid ""
 "with a Success or Triumph result, the increase in the respective stat is "
 "reduced by 2."
 msgstr ""
+"최근 나라에 발생한 재난의 여파가 가시지 않았습니다. 수입이 턴당 10 BP씩 감소합니다. 조언자가 사건을 성공 또는 대성공으로 해결할 "
+"때마다, 관련 지표의 상승이 2 만큼 줄어듭니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/Shared_BaronyIsRavagedByTrolls_Description_String
 msgctxt "1df777d2-6d10-4a90-b1d4-b8527c41c6d6"
@@ -2856,18 +2859,20 @@ msgid ""
 " a Success or Triumph result, the increase in the respective stat is reduced"
 " by 1."
 msgstr ""
+"최근 나라에 발생한 재난의 여파가 가시지 않았습니다. 수입이 턴당 5 BP씩 감소합니다. 조언자가 사건을 성공 또는 대성공으로 해결할 "
+"때마다, 관련 지표의 상승이 1 만큼 줄어듭니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/SpiesofHouseLebeda_Description
 msgctxt "8697a747-edae-404b-9bd6-22f53695bd6f"
 msgid ""
 "All events that could be solved by the Grand Diplomat or Minister must roll "
 "2 resolution checks with a -2 penalty, and pick the worse result."
-msgstr ""
+msgstr "수석 외교관이나 장관이 해결하는 모든 사건은 -2 페널티를 받고 두 번 굴려서 더 나쁜 결과를 고릅니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/SpiesofHouseLebeda_DisplayName
 msgctxt "0ab62e51-6a61-4357-8c56-8327d8dceab8"
 msgid "Lebeda Spies"
-msgstr ""
+msgstr "레베다 첩자"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/StrategicPartnership_Description
 msgctxt "906cbef9-1a77-45d8-baf3-1e1c07ca3245"
@@ -2896,23 +2901,23 @@ msgctxt "4cf7d7db-0543-48d1-97e5-af89c5d50627"
 msgid ""
 "Every region along the Brevan border which has received non-military "
 "upgrades provides 2 BP per week."
-msgstr ""
+msgstr "비군사 승급을 한 브레보이 국경 지역 마다 매주 2 BP 제공."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/TradingWithJamandi_DisplayName_String
 msgctxt "56b28f5b-0d0e-44c2-940c-425cf580835d"
 msgid "Trading with Restov"
-msgstr ""
+msgstr "레스토프와의 교역"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/VarnholdVanished_Description
 msgctxt "3f27709c-7d75-4eb3-bd77-2a161f446859"
 msgid ""
 "All the people of Varnhold have vanished. The town must be repopulated."
-msgstr ""
+msgstr "반홀드의 모든 사람이 사라졌습니다. 마을에 다시 사람을 모아야 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/VarnholdVanished_DisplayName
 msgctxt "dba0fad5-08ea-4fae-8674-1a05e17e737e"
 msgid "Ghost Town"
-msgstr ""
+msgstr "유령 마을"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Academy_Description
 msgctxt "10e5730f-52b8-4d1c-b782-ede340948711"
@@ -2948,7 +2953,7 @@ msgstr "알케미스트"
 #. Mechanics/Blueprints/Kingdom/Buildings/Alchemist_Name_1
 msgctxt "98c739f8-96db-4f9f-b5f4-e034c16d075e"
 msgid "Alchemist Laboratory"
-msgstr "연금술사 연구실"
+msgstr "알케미스트 연구실"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Andoran Bank_Description
 msgctxt "76df9609-e1c8-4d95-a641-892f817d4a29"
@@ -3216,12 +3221,12 @@ msgid ""
 "Affects: Jail, Reinforced Wall, School, Stone Wall, Tavern, Watchtower."
 msgstr ""
 "도시 경비대, 민병대 및 군대를 수용하기 위한 건물입니다. 롱하우스 근처에 있을 때 치안에 +1. \n"
-"영향: 감옥, 강화 벽, 학교, 돌 벽, 감시탑."
+"영향: 감옥, 강화벽, 학교, 돌벽, 감시탑."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Barracks_Name
 msgctxt "4e4480ea-8320-4352-90ea-43eead48fc3a"
 msgid "Barracks"
-msgstr "병영"
+msgstr "막사"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Black Market_Description
 msgctxt "7fda080c-92b0-4c8c-9859-5b6c352ae988"
@@ -3329,7 +3334,7 @@ msgstr "담수의 공급처로, 화재나 포위 상황에 매우 유용합니�
 #. Mechanics/Blueprints/Kingdom/Buildings/Cistern_Name
 msgctxt "c219314d-0103-4c61-89da-091a95b721a4"
 msgid "Cistern"
-msgstr "저수지"
+msgstr "저수조"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Citadel_Description
 msgctxt "f05cb7ac-3df1-43da-bf64-86c2920a87bc"
@@ -3339,7 +3344,7 @@ msgid ""
 "Affects: Castle, Palace."
 msgstr ""
 "노련한 참전 용사들이 거주하며 훈련 중인 거점이자 모병소. 롱하우스에 인접 시 치안 +2.\n"
-"병영, 주둔지의 영향 건물 계승.\n"
+"막사, 주둔지의 영향 건물 계승.\n"
 "영향: 성, 궁전."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Citadel_Name
@@ -3369,7 +3374,8 @@ msgid ""
 "A building where cases are heard and disputes resolved according to the rule of law by mostly-impartial judges. +4 bonus to resolving problems with the Warden in this region. Restricted to {mf|baronies|baronies|kingdoms|kingdoms} with a Lawful alignment.\n"
 "Affects: Library."
 msgstr ""
-"대체로 공정한 판사가 법의 지배에 따라 사건을 듣고 분쟁을 해결하는 장소. 이 지역에서 감시관이 문제를 해결할 때 +4 보너스. {mf|남작령|남작령|왕국|왕국}의 성향이 질서여야 합니다.\n"
+"대체로 공정한 판사가 사건을 듣고 법의 지배에 따라 분쟁을 해결하는 장소. 이 지역에서 감시관이 문제를 해결할 때 +4 보너스. "
+"{mf|남작령|남작령|왕국|왕국}의 성향이 질서여야 합니다.\n"
 "영향: 도서관."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Courthouse_Name
@@ -3414,7 +3420,7 @@ msgctxt "829c0a8b-abf4-4a62-861e-0b5200883149"
 msgid ""
 "Indestructible walls and towers built by dwarves — the best architects on "
 "Golarion. Counts as Reinforced Walls."
-msgstr "골라리온 최고의 건축가인 드워프가 지은 난공불락의 성벽과 탑입니다.—강화벽으로 간주됩니다."
+msgstr "골라리온 최고의 건축가인 드워프가 지은 난공불락의 성벽과 탑입니다. 강화벽으로 간주됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Dwarven Bastion_Name
 msgctxt "93ab5be2-e264-4b80-beb8-def9b4c06b2c"
@@ -3450,7 +3456,7 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/Buildings/Everflowing Spring_Name
 msgctxt "745eb655-183f-4858-ae01-1819764b53d9"
 msgid "Everflowing Spring"
-msgstr "마르지 않는 분수"
+msgstr "영구 분수"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Exotic Garden_Description
 msgctxt "4211466e-2006-4195-bf62-aa81320ccf2b"
@@ -3474,11 +3480,14 @@ msgid ""
 "A place where the common folk can trade and have their fun. Increases Economy by +1 for each adjacent building that increases Economy. Restricted to {mf|baronies|baronies|kingdoms|kingdoms} with a with a Neutral alignment.\n"
 "Affects: Forge, Foundry, Trade Shop."
 msgstr ""
+"평민들이 거래도 하고 재미도 보는 곳. 경제를 올려주는 건물이 인접할 때마다 경제에 +1. {mf|남작령|남작령|왕국|왕국}의 성향이 "
+"중립이어야 합니다.\n"
+"영향: 제련소, 주조소, 무역 상점."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Fair_Name
 msgctxt "6d77c22c-64fc-441e-a1c1-149112787197"
 msgid "Fair"
-msgstr ""
+msgstr "장마당"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Festival_Description
 msgctxt "9cf1aea1-42f1-4c8b-8b5b-159fb376c007"
@@ -3488,11 +3497,13 @@ msgid ""
 "adjacent building that already provides an Economy and/or Culture bonus, a "
 "Festival increases that bonus by +1. Counts as a Fair."
 msgstr ""
+"마상 시합을 비롯한 여러 가지 축제들. 용감한 전사들이 솜씨를 겨뤄 관객들을 환호하게 만드는 곳. 경제/문화 보너스를 주는 건물이 인접할 "
+"때마다 경제/문화에 +1 보너스. 장마당으로 간주합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Festival_Name
 msgctxt "c4bd9248-ea42-4374-a58b-bae6d7ab7e4a"
 msgid "Festival"
-msgstr ""
+msgstr "축제"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Forge_Description
 msgctxt "a8ab7755-27c3-4c0e-84f4-6e7f2eec83d6"
@@ -3500,11 +3511,13 @@ msgid ""
 "A workshop where skilled smiths use advanced technologies and can craft almost anything. +1 to Economy when adjacent to a Shop, and an additional +1 to Economy when adjacent to a Fair.\n"
 "Affects: Castle."
 msgstr ""
+"숙련된 대장장이가 첨단 기술로 거의 모든 것을 만들어내는 작업장. 상점에 인접시 경제에 +1. 장마당에 인접시 추가로 경제에 +1.\n"
+"영향: 성."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Forge_Name
 msgctxt "70121707-de27-411a-83f5-f97d27ac60f4"
 msgid "Forge"
-msgstr ""
+msgstr "제련소"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Fort_Description
 msgctxt "9b5497e4-d986-4bf9-9c8b-7b2e28e11e40"
@@ -3512,11 +3525,14 @@ msgid ""
 "A fortified outpost for protection against bandits, foreign aggressors, and dangerous monsters. +1 to Espionage when located in a settlement with a Watchtower; +1 to Military in a settlement with a Garrison; and +1 to Stability in a settlement with a Jail.\n"
 "Affects: Jail."
 msgstr ""
+"도적과 외침과 몬스터의 위협에 맞서는 요새화된 전초 기지. 정착지에 감시탑이 있으면 +1 첩보; 정착지에 주둔지가 있으면 +1 군사; "
+"정착지에 감옥이 있으면 +1 치안.\n"
+"영향: 감옥."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Fort_Name
 msgctxt "c717f18f-7beb-4493-b237-a2b63edc52d4"
 msgid "Fort"
-msgstr ""
+msgstr "요새"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Forum_Description
 msgctxt "8869c889-c9a6-4bf3-8ac0-88c42ec10ff3"
@@ -3527,11 +3543,13 @@ msgid ""
 "settlement that increases Loyalty and that other stat, but only once for "
 "each stat."
 msgstr ""
+"도시 광장은 사람들이 모여 최근 소식, 미래 설계, 이민 계획 등을 논하는 곳입니다. 정착지 내 민심과 다른 지표를 올려주는 건물마다 "
+"민심과 다른 지표에 +1. 단, 민심 외에는 한 번씩만 적용."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Forum_Name
 msgctxt "29eee0ed-08f6-461b-a3b3-3304858f9cf0"
 msgid "Forum"
-msgstr ""
+msgstr "집회 광장"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Foundry_Description
 msgctxt "73afbb41-1843-40dc-b2ec-05c4056979c9"
@@ -3539,11 +3557,13 @@ msgid ""
 "Processes and refines ore into finished metal. +1 to Economy when adjacent to a Shop, and an additional +1 to Economy when adjacent to a Fair.\n"
 "Affects: Castle."
 msgstr ""
+"광석을 가공하여 금속 제품으로 주조합니다. 상점과 인접시 경제 +1, 장마당에 인접시 추가로 경제 +1.\n"
+"영향: 성."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Foundry_Name
 msgctxt "0c4e392b-ab06-4b07-8307-780d007c910a"
 msgid "Foundry"
-msgstr ""
+msgstr "주조소"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Gambling Den_Description
 msgctxt "3132dbee-6637-4aa3-9150-951885cafbb4"
@@ -3551,11 +3571,16 @@ msgid ""
 "An illicit place for games of skill and chance. Wagers are taken on all manner of stakes. -1 penalty when the Warden attempts to resolve situations in this region. Every 30 days, decreases Economy by 3 and provides 10 BP. If you paid more heed to the needs of bandits than the common folk as Community rank increased, provides an additional 1-100 BP every 30 days.\n"
 "Can only be built in settlements housing a Thieves Guild. Restricted to {mf|baronies|baronies|kingdoms|kingdoms} with a with a Neutral, Chaotic Neutral, Neutral Evil or Chaotic Evil alignment."
 msgstr ""
+"기술과 행운을 겨루는 불법적인 장소. 노름꾼들은 내기라면 뭐든지 돈을 겁니다. 감시관이 이 지역의 상황을 해결할 때 -1 페널티. "
+"30일마다 경제가 3 감소하고 10 BP 획득. 평민들보다 도적의 편에 서면 주민 등급이 오름에 따라 매달 1-100 BP를 추가로 획득."
+"\n"
+"도둑 조합을 지은 정착지에만 지을 수 있습니다. {mf|남작령|남작령|왕국|왕국}의 성향이 중립, 혼돈 중립, 중립 악, 혼돈 악이어야 "
+"합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Gambling Den_Name
 msgctxt "b5e68b1e-5128-47ed-a6b8-fbe54fe51745"
 msgid "Gambling Den"
-msgstr ""
+msgstr "도박굴"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Garrison_Description
 msgctxt "703a8b69-2858-449d-a447-dab68a686c03"
@@ -3564,11 +3589,14 @@ msgid ""
 "Inherits affected buildings from: Barracks.\n"
 "Affects: Bank, Fort, Troll Quarters."
 msgstr ""
+"군대가 주둔하고, 경비대를 훈련하며, 민병대를 모집하는 큰 건물. 롱하우스에 인접시 +1 치안\n"
+"막사의 영향 건물 계승\n"
+"영향: 은행, 요새, 트롤 거주구."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Garrison_Name
 msgctxt "ae351249-e327-4b82-b33c-665e3bb869e2"
 msgid "Garrison"
-msgstr ""
+msgstr "주둔지"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Goblin Quarters_Description
 msgctxt "ea6e3013-ce72-4298-a17f-0177a2a2af17"
@@ -3576,23 +3604,25 @@ msgid ""
 "A living place for goblins. Could easily be mistaken for a garbage dump.\n"
 "Affects: Barbarian Arena."
 msgstr ""
+"고블린이 사는 장소. 쓰레기 처리장으로 오해받기 쉽습니다.\n"
+"영향: 바바리안 경기장."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Goblin Quarters_Name
 msgctxt "2431aaba-73ae-496c-9c1b-8ba6e1108c20"
 msgid "Goblin Quarters"
-msgstr ""
+msgstr "고블린 거주구"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Granary_Description
 msgctxt "16f7ae9f-2250-46cf-9ee5-9c99d4a93506"
 msgid ""
 "A place to store grain and food.\n"
 "Affects: Windmill."
-msgstr ""
+msgstr "곡물과 음식을 저장하는 곳."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Granary_Name
 msgctxt "46c8cda5-85b3-4f98-93dd-3ef9a71314c9"
 msgid "Granary"
-msgstr ""
+msgstr "곡창"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Grand Temple_Description
 msgctxt "67c3f858-226e-415f-9a64-e909166f6606"
@@ -3601,11 +3631,14 @@ msgid ""
 "Inherits affected buildings from: Shrine, Temple.\n"
 "Affects: Palace."
 msgstr ""
+"후견신의 위엄을 찬양하는 건축학적 걸작.  기념비에 인접시 신성 +1, 롱하우스에 인접시 민심 +1.\n"
+"사당, 신전의 영향 건물 계승.\n"
+"영향: 궁전."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Grand Temple_Name
 msgctxt "88c5acd3-5c98-4c97-ad4f-a4edd5a4025f"
 msgid "Grand Temple"
-msgstr ""
+msgstr "대사원"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Halflings Brewery_Description
 msgctxt "60d40b08-c964-44b6-af59-aa7e7ab732d8"
@@ -3614,11 +3647,13 @@ msgid ""
 "alchoholic beverages. 10% chance to earn 3 BP each week, and 10% chance to "
 "earn 1 BP each week."
 msgstr ""
+"별난 하플링들이 놀라운 알콜 약재 및 알콜 음료를 만드는 기업. 3 BP를 벌 확률이 매주 10%, 1 BP를 벌 확률이 매주 10% "
+"있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Halflings Brewery_Name
 msgctxt "64db0d5b-0c8d-4c57-ab20-fdbe549add29"
 msgid "Halflings Brewery"
-msgstr ""
+msgstr "하플링 양조장"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Hellknights Castle_Description
 msgctxt "e2266ffc-e42b-47fc-9798-af5905d5a80c"
@@ -3690,7 +3725,7 @@ msgid ""
 "A fortified structure for housing criminals. +1 to Stability when adjacent to a Barracks, and another +1 to Stability when adjacent to a Fort.\n"
 "Affects: Fort."
 msgstr ""
-"범죄자를 수감하시 위해 강화된 구조물입니다. 병영에 인접 할 때 치안에 +1을 받습니다, 요새에 인접한 경우의 치안에 +1을 받습니다.\n"
+"범죄자를 수감하시 위해 강화된 구조물입니다. 막사에 인접 할 때 치안에 +1을 받습니다, 요새에 인접한 경우의 치안에 +1을 받습니다.\n"
 "영향: 요새."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Jail_Name
@@ -3767,8 +3802,8 @@ msgid ""
 "construction. +1 to Relations when located in a settlement with Piers. A "
 "Sacred Grove cannot be built in a settlement housing a Lumberyard."
 msgstr ""
-"건축을 위해 필요한 사전 통나무, 보드 및 목재 재료를 생산하는 곳입니다. 정착치에 잔교가 있을 경우 관계에 +1을 습니다. 신성한 숲은"
-" 재목 저장소가 있는 정착지에 지어 질 수 없습니다."
+"건축을 위해 필요한 사전 통나무, 보드 및 목재 재료를 생산하는 곳입니다. 정착치에 선착장가 있을 경우 관계에 +1을 습니다. 신성한 "
+"숲은 재목 저장소가 있는 정착지에 지어 질 수 없습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Lumberyard_Name
 msgctxt "5b8090ad-c731-4787-852f-876494ab4502"
@@ -4056,7 +4091,7 @@ msgid ""
 "The best fortifications that a wealthy city can afford. +1 to Stability when located in a settlement with a Barracks.\n"
 "Affects: Castle, Watchtower."
 msgstr ""
-"부유한 도시가 보유할 수 있는 최상의 요새입니다. 병영과 인접하여 건설되는 경우 +1의 안정성을 얻습니다.\n"
+"부유한 도시가 보유할 수 있는 최상의 요새입니다. 막사와 인접하여 건설되는 경우 +1의 안정성을 얻습니다.\n"
 "\n"
 "영향: 성, 감시탑."
 
@@ -31508,8 +31543,8 @@ msgid ""
 "Monument, Noble's Villa, Pathfinder's Lodge, Temple of Abadar, Town Hall, "
 "Trade Shop, Waterfront) is reduced by 10%."
 msgstr ""
-"고정 주민 보너스가 있는 건물(바드 대학, 롱하우스, 마을 회관, 시청, 법원, 드워프 요새, 곡물 창고, 무역 상점, 사치품 상점, "
-"대저택, 기념비, 귀족 별장, 패스파인더 지부, 아바다르 신전, 정박지, 부둣가)의 비용이 10% 절감됩니다."
+"고정 주민 보너스가 있는 건물(바드 대학, 롱하우스, 마을 회관, 시청, 법원, 드워프 요새, 곡창, 무역 상점, 사치품 상점, 대저택, "
+"기념비, 귀족 별장, 패스파인더 지부, 아바다르 신전, 정박지, 부둣가)의 비용이 10% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/ComRank5-DiscountonComBuildings_LocalizedName
 msgctxt "15f2f39e-960c-466e-b1b1-4f4eb7510802"
@@ -31563,8 +31598,8 @@ msgid ""
 "Monument, Noble's Villa, Pathfinder's Lodge, Temple of Abadar, Town Hall, "
 "Trade Shop, Waterfront) is reduced by 15%."
 msgstr ""
-"고정 주민 보너스가 있는 건물(바드 대학, 롱하우스, 마을 회관, 시청, 법원, 드워프 요새, 곡물 창고, 무역 상점, 사치품 상점, "
-"대저택, 기념비, 귀족 별장, 패스파인더 지부, 아바다르 신전, 정박지, 부둣가)의 비용이 15% 절감됩니다."
+"고정 주민 보너스가 있는 건물(바드 대학, 롱하우스, 마을 회관, 시청, 법원, 드워프 요새, 곡창, 무역 상점, 사치품 상점, 대저택, "
+"기념비, 귀족 별장, 패스파인더 지부, 아바다르 신전, 정박지, 부둣가)의 비용이 15% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/ComRank9-DiscountonComBuildings_LocalizedName
 msgctxt "b3e05a6d-5ab2-47f5-9bb4-d97866ffe7d6"
@@ -31873,8 +31908,8 @@ msgid ""
 " Hall, Everflowing Spring, Exotic Garden, Herbalist, Magic Shop, Monument, "
 "Park, Swordlords' Academy, Temple of Caiden, Town Hall) is reduced by 10%."
 msgstr ""
-"고정 민심 보너스가 있는 건물(약초상의 집,  알케미스트의 실험실, 바드 대학, 시청, 마르지 않는 분수, 이국적인 정원, 마법 상점, "
-"기념물, 공원, 소드로드 아카데미, 케이든 사원, 마을 회관)의 비용이 10% 감소합니다."
+"고정 민심 보너스가 있는 건물(약초상의 집,  알케미스트의 실험실, 바드 대학, 시청, 영구 분수, 이국적인 정원, 마법 상점, 기념물, "
+"공원, 소드로드 아카데미, 케이든 사원, 마을 회관)의 비용이 10% 감소합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/LoyRank3-DiscountonLoyBuildings_LocalizedName
 msgctxt "b837c6fc-c340-414d-b0b1-74f04e67fe7b"
@@ -32185,8 +32220,8 @@ msgid ""
 "Justiciaries' Garrison, Lighthouse, Military Academy, Swordlords' Academy, "
 "Temple of Asmodeus) is reduced by 10%."
 msgstr ""
-"고정 치안 보너스가 있는 건물(성, 저수지, 법원, 드워프 요새, 마르지 않는 분수, 요새, 헬나이트 성, 법관투사 주둔지, 등대, "
-"사관학교, 소드로드 아카데미, 아스모데우스 신전)의 비용이 10% 감소합니다."
+"고정 치안 보너스가 있는 건물(성, 저수조, 법원, 드워프 요새, 영구 분수, 요새, 헬나이트 성, 법관투사 주둔지, 등대, 사관학교, "
+"소드로드 아카데미, 아스모데우스 신전)의 비용이 10% 감소합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/StaRank2-DiscountonStaBuildings_LocalizedName
 msgctxt "6f3e86b9-90c1-4700-b7e2-4e97489c9b19"
@@ -32246,8 +32281,8 @@ msgid ""
 "Justiciaries' Garrison, Lighthouse, Military Academy, Swordlords' Academy, "
 "Temple of Asmodeus) is reduced by 15%."
 msgstr ""
-"고정 치안 보너스가 있는 건물(성, 저수지, 법원, 드워프 요새, 마르지 않는 분수, 요새, 헬나이트 성, 법관투사 주둔지, 등대, "
-"사관학교, 소드로드 아카데미, 아스모데우스 신전)의 비용이 15% 감소합니다."
+"고정 치안 보너스가 있는 건물(성, 저수조, 법원, 드워프 요새, 영구 분수, 요새, 헬나이트 성, 법관투사 주둔지, 등대, 사관학교, "
+"소드로드 아카데미, 아스모데우스 신전)의 비용이 15% 감소합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/StaRank7-MoreDiscountonStaBuildings_LocalizedName
 msgctxt "70c4db3d-6e9c-4d9d-a93f-551b4a3d3e64"
@@ -34968,8 +35003,8 @@ msgid ""
 "Community and Loyalty for every Brewery, Granary and Windmill in this and "
 "all adjacent regions."
 msgstr ""
-"던스워드 초원에 새로운 생활을 가져다 주십시오. 농작물과 정원이 사이클롭스 제국의 무서운 폐허들 사이에서 번성하도록 하십시오. 효과: 이"
-" 지역 및 인접 지역의 모든 양조장, 곡물 창고 및 풍차의 주민 및 민심 +1"
+"던스워드 초원에 새로운 생활을 가져다 주십시오. 농작물과 정원이 사이클롭스 제국의 무서운 폐허들 사이에서 번성하도록 하십시오. 효과: 이 "
+"지역 및 인접 지역의 모든 양조장, 곡창 및 풍차의 주민 및 민심 +1"
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Dunsward_Upgrade_AgriculturalParadise_LocalizedName
 msgctxt "77b1c708-2282-416b-9c0b-4af24fadc10f"
