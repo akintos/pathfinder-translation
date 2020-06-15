@@ -1,6 +1,20 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-15 18:51+0900\n"
+"PO-Revision-Date: 2020-06-15 09:51+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/"
+"pathfinder_kingmaker/items/ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.3\n"
+
+#
 
 #. Mechanics/Blueprints/Equipment/Amulets/AmuletOfAgileFistsPlus1_m_DescriptionText
 msgctxt "ec030c57-2d86-42ac-941d-e1dc15525e9b"
@@ -22277,7 +22291,7 @@ msgctxt "56029f22-d99e-4657-881d-af983240f997"
 msgid ""
 "An utterance is written on this weapon's handle in the Infernal language: "
 "\"Let the powerful gain more power. Let the weak grow weaker.\""
-msgstr "이 무기의 손잡이에 지옥어로 다음과 같이 쓰여 있습니다. \"\\강자를 강하게, 약자를 약하게.\"\\"
+msgstr "이 무기의 손잡이에 지옥어로 다음과 같이 쓰여 있습니다. \"강자를 강하게, 약자를 약하게.\""
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_3rdPart/PerfectionItem_m_DescriptionText
 msgctxt "bd303900-ee57-48fc-94ee-1bfa828b4805"
