@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-15 09:51+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2020-06-15 11:43+0000\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -15,7 +15,6 @@ msgstr ""
 "X-Generator: Weblate 3.3\n"
 
 #
-
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_DefaultName
 msgctxt "b383b902-3e03-4c9e-bd60-84e44d74864b"
 msgid "Stolen Lands"
@@ -2337,17 +2336,17 @@ msgstr ""
 #. Ups/StaRank7-MoreDiscountStaBuildings_DisplayName_String
 msgctxt "da0dd49f-e55b-4af0-bcb9-69b64bb1f75e"
 msgid "Fortifying the Foundation"
-msgstr ""
+msgstr "기반 굳히기"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/CandlemereTowerResearchKingdomBuff_Description
 msgctxt "eeb8ad23-f6df-4680-bca7-a80a650acf16"
 msgid "+3 bonus to resolve opportunities with the Magister."
-msgstr ""
+msgstr "마법대신이 기회를 해결할 때 +3 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/CandlemereTowerResearchKingdomBuff_DisplayName
 msgctxt "e0635100-4f8a-4488-a290-619fbe579b97"
 msgid "Candlemere Tower Research"
-msgstr ""
+msgstr "캔들미어 탑 연구"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/CapitalofCrimeKingdomBuff_Description
 msgctxt "10ba7e90-1d96-437c-b326-d3f06cf4c809"
@@ -2356,11 +2355,13 @@ msgid ""
 " BP – as well as a special project to acquire a powerful random item through"
 " the black markets. Only one such project may be active at a time."
 msgstr ""
+"30일마다 주민, 치안 및 경제를 1씩 줄이고 50BP를 제공하며, 암시장을 통해 강력한 랜덤 아이템을 획득하는 특별 계획을 제공합니다. "
+"이러한 계획은 한 번에 하나만 진행할 수 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/CapitalofCrimeKingdomBuff_DisplayName
 msgctxt "2c296214-9946-4de8-a23b-72cbd6655ff3"
 msgid "Capital of Crime"
-msgstr ""
+msgstr "범죄의 수도"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/EnforcedBorderKingdomBuff_Description
 msgctxt "b9f6994e-0a4b-4529-ae91-83d9d9c32ee7"
@@ -2368,36 +2369,36 @@ msgid ""
 "All opportunities that can be resolved by the Treasurer, Warden or Grand "
 "Diplomat the regions adjacent to Brevoy roll 2 checks and pick the worse "
 "result."
-msgstr ""
+msgstr "브레보이와 인접한 지역에서 재무관, 감시관 또는 수석 외교관이 해결하는 모든 기회는 두 번 굴려 더 나쁜 값을 고릅니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/EnforcedBorderKingdomBuff_DisplayName
 msgctxt "d6763a64-1f1e-465b-b5a9-05d36c3f974d"
 msgid "Enforced Border with Brevoy"
-msgstr ""
+msgstr "브레보이 국경 통제"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/ErastilHolyPlaceAttacksBuff_m_Description
 msgctxt "08240f14-0db1-41c8-8eb8-d537b8b50c0f"
 msgid ""
 "+2 sacred bonus to attack and damage against animals and magical beasts "
 "within the {mf|barony|barony|kingdom|kingdom}'s borders."
-msgstr ""
+msgstr "{mf|남작령|남작령|왕국|왕국} 내에서 동물과 환수를 공격할 때 명중과 피해에 +2 신성 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/ErastilHolyPlaceAttacksBuff_m_DisplayName
 msgctxt "9e4a9ba3-5720-4d83-b168-beba4727f120"
 msgid "Erastil's Blessing"
-msgstr ""
+msgstr "에라스틸의 축복"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/ErastilHolyPlaceChecksBuff_m_Description
 msgctxt "6ebd0e67-cd97-4c31-92e5-a225dd8accd9"
 msgid ""
 "+5 sacred bonus to Lore (Nature) checks everywhere in the "
 "{mf|barony|barony|kingdom|kingdom}."
-msgstr ""
+msgstr "{mf|남작령|남작령|왕국|왕국} 내에서 판정시 전승(자연)에 +5 신성 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/ErastilHolyPlaceChecksBuff_m_DisplayName
 msgctxt "4fc00249-e0ab-4854-9a9e-315e19b81fb2"
 msgid "Erastil's Epiphany"
-msgstr ""
+msgstr "에라스틸 축일"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/ErastilHolyPlaceKingdomBuff_Description
 msgctxt "4d00cc40-d20d-4660-8875-d8120b4da5b3"
@@ -2406,69 +2407,71 @@ msgid ""
 "within the {mf|barony|barony|kingdom|kingdom}'s borders. Also provides a +5 "
 "bonus to Lore (Nature) checks while within the kingdom."
 msgstr ""
+"{mf|남작령|남작령|왕국|왕국} 내에서 동물과 환수를 공격할 때 명중과 피해에 +2 신성 보너스. 또한 {mf|남작령|남작령|왕국|왕국}"
+" 내에서 판정시 전승(자연)에 +5 신성 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/ErastilHolyPlaceKingdomBuff_DisplayName
 msgctxt "b1c0a7b6-f519-49a7-b60c-8034c926e5cd"
 msgid "Erastil's Favor"
-msgstr ""
+msgstr "에라스틸의 은총"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/FortressKingdomBuff_Description
 msgctxt "25549224-ab9b-466e-8655-c7564c035c5d"
 msgid ""
 "+3 bonus to resolve any situation with the General, Warden and Minister in "
 "this and all adjacent regions."
-msgstr ""
+msgstr "장군, 감시관, 장관이 이 지역과 인접 지역에서 해결하는 모든 상황에 +3 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/FortressKingdomBuff_DisplayName_String
 msgctxt "9418f7e4-b833-4428-a8f7-e473215643f9"
 msgid "Iron Heart of the Land"
-msgstr ""
+msgstr "나라의 강철 심장"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/GorumHolyPlaceBuff_m_Description
 msgctxt "1f69b3b0-76b8-470a-8226-3e602cd65497"
 msgid "+4 sacred bonus to damage rolls"
-msgstr ""
+msgstr "피해 굴림에 +4 신성 보너스"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/GorumHolyPlaceBuff_m_DisplayName
 msgctxt "cef0b602-bb93-42cf-9deb-d455a0e6384a"
 msgid "Gorum's Blessing"
-msgstr ""
+msgstr "고룸의 축복"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/GorumHolyPlaceKingdomBuff_Description
 msgctxt "a6adb9c8-235c-4181-bc55-389348ac9621"
 msgid ""
 "All situations that could be resolved by the General or High Priest in this "
 "and any adjacent regions roll 2 checks and pick the best result."
-msgstr ""
+msgstr "장군이나 고위 사제가 이 지역과 인접 지역에서 상황을 해결할 때 두 번 굴려 더 나은 결과를 사용."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/GorumHolyPlaceKingdomBuff_DisplayName
 msgctxt "e49390a1-798e-41e5-8abc-dab0d494fdd9"
 msgid "Gorum's Favor"
-msgstr ""
+msgstr "고룸의 은총"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/GuardsHQKingdomBuff_Description
 msgctxt "3dd6280d-f1ca-41ba-ba63-fe8b4bc5e979"
 msgid ""
 "All problems that could be resolved by the Warden in this and any adjacent "
 "regions roll 2 checks and pick the best result."
-msgstr ""
+msgstr "감시관이 이 지역과 인접 지역에서 상황을 해결할 때 두 번 굴려 더 나은 결과를 사용."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/GuardsHQKingdomBuff_DisplayName
 msgctxt "84c616c2-1c8f-499d-a126-4b5a989b968f"
 msgid "Reinforced Guard"
-msgstr ""
+msgstr "경비 강화"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/ItsaMagicalPlaceBuff_DisplayName_String
 msgctxt "9a42fb2f-f239-4dd0-956e-ea0920f92672"
 msgid "Divine and Arcane knowledge"
-msgstr ""
+msgstr "신성 및 비전 지식"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/ItsaMagicalPlaceBuff_m_Description
 msgctxt "5fabc944-d38c-4c65-8a16-9229b5d31c72"
 msgid ""
 "+5 competence bonus to Knowledge (Arcana) and Lore (Religion) anywhere "
 "within the {mf|barony|barony|kingdom|kingdom}."
-msgstr ""
+msgstr "{mf|남작령|남작령|왕국|왕국} 내에서 지식(비전)과 전승(종교)에 +5 능숙 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/ItsaMagicalPlaceKingdomBuff_Description
 msgctxt "69307e0d-e565-4130-9bca-a830564e2065"
@@ -2477,59 +2480,59 @@ msgid ""
 "region. Provides +5 competence bonus to Knowledge (Arcana) and Lore "
 "(Religion) anywhere within the {mf|barony|barony|kingdom|kingdom}."
 msgstr ""
-"마법대신과 고위 사제가 함께 상황을 해결하면 +5 보너스를 받습니다. {mf|남작령|남작령|왕국|왕국} 내 어디에서나 지식(비전)과 "
-"전승(종교)에 +5 역량 보너스를 제공합니다."
+"마법대신이나 고위사제가 이 지역의 상황을 해결할 때 +5 보너스. {mf|남작령|남작령|왕국|왕국} 내에서 지식(비전)과 전승(종교)에 +"
+"5 능숙 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/ItsaMagicalPlaceKingdomBuff_DisplayName
 msgctxt "4bed43d1-2760-49b0-9b46-b29637fb2172"
 msgid "Divine and Arcane knowledge"
-msgstr ""
+msgstr "신성 및 비전 지식"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/MilitaryFortKingdomBuff_Description
 msgctxt "4f861a29-1395-408a-89e8-71bfbce088fd"
 msgid ""
 "Strained relations with Brevoy have led to a -2 penalty when addressing any "
 "situations in regions along the Brevan border."
-msgstr ""
+msgstr "브레보이와의 관계 경색으로 브레보이 국경 지역의 상황을 다룰 때 -2 페널티를 받습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/MilitaryFortKingdomBuff_DisplayName
 msgctxt "73397a60-d6fa-4160-8257-b036b0f0a849"
 msgid "Military Presence"
-msgstr ""
+msgstr "군사 주둔"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/MilitaryTrainingGrounds_Description
 msgctxt "219c5061-285d-4dd3-9d88-3e9e71b8d9d5"
 msgid ""
 "This region's Military, Stability and Espionage score increases by 2 for "
 "each region with Military upgrades (not including Training Grounds)."
-msgstr ""
+msgstr "이 지역의 군사, 치안, 첩보 점수가 군사 승급(훈련장 제외)을 한 지역당 2씩 오릅니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/MilitaryTrainingGrounds_Description_1
 msgctxt "eb5a73e8-dd60-493f-b74b-65576cc9f08a"
 msgid ""
 "Increase Military, Stability and Espionage in the region by 2 for each other"
 " region with Military upgrades."
-msgstr ""
+msgstr "이 지역의 군사, 치안, 첩보 점수가 군사 승급을 한 지역당 2씩 오릅니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/MilitaryTrainingGrounds_DisplayName
 msgctxt "84007755-f43b-40b3-8eed-0af6908f8ae7"
 msgid "Training Grounds"
-msgstr ""
+msgstr "훈련장"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/MilitaryTrainingGrounds_DisplayName_String
 msgctxt "17b0b1a5-9664-4473-8805-4de484caf7f7"
 msgid "Training Grounds"
-msgstr ""
+msgstr "훈련장"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/RelationsCenterKingdomBuff_Description
 msgctxt "dd7cba12-6ab0-4a25-bf12-b59d8007abe2"
 msgid "+3 bonus to resolve any problems in regions along the Brevan border."
-msgstr ""
+msgstr "브레보이 국경 지역의 문제를 해결할 때 +3 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/RelationsCenterKingdomBuff_DisplayName
 msgctxt "64019c5c-b860-4562-8470-6be7fe24e811"
 msgid "Partnership with Brevoy"
-msgstr ""
+msgstr "브레보이와의 동반"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/RivalToDaggermarkKingdomBuff_Description
 msgctxt "94f8d4c7-7569-47b0-9b52-14d5b3e089f5"
@@ -2537,12 +2540,12 @@ msgid ""
 "All situations that can be resolved by the Minister roll 2 checks and pick "
 "the best result. All opportunities that could be resolved by the Minister "
 "have a +5 bonus to the check."
-msgstr ""
+msgstr "장관이 상황을 해결할 때 두 번 굴려 더 나은 결과를 고릅니다. 장관이 해결하는 모든 기회는 판정에 +5 보너스를 받습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/RivalToDaggermarkKingdomBuff_DisplayName
 msgctxt "103b48c7-f79a-43d5-abd5-c0d0f623b72b"
 msgid "Pitaxian Spies"
-msgstr "피탁스의 스파이"
+msgstr "피탁스의 첩자"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/AldoriFightingSchool_Description
 msgctxt "51b4b6d6-45ca-43fc-a3b6-725e3cff1886"
@@ -2551,21 +2554,23 @@ msgid ""
 "Stability and Military; the Swordlord Academy provides an additional bonus "
 "of +3 to Loyalty, Community, Military and Stability."
 msgstr ""
+"사관학교가 +3 민심, +2 치안 및 군사 보너스를 추가로 제공합니다; 소드로드 아카데미는 +3 민심, 주민, 군사, 치안 보너스를 "
+"추가로 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/AldoriFightingSchool_DisplayName_String
 msgctxt "a9caab57-073b-4347-8dde-5e2a03f8c382"
 msgid "Aldori Fighting School"
-msgstr ""
+msgstr "알도리 전투 학교"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/BaronyIsRavagedByBarbarians_DisplayName
 msgctxt "3f9e22f5-bd2f-42da-96d4-5cc491ccdfc7"
 msgid "Repercussions of the Barbarian Invasion"
-msgstr ""
+msgstr "바바리안 침공의 영향"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/BaronyIsRavagedByDisease_DisplayName
 msgctxt "9dcddc84-23d3-4340-a2fe-ba460cc6a290"
 msgid "Repercussions of the Pestilence"
-msgstr ""
+msgstr "전염병의 영향"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/BaronyIsRavagedByPitax_DisplayName
 msgctxt "629665c2-c833-48f6-a537-7d5d6fb39de9"
@@ -2575,43 +2580,43 @@ msgstr "피탁스와의 전쟁으로 인한 영향"
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/BaronyIsRavagedByTrolls_DisplayName
 msgctxt "24152fe7-2cfa-4470-be96-e0bde50c7bc5"
 msgid "Repercussions of the Troll Rampage"
-msgstr ""
+msgstr "트롤 난동의 영향"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/ClosedBorders_Description
 msgctxt "0df49398-5b6a-441c-8dab-9f6a2af43359"
 msgid ""
 "Each region along the Brevan border gains +1 Military and +1 Stability if it"
 " contains a Garrison or Fort."
-msgstr ""
+msgstr "주둔지나 요새가 있는 브레보이 국경 지역마다 군사와 치안에 +1."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/ClosedBorders_DisplayName_String
 msgctxt "535bc8db-b677-404b-b456-5ad9c901c2ce"
 msgid "Border Guards"
-msgstr ""
+msgstr "국경 수비대"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/EnhancedBorderControl_Description
 msgctxt "9cd40b57-9eeb-4fd3-8feb-f52b8406aa8b"
 msgid ""
 "+2 bonus to resolve any situation that arises in regions adjacent to the "
 "border with Brevoy."
-msgstr ""
+msgstr "브레보이 국경 지역에서 발생한 상황을 해결할 때 +2 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/EnhancedBorderControl_DisplayName_String
 msgctxt "6c249cf0-8516-413a-8baf-8a63ebbfc981"
 msgid "Enhanced Border Control"
-msgstr ""
+msgstr "좋은 이웃"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/JointGoverningNivakta_Description
 msgctxt "7f7fd313-a6a7-4ca3-8a82-ff46032e37b9"
 msgid ""
 "+2 Military and +1 Stability for each region adjacent to Brevoy which has a "
 "military upgrade."
-msgstr ""
+msgstr "군사 승급을 가진 브레보이 국경 지역마다 +2 군사, +1 치안."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/JointGoverningNivakta_DisplayName
 msgctxt "2b9ceac0-a5be-4bbf-9cd1-d58c8b7dde5a"
 msgid "Special Garrison at Nivakta's Crossing"
-msgstr ""
+msgstr "니박타의 교차로의 특별 주둔지"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/LibraryResearchDwarvenUpgrade_Description
 msgctxt "82dcd360-c5cb-4b09-9027-cabb0d2bbef5"
@@ -2619,24 +2624,24 @@ msgid ""
 "When the South Narlmarches and Dire Narlmarches have a military upgrade, "
 "dwarven keeps can be restored more efficiently, increasing Military by 2 and"
 " Stability by 4."
-msgstr ""
+msgstr "남부 날마치와 험한 날마치에 군사 승급을 하면, 드워프 성채가 더 효율적으로 복원되어 +2 군사, +4 치안을 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/LibraryResearchDwarvenUpgrade_DisplayName
 msgctxt "e4210a65-1409-4711-91b4-73e7c7c745e7"
 msgid "Dwarven Engineering"
-msgstr ""
+msgstr "드워프 공법"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/LighterBorderControl_Description
 msgctxt "26b1e949-82b9-41b8-a247-4597b9d9e29e"
 msgid ""
 "+2 bonus to resolve any opportunity that arises in regions adjacent to the "
 "border with Brevoy."
-msgstr ""
+msgstr "브레보이 국경 지역에서 발생한 기회를 해결할 때 +2 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/LighterBorderControl_DisplayName_String
 msgctxt "beddc2ff-a1e2-46bb-a37b-0da46bee124e"
 msgid "Lighter Border Control"
-msgstr ""
+msgstr "가벼워진 국경 관리"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/LinxiaAlliance_Description
 msgctxt "f6507816-aec1-4007-864f-6b5d7af770ee"
@@ -2647,21 +2652,23 @@ msgid ""
 " is successfully resolved, if the kingdom's Unrest is Worried or worse, then"
 " the situation will improve by one step."
 msgstr ""
+"치안을 주 당 1 증가시킵니다. 왕국의 안정도가 우려 이하라면 매주 확률적으로 안정도를 개선합니다. 안정도가 낮을수록 확률이 높아집니다. "
+"또한, 최후의 수단 사건을 성공적으로 해결 할 때 왕국의 안정도가 우려 이하라면, 안정도가 한 단계 올라갑니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/LinxiaAlliance_DisplayName_String
 msgctxt "bd87332e-606e-4cdb-93c1-f8d53fce3061"
 msgid "Alliance with Linxia"
-msgstr ""
+msgstr "린시아와의 동맹"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/LinxiaAlliance_ReasonString_String
 msgctxt "87abb482-1bb3-4879-adac-6ebf09f6654a"
 msgid "Hellknights' operations"
-msgstr ""
+msgstr "헬나이트의 작전"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PartofRiverKingdoms_Description
 msgctxt "240299e4-8957-4db1-a098-d8e3fa4ec02e"
 msgid "Provides 3 BP per week for each Espionage rank above 8."
-msgstr ""
+msgstr "첩보 등급이 8을 넘어설 때마다 매주 3 BP 제공."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PartofRiverKingdoms_DisplayName
 msgctxt "3920599e-0535-41f0-8294-721cbcbb2ae2"
@@ -33881,7 +33888,7 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/EnhancedBorderControl_LocalizedName
 msgctxt "9b4d0029-6caf-4ea2-9e0c-e3a810a269b5"
 msgid "Enhanced Border Control"
-msgstr "강화된 국경 관리"
+msgstr "좋은 이웃"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/EnhancedBorderControl_Results.Array.data[0].LocalizedDescription
 msgctxt "d6b272c1-5472-4bd7-ad33-41750e652d49"
@@ -34497,12 +34504,12 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/StrategicPartnershipBrevoy_LocalizedName
 msgctxt "913838e2-4746-4f02-ac33-e086d2800655"
 msgid "Strategic Partnership with Brevoy"
-msgstr "브레보이와 전략적 파트너쉽"
+msgstr "브레보이와 전략적 동반"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/StrategicPartnershipBrevoy_Results.Array.data[0].LocalizedDescription
 msgctxt "893cb31c-cc77-463b-962c-9db861f0dfc2"
 msgid "Our partnership with Brevoy has borne fruit."
-msgstr "브레보이와의 파트너쉽은 결실을 맺었습니다."
+msgstr "브레보이와의 동반은 결실을 맺었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/TighterBorderControl_LocalizedDescription
 msgctxt "2df03115-ad1b-42ff-a46b-b759ae29af71"
