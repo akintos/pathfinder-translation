@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-15 09:51+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2020-06-15 18:04+0000\n"
+"Last-Translator: haenim <zzz-well@hanmail.net>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/items/ko/>\n"
 "Language: ko\n"
@@ -15,7 +15,6 @@ msgstr ""
 "X-Generator: Weblate 3.3\n"
 
 #
-
 #. Mechanics/Blueprints/Equipment/Amulets/AmuletOfAgileFistsPlus1_m_DescriptionText
 msgctxt "ec030c57-2d86-42ac-941d-e1dc15525e9b"
 msgid ""
@@ -28,9 +27,10 @@ msgstr ""
 " 수정치를 대체 가능시) 를 적용합니다. 또한 비무장 공격 및 자연 무기 공격의 명중과 피해 굴림에 +1 강화 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Amulets/AmuletOfAgileFistsPlus1_m_DisplayNameText
+#, fuzzy
 msgctxt "3108af59-18bc-46e2-b022-1a05f4a6cc60"
 msgid "Amulet of Agile Fists +1"
-msgstr ""
+msgstr "날렵한 주먹의 아뮬렛 +1"
 
 #. Mechanics/Blueprints/Equipment/Amulets/AmuletOfAgileFistsPlus2_m_DescriptionText
 msgctxt "4a201594-ad7d-460a-8d3c-79fdac372fd3"
@@ -44,9 +44,10 @@ msgstr ""
 " 수정치를 대체 가능시) 를 적용합니다. 또한 비무장 공격 및 자연 무기 공격의 명중과 피해 굴림에 +2 강화 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Amulets/AmuletOfAgileFistsPlus2_m_DisplayNameText
+#, fuzzy
 msgctxt "280df5e4-cb3e-40e9-acfa-818648e9dc5d"
 msgid "Amulet of Agile Fists +2"
-msgstr ""
+msgstr "날렵한 주먹의 아뮬렛 +2"
 
 #. Mechanics/Blueprints/Equipment/Amulets/AmuletOfAgileFistsPlus3_m_DescriptionText
 msgctxt "cf38e57b-bbcf-44fb-9e17-d730f1e86410"
@@ -60,9 +61,10 @@ msgstr ""
 " 수정치를 대체 가능시) 를 적용합니다. 또한 비무장 공격 및 자연 무기 공격의 명중과 피해 굴림에 +3 강화 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Amulets/AmuletOfAgileFistsPlus3_m_DisplayNameText
+#, fuzzy
 msgctxt "0d041dd5-b4ae-44c8-b9a7-4ded7a12a867"
 msgid "Amulet of Agile Fists +3"
-msgstr ""
+msgstr "날렵한 주먹의 아뮬렛 +3"
 
 #. Mechanics/Blueprints/Equipment/Amulets/AmuletOfAgileFistsPlus4_m_DescriptionText
 msgctxt "0f321b30-3e8f-428e-8e57-a4039d8634ac"
@@ -76,9 +78,10 @@ msgstr ""
 " 수정치를 대체 가능시) 를 적용합니다. 또한 비무장 공격 및 자연 무기 공격의 명중과 피해 굴림에 +4 강화 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Amulets/AmuletOfAgileFistsPlus4_m_DisplayNameText
+#, fuzzy
 msgctxt "16052429-d1cc-4b7f-84a4-c8015f1f6e12"
 msgid "Amulet of Agile Fists +4"
-msgstr ""
+msgstr "날렵한 주먹의 아뮬렛 +4"
 
 #. Mechanics/Blueprints/Equipment/Amulets/AmuletOfAgileFists_m_DescriptionText
 msgctxt "f0ca02ec-6be4-4ada-b141-2103c661bfdc"
@@ -91,9 +94,10 @@ msgstr ""
 " 수정치를 대체 가능시) 를 적용합니다."
 
 #. Mechanics/Blueprints/Equipment/Amulets/AmuletOfAgileFists_m_DisplayNameText
+#, fuzzy
 msgctxt "2d2473de-03b1-4f6c-aedc-358781263f17"
 msgid "Amulet of Agile Fists"
-msgstr ""
+msgstr "날렵한 주먹의 아뮬렛"
 
 #. Mechanics/Blueprints/Equipment/Amulets/AmuletOfDeepWaterItem_m_DescriptionText
 msgctxt "180d5475-02c5-42f7-b3f7-1ca65d4f7c4e"
