@@ -1,6 +1,20 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-15 18:51+0900\n"
+"PO-Revision-Date: 2020-06-15 09:51+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/"
+"pathfinder_kingmaker/quests/ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.3\n"
+
+#
 
 #. Mechanics/Blueprints/World/Quests/DoomCounter_String
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/StolenLand/15_DoomCounter_Title
@@ -4100,7 +4114,7 @@ msgstr "한가지 분명한 사실을 알아냈습니다 - 우리가 찾는 이�
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/C22_WitchHunt/Objectives/FindThePriestAddendums/FindThePriest_Add3_Description
 msgctxt "b8fba8d5-56c1-4536-93b0-cdd6c28ab0af"
 msgid "Right, this \"kitchen maiden\" limps — just like our robed runaway!"
-msgstr "그렇군요, 이 \"부엌데기\"\\는 다리를 절고 있습니다 - 우리가 찾는 도망자처럼요!"
+msgstr "그렇군요, 이 \"부엌데기\"는 다리를 절고 있습니다 - 우리가 찾는 도망자처럼요!"
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/C22_WitchHunt/Objectives/FindThePriestAddendums/FindThePriest_Add4_Description
 msgctxt "faa2817f-088f-44db-a446-7c861b03db5a"
