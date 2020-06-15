@@ -1,6 +1,20 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-15 18:51+0900\n"
+"PO-Revision-Date: 2020-06-15 09:51+0000\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/"
+"pathfinder_kingmaker/kingdom/ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.3\n"
+
+#
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_DefaultName
 msgctxt "b383b902-3e03-4c9e-bd60-84e44d74864b"
@@ -10,135 +24,135 @@ msgstr "도둑맞은 땅"
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[0].Options.Array.data[0].Description
 msgctxt "c37d0a8b-abf9-47d7-a6cb-fd3d24c216d3"
 msgid "Octavia always strives to solve problems peacefully."
-msgstr ""
+msgstr "옥타비아는 항상 문제를 평화롭게 해결하기 위해 노력합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[0].Options.Array.data[1].Description
 msgctxt "0dfc1714-4285-4c10-842a-07cd269da336"
 msgid "Valerie strives to follow the letter of the law."
-msgstr ""
+msgstr "발레리는 법규를 준수하고자 노력합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[0].Options.Array.data[2].Description
 msgctxt "342ef672-ec71-40ea-a9bd-57dc540d7275"
 msgid ""
 "Lebeda makes decisions that favor both his own interests and those of the "
 "{mf|barony|barony|kingdom|kingdom}."
-msgstr ""
+msgstr "레베다는 자신과 {mf|남작령|남작령|왕국|왕국} 모두에게 이익이 되는 결정을 내립니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[1].Options.Array.data[0].Description
 msgctxt "bd523eed-7914-4ce4-a937-64f1ab1f0319"
 msgid "Tristian cares for the people over all other concerns."
-msgstr ""
+msgstr "트리스티안은 무엇보다도 국민을 먼저 생각합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[1].Options.Array.data[1].Description
 msgctxt "091c419a-e067-4da3-9fce-53232ace8b80"
 msgid "Shandra aims to make a profit while following the letter of the law."
-msgstr ""
+msgstr "샨드라는 법의 테두리 안에서 이익을 추구합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[1].Options.Array.data[2].Description
 msgctxt "d3f9b1bd-6458-4090-b2d3-903e3ab71a1d"
 msgid ""
 "Tsanna cares for the people, but also believes cracking the whip is "
 "sometimes necessary — just to remind the subjects of their place."
-msgstr ""
+msgstr "산나는 국민들을 돌보지만, 때로는 채찍질로 그들의 지위를 확인시켜줘야한다고 생각합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[2].Options.Array.data[0].Description
 msgctxt "b51d1f5d-2ca8-49cf-b0da-4185a731aeff"
 msgid "Kassil always strives to help those in need."
-msgstr ""
+msgstr "카실은 항상 도움이 필요한 사람들을 돕고자 합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[2].Options.Array.data[1].Description
 msgctxt "c9431b5d-c4b3-4a24-82a2-906585264e17"
 msgid "Amiri favors the direct approach."
-msgstr ""
+msgstr "아미리는 직접적인 방식을 선호합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[2].Options.Array.data[2].Description
 msgctxt "56efd59a-75a2-4da3-b42f-b59c70bade4c"
 msgid "Regongar is hot-headed and direct."
-msgstr ""
+msgstr "레곤가르는 성정이 급하며 직설적입니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[3].Options.Array.data[0].Description_1
 msgctxt "a25d491c-e5c5-4b1d-8989-b9a24a5a389a"
 msgid "Maegar protects the welfare of the citizens."
-msgstr ""
+msgstr "메이가르는 시민들의 복지를 보호합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[3].Options.Array.data[1].Description_1
 msgctxt "88ba46b5-7cae-4ad7-b5bd-3a7d959ec8ac"
 msgid ""
 "Jubilost aims to cut expenses and spend diligently. And he's sure to let "
 "everyone know it, too."
-msgstr ""
+msgstr "주빌로스트는 지출을 줄이고 부지런히 일하고자 합니다. 그리고 그만큼 잔뜩 티를 낼 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[3].Options.Array.data[2].Description
 msgctxt "8711ef65-f179-4940-afe5-21e62686a940"
 msgid ""
 "Bartholomew seeks to fill the {mf|barony|barony|kingdom|kingdom}'s coffers."
-msgstr ""
+msgstr "바솔로뮤는 {mf|남작령|남작령|왕국|왕국}의 금고를 채우고자 할 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[3].Options.Array.data[3].Description
 msgctxt "1110ece1-db6f-4df9-a8c7-dc805065b72f"
 msgid ""
 "Kanerah seeks to fill the {mf|barony|barony|kingdom|kingdom}'s coffers."
-msgstr ""
+msgstr "카네라는 {mf|남작령|남작령|왕국|왕국}의 국고를 채우고자 할 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[4].Options.Array.data[0].Description
 msgctxt "8278dfc3-c6a5-4d14-aafd-12f146b2f21d"
 msgid ""
 "Linzi seeks the middle ground in disputes, favoring no one party over "
 "another."
-msgstr ""
+msgstr "린지는 분쟁에서 어느 한 쪽 편을 들지 않고 중립을 지키려고 합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[4].Options.Array.data[1].Description
 msgctxt "d878b024-64a3-4463-944a-f98960a618f9"
 msgid "Valerie follows the law and tradition both."
-msgstr ""
+msgstr "발레리는 법과 전통을 따릅니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[4].Options.Array.data[2].Description
 msgctxt "7dcd8556-ef0c-49cf-82d2-68d6e118533e"
 msgid ""
 "Bartholomew always looks for the most profitable way to solve a dispute."
-msgstr ""
+msgstr "바솔로뮤는 가장 이득이 되는 방식으로 분쟁을 해결하려고 합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[5].Options.Array.data[0].Description
 msgctxt "47f69b88-1d9a-4580-9d68-988d2bdc632f"
 msgid ""
 "Jhod does his best to solve problems without disrupting local traditions."
-msgstr ""
+msgstr "조드는 지역 전통을 해치지 않는 선해서 문제를 해결하려고 최선을 다합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[5].Options.Array.data[1].Description
 msgctxt "ec1ebcc4-e5f7-49f1-93a5-780996f41894"
 msgid "Harrim favors unusual, but effective solutions."
-msgstr ""
+msgstr "하림은 일반적이지 않지만 효과적인 해결책을 선호합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[5].Options.Array.data[2].Description
 msgctxt "8e8a959f-58a4-4e18-bf78-0030dbc36900"
 msgid ""
 "Tsanna believes in religious freedom. When faced with a problem, she acts "
 "swiftly and violently."
-msgstr ""
+msgstr "산나는 종교의 자유를 추구합니다. 문제를 맞딱뜨리면 신속하고 잔인하게 처리합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[6].Options.Array.data[0].Description
 msgctxt "84e251fc-5a25-44b3-ab85-13271391c88e"
 msgid "Octavia is a believer in the free and unrestricted use of magic."
-msgstr ""
+msgstr "옥타비아는 마법 사용의 무제한적 자유를 신봉합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[6].Options.Array.data[1].Description
 msgctxt "5eeed616-a191-4821-8700-7883c5df9b33"
 msgid ""
 "The Storyteller is cautious and favors decisions that satisfy the interests "
 "of everyone involved."
-msgstr ""
+msgstr "이야기꾼은 관련된 모든 사람들의 이익을 만족시키는 결정을 내리고자 고민합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[6].Options.Array.data[2].Description
 msgctxt "4f4d2275-07d1-4853-9d54-cc46631e2392"
 msgid ""
 "\"Maegar\" seeks to increase the {mf|barony|barony|kingdom|kingdom}'s arcane"
 " might, no matter the cost."
-msgstr ""
+msgstr "\"메이가르\"는 비용이 얼마나 들던 간에 {mf|남작령|남작령|왕국|왕국}의 비전적 역량을 키우고자 합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[7].Options.Array.data[0].Description
 msgctxt "050414fa-d380-450e-be13-22df688c55bf"
 msgid "Ekun strives to avoid unnecessary conflicts."
-msgstr ""
+msgstr "에쿤은 불필요한 갈등을 피하려고 노력합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[7].Options.Array.data[1].Description
 msgctxt "8b974b8a-42b6-41ed-816b-2533bea0e116"
@@ -149,7 +163,7 @@ msgstr "케스턴은 {mf|남작령|남작령|왕국|왕국}의 백성들을 보�
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[7].Options.Array.data[2].Description
 msgctxt "f70b27c2-bb75-4510-b691-a9587043428e"
 msgid "Regongar solves problems with brute force."
-msgstr ""
+msgstr "레곤가르는 폭력으로 문제를 해결합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[8].Options.Array.data[0].Description
 msgctxt "f6f1819d-d941-40dd-8e43-2ce417dceb9d"
@@ -160,96 +174,96 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[8].Options.Array.data[1].Description
 msgctxt "938da5c5-a6d9-415b-b8ca-59fdabebceef"
 msgid "The Storyteller supports cultural growth."
-msgstr ""
+msgstr "이야기꾼은 문화적 성장을 지원합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[8].Options.Array.data[2].Description
 msgctxt "2ce0771a-a7aa-45a1-b23d-85b01822a22f"
 msgid "Jaethal seeks to control and dominate."
-msgstr ""
+msgstr "제이탈은 통제와 지배를 추구합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[9].Options.Array.data[0].Description
 msgctxt "0339e35d-928d-45d8-a718-dad22dd8ead6"
 msgid "Ekun opts for non-violent and honorable measures."
-msgstr ""
+msgstr "에쿤은 비폭력적이고 명예로운 방법을 선택합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[9].Options.Array.data[1].Description
 msgctxt "2575cedb-f462-46ac-a888-d4090998c0ba"
 msgid ""
 "Jubilost is secretive and scheming. He doesn't have time to waste on morals."
-msgstr ""
+msgstr "주빌로스트는 비밀스럽게 음모를 꾸밉니다. 도덕적인 문제에 시간을 낭비하지 않고 말이죠."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[9].Options.Array.data[2].Description
 msgctxt "876408de-521c-4aad-ac0b-5a23b1b5827d"
 msgid ""
 "Jaethal is bloodthirsty and cruel, striking terror in her enemies' hearts."
-msgstr ""
+msgstr "제이탈은 폭력적이고 잔혹한 수단으로 적들의 마음에 공포를 심어 놓습니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_EventResultMarginDescriptions.Array.data[0].Name
 msgctxt "2e0c115b-8d4b-4beb-889d-6d2815b6f3ea"
 msgid "Disaster"
-msgstr ""
+msgstr "재난"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_EventResultMarginDescriptions.Array.data[3].Name
 msgctxt "8fb7e5bf-e49c-4b6f-b9cd-404d4a1f36e0"
 msgid "Triumph"
-msgstr ""
+msgstr "대성공"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_EventResultMarginDescriptions_Fail_String
 msgctxt "475e43cf-a25b-42bb-879f-f41337c01784"
 msgid "Failure"
-msgstr ""
+msgstr "실패"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_EventResultMarginDescriptions_Success_String
 msgctxt "32d620d4-d432-4387-955f-3ecb21d78286"
 msgid "Success"
-msgstr ""
+msgstr "성공"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_ExResourceStateTypeStrings.CanClaim
 msgctxt "62814aa3-36ad-4c60-a49d-92968db0dd03"
 msgid "Available for claiming"
-msgstr ""
+msgstr "점령 가능"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_ExResourceStateTypeStrings.CantClaimNoKingdom
 msgctxt "b2a7e8d7-89af-4095-a89f-a3f24e92c9db"
 msgid ""
 "This resource can be claimed by any kingdom that has claimed the surrounding"
 " territory"
-msgstr ""
+msgstr "이 자원은 이 지역을 점령해야 사용할 수 있습니다"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_ExResourceStateTypeStrings.CantClaimWrongRegion
 msgctxt "28e84dee-0355-4ab3-815b-22d31daf6919"
 msgid "This resource belongs to a region outside your territories"
-msgstr ""
+msgstr "이 자원은 당신의 영토 밖에 있습니다"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_ExResourceStateTypeStrings.Claimed
 msgctxt "95d13551-22b4-42b5-bbc4-c81e26c60e15"
 msgid "Resource claimed"
-msgstr ""
+msgstr "자원 보유"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_KingdomStatusChangeReasons.Array.data[0].Description
 msgctxt "2ea2d520-4dfd-4144-a2c5-492772d8a826"
 msgid "Unknown."
-msgstr ""
+msgstr "알려지지 않음."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_KingdomStatusChangeReasons.Array.data[1].Description
 msgctxt "59e1033e-6205-4e4a-ba03-a2a1b52054e2"
 msgid "Negative {mf|barony|barony|kingdom|kingdom} stats."
-msgstr ""
+msgstr "{mf|남작령|남작령|왕국|왕국} 지표 감소."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_KingdomStatusChangeReasons.Array.data[2].Description
 msgctxt "b41cf297-8b18-4f04-a927-fd183823eb2c"
 msgid "Negative current BP or BP per week."
-msgstr ""
+msgstr "현재 BP 또는 주당 BP 감소."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_KingdomStatusChangeReasons.Array.data[3].Description
 msgctxt "60e30c1a-59f8-402c-b56b-ff5ea0fe305d"
 msgid "Event resolution."
-msgstr ""
+msgstr "사건 해결."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_KingdomStatusChangeReasons.Array.data[4].Description
 msgctxt "2cb062ff-1dde-414b-aa17-3bfb19ccc28a"
 msgid "Quest."
-msgstr ""
+msgstr "퀘스트."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_KingdomStautsDesriptions.Array.data[0].Description
 msgctxt "64cba453-6ecd-47a4-91b8-3f57ed42f492"
@@ -257,6 +271,11 @@ msgid ""
 "The {mf|barony|barony|kingdom|kingdom} is on the verge of collapse. Entire settlements have openly defied the {mf|baron|baroness|king|queen}. You receive -4 to all {mf|barony|barony|kingdom|kingdom} checks. If Unrest increases any more, the {mf|barony|barony|kingdom|kingdom} will be lost and the game will be over.\n"
 "To mitigate the Unrest, your advisors have prepared the following projects: Feast for the Afflicted, Address the {mf|Barony|Barony|Kingdom|Kingdom}, The Last Resort."
 msgstr ""
+"{mf|남작령|남작령|왕국|왕국}이 붕괴될 위기에 처해 있습니다. 모든 정착지가 공개적으로 {mf|남작|여남작|왕|여왕}을 거역했습니다. "
+"모든 {mf|남작령|남작령|왕국|왕국} 판정에 -4 페널티를 받습니다. 안정도가 더 떨어지면 {mf|남작령|남작령|왕국|왕국}을 "
+"잃어버리고 게임이 끝납니다.\n"
+"불안을 진정시키기 위해 조언자가 다음 계획을 준비했습니다: 고통받는 사람들을 위한 축제, {mf|남작령|남작령|왕국|왕국}을 위한 연설, "
+"최후의 수단."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_KingdomStautsDesriptions.Array.data[0].Name
 msgctxt "06ad352a-a0c5-4884-952f-6bcb50e230cd"
@@ -269,6 +288,9 @@ msgid ""
 "The {mf|barony|barony|kingdom|kingdom} is rioting — the people don't believe in your right to rule any longer. You receive -3 to all {mf|barony|barony|kingdom|kingdom} checks.\n"
 "To mitigate the Unrest, your advisors have prepared the following projects: Feast for the Afflicted, Address the {mf|Barony|Barony|Kingdom|Kingdom}."
 msgstr ""
+"{mf|남작령|남작령|왕국|왕국}에서 폭동이 일어나고 있습니다. 국민들은 더 이상 당신의 지배권을 인정하지 않습니다. 모든 "
+"{mf|남작령|남작령|왕국|왕국} 판정에 -3 페널티를 받습니다.\n"
+"불안을 진정시키기 위해 조언자가 다음 계획을 준비했습니다: 고통받는 사람들을 위한 축제, {mf|남작령|남작령|왕국|왕국}을 위한 연설."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_KingdomStautsDesriptions.Array.data[1].Name
 msgctxt "34281e07-261b-45ad-b441-e65ec75e6af2"
@@ -281,6 +303,9 @@ msgid ""
 "The {mf|barony|barony|kingdom|kingdom}'s subjects are restless and are conspiring against their ruler. You receive -2 to all {mf|barony|barony|kingdom|kingdom} checks.\n"
 "To mitigate the Unrest, your advisors have prepared the following project: Feast for the Afflicted."
 msgstr ""
+"{mf|남작령|남작령|왕국|왕국}의 백성들은 불만에 차서 역모를 꾸미고 있습니다. 모든 {mf|남작령|남작령|왕국|왕국} 판정에 -2 "
+"페널티를 받습니다.\n"
+"불안을 진정시키기 위해 조언자가 다음 계획을 준비했습니다: 고통받는 사람들을 위한 축제."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_KingdomStautsDesriptions.Array.data[2].Name
 msgctxt "87a4e455-e72b-47ed-af09-9fcb6e3a5f5f"
@@ -294,6 +319,8 @@ msgid ""
 "ruler's authority and actions. You receive -1 to all "
 "{mf|barony|barony|kingdom|kingdom} checks."
 msgstr ""
+"{mf|남작령|남작령|왕국|왕국}의 백성들은 통치자의 권위와 조처에 의문을 제기하고 있습니다. 모든 {mf|남작령|남작령|왕국|왕국} "
+"판정에 -1 페널티를 받습니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_KingdomStautsDesriptions.Array.data[3].Name
 msgctxt "d5555ba1-42f0-4e24-b6ad-6485da9e5984"
@@ -305,7 +332,7 @@ msgctxt "ab2a674e-3a33-48fa-86cc-e070e863ede0"
 msgid ""
 "The {mf|barony|barony|kingdom|kingdom} is stable. People are content with "
 "their life and their ruler."
-msgstr ""
+msgstr "{mf|남작령|남작령|왕국|왕국}이 안정된 상태입니다. 백성들은 통치자와 삶에 만족하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_KingdomStautsDesriptions.Array.data[4].Name
 msgctxt "106ffdb1-6037-4e93-8ed1-103707675ca9"
@@ -319,6 +346,8 @@ msgid ""
 "{mf|baron|baroness|king|queen} and fully support {mf|him|her|him|her}. You "
 "receive +1 to all {mf|barony|barony|kingdom|kingdom} checks."
 msgstr ""
+"{mf|남작령|남작령|왕국|왕국}의 시민들은 {mf|남작|여남작|왕|여왕}을 찬앙하며 {mf|그|그녀|그|그녀}를 전적으로 지원하고 "
+"있습니다. 모든 {mf|남작령|남작령|왕국|왕국} 판정에 +1 보너스를 받습니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_KingdomStautsDesriptions.Array.data[5].Name
 msgctxt "63244530-c7ab-4763-ba7d-e0a7d92b3afe"
@@ -331,12 +360,12 @@ msgid ""
 "The regent ensures subjects' complaints and concerns are heard by their "
 "ruler and serves as a link between the {mf|baron|baroness|king|queen} and "
 "the people."
-msgstr ""
+msgstr "섭정은 백성의 불만과 우려를 통치자에게 분명히 전달하여 {mf|남작|여남작|왕|여왕}과 국민 사이의 연결고리 역할을 합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_LeaderDescriptions.Array.data[0].Name
 msgctxt "2e51afab-58f8-4536-831f-e3f8e5003438"
 msgid "Regent"
-msgstr ""
+msgstr "섭정"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_LeaderDescriptions.Array.data[1].Description
 msgctxt "710a2857-390b-429d-b6e5-158280a5391e"
@@ -344,12 +373,12 @@ msgid ""
 "The Councilor deals with troubles of the common folk and helps settle land "
 "disputes and agricultural matters. This advisor ensures citizens remain "
 "loyal to the throne."
-msgstr ""
+msgstr "평의원은 토지분쟁과 농업문제 등 평민들의 일을 다룹니다. 이 조언자는 시민들이 권좌에 계속해서 충성하도록 하는 일을 맡습니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_LeaderDescriptions.Array.data[1].Name
 msgctxt "16d95cd2-3d36-4543-84d9-7f1376d48600"
 msgid "Councilor"
-msgstr ""
+msgstr "평의원"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_LeaderDescriptions.Array.data[2].Description
 msgctxt "026841c9-1faf-42e2-b35b-b88df2cabfe5"
@@ -357,12 +386,12 @@ msgid ""
 "The General is the highest-ranking officer in the army of the "
 "{mf|barony|barony|kingdom|kingdom} and is responsible for watching the "
 "borders and protecting the realm."
-msgstr ""
+msgstr "장군은 {mf|남작령|남작령|왕국|왕국} 군대의 최고위 장교이며 국경을 경계하고 왕국을 보호하는 임무를 맡고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_LeaderDescriptions.Array.data[2].Name
 msgctxt "86de0829-e789-4e1c-bfeb-d93e7563607d"
 msgid "General"
-msgstr ""
+msgstr "장군"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_LeaderDescriptions.Array.data[3].Description
 msgctxt "bca116fa-3338-4547-9387-53b4ace88997"
@@ -370,12 +399,12 @@ msgid ""
 "The Treasurer's duty is to keep the coffers of the "
 "{mf|barony|barony|kingdom|kingdom} full and ensure any gold spent is spent "
 "wisely."
-msgstr ""
+msgstr "재무관의 임무는 {mf|남작령|남작령|왕국|왕국}의 국고를 가득 채우고 그 재정을 현명하게 사용하도록 하는 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_LeaderDescriptions.Array.data[3].Name
 msgctxt "fc618891-5ca2-4942-8987-2f9395870686"
 msgid "Treasurer"
-msgstr ""
+msgstr "재무관"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_LeaderDescriptions.Array.data[4].Description
 msgctxt "f6c9c5f1-849d-42c5-9e46-1d13e43553f5"
@@ -383,11 +412,12 @@ msgid ""
 "The Grand Diplomat maintains relations with foreign powers as well as the "
 "citizens of the {mf|barony|barony|kingdom|kingdom} itself."
 msgstr ""
+"수석 외교관은 {mf|남작령|남작령|왕국|왕국}과 시민의 관계, 그리고 {mf|남작령|남작령|왕국|왕국}과 외세의 관계를 다룹니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_LeaderDescriptions.Array.data[4].Name
 msgctxt "32a9ac28-488e-4ed3-b215-ae95eff03316"
 msgid "Grand Diplomat"
-msgstr ""
+msgstr "수석 외교관"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_LeaderDescriptions.Array.data[5].Description
 msgctxt "fbf740c3-0231-4f33-b17d-97e3673eb90f"
@@ -395,11 +425,12 @@ msgid ""
 "No matter what deity he serves, the High Priest strives to satisfy the "
 "spiritual needs of all citizens in the {mf|barony|barony|kingdom|kingdom}."
 msgstr ""
+"자신이 어떤 신을 섬기든지 고위 사제는 {mf|남작령|남작령|왕국|왕국}에 있는 모든 시민들의 영적인 욕구를 충족시키기 위해 노력합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_LeaderDescriptions.Array.data[5].Name
 msgctxt "60cefe1b-ff4f-40c5-b8aa-359a7a45213a"
 msgid "High Priest"
-msgstr ""
+msgstr "고위 사제"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_LeaderDescriptions.Array.data[6].Description
 msgctxt "2c45503b-156d-44b6-9a54-eb72079c7a57"
@@ -407,7 +438,7 @@ msgid ""
 "The magister is responsible for all matters pertaining to magic, such as "
 "laws governing the use of spells and artifacts, as well as growth and "
 "development of magical arts in the realm."
-msgstr "마법대신은 주문, 아티팩트 사용에 관한 법률부터 마법예술의 성장과 발전과 같은 마법에 관련된 모든 일에 책임이 있습니다. "
+msgstr "마법대신은 주문, 아티팩트 사용에 관한 법률부터 마법 기술의 성장과 발전과 같은 마법에 관련된 모든 일을 담당합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_LeaderDescriptions.Array.data[6].Name
 msgctxt "9b4234b3-d999-49a9-adb7-97364437cacd"
@@ -421,11 +452,13 @@ msgid ""
 "peace|the queen's peace}, pursuing those who break the law and protecting "
 "those who abide by it."
 msgstr ""
+"감시관은 {mf|남작령의 평화|남작령의 평화|왕국의 평화|왕국의 평화}를 지키며, 법을 어기는 자를 잡아들이고 법을 지키는 자를 "
+"보호합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_LeaderDescriptions.Array.data[7].Name
 msgctxt "ac830b03-3480-418f-8287-e8e025319fe2"
 msgid "Warden"
-msgstr ""
+msgstr "감시관"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_LeaderDescriptions.Array.data[8].Description
 msgctxt "9739e770-8b46-4bf2-95be-7ec8594d4ef7"
@@ -434,43 +467,45 @@ msgid ""
 " also supports the fine arts. The Curator also cares about the mark the "
 "{mf|barony|barony|kingdom|kingdom} leaves in Golarion's history of arts."
 msgstr ""
+"학예사는 {mf|남작령|남작령|왕국|왕국}의 교육을 감독하고 고급 예술을 지원합니다. 그리고 {mf|남작령|남작령|왕국|왕국}에 있는 "
+"골라리온 예술사에 길이 남을 사적을 관리합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_LeaderDescriptions.Array.data[8].Name
 msgctxt "5305f86d-92c1-4c30-a841-bfc466f61c3b"
 msgid "Curator"
-msgstr ""
+msgstr "학예사"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_LeaderDescriptions.Array.data[9].Description
 msgctxt "97d7102b-a09e-4328-b839-d7130474bc74"
 msgid ""
 "The minister oversees the {mf|barony|barony|kingdom|kingdom}'s intelligence "
 "network and protects against espionage by foreign powers."
-msgstr ""
+msgstr "장관은 {mf|남작령|남작령|왕국|왕국}의 정보망을 감시하고, 외세의 첩보활동으로부터 지켜냅니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_LeaderDescriptions.Array.data[9].Name
 msgctxt "537b63d5-6c34-4976-b516-0159f222a968"
 msgid "Minister"
-msgstr ""
+msgstr "장관"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_RavenTexts.BPPerLastPeriod
 msgctxt "9ac32024-02ac-4248-a145-da9f3072b9d0"
 msgid "{0} per last month"
-msgstr ""
+msgstr "지난 달 {0}"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_RavenTexts.TotalBP
 msgctxt "f6224b3f-a8fe-44e3-8446-a12471b2e1cd"
 msgid "Total: {0} BP"
-msgstr ""
+msgstr "합계: {0} BP"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Settlement.BuyPriceFormat
 msgctxt "89a20bd9-b95a-4f6f-92dc-bde053c480b0"
 msgid "Build: {0}"
-msgstr ""
+msgstr "건물: {0}"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Settlement.ClaimedCitiesCountMessage_1
 msgctxt "ecf482d8-b9b5-41f1-9158-1455987de79c"
 msgid "Number of cities: {claimed_cities_count}"
-msgstr ""
+msgstr "도시 수: {claimed_cities_count}"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Settlement.ClaimedTownsCountMessage_1
 msgctxt "9d0e55c9-c254-4594-bb03-6f8519d3bac6"
@@ -478,6 +513,8 @@ msgid ""
 "Number of towns: {claimed_cities_count}\n"
 "Three or more towns in your {mf|barony|barony|kingdom|kingdom} and at least 16 occupied building slots in the capital will enable you to upgrade the capital to city."
 msgstr ""
+"소도시 수: {claimed_towns_count}\n"
+"{mf|남작령|여남작령|왕국|왕국}에 소도시가 3개 이상이고, 수도에 지어진 건물이 16칸 이상이면 도시로 승급시킬 수 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Settlement.ClaimedVillagesCountMessage
 msgctxt "229aef6b-7197-4870-8fea-b9cb505b6959"
@@ -486,21 +523,26 @@ msgid ""
 "Every three villages acquired in your domain will enable you to upgrade one of them to the town level, provided that 6 or more slots are occupied in that village. The first upgrade must take place in the capital.\n"
 "Complete the relevant project on the Projects tab to start an upgrade. Once the upgrade is complete, the number of slots in the settlement will increase to 20, and the list of buildings will expand."
 msgstr ""
+"마을 수: {claimed_villages_count}\n"
+"영지가 보유한 3개의 정착지 마다, 6칸 이상의 건물이 지어진 마을 하나를 소도시로 승급시킬 수 있습니다. 수도를 첫 번째로 승급해야 "
+"합니다.\n"
+"승급을 시작하려면 계획 탭에서 관련 계획을 실행해야 합니다. 승급이 완료되면 정착지의 건물 칸이 20개로 늘어나고 건설 가능한 건물의 "
+"종류가 늘어납니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Settlement.DaysToBuildFormat
 msgctxt "c60c6cf2-0a47-4262-9b3c-cd8253df6bf8"
 msgid "The construction of the building will be finished in <b>{0}</b> days."
-msgstr ""
+msgstr "이 건물은 <b>{0}</b> 일 후에 건설이 완료됩니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Settlement.DaysToBuildSimpleFormat
 msgctxt "ed350f3f-87f6-4761-b6cd-55d778304fde"
 msgid "<b>{0}</b> days"
-msgstr ""
+msgstr "<b>{0}</b> 일"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Settlement.SellPriceFormat
 msgctxt "2f09e1be-86de-460d-96be-8a8ca72d456f"
 msgid "Sell: {0}"
-msgstr ""
+msgstr "판매: {0}"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Settlement.SettlementTypeNames.City
 msgctxt "19c13a5c-f6f4-44f1-8a31-b4ce4a9d680e"
@@ -520,34 +562,34 @@ msgstr "마을"
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Settlement.SlotsNames.CommonSlotColor
 msgctxt "19237062-4bd0-4345-aceb-9f9b1730cd99"
 msgid "common"
-msgstr ""
+msgstr "일반"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Settlement.SlotsNames.WallSlotColor
 msgctxt "e7ac4e99-680d-4951-a524-c6a5d752822e"
 msgid "wall"
-msgstr ""
+msgstr "성벽"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Settlement.SlotsNames.WaterSlotColor
 msgctxt "61cef2e2-9950-4af4-91b5-7ac0288d1e42"
 msgid "water"
-msgstr ""
+msgstr "물"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Settlement.UpgradesToLabelFormat
 msgctxt "90162b22-943b-4167-9e55-2b3f1f7cd0ae"
 msgid "Can be upgraded to <b>{0}</b>. Requires: <b>{1}</b>."
-msgstr ""
+msgstr "<b>{0}</b>(으)로 승급 가능. <b>{1}</b> 필요."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Stats.Array.data[0].Description
 msgctxt "9fca44cd-c7cf-432c-a4a8-8c796106b46b"
 msgid ""
 "The Community statistic represents the {mf|barony|barony|kingdom|kingdom}'s "
 "population. This statistic is governed by the Regent."
-msgstr ""
+msgstr "주민 수치는 {mf|남작령|남작령|왕국|왕국}의 인구를 나타냅니다. 이 수치는 섭정이 담당합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Stats.Array.data[0].Name
 msgctxt "7d11bcd4-c323-4a85-ae4a-5ccd27769a7e"
 msgid "Community"
-msgstr ""
+msgstr "주민"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Stats.Array.data[1].Description
 msgctxt "6edc51da-d4af-4773-ae50-e88260faa53b"
@@ -555,12 +597,12 @@ msgid ""
 "The Loyalty statistic indicates the citizen's favor towards the "
 "{mf|baron|baroness|king|queen}'s methods. This statistic is governed by the "
 "Councilor."
-msgstr ""
+msgstr "민심은 시민들이 {mf|남작|여남작|왕|여왕}의 통치에 갖는 선호도를 나타냅니다. 이 수치는 평의원이 담당합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Stats.Array.data[1].Name
 msgctxt "5f31c963-0712-4f2c-8217-13bbd3069553"
 msgid "Loyalty"
-msgstr "충성도"
+msgstr "민심"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Stats.Array.data[2].Description
 msgctxt "e0bccdbf-3dc2-4e32-bf59-9f2a64b77fc0"
@@ -568,12 +610,12 @@ msgid ""
 "The Military statistic represents the {mf|barony|barony|kingdom|kingdom}'s "
 "military prowess and its ability to defend against threats. This statistic "
 "is governed by the General."
-msgstr ""
+msgstr "군사 수치는 {mf|남작령|남작령|왕국|왕국}의 군사력과 위협에 맞서는 능력을 나타냅니다. 이 수치는 장군이 담당합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Stats.Array.data[2].Name
 msgctxt "fdf43e6d-1875-4626-8d8b-01ac78b97e6d"
 msgid "Military"
-msgstr "군대"
+msgstr "군사"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Stats.Array.data[3].Description
 msgctxt "718c0715-d3fd-476e-8a04-1a42f5f18c92"
@@ -581,7 +623,7 @@ msgid ""
 "The Economy statistic measures the {mf|barony|barony|kingdom|kingdom}'s "
 "productivity and affects the state's income. This statistic is governed by "
 "the Treasurer."
-msgstr ""
+msgstr "경제 수치는 {mf|남작령|남작령|왕국|왕국}의 생산성과 세입을 나타냅니다. 이 수치는 재무관이 담당합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Stats.Array.data[3].Name
 msgctxt "9e5b394b-7db2-46ef-9861-87f524720148"
@@ -596,11 +638,13 @@ msgid ""
 " the Regent covers matters of the Relations and will ask to assign a Grand "
 "Diplomat when the Community rank reaches IV."
 msgstr ""
+"외교 수치는 {mf|남작령|남작령|왕국|왕국}의 대내외적인 외교 관계를 나타냅니다. 남작령이 작을 때는 섭정이 담당하다가, 주민 등급이 "
+"IV에 달하면 수석 외교관의 임명을 요청할 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Stats.Array.data[4].Name
 msgctxt "381a2343-5df5-4281-b5a3-19bc1ed94ca2"
 msgid "Relations"
-msgstr "관계도"
+msgstr "외교"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Stats.Array.data[5].Description
 msgctxt "a74c3bab-8e57-4cc8-a309-40034d355b1a"
@@ -608,7 +652,7 @@ msgid ""
 "The Divine statistic reflects the {mf|barony|barony|kingdom|kingdom}'s piety"
 " and support of religious works in the region. This statistic is governed by"
 " the High Priest or Priestess."
-msgstr ""
+msgstr "신성 수치는 {mf|남작령|남작령|왕국|왕국}의 경건함과 종교 활동을 반영합니다. 이 수치는 고위 사제가 담당합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Stats.Array.data[5].Name
 msgctxt "141dd41f-9c41-4a65-b597-9e5679980572"
@@ -616,12 +660,6 @@ msgid "Divine"
 msgstr "신성"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Stats.Array.data[6].Description
-#, fuzzy
-#| msgid ""
-#| "The Arcane statistic represents the {mf|barony|barony|kingdom|kingdom}'s "
-#| "development of new arcane practices and accumulation of arcane knowledge. In"
-#| " small baronies the High Priest covers matters of the Arcane and will ask to"
-#| " assign a Magister when necessary."
 msgctxt "f58b925d-e549-481c-aca9-066262ee3fc0"
 msgid ""
 "The Arcane statistic represents the {mf|barony|barony|kingdom|kingdom}'s "
@@ -629,8 +667,8 @@ msgid ""
 " small baronies the High Priest covers matters of the Arcane and will ask to"
 " assign a Magister when the Divine rank reaches IV."
 msgstr ""
-"비전 지표는 {mf|남작령|남작령|왕국|왕국}의 새로운 비전 사용 방법의 개발과 비전 지식의 축적 정도를 나타냅니다. 소규모 남작령의 "
-"경우 고위 사제가 비전 문제를 처리하며 필요할 때는 마법학자의 배정을 요청할 것입니다."
+"비전 수치는 {mf|남작령|남작령|왕국|왕국}의 새로운 비전 사용 방법의 개발과 비전 지식의 축적 정도를 나타냅니다. 소규모 남작령의 "
+"경우 고위 사제가 비전 문제를 처리하며 신성 등급이 IV에 달하면 마법학자의 임명을 요청할 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Stats.Array.data[6].Name
 msgctxt "8ee0e2e9-468e-4d79-840d-37ec9b5fc1e8"
@@ -643,11 +681,14 @@ msgid ""
 "The Stability statistic represents internal security and how compliant the {mf|barony|barony|kingdom|kingdom}'s subjects are. In small baronies the General covers matters of the Stability and will ask to assign a Warden when the Military rank reaches IV.\n"
 "The Unrest improves by one step up to Stable each time the Stability rank increases."
 msgstr ""
+"치안 수치는 {mf|남작령|남작령|왕국|왕국} 내부가 얼마나 안전한지, 백성들이 얼마나 순응하는지를 나타냅니다. 남작령이 작을 때는 "
+"장군이 치안을 맡다가 군사 등급이 IV에 달하면 감시관의 임명을 요청할 것입니다.\n"
+"안정도는 치안 등급이 상승할 때 마다 한 단계 올라갑니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Stats.Array.data[7].Name_String
 msgctxt "1b031159-ae7f-4a3b-a4cf-0d837be73aeb"
 msgid "Stability"
-msgstr "안정도"
+msgstr "치안"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Stats.Array.data[8].Description
 msgctxt "f8694194-3678-4beb-8377-0156b85911d6"
@@ -657,6 +698,8 @@ msgid ""
 "the Councilor covers matters of the Culture and will ask to assign a Curator"
 " when the Loyalty rank reaches IV."
 msgstr ""
+"문화는 {mf|남작령|남작령|왕국|왕국}과 그 백성들의 문화 및 교육 수준을 나타냅니다. 남작령이 작을 때는 평의원이 문화를 담당하다가 "
+"민심 등급이 IV에 달하면 학예사의 임명을 요청할 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Stats.Array.data[8].Name
 msgctxt "7c5d22fd-e844-492b-a09c-12e9db2b10fe"
@@ -672,77 +715,76 @@ msgid ""
 "Espionage and will ask to assign a Minister when the Relations rank reaches "
 "IV."
 msgstr ""
+"첩보 수치는 {mf|남작령|남작령|왕국|왕국}의 첩보망과 방첩 능력을 나타냅니다. 남작령이 작을 때는 수석 외교관이 첩보를 담당하다가 "
+"외교 등급이 IV에 달하면 장관의 임명을 요청할 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Stats.Array.data[9].Name
 msgctxt "4da7bc2c-9fa2-4237-8286-904d160978d5"
 msgid "Espionage"
-msgstr ""
+msgstr "첩보"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.BuildFreeCost
 msgctxt "9afc76dc-63d8-4ed8-a2bf-9dbabbf8a8d1"
 msgid "Free"
-msgstr ""
+msgstr "자유"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.BuildPointsDiscountFormat
 msgctxt "2b5666d1-c0ed-489f-958d-2ec7000f5af9"
 msgid "{0} BP (50%)"
-msgstr ""
+msgstr "{0} BP (50%)"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.BuildPointsFormat
 msgctxt "8a859ad4-a0d9-4638-a1cb-0d0dc6d7e624"
 msgid "{0} BP"
-msgstr ""
+msgstr "{0} BP"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.BuildPointsPerMonthFormat
 msgctxt "1411aa86-dc60-4996-8ca3-858d318395a0"
 msgid "{0} BP per week"
-msgstr ""
+msgstr "주당 {0} BP"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.ConsumableBonusFormat
 msgctxt "2721671f-d6be-4e95-b390-2f6caae5410c"
 msgid "{0} to roll"
-msgstr ""
+msgstr "굴림에 {0}"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.ConsumableCountFormat
 msgctxt "88685360-d39f-4c79-ae42-ecfac89feccf"
 msgid "Available: {0}"
-msgstr ""
+msgstr "사용가능: {0}"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.DependsQuestFormat
 msgctxt "9503e7d8-8db5-450b-a657-4f863389b438"
 msgid ""
 "Your {mf|barony|barony|kingdom|kingdom} will soon fall! To avoid that you "
 "have to advance the main plot and complete the following quest: {0}"
-msgstr ""
+msgstr "{mf|남작령|남작령|왕국|왕국}이 곧 무너집니다! 그러지 않으려면 다음 퀘스트를 완료하고 메인 플롯을 진행하십시오: {0}"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.DifficultyChanceFormat
 msgctxt "e7d5017e-862d-4752-b380-ecb7b6b92c0f"
 msgid "Success chance: {0}%"
-msgstr ""
+msgstr "성공 확률: {0}%"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.EmptyCompanionDescription
-#, fuzzy
 msgctxt "c95c2009-d5b0-479a-bb82-9f0cc3457498"
 msgid ""
 "Choose an advisor to handle this event. Advisors will act according to their"
 " position in government, beliefs, and alignment. Choose wisely!"
-msgstr "이 이벤트를 다룰 조언가를 고르세요. 조언가는 정부의 위치, 신념, 지지하는 것에 따라 행동할 것입니다. 현명하게 고르세요!"
+msgstr "이 사건을 다룰 조언가를 고르십시오. 조언가는 직위, 신념, 성향에 따라 행동할 것입니다. 잘 골라야 합니다!"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.EmptyCompanionHeaderPortrait
 msgctxt "676e989e-f655-47fa-bb8b-4a7a1f1118c7"
 msgid "Choose an advisor for this position"
-msgstr "이 자리에 앉힐 조언가를 고르세요."
+msgstr "이 자리에 앉힐 조언가를 고르십시오."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.EmptyCompanionLeaderDescription
 msgctxt "aa87090e-368c-4cf8-b30b-3df374a47dcc"
 msgid ""
 "Choose an advisor to fill this position. Advisors will act according to "
 "their position in government, their beliefs, and their alignment."
-msgstr ""
+msgstr "이 자리를 채울 조언가를 고르십시오. 조언가는 직위, 신념, 성향에 따라 행동할 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomBptTooltipBase
-#, fuzzy
-#| msgid "Base income"
 msgctxt "55fc8804-1cc3-42f9-93b5-61de71cdd0b7"
 msgid "Base Income"
 msgstr "기본 소득"
@@ -757,59 +799,59 @@ msgstr "경제 보너스"
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomBptTooltipFooter
 msgctxt "e3eac159-a934-4698-bab7-c3f12ad6df96"
 msgid "Treasury receives Build Points every week."
-msgstr ""
+msgstr "국고에 매주 BP가 들어옵니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomBptTooltipHeader
 msgctxt "db3502b3-2dc8-4b9f-8300-e6bf5737c0b0"
 msgid "Build Points per Week"
-msgstr ""
+msgstr "주당 건설 점수"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomBptTooltipRegion
 msgctxt "783c6035-328f-44a5-b4a8-7cf597e1ba98"
 msgid "Income from Regions"
-msgstr ""
+msgstr "지역별 수입"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomBptTooltipSubsidy
 msgctxt "a431c732-8e2c-4092-9d00-ceda7c28ff38"
 msgid "Brevoy Subsidy"
-msgstr ""
+msgstr "브레보이 보조금"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomBptTooltipTax
 msgctxt "74773dab-b495-45f2-ab54-e458cd703f6e"
 msgid "Taxes"
-msgstr ""
+msgstr "브레보이 세금"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomBptTooltipTotal
 msgctxt "afeaf64b-7e76-4faf-ae9f-ff1ed52200b7"
 msgid "Total"
-msgstr ""
+msgstr "합계"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomEventDaysToResolveFormat
 msgctxt "2c1509b4-87ba-4aae-a002-cda4df30d73c"
 msgid "Requires {0} days to solve"
-msgstr ""
+msgstr "해결에 {0}일 필요"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomEventDifficaltyFormat
 msgctxt "39a0e3e7-9578-4cc6-a7bd-c414eb1bbd9f"
 msgid "DC {0} | D20 + {1}"
-msgstr ""
+msgstr "DC {0} | D20 + {1}"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomEventEndTimeFormat
 msgctxt "67b11f18-1d0c-4a3c-9640-a13d5d165fb5"
 msgid "Ends in {0} days"
-msgstr ""
+msgstr "{0}일 후 종료"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomEventIgnoreDecription_String
 msgctxt "14edbc11-33b2-4e69-b843-1333e41826f8"
 msgid ""
 "The ignored event will fail on the following day. You can cancel this "
 "decision before that time."
-msgstr ""
+msgstr "무시한 사건은 다음 날 실패로 처리됩니다. 그 전까지 이 결정을 취소할 수 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomEventIsOpportunityExpireLabel
 msgctxt "341dd2bc-2172-461b-b08d-d6916d6e9841"
 msgid "Will expire on {0}"
-msgstr ""
+msgstr "{0}에 만료"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomEventIsOpportunityLabel
 msgctxt "d365863b-c673-47cd-b6c0-a8bfdb37df85"
@@ -819,38 +861,37 @@ msgstr "기회"
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomEventIsProblemExpireLabel
 msgctxt "925abc4e-14ca-49d3-824d-e8f0f0b31d84"
 msgid "Should be attended before {0}"
-msgstr ""
+msgstr "{0}까지 참석해야 합니다"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomEventIsProblemLabel
 msgctxt "f30c8ea3-1e0d-4bf0-b6dc-60f63a88af53"
 msgid "Problem"
-msgstr ""
+msgstr "문제"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomEventWasIgnoreLabel
-#, fuzzy
 msgctxt "d7a1ef68-e51a-4c9b-954f-c89f6a6fd927"
 msgid "The time to act on this event has passed. This event has failed."
-msgstr "이 이벤트에 대응할 수 있는 시간이 지났습니다. 이 이벤트는 실패했습니다."
+msgstr "이 사건에 대응할 수 있는 시간이 지났습니다. 이 사건은 실패했습니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomEventWindowDropDialogueEventLabel
 msgctxt "8d09a488-2a57-45ba-a5eb-f9855fdf394d"
 msgid "Cancel Event"
-msgstr ""
+msgstr "사건 취소"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomEventWindowDropDialogueProjectLabel
 msgctxt "8c67d41c-6e64-48dc-834a-1f82aa73ba9d"
 msgid "Cancel Project"
-msgstr ""
+msgstr "계획 취소"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomEventWindowDropEventLabel
 msgctxt "bcfe019a-6205-48f9-b654-a8f575fd0ad7"
 msgid "Canceling this event will result in its immediate failure."
-msgstr ""
+msgstr "이 사건을 취소하면 즉시 실패합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomEventWindowDropProjectLabel
 msgctxt "7e20bcaf-e1f4-4f70-83e2-ba1ade62016a"
 msgid "Canceling this project will refund <b>{0}</b> BP."
-msgstr ""
+msgstr "이 계획을 취소하면 <b>{0}</b> BP를 돌려받습니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomIsDeadDescription
 #, fuzzy
@@ -861,37 +902,37 @@ msgstr "당신의 왕국은 멸망했습니다."
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomIsDeadName
 msgctxt "7e627506-a393-4a59-9719-c34d740ba8a7"
 msgid "Destroyed"
-msgstr ""
+msgstr "멸망"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomLeaderStatByBonus
 msgctxt "1d5831d6-3d9a-430b-a9c0-acc141327f56"
 msgid "Bonus"
-msgstr ""
+msgstr "보너스"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomLeaderStatByLeader
 msgctxt "56dd15a1-c3ea-46b9-ac2e-18c74d7c60d8"
 msgid "Leader Bonus"
-msgstr ""
+msgstr "지도자 보너스"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomLeaderStatByPenalty
 msgctxt "574f5dfb-9910-4386-8c56-530c81cc88f2"
 msgid "Mercenary Penalty"
-msgstr ""
+msgstr "용병 페널티"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomLeaderStatByRank
 msgctxt "a1db1ffb-7473-49d1-a28c-7d35bbe714be"
 msgid "Stat Rank"
-msgstr ""
+msgstr "지표 등급"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomLeaderStatByState
 msgctxt "fac398e3-5a0a-42f9-bf08-3853a3ff7741"
 msgid "Kingdom Stat"
-msgstr ""
+msgstr "왕국 지표"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomNameDialogueHeader
 msgctxt "fdaaafd5-4331-45da-94d7-aa9349496a73"
 msgid "Choose a name for your barony"
-msgstr ""
+msgstr "남작령의 이름을 정하십시오"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomNameDialogueHint
 #, fuzzy
@@ -902,113 +943,113 @@ msgstr "남작령의 이름은 나중에 다시 바꿀 수 없습니다."
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomProjectStartBPCostFormat
 msgctxt "fadd27e6-93ef-4f15-940e-0087a4c901f7"
 msgid "Project cost: {0} BP"
-msgstr ""
+msgstr "계획 비용: {0} BP"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomProjectStartBPCostInsufficientFormat
 msgctxt "cc7e3864-16df-469d-8b03-1803afd651c4"
 msgid "Project cost: {0} BP <#5A2614>(insufficient funds)"
-msgstr ""
+msgstr "계획 비용: {0} BP <#5A2614>(자금 부족)"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomProjectStartBPCostStartLabelFormat
 msgctxt "2b35f2b3-4208-495a-9552-2d5ca609d534"
 msgid "Cost: {0} BP"
-msgstr ""
+msgstr "비용: {0} BP"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomProjectStartBPCostStartLabelInsufficientFormat
 msgctxt "291358d3-6d53-43a7-9a79-8ec59468f8eb"
 msgid "Cost: {0} BP <#5A2614>(insufficient funds)"
-msgstr ""
+msgstr "비용: {0} BP <#5A2614>(자금 부족)"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomResourceLabel
 msgctxt "09908b32-c7ea-42c4-8923-6931e1064bf6"
 msgid "Kingdom resource"
-msgstr ""
+msgstr "왕국 자원"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomSettlementWindowBuildHeader
 msgctxt "c0bd8d43-85f2-44eb-b014-7d7dc16e8332"
 msgid "Founding a New Settlement"
-msgstr ""
+msgstr "새 정착지 설립"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomSpendProjectTime
 msgctxt "8cc14b75-3d62-4efc-a2c3-26568c9b0529"
 msgid "Days left: <b>{0}</b>."
-msgstr ""
+msgstr "남은 날짜: <b>{0}</b>."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomSpendProjectTitle
 msgctxt "d24c5d23-dde7-4374-892a-985792cb083f"
 msgid "<b>{0}</b> is occupied with the project \"<b>{1}</b>\"."
-msgstr ""
+msgstr "<b>{0}</b> 은/는 \"<b>{1}</b>\" 계획에 전념중입니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomStartClaimLabel
 msgctxt "ad230b89-a073-4b32-b046-17cd92557002"
 msgid "Start the Claim"
-msgstr ""
+msgstr "점령하기"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomStartEventLabel
 msgctxt "de585d0f-d289-4f66-90a0-5e1184a97665"
 msgid "Start Event"
-msgstr ""
+msgstr "사건 시작"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomStartProjectLabel
 msgctxt "857622ae-6de8-486c-ab69-ce61d2e59f4c"
 msgid "Start Project"
-msgstr ""
+msgstr "계획 시작"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomTeleportationCircle
 msgctxt "38b3c662-956c-4f79-a95e-2e5ccad51510"
 msgid "Teleportation Circle"
-msgstr ""
+msgstr "순간이동 마법진"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.NoCompanionsLabel
 msgctxt "d14e7bf6-4737-43e1-a03c-ab0e96aab734"
 msgid "No candidates are available for this position."
-msgstr ""
+msgstr "이 직위에 적합한 후보자가 없습니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.RankUpFormatAfter
 msgctxt "4e92f314-37ab-4b40-8e52-dc6ca7f2e0ba"
 msgid "<b>{0}</b> reached rank <b>{1}</b>!"
-msgstr ""
+msgstr "<b>{0}</b>의 등급이 <b>{1}</b>에 달했습니다!"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.RankUpFormatBefore
 msgctxt "b3ea697e-6761-4d9f-a8d4-f56f7cb02675"
 msgid ""
 "Completing this project will rank up <b>{0}</b> (current rank: <b>{1}</b>)"
-msgstr ""
+msgstr "이 계획을 완료하면 <b>{0}</b>의 등급이 오릅니다. (현재 등급: <b>{1}</b>)"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.RegionWindowCannotUpgradedHint
 msgctxt "41519c14-c4c8-4071-b53d-2996ddea4c9a"
 msgid "Region upgrades are not yet available."
-msgstr ""
+msgstr "아직 지역 승급을 이용할 수 없습니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.RegionWindowSettlementAlreadyBuildHint
 msgctxt "92b98f67-6135-40b2-a411-584f9fca18e7"
 msgid "You have already founded the only available settlement in the region."
-msgstr ""
+msgstr "이미 정착지를 세웠습니다. 한 지역에는 하나의 정착지만 세울 수 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.RegionWindowSettlementNotBuildYetHint
 msgctxt "81050a29-03a1-4338-b094-26716d4fc565"
 msgid "Only one settlement can be founded in this region."
-msgstr "이 지역에선 오직 한 정착지만 세울 수 있습니다."
+msgstr "한 지역에 하나의 정착지만 세울 수 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.RegionWindowSettlementNotClaimHint
 msgctxt "767c55a7-7e4a-4c9a-a125-401de88a67ed"
 msgid "This region has not yet been claimed."
-msgstr "이 지역의 소유권을 아직 주장할 수 없습니다."
+msgstr "이 지역을 아직 점령하지 않았습니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.RegionWindowUpgradedAlreadyHint
 msgctxt "6d2e55b8-1790-4782-9e6a-867e4d04f999"
 msgid "This region is already upgraded."
-msgstr "이 지역은 이미 업그레이드 되었습니다."
+msgstr "이 지역은 이미 승급 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.RegionWindowUpgradedIsNotClaimedHint
 msgctxt "2052804a-f905-4f38-a4f8-ab3a2c11d466"
 msgid "Upgrade will be available after you claim the region."
-msgstr "이 지역을 얻은 뒤에 업그레이드가 가능합니다."
+msgstr "이 지역을 얻은 뒤에 승급이 가능합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.RegionWindowUpgradedNotYetHint
 msgctxt "1621c9f3-8953-47f2-b093-7b8616e1a2ef"
 msgid "Only one upgrade can be chosen for this region."
-msgstr "이 지역에선 한 가지 업그레이드만 고를 수 있습니다."
+msgstr "이 지역에선 한 가지 승급만 고를 수 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.SettlementNameDialogueHeader
 msgctxt "6d89881c-f44e-44fd-965e-77a861ef7554"
@@ -1023,32 +1064,32 @@ msgstr "정착지의 이름은 나중에 바꿀 수 있습니다."
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.SuccessEventStatFormat
 msgctxt "75323edc-877c-461c-adcb-80586bad662e"
 msgid "<b>{0}</b> to <b>{1}</b> on Success or Triumph"
-msgstr ""
+msgstr "성공 또는 대성공시 <b>{1}</b>에 <b>{0}</b>"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.UnrestDownWarningNotificationFormat
 msgctxt "c2329fac-d9ef-40d0-83de-8f66875ec9c9"
 msgid "Unrest dropped to a new state: {0}."
-msgstr ""
+msgstr "안정도가 떨어져 {0}이/가 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.UnrestTooltipHistoryFormat
 msgctxt "d8a08ddb-78f1-40c0-a42a-55c5e8ed0934"
 msgid "[{0}] Unrest changed from <b>{1}</b> to <b>{2}</b>. Reason: {3}"
-msgstr ""
+msgstr "[{0}] 안정도가 <b>{1}</b>에서 <b>{2}</b>로 변동. 사유: {3}"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.UnrestUpWarningNotificationFormat
 msgctxt "d7f1ff59-801c-474f-a1e9-b10e026532c9"
 msgid "Unrest improved to a new state: {0}."
-msgstr ""
+msgstr "안정도가 높아져 {0}이/가 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.UpgradeItemTooltipDescription
 msgctxt "6f4bad89-4cd2-46f0-b67f-caa4d0eb57f1"
 msgid "You have yet to discover this upgrade."
-msgstr "당신은 아직 이 업그레이드를 발견하지 못 했습니다."
+msgstr "당신은 아직 이 승급을 발견하지 못 했습니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.UpgradeItemTooltipName
 msgctxt "de3942da-d2ce-4a9e-8945-1adb91bb967c"
 msgid "Unknown Upgrade"
-msgstr "알 수 없는 업그레이드"
+msgstr "알 수 없는 승급"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Tooltip.BuildClickAndDragFormat
 msgctxt "42ea3b2d-2565-4ec5-94cc-67245c42caf1"
@@ -1058,22 +1099,22 @@ msgstr "클릭후 드래그로 건설하세요."
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Tooltip.BuildCostBpFormat
 msgctxt "fa0ff768-e7ad-4e77-a703-cc8d8b14f99d"
 msgid "Building costs <b>{0}</b> BP"
-msgstr ""
+msgstr "건설 비용 <b>{0}</b> BP"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Tooltip.BuildCostSlotFormat
 msgctxt "7a47351a-4aba-437d-b232-3ff4ebcd6fdc"
 msgid "Need <b>{0}</b> free slots to build."
-msgstr ""
+msgstr "건물을 지으려면 빈 공간이 <b>{0}</b>칸 필요합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Tooltip.LostBpByEconomyRankFormat
 msgctxt "3b9eed8d-e1b2-4812-bed4-579fa4571749"
 msgid "(<b>{0} BP</b> is lost due to low Economy)"
-msgstr ""
+msgstr "(낮은 경제 때문에 <b>{0} BP</b> 손실)"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Tooltip.ProvidesBpByStatFormat
 msgctxt "455c0e14-8e31-4e12-802a-b8fd5210afef"
 msgid "Provides <b>{0} BP</b> per week"
-msgstr ""
+msgstr "주당 <b>{0} BP</b> 제공"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Tooltip.SpendDayDisable
 msgctxt "0af16168-5a6d-42cb-9d41-eb68b2e03fda"
@@ -1088,105 +1129,105 @@ msgstr "하루 건너뛰기"
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Tooltip.StatRankFormat
 msgctxt "b7f5ab72-d37a-4ca1-9e0c-394402010117"
 msgid "Kingdom Stat Rank: {0}"
-msgstr ""
+msgstr "왕국 지표 등급: {0}"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Tooltip.StatValueFormat
 msgctxt "fd274950-1b4e-4977-9c7f-043383b5f8c8"
 msgid "Kingdom Stat Value: {0}"
-msgstr ""
+msgstr "왕국 지표 수치: {0}"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Buildings/AssassinsGuildKingdomBuff_ReasonString_String
 msgctxt "839ebafd-c8ad-407e-939c-daa7eae3f910"
 msgid "Assassin's Guild activity"
-msgstr ""
+msgstr "암살자 조합 활동"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Buildings/CrudadersCastleBuff_DisplayName_String
 msgctxt "8cecc16d-03b8-47de-8dc5-e14baeb455f5"
 msgid "Alliance with Mendevian Crusaders"
-msgstr ""
+msgstr "멘데브 십자군과의 동맹"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Buildings/CrudadersCastleBuff_m_Description
 msgctxt "6f1c3216-2427-49cc-8833-231b5ca777ab"
 msgid ""
 "+1 sacred bonus to attack and damage rolls against undead and outsiders."
-msgstr ""
+msgstr "언데드와 아웃사이더를 공격할 때 명중과 피해에 +1 신성 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Buildings/CrusadersCastleKingdomBuff_Description
 msgctxt "928aafb3-053e-425d-898d-96e25c3c0a97"
 msgid ""
 "+1 sacred bonus to attack and damage against undead and outsiders within the"
 " {mf|barony|barony|kingdom|kingdom}'s borders."
-msgstr ""
+msgstr "{mf|남작령|남작령|왕국|왕국} 내에서 언데드와 아웃사이더를 공격할 때 명중과 피해에 +1 신성 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Buildings/CrusadersCastleKingdomBuff_DisplayName
 msgctxt "f6f2dcfb-5a1e-4251-964e-f8167cbbc99e"
 msgid "Alliance with Mendevian Crusaders"
-msgstr ""
+msgstr "멘데브 십자군과의 동맹"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Buildings/HellknightsCastleBuff_DisplayName_String
 msgctxt "8caf7b00-87c7-4027-848d-c9f4c7b09b4a"
 msgid "Alliance with the Hellknights"
-msgstr ""
+msgstr "헬나이트와의 동맹"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Buildings/HellknightsCastleBuff_m_Description
 msgctxt "b3d362f9-6c23-4970-96b7-50c2cc433792"
 msgid "+1 profane bonus to attack and damage against chaotic creatures"
-msgstr ""
+msgstr "혼돈 성향 크리처를 공격할 때 명중과 피해에 +1 불경 보너스"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Buildings/HellknightsCastleKingdomBuff_Description
 msgctxt "f7e1ce93-a9b9-46a9-bd50-c1e38fd79539"
 msgid ""
 "+1 profane bonus to attack and damage against chaotic creatures within the "
 "{mf|barony|barony|kingdom|kingdom}'s borders."
-msgstr ""
+msgstr "{mf|남작령|남작령|왕국|왕국} 내에서 혼돈 성향 크리처를 공격할 때 명중과 피해에 +1 불경 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Buildings/HellknightsCastleKingdomBuff_DisplayName
 msgctxt "ac9d4c40-83f0-4341-ac84-faafab51a57b"
 msgid "Alliance with the Hellknights"
-msgstr ""
+msgstr "헬나이트와의 동맹"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Buildings/PathfinderLodgeBuff_DisplayName_String
 msgctxt "0c61b5f2-7ca8-47a1-9b91-3f5851c8f71b"
 msgid "Pathfinder's Lore"
-msgstr ""
+msgstr "패스파인더의 지식"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Buildings/PathfinderLodgeBuff_m_Description
 msgctxt "17a21ad0-e736-418a-b641-d00c04d4954f"
 msgid "+3 insight bonus to all Knowledge and Lore checks."
-msgstr ""
+msgstr "지식과 전승 판정에 +3 통찰 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Buildings/PathfinderLodgeKingdomBuff_Description
 msgctxt "1814fab5-1f32-4b7b-a92d-9d3667ba16d9"
 msgid ""
 "+3 insight bonus to all Knowledge and Lore checks within the "
 "{mf|barony|barony|kingdom|kingdom}'s borders."
-msgstr ""
+msgstr "{mf|남작령|남작령|왕국|왕국} 내에서 지식 및 전승 판정에 +3 통찰 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Buildings/PathfinderLodgeKingdomBuff_DisplayName
 msgctxt "10fb992f-61b8-4839-b651-216989e35918"
 msgid "Pathfinder's Lore"
-msgstr ""
+msgstr "패스파인더의 지식"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Projects/RoadOFShieldsBuff_Description
 msgctxt "fdd6786f-dd2c-4fc1-aee3-319326056843"
 msgid ""
 "+3 bonus for the Warden or Treasurer to resolve any situation in the region"
-msgstr ""
+msgstr "감시관이나 재무관이 상황을 해결할 때 +3 보너스"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Projects/RoadOFShieldsBuff_DisplayName
 msgctxt "13acd55f-3fef-4f3e-86da-7849bea62e23"
 msgid "Road of Shields"
-msgstr ""
+msgstr "방패의 길"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Projects/RoadOFShieldsKingdomBuff_Description
 msgctxt "b2dded5b-a986-4563-93cc-eb6df2b3f588"
 msgid "+3 bonus for the Warden or Treasurer to resolve any situation"
-msgstr ""
+msgstr "감시관이나 재무관이 상황을 해결할 때 +3 보너스"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Projects/RoadOFShieldsKingdomBuff_DisplayName
 msgctxt "7c1745aa-9109-489f-8fea-fb7a0f73e42d"
 msgid "Road of Shields"
-msgstr ""
+msgstr "방패의 길"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Projects/TradingCaiden_Description_String
 msgctxt "8433826e-f31c-43d8-af92-f01dd6ef34fc"
@@ -1197,11 +1238,13 @@ msgid ""
 "additional 1d10 BP for every 50 points of Loyalty and Relation above 400, up"
 " to 5d10 BP."
 msgstr ""
+"케이든과 그 신도들이 좋아하는 상품을 팔아 상당한 수입을 얻습니다. 월 1d10BP 제공. 민심과 외교가 모두 8등급, 10등급이 될 "
+"때마다 월 1d10BP를 추가로 제공. 민심과 외교가 400을 넘으면, 이후 50점 마다 1d10 BP 제공. 최대 5d10 BP."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Projects/TradingCaiden_DisplayName_String
 msgctxt "39cc9db7-a552-4ded-a783-64c65b5d4f3f"
 msgid "Trade in Wine"
-msgstr ""
+msgstr "와인 교역"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Projects/TradingWithCheliax_Description_String
 msgctxt "893189d2-1c8a-4f2b-badb-e74d2fcfccda"
@@ -1210,11 +1253,13 @@ msgid ""
 "remains at Rank 10, Stability is above rank 7, and Unrest is Worried or "
 "better. Maximum value is 40 BP per month."
 msgstr ""
+"이 교역의 가치는 주민이 10등급일 때, 치안이 7등급 이상일 때, 안정도가 우려 이상일 때 매달 +4 BP 만큼 증가해 최대 40 "
+"BP까지 증가합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Projects/TradingWithCheliax_DisplayName_String
 msgctxt "ea4e7259-694d-4b66-820b-98040ab0b5ab"
 msgid "Trade agreement with Cheliax"
-msgstr ""
+msgstr "첼리악스와의 교역 협정"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Projects/TradingWithGalt_Description
 msgctxt "fef0ec13-6f80-41b8-9388-47ece1129ca1"
@@ -1222,37 +1267,36 @@ msgid ""
 "Market speculation allows the cunning and experienced to turn a profit even "
 "in times of strife. +2 BP per week, per state of Unrest. The higher the "
 "Unrest, the more BP this agreement provides."
-msgstr ""
+msgstr "교활하고 노련한 투기꾼은 어려운 시기에도 이익을 냅니다. 안정도가 낮을 수록 주당 +2 BP."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Projects/TradingWithGalt_DisplayName_String
 msgctxt "9d23e75d-8dd3-408a-8726-bb620daa9449"
 msgid "Trade agreement with Galt"
-msgstr ""
+msgstr "갈트와의 교역 협정"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Projects/TradingWithRazmiran_Description
-#, fuzzy
 msgctxt "67a27cdf-0ccc-47c3-b6a1-ef3e690b483c"
 msgid ""
 "Trading with a self-proclaimed god can be profitable. Provides 4 BP per "
 "week, and increases Economy and Relations by 5."
-msgstr "자칭 신과 거래하면 이득이 될 수 있을 것입니다. 4BP를 매주 얻고 경제와 외교가 5만큼 오릅니다."
+msgstr "자칭 신과의 거래는 이득이 될 것입니다. 매주 4 BP를 얻고 경제와 외교가 5만큼 오릅니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Projects/TradingWithRazmiran_DisplayName_String
 msgctxt "def9de6f-b514-4bbe-9f78-01015b04b972"
 msgid "Trade agreement with Razmiran"
-msgstr ""
+msgstr "라즈미란과의 교역 협정"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Projects/TradingWithSurtova_Description
 msgctxt "28f0f858-6fc3-4352-b5db-fdc2fca6fec9"
 msgid ""
 "Every settlement in the kingdom brings in BP each week: +1 BP for a village,"
 " +2 for a town, and +5 for a city."
-msgstr ""
+msgstr "왕국 내 정착지에 따라 매주 BP 획득: 마을 +1 BP, 소도시 +2 BP, 도시 +5 BP."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Projects/TradingWithSurtova_DisplayName_String
 msgctxt "198be7eb-59d6-4d1e-93f2-336544f9fab1"
 msgid "Trade agreement with Surtova"
-msgstr "설토바와의 무역 협정"
+msgstr "설토바와의 교역 협정"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ArcRank4-DiscountArcBuildings_Description_String
@@ -1262,21 +1306,17 @@ msgid ""
 "Exotic Garden, Library, Mage's Tower, Magic Shop, Magical Academy, Nethys' "
 "Academy, Nethys' Library, Pathfinder Lodge, University) is reduced by 10%."
 msgstr ""
+"고정 비전 보너스가 있는 건물(아카데미, 알케미스트 실험실, 이국적인 정원, 도서관, 마법사의 탑, 마법 상점, 마법 아카데미, 네서스 "
+"아카데미, 네서스 도서관, 패스파인더 지부, 대학)의 비용이 10% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ArcRank4-DiscountArcBuildings_DisplayName_String
 msgctxt "ddcabd79-c4aa-458a-977f-3a077844e2dd"
 msgid "Arcane Lobby"
-msgstr ""
+msgstr "비전 영향력"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ArcRank5-EasierEventsatCapital_Description
-#, fuzzy
-#| msgid ""
-#| "After general permission for arcane experiments was granted, life in the "
-#| "capital became much more colorful... and unpredictable. +1 bonus for solving"
-#| " events by Magister in the claimed regions/ In the Shrike region this bonus "
-#| "is raised to +3."
 msgctxt "18500a6e-e85f-4529-b0ca-3eca1a00e7cd"
 msgid ""
 "After general permission for arcane experiments was granted, life in the "
@@ -1284,14 +1324,14 @@ msgid ""
 " events by Magister in the claimed regions. In the Shrike region this bonus "
 "is raised to +3."
 msgstr ""
-"비전 실험에 대한 일반적 허가 이후 수도의 삶은 훨씬 다채롭고...예측할 수 없게 되었습니다. 선언된 지역에선 마법대신의 사건에 대해 "
-"+1 보너스를 휙득하고 슈라이크 지역에선 보너스가 +3으로 올라갑니다."
+"비전 실험 일반에 대한 허가 이후로 수도의 생활은 훨씬 다채롭고...예측할 수 없게 되었습니다. 마법대신이 점령지의 사건을 해결할 때 +"
+"1 보너스를 받고, 슈라이크 지역에서는 +3 보너스를 받습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ArcRank5-EasierEventsatCapital_DisplayName
 msgctxt "54876da7-77ff-47d1-a6c4-fdca0d57794a"
 msgid "Arcane Experiments in the Capital"
-msgstr ""
+msgstr "수도 내 비전 실험"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ArcRank5-ImmunitytoCompulsionsKingdomBuff_Description_String
@@ -1299,13 +1339,13 @@ msgctxt "ee45ea22-4ef4-450e-97a7-9657faa12ef9"
 msgid ""
 "Magic protection with a state-wide area of effect. Provides immunity to "
 "compulsion spells while fighting within claimed regions."
-msgstr ""
+msgstr "나라 전역에 영향을 미치는 마법 보호. 점령지에서 싸울 때 강제에 면역이 됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ArcRank5-ImmunitytoCompulsionsKingdomBuff_DisplayName_String
 msgctxt "97c0ccad-1202-47c9-affe-4107ee2db6cd"
 msgid "Arcane Protection from Compulsions"
-msgstr "강제 계열 주문으로부터 보호"
+msgstr "강제에 대한 비전 보호"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ArcRank5-ImmunitytoCompulsions_m_Description
@@ -1314,8 +1354,7 @@ msgid ""
 "There is only one will in Stolen Lands — that of their ruler. Provides "
 "immunity to compulsions while fighting within claimed regions."
 msgstr ""
-"도둑맞은 땅에는 오직 하나의 의지만이 존재합니다 - 통치자의 것입니다. 획득한 지역 내에서 싸우는 동안 강제 계열 주문에 대한 면역을 "
-"제공합니다."
+"도둑맞은 땅에는 오직 하나의 의지, 바로 통치자의 의지만이 존재합니다. 점령지에서 싸우는 동안 강제 계열 주문에 대한 면역을 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ArcRank5-ImmunitytoCompulsions_m_DisplayName
@@ -1332,14 +1371,14 @@ msgid ""
 "Magister attempts to solve in the Shrike region, roll twice for resolution, "
 "and pick the better result."
 msgstr ""
-"농민들은 마법사가 자신들을 지켜줬다는 사실에 감사하며, 그들을 조금 더 용인하기로 했습니다. 마법대신이 슈라이크 지역에서 문제를 해결 할"
-" 때 두 번 굴림을 하고 더 나은 결과를 선택합니다."
+"평민들은 마법사들이 자리를 비켜준 것에 감사하여 좀 더 봐주기로 했습니다. 마법대신이 슈라이크 지역에서 문제를 해결할 때 두 번 굴려서 "
+"더 나은 결과를 선택합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ArcRank5-RerollProblemsatCapital_DisplayName
 msgctxt "ae28c197-3d8c-4515-a2f1-969788495345"
 msgid "Banning Arcane Experiments"
-msgstr ""
+msgstr "비전 실험 금지"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ArcRank7-SpellResistanceKingdomBuff_Description
@@ -1349,12 +1388,14 @@ msgid ""
 "Provides a spell resistance of 16 to the {mf|baron|baroness|King|Queen} and "
 "{mf|his|her} companions while fighting in claimed regions."
 msgstr ""
+"획기적인 연구로 주문 저항의 새로운 비밀을 밝혀냈습니다. 점령지에서 싸울 때 {mf|남작|여남작|왕|여왕}과 {mf|그의|그녀의} "
+"동료들에게 주문 저항 16을 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ArcRank7-SpellResistanceKingdomBuff_DisplayName
 msgctxt "f7dd24bf-dd3b-44f4-b3e0-9df49079d253"
 msgid "Spell Resistance Discovery"
-msgstr ""
+msgstr "주문 저항 연구"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ArcRank7-SpellResistance_Description_String
@@ -1364,12 +1405,14 @@ msgid ""
 "Provides a spell resistance of 16 to the {mf|baron|baroness|King|Queen} and "
 "{mf|his|her} companions while fighting in claimed regions."
 msgstr ""
+"획기적인 연구로 주문 저항의 새로운 비밀을 밝혀냈습니다. 점령지에서 싸울 때 {mf|남작|여남작|왕|여왕}과 {mf|그의|그녀의} "
+"동료들에게 주문 저항 16을 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ArcRank7-SpellResistance_DisplayName_String
 msgctxt "10510555-f60a-4964-9809-adb347397aed"
 msgid "Spell Resistance Discovery"
-msgstr ""
+msgstr "주문 저항 연구"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ArcRank9-HarderEvents_Description
@@ -1379,14 +1422,14 @@ msgid ""
 "turned spellcasters into outcasts. The Magister suffers a -2 penalty when "
 "attempting to resolve any scenario."
 msgstr ""
-"{mf|남작령|남작령|왕국|왕국}의 마법 실습에 대한 억압에 주문 시전자가 등을 돌렸습니다. 마법대신은 전체 시나리오에서 문제 해결에 "
+"{mf|남작령|남작령|왕국|왕국}의 마법 사용에 대한 억압에 주문 시전자가 등을 돌렸습니다. 마법대신은 전체 시나리오에서 문제 해결에 "
 "관해 -2 의 패널티를 받습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ArcRank9-HarderEvents_DisplayName
 msgctxt "bde6ec46-90ee-4dd5-a645-f4ee5dc44f50"
 msgid "Arcane Restrictions"
-msgstr ""
+msgstr "비전 규제"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ComRank2-BanditRansom_Description
@@ -1395,13 +1438,13 @@ msgid ""
 "The capital agreed to turn a blind eye to banditry – so long as a hefty fee "
 "was delivered on a weekly basis. This brings 1d4 BP into the treasury each "
 "week."
-msgstr ""
+msgstr "수도는 매주 거액의 수수료를 받고 도적질을 눈감아 주기로 했습니다. 매주 1d4 BP가 국고에 추가됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ComRank2-BanditRansom_DisplayName
 msgctxt "37df5b96-a4d3-469c-905c-39ef83dab155"
 msgid "Bandits' Dues"
-msgstr ""
+msgstr "도적세"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ComRank3-EasierProblems_Description_String
@@ -1409,13 +1452,13 @@ msgctxt "0b531314-d744-4e49-bae3-7e8a12196db7"
 msgid ""
 "Paying attention to the community and heeding every call of distress, the "
 "Regent resolves problems with a +1 bonus."
-msgstr ""
+msgstr "지역사회에 관심을 갖고, 모든 고통의 목소리에 귀를 기울여, 섭정은 문제 해결에 +1 보너스를 받습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ComRank3-EasierProblems_DisplayName_String
 msgctxt "b4c91737-74c5-4b7e-8071-72921a3d1519"
 msgid "Heeding the Poor and Weak"
-msgstr ""
+msgstr "빈자와 약자에 대한 배려"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ComRank5-DiscountComBuildings_Description_String
@@ -1426,12 +1469,14 @@ msgid ""
 "Mansion, Monument, Noble's Villa, Pathfinder's Lodge, Temple of Abadar, Town"
 " Hall, Trade Shop, Waterfront) is reduced by 10%."
 msgstr ""
+"고정 주민 보너스가 있는 건물(바드 대학, 시청, 법원, 드워프 보루, 곡물 창고, 롱하우스, 사치품 상점, 대저택, 기념비, 귀족 "
+"별장, 패스파인더 지부, 아바다르 신전, 마을 회관, 무역 상점, 부두)의 비용이 10% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ComRank5-DiscountComBuildings_DisplayName_String
 msgctxt "574c0021-a82c-42c8-a25f-7e3455419ec9"
 msgid "Strong Nation"
-msgstr ""
+msgstr "강한 국가"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ComRank5-IncreaseOnGS_Description_String
@@ -1439,13 +1484,13 @@ msgctxt "dd23a1c4-e3d3-4ff6-84df-254eeae20381"
 msgid ""
 "Community receives an additional +1 whenever the Regent achieves a Triumph "
 "in any event."
-msgstr ""
+msgstr "섭정이 사건을 대성공시킬 때마다 주민에 +1을 받습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ComRank5-IncreaseOnGS_DisplayName_String
 msgctxt "1ac1015b-314b-4da8-b1e5-6651854250e2"
 msgid "The People's Favorite"
-msgstr ""
+msgstr "국민의 지지"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ComRank7-LandProtectionKingdomBuff_Description
@@ -1453,13 +1498,13 @@ msgctxt "d6af7602-4caf-4548-bcb5-ac133cb3fe53"
 msgid ""
 "Provides +1 morale bonus to Armor Class and Saving Throws while fighting in "
 "claimed regions."
-msgstr ""
+msgstr "점령지에서 싸울 때 방어도와 내성 굴림에 +1 사기 보너스를 받습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ComRank7-LandProtectionKingdomBuff_DisplayName
 msgctxt "eed94a71-32bb-47f3-881e-636e249d7827"
 msgid "Protectors of the Land"
-msgstr ""
+msgstr "이 땅의 보호자"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ComRank7-LandProtection_Description_String
@@ -1467,13 +1512,13 @@ msgctxt "d0d7b9f7-f18c-47b7-9115-d1211a757120"
 msgid ""
 "Provides +1 morale bonus to Armor Class and Saving Throws while fighting in "
 "claimed regions."
-msgstr ""
+msgstr "점령지에서 싸울 때 방어도와 내성 굴림에 +1 사기 보너스를 받습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ComRank7-LandProtection_DisplayName_String
 msgctxt "fd3f1811-0215-438e-8df0-0fc62f9ec71d"
 msgid "Protectors of the Land"
-msgstr ""
+msgstr "이 땅의 보호자"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ComRank9-DiscountComBuildings_Description_String
@@ -1484,24 +1529,26 @@ msgid ""
 "Mansion, Monument, Noble's Villa, Pathfinder's Lodge, Temple of Abadar, Town"
 " Hall, Trade Shop, Waterfront) is reduced by 15%."
 msgstr ""
+"고정 주민 보너스가 있는 건물(바드 대학, 시청, 법원, 드워프 보루, 곡물 창고, 롱하우스, 사치품 상점, 대저택, 기념비, 귀족 "
+"별장, 패스파인더 지부, 아바다르 신전, 마을 회관, 무역 상점, 부두)의 비용이 15% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ComRank9-DiscountComBuildings_DisplayName_String
 msgctxt "a4093e25-16b2-45f2-9569-74b7214f8dd1"
 msgid "Blue Blood Community"
-msgstr ""
+msgstr "귀족 공동체"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ComRank9-EasierEvents_Description
 msgctxt "1f603bd3-2164-402b-b1f8-396cbc74351f"
 msgid "Regent receives +2 bonus for resolving situations."
-msgstr ""
+msgstr "섭정이 상황을 해결할 때 +2 보너스를 받습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ComRank9-EasierEvents_DisplayName
 msgctxt "9ba15357-6b2c-4de2-a63b-21c2f89bfb3b"
 msgid "Common Community"
-msgstr ""
+msgstr "평민 공동체"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/CulRank5-DiscountCulBuildings_Description_String
@@ -1512,12 +1559,14 @@ msgid ""
 "Lodge, Royal Museum, Theater, Town Hall, University, Waterfront) is reduced "
 "by 15%."
 msgstr ""
+"고정 문화 보너스가 있는 건물(바바리안 경기장, 바드 대학, 시청, 축제, 롱하우스, 대저택, 박물관, 패스파인더 지부, 왕립 박물관, "
+"극장, 마을 회관, 대학, 부두)의 비용이 15% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/CulRank5-DiscountCulBuildings_DisplayName_String
 msgctxt "5ec9670c-a775-496a-958d-27736e97ba93"
 msgid "Improving Cultural Development"
-msgstr ""
+msgstr "문화 발전 향상"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/CulRank5-HighLarcioSupport_Description
@@ -1525,26 +1574,26 @@ msgctxt "ed8cad85-cc87-404f-94ec-b1cd4506118e"
 msgid ""
 "The kingdom's generous endowments are drawing from the treasury. Every week,"
 " the treasury loses 3 BP."
-msgstr ""
+msgstr "왕국이 국고에서 후한 기부금을 끌어 쓰고 있습니다. 매주 3 BP를 잃습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/CulRank5-HighLarcioSupport_DisplayName
 msgctxt "5b05728a-69db-4d15-b41e-3808bce76358"
 msgid "Generous Support of Larcio"
-msgstr ""
+msgstr "라르치오에게 후한 지원금 지불"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/CulRank5-LarcioSupport_Description
 msgctxt "c6f34017-a02d-4aa9-a35d-c3b911596703"
 msgid ""
 "Supporting young talent costs money. Every week, the treasury loses 1 BP."
-msgstr ""
+msgstr "재능있는 젊은이를 재정적으로 지원합니다. 매주, 국고에서 1 BP를 잃습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/CulRank5-LarcioSupport_DisplayName
 msgctxt "69ed3e8e-570c-410e-8116-d9ca98bb5387"
 msgid "Support of Larcio"
-msgstr ""
+msgstr "라르치오에게 지원금 지불"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/CulRank8-AdvantageOnProblems_Description
@@ -1552,13 +1601,13 @@ msgctxt "b60efb14-639f-449e-bd35-b41367b78510"
 msgid ""
 "All problems that can be solved by the Councilor or Curator are resolved by "
 "rolling twice and picking the best result."
-msgstr ""
+msgstr "평의원과 학예사가 해결하는 모든 문제는 두번 굴려서 더 나은 결과를 고릅니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/CulRank8-AdvantageOnProblems_DisplayName
 msgctxt "cbbc507d-16d3-4d2a-8e75-3d10c4121df4"
 msgid "Reign of Terror"
-msgstr ""
+msgstr "공포정치"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank10-BlessingofAbadar_Description
@@ -1568,12 +1617,14 @@ msgid ""
 " Community by 1 for each Success with the Regent or Treasurer. Receive 2 BP "
 "per week for every 20 points of Community above 200, up to 20 BP per week."
 msgstr ""
+"섭정과 재무관이 해결하는 모든 기회에 +2 보너스. 섭정이나 재무관이 성공할 때마다 주민 1 증가. 주민이 200 이상일 때 20점 마다 "
+"매주 2 BP, 최대 20 BP 제공."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank10-BlessingofAbadar_DisplayName
 msgctxt "77beb4c5-c9be-4af9-ac5e-038bb20084c6"
 msgid "Blessing of Abadar"
-msgstr ""
+msgstr "아바다르의 축복"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank10-BlessingofAsmodeus_Description
@@ -1581,13 +1632,13 @@ msgctxt "274bb8c4-71f7-487e-8ecc-1fb162c1e03f"
 msgid ""
 "+1 bonus to resolving any problem for every 20 points of Stability above "
 "200, up to +10 bonus."
-msgstr ""
+msgstr "모든 문제 해결시 치안 20점당 +1 보너스, 치안 200일때 최대 +10 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank10-BlessingofAsmodeus_DisplayName
 msgctxt "e7117f5d-1ed7-4dea-a1b0-681a825b375e"
 msgid "Blessing of Asmodeus"
-msgstr ""
+msgstr "아스모데우스의 축복"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank10-BlessingofCaiden_Description
@@ -1598,18 +1649,20 @@ msgid ""
 " Each week, for each 20 Loyalty above 200 there is a 10% chance check for an"
 " Unrest state to improve."
 msgstr ""
+"평의원이 해결하는 모든 상황에 +1 보너스. 평의원이 해결한 상황의 결과가 재난이 아닌 이상 민심에 +1. 200이상의 민심 20 마다 "
+"매주 10% 확률로 안정도 상승."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank10-BlessingofCaiden_DisplayName
 msgctxt "05d7b6f3-9b4c-4b7c-ac55-b3f48efbde88"
 msgid "Blessing of Cayden Cailean"
-msgstr ""
+msgstr "케이든 케일리엔의 축복"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank10-BlessingofCaiden_ReasonString_String
 msgctxt "f110243d-53a7-471d-a5be-b14b7d1e85ef"
 msgid "Blessing of Cayden Cailean"
-msgstr ""
+msgstr "케이든 케일리엔의 축복"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank10-BlessingofGorum_Description
@@ -1620,12 +1673,14 @@ msgid ""
 "bonus of +20. Receive 5 BP each time a situation is successfully resolved by"
 " the General."
 msgstr ""
+"장군이 해결하는 모든 상황에 +2 보너스. 200을 넘어가는 군사 20점 마다 군사 문제를 해결에 +2 보너스, 최대 +20 보너스. "
+"장군이 상황을 성공적으로 해결할 때마다 5 BP 획득."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank10-BlessingofGorum_DisplayName
 msgctxt "14b8f654-f719-45eb-900d-8174976437d8"
 msgid "Blessing of Gorum"
-msgstr ""
+msgstr "고룸의 축복"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank10-BlessingofLamashtu_Description
@@ -1638,66 +1693,69 @@ msgid ""
 "increase your chance of improving Unrest up to Worried. If Unrest worsens, "
 "then Community is also reduced by 2."
 msgstr ""
+"수석 외교관이 해결하는 모든 상황에 -5 페널티. 고위 사제, 마법대신, 장관이 성공적으로 해결한 모든 상황이 신성, 비전, 첩보에 +"
+"1. 신성, 비전, 첩보의 합이 75를 넘을 때마다 매주 3 BP, 최대 30 BP를 제공하고, 안정도를 우려 수준으로 회복할 확률을 "
+"제공. 안정도가 떨어지면 주민이 2 감소."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank10-BlessingofLamashtu_DisplayName
 msgctxt "669f5af0-fe5c-48e6-b8c6-70b99963ba94"
 msgid "Blessing of Lamashtu"
-msgstr ""
+msgstr "라마쉬투의 축복"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank10-BlessingofLamashtu_ReasonString_String
 msgctxt "56c4769d-34bd-4321-8816-4926d6ae8048"
 msgid "Blessing of Lamashtu"
-msgstr ""
+msgstr "라마쉬투의 축복"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank3-ImmunitytoPoisonKingdomBuff_Description_String
 msgctxt "6efc8337-5e85-4064-befc-be6694bb1051"
 msgid "Provides immunity to poisons in the claimed regions."
-msgstr ""
+msgstr "점령지 내에서 독에 면역을 제공."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank3-ImmunitytoPoisonKingdomBuff_DisplayName_String
 msgctxt "a5aea969-a536-4656-ab0c-4e6ed621686d"
 msgid "Divine Protection from Poison"
-msgstr ""
+msgstr "독에 대한 신성 보호"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank3-ImmunitytoPoison_m_Description
 msgctxt "351670b8-025d-4586-ab01-d807cb7d57f6"
 msgid "Immune to poison effects while fighting within claimed regions."
-msgstr ""
+msgstr "점령지 내에서 싸울 때 독 효과에 면역."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank3-ImmunitytoPoison_m_DisplayName
 msgctxt "01cff376-7e19-4320-886b-c5c0ba6b2da5"
 msgid "Immunity to Poison"
-msgstr ""
+msgstr "독 면역"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank7-ImmunitytoFearKingdomBuff_Description_String
 msgctxt "44cfd0ed-6d4a-4862-b9d8-96aceea95744"
 msgid "Provides immunity to fear effects in the claimed regions."
-msgstr ""
+msgstr "점령지 내에서 공포 효과에 면역을 제공."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank7-ImmunitytoFearKingdomBuff_DisplayName_String
 msgctxt "603a4083-e63a-4d98-9e55-d8932450084a"
 msgid "Divine Protection from Fear"
-msgstr ""
+msgstr "공포에 대한 신성 보호"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank7-ImmunitytoFear_m_Description
 msgctxt "da5598d4-6099-4cfb-a738-e18be0746e37"
 msgid "Immune to fear effects in the claimed regions."
-msgstr ""
+msgstr "점령지 내에서 공포 효과에 면역."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank7-ImmunitytoFear_m_DisplayName
 msgctxt "5c074e7d-5150-435b-9500-ce1a538771fb"
 msgid "Immunity to Fear"
-msgstr ""
+msgstr "공포 면역"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank6-DiscountEcoBuildings_Description_String
@@ -1707,12 +1765,14 @@ msgid ""
 "College, Festival, Forge, Foundry, Inn, Lumberyard, Luxury Store, Marina, "
 "Mint, Piers, Shop, Tavern, Trade Shop, Waterfront) is reduced by 15%."
 msgstr ""
+"고정 경제 보너스가 있는 건물(주조소, 제련소, 목재소, 잔교, 정박지, 부둣가, 상점, 무역 상점, 사치품 상점, 선술집, 여관, "
+"안도란 은행, 은행, 축제, 조폐국)의 비용이 15% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank6-DiscountEcoBuildings_DisplayName_String
 msgctxt "4adb4cf4-d7b1-4a00-8aae-4b59e986ce19"
 msgid "Improving Economic Status"
-msgstr ""
+msgstr "경재 상태 개선"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank6-EasierOpportunities_Description_String
@@ -1720,13 +1780,13 @@ msgctxt "e4e26b84-32b2-4631-803e-b0ea48505956"
 msgid ""
 "Increases the chances of better results from economic opportunities. +2 "
 "bonus to resolve any opportunity with the Treasurer."
-msgstr ""
+msgstr "경제적 기회에 더 나은 결과를 얻을 확률이 올라갑니다. 재무관이 해결하는 모든 기회에 +2 보너스를 받습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank6-EasierOpportunities_DisplayName_String
 msgctxt "8851acbe-a8da-4b8e-ac1e-5dba5fe097de"
 msgid "Legal Contraband"
-msgstr ""
+msgstr "합법적 밀수"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank6-EasierProblems_Description_String
@@ -1734,13 +1794,13 @@ msgctxt "5eacad58-f49d-4850-a6dc-e8e455425b36"
 msgid ""
 "Allows easier resolution of economic problems, providing +2 bonus to solving"
 " any problem with Treasurer."
-msgstr ""
+msgstr "경제적 문제의 해결을 쉽게 만들어, 재무관이 해결하는 모든 문제에 +2 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank6-EasierProblems_DisplayName_String
 msgctxt "97afa932-925c-4b13-a370-b8ff48a169ed"
 msgid "Customs"
-msgstr ""
+msgstr "세관"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank7-HighTradeDuties_Description
@@ -1751,18 +1811,20 @@ msgid ""
 "chance of rioting, which worsens the {mf|barony|barony|kingdom|kingdom}'s "
 "state of Unrest."
 msgstr ""
+"왕국 내 승급된 지역 마다 매주 +7 BP, 승급이 없는 지역마다 매주 +3 BP를 제공합니다. 매주 7.5% 확률로 폭동이 일어나 "
+"{mf|남작령|남작령|왕국|왕국}의 안정도를 악화시킵니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank7-HighTradeDuties_DisplayName
 msgctxt "82659625-dd71-4e35-afba-429ab76afa4f"
 msgid "Import Taxes"
-msgstr ""
+msgstr "수입세"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank7-HighTradeDuties_ReasonString_String
 msgctxt "759c5e22-b1dc-4d7a-be3a-f9c91a141e06"
 msgid "High import taxes"
-msgstr ""
+msgstr "높은 수입세"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank7-LowTradeDuties_Description
@@ -1772,12 +1834,13 @@ msgid ""
 "week for each upgraded region in the kingdom, and +1 BP per week for each "
 "region without any upgrades."
 msgstr ""
+"매주 무작위 왕국 지표가 1 오릅니다. 또한 승급된 지역마다 매주 +3 BP, 승급이 없는 지역마다 매주 +1 BP를 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank7-LowTradeDuties_DisplayName
 msgctxt "6d4906c0-b6ce-4d7f-a190-3368ecd786fd"
 msgid "Wealth Taxes"
-msgstr ""
+msgstr "부유세"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank7-MediumTradeDuties_Description
@@ -1785,13 +1848,13 @@ msgctxt "0e73e662-6fee-4c2c-a2c3-4609ebaccfee"
 msgid ""
 "Provides +5 BP per week for each upgraded region in the kingdom, and +2 BP "
 "per week for each region without any upgrade."
-msgstr ""
+msgstr "승급된 지역마다 매주 +5 BP, 승급이 없는 지역마다 매주 +2 BP를 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank7-MediumTradeDuties_DisplayName
 msgctxt "9bcc8118-8504-48df-ac39-2a42c776c374"
 msgid "Material Taxes"
-msgstr ""
+msgstr "원료세"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank7-NoTradeDuties_Description
@@ -1801,18 +1864,20 @@ msgid ""
 "and Economy increases by 5. Provides +1 BP per week for every 20 Economy "
 "points above 200, up to +10 BP per week."
 msgstr ""
+"매달 안정도가 한 단계 상승합니다. 매주 민심이 1 오르고 경제가 5 오릅니다. 200을 넘는 경제 20점마다 매주 +1 BP, 최대 +"
+"10 BP를 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank7-NoTradeDuties_DisplayName
 msgctxt "ef98b49a-a3c3-41cf-bd9b-020d3ca3e3c5"
 msgid "No Import Taxes"
-msgstr ""
+msgstr "수입세 면제"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank7-NoTradeDuties_ReasonString_String
 msgctxt "2b9283b0-eec7-4e1b-bdd9-ea2f4fd87bbe"
 msgid "No import taxes"
-msgstr ""
+msgstr "수입세 면제"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-Ups/EcoRank7-TradeGuild_Description
 msgctxt "e55f45fb-774b-4c21-8e89-9fbd3372fe78"
@@ -1821,24 +1886,26 @@ msgid ""
 " BP per week. In addition, provides +3 BP per week for each upgraded region,"
 " and +1 BP per week for each non-upgraded region."
 msgstr ""
+"경제 50점마다 매주 +3 BP, 최대 +30 BP를 제공합니다. 또한 승급된 지역마다 매주 +3 BP, 승급이 없는 지역마다 매주 +1 "
+"BP를 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-Ups/EcoRank7-TradeGuild_DisplayName
 msgctxt "f7af68af-ebd8-4968-82d9-833a7323faca"
 msgid "Trade Guild"
-msgstr ""
+msgstr "교역 조합"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank8-DaggermarkTrade_Description
 msgctxt "e4d36798-75f5-448f-91a8-a9dc389fb183"
 msgid ""
 "Reduces income by 1 for each rank of Stability and Espionage lower than 10"
-msgstr ""
+msgstr "치안과 첩보가 10등급이 되기 전까지 매 등급마다 수입이 1씩 감소"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank8-DaggermarkTrade_DisplayName
 msgctxt "d79f7161-791d-440b-9d55-62fd7d2384c9"
 msgid "Daggermark Thugs"
-msgstr ""
+msgstr "대거마크 깡패들"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank9-MintingCoinProtection_Description
@@ -1850,25 +1917,27 @@ msgid ""
 "additional BP per week, normal taxes will provide 3 additional BP per week, "
 "and heavy taxes will provide 5 additional BP per week."
 msgstr ""
+"화폐 주조 계획을 완료하고 수도에 조폐국이 있으면, 과세 수준에 따라 매주 추가 BP를 제공합니다. 공공사업은 추가 BP를 제공하지 "
+"않습니다.  낮은 세금은 주당 1 BP, 적당한 세금은 주당 3 BP, 중과세는 주당 5 BP를 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank9-MintingCoinProtection_DisplayName
 msgctxt "0a481f42-d3a7-4fe9-b7bf-d81fb2700cf8"
 msgid "Tax Collection in State Currency"
-msgstr ""
+msgstr "국가 통화로 세금 징수"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank9-MintingCoin_Description_String
 msgctxt "d04f5d6e-ad76-4682-b7e0-64a80c788599"
 msgid ""
 "Provides +1 BP per day for each 1000 BP in the treasury, up to 5 BP per day."
-msgstr ""
+msgstr "1000 BP의 국고마다 매일 +1 BP, 최대 +5 BP 제공."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank9-MintingCoin_DisplayName_String
 msgctxt "721e01e1-55ed-476b-be8c-5bd97bf4e203"
 msgid "Minting Coin"
-msgstr ""
+msgstr "화폐 주조"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank9-MintingFakeCoin_Description_String
@@ -1878,12 +1947,14 @@ msgid ""
 "day. Roll an Espionage DC 25 check with the current Minister each week, and "
 "on any fail, reduce Economy, Loyalty, Community and Relations by 3."
 msgstr ""
+"1000 BP의 국고마다 매일 +2 BP, 최대 +10 BP 제공. 현재 장관이 매주 DC 25 첩보 판정을 굴려 실패하면 경제, 민심, "
+"주민, 외교 3 감소."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EcoRank9-MintingFakeCoin_DisplayName_String
 msgctxt "3ed9b530-db0a-454b-98f5-5636f063a7e8"
 msgid "Minting Half-Weight Coins"
-msgstr ""
+msgstr "절반 무게 화폐 주조"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EspRank3-GrowthonFailures_Description_String
@@ -1891,13 +1962,13 @@ msgctxt "05146ce0-241b-4b34-b1a1-8004fff5ec08"
 msgid ""
 "Receive +1 to Espionage every time the Minister fails to resolve a "
 "situation."
-msgstr ""
+msgstr "장관이 상황 해결에 실패할 때마다 +1 첩보 획득."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/EspRank3-GrowthonFailures_DisplayName_String
 msgctxt "e688d8ca-f895-4783-9a37-98deb0303d17"
 msgid "Loyal Spies"
-msgstr ""
+msgstr "충직한 첩보원"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-Ups/HelperArcane_Description
 msgctxt "042282d8-2e96-423d-9170-c5ec3b2be833"
@@ -1907,11 +1978,13 @@ msgid ""
 "plus the bonus from the Arcane stat rank. Transition of Power: Arcane will "
 "end upon reaching Arcane rank III."
 msgstr ""
+"고위 사제가 비전 업무에서 마법대신을 보조합니다. 활성화하면, 사건 해결에 마법대신의 능력치와 비전 지표 등급의 합 대신 10을 "
+"사용합니다. 역량 전환: 비전은 비전 등급이 III에 달하면 종료됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-Ups/HelperArcane_DisplayName
 msgctxt "c2f0bf1a-7fcd-46db-9abd-f6180845189c"
 msgid "Transition of Power: Arcane"
-msgstr ""
+msgstr "역량 전환: 비전"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-Ups/HelperCulture_Description
 msgctxt "5b75f5b5-59ce-4e14-8c66-cb756d67477d"
@@ -1921,11 +1994,13 @@ msgid ""
 " bonus plus the bonus from the Culture stat rank. Transition of Power: "
 "Culture will end upon reaching Culture rank III."
 msgstr ""
+"평의원이 문화 업무에서 학예사를 보조합니다. 활성화하면 사건 해결에 학예사의 능력치와 문화 지표 등급의 합 대신 10을 사용합니다. 역량 "
+"전환: 문화는 문화 등급이 III에 달하면 종료됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-Ups/HelperCulture_DisplayName
 msgctxt "ac02b17d-1919-48b7-ae74-05d69255c81c"
 msgid "Transition of Power: Culture"
-msgstr ""
+msgstr "역량 전환: 문화"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-Ups/HelperEspionage_Description
 msgctxt "234d7439-57d0-4c32-97f4-6674f0e981c2"
@@ -1935,11 +2010,13 @@ msgid ""
 "ability bonus plus the bonus from the Espionage stat rank. Transition of "
 "Power: Espionage will end upon reaching Espionage rank III."
 msgstr ""
+"수석 외교관이 첩보 업무에서 장관을 보조합니다. 활성화하면 사건 해결에 장관의 능력치와 첩보 지표 등급의 합 대신 10을 사용합니다. "
+"역량 전환: 첩보는 첩보 등급이 III에 달하면 종료됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-Ups/HelperEspionage_DisplayName
 msgctxt "eb390f29-39b9-41c7-b1a4-5c7a8959f9e4"
 msgid "Transition of Power: Espionage"
-msgstr ""
+msgstr "역량 전환: 첩보"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-Ups/HelperRelations_Description
 msgctxt "08d40612-ff5e-41b0-8783-5bbbfbbd6326"
@@ -1949,11 +2026,13 @@ msgid ""
 " plus the bonus from the Relations stat rank. Transition of Power: Relations"
 " will end upon reaching Relations rank III."
 msgstr ""
+"섭정이 외교에서 수석 외교관을 보조합니다. 활성화하면 사건 해결에 수석 외교관의 능력치와 외교 지표 등급의 합 대신 10을 사용합니다. "
+"역량 전환: 외교는 외교 등급이 III에 달하면 종료됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-Ups/HelperRelations_DisplayName
 msgctxt "e563902e-af68-4622-ad34-3666ba4e8f10"
 msgid "Transition of Power: Relations"
-msgstr ""
+msgstr "역량 전환: 외교"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-Ups/HelperStability_Description
 msgctxt "16bd657d-8b0b-4a9f-b9b5-a292e70e51cb"
@@ -1963,11 +2042,13 @@ msgid ""
 " from the Stability stat rank. Transition of Power: Stability will end upon "
 "reaching Stability rank III."
 msgstr ""
+"장군이 치안 업무에서 감시관을 돕습니다. 활성화하면 감시관의 능력치와 치안 지표 등급의 합 대신 10을 사용합니다. 역량 전환: 치안은 "
+"치안 등급이 III에 달하면 종료됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-Ups/HelperStability_DisplayName
 msgctxt "598b48ce-3403-4756-adc6-bae23a602f7c"
 msgid "Transition of Power: Stability"
-msgstr ""
+msgstr "역량 전환: 치안"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/LoyRank3-DiscountLoyBuildings_Description_String
@@ -1978,24 +2059,26 @@ msgid ""
 " Shop, Monument, Park, Swordlords' Academy, Temple of Cayden Cailean, Town "
 "Hall) is reduced by 10%."
 msgstr ""
+"고정 민심 보너스가 있는 건물(약초상의, 알케미스트의 실험실, 바드 대학, 시청, 마르지 않는 분수, 이국적인 정원, 마법 상점, "
+"기념물, 공원, 소드로드 아카데미, 케이든 사원, 마을 회관)의 비용이 10% 감소합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/LoyRank3-DiscountLoyBuildings_DisplayName_String
 msgctxt "61b106de-60f3-4606-a7d4-efe791cb9b7a"
 msgid "Love of the Common Folk"
-msgstr ""
+msgstr "평민의 사랑"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/LoyRank7-EasierEvents_Description
 msgctxt "c2badbb0-bb66-4e52-8ff6-d72125899424"
 msgid "The Councilor solves problems with a +1 bonus."
-msgstr ""
+msgstr "평의원이 문제를 해결할 때 +1 보너스를 받습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/LoyRank7-EasierEvents_DisplayName_String
 msgctxt "2ad28e1f-9fcb-41c6-bea1-c0cf7dbcca6b"
 msgid "The Helping Hand"
-msgstr ""
+msgstr "도움의 손길"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank1-EasierEventsAmbition_Description_String
@@ -2003,25 +2086,25 @@ msgctxt "d7b69957-76fb-4ab9-934a-7751999bc2f1"
 msgid ""
 "+2 bonus to solve events with the General. However, every time this results "
 "in Failure or Disaster, lose 1 Military point."
-msgstr ""
+msgstr "장군이 사건을 해결할 때 +2 보너스. 그러나 실패나 재난마다 군사 1 점 감소."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank1-EasierEventsAmbition_DisplayName_String
 msgctxt "5646d523-fdb8-4814-a9a3-b9c8bb48120e"
 msgid "Ambitious Recruits"
-msgstr ""
+msgstr "야망있는 신병"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank1-EasierProblems_Description_String
 msgctxt "31aaf29b-44fe-443c-8b90-c2e0afb07ea2"
 msgid "+1 bonus to resolving any problem with the General."
-msgstr ""
+msgstr "장군이 문제를 해결할 때마다 +1 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank1-EasierProblems_DisplayName_String
 msgctxt "63a62b5b-97fc-4996-8979-50a7159b82c3"
 msgid "Talented Recruits"
-msgstr ""
+msgstr "재능있는 신병"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank10-Alkenstar_Description_String
@@ -2033,24 +2116,26 @@ msgid ""
 "per week; 8-9 provides 4 BP per week, and the 10th rank provides 5 BP per "
 "week."
 msgstr ""
+"{mf|남작령|남작령|왕국|왕국}의 외교 등급에 따라 BP를 가져오는 수익성 높은 교역 협정을 제공합니다. 1-3 외교 등급은 매주 1 "
+"BP; 4-5 등급은 매주 2 BP; 6-7 등급은 매주 3 BP; 8-9 등급은 매주 4 BP; 10 등급은 매주 5 BP를 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank10-Alkenstar_DisplayName_String
 msgctxt "4f3f340a-04e2-43d3-a876-928b936c06d7"
 msgid "Alkenstar Manufactory"
-msgstr ""
+msgstr "알켄스타 제조소"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank10-Arcanomirium_Description_String
 msgctxt "a345f2e6-a145-4876-bed2-339d1eb1c158"
 msgid "+1 bonus for solving problems with the Warden and Magister."
-msgstr ""
+msgstr "감시관과 마법대신이 문제를 해결할 때 +1 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank10-Arcanomirium_DisplayName_String
 msgctxt "2434e05d-0ee6-40d5-b41a-4dd22b07881d"
 msgid "Arcanamirium Sanctuary"
-msgstr ""
+msgstr "아르카나미리움 성소"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank10-Kurgess_Description_String
@@ -2060,12 +2145,14 @@ msgid ""
 " Failure or Disaster. If the Warden suffers a Failure or Disaster, then the "
 "{mf|barony|barony|kingdom|kingdom} receives a +1 bonus to Stability."
 msgstr ""
+"섭정이 문제를 실패 또는 대실패로 처리하면 민심에 +1 보너스를 제공합니다. 감시관이 문제를 실패 또는 대실패로 처리하면 치안에 +1 "
+"보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank10-Kurgess_DisplayName_String
 msgctxt "f5c16c73-0b03-430f-a529-ebc9eba03290"
 msgid "Temple of Kurgess"
-msgstr ""
+msgstr "쿠르게스 신전"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank4-LandDefendersKingdomBuff_Description
@@ -2073,13 +2160,13 @@ msgctxt "0e5c7a7d-ee2f-49a5-88ba-38a8728b4212"
 msgid ""
 "+1 morale bonus to attack and damage rolls while fighting within claimed "
 "regions."
-msgstr ""
+msgstr "점령지에서 싸울 때 명중 및 피해 굴림에 +1 사기 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank4-LandDefendersKingdomBuff_DisplayName
 msgctxt "cf678da6-60d1-4c53-9541-20fe8d03434a"
 msgid "Land Defenders"
-msgstr ""
+msgstr "국토 수호자"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank4-LandDefenders_Description_String
@@ -2087,13 +2174,13 @@ msgctxt "46c25fc4-a6bb-496d-9ba8-fe3ea6d85041"
 msgid ""
 "+1 morale bonus to attack and damage rolls while fighting within claimed "
 "regions."
-msgstr ""
+msgstr "점령지에서 싸울 때 명중 및 피해 굴림에 +1 사기 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank4-LandDefenders_DisplayName_String
 msgctxt "8e88eed4-a374-4897-9515-59683854e137"
 msgid "Land Defenders"
-msgstr ""
+msgstr "국토 수호자"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank7-LandDefendersIIKingdomBuff_Description
@@ -2101,13 +2188,13 @@ msgctxt "1590c417-2d1c-4c2f-a684-2ac863dc9000"
 msgid ""
 "+2 morale bonus to attack and damage rolls while fighting within upgraded "
 "regions."
-msgstr ""
+msgstr "승급된 지역에서 싸울 때 명중 및 피해 굴림에 +2 사기 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank7-LandDefendersIIKingdomBuff_DisplayName
 msgctxt "5065bdaf-ecbc-459e-ace3-3a8ac22e70e6"
 msgid "Land Defenders II"
-msgstr ""
+msgstr "국토 수호자 II"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank7-LandDefendersII_Description_String
@@ -2115,13 +2202,13 @@ msgctxt "88da547b-a6b5-4af5-b39b-f166388b64fc"
 msgid ""
 "+2 morale bonus to attack and damage rolls while fighting within upgraded "
 "regions."
-msgstr ""
+msgstr "승급된 지역에서 싸울 때 명중 및 피해 굴림에 +2 사기 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank7-LandDefendersII_DisplayName_String
 msgctxt "792129d3-4eeb-4f45-832c-3f686c477dc1"
 msgid "Land Defenders II"
-msgstr ""
+msgstr "국토 수호자 II"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank9-ArcaneMastery_Description_String
@@ -2132,12 +2219,14 @@ msgid ""
 "There is no bonus for ranks 1-4; ranks 5-7 get +1 bonus; ranks 8-9 get +2 "
 "bonus; and rank 10 gets a bonus of +3."
 msgstr ""
+"사건을 해결할 때 장군에게 보너스를 제공합니다. 보너스는 {mf|남작령|남작령|왕국|왕국}의 비전 등급에 따라 달라지며, 1~4 등급에는 "
+"0 보너스를, 5-7 등급은 +1 보너스, 8-9 등급 +2 보너스, 10 등급에 +3 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank9-ArcaneMastery_DisplayName_String
 msgctxt "84d0b5a0-b176-45dc-b778-071b1e3365c6"
 msgid "Arcane Mastery"
-msgstr ""
+msgstr "비전 숙달"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank9-SkillMastery_Description_String
@@ -2148,12 +2237,14 @@ msgid ""
 "rank. There is no bonus for ranks 1-4; ranks 5-7 get +1 bonus; ranks 8-9 get"
 " +2 bonus; and rank 10 gets a bonus of +3."
 msgstr ""
+"사건을 해결할 때 장군에게 보너스를 제공합니다. 보너스는 {mf|남작령|남작령|왕국|왕국}의 외교 등급에 따라 달라지며, 1~4 등급에는 "
+"0 보너스를, 5-7 등급은 +1 보너스, 8-9 등급 +2 보너스, 10 등급에 +3 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/MilRank9-SkillMastery_DisplayName_String
 msgctxt "9a76e846-7813-410a-9001-cd52aaa9198f"
 msgid "Swordplay Mastery"
-msgstr ""
+msgstr "검술 숙달"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/RelRank7-AdvantageOnProblems_Description
@@ -2162,13 +2253,13 @@ msgid ""
 "Executed all the traders and envoys from Razmiran. For any problems that can"
 " be handled by the Grand Diplomat or Minister, roll 2 checks and pick the "
 "best result."
-msgstr ""
+msgstr "라즈미란의 모든 상인과 대사들을 처형했습니다. 수석 외교관이나 장관이 다루는 모든 문제는 두번 굴려 더 나은 결과를 고릅니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/RelRank7-AdvantageOnProblems_DisplayName
 msgctxt "f49bc4e2-841e-418f-8c39-02e487107adb"
 msgid "Butcher"
-msgstr ""
+msgstr "도살자"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/StaRank10-WigmoldSystem_Description_String
@@ -2177,12 +2268,16 @@ msgid ""
 "On the lawful-chaotic axis: +3 to resolve situations with the Warden for a kingdom with a Lawful alignment; +3 to resolve situations with the General for a kingdom with a Neutral alignment; +3 to resolve situations with the Minister for a kingdom with a Chaotic alignment.\n"
 "On the good-evil axis: provides +3 to resolve situations with the Regent for a kingdom with a Good alignment; +3 to resolve situations with the Treasurer for a kingdom with a Neutral alignment; +3 to resolve situations with the Councilor for a kingdom with an Evil alignment."
 msgstr ""
+"질서 - 혼돈에 따라: 왕국의 성향이 질서일 경우, 감시관이 사건을 해결할 때 +3 보너스를 받습니다. 중립일 경우 장군이, 혼돈일 경우 "
+"마법대신이 보너스를 받습니다.\n"
+"선 - 악에 따라: 왕국의 성향이 선할 경우, 섭정이 사건을 해결할 때 +3 보너스를 받습니다. 중립이면 재무관이, 악이면 평의원이 "
+"보너스를 받습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/StaRank10-WigmoldSystem_DisplayName_String
 msgctxt "2cf9bb9d-8724-42bb-803d-784138936605"
 msgid "Wigmold's Prevention System"
-msgstr ""
+msgstr "위그몰드의 방범 체계"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/StaRank2-DiscountStaBuildings_Description_String
@@ -2193,36 +2288,38 @@ msgid ""
 "Jail, Justiciaries' Garrison, Lighthouse, Military Academy, Swordlords' "
 "Academy, Temple of Asmodeus) is reduced by 10%."
 msgstr ""
+"고정 치안 보너스가 있는 건물(성, 저수지, 법원, 드워프 요새, 마르지 않는 분수, 요새, 헬나이트 성, 법관투사 주둔지, 등대, "
+"사관학교, 소드로드 아카데미, 아스모데우스 신전)의 비용이 10% 감소합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/StaRank2-DiscountStaBuildings_DisplayName_String
 msgctxt "5e32ac24-df9f-4ba5-ba55-fe9dfbae41a8"
 msgid "Laying the Foundation"
-msgstr ""
+msgstr "기반 다지기"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/StaRank4-EasierOpportunities_Description_String
 msgctxt "840b57b2-8d98-4b87-9b29-2f3b514810c1"
 msgid "Provides +2 bonus to resolve any opportunity with the Warden."
-msgstr ""
+msgstr "기회를 해결할 때 감시관에게 +2 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/StaRank4-EasierOpportunities_DisplayName_String
 msgctxt "6f6dc24d-8957-4fdd-bc22-6f55b9608afa"
 msgid "Crime Prevention"
-msgstr ""
+msgstr "범죄 예방"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/StaRank4-EasierProblems_Description_String
 msgctxt "a884a610-d730-465c-8faf-5379572d5d0d"
 msgid "Provides +2 bonus to resolve any problem with the Warden."
-msgstr ""
+msgstr "문제를 해결할 때 감시관에게 +2 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/StaRank4-EasierProblems_DisplayName_String
 msgctxt "870f9bd2-82e7-423e-ab07-7d961270deea"
 msgid "Crime Fighters"
-msgstr ""
+msgstr "범죄 해결사"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/StaRank7-MoreDiscountStaBuildings_Description_String
@@ -2233,6 +2330,8 @@ msgid ""
 "Jail, Justiciaries' Garrison, Lighthouse, Military Academy, Swordlords' "
 "Academy, Temple of Asmodeus) is reduced by 15%."
 msgstr ""
+"고정 치안 보너스가 있는 건물(성, 저수지, 법원, 드워프 요새, 마르지 않는 분수, 요새, 헬나이트 성, 법관투사 주둔지, 등대, "
+"사관학교, 소드로드 아카데미, 아스모데우스 신전)의 비용이 15% 감소합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/StaRank7-MoreDiscountStaBuildings_DisplayName_String
@@ -2852,7 +2951,7 @@ msgid ""
 " Loyalty, Economy and Stability when adjacent to a Town Hall. Counts as a "
 "Bank."
 msgstr ""
-"안도란 은행 \"명예와 유산\" 의 주재원을 위한 사무소. 서민들이 고리대 걱정 없이 대출 받을 수 있습니다. 마을 회관에 인접 시 "
+"안도란 은행 \"명예와 유산\" 의 주재원을 위한 사무소. 평민들이 고리대 걱정 없이 대출 받을 수 있습니다. 마을 회관에 인접 시 "
 "민심, 경제, 치안에 +1. 은행으로 간주됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Andoran Bank_Name
@@ -3033,8 +3132,10 @@ msgid ""
 "Requires the {mf|barony|barony|kingdom|kingdom} to have a Neutral, Chaotic Neutral, Neutral Evil or Chaotic Evil alignment.\n"
 "Affects: Kobold's Quarters."
 msgstr ""
-"암살자의 훈련소이자 본부입니다. 감시관이 이 지역의 사건을 해결할 때마다 민심과 치안이 1 씩 감소합니다. 민심이 30 일마다 1 씩 감소하지만 민심 등급을 올릴 때 서민보다 도적의 편을 들면 25 BP를 제공합니다.\n"
-"만약 서민보다 도적을 지원하여 {mf|남작령|남작령|왕국|왕국}의 안정도가 붕괴로 떨어지면, 안정도를 폭동으로 되돌리고 {mf|남작령|남작령|왕국|왕국}의 민심이 -10 깍입니다.\n"
+"암살자의 훈련소이자 본부입니다. 감시관이 이 지역의 사건을 해결할 때마다 민심과 치안이 1 씩 감소합니다. 민심이 30 일마다 1 씩 "
+"감소하지만 민심 등급을 올릴 때 평민보다 도적의 편을 들면 25 BP를 제공합니다.\n"
+"만약 평민보다 도적을 지원하여 {mf|남작령|남작령|왕국|왕국}의 안정도가 붕괴로 떨어지면, 안정도를 폭동으로 되돌리고 "
+"{mf|남작령|남작령|왕국|왕국}의 민심이 -10 깍입니다.\n"
 "이 건물을 지으려면 {mf|남작령|남작령|왕국|왕국}의 성향이 중립, 혼돈 중립, 중립 악 또는 혼돈 악이어야 합니다.\n"
 "영향: 코볼트의 숙소."
 
@@ -3122,9 +3223,13 @@ msgid ""
 "Additionally, if you paid more heed to the needs of bandits than the common folk as Community rank increased, once every 90 days the Black Market offers a special project to acquire a random item. The value of the acquired item increases over time. Only one such project can be active at the same time.\n"
 "Can only be built in a settlement housing a Thieves Guild. Restricted to {mf|baronies|baronies|kingdoms|kingdoms} with a Neutral, Chaotic Neutral, Neutral Evil or Chaotic Evil alignment."
 msgstr ""
-"불법적이고 위험한 상품을 파는 상점들. 30일마다 경제가 1씩 감소하지만, 주민 등급이 상승하는 사건에서 서민보다 도적의 편을 들면 25BP를 제공합니다.\n"
-"또한, 민심 등급을 높일 때 따라 서민보다 도적의 요구에 더 주의를 기울인다면, 암시장은 90일에 한 번씩 무작위 아이템을 획득할 수 있는 특별 계획을 제공합니다. 얻을 수 있는 물품의 가치는 시간이 지남에 따라 증가합니다. 이 계획은 동시에 여러 개 활성화할 수 없습니다.\n"
-"도둑 조합이 있는 정착지에서만 건축할 수 있습니다. {mf|남작령|남작령|왕국|왕국}의 성향이 중립, 혼돈 중립, 중립 악, 혼돈 악이여야 합니다."
+"불법적이고 위험한 상품을 파는 상점들. 30일마다 경제가 1씩 감소하지만, 주민 등급이 상승하는 사건에서 평민보다 도적의 편을 들면 "
+"25BP를 제공합니다.\n"
+"또한, 민심 등급을 높일 때 따라 평민보다 도적의 요구에 더 주의를 기울인다면, 암시장은 90일에 한 번씩 무작위 아이템을 획득할 수 "
+"있는 특별 계획을 제공합니다. 얻을 수 있는 물품의 가치는 시간이 지남에 따라 증가합니다. 이 계획은 동시에 여러 개 활성화할 수 "
+"없습니다.\n"
+"도둑 조합이 있는 정착지에서만 건축할 수 있습니다. {mf|남작령|남작령|왕국|왕국}의 성향이 중립, 혼돈 중립, 중립 악, 혼돈 "
+"악이여야 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Black Market_Name
 msgctxt "4aba920b-6643-4029-b1b0-33081d925759"
@@ -3183,8 +3288,9 @@ msgid ""
 "The home of the city's leader and the heart of its defenses. +2 to Military if located in a settlement with a Foundry. +2 to Military if there is a Citadel, and +2 to Military if there is a Reinforced Wall.\n"
 "Affects: Cathedral, Mint, Palace."
 msgstr ""
-"도시 지도자의 거처이자 도시 방어의 중심. 주조 공장이 있는 정착지에 위치한 경우 군사에 +2. 거점이 있다면 군사에 +2, 강화벽이 있다면 군사에 +2를 줍니다. \n"
-"영향: 대성당, 화폐 주조소, 궁전."
+"도시 지도자의 거처이자 도시 방어의 중심. 주조소가 있는 정착지에 위치한 경우 군사에 +2. 거점이 있다면 군사에 +2, 강화벽이 있다면 "
+"군사에 +2를 줍니다. \n"
+"영향: 대성당, 조폐국, 궁전."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Castle_Name
 msgctxt "683cabd2-a56d-496c-a74a-01296962c72b"
@@ -3197,8 +3303,9 @@ msgid ""
 "The focal point of a city's religion and its spiritual leadership. Increases Divine by +2 for each other building in the settlement that increases Divine. +5 to Community when adjacent to a Palace or Castle.\n"
 "Affects: Mint, Palace."
 msgstr ""
-"도시의 종교와 영적 지도력의 중심. 정착지에 있는 신성 보너스 건물의 신성을 +2 씩 증가시킵니다. 궁전이나 성 근처에 있을 때 주민에 +5를 줍니다. \n"
-"영향: 화폐 주조소, 궁전."
+"도시의 종교와 영적 지도력의 중심. 정착지에 있는 신성 보너스 건물의 신성을 +2 씩 증가시킵니다. 궁전이나 성 근처에 있을 때 주민에 +"
+"5를 줍니다. \n"
+"영향: 조폐국, 궁전."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Cathedral_Name
 msgctxt "42bc5f7f-9bbe-4715-9201-9e0bc156587c"
@@ -21882,8 +21989,8 @@ msgid ""
 " at doesn't get any respect. They're one step away from a riot."
 msgstr ""
 "말썽쟁이 바드 몇 명이 평범한 사람들 사이에서 유명세를 얻는 한 가지 쉬운 방법을 찾아냈습니다. 그들은 {mf|남작|여남작|왕|여왕}을 "
-"조롱하는 노래를 부르고, {mf|그의|그녀의}의 초상화에 낙서를 했으며, {mf|그의|그녀의}의 동상을 훼손했습니다. 서민들은 좋아했고,"
-" 외국인들은 그 광경에 코웃음을 쳤습니다. 하지만 이런 행위들을 단순한 농담으로 치부할 수는 없습니다. 조롱당하는 통치자는 누구에게도 "
+"조롱하는 노래를 부르고, {mf|그의|그녀의}의 초상화에 낙서를 했으며, {mf|그의|그녀의}의 동상을 훼손했습니다. 평민들은 좋아했고, "
+"외국인들은 그 광경에 코웃음을 쳤습니다. 하지만 이런 행위들을 단순한 농담으로 치부할 수는 없습니다. 조롱당하는 통치자는 누구에게도 "
 "존경받지 못합니다. 여기서 폭동까지는 딱 한 걸음밖에 떨어져있지 않습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -24137,8 +24244,8 @@ msgid ""
 "feel that the {mf|baron|baroness|King|Queen} has little care for their "
 "problems, and have started an uprising in earnest."
 msgstr ""
-"마법 대신은 모든 마법 능력과 기술을 동원했지만 범인을 찾을 수 없었습니다. 주민은 {mf|남작|여남작|왕|여왕}이 문제에 관심이 없다고"
-" 여기고는, 봉기하기 시작했습니다."
+"마법대신은 모든 마법 능력과 기술을 동원했지만 범인을 찾을 수 없었습니다. 주민은 {mf|남작|여남작|왕|여왕}이 문제에 관심이 없다고 "
+"여기고는, 봉기하기 시작했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/CE-
 #. DarkerthanBlack_Solutions.Entries.Array.data[6].Resolutions.Array.data[1].LocalizedDescription
@@ -24150,8 +24257,9 @@ msgid ""
 "conducting rituals using the blood of infants. Rumors abound that the "
 "{mf|baron|baroness|King|Queen} is somehow involved in these nefarious acts."
 msgstr ""
-"마법 대신은 범인을 찾는 데 모든 마법적 역량을 끌어다 썼지만, 수색은 너무 오래 걸렸습니다. 마침내 \n"
-"암흑교단이 아동의 피로 의식을 치르고 있던 은신처가 발견되었습니다. 그러나 {mf|남작|여남작|왕|여왕}이 어떻게든 이 사악한 짓에 연루되어 있다는 소문이 퍼졌습니다."
+"마법대신은 범인을 찾는 데 모든 마법적 역량을 끌어다 썼지만, 수색은 너무 오래 걸렸습니다. 마침내 \n"
+"암흑교단이 아동의 피로 의식을 치르고 있던 은신처가 발견되었습니다. 그러나 {mf|남작|여남작|왕|여왕}이 어떻게든 이 사악한 짓에 "
+"연루되어 있다는 소문이 퍼졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/CE-
 #. DarkerthanBlack_Solutions.Entries.Array.data[6].Resolutions.Array.data[2].LocalizedDescription
@@ -24162,7 +24270,7 @@ msgid ""
 "bent on using the blood of innocents for an evil ritual. This location must "
 "be investigated – and their plans thwarted!"
 msgstr ""
-"마법 대신은 마법 의식으로 납치된 아이들의 위치를 찾아냈습니다. 그리고 납치범은 암흑교단 소속으로, 무고한 사람들의 피를 사악한 의식에 "
+"마법대신은 마법 의식으로 납치된 아이들의 위치를 찾아냈습니다. 그리고 납치범은 암흑교단 소속으로, 무고한 사람들의 피를 사악한 의식에 "
 "사용하려는 것도 알아냈습니다. 이 장소를 찾아내서 교단의 계획을 막아야합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/CG-
@@ -31309,8 +31417,8 @@ msgid ""
 "Garden, Library, Mage's Tower, Magic Shop, Magical Academy, Nethys' Academy,"
 " Nethys' Library, Pathfinder Lodge, University) is reduced by 10%."
 msgstr ""
-"고정 비전 보너스가 있는 건물(아카데미, 알케미스트의 실험실, 이국적인 정원, 도서관, 마법사의 탑, 마법 상점, 마법 아카데미, 네서스"
-" 아카데미, 네서스 도서관, 패스파인더 오두막, 대학)의 비용이 10% 절감됩니다."
+"고정 비전 보너스가 있는 건물(아카데미, 알케미스트 실험실, 이국적인 정원, 도서관, 마법사의 탑, 마법 상점, 마법 아카데미, 네서스 "
+"아카데미, 네서스 도서관, 패스파인더 지부, 대학)의 비용이 10% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/ArcRank4-DiscountonArcBuildings_LocalizedName
 msgctxt "bc4867dd-907d-4abb-8349-ee79b451e6d7"
@@ -31375,7 +31483,7 @@ msgctxt "9aef117c-8085-45be-8bfd-1cb008d57323"
 msgid ""
 "By paying attention to the community and heeding every call of distress, "
 "Regent solves problems with +1 bonus."
-msgstr "지역사회에 관심을 기울이고 모든 고통의 소집에 주의를 기울임으로써 섭정은 문제 해결에 +1 보너스를 받습니다."
+msgstr "지역사회에 관심을 갖고, 모든 고통의 목소리에 귀를 기울여, 섭정은 문제 해결에 +1 보너스를 받습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/ComRank3-EasierProblems_LocalizedName
 msgctxt "44de3ad0-49cc-4c97-a18d-841d13bb0648"
@@ -31571,7 +31679,7 @@ msgid ""
 " Nethys' Library, Pathfinder Lodge, University) is reduced by 15%."
 msgstr ""
 "고정 경제 보너스가 있는 건물(목재소, 잔교, 정박지, 부둣가, 상점, 무역 상점, 사치품 상점, 선술집, 여관, 안도란 은행, 은행, "
-"축제, 화폐 주조소)의 비용이 15% 절감됩니다."
+"축제, 조폐국)의 비용이 15% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/EcoRank6-DiscountonEcoBuildings_LocalizedName
 msgctxt "75a5fc20-bf01-4c48-aeff-c820672faf57"
@@ -31857,7 +31965,7 @@ msgstr "계획이 완료되었습니다."
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/MilRank10-Arcanomirium_LocalizedDescription
 msgctxt "2c6b2644-b286-45a6-b2c1-ee3855b101de"
 msgid "Provides +1 bonus for solving problems with Warden and Magister."
-msgstr "문제를 해결할 때 장군에게 +1 감시관과 마법대신에게"
+msgstr "감시관과 마법대신이 문제를 해결할 때 +1 보너스 제공."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/MilRank10-Arcanomirium_LocalizedName
 msgctxt "fb0f8c99-d4a7-4fe9-855a-bac07b2e8e26"
@@ -32017,7 +32125,7 @@ msgstr "앞으로 외교관들은 추가 자원을 가져올 것입니다."
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/RelRank4-ReduceRegionClaimCost_LocalizedDescription
 msgctxt "469d05e4-51e0-4890-960f-ca094dbb3261"
 msgid "Region claims and upgrades cost 15% less."
-msgstr "권리 주장 및 승급 비용이 15% 절감됩니다."
+msgstr "점령 및 승급 비용이 15% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/RelRank4-ReduceRegionClaimCost_LocalizedName
 msgctxt "2fc97688-3ea5-4540-84db-caf3187e71be"
@@ -32032,7 +32140,7 @@ msgstr "계획이 완료되었습니다."
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/RelRank6-ReduceRegionUpgradeCost_LocalizedDescription
 msgctxt "8c99d63d-bf72-4da0-9974-3be830d63c78"
 msgid "Region claims and upgrades cost 25% less."
-msgstr "권리 주장 및 승급 비용이 25% 절감됩니다."
+msgstr "점령 및 승급 비용이 25% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/RelRank6-ReduceRegionUpgradeCost_LocalizedName
 msgctxt "be9a2f0c-c9e9-42dd-91fc-f7bb7d9549b1"
@@ -32087,7 +32195,7 @@ msgstr "계획이 성공적입니다."
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/StaRank4-EasierOpportunities_LocalizedDescription
 msgctxt "e2acfae4-bb83-4549-8c07-580939ef64af"
 msgid "Provides +2 bonus to solve any opportunity with Warden."
-msgstr "기회를 처리할 때 감시관에게 +2 보너스를 제공합니다."
+msgstr "기회를 해결할 때 감시관에게 +2 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/StaRank4-EasierOpportunities_LocalizedName
 msgctxt "4cf47a50-96e2-4f87-82f7-199e475b273f"
@@ -32195,7 +32303,7 @@ msgctxt "a0e8e682-ad15-4047-8d99-953d082d509c"
 msgid ""
 "Allows for faster region claims and upgrades, reducing the time required by "
 "half."
-msgstr "권리 주장 및 승급을 빠르게 합니다. 시간이 절반으로 줄어듭니다."
+msgstr "점령 및 승급을 빠르게 합니다. 시간이 절반으로 줄어듭니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Kingdom
 #. Development/FasterClaimsUpgrades_LocalizedName
@@ -32207,7 +32315,7 @@ msgstr "적극적 확장"
 #. Development/FasterClaimsUpgrades_Results.Array.data[0].LocalizedDescription
 msgctxt "2068db51-9e63-41df-b119-32e81e4b07c6"
 msgid "It now takes less time to claim and upgrade regions."
-msgstr "이제 권리 주장 및 승급에 시간이 덜 걸립니다."
+msgstr "이제 점령 및 승급에 시간이 덜 걸립니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Kingdom
 #. Development/FasterMountainTravel_LocalizedDescription
@@ -33053,9 +33161,9 @@ msgid ""
 "kingdom provide an additional bonus of +3 to Loyalty, Community, Military "
 "and Stability."
 msgstr ""
-"자만디 알도리는 당신에 대한 지지와 우정의 표시로 소드로드 교관들을 당신의 영지에 진심으로 보내기를 간절히 바라고 있습니다. "
-"{mf|남작령|남작령|왕국|왕국}의 모든 사관학교는 충성도에 +3, 안정성과 군사력에 +2의 추가 보너스를 제공합니다. 이 왕국의 모든 "
-"소드로드 양성소는 충성도, 민심, 군사력, 그리고 안정성에 +3의 추가 보너스를 제공합니다."
+"자만디 알도리는 당신에 대한 지지와 우정의 표시로 소드로드 교관들을 당신의 영지에 보내기를 간절히 바라고 있습니다. "
+"{mf|남작령|남작령|왕국|왕국}의 모든 사관학교는 민심에 +3, 안정성과 군사력에 +2의 추가 보너스를 제공합니다. 이 왕국의 모든 "
+"소드로드 양성소는 민심, 주민, 군사력, 그리고 안정성에 +3의 추가 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/AldoriFightingSchool_LocalizedName
 msgctxt "656cc136-eab6-40b3-9fda-13171515ab6b"
@@ -34155,7 +34263,7 @@ msgid ""
 "and Espionage by 5; also provides 3 BP per week for each Espionage Rank "
 "above 8."
 msgstr ""
-"당신은 어떤 브레보이 파벌과도 독립하기로 결정했고, 당신의 땅을 진정한 강 왕국으로 만들었습니다. 효과: 충성도 10 증가, 첩보 5 "
+"당신은 어떤 브레보이 파벌과도 독립하기로 결정했고, 당신의 땅을 진정한 강 왕국으로 만들었습니다. 효과: 민심 10 증가, 첩보 5 "
 "증가, 8 초과의 첩보 랭킹 당 한 주에 3 BP 제공"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/PartofRiverKingdoms_LocalizedName
@@ -34660,12 +34768,12 @@ msgstr "협정이 성사되었습니다!"
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Capital_Upgrade_loyalty_LocalizedDescription
 msgctxt "d998efe8-227a-4a69-a0b6-3fc0d2a991c4"
 msgid "We can increase our people's loyalty in this region."
-msgstr "이 지역 백성의 충성도를 상승시킬 수 있습니다."
+msgstr "이 지역 백성의 민심를 상승시킬 수 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Capital_Upgrade_loyalty_LocalizedName
 msgctxt "cb66dadf-285b-403a-80dd-ce339c95fd7a"
 msgid "Improve Loyalty"
-msgstr "충성도 상승"
+msgstr "민심 상승"
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Capital_Upgrade_loyalty_UpgradedRegionDescription
 msgctxt "0f1cc117-4204-455a-bca5-1559b6e12ee3"
@@ -34711,7 +34819,7 @@ msgstr "험한 날마치를 당신의 왕국 일부로 선언합니다."
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/DireNarlmarches_Claim_LocalizedName
 msgctxt "a25f234c-6916-41d3-a3ce-9ebfc2a37f5a"
 msgid "Claim the Dire Narlmarches"
-msgstr "험한 날마치 권리 주장"
+msgstr "험한 날마치 점령"
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/DireNarlmarches_Claim_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "49e433de-45da-4961-8de3-49c170747604"
@@ -34735,7 +34843,7 @@ msgstr "험한 날마치가 당신의 {mf|남작령|남작령|왕국|왕국}에 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/DireNarlmarches_Claim_UnknownDescription_String
 msgctxt "69d3d6b1-8822-41f9-9a9b-978a7d3212d2"
 msgid "This region is too dangerous and unknown to be claimed right now."
-msgstr "이 지역은 지금 권리 주장을 하기엔 너무 위험하고, 아는 것이 없습니다."
+msgstr "이 지역은 지금 점령하기엔 너무 위험하고, 아는 것이 없습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/DireNarlmarches_Upgrade_MagicalAbandonedKeep_LocalizedDescription
 msgctxt "bbd5bd37-0a4f-4d3e-bb3a-2a30f1c5b82c"
@@ -34822,7 +34930,7 @@ msgstr "던스워드를 당신의 왕국 일부로 선언합니다."
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Dunsward_Claim_LocalizedName
 msgctxt "47140a62-2524-42b8-b46c-73161bdd7644"
 msgid "Claim Dunsward"
-msgstr "던스워드 권리 주장"
+msgstr "던스워드 점령"
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Dunsward_Claim_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "09eb9cf4-6e8a-4ad7-b74d-9c66ffb90d8f"
@@ -34844,7 +34952,7 @@ msgstr "던스워드가 당신의 {mf|남작령|남작령|왕국|왕국}에 편�
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Dunsward_Claim_UnknownDescription
 msgctxt "65416ead-26e4-4243-a3b7-5c314d7f7142"
 msgid "This region is too dangerous and unknown to be claimed right now."
-msgstr "이 지역은 지금 권리 주장을 하기엔 너무 위험하고, 알 수 없습니다."
+msgstr "이 지역은 지금 점령하기엔 너무 위험하고, 알 수 없습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Dunsward_Upgrade_AgriculturalParadise_LocalizedDescription
 msgctxt "d3448e47-3af9-46e4-92a3-04ccd7d31ef1"
@@ -34922,7 +35030,7 @@ msgstr "글레네본을 당신의 왕국 일부로 선언합니다."
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Glenebon_Claim_LocalizedName
 msgctxt "a12799ed-6ba8-4d28-b975-02c0d09621ee"
 msgid "Claim Glenebon"
-msgstr "글레네본 권리 주장"
+msgstr "글레네본 점령"
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Glenebon_Claim_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "15633d40-6c50-4a76-9524-edd45b96e36d"
@@ -34941,7 +35049,7 @@ msgctxt "625d54e8-5c8e-4522-8f8a-05b88107ac0f"
 msgid ""
 "This land is too wild and dangerous to be claimed. There are rumors of "
 "several barbarian tribes in the area."
-msgstr "이 땅은 권리 주장 하기에 너무 거칠고 위험합니다.  이 지역에 야만인 부족이 여럿 있다는 소문이 있습니다."
+msgstr "이 땅은 점령 하기에 너무 거칠고 위험합니다.  이 지역에 야만인 부족이 여럿 있다는 소문이 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Glenebon_Upgrade_GorumsHolyPlace_LocalizedDescription
 msgctxt "b9424a88-9422-4aae-b0c6-882b4b2e5b65"
@@ -35036,7 +35144,7 @@ msgstr "케임랜드를 당신의 왕국 일부로 선언합니다."
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Kamelands_Claim_LocalizedName
 msgctxt "1130e6a7-2b7b-4661-8170-5c639706e33b"
 msgid "Claim the Kamelands"
-msgstr "케임랜드 권리 주장"
+msgstr "케임랜드 점령"
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Kamelands_Claim_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "f2f8f741-68e0-4eba-ae48-c811e5350b99"
@@ -35122,7 +35230,7 @@ msgstr "북부 날마치를 당신의 왕국 일부로 선언합니다."
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/NorthNarlmarches_Claim_LocalizedName
 msgctxt "e8048fb1-a9cd-4c69-bab2-aa6a055b1b9a"
 msgid "Claim the North Narlmarches"
-msgstr "북부 날마치 권리 주장"
+msgstr "북부 날마치 점령"
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/NorthNarlmarches_Claim_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "4e1414bb-ffcd-459a-91c0-1a7227bd1709"
@@ -35211,7 +35319,7 @@ msgstr "외곽 지역을 왕국의 일부로 선언합니다."
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Outskirts_Claim_LocalizedName
 msgctxt "6e047aa8-09b5-46bd-a231-112624971d7a"
 msgid "Claim Outskirts"
-msgstr "외곽 지역 권리 주장"
+msgstr "외곽 지역 점령"
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Outskirts_Claim_Results.Array.data[0].LocalizedDescription
 msgctxt "a26ef1c4-df52-498e-8f4d-3d6aa67e0ef8"
@@ -35334,7 +35442,7 @@ msgstr "피탁스를 왕국의 일부로 선언합니다."
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Pitax_Claim_LocalizedName
 msgctxt "b2c27c85-7a59-4cbf-95c7-5f22209fc772"
 msgid "Claim Pitax"
-msgstr "피탁스 권리 주장"
+msgstr "피탁스 점령"
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Pitax_Claim_UnknownDescription
 msgctxt "0300bda1-3295-46b4-ba95-8e45fb3eb15f"
@@ -35580,7 +35688,7 @@ msgstr "실버스텝을 왕국의 일부로 선언합니다."
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Silverstep_Claim_LocalizedName
 msgctxt "b65f49c1-c0ab-4d03-9fa8-3d6ae958e767"
 msgid "Claim Silverstep"
-msgstr "실버스텝 권리 주장"
+msgstr "실버스텝 점령"
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Silverstep_Claim_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "fbc7aa85-8e21-45a9-8279-f5a3e9066d5f"
@@ -35696,7 +35804,7 @@ msgstr "남부 날마치를 당신의 왕국 일부로 선언합니다."
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/SouthNarlmarches_Claim_LocalizedName
 msgctxt "8167b393-216d-44e8-a7e2-ccb27d32a485"
 msgid "Claim the South Narlmarches"
-msgstr "남부 날마치 권리 주장"
+msgstr "남부 날마치 점령"
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/SouthNarlmarches_Claim_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "09d7960d-4fcf-4ff0-bfd8-c9f53acc7e93"
@@ -35812,7 +35920,7 @@ msgstr "레베니스 바위산맥을 당신의 왕국 일부로 선언합니다.
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/TorsOfLevenies_Claim_LocalizedName
 msgctxt "a3257bd2-86e5-40f4-81a0-5f2538bf083e"
 msgid "Claim the Tors of Levenies"
-msgstr "레베니스 바위산맥 권리 주장"
+msgstr "레베니스 바위산맥 점령"
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/TorsOfLevenies_Claim_Solutions.Entries.Array.data[6].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "b8bc6d45-1444-42de-ab50-7fc44182e927"
@@ -35829,7 +35937,7 @@ msgstr "레베니스 바위산맥이 당신의 {mf|남작령|남작령|왕국|�
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/TorsOfLevenies_Claim_UnknownDescription
 msgctxt "75974865-b9fd-491b-9f46-70c863233b8f"
 msgid "This region is too dangerous to claim right now."
-msgstr "이 지역은 지금 권리 주장을 하기엔 너무 위험합니다."
+msgstr "이 지역은 지금 점령하기엔 너무 위험합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/TorsOfLevenies_Upgrade_AncientDaemonicCult_LocalizedDescription
 msgctxt "32568082-6dde-409e-8065-2cd6744f911b"
@@ -35902,7 +36010,7 @@ msgstr "반홀드를 왕국의 일부로 선언합니다."
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Varnhold_Claim_LocalizedName
 msgctxt "cc08f71d-6f90-4d06-baf6-57153d2fc097"
 msgid "Claim Varnhold"
-msgstr "반홀드 권리 주장"
+msgstr "반홀드 점령"
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Varnhold_Claim_UnknownDescription
 msgctxt "ce6d5f95-13f5-482d-985b-b34fdad1b54d"
