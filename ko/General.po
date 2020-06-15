@@ -1,6 +1,20 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-15 18:51+0900\n"
+"PO-Revision-Date: 2020-06-15 09:51+0000\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/"
+"pathfinder_kingmaker/general/ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.3\n"
+
+#
 
 #. Mechanics/Blueprints/Buff Damage bonus_m_DisplayName
 msgctxt "ee15f0be-712b-40ba-8d1b-6575ece633e6"
@@ -9313,8 +9327,10 @@ msgid ""
 "There are 7 statuses of Unrest your {mf|barony|barony|kingdom|kingdom} can have. If your kingdom prospers and your subjects are happy, your advisors will receive a bonus to the outcomes of events. If the kingdom's stability is low, advisors will find it hard to deal with problems and take advantage of opportunities.\n"
 "If the Unrest parameter drops below \"Crumbling,\" your {mf|barony|barony|kingdom|kingdom} will be destroyed."
 msgstr ""
-"백성들이 불행하다면, 불안을 느끼거나 심지어는 폭동을 일으킬 수도 있습니다. 안정도는 지역 사회의 치안과 {mf|남작령|여남작령|왕국|왕국}의 지위를 반영합니다. 기본적으로는 안정 상태이지만 당신의 조치나 개별 사건에 따라 영향을 받습니다.\n"
-"안정도는 7개 등급으로 나뉩니다. 만약 당신의 나라가 번영하고 백성들이 행복하다면, 조언가는 사건 결과에 보너스를 받게 될 것입니다. 만약 왕국의 안정도가 낮다면, 조언자들은 문제를 처리하고 기회를 이용하는 데 어려움을 겪습니다.\n"
+"백성들이 불행하다면, 불안을 느끼거나 심지어는 폭동을 일으킬 수도 있습니다. 안정도는 지역 사회의 치안과 "
+"{mf|남작령|여남작령|왕국|왕국}의 상태를 반영합니다. 기본적으로는 안정 상태이지만 당신의 조치나 개별 사건에 따라 영향을 받습니다.\n"
+"안정도는 7개 등급으로 나뉩니다. 만약 당신의 나라가 번영하고 백성들이 행복하다면, 조언가는 사건 결과에 보너스를 받게 될 것입니다. "
+"만약 왕국의 안정도가 낮다면, 조언자들은 문제를 처리하고 기회를 이용하는 데 어려움을 겪습니다.\n"
 "안정도가 \"붕괴\" 아래로 떨어지면, 당신의 {mf|남작령|여남작령|왕국|왕국}은 파괴될 것입니다."
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_11_Caption_String
@@ -9459,9 +9475,11 @@ msgid ""
 "Complete the relevant project on the Projects tab to start an upgrade. Once the upgrade is complete, the number of slots in the settlement will increase to 20, and the list of buildings will expand.\n"
 "Three or more towns in your {mf|barony|barony|kingdom|kingdom} and at least 16 occupied building slots in the capital will enable you to upgrade the capital to city."
 msgstr ""
-"이제 {mf|남작령|여남작령|왕국|왕국}의 정착지를 승급할 수 있습니다. 영지가 보유한 3개의 정착지 마다, 6칸 이상의 건물이 지어진 마을 하나를 소도시로 승급시킬 수 있습니다. 수도를 첫 번째로 승급해야 합니다.\n"
-"승급을 시작하려면 계획 탭에서 관련 계획을 실행해야 합니다. 승급이 완료되면 정착지의 건물 칸이 20개로 늘어나고 건설 가능한 건물의 종류가 늘어납니다.\n"
-"{mf|남작령|여남작령|왕국|왕국}에 소도시가 3개 이상이면, 16칸 이상의 건물이 지어진 수도를 도시로 승급시킬 수 있습니다."
+"이제 {mf|남작령|여남작령|왕국|왕국}의 정착지를 승급할 수 있습니다. 영지가 보유한 3개의 정착지 마다, 6칸 이상의 건물이 지어진 "
+"마을 하나를 소도시로 승급시킬 수 있습니다. 수도를 첫 번째로 승급해야 합니다.\n"
+"승급을 시작하려면 계획 탭에서 관련 계획을 실행해야 합니다. 승급이 완료되면 정착지의 건물 칸이 20개로 늘어나고 건설 가능한 건물의 "
+"종류가 늘어납니다.\n"
+"{mf|남작령|여남작령|왕국|왕국}에 소도시가 3개 이상이고, 수도에 지어진 건물이 16칸 이상이면 도시로 승급시킬 수 있습니다."
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_16_Caption_String
 msgctxt "6503e7b3-fb30-4fc4-888b-e6cf7071eb94"
@@ -9707,7 +9725,7 @@ msgstr ""
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_5_1_Caption_String
 msgctxt "b57de353-13f8-451c-bd86-98b37eb1e771"
 msgid "Claiming New Regions"
-msgstr "새 지역에 대한 권리 주장"
+msgstr "새 지역에 대한 점령"
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_5_1_Message_String
 msgctxt "3bfc2a14-7a4e-4284-afc0-c713fc713654"
@@ -9735,9 +9753,9 @@ msgid ""
 msgstr ""
 "새로운 지역에 권리를 주장하기 위해 해야 ​​할 일은 다음과 같습니다.\n"
 "-특별한 지역 조건을 충족해야 합니다. 즉, 퀘스트를 완료하거나 지표가 일정한 등급에 도달해야합니다.\n"
-"-권리 주장에 충분한 BP가 있어야 합니다.\n"
-"-권리 주장을 담당할 조언가 자리가 비어있으면 안됩니다.\n"
-"권리 주장은 왕국 계획이며, 계획을 실행하면 당신과 조언가는 계획에 소요되는 14일의 시간을 건너뛰게 됩니다.\n"
+"-점령에 충분한 BP가 있어야 합니다.\n"
+"-점령을 담당할 조언가 자리가 비어있으면 안됩니다.\n"
+"점령은 왕국 계획이며, 계획을 실행하면 당신과 조언가는 계획에 소요되는 14일의 시간을 건너뛰게 됩니다.\n"
 "새 영토에 대한 권리를 얻어 영토에 병합시키면, 국경이 변하고 새로 얻은 지역이 지닌 모든 보너스를 받게됩니다."
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_6_Caption_String
