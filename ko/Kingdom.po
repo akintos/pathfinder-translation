@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-15 11:43+0000\n"
+"PO-Revision-Date: 2020-06-15 18:04+0000\n"
 "Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
@@ -1237,8 +1237,8 @@ msgid ""
 "additional 1d10 BP for every 50 points of Loyalty and Relation above 400, up"
 " to 5d10 BP."
 msgstr ""
-"케이든과 그 신도들이 좋아하는 상품을 팔아 상당한 수입을 얻습니다. 월 1d10BP 제공. 민심과 외교가 모두 8등급, 10등급이 될 "
-"때마다 월 1d10BP를 추가로 제공. 민심과 외교가 400을 넘으면, 이후 50점 마다 1d10 BP 제공. 최대 5d10 BP."
+"케이든과 그 신도들이 좋아하는 상품을 팔아 상당한 수입을 얻습니다. 월 1d10 BP 제공. 민심과 외교가 모두 8등급, 10등급이 될 "
+"때마다 월 1d10 BP를 추가로 제공. 민심과 외교가 400을 넘으면, 이후 50점 마다 1d10 BP 제공. 최대 5d10 BP."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Projects/TradingCaiden_DisplayName_String
 msgctxt "39cc9db7-a552-4ded-a783-64c65b5d4f3f"
@@ -2889,7 +2889,7 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/TighterBorderControl_DisplayName_String
 msgctxt "63fd5569-49c3-4855-a9b0-d6cc4a5518c1"
 msgid "Lighter Customs Control"
-msgstr ""
+msgstr "더 가벼운 세관 통제"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/TradingWithJamandi_Description
 msgctxt "4cf7d7db-0543-48d1-97e5-af89c5d50627"
@@ -21645,8 +21645,7 @@ msgid ""
 "against poachers."
 msgstr ""
 "사람들은 섭정의 부하에게서 많은 걸 기대했지만, 그들은 사람들에게 밀렵하지 마세요라고 전달했을 뿐이고, 밀렵꾼들은 듣지 않았습니다. "
-"{mf|barony's|barony's|kingdom's|kingdom's}의 백성들은 밀렵꾼으로부터 보호해주지 못하는 관리들을 따를 "
-"이유가 있는지 의문을 품고 있습니다."
+"{mf|남작령|남작령|왕국|왕국}의 백성들은 밀렵꾼으로부터 보호해주지 못하는 관리들을 따를 이유가 있는지 의문을 품고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck3/ZealousHunters_Solutions.Entries.Array.data[0].Resolutions.Array.data[1].LocalizedDescription
@@ -23068,9 +23067,9 @@ msgid ""
 "away, nearly sinking their ships. They are outraged by authorities' defiance"
 " of the tradition of the River Kingdoms."
 msgstr ""
-"백성들은 조언자가 {mf|barony's|barony's|kingdom's|kingdom's} 범죄자들을 노예상에 팔아넘기려 했다는 것에"
-" 격노했습니다. 죄수들의 가족은 부두로 모여 노예상들을 쫓아냈고, 노예상의 배는 거의 침몰했습니다. 죄수와 가족들은 the River "
-"Kingdoms의 전통을 무시하는 당국에 분노를 쏟아냈습니다."
+"백성들은 조언자가 {mf|남작령|남작령|왕국|왕국}의 범죄자들을 노예상에 팔아넘기려 했다는 것에 격노했습니다. 죄수들의 가족은 부둣가로 "
+"모여 노예상들을 쫓아냈고, 노예상의 배는 거의 침몰했습니다. 죄수와 가족들은 the River Kingdoms의 전통을 무시하는 당국에 "
+"분노를 쏟아냈습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck6/LivingGoods_Solutions.Entries.Array.data[3].Resolutions.Array.data[4].LocalizedDescription_String
@@ -23126,8 +23125,7 @@ msgid ""
 " the {mf|barony's|barony's|kingdom's|kingdom's} reputation was damaged."
 msgstr ""
 "조언자의 수행원들은 오만하고 건방졌습니다. 강하고 독립적인 나라를 대표하고 있다는 것을 보여주기 위한 의도였지만 애석하게도 브레보이의 "
-"가문들은 그들의 배짱을 알아주지 않았습니다. 거래는 틀어졌고, "
-"{mf|barony's|barony's|kingdom's|kingdom's}의 명성에도 흠이 났습니다."
+"가문들은 그들의 배짱을 알아주지 않았습니다. 거래는 틀어졌고, {mf|남작령|남작령|왕국|왕국}의 명성에도 흠이 났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck6/TradePrivilegies_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription_String
@@ -31679,13 +31677,14 @@ msgid "The project is complete."
 msgstr "계획이 완료되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/EcoRank6-DiscountonEcoBuildings_LocalizedDescription
+#, fuzzy
 msgctxt "ff275ae5-2029-4394-ad23-8de5fec53029"
 msgid ""
 "Cost of buildings with static Economy bonus (Academy, Alchemist, Exotic "
 "Garden, Library, Mage's Tower, Magic Shop, Magical Academy, Nethys' Academy,"
 " Nethys' Library, Pathfinder Lodge, University) is reduced by 15%."
 msgstr ""
-"고정 경제 보너스가 있는 건물(목재소, 잔교, 정박지, 부둣가, 상점, 무역 상점, 사치품 상점, 선술집, 여관, 안도란 은행, 은행, "
+"고정 경제 보너스가 있는 건물(목재소, 선착장, 정박지, 부둣가, 상점, 무역 상점, 사치품 상점, 선술집, 여관, 안도란 은행, 은행, "
 "축제, 조폐국)의 비용이 15% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/EcoRank6-DiscountonEcoBuildings_LocalizedName
