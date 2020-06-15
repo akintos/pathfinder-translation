@@ -1,6 +1,20 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-17 04:07+0900\n"
+"PO-Revision-Date: 2020-06-16 19:07+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/"
+"pathfinder_kingmaker/feats/ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.3\n"
+
+#
 
 #. Mechanics/Blueprints/Feats/AbilityFocus_m_Description
 msgctxt "4e926302-ba33-47af-a3f9-8827ebaf62dd"
@@ -21,7 +35,7 @@ msgid ""
 "Your number of sneak attack dice cannot exceed half your character level (rounded up)."
 msgstr ""
 "암습 피해가 1d6 증가합니다.\n"
-"암습 주사위는 캐릭터 레벨의 절반을 (반올림) 넘을 수 없습니다"
+"암습 주사위는 캐릭터 레벨의 절반을 (반올림) 넘을 수 없습니다."
 
 #. Mechanics/Blueprints/Feats/AccomplishedSneakAttacker_m_DisplayName
 msgctxt "3773f489-13f5-4d06-b1cb-6f88f13c3631"
@@ -37,7 +51,7 @@ msgid ""
 msgstr ""
 "전법을 쓸 때 난폭한 힘 대신 날렵함을 사용하는걸 배웠습니다.\n"
 "이점: 전법 보너스를 결정할때 힘 보너스 대신 민첩 보너스를 기본 공격 보너스와 크기 보너스에 더합니다.\n"
-"일반: 전법 보너스를 결정할때 힘 보너스를 기본 공격 보너스와 크기 보너스에 더합니다.\n"
+"일반: 전법 보너스를 결정할때 힘 보너스를 기본 공격 보너스와 크기 보너스에 더합니다."
 
 #. Mechanics/Blueprints/Feats/AgileManeuvers_m_DisplayName
 msgctxt "1944090f-9d08-4f0d-8764-46d02c2c359e"
@@ -151,7 +165,7 @@ msgstr "눈감고 싸우기"
 #. Mechanics/Blueprints/Feats/BombAbilityFocus_m_Description
 msgctxt "92bd249c-98b1-49dd-9c2b-da6641847a3c"
 msgid "Add +2 to the DC for all saving throws against your bombs."
-msgstr " 폭탄의 내성 굴림 DC에 +2 를 더합니다."
+msgstr "폭탄의 내성 굴림 DC에 +2 를 더합니다."
 
 #. Mechanics/Blueprints/Feats/BombAbilityFocus_m_DisplayName
 msgctxt "bf6e0cae-9781-44cc-90ed-4ee5879b99f4"
@@ -161,7 +175,7 @@ msgstr "특수 공격 중점화 - 폭탄"
 #. Mechanics/Blueprints/Feats/CautiousFighter_m_Description
 msgctxt "af7b74a2-e4f5-423e-8d0d-721f21f2287b"
 msgid "When fighting defensively, your dodge bonus to AC increases by 2."
-msgstr "방어적 전투를 할 때, AC에 붙는 피하기 보너스가 2 만큼 증가합니다"
+msgstr "방어적 전투를 할 때, AC에 붙는 피하기 보너스가 2 만큼 증가합니다."
 
 #. Mechanics/Blueprints/Feats/CautiousFighter_m_DisplayName
 msgctxt "a77f0596-80f7-4474-926b-57fe18fc09dc"
@@ -380,13 +394,15 @@ msgid "Double Slice"
 msgstr "이중 베기"
 
 #. Mechanics/Blueprints/Feats/DreadfulCarnage_Description_String
+#, fuzzy
 msgctxt "0e3cd7a2-ace7-4b47-9cfc-db762bd5017f"
 msgid ""
 "Slaying an enemy demoralizes your other nearby foes.\n"
 "Benefit: Whenever you reduce an enemy to 0 or fewer hit points, you can make a Persuasion (to intimidate) check to demoralize all enemies within 30 feet as a free action. Enemies that cannot see both you and the enemy you reduced to 0 or fewer hit points are unaffected."
 msgstr ""
-"적을 죽이는 것은 주변의 다른 적들의 사기를 꺽습니다.\n"
-"이점: 적의 생명점을 0 이하로 만들때 마다, 캐릭터는 주변 30 피트 내의 모든 적들의 사기를 꺽기 위해 자유행동으로 설득(협박) 판정을 할 수 있습니다"
+"적을 처치하면 주변의 다른 적들의 사기를 꺾습니다.\n"
+"이점: 적의 생명점을 0 이하로 만들때 마다, 캐릭터는 주변 30 피트 내의 모든 적들의 사기를 꺾기 위해 자유행동으로 설득(협박) "
+"판정을 할 수 있습니다."
 
 #. Mechanics/Blueprints/Feats/DreadfulCarnage_DisplayName_String
 msgctxt "6a9d1923-0bc1-42a1-b603-4259b12498da"
