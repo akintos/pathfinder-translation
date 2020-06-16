@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-15 18:04+0000\n"
+"PO-Revision-Date: 2020-06-16 19:07+0000\n"
 "Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/root/ko/>\n"
@@ -6812,7 +6812,7 @@ msgid ""
 "merchants from the Vascari house. Regardless, you managed to talk to their "
 "leader, Renshala, and explain the situation to her."
 msgstr ""
-"극작가 이마르 디샴이 당신을 속여 바스카리 가문의 온건한 상인들을 공격토록 했습니다. 그럼에도 불구하고 당신은 그들의 리더인 린샬라와 "
+"극작가 이마르 데샹이 당신을 속여 바스카리 가문의 온건한 상인들을 공격토록 했습니다. 그럼에도 불구하고 당신은 그들의 리더인 린샬라와 "
 "대화할 수 있었고, 이 상황을 설명할 수 있었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions
@@ -6884,7 +6884,7 @@ msgid ""
 "merchants from the Vascari house. Renshala, one of the Vascari leaders, was "
 "killed in the fight."
 msgstr ""
-"극작가 이마르 디샴은 당신을 속여 바스카리 가문의 무고한 상인들을 공격하도록 만들었다. 바스카리의 지도자 중 한 명인 린샬라는 전투 "
+"극작가 이마르 데샹은 당신을 속여 바스카리 가문의 무고한 상인들을 공격하도록 만들었다. 바스카리의 지도자 중 한 명인 린샬라는 전투 "
 "와중에 사망하였다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions
@@ -7354,8 +7354,7 @@ msgid ""
 "You gained the support of Drey Yarnes, the high priest of Calistria, by "
 "pointing out how undesirable Irovetti's actions were to the goddess."
 msgstr ""
-"당신은 칼리스트리아의 고위 사제 드레이 얀스에게 이로베티의 행위가 여신에게 얼마나 바람직하지 않은지를 지적함으로써 그의 지지를 "
-"얻었습니다."
+"당신은 칼리스트리아의 대사제 드레이 얀스에게 이로베티의 행위가 여신에게 얼마나 바람직하지 않은지를 지적함으로써 그의 지지를 얻었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions
 #. 2_Entries.Array.data[26].Description
@@ -7365,7 +7364,7 @@ msgid ""
 "merchants from the Vascari house. Unfortunately, their leader Renshala is "
 "still blaming you for their deaths."
 msgstr ""
-"이마르 디샴이라는 극작가는 당신을 속여 바스카리 가문의 선량한 상인들을 공격하게끔 했습니다. 불행하게도 그들의 지도자 린샬라는 그들의 "
+"이마르 데샹이라는 극작가는 당신을 속여 바스카리 가문의 선량한 상인들을 공격하게끔 했습니다. 불행하게도 그들의 지도자 린샬라는 그들의 "
 "죽음에 대해 여전히 당신을 비난합니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions
@@ -7907,8 +7906,8 @@ msgid ""
 "Irovetti, owing to his pridefulness, and harassment of the young priests and"
 " priestesses, which is an outrage to Calistria."
 msgstr ""
-"러시라이트 토너먼트에서 당신은 칼리스트리아의 고위 사제인 드레이 얀스와 만났습니다. 당신은 그 사제가 이로베티왕에 대한 애정이 없다는 "
-"것을 알아내었습니다. 이로베티왕은 오만하며 젊은 사제와 여사제들을 괴롭혔고 이는 칼리스트리아 여신에게 불경한 것이였기 때문입니다."
+"러시라이트 토너먼트에서 당신은 칼리스트리아의 대사제인 드레이 얀스와 만났습니다. 당신은 그 사제가 이로베티왕에 대한 애정이 없다는 것을 "
+"알아내었습니다. 이로베티왕은 오만하며 젊은 사제와 여사제들을 괴롭혔고 이는 칼리스트리아 여신에게 불경한 것이였기 때문입니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions
 #. 2_Entries.Array.data[90].Description
@@ -9053,7 +9052,7 @@ msgstr "칸 베릴"
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[27].Description
 msgctxt "b2fd3956-e43b-4e77-b248-7ca0b825d9ee"
 msgid "The High Priest of Calistria in Pitax."
-msgstr "피탁스의 칼리스트리아 고위 사제"
+msgstr "피탁스의 칼리스트리아 대사제"
 
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[27].Name
 msgctxt "53092ca1-6434-49b9-847f-d20a1f76104c"
@@ -9118,14 +9117,14 @@ msgstr "러시라이트 토너먼트에서 만난 극작가. 수적 문제의 �
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[31].Name
 msgctxt "f1738007-1d4f-414c-90be-4fcb96de0d29"
 msgid "Eimar Deschamps"
-msgstr "이마르 디샴"
+msgstr "이마르 데샹"
 
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[32].Description
 msgctxt "4d5aa3ca-f727-41bd-a193-1c4fccd6f064"
 msgid ""
 "A guard from Pitax who you met at the Rushlight Tournament, as he was "
 "arguing with playwright Eimar Deschamps."
-msgstr "극작가 이마르 디샴과 논쟁하고 있던 러시라이트 토너먼트에서 만난 피탁스 경비원."
+msgstr "극작가 이마르 데샹과 논쟁하고 있던 러시라이트 토너먼트에서 만난 피탁스 경비원."
 
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[32].Name
 msgctxt "f8671255-c4b1-4ede-a06d-25433043269d"
@@ -21829,7 +21828,7 @@ msgstr "문제에 참석"
 #. Mechanics/Blueprints/Root/UITexts/KingdomEvent_VisitingLeaders_String
 msgctxt "f7d062ac-9cc1-4b31-af36-e255a4c9a78d"
 msgid "Advisors"
-msgstr "조언가"
+msgstr "보좌관"
 
 #. Mechanics/Blueprints/Root/UITexts/KingdomEvent_VisitingThroneRoom_String
 #, fuzzy
@@ -22016,7 +22015,7 @@ msgstr "일시 정지"
 #. Mechanics/Blueprints/Root/UITexts/LeadersNaviLabel_LeadersNaviLabel_String
 msgctxt "365f6ce0-d505-4b20-a39d-682af793ffbe"
 msgid "Advisors"
-msgstr "조언가"
+msgstr "보좌관"
 
 #. Mechanics/Blueprints/Root/UITexts/LoadingScreen_LoadingLabel_String
 msgctxt "8dac7618-5292-4c2a-80be-e64c71bf75b9"
@@ -22049,8 +22048,11 @@ msgid ""
 "A very small percentage of individuals may experience epileptic seizures or blackouts when exposed to certain light patterns or flashing lights. Exposure to certain patterns or backgrounds on a television screen or when playing video games may trigger epileptic seizures or blackouts in these individuals. These conditions may trigger previously undetected epileptic symptoms or seizures in persons who have no history of prior seizures or epilepsy.\n"
 "If you, or anyone in your family, has an epileptic condition or has had seizures of any kind, consult your physician before playing. IMMEDIATELY DISCONTINUE use and consult your physician before resuming play."
 msgstr ""
-"극소수의 개인이 특정 발광 패턴이나 번쩍이는 빛에 노출되었을 때 간질 발작 또는 기절을 경험할 수 있습니다. 텔레비전 화면이나 비디오 게임을 할 때 특정 발광 패턴이나 배경에 노출되면 간질 발작이나 기절이 유발 될 수 있습니다. 이러한 상태는 이전 발작이나 간질의 병력이없는 사람에서 이전에 발견되지 않은 간질 증상이나 발작을 유발할 수 있습니다.\n"
-"귀하 또는 가족 중 누군가가 간질 상태에 있거나 발작을 일으킨 경우, 플레이 하기 전에 의사와 상담하십시오. <b>즉시 플레이를 중단하고<\\b>, 재개하기 전에 의사와 상의하십시오."
+"극소수의 개인이 특정 발광 패턴이나 번쩍이는 빛에 노출되었을 때 간질 발작 또는 기절을 경험할 수 있습니다. 텔레비전 화면이나 비디오 "
+"게임을 할 때 특정 발광 패턴이나 배경에 노출되면 간질 발작이나 기절이 유발될 수 있습니다. 이러한 상태는 이전까지 발작이나 간질의 "
+"병력이 없는 사람에게 간질 증상이나 발작을 유발할 수 있습니다.\n"
+"귀하 또는 가족 중 누군가가 간질 상태에 있거나 발작을 일으킨 경우, 플레이 하기 전에 의사와 상담하십시오. <b>즉시 플레이를 중단하고<"
+"\\b>, 재개하기 전에 의사와 상의하십시오."
 
 #. Mechanics/Blueprints/Root/UITexts/PhotosensitivityWarning_Header_String
 msgctxt "5a27d3c9-dc2f-4c8e-80f6-a8144b50e696"
