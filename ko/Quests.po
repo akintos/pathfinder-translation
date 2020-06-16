@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-15 09:51+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2020-06-16 19:07+0000\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/quests/ko/>\n"
 "Language: ko\n"
@@ -15,7 +15,6 @@ msgstr ""
 "X-Generator: Weblate 3.3\n"
 
 #
-
 #. Mechanics/Blueprints/World/Quests/DoomCounter_String
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/StolenLand/15_DoomCounter_Title
 msgctxt "9aef5802-9bcf-48c3-9c72-9bdb6a26ed72"
@@ -2635,8 +2634,8 @@ msgid ""
 "It's time to move on! The ancient Temple of the Elk awaits us — where we "
 "shall face the source of that ominous fog."
 msgstr ""
-"우린 수사슴 군주의 과거와 그의 잔인한 드루이드 아버지에 대해 알아냈습니다. 우리은 영웅이 보이지 않는 조언자와 대화를 나눈 후, 결정을"
-" 내렸습니다. 이제 앞으로 나아갈 때입니다! 고대 엘크의 신전(Temple of the Elk)이 우릴 기다립니다 - 거기서 우린 이 "
+"우린 수사슴 군주의 과거와 그의 잔인한 드루이드 아버지에 대해 알아냈습니다. 우리은 영웅이 보이지 않는 보좌관과 대화를 나눈 후, 결정을 "
+"내렸습니다. 이제 앞으로 나아갈 때입니다! 고대 엘크의 신전(Temple of the Elk)이 우릴 기다립니다 - 거기서 우린 이 "
 "불길한 안개의 근원을 마주하게 될 것입니다.."
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/StolenLand/08_GoToTempleOfElk_Title
@@ -4558,8 +4557,8 @@ msgid ""
 msgstr ""
 "즐거운 여흥이 어두운 비극으로 탈바꿈했습니다. 모두가 집으로 돌아가려 할 때, 하루종일 배가 아팠던 한 시종이 갑자기 그냥... "
 "폭발해버렸습니다! 괴물 하나가 그의 몸에서 튀어나와 손님들을 공격했습니다. 이말인 즉슨, 우리가 지금까지 마주했던 마법 괴물들이 전부다 "
-"이런 식으로... 오, 상상만 해도 끔찍하네요!  하지만 그럴 가능성도 잘 생각해봐야 합니다 - 그렇지 않으면 이 재앙을 어떻게 막을 수"
-" 있겠습니까? The 남작는 조언자들과 이 상황에 대해 논의해봐야합니다."
+"이런 식으로... 오, 상상만 해도 끔찍하네요!  하지만 그럴 가능성도 잘 생각해봐야 합니다 - 그렇지 않으면 이 재앙을 어떻게 막을 수 "
+"있겠습니까? The 남작는 보좌관들과 이 상황에 대해 논의해봐야합니다."
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/NobleSafari/Objective_0005_Title
 #, fuzzy
@@ -7734,7 +7733,7 @@ msgid ""
 "broken cup. To lift the Lantern King's curse we need to find our allies and "
 "save the crumbling kingdom!"
 msgstr ""
-"{mf|왕|여왕}의 동맹과 조언자, 충실한 종들은 모두 흩어졌고, 대부분이 깨어진 잔에서 나타난 불길한 그림자에게 공격받고 있습니다. "
+"{mf|왕|여왕}의 동맹과 보좌관, 충실한 종들은 모두 흩어졌고, 대부분이 깨어진 잔에서 나타난 불길한 그림자에게 공격받고 있습니다. "
 "렌턴 킹의 저주를 풀기 위해선 동맹들을 찾고 무너지는 왕국을 구해야 합니다!"
 
 #. Mechanics/Blueprints/World/Quests/c71_CursedKing/CursedKing/02_GatherArmies_Title
@@ -11003,7 +11002,7 @@ msgctxt "729866f7-f4ae-43e0-a66e-6e1b4f51553e"
 msgid ""
 "One of the {mf|barony|barony|kingdom|kingdom}'s advisors has to face this "
 "crisis and try to make sense of the situation."
-msgstr "{mf|남작령|남작령|왕국|왕국}의 조언자 중 하나가 이 위기를 맡아서 상황을 정리해야 합니다."
+msgstr "{mf|남작령|남작령|왕국|왕국}의 보좌관 중 하나가 이 위기를 맡아서 상황을 정리해야 합니다."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/ElvenMaleWoodmasterCG/Event_FeyJokesters/Obj01_FindJokesters_Title
 msgctxt "cc89da16-fc50-448f-90a6-cac934fdee74"
@@ -11258,7 +11257,7 @@ msgstr "밈을 치료해라"
 msgctxt "66be731a-1b06-47dc-9db6-a4ac17559d90"
 msgid ""
 "Mim wants to ascend Talon Peak, whatever it takes. We must support her!"
-msgstr "밈은 무슨 수를 써서라도 탈론 봉우리를 등반하길 원합니다. 그녀들 도와줘야 합니다!"
+msgstr "밈은 무슨 수를 써서라도 탈론 봉우리를 등반하길 원합니다. 그녀를 도와줘야 합니다!"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/GnomeFemale_JewelcrafterCN/ThreeWishes/Obj5_LeadToTalonPeak_Title
 msgctxt "8a2d07ae-d6a2-4f3e-a9ec-98901157ceef"
@@ -11292,7 +11291,7 @@ msgctxt "fee24e75-2583-4761-ba55-44783febe579"
 msgid ""
 "I hope the advisors will be able to take care of the new problem that's "
 "facing Varnhold!"
-msgstr "조언자들이 반홀드에서 일어난 새로운 문제를 해결하길 바랍니다."
+msgstr "보좌관들이 반홀드에서 일어난 새로운 문제를 해결하길 바랍니다."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/HalfElfFemaleLeatherworkerLG/Obj1_GoToVarnhold_Description
 msgctxt "d5885a15-d1ce-4db6-ad34-8218ffa18a69"
@@ -12124,7 +12123,7 @@ msgstr ""
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/KingdomAsCompanion/CE_DarkerThanBlack/Addendum_0006_Description
 msgctxt "c16e823c-40a2-40e3-a7da-22d0eaf81920"
 msgid "The advisor got to it — we only have to wait for results!"
-msgstr "조언자가 일에 착수했습니다 - 결과를 기다리기만 하면 됩니다!"
+msgstr "보좌관이 일에 착수했습니다 - 결과를 기다리기만 하면 됩니다!"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/KingdomAsCompanion/CE_DarkerThanBlack/Addendum_0007_Description
 msgctxt "d0edfc89-5e1b-4c82-9af5-b7e410583bd9"
@@ -12387,7 +12386,7 @@ msgid ""
 " safe from the guards."
 msgstr ""
 "약속을 지킬 때가 되었습니다. {mf|남작령|남작령|왕국|왕국}의 경비병들은 이제껏 통치자의 보호속에 있던 그 암살자들을 찾기 위해 "
-"쉼없이 일하고 있습니다! 이제 당신은 조언자 중 한명에게 어려운 임무를 맡겨야합니다: 칼리스트리아의 사냥꾼들의 흔적을 덮어버리고, "
+"쉼없이 일하고 있습니다! 이제 당신은 보좌관 중 한명에게 어려운 임무를 맡겨야합니다: 칼리스트리아의 사냥꾼들의 흔적을 덮어버리고, "
 "경비병으로부터 그들을 안전하게 지키는 임무입니다."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/KingdomAsCompanion/CN_OnTheEdge/ProtectCalistrians_Title
@@ -12765,7 +12764,7 @@ msgctxt "c5648019-142b-47bb-a0f6-e917bcab2d66"
 msgid ""
 "The {mf|baron|baroness|king|queen} trusted {mf|his|her} advisor to handle "
 "the affliction. I hope there will be no victims!"
-msgstr " {mf|남작|여남작|왕|여왕}께서는 조언가에게 이 문제를 믿고 맡겼습니다. 아무런 희생자가 없으면 좋겠네요!"
+msgstr " {mf|남작|여남작|왕|여왕}께서는 보좌관에게 이 문제를 믿고 맡겼습니다. 아무런 희생자가 없으면 좋겠네요!"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/KingdomAsCompanion/N_TippingTheScales/DealWithUndeadInfestation_Description
 msgctxt "2c7dddeb-e8ea-471e-b586-294fe86806d4"
@@ -12819,9 +12818,9 @@ msgid ""
 " where the headquarters of Pathfinders are located. I wonder if their "
 "superiors will respond to reproaches or pretend nothing happened?"
 msgstr ""
-"조언자가 죽은자의 계곡(Valley of the Dead)에서 일어난 언데드들을 제거했습니다만, 이번 재앙에 관한 소문이 - 그리고 몹시"
-" 화난 문체로 써진 편지들도요! - 패스파인더들의 본부가 위치한 압살롬에도 전해졌습니다. 압살롬의 상관들은 이 문제를 무시할까요? 아니면"
-" 별일 없는 척할까요?"
+"보좌관이 죽은자의 계곡(Valley of the Dead)에서 일어난 언데드들을 제거했습니다만, 이번 재앙에 관한 소문이 - 그리고 몹시 "
+"화난 문체로 써진 편지들도요! - 패스파인더들의 본부가 위치한 압살롬에도 전해졌습니다. 압살롬의 상관들은 이 문제를 무시할까요? 아니면 "
+"별일 없는 척할까요?"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/KingdomAsCompanion/N_TippingTheScales/WaitForAbsalomReaction_Title
 msgctxt "16a2d902-5d91-459a-875c-4519a545e72e"
@@ -12860,7 +12859,7 @@ msgstr ""
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/KingdomDevelopmentMain/KDM_01_2Leaders_Title
 msgctxt "fc88e653-3435-4ade-af17-dddd7e7765cd"
 msgid "Appoint an advisor to a public post"
-msgstr "공무 직책에 조언자를 임명하시오"
+msgstr "공무 직책에 보좌관을 임명하시오"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/KingdomDevelopmentMain/KDM_02_1stBuilding_Description
 msgctxt "ac5e032d-119f-49ed-bb23-9e7f74d78aaa"
@@ -12920,7 +12919,7 @@ msgid ""
 "or a bandit raid in another."
 msgstr ""
 "남작령을 다스리는 건 쉬운일이 아닙니다. 특히 정기적으로 새로운 골칫거리가 생겨날때는 말이죠. 다행히도 진정한 통치차에겐 아무리 급하고 "
-"중요한 일-가령 한 마을에서 흉작을 내거나 도적 때가 들이닥치는 일 같은-도 믿고 맡길 수 충성스런 조언자들이 있습니다. "
+"중요한 일-가령 한 마을에서 흉작을 내거나 도적 때가 들이닥치는 일 같은-도 믿고 맡길 수 충성스런 보좌관들이 있습니다. "
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/KingdomDevelopmentMain/KDM_05_10Events_Title
 msgctxt "4c36d3fe-1015-4725-b7d7-c05641d1307c"
@@ -12950,8 +12949,8 @@ msgid ""
 " state affairs will inevitably bear fruit, and on top of that, it will "
 "create new openings for future Leaders!"
 msgstr ""
-"남작령이 강해지고, 통치자가 더 명민해 질수록, {mf|그|그녀}는 매일 매일 더 많은 기회를 누리게 됩니다!  일관되고 꾸준하게 영지의"
-" 문제를 해결하면 분명 그 결실을 보게 될꺼고, 결국 미래의 조언자들을 위한 새로운 영역을 창출할 수 있을 것 입니다.!"
+"남작령이 강해지고, 통치자가 더 명민해 질수록, {mf|그|그녀}는 매일 매일 더 많은 기회를 누리게 됩니다!  일관되고 꾸준하게 영지의 "
+"문제를 해결하면 분명 그 결실을 보게 될꺼고, 결국 미래의 보좌관들을 위한 새로운 영역을 창출할 수 있을 것 입니다.!"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/KingdomDevelopmentMain/KDM_07_UnlockAdvance_Title
 msgctxt "daf2f456-ed6e-45e0-8261-51e13a76238f"
@@ -13088,7 +13087,7 @@ msgid ""
 "the best reputation in all the River Kingdoms!"
 msgstr ""
 "아! {kingdomname} 왕국은 이제 다른 진정한 왕국들과 경쟁할 수 있습니다. 당연히, {mf|왕|여왕}께서 무슨 일을 먼저 "
-"해야하는지 가장 잘 아시겠지만, 제 생각엔, 조언자들에게 과제를 줘서 우리 왕국이 리버 킹덤에서 최고의 명성을 누리게 만들어야 한다고 "
+"해야하는지 가장 잘 아시겠지만, 제 생각엔, 보좌관들에게 과제를 줘서 우리 왕국이 리버 킹덤에서 최고의 명성을 누리게 만들어야 한다고 "
 "생각합니다!"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/KingdomDevelopmentMain/KDM_16_RankUp8_Title
@@ -13256,7 +13255,7 @@ msgstr "재무관 혼자서는 이 땅의 모든 일과 임무를 다 해낼 수
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/TheCouncil/Council_02_5Positions_Title
 msgctxt "c8504b29-cc1e-4f54-badd-62d7d1a32668"
 msgid "Appoint five advisors to public posts"
-msgstr "공적인 자리에 다섯 명의 조언자를 임명하라"
+msgstr "공적인 자리에 다섯 명의 보좌관을 임명하라"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/TheCouncil/Council_03_UnlockNewPosition_Description
 msgctxt "c61c43d2-11c3-424a-a3ec-63bb5bd7a39b"
@@ -13265,7 +13264,7 @@ msgid ""
 "the {mf|baron|baroness|king|queen} can find a few more positions in "
 "{mf|his|her} government... or come up with some!"
 msgstr ""
-"다섯명의 조언자로는 진짜 자문단을 꾸리기에는 모자라다고 생각합니다. 몇개의 직책을 더 찾아 보는 게 좋을 듯 싶네요. 아니면 "
+"다섯명의 보좌관으로는 진짜 자문단을 꾸리기에는 모자라다고 생각합니다. 몇개의 직책을 더 찾아 보는 게 좋을 듯 싶네요. 아니면 "
 "만들어내던지요!"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/TheCouncil/Council_03_UnlockNewPosition_Title
@@ -13280,13 +13279,13 @@ msgid ""
 "our real council! Though, I heard the Andoran government has 350 people's "
 "representatives... But so many members wouldn't even fit in our throne room!"
 msgstr ""
-"열 명의 조언자라! 이제 좀 자문단 같습니다!  우리 자문단에 딱 맞는 숫자입니다! 듣기로는 안도란 정부는 350명의 민중대표로 "
+"열 명의 보좌관이라! 이제 좀 자문단 같습니다!  우리 자문단에 딱 맞는 숫자입니다! 듣기로는 안도란 정부는 350명의 민중대표로 "
 "이뤄져있다고 들었지만... 그렇게 많은 숫자를 들이기엔 우리 알현실이 너무 아담하지요."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/TheCouncil/Council_04_FullHouse_Title
 msgctxt "6920d6b8-d3be-4ebd-8a61-9008e1bd252a"
 msgid "Unlock all ten posts and appoint advisors"
-msgstr "열 개의 모든 직책을 개방하고 조언자를 임명하라"
+msgstr "열 개의 모든 직책을 개방하고 보좌관을 임명하라"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/TheCouncil/TheCouncil_CompletionText
 msgctxt "06394dc0-15ff-4d29-abb7-dd02a2d94ef2"
@@ -13303,7 +13302,7 @@ msgid ""
 "and reliable Leaders. It's time to appoint the right people to our "
 "government positions!"
 msgstr ""
-"그 어떤 나라도,  안도란이나 첼리악스도, 충성스럽고 믿음직한 조언자들없이는 한달도 버티지 못할 것 입니다. 이제 우리의 정부 직책에 "
+"그 어떤 나라도,  안도란이나 첼리악스도, 충성스럽고 믿음직한 보좌관들없이는 한달도 버티지 못할 것 입니다. 이제 우리의 정부 직책에 "
 "적당한 사람을 임명할 때 입니다."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/TheCouncil/TheCouncil_Title
@@ -13347,9 +13346,9 @@ msgid ""
 "{mf|baron|baroness|king|queen} very seriously! But you can't stop now. The "
 "Stolen Lands will show the world what they can do!"
 msgstr ""
-"우리 조언자들이 새 자리에 익숙해지고 있습니다. 백성들의 충성심도 높아지고 있고요. 지금 이 순간에도 {name}은  "
-"{mf|남작|여남작|왕|여왕} 역할을 매우 심각하게 고민하고 있는 것 같습니다. 하지만 이제는 걱정을 덜어도 괜찮을 듯 합니다. 도둑맞은"
-" 땅이 세상에 스스로의 역량을 보이게 하세요."
+"우리 보좌관들이 새 자리에 익숙해지고 있습니다. 백성들의 충성심도 높아지고 있고요. 지금 이 순간에도 {name}은  "
+"{mf|남작|여남작|왕|여왕} 역할을 매우 심각하게 고민하고 있는 것 같습니다. 하지만 이제는 걱정을 덜어도 괜찮을 듯 합니다. 도둑맞은 "
+"땅이 세상에 스스로의 역량을 보이게 하세요."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/TheDevelopment/Dev_03_10RankUps_Title
 msgctxt "c22a6af2-40aa-46b4-a614-d76e1722f1b0"
@@ -13365,7 +13364,7 @@ msgid ""
 "{mf|barony|barony|kingdom|kingdom} from any attacks. We need more Leaders!"
 msgstr ""
 "이제 자문단을 완성 할 때입니다. 주변 국가들은 호시탐탐 우리 땅을 노리고 있습니다! 오직 헌신적인 자문단만이 어떤 공격으로부터라도 "
-"왕국을 지켜낼 수 있습니다. 더 많은 직책과 조언자가 필요합니다"
+"왕국을 지켜낼 수 있습니다. 더 많은 직책과 보좌관이 필요합니다"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/TheDevelopment/Dev_04_Unlock4Advance_Title
 msgctxt "105dac4d-7d49-4feb-9375-96da6cac4167"
@@ -13412,8 +13411,8 @@ msgid ""
 "thinking too highly of themselves or decide to rest on their laurels too "
 "early."
 msgstr ""
-"{mf|남작|여남작|왕|여왕}은 훌륭한 사람들의 손에 맡겨져 있습니다. 현재에 안주하지 않고 자만하지 않는 조언자들의 지도 아래 도둑맞은"
-" 땅은 크나큰 미래를 마주하게 될 것입니다."
+"{mf|남작|여남작|왕|여왕}은 훌륭한 사람들의 손에 맡겨져 있습니다. 현재에 안주하지 않고 자만하지 않는 보좌관들의 지도 아래 도둑맞은 "
+"땅은 크나큰 미래를 마주하게 될 것입니다."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/TheDevelopment/Dev_07_40RankUps_Title
 msgctxt "01132f1e-dfe8-482e-a07d-d0408467c674"
@@ -13430,7 +13429,7 @@ msgid ""
 "have their hands full!"
 msgstr ""
 "이  축복받은 땅의 통치자는 아바다 그 자신이 보살피고 있다는 것을 틀림없다고 생각한 순례자들이 왕국으로 찾아오고 있습니다. 안심하긴 "
-"이릅니다. {mf|남작|여남작|왕|여왕}과 그의 조언자들은 할 일이 아직 많으니까요!"
+"이릅니다. {mf|남작|여남작|왕|여왕}과 그의 보좌관들은 할 일이 아직 많으니까요!"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/TheDevelopment/Dev_08_60RankUps_Title
 msgctxt "e3b26c1d-be6b-4369-aec7-5ffc86ead458"
