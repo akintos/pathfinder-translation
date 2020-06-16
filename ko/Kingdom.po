@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-15 18:04+0000\n"
+"PO-Revision-Date: 2020-06-16 19:07+0000\n"
 "Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
@@ -273,7 +273,7 @@ msgstr ""
 "{mf|남작령|남작령|왕국|왕국}이 붕괴될 위기에 처해 있습니다. 모든 정착지가 공개적으로 {mf|남작|여남작|왕|여왕}을 거역했습니다. "
 "모든 {mf|남작령|남작령|왕국|왕국} 판정에 -4 페널티를 받습니다. 안정도가 더 떨어지면 {mf|남작령|남작령|왕국|왕국}을 "
 "잃어버리고 게임이 끝납니다.\n"
-"불안을 진정시키기 위해 조언자가 다음 계획을 준비했습니다: 고통받는 사람들을 위한 축제, {mf|남작령|남작령|왕국|왕국}을 위한 연설, "
+"불안을 진정시키기 위해 보좌관이 다음 계획을 준비했습니다: 고통받는 사람들을 위한 축제, {mf|남작령|남작령|왕국|왕국}을 위한 연설, "
 "최후의 수단."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_KingdomStautsDesriptions.Array.data[0].Name
@@ -289,7 +289,7 @@ msgid ""
 msgstr ""
 "{mf|남작령|남작령|왕국|왕국}에서 폭동이 일어나고 있습니다. 국민들은 더 이상 당신의 지배권을 인정하지 않습니다. 모든 "
 "{mf|남작령|남작령|왕국|왕국} 판정에 -3 페널티를 받습니다.\n"
-"불안을 진정시키기 위해 조언자가 다음 계획을 준비했습니다: 고통받는 사람들을 위한 축제, {mf|남작령|남작령|왕국|왕국}을 위한 연설."
+"불안을 진정시키기 위해 보좌관이 다음 계획을 준비했습니다: 고통받는 사람들을 위한 축제, {mf|남작령|남작령|왕국|왕국}을 위한 연설."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_KingdomStautsDesriptions.Array.data[1].Name
 msgctxt "34281e07-261b-45ad-b441-e65ec75e6af2"
@@ -304,7 +304,7 @@ msgid ""
 msgstr ""
 "{mf|남작령|남작령|왕국|왕국}의 백성들은 불만에 차서 역모를 꾸미고 있습니다. 모든 {mf|남작령|남작령|왕국|왕국} 판정에 -2 "
 "페널티를 받습니다.\n"
-"불안을 진정시키기 위해 조언자가 다음 계획을 준비했습니다: 고통받는 사람들을 위한 축제."
+"불안을 진정시키기 위해 보좌관이 다음 계획을 준비했습니다: 고통받는 사람들을 위한 축제."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_KingdomStautsDesriptions.Array.data[2].Name
 msgctxt "87a4e455-e72b-47ed-af09-9fcb6e3a5f5f"
@@ -372,7 +372,7 @@ msgid ""
 "The Councilor deals with troubles of the common folk and helps settle land "
 "disputes and agricultural matters. This advisor ensures citizens remain "
 "loyal to the throne."
-msgstr "평의원은 토지분쟁과 농업문제 등 평민들의 일을 다룹니다. 이 조언자는 시민들이 권좌에 계속해서 충성하도록 하는 일을 맡습니다."
+msgstr "평의원은 토지분쟁과 농업문제 등 평민들의 일을 다룹니다. 이 보좌관은 시민들이 권좌에 계속해서 충성하도록 하는 일을 맡습니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_LeaderDescriptions.Array.data[1].Name
 msgctxt "16d95cd2-3d36-4543-84d9-7f1376d48600"
@@ -424,12 +424,12 @@ msgid ""
 "No matter what deity he serves, the High Priest strives to satisfy the "
 "spiritual needs of all citizens in the {mf|barony|barony|kingdom|kingdom}."
 msgstr ""
-"자신이 어떤 신을 섬기든지 고위 사제는 {mf|남작령|남작령|왕국|왕국}에 있는 모든 시민들의 영적인 욕구를 충족시키기 위해 노력합니다."
+"자신이 어떤 신을 섬기든지 대사제는 {mf|남작령|남작령|왕국|왕국}에 있는 모든 시민들의 영적인 욕구를 충족시키기 위해 노력합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_LeaderDescriptions.Array.data[5].Name
 msgctxt "60cefe1b-ff4f-40c5-b8aa-359a7a45213a"
 msgid "High Priest"
-msgstr "고위 사제"
+msgstr "대사제"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_LeaderDescriptions.Array.data[6].Description
 msgctxt "2c45503b-156d-44b6-9a54-eb72079c7a57"
@@ -651,7 +651,7 @@ msgid ""
 "The Divine statistic reflects the {mf|barony|barony|kingdom|kingdom}'s piety"
 " and support of religious works in the region. This statistic is governed by"
 " the High Priest or Priestess."
-msgstr "신성 수치는 {mf|남작령|남작령|왕국|왕국}의 경건함과 종교 활동을 반영합니다. 이 수치는 고위 사제가 담당합니다."
+msgstr "신성 수치는 {mf|남작령|남작령|왕국|왕국}의 경건함과 종교 활동을 반영합니다. 이 수치는 대사제가 담당합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Stats.Array.data[5].Name
 msgctxt "141dd41f-9c41-4a65-b597-9e5679980572"
@@ -667,7 +667,7 @@ msgid ""
 " assign a Magister when the Divine rank reaches IV."
 msgstr ""
 "비전 수치는 {mf|남작령|남작령|왕국|왕국}의 새로운 비전 사용 방법의 개발과 비전 지식의 축적 정도를 나타냅니다. 소규모 남작령의 "
-"경우 고위 사제가 비전 문제를 처리하며 신성 등급이 IV에 달하면 마법학자의 임명을 요청할 것입니다."
+"경우 대사제가 비전 문제를 처리하며 신성 등급이 IV에 달하면 마법학자의 임명을 요청할 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Stats.Array.data[6].Name
 msgctxt "8ee0e2e9-468e-4d79-840d-37ec9b5fc1e8"
@@ -769,19 +769,19 @@ msgctxt "c95c2009-d5b0-479a-bb82-9f0cc3457498"
 msgid ""
 "Choose an advisor to handle this event. Advisors will act according to their"
 " position in government, beliefs, and alignment. Choose wisely!"
-msgstr "이 사건을 다룰 조언가를 고르십시오. 조언가는 직위, 신념, 성향에 따라 행동할 것입니다. 잘 골라야 합니다!"
+msgstr "이 사건을 다룰 보좌관을 고르십시오. 보좌관은 직위, 신념, 성향에 따라 행동할 것입니다. 잘 골라야 합니다!"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.EmptyCompanionHeaderPortrait
 msgctxt "676e989e-f655-47fa-bb8b-4a7a1f1118c7"
 msgid "Choose an advisor for this position"
-msgstr "이 자리에 앉힐 조언가를 고르십시오."
+msgstr "이 자리에 앉힐 보좌관을 고르십시오."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.EmptyCompanionLeaderDescription
 msgctxt "aa87090e-368c-4cf8-b30b-3df374a47dcc"
 msgid ""
 "Choose an advisor to fill this position. Advisors will act according to "
 "their position in government, their beliefs, and their alignment."
-msgstr "이 자리를 채울 조언가를 고르십시오. 조언가는 직위, 신념, 성향에 따라 행동할 것입니다."
+msgstr "이 자리를 채울 보좌관을 고르십시오. 보좌관은 직위, 신념, 성향에 따라 행동할 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomBptTooltipBase
 msgctxt "55fc8804-1cc3-42f9-93b5-61de71cdd0b7"
@@ -1469,7 +1469,7 @@ msgid ""
 " Hall, Trade Shop, Waterfront) is reduced by 10%."
 msgstr ""
 "고정 주민 보너스가 있는 건물(바드 대학, 시청, 법원, 드워프 보루, 곡창, 롱하우스, 사치품 상점, 대저택, 기념비, 귀족 별장, "
-"패스파인더 지부, 아바다르 신전, 마을 회관, 무역 상점, 부둣가)의 비용이 10% 절감됩니다."
+"패스파인더 지부, 아바다르 신전, 마을 회관, 소매 상점, 부둣가)의 비용이 10% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ComRank5-DiscountComBuildings_DisplayName_String
@@ -1529,7 +1529,7 @@ msgid ""
 " Hall, Trade Shop, Waterfront) is reduced by 15%."
 msgstr ""
 "고정 주민 보너스가 있는 건물(바드 대학, 시청, 법원, 드워프 보루, 곡창, 롱하우스, 사치품 상점, 대저택, 기념비, 귀족 별장, "
-"패스파인더 지부, 아바다르 신전, 마을 회관, 무역 상점, 부둣가)의 비용이 15% 절감됩니다."
+"패스파인더 지부, 아바다르 신전, 마을 회관, 소매 상점, 부둣가)의 비용이 15% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ComRank9-DiscountComBuildings_DisplayName_String
@@ -1692,9 +1692,9 @@ msgid ""
 "increase your chance of improving Unrest up to Worried. If Unrest worsens, "
 "then Community is also reduced by 2."
 msgstr ""
-"수석 외교관이 해결하는 모든 상황에 -5 페널티. 고위 사제, 마법대신, 장관이 성공적으로 해결한 모든 상황이 신성, 비전, 첩보에 +"
-"1. 신성, 비전, 첩보의 합이 75를 넘을 때마다 매주 3 BP, 최대 30 BP를 제공하고, 안정도를 우려 수준으로 회복할 확률을 "
-"제공. 안정도가 떨어지면 주민이 2 감소."
+"수석 외교관이 해결하는 모든 상황에 -5 페널티. 대사제, 마법대신, 장관이 성공적으로 해결한 모든 상황이 신성, 비전, 첩보에 +1. "
+"신성, 비전, 첩보의 합이 75를 넘을 때마다 매주 3 BP, 최대 30 BP를 제공하고, 안정도를 우려 수준으로 회복할 확률을 제공. "
+"안정도가 떨어지면 주민이 2 감소."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank10-BlessingofLamashtu_DisplayName
@@ -1764,7 +1764,7 @@ msgid ""
 "College, Festival, Forge, Foundry, Inn, Lumberyard, Luxury Store, Marina, "
 "Mint, Piers, Shop, Tavern, Trade Shop, Waterfront) is reduced by 15%."
 msgstr ""
-"고정 경제 보너스가 있는 건물(주조소, 제련소, 목재소, 선착장, 정박지, 부둣가, 상점, 무역 상점, 사치품 상점, 선술집, 여관, "
+"고정 경제 보너스가 있는 건물(주조소, 제련소, 목재소, 선착장, 정박지, 부둣가, 상점, 소매 상점, 사치품 상점, 선술집, 여관, "
 "안도란 은행, 은행, 축제, 조폐국)의 비용이 15% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
@@ -1977,8 +1977,8 @@ msgid ""
 "plus the bonus from the Arcane stat rank. Transition of Power: Arcane will "
 "end upon reaching Arcane rank III."
 msgstr ""
-"고위 사제가 비전 업무에서 마법대신을 보조합니다. 활성화하면, 사건 해결에 마법대신의 능력치와 비전 지표 등급의 합 대신 10을 "
-"사용합니다. 역량 전환: 비전은 비전 등급이 III에 달하면 종료됩니다."
+"대사제가 비전 업무에서 마법대신을 보조합니다. 활성화하면, 사건 해결에 마법대신의 능력치와 비전 지표 등급의 합 대신 10을 사용합니다. "
+"역량 전환: 비전은 비전 등급이 III에 달하면 종료됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-Ups/HelperArcane_DisplayName
 msgctxt "c2f0bf1a-7fcd-46db-9abd-f6180845189c"
@@ -2058,8 +2058,8 @@ msgid ""
 " Shop, Monument, Park, Swordlords' Academy, Temple of Cayden Cailean, Town "
 "Hall) is reduced by 10%."
 msgstr ""
-"고정 민심 보너스가 있는 건물(약초상의, 알케미스트의 실험실, 바드 대학, 시청, 영구 분수, 이국적인 정원, 마법 상점, 기념물, "
-"공원, 소드로드 아카데미, 케이든 사원, 마을 회관)의 비용이 10% 감소합니다."
+"고정 민심 보너스가 있는 건물(약초상의, 알케미스트의 실험실, 바드 대학, 시청, 마르지 않는 샘, 이국적인 정원, 마법 상점, 기념물, "
+"공원, 소드로드 아카데미, 케이든 케일리엔 신전, 마을 회관)의 비용이 10% 감소합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/LoyRank3-DiscountLoyBuildings_DisplayName_String
@@ -2287,8 +2287,8 @@ msgid ""
 "Jail, Justiciaries' Garrison, Lighthouse, Military Academy, Swordlords' "
 "Academy, Temple of Asmodeus) is reduced by 10%."
 msgstr ""
-"고정 치안 보너스가 있는 건물(성, 저수조, 법원, 드워프 요새, 영구 분수, 요새, 헬나이트 성, 법관투사 주둔지, 등대, 사관학교, "
-"소드로드 아카데미, 아스모데우스 신전)의 비용이 10% 감소합니다."
+"고정 치안 보너스가 있는 건물(성, 저수조, 법원, 드워프 요새, 마르지 않는 샘, 요새, 헬나이트 성, 법관투사 주둔지, 등대, "
+"사관학교, 소드로드 아카데미, 아스모데우스 신전)의 비용이 10% 감소합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/StaRank2-DiscountStaBuildings_DisplayName_String
@@ -2329,8 +2329,8 @@ msgid ""
 "Jail, Justiciaries' Garrison, Lighthouse, Military Academy, Swordlords' "
 "Academy, Temple of Asmodeus) is reduced by 15%."
 msgstr ""
-"고정 치안 보너스가 있는 건물(성, 저수조, 법원, 드워프 요새, 영구 분수, 요새, 헬나이트 성, 법관투사 주둔지, 등대, 사관학교, "
-"소드로드 아카데미, 아스모데우스 신전)의 비용이 15% 감소합니다."
+"고정 치안 보너스가 있는 건물(성, 저수조, 법원, 드워프 요새, 마르지 않는 샘, 요새, 헬나이트 성, 법관투사 주둔지, 등대, "
+"사관학교, 소드로드 아카데미, 아스모데우스 신전)의 비용이 15% 감소합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/StaRank7-MoreDiscountStaBuildings_DisplayName_String
@@ -2442,7 +2442,7 @@ msgctxt "a6adb9c8-235c-4181-bc55-389348ac9621"
 msgid ""
 "All situations that could be resolved by the General or High Priest in this "
 "and any adjacent regions roll 2 checks and pick the best result."
-msgstr "장군이나 고위 사제가 이 지역과 인접 지역에서 상황을 해결할 때 두 번 굴려 더 나은 결과를 사용."
+msgstr "장군이나 대사제가 이 지역과 인접 지역에서 상황을 해결할 때 두 번 굴려 더 나은 결과를 사용."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/RegionUpgrades/GorumHolyPlaceKingdomBuff_DisplayName
 msgctxt "e49390a1-798e-41e5-8abc-dab0d494fdd9"
@@ -2848,7 +2848,7 @@ msgid ""
 "with a Success or Triumph result, the increase in the respective stat is "
 "reduced by 2."
 msgstr ""
-"최근 나라에 발생한 재난의 여파가 가시지 않았습니다. 수입이 턴당 10 BP씩 감소합니다. 조언자가 사건을 성공 또는 대성공으로 해결할 "
+"최근 나라에 발생한 재난의 여파가 가시지 않았습니다. 수입이 턴당 10 BP씩 감소합니다. 보좌관이 사건을 성공 또는 대성공으로 해결할 "
 "때마다, 관련 지표의 상승이 2 만큼 줄어듭니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/Shared_BaronyIsRavagedByTrolls_Description_String
@@ -2859,7 +2859,7 @@ msgid ""
 " a Success or Triumph result, the increase in the respective stat is reduced"
 " by 1."
 msgstr ""
-"최근 나라에 발생한 재난의 여파가 가시지 않았습니다. 수입이 턴당 5 BP씩 감소합니다. 조언자가 사건을 성공 또는 대성공으로 해결할 "
+"최근 나라에 발생한 재난의 여파가 가시지 않았습니다. 수입이 턴당 5 BP씩 감소합니다. 보좌관이 사건을 성공 또는 대성공으로 해결할 "
 "때마다, 관련 지표의 상승이 1 만큼 줄어듭니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/SpiesofHouseLebeda_Description
@@ -2964,7 +2964,7 @@ msgid ""
 "Bank."
 msgstr ""
 "안도란 은행 \"명예와 유산\" 의 주재원을 위한 사무소. 평민들이 고리대 걱정 없이 대출 받을 수 있습니다. 마을 회관에 인접 시 "
-"민심, 경제, 치안에 +1. 은행으로 간주됩니다."
+"민심, 경제, 치안에 +1. 은행으로 취급."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Andoran Bank_Name
 msgctxt "8736eb5e-809c-4bf3-aada-428aea0c2af4"
@@ -3392,7 +3392,7 @@ msgid ""
 "regions. Counts as a Castle."
 msgstr ""
 "멘데브 십자군의 거점으로 새로운 병사를 모집하고 훈련시켜 월드운드의 악마와 대적할 준비를 하는 곳입니다. 점령지 내 언데드와 외차원에 "
-"대한 명중과 피해에 +1의 신성 보너스를 줍니다. 성으로 간주됩니다."
+"대한 명중과 피해에 +1의 신성 보너스를 줍니다. 성으로 취급."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Crusaders Castle_Name
 msgctxt "5d2ea8db-3f81-4ee2-9a2f-cbf7dc788566"
@@ -3420,7 +3420,7 @@ msgctxt "829c0a8b-abf4-4a62-861e-0b5200883149"
 msgid ""
 "Indestructible walls and towers built by dwarves — the best architects on "
 "Golarion. Counts as Reinforced Walls."
-msgstr "골라리온 최고의 건축가인 드워프가 지은 난공불락의 성벽과 탑입니다. 강화벽으로 간주됩니다."
+msgstr "골라리온 최고의 건축가인 드워프가 지은 난공불락의 성벽과 탑입니다. 강화벽으로 취급."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Dwarven Bastion_Name
 msgctxt "93ab5be2-e264-4b80-beb8-def9b4c06b2c"
@@ -3456,7 +3456,7 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/Buildings/Everflowing Spring_Name
 msgctxt "745eb655-183f-4858-ae01-1819764b53d9"
 msgid "Everflowing Spring"
-msgstr "영구 분수"
+msgstr "마르지 않는 샘"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Exotic Garden_Description
 msgctxt "4211466e-2006-4195-bf62-aa81320ccf2b"
@@ -3467,7 +3467,7 @@ msgid ""
 " as a Park."
 msgstr ""
 "고요함과 수많은 이국적인 식물과 화사한 꽃이 있는 아름다운 정원입니다. 마을 회관에 인접한 경우 주민에 +1, 박물관에 인접한 경우 "
-"문화에 +1, 대학에 인접 시 비전에 +2를 줍니다. 공원으로 간주됩니다."
+"문화에 +1, 대학에 인접 시 비전에 +2를 줍니다. 공원으로 취급."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Exotic Garden_Name
 msgctxt "7f0a084e-faef-4d9d-aff1-70a2ea2b557d"
@@ -3482,7 +3482,7 @@ msgid ""
 msgstr ""
 "평민들이 거래도 하고 재미도 보는 곳. 경제를 올려주는 건물이 인접할 때마다 경제에 +1. {mf|남작령|남작령|왕국|왕국}의 성향이 "
 "중립이어야 합니다.\n"
-"영향: 제련소, 주조소, 무역 상점."
+"영향: 제련소, 주조소, 소매 상점."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Fair_Name
 msgctxt "6d77c22c-64fc-441e-a1c1-149112787197"
@@ -3498,7 +3498,7 @@ msgid ""
 "Festival increases that bonus by +1. Counts as a Fair."
 msgstr ""
 "마상 시합을 비롯한 여러 가지 축제들. 용감한 전사들이 솜씨를 겨뤄 관객들을 환호하게 만드는 곳. 경제/문화 보너스를 주는 건물이 인접할 "
-"때마다 경제/문화에 +1 보너스. 장마당으로 간주합니다."
+"때마다 경제/문화에 +1 보너스. 장마당으로 취급."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Festival_Name
 msgctxt "c4bd9248-ea42-4374-a58b-bae6d7ab7e4a"
@@ -3591,7 +3591,7 @@ msgid ""
 msgstr ""
 "군대가 주둔하고, 경비대를 훈련하며, 민병대를 모집하는 큰 건물. 롱하우스에 인접시 +1 치안\n"
 "막사의 영향 건물 계승\n"
-"영향: 은행, 요새, 트롤 거주구."
+"영향: 은행, 요새, 트롤 거주구역."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Garrison_Name
 msgctxt "ae351249-e327-4b82-b33c-665e3bb869e2"
@@ -3610,7 +3610,7 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/Buildings/Goblin Quarters_Name
 msgctxt "2431aaba-73ae-496c-9c1b-8ba6e1108c20"
 msgid "Goblin Quarters"
-msgstr "고블린 거주구"
+msgstr "고블린 거주구역"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Granary_Description
 msgctxt "16f7ae9f-2250-46cf-9ee5-9c99d4a93506"
@@ -3631,7 +3631,7 @@ msgid ""
 "Inherits affected buildings from: Shrine, Temple.\n"
 "Affects: Palace."
 msgstr ""
-"후견신의 위엄을 찬양하는 건축학적 걸작.  기념비에 인접시 신성 +1, 롱하우스에 인접시 민심 +1.\n"
+"수호신의 위엄을 찬양하는 건축학적 걸작.  기념비에 인접시 신성 +1, 롱하우스에 인접시 민심 +1.\n"
 "사당, 신전의 영향 건물 계승.\n"
 "영향: 궁전."
 
@@ -3662,23 +3662,25 @@ msgid ""
 "themselves from their enemies. +1 profane bonus to attack and damage against"
 " chaotic creatures in claimed regions. Counts as a Castle."
 msgstr ""
+"헬나이트가 주둔하며 죄수를 수감하고 적을 방어하는 거점. 점령지 내에서 혼돈 성향의 크리처를 공격할 때 명중과 피해에 +1 불경 보너스. "
+"성으로 취급."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Hellknights Castle_Name
 msgctxt "6d425922-efed-4d27-b597-d351e46f7dfe"
 msgid "Hellknight Castle"
-msgstr ""
+msgstr "헬나이트 성"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Herbalist_Description
 msgctxt "88fb2593-cdf9-4878-8a33-0171421ff64d"
 msgid ""
 "The workshop and home of a gardener, healer, poisoner, and creator of "
 "potions. +1 to Arcane when adjacent to a Shrine."
-msgstr ""
+msgstr "정원사, 치유사, 독 제조가, 물약 제조가의 작업실이자 거처. 사당에 인접시 비전에 +1."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Herbalist_Name
 msgctxt "e1bf066b-c773-461c-afdc-c5684acdd6a1"
 msgid "Herbalist's House"
-msgstr ""
+msgstr "약초상의 집"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Hospital_Description
 msgctxt "a0499257-2c8e-4037-b05b-afb2c3c6597a"
@@ -3687,11 +3689,13 @@ msgid ""
 "resolving situations in this region. Restricted to "
 "{mf|baronies|baronies|kingdoms|kingdoms} with a Good alignment."
 msgstr ""
+"환자를 치료하는 장소. 섭정이나 평의원이 이 지역에서 상황을 해결할 때 +1 보너스. {mf|남작령|남작령|왕국|왕국}이 선 선향이어야 "
+"합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Hospital_Name
 msgctxt "f5079027-7171-4dcb-a1c8-47c94f518e24"
 msgid "Hospital"
-msgstr ""
+msgstr "병원"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Inn_Description
 msgctxt "656f44b6-fd84-4178-a370-548743809494"
@@ -3701,6 +3705,8 @@ msgid ""
 "Hall. +1 to Espionage when adjacent to a Barracks. Inherits affected "
 "buildings from: Tavern."
 msgstr ""
+"방문객들이 밤을 보내는 곳. 롱하우스에 인접시 외교에 +1, 마을회관에 인접시 +2, 시청에 인접시 +3. 막사에 인접시 첩보에 +1. "
+"선술집의 영향 건물 계승."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Inn_Name
 msgctxt "7740ee65-6fcc-4668-b1b5-cc188f086655"
@@ -3712,7 +3718,7 @@ msgctxt "2c42ab5f-91fe-40ed-b9b6-413261b7068d"
 msgid ""
 "King Irovetti's former palace impresses with its pomposity. Counts as a "
 "Palace."
-msgstr "이로베티왕의 전 궁전은 그 화려함으로 감탄을 자아냅니다. 궁전으로 간주됩니다."
+msgstr "이로베티왕의 전 궁전은 그 화려함으로 감탄을 자아냅니다. 궁전으로 취급."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Irovettis Palace_Name
 msgctxt "d3b7b174-4994-4bd3-80c3-5069637662d1"
@@ -3725,7 +3731,7 @@ msgid ""
 "A fortified structure for housing criminals. +1 to Stability when adjacent to a Barracks, and another +1 to Stability when adjacent to a Fort.\n"
 "Affects: Fort."
 msgstr ""
-"범죄자를 수감하시 위해 강화된 구조물입니다. 막사에 인접 할 때 치안에 +1을 받습니다, 요새에 인접한 경우의 치안에 +1을 받습니다.\n"
+"범죄자를 수감하는 요새화된 구조물. 막사에 인접시 치안에 +1, 요새에 인접시 추가로 치안에 +1.\n"
 "영향: 요새."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Jail_Name
@@ -3740,11 +3746,13 @@ msgid ""
 "order and law. +1 to Stability when adjacent to the Longhouse, and another "
 "+1 when adjacent to the Museum or Bank. Counts as a Garrison."
 msgstr ""
+"질서와 법의 수호신 아바다르의 신도들인 법관투사가 주둔하는 주둔지. 롱하우스에 인접시 치안에 +1. 박물관이나 은행에 인접시 치안에 "
+"추가로 +1. 주둔지로 취급."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Justiciaries Garrison_Name
 msgctxt "0b298d50-cfe2-4b53-a253-51811959f88f"
 msgid "Justiciars' Garrison"
-msgstr ""
+msgstr "법관투사 주둔지"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Kobold Quarters_Description
 msgctxt "5bfb0e55-364e-4c99-94d8-9d341c4a1a95"
@@ -3752,11 +3760,13 @@ msgid ""
 "A nasty place with narrow passages and deep shadows — the perfect environment for a kobold. +3 to Espionage when adjacent to a Thieves or Assassins Guild.\n"
 "Affects: Barbarian Arena."
 msgstr ""
+"더럽고 비좁은 길목이 어둡게 그늘진, 코볼트가 살기에 완벽한 장소. 도둑 또는 암살자 조합에 인접시 첩보에 +3.\n"
+"영향: 바바리안 경기장."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Kobold Quarters_Name
 msgctxt "b2bc2e85-7e07-4547-b4e0-550ebe103555"
 msgid "Kobold Quarters"
-msgstr ""
+msgstr "코볼트 거주구역"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Library_Description
 msgctxt "9569e392-8360-4873-82df-d618158e18ce"
@@ -3764,19 +3774,19 @@ msgid ""
 "A large building containing books, often overseen by a sage or scholar. +1 "
 "to Stability when adjacent to a Courthouse, and +1 to Culture when adjacent "
 "to a Printing House."
-msgstr ""
+msgstr "책을 보관하는 큰 건물. 현자나 학자가 종종 관리하곤 합니다. 법원에 인접시 치안에 +1, 인쇄소에 인접시 문화에 +1."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Library_Name
 msgctxt "724aee61-4006-4166-a58e-15a4fa87585d"
 msgid "Library"
-msgstr ""
+msgstr "도서관"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Lighthouse_Description
 msgctxt "30683977-6c96-49f0-9eae-7ccd52ecf360"
 msgid ""
 "A welcome sight for any sailor, and a guiding light for river ships. Can "
 "only be built in a lighthouse slot."
-msgstr ""
+msgstr "모든 뱃사람에게 건네는 환영인사이자, 강물 위의 배를 인도하는 빛. 등대 전용칸에만 지을 수 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Lighthouse_Name
 msgctxt "603f76a4-a487-4bfe-b030-d7a1a119d6e2"
@@ -3789,6 +3799,9 @@ msgid ""
 "Spacious building for holding meetings and discussions.\n"
 "Affects: Artisan Shop, Artisan Studio, Artisan Workshop, Barracks, Citadel, Garrison, Grand Temple, Inn, Justiciars' Garrison, Shrine, Tavern, Temple, Temple of Abadar, Temple of Asmodeus, Temple of Cayden Cailean, and Temple of Gorum."
 msgstr ""
+"회의와 토론을 나누는 넓은 건물.\n"
+"영향: 장인 상점, 장인 작업장, 장인 공방, 막사, 성채, 대사원, 여관, 법관투사 주둔지, 사당, 선술집, 신전, 아바다르 신전, "
+"아스모데우스 신전, 케이든 케일리엔 신전, 고럼 신전."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Longhouse_Name
 msgctxt "51458433-f9eb-4c58-80de-64a43d553686"
@@ -3802,8 +3815,8 @@ msgid ""
 "construction. +1 to Relations when located in a settlement with Piers. A "
 "Sacred Grove cannot be built in a settlement housing a Lumberyard."
 msgstr ""
-"건축을 위해 필요한 사전 통나무, 보드 및 목재 재료를 생산하는 곳입니다. 정착치에 선착장가 있을 경우 관계에 +1을 습니다. 신성한 "
-"숲은 재목 저장소가 있는 정착지에 지어 질 수 없습니다."
+"건축에 쓸 잘라둔 통나무, 판자 및 목재를 생산하는 곳입니다. 정착치에 선착장이 있을 경우 외교에 +1. 신성한 숲은 목재소가 있는 "
+"정착지에 지을 수 없습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Lumberyard_Name
 msgctxt "5b8090ad-c731-4787-852f-876494ab4502"
@@ -3816,11 +3829,13 @@ msgid ""
 "A shop that specializes in expensive wares and luxuries. +1 to Economy when adjacent to a Tavern.\n"
 "Affects: Forge, Foundry, Smithy."
 msgstr ""
+"비싼 옷과 사치품을 전문으로 취급하는 상점. 선술집에 인접시 경제에 +1.\n"
+"영향: 제련소, 주조소, 대장간."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Luxury Shop_Name
 msgctxt "17171abe-a010-4536-9f93-b2c2379012db"
 msgid "Luxury Store"
-msgstr ""
+msgstr "사치품 상점"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Mages Tower_Description
 msgctxt "33e7be4b-f485-4d9e-9787-45642b1e3f73"
@@ -3828,23 +3843,25 @@ msgid ""
 "A place where mages study arcane secrets. +3 to Arcane when built in a separate slot. Also hosts a Teleportation Circle that allows a select clientele to travel the world across a magical teleportation network.\n"
 "Affects: Academy of Magic."
 msgstr ""
+"마법사가 비전의 비밀을 탐구하는 곳. 별도의 칸에 지으면 비전에 +3. 또한 일부 소수의 의뢰인들에게 순간이동 마법진 연결망을 "
+"제공해줍니다."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Mages Tower_Name
 msgctxt "99aea3ec-8e38-49f3-a829-730c9553cdb2"
 msgid "Mage's Tower"
-msgstr ""
+msgstr "마법사의 탑"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Magic Shop_Description
 msgctxt "d018258a-10a5-42b1-adb7-b0f0fb4eb35d"
 msgid ""
 "A shop that specializes in magical items and spells. +1 to Arcane when "
 "adjacent to a Shrine, and +1 to Divine when adjacent to a Sacred Grove."
-msgstr ""
+msgstr "마법 물품과 주문을 전문으로 취급하는 상점. 사당에 인접시 비전에 +1. 신성한 숲에 인접시 신성에 +1."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Magic Shop_Name
 msgctxt "801ee76c-b1fe-419e-be3c-a1029a3910df"
 msgid "Magic Shop"
-msgstr ""
+msgstr "마법 상점"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Magical Academy_Description
 msgctxt "b4037bef-4c91-492e-8a92-5a1d8b854bd4"
@@ -3853,21 +3870,22 @@ msgid ""
 "crafting of enchanted items. +2 to Arcane for each Mage's Tower in your "
 "{mf|barony|barony|kingdom|kingdom}."
 msgstr ""
+"학생들에게 마법, 주문시전, 마법 물품 제작을 가르치는 기관. {mf|남작령|남작령|왕국|왕국}에 있는 마법사의 탑 마다 비전에 +2."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Magical Academy_Name
 msgctxt "61fb1968-b432-48b9-9895-2bfa93209424"
 msgid "Academy of Magic"
-msgstr ""
+msgstr "마법 아카데미"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Mansion_Description
 msgctxt "4efafc68-a440-4376-b781-d0831eb8734f"
 msgid "A huge manor housing a rich family and its servants."
-msgstr ""
+msgstr "부유한 가족과 그 하인들이 거주하는 거대한 저택."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Mansion_Name
 msgctxt "25c48f1f-535f-4939-841d-e5e5f746b3ad"
 msgid "Mansion"
-msgstr ""
+msgstr "대저택"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Marina_Description
 msgctxt "f7a4f965-cef9-4500-84ae-f027dfa6404a"
@@ -3875,11 +3893,13 @@ msgid ""
 "A sturdy harbor, ready for housing any kind of ships.\n"
 "Affects: Lumberyard."
 msgstr ""
+"어떤 배든 댈 수 있는 튼튼한 항구.\n"
+"영향: 목재소."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Marina_Name
 msgctxt "086fccea-8ce6-4778-8665-0c03bad8401a"
 msgid "Marina"
-msgstr ""
+msgstr "정박지"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Military Academy_Description
 msgctxt "dbc5a8e3-d1b1-4a63-8ce7-5fcc5639adf5"
@@ -3889,11 +3909,12 @@ msgid ""
 "Military, Stability and/or Espionage bonus, a Military Academy increases "
 "that bonus by +1."
 msgstr ""
+"군사학을 가르치며 정예병과 고급 장교를 육성하는 기관. 군사나 치안, 첩보를 올려주는 건물에 인접할 때마다 그 지표에 +1 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Military Academy_Name
 msgctxt "f1b863e8-f929-4266-979f-6244cc6e9083"
 msgid "Military Academy"
-msgstr ""
+msgstr "사관학교"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Mint_Description
 msgctxt "4496a409-55c1-4e16-9bb2-a8332ab4ae8f"
@@ -3903,11 +3924,13 @@ msgid ""
 "adjacent to a Castle, and +3 to Divine when adjacent to a Cathedral. 2 BP "
 "per week."
 msgstr ""
+"화폐를 주조하고 도량형을 보관하는 보안 건물. 궁전에 인접시 주민에 +3. 성에 인접시 치안 +3. 대성당에 인접시 신성에 +3. 매주 "
+"2 BP."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Mint_Name
 msgctxt "cf2f73ef-5bc1-4567-94ad-5d49d3f27a13"
 msgid "Mint"
-msgstr ""
+msgstr "조폐국"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Monolith_Description
 msgctxt "59ef3f13-30cb-4045-aa91-29535e194e7d"
@@ -3917,11 +3940,13 @@ msgid ""
 "Restricted to {mf|baronies|baronies|kingdoms|kingdoms} with a Neutral "
 "alignment."
 msgstr ""
+"복잡한 구조를 이루고 있는 고대의 커다란 돌덩이. 드루이드들은 이것을 이용해 별들의 움직임을 추적합니다. 별도의 칸에 지으면 신성에 +"
+"1. {mf|남작령|남작령|왕국|왕국}의 성향이 중립이어야 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Monolith_Name
 msgctxt "cfe9f9ee-b1fa-4fc9-b410-ed8f4cc125f9"
 msgid "Monolith"
-msgstr ""
+msgstr "비석"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Monument_Description
 msgctxt "2cc89114-e81e-4954-9bd6-9fdd9edee6f3"
@@ -3929,11 +3954,13 @@ msgid ""
 "A monument can be a statue of a city founder, a bell tower, a large tomb, or a public art display.\n"
 "Affects: Grand Temple, Shrine, Temple, Temple of Abadar, Temple of Asmodeus, Temple of Cayden Cailean, and Temple of Gorum."
 msgstr ""
+"기념물은 도시 창립자의 동상일수도, 종탑일수도, 큰 무덤일수도, 공공 전시 예술품일수도 있습니다.\n"
+"영향: 대사원, 사당, 신전, 아바다르 신전, 아스모데우스 신전, 케이든 케일리엔 신전, 고룸 신전."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Monument_Name
 msgctxt "2b61be72-5261-465b-9a1f-37e22406e035"
 msgid "Monument"
-msgstr ""
+msgstr "기념물"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Museum_Description
 msgctxt "e59776d1-7ab9-4e0b-80d0-89350dd02e46"
@@ -3941,11 +3968,13 @@ msgid ""
 "A place to display artifacts and art, both modern and historical. +3 to Culture if a Royal Museum has been opened in the {mf|barony|barony|kingdom|kingdom}.\n"
 "Affects: Exotic Garden, Justiciars' Garrison, Park."
 msgstr ""
+"역사적인 것에서 현대적인 것까지 유물과 예술품을 전시하는 곳. 왕립 박물관이 {mf|남작령|남작령|왕국|왕국}에 있으면 문화에 +3.\n"
+"영향: 이국적인 정원, 법관투사 주둔지. 공원."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Museum_Name
 msgctxt "9847601d-aa97-4847-acca-12c02a98353a"
 msgid "Museum"
-msgstr ""
+msgstr "박물관"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Nethys Academy_Description
 msgctxt "e4cb539d-f536-4e93-b6c7-0a4fa6b6287b"
@@ -3955,35 +3984,37 @@ msgid ""
 "adjacent building that already provides an Military and/or Arcane bonus, "
 "Nethys' Academy increases that bonus by +2. Counts as an Academy of Magic."
 msgstr ""
+"마법의 신 네서스의 신도들이 세운 학교. 아주 낯설고 흔치 않은 마법적 기술들은 연구합니다. 군사나 비전을 올려주는 건물이 인접할 때마다 "
+"그 지표에 +2 보너스. 마법 아카데미로 취급."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Nethys Academy_Name
 msgctxt "ab6c228b-3c7e-4e54-a096-6bf862a8dcc5"
 msgid "Nethys' Academy"
-msgstr ""
+msgstr "네서스 아카데미"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Nethys Library_Description
 msgctxt "50f93847-497a-470e-a2c5-488acefac9eb"
 msgid ""
 "A repository for occult knowledge, dedicated to the god of magic. +1 to "
 "Divine when adjacent to a Shrine. Counts as a Library."
-msgstr ""
+msgstr "마법의 신에게 바치는 불가사의한 지식의 보고. 사당에 인접시 신성에 +1. 도서관으로 취급."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Nethys Library_Name
 msgctxt "72be6d32-21c5-4409-9c83-47201648d483"
 msgid "Nethys' Library"
-msgstr ""
+msgstr "네서스 도서관"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Nobles Villa_Description
 msgctxt "f9575af2-47e0-48cf-b9d1-a74cdfa04773"
 msgid ""
 "A sprawling manor with luxurious grounds that houses a noble family. Can "
 "only be built in a separate slot."
-msgstr ""
+msgstr "귀족 가문이 거주하는 호화스러운 마당이 딸린 광대한 저택. 별도의 칸에만 지을 수 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Nobles Villa_Name
 msgctxt "27d3cb35-4c4f-46ec-9c94-236b1a6218ee"
 msgid "Noble Villa"
-msgstr ""
+msgstr "귀족 저택"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Old Vordakais Tower_Description
 msgctxt "b0630ad9-2bb1-4f2e-8f3e-c9ca35f1acda"
@@ -3993,11 +4024,13 @@ msgid ""
 " separate slot. Also hosts a Teleportation Circle that allows a select "
 "clientele to travel the world across a magical teleportation network."
 msgstr ""
+"끔찍한 악명을 가진 마법사의 거처이자 연구실. 마법사의 탑으로 취급. 별도의 칸에 지으면 주민과 민심에 주는 페널티가 사라집니다. 또한 "
+"일부 소수의 의뢰인들에게 순간이동 마법진 연결망을 제공해줍니다."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Old Vordakais Tower_Name
 msgctxt "1a1c95b2-ce6b-4f98-8202-f12da0de477a"
 msgid "Vordakai's Tower"
-msgstr ""
+msgstr "보다카이의 탑"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Orphanage_Description
 msgctxt "c0e531ef-00f8-4cc9-9586-a3d015a23ccb"
@@ -4006,11 +4039,12 @@ msgid ""
 "soup. Restricted to {mf|baronies|baronies|kingdoms|kingdoms} with a Good "
 "alignment."
 msgstr ""
+"고아와 노숙자들에게 따뜻한 잠자리와 수프 한 그릇을 제공하는 보금자리. {mf|남작령|남작령|왕국|왕국}이 선 성향이어야 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Orphanage_Name
 msgctxt "893949c1-0100-4500-ba34-ea2d1cd5cbe4"
 msgid "Orphanage"
-msgstr ""
+msgstr "고아원"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Palace_Description
 msgctxt "63d24a4b-2b0a-46c4-abc2-a2c61aaf518f"
@@ -4018,11 +4052,14 @@ msgid ""
 "A grand edifice and its surrounding grounds, demonstrating wealth, power, and authority to the whole world. +3 to Community and +1 to Relations when adjacent to City Hall; +3 to Community and +1 to Divine when adjacent to a Grand Temple or Cathedral; +3 Community and +1 Loyalty when adjacent to a Park or Sacred Grove; +3 to Community and +1 to Military when adjacent to a Citadel or Castle.\n"
 "Affects: Cathedral, Mint."
 msgstr ""
+"전 세계에 부와 권력과 권위를 과시하는 웅장한 건물과 부지. 시청에 인접시 +3 주민 및 +1 외교; 대사원이나 대성당에 인접시 +3 "
+"주민 및 +1 신성; 공원이나 신성한 숲에 인접시 +3 주민 및 +1 민심; 성채나 성에 인접시 +3 주민 및 +1 군사.\n"
+"영향: 대성당, 조폐국."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Palace_Name
 msgctxt "d0068442-88c9-4a0d-bc07-cff2553088ab"
 msgid "Palace"
-msgstr ""
+msgstr "궁전"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Park_Description
 msgctxt "587a465e-6e18-4204-b08e-b9aae12b560e"
@@ -4030,11 +4067,14 @@ msgid ""
 "A plot of land left untouched for its natural beauty. +1 to Community when adjacent to the Town Hall, +1 to Divine when adjacent to a Temple, and +1 to Culture when adjacent to a Museum.\n"
 "Affects: Cistern, Everflowing Spring, Palace."
 msgstr ""
+"자연의 아름다움을 즐기기 위해 개발하지 않고 남겨둔 부지. 마을 회관에 인접시 주민에 +1, 신전에 인접시 신성에 +1, 박물관에 인접시 "
+"문화에 +1.\n"
+"영향: 저수조, 마르지 않는 샘, 궁전."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Park_Name
 msgctxt "ef6616ca-91ca-458a-887d-3c0e88c672e5"
 msgid "Park"
-msgstr ""
+msgstr "공원"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Pathfinder Lodge_Description
 msgctxt "65832d35-b9ab-43db-9fe0-643afc3cb17b"
@@ -4043,35 +4083,37 @@ msgid ""
 "between adventures and recruits can sign on with the Society. +3 Insight "
 "bonus to all Knowledge and Lore checks in claimed regions."
 msgstr ""
+"그 유명한 패스파인더 협회의 사옥. 고참 패스파인더들이 모험 전후로 들르는 쉼터이자 신입 회원을 채용하는 곳이기도 합니다. 점령지 내의 "
+"모든 지식 및 전승 판정에 +3 통찰 보너스."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Pathfinder Lodge_Name
 msgctxt "7eeb70d2-cb98-4ed2-aba4-9e33e522e6e9"
 msgid "Pathfinder Lodge"
-msgstr ""
+msgstr "패스파인더 지부"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Pier_Description
 msgctxt "89bb2b9c-c91a-4585-8ccb-cc5f5717945c"
 msgid ""
 "Warehouses and workshops for docking ships and handling cargo and passengers. Can only be build in a water slot.\n"
 "Affects: Lumberyard."
-msgstr ""
+msgstr "배가 정박하여 화물과 승객을 싣고 내리고, 주변에는 창고와 작업장이 늘어서 있습니다. 물 칸에만 지을 수 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Pier_Name
 msgctxt "396b3fb5-dc1a-40ef-b0bd-6dd1c3f8f24a"
 msgid "Piers"
-msgstr ""
+msgstr "선착장"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Pitax Bardic College_Description
 msgctxt "3caa4bf9-8cdf-4157-b600-5db6f777e167"
 msgid ""
 "A place where bards study the art of praising their ruler and blaming the "
 "ruler's enemies. Counts as a Bard College."
-msgstr ""
+msgstr "바드가 통치자를 찬양하고 적을 비난하는 기술을 배우는 곳입니다. 바드 대학으로 취급."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Pitax Bardic College_Name
 msgctxt "93a3e2ca-fd82-4f17-a957-394c3b3f8937"
 msgid "Pitax Bard College"
-msgstr ""
+msgstr "피탁스 바드 대학"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Printing House_Description
 msgctxt "22574b7b-8d0c-43fe-828f-5ab997032a31"
@@ -4079,6 +4121,11 @@ msgid ""
 "A printing press can create literature at a speed no scribe can match. +4 to Stability while the {mf|barony's|barony's|kingdom's|kingdom's} alignment is Lawful; +4 to Loyalty while the {mf|barony's|barony's|kingdom's|kingdom's} alignment is Chaotic; +4 to Community while the {mf|barony's|barony's|kingdom's|kingdom's} alignment is Good; +4 to Military while the {mf|barony's|barony's|kingdom's|kingdom's} alignment is Evil; and +2 to Economy and Culture while the {mf|barony's|barony's|kingdom's|kingdom's} alignment is in any way Neutral – +4 to both if it is true Neutral.\n"
 "Affects: Library."
 msgstr ""
+"어떤 필사가라도 인쇄기보다 빠르게 글을 쓸 순 없습니다. {mf|남작령|남작령|왕국|왕국}의 성향이 질서면 치안에 +4; "
+"{mf|남작령|남작령|왕국|왕국}의 성향이 혼돈이면 민심에 +4; {mf|남작령|남작령|왕국|왕국}의 성향이 선이면 주민에 +4; "
+"{mf|남작령|남작령|왕국|왕국}의 성향이 악이면 군사에 +4; {mf|남작령|남작령|왕국|왕국}의 성향이 어느 쪽이든 중립이면 경제 및 "
+"문화에 +2, 완전 중립이면 +4.\n"
+"영향: 도서관."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Printing House_Name
 msgctxt "15ed7d62-776b-41f6-99ef-5fbaa8435adb"
@@ -4091,8 +4138,7 @@ msgid ""
 "The best fortifications that a wealthy city can afford. +1 to Stability when located in a settlement with a Barracks.\n"
 "Affects: Castle, Watchtower."
 msgstr ""
-"부유한 도시가 보유할 수 있는 최상의 요새입니다. 막사와 인접하여 건설되는 경우 +1의 안정성을 얻습니다.\n"
-"\n"
+"부유한 도시가 보유할 수 있는 최상의 요새입니다. 정착지에 막사가 있으면 치안에 +1.\n"
 "영향: 성, 감시탑."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Reinforced Wall_Name
@@ -4106,7 +4152,7 @@ msgid ""
 "An impressive collection of art and relics, which silently tell the history of these lands. +3 to Culture for each of the Storyteller's completed collections.\n"
 "Affects: Exotic Garden, Museum."
 msgstr ""
-"이 땅의 역사를 묵묵히 말하고 있는 일련의 미술품과 유물들과 같은 인상적인 수집품. 스토리텔러(Storyteller)의 완성된 수집품 항목마다 문화에 +3 . \n"
+"이 땅의 역사를 소리없이 말해주는 인상적인 유물과 예술품들. 이야기꾼이 수집을 완료한 수집품 모음 마다 문화에 +3.\n"
 "영향: 이국적인 정원, 박물관."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Royal Museum_Name
@@ -4120,44 +4166,47 @@ msgid ""
 "A bastion of the old druidic religions, often centered around runic megaliths and stone circles. +2 to Divine when adjacent to a Monolith. Cannot be built in a settlement housing a Lumberyard.\n"
 "Affects: Magic Shop, Palace."
 msgstr ""
+"옛 드루이드 종교의 보루. 종종 환상 열석이나 룬이 새겨진 거석이 있기도 합니다. 비석에 인접시 신성에 +2. 목재소가 있는 정착지에 "
+"지을 수 없습니다.\n"
+"영향: 마법 상점. 궁전."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Sacred Grove_Name
 msgctxt "4200fb3c-dd1a-4a52-8b18-38a602698119"
 msgid "Sacred Grove"
-msgstr ""
+msgstr "신성한 숲"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/School_Description
 msgctxt "f138fbb9-defa-4efa-8638-f001c1df05cd"
 msgid ""
 "A place where the local children learn to read and write. +1 to Divine when "
 "adjacent to a Shrine. +1 to Military when adjacent to a Barracks."
-msgstr ""
+msgstr "현지 아이들에게 읽고 쓰는 법을 가르치는 장소. 사당에 인접시 신성에 +1. 막사에 인접시 군사에 +1."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/School_Name
 msgctxt "c5808647-32ae-4a38-bc39-f9c05e7c7152"
 msgid "School"
-msgstr ""
+msgstr "학교"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Shared_ArtisanShop_Description_String
 msgctxt "08b1ad0e-0d3e-47c8-8f12-d851bebf4153"
 msgid ""
 "The humble shop of a local artisan. +1 to Economy when adjacent to a Tavern "
 "or Longhouse."
-msgstr ""
+msgstr "지역 장인의 소박한 상점. 선술집이나 롱하우스에 인접시 경제에 +1."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Shared_ArtisanStudio_Description_String
 msgctxt "a3ada964-e6df-4f80-8172-266ddb4cab87"
 msgid ""
 "The sophisticated studio of a local artisan. +1 to Economy when adjacent to "
 "a Tavern or Longhouse."
-msgstr ""
+msgstr "지역 장인의 세련된 작업장. 선술집이나 롱하우스에 인접시 경제에 +1."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Shared_ArtisanWorkshop_Description_String
 msgctxt "442a24a9-4684-4252-98df-730339b6aa27"
 msgid ""
 "The fully-equipped workshop of a local artisan. +1 to Economy when adjacent "
 "to a Tavern or Longhouse."
-msgstr ""
+msgstr "모든 장비를 갖춘 지역 장인의 공방. 선술집이나 롱하우스에 인접시 경제에 +1."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Shop_Description
 msgctxt "8b437fce-31dc-430a-b875-447dce48d282"
@@ -4165,11 +4214,13 @@ msgid ""
 "A general store. +1 to Economy when adjacent to a Tavern.\n"
 "Affects: Forge, Foundry, Smithy."
 msgstr ""
+"일반정 인상점. 선술집에 인접시 경제에 +1.\n"
+"영향: 제련소, 주조소, 대장간."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Shop_Name
 msgctxt "c436bf14-6d16-4b01-b0fb-1f4f7bce382d"
 msgid "Shop"
-msgstr ""
+msgstr "상점"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Shrine_Description
 msgctxt "6cf8d4da-c6c2-4b02-b9b4-c0896b71252e"
@@ -4177,11 +4228,13 @@ msgid ""
 "A small shrine or similar holy site. +1 to Divine when adjacent to a Monument, and +1 to Loyalty when adjacent to a Longhouse.\n"
 "Affects: Alchemist Laboratory, Herbalist's House, Magic Shop, Nethys' Library, School."
 msgstr ""
+"작은 사당 또는 성소. 기념물에 인접시 신성에 +1. 롱하우스에 인접시 민심에 +1.\n"
+"영향: 알케미스트 실험실, 약초상의 집, 마법 상점, 네서스 도서관, 학교."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Shrine_Name
 msgctxt "cacbf172-2884-4207-a2db-30838747b30f"
 msgid "Shrine"
-msgstr ""
+msgstr "사당"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Smithy_Description
 msgctxt "7741b77c-1213-488f-bde1-bda0de0506e3"
@@ -4189,12 +4242,12 @@ msgid ""
 "A workshop for crafting all kinds of metal products, from the sword of a "
 "noble knights to the nail of a humble carpenter. +1 to Economy when adjacent"
 " to a Shop."
-msgstr ""
+msgstr "고귀한 기사의 칼에서부터 보잘것 없는 목수의 못까지 모든 종류의 금속 제품을 만드는 작업장. 상점에 인접시 경제에 +1."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Smithy_Name
 msgctxt "c36d30ff-af08-41f0-bf64-5bb1edd09f4e"
 msgid "Smithy"
-msgstr ""
+msgstr "대장간"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Stocks_Description
 msgctxt "e37676fc-53ec-4bc8-b093-4e96e0965d51"
@@ -4204,11 +4257,13 @@ msgid ""
 "region. Restricted to {mf|baronies|baronies|kingdoms|kingdoms} with an Evil "
 "alignment."
 msgstr ""
+"지역 범죄자들을 가두고 주민들이 보고 조롱할 수 있게 만들어둔 목재 구조물. 이 지역의 문제를 해결할 때 +1 보너스. "
+"{mf|남작령|남작령|왕국|왕국}의 성향이 악이여야 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Stocks_Name
 msgctxt "a31e6c1f-6239-4b66-8a50-aeb65e9d226c"
 msgid "Stocks"
-msgstr ""
+msgstr "죄수 전시대"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Stone Wall_Description
 msgctxt "eacec36a-f466-4f27-9abc-54c3c51a1701"
@@ -4216,11 +4271,13 @@ msgid ""
 "A stone wall provides better protection than a Wooden one. +1 to Stability when located in a settlement with a Barracks.\n"
 "Affects: Watchtower."
 msgstr ""
+"돌벽은 나무벽보다 더 나은 방어를 제공합니다. 막사가 있는 정착지에 치안 +1.\n"
+"영향: 감시탑."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Stone Wall_Name
 msgctxt "2c7f4efb-f7c1-45a2-854b-72af7d2bcf26"
 msgid "Stone Wall"
-msgstr ""
+msgstr "돌벽"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Swordlord Academy_Description
 msgctxt "397fdd28-78cb-4b88-a03b-d92c9a5c7320"
@@ -4230,11 +4287,13 @@ msgid ""
 "and/or Loyalty bonus, a Swordlord Academy increases that bonus by +1. Counts"
 " as a Military Academy."
 msgstr ""
+"그 유명한 알도리 소드로드가 새로운 전사를 훈련하는 거점. 군사나 치안, 민심을 올려주는 건물이 인접할 때마다 그 지표에 +1 보너스. "
+"사관학교로 취급."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Swordlord Academy_Name
 msgctxt "72e267aa-c072-4662-8f86-a876b2074c64"
 msgid "Swordlord Academy"
-msgstr ""
+msgstr "소드로드 아카데미"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Tannery_Description
 msgctxt "d160fa41-3f93-434a-b131-8a8373e4d4d9"
@@ -4243,11 +4302,13 @@ msgid ""
 "Tannery in a settlement, the additional ones give a -1 penalty to Community "
 "and Loyalty. Can only be built in a separate slot."
 msgstr ""
+"피혁을 전문적으로 다루는 곳. 주당 1 BP. 정착지에 제혁소가 두 개 이상이면 주민과 민심에 제혁소 당 -1 페널티 추가. 별도의 "
+"칸에만 지을 수 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Tannery_Name
 msgctxt "ae8523d2-7444-454d-88a5-c548e02645f8"
 msgid "Tannery"
-msgstr ""
+msgstr "제혁소"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Tavern_Description
 msgctxt "a849d582-78d1-4dce-bf04-b1e79896bcd5"
@@ -4255,23 +4316,25 @@ msgid ""
 "A place for eating, drinking and asking the host about the local rumors. +1 to Relations when adjacent to a Longhouse. +1 to Espionage when adjacent to a Barracks.\n"
 "Affects: Artisan Shop, Artisan Studio, Artisan Workshop, Brewery, Luxury Store, Shop, Trade Shop."
 msgstr ""
+"먹고 마시며 주인과 현지 소문을 주고 받는 장소. 롱하우스에 인접시 외교에 +1. 막사에 인접시 첩보에 +1.\n"
+"영향: 장인 상점, 장인 작업장, 장인 공방, 양조장, 사치품 상점, 상점, 소매 상점."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Tavern_Name
 msgctxt "b619fc35-1790-49fc-87e1-35c7079a9ccc"
 msgid "Tavern"
-msgstr ""
+msgstr "선술집"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Teleportation Circle_Description
 msgctxt "d40e06e9-a7c6-46c0-a767-67211b07c90f"
 msgid ""
 "This arcane hub allows a select clientele to travel the world across a "
 "magical teleportation network."
-msgstr ""
+msgstr "일부 의뢰인만 쓸 수 있는 마법적 순간이동 연결망의 비전 단말장치."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Teleportation Circle_Name
 msgctxt "a652fcf7-a968-41b3-8d84-96cd7bd928b4"
 msgid "Teleportation Circle"
-msgstr ""
+msgstr "순간이동 마법진"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Temple of Abadar_Description
 msgctxt "0027915f-1107-4b07-af24-21da021ff1a0"
@@ -4281,11 +4344,13 @@ msgid ""
 "Monument, and +1 to Community when adjacent to a Longhouse. Counts as a "
 "Temple."
 msgstr ""
+"아바다르의 성직자는 교인들에게 당국의 지시에 복종하고, 사회적 질서와 규범을 숭상하라고 가르칩니다. 기념물에 인접시 신성에 +1, "
+"롱하우스에 인접시 주민에 +1. 신전으로 취급."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Temple of Abadar_Name
 msgctxt "56c36ae8-07b3-4b67-adcc-9ae870f0ae1c"
 msgid "Temple of Abadar"
-msgstr ""
+msgstr "아바다르 신전"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Temple of Asmodeus_Description
 msgctxt "51ef814f-d716-4e53-b322-baea5209c080"
@@ -4295,11 +4360,13 @@ msgid ""
 "Monument, and +1 to Stability when adjacent to a Longhouse. Counts as a "
 "Temple."
 msgstr ""
+"아스모데우스의 성직자는 교인들에게 권위와 질서에 복종하되, 언제나 법을 최대한 활용하라 가르칩니다. 기념물에 인접시 신성에 +1, "
+"롱하우스에 인접시 치안에 +1. 신전으로 취급."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Temple of Asmodeus_Name
 msgctxt "60642e51-d950-41c4-9f2e-c9deef9bf132"
 msgid "Temple of Asmodeus"
-msgstr ""
+msgstr "아스모데우스 신전"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Temple of Caiden_Description
 msgctxt "4bfb24a2-4aa7-4155-b5f7-ef996a077921"
@@ -4308,11 +4375,13 @@ msgid ""
 " be mistaken for a tavern. +1 to Divine when adjacent to a Monument, and +1 "
 "to Loyalty when adjacent to a Longhouse. Counts as a Temple."
 msgstr ""
+"용기와 자유와 술의 신에게 봉헌된 신전. 선술집으로 착각하기 쉽습니다. 기념물에 인접시 신성에 +1. 롱하우스에 인접시 민심에 +1. "
+"신전으로 취급."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Temple of Caiden_Name
 msgctxt "8b69933c-c4c4-4da7-85b5-b8381d943c87"
 msgid "Temple of Cayden Cailean"
-msgstr ""
+msgstr "케이든 케일리엔 신전"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Temple of Gorum_Description
 msgctxt "06fc46b3-f0a3-42e6-8038-2c1b2e98ccf5"
@@ -4320,12 +4389,12 @@ msgid ""
 "A temple of the god of battle, who considers war cries the greatest prayer. "
 "+1 to Divine when adjacent to a Monument, and +1 to Military when adjacent "
 "to a Longhouse. Counts as a Temple."
-msgstr ""
+msgstr "전쟁이 최상의 기도라 여기는 전신의 신전. 기념물에 인접시 신성에 +1. 롱하우스에 인접시 군사에 +1. 신전으로 취급."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Temple of Gorum_Name
 msgctxt "296a7f28-fe8b-4c0c-9b44-a473ce40fbcd"
 msgid "Temple of Gorum"
-msgstr ""
+msgstr "고룸 신전"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Temple_Description
 msgctxt "549d0223-d53b-4c0c-a259-c23514886719"
@@ -4334,23 +4403,26 @@ msgid ""
 "Inherits affected buildings from: Shrine.\n"
 "Affects: Everflowing Spring, Park."
 msgstr ""
+"신에게 바쳐진 커다란 숭배의 공간. 기념물에 인접시 신성에 +1. 롱하우스에 인접시 민심에 +1.\n"
+"사당의 영향 건물 계승.\n"
+"영향: 마르지 않는 샘, 공원."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Temple_Name
 msgctxt "9ca9ac47-7827-43f5-8729-ef669a70f1a7"
 msgid "Temple"
-msgstr ""
+msgstr "신전"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Theater_Description
 msgctxt "2a51b346-6712-4ba7-b369-499042409979"
 msgid ""
 "A venue for providing entertainment such as plays, operas and concerts. "
 "Increases Culture by 1 for each adjacent building that increases Culture."
-msgstr ""
+msgstr "연극, 오페라, 공연 등 즐길 거리를 제공하는 장소. 문화를 올려주는 건물에 인접시 문화에 +1."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Theater_Name
 msgctxt "a2f9c2cf-e6d3-47e3-8dda-4ba8e1e8902e"
 msgid "Theater"
-msgstr ""
+msgstr "극장"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Thieves Guild_Description
 msgctxt "90b613bc-d530-4dd2-8592-28c8bdd6e4ca"
@@ -4360,11 +4432,16 @@ msgid ""
 "Restricted to {mf|baronies|baronies|kingdoms|kingdoms} with a with a Neutral, Chaotic Neutral, Neutral Evil or Chaotic Evil alignment.\n"
 "Affects: Kobold's Quarters."
 msgstr ""
+"도둑을 육성하고 조직화하며 경비대로부터 숨겨주는 범죄 연합. 감시관이 이 지역의 상황을 처리할 때마다 민심에 -1. 주민 등급을 올릴때 "
+"평민보다 도적의 편을 들었다면 섭정이 이 지역의 상황을 처리할 때 민심에 +1. 평민의 편을 들었다면 민심에 -1.\n"
+"30일 마다 경제에 -1, 도적의 편을 들었다면 25 BP 제공.\n"
+"{mf|남작령|남작령|왕국|왕국}의 성향이 중립이거나 혼돈 중립, 중립 악, 혼돈 악이어야 합니다.\n"
+"영향: 코볼트 거주구역."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Thieves Guild_Name
 msgctxt "dad57001-3295-41fb-ae52-bcd421b377b1"
 msgid "Thieves Guild"
-msgstr ""
+msgstr "도둑 조합"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Town Hall_Description
 msgctxt "93fca83d-403c-4528-b527-121edbcc1af4"
@@ -4373,11 +4450,14 @@ msgid ""
 "Inherits affected buildings from: Longhouse.\n"
 "Affects: Andoran Bank, Exotic Garden, Inn, Park."
 msgstr ""
+"공공 회의소이자 마을 기록 보관소.\n"
+"롱하우스의 영향 건물 계승.\n"
+"영향: 안도란 은행, 이국적인 정원, 여관, 공원."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Town Hall_Name
 msgctxt "c81907ae-d4db-4575-baf0-56cf6d5a401d"
 msgid "Town Hall"
-msgstr ""
+msgstr "마을 회관"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Trade Shop_Description
 msgctxt "55597c8e-354b-4ee0-bb56-7279ca937693"
@@ -4385,11 +4465,13 @@ msgid ""
 "A shop for a tradesman, such as a baker, butcher, candle maker, cooper, or rope maker. +1 to Economy when adjacent to a Tavern, and an additional +1 to Economy when adjacent to a Fair.\n"
 "Affects: Forge, Foundry, Smithy."
 msgstr ""
+"제빵사, 백정, 초장이, 통장이, 밧줄장이 등 소매상을 위한 상점. 선술집에 인접시 경제에 +1, 장마당에 인접시 추가로 경제에 +1.\n"
+"영향: 제련소, 주조소, 대장간."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Trade Shop_Name
 msgctxt "90db1f44-00f5-4096-9e6d-555eca1a6486"
 msgid "Trade Shop"
-msgstr ""
+msgstr "소매 상점"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Troll Quarters_Description
 msgctxt "15cc72fa-4dde-4a48-b6b4-99cb006cfebe"
@@ -4397,11 +4479,13 @@ msgid ""
 "A common quarter of the town turned into a dirty troll lair. +3 to Military when adjacent to a Garrison.\n"
 "Affects: Barbarian Arena"
 msgstr ""
+"더러운 트롤 소굴이 돼버리고만 마을의 거주구역역. 주둔지에 인접시 군사에 +3.\n"
+"영향: 바바리안 경기장"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Troll Quarters_Name
 msgctxt "8ed3ed65-f0c0-4dcd-84b1-411c2349760f"
 msgid "Troll Quarters"
-msgstr ""
+msgstr "트롤 거주구역역"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Univercity_Description
 msgctxt "d971692b-4a16-46e7-9659-6bdc4ea4abd4"
@@ -4409,23 +4493,26 @@ msgid ""
 "An institution of higher learning, focusing mainly on mundane subjects but dabbling in magic theory as well. +2 to Relations if the {mf|barony's|barony's|kingdom's|kingdom's} alignment is Chaotic; +2 to Economy if the {mf|barony's|barony's|kingdom's|kingdom's} alignment is Neutral; or +2 to Espionage if the {mf|barony's|barony's|kingdom's|kingdom's} alignment is Lawful. Can only be built in a settlement with a Library.\n"
 "Affects: Exotic Garden."
 msgstr ""
+"주로 평범한 과목을 가르치지만, 마법 이론도 훑기는 하는 고등 교육기관. {mf|남작령|남작령|왕국|왕국}이 혼돈 성향이면 외교에 +2; "
+"{mf|남작령|남작령|왕국|왕국}이 중립이면 경제에 +2; {mf|남작령|남작령|왕국|왕국}이 질서면 첩보에 +2. 도서관이 있는 "
+"정작치에만 지을 수 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Univercity_Name
 msgctxt "2427b614-77c2-4e6c-8306-9c0595b8692a"
 msgid "University"
-msgstr ""
+msgstr "대학"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Varnhold Inn_Description
 msgctxt "249c4f76-00fb-4a00-b1fd-d9ccebe6906c"
 msgid ""
 "A friendly place where you can spend a night for a few coins. Counts as an "
 "Inn."
-msgstr ""
+msgstr "싼 값에 밤을 보낼 수 있는 친근한 장소. 여관으로 취급."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Varnhold Inn_Name
 msgctxt "8968776d-31bc-4025-8441-ee56bc501c90"
 msgid "Varnhold Inn"
-msgstr ""
+msgstr "반홀드 여관"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Vault of Forbidden
 #. Knowledge_Description
@@ -4433,12 +4520,12 @@ msgctxt "1f27ad1f-15c4-4ef0-8659-f75eace7e327"
 msgid ""
 "A mystical place where mages and sages study dangerous and unnatural "
 "secrets. Counts as a Mage's Tower."
-msgstr ""
+msgstr "마법사과 현자들이 위험하고 부자연스러운 비밀을 탐구하는 신비스러운 장소. 마법사의 탑으로 취급."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Vault of Forbidden Knowledge_Name
 msgctxt "ceeb8da9-914f-4ff4-9932-7181c448efd7"
 msgid "Vault of Forbidden Knowledge"
-msgstr ""
+msgstr "금지된 지식의 금고"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Watchtower_Description
 msgctxt "21b57c04-f149-45ec-a577-039e26d5ab27"
@@ -4446,11 +4533,14 @@ msgid ""
 "A tall structure that serves as a guard post and landmark. +1 to Military when located in a settlement with a Barracks. +1 to Stability when located in a settlement with Walls. Could only be built in separate slot.\n"
 "Affects: Fort."
 msgstr ""
+"경비 초소이자 표지물의 역할을 하는 높은 구조물. 막사가 있는 정착지에 군사 +1. 성벽이 있는 정착지에 치안 +1. 별도의 칸에만 지을 "
+"수 있습니다.\n"
+"영향: 요새."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Watchtower_Name
 msgctxt "e77b20fa-16ac-4aa3-94eb-4083d75b07c5"
 msgid "Watchtower"
-msgstr ""
+msgstr "감시탑"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Waterfront_Description
 msgctxt "af005e52-0424-4abb-98bb-2950018efc42"
@@ -4458,11 +4548,13 @@ msgid ""
 "A port for arrival and departure by water. A center of commerce, with facilities for building ships.\n"
 "Affects: Lumberyard."
 msgstr ""
+"물따라 배가 드나드는 항구. 조선 시설을 갖춘 상업의 중심지.\n"
+"영향: 목재소."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Waterfront_Name
 msgctxt "36668e58-58a8-49e2-99e9-8b1b877fa379"
 msgid "Waterfront"
-msgstr ""
+msgstr "부둣가"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Windmill_Description
 msgctxt "7e7fb6a6-d3ac-4253-8fa7-8d151852053c"
@@ -4470,11 +4562,12 @@ msgid ""
 "A wind-driven mill for grinding grain. +1 to Community if located in a settlement with a Granary or a Brewery; +2 if there's both. Can only be built in the separate slot.\n"
 "Affects: Brewery."
 msgstr ""
+"바람이 방아질을 하는 방앗간. 곡창이나 양조장이 있는 정착지에 주민 +1. 둘 다 있으면 +2. 별도의 칸에만 지을 수 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Windmill_Name
 msgctxt "070179e1-f3db-4a48-9e62-cceb76510a01"
 msgid "Windmill"
-msgstr ""
+msgstr "풍차"
 
 #. Mechanics/Blueprints/Kingdom/Buildings/WoodenWall_Description
 msgctxt "d633af72-238f-4f20-aac1-a9f33023314c"
@@ -4482,11 +4575,13 @@ msgid ""
 "A stockade that establishes the settlement's borders and helps protect it from raiders.\n"
 "Affects: Watchtower."
 msgstr ""
+"침략자를 막기위해 정착지의 둘레에 두른 방책.\n"
+"영향: 감시탑."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/WoodenWall_Name
 msgctxt "c4f3018f-b012-4172-98de-9fa9370b5e92"
 msgid "Wooden Wall"
-msgstr ""
+msgstr "나무벽"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Crafter2_LocalizedDescription
 msgctxt "85c0691b-c7f0-4a79-b286-c2506bae6ca5"
@@ -4496,25 +4591,27 @@ msgid ""
 "another masterpiece. Alas, some scoundrels robbed the workshop and stole the"
 " precious work. The artisan demands justice!"
 msgstr ""
+"{mf|남작령|남작령|왕국|왕국}에 거주했던 바로 그 재능있는 장인이 또 다른 걸작으로 다시 두각을 나타냈습니다. 오호라, 어떤 악당들이 "
+"작업장을 털어 귀중한 작품을 훔쳐갔습니다. 장인은 정의를 원하고 있습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Crafter2_LocalizedName
 msgctxt "c54d629a-0921-415d-a8fc-fcf834b51a8d"
 msgid "The Artisan's Loss"
-msgstr ""
+msgstr "장인의 상실"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Crafter2_Solutions.Entries.Array.data[0].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "54e0ca35-0fdb-4aa8-a32d-54e421e8ee1a"
 msgid ""
 "The Regent dismissed the artisan's problems, and the latter left the "
 "{mf|barony|barony|kingdom|kingdom} in anger."
-msgstr ""
+msgstr "섭정은 장인의 문제를 무시했고, 장인은 화가나서 {mf|남작령|남작령|왕국|왕국}을 떠났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Crafter2_Solutions.Entries.Array.data[0].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "af0c5e5c-5363-49e7-8b88-8c0179623d5f"
 msgid ""
 "The regent dismissed the artisan's problems, and the latter left the "
 "{mf|barony|barony|kingdom|kingdom} in anger."
-msgstr ""
+msgstr "섭정은 장인의 문제를 무시했고, 장인은 화가나서 {mf|남작령|남작령|왕국|왕국}을 떠났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Crafter2_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "5c7db0b8-262f-43fd-9ca4-06f40bf4beff"
@@ -4523,6 +4620,8 @@ msgid ""
 "masterpiece. Alas, the missing item was nowhere to be found, but it was good"
 " for the people to unite around a common goal."
 msgstr ""
+"섭정은 걸작을 찾는데 국민들에게 도움을 호소했습니다. 오호라, 사라진 물건은 어디에서도 찾을 수 없었지만, 국민들이 하나의 목표로 단결한 "
+"것은 좋은 일이었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Crafter2_Solutions.Entries.Array.data[0].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "39382d0f-0523-45d0-b877-4b5901cf433b"
@@ -4531,20 +4630,22 @@ msgid ""
 "quickly located the thief who had stolen the masterpiece. A vibrant festival"
 " was held to honor the recovered treasure."
 msgstr ""
+"섭정의 호소가 사람들에게 닿았습니다. 수색대가 재빨리 걸작을 훔친 도둑을 찾아냈습니다. 신나는 축제를 열어 보물은 되찾을 것을 "
+"기념했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Crafter2_Solutions.Entries.Array.data[3].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "acd9a783-9399-41cc-8e86-ea49b17fc619"
 msgid ""
 "The Treasurer refused to allocate funds to search for the thieves, and the "
 "artisan left the {mf|barony|barony|kingdom|kingdom} in anger."
-msgstr ""
+msgstr "재무관은 도둑을 찾는데 예산을 배정하기를 거부했고, 장인은 화가나서 {mf|남작령|남작령|왕국|왕국}를 떠났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Crafter2_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "15e6c216-33cb-48c3-b91d-2b6950147741"
 msgid ""
 "The Treasurer refused to allocate funds to search for the thieves, and the "
 "artisan left the {mf|barony|barony|kingdom|kingdom} in anger."
-msgstr ""
+msgstr "재무관은 도둑을 찾는데 예산을 배정하기를 거부했고, 장인은 화가나서 {mf|남작령|남작령|왕국|왕국}를 떠났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Crafter2_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "e79d7490-e0e6-4b55-85ee-626ae6eb3f7b"
@@ -4554,6 +4655,8 @@ msgid ""
 " The artisan's masterpiece was nowhere to be found, but other craftsmen "
 "recovered their precious tools and materials."
 msgstr ""
+"재무관은 최고의 정찰대를 고용하여 {mf|남작령|남작령|왕국|왕국}을 뒤진 끝에 작업장을 약탈한 강도들의 위치를 간신히 알아냈습니다. "
+"장인의 걸작은 어디에서도 찾을 수 없었지만, 다른 공예가들이 소중한 도구와 재료를 되찾았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Crafter2_Solutions.Entries.Array.data[3].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "92979ab0-8729-47bb-8b5f-460a612252a0"
@@ -4562,20 +4665,22 @@ msgid ""
 "masterpiece, but captured the whole gang, who'd been a plague on artisans "
 "and craftsmen throughout the {mf|barony|barony|kingdom|kingdom}."
 msgstr ""
+"재무관은 소규모 군대 만큼의 정찰대를 고용하여 도둑맞은 걸작을 되찾았을 뿐만아니라, {mf|남작령|남작령|왕국|왕국} 도처에서 장인과 "
+"공예가를 괴롭혀온 범죄 조직을 잡아들였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Crafter2_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "9e780481-4070-4c86-a4df-8c5a038ace28"
 msgid ""
 "The Warden dismissed the artisan's problems, and the latter left the "
 "{mf|barony|barony|kingdom|kingdom} in anger."
-msgstr ""
+msgstr "감시관은 장인의 문제를 무시했고, 장인은 화가나서 {mf|남작령|남작령|왕국|왕국}을 떠났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Crafter2_Solutions.Entries.Array.data[7].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "5d527743-d590-465a-8dbd-0e2e903352cf"
 msgid ""
 "The Warden dismissed the artisan's problems, and the latter left the "
 "{mf|barony|barony|kingdom|kingdom} in anger."
-msgstr ""
+msgstr "감시관은 장인의 문제를 무시했고, 장인은 화가나서 {mf|남작령|남작령|왕국|왕국}을 떠났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Crafter2_Solutions.Entries.Array.data[7].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "a34104e7-27ad-42cc-a2bb-fa4c75eaa281"
@@ -4585,6 +4690,8 @@ msgid ""
 "artisan received several former guards as his new apprentices, who studied "
 "and passed on his trade secrets."
 msgstr ""
+"감시관은 장인을 직접 만나 애도의 뜻을 표하고 경비대의 실책으로 인한 피해를 보상하겠다고 했습니다. 이에 만족한 장인은 전직 경비대 몇 "
+"명을 견습생으로 받았고, 견습생들은 장인의 비결을 전수받아 연구했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Crafter2_Solutions.Entries.Array.data[7].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "82ebe2dc-b8da-473d-9502-cd84b9a34acc"
@@ -4594,16 +4701,18 @@ msgid ""
 "disclosed the secrets of its creation to his colleagues, who immediately "
 "applied this knowledge to their work."
 msgstr ""
+"감시관이 장인에게 걸작을 재현하는 데 필요한 모든 자원을 제공했습니다. 장인은 며칠 후 다시 걸작을 만들어내 동료들에게 그 비결을 "
+"공개했고, 동료들은 즉시 이 지식을 작업에 적용했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/NoLeaderFail_Opportunity_String
 msgctxt "0957d697-8c66-4580-ad73-20971b9be56a"
 msgid "You didn't assign an advisor, and let this opportunity pass by."
-msgstr ""
+msgstr "보좌관을 배정하지 않아 이 기회는 지나가버렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/NoLeaderFail_Problem_String
 msgctxt "54ce958f-d2f9-4e86-ac4c-12ae61567192"
 msgid "You didn't assign an advisor, and left this problem unresolved."
-msgstr ""
+msgstr "보좌관을 배정하지 않아 이 문제를 해결하지 못했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Alien_LocalizedDescription
 msgctxt "b201ab79-2305-438c-b9ff-1820d5363a2b"
@@ -4613,11 +4722,13 @@ msgid ""
 "to hang him. The captured half-elf claims that he's just an ordinary "
 "wanderer, and he begs for mercy."
 msgstr ""
+"어떤 농민들이 한밤중에 마을에 들어온 침입자를 붙잡았습니다. 농민들은 그를 갈트 간첩이라며, 교수형에 처하겠다고 하고 있습니다. 붙잡힌 "
+"하프 엘프는 자신이 그저 평범한 방랑자일 뿐이라며 자비를 구걸합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Alien_LocalizedName
 msgctxt "a586a346-1f7d-4b87-b24f-876aed87630e"
 msgid "The Intruder"
-msgstr ""
+msgstr "침입자"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Alien_Solutions.Entries.Array.data[9].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "d83daf84-1ae6-417a-92d3-014c7dca2d6d"
@@ -4626,6 +4737,8 @@ msgid ""
 "in the capital as a notorious gang chieftain, who's been evading justice for"
 " years."
 msgstr ""
+"장관이 용의자 하프 엘프를 즉시 체포했습니다. 수도에서 그는 정의의 심판을 피해 수년 동안 도망다닌 악명높은 범죄조직 두목으로 "
+"밝혀졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Alien_Solutions.Entries.Array.data[9].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "fe92e229-a3d8-4241-b43e-735f1a1ea5b6"
@@ -4634,6 +4747,8 @@ msgid ""
 "notorious gang chieftain, who's been evading justice for years. His "
 "interrogation led to the capture of his entire gang."
 msgstr ""
+"장관이 용의자 하프 엘프를 즉시 체포했습니다. 수도에서 그는 정의의 심판을 피해 수년 동안 도망다닌 악명높은 범죄조직 두목으로 "
+"밝혀졌습니다. 그를 심문하여 조직 전체를 붙잡았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Alien_Solutions.Entries.Array.data[9].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "417af880-2021-4100-bb5b-bbe4ff7b95dc"
@@ -4642,31 +4757,33 @@ msgid ""
 "half-elf free. A short time later, the village was attacked by thieves led "
 "by the \"wanderer\"..."
 msgstr ""
+"갈트 첩자가 이 외딴 마을에서 뭘 할수 있겠습니까? 장관은 하프 엘프를 풀어줬습니다. 얼마 뒤, 마을은 그 \"방랑자\"가 이끄는 "
+"도둑들의 습격을 받았습니다..."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Friendmaking_LocalizedDescription
 msgctxt "1975cfb4-b93a-4f8a-8bfd-ab247ca0cf58"
 msgid ""
 "A large trade caravan stopped at the capital. Its masters, it is said, are "
 "major merchants of Andoran. It's time to show them some hospitality..."
-msgstr ""
+msgstr "대규모 무역 대상이 수도에 머물렀습니다. 그들은 안도란의 유력한 상인들이라고 합니다. 접대가 필요합니다..."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Friendmaking_LocalizedName
 msgctxt "ec562f71-90f1-4a93-88f7-acd34eaed448"
 msgid "The Art of Making Friends"
-msgstr ""
+msgstr "친구를 만드는 기술"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Friendmaking_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "5383c06f-4651-44bd-968f-1f8b874c955d"
 msgid ""
 "The merchants were very happy with the hunt that the General organized."
-msgstr ""
+msgstr "상인들은 장군이 주최한 사냥에 아주 기뻐했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Friendmaking_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "bc7c743f-3b6d-4573-9f1d-65bab9ee2aca"
 msgid ""
 "The merchants were impressed by the scale of the hunt that the General "
 "organized. They decided they'd return again next year."
-msgstr ""
+msgstr "상인들은 장군이 주최한 사냥의 규모에 깊은 인상을 받았습니다. 내년에도 이곳에 돌아오기로 했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Friendmaking_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "8a8060b1-36c1-4d51-b6dd-e1a816db000f"
@@ -4675,30 +4792,32 @@ msgid ""
 "strayed from the hunting party and were lost in the swamp. One of them "
 "nearly drowned!"
 msgstr ""
+"장군이 주최한 사냥은 수치스럽게 실패했습니다! 몇몇 손님들이 일행에서 낙오되어 늪에서 길을 잃었습니다. 어떤 사람은 거의 익사할 "
+"뻔했습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Friendmaking_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "11e23bd8-b3b5-4b70-8d7d-db4da4e078bb"
 msgid "The formal dinner presented by the advisor flattered the merchants."
-msgstr ""
+msgstr "보좌관이 제공한 격식있는 만찬은 상인들을 우쭐하게 만들었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Friendmaking_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "4b70e5e5-80c2-4c2f-a6fc-90fc12082fbb"
 msgid ""
 "The high-ranking priests of the capital attended a formal dinner party "
 "organized by the advisor. Fine food and music impressed our foreign guests."
-msgstr ""
+msgstr "수도의 고위 사제들이 보좌관이 마련한 격식있는 만찬에 참석했습니다. 훌륭한 음식과 음악이 외국 손님들을 감동시켰습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Friendmaking_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "b11d7b63-1463-4375-9889-66b32435246d"
 msgid "The guests nodded off during the advisor's welcome speech."
-msgstr ""
+msgstr "손님들은 보좌관이 환영사를 읽는 동안 꾸벅꾸벅 졸았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Friendmaking_Solutions.Entries.Array.data[8].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "c42c7d5f-eaf9-4cfa-aeb0-e3a1f51a15b4"
 msgid ""
 "The Curator invited the visitors to a show at the theater. The merchants "
 "were impressed by cast's acting and the director's creativity."
-msgstr ""
+msgstr "학예사는 극장으로 방문객들을 초대했습니다. 상인들은 배우의 연기와 극작가의 창의성에 감명 받았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Friendmaking_Solutions.Entries.Array.data[8].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "a0494fdd-c37c-4dca-95ba-0d7ca8124972"
@@ -4708,13 +4827,15 @@ msgid ""
 "managed to prove that all the guests were merely figments of his "
 "imagination."
 msgstr ""
+"상인은 학예사가 주최한 사생대회를 즐겼습니다. 특히 대도시의 철학자가 요즘 유행하는 사조를 설파한 것이 인상적이었습니다. 그 드워프는 "
+"용케도 이 모든 손님들이 자기 상상의 산물에 불과하다는 것을 증명해냈습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Friendmaking_Solutions.Entries.Array.data[8].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "5ae6be1e-f588-47d4-a55e-71b8b47306e5"
 msgid ""
 "The Curator is furious. {mf_Curator|He|She} invited the merchants to meet "
 "with a famous writer, but none of them showed up."
-msgstr ""
+msgstr "학예사는 분노했습니다. 유명한 작가를 만나자고 상인들을 초대했지만, 아무도 나타나지 않았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/FriendOfMan_LocalizedDescription
 msgctxt "5ffaba28-4035-4d38-b1da-d87c5e55cda0"
@@ -4723,32 +4844,34 @@ msgid ""
 "cave. The whelps may grow into fine hounds... unless they tear their masters"
 " to pieces."
 msgstr ""
+"평판이 좋지 않은 행상이 트롤 동굴에서 발견한 강아지 한배새끼들을 팔고자 합니다. 강아지들은 훌륭한 사냥개로 자랄 수도 있습니다... "
+"주인을 갈기갈기 찢지 않는다면 말이지요."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/FriendOfMan_LocalizedName
 msgctxt "3d428c08-1d83-486e-80bf-8284ac6e71dc"
 msgid "Man's Best Friend"
-msgstr ""
+msgstr "인간의 가장 좋은 친구"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/FriendOfMan_Solutions.Entries.Array.data[3].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "972f2147-a1e2-4445-a2f0-2effc3f939ce"
 msgid ""
 "How embarrassing! By the looks of it, the dealers were just selling ordinary"
 " mutts!"
-msgstr ""
+msgstr "이렇게 부끄러울 데가! 보아하니, 그저 그냥 잡종 개를 팔고 있을 뿐이었습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/FriendOfMan_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "3f234484-eb77-4507-b67f-2fd914fca8e1"
 msgid ""
 "The Treasurer took the deal, but it soon became clear that none of the court"
 " dog trainers could tame the beastly whelps..."
-msgstr ""
+msgstr "재무관이 거래를 받아들였지만, 어느 궁정 조련사도 그 사나운 강아지를 길들일 수 없음이 명백해졌습니다..."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/FriendOfMan_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "67bbfffd-7f6e-45d6-b384-0adf306b957e"
 msgid ""
 "The Treasurer purchased the litter and hired the best dog trainer in the "
 "city."
-msgstr ""
+msgstr "재무관은 그 개들을 사들이고 도시에서 제일가는 개 조련사를 고용했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/FriendOfMan_Solutions.Entries.Array.data[3].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "37f5015d-9333-4c93-9b60-2b214f92dc98"
@@ -4756,6 +4879,7 @@ msgid ""
 "The Treasurer purchased the litter, and hired the best dog trainer in the "
 "city. The beastly dogs are unmatched in the hunt."
 msgstr ""
+"재무관은 그 개들을 사들이고 도시에서 제일가는 개 조련사를 고용했습니다. 이 사나운 강아지들은 이제 사냥에 있어 적수가 없습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/FriendOfMan_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "d78b9b5a-6c1e-401f-b396-edb0e55221b7"
@@ -4763,7 +4887,7 @@ msgid ""
 "The Warden was suspicious, so they agreed to the deal, but then arrived with"
 " a squad of guards. The vendors turned out to be a part of a smugglers' "
 "network."
-msgstr ""
+msgstr "감시관은 이를 의심스럽게 여겨, 거래를 수락하고 경비대를 출동시켰습니다. 행상은 밀수 조직의 일원으로 드러났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/FriendOfMan_Solutions.Entries.Array.data[7].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "00fdf80f-427c-4778-a941-e1f19560d129"
@@ -4772,6 +4896,7 @@ msgid ""
 " a squad of guards. The vendors turned out to be a part of a smugglers' "
 "network, and they turned in their cohorts."
 msgstr ""
+"감시관은 이를 의심스럽게 여겨, 거래를 수락하고 경비대를 출동시켰습니다. 행상은 밀수 조직의 일원으로 드러났고, 동료들에 대해 불었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/FriendOfMan_Solutions.Entries.Array.data[7].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "b3af2dd5-5d47-4792-9f9c-75de38884d68"
@@ -4780,6 +4905,8 @@ msgid ""
 "arrested. However, when the guards looked for them at the tavern they were "
 "nowhere to be found."
 msgstr ""
+"감시관은 이게 정직한 거래인지 의심스러워 행상을 체포하라고 명령했습니다. 그러나, 경비대가 선술집에 도착하자 그들은 이미 어디에서도 찾을 "
+"수 없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Neighborhood_LocalizedDescription
 msgctxt "a7ff0d02-8846-4e38-92be-2e74ff06c45e"
@@ -4789,11 +4916,13 @@ msgid ""
 "the local guards deny everything. The situation demands action before it "
 "becomes violent."
 msgstr ""
+"이 지역에서 종족 간의 갈등이 심해지고 있다는 소문이 있습니다. 민원은 점점 늘어나는데 지역 경비대는 모든 것을 부인하고 있습니다. "
+"폭력사태로 발전하기 전에 조치를 취해야 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Neighborhood_LocalizedName_String
 msgctxt "24b1e778-4652-4e35-aa60-55b5fee7caac"
 msgid "Good Neighbors"
-msgstr ""
+msgstr "이웃 사촌"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Neighborhood_Solutions.Entries.Array.data[8].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "50faca31-e279-4792-9cc8-6a4d784f318b"
@@ -4802,6 +4931,7 @@ msgid ""
 "team of humans, an elven team, a dwarven team, and the rest. Alas, the "
 "fighting started on day one."
 msgstr ""
+"학예사는 체육대회를 열었습니다. 인간편, 엘프편, 드워프편, 나머지편으로 편을 갈랐습니다. 이런, 첫 날부터 싸움이 시작되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Neighborhood_Solutions.Entries.Array.data[8].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "b3067ff2-c823-4b10-9f61-1dd897994b9e"
@@ -4810,6 +4940,8 @@ msgid ""
 "only a handful of bored visitors showed up to watch the bards and musicians "
 "perform."
 msgstr ""
+"학예사는 이 지역 전체를 아우르는 \"화합의 축제\"를 제안했습니다. 하지만 한 줌의 방문객들이 바드와 음악가들의 공연을 보고 지루해 할 "
+"뿐이었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Neighborhood_Solutions.Entries.Array.data[8].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "a9ecf229-54b5-4f83-b504-4683367e6ff9"
@@ -4819,6 +4951,8 @@ msgid ""
 "remember the times of trouble, and are discussing the politics of their new "
 "ruler."
 msgstr ""
+"학예사는 수사슴 군주 패거리에 대한 연극을 현지 극단에 의뢰했습니다. 이 지역의 긴장이 완화되고 있습니다. 국민들은 여전히 힘든 시절을 "
+"기억하고 있었고, 이제 새 통치자의 치세를 논하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/WhiteSpots_LocalizedDescription
 msgctxt "e1b5d738-ba01-4b43-a1d4-be8909ac64ec"
@@ -4827,18 +4961,20 @@ msgid ""
 "{mf|barony|barony|kingdom|kingdom}'s maps appear to be outdated. Which of "
 "your advisors could help the scholar update them?"
 msgstr ""
+"궁정 지도 제작자는 {mf|남작령|남작령|왕국|왕국}의 지도 일부가 너무 오래되었다고 합니다. 어느 보좌관이 학자를 도와 지도를 "
+"갱신하도록 하시겠습니까?"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/WhiteSpots_LocalizedName
 msgctxt "d8506626-04ea-4cab-a9fd-4cd75bb51daa"
 msgid "Blank Spots"
-msgstr ""
+msgstr "빈 부분"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/WhiteSpots_Solutions.Entries.Array.data[3].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "d7661f2c-ec4a-49ed-8509-347aab9c2e31"
 msgid ""
 "A cartography expedition discovered a mineral spring in the forest! The "
 "Treasurer is preparing to build a large salt-processing factory there."
-msgstr ""
+msgstr "지도 제작자가 탐험 중 숲에서 광천을 발견하였습니다. 재무관은 그곳에 대규모 소금 공장을 지을 준비를 하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/WhiteSpots_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "89763078-4371-4ed6-83c7-41a8594f2ef3"
@@ -4847,11 +4983,12 @@ msgid ""
 "Treasurer is planning to open a health resort there, adjoining a substantial"
 " salt-processing factory."
 msgstr ""
+"지도 제작자가 탐험 중 숲에서 광천을 발견하였습니다. 재무관은 그곳에 건강 휴양지를 개장하고 근처에는 대규모 소금 공장을 지을 계획입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/WhiteSpots_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "5fa299f0-1ac3-4ea7-be5b-b6b9e68e20fa"
 msgid "The Treasurer failed to find any use for the new maps."
-msgstr ""
+msgstr "재무관은 새 지도를 활용할 방도를 찾지 못했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/WhiteSpots_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "e4b90d59-f422-447e-b727-40d4124548fc"
@@ -4859,6 +4996,7 @@ msgid ""
 "The Warden placed his best scouts at the scholar's disposal. Now the guards "
 "have a map of all the bandit trails and the lairs of dangerous beasts."
 msgstr ""
+"감시관은 최고의 정찰병들을 학자에게 붙여줬습니다. 이제 경비대는 온갖 도적 길목과 위험한 짐승 소굴이 표시된 지도를 갖게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/WhiteSpots_Solutions.Entries.Array.data[7].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "0926ded9-0a08-4d62-a93a-e2181d08ccad"
@@ -4867,18 +5005,20 @@ msgid ""
 " of dangerous beasts. What's more, they found a smuggler's stash in one of "
 "the caves!"
 msgstr ""
+"경비대 한 부대가 도적 길목과 위험한 짐승 소굴의 지도를 작성할 수 있게 도와주었습니다. 게다가, 한 동굴에서 밀수꾼의 은닉품을 "
+"찾아냈습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/WhiteSpots_Solutions.Entries.Array.data[7].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "318acd5c-319f-4f57-a370-71f5aa0ec8c2"
 msgid "Unfortunately, the Warden failed to make use of this opportunity."
-msgstr ""
+msgstr "불행하게도, 감시관은 이 기회를 활용하지 못했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/WhiteSpots_Solutions.Entries.Array.data[8].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "c5b4fd45-e981-450a-a510-f84e7d64d993"
 msgid ""
 "The Curator and the cartographer mapped out the safest and most convenient "
 "travel routes."
-msgstr ""
+msgstr "학예사와 지도 제작자는 가장 안전하고 편안한 여행로를 지도에 그려넣었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/WhiteSpots_Solutions.Entries.Array.data[8].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "07679ea2-e2ac-4827-be2b-b1acc69a866c"
@@ -4887,11 +5027,12 @@ msgid ""
 "convenient travel routes. The Curator sent copies of the map to the major "
 "foreign merchants."
 msgstr ""
+"학예사와 지도 제작자가 함께 가장 안전하고 편안한 여행로를 지도에 그려넣었습니다. 학예사는 주요 외국 상인들에게 지도의 사본을 보냈습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/WhiteSpots_Solutions.Entries.Array.data[8].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "aefb798c-f044-445c-961d-f52ae0d92204"
 msgid "The Curator and the scholar failed to find common ground."
-msgstr ""
+msgstr "학예사와 학자는 서로 같이 일할 필요를 찾지 못했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/BigAugury_LocalizedDescription
 msgctxt "f36c7eea-0f96-40a5-959e-93d1bd95e4c0"
@@ -4902,11 +5043,14 @@ msgid ""
 " might need to be subtly \"adjusted\", lest we become the object of an orc "
 "invasion."
 msgstr ""
+"벨크젠의 오크들이 다음 목적지를 정하려고 위대한 징조를 기다리고 있습니다. 만약 오크의 신들이 오크를 동쪽으로 보내면, "
+"{mf|남작령|남작령|왕국|왕국}에 많은 문제를 일으킬 수 있습니다. 우리가 오크의 침략 대상이 되지 않으려면, 점괘가 살짝 \"조정\""
+"될 필요가 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/BigAugury_LocalizedName
 msgctxt "98c8dcc4-09ee-474a-a6ac-7d0de93345fe"
 msgid "A Great Augury"
-msgstr ""
+msgstr "위대한 징조"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/BigAugury_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "0bc49968-8936-4a40-a9ad-c468b7bd4f96"
@@ -4918,6 +5062,9 @@ msgid ""
 " orcs to go east nevertheless. Bands of orcs have pillaged the frontiers, "
 "and burned down smaller settlements."
 msgstr ""
+"대사제의 기도가 신들에게 닿았습니다. 그리고 징조가 {mf|남작령|남작령|왕국|왕국}에서 멀리 떨어진 방향을 가리키도록 했습니다. "
+"그럼에도 불구하고 오크가 섬기는 수호신들은 이 무례한 필멸자들을 벌하기로 했고, 오크들에게 동쪽으로 가라고 말했습니다. 오크 무리가 변경 "
+"지역을 약탈하고, 작은 정착촌들을 불태웠습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/BigAugury_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "ff9864cf-2200-418f-9ba5-ff6d616e04ab"
@@ -4926,6 +5073,8 @@ msgid ""
 "Priestess}. They intervened in the auguries, and told the orcs to go "
 "northward. The {mf|barony|barony|kingdom|kingdom} is safe."
 msgstr ""
+"대사제의 기도에 신들이 답했습니다. 신들이 징조에 개입하여 오크들에게 북쪽으로 가라 하였습니다. {mf|남작령|남작령|왕국|왕국}은 이제 "
+"안전합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/BigAugury_Solutions.Entries.Array.data[6].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "280e35b9-b578-4cc4-a1e6-f048a9026dc1"
@@ -4935,17 +5084,15 @@ msgid ""
 "pointed east. Bands of marauding orcs have already been sighted on the "
 "borders."
 msgstr ""
-"마법대신이 Augury에 마법으로 개입한 시도가 계획대로 되지 않았습니다. 마법이 어떤 영향을 끼쳤건, 뼈는 틀림없이 동쪽을 가리킵니다."
-" 오크 약탈 무리가 이미 국경에서 포착되었습니다."
+"마법대신이 징조에 개입을 시도하였으나 계획대로 되지 않았습니다. 마법이 어떤 영향을 끼쳤건, 뼈는 틀림없이 동쪽을 가리킵니다. 벌써 "
+"국경에서 오크 약탈자 무리가 보이고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/BigAugury_Solutions.Entries.Array.data[6].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "def73496-f4bf-4af9-b807-1a020243a47d"
 msgid ""
 "The Magister's spell influenced the auguries and made them point to the "
 "lands north of Belkzen. The {mf|barony|barony|kingdom|kingdom} is safe."
-msgstr ""
-"마법대신의 주문이 Augury에 효과를 보여 벨기젠(Belkzen) 북쪽의 땅을 가리키게했습니다. {mf|남작령|남작령|왕국|왕국}는 "
-"안전합니다."
+msgstr "마법대신의 주문이 징조에 영향을 미쳐 벨크젠 북쪽의 땅을 가리키게했습니다. {mf|남작령|남작령|왕국|왕국}는 안전합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/BigAugury_Solutions.Entries.Array.data[9].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "a6268adb-a96d-4338-8415-ddcdd0e76238"
@@ -4955,6 +5102,8 @@ msgid ""
 "eastward, towards our lands. Bands of marauding orcs have already been "
 "sighted on the borders."
 msgstr ""
+"장관이 오크 주술사들에게 뇌물을 주려고 시도했으나 실패했습니다. 주술사들은 아주 불쾌해 했고, 그래서 뼈가 가리키는 방향을 어떻게든 "
+"동쪽, 즉 우리나라 가리키도록 해석했을 지도 모릅니다. 벌써 국경에서 오크 약탈자 무리가 보이고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/BigAugury_Solutions.Entries.Array.data[9].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "0511ef92-696b-448a-ac64-8c5cc25af75d"
@@ -4963,6 +5112,8 @@ msgid ""
 " determined that the orcs should raid the lands north of Belkzen. The "
 "{mf|barony|barony|kingdom|kingdom} is safe."
 msgstr ""
+"장관이 오크 주술사에게 뇌물이 먹혀들었습니다. 징조는 오크가 벨크젠의 북쪽을 습격해야 한다고 정했습니다. {mf|남작령|남작령|왕국|왕국}"
+"은 안전합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/ChiefIsDead_LocalizedDescription
 msgctxt "c519ea52-97cf-4020-ae2d-0a0732445503"
@@ -4973,11 +5124,14 @@ msgid ""
 "king. It would be best to find a diplomatic way to politely refuse "
 "participation in this dubious ritual."
 msgstr ""
+"오썰트의 도마뱀인간은 새 족장을 옹립하려 합니다. 이들이 수도에 초대장을 보낸 것은 아주 명예로운 일입니다. 하지만, 의식의 첫 번째 "
+"순서는 죽은 왕을 먹는 것이 될 것입니다. 이런 석연치 않은 의식의 참가를 정중히 거절할 수 있는 외교적 방법을 찾는 것이 최선일 "
+"것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/ChiefIsDead_LocalizedName
 msgctxt "b3f11adf-c65b-438c-b3b8-38bee13afc19"
 msgid "The Chief Is Dead. Long Live the Chief!"
-msgstr ""
+msgstr "족장이 죽었다. 족장 만세!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/ChiefIsDead_Solutions.Entries.Array.data[0].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "b0c393fb-d5f8-4ec2-b336-4a172a2ca9b4"
@@ -4986,6 +5140,8 @@ msgid ""
 "{mf|baron's|baroness'|King's|Queen's} refusal to partake in the ceremony. "
 "The lizardfolk are appalled at the incomprehensible show of disrespect!"
 msgstr ""
+"아아, 보좌관이 {mf|남작|여남작|왕|여왕}이 의식에 불참하는 것을 요령껏 설명하지 못했습니다. 도마뱀인간은 이해할 수 없는 무례한 "
+"모습에 경악하고 있습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/ChiefIsDead_Solutions.Entries.Array.data[0].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "819359f8-df19-48ad-9dc6-4210ad60f15f"
@@ -4996,6 +5152,8 @@ msgid ""
 "without really understanding what was being said. They were nevertheless "
 "content with this polite refusal."
 msgstr ""
+"보좌관은 그 초대를 정중히 거절할 수 있었습니다. 도마뱀인간들은 문화적 차이와 지금 {mf|남작|여남작|왕|여왕}이 아주 바쁘다는 것에 "
+"대한 기나긴 설명을 사려깊게 들어주었습니다. 비록 무슨 말인지 잘 이해하지는 못했지만, 그럼에도 이 공손한 거절에 만족했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/DeadmansLegacy_LocalizedDescription
 msgctxt "fe01f56f-c8d3-4088-ac73-e6abca6efe27"
@@ -5006,17 +5164,20 @@ msgid ""
 "might use this as a pretext to seize his lands. If someone were to provide "
 "him protection, he would surely reward them generously."
 msgstr ""
+"약소한 이웃 남작이 임종을 맞고 있습니다. 남작은 자신의 정당한 후계자들이 하나 같이 마음에 들지 않아, 자신을 불멸의 언데드로 만드는 "
+"의식을 치르기로 결심했습니다. 하지만, 이를 구실로 주변에서 자신의 땅을 차지할까 두려워하고 있습니다. 그를 보호해준다면, 분명 후한 "
+"보답이 있을 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/DeadmansLegacy_LocalizedName
 msgctxt "0893a5fa-e03b-49c3-8c87-85e0a440cd35"
 msgid "Dead Man's Gold"
-msgstr ""
+msgstr "죽은 사람의 돈"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/DeadmansLegacy_Solutions.Entries.Array.data[0].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "87e5a274-022e-4ce0-b60b-2dc82aa9e5cc"
 msgid ""
 "The advisor's attempt to trick and overthrow the evil baron fell through."
-msgstr ""
+msgstr "사악한 남작을 속이고 타도하려던 보좌관의 시도가 실패로 돌아갔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/DeadmansLegacy_Solutions.Entries.Array.data[0].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "b9878a13-eb4d-4d95-9b46-0231735da533"
@@ -5026,6 +5187,8 @@ msgid ""
 "{mf|baron|baroness|King|Queen} of the Stolen Lands a modest but sincere "
 "offering."
 msgstr ""
+"보좌관의 지휘 아래 의용대를 소집하여 악한 남작을 간신히 타도했습니다. 백성들은 이에 감사하며 도둑맞은 땅의 {mf|남작|여남작|왕|여왕}"
+"에게 소소하지만 진심이 담긴 공물을 보내왔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/DeadmansLegacy_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "49fb5cbd-5f33-44ad-93a0-21d7a07995cd"
@@ -5035,6 +5198,8 @@ msgid ""
 "he paid dearly for his desire to cut his own path: the evil ruler was "
 "overthrown by his own subjects!"
 msgstr ""
+"보좌관은 우리 {mf|남작령|남작령|왕국|왕국}이 이웃을 보호해주겠다고 장담하였지만, 사악한 남작은 믿지 않았습니다. 슬프게도, 남작은 "
+"이 독자행보로 큰 대가를 치렀습니다. 백성들이 그를 타도해버렸습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/DeadmansLegacy_Solutions.Entries.Array.data[0].Resolutions.Array.data[3].LocalizedDescription_String
 msgctxt "2e791f6d-c7a9-4a35-98f7-ad40fffa7c1b"
@@ -5044,6 +5209,8 @@ msgid ""
 " wealth generated there will be taken into the Stolen Land's treasury, in "
 "return for our protection, which in fact is more akin to captivity."
 msgstr ""
+"남작은 보좌관의 보증에 만족했고, 도둑맞은 땅으로 오기로 결심했습니다. 남작이 영토를 지배하는 동안, 그곳에서 창출된 모든 재산은 보호의 "
+"대가로서 도둑맞은 땅의 국고로 들어갈 것입니다. 사실, 이건 감금이나 마찬가집니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/FakeBattle_LocalizedDescription
 msgctxt "82637aac-4dbc-41ad-93bd-44f326e39498"
@@ -5055,11 +5222,14 @@ msgid ""
 "begs the {mf|baron|baroness|King|Queen} not to fight him in earnest, "
 "promising that he will be eternally grateful."
 msgstr ""
+"흉표한 켈리드 부족의 족장이 잔치 중에 술에 취해 이 땅을 전쟁으로 짓밟겠다고 맹세했습니다. 행군하는 동안 술에서 깬 그는 이게 얼마나 "
+"큰 실수인지를 깨달았습니다. 하지만 승리하고 돌아오지 못하면 명예와 존경을 잃게될 것입니다. 족장은 {mf|남작|여남작|왕|여왕}에게 "
+"제대로 싸우지 말아달라고 간청하면서, 평생의 감사를 약속했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/FakeBattle_LocalizedName
 msgctxt "b8fc4b12-ad18-4e8a-aa3a-96d615daa96a"
 msgid "A Mock Battle"
-msgstr ""
+msgstr "가짜 전투"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/FakeBattle_Solutions.Entries.Array.data[0].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "23d032b3-0bf5-4e40-9576-081900bb8262"
@@ -5069,6 +5239,8 @@ msgid ""
 "the Kellid chief. True, barbarians are incapable of keeping their mouths "
 "shut... or of respecting those who fear real battle."
 msgstr ""
+"이웃 나라들이 켈리드 족장과의 협약을 알아차리면서, \"짜고치는 전투\"를 시도한 것은 순식간에 커다란 골칫거리가 되었습니다. 사실 "
+"바바리안들은 입을 다무는 법도, 진짜 전투를 두려워하는 자를 존중하는 법도 모릅니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/FakeBattle_Solutions.Entries.Array.data[0].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "a6ab2c71-01da-488e-9c21-7181167c7bcf"
@@ -5078,6 +5250,8 @@ msgid ""
 "out in the field, and a few coins for the bards ensured that this \"great "
 "battle\" would be the toast of every tavern in the land."
 msgstr ""
+"유혈사태를 피하고 대립을 \"가짜 전투\"로 제한하자는 생각은 보좌관의 마음에 쏙 들었습니다. 양쪽 모두 전장에서 아주 좋은 시간을 "
+"보냈고, 바드에게 동전 얼마를 쥐어주서 나라의 모든 선술집 마다 이 \"위대한 전투\"에 건배하도록 하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/FakeBattle_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "966a4618-3a1f-48d3-bb23-dadb43c8b64d"
@@ -5088,6 +5262,9 @@ msgid ""
 " The army of the {mf|barony|barony|kingdom|kingdom} has not faced such great"
 " shame in a long time."
 msgstr ""
+"보좌관은 \"가짜 전투\"를 하자는 생각은 부정했지만, 진짜 싸움으로 {mf|남작령|남작령|왕국|왕국}의 국경을 지킬 수 없다는 것은 "
+"증명했습니다. 켈리드 족은 변경 지역을 약탈하고서 거의 사상자를 남기지 않고 퇴각했습니다! {mf|남작령|남작령|왕국|왕국}군이 이런 "
+"수모를 당한 것은 아주 오랜만입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/FakeBattle_Solutions.Entries.Array.data[0].Resolutions.Array.data[3].LocalizedDescription_String
 msgctxt "8826d3a9-49d3-4ada-abe7-80f12b31525a"
@@ -5097,6 +5274,8 @@ msgid ""
 "thankful that he was able to keep his reputation, and that his enemy didn't "
 "stoop to trickery."
 msgstr ""
+"보좌관은 \"가짜 전투\"를 하자는 생각을 못마땅하게 여겼습니다. 켈리드 족과 본격적으로 맞붙었고, 양군의 사기는 드높았습니다. 족장은 "
+"자신의 명예를 지켜주고 속임수에 굴하지 않은 것에 경의를 표했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/FakeBattle_Solutions.Entries.Array.data[0].Resolutions.Array.data[4].LocalizedDescription_String
 msgctxt "7a7eadc8-906b-44c2-b9dd-83e71c4287df"
@@ -5106,6 +5285,8 @@ msgid ""
 " that he would have his vengeance. The frontiers are already being raided by"
 " small bands of barbarians, burning everything in their way."
 msgstr ""
+"보좌관은 \"가짜 전투\"를 벌일 장소를 협의하고는, 몰래 학살을 준비했습니다. 켈리드 족은 추풍낙엽으로 쓸려나갔고, 족장은 복수를 "
+"맹세했습니다. 변경 지역은 이미 소규모 야만인 무리에게 습격당하여 지나간 모든 자리가 불타고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/FakeBattle_Solutions.Entries.Array.data[0].Resolutions.Array.data[5].LocalizedDescription_String
 msgctxt "6f061b86-e931-4daf-adab-e60de9a3c6a0"
@@ -5116,6 +5297,9 @@ msgid ""
 "From now on, the neighboring kingdoms will look upon the "
 "{mf|barony|barony|kingdom|kingdom} with newfound respect."
 msgstr ""
+"켈리드 족은 \"가짜 전투\"를 하겠다는 보좌관의 말을 그대로 믿었다가 함정에 빠졌습니다. 바바리안들은 단 한 사람에게 학살당했고, "
+"바드들은 두둑한 보수를 받고서 이 소식을 이웃 나라 모두에게 퍼뜨렸습니다. 이제 이웃 나라들은 존경을 담아 "
+"{mf|남작령|남작령|왕국|왕국}을 바라볼 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/Genealogy_LocalizedDescription
 msgctxt "9d437e45-8f1a-4a86-90e3-357fb6dadc42"
@@ -18534,7 +18718,7 @@ msgid ""
 "is easier. Perhaps next time the {mf|barony|barony|kingdom|kingdom} will "
 "have better luck!"
 msgstr ""
-"조언자는 빈손으로 돌아왔습니다. 리버킹덤??엔 사람들이 더 행복하고 살기 쉬운 부유한 나라들이 있습니다. 다음 기회에 ?? 가 더 운이 "
+"보좌관은 빈손으로 돌아왔습니다. 리버킹덤??엔 사람들이 더 행복하고 살기 쉬운 부유한 나라들이 있습니다. 다음 기회에 ?? 가 더 운이 "
 "좋길 빌어보죠!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/MonarchsCompetition_LocalizedDescription
@@ -18714,7 +18898,7 @@ msgid ""
 "reason to believe the offer of cooperation is sincere. They would rather "
 "simply take as many local subjects to Andoran as they can."
 msgstr ""
-"강철 매는 조언가의 협상 제안을 무시했습니다. 그들은 협력 제안이 진지한 제안이라고 믿지 않았습니다. 강철매는 그저 가능한 한 많은 "
+"강철 매는 보좌관의 협상 제안을 무시했습니다. 그들은 협력 제안이 진지한 제안이라고 믿지 않았습니다. 강철매는 그저 가능한 한 많은 "
 "주민들을 안도란으로 데려가려 하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/ProtectorsOfPeople_F_NE_String
@@ -18725,7 +18909,7 @@ msgid ""
 "and protestations of innocence, as our subjects are taken in by propaganda "
 "and lured from the {mf|barony|barony|kingdom|kingdom}."
 msgstr ""
-"조언가의 항의에도 불구하고, 안도란은 민간인들을 '해방'하고 있는 기사들과 어떤 관계도 없다고 말하고 있습니다. 그들은 가식적인 부정과 "
+"보좌관의 항의에도 불구하고, 안도란은 민간인들을 '해방'하고 있는 기사들과 어떤 관계도 없다고 말하고 있습니다. 그들은 가식적인 부정과 "
 "무죄라는 항변을 늘어놓았으며, 우리 백성들은 그 선전에 포섭되고 유혹당해 {mf|남작령|남작령|왕국|왕국}을 등졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/ProtectorsOfPeople_GF_G_String
@@ -18735,7 +18919,7 @@ msgid ""
 "insidious ambush. The soldiers that we sent to ensure security were all "
 "killed. Many peasants left the region and headed to Andoran."
 msgstr ""
-"강철 매는 조언가의 협상 시도를 매복을 위한 수작으로 오해했습니다. 안전을 확보하기 위해 보냈던 병사들은 모두 살해당했습니다. 많은 "
+"강철 매는 보좌관의 협상 시도를 매복을 위한 수작으로 오해했습니다. 안전을 확보하기 위해 보냈던 병사들은 모두 살해당했습니다. 많은 "
 "농민들이 이 지역을 떠나 안도란으로 향했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/ProtectorsOfPeople_GF_NE_String
@@ -18747,7 +18931,7 @@ msgid ""
 "subjects yielded to the propaganda and left the "
 "{mf|barony|barony|kingdom|kingdom}."
 msgstr ""
-"조언가가 안도란에 전달한 최후통첩은 의도와 정반대의 효과를 가져왔습니다. 많은 사람들이 강철 매를 돕기 위해 몰려들었습니다! 그들은 "
+"보좌관이 안도란에 전달한 최후통첩은 의도와 정반대의 효과를 가져왔습니다. 많은 사람들이 강철 매를 돕기 위해 몰려들었습니다! 그들은 "
 "우리의 위협을 그저 이 땅에서 벌어지는 폭정에 대한 더 확고한 증거라고 여깁니다. 많은 백성들이 선전에 굴복하여 "
 "{mf|남작령|남작령|왕국|왕국}을 떠났습니다."
 
@@ -18758,7 +18942,7 @@ msgid ""
 "and invited several Andorans to stay and help maintain justice. They might "
 "help us improve relations with common people."
 msgstr ""
-"조언가는 강철 매의 지도자에게 협력을 제안했습니다. 그에 따라 몇몇 안도란 사람을 초대해 머물 수 있도록 했으며, 정의를 유지하도록 "
+"보좌관은 강철 매의 지도자에게 협력을 제안했습니다. 그에 따라 몇몇 안도란 사람을 초대해 머물 수 있도록 했으며, 정의를 유지하도록 "
 "도왔습니다. 그들은 우리와 일반 백성들 사이의 관계 개선에 도움이 될 수도 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/ProtectorsOfPeople_GS_NE_String
@@ -18769,7 +18953,7 @@ msgid ""
 " the {mf|barony|barony|kingdom|kingdom}'s merchants, as an apology for the "
 "\"thoughtless insult\"."
 msgstr ""
-"조언가가 안도란에 보낸 냉정한 편지는 지역 군주들의 야욕을 꺾고 그들이 기사들을 불러들이게 만들었습니다. 안도란은 \"경솔한 모욕\"에 "
+"보좌관이 안도란에 보낸 냉정한 편지는 지역 군주들의 야욕을 꺾고 그들이 기사들을 불러들이게 만들었습니다. 안도란은 \"경솔한 모욕\"에 "
 "대한 사과로 {mf|남작령|남작령|왕국|왕국}의 상인들에게 큰 이익을 제공했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/ProtectorsOfPeople_LocalizedDescription
@@ -18848,7 +19032,7 @@ msgid ""
 "brought them to their senses. The Steel Falcons were recalled before their "
 "actions triggered a decisive response."
 msgstr ""
-"조언가가 보낸 최후통첩에 결국 안도란 정부가 정신을 차렸습니다. 강철 매는 본인들의 행동이 결정적인 대응을 유발하기 전에 본국으로 "
+"보좌관이 보낸 최후통첩에 결국 안도란 정부가 정신을 차렸습니다. 강철 매는 본인들의 행동이 결정적인 대응을 유발하기 전에 본국으로 "
 "소환되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/StiflingIllness_LocalizedDescription
@@ -19019,8 +19203,8 @@ msgid ""
 "have been planning a double-cross, but the advisor took pains to prevent "
 "this from happening, and the alliance remained an honest one."
 msgstr ""
-"레베다 가문에 합류한 함대는 상황을 바꿔놓았습니다. 사로나 레베다가 배신을 계획했을지도 모르지만, 그런 일을 막기 위한 조언가의 노력덕에"
-" 동맹은 정직하게 유지되었습니다."
+"레베다 가문에 합류한 함대는 상황을 바꿔놓았습니다. 사로나 레베다가 배신을 계획했을지도 모르지만, 그런 일을 막기 위한 보좌관의 노력덕에 "
+"동맹은 정직하게 유지되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/WaterIsOurFields_Solutions.Entries.Array.data[4].Resolutions.Array.data[11].LocalizedDescription_String
 msgctxt "92e612c2-c7fa-4ac1-a46c-79242d6f362d"
@@ -19031,7 +19215,7 @@ msgid ""
 "This might sound strange, but the move didn't anger Sarrona Lebeda. On the "
 "contrary, it commanded her respect."
 msgstr ""
-"레베다 가문이 우리를 배신하려 했지만 조언가가 한 수 앞서있었습니다. 함대가 레베다 가문의 상선들을 나포했고, 마지막 순간 레베다의 "
+"레베다 가문이 우리를 배신하려 했지만 보좌관이 한 수 앞서있었습니다. 함대가 레베다 가문의 상선들을 나포했고, 마지막 순간 레베다의 "
 "그물망을 빠져나왔습니다! 로도브카 가문은 승리를 거뒀습니다. 조금 이상하게 들릴지도 모르겠지만, 사로나 레베다는 우리의 행동에 분노하지 "
 "않고 오히려 존경을 표했습니다."
 
@@ -19043,7 +19227,7 @@ msgid ""
 "involved, every potential deal might be laced with poison. There will be no "
 "alliance."
 msgstr ""
-"로도브카 가문은 조언가의 함선을 차갑게 맞이했습니다. 당연한 말이지만, 그들은 절대로 좋은 의도를 쉽사리 신뢰하지 않습니다. 레베다 "
+"로도브카 가문은 보좌관의 함선을 차갑게 맞이했습니다. 당연한 말이지만, 그들은 절대로 좋은 의도를 쉽사리 신뢰하지 않습니다. 레베다 "
 "가문이 관여하는 곳이라면 어떤 거래든지 독이 스며들어 있을 수 있습니다. 동맹은 성사되지 못 할 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/WaterIsOurFields_Solutions.Entries.Array.data[4].Resolutions.Array.data[2].LocalizedDescription_String
@@ -19053,8 +19237,8 @@ msgid ""
 "their victory. They will comply with every term of the deal, although "
 "they've no doubt that the support was motivated by greed, not nobility."
 msgstr ""
-"조언가가 파견한 함선들은 로도브카 함대에 합류해 승리를 약속했습니다. 로도브카 가문은 이 지원이 고결함이 아니라 탐욕에서 비롯되었음을 잘"
-" 알고있지만, 거래의 모든 조건을 준수할 것입니다."
+"보좌관이 파견한 함선들은 로도브카 함대에 합류해 승리를 약속했습니다. 로도브카 가문은 이 지원이 고결함이 아니라 탐욕에서 비롯되었음을 잘 "
+"알고있지만, 거래의 모든 조건을 준수할 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/WaterIsOurFields_Solutions.Entries.Array.data[4].Resolutions.Array.data[3].LocalizedDescription_String
 msgctxt "f3fc456f-03a5-41e7-a7f2-1fd8e7ab74e8"
@@ -19063,8 +19247,8 @@ msgid ""
 "time. The House is grateful for the show of support. They are gladly "
 "fulfilling their side of the agreement, and heaping praises on the advisor."
 msgstr ""
-"로도브카 가문을 지원하기 위해 조언가가 파견한 함대는 제시간에 도착했습니다. 그들은 지원을 보내준 것에 감사를 표했습니다. 로도브카 "
-"가문은 협정에서 지켜야 할 사항을 기꺼이 이행하고 있고, 조언가에 대한 칭찬 또한 아끼지 않습니다."
+"로도브카 가문을 지원하기 위해 보좌관이 파견한 함대는 제시간에 도착했습니다. 그들은 지원을 보내준 것에 감사를 표했습니다. 로도브카 "
+"가문은 협정에서 지켜야 할 사항을 기꺼이 이행하고 있고, 보좌관에 대한 칭찬 또한 아끼지 않습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/WaterIsOurFields_Solutions.Entries.Array.data[4].Resolutions.Array.data[4].LocalizedDescription_String
 msgctxt "f670299a-0955-423d-a9ee-71eb1d61d3c2"
@@ -19073,8 +19257,8 @@ msgid ""
 "but trouble. Ships sent by the advisor are beset by both Houses. It is often"
 " dangerous to meddle in the affairs of others..."
 msgstr ""
-"분쟁에 개입해 평화를 성립시키려는 시도는 결국 말썽만 일으켰습니다. 조언가가 보낸 함선들은 양 가문에 의해 포위당했습니다. 타인의 문제에"
-" 참견하는 것은 대개 위험합니다..."
+"분쟁에 개입해 평화를 성립시키려는 시도는 결국 말썽만 일으켰습니다. 보좌관이 보낸 함선들은 양 가문에 의해 포위당했습니다. 타인의 문제에 "
+"참견하는 것은 대개 위험합니다..."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/WaterIsOurFields_Solutions.Entries.Array.data[4].Resolutions.Array.data[5].LocalizedDescription_String
 msgctxt "5d5863da-3979-4cac-8d94-658d00190646"
@@ -19083,7 +19267,7 @@ msgid ""
 "Lodovka and the Lebeda will continue their petty war. Anyone who tries to "
 "interfere will be severely punished."
 msgstr ""
-"조언가가 파견한 함선들은 강에 평화를 가져오지 못했습니다. 로도브카와 레베다 가문은 사소한 전쟁을 계속할 것입니다. 간섭하는 이들은 "
+"보좌관이 파견한 함선들은 강에 평화를 가져오지 못했습니다. 로도브카와 레베다 가문은 사소한 전쟁을 계속할 것입니다. 간섭하는 이들은 "
 "누구든 극심한 보복을 각오해야할 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/WaterIsOurFields_Solutions.Entries.Array.data[4].Resolutions.Array.data[6].LocalizedDescription_String
@@ -19094,8 +19278,8 @@ msgid ""
 "business with the advisor's forces, rather than the aggressive Brevoy Houses"
 " – and it turns out that such relations can be very profitable."
 msgstr ""
-"조언가가 보낸 병력은 전쟁을 종식시키고, 강에 많은 순찰대를 파견해 평화를 구축했습니다. 상인들은 이제 강압적인 브레보이 가문들 대신 "
-"조언가의 병력과 함께 일하고 싶어합니다. 그리고 이런 관계가 더 많은 이익을 창출 할 수 있다는 사실이 밝혀졌습니다."
+"보좌관이 보낸 병력은 전쟁을 종식시키고, 강에 많은 순찰대를 파견해 평화를 구축했습니다. 상인들은 이제 강압적인 브레보이 가문들 대신 "
+"보좌관의 병력과 함께 일하고 싶어합니다. 그리고 이런 관계가 더 많은 이익을 창출 할 수 있다는 사실이 밝혀졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/WaterIsOurFields_Solutions.Entries.Array.data[4].Resolutions.Array.data[7].LocalizedDescription_String
 msgctxt "f8a14ed7-7d36-4576-91a7-203931e784c9"
@@ -19105,7 +19289,7 @@ msgid ""
 "party. Being known as a peacemaker has only a positive effect on one's fame "
 "and reputation."
 msgstr ""
-"조언가가 파견한 평화유지군은 질서를 확립하고 상업 전쟁을 종식 시켰습니다. 상인들은 제 3자의 보호를 받고 싶어합니다. 중재자로 알려진 "
+"보좌관이 파견한 평화유지군은 질서를 확립하고 상업 전쟁을 종식 시켰습니다. 상인들은 제 3자의 보호를 받고 싶어합니다. 중재자로 알려진 "
 "것은 명성와 평판에 좋은 영향을 끼칩니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/WaterIsOurFields_Solutions.Entries.Array.data[4].Resolutions.Array.data[8].LocalizedDescription_String
@@ -19129,7 +19313,7 @@ msgid ""
 "but the vessels managed to escape unharmed. No losses were sustained, but "
 "the fleet received no glory or loot either."
 msgstr ""
-"조언가가 보낸 함선들은 레베다 가문의 함대에 합세했습니다. 그들은 우리를 배신하고 로도브카의 공격에 희생시키려 했지만 모든 배들은 피해 "
+"보좌관이 보낸 함선들은 레베다 가문의 함대에 합세했습니다. 그들은 우리를 배신하고 로도브카의 공격에 희생시키려 했지만 모든 배들은 피해 "
 "없이 빠져나왔습니다. 비록 함대에 손실은 없었지만 어떤 성과도 올리지 못했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/BloodMoon/BloodMoon-1_Description
@@ -19455,8 +19639,8 @@ msgid ""
 "casting a spell to disperse the affliction, the blessed priest shared his "
 "knowledge with the other holy servants — and the invasion was ended."
 msgstr ""
-"몇 번의 치명적인 실패 끝에 {mf_HighPriest|고위 사제|고위 여사제}의 조수가 가까스로 괴물을 사로잡아 격렬한 분노의 원동력을"
-" 알아냈습니다. 그 축복받은 사제는 원인을 흩어버리는 주문을 성공적으로 시전한 뒤, 자신의 지식을 다른 독실한 사제들과 공유했습니다. "
+"몇 번의 치명적인 실패 끝에 {mf_HighPriest|대사제|고위 여사제}의 조수가 가까스로 괴물을 사로잡아 격렬한 분노의 원동력을 "
+"알아냈습니다. 그 축복받은 사제는 원인을 흩어버리는 주문을 성공적으로 시전한 뒤, 자신의 지식을 다른 독실한 사제들과 공유했습니다. "
 "침공은 끝났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/BloodMoon/BloodMoon-3_Solutions.Entries.Array.data[8].Resolutions.Array.data[0].LocalizedDescription
@@ -19650,7 +19834,7 @@ msgid ""
 "While the advisor's people waste precious time, innocent citizens continue "
 "to perish."
 msgstr ""
-"장관의 요원들은 퍼져나가는 수림을 억제할 어떤 방법도 찾지 못했습니다. 조언가의 부하들이 소중한 시간을 낭비하는 동안 무고한 시민들은 "
+"장관의 요원들은 퍼져나가는 수림을 억제할 어떤 방법도 찾지 못했습니다. 보좌관의 부하들이 소중한 시간을 낭비하는 동안 무고한 시민들은 "
 "계속해서 죽어가고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/BloodMoon/BloodMoon-5_Solutions.Entries.Array.data[9].Resolutions.Array.data[2].LocalizedDescription
@@ -19706,7 +19890,7 @@ msgid ""
 "and the advisor had no other ideas for reining in the Wild Hunt. The fey "
 "continue massacring citizens in the outskirts of the kingdom."
 msgstr ""
-"재무관은 쓸모없습니다: 페이는 물질적 보상에 대해 전혀 관심을 보이지 않으며, 조언자는 the Wild Hunt 를 상대할만한 어떤 "
+"재무관은 쓸모없습니다: 페이는 물질적 보상에 대해 전혀 관심을 보이지 않으며, 보좌관은 the Wild Hunt 를 상대할만한 어떤 "
 "아이디어도 없습니다. 페이는왕국의 외곽지역어세 계속 시민들을 학살합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/BloodMoon/BloodMoon-6_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription
@@ -19861,8 +20045,8 @@ msgid ""
 "the depths of the magic forest. Those who returned were left mute and "
 "shivering, while the woods themselves continue the assault."
 msgstr ""
-"그 마법의 숲 깊숙한 곳에서 오직 조언자가 파견한 팀들 중 소수의 전사들만이 살아 남았습니다. 돌아온 사람들은 입을 다물고 떨고 있었고,"
-" 숲은 공격을 계속했습니다. "
+"그 마법의 숲 깊숙한 곳에서 오직 보좌관이 파견한 팀들 중 소수의 전사들만이 살아 남았습니다. 돌아온 사람들은 입을 다물고 떨고 있었고, "
+"숲은 공격을 계속했습니다. "
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/BloodMoon/Shared_GeneralSuc_String
 msgctxt "87c3a130-449b-483d-998a-f3d4e6a1c964"
@@ -19872,7 +20056,7 @@ msgid ""
 "remaining harmless vegetation is a task for our cheerful wood-cutters, who "
 "have already enthusiastically begun their work."
 msgstr ""
-"조언자가 마법의 숲 깊숙이 파견한 팀은 포식자 및 기타 위험한 숲을 성공적으로 청소했습니다. 남은 무해한 식물을 없애는 일은 열정적으로 "
+"보좌관이 마법의 숲 깊숙이 파견한 팀은 포식자 및 기타 위험한 숲을 성공적으로 청소했습니다. 남은 무해한 식물을 없애는 일은 열정적으로 "
 "이미 일을 시작한 쾌활한 나무꾼이 해야 할 일입니다. "
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/BloodMoon/Shared_HilDiscussion_String
@@ -20583,7 +20767,7 @@ msgid ""
 "for the position. Perhaps next year, with the benefit of experience, the "
 "{mf|King|Queen} will be able to secure the title."
 msgstr ""
-"공허한 충성서약과 맹세들의 길고 진빠지는 교환 후, 조언자는 {mf|왕|여왕}을 그 자리에 추천하는데 완벽하게 실패했습니다. 그간의 "
+"공허한 충성서약과 맹세들의 길고 진빠지는 교환 후, 보좌관은 {mf|왕|여왕}을 그 자리에 추천하는데 완벽하게 실패했습니다. 그간의 "
 "경험을 통해 {mf|왕|여왕}은 아마 내년에는 그 자리를 차지할 수 있을 겁니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -20594,7 +20778,7 @@ msgid ""
 "series of well-placed bribes and ingenious political maneuvers, the position"
 " of Chairman of the Outlaw Council went easily to the {mf|King|Queen}."
 msgstr ""
-"조언자의 요원들이 성공적으로 협상을 했습니다. 몇 차례의 계산된 뇌물과 순수한 정치적 공작으로, 무법자 회의의 의장 자리는 "
+"보좌관의 요원들이 성공적으로 협상을 했습니다. 몇 차례의 계산된 뇌물과 순수한 정치적 공작으로, 무법자 회의의 의장 자리는 "
 "{mf|왕|여왕}.에게로 갔습니다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -20773,7 +20957,7 @@ msgid ""
 " better life, seeking a new home. Perhaps they will find happiness in the "
 "Stolen Lands."
 msgstr ""
-"정착민들의 캐러밴이 이 지역에 들어왔습니다. 이들은 더 나은 삶을 꿈꾸며, 새로운 보금자리를 찾고 있습니다. 어쩌면 그들은 이 "
+"정착민들의 짐마차가 이 지역에 들어왔습니다. 이들은 더 나은 삶을 꿈꾸며, 새로운 보금자리를 찾고 있습니다. 어쩌면 그들은 이 "
 "Stolen Lands에서 행복을 찾을 수 있을 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -20847,7 +21031,7 @@ msgid ""
 "today's problems will end in tomorrow's blessings. The villagers returned to"
 " their homes and crops."
 msgstr ""
-"조언자의 하인들은 오늘의 문제는 내일의 축복으로 끝날 거라고 사람들에게 확신을 주며 그대로 정착해있도록 응원했다. 마을 주민들은 그들의 "
+"보좌관의 하인들은 오늘의 문제는 내일의 축복으로 끝날 거라고 사람들에게 확신을 주며 그대로 정착해있도록 응원했다. 마을 주민들은 그들의 "
 "집과 작물이 있는 곳으로 돌아왔다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -20861,7 +21045,7 @@ msgid ""
 "The advisor managed to convince the people to stay, and struggle on for the "
 "good of their land! The advisor's words stirred the patriotism in their "
 "hearts."
-msgstr "조언자들은 사람들이 떠나지 않고 그들의 땅을 위해 노력하도록 확신시킬 수 있었다. 그의 말은 사람들의 애국심을 뒤흔들었다."
+msgstr "보좌관들은 사람들이 떠나지 않고 그들의 땅을 위해 노력하도록 확신시킬 수 있었다. 그의 말은 사람들의 애국심을 뒤흔들었다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck2/Fugitives_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription_String
@@ -20869,7 +21053,7 @@ msgctxt "45765fc2-32a4-4a9e-aa90-067f9d0598fa"
 msgid ""
 "The advisor's servants couldn't reassure the people, and they decided to "
 "abandon their homes and seek happiness in foreign lands."
-msgstr "조언가의 부하들은 사람들에게 확신을 줄 수 없었다. 그들은 그들의 집을 떠나 다른 곳으로 행복을 찾아 떠나기로 결정했다."
+msgstr "보좌관의 부하들은 사람들에게 확신을 줄 수 없었다. 그들은 그들의 집을 떠나 다른 곳으로 행복을 찾아 떠나기로 결정했다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck2/Fugitives_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription
@@ -20903,7 +21087,7 @@ msgid ""
 "the threat of force, but didn't risk engaging in a fight with the armed "
 "guardsmen. Humbled, they returned to work."
 msgstr ""
-"공포를 퍼뜨리는 자들이 도망치는 것을 막고 다시금 일터로 돌려보내라는 명령을 받은 경비병들에 의해서 피난민들의 캐러밴은 막혔습니다. "
+"공포를 퍼뜨리는 자들이 도망치는 것을 막고 다시금 일터로 돌려보내라는 명령을 받은 경비병들에 의해서 피난민들의 짐마차는 막혔습니다. "
 "사람들은 폭력의 공포에 질렸지만, 무장한 경비대원들과 싸우는 모험을 하진 않았습니다. 초라하게 그들은 일터로 돌아갔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -20938,7 +21122,7 @@ msgid ""
 "fingers. But once he was sure he'd robbed everyone he could, the mischievous"
 " fey disappeared."
 msgstr ""
-"조언가의 부하들은 끝내 도박꾼을 내쫒을 수 있었지만, 조금 늦은 것 같습니다. 그는 몇번이고 감시자들의 손아귀를 빠져나갔고, 결국 그 "
+"보좌관의 부하들은 끝내 도박꾼을 내쫒을 수 있었지만, 조금 늦은 것 같습니다. 그는 몇번이고 감시자들의 손아귀를 빠져나갔고, 결국 그 "
 "짖궃은 페이가 사라진 것은 사람들로부터 털 만큼 털었다고 생각한 뒤였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -20951,7 +21135,7 @@ msgid ""
 "won, and called for a rebellion against tyranny. The peasants have begun to "
 "listen to his words."
 msgstr ""
-"그 페이는 주민들이 모아둔 재산을 모조리 털어버렸습니다. 조언가의 부하들이 몇번이나 그의 목숨을 노렸으나, 이는 단지 그를 화나게 "
+"그 페이는 주민들이 모아둔 재산을 모조리 털어버렸습니다. 보좌관의 부하들이 몇번이나 그의 목숨을 노렸으나, 이는 단지 그를 화나게 "
 "만들었을 뿐이었습니다. 그 페이는 자신이 따낸 돈을 뿌리는 집회를 열어 폭군을 타도해야 한다며 반란을 유도했습니다. 농민들이 그의 말에 "
 "동조하기 시작했습니다."
 
@@ -20964,7 +21148,7 @@ msgid ""
 " left the region, but not before he cleaned out the pockets of all the local"
 " citizens."
 msgstr ""
-"조언가의 부하들은 그 페이를 내쫒으려했지만 그 시도는 실패로 돌아갔습니다. 도박꾼은 용병을 고용해 자기를 지킴과 동시에 경비병을 두들겨 "
+"보좌관의 부하들은 그 페이를 내쫒으려했지만 그 시도는 실패로 돌아갔습니다. 도박꾼은 용병을 고용해 자기를 지킴과 동시에 경비병을 두들겨 "
 "패도록 명령했습니다! 결국 그 페이가 이 지역을 떠난 것은 주민들의 모든 호주머니가 깨끗하게 털린 이후였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -20983,8 +21167,7 @@ msgctxt "0d05324e-271d-4368-8136-45b5e3bcded4"
 msgid ""
 "The advisor's people captured the fey in the act, confiscated his gold and "
 "drove him out of the {mf|barony|barony|kingdom|kingdom}."
-msgstr ""
-"조언가가 보낸 사람들이 그 페이를 현장에서 잡았고 그의 금을 몰수한 다음 그를 {mf|남작령|남작령|왕국|왕국}에서 추방했다."
+msgstr "보좌관이 보낸 사람들이 그 페이를 현장에서 잡았고 그의 금을 몰수한 다음 그를 {mf|남작령|남작령|왕국|왕국}에서 추방했다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck2/Gambler_LocalizedDescription
@@ -21019,7 +21202,7 @@ msgid ""
 "at full gallop. Now the local population can return to their lives, "
 "untroubled by tricksters."
 msgstr ""
-"조언가가 보낸 사람들은 도박사를 쫓아 지역 전체를 질주했다. 이제 지역주민들은 사기꾼들에게 시달리지 않은 채 그들의 삶으로 돌아왔다."
+"보좌관이 보낸 사람들은 도박사를 쫓아 지역 전체를 질주했다. 이제 지역주민들은 사기꾼들에게 시달리지 않은 채 그들의 삶으로 돌아왔다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck2/Herbalists_LocalizedDescription
@@ -21054,7 +21237,7 @@ msgctxt "e6dac61b-86d2-4824-8db1-d10ea66c9885"
 msgid ""
 "The advisor failed to come to terms with the foreign dealers, and the deal "
 "soured."
-msgstr "조언가는 외부 상인들과 협약을 맺는 데 실패했고 거래도 무산됐다."
+msgstr "보좌관은 외부 상인들과 협약을 맺는 데 실패했고 거래도 무산됐다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck2/Herbalists_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription_String
@@ -21074,7 +21257,7 @@ msgid ""
 " the news spread like fire. More fortune hunters have already arrived, "
 "seeking their fortune, and bringing profit to the treasury."
 msgstr ""
-"조언자는 그 소식이 불처럼 번질 정도로 정교하고 상호 이익이 되는 거래를 흥정해냈습니다. 더 많은 이미 행운 사냥꾼들이 행운을 "
+"보좌관은 그 소식이 불처럼 번질 정도로 정교하고 상호 이익이 되는 거래를 흥정해냈습니다. 더 많은 이미 행운 사냥꾼들이 행운을 "
 "찾아다니고, 국고에 이익을 가져다주었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -21114,7 +21297,7 @@ msgctxt "3d08a541-d0e7-4b29-bc1f-3744cab66679"
 msgid ""
 "The advisor was competent enough to organize the construction. Not a single "
 "coin was pilfered or wasted."
-msgstr "조언가는 건축을 진행하기에 충분한 능력이 있었다. 단 한푼도 빼돌려지거나 낭비되지 않았다."
+msgstr "보좌관은 건축을 진행하기에 충분한 능력이 있었다. 단 한푼도 빼돌려지거나 낭비되지 않았다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck2/UnexpectedFind_LocalizedDescription
@@ -21144,7 +21327,7 @@ msgctxt "0bea92e5-0a0f-4337-9982-f7a1b08b05b4"
 msgid ""
 "The advisor persuaded them to hand over the unique discovery. After all, "
 "it's an integral part of the land's cultural heritage."
-msgstr "조언가는 그들의 특별한 발견을 건네주도록 설득했다. 결국, 그것은 이 땅의 문화적 유산의 일부이다."
+msgstr "보좌관은 그들의 특별한 발견을 건네주도록 설득했다. 결국, 그것은 이 땅의 문화적 유산의 일부이다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck2/UnexpectedFind_Solutions.Entries.Array.data[9].Resolutions.Array.data[0].LocalizedDescription
@@ -21208,8 +21391,8 @@ msgid ""
 "{mf|barony|barony|kingdom|kingdom}. His work will surely promote the magical"
 " arts in these lands."
 msgstr ""
-"과학자는 조언자의 제안을 받아들여 {mf|남작령|남작령|왕국|왕국}을 원조키로 하였습니다. 그의 작업은 이 땅의 마법 기술에 대해 분명한"
-" 진보를 만들 것입니다."
+"과학자는 보좌관의 제안을 받아들여 {mf|남작령|남작령|왕국|왕국}을 원조키로 하였습니다. 그의 작업은 이 땅의 마법 기술에 대해 분명한 "
+"진보를 만들 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck3/BattlePriests_LocalizedDescription
@@ -21426,7 +21609,7 @@ msgid ""
 "The advisor's agents could not persuade the peasants to end their rebellion."
 " The affected area is growing. Perhaps stricter measures are in order."
 msgstr ""
-"조언가의 요원들은 농민들이 그들의 반란을 멈추도록 설득할 수 없었다. 반란의 영향을 받는 지역이 점점 넓어지고 있다. 아마 더 엄격한 "
+"보좌관의 요원들은 농민들이 그들의 반란을 멈추도록 설득할 수 없었다. 반란의 영향을 받는 지역이 점점 넓어지고 있다. 아마 더 엄격한 "
 "조치가 필요할지도 모른다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -21450,7 +21633,7 @@ msgid ""
 "filled with a desire to prove their loyalty and redeem themselves in the "
 "eyes of their {mf|baron|baroness|King|Queen}."
 msgstr ""
-"외국의 첩자가 그 반란의 아이디어를 퍼트렸다는 것이 조언가의 조사로 밝혀졌다. 범인은 체포되었다. 사람들은 그들이 조종당했음을 알고는 "
+"외국의 첩자가 그 반란의 아이디어를 퍼트렸다는 것이 보좌관의 조사로 밝혀졌다. 범인은 체포되었다. 사람들은 그들이 조종당했음을 알고는 "
 "그들의 하찮은 반란을 뉘우쳤다. 그들은 이제 충성심을 증명하고 {남작|남작|왕|여왕}의 눈에 다시 들어오려는 열망으로 가득 차 있다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -21461,7 +21644,7 @@ msgid ""
 "submission. The instigators were rooted out and arrested. It turned out that"
 " the trouble was started by a gang of outlaws who'd been prowling the roads."
 msgstr ""
-"조언가의 사람들은 정착지를 점령하고 정착민들을 굴복시켰습니다. 주동자는 발각되어 체포되었습니다. 이는 도로를 어슬렁거리던 무법자 집단의 "
+"보좌관의 사람들은 정착지를 점령하고 정착민들을 굴복시켰습니다. 주동자는 발각되어 체포되었습니다. 이는 도로를 어슬렁거리던 무법자 집단의 "
 "소행인 것으로 밝혀졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -21493,7 +21676,7 @@ msgid ""
 "rioting. They agreed to pay their taxes and obey the law, and returned to "
 "work."
 msgstr ""
-"조언가의 대사는 사람들이 폭동에 대한 생각을 포기하도록 설득했다. 그들은 세금을 내고 법을 따르는 것에 동의했고, 일자리로 돌아갔다."
+"보좌관의 대사는 사람들이 폭동에 대한 생각을 포기하도록 설득했다. 그들은 세금을 내고 법을 따르는 것에 동의했고, 일자리로 돌아갔다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck3/Freethinkers_S_NE_String
@@ -21501,7 +21684,7 @@ msgctxt "0167133a-5829-4b88-aed3-2019d72323ef"
 msgid ""
 "The advisor's servants forced the peasants into obedience. The instigators "
 "were punished by flogging, while the others were shown to their work."
-msgstr "조언가의 부하들은 그 농민들에게 복종을 강요했다. 주동자들은 채찍형에 처했고, 나머지는 일터로 돌아갔다."
+msgstr "보좌관의 부하들은 그 농민들에게 복종을 강요했다. 주동자들은 채찍형에 처했고, 나머지는 일터로 돌아갔다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck3/GrimDiviner_LocalizedDescription
@@ -21530,7 +21713,7 @@ msgid ""
 "people to build a new house. The people pulled together, and came to see "
 "that they could face together any disaster that the future might bring."
 msgstr ""
-"어두운 예언이 실현되었다. 한 농민의 집이 한밤중에 불에 타버렸다. 조언가는 사제를 파견해 사람들이 새 집을 지을 수 있도록 했다. "
+"어두운 예언이 실현되었다. 한 농민의 집이 한밤중에 불에 타버렸다. 보좌관은 사제를 파견해 사람들이 새 집을 지을 수 있도록 했다. "
 "사람들은 힘을 합쳤고, 미래가 가져 올 어떤 재앙에도 함께 직면해낼 수 있음을 알게 되었다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -21542,7 +21725,7 @@ msgid ""
 "and proved that one can overcome any predestined obstacles, if one trusts in"
 " the gods and worships them."
 msgstr ""
-"어두운 예언이 실현되었다. 한 나무꾼이 떨어지는 나무에 의해 부상당했다. 조언가에 의해 파견된 사제가 그 가여운 사람을 치유했고, "
+"어두운 예언이 실현되었다. 한 나무꾼이 떨어지는 나무에 의해 부상당했다. 보좌관에 의해 파견된 사제가 그 가여운 사람을 치유했고, "
 "누구든지 신을 믿고 경배한다면 어떤 숙명적인 장애물도 극복해낼 수 있음을 보였다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -21778,7 +21961,7 @@ msgid ""
 "The people greatly appreciated the much-needed gold – as well as the fact "
 "that the money wasn't embezzled by the government."
 msgstr ""
-"조언자의 사람들은 단 한푼도 도둑맞거나 낭비되지 않았다는 것을 확실히 했습니다. 사람들은 그들에게 꼭 필요했던 돈과 정부가 그것을 "
+"보좌관의 사람들은 단 한푼도 도둑맞거나 낭비되지 않았다는 것을 확실히 했습니다. 사람들은 그들에게 꼭 필요했던 돈과 정부가 그것을 "
 "횡령하지 않았다는 사실에 감사했습니다. "
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -21788,7 +21971,7 @@ msgid ""
 "The advisor failed to obtain the rich man's money. He sensed deceit and "
 "decided that he'd rather spend the money as he saw fit."
 msgstr ""
-"조언자는 부자의 돈을 얻는데 실패했습니다. 그는 속임수를 느꼈고, 그가 필요하다고 생각하는 만큼의 돈만 지불하는 것을 선택했습니다."
+"보좌관은 부자의 돈을 얻는데 실패했습니다. 그는 속임수를 느꼈고, 그가 필요하다고 생각하는 만큼의 돈만 지불하는 것을 선택했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck4/Confession_GF_E_String
@@ -21798,7 +21981,7 @@ msgid ""
 "man uncovered the deception and refused to donate the gold. The hypocrisy "
 "has made the people furious."
 msgstr ""
-"조언자는 구호기금을 횡령하려 하지 말았어야 했습니다. 부자는 속임수를 깨달았고 기부를 철회했습니다. 그러한 위선은 사람들을 화나게 "
+"보좌관은 구호기금을 횡령하려 하지 말았어야 했습니다. 부자는 속임수를 깨달았고 기부를 철회했습니다. 그러한 위선은 사람들을 화나게 "
 "했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -21845,7 +22028,7 @@ msgid ""
 "The advisor's servants failed to convince the mage to stay. He dreams of the"
 " glory that his invention will bring him in Absalom."
 msgstr ""
-"조언가의 가신들은 그 마법사가 머물게끔 설득하는데 실패했습니다. 그는 그의 발명품 덕분에 다시 암살롬으로 돌아갈 영예를 꿈꾸고 있습니다."
+"보좌관의 가신들은 그 마법사가 머물게끔 설득하는데 실패했습니다. 그는 그의 발명품 덕분에 다시 암살롬으로 돌아갈 영예를 꿈꾸고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck4/Eureka_Solutions.Entries.Array.data[1].Resolutions.Array.data[1].LocalizedDescription_String
@@ -21854,8 +22037,8 @@ msgid ""
 "The advisor's servants came to an agreement with the mage. His discovery now"
 " belongs to the local mages, and they are studying it with great interest."
 msgstr ""
-"조언가의 가신들은 그 마법사의 동의를 얻었습니다. 그가 발견한 것들은 이제 영지 내 마법사들에게 속할 것이며, 그들은 이를 매우 흥미롭게"
-" 연구중입니다."
+"보좌관의 가신들은 그 마법사의 동의를 얻었습니다. 그가 발견한 것들은 이제 영지 내 마법사들에게 속할 것이며, 그들은 이를 매우 흥미롭게 "
+"연구중입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck4/Giants_LocalizedDescription
@@ -21883,7 +22066,7 @@ msgid ""
 " canals. However, they turned out to be too clumsy and foolish, and their "
 "job caused more damage than good. They were fired in dismay."
 msgstr ""
-"그들은 조언가의 제안을 수락했고, 나무를 베고 운하를 파는 일에 고용되었습니다. 그러나 그들은 너무 서투르고 멍청한 것으로 밝혀졌고, "
+"그들은 보좌관의 제안을 수락했고, 나무를 베고 운하를 파는 일에 고용되었습니다. 그러나 그들은 너무 서투르고 멍청한 것으로 밝혀졌고, "
 "그들의 일은 이득보다는 피해를 더 많이 주었습니다. 그들은 실망 속에 해고당했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -21894,7 +22077,7 @@ msgid ""
 "day – and couldn't destroy everything, or take away the little people's "
 "things. They left for foreign lands."
 msgstr ""
-"거인들은 조언가의 제안에 난색을 표했습니다. 그들은 매일같이 일해야 하고, 아무것도 파괴할 수 없는데다가, 작은 사람들의 물건을 빼앗을 "
+"거인들은 보좌관의 제안에 난색을 표했습니다. 그들은 매일같이 일해야 하고, 아무것도 파괴할 수 없는데다가, 작은 사람들의 물건을 빼앗을 "
 "수도 없었습니다. 그들은 외국으로 떠났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -21905,7 +22088,7 @@ msgid ""
 "hired to chop down trees and dig canals. The mighty and obedient workers are"
 " greatly contributing to the success of the region."
 msgstr ""
-"조언가는 필요 사항을 확실하게 설명할 수 있었습니다. 그들은 나무를 자르고 운하를 파기 위해 고용되었습니다. 이 강력하고 순종적인 "
+"보좌관은 필요 사항을 확실하게 설명할 수 있었습니다. 그들은 나무를 자르고 운하를 파기 위해 고용되었습니다. 이 강력하고 순종적인 "
 "일꾼들은 이 지역의 성공에 크게 기여했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -22050,7 +22233,7 @@ msgid ""
 "pacify the troublemakers. The people saw only weakness in the "
 "{mf|baron's|baroness'|King's|Queen's} toothless response."
 msgstr ""
-"파괴자들은 자신들을 진정시키려 했던 조언자의 연설을 되려 조롱했습니다. 사람들은 {mf|남작|여남작|왕|여왕}의 무력한 대응에서 "
+"파괴자들은 자신들을 진정시키려 했던 보좌관의 연설을 되려 조롱했습니다. 사람들은 {mf|남작|여남작|왕|여왕}의 무력한 대응에서 "
 "나약함만을 봤을 뿐입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -22059,8 +22242,7 @@ msgctxt "d4b1bf3d-a0fc-4d22-94cc-4fbcd6d3a0f9"
 msgid ""
 "The Councilor failed to persuade the troublemakers to end their mischief. "
 "They continue showing disrespect and inciting others."
-msgstr ""
-"말썽꾼들의 장난을 끝내기 위한 조언자의 설득은 실패했습니다. 그들은 계속해서 다른 사람들을 선동하고 무례한 행동을 일삼았습니다."
+msgstr "말썽꾼들의 장난을 끝내기 위한 보좌관의 설득은 실패했습니다. 그들은 계속해서 다른 사람들을 선동하고 무례한 행동을 일삼았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck4/VagueThoughts_Solutions.Entries.Array.data[1].Resolutions.Array.data[2].LocalizedDescription
@@ -22069,7 +22251,7 @@ msgid ""
 "The Councilor silenced the troublemakers with numerous penalties. With every"
 " insulting tune costing them gold, they soon turned to safer topics."
 msgstr ""
-"조언자는 많은 양의 벌금으로 말썽꾼들을 침묵시켰습니다. 모든 모욕적인 노래에 벌금이 부과되자, 그들은 이내 온건한 주제로 돌아갔습니다."
+"보좌관은 많은 양의 벌금으로 말썽꾼들을 침묵시켰습니다. 모든 모욕적인 노래에 벌금이 부과되자, 그들은 이내 온건한 주제로 돌아갔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck4/VagueThoughts_Solutions.Entries.Array.data[1].Resolutions.Array.data[3].LocalizedDescription
@@ -22080,7 +22262,7 @@ msgid ""
 "vandals were taught not to ridicule the authorities. Even the criminals are "
 "acting more carefully now."
 msgstr ""
-"조언자와 백성들은 합의점에 도달할 수 있었습니다. 사람들은 극도로 사소한 파괴행위라고 할지라도 모두에게 해로울 수 있음을 깨달았습니다. "
+"보좌관과 백성들은 합의점에 도달할 수 있었습니다. 사람들은 극도로 사소한 파괴행위라고 할지라도 모두에게 해로울 수 있음을 깨달았습니다. "
 "파괴자들은 당국을 우습게 보지 않게끔 교육받았습니다. 이제는 범죄자들마저도 더 조심스럽게 처신하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -22195,7 +22377,7 @@ msgid ""
 "of some of them. For now the monsters are quiet, and there's only an "
 "occasional raid of a settlement or a missing caravan."
 msgstr ""
-"우리 전사들이 모든 괴물을 처리하지는 못했지만 최소한 몇몇 괴물을 죽일 수 있었습니다. 현재 괴물들은 조용하고, 정착지 습격이나 캐러밴 "
+"우리 전사들이 모든 괴물을 처리하지는 못했지만 최소한 몇몇 괴물을 죽일 수 있었습니다. 현재 괴물들은 조용하고, 정착지 습격이나 짐마차 "
 "실종이 가끔씩 일어날 뿐입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -22223,7 +22405,7 @@ msgctxt "9c89ad36-862a-423d-a6a2-de81560177af"
 msgid ""
 "The advisor found the offer unacceptable, and the druid was driven from the "
 "country. – But not every subject approves of this decision…"
-msgstr "조언가는 그 제안을 거절했고 드루이드는 나라에서 쫓겨났다. 하지만 모든 이들이 이 결정에 찬성하는 것은 아닙니다."
+msgstr "보좌관은 그 제안을 거절했고 드루이드는 나라에서 쫓겨났다. 하지만 모든 이들이 이 결정에 찬성하는 것은 아닙니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck4/WickerMan_F_NE_String
@@ -22244,7 +22426,7 @@ msgid ""
 "of the country. In revenge, the malicious druid used his sorcery to ruin the"
 " harvest."
 msgstr ""
-"조언가는 드루이드의 핏빛 의식을 거절했고, 그는 나라 밖으로 쫓겨났습니다. 악의에 찬 드루이드는 그에 대한 복수로 주술을 사용해 추수를 "
+"보좌관은 드루이드의 핏빛 의식을 거절했고, 그는 나라 밖으로 쫓겨났습니다. 악의에 찬 드루이드는 그에 대한 복수로 주술을 사용해 추수를 "
 "망쳤습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -22348,7 +22530,7 @@ msgid ""
 "declared traitors and mutineers. The people were outraged to hear this. Now "
 "many taverns forbid entrance to soldiers and other servants of the crown."
 msgstr ""
-"조언가의 부하는 군인과의 도발이나 충돌을 금지한다고 공개적으로 발표했습니다. 병사들에게 보복을 가한 사람들은 반역자나 폭도로 "
+"보좌관의 부하는 군인과의 도발이나 충돌을 금지한다고 공개적으로 발표했습니다. 병사들에게 보복을 가한 사람들은 반역자나 폭도로 "
 "선언되었습니다. 사람들은 이 소식에 분노하고 있습니다. 많은 수의 선술집이 이제 병사나 궁정 하인의 출입을 금지하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -22361,7 +22543,7 @@ msgid ""
 "off their bloody faces and agreed that the ruler's servants are more "
 "privileged than the rabble."
 msgstr ""
-"조언가의 부하는 병사들에게 말을 걸어, 그들이 결속하여 농민들에게 본때를 보여주도록 격려했습니다. 바로 그 날 밤, 병사들은 모든 "
+"보좌관의 부하는 병사들에게 말을 걸어, 그들이 결속하여 농민들에게 본때를 보여주도록 격려했습니다. 바로 그 날 밤, 병사들은 모든 "
 "선술집에 나타나 동네 건달들을 짓눌렀습니다. 사람들은 피묻은 얼굴을 닦아내고는 통치자를 섬기는 이들이 대중보다 더 특권층이라는 것을 "
 "인정했습니다."
 
@@ -22374,7 +22556,7 @@ msgid ""
 "explained to the rabble that the country's military must be respected. The "
 "lesson was learned, and the people were humbled."
 msgstr ""
-"농민들은 계속해서 병사들을 괴롭혔지만, 갑자기 조언가의 경호원들이 나타나 병사들을 구했습니다. 병사들과 나란히 선 채, 그들은 군중에게 "
+"농민들은 계속해서 병사들을 괴롭혔지만, 갑자기 보좌관의 경호원들이 나타나 병사들을 구했습니다. 병사들과 나란히 선 채, 그들은 군중에게 "
 "나라의 군대는 존중받아야 한다고 설명했습니다. 가르침을 받고, 군중은 겸손해졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -22387,7 +22569,7 @@ msgid ""
 "wander the city in large groups and challenge the townsfolk, showing their "
 "superiority."
 msgstr ""
-"조언가의 부하는 병사들에게 시민을 괴롭히는 것을 중단하도록 (길고 지루한 강의를 통해) 요청했습니다. 병사들은 당국이 그들을 지원하지 "
+"보좌관의 부하는 병사들에게 시민을 괴롭히는 것을 중단하도록 (길고 지루한 강의를 통해) 요청했습니다. 병사들은 당국이 그들을 지원하지 "
 "않는 것에 짜증을 내며, 큰 무리를 지어 도시를 돌아다니며 주민들에게 싸움을 걸며 그들의 우월성을 보이기 시작했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -22399,8 +22581,8 @@ msgid ""
 "placed on indefinite duty. It was explained to all soldiers that military "
 "service doesn't grant them the right to harass the ordinary citizens!"
 msgstr ""
-"조언가의 부하는 군영에 도착해 모든 관련자들을 처벌했습니다. 말썽꾼들은 휴가를 반납당하고 무기한 복무를 하게 되었습니다. 모든 병사들에게"
-" 군인으로 복무하는 것이 일반 시민을 괴롭힐 권리를 부여하지 않는다고 설명했습니다!"
+"보좌관의 부하는 군영에 도착해 모든 관련자들을 처벌했습니다. 말썽꾼들은 휴가를 반납당하고 무기한 복무를 하게 되었습니다. 모든 병사들에게 "
+"군인으로 복무하는 것이 일반 시민을 괴롭힐 권리를 부여하지 않는다고 설명했습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck5/MilitaryOutrage_Solutions.Entries.Array.data[1].Resolutions.Array.data[5].LocalizedDescription_String
@@ -22443,9 +22625,9 @@ msgid ""
 "demands so closely, as their respect for the authorities has lowered even "
 "further. The people feel sure that they can get away with any disobedience."
 msgstr ""
-"조언가의 부하들은 재판 없이 시장을 제거했고, 사람들은 안심시키려고 시도했습니다. 그들은 아마 그렇게 쉽게 폭도들의 제안을 수용하지 "
-"말았어야 했는지도 모릅니다. 당국의 권위는 훨씬 더 많이 추락하게 되었고, 사람들은 어떠한 불복종도 처벌 없이 넘어갈 수 있다고 확신하고"
-" 있습니다."
+"보좌관의 부하들은 재판 없이 시장을 제거했고, 사람들은 안심시키려고 시도했습니다. 그들은 아마 그렇게 쉽게 폭도들의 제안을 수용하지 "
+"말았어야 했는지도 모릅니다. 당국의 권위는 훨씬 더 많이 추락하게 되었고, 사람들은 어떠한 불복종도 처벌 없이 넘어갈 수 있다고 확신하고 "
+"있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck5/PeoplesRage_Solutions.Entries.Array.data[1].Resolutions.Array.data[1].LocalizedDescription_String
@@ -22455,8 +22637,8 @@ msgid ""
 "appointed a successor, thus showing that justice always prevails. The new "
 "mayor might be more honest and efficient than his predecessor."
 msgstr ""
-"조언가의 부하들은 조사를 실시하고, 사장을 처벌하고, 후계자를 임명함으로써 정의가 언제나 승리한다는 것을 보여줬습니다. 새 시장은 아마도"
-" 전임자보다 더 정직하고 능률적일 것입니다."
+"보좌관의 부하들은 조사를 실시하고, 사장을 처벌하고, 후계자를 임명함으로써 정의가 언제나 승리한다는 것을 보여줬습니다. 새 시장은 아마도 "
+"전임자보다 더 정직하고 능률적일 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck5/PeoplesRage_Solutions.Entries.Array.data[1].Resolutions.Array.data[2].LocalizedDescription_String
@@ -22467,8 +22649,8 @@ msgid ""
 "given to an honorable man of the people. The community is satisfied that it "
 "is being led by someone they trust."
 msgstr ""
-"조언가의 부하들은 조사를 실시하고 사장을 제거했습니다. 그의 재산은 그가 배신했던 공동체로 넘어갔습니다. 시장의 직책은 그들 중 명예로운"
-" 이에게 주어졌습니다. 공동체는 그들이 신뢰하는 사람이 통치하는 것에 만족했습니다."
+"보좌관의 부하들은 조사를 실시하고 사장을 제거했습니다. 그의 재산은 그가 배신했던 공동체로 넘어갔습니다. 시장의 직책은 그들 중 명예로운 "
+"이에게 주어졌습니다. 공동체는 그들이 신뢰하는 사람이 통치하는 것에 만족했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck5/PeoplesRage_Solutions.Entries.Array.data[1].Resolutions.Array.data[3].LocalizedDescription_String
@@ -22479,7 +22661,7 @@ msgid ""
 "overthrown by the rabble. This enraged the people and prompted even worse "
 "rioting."
 msgstr ""
-"조언가의 부하들은 이 지역에 도착해 폭도들을 가혹하게 처단했습니다. 시장은 직책을 유지했습니다. 군주에 의해 임명되었기 때문에, 그는 "
+"보좌관의 부하들은 이 지역에 도착해 폭도들을 가혹하게 처단했습니다. 시장은 직책을 유지했습니다. 군주에 의해 임명되었기 때문에, 그는 "
 "군중에 의해 실각되지 않았습니다. 이에 사람들은 분노했고 심지어는 더 큰 폭동을 일으켰습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -22491,8 +22673,8 @@ msgid ""
 "maintained his position. The peasants were shamed, and they apologized and "
 "returned to work."
 msgstr ""
-"조언가의 부하들은 이 지역에 도착해 재판을 집행했습니다. 시장은 어쩌면 유죄일지도 모르지만 혐의는 확인되지 않았고, 그의 직책을 유지하게"
-" 되었습니다. 군중들은 부끄러움에 사과하고 일터로 돌아갔다."
+"보좌관의 부하들은 이 지역에 도착해 재판을 집행했습니다. 시장은 어쩌면 유죄일지도 모르지만 혐의는 확인되지 않았고, 그의 직책을 유지하게 "
+"되었습니다. 군중들은 부끄러움에 사과하고 일터로 돌아갔다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck5/PeoplesRage_Solutions.Entries.Array.data[1].Resolutions.Array.data[5].LocalizedDescription_String
@@ -22505,8 +22687,8 @@ msgid ""
 "involved in the outcry was charged a hefty penalty – as a reminder to all "
 "that the law must be obeyed."
 msgstr ""
-"조언가의 부하들은 시장에 대한 비난이, 스스로 시장이 되고자 하는 질투심 많은 사람에 의해 고안된 비방일 뿐이라는 것을 발견했습니다. 그"
-" 비난 가운데 어떤 진실이 밝혀지든 간에, 적절한 판단은 분명했습니다. 범인은 가혹하게 처벌받았고, 법은 반드시 지켜야 한다는 것을 "
+"보좌관의 부하들은 시장에 대한 비난이, 스스로 시장이 되고자 하는 질투심 많은 사람에 의해 고안된 비방일 뿐이라는 것을 발견했습니다. 그 "
+"비난 가운데 어떤 진실이 밝혀지든 간에, 적절한 판단은 분명했습니다. 범인은 가혹하게 처벌받았고, 법은 반드시 지켜야 한다는 것을 "
 "보여주기 위해 항쟁에 연루된 모든 사람들은 무거운 벌칙을 부과받았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -22547,9 +22729,9 @@ msgid ""
 " poverty. They filled the streets once again, although at least now they "
 "avoid encroaching on the property of churches and temples."
 msgstr ""
-"조언가는 빈민들을 사제들이 설치한 피난처로 옮기는 데 성공했습니다. 각 피난처는 거칠고, 성격 나쁘고, 손속이 빠른 사제가 이끌었습니다."
-" 빈민들은 그들의 가난하고 자유로운 삶을 그리워하며 재빨리 탈출했습니다. 빈민들은 다시 거리를 가득 채웠지만, 적어도 이제 교회와 사원의"
-" 재산을 낭비하지는 않게 되었습니다."
+"보좌관은 빈민들을 사제들이 설치한 피난처로 옮기는 데 성공했습니다. 각 피난처는 거칠고, 성격 나쁘고, 손속이 빠른 사제가 이끌었습니다. "
+"빈민들은 그들의 가난하고 자유로운 삶을 그리워하며 재빨리 탈출했습니다. 빈민들은 다시 거리를 가득 채웠지만, 적어도 이제 교회와 사원의 "
+"재산을 낭비하지는 않게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck5/SlumInhabitants_F_N_String
@@ -22689,7 +22871,7 @@ msgid ""
 "returned to their rightful owners. Word is spreading about this region's "
 "excellent reputation."
 msgstr ""
-"조언가는 강기슭을 확보한 뒤 지역 시장들에게 모든 물품이 정부에 의해 회수되어 체계적으로 목록화된 후, 정당한 주인에게 반환될 것이라고 "
+"보좌관은 강기슭을 확보한 뒤 지역 시장들에게 모든 물품이 정부에 의해 회수되어 체계적으로 목록화된 후, 정당한 주인에게 반환될 것이라고 "
 "경고했습니다. 이 지역의 훌륭한 평판에 대한 이야기가 퍼지고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -22701,7 +22883,7 @@ msgid ""
 "all the goods would be recovered from their villages' property. It worked, "
 "and nothing went missing."
 msgstr ""
-"조언가는 모든 물품을 정리해 국고로 이송했습니다. 이전 소유자들은 그것을 탐탁치 않게 여겼지만, 지역 시장들에게 물건에 손댔다가는 마을 "
+"보좌관은 모든 물품을 정리해 국고로 이송했습니다. 이전 소유자들은 그것을 탐탁치 않게 여겼지만, 지역 시장들에게 물건에 손댔다가는 마을 "
 "재산에서 환수할 거라고 경고했습니다. 경고는 효과적이었고, 아무도 물건에 손대지 않았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -22725,8 +22907,8 @@ msgid ""
 "stolen by the light-fingered villagers, because guards were never dispatched"
 " to secure the site."
 msgstr ""
-"조언가는 하인들을 보내 물품을 수집하고 정당한 소유주에게 분배하도록 했습니다. 불행하게도, 현장을 보호하기 위한 경비대가 파견되지 않았기"
-" 때문에, 손버릇 나쁜 주민들이 대부분의 물품을 훔쳐갔습니다."
+"보좌관은 하인들을 보내 물품을 수집하고 정당한 소유주에게 분배하도록 했습니다. 불행하게도, 현장을 보호하기 위한 경비대가 파견되지 않았기 "
+"때문에, 손버릇 나쁜 주민들이 대부분의 물품을 훔쳐갔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck5/StrangersProblem_F_N_String
@@ -22737,7 +22919,7 @@ msgid ""
 "never dispatched to secure the site. A declaration alone was not enough to "
 "contain the greed of the rabble."
 msgstr ""
-"조언가의 부하들은 물품을 되찾아 국고에 예치하려 했습니다. 불행하게도, 현장을 보호하기 위한 경비대가 파견되지 않았기 때문에 대부분의 "
+"보좌관의 부하들은 물품을 되찾아 국고에 예치하려 했습니다. 불행하게도, 현장을 보호하기 위한 경비대가 파견되지 않았기 때문에 대부분의 "
 "물품은 도둑맞았다. 선언만으로는 군중의 탐욕을 억제할 수 없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -22765,7 +22947,7 @@ msgid ""
 "annoyed because their \"right to salvage\" was violated, which changed the "
 "way of life for many coast-dwellers."
 msgstr ""
-"조언가는 강기슭의 물품을 확보하고 그것들을 정당한 주인에게 돌려주고, 경비대를 투입해 기회주의적 사기꾼들을 내쫓으라고 명령했습니다. "
+"보좌관은 강기슭의 물품을 확보하고 그것들을 정당한 주인에게 돌려주고, 경비대를 투입해 기회주의적 사기꾼들을 내쫓으라고 명령했습니다. "
 "몇몇은 난파선을 방어하는 중 두들겨 맞았습니다. 주민들은 그들의 \"인양권\"을 침해하여 많은 해안 거주민들의 삶의 방식을 바꿔버린 것에 "
 "분노했습니다."
 
@@ -23003,7 +23185,7 @@ msgid ""
 "This allowed the spy to be traced and arrested, and the security crisis was "
 "averted."
 msgstr ""
-"조언가의 요원들이 제 3자를 통해 궁전의 기밀을 구입했습니다. 이것으로 첩자를 추적하여 체포했고, 안보 위기를 피하게 되었습니다."
+"보좌관의 요원들이 제 3자를 통해 궁전의 기밀을 구입했습니다. 이것으로 첩자를 추적하여 체포했고, 안보 위기를 피하게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck5/WallsWithEars_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription_String
@@ -23014,9 +23196,8 @@ msgid ""
 "continues to broker information, and neither he nor his customers suspect "
 "that it is now entirely fabricated."
 msgstr ""
-"조언가의 요원들이 궁전 주변을 주의깊게 관찰하여 첩자를 추적하는 데 성공했습니다. 이것은 그가 눈치채지 못하도록 매우 교묘하게 "
-"진행됐습니다. 첩자는 계속해서 정보를 중개하고 있고, 그와 그의 고객들 모두 그 정보가 완전히 조작된 것이라고는 상상도 못 하고 "
-"있습니다."
+"보좌관의 요원들이 궁전 주변을 주의깊게 관찰하여 첩자를 추적하는 데 성공했습니다. 이것은 그가 눈치채지 못하도록 매우 교묘하게 "
+"진행됐습니다. 첩자는 계속해서 정보를 중개하고 있고, 그와 그의 고객들 모두 그 정보가 완전히 조작된 것이라고는 상상도 못 하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck5/WallsWithEars_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription_String
@@ -23028,7 +23209,7 @@ msgid ""
 "withdrawn from assignment, their work wasted. Unfortunately, several of our "
 "spies have not reported in, and may have been captured or killed."
 msgstr ""
-"조언가의 요원들이 대거마크에 파견되었지만, 그들은 첩자를 잡아낼 수 없었습니다. 궁전 기밀은 국경을 넘어 이웃 나라로 계속해서 유출되고 "
+"보좌관의 요원들이 대거마크에 파견되었지만, 그들은 첩자를 잡아낼 수 없었습니다. 궁전 기밀은 국경을 넘어 이웃 나라로 계속해서 유출되고 "
 "있습니다. 우리의 첩보원 대다수는 임무를 재빠르게 철회해야 했습니다. 불행하게도 우리 첩자들 중 많은 수의 보고가 끊겼고, 아마 "
 "붙잡히거나 살해되었을지도 모릅니다."
 
@@ -23063,7 +23244,7 @@ msgid ""
 "must have failed. The slave traders are gone, and there's still no word from"
 " the agents."
 msgstr ""
-"조언자의 요원들은 \"인간 상품\"으로 위장하고 노예상선에 올랐습니다. 그들은 들키지 않기위해 아무런 무기도 가져오지 않았습니다. "
+"보좌관의 요원들은 \"인간 상품\"으로 위장하고 노예상선에 올랐습니다. 그들은 들키지 않기위해 아무런 무기도 가져오지 않았습니다. "
 "요원들은 노예들을 해방하고 배를 탈취하려 했지만, 그 공격은 실패했을 것입니다. 노예상들은 사라져버렸고, 요원들에게서는 아직도 아무런 "
 "소식이 없습니다."
 
@@ -23076,8 +23257,8 @@ msgid ""
 "slave traders found weapons on them. They reacted quickly, and set sail "
 "before the guards could board their vessel."
 msgstr ""
-"조언자의 요원들은 \"인간 상품\"으로 위장하고 노예상선에 탑승하려 시도했습니다. 그들은 노예들을 해방시키려 했지만 불행하게도 노예상들이"
-" 요원들의 무기를 발견했습니다. 노예상들은 재빠르게 대응해 경비대가 배에 오르기 전에 출항해버렸습니다."
+"보좌관의 요원들은 \"인간 상품\"으로 위장하고 노예상선에 탑승하려 시도했습니다. 그들은 노예들을 해방시키려 했지만 불행하게도 노예상들이 "
+"요원들의 무기를 발견했습니다. 노예상들은 재빠르게 대응해 경비대가 배에 오르기 전에 출항해버렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck6/LivingGoods_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription_String
@@ -23102,7 +23283,7 @@ msgid ""
 "away, nearly sinking their ships. They are outraged by authorities' defiance"
 " of the tradition of the River Kingdoms."
 msgstr ""
-"백성들은 조언자가 {mf|남작령|남작령|왕국|왕국}의 범죄자들을 노예상에 팔아넘기려 했다는 것에 격노했습니다. 죄수들의 가족은 부둣가로 "
+"백성들은 보좌관이 {mf|남작령|남작령|왕국|왕국}의 범죄자들을 노예상에 팔아넘기려 했다는 것에 격노했습니다. 죄수들의 가족은 부둣가로 "
 "모여 노예상들을 쫓아냈고, 노예상의 배는 거의 침몰했습니다. 죄수와 가족들은 the River Kingdoms의 전통을 무시하는 당국에 "
 "분노를 쏟아냈습니다."
 
@@ -23115,7 +23296,7 @@ msgid ""
 "looking for them. However, the \"quality of the product\" disappointed the "
 "slave traders. They refused to buy the poor specimens."
 msgstr ""
-"조언자는 대중들의 거센 항의를 피하기 위해 가족이 없는 부랑자나 거지들만 노예상들에게 보낼 것을 명령했습니다. 그들을 찾으려는 사람은 "
+"보좌관은 대중들의 거센 항의를 피하기 위해 가족이 없는 부랑자나 거지들만 노예상들에게 보낼 것을 명령했습니다. 그들을 찾으려는 사람은 "
 "아무도 없었습니다. 하지만 노예상들은 \"물건의 품질\"에 실망했습니다. 그들은 질떨어지는 견본을 사지 않았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -23128,8 +23309,8 @@ msgid ""
 " missing prisoners. Not only did this bring a hefty profit, but it also "
 "improved relations with Cheliax."
 msgstr ""
-"노예상들에게 죄수를 팔아치우면서 조언자는 지하감옥을 깨끗히 비울 수 있었습니다. 모든 일은 비밀리에 진행되었기 때문에 백성들은 이 거래에"
-" 대해서 알 수 없었습니다. 운만 따라준다면 사람들이 사라진 죄수들을 찾으려 할 때 까지 몇 년은 걸릴 것입니다. 이 거래는 두둑한 "
+"노예상들에게 죄수를 팔아치우면서 보좌관은 지하감옥을 깨끗히 비울 수 있었습니다. 모든 일은 비밀리에 진행되었기 때문에 백성들은 이 거래에 "
+"대해서 알 수 없었습니다. 운만 따라준다면 사람들이 사라진 죄수들을 찾으려 할 때 까지 몇 년은 걸릴 것입니다. 이 거래는 두둑한 "
 "이익뿐만 아니라 Cheliax와의 관계진전까지도 안겨줬습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -23159,7 +23340,7 @@ msgid ""
 "the houses of Brevoy did not appreciate their boldness. The deal soured, and"
 " the {mf|barony's|barony's|kingdom's|kingdom's} reputation was damaged."
 msgstr ""
-"조언자의 수행원들은 오만하고 건방졌습니다. 강하고 독립적인 나라를 대표하고 있다는 것을 보여주기 위한 의도였지만 애석하게도 브레보이의 "
+"보좌관의 수행원들은 오만하고 건방졌습니다. 강하고 독립적인 나라를 대표하고 있다는 것을 보여주기 위한 의도였지만 애석하게도 브레보이의 "
 "가문들은 그들의 배짱을 알아주지 않았습니다. 거래는 틀어졌고, {mf|남작령|남작령|왕국|왕국}의 명성에도 흠이 났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -23172,8 +23353,8 @@ msgid ""
 "became clear there was no benefit to be had from the alliance. In the end, "
 "the deal died on the table."
 msgstr ""
-"조언자의 요원들은 협상과정에서 브레보이의 대표들을 불쾌하지 않게 만들기 위해 조용하고 과묵한 자세를 유지했습니다. 가문들은 그런 부드러운"
-" 태도를 연약함의 상징이라고 보았고, 동맹으로부터 얻을 수 있는 이득이 없다는게 분명해질 때까지 요구를 늘렸습니다. 결국 거래는 "
+"보좌관의 요원들은 협상과정에서 브레보이의 대표들을 불쾌하지 않게 만들기 위해 조용하고 과묵한 자세를 유지했습니다. 가문들은 그런 부드러운 "
+"태도를 연약함의 상징이라고 보았고, 동맹으로부터 얻을 수 있는 이득이 없다는게 분명해질 때까지 요구를 늘렸습니다. 결국 거래는 "
 "무산되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -23186,8 +23367,8 @@ msgid ""
 " negotiations resulted in the lifting of several duties. This will bring in "
 "a fortune!"
 msgstr ""
-"조언자의 요원들은 협상을 주도했습니다. 그들은 공손했지만 브레보이만이 유일한 거래상대가 아니며, 다른 귀족가문들 역시 지역 무역에 관심을"
-" 보이고 있다는 것을 분명히 했습니다. 협상의 결과로 몇가지 관세가 철폐되었습니다. 이는 막대한 이익을 안겨줄 것입니다!"
+"보좌관의 요원들은 협상을 주도했습니다. 그들은 공손했지만 브레보이만이 유일한 거래상대가 아니며, 다른 귀족가문들 역시 지역 무역에 관심을 "
+"보이고 있다는 것을 분명히 했습니다. 협상의 결과로 몇가지 관세가 철폐되었습니다. 이는 막대한 이익을 안겨줄 것입니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck6/TradePrivilegies_Solutions.Entries.Array.data[3].Resolutions.Array.data[3].LocalizedDescription_String
@@ -23200,7 +23381,7 @@ msgid ""
 "and the houses of Brevoy are discussing the promising new and interesting "
 "country to the south."
 msgstr ""
-"조언자의 요원들은 능숙하게 협상을 이끌었다. 성공의 비결은 그들이 첩보원들을 통해 브레보이의 가문들에 대해 사전에 입수한 정보였다. "
+"보좌관의 요원들은 능숙하게 협상을 이끌었다. 성공의 비결은 그들이 첩보원들을 통해 브레보이의 가문들에 대해 사전에 입수한 정보였다. "
 "협상가들은 상대방의 특색과 약점을 요리했다. 그것은 대성공이었다. 거래는 마무리되었고 브레보이의 가문들은 이제 남부의 촉망받는 새롭고 "
 "흥미로운 나라에 대해 이야기하고 있다."
 
@@ -23238,7 +23419,7 @@ msgid ""
 "terrified to control themselves. They abandoned their homes and fled, "
 "spreading news of the massacre."
 msgstr ""
-"조언가의 부하들은 입은 피해를 감추기 위해 파견되었다. 농민들은 일어난 일에 대해 말하는 것을 금지당했다. "
+"보좌관의 부하들은 입은 피해를 감추기 위해 파견되었다. 농민들은 일어난 일에 대해 말하는 것을 금지당했다. "
 "{mf|남작령|남작령|왕국|왕국}은 사람들이 와일드 헌트의 귀환에 대해 걱정하는 것을 원하지 않았다. 불행하게도 농민들은 너무 두려운 "
 "나머지 스스로를 통제할 수 없었다. 그들은 집을 버리고 달아났고, 대학살의 소식을 퍼트렸다."
 
@@ -23251,7 +23432,7 @@ msgid ""
 "battle are already being built. This hit the treasury hard, but the "
 "authorities showed that the peoples' lives are more important than gold."
 msgstr ""
-"조언가의 부하들은 피해자들을 돕기 위해 보내졌다. 희생당한 이들의 가족에게 재정적인 도움이 제공되었다. 전투 중에 파괴된 집들도 이미 "
+"보좌관의 부하들은 피해자들을 돕기 위해 보내졌다. 희생당한 이들의 가족에게 재정적인 도움이 제공되었다. 전투 중에 파괴된 집들도 이미 "
 "재건되고 있다. 이것은 재정에 큰 타격을 주었지만, 정부는 돈보다 국민들의 삶이 더 중요하다는 것을 보여줬다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -23265,9 +23446,9 @@ msgid ""
 "capital. The people are grateful that they weren't left to fend for "
 "themselves."
 msgstr ""
-"조언가의 부하들은 피해자들을 추모하는 장례식을 마련했다. 정부는 파괴된 건물들을 재건하기로 약속했고, 농민들에게는 향후 재정착을 위해 "
-"상대한 양의 자금을 약속했다. 피해자의 아이들은 수도에서 무상으로 교육받게 될 것이다. 사람들은 스스로의 힘으로 자활하도록 남겨지지 않은"
-" 것에 감사하고 있다. "
+"보좌관의 부하들은 피해자들을 추모하는 장례식을 마련했다. 정부는 파괴된 건물들을 재건하기로 약속했고, 농민들에게는 향후 재정착을 위해 "
+"상대한 양의 자금을 약속했다. 피해자의 아이들은 수도에서 무상으로 교육받게 될 것이다. 사람들은 스스로의 힘으로 자활하도록 남겨지지 않은 "
+"것에 감사하고 있다. "
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck7/ExFriends_LocalizedDescription
@@ -23341,7 +23522,7 @@ msgid ""
 "then turned the deal around and blackmailed them for it. Brevan intelligence"
 " has gained several new agents, who are widely known to be patriots!"
 msgstr ""
-"브레보이의 애국자들은 단지 부패한 기회주의자일 뿐이었다! 그들은 뇌물을 받을 준비가 되어 있을 뿐만 아니라, 조언가의 부하들이 의무를 "
+"브레보이의 애국자들은 단지 부패한 기회주의자일 뿐이었다! 그들은 뇌물을 받을 준비가 되어 있을 뿐만 아니라, 보좌관의 부하들이 의무를 "
 "다하자마자 협상을 뒤엎고 그들을 협박했다. 브레보이 정보부는, 애국자라는 이름으로 널리 알려진 이 새로운 요원들을 얻게 되었다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -23630,7 +23811,7 @@ msgid ""
 "sentinel with making decisions in court. It has become famous for its bare "
 "honesty."
 msgstr ""
-"마을 주민들은 새로운 감시병과 사랑에 빠졌다! 그것은 부패하지도 지치지도 않는 법 집행자임이 드러났다. 조언가는 그 감시병에게 법원에서 "
+"마을 주민들은 새로운 감시병과 사랑에 빠졌다! 그것은 부패하지도 지치지도 않는 법 집행자임이 드러났다. 보좌관은 그 감시병에게 법원에서 "
 "판결을 내릴 수 있는 권한을 주었다. 그것은 그 정직함으로 유명해졌다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -23709,7 +23890,7 @@ msgid ""
 "audacious interference, and turned his fury upon the spellcasters, ending "
 "all their lives in a wild lightning storm."
 msgstr ""
-"조언가의 부하들은 피해를 복구할 수 없었다. 그들은 스스로를 페이 마법의 전문가라 칭하는 마법사들을 고용했지만, 그들은 단지 사기꾼에 "
+"보좌관의 부하들은 피해를 복구할 수 없었다. 그들은 스스로를 페이 마법의 전문가라 칭하는 마법사들을 고용했지만, 그들은 단지 사기꾼에 "
 "불과했고 그들의 조언은 상황을 더 나쁘게 만들기만 했다. 진로가 바뀐 강은 늪으로 변했고, 곧 질병과 끔찍한 곤충의 번식지가 되었다. "
 "전염병이 발발했다. 고즈레이는 이 대담한 간섭에 분노했고, 그의 분노는 마법사들에게 향해 그들의 삶을 거친 번개 폭풍으로 거두었다."
 
@@ -23722,7 +23903,7 @@ msgid ""
 "river caused a drought in several villages., and a thunderstorm destroyed "
 "several houses. Many frightened people fled the lands."
 msgstr ""
-"조언가의 부하들은 피해를 복구하기 위해 필사적으로 노력했지만, 그들은 이 이상한 페이 마법을 극복해낼 수 없었다. 강물의 이동은 몇몇 "
+"보좌관의 부하들은 피해를 복구하기 위해 필사적으로 노력했지만, 그들은 이 이상한 페이 마법을 극복해낼 수 없었다. 강물의 이동은 몇몇 "
 "마을에 가뭄을 초래했고, 뇌우로 인해 여러 채의 집이 파괴되었다. 겁에 질린 많은 사람들이 그 땅을 떠났다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -23733,7 +23914,7 @@ msgid ""
 "damage. The spellcasters returned the river to its former bed, raised the "
 "hill again where it used to be, and addressed the other problems."
 msgstr ""
-"조언가의 사람들은 우호적인 페이를 고용했고, 페이는 그 피해를 되돌리는 방법을 설명했다. 마법사들은 강을 원래 위치로 되돌리고, 언덕을 "
+"보좌관의 사람들은 우호적인 페이를 고용했고, 페이는 그 피해를 되돌리는 방법을 설명했다. 마법사들은 강을 원래 위치로 되돌리고, 언덕을 "
 "다시금 세웠으며, 다른 여러 문제들도 해결했다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -23766,7 +23947,7 @@ msgid ""
 "humiliating defeat. Nearly every soldier died in the battle, and dead "
 "mercenaries are not paid."
 msgstr ""
-"조언자의 명령 아래, 상대적으로 목숨값이 가벼운 우리의 미숙한 지원자들이 용병부대로 파견되었습니다. 그들은 전장에서 혼란에 빠져 "
+"보좌관의 명령 아래, 상대적으로 목숨값이 가벼운 우리의 미숙한 지원자들이 용병부대로 파견되었습니다. 그들은 전장에서 혼란에 빠져 "
 "달아났습니다. 모든 작전은 치욕스러운 패배로 끝나버렸습니다. 거의 모든 병사들이 전사했고, 죽은 이들에게 급료는 지급되지 않았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -23930,7 +24111,7 @@ msgid ""
 "dispute would be an honorable badge, while defeat would be resounding and "
 "disgraceful."
 msgstr ""
-"유명한 철학자가 우리 영지의 조언자들 중 가장 현명한 이와 나라를 다스리는 법에 대해 논쟁하기 위해 방문했습니다. 여기서 승리하는 것은 "
+"유명한 철학자가 우리 영지의 보좌관들 중 가장 현명한 이와 나라를 다스리는 법에 대해 논쟁하기 위해 방문했습니다. 여기서 승리하는 것은 "
 "영광스러운 훈장이 되겠지만, 만약 패배한다면 그 불명예가 방방곡곡에 소문이 날 겁니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -23947,7 +24128,7 @@ msgid ""
 "sharp tongue bested our advisor. Neighboring countries whisper that these "
 "lands are ruled by an incompetent and narrow-minded {mf|King|Queen}."
 msgstr ""
-"논쟁은 불명예스러운 패배로 끝났습니다. 철학자의 음흉한 성격과 날카로운 혀는 우리의 조언자를 압도했습니다. 이웃나라들은 우리의 영토들이 "
+"논쟁은 불명예스러운 패배로 끝났습니다. 철학자의 음흉한 성격과 날카로운 혀는 우리의 보좌관을 압도했습니다. 이웃나라들은 우리의 영토들이 "
 "무능하고 편협한 {mf|왕|여왕}에 의해 다스려지고 있다고 쑥덕거렸습니다. "
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
@@ -23959,8 +24140,8 @@ msgid ""
 "impossible to tell who was ultimately successful, but the contest was "
 "honorable."
 msgstr ""
-"논쟁은 길고, 치열했으며, 지루했습니다. 조언자는 흐름이 자신에게서 멀어지는 것을 알았고, 피할 수 없는 패배에 대항하여 잘 싸웠습니다."
-" 누가 완벽하게 이겼다고 말하기는 힘들지만, 경쟁 자체는 훌륭했습니다."
+"논쟁은 길고, 치열했으며, 지루했습니다. 보좌관은 흐름이 자신에게서 멀어지는 것을 알았고, 피할 수 없는 패배에 대항하여 잘 싸웠습니다. "
+"누가 완벽하게 이겼다고 말하기는 힘들지만, 경쟁 자체는 훌륭했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck9/Dispute_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription_String
@@ -23969,7 +24150,7 @@ msgid ""
 "The advisor demonstrated extraordinary knowledge and expertise. The visiting"
 " philosopher quickly accepted defeat, and expressed respect for his talented"
 " opponent."
-msgstr "조언자는 비범한 지식과 전문성을 선보였습니다. 철학자는 빠르게 패배를 인정했고 뛰어난 상대에 대한 존경을 표했습니다."
+msgstr "보좌관은 비범한 지식과 전문성을 선보였습니다. 철학자는 빠르게 패배를 인정했고 뛰어난 상대에 대한 존경을 표했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck9/FairyHoles_LocalizedDescription
@@ -24243,7 +24424,7 @@ msgid ""
 "empty promises, and took up arms. They say that they will never obey a "
 "spineless {mf|baron|baroness|King|Queen}!"
 msgstr ""
-"고위 사제가 이 지역의 주민들을 달래려는 시도는 비극으로 끝났습니다. 주민들은 공허한 약속에 화를 내며 팔을 걷어 붙이고는, 우유부단한 "
+"대사제가 이 지역의 주민들을 달래려는 시도는 비극으로 끝났습니다. 주민들은 공허한 약속에 화를 내며 팔을 걷어 붙이고는, 우유부단한 "
 "{mf|남작|여남작|왕|여왕}에게 절대 복종하지 않을거라 말했습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/CE-
@@ -24272,8 +24453,8 @@ msgid ""
 "of the Stolen Lands's many dark, hidden corners. This location must be "
 "investigated, and the sect's plans thwarted!"
 msgstr ""
-"고위 사제의 기도는 헛되지 않았습니다. 곧 고위 사제는 암흑교단의 계획을 보고받았습니다. 그들은 무고한 사람의 피를 모아 도둑맞은 땅 "
-"은밀한 구석에서 사악한 의식을 진행하려 합니다. 이 장소를 찾아내서 교단의 계획을 막아야합니다!"
+"대사제의 기도는 헛되지 않았습니다. 곧 대사제는 암흑교단의 계획을 보고받았습니다. 그들은 무고한 사람의 피를 모아 도둑맞은 땅 은밀한 "
+"구석에서 사악한 의식을 진행하려 합니다. 이 장소를 찾아내서 교단의 계획을 막아야합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/CE-
 #. DarkerthanBlack_Solutions.Entries.Array.data[6].Resolutions.Array.data[0].LocalizedDescription
@@ -24340,7 +24521,7 @@ msgid ""
 "massacre, and lynched several vagrants. Foreigners are quickly fleeing the "
 "{mf|barony|barony|kingdom|kingdom}."
 msgstr ""
-"조언가가 외국인들을 추방하러 갔지만, 그 시도는 폭동으로 이어졌습니다. 많은 주민이 기쁘게 학살에 참여하고는 몇몇 부랑자들에게까지 집단 "
+"보좌관이 외국인들을 추방하러 갔지만, 그 시도는 폭동으로 이어졌습니다. 많은 주민이 기쁘게 학살에 참여하고는 몇몇 부랑자들에게까지 집단 "
 "폭행을 자행했습니다. 외국인들은 서둘러 {mf|남작령|남작령|왕국|왕국}에서 도망치고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/CG-
@@ -24368,7 +24549,7 @@ msgid ""
 "outside of a shrine of Desna. They believe that the thieves are hiding "
 "there. It's time to have a chat with the local travelers."
 msgstr ""
-"조언가의 부하들은 장물이 부랑자들 사이에 나도는 것을 추적해냈습니다. 부랑자들을 잔인하게 처리하자, 나머지 부랑자들은 깨달은게 있는지 "
+"보좌관의 부하들은 장물이 부랑자들 사이에 나도는 것을 추적해냈습니다. 부랑자들을 잔인하게 처리하자, 나머지 부랑자들은 깨달은게 있는지 "
 "보복을 두려워하며 재빨리 데즈나 성소 외곽의 바리시아 야영지를 지목했습니다. 그들 말로는 도둑들이 거기에 숨어있다고 합니다. 현지 "
 "여행자들과 대화를 나눠보십시오."
 
@@ -24380,7 +24561,7 @@ msgid ""
 "took justice into their own hands. Fearing for their lives, visitors of all "
 "stripes are swiftly fleeing the {mf|barony|barony|kingdom|kingdom}."
 msgstr ""
-"조언가의 부하들은 외국인들 지키기에 너무 늦었습니다. 주민들은 스스로 정의를 실현했습니다. {mf|남작령|남작령|왕국|왕국}의 모든 "
+"보좌관의 부하들은 외국인들 지키기에 너무 늦었습니다. 주민들은 스스로 정의를 실현했습니다. {mf|남작령|남작령|왕국|왕국}의 모든 "
 "방문자들은 목숨을 챙기기 위해 서둘러 도망쳤습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/CG-
@@ -24394,7 +24575,7 @@ msgid ""
 "camp outside of a shrine of Desna. They believe that the thieves are hiding "
 "out there. It's time to pay them a visit!"
 msgstr ""
-"조언가의 부하들은 외국인 전부를 습격하려는 현지의 폭도들을 저지했습니다. 군중은 몽둥이로 진압되어야 했습니다. 학살은 피했지만 농민들은 "
+"보좌관의 부하들은 외국인 전부를 습격하려는 현지의 폭도들을 저지했습니다. 군중은 몽둥이로 진압되어야 했습니다. 학살은 피했지만 농민들은 "
 "원한을 품을 것입니다. 구조된 외국인들은 감사하면서 데즈나 성소 외곽의 바리시아 야영지를 지목했습니다. 그들을 찾아가 대가를 치르게 할 "
 "시간입니다."
 
@@ -24407,7 +24588,8 @@ msgid ""
 " with news: it appears that the thieves are hiding out in a Varisian camp "
 "near a shrine of Desna."
 msgstr ""
-"조언가의 부하들은 외국인을 습격하려는 현지의 농민들을 논리적으로 설득했습니다. 외국인들은 보호에 감사하면서 데즈나 성소 외곽의 바리시아 야영지에 도둑들이 숨은 것으로 보인다는 소식을 \n"
+"보좌관의 부하들은 외국인을 습격하려는 현지의 농민들을 논리적으로 설득했습니다. 외국인들은 보호에 감사하면서 데즈나 성소 외곽의 바리시아 "
+"야영지에 도둑들이 숨은 것으로 보인다는 소식을 \n"
 "궁정에 전했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/CN-
@@ -24447,8 +24629,8 @@ msgid ""
 "Calistrian hunters. The assassins managed to escape, but the anger of people"
 " turned on the {mf|baron|baroness|King|Queen} and {mf|his|her} advisor."
 msgstr ""
-"조언가는 칼리스트리아 사냥꾼으로부터 사람들의 주의를 돌리는데 실패했습니다. 암살자들은 도망치게 해줬지만, 사람들의 분노는 "
-"{mf|남작|여남작|왕|여왕}과 {mf|그|그녀}의 조언가에게 항할 것입니다."
+"보좌관은 칼리스트리아 사냥꾼으로부터 사람들의 주의를 돌리는데 실패했습니다. 암살자들은 도망치게 해줬지만, 사람들의 분노는 "
+"{mf|남작|여남작|왕|여왕}과 {mf|그|그녀}의 보좌관에게 항할 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/CN-
 #. OnTheEdge_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription
@@ -24733,8 +24915,8 @@ msgid ""
 msgstr ""
 "{mf|남작|여남작|왕|여왕}의 고귀한 명성이 월드운드의 데몬들과의 전쟁으로 유명한 멘데브의 신병 모집원을 끌어 들였습니다. 우리 "
 "{mf|남작령|남작령|왕국|왕국}의 많은 젊은 남녀가 이 골라리온의 수호자들에게 합류하기로 결정했는데, 이것이 사람들 사이에 불만을 "
-"야기했습니다. 이 낯선 사람들이 우리 젊은이들의 마음에 끼치는 영향에 대해 많은 사람들이 불평합니다. 고귀한 조언가는 멘데브의 대표자를 "
-"돕겠지만, 기사의 이상에 무관심한 조언가는 그들을 쫓아낼 겁니다."
+"야기했습니다. 이 낯선 사람들이 우리 젊은이들의 마음에 끼치는 영향에 대해 많은 사람들이 불평합니다. 고귀한 보좌관은 멘데브의 대표자를 "
+"돕겠지만, 기사의 이상에 무관심한 보좌관은 그들을 쫓아낼 겁니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/LG-
 #. HonorandDuty_LocalizedName
@@ -24751,8 +24933,8 @@ msgid ""
 "land. The Mendevians have had to flee the {mf|barony|barony|kingdom|kingdom}"
 " in fear for their lives."
 msgstr ""
-"조언가는 주민들에게 멘데프의 십자군을 지지하도록 격려했지만, 이게 오히려 그들을 더욱 화나게 했습니다. 그들은 이국 땅에서 죽기를 바라지"
-" 않았습니다. 멘데브인들은 목숨을 잃을까 두려워 {mf|남작령|남작령|왕국|왕국}에서 도망쳐야 했습니다."
+"보좌관은 주민들에게 멘데프의 십자군을 지지하도록 격려했지만, 이게 오히려 그들을 더욱 화나게 했습니다. 그들은 이국 땅에서 죽기를 바라지 "
+"않았습니다. 멘데브인들은 목숨을 잃을까 두려워 {mf|남작령|남작령|왕국|왕국}에서 도망쳐야 했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/LG-
 #. HonorandDuty_Solutions.Entries.Array.data[0].Resolutions.Array.data[1].LocalizedDescription_String
@@ -24762,7 +24944,7 @@ msgid ""
 "join the crusaders of Mendev. Their families, however, are not happy at all:"
 " they feel betrayed by their {mf|baron|baroness|King|Queen}."
 msgstr ""
-"조언가의 열띤 연설은 많은 젊은 남녀들을 멘데프의 십자군에 가담하도록 설득했습니다. 하지만 그들의 가족은 전혀 행복하지 않았습니다. "
+"보좌관의 열띤 연설은 많은 젊은 남녀들을 멘데프의 십자군에 가담하도록 설득했습니다. 하지만 그들의 가족은 전혀 행복하지 않았습니다. "
 "그들은 {mf|남작|여남작|왕|여왕}에게 배신감을 느꼈습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/LG-
@@ -24774,7 +24956,7 @@ msgid ""
 "joining the crusaders is growing, and the subjects praise the "
 "{mf|baron|baroness|King|Queen} for {mf|his|her} valiant heart."
 msgstr ""
-"조언가는 주민들에게 더 큰 목적을 부여했습니다. 전 세계를 월드운드의 데몬으로부터 보호하기 위한 목적을. 십자군에 가담하는 신병의 수가 "
+"보좌관은 주민들에게 더 큰 목적을 부여했습니다. 전 세계를 월드운드의 데몬으로부터 보호하기 위한 목적을. 십자군에 가담하는 신병의 수가 "
 "증가하고 있으며, 백성들은 {mf|남작|여남작|왕|여왕}의 용맹한 마음을 칭송하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/LG-
@@ -24797,7 +24979,7 @@ msgid ""
 "speeches, but their battle against the guard left many dead — including a "
 "few Mendevian nobles."
 msgstr ""
-"조언가의 부하들이 국경에서 멘데브 선동가들을 가로막았습니다. 십자군은 연설로 농민들의 마음을 빼앗을 기회를 얻지 못했지만, 경비병과 "
+"보좌관의 부하들이 국경에서 멘데브 선동가들을 가로막았습니다. 십자군은 연설로 농민들의 마음을 빼앗을 기회를 얻지 못했지만, 경비병과 "
 "싸움을 벌여 몇 명의 멘데브 귀족들을 포함한 많은 사람들이 죽게되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/LG-
@@ -24808,7 +24990,7 @@ msgid ""
 "{mf|barony|barony|kingdom|kingdom} by the advisor's people. This likely "
 "averted unrest among the locals, and perhaps even an international scandal."
 msgstr ""
-"십자군의 저항에도 불구하고, 그들은 조언가의 수하들에 의해 {mf|남작령|남작령|왕국|왕국} 밖으로 호송되었습니다. 이것으로 주민들의 "
+"십자군의 저항에도 불구하고, 그들은 보좌관의 수하들에 의해 {mf|남작령|남작령|왕국|왕국} 밖으로 호송되었습니다. 이것으로 주민들의 "
 "불안과 국제적인 갈등을 피할 수 있을 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/LN-
@@ -24849,7 +25031,7 @@ msgid ""
 "about a camp of druids, who have been harassing the miners. It's time to "
 "visit to their camp and deal with them!"
 msgstr ""
-"재무관은 납치범들의 우두머리에게 현상금을 내걸었지만 오랫동안 아무런 소식이 없었습니다. 그런데 조언가는 방금 광부들을 괴롭혀 온 "
+"재무관은 납치범들의 우두머리에게 현상금을 내걸었지만 오랫동안 아무런 소식이 없었습니다. 그런데 보좌관은 방금 광부들을 괴롭혀 온 "
 "드루이드의 야영지에 대한 정보를 받았습니다. 이제 야영지로 가서 그들을 상대해야 합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/LN-
@@ -24949,9 +25131,9 @@ msgid ""
 "this task, provided that the {mf|baron|baroness|King|Queen} is interested, "
 "of course."
 msgstr ""
-"춥고 먼 이리센의 고귀한 자드위가인 아리나 코르보쉬로부터 편지가 도착했습니다. 그녀는 도둑맞은 땅 어딘가에 숨어있는 문제인사이자 반역자인"
-" 칼리나를 붙잡아 없애는 데 공식적인 지원을 구하고 있습니다다. 자드위가는 이리센과 수익성 있는 무역 계약을 제안하고 있지만, 아직 "
-"자세한 내용은 논의하지 않을 것입니다. 관심이 있다면 {mf|남작|여남작|왕|여왕}을 대신하여 이 문제를 다룰 조언가를 결정하십시오."
+"춥고 먼 이리센의 고귀한 자드위가인 아리나 코르보쉬로부터 편지가 도착했습니다. 그녀는 도둑맞은 땅 어딘가에 숨어있는 문제인사이자 반역자인 "
+"칼리나를 붙잡아 없애는 데 공식적인 지원을 구하고 있습니다다. 자드위가는 이리센과 수익성 있는 무역 계약을 제안하고 있지만, 아직 자세한 "
+"내용은 논의하지 않을 것입니다. 관심이 있다면 {mf|남작|여남작|왕|여왕}을 대신하여 이 문제를 다룰 보좌관을 결정하십시오."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/NE-
 #. ColdDiplomacy_LocalizedName
@@ -24968,7 +25150,7 @@ msgid ""
 "never came, and the fugitive managed to escape from the Stolen Lands – "
 "shattering any hope for an agreement with Areena Korvosh."
 msgstr ""
-"이리센에서 온 반역자에 대한 정보를 얻기 위해 현상금을 걸었지만, 아무도 관심을 갖지 않았습니다. 조언가는 오지 않는 보고를 기다리며 "
+"이리센에서 온 반역자에 대한 정보를 얻기 위해 현상금을 걸었지만, 아무도 관심을 갖지 않았습니다. 보좌관은 오지 않는 보고를 기다리며 "
 "너무 많은 시간을 허비했고, 도망자는 도난당한 땅에서 탈출하여 아리나 코르보쉬와의 합의를 무산시켰습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/NE-
@@ -25004,7 +25186,7 @@ msgid ""
 "the advisor managed to learn where the rebel was hiding. It's time to pay "
 "her a visit!"
 msgstr ""
-"이리센의 반란에 관한 정보에 대한 현상금은 너무 유혹적이어서 재무관은 제보자들에게 깔려 죽을 뻔했습니다! 마침내 조언가는 반란군이 숨어 "
+"이리센의 반란에 관한 정보에 대한 현상금은 너무 유혹적이어서 재무관은 제보자들에게 깔려 죽을 뻔했습니다! 마침내 보좌관은 반란군이 숨어 "
 "있는 곳을 가까스로 알아냈습니다. 그녀를 만나보십시오!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/NE-
@@ -25217,8 +25399,8 @@ msgid ""
 "undead. They suffered heavy losses, but the threat was destroyed, and the "
 "Pathfinders were saved at the last possible moment."
 msgstr ""
-"고위 사제는 이 지역에 있는 모든 성직자들과 신자들을 불러모았고, 이 군세는 언데드의 군대에 맞서 싸웠습니다. 그들은 큰 손실을 "
-"입었지만, 위협은 제거되었고, 패스파인더들은 마지막 순간에 구조되었습니다."
+"대사제는 이 지역에 있는 모든 성직자들과 신자들을 불러모았고, 이 군세는 언데드의 군대에 맞서 싸웠습니다. 그들은 큰 손실을 입었지만, "
+"위협은 제거되었고, 패스파인더들은 마지막 순간에 구조되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/TN-
 #. FollowingPathfinders_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription
@@ -25229,8 +25411,8 @@ msgid ""
 " perished, and the Pathfinders were rescued from their clutches. The locals "
 "regard the High {mf_HighPriest|Priest|Priestess} as a true hero."
 msgstr ""
-"고위 사제는 매우 정교한 의식으로 신성한 힘을 불러내 언데드의 군대를 무찔렀습니다. 괴물들은 죽었고, 패스파인더들은 그들의 손아귀에서 "
-"구출되었습니다. 주민들은 고위 사제를 진정한 영웅으로 여기고 있습니다."
+"대사제는 매우 정교한 의식으로 신성한 힘을 불러내 언데드의 군대를 무찔렀습니다. 괴물들은 죽었고, 패스파인더들은 그들의 손아귀에서 "
+"구출되었습니다. 주민들은 대사제를 진정한 영웅으로 여기고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/TN-
 #. FollowingPathfinders_Solutions.Entries.Array.data[5].Resolutions.Array.data[3].LocalizedDescription
@@ -25242,7 +25424,7 @@ msgid ""
 "as a true hero. News of the hapless Pathfinders and their brave protector "
 "have spread far and wide, far beyond the borders of the Stolen Lands."
 msgstr ""
-"고위 사제는 매우 정교한 의식으로 신성한 힘을 불러내 언데드의 군대를 무찔렀습니다. 괴물들은 일거에 박살났고, 주민들은 조언가를 진정한 "
+"대사제는 매우 정교한 의식으로 신성한 힘을 불러내 언데드의 군대를 무찔렀습니다. 괴물들은 일거에 박살났고, 주민들은 보좌관을 진정한 "
 "영웅으로 여기고 있습니다. 불운한 패스파인더와 그들의 용감한 보호자에 대한 소식은 도둑맞은 땅을 넘어 저 멀리까지 퍼져가가고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/DLC1-KT-
@@ -25876,7 +26058,7 @@ msgstr "에쿤이 돌아왔습니다."
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC41-EnvoyStart_LocalizedDescription
 msgctxt "7bbf2dca-aa30-495a-905e-223f565bef3f"
 msgid "Your advisors await their baron{mf||ess} at the capital."
-msgstr "조언가들이 수도에서 남작을 기다리고 있습니다."
+msgstr "보좌관들이 수도에서 남작을 기다리고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC41-EnvoyStart_LocalizedName
 msgctxt "6ec6a9c3-f790-4c8c-94b0-0cc55d63c7a8"
@@ -25950,7 +26132,7 @@ msgctxt "cf38e7ba-d3df-48f5-b25f-0902967911fe"
 msgid ""
 "Your advisor has something to report about the goblins in the "
 "{mf|barony|barony|kingdom|kingdom}."
-msgstr "당신의 조언가들이 {mf|남작령|여남작령|왕국|왕국} 안의 고블린에 대해 보고할 것이 있습니다."
+msgstr "당신의 보좌관들이 {mf|남작령|여남작령|왕국|왕국} 안의 고블린에 대해 보고할 것이 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC41-NokNok_Q2_LocalizedName
 msgctxt "ffc73267-0262-48b2-abdc-888b31dbbdeb"
@@ -26084,7 +26266,7 @@ msgctxt "25ecb2d6-e7d2-4835-b4aa-4f8246456560"
 msgid ""
 "He disappeared from the city. Your advisor might be able to shed some light "
 "on this."
-msgstr "그가 도시에서 사라졌습니다. 조언가가 이 일을 밝혀낼 수 있을 겁니다."
+msgstr "그가 도시에서 사라졌습니다. 보좌관이 이 일을 밝혀낼 수 있을 겁니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC51-NokNok_Statue_LocalizedName
 msgctxt "f282b06f-137b-42f3-9329-c549c0c679cf"
@@ -26269,12 +26451,12 @@ msgstr "{mf|왕|여왕}에게 전하는 또다른 강의 왕국에 대한 소식
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC_RelationsRank5Result_LocalizedName
 msgctxt "995e0685-e5c2-47b7-8c56-b3a7fda6f389"
 msgid "An Advisor Wants a Word"
-msgstr "조언가가 할 말이 있습니다."
+msgstr "보좌관이 할 말이 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC_RelationsRank5Result_Results.Array.data[1].LocalizedDescription
 msgctxt "ac930f6e-7cfb-48b0-8d0c-3d9472e186b1"
 msgid "The advisor had to leave the capital to attend to other matters."
-msgstr "조언가가 다른 문제로 수도를 떠났습니다."
+msgstr "보좌관이 다른 문제로 수도를 떠났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/Shared_DocumentRead_String
 msgctxt "e2b89292-6ef0-4a91-bc0b-b3f724816b5e"
@@ -26936,7 +27118,7 @@ msgid ""
 "landmark, Riverine Rise, can be seen from afar. The bank of the river rises "
 "to a quaint, picturesque hill. The place might be worth visiting."
 msgstr ""
-"정찰병들이 슈라이크 구릉지에서 주목할 만한 위치를 발견했습니다. 멀리서도 보이는 지역 명소인 강기슥 오르막입니다. 강기슭이 진기하고 "
+"정찰병들이 슈라이크 구릉지에서 주목할 만한 위치를 발견했습니다. 멀리서도 보이는 지역 명소인 강기슭 오르막입니다. 강기슭이 진기하고 "
 "그림같은 언덕으로 솟아올랐습니다. 가볼 만한 가치가 있을지도 모릅니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/LocationsUnlock/NorthNarlmarchesLair01_LocalizedName
@@ -27367,7 +27549,7 @@ msgid ""
 " and brought them to a tent camp in the safe zone. The subjects bless the "
 "advisor's quick wits."
 msgstr ""
-"재무관은 위험 범위 안에 있는 모든 사람들을 대피시키라고 명령했고, 그들을 안전지대에 있는 천막촌으로 데려왔습니다. 백성들은 조언가의 "
+"재무관은 위험 범위 안에 있는 모든 사람들을 대피시키라고 명령했고, 그들을 안전지대에 있는 천막촌으로 데려왔습니다. 백성들은 보좌관의 "
 "재빠른 재치를 찬양했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/RankUpCrisises/Arcane8Anomaly_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription
@@ -27708,7 +27890,7 @@ msgid ""
 "been troubling the Treasurer's trade caravans."
 msgstr ""
 "재무관은 이교 지도자와 재빨리 합의에 이르렀습니다. 그는 상당한 뇌물을 받고서 신도들에게 숲을 구하는 데 성공했다고 말했습니다. 그들은 "
-"에라스틸의 말씀을 전하기 위해 떠났습니다. 편리하게도, 그들은 작별 선물로 재무관의 무역 캐러밴을 괴롭혀 온 도적 캠프를 파괴했습니다."
+"에라스틸의 말씀을 전하기 위해 떠났습니다. 편리하게도, 그들은 작별 선물로 재무관의 무역 짐마차를 괴롭혀 온 도적 캠프를 파괴했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/RankUpCrisises/Divine8Cultists_LocalizedDescription
 msgctxt "e0443be8-2614-4168-8372-077c48f406a3"
@@ -27892,7 +28074,7 @@ msgid ""
 "Diplomat has contacted the Twilight Talons."
 msgstr ""
 "왕국의 정보부에는 첩자가 너무 많습니다. 장관이 이웃 땅과 무의미한 싸움을 벌이는 동안, 누군가가 우리 정보국에 자기네 요원들을 "
-"심었습니다. 쥐새끼를 모두 잡으려면 외부의 도움이 필요합니다. 고위 사제는 이로리의 예지자들과 협상을 할 것을 권고하고, 재무관은 불침 "
+"심었습니다. 쥐새끼를 모두 잡으려면 외부의 도움이 필요합니다. 대사제는 이로리의 예지자들과 협상을 할 것을 권고하고, 재무관은 불침 "
 "보안사와 대화를 나누었고, 대사관은 황혼의 발톱단과 접촉했습니다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/RankUpCrisises/Espionage7Cleaning_LocalizedName
@@ -27948,8 +28130,8 @@ msgid ""
 "{mf_HighPriest|Priest's|Priestess'} library, leaving the intelligence to "
 "clean up the ranks on its own. Many decent agents died during the raids."
 msgstr ""
-"이오리의 신도들은 고위 사제의 서재에 관심을 갖지 않았고, 정보부가 스스로 조직을 숙청하도록 내버려뒀습니다. 많은 쓸만한 요원들이 체포 "
-"작전 중에 죽었습니다."
+"이오리의 신도들은 대사제의 서재에 관심을 갖지 않았고, 정보부가 스스로 조직을 숙청하도록 내버려뒀습니다. 많은 쓸만한 요원들이 체포 작전 "
+"중에 죽었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/RankUpCrisises/Espionage7Cleaning_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "f2de4d07-1598-4ccf-8796-0b3837fede89"
@@ -27958,7 +28140,7 @@ msgid ""
 "{mf_HighPriest|Priest's|Priestess'} library. They performed their rituals "
 "and isolated every servant who worked for a foreign master."
 msgstr ""
-"이로리의 신도들은 고위 사제의 서재에 접근하는 대가로 숙청을 돕기로 했습니다. 그들은 의식을 행하여 외국의 주인을 섬기는 모든 수하들을 "
+"이로리의 신도들은 대사제의 서재에 접근하는 대가로 숙청을 돕기로 했습니다. 그들은 의식을 행하여 외국의 주인을 섬기는 모든 수하들을 "
 "격리시켰습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/RankUpCrisises/Loyalty9Conspiracy_LocalizedDescription
@@ -28319,7 +28501,7 @@ msgctxt "91fae2fb-8745-4f44-a4b8-17d8617405ab"
 msgid ""
 "The High {mf_HighPriest|Priest|Priestess} failed to persuade the druids to "
 "help with the famine. They're stubbornly refusing to meddle in politics."
-msgstr "고위 사제는 드루이드들이 기근을 돕도록 설득하는 데 실패했습니다. 그들은 정치 개입을 완강히 거부하고 있습니다."
+msgstr "대사제는 드루이드들이 기근을 돕도록 설득하는 데 실패했습니다. 그들은 정치 개입을 완강히 거부하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/RankUpCrisises/Relations8Sevenarches_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "3a6e15c1-b6d0-406e-b415-c434a0a36ffc"
@@ -28328,7 +28510,7 @@ msgid ""
 "about the suffering people and the upcoming famine. They promised to nurture"
 " and protect the upcoming harvest. The local people are reassured."
 msgstr ""
-"드루이드들은 고통받는 사람들과 다가오는 기근에 대해 고위 사제가 하는 말을 들었습니다. 그들은 다가오는 수확을 육성하고 보호하겠다고 "
+"드루이드들은 고통받는 사람들과 다가오는 기근에 대해 대사제가 하는 말을 들었습니다. 그들은 다가오는 수확을 육성하고 보호하겠다고 "
 "약속했습니다. 주민들은 안심했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/RankUpCrisises/Relations8Sevenarches_Solutions.Entries.Array.data[5].Resolutions.Array.data[3].LocalizedDescription
@@ -28540,7 +28722,7 @@ msgctxt "410a14ab-180b-46b2-b740-f84ae7a5af80"
 msgid ""
 "An advisor wants to discuss an urgent matter that concerns the "
 "{mf|barony|barony|kingdom|kingdom}'s future."
-msgstr "한 조언가가 {mf|남작령|여남작령|왕국|왕국}의 장래에 관한 긴급한 문제에 대해 논의하기를 원합니다."
+msgstr "한 보좌관이 {mf|남작령|여남작령|왕국|왕국}의 장래에 관한 긴급한 문제에 대해 논의하기를 원합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/RankUps/Shared_RankUp_ArcaneName_String
 msgctxt "dadd427e-e182-4af8-98ba-dd26ae3f0e5c"
@@ -28555,7 +28737,7 @@ msgstr "학예사가 도움을 청합니다."
 #. Mechanics/Blueprints/Kingdom/Events/Decks/RankUps/Shared_RankUp_DivineName_String
 msgctxt "2324ffb7-c0fb-4fe1-8810-46a28a696657"
 msgid "High Priest Seeks Your Advice"
-msgstr "고위 사제가 조언을 구합니다."
+msgstr "대사제가 조언을 구합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/RankUps/Shared_RankUp_EconomyName_String
 msgctxt "faf85e72-2e5b-4efb-86bd-642716cb534e"
@@ -28602,7 +28784,7 @@ msgctxt "64a93c69-26ce-43ce-b55b-ce5815d2fc29"
 msgid ""
 "The baron{mf||ess} granted the advisor an audience to discuss the matter at "
 "hand."
-msgstr "남작은 조언가에게 당면한 문제를 논의하도록 알현을 허락했습니다."
+msgstr "남작은 보좌관에게 당면한 문제를 논의하도록 알현을 허락했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/StorySupport/C21-TrollsWarning1Month_LocalizedDescription_String
 msgctxt "6afce0d1-f4e9-4957-a878-73c94e44f196"
@@ -28741,7 +28923,7 @@ msgid ""
 "The prayers of the {mf_HighPriest|High Priest|High Priestess} were not able "
 "to stop the disease. People in the region are afraid of both the disease and"
 " the monsters in the area."
-msgstr "고위 사제의 기도는 그 병을 막을 수 없었습니다. 이 지역 사람들은 이 지역의 질병과 괴물 모두를 두려워합니다."
+msgstr "대사제의 기도는 그 병을 막을 수 없었습니다. 이 지역 사람들은 이 지역의 질병과 괴물 모두를 두려워합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/StorySupport/C22-DiseaseCases_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "4e1ea4b2-751e-4307-a2f3-fef2195b7337"
@@ -28749,7 +28931,7 @@ msgid ""
 "The prayers of the {mf_HighPriest|High Priest|High Priestess} managed to "
 "halt the spread of the disease. The people are returning to their regular "
 "lives."
-msgstr "고위 사제의 기도로 간신히 병의 확산을 막을 수 있었습니다. 국민들은 정상 생활로 돌아가고 있습니다."
+msgstr "대사제의 기도로 간신히 병의 확산을 막을 수 있었습니다. 국민들은 정상 생활로 돌아가고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/StorySupport/C22-DiseaseDestroyedYourKingdom_LocalizedDescription
 msgctxt "edd7d76b-d64d-4711-84d4-47ae2199d27f"
@@ -28904,7 +29086,7 @@ msgctxt "6470ae86-adb1-4e19-bc3b-60829e7c2544"
 msgid ""
 "Prayers from the {mf_HighPriest|High Priest|High Priestess} managed to stop "
 "the spread of the disease. Finally, the fearsome plague has been contained."
-msgstr "고위 사제의 기도는 그 질병의 확산을 막는데 성공했습니다. 마침내, 무시무시한 전염병이 억제되었습니다."
+msgstr "대사제의 기도는 그 질병의 확산을 막는데 성공했습니다. 마침내, 무시무시한 전염병이 억제되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/StorySupport/C22-DiseaseWarning1Month_LocalizedDescription_String
 msgctxt "16d88420-4d2f-48b4-b81e-756b3fa57ccb"
@@ -29734,7 +29916,7 @@ msgid ""
 "up to you to handle it."
 msgstr ""
 "프리즘 기사단이 당신의 {mf|남작령|여남작령|왕국|왕국}를 문화는 잊혀지고 예술가들은 멸종위기에 처해있는 곳이라고 모함하고 있습니다. "
-"이 중상모략은 조언가가 해결할 수 없습니다. 그것을 처리하는 것은 당신에게 달려 있습니다."
+"이 중상모략은 보좌관이 해결할 수 없습니다. 그것을 처리하는 것은 당신에게 달려 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/StorySupport/CompanionValeriePrismAttack_LocalizedName
 msgctxt "5ccd8e63-8c15-4d4b-b700-d20272c5de02"
@@ -31104,8 +31286,8 @@ msgid ""
 "addressed at once. One of the advisors can speak to the enraged people and "
 "ask for their support, which the state so badly needs in these dark times."
 msgstr ""
-"{mf|남작령|여남작령|왕국|왕국}에 퍼져있는 폭동은 즉시 해결되어야 합니다. 조언가 중 한 명이 분노한 사람들 앞에 서서 그들의 지지를"
-" 요청할 수 있습니다. 이 어두운 시기에 나라는 그 지지를 매우 절실히 필요로 합니다."
+"{mf|남작령|여남작령|왕국|왕국}에 퍼져있는 폭동은 즉시 해결되어야 합니다. 보좌관 중 한 명이 분노한 사람들 앞에 서서 그들의 지지를 "
+"요청할 수 있습니다. 이 어두운 시기에 나라는 그 지지를 매우 절실히 필요로 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/UnrestMitigation/AppealtoLoyalty_LocalizedName_String
 msgctxt "9a62055f-9f13-46af-b1a2-7a0e11e9236c"
@@ -31210,7 +31392,7 @@ msgid ""
 "act firmly! An advisor must solve the problem through force of arms."
 msgstr ""
 "마을과 소도시에서 폭동이 일어나고 있습니다. 국민들은 공동의 적, 즉  {mf|남작|여남작|왕|여왕}과 {mf|his|her} 지지자에 "
-"대항하여 단결하기 위해 거리로 나서고 있습니다! 이제 단호한 조치를 취할 때입니다! 조언자는 무력을 통해 문제를 해결해야 합니다."
+"대항하여 단결하기 위해 거리로 나서고 있습니다! 이제 단호한 조치를 취할 때입니다! 보좌관은 무력을 통해 문제를 해결해야 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/UnrestMitigation/LastResort_LocalizedName_String
 msgctxt "72752fb1-0ae1-49b4-a5af-f407a2023cb0"
@@ -31543,7 +31725,7 @@ msgid ""
 "Monument, Noble's Villa, Pathfinder's Lodge, Temple of Abadar, Town Hall, "
 "Trade Shop, Waterfront) is reduced by 10%."
 msgstr ""
-"고정 주민 보너스가 있는 건물(바드 대학, 롱하우스, 마을 회관, 시청, 법원, 드워프 요새, 곡창, 무역 상점, 사치품 상점, 대저택, "
+"고정 주민 보너스가 있는 건물(바드 대학, 롱하우스, 마을 회관, 시청, 법원, 드워프 요새, 곡창, 소매 상점, 사치품 상점, 대저택, "
 "기념비, 귀족 별장, 패스파인더 지부, 아바다르 신전, 정박지, 부둣가)의 비용이 10% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/ComRank5-DiscountonComBuildings_LocalizedName
@@ -31598,7 +31780,7 @@ msgid ""
 "Monument, Noble's Villa, Pathfinder's Lodge, Temple of Abadar, Town Hall, "
 "Trade Shop, Waterfront) is reduced by 15%."
 msgstr ""
-"고정 주민 보너스가 있는 건물(바드 대학, 롱하우스, 마을 회관, 시청, 법원, 드워프 요새, 곡창, 무역 상점, 사치품 상점, 대저택, "
+"고정 주민 보너스가 있는 건물(바드 대학, 롱하우스, 마을 회관, 시청, 법원, 드워프 요새, 곡창, 소매 상점, 사치품 상점, 대저택, "
 "기념비, 귀족 별장, 패스파인더 지부, 아바다르 신전, 정박지, 부둣가)의 비용이 15% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/ComRank9-DiscountonComBuildings_LocalizedName
@@ -31719,7 +31901,7 @@ msgid ""
 "Garden, Library, Mage's Tower, Magic Shop, Magical Academy, Nethys' Academy,"
 " Nethys' Library, Pathfinder Lodge, University) is reduced by 15%."
 msgstr ""
-"고정 경제 보너스가 있는 건물(목재소, 선착장, 정박지, 부둣가, 상점, 무역 상점, 사치품 상점, 선술집, 여관, 안도란 은행, 은행, "
+"고정 경제 보너스가 있는 건물(목재소, 선착장, 정박지, 부둣가, 상점, 소매 상점, 사치품 상점, 선술집, 여관, 안도란 은행, 은행, "
 "축제, 조폐국)의 비용이 15% 절감됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/EcoRank6-DiscountonEcoBuildings_LocalizedName
@@ -31908,8 +32090,8 @@ msgid ""
 " Hall, Everflowing Spring, Exotic Garden, Herbalist, Magic Shop, Monument, "
 "Park, Swordlords' Academy, Temple of Caiden, Town Hall) is reduced by 10%."
 msgstr ""
-"고정 민심 보너스가 있는 건물(약초상의 집,  알케미스트의 실험실, 바드 대학, 시청, 영구 분수, 이국적인 정원, 마법 상점, 기념물, "
-"공원, 소드로드 아카데미, 케이든 사원, 마을 회관)의 비용이 10% 감소합니다."
+"고정 민심 보너스가 있는 건물(약초상의 집,  알케미스트의 실험실, 바드 대학, 시청, 마르지 않는 샘, 이국적인 정원, 마법 상점, "
+"기념물, 공원, 소드로드 아카데미, 케이든 케일리엔 신전, 마을 회관)의 비용이 10% 감소합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/LoyRank3-DiscountonLoyBuildings_LocalizedName
 msgctxt "b837c6fc-c340-414d-b0b1-74f04e67fe7b"
@@ -32220,8 +32402,8 @@ msgid ""
 "Justiciaries' Garrison, Lighthouse, Military Academy, Swordlords' Academy, "
 "Temple of Asmodeus) is reduced by 10%."
 msgstr ""
-"고정 치안 보너스가 있는 건물(성, 저수조, 법원, 드워프 요새, 영구 분수, 요새, 헬나이트 성, 법관투사 주둔지, 등대, 사관학교, "
-"소드로드 아카데미, 아스모데우스 신전)의 비용이 10% 감소합니다."
+"고정 치안 보너스가 있는 건물(성, 저수조, 법원, 드워프 요새, 마르지 않는 샘, 요새, 헬나이트 성, 법관투사 주둔지, 등대, "
+"사관학교, 소드로드 아카데미, 아스모데우스 신전)의 비용이 10% 감소합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/StaRank2-DiscountonStaBuildings_LocalizedName
 msgctxt "6f3e86b9-90c1-4700-b7e2-4e97489c9b19"
@@ -32281,8 +32463,8 @@ msgid ""
 "Justiciaries' Garrison, Lighthouse, Military Academy, Swordlords' Academy, "
 "Temple of Asmodeus) is reduced by 15%."
 msgstr ""
-"고정 치안 보너스가 있는 건물(성, 저수조, 법원, 드워프 요새, 영구 분수, 요새, 헬나이트 성, 법관투사 주둔지, 등대, 사관학교, "
-"소드로드 아카데미, 아스모데우스 신전)의 비용이 15% 감소합니다."
+"고정 치안 보너스가 있는 건물(성, 저수조, 법원, 드워프 요새, 마르지 않는 샘, 요새, 헬나이트 성, 법관투사 주둔지, 등대, "
+"사관학교, 소드로드 아카데미, 아스모데우스 신전)의 비용이 15% 감소합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/StaRank7-MoreDiscountonStaBuildings_LocalizedName
 msgctxt "70c4db3d-6e9c-4d9d-a93f-551b4a3d3e64"
@@ -32672,7 +32854,7 @@ msgctxt "308764e2-ed12-49e7-a0d1-b5a94ee79294"
 msgid ""
 "The advisor learns new nuances of their craft and becomes more efficient in "
 "their post."
-msgstr "이 조언자는 자신의 직무에 대한 미묘한 사항들을 배워 더 효율적으로 직무를 수행합니다."
+msgstr "이 보좌관은 자신의 직무에 대한 미묘한 사항들을 배워 더 효율적으로 직무를 수행합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_BartDiplName_String
 msgctxt "71e3facf-fdb3-44a5-a212-e492ccfdadcf"
@@ -32694,7 +32876,7 @@ msgstr "재무관으로서 바솔로뮤의 역량 강화"
 #| msgid "Strengthen Jhod's Skills as an Advisor"
 msgctxt "f663d08e-c319-4def-b699-014ec87ac37b"
 msgid "Strengthen Jhod's Skills as a High Priest"
-msgstr "조언가로서 조드의 역량 강화"
+msgstr "보좌관으로서 조드의 역량 강화"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_JhodFinish_String
 msgctxt "7b255cf8-1c7a-4266-8160-2d1c0ebc2c02"
@@ -32706,7 +32888,7 @@ msgstr "조드가 훈련을 완료했습니다."
 #| msgid "Strengthen Kassil's Skills as an Advisor"
 msgctxt "85e4c484-5193-446c-a695-64e9275bf106"
 msgid "Strengthen Kassil's Skills as a General"
-msgstr "조언가로서 카실의 역량 강화"
+msgstr "보좌관으로서 카실의 역량 강화"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_KassilFinish_String
 msgctxt "1a1ec20b-2aa0-42e4-b46a-87fa2706bf56"
@@ -32718,7 +32900,7 @@ msgstr "카실이 훈련을 완료했습니다."
 #| msgid "Strengthen Kesten's Skills as an Advisor"
 msgctxt "d85ae348-4ccc-4722-b1c1-fce2d4f08e14"
 msgid "Strengthen Kesten's Skills as a Warden"
-msgstr "조언가로서 케스텐의 역량 강화"
+msgstr "보좌관으로서 케스텐의 역량 강화"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_KestenFinish_String
 msgctxt "ffaeab9d-9f01-4655-8acc-a01006c12c11"
@@ -32730,7 +32912,7 @@ msgstr "케스텐이 훈련을 완료했습니다."
 #| msgid "Strengthen Lebeda's Skills as an Advisor"
 msgctxt "b4a7fabe-a490-44b9-8be5-0b50a74b0eb4"
 msgid "Strengthen Lebeda's Skills as a Regent"
-msgstr "조언가로서 레베다의 역량 강화"
+msgstr "보좌관으로서 레베다의 역량 강화"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_LebedaFinish_String
 msgctxt "b2da8d27-4610-4be1-a2c7-b921df1bbfc4"
@@ -32742,7 +32924,7 @@ msgstr "레베다가 훈련을 완료했습니다."
 #| msgid "Strengthen Maegar's Skills as an Advisor"
 msgctxt "0ae3343e-b582-449b-a842-22717a752f2d"
 msgid "Strengthen Maegar's Skills as a Treasurer"
-msgstr "조언가로서 메이가르의 역량 강화"
+msgstr "보좌관으로서 메이가르의 역량 강화"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_MaegarFinish_String
 msgctxt "775bf611-6fb6-4b15-8b28-7f56f037f140"
@@ -32754,7 +32936,7 @@ msgstr "메이가르가 훈련을 완료했습니다."
 #| msgid "Strengthen Shandra's Skills as an Advisor"
 msgctxt "97ec9fe6-ebb8-421c-9594-790310eaff03"
 msgid "Strengthen Shandra's Skills as a Councilor"
-msgstr "조언가로서 샨드라의 역량 강화"
+msgstr "보좌관으로서 샨드라의 역량 강화"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_ShandraFinish_String
 msgctxt "638c7e8f-abd9-44d5-9394-b6acbfb59877"
@@ -32796,7 +32978,7 @@ msgstr "고위사제로서 산나의 역량 강화"
 #| msgid "Strengthen \"Maegar's\" Skills as an Advisor"
 msgctxt "1aadc765-9bb6-4f2d-8a6e-4ac0c65df5d8"
 msgid "Strengthen \"Maegar's\" Skills as a Magister"
-msgstr "조언가로서 \"메이가르\"의 역량 강화"
+msgstr "보좌관으로서 \"메이가르\"의 역량 강화"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_VordFinish_String
 msgctxt "ec1ce31f-e0fc-4294-aebe-09d7d2ee99ae"
@@ -32926,7 +33108,7 @@ msgstr "2주 동안 {mf|남작령|여남작령|왕국|왕국}의 종교적 문�
 #. Mechanics/Blueprints/Kingdom/Events/Projects/RankUps/Shared_DivineRankUpProject_LocalizedName_String
 msgctxt "11aaf5e4-45db-4268-adb1-8da5b41b20cc"
 msgid "Support the {mf_HighPriest|High Priest|High Priestess}'s Endeavors"
-msgstr "고위 사제의 노력 지원"
+msgstr "대사제의 노력 지원"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/RankUps/Shared_DivineRankUpProject_SuccessLocalizedDescription_String
 msgctxt "d6e79561-2475-4e96-b505-5212edb6a741"
@@ -33326,18 +33508,18 @@ msgctxt "4f41928e-43af-439c-a00b-a2d30c7768a9"
 msgid ""
 "Plunder the Temple of the Elk and rob it of all remaining treasure. +150 BP."
 " Prevents future restoration of the Temple."
-msgstr "엘크의 신전을 약탈하고 남아있는 모든 보물을 차지합니다. +150 BP. 신전을 복원할 수 없게 됩니다."
+msgstr "엘크 신전을 약탈하고 남아있는 모든 보물을 차지합니다. +150 BP. 신전을 복원할 수 없게 됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/Ch21TempleoftheElkPillage_LocalizedName
 msgctxt "1ea52241-7dac-471d-b32d-c27c7670fecf"
 msgid "Pillage the Temple of the Elk"
-msgstr "엘크의 신전 약탈"
+msgstr "엘크 신전 약탈"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/Ch21TempleoftheElkPillage_Results.Array.data[0].LocalizedDescription
 msgctxt "4f33c699-1ed5-4941-855d-72bec4cb244f"
 msgid ""
 "All valuables from the Temple of the Elk have been moved to the treasury."
-msgstr "엘크의 신전에서 가져온 모든 귀중품은 금고로 옮겨졌습니다."
+msgstr "엘크 신전에서 가져온 모든 귀중품은 금고로 옮겨졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/Ch21TempleoftheElkRestoration_LocalizedDescription
 msgctxt "7532c559-2278-4c58-9605-2805bbf530d9"
@@ -33346,20 +33528,19 @@ msgid ""
 "Erastil's worship in all the surrounding areas. Unlocks a special region "
 "upgrade. Prevents pillaging the Temple."
 msgstr ""
-"엘크의 신전을 복원하여 주변 지역의 에라스틸 숭배의 중심지로 만듭니다. 특별 지역 승급을 잠금 해제합니다. 신전을 약탈할 수 없게 "
-"됩니다."
+"엘크 신전을 복원하여 주변 지역의 에라스틸 숭배의 중심지로 만듭니다. 특별 지역 승급을 잠금 해제합니다. 신전을 약탈할 수 없게 됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/Ch21TempleoftheElkRestoration_LocalizedName
 msgctxt "ff42b4fb-8c2b-4393-9a25-fdb7f4aa1c0c"
 msgid "Rebuild the Temple of the Elk"
-msgstr "엘크의 신전 재건"
+msgstr "엘크 신전 재건"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/Ch21TempleoftheElkRestoration_Results.Array.data[0].LocalizedDescription
 msgctxt "c9acf2db-66b2-46a1-a4e3-c66b655c4d5a"
 msgid ""
 "The Temple of the Elk has been restored! Erastil's faithful flock to the "
 "sacred place, to pay their respects to their god and patron."
-msgstr "엘크의 신전이 복원되었습니다! 에라스틸의 신자들이 신과 후원자에게 경의를 표하기 위해 이 신성한 곳으로 모여듭니다."
+msgstr "엘크 신전이 복원되었습니다! 에라스틸의 신자들이 신과 후원자에게 경의를 표하기 위해 이 신성한 곳으로 모여듭니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/Ch22FindingIvar_LocalizedDescription
 msgctxt "9d80d692-6ece-4296-8cda-6df19b6d380d"
@@ -34794,7 +34975,7 @@ msgctxt "45dc2b56-53df-4546-95fc-d51be25b2638"
 msgid ""
 "A heavily-guarded caravan will now carrying goods between our capital and "
 "Varnhold. +2 BP per week."
-msgstr "삼엄한 경비가 있는 캐러밴은 이제 우리 수도와 반홀드 사이에서 물건을 운반할 것입니다. 주 당 +2 BP"
+msgstr "삼엄한 경비가 있는 짐마차는 이제 우리 수도와 반홀드 사이에서 물건을 운반할 것입니다. 주 당 +2 BP"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/TradeAgreements/TradingWithVarnhold_LocalizedName
 msgctxt "abf6c907-0633-4aa8-9f88-21a05729ff32"
@@ -35104,8 +35285,8 @@ msgid ""
 " damage."
 msgstr ""
 "가혹하고 자비가 없는 글레네본 지역은 격노하는 전쟁의 신 고룸을 숭배하기에 완벽한 장소로 보입니다. 효과: 사관학교는 +2 신성을, "
-"성당은 +2 군사를, 투기장과 고룸의 신전은 군사와 신성을 +1 씩 제공합니다.  이 지역 및 인접 지역에서 장군 또는 고위 사제가 "
-"해결하는 모든 사건은 두 번 굴려 더 나은 결과를 취합니다. 또한 피해에 +4 신성 보너스를 제공합니다."
+"성당은 +2 군사를, 투기장과 고룸 신전은 군사와 신성을 +1 씩 제공합니다.  이 지역 및 인접 지역에서 장군 또는 대사제가 해결하는 "
+"모든 사건은 두 번 굴려 더 나은 결과를 취합니다. 또한 피해에 +4 신성 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Glenebon_Upgrade_GorumsHolyPlace_LocalizedName
 msgctxt "a9ec39d0-880b-421d-bd9b-d7d373457d37"
@@ -35688,7 +35869,7 @@ msgid ""
 " entire {mf|barony|barony|kingdom|kingdom}."
 msgstr ""
 "도둑맞은 땅은 마법과 신비의 장소이고, 당신의 수도와 주변은 그 신비의 진정한 심장부입니다. 이 지역을 비전 연구와 순례의 중심지로 "
-"만들어 보십시오. 효과: 이 지역에서 마법대신이나 고위 사제가 상황을 해결할 때 +5 보너스를 받습니다. 또한 "
+"만들어 보십시오. 효과: 이 지역에서 마법대신이나 대사제가 상황을 해결할 때 +5 보너스를 받습니다. 또한 "
 "{mf|baronny|kingdom|kingdom|kingdom} 어디에서나 지식 (비전)과 전승 (종교)에 +5의 능숙 보너스를 "
 "제공합니다."
 
