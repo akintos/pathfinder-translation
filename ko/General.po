@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-15 09:51+0000\n"
+"PO-Revision-Date: 2020-06-16 19:06+0000\n"
 "Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/general/ko/>\n"
@@ -15,7 +15,6 @@ msgstr ""
 "X-Generator: Weblate 3.3\n"
 
 #
-
 #. Mechanics/Blueprints/Buff Damage bonus_m_DisplayName
 msgctxt "ee15f0be-712b-40ba-8d1b-6575ece633e6"
 msgid "Damage bonus"
@@ -9329,8 +9328,8 @@ msgid ""
 msgstr ""
 "백성들이 불행하다면, 불안을 느끼거나 심지어는 폭동을 일으킬 수도 있습니다. 안정도는 지역 사회의 치안과 "
 "{mf|남작령|여남작령|왕국|왕국}의 상태를 반영합니다. 기본적으로는 안정 상태이지만 당신의 조치나 개별 사건에 따라 영향을 받습니다.\n"
-"안정도는 7개 등급으로 나뉩니다. 만약 당신의 나라가 번영하고 백성들이 행복하다면, 조언가는 사건 결과에 보너스를 받게 될 것입니다. "
-"만약 왕국의 안정도가 낮다면, 조언자들은 문제를 처리하고 기회를 이용하는 데 어려움을 겪습니다.\n"
+"안정도는 7개 등급으로 나뉩니다. 만약 당신의 나라가 번영하고 백성들이 행복하다면, 보좌관은 사건 결과에 보너스를 받게 될 것입니다. "
+"만약 왕국의 안정도가 낮다면, 보좌관들은 문제를 처리하고 기회를 이용하는 데 어려움을 겪습니다.\n"
 "안정도가 \"붕괴\" 아래로 떨어지면, 당신의 {mf|남작령|여남작령|왕국|왕국}은 파괴될 것입니다."
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_11_Caption_String
@@ -9351,7 +9350,7 @@ msgstr ""
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_12_1_Caption_String
 msgctxt "9ac8bcbf-f7ca-4ab1-a21f-b75993ccbdf2"
 msgid "Stat Development: Meeting with an Advisor"
-msgstr "지표 개발: 조언자와 회의"
+msgstr "지표 개발: 보좌관과 회의"
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_12_1_Message_String
 msgctxt "1da6de72-964b-4912-b77e-019a1faef2cc"
@@ -9361,8 +9360,9 @@ msgid ""
 "Whatever choices you make, remember: your advisors may disapprove. If the current advisor decides that you argue too much, they will quit forever."
 msgstr ""
 "{mf|남작령|여남작령|왕국|왕국} 지표 중 하나가 20점에 도달했습니다. 등급을 높일 때입니다.\n"
-"먼저, 조언가와 만나 국가의 미래에 대해 논의하십시오. 수도로 돌아가 알현실에서 해당 사건 카드의 버튼을 클릭하면 됩니다.\n"
-"어떤 선택은 조언가의 반대에 직면할 수 있다는 것을 기억하십시오. 조언가와 계속해서 갈등을 빚다 보면, 조언가는 그 자리를 아예 그만둬 버릴 것입니다."
+"먼저, 보좌관과 만나 국가의 미래에 대해 논의하십시오. 수도로 돌아가 알현실에서 해당 사건 카드의 버튼을 클릭하면 됩니다.\n"
+"어떤 선택은 보좌관의 반대에 직면할 수 있다는 것을 기억하십시오. 보좌관과 계속해서 갈등을 빚다 보면, 보좌관은 그 자리를 아예 그만둬 "
+"버릴 것입니다."
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_12_2_Caption_String
 msgctxt "d5c54cfb-15d3-43dd-bb28-102f57d0e2e4"
@@ -9375,8 +9375,8 @@ msgid ""
 "After you talk to an advisor and make a decision, a new kingdom project will become available that will increase a stat rank. You can find it at the bottom-center of the screen on the Projects tab.\n"
 "It will take you and your advisor 14 days to complete the project. Time will be automatically sped up until the project is completed."
 msgstr ""
-"조언가와 이야기하고 결정을 내린 후 계획 탭의 화면 하단 중앙에 나타나는 왕국 계획을 통해 지표 등급을 높일 수 있습니다.\n"
-"계획에는 당신과 조언가가 참여하며, 계획이 완료되기 까지 14일의 시간을 건너뛰게 됩니다."
+"보좌관과 이야기하고 결정을 내린 후 계획 탭의 화면 하단 중앙에 나타나는 왕국 계획을 통해 지표 등급을 높일 수 있습니다.\n"
+"계획에는 당신과 보좌관이 참여하며, 계획이 완료되기 까지 14일의 시간을 건너뛰게 됩니다."
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_12_project_reminder_Caption
 msgctxt "d8788d66-2d60-4c30-9dd0-fed9f7ed18de"
@@ -9391,13 +9391,13 @@ msgid ""
 "under the Projects tab. Assign an advisor and start the project to increase "
 "the rank of a stat."
 msgstr ""
-"조언가와 남작은 각 지표의 등급을 높이는 특별 계획에 14일을 할애할 것입니다. 이 계획은 계획 탭에서 찾을 수 있습니다. 지표 등급을 "
-"높이려면 조언가를 배정하고 계획을 시작하십시오."
+"보좌관과 남작은 각 지표의 등급을 높이는 특별 계획에 14일을 할애할 것입니다. 이 계획은 계획 탭에서 찾을 수 있습니다. 지표 등급을 "
+"높이려면 보좌관을 배정하고 계획을 시작하십시오."
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_12_reminder_Caption
 msgctxt "27390be0-b216-4764-8151-8bc32f4c7fd8"
 msgid "Talking to the Advisor"
-msgstr "조언가와 대화"
+msgstr "보좌관과 대화"
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_12_reminder_Message
 msgctxt "a5654989-d443-4065-9496-676622c1f095"
@@ -9405,7 +9405,7 @@ msgid ""
 "You need to talk to one of your advisors to address important matters in "
 "your barony. To do that, you have to close the Barony Management screen and "
 "get back to the throne room."
-msgstr "조언가와 상의하여 남작령의 중요 문제를 해결해야 합니다. 남작령 화면을 닫고 알현실로 돌아가면 조언가와 대화할 수 있습니다."
+msgstr "보좌관과 상의하여 남작령의 중요 문제를 해결해야 합니다. 남작령 화면을 닫고 알현실로 돌아가면 보좌관과 대화할 수 있습니다."
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_12_table_reminder_Caption
 msgctxt "77e9fcd4-6005-41d7-835b-31e51fe7a728"
@@ -9430,8 +9430,9 @@ msgid ""
 "The Projects tab will allow you to upgrade various aspects of your {mf|barony|barony|kingdom|kingdom}. New projects will come your way during the game as you meet certain conditions or undertake various ventures.\n"
 "To start working on a project, assign one of your advisor to it and spend the BP it requires. Completing a project usually takes a while."
 msgstr ""
-"계획 탭에서 {mf|남작령|여남작령|왕국|왕국}의 다양한 분야를 승급시킬 수 있습니다. 특정 조건을 충족하거나 다양한 모험을 수행함에 따라 새로운 계획을 진행할 수 있게 됩니다.\n"
-"계획에 착수하려면 조언가에게 계획을 배정하고 필요한 만큼 BP를 지불해야 합니다. 계획을 완료하는 데는 어느 정도 시간이 걸립니다."
+"계획 탭에서 {mf|남작령|여남작령|왕국|왕국}의 다양한 분야를 승급시킬 수 있습니다. 특정 조건을 충족하거나 다양한 모험을 수행함에 "
+"따라 새로운 계획을 진행할 수 있게 됩니다.\n"
+"계획에 착수하려면 보좌관에게 계획을 배정하고 필요한 만큼 BP를 지불해야 합니다. 계획을 완료하는 데는 어느 정도 시간이 걸립니다."
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_14_1_Caption_String
 msgctxt "e62f34af-dea4-4114-b2cc-1bce165da31b"
@@ -9502,14 +9503,14 @@ msgstr ""
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_18_Caption_String
 msgctxt "aee50caa-292b-46ed-bc9a-4276444b2e28"
 msgid "Advisor Upgrade"
-msgstr "조언자 승급"
+msgstr "보좌관 승급"
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_18_Message_String
 msgctxt "6a126fd6-d605-4050-8965-781b504e9c63"
 msgid ""
 "You may now upgrade your advisors' abilities! Complete the available kingdom"
 " project from the Projects tab to unlock this feature."
-msgstr "이제 조언자의 능력을 승급시킬 수 있습니다! 계획 탭에서 왕국 계획을 완료하면 이 기능을 사용할 수 있습니다."
+msgstr "이제 보좌관의 능력을 승급시킬 수 있습니다! 계획 탭에서 왕국 계획을 완료하면 이 기능을 사용할 수 있습니다."
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_19_Caption_String
 msgctxt "41a6f4bb-92d4-44e3-a6ea-4d2b40ee0ed5"
@@ -9536,7 +9537,10 @@ msgid ""
 "You are about to make the unyielding Stolen Lands a prosperous kingdom. There is a long and arduous road ahead of you. You and your advisors are going to deal with matters of national importance, found and build up settlements, seize and develop new regions, solve pressing problems, and take advantage of good opportunities. A prosperous governor will be handsomely rewarded with support and donations from their subjects, promising alliances with other states, wealth for their treasury, and many other things.\n"
 "Good luck in your ruling, {mf|Baron|Baroness}!"
 msgstr ""
-"당신은 누구도 정복하지 못햇던 도둑맞은 땅을 번영하는 왕국으로 만들려고 합니다. 당신 앞에는 길고도 험난한 길이 놓여있습니다. 당신과 조언가들은 국가의 중대사에 대처하고, 정착지를 찾아 건설하고, 새로운 지역을 장악하고 발전시키고, 긴급한 문제를 해결하고, 좋은 기회를 이용해야합니다. 다른 나라와의 동맹, 백성들을 위한 부, 그리고 다른 많은 것들을 약속하며 백성들에게 많은 지원과 기부를 받아내십시오. 그것이 바로 성공적인 지도자들이 하는 일입니다.\n"
+"당신은 누구도 정복하지 못햇던 도둑맞은 땅을 번영하는 왕국으로 만들려고 합니다. 당신 앞에는 길고도 험난한 길이 놓여있습니다. 당신과 "
+"보좌관들은 국가의 중대사에 대처하고, 정착지를 찾아 건설하고, 새로운 지역을 장악하고 발전시키고, 긴급한 문제를 해결하고, 좋은 기회를 "
+"이용해야합니다. 다른 나라와의 동맹, 백성들을 위한 부, 그리고 다른 많은 것들을 약속하며 백성들에게 많은 지원과 기부를 받아내십시오. "
+"그것이 바로 성공적인 지도자들이 하는 일입니다.\n"
 "당신의 통치에 행운을 빕니다. {mf|남작님|여남작님}!"
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_1_2_Caption_String
@@ -9610,7 +9614,7 @@ msgid ""
 "Relations (Grand Diplomat), Stability (Warden), Magic (Magister), Culture "
 "(Curator), and Espionage (Minister)."
 msgstr ""
-"{mf|남작령|남작령|왕국|왕국}에는 조언가들이 담당하는 10개의 기본 지표가 있습니다. 각각의 조언가들이 담당하는 지표는 다음과 "
+"{mf|남작령|남작령|왕국|왕국}에는 보좌관들이 담당하는 10개의 기본 지표가 있습니다. 각각의 보좌관들이 담당하는 지표는 다음과 "
 "같습니다. 주민-섭정, 민심-평의원, 군사-장군, 경제-재무관, 신성-사제, 외교-수석 외교관, 치안-감시관, 마법-마법대신, 문화-"
 "학예사, 첩보-장관."
 
@@ -9625,13 +9629,15 @@ msgid ""
 "Stats increase if your governance is successful and decrease if events don't end well or other negative factors are placed in your way. Don't let your {mf|barony|barony|kingdom|kingdom} stats drop to zero or lower — this will cause your subjects to riot, and your state will begin to crumble.\n"
 "Each stat has certain milestones or ranks within them. Every 20 points in a stat will increase your rank. Rank 1 unlocks a corresponding advisor position for that stat. Further development of the stat and upgrades to its ranks will be possible only if you have an advisor in the relevant position."
 msgstr ""
-"나라를 잘 다스리면 지표가 올라가고, 사건이 잘 마무리 되지 않거나 다른 부정적인 요소가 있으면 지표가 감소합니다. {mf|남작령|남작령|왕국|왕국} 지표가 0 이하로 떨어지면 백성들이 폭동을 일으켜 국가가 무너질 것입니다.\n"
-"각 지표에는 특정 이정표 또는 등급이 있습니다. 지표 20 점마다 등급이 올라갑니다. 1 등급을 달성하면 해당 지표를 담당하는 조언가를 임명할 수 있게 됩니다. 조언가가 있어야만 지표를 더 개발하고 등급을 올릴 수 있습니다."
+"나라를 잘 다스리면 지표가 올라가고, 사건이 잘 마무리 되지 않거나 다른 부정적인 요소가 있으면 지표가 감소합니다. "
+"{mf|남작령|남작령|왕국|왕국} 지표가 0 이하로 떨어지면 백성들이 폭동을 일으켜 국가가 무너질 것입니다.\n"
+"각 지표에는 특정 이정표 또는 등급이 있습니다. 지표 20 점마다 등급이 올라갑니다. 1 등급을 달성하면 해당 지표를 담당하는 보좌관을 "
+"임명할 수 있게 됩니다. 보좌관이 있어야만 지표를 더 개발하고 등급을 올릴 수 있습니다."
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_2_3_Caption_String
 msgctxt "62aefe12-838c-4928-bc2c-c150cf0e6ba0"
 msgid "Advisors"
-msgstr "조언가"
+msgstr "보좌관"
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_2_3_Message_String
 msgctxt "d4701e44-b646-4ce8-8aeb-598f2b3ced94"
@@ -9640,14 +9646,17 @@ msgid ""
 "Every advisor acts on their own ideology. They have their own opinions on everything that happens in your domain. Therefore, you may want to select characters whose governance philosophy is consistent with your own.\n"
 "Open the advisor tab on the right side of the screen, click an empty slot, and select a character to appoint them as an advisor."
 msgstr ""
-"{mf|남작령|여남작령|왕국|왕국}를 다스리려면 지표마다 조언가를 임명해야 합니다. 조언가는 도둑맞은 땅의 주민이나 동료 중에서 임명할 수 있습니다. 조언가는 각 지표 별로 최소 3명의 후보가 있습니다. 이들 모두가 즉시 당신을 위해 봉사하지는 않습니다. 어떤 후보는 설득을 거쳐야만 조언가로 임명할 수 있습니다. 그 과정에서 부탁을 들어주는 등의 일을 해야할 수도 있습니다.\n"
-"조언가는 자신의 이념에 따라 행동합니다. 영지 내에서 일어나는 일에 대해 조언가는 나름의 의견을 가지고 있습니다. 따라서 당신과 통치철학이 비슷한 인물을 선택하는 것이 좋습니다.\n"
-"화면 오른쪽에 있는 조언가 탭을 열고 빈 칸을 클릭 한 후 인물을 선택하여 고문으로 임명하십시오."
+"{mf|남작령|여남작령|왕국|왕국}를 다스리려면 지표마다 보좌관을 임명해야 합니다. 보좌관은 도둑맞은 땅의 주민이나 동료 중에서 임명할 "
+"수 있습니다. 보좌관은 각 지표 별로 최소 3명의 후보가 있습니다. 이들 모두가 즉시 당신을 위해 봉사하지는 않습니다. 어떤 후보는 "
+"설득을 거쳐야만 보좌관으로 임명할 수 있습니다. 그 과정에서 부탁을 들어주는 등의 일을 해야할 수도 있습니다.\n"
+"보좌관은 자신의 이념에 따라 행동합니다. 영지 내에서 일어나는 일에 대해 보좌관은 나름의 의견을 가지고 있습니다. 따라서 당신과 "
+"통치철학이 비슷한 인물을 선택하는 것이 좋습니다.\n"
+"화면 오른쪽에 있는 보좌관 탭을 열고 빈 칸을 클릭 한 후 인물을 선택하여 고문으로 임명하십시오."
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_2_4_Caption_String
 msgctxt "94cb5e5d-6bfa-41cd-a433-434fb870ab4b"
 msgid "More about Advisors"
-msgstr "조언가에 대한 더 많은 사항"
+msgstr "보좌관에 대한 더 많은 사항"
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_2_4_Message_String
 msgctxt "1e54d0bb-5045-4a0e-9109-a2c7943fee37"
@@ -9655,8 +9664,9 @@ msgid ""
 "Every {mf|barony|barony|kingdom|kingdom} stat gains a bonus from a specific ability of the appointed advisor. The exact size of the bonus is indicated in the upper right corner of the advisor's card.\n"
 "Only advisors may address the problems, opportunities, and sudden events that occur in your domain and require immediate attention. Don't leave these positions vacant!"
 msgstr ""
-"{mf|남작령|여남작령|왕국|왕국} 지표는 임명된 조언가의 특정 능력으로부터 보너스를 얻습니다. 보너스를 얼마나 받는지는 조언가 카드의 오른쪽 상단 모서리에 표시됩니다.\n"
-"영지에서 발생하는 문제, 기회 및 갑작스런 사건은 조언가가 있어야만 해결할 수 있습니다. 조언가 자리를 비워두지 마십시오!"
+"{mf|남작령|여남작령|왕국|왕국} 지표는 임명된 보좌관의 특정 능력으로부터 보너스를 얻습니다. 보너스를 얼마나 받는지는 보좌관 카드의 "
+"오른쪽 상단 모서리에 표시됩니다.\n"
+"영지에서 발생하는 문제, 기회 및 갑작스런 사건은 보좌관이 있어야만 해결할 수 있습니다. 보좌관 자리를 비워두지 마십시오!"
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_3_Caption_String
 msgctxt "1ce70cce-cd86-403a-9bb1-63272cfc3bba"
@@ -9671,14 +9681,14 @@ msgstr "정착지 지도를 열려면 수도 아이콘을 클릭하십시오."
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_4reminder_Caption_String
 msgctxt "d029ad6a-5067-41b4-bb74-fbfa9be24eb1"
 msgid "Assigning Advisors"
-msgstr "조언가 임명"
+msgstr "보좌관 임명"
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_4reminder_Message_String
 msgctxt "69f03edd-aa74-401a-b7b8-75af8e6e6a20"
 msgid ""
 "Your barony requires filled advisor positions to function. Use the Advisors "
 "tab to assign advisors to their positions."
-msgstr "남작령의 직무를 수행할 조언가 자리가 다 채워지지 않았습니다. 조언가 탭을 누르고 조언가를 임명하십시오."
+msgstr "남작령의 직무를 수행할 보좌관 자리가 다 채워지지 않았습니다. 보좌관 탭을 누르고 보좌관을 임명하십시오."
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_4_1_Caption_String
 msgctxt "3fd583b2-079d-4edd-9989-1e24d1fc8c5c"
@@ -9754,8 +9764,8 @@ msgstr ""
 "새로운 지역에 권리를 주장하기 위해 해야 ​​할 일은 다음과 같습니다.\n"
 "-특별한 지역 조건을 충족해야 합니다. 즉, 퀘스트를 완료하거나 지표가 일정한 등급에 도달해야합니다.\n"
 "-점령에 충분한 BP가 있어야 합니다.\n"
-"-점령을 담당할 조언가 자리가 비어있으면 안됩니다.\n"
-"점령은 왕국 계획이며, 계획을 실행하면 당신과 조언가는 계획에 소요되는 14일의 시간을 건너뛰게 됩니다.\n"
+"-점령을 담당할 보좌관 자리가 비어있으면 안됩니다.\n"
+"점령은 왕국 계획이며, 계획을 실행하면 당신과 보좌관은 계획에 소요되는 14일의 시간을 건너뛰게 됩니다.\n"
 "새 영토에 대한 권리를 얻어 영토에 병합시키면, 국경이 변하고 새로 얻은 지역이 지닌 모든 보너스를 받게됩니다."
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_6_Caption_String
@@ -9783,8 +9793,11 @@ msgid ""
 "Problems to solve and opportunities to seize occur from time to time in your domain. These events may increase or decrease your {mf|barony|barony|kingdom|kingdom}'s stats; don't forget to look them up.\n"
 "All current events are listed at the bottom of the screen. An event may be addressed by the relevant advisor. To assign a task to an advisor, click the frame on the right side of the event card. The character in charge will act based on their own ideology and nature. It takes time to deal with an event, so the advisor will be unavailable for any other official missions."
 msgstr ""
-"해결해야 할 문제와 붙잡아야 할 기회는 영지 내에서 수시로 발생합니다. 이러한 사건은 {mf|남작령|여남작령|왕국|왕국}의 지표를 상승시키거나 감소시킬 수 있습니다. 문제와 기회를 잘 살펴보십시오.\n"
-"사건은 모두 화면 하단에 나열되어 있습니다. 사건은 조언가가 처리 할 수 ​​있습니다. 조언가에게 임무를 배정하려면, 사건 카드의 오른쪽에 있는 틀을 누르십시오. 조언가는 자신의 이념과 성격에 따라 행동 할 것입니다. 사건을 처리하는 데는 시간이 걸리므로 다른 임무를 맡고있는 조언가는 배정할 수 없습니다."
+"해결해야 할 문제와 붙잡아야 할 기회는 영지 내에서 수시로 발생합니다. 이러한 사건은 {mf|남작령|여남작령|왕국|왕국}의 지표를 "
+"상승시키거나 감소시킬 수 있습니다. 문제와 기회를 잘 살펴보십시오.\n"
+"사건은 모두 화면 하단에 나열되어 있습니다. 사건은 보좌관이 처리 할 수 ​​있습니다. 보좌관에게 임무를 배정하려면, 사건 카드의 "
+"오른쪽에 있는 틀을 누르십시오. 보좌관은 자신의 이념과 성격에 따라 행동 할 것입니다. 사건을 처리하는 데는 시간이 걸리므로 다른 임무를 "
+"맡고있는 보좌관은 배정할 수 없습니다."
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_7_2_Caption_String
 msgctxt "77635681-83f2-4969-94fa-4c0231230194"
@@ -9798,9 +9811,11 @@ msgid ""
 "The advisor's post ability is added to the dice roll. The {mf|barony|barony|kingdom|kingdom} stat the advisor is responsible for adds another 2 points per rank to every roll.\n"
 "Example: Valerie as a Regent (Population stat) grants a +2 bonus for her high Charisma. The Population stat rank is 1, so it gives another +2 bonus. If Valerie is put in charge of an event, her dice roll would have an overall bonus of +4 points."
 msgstr ""
-"모든 사건에는 난이도가 있습니다. 사건을 성공적으로 해결하려면 조언가는 난이도보다 높은 숫자를 굴려야합니다.\n"
-"주사위 굴림은 조언가의 특정 능력치와 {mf|남작령|여남작령|왕국|왕국} 지표에 따라 보너스를 받습니다. 조언가가 담당하고 있는 있는 지표의 등급 마다 2 점의 보너스를 받습니다.\n"
-"예: 주민을 담당하는 섭정 발레리는 매력이 높아 +2의 보너스를 받습니다. 주민 지표 등급이 1이므로 추가 +2의 보너스를 받습니다. 따라서 발레리가 사건을 담당하면 주사위 굴림에 +4 점의 보너스가 추가됩니다."
+"모든 사건에는 난이도가 있습니다. 사건을 성공적으로 해결하려면 보좌관은 난이도보다 높은 숫자를 굴려야합니다.\n"
+"주사위 굴림은 보좌관의 특정 능력치와 {mf|남작령|여남작령|왕국|왕국} 지표에 따라 보너스를 받습니다. 보좌관이 담당하고 있는 있는 "
+"지표의 등급 마다 2 점의 보너스를 받습니다.\n"
+"예: 주민을 담당하는 섭정 발레리는 매력이 높아 +2의 보너스를 받습니다. 주민 지표 등급이 1이므로 추가 +2의 보너스를 받습니다. "
+"따라서 발레리가 사건을 담당하면 주사위 굴림에 +4 점의 보너스가 추가됩니다."
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_8_1_Caption_String
 msgctxt "e0b7bdd4-bfd8-4462-84ef-33eddb70220c"
@@ -9878,8 +9893,8 @@ msgid ""
 "barony!"
 msgstr ""
 "당신이 경고받은 \"고대의 저주\"가 영지를 덮치고 있습니다! 이걸 해결하지 않으면 2주 동안 이틀에 한 번 남작령의 지표를 감소시킬 "
-"것입니다. 남작령을 보호하려면 서둘러 민둥 언덕마루로 가서 위협을 마주하고, 저주의 결과를 분석하기 위해 조언가 하나를 파견해야 합니다."
-" 남작령의 평화를 위해서는 두 가지 조치를 모두 취해야 합니다!"
+"것입니다. 남작령을 보호하려면 서둘러 민둥 언덕마루로 가서 위협을 마주하고, 저주의 결과를 분석하기 위해 보좌관 하나를 파견해야 합니다. "
+"남작령의 평화를 위해서는 두 가지 조치를 모두 취해야 합니다!"
 
 #. Mechanics/Blueprints/Units/Bosses/BlakemoorHideout/Siroket_EnragedWarrior_m_Description
 msgctxt "ea94cfd4-f1fa-41a9-b3ea-d3a8e4c70ebf"
@@ -17109,7 +17124,7 @@ msgstr "셸린의 팔라딘 헤젠드"
 #. Mechanics/Blueprints/Units/Names/NPC/Guards/C21_ValerieQ3/MainPrismPriest_String
 msgctxt "053aab0c-ef3b-4c45-8dae-640e07e0af90"
 msgid "Laryen, the High Priest of Shelyn"
-msgstr "셸린의 고위 사제 라리엔"
+msgstr "셸린의 대사제 라리엔"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Guards/C21_ValerieQ3/PrismPaladin_String
 msgctxt "26df5d4e-3d9e-4b89-aedf-5e63e8f68396"
@@ -17637,7 +17652,7 @@ msgstr "취한 불량배"
 #. combat/C51_RushlightFestival/Eimar_String
 msgctxt "1774d3b2-c9b7-4929-970a-c3e4f6e243c4"
 msgid "Eimar Deschamps"
-msgstr "이마르 디샴"
+msgstr "이마르 데샹"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Non-
 #. combat/C51_RushlightFestival/GasperreLiacenza_String
@@ -18844,7 +18859,8 @@ msgid ""
 "\"There are two kinds of issues that the ruler must address: boring ones and amusing ones. The bright side: you have servants and advisors to handle all the boring problems!\"\n"
 "— Lander Lebeda"
 msgstr ""
-"\"통치자가 관심을 기울여야 이슈에는 두가지 종류가 있습니다: 지루한 것들과 재미있는 것들이 있지요: 다행인건, 당신에겐 모든 지루한 문제를 다뤄줄 조언자들이 있다는 겁니다!\" \n"
+"\"통치자가 관심을 기울여야 이슈에는 두가지 종류가 있습니다: 지루한 것들과 재미있는 것들이 있지요: 다행인건, 당신에겐 모든 지루한 "
+"문제를 다뤄줄 보좌관들이 있다는 겁니다!\" \n"
 "- 란더 레베다"
 
 #. UI/LoadingScreen/LoadingScreenHints_Hints.Array.data[19]
@@ -19156,7 +19172,7 @@ msgctxt "828f818b-4623-49c4-b690-a32a5b710f71"
 msgid ""
 "Flank your enemies for maximum damage. A creature is considered flanked if "
 "two or more characters are attacking it at the same time."
-msgstr "최대의 피해를 주기 위해 적을 협공하십시오. 여러 명의 캐릭터가 동시에 한 명을 공격할 때 협공이 됩니다."
+msgstr "쉽게 공격을 명중시키고 싶다면 적을 협공하십시오. 여러 명의 캐릭터가 동시에 한 명을 공격할 때 협공이 됩니다."
 
 #. UI/LoadingScreen/LoadingScreenHints_Hints.Array.data[52]
 msgctxt "50d9bfbc-61a9-4f41-9199-9e79832d16e3"
@@ -19280,7 +19296,7 @@ msgid ""
 "candidates. You can't develop your kingdom without capable advisors. The "
 "Treasurer position is especially important, since it boosts Economy."
 msgstr ""
-"가능한 후보자를 모두 채우십시오. 유능한 조언자 없이는 왕국을 발전시킬 수 없습니다. 재무관의 자리는 경제를 향상시키기 때문에 특히 "
+"가능한 후보자를 모두 채우십시오. 유능한 보좌관 없이는 왕국을 발전시킬 수 없습니다. 재무관의 자리는 경제를 향상시키기 때문에 특히 "
 "중요합니다."
 
 #. UI/LoadingScreen/LoadingScreenHints_Hints.Array.data[68]
@@ -19434,8 +19450,8 @@ msgid ""
 "kill him, enraging his patron."
 msgstr ""
 "누메리아 바바리안의 고대 족장 아르막은 무자비한 전쟁의  신 고룸에게 선택받은 자였습니다. 전설에 따르면 그 누구도 전투에서 아르막을 "
-"이기지 못했다고 합니다. 죽음의 여신 파라즈마가 그녀의 하인을 보내 그를 죽이기 전까지는 말이지요. 이 일은 그의 후견신인 고룸을 분노케"
-" 했다고 합니다."
+"이기지 못했다고 합니다. 죽음의 여신 파라즈마가 그녀의 하인을 보내 그를 죽이기 전까지는 말이지요. 이 일은 그의 수호신인 고룸을 분노케 "
+"했다고 합니다."
 
 #. UI/LoadingScreen/LoadingScreenHints_Hints.Array.data[83]
 msgctxt "93d96ff5-ec0a-4a4e-a2a9-efa139e68680"
