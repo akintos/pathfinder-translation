@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-16 19:07+0000\n"
+"PO-Revision-Date: 2020-06-18 04:07+0000\n"
 "Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/root/ko/>\n"
@@ -4961,7 +4961,7 @@ msgid ""
 "even more eyes and tongues. Boggards portray her as a huge queen of their "
 "kind."
 msgstr ""
-"고군타는 썩은 늪의 악마 군주이며 유일한 늪지대의 여신입니다. 고군타는 많은 머리와 눈과 혀를 가진 개구리의 모습을 하고 있습니다. "
+"고군타는 썩은 늪의 데몬 군주이며 유일한 늪지대의 여신입니다. 고군타는 많은 머리와 눈과 혀를 가진 개구리의 모습을 하고 있습니다. "
 "보가드는 그녀를 거대한 보가드 여왕으로 묘사합니다."
 
 #. Mechanics/Blueprints/Root/Glossary Characters_Entries.Array.data[26].Name
@@ -5352,7 +5352,9 @@ msgid ""
 "Peris are a race of celestials native to the good-aligned Outer Planes, but they are also often found in the company of mortals on the Material Plane. Believed to be the descendants of fallen angels, peris do penance for their ancestors' sins before they can earn a place in paradise. As a result, peris work tirelessly to aid and support good heroes of the mortal realms in a neverending battle against evil. Peris hate the evil fiends known as divs, who constantly seek to ruin the good works of mortals.\n"
 "Emberkin aasimars are descendants of peris."
 msgstr ""
-"페리는 선 선향 외부차원에 속하는 천상의 종족이지만, 믈질계의 필멸자들 사이에서도 종종 찾을 수 있습니다. 타락한 천사의 후손이라고 하는 페리는 조상들의 죄를 참회하여 낙원에 자리를 마련하고자 합니다. 그래서 페리는 악과의 끝없는 싸움에서 필멸자의 선한 영웅들을 보조하고 지원하는데 줄기차게 헌신합니다. 디브라는 사악한 악마들은 끊임없이 필멸자들의 선한 일을 망치려고 하기 때문에 페리는 이들을 싫어합니다.\n"
+"페리는 선 선향 외부차원에 속하는 천상의 종족이지만, 믈질계의 필멸자들 사이에서도 종종 찾을 수 있습니다. 타락한 천사의 후손이라고 하는 "
+"페리는 조상들의 죄를 참회하여 낙원에 자리를 마련하고자 합니다. 그래서 페리는 악과의 끝없는 싸움에서 필멸자의 선한 영웅들을 보조하고 "
+"지원하는데 줄기차게 헌신합니다. 디브라는 사악한 데블들은 끊임없이 필멸자들의 선한 일을 망치려고 하기 때문에 페리는 이들을 싫어합니다.\n"
 "엠버스킨 아시마르는 페리의 후손입니다."
 
 #. Mechanics/Blueprints/Root/Glossary Characters_Entries.Array.data[44].Name
@@ -7281,13 +7283,13 @@ msgstr ""
 #. 2_Entries.Array.data[176].Description
 msgctxt "e13f1bf0-1b0b-4588-8391-a855cff8d1ca"
 msgid "You surrendered Kanerah to the devil known as the Forefather."
-msgstr "당신은 선조라 알려진 악마에게 카네라를 넘겨주었습니다."
+msgstr "당신은 선조라 알려진 데블에게 카네라를 넘겨주었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions
 #. 2_Entries.Array.data[177].Description
 msgctxt "bc6c95e3-b68a-4006-8d72-c426f529b8dc"
 msgid "You surrendered Kalikke to the devil known as the Forefather."
-msgstr "당신은 선조라 알려진 악마에게 칼리케를 넘겨주었습니다."
+msgstr "당신은 선조라 알려진 데블에게 칼리케를 넘겨주었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions
 #. 2_Entries.Array.data[178].Description
@@ -7295,7 +7297,7 @@ msgctxt "c7a6a87f-319f-4be7-9bfd-83f0a45a4ffe"
 msgid ""
 "Your words and actions prompted Kalikke to willingly surrender to the devil "
 "known as the Forefather."
-msgstr "당신의 말과 행동은 칼리케로 하여금 스스로를 선조라 알려진 악마에게 내어주게끔 만들었습니다."
+msgstr "당신의 말과 행동은 칼리케로 하여금 스스로를 선조라 알려진 데블에게 내어주게끔 만들었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions
 #. 2_Entries.Array.data[179].Description
@@ -7303,7 +7305,7 @@ msgctxt "e48ab4a6-ad35-4c16-abd2-29b7493ba77a"
 msgid ""
 "Your words and actions prompted Kanerah to willingly join the devil known as"
 " the Forefather."
-msgstr "당신의 말과 행동은 카네라로 하여금 스스로를 선조라 알려진 악마에게 내어주게끔 만들었습니다."
+msgstr "당신의 말과 행동은 카네라로 하여금 스스로를 선조라 알려진 데블에게 내어주게끔 만들었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions
 #. 2_Entries.Array.data[1].Description
@@ -8145,7 +8147,7 @@ msgid ""
 "demons, its rulers demon lords, who wrested control of the plane eons ago "
 "from the primordial qlippoth."
 msgstr ""
-"심연은 무법적인 악의 지배에 전념하는 외부 차원입니다. 메일스트롬의 거대한 균열 사이로 들어가면 상상을 초월하는 규모의 악마의 협곡이 "
+"심연은 무법적인 악의 지배에 전념하는 외부 차원입니다. 메일스트롬의 거대한 균열 사이로 들어가면 상상을 초월하는 규모의 데몬의 협곡이 "
 "펼쳐집니다. 어비스는 스틱스 강이 꿰어놓은 여러 층계로 이루어져 있습니다. 시원자 클리포스로부터 지배권을 강탈한 데몬 군주들이 지배하고 "
 "있으며, 주민들도 마찬가지로 데몬입니다."
 
