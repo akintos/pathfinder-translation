@@ -1,6 +1,20 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-18 13:07+0900\n"
+"PO-Revision-Date: 2020-06-18 04:07+0000\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/"
+"pathfinder_kingmaker/spells/ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.3\n"
+
+#
 
 #. Mechanics/Blueprints/Spells/Atonement_Description_String
 msgctxt "87dcd31e-fda3-48dd-a77f-8e433c770556"
@@ -4510,10 +4524,9 @@ msgid ""
 "of damage if they fail their saves. Good-aligned creatures in the burst gain"
 " a +2 sacred bonus on attack and damage rolls for 1 round."
 msgstr ""
-"당신은 악마의 부하들에게 저주가 되고 선한 피조물의 결단력을 강화시키는 태초의 언어를 한 마디 속삭입니다. 범위 안에 있는 악한 크리처는"
-" 내성에 실패하면 1 라운드 / 레벨 동안 병에 걸리게됩니다. 범위 내의 악 하위유형의 악한 외차원체, 악 성향의 드래곤, 언데드는 "
-"내성에 실패하면 2d8 점의 피해를 받습니다. 범위 내 선 선향의 크리처는 1 라운드 동안 명중과 피해 굴림에 +2 신성 보너스를 "
-"얻습니다."
+"당신은 악의 하수인들에게 저주가 되고 선한 크리처의 결단력을 강화시키는 태초의 언어 한 마디를 속삭입니다. 범위 안에 있는 악한 크리처는 "
+"내성에 실패하면 1 라운드 / 레벨 동안 병에 걸리게됩니다. 범위 내의 악 하위유형의 악한 외차원체, 악 성향의 드래곤, 언데드는 내성에 "
+"실패하면 2d8 점의 피해를 받습니다. 범위 내 선 선향의 크리처는 1 라운드 동안 명중과 피해 굴림에 +2 신성 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/Spells/Level3/InflictSeriousWoundsCast_DisplayName_String
 msgctxt "fcba118c-55f6-48e6-8ddf-08d92d6f0450"
@@ -9254,8 +9267,10 @@ msgid ""
 "You must make a successful ranged touch attack to hit your target with the ray, which deals 2d6 points of acid damage, 2d6 points of cold damage, 2d6 points of electricity damage, and 2d6 points of fire damage.\n"
 "The type of energy that does the most damage to the target then persists, dealing another 4d6 points of that damage type per round for 1d4 rounds."
 msgstr ""
-"아자타 용사는 무슨 저항을 가졌는지 알지 못하는 악마를 상대하기 위해 이 주문을 개발했습니다. 손에서부터 여러 색깔이 나선형으로 모인 광선이 대상을 향해 뻗어나갑니다.\n"
-"원거리 접촉 공격을 명중시키면  2d6 점의 산성 피해, 2d6 점의 냉기 피해, 2d6 점의 전기 피해 및 2d6 점의 화염 피해를 입힙니다.\n"
+"아자타 용사는 무슨 저항을 가졌는지 알지 못하는 데몬을 상대하기 위해 이 주문을 개발했습니다. 손에서부터 여러 색깔이 나선형으로 모인 "
+"광선이 대상을 향해 뻗어나갑니다.\n"
+"원거리 접촉 공격을 명중시키면  2d6 점의 산성 피해, 2d6 점의 냉기 피해, 2d6 점의 전기 피해 및 2d6 점의 화염 피해를 "
+"입힙니다.\n"
 "목표물에 가장 큰 피해를 입히는 유형의 에너지가 1d4 라운드 동안 지속되어 매 라운드 4d6 점의 피해를 입힙니다."
 
 #. Mechanics/Blueprints/Spells/Level6/ElementalBodyIIIAir_DisplayName_String
