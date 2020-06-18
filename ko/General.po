@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-19 05:06+0000\n"
-"Last-Translator: 냠 <setsuna444@naver.com>\n"
+"PO-Revision-Date: 2020-06-19 05:07+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/general/ko/>\n"
 "Language: ko\n"
@@ -16622,11 +16622,9 @@ msgid "Natala Surtova"
 msgstr "나탈라 서토바"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Cephal/Cephal_String
-#, fuzzy
-#| msgid "Cephal"
 msgctxt "9c284534-15c0-4b2b-868d-72c61836e327"
 msgid "Cephal Lorentus"
-msgstr "케팔"
+msgstr "케팔 로렌투스"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Commoners/CR0_Farmer_String
 msgctxt "ee1b71aa-fc83-4819-b032-1d149e2bd04b"
@@ -16914,11 +16912,9 @@ msgid "Aecora Silverfire"
 msgstr "에코라 실버파이어"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Commoners/DLC2_NewDunswardOutdoor/CentaurGuard_String
-#, fuzzy
-#| msgid "(draft) Centaur"
 msgctxt "83b609d0-2fb8-45bf-beaf-76b4b8ce6d07"
 msgid "Centaur"
-msgstr "(고용) 켄타우르스"
+msgstr "켄타우르스"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Commoners/DLC2_NewDunswardOutdoor/CultistBoy_String
 msgctxt "a6bd20b1-344f-44cd-a0ff-eb69ff3d15cd"
@@ -18798,11 +18794,6 @@ msgid "Treasure"
 msgstr " 보물"
 
 #. UI/LoadingScreen/LoadingScreenHints_Hints.Array.data[0]
-#, fuzzy
-#| msgid ""
-#| "If you find the encounter too challenging, feel free to adjust the battle "
-#| "difficulty at the Options menu. Same goes for the Kingdom development. You "
-#| "can even turn it to auto-mode if you prefer to focus on adventuring."
 msgctxt "fe110fe7-560a-4493-8bb4-b12a04df6c67"
 msgid ""
 "If you find an encounter too challenging, feel free to adjust the battle "
@@ -19587,8 +19578,6 @@ msgstr ""
 "따라 행동할 것입니다."
 
 #. UI/LoadingScreen/LoadingScreenHints_ReviewHint
-#, fuzzy
-#| msgid "How is your adventure going? Let us know — leave a review!"
 msgctxt "1670f261-f115-486f-b812-bd1568ac7d2a"
 msgid "How is your adventure going? Let us know – leave a review!"
 msgstr "즐거운 모험 중이신가요? 리뷰를 남겨주세요!"
