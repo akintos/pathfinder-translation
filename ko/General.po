@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-18 04:06+0000\n"
+"PO-Revision-Date: 2020-06-19 05:06+0000\n"
 "Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/general/ko/>\n"
@@ -293,12 +293,12 @@ msgctxt "2bb609f3-f0fe-4578-b8e1-e8b4e4429150"
 msgid ""
 "Heavy rain reduces visibility, resulting in a -6 penalty on Perception "
 "checks and a 20% chance to miss on all ranged attacks due to concealment."
-msgstr ""
+msgstr "폭우로 시야가 좁아져 지각 판정에 -6 페널티를 받으며 은폐으로 인해 모든 원거리 공격이 20% 확률로 빗나갑니다."
 
 #. Mechanics/Blueprints/Buffs/RainModerateBuff_m_DisplayName
 msgctxt "8bed0abd-b2ee-4dd7-8172-d41b2e0f093d"
 msgid "Rain"
-msgstr ""
+msgstr "비"
 
 #. Mechanics/Blueprints/Buffs/RainStormBuff_m_Description
 msgctxt "7fd33c46-0268-47d9-a9d5-4dda33276c29"
@@ -307,11 +307,13 @@ msgid ""
 " in a -6 penalty on Perception checks and a 20% chance to miss on all ranged"
 " attacks due to concealment."
 msgstr ""
+"폭풍로 이동 속도가 절반으로 줄어들고 시야가 좁아져 지각 판정에 -6 페널티를 받으며 은폐으로 인해 모든 원거리 공격이 20% 확률로 "
+"빗나갑니다."
 
 #. Mechanics/Blueprints/Buffs/RainStormBuff_m_DisplayName
 msgctxt "65b2e6e5-d779-45a9-ae2b-037e4aa079dc"
 msgid "Storm"
-msgstr ""
+msgstr "폭풍"
 
 #. Mechanics/Blueprints/Buffs/SE_Delay_m_DisplayName
 msgctxt "18c17832-510e-4c67-a8ef-f92fdb936991"
@@ -353,7 +355,7 @@ msgstr "이 캐릭터는 모든 명중 굴림, 무기 피해 굴림, 내성 굴�
 #. Mechanics/Blueprints/Buffs/Sickened_m_DisplayName
 msgctxt "1e380374-75dc-4508-ac97-8fb88546807f"
 msgid "Sickened"
-msgstr "몸이 아픔"
+msgstr "고통"
 
 #. Mechanics/Blueprints/Buffs/Sleeping_m_DisplayName
 msgctxt "f88d419b-7d1c-401d-be8f-8f04c685ab7a"
@@ -363,19 +365,19 @@ msgstr "수면"
 #. Mechanics/Blueprints/Buffs/Slowed_m_DisplayName
 msgctxt "ad583cbd-daf5-4c51-93c2-b57ccf4dbe02"
 msgid "Slowed"
-msgstr "느려짐"
+msgstr "감속"
 
 #. Mechanics/Blueprints/Buffs/SnowModerateBuff_m_Description
 msgctxt "2332d861-ff93-4f7f-b881-77bdcd2888fb"
 msgid ""
 "Heavy snowfall reduces visibility, resulting in a -6 penalty on Perception "
 "checks and a 20% chance to miss on all ranged attacks due to concealment."
-msgstr ""
+msgstr "폭설로 시야가 좁아져 지각 판정에 -6 페널티를 받으며 은폐으로 인해 모든 원거리 공격이 20% 확률로 빗나갑니다."
 
 #. Mechanics/Blueprints/Buffs/SnowModerateBuff_m_DisplayName
 msgctxt "ef4aa80c-280a-475d-a60e-7a6be033f371"
 msgid "Snow"
-msgstr ""
+msgstr "눈"
 
 #. Mechanics/Blueprints/Buffs/Staggered_m_Description
 msgctxt "830678b1-ccd4-418d-a351-f17a26399303"
@@ -1655,11 +1657,6 @@ msgid "Immunity to Sleep"
 msgstr "수면 면역"
 
 #. Mechanics/Blueprints/CreatureAbilities/Immunities/UndeadImmunities_m_Description
-#, fuzzy
-#| msgid ""
-#| "An undead creature possesses the following traits (unless otherwise noted in a creature's entry).\n"
-#| "No Constitution score. Undead use their Charisma score in place of their Constitution score when calculating hit points, Fortitude saves, and any special ability that relies on Constitution(such as when calculating a breath weapon's DC).\n"
-#| "Immunity to bleed, death effects, disease, paralysis, poison, sleep effects, and stunning."
 msgctxt "84444212-5799-40d4-89a0-62ef2c4d8739"
 msgid ""
 "An undead creature possesses the following traits (unless otherwise noted in a creature's entry).\n"
@@ -1667,8 +1664,9 @@ msgid ""
 "Immunity to bleed, death effects, disease, paralysis, poison, sleep effects, and stunning."
 msgstr ""
 "언데드 크리쳐는 다음 특성을 보유합니다(별도 크리쳐의 항목으로 달리 언급되지 않는 한). \n"
-"건강 수치 없음. 언데드는 HP 계산, 체질 저장과 건강수치에 의존하는 특수한 능력(예를 들면 브레스의 DC 계산 시) 그들의 카리스마 수치로 건강 수치를 대신합니다. \n"
-"출혈, 죽음계열 효과, 질병, 마비, 독, 수면 효과와 기절에 면역"
+"건강 수치 없음. 언데드는 HP 계산, 체질 저장과 건강수치에 의존하는 특수한 능력(예를 들면 브레스의 DC 계산 시) 그들의 카리스마 "
+"수치로 건강 수치를 대신합니다. \n"
+"출혈, 죽음계열 효과, 질병, 마비, 독, 수면 효과와 기절에 면역."
 
 #. Mechanics/Blueprints/CreatureAbilities/Immunities/UndeadImmunities_m_DisplayName
 msgctxt "ab5f5b42-92dc-4cb1-9597-4eba165f707c"
@@ -2080,19 +2078,14 @@ msgid "Diamond tier"
 msgstr "다이아몬드 등급"
 
 #. Mechanics/Blueprints/Credits/Bakers1Tier_LeftPageText
-#, fuzzy
-#| msgid ""
-#| "Our heartfelt thanks for the people who are not only support us with their "
-#| "pledges but also help us to add more content and features to our game. We "
-#| "praise your creativity and ideas!"
 msgctxt "790bf61d-99cf-4f75-a183-bc711a131fe0"
 msgid ""
 "Our heartfelt thanks goes to all our backers, who not only supported us with"
 " their pledges, but also helped us in adding more content and features to "
 "the game. We praise your creativity!"
 msgstr ""
-"후원으로 우리를 지지해 줄 뿐만 아니라 우리 게임에 더 많은 내용과 특징을 더할 수 있도록 도와주시는 분들께 진심으로 감사드린다. 당신의"
-" 창의력과 아이디어에 찬사를 보냅니다!"
+"후원으로 우리를 지지해 줄 뿐만 아니라 우리 게임에 더 많은 내용과 특징을 더할 수 있도록 도와주시는 분들께 진심으로 감사드린다. 당신의 "
+"창의성에 찬사를 보냅니다!"
 
 #. Mechanics/Blueprints/Credits/ContentCreatorsRoles_Roles.Array.data[0].NameRole
 msgctxt "0c411c13-90eb-4dd0-bac7-6d6f6baa51a5"
@@ -2145,19 +2138,14 @@ msgid "\"Maya's Charm\" Necklace"
 msgstr "\"마야의 매력\" 목걸이"
 
 #. Mechanics/Blueprints/Credits/ContentCreators_LeftPageText
-#, fuzzy
-#| msgid ""
-#| "Our heartfelt thanks for the people who are not only support us with their "
-#| "pledges but also help us to add more content and features to our game. We "
-#| "praise your creativity and ideas!"
 msgctxt "b1f8c2f5-3474-47fc-9703-26d32f184b44"
 msgid ""
 "Our heartfelt thanks goes to all our backers, who not only supported us with"
 " their pledges, but also helped us in adding more content and features to "
 "the game. We praise your creativity!"
 msgstr ""
-"후원으로 우리를 지지해 줄 뿐만 아니라 우리 게임에 더 많은 내용과 특징을 더할 수 있도록 도와주시는 분들께 진심으로 감사드린다. 당신의"
-" 창의력과 아이디어에 찬사를 보냅니다!"
+"후원으로 우리를 지지해 줄 뿐만 아니라 우리 게임에 더 많은 내용과 특징을 더할 수 있도록 도와주시는 분들께 진심으로 감사드린다. 당신의 "
+"창의성에 찬사를 보냅니다!"
 
 #. Mechanics/Blueprints/Credits/DeepSilver_HeaderText
 msgctxt "5959df02-3d6c-4e58-b9e3-24a1ce9994a4"
@@ -2222,7 +2210,7 @@ msgstr "Unity Technologies"
 #. Mechanics/Blueprints/Credits/MiddlewareRoles_Roles.Array.data[4].NameRole
 msgctxt "d79fc9c1-cea1-411c-8d9f-cbd6115c002c"
 msgid "Dungeon Architect"
-msgstr ""
+msgstr "Dungeon Architect"
 
 #. Mechanics/Blueprints/Credits/Middleware_HeaderText
 msgctxt "be69b1d9-a66f-47e5-ad57-47391b127674"
@@ -2532,32 +2520,32 @@ msgstr "3D Artist"
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[100].NameRole
 msgctxt "dedb1d3e-94fd-46c0-89b6-37d4a7b1f4d6"
 msgid "Arcane Magic Chants (female version)"
-msgstr "비전 마법 챈트 (여성 목소리)"
+msgstr "Arcane Magic Chants (female version)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[101].NameRole
 msgctxt "4c41eac3-d222-4ac7-b134-f44604818ab9"
 msgid "Arcane Magic Chants (male version)"
-msgstr "비전 마법 챈트 (남성 목소리)"
+msgstr "Arcane Magic Chants (male version)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[102].NameRole
 msgctxt "af033d8d-ee70-4702-a3b6-d94037667bc5"
 msgid "Divine Magic Chants (female version)"
-msgstr "신성 마법 챈트 (여성 목소리)"
+msgstr "Divine Magic Chants (female version)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[103].NameRole
 msgctxt "f669fa14-18bc-49b8-9d20-bea3a9a27ad9"
 msgid "Divine Magic Chants (male version)"
-msgstr "신성 마법 챈트 (남성 목소리)"
+msgstr "Divine Magic Chants (male version)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[104].NameRole
 msgctxt "62b54a54-fd44-491d-a2b8-554acce063e1"
 msgid "Tartuk"
-msgstr "타툭"
+msgstr "Tartuk"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[105].NameRole
 msgctxt "8dd169bf-e3f6-4ff4-a000-4b71bc4da9e0"
 msgid "Raven"
-msgstr "큰까마귀"
+msgstr "Raven"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[106].NameRole
 msgctxt "8e3b5f3b-ab70-41cc-806e-9685b273208a"
@@ -2597,7 +2585,7 @@ msgstr "Licensing Manager"
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[110].NameRole_1
 msgctxt "fb9b5dcd-3851-4f1c-9b6c-100aa188efcc"
 msgid "Kanerah, Kalikke"
-msgstr "카네라, 칼리케"
+msgstr "Kanerah, Kalikke"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[111].NameRole
 msgctxt "90ac3f1e-7b9f-445d-b889-f167f583cadc"
@@ -2607,7 +2595,7 @@ msgstr "Creative Director"
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[111].NameRole_1
 msgctxt "afac005b-646c-4ed1-924b-75ff66903c20"
 msgid "Hargulka, Cephal Lorentus"
-msgstr ""
+msgstr "Hargulka, Cephal Lorentus"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[112].NameRole
 msgctxt "9f4082da-16d4-4c53-96cf-bcfdadccd121"
@@ -2617,7 +2605,7 @@ msgstr "Design Director"
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[112].NameRole_1
 msgctxt "8d106621-b6ef-4191-b1d6-bf234fcaf08a"
 msgid "Maegar Varn"
-msgstr ""
+msgstr "Maegar Varn"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[113].NameRole
 msgctxt "0d539634-8297-4be6-bb13-ac533daa523c"
@@ -2660,8 +2648,6 @@ msgid "UI Artist"
 msgstr "UI Artist"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[120].NameRole
-#, fuzzy
-#| msgid "2d Artist and author of the Key art"
 msgctxt "ee9de9e4-ef0b-49ae-b7f2-2bf4e4bbf251"
 msgid "2d Artist and author of the key art"
 msgstr "2d Artist and author of the Key art"
@@ -2891,7 +2877,7 @@ msgctxt "b05c8455-00b7-4843-84dd-f23f33ba7877"
 msgid ""
 "Official Goblin Song created by the award winning app Syrinscape "
 "specifically for the Pathfinder Roleplaying Game."
-msgstr "고블린 공식 노래는 패스파인더 롤플레잉 게임을 위한 앱 공모에 수상한 Syrinscape가 작고하였습니다."
+msgstr "고블린 공식 노래는 패스파인더 롤플레잉 게임을 위한 앱 공모에 수상한 Syrinscape가 작곡하였습니다."
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[53].NameRole
 msgctxt "c25875cf-a279-4530-be05-3f201836aea7"
@@ -2926,7 +2912,7 @@ msgstr "Technical Editor"
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[59].NameRole
 msgctxt "5bac44ee-67b2-4539-bd6a-9c457411c0aa"
 msgid "Amiri"
-msgstr "아미리"
+msgstr "Amiri"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[5].NameRole
 msgctxt "0337fd34-7b9a-4173-8bc7-2fe3724ca344"
@@ -2936,52 +2922,52 @@ msgstr "Animator"
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[60].NameRole
 msgctxt "9fb0add1-2781-403c-96d9-833182418d3b"
 msgid "Armag"
-msgstr "아르막"
+msgstr "Armag"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[61].NameRole
 msgctxt "e2e9ed6b-32b6-4bdf-9680-41096f08a331"
 msgid "Defaced Sister"
-msgstr "얼굴잃은 자매"
+msgstr "Defaced Sister"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[62].NameRole
 msgctxt "baacb2fa-1fec-423a-8dff-9a9428c60303"
 msgid "Dugath"
-msgstr "두가스"
+msgstr "Dugath"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[63].NameRole
 msgctxt "3b5a84cf-0b2c-40ec-9307-231658adb188"
 msgid "Ekundayo"
-msgstr "에쿤다요"
+msgstr "Ekundayo"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[64].NameRole
 msgctxt "2cd99797-3b35-4ad6-8bb2-7d05826055d2"
 msgid "Hargulka"
-msgstr "하굴카"
+msgstr "Hargulka"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[65].NameRole
 msgctxt "7b86dbd4-cf37-418b-8589-a42eea71abbe"
 msgid "Harrim"
-msgstr "하림"
+msgstr "Harrim"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[66].NameRole
 msgctxt "084d58e5-63b9-4055-a825-fa7f904f9686"
 msgid "Ioseph Sellemius"
-msgstr "요셉 셀레미우스"
+msgstr "Ioseph Sellemius"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[67].NameRole
 msgctxt "4988b119-a002-4660-874e-f4f8302af192"
 msgid "Jaethal"
-msgstr "제이탈"
+msgstr "Jaethal"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[68].NameRole
 msgctxt "dfd0eaea-30d0-4df4-8482-756f5b373c03"
 msgid "Jamandi Aldori"
-msgstr "자만디 알도리"
+msgstr "Jamandi Aldori"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[69].NameRole
 msgctxt "a86626ce-f6f0-4b80-86e6-0fe05bdf4ae1"
 msgid "Jhod Kavken"
-msgstr "조드 카브켄"
+msgstr "Jhod Kavken"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[6].NameRole
 msgctxt "209b7741-389e-44f7-8acf-1c5b6c390c63"
@@ -2991,52 +2977,52 @@ msgstr "Lead Area Designer"
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[70].NameRole
 msgctxt "7f79bffa-24bf-4f56-9d03-44fb10ba1aff"
 msgid "Jubilost"
-msgstr "주빌로스트"
+msgstr "Jubilost"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[71].NameRole
 msgctxt "d1121cb6-e796-4e1c-97d3-3a502d5fceb3"
 msgid "Kesten Garess"
-msgstr "케스텐 가레스"
+msgstr "Kesten Garess"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[72].NameRole
 msgctxt "5483d1e0-9617-43a9-a957-0450568fb177"
 msgid "King Irovetti"
-msgstr "이로베티 왕"
+msgstr "King Irovetti"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[73].NameRole
 msgctxt "255919e4-92dd-4e6e-9bc2-988e770faaef"
 msgid "Kressle"
-msgstr "크레슬"
+msgstr "Kressle"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[74].NameRole
 msgctxt "ed7a65d3-e710-44f9-8fde-8d096a9438ec"
 msgid "Lantern King"
-msgstr "등불왕"
+msgstr "Lantern King"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[75].NameRole
 msgctxt "38a897de-6d9e-471d-993c-0ef0b4b8ccf3"
 msgid "Linzi"
-msgstr "린지"
+msgstr "Linzi"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[76].NameRole
 msgctxt "98717cce-14c2-4086-a36a-e93197237fb8"
 msgid "Natala Surtova"
-msgstr "나탈라 설토바"
+msgstr "Natala Surtova"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[77].NameRole
 msgctxt "cfef313d-91fb-4d11-a144-9091bb39757c"
 msgid "Nok-Nok"
-msgstr "녹 녹"
+msgstr "Nok-Nok"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[78].NameRole
 msgctxt "891f4574-8128-4bc8-bc7d-515675112548"
 msgid "Nyrissa"
-msgstr "나이리사"
+msgstr "Nyrissa"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[79].NameRole
 msgctxt "64d6d90d-7daa-4d22-8251-289aa280b1ff"
 msgid "Octavia"
-msgstr "옥타비아"
+msgstr "Octavia"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[7].NameRole
 msgctxt "db17f076-08fc-4f06-97e9-3b32c5c6a195"
@@ -3046,107 +3032,107 @@ msgstr "Area Designer"
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[80].NameRole
 msgctxt "c69fca9d-531e-47c9-b3bb-dab253c36c4b"
 msgid "Regongar"
-msgstr "레곤가르"
+msgstr "Regongar"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[81].NameRole
 msgctxt "46b697c9-d912-48b7-aefe-0e1b2e11b4f3"
 msgid "Stag Lord"
-msgstr "수사슴 군주"
+msgstr "Stag Lord"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[82].NameRole
 msgctxt "281a9056-7e2b-44e4-8be0-ed5f4c50ad34"
 msgid "Tartuccio"
-msgstr "타투치오"
+msgstr "Tartuccio"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[83].NameRole
 msgctxt "26f760dc-0d0f-41c0-84d4-e07b5e3f8294"
 msgid "Tristian"
-msgstr "트리스티안"
+msgstr "Tristian"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[84].NameRole
 msgctxt "9469ce5a-0106-4b45-8e91-ae55239c5865"
 msgid "Valerie"
-msgstr "발레리"
+msgstr "Valerie"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[85].NameRole
 msgctxt "628faa3e-dc66-439f-8293-5acf9aee0efb"
 msgid "Vordakai"
-msgstr "보다카이"
+msgstr "Vordakai"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[86].NameRole
 msgctxt "86335791-742e-4bee-b2f3-6499cd987299"
 msgid "Baron (Aggressive)"
-msgstr "남작 (공격적)"
+msgstr "Baron (Aggressive)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[87].NameRole
 msgctxt "a9263453-3de7-436a-9518-5e9b5eae4510"
 msgid "Baron (Brave)"
-msgstr "남작 (용감함)"
+msgstr "Baron (Brave)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[88].NameRole
 msgctxt "149d5caa-7573-47d0-97bc-99c1d952e68b"
 msgid "Baron (Confident)"
-msgstr "남작 (신중한)"
+msgstr "Baron (Confident)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[89].NameRole
 msgctxt "7b44b3ee-bc46-46a3-b20d-7d591485f979"
 msgid "Baron (Madman)"
-msgstr "남작 (광인)"
+msgstr "Baron (Madman)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[8].NameRole
 msgctxt "ac1f0e86-f029-4f96-8b3e-ab586ddbf7cb"
 msgid "UI Designer"
-msgstr ""
+msgstr "UI Designer"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[90].NameRole
 msgctxt "23870220-ba39-42d7-9cb4-7516cb3fd1c9"
 msgid "Baron (Pious)"
-msgstr "남작 (경건함)"
+msgstr "Baron (Pious)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[91].NameRole
 msgctxt "74344065-3e20-4ee9-8202-c8be51491a93"
 msgid "Baron (Pragmatic)"
-msgstr "남작 (실용적)"
+msgstr "Baron (Pragmatic)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[92].NameRole
 msgctxt "871ed0d4-5c91-4729-a2b7-63cc614e0de5"
 msgid "Baron (Reserved)"
-msgstr "남작 (과묵함)"
+msgstr "Baron (Reserved)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[93].NameRole
 msgctxt "592a9a8a-4b83-404e-a663-9e670e5c6e7b"
 msgid "Baroness (Reserved)"
-msgstr "여남작 (과묵함)"
+msgstr "Baroness (Reserved)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[94].NameRole
 msgctxt "288cfee1-584b-4c9f-bd79-fb662a284a1a"
 msgid "Baroness (Aggressive)"
-msgstr "여남작 (공격적)"
+msgstr "Baroness (Aggressive)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[95].NameRole
 msgctxt "4a46295a-7826-458f-b10f-a37c01bcb349"
 msgid "Baroness (Brave)"
-msgstr "여남작 (용감함)"
+msgstr "Baroness (Brave)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[96].NameRole
 msgctxt "0c294949-367f-4007-8022-05c2f26400a6"
 msgid "Baroness (Confident)"
-msgstr "여남작 (신중함)"
+msgstr "Baroness (Confident)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[97].NameRole
 msgctxt "d53ae511-d7d7-48aa-82c6-f06f9ccd6649"
 msgid "Baroness (Madman)"
-msgstr "여남작 (광인)"
+msgstr "Baroness (Madman)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[98].NameRole
 msgctxt "edeae97c-94a4-40e2-851f-f86d7b806e20"
 msgid "Baroness (Pious)"
-msgstr "여남작 (경건함)"
+msgstr "Baroness (Pious)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[99].NameRole
 msgctxt "3144afd6-4a7f-4d6c-9e8f-5bfea799b0a8"
 msgid "Baroness (Pragmatic)"
-msgstr "여남작 (실용적)"
+msgstr "Baroness (Pragmatic)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[9].NameRole
 msgctxt "688e26df-c6c3-4c7d-ba52-14e6e9bc48a8"
@@ -3360,11 +3346,13 @@ msgid ""
 "ranged attacks, +3 luck bonus on Reflex saving throws and are immune to "
 "entanglement, paralysis, staggering and stun."
 msgstr ""
+"무질서의 기운이 주입된 캐릭터는 원거리 공격에 대한 AC에 +3 피하기 보너스를 받고, 반사 내성 굴림에 +3 행운 보너스를 받으며 "
+"속박, 마비, 비틀거림, 기절에 면역이 됩니다."
 
 #. Mechanics/Blueprints/DLC3/BoonAbilities/Anarchic_Name_String
 msgctxt "83f0adac-a4c8-4607-9d13-9a3d924b125e"
 msgid "Infused with Chaos"
-msgstr ""
+msgstr "혼돈 주입"
 
 #. Mechanics/Blueprints/DLC3/BoonAbilities/Axiomatic_Description_String
 msgctxt "37a5ccb6-2b01-489b-9e0e-bbbe4b0c405b"
@@ -3373,11 +3361,13 @@ msgid ""
 "bonus on all saving throws and are immune to confusion, insanity, "
 "fascination and uncontrolled rage."
 msgstr ""
+"공리의 기운이 주입된 캐릭터는 AC에 +1 피하기 보너스를 받고, 모든 내성 굴림에 +1 보너스를 받으며, 혼란, 광기, 현혹과 통제 "
+"불가능한 격노에 면역이 됩니다."
 
 #. Mechanics/Blueprints/DLC3/BoonAbilities/Axiomatic_Name_String
 msgctxt "1e8ad6ce-b8af-4940-8039-27aae6147c23"
 msgid "Infused with Law"
-msgstr ""
+msgstr "질서 주입"
 
 #. Mechanics/Blueprints/DLC3/BoonAbilities/Celestial_Description_String
 msgctxt "59921ba1-50ba-4d0d-980d-463f4d045ebc"
@@ -3386,11 +3376,13 @@ msgid ""
 " melee, +3 bonus on Will saving throws and are immune to compulsion effects "
 "and life drain."
 msgstr ""
+"천상의 기운이 주입된 캐릭터는 근접 공격에 대한 AC에 +3 피하기 보너스를 받고, 의지 내성 굴림에 +3 보너스를 받으며, 강제 효과와 "
+"생명력 고갈에 면역이 됩니다."
 
 #. Mechanics/Blueprints/DLC3/BoonAbilities/Celestial_Name_String
 msgctxt "5aaa527d-1e19-4ce9-a8e9-d17f35a9f6f8"
 msgid "Infused with Good"
-msgstr ""
+msgstr "선 주입"
 
 #. Mechanics/Blueprints/DLC3/BoonAbilities/Fiendish_Description_String
 msgctxt "5fc84265-9af2-42a7-83a5-2a9c702314e0"
@@ -3398,11 +3390,12 @@ msgid ""
 "Characters infused with fiendish energies gain +3 dodge bonus to AC against "
 "melee attacks, +3 bonus on Fortitude saving throws and are combat maneuvers."
 msgstr ""
+"악마의 기운이 주입된 캐릭터는 근접 공격에 대한 AC에 +3 피하기 보너스를 받으며, 인내 내성 굴림과 전법에 +3 보너스를 받습니다."
 
 #. Mechanics/Blueprints/DLC3/BoonAbilities/Fiendish_Name_String
 msgctxt "525ea5b3-4a2b-438a-96b9-6a907ecfdd4c"
 msgid "Infused with Evil"
-msgstr ""
+msgstr "악 주입"
 
 #. Mechanics/Blueprints/DLC3/BoonAbilities/Giant_Description_String
 msgctxt "ee7dfd08-6f14-46d1-9ee6-72e923df0cd8"
@@ -3411,23 +3404,25 @@ msgid ""
 " score and a -2 size penalty to their Dexterity score. They are immune to "
 "Enlarge Person and Reduce Person spells."
 msgstr ""
+"거인 캐릭터는 크기가 크고, 힘에 +2 크기 보너스를 받고 민첩에 -2 크기 페널티를 받습니다. 이들은 사람 확대 및 사람 축소 주문에 "
+"면역입니다."
 
 #. Mechanics/Blueprints/DLC3/BoonAbilities/Giant_Name_String
 msgctxt "e781df62-0e53-4380-befa-1ea8f0a3b4b4"
 msgid "Giant"
-msgstr ""
+msgstr "거인"
 
 #. Mechanics/Blueprints/DLC3/BoonAbilities/Homunculi_Description_String
 msgctxt "33cdcdae-7176-4b1b-a12e-604dfa2d3c3a"
 msgid ""
 "Homunculi characters are immune to poison and disease, and can once per day "
 "use mutagen, as an alchemist of their character level."
-msgstr ""
+msgstr "호문쿨루스 캐릭터는 독과 질병에 면역이고, 자신의 캐릭터 레벨 만큼의 알케미스트로서 변이 물약 능력을 사용할 수 있습니다."
 
 #. Mechanics/Blueprints/DLC3/BoonAbilities/Homunculi_Name_String
 msgctxt "1a729cea-be38-4b85-a1d4-b0098ca683cc"
 msgid "Homunculi"
-msgstr ""
+msgstr "호문쿨루스"
 
 #. Mechanics/Blueprints/DLC3/BoonAbilities/Miniscule_Description_String
 msgctxt "1ac69233-4bf3-4d3e-89ae-c4a301e3a652"
@@ -3436,389 +3431,391 @@ msgid ""
 "Dexterity score and a -2 size penalty to their Strength score. They are "
 "immune to enlarge person and reduce person spells."
 msgstr ""
+"자그마한 캐릭터는 크기가 작고 민첩에 +2 크기 보너스를 받으며 힘에 -2 크기 페널티를 받습니다. 이들은 사람 확대 및 사람 축소 "
+"주문에 면역입니다."
 
 #. Mechanics/Blueprints/DLC3/BoonAbilities/Miniscule_Name_String
 msgctxt "2a1b57f1-210f-4a53-afaa-6da07207136d"
 msgid "Miniscule"
-msgstr ""
+msgstr "자그마함"
 
 #. Mechanics/Blueprints/DLC3/BoonAbilities/Perfection_Description_String
 msgctxt "0743102a-aa4a-4b8b-bd18-25efb20a9e58"
 msgid "Perfect characters gain a +2 bonus to all ability scores."
-msgstr ""
+msgstr "완벽한 캐릭터는 모든 능력치에 +2 보너스를 받습니다."
 
 #. Mechanics/Blueprints/DLC3/BoonAbilities/Perfection_Name_String
 msgctxt "0bec15df-80b2-4c0f-9027-7ebe19ed49a9"
 msgid "Perfect"
-msgstr ""
+msgstr "완벽"
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBonusACClass_BoonDescription_String
 msgctxt "05047b76-8895-47b2-b443-18aef8b12648"
 msgid ""
 "All your characters with levels in [BoonClass] class will receive a +[BoonN]"
 " bonus to AC."
-msgstr ""
+msgstr "[BoonClass] 클래스 레벨이 있는 모든 캐릭터는 AC에 +[BoonN] 보너스를 받습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBonusACMain_BoonDescription_String
 msgctxt "c84f765b-2e4d-452e-8fae-38160d1a314e"
 msgid "Your main character will receive a +[BoonN] bonus to AC."
-msgstr ""
+msgstr "당신의 메인 캐릭터는 AC에 +[BoonN] 보너스를 받습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBonusACParty_BoonDescription_String
 msgctxt "cc24bad7-24fc-4709-994c-85b1ecaf381e"
 msgid "All your characters will receive a +[BoonN] bonus to AC."
-msgstr ""
+msgstr "당신의 모든 캐릭터는 AC에 +[BoonN] 보너스를 받습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBonusAttackClass_BoonDescription_String
 msgctxt "6beb07e1-f47e-4258-942e-97d8400c6082"
 msgid ""
 "All your characters with levels in [BoonClass] class will receive a +[BoonN]"
 " bonus to attack rolls."
-msgstr ""
+msgstr "[BoonClass] 클래스 레벨이 있는 모든 캐릭터는 명중 굴림에 +[BoonN] 보너스를 받습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBonusAttackMain_BoonDescription_String
 msgctxt "e8deba25-6a59-4a0c-ad87-b3695158a3e3"
 msgid "Your main character will receive a +[BoonN] bonus to attack rolls."
-msgstr ""
+msgstr "당신의 메인 캐릭터는 명중 굴림에 +[BoonN] 보너스를 받습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBonusAttackParty_BoonDescription_String
 msgctxt "1086549d-d2a1-4e91-9c1f-9840243e9ac9"
 msgid "All your characters will receive a +[BoonN] bonus to attack rolls."
-msgstr ""
+msgstr "당신의 모든 캐릭터는 명중 굴림에 +[BoonN] 보너스를 받습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBonusBuff_DisplayName_String
 msgctxt "2f331f43-c048-4ebe-905b-f3188213bad8"
 msgid "Boon"
-msgstr ""
+msgstr "혜택"
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBonusCasterLevelClass_BoonDescription_String
 msgctxt "92296ba7-0355-4e16-b8d1-88c9df9db29b"
 msgid ""
 "All your characters with levels in [BoonClass] class will receive a +[BoonN]"
 " bonus to caster level."
-msgstr ""
+msgstr "[BoonClass] 클래스 레벨이 있는 모든 캐릭터는 시전자 레벨에 +[BoonN] 보너스를 받습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBonusCasterLevelMain_BoonDescription_String
 msgctxt "c205c3c9-3e1a-43a7-b2c9-15220b3e48b0"
 msgid "Your main character will receive a +[BoonN] bonus to caster level."
-msgstr ""
+msgstr "당신의 메인 캐릭터는 시전자 레벨에 +[BoonN] 보너스를 받습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBonusCasterLevelParty_BoonDescription_String
 msgctxt "10346c86-4398-4992-a45e-399e10b66ef8"
 msgid "All your characters will receive a +[BoonN] bonus to caster level."
-msgstr ""
+msgstr "당신의 모든 캐릭터는 시전자 레벨에 +[BoonN] 보너스를 받습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBonusInitiativeClass_BoonDescription_String
 msgctxt "08b17d87-2fc2-49da-90fd-0ba2b46c80c3"
 msgid ""
 "All your characters with levels in [BoonClass] class will receive a +[BoonN]"
 " bonus to Initiative."
-msgstr ""
+msgstr "[BoonClass] 클래스 레벨이 있는 모든 캐릭터는 우선권에 +[BoonN] 보너스를 받습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBonusInitiativeMain_BoonDescription_String
 msgctxt "3b2470c6-eb54-43af-b436-a3849ddf73ac"
 msgid "Your main character will receive a +[BoonN] bonus to Initiative."
-msgstr ""
+msgstr "당신의 메인 캐릭터는 우선권에 +[BoonN] 보너스를 받습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBonusInitiativeParty_BoonDescription_String
 msgctxt "2e5219c9-27e0-42ba-ad73-457ca3535fe6"
 msgid "All your characters will receive a +[BoonN] bonus to Initiative."
-msgstr ""
+msgstr "당신의 모든 캐릭터는 우선권에 +[BoonN] 보너스를 받습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBonusSavingThrowsClass_BoonDescription_String
 msgctxt "b7a9e525-a403-4977-bf44-819c5dca4c0d"
 msgid ""
 "All your characters with levels in [BoonClass] class will receive a +[BoonN]"
 " bonus to all saving throws."
-msgstr ""
+msgstr "[BoonClass] 클래스 레벨이 있는 모든 캐릭터는 모든 내성 굴림에 +[BoonN] 보너스를 받습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBonusSavingThrowsMain_BoonDescription_String
 msgctxt "f16e5671-f486-4d4b-9805-f6568c001014"
 msgid ""
 "Your main character will receive a +[BoonN] bonus to all saving throws."
-msgstr ""
+msgstr "당신의 메인 캐릭터는 모든 내성 굴림에 +[BoonN] 보너스를 받습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBonusSavingThrowsParty_BoonDescription_String
 msgctxt "77d7c19d-6bbf-4d4d-816a-a6b95de90167"
 msgid ""
 "All your characters will receive a +[BoonN] bonus to all saving throws."
-msgstr ""
+msgstr "당신의 모든 캐릭터는 모든 내성 굴림에 +[BoonN] 보너스를 받습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBonusSpellResistanceClass_BoonDescription_String
 msgctxt "2bb72598-799d-4a03-9122-abcc51f50268"
 msgid ""
 "All your characters with levels in [BoonClass] class will have [BoonN] spell"
 " resistance."
-msgstr ""
+msgstr "[BoonClass] 클래스 레벨이 있는 모든 캐릭터는 [BoonN] 주문 저항을 갖습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBonusSpellResistanceMain_BoonDescription_String
 msgctxt "850c8578-16ae-40a8-ab44-cefddf0ca245"
 msgid "Your main character will have [BoonN] spell resistance."
-msgstr ""
+msgstr "당신의 메인 캐릭터는 [BoonN] 주문 저항을 갖습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBonusSpellResistanceParty_BoonDescription_String
 msgctxt "def3c1a5-dd8f-4255-ba4f-9a5c5407cec2"
 msgid "All your characters will have [BoonN] spell resistance."
-msgstr ""
+msgstr "당신의 모든 캐릭터는 [BoonN] 주문 저항을 갖습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBuffClass_BoonDescription_String
 msgctxt "7cc18d44-0a5d-4121-991a-5451cbdc87e0"
 msgid ""
 "All your characters with levels in [BoonClass] class will be under a "
 "constant effect of [BoonItem]."
-msgstr ""
+msgstr "[BoonClass] 클래스 레벨이 있는 모든 캐릭터는 [BoonItem]의 지속적인 효과를 받게 됩니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBuffMain_BoonDescription_String
 msgctxt "a23a3375-e568-4986-a0e9-4b8ef9575b6f"
 msgid "Your main character will be under a constant effect of [BoonItem]."
-msgstr ""
+msgstr "당신의 메인 캐릭터는 [BoonItem]의 지속적인 효과를 받게 됩니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ConstantBuffParty_BoonDescription_String
 msgctxt "4319ed86-228b-4f0d-8798-3e6efb87662e"
 msgid "All your characters will be under a constant effect of [BoonItem]."
-msgstr ""
+msgstr "당신의 모든 캐릭터는 [BoonItem]의 지속적인 효과를 받게 됩니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ExperienceGainClass_BoonDescription_String
 msgctxt "36960576-7cf0-4ffe-9a6c-8a370021f277"
 msgid ""
 "All your characters with levels in [BoonClass] class will receive [BoonN]% "
 "more experience."
-msgstr ""
+msgstr "[BoonClass] 클래스 레벨이 있는 모든 캐릭터는 경험치를 [BoonN]% 더 받습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ExperienceGainMain_BoonDescription_String
 msgctxt "9d5cc752-8fc4-4c3f-8ce5-b615c91e50a0"
 msgid "Your main character will receive [BoonN]% more experience."
-msgstr ""
+msgstr "당신의 메인 캐릭터는 경험치를 [BoonN]% 더 받습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ExperienceGainParty_BoonDescription_String
 msgctxt "72e131b0-f4b5-4846-9cc6-8c5f8e04ca2b"
 msgid "All your characters will receive [BoonN]% more experience."
-msgstr ""
+msgstr "당신의 모든 캐릭터는 경험치를 [BoonN]% 더 받습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ExperienceStart_BoonDescription_String
 msgctxt "6bfc7ecc-d4a2-4012-92ba-3b098e96f274"
 msgid "You start the game with additional [BoonN] experience."
-msgstr ""
+msgstr "[BoonN] 추가 경험치를 받는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/GoldStart_BoonDescription_String
 msgctxt "35d30efd-53c6-4a74-bfeb-bedc5958a0df"
 msgid "You start the game with an additional sum of [BoonN] gold pieces."
-msgstr ""
+msgstr "[BoonN] 추가 금 조각을 받는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/ItemDropChance_BoonDescription_String
 msgctxt "4518f7fa-5ede-4500-9202-12d31a9e549c"
 msgid "Magical items will drop [BoonN]% more often."
-msgstr ""
+msgstr "마법 아이템이 [BoonN]% 자주 등장합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemArmorPack_BoonDescription_String
 msgctxt "fbab08ec-a0e5-426e-a16d-d908575980b1"
 msgid ""
 "You start the game with 6 copies of a random magical armor from [BoonStage] "
 "level of the dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 6 벌의 무작위 마법 갑옷이 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemArmorSingle_BoonDescription_String
 msgctxt "709e97ab-d2d6-496a-b17d-18414661a560"
 msgid ""
 "You start the game with a random magical armor from [BoonStage] level of the"
 " dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 무작위 마법 갑옷이 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemBeltPack_BoonDescription_String
 msgctxt "ca7be197-5574-429c-beee-8345d31d2940"
 msgid ""
 "You start the game with 6 copies of a random magical belt from [BoonStage] "
 "level of the dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 6 개의 무작위 마법 허리띠가 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemBeltSingle_BoonDescription_String
 msgctxt "7ffd9127-7fde-48ea-a16d-d4e9b4d80274"
 msgid ""
 "You start the game with a random magical belt from [BoonStage] level of the "
 "dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 무작위 마법 허리띠가 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemBracersBootsPack_BoonDescription_String
 msgctxt "3cd5b4e4-07ab-4d3d-9b6f-6fe97a16d275"
 msgid ""
 "You start the game with 6 copies of a random magical bracers, boots or "
 "gloves from [BoonStage] level of the dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 6 개의 무작위 마법 팔찌가 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemBracersBootsSingle_BoonDescription_String
 msgctxt "5c7f660a-b9ca-46d9-8aed-e87001209d73"
 msgid ""
 "You start the game with a random magical bracers, boots or gloves from "
 "[BoonStage] level of the dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 무작위 마법 팔찌, 신발, 장갑이 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemCloakPack_BoonDescription_String
 msgctxt "798962e7-2cd9-4d6d-b36c-fc53cfc5e7bc"
 msgid ""
 "You start the game with 6 copies of a random magical cloak from [BoonStage] "
 "level of the dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 6 벌의 무작위 마법 망토가 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemCloakSingle_BoonDescription_String
 msgctxt "0f29eb6c-544f-463c-baa8-c7651f0f04fa"
 msgid ""
 "You start the game with a random magical cloak from [BoonStage] level of the"
 " dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 무작위 마법 팔찌가 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemHeadgearPack_BoonDescription_String
 msgctxt "da25dc2c-43b5-4cc7-baca-72cadfdaef8f"
 msgid ""
 "You start the game with 6 copies of a random magical headgear from "
 "[BoonStage] level of the dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 6 개의 무작위 마법 투구가 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemHeadgearSingle_BoonDescription_String
 msgctxt "7b0729b4-1714-4bd5-a35c-8962b79124e2"
 msgid ""
 "You start the game with a random magical headgear from [BoonStage] level of "
 "the dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 무작위 마법 팔찌가 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemNecklacePack_BoonDescription_String
 msgctxt "b54c013d-bb7e-4c06-9aa8-2a96a4d30b8d"
 msgid ""
 "You start the game with 6 copies of a random magical necklace from "
 "[BoonStage] level of the dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 6 개의 무작위 마법 목걸이가 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemNecklaceSingle_BoonDescription_String
 msgctxt "706de91d-8067-4a22-83d9-a32c445683cb"
 msgid ""
 "You start the game with a random magical necklace from [BoonStage] level of "
 "the dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 무작위 마법 목걸이가 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemOneHandedPack_BoonDescription_String
 msgctxt "dd5933c9-5417-4b3c-a917-55adf1ac7f52"
 msgid ""
 "You start the game with 6 copies of a random magical one-handed melee weapon"
 " from [BoonStage] level of the dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 6 개의 마법 무작위 한손 근접 무기가 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemOneHandedSingle_BoonDescription_String
 msgctxt "8d05556b-067d-4553-86b6-66b18552a2f2"
 msgid ""
 "You start the game with a random magical one-handed melee weapon from "
 "[BoonStage] level of the dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 마법 무작위 한손 근접 무기가 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemRangedPack_BoonDescription_String
 msgctxt "abfc153d-07e7-4418-af5b-452a8680f025"
 msgid ""
 "You start the game with 6 copies of a random magical ranged weapon from "
 "[BoonStage] level of the dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 6 개의 무작위 원거리 무기가 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemRangedSingle_BoonDescription_String
 msgctxt "d0161ac9-cf13-4612-82ff-5588c0129d66"
 msgid ""
 "You start the game with a random magical ranged weapon from [BoonStage] "
 "level of the dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 무작위 마법 원거리 무기가 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemRingPack_BoonDescription_String
 msgctxt "18b1d00e-65bd-4e2d-8bb3-628fa8515168"
 msgid ""
 "You start the game with 6 copies of a random magical ring from [BoonStage] "
 "level of the dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 6 개의 무작위 마법 반지가 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemRingSingle_BoonDescription_String
 msgctxt "0d24f13c-fef8-4721-a75f-d377072216f9"
 msgid ""
 "You start the game with a random magical ring from [BoonStage] level of the "
 "dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 무작위 마법 반지가 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemShieldPack_BoonDescription_String
 msgctxt "ffb50149-0209-4dc6-9937-54b4c59fab7f"
 msgid ""
 "You start the game with 6 copies of a random magical shield from [BoonStage]"
 " level of the dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 6 개의 무작위 마법 방패가 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemShieldSingle_BoonDescription_String
 msgctxt "f891e149-d368-4782-a768-a84223e78b5f"
 msgid ""
 "You start the game with a random magical shield from [BoonStage] level of "
 "the dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 무작위 마법 방패가 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemSpecificPack_BoonDescription_String
 msgctxt "178a0d9e-9eb5-4ffc-a0d4-0c894bfaecd9"
 msgid "You start the game with 6 copies of [BoonItem]."
-msgstr ""
+msgstr "6 개의 [BoonItem] 이/가 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemSpecificSingle_BoonDescription_String
 msgctxt "562c6322-27d7-44e6-9ee6-8f5214ee24df"
 msgid "You start the game with a [BoonItem]."
-msgstr ""
+msgstr "[BoonItem]이 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemTwoHandedPack_BoonDescription_String
 msgctxt "b200092a-5b7e-42c3-bc4c-19bc46d4649a"
 msgid ""
 "You start the game with 6 copies of a random magical two-handed melee weapon"
 " from [BoonStage] level of the dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 6 개의 무작위 마법 양손 근접 무기가 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/RandomItemTwoHandedSingle_BoonDescription_String
 msgctxt "7f1e75b2-2d75-43fc-b0b0-e4afde35a37a"
 msgid ""
 "You start the game with a random magical two-handed melee weapon from "
 "[BoonStage] level of the dungeon."
-msgstr ""
+msgstr "던전 [BoonStage] 층에 무작위 마법 양손 근접 무기가 있는 게임을 시작합니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/UniqueAbilityClass_BoonDescription_String
 msgctxt "b7351ab5-897a-4b5d-b3cc-c56acaf0352c"
 msgid "All your characters will have a unique ability [BoonItem]."
-msgstr ""
+msgstr "당신의 모든 캐릭터가 [BoonItem] 고유 능력을 갖습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/UniqueAbilityMain_BoonDescription_String
 msgctxt "96164fa7-4f8d-44e7-9b99-b5104577bd9a"
 msgid "Your main character will have a unique ability [BoonItem]."
-msgstr ""
+msgstr "당신의 메인 캐릭터가 [BoonItem] 고유 능력을 갖습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/UniqueAbilityParty_BoonDescription_String
 msgctxt "e84d3307-e279-4782-8046-995743a43810"
 msgid ""
 "All your characters with levels in [BoonClass] class will have a unique "
 "ability [BoonItem]."
-msgstr ""
+msgstr "[BoonClass] 클래스 레벨이 있는 모든 캐릭터가 [BoonItem] 고유 능력을 갖습니다."
 
 #. Mechanics/Blueprints/DLC3/Boons/VendorPrices_BoonDescription_String
 msgctxt "2e39dfc8-a24e-4b25-84f9-853458bd10a8"
 msgid "Traders will have [BoonN%] reduced prices."
-msgstr ""
+msgstr "상인이 가격을 [BoonN%] 할인 해줍니다."
 
 #. Mechanics/Blueprints/DLC3/ShrineBuffs/KnowledgeArcaneShrineBuffs/ArcaneEnergyResistanceBuff_m_Description
 msgctxt "74ba98c5-2a7e-41b1-84d3-0314fcf210e6"
 msgid ""
 "This blessing grants you an energy resistance bonus. The bonus' value "
 "depends on the dungeon level."
-msgstr ""
+msgstr "이 축복은 당신에게 에너지 저항 보너스를 줍니다. 보너스의 값은 던전의 층수에 따라 달라집니다."
 
 #. Mechanics/Blueprints/DLC3/ShrineBuffs/KnowledgeArcaneShrineBuffs/ArcaneEnergyResistanceBuff_m_DisplayName
 msgctxt "26dc181e-7ec1-473d-8815-d389308b1401"
 msgid "Energy Resistance"
-msgstr ""
+msgstr "에너지 저항"
 
 #. Mechanics/Blueprints/DLC3/ShrineBuffs/KnowledgeArcaneShrineBuffs/ArcaneResistanceBuff_m_Description
 msgctxt "65231047-714a-492e-ad67-00e98d61c0f7"
 msgid ""
 "This blessing grants you a circumstance bonus to all saving throws. The "
 "bonus' value depends on the dungeon level."
-msgstr ""
+msgstr "이 축복은 모든 내성 굴림에 상황 보너스를 줍니다. 이 보너스의 값은 던전의 층수에 따라 달라집니다."
 
 #. Mechanics/Blueprints/DLC3/ShrineBuffs/KnowledgeArcaneShrineBuffs/ArcaneResistanceBuff_m_DisplayName
 msgctxt "798b6885-c6de-46f5-a9c4-c0e234c1799c"
 msgid "Mystic Assistance"
-msgstr ""
+msgstr "신비한 도움"
 
 #. Mechanics/Blueprints/DLC3/ShrineBuffs/KnowledgeNatureShrineBuffs/EyesOfNatureBuff_m_Description
 msgctxt "c241d5aa-f62c-4908-86f4-61b44a78a97f"
@@ -3827,35 +3824,37 @@ msgid ""
 "and spell-like abilities from Illusion and Enchantment schools. The bonus' "
 "value depends on the dungeon level."
 msgstr ""
+"이 축복은 일루전 및 인챈트먼트 학파의 주문 및 주문 유사 능력에 대한 내성 굴림에 통찰 보너스를 줍니다. 이 보너스의 값은 던전의 "
+"층수에 따라 달라집니다."
 
 #. Mechanics/Blueprints/DLC3/ShrineBuffs/KnowledgeNatureShrineBuffs/EyesOfNatureBuff_m_DisplayName
 msgctxt "fd09ae2a-b0e9-49fd-8724-2df13858de77"
 msgid "Unyielding Spirit"
-msgstr ""
+msgstr "굴하지 않는 영혼"
 
 #. Mechanics/Blueprints/DLC3/ShrineBuffs/KnowledgeNatureShrineBuffs/NatureProtectionBuff_m_Description
 msgctxt "ceba9e8a-9827-438b-844e-1b6ecc0270de"
 msgid ""
 "This blessing grants you a circumstance bonus to saving throws against "
 "disease and poison. The bonus' value depends on the dungeon level."
-msgstr ""
+msgstr "이 축복은 질병과 독에 대한 내성 굴림에 상황 보너스를 줍니다. 이 보너스의 값은 던전의 층수에 따라 달라집니다."
 
 #. Mechanics/Blueprints/DLC3/ShrineBuffs/KnowledgeNatureShrineBuffs/NatureProtectionBuff_m_DisplayName
 msgctxt "65cee212-c476-4b31-868d-f0c564344666"
 msgid "Nature's Grace"
-msgstr ""
+msgstr "자연의 은총"
 
 #. Mechanics/Blueprints/DLC3/ShrineBuffs/KnowledgeReligionShrineBuffs/SacredProtectionBuff_DisplayName_String
 msgctxt "9da51450-2f50-4f7a-ba08-b6a6884a8cd8"
 msgid "Sacred Protection"
-msgstr ""
+msgstr "거룩한 보호"
 
 #. Mechanics/Blueprints/DLC3/ShrineBuffs/KnowledgeReligionShrineBuffs/SacredProtectionBuff_m_Description
 msgctxt "1f4dadf1-1d53-4018-a07d-82c48f296978"
 msgid ""
 "This blessing grants you a sacred bonus to Armor Class. The bonus' value "
 "depends on the dungeon level."
-msgstr ""
+msgstr "이 축복은 방어도에 신성 보너스를 줍니다. 이 보너스의 값은 던전의 층수에 따라 달라집니다."
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/AcidTheme/AcidThemeBaseBuff_m_Description
 msgctxt "6b9c8635-d2ac-4d6e-b34b-88d350ea60ff"
@@ -3865,11 +3864,13 @@ msgid ""
 "can inflict sickened or nauseated conditions on the targets of their "
 "attacks."
 msgstr ""
+"산성 크리처는 산성 피해와 산성 기술어를 포험한 주문에 대한 저항이 증가하고, 무기에 산성 피해를 추가하며, 공격 대상을 고통 및 구토 "
+"상태로 만들 수 있습니다."
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/AcidTheme/AcidThemeBaseBuff_m_DisplayName
 msgctxt "16602b35-1d71-405f-943e-ae92cf3f2256"
 msgid "Acidic Creature"
-msgstr ""
+msgstr "산성 크리처"
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/ColdTheme/ColdThemeBaseBuff_m_Description
 msgctxt "8a4b8276-3027-462d-943a-bcf308bf4313"
@@ -3878,11 +3879,13 @@ msgid ""
 "with cold descriptor, deal additional cold damage with their weapons, and "
 "can inflict entangled condition on the targets of their attacks."
 msgstr ""
+"냉기 크리처는 냉기 피해와 냉기 기술어를 포함하는 주문에 대한 저항이 증가하고, 무기에 냉기 피해를 추가하며, 공격 대상을 속박 상태로 "
+"만듭니다."
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/ColdTheme/ColdThemeBaseBuff_m_DisplayName
 msgctxt "6e4cf41f-2bca-48ff-99ff-d61611cdf1dc"
 msgid "Cold Creature"
-msgstr ""
+msgstr "냉기 크리처"
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/CorruptionTheme/CorruptionThemeBaseBuff_m_Description
 msgctxt "4b068221-61ea-42fb-9068-d4fc866bae74"
@@ -3890,24 +3893,24 @@ msgid ""
 "Madness-bearing Creatures are immune to mind-affecting spells and abilities,"
 " and can apply rage, confusion and other harmful effects on enemies with "
 "their attacks."
-msgstr ""
+msgstr "광기를 품은 크리처는 정신 영향 주문과 능력에 면역이며, 공격 대상에게 격노, 혼란 등의 해로운 효과를 적용할 수 있습니다."
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/CorruptionTheme/CorruptionThemeBaseBuff_m_DisplayName
 msgctxt "52ac962e-b117-4e1a-af04-9d7f73165871"
 msgid "Madness-bearing Creature"
-msgstr ""
+msgstr "광기를 품은 크리처"
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/DiseaseTheme/DiseaseThemeBaseBuff_m_Description
 msgctxt "b58da04e-3a2d-419b-b5c7-574f17a0c221"
 msgid ""
 "Diseased creatures are immune to diseases, and can inflict various diseases "
 "on the enemies on the targets of their attacks."
-msgstr ""
+msgstr "병든 크리처는 질병에 면역이고, 공격 대상에게 다양한 질병을 옮길 수 있습니다."
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/DiseaseTheme/DiseaseThemeBaseBuff_m_DisplayName
 msgctxt "e35c0355-5683-46e8-9a09-08dc7b35571a"
 msgid "Diseased Creature"
-msgstr ""
+msgstr "병든 크리처"
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/ElectricityTheme/ElectricityThemeBaseBuff_m_Description
 msgctxt "03ae1316-3063-42df-9411-e8b45013c65a"
@@ -3917,11 +3920,13 @@ msgid ""
 "with their weapons, and can inflict staggered or stunned conditions on the "
 "targets of their attacks."
 msgstr ""
+"전기 크리처는 전기 피해와 전기 기술어를 포함한 주문에 대한 저항이 증가하고, 무기에 전기 피해를 추가하며, 공격 대상을 비틀거림이나 "
+"기절 상태로 만들 수 있습니다."
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/ElectricityTheme/ElectricityThemeBaseBuff_m_DisplayName
 msgctxt "65856409-3a59-4bc3-9705-42bf428f34fe"
 msgid "Electric Creature"
-msgstr ""
+msgstr "전기 크리처"
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/EnchantmentTheme/EnchantmentThemeBaseBuff_m_Description
 msgctxt "a39aac18-676a-4114-912e-3f9e3894e3cd"
@@ -3930,11 +3935,13 @@ msgid ""
 " inflict effects of fascinate, hideous laughter, dominate person and other "
 "controlling spells and abilities on the targets of their attacks."
 msgstr ""
+"매혹적인 크리처는 인챈트먼트 주문과 능력에 면역이며, 공격 대상에게 현혹, 끔찍한 웃음, 사람 지배 등의 통제 주문과 능력의 효과를 "
+"적용할 수 있습니다."
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/EnchantmentTheme/EnchantmentThemeBaseBuff_m_DisplayName
 msgctxt "2b993fa2-530f-41dc-ab87-262bbb88c7d7"
 msgid "Enchanting Creature"
-msgstr ""
+msgstr "매혹적인 크리처"
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/FireTheme/FireThemeBaseBuff_m_Description
 msgctxt "f5b0df95-6fa3-4aaf-9e7f-90cd0598fd90"
@@ -3943,11 +3950,13 @@ msgid ""
 "with fire descriptor, deal additional fire damage with their weapons, and "
 "can apply fatigued or exhausted conditions on the targets of their attacks."
 msgstr ""
+"불타는 크리처는 화염 피해와 화염 기술어를 포함하는 주문에 대한 저항이 증가하고, 무기에 화염 피해를 추가하며, 공격 대상을 피로나 탈진 "
+"상태로 만듭니다."
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/FireTheme/FireThemeBaseBuff_m_DisplayName
 msgctxt "56f2b7e0-305f-4ae3-a1fa-1c5e14424a4d"
 msgid "Fiery Creature"
-msgstr ""
+msgstr "불타는 크리처"
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/IllusionTheme/IllusionThemeBaseBuff_m_Description
 msgctxt "1ce9f9a3-99d1-43c4-a4da-87bbd6c222b9"
@@ -3957,11 +3966,13 @@ msgid ""
 "invisibility or true seeing spells, and can inflict blindness on the targets"
 " of their attacks."
 msgstr ""
+"환상의 크리처는 환상 주문과 능력에 면역이고, 항상 은폐 빗나감 확률과 투명체 탐지 또는 진실의 시야 주문의 효과를 받으며, 공격 대상을 "
+"실명 상태로 만듭니다."
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/IllusionTheme/IllusionThemeBaseBuff_m_DisplayName
 msgctxt "27a2aa02-6ab5-42b1-92c7-2e6efe4599f5"
 msgid "Illusionary Creature"
-msgstr ""
+msgstr "환상의 크리처"
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/NegativeTheme/NegativeThemeBaseBuff_m_Description
 msgctxt "fb95394a-0304-403e-98b5-0258709f0701"
@@ -3971,65 +3982,67 @@ msgid ""
 "with their weapons, and can inflict negative levels on the targets of their "
 "attacks."
 msgstr ""
+"죽음 크리처는 음에너지 피해와 죽음 기술어를 포함한 주문에 대한 저항이 증가하고, 무기에 음에너지 피해를 추가하며, 공격 대상에게 음수 "
+"레벨을 부여합니다."
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/NegativeTheme/NegativeThemeBaseBuff_m_DisplayName
 msgctxt "afcaadb6-9674-4aa8-ade7-d74913c138c6"
 msgid "Death Creature"
-msgstr ""
+msgstr "죽음 크리처"
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/PoisonTheme/PoisonThemeBaseBuff_m_Description
 msgctxt "42b90bff-cd7f-4301-89bd-509368dd1a14"
 msgid ""
 "Venomous Creatures are immune to poison, and can apply various poisons on "
 "the enemies with their attacks."
-msgstr ""
+msgstr "맹독의 크리처는 독에 면여이고, 공격 대상에게 다양한 독을 적용합니다."
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/PoisonTheme/PoisonThemeBaseBuff_m_DisplayName
 msgctxt "a8179764-9980-420a-863c-33f6f236f005"
 msgid "Venomous Creature"
-msgstr ""
+msgstr "맹독의 크리처"
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/PoisonTheme/PoisonThemeCharismaBuff_m_DisplayName
 msgctxt "88f3bc1e-7f54-4425-9092-cc51a73295ed"
 msgid "Charisma Poison"
-msgstr ""
+msgstr "매력 물약"
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/PoisonTheme/PoisonThemeConstitutionBuff_m_DisplayName
 msgctxt "3878f5b9-39ca-45c6-85d6-d1bb6ab3f08c"
 msgid "Constitution Poison"
-msgstr ""
+msgstr "건강 물약"
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/PoisonTheme/PoisonThemeDexterityBuff_m_DisplayName
 msgctxt "d52a19c6-82a6-43c7-b3f8-9833024f4860"
 msgid "Dexterity Poison"
-msgstr ""
+msgstr "민첩 물약"
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/PoisonTheme/PoisonThemeItelligenceBuff_m_DisplayName
 msgctxt "796c8d60-013e-4019-9c0b-b5cb71c0bc00"
 msgid "Intelligence Poison"
-msgstr ""
+msgstr "지능 물약"
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/PoisonTheme/PoisonThemeStrengthBuff_m_DisplayName
 msgctxt "053f46bd-bf8d-46ae-83ee-744bbd62cb32"
 msgid "Strength Poison"
-msgstr ""
+msgstr "힘 물약"
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/PoisonTheme/PoisonThemeWisdomBuff_m_DisplayName
 msgctxt "201b3977-3de9-41f2-abbd-f0d9bcbee125"
 msgid "Wisdom Poison"
-msgstr ""
+msgstr "지혜 물약"
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/WaterTheme/WaterThemeBaseBuff_m_Description
 msgctxt "fda74320-6c4a-4bb2-ad83-88db9d774cff"
 msgid ""
 "Battering Creatures can use various combat maneuvers, like bull rush or "
 "trip, on the targets of their attacks."
-msgstr ""
+msgstr "들이받는 크리처는 공격 대상에게 황소 돌진, 넘어뜨리기 등 다양한 전법을 사용합니다."
 
 #. Mechanics/Blueprints/DLC3/ThemeBuffs/WaterTheme/WaterThemeBaseBuff_m_DisplayName
 msgctxt "8eaf5950-f582-4d57-a6a5-50916be21f52"
 msgid "Battering Creature"
-msgstr ""
+msgstr "들이받는 크리처"
 
 #. Mechanics/Blueprints/GlobalMap/CapitalSquare_Name_String
 #. Mechanics/Blueprints/GlobalMap/Locations/VS_Region/Location_Capital_Entrances_Entries.Array.data[0].Name
@@ -4046,7 +4059,7 @@ msgstr "도둑맞은 땅"
 #. Mechanics/Blueprints/GlobalMap/Locations/VS_Region/Location_Capital_Entrances_Entries.Array.data[6].Name
 msgctxt "54cb6b84-5fe3-47ee-abaa-054304821b91"
 msgid "Exit"
-msgstr ""
+msgstr "출구"
 
 #. Mechanics/Blueprints/GlobalMap/GlobalMapEnterPoint_Tooltip_String
 msgctxt "b210b847-f082-47a7-b512-f9d489a55d5b"
@@ -4081,18 +4094,11 @@ msgid "Ratnook Hill"
 msgstr "쥐구석 언덕"
 
 #. Mechanics/Blueprints/GlobalMap/Locations/CAPITAL_Region/Location_LeopardLair_Description
-#, fuzzy
-#| msgid ""
-#| "Once popular, this trail now slowly melds into the surrounding wilderness. "
-#| "Most travelers came here via Nettle's Crossing, but with its destruction, "
-#| "the trail has been abandoned."
 msgctxt "ba2eba6a-ea1d-49fd-92b2-25cf37d30a6b"
 msgid ""
 "This trail slowly fades into the surrounding wilderness. There's no telling "
 "now where it was supposed to lead, nor who passed this way."
-msgstr ""
-"한때 융성했던 이 오솔길은 이제 주변의 황무지에 서서히 녹아들었습니다. 여행자 대부분은 네틀의 건널목을 통해 이곳에 오지만, 그곳이 "
-"파괴되면서 이 길도 버려졌습니다."
+msgstr "이 오솔길은 주변의 야생에 서서히 동화되고 있습니다. 어디가는 길이었는지, 누가 이 길을 지나다녔는지 이제는 알 수 없습니다."
 
 #. Mechanics/Blueprints/GlobalMap/Locations/CAPITAL_Region/Location_LeopardLair_Name_String
 msgctxt "881e8e21-fc88-4b5a-9965-4dc686117267"
@@ -4115,19 +4121,14 @@ msgid "Varisian Caravan"
 msgstr "바리시아인들의 캐러밴"
 
 #. Mechanics/Blueprints/GlobalMap/Locations/CAPITAL_Region/Location_WolfLair_Description
-#, fuzzy
-#| msgid ""
-#| "This part of the northern Narlmarches is a place where wildlife thrives, "
-#| "being home to a variety of beasts. This attracts many hunters, but it scares"
-#| " off other travelers — beast attacks are not rare in the area."
 msgctxt "17484a18-5378-40e4-9bcb-7157ea3c033b"
 msgid ""
 "This part of the Narlmarches is a place where wildlife thrives, being home "
 "to a variety of beasts. This attracts many hunters, but it scares off other "
 "travelers — beast attacks are not rare in the area."
 msgstr ""
-"북부 날마치에 위치한 이곳은 다양한 짐승과 야생 동물들이 번성하는 서식지입니다. 사냥꾼들에겐 매력적인 곳이지만, 짐승들의 습격이 "
-"드물지않기 때문에 다른 여행자들에겐 두려운 장소입니다."
+"날마치에 위치한 이곳은 다양한 짐승과 야생 동물들이 번성하는 서식지입니다. 사냥꾼들에겐 매력적인 곳이지만, 짐승들의 습격이 드물지않기 "
+"때문에 다른 여행자들에겐 두려운 장소입니다."
 
 #. Mechanics/Blueprints/GlobalMap/Locations/CAPITAL_Region/Location_WolfLair_Name_String
 msgctxt "bfd74c54-1ad9-4d98-b73f-06d5be62a8c1"
@@ -4152,12 +4153,12 @@ msgid ""
 "One of the few picturesque viewpoints along the Murque River, this place has"
 " been known to lure the occasional traveler into relaxing on the river's "
 "shores."
-msgstr ""
+msgstr "머크 강에 몇 없는 절경 중의 하나인 이곳은 이따금씩 강가에서 휴식을 즐기러 오는 여행객을 끌어들이는 것으로 유명합니다."
 
 #. Mechanics/Blueprints/GlobalMap/Locations/CHAPTER01_Region/Location_BigBoggardLair_Name_String
 msgctxt "5e43d8e3-bd8e-430a-97da-2cb8dd3e8c1f"
 msgid "Tranquil River Bend"
-msgstr ""
+msgstr "고요한 강굽이"
 
 #. Mechanics/Blueprints/GlobalMap/Locations/CHAPTER01_Region/Location_DryadLair_Description
 msgctxt "304a14e2-2b19-45b1-8e5f-d81eebc0d243"
@@ -4180,11 +4181,13 @@ msgid ""
 "question. History remembers many great heroes of old, whose valiant tales "
 "mysteriously ended in these parts."
 msgstr ""
+"강력한 마법이 호기심 많은 모험가들의 눈으로부터 이 고대 유적을 감춥니다. 이곳의 주인에게 친히 초대를 받은 자만이 입장할 수 있지만, "
+"여기서 탈출할 수 있느냐는 별개의 문제입니다. 많은 역사 속 옛 영웅들의 용감한 이야기가 이 지역에 이르러 의문스럽게 끝이 났습니다."
 
 #. Mechanics/Blueprints/GlobalMap/Locations/CHAPTER01_Region/Location_DungeonStartHub_Name_String
 msgctxt "722a5423-76ca-4ee0-8405-be5c49876ff9"
 msgid "Tenebrous Depths"
-msgstr ""
+msgstr "깊은 어둠"
 
 #. Mechanics/Blueprints/GlobalMap/Locations/CHAPTER01_Region/Location_GMBE_ForgottenCache_Description
 msgctxt "348861fc-88d6-4a47-ba4b-0af24996d500"
@@ -4236,12 +4239,12 @@ msgctxt "e2b53aee-5689-4393-8393-b79024e3611a"
 msgid ""
 "This expanse could be the perfect place for a farm – once someone deals with"
 " the manticore that's claimed the plains for its hunting grounds."
-msgstr ""
+msgstr "이 평야는 농장을 짓기 딱 좋은 장소일 수도 있습니다. 누군가가 여길 사냥터로 점거한 만티코어를 처리한다면 말이죠."
 
 #. Mechanics/Blueprints/GlobalMap/Locations/CHAPTER01_Region/Location_ManticoreLair2_Name_String
 msgctxt "113377f4-9fc2-4651-83bc-0a153d064f0f"
 msgid "Endless Plains"
-msgstr ""
+msgstr "끝없는 평원"
 
 #. Mechanics/Blueprints/GlobalMap/Locations/CHAPTER01_Region/Location_NaturesWrath_Description
 msgctxt "97c4fa7c-6dc7-4e14-806f-ae36c8a2723b"
@@ -4278,11 +4281,13 @@ msgid ""
 " for a particularly vicious tribe of boggards. Newcomers often learn the "
 "hard way how dangerous the area can be."
 msgstr ""
+"이 주변의 늪은 현지인들에게 오랫동안 악랄한 보가드의 사냥터로 익히 알려져 있습니다. 이 지역에 처음 온 사람들은 때때로 그 위험성을 "
+"몸소 체험하곤 합니다."
 
 #. Mechanics/Blueprints/GlobalMap/Locations/CHAPTER01_Region/Location_NormalBoggardLair_Name_String
 msgctxt "72149042-d62b-43da-adf1-4a9afd02c774"
 msgid "Boggard Hunting Grounds"
-msgstr ""
+msgstr "보가드의 사냥터"
 
 #. Mechanics/Blueprints/GlobalMap/Locations/CHAPTER01_Region/Location_NorthNarlmarchesRegionLair01_Description
 msgctxt "e8bc0965-b8cf-40b0-92a1-543a38081266"
@@ -5246,12 +5251,12 @@ msgctxt "ffcc623a-5d82-40f2-9d59-9b936931d006"
 msgid ""
 "A quiet place, hidden away from the main trade routes – and the perfect "
 "refuge for those who wish to remain unseen."
-msgstr ""
+msgstr "주요 교역로에서 멀리 떨어진 조용한 장소이자, 숨어 사는 사람들을 위한 완벽한 피난처입니다."
 
 #. Mechanics/Blueprints/GlobalMap/Locations/CHAPTER06_Region/Location_GoblinTraderProject_Name_String
 msgctxt "a984ebd6-a754-49a9-a909-2496689a7fee"
 msgid "Inconspicuous Ravine"
-msgstr ""
+msgstr "눈에 띄지 않는 계곡"
 
 #. Mechanics/Blueprints/GlobalMap/Locations/CHAPTER06_Region/Location_HamadryadLair_Name_String
 msgctxt "b1bf1440-b739-43f4-bc32-7f4134229038"
@@ -5276,22 +5281,22 @@ msgstr "버들가지 숲"
 #. Mechanics/Blueprints/GlobalMap/Locations/DLC2_Regions/Location_BlackstonesFord_DLC2_Name_String
 msgctxt "6302e6d6-bc66-481e-937d-c6fd07e57002"
 msgid "Blackstones Ford"
-msgstr ""
+msgstr "검은돌 여울"
 
 #. Mechanics/Blueprints/GlobalMap/Locations/DLC2_Regions/Location_CultistVillage_DLC2_Name_String
 msgctxt "28e51a93-09c6-48af-be15-9e9738ebc1b3"
 msgid "Old Stump"
-msgstr ""
+msgstr "오래된 그루터기"
 
 #. Mechanics/Blueprints/GlobalMap/Locations/DLC2_Regions/Location_Lair01_DLC2_Name_String
 msgctxt "35e839ea-7f23-486b-8d15-ad7460aa46d1"
 msgid "Deadly Passage"
-msgstr ""
+msgstr "위험천만한 샛길"
 
 #. Mechanics/Blueprints/GlobalMap/Locations/DLC2_Regions/Location_NomenTribe_DLC2_Name_String
 msgctxt "282691af-d7bb-4b0f-ad20-e0d20033bf76"
 msgid "The Tomb's Threshold"
-msgstr ""
+msgstr "무덤의 문턱"
 
 #. Mechanics/Blueprints/GlobalMap/Locations/DUNSWARD_Region/Location_AdventurerCamp_Description
 msgctxt "f96ee241-ac05-42d6-ad1c-531598d22897"
@@ -5514,11 +5519,13 @@ msgid ""
 "mysterious magic. Maegar Varn's latest expedition set off to plumb its "
 "depths. Neither he nor any his party have been seen ever since."
 msgstr ""
+"고대 탈도르 성채의 폐허는 신비한 마법에 의해 땅 아래로 쓸려갔습니다. 최근 메이가르 반의 탐험으로 그것의 엄청난 깊이가 드러나기 "
+"시작했습니다. 그러나 그 이후로 그와 그 일행을 본 사람은 아무도 없습니다."
 
 #. Mechanics/Blueprints/GlobalMap/Locations/DUNSWARD_Region/Location_LostLarnReturn_Name
 msgctxt "772cba73-80ad-406d-a632-853109dfa7c2"
 msgid "Lostlarn Keep"
-msgstr ""
+msgstr "로스틀란 성채"
 
 #. Mechanics/Blueprints/GlobalMap/Locations/DUNSWARD_Region/Location_ResourceGoldMine01_Description
 msgctxt "d6ead358-a65c-48c5-aa16-9a1c80c0c0b3"
@@ -8230,19 +8237,14 @@ msgid "Enraged Companion"
 msgstr "격분한 동료"
 
 #. Mechanics/Blueprints/Traits/Companions/FirstWorldConnectionFeature_m_Description
-#, fuzzy
-#| msgid ""
-#| "The character has gained a special connection to the First World. Once per "
-#| "day, if the character dies in the First World, or a location directly linked"
-#| " to it, he or she is immediately ressurected with half of their HP restored."
 msgctxt "847d5962-0843-46df-b436-cd5eb0e6eff2"
 msgid ""
 "The character has gained a special connection to the First World. Once per "
 "day, if the character dies in the First World, or a location directly linked"
 " to it, he or she is immediately resurrected with half of their HP restored."
 msgstr ""
-"주인공은 첫번째 세계로 향하는 특별한 연결을 얻었습니다. 하루에 한번씩, 만약 주인공이 첫번째 세계나 그곳으로부터 직접 연결된 곳에서 "
-"죽는다면 절반의 HP가 회복된 상태로 즉시 부활할 것입니다."
+"이 캐릭터는 태초 세계와의 특별하게 연결되었습니다. 하루에 한번, 첫번째 세계나 그곳에 직접 연결된 곳에서 죽는다면 절반의 HP가 회복된 "
+"상태로 즉시 부활할 것입니다."
 
 #. Mechanics/Blueprints/Traits/Companions/FirstWorldConnectionFeature_m_DisplayName
 msgctxt "03db8242-b537-48cc-b2c6-2939216e162c"
@@ -9051,17 +9053,15 @@ msgid "Pitborn (Demon-Spawn)"
 msgstr "핏본 (데몬 자손)"
 
 #. Mechanics/Blueprints/Traits/Races/Tiefling/TieflingHeritageDevil_Description_String
-#, fuzzy
-#| msgid ""
-#| "While often rigid, stubborn, and highly focused on sticking to plans and schedules, hellspawn also have a rare talent for penetrating others' facades. They know a lie when they hear one, and can often determine what hidden vice or secret shame motivates another.\n"
-#| "Hellspawn have a +2 racial bonus to Constitutiuon and Wisdom, a -2 penalty to Charisma, and a +2 racial bonus on Persuasion (when used for diplomacy) and Perception checks. They can use the scorching ray spell once per day. They do not suffer a penalty to their Charisma if they have levels in sorcerer or eldritch scion of an Infernal bloodline."
 msgctxt "e3044119-6f12-4be9-9f5e-501d900a81e6"
 msgid ""
 "While often rigid, stubborn, and highly focused on sticking to plans and schedules, hellspawn also have a rare talent for penetrating others' facades. They know a lie when they hear one, and can often determine what hidden vice or secret shame motivates another.\n"
 "Hellspawn have a +2 racial bonus to Constitution and Wisdom, a -2 penalty to Charisma, and a +2 racial bonus on Persuasion (when used for diplomacy) and Perception checks. They can use the scorching ray spell once per day. They do not suffer a penalty to their Charisma if they have levels in sorcerer or eldritch scion of an Infernal bloodline."
 msgstr ""
-"헬스폰은 융통성 없고 완고하며 계획과 일정에 집착하지만, 다른 이의 속내를 꿰뚫어 보는 보기 드문 재능을 가지고 있습니다. 거짓말을 들으면 알아차리고, 그 이면에 어떤 비밀스러운 악덕이나 수치심이 있어 거짓말을 하도록 하는지 판별해내곤 합니다.\n"
-"헬스폰은 건강과 지혜에 +2 종족 보너스, 매력에 -2 페널티, 설득 (협상) 및 지각 판정에 +2 종족 보너스를 갖습니다. 하루에 한 번 이글거리는 광선을 사용할 수 있고, 심연 및 지옥 혈통의 소서러나 엘드리치 사이언 레벨을 가지고 있으면 매력에 페널티를 받지 않습니다."
+"헬스폰은 융통성 없고 완고하며 계획과 일정에 집착하지만, 다른 이의 속내를 꿰뚫어 보는 보기 드문 재능을 가지고 있습니다. 거짓말을 "
+"들으면 알아차리고, 그 이면에 어떤 비밀스러운 악덕이나 수치심이 있어 거짓말을 하도록 하는지 판별해내곤 합니다.\n"
+"헬스폰은 건강과 지혜에 +2 종족 보너스, 매력에 -2 페널티, 설득 (협상) 및 지각 판정에 +2 종족 보너스를 갖습니다. 하루에 한 "
+"번 이글거리는 광선을 사용할 수 있고, 심연 및 지옥 혈통의 소서러나 엘드리치 사이언 레벨을 가지고 있으면 매력에 페널티를 받지 않습니다."
 
 #. Mechanics/Blueprints/Traits/Races/Tiefling/TieflingHeritageDevil_DisplayName_String
 msgctxt "3196aa7a-7cc4-4748-ab52-f13185efdf83"
@@ -9207,7 +9207,7 @@ msgstr "음에너지 전달"
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_1_1_Caption
 msgctxt "f81ba074-f210-4a74-a547-c8ffe6a150a8"
 msgid "Welcome to the Tenebrous Depths!"
-msgstr ""
+msgstr "깊은 어둠에 오신 것을 환영합니다!"
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_1_1_Message
 msgctxt "b45519ee-bec4-4764-9f3e-e650d47cafdc"
@@ -9216,11 +9216,12 @@ msgid ""
 "and hire mercenaries. You have enough gold to hire three of them to begin "
 "with."
 msgstr ""
+"깊은 어둠에서의 모험을 시작하려면, 실버 드래곤과 대화하여 용병을 고용하십시오. 지금 가진 돈으로 세 명의 용병을 고용할 수 있습니다."
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_1_2_Caption
 msgctxt "c64bf6d6-04e2-488b-bbfe-7582d05395ae"
 msgid "Merchant"
-msgstr ""
+msgstr "상인"
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_1_2_Message
 msgctxt "7fe71b6e-7f03-4dcb-a35e-5b6aa898835d"
@@ -9229,11 +9230,13 @@ msgid ""
 "armor. The inventory of goods he offers will expand as you reach deeper into"
 " the Depths."
 msgstr ""
+"보급품, 무기, 방어구를 판매하는 상인, 정직한 사내를 만나보십시오. 그의 상품 재고는 깊은 어둠의 깊숙한 곳을 탐험할수록 늘어날 "
+"것입니다."
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_1_3_Caption
 msgctxt "c2fe2b93-6e63-4348-8014-b6f214f86149"
 msgid "Rest"
-msgstr ""
+msgstr "휴식"
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_1_3_Message
 msgctxt "0c174712-34e5-4286-ba4b-4823f09554c0"
@@ -9242,11 +9245,13 @@ msgid ""
 "only when it's set. The silver dragon sets the table each time you reach the"
 " next floor of the Depths."
 msgstr ""
+"탁자를 클릭하면 휴식을 취해 체력과 주문을 회복할 수 있습니다. 휴식은 상이 차려져 있을 때만 가능합니다. 깊은 어둠의 다음 층에 도달할 "
+"때마다 실버 드래곤이 상을 차려둘 것입니다."
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_1_4_Caption
 msgctxt "1cb7b09b-cad2-4f3f-9436-112ea9bc8220"
 msgid "Scrolls and Potions"
-msgstr ""
+msgstr "두루마리와 물약"
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_1_4_Message
 msgctxt "648e41fb-1dc4-4257-beb7-9135d92b8d70"
@@ -9254,22 +9259,22 @@ msgid ""
 "You can purchase scrolls and potions from the silver dragon. He can help you"
 " by casting spells from these scrolls if your characters aren't able to do "
 "it themselves."
-msgstr ""
+msgstr "실버 드래곤에게서 두루마리와 물약을 구입할 수 있습니다. 당신이 스크롤을 사용할 수 없다면 실버 드래곤이 도와줄 수 있습니다."
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_1_5_Caption
 msgctxt "7102124c-c36f-4a8b-8763-54986193704d"
 msgid "Entrance to the Depths"
-msgstr ""
+msgstr "깊은 어둠 입구"
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_1_5_Message
 msgctxt "1e65c040-3678-4d3d-9ae9-8b739a3fc72f"
 msgid "This is the entrance to the Tenebrous Depths. Good luck!"
-msgstr ""
+msgstr "여기가 깊은 어둠의 입구입니다. 행운을 빕니다!"
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_2_1_Caption
 msgctxt "61f03a5b-99bc-48e0-84b6-15114e99163f"
 msgid "Resting in the dungeon"
-msgstr ""
+msgstr "던전에서 휴식하기"
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_2_1_Message
 msgctxt "23c855f3-3dbd-4452-99ae-3aaf32641be2"
@@ -9278,11 +9283,13 @@ msgid ""
 "click on the special object the enemies dropped to rest and recover your "
 "health and spells."
 msgstr ""
+"강력한 적을 물리치면 때때로 안전한 휴식처를 제공합니다. 적들이 떨어뜨린 특수 오브젝트를 클릭하면 휴식을 취하여 체력과 주문을 회복할 수 "
+"있습니다."
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_3_Caption
 msgctxt "158b644f-8e37-41dc-971d-54526d8b400d"
 msgid "The Honest Guy Has New Goods!"
-msgstr ""
+msgstr "정직한 사내에게 신상품이 들어왔습니다!"
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_3_Message
 msgctxt "54d82271-38c6-4125-b0d5-d9f0d4f557f1"
@@ -9292,11 +9299,13 @@ msgid ""
 "enemies every five levels of the dungeon, starting on the 10th level. The "
 "number of items the Honest Guy sells persists across your playthroughs."
 msgstr ""
+"방금처럼 정예 타락한 적을 물리칠 때마다, 정직한 사내의 상품 재고가 늘어납니다. 10층부터 던전의 각 5층마다 정예 타락한 적들을 "
+"만나게 됩니다. 정직한 사람이 판매하는 물품의 수는 모든 게임 플레이에 걸쳐 유지됩니다."
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_4_Caption
 msgctxt "d2c8948f-bc44-41ca-aa9a-40251bb17ab2"
 msgid "The Silver Dragon Has New Goods!"
-msgstr ""
+msgstr "실버 드래곤에게 신상품이 들어왔습니다!"
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_4_Message
 msgctxt "4b153068-3b2c-40e1-a389-b297e59376ec"
@@ -9305,11 +9314,13 @@ msgid ""
 "silver dragon expands his inventory of goods. The number of items the silver"
 " dragon sells persists across your playthroughs."
 msgstr ""
+"방금처럼 잃어버린 영웅을 물리칠 때마다 실버 드래곤의 상품 재고가 늘어납니다. 실버드래곤이 판매하는 물품의 수는 모든 게임 플레이에 걸쳐 "
+"유지됩니다."
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_5_Caption
 msgctxt "6c82c908-f78c-4b52-9012-e5b1a4595a3e"
 msgid "Lost Hero Vanquished!"
-msgstr ""
+msgstr "잃어버린 영웅 토벌!"
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_5_Message
 msgctxt "0a9d1946-a308-42ed-a498-55bd93ab037f"
@@ -9318,6 +9329,12 @@ msgid ""
 "There's always only one such enemy in every dungeon. To advance the story, retire your current character and begin anew. The silver dragon and the Honest Guy will carry over the number of items they can sell you, and you'll be able to choose a boon for your next playthrough. To retire a character, leave the Tenebrous Ruins by using the road.\n"
 "You may keep exploring the current dungeon and battle more corrupted enemies, collect more valuable loot, and reach even deeper into the Tenebrous Depths."
 msgstr ""
+"축하합니다! 잃어버린 영웅 중 한 명을 물리쳤습니다!\n"
+"잃어버린 영웅은 각 던전에 한 명밖에 없습니다. 이야기를 더 진행하려면 현재의 캐릭터를 은퇴시키고 새롭게 시작하십시오. 실버 드래곤과 "
+"정직한 사내의 상품 재고의 수가 계승되므로, 다음 플레이에서 더 좋은 아이템을 구매할 수 있습니다. 캐릭터를 은퇴시키려면 도로를 따라 "
+"어둠의 유적을 떠나면 됩니다.\n"
+"아니면 지금의 던전을 계속 탐험하여 타락한 적들과 더 싸우고, 더 값진 전리품을 수집하고, 깊은 어둠의 더 깊숙한 곳으로 내려갈 수도 "
+"있습니다."
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_10_Caption_String
 msgctxt "9f682888-dbe1-4087-9b64-a6a7f28b293d"
@@ -9604,13 +9621,6 @@ msgid "{mf|Barony|Barony|Kingdom|Kingdom} Stats"
 msgstr "{mf|남작령|여남작령|왕국|왕국} 지표"
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_2_1_Message_String
-#, fuzzy
-#| msgid ""
-#| "The {mf|barony|barony|kingdom|kingdom} has ten basic stats, each supervised "
-#| "by an advisor. They are as follows: Population (Regent), Loyalty "
-#| "(Councilor), Military (General), Economy (Treasurer), Religion (High "
-#| "Priest), Foreign Affairs (Grand Diplomat), Stability (Warden), Magic "
-#| "(Magister), Culture (Curator), and Espionage (Minister)."
 msgctxt "fc37cc4c-0c5f-483f-b73c-86c668de65b1"
 msgid ""
 "The {mf|barony|barony|kingdom|kingdom} has ten basic stats, each supervised "
@@ -9620,7 +9630,7 @@ msgid ""
 "(Curator), and Espionage (Minister)."
 msgstr ""
 "{mf|남작령|남작령|왕국|왕국}에는 보좌관들이 담당하는 10개의 기본 지표가 있습니다. 각각의 보좌관들이 담당하는 지표는 다음과 "
-"같습니다. 주민-섭정, 민심-평의원, 군사-장군, 경제-재무관, 신성-사제, 외교-수석 외교관, 치안-감시관, 마법-마법대신, 문화-"
+"같습니다. 주민-섭정, 민심-평의원, 군사-장군, 경제-재무관, 신성-대사제, 외교-수석 외교관, 치안-감시관, 마법-마법대신, 문화-"
 "학예사, 첩보-장관."
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_2_2_Caption_String
@@ -9848,16 +9858,13 @@ msgid "Problems and Opportunities"
 msgstr "문제와 기회"
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_8_2_Message_String
-#, fuzzy
-#| msgid ""
-#| "There are two types of events: problems and opportunities. If a problem event ends with a failure, it decreases your stats. If it ends with a success, it has no effect. Succeeding at an opportunity event will increase your stats, and it normally will not affect them if the outcome is a failure.\n"
-#| "Each success or triumph increases the stat the assigned advisor is responsible for by 3."
 msgctxt "953fe9c7-e9b4-4467-8edd-6e8c68355ca2"
 msgid ""
 "There are two types of events: problems and opportunities. If a problem event ends with a Failure, it decreases your stats. If it ends with a Success, it has no effect. Succeeding at an opportunity event will increase your stats, and it normally will not affect them if the outcome is a failure.\n"
 "Each Success or Triumph increases the stat the assigned advisor is responsible for by 3."
 msgstr ""
-"사건에는 문제와 기회, 두 가지 유형이 있습니다. 문제 사건이 실패로 끝나면 지표가 감소합니다. 성공으로 끝나면 효과가 없습니다. 기회 사건이 성공하면 지표가 증가하며, 실패하면 보통 영향을 미치지 않습니다. \n"
+"사건에는 문제와 기회, 두 가지 유형이 있습니다. 문제 사건이 실패로 끝나면 지표가 감소합니다. 성공으로 끝나면 효과가 없습니다. 기회 "
+"사건이 성공하면 지표가 증가하며, 실패하면 보통 영향을 미치지 않습니다. \n"
 "각 성공 또는 승리는 배정된 고문이 담당하는 지표를 3만큼 증가시킵니다."
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_9_Caption_String
@@ -10299,7 +10306,7 @@ msgctxt "3b3f39c7-a730-4f07-b973-8e4c9a71a117"
 msgid ""
 "Cephal Lorentus casts an Alarm spell, which lasts for one guard shift and "
 "warns of any enemy in the area."
-msgstr ""
+msgstr "케팔 로렌투스가 경보 주문을 시전해서 하나의 불침번 시간대 동안 적의 침입을 알립니다."
 
 #. Mechanics/Blueprints/Units/Companions/Jaethal/JaethalImmortality_m_Description
 msgctxt "5cc4f18d-d48c-4b2e-9e46-51a54ad490b2"
@@ -10338,18 +10345,11 @@ msgid "Planar Energy"
 msgstr "차원 에너지"
 
 #. Mechanics/Blueprints/Units/Companions/Kalikke/SwitchTo_Kanerah_Ability_m_Description
-#, fuzzy
-#| msgid ""
-#| "Kalikke spends a standard action to disappear into the sisters' demiplane, "
-#| "and Kanerah takes her place. During the next two rounds, the first time "
-#| "Kanerah uses an ability with a burn cost, this cost will be reduced by 1."
 msgctxt "611d0337-8e70-44f9-a5b3-fc560b1a8cfe"
 msgid ""
 "Kalikke spends a standard action to disappear into the sisters' demiplane, "
 "and Kanerah takes her place."
-msgstr ""
-"칼리케가 표준 행동을 써서 자매의 준차원으로 사라지고 카네라가 그 자리를 대신합니다. 다음 두 라운드 동안, 카네라가 과열 비용을 가진 "
-"능력을 처음으로 사용하면 비용이 1 감소합니다."
+msgstr "칼리케가 일반 행동을 써서 자매의 준차원으로 사라지고 카네라가 그 자리를 대신합니다."
 
 #. Mechanics/Blueprints/Units/Companions/Kalikke/SwitchTo_Kanerah_Ability_m_DisplayName
 msgctxt "476fe5db-46ab-4241-960d-9d5a0a952d44"
@@ -10357,18 +10357,11 @@ msgid "Call Forth Kanerah"
 msgstr "카네라 불러내기"
 
 #. Mechanics/Blueprints/Units/Companions/Kanerah/SwitchTo_Kalikke_Ability_m_Description
-#, fuzzy
-#| msgid ""
-#| "Kanerah spends a standard action to disappear into the sisters' demiplane, "
-#| "and Kalikke takes her place. During the next two rounds, the first time "
-#| "Kalikke uses an ability with a burn cost, this cost will be reduced by 1."
 msgctxt "4398fe30-2a6a-40ca-b62a-fc335e5b10ad"
 msgid ""
 "Kanerah spends a standard action to disappear into the sisters' demiplane, "
 "and Kalikke takes her place."
-msgstr ""
-"카네라가 표준 행동을 써서 자매의 준차원으로 사라지고 칼리케가 그 자리를 대신합니다. 다음 두 라운드 동안, 칼리케가 과열 비용을 가진 "
-"능력을 처음으로 사용하면 비용이 1 감소합니다."
+msgstr "카네라가 일반 행동을 써서 자매의 준차원으로 사라지고 칼리케가 그 자리를 대신합니다."
 
 #. Mechanics/Blueprints/Units/Companions/Kanerah/SwitchTo_Kalikke_Ability_m_DisplayName
 msgctxt "7719c1e7-a7c9-412b-83b3-a4fb9ac826e4"
@@ -10380,17 +10373,17 @@ msgctxt "e3aca28d-e5c2-475d-a13f-885dcc56ce81"
 msgid ""
 "Maegar Varn sets several traps that will protect the camp from monsters, "
 "which will spring if an enemy attacks."
-msgstr ""
+msgstr "메이가르 반은 녹 녹은 적이 공격해오면 작동하는 함정을 몇개 설치하여 아영지를 보호합니다."
 
 #. Mechanics/Blueprints/Units/Companions/Tristian/TristianRespawnFeature_FakeDeathMessage
 msgctxt "ebe2519e-6f27-410e-abef-5073558106c6"
 msgid "<b>{source}</b> disappears!"
-msgstr ""
+msgstr "<b>{source}</b> 이/가 사라졌습니다!"
 
 #. Mechanics/Blueprints/Units/Companions/Tristian/TristianRespawnFeature_FakeDeathMessage_1
 msgctxt "57b3585c-a5de-45e0-bbc9-eb97e238f412"
 msgid "<b>{source}</b> disappears!"
-msgstr ""
+msgstr "<b>{source}</b> 이/가 사라졌습니다!"
 
 #. Mechanics/Blueprints/Units/Companions/Tristian/TristianRespawnFeature_m_Description
 msgctxt "9b9d9ade-90ad-48cb-be1b-972699787398"
@@ -10427,13 +10420,6 @@ msgid "Athach's Venom"
 msgstr "아타치 독"
 
 #. Mechanics/Blueprints/Units/Monsters/Athach/AthachPoisonFeature_m_Description
-#, fuzzy
-#| msgid ""
-#| "Bite; Save: Fortitude (DC 24)\n"
-#| "Frequency: 1/round for 6 rounds\n"
-#| "Effect: 1d4 Dexterity damage\n"
-#| "Cure: 2 consecutive saves\n"
-#| "The save DC is Constitution-based."
 msgctxt "312f0b01-f902-4986-b110-e7856570318d"
 msgid ""
 "Bite; Save: Fortitude (DC 24)\n"
@@ -10444,7 +10430,7 @@ msgid ""
 msgstr ""
 "물기; 내성: 인내 (DC 24)\n"
 "빈도: 매 1 라운드 / 6 라운드 동안\n"
-"효과: 1d4 민첩 피해\n"
+"효과: 1d4 힘 피해\n"
 "치료: 내성 2회 연속 성공 \n"
 "내성 DC는 건강에 기반합니다."
 
@@ -10545,11 +10531,15 @@ msgid ""
 "rounds instead. The save DC is Charisma-based and includes a +2 racial "
 "bonus."
 msgstr ""
+"보가드는 한 시간에 한 번 일반 행동으로 시끄럽고 소름끼치는 울음소리를 내지를 수 있습니다. 보가드로부터 30 피트 이내에 있는 모든 "
+"보가드가 아닌 크리처는 DC 13 의지 내성에 실패하면 1d4 라운드 동안 동요합니다. 내성에 성공한 크리처는 24시간 동안 같은 "
+"보가드의 울음소리에 영향 받지 않습니다. 이미 동요 상태인 크리처는 1d4 라운드를 겁에 질리게 됩니다. 내성 DC는 매력 기반이며 +2 "
+"종족 보너스가 더해집니다."
 
 #. Mechanics/Blueprints/Units/Monsters/Boggards/BoggardsBrain/BoggardTerrifyingCroak_DisplayName_String
 msgctxt "27d1600c-9ccd-4d2e-b68e-8f4044d04f2e"
 msgid "Terrifying Croak"
-msgstr ""
+msgstr "끔찍한 울음소리"
 
 #. Mechanics/Blueprints/Units/Monsters/Devil
 #. Apostate/DevilApostateBrain/DevilApostateEvangelizationFeature_Description_String
@@ -10854,7 +10844,7 @@ msgstr ""
 "빈도: 매 1 라운드 / 6 라운드 동안\n"
 "효과: 마비 및 피로\n"
 "치료: 내성 2회 연속 성공\n"
-" 내성 DC는 건강에 기반합니다."
+"내성 DC는 건강에 기반합니다."
 
 #. Mechanics/Blueprints/Units/Monsters/Giant
 #. Flytrap/GiantFlytrapPoisonFeature_m_DisplayName
@@ -10872,12 +10862,17 @@ msgid ""
 "Cure: 1 saves\n"
 "The save DC is Constitution-based."
 msgstr ""
+"물기; 내성: 인내 (DC 27)\n"
+"빈도: 매 1 라운드 / 6 라운드 동안\n"
+"효과: 1d2 건강 피해\n"
+"치료: 내성 1회 성공\n"
+"내성 DC는 건강에 기반합니다."
 
 #. Mechanics/Blueprints/Units/Monsters/Giant
 #. Frog/GiantFrogPoisonBuff_DisplayName_String
 msgctxt "06cadab5-5e86-4eb4-be61-e59b453939a5"
 msgid "Giant Frog's Poison"
-msgstr ""
+msgstr "거대 개구리의 독"
 
 #. Mechanics/Blueprints/Units/Monsters/Giant
 #. Slug/GiantSlugBrain/GiantSlugSpitAcid_m_Description
@@ -10924,12 +10919,15 @@ msgid ""
 "Additionally, any creature in the aura must make a Will saving throw, or suffer the effects similar to that of the Crushing Despair spell.\n"
 "DC is Constitution-based."
 msgstr ""
+"가을 골렘은 10 피트 반경의 모든 적을 반사 내성 실패시 속박시키는 오라를 생성합니다.\n"
+"추가적으로, 오라 안의 크리처는 의지 내성을 굴려 실패하면 처참한 절망 주문과 유사한 효과를 받습니다.\n"
+"DC는 건강 기반입니다."
 
 #. Mechanics/Blueprints/Units/Monsters/Golem
 #. Autumn/GolemAutumnEntangleAuraBuff_m_DisplayName
 msgctxt "5cc79183-f84e-4e19-9493-a8adb018252e"
 msgid "Aura of Thorny Despair"
-msgstr ""
+msgstr "가시 돋친 절망의 오라"
 
 #. Mechanics/Blueprints/Units/Monsters/Golem
 #. Autumn/GolemAutumnGrabFeature_Description_String
@@ -10940,6 +10938,12 @@ msgid ""
 "Each round, creatures grappled by a golem suffer double it's slam damage plus double Strength modifier.\n"
 "A golem receives a +4 bonus on grapple maneuver checks."
 msgstr ""
+"골렘의 후려치기 공격에 맞은 적들은 덩굴에 휘감깁니다. 골렘은 대상에 대한 붙잡기 전법 판정에 성공하면 덩굴로 후려치기 피해에 힘 "
+"수정치의 1.5배를 더한 피해를 입히고 대상을 붙잡을 수 있습니다.\n"
+"붙잡힌 캐릭터는 움직일 수 없으며, 모든 명중 굴림에 -2 페널티, 민첩에 -4 페널티를 받습니다. 붙잡힌 크리처는 매 라운드 전법, "
+"힘, 운동 또는 기동성 판정을 성공적으로 시도하여 탈출할 수 있습니다. 이 판정에 대한 DC는 골렘의 CMD입니다.\n"
+"매 라운드마다, 골렘에게 붙잡힌 크리처는 골렘의 후려치기 피해에 힘 수정치의 두 배를 더한 만큼의 피해를 받습니다.\n"
+"골렘은 붙잡기 전법 판정에 +4 보너스를 받습니다."
 
 #. Mechanics/Blueprints/Units/Monsters/Golem
 #. Brass/BrassGolemBrain/BrassGolemBreathWeapon_Description_String
@@ -11233,12 +11237,15 @@ msgid ""
 "Additionally, any creature in the aura must make a Fortitude saving throw, or become fatigued.\n"
 "DC is Constitution-based."
 msgstr ""
+"여름 골렘은 10 피트 반경의 모든 적을 반사 내성 실패시 속박하는 오라를 생성합니다.\n"
+"추가적으로, 오라 안의 크리처는 인내 내성을 굴려 실패하면 피로해집니다.\n"
+"DC는 건강 기반입니다."
 
 #. Mechanics/Blueprints/Units/Monsters/Golem
 #. Summer/GolemSummerEntangleAuraBuff_m_DisplayName
 msgctxt "f4cfcebe-7eaa-4077-a67b-40f43202a62c"
 msgid "Aura of the Summer Heat"
-msgstr ""
+msgstr "여름 더위의 오라"
 
 #. Mechanics/Blueprints/Units/Monsters/Hydra/PoisonousHydraBreathWeaponCloud_m_DisplayName
 msgctxt "6f09f859-0c88-40be-aab9-a114628270a6"
@@ -11858,8 +11865,10 @@ msgid ""
 "Each round, creatures grappled by a shambling mound suffer 4d6+10 damage.\n"
 "A shambling mound receives a +4 bonus on grapple maneuver checks."
 msgstr ""
-"섐블링 마운드의 후려치기 공격에 맞은 적들은 덩굴에 휘감깁니다. 섐블링 마운드는 표적에 대해 붙잡기 전법 판정에 성공시 덩굴로 2d6+5의 피해와 붙잡힌 상태로 만들 수 있습니다.\n"
-"붙잡힌 캐릭터는 움직일 수 없으며, 모든 명중 굴림에 -2 페널티, 민첩에 -4 페널티를 받습니다. 붙잡힌 크리처는 매 라운드 전법, 힘, 운동 또는 기동성 판정을 성공적으로 시도하여 탈출할 수 있습니다. 이 판정에 대한 DC는 섐블링 마운드의 CMD입니다.\n"
+"섐블링 마운드의 후려치기 공격에 맞은 적들은 덩굴에 휘감깁니다. 섐블링 마운드는 대상에 대한 붙잡기 전법 판정에 성공시 덩굴로 2d6+"
+"5의 피해를 입히고 붙잡을 수 있습니다.\n"
+"붙잡힌 캐릭터는 움직일 수 없으며, 모든 명중 굴림에 -2 페널티, 민첩에 -4 페널티를 받습니다. 붙잡힌 크리처는 매 라운드 전법, "
+"힘, 운동 또는 기동성 판정을 성공적으로 시도하여 탈출할 수 있습니다. 이 판정에 대한 DC는 섐블링 마운드의 CMD입니다.\n"
 "매 라운드마다, 섐블링 마운드에게 붙잡힌 크리처는 4d6 + 10 점의 피해를 받습니다.\n"
 "섐블링 마운드는 붙잡기 전법 판정에 +4 보너스를 받습니다.\\"
 
@@ -12610,8 +12619,6 @@ msgid "Leafless Lady"
 msgstr "잎이없는 아가씨"
 
 #. Mechanics/Blueprints/Units/Names/Bosses/BloodmoonNames/Moon5WillOWisp_String
-#, fuzzy
-#| msgid "Marquess Dazzlelight"
 msgctxt "53d56fc9-b522-4504-9292-5f44763a71c4"
 msgid "Marquis Dazzlelight"
 msgstr "대즐라이트 후작"
@@ -12645,37 +12652,37 @@ msgstr "다빅 네틀"
 #. Mechanics/Blueprints/Units/Names/Bosses/DLC3/BossSpawnOfRovagug/BossSpawnOfRovagug_String
 msgctxt "7e4ef9e2-3876-48ca-872d-d778026e161b"
 msgid "Spawn of Rovagug"
-msgstr ""
+msgstr "로바거그의 자식"
 
 #. Mechanics/Blueprints/Units/Names/Bosses/DLC3/CaptorCaptive/Captive_String
 msgctxt "e735cd2d-a048-4653-adf0-d32ab7d1a735"
 msgid "The Captive"
-msgstr ""
+msgstr "인질"
 
 #. Mechanics/Blueprints/Units/Names/Bosses/DLC3/CaptorCaptive/Captor_String
 msgctxt "14ced7a5-a431-446a-88db-890976258306"
 msgid "The Captor"
-msgstr ""
+msgstr "인질범"
 
 #. Mechanics/Blueprints/Units/Names/Bosses/DLC3/FallenPriestess/FallenPriestess_String
 msgctxt "5ac0acc1-b2b8-49f9-8b4c-dd9f55b8c05e"
 msgid "The Fallen Priestess"
-msgstr ""
+msgstr "타락한 여사제"
 
 #. Mechanics/Blueprints/Units/Names/Bosses/DLC3/RovagugSpawn/RovagugSpawn_String
 msgctxt "dd4b99c8-c3e7-4e8b-b3a5-4d11bb838fe9"
 msgid "Spawn of Rovagug"
-msgstr ""
+msgstr "로바거그의 자식"
 
 #. Mechanics/Blueprints/Units/Names/Bosses/DLC3/WearyTraveler/WearyTraveler_String
 msgctxt "f46c65d1-ebc9-42dc-a1e5-59e062047265"
 msgid "The Weary Traveler"
-msgstr ""
+msgstr "지친 여행자"
 
 #. Mechanics/Blueprints/Units/Names/Bosses/DLC3/WickedChanter/WickedChanter_String
 msgctxt "491d63fb-1011-4089-b895-0398b29e8fc0"
 msgid "The Wicked Chanter"
-msgstr ""
+msgstr "사악한 영창자"
 
 #. Mechanics/Blueprints/Units/Names/Bosses/DunswardTomb/HardBanditPriestMeleeLevel8_String
 msgctxt "0f26921f-440f-407b-bd0e-3170b19c93d5"
@@ -12740,7 +12747,7 @@ msgstr "뿔난 사냥꾼"
 #. Mechanics/Blueprints/Units/Names/Bosses/Irovetti/Irovetti_FW_String
 msgctxt "493511f7-bcea-4e4a-8744-7a8dc48c8736"
 msgid "Castruccio Irovetti Shadow"
-msgstr ""
+msgstr "카스트루치오 이로베티 그림자"
 
 #. Mechanics/Blueprints/Units/Names/Bosses/Irovetti/Irovetti_String
 msgctxt "ddd43fec-12d9-4108-b5e0-8c1c40d8c13b"
@@ -12851,7 +12858,7 @@ msgstr "시로켓"
 #. Mechanics/Blueprints/Units/Names/Bosses/StagLord/FirstWorldOTP_StagLord_String
 msgctxt "1649db9f-3d2a-43c6-967b-e92cd5c46e65"
 msgid "The Stag Lord Shadow"
-msgstr ""
+msgstr "수사슴 군주 그림자"
 
 #. Mechanics/Blueprints/Units/Names/Bosses/StagLord/StagLord_String
 msgctxt "e449f4f8-2eec-4dc9-a63a-77158b11350d"
@@ -12866,12 +12873,12 @@ msgstr "타툭"
 #. Mechanics/Blueprints/Units/Names/Bosses/TrollLairSecondLevelTartuk/Tartuk_FW_String
 msgctxt "abf69828-449e-4b1b-b17d-930661a02513"
 msgid "Tartuk Shadow"
-msgstr ""
+msgstr "타툭 그림자"
 
 #. Mechanics/Blueprints/Units/Names/Bosses/Vordakai/VarnholdFW_VordakaiEnemy_String
 msgctxt "72879608-5391-4b6a-9982-2f32f6c9884d"
 msgid "Vordakai Shadow"
-msgstr ""
+msgstr "보다카이 그림자"
 
 #. Mechanics/Blueprints/Units/Names/Bosses/Vordakai/Vordakai_String
 msgctxt "cf938652-0c01-426c-8b98-a05a354dbd2b"
@@ -13180,12 +13187,12 @@ msgstr "일수리악"
 #. Mechanics/Blueprints/Units/Names/Monsters/BlueDragon/CR10_BlueDragonJuvenile_String
 msgctxt "a11da85e-bf8b-47dd-adcc-b1a68e8adbe0"
 msgid "Blue Dragon"
-msgstr ""
+msgstr "블루 드래곤"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/BlueDragon/NewDunswardOutdoor/DunswardBlueDragon_String
 msgctxt "5a63cac1-6723-4b48-8b85-2031d4df1040"
 msgid "Injured Dragon"
-msgstr ""
+msgstr "부상당한 드래곤"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Boar/BloomBoar_String
 msgctxt "f1e39196-ade3-4d24-87b6-6ae8cfa94c3c"
@@ -13245,32 +13252,32 @@ msgstr "보가드"
 #. Mechanics/Blueprints/Units/Names/Monsters/Boggard/CR10_BoggardChampion_String
 msgctxt "2438c2dc-0765-4023-a2c7-190518f669c4"
 msgid "Boggard Champion"
-msgstr ""
+msgstr "보가드 투사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Boggard/CR3_BoggardBrute_String
 msgctxt "5d12f9a8-4630-466a-bfc4-d6ed8fa11ffa"
 msgid "Boggard Brute"
-msgstr ""
+msgstr "난폭한 보가드"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Boggard/CR4_BoggardSavage_String
 msgctxt "8d5d508f-738c-40cc-8478-582f381dc3eb"
 msgid "Boggard Savage"
-msgstr ""
+msgstr "야만적인 보가드"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Boggard/CR5_BoggardProphet_String
 msgctxt "d16ec968-5149-46cd-9ec5-6031c52efc62"
 msgid "Boggard Prophet"
-msgstr ""
+msgstr "보가드 예언자"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Boggard/CR6_BoggardScarredOne_String
 msgctxt "2860a27d-60f0-4158-b64a-d6de35d17a6d"
 msgid "Boggard Scarred One"
-msgstr ""
+msgstr "흉터난 보가드"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Boggard/CR7_BoggardWarden_String
 msgctxt "f6a76989-cd4e-41bb-aac7-8bb36851f310"
 msgid "Boggard Warden"
-msgstr ""
+msgstr "보가드 간수"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Bulette/BuletteSummonedInfested_String
 msgctxt "67f9f1a2-108d-4425-8d65-4ccffbbe15ef"
@@ -13290,62 +13297,62 @@ msgstr "뷸렛"
 #. Mechanics/Blueprints/Units/Names/Monsters/Centaurs/CentaurStandard_String
 msgctxt "73e45812-7a56-415c-a38a-b8f5c2512b04"
 msgid "Centaur"
-msgstr ""
+msgstr "켄타우로스"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Centaurs/CR6_Centaur_F_bow_01_String
 msgctxt "361c525b-6c89-40a1-99dc-ac357310ca12"
 msgid "Centaur Bowman"
-msgstr ""
+msgstr "켄타우로스 궁수"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Centaurs/CR6_Centaur_F_sword_01_String
 msgctxt "660cdca8-dd1e-41f5-90b4-5baba94a6bcf"
 msgid "Centaur Warrior"
-msgstr ""
+msgstr "켄타우로스 전사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Centaurs/CR7_Centaur_F_axe_01_String
 msgctxt "7a99c6db-217c-4a81-9bc9-bf7060e475fc"
 msgid "Centaur Brute"
-msgstr ""
+msgstr "난폭한 켄타우로스"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Centaurs/CR8_Centaur_F_spear_01_String
 msgctxt "5c2e9a79-9e46-4445-a26e-5503a56233d5"
 msgid "Centaur Nature Whisperer"
-msgstr ""
+msgstr "켄타우로스 자연 숭배자"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/CorruptedMobsDLC3/CorruptedDLC3ClassName_String
 msgctxt "cf5bf8a6-b7ce-4265-b47e-542a07210bfb"
 msgid "Corrupted Creature"
-msgstr ""
+msgstr "타락한 크리처"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/CorruptedMobsDLC3/RovaSpawn_Centipede_String
 msgctxt "1de69667-d811-44b3-83ba-43232d6be585"
 msgid "Corpus Parasite"
-msgstr ""
+msgstr "시체 기생충"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/CorruptedMobsDLC3/RovaSpawn_Spider_String
 msgctxt "9449142d-cf19-4ad9-a434-0a2994d07ca2"
 msgid "Flesh of Nightmares"
-msgstr ""
+msgstr "악몽의 살덩어리"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Cyclop/CR10_CyclopCleric_String
 msgctxt "d3207ee6-c126-4580-9e87-20ada85799bb"
 msgid "Cyclops Cleric"
-msgstr ""
+msgstr "사이클롭스 클레릭"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Cyclop/CR10_CyclopCleric_String_1
 msgctxt "b0ea937e-4470-4f4d-9aeb-15f6d0f71587"
 msgid "Cyclops Cleric"
-msgstr ""
+msgstr "사이클롭스 클레릭"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Cyclop/CR11_CyclopBarbarian_String
 msgctxt "43899d4d-fe69-448a-a5c3-3ed58acdc564"
 msgid "Raging Cyclops"
-msgstr ""
+msgstr "격노한 사이클롭스"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Cyclop/CR11_CyclopBarbarian_String_1
 msgctxt "f0b421a1-b01c-4dc8-aa47-236e3129db59"
 msgid "Raging Cyclops"
-msgstr ""
+msgstr "격노한 사이클롭스"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Cyclop/CR12_CyclopGreat_String
 msgctxt "6d2a312f-6232-4231-a9ee-84ecc092520d"
@@ -13435,7 +13442,7 @@ msgstr "티레시아"
 #. Mechanics/Blueprints/Units/Names/Monsters/Dryad/DLC2_LostlarnKeep/LostlarnKeep_Dryad_Miniboss_String
 msgctxt "a93bde38-7b1a-435e-b87b-c777de7b4df0"
 msgid "Dryad Lifetaker"
-msgstr ""
+msgstr "드라이어드 숨거둠이"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Dryad/DryadLair/Crazy_Dryad_String
 msgctxt "85e204ec-c8f1-48db-8cdc-a00765e1c478"
@@ -13795,7 +13802,7 @@ msgstr "거대 개구리"
 #. Frog/CR4_GiantPoisonousFrog_String
 msgctxt "d2448db2-7867-474f-8539-7a0c5546f079"
 msgid "Giant Poisonous Frog"
-msgstr ""
+msgstr "거대 독성 개구리"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Giant
 #. Frog/GiantFrogSummoned_String
@@ -13930,13 +13937,13 @@ msgstr "영원의 골렘"
 #. Autumn/CR15_GolemAutumn_String
 msgctxt "b51235c3-d61f-4c33-aba9-74cda70b598b"
 msgid "Autumn Golem"
-msgstr ""
+msgstr "가을 골렘"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Golem
 #. Autumn/CR17_GolemAutumnAdvancedGiant_String
 msgctxt "e9b9cbeb-8a08-4f7c-90af-30813eb56f04"
 msgid "Greater Autumn Golem"
-msgstr ""
+msgstr "상급 가을 골렘"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Golem
 #. Brass/CR14_GolemBrass_String
@@ -13993,13 +14000,13 @@ msgstr "잘 만든 돌 골렘"
 #. Summer/CR15_GolemSummer_String
 msgctxt "85681254-a479-467e-9094-6110a63b1e0a"
 msgid "Summer Golem"
-msgstr ""
+msgstr "여름 골렘"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Golem
 #. Summer/CR17_GolemSummerAdvancedGiant_String
 msgctxt "36a3316d-d5df-4141-8669-4da72e705d51"
 msgid "Greater Summer Golem"
-msgstr ""
+msgstr "상급 여름 골렘"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Hag/Hag_String
 msgctxt "d4f4e050-49e8-4e24-b80c-cc819245b840"
@@ -14189,7 +14196,7 @@ msgstr "코볼트 암살자"
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/KoboldCaster_FW_String
 msgctxt "b145f7e7-2a62-477e-82a4-a8c6734675ef"
 msgid "Kobold Bone Shaman Shadow"
-msgstr ""
+msgstr "코볼트 뼈 주술사 그림자"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/KoboldHunter_String
 msgctxt "f9fbe699-8a9f-4e57-afea-4dfe4aeb7f39"
@@ -14199,12 +14206,12 @@ msgstr "코볼트 사냥꾼"
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/KoboldMelee_FW_String
 msgctxt "6ac2cb49-b847-4ef4-9561-1a09a87a7321"
 msgid "Kobold Assassin Shadow"
-msgstr ""
+msgstr "코볼트 자객 그림자"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/KoboldRanged_FW_String
 msgctxt "4020347b-e11a-4048-9d5e-adc0b58417fc"
 msgid "Kobold Skirmisher Shadow"
-msgstr ""
+msgstr "코볼트 척후병 그림자"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/KoboldSentinel_String
 msgctxt "39ac333a-6647-4aa7-9f9d-85972bdf80d7"
@@ -14760,12 +14767,12 @@ msgstr "닉시"
 #. Mechanics/Blueprints/Units/Names/Monsters/Nixie/CR4_NixieRogue_String
 msgctxt "8920c54c-fd6d-4a63-9e7d-b017f17fbdec"
 msgid "Nixie Trickster"
-msgstr ""
+msgstr "닉시 장난꾸러기"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Nixie/CR6_NixieSorceress_String
 msgctxt "240b067a-8354-40c9-a13a-92607453370a"
 msgid "Nixie Prankster"
-msgstr ""
+msgstr "닉시 익살꾼"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Nixie/C22_DelicateSituation/Melianse_String_1
 msgctxt "6d8a6e7e-ddba-4f91-a3a7-17a3e4b59644"
@@ -14790,7 +14797,7 @@ msgstr "님프"
 #. Mechanics/Blueprints/Units/Names/Monsters/Nymph/DLC2_LostlarnKeep/LostlarnKeep_Nymph_Illusionist_String
 msgctxt "71ac021d-ec8b-4052-a539-221d080de00d"
 msgid "Illusion Weaver Nymph"
-msgstr ""
+msgstr "환상 길쌈꾼 님프"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Owlbear/BloomEnragedOwlbear_String
 msgctxt "8dd344eb-6a4e-43a1-ad5c-c5d2127a99ea"
@@ -14985,32 +14992,32 @@ msgstr "사냥꾼 팔드록스"
 #. Mechanics/Blueprints/Units/Names/Monsters/Satyrs/DLC2_LostlarnKeep/LostlarnKeep_SatyrShortbowStandard_String
 msgctxt "31f74027-4d53-4f81-9d92-6bf6f2754876"
 msgid "Satyr Archer"
-msgstr ""
+msgstr "사티로스 궁수"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Satyrs/DLC2_LostlarnKeep/LostlarnKeep_SatyrShortbowStrong_String
 msgctxt "2e4ddd5a-7155-47d0-b3f9-473ae2b2fe9f"
 msgid "Reckless Satyr Bowman"
-msgstr ""
+msgstr "무모한 사티로스 궁수"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Satyrs/DLC2_LostlarnKeep/LostlarnKeep_SatyrShortswordStandard_String
 msgctxt "fed62198-f6ab-438e-b4ed-958c110f0b8c"
 msgid "Satyr Warrior"
-msgstr ""
+msgstr "사티로스 전사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Satyrs/DLC2_LostlarnKeep/LostlarnKeep_SatyrShortswordStrong_String
 msgctxt "7fb6be0e-a9b0-49da-a9e3-31b82dd4c3c4"
 msgid "Frantic Satyr Warrior"
-msgstr ""
+msgstr "정신나간 사티로스 전사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Satyrs/DLC2_LostlarnKeep/LostlarnKeep_Satyr_Enchanter_String
 msgctxt "ecf3ac8e-5a9f-44fe-80a5-15dcaa060a28"
 msgid "Mysterious Satyr Enchanter"
-msgstr ""
+msgstr "의문의 사티로스 인챈터"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Satyrs/DLC2_LostlarnKeep/LostlarnKeep_Satyr_Miniboss_String
 msgctxt "2a3beedf-1be0-40c6-a2ac-ef9a8f3cb036"
 msgid "Satyr Deadeye"
-msgstr ""
+msgstr "사티로스 명사수"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/ScytheTree/CR6_ScytheTreeStandard_String
 msgctxt "89604335-6383-4f56-a072-cd11c1470c90"
@@ -15065,7 +15072,7 @@ msgstr "전기 도마뱀 성체"
 #. Mechanics/Blueprints/Units/Names/Monsters/SilverDragon/SilverDragon_String
 msgctxt "a8e3ffad-f271-49cd-b987-114ffa90cbdf"
 msgid "Xelliren"
-msgstr ""
+msgstr "젤리런"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Skeleton/CR0_SkeletonStandard_String
 msgctxt "d0356625-6972-4a19-a4a1-09cbc5375e00"
@@ -15314,18 +15321,14 @@ msgid "Spriggan Raider"
 msgstr "스프리건 약탈자"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Spriggan/CR7_SprigganFighterMelee_String
-#, fuzzy
-#| msgid "Sprrigan Raider"
 msgctxt "9598ea6b-f615-489b-8926-63484216a8f5"
 msgid "Spriggan Raider"
 msgstr "스프리건 약탈자"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Spriggan/CR7_SprigganRogueMelee_String
-#, fuzzy
-#| msgid "Sprrigan Rogue"
 msgctxt "1824f877-185d-454d-8f27-122f3d930deb"
 msgid "Spriggan Rogue"
-msgstr "스프리건 도적"
+msgstr "스프리건 로그"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Spriggan/CR7_SprigganRogueRanged_String
 msgctxt "3f61f5e6-b486-4611-9666-94fbdfad9d28"
@@ -15350,12 +15353,12 @@ msgstr "상급 타츨원"
 #. Mechanics/Blueprints/Units/Names/Monsters/Tatzlwyrm/DLC2_LostlarnKeep/LostlarnKeep_TatzlwyrmIllusionDweomer_String
 msgctxt "e69cbc2f-db75-45f2-8a5d-e35dd34092b7"
 msgid "Purple Dweomertatzlwyrm"
-msgstr ""
+msgstr "보라색 듀오머타츨웜"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Tatzlwyrm/DLC2_LostlarnKeep/LostlarnKeep_TatzlwyrmQuickling_String
 msgctxt "c4ad7feb-2a85-4d13-b820-462e88033086"
 msgid "Quickling Tatzlwyrm"
-msgstr ""
+msgstr "재빠른 타츨웜"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Thanadaemon/CR13_ThanadaemonStandard_String
 msgctxt "04e9ff87-c6bc-4875-91d0-6dc41575c2cb"
@@ -15440,7 +15443,7 @@ msgstr "트롤"
 #. Mechanics/Blueprints/Units/Names/Monsters/Trolls/Troll_FW_String
 msgctxt "5ac19833-9a45-4a31-9fe4-d592c08b6b58"
 msgid "Branded Troll Shadow"
-msgstr ""
+msgstr "인장찍힌 트롤 그림자"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Trolls/C21_SadistMageBasement/TrollSubjectZero_String
 msgctxt "b80d5912-e4ac-4714-9939-6cb3ad157efb"
@@ -15450,7 +15453,7 @@ msgstr "멍청이"
 #. Mechanics/Blueprints/Units/Names/Monsters/Trolls/C21_TrollLairExterior/Hragulka_FW_String
 msgctxt "a8377b41-a175-46d3-a0bb-b36ebe332e42"
 msgid "Hargulka Shadow"
-msgstr ""
+msgstr "하굴카 그림자"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Trolls/C21_TrollLairExterior/PeacefullHragulka_String
 msgctxt "bdde0e65-1d77-41a8-ac74-8120d3215b63"
@@ -15603,7 +15606,7 @@ msgstr "개테인"
 #. Mechanics/Blueprints/Units/Names/Monsters/Wererat/TestWererats/WereratLeader_String
 msgctxt "0b8034b0-1424-4f37-b2dd-15c093dc4904"
 msgid "Wererat Leader"
-msgstr ""
+msgstr "쥐인간 대장"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Weretiger/Weretiger_String
 msgctxt "35c98549-c51a-4236-84bb-5a62c63840f4"
@@ -15665,13 +15668,13 @@ msgstr "고대 윌 오 위습"
 #. Wisp/CR6_WillOWispPurple_String
 msgctxt "75f23905-cca2-4697-9ad7-870544d6c1f0"
 msgid "Deathly Will-o'-wisp"
-msgstr ""
+msgstr "죽음의 윌 오 위습"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Will-o-
 #. Wisp/CR6_WillOWispRed_String
 msgctxt "9018308b-f112-486e-8ad3-ae8f94c73fc5"
 msgid "Searing Will-o'-wisp"
-msgstr ""
+msgstr "타오르는 윌 오 위습"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Will-o-
 #. Wisp/CR6_WillOWispStandart_String
@@ -15683,24 +15686,24 @@ msgstr "윌 오 위습"
 #. Wisp/CR6_WillOWispYellow_String
 msgctxt "e31cff03-0f6e-45e3-afba-b888752fa7d2"
 msgid "Screaming Will-o'-wisp"
-msgstr ""
+msgstr "소리 지르는 윌 오 위습"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Will-o-
 #. Wisp/CR8_WarWispPurple_String
 msgctxt "85045863-b01e-4b42-a974-242617fc6acc"
 msgid "Deathly War Wisp"
-msgstr ""
+msgstr "죽음의 전쟁 위습"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Will-o-Wisp/CR8_WarWispRed_String
 msgctxt "a9c4d6e8-f527-4a89-939f-bd841703b779"
 msgid "Searing War Wisp"
-msgstr ""
+msgstr "타오르는 전쟁 위습"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Will-o-
 #. Wisp/CR8_WarWispYellow_String
 msgctxt "98fb6dac-d293-4543-9973-6785be08646f"
 msgid "Screaming War Wisp"
-msgstr ""
+msgstr "소리 지르는 전쟁 위습"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Will-o-Wisp/CR8_WarWisp_String
 msgctxt "69a8d750-609c-46cc-b97e-4cf95c543b4e"
@@ -15971,7 +15974,7 @@ msgstr "모험가"
 #. Mechanics/Blueprints/Units/Names/NPC/Adventurers/C31_AdventurersCamp/AdventurerFighter_String
 msgctxt "2a32d92f-fc1e-41b2-adc9-845cf012e6ac"
 msgid "Fighter"
-msgstr "전사"
+msgstr "파이터"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Adventurers/C31_AdventurersCamp/AdventurerMage_String
 msgctxt "da7ddf82-0624-415c-a8cf-28115997c22a"
@@ -16231,7 +16234,7 @@ msgstr "가짜 수사슴 군주"
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/C22_ShrineOfLamashtu/Cultist_String
 msgctxt "e8a386bf-fd2d-4187-ab82-3ce38b4e69ae"
 msgid "Cultist"
-msgstr "이교도"
+msgstr "사교도"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/C31_DunswardTomb/Barbarian_String
 msgctxt "b6bd9f8c-99e0-434f-aebe-b2d9aa705633"
@@ -16271,7 +16274,7 @@ msgstr "에네오"
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/C41_TempleOfTheElk/PiligrimTrader_String
 msgctxt "46e7a184-b1f1-48d5-89e1-194f1517bb79"
 msgid "Pilgrim Trader"
-msgstr ""
+msgstr "순례자 상인"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/C41_TempleOfTheElk/RangedPiligrim_String
 msgctxt "432eae33-967b-4385-b7fa-7bcf7979206b"
@@ -16366,7 +16369,7 @@ msgstr "일로라 누스키"
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/C71_CapitalSquareFW/BrevoySoldierMelee_PermanentBattleFW_String
 msgctxt "7380a575-a1ea-4308-a9fc-ae1f05f9618f"
 msgid "Brevoy Soldier Shadow"
-msgstr ""
+msgstr "브레보이 병사 그림자"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/C71_CapitalSquareFW/FW_BanditAlchemist_String
 msgctxt "abbf691c-f31b-414b-8d7f-69d54e4ceb82"
@@ -16401,122 +16404,122 @@ msgstr "은타비"
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2/NewDunswardOutdoor/DLC2_DunswardBanditsLeader_String
 msgctxt "cda24ca1-714c-46cd-992d-74d06005c74b"
 msgid "Pale Yan"
-msgstr ""
+msgstr "창백한 얀"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/ApostateAlchemist_String
 msgctxt "e8e514af-1317-46fc-955d-abc171a47f77"
 msgid "Apostate Alchemist"
-msgstr ""
+msgstr "변절자 알케미스트"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/ApostateBarbarian_String
 msgctxt "dbba66d4-0410-49ac-9082-b6255ffdcb34"
 msgid "Apostate Brawler"
-msgstr ""
+msgstr "변절자 싸움꾼"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/ApostateBard_String
 msgctxt "1f22e9c9-5220-415b-85ce-53609550bce6"
 msgid "Apostate Bard"
-msgstr ""
+msgstr "변절자 바드"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/ApostateConjurer_String
 msgctxt "c28a74d9-0280-43e0-bcb5-e35eb9ffefc8"
 msgid "Apostate Conjurer"
-msgstr ""
+msgstr "변절자 컨저러"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/ApostateIllusionist_String
 msgctxt "1758f18f-bdaa-4e43-b80d-7cfe26637d60"
 msgid "Apostate Illusionist"
-msgstr ""
+msgstr "변절자 일루저니스트"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/ApostateMelee_String
 msgctxt "f4affe09-38dd-40f8-bada-2b337f2ed697"
 msgid "Apostate Warrior"
-msgstr ""
+msgstr "변절자 전사"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/ApostateNecromancer_String
 msgctxt "02853bbb-7810-4012-ab55-86a82cd8b514"
 msgid "Apostate Necromancer"
-msgstr ""
+msgstr "변절자 네크로맨서"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/ApostatePositiveCleric_String
 msgctxt "5bc18831-1d60-4879-8fd5-087be221ab54"
 msgid "Apostate Priest"
-msgstr ""
+msgstr "변절자 사제"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/ApostateRanged_String
 msgctxt "9385a998-f638-4d44-bfb0-43ec93d30069"
 msgid "Apostate Archer"
-msgstr ""
+msgstr "변절자 궁수"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/ApostateRogue_String
 msgctxt "4739fbb8-7e1b-4823-965e-b04e6285f62e"
 msgid "Apostate Dodger"
-msgstr ""
+msgstr "변절자 도망자"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/BossCultist_String
 msgctxt "24969cb0-fe78-4cef-9748-d8f6e4c86448"
 msgid "Zordesh"
-msgstr ""
+msgstr "조데쉬"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/CultistAlchemist_String
 msgctxt "40df9956-d75c-4293-b2cf-103db6a0c1b4"
 msgid "Cultist Alchemist"
-msgstr ""
+msgstr "사교도 알케미스트"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/CultistBarbarian_String
 msgctxt "ef56498c-a48e-4514-8ea6-576a2bc7be8d"
 msgid "Cultist Brawler"
-msgstr ""
+msgstr "사교도 싸움꾼"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/CultistBard_String
 msgctxt "9c04d50f-9984-4c2a-94a4-0bdb5a5b3996"
 msgid "Cultist Bard"
-msgstr ""
+msgstr "사교도 바드"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/CultistConjurer_String
 msgctxt "c4a8d28f-c691-439c-a613-06100ec42aee"
 msgid "Cultist Conjurer"
-msgstr ""
+msgstr "사교도 컨저러"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/CultistIllusionist_String
 msgctxt "0433ef53-09f2-47f2-acfa-2bd1e38d9a33"
 msgid "Cultist Illusionist"
-msgstr ""
+msgstr "사교도 일루저니스트"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/CultistMelee_String
 msgctxt "af1ac2ee-7898-4770-a2fd-8d6d175d2890"
 msgid "Cultist Warrior"
-msgstr ""
+msgstr "사교도 전사"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/CultistNecromancer_String
 msgctxt "5fced648-a075-484d-88cd-da040e1d85e0"
 msgid "Cultist Necromancer"
-msgstr ""
+msgstr "사교도 네크로맨서"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/CultistPositiveCleric_String
 msgctxt "8d458ceb-a1ad-4e09-b594-df680f106a7b"
 msgid "Cultist Priest"
-msgstr ""
+msgstr "사교도 사제"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/CultistRanged_String
 msgctxt "00858023-14d4-4560-bea4-e9556402f752"
 msgid "Cultist Archer"
-msgstr ""
+msgstr "사교도 궁수"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/CultistRogue_String
 msgctxt "e1269da4-aec5-4f72-9efa-1b323e9423f1"
 msgid "Cultist Dodger"
-msgstr ""
+msgstr "사교도 도망자"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/DLC2_CultistsVillage/CultistVendor_String
 msgctxt "95c45cf8-4118-4ce5-910a-dc4e37e496d1"
 msgid "Muan"
-msgstr ""
+msgstr "무안"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/KingdomAsCompanion/CE_DarkerThanBlack/Cultist_Sorcerer_String
 msgctxt "b8dfcf24-6e9e-4bbd-aba3-8e3bbfba1184"
 msgid "Cultist"
-msgstr "이교도"
+msgstr "사교도"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Bandits/KingdomAsCompanion/LN_NatureWrath/Druid_String
 msgctxt "8133e828-5164-48cf-ae9c-524341db7cc0"
@@ -16566,7 +16569,7 @@ msgstr "해적"
 #. Mechanics/Blueprints/Units/Names/NPC/BlackstonesFordTrader/BlackstonesFordTrader_String
 msgctxt "5e0ea626-e875-4baf-ad31-9a50187eaa5d"
 msgid "Yorgesh"
-msgstr ""
+msgstr "요르게시"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Blakemoor/Blakemoor_String
 msgctxt "459ab980-4dd7-4548-b43f-4630f58f3f9e"
@@ -16853,7 +16856,7 @@ msgstr "아이셀"
 #. Mechanics/Blueprints/Units/Names/NPC/Commoners/C22_SilverstepLakeOutdoor/Lidika_String
 msgctxt "211e60c9-0950-4ffe-b865-8ae5f95c6725"
 msgid "Lidika"
-msgstr ""
+msgstr "리디카"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Commoners/C22_SilverstepLakeOutdoor/SuspiciosTrader_String
 msgctxt "a22b0933-ef82-41b1-9c93-1171f3d161de"
@@ -16908,7 +16911,7 @@ msgstr "샤타라의 아들 잉게드"
 #. Mechanics/Blueprints/Units/Names/NPC/Commoners/DLC2_NewDunswardOutdoor/CentaurChief_String
 msgctxt "f1552323-1126-4a7a-ba9c-804700829124"
 msgid "Aecora Silverfire"
-msgstr ""
+msgstr "에코라 실버파이어"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Commoners/DLC2_NewDunswardOutdoor/CentaurGuard_String
 #, fuzzy
@@ -16920,34 +16923,32 @@ msgstr "(고용) 켄타우르스"
 #. Mechanics/Blueprints/Units/Names/NPC/Commoners/DLC2_NewDunswardOutdoor/CultistBoy_String
 msgctxt "a6bd20b1-344f-44cd-a0ff-eb69ff3d15cd"
 msgid "Young Man"
-msgstr ""
+msgstr "젊은 남자"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Commoners/DLC2_NewDunswardOutdoor/CultistGirl_String
 msgctxt "5beb7f1d-017b-424a-9b3e-202f67067b21"
 msgid "Young Woman"
-msgstr ""
+msgstr "젊은 여자"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Commoners/DLC2_NewDunswardOutdoor/CultistHunter_String
-#, fuzzy
-#| msgid "(draft) Hunter"
 msgctxt "d773959d-5a49-4d09-990e-369c7391345b"
 msgid "Villager from Old Stump"
-msgstr "(고용) 사냥꾼"
+msgstr "오래된 그루터기에서 온 마을 사람"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Commoners/DLC2_NewDunswardOutdoor/DunswardsCentaurLeader_String
 msgctxt "5e7662d2-383b-4162-9871-79575b3b573a"
 msgid "Centaur Patrol Leader"
-msgstr ""
+msgstr "켄타우로스 순찰대 대장"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Commoners/DLC2_NewDunswardOutdoor/DunswardsCentaurSubLeader_String
 msgctxt "fb847282-5077-4418-b04e-61e43b7345de"
 msgid "Centaur Patrol Lieutenant"
-msgstr ""
+msgstr "켄타우로스 순찰대 부관"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Commoners/DLC2_NomenTribe/CentaurSavedFromBulette_String
 msgctxt "d866399f-9076-432c-9ba4-996210401c62"
 msgid "Roiko"
-msgstr ""
+msgstr "로이코"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Commoners/Jubilost_Q2/GnomeGhost_String
 msgctxt "04bca921-0613-41d5-8c59-ab6c8693b505"
@@ -16992,7 +16993,7 @@ msgstr "바리시아인"
 #. Mechanics/Blueprints/Units/Names/NPC/Cvetislava/Cvetislava_String
 msgctxt "8e0d7f8c-a855-42ab-878b-6b0849f8b7d9"
 msgid "Cvetislava"
-msgstr ""
+msgstr "크베티슬라바"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Darwen/Darwen_String
 msgctxt "fd9c974f-5b70-415f-8ed1-575609e18800"
@@ -17002,62 +17003,62 @@ msgstr "다르벤"
 #. Mechanics/Blueprints/Units/Names/NPC/Drow/CR0.3_DrowWarrior1_String
 msgctxt "d8e6af37-ce4e-4880-8a3b-dc3cd69c821a"
 msgid "Drow"
-msgstr ""
+msgstr "드로우"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Drow/CR4_DrowKnifeMaster5_String
 msgctxt "364c5f79-2e9b-4f1f-9df2-17c99dc98eaf"
 msgid "Drow Knife Master"
-msgstr ""
+msgstr "드로우 단검 대가"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Drow/CR5_DrowFighter6_String
 msgctxt "19f7799b-99ff-4161-b103-a0066ee456b5"
 msgid "Drow Fencer"
-msgstr ""
+msgstr "드로우 펜서"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Drow/CR5_DrowFighterRanged6_String
 msgctxt "07a40f63-afd5-440c-bca5-f0d2002716d0"
 msgid "Drow Crossbowman"
-msgstr ""
+msgstr "드로우 쇠뇌수"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Drow/CR6_DrowEldritchArcher7_String
 msgctxt "5ad97637-cad2-4d28-be30-d7411cfab5a9"
 msgid "Drow Magus"
-msgstr ""
+msgstr "드로우 메이거스"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Duergars/CR0.3_DuergarWarrior1_String
 msgctxt "83d391c1-9a5f-434b-92a0-346ca52574fe"
 msgid "Duergar"
-msgstr ""
+msgstr "듀에르가"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Duergars/CR10_DuergarDruid11_String
 msgctxt "46774fb1-a131-4b46-a670-db0ced4f3c1a"
 msgid "Duergar Tyrant Shaman"
-msgstr ""
+msgstr "듀에르가 폭군 주술사"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Duergars/CR10_DuergarFighter11_String
 msgctxt "956f9fda-3d51-43a8-98db-464480caefc5"
 msgid "Veteran Duergar Defender"
-msgstr ""
+msgstr "숙련병 듀에르가 수호자"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Duergars/CR12_DuergarKineticist13_String
 msgctxt "065088c5-1733-4391-b6c9-543b815c7565"
 msgid "Duergar Geokineticist"
-msgstr ""
+msgstr "듀에르가 지오키네티시스트"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Duergars/CR6_DuergarBarbarian7_String
 msgctxt "81865361-beed-4913-b195-5bb55d032054"
 msgid "Iron Fury Duergar"
-msgstr ""
+msgstr "철의 분노 듀에르가"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Duergars/CR7_DuergarFighter8_String
 msgctxt "6133ba1d-48db-4ae2-91bc-0eeea6e52a4e"
 msgid "Duergar Defender"
-msgstr ""
+msgstr "듀에르가 수호자"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Duergars/CR9_DuergarBarbarian10_String
 msgctxt "8aa9c944-82af-44a3-a66c-508ae858b4c3"
 msgid "Steel Fury Duergar"
-msgstr ""
+msgstr "강철 분노 듀에르가"
 
 #. Mechanics/Blueprints/Units/Names/NPC/EdristHanvaki/EdristHanvaki_String
 msgctxt "ea709778-d482-4b88-bcfd-fda56322096c"
@@ -17197,12 +17198,12 @@ msgstr "레베다 가문의 용병"
 #. Mechanics/Blueprints/Units/Names/NPC/Guards/C71_BrevoyBorderlandsFW/VarnholdFW_GuardEnemy_String
 msgctxt "9f895994-851e-4df7-81d7-44e77e929cc9"
 msgid "Guard Shadow"
-msgstr ""
+msgstr "경비병 그림자"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Guards/C71_BrevoyBorderlandsFW/VarnholdFW_ZombieCyclopEnemy_String
 msgctxt "027ea019-a9c0-4d24-b1b6-08b7c816bc87"
 msgid "Dread Zombie Cyclops Shadow"
-msgstr ""
+msgstr "드레드 좀비 사이클롭스 그림자"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Guards/CapitalSquare/Capital_GuardCaptainAssistant_String
 msgctxt "3732be8d-a826-4c38-a222-8ab32de63e5d"
@@ -17237,7 +17238,7 @@ msgstr "형벌 기사단의 헬나이트"
 #. Mechanics/Blueprints/Units/Names/NPC/Ignash/Ignash_String
 msgctxt "e4679adb-3531-4615-9d4a-2bd4862ebc48"
 msgid "Ignash"
-msgstr ""
+msgstr "이그내쉬"
 
 #. Mechanics/Blueprints/Units/Names/NPC/IosephSellemius/IosephSellemius_String
 msgctxt "bf6073e4-5b64-452c-9575-3dc6b6731a52"
@@ -17282,7 +17283,7 @@ msgstr "칼리스트리아 사냥꾼"
 #. Mechanics/Blueprints/Units/Names/NPC/Karida/Karida_String
 msgctxt "42b4b288-2c85-47c0-87ad-dd8d94143649"
 msgid "Karida"
-msgstr ""
+msgstr "카리다"
 
 #. Mechanics/Blueprints/Units/Names/NPC/KassilAldori/Kassil_String
 msgctxt "ce7eaac6-fe87-4940-989a-0adeb221addd"
@@ -17317,43 +17318,43 @@ msgstr "선지자 루스거트"
 #. Mechanics/Blueprints/Units/Names/NPC/KingdomOfTheCleansed/KingdomOfTheCleansed/CultistFemale1_String
 msgctxt "a0cf5849-5a23-4c16-9626-f09ca5bc310f"
 msgid "Cultist"
-msgstr "이교도"
+msgstr "사교도"
 
 #. Mechanics/Blueprints/Units/Names/NPC/KingdomOfTheCleansed/KingdomOfTheCleansed/CultistFighter1_String
 msgctxt "415e6585-5975-498e-8300-d25ff9e37f0f"
 msgid "Cultist Fighter"
-msgstr "이교도 전사"
+msgstr "사교도 전사"
 
 #. Mechanics/Blueprints/Units/Names/NPC/KingdomOfTheCleansed/KingdomOfTheCleansed/CultistFighterRanged_String
 msgctxt "b8315b01-065e-4926-a902-ffb1e7652920"
 msgid "Cultist Archer"
-msgstr "이교도 궁수"
+msgstr "사교도 궁수"
 
 #. Mechanics/Blueprints/Units/Names/NPC/KingdomOfTheCleansed/KingdomOfTheCleansed/CultistMale1_String
 msgctxt "9a95a00c-65b1-4bf3-b0fc-002565a5cc6a"
 msgid "Cultist"
-msgstr "이교도"
+msgstr "사교도"
 
 #. Mechanics/Blueprints/Units/Names/NPC/KingdomOfTheCleansed/KingdomOfTheCleansed/CultistMale2_String
 msgctxt "631852a9-4223-4484-9bd0-7aa61a44493e"
 msgid "Cultist"
-msgstr "이교도"
+msgstr "사교도"
 
 #. Mechanics/Blueprints/Units/Names/NPC/KingdomOfTheCleansed/KingdomOfTheCleansed/CultistRogue1_String
 msgctxt "fa942eb6-a857-4263-9ee6-ee4b48eddde1"
 msgid "Cultist Rogue"
-msgstr "이교도 도적"
+msgstr "사교도 도적"
 
 #. Mechanics/Blueprints/Units/Names/NPC/KingdomOfTheCleansed/KingdomOfTheCleansed/CultistRogueMelee2_String
 msgctxt "e5d389c6-e740-4fdf-9566-c6d193cd5d76"
 msgid "Cultist Rogue"
-msgstr "이교도 도적"
+msgstr "사교도 도적"
 
 #. Mechanics/Blueprints/Units/Names/NPC/KingdomOfTheCleansed/KingdomOfTheCleansed/CultistRogueRanged
 #. 1_String
 msgctxt "46cd4b53-325e-4ad3-b765-6accb367d4ce"
 msgid "Cultist Rogue"
-msgstr "이교도 도적"
+msgstr "사교도 도적"
 
 #. Mechanics/Blueprints/Units/Names/NPC/LamashtuPriests/PriestOfLamashtu_String
 msgctxt "88a59d55-5bca-40d2-acba-61c808728e19"
@@ -17383,7 +17384,7 @@ msgstr "린시아"
 #. Mechanics/Blueprints/Units/Names/NPC/LostlarnGhostMage/LostlarnGhostMage_String
 msgctxt "d69bd56a-cf1e-469b-ac88-8c7bf1d3d219"
 msgid "Marcida Vittari"
-msgstr ""
+msgstr "마르치다 비타리"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Magdh/MagdhTheThree_String
 msgctxt "ac3dde49-95b2-48c7-b06c-d0b66f55f482"
@@ -17588,7 +17589,7 @@ msgstr "에라스틸의 사제"
 #. combat/C31_Varnhold/VarnholdFW_MaegarVarnEnemy_String
 msgctxt "298f7f1a-34e2-45d6-b075-1145de641ec8"
 msgid "Maegar Varn Shadow"
-msgstr ""
+msgstr "메이가르 반 그림자"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Non-
 #. combat/C51_RushlightFestival/AnnamedeBelavarah_String
@@ -17886,7 +17887,7 @@ msgstr "자로나"
 #. combat/CapitalThroneRoom/KingdomAsCompanion_Jase_String
 msgctxt "6ab5b9d0-6331-44c9-90b4-0a7f8ee5863d"
 msgid "Jase"
-msgstr ""
+msgstr "제시"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Non-
 #. combat/CapitalThroneRoom/KingdomAsCompanion_KorvoshAmbassador_String
@@ -18057,7 +18058,7 @@ msgstr "린샬라 바스카리"
 #. Mechanics/Blueprints/Units/Names/NPC/Revolutionary/Revolutionary_String
 msgctxt "68cc1eee-8c2c-4c4b-9707-5b4428e0fa2a"
 msgid "Leonta Misho"
-msgstr ""
+msgstr "레온타 미스호"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Salim/Salim_String
 msgctxt "58c7a98a-1301-42ac-b41a-546968ca2fa1"
@@ -18107,7 +18108,7 @@ msgstr "유니콘 비사카"
 #. Mechanics/Blueprints/Units/Names/NPC/Svelyd/Svelyd_String
 msgctxt "f9ccd028-9975-46de-8362-88b3dfea8b7b"
 msgid "Svelid"
-msgstr ""
+msgstr "스벨리드"
 
 #. Mechanics/Blueprints/Units/Names/NPC/SvetlanaLeveton/SvetlanaLeveton_String
 msgctxt "a6ade261-0c1b-4025-aa3e-8f245b9d1051"
@@ -18287,17 +18288,17 @@ msgstr "야만인 클레릭"
 #. Mechanics/Blueprints/Units/Names/NPC/Vandals/C71_BrevoyBorderlandsFW/VandalHillGiant_FW_String
 msgctxt "995f9667-f410-4f65-b584-6b86a732cb8c"
 msgid "Barbarian Hill Giant Shadow"
-msgstr ""
+msgstr "바바리안 언덕 거인 그림자"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Vandals/C71_BrevoyBorderlandsFW/VandalMelee_PermanentBattleFW_String
 msgctxt "5fc85f51-5f5f-4896-89ef-c40e0b7a0526"
 msgid "Barbarian Shadow"
-msgstr ""
+msgstr "바바리안 그림자"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Vandals/C71_BrevoyBorderlandsFW/VandalRanged_PermanentBattleFW_String
 msgctxt "99753f6b-974c-45fa-9805-9c42beaf8dd5"
 msgid "Barbarian Archer Shadow"
-msgstr ""
+msgstr "바바리안 궁수 그림자"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Vandals/C71_BrevoyBorderlandsFW/VandalVeteran_String
 msgctxt "eaaa2003-d375-4002-9402-7764f5e65a76"
@@ -18307,7 +18308,7 @@ msgstr "정예 야만인 전사"
 #. Mechanics/Blueprints/Units/Names/NPC/Verda/Verda_String
 msgctxt "c8f2e01d-6296-46c7-afc6-a486c57afc01"
 msgid "Kjerdi"
-msgstr ""
+msgstr "체르디"
 
 #. Mechanics/Blueprints/Units/Names/NPC/WerenDegar/WerenDegar_String
 msgctxt "f1f3b399-787b-4b24-9450-d131fc5bbab6"
@@ -18317,7 +18318,7 @@ msgstr "웨런 데거"
 #. Mechanics/Blueprints/Units/Names/NPC/ZombieJester/ZombieJester_String
 msgctxt "a4582a14-3f8f-4a63-a103-7bc8736472c8"
 msgid "Zombie Jester"
-msgstr ""
+msgstr "좀비 어릿광대"
 
 #. Mechanics/Blueprints/Units/Names/Pregens/PlayerMagus/PregenMagusLevel1_String
 msgctxt "75668ea1-1628-4ceb-b546-150af9c5cbc8"
@@ -18332,42 +18333,42 @@ msgstr "팔라딘"
 #. Mechanics/Blueprints/Units/Names/Pregens/VarnholdStart/VarnholdPregenBardUnit_String
 msgctxt "9da13c7e-1d47-46a5-8036-df308d3514f3"
 msgid "Arno"
-msgstr ""
+msgstr "아르노"
 
 #. Mechanics/Blueprints/Units/Names/Pregens/VarnholdStart/VarnholdPregenDruidUnit_String
 msgctxt "695511c4-6e03-4d85-93b0-835c3a1f44b2"
 msgid "Faeli"
-msgstr ""
+msgstr "페일리"
 
 #. Mechanics/Blueprints/Units/Names/Pregens/VarnholdStart/VarnholdPregenFighterUnit_String
 msgctxt "152c94e1-0c03-4010-9ed2-ba847671be86"
 msgid "Rada"
-msgstr ""
+msgstr "라다"
 
 #. Mechanics/Blueprints/Units/Names/Pregens/VarnholdStart/VarnholdPregenPaladinUnit_String
 msgctxt "014d0a9f-d25e-438e-840e-c628dc7ff517"
 msgid "Genner"
-msgstr ""
+msgstr "제너"
 
 #. Mechanics/Blueprints/Units/Names/Pregens/VarnholdStart/VarnholdSorcererPregenUnit_String
 msgctxt "d4ad639d-a701-49f2-8557-c17416daf643"
 msgid "Velainah"
-msgstr ""
+msgstr "벨라이나"
 
 #. Mechanics/Blueprints/Units/Names/Pregens/VarnholdStart/Mercenaries/VarnholdMercenaryClericUnit_String
 msgctxt "56e4ac98-7971-4bff-9aa9-f23198062bda"
 msgid "Gekkor"
-msgstr ""
+msgstr "게커"
 
 #. Mechanics/Blueprints/Units/Names/Pregens/VarnholdStart/Mercenaries/VarnholdMercenaryMonkUnit_String
 msgctxt "b4d9d7ce-2b9e-47d9-bf2c-4aab836be8b0"
 msgid "Bruiser"
-msgstr ""
+msgstr "덩치"
 
 #. Mechanics/Blueprints/Units/Names/Pregens/VarnholdStart/Mercenaries/VarnholdMercenaryRangerUnit_String
 msgctxt "923bff8b-5a07-4a9b-96b7-940e382fcf27"
 msgid "Tehara"
-msgstr ""
+msgstr "테하라"
 
 #. Mechanics/Blueprints/Units/Names/Traps/CommonTrap_String
 msgctxt "ae2c0f80-aa28-45f5-847c-9744df532a95"
@@ -18621,19 +18622,14 @@ msgid "Area Damage"
 msgstr "범위 피해"
 
 #. Mechanics/Blueprints/Units/Pregens/StartGame/StartGame_Player_Unit_CampingSpecial_Description_String
-#, fuzzy
-#| msgid ""
-#| "While resting within the borders of your lands, outside of dungeons, you "
-#| "don't need to scavenge for provisions. Use this ability to have your loyal "
-#| "subjects supply your party with enough rations for your current rest."
 msgctxt "40d9b423-cb36-40c9-84f7-eaffbc1f349f"
 msgid ""
 "While resting within the borders of your lands, and outside of dungeons, you"
 " don't need to scavenge for provisions. Use this ability to have your loyal "
 "subjects supply your party with enough rations to keep you going."
 msgstr ""
-"영토 내, 던전 밖에서 휴식을 취할 때 먹을 것을 찾아 헤맬 필요가 없습니다. 이 기능을 사용하면 당신의 충성스런 백성들이 일행에게 이번"
-" 휴식에 필요한 식량을 제공하도록 합니다."
+"영토 내, 던전 밖에서 휴식을 취할 때 먹을 것을 찾아 헤맬 필요가 없습니다. 이 기능을 사용하면 당신의 충성스런 백성들이 일행에게 이번 "
+"휴식에 필요한 식량을 제공하도록 합니다."
 
 #. Mechanics/Blueprints/Units/Pregens/StartGame/StartGame_Player_Unit_CampingSpecial_Name_String
 msgctxt "429001f3-2825-4dd7-993c-1c72f9bef871"
@@ -18643,7 +18639,7 @@ msgstr "식량 조달"
 #. Mechanics/Blueprints/Units/Pregens/VarnholdStart/VarnholdPregenBardUnit_PregenClass
 msgctxt "948ed4a3-9301-46b7-b2fa-84d44f7bb2d2"
 msgid "Bard"
-msgstr ""
+msgstr "바드"
 
 #. Mechanics/Blueprints/Units/Pregens/VarnholdStart/VarnholdPregenBardUnit_PregenDescription
 msgctxt "b3b7b602-e15e-49e5-b132-82ba716b2873"
@@ -18654,21 +18650,24 @@ msgid ""
 "courageous. However, that doesn't mean that his enemies have nothing to "
 "fear. The young aasimar knows well how to defend himself."
 msgstr ""
+"아르노는 어린 나이에 반링 호스트에 합류한 이래로 용병대의 대체 불가능한 구성원이었습니다. 그의 노래와 조언이 없었다면, 호스트의 "
+"파이터들이 그렇게 능숙하고 용감하지 못했을 것입니다. 하지만, 그렇다고 해서 적을 얕보지도 않습니다. 젊은 아시마르는 자기 자신을 지키는 "
+"법을 잘 알고 있습니다."
 
 #. Mechanics/Blueprints/Units/Pregens/VarnholdStart/VarnholdPregenBardUnit_PregenName
 msgctxt "53184339-af79-4586-ac11-9c46dad08b35"
 msgid "Arno"
-msgstr ""
+msgstr "아르노"
 
 #. Mechanics/Blueprints/Units/Pregens/VarnholdStart/VarnholdPregenBardUnit_PregenRole
 msgctxt "5b302850-7a0d-46eb-81cc-bdf8c1b5090f"
 msgid "Support"
-msgstr ""
+msgstr "지원"
 
 #. Mechanics/Blueprints/Units/Pregens/VarnholdStart/VarnholdPregenDruidUnit_PregenClass
 msgctxt "4cacbbde-7579-404e-82fd-b3ae7fa7e520"
 msgid "Druid"
-msgstr ""
+msgstr "드루이드"
 
 #. Mechanics/Blueprints/Units/Pregens/VarnholdStart/VarnholdPregenDruidUnit_PregenDescription
 msgctxt "1fdaf6ae-1a12-44cd-a70d-9ac430b72a60"
@@ -18679,21 +18678,24 @@ msgid ""
 " Maegar Varn and Cephal Lorentus, the Host's leaders. Her power over nature "
 "is a blessing, especially when the Varnling Host travels the wilderness."
 msgstr ""
+"수수께끼의 페일리는 반링 호스트에 가장 최근에 합류한 영웅입니다. 그럼에도 불구하고 이 드루이드 소녀는 빠르게 동료들의 존중을 "
+"얻어냈습니다. 그녀의 확고한 관점은 종종 용병 대장 메이가르 반과 케팔 로렌투스의 끝없는 논쟁에 신성한 바람을 불어넣어 줍니다. 그녀의 "
+"자연을 다루는 힘을 축복이며, 반링 호스트가 야생을 지날 때면 특히 그렇습니다."
 
 #. Mechanics/Blueprints/Units/Pregens/VarnholdStart/VarnholdPregenDruidUnit_PregenName
 msgctxt "f35d4fa9-d42e-40b4-9b8d-630ddf12d466"
 msgid "Faeli"
-msgstr ""
+msgstr "페일리"
 
 #. Mechanics/Blueprints/Units/Pregens/VarnholdStart/VarnholdPregenDruidUnit_PregenRole
 msgctxt "1ac301ad-604f-40ec-b885-87262162dbf8"
 msgid "Support"
-msgstr ""
+msgstr "지원"
 
 #. Mechanics/Blueprints/Units/Pregens/VarnholdStart/VarnholdPregenFighterUnit_PregenClass
 msgctxt "d8adfefe-de5b-47e6-a19d-0a633ca14bd8"
 msgid "Fighter"
-msgstr ""
+msgstr "파이터"
 
 #. Mechanics/Blueprints/Units/Pregens/VarnholdStart/VarnholdPregenFighterUnit_PregenDescription
 msgctxt "bbe4bfbc-a2b6-493c-9ce7-a9b3540df1b6"
@@ -18705,21 +18707,25 @@ msgid ""
 "and ever ready to give a shoulder to her comrades. She's equally unmatched "
 "when it comes to revelry between the fights."
 msgstr ""
+"라다 테닝븐이 반링 호스트의 문간에 나타나 선언하기를, \"내가 주변 용병단을 다 살펴봤는데, 여기가 제일 낫겠다\"고 하였습니다. "
+"메이가르 반의 마음에 들었던게 그녀의 대담함인지 기술인지는 모르겠지만 어쨌든  그녀는 즉시 채용되었습니다. 라다는 도끼와 방패를 다루는 "
+"것에 있어서는 적수가 없으며, 언제나 동무들에게 어깨를 내어줄 준비가 되어있습니다. 게다가 싸움이 끝나고 흥청망청 즐기는 것에서도 적수가 "
+"없습니다."
 
 #. Mechanics/Blueprints/Units/Pregens/VarnholdStart/VarnholdPregenFighterUnit_PregenName
 msgctxt "ed08949a-4cbb-4cb9-83dd-4ef5eef4a0cc"
 msgid "Rada"
-msgstr ""
+msgstr "라다"
 
 #. Mechanics/Blueprints/Units/Pregens/VarnholdStart/VarnholdPregenFighterUnit_PregenRole
 msgctxt "4630fcef-7192-4a23-af14-6896d7950e22"
 msgid "Protector"
-msgstr ""
+msgstr "보호자"
 
 #. Mechanics/Blueprints/Units/Pregens/VarnholdStart/VarnholdPregenPaladinUnit_PregenClass
 msgctxt "f9c324bb-a905-41d8-86e3-8e460be23f99"
 msgid "Paladin"
-msgstr ""
+msgstr "팔라딘"
 
 #. Mechanics/Blueprints/Units/Pregens/VarnholdStart/VarnholdPregenPaladinUnit_PregenDescription
 msgctxt "48fa6176-75ca-4b98-9756-4588a726fff0"
@@ -18732,21 +18738,25 @@ msgid ""
 "become a significant member of the Varnling Host. His arrows strike his "
 "enemies with the wrath of the Stag God."
 msgstr ""
+"에라스틸의 팔라딘, 제너 알레비는 그의 신이 좋아하는 무기인 활에 통달했습니다. 제너는 메이가르 반과 어렸을 적부터 알고 지냈지만 제너가 "
+"신앙의 길을 택하면서 서로 다른 길을 걷게 되었습니다. 그들은 데몬을 숭배하는 마녀를 사냥하다가 다시 만나게 되었는데, 헤어진 후로 오랜 "
+"세월이 지난 뒤였습니다. 오랜 친구는 이후로는 헤어지지 않았습니다. 고결하고 신중한 제너는 반링 호스트의 주요 인물이 되었습니다. 그의 "
+"화살은 수사슴 신의 진노를 적들에게 때려박습니다."
 
 #. Mechanics/Blueprints/Units/Pregens/VarnholdStart/VarnholdPregenPaladinUnit_PregenName
 msgctxt "8fb1696c-4ff2-466e-927d-06346b252799"
 msgid "Genner"
-msgstr ""
+msgstr "제너"
 
 #. Mechanics/Blueprints/Units/Pregens/VarnholdStart/VarnholdPregenPaladinUnit_PregenRole
 msgctxt "e91108b4-9e0b-4113-9de5-5cd672eb3d92"
 msgid "Archer"
-msgstr ""
+msgstr "궁수"
 
 #. Mechanics/Blueprints/Units/Pregens/VarnholdStart/VarnholdSorcererPregenUnit_PregenClass
 msgctxt "dffd0abb-5c87-42f3-b130-cabcd7674279"
 msgid "Sorcerer"
-msgstr ""
+msgstr "소서러"
 
 #. Mechanics/Blueprints/Units/Pregens/VarnholdStart/VarnholdSorcererPregenUnit_PregenDescription
 msgctxt "c71a5ff9-f553-4831-b414-32f5d5050a6d"
@@ -18759,16 +18769,20 @@ msgid ""
 "of the most dangerous member of the Host. Velainah will stop at nothing to "
 "reach her goal."
 msgstr ""
+"벨라이나는 반링 호스트 서열 2위인 케팔 로렌투스의 견습생입니다. 일행이 도적에게서 이 소녀를 구해주고서, 케팔은 소녀가 강력한 "
+"소서리스가 될 수 있는 자질을 갖고 있음을 금새 알아차렸습니다. 케팔은 벨라이나가 그녀의 능력을 계발할 수 있도록 돕고 있습니다. 그녀의 "
+"주문은 적들에게 공포를 불러 일으키며, 힘들지만 효과적인 선택을 내리는 그녀의 능력은 반링 호스트에서 가장 위험한 존재라는 평판을 얻게 "
+"해주었습니다. 벨라이나는 목적을 이룰 때까지 절대 멈추지 않을 것입니다."
 
 #. Mechanics/Blueprints/Units/Pregens/VarnholdStart/VarnholdSorcererPregenUnit_PregenName
 msgctxt "f2b1d4cb-910d-4578-8020-8a94911ac877"
 msgid "Velainah"
-msgstr ""
+msgstr "벨라이나"
 
 #. Mechanics/Blueprints/Units/Pregens/VarnholdStart/VarnholdSorcererPregenUnit_PregenRole
 msgctxt "4d757214-62e2-43e0-ba3d-040ece533b89"
 msgid "Control"
-msgstr ""
+msgstr "통제"
 
 #. Mechanics/Blueprints/Units/Types/Boggard_Description
 msgctxt "0785c351-5e79-44b3-aacf-c9576a8b0980"
