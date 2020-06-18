@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-17 04:07+0900\n"
-"PO-Revision-Date: 2020-06-16 19:07+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2020-06-19 05:07+0000\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/feats/ko/>\n"
 "Language: ko\n"
@@ -15,7 +15,6 @@ msgstr ""
 "X-Generator: Weblate 3.3\n"
 
 #
-
 #. Mechanics/Blueprints/Feats/AbilityFocus_m_Description
 msgctxt "4e926302-ba33-47af-a3f9-8827ebaf62dd"
 msgid ""
@@ -394,15 +393,14 @@ msgid "Double Slice"
 msgstr "이중 베기"
 
 #. Mechanics/Blueprints/Feats/DreadfulCarnage_Description_String
-#, fuzzy
 msgctxt "0e3cd7a2-ace7-4b47-9cfc-db762bd5017f"
 msgid ""
 "Slaying an enemy demoralizes your other nearby foes.\n"
 "Benefit: Whenever you reduce an enemy to 0 or fewer hit points, you can make a Persuasion (to intimidate) check to demoralize all enemies within 30 feet as a free action. Enemies that cannot see both you and the enemy you reduced to 0 or fewer hit points are unaffected."
 msgstr ""
 "적을 처치하면 주변의 다른 적들의 사기를 꺾습니다.\n"
-"이점: 적의 생명점을 0 이하로 만들때 마다, 캐릭터는 주변 30 피트 내의 모든 적들의 사기를 꺾기 위해 자유행동으로 설득(협박) "
-"판정을 할 수 있습니다."
+"이점: 적의 생명점을 0 이하로 만들때 마다, 자유행동으로 설득(협박) 판정을 하여 주변 30 피트 내의 모든 적들의 사기를 꺾을 수 "
+"있습니다. 당신과 당신이 생명점을 0 이하로 만든 적을 둘 다 보지 못한 적에게는 효과가 없습니다."
 
 #. Mechanics/Blueprints/Feats/DreadfulCarnage_DisplayName_String
 msgctxt "6a9d1923-0bc1-42a1-b603-4259b12498da"
@@ -533,7 +531,7 @@ msgstr "추가 안수 치료"
 #. Mechanics/Blueprints/Feats/ExtraPerformance_m_Description
 msgctxt "57ca714c-1e75-4fa3-b55c-b571728449d7"
 msgid "You can use bardic performance for 6 additional rounds per day."
-msgstr "바드 공연을 하루에 6 라운드 더 사용할 수 있습니다"
+msgstr "바드 공연을 하루에 6 라운드 더 사용할 수 있습니다."
 
 #. Mechanics/Blueprints/Feats/ExtraPerformance_m_DisplayName
 msgctxt "1994757b-0133-4584-a40a-7cd175fb4f6a"
@@ -575,7 +573,7 @@ msgid ""
 "points of damage reduction."
 msgstr ""
 "무기 중점화로 선택한 무기로 인한 공격은 최대 10점의 피해 감소를 무시합니다.\n"
-"(역자 주: 버그로 작동 안합니다.)"
+"*역자 주: 버그로 작동 안합니다."
 
 #. Mechanics/Blueprints/Feats/GreaterPenetratingStrike_m_DisplayName
 msgctxt "ce2f98ac-5b36-44c6-b807-773144a79288"
@@ -661,8 +659,7 @@ msgctxt "467191e4-d193-424d-abeb-13f643e05512"
 msgid ""
 "You are considered to be armed even when unarmed — you can make unarmed "
 "attacks that deal 1d3 bludgeoning damage (if Medium; 1d2 if Small)."
-msgstr ""
-"비무장 상태여도 무장한 상태로 간주됩니다. 1d3의 부수기 피해를 가하는 비무장 공격을 할 수 있습니다. (소형일 경우 1d2)"
+msgstr "비무장 상태여도 무장한 상태로 간주됩니다. 1d3의 부수기 피해를 (소형일 경우 1d2) 가하는 비무장 공격을 할 수 있습니다."
 
 #. Mechanics/Blueprints/Feats/ImprovedUnarmedStrike_m_DisplayName
 msgctxt "2b9596a1-dad6-41d2-9cc7-3c74fae6bfbb"
@@ -765,8 +762,8 @@ msgid ""
 "that you take no damage, as if you had the Deflect Arrows feat. You must be "
 "aware of the attack and not flat-footed."
 msgstr ""
-"이 특기는 방패로 사용해야 합니다. 라운드 당 한 번 원거리 공격을 쳐내 피해를 받지 않을 수 있습니다. 주문 효과, 자연 공격, 대규모"
-" 원거리 공격은 쳐낼 수 없습니다. 반드시 그 공격을 인지해야 하며 무방비 상태에 놓여 있지 않아야 합니다. "
+"이 특기는 방패로 사용해야 합니다. 라운드 당 한 번 원거리 공격을 쳐내 피해를 받지 않을 수 있습니다. 주문 효과, 자연 공격, 대규모 "
+"원거리 공격은 쳐낼 수 없습니다. 반드시 그 공격을 인지해야 하며 무방비 상태에 놓여 있지 않아야 합니다."
 
 #. Mechanics/Blueprints/Feats/MissileShield_m_DisplayName
 msgctxt "e509dd3c-f2b0-41ff-bc4b-048131b2f5f2"
@@ -810,7 +807,7 @@ msgid ""
 "points of damage reduction."
 msgstr ""
 "무기 중점화로 선택한 무기로 인한 공격은 최대 5 점의 피해 감소를 무시합니다.\n"
-"(역자 주: 버그로 작동 안합니다.)"
+"*역자 주: 버그로 작동 안합니다."
 
 #. Mechanics/Blueprints/Feats/PenetratingStrike_m_DisplayName
 msgctxt "ea16eff1-f011-4b9a-ab59-fb8604800988"
@@ -1136,7 +1133,7 @@ msgctxt "016b59e1-8c65-4d31-8c77-662eaaf480bf"
 msgid ""
 "You gain a pair of wings that grant a +3 dodge bonus to AC against melee "
 "attacks and an immunity to ground based effects, such as difficult terrain."
-msgstr "한 쌍의 날개를 얻어 근접 공격에 대한 AC에 +3의 피하기 보너스를 얻고, 험지와 같은 지면 관련 효과에 면역이 됩니다"
+msgstr "한 쌍의 날개를 얻어 근접 공격에 대한 AC에 +3의 피하기 보너스를 얻고, 험지와 같은 지면 관련 효과에 면역이 됩니다."
 
 #. Mechanics/Blueprints/Feats/Wings_DisplayName_String
 msgctxt "94969211-1189-44ee-bc0c-dac7ef8b4d05"
@@ -1231,7 +1228,7 @@ msgstr "갑옷 중점화 (사슬조끼)"
 #. Mechanics/Blueprints/Feats/ArmorFocus/ArmorFocusFullplate_m_Description
 msgctxt "ef3206b0-0976-447e-8efd-df983f2e006d"
 msgid "The AC bonus granted by any full plate that you equip increases by 1."
-msgstr "자신이 장비한 전신 판금갑옷의 AC 보너스가 1 증가합니다"
+msgstr "자신이 장비한 전신 판금갑옷의 AC 보너스가 1 증가합니다."
 
 #. Mechanics/Blueprints/Feats/ArmorFocus/ArmorFocusFullplate_m_DisplayName
 msgctxt "2173e847-1bf8-4a58-ba0c-137bbfa2b16b"
@@ -1241,7 +1238,7 @@ msgstr "갑옷 중점화 (전신 판금갑옷)"
 #. Mechanics/Blueprints/Feats/ArmorFocus/ArmorFocusHalfplate_m_Description
 msgctxt "ebd54d4b-65f1-499d-ad07-ae4e75ddc73a"
 msgid "The AC bonus granted by any half-plate that you equip increases by 1."
-msgstr "자신이 장비한 반신 판금갑옷의 AC 보너스가 1 증가합니다"
+msgstr "자신이 장비한 반신 판금갑옷의 AC 보너스가 1 증가합니다."
 
 #. Mechanics/Blueprints/Feats/ArmorFocus/ArmorFocusHalfplate_m_DisplayName
 msgctxt "7a70bc70-dd8e-4d72-aadd-a6d0ac8b98fa"
@@ -1251,7 +1248,7 @@ msgstr "갑옷 중점화 (반신 판금갑옷)"
 #. Mechanics/Blueprints/Feats/ArmorFocus/ArmorFocusHeavy_m_Description
 msgctxt "1b1eef3e-5f1b-403b-82d2-72e55c99c3be"
 msgid "The AC bonus granted by any heavy armor that you equip increases by 1."
-msgstr "자신이 장비한 중장 갑옷의 AC 보너스가 1 증가합니다"
+msgstr "자신이 장비한 중장 갑옷의 AC 보너스가 1 증가합니다."
 
 #. Mechanics/Blueprints/Feats/ArmorFocus/ArmorFocusHeavy_m_DisplayName
 msgctxt "4bece008-7bc8-4664-a62b-d22180c6f56b"
@@ -1261,7 +1258,7 @@ msgstr "중장 갑옷 중점화"
 #. Mechanics/Blueprints/Feats/ArmorFocus/ArmorFocusHide_m_Description
 msgctxt "e96e16bd-6059-44cd-9e18-dc17f94130af"
 msgid "The AC bonus granted by any hide armor that you equip increases by 1."
-msgstr "자신이 장비한 털가죽 갑옷의 AC 보너스가 1 증가합니다"
+msgstr "자신이 장비한 털가죽 갑옷의 AC 보너스가 1 증가합니다."
 
 #. Mechanics/Blueprints/Feats/ArmorFocus/ArmorFocusHide_m_DisplayName
 msgctxt "f66a5e7e-f0a7-473b-bf7f-715bdd75f942"
@@ -1272,7 +1269,7 @@ msgstr "갑옷 중점화 (털가죽 갑옷)"
 msgctxt "552d796f-9fe2-4786-adc2-6bf5a0b7d880"
 msgid ""
 "The AC bonus granted by any leather armor that you equip increases by 1."
-msgstr "자신이 장비한 가죽 갑옷의 AC 보너스가 1 증가합니다"
+msgstr "자신이 장비한 가죽 갑옷의 AC 보너스가 1 증가합니다."
 
 #. Mechanics/Blueprints/Feats/ArmorFocus/ArmorFocusLeather_m_DisplayName
 msgctxt "285b6b69-364f-4dd2-897e-da3cb1d2eeb9"
@@ -1282,7 +1279,7 @@ msgstr "갑옷 중점화 (가죽 갑옷)"
 #. Mechanics/Blueprints/Feats/ArmorFocus/ArmorFocusLight_m_Description
 msgctxt "af0e3a4d-d311-48fd-b7a6-47439fb7afcf"
 msgid "The AC bonus granted by any light armor that you equip increases by 1."
-msgstr "자신이 장비한 경장 갑옷의 AC 보너스가 1 증가합니다"
+msgstr "자신이 장비한 경장 갑옷의 AC 보너스가 1 증가합니다."
 
 #. Mechanics/Blueprints/Feats/ArmorFocus/ArmorFocusLight_m_DisplayName
 msgctxt "fb12e2d2-78ca-413b-a481-50d8bd06f489"
@@ -1293,7 +1290,7 @@ msgstr "경장 갑옷 중점화"
 msgctxt "caa23bf7-a98a-44d7-9714-62b6ef6e4b89"
 msgid ""
 "The AC bonus granted by any medium armor that you equip increases by 1."
-msgstr "자신이 장비한 평장 갑옷의 AC 보너스가 1 증가합니다"
+msgstr "자신이 장비한 평장 갑옷의 AC 보너스가 1 증가합니다."
 
 #. Mechanics/Blueprints/Feats/ArmorFocus/ArmorFocusMedium_m_DisplayName
 msgctxt "8d802ecb-da1d-45b1-a8e1-7cecce1b35bc"
@@ -1304,7 +1301,7 @@ msgstr "경장 갑옷 중점화"
 msgctxt "fafebb1e-de72-4003-b4b7-6a9cfb1937e6"
 msgid ""
 "The AC bonus granted by any padded armor that you equip increases by 1."
-msgstr "자신이 장비한 누비 갑옷의 AC 보너스가 1 증가합니다"
+msgstr "자신이 장비한 누비 갑옷의 AC 보너스가 1 증가합니다."
 
 #. Mechanics/Blueprints/Feats/ArmorFocus/ArmorFocusPadded_m_DisplayName
 msgctxt "4158b97e-1665-4339-94c8-75a59a01e99e"
@@ -1314,7 +1311,7 @@ msgstr "갑옷 중점화 (누비 갑옷)"
 #. Mechanics/Blueprints/Feats/ArmorFocus/ArmorFocusScalemail_m_Description
 msgctxt "c30aa6ae-26ba-4815-8762-0dc9b80d5a4a"
 msgid "The AC bonus granted by any scale mail that you equip increases by 1."
-msgstr "자신이 장비한 미늘 갑옷의 AC 보너스가 1 증가합니다"
+msgstr "자신이 장비한 미늘 갑옷의 AC 보너스가 1 증가합니다."
 
 #. Mechanics/Blueprints/Feats/ArmorFocus/ArmorFocusScalemail_m_DisplayName
 msgctxt "e4add422-661d-40de-b7bf-7bdce4f40153"
@@ -1328,7 +1325,7 @@ msgid ""
 "Benefit(s): Select one type of armor. The AC bonus granted by the selected armor increases by 1."
 msgstr ""
 "특정 유형의 갑옷에 익숙하여 갑옷으로부터 더 많은 보호를 받습니다. \n"
-"이점: 선택한 종류의 갑옷의 AC 보너스가 1 증가합니다"
+"이점: 선택한 종류의 갑옷의 AC 보너스가 1 증가합니다."
 
 #. Mechanics/Blueprints/Feats/ArmorFocus/ArmorFocusSelection_m_DisplayName
 msgctxt "334bb55e-7ee7-4e66-a423-0255783b6b4c"
@@ -1339,7 +1336,7 @@ msgstr "갑옷 중점화"
 msgctxt "130ae03e-845c-48f2-884c-477301995b5f"
 msgid ""
 "The AC bonus granted by any studded leather that you equip increases by 1."
-msgstr "자신이 장비한 징 박힌 가죽 갑옷의 AC 보너스가 1 증가합니다"
+msgstr "자신이 장비한 징 박힌 가죽 갑옷의 AC 보너스가 1 증가합니다."
 
 #. Mechanics/Blueprints/Feats/ArmorFocus/ArmorFocusStudded_m_DisplayName
 msgctxt "d97e4324-6363-47cf-9d47-bd2e22b84815"
@@ -1504,7 +1501,7 @@ msgctxt "ea8be766-d944-4349-b51f-dca0558f8e58"
 msgid ""
 "You can choose to take a –2 penalty on melee attack rolls and combat "
 "maneuver checks to gain a +2 dodge bonus to your Armor Class."
-msgstr "근접 명중 굴림과 전법 판정에 -2 페널티를 받고 방어도에 +2 피하기 보너스를 얻을 수 있습니다. "
+msgstr "근접 명중 굴림과 전법 판정에 -2 페널티를 받고 방어도에 +2 피하기 보너스를 얻을 수 있습니다."
 
 #. Mechanics/Blueprints/Feats/CombatExpertise/CombatExpertiseToggleAbility_m_DisplayName
 msgctxt "fb05af95-62fa-40c1-8659-3d2107bcb8b9"
@@ -1571,8 +1568,9 @@ msgid ""
 "bonus to AC against melee attacks. If a melee attack misses you by 4 or "
 "less, you lose this dodge bonus until the beginning of your next turn."
 msgstr ""
-"한 손을 비우고 방어적 전투를 쓰면, 근접 공격에 대한 AC에 +4 피하기 보너스를 얻습니다. 빗나간 근접 공격의 명중 굴림과 방어도의 차이가 4 이하라면 다음 턴까지 두루미 날개의 피하기 보너스를 잃습니다.\n"
-"(역자 주: 버그가 있어서 손을 비우지 않고 무슨 무기를 어떻게 들든 다 적용됩니다.)"
+"한 손을 비우고 방어적 전투를 쓰면, 근접 공격에 대한 AC에 +4 피하기 보너스를 얻습니다. 빗나간 근접 공격의 명중 굴림과 방어도의 "
+"차이가 4 이하라면 다음 턴까지 두루미 날개의 피하기 보너스를 잃습니다.\n"
+"*역자 주: 버그가 있어서 손을 비우지 않고 무슨 무기를 어떻게 들든 다 적용됩니다."
 
 #. Mechanics/Blueprints/Feats/CraneStyle/CraneStyleWingFeat_m_DisplayName
 msgctxt "c60420cb-24c5-4ad0-a481-3164ff49842b"
@@ -2738,7 +2736,7 @@ msgstr ""
 "주문의 힘을 강화해서, 더 많은 피해를 입히도록 합니다.\n"
 "이점: 주문의 주사위 굴림과 보너스를 포함한 모든 가변수가 1.5배로 증가합니다.\n"
 "내성 굴림이나 서로 굴림에는 적용되지 않고, 무작위 변수가 없는 주문도 강화 효과를 받지 않습니다.\n"
-"레벨 증가: +2. 강화된 주문은 원래 주문의 레벨보다 2 단계 높은 주문 칸을 사용합니다."
+"레벨 증가: +2. (강화된 주문은 원래 주문의 레벨보다 2 단계 높은 주문 칸을 사용합니다.)"
 
 #. Mechanics/Blueprints/Feats/Metamagic/EmpowerSpellFeat_m_DisplayName
 msgctxt "9f5a8e34-61e6-4fb6-9248-47809736f4bc"
@@ -2753,8 +2751,9 @@ msgid ""
 "Level Increase: +1 (An extended spell uses up a spell slot one level higher than the spell's actual level.)"
 msgstr ""
 "주문을 두 배 오래가게 만들 수 있습니다.\n"
-"이점: 시간 연장 주문은 보통 주문보다 지속시간이 2 배입니다. 지속시간 동안 집중을 요하는 주문, 즉발 주문, 영구적인 주문은 이 특기의 영향을 받지 않습니다.\n"
-"레벨 증가: +1. 시간 연장 주문은 원래 주문의 레벨보다 1 단계 높은 주문 칸을 사용합니다."
+"이점: 시간 연장 주문은 보통 주문보다 지속시간이 2 배입니다. 지속시간 동안 집중을 요하는 주문, 즉발 주문, 영구적인 주문은 이 "
+"특기의 영향을 받지 않습니다.\n"
+"레벨 증가: +1. 시간 (연장 주문은 원래 주문의 레벨보다 1 단계 높은 주문 칸을 사용합니다.)"
 
 #. Mechanics/Blueprints/Feats/Metamagic/ExtendSpellFeat_m_DisplayName
 msgctxt "fa82412d-3b6a-4ea2-bb8b-862f1515ae6d"
@@ -3192,7 +3191,7 @@ msgstr "소형 연사 쇠뇌에 숙련이 되어 이를 무기로 사용할 수 
 #. Mechanics/Blueprints/Feats/Proficiencies/LightRepeatingCrossbowProficiency_m_DisplayName
 msgctxt "b4580b24-f0eb-4733-bdca-961c1ed6eeb2"
 msgid "Light Repeating Crossbow"
-msgstr "소형 연사 쇠뇌에 숙련이 되어 이를 무기로 사용할 수 있습니다."
+msgstr "소형 연사 쇠뇌"
 
 #. Mechanics/Blueprints/Feats/Proficiencies/LongbowProficiency_m_Description
 msgctxt "ad09d539-244e-4b91-ad47-b9d4a64c3764"
@@ -3424,8 +3423,8 @@ msgid ""
 "You get a +3 bonus on all checks involving Knowledge (Arcana). If you have "
 "10 or more ranks in Knowledge (Arcana), this bonus increases to +6."
 msgstr ""
-"지식 (비전) 기술과 관련된 모든 판정에 +3의 보너스를 얻습니다. 지식 (비전) 기술의 등급이 10 이상인 경우 이 보너스는 +6으로 "
-"증가합니"
+"지식 (비전) 기술과 관련된 모든 판정에 +3의 보너스를 얻습니다. 지식 (비전) 기술의 등급이 10 이상인 경우 이 보너스는 +6 으로 "
+"증가합니다."
 
 #. Mechanics/Blueprints/Feats/SkillFocus/SkillFocusKnowledgeArcana_m_DisplayName
 msgctxt "ae954828-df00-41d9-b010-b1dc1c66c59e"
@@ -3863,8 +3862,9 @@ msgid ""
 "whenever you score a critical hit against the flanked creature, it provokes "
 "an attack of opportunity from your ally."
 msgstr ""
-"당신과 이 특기를 가진 아군이 같은 적을 포위하고 있을 때, 명중 굴림에 대한 협공 보너스가 (기본 +2에서) +4로 증가합니다. 또한 포위된 적에게 치명타 적중 시 아군으로부터 기회 공격이 발생합니다.\n"
-"(역자 주: 원거리 공격은 협공 보너스는 받지 못하지만, 치명타 적중 시 아군의 기회 공격은 유발합니다.)"
+"당신과 이 특기를 가진 아군이 같은 적을 포위하고 있을 때, 명중 굴림에 대한 협공 보너스가 (기본 +2에서) +4로 증가합니다. 또한 "
+"포위된 적에게 치명타 적중 시 아군으로부터 기회 공격이 발생합니다.\n"
+"*역자 주: 원거리 공격은 협공 보너스는 받지 못하지만, 치명타 적중 시 아군의 기회 공격은 유발합니다."
 
 #. Mechanics/Blueprints/Feats/Teamwork/Outflank_m_DisplayName
 msgctxt "1be7bf72-2e09-4a37-ad8a-0091ca943dcd"
@@ -3895,7 +3895,7 @@ msgctxt "4b7c860f-fee4-4982-a071-c917f7a15a51"
 msgid ""
 "When you are adjacent to one or more allies who also have this feat, you "
 "gain a +1 bonus on saving throws per such ally (maximum +4)."
-msgstr " 이 특기가 있는 인접한 아군 마다 내성 굴림 보너스가 +1 증가합니다. (최대 +4)"
+msgstr "이 특기가 있는 인접한 아군 마다 내성 굴림 보너스가 +1 (최대 +4) 증가합니다."
 
 #. Mechanics/Blueprints/Feats/Teamwork/ShakeItOff_m_DisplayName
 msgctxt "67374e08-6214-474f-92d8-d2350809b6f8"
@@ -3964,7 +3964,7 @@ msgid ""
 "against that opponent."
 msgstr ""
 "아군과 당신이 위협하는 상대방에게 아군이 치명타를 확정한 경우 당신도 그 상대방에게 기회 공격을 가할 수 있다.\n"
-"(역자 주: 측면 포위와는 달리 원거리 치명타로는 기회 공격을 유발시킬 수 없습니다.)"
+"*역자 주: 측면 포위와는 달리 원거리 치명타로는 기회 공격을 유발시킬 수 없습니다."
 
 #. Mechanics/Blueprints/Feats/Teamwork/SiezeTheMoment_m_DisplayName
 msgctxt "13313a6a-2d4f-4223-a7ed-d567483fe161"
@@ -4167,7 +4167,7 @@ msgstr "대형 쇠뇌를 사용하는 모든 명중 굴림에 +1의 보너스를
 #. Mechanics/Blueprints/Feats/WeaponFocus/WeaponFocusHeavyCrossbow_m_DisplayName
 msgctxt "ff7c22e3-48ef-498b-aee9-b7a4203a7c17"
 msgid "Weapon Focus (Heavy Crossbow)"
-msgstr "대형 쇠뇌를 사용하는 모든 명중 굴림에 +1의 보너스를 얻습니다."
+msgstr "무기 중점화 (대형 쇠뇌)"
 
 #. Mechanics/Blueprints/Feats/WeaponFocus/WeaponFocusHeavyMace_Description_String
 msgctxt "ff4d2a75-2874-48db-8983-f20e316b57ee"
@@ -4318,7 +4318,7 @@ msgstr "무기 중점화 (단궁)"
 #. Mechanics/Blueprints/Feats/WeaponFocus/WeaponFocusShortsword_Description_String
 msgctxt "dbe76552-db91-411e-bd5a-a6d853ed9bd0"
 msgid "You gain a +1 bonus on all attack rolls you make using short swords."
-msgstr " 소검을 사용하는 모든 명중 굴림에 +1의 보너스를 얻습니다."
+msgstr "소검을 사용하는 모든 명중 굴림에 +1의 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/Feats/WeaponFocus/WeaponFocusShortsword_m_DisplayName
 msgctxt "ee7466dd-1c39-477e-b650-b3d31caaee80"
@@ -4467,7 +4467,7 @@ msgstr "상급 무기 중점화 (물기)"
 #. Mechanics/Blueprints/Feats/WeaponFocusGreater/WeaponFocusGreaterBomb_m_Description
 msgctxt "59afb239-554e-420c-bfdf-a58c25fa9741"
 msgid "You gain a +1 bonus on all attack rolls you make using Bombs."
-msgstr " 폭탄을 사용하는 모든 명중 굴림에 +1의 보너스를 얻습니다."
+msgstr "폭탄을 사용하는 모든 명중 굴림에 +1의 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/Feats/WeaponFocusGreater/WeaponFocusGreaterBomb_m_DisplayName
 msgctxt "40ce8f9d-0a93-4439-b36c-2faf6101ee93"
@@ -4938,7 +4938,7 @@ msgstr "중형 철퇴를 사용하는 모든 피해 굴림에 +2의 보너스를
 #. Mechanics/Blueprints/Feats/WeaponSpecialization/WeaponSpecializationHeavyMace_m_DisplayName
 msgctxt "fe23576f-8d42-4c56-820f-379f05692029"
 msgid "Weapon Specialization (Heavy Mace)"
-msgstr "중형 철퇴를 사용하는 모든 피해 굴림에 +2의 보너스를 얻습니다."
+msgstr "무기 전문화 (중형 철퇴)"
 
 #. Mechanics/Blueprints/Feats/WeaponSpecialization/WeaponSpecializationIncorporealTouch_Description_String
 msgctxt "4683f3a0-a4ac-4573-a3d8-d3eb02f5175f"
@@ -5178,7 +5178,7 @@ msgstr "무기 전문화"
 msgctxt "9e65e9bf-28f4-4c7b-a7ad-b752ae246385"
 msgid ""
 "You gain a +2 bonus on all damage rolls you make using large bastard swords."
-msgstr " 대형 바스타드 소드를 사용하는 모든 피해 굴림에 +2의 보너스를 받습니다."
+msgstr "대형 바스타드 소드를 사용하는 모든 피해 굴림에 +2의 보너스를 받습니다."
 
 #. Mechanics/Blueprints/Feats/WeaponSpecializationGreater/WeaponSpecializationGreaterBastardSwordOversized_m_DisplayName
 msgctxt "c76e0bd1-5f67-489c-81c9-c3cc118d8fb0"
