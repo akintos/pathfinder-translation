@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-18 13:07+0900\n"
-"PO-Revision-Date: 2020-06-18 04:07+0000\n"
+"PO-Revision-Date: 2020-06-19 05:07+0000\n"
 "Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/spells/ko/>\n"
@@ -15,7 +15,6 @@ msgstr ""
 "X-Generator: Weblate 3.3\n"
 
 #
-
 #. Mechanics/Blueprints/Spells/Atonement_Description_String
 msgctxt "87dcd31e-fda3-48dd-a77f-8e433c770556"
 msgid ""
@@ -1270,7 +1269,8 @@ msgid ""
 "Flare: This cantrip creates a burst of light. If you cause the light to burst in front of a single creature, that creature is dazzled for 1 minute unless it makes a successful Fortitude save. Sightless creatures, as well as creatures already dazzled, are not affected by flare."
 msgstr ""
 "이 주문은 섬광 주문처럼 기능하지만, 대상 지점으로부터 반경 10 피트의 폭발 범위 내 모든 크리처에게 영향을 미칩니다.\n"
-"이 캔트립은 섬광을 만듭니다. 캐릭터가 하나의 크리처의 눈 앞에서 빛을 터뜨리면, 대상은 인내 내성에 성공하지 않는 이상 1 분 동안 눈부심 상태가 됩니다. 시각이 없거나 이미 눈부심 상태인 크리처는 이 주문의 영향을 받지 않습니다.\n"
+"이 캔트립은 섬광을 만듭니다. 캐릭터가 하나의 크리처의 눈 앞에서 빛을 터뜨리면, 대상은 인내 내성에 성공하지 않는 이상 1 분 동안 "
+"눈부심 상태가 됩니다. 시각이 없거나 이미 눈부심 상태인 크리처는 이 주문의 영향을 받지 않습니다."
 
 #. Mechanics/Blueprints/Spells/Level1/FlareBurst_m_DisplayName
 msgctxt "1a994a95-d9a6-47d8-ae6e-6a9d14738b26"
@@ -1414,8 +1414,9 @@ msgid ""
 "An invisible but tangible field of force surrounds the subject of a mage armor spell, providing a +4 armor bonus to AC.[LONGSTART]\n"
 "Unlike mundane armor, mage armor entails no armor check penalty, arcane spell failure chance, or speed reduction. Since mage armor is made of force, incorporeal creatures can't bypass it the way they do normal armor.[LONGEND]"
 msgstr ""
-"보이지는 않지만 실체가 있는 역장에 둘러싸여 AC에 +4의 갑옷 보너스를 얻습니다.\n"
-"보통의 갑옷과 달리, 마법사의 갑옷은 방어구 판정 페널티나 비전 주문 실패율, 이동속도 감소가 없습니다. 마법사의 갑옷은 역장으로 이루어져 있기 때문에, 비실체 크리처들은 이를 일반 갑옷처럼 뚫을 수 없습니다."
+"보이지는 않지만 실체가 있는 역장에 둘러싸여 AC에 +4의 갑옷 보너스를 얻습니다.[LONGSTART]\n"
+"보통의 갑옷과 달리, 마법사의 갑옷은 방어구 판정 페널티나 비전 주문 실패율, 이동속도 감소가 없습니다. 마법사의 갑옷은 역장으로 "
+"이루어져 있기 때문에, 비실체 크리처들은 이를 일반 갑옷처럼 뚫을 수 없습니다.[LONGEND]"
 
 #. Mechanics/Blueprints/Spells/Level1/MageArmor_m_DisplayName
 msgctxt "19e00b82-6fb8-4907-ad51-f21f4ef0452e"
@@ -1437,8 +1438,8 @@ msgid ""
 "or arcane spell failure chance.[LONGEND]"
 msgstr ""
 "보이지 않는 역장의 방벽이 눈앞을 떠다니며 시전자를 보호합니다. 이 방벽은 매직 미사일 주문을 막으며, AC에 +4의 방패 보너스를 "
-"제공합니다. 이 보너스는 역장 효과이므로 비실체의 접촉 공격에도 적용됩니다. 이 방패는 방어구 판정 페널티나 비전 주문 실패율을 가지지 "
-"않습니다."
+"제공합니다.[LONGSTART] 이 보너스는 역장 효과이므로 비실체의 접촉 공격에도 적용됩니다. 이 방패는 방어구 판정 페널티나 비전 "
+"주문 실패율을 가지지 않습니다.[LONGEND]"
 
 #. Mechanics/Blueprints/Spells/Level1/MageShield_m_DisplayName
 msgctxt "d0c0da13-9798-4b7f-925f-90ac9a34e81a"
@@ -1452,7 +1453,7 @@ msgid ""
 "enhancement bonus on attack and damage rolls. The spell can affect a slam "
 "attack, fist, bite, or any other natural weapon."
 msgstr ""
-" 대상이 지닌 모든 자연 무기 및 비무장 타격의 명중/피해 굴림에 +1의 강화 보너스를 부여합니다. 이 효과는 후려치기, 주먹, 물기를 "
+"대상이 지닌 모든 자연 무기 및 비무장 타격의 명중/피해 굴림에 +1의 강화 보너스를 부여합니다. 이 효과는 후려치기, 주먹, 물기를 "
 "포함한 모든 종류의 자연 무기에 적용됩니다."
 
 #. Mechanics/Blueprints/Spells/Level1/MagicFang_DisplayName_String
@@ -1491,8 +1492,8 @@ msgid ""
 "locate the target)."
 msgstr ""
 "안개가 자욱한 증기가 당신 주변에 발생합니다. 증기는 움직이지 않습니다. 증기는 암흑 시야를 포함한 모든 시야가 5 피트 이상의 거리를 "
-"정확히 볼 수 없게 합니다. 5 피트 거리의 크리처는 은폐를 얻습니다. (공격이 20% 확률로 빗나갑니다.) 더 먼 거리의 크리처는 완전"
-" 은폐를 얻습니다. (공격이 50% 확률로 빗나가고, 공격자는 대상의 위치를 특정할 수 없습니다.)"
+"정확히 볼 수 없게 합니다. 5 피트 거리의 크리처는 은폐를 얻습니다. (공격이 20% 확률로 빗나갑니다.) 더 먼 거리의 크리처는 완전 "
+"은폐를 얻어서 공격이 50% 확률로 빗나가고, 공격자는 대상의 위치를 특정할 수 없습니다."
 
 #. Mechanics/Blueprints/Spells/Level1/ProtectionFromAlignment_Description_String
 msgctxt "b6ea9a69-117b-48ef-bfb0-f613c95742a8"
@@ -1682,12 +1683,12 @@ msgstr ""
 #. Mechanics/Blueprints/Spells/Level1/RemoveSicknessBuff_m_DisplayName
 msgctxt "bbe13133-5887-4ce1-81f7-6a9ccf31c028"
 msgid "Remove Sickness"
-msgstr "병증 제거"
+msgstr "고통 제거"
 
 #. Mechanics/Blueprints/Spells/Level1/RemoveSickness_DisplayName_String
 msgctxt "6718ea7a-560d-4fb7-89b6-691975607267"
 msgid "Remove Sickness"
-msgstr "병증 제거"
+msgstr "고통 제거"
 
 #. Mechanics/Blueprints/Spells/Level1/RemoveSickness_m_Description
 msgctxt "f51110df-10db-48c2-9171-4cad892b4185"
@@ -1712,14 +1713,14 @@ msgid ""
 "(maximum +5 deflection bonus at 18th level)."
 msgstr ""
 "이 주문은 대상 주위에 반짝이는 마법장을 만들어 공격을 굴절시켜 빗나가게 합니다. 이 주문은 AC에 +2의 굴절 보너스를 주고, 6 "
-"레벨마다 보너스를 +1합니다. (18 레벨에 최대 굴절 보너스 5 점)"
+"레벨마다 보너스를 +1 더합니다. 18 레벨에 최대 +5 굴절 보너스를 더합니다."
 
 #. Mechanics/Blueprints/Spells/Level1/ShockingGraspCast_m_Description
 msgctxt "b783e8b6-2b6d-4396-abb7-4250758df620"
 msgid ""
 "Your successful melee touch attack deals 1d6 points of electricity damage "
 "per caster level (maximum 5d6)."
-msgstr "근접 접촉 공격에 성공하면 시전자 레벨 당 1d6점의 전기 피해를 입힙니다. (최대 5d6)"
+msgstr "근접 접촉 공격에 성공하면 시전자 레벨 당 1d6점의 (최대 5d6) 전기 피해를 입힙니다."
 
 #. Mechanics/Blueprints/Spells/Level1/ShockingGraspCast_m_DisplayName
 msgctxt "cf547a90-6f7e-41b0-a91a-9b093907ab88"
@@ -1833,11 +1834,9 @@ msgid "Stunning Barrier"
 msgstr "기절의 장벽"
 
 #. Mechanics/Blueprints/Spells/Level1/StunningBarrier_LocalizedSavingThrow
-#, fuzzy
-#| msgid "Will negates (stun)"
 msgctxt "dac675fa-51f0-4bb6-bd6a-c4d967143f18"
 msgid "Will negates stun"
-msgstr "의지로 무효 (기절)"
+msgstr "의지로 무효 기절"
 
 #. Mechanics/Blueprints/Spells/Level1/StunningBarrier_m_Description
 msgctxt "f651a25b-b0c8-4a54-8eee-dfdb6b94ed92"
@@ -1924,7 +1923,7 @@ msgstr "지정 폭탄 혼합물"
 msgctxt "5decb72b-fb62-44a6-8380-14fb400dbee0"
 msgid ""
 "Fortitude halves dexterity penalty and negates the movement speed penalty."
-msgstr "인내로 민첩 페널티 절반, 이동속도 페널티 무효"
+msgstr "인내로 민첩 페널티 절반, 이동속도 페널티 무효."
 
 #. Mechanics/Blueprints/Spells/Level1/TouchOfGracelessnessCast_m_Description
 msgctxt "f38b4110-fcca-49c3-81ee-b86a0c719412"
@@ -2383,19 +2382,15 @@ msgid "Blindness"
 msgstr "실명"
 
 #. Mechanics/Blueprints/Spells/Level2/Blur_Description_String
-#, fuzzy
-#| msgid ""
-#| "The subject's outline appears blurred, shifting, and wavering. This distortion grants the subject concealment (20% miss chance).[LONGSTART]\n"
-#| "A see invisibility spell does not counteract the blur effect, but a true seeing spell does.\n"
-#| "Opponents that cannot see the subject ignore the spell's effect (though fighting an unseen opponent carries penalties of its own).[LONGEND]"
 msgctxt "f88e2406-2f47-4eb1-908c-680158d7adda"
 msgid ""
 "The subject's outline appears blurred, shifting, and wavering. This distortion grants the subject concealment (20% miss chance).\n"
 "A see invisibility spell does not counteract the blur effect, but a true seeing spell does.\n"
 "Opponents that cannot see the subject ignore the spell's effect (though fighting an unseen opponent carries penalties of its own)."
 msgstr ""
-"대상의 윤곽이 흐릿해지고, 끊임없이 요동치며 흔들립니다. 이러한 왜곡은 대상에게 은폐 (20% 빗나감 확률) 을 부여합니다.[LONGSTART] 투명화 탐지 주문은 흐릿한 형체 효과를 무효화하지 않지만, 진실의 시야 주문은 무효화합니다.\n"
-"주문 대상을 시각적으로 볼 수 없는 적은 이 효과에 영향받지 않습니다. (보지 못하는 것 자체에 대한 페널티는 정상적으로 적용됩니다.)[LONGEND]"
+"대상의 윤곽이 흐릿해지고, 끊임없이 요동치며 흔들립니다. 이러한 왜곡은 대상에게 은폐 (20% 빗나감 확률) 을 부여합니다.\n"
+"투명화 탐지 주문은 흐릿한 형체 효과를 무효화하지 않지만, 진실의 시야 주문은 무효화합니다.\n"
+"주문 대상을 시각적으로 볼 수 없는 적은 이 효과에 영향받지 않습니다. 보지 못하는 것 자체에 대한 페널티는 정상적으로 적용됩니다."
 
 #. Mechanics/Blueprints/Spells/Level2/Blur_DisplayName_String
 msgctxt "04360c1a-a19d-468e-89e5-e07b4a6c3ade"
@@ -2541,7 +2536,7 @@ msgstr ""
 #. Mechanics/Blueprints/Spells/Level2/CreatePit_LocalizedDuration_String
 msgctxt "fb690795-9d4e-423b-a81f-44f6e43a17b5"
 msgid "1 round + 1 round/level"
-msgstr ""
+msgstr "1 라운드 + 1 라운드/레벨"
 
 #. Mechanics/Blueprints/Spells/Level2/CreatePit_m_Description
 msgctxt "708d1fcc-ee64-4444-a3d8-ccf2b326e95c"
@@ -2550,11 +2545,20 @@ msgid ""
 "Any large or smaller creature standing in the area where you first conjured the pit must make a Reflex saving throw to jump to safety in the nearest open space. In addition, the edges of the pit are sloped, and any creature ending its turn on a square adjacent to the pit must make a Reflex saving throw with a +2 bonus to avoid falling into it. Creatures subjected to an effect intended to push them into the pit (such as bull rush) do not get a saving throw to avoid falling in if they are affected by the pushing effect.\n"
 "Creatures who fall into the pit take falling damage as normal (1d6 bludgeoning damage pet 10 feet). To climb the pit's coarse stone walls, a creature need a successful Athletics or Mobility skill check with a DC of 25. When the duration of the spell ends, creatures within the hole rise up with the bottom of the pit until they are standing on the surface over the course of a single round."
 msgstr ""
+"2 시전자 레벨 당 10 피트 깊이의 확장 차원의 구멍을 만듭니다. 구덩이는 다른 차원을 끌어다 만들어졌기 때문에, 무게도 없고 원래 그 "
+"자리에 있던 물질을 대체하지도 않습니다. 배의 갑판, 던전 바닥, 숲의 공터에도 쉽게 구덩이를 만들 수 있습니다.\n"
+"처음 구덩이를 생성한 지역에 서있던 모든 대형 크기 이하의 크리처는 반사 내성 굴림을 시도하여 가까운 평지로 뛸 수 있습니다. 또한 "
+"구덩이의 가장자리는 가파르기 때문에 구덩이에 근처에서 턴을 마친 모든 크리처는 +2 보너스를 받고 반사 내성을 굴려 구덩이로 떨어지는 "
+"것을 피해야 합니다. 구덩이로 떨어뜨리기 위한 (황소 돌진 같은) 효과의 영향을 받는 크리처는 밀쳐지는 효과의 영향을 받는 동안 떨어지는 "
+"것을 피하기 위한 내성 굴림을 할 수 없습니다.\n"
+"구덩이로 떨어진 크리처는 정상적인 피해를 (10 피트 당 1d6 부수기 피해) 받습니다. 구덩이의 거친 돌 벽을 오르려면 DC 25의 "
+"운동이나 기동성 기술 판정에 성공해야 합니다. 주문의 지속 시간이 끝나면, 구멍 안의 크리처가 서 있는 구덩이의 바닥이 지면까지 "
+"솟아오르는 데 한 라운드의 시간이 걸립니다."
 
 #. Mechanics/Blueprints/Spells/Level2/CreatePit_m_DisplayName
 msgctxt "48a20acd-06e1-4b85-8afe-e8dd2bca4f09"
 msgid "Create Pit"
-msgstr ""
+msgstr "구덩이 생성"
 
 #. Mechanics/Blueprints/Spells/Level2/CureModerateWoundsCast_DisplayName_String
 msgctxt "ba303b2c-e568-465c-aa26-64ae6dfbe9e2"
@@ -3130,7 +3134,7 @@ msgid ""
 msgstr ""
 "이 주문으로 보호받는 크리처는 원거리 무기에 대한 저항력을 얻습니다. 대상은 원거리 무기에 대해 피해 감소 10/마법을 "
 "얻습니다.[LONGSTART] 이 주문은 비슷한 피해 감소를 지닌 크리처에게 피해를 입힐 수 있는 능력은 부여하지 않습니다. "
-"[LONGEND]주문이 시전자 레벨당 10점 (최대 100점)의 피해를 막아내면, 효과는 사라집니다"
+"[LONGEND]주문이 시전자 레벨당 10점 (최대 100점)의 피해를 막아내면, 효과는 사라집니다."
 
 #. Mechanics/Blueprints/Spells/Level2/ProtectionFromChaosCommunal_m_Description
 msgctxt "84b67713-cdbb-4a0d-8b4a-179a2b0cbc3b"
@@ -3412,7 +3416,7 @@ msgstr "고통스러운 휘감기"
 #. Mechanics/Blueprints/Spells/Level2/SoundBurst_LocalizedSavingThrow
 msgctxt "80774247-350f-41f6-b23d-37a5c16257db"
 msgid "Fortitude negates stun"
-msgstr ""
+msgstr "인내 기절 무효"
 
 #. Mechanics/Blueprints/Spells/Level2/SoundBurst_m_Description
 msgctxt "208e7987-c5fb-40fe-bdb8-0fd4e458de61"
@@ -3689,11 +3693,16 @@ msgid ""
 "You hurl a fist-sized ball of force resembling a sphere of spikes to ram a designated creature. You must succeed on a ranged touch attack to strike your target. On a successful hit, you deal 1d6 points of force damage per two caster levels (maximum 5d6). For every 5 caster levels you possess beyond 5th, you gain an additional ball of force.\n"
 "A creature struck by any of these is subject to a bull rush attempt. The force has a Strength modifier equal to your Intelligence, Wisdom, or Charisma modifier (whichever is highest). The CMB for the force's bull rush uses your caster level as its base attack bonus, adding the force's Strength modifier and a +10 bonus for each additional blast that hits. If the bull rush succeeds, the force pushes the creature away from you in a straight line, and the creature must make a Reflex save or fall prone."
 msgstr ""
+"지정한 크리처에게 주먹 크기의 뾰족한 역장 구체를 만들어 던집니다. 대상을 타격하려면 원거리 접촉 공격에 성공해야 합니다. 명중시 시전자 "
+"레벨 2 마다 1d6 점의 (최대 5d6) 역장 피해를 입힙니다. 5 레벨 이후 시전자 레벨 5마다 역장 구체를 하나 더 얻습니다.\n"
+"이 구체에 맞은 크리처는 황소 돌진의 효과를 받습니다. 역장은 당신의 지능, 지혜, 매력 수정치 중 가장 높은 것을 힘 수정치로 "
+"사용합니다. 역장의 황소 돌진의 CMB는 시전자 레벨을 기본 공격 보너스로 사용합니다; 블래스트를 추가로 맞출 때마다 역장의 힘 수정치와 "
+"+10 보너스를 추가합니다. 황소 돌진이 성공하면, 역장은 크리처를 직선 방향으로 밀어내고, 크리처는 반사 내성에 실패하면 쓰러집니다."
 
 #. Mechanics/Blueprints/Spells/Level3/BatteringBlast_m_DisplayName
 msgctxt "e531ea34-18a3-4253-8576-7c3baff50b5c"
 msgid "Battering Blast"
-msgstr ""
+msgstr "역장 발사"
 
 #. Mechanics/Blueprints/Spells/Level3/BeastShapeI_DisplayName_String
 msgctxt "79b602bf-e1d9-4194-8efd-fad03d25dd4c"
@@ -4157,7 +4166,7 @@ msgstr ""
 "선페스트 효과: 1d4 건강 피해 및 피로\n"
 "낄낄 열병 효과: 1d6 지혜 피해\n"
 "뇌염: 1d4 지능 피해\n"
-"경련: 1d8 민첩 피해"
+"경련: 1d8 민첩 피해."
 
 #. Mechanics/Blueprints/Spells/Level3/Contagion_m_DisplayName
 msgctxt "f84de1ec-17bc-4f64-9f60-f5d444e25917"
@@ -4593,8 +4602,8 @@ msgid ""
 "per caster level (to a maximum of 12d6 at 12th level) to any undead "
 "creatures in the spell's area."
 msgstr ""
-"이 주문을 시전하면 주위의 땅에서 생명력을 끌어내 적에게 던집니다. 주문 범위 내 모든 언데드 크리처에게 시전자 레벨당 1d6점의 양의 "
-"에너지 피해를 입힙니다. (12 레벨에 최대 12d6) "
+"이 주문을 시전하면 주위의 땅에서 생명력을 끌어내 적에게 던집니다. 주문 범위 내 모든 언데드 크리처에게 시전자 레벨당 1d6점의 (12 "
+"레벨에 최대 12d6) 양에너지 피해를 입힙니다."
 
 #. Mechanics/Blueprints/Spells/Level3/LifeBlast_m_DisplayName
 msgctxt "aae66e11-1ee8-47ad-a2cb-47531b5b57ec"
@@ -4839,8 +4848,8 @@ msgid ""
 "on attack rolls, weapon damage rolls, saves, and skill checks, while each of"
 " your foes takes a –1 penalty on such rolls."
 msgstr ""
-"아군에게는 신의 은총을 내리고 적에게는 신의 눈총을 내립니다. 명중 굴림, 무기 ​​피해 굴림, 내성, 기술 판정에 아군은 +1 보너스를"
-" 받고, 적들은 -1 페널티를 받습니다."
+"아군에게는 신의 은총을 내리고 적에게는 신의 눈총을 내립니다. 명중 굴림, 무기 피해 굴림, 내성, 기술 판정에 아군은 +1 보너스를 "
+"받고, 적들은 -1 페널티를 받습니다."
 
 #. Mechanics/Blueprints/Spells/Level3/Prayer_m_DisplayName
 msgctxt "964951b1-ed67-47ba-8f3f-52004f34aa49"
@@ -4866,7 +4875,7 @@ msgstr "산성으로부터 보호"
 #. Mechanics/Blueprints/Spells/Level3/ProtectionFromArrowsCommunal_DisplayName_String
 msgctxt "ab103928-13ca-41cb-af46-77978615f371"
 msgid "Protection from Arrows, Communal"
-msgstr " 집단 화살로부터 보호"
+msgstr "집단 화살로부터 보호"
 
 #. Mechanics/Blueprints/Spells/Level3/ProtectionFromArrowsCommunal_m_Description
 msgctxt "41d6d611-16df-4708-bc49-a67352d3a624"
@@ -4879,7 +4888,7 @@ msgid ""
 msgstr ""
 "30피트 내의 아군은 원거리 무기에 대한 저항력을 얻습니다. 대상은 원거리 무기에 대해 피해 감소 10/마법을 "
 "얻습니다.[LONGSTART] 이 주문은 비슷한 피해 감소를 지닌 크리처에게 피해를 입힐 수 있는 능력은 부여하지 않습니다. "
-"[LONGEND]주문이 시전자 레벨당 10점 (최대 100점)의 피해를 막아내면, 효과는 사라집니다"
+"[LONGEND]주문이 시전자 레벨당 10점 (최대 100점)의 피해를 막아내면, 효과는 사라집니다."
 
 #. Mechanics/Blueprints/Spells/Level3/ProtectionFromCold_DisplayName_String
 msgctxt "139cbb5d-9548-4536-bfa9-57116b6883f1"
@@ -5301,11 +5310,20 @@ msgid ""
 "Any large or smaller creature standing in the area where you first conjured the pit must make a Reflex saving throw to jump to safety in the nearest open space. In addition, the edges of the pit are sloped, and any creature ending its turn on a square adjacent to the pit must make a Reflex saving throw with a +2 bonus to avoid falling into it. Creatures subjected to an effect intended to push them into the pit (such as bull rush) do not get a saving throw to avoid falling in if they are affected by the pushing effect.\n"
 "Creatures who fall into the pit take falling damage as normal (1d6 bludgeoning damage pet 10 feet), plus 2d6 points of piercing damage from spikes. To climb the pit's coarse stone walls, a creature need a successful Athletics or Mobility skill check with a DC of 25. When the duration of the spell ends, creatures within the hole rise up with the bottom of the pit until they are standing on the surface over the course of a single round."
 msgstr ""
+"시전자 레벨 2 마다 10 피트 깊이의 (최대 50 피트) 확장 차원의 구멍을 만듭니다. 구덩이의 바닥과 벽에는 위험하게 날카로운 가시가 "
+"늘어서 있습니다.\n"
+"처음 구덩이를 생성한 지역에 서있던 모든 대형 크기 이하의 크리처는 반사 내성 굴림을 시도하여 가까운 평지로 뛸 수 있습니다. 또한 "
+"구덩이의 가장자리는 가파르기 때문에 구덩이에 근처에서 턴을 마친 모든 크리처는 +2 보너스를 받고 반사 내성을 굴려 구덩이로 떨어지는 "
+"것을 피해야 합니다. 구덩이로 떨어뜨리기 위한 (황소 돌진 같은) 효과의 영향을 받는 크리처는 밀쳐지는 효과의 영향을 받는 동안 떨어지는 "
+"것을 피하기 위한 내성 굴림을 할 수 없습니다.\n"
+"구덩이로 떨어진 크리처는 정상적인 피해에 (10 피트 당 1d6 부수기 피해) 더해 가시에게 2d6 찌르기 피해를 받습니다. 구덩이의 "
+"거친 돌 벽을 오르려면 DC 25의 운동이나 기동성 기술 판정에 성공해야 합니다. 주문의 지속 시간이 끝나면, 구멍 안의 크리처가 서 "
+"있는 구덩이의 바닥이 지면까지 솟아오르는 데 한 라운드의 시간이 걸립니다."
 
 #. Mechanics/Blueprints/Spells/Level3/SpikedPit_m_DisplayName
 msgctxt "304ed0a2-04f7-470e-9861-7dcb5f32b1b3"
 msgid "Spiked Pit"
-msgstr ""
+msgstr "가시 구덩이"
 
 #. Mechanics/Blueprints/Spells/Level3/SpikeGrowthBuff_Description_String
 msgctxt "c2a42f9b-be60-4788-b628-8bd587eea41d"
@@ -5375,8 +5393,9 @@ msgid ""
 " poisoned by black adder venom; the DC in successive rounds of the poison is"
 " equal to the spell's DC."
 msgstr ""
-"목표물에 한 줄기 독을 뱉어냅니다. 원거리 접촉 공격에 명중한 대상은 1 라운드 동안 실명합니다. 또한 대상은 내성에 실패하면 검은 살무사 독에 중독됩니다; 독의 해독 DC는 주문의 DC와 같습니다.\n"
-"(역자 주: 버그인지 독이 1 라운드 밖에 안갑니다. 그래서 실제 효과는 실명 1라운드, 내성 실패시 건강 피해 1회 입니다.)"
+"목표물에 한 줄기 독을 뱉어냅니다. 원거리 접촉 공격에 명중한 대상은 1 라운드 동안 실명합니다. 또한 대상은 내성에 실패하면 검은 "
+"살무사 독에 중독됩니다; 독의 해독 DC는 주문의 DC와 같습니다.\n"
+"*역자 주: 버그인지 독이 1 라운드 밖에 안갑니다. 그래서 실제 효과는 실명 1라운드, 내성 실패시 건강 피해 1회 입니다."
 
 #. Mechanics/Blueprints/Spells/Level3/SpitVenom_m_DisplayName
 msgctxt "1c55f165-00a6-425b-b7a4-6ba6c393fd18"
@@ -5395,7 +5414,7 @@ msgid ""
 msgstr ""
 "악취나는 구름 주문은 구토나는 증기로 만든 안개의 구름을 만들어냅니다. 안개 안의 살아있는 크리처는 내성을 굴려 실패하면 구토 상태가 "
 "됩니다. 구토 상태는 범위에 남아있는 동안, 또는 범위를 벗어나고 1d4 라운드 동안 지속됩니다. 지속 라운드 굴림은 개체 별로 각각 "
-"굴립니다. 범위 안의 크리처는 매 라운드를 내성을 시도해야 합니다. 이것은 독 효과입니다"
+"굴립니다. 범위 안의 크리처는 매 라운드를 내성을 시도해야 합니다. 이것은 독 효과입니다."
 
 #. Mechanics/Blueprints/Spells/Level3/StinkingCloud_DisplayName_String
 msgctxt "4928b5dd-3058-4895-85d8-479f27aa24f3"
@@ -5411,7 +5430,7 @@ msgid ""
 "to the best of their ability."
 msgstr ""
 "이 주문은 다른 차원에서 왕도마뱀 한 마리나, 1d3 마리 늑대, 또는 1d4+1 마리 개를 소환합니다. 소환물은 시전자가 지정한 곳에 "
-"나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다"
+"나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level3/SummonMonsterIIIBase_DisplayName_String
 msgctxt "769e60f8-aca1-44c9-a812-06828117c68f"
@@ -5580,11 +5599,19 @@ msgid ""
 "Any large or smaller creature standing in the area where you first conjured the pit must make a Reflex saving throw to jump to safety in the nearest open space. In addition, the edges of the pit are sloped, and any creature ending its turn on a square adjacent to the pit must make a Reflex saving throw with a +2 bonus to avoid falling into it. Creatures subjected to an effect intended to push them into the pit (such as bull rush) do not get a saving throw to avoid falling in if they are affected by the pushing effect.\n"
 "Creatures who fall into the pit take falling damage as normal (1d6 bludgeoning damage pet 10 feet), plus 2d6 points of acid damage from per round spent in the pit. The walls of the pit are quite slippery: to climb them, a creature need a successful Athletics or Mobility skill check with a DC of 30. When the duration of the spell ends, creatures within the hole rise up with the bottom of the pit until they are standing on the surface over the course of a single round."
 msgstr ""
+"시전자 레벨 2 마다 10 피트 깊이의 (최대 100 피트) 확장 차원의 구멍을 만듭니다. 구덩이의 바닥에는 산성 웅덩이가 있습니다.\n"
+"처음 구덩이를 생성한 지역에 서있던 모든 대형 크기 이하의 크리처는 반사 내성 굴림을 시도하여 가까운 평지로 뛸 수 있습니다. 또한 "
+"구덩이의 가장자리는 가파르기 때문에 구덩이에 근처에서 턴을 마친 모든 크리처는 +2 보너스를 받고 반사 내성을 굴려 구덩이로 떨어지는 "
+"것을 피해야 합니다. 구덩이로 떨어뜨리기 위한 (황소 돌진 같은) 효과의 영향을 받는 크리처는 밀쳐지는 효과의 영향을 받는 동안 떨어지는 "
+"것을 피하기 위한 내성 굴림을 할 수 없습니다.\n"
+"구덩이로 떨어진 크리처는 정상적인 피해에 (10 피트 당 1d6 부수기 피해) 더해 구덩이 안에 있는 라운드 당 2d6 점의 산성 피해를 "
+"받습니다. 구덩이의 꽤 미끄러운 벽을 오르려면 DC 30의 운동이나 기동성 기술 판정에 성공해야 합니다. 주문의 지속 시간이 끝나면, "
+"구멍 안의 크리처가 서 있는 구덩이의 바닥이 지면까지 솟아오르는 데 한 라운드의 시간이 걸립니다."
 
 #. Mechanics/Blueprints/Spells/Level4/AcidPit_m_DisplayName
 msgctxt "f2860467-d509-4b6f-b0be-a444f2602f7f"
 msgid "Acid Pit"
-msgstr ""
+msgstr "산성 구덩이"
 
 #. Mechanics/Blueprints/Spells/Level4/AngelicAspectGreaterBuff_m_DisplayName
 msgctxt "6cc09048-4232-4133-9377-a5ad19691586"
@@ -5662,8 +5689,12 @@ msgid ""
 "When you cast this spell, you take on an aspect of a stag, including some of its physical characteristics. Your features become elongated and sinewy, and you grow a set of antlers you can use for defense. You gain a +2 dodge bonus to AC against attacks of opportunity, your base speed increases by 20 feet, you can move through any undergrowth (including magically manipulated undergrowth) at your normal speed, and can even make a 5-foot step within such terrain.\n"
 "Furthermore, when you are hit with an attack of opportunity, you can make a single attack with your antlers against the opponent that hit you as an immediate action. This attack uses your highest base attack bonus plus your Strength or Dexterity bonus (your choice) and deals 1d8 points of piercing damage (if you are Medium; 1d6 points of damage if Small) plus your Strength modifier on a successful hit. The antlers have a critical multiplier of 19–20/×2."
 msgstr ""
-"주문을 시전하면 수사슴의 형상 및 신체적 특징을 취합니다. 당신은 길어지고 근육이 붙으며, 방어에 쓸 수 있는 뿔이 자라납니다. 기회 공격에 대한 AC에 +2의 피하기 보너스를 얻고, 기본 속도가 20 피트 증가합니다. 마법적인 것을 포함한 어떤 덤불이든 정상적인 속도로 지나갈 수 있고, 그런 환경에서 5 피트 걸음 행동을 할 수 있습니다.[LONGSTART]\n"
-"또한, 적의 기회 공격을 맞으면 즉시 행동으로 한 번 뿔로 반격할 수 있습니다. 이 공격은 최대 기본 공격 보너스에 힘 또는 민첩 보너스(선택 사항)를 더한 것을 사용하고, 명중 시 1d8 점 (소형일 경우 1d6 점) +  힘 수정치만큼의 찌르기 피해를 입힙니다. 이 뿔의 치명타 배율은 19-20/×2입니다.[LONGEND]"
+"주문을 시전하면 수사슴의 형상 및 신체적 특징을 취합니다. 당신의 외모는 길쭉해지고 근육이 붙으며, 방어에 쓸 수 있는 뿔이 자라납니다. "
+"기회 공격에 대한 AC에 +2의 피하기 보너스를 얻고, 기본 속도가 20 피트 증가합니다. 마법적인 것을 포함한 어떤 덤불이든 정상적인 "
+"속도로 지나갈 수 있고, 그런 지형에서 5 피트 걸음 행동을 할 수 있습니다.\n"
+"또한, 적의 기회 공격을 맞으면 즉시 행동으로 한 번 뿔로 반격할 수 있습니다. 이 공격은 최대 기본 공격 보너스에 힘 또는 민첩 보너스("
+"선택 사항)를 더한 것을 사용하고, 명중 시 1d8 점 (소형일 경우 1d6 점) +  힘 수정치만큼의 찌르기 피해를 입힙니다. 이 뿔의 "
+"치명타 배율은 19-20/×2입니다."
 
 #. Mechanics/Blueprints/Spells/Level4/BeastShapeII_DisplayName_String
 msgctxt "301b21fe-a772-49b3-b519-13ed47e523d9"
@@ -5695,12 +5726,6 @@ msgid "Bestow Grace of the Champion"
 msgstr "투사의 은총 부여"
 
 #. Mechanics/Blueprints/Spells/Level4/BestowGraceOfTheChampion_Description_String
-#, fuzzy
-#| msgid ""
-#| "You channel the power of good and law into the target, temporarily giving it"
-#| " powers similar to those of a paladin. The target gains immunity to diseases"
-#| " and immunity to fear. It adds its Charisma bonus to all its saving throws. "
-#| "This spell has no effect if cast on a paladin."
 msgctxt "a259430d-6305-4223-816b-cca47b8a1d4e"
 msgid ""
 "You channel the power of good and law into the target, temporarily giving it"
@@ -5708,9 +5733,9 @@ msgid ""
 " and immunity to fear. It adds its Charisma bonus to all its saving throws. "
 "This spell has no effect if cast on a paladin. Target has to be lawful good."
 msgstr ""
-"선과 권능의 힘을 대상으로 보내 일시적으로 팔라딘과 비슷한 힘을 부여합니다. 목표는 질병에 대한 면역과 (현재 영향을 미치는 모든 질병을"
-" 억제) 두려움에 대한 면역을 (현재 영향을 미치는 공포 효과를 끝냄) 얻습니다. 모든 내성 굴림에 매력 보너스를 추가합니다. 이 주문은"
-" 팔라딘에게 시전해도 효과가 없습니다."
+"선과 권능의 힘을 대상으로 보내 일시적으로 팔라딘과 비슷한 힘을 부여합니다. 목표는 질병에 대한 면역과 (현재 영향을 미치는 모든 질병을 "
+"억제) 두려움에 대한 면역을 (현재 영향을 미치는 공포 효과를 끝냄) 얻습니다. 모든 내성 굴림에 매력 보너스를 추가합니다. 이 주문은 "
+"팔라딘에게 시전해도 효과가 없습니다. 대상의 선향이 질서 선이여야 합니다."
 
 #. Mechanics/Blueprints/Spells/Level4/BestowGraceOfTheChampion_m_DisplayName
 msgctxt "3d7fb9d8-850a-4337-aa55-71a92174dd29"
@@ -5788,7 +5813,7 @@ msgid ""
 "distraction ability."
 msgstr ""
 "당신을 공격하지 않는 말벌 떼를 소환합니다. 이 빽빽한 곤충떼는 원거리 공격에 부분 은폐를 줍니다. 근접 공격을 성공시킨 모든 크리처는 "
-"말벌떼에게  2d6 점의 피해를 받고 독이 걸리지만, 군체의 산만 능력에는 영향 받지 않습니다. "
+"말벌떼에게  2d6 점의 피해를 받고 독이 걸리지만, 군체의 산만 능력에는 영향 받지 않습니다."
 
 #. Mechanics/Blueprints/Spells/Level4/ChainsOfLight_m_Description
 msgctxt "c646d30f-13ac-4c32-baa9-955ba5e5364c"
@@ -5827,7 +5852,7 @@ msgstr ""
 #. Mechanics/Blueprints/Spells/Level4/ConfusionSpell_m_DisplayName
 msgctxt "b903db83-6eef-40ee-b331-aa9a51bf6eae"
 msgid "Confusion"
-msgstr "Confusion"
+msgstr "혼란"
 
 #. Mechanics/Blueprints/Spells/Level4/ControlledFireball_m_Description
 msgctxt "b0a722d8-6939-4dd6-9e6d-9f77f28da9eb"
@@ -6285,7 +6310,7 @@ msgid ""
 "combat maneuver checks made to grapple the target automatically fail."
 msgstr ""
 "이 주문은 당신이나 당신이 만진 크리처를 지속시간 동안 정상적으로 이동하게 만듭니다. 마비, 빽빽한 안개, 감속, 거미줄 같은 마법의 "
-"이동을 방해하는 효과를 무시합니다. 대상을 붙잡으려는 전법 판정은 자동으로 실패합니다. "
+"이동을 방해하는 효과를 무시합니다. 대상을 붙잡으려는 전법 판정은 자동으로 실패합니다."
 
 #. Mechanics/Blueprints/Spells/Level4/FreedomOfMovement_DisplayName_String
 msgctxt "be1261fb-36bd-4309-a190-a7fd2cd9d99f"
@@ -6306,7 +6331,7 @@ msgstr ""
 #. Mechanics/Blueprints/Spells/Level4/HolySword_m_DisplayName
 msgctxt "b0e7d333-bed0-41d1-92a3-b60c13486754"
 msgid "Holy Sword"
-msgstr "신성한 검"
+msgstr "성스러운 검"
 
 #. Mechanics/Blueprints/Spells/Level4/IceStormAreaBuff_m_Description
 msgctxt "5d8e9b81-d157-40ff-bba1-0ecec866b538"
@@ -6426,17 +6451,17 @@ msgid "Obsidian Flow"
 msgstr "흑요석 흐름"
 
 #. Mechanics/Blueprints/Spells/Level4/ObsidianFlow_m_Description
-#, fuzzy
-#| msgid ""
-#| "You convert a thin layer of the ground to molten glass that cools quickly. Creatures in the area take 1d6 points of fire damage per two caster levels (maximum of 10d6) and become entangled until they make a successful Strength or Mobility check (the DC equals the spell's saving throw DC). Any creature within the area that makes a successful Reflex save takes half damage and is not entangled.[LONGSTART]\n"
-#| "The ground is covered with slippery expanses and sharp shards of obsidian. The area of effect is difficult terrain and creatures inside this area take a –5 penalty on Mobility skill checks. A successful DC 15 Acrobatics check is required to charge across the area. A creature that falls prone in the area takes 1d6 points of damage from sharp obsidian.[LONGEND]"
 msgctxt "5867bf19-b2b3-48af-b2c3-2b8a2cca4aeb"
 msgid ""
 "You convert a thin layer of the ground to molten glass that cools quickly. Creatures in the area take 1d6 points of fire damage per two caster levels (maximum of 10d6) and become entangled until they make a successful Strength, Athletics or Mobility check (the DC equals the spell's saving throw DC). Any creature within the area that makes a successful Reflex save takes half damage and is not entangled.[LONGSTART]\n"
 "The ground is covered with slippery expanses and sharp shards of obsidian. The area of effect is difficult terrain and creatures inside this area take a –5 penalty on Mobility skill checks. A successful DC 15 Acrobatics check is required to charge across the area. A creature that falls prone in the area takes 1d6 points of damage from sharp obsidian.[LONGEND]"
 msgstr ""
-"지표를 빨리 냉각되는 녹은 유리로 변환합니다. 범위 내의 크리처는 시전자 레벨 2 당 1d6 점의 (최대 10d6) 화염 피해를 입고 힘 또는 기동성 판정에 (DC = 주문의 내성 굴림 DC) 성공할 때까지 속박됩니다. 반사 내성에 성공한 크리처는 피해를 입으며 속박되지 않습니다.[LONGSTART]\n"
-"지면은 미끄러운 면과 예리한 흑요석 조각으로 덮여 있습니다. 효과 지역은 험지이며 이 지역 안의 크리처는 기동성 기술 판정에서 -5 페널티를 받습니다. DC 15 재주넘기 판정에 성공해야 이 지역을 지나갈 수 있습니다. 이 지역에서 넘어지는 크리처는 날카로운 흑요석 때문에 1d6의 피해를 받습니다. [LONGEND]"
+"지표를 빨리 냉각되는 녹은 유리로 변환합니다. 범위 내의 크리처는 시전자 레벨 2 당 1d6 점의 (최대 10d6) 화염 피해를 입고 "
+"힘, 운동 또는 기동성 판정에 (DC = 주문의 내성 굴림 DC) 성공할 때까지 속박됩니다. 반사 내성에 성공한 크리처는 피해를 입으며 "
+"속박되지 않습니다.[LONGSTART]\n"
+"지면은 미끄러운 면과 예리한 흑요석 조각으로 덮여 있습니다. 효과 지역은 험지이며 이 지역 안의 크리처는 기동성 기술 판정에서 -5 "
+"페널티를 받습니다. DC 15 재주넘기 판정에 성공해야 이 지역을 지나갈 수 있습니다. 이 지역에서 넘어지는 크리처는 날카로운 흑요석 "
+"때문에 1d6의 피해를 받습니다. [LONGEND]"
 
 #. Mechanics/Blueprints/Spells/Level4/PhantasmalKiller_m_Description
 msgctxt "e587586c-ae15-4375-b813-620a04aa1845"
@@ -6472,14 +6497,14 @@ msgid ""
 "for that subject.[LONGEND]"
 msgstr ""
 "시전할 때 선택한 에너지 유형 하나에 (산성, 냉기, 전기, 화염, 음파) 일시적인 면역을 25 피트 반경의 아군 모두에게 부여합니다. "
-"이 주문의 효과는 시전자 레벨당 12점의 에너지 피해를 (10 레벨에 최대 120점) 흡수한 뒤에 사라집니다."
+"이 주문의 효과는 시전자 레벨당 12점의 에너지 피해를 (10 레벨에 최대 120점) 흡수한 뒤에 사라집니다.[LONGSTART] 대상에 "
+"걸린 주문이 시전자 레벨당 12점의 에너지 피해를 (10 레벨에 최대 120점) 흡수하면, 그 대상에 걸린 주문의 효과가 "
+"종료됩니다.[LONGEND]"
 
 #. Mechanics/Blueprints/Spells/Level4/ProtectionFromAcidCommunal_m_DisplayName
-#, fuzzy
-#| msgid "Protection From Acid"
 msgctxt "ae9ea6f1-e407-4e6f-bd5f-b68ef2852170"
 msgid "Protection From Acid, Communal"
-msgstr "산성으로부터 보호"
+msgstr "집단 산성으로부터 보호"
 
 #. Mechanics/Blueprints/Spells/Level4/ProtectionFromColdCommunal_m_Description
 msgctxt "3419f7eb-5049-4ecf-b899-85f020eb3a48"
@@ -6493,14 +6518,14 @@ msgid ""
 " for that subject.[LONGEND]"
 msgstr ""
 "시전할 때 선택한 에너지 유형 하나에 (산성, 냉기, 전기, 화염, 음파) 일시적인 면역을 25 피트 반경의 아군 모두에게 부여합니다. "
-"이 주문의 효과는 시전자 레벨당 12점의 에너지 피해를 (10 레벨에 최대 120점) 흡수한 뒤에 사라집니다."
+"이 주문의 효과는 시전자 레벨당 12점의 에너지 피해를 (10 레벨에 최대 120점) 흡수한 뒤에 사라집니다.[LONGSTART] 대상에 "
+"걸린 주문이 시전자 레벨당 12점의 에너지 피해를 (10 레벨에 최대 120점) 흡수하면, 그 대상에 걸린 주문의 효과가 "
+"종료됩니다.[LONGEND]"
 
 #. Mechanics/Blueprints/Spells/Level4/ProtectionFromColdCommunal_m_DisplayName
-#, fuzzy
-#| msgid "Protection From Cold"
 msgctxt "7bc14ba9-3b8a-49e9-aff0-5cb5a5da4d9f"
 msgid "Protection From Cold, Communal"
-msgstr "냉기로부터 보호"
+msgstr "집단 냉기로부터 보호"
 
 #. Mechanics/Blueprints/Spells/Level4/ProtectionFromElectricityCommunal_m_Description
 msgctxt "5e09703d-ed6f-4738-b0f4-637dd6e6ed5a"
@@ -6514,14 +6539,14 @@ msgid ""
 " for that subject.[LONGEND]"
 msgstr ""
 "시전할 때 선택한 에너지 유형 하나에 (산성, 냉기, 전기, 화염, 음파) 일시적인 면역을 25 피트 반경의 아군 모두에게 부여합니다. "
-"이 주문의 효과는 시전자 레벨당 12점의 에너지 피해를 (10 레벨에 최대 120점) 흡수한 뒤에 사라집니다."
+"이 주문의 효과는 시전자 레벨당 12점의 에너지 피해를 (10 레벨에 최대 120점) 흡수한 뒤에 사라집니다.[LONGSTART] 대상에 "
+"걸린 주문이 시전자 레벨당 12점의 에너지 피해를 (10 레벨에 최대 120점) 흡수하면, 그 대상에 걸린 주문의 효과가 "
+"종료됩니다.[LONGEND]"
 
 #. Mechanics/Blueprints/Spells/Level4/ProtectionFromElectricityCommunal_m_DisplayName
-#, fuzzy
-#| msgid "Protection From Electricity"
 msgctxt "dceffe12-8182-4a75-8ce6-165bca228ceb"
 msgid "Protection From Electricity, Communal"
-msgstr "전기로부터 보호"
+msgstr "집단 전기로부터 보호"
 
 #. Mechanics/Blueprints/Spells/Level4/ProtectionFromEnergyCommunal_m_Description
 msgctxt "5068e8f6-13c1-4471-9552-5bbabdc1ba7c"
@@ -6535,7 +6560,9 @@ msgid ""
 " for that subject.[LONGEND]"
 msgstr ""
 "시전할 때 선택한 에너지 유형 하나에 (산성, 냉기, 전기, 화염, 음파) 일시적인 면역을 25 피트 반경의 아군 모두에게 부여합니다. "
-"이 주문의 효과는 시전자 레벨당 12점의 에너지 피해를 (10 레벨에 최대 120점) 흡수한 뒤에 사라집니다."
+"이 주문의 효과는 시전자 레벨당 12점의 에너지 피해를 (10 레벨에 최대 120점) 흡수한 뒤에 사라집니다.[LONGSTART] 대상에 "
+"걸린 주문이 시전자 레벨당 12점의 에너지 피해를 (10 레벨에 최대 120점) 흡수하면, 그 대상에 걸린 주문의 효과가 "
+"종료됩니다.[LONGEND]"
 
 #. Mechanics/Blueprints/Spells/Level4/ProtectionFromEnergyCommunal_m_DisplayName
 msgctxt "260c4ad0-18c6-40bb-b7d9-a44c5d7290be"
@@ -6554,14 +6581,14 @@ msgid ""
 " for that subject.[LONGEND]"
 msgstr ""
 "시전할 때 선택한 에너지 유형 하나에 (산성, 냉기, 전기, 화염, 음파) 일시적인 면역을 25 피트 반경의 아군 모두에게 부여합니다. "
-"이 주문의 효과는 시전자 레벨당 12점의 에너지 피해를 (10 레벨에 최대 120점) 흡수한 뒤에 사라집니다."
+"이 주문의 효과는 시전자 레벨당 12점의 에너지 피해를 (10 레벨에 최대 120점) 흡수한 뒤에 사라집니다.[LONGSTART] 대상에 "
+"걸린 주문이 시전자 레벨당 12점의 에너지 피해를 (10 레벨에 최대 120점) 흡수하면, 그 대상에 걸린 주문의 효과가 "
+"종료됩니다.[LONGEND]"
 
 #. Mechanics/Blueprints/Spells/Level4/ProtectionFromFireCommunal_m_DisplayName
-#, fuzzy
-#| msgid "Protection From Fire"
 msgctxt "0ed4ed7c-b0df-4cb2-81b0-855ec23103e8"
 msgid "Protection From Fire, Communal"
-msgstr "화염으로부터 보호"
+msgstr "집단 화염으로부터 보호"
 
 #. Mechanics/Blueprints/Spells/Level4/ProtectionFromSonicCommunal_m_Description
 msgctxt "db3cd288-a586-4a51-af41-8109a91830f8"
@@ -6575,14 +6602,14 @@ msgid ""
 " for that subject.[LONGEND]"
 msgstr ""
 "시전할 때 선택한 에너지 유형 하나에 (산성, 냉기, 전기, 화염, 음파) 일시적인 면역을 25 피트 반경의 아군 모두에게 부여합니다. "
-"이 주문의 효과는 시전자 레벨당 12점의 에너지 피해를 (10 레벨에 최대 120점) 흡수한 뒤에 사라집니다."
+"이 주문의 효과는 시전자 레벨당 12점의 에너지 피해를 (10 레벨에 최대 120점) 흡수한 뒤에 사라집니다.[LONGSTART] 대상에 "
+"걸린 주문이 시전자 레벨당 12점의 에너지 피해를 (10 레벨에 최대 120점) 흡수하면, 그 대상에 걸린 주문의 효과가 "
+"종료됩니다.[LONGEND]"
 
 #. Mechanics/Blueprints/Spells/Level4/ProtectionFromSonicCommunal_m_DisplayName
-#, fuzzy
-#| msgid "Protection From Sonic"
 msgctxt "6c59ed31-d2f4-4612-af95-c075aea1e939"
 msgid "Protection From Sonic, Communal"
-msgstr "음파로부터 보호"
+msgstr "집단 음파로부터 보호"
 
 #. Mechanics/Blueprints/Spells/Level4/RainbowPattern_DisplayName_String
 msgctxt "8c247587-e393-4112-8345-0f0f871ded21"
@@ -6857,8 +6884,8 @@ msgid ""
 "designate and act according to their initiative check results. They attack "
 "your opponents to the best of their ability."
 msgstr ""
-"이 주문은 다른 차원에서 커다란 늑대 한 마리나 왕도마뱀 1d3 마리, 또는 늑대 1d4+1 마리를 소환합니다. 소환물은 시전자가 지정한"
-" 곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다"
+"이 주문은 다른 차원에서 커다란 늑대 한 마리나 왕도마뱀 1d3 마리, 또는 늑대 1d4+1 마리를 소환합니다. 소환물은 시전자가 지정한 "
+"곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level4/SummonMonsterIVBase_DisplayName_String
 msgctxt "d9970d25-8847-414a-b3cc-abe0d8c12911"
@@ -6873,7 +6900,7 @@ msgid ""
 "your opponents to the best of their ability."
 msgstr ""
 "이 주문은 다른 차원에서 왕도마뱀 1d3마리를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 "
-"행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다"
+"행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level4/SummonMonsterIVd3_DisplayName_String
 msgctxt "e95f3738-1765-4f4e-b780-43b2d712dd8d"
@@ -6969,7 +6996,7 @@ msgstr ""
 #. Mechanics/Blueprints/Spells/Level4/SummonNaturesAllyIV_m_DisplayName
 msgctxt "445f2384-9c34-4fbd-af37-ea8224c2ad64"
 msgid "Summon Nature's Ally IV"
-msgstr "자연의 동맹 소환 IV "
+msgstr "자연의 동맹 소환 IV"
 
 #. Mechanics/Blueprints/Spells/Level4/ThornBodyBuff_m_Description
 msgctxt "654a5cd8-76e6-4914-8e1b-7ec21da47323"
@@ -7235,9 +7262,9 @@ msgid ""
 " means that the creature is free of the spell, curse, or effect. Break "
 "enchantment only works on spells of 5th level or lower.[LONGEND]"
 msgstr ""
-"이 주문은 인챈트먼트, 트랜스뮤테이션 및 저주로부터 피해자를 해방시킵니다. 부여 파해는 즉발 효과까지도 되돌릴 수 있습니다. 해당하는 각"
-" 효과가 가진 11+ 시전자 레벨의 DC에 대해 시전자 레벨 판정(1d20 + 시전자 레벨, 최대 +15)을 실시합니다. 성공하면 그 "
-"인챈트먼트, 트랜스뮤테이션 및 저주 효과를 종료시킵니다."
+"이 주문은 인챈트먼트, 트랜스뮤테이션 및 저주로부터 피해자를 해방시킵니다.[LONGSTART] 부여 파해는 즉발 효과까지도 되돌릴 수 "
+"있습니다. 해당하는 각 효과가 가진 11+ 시전자 레벨의 DC에 대해 시전자 레벨 판정(1d20 + 시전자 레벨, 최대 +15)을 "
+"실시합니다. 성공하면 그 인챈트먼트, 트랜스뮤테이션 및 저주 효과를 종료시킵니다.[LONGEND]"
 
 #. Mechanics/Blueprints/Spells/Level5/BreakEnchantment_m_DisplayName
 msgctxt "a7427ace-9fbc-4e88-b234-a08ff1a96333"
@@ -7317,7 +7344,7 @@ msgid ""
 "You may call down a vertical bolt of lightning that deals 5d6 points of "
 "electricity damage. The bolt of lightning flashes down in a vertical stroke "
 "at whatever target point you choose within long range."
-msgstr "낙뢰를 내려 5d6 점의 전기 피해를 줍니다. 번개는 긴 거리 내의 지점에 수직으로 떨어집니다"
+msgstr "낙뢰를 내려 5d6 점의 전기 피해를 줍니다. 번개는 긴 사거리 내의 선택 지점에 번쩍이며 수직으로 내리 꽂힙니다."
 
 #. Mechanics/Blueprints/Spells/Level5/CallLightningStormAbility_m_DisplayName
 msgctxt "d2eab13d-ba79-43e9-a17e-c6184c2f17b1"
@@ -7520,8 +7547,8 @@ msgid ""
 "extending outward in a cone. It drains heat, dealing 1d6 points of cold "
 "damage per caster level (maximum 15d6)."
 msgstr ""
-"냉기의 원뿔은 손에서 원뿔 모양으로 뻗어나가는 극한 추위의 영역을 생성합니다. 시전자 레벨 당  1d6 점의 냉기 피해를 입힙니다. "
-"(최대 15d6)"
+"냉기의 원뿔은 손에서 원뿔 모양으로 뻗어나가는 극한 추위의 영역을 생성합니다. 시전자 레벨 당 1d6 점의 (최대 15d6) 냉기 피해를 "
+"입힙니다."
 
 #. Mechanics/Blueprints/Spells/Level5/ConeOfCold_DisplayName_String
 #. Mechanics/Blueprints/Spells/Level5/ConeOfCold_m_DisplayName
@@ -7731,7 +7758,7 @@ msgid ""
 "1d6 points of fire damage per caster level (maximum 15d6)."
 msgstr ""
 "당신은 50 피트 길이의 불길을 만듭니다. 불뱀은 아군을 피하면서 직선 상의 모든 적에게 영향을 미칩니다. 불뱀의 경로에 있는 크리처는 "
-"시전자 레벨 당 1d6 점의 화염 피해를 입습니다. (최대 15d6)"
+"시전자 레벨 당 1d6 점의 (최대 15d6) 화염 피해를 입습니다."
 
 #. Mechanics/Blueprints/Spells/Level5/FireSnake_DisplayName_String
 msgctxt "53c22321-0402-4732-b0f6-a892ebdf9e5c"
@@ -7916,11 +7943,21 @@ msgid ""
 "Any large or smaller creature standing in the area where you first conjured the pit must make a Reflex saving throw to jump to safety in the nearest open space. In addition, the edges of the pit are sloped, and any creature ending its turn on a square adjacent to the pit must make a Reflex saving throw with a +2 bonus to avoid falling into it. Creatures subjected to an effect intended to push them into the pit (such as bull rush) do not get a saving throw to avoid falling in if they are affected by the pushing effect.\n"
 "Creatures who fall into the pit take falling damage as normal (1d6 bludgeoning damage pet 10 feet). In addition, anyone within the pit takes 4d6 points of bludgeoning damage each round as the pit contracts and then returns to its normal size (a successful Reflex save halves this damage). The ever-shifting walls of the pit are quite difficult to scale: to climb them, a creature need a successful Athletics or Mobility skill check with a DC of 35. When the duration of the spell ends, creatures within the hole rise up with the bottom of the pit until they are standing on the surface over the course of a single round."
 msgstr ""
+"2 시전자 레벨 당 10 피트 깊이의 (최대 100 피트) 확장 차원의 구멍을 만듭니다. 구덩이는 안에 걸려든 모든 크리처를 분쇄하고 "
+"압착하는 능력을 가지고 있습니다.\n"
+"처음 구덩이를 생성한 지역에 서있던 모든 대형 크기 이하의 크리처는 반사 내성 굴림을 시도하여 가까운 평지로 뛸 수 있습니다. 또한 "
+"구덩이의 가장자리는 가파르기 때문에 구덩이에 근처에서 턴을 마친 모든 크리처는 +2 보너스를 받고 반사 내성을 굴려 구덩이로 떨어지는 "
+"것을 피해야 합니다. 구덩이로 떨어뜨리기 위한 (황소 돌진 같은) 효과의 영향을 받는 크리처는 밀쳐지는 효과의 영향을 받는 동안 떨어지는 "
+"것을 피하기 위한 내성 굴림을 할 수 없습니다.\n"
+"구덩이로 떨어진 크리처는 정상적인 피해를 (10 피트 당 1d6 부수기 피해) 받습니다. 그리고 구덩이가 수축했다가 본래 크기로 "
+"돌아오면서 안에 있는 누구나 매 라운드 4d6 점의 부수기 피해를 (반사 내성 성공시 절반) 받습니다. 구덩이의 계속해서 변화하는 벽은 "
+"상당히 오르기 힘들어서 오르려면 DC 35의 운동이나 기동성 기술 판정에 성공해야 합니다. 주문의 지속 시간이 끝나면, 구멍 안의 "
+"크리처가 서 있는 구덩이의 바닥이 지면까지 솟아오르는 데 한 라운드의 시간이 걸립니다."
 
 #. Mechanics/Blueprints/Spells/Level5/HungryPit_m_DisplayName
 msgctxt "d8183fe3-0f56-425f-928f-8811a6afc49a"
 msgid "Hungry Pit"
-msgstr ""
+msgstr "탐식의 구덩이"
 
 #. Mechanics/Blueprints/Spells/Level5/IcyPrisonEntangledBuff_m_DisplayName
 msgctxt "90f0af76-999c-4893-9ded-97d7c79fa33f"
@@ -7972,14 +8009,6 @@ msgid "Mind Fog"
 msgstr "마음 안개"
 
 #. Mechanics/Blueprints/Spells/Level5/MindFog_Description_String
-#, fuzzy
-#| msgid ""
-#| "Mind fog produces a bank of thin mist that weakens the mental resistance of "
-#| "those caught in it. Creatures in the mind fog take a –10 penalty on Wisdom "
-#| "checks and Will saves. A creature that successfully saves against the fog is"
-#| " not affected and need not make further saves even if it remains in the fog."
-#| " Affected creatures take the penalty as long as they remain in the fog and "
-#| "for 2d6 rounds thereafter. The fog is stationary and lasts for 30 minutes."
 msgctxt "5fe23247-3fe7-4499-83b9-8a9b0f3443a6"
 msgid ""
 "Mind fog produces a bank of thin mist that weakens the mental resistance of "
@@ -7989,9 +8018,9 @@ msgid ""
 " Affected creatures take the penalty as long as they remain in the fog and "
 "for 2d6 rounds thereafter."
 msgstr ""
-"이 주문은 범위 내 크리처의 정신 저항력을 약화시키는 엷은 안개가 솟아 나게합니다. 마음 안개 속의 크리처는 지혜 판정과 의지 굴림에 "
-"-10 페널티를 받습니다. 영향을 받은 크리처는 안개 속에 남아 있는 한 계속, 벗어나도 2d6 라운드 동안 페널티를 받습니다. 안개는 "
-"고정되어 있으며 30 분 동안 지속됩니다."
+"이 주문은 범위 내 크리처의 정신 저항력을 약화시키는 엷은 안개가 솟아 나게 합니다. 마음 안개 속의 크리처는 지혜 판정과 의지 굴림에 -"
+"10 페널티를 받습니다. 내성에 성공한 크리처는 영향 받지 않으며, 안개 속에 남아 있더라도 더 이상 내성을 굴리지 않습니다. 영향을 "
+"받은 크리처는 안개 속에 남아 있는 한 계속, 벗어나도 2d6 라운드 동안 페널티를 받습니다."
 
 #. Mechanics/Blueprints/Spells/Level5/MindFog_DisplayName_String
 msgctxt "16da2910-af9d-41f9-b293-f9e259494603"
@@ -8182,7 +8211,7 @@ msgctxt "b21d4c75-627c-4916-99d3-0ac6e863f0c8"
 msgid ""
 "You are surrounded by a nimbus of shadow shaped like your god's unholy "
 "symbol or a symbol of your faith."
-msgstr "당신의 신의 부정한 "
+msgstr "당신의 신, 또는 믿음의 부정한 상징의 형상을 한 그림자의 기운이 당신을 둘러쌉니다."
 
 #. Mechanics/Blueprints/Spells/Level5/ProfaneNimbus_Description_String
 msgctxt "9823fc00-ff8a-4ded-92fd-e6b6a8e06f66"
@@ -8595,7 +8624,7 @@ msgid ""
 msgstr ""
 "이 주문은 다른 차원에서 커다란 늑대 1d3 마리나 왕도마뱀 1d4+1 마리, 또는 악 성향이면 레드캡, 아니라면 브라러니 아자타를 "
 "소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 "
-"공격합니다"
+"공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level5/SummonMonsterVBase_DisplayName_String
 msgctxt "9dbe6812-449c-4f67-a27a-49af7d60e912"
@@ -8625,7 +8654,7 @@ msgid ""
 "your opponents to the best of their ability."
 msgstr ""
 "이 주문은 다른 차원에서 왕도마뱀 1d4+1 마리를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 "
-"행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다"
+"행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level5/SummonMonsterVd4plus1_DisplayName_String
 msgctxt "595e9532-7495-4801-834a-a04796e51d91"
@@ -8898,8 +8927,10 @@ msgid ""
 "You become a Large wyvern. You gain a +4 size bonus to your Strength, a –2 penalty to your Dexterity, and a +4 natural armor bonus. Your movement speed is reduced by 10 feet. You also have one 2d6 bite attack, two 1d6 talon attacks, 1d6 sting attack plus poison.\n"
 "Wyvern Poison: Sting — injury; Fortitude save (DC 17); frequency: 1/round for 6 rounds; effect: 1d4 Constitution damage; cure: 2 consecutive saves."
 msgstr ""
-"와이번 형태로 변신합니다. 힘에 +4 크기 보너스, 민첩에 -2 페널티와 +4 자연 방어 보너스를 얻습니다. 이동속도가 10 피트 감소합니다. 추가로 2d6 물기 공격 한 번, 1d6 맹금 발톱 공격 두 번, 독을 동반한 1d6 쏘기 공격을 얻습니다.\n"
-"와이번 독: 쏘기 - 부상; 상처; 인내 내성 (DC 17); 빈도: 매 1 라운드 / 6 라운드 동안; 효과: 1d4 건강 피해; 치료: 내성 2회 연속 성공"
+"와이번 형태로 변신합니다. 힘에 +4 크기 보너스, 민첩에 -2 페널티와 +4 자연 방어 보너스를 얻습니다. 이동속도가 10 피트 "
+"감소합니다. 추가로 2d6 물기 공격 한 번, 1d6 맹금 발톱 공격 두 번, 독을 동반한 1d6 쏘기 공격을 얻습니다.\n"
+"와이번 독: 쏘기 - 부상; 상처; 인내 내성 (DC 17); 빈도: 매 1 라운드 / 6 라운드 동안; 효과: 1d4 건강 피해; 치료:"
+" 내성 2회 연속 성공."
 
 #. Mechanics/Blueprints/Spells/Level6/BladeBarrier_m_Description
 msgctxt "dda2b1e9-769d-45bb-beb1-c4e4c88ec996"
@@ -9051,7 +9082,7 @@ msgid ""
 "You are surrounded by a soporific aroma that causes living creatures that "
 "begin their turn or end their movement within 5 feet of you to fall asleep "
 "for 1 minute."
-msgstr "살아있는 크리처가 당신의 5 피트 이내에서 턴을 시작하거나 이동을 끝내면 1분 동안 잠들게 하는 최면의 향기를 두릅니다. "
+msgstr "살아있는 크리처가 당신의 5 피트 이내에서 턴을 시작하거나 이동을 끝내면 1분 동안 잠들게 하는 최면의 향기를 두릅니다."
 
 #. Mechanics/Blueprints/Spells/Level6/CloakofDreamsBuff_m_DisplayName
 msgctxt "1563d96c-f104-4fb2-b44b-c830977e2a35"
@@ -9098,7 +9129,7 @@ msgid ""
 "You create a shredding flurry of ice slivers, which blast from your hand in "
 "a line. The line deals 1d6 points of cold damage per caster level (maximum "
 "15d6)."
-msgstr "손에서 얼음 조각의 돌풍을 만들어 직선으로 뿜어냅니다. 시전자 레벨 당 1d6의 피해를 입힙니다. (최대 15d6)"
+msgstr "손에서 얼음 조각의 돌풍을 만들어 직선으로 뿜어냅니다. 시전자 레벨 당 1d6의 (최대 15d6) 피해를 입힙니다."
 
 #. Mechanics/Blueprints/Spells/Level6/ColdIceStrike_m_DisplayName
 msgctxt "afad1fd3-bf65-47e1-9b15-5d7e81f5e9ac"
@@ -9228,27 +9259,27 @@ msgstr "집단 독수리의 광휘"
 #. Mechanics/Blueprints/Spells/Level6/ElementalAssessorAcidBuff_m_Description
 msgctxt "3146f3b2-7d48-4abf-9b9f-5ba5e15520db"
 msgid "Deals 4d6 points of acid damage per round for 1d4 rounds."
-msgstr "1d4 라운드 동안 매 라운드 4d6 점의 산성 피해"
+msgstr "1d4 라운드 동안 매 라운드 4d6 점의 산성 피해를 입힙니다."
 
 #. Mechanics/Blueprints/Spells/Level6/ElementalAssessorColdBuff_m_Description
 msgctxt "1be4d5f6-3dd4-429a-8632-59b882664792"
 msgid "Deals 4d6 points of cold damage per round for 1d4 rounds."
-msgstr "1d4 라운드 동안 매 라운드 4d6 점의 냉기 피해"
+msgstr "1d4 라운드 동안 매 라운드 4d6 점의 냉기 피해를 입힙니다."
 
 #. Mechanics/Blueprints/Spells/Level6/ElementalAssessorElectricityBuff_m_Description
 msgctxt "ef3d0b8b-9202-4a5f-ab4c-cb6d412a0af8"
 msgid "Deals 4d6 points of electricity damage per round for 1d4 rounds."
-msgstr "1d4 라운드 동안 매 라운드 4d6 점의 전기 피해"
+msgstr "1d4 라운드 동안 매 라운드 4d6 점의 전기 피해를 입힙니다."
 
 #. Mechanics/Blueprints/Spells/Level6/ElementalAssessorFireBuff_m_Description
 msgctxt "57c53990-b0da-4a35-9acd-b0ccf5b4c425"
 msgid "Deals 4d6 points of the damage type per round for 1d4 rounds."
-msgstr "1d4 라운드 동안 매 라운드 4d6 점의 특정 유형 피해"
+msgstr "1d4 라운드 동안 매 라운드 4d6 점의 특정 유형 피해를 입힙니다."
 
 #. Mechanics/Blueprints/Spells/Level6/ElementalAssessorFireBuff_m_Description_1
 msgctxt "80f40474-aff2-4e6c-9ce8-32636b81b8e3"
 msgid "Deals 4d6 points of fire damage per round for 1d4 rounds."
-msgstr "1d4 라운드 동안 매 라운드 4d6 점의 화염 피해"
+msgstr "1d4 라운드 동안 매 라운드 4d6 점의 화염 피해를 입힙니다."
 
 #. Mechanics/Blueprints/Spells/Level6/ElementalAssessor_DisplayName_String
 msgctxt "be8a2d3e-4015-4dac-9117-667ef4115eb2"
@@ -9331,8 +9362,9 @@ msgstr ""
 "효과는 누적되고 동시에 발생합니다.\n"
 "[LONGSTART]\n"
 "고통: 급한 통증과 발열이 대상의 몸을 휩씁니다. 이 주문에 걸린 크리처는 시전자 레벨 당 10 분 동안 고통받습니다.\n"
-"공황: 1d4 라운드 동안 대상이 공황에 빠집니다. 공황이 끝난 후에도 크리처는 시전자 레벨 당 10 분 동안 동요합니다. 이는 공포 효과입니다. \n"
-"혼수 상태: 대상은 시전자 레벨 당 10 분 동안 긴장성 혼수 상태에 빠집니다.\n"
+"공황: 1d4 라운드 동안 대상이 공황에 빠집니다. 공황이 끝난 후에도 크리처는 시전자 레벨 당 10 분 동안 동요합니다. 이는 공포 "
+"효과입니다. \n"
+"혼수 상태: 대상은 시전자 레벨 당 10 분 동안 긴장성 혼수 상태에 빠집니다.[LONGEND]\n"
 "첫 번째 대상을 지정한 이후, 매 라운드 신속 행동으로 대상을 지정해야 합니다."
 
 #. Mechanics/Blueprints/Spells/Level6/EyebiteAbility_m_DisplayName
@@ -9351,14 +9383,6 @@ msgid "Panicked"
 msgstr "공황"
 
 #. Mechanics/Blueprints/Spells/Level6/Eyebite_Description_String
-#, fuzzy
-#| msgid ""
-#| "Each round, you can target a single living creature, striking it with waves of power. Depending on the target's HD, this attack has as many as three effects:\n"
-#| "If the target's HD is 10 or more, it is sickened.\n"
-#| "If the target's HD is 5–9, it is frightened and sickened.\n"
-#| "If the target's HD is 4 or less, it is paralyzed, frightened, and sickened\n"
-#| "The effects are cumulative and concurrent.\n"
-#| "You must spend a swift action each round after the first to target a foe."
 msgctxt "dda493de-43fe-4882-9e1b-6b390f8eafa8"
 msgid ""
 "Each round, you can target a single living creature, striking it with waves of power. Depending on the target's HD, this attack has as many as three effects:\n"
@@ -9369,10 +9393,10 @@ msgid ""
 "You must spend a swift action each round after the first to target a foe."
 msgstr ""
 "매 라운드 하나의 살아있는 크리처를 힘의 파동으로 타격할 수 있습니다. 이 공격에는 대상의 HD에 따라 최대 세 가지 효과가 있습니다.\n"
-"대상의 HD가 10 이상이면 고통받습니다.\n"
-"대상의 HD가 5 - 9 면 겁에 질립니다.\n"
-"대상의 HD가 4 이하이면 마비되고, 겁에 질리며, 고통받습니다.\n"
-"효과는 누적되고 동시에 발생합니다.\n"
+"대상의 HD가 10 이상이면 시전자 레벨 당 10분 동안 고통 받습니다.\n"
+"대상의 HD가 5 - 9 면 시전자 레벨 당 10분 동안 고통받습니다. 겁에 질리고, 고통 받습니다.\n"
+"대상의 HD가 4 이하이면 마비되고, 겁에 질리며, 고통 받습니다.\n"
+"각 효과들은 시전자 레벨 당 10분 동안 누적되어 한꺼번에 지속됩니다.\n"
 "첫 번째 대상을 지정한 이후, 매 라운드 신속 행동으로 대상을 지정해야 합니다."
 
 #. Mechanics/Blueprints/Spells/Level6/Eyebite_DisplayName_String
@@ -9418,7 +9442,7 @@ msgid ""
 msgstr ""
 "드래곤붙이의 모습이 되었습니다. 힘에 +4의 크기 보너스, 건강에 +2 크기 보너스, 자연 방어 +4 보너스, 험지 효과 면역, 숨결 "
 "무기 및 산성 저항 20을 얻습니다. 이동속도가 10 피트 증가합니다. 또한 한 번의 물기(1d8), 두 번의 발톱(1d6), 두 번의 "
-"날개(1d4) 공격을 얻습니다. 이 주문으로 오직 한 번만 숨결 무기를 사용할 수 있습니다. "
+"날개(1d4) 공격을 얻습니다. 이 주문으로 오직 한 번만 숨결 무기를 사용할 수 있습니다."
 
 #. Mechanics/Blueprints/Spells/Level6/FormOfTheDragonIBlack_Description_String
 msgctxt "28315f7b-039c-4417-8f04-6d6259924a30"
@@ -9453,7 +9477,7 @@ msgid ""
 msgstr ""
 "드래곤붙이의 모습이 되었습니다. 힘에 +4의 크기 보너스, 건강에 +2 크기 보너스, 자연 방어 +4 보너스, 험지 효과 면역, 숨결 "
 "무기 및 전기 저항 20을 얻습니다. 이동속도가 10 피트 증가합니다. 또한 한 번의 물기(1d8), 두 번의 발톱(1d6), 두 번의 "
-"날개(1d4) 공격을 얻습니다. 이 주문으로 오직 한 번만 숨결 무기를 사용할 수 있습니다. "
+"날개(1d4) 공격을 얻습니다. 이 주문으로 오직 한 번만 숨결 무기를 사용할 수 있습니다."
 
 #. Mechanics/Blueprints/Spells/Level6/FormOfTheDragonIBlue_Description_String
 msgctxt "88e6a082-23da-455d-9ee6-f1d47308efe4"
@@ -9552,7 +9576,7 @@ msgid ""
 msgstr ""
 "드래곤붙이의 모습이 되었습니다. 힘에 +4의 크기 보너스, 건강에 +2 크기 보너스, 자연 방어 +4 보너스, 험지 효과 면역, 숨결 "
 "무기 및 화염 저항 20을 얻습니다. 이동속도가 10 피트 증가합니다. 또한 한 번의 물기(1d8), 두 번의 발톱(1d6), 두 번의 "
-"날개(1d4) 공격을 얻습니다. 이 주문으로 오직 한 번만 숨결 무기를 사용할 수 있습니다. "
+"날개(1d4) 공격을 얻습니다. 이 주문으로 오직 한 번만 숨결 무기를 사용할 수 있습니다."
 
 #. Mechanics/Blueprints/Spells/Level6/FormOfTheDragonIRed_Description_String
 msgctxt "1db62b76-0541-4fc5-956e-781689ea9051"
@@ -9592,7 +9616,7 @@ msgid ""
 msgstr ""
 "드래곤붙이의 모습이 되었습니다. 힘에 +4의 크기 보너스, 건강에 +2 크기 보너스, 자연 방어 +4 보너스, 험지 효과 면역, 숨결 "
 "무기 및 냉기 저항 20을 얻습니다. 이동속도가 10 피트 증가합니다. 또한 한 번의 물기(1d8), 두 번의 발톱(1d6), 두 번의 "
-"날개(1d4) 공격을 얻습니다. 이 주문으로 오직 한 번만 숨결 무기를 사용할 수 있습니다. "
+"날개(1d4) 공격을 얻습니다. 이 주문으로 오직 한 번만 숨결 무기를 사용할 수 있습니다."
 
 #. Mechanics/Blueprints/Spells/Level6/FormOfTheDragonIWhite_Description_String
 msgctxt "ff22f05a-d730-4171-9354-45d9ba1f24db"
@@ -9756,7 +9780,7 @@ msgstr ""
 #. Mechanics/Blueprints/Spells/Level6/HolyWord_m_DisplayName
 msgctxt "d0e45854-7a53-4992-b56e-ab9c07418582"
 msgid "Holy Word"
-msgstr "신성한 진언"
+msgstr "성스러운 진언"
 
 #. Mechanics/Blueprints/Spells/Level6/InflictModerateWoundsMass_Description_String
 msgctxt "374df5f6-9e8c-4780-b3b1-8391416fcb21"
@@ -10188,9 +10212,9 @@ msgid ""
 "to their initiative check results. They attack your opponents to the best of"
 " their ability."
 msgstr ""
-"이 주문은 다른 차원에서 악 성향이면 소울이터 하나나 1d3 레드캡을, 아니라면 액시오마이트 하나나 1d3 브라러니 아자타를 소환하거나,"
-" 커다란 늑대 1d4+1마리를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기"
-" 능력을 최대한 활용해 적을 공격합니다"
+"이 주문은 다른 차원에서 악 성향이면 소울이터 하나나 1d3 레드캡을, 아니라면 액시오마이트 하나나 1d3 브라러니 아자타를 소환하거나, "
+"커다란 늑대 1d4+1마리를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 "
+"능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level6/SummonMonsterVIBase_DisplayName_String
 msgctxt "983002b4-f063-4bea-afcd-4d4cbe2ed69c"
@@ -10206,7 +10230,7 @@ msgid ""
 "opponents to the best of their ability."
 msgstr ""
 "이 주문은 다른 차원에서 악 성향이면 1d3 레드캡을, 아니라면 1d3 브라러니 아자타를 소환합니다. 소환물은 시전자가 지정한 곳에 "
-"나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다"
+"나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level6/SummonMonsterVId3_DisplayName_String
 msgctxt "0ce0be30-c8c2-4f26-a1a1-f445517bdf0d"
@@ -10237,7 +10261,7 @@ msgid ""
 " best of its ability."
 msgstr ""
 "이 주문은 다른 차원에서 악 성향이면 소울 이터를, 아니라면 액시오마이트를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 "
-"판정의 결과에 따라 행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다"
+"판정의 결과에 따라 행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level6/SummonMonsterVISingle_DisplayName_String
 msgctxt "e383a1c6-6435-45da-b4a2-f5f0e8b23eed"
@@ -10664,7 +10688,7 @@ msgid ""
 "damage."
 msgstr ""
 "이 주문은 시전자 레벨 당 10 점의 피해를 즉시 입힙니다. 대상의 인내 내성 굴림이 성공하면 대신 3d6 + 시전자 레벨 당 1 점의 "
-"피해를 줍니다"
+"피해를 줍니다."
 
 #. Mechanics/Blueprints/Spells/Level7/Destruction_m_DisplayName
 msgctxt "f8618efc-fbb1-458f-ad4b-fe98e99ee8e1"
@@ -10718,7 +10742,7 @@ msgid ""
 "damage + 1 point per caster level."
 msgstr ""
 "이 주문은 시전자 레벨 당 10 점의 피해를 즉시 입힙니다. 대상의 인내 내성 굴림이 성공하면 대신 3d6 + 시전자 레벨 당 1 점의 "
-"피해를 줍니다"
+"피해를 줍니다."
 
 #. Mechanics/Blueprints/Spells/Level7/FingerOfDeath_m_DisplayName
 msgctxt "22a961b5-f441-4176-a993-81e821a6da1d"
@@ -11514,9 +11538,13 @@ msgid ""
 "Cure: 1 save\n"
 "The save DC is Constitution-based."
 msgstr ""
-"섐블링 마운드로 변신했습니다. 힘에 +4 크기 보너스, 건강에 +2 크기 보너스와 +4 자연 방어 보너스 및 화염 저항 20과 전기 저항 20을 얻습니다. 이동속도는 10 피트 감소합니다. 추가로 두 번의 2d6 후려치기 공격, 죄여오는 덩굴과 독 능력을 얻습니다. 라운드 전체 행동으로 변신을 해제할 수 있습니다. 변신을 해제하면 주문이 종료됩니다.\n"
-"죄여오는 덩굴: 섐블링 마운드의 후려치기 공격에 맞은 적들은 덩굴에 휘감깁니다. 섐블링 마운드는 표적에 대해 붙잡기 전법 판정에 성공시 덩굴로 2d6+5의 피해와 붙잡힌 상태로 만들 수 있습니다.\n"
-"붙잡힌 캐릭터는 움직일 수 없으며, 모든 명중 굴림에 -2 페널티, 민첩에 -4 페널티를 받습니다. 붙잡힌 크리처는 매 라운드 전법, 힘, 운동 또는 기동성 판정을 성공적으로 시도하여 탈출할 수 있습니다. 이 판정에 대한 DC는 섐블링 마운드의 CMD입니다.\n"
+"섐블링 마운드로 변신했습니다. 힘에 +4 크기 보너스, 건강에 +2 크기 보너스와 +4 자연 방어 보너스 및 화염 저항 20과 전기 저항 "
+"20을 얻습니다. 이동속도는 10 피트 감소합니다. 추가로 두 번의 2d6 후려치기 공격, 죄여오는 덩굴과 독 능력을 얻습니다. 라운드 "
+"전체 행동으로 변신을 해제할 수 있습니다. 변신을 해제하면 주문이 종료됩니다.\n"
+"죄여오는 덩굴: 섐블링 마운드의 후려치기 공격에 맞은 적들은 덩굴에 휘감깁니다. 섐블링 마운드는 대상에 대한 붙잡기 전법 판정에 성공시 "
+"덩굴로 2d6+5의 피해를 입히고 붙잡을 수 있습니다.\n"
+"붙잡힌 캐릭터는 움직일 수 없으며, 모든 명중 굴림에 -2 페널티, 민첩에 -4 페널티를 받습니다. 붙잡힌 크리처는 매 라운드 전법, "
+"힘, 운동 또는 기동성 판정을 성공적으로 시도하여 탈출할 수 있습니다. 이 판정에 대한 DC는 섐블링 마운드의 CMD입니다.\n"
 "매 라운드마다, 섐블링 마운드에게 붙잡힌 크리처는 4d6 + 힘 수정치 × 2의 피해를 받습니다.\n"
 "섐블링 마운드는 붙잡기 전법 판정에 +4 보너스를 받습니다.\n"
 "독:\n"
@@ -11546,9 +11574,13 @@ msgid ""
 "Cure: 1 save\n"
 "The save DC is Constitution-based."
 msgstr ""
-"대상을 섐블링 마운드로 변신시킵니다. 힘에 +4 크기 보너스, 건강에 +2 크기 보너스와 +4 자연 방어 보너스 및 화염 저항 20과 전기 저항 20을 얻습니다. 이동속도는 10 피트 감소합니다. 추가로 두 번의 2d6 후려치기 공격, 죄여오는 덩굴과 독 능력을 얻습니다. 대상은 라운드 전체 행동으로 변신을 해제할 수 있습니다. 변신을 해제하면 주문이 종료됩니다.\n"
-"죄여오는 덩굴: 섐블링 마운드의 후려치기 공격에 맞은 적들은 덩굴에 휘감깁니다. 섐블링 마운드는 표적에 대해 붙잡기 전법 판정에 성공시 덩굴로 2d6+5의 피해와 붙잡힌 상태로 만들 수 있습니다.\n"
-"붙잡힌 캐릭터는 움직일 수 없으며, 모든 명중 굴림에 -2 페널티, 민첩에 -4 페널티를 받습니다. 붙잡힌 크리처는 매 라운드 전법, 힘, 운동 또는 기동성 판정을 성공적으로 시도하여 탈출할 수 있습니다. 이 판정에 대한 DC는 섐블링 마운드의 CMD입니다.\n"
+"대상을 섐블링 마운드로 변신시킵니다. 힘에 +4 크기 보너스, 건강에 +2 크기 보너스와 +4 자연 방어 보너스 및 화염 저항 20과 "
+"전기 저항 20을 얻습니다. 이동속도는 10 피트 감소합니다. 추가로 두 번의 2d6 후려치기 공격, 죄여오는 덩굴과 독 능력을 "
+"얻습니다. 대상은 라운드 전체 행동으로 변신을 해제할 수 있습니다. 변신을 해제하면 주문이 종료됩니다.\n"
+"죄여오는 덩굴: 섐블링 마운드의 후려치기 공격에 맞은 적들은 덩굴에 휘감깁니다. 섐블링 마운드는 대상에 대한 붙잡기 전법 판정에 성공시 "
+"덩굴로 2d6+5의 피해를 입히고 붙잡을 수 있습니다.\n"
+"붙잡힌 캐릭터는 움직일 수 없으며, 모든 명중 굴림에 -2 페널티, 민첩에 -4 페널티를 받습니다. 붙잡힌 크리처는 매 라운드 전법, "
+"힘, 운동 또는 기동성 판정을 성공적으로 시도하여 탈출할 수 있습니다. 이 판정에 대한 DC는 섐블링 마운드의 CMD입니다.\n"
 "매 라운드마다, 섐블링 마운드에게 붙잡힌 크리처는 4d6 + 힘 수정치 × 2의 피해를 받습니다.\n"
 "섐블링 마운드는 붙잡기 전법 판정에 +4 보너스를 받습니다.\n"
 "독:\n"
@@ -11587,8 +11619,11 @@ msgid ""
 "You are in wyvern form now. You have a +4 size bonus to your Strength, a –2 penalty to your Dexterity, and a +4 natural armor bonus. Your movement speed is reduced by 10 feet. You also have one 2d6 bite attack, two 1d6 talon attacks, 1d6 sting attack plus poison.\n"
 "Wyvern Poison: Sting — injury; Fortitude save (DC 17); frequency: 1/round for 6 rounds; effect: 1d4 Constitution damage; cure: 2 consecutive saves."
 msgstr ""
-"와이번 형태로 변신했습니다. 힘에 +4 크기 보너스, 민첩에 -2 페널티와 +4 자연 방어 보너스를 얻습니다. 이동속도가 10 피트 감소합니다. 추가로 2d6 물기 공격 한 번, 1d6 맹금 발톱 공격 두 번, 독을 동반한 1d6 쏘기 공격을 얻습니다. 라운드 전체 행동으로 변신을 해제할 수 있습니다.\n"
-"와이번 독: 쏘기 - 부상; 상처; 인내 내성 (DC 17); 빈도: 매 1 라운드 / 6 라운드 동안; 효과: 1d4 건강 피해; 치료: 내성 2회 연속 성공"
+"와이번 형태로 변신했습니다. 힘에 +4 크기 보너스, 민첩에 -2 페널티와 +4 자연 방어 보너스를 얻습니다. 이동속도가 10 피트 "
+"감소합니다. 추가로 2d6 물기 공격 한 번, 1d6 맹금 발톱 공격 두 번, 독을 동반한 1d6 쏘기 공격을 얻습니다. 라운드 전체 "
+"행동으로 변신을 해제할 수 있습니다.\n"
+"와이번 독: 쏘기 - 부상; 상처; 인내 내성 (DC 17); 빈도: 매 1 라운드 / 6 라운드 동안; 효과: 1d4 건강 피해; 치료:"
+" 내성 2회 연속 성공."
 
 #. Mechanics/Blueprints/Spells/Level7/PolymorphGreaterWyvern_DisplayName_String
 msgctxt "f888748f-7444-46b7-b78f-762178a224b1"
@@ -11601,8 +11636,10 @@ msgid ""
 "The target creature becomes a wyvern. It gains a +4 size bonus to its Strength, a –2 penalty to its Dexterity, and a +4 natural armor bonus. Its movement speed is reduced by 10 feet. It also gains one 1d8 tail slap attack plus poison.\n"
 "Wyvern Poison: Sting — injury; Fortitude save (DC 17); frequency: 1/round for 6 rounds; effect: 1d4 Constitution damage; cure: 2 consecutive saves."
 msgstr ""
-"와이번 형태로 변신했습니다. 힘에 +4 크기 보너스, 민첩에 -2 페널티와 +4 자연 방어 보너스를 얻습니다. 이동속도가 10 피트 감소합니다. 추가로 독을 동반한 1d8 꼬리 치기 공격을 얻습니다. 대상은 라운드 전체 행동으로 변신을 해제할 수 있습니다.\n"
-"와이번 독: 쏘기 - 부상; 상처; 인내 내성 (DC 17); 빈도: 매 1 라운드 / 6 라운드 동안; 효과: 1d4 건강 피해; 치료: 내성 2회 연속 성공"
+"와이번 형태로 변신했습니다. 힘에 +4 크기 보너스, 민첩에 -2 페널티와 +4 자연 방어 보너스를 얻습니다. 이동속도가 10 피트 "
+"감소합니다. 추가로 독을 동반한 1d8 꼬리 치기 공격을 얻습니다. 대상은 라운드 전체 행동으로 변신을 해제할 수 있습니다.\n"
+"와이번 독: 쏘기 - 부상; 상처; 인내 내성 (DC 17); 빈도: 매 1 라운드 / 6 라운드 동안; 효과: 1d4 건강 피해; 치료:"
+" 내성 2회 연속 성공."
 
 #. Mechanics/Blueprints/Spells/Level7/PowerWordBlindBuff_m_DisplayName
 msgctxt "1670b490-1713-43fb-95ca-ad2af42e9dfd"
@@ -11792,7 +11829,7 @@ msgid ""
 msgstr ""
 "이 주문은 다른 차원에서 악 성향이면 1d3 소울이터나 1d4+1 레드캡을, 아니라면 1d3 액시오마이트나 1d4+1 브라러니 아자타를 "
 "소환하거나, 부기맨 하나를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 "
-"능력을 최대한 활용해 적을 공격합니다"
+"능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level7/SummonMonsterVIIBase_DisplayName_String
 msgctxt "f63918b3-1523-4469-be33-d6c93a008cec"
@@ -11808,7 +11845,7 @@ msgid ""
 "to the best of their ability."
 msgstr ""
 "이 주문은 다른 차원에서 악 성향이면 1d3 소울 이터를, 아니라면 1d3 액시오 마이트를 소환합니다. 소환물은 시전자가 지정한 곳에 "
-"나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다"
+"나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level7/SummonMonsterVIId3_DisplayName_String
 msgctxt "e5a3669e-2fbd-495d-87ba-f9490d342694"
@@ -11824,7 +11861,7 @@ msgid ""
 "opponents to the best of their ability."
 msgstr ""
 "이 주문은 다른 차원에서 악 성향이면 1d4+1 레드캡을, 아니라면 1d4+1 브라러니 아자타를 소환합니다. 소환물은 시전자가 지정한 "
-"곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다"
+"곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level7/SummonMonsterVIId4plus1_DisplayName_String
 msgctxt "84fb4828-3c02-407f-8a96-fbdd0a3b7b83"
@@ -12115,10 +12152,10 @@ msgid ""
 "(1d8), and one tail slap attack (2d6). You can use the breath weapon as "
 "often as you like, but you must wait 1d4 rounds between uses."
 msgstr ""
-"드래곤붙이의 모습이 되었습니다. 힘에 +10 크기 보너스, 건강에 +8 크기 보너스, +8 의 자연 방어 보너스, 험지 효과 무시, 60"
-" 피트 범위의 장님감각, 숨결 무기, 피해 감소 10/마법, 무시무시한 존재감(DC:이 주문의 DC와 동일) 및 산성 면역을 얻습니다. "
+"드래곤붙이의 모습이 되었습니다. 힘에 +10 크기 보너스, 건강에 +8 크기 보너스, +8 의 자연 방어 보너스, 험지 효과 무시, 60 "
+"피트 범위의 장님감각, 숨결 무기, 피해 감소 10/마법, 무시무시한 존재감(DC:이 주문의 DC와 동일) 및 산성 면역을 얻습니다. "
 "또한 한 번의 물기(2d6), 두 번의 발톱(1d8), 두 번의 날개(1d6) 및 한 번의 꼬리 치기(1d8) 공격을 얻습니다. 숨결 "
-"무기는 원하는 만큼 계속 사용할 수 있지만 한 번 쓰면 1d4 라운드를 기다려야합니다. "
+"무기는 원하는 만큼 계속 사용할 수 있지만 한 번 쓰면 1d4 라운드를 기다려야합니다."
 
 #. Mechanics/Blueprints/Spells/Level8/FormOfTheDragonIIIBlack_Description_String
 msgctxt "c468d1a8-b6da-45ff-a283-6ef42848f168"
@@ -12156,10 +12193,10 @@ msgid ""
 "wing attacks (1d8), and one tail slap attack (2d6). You can use the breath "
 "weapon as often as you like, but you must wait 1d4 rounds between uses."
 msgstr ""
-"드래곤붙이의 모습이 되었습니다. 힘에 +10 크기 보너스, 건강에 +8 크기 보너스, +8 의 자연 방어 보너스, 험지 효과 무시, 60"
-" 피트 범위의 장님감각, 숨결 무기, 피해 감소 10/마법, 무시무시한 존재감(DC:이 주문의 DC와 동일) 및 전기 면역을 얻습니다. "
+"드래곤붙이의 모습이 되었습니다. 힘에 +10 크기 보너스, 건강에 +8 크기 보너스, +8 의 자연 방어 보너스, 험지 효과 무시, 60 "
+"피트 범위의 장님감각, 숨결 무기, 피해 감소 10/마법, 무시무시한 존재감(DC:이 주문의 DC와 동일) 및 전기 면역을 얻습니다. "
 "또한 한 번의 물기(2d6), 두 번의 발톱(1d8), 두 번의 날개(1d6) 및 한 번의 꼬리 치기(1d8) 공격을 얻습니다. 숨결 "
-"무기는 원하는 만큼 계속 사용할 수 있지만 한 번 쓰면 1d4 라운드를 기다려야합니다. "
+"무기는 원하는 만큼 계속 사용할 수 있지만 한 번 쓰면 1d4 라운드를 기다려야합니다."
 
 #. Mechanics/Blueprints/Spells/Level8/FormOfTheDragonIIIBlue_Description_String
 msgctxt "ba0978a7-a350-4760-87be-35dc31da5b02"
@@ -12292,10 +12329,10 @@ msgid ""
 "(1d8), and one tail slap attack (2d6). You can use the breath weapon as "
 "often as you like, but you must wait 1d4 rounds between uses."
 msgstr ""
-"드래곤붙이의 모습이 되었습니다. 힘에 +10 크기 보너스, 건강에 +8 크기 보너스, +8 의 자연 방어 보너스, 험지 효과 무시, 60"
-" 피트 범위의 장님감각, 숨결 무기, 피해 감소 10/마법, 무시무시한 존재감(DC:이 주문의 DC와 동일) 및 화염 면역을 얻습니다. "
+"드래곤붙이의 모습이 되었습니다. 힘에 +10 크기 보너스, 건강에 +8 크기 보너스, +8 의 자연 방어 보너스, 험지 효과 무시, 60 "
+"피트 범위의 장님감각, 숨결 무기, 피해 감소 10/마법, 무시무시한 존재감(DC:이 주문의 DC와 동일) 및 화염 면역을 얻습니다. "
 "또한 한 번의 물기(2d6), 두 번의 발톱(1d8), 두 번의 날개(1d6) 및 한 번의 꼬리 치기(1d8) 공격을 얻습니다. 숨결 "
-"무기는 원하는 만큼 계속 사용할 수 있지만 한 번 쓰면 1d4 라운드를 기다려야합니다. "
+"무기는 원하는 만큼 계속 사용할 수 있지만 한 번 쓰면 1d4 라운드를 기다려야합니다."
 
 #. Mechanics/Blueprints/Spells/Level8/FormOfTheDragonIIIRed_Description_String
 msgctxt "b34b19ea-37f5-42e4-9096-d903737982ac"
@@ -12338,10 +12375,10 @@ msgid ""
 "(1d8), and one tail slap attack (2d6). You can use the breath weapon as "
 "often as you like, but you must wait 1d4 rounds between uses."
 msgstr ""
-"드래곤붙이의 모습이 되었습니다. 힘에 +10 크기 보너스, 건강에 +8 크기 보너스, +8 의 자연 방어 보너스, 험지 효과 무시, 60"
-" 피트 범위의 장님감각, 숨결 무기, 피해 감소 10/마법, 무시무시한 존재감(DC:이 주문의 DC와 동일) 및 냉기 면역을 얻습니다. "
+"드래곤붙이의 모습이 되었습니다. 힘에 +10 크기 보너스, 건강에 +8 크기 보너스, +8 의 자연 방어 보너스, 험지 효과 무시, 60 "
+"피트 범위의 장님감각, 숨결 무기, 피해 감소 10/마법, 무시무시한 존재감(DC:이 주문의 DC와 동일) 및 냉기 면역을 얻습니다. "
 "또한 한 번의 물기(2d6), 두 번의 발톱(1d8), 두 번의 날개(1d6) 및 한 번의 꼬리 치기(1d8) 공격을 얻습니다. 숨결 "
-"무기는 원하는 만큼 계속 사용할 수 있지만 한 번 쓰면 1d4 라운드를 기다려야합니다. "
+"무기는 원하는 만큼 계속 사용할 수 있지만 한 번 쓰면 1d4 라운드를 기다려야합니다."
 
 #. Mechanics/Blueprints/Spells/Level8/FormOfTheDragonIIIWhite_Description_String
 msgctxt "a142b9f5-fe87-42ad-bcfb-8f3d4fddda89"
@@ -12600,11 +12637,26 @@ msgid ""
 "The walls of the rift are covered with razor-sharp blades, while the floor seethes with boiling pools of acid, strange chewing vermin, writhing shards of ice, and all manner of other chaotic and deadly manifestations of the Abyss. A creature that falls into the rift takes 6d6 points of falling damage. Any creature in the rift (starting on the round it enters) takes an additional 6d6 points of damage from the rift's environs, even if the creature is merely climbing or flying within the rift rather than standing at the bottom. This additional damage changes from round to round and is randomly selected from acid, bludgeoning, cold, electricity, fire, piercing, slashing, or sonic. Each round, a creature in the rift can attempt a Reflex save to take half damage that round. To climb the rift's walls, a creature need a successful Athletics or Mobility skill check with a DC of 35.\n"
 "When this spell's duration ends, the rift snaps shut, violently expelling all creatures still within. These creatures take double damage from the rift's environs in that round and are knocked prone as they are returned to the surface above."
 msgstr ""
+"이 주문은 현실을 찢어 균열을 내어, 60 피트 깊이의 확장 차원의 구멍을 만듭니다. 균열은 심연을 끌어다 만들었기 때문에, 원래 그 "
+"자리에 있던 물질을 대체하지 않으며, 표면 아래의 다른 부분과는 격리된 별도의 공간입니다. 배의 갑판, 던전 바닥, 숲의 공터에도 쉽게 "
+"구덩이를 만들 수 있습니다.\n"
+"처음 구덩이를 생성한 지역에 서있던 모든 대형 크기 이하의 크리처는 반사 내성 굴림을 시도하여 가까운 평지로 뛸 수 있습니다. 또한 "
+"구덩이의 가장자리는 가파르기 때문에 구덩이에 근처에서 턴을 마친 모든 크리처는 +2 보너스를 받고 반사 내성을 굴려 구덩이로 떨어지는 "
+"것을 피해야 합니다. 구덩이로 떨어뜨리기 위한 (황소 돌진 같은) 효과의 영향을 받는 크리처는 밀쳐지는 효과의 영향을 받는 동안 떨어지는 "
+"것을 피하기 위한 내성 굴림을 할 수 없습니다.\n"
+"균열의 벽은 면도날 처럼 날카로운 칼날로 덮여 있고, 바닥에는 끓어오르는 산 웅덩이, 기괴한 해충들, 살을 에는 얼음 조각 등 온갖 "
+"혼란스럽고 치명적인 심연의 현상들이 놓여 있습니다. 균열에 떨어진 크리처는 6d6 점의 추락 피해를 받습니다. 균열 안의 모든 크리처는 "
+"그곳에 진입한 라운드 부터 6d6점의 추가 피해를 입습니다. 설사 바닥에 서있지 않고 벽을 오르거나 비행 중이더라도 심연의 환경으로부터 "
+"피해를 받습니다. 이 추가 피해의 유형은 산성, 부수기, 냉기, 전기, 찌르기, 베기, 음파 중에서 라운드 마다 무작위로 바뀝니다. 균열 "
+"안의 크리처는 매 라운드 반사 굴림에 성공하면 피해를 절반으로 줄일 수 있습니다. 이 균열의 벽을 오르려면 DC 35의 운동이나 기동성 "
+"판정에 성공해야 합니다.\n"
+"주문의 지속시간이 끝나면, 균열은 쾅 하고 닫히면서, 아직까지 남아있는 크리처 모두를 거칠게 내뱉습니다. 이 크리처들은 라운드 당 균열 "
+"환경 피해의 두 배 만큼의 피해를 입으며 그 라운드 동안 지면에 쓰러져 있게 됩니다."
 
 #. Mechanics/Blueprints/Spells/Level8/RiftOfRuin_m_DisplayName
 msgctxt "18719fda-1168-4770-b5d5-187bbde99655"
 msgid "Rift of Ruin"
-msgstr ""
+msgstr "파멸의 균열"
 
 #. Mechanics/Blueprints/Spells/Level8/Seamantle_m_Description
 msgctxt "2ae836af-b301-4cd7-8976-2fd1d4da0b5f"
@@ -12934,8 +12986,8 @@ msgid ""
 "check results. They attack your opponents to the best of their ability."
 msgstr ""
 "이 주문은 다른 차원에서 악 성향이면 서리 거인 하나나 1d4+1 소울이터를, 아니라면 모바닉 데바 하나나 1d4+1 액시오마이트를 "
-"소환하거나,  1d3 부기맨을 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기"
-" 능력을 최대한 활용해 적을 공격합니다"
+"소환하거나,  1d3 부기맨을 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 "
+"능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level8/SummonMonsterVIIIBase_DisplayName_String
 msgctxt "d51e941b-c71e-4046-bd6d-de410e721eee"
@@ -12966,7 +13018,7 @@ msgid ""
 "to the best of their ability."
 msgstr ""
 "이 주문은 다른 차원에서 악 성향이면 1d4+1 소울 이터를, 아니라면 1d4+1 액시오 마이트를 소환합니다. 소환물은 시전자가 지정한 "
-"곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다"
+"곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level8/SummonMonsterVIIId4plus1_DisplayName_String
 msgctxt "d9beedf8-fd54-448f-85ec-8762611b005e"
@@ -13242,9 +13294,11 @@ msgid ""
 "Twenty-four hours after gaining them, the subject must make a Fortitude saving throw (DC = energy drain spell's save DC) for each negative level. If the save succeeds, that negative level is removed. If it fails, that negative level becomes permanent.\n"
 "An undead creature struck by the ray gains 2d4 × 5 temporary hit points for 1 hour.[LONGEND]"
 msgstr ""
-"손가락 끝에서 검은 음에너지 광선을 발사하여 살아있는 크리처를 맞추면 그 생명력을 저해시킵니다. 원거리 접촉 공격을 명중시키면 대상은 1d4의 일시적인 음수 레벨을 얻습니다. 음수 레벨은 중첩됩니다.\n"
-"24 시간이 지나면 대상은 각각의 음수 레벨에 대해 인내 내성 굴림(DC = 에너지 고갈 주문)을 해야 합니다. 내성 굴림이 성공하면 해당 음수 레벨이 제거됩니다. 실패 할 경우 음수 레벨은 영구적으로 지속됩니다. \n"
-"광선에 맞은 언데드 크리처는 1 시간 동안 10d4의 일시적 생명 점을 얻습니다."
+"손가락 끝에서 검은 음에너지 광선을 발사하여 살아있는 크리처를 맞추면 그 생명력을 저해시킵니다. 원거리 접촉 공격을 명중시키면 대상은 "
+"1d4의 일시적인 음수 레벨을 얻습니다. 음수 레벨은 중첩됩니다.[LONGSTART]\n"
+"24 시간이 지나면 대상은 각각의 음수 레벨에 대해 인내 내성 굴림(DC = 에너지 고갈 주문)을 해야 합니다. 내성 굴림이 성공하면 "
+"해당 음수 레벨이 제거됩니다. 실패 할 경우 음수 레벨은 영구적으로 지속됩니다. \n"
+"광선에 맞은 언데드 크리처는 1 시간 동안 10d4의 일시적 생명 점을 얻습니다.[LONGEND]"
 
 #. Mechanics/Blueprints/Spells/Level9/EnergyDrain_m_DisplayName
 msgctxt "475d885c-597e-457d-b0a2-6228f432c5ae"
@@ -13517,9 +13571,9 @@ msgid ""
 "appear where you designate and act according to their initiative check "
 "results. They attack your opponents to the best of their ability."
 msgstr ""
-"이 주문은 다른 차원에서 악 성향이면 타나다이몬 하나나 서리 거인 1d4+1 명을, 아니라면 게일 아자타 하나나 모바닉 데바 1d3 명을"
-" 소환하거나, 1d4+1 부기맨을 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 "
-"자기 능력을 최대한 활용해 적을 공격합니다"
+"이 주문은 다른 차원에서 악 성향이면 타나다이몬 하나나 서리 거인 1d4+1 명을, 아니라면 게일 아자타 하나나 모바닉 데바 1d3 명을 "
+"소환하거나, 1d4+1 부기맨을 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 "
+"자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level9/SummonMonsterIXBase_DisplayName_String
 msgctxt "a77cdcdb-ddb4-4737-84f6-580974d3868b"
@@ -13535,7 +13589,7 @@ msgid ""
 "opponents to the best of their ability."
 msgstr ""
 "이 주문은 다른 차원에서 악 성향이면 1d3 서리 거인을, 아니라면 1d3 모바닉 데바를 소환합니다. 소환물은 시전자가 지정한 곳에 "
-"나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다"
+"나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level9/SummonMonsterIXd3_DisplayName_String
 msgctxt "a431d19e-617c-4480-8361-f83b5838ae9f"
@@ -13749,8 +13803,8 @@ msgid ""
 "or arcane spell failure chance.[LONGEND]"
 msgstr ""
 "보이지 않는 역장의 방벽이 눈앞을 떠다니며 시전자를 보호합니다. 이 방벽은 매직 미사일 주문을 막으며, AC에 +4의 방패 보너스를 "
-"제공합니다. 이 보너스는 역장 효과이므로 비실체의 접촉 공격에도 적용됩니다. 이 방패는 방어구 판정 페널티나 비전 주문 실패율을 가지지 "
-"않습니다."
+"제공합니다.[LONGSTART] 이 보너스는 역장 효과이므로 비실체의 접촉 공격에도 적용됩니다. 이 방패는 방어구 판정 페널티나 비전 "
+"주문 실패율을 가지지 않습니다.[LONGEND]"
 
 #. Mechanics/Blueprints/Spells/Modified/MageShieldSwift_m_DisplayName
 msgctxt "fa5b1fac-eaf2-4e47-b057-028f69cd2893"
