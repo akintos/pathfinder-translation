@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
 "PO-Revision-Date: 2020-06-20 06:07+0000\n"
-"Last-Translator: Abraxas <netnk9151@hanmail.net>\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -6714,13 +6714,13 @@ msgid ""
 "worse, one or the other warring family has every local guard in their "
 "pocket. Only outside intervention can put an end to the bloodshed."
 msgstr ""
-"땅이 전쟁 중인 두 범죄 조직에 의해 찢어지고 있습니다! 더 나쁜 소식은 전쟁 중인 조직들이 경비대를 모두 매수했다는 것입니다. 외부의 "
-"개입만이 이 유혈사태를 끝낼 수 있을 것입니다."
+"두 범죄 집단의 전쟁때문에 이 지역이 둘로 쪼개지고 있습니다! 더 나쁜 소식은, 현지 경비대가 모조리 그쪽 아니면 저쪽의 수중에 "
+"들어갔다는 겁니다. 외부의 개입 없이는 이 유혈사태에 종지부를 찍을 수 없습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced5/ShadowWar_LocalizedName
 msgctxt "4005e457-c4b8-41f3-9147-5cc485a71377"
 msgid "A War of Shadows"
-msgstr "그림자의 전쟁"
+msgstr "그림자 전쟁"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced5/ShadowWar_Solutions.Entries.Array.data[9].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "cc1cefc3-163e-4722-963f-b470ddaaf76a"
@@ -6729,6 +6729,8 @@ msgid ""
 "with the situation, {mf_Spymaster|he|she} received a package with the spy's "
 "head inside…"
 msgstr ""
+"장관이 {mf_Spymaster|그의|그녀의} 최정예 요원을 보내 상황을 정리하도록 했습니다. 며칠 뒤, 장관은 요원의 머리가 담긴 "
+"소포를 받았습니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced5/ShadowWar_Solutions.Entries.Array.data[9].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "07fae24c-f61b-4123-b279-44c0e485111e"
@@ -6737,6 +6739,8 @@ msgid ""
 "realized just in time that their cover was blown. Most of them managed to "
 "escape, barely evading death."
 msgstr ""
+"장관의 첩보원들이 전쟁 중인 범죄자 무리 중 한 곳에 잠입하는 데 성공했지만, 정체를 들켰다는 것을 가까스로 알아차렸습니다. 대부분이 "
+"간신히 탈출하여 겨우 목숨을 건졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced5/ShadowWar_Solutions.Entries.Array.data[9].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "93f88a67-f2d8-4b38-89c9-39a4626974eb"
@@ -6746,6 +6750,8 @@ msgid ""
 " they secretly informed her enemy about it. A bloody battle ensued, and both"
 " bands utterly destroyed each other."
 msgstr ""
+"장관의 첩보원들이 성공적으로 범죄 조직 중 한 곳에 잠입했습니다. 이들은 조직 두목에게 큰 습격을 준비하자고 설득한 뒤, 몰래 적에게 "
+"습격 사실을 알려줬습니다. 피비린내 나는 전투가 벌어졌고, 두 조직은 서로를 완전히 박살내버렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced5/ShadowWar_Solutions.Entries.Array.data[9].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "c4a76f41-ccd5-41da-bca3-8c1be977fbf4"
@@ -6755,6 +6761,8 @@ msgid ""
 "{mf_Spymaster|his|her} agents' covers were soon blown, and they were "
 "exterminated one by one…"
 msgstr ""
+"장관은 자신의 첩보원들을 보내 어느 조직이 더 강하며, 어느 쪽이 더 도와줄만한 가치가 있는지 알아보려 했습니다. 하지만 안타깝게도 이 "
+"첩보원들의 정체가 발각되어, 첩보원들은 하나하나 제거되고 맙니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced5/ShadowWar_Solutions.Entries.Array.data[9].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "a4f61a9f-b05e-4d77-a2b7-3ac4bf4a91dc"
@@ -6904,7 +6912,7 @@ msgctxt "8794a9cc-e9e3-40de-93ab-4640151fbd61"
 msgid ""
 "The Minister's spies successfully traded the Devil's Own client list to the "
 "Sea King, in exchange for a light trade ship."
-msgstr ""
+msgstr "장관의 첩보원들이 데빌즈 오운의 고객 명단을 시 킹 조선소와 거래하는 데 성공했으며, 그 대가로 경무역선 한 척을 받았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced5/Wind in the
 #. sails_Solutions.Entries.Array.data[9].Resolutions.Array.data[1].LocalizedDescription
@@ -6914,6 +6922,8 @@ msgid ""
 "special pitch, which is used by the shipbuilders of the Devil's Own. They "
 "then traded it to the Sea King in exchange for three fast trade vessels!"
 msgstr ""
+"장관의 첩보원들이 데빌즈 오운 조선업자들이 사용하던 특별한 피치의 제조법을 훔쳐내는 데 성공했습니다. 그리고 첩보원들은 시 킹 조선소에 "
+"그 제조법을 제공하는 대가로 세 척의 빠른 무역 함선을 얻어냈습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced5/Wind in the
 #. sails_Solutions.Entries.Array.data[9].Resolutions.Array.data[2].LocalizedDescription
@@ -6923,6 +6933,8 @@ msgid ""
 " for the secrets of their rivals, the Devil's Own… However, the agents "
 "couldn't manage to steal any such secrets!"
 msgstr ""
+"장관의 첩보원들이 시 킹 조선소의 경쟁자인 데빌즈 오운의 비밀을 캐오는 대가로 함선 몇 척을 받기로 했습니다... 하지만 첩보원들은 그 "
+"어떤 비밀도 캐오는 데 성공하지 못 했습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CavalryofLastwall_LocalizedDescription
 msgctxt "a197dffc-1f43-49d3-a566-121cee4bbb62"
@@ -7026,6 +7038,8 @@ msgid ""
 "councilor asks that his colleague be made to \"disappear\", with the "
 "evidence pointing towards bandits."
 msgstr ""
+"이웃 나라의 재무관이 출장을 와서 {mf|남작령|남작령|왕국|왕국}의 국경에 들어섰습니다. 어제 성으로 편지 한 통이 날아왔고, 그 "
+"편지에는 그 나라의 의원이 그 재무관을 \"실종\"시켜달라고 부탁하고 있었습니다. 혐의는 도적에게 돌리고 말입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CourtierIntiques_LocalizedName
 msgctxt "8f9624b9-7215-467d-8351-8f0f308f1401"
@@ -7094,6 +7108,8 @@ msgid ""
 "guards, tried as a spy and executed! This has dealt a heavy blow to the "
 "diplomatic reputation of the {mf|barony|barony|kingdom|kingdom}."
 msgstr ""
+"장관은 자신의 첩보원을 보내 이웃 나라의 여왕에게 의원의 계획을 경고했습니다... 하지만 첩보원는 경비대에게 체포되었으며, 밀정 혐의로 "
+"재판을 받고 처형되었습니다! 이로 인해 {mf|남작령|남작령|왕국|왕국}의 외교적 평판에 커다란 금이 가고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CourtierIntiques_Solutions.Entries.Array.data[9].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "8a47240b-70e3-43c4-819d-a705e3751393"
@@ -7110,6 +7126,8 @@ msgid ""
 "they presented it along with the treasurer to the court. The criminal was "
 "arrested and sent before a judge!"
 msgstr ""
+"장관의 수하들이 재무관과 거래하여, 그를 살해하는 척 했습니다. 그리고 반역자 의원으로부터 돈을 받고 난 뒤, 장관의 수하들은 재무관과 "
+"함께 궁성에 이 사실을 밝혔습니다. 범죄자는 체포되어 판관 앞에 서게 되었습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CourtierIntiques_Solutions.Entries.Array.data[9].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "992361f0-6070-4ee2-9e9d-80b3fe56a5c0"
@@ -17581,7 +17599,7 @@ msgid ""
 " in. However, the runaways suspected there might be Surtovan spies hiding in"
 " the house. They rejected the invitation at the last moment."
 msgstr ""
-"섭정은 오를롭스키 가가 머무를 만한 외딴 저택을 찾아내었습니다. 그러나 도망자들은 이곳에 설토바의 스파이가 숨어있을지도 모른다고 "
+"섭정은 오를롭스키 가가 머무를 만한 외딴 저택을 찾아내었습니다. 그러나 도망자들은 이곳에 설토바의 첩보원가 숨어있을지도 모른다고 "
 "의심하여, 마지막 순간에 초대를 거절하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/SafeRefuge_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription
@@ -17635,7 +17653,7 @@ msgid ""
 "the Minister managed to identify who among the family was secretly working "
 "as Surtova's spy – and turn them."
 msgstr ""
-"오를롭스키 가문은 지난 몇 주 동안 숨어있었습니다. 이 시간 동안, 장관은 가문 내에서 비밀리에 설토바의 스파이로 일하는 자를 찾아내어 "
+"오를롭스키 가문은 지난 몇 주 동안 숨어있었습니다. 이 시간 동안, 장관은 가문 내에서 비밀리에 설토바의 첩보원으로 일하는 자를 찾아내어 "
 "돌려보냈습니다.  "
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/SafeRefuge_Solutions.Entries.Array.data[9].Resolutions.Array.data[4].LocalizedDescription
@@ -17646,7 +17664,7 @@ msgid ""
 "This was a hideous failure, and a blot on the "
 "{mf|barony|barony|kingdom|kingdom}'s reputation!"
 msgstr ""
-"오를롭스키 가문은 장관이 그들은 설토바의 손에 넘길 것이라 모함하였습니다. 그들은 작전을 수행중이던 스파이들을 처형하였습니다. 이것은 "
+"오를롭스키 가문은 장관이 그들은 설토바의 손에 넘길 것이라 모함하였습니다. 그들은 작전을 수행중이던 첩보원들을 처형하였습니다. 이것은 "
 "끔찍한 실패였고, {mf|남작령|여남작령|왕국|왕국}의 명성에 오점을 남겼습니다. "
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/SafeRefuge_Solutions.Entries.Array.data[9].Resolutions.Array.data[5].LocalizedDescription
@@ -34804,10 +34822,10 @@ msgid ""
 "the Grand Diplomat or Minister roll 2 checks with a penalty of -2, and pick "
 "the worse result."
 msgstr ""
-"불운한 반역자 랜더 레베다가 당신의 영역에 스파이를 심었습니다. 그들을 찾거나 그들의 음모에 대한 결과로 시달려야 합니다. "
-"{mf|남작령|남작령|왕국|왕국}불운한 반역자 랜더 레베다가 당신의 영역에 스파이를 심었습니다. 그들을 찾거나 그들의 음모에 대한 결과로"
-" 시달려야 합니다. {mf|남작령|남작령|왕국|왕국}에 스파이들이 활동하는 동안, 수석 외교관 또는 장관에 대한 주사위 2에 의해 해결될"
-" 수 있는 모든 사건들은 -2의 불이익을 받고, 더 나쁜 결과를 받게 됩니다."
+"불운한 반역자 랜더 레베다가 당신의 영역에 첩보원을 심었습니다. 그들을 찾거나 그들의 음모에 대한 결과로 시달려야 합니다. "
+"{mf|남작령|남작령|왕국|왕국}불운한 반역자 랜더 레베다가 당신의 영역에 첩보원을 심었습니다. 그들을 찾거나 그들의 음모에 대한 결과로 "
+"시달려야 합니다. {mf|남작령|남작령|왕국|왕국}에 첩보원들이 활동하는 동안, 수석 외교관 또는 장관에 대한 주사위 2에 의해 해결될 "
+"수 있는 모든 사건들은 -2의 불이익을 받고, 더 나쁜 결과를 받게 됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/RemoveSpiesofLebeda_LocalizedName
 msgctxt "d0ba2c81-ed68-46e5-8978-6e5f3f5da18f"
@@ -34820,7 +34838,7 @@ msgid ""
 "We've found most of Lebeda's agents, and the others have scattered in fear. "
 "We'll have no more trouble from those spies."
 msgstr ""
-"레베다의 요원 대부분을 색출해냈고, 나머지 요원들은 공포에 질려 뿔뿔이 흩어졌습니다. 더는 스파이들 때문에 고생할 일이 없을 겁니다."
+"레베다의 요원 대부분을 색출해냈고, 나머지 요원들은 공포에 질려 뿔뿔이 흩어졌습니다. 더는 첩보원들 때문에 고생할 일이 없을 겁니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/RepopulateVarnhold_LocalizedDescription
 msgctxt "24f64b41-914c-43ab-8307-a7a9dc9f88fb"
@@ -35976,7 +35994,7 @@ msgctxt "116a893d-6217-4a3b-bcc9-06a87ec89ad8"
 msgid ""
 "Pitax has become a city of spies, famous for the trade of secrets, and the "
 "safe haven that crafty-minded folk find there. It rivals Daggermark itself!"
-msgstr "피탁스는 비밀 거래로 유명한 스파이들의 도시이자 교활한 사람들이 찾는 안식처가 되었습니다. 대거마크와 맞먹을 정도입니다!"
+msgstr "피탁스는 비밀 거래로 유명한 첩자들의 도시이자 교활한 사람들이 찾는 안식처가 되었습니다. 대거마크와 맞먹을 정도입니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Shared_DireNarlmarchesClaimSuccess_String
 msgctxt "ed0cee28-98fe-4a35-9aec-116af81c6307"
