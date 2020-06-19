@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-18 04:07+0000\n"
+"PO-Revision-Date: 2020-06-20 06:07+0000\n"
 "Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/world/ko/>\n"
@@ -283,7 +283,7 @@ msgstr "알현실로"
 #. Mechanics/Blueprints/World/Areas/C21_TrollTrouble/Capital_SartayneHouse/Capital_SartayneHouse_AreaName_String
 msgctxt "901989f6-31f1-4f21-bd39-220b03a9acd8"
 msgid "Sartayne's House"
-msgstr ""
+msgstr "사르테인의 집"
 
 #. Mechanics/Blueprints/World/Areas/C21_TrollTrouble/SadisticMage/SadisticMage_Basement_AreaName
 msgctxt "3c4f4476-204f-4644-9f70-e723c0847819"
@@ -301,18 +301,14 @@ msgid "Outside"
 msgstr "외부"
 
 #. Mechanics/Blueprints/World/Areas/C21_TrollTrouble/TrollLair_Exterior/EnterPoints/EnterPoint_FromBackdoor_m_Tooltip
-#, fuzzy
-#| msgid "Into the keep"
 msgctxt "47d9882a-2fc5-48f0-91ef-f1a0e0bab9f4"
 msgid "Outside"
-msgstr "성채로"
+msgstr "외부"
 
 #. Mechanics/Blueprints/World/Areas/C21_TrollTrouble/TrollLair_Exterior/EnterPoints/EnterPoint_FromMainEntrance_m_Tooltip
-#, fuzzy
-#| msgid "Into the keep"
 msgctxt "46227863-9883-4193-b444-4b39fda180fb"
 msgid "Outside"
-msgstr "성채로"
+msgstr "외부"
 
 #. Mechanics/Blueprints/World/Areas/C21_TrollTrouble/TrollLair_FirstLevel/Moon_Description_String
 msgctxt "147a9312-1e85-4559-8bc7-d588fc7681ec"
@@ -712,7 +708,7 @@ msgstr "오래된 탑의 유적"
 #. Mechanics/Blueprints/World/Areas/C22_SeasonOfBloom/LichKulichLab/EnterPoints/LichKulichLab_Enter_m_Tooltip
 msgctxt "f60cd8b7-c2df-4f14-b74c-8b562cf7c0f0"
 msgid "Mysterious Well"
-msgstr ""
+msgstr "수상쩍은 우물"
 
 #. Mechanics/Blueprints/World/Areas/C22_SeasonOfBloom/LichKulichLair/LichKulichLair_AreaName
 msgctxt "8d140355-3732-4fcf-9099-dcced67e829d"
@@ -790,11 +786,9 @@ msgid "Downstairs"
 msgstr "아래층"
 
 #. Mechanics/Blueprints/World/Areas/C22_SeasonOfBloom/SilverstepGrotto_Cave/EnterPoints/SilverstepGrotto_Cave_06_1_Tooltip_String
-#, fuzzy
-#| msgid "Twisty little passage"
 msgctxt "3511251f-eaaf-408e-8208-2a74a18f13f1"
 msgid "Twisted passage"
-msgstr "뒤틀린 작은 통로"
+msgstr "뒤틀린 통로"
 
 #. Mechanics/Blueprints/World/Areas/C22_SeasonOfBloom/SilverstepGrotto_Cave/EnterPoints/SilverstepGrotto_Cave_07_m_Tooltip
 msgctxt "4839f695-fba6-4051-b1fe-8c7c635825c8"
@@ -985,15 +979,13 @@ msgstr "동굴"
 #. Vanished/TalonPeak/EnterPoints/TalonPeak_Enter_m_Tooltip
 msgctxt "1f591b01-74b4-48ab-8a60-433921842188"
 msgid "To the mountain top"
-msgstr ""
+msgstr "산꼭대기로"
 
 #. Mechanics/Blueprints/World/Areas/C31_Varnhold
 #. Vanished/TalonPeak/EnterPoints/TalonPeak_TalonPeakDown_m_Tooltip
-#, fuzzy
-#| msgid "To the mountain top"
 msgctxt "cacc3294-cd9c-429d-b992-61e1bafb31aa"
 msgid "To the mountain base"
-msgstr "산꼭대기로"
+msgstr "산기슭으로"
 
 #. Mechanics/Blueprints/World/Areas/C31_Varnhold
 #. Vanished/ValleyOfTheDeadSE01/ValleyOfTheDeadSE01_AreaName
@@ -1053,13 +1045,13 @@ msgstr "보다카이의 무덤"
 #. Vanished/VordakaiTombLevel1/EnterPoints/VordakaiTombLevel1_RiverTrapOptionalRoomIn_m_Tooltip
 msgctxt "c11617e6-04a4-4c0d-96e9-e52673180777"
 msgid "To the Secret Chamber"
-msgstr ""
+msgstr "비밀방으로"
 
 #. Mechanics/Blueprints/World/Areas/C31_Varnhold
 #. Vanished/VordakaiTombLevel1/EnterPoints/VordakaiTombLevel1_RiverTrapOptionalRoomOut_m_Tooltip
 msgctxt "e48b57ad-c0ec-4962-980d-fabb3c58b748"
 msgid "Secret Chamber Exit"
-msgstr ""
+msgstr "비밀방 출구"
 
 #. Mechanics/Blueprints/World/Areas/C31_Varnhold
 #. Vanished/VordakaiTombLevel2/VordakaiTombLevel2_AreaName
@@ -1217,8 +1209,6 @@ msgid "Cave from Luna's Map"
 msgstr "루나의 지도에 나온 동굴"
 
 #. Mechanics/Blueprints/World/Areas/C51_WarOfTheRiverKings/Littletown/EnterPoints/LittletownTavern_Enter_m_Tooltip
-#, fuzzy
-#| msgid "To tavern"
 msgctxt "15b964bf-96e0-4e6d-b240-e7d80f92ffe6"
 msgid "Into the tavern"
 msgstr "선술집으로"
@@ -1229,18 +1219,14 @@ msgid "Lonely Mansion"
 msgstr "외딴 저택"
 
 #. Mechanics/Blueprints/World/Areas/C51_WarOfTheRiverKings/PitaxTown/EnterPoints/PitaxTownAcademy_Enter_Tooltip_String
-#, fuzzy
-#| msgid "To the Academy"
 msgctxt "f2886537-a1a8-4dab-863c-083b0d94c06f"
 msgid "Academy"
-msgstr "아카데미로"
+msgstr "아카데미"
 
 #. Mechanics/Blueprints/World/Areas/C51_WarOfTheRiverKings/PitaxTown/EnterPoints/PitaxTownFromPort_Enter_Tooltip_String
-#, fuzzy
-#| msgid "To the main square"
 msgctxt "0b01e1ce-08a9-42e2-b6ed-e794e4b9af56"
 msgid "Main Square"
-msgstr "주 광장으로"
+msgstr "중앙 광장"
 
 #. Mechanics/Blueprints/World/Areas/C51_WarOfTheRiverKings/PitaxTown/EnterPoints/PitaxTownPortFromTavern_Enter_m_Tooltip
 msgctxt "7eb45242-1cf9-4e43-afe1-9e5ca1876dc8"
@@ -1248,11 +1234,9 @@ msgid "To the port"
 msgstr "부두로"
 
 #. Mechanics/Blueprints/World/Areas/C51_WarOfTheRiverKings/PitaxTown/EnterPoints/PitaxTownPort_Enter_Tooltip_String
-#, fuzzy
-#| msgid "To the port"
 msgctxt "c70dc22f-18c4-4f14-9aa4-6af333b5219a"
 msgid "Port"
-msgstr "부두로"
+msgstr "부두"
 
 #. Mechanics/Blueprints/World/Areas/C51_WarOfTheRiverKings/PitaxTown/EnterPoints/PitaxTownTavern_Enter_m_Tooltip
 msgctxt "8aad123d-67c0-4f05-b135-90ab83575464"
@@ -1352,47 +1336,47 @@ msgstr "박살난 수도 - 입구"
 #. Mechanics/Blueprints/World/Areas/C71_TheCursedKing/FinalDungeon/EnterPoints/FinalDungeon_ExIndoor_exit_m_Tooltip
 msgctxt "4b6f4491-b442-4f16-bb31-6523d9e7a1d2"
 msgid "Ravaged Capital — Entrance"
-msgstr ""
+msgstr "박살난 수도 - 입구"
 
 #. Mechanics/Blueprints/World/Areas/C71_TheCursedKing/FinalDungeon/EnterPoints/FinalDungeon_FD1_AreaEP_toIndoor_m_Tooltip
 msgctxt "11e77158-e449-48f5-83e8-9a9d334e64e0"
 msgid "Ruined Warehouse"
-msgstr ""
+msgstr "부서진 창고"
 
 #. Mechanics/Blueprints/World/Areas/C71_TheCursedKing/FinalDungeon/EnterPoints/FinalDungeon_FD2_AreaEP_toIndoor2_m_Tooltip
 msgctxt "977f40fa-c9c8-4df6-af5e-5246341980a8"
 msgid "Inn's Annex"
-msgstr ""
+msgstr "여관의 별관"
 
 #. Mechanics/Blueprints/World/Areas/C71_TheCursedKing/FinalDungeon/EnterPoints/FinalDungeon_FD2_AreaEP_toIndoor_m_Tooltip
 msgctxt "a7fa80fc-635a-448f-bc7e-9acb6fcc7ae2"
 msgid "Ruined Warehouse"
-msgstr ""
+msgstr "부서진 창고"
 
 #. Mechanics/Blueprints/World/Areas/C71_TheCursedKing/FinalDungeon/EnterPoints/FinalDungeon_FD3_AreaEP_toIndoor2_m_Tooltip
 msgctxt "dda4bec3-de20-4e44-a4e5-060315f217c5"
 msgid "Inn's Annex"
-msgstr ""
+msgstr "여관의 별관"
 
 #. Mechanics/Blueprints/World/Areas/C71_TheCursedKing/FinalDungeon/EnterPoints/FinalDungeon_FDindoor2_AreaEP_to2_m_Tooltip
 msgctxt "fdf28d72-d7f1-47c6-8e06-709f961b6ef6"
 msgid "Ravaged Capital — Central Passage"
-msgstr ""
+msgstr "박살난 수도 - 중앙 통로"
 
 #. Mechanics/Blueprints/World/Areas/C71_TheCursedKing/FinalDungeon/EnterPoints/FinalDungeon_FDindoor2_AreaEP_to3_m_Tooltip
 msgctxt "6fc71122-4bd7-4c74-8695-02107d8b3e76"
 msgid "Ravaged Capital — Castle Threshold"
-msgstr ""
+msgstr "박살난 수도 - 성 문턱"
 
 #. Mechanics/Blueprints/World/Areas/C71_TheCursedKing/FinalDungeon/EnterPoints/FinalDungeon_FDindoor_AreaEP_to1_m_Tooltip
 msgctxt "593e5646-f775-4602-ba76-ebde83030bbd"
 msgid "Ravaged Capital — Entrance"
-msgstr ""
+msgstr "박살난 수도 - 입구"
 
 #. Mechanics/Blueprints/World/Areas/C71_TheCursedKing/FinalDungeon/EnterPoints/FinalDungeon_FDindoor_AreaEP_to2_m_Tooltip
 msgctxt "40e4d792-d5f7-4ff7-a039-85e95e840be5"
 msgid "Ravaged Capital — Central Passage"
-msgstr ""
+msgstr "박살난 수도 - 중앙 통로"
 
 #. Mechanics/Blueprints/World/Areas/C71_TheCursedKing/FinalDungeon2/FinalDungeon2_AreaName
 msgctxt "fb55319f-fae4-4ebe-aebf-f6b7e47c5c4b"
@@ -1412,26 +1396,22 @@ msgstr "부서진 알현실"
 #. Mechanics/Blueprints/World/Areas/C71_TheCursedKing/FinalDungeon_Arena/EnterPoints/FinalDungeon_Arena_Enter_m_Tooltip
 msgctxt "1e012599-9bd5-469c-ab31-6d827a218a2f"
 msgid "Ruined Throne Room"
-msgstr ""
+msgstr "부서진 알현실"
 
 #. Mechanics/Blueprints/World/Areas/C71_TheCursedKing/FinalDungeon_ExIndoor1/FinalDungeon_ExIndoor1_AreaName
-#, fuzzy
-#| msgid "Underground Passage"
 msgctxt "702ec189-cd33-4b1a-9948-fdddc38fdfc7"
 msgid "Ruined Tavern"
-msgstr "지하 통로"
+msgstr "박살난 선술집"
 
 #. Mechanics/Blueprints/World/Areas/C71_TheCursedKing/FinalDungeon_ExIndoor1/EnterPoints/FinalDungeon_ExIndoor1_Enter_m_Tooltip
 msgctxt "4b89d7b6-7b42-43eb-809b-911997eebcb4"
 msgid "Ruined Tavern"
-msgstr ""
+msgstr "박살난 선술집"
 
 #. Mechanics/Blueprints/World/Areas/C71_TheCursedKing/FinalDungeon_ExIndoor2/FinalDungeon_ExIndoor2_AreaName
-#, fuzzy
-#| msgid "Ruined Tavern"
 msgctxt "5770933b-81bf-45b0-b869-9293a18a64de"
 msgid "Underground Passage"
-msgstr "부서진 선술집"
+msgstr "지하 통로"
 
 #. Mechanics/Blueprints/World/Areas/C71_TheCursedKing/FinalDungeon_Indoor/FinalDungeon_Indoor_AreaName
 msgctxt "a1b4aad6-daa8-46d8-866f-807ace01f399"
@@ -1492,158 +1472,158 @@ msgstr "폭포로"
 #. Mechanics/Blueprints/World/Areas/DLC2/CultistsVillage_cave/CultistsVillage_cave_AreaName
 msgctxt "544c623e-89d4-4946-8b4c-50b0b1a03ba8"
 msgid "Cultists' Shrine"
-msgstr ""
+msgstr "사교도의 성소"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/CultistsVillage_cave/EnterPoints/CultistsVillage_cave_Enter_m_Tooltip
 msgctxt "e2ff6f16-3b85-4a2b-837f-520cc6f5d650"
 msgid "To the Cultists' Shrine"
-msgstr ""
+msgstr "사교도의 성소로"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/LostlarnKeep_Level1/LostlarnKeep_Level1_AreaName
 msgctxt "bed16e97-5425-480a-9605-16d66eed24a3"
 msgid "Lostlarn Keep — Upper Reaches"
-msgstr ""
+msgstr "로스틀란 성채 — 상부로"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/LostlarnKeep_Level1/EnterPoints/LostlarnKeep_Level1_A1fromB1_m_Tooltip
 msgctxt "84fb5784-3d27-4d5a-9278-da33dc21e38d"
 msgid "To the upper level"
-msgstr ""
+msgstr "윗층으로"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/LostlarnKeep_Level1/EnterPoints/LostlarnKeep_Level1_B1fromA1_m_Tooltip
 msgctxt "0c247e44-d31d-4596-8912-4b8ddaad0f75"
 msgid "To the lower level"
-msgstr ""
+msgstr "아래층으로"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/LostlarnKeep_Level1/EnterPoints/LostlarnKeep_Level1_B1fromC1_m_Tooltip
 msgctxt "58dd092f-b707-49f7-8e48-8d8561323dcb"
 msgid "To the lower level"
-msgstr ""
+msgstr "아래층으로"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/LostlarnKeep_Level1/EnterPoints/LostlarnKeep_Level1_C1fromB1_m_Tooltip
 msgctxt "e0214ced-1ab3-41e4-9e20-0d191388a24f"
 msgid "To the upper level"
-msgstr ""
+msgstr "윗층으로"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/LostlarnKeep_Level1/EnterPoints/LostlarnKeep_Level1_C1fromE1_m_Tooltip
 #. Mechanics/Blueprints/World/Areas/DLC2/LostlarnKeep_Level1/EnterPoints/LostlarnKeep_Level1_C1fromE1_Tooltip_String
 msgctxt "f5119616-f359-4967-8906-fdb700d09241"
 msgid "Into the portal"
-msgstr ""
+msgstr "차원문으로"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/LostlarnKeep_Level1/EnterPoints/LostlarnKeep_Level1_C1fromLevel2_m_Tooltip
 msgctxt "b6a2f8d4-43c7-4b26-9acb-3c250de040d1"
 msgid "Into the portal"
-msgstr ""
+msgstr "차원문으로"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/LostlarnKeep_Level1/EnterPoints/LostlarnKeep_Level1_C1fromLevel2_Portal_m_Tooltip
 msgctxt "dac1c2bb-d2fa-460e-ba7c-fc68d9d9bae3"
 msgid "Into the portal"
-msgstr ""
+msgstr "차원문으로"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/LostlarnKeep_Level1/EnterPoints/LostlarnKeep_Level1_D1fromLevel2_m_Tooltip
 msgctxt "1aac9a4f-4d58-4e67-bb19-86a9d213bcc8"
 msgid "Into the portal"
-msgstr ""
+msgstr "차원문으로"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/LostlarnKeep_Level1/EnterPoints/LostlarnKeep_Level1_E1fromC1_m_Tooltip
 msgctxt "ccbdc2e3-1cc3-4bdb-83bf-dfc06c011436"
 msgid "Into the portal"
-msgstr ""
+msgstr "차원문으로"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/LostlarnKeep_Level1/EnterPoints/LostlarnKeep_Level1_Enter_m_Tooltip
 msgctxt "653fc10d-57ab-4be2-bfb2-12d39b6c8c8d"
 msgid "Into the dungeon"
-msgstr ""
+msgstr "지하로"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/LostlarnKeep_Level2/LostlarnKeep_Level2_AreaName
 msgctxt "41ef9efa-0d6b-4174-b58b-1e2c7fc0e19f"
 msgid "Lostlarnkeep — the Depths"
-msgstr ""
+msgstr "로스틀란 성채 — 깊은 곳"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/LostlarnKeep_Level2/EnterPoints/LostlarnKeep_Level2_FWPart_FromLevel2_m_Tooltip
 msgctxt "f1f0fafc-f7cf-40f8-ac0f-e2af6acf57f1"
 msgid "Upstairs"
-msgstr ""
+msgstr "위층"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/LostlarnKeep_Level2/EnterPoints/LostlarnKeep_Level2_Level1_FromOutside_m_Tooltip
 msgctxt "9f575911-0d9a-4e71-8261-cd566e27626a"
 msgid "Into the tower"
-msgstr ""
+msgstr "탑으로"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/LostlarnKeep_Level2/EnterPoints/LostlarnKeep_Level2_MainEntrance_m_Tooltip
 msgctxt "a5031dec-c309-4c62-b843-f0234f7a631a"
 msgid "To the lower level"
-msgstr ""
+msgstr "아래층으로"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/LostlarnKeep_Level2/EnterPoints/LostlarnKeep_Level2_NearTower_FromLevel1_m_Tooltip
 msgctxt "6637754c-6954-4068-8f86-de406c8c797e"
 msgid "Into the caves"
-msgstr ""
+msgstr "동굴로"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/LostlarnKeep_Level2/EnterPoints/LostlarnKeep_Level2_TowerLevel1_FromLevel2_m_Tooltip
 msgctxt "492f3973-538b-4abe-a09b-87698d7bfd77"
 msgid "Downstairs"
-msgstr ""
+msgstr "아래층"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/LostlarnKeep_Level2/EnterPoints/LostlarnKeep_Level2_TowerLevel2_FromFWPart_m_Tooltip
 msgctxt "3b3370f4-3618-471c-be26-5ec45003711e"
 msgid "Downstairs"
-msgstr ""
+msgstr "아래층"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/LostlarnKeep_Level2/EnterPoints/LostlarnKeep_Level2_TowerLevel2_FromLevel1_m_Tooltip
 msgctxt "01060ab8-8dd9-4eab-8d67-97d509d1ec89"
 msgid "Upstairs"
-msgstr ""
+msgstr "위층"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/LostlarnKeep_Return/LostlarnKeep_Return_AreaName
 msgctxt "db90e8a4-196f-4166-9441-26e3e207da09"
 msgid "Lostlarn Keep"
-msgstr ""
+msgstr "로스틀란 성채"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/NomenTribe/NomenTribe_OpenSezame_DisplayName_String
 msgctxt "15134d75-67ea-4423-8bf7-4e99d79cd2d1"
 msgid "[Open the gates]"
-msgstr ""
+msgstr "[문을 연다]"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/VarnholdDLC2/EnterPoints/VarnholdDLC2_FromSecondFloor_m_Tooltip
 msgctxt "7f86620c-3ab2-4cf3-a584-4d71ecb9f35e"
 msgid "Downstairs"
-msgstr ""
+msgstr "아래층"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/VarnholdDLC2/EnterPoints/VarnholdDLC2_FromTavern_m_Tooltip
 msgctxt "cbd846fe-4f4d-4cb7-aff8-98674219c1a4"
 msgid "Outside"
-msgstr ""
+msgstr "외부"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/VarnholdDLC2/EnterPoints/VarnholdDLC2_FromThroneRoom_m_Tooltip
 msgctxt "dea20b1c-e8a7-4868-b1f8-02f29ec661b2"
 msgid "Outside"
-msgstr ""
+msgstr "외부"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/VarnholdDLC2/EnterPoints/VarnholdDLC2_ToSecondFloor_m_Tooltip
 msgctxt "27d769a8-75f1-4694-9180-14c8083b7b57"
 msgid "Upstairs"
-msgstr ""
+msgstr "위층"
 
 #. Mechanics/Blueprints/World/Areas/DLC2/VarnholdDLC2/EnterPoints/VarnholdDLC2_ToTavern_m_Tooltip
 msgctxt "799de55b-3aab-4404-ac7c-2463ec601653"
 msgid "Into the tavern"
-msgstr ""
+msgstr "선술집으로"
 
 #. Mechanics/Blueprints/World/Areas/DLC3/New_Taldor_DungeonCampaign_11_EnterBack_Tooltip_String
 msgctxt "b55b5ca2-536b-4a64-9088-8c9e7c931b86"
 msgid "Way Up"
-msgstr ""
+msgstr "위로"
 
 #. Mechanics/Blueprints/World/Areas/DLC3/New_Taldor_DungeonCampaign_11_Enter_Tooltip_String
 msgctxt "c48e3795-98c8-4069-b970-d8c709ebe560"
 msgid "Way Down"
-msgstr ""
+msgstr "아래로"
 
 #. Mechanics/Blueprints/World/Areas/DLC3/RoguelikeAreas/EnterPoints/MapExit_RestartAdventure_EP_Tooltip_String
 msgctxt "b6e8e3b7-72b0-4c5f-9be6-385c83f1ff9a"
 msgid "Retire Your Character"
-msgstr ""
+msgstr "캐릭터 은퇴하기"
 
 #. Mechanics/Blueprints/World/Areas/DLC3/RoguelikeAreas/EnterPoints/MapExit_RestartAdventure_Text_String
 msgctxt "4e91e42f-0c45-4bc2-a18c-a32a54e80cde"
@@ -1651,6 +1631,10 @@ msgid ""
 "There's always only one Lost Hero enemy in every dungeon. If you have already defeated one of those, then to advance the story, retire your current character and begin anew. The silver dragon and the Honest Guy will carry over the number of items they can sell you, and you'll be able to choose a boon for your next playthrough.\n"
 "Do you wish to retire your character?"
 msgstr ""
+"잃어버린 영웅은 각 던전에 한 명밖에 없습니다. 이미 잃어버린 영웅을 물리쳤다면, 현재의 캐릭터를 은퇴시키고 새 게임을 시작해야 이야기를 "
+"더 진행하실 수 있습니다. 실버 드래곤과 정직한 사내의 상품 재고의 수가 계승되고, 다음 플레이에 적용될 혜택을 고를 수 있습니다.\n"
+"캐릭터를 은퇴시키려면 도로를 따라 어둠의 유적을 떠나면 됩니다.\n"
+"캐릭터를 은퇴시키시겠습니까?"
 
 #. Mechanics/Blueprints/World/Areas/KingdomAsCompanion/ColdDiplomacy/ColdDiplomacy_AreaName
 msgctxt "4e146ad1-d890-4c8e-a2d1-30893b2350ca"
@@ -1960,9 +1944,9 @@ msgid ""
 " land of Qadira. But she will not share her secret with anyone except our "
 "leader..."
 msgstr ""
-"우리 새 친구의 이름은 카에시인데, 그녀는 정말 신비로워요! 어떤 때는 아주 괜찮다가도, 어떤 때는 냉혹하고 냉소적이에요! 분명 뭔가 "
-"숨기는 게 있을 것이고, 뭔가 거대한 어둠 때문에 고향 카디라에서 도망쳤을 거에요. 하지만 카에시는 대장 말고는 아무에게도 비밀을 "
-"공유하지 않으려 해요..."
+"우리 새 친구의 이름은 카에시인데, 아주 수상한 여자에요! 어떤 때는 정말 친절하다가도, 어떤 때는 냉혹하고 냉소적이에요! 분명 숨기고 "
+"있는게 있어요. 뭔가 엄청난 어둠이 그녀를 고향 카디라에서 도망치게 했을 거에요. 하지만 카에시는 대장 말고는 아무에게도 비밀을 공유하지 "
+"않으려 해요..."
 
 #. Mechanics/Blueprints/World/CompanionTexts/1DLC/TieflingTwinsCompanionStory_Title_String
 msgctxt "f23caa1c-22db-477a-bf39-7094f2bf500b"
@@ -1981,11 +1965,16 @@ msgid ""
 "together through thick and thin, but will they be able to remain true to "
 "their union, now that it is being tested by power?"
 msgstr ""
+"케팔 로렌투스는 경험 많은 위저드이자 반링 호스트의 공동 창립자에요. 그는 반 남작의 조언자이자 물러서지 않는 비판자로 복무하고 있죠. "
+"솔직히 그는 음침한 사람이에요. 그 사람은 쳐다보는 것만으로 사람을 공처럼 둘둘 말아버릴거 같다니깐요! 그게 아니더라도 최소한 그 자리를 "
+"빨리 뜨고 싶게 만들죠. 저처럼 숙련된 모험가도 그 사람 앞을 함부로 지나다니지 못하겠어요. 케팔은 자기가 젊고 무모한 반 남작보다는 "
+"정치에 대해 더 많이 안다고 생각하나봐요. 두 사람은 우여곡절을 겪으며 함께 해왔지만, 이제 권력의 시험에 들게 된 그들이 진정한 우정을 "
+"유지할 수 있을까요?"
 
 #. Mechanics/Blueprints/World/CompanionTexts/2DLC/CompanionStory_DLC2_Cephal_Title
 msgctxt "6b11d807-187f-4eb0-b318-77359f015a1e"
 msgid "A Bitter Friend"
-msgstr ""
+msgstr "지긋지긋한 친구"
 
 #. Mechanics/Blueprints/World/CompanionTexts/2DLC/CompanionStory_DLC2_Varn_Description
 msgctxt "9a84c601-244a-49f5-af36-3d9ccb7eee55"
@@ -1999,11 +1988,15 @@ msgid ""
 "opportunities. But will he become a ruler or remain a reckless mercenary "
 "captain?"
 msgstr ""
+"귀족 가문의 막내 아들로, 수많은 형들이 길게 늘어선 계승 순위의 끝자락에 있는 메이가르 반은 혈통의 권리로는 결코 받을 수 없는 것을 "
+"힘으로 쟁취하는 법을 익혔어요. 아직 젊었을 때도 그는 불과 검으로 반링 호스트라는 이름의 용병단을 이끌었죠. 수십 년간 영광스러운 "
+"위업을 남긴 끝에 그는 자만디 알도리에게 남작이라는 칭호를 받았어요. 반홀드의 새로운 통치자로서, 새로운 문제와 기회를 마주하게 된거죠. "
+"그가 통치자로 거듭날 수 있을까요? 아니면 무모한 용병대장으로 남을까요?"
 
 #. Mechanics/Blueprints/World/CompanionTexts/2DLC/CompanionStory_DLC2_Varn_Title
 msgctxt "db5824fe-eac9-49aa-af6c-1509596c5c59"
 msgid "By Right of the Sword"
-msgstr ""
+msgstr "검으로 쟁취한 권리"
 
 #. Mechanics/Blueprints/World/CompanionTexts/Amiri/AmiriCompanionStory_Description
 msgctxt "9872477b-540d-4021-ad5b-fad7b1ef7c77"
@@ -2325,14 +2318,6 @@ msgid "Reveal my Destiny"
 msgstr "내 운명을 밝혀다오"
 
 #. Mechanics/Blueprints/World/CompanionTexts/Jaethal/JaethalCompanionStory_Description
-#, fuzzy
-#| msgid ""
-#| "Jaethal is an elf from Kyonin, one who is not quite... alive. The elves "
-#| "exiled her from their kingdom for her terrible deeds. Her search for a new "
-#| "home and a new patron has brought her to our leader's banner. She pays "
-#| "little heed to her companions, and when she does, she behaves as if she's "
-#| "ready to bite their heads off! She gives me creeps. Let's hope our enemies "
-#| "are just as frightened!"
 msgctxt "d327028e-3048-4756-8a2e-71542dbe40a4"
 msgid ""
 "Jaethal is an elf from Kyonin, one who is not quite... alive. The elves "
@@ -2342,8 +2327,8 @@ msgid ""
 "ready to bite their heads off! She gives me the creeps. Let's hope our "
 "enemies are just as frightened!"
 msgstr ""
-"제이탈은 쿄닌에서 온 엘프인데 엄밀히 말하면 살아있는 사람이라곤 할 수 없어요. 엘프들이 그녀가 저지른 끔찍한 일 때문에 그녀를 왕국에서"
-" 추방했다네요. 그녀는 새 집과 새 후원자를 찾던 중 대장의 곁에 머무르게 되었어요. 그녀는 다른 동료들한테 별로 신경을 안 쓰는 것 "
+"제이탈은 쿄닌에서 온 엘프인데 엄밀히 말하면 살아있는 사람이라곤 할 수 없어요. 엘프들이 그녀가 저지른 끔찍한 일 때문에 그녀를 왕국에서 "
+"추방했다네요. 그녀는 새 집과 새 후원자를 찾던 중 대장의 곁에 머무르게 되었어요. 그녀는 다른 동료들한테 별로 신경을 안 쓰는 것 "
 "같아요. 그리고 신경을 쓸 때면 마치 우리 머리를 물어뜯을 것 마냥 행동하죠! 사실 좀 무서워요. 우리 적들도 그러길 빌자구요!"
 
 #. Mechanics/Blueprints/World/CompanionTexts/Jaethal/JaethalCompanionStory_Title
@@ -2495,11 +2480,13 @@ msgid ""
 "victory. The mercenaries of the Varnling Host are friends whose bonds were "
 "forged by blood and tempered by steel."
 msgstr ""
+"반링 호스트는 유명한 정예 용병단입니다. 수많은 군사 작전의 영웅으로서 완패를 완승으로 뒤집을 수 있는 능력이 있습니다. 반링호스트 "
+"용병들은 피로 재련하고 강철로 담금질한 유대를 나눈 친구들입니다."
 
 #. Mechanics/Blueprints/World/CompanionTexts/Mercenary/MercenaryStoryFemaleDLC2_Title
 msgctxt "cc42e63e-fd8e-4531-b206-ae080c16695a"
 msgid "Varnling Host Mercenary"
-msgstr ""
+msgstr "반링 호스트 용병"
 
 #. Mechanics/Blueprints/World/CompanionTexts/Mercenary/MercenaryStoryFemale_Description
 msgctxt "8f6a9033-5512-488e-8146-ca85b77ce2ed"
@@ -2509,11 +2496,14 @@ msgid ""
 "battle. In any case, a mercenary is a dependable sellsword able to provide "
 "help in battling the many dangers of the Stolen Lands."
 msgstr ""
+"용병은 골라리온에서 흔히 볼 수 있습니다. 어떤 사람들은 세계를 여행하며 인생에 있어 중요한 무언가를 찾기 위해 용병이 되고, 어떤 "
+"사람들은 물욕이나 전투의 스릴을 좇아 용병이 됩니다. 어쨌든 용병은 도둑맞은 땅의 많은 위험과 싸우는 데 도움을 줄 수 있는 믿을 만한 "
+"고용인입니다."
 
 #. Mechanics/Blueprints/World/CompanionTexts/Mercenary/MercenaryStoryFemale_Title
 msgctxt "b4f54522-14e2-46a0-b4ca-33c575c45afe"
 msgid "Mercenary"
-msgstr ""
+msgstr "용병"
 
 #. Mechanics/Blueprints/World/CompanionTexts/Mercenary/MercenaryStoryMaleDLC2_Description
 msgctxt "298f9c1a-590c-461c-a893-d7ad3a755611"
@@ -2523,11 +2513,13 @@ msgid ""
 "victory. The mercenaries of the Varnling Host are friends whose bonds were "
 "forged by blood and tempered by steel."
 msgstr ""
+"반링 호스트는 유명한 정예 용병단입니다. 수많은 군사 작전의 영웅으로서 완패를 완승으로 뒤집을 수 있는 능력이 있습니다. 반링호스트 "
+"용병들은 피로 재련하고 강철로 담금질한 유대를 나눈 친구들입니다."
 
 #. Mechanics/Blueprints/World/CompanionTexts/Mercenary/MercenaryStoryMaleDLC2_Title
 msgctxt "26d216b1-6aec-4d99-a3cb-745d0623fb99"
 msgid "Varnling Host Mercenary"
-msgstr ""
+msgstr "반링 호스트 용병"
 
 #. Mechanics/Blueprints/World/CompanionTexts/Mercenary/MercenaryStoryMale_Description
 msgctxt "8b8cf47c-e0d5-4404-ae5c-2079cc51992a"
@@ -2537,11 +2529,14 @@ msgid ""
 "battle. In any case, a mercenary is a dependable sellsword able to provide "
 "help in battling the many dangers of the Stolen Lands."
 msgstr ""
+"용병은 골라리온에서 흔히 볼 수 있습니다. 어떤 사람들은 세계를 여행하며 인생에 있어 중요한 무언가를 찾기 위해 용병이 되고, 어떤 "
+"사람들은 물욕이나 전투의 스릴을 좇아 용병이 됩니다. 어쨌든 용병은 도둑맞은 땅의 많은 위험과 싸우는 데 도움을 줄 수 있는 믿을 만한 "
+"고용인입니다."
 
 #. Mechanics/Blueprints/World/CompanionTexts/Mercenary/MercenaryStoryMale_Title
 msgctxt "7dacce15-7983-4546-9765-65f051a71857"
 msgid "Mercenary"
-msgstr ""
+msgstr "용병"
 
 #. Mechanics/Blueprints/World/CompanionTexts/NokNok/NokNokCompanionStory_Description
 msgctxt "e691b130-1bde-4de0-9f58-9417641c85c5"
@@ -2577,14 +2572,6 @@ msgid "Leader of His People"
 msgstr "민족의 영도자"
 
 #. Mechanics/Blueprints/World/CompanionTexts/NokNok/Q2_NokNokCompanionStory_Description
-#, fuzzy
-#| msgid ""
-#| "To support his claim of being Lamashtu's Chosen, Nok-Nok and his goblin "
-#| "subjects erected shrines in her name right outside the capitol. This moment "
-#| "of triumph was only marred by the scared capitol guards who tried to tear "
-#| "the shrines down. Perhaps, some people (me included) should learn to accept "
-#| "the faith off all {name}'s subjects. But... I mean... Lamashtu? Really? No "
-#| "way!"
 msgctxt "1a32200d-287a-414c-9221-d51923a55426"
 msgid ""
 "To support his claim of being Lamashtu's Chosen, Nok-Nok and his goblin "
@@ -3225,12 +3212,12 @@ msgctxt "c121269d-8cad-4a19-8f9a-334868bbf2cb"
 msgid ""
 "Using the dimension door spell in this dungeon leads to unpredictable "
 "results."
-msgstr ""
+msgstr "이 던전에서 차원문 주문을 사용하는 것은 예측할 수 없는 결과를 낳습니다."
 
 #. Mechanics/Blueprints/World/Encounters/Areas/DLC2/LostlarnKeep_Level2/No_DimensionDoorInfoBuff_Name_String
 msgctxt "6b91ecd8-dd6e-44b6-b7f9-b5855914039b"
 msgid "Astral Barrier"
-msgstr ""
+msgstr "아스트라 방벽"
 
 #. Mechanics/Blueprints/World/Encounters/CapitalThroneRoom/Buffs/EkunCrippledBuff_m_Description
 msgctxt "7f8db998-280c-4f92-bae6-6b94952fb203"
@@ -3396,10 +3383,6 @@ msgid "{name}"
 msgstr "{name}"
 
 #. Mechanics/Blueprints/World/Encounters/FinalDungeon/Buffs/LamashtuStrong_m_Description
-#, fuzzy
-#| msgid ""
-#| "You received Tsanna's blessing and with it — Lamashtu's benediction. You "
-#| "gain a +2 natural armor bonus and +4 to Constitution."
 msgctxt "294fc635-9349-4dc4-bed5-7df1006344a3"
 msgid ""
 "You have received Tsanna's blessing, and with it, Lamashtu's benediction. "
@@ -3412,10 +3395,6 @@ msgid "Blessing of Lamashtu"
 msgstr "라마쉬투의 축복"
 
 #. Mechanics/Blueprints/World/Encounters/FinalDungeon/Buffs/LamashtuWeak_m_Description
-#, fuzzy
-#| msgid ""
-#| "You received Tsanna's blessing and with it — a fraction of Lamashtu's "
-#| "benediction. You gain a +1 natural armor bonus and +2 to Constitution."
 msgctxt "0c1e7da8-e7a1-4702-935f-7bf4c2a6effc"
 msgid ""
 "You have received Tsanna's blessing, and with it, a touch of Lamashtu's "
@@ -3428,23 +3407,16 @@ msgid "Touch of Lamashtu"
 msgstr "라마쉬투의 손길"
 
 #. Mechanics/Blueprints/World/Encounters/FinalDungeon/Buffs/LanternKingBuff_m_Description
-#, fuzzy
-#| msgid ""
-#| "You have played with words against the Lantern King — and won! You gain +4 "
-#| "sacred bonus on Fortitude, Reflex and Will saves."
 msgctxt "f54a14ec-c6a2-44d8-8925-f775ca54ce21"
 msgid ""
 "You have played a game of words against the Lantern King – and won! You gain"
 " a +4 sacred bonus on Fortitude, Reflex and Will saves."
-msgstr ""
-"당신은 등불의 왕(Lantern King)과 말장난을 하였고 이겼습니다! 당신은 인내, 반사, 의지 내성에 +4 신성 보너스를 얻습니다."
+msgstr "당신은 등불왕과 말장난을 해서 이겼습니다! 당신은 인내, 반사, 의지 내성에 +4 신성 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/World/Encounters/FinalDungeon/Buffs/LanternKingBuff_m_DisplayName
-#, fuzzy
-#| msgid "Champion in Game of Words"
 msgctxt "5a20c4a4-2961-41de-b8a2-98439586eac8"
 msgid "Champion in the Game of Words"
-msgstr "언어유희의 챔피온"
+msgstr "말장난의 챔피언"
 
 #. Mechanics/Blueprints/World/Encounters/HouseAtTheEdgeOfTime/DC_Buff_New_Description_String
 msgctxt "8a10450c-3fe5-4567-85bb-2d0665806556"
@@ -3633,7 +3605,7 @@ msgid ""
 " you can't be both a great hero{mf||ine} and a successful ruler at the same "
 "time — or the hero{mf||ine} of this story couldn't, at least."
 msgstr ""
-"슬프게도 셀 수 없을 만큼의 불운이 {mf|왕|여왕}에게 쏟아져 도둑맞은 땅에 대가를 치르게 했어요. 운에 맞긴 문제들과 방치된 국정은 "
+"슬프게도 셀 수 없을 만큼의 불운이 {mf|왕|여왕}에게 쏟아져 도둑맞은 땅에 대가를 치르게 했어요. 운에 맡긴 문제들과 방치된 국정은 "
 "도둑맞은 땅이 여전히 무법의 땅이라는 것을 의미했죠. 당신이 위대한 영웅이면서 동시에 성공적인 통치자가 될 수 없다는 것이 드러났어요. "
 "그게 아니라면 적어도 이 이야기의 주인공은 그럴 수 없었던 거죠."
 
@@ -3702,6 +3674,9 @@ msgid ""
 "alphabet! Since then, Galt hasn't risked crossing any borders again, fearing"
 " cruel retaliation for further insolence."
 msgstr ""
+"태초 세계와의 전쟁이 끝난 지 반년 만에 갈트가 왕국 남쪽 국경으로 군대를 보냈지만, 그 공격은 좌절되었어요. 적군은 글보다 칼을 잘쓰는 "
+"{d|Kingdom Might}병사{/d}들의 상대가 되지 않았거든요! 그 이후로, 갈트는 더 이상 오만하게 굴었다가 잔인하게 응징 "
+"당할까봐 두려워하며 다시는 국경을 넘는 모험을 하지 않았답니다."
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0037_Text
 msgctxt "28d0daca-7934-487b-802d-465aeca5aef8"
@@ -3713,6 +3688,9 @@ msgid ""
 "flabbergasted enemy soldiers! Since then, Galt hasn't risked crossing any "
 "borders again, fearing cruel retaliation for further insolence."
 msgstr ""
+"태초 세계와의 전쟁이 끝난 지 반년 만에 갈트가 왕국 남쪽 국경으로 군대를 보냈지만, 그 공격은 좌절되었어요. 적군은 {d|Kingdom "
+"Magic}위저드{/d}들이 머리에 화염과 마법 화살의 소나기를 쏟아내자 깜짝 놀라서 줄행랑을 쳤거든요! 그 이후로, 갈트는 더 이상 "
+"오만하게 굴었다가 잔인하게 응징 당할까봐 두려워하며 다시는 국경을 넘는 모험을 하지 않았답니다."
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0040_Text
 msgctxt "58961764-8555-4c40-b726-bb6a62c3f8af"
@@ -3724,6 +3702,9 @@ msgid ""
 "neighboring states snickered at the {mf|king|queen}'s \"incorruptible "
 "government.\""
 msgstr ""
+"{mf|왕|여왕}과 재무관의 노력 덕분에 왕국의 국고는 적절하게 채워지고 있었어요. {d|Kingdom Official}보좌관들{/d}이 "
+"몇 년간 세금을 횡령했다는 추문이 터지기 전까지는 말이죠! 이 시끄러운 사건의 소식이 지역 곳곳에 퍼졌고, 꽤 오랜 시간 동안 이웃 "
+"나라들이 {mf|왕|여왕}의 \"청렴결백한 정부\"를 비웃어 댔어요."
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0041_Text
 msgctxt "88404ce0-c5eb-4ca2-bb61-8190fe6ba9b1"
@@ -3735,6 +3716,9 @@ msgid ""
 "throne room's adornments are clearly decaying, but sometimes you have to buy"
 " the people's love — literally!"
 msgstr ""
+"{mf|왕|여왕}의 백성들은 {mf|그의|그녀의} {d|Kingdom People}관대함을{/d} 찬양했어요. 이웃 나라의 시민들은 "
+"혹세에 신음하고 있지만, 도둑맞은 땅의 세금은 꽤 괜찮거든요! 솔직히 말해 재무부가 왕실 청구서를 항상 제대로 지불하고 있지는 않아요. "
+"알현실의 장식들이 다 썩고 있는 지경이거든요. 하지만 때로는 사람들의 환심을 살 필요도 있는 법이에요. 돈으로 말이죠!"
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0044_Text
 msgctxt "7cf5a726-06b9-4e97-88bc-a399f9f6f0ff"
@@ -3745,6 +3729,9 @@ msgid ""
 " locals are a bit overzealous about the \"religious purity\" of their "
 "homeland."
 msgstr ""
+"세월이 지나면서, 도둑맞은 땅은 생소하고 규모가 작은 종교 집단은 줄어들고 {d|Kingdom Religion "
+"Control}유명하고{/d} 강력한 신들에게 바치는 신전이 늘어났어요. 반쯤 잊혀진 종교의 신도는 이곳을 피하곤 하는데, 현지인들이 "
+"조국의 \"종교적 순수성\"에 대해 다소 지나치게 열성적이기 때문이죠."
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0045_Text
 msgctxt "bbc1239e-cfe3-4a85-8929-d22b0efa4cd9"
@@ -3756,6 +3743,9 @@ msgid ""
 "could only hope the guards had enough power to keep the rage of the fanatics"
 " at bay..."
 msgstr ""
+"{mf|왕|여왕}은 {mf|그의|그녀의} 백성들의 종교 생활을 {d|Kingdom Religion Liberty}내버려 두기로{/d} "
+"결정했어요. 그래서 소규모 종교 집단과 종파가 도둑맞은 땅에 만발하였죠. 그러다 종교적 논쟁과 신도간의 갈등이 점점 난투극으로 "
+"변해갔어요. 경비대가 광신도들의 분노를 통제할 힘이 있기를 바랄 뿐이에요..."
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0048_Text
 msgctxt "432bb83b-be64-463b-959a-3910b1c1ba73"
@@ -3767,6 +3757,9 @@ msgid ""
 "solve their own problems and {d|Kingdom Isolation}stay out{/d} of external "
 "affairs."
 msgstr ""
+"도둑맞은 땅의 시민들은 그 고난을 겪고 나서 진정한 애국자가 되었어요. 이방인은 배척하고, 조국을 위해서는 죽을 각오로 싸울 준비가 되어 "
+"있죠. 외국 대사들은 왕국의 시민들이 국내 문제는 스스로 해결하고 외부 문제는 {d|Kingdom Isolation}내버려 두기{/d}를 "
+"원한다는 것을 잘 알고 있기에, 이 땅으로의 초대를 잘 받아주지 않는답니다."
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0049_Text
 msgctxt "8881e30b-a622-4279-852c-fde265cdf2c3"
@@ -3777,6 +3770,9 @@ msgid ""
 "proactive stance of this young, bold state, but the fact of the matter is "
 "they can't afford to ignore the {mf|king|queen} and {mf|his|her} diplomats."
 msgstr ""
+"모험가가 도둑맞은 땅에 세운 아주 작은 남작령이 {d|Kingdom Open}세계{/d}정치에서 두드러진 역할을 하는 진짜 왕국이 될 "
+"것이라고 누가 생각이나 했겠어요! 물론 모든 사람들이 이 젊고 대담한 나라의 적극적인 자세를 좋아하는 것은 아니지만, 중요한 사실은 그런 "
+"사람들도 {mf|왕|여왕}과 {mf|그의|그녀의} 외교관을 무시할 형편은 못 된다는 거죠."
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0052_Text
 msgctxt "d56e5e3c-7098-499c-a31f-aaf87baebce3"
@@ -3787,6 +3783,9 @@ msgid ""
 "aren't so thrilled — they have to deal with the consequences of careless "
 "experiments and failed magical tests!"
 msgstr ""
+"왕국은 마법 기술의 발전에 있어 놀라운 {d|Kingdom Arcane Liberty}경지{/d}에 도달했어죠. 도둑맞은 땅에서 소서러, "
+"위저드 등 여타 마법 입문자들은 마치 사탕 가게에 있는 아이들 같은 기분을 느끼게 되죠. 슬프게도, 평범한 백성들에게는 그렇게 좋은 일이 "
+"아니에요. 부주의한 마법 실험의 결과를 감당해야 하는 사람은 바로 그들이기 때문이죠!"
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0053_Text
 msgctxt "f4d073d4-78c9-4516-a433-36dbd95b7a60"
@@ -3797,6 +3796,9 @@ msgid ""
 "end — the kingdom is reliably protected from any magical \"incidents\" that "
 "might be caused by unskilled wizards or nefarious infiltrators."
 msgstr ""
+"{mf|왕|여왕}은 마법의 사용을 {d|Kingdom Arcane Control}제한하는 게{/d} 평범한 시민들을 위한 최선의 "
+"선택이라고 생각했어요. 그 결정으로 브레보이의 저명인사들에게 잦은 비난을 받았지만, 결국 적어도 한 가지는 옳았다는 것을 입증했어요. "
+"왕국은 미숙한 위저드나 악의적인 침입자가 일으킬 수도 있는 마법 \"사고\"로부터 안정적으로 보호받고 있다는 걸 말이죠."
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0056_Text
 msgctxt "c3322739-e11c-429c-991c-a9211a8fdb02"
@@ -3807,6 +3809,9 @@ msgid ""
 "{d|Kingdom Source}interference{/d}\" advisors have in the citizens' lives, "
 "of course, but their protests are easily overlooked."
 msgstr ""
+"야만적이고 제멋대로인 도둑맞은 땅을 어떻게 안전과 안정의 보루로 만들 수 있을까요? {mf|왕|여왕}의 답은 경찰국가를 만드는 "
+"것이었어요! 물론 시민 생활에 보좌관들이 행하는 \"지나친 {d|Kingdom Source}간섭{/d}\"에 대해 불만을 가진 일부야 "
+"항상 있기는 하지만, 그런 시위는 무시당하기 일쑤인걸요."
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0057_Text
 msgctxt "33000ba9-80d7-4567-8252-e06d512c1c8f"
@@ -3818,6 +3823,9 @@ msgid ""
 " more leniency than anyone else, but the ordinary citizens, feeling safe and"
 " secure, prefer to just overlook the discrepancy."
 msgstr ""
+"야만적이고 제멋대로인 도둑맞은 땅을 어떻게 안전과 안정의 보루로 만들 수 있을까요? {mf|왕|여왕}의 답은 {d|Kingdom "
+"Defense}경비대{/d}의 수를 서너배로 늘리는 것이었죠! 물론 경비대가 스스로를 특권 계급으로 여기면서 다른 이들보다 훨씬 관대한 "
+"처분을 받고 있지만, 안전과 보안을 향유하는 일반 시민들은 이를 대수롭지 않게 여기고 있어요."
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0060_Text
 msgctxt "5579e2cb-7d8a-4629-859e-25eebb0b6cf1"
@@ -3827,6 +3835,8 @@ msgid ""
 "artistic works praising the ruler and {mf|his|her} wisdom! Unfortunately, "
 "these creations are significantly less popular outside the kingdom."
 msgstr ""
+"국가의 후한 {d|Kindom Culture Money}후원으로{/d}, 많은 바드, 음악가, 시인 및 그 외 셸린의 종들이 통치자와 "
+"{mf|그의|그녀의}의 지혜를 찬양하는 예술 작품을 쏟아내고 있답니다! 아쉽게도 이 작품들은 왕국 밖에서는 별로 인기가 없지만요."
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0061_Text
 msgctxt "b69a0ebe-3a5f-4960-bfca-ad4e224cb7e4"
@@ -3838,6 +3848,9 @@ msgid ""
 "talented soon left the \"edge of the world\" in search of a more worthwhile "
 "audience."
 msgstr ""
+"비록 국가가 직접 창작자를 {d|Kingdom Culture Liberty}지원하지는{/d} 않지만, 왕국이 보장하는 언론의 자유와 "
+"표현의 자유는 훔친 땅 전역의 수많은 재능들에게 결실의 밑거름이 되었어요. 많은 창작자들이 노력 끝에 실력을 인정 받고 명성을 얻었지만, "
+"최고의 재능들은 더 보람있는 관객을 찾아 곧 \"세계의 변방\"을 떠났답니다."
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0064_Text
 msgctxt "5ee71a45-142d-4029-9851-e223d9e58395"
@@ -3849,6 +3862,9 @@ msgid ""
 "interesting fruit, as other states decided they'd rather steer clear of a "
 "kingdom known for its ability to excel at shady games."
 msgstr ""
+"{mf|왕|여왕}의 다른 보좌관들에게도 여전히 그 업무가 수수께끼인 \"장관\"은 첩자의 음모 및 그 밖의 도발로부터 나라를 보호하는 "
+"일을 다뤘어요. 왕국의 {d|Kingdom Plotting}책략{/d}, 정치적 음모, 외교적 영향력은 흥미로운 결과를 낳았어요. 다른 "
+"나라들은 음지의 게임에 능하기로 유명한 이 왕국과는 차라리 거리를 두는 것이 낫겠다고 정했거든요."
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0065_Text
 msgctxt "791c0134-03b5-4d42-95ac-618cfc9e27bd"
@@ -3860,6 +3876,9 @@ msgid ""
 "investigators and inquisitors, who zealously persecute any enemies of the "
 "state!"
 msgstr ""
+"{mf|왕|여왕}의 다른 보좌관들에게도 임무를 숨기는 \"장관\"은 백성들이 밤에 편하게 잘 수 있도록 많은 일을 했답니다. 이는 대가 "
+"없이 이뤄낸 것은 아니었죠. 도둑맞은 땅 밖에서 왕국은 {d|Kingdom Violence}잔혹한{/d} 조사관과 심문관들이 국가의 적을 "
+"열성적으로 박해하는 것으로 유명하답니다!"
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0071_Text
 msgctxt "350e5590-d995-410b-8d50-925649c8470a"
@@ -3869,6 +3888,8 @@ msgid ""
 "area. Armor, weapons, even magical artifacts — and the collection is still "
 "growing!"
 msgstr ""
+"{mf|왕|여왕}은 고급 공예의 진정한 후원자가 되었어요. 시간이 흐르면서, 성의 금고는 지역 최고 장인들이 주는 멋진 선물들로 가득 "
+"찼습니다. 갑옷, 무기, 심지어 마법 유물에 이르기까지 아직도 소장품이 늘어나고 있답니다!"
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0072_Text
 msgctxt "ed67d7df-6532-4270-874e-5da6ddd6755b"
@@ -3880,6 +3901,9 @@ msgid ""
 " baronets became, the more eventful were the lives of the schemers and "
 "freeloaders who always live within the shadows of the powerful!"
 msgstr ""
+"어떤 왕국도 귀족 없이는 돌아가지 않는데, 도둑맞은 땅의 왕국이라고 예외는 아니었죠. {mf|왕|여왕}과 함께 기꺼이 통치의 짐을 "
+"나누겠노라던 지주들은 시간이 지나며 점점 영향력이 커져 갔습니다. 공작에서 준남작에 이르기까지 궁중 무도회와 환영회를 점점 더 화려하게 "
+"개최할수록, 항상 권력자의 그늘에서 살아온 책사와 식객들의 삶은 점점 더 파란만장하게 되었습니다!"
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0073_Text
 msgctxt "10fb8627-ebec-4a33-a96f-ac5a18f0aefe"
@@ -3891,6 +3915,9 @@ msgid ""
 "of an undead workforce, they actually supported it! After all, someone has "
 "to do the most dangerous, most unpleasant work!"
 msgstr ""
+"국가의 용역에 네크로맨시를 이용하는 것은 대담한, 다른 말로 막나가는 방안이죠! 파라즈마 교단은 악의 소굴을 정화하자며 도둑맞은 땅에 "
+"대규모 십자군을 보내려는 계획을 아직도 빈번하게 세우곤 합니다. 솔직히 이해가 가는 부분이지요. 하지만, 왕국의 시민들은 언데드 노동력을 "
+"사용하는 것을 허용했을 뿐만 아니라, 아예 지지하기까지 했어요! 아주 더럽고 위험한 일이라도 결국 누군가는 그 일을 해야 하니까요!"
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0080_Text
 msgctxt "b538fcfa-f4db-4104-ae3d-46713ce097db"
@@ -3902,6 +3929,9 @@ msgid ""
 " independence. The victory came at a high price, but we have no more loyal "
 "ally than once more free Rostland."
 msgstr ""
+"오랜 세월 숨죽여 온 브레보이의 남북 불화가 마침내 내전의 불씨를 지폈어요. 우리 군은 레스토프군을 {d|c41 Choose "
+"Aldori}도왔죠{/d}. 서토바 가문은 여러 번의 혈전 끝에 레스토프의 독립을 인정할 수밖에 없었답니다. 승리의 대가는 비쌌지만, "
+"일단 로스틀랜드를 해방시킨 이상 이보다 더 충직한 동맹은 없을 거에요."
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0081_Text
 msgctxt "b439c16f-a057-410c-a658-e507b363e4da"
@@ -3914,6 +3944,9 @@ msgid ""
 "central square — and for a long time, any hope of an independent Rostland "
 "died with her."
 msgstr ""
+"오랜 세월 숨죽여 온 브레보이의 남북 불화가 마침내 내전의 불씨를 지폈어요. 우리 군은 서토바군을 {d|c41 Choose "
+"Surtova}돕다가{/d}, 소드로드군에게 공격받아 끔찍한 손실을 입었죠. 반란은 곧 진압되었고, 자만디 알도리는 레스토프의 중앙 "
+"광장에서 참수되었습니다. 그 죽음으로 로스틀랜드 독립에 대한 희망도 오랜 시간 동안 사라지게 되었습니다."
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0082_Text
 msgctxt "d63bcb8f-54ee-4d19-8a30-effccfef9edf"
@@ -3926,6 +3959,10 @@ msgid ""
 "both House Surtova and the Swordlords are respectful, but they've become "
 "lukewarm — because of us, neither side got everything they wanted!"
 msgstr ""
+"오랜 세월 숨죽여 온 브레보이의 남북 불화가 마침내 내전의 불씨를 지폈어요. 많은 노력 끝에 {mf|왕|여왕}은 양쪽을 {d|c41 "
+"Brevoy Neutral}협상대에{/d} 세울 수 있었죠. 로스틀랜드는 독립을 되찾지 못했지만, 폭넓은 자치권을 받았어요. 서토바 "
+"가문이나 소드로드 가문은 아직 우리와의 관계를 존중하고 있지만, 좀 미적지근하게 되었어요. 우리 때문에 어느 쪽도 원하는 모든 것을 얻지 "
+"못했으니까요!"
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0083_Text
 msgctxt "22b93480-2d03-4217-9531-682edcef604c"
@@ -3939,6 +3976,10 @@ msgid ""
 "until they fell to squabbling among themselves. The butchery in Brevoy "
 "jeopardized the peace of the entire region."
 msgstr ""
+"오랜 세월 숨죽여 온 브레보이의 남북 불화가 마침내 내전의 불씨를 지폈어요. 우리는 {d|c41 Independence}개입하지 "
+"않고{/d}, 서토바군과 소드로드군이 서로를 학살하는 것을 지켜봤죠. 짧은 휴전 끝의 개전을 반복한 결과, 피가 강을 이루게 된 "
+"브레보이는 점점 약해졌어요. 양국의 지도자는 이웃 나라들이 국경 지대를 야금야금 합병하는 것을 속수무책으로 지켜볼 수 밖에 없었답니다. "
+"그 나라들이 자기들 끼리 싸우기 전까지는 말이죠. 브레보이의 학살은 지역 전체의 평화를 위태롭게 했어요."
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0085_Text
 msgctxt "55843c36-0259-4d48-95b1-a322106cf664"
@@ -3949,6 +3990,9 @@ msgid ""
 "proposed to celebrate the day he disappeared as a national holiday, but the "
 "initiative was shot down by the vigorous protests of House Lebeda!"
 msgstr ""
+"{d|c41 Lander Lives}재수없는 반역자{/d} 랜더 레베다는 조국의 긴장을 틈타 그새를 못참고 또 자신의 영역을 버리고 떠나 "
+"또다른 사기를 벌였어요! 우리 왕국은 그가 사라진 날을 브레보이와 함께 국경일로 기념하자고 제안했지만, 그 계획은 르베다 가의 격렬한 "
+"항의로 무산되었답니다!"
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0092_Text
 msgctxt "38fcb659-6fe7-43b9-ae07-b2267a20844a"
