@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-19 05:07+0000\n"
+"PO-Revision-Date: 2020-06-20 06:07+0000\n"
 "Last-Translator: Abraxas <netnk9151@hanmail.net>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
@@ -6763,6 +6763,7 @@ msgid ""
 "gained their full support. As soon as the enemy has been dealt with, peace "
 "will finally settle in."
 msgstr ""
+"장관은전쟁 중인 조직 중 하나를 비밀리에 도왔고, 그 조직의 지지를 얻는 데 성공했습니다. 적이 정리되기만 하면 평화가 찾아올 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced5/ShadowWar_Solutions.Entries.Array.data[9].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "d38f27da-67ac-47db-ba2f-f904589d2986"
@@ -6773,6 +6774,8 @@ msgid ""
 " money, submit them to {mf_Spymaster|his|her} will, and devastate "
 "{mf_Spymaster|his|her} former allies."
 msgstr ""
+"장관은 전쟁 중인 조직 중 하나에 비밀리에 도왔습니다. 이들의 경쟁자가 힘을 잃자 마자 장관은 그 경쟁자에게도 다가가 도움을 "
+"제안했습니다. 장관은 그 경쟁자로부터 돈을 받고, 경쟁 조직을 손아귀에 넣은 뒤 자신이 전에 도왔던 조직을 몰살시킵니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced5/Top
 #. secret_LocalizedDescription
@@ -6783,12 +6786,13 @@ msgid ""
 "{mf|baron's|baroness's|King's|Queen's} servants and advisors from "
 "{mf|his|her} enemies."
 msgstr ""
+"저명한 비전학자 하나가 {mf|남작|남작|왕|여왕}의 수하와 보좌관들의 대화를 적으로부터 숨길 수 있는 최신 마법 암호를 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced5/Top
 #. secret_LocalizedName
 msgctxt "270acca2-a469-403f-9444-4a16e1a48093"
 msgid "Top Secret"
-msgstr ""
+msgstr "일급 비밀"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced5/Top
 #. secret_Solutions.Entries.Array.data[3].Resolutions.Array.data[0].LocalizedDescription
@@ -6796,7 +6800,7 @@ msgctxt "b98e6cab-b909-4dff-ad03-5fd472ece4d3"
 msgid ""
 "The Treasurer bought the mage's ciphers at a high price, though they will be"
 " more than worth it in the long run."
-msgstr ""
+msgstr "재무관은 장기적인 안목에서 그 암호의 가치를 높게 여겨, 높은 가격으로 마법사로부터 구매합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced5/Top
 #. secret_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription
@@ -6807,6 +6811,8 @@ msgid ""
 "asked how {mf_Treasurer||s}he knew about the mage's passion for fishing, "
 "{mf_Treasurer||s}he just smiled…"
 msgstr ""
+"재무관은 마법사와 터스크워터에 있는 최고의 낚시 명소 중 한 곳으로 여행을 떠났고, 암호를 반값에 구매하는 데 성공했습니다! 어떻게 그 "
+"마법사가 낚시를 좋아하는지 물어보았지만, 재무관은 그저 웃음지을 뿐이었습니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced5/Top
 #. secret_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription
@@ -6814,7 +6820,7 @@ msgctxt "197dfee9-ee16-42ee-8120-1cc6d6371cbf"
 msgid ""
 "The Treasurer bargained like the devil, until the mage spat on the floor and"
 " flatly refused to sell the ciphers at all…"
-msgstr ""
+msgstr "재무관은 마치 악마처럼 흥정을 시도했고, 마법사는 마침내 바닥에 침을 뱉은 후 단호하게 암호를 판매하지 않겠다고 말 했습니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced5/Top
 #. secret_Solutions.Entries.Array.data[6].Resolutions.Array.data[0].LocalizedDescription
@@ -6852,12 +6858,14 @@ msgid ""
 "find new customers. It's the perfect time to reinforce our fleet with some "
 "state-of-the-art ships!"
 msgstr ""
+"압살롬의 유명한 두 부두인 데빌즈 오운과 시 킹 조선소에서 전면적인 무역 전쟁을 벌이고 있습니다. 후자 쪽에 새로운 고객이 없어 "
+"필사적으로 고객유치에 힘을 쓰고 있습니다. 최신 함선들로 우 리 함대를 증강할 완벽한 때입니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced5/Wind in the
 #. sails_LocalizedName
 msgctxt "207bc691-f8fe-4c80-9b70-c57446aea78f"
 msgid "Wind in the Sails"
-msgstr ""
+msgstr "돛에 부는 바람"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced5/Wind in the
 #. sails_Solutions.Entries.Array.data[4].Resolutions.Array.data[0].LocalizedDescription
@@ -6865,7 +6873,7 @@ msgctxt "e694d393-5bf4-4c51-89e0-ac1b7832ce65"
 msgid ""
 "The Grand Diplomat signed a contract with the Sea King, purchasing three "
 "fast trade ships."
-msgstr ""
+msgstr "수석 외교관은 시 킹 조선소와 계약을 체결해, 빠른 무역선 세 척을 구매합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced5/Wind in the
 #. sails_Solutions.Entries.Array.data[4].Resolutions.Array.data[1].LocalizedDescription
@@ -6875,6 +6883,8 @@ msgid ""
 " trade ships and a heavy warship! This has generated much enthusiasm among "
 "the capital's merchant classes."
 msgstr ""
+"수석 외교관은 시 킹 조선소와 계약을 체결해, 빠른 무역선 다섯 척과 중군함 한 척을 구매합니다! 이로 인해 수도 내 상인 계급들이 꽤나 "
+"열광하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced5/Wind in the
 #. sails_Solutions.Entries.Array.data[4].Resolutions.Array.data[2].LocalizedDescription
@@ -6885,6 +6895,8 @@ msgid ""
 "{mf_GrandDiplomat|his|her} ambassador with the funds necessary to complete "
 "the contract..."
 msgstr ""
+"{mf|남작|남작|왕|여왕}의 이웃 나라들이 대놓고 {mf|남작|남작|왕|여왕}의 무능한 보좌관을 조롱하고 있습니다! 수석 외교관이 "
+"사절에게 계약 체결을 위한 돈을 충분히 주는 걸 깜빡했습니다..."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced5/Wind in the
 #. sails_Solutions.Entries.Array.data[9].Resolutions.Array.data[0].LocalizedDescription
@@ -6919,11 +6931,13 @@ msgid ""
 "excellent war horses – but not through official channels. Can the Minister "
 "make such a deal?"
 msgstr ""
+"라스트월의 손버릇 나쁜 관리가 품질 좋은 군마 무리를 판매하려고 합니다. 다만 공식적인 판매 경로를 통하지 않고 말입니다. 장관이 거래를 "
+"해낼 수 있을까요?"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CavalryofLastwall_LocalizedName
 msgctxt "4dd67260-7281-45aa-a5b6-f3ac4b47893e"
 msgid "Lastwall's Cavalry"
-msgstr ""
+msgstr "라스트월의 기사"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CavalryofLastwall_Solutions.Entries.Array.data[9].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "6f9092ac-9be8-48e9-9dc7-b125bf62889e"
@@ -6932,6 +6946,8 @@ msgid ""
 "first letter, the administrator stopped replying, and Lastwall sent an angry"
 " notice of protest."
 msgstr ""
+"장관은 신중을 요하는 거래를 너무 단순무식하게 처리하려 했습니다. 첫 번재 편지 이후, 관리는 답변을 멈췄고 라스트월은 항의의 표시로 "
+"분노했다는 통보를 보냈습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CavalryofLastwall_Solutions.Entries.Array.data[9].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "befb2404-3b73-4e89-b32b-af0afc107433"
@@ -6940,6 +6956,8 @@ msgid ""
 "appreciation of the impressive honesty on display, he sent a generous: a "
 "herd of first-class horses."
 msgstr ""
+"장관은 라스트월의 군주에게 부패한 관리에 대해 보고했습니다. 인상적인 정직함을 보여준 것에 대한 감사의 표시로, 라스트월의 군주가 "
+"관대하게도 일등급 말 무리를 보내왔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CavalryofLastwall_Solutions.Entries.Array.data[9].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "8de32fd9-c6b5-449a-b170-2156b14268c0"
@@ -6950,6 +6968,9 @@ msgid ""
 "Lastwall arrived in the Stolen Lands to swear fealty to the "
 "{mf|baron|baroness|King|Queen}."
 msgstr ""
+"장관은 라스트월의 군주에게 부패한 관리에 대해 보고했습니다. 장관의 진실되고 직설적인 편지로 인해 라스트월의 궁성이 깊은 감명을 "
+"받았습니다. 그 일이 있은 후 얼마 지나지 않아, 라스트월에서 보낸 몇 명의 성기사들이 도둑맞은 땅에 도착해 {mf|남작|여남작|왕|여왕}"
+"에게 충성을 맹세하러 왔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CavalryofLastwall_Solutions.Entries.Array.data[9].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "588ae9b4-eda3-4923-b8ac-e6612d93a183"
@@ -6957,6 +6978,7 @@ msgid ""
 "The Minister was too stingy. The deal fell through, and the Minister kept "
 "mumbling something about a \"stinky miser and dirty cheat\"."
 msgstr ""
+"장관은 너무 인색했습니다. 거래는 성사되지 않았고, 장관은 계속해서 \"냄새나는 수전노의 더러운 사기행각\"에 대해 중얼거릴 뿐이었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CavalryofLastwall_Solutions.Entries.Array.data[9].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "20d250d4-bb47-4ae4-a246-53a3f2dac8a9"
@@ -6965,6 +6987,8 @@ msgid ""
 "taming the new horses. They have no fear of battle, and can trample any "
 "opponent in their way."
 msgstr ""
+"장관은 성공적으로 거래를 성사시켰습니다. 최고의 기수들이 이미 새 군마를 길들이고 있습니다. 이들은 전투에 대한 두려움이 없고, 그 앞에 "
+"서는 어떤 상대든 짓밟아버릴 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CavalryofLastwall_Solutions.Entries.Array.data[9].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "8c23e0bf-9902-4fed-a49a-504e68a2f16b"
@@ -6973,6 +6997,7 @@ msgid ""
 "administrator. It turns out there are many military goods at Lastwall that "
 "aren't being carefully watched."
 msgstr ""
+"장관이 부패한 관리와의 장기적 관계를 이어나가기로 했습니다. 라스트월에는 수많은 군수품들이 관리되지 않고 있다는 사실이 밝혀졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CavalryofLastwall_Solutions.Entries.Array.data[9].Resolutions.Array.data[6].LocalizedDescription
 msgctxt "ff9ebd98-2d4d-41f4-b1f3-63339365240b"
@@ -6980,7 +7005,7 @@ msgid ""
 "The Minister tried to make a questionable deal with the corrupt "
 "administrator, but the scoundrel got cold feet at the last moment. The deal "
 "fell through."
-msgstr ""
+msgstr "장관은 부패한 관리와의 의심스러운 거래를 하려 했지만, 상대방 쪽에서 마지막 순간에 겁이 나버렸습니다. 거래는 취소되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CavalryofLastwall_Solutions.Entries.Array.data[9].Resolutions.Array.data[7].LocalizedDescription
 msgctxt "89ef6872-ebd7-42e5-8e5f-7f87f84fa676"
@@ -6989,6 +7014,8 @@ msgid ""
 "used it to blackmail him. The {mf|barony|barony|kingdom|kingdom} is now "
 "paying dirt-cheap prices for military equipment, which Lastwall is full of."
 msgstr ""
+"장관은 능숙하게 관리와의 협상을 타결하고는, 이를 이용해 그 관리를 협박했습니다. {mf|남작령|남작령|왕국|왕국}은 이제 라스트월에 "
+"넘쳐나는 군수품을 아주 싼 값에 구매할 수 있게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CourtierIntiques_LocalizedDescription
 msgctxt "f15704e8-9309-492a-b19d-42694e1c85db"
@@ -7003,7 +7030,7 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CourtierIntiques_LocalizedName
 msgctxt "8f9624b9-7215-467d-8351-8f0f308f1401"
 msgid "Court Intrigue"
-msgstr ""
+msgstr "궁중 모략"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CourtierIntiques_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "49b6585f-2cc3-42e6-9115-bead0287fdfd"
@@ -7012,6 +7039,8 @@ msgid ""
 "received a letter of warning from the Warden… and accused our advisor of "
 "trying to besmirch her councilor!"
 msgstr ""
+"상황이 외교적 추문을 낳고 말았습니다! 이웃 나라의 여왕은 감시관으로부터 경고의 편지를 받았지만... 우리 보좌관이 자신의 의원을 "
+"음해하려 했다는 혐의로 기소했습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CourtierIntiques_Solutions.Entries.Array.data[7].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "57ab1eef-090c-4e31-ba4d-a233d61bc147"
@@ -7021,13 +7050,16 @@ msgid ""
 "the Warden received a letter written by the treasurer a few days prior. — "
 "The deceased refused to believe that anyone could wish him ill..."
 msgstr ""
+"감시관이 방문 중인 재무관에게 편지를 써, 현재 그가 있는 곳이 위험하다고 경고를 보냈습니다. 한 주가 지나고 그 불쌍한 재무관은 시체로 "
+"발견되었습니다. 얼마 지나지 않아, 감시관에게 며칠 전 재무관으로부터 편지가 배송되었습니다. 죽은 재무관이 자신을 음해하려는 자들이 "
+"있다는 사실을 믿지 않겠다는 내용과 함께..."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CourtierIntiques_Solutions.Entries.Array.data[7].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "b70f27e2-3e15-4341-b7dc-cc46cd8baeff"
 msgid ""
 "The Warden sent the councilor's letter to the queen of the neighboring "
 "country. The traitor was arrested and will be tried in court!"
-msgstr ""
+msgstr "감시관은 의원의 편지를 이웃 나라의 여왕에게 보냈습니다. 배신자는 체포되었으며 재판을 받을 것입니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CourtierIntiques_Solutions.Entries.Array.data[7].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "de987cee-0a7c-4fbb-b47c-51fa7147e5ee"
@@ -7036,13 +7068,15 @@ msgid ""
 "Treasurer's head… only to find out later they were roundly defeated by his "
 "convoy!"
 msgstr ""
+"감시관은 경비대 한 부대를 도적떼처럼 차려입히고, 재무관의 머리를 얻으라고 보냈지만... 후에 경비대가 재무관의 호송대에게 대대적으로 "
+"패배했다는 사실만 듣고 말았습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CourtierIntiques_Solutions.Entries.Array.data[7].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "59430a29-1905-42ba-abe2-0b98c9419de0"
 msgid ""
 "The treasurer's convoy proved too much for the bandits that the Warden "
 "employed."
-msgstr ""
+msgstr "재무관의 호송대는 감시관이 고용한 도적떼를 당해낼 수 없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CourtierIntiques_Solutions.Entries.Array.data[7].Resolutions.Array.data[5].LocalizedDescription_String
 msgctxt "9d1b2a60-5317-417d-8ed6-ea4793137602"
@@ -7050,6 +7084,7 @@ msgid ""
 "The treasurer perished under mysterious circumstances. Soon after, an envoy "
 "with a heavy bag of gold came knocking on the castle's door."
 msgstr ""
+"재무관은 알 수 없는 사건으로 인해 죽고 말았습니다. 이후 얼마 지나지 않아, 무거운 금자루를 든 사절 하나가 성의 문을 두드렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CourtierIntiques_Solutions.Entries.Array.data[9].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "852ce055-15a9-4dff-92bb-a0a7b3464425"
@@ -7065,7 +7100,7 @@ msgctxt "8a47240b-70e3-43c4-819d-a705e3751393"
 msgid ""
 "The treasurer failed to heed to the warnings of a secret messenger. A week "
 "later he was found dead…"
-msgstr ""
+msgstr "재무관은 비밀스레 받은 전갈의 경고에 주의를 기울이지 못했습니다. 한 주 뒤 재무관은 시체로 발견되었습니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CourtierIntiques_Solutions.Entries.Array.data[9].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "fac67426-80f0-4c16-a54f-6c100d9ac63a"
@@ -7082,14 +7117,14 @@ msgid ""
 "The treasurer's bodyguards proved much more capable than expected. The "
 "assassins hired by the Minister perished while trying to carry out "
 "{mf_Spymaster|his|her} orders."
-msgstr ""
+msgstr "재무관의 경호원들은 생각한 것 보다 유능했습니다. 장관이 고용한 암살자들은 장관의 명령을 수행하려다 살해당했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/CourtierIntiques_Solutions.Entries.Array.data[9].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "57563925-1464-4293-8403-4f28a63d564d"
 msgid ""
 "The Minister's people failed to track down the visiting treasurer, who soon "
 "returned home safely. The deal with the councilor fell through."
-msgstr ""
+msgstr "장관의 수하들은 재무관을 추적하는 데 실패하고, 재무관은 곧 집으로 안전하게 돌아갔습니다. 의원과의 거래는 결렬되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/Escapees_LocalizedDescription
 msgctxt "3b68ef36-d649-4613-85b6-0cbbfb9f3104"
@@ -7098,13 +7133,13 @@ msgid ""
 "Thakur Kharswan. They seek a quiet place where they can wait for his anger "
 "to pass. If given shelter, they might share the secrets of their craft."
 msgstr ""
-"잘메리(Jalmeray) 섬의 지니 바인더들은 그의 주인 타쿠르 카르즈완(Thakur Kharswan)로부터 도망중입니다. 그들은 그의 "
-"분노가 삭힐 때 까지 지낼 수 있는 조용한 장소를 찾고있습니다. 피난처를 제공해준다면 그들은 공예품의 비밀을 공유 할 것입니다."
+"잘머레이 섬의 강력한 지니 바인더들은 그들의 주인인 타쿠르 카스완으로부터 도망치고 있습니다. 이들은 주인의 분노가 사그라들 때 까지 버틸 "
+"수 있는 조용한 장소를 찾고 있습니다. 은신처를 제공해주면, 이들은 자기들이 가진 기술의 비밀을 알려줄 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/Escapees_LocalizedName
 msgctxt "b61171d4-de79-477a-be7f-296969b15459"
 msgid "Runaways"
-msgstr ""
+msgstr "도망자"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/Escapees_Solutions.Entries.Array.data[4].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "db844a1e-e255-4565-9863-095bd9b38fc8"
@@ -7113,8 +7148,8 @@ msgid ""
 "and roads. In gratitude they presented the Grand Diplomat with a couple of "
 "treatises covering with the magical arts of Jalmeray."
 msgstr ""
-"지니 바인더들은 도시와 도로에서 멀리 떨어진 버려진 땅에 숨겨져있었습니다. 감사한 마음에 그들은 잘메리(Jalmeray)의 마법 작품에 "
-"관한 몇 개의 논문을 수석 외교관에게 제공했습니다."
+"지니 바인더들은 도시와 도로에서 멀리 떨어진 버려진 땅에 숨었습니다. 감사의 표시로 이들은 수석 외교관에게 잘머레이의 마법 기술에 대한 "
+"내용이 담긴 논문 몇 개를 선물했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/Escapees_Solutions.Entries.Array.data[4].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "d078300a-f0c9-4d79-a16c-864ed72ca338"
@@ -7124,6 +7159,8 @@ msgid ""
 "presented the Grand Diplomat with an ancient tome – which, according to "
 "legend, was written by an apprentice of the Archmage Nex himself."
 msgstr ""
+"잘머레이인들은 {mf|남작령|남작령|왕국|왕국}의 깊숙한 곳, 외딴 성채에 숨었습니다. 감사의 표현으로써, 이들은 수석 외교관에게 고서를 "
+"선물합니다. 전설에 따르면 이 고서는 아크메이지 넥스의 수습생 본인이 적은 것이라고 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/Escapees_Solutions.Entries.Array.data[4].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "92034332-e33f-49b9-80c7-dd1ecc79fdda"
@@ -7133,6 +7170,8 @@ msgid ""
 "Thakur. The mages decided it was best to continue their journey and look for"
 " safer shelter."
 msgstr ""
+"수석 외교관은 타쿠르의 눈으로부터 잘머레이인들을 숨겨줄 수 있다고 설득하는 데 실패했습니다. 이 마법사들은 보다 안전한 곳을 찾아 여정을 "
+"이어나가기로 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/Escapees_Solutions.Entries.Array.data[6].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "9415ee10-5952-4d46-8571-379166ba350b"
@@ -7141,8 +7180,8 @@ msgid ""
 "under the protection of the best bodyguards. The grateful Jalmeri gave a few"
 " lessons to the Magister's underlings."
 msgstr ""
-"마법대신은 도망자에게 최고의 경호원들의 비호아래 있는 마법사들의 구역에 머물도록 장소를 제공해주었습니다. 잘메리(Jalmeri)는 감사에"
-" 찬 마음으로 마법대신의 부하들에게 교습을 해주었습니다."
+"마법대신은 도망자에게 최고의 경호원들의 비호아래 있는 마법사들의 구역에 머물도록 장소를 제공해주었습니다. 잘머레이인들은 감사에 찬 "
+"마음으로 마법대신의 부하들에게 교습을 해주었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/Escapees_Solutions.Entries.Array.data[6].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "1cce5ddc-b3e2-405b-9b9f-a505da1aa015"
@@ -7159,7 +7198,9 @@ msgctxt "b89d8bc4-3cb4-49a0-88ad-1cbfa8ed4444"
 msgid ""
 "Something in the Magister's behavior made the Jalmeri suspicious. The genie-"
 "binders fled the {mf|barony|barony|kingdom|kingdom} under cover of night."
-msgstr "잘메리인은 마법대신의 행동이 의심스럽게 느껴졌습니다. 지니 바인더는 {mf|남작령|남작령|왕국|왕국}에서 도망쳤습니다."
+msgstr ""
+"잘머레이인들은 무언가 마법 대신의 행동으로부터 수상함을 느꼈습니다. 지니 바인더들은 비밀리에 밤을 틈타 {mf|남작령|남작령|왕국|왕국}"
+"에서 도망쳤습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/TestwithSteel_LocalizedDescription
 msgctxt "5f0313ff-e6ea-4e79-bf60-19840360a217"
@@ -7169,11 +7210,13 @@ msgid ""
 "Mivon. A young and ambitious warrior has asked that she be trained by the "
 "servants of the {mf|baron|baroness|King|Queen}."
 msgstr ""
+"소드로드 경연대회가 미본에서 열리려고 합니다. 이 경연대회는 참가자들의 미본에서의 사회적 직위와 영향력을 결정하게 될 것입니다. 젊고 "
+"야심 넘치는 전사 하나가 {mf|남작|여남작|왕|여왕}의 수하로부터 훈련을 받을 수 있을지 물어보기 위해 찾아왔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/TestwithSteel_LocalizedName
 msgctxt "a25b1bab-e082-4012-a4dd-8f5f93c8d53c"
 msgid "A Test of Steel"
-msgstr ""
+msgstr "강철의 시험"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/TestwithSteel_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "d60543fc-ac97-419a-8c44-f7a0c97692e4"
@@ -7182,6 +7225,8 @@ msgid ""
 "{mf|barony|barony|kingdom|kingdom}, the young woman was unable to place "
 "highly in the competition."
 msgstr ""
+"{mf|남작령|남작령|왕국|왕국} 내 최고의 전사들과의 길고도 힘든 훈련과정이 있었지만, 그 젊은 전사는 경연에서 높은 위치를 얻어낼 수 "
+"없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/TestwithSteel_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "66e5ad4e-3920-4196-81b0-8a5b4c2e822a"
@@ -7192,6 +7237,9 @@ msgid ""
 "instructors in the land. She made it to the final round of duels and took up"
 " an important position in Mivon."
 msgstr ""
+"장군이 그 젊은 여성을 {mf|남작령|남작령|왕국|왕국} 내 최정예 전사 부대 안에 넣어주었습니다. 그녀는 부대 안에서 살고, 잠을 "
+"잤으며 부대원들과 함께 음식을 먹고, 이 땅에서 가장 엄격한 훈련사들의 훈련을 받았습니다. 그녀는 결투의 마지막 라운드까지 올랐으며 결국 "
+"미본에서 중요한 위치에 올라섰습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/TestwithSteel_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "59352e1d-1a57-4048-b8e1-54c9f197e361"
@@ -7202,6 +7250,9 @@ msgid ""
 "instructors in the land. She won every round of duels, and now the "
 "{mf|baron|baroness|King|Queen} has an influential friend in Mivon."
 msgstr ""
+"장군은 그 젊은 여성을 {mf|남작령|남작령|왕국|왕국} 내 최정예 전사 부대에 집어넣었습니다. 그녀는 부대 안에서 살고, 자고, 먹으며 "
+"매일같이 이 땅에서 가장 엄격한 훈련사로부터 훈련을 받았습니다. 그녀는 모든 결투를 승리로 이끌었으며, {mf|남작|여남작|왕|여왕}은 "
+"미본에서 영향력 있는 친구를 두게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/TestwithSteel_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "67d7a23b-2436-4ff8-9cbd-64c2e312f50c"
@@ -7210,6 +7261,8 @@ msgid ""
 "master of the blade. Thanks to his lessons, the fighter placed well in the "
 "competition, and became an important figure in Mivon."
 msgstr ""
+"감시관은 수도에서 이 전사를 위한 최고의 훈련사를 찾아냅니다. 진정한 검의 달인을 말입니다. 그의 가르침 덕에, 이 전사는 경연에서 좋은 "
+"성적을 내었고 이내 미본에서 중요한 유명인사가 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/TestwithSteel_Solutions.Entries.Array.data[7].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "978613c8-2ac0-4482-bf78-015463de06c3"
@@ -7219,6 +7272,8 @@ msgid ""
 "duels, and once she takes up her position in Mivon, she will not forget her "
 "benefactors."
 msgstr ""
+"감시관은 수도에서 이 전사를 위한 최고의 훈련사를 찾았고, 그녀와 매일같이 겨루게 시켰습니다. 젊은 전사는 경연의 모든 결투를 승리로 "
+"이끌었으며, 그녀가 미본에서 위치를 잡게 되면 자신의 후원자를 결코 잊지 않을 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/TestwithSteel_Solutions.Entries.Array.data[9].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "c3154a39-06cd-4261-bb2e-175494bacf81"
@@ -7228,6 +7283,8 @@ msgid ""
 "and unpredictability of attacks. The girl reached the final round of duels, "
 "and took a high position in Mivon society."
 msgstr ""
+"{mf|남작령|남작령|왕국|왕국} 전역에서 가장 노련한 스파이가 밤낮으로 젊은 전사를 훈련시키며, 정밀한 이동과 예측할 수 없는 공격을 "
+"가르쳤습니다. 이 여성은 경연의 마지막 결투까지 올라갔으며, 미본 사회에서 높은 위치에 올랐습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/TestwithSteel_Solutions.Entries.Array.data[9].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "66ce75f5-bdc0-4116-bd0b-116e5a23d224"
@@ -7237,6 +7294,8 @@ msgid ""
 "but she handily defeated every opponent in the competition, and took up one "
 "the highest positions in all of Mivon."
 msgstr ""
+"장관은 온갖 노력을 다해, 젊은 전사를 수도 내에서 가장 위험한 암살자로 만들어냈습니다. 아무도 장관이 그녀에게 무엇을, 그리고 어떻게 "
+"가르쳤는지는 모르지만 경연에서 그녀는 모든 상대를 손쉽게 꺾으며, 미본에서 최고의 자리까지 올랐습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/ToAsh_LocalizedDescription
 msgctxt "ae6a24c9-0fcf-43a9-b126-14920e8664de"
@@ -7245,11 +7304,13 @@ msgid ""
 "from homeowners, threatening to set fire to their property if they refuse to"
 " pay. These criminals must be stopped!"
 msgstr ""
+"방화범 무리가 도시를 돌아다니고 있습니다. 이들은 돈을 내지 않을 시 집을 불태워버릴 것이라는 협박을 하며 집 주인을 갈취해대고 "
+"있습니다. 이 범죄자들을 멈추게 만들어야 합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/ToAsh_LocalizedName
 msgctxt "4fb5aa09-fe41-43d7-9dbb-d2207e80d529"
 msgid "Ashes and Dust"
-msgstr ""
+msgstr "재와 먼지"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/ToAsh_Solutions.Entries.Array.data[6].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "94de75ea-535e-4d6f-9e7c-155039988748"
@@ -7259,15 +7320,15 @@ msgid ""
 "them through magical means. A great fire broke out in the mages' quarter, "
 "while the gang quietly escaped the city."
 msgstr ""
-"마법대신의 계획은 첫날에 실패했습니다! 방화범들의 조직에 마법사가 있었고 그가 누군가 마법적 수단으로 방화범을 찾는 것을 알렸습니다. "
-"마법사 구역에서 큰 화재가 발생하고 그사이 갱단은 도시를 유유히 빠져나갔습니다."
+"마법대신의 계획은 첫날에 실패했습니다! 방화범들의 조직에 마법사가 있었고, 이 마법사가 마법적 수단으로 방화범을 찾는다는 것을 "
+"알려줬습니다. 마법사 구역에서 큰 화재가 발생하고 그 사이 이들은 도시를 유유히 빠져나갔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/ToAsh_Solutions.Entries.Array.data[6].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "c15c8872-1c8b-438f-8145-98ab6b4f10fe"
 msgid ""
 "The Magister nearly captured the gang's leader, but he slipped the net and "
 "fled the city."
-msgstr "마법대신은 갱단의 지도자를 거의 체포했지만, 그는 그물을 빠져나가 도시에서 도망갔습니다."
+msgstr "마법대신은 방화범들의 지도자를 거의 체포할 뻔 했지만, 그는 그물망에서 빠져나가 도시에서 도망갔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/ToAsh_Solutions.Entries.Array.data[6].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "4afb62bd-c799-4a47-b668-c6a8384c2f3c"
@@ -7277,8 +7338,8 @@ msgid ""
 " wind and lit fires all across the city. — And as torrents of magical rain "
 "fell upon the city, the guards caught them one by one."
 msgstr ""
-"마법대신이 방화범들을 겁쟁이들과 놈들이라고 부른 소문이 거리를 통해 퍼졌습니다. 그날 밤 방화범들은 큰 위험에도 불구하고 도시 곳곳에 "
-"불을 질렀습니다. 그리고 마법의 비가 온 도시를 줄기쳤으며 경비원은 방화범들을 하나씩 잡았습니다."
+"마법대신이 방화범들에 대고 겁쟁이라고 하며 개자식이라고 했다는 소문이 거리를 통해 퍼졌습니다. 그날 밤 방화범들은 큰 위험에도 불구하고 "
+"도시 곳곳에 불을 질렀습니다. 그리고 마법의 비가 온 도시를 줄기쳤으며 경비원은 방화범들을 하나하나 잡아냅니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/ToAsh_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "c627372f-c9cd-45dc-8d8d-88b16938c55a"
@@ -7287,6 +7348,8 @@ msgid ""
 "agreed to testify against the arsonists are now burning like candles, and "
 "the bandits have vanished into the thin air."
 msgstr ""
+"감시관이 처참하게 패배하고 말았습니다! 방화범들에 대해 진술하기로 동의한 목격자들의 집은 이제 마치 촛불처럼 타올랐고, 도적떼는 아무도 "
+"모르는 곳으로 사라져버렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/ToAsh_Solutions.Entries.Array.data[7].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "8620f811-1d00-4a25-b9be-2a67bfb7c3e9"
