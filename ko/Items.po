@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-18 04:07+0000\n"
-"Last-Translator: 냠 <setsuna444@naver.com>\n"
+"PO-Revision-Date: 2020-06-20 06:07+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/items/ko/>\n"
 "Language: ko\n"
@@ -367,6 +367,7 @@ msgstr ""
 "매력을 착용할 수 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Amulets/MayasCharmItem_m_DisplayNameText
+#, fuzzy
 msgctxt "feaeb463-46aa-4804-ad82-1287b9d53ce4"
 msgid "Maya's Charm"
 msgstr "마야의 매력"
