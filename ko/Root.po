@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-19 05:07+0000\n"
+"PO-Revision-Date: 2020-06-21 19:21+0000\n"
 "Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/root/ko/>\n"
@@ -21,11 +21,9 @@ msgid "Locked"
 msgstr "잠김"
 
 #. Mechanics/Blueprints/Root/BlueprintRoot_LocalizedTexts.LockedwithKey
-#, fuzzy
-#| msgid "Key needed"
 msgctxt "e4c7a0a5-dc33-45f1-bcf2-f030690c50e4"
 msgid "Need key"
-msgstr "열쇠가 필요합니다."
+msgstr "열쇠 필요"
 
 #. Mechanics/Blueprints/Root/BlueprintRoot_LocalizedTexts.UnlockedContainer
 msgctxt "05a25157-3258-4c2c-b36d-46b98939309b"
