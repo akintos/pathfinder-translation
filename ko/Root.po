@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
 "PO-Revision-Date: 2020-06-21 19:21+0000\n"
-"Last-Translator: 냠 <setsuna444@naver.com>\n"
+"Last-Translator: ayame <eveforce@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/root/ko/>\n"
 "Language: ko\n"
@@ -22397,6 +22397,7 @@ msgid "Charge"
 msgstr "돌격"
 
 #. Mechanics/Blueprints/Root/SystemMechanics/Abilities/CoupDeGraceAbility_Description_String
+#, fuzzy
 msgctxt "7c8e2a17-be14-4a67-932e-e4c6ba451ce3"
 msgid ""
 "As a full-round action, you can use a melee weapon to deliver a coup de grace to a helpless opponent.\n"
@@ -22404,11 +22405,18 @@ msgid ""
 "Delivering a coup de grace provokes attacks of opportunity from threatening opponents.\n"
 "You can't deliver a coup de grace against a creature that is immune to critical hits."
 msgstr ""
+"전체 라운드 행동으로, 무력화된 상대에게 근접 무기를 사용하여 치명적인 일격을 할 수 있습니다.\n"
+"(역자 주. 무력화된 상대란: 휴식 등으로 자고 있거나 마법에 의한 수면(색채분사 제외), 무의식, 마비, 넘어짐 등으로 행동 불능인 "
+"상대. 엎드려짐, 붙잡힘 등의 의식이 온전한 상태는 제외)\n"
+"공격자는 자동으로 치명타 피해를 입히고 만약 방어자가 피해에서 살아남았어도 인내 내성(DC 10 + 공격자의 기본 공격 + 근접 피해 "
+"수정치 + 무기의 치명타 수정치)에 성공하야하며 실패할 경우 죽습니다.\n"
+"치명적인 일격을 사용하는 것은 위협받는 상대로부터 기회공격을 유발하게 됩니다.\n"
+"치명타에 면역인 크리처에게는 치명적인 일격을 사용할 수 없습니다."
 
 #. Mechanics/Blueprints/Root/SystemMechanics/Abilities/CoupDeGraceAbility_DisplayName_String
 msgctxt "eb254acc-f84f-4147-8319-d737a80b2399"
 msgid "Coup de Grace"
-msgstr ""
+msgstr "치명적인 일격"
 
 #. Mechanics/Blueprints/Root/SystemMechanics/Abilities/OverrunAbility_LocalizedDuration
 msgctxt "e5a38b29-158a-424c-b705-e225fd8b35e4"
