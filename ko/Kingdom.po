@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-20 13:43+0000\n"
-"Last-Translator: Abraxas <netnk9151@hanmail.net>\n"
+"PO-Revision-Date: 2020-06-21 19:06+0000\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -774,24 +774,24 @@ msgstr "이 사건을 다룰 보좌관을 고르십시오. 보좌관은 직위, 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.EmptyCompanionHeaderPortrait
 msgctxt "676e989e-f655-47fa-bb8b-4a7a1f1118c7"
 msgid "Choose an advisor for this position"
-msgstr "이 자리에 앉힐 보좌관 선택"
+msgstr "이 임무를 맡길 보좌관 선택"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.EmptyCompanionLeaderDescription
 msgctxt "aa87090e-368c-4cf8-b30b-3df374a47dcc"
 msgid ""
 "Choose an advisor to fill this position. Advisors will act according to "
 "their position in government, their beliefs, and their alignment."
-msgstr "이 자리를 채울 보좌관을 고르십시오. 보좌관은 직위, 신념, 성향에 따라 행동할 것입니다."
+msgstr "이 임무를 맡길 보좌관을 고르십시오. 보좌관은 직위, 신념, 성향에 따라 행동할 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomBptTooltipBase
 msgctxt "55fc8804-1cc3-42f9-93b5-61de71cdd0b7"
 msgid "Base Income"
-msgstr "기본 소득"
+msgstr "기본 세입"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomBptTooltipEconomy
 msgctxt "b005ff08-c71e-4ea5-972a-721c2cb58537"
 msgid "Income form Stat Ranks"
-msgstr "지표 등급에 따른 소득"
+msgstr "지표 등급에 따른 세입"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomBptTooltipFooter
 msgctxt "e3eac159-a934-4698-bab7-c3f12ad6df96"
@@ -806,7 +806,7 @@ msgstr "주당 건설 점수"
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomBptTooltipRegion
 msgctxt "783c6035-328f-44a5-b4a8-7cf597e1ba98"
 msgid "Income from Regions"
-msgstr "지역별 수입"
+msgstr "지역별 세입"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomBptTooltipSubsidy
 msgctxt "a431c732-8e2c-4092-9d00-ceda7c28ff38"
@@ -4662,7 +4662,7 @@ msgid ""
 "and craftsmen throughout the {mf|barony|barony|kingdom|kingdom}."
 msgstr ""
 "재무관은 소규모 군대 만큼의 정찰대를 고용하여 도둑맞은 걸작을 되찾았을 뿐만아니라, {mf|남작령|남작령|왕국|왕국} 도처에서 장인과 "
-"공예가를 괴롭혀온 건달패를 잡아들였습니다."
+"공예가를 괴롭혀온 건달 패거리를 잡아들였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Crafter2_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "9e780481-4070-4c86-a4df-8c5a038ace28"
@@ -5849,7 +5849,8 @@ msgid ""
 "{mf|baron|baroness|King|Queen}. They're passing off copper coins as golden "
 "ones! This fraud must be stopped!"
 msgstr ""
-"{mf|남작|여남작|왕|여왕}의 땅에 하찮은 일루저니스트 건달패가 있습니다. 동전을 금화로 속이고 있습니다! 이 사기를 멈춰야 합니다!"
+"{mf|남작|여남작|왕|여왕}의 땅에 하찮은 일루저니스트 건달 패거리가 있습니다. 동전을 금화로 속이고 있습니다! 이 사기를 멈춰야 "
+"합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced3/AgilityOfMind_LocalizedName
 msgctxt "f8a3f6ed-4852-4564-92f4-7ce867ca4627"
@@ -5917,7 +5918,7 @@ msgctxt "c8758466-5a1d-479e-af5e-52d34b227051"
 msgid ""
 "The Minister's people failed to track down a single gang member! The "
 "swindlers are severely damaging trade."
-msgstr "장관의 부하들은 건달패를 한 명도 찾아내지 못했습니다! 사기꾼들이 거래에 심각한 손해를 끼치고 있습니다."
+msgstr "장관의 부하들은 건달 패거리를 한 명도 찾아내지 못했습니다! 사기꾼들이 거래에 심각한 손해를 끼치고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced3/AgilityOfMind_Solutions.Entries.Array.data[9].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "8c03e399-f292-4d15-9f48-bdca427ceab2"
@@ -5925,8 +5926,8 @@ msgid ""
 "The Minister's people tracked down only a single gang member! The swindlers "
 "are acting more carefully now, but they're still ruining honest merchants."
 msgstr ""
-"장관의 부하들은 건달패를 한 명도 찾아내지 못했습니다! 사기꾼들은 이제 좀 더 조심스럽게 행동하고 있지만, 아직도 정직한 상인들을 망하게 "
-"하고 있습니다."
+"장관의 부하들은 건달 패거리를 한 명도 찾아내지 못했습니다! 사기꾼들은 이제 좀 더 조심스럽게 행동하고 있지만, 아직도 정직한 상인들을 "
+"망하게 하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced3/AgilityOfMind_Solutions.Entries.Array.data[9].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "a2040004-c7e8-4dec-9dcc-f2004ae57102"
@@ -5990,8 +5991,8 @@ msgid ""
 "one of the bards hired by the Curator, discovered the Curator's letter, and "
 "publicly read the Curator's detailed instructions. The people are enraged."
 msgstr ""
-"여우의 평판에 흠을 내려는 시도가 실패로 돌아갔습니다. 그의 건달패가 학예사가 고용한 바드를 붙잡아, 학예사의 지령을 찾아내어, 학예사의 "
-"상세한 지시사항을 모두 공개했습니다. 사람들이 분노하고 있습니다."
+"여우의 평판에 흠을 내려는 시도가 실패로 돌아갔습니다. 그의 건달 패거리가 학예사가 고용한 바드를 붙잡아, 학예사의 지령을 찾아내어, "
+"학예사의 상세한 지시사항을 모두 공개했습니다. 사람들이 분노하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced3/FoxHunting_Solutions.Entries.Array.data[8].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "dd425886-cf89-47dd-b6fd-df394b7ec619"
@@ -6067,7 +6068,7 @@ msgid ""
 "increased. The criminals are so afraid of landing in her hands that whole "
 "gangs are fleeing the {mf|baron's|baroness'|king's|queen's} domain."
 msgstr ""
-"수석 외교관은 여사제를 고용했습니다. 범죄 색출이 상당히 증가했습니다. 범죄자들이 그녀의 손속을 두려워한 나머지 건달패들이 통째로 "
+"수석 외교관은 여사제를 고용했습니다. 범죄 색출이 상당히 증가했습니다. 범죄자들이 그녀의 손속을 두려워한 나머지 건달 패거리들이 통째로 "
 "{mf|남작|여남작|왕|여왕}의 영토에서 도망치고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced3/MistressOfPain_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription
@@ -7384,6 +7385,8 @@ msgid ""
 "after, the guards seized the whole gang, taking them by surprise in their "
 "own lair!"
 msgstr ""
+"마법사가 엮어낸 환상 마법의 보호를 받아, 도적떼의 보복으로부터 목격자들을 보호하면서 감시관이 그들과 직접 면담했고, 곧 이어 도적 "
+"소굴을 급습하여 패거리 전체를 붙잡았습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/ToAsh_Solutions.Entries.Array.data[9].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "4c1fc77f-22cf-4ff1-8508-51d95453bfd3"
@@ -7393,6 +7396,8 @@ msgid ""
 " of it and fled the city – but not before setting fire to the market and two"
 " temples!"
 msgstr ""
+"장관이 직접 정보원을 만난 것은 큰 실수였습니다. 방화범들은 막바로 낌새를 채고 도시에서 달아나버렸습니다. 물론 달아나기 전에 시장과 "
+"사원 두 곳에 불을 지르는 것을 잊지 않았지요!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/ToAsh_Solutions.Entries.Array.data[9].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "fbb1fde2-e818-4b4f-9dd6-86f8d59510cb"
@@ -7401,6 +7406,8 @@ msgid ""
 "arsonists sensed trouble and went to ground. Perhaps the next time they "
 "resurface it will be somewhere far away…"
 msgstr ""
+"장관의 부하들은 조심성이 없었습니다. 결국 방화범들은 마지막 결정적인 순간에 낌새를 채고 모두 잠적해버렸습니다. 다시 일을 벌인다면 아주 "
+"멀리서 벌일 겁니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced6/ToAsh_Solutions.Entries.Array.data[9].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "9a68cf96-a358-46a2-907f-261a41452614"
@@ -7410,6 +7417,8 @@ msgid ""
 "victim. They bribed him to turn on his fellows, and the criminals were "
 "caught one by one."
 msgstr ""
+"장관의 부하들은 신속 정확하게 움직였습니다. 부하들은 다른 피해자의 돈을 챙기러 온 방화범의 뒤를 밟았고, 그를 매수해서 동료를 "
+"배신하도록 했습니다. 범죄자들이 하나둘씩 체포되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/Equilibrium_LocalizedDescription
 msgctxt "a1b96dfe-ad54-4251-a5ca-18a927251e1b"
@@ -7420,6 +7429,8 @@ msgid ""
 "the subjects to disobey the guards, and resist and undermine the power of "
 "the local authorities."
 msgstr ""
+"균형의 사절이자 방랑금욕수행단의 여사제는 {mf|남작령|남작령|왕국|왕국}이 이 땅의 균형을 깨트리고 있다고 여깁니다. 그러한 이유로 그 "
+"엘프와 그 제자들은 백성들에게 경비대에게 항거하고 공권력에 저항하며 그 권위를 약화시키라고 부추기고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/Equilibrium_LocalizedName
 msgctxt "fce9ddd3-371b-46e0-858d-3d88f736cd5c"
@@ -7433,6 +7444,8 @@ msgid ""
 " the wandering commune assembled to depart the "
 "{mf|barony|barony|kingdom|kingdom}, hundreds of people decided to join them."
 msgstr ""
+"공개 토론은 대실패였습니다. 사람들은 여사제의 손을 들어주었고, 방랑수행단이 {mf|남작령|남작령|왕국|왕국}을 떠나자 수백 명의 "
+"사람들이 그 뒤를 따랐습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/Equilibrium_Solutions.Entries.Array.data[4].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "f6aabcb5-f346-442d-9305-36f4faa1cc1f"
@@ -7442,6 +7455,8 @@ msgid ""
 "assembled to depart the {mf|barony|barony|kingdom|kingdom}, some decided to "
 "join them."
 msgstr ""
+"공개 토론은 문제 해결에 별 도움이 되지 않았습니다. 여사제의 가르침은 농민들 사이에서 꾸준히 지지를 얻었고, 방랑수행단이 "
+"{mf|남작령|남작령|왕국|왕국}을 떠나자, 몇몇 사람들이 그 뒤를 따랐습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/Equilibrium_Solutions.Entries.Array.data[4].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "cea4abc5-33f0-4c0c-8cc8-60ac80d50e8e"
@@ -7450,6 +7465,8 @@ msgid ""
 "Without hesitation, she admitted that balance was more important than the "
 "lives and happiness of the people."
 msgstr ""
+"공개 토론이 끝나자 여사제는 농민들의 지지를 완전히 상실했습니다. 토론회에서 그녀는 민중의 삶과 행복보다 균형이 더 중요하다는 걸 "
+"망설임없이 주장해버렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/Equilibrium_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "ccfa3801-14af-4917-b3fa-85ff21e05ceb"
@@ -7458,6 +7475,8 @@ msgid ""
 "escorted her and her pupils out of the {mf|barony|barony|kingdom|kingdom}. "
 "The people are outraged by the Warden's abuse of power."
 msgstr ""
+"경비대는 농민들에게 연설 중이던 여사제를 체포하여 제자들과 함께 국경 밖까지 압송했습니다. 사람들은 감시관의 권력 남용에 분노하고 "
+"있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/Equilibrium_Solutions.Entries.Array.data[7].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "f630466f-08d7-414b-af20-c242167d7a1c"
@@ -7466,6 +7485,8 @@ msgid ""
 "{mf|barony|barony|kingdom|kingdom}. Some condemned the Warden's harsh "
 "response."
 msgstr ""
+"여사제와 그 제자들은 비밀리에 체포되어 {mf|남작령|남작령|왕국|왕국}에서 추방되었습니다. 몇몇 사람들은 감시관의 조치가 너무 "
+"가혹했다고 비난했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/Equilibrium_Solutions.Entries.Array.data[7].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "a7cf5c86-6f4f-42be-9c76-96a703433a11"
@@ -7475,6 +7496,8 @@ msgid ""
 "explain that they would never condone such behavior, but no one stood up for"
 " them when they were deported from the {mf|barony|barony|kingdom|kingdom}."
 msgstr ""
+"감시관은 마을 회관에서 돈을 훔치려던 여사제의 제자들을 체포했습니다. 여사제와 그 추종자들이 자기들은 절대로 그런 행동을 용납하지 "
+"않는다고 변명했지만, {mf|남작령|남작령|왕국|왕국}에서 추방될 때 아무도 그들 편을 들어주지 않았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/Order_LocalizedDescription
 msgctxt "963d293d-a322-4b4c-b4e6-54c0646b2054"
@@ -7484,6 +7507,8 @@ msgid ""
 "not a likely result. — An arrow in the back or a goblet full of poison, "
 "however..."
 msgstr ""
+"대거마크의 한 악명높은 암살자가 {mf|남작|여남작|왕|여왕}의 머리를 놓고 계약을 맺었습니다. 암살자가 정정당당히 도전해올리는 없으니, "
+"저격이나 독을 쓸텐데..."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/Order_LocalizedName_String
 msgctxt "9670a741-a3df-4270-bdd1-30bdf74b72fc"
@@ -7498,9 +7523,8 @@ msgid ""
 "{mf_Magister|his|her} best mages, and distributing them throughout the "
 "forest. The assassin took the bait and was easily captured!"
 msgstr ""
-"마법대신은 {mf|남작|남작부인|왕|여왕}의 두 환영을 만들었습니다. 그리고 {mf|그|그녀}를 산책에 보내고 "
-"{mf_Magister|그|그녀}의 최고의 마법사들에게 투명화 주문을 걸어 숲 전체에 분산했습니다. 암살자가 미끼를 잡아 쉽게 "
-"잡혔습니다!"
+"마법대신은 {mf|남작|여남작|왕|여왕}의 복제를 소환해 소풍을 보내고 {mf_Magister|그|그녀}의 최고의 마법사들에게 투명화 "
+"주문을 걸어 숲 전체에 깔아 놓았습니다. 암살자가 미끼를 물었고 쉽게 붙잡을 수 있었습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/Order_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "a0545e1c-d605-47ef-82e1-71bc983ac127"
@@ -7509,20 +7533,22 @@ msgid ""
 " for the assassin's attack! Many lost their lives to fend off the assault "
 "and protect their ruler…"
 msgstr ""
+"하인들은 암살 공격에 전혀 대비가 되어 있지 않았습니다! 많은 하인들이 습격에서 {mf|남작|여남작|왕|여왕}을 지키려다 목숨을 "
+"잃었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/Order_Solutions.Entries.Array.data[7].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "3c50d841-5105-44fd-bd7d-5badb10d5ea6"
 msgid ""
 "The assassin's attack was barely repelled, and the deadly criminal was "
 "allowed to escape."
-msgstr ""
+msgstr "암살 시도를 간신히 막아내긴 했지만 암살범의 탈출을 허용하고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/Order_Solutions.Entries.Array.data[7].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "d6e2b510-d15f-40c6-84d9-3e2d6c522c50"
 msgid ""
 "The Warden personally positioned his guards both inside and outside the "
 "castle. They performed admirably, handily capturing the assassin."
-msgstr ""
+msgstr "감시관은 경비대를 성의 안팎에 직접 배치했습니다. 경비대의 대처는 매우 적절하여, 암살자를 손쉽게 체포할 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/Order_Solutions.Entries.Array.data[9].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "cfda4534-a35d-4eb6-b7e3-72f53cbddf37"
@@ -7532,6 +7558,8 @@ msgid ""
 "{mf_Spymaster|he|she} was approached by a young woman carrying the head of "
 "the hapless assassin in a bag."
 msgstr ""
+"장관은 위협에 대응하여 {mf_Spymaster|그|그녀}가 맺은 붉은 사마귀단과의 계약을 실행했습니다. 불과 몇 일 지나지 않아, 어떤 "
+"젊은 여성이 불운한 암살자의 잘린 목을 장관에게 가져왔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/StreetDruids_LocalizedDescription
 msgctxt "6494e872-186f-4f02-97b8-7b95fec2b3e2"
@@ -7875,6 +7903,8 @@ msgid ""
 "generously rewarded bards, and a show execution — and the people started "
 "showing a lot more respect towards their {mf|King|Queen}."
 msgstr ""
+"선동가의 조언은 꽤 쓸만했습니다. 작은 축제 몇 번과 함께 넉넉하게 돈을 건네받은 바드들이 어우러진 공연으로, {mf|왕|여왕}에 대한 "
+"백성들의 존경이 무척 커졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Changelings_LocalizedDescription
 msgctxt "a38f9035-4638-4456-a1c2-c50bce702866"
