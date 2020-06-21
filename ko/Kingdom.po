@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
 "PO-Revision-Date: 2020-06-21 19:06+0000\n"
-"Last-Translator: laz <joholja@gmail.com>\n"
+"Last-Translator: Abraxas <netnk9151@hanmail.net>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -7584,6 +7584,8 @@ msgid ""
 "dangerous street of the slums without proper protection. The locals gave the"
 " druids a heavy beating, and took everything even remotely valuable…"
 msgstr ""
+"섭정은 경솔하게도 빈민가의 가장 위험한 골목에 별다른 보호조치 없이 드루이드들을 투입했습니다. 결국 드루이드들은 주민들에게 심하게 "
+"두드려맞고, 몸에 걸친 속옷 한 장까지 털리고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/StreetDruids_Solutions.Entries.Array.data[0].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "a3fa3f02-1a17-4ed8-853a-b2d1c2f819f7"
@@ -7592,6 +7594,8 @@ msgid ""
 "druids. There are now a couple of new community houses for orphans and "
 "beggars in the slums."
 msgstr ""
+"섭정의 부하들은 빈민가의 주민들을 모아놓고 드루이드들의 활동을 도와줄 것을 요청했습니다. 그 결과 지금은 빈민가에 고아와 거지들을 위한 "
+"보호시설 여러 곳이 들어섰습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/StreetDruids_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "02a1235f-2d3e-416e-be3a-6d0ef511094b"
@@ -7601,6 +7605,8 @@ msgid ""
 "inhabitants of the slums themselves, new wooden houses now stand where there"
 " were once only run-down shacks."
 msgstr ""
+"섭정은 주민들에게 드루이드들의 활동에 합류해서 최대한의 조력을 더해줄 것을 요청했습니다. 수십 명의 자원봉사자들과, 빈민가 주민들의 "
+"자발적인 노력 덕분에 과거에는 다 쓰러져가는 오두막에 불과했던 집들이 튼튼한 새 목조주택으로 재건축되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/StreetDruids_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "a11e4fc1-c765-49ca-a35b-68cdfe63487c"
@@ -7609,6 +7615,8 @@ msgid ""
 " religious differences. The improvements made in the beggars' quarter were "
 "too minor to really change anything."
 msgstr ""
+"드루이드들은 당신의 사제단과 신앙에 대한 견해가 너무나 달랐습니다. 결국 드루이드들이 거지 구역에 가져온 변화는 현실을 바꾸기에는 너무 "
+"미약한 것으로 드러났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/StreetDruids_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "5f31faf3-6a15-448e-852a-16487440e8fb"
@@ -7624,6 +7632,8 @@ msgid ""
 "on the fringes of Stolen Lands to help the druids in their noble task. "
 "Working together, they were able to cure the slums of infectious diseases!"
 msgstr ""
+"대사제는 드루이드들의 고귀한 과업을 돕기 위해 변두리 땅에 큰 수도원을 건축하자고 제안했습니다. 사제들과 드루이드들은 합심하여 빈민가의 "
+"전염병을 치료할 수 있었습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/StreetDruids_Solutions.Entries.Array.data[6].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "6581cf0e-53b4-40cf-9def-2b4d49e03f40"
@@ -7657,6 +7667,9 @@ msgid ""
 " is quite lucrative, for the dwarves never sell such machinery to outsiders."
 " However, there's a hitch — the equipment they're selling is stolen."
 msgstr ""
+"다섯 왕 산맥의 소규모 드로스카 신도들이 {mf|남작령|남작령|왕국|왕국}에 드워프제 채굴 도구 판매를 제의해왔습니다. 드워프들이 "
+"드워프제 기구를 보통 외부에 팔려 들지 않는다는 점에서 매력적인 제안이기는 합니다만, 작은 문제가 하나 있습니다. 그 도구들이 바로 "
+"장물이라는 점입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TechicTrick_LocalizedName
 msgctxt "96c93234-b737-404f-a207-6236d667af92"
@@ -7694,7 +7707,7 @@ msgctxt "86bbb846-1c07-4a37-9310-dfccf7431374"
 msgid ""
 "The Treasurer threatened to turn in the cultists to their dwarven brethren, "
 "and they surrendered the equipment for a mere pittance."
-msgstr ""
+msgstr "재무관은 사교 집단에게 그들을 동포 드워프 부족들에게 넘겨버리겠다고 협박했고, 그들은 헐값에 장비를 넘길 수 밖에 없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TechicTrick_Solutions.Entries.Array.data[4].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "06f85dc5-51df-47d6-8a44-e28219ad41e3"
@@ -7711,6 +7724,8 @@ msgid ""
 "ambassador promised that his people will not soon forget the Grand "
 "Diplomat's help."
 msgstr ""
+"수석 외교관이 방문 중인 유력한 드워프 부족에게 사교 집단에 대한 정보를 넘겨주었습니다. 도둑들은 잡혔고, 드워프 사절은 그들 부족이 "
+"수석 외교관의 도움을 잊지 않을 것이라고 약조했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TechicTrick_Solutions.Entries.Array.data[4].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "5c9daea8-7df9-4258-8ad8-2fd4e4e1f1fe"
@@ -7764,6 +7779,8 @@ msgid ""
 "blueprints, stolen from the very same dwarves who they themselves had "
 "robbed."
 msgstr ""
+"물건을 도둑맞은 바로 그 드워프와 같은 드워프들로부터 훔쳐낸 설계도 몇 장을 사교도들에게 제공한 후, 장관은 할인된 가격으로 장비를 "
+"구매했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TechicTrick_Solutions.Entries.Array.data[9].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "e05aedce-aeb9-4a7f-a7ff-65f7fd58b65c"
@@ -7773,6 +7790,8 @@ msgid ""
 "specialist led a \"seminar\" for them, where he shared a few skills with "
 "them which might prove useful in their next endeavor."
 msgstr ""
+"사교도들이 {mf|남작령|남작령|왕국|왕국}에 몇몇 장비들을 공물로 진상했습니다. 그 보상으로 장관 휘하의 최고 전문가가 사교도들과 \""
+"세미나\"를 열었는데, 그 세미나에서 전문가는 사교도들의 다음 도둑질에서 유용하게 쓰일 기술을 전수했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TreasuresOfElders_LocalizedDescription
 msgctxt "767e9ba7-0aa3-4012-ae71-9bc5dc755458"
@@ -7782,11 +7801,13 @@ msgid ""
 "are being taken from the lands of the {mf|baron|baroness|King|Queen}. This "
 "cannot continue!"
 msgstr ""
+"한 떼의 도굴꾼들이 오래된 묘지들을 파헤쳐 부장품들을 국외로 밀반출하고 있습니다. 강력한 마법 도구와 고대의 유물, 값비싼 마법서들이 "
+"매일 같이 {mf|남작|여남작|왕|여왕}의 영토에서 약탈당하고 있습니다. 이들을 반드시 막아야 합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TreasuresOfElders_LocalizedName
 msgctxt "5b3414e7-a405-4e31-a657-378b9c908a88"
 msgid "The Treasures of the Ancients"
-msgstr ""
+msgstr "고대인들의 보화"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TreasuresOfElders_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "5b4002cc-d41d-47fe-898c-7a3462978917"
@@ -7795,6 +7816,8 @@ msgid ""
 "immediately scared off the criminals. The last time anyone saw of the "
 "robbers, they were boarding a ship for Tian Xia…"
 msgstr ""
+"감시관은 모든 규모있는 골동품 상인들을 취조하기 시작했고, 범인들은 겁에 질렸습니다. 도굴꾼들은 티옌 샤로 가는 배에 오르는 모습이 "
+"마지막으로 목격되지 않았다고 합니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TreasuresOfElders_Solutions.Entries.Array.data[7].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "24330a33-2ec9-489d-8aa4-9bda9235da57"
@@ -7812,6 +7835,8 @@ msgid ""
 "Afterwards, they managed to find a hidden stash of antiquities in the home "
 "of the gang's leader!"
 msgstr ""
+"감시관은 한 친구를 갈트에서 온 수집가로 위장시켰고, 도굴꾼들은 이 함정에 빠져 위병들에게 체포되고 말았습니다. 추후 위병들은 도굴꾼 "
+"두목의 은거지를 수색하다가 비밀 유물함을 발견하였습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TreasuresOfElders_Solutions.Entries.Array.data[8].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "90588cd1-c5ad-4329-83de-8ec1b6069bab"
@@ -7820,6 +7845,7 @@ msgid ""
 "nothing. The gang easily left the country, taking with them a few wagons "
 "full of antiquities which they didn't have time to sell..."
 msgstr ""
+"학예사는 도굴꾼들을 체포하는 데 실패했습니다. 도굴꾼들은 미처 처리하지 못한 장물 수레 몇 대를 끌고 손쉽게 국경을 벗어나고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TreasuresOfElders_Solutions.Entries.Array.data[8].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "e7ee7db1-dca5-441a-bbaf-7fff0c80db39"
@@ -7841,6 +7867,9 @@ msgid ""
 "{mf|barony|barony|kingdom|kingdom} as a propagandist for a time — at least "
 "until the Chelish hounds pick up his trail again."
 msgstr ""
+"도둑맞은 땅에 은거하고 있는 첼리악스의 전직 고위급 선동가 한 사람이, {mf|남작령|남작령|왕국|왕국}의 선전선동 전문가로 봉직을 "
+"제안했습니다. 그가 보기엔 이 땅 백성들이 통치자에 대한 애정이 부족했다고 합니다. 최소한 첼리악스의 사냥개들이 다시 그의 흔적을 "
+"추적해오기 전 까지는 일을 해줄 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/ArtOfConviction_LocalizedName
 msgctxt "b352442f-2d74-4f9e-92d9-62f2a8a28aa5"
@@ -7854,6 +7883,8 @@ msgid ""
 " local people resent the army. The louder the slogans, the less recruits "
 "come to the garrisons."
 msgstr ""
+"그 첼리악스인의 선동은 대담하고 노골적이어서, 오히려 민중 사이에 군대에 대한 불만만 자극했습니다. 선전 활동이 활발해질수록 오히려 모병 "
+"인원은 줄어들기만 했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/ArtOfConviction_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "e57378cd-1fb1-45ef-adbc-038f493cbe16"
@@ -7879,6 +7910,8 @@ msgid ""
 "neighboring lands — about the {mf|King|Queen} and {mf|his|her} \"special\" "
 "relationship with a hunchbacked court dishwasher."
 msgstr ""
+"선동가는 보좌관의 지시로 불명예스럽게 추방되었습니다. 그에 대한 보복으로 쫓겨난 선동가는 이웃한 지역을 돌며 {mf|왕|여왕}과 그 "
+"궁정의 곱추 잡역부 사이에 있었다는 \"특별한\" 관계에 대한 추문을 널리 퍼트렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/ArtOfConviction_Solutions.Entries.Array.data[8].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "e1ff1627-fe51-452e-b694-6f88109f0e98"
@@ -7905,6 +7938,8 @@ msgid ""
 "was trying to pull the wool over their eyes. No one likes being played for a"
 " fool, and the objections of the unhappy people are rising."
 msgstr ""
+"선동가가 선동을 시작한지 얼마 안 되어, 민중은 그가 얄팍한 선동으로 자신들을 속이려 하는 걸 간파했습니다. 바보 취급 받는 것을 "
+"좋아하는 사람은 아무도 없었는지라, 백성들의 반감이 상승했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/ArtOfConviction_Solutions.Entries.Array.data[8].Resolutions.Array.data[4].LocalizedDescription_String
 msgctxt "50039089-0640-4984-ab39-ed73f2b83add"
@@ -7932,11 +7967,14 @@ msgid ""
 "But where are the real children? They must be found at once, and the "
 "kidnappings stopped!"
 msgstr ""
+"겁에 질린 부모들이 무언가가 자기 아이들을 납치하고 그 자리에 대신 무언가를 남겨놓는다고 말했습니다! 과연 창백한 얼굴과 검은 머리칼에 "
+"큰 눈을 지닌 이 소녀들은 몰래 바꿔치기한 마녀들의 여식, 체인질링이 분명해 보입니다. 그렇다면 진짜 아이들은 어디로 간 것일까요? 당장 "
+"그들을 찾고, 이 유괴를 멈춰야 합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Changelings_LocalizedName
 msgctxt "58c40f50-59c1-4048-896c-1e69db1dc640"
 msgid "Changelings"
-msgstr ""
+msgstr "체인질링"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Changelings_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "45ce9656-d0e8-4483-8095-b2db4ef10587"
@@ -7954,7 +7992,7 @@ msgctxt "bd15cf8a-3a8d-417d-9617-7c2496402792"
 msgid ""
 "The advisor's hunters could not find and rescue the stolen children. The "
 "people are grumbling, furious, and terrified all at the same time."
-msgstr ""
+msgstr "보좌관이 보낸 사냥꾼들은 납치당한 아이들은 찾는 데 실패했습니다. 민중은 불평과 분노, 공포에 사로잡혔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Changelings_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "31680e00-1a46-4320-b300-446de1dce452"
@@ -7964,6 +8002,8 @@ msgid ""
 " failed to catch any of the hags. Still, the missing children were returned "
 "home safely, and that's what matters most."
 msgstr ""
+"보좌관이 보낸 사냥꾼들은 유괴범들의 흔적을 발견하는 데 성공했습니다. 그들은 숲 속에서 납치된 아이들이 갖혀있는 구덩이를 찾아냈지만, "
+"마녀를 잡는 데는 실패했습니다. 어쨌든 가장 중요한 아이들은 모두 안전하게 구조할 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Changelings_Solutions.Entries.Array.data[5].Resolutions.Array.data[3].LocalizedDescription_String
 msgctxt "ab37d9de-3167-45bb-8257-497d67597375"
@@ -7974,6 +8014,8 @@ msgid ""
 "children returned to their parents' arms. The people are praising their "
 "{mf|King|Queen}."
 msgstr ""
+"보좌관이 보낸 사냥꾼들은 마녀들의 우두머리를 체포하는 데 성공했고, 마녀를 취조하여 아이들과 공범들을 숨겨놓은 장소를 알아냈습니다. "
+"무시무시한 괴물들을 처치한 끝에, 아이들을 무사히 부모의 품으로 돌려보낼 수 있었습니다. 백성들이 {mf|왕|여왕}을 칭송하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Changelings_Solutions.Entries.Array.data[5].Resolutions.Array.data[4].LocalizedDescription_String
 msgctxt "03224e26-5047-4c61-993f-0ded923c838c"
@@ -7984,6 +8026,9 @@ msgid ""
 "in search of their missing children, only to perish in the claws and maws of"
 " monsters and beasts."
 msgstr ""
+"마녀들과 협상으로 사건을 해결하려던 보좌관의 시도는 대실패로 끝났습니다. {mf|왕|여왕}의 신료들이 괴물들과 접촉한다는 소문은 평민들의 "
+"공포를 키웠습니다. 아이들을 잃은 부모들 중 일부는 직접 아이들을 찾으러 야산을 누비고 다녔으나, 결국은 괴물과 야수들의 한 끼 식사가 "
+"되어 스러질 뿐이었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Changelings_Solutions.Entries.Array.data[5].Resolutions.Array.data[5].LocalizedDescription_String
 msgctxt "90fd1e1f-e7e7-4920-9463-7049f9d2f394"
@@ -7992,6 +8037,8 @@ msgid ""
 " the capital's messengers. The children are still missing, and the "
 "kidnappers are nowhere to be found."
 msgstr ""
+"보좌관은 마녀들을 돈으로 회유하려 했지만, 마녀들은 전령들의 눈 앞에서 그저 비웃을 뿐이었습니다. 아직도 아이들은 실종 상태이고, "
+"유괴범들은 흔적도 찾을 수 없습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Changelings_Solutions.Entries.Array.data[5].Resolutions.Array.data[6].LocalizedDescription_String
 msgctxt "44dda3ad-9731-45d4-8aa3-d9625a44a5b8"
@@ -8013,6 +8060,8 @@ msgid ""
 "everything was fine with their children. The hags, impressed by the "
 "advisor's malign ingenuity, sent gifts to the castle."
 msgstr ""
+"보좌관과 마녀들은 모종의 거래를 했습니다. 보좌관의 부하들은 부모들이 생각을 잘못 했으며, 아이들은 지극히 정상이라고 부모들을 "
+"설득했습니다. 마녀들은 보좌관의 이 사악한 일처리에 감탄하여 성으로 선물을 보내왔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/GuestsFromThornkeep_LocalizedDescription
 msgctxt "4a4ce06e-3fc2-40af-9f17-eeed18a841a5"
@@ -8024,6 +8073,9 @@ msgid ""
 "{mf|barony's|barony's|kingdom's|kingdom's} neighbors think they are being "
 "attacked by raiders from the Stolen Lands."
 msgstr ""
+"가시성채의 강도들은 이웃 영지를 약탈하러 갈 때 항상 이 지역을 통과했다가, 돌아올 때에는 국경선 살짝 바깥으로 숨어 복귀하곤 합니다. "
+"우리 국경에서 불과 몇 걸음 떨어지지 않은 곳에서 숙영하긴 하지만, 공식적으로는 가시성채의 영토 내라서 큰 문제가 되지는 않습니다. "
+"그러나 이웃들은 자신들이 도둑맞은 땅에서 온 강도들에게 약탈당하고 있다고 생각하는 것이 문제입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/GuestsFromThornkeep_LocalizedName
 msgctxt "f6b76f23-d572-4b21-8182-259c9f2e816f"
@@ -30240,11 +30292,15 @@ msgid ""
 " them. Just before waking, the {mf|baron|baroness|King|Queen} hears a faint "
 "whisper: \"Come to me, hero. I await you here, in the Tenebrous Depths.\""
 msgstr ""
+"{mf|남작|여남작|왕|여왕}는 요즘 반복되는 꿈으로 괴로워하고 있습니다. 어떤 용감한 영웅들이 지하 고대 유적으로 들어간 후 다시는 "
+"돌아오지 않는 꿈을 말입니다. 그들의 얼굴은 단호한 결의에 차있었고, 입술은 가늘게 다물고 있었습니다. 한줄기의 성난 붉은 태양 빛이 "
+"어둠속으로 들어가는 영웅들 비추며 뻗어나가고 있었습니다. {mf|남작|여남작|왕|여왕}는 꿈에서 깨어나기 전, 희미한 속삭임을 듣습니다. "
+"\"저에게 오십시오 영웅이여. 저는 여기, 어둠의 심연에서 그대를 기다립니다.\""
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/StorySupport/DLC3-DreamAboutHub_LocalizedName
 msgctxt "df3aabd5-55b5-4656-8382-228fd913c3fe"
 msgid "Tenebrous Dreams"
-msgstr ""
+msgstr "암연의 꿈"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/StorySupport/DLC3-DreamAboutHub_Results.Array.data[0].LocalizedDescription
 msgctxt "05025ef7-0ab4-4b67-9a46-7aa44fd0d53a"
