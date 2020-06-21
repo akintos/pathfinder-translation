@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
 "PO-Revision-Date: 2020-06-21 19:06+0000\n"
-"Last-Translator: Abraxas <netnk9151@hanmail.net>\n"
+"Last-Translator: ayame <eveforce@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -11054,12 +11054,14 @@ msgid ""
 "Grumblings of popular discontent can be heard in the capital. Advisors "
 "should either answer to the rabble-rousers or nip the rebellion in the bud."
 msgstr ""
+"정체를 알수없는 말썽꾼들이 시민들로 하여금 통치자에게 반항하도록 선동하고 있습니다. 벌써부터 시민들의 불평 불만 소리가 수도에서 들려오고 "
+"있습니다. 보좌관을 보내 폭도들의 요구에 응답하거나 또는 반란을 미연에 방지할 수 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Instigators_LocalizedName
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Instigators_LocalizedName_String
 msgctxt "90790711-9c33-4f57-9a2f-3f5904d67fb8"
 msgid "Troublemakers"
-msgstr ""
+msgstr "말썽꾼들"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Instigators_Solutions.Entries.Array.data[0].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "6a312bb6-ce55-475a-aa23-a7f68aacd2d4"
@@ -11082,6 +11084,8 @@ msgid ""
 "in the capital. The instigators disappeared as quickly as they emerged, once"
 " the locals' faith in their ruler was restored."
 msgstr ""
+"사람들은 싸움을 원치 않았습니다. - 단지 그들의 목소리는 수도에서부터 들려왔다는 것을 알게 되었습니다. 통지자에 대한 현지민들의 신뢰가 "
+"다시 회복되자 선동자들은 등장하자마자 바로 사라져 버렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Instigators_Solutions.Entries.Array.data[0].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "b33c9c7a-2b0e-4c35-bc19-303d6b0d7775"
@@ -11090,13 +11094,15 @@ msgid ""
 "in the capital. The instigators disappeared as quickly as they emerged, once"
 " the citizens' faith in their ruler was restored."
 msgstr ""
+"사람들은 싸움을 원치 않았습니다. - 단지 그들의 목소리는 수도에서부터 들려왔다는 것을 알게 되었습니다. 통지자에 대한 시민들의 신뢰가 "
+"다시 회복되자 선동자들은 등장하자마자 바로 사라져 버렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Instigators_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "cda4a5f2-a72d-4bd0-a4c5-3b5dea52107e"
 msgid ""
 "Violence has bred more violence. The flames of civilian riot have spread "
 "throughout the region."
-msgstr ""
+msgstr "폭력은 더 많은 폭력을 불러왔습니다. 시민 폭동의 불길이 지역 전체에 퍼졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Instigators_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "a29863cd-edc6-4da3-ab3d-e4f590007cd3"
