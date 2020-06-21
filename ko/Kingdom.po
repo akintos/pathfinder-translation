@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
 "PO-Revision-Date: 2020-06-21 19:06+0000\n"
-"Last-Translator: 냠 <setsuna444@naver.com>\n"
+"Last-Translator: laz <joholja@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -7435,7 +7435,7 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/Equilibrium_LocalizedName
 msgctxt "fce9ddd3-371b-46e0-858d-3d88f736cd5c"
 msgid "Balance"
-msgstr ""
+msgstr "균형"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/Equilibrium_Solutions.Entries.Array.data[4].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "988c44bc-d1d7-4210-9ce4-da95ea260198"
@@ -7513,7 +7513,7 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/Order_LocalizedName_String
 msgctxt "9670a741-a3df-4270-bdd1-30bdf74b72fc"
 msgid "The Contract"
-msgstr ""
+msgstr "계약"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/Order_Solutions.Entries.Array.data[6].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "7c081fda-b911-43d9-8a6d-ed014f389992"
@@ -7569,11 +7569,13 @@ msgid ""
 " of the beggars' quarter, which has slowly turned into a nest of crime and "
 "disease."
 msgstr ""
+"자신들을 포석 드루이드라고 칭하는 도시 드루이드 무리가 도움을 제안해왔습니다. 그들은 최근들어 범죄와 질병의 소굴로 서서히 전락하고 있는 "
+"도시의 걸인 구역을 관리하고 싶다고 전했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/StreetDruids_LocalizedName
 msgctxt "7eca5eb9-ae0d-4b2c-be7d-194f9cf531d7"
 msgid "Cobblestone Druids"
-msgstr ""
+msgstr "포석 드루이드"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/StreetDruids_Solutions.Entries.Array.data[0].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "7e8d789e-d895-454f-bc6f-89cdc0c073e5"
@@ -7613,7 +7615,7 @@ msgctxt "5f31faf3-6a15-448e-852a-16487440e8fb"
 msgid ""
 "Together, the druids and the priests were able to cure many of the slums' "
 "inhabitants."
-msgstr ""
+msgstr "드루이드들은 사제들과 손잡고 빈민가의 주민 다수를 치료할 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/StreetDruids_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "70c2c89d-acbd-4eb4-b4e0-cac3bf62ed04"
@@ -7659,7 +7661,7 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TechicTrick_LocalizedName
 msgctxt "96c93234-b737-404f-a207-6236d667af92"
 msgid "A Technical Issue"
-msgstr ""
+msgstr "기술적인 문제"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TechicTrick_Solutions.Entries.Array.data[3].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "eeaf274a-de2d-4dd0-bbee-9fc2ed2a4f8e"
@@ -7668,6 +7670,8 @@ msgid ""
 "h{mf_Treasurer|is|er} investigators to track them. In any case they've "
 "disappeared and haven't been heard from."
 msgstr ""
+"이 사교 집단의 귀에도 재무관이 조사관을 보내 자신들을 추적하고 있다는 소문이 들어간 것이 틀림없습니다. 그들은 감쪽같이 사라지고 "
+"말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TechicTrick_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "16f5e665-f7d5-4c95-a33a-5b6e8a074843"
@@ -7676,12 +7680,14 @@ msgid ""
 "cultist's secret camp, and delivered this information to the leader of a "
 "prominent dwarven clan. The grateful leader's generosity knows no bounds!"
 msgstr ""
+"재무관이 고용한 조사원들은 이 사교 집단의 비밀 은거지를 찾아내어 인근의 유력 드워프 부족장에게 그 위치를 알려주었습니다. 족장은 정말로 "
+"관대한 사람이었습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TechicTrick_Solutions.Entries.Array.data[3].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "4934298a-3c13-4d18-8e00-83a24f1b115d"
 msgid ""
 "The Treasurer was able to buy the mining equipment for a reasonable price."
-msgstr ""
+msgstr "재무관은 채광 도구를 적당한 가격에 구매할 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TechicTrick_Solutions.Entries.Array.data[3].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "86bbb846-1c07-4a37-9310-dfccf7431374"
@@ -7695,7 +7701,7 @@ msgctxt "06f85dc5-51df-47d6-8a44-e28219ad41e3"
 msgid ""
 "By the time the Grand Diplomat's letter reached the dwarves, the thieves had"
 " already vanished..."
-msgstr ""
+msgstr "드워프들이 수석 외교관의 서신을 받아 봤을 무렵, 도둑들은 이미 사라지고 없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TechicTrick_Solutions.Entries.Array.data[4].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "12bc11c5-c61d-4515-a4f7-77e7ead1f9ed"
@@ -7712,7 +7718,7 @@ msgid ""
 "The Grand Diplomat introduced the cultists to potential customers from "
 "Brevoy. In thanks, they allowed {mf_GrandDiplomat|him|her} buy a few of the "
 "machines at a discount."
-msgstr ""
+msgstr "수석 외교관은 사교 집단을 브레보이의 고객들과 연결해주었고, 그 댓가로 몇몇 기계를 더 할인된 가격에 구매할 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TechicTrick_Solutions.Entries.Array.data[4].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "357db4e6-667f-4ef2-8fe7-ce2344098a18"
@@ -7720,6 +7726,8 @@ msgid ""
 "The Grand Diplomat helped the cultists forge a huge trade deal with Brevoy —"
 " in exchange for a few of the mining machines, of course."
 msgstr ""
+"수석 외교관은 사교 집단과 브레보이 사이에 대규모의 무역 거래를 주선했습니다. 물론 그 댓가로 공짜 채광 장비 약간을 얻어낼 수 "
+"있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TechicTrick_Solutions.Entries.Array.data[9].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "bcb4ae53-42b0-45c1-b57b-b44a53875f0d"
@@ -7728,6 +7736,8 @@ msgid ""
 "leader of the cultists. Both the thieves and the mining equipment vanished "
 "without a trace…"
 msgstr ""
+"사교 집단의 대장을 추적하기 위해 장관이 보냈던 첩자가 너무 시끄럽게 움직였던 모양입니다. 도둑들과 채광 장비 모두가 흔적도 없이 "
+"사라지고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TechicTrick_Solutions.Entries.Array.data[9].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "362819c0-f357-456c-b0a8-b5d1bdf42892"
@@ -7736,13 +7746,15 @@ msgid ""
 "to the dwarven authorities. They were rewarded with a dozen lockpicking "
 "sets, masterfully crafted from a secret dwarven alloy."
 msgstr ""
+"장관의 첩자들은 손쉽게 사교 집단의 대장을 생포하여 드워프 관리들에게 넘겼습니다. 첩자들은 그 댓가로 드워프들이 비밀리에 벼려낸 특급 "
+"자물쇠 해체 장비를 하사받았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TechicTrick_Solutions.Entries.Array.data[9].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "3ede7ecf-36b0-4d36-8d48-625d32b16b1a"
 msgid ""
 "The deal was called off! The price which the cultists demanded was far too "
 "high."
-msgstr ""
+msgstr "협상은 결렬되었습니다! 사교도들이 제시한 가격은 턱없이 높았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TechicTrick_Solutions.Entries.Array.data[9].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "dfc114fd-bf77-43e3-90fb-6aa31e20e907"
@@ -7790,7 +7802,7 @@ msgid ""
 "The Warden asked an aristocratic friend to masquerade as a collector from "
 "Galt, and lure the tomb robbers into a trap. They were arrested by the "
 "guards."
-msgstr ""
+msgstr "감시관은 한 귀족 친구를 갈트에서 온 수집가로 위장시켜, 도굴꾼들을 함정으로 유인했습니다. 도굴꾼들은 위병들에게 체포되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TreasuresOfElders_Solutions.Entries.Array.data[7].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "b8506937-120e-4f5b-923d-888548601ab0"
@@ -7817,6 +7829,8 @@ msgid ""
 "the stolen goods out of the country on their own — and were captured by the "
 "guards!"
 msgstr ""
+"학예사는 도굴꾼들을 직접 잡기보다는 유물의 수출을 통제하기로 했습니다. 도굴꾼들은 장물의 마땅한 구매자를 찾지 못하자 자기 나라로 밀수를 "
+"시도했으나, 위병들에게 모두 체포되고 말았습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/ArtOfConviction_LocalizedDescription
 msgctxt "3293f1ae-1d45-4011-8ec9-4b1700957247"
@@ -7831,7 +7845,7 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/ArtOfConviction_LocalizedName
 msgctxt "b352442f-2d74-4f9e-92d9-62f2a8a28aa5"
 msgid "The Art of Persuasion"
-msgstr ""
+msgstr "설득의 기술"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/ArtOfConviction_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "b1e5af75-538e-4b7b-931f-77d1d8de4389"
@@ -7846,7 +7860,7 @@ msgctxt "e57378cd-1fb1-45ef-adbc-038f493cbe16"
 msgid ""
 "Despite all the agitator's slogans and tricks, the simple folk still don't "
 "want to enlist and give their lives for their country."
-msgstr ""
+msgstr "선동가가 온갖 미사여구를 갖다붙여도, 이 순박한 시골 사람들은 병사가 되어 나라를 위해 목숨을 바치고 싶어하지 않았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/ArtOfConviction_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "06efabb1-1ca8-4f20-9554-3d6da21ccb72"
@@ -7855,6 +7869,7 @@ msgid ""
 "made a lasting impression: the flow of army recruits has grown "
 "significantly."
 msgstr ""
+"화려한 의장 행렬과, 완전무장한 전사들의 모의 백병전은 강한 인상을 남겼던 모양입니다. 모병에 지원하는 인원이 크게 늘어났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/ArtOfConviction_Solutions.Entries.Array.data[8].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "cc4dffae-5ea6-4048-ab23-c3e8beb7d22b"
@@ -7870,7 +7885,7 @@ msgctxt "e1ff1627-fe51-452e-b694-6f88109f0e98"
 msgid ""
 "On the advisor's orders, the immoral agitator was exiled from the "
 "{mf|barony|barony|kingdom|kingdom}."
-msgstr ""
+msgstr "이 악질 선동가는 곧 보좌관의 지시에 따라 {mf|남작령|남작령|왕국|왕국}에서 추방되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/ArtOfConviction_Solutions.Entries.Array.data[8].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "ea7a5109-a553-4de9-8698-c168883bac30"
@@ -7880,6 +7895,8 @@ msgid ""
 "witness to the event hailed their ruler for {mf|his|her} fairness and "
 "nobility."
 msgstr ""
+"사람들의 환호 속에, 보좌관은 선동가를 공식적으로 국경 밖으로 추방했습니다. 사건의 내막을 목격했던 백성들은 너나할 것 없이 통치자의 "
+"고귀함과 공명정대함을 칭송했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/ArtOfConviction_Solutions.Entries.Array.data[8].Resolutions.Array.data[3].LocalizedDescription_String
 msgctxt "c4cc57e6-ebf4-4f32-b185-0e05f3f394af"
@@ -7894,7 +7911,7 @@ msgctxt "50039089-0640-4984-ab39-ed73f2b83add"
 msgid ""
 "The agitator's propaganda had no effect on the local populace. Nevertheless,"
 " he demanded to be paid in full for his dubious services."
-msgstr ""
+msgstr "선동가의 선전선동은 민중에게 아무 영향도 미치지 못했습니다. 그럼에도 그는 자신의 조력에 대한 충분한 보상을 요구했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/ArtOfConviction_Solutions.Entries.Array.data[8].Resolutions.Array.data[5].LocalizedDescription_String
 msgctxt "052343fe-5e35-4bda-8a0e-bfc3abf0d5f1"
@@ -7929,6 +7946,8 @@ msgid ""
 "parents of the missing children have grown desperate, and families not yet "
 "touched by the calamity are fleeing the region."
 msgstr ""
+"보좌관이 보낸 사냥꾼들은 잘못된 길로 들어선 끝에, 마녀들이 보낸 맹수들의 이빨과 발톱에 찢겨 짙은 덤불 속에서 죽어갔습니다. 아이들을 "
+"잃은 부모들은 더욱 절박해졌고, 아직 비극을 맞지 않은 가족들은 서둘러 지역을 탈출하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Changelings_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "bd15cf8a-3a8d-417d-9617-7c2496402792"
@@ -7982,6 +8001,9 @@ msgid ""
 "isn't easy to come by in a forest. The parents are happy to see their young "
 "ones back."
 msgstr ""
+"보좌관은 결국 마녀들과 협상을 성사시켰습니다. 금으로 가득한 큰 자루 하나와, 수레 여러 대 분의 새끼 돼지를 댓가로 납치된 아이들을 "
+"되찾아 온 것입니다. 아무래도 새끼 돼지는 숲에서 쉽게 찾을 수 없는 진미가 아니겠습니까? 아이들을 되찾은 부모들이 매우 기뻐한 것은 "
+"물론이었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Changelings_Solutions.Entries.Array.data[5].Resolutions.Array.data[7].LocalizedDescription_String
 msgctxt "4b63826d-edce-4766-8c72-b4d6d3b1128c"
@@ -8006,7 +8028,7 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/GuestsFromThornkeep_LocalizedName
 msgctxt "f6b76f23-d572-4b21-8182-259c9f2e816f"
 msgid "Guests from Thornkeep"
-msgstr ""
+msgstr "가시성채에서 온 손님들"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/GuestsFromThornkeep_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "e66be975-0193-4aea-849c-95ccf9676749"
