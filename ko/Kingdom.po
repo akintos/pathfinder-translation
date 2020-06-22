@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
 "PO-Revision-Date: 2020-06-22 15:07+0000\n"
-"Last-Translator: laz <joholja@gmail.com>\n"
+"Last-Translator: Abraxas <netnk9151@hanmail.net>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -8111,6 +8111,8 @@ msgid ""
 "inform him of any suspicious new faces they see in the region. The bandits "
 "can no longer slip through these lands to raid our neighbors."
 msgstr ""
+"감시관은 지역민들의 지원을 받기 위해 최선을 다했습니다. 이제 지역민들은 수상한 외지인이 눈에 띄기만 하면 감시관에게 막바로 신고하고 "
+"있습니다. 도적들믄 더이상 우리 이웃을 약탈하러 국경을 마음대로 넘나들 수 없게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/GuestsFromThornkeep_Solutions.Entries.Array.data[7].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "3aae0d58-b812-4feb-b8a9-349fd49dff0d"
@@ -8130,6 +8132,8 @@ msgid ""
 " our lands as well, and our neighbors are outraged that we took such a "
 "spineless stance towards the brigands."
 msgstr ""
+"감시관은 도적떼들로부터 강제로 통행료를 징수하려 했지만, 도적들은 콧등으로도 듣지 않았습니다. 이제 도적들은 우리 영지까지도 마구 "
+"약탈하고 있으며, 도적들에게 근본없는 제안을 한 사실이 알려지면서 이웃 나라들의 분노를 사고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/GuestsFromThornkeep_Solutions.Entries.Array.data[7].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "f6a2ebcb-d725-44bb-81a8-9bb670bd2e4f"
@@ -8139,6 +8143,9 @@ msgid ""
 "pillaging the {mf|barony's|barony's|kingdom's|kingdom's} neighbors, and "
 "their victims keep sending us more and more indignant complaints."
 msgstr ""
+"감시관은 도적들을 위협하여 {kingdomname}을(를) 통과하는것에 대한 통행료를 징수하려고 했지만, 도적들에게는 통하지 않았습니다. "
+"그들은 여전히 {mf|남작령|남작령|왕국|왕국}의 이웃 나라들을 약탈하고 있으며, 피해를 입은 영지에서 분노에 찬 항의 서신이 나날이 "
+"지날 수록 더 많이 날아오고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/GuestsFromThornkeep_Solutions.Entries.Array.data[7].Resolutions.Array.data[6].LocalizedDescription
 msgctxt "050800ff-72a7-4462-bdc8-064604b63a2e"
@@ -8147,6 +8154,8 @@ msgid ""
 "to pass, or they don't pass. After a brief moment's consideration, the "
 "bandits decided to steer clear of the dubious deal, and left these lands."
 msgstr ""
+"감시관은 엄준하게 법을 시행했습니다. 강도들은 통행료를 지불하지 않고는 영토를 통과할 수 없게 되었고, 손익과 득실을 따져본 강도들은 곧 "
+"이 땅을 떠나버렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/GuestsFromThornkeep_Solutions.Entries.Array.data[7].Resolutions.Array.data[7].LocalizedDescription
 msgctxt "b0add2a4-636a-4e75-8fcd-c5464dfdd4e1"
@@ -8166,6 +8175,9 @@ msgid ""
 "mages claim that it was the Lost Prince of the fey himself! The Stolen Lands"
 " must be rid of every trace of his brief stay."
 msgstr ""
+"신비로운 방랑자 한 명이 마을 한 곳을 거쳐간 후, 갑자기 마을 사람 대부분이 부자연스러운 우울증에 시달리게 되었습니다. 마법사들은 그 "
+"방랑자가 바로 페이들의 잊혀진 왕자라고 주장하고 있습니다! 도둑맞은 땅에 그가 머문 시간은 잠깐에 불과하지만, 그 흔적은 반드시 제거해야 "
+"합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Melancholy_LocalizedName
 msgctxt "4e92fcd1-8262-4ab4-9d7f-50ec89eeb462"
@@ -8219,6 +8231,8 @@ msgid ""
 " Alas, the magic of the fey was too strong. The people remain morose and "
 "sullen."
 msgstr ""
+"학예사의 신료들은 축제를 열어 영지에 기쁨을 주려고 했습니다. 하지만 슬프게도, 페이의 마법은 너무나 강력했습니다. 사람들은 여전히 "
+"음울한 기분에 시달립니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Melancholy_Solutions.Entries.Array.data[8].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "534f145e-2827-402a-ad72-8e332e14f860"
@@ -8227,6 +8241,8 @@ msgid ""
 "and inspired them with magnificent ballads. Even fey magic is no match for "
 "the creative spirit!"
 msgstr ""
+"학예사의 부하들이 준비한 광대들의 익살극과 위대한 서사시 공연은 사람들에게 웃음과 영감을 되찾아주었습니다. 페이의 마법조차도 창의력 "
+"앞에서는 무력한 모양입니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Unsensuals_LocalizedDescription
 msgctxt "d8455d2e-2921-4946-b413-efdd689fc304"
@@ -8284,6 +8300,8 @@ msgid ""
 " and imprisoned. The difficult decision was met with sullen understanding by"
 " the subjects."
 msgstr ""
+"장관은 감정을 잃어버린 사람들을 모두 색출하여 감금하라는 명령을 내렸습니다. 이 어려운 결정에 대하여, 백성들도 우울하게나마 수긍하는 "
+"분위기였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Unsensuals_Solutions.Entries.Array.data[9].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "66d4ff58-dea5-45bc-83ad-d88f3b251da0"
@@ -8417,7 +8435,7 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/FairyJokes_LocalizedName
 msgctxt "2d008a32-3df2-4360-9f0f-d98bd042a775"
 msgid "Fey Tricks"
-msgstr ""
+msgstr "페이들의 장난"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/FairyJokes_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "a25dc166-4cf1-42dc-8920-c29cd9b8ad25"
@@ -8427,6 +8445,8 @@ msgid ""
 "decided to remain the way they are! The \"{mf|barony|barony|kingdom|kingdom}"
 " of pigs and goats\" has become the laughing stock of its neighbors."
 msgstr ""
+"이미 늦었습니다. 동물로 변한 사람들 일부는 마을 외곽으로 도망쳤고, 다른 사람들은 맹수들의 먹이가 되었습니다. 나머지 사람들도 그냥 "
+"동물인 채로 살아가기로 결정해버렸습니다! \"돼지와 염소들의 {mf|남작령|남작령|왕국|왕국}\"은 이웃들 사이에서 웃음거리가 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/FairyJokes_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "24bf48b4-9715-45a5-a5d2-bbd8e85ec993"
@@ -8446,6 +8466,8 @@ msgid ""
 "furious woman has conjured an enormous snowstorm and sent it towards the "
 "Stolen Lands!"
 msgstr ""
+"이리센에서 매우 멀리 떨어진 {mf|남작령|남작령|왕국|왕국}이 어떻게 겨울 마녀의 화를 돋구었는지는 아직 수수께끼입니다만, 어쨌든 "
+"격분한 마녀가 거대한 눈폭풍을 소환해 도둑맞은 땅을 향해 내려보냈습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/IceFury_LocalizedName
 msgctxt "887bf630-3ae0-40b4-ba77-576aadadd4b4"
@@ -8489,6 +8511,8 @@ msgid ""
 "\"unavoidable consequences\". The Irriseni issued an apology, and fortified "
 "it with valuable gifts."
 msgstr ""
+"수석 외교관은 \"불가피한 결과\"에 대해 약속하는 것으로 마녀를 협박하는 데 성공했습니다. 이리센인들은 사과문과 함께, 값비싼 선물을 "
+"보내왔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/IceFury_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "f10ad606-5cfa-43c3-aa9a-2cf95c6ba3e2"
