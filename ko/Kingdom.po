@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-21 19:06+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2020-06-22 15:07+0000\n"
+"Last-Translator: laz <joholja@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -8101,6 +8101,8 @@ msgid ""
 " to slip through. The {mf|baron's|baroness's|King's|Queen's} advisor is "
 "stuck sorting through heaps of indignant letters sent from our neighbors."
 msgstr ""
+"보좌관이 국경 순찰을 강화했지만, 여전히 도적떼는 국경을 넘어다니고 있습니다. {mf|남작|여남작|왕|여왕}의 보좌관은 분노에 찬 "
+"이웃들의 편지더미를 분류하는 것만으로도 벅찰 지경입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/GuestsFromThornkeep_Solutions.Entries.Array.data[7].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "b17c0400-62de-423b-a4d5-eaaa74bb0d23"
@@ -8117,6 +8119,8 @@ msgid ""
 "every last one of the bandits. After learning that these roads were safe "
 "again, the merchants returned with their caravans."
 msgstr ""
+"경비병들은 국경을 차단하고, 지역 민병대의 협조 하에 도적떼 전원을 체포하였습니다. 도로가 안전해진 게 확인되자, 상인들이 상단과 함께 "
+"돌아오기 시작했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/GuestsFromThornkeep_Solutions.Entries.Array.data[7].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "d53020e1-70fb-4edd-bd86-8ea8bc955e36"
@@ -8151,6 +8155,8 @@ msgid ""
 " returning from their most recent raid, the brigands surrendered a part of "
 "their loot to the treasury."
 msgstr ""
+"감시관은 강도들에게 통행료를 내라고 요구했습니다. 결국 매번 약탈하고 돌아오는 길마다, 강도들은 약탈한 전리품의 일부를 국고에 납부하게 "
+"되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Melancholy_LocalizedDescription
 msgctxt "28611d1a-5213-4c3b-ad26-d010e8cae102"
@@ -8164,7 +8170,7 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Melancholy_LocalizedName
 msgctxt "4e92fcd1-8262-4ab4-9d7f-50ec89eeb462"
 msgid "Melancholy"
-msgstr ""
+msgstr "우울증"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Melancholy_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "df9d9e61-c267-4c62-abf7-9bcbe02e0542"
@@ -8173,6 +8179,8 @@ msgid ""
 " sorrowful peasants. The melancholy has started to spread among your "
 "subjects like a disease!"
 msgstr ""
+"보좌관 휘하의 신료들은 우울증 대책을 논의하느라 귀중한 시간을 잃고 말았습니다. 우울증은 당신의 신민들 사이에 마치 전염병처럼 확산되기 "
+"시작했습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Melancholy_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "76ad3c7a-5507-4a4c-89a6-f277621e7a80"
@@ -8181,6 +8189,8 @@ msgid ""
 "the power of the fey. The afflicted remain sullen, discontent and lacking "
 "any interest to the outside world."
 msgstr ""
+" 보좌관의 신료들은 마법의 힘을 동원해봤지만, 페이의 힘에는 적수가 되지 못했습니다. 우울증 환자들은 무뚝뚝하고, 불만투성이에, 세상 "
+"돌아가는 일에 무관심한 채로 남고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Melancholy_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "1bca0926-46ce-48c6-b0c7-ad285fa388ca"
@@ -8188,6 +8198,8 @@ msgid ""
 "The advisor's servants wove their magic, and cured the peasants of their "
 "sorrow. With a sigh of relief, the subjects returned to their normal lives."
 msgstr ""
+"보좌관의 신료들은 마법의 힘을 동원하여 간신히 농부들의 우울증을 치료할 수 있었습니다. 농부들은 안도의 한숨을 내쉬며 평소의 일상으로 "
+"돌아갔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Melancholy_Solutions.Entries.Array.data[5].Resolutions.Array.data[3].LocalizedDescription_String
 msgctxt "1c4154bf-f86f-4dc8-a022-9e5798e207ec"
@@ -8197,6 +8209,8 @@ msgid ""
 "discreetly influence the feelings of mortals. Now the people have begun "
 "loving their ruler even more than before!"
 msgstr ""
+"보좌관의 신료들은 마법적 수단으로 우울증을 치료할 수 있었습니다. 숙련된 마법사인 이들은, 치료법을 찾는 과정에서 사람들의 감정에 신중한 "
+"영향을 미칠 수 있는 주문들을 개발해냈습니다. 이제 민중은 자신들의 통치자를 여느 때보다도 더욱 사랑하게 되었습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Melancholy_Solutions.Entries.Array.data[8].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "2b8c518b-c9a7-4459-81b0-c6ba1c8772c5"
@@ -8224,11 +8238,14 @@ msgid ""
 "mortals who lost their souls in this way have turned into merciless "
 "psychopaths!"
 msgstr ""
+"{mf|남작령|남작령|왕국|왕국} 내의 몇몇 마을에서, 사람들이 모든 감정을 잃어버리는 놀라운 사건이 벌어지고 있습니다. 마법사들에 "
+"따르면 이는 사람의 감정으로 무기를 벼려내는 페이 대장장이들의 소행이라고 합니다. 이렇게 감정을 잃어버린 사람들은 서서히 무자비한 "
+"싸이코패스로 변해가고 있습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Unsensuals_LocalizedName
 msgctxt "4ee7c0de-31bc-4b89-8c10-c7b6577188e6"
 msgid "Stripped of Feeling"
-msgstr ""
+msgstr "감정 강탈"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Unsensuals_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "fa6d043f-40d9-405d-91a8-84bcb87f4d7f"
@@ -8237,6 +8254,8 @@ msgid ""
 "feel compassion, unable to rejoice, they roam the region, leaving a trail of"
 " sorrow and trouble behind them."
 msgstr ""
+"사제들은 감정을 잃어버린 사람들을 치료할 수 없었습니다. 동정심도, 기쁨도 잃어버린 이들은 슬픔과 크고작은 사고들을 남기며 영지 내를 "
+"배회하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Unsensuals_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "f712c9b3-9d4a-4e9f-9630-131cca162cde"
@@ -8244,7 +8263,7 @@ msgid ""
 "The advisor's servants were able to cure the peasants who were afflicted by "
 "fey magic. Once again, the people enjoy life's little moments, and rejoice "
 "at the day's events!"
-msgstr ""
+msgstr "보좌관의 부하들은 페이 마법에 고통받던 농민들을 치료할 수 있었습니다. 사람들은 다시금 삶과 일상의 기쁨을 향유하고 있습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Unsensuals_Solutions.Entries.Array.data[9].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "d8bfd323-b7fa-42f3-8207-a2162c54e400"
@@ -8255,6 +8274,8 @@ msgid ""
 "hounds are out for blood, and doing their best to hunt down and imprison "
 "innocent peasants!"
 msgstr ""
+"장관의 대리인들이 감정을 잃어버린 사람들을 한데 모으려고 했지만, 그들은 모두 도망쳐 영지 곳곳으로 흩어지고 말았습니다. 그들은 피에 "
+"굶주린 {mf|남작|여남작|왕|여왕}의 추적대가 무고한 농부들을 추적해 잡아가두고 있다는 헛소문을 퍼트리고 있습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Unsensuals_Solutions.Entries.Array.data[9].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "c4ea381f-43e7-4e1e-9349-238e49c2cbf3"
@@ -8271,6 +8292,8 @@ msgid ""
 "suffered a crushing defeat. Serving the state takes loyalty and patriotism —"
 " things which, alas, these mortal souls have lost…"
 msgstr ""
+"장관은 감정을 잃어버린 이들을 첩자로 고용하기로 결정했으나, 곧 대실패를 맛보아야 했습니다. 국가를 위해 봉사하려면 충성심과 애국심이 "
+"필요한데, 슬프게도 이들의 영혼은 이런 감정도 잃어버렸기 때문입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Unsensuals_Solutions.Entries.Array.data[9].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "49416560-3f4c-433e-afb0-bda6ea208052"
@@ -8279,6 +8302,8 @@ msgid ""
 "unscrupulous subjects gold and status. Emotionless, merciless agents — just "
 "what a secret service needs."
 msgstr ""
+"장관은 감정을 잃어버린 자들에게 황금과 신분 상승을 약속하여 첩자로 징집할 수 있었습니다. 양심도, 감정도, 자비도 없는 요원들은 첩보 "
+"임무에 최적이었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Colony_LocalizedDescription
 msgctxt "e96a6d84-687e-4198-87dc-f89ca01477ac"
@@ -8288,11 +8313,13 @@ msgid ""
 "They ask for {mf|His Grace's|Her Grace's|His Highness's|Her Highness's} "
 "consent and protection."
 msgstr ""
+"수도어서 온 일군의 겁없는 모험가 집단이 도둑맞은 땅의 경계에 새 정착지를 건설하고 싶다는 무모한 제안을 했습니다. 그들은 정착지 건설에 "
+"대한 동의와 보호를 요청해왔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Colony_LocalizedName
 msgctxt "f3f9c3d3-4581-4769-bd10-2f2d5fe6c7dc"
 msgid "Colony"
-msgstr ""
+msgstr "식민지"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Colony_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "c651acd8-5a36-454e-8d6f-c6c7b76a65b9"
@@ -8303,6 +8330,8 @@ msgid ""
 "{mf|baron|baroness|King|Queen} and {mf|his|her} advisors has been "
 "compromised."
 msgstr ""
+"이주자들을 보호하고자 파견했던 경비병들과 이주자들 사이에 전투가 벌어졌습니다. 식민지 건설은 제대로 시작해보기도 전에 끝장나버렸고, 민중 "
+"사이에서 {mf|남작|여남작|왕|여왕}과 {mf|그의|그녀의} 보좌관들에 대한 신뢰는 땅에 떨어졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Colony_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "2b16e555-1213-4ff8-98fa-2576001f4375"
@@ -8311,6 +8340,8 @@ msgid ""
 "forceful in their attempts to set the new colony's rules. The settlers would"
 " have none of it, and the whole plan was called off."
 msgstr ""
+"보좌관은 이주자들을 경호하기 위해 경비대를 파견했는데, 이들은 너무나 강압적으로 식민지 규칙 제정에 개입하려 들었습니다. 정착한 "
+"이주자들은 도무지 이에 따를 수 없었고, 정착 계획 자체가 공중분해되고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Colony_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "0351921c-cb45-4b2e-a7bc-9bf3035c10fb"
@@ -8319,6 +8350,8 @@ msgid ""
 " colonists. Under the soldier's protection, the settlers handily built an "
 "encampment, which attracts more and more newcomers from the nearby villages."
 msgstr ""
+"보좌관은 통찰력을 발휘하여, 이주자들과 동행할 경비대를 파견하기로 결정했습니다. 군대의 보호 아래 이주자들은 금세 매력적인 정착지를 "
+"건설할 수 있었고, 인근 마을에서 더 많은 이주자들이 새 정착지를 찾아오고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Colony_Solutions.Entries.Array.data[2].Resolutions.Array.data[3].LocalizedDescription_String
 msgctxt "a45433eb-0eb2-42de-a8d5-8f5c57bab272"
@@ -8328,6 +8361,8 @@ msgid ""
 "settlement — right at the intersection of two trade routes. The colony has "
 "attracted newcomers with promises of wealth and stability."
 msgstr ""
+"보좌관은 이주민들에게 일개 분대의 병사들을 딸려보냈습니다. 이들의 보호 하에 이주민들은 면밀히 지역을 조사했고, 결국 두 개의 무역로가 "
+"교차하는 최적의 지점에 정착지를 건설할 수 있었습니다. 새 정착지는 곧 부와 안전을 찾아온 이주자들로 북적였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Colony_Solutions.Entries.Array.data[4].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "f8b49381-f44a-41f7-b952-19e60989623f"
@@ -8337,6 +8372,8 @@ msgid ""
 "settlement as an affront, and rooted out the settlers, claiming they were "
 "violating the borders!"
 msgstr ""
+"수석 외교관은 이웃 나라들에 식민지 건설에 협조해줄 것을 요청했는데, 이것이 오히려 엉뚱한 반응을 불러일으켰습니다. 다른 나라들은 새 "
+"식민지 건설을 자신들에 대한 도발로 받아들였고, 이주자들이 국경을 침범했다고 주장하며 정착지를 송두리째 파괴해버렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Colony_Solutions.Entries.Array.data[4].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "8e158f1b-952d-49ee-a703-edf4ac0ba4ff"
@@ -8344,6 +8381,7 @@ msgid ""
 "Despite the Grand Diplomat's appeals, the neighbors made no effort to help "
 "the new colony. The settlers are barely managing on their own."
 msgstr ""
+"수석 외교관의 호소에도 이웃 나라들은 새 정착지를 일절 지원하지 않았습니다. 이주자들은 간신히 입에 풀칠하기도 버거운 상태입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Colony_Solutions.Entries.Array.data[4].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "9477a131-ab4e-49ca-b8de-92d630be9300"
@@ -8353,6 +8391,8 @@ msgid ""
 "patrolled by border guards, and people are flocking to the promising "
 "settlement."
 msgstr ""
+"수석 외교관은 이웃 국가들과 새 이주지를 공동으로 방어하기로 합의하였습니다. 그 덕에 각국의 경비 병력이 주기적으로 이주지 주변을 "
+"순찰하고 있으며, 안전이 보장된 유망한 이주지로 많은 이주자들이 몰려들고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Colony_Solutions.Entries.Array.data[4].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "9509f6ad-48db-4018-9f2a-a94914cf09bc"
@@ -8361,6 +8401,8 @@ msgid ""
 "the young colony. They sent a couple of advisors to help the settlement get "
 "on its feet, and work out a trade agreement with the colonists."
 msgstr ""
+"이웃 영지들은 새 정착지를 지원하자는 수석 외교관의 제안을 관대히 수락했습니다. 각국은 정착지의 자립을 돕기 위해 고문관들을 파견했고, "
+"이주자들과 무역 협약도 체결하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/FairyJokes_LocalizedDescription
 msgctxt "c60ce4c0-d796-44ed-987c-fb335535f471"
@@ -8369,6 +8411,8 @@ msgid ""
 "morning the {mf|King's|Queen's} servants discovered that they'd turned all "
 "the villagers into talking animals! They must be rescued at once!"
 msgstr ""
+"페이들이 근처의 마을에서 광란의 밤을 보낸 모양입니다. 아침이 되자, 관리들은 마을 사람 전부가 말하는 동물로 변한 것을 발견했습니다! "
+"당장 그들을 구해내야 합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/FairyJokes_LocalizedName
 msgctxt "2d008a32-3df2-4360-9f0f-d98bd042a775"
@@ -8391,6 +8435,8 @@ msgid ""
 "returned to normal, and graciously thanked the "
 "{mf|baron|baroness|King|Queen} for their rescue."
 msgstr ""
+"페이의 마법을 바로잡는 데에는 아주 강력한 마법이 필요했습니다. 다행히도 마을 사람들은 다시 사람으로 돌아올 수 있었고, "
+"{mf|남작|여남작|왕|여왕}에게 무한한 감사를 표했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/IceFury_LocalizedDescription
 msgctxt "82aa15db-8e0c-424f-b6c9-ad979eabb91c"
@@ -8404,7 +8450,7 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/IceFury_LocalizedName
 msgctxt "887bf630-3ae0-40b4-ba77-576aadadd4b4"
 msgid "Ice-Cold Wrath"
-msgstr ""
+msgstr "차가운 분노"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/IceFury_Solutions.Entries.Array.data[4].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "afa77976-c45d-435c-8464-ed67de45d51c"
@@ -8413,6 +8459,8 @@ msgid ""
 "The frost grows worse by the day, and the poor souls who have to sleep under"
 " the open skies are freezing to death!"
 msgstr ""
+"평화 협상 도중, 수석 외교관은 우연히 마녀를 모욕하는 실수를 저질렀습니다! 혹한은 날로 심각해져, 불우한 노숙자들이 얼어죽기에 "
+"이르렀습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/IceFury_Solutions.Entries.Array.data[4].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "b11213d0-4d6b-43bf-b3af-c443f699e305"
@@ -8421,6 +8469,8 @@ msgid ""
 "agreement with her. The weather grows colder by the day, and farmers are "
 "suffering terrible losses."
 msgstr ""
+"마녀에 대한 수석 외교관의 협박도, 회유도 모두 실패하고 말았습니다. 날씨는 날이 갈수록 더 추워졌고, 추위로 인한 농민들의 피해는 "
+"끔찍할 정도입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/IceFury_Solutions.Entries.Array.data[4].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "8806ac98-1766-4ef0-a0fc-604734c96087"
@@ -8429,6 +8479,8 @@ msgid ""
 "cross a young and powerful {mf|barony|barony|kingdom|kingdom}. The mystic "
 "frost vanished without a trace, and the crops are saved."
 msgstr ""
+"수석 외교관은 마녀에게 젊고 강건한 {mf|남작령|남작령|왕국|왕국}과 척지는 것은 마녀에게도 유리하지 않다는 점을 납득시키는데 "
+"성공했습니다. 신비의 혹한은 흔적도 없이 사라졌고, 농작물도 살려낼 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/IceFury_Solutions.Entries.Array.data[4].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "94598341-b2d1-49f0-b1f6-ec1f322051c3"
