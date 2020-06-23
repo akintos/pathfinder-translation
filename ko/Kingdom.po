@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
 "PO-Revision-Date: 2020-06-24 11:07+0000\n"
-"Last-Translator: laz <joholja@gmail.com>\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -8560,11 +8560,13 @@ msgid ""
 " conduct this operation in the Stolen Lands, they would rid the local "
 "forests of all monsters."
 msgstr ""
+"변이체 괴물들을 사냥하는 것으로 명성이 드높은 누메리아의 순수한 칼날단이, 사냥터와 신병 훈련장으로 쓸 수 있을 만큼 충분히 넓은 빈 "
+"땅을 찾고 있다고 합니다. 만약 도둑맞은 땅에 이들을 유치한다면, 숲에 서식하는 괴물을 모조리 쫓아낼 수 있을 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/PureBlades_LocalizedName
 msgctxt "d2206d52-26d3-4387-8f92-f482ef8683c0"
 msgid "Pureblades"
-msgstr ""
+msgstr "순수한 칼날단"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/PureBlades_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "46d82b9c-654a-4d77-a384-bb17d6144dc3"
@@ -8573,6 +8575,8 @@ msgid ""
 "the woods here. The Pureblades were furious that someone would try to "
 "deceive them, and refused to set foot on these lands."
 msgstr ""
+"보좌관은 숲에 서식하는 맹수들의 숫자를 약간 과장했습니다. 순수한 칼날단은 속이려한 것에 분개하여, 다시는 이 땅에 발을 들이지 않겠다고 "
+"선언했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/PureBlades_Solutions.Entries.Array.data[7].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "23eeb3ed-8393-424c-8351-afd5c6af17ae"
@@ -8581,6 +8585,8 @@ msgid ""
 "that the tales of horror that abound in these woods simply made little "
 "impression on them."
 msgstr ""
+"보좌관은 칼날단과 합의를 보는 데 실패했습니다. 숲 속을 떠도는 공포스런 존재에 대한 뜬소문 정도로는 그들의 마음을 움직이긴 어려웠던 것 "
+"같습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/PureBlades_Solutions.Entries.Array.data[7].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "6ed48832-5f11-4a70-96a6-73bbce0a549d"
@@ -8589,6 +8595,8 @@ msgid ""
 "roam these woods, intriguing the monster hunters and winning them over. They"
 " are already on their way to the Stolen Lands, ready for an excellent hunt."
 msgstr ""
+"보좌관은 순수한 칼날단에게 숲 속을 떠도는 숱한 공포스런 괴물들의 이야기를 전했습니다. 숙련된 사냥꾼인 이들 기사단은 괴물 이야기에 "
+"자극받은 모양입니다. 그들은 벌써 사냥할 생각에 들떠, 도둑맞은 땅을 향해 오는 길이라고 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/PureBlades_Solutions.Entries.Array.data[8].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "3f4df7a8-5ef0-4dad-aab1-1507b079a389"
@@ -8598,6 +8606,8 @@ msgid ""
 "They are fanatical zealots, slaying monsters not for glory, but for a higher"
 " purpose."
 msgstr ""
+"학예사는 순수한 칼날단의 공감을 이끌어내는 데 실패했습니다. 그들은 고고한 사냥꾼이면서, 본인의 영예가 아니라 보다 고귀한 목표를 위해 "
+"괴물을 학살하는 광신도들이었습니다. 한낱 황금과 명예에 대한 약속 따위는 오히려 이들의 사기만 꺾을 뿐이었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/PureBlades_Solutions.Entries.Array.data[8].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "d4ac091c-a9ca-4eb9-a66d-7f15ebe77c9c"
@@ -8606,6 +8616,8 @@ msgid ""
 "glory that awaited them in these lands. Even proud monster hunters like to "
 "be regarded with admiration."
 msgstr ""
+"학예사는 이 땅에서 그들이 얻게 될 영예를 내세워 순수한 칼날단을 설득할 수 있었습니다. 제아무리 도도한 괴물 사냥꾼이라도, 주변으로부터 "
+"존경받고 선망의 대상이 되는 것을 마다할리는 없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Witchwood_LocalizedDescription
 msgctxt "5ef1dd6e-f3e6-4a80-aa0b-d813fa897a93"
@@ -8615,6 +8627,8 @@ msgid ""
 "than any that can be found in the wild. The contagious grove must be set on "
 "fire before the darkness spreads to nearby forests."
 msgstr ""
+"지역의 숲 일부가 불모의 숲이라고 불리우는 인외마경의 지역에 흡수되어가는 징후를 보이고 있습니다. 이 불모의 숲에서는 자연에서 볼 수 "
+"없는 끔찍한 괴물들이 번식하고 있다고 합니다. 전염병처럼 번져가는 이 숲은 더 퍼져나가기 전에 반드시 불태워버려야 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Witchwood_LocalizedName
 msgctxt "5e83dce6-e894-4429-ab3b-2d31007549bb"
@@ -8719,7 +8733,7 @@ msgstr ""
 #. Events/BadassChief_CE_LocalizedName
 msgctxt "3abb3b87-3551-4827-8649-fb30552fda78"
 msgid "Rule by Strength"
-msgstr ""
+msgstr "힘으로 다스려라"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/BadassChief_CE_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription
