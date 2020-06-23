@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-21 19:21+0000\n"
-"Last-Translator: ayame <eveforce@naver.com>\n"
+"PO-Revision-Date: 2020-06-24 11:07+0000\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/root/ko/>\n"
 "Language: ko\n"
@@ -44,6 +44,9 @@ msgid ""
 "succeed in this, you'll need to survive the harsh wilderness and the menace "
 "of rival nations… as well as perils from within your own court."
 msgstr ""
+"수세기 동안 다툼이 이어져온 야생 지역인 도둑맞은 땅을 탐험해 보십시오. 수백 개의 왕국이 이 땅에 흥망성쇠했고, 이제 여러분만의 왕국을 "
+"건설하여 여러분의 명성을 쌓을 시간입니다! 여기에 성공하려면, 당신은 가혹한 야생지대와 경쟁국들의 위협에서 살아남아야 할 뿐만 아니라, "
+"당신의 궁정 안에서부터 위험을 이겨내야 할 것입니다."
 
 #. Mechanics/Blueprints/Root/BlueprintRoot_NewGameSettings.StoryList.Array.data[0].Title
 msgctxt "154f713f-fa8e-4eb6-ba1a-555c0c9fad40"
@@ -60,6 +63,9 @@ msgid ""
 "challenges do they face? Play this story, and the main campaign will reflect"
 " the consequences of the choices you make!"
 msgstr ""
+"자만디 알도리의 저택에서 승리를 축하하는 동안, 당신은 도둑맞은 땅의 또 다른 영웅인 용병 대장 메이가르 반을 만났습니다. 슈라이크 "
+"언덕과 날마치에 당신의 남작령을 건설하는 동안, 반과 그 부하들은 던스워드 평원에 그들만의 국가인 반홀드를 세우고 있습니다. 어떤 도전이 "
+"그들을 기다리고 있을까요? 이 이야기를 플레이해 보세요. 그러면 메인 캠페인에 여러분이 선택한 결과가 반영될 것입니다!"
 
 #. Mechanics/Blueprints/Root/BlueprintRoot_NewGameSettings.StoryList.Array.data[1].Title
 msgctxt "ca04fbc3-cd5e-4125-b937-d1a0d9ebd448"
@@ -72,11 +78,15 @@ msgid ""
 "Meet with the self-proclaimed protector of Golarion, and discover what secrets lie buried beneath the Stolen Lands, in a shifting labyrinth of madness where nothing is what it seems, complete with new enemies to battle and new treasures to unearth. Defend the lands against one of the most dangerous enemies the world has ever faced.\n"
 "You may begin your descent into the rogue-like Tenebrous Depths with a new character, or await an invitation from a mysterious protector of Golarion as you play through the Main Story. This dungeon is one of the hardest challenges your party can encounter in the game. Be careful, and good luck to you!"
 msgstr ""
+"자칭 골라리온의 수호자를 만나 어떤 비밀이 도둑맞은 땅 밑에 묻혀 있는지 알아내고, 아무것도 보이지 않는 광기의 미로 속에서 새로운 적과 "
+"새로운 보물을 가지고 전투에 임해야 합니다. 세계가 직면한 가장 위험한 적들로부터 이 땅을 지켜내야 합니다.\n"
+"여러분은 새로운 캐릭터로 로그라이크 방식으로 어둠의 심부을 탐험하거나, 메인 스토리를 플레이하며 골라리온의 신비한 수호자의 초대를 기다릴 "
+"수 있습니다. 주의하세요. 이 던전은 당신의 일행이 게임에서 만날 수 있는 도전 중에서도 가장 어려운 편입니다. 그럼 행운을 빕니다!"
 
 #. Mechanics/Blueprints/Root/BlueprintRoot_NewGameSettings.StoryList.Array.data[2].Title
 msgctxt "12c8fac8-81b9-481d-a0ae-d4b522fd3d0f"
 msgid "Beneath the Stolen Lands"
-msgstr ""
+msgstr "도둑맞은 땅 아래에서"
 
 #. Mechanics/Blueprints/Root/BlueprintRoot_UIRoot.AvoidButton_1
 msgctxt "0f0163ad-c158-43f6-8b8f-fe2fa8fff87c"
@@ -156,12 +166,12 @@ msgstr "힌트: {0}"
 #. Mechanics/Blueprints/Root/BlueprintRoot_UIRoot.ItemOriginOwnerDescription_1
 msgctxt "7e40810a-4d40-4fd1-b4c8-fcb670a63ae2"
 msgid "You acquired this item while exploring {0}"
-msgstr ""
+msgstr "{0} 탐험중에 획득"
 
 #. Mechanics/Blueprints/Root/BlueprintRoot_UIRoot.ItemVendorDescription_1
 msgctxt "3891362c-617e-4279-b95e-6a54cd948dcb"
 msgid "You received this item from merchant {0}"
-msgstr ""
+msgstr "상인 {0}에게 구입"
 
 #. Mechanics/Blueprints/Root/BlueprintRoot_UIRoot.TryAvoidButton_1
 msgctxt "96060759-a010-4615-afbb-08855c654c55"
@@ -346,47 +356,47 @@ msgstr "시간"
 #. Mechanics/Blueprints/Root/DungeonDLC3Localization_LeaderboardRecordValues.Array.data[0].Title
 msgctxt "09fad3ed-d825-4287-a586-bc8a95495015"
 msgid "Dungeon level reached"
-msgstr ""
+msgstr "도달한 던전 층수"
 
 #. Mechanics/Blueprints/Root/DungeonDLC3Localization_LeaderboardRecordValues.Array.data[1].Title
 msgctxt "1b5c12bd-f50d-411e-b83e-9aac71e79a41"
 msgid "Party's final enemy"
-msgstr ""
+msgstr "일행의 마지막 적"
 
 #. Mechanics/Blueprints/Root/DungeonDLC3Localization_LeaderboardRecordValues.Array.data[2].Title
 msgctxt "942beedd-e09f-4256-a084-83657de71079"
 msgid "Playthrough duration"
-msgstr ""
+msgstr "플레이 시간"
 
 #. Mechanics/Blueprints/Root/DungeonDLC3Localization_LeaderboardRecordValues.Array.data[3].Title
 msgctxt "34f51404-5781-437e-9942-da690df0261e"
 msgid "Enemies defeated"
-msgstr ""
+msgstr "쓰러뜨린 적"
 
 #. Mechanics/Blueprints/Root/DungeonDLC3Localization_LeaderboardRecordValues.Array.data[4].Title
 msgctxt "0936f527-4487-47c3-b696-8615b5b5b521"
 msgid "Top damage dealer"
-msgstr ""
+msgstr "최대 피해를 입힌 사람"
 
 #. Mechanics/Blueprints/Root/DungeonDLC3Localization_LeaderboardRecordValues.Array.data[5].Title
 msgctxt "7abb236a-3cd5-4d5d-9c69-59512cf0156c"
 msgid "Chests discovered"
-msgstr ""
+msgstr "찾은 상자"
 
 #. Mechanics/Blueprints/Root/DungeonDLC3Localization_LeaderboardRecordValues.Array.data[6].Title
 msgctxt "4ede0bf7-1d0d-4029-8c74-c38176f9eaba"
 msgid "Total equipment cost"
-msgstr ""
+msgstr "전체 장비 가치"
 
 #. Mechanics/Blueprints/Root/DungeonDLC3Localization_LeaderboardRecordValues.Array.data[7].Title
 msgctxt "af4bc794-3162-4d7a-b430-330d18236139"
 msgid "Total damage sustained"
-msgstr ""
+msgstr "받은 피해 합계"
 
 #. Mechanics/Blueprints/Root/DungeonDLC3Localization_StageNameParameterized
 msgctxt "aa6e4926-3f7e-4806-b9f2-51730ba24227"
 msgid "Tenebrous Depths, {text}"
-msgstr ""
+msgstr "어둠의 심부, {text}"
 
 #. Mechanics/Blueprints/Root/Dialog/DefaultContinueInterChapter_Text
 msgctxt "a67c127d-9fb3-4eb4-b7e6-21af5bcac5d9"
@@ -420,11 +430,9 @@ msgstr ""
 "lf 주인공이 사망하면 게임이 끝납니다. 동료가 죽으면 Raise Dead 또는 대부분의 모험가가 지불하기 어려워하는 매우 비싼 서비스를 통해 부활시킬 수 있습니다."
 
 #. Mechanics/Blueprints/Root/Difficulties/AdaptedRulesDifficulty_LocalizedName
-#, fuzzy
-#| msgid "Normal mode"
 msgctxt "60176daf-5aeb-40b3-aa55-2c350fe1258c"
 msgid "Normal"
-msgstr "일반 모드"
+msgstr "일반"
 
 #. Mechanics/Blueprints/Root/Difficulties/CoreRulesDifficulty_LocalizedDescription
 msgctxt "92e52eb1-9e66-4c5a-9fa9-7413cb0514b4"
@@ -442,18 +450,14 @@ msgstr ""
 "이 난이도를 선택하는 것은 패스파인더 시스템에 익숙하지 않은 플레이어에게는 권장되지 않습니다.</color></b>"
 
 #. Mechanics/Blueprints/Root/Difficulties/CoreRulesDifficulty_LocalizedName
-#, fuzzy
-#| msgid "Challenging mode"
 msgctxt "f8a0c100-8e8e-457d-a5ad-7e6436dd8a01"
 msgid "Challenging"
-msgstr "도전 모드"
+msgstr "도전"
 
 #. Mechanics/Blueprints/Root/Difficulties/CustomDifficulty_LocalizedName
-#, fuzzy
-#| msgid "Custom mode"
 msgctxt "2c1ef854-1cab-4e9f-b415-d297ce97935a"
 msgid "Custom"
-msgstr "맞춤 모드"
+msgstr "맞춤"
 
 #. Mechanics/Blueprints/Root/Difficulties/EasyDifficulty_LocalizedDescription
 msgctxt "9909a820-c748-4234-b15a-97c2b84e8a83"
@@ -467,11 +471,9 @@ msgstr ""
 "주인공이 사망하면 게임이 끝납니다. 동료가 죽으면 Raise Dead 또는 대부분의 모험가가 지불하기 어려워하는 매우 비싼 서비스를 통해 부활시킬 수 있습니다."
 
 #. Mechanics/Blueprints/Root/Difficulties/EasyDifficulty_LocalizedName
-#, fuzzy
-#| msgid "Easy mode"
 msgctxt "8dbf4260-6c81-4410-bd4b-91f87fe1b3ca"
 msgid "Easy"
-msgstr "쉬움 모드"
+msgstr "쉬움"
 
 #. Mechanics/Blueprints/Root/Difficulties/HardDifficulty_LocalizedDescription
 msgctxt "632e9ad5-ec35-41be-910e-1de3d3373e74"
@@ -489,11 +491,9 @@ msgstr ""
 "이 난이도를 선택하는 것은 패스파인더 시스템과 패스파인더: 킹 메이커의 전투 시스템에 익숙하지 않은 플레이어에게는 권장하지 않습니다. 적들은 전투 중 실수를 용서하지 않으며 당신의 캐릭터의 빌드는 완벽해야만 합니다.</color></b>"
 
 #. Mechanics/Blueprints/Root/Difficulties/HardDifficulty_LocalizedName
-#, fuzzy
-#| msgid "Hard mode"
 msgctxt "0b53ac8e-394f-4572-9a64-3af60c2d571b"
 msgid "Hard"
-msgstr "어려움 모드"
+msgstr "어려움"
 
 #. Mechanics/Blueprints/Root/Difficulties/StoryDifficulty_LocalizedDescription
 msgctxt "e6bd12d5-6573-44f6-bad7-20c1db31618e"
@@ -507,11 +507,9 @@ msgstr ""
 "lf 모든 캐릭터가 의식을 잃으면 게임이 끝납니다."
 
 #. Mechanics/Blueprints/Root/Difficulties/StoryDifficulty_LocalizedName
-#, fuzzy
-#| msgid "Story mode"
 msgctxt "3f56276e-8f98-4ed5-84ee-b7e89a900cb1"
 msgid "Story"
-msgstr "이야기 모드"
+msgstr "이야기"
 
 #. Mechanics/Blueprints/Root/Difficulties/UnfairDifficulty_LocalizedDescription
 msgctxt "252da926-b86f-4ae2-81ec-f916c13aa9b6"
@@ -529,11 +527,9 @@ msgstr ""
 "이 어려움을 선택하는 것은 패스파인더 시스템과 패스파인더: 킹 메이커 전투 시스템에 대해 익숙하지 않은 플레이어뿐만 아니라 고통을 느끼고 싶지 않은 사람들에게 권장되지 않습니다. 적들은 전투 중 실수를 용서하지 않으며 캐릭터의 빌드는 완벽해야만 합니다."
 
 #. Mechanics/Blueprints/Root/Difficulties/UnfairDifficulty_LocalizedName
-#, fuzzy
-#| msgid "Unfair mode"
 msgctxt "8467b793-fca6-4c48-bd72-6bed92075a97"
 msgid "Unfair"
-msgstr "불공평 모드"
+msgstr "불공평"
 
 #. Mechanics/Blueprints/Root/Formations/Formation_Custom_01_Name
 msgctxt "e5fc9347-3c01-406d-8461-500a7e50d2ae"
@@ -1283,13 +1279,6 @@ msgid "Insane"
 msgstr "매우 강함"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/DifficultySettings/EnemyDifficulty_TooltipDescription
-#, fuzzy
-#| msgid ""
-#| "This option determines whether the ability values of enemies are diminished or increased.\n"
-#| "<b>Weak</b> enemies have their ability scores reduced by 4 and their Attack Bonus, and AC will be reduced by 2.\n"
-#| "<b>Normal</b> enemies have their ability scores will unchanged.\n"
-#| "<b>Strengthened</b> enemies have their ability scores increased by 4, and their Attack Bonus and AC will be increased by 2.\n"
-#| "<b>Insane</b> enemies have their ability scores increased by 8, and their Attack Bonus and AC will be increased by 4."
 msgctxt "302c1033-9baa-4135-a428-4ef3df66fb45"
 msgid ""
 "This option determines whether the ability values of enemies are diminished or increased.\n"
@@ -1391,7 +1380,7 @@ msgstr "이 옵션을 활성화 하면 시력상실, 능력치 손상 등 다양
 #. Mechanics/Blueprints/Root/GameSettings/Settings/DifficultySettings/RespecAllowed_Description
 msgctxt "37679ed6-de6f-497d-977f-142c835dc93b"
 msgid "Enable character retrain"
-msgstr ""
+msgstr "캐릭터 재훈련 허용"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/DifficultySettings/RespecAllowed_TooltipDescription
 msgctxt "26fc6d69-9d9f-44f6-b641-7a9337f1a403"
@@ -1400,6 +1389,8 @@ msgid ""
 " companions. Changing this option will change the game's difficulty setting "
 "to Custom."
 msgstr ""
+"활성화 하면, 게임 내 특정 NPC를 통해 당신의 캐릭터와 동료들을 재훈련시킬 수 있습니다. 이 옵션을 바꾸면 게임의 난이도가 맞춤으로 "
+"변경됩니다."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/DifficultySettings/StatsAdjustments_Description
 msgctxt "70de39cc-ede0-4dfa-b3e4-986572f73236"
@@ -2739,12 +2730,12 @@ msgstr "대화에서 얻은 경험치 표시"
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/AcceleratedMove_Description
 msgctxt "b0ce8273-4a96-4f2e-9581-3490b6018f2b"
 msgid "Quick movement"
-msgstr ""
+msgstr "빠른 이동"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/AcceleratedMove_TooltipDescription
 msgctxt "badf212f-1e5d-4924-87e8-35185684acae"
 msgid "Increases characters' movement speed while out of combat."
-msgstr ""
+msgstr "비전투시 캐릭터의 이동 속도가 증가합니다."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/AllowLootingInCombat_Description
 msgctxt "0e383f61-327e-4fe0-b164-c50e23a52f92"
@@ -2922,7 +2913,7 @@ msgstr "왕국 경영에서만"
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/TutorialMessages_DLC3_String
 msgctxt "70f4c4b0-acac-4e67-8ed9-ec997d68f977"
 msgid "Only for the DLC"
-msgstr ""
+msgstr "DLC에서만"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/TutorialMessages_m_Values.Array.data[0].ItemName
 msgctxt "45be66e5-6586-4624-8cc6-a93753e4adad"
@@ -2930,12 +2921,6 @@ msgid "None"
 msgstr "없음"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/TutorialMessages_TooltipDescription
-#, fuzzy
-#| msgid ""
-#| "<b>All</b> — all tooltips will be shown during the game: on game mechanics, character controls, and interface.\n"
-#| "<b>Only for kingdom</b> — only tooltips about kingdom will be shown during the game: on game mechanics peculiarities and certain interfaces, such as camping and kingdom.\n"
-#| "<b>Only short tips</b> — only short tooltips will be shown during the game: on game mechanics peculiarities and certain interfaces, such as camping and kingdom.\n"
-#| "<b>None</b> — no tooltips will be shown."
 msgctxt "33d8313f-8a7b-4b3a-ade5-9f4eea95dda0"
 msgid ""
 "<b>All</b> — all hints will be shown during the game: on game mechanics, character controls, and interface.\n"
@@ -2944,10 +2929,11 @@ msgid ""
 "<b>Only short tips</b> — only short hints will be shown during the game: on game mechanics peculiarities and certain interfaces, such as camping and kingdom.\n"
 "<b>None</b> — no hints will be shown."
 msgstr ""
-"<b>전부</b> - 게임 도중 모든 툴팁이 표시됩니다: 게임에 관한 설명, 캐릭터 컨트롤 및 인터페이스. \n"
-"<b>왕국 경영 에서만</b> - 왕국에 관한 툴팁이 게임 중에 표시됩니다: 게임 메커니즘과 캠핑 및 왕국과 같은 특정 인터페이스. \n"
-"<b>짧은 팁만</b> - 게임 중에 짧은 툴팁 만 표시됩니다. 게임 메커니즘과 캠핑 및 왕국과 같은 특정 인터페이스. \n"
-"<b>없음</b> - 툴팁 설명이 표시되지 않습니다."
+"<b>전부</b> - 게임 도중 모든 힌트가 표시됩니다: 게임에 관한 설명, 캐릭터 컨트롤 및 인터페이스. \n"
+"<b>DLC에서만</b> - \"도둑맞은 땅 아래에서\" DLC 고유 기능에만 힌트가 표시됩니다.\n"
+"<b>왕국 경영에서만</b> - 왕국에 관한 힌트가 게임 중에 표시됩니다: 게임 메커니즘과 캠핑 및 왕국과 같은 특정 인터페이스. \n"
+"<b>짧은 팁만</b> - 게임 중에 짧은 힌트만 표시됩니다: 게임 메커니즘과 캠핑 및 왕국과 같은 특정 인터페이스. \n"
+"<b>없음</b> - 힌트가 표시되지 않습니다."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/UseHotAreas_Description
 msgctxt "ca10cb4d-5682-424b-aba3-5fe12a9fb1d6"
@@ -3244,7 +3230,7 @@ msgstr "초점 심도 (DoF). 백성들은 초점 필드에서만 선명하게 �
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GraphicsSettings/DisableClothPhysics_Description
 msgctxt "cd485e22-0070-4126-8aee-caa847e29a8b"
 msgid "Enable cloth physics"
-msgstr ""
+msgstr "의상 물리효과 적용"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GraphicsSettings/DisableClothPhysics_TooltipDescription
 msgctxt "bb01f7c0-0933-434a-ada5-ec1b89cb41f4"
@@ -3253,6 +3239,7 @@ msgid ""
 "some systems. Please, consider disabling the cloth physics if you experience"
 " the aforementioned issues."
 msgstr ""
+"의상 물리효과를 적용하면 게임이 멈추거나 튕길 수 있습니다. 이런 문제가 발생하면 의상 물리효과 옵션의 사용을 중단하는 것을 권장드립니다."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GraphicsSettings/DisplayMode_Description
 msgctxt "2720f736-acb4-4f41-8aa5-9f6306e7335f"
@@ -4169,12 +4156,12 @@ msgctxt "bc919270-0afb-4b2f-aad0-89696f478ec4"
 msgid ""
 "An ability to lie. Depends on character's Persuasion skill as well as "
 "special effects or abilities affecting Bluff."
-msgstr ""
+msgstr "거짓말을 하는 능력. 캐릭터의 설득 기술과 교섭에 영향을 주는 특수 효과 및 능력에 달려 있습니다."
 
 #. Mechanics/Blueprints/Root/BluffTitle_String
 msgctxt "3572b614-8212-4ced-a4f9-854548025052"
 msgid "Bluff"
-msgstr ""
+msgstr "허세"
 
 #. Mechanics/Blueprints/Root/BonusSourceStrings_ArmorClassBase
 msgctxt "17cb02c6-a5aa-4189-8975-994996e1a063"
@@ -4592,12 +4579,12 @@ msgid ""
 "An ability to manipulate others through negotiations. Depends on character's"
 " Persuasion skill as well as special effects or abilities affecting "
 "Diplomacy."
-msgstr ""
+msgstr "협상을 통해 다른 사람을 조종하는 능력. 캐릭터의 설득 기술이나 교섭에 영향을 주는 특수 효과 및 능력에 달려 있습니다."
 
 #. Mechanics/Blueprints/Root/DiplomacyTitle_String
 msgctxt "23f7302d-c5bf-4e7a-9dc2-2f28f64336b5"
 msgid "Diplomacy"
-msgstr ""
+msgstr "교섭"
 
 #. Mechanics/Blueprints/Root/Glenebon.Description_String
 msgctxt "6642357b-e615-4874-a58f-f9b4dfbc0b64"
@@ -5426,18 +5413,6 @@ msgstr "존 쿠쏜"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. Characters_Entries.Array.data[48].Description
-#, fuzzy
-#| msgid ""
-#| "If the First World can be said to have a trickster god — no easy feat in a "
-#| "world where capricious, reality-bending mischief is standard practice for "
-#| "many natives — then the title belongs to the Lantern King, also known as "
-#| "\"The Laughing Lie\". Generally appearing as a foot-wide ball of ﬂoating "
-#| "light, the Lantern King has been pointed to by some as the progenitor of all"
-#| " will-o'-wisps, but such allegations meet with derisive laughter from the "
-#| "King himself. Forgoing an established realm of his own, the Lantern King "
-#| "roams as he wills through the fields and forests of the First World, and "
-#| "those lives he touches are rarely the same aferward, for though the Lantern "
-#| "King's sense of humor is vast, it can easily turn dark or incomprehensible."
 msgctxt "ba0ee968-00cd-4b1b-9268-606d57669061"
 msgid ""
 "If the First World can be said to have a trickster god — no easy feat in a "
@@ -5454,8 +5429,8 @@ msgstr ""
 "태초 세계에서 누군가를 사기꾼 신이라 한다면 그 칭호는 \"웃는 거짓말\", 등불왕이 차지할 것입니다. 변덕스러운 현실왜곡이 평범한 "
 "장난일 뿐인 사람들이 사는 세계에서 그러기는 쉬운 일이 아닙니다. 대개 1 피트 너비의 떠다니는 구체로 나타납니다. 어떤 사람들은 그가 "
 "윌 오 위습의 창조주라고 합니다. 하지만 등불왕은 그런 주장을 비웃고 있습니다. 등불왕은 확고한 자신의 영역을 떠나 태초 세계의 들판과 "
-"숲을 마음가는 대로 떠돌아 다닙니다. 그러다 그의 손길이 닿게되면, 그 삶은 이전과 완전히 달라지는 경우가 많습니다. 등불왕의 유머감각은"
-" 어마어마하지만, 결국 어둡고 이해할 수 없게되버리는 경우가 많기 때문입니다."
+"숲을 마음가는 대로 떠돌아 다닙니다. 그러다 그의 손길이 닿게되면, 그 삶은 이전과 완전히 달라지곤 합니다. 등불왕의 유머감각은 "
+"대단하지만, 어둡거니 이해할 수 없는 방향으로 치닫기 쉽기 때문입니다."
 
 #. Mechanics/Blueprints/Root/Glossary Characters_Entries.Array.data[48].Name
 msgctxt "c9246057-59d8-404c-9a1f-cdf60c4760f3"
@@ -22397,7 +22372,6 @@ msgid "Charge"
 msgstr "돌격"
 
 #. Mechanics/Blueprints/Root/SystemMechanics/Abilities/CoupDeGraceAbility_Description_String
-#, fuzzy
 msgctxt "7c8e2a17-be14-4a67-932e-e4c6ba451ce3"
 msgid ""
 "As a full-round action, you can use a melee weapon to deliver a coup de grace to a helpless opponent.\n"
@@ -22405,9 +22379,7 @@ msgid ""
 "Delivering a coup de grace provokes attacks of opportunity from threatening opponents.\n"
 "You can't deliver a coup de grace against a creature that is immune to critical hits."
 msgstr ""
-"전체 라운드 행동으로, 무력화된 상대에게 근접 무기를 사용하여 치명적인 일격을 할 수 있습니다.\n"
-"(역자 주. 무력화된 상대란: 휴식 등으로 자고 있거나 마법에 의한 수면(색채분사 제외), 무의식, 마비, 넘어짐 등으로 행동 불능인 "
-"상대. 엎드려짐, 붙잡힘 등의 의식이 온전한 상태는 제외)\n"
+"전체 라운드 행동으로, 무력화된 상대에게 근접 무기를 사용하여 치명적인 일격을 가할 수 있습니다.\n"
 "공격자는 자동으로 치명타 피해를 입히고 만약 방어자가 피해에서 살아남았어도 인내 내성(DC 10 + 공격자의 기본 공격 + 근접 피해 "
 "수정치 + 무기의 치명타 수정치)에 성공하야하며 실패할 경우 죽습니다.\n"
 "치명적인 일격을 사용하는 것은 위협받는 상대로부터 기회공격을 유발하게 됩니다.\n"
