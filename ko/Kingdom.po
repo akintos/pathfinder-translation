@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-22 15:07+0000\n"
-"Last-Translator: Abraxas <netnk9151@hanmail.net>\n"
+"PO-Revision-Date: 2020-06-24 11:07+0000\n"
+"Last-Translator: laz <joholja@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -8522,6 +8522,8 @@ msgid ""
 "for good harvests this year. — In fact, it would be best to prepare for a "
 "famine!"
 msgstr ""
+"겨울 마녀에 대항할 만한 강력한 마법사들을 소집하는데 너무 많은 시간이 들었습니다. 모든 식물이 혹한에 스러져갔고, 올해의 작황은 전혀 "
+"기대할 게 없는 수준입니다. 바른대로 말하자면, 막바로 기근에 대비해야 할 것 같습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/IceFury_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "084cfb02-df58-4da7-a02c-642957a04860"
@@ -8530,13 +8532,15 @@ msgid ""
 " witch's magics, but alas, even they were no match for her power. The "
 "peasants are dressing warmly and preparing for hard times."
 msgstr ""
+"보좌관들이 간신히 마녀의 마법에 대항할만한 주문 사용자들을 소집했지만, 슬프게도 그들은 마녀의 상대가 되지 않았습니다. 농부들은 온몸을 "
+"꽁꽁 싸매고 다가올 최악의 시기에 대한 대비에 나섰습니다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/IceFury_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "fde6570a-3460-4033-af0e-22e9c9883431"
 msgid ""
 "The mages of the {mf|barony|barony|kingdom|kingdom} repelled the winter "
 "witch, and protected the realm from her spells."
-msgstr ""
+msgstr "{mf|남작령|남작령|왕국|왕국}의 마법사들은 겨울 마녀를 물리치고, 그 사악한 주문에서 왕국을 지키는데 성공했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/IceFury_Solutions.Entries.Array.data[5].Resolutions.Array.data[3].LocalizedDescription_String
 msgctxt "37a02094-9983-4236-9f87-59265ef9c791"
@@ -8545,6 +8549,8 @@ msgid ""
 "end. — So much so, that she has offered a trade alliance with her house, in "
 "exchange for the {mf|barony|barony|kingdom|kingdom}'s spellcasting secrets!"
 msgstr ""
+"겨울 마녀는 자신에게 대항하는 {mf|남작령|남작령|왕국|왕국}의 마법에 크게 감명받은 모양입니다. 마녀는 무역 협정을 맺어 "
+"{mf|남작령|남작령|왕국|왕국}의 주문 비법을 공유할 것을 제안했습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/PureBlades_LocalizedDescription
 msgctxt "dd68f447-8633-46fa-b3b9-0efa0d8ff667"
@@ -8613,7 +8619,7 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Witchwood_LocalizedName
 msgctxt "5e83dce6-e894-4429-ab3b-2d31007549bb"
 msgid "The Bewitched Forest"
-msgstr ""
+msgstr "변이된 숲"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Witchwood_Solutions.Entries.Array.data[4].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "3dc5edb2-6f77-4897-aa34-3a1f0df8c641"
@@ -8623,6 +8629,9 @@ msgid ""
 " a pack of monsters appeared from the grove, and went on a bloody rampage "
 "throughout the region. It seems the Barren Wood knows how to defend itself."
 msgstr ""
+"보좌관이 한 무리의 전사들을 소집하여 숲으로 들여보냈지만, 그들은 다시 돌아오지 않았고 이후로도 아무 소식도 들을 수 없었습니다. 몇 일 "
+"후, 한 떼의 괴물들이 숲에서 나타났고, 이들은 곧 인접지역을 잔혹하게 들쑤시고 다니며 난동을 일으켰습니다. 마치 불모의 숲이 자기 "
+"자신을 보호하기라도 하는 것처럼 말입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Witchwood_Solutions.Entries.Array.data[4].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "79459dfa-998c-4d8c-be72-8d078d3001b6"
@@ -8632,6 +8641,8 @@ msgid ""
 "they had to leave empty-handed. Moreover, the beasts returned the favor by "
 "going on rampage through the region."
 msgstr ""
+"보좌관이 소집한 전사들은 숲 속 깊이 들어가는데 실패했습니다. 괴물들이 거세게 저항하는 바람에, 전사들은 소득 없이 귀환해야 했습니다. "
+"게다가, 숲에서 나온 괴수들이 그 보복으로 온 지역을 습격하고 다니고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Witchwood_Solutions.Entries.Array.data[4].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "b21566c7-c492-49c0-9ff5-b32ce116e964"
@@ -8640,6 +8651,8 @@ msgid ""
 "set the tainted woods on fire. The afflicted trees were turned to ash, and "
 "the disaster was prevented from spreading."
 msgstr ""
+"한 모험가 집단이 불모의 숲에 들어가 모든 괴물들을 처치하고, 숲 곳곳에 불을 놓는데 성공했습니다. 감염된 나무들을 모조리 불태워버린 "
+"덕택에, 재앙이 더 번지는 것을 막을 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Witchwood_Solutions.Entries.Array.data[4].Resolutions.Array.data[3].LocalizedDescription_String
 msgctxt "c8c3d007-85f4-44e3-8bf8-4670d1ef1366"
@@ -8649,6 +8662,8 @@ msgid ""
 "behind by the Barren Wood have transformed the forest, turning it into a "
 "place of power."
 msgstr ""
+"보좌관이 초빙한 한 무리의 영웅들은 신속하게 괴물들을 제압했고, 지역의 드루이드들은 숲을 치료하기 시작했습니다. 불모의 숲이 남기고 간 "
+"강력한 마법이 숲을 변모시켜, 권능의 장소로 만들었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Witchwood_Solutions.Entries.Array.data[4].Resolutions.Array.data[4].LocalizedDescription_String
 msgctxt "6d3c8eb6-87b1-4ec2-8998-a14d691448e0"
@@ -8658,6 +8673,8 @@ msgid ""
 "forest, on the hunt for blood. Many have died, and chaos reigns on the "
 "roads."
 msgstr ""
+"보좌관이 불모의 숲으로 파견했던 비술 마법사들은 흔적도 없이 사라지고 말았습니다. 마치 그 보복이기라도 한 듯, 숲에서부터 괴수들이 "
+"출현하여 피비린내나는 살육을 벌였습니다. 많은 주민들이 학살당했고, 왕국은 혼돈에 빠졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Witchwood_Solutions.Entries.Array.data[4].Resolutions.Array.data[5].LocalizedDescription_String
 msgctxt "3021c7c3-c5fd-414b-a226-47fcb5647a8b"
@@ -8665,13 +8682,15 @@ msgid ""
 "The advisor's mystics have been unable to submit the Barren Wood to their "
 "control. Foul beasts emerge from the grove, sowing chaos in the region."
 msgstr ""
+"보좌관이 파견한 비술 마법사들도 불모의 숲을 통제하기엔 역부족이었습니다. 오히려 숲에서부터 괴수들이 쏟아져나와서, 인근 지역은 아수라장이 "
+"되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Witchwood_Solutions.Entries.Array.data[4].Resolutions.Array.data[6].LocalizedDescription_String
 msgctxt "879fd385-9882-4385-82bc-7313f3e3008f"
 msgid ""
 "The mystics sent by the advisor have erected a magical protective barrier, "
 "which seems to have sealed off the Barren Wood."
-msgstr ""
+msgstr "보좌관이 파견한 비술 마법사들은 마법 방벽을 소환했고, 이 방벽이 성공적으로 불모의 숲을 차단한 것으로 보입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Witchwood_Solutions.Entries.Array.data[4].Resolutions.Array.data[7].LocalizedDescription_String
 msgctxt "6cb7274d-da2c-4cb3-80e0-71ecc7b84dd2"
@@ -8680,6 +8699,8 @@ msgid ""
 " A group of druids have made the grove their new home, and taken the "
 "surrounding area under their care."
 msgstr ""
+"보좌관이 파견한 비술 마법사들은 마법의 힘으로 불모의 숲을 제압했습니다. 곧 한 무리의 드루이드들이 숲에 정착하여 인접한 지역을 돌보기 "
+"시작했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/BadassChief_CE_LocalizedDescription
@@ -8690,6 +8711,9 @@ msgid ""
 "civilized lands, and in return they will evenly share whatever they plunder."
 " Our country could benefit from the skills of these bloodthirsty bandits."
 msgstr ""
+"어느 떠돌이 오크 부족이 용병 계약을 제의해왔습니다. 조건은 간단합니다: 우리 병사들이 우리보다 문명화된 지역으로 향할 그들의 약탈을 "
+"돕는 대신, 약탈한 전리품은 서로 반반으로 나누자는 것입니다. 이들이 비록 피에 굶주린 미치광이 도적떼이지만, 이들의 전투력이 왕국에 "
+"도움이 되기는 할 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/BadassChief_CE_LocalizedName
@@ -8705,6 +8729,8 @@ msgid ""
 " word. After quickly plundering several local settlements, they dropped "
 "their banners and returned to routine pillaging."
 msgstr ""
+"오크들에게 일단 국경 순찰 임무를 주었습니다만, 쉽게 예상할 수 있었던 것처럼 이들은 금세 계약을 깨트렸습니다. 역시나 이들은 국경 마을 "
+"여러 곳을 약탈하고는, 우리가 하사한 군기를 집어던지고 약탈과 유랑을 일삼는 그들의 일상으로 돌아가버렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/BadassChief_CE_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription
@@ -8714,6 +8740,8 @@ msgid ""
 "weren't civilized enough to adopt military discipline, and soon abandoned "
 "their posts."
 msgstr ""
+"오크 떼거리를 정예 병사로 육성하려는 시도는 역시나 실패로 끝났습니다. 야만적인 오크들에게 훈련과 규율은 통하지 않았고, 이들은 곧 "
+"주둔지를 내버리고 탈주하고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/BadassChief_CE_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription
@@ -8722,6 +8750,8 @@ msgid ""
 "The orcs made a great foraging unit. Looting local villages for provisions "
 "is what they do best, and their skill in combat will serve the army well."
 msgstr ""
+"오크들은 '징발'에는 정말 최적화된 자원들이었습니다. 민가에서 식량을 약탈하는 건 원래 이들의 특기였고, 더불어 이들의 전투 기술도 군에 "
+"유용하게 쓰이고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/BadassChief_CE_Solutions.Entries.Array.data[9].Resolutions.Array.data[0].LocalizedDescription
@@ -8733,6 +8763,9 @@ msgid ""
 " end in a critical failure. The entire unit was executed by the guards of a "
 "neighboring country, and months of intelligence work was lost."
 msgstr ""
+"장관은 이 오크들을 비밀 정탐 임무에 유용하게 써먹을 수 있을 것으로 기대했고, 이에 따라 이들 부족은 부족장을 지휘관 삼아 군대 "
+"조직으로 개편되었습니다. 하지만 이들은 겉모습만 군대일 뿐 실상 규율이라곤 찾아볼 수 없는 오합지졸에 불과했고, 역시나 첫번째 임무에서 "
+"모든 것이 끝장났습니다. 이들 전부는 이웃 국가 경비대에게 몰살당했고, 수 개월에 걸쳐 준비한 정탐 계획도 수포로 돌아갔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/BadassChief_CE_Solutions.Entries.Array.data[9].Resolutions.Array.data[1].LocalizedDescription
@@ -8744,6 +8777,8 @@ msgid ""
 "and they killed him and deserted their posts, in search of better "
 "opportunities."
 msgstr ""
+"장관은 오크 부족을 비밀 첩보대로 재편했습니다. 지휘관으로 엄격하고 군율을 중시하는 부사관을 임명하였는데, 이것이 실수였습니다. 야만적인 "
+"오크들은 그의 엄격한 지휘와 통제를 견디지 못했고, 결국 이들은 지휘관을 살해하고 탈영해버리고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/BadassChief_CE_Solutions.Entries.Array.data[9].Resolutions.Array.data[2].LocalizedDescription
@@ -8755,6 +8790,9 @@ msgid ""
 " immediately saw eye to eye, and the unit has already proven itself highly "
 "effective."
 msgstr ""
+"장관은 오크 부족을 아주 위험하고 잔인한 비공식 작전에 투입할 비밀부대로 재편했습니다. 지휘관으로는 탐욕스럽고 잔인한데다, 그 과격한 "
+"성격 탓에 여러번 군에서 쫓겨날 뻔한 부사관을 임명했습니다. 그와 그의 오크 부하들은 너무나 죽이 잘 맞아, 실전에서 아주 높은 성과를 "
+"거두고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/BloodyFestival_NE_LocalizedDescription
@@ -8765,12 +8803,15 @@ msgid ""
 " allow the prisoners to fight for their freedom against wild beasts. Their "
 "deaths should be an entertaining diversion for the audience."
 msgstr ""
+"국고에서 대출을 끌어쓰다 빚을 갚지 못하고 파산한 채무자들로 감옥이 미어터지고 있습니다. 축제를 열어서 이들에게 맹수와 싸울 기회를 "
+"주고, 이겨서 살아남은 자들은 빚을 탕감하고 석방하는 건 어떨까요? 설령 이들이 격투 끝에 목숨을 잃는다 해도 좋은 구경거리는 되지 "
+"않겠습니까?"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/BloodyFestival_NE_LocalizedName
 msgctxt "ecccf428-d815-49d7-a0c1-5cc20c6b6209"
 msgid "Bloody Festival"
-msgstr ""
+msgstr "피바다 축제"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/BloodyFestival_NE_Solutions.Entries.Array.data[1].Resolutions.Array.data[0].LocalizedDescription_String
@@ -8782,6 +8823,10 @@ msgid ""
 "were distracted trying to restore order, the prisoners broke free and "
 "escaped. Rumors suggest they've organized, and are preparing an uprising."
 msgstr ""
+"보좌관은 축제를 열었고, 즐길거리로 가득한 훌륭한 축제가 될 것 같았습니다... 처음에는 말입니다. 축제장에 주류가 너무 많이 "
+"반입되었고, 만취한 군중은 금세 폭도가 되어 큰 소요 사태를 일으켰습니다. 그러자 경비병들이 소요를 진정시키느라 정신이 팔린 틈에 "
+"죄수들이 감옥을 부수고 탈출하고 말았습니다. 세간에 떠도는 소문에 따르면, 죄수들은 미리 이런 사태를 예상하고 탈옥을 준비하고 있었던 것 "
+"같습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/BloodyFestival_NE_Solutions.Entries.Array.data[1].Resolutions.Array.data[1].LocalizedDescription_String
@@ -8792,6 +8837,8 @@ msgid ""
 "audience never got the chance to properly enjoy the show, and left "
 "disappointed."
 msgstr ""
+"축제는 거의 성공할 뻔 했습니다. 그러나 야생곰은 무대에 등장하자마자 모든 죄수들을 학살하여 경기를 종료시켜버렸고, 관중들은 실망한 채로 "
+"집에 돌아가야만 했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/BloodyFestival_NE_Solutions.Entries.Array.data[1].Resolutions.Array.data[2].LocalizedDescription_String
@@ -8802,6 +8849,9 @@ msgid ""
 "show was tense, and the finale was terrifying! The wild cats wore down their"
 " prey before slaughtering them violently. The mob left fully satisfied."
 msgstr ""
+"축제는 계획대로 순조로이 진행되어, 멋진 볼거리를 제공했습니다. 보좌관은 현명하게도 죄수들과 투기장에서 맞붙을 동물로 시라소니를 골랐고, "
+"과연 죄수들과 시라소니는 시종 팽팽한 대결을 펼쳤습니다. 시라소니들이 패배 직전까지 몰리다 극적으로 죄수들을 제압하며 극적인 결말이 "
+"났고, 관중들은 흡족하게 투기장을 떠날 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/BloodyFestival_NE_Solutions.Entries.Array.data[1].Resolutions.Array.data[3].LocalizedDescription_String
@@ -8814,6 +8864,10 @@ msgid ""
 "them, however, emerged victorious. The mob praised him as their champion, "
 "and he'll enjoy glory and wealth for the rest of his days."
 msgstr ""
+"축제는 예상대로 진행됐습니다. 시라소니들은 관중들의 환호 속에 죄수들을 일방적으로 학살했고, 더 많은 볼거리를 위해 관중들 가운데 "
+"지원자를 받아 투기장에 내보내기로 했습니다. 많은 지원자들이 도전해왔고, 이들의 무모함 덕분에 피에 굶주린 관중들은 더욱 열광할 수 "
+"있었습니다. 수없이 죽어나간 지원자들 중 한 명은 끝까지 살아남았고, 관중은 새 챔피언의 탄생에 환호했습니다. 아마 그는 평생 부와 "
+"영광을 누릴 수 있을 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Bountyhunters_CN_LocalizedDescription
@@ -8828,12 +8882,16 @@ msgid ""
 "and more often to track down fugitives. If this continues, the criminals may"
 " be forced to relocate somewhere more harmful to us."
 msgstr ""
+"정체가 불분명한 한 무리의 범법자들이 과거부터 공권력의 눈을 피해 우리의 영내에 은거하고 있었습니다. 그래도 이들은 제법 도움이 되곤 "
+"했는데, 이들은 부유한데다 무기 다루는 데에도 능숙하고, 가끔은 민감한 기밀 정보를 갖고 있을 때도 있었기 때문입니다. 하지만 최근들어 "
+"현상금 사냥꾼들이 이들을 포박해가는 일이 잦아지고 있습니다. 이들이 추적을 피해 다른 곳으로 이주한다면 우리에게 꽤나 손해가 될 것 "
+"같습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Bountyhunters_CN_LocalizedName
 msgctxt "eb88e3cb-214f-463a-89fd-6ee4bd5c8fbb"
 msgid "Bounty Hunters"
-msgstr ""
+msgstr "현상금 사냥꾼"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Bountyhunters_CN_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription_String
@@ -8844,6 +8902,9 @@ msgid ""
 " cutthroats now gather in our lands. Neighboring countries gossip that "
 "criminals hold power over these lands."
 msgstr ""
+"몇몇 현상금 사냥꾼들이 으슥한 계곡에서 비극적으로 살해당하는 일이 벌어졌습니다. 하지만 탐욕스러운 현상금 사냥꾼들은 이에 굴복하지 않고 "
+"오히려 복수를 부르짖고 있습니다. 이제 자객들이 공공연히 우리 영토를 활보하고 있으며, 이웃 국가들은 이 땅이 범죄자들에게 장악당했다고 "
+"수군대고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Bountyhunters_CN_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription_String
@@ -8853,6 +8914,8 @@ msgid ""
 "used to threats in their line of work. They continue to hunt down criminals "
 "and spread unrest."
 msgstr ""
+"보좌관 휘하의 관리들은 현상금 사냥꾼들을 협박하려들었지만, 위협에 익숙한 현상금 사냥꾼들에게는 전혀 통하지 않았습니다. 그들은 여전히 "
+"범죄자들을 사냥하며 영지에 불안감을 확산시키고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Bountyhunters_CN_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription_String
@@ -8861,6 +8924,8 @@ msgid ""
 "The bounty hunters were arrested and exiled from our lands. A few parting "
 "threats made it extremely unlikely that they will ever return."
 msgstr ""
+"현상금 사냥꾼들은 모조리 체포되어 국경 밖으로 추방되었습니다. 적절한 협박을 곁들여 석방해주었으니, 이들이 돌아올 일은 다시는 없을 "
+"것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Bountyhunters_CN_Solutions.Entries.Array.data[2].Resolutions.Array.data[3].LocalizedDescription_String
@@ -8872,6 +8937,9 @@ msgid ""
 "incentive. For now, they've learned their lesson and have stopped harassing "
 "our subjects and guests."
 msgstr ""
+"많은 현상금 사냥꾼들이 체포되는 와중에, 그 중 한 명이 '탈출을 시도하다가' 살해되는 비극적인 사건이 발생했습니다. 의도된 일은 "
+"아니겠지만, 이 사건으로 현상금 사냥꾼들에게 강력한 경고를 보낸 셈이 되었습니다. 아주 큰 보상이 아니고서는 이들도 우리 영지 내로 "
+"함부로 들어오지 않게 되었고, 이로써 우리 백성들과 식객들 모두 이들의 괴롭힘에서 해방되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/CalistriasJudgement_CN_LocalizedDescription
@@ -8882,12 +8950,14 @@ msgid ""
 "authorities trouble. It appears to be an easy and effective way to solve our"
 " governmental issues."
 msgstr ""
+"칼리스트리아의 신도들이 자신들의 암살단을 이용해 정부의 골칫거리가 될지도 모를 위험 인물들을 하룻밤 사이 깨끗이 정리해주겠다는 제안을 "
+"해왔습니다. 관료들 귀가 솔깃해질, 쉽고 효율적인 문제 해결 방법이 아닐까요?"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/CalistriasJudgement_CN_LocalizedName
 msgctxt "d83a161f-b51b-4e56-8efa-c151d1c3ae8d"
 msgid "Calistria's Judgment"
-msgstr ""
+msgstr "칼리스트리아의 심판"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/CalistriasJudgement_CN_Solutions.Entries.Array.data[1].Resolutions.Array.data[0].LocalizedDescription
@@ -8898,6 +8968,9 @@ msgid ""
 " The assassins were found and beaten to death by angry mobs, and their work "
 "ultimately failed to restore order."
 msgstr ""
+"암살자들은 평소 정부를 헐뜯던 불평분자 전부를 제거하라는 명령을 받았습니다. 하지만 기대와 달리 숙청 과정은 대혼란과 학살로 점철되고 "
+"말았습니다. 성난 군중들이 암살자를 색출하여 폭행을 가했고, 암살자들이 기획한 숙청은 질서를 회복하기는커녕 도리어 자신들의 명줄만 재촉한 "
+"꼴이 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/CalistriasJudgement_CN_Solutions.Entries.Array.data[1].Resolutions.Array.data[1].LocalizedDescription
@@ -8907,6 +8980,8 @@ msgid ""
 "though this has little lasting effect. They were quickly succeeded by "
 "bolder, more arrogant loudmouths."
 msgstr ""
+"암살자들은 비밀리에 악명높은 불평분자 여럿을 제거하는데 성공했지만, 성과는 오래가지 못했습니다. 더 시끄럽고 뻔뻔스러운 불평꾼들이 연달아 "
+"나타났기 때문입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/CalistriasJudgement_CN_Solutions.Entries.Array.data[1].Resolutions.Array.data[2].LocalizedDescription
@@ -8917,6 +8992,8 @@ msgid ""
 "persuaded any similar promoters of liberal ideas to shut their mouths and "
 "conform."
 msgstr ""
+"암살자들은 영향력이 큰 불평꾼 몇 명을 본보기삼아 아주 잔혹하게 처형해버렸습니다. 그 어떤 열성적인 자유주의자라도 이제 얌전히 입을 "
+"다물고 있을 수 밖에 없을 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/CalistriasJudgement_CN_Solutions.Entries.Array.data[1].Resolutions.Array.data[3].LocalizedDescription
@@ -8927,6 +9004,9 @@ msgid ""
 "{mf|baron|baroness|King|Queen}, suddenly remembering that the Crown not only"
 " maintains its own interests, but also grants protection."
 msgstr ""
+"암살자들은 목소리 큰 불평꾼 몇 명을 암살하고, 이를 강도들의 소행으로 위장했습니다. 시민들은 겁에 질려 {mf|남작|여남작|왕|여왕}의 "
+"보호를 청하기 위해 앞다투어 달려왔습니다. 이제 시민들은 왕권이 제 잇속만 챙기는게 아니라, 신민들에게 보호를 제공하기도 한다는 걸 "
+"깨닫게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/CalistriasJudgement_CN_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription
