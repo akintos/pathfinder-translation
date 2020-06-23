@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-22 15:06+0000\n"
+"PO-Revision-Date: 2020-06-24 11:07+0000\n"
 "Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/general/ko/>\n"
@@ -4190,7 +4190,7 @@ msgstr ""
 #. Mechanics/Blueprints/GlobalMap/Locations/CHAPTER01_Region/Location_DungeonStartHub_Name_String
 msgctxt "722a5423-76ca-4ee0-8405-be5c49876ff9"
 msgid "Tenebrous Depths"
-msgstr "깊은 어둠"
+msgstr "어둠의 심부"
 
 #. Mechanics/Blueprints/GlobalMap/Locations/CHAPTER01_Region/Location_GMBE_ForgottenCache_Description
 msgctxt "348861fc-88d6-4a47-ba4b-0af24996d500"
@@ -7248,7 +7248,7 @@ msgid ""
 "Lantern King! All inhabitants fled the city — only the shadows of lost "
 "empires and creatures of the First World still haunt its streets!"
 msgstr ""
-"왕국의 수도는 난폭한 신, 랜턴 킹의 수중에 떨어졌습니다! 모든 주민들은 도시를 탈출했습니다. 오직 잃어버린 제국의 그림자와 태초 세계 "
+"왕국의 수도는 난폭한 신, 등불왕의 수중에 떨어졌습니다! 모든 주민들은 도시를 탈출했습니다. 오직 잃어버린 제국의 그림자와 태초 세계 "
 "크리처만이 거리를 맴돌고 있습니다!"
 
 #. Mechanics/Blueprints/GlobalMap/Locations/ZDescriptionsForFutureLocations/c71hub_String
@@ -9206,7 +9206,7 @@ msgstr "음에너지 전달"
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_1_1_Caption
 msgctxt "f81ba074-f210-4a74-a547-c8ffe6a150a8"
 msgid "Welcome to the Tenebrous Depths!"
-msgstr "깊은 어둠에 오신 것을 환영합니다!"
+msgstr "어둠의 심부에 오신 것을 환영합니다!"
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_1_1_Message
 msgctxt "b45519ee-bec4-4764-9f3e-e650d47cafdc"
@@ -9215,7 +9215,7 @@ msgid ""
 "and hire mercenaries. You have enough gold to hire three of them to begin "
 "with."
 msgstr ""
-"깊은 어둠에서의 모험을 시작하려면, 실버 드래곤과 대화하여 용병을 고용하십시오. 지금 가진 돈으로 세 명의 용병을 고용할 수 있습니다."
+"어둠의 심부에서의 모험을 시작하려면, 실버 드래곤과 대화하여 용병을 고용하십시오. 지금 가진 돈으로 세 명의 용병을 고용할 수 있습니다."
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_1_2_Caption
 msgctxt "c64bf6d6-04e2-488b-bbfe-7582d05395ae"
@@ -9229,7 +9229,7 @@ msgid ""
 "armor. The inventory of goods he offers will expand as you reach deeper into"
 " the Depths."
 msgstr ""
-"보급품, 무기, 방어구를 판매하는 상인, 정직한 사내를 만나보십시오. 그의 상품 재고는 깊은 어둠의 깊숙한 곳을 탐험할수록 늘어날 "
+"보급품, 무기, 방어구를 판매하는 상인, 정직한 사내를 만나보십시오. 그의 상품 재고는 어둠의 심부의 깊숙한 곳을 탐험할수록 늘어날 "
 "것입니다."
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_1_3_Caption
@@ -9244,8 +9244,8 @@ msgid ""
 "only when it's set. The silver dragon sets the table each time you reach the"
 " next floor of the Depths."
 msgstr ""
-"탁자를 클릭하면 휴식을 취해 체력과 주문을 회복할 수 있습니다. 휴식은 상이 차려져 있을 때만 가능합니다. 깊은 어둠의 다음 층에 도달할 "
-"때마다 실버 드래곤이 상을 차려둘 것입니다."
+"탁자를 클릭하면 휴식을 취해 체력과 주문을 회복할 수 있습니다. 휴식은 상이 차려져 있을 때만 가능합니다. 어둠의 심부의 다음 층에 "
+"도달할 때마다 실버 드래곤이 상을 차려둘 것입니다."
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_1_4_Caption
 msgctxt "1cb7b09b-cad2-4f3f-9436-112ea9bc8220"
@@ -9263,12 +9263,12 @@ msgstr "실버 드래곤에게서 두루마리와 물약을 구입할 수 있습
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_1_5_Caption
 msgctxt "7102124c-c36f-4a8b-8763-54986193704d"
 msgid "Entrance to the Depths"
-msgstr "깊은 어둠 입구"
+msgstr "어둠의 심부 입구"
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_1_5_Message
 msgctxt "1e65c040-3678-4d3d-9ae9-8b739a3fc72f"
 msgid "This is the entrance to the Tenebrous Depths. Good luck!"
-msgstr "여기가 깊은 어둠의 입구입니다. 행운을 빕니다!"
+msgstr "여기가 어둠의 심부의 입구입니다. 행운을 빕니다!"
 
 #. Mechanics/Blueprints/TutorialCase/DLC3/DLC3TutorialPage_2_1_Caption
 msgctxt "61f03a5b-99bc-48e0-84b6-15114e99163f"
@@ -9332,7 +9332,7 @@ msgstr ""
 "잃어버린 영웅은 각 던전에 한 명밖에 없습니다. 이야기를 더 진행하려면 현재의 캐릭터를 은퇴시키고 새롭게 시작하십시오. 실버 드래곤과 "
 "정직한 사내의 상품 재고의 수가 계승되므로, 다음 플레이에서 더 좋은 아이템을 구매할 수 있습니다. 캐릭터를 은퇴시키려면 도로를 따라 "
 "어둠의 유적을 떠나면 됩니다.\n"
-"아니면 지금의 던전을 계속 탐험하여 타락한 적들과 더 싸우고, 더 값진 전리품을 수집하고, 깊은 어둠의 더 깊숙한 곳으로 내려갈 수도 "
+"아니면 지금의 던전을 계속 탐험하여 타락한 적들과 더 싸우고, 더 값진 전리품을 수집하고, 어둠의 심부의 더 깊숙한 곳으로 내려갈 수도 "
 "있습니다."
 
 #. Mechanics/Blueprints/TutorialCase/Kingdom/KingdomTutotialPage_10_Caption_String
