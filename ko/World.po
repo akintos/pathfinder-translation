@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-24 11:07+0000\n"
+"PO-Revision-Date: 2020-06-26 03:22+0000\n"
 "Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/world/ko/>\n"
@@ -3299,7 +3299,7 @@ msgstr "국경은 가장 강한 군인들조차 단련시킵니다. 당신의 �
 #. Mechanics/Blueprints/World/Encounters/CapitalThroneRoom/KingdomBuffs/RankUp_Military_BordersCamps_DisplayName
 msgctxt "df319185-e371-42fc-94fe-c49210e15788"
 msgid "Border Training Camps"
-msgstr "국경 훈련 야영지"
+msgstr "국경 훈련장"
 
 #. Mechanics/Blueprints/World/Encounters/CapitalThroneRoom/KingdomBuffs/RankUp_Military_CapitalCamps_Description
 msgctxt "2e0241cc-5025-4af4-a4ad-e41c32583aa1"
@@ -3322,8 +3322,8 @@ msgid ""
 "achieved Success or Triumph and reduces Military by 1 for each achieved "
 "Failure and Disaster."
 msgstr ""
-"병사들이 대량 제조된 연금술 물약 사용함으로써 명료한 정신을 댓가로 그들의 전투 기량을 향상시킵니다.\n"
-"매 성공 또는 대성공마다 군사를 1씩 증가시키며, 실패와 재앙마다 군사를 1씩 감소시킵니다."
+"병사들이 대량 제조된 연금술 물약 사용함으로써 명료한 정신을 댓가로 그들의 전투 기량을 향상시킵니다. 매 성공 또는 대성공마다 군사를 "
+"1씩 증가시키며, 실패와 재앙마다 군사를 1씩 감소시킵니다."
 
 #. Mechanics/Blueprints/World/Encounters/CapitalThroneRoom/KingdomBuffs/RankUp_Military_PotionForce_DisplayName
 msgctxt "a025eba4-628a-461c-aad2-e07c634a940a"
@@ -3337,8 +3337,8 @@ msgid ""
 "prowess at the expense of a clear mind. Increases Military by 1 for each "
 "achieved Triumph and reduces Military by 1 for each achieved Disaster."
 msgstr ""
-"병사들이 자가 양조한 포션을 사용함으로써 명료한 정신을 댓가로 그들의 전투 기량을 향상시킵니다.\n"
-"대성공마다 군사를 1씩 증가시키며, 재난마다 군사를 1씩 감소시킵니다."
+"병사들이 자가 양조한 물약을 사용함으로써 명료한 정신을 댓가로 그들의 전투 기량을 향상시킵니다. 대성공마다 군사를 1씩 증가시키며, "
+"재난마다 군사를 1씩 감소시킵니다."
 
 #. Mechanics/Blueprints/World/Encounters/CapitalThroneRoom/KingdomBuffs/RankUp_Military_PotionIgnore_DisplayName
 msgctxt "899eade1-9d27-4fc5-af19-d6c74d424723"
@@ -4053,7 +4053,7 @@ msgid ""
 "tribe."
 msgstr ""
 "호랑이 군주 부족은 아르막이 부족에게 끼친 피해에서 완전히 회복하지 못했어요. 강한 지도자의 부재 속에 내분이 벌어져 야만인들은 짧지만 "
-"치열한 내전에 빠졌답니다. 그 땅은 순식간에 이웃 부족들의 손에 넘어갔고, 호랑이 군주 부족은 누메리아와 강 왕국들에 흩어져 한때 "
+"치열한 내전에 빠졌답니다. 그 땅은 순식간에 이웃 부족들의 손에 넘어갔고, 호랑이 군주 부족은 누메리아와 강의 왕국들에 흩어져 한때 "
 "위대했던 부족의 가엾은 잔재로 전락하고 말았어요."
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0102_Text
