@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-24 11:07+0000\n"
+"PO-Revision-Date: 2020-06-26 15:07+0000\n"
 "Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/root/ko/>\n"
@@ -520,11 +520,14 @@ msgid ""
 "<b><color=#ae1600>\n"
 "Choosing this difficulty is NOT RECOMMENDED for the players not familiar with the Pathfinder system, as well as Pathfinder: Kingmaker battle system, and those who are not willing to suffer. The enemies will not forgive any mistakes made during combats, and your characters' builds must be no less than perfect.</color></b>"
 msgstr ""
-"당신의 캐릭터는 적과 함정으로부터 <b>2배의 피해</b> 를 입습니다. 적들은 <b>크게 증가 된 힘을</b> 가지며 <b>치명타를 치는 보통의 기회를</b> 누릴 것입니다.\n"
+"당신의 캐릭터는 적과 함정으로부터 <b>2배의 피해</b>를 입습니다. 적들은 <b>크게 증가 된 힘을</b> 가지며 <b>치명타를 치는 "
+"보통의 기회를</b> 누릴 것입니다.\n"
 "당신의 캐릭터는 <b>치명적인 부상을 당하면 죽을 것</b> 입니다.\n"
-"주인공이 사망하면 게임이 끝납니다. 동료가 죽으면 Raise Dead 또는 대부분의 모험가가 지불하기 어려워하는 매우 비싼 서비스를 통해 부활시킬 수 있습니다.\n"
+"주인공이 사망하면 게임이 끝납니다. 동료가 죽으면 사자 소생 또는 대부분의 모험가가 지불하기 어려워하는 매우 비싼 서비스를 통해 부활시킬 "
+"수 있습니다.\n"
 "<b><color=#ae1600>\n"
-"이 어려움을 선택하는 것은 패스파인더 시스템과 패스파인더: 킹 메이커 전투 시스템에 대해 익숙하지 않은 플레이어뿐만 아니라 고통을 느끼고 싶지 않은 사람들에게 권장되지 않습니다. 적들은 전투 중 실수를 용서하지 않으며 캐릭터의 빌드는 완벽해야만 합니다."
+"이 난이도는 패스파인더 시스템과 패스파인더: 킹 메이커 전투 시스템에 대해 익숙하지 않은 플레이어나 고난을 싫어하시는 분들께는 추천드리지 "
+"않습니다. 적들은 전투 중 실수를 용서하지 않으며 캐릭터의 빌드는 완벽해야만 합니다.</color></b>"
 
 #. Mechanics/Blueprints/Root/Difficulties/UnfairDifficulty_LocalizedName
 msgctxt "8467b793-fca6-4c48-bd72-6bed92075a97"
@@ -1046,7 +1049,7 @@ msgstr "키보드 스크롤을 사용하는 동안 카메라 스크롤 속도."
 #. Mechanics/Blueprints/Root/GameSettings/Settings/Controls/PointerSettings/ConvertSnapLogic_Description
 msgctxt "3954dffd-3f73-49bf-b03c-c43590b9cf18"
 msgid "AoE spells snap to the nearest target"
-msgstr "AoE 주문이 가장 가까운 대상에 맞추어집니다."
+msgstr "가장 가까운 대상으로 AoE 주문 자동 지정"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/Controls/PointerSettings/ConvertSnapLogic_TooltipDescription
 msgctxt "9c33194f-94c3-4886-9316-37722627ea2d"
@@ -2002,7 +2005,7 @@ msgstr "전부"
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/CombatSettings/ShowMissOnCombatText_TooltipDescription
 msgctxt "f6eb8e74-a0ad-44ec-affe-3bd555a0deeb"
 msgid "Toggles \"Miss\" notifications over your character in combat."
-msgstr "전투 중 "
+msgstr "전투 중 캐릭터 위에 \"빗나감\" 표시."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/CombatSettings/ShowSavesInCombatText_Description
 msgctxt "41c4847f-63e3-4613-8f71-3a08d60bccc9"
@@ -2131,7 +2134,7 @@ msgstr "전부"
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/CombatSettings/EnemiesOvertip/HPBarForEnemiesIsShort_Description
 msgctxt "4cf7ced7-47dd-4deb-a140-4525c970961c"
 msgid "Show text HP instead on HP bar for enemies"
-msgstr "적의 HP를 HP바 대신 글로 묘사합니다."
+msgstr "적의 HP를 HP바 대신 글로 묘사"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/CombatSettings/EnemiesOvertip/HPBarForEnemiesIsShort_TooltipDescription
 msgctxt "010084b6-272a-4e26-8496-b100977e2288"
@@ -2384,7 +2387,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/CombatSettings/PlayerOvertip/HPBarForCompanionsIsShort_Description
 msgctxt "b9250063-e1d7-44e8-890a-54e2bd90b63c"
 msgid "Show text HP instead on HP bar for party members"
-msgstr "일행의 HP를 HP바 대신 글로 묘사합니다."
+msgstr "일행의 HP를 HP바 대신 글로 묘사"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/CombatSettings/PlayerOvertip/HPBarForCompanionsIsShort_TooltipDescription
 msgctxt "9a492c66-23dd-4ac1-a2ed-3e8c94622232"
@@ -2834,7 +2837,7 @@ msgstr "Deutsch"
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/Localization_m_Values.Array.data[4].ItemName
 msgctxt "99c88acb-6c94-4643-ad7c-fdc1a64f34d1"
 msgid "简体中文"
-msgstr "简体中文"
+msgstr "한국어"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/OnlyInitiatorReceiveSkillCheckExperience_Description
 msgctxt "37a5ba98-7319-40a5-8af8-5f105b8b33a0"
@@ -3040,7 +3043,7 @@ msgid ""
 "spells and abilities. You will still be able to read full spell description "
 "by right clicking the spell in Spellbook window and selecting \"Info\"."
 msgstr ""
-" 옵션을 활성화하면 주문 및 기술에 대한 설명 중 중요하지 않은 정보를 숨길 수 있습니다. 주문책 창에서 주문을 마우스 오른쪽 버튼으로 "
+"옵션을 활성화하면 주문 및 기술에 대한 설명 중 중요하지 않은 정보를 숨길 수 있습니다. 주문책 창에서 주문을 마우스 오른쪽 버튼으로 "
 "클릭하고 \"정보\"를 선택하여 전체 마법 설명을 읽을 수 있습니다."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TooltipSettings/ShowComparativeTooltip_Description
@@ -3358,7 +3361,7 @@ msgctxt "b9faee85-be93-4dc1-a13b-c6eb1767d615"
 msgid ""
 "Affects the number of lights the party can use, such as torches. (Reduce "
 "this to improve performance.)"
-msgstr "횃불 등 일행이 사용할 수있는 조명의 수에 영향을 줍니다. 성능을 높이려면이 값을 줄입니다."
+msgstr "횃불 등 일행이 사용할 수있는 조명의 수에 영향을 줍니다. (성능을 높이려면이 값을 줄이십시오.)"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GraphicsSettings/RealtimeEnvironmentShadows_Description_1
 msgctxt "6bb270c3-6cce-4223-a076-0af4d5b5169e"
@@ -3510,7 +3513,8 @@ msgid ""
 "This mode disables almost all interface hints in combat: lines of attack, current enemy actions, cooldown timers. It shows your characters' actions and enemies' health bars.\n"
 "Additional options are available in the game."
 msgstr ""
-" 이 모드는 전투에서 거의 모든 인터페이스 힌트 (공격 라인, 현재의 적 동작, 재사용 대기 시간)를 비활성화합니다. 캐릭터의 행동과 적의 체력 바를 보여줍니다. \n"
+"이 모드는 전투에서 거의 모든 인터페이스 힌트 (공격 라인, 현재의 적 동작, 재사용 대기 시간)를 비활성화합니다. 캐릭터의 행동과 적의 "
+"체력 바를 보여줍니다. \n"
 "추가 옵션은 게임에서 사용할 수 있습니다."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/NewGameSettings/StartGameIronmanMode_Description
@@ -4605,7 +4609,7 @@ msgid ""
 " Throne within the Ruby Fortress in New Stetven, Surtova ruled Port Ice, as "
 "have members of House Surtova for more than a thousand years."
 msgstr ""
-" AR 4699년, 브레보이를 통치하던 로가비아 가문의 불가사의한 실종 이후, 놀레스키 서토바는 우르젠 로가비아의 뒤를 이어 브레보이 "
+"AR 4699년, 브레보이를 통치하던 로가비아 가문의 불가사의한 실종 이후, 놀레스키 서토바는 우르젠 로가비아의 뒤를 이어 브레보이 "
 "국왕이 되었습니다. 왕관을 쓰고 뉴 스텟븐 루비 요새의 용비늘 왕좌에 앉기 전에는, 서토바 가문이 천년 이상 해온 것처럼 그도 포트 "
 "아이스를 다스리고 있었습니다."
 
@@ -4744,7 +4748,7 @@ msgstr ""
 "아로덴은 아즐란트의 불멸자입니다. AR 1년, 그는 내해 바닥에서 스타스톤을 끌어올려 도시 압살롬을 세우고 신으로 승천했습니다. 예언에 "
 "따르면 아로덴은 돌아올 것이고 골라리온에 새 영광의 시대가 시작될 예정이었습니다만, 귀환의 날을 하루 앞두고 아로덴의 권능과 클레릭간의 "
 "연결이 끊어지더니 무시무시한 폭풍이 골라리온을 덮쳤습니다. 현재 아로덴은 사망한 것으로 추정되며, 그의 죽음은 잃어버린 징조의 시대로 "
-"불리는 현시대로 이어어졌습니다"
+"불리는 현시대로 이어어졌습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Characters_Entries.Array.data[16].Name_1
 msgctxt "024b336d-430f-4646-a2e2-ed390dd7980c"
@@ -4964,7 +4968,7 @@ msgid ""
 " is present in every iron weapon of war that is forged."
 msgstr ""
 "고룸은 \"철의 군주\"로도 알려진 신으로, 다른 무엇보다 전투를 추구하는 존재입니다. 더는 어떠한 싸움도 일어나지 않는 때가 올 때 "
-"그는 사라질 것이라 합니다. 그의 숭배자들은 철로 제련된 모든 전쟁 무기들에 그가 깃든다고 믿습니다.\\"
+"그는 사라질 것이라 합니다. 그의 숭배자들은 철로 제련된 모든 전쟁 무기들에 그가 깃든다고 믿습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Characters_Entries.Array.data[27].Name
 msgctxt "3a26000f-4c3d-4bae-addb-de4eb947d001"
@@ -5142,7 +5146,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/Glossary Characters_Entries.Array.data[35].Name
 msgctxt "478be96e-0ac4-466e-9564-51a7fd0a36df"
 msgid "Apsu"
-msgstr ""
+msgstr "압수"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. Characters_Entries.Array.data[36].Description
@@ -5231,8 +5235,10 @@ msgid ""
 "House Garess is based in the western part of Brevoy, in the foothills of the Golushkin Mountains. It is led by Lord Howlan Garess, who is a widower. His adoptive heir is Toval Golka, a dwarf and son of the clan-chief of the Golka dwarves' holding. House Garess had a good relationship with the Golka dwarves until the dwarves vanished. Members of the house worked the metal that the dwarves mined.\n"
 "The House's motto is \"Strong as the Mountains.\""
 msgstr ""
-"가레스 가문은 브레보이의 서쪽 골루슈킨 산맥의 산기슭에 있는 브레보이의 서쪽 지역에 위치하고 있습니다. 지금은 홀아비인 하울란 가레스 경이 이끌고 있습니다. 골카 드워프 가문의 가주 아들인 토발 골카를 양자로 두고 있습니다. 가레스 가문은 드워프들이 사라질 때까지 골카 드워프와 좋은 관계를 맺었습니다. 가문은 대대로 드워프가 채굴 한 금속을 가공했습니다. \n"
-"가훈은 \"산처럼 강하다\"입니다."
+"가레스 가문은 브레보이의 서쪽 골루슈킨 산맥의 산기슭에 있는 브레보이의 서쪽 지역에 위치하고 있습니다. 지금은 홀아비인 하울란 가레스 "
+"경이 이끌고 있습니다. 골카 드워프 가문의 가주 아들인 토발 골카를 양자로 두고 있습니다. 가레스 가문은 드워프들이 사라질 때까지 골카 "
+"드워프와 좋은 관계를 맺었습니다. 가문은 대대로 드워프가 채굴 한 금속을 가공했습니다. \n"
+"가훈은 \"산처럼 굳세어라\"입니다."
 
 #. Mechanics/Blueprints/Root/Glossary Characters_Entries.Array.data[3].Name
 msgctxt "fc211206-d0c1-4352-bf24-508b8155a1c0"
@@ -5402,9 +5408,11 @@ msgid ""
 "sister, Shelyn, still holds out hope that she can redeem him, though the "
 "lord of shadows shows no sign of remorse or compassion."
 msgstr ""
-"존 쿠쏜은 \"자정의 군주\", \"암흑 대공\", \"고통의 대공\"으로 불리며, 어둠, 시기, 상실, 고통의 신이자, 가장 뒤틀리고 악한 마음을 소유하고 있는 존재입니다. 그 너머. 고통의 신으로서의 그의 위치는 잘 얻어졌으며, 그는 수많은 고문과 살인의 근원이었으며, 시간이 지남에 따라 더 악화되었습니다. 그는 한때 도우 브랄이라고 불리는 자비로운 반신 반인 이었지만 차원 사이의 먼 어두운 곳을 여행했을 때 부패하여 현재 형태로 돌아왔습니다. 그의 배다른 여동생, 셸린은 ,그림자의 주인이 후회 또는 연민의 표시를 보이지 않고 있지만 그녀가 그를 되찻아 올 수 있다는 희망을 여전히 갖고 있습니다.\n"
-"영역: 어둠, 죽음, 파괴, 악, 질서.\n"
-"선호 무기: 도리깨"
+"존 쿠쏜은 \"자정의 군주\", \"암흑 대공\", \"고통의 대공\"으로 불리며, 어둠, 시기, 상실, 고통의 신이자, 가장 뒤틀리고 "
+"악한 마음을 소유하고 있는 존재입니다. 그 너머. 고통의 신으로서의 그의 위치는 잘 얻어졌으며, 그는 수많은 고문과 살인의 근원이었으며, "
+"시간이 지남에 따라 더 악화되었습니다. 그는 한때 도우 브랄이라고 불리는 자비로운 반신 반인 이었지만 차원 사이의 먼 어두운 곳을 "
+"여행했을 때 부패하여 현재 형태로 돌아왔습니다. 그의 배다른 여동생, 셸린은 ,그림자의 주인이 후회 또는 연민의 표시를 보이지 않고 "
+"있지만 그녀가 그를 되찻아 올 수 있다는 희망을 여전히 갖고 있습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Characters_Entries.Array.data[47].Name
 msgctxt "377f1ac0-a647-4039-ab0a-3d1b2951576c"
@@ -6183,18 +6191,13 @@ msgstr ""
 
 #. Mechanics/Blueprints/Root/Glossary Decisions
 #. 1_Entries.Array.data[33].Description
-#, fuzzy
-#| msgid ""
-#| "During the reception in Restov, you chose Lander Lebeda, a young nobleman, "
-#| "who is unconnected to any fractions, to act as Brevoy's envoy in your "
-#| "barony."
 msgctxt "988aaabc-abdc-4e23-85ab-725597df2240"
 msgid ""
 "During the reception in Restov, you chose Lander Lebeda, a young nobleman, "
 "who is unconnected to any factions, to act as Brevoy's envoy in your barony."
 msgstr ""
-"레스토프에서 열린 환영회에서 당신은 젋은 귀족이자 어떤 파벌과도 연결점이 없는 랜더 레베다를 당신의 남작령에서 활동할 브레보이의 특사로서"
-" 선택했습니다."
+"레스토프에서 열린 환영회에서 당신은 젋은 귀족이자 어떤 파벌과도 연결점이 없는 랜더 레베다를 당신의 남작령에서 활동할 브레보이의 특사로서 "
+"선택했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions
 #. 1_Entries.Array.data[34].Description
@@ -6508,7 +6511,7 @@ msgctxt "4924d97a-17bb-461a-81d3-afb879d4ae23"
 msgid ""
 "You met a sick old man near the bridge over Gudrin River, and sent him to "
 "Jhod for help."
-msgstr "당신은 구드린 강를 가로지르는 다리 주변에서 아픈 늙은이를 만나 그를 도움을 받게끔 조드에게 보냈습니다. "
+msgstr "당신은 구드린 강을 가로지르는 다리 주변에서 아픈 늙은이를 만나 조드에게 도움을 받도록 수도로 보냈습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions
 #. 1_Entries.Array.data[73].Description
@@ -6941,8 +6944,7 @@ msgctxt "69cec8b0-19c2-4467-bc74-3013ebc50594"
 msgid ""
 "You recommended Linzi publish Eobald's book without any changes, thereby "
 "sugar coating what's happening at the Academy of Grand Arts."
-msgstr ""
-"당신은 린지에게 이오발드가 쓴 대 예술 아카데미에서 있었던 일을 그럴듯하게 꾸며낸 책을 그것 그대로 출간할 것을 권유했습니다. "
+msgstr "당신은 린지에게 이오발드가 쓴 대 예술 아카데미에서 있었던 일을 그럴듯하게 꾸며낸 책을 그것 그대로 출간할 것을 권유했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions
 #. 2_Entries.Array.data[132].Description
@@ -7504,6 +7506,8 @@ msgid ""
 "You have researched the nature of curses long enough to understand — their "
 "power is not magic, but words. And with words a curse can be lifted."
 msgstr ""
+"당신은 저주의 본질을 충분히 이해할 수 있을 만큼 오랫동안 연구해 왔습니다. 저주의 힘은 마법이 아니라 말에서 비롯되며, 따라서 말로써 "
+"저주를 풀 수 있습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions
 #. 2_Entries.Array.data[46].Description
@@ -7522,12 +7526,6 @@ msgstr ""
 
 #. Mechanics/Blueprints/Root/Glossary Decisions
 #. 2_Entries.Array.data[4].Description
-#, fuzzy
-#| msgid ""
-#| "At the Rushlight tournament you met Atalia Gitaren, head of the Pitaxian "
-#| "Academy of Grand Arts. You found out that Atalia is worried about the fate "
-#| "of her students, who were sent By Irovetti to Littletown for an unknown "
-#| "reason."
 msgctxt "cd763ac0-e77e-43a4-8109-30273d572a43"
 msgid ""
 "At the Rushlight tournament you met Atalia Gitaren, head of the Pitaxian "
@@ -7536,7 +7534,7 @@ msgid ""
 "reason."
 msgstr ""
 "러시라이트 토너먼트에서 당신은 피탁스의 대 예술 아카데미의 교장인 아탈리아 지타렌을 만났습니다. 당신은 아탈리아가 이로베티왕에 의해 알 "
-"수 없는 이유로 리틀타운으로 보내진 그녀의 학생들을 걱정한다는 것을 알아냈습니다."
+"수 없는 이유로 작은 마을로 보내진 그녀의 학생들을 걱정한다는 것을 알아냈습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions
 #. 2_Entries.Array.data[50].Description
@@ -7902,7 +7900,7 @@ msgctxt "0c96a6a8-f6ab-46c1-bd3d-b9c67c004703"
 msgid ""
 "When a sacrifice was required to save the Six Bears, you talked Amiri into "
 "killing her friend Nilak."
-msgstr "여섯 곰 부족을 구하기 위해 누군가를 희생시켜야 했을 때, 당신은 아미리에게 그녀의 친구인 닐락을 죽이라고 말했습니다. "
+msgstr "여섯 곰 부족을 구하기 위해 누군가를 희생시켜야 했을 때, 당신은 아미리에게 그녀의 친구인 닐락을 죽이라고 말했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions
 #. 2_Entries.Array.data[93].Description
@@ -7910,7 +7908,7 @@ msgctxt "7a61b57b-5180-403b-bcbc-3700b50ad399"
 msgid ""
 "When a sacrifice was required to save the Six Bears, you talked Amiri into "
 "killing chief Akaia."
-msgstr "여섯 곰 부족을 구하기 위해 누군가를 희생시켜야 했을 때, 당신은 아미리에게 부족의 수장 아카이아를 죽이라고 말했습니다. "
+msgstr "여섯 곰 부족을 구하기 위해 누군가를 희생시켜야 했을 때, 당신은 아미리에게 부족의 수장 아카이아를 죽이라고 말했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions
 #. 2_Entries.Array.data[94].Description
@@ -7975,7 +7973,7 @@ msgstr "자만디 알도리로부터의 편지"
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[0].Description
 msgctxt "01dcdd7b-36f1-4130-a823-071186555b61"
 msgid "The first month of the year, named in honor of Abadar."
-msgstr "아바다르의 이름을 따 명명된 한 해의 첫 번째 달"
+msgstr "아바다르의 이름을 따 명명된 한 해의 첫 번째 달."
 
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[0].Name
 msgctxt "01c1353d-8296-4155-8c5f-6649262cc368"
@@ -7987,7 +7985,7 @@ msgctxt "4e1a09ae-9cb4-4942-95ee-1b411e69a5cf"
 msgid ""
 "The eleventh month of the year, named for Nethys, the two-faced god of "
 "magic."
-msgstr "두 얼굴의 마법의 신 네서스의 이름을 딴 한 해의 열한번째 달"
+msgstr "두 얼굴의 마법의 신 네서스의 이름을 딴 한 해의 열한번째 달."
 
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[10].Name
 msgctxt "01877cbd-bbb2-45d6-a4f4-d8f9a4846424"
@@ -7998,7 +7996,7 @@ msgstr "네스"
 msgctxt "4bc2240b-fc96-40ca-afcd-a464f6d7902e"
 msgid ""
 "The last month of the year, named after the god of darkness, Zon-Kuthon."
-msgstr "어둠의 신 존 쿠쏜의 이름을 딴 한 해의 마지막 달"
+msgstr "어둠의 신 존 쿠쏜의 이름을 딴 한 해의 마지막 달."
 
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[11].Name
 msgctxt "e45f5f81-bc2d-4465-a2b7-642e004273a6"
@@ -8995,7 +8993,7 @@ msgstr "아틸리아 지타렌"
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[24].Description
 msgctxt "8b1ef60a-53bb-4c3d-b6d4-027c47f381cc"
 msgid "Head of Pitax city guard."
-msgstr "피탁스 도시 경비대의 대장"
+msgstr "피탁스 도시 경비대의 대장."
 
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[24].Name
 msgctxt "c517b907-ef39-4848-b1ce-bff03563577b"
@@ -9017,7 +9015,7 @@ msgstr "가스페레 리아첸자"
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[26].Description
 msgctxt "9ed38dfd-55b9-4f73-ba1c-99b4c482aef5"
 msgid "Head of the thieves' guild in Pitax."
-msgstr "피탁스 도둑길드의 대장"
+msgstr "피탁스 도둑 조합의 대장."
 
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[26].Name
 msgctxt "c86e8594-9644-4b93-8b1f-685aa4c6a23b"
@@ -9027,7 +9025,7 @@ msgstr "칸 베릴"
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[27].Description
 msgctxt "b2fd3956-e43b-4e77-b248-7ca0b825d9ee"
 msgid "The High Priest of Calistria in Pitax."
-msgstr "피탁스의 칼리스트리아 대사제"
+msgstr "피탁스의 칼리스트리아 대사제."
 
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[27].Name
 msgctxt "53092ca1-6434-49b9-847f-d20a1f76104c"
@@ -9169,7 +9167,7 @@ msgctxt "c7728517-c0a5-44a4-af21-662c37208623"
 msgid ""
 "A dark servant of Nyrissa, who you saw arguing with the Wriggling Man near "
 "the Castle of Knives."
-msgstr "칼날의 성 근처에서 꿈틀거리는 남자와 논쟁하던 나이리사의 사악한 부하"
+msgstr "칼날의 성 근처에서 꿈틀거리는 남자와 논쟁하던 나이리사의 사악한 부하."
 
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[38].Name
 msgctxt "9c3c86d3-b8d6-4370-acae-5382519d9a7f"
@@ -9181,7 +9179,7 @@ msgctxt "c517c67b-12e1-46b2-af3d-268e32352475"
 msgid ""
 "A servant of Nyrissa, who you saw fighting with the Knurly Witch near the "
 "Castle of Knives."
-msgstr "칼날의 성 근처에서 옹이 마녀와 싸우던 나이리사의 부하"
+msgstr "칼날의 성 근처에서 옹이 마녀와 싸우던 나이리사의 부하."
 
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[39].Name
 msgctxt "55bb9dd2-b837-448e-be98-0db552c9eb01"
@@ -9292,8 +9290,6 @@ msgid ""
 msgstr "하프 엘프 장인. 재단사. 경비원들에게 잡혀있을 때 만났습니다. 누명을 썼다고 주장했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[47].Name
-#, fuzzy
-#| msgid "Shariel"
 msgctxt "bf18a851-d1b9-474d-8a3f-d0679b27239e"
 msgid "Sharel"
 msgstr "샤렐"
@@ -9311,10 +9307,6 @@ msgid "Tirval"
 msgstr "터발"
 
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[49].Description
-#, fuzzy
-#| msgid ""
-#| "A Vudrani artisan, and master or exotic weapons, who you met in the Northern"
-#| " Narlmarches when she asked to be introduced to a worthy writer."
 msgctxt "cb4732b9-e2da-487b-b380-4b1a100c984b"
 msgid ""
 "A Vudrani artisan, and master of exotic weapons, who you met in the North "
@@ -9398,7 +9390,7 @@ msgstr "킨"
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[55].Description
 msgctxt "5ca68512-a411-4ebf-a2f6-b69e63ad533a"
 msgid "An old friend of Ekun, who you met at Elina's tavern."
-msgstr "엘리나의 선술집에서 만난 에쿤의 옛 친구"
+msgstr "엘리나의 선술집에서 만난 에쿤의 옛 친구."
 
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[55].Name
 msgctxt "d299dab8-a68d-49e9-be58-ce6b7a3aaa0d"
@@ -9410,7 +9402,7 @@ msgctxt "ff09b6cc-3984-4ecf-b83d-48e20e3c57bd"
 msgid ""
 "An angry rock troll who led the attack on Ekun's village and killed his "
 "family."
-msgstr "에쿤이 살던 마을을 공격하여 그의 가족을 죽인 사나운 바위 트롤"
+msgstr "에쿤이 살던 마을을 공격하여 그의 가족을 죽인 사나운 바위 트롤."
 
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[56].Name
 msgctxt "1c5f1be1-b34a-42cd-92ff-e0c97a21c742"
@@ -9422,7 +9414,7 @@ msgctxt "689a50fe-8135-4989-9f0d-dbf259ec0e6a"
 msgid ""
 "Torag's paladin from the Skjegge clan, who you and Harrim rescued from the "
 "adamantine golem."
-msgstr "당신과 하림이 아다만틴 골렘의 공격으러부터 구해진 셰게 가문의 토락 팔라딘"
+msgstr "당신과 하림이 아다만틴 골렘의 공격에서 구해준 셰게 가문의 토락 팔라딘."
 
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[57].Name
 msgctxt "b2e3771b-59df-442e-89f2-251fa91fc054"
@@ -9434,7 +9426,7 @@ msgctxt "592cca57-065a-471c-9605-d8fec79b5ede"
 msgid ""
 "A half-elf merchant who drew you into a complex story connected to Jaethal's"
 " murder."
-msgstr "제이탈의 살인에 얽힌 복잡한 사연으로 당신을 끌어들인 하프엘프 상인"
+msgstr "제이탈의 살인에 얽힌 복잡한 사연으로 당신을 끌어들인 하프엘프 상인."
 
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[58].Name
 msgctxt "727adeb2-4508-4443-9491-6ec531cfede7"
@@ -9495,7 +9487,7 @@ msgstr "알론디"
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[62].Description
 msgctxt "91f93d00-0d59-4e96-bcf2-ae6cc87bb0e8"
 msgid "Linzi's mentor from Pitax's Academy of Grand Arts."
-msgstr "피탁스 대 예술 아카데미 시절 린지의 스승"
+msgstr "피탁스 대 예술 아카데미 시절 린지의 스승."
 
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[62].Name
 msgctxt "4b9d15f8-8514-4bc2-80a3-987139beac3d"
@@ -9532,7 +9524,7 @@ msgstr "한니스 드렐레브"
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[65].Description
 msgctxt "8fbe35fe-e3a5-4ba7-9eb6-cb5974352aaa"
 msgid "Sexy Shoeless God of War!"
-msgstr "Sexy Shoeless God of War!"
+msgstr "섹시한 맨발의 전쟁의 신!"
 
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[66].Description
 msgctxt "205becf5-48f9-4dcc-817a-14b43ce93838"
@@ -9624,133 +9616,133 @@ msgstr "메이가르 반"
 #. RankUps_Entries.Array.data[0].Description
 msgctxt "c4ac08c3-21aa-4e4c-a3ef-81fa790b0f40"
 msgid "Community +1, Loyalty +1, Divine +1, Arcane +1"
-msgstr ""
+msgstr "주민 +1, 민심 +1, 신성 +1, 비전 +1"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[100].Description
 msgctxt "eccf38de-855e-4238-af33-7f5c6437298a"
 msgid "Espionage +4, -1 BP/week"
-msgstr ""
+msgstr "첩보 +4, -1 BP/주"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[101].Description
 msgctxt "6a4c1e22-2e2b-4335-96b0-7e4e90cafc03"
 msgid "Loyalty -2, Espionage +4"
-msgstr ""
+msgstr "민심 -2, 첩보 +4"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[102].Description
 msgctxt "7b1c174b-295d-4616-881e-01253ef784f6"
 msgid "Loyalty -2, Economy +3, Relations -5, Stability +3, Espionage +3"
-msgstr ""
+msgstr "민심 -2, 경제 +3, 관계 -5, 치안 +3, 첩보 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[103].Description
 msgctxt "e979a5c2-16fb-49c6-bda1-a21aac4863e5"
 msgid "Loyalty +3, Relations -5, Stability +2, Espionage +2"
-msgstr ""
+msgstr "민심 +3, 외교 -5, 치안 +2, 첩보 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[104].Description
 msgctxt "eeb11052-c50c-4b32-9ea3-6254189a50a1"
 msgid "Relations -2, Espionage +4"
-msgstr ""
+msgstr "외교 -2, 첩보 +4"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[105].Description
 msgctxt "df6a818d-462e-4f0a-b321-2603c5ade820"
 msgid "Espionage +4, -100 BP"
-msgstr ""
+msgstr "첩보 +4, -100 BP"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[106].Description
 msgctxt "55035247-2c21-4da5-bc37-2c3ee9f77583"
 msgid "Espionage +2, -50 BP"
-msgstr ""
+msgstr "첩보 +2, -50 BP"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[107].Description
 msgctxt "9afff23d-b182-4147-9fa5-edeffc807c20"
 msgid "Relations +2, Espionage +2"
-msgstr ""
+msgstr "외교 +2, 첩보 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[108].Description
 msgctxt "b0524983-6342-4c15-9585-a83f91168f9e"
 msgid "Relations +2, Espionage +2"
-msgstr ""
+msgstr "외교 +2, 첩보 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[109].Description
 msgctxt "8e78c348-a607-4cb6-a459-2f591bc58f53"
 msgid "Relations +4"
-msgstr ""
+msgstr "외교 +4"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[10].Description
 msgctxt "d6b90b29-3463-4d24-8f07-0cc41727cac5"
 msgid "Community +2, Loyalty +2, Relations +2, Divine +4, Arcane -4"
-msgstr ""
+msgstr "주민 +2, 민심 +2, 외교 +2, 신성 +4, 비전 -4"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[110].Description
 msgctxt "c6c0fdbf-5a01-4fe4-9c45-a6deb6b5183f"
 msgid "Relations +2, Espionage +2"
-msgstr ""
+msgstr "외교 +2, 첩보 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[111].Description
 msgctxt "b6402399-6630-4b95-9b7a-4d4c6ed5e5cd"
 msgid "Relations +2, Espionage +2"
-msgstr ""
+msgstr "외교 +2, 첩보 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[112].Description
 msgctxt "25478e23-9531-4d91-b341-562628389c63"
 msgid "Relations +4"
-msgstr ""
+msgstr "외교 +4"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[113].Description
 msgctxt "58d0a078-160a-4df1-bc31-cf3503c89e15"
 msgid "Relations -3"
-msgstr ""
+msgstr "외교 -3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[114].Description
 msgctxt "45993f6c-c121-4722-a4f4-b45e13dd3e27"
 msgid "Relations +2, Espionage +2"
-msgstr ""
+msgstr "외교 +2, 첩보 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[115].Description
 msgctxt "c0497a1a-5fa1-41e4-9fb4-49eeef5b9d25"
 msgid "Military +10"
-msgstr ""
+msgstr "군사 +10"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[116].Description
 msgctxt "367c2535-1035-4433-a264-c83b9d1d47c4"
 msgid "Relations +10"
-msgstr ""
+msgstr "외교 +10"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[117].Description
 msgctxt "f9cef0a9-d5b3-4a87-8d4d-2d4cf6819017"
 msgid "Arcane +10"
-msgstr ""
+msgstr "비전 +10"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[118].Description
 msgctxt "9bddeab4-fe58-4fd3-850f-649633a25af8"
 msgid "Community +2, Culture +2"
-msgstr ""
+msgstr "주민 +2, 문화 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[119].Description
 msgctxt "93ca22b1-5ff4-4ec0-8542-0f6aa189f7bc"
 msgid "Economy +2, Relations +2"
-msgstr ""
+msgstr "경제 +2, 외교 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[11].Description
@@ -9759,180 +9751,182 @@ msgid ""
 "Relations -3, Divine -3, Arcane +4\n"
 "New project: Undead Guards"
 msgstr ""
+"외교 -3, 신성 -3, 비전 +4\n"
+"새 계획: 언데드 경비대"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[120].Description
 msgctxt "a6740df0-7920-4f2c-9068-d2e74e2e7225"
 msgid "+20 BP"
-msgstr ""
+msgstr "+20 BP"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[121].Description
 msgctxt "0a077b5b-ff00-4795-be6a-39fcf2ff1616"
 msgid "Community +2, Economy -3, +30 BP"
-msgstr ""
+msgstr "주민 +2, 경제 -3, +30 BP"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[122].Description
 msgctxt "5562f6b4-9b00-4b76-9f54-2d5cb83e2974"
 msgid "Relations -2"
-msgstr ""
+msgstr "외교 -2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[123].Description
 msgctxt "55319ed7-cd0b-4849-bfd7-b6653dff09c2"
 msgid "Loyalty -2, Economy +4"
-msgstr ""
+msgstr "민심 -2, 경제 +4"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[124].Description
 msgctxt "516b38ef-9609-46af-bb65-8d67a7ed006c"
 msgid "Loyalty +5, Economy -4"
-msgstr ""
+msgstr "민심 +5, 경제 -4"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[125].Description
 msgctxt "30ebf76b-0a26-458b-9d79-b55b9681386e"
 msgid "Culture +5, -100 BP"
-msgstr ""
+msgstr "문화 +5, -100 BP"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[126].Description
 msgctxt "8d90ca78-7222-4e7b-9580-989646929e66"
 msgid "Economy -5, +40 BP, +5000 gp"
-msgstr ""
+msgstr "경제 -5, +40 BP, +5000 gp"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[127].Description
 msgctxt "cb583a47-85de-4886-80f6-31ac84122268"
 msgid "Economy -5, Stability +2"
-msgstr ""
+msgstr "경제 -5, 치안 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[128].Description
 msgctxt "e062ca7f-e529-4da8-9140-a8f141fcf44b"
 msgid "Economy +3, Stability +2, -100 BP"
-msgstr ""
+msgstr "경제 +3, 치안 +2, -100 BP"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[129].Description
 msgctxt "3c250de3-ccd1-4418-aeec-378cab330042"
 msgid "Economy +2, Stability -5"
-msgstr ""
+msgstr "경제 +2, 치안 -5"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[12].Description
 msgctxt "c7cfe3fd-c42f-4473-ae92-9322e7f365b3"
 msgid "Community +2, Loyalty +2, Divine -2, Arcane -2"
-msgstr ""
+msgstr "주민 +2, 민심 +2, 신성 -2, 비전 -2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[130].Description
 msgctxt "2fe3ca1c-dacd-4a50-8277-2c81f83c6a1b"
 msgid "Community +1, Loyalty +2"
-msgstr ""
+msgstr "주민 +1, 민심 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[131].Description
 msgctxt "c37576cb-2e34-45ff-adf8-7fdbd4716152"
 msgid "Economy +2, Stability +1"
-msgstr ""
+msgstr "경제 +2, 치안 +1"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[132].Description
 msgctxt "ebf2e62f-878f-457c-8eab-c195eecc092d"
 msgid "Loyalty +2, Economy +2, Stability -2"
-msgstr ""
+msgstr "민심 +2, 경제 +2, 치안 -2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[133].Description
 msgctxt "aef291e1-aa87-4095-a464-fd360912dd79"
 msgid "Community +3, Loyalty +7, Economy -5"
-msgstr ""
+msgstr "주민 +3, 민심 +7, 경제 -5"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[134].Description
 msgctxt "8140f605-f7fc-41cf-b291-57af6014a890"
 msgid "Community +5, Economy +5"
-msgstr ""
+msgstr "주민 +5, 경제 +5"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[135].Description
 msgctxt "3c7080c9-07ae-4459-860d-f87744a75cbc"
 msgid "Community +2, Loyalty +2, Economy -3, +200 BP, +10000 gp"
-msgstr ""
+msgstr "주민 +2, 민심 +2, 경제 -3, +200 BP, +10000 gp"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[136].Description
 msgctxt "06dfc306-3de5-4680-bbfe-29b824888607"
 msgid "Community +4, Stability +4"
-msgstr ""
+msgstr "주민 +4, 치안 +4"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[137].Description
 msgctxt "6dd09eaf-a900-451f-b66a-33ac452ec15b"
 msgid "Community +3, Loyalty +3, Divine +2"
-msgstr ""
+msgstr "주민 +3, 민심 +3, 신성 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[138].Description
 msgctxt "f4e74b64-e6d1-4486-96e3-5d916b0073fe"
 msgid "Community +2, Loyalty +3, Military +3"
-msgstr ""
+msgstr "주민 +2, 민심 +3, 군사 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[139].Description
 msgctxt "e2111483-8373-4496-bf2e-4a6a694b9c75"
 msgid "New project: Strength in Numbers"
-msgstr ""
+msgstr "새 계획: 수적우위"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[13].Description
 msgctxt "abddfa2c-cfb6-4a63-b447-a2041fa6ec9a"
 msgid "Community -2, Loyalty -2, Divine +2, Arcane +2"
-msgstr ""
+msgstr "주민 -2, 민심 -2, 신성 +2, 비전 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[140].Description
 msgctxt "02fdc185-5f49-468d-9018-76603fbe4895"
 msgid "New project: Talented Recruits"
-msgstr ""
+msgstr "새 계획: 재능있는 신병"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[141].Description
 msgctxt "a6d37a3b-3961-46f0-9c82-53c1d941afab"
 msgid "New project: Ambitious Recruits"
-msgstr ""
+msgstr "새 계획: 야망있는 신병"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[142].Description
 msgctxt "e3011bbc-bbfb-4cb3-9b2c-ed97ad200de0"
 msgid "Relations +2"
-msgstr ""
+msgstr "외교 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[143].Description
 msgctxt "8e498ff6-ffb6-47ad-911b-86e210efe07f"
 msgid "Arcane +2"
-msgstr ""
+msgstr "비전 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[144].Description
 msgctxt "aa8f1d5a-5a69-4499-bce8-cd54778ff734"
 msgid "New project: Training Camps near the Capital"
-msgstr ""
+msgstr "새 계획: 수도 근처 훈련장"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[145].Description
 msgctxt "d4633a58-6556-4b96-a957-0d594ebe05ca"
 msgid "New project: Border Training Camps"
-msgstr ""
+msgstr "새 계획: 국경 훈련장"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[146].Description
 msgctxt "25e7e8a0-3cda-417b-a53b-afdca4c82ba3"
 msgid "Military +3, Arcane -2, Stability +3"
-msgstr ""
+msgstr "군사 +3, 비전 -2, 치안 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[147].Description
@@ -9942,6 +9936,7 @@ msgid ""
 "Military by 1 for each achieved Triumph and reduces Military by 1 for each "
 "achieved Disaster.)"
 msgstr ""
+"{mf|남작령|남작령|왕국|왕국} 효과: 연금술 자가양조 (대성공마다 군사를 1씩 증가시키며, 재난마다 군사를 1씩 감소시킵니다.)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[148].Description
@@ -9950,30 +9945,33 @@ msgid ""
 "Arcane +2\n"
 "{mf|Barony|Barony|Kingdom|Kingdom} effect: Alchemical Additive (Increases Military by 1 for each achieved Success or Triumph and reduces Military by 1 for each achieved Failure and Disaster.)"
 msgstr ""
+"비전 +2\n"
+"{mf|남작령|남작령|왕국|왕국} 효과: 연금술 첨가제 (매 성공 또는 대성공마다 군사를 1씩 증가시키며, 실패와 재앙마다 군사를 1씩 "
+"감소시킵니다.)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[149].Description
 msgctxt "f2fd2484-a69b-48a5-98cf-fda9c3493f26"
 msgid "Loyalty +3, Military -6"
-msgstr ""
+msgstr "민심 +3, 군사 -6"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[14].Description
 msgctxt "86c69a35-8e0b-42cd-ac0e-265b10ff98d5"
 msgid "Community +2, Divine -2, Arcane -2, Stability +2"
-msgstr ""
+msgstr "주민 +2, 신성 -2, 비전 -2, 치안 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[150].Description
 msgctxt "21671fd1-9d0c-461c-9184-86a45b84a837"
 msgid "Loyalty -3"
-msgstr ""
+msgstr "민심 -3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[151].Description
 msgctxt "401661bf-d46d-4536-9c3c-558bf9ca27fb"
 msgid "Military +10, Economy -5, -250 BP"
-msgstr ""
+msgstr "군사 +10, 경제 -5, -250 BP"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[152].Description
@@ -9982,60 +9980,62 @@ msgid ""
 "Loyalty -5, Military +5, Stability -2\n"
 "Unrest state: worsens"
 msgstr ""
+"민심 -5, 군사 +5, 치안 -2\n"
+"안정도: 악화"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[153].Description
 msgctxt "881b6297-8f60-4b93-ba20-5796a7e67db9"
 msgid "Military -5, Stability -5"
-msgstr ""
+msgstr "군사 -5, 치안 -5"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[154].Description
 msgctxt "15947ef7-07b3-4fa3-9191-bb50738cb2a7"
 msgid "Military +5, -3 BP/week"
-msgstr ""
+msgstr "군사 +5, -3 BP/주"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[155].Description
 msgctxt "23cdc62f-0820-456e-a142-23795da93eb7"
 msgid "Military +5, -3 BP/week"
-msgstr ""
+msgstr "군사 +5, -3 BP/주"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[156].Description
 msgctxt "b41b375c-fe92-499e-8a22-73b2038af853"
 msgid "Military +5, -3 BP/week"
-msgstr ""
+msgstr "군사 +5, -3 BP/주"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[157].Description
 msgctxt "8f0095a0-9805-4d11-8dce-0953d5ec5014"
 msgid "Relations +5"
-msgstr ""
+msgstr "외교 +5"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[158].Description
 msgctxt "74fb38c4-5393-4867-b216-2f8cc47b80a0"
 msgid "Arcane +5"
-msgstr ""
+msgstr "비전 +5"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[159].Description
 msgctxt "e5b4fa0b-9d6e-41a4-8283-301572d5ed4f"
 msgid "Community +3"
-msgstr ""
+msgstr "주민 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[15].Description
 msgctxt "5af4b843-6178-4db2-a51e-341c631e3436"
 msgid "Community +3, Loyalty +3, Relations +3, Arcane -7"
-msgstr ""
+msgstr "주민 +3, 민심 +3, 외교 +3, 비전 -7"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[160].Description
 msgctxt "981a77ca-8e83-46fd-87a1-9174eba804ac"
 msgid "+50 BP"
-msgstr ""
+msgstr "+50 BP"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[161].Description
@@ -10044,42 +10044,44 @@ msgid ""
 "Loyalty -2, Economy -5\n"
 "{mf|Barony|Barony|Kingdom|Kingdom} effect: Bandits' Dues (1d4 BP/week.)"
 msgstr ""
+"민심 -2, 경제-5\n"
+"{mf|남작령|남작령|왕국|왕국} 효과: 도적세 (1d4 BP/주.)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[162].Description
 msgctxt "342d4601-ac66-4d1e-9bbc-b2ec2f25803e"
 msgid "Military -3, +4000 gp"
-msgstr ""
+msgstr "군사 -3, +4000 gp"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[163].Description
 msgctxt "6d709c9a-5f6c-454f-8957-9b8982a84846"
 msgid "Loyalty -1, +10 BP"
-msgstr ""
+msgstr "민심 -1, +10 BP"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[164].Description
 msgctxt "f910137e-f8eb-440e-a60f-8cf22cb2f3d0"
 msgid "Relations +5, -75 BP"
-msgstr ""
+msgstr "외교 +5, -75 BP"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[165].Description
 msgctxt "997d9af5-6d98-43f9-931f-d33e0c5cd0a8"
 msgid "Relations +3, Stability +3, -100 BP"
-msgstr ""
+msgstr "외교 +3, 치안 +3, -100 BP"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[166].Description
 msgctxt "b81f3792-a346-4400-82c2-17eaaa6872c0"
 msgid "Stability +2"
-msgstr ""
+msgstr "치안 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[167].Description
 msgctxt "8259ed4d-0436-4cbc-b9d7-51fbebf54fff"
 msgid "Loyalty +3, Economy -10"
-msgstr ""
+msgstr "민심 +3, 경제 -10"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[168].Description
@@ -10088,138 +10090,140 @@ msgid ""
 "Loyalty +3, Economy -10, Relations +3, -100 BP\n"
 "Item: Falchion +3"
 msgstr ""
+"민심 +3, 경제 -10, 외교 +3, -100 BP\n"
+"물품: 펄션 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[16].Description
 msgctxt "bc96e1ee-22b2-4f92-9662-f6f201670ec1"
 msgid "Community -3, Loyalty -3, Economy +5, Relations -3, Arcane +7"
-msgstr ""
+msgstr "주민 -3, 민심 -3, 경제 +5, 외교 -3, 비전 +7"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[170].Description
 msgctxt "7aae013c-699f-4964-bb81-2a6b386cbeac"
 msgid "Economy +5, Stability -5"
-msgstr ""
+msgstr "경제 +5, 치안 -5"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[171].Description
 msgctxt "a19f2382-f7bc-4348-a09e-5997433d5d35"
 msgid "Economy -5, Stability +5"
-msgstr ""
+msgstr "경제 -5, 치안 +5"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[172].Description
 msgctxt "5f6ec4f3-e80c-47b8-9c72-8bc550ae6771"
 msgid "New project: Stability by Nobility, Blue Blood Community"
-msgstr ""
+msgstr "새 계획: 귀족의 치안, 귀족 사회"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[173].Description
 msgctxt "68b64ce9-1d61-490d-8850-db50e9e90083"
 msgid "New project: Loyalty of the Masses, Community of Loyalists"
-msgstr ""
+msgstr "새 계획: 대중의 충성, 충성스런 지역사회"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[174].Description
 msgctxt "843e12e5-08c6-4d19-9c6a-58a4c5060c6c"
 msgid "Economy +15"
-msgstr ""
+msgstr "경제 +15"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[175].Description
 msgctxt "27e4e529-5343-43e2-9a02-8d9201ff9398"
 msgid "Loyalty +15"
-msgstr ""
+msgstr "민심 +15"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[176].Description
 msgctxt "6b0654bf-c828-4a4b-94f6-32c1254dd66d"
 msgid "Culture +15"
-msgstr ""
+msgstr "문화 +15"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[177].Description
 msgctxt "18b05b99-9201-4664-9af1-8a4c4433c685"
 msgid "Relations +15"
-msgstr ""
+msgstr "외교 +15"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[178].Description
 msgctxt "e874e67c-accd-4ca8-b4d1-859ce165d5c9"
 msgid "Divine +15"
-msgstr ""
+msgstr "신성 +15"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[179].Description
 msgctxt "a5030f4f-acec-4427-8551-3c0336a17f54"
 msgid "Stability +15"
-msgstr ""
+msgstr "치안 +15"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[17].Description
 msgctxt "a82dc066-14d0-4ca4-801c-db37baffb792"
 msgid "Loyalty -3, Arcane +5"
-msgstr ""
+msgstr "민심 -3, 비전 +5"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[180].Description
 msgctxt "cdc11cb6-7735-4204-85cc-e0038fd55584"
 msgid "Community -2, Loyalty +1, Relations +2, Stability -2"
-msgstr ""
+msgstr "주민 -2, 민심 +1, 외교 +2, 치안 -2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[181].Description
 msgctxt "1e62ab71-a9fe-4774-a973-fc06a3749bdd"
 msgid "Community +1, Relations -3, Stability +3"
-msgstr ""
+msgstr "주민 +1, 외교 -3, 치안 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[182].Description
 msgctxt "47575784-33fa-4dbd-8498-c62d78a18083"
 msgid "Loyalty +1, Relations -1, +78 BP in 13 weeks"
-msgstr ""
+msgstr "민심 +1, 외교 -1, +78 BP in 13 weeks"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[183].Description
 msgctxt "f9c46cab-6174-42f0-9110-bc58df550f5b"
 msgid "New project: Trade Agreement with Razmiran"
-msgstr ""
+msgstr "새 계획: 라즈미란과의 교역 협정"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[184].Description
 msgctxt "d51dfdcf-6cb0-491e-b439-e35778db69e3"
 msgid "Loyalty +3, Stability -6"
-msgstr ""
+msgstr "민심 +3, 치안 -6"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[185].Description
 msgctxt "4b2a005b-aa33-4144-a529-a7b19289b14b"
 msgid "Loyalty -3, Stability +3, -1 BP/week"
-msgstr ""
+msgstr "민심 -3, 치안 +3, -1 BP/주"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[186].Description
 msgctxt "b4b96dcc-5d7f-43df-9092-6984c777a8e1"
 msgid "Relations +3, Divine +3"
-msgstr ""
+msgstr "외교 +3, 신성 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[187].Description
 msgctxt "4f3a7925-f438-4d8b-a5b1-2a1adc2a43d7"
 msgid "Relations +3, Arcane +3"
-msgstr ""
+msgstr "외교 +3, 비전 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[188].Description
 msgctxt "50f2592e-c56e-4618-9c87-5fc18499a276"
 msgid "Community +2, Loyalty +2, Stability +2"
-msgstr ""
+msgstr "주민 +2, 민심 +2, 치안 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[189].Description
 msgctxt "9b80df45-a8f2-45fd-8bda-39b317469dd9"
 msgid "Military +3"
-msgstr ""
+msgstr "군사 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[18].Description
@@ -10229,48 +10233,51 @@ msgid ""
 "Unrest state: improves\n"
 "{mf|Barony|Barony|Kingdom|Kingdom} effect: Arcane Restrictions (The Magister suffers a -2 penalty when attempting to resolve any scenario.)"
 msgstr ""
+"주민 +4, 민심 +4, 비전 -10, 치안 +4\n"
+"안정도: 상승\n"
+"{mf|남작령|남작령|왕국|왕국} 효과: 비전 규제 (마법대신은 전체 시나리오에서 문제 해결에 관해 -2 의 패널티를 받습니다.)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[190].Description
 msgctxt "5c9ead8d-3454-4c27-92c4-d333af7f2df1"
 msgid "Economy +3"
-msgstr ""
+msgstr "경제 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[191].Description
 msgctxt "15426e9b-b16c-4633-be63-f565fd87801b"
 msgid "Espionage +3"
-msgstr ""
+msgstr "첩보 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[192].Description
 msgctxt "b9d63f0a-812d-4da8-aab5-551443e8cb1a"
 msgid "Relations +3, Divine +3"
-msgstr ""
+msgstr "외교 +3, 신성 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[193].Description
 msgctxt "3b56ddab-d8ea-4cdb-88ef-72abd2bb38c8"
 msgid "Relations +3, Arcane +3"
-msgstr ""
+msgstr "외교 +3, 비전 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[194].Description
 msgctxt "072c9f3c-30be-4ebd-94a7-cf8f32bca79f"
 msgid "Relations -7, +2 BP/week"
-msgstr ""
+msgstr "외교 -7, +2 BP/주"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[195].Description
 msgctxt "b195a98f-f49f-4601-99e9-95227bd8505c"
 msgid "Community +2, Loyalty +2, Stability +2, +2 BP/week"
-msgstr ""
+msgstr "주민 +2, 민심 +2, 치안 +2, +2 BP/주"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[196].Description
 msgctxt "7ff26ad0-689e-4aea-a0d3-454f86f33feb"
 msgid "+500 BP"
-msgstr ""
+msgstr "+500 BP"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[197].Description
@@ -10278,7 +10285,7 @@ msgctxt "03b55096-e638-43b7-b1c8-53896d65f147"
 msgid ""
 "Item: Ruin (Quarterstaff +5 that deals additional 2d6 force damage and has "
 "special effects determined by wielder alignment.)"
-msgstr ""
+msgstr "Item: 멸망 (착용자의 성향에 따른 특수 효과를 주고 2d6 역장 피해를 추가로 입히는 +5 육척봉.)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[198].Description
@@ -10288,6 +10295,7 @@ msgid ""
 "can be handled by the Grand Diplomat or Minister, roll 2 checks and pick the"
 " best result.)"
 msgstr ""
+"{mf|남작령|남작령|왕국|왕국} 효과: 도살자 (수석 외교관이나 장관이 다루는 모든 문제는 두번 굴려 더 나은 결과를 고릅니다.)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[199].Description
@@ -10296,18 +10304,20 @@ msgid ""
 "Loyalty +3, Economy -5\n"
 "Project removed: Trade agreement with Razmiran"
 msgstr ""
+"민심 +3, 경제 -5\n"
+"계획 제거: 라즈미란과의 교역 협정"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[19].Description
 msgctxt "c0f2787e-1c33-45fa-bc0e-5d4b914692f1"
 msgid "Relations +15"
-msgstr ""
+msgstr "외교 +15"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[1].Description
 msgctxt "ab0b3f1d-a544-4a11-bca6-e2879065e81d"
 msgid "Item: Wand of Dominate Animal"
-msgstr ""
+msgstr "Item: 동물 지배 완드"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[200].Description
@@ -10316,6 +10326,8 @@ msgid ""
 "Community +3, Economy -5\n"
 "Project removed: Trade agreement with Razmiran"
 msgstr ""
+"민심 +3, 경제 -5\n"
+"계획 제거: 라즈미란과의 교역 협정"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[201].Description
@@ -10324,6 +10336,8 @@ msgid ""
 "Economy -5, Stability +3\n"
 "Project removed: Trade agreement with Razmiran"
 msgstr ""
+"경제 -5, 치안 +3\n"
+"계획 제거: 라즈미란과의 교역 협정"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[202].Description
@@ -10332,150 +10346,152 @@ msgid ""
 "Loyalty +3, Relations +3\n"
 "Unrest state: improves"
 msgstr ""
+"민심 +3, 외교 +3\n"
+"안정도: 상승"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[203].Description
 msgctxt "b1e5921d-f854-4e02-90e4-80c456df72f9"
 msgid "Relations -3, +250 BP"
-msgstr ""
+msgstr "외교 -3, +250 BP"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[204].Description
 msgctxt "1e39468e-2bbe-4c5f-b394-fcb766c6e717"
 msgid "Loyalty +5, Culture +10"
-msgstr ""
+msgstr "민심 +5, 문화 +10"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[205].Description
 msgctxt "0e9ddd17-7fb0-47df-9b6e-4aa07c030029"
 msgid "Community +5, Military +10"
-msgstr ""
+msgstr "주민 +5, 군사 +10"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[206].Description
 msgctxt "e854c413-7478-49a0-a7a3-7b60e519fe75"
 msgid "Community +10, Loyalty +5"
-msgstr ""
+msgstr "주민 +10, 민심 +5"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[207].Description
 msgctxt "13dde79c-9015-4452-9411-36a53920bb49"
 msgid "Loyalty -5, Stability +10, Espionage +10"
-msgstr ""
+msgstr "민심 -5, 치안 +10, 첩보 +10"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[208].Description
 msgctxt "d90c3d76-e60c-409f-b33f-3cd5855c68ec"
 msgid "Loyalty +10, Stability +10, Culture -5"
-msgstr ""
+msgstr "민심 +10, 치안 +10, 문화 -5"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[209].Description
 msgctxt "d668f5ec-f507-4db4-a61b-3fcf8032cb31"
 msgid "Community +10, Loyalty +10, Economy -5"
-msgstr ""
+msgstr "주민 +10, 민심 +10, 경제 -5"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[20].Description
 msgctxt "5bc53bf3-1917-45a9-aeaa-4e8abf91d5c4"
 msgid "Divine +15"
-msgstr ""
+msgstr "신성 +15"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[210].Description
 msgctxt "0b25b473-1a8a-47e3-b20d-491c76104e8a"
 msgid "Loyalty -2, Stability +3"
-msgstr ""
+msgstr "민심 -2, 치안 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[211].Description
 msgctxt "1a2af982-0c31-4ac5-8572-06a7172af2c7"
 msgid "Military -2, Stability +3"
-msgstr ""
+msgstr "군사 -2, 치안 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[212].Description
 msgctxt "bd6f7f65-1316-4f4c-8951-0da8e80b736c"
 msgid "Stability -2"
-msgstr ""
+msgstr "치안 -2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[213].Description
 msgctxt "c0e7cf48-4267-4834-8d40-ec4513b83fc4"
 msgid "Community -1, Loyalty -1, Stability +2"
-msgstr ""
+msgstr "주민 -1, 민심 -1, 치안 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[214].Description
 msgctxt "9ed54387-461e-4452-bedd-8bd82be15a45"
 msgid "Military -2, Stability +2"
-msgstr ""
+msgstr "군사 -2, 치안 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[215].Description
 msgctxt "52257382-8373-4d8f-966a-7861d34870bd"
 msgid "Community +1, Loyalty +1, Relations -3, Stability +1"
-msgstr ""
+msgstr "주민 +1, 민심 +1, 외교 -3, 치안 +1"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[216].Description
 msgctxt "cb68429f-f109-4adc-ae3e-37d19d438ead"
 msgid "Loyalty -2, Stability +4"
-msgstr ""
+msgstr "민심 -2, 치안 +4"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[217].Description
 msgctxt "817278ec-fa1d-442a-a01a-4a81e5e97d0e"
 msgid "Community +1, Stability +1"
-msgstr ""
+msgstr "주민 +1, 치안 +1"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[218].Description
 msgctxt "efdcc315-4c83-4b27-b579-4803daec2dea"
 msgid "Community -1, Loyalty -2, Stability +5"
-msgstr ""
+msgstr "주민 -1, 민심 -2, 치안 +5"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[219].Description
 msgctxt "5059dda1-edf9-4004-a888-e91ae360bab1"
 msgid "Unrest state: worsens"
-msgstr ""
+msgstr "안정도: 악화"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[21].Description
 msgctxt "3f38e593-1fb2-4818-a0e7-bc2852ba1116"
 msgid "Military +15"
-msgstr ""
+msgstr "군사 +15"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[220].Description
 msgctxt "e30e7ca6-4a19-49a6-ad48-a51a4179c833"
 msgid "Community +2, Relations -5, Stability +4"
-msgstr ""
+msgstr "주민 +2, 외교 -5, 치안 +4"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[221].Description
 msgctxt "baf83e92-388d-4193-93da-f40d9c4d2ea2"
 msgid "Unrest state: worsens"
-msgstr ""
+msgstr "안정도: 악화"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[222].Description
 msgctxt "4eb0f212-ae37-4439-bdc6-f4bf6d438543"
 msgid "Community +3, Stability +4, -200 BP"
-msgstr ""
+msgstr "주민 +3, 치안 +4, -200 BP"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[223].Description
 msgctxt "5c60122a-cb47-4a72-92a1-327031d90d6a"
 msgid "Loyalty -3, Military -2, Stability +5"
-msgstr ""
+msgstr "민심 -3, 군사 -2, 치안 +5"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[224].Description
 msgctxt "9e3a3edd-0b6e-433c-abe3-76f4ad6e656b"
 msgid "Community -2, Stability +4, -50 BP"
-msgstr ""
+msgstr "주민 -2, 치안 +4, -50 BP"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[225].Description
@@ -10483,31 +10499,31 @@ msgctxt "5c7ca8c3-4554-4573-8711-c52db464b25e"
 msgid ""
 " Loyalty +4, Economy +4 OR Stability -5 (depending on banditism level in the"
 " {mf|barony|barony|kingdom|kingdom}.)"
-msgstr ""
+msgstr " 민심 +4, 경제 +4 또는 치안 -5 ({mf|남작령|남작령|왕국|왕국}의 도적 지원 등급에 따라.)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[226].Description
 msgctxt "16814901-0018-4948-87f6-5ab09b737b48"
 msgid "Loyalty +2"
-msgstr ""
+msgstr "민심 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[227].Description
 msgctxt "dcbc08f6-0122-4372-bf4d-d3a86eff15df"
 msgid "Community +2"
-msgstr ""
+msgstr "주민 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[228].Description
 msgctxt "934174d4-cd00-4b67-98cc-9f39f1cde250"
 msgid "Loyalty +3, -2 BP/week"
-msgstr ""
+msgstr "민심 +3, -2 BP/주"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[229].Description
 msgctxt "4becacd2-239e-4989-8cfd-f7d7524182da"
 msgid "Loyalty +3, Stability -6"
-msgstr ""
+msgstr "민심 +3, 치안 -6"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[22].Description
@@ -10516,18 +10532,20 @@ msgid ""
 "Loyalty +2, -100 BP\n"
 "Building: School (free)"
 msgstr ""
+"민심 +2, -100 BP\n"
+"건물: 학교 (무료)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[230].Description
 msgctxt "31367b00-28a6-4981-b5fe-3f779b59a277"
 msgid "Loyalty -3, Military -2, Stability +5"
-msgstr ""
+msgstr "민심 -3, 군사 -2, 치안 +5"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[231].Description
 msgctxt "238dd40c-c392-4070-a910-78027f620e4f"
 msgid "Loyalty + 3, -2 BP/week"
-msgstr ""
+msgstr "민심 + 3, -2 BP/주"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[23].Description
@@ -10536,36 +10554,38 @@ msgid ""
 "Loyalty +2, -100 BP\n"
 "Building: Tavern x2 (free)"
 msgstr ""
+"민심 +2, -100 BP\n"
+"건물: 선술집 x2 (무료)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[24].Description
 msgctxt "54e7846a-e15a-478a-a175-cfa324f42551"
 msgid "Culture +3, -75 BP"
-msgstr ""
+msgstr "문화 +3, -75 BP"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[25].Description
 msgctxt "c3130fff-e77b-4be3-ba09-72032786090b"
 msgid "Community +1, Culture +1, -50 BP"
-msgstr ""
+msgstr "주민 +1, 문화 +1, -50 BP"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[26].Description
 msgctxt "452a56bd-487b-4b5d-9a5a-98021cd94d7f"
 msgid "Relations +3, Culture +5"
-msgstr ""
+msgstr "외교 +3, 문화 +5"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[27].Description
 msgctxt "371135dd-4c97-4a5e-96f8-92171c56428b"
 msgid "Community +3, Loyalty +3, Culture +2"
-msgstr ""
+msgstr "주민 +3, 민심 +3, 문화 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[28].Description
 msgctxt "58b0fdb3-76ae-4c43-86c1-216005a91510"
 msgid "Military +3, Stability +3, Culture +2"
-msgstr ""
+msgstr "군사 +3, 치안 +3, 문화 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[29].Description
@@ -10573,20 +10593,20 @@ msgctxt "d8adc24e-5dfe-44cf-be6c-2956e19ee9e5"
 msgid ""
 "{mf|Barony|Barony|Kingdom|Kingdom} effect: Generous Support of Larcio (-3 "
 "BP/week)"
-msgstr ""
+msgstr "{mf|남작령|남작령|왕국|왕국} 효과: 라르치오에게 후한 지원금 지불 (-3 BP/주)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[2].Description
 msgctxt "6d2b58ad-b5f4-468c-a618-d203ec2628c3"
 msgid "Item: Headband of Alluring Charisma +4"
-msgstr ""
+msgstr "Item: 매혹적인 매력의 머리띠 +4"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[30].Description
 msgctxt "c40ab1ff-3e94-4224-86f3-070573d871a2"
 msgid ""
 "{mf|Barony|Barony|Kingdom|Kingdom} effect: Support of Larcio (-1 BP/week)"
-msgstr ""
+msgstr "{mf|남작령|남작령|왕국|왕국} 효과: 라르치오에게 지원금 지불 (-1 BP/주)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[31].Description
@@ -10595,42 +10615,44 @@ msgid ""
 "Arcane +4\n"
 "New project: Eternal Guardians"
 msgstr ""
+"비전 +4\n"
+"새 계획: 영원한 수호자"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[32].Description
 msgctxt "97a7486e-a05a-47e5-b84f-0958b9405bfe"
 msgid "Community +2, Loyalty +2, Stability +2, -2 BP/week"
-msgstr ""
+msgstr "주민 +2, 민심 +2, 치안 +2, -2 BP/주"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[33].Description
 msgctxt "b8367b98-09c5-4c0a-b091-cd82803712e1"
 msgid "Community -2, Loyalty +2, Stability -2"
-msgstr ""
+msgstr "주민 -2, 민심 +2, 치안 -2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[34].Description
 msgctxt "e22330b3-bbce-4d05-9657-96f1378f54f6"
 msgid "Loyalty -2"
-msgstr ""
+msgstr "민심 -2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[35].Description
 msgctxt "ebace9b8-a054-4846-8a43-18ed0ccc2386"
 msgid "Community -3, Loyalty -3, Stability +3"
-msgstr ""
+msgstr "주민 -3, 민심 -3, 치안 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[36].Description
 msgctxt "76a5974f-9b7c-4156-9fd9-3f938caf0b30"
 msgid "-1 BP/week"
-msgstr ""
+msgstr "-1 BP/주"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[37].Description
 msgctxt "fdcb4f1e-ef8e-48bb-897c-ba5f12c183e6"
 msgid "-1 BP/week"
-msgstr ""
+msgstr "-1 BP/주"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[38].Description
@@ -10639,36 +10661,38 @@ msgid ""
 "Loyalty -3, Economy +2, Relations +2, Culture +2, -200 BP\n"
 "Building: University (free)"
 msgstr ""
+"민심 -3, 경제 +2, 외교 +2, 문화 +2, -200 BP\n"
+"건물: 대학 (무료)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[39].Description
 msgctxt "53cd9f15-9a79-44f5-9733-a04a57a04446"
 msgid "Community +1, Loyalty+1, Economy+1, Arcane -4"
-msgstr ""
+msgstr "주민 +1, 민심+1, 경제+1, 비전 -4"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[3].Description
 msgctxt "deeabbd6-884c-44bd-b1bc-c346bc9a5d8c"
 msgid "Loyalty +3, Arcane -2"
-msgstr ""
+msgstr "민심 +3, 비전 -2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[40].Description
 msgctxt "e33d36c5-0526-4894-9474-6886d4f63241"
 msgid "Community +2, Loyalty +2, Culture +2"
-msgstr ""
+msgstr "주민 +2, 민심 +2, 문화 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[41].Description
 msgctxt "b4fc6ce0-9961-42c9-8045-482b46bd486f"
 msgid "Community +2, Relations +2, Stability -2, Culture +2, -2 BP/week"
-msgstr ""
+msgstr "주민 +2, 외교 +2, 치안 -2, 문화 +2, -2 BP/주"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[42].Description
 msgctxt "a17791be-2ab1-429e-ab4e-1ed3569db87f"
 msgid "Loyalty -3, Stability +3"
-msgstr ""
+msgstr "민심 -3, 치안 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[43].Description
@@ -10678,60 +10702,63 @@ msgid ""
 "Unrest state: worsens\n"
 "{mf|Barony|Barony|Kingdom|Kingdom} effect: Reign of Terror (All problems that can be solved by the Councilor or Curator are resolved by rolling twice and picking the best result.)"
 msgstr ""
+"민심 -5, 신성 -5, 치안 +3\n"
+"안정도: 악화\n"
+"{mf|남작령|남작령|왕국|왕국} 효과: 공포정치 (평의원과 학예사가 해결하는 모든 문제는 두번 굴려서 더 나은 결과를 고릅니다.)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[44].Description
 msgctxt "1422e5a2-ca1e-4b0b-8eae-b3ac3b8f02b9"
 msgid "-200 BP"
-msgstr ""
+msgstr "-200 BP"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[45].Description
 msgctxt "143a89a5-5cab-4d7a-bebb-7229693ef3ab"
 msgid "-100 BP"
-msgstr ""
+msgstr "-100 BP"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[46].Description
 msgctxt "86d5dcba-770a-44a5-907b-483aeafb3728"
 msgid "-50 BP"
-msgstr ""
+msgstr "-50 BP"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[47].Description
 msgctxt "f0961b22-e765-449b-93f4-ded39db126d2"
 msgid "Divine +3"
-msgstr ""
+msgstr "신성 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[48].Description
 msgctxt "cce00ff4-17a7-4015-a38e-bf8f76d0f5ce"
 msgid "Community +1, Loyalty +2"
-msgstr ""
+msgstr "주민 +1, 민심 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[49].Description
 msgctxt "dc5e0917-ca26-45bf-875c-08acafc63fb6"
 msgid "Loyalty -1, Divine +3, Stability -1"
-msgstr ""
+msgstr "민심 -1, 신성 +3, 치안 -1"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[4].Description
 msgctxt "92a8d7aa-acde-4ca0-b01f-092de8ce67c3"
 msgid "Arcane +3, -500 gp"
-msgstr ""
+msgstr "비전 +3, -500 gp"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[50].Description
 msgctxt "3eb45340-661d-450e-89f4-6709881017ef"
 msgid "Loyalty +2, Stability +2"
-msgstr ""
+msgstr "민심 +2, 치안 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[51].Description
 msgctxt "b4a2c91e-4bd5-47e1-8663-27157e8ed667"
 msgid "Community +1, Stability +3"
-msgstr ""
+msgstr "주민 +1, 치안 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[52].Description
@@ -10740,90 +10767,92 @@ msgid ""
 "Relations +2, Arcane +2, -100 BP\n"
 "Building: Nethys' Library (free)"
 msgstr ""
+"외교 +2, 비전 +2, -100 BP\n"
+"건물: 네서스 도서관 (무료)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[53].Description
 msgctxt "8b89a03b-5301-4ba5-93b0-802103a6daaa"
 msgid "Community -2, Loyalty +2, Divine -3, Stability +3"
-msgstr ""
+msgstr "주민 -2, 민심 +2, 신성 -3, 치안 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[54].Description
 msgctxt "ca6dd5ab-1e47-4b59-a184-bb5e52222c39"
 msgid "Community +2, Loyalty -5, Divine +3"
-msgstr ""
+msgstr "주민 +2, 민심 -5, 신성 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[55].Description
 msgctxt "76e3a05d-79b7-4cbd-94d9-11c4adcac37e"
 msgid "Loyalty +2, Stability -3, Espionage +1"
-msgstr ""
+msgstr "민심 +2, 치안 -3, 첩보 +1"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[56].Description
 msgctxt "572e6d55-4e30-4d8d-80aa-7acd2b6abce9"
 msgid "Building: Temple of Cayden Cailean"
-msgstr ""
+msgstr "건물: 케이든 케일리엔 신전"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[57].Description
 msgctxt "e920ed48-224c-425a-9656-9eed4ee4caeb"
 msgid "Building: Temple of Gorum"
-msgstr ""
+msgstr "건물: 고룸 신전"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[58].Description
 msgctxt "8207b204-5dc8-4689-a520-010385567aad"
 msgid "Building: Temple of Abadar"
-msgstr ""
+msgstr "건물: 아바다르 신전"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[59].Description
 msgctxt "57b7021c-b841-4490-bc27-42f3295e4cd4"
 msgid "Building: Temple of Asmodeus"
-msgstr ""
+msgstr "건물: 아스모데우스 신전"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[5].Description
 msgctxt "05ad3139-32c5-4c3f-99fe-0759a0eb894c"
 msgid "Loyalty -2, Arcane +3"
-msgstr ""
+msgstr "민심 -2, 비전 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[60].Description
 msgctxt "6489adba-5dfb-424a-b570-ea8c5f2f420d"
 msgid "Loyalty -1, Relations -1, Divine +3, Arcane -1"
-msgstr ""
+msgstr "민심 -1, 외교 -1, 신성 +3, 비전 -1"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[61].Description
 msgctxt "99db22ac-31d8-4d8f-8b46-488c942abba6"
 msgid "Loyalty +2, Relations +2, Divine -6, Arcane +2"
-msgstr ""
+msgstr "민심 +2, 외교 +2, 신성 -6, 비전 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[62].Description
 msgctxt "114e9e26-f786-4529-8fe1-fb1676343f95"
 msgid "Loyalty -3, Relations -2, Divine +4, Arcane -2, Stability +3"
-msgstr ""
+msgstr "민심 -3, 외교 -2, 신성 +4, 비전 -2, 치안 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[63].Description
 msgctxt "10492b00-83c0-4b2c-8629-fb6e0b103de8"
 msgid "Loyalty +3"
-msgstr ""
+msgstr "민심 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[64].Description
 msgctxt "5ef384a9-434c-4b23-a721-c555f1002df8"
 msgid "Community +3"
-msgstr ""
+msgstr "주민 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[65].Description
 msgctxt "0e94bd02-73e5-467d-8b23-80455e7d460b"
 msgid "+60 BP"
-msgstr ""
+msgstr "+60 BP"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[66].Description
@@ -10833,12 +10862,15 @@ msgid ""
 "Unrest state: improves\n"
 "{mf|Barony|Barony|Kingdom|Kingdom} effect: Low Taxes ( Any opportunity resolved by the Treasurer increases Economy by 1.)"
 msgstr ""
+"-2 BP/주\n"
+"안정도: 상승\n"
+"{mf|남작령|남작령|왕국|왕국} 효과: 낮은 세금 (재무관이 해결한 기회는 경제를 1 증가시킵니다.)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[67].Description
 msgctxt "afe3d54e-718b-484f-ad61-0f628aacd2d7"
 msgid "Community -1, Loyalty -2, Economy +3"
-msgstr ""
+msgstr "주민 -1, 민심 -2, 경제 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[68].Description
@@ -10848,6 +10880,9 @@ msgid ""
 "Unrest state: worsens\n"
 "{mf|Barony|Barony|Kingdom|Kingdom} effect: High Taxes (Any problem which the Treasurer fails will reduce Economy by 1.)"
 msgstr ""
+"+2 BP/주\n"
+"안정도: 악화\n"
+"{mf|남작령|남작령|왕국|왕국} 효과: 높은 세금 (재무관이 문제 해결에 실패하는 경우 경제가 1 하락합니다.)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[69].Description
@@ -10857,12 +10892,16 @@ msgid ""
 "Unrest state: improves\n"
 "{mf|Barony|Barony|Kingdom|Kingdom} effect: Public Works ( Increases Community by +1 for each Success of the Treasurer. Increases both Community and Stability by +1 for each of the Treasurer's Triumphs.)"
 msgstr ""
+"-3 BP/주\n"
+"안정도: 상승\n"
+"{mf|남작령|남작령|왕국|왕국} 효과: 공공 사업 (재무관이 매번 성공을 할 때마다 주민에 +1이 증가됩니다. 재무관이 대성공을 할 "
+"때마다 주민과 치안에 모두 +1이 증가합니다.)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[6].Description
 msgctxt "439090c6-3af4-4a94-8134-d6e413ed0253"
 msgid "Community +2, Loyalty +2, Divine +3, Arcane -3"
-msgstr ""
+msgstr "주민 +2, 민심 +2, 신성 +3, 비전 -3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[70].Description
@@ -10871,24 +10910,26 @@ msgid ""
 "Economy +2, Relations +2, -100 BP\n"
 "Building: Halflings Brewery (free)"
 msgstr ""
+"경제 +2, 외교 +2, -100 BP\n"
+"건물: 하플링 양조장 (무료)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[71].Description
 msgctxt "ab4be419-6331-46d1-bdf9-23c39f23c8b5"
 msgid "Loyalty +5, Economy -3, Stability -3"
-msgstr ""
+msgstr "민심 +5, 경제 -3, 치안 -3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[72].Description
 msgctxt "22d0b6e7-a8c6-478d-94ec-181d428450bd"
 msgid "Loyalty -5, Economy +3, Stability +3"
-msgstr ""
+msgstr "민심 -5, 경제 +3, 치안 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[73].Description
 msgctxt "de1e222b-fbae-46d0-a1ac-b9633168822b"
 msgid "Loyalty -1, Economy +2, Stability +2"
-msgstr ""
+msgstr "민심 -1, 경제 +2, 치안 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[74].Description
@@ -10897,6 +10938,8 @@ msgid ""
 "Community +2, Relations +2, Stability +2\n"
 "New project: Customs"
 msgstr ""
+"주민 +2, 외교 +2, 치안 +2\n"
+"새 계획: 세관"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[75].Description
@@ -10905,6 +10948,8 @@ msgid ""
 "Community -2, Economy +4, Stability -2\n"
 "New project: Legal Contraband"
 msgstr ""
+"주민 -2, 경제 +4, 치안 -2\n"
+"새 계획: 합법적 밀수"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[76].Description
@@ -10913,6 +10958,9 @@ msgid ""
 "+1 BP/region, +2 BP/upgraded region\n"
 "{mf|Barony|Barony|Kingdom|Kingdom} effect: Trade Guild (Provides +3 BP each week for every 50 Economy points, up to a maximum of +30 BP per week. In addition, provides +3 BP per week for each upgraded region, and +1 BP per week for each non-upgraded region.)"
 msgstr ""
+"+1 BP/지역, +2 BP/승급된 지역\n"
+"{mf|남작령|남작령|왕국|왕국} 효과: 교역 조합 (경제 50점마다 매주 +3 BP, 최대 +30 BP를 제공합니다. 또한 승급된 "
+"지역마다 매주 +3 BP, 승급이 없는 지역마다 매주 +1 BP를 제공합니다.)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[77].Description
@@ -10922,6 +10970,10 @@ msgid ""
 "Unrest state: improves\n"
 "{mf|Barony|Barony|Kingdom|Kingdom} effect: Wealth Taxes (Each week, a random kingdom stat is increased by 1. Also provides +3 BP per week for each upgraded region in the kingdom, and +1 BP per week for each region without any upgrades.)"
 msgstr ""
+"민심 +5, 경제 +5, +1 BP/지역, +2 BP/승급된 지역\n"
+"안정도: 상승\n"
+"{mf|남작령|남작령|왕국|왕국} 효과: 부유세 (매주 무작위 왕국 지표가 1 오릅니다. 또한 승급된 지역마다 매주 +3 BP, 승급이 "
+"없는 지역마다 매주 +1 BP를 제공합니다.)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[78].Description
@@ -10930,6 +10982,8 @@ msgid ""
 "Community -2, Loyalty -5, +2 BP/region, +4 BP/upgraded region\n"
 "{mf|Barony|Barony|Kingdom|Kingdom} effect: Material Taxes (Provides +5 BP per week for each upgraded region in the kingdom, and +2 BP per week for each region without any upgrade.)"
 msgstr ""
+"주민 -2, 민심 -5, +2 BP/지역, +4 BP/승급된 지역\n"
+"{mf|남작령|남작령|왕국|왕국} 효과: 원료세 (승급된 지역마다 매주 +5 BP, 승급이 없는 지역마다 매주 +2 BP를 제공합니다.)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[79].Description
@@ -10939,6 +10993,10 @@ msgid ""
 "Unrest state: worsens\n"
 "{mf|Barony|Barony|Kingdom|Kingdom} effect: Import Taxes (Provides +7 BP per week for each upgraded region in the kingdom, and +3 BP per week for each region without any upgrades. Each week there is a 7.5% chance of rioting, which worsens the {mf|barony|barony|kingdom|kingdom}'s state of Unrest.)"
 msgstr ""
+"주민 -5, 민심 -10, 치안 -5, +3 BP/지역, +6 BP/승급된 지역\n"
+"안정도: 악화\n"
+"{mf|남작령|남작령|왕국|왕국} 효과: 수입세 (왕국 내 승급된 지역 마다 매주 +7 BP, 승급이 없는 지역마다 매주 +3 BP를 "
+"제공합니다. 매주 7.5% 확률로 폭동이 일어나 {mf|남작령|남작령|왕국|왕국}의 안정도를 악화시킵니다.)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[7].Description
@@ -10947,6 +11005,8 @@ msgid ""
 "Community -3, Divine -3\n"
 "New project: Undead Builders"
 msgstr ""
+"주민 -3, 신성 -3\n"
+"새 계획: 언데드 건설자"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[80].Description
@@ -10956,6 +11016,10 @@ msgid ""
 "Unrest state: improves\n"
 "{mf|Barony|Barony|Kingdom|Kingdom} effect: No Import Taxes (Each month, Unrest improves by one step. Each week, Loyalty increases by 1 and Economy increases by 5. Provides +1 BP per week for every 20 Economy points above 200, up to +10 BP per week.)"
 msgstr ""
+"민심 +5, 경제 +5\n"
+"안정도: 상승\n"
+"{mf|남작령|남작령|왕국|왕국} 효과: 수입세 면제 (매달 안정도가 한 단계 상승합니다. 매주 민심이 1 오르고 경제가 5 오릅니다. "
+"200을 넘는 경제 20점마다 매주 +1 BP, 최대 +10 BP를 제공합니다.)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[81].Description
@@ -10964,12 +11028,14 @@ msgid ""
 "Community -2, Loyalty -5, Stability -3\n"
 "New project: Trade Agreement with Daggermark"
 msgstr ""
+"주민 -2, 민심 -5, 치안 -3\n"
+"새 계획: 대거마크와의 교역 협정"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[82].Description
 msgctxt "923b9a10-a045-4dec-a9db-147d7dd375b9"
 msgid "Community +2, Loyalty +5"
-msgstr ""
+msgstr "주민 +2, 민심 +5"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[83].Description
@@ -10978,12 +11044,16 @@ msgid ""
 "New project: Minting Coin\n"
 "{mf|Barony|Barony|Kingdom|Kingdom} effect: Tax Collection in State Currency (Provides additional BP each week, depending on the taxation level, when any Minting Coin projects are completed and the Mint is built in the capital. Public Works will not bring any additional BP, but low taxes will provide 1 additional BP per week, normal taxes will provide 3 additional BP per week, and heavy taxes will provide 5 additional BP per week.)"
 msgstr ""
+"새 계획: 화폐 주조\n"
+"{mf|남작령|남작령|왕국|왕국} 효과: 국가 통화로 세금 징수 (화폐 주조 계획을 완료하고 수도에 조폐국이 있으면, 과세 수준에 따라 "
+"매주 추가 BP를 제공합니다. 공공사업은 추가 BP를 제공하지 않습니다.  낮은 세금은 주당 1 BP, 적당한 세금은 주당 3 BP, "
+"중과세는 주당 5 BP를 제공합니다.)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[84].Description
 msgctxt "ddd77c82-18a9-4f40-9c1c-44dcbcb33f44"
 msgid "New project: Minting Coin"
-msgstr ""
+msgstr "새 계획: 화폐 주조"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[85].Description
@@ -10992,30 +11062,32 @@ msgid ""
 "Relations +2\n"
 "Building: Tannery (free)"
 msgstr ""
+"외교 +2\n"
+"건물: 제혁소 (무료)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[86].Description
 msgctxt "1b53801d-7fee-4e50-864d-63d51e200cab"
 msgid "New project: Minting Half-Weight Coins"
-msgstr ""
+msgstr "새 계획: 절반 무게 화폐 주조"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[87].Description
 msgctxt "f14ab3f4-41cd-403c-ad91-a2cbb07ea91f"
 msgid "Loyalty +5, Arcane +5"
-msgstr ""
+msgstr "민심 +5, 비전 +5"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[88].Description
 msgctxt "d6bad4c2-dfc1-48cd-a9b3-6e99669a4691"
 msgid "Relations +5, Culture +5"
-msgstr ""
+msgstr "외교 +5, 문화 +5"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[89].Description
 msgctxt "02093ea7-53d3-4e12-9ad6-dd572c967b37"
 msgid "Economy +5, Espionage +5"
-msgstr ""
+msgstr "경제 +5, 첩보 +5"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[8].Description
@@ -11024,66 +11096,69 @@ msgid ""
 "Community +2, Arcane -4, Stability +2\n"
 "{mf|Barony|Barony|Kingdom|Kingdom} effect: Banning Arcane Experiments (For any problems that the Magister attempts to solve in the Shrike region, roll twice for resolution, and pick the better result.)"
 msgstr ""
+"주민 +2, 비전 -4, 치안 +2\n"
+"{mf|남작령|남작령|왕국|왕국} 효과: 비전 실험 금지 (마법대신이 슈라이크 지역에서 문제를 해결할 때 두 번 굴려서 더 나은 결과를 "
+"선택합니다.)"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[90].Description
 msgctxt "0f410369-9dc4-485f-81ef-1fedc83fe40a"
 msgid "Community -1, Stability -1"
-msgstr ""
+msgstr "주민 -1, 치안 -1"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[91].Description
 msgctxt "2724a6d9-238f-45de-8e81-9bf4e5662c0a"
 msgid "Economy -2"
-msgstr ""
+msgstr "경제 -2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[92].Description
 msgctxt "3b4a27e5-25ab-44ff-9d8c-e8bd35f2b74e"
 msgid "Loyalty -1, Economy -1"
-msgstr ""
+msgstr "민심 -1, 경제 -1"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[93].Description
 msgctxt "81416374-6ee9-4052-aec3-c54e3e216008"
 msgid "Military +2, Espionage +1"
-msgstr ""
+msgstr "군사 +2, 첩보 +1"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[94].Description
 msgctxt "5be02ce8-b5ce-4cd4-816f-66a042080be4"
 msgid "Arcane +2, Espionage +1"
-msgstr ""
+msgstr "비전 +2, 첩보 +1"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[95].Description
 msgctxt "44f25140-5e6d-41f9-9837-c9e58afaded2"
 msgid "Espionage +3"
-msgstr ""
+msgstr "첩보 +3"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[96].Description
 msgctxt "f4c10d61-1dc7-4bed-bca9-a1139c9dada7"
 msgid "Relations +2, Espionage +2"
-msgstr ""
+msgstr "외교 +2, 첩보 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[97].Description
 msgctxt "5bcf6c6f-ad41-409d-92d4-2b74818241db"
 msgid "Relations +2, Espionage +2"
-msgstr ""
+msgstr "외교 +2, 첩보 +2"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[98].Description
 msgctxt "c7bc81b3-61a0-44f9-b642-84bd7cc96aac"
 msgid "+2000 gp"
-msgstr ""
+msgstr "+2000 gp"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[99].Description
 msgctxt "23debb4b-ba01-4569-8b21-f617058916c8"
 msgid "Relations -2, Espionage +4"
-msgstr ""
+msgstr "외교 -2, 첩보 +4"
 
 #. Mechanics/Blueprints/Root/Glossary
 #. RankUps_Entries.Array.data[9].Description
@@ -11092,6 +11167,9 @@ msgid ""
 "Community -2, Arcane +4, Stability -2\n"
 "{mf|Barony|Barony|Kingdom|Kingdom} effect: Arcane Experiments in the Capital (+1 bonus for solving events by Magister in the claimed regions. In the Shrike region this bonus is raised to +3.)"
 msgstr ""
+"주민 -2, 비전 +4, 치안 -2\n"
+"{mf|남작령|남작령|왕국|왕국} 효과: 수도 내 비전 실험 (마법대신이 점령지의 사건을 해결할 때 +1 보너스를 받고, 슈라이크 "
+"지역에서는 +3 보너스를 받습니다.)"
 
 #. Mechanics/Blueprints/Root/Glossary_Entries.Array.data[0].Description
 msgctxt "d8a0ffe1-c1e7-47c2-95c6-2dd3318f6c44"
@@ -11150,12 +11228,6 @@ msgid "Valley of the Dead"
 msgstr "죽은 자의 계곡"
 
 #. Mechanics/Blueprints/Root/Glossary_Entries.Array.data[102].Description
-#, fuzzy
-#| msgid ""
-#| "Only recently settled by colonists from Chelaiax, the wild frontier of "
-#| "Varisia is composed of rural communities, independent city-states, cyclopean"
-#| " ruins, and uncharted wilderness. Prior to Earthfall, Varisia comprised much"
-#| " of the ancient empire of Thassilon."
 msgctxt "65e15f2c-2f28-4aa2-8f7c-04d77173020b"
 msgid ""
 "Only recently settled by colonists from Cheliax, the wild frontier of "
@@ -11236,7 +11308,7 @@ msgstr "잘메레이"
 #. Mechanics/Blueprints/Root/Glossary_Entries.Array.data[107].Description
 msgctxt "b8490599-c856-499b-8443-a38c55374b5b"
 msgid "A mercenary group, created and led by Maegar Varn."
-msgstr "메이가르 반이 만들고 이끌었던 용병단"
+msgstr "메이가르 반이 만들고 이끌었던 용병단."
 
 #. Mechanics/Blueprints/Root/Glossary_Entries.Array.data[107].Name
 msgctxt "9b05912b-23f2-46c9-a8ba-a1eb4a6826df"
@@ -11337,17 +11409,6 @@ msgid "Restov"
 msgstr "레스토프"
 
 #. Mechanics/Blueprints/Root/Glossary_Entries.Array.data[20].Description
-#, fuzzy
-#| msgid ""
-#| "Azlant is a lost continent in the Arcadian Ocean that was the first center "
-#| "of human culture on Golarion. Brought together by the intelligence of the "
-#| "ancient aquatic race of aboleths, Azlanti society and culture grew by leaps "
-#| "and bounds until their arrogant leaders began to think of themselves as "
-#| "superior to their inhuman masters. In retribution, the aboleth called down "
-#| "the meter shower known as Earthfall in -5293 AR, sinking the entire "
-#| "continent and condemning Golarion to the Age of Darkness. Now all that "
-#| "remains of the once-mighty continent are a string of islands and atolls "
-#| "spread across a large swath of the mid-Arcadian Ocean."
 msgctxt "4fd09ea0-1066-4f85-9c8d-05bbc21676e9"
 msgid ""
 "Azlant is a lost continent in the Arcadian Ocean that was the first center "
@@ -11362,8 +11423,8 @@ msgid ""
 msgstr ""
 "아즐란트는 아르카디아 해의 잃어버린 대륙으로 골라리온 최초 인류 문화의 중심지였습니다. 아볼레스라는 고대 수생 종족의 지성으로 성립된 "
 "아즐란트 사회와 문화는 비약적으로 성장을 거듭하다가, 지도자들이 인간이 아닌 그들의 주인을 괄시하는 오만을 범하면서 종말을 맞았습니다. "
-"아볼레스는 AR -5293년, 어스폴로 불리는 유성의 소나기를 불러내 대륙 전체를 침몰시키고 골라리온을 어둠의 시대로 이끌었습니다. 한때"
-" 강대했던 대륙의 잔해는 아르카디아 중부 유역에 넓게 걸쳐 있는 섬들과 환초들 뿐입니다."
+"아볼레스는 AR -5293년, 어스폴로 불리는 유성의 소나기를 불러내 대륙 전체를 침몰시키고 골라리온을 어둠의 시대로 이끌었습니다. 한때 "
+"강대했던 대륙의 잔해는 아르카디아 중부 유역에 넓게 걸쳐 있는 섬들과 환초들 뿐입니다."
 
 #. Mechanics/Blueprints/Root/Glossary_Entries.Array.data[20].Name
 msgctxt "e57bd72b-b484-43e1-82e7-4ed0e4085167"
@@ -11617,17 +11678,6 @@ msgid "Garund"
 msgstr "가룬드"
 
 #. Mechanics/Blueprints/Root/Glossary_Entries.Array.data[37].Description
-#, fuzzy
-#| msgid ""
-#| "The land of Iobaria is located east of the nation of Brevoy, and is "
-#| "considered part of the continent of Casmaron. The first recorded inhabitants"
-#| " of the area where the cyclopes of the Kingdom of Koloran who left giant "
-#| "ruins in Iobaria. The Koloran cyclopes were refugees from the even older "
-#| "realm of Ghol-Gan in Garund, and left that kingdom looking for a new life "
-#| "free of the brutality and bloodlust that would soon cause its demise. Human "
-#| "settlers have united the land into an empire in the past, but currently the "
-#| "land is largely wilderness thanks to a series of plagues that have severely "
-#| "depopulated the region."
 msgctxt "981c4f48-d93f-46bc-8224-e4363ba5a23c"
 msgid ""
 "The land of Iobaria is located east of the nation of Brevoy, and is "
@@ -11643,8 +11693,8 @@ msgstr ""
 "이오바리아는 브레보이 국의 동쪽에 위치하고 있으며, 카스마론 대륙의 일부로 여겨지고 있습니다. 이 지역에 기록된 최초의 거주자는 콜로란 "
 "왕국의 사이클롭스로, 이오바리아에 거대한 유적을 남겼습니다. 콜로란 사이클롭스는 아주 오래 전 가룬드의 골간 지역에서 온 "
 "난민들이었습니다. 그들은 골간 왕국의 폭력과 잔인성에서 벗어나 새로운 삶을 찾아 떠났고, 머지 않아 골간 왕국은 그 폭력과 잔인성으로 "
-"인해 멸망했습니다. 과거 인간 정착민들은 이 땅을 제국으로 통합했지만, 현재 이 땅은 이 지역을 심각하게 황폐화시킨 일련의 재앙들 때문에"
-" 대부분 황무지입니다."
+"인해 멸망했습니다. 과거 인간 정착민들은 이 땅을 제국으로 통합했지만, 현재 이 땅은 이 지역을 심각하게 황폐화시킨 일련의 재앙들 때문에 "
+"대부분 황무지입니다."
 
 #. Mechanics/Blueprints/Root/Glossary_Entries.Array.data[37].Name
 msgctxt "1a23de42-b752-4fed-aae7-6b7278d2450e"
@@ -11990,10 +12040,10 @@ msgid ""
 "Pitax's origins lie with brigands from their neighbor to the north, Brevoy, who sought sanctuary amid the forests of the River Kingdoms. A band of vicious thieves made a hideout in a riverside hamlet known as Pitax. As they visited there year after year, their ill-gotten gold slowly transformed Pitax into something considerably larger than a simple, sleepy fishing village. Eventually, the bandits settled in Pitax permanently, building walls\n"
 "around the village, hiring sellswords to help defend against their enemies, and crowning themselves kings of a newfound realm. With this, Pitax became a permanent fixture of the River Kingdoms, able to survive and thrive for nearly four centuries while others around it withered and decayed."
 msgstr ""
-"피탁스의 기원은 강 왕국들의 숲 속에서 피난처를 찾은 their neighbor to the north 브레보이의 산적에 있습니다. "
+"피탁스의 기원은 강의 왕국들의 숲 속에서 피난처를 찾은 their neighbor to the north 브레보이의 산적에 있습니다. "
 "악랄한 도적의 무리가 피탁스라는 강가의 작은 마을에 은신처를 만들었습니다. 산적들이 해마다 약탈한 재화를 갖고 피탁스로 돌아올 때마다, "
-"피탁스는 점점 단순하고 따분한 어촌 이상의 것으로 변해갔습니다. 결국, 도적들은 피탁스에 완전히 정착했습니다. 마을 주변에 성벽을 쌓고,"
-" 외적으로부터 마을을 지키기 위해 용병을 고용했고, 새롭게 왕국을 세워 왕을 옹립했습니다. 이것으로, 피탁스는 강의 왕국들의 항구적인 "
+"피탁스는 점점 단순하고 따분한 어촌 이상의 것으로 변해갔습니다. 결국, 도적들은 피탁스에 완전히 정착했습니다. 마을 주변에 성벽을 쌓고, "
+"외적으로부터 마을을 지키기 위해 용병을 고용했고, 새롭게 왕국을 세워 왕을 옹립했습니다. 이것으로, 피탁스는 강의 왕국들의 항구적인 "
 "구성원이 됐고, 주변국이 쇠퇴하고 스러져간 4세기 동안 생존하고 번성할 수 있었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary_Entries.Array.data[5].Name
@@ -12685,12 +12735,12 @@ msgid ""
 "An ability to intimidate others during the negotiations. Depends on "
 "character's Persuasion skill as well as special effects or abilities "
 "affecting Intimidate."
-msgstr ""
+msgstr "협상 중에 다른 사람을 협박하는 능력. 캐릭터의 설득 기술과 협박에 영향을 주는 특수 효과 및 능력에 달려 있습니다."
 
 #. Mechanics/Blueprints/Root/IntimidateTitle_String
 msgctxt "f8404ce9-9fb7-436f-a08f-92c897ff1c6f"
 msgid "Intimidate"
-msgstr ""
+msgstr "협박"
 
 #. Mechanics/Blueprints/Root/ItemsFilterStrings_SorterTypeEntries.Array.data[0].Text
 msgctxt "39611291-1036-4c22-b204-3b03ba04afd8"
@@ -13074,7 +13124,7 @@ msgid ""
 "source of most of their abilities, which determine the character's role in "
 "any adventuring party."
 msgstr ""
-"클래스는 캐릭터의 대부분을 정의하는 특징입니다. 대부분의 능력은 클래스에서 비롯되고, 이는 모험 일행에서 캐릭터의 역할을 결정합니다. "
+"클래스는 캐릭터의 대부분을 정의하는 특징입니다. 대부분의 능력은 클래스에서 비롯되고, 이는 모험 일행에서 캐릭터의 역할을 결정합니다."
 
 #. Mechanics/Blueprints/Root/MechanicTerms_Entries.Array.data[12].Name_1
 msgctxt "8e4f5fd5-6c91-42a0-98c7-88ef9d1056b8"
@@ -13200,11 +13250,19 @@ msgid ""
 "Spells, spell-like abilities, and energy attacks (including non-magical fire) ignore damage reduction.\n"
 "If a creature enjoys damage reduction from more than one source, the two forms of damage reduction do not stack. Instead, the creature receives the benefit of the better damage reduction given the situation."
 msgstr ""
-"일부 마법적 크리처는 무기로 인한 피해를 즉시 치료할 수 있는 초자연적인 능력을 지니고 있거나, 공격을 무시하고 상처를 입지 않습니다. 피해 감소 (DR)는 즉시 치유를 나타내기도 하고, 질긴 가죽을 나타내기도 합니다. 어쨌든 캐릭터가 공격에 실패하면 다른 유형의 공격으로 전환해야 합니다.\n"
-"크리처의 DR은 일반 공격으로 인해 크리처가 무시하는 피해의 양입니다. 대개 특정 유형의 공격이 이러한 감소를 극복할 수 있습니다. 이 약점은 피해 감소량과 '/ '로 구분됩니다. 예를 들어, DR5 / 마법은 크리처가 마법 이외의 모든 무기로부터 5 점의 피해를 덜 받는다는 것을 의미합니다. —가 / 다음에 오는 경우 DR을 무시하는 공격을 제외한 모든 공격에 대해 피해를 줄입니다.\n"
-"피해 감소가 공격에 의한 피해를 완전히 무효화 할 때마다 부상, 독, 몽크의 경직권 및 상해 기반 질병과 같은 공격에 수반되는 대부분의 특수 효과도 무효화됩니다. 피해 감소는 접촉 공격, 공격과 관련된 에너지 피해 또는 에너지 고갈을 무효화하지 않습니다. 또한 흡입, 섭취 또는 접촉에 의해 전달되는 독이나 질병에 영향을 미치지 않습니다. 피해가 대상의 DR에 의해 무효화 공격은 주문을 방해하지 않습니다. \n"
+"일부 마법적 크리처는 무기로 인한 피해를 즉시 치료할 수 있는 초자연적인 능력을 지니고 있거나, 공격을 무시하고 상처를 입지 않습니다. "
+"피해 감소 (DR)는 즉시 치유를 나타내기도 하고, 질긴 가죽을 나타내기도 합니다. 어쨌든 캐릭터가 공격에 실패하면 다른 유형의 공격으로 "
+"전환해야 합니다.\n"
+"크리처의 DR은 일반 공격으로 인해 크리처가 무시하는 피해의 양입니다. 대개 특정 유형의 공격이 이러한 감소를 극복할 수 있습니다. 이 "
+"약점은 피해 감소량과 '/ '로 구분됩니다. 예를 들어, DR5 / 마법은 크리처가 마법 이외의 모든 무기로부터 5 점의 피해를 덜 "
+"받는다는 것을 의미합니다. —가 / 다음에 오는 경우 DR을 무시하는 공격을 제외한 모든 공격에 대해 피해를 줄입니다.\n"
+"피해 감소가 공격에 의한 피해를 완전히 무효화 할 때마다 부상, 독, 몽크의 경직권 및 상해 기반 질병과 같은 공격에 수반되는 대부분의 "
+"특수 효과도 무효화됩니다. 피해 감소는 접촉 공격, 공격과 관련된 에너지 피해 또는 에너지 고갈을 무효화하지 않습니다. 또한 흡입, 섭취 "
+"또는 접촉에 의해 전달되는 독이나 질병에 영향을 미치지 않습니다. 피해가 대상의 DR에 의해 무효화 공격은 주문을 방해하지 않습니다. \n"
 "주문, 주문 유사 능력 및 에너지 공격은 (비마법적 화염 포함) 피해 감소를 무시합니다.\n"
-"한 크리처가 둘 이상의 경로로 피해 감소를 얻으면 두 가지 형태의 피해 감소는 중첩되지 않습니다. 대신, 크리처는 상황에 따라 더 나은 피해 감소의 혜택을 받습니다. (역자 주: /의 뒷부분이 같은 피해 감소는 중첩됩니다.)"
+"한 크리처가 둘 이상의 경로로 피해 감소를 얻으면 두 가지 형태의 피해 감소는 중첩되지 않습니다. 대신, 크리처는 상황에 따라 더 나은 "
+"피해 감소의 혜택을 받습니다.\n"
+"*역자 주: DR/—는 중첩됩니다."
 
 #. Mechanics/Blueprints/Root/MechanicTerms_Entries.Array.data[16].Name_1
 msgctxt "4a463aaa-fb2f-4d3d-a260-02840382caaf"
@@ -13272,13 +13330,14 @@ msgid ""
 "Reflex saving throws, for avoiding fireballs and other attacks that you can escape by moving quickly.\n"
 "Mobility, Trickery, and Stealth checks."
 msgstr ""
-"민첩은 날렵함, 반사 및 균형을 말합니다. 로그에게 가장 중요한 능력이며, 활이나 슬링과 같은 원거리 무기에 뛰어나고자 하는 캐릭터에게 중요합니다. 경장이나 평장 갑옷을 입은 캐릭터나 갑옷을 입지 않는 캐릭터에게도 유용합니다.\n"
+"민첩은 날렵함, 반사 및 균형을 말합니다. 로그에게 가장 중요한 능력이며, 활이나 슬링과 같은 원거리 무기에 뛰어나고자 하는 캐릭터에게 "
+"중요합니다. 경장이나 평장 갑옷을 입은 캐릭터나 갑옷을 입지 않는 캐릭터에게도 유용합니다.\n"
 "캐릭터의 민첩성이 0으로 떨어지면 이동 불가 상태가 됩니다.\n"
 "캐릭터의 민첩 수정치는 다음에 적용됩니다.\n"
 "활, 석궁, 도투척 도끼, 이글거리는 광선이나 타오르는 빛 같은 주문 등의 원거리 공격.\n"
 "캐릭터가 공격에 반응 할 수 있는 경우 방어도 (AC).\n"
 "반사 내성 굴림으로 화염구 및 다른 공격을 재빠르게 피할 수 있습니다.\n"
-"이동성, 손재주 및 은신 판정"
+"이동성, 손재주 및 은신 판정."
 
 #. Mechanics/Blueprints/Root/MechanicTerms_Entries.Array.data[1].Name
 msgctxt "4236efd1-0f9d-48ed-b7e2-de171da9f078"
@@ -13379,11 +13438,9 @@ msgstr ""
 "캐릭터의 손재주 기술을 사용하면 함정이나 장치를 해제하거나, 자물쇠를 열거나, 소매치기 등의 작업을 할 수 있습니다."
 
 #. Mechanics/Blueprints/Root/MechanicTerms_Entries.Array.data[26].Name_1
-#, fuzzy
-#| msgid "Trickery (DEX; Armor Check Penalty; Trained Only)"
 msgctxt "387adb06-6d2b-4e97-97d7-e05411c53683"
 msgid "Trickery (DEX; Trained Only)"
-msgstr "손재주 (DEX, 방어구 판정 페널티, 훈련 필요)"
+msgstr "손재주 (DEX, 훈련 필요)"
 
 #. Mechanics/Blueprints/Root/MechanicTerms_Entries.Array.data[27].Description_1
 msgctxt "c9244d9f-2eff-47ea-b1c2-3664af7f4212"
@@ -13759,7 +13816,7 @@ msgid ""
 " most of their abilities, and gives them a specific role in any adventuring "
 "party."
 msgstr ""
-"클래스는 캐릭터의 대부분을 정의하는 특성입니다. 대부분의 능력은 클래스에서 비롯되고, 이는 모험 일행에서 캐릭터의 역할을 결정합니다. "
+"클래스는 캐릭터의 대부분을 정의하는 특성입니다. 대부분의 능력은 클래스에서 비롯되고, 이는 모험 일행에서 캐릭터의 역할을 결정합니다."
 
 #. Mechanics/Blueprints/Root/MechanicTerms_Entries.Array.data[47].Name_2
 msgctxt "18ae657e-073d-4e7b-93e5-deff6e661af0"
@@ -13957,11 +14014,9 @@ msgid "Defense"
 msgstr "방어"
 
 #. Mechanics/Blueprints/Root/MechanicTerms_Entries.Array.data[69].Name_4
-#, fuzzy
-#| msgid "Damage provided by equipment"
 msgctxt "46539d6d-4944-4aee-8503-21bc8fbdf90d"
 msgid "Damage when equipped"
-msgstr "장비에 의한 피해"
+msgstr "착용 시 피해량"
 
 #. Mechanics/Blueprints/Root/MechanicTerms_Entries.Array.data[6].Name_1
 msgctxt "2768abf6-ba1f-4983-a3be-d6f7007c742a"
@@ -14268,7 +14323,7 @@ msgstr "강화"
 #. Mechanics/Blueprints/Root/MetamagicNames_Entries.Array.data[1].Text
 msgctxt "db56b391-3f5c-4fda-823d-b965331859b5"
 msgid "Maximized"
-msgstr ""
+msgstr "극대화"
 
 #. Mechanics/Blueprints/Root/MetamagicNames_Entries.Array.data[2].Text
 msgctxt "564b5264-9ff3-4389-9eaf-195f1913fc01"
@@ -14298,7 +14353,7 @@ msgstr "한손 무기"
 #. Mechanics/Blueprints/Root/Reasons_AbilitiesForbidden
 msgctxt "0856ea0e-fa86-4130-afd0-6d0f75ee538e"
 msgid "Ability usage is forbidden"
-msgstr "능력 사용이 금지되었습니다."
+msgstr "능력 사용 금지됨"
 
 #. Mechanics/Blueprints/Root/Reasons_AbilityDisabled
 msgctxt "81d38d5a-125f-4a62-b358-bc55f5c67b87"
@@ -14308,12 +14363,12 @@ msgstr "능력 비활성화"
 #. Mechanics/Blueprints/Root/Reasons_CasterPolymorphed
 msgctxt "33139f7b-b005-4583-9bab-472e00c99418"
 msgid "Caster is polymorphed"
-msgstr "시전자는 변이되었습니다."
+msgstr "시전자가 변이됨"
 
 #. Mechanics/Blueprints/Root/Reasons_CasterStaggered
 msgctxt "2f875f9c-0f64-40de-9d86-e7f39fea75e5"
 msgid "Caster is staggered"
-msgstr "시전자는 비틀거립니다."
+msgstr "시전자가 비틀거림"
 
 #. Mechanics/Blueprints/Root/Reasons_CastingForbidden
 msgctxt "6dc52fb7-2f1e-469a-a285-c6687ff811f8"
@@ -14328,7 +14383,7 @@ msgstr "선택 무기 필요"
 #. Mechanics/Blueprints/Root/Reasons_CombatRequired
 msgctxt "d5d390e6-a161-4a25-a97d-149e5dbe81d3"
 msgid "Can only be used in combat"
-msgstr ""
+msgstr "전투 중에만 사용 가능"
 
 #. Mechanics/Blueprints/Root/Reasons_DualCompanionIsDead
 msgctxt "0cb0db69-13c5-47ef-bc40-b57d3cb730eb"
@@ -14350,7 +14405,7 @@ msgstr "근접 무기 필요"
 #. Mechanics/Blueprints/Root/Reasons_NoRequiredCondition
 msgctxt "d4e419d9-68b4-428d-9dfa-95f654dbf120"
 msgid "A condition hasn't been met"
-msgstr "조건이 충족되지 않았습니다."
+msgstr "조건이 충족되지 않음"
 
 #. Mechanics/Blueprints/Root/Reasons_NoResources
 msgctxt "4535d1bd-a134-4643-a6d5-ba08322d3273"
@@ -14365,7 +14420,7 @@ msgstr "주문 목록에 없음"
 #. Mechanics/Blueprints/Root/Reasons_OutOfSpellsPerDay
 msgctxt "ce754b3d-14bf-4eec-bb73-04f82f96c449"
 msgid "No suitable spell slots"
-msgstr "적합한 주문 칸이 없습니다."
+msgstr "적합한 주문 칸이 없음"
 
 #. Mechanics/Blueprints/Root/Reasons_SpecificAlignmentRequired
 msgctxt "ec2af672-c30f-40eb-89b1-8d7d39251416"
@@ -15782,7 +15837,7 @@ msgstr "사거리"
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.Ref
 msgctxt "aeb8c425-14d4-44ad-8214-3f2076924f7d"
 msgid "Ref"
-msgstr "Ref"
+msgstr "반사"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.REFLEX
 msgctxt "049f514c-62b4-42f1-970d-3a6beeaf4905"
@@ -16171,7 +16226,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.ComingSoon
 msgctxt "cea92159-109d-41d4-bd40-69f35d127ed3"
 msgid "Coming soon..."
-msgstr ""
+msgstr "이제 곧…"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.Complete
 msgctxt "fc8e4c16-a39e-4822-86c1-480cd6fb6815"
@@ -16181,7 +16236,7 @@ msgstr "완료"
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.ConpanionsWithKnownSpell
 msgctxt "97d65813-26eb-4408-b79c-15f84a83b284"
 msgid "The spell is available to:"
-msgstr ""
+msgstr "이 주문 사용 가능함:"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.Cost
 msgctxt "f23bd729-e18e-40cc-b566-aebd59307008"
@@ -16214,18 +16269,14 @@ msgid "New mercenary"
 msgstr "새로운 용병"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.EnableAutoLevelupDialog
-#, fuzzy
-#| msgid ""
-#| "Enabling the premade build will activate the auto level-up for the "
-#| "character. This will change the game's difficulty setting to Custom mode. Do"
-#| " you wish to proceed?"
 msgctxt "5df9a9aa-47e6-4dd4-b295-295c8fe12e41"
 msgid ""
 "Enabling the premade build will activate the auto level-up for all your "
 "characters. This will change the game's difficulty setting to Custom mode. "
 "Do you wish to proceed?"
 msgstr ""
-"사전 생성된 빌드를 선택하면 캐릭터의 자동 레벨 업이 활성화됩니다. 이로 인해 난이도 설정이 영향을 받을 수 있습니다. 계속하시겠습니까?"
+"사전 생성된 빌드를 선택하면 모든 캐릭터의 자동 레벨 업이 활성화됩니다. 이로 인해 난이도 설정이 영향을 받을 수 있습니다. "
+"계속하시겠습니까?"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.Face
 msgctxt "23bb11ed-764d-462c-9829-a667976d2773"
@@ -16345,12 +16396,12 @@ msgstr "다음"
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.NoSpells
 msgctxt "457d7333-1f5c-4dcc-be04-d09795cd68c4"
 msgid "Character doesn't use spells"
-msgstr "캐릭터가 주문을 사용하지 않습니다."
+msgstr "캐릭터가 주문을 사용하지 않음"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.NothingToChoose
 msgctxt "5d30df66-aa32-41f7-8442-752ced424c3e"
 msgid "Nothing to choose"
-msgstr "선택할 것이 없습니다."
+msgstr "선택할 사항이 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.Points
 msgctxt "4decf49d-4de4-4472-a628-c6f98ee7ccf0"
@@ -16453,17 +16504,17 @@ msgctxt "9d1b3d20-1fe2-4f62-9fee-7c62df762b6f"
 msgid ""
 "Closing the interface will reset the choices you've made during the "
 "character creation. Close the interface?"
-msgstr ""
+msgstr "이 창을 닫으면 캐릭터 생성 중 했던 선택들이 모두 초기화 됩니다. 창을 닫으시겠습니까?"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.TeamworkFeat
 msgctxt "af8e2bad-4741-4634-acd3-a37df67abc82"
 msgid "Teamwork Feat"
-msgstr ""
+msgstr "협동 특기"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.TeamworkFeatNoCompanions
 msgctxt "2e7750b6-7bc8-4dca-8a02-31e6ba94bb3a"
 msgid "None of the companions have this Feat"
-msgstr ""
+msgstr "이 특기를 가진 동료 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.Total
 msgctxt "56b4c9af-287c-42c2-b524-2b00f9a1b652"
@@ -16617,7 +16668,7 @@ msgstr "저장하지 않은 모든 진행 상태가 사라집니다."
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.ProgressWillBeLost_1
 msgctxt "b5434f8b-559a-43e1-9836-528f74e47714"
 msgid " All unsaved progress will be lost."
-msgstr "저장하지 않은 모든 진행 상태가 사라집니다."
+msgstr " 저장하지 않은 모든 진행 상태가 사라집니다."
 
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.QuitToDesctopLabel
 msgctxt "ad565782-c657-4281-a885-c00a272f3761"
@@ -16641,7 +16692,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.WarningBugReportWasSend
 msgctxt "1ab9fbb5-3146-4998-a097-7769363c7775"
 msgid "Thank you for reporting a bug!"
-msgstr "버그를 신고해 주셔서 감사합니다."
+msgstr "버그를 신고해 주셔서 감사합니다!"
 
 #. Mechanics/Blueprints/Root/UIStrings_ContextMenu.GrabItem
 msgctxt "d2d10cfd-d72f-41a0-848f-052b7e633864"
@@ -16664,25 +16715,19 @@ msgid "{0}. {1}"
 msgstr "{0}. {1}"
 
 #. Mechanics/Blueprints/Root/UIStrings_Dialog.AnswerShowCheckFormat
-#, fuzzy
-#| msgid "<color=#A9FF80>[{0} check passed]</color> {1}"
 msgctxt "ab1cbca0-703d-48cd-9c2b-adaaf8f846b8"
 msgid "<color=#0A400D>[{0} check passed]</color> {1}"
-msgstr "<color=#A9FF80>[{0} 판정 성공]</color> {1}"
+msgstr "<color=#0A400D>[{0} 판정 성공]</color> {1}"
 
 #. Mechanics/Blueprints/Root/UIStrings_Dialog.AnswerStringWithCheckBeFormat
-#, fuzzy
-#| msgid "<color=#694c13><link=\"{0}\">[{1} {2}]</link> </color>"
 msgctxt "13762cef-4d3b-4305-8963-dd92beaae0ec"
 msgid "<color=#2D3406><link=\"{0}\"><b>[{1} {2}]</b></link> </color>"
-msgstr "<color=#694c13><link=\"{0}\">[{1} {2}]</link> </color>"
+msgstr "<color=#2D3406><link=\"{0}\"><b>[{1} {2}]</b></link> </color>"
 
 #. Mechanics/Blueprints/Root/UIStrings_Dialog.AnswerStringWithCheckFormat
-#, fuzzy
-#| msgid "<color=#063411><link=\"{0}\">[{1} {2}]</link> </color>"
 msgctxt "2edf0693-7be7-46bb-9c88-48e4bf2da016"
 msgid "<color=#2D3406><link=\"{0}\"><b>[{1} {2}]</b></link> </color>"
-msgstr "<color=#063411><link=\"{0}\">[{1} {2}]</link> </color>"
+msgstr "<color=#2D3406><link=\"{0}\"><b>[{1} {2}]</b></link> </color>"
 
 #. Mechanics/Blueprints/Root/UIStrings_Dialog.CannotSelectLabel
 msgctxt "cdd66104-f6c7-4093-bdba-1ccf3dc88ab1"
@@ -16714,28 +16759,28 @@ msgctxt "e5367e2e-0f30-4b7b-a4b1-93d19d3b6ccb"
 msgid ""
 "Wonderful! Your new dice have been installed, your old ones are gone to the "
 "Abyss. No refunds available. Good luck to you!"
-msgstr ""
+msgstr "멋지군요! 새 주사위가 적용되었습니다. 예전 주사위는 심연 속으로 사라졌습니다. 환불은 안됩니다. 행운을 빕니다!"
 
 #. Mechanics/Blueprints/Root/UIStrings_FirstAprilJokeTexts.DeclineDescription
 msgctxt "61ab5690-02d7-46eb-a0e7-01ad219f9d2b"
 msgid ""
 "Fighting against fate is the way to self-perfection. Or something like that."
 " Anyway, suit yourself, and good luck to you!"
-msgstr ""
+msgstr "운명에 맞서는 것은 자기 완성의 길입니다. 아니면 그 비슷한 무언가는 됩니다. 어쨌든 마음대로 하시고, 행운을 빕니다!"
 
 #. Mechanics/Blueprints/Root/UIStrings_FirstAprilJokeTexts.StartDescription
 msgctxt "44ba0e95-c5a3-4df0-9f1b-0aa91622fbe4"
 msgid ""
 "Are you in trouble? Did the gods of luck turn their backs on you today? "
 "Throw your old dice into the Abyss and get new ones right now!"
-msgstr ""
+msgstr "문제가 있으십니까? 오늘 행운의 신이 당신께 등을 돌렸나요? 옛 주사위를 심연에 버리고 새 것으로 바꿔 보십시오!"
 
 #. Mechanics/Blueprints/Root/UIStrings_GameOverScreen.EndlessHeaderFormat
 msgctxt "eb5ea8e7-8f5c-4d1c-b291-5d8f7fe3a413"
 msgid ""
 "The story of {0} may have ended, but the struggle against evil should "
 "continue!"
-msgstr ""
+msgstr "{0}의 이야기는 끝났지만, 악에 대한 투쟁은 계속될 것입니다!"
 
 #. Mechanics/Blueprints/Root/UIStrings_GameOverScreen.FemaleDeadLabel
 msgctxt "d5afcdd1-3722-440c-80a3-2851c990d472"
@@ -16837,7 +16882,7 @@ msgstr "언젠가"
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.JounayDialogAccept
 msgctxt "1b1f2982-cfbd-47c5-80ab-a25ab8dadbed"
 msgid "Travel"
-msgstr "Travel"
+msgstr "여행"
 
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.JounayDialogDesc_1
 msgctxt "6c13fd6f-3063-4482-be3d-b363dcdf6503"
@@ -16878,12 +16923,12 @@ msgstr "이 장소로 가는 길을 모릅니다."
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.LocationRestrictedCompanionDesc
 msgctxt "a3169328-b4fb-479a-9ec5-3047e0ec504e"
 msgid "You need the following companion to enter this location: {text}."
-msgstr "이 장소에 입장하려면 다음 동료가 필요합니다: {text}"
+msgstr "이 장소에 입장하려면 다음 동료가 필요합니다: {text}."
 
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.LocationRestrictedCompanionsDesc
 msgctxt "e57ba58d-6a5f-46d8-b76b-994e90ad1499"
 msgid "You need the following companions to enter this location: {text}."
-msgstr "이 장소에 입장하려면 다음 동료가 필요합니다: {text}"
+msgstr "이 장소에 입장하려면 다음 동료가 필요합니다: {text}."
 
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.LocationRestrictedDefaultDesc
 msgctxt "bc7a9e1a-d2ad-4b22-aa26-3de7abe30947"
@@ -16893,7 +16938,7 @@ msgstr "이 장소는 지금 방문 할 수 없습니다."
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.PartyInTravel
 msgctxt "8c0f8990-b759-477d-8d50-e971729d2223"
 msgid "Party is traveling"
-msgstr "일행이 여정 중에 있습니다."
+msgstr "일행이 여행중"
 
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.PartyInWorld
 msgctxt "b68a686b-38c4-4066-8eaf-73385000d48e"
@@ -16952,12 +16997,12 @@ msgctxt "d9d26bf1-c9c6-4ea9-bc56-07841d814bb1"
 msgid ""
 "Managing the {mf|barony|barony|kingdom|kingdom} is only available from "
 "within the {mf|barony|barony|kingdom|kingdom}'s borders."
-msgstr ""
+msgstr "{mf|남작령|남작령|왕국|왕국} 운영은 {mf|남작령|남작령|왕국|왕국} 내에서만 할 수 있습니다."
 
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.UnderKingdomTooltipTitle
 msgctxt "b4cd8cf8-bc88-4953-8c39-35c04eac0a95"
 msgid "The {mf|barony|barony|kingdom|kingdom} is out of reach"
-msgstr ""
+msgstr "{mf|남작령|남작령|왕국|왕국}에서 벗어남"
 
 #. Mechanics/Blueprints/Root/UIStrings_KeyboardTexts.LocalizedKeyCodes.Array.data[0].CodeString
 msgctxt "a3b6b6eb-dec8-4741-981d-2504c1e89af2"
@@ -17080,6 +17125,8 @@ msgid ""
 "Best regards,\n"
 "Owlcats"
 msgstr ""
+"존경을 담아\n"
+"Owlcats"
 
 #. Mechanics/Blueprints/Root/UIStrings_MainMenu.MotivationLinkPartFormat
 msgctxt "d1a8538d-90b3-40d6-98df-e0cc01b15ee5"
@@ -17087,11 +17134,13 @@ msgid ""
 "Please share your thoughts with us here: {0}\n"
 "... and we'll keep drawing inspiration from your comments!"
 msgstr ""
+"당신의 생각을 여기서 우리와 공유해 주세요: {0}\n"
+"...남겨주신 글을 보고 많은 영감을 받고 있습니다!"
 
 #. Mechanics/Blueprints/Root/UIStrings_MainMenu.MotivationStartPart
 msgctxt "59183092-d928-43ca-aa7f-541e9c2b36da"
 msgid "Dear Kings and Queens!"
-msgstr ""
+msgstr "친애하는 왕과 여왕 전하께!"
 
 #. Mechanics/Blueprints/Root/UIStrings_MainMenu.MotivationStartPartFormat
 msgctxt "b47d60ef-037e-4d17-b454-47b90fcc3861"
@@ -17100,6 +17149,8 @@ msgid ""
 "you're having fun, and that inspires us to develop this game even further. "
 "{0}"
 msgstr ""
+"Pathfinder: Kingmaker에 대한 지속적인 지원에 감사드립니다! 게임을 즐겨주셔서 감사하고, 이는 저희 게임을 더욱 "
+"발전시키는 원동력이 되고 있습니다. {0}"
 
 #. Mechanics/Blueprints/Root/UIStrings_MainMenu.NewGame
 msgctxt "0c6d5277-78db-4fdf-b111-814424e8e7cd"
@@ -17228,18 +17279,14 @@ msgid "Gained {0} BP"
 msgstr "{0} BP 획득"
 
 #. Mechanics/Blueprints/Root/UIStrings_NotificationTexts.KingdomBpOnceLostFormat
-#, fuzzy
-#| msgid "Lost {0} BP."
 msgctxt "499aac68-772d-43c6-9e44-c12e015dc6eb"
 msgid "Lost {0} BP"
 msgstr "{0} BP 손실"
 
 #. Mechanics/Blueprints/Root/UIStrings_NotificationTexts.KingdomBpPerTernFormat
-#, fuzzy
-#| msgid "{0} BP each turn"
 msgctxt "49e51cbf-c80a-450b-b60c-c1e3e0d298e7"
 msgid "{0} BP each week"
-msgstr "매 턴 {0} BP"
+msgstr "매 주 {0} BP"
 
 #. Mechanics/Blueprints/Root/UIStrings_NotificationTexts.KingdomFreeBuildingLabel
 msgctxt "a5d4a0dc-4ac3-448b-94f1-af89da4f054d"
@@ -17274,12 +17321,12 @@ msgstr "새로운 장소 발견: {0}"
 #. Mechanics/Blueprints/Root/UIStrings_NotificationTexts.SlowSpeedBecauseHavyEncumbrance
 msgctxt "3f0add75-7349-43a5-afe4-380e8aa94484"
 msgid "Character is over encumbered"
-msgstr "캐릭터의 짐이 너무 무겁습니다."
+msgstr "캐릭터의 짐이 너무 무거움"
 
 #. Mechanics/Blueprints/Root/UIStrings_NotificationTexts.SlowSpeedBecausePartyEncumbrance
 msgctxt "10733e0d-aa33-4f63-aec4-9a717ee5e96b"
 msgid "Party is over encumbered"
-msgstr "일행의 짐이 너무 무겁습니다."
+msgstr "일행의 짐이 너무 무거움"
 
 #. Mechanics/Blueprints/Root/UIStrings_NotificationTexts.WantRemoveCompanionDialog
 msgctxt "8163d072-eabe-41d4-8266-ba5ab2e2a7fc"
@@ -17302,16 +17349,14 @@ msgid "Failed"
 msgstr "실패"
 
 #. Mechanics/Blueprints/Root/UIStrings_QuesJournalTexts.QuestTimeToFail
-#, fuzzy
-#| msgid "Will fail in {0}"
 msgctxt "56ac3540-8c3a-4c5a-a548-a8423253d447"
 msgid "Next development in {0}"
-msgstr "{0} 이후에 실패합니다."
+msgstr "다음 단계까지 {0}"
 
 #. Mechanics/Blueprints/Root/UIStrings_QuesJournalTexts.QuestTimeToRealFail
 msgctxt "6134c470-85f7-4ce8-bc59-d5cc9dfe142d"
 msgid "Will fail in {0}"
-msgstr ""
+msgstr "실패까지 {0}"
 
 #. Mechanics/Blueprints/Root/UIStrings_QuestNotificationTexts.QuestComplite
 msgctxt "58273399-3974-4547-807b-79578695a9c9"
@@ -17557,7 +17602,7 @@ msgstr "요리사가 {recipe} 요리에 실패했습니다."
 #. Mechanics/Blueprints/Root/UIStrings_Rest.LogCookingForbidden_1
 msgctxt "a4ca0699-1a82-4bd1-b0f4-607aab551845"
 msgid "You cannot cook here."
-msgstr "이 곳에서는 요리할 수 ​​없습니다."
+msgstr "이 곳에서는 요리할 수 없습니다."
 
 #. Mechanics/Blueprints/Root/UIStrings_Rest.LogCookingNotEnoughRations
 msgctxt "0e846b3c-cdef-46ca-bdb6-d1324fa3cba3"
@@ -17652,7 +17697,7 @@ msgstr "필요한 식량"
 #. Mechanics/Blueprints/Root/UIStrings_Rest.NeedUndefinedRations
 msgctxt "c1f52b49-7ca5-4998-acfd-bd3c46aab2c7"
 msgid "Unknown number of rations required."
-msgstr "알 수 없는 수량의 식량이 필요합니다"
+msgstr "알 수 없는 수의 식량이 필요합니다."
 
 #. Mechanics/Blueprints/Root/UIStrings_Rest.NightEncounter
 msgctxt "ee82131e-7c72-47e9-9530-caffd2b7bccc"
@@ -17732,7 +17777,7 @@ msgstr "휴식을 취하려면 사냥을 해야 합니다. 시간이 추가로 �
 #. Mechanics/Blueprints/Root/UIStrings_Rest.TimelineZeroHours
 msgctxt "2448b66d-4c96-492f-97c6-88b789882a65"
 msgid "The party will not rest"
-msgstr "일행은 완전히 휴식하지 않습니다."
+msgstr "일행이 휴식하지 않음"
 
 #. Mechanics/Blueprints/Root/UIStrings_Rest.UseFromStashToggleName
 msgctxt "47aefc35-f813-449c-94a1-9772113e4eff"
@@ -17762,31 +17807,31 @@ msgstr "식량을 사용하거나 사냥꾼을 지명하십시오"
 #. Mechanics/Blueprints/Root/UIStrings_SaveInjectorTexts.DelveNumberFormat
 msgctxt "4f5653f5-6ee1-415f-b16c-5bbba7c77f58"
 msgid "[Attempts: {0}]"
-msgstr ""
+msgstr "[{0} 회 시도]"
 
 #. Mechanics/Blueprints/Root/UIStrings_SaveInjectorTexts.ImportFromDlcHint
 msgctxt "c3a2686e-e219-455b-b023-6814a066bf6b"
 msgid ""
 "Select a save to import your progress from the previous playthroughs of the "
 "Beneath the Stolen Lands DLC."
-msgstr ""
+msgstr "도둑맞은 땅 아래에서 DLC의 이전 플레이에서의 진행 상황을 추출할 세이브 파일을 고르십시오."
 
 #. Mechanics/Blueprints/Root/UIStrings_SaveInjectorTexts.ImportFromMainCampaignHeader
 msgctxt "9fc8600c-1fbc-4281-b45b-f03077a65bfa"
 msgid "Import main character"
-msgstr ""
+msgstr "메인 캐릭터 추출"
 
 #. Mechanics/Blueprints/Root/UIStrings_SaveInjectorTexts.ImportFromMainCampaignHint
 msgctxt "e0efb721-1feb-404e-9142-680ca0a36da0"
 msgid ""
 "Select a save to import your character from Pathfinder: Kingmaker's main "
 "story."
-msgstr ""
+msgstr "패스파인더: 킹메이커의 메인 스토리에서 캐릭터를 추출할 세이브 파일을 고르십시오."
 
 #. Mechanics/Blueprints/Root/UIStrings_SaveInjectorTexts.ImportIntoMainCampaignHeader
 msgctxt "84387ce5-be9d-4228-92f4-d49146c59c75"
 msgid "Import main character and decisions"
-msgstr ""
+msgstr "메인 캐릭터 및 결정 사항 추출"
 
 #. Mechanics/Blueprints/Root/UIStrings_SaveInjectorTexts.ImportIntoMainCampaignHint
 msgctxt "7a70c1f7-6cb5-442a-9bdb-3a8df807f8bd"
@@ -17796,6 +17841,8 @@ msgid ""
 "you won't be able to cancel it and import a different outcome, unless you "
 "reload the game to a point before the import."
 msgstr ""
+"메인 스토리에 적용할 세이브 파일을 고르세요. \"반홀드의 운명\"을 플레이하며 결정한 사항들과 캐릭터를 추출합니다. 이 선택은 "
+"영구적입니다. 추출 시점 이전의 세이브 파일을 불러와도 적용된 사항은 변경되지 않습니다."
 
 #. Mechanics/Blueprints/Root/UIStrings_SaveLoadTexts.DeleteLabel
 msgctxt "af49e2f2-a5b4-4989-82dc-2f1e6979fc2a"
@@ -18011,32 +18058,32 @@ msgstr "난이도"
 #. Mechanics/Blueprints/Root/UIStrings_SkillcheckTooltips.KingdomBonusRollLabel
 msgctxt "cba1915f-3999-45eb-83fc-9c20e3943e5f"
 msgid "Crisis Points bonus"
-msgstr ""
+msgstr "위기 점수 보너스"
 
 #. Mechanics/Blueprints/Root/UIStrings_SkillcheckTooltips.KingdomLeaderRollLabel
 msgctxt "9014e30f-e71d-498c-9b77-beedda9d3885"
 msgid "Advisor bonus"
-msgstr ""
+msgstr "보좌관 보너스"
 
 #. Mechanics/Blueprints/Root/UIStrings_SkillcheckTooltips.KingdomModifierRollLabel
 msgctxt "950ee7eb-7b0b-4743-8c13-3143dfc4f3d7"
 msgid "Other modifiers"
-msgstr ""
+msgstr "기타 수정치"
 
 #. Mechanics/Blueprints/Root/UIStrings_SkillcheckTooltips.KingdomRankRollLabel
 msgctxt "056d21cd-bc52-4db7-bf4d-4e00c327ac7a"
 msgid "{0} rank bonus (x2)"
-msgstr ""
+msgstr "{0} 등급 보너스 (x2)"
 
 #. Mechanics/Blueprints/Root/UIStrings_SkillcheckTooltips.KingdomStoryLabel
 msgctxt "f94cc3a6-562d-482c-8aaf-eb32aa1692c9"
 msgid "Kingdom difficulty bonus"
-msgstr ""
+msgstr "왕국 난이도 보너스"
 
 #. Mechanics/Blueprints/Root/UIStrings_SkillcheckTooltips.KingdomUnrestRollLabel
 msgctxt "1e3d0deb-40f6-4139-8a5b-d129601f275e"
 msgid "Unrest penalty"
-msgstr ""
+msgstr "안정도 페널티"
 
 #. Mechanics/Blueprints/Root/UIStrings_SkillcheckTooltips.Result
 msgctxt "87a65379-937f-428b-8d69-347cef02737f"
@@ -18089,11 +18136,9 @@ msgid "Caster level"
 msgstr "시전자 레벨"
 
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.CharacterDontHaveSpells_1
-#, fuzzy
-#| msgid "Companion can't cast spells"
 msgctxt "84fb7983-1e67-461d-8784-9f3ea07e283a"
 msgid "Can't cast spells"
-msgstr "이 동료는 주문을 시전할 수 없습니다."
+msgstr "주문을 시전할 수 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.CharacterHasNotSlots
 msgctxt "2b3c15c7-d934-4a5f-beeb-9fa60ff4de4a"
@@ -18119,12 +18164,12 @@ msgstr "영역 칸"
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.DontHaveSpellsInBook
 msgctxt "d48660a3-0140-4112-97cc-0bd361d5a391"
 msgid "You have no available spells"
-msgstr "사용 가능한 주문이 없습니다."
+msgstr "사용 가능한 주문 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.FavoriteBookmarkWarning
 msgctxt "ebf8125e-97cf-4f45-8b9a-ab1454634af0"
 msgid "You can't memorize spells from the \"Favorites\" section"
-msgstr "\"즐겨찾기\" 항목에서는 주문을 암기할 수 없습니다."
+msgstr "\"즐겨찾기\" 항목에서는 주문을 암기할 수 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.FavoriteSchoolSlots_1
 msgctxt "45fb40bc-4b20-4fc4-9484-70d10164f36f"
@@ -18139,12 +18184,12 @@ msgstr "<sprite name=\"star\" color=#ccb793FF>"
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.LeftClickForgetTooltipHint
 msgctxt "c27fc1c1-9342-4c03-83c3-6ea0b174307c"
 msgid "Left-click to forget"
-msgstr "잊으려면 왼쪽 버튼을 클릭하십시오."
+msgstr "왼쪽 버튼을 눌러 잊기"
 
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.LeftClickMemorizeTooltipHint
 msgctxt "6b72ddd3-8a5c-40d9-875b-0abec95a29f2"
 msgid "Left-click to memorize"
-msgstr "암기하려면 왼쪽 버튼을 클릭하십시오."
+msgstr "왼쪽 버튼을 눌러 암기"
 
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.Level
 msgctxt "e57290fd-9c5f-4b28-a92e-91a6e3444e5e"
@@ -18189,12 +18234,12 @@ msgstr "메타매직"
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.NeedToSleep
 msgctxt "1c44ce34-62da-4932-a328-ea97bc34755f"
 msgid "Rest to restore spells"
-msgstr "주문을 재충전하려면 휴식을 취하십시오."
+msgstr "휴식으로 주문 회복"
 
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.NoMetamagicText
 msgctxt "0a3f559b-6be4-46ac-840f-67739a213481"
 msgid "You don't have metamagic feats"
-msgstr "이 캐릭터는 메타매직 특기가 없습니다."
+msgstr "메타매직 특기 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.NotEnoughAbilityScore
 msgctxt "44d18fb9-4d16-4553-99fb-a82ed4f00321"
@@ -18289,7 +18334,7 @@ msgstr "거절"
 #. Mechanics/Blueprints/Root/UIStrings_TermsOfUseTexts.Header
 msgctxt "188bed80-61d0-4b70-b9bf-ec2b942da424"
 msgid "<color=#9C2809FF>T</color>erms of <color=#9C2809FF>U</color>se"
-msgstr "<color=#9C2809FF>T</color>erms of <color=#9C2809FF>U</color>se"
+msgstr "<color=#9C2809FF>이</color>용 <color=#9C2809FF>약</color>관"
 
 #. Mechanics/Blueprints/Root/UIStrings_TermsOfUseTexts.OkBtn
 msgctxt "3007be54-cb80-424e-a7c2-b51d10410356"
@@ -18332,7 +18377,7 @@ msgstr "주문 저항의 영향을 받음"
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.AlreadyHasFeature_1
 msgctxt "6b874d53-a490-49ca-a4ab-de56499288bb"
 msgid "Acquired ability"
-msgstr ""
+msgstr "획득한 능력"
 
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.and_String
 msgctxt "5aba2616-eaa8-4584-b393-ba2a7a8d4127"
@@ -18417,7 +18462,7 @@ msgstr "사용 불가"
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.CanNotCook
 msgctxt "45a9b0a1-eee8-4662-ad9f-f72846b6c99d"
 msgid "Not enough ingredients"
-msgstr "재료가 충분하지 않습니다."
+msgstr "재료가 충분하지 않음"
 
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.CharacterLevel
 msgctxt "af967631-2a3c-4458-bc9b-7df4246700c5"
@@ -18532,7 +18577,7 @@ msgstr "{0}의 좋아하는 요리"
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.FeaturesFrom
 msgctxt "3908f114-ee7b-4808-9d86-605836c6ec13"
 msgid "Has {0} of the following features:"
-msgstr ""
+msgstr "다음 특성 중 {0}개 보유:"
 
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.gp
 msgctxt "9365f99a-9298-44f4-9fe0-4acdd05afd09"
@@ -18572,7 +18617,7 @@ msgstr "비전 주문 시전 능력"
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.KnownRecipe
 msgctxt "3d47508e-46b2-4145-898f-d7a91f9b7ae4"
 msgid "You already know this recipe"
-msgstr "당신은 이미 이 조리법을 알고 있습니다."
+msgstr "이미 알고있는 조리법"
 
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.lbs
 msgctxt "a9f14892-e1ea-4fb2-be69-fa8eb0bcd82f"
@@ -18632,22 +18677,22 @@ msgstr "다음"
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.NoArchetype
 msgctxt "06be4108-262c-4eff-8e32-8da6604274ac"
 msgid "No archetype"
-msgstr ""
+msgstr "아키타입 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.NoClass
 msgctxt "1881cbc8-270a-45c5-a515-ecc4bca3a72c"
 msgid "Has no levels in the {0} class"
-msgstr "{0} 클래스 레벨이 없습니다."
+msgstr "{0} 클래스 레벨 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.NoFeature
 msgctxt "01390848-2fb9-457e-bcae-baefc9d81b8b"
 msgid "Doesn't have the following features"
-msgstr "다음의 선결 조건이 없습니다."
+msgstr "다음 특성 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.NoItemsAvailableToSelect
 msgctxt "717fa1ea-b57b-4c50-a099-6e77c6a2cadc"
 msgid "Nothing to choose from"
-msgstr ""
+msgstr "선택할 수 있는 항목 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.NonMagicWeaponImmunity
 msgctxt "2966b545-9284-4238-8ed4-3a6170be4a3c"
@@ -18662,7 +18707,7 @@ msgstr "동물 동료 없음"
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.NoProficiencies
 msgctxt "cbb33d84-f995-4d90-80c8-523917b92df0"
 msgid "Doesn't have the following proficiencies"
-msgstr "필요 숙련이 없습니다."
+msgstr "다음 숙련 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.NotArcaneCaster
 msgctxt "08eff7ff-b0fa-48e4-9008-5cd16eaee620"
@@ -18677,7 +18722,7 @@ msgstr "공격"
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.OneFrom
 msgctxt "6d911cfe-5425-4033-8604-30d14edf990b"
 msgid "Has one of the following features:"
-msgstr "다음의 조건 중 하나를 가지고 있습니다."
+msgstr "다음 특성 중 하나 보유"
 
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.or_String
 msgctxt "a2fbdc0d-7ee4-4b90-aba5-e60d85e652e8"
@@ -18881,8 +18926,6 @@ msgid "9th level spells"
 msgstr "9 레벨 주문"
 
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.TipPreviewSkillcheckBestCharacter
-#, fuzzy
-#| msgid "(Show best character for this action)"
 msgctxt "4ad4c066-7504-4595-9d52-76801369b315"
 msgid "(Shows the best character for this action)"
 msgstr "(이 행동에 가장 적합한 캐릭터 표시)"
@@ -19077,14 +19120,12 @@ msgstr "옵션 설정"
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[105].Name
 msgctxt "3b7f88e8-4f1b-44ad-8293-08949a8f6c4a"
 msgid "Party speed is limited"
-msgstr "일행 속도가 제한을 받고 있습니다."
+msgstr "일행 속도 제한중"
 
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[105].Name_1
-#, fuzzy
-#| msgid "Recommended ability score"
 msgctxt "a9e39c2e-73f8-40d0-85fe-52923c911542"
 msgid "Recommended ability"
-msgstr "능력치 추천"
+msgstr "추천 능력"
 
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[106].Description_1
 msgctxt "8096edf2-ac84-4c69-8adc-53cdb7199289"
@@ -19114,7 +19155,7 @@ msgid ""
 "the character. Adequate character development doesn't involve developing "
 "such features."
 msgstr ""
-"비추천 능력은 캐릭터에 거의 영향을 주지 않는 능력입니다. 효율적인 캐릭터를 만드려면 이러한 능력에 투자하지 않는 것을 추천합니다"
+"비추천 능력은 캐릭터에 거의 영향을 주지 않는 능력입니다. 효율적인 캐릭터를 만드려면 이러한 능력에 투자하지 않는 것을 추천합니다."
 
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[107].Name_1
 msgctxt "b3ae52bb-ddf3-49f7-ae99-43ffb32b8560"
@@ -19260,7 +19301,7 @@ msgstr "은신"
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[121].Name
 msgctxt "f1de6378-b9f2-4a4c-ab70-69859f0b6f43"
 msgid "Scenario"
-msgstr ""
+msgstr "시나리오"
 
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[12].Description_3
 msgctxt "9cd3331f-3b5a-4ae7-8159-3317f07e43c6"
@@ -19495,7 +19536,7 @@ msgstr "착용 중"
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[3].Description
 msgctxt "326f26ef-2cdb-4d0b-8077-4da9ca86cd6c"
 msgid "<align=center>Press [C] to open</align>."
-msgstr "<align=center>[C] 키를 눌러 열 수 있습니다</align>"
+msgstr "<align=center>[C] 키를 눌러 열 수 있습니다</align>."
 
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[3].Name
 msgctxt "6a040821-166e-4e9f-af1b-74d45c3ebcd9"
@@ -19558,7 +19599,7 @@ msgstr "시전자 레벨"
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[4].Description
 msgctxt "bc2746df-ad90-45f9-a4e9-05241e4a9629"
 msgid "<align=center>Press [Esc] to open.</align>"
-msgstr "<align=center>[Esc] 키를 눌러 열 수 있습니다</align>."
+msgstr "<align=center>[Esc] 키를 눌러 열 수 있습니다.</align>"
 
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[4].Name
 msgctxt "709b3162-2169-4e46-bc94-9e250f926c87"
@@ -19625,7 +19666,7 @@ msgstr "주문 선택"
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[5].Description
 msgctxt "9cf56b99-0a1b-4130-9461-c44ea771d170"
 msgid "<align=center>Press [B] to open.</align>"
-msgstr "<align=center>[B] 키를 눌러 열 수 있습니다</align>."
+msgstr "<align=center>[B] 키를 눌러 열 수 있습니다.</align>"
 
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[5].Name
 msgctxt "ec0b58ff-038d-43ee-a7e3-2960ae5c0f37"
@@ -19907,7 +19948,7 @@ msgstr "일대기"
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[8].Description_2
 msgctxt "3b3d8147-ce86-4653-acbf-702be8d5155d"
 msgid "<align=center>Press [R] to open.</align>"
-msgstr "<align=center>[R] 키를 눌러 열 수 있습니다</align>."
+msgstr "<align=center>[R] 키를 눌러 열 수 있습니다.</align>"
 
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[8].Name_2
 msgctxt "ce38963d-bdf5-4752-91b4-4f36a2067dfc"
@@ -19972,7 +20013,7 @@ msgstr "하중이 무거워지면 캐릭터의 속도가 느려지고 쉽게 피
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[9].Description_3
 msgctxt "93729468-22b0-4d26-9433-e63d08826d49"
 msgid "<align=center>Press [Backspace] to select all characters</align>"
-msgstr "<align=center>[Backspace] 키를 눌러 모든 캐릭터를 선택할 수 있습니다</align>."
+msgstr "<align=center>[Backspace] 키를 눌러 모든 캐릭터를 선택할 수 있습니다.</align>"
 
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[9].Name_3
 msgctxt "d8063400-158b-4a59-ae95-5127b3810a55"
@@ -20032,7 +20073,7 @@ msgstr "물약"
 #. Mechanics/Blueprints/Root/UsableItemTypes_Entries.Array.data[4].Text
 msgctxt "a039719e-2f22-400c-94d1-fb6ee54af01b"
 msgid "Utility item"
-msgstr ""
+msgstr "보조 물품"
 
 #. Mechanics/Blueprints/Root/WarningNotifications_Entries.Array.data[10].Text
 msgctxt "bff0ca93-cc46-497e-8eed-a136f001bbc5"
@@ -20052,7 +20093,7 @@ msgstr "저장 중..."
 #. Mechanics/Blueprints/Root/WarningNotifications_Entries.Array.data[12].Text
 msgctxt "4881d836-3711-4950-977a-22ce35e49b19"
 msgid "You can not change equipment in combat"
-msgstr "전투 중에는 장비를 바꿀 수 없습니다."
+msgstr "전투 중 장비 교체 불가"
 
 #. Mechanics/Blueprints/Root/WarningNotifications_Entries.Array.data[1].Text
 msgctxt "d668ec1c-4c36-4bdd-a0b6-eb2d9f4f3750"
@@ -20077,7 +20118,7 @@ msgstr "자동 저장됨"
 #. Mechanics/Blueprints/Root/WarningNotifications_Entries.Array.data[5].Text
 msgctxt "d667f6e8-33e4-4bcc-b760-00ebeadf6fe3"
 msgid "Saving game is impossible"
-msgstr "게임을 저장할 수 없습니다."
+msgstr "게임 저장 불가"
 
 #. Mechanics/Blueprints/Root/WarningNotifications_Entries.Array.data[6].Text
 msgctxt "76ee95a7-cb61-49b0-8e9a-176c0c817338"
@@ -20561,7 +20602,7 @@ msgstr "공격 보너스"
 #. Mechanics/Blueprints/Root/GameLog/GameLog_Attack.AutoMissSuffix
 msgctxt "4dd15e00-1891-414d-9b35-c0a798236c4e"
 msgid "Attack harmlessly passes through"
-msgstr "공격이 무해하게 통과합니다."
+msgstr "공격이 소용 없음"
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_Attack.CriticalMissSuffix
 msgctxt "03e4f7c5-8953-41cd-8bac-cf238f0384e3"
@@ -20588,12 +20629,12 @@ msgctxt "e8880b7b-5de8-4e47-9339-e01f1e252dde"
 msgid ""
 "Fortification armor chance: {chance_dc}%, roll: {d100} — additional damage "
 "negated"
-msgstr "인내 내성 굴림 확률: {chance_dc}%, 굴림 결과: {d100} - 추가 피해 무효화."
+msgstr "인내 내성 굴림 확률: {chance_dc}%, 굴림 결과: {d100} - 추가 피해 무효화"
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_Attack.HitSuffix
 msgctxt "bad7cdf1-2704-4596-a879-bdf958fb431b"
 msgid "Hit"
-msgstr "명중!"
+msgstr "명중"
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_Attack.Message
 msgctxt "36ddb9ca-d26d-4b88-9c0b-22aa81da9599"
@@ -20608,12 +20649,12 @@ msgstr "빗나감"
 #. Mechanics/Blueprints/Root/GameLog/GameLog_Attack.ParryFail
 msgctxt "84b96973-c07a-40c7-bd65-2b17d5ff97c7"
 msgid "{source} failed to parry an attack from {target}"
-msgstr "{source}이/가  {target}의 공격을 쳐내지 못했습니다."
+msgstr "{source}이/가 {target}의 공격 쳐내기 실패"
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_Attack.ParrySuccess
 msgctxt "9406853d-299c-4d57-b91b-33786996322e"
 msgid "{source} successfully parried an attack from {target}"
-msgstr "{source}이/가  {target}의 공격을 쳐냈습니다."
+msgstr "{source}이/가  {target}의 공격 쳐냄"
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_Attack.ParryTooltipInitiator
 msgctxt "f17961b4-b318-473a-9a58-bb68982768e4"
@@ -20641,12 +20682,12 @@ msgstr "암습!"
 #. Mechanics/Blueprints/Root/GameLog/GameLog_Attack.TooltipAttackNumber_1
 msgctxt "08e2b7b6-480c-473f-8fad-0b4602d1cdfc"
 msgid "Attack number: {attack_number} out of {attacks_count}"
-msgstr ""
+msgstr "공격 횟수: {attack_number}회 중 {attacks_count}번째 공격"
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_Attack.TooltipAttackNumber_String
 msgctxt "1ab86d92-8fbb-46c4-a518-418ad148d7cb"
 msgid "Attack number: {attack_number} out of {attacks_count}"
-msgstr ""
+msgstr "공격 횟수: {attack_number}회 중 {attacks_count}번째 공격"
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_Attack.TooltipAttackRoll
 msgctxt "86b690ea-d1fb-435a-a90f-0c93c2bbf8cb"
@@ -20654,8 +20695,8 @@ msgid ""
 "Attack result: {roll} (roll: {d20} + modifiers: {mod})\n"
 "Target's Armor Class: {dc}"
 msgstr ""
-"공격 결과: {roll} (굴림 결과: {d20} + 수정치: {mod}). \n"
-"대상의 방어도: {dc}."
+"공격 결과: {roll} (굴림 결과: {d20} + 수정치: {mod})\n"
+"대상의 방어도: {dc}"
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_Attack.TooltipAttackRollCriticalMiss
 msgctxt "6c4f6d5e-c247-4d07-bae7-437d46522303"
@@ -20718,12 +20759,12 @@ msgstr "접촉"
 #. Mechanics/Blueprints/Root/GameLog/GameLog_AttackOfOpportunity.Message
 msgctxt "a0bebec9-7f2f-428e-b270-f9045fe04fed"
 msgid "<b>{source}</b> makes attack of opportunity against <b>{target}</b>"
-msgstr "<b>{source}</b>: <b>{target}</b>에게 기회 공격."
+msgstr "<b>{source}</b>: <b>{target}</b>에게 기회 공격"
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_BookEnded.Message
 msgctxt "7dc9feab-9a3f-47cf-b799-0a11b80cfb1d"
 msgid "Event finished"
-msgstr "사건이 완료되었습니다."
+msgstr "사건 완료"
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_BookStarted.Message
 msgctxt "8715abe3-04c6-478d-8fdc-52adb247db83"
@@ -20755,17 +20796,17 @@ msgctxt "5ae5e332-a6d9-46d3-8dd9-815416ce6a8b"
 msgid ""
 "Only characters with at least one rank in Trickery can try to disarm traps "
 "and pick locks."
-msgstr ""
+msgstr "최소한 한 등급 이상의 손재주를 가진 캐릭터만 함정과 자물쇠를 해제할 수 있습니다."
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_CastDefensivelyFail.Message
 msgctxt "4bffb019-c9af-4c79-b100-8abf4c2ec38a"
 msgid "<b>{source}</b>: casting defensively check failed"
-msgstr "<b>{source}</b>: 방어적 주문 시전 실패."
+msgstr "<b>{source}</b>: 방어적 주문 시전 실패"
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_CastDefensivelySuccess.Message
 msgctxt "a5e24336-6210-418d-bda3-c383dfdfee82"
 msgid "<b>{source}</b>: casting defensively check succeeded"
-msgstr "<b>{source}</b>: 방어적 주문 시전 성공."
+msgstr "<b>{source}</b>: 방어적 주문 시전 성공"
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_CastSpell.Message
 msgctxt "fa4899df-3e2d-4127-9f78-9c8d6dc2d66e"
@@ -20962,11 +21003,9 @@ msgstr ""
 "결과: 실패."
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_DispelSuccess.Message
-#, fuzzy
-#| msgid "<b>{source}</b> dispel <b>{text}</b> from <b>{target}</b>"
 msgctxt "236942d0-28a8-4423-ab2f-f64157acfd34"
 msgid "<b>{source}</b> dispels <b>{text}</b> from <b>{target}</b>"
-msgstr "<b>{source}</b>: <b>{target}</b>의 <b>{text}</b> 해제 성공."
+msgstr "<b>{source}</b>: <b>{target}</b>의 <b>{text}</b> 해제 성공"
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_DispelSuccess.Tooltip
 msgctxt "bd93872e-2b6b-4884-bdee-f87abf80cc67"
@@ -21127,8 +21166,6 @@ msgid "<b>{source}</b> heals <b>{count}</b> points of burn."
 msgstr "<b>{source}</b>이/가 <b>{count}</b> 점의 과열을 치유함."
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_LocationRevealed.Message
-#, fuzzy
-#| msgid "New location found: <b>{text}</b>."
 msgctxt "07ee1721-8e83-41d3-a40c-cab342dce9eb"
 msgid "New location discovered: <b>{text}</b>."
 msgstr "새로운 장소 발견: <b>{text}</b>."
@@ -21348,7 +21385,7 @@ msgstr "<b>{source}</b>: 자물쇠를 딸 수 없음."
 #. Mechanics/Blueprints/Root/GameLog/GameLog_TimePassed.Message
 msgctxt "7ba1c190-781b-4191-bf57-5ec6f61f2ea6"
 msgid "Time passed"
-msgstr ""
+msgstr "시간 지남"
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_TrapSpotted.Message
 msgctxt "12f75e5f-fd39-4b15-acec-426835ef55cd"
@@ -21393,7 +21430,7 @@ msgstr "<b>{text}</b> 정보 갱신됨: {description}"
 #. Mechanics/Blueprints/Root/GameLog/GameLog_UnitInspectFailed.Message
 msgctxt "c9de0bcc-93a6-4489-ae75-686c7b25beda"
 msgid "<b>{text}</b> inspect failed"
-msgstr "<b>{text}</b> 조사 실패."
+msgstr "<b>{text}</b> 조사 실패"
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_UnitInStealthSpotted.Message
 msgctxt "7d9e91d7-ba63-4ae3-b137-ecb98e9465ff"
@@ -21448,26 +21485,26 @@ msgstr "캐릭터 선택"
 #. Mechanics/Blueprints/Root/UITexts/BoonSelector_Header_String
 msgctxt "6fbbc1db-d371-48e1-9551-61342b4b552d"
 msgid "Select a Boon"
-msgstr ""
+msgstr "혜택 선택"
 
 #. Mechanics/Blueprints/Root/UITexts/BoonSelector_Header_String_1
 msgctxt "773addfe-fff7-43b5-aa50-36f6280eae93"
 msgid "Select a Boon"
-msgstr ""
+msgstr "혜택 선택"
 
 #. Mechanics/Blueprints/Root/UITexts/BoonSelector_Hint_String
 msgctxt "738a64b2-5c56-4c07-9437-a470fca55c80"
 msgid ""
 "Choose one boon for your next playthrough. The more dungeon floors you've "
 "conquered in your last playthrough, the better are the boons."
-msgstr ""
+msgstr "다음 플레이 때 받을 혜탁을 선택하십시오. 지난 플레이에서 내려간 층 수에 비례하여 더 좋은 혜택을 얻습니다."
 
 #. Mechanics/Blueprints/Root/UITexts/BoonSelector_Hint_String_1
 msgctxt "13793ab1-07c8-44ca-b4c3-fde56ec584db"
 msgid ""
 "Choose one boon for your next рlaythrough. The more dungeon floors you've "
 "conquered in your last playthrough, the better are the boons."
-msgstr ""
+msgstr "다음 플레이 때 받을 혜탁을 선택하십시오. 지난 플레이에서 내려간 층 수에 비례하여 더 좋은 혜택을 얻습니다."
 
 #. Mechanics/Blueprints/Root/UITexts/BuildingWindow_UpdateLabel_String
 msgctxt "3504dbfb-67e4-4597-a64a-c8faf3531855"
@@ -21497,27 +21534,27 @@ msgstr "공격"
 #. Mechanics/Blueprints/Root/UITexts/Characters_String
 msgctxt "3efde428-d353-44ee-bbc8-ca9306f9fe72"
 msgid "Characters"
-msgstr ""
+msgstr "캐릭터"
 
 #. Mechanics/Blueprints/Root/UITexts/CharacterVisualSettings_ShowBackpack_String
 msgctxt "d643f8e8-dc33-4c40-a35b-25fdd42408ea"
 msgid "Show backpack"
-msgstr ""
+msgstr "배낭 보기"
 
 #. Mechanics/Blueprints/Root/UITexts/CharacterVisualSettings_ShowHelm_String
 msgctxt "e8a74611-3db8-485b-8232-eda0cc3dfe8b"
 msgid "Show helmet"
-msgstr ""
+msgstr "투구 보기"
 
 #. Mechanics/Blueprints/Root/UITexts/CharacterVisualSettings_Title_String
 msgctxt "b947c184-3520-4982-81e7-c45085c78e67"
 msgid "Appearance"
-msgstr ""
+msgstr "외모"
 
 #. Mechanics/Blueprints/Root/UITexts/CharacterVisualSettings_Title_String_1
 msgctxt "31b90786-eddf-4ad0-ba95-c3571ca89223"
 msgid "Appearance"
-msgstr ""
+msgstr "외모"
 
 #. Mechanics/Blueprints/Root/UITexts/Chargen_CharacterName_Placeholder_String
 msgctxt "bfbad722-719e-42b3-afac-3321429c10c7"
@@ -21552,7 +21589,7 @@ msgstr "사건"
 #. Mechanics/Blueprints/Root/UITexts/ConsumableBonus_Header_String
 msgctxt "db336ea3-8954-4e1e-a5a4-1740c4f0956f"
 msgid "Crisis Points"
-msgstr ""
+msgstr "위기 점수"
 
 #. Mechanics/Blueprints/Root/UITexts/DetachGroupManager_Header_String
 msgctxt "c17a4799-d340-44b1-9f0c-1f54d43272c1"
@@ -21577,7 +21614,7 @@ msgstr "승인"
 #. Mechanics/Blueprints/Root/UITexts/DlcDisable_DlcDisable_String
 msgctxt "57a78473-a755-4582-b2df-db8b271a84c3"
 msgid "You don't own this scenario yet"
-msgstr ""
+msgstr "이 시나리오를 갖고 있지 않음"
 
 #. Mechanics/Blueprints/Root/UITexts/DlcReqLabel_DlcReqLabel_String
 msgctxt "db308209-343d-4729-8c7e-d37505e62070"
@@ -21593,7 +21630,7 @@ msgstr "<font=\"Saber_Dist32\"><size=140%><color=#983f1d>장</color></size>비"
 #. Mechanics/Blueprints/Root/UITexts/EmptyBoonTip_EmptyBoonTip_String
 msgctxt "9b8c9926-bcbd-427c-a71b-d48741acecf8"
 msgid "You did not use any boons during this playthrough."
-msgstr ""
+msgstr "이번 플레이에서 어떤 혜택도 사용하지 않습니다."
 
 #. Mechanics/Blueprints/Root/UITexts/Encyclopedia_Navi_Header_String
 msgctxt "6152c11c-7bcf-40c0-8092-fb565efacf58"
@@ -21604,7 +21641,7 @@ msgstr "<font=\"Saber_Dist32\"><size=140%><color=#983f1d>백</color></size>과�
 #. Mechanics/Blueprints/Root/UITexts/EndlessGameOver_NewGame_String
 msgctxt "23d0c432-2b7f-4bd0-9c9c-d7b7bab0d341"
 msgid "Start Again"
-msgstr ""
+msgstr "다시 시작"
 
 #. Mechanics/Blueprints/Root/UITexts/EscMenu_Exit_String
 msgctxt "d3fa6272-a6a7-4712-86a2-b79e7eed1095"
@@ -21644,17 +21681,17 @@ msgstr "저장하기"
 #. Mechanics/Blueprints/Root/UITexts/FirstAprilJoke_AcceptLabel_String
 msgctxt "276efb9e-2b3c-45b5-96f7-c4d3d8ff21d3"
 msgid "Yes, please!"
-msgstr ""
+msgstr "그래요, 제발!"
 
 #. Mechanics/Blueprints/Root/UITexts/FirstAprilJoke_ContinueLabel_String
 msgctxt "830505d1-265d-4ef8-b46a-61137ab927a8"
 msgid "Let's roll!"
-msgstr ""
+msgstr "해 봅시다!"
 
 #. Mechanics/Blueprints/Root/UITexts/FirstAprilJoke_DeclineLabel_String
 msgctxt "da7559ad-4df4-4cd5-a3ad-11137a5a6e8f"
 msgid "Nah, I'm good"
-msgstr ""
+msgstr "아니, 됐어요."
 
 #. Mechanics/Blueprints/Root/UITexts/Formations_Hint_String
 msgctxt "b8e16f0c-891d-4768-a5c5-ea68d07a456a"
@@ -21664,7 +21701,7 @@ msgstr "Shift 키를 눌러 그리드에 스냅합니다."
 #. Mechanics/Blueprints/Root/UITexts/GameOverManager_EasyKingdom_String
 msgctxt "765a11f0-5190-4ff6-ba41-81b2a1eeb6e4"
 msgid "Activate Invincible Kingdom Mode"
-msgstr "불멸의 왕국 모드를 활성화합니다."
+msgstr "불멸의 왕국 모드 활성화"
 
 #. Mechanics/Blueprints/Root/UITexts/GameOverManager_LoadLastSave_String
 msgctxt "36b81444-1e6e-455d-8463-4e1a05f8c32c"
@@ -21755,12 +21792,12 @@ msgstr "완료한 퀘스트 보기"
 #. Mechanics/Blueprints/Root/UITexts/KingdomBpPurchase_CostLabel_String
 msgctxt "c11b4c8b-34f8-4dc1-b32b-a66ac476d6d5"
 msgid "Cost"
-msgstr ""
+msgstr "비용"
 
 #. Mechanics/Blueprints/Root/UITexts/KingdomBpPurchase_Header_String
 msgctxt "794af96c-5027-4774-b2d7-8814f09c5e25"
 msgid "Set the amount of items to purchase"
-msgstr ""
+msgstr "구입할 물품 갯수 설정"
 
 #. Mechanics/Blueprints/Root/UITexts/KingdomEventBar_AvailableLabel_String
 msgctxt "483293dd-6e77-4460-87d1-a8745e407793"
@@ -21808,8 +21845,6 @@ msgid "Advisors"
 msgstr "보좌관"
 
 #. Mechanics/Blueprints/Root/UITexts/KingdomEvent_VisitingThroneRoom_String
-#, fuzzy
-#| msgid "Visiting the throne room"
 msgctxt "d6b32889-1b03-4d1f-8ad1-d12747e46e22"
 msgid "To the Throne Room"
 msgstr "알현실 가기"
@@ -21822,7 +21857,7 @@ msgstr "사건"
 #. Mechanics/Blueprints/Root/UITexts/KingdomRavenBox_NeedToVisitThroneRoom_String
 msgctxt "d07263bd-fc58-4efb-a900-4be05bc360b1"
 msgid "Need to visit the throne room"
-msgstr "알현실을 방문해야 합니다."
+msgstr "알현실 방문 필요"
 
 #. Mechanics/Blueprints/Root/UITexts/KingdomRavenBox_TotalBPHeader_String
 msgctxt "e8fc3451-35e1-4682-926e-9906cb7945fb"
@@ -21872,7 +21907,7 @@ msgstr "자원"
 #. Mechanics/Blueprints/Root/UITexts/KingdomRegionWindow_ResourceHint_String
 msgctxt "c87b5eb9-db72-4041-a0fb-f3fb1d3f5b4e"
 msgid "You have not claimed any resources in this region yet."
-msgstr ""
+msgstr "이 지역의 어느 자원도 점령하지 않았습니다."
 
 #. Mechanics/Blueprints/Root/UITexts/KingdomSettlementStat_Label_String
 msgctxt "3d5d318a-bf87-477a-8445-181995a35c70"
@@ -21957,7 +21992,7 @@ msgstr "지표"
 #. Mechanics/Blueprints/Root/UITexts/Kingdom_Stat_BuyBP_Label_String
 msgctxt "d8eb7277-7edb-4d1e-b0e3-7ee9349598c6"
 msgid "Purchase BP"
-msgstr ""
+msgstr "BP 구매"
 
 #. Mechanics/Blueprints/Root/UITexts/Label_Back_Label_Back_String
 msgctxt "1aad8b26-a243-4a52-9b97-203b7070632d"
@@ -22017,7 +22052,7 @@ msgstr "새로운 사건!"
 #. Mechanics/Blueprints/Root/UITexts/NewGame_ChooseStory_Header_String
 msgctxt "aad24e23-dc52-42ec-9709-b4e234b76996"
 msgid "Select scenario"
-msgstr ""
+msgstr "시나리오 선택"
 
 #. Mechanics/Blueprints/Root/UITexts/PhotosensitivityWarning_Description_String
 msgctxt "d1c3acee-91bf-49cb-b7c9-cb9f9657f81c"
@@ -22124,7 +22159,7 @@ msgstr "저장"
 #. Mechanics/Blueprints/Root/UITexts/Select_a_character_to_respec_String
 msgctxt "129b8bd4-cdfb-4343-9fde-b682a283de60"
 msgid "Select a character to retrain"
-msgstr ""
+msgstr "재훈련할 캐릭터 선택"
 
 #. Mechanics/Blueprints/Root/UITexts/SellBarSelling_SellBarSelling_String
 msgctxt "3e0a1038-e3f1-4d2c-a15b-a5a6ec2ccda8"
@@ -22165,7 +22200,7 @@ msgstr "소지품"
 #. Mechanics/Blueprints/Root/UITexts/ServiceWindow_Journal_DLC2_String_1
 msgctxt "cfaedb23-5b27-47e9-b0ea-39957cc62c28"
 msgid "Willas' Journal"
-msgstr ""
+msgstr "윌라스의 저널"
 
 #. Mechanics/Blueprints/Root/UITexts/ServiceWindow_Journal_String
 msgctxt "9f0c7666-b9a8-4b0d-a77d-de2d5b6bda86"
@@ -22244,7 +22279,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UITexts/SplitWindow_DropLabel_String
 msgctxt "a1e50a63-8c2b-4af5-b311-c34f4c16aa69"
 msgid "Drop"
-msgstr "버리기\n"
+msgstr "버리기"
 
 #. Mechanics/Blueprints/Root/UITexts/SplitWindow_MoveLabel_String
 msgctxt "ea80c241-0f02-4ee8-89bf-bb960269dc29"
@@ -22555,8 +22590,8 @@ msgid ""
 "penalty on all attack rolls, saving throws, skill checks, and ability "
 "checks."
 msgstr ""
-"겁에 질린 크리처는 가능한 한 적들로부터 달아나려 합니다. 겁에 질린 크리처는 모든 명중 굴림, 내성 굴림, 기술 판정, 능력치 판정에 "
-"-2의 페널티를 받습니다. "
+"겁에 질린 크리처는 가능한 한 적들로부터 달아나려 합니다. 겁에 질린 크리처는 모든 명중 굴림, 내성 굴림, 기술 판정, 능력치 판정에 -"
+"2의 페널티를 받습니다."
 
 #. Mechanics/Blueprints/Root/SystemMechanics/Conditions/FrightenedSystemCondition_m_DisplayName
 msgctxt "d67212d7-5306-4cb9-8d03-6312f60f60c8"
