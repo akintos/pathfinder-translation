@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
 "PO-Revision-Date: 2020-06-28 13:07+0000\n"
-"Last-Translator: 냠 <setsuna444@naver.com>\n"
+"Last-Translator: laz <joholja@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -9649,6 +9649,9 @@ msgid ""
 "deeply superstitious. They dropped their tools and valuables and fled in "
 "terror."
 msgstr ""
+"장관의 요원들은 나무꾼들에게 충격을 주기 위해 약간의 조치를 취했습니다. 요원들은 얼굴을 형광색으로 칠하고 오래된 뼈 무더기를 파헤쳐 "
+"숲속 유령의 공격을 훌륭하게 연기해냈습니다! 창칼의 위협에는 굳게 맞섰을 이 강인한 나무꾼들도, 결국 미신에 깊이\n"
+"빠진 자들에 불과했습니다. 나무꾼들은 공포에 질린 채로 도구와 귀중품을 내던지며 도망쳤습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/GuaranteesOfLoyalty_LN_LocalizedDescription
@@ -9661,12 +9664,16 @@ msgid ""
 "education. That should make the free thinkers more obedient, and their "
 "children would receive a proper – and supervised – education."
 msgstr ""
+"강력한 백성들 몇몇이 반란의 징조를 보이기 시작했습니다. 그들과 같은 자유사상가들이 제약 없이 그들의 사상을 퍼뜨리고 다니다가는 결국 "
+"폭동이 일어나고 말 것입니다. 이를 막으려면 반드시 그들의 충성심을 확보해야만 합니다. 충성심의 표현으로, 그들에게 자녀를 궁정으로 "
+"보내어 교육을 받게끔 하는 것도 가능할 것입니다. 그럼 자유사상가들도 좀 더 얌전하게 될 것이고, 그들의 자녀는 적절한 교육을 받을 수 "
+"있을 것입니다. 물론 엄격한 감독 하에 말입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/GuaranteesOfLoyalty_LN_LocalizedName
 msgctxt "28702477-d705-470f-a605-e352e9914476"
 msgid "Fidelity Guaranteed"
-msgstr ""
+msgstr "충성 보증"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/GuaranteesOfLoyalty_LN_Solutions.Entries.Array.data[1].Resolutions.Array.data[0].LocalizedDescription_String
@@ -9676,6 +9683,8 @@ msgid ""
 "Amazingly, they've suddenly vanished from the public eye! This must be a "
 "sure sign of their loyalty."
 msgstr ""
+"보좌관이 이 불온한 백성들의 후계자를 궁정으로 초대했습니다. 놀랍게도, 그들은 갑자기 대중의 시선으로 부터 사라졌습니다. 이건 그들의 "
+"충성심이 회복되었다는 징표가 분명합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/GuaranteesOfLoyalty_LN_Solutions.Entries.Array.data[1].Resolutions.Array.data[1].LocalizedDescription_String
@@ -9685,6 +9694,8 @@ msgid ""
 "their heirs. They now study arts and sciences in the palace, under watchful "
 "guard. Their parents have little choice but to demonstrate their devotion."
 msgstr ""
+"보좌관의 부하들이 이들 각각의 가구를 방문하여, 그들의 자녀를 데리고 떠났습니다. 그들은 이제 궁정에서 학문에 열중하고 있습니다. 주의 "
+"깊은 감시 하에서 말입니다. 부모들은 자신의 헌신을 증명하는 수 밖에 없습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/GuaranteesOfLoyalty_LN_Solutions.Entries.Array.data[1].Resolutions.Array.data[2].LocalizedDescription_String
@@ -9697,6 +9708,9 @@ msgid ""
 "highly loyal servants, and our compassionate approach only strengthened "
 "their love for the Crown."
 msgstr ""
+"보좌관은 불충한 시민들을 능숙하게 설득하여, 그들이 자발적으로 자녀들을 궁정으로 보내도록 만들었습니다. 그들은 자녀들이 성인이 되었을 때 "
+"궁정 교육이 가져다줄 지위와 영예로운 미래에 대한 약속에 혹해버린 것입니다. 그리하여 한 때의 혁명가 후보생들은 충성스러운 신민으로 "
+"바뀌었고, 우리의 배려 덕에 왕권에 대한 신민들의 사랑은 더욱 굳건해졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/HonestSharing_NG_LocalizedDescription
@@ -9707,12 +9721,14 @@ msgid ""
 " the nation. The people will appreciate our generosity, so long as no one is"
 " left shorthanded."
 msgstr ""
+"경제가 순조로이 돌아가는 덕분에, 국고에 초과 수입이 쌓이고 있습니다. 이 돈을 국민들에게 공정하게 배분하는 것이 국가 이익에 부합할 것 "
+"같습니다. 분배 과정만 공평하다면, 민중도 우리의 관대한 처사에 깊이 감사하게 될 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/HonestSharing_NG_LocalizedName
 msgctxt "0a0e6875-eb42-4f25-9ec5-0660cf98fadc"
 msgid "Equal Gifts"
-msgstr ""
+msgstr "평등한 선물"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/HonestSharing_NG_Solutions.Entries.Array.data[1].Resolutions.Array.data[0].LocalizedDescription_String
@@ -9722,6 +9738,8 @@ msgid ""
 "fair enough. They complained, but were never properly heard. This caused "
 "outrage in the settlements that felt cheated."
 msgstr ""
+"민중은 보좌관의 분배 과정이 공정하지 않았다고 느꼈습니다. 그들의 불만에도 이렇다할 대응조치는 없었고, 결국 기만당했다고 생각한 마을들 "
+"사이에 폭력 사태가 일어나고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/HonestSharing_NG_Solutions.Entries.Array.data[1].Resolutions.Array.data[1].LocalizedDescription_String
@@ -9731,6 +9749,8 @@ msgid ""
 "the advisor was forced to abandon this idea to avoid setting the villages "
 "against one another."
 msgstr ""
+"대부분 주민들의 눈에는 금의 분배 과정이 공정하지 않았습니다. 불만이 고조되자, 보좌관은 마을 간의 갈등을 피하기 위해 분배 계획 자체를 "
+"폐기할 수 밖에 없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/HonestSharing_NG_Solutions.Entries.Array.data[1].Resolutions.Array.data[2].LocalizedDescription_String
@@ -9738,7 +9758,7 @@ msgctxt "f013c5e8-2e5b-48e1-9e81-7644d96d69c3"
 msgid ""
 "The gold was distributed among the villages justly and wisely. No one felt "
 "that they'd been cheated. It was a surprising success!"
-msgstr ""
+msgstr "금은 공정하고도 현명하게 마을마다 분배되었고, 사기당했다고 생각하는 사람도 없었습니다. 실로 놀라운 성공입니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/HonestSharing_NG_Solutions.Entries.Array.data[1].Resolutions.Array.data[3].LocalizedDescription_String
@@ -9749,6 +9769,9 @@ msgid ""
 "The people appreciated that the authorities would think to reward them, and "
 "not only turn to them when it was time to collect taxes."
 msgstr ""
+"보좌관은 현명하게도 지역 시장들을 직접 국고 분배 계획에 참여시켰습니다. 이들 자신이 이 계획의 일부가 된 터라, 국고는 빠지거나 "
+"손해보는 사람이 없이 배분될 수 있었습니다. 민중은 정부가 세금만 뜯어가는 건 아니고 가끔은 수익을 돌려줄 생각도 한다는 것에 감사를 "
+"표했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/JudgementAndPunishment_LE_LocalizedDescription
