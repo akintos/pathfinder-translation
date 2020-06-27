@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-17 04:07+0900\n"
-"PO-Revision-Date: 2020-06-20 06:07+0000\n"
+"PO-Revision-Date: 2020-06-28 13:07+0000\n"
 "Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/feats/ko/>\n"
@@ -39,7 +39,7 @@ msgstr ""
 #. Mechanics/Blueprints/Feats/AccomplishedSneakAttacker_m_DisplayName
 msgctxt "3773f489-13f5-4d06-b1cb-6f88f13c3631"
 msgid "Accomplished Sneak Attacker"
-msgstr "암습 숙련"
+msgstr "암습 보완"
 
 #. Mechanics/Blueprints/Feats/AgileManeuvers_m_Description
 msgctxt "c73ac51d-c789-4f75-b775-92e58f69085b"
@@ -1295,7 +1295,7 @@ msgstr "자신이 장비한 평장 갑옷의 AC 보너스가 1 증가합니다."
 #. Mechanics/Blueprints/Feats/ArmorFocus/ArmorFocusMedium_m_DisplayName
 msgctxt "8d802ecb-da1d-45b1-a8e1-7cecce1b35bc"
 msgid "Medium Armor Focus"
-msgstr "경장 갑옷 중점화"
+msgstr "평장 갑옷 중점화"
 
 #. Mechanics/Blueprints/Feats/ArmorFocus/ArmorFocusPadded_m_Description
 msgctxt "fafebb1e-de72-4003-b4b7-6a9cfb1937e6"
@@ -1475,7 +1475,7 @@ msgstr "향상된 베어 넘기기"
 #. Mechanics/Blueprints/Feats/CombatExpertise/CombatExpertiseBuff_m_DisplayName
 msgctxt "c1cc91e2-7c0a-4a86-8b24-79cb6225df16"
 msgid "Combat Expertise"
-msgstr "전투 숙련"
+msgstr "전투 전문화"
 
 #. Mechanics/Blueprints/Feats/CombatExpertise/CombatExpertiseFeature_Description_String
 msgctxt "bef773f2-b11b-47e5-88f9-8699472bf641"
@@ -1494,7 +1494,7 @@ msgstr ""
 #. Mechanics/Blueprints/Feats/CombatExpertise/CombatExpertiseFeature_DisplayName_String
 msgctxt "3881e7b9-27ca-4b53-8095-aa0faff2d94e"
 msgid "Combat Expertise"
-msgstr "전투 숙련"
+msgstr "전투 전문화"
 
 #. Mechanics/Blueprints/Feats/CombatExpertise/CombatExpertiseToggleAbility_m_Description
 msgctxt "ea8be766-d944-4349-b51f-dca0558f8e58"
@@ -1506,7 +1506,7 @@ msgstr "근접 명중 굴림과 전법 판정에 -2 페널티를 받고 방어�
 #. Mechanics/Blueprints/Feats/CombatExpertise/CombatExpertiseToggleAbility_m_DisplayName
 msgctxt "fb05af95-62fa-40c1-8659-3d2107bcb8b9"
 msgid "Combat Expertise"
-msgstr "전투 숙련"
+msgstr "전투 전문화"
 
 #. Mechanics/Blueprints/Feats/CraneStyle/CraneStyleBaseEffectBuff_m_DisplayName
 msgctxt "a4d860e3-fa6f-4b9b-9351-23e5fbae3069"
