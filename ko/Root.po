@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-30 02:07+0000\n"
+"PO-Revision-Date: 2020-06-30 04:07+0000\n"
 "Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/root/ko/>\n"
@@ -3899,7 +3899,7 @@ msgstr "능력치 피해"
 #. Mechanics/Blueprints/Root/AbilityModifierStrings_Entries.Array.data[31].Name
 msgctxt "a4e2e495-4bc1-4636-bd5a-6d5faecd1c4c"
 msgid "Ability drain"
-msgstr "능력치 고갈"
+msgstr "능력치 소진"
 
 #. Mechanics/Blueprints/Root/AbilityModifierStrings_Entries.Array.data[32].Name
 msgctxt "2ef8834d-4586-4bd2-bed4-97fbd017d4e0"
@@ -4842,7 +4842,7 @@ msgid ""
 " archdaemon of Abaddon. He is the lord of the River Styx, and the ferryman "
 "for lost souls."
 msgstr ""
-"케런은 아바돈의 오래된, 그리고 아마도 가장 강력한 아크다이몬입니다. 그는 죽음의 기수이자 스틱스 강의 주인이고, 길 잃은 영혼들의 "
+"케런은 나락의 오래된, 그리고 아마도 가장 강력한 아크다이몬입니다. 그는 죽음의 기수이자 스틱스 강의 주인이고, 길 잃은 영혼들의 "
 "뱃사공입니다."
 
 #. Mechanics/Blueprints/Root/Glossary Characters_Entries.Array.data[20].Name
@@ -5086,8 +5086,8 @@ msgid ""
 "Locusts, Apollyon sends forth plagues and diseases throughout the planes in "
 "an effort to increase his power above his fellow archdaemons."
 msgstr ""
-"어폴리언은 양머리를 한 역병의 기수로, 아바돈의 아주 강력한 아크다이몬입니다. 때때로 메뚜기의 왕자라 불리는 어폴리언은 동료 아크다이몬을"
-" 넘어서는 힘을 갖기 위해  차원 곳곳으로 재앙과 질병을 퍼뜨립니다."
+"어폴리언은 양머리를 한 역병의 기수로, 나락의 아주 강력한 아크다이몬입니다. 때때로 메뚜기의 왕자라 불리는 어폴리언은 동료 아크다이몬을 "
+"넘어서는 힘을 갖기 위해  차원 곳곳으로 재앙과 질병을 퍼뜨립니다."
 
 #. Mechanics/Blueprints/Root/Glossary Characters_Entries.Array.data[32].Name
 msgctxt "a843b25e-0690-4c44-b79e-b6b936efe5dc"
@@ -5664,13 +5664,13 @@ msgstr "당신은 발레리를 도와 자만디 알도리의 저택에서 일어
 #. 1_Entries.Array.data[101].Description
 msgctxt "0680810c-a9fd-4cfa-a60d-09e81dd6847c"
 msgid "You couldn't stop Tristian from escaping with the Oculus of Abaddon."
-msgstr "당신은 트리스티안이 아바돈의 눈을 가지고 도망치는 것을 막지 못했습니다."
+msgstr "당신은 트리스티안이 나락의 눈을 가지고 도망치는 것을 막지 못했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions
 #. 1_Entries.Array.data[102].Description
 msgctxt "2b37cb4c-7271-4938-b5b1-f0a3ec8a2b4a"
 msgid "You persuaded Tristian to destroy the Oculus of Abaddon."
-msgstr "당신은 트리스티안이 아바돈의 눈을 파괴하도록 설득하였습니다."
+msgstr "당신은 트리스티안이 나락의 눈을 파괴하도록 설득하였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions
 #. 1_Entries.Array.data[103].Description
@@ -8211,11 +8211,11 @@ msgid ""
 "other evil outsiders, and sadly the final destination for countless mortal "
 "souls."
 msgstr ""
-"지옥 차원은 다중우주 내 악한 질서의, 예속된 약자들이 강자를 섬김의, 완전한 복종의, 의심하지 않는 믿음의 궁극적 표상입니다. 지옥에서"
-" 고통은 심연처럼 제멋대로거나 무작위적이지도 않고, 아바돈처럼 순전히 가학적이고 악의적이지도 않습니다. 이곳에서 악과 복종은 더 큰 "
-"목적에 봉사하기 위해 면도날처럼 연마됩니다. 그것은 영혼의 의지를 꺾고, 그 존재 의의를 군주 아스모데우스의 영광과 그 완벽한 질서를 "
-"위하도록 왜곡시킵니다. 지옥은 각기 다른 아크데블이 지배하는 아홉 개의 층으로 뚜렷이 구분되어 있지만, 모두 아스모데우스에게 충성하고 "
-"있습니다. 무수한 데블과 다른 사악한 아웃사이더들의 고향이며, 슬프게도 수많은 필멸자들의 영혼의 종착지이기도 합니다."
+"지옥 차원은 다중우주 내 악한 질서의, 예속된 약자들이 강자를 섬김의, 완전한 복종의, 의심하지 않는 믿음의 궁극적 표상입니다. 지옥에서 "
+"고통은 심연처럼 제멋대로거나 무작위적이지도 않고, 나락처럼 순전히 가학적이고 악의적이지도 않습니다. 이곳에서 악과 복종은 더 큰 목적에 "
+"봉사하기 위해 면도날처럼 연마됩니다. 그것은 영혼의 의지를 꺾고, 그 존재 의의를 군주 아스모데우스의 영광과 그 완벽한 질서를 위하도록 "
+"왜곡시킵니다. 지옥은 각기 다른 아크데블이 지배하는 아홉 개의 층으로 뚜렷이 구분되어 있지만, 모두 아스모데우스에게 충성하고 있습니다. "
+"무수한 데블과 다른 사악한 아웃사이더들의 고향이며, 슬프게도 수많은 필멸자들의 영혼의 종착지이기도 합니다."
 
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[23].Name
 msgctxt "cee7746c-9051-4ff3-a69b-c78b3a24bb1c"
@@ -8264,10 +8264,10 @@ msgid ""
 " to be a dead god of healing, a rival patron of pestilence, or a protean "
 "lord of leviathan proportions dragged from the depths of the Maelstrom."
 msgstr ""
-"파리의 왕좌는 외부 차원 아바돈의 아크다이몬 어폴리언의 궁전 겸 요새에 놓여 있습니다. 이 어폴리언의 권좌는 어마어마하게 큰 시체의 뼈로"
-" 만들어진 거대한 기둥입니다. 영겁을 지난 내장으로 장식되어 그 거대한 크기 만큼이나 끔찍합니다. 이것의 정체는 아바돈이 지닌 여러 "
-"어두운 수수께끼들 중 하나이며, 죽은 치유의 신이라거나, 역병 군주의 자리를 놓고 싸운 경쟁자, 또는 메일스트롬의 깊숙한 곳에서 "
-"끌려들어온 레비아탄 크기의 프로티언 군주라고도 합니다."
+"파리의 왕좌는 외부 차원 나락의 아크다이몬 어폴리언의 궁전 겸 요새에 놓여 있습니다. 이 어폴리언의 권좌는 어마어마하게 큰 시체의 뼈로 "
+"만들어진 거대한 기둥입니다. 영겁을 지난 내장으로 장식되어 그 거대한 크기 만큼이나 끔찍합니다. 이것의 정체는 나락이 지닌 여러 어두운 "
+"수수께끼들 중 하나이며, 죽은 치유의 신이라거나, 역병 군주의 자리를 놓고 싸운 경쟁자, 또는 메일스트롬의 깊숙한 곳에서 끌려들어온 "
+"레비아탄 크기의 프로티언 군주라고도 합니다."
 
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[26].Name
 msgctxt "5c3abcba-3c20-4741-a455-cd01348cdc59"
@@ -13266,7 +13266,7 @@ msgstr ""
 "약점은 피해 감소량과 '/ '로 구분됩니다. 예를 들어, DR5 / 마법은 크리처가 마법 이외의 모든 무기로부터 5 점의 피해를 덜 "
 "받는다는 것을 의미합니다. —가 / 다음에 오는 경우 DR을 무시하는 공격을 제외한 모든 공격에 대해 피해를 줄입니다.\n"
 "피해 감소가 공격에 의한 피해를 완전히 무효화 할 때마다 부상, 독, 몽크의 경직권 및 상해 기반 질병과 같은 공격에 수반되는 대부분의 "
-"특수 효과도 무효화됩니다. 피해 감소는 접촉 공격, 공격과 관련된 에너지 피해 또는 에너지 고갈을 무효화하지 않습니다. 또한 흡입, 섭취 "
+"특수 효과도 무효화됩니다. 피해 감소는 접촉 공격, 공격과 관련된 에너지 피해 또는 에너지 소진을 무효화하지 않습니다. 또한 흡입, 섭취 "
 "또는 접촉에 의해 전달되는 독이나 질병에 영향을 미치지 않습니다. 피해가 대상의 DR에 의해 무효화 공격은 주문을 방해하지 않습니다. \n"
 "주문, 주문 유사 능력 및 에너지 공격은 (비마법적 화염 포함) 피해 감소를 무시합니다.\n"
 "한 크리처가 둘 이상의 경로로 피해 감소를 얻으면 두 가지 형태의 피해 감소는 중첩되지 않습니다. 대신, 크리처는 상황에 따라 더 나은 "
@@ -14176,11 +14176,11 @@ msgid ""
 "force effects, such as mage armor and bracers of armor."
 msgstr ""
 "어떤 공격은 방패와 자연 방어를 포함한 갑옷을 완전히 무시합니다. 이런 공격들은 단순히 대상과 접촉하기만 해도 효과가 발휘됩니다. 이 "
-"경우 공격자는 접촉 명중 굴림을 (원거리 또는 근접) 합니다. 접촉 공격의 대상이 될 때, 캐릭터의 AC에는 갑옷 보너스, 방패 보너스,"
-" 자연 방어 보너스가 적용되지 않습니다. 그러나 크기 수정치, 민첩 수정치, 굴절 보너스와 같은 다른 모든 수정치는 정상적으로 "
-"적용됩니다. 일부 크리처는 비실체 접촉 공격을 할 수 있습니다. 이러한 공격은 갑옷과 방패처럼 단단한 물체를 통과하여 뚫습니다. 비실체 "
-"접촉 공격은 정상적인 접촉 공격과 비슷하지만 은폐로 인한 보너스들도 무시합니다. 무형의 접촉 공격은 마법사의 갑옷 주문이나 방어의 팔 "
-"보호구와 같이 역장 효과로 인한 갑옷 보너스는 무시하지 못합니다."
+"경우 공격자는 접촉 명중 굴림을 (원거리 또는 근접) 합니다. 접촉 공격의 대상이 될 때, 캐릭터의 AC에는 갑옷 보너스, 방패 보너스, "
+"자연 방어 보너스가 적용되지 않습니다. 그러나 크기 수정치, 민첩 수정치, 굴절 보너스와 같은 다른 모든 수정치는 정상적으로 적용됩니다. "
+"일부 크리처는 비실체 접촉 공격을 할 수 있습니다. 이러한 공격은 갑옷과 방패처럼 단단한 물체를 통과하여 뚫습니다. 비실체 접촉 공격은 "
+"정상적인 접촉 공격과 비슷하지만 은폐로 인한 보너스들도 무시합니다. 무형의 접촉 공격은 마법사의 갑옷 주문이나 방어의 팔찌와 같이 역장 "
+"효과로 인한 갑옷 보너스는 무시하지 못합니다."
 
 #. Mechanics/Blueprints/Root/MechanicTerms_Entries.Array.data[8].Name_1
 msgctxt "91f1554a-2b6e-41c7-8177-c4a57b21c41f"
@@ -18536,7 +18536,7 @@ msgstr "문"
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.Drain
 msgctxt "d9126d6a-f080-4fb4-8625-d2296a131eab"
 msgid "drain"
-msgstr "고갈"
+msgstr "소진"
 
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.EncumbranceStatus.Array.data[0]
 msgctxt "940e4c2e-376d-407c-b28a-1f0b62b5e360"
@@ -21054,19 +21054,19 @@ msgstr "<b>{source}</b>: <b>{target}</b>의 일시적 음수 레벨을 <b>{count
 #. Mechanics/Blueprints/Root/GameLog/GameLog_EnergyDrainImmune.Message
 msgctxt "8106a3f7-1f4a-40d6-a554-d8c79ebe33ae"
 msgid "{target} is immune to energy drain."
-msgstr "<b>{target}</b>: 에너지 고갈에 면역."
+msgstr "<b>{target}</b>: 에너지 소진에 면역."
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_EnergyDrainPermanent.Message
 msgctxt "fdad0bca-6d1a-424c-9f40-1c190c69278a"
 msgid ""
 "{source} permanently drains {count} {count_form|level|levels} from {target}."
-msgstr "<b>{source}</b>: <b>{target}</b>의 레벨을 영구적으로 <b>{count} 레벨</b> 고갈."
+msgstr "<b>{source}</b>: <b>{target}</b>의 레벨을 영구적으로 <b>{count} 레벨</b> 소진."
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_EnergyDrainTemporary.Message
 msgctxt "e224c76b-8aec-4c6b-9065-6d130b5fb839"
 msgid ""
 "{source} temporarily drains {count} {count_form|level|levels} from {target}."
-msgstr "<b>{source}</b>: <b>{target}</b>의 레벨을 일시적으로 <b>{count} 레벨</b> 고갈."
+msgstr "<b>{source}</b>: <b>{target}</b>의 레벨을 일시적으로 <b>{count} 레벨</b> 소진."
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_Heal.Message
 msgctxt "8d066567-9749-4467-965e-e29f5867cc69"
@@ -21376,15 +21376,14 @@ msgid ""
 "<b>{target}</b> suffered <b>{count} {description}</b> drain from "
 "<b>{source}</b>."
 msgstr ""
-"<b>{target}</b>(이)가 <b>{source}</b>(으)로부터 <b>{count} {description}</b> 고갈 "
-"당함."
+"<b>{target}</b>(이)가 <b>{source}</b>(으)로부터 <b>{count} {description}</b> 소진 당함."
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_StatDrain.MessageWithUnknownSource
 msgctxt "5a58f84c-4d0a-4ff7-bb03-6d28a527b31f"
 msgid ""
 "<b>{target}</b> suffered <b>{count} {description}</b> drain from unknown "
 "source."
-msgstr "<b>{target}</b>(이)가 알 수 없는 대상에게 <b>{count} {description}</b> 고갈 당함."
+msgstr "<b>{target}</b>(이)가 알 수 없는 대상에게 <b>{count} {description}</b> 소진 당함."
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_ThieveryMissing.Message
 msgctxt "51db536c-91f8-467b-bc49-ed99468d45ae"
@@ -22502,7 +22501,7 @@ msgstr "매력 피해"
 #. Mechanics/Blueprints/Root/SystemMechanics/Conditions/CharismaDrain_m_DisplayName
 msgctxt "e78817a2-28a6-485c-97aa-d5d693d6d53f"
 msgid "Charisma Drain"
-msgstr "매력 고갈"
+msgstr "매력 소진"
 
 #. Mechanics/Blueprints/Root/SystemMechanics/Conditions/ConstitutionDamage_m_DisplayName
 msgctxt "d1008821-cb27-4f88-8dc5-6b2734e40c93"
@@ -22512,7 +22511,7 @@ msgstr "건강 피해"
 #. Mechanics/Blueprints/Root/SystemMechanics/Conditions/ConstitutionDrain_m_DisplayName
 msgctxt "174903d1-bef9-4ed5-851c-2e12d1828f39"
 msgid "Constitution Drain"
-msgstr "건강 고갈"
+msgstr "건강 소진"
 
 #. Mechanics/Blueprints/Root/SystemMechanics/Conditions/CrippledIndicatorBuff_m_Description
 msgctxt "cd8a5651-f308-4063-8984-757459a7e888"
@@ -22538,7 +22537,7 @@ msgstr "민첩 피해"
 #. Mechanics/Blueprints/Root/SystemMechanics/Conditions/DexterityDrain_m_DisplayName
 msgctxt "d26aeb15-cdb9-469a-aea9-f0bc1e29afd6"
 msgid "Dexterity Drain"
-msgstr "민첩 고갈"
+msgstr "민첩 소진"
 
 #. Mechanics/Blueprints/Root/SystemMechanics/Conditions/DirtyTrickEntangledBuff_m_Description
 msgctxt "271f7241-b1a9-4883-bd95-8950c693635c"
@@ -22615,7 +22614,7 @@ msgstr "지능 피해"
 #. Mechanics/Blueprints/Root/SystemMechanics/Conditions/IntelligenceDrain_m_DisplayName
 msgctxt "e3415773-430d-4fc4-976f-8238ffa011a9"
 msgid "Intelligence Drain"
-msgstr "지능 고갈"
+msgstr "지능 소진"
 
 #. Mechanics/Blueprints/Root/SystemMechanics/Conditions/NegativeLevelsBuff_m_Description
 msgctxt "6ee2a1f8-32eb-430a-98a7-452bddcfe50b"
@@ -22691,7 +22690,7 @@ msgstr "힘 피해"
 #. Mechanics/Blueprints/Root/SystemMechanics/Conditions/StrengthDrain_m_DisplayName
 msgctxt "ba3a591f-e1b2-45e8-86c6-a38ce93de017"
 msgid "Strength Drain"
-msgstr "힘 고갈"
+msgstr "힘 소진"
 
 #. Mechanics/Blueprints/Root/SystemMechanics/Conditions/StunnedBuff_m_DisplayName
 msgctxt "0409c24d-2faa-453b-bfc6-de2c1fcca08b"
@@ -22726,4 +22725,4 @@ msgstr "지혜 피해"
 #. Mechanics/Blueprints/Root/SystemMechanics/Conditions/WisdomDrain_m_DisplayName
 msgctxt "2011fc6f-89e8-416d-aa5a-7ecdb595ba4b"
 msgid "Wisdom Drain"
-msgstr "지혜 고갈"
+msgstr "지혜 소진"
