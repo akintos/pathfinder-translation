@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-30 04:07+0000\n"
+"PO-Revision-Date: 2020-07-01 05:07+0000\n"
 "Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/items/ko/>\n"
@@ -2175,7 +2175,7 @@ msgctxt "0ddbbadd-cbbe-4ce7-ad3a-a6c2c605c735"
 msgid ""
 "This +3 chainshirt grants its wearer a +2 bonus on saving throws against "
 "spells with death descriptor."
-msgstr "이 +3 사슬조끼는 착용자에게 죽음 서술어를 포함한 주문에 대한 내성 굴림에 +2 보너스를 제공합니다."
+msgstr "이 +3 사슬조끼는 착용자에게 죽음 기술어를 포함한 주문에 대한 내성 굴림에 +2 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/TotalPlus4/Chainshirt2THAgainstDeathPlus3_m_DisplayNameText
 msgctxt "2f285556-12f7-4b9e-b83e-513b3c5c5663"
@@ -5300,23 +5300,19 @@ msgstr "이 망토는 착용자에게 매력에 +8 강화 보너스와 하루에
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/ShroudOfEternalMadness_m_DisplayNameText
 msgctxt "baf11e7b-4c35-43ef-b6b9-4364d8bf7d1a"
 msgid "Strigoi's Embrace"
-msgstr ""
+msgstr "스트리고이의 포옹"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/WarmEmbrace_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This cloak grants its wearer cold resistance 10 and the ability to cast deep"
-#| " slumber spell one per day."
 msgctxt "6fe2286e-e4fc-4476-984d-b2aebe2c86e4"
 msgid ""
 "This cloak grants its wearer cold resistance 10 and the ability to cast deep"
 " slumber spell one per day as a 5th level wizard."
-msgstr "이 망토는 착용자에게 냉기 저항 10과 하루에 한 번 깊은 잠 주문 시전 능력을 제공합니다."
+msgstr "이 망토는 착용자에게 냉기 저항 10과 하루에 한 번 5레벨 위저드의 깊은 잠 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/WarmEmbrace_m_DisplayNameText
 msgctxt "7b420284-23f7-4f6f-8610-5d84553b0145"
 msgid "Warm Embrace"
-msgstr ""
+msgstr "따뜻한 포옹"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/DLC2/CloakOfTheLion_DescriptionText_String
 msgctxt "1a199cc7-a9b6-49ec-b1e4-be1092b330b9"
@@ -5327,18 +5323,21 @@ msgid ""
 "to grant all allies in the range of 20 feet immunity to fear effects for the"
 " number of rounds equal to the wearer's paladin level."
 msgstr ""
+"이 망토는 착용자의 모든 내성 굴림에 +3 저항 보너스를 줍니다. 착용자가 질서 선이면 이 보너스는 +5로 증가합니다. 착용자가 "
+"팔라딘이라면 악 처단을 하나 소모하여 팔라딘 레벨 만큼의 라운드 동안 20피트 내의 모든 아군에게 공포 효과에 대한 면역을 부여할 수 "
+"있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/DLC2/CloakOfTheLion_DisplayNameText_String
 msgctxt "575018a9-05c8-45d4-a7b7-29c78ae56841"
 msgid "Cloak of the Lion"
-msgstr ""
+msgstr "사자의 망토"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/DLC2/CloakOfTheLion_m_FlavorText
 msgctxt "0dd20019-bd08-41f5-9c5e-8729324f8e48"
 msgid ""
 "A knight's motto is embroider on the underlay: \"She, Who Casts Off Her "
 "Fear, Disarms The Evil.\""
-msgstr ""
+msgstr "기사의 신조가 밑단에 수놓아져 있습니다. \"공포를 벗어던지는 자, 악의 무기를 빼앗은 것이니\""
 
 #. Mechanics/Blueprints/Equipment/Cloaks/DLC3/RovagugSpawnCloakCorruptAbility_m_Description
 msgctxt "654aa4b5-4697-4485-9d17-5f6e133670e1"
@@ -5348,16 +5347,18 @@ msgid ""
 "spell effect, rage, feeblemind, phantasmal putrefaction, domination. A "
 "successful Will save (DC 30) negates the effect."
 msgstr ""
+"거친 야수의 부패는 100피트 내의 모든 적에게 1d6+1 라운드 동안 다음 효과를 적용합니다: 혼란, 불화의 노래 주문 효과, 격노, "
+"정신박약, 환영 부패, 지배. DC 30 의지 내성에 성공하면 효과를 무시합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/DLC3/RovagugSpawnCloakCorruptAbility_m_DisplayName
 msgctxt "3498c593-031a-49bf-a602-bb4802c14b32"
 msgid "Corruption of the Rough Beast"
-msgstr ""
+msgstr "거친 야수의 부패"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/DLC3/RovagugSpawnCloakItem_DisplayNameText_String
 msgctxt "3358f9c3-10ea-4c75-a20b-b8bdb0a7c653"
 msgid "Skin of the Rough Beast"
-msgstr ""
+msgstr "거친 야수의 가죽"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/DLC3/RovagugSpawnCloakItem_m_DescriptionText
 msgctxt "1535a772-2bd1-442b-8017-706e532e4f5a"
@@ -5365,6 +5366,10 @@ msgid ""
 "This cloak grants its wearer 50% of Fortification (providing a 50% chance to negate a critical hit or a sneak attack extra damage) and immunity to confusion, fear, paralysis and insanity. It also imbues the wearer with the powers of the Spawn of Rovagug allowing to use the Corruption of the Rough Beast ability three times per day.\n"
 "Corruption of the Rough Beast applies one of the following effects to all enemies within 100 feet radius for 1d6+1 rounds: confusion, song of discord spell effect, rage, feeblemind, phantasmal putrefaction, domination. A successful Will save (DC 30) negates the effect."
 msgstr ""
+"이 망토는 착용자에게 50%의 방비 (50% 확률로 치명타와 암습의 추가 피해를 무시) 효과와 혼란, 공포, 마비, 광기에 면역을 "
+"줍니다. 또한 착용자에게 로바거그의 자식의 힘을 부여하여 거친 야수의 부패 능력을 하루에 세 번 쓸 수 있게 해줍니다.\n"
+"거친 야수의 부패는 100피트 내의 모든 적에게 1d6+1 라운드 동안 다음 효과를 적용합니다: 혼란, 불화의 노래 주문 효과, 격노, "
+"정신박약, 환영 부패, 지배. DC 30 의지 내성에 성공하면 효과를 무시합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/DLC3/RovagugSpawnCloakItem_m_FlavorText
 msgctxt "f27b3d56-52b8-4f5a-bb5a-eb72970d8765"
@@ -5372,6 +5377,7 @@ msgid ""
 "The most hideous, yet enthralling trophy. Quiet whispers balancing on the "
 "verge of comprehension invade the thoughts of the one who dares to touch it."
 msgstr ""
+"가장 끔찍하지면서도 매혹적인 트로피입니다. 이해의 경계를 넘나드는 조용한 속삭임이 감히 그것을 만지는 사람의 생각으로 파고듭니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/LateChapters/BlackFurCloakItem_m_DescriptionText
 msgctxt "8e1d0cb3-7014-4536-b8f6-d3b5d4d5a139"
@@ -5383,14 +5389,14 @@ msgstr "이 망토는 착용자에게 모든 은신 판정에 +10 능숙 보너�
 #. Mechanics/Blueprints/Equipment/Cloaks/LateChapters/BlackFurCloakItem_m_DisplayNameText
 msgctxt "b5f1fd7e-7d08-43d0-86d4-e7a0a3d50655"
 msgid "Black Fur Cloak"
-msgstr ""
+msgstr "검은 모피 망토"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/LateChapters/BlackFurCloakItem_m_FlavorText
 msgctxt "abb44b69-39a7-457b-88ab-9266b9394e3e"
 msgid ""
 "The unknown creature's fur on this cloak is warm, and dark like a starless "
 "night."
-msgstr ""
+msgstr "알 수 없는 크리처의 모피로 만든 이 망토는 따뜻하고, 별 하나 없는 밤처럼 깜깜합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/LateChapters/BlackKnightCloakItem_m_DescriptionText
 msgctxt "dacd8679-c595-40b9-a043-ac16d9fecd08"
@@ -5401,19 +5407,19 @@ msgid ""
 " targets. Can be used only by characters of evil alignment."
 msgstr ""
 "이 망토는 착용자에게 AC +4 굴절 보너스, 모든 내성 +4 저항 보너스, 위협시 설득 기술 판정에 +4 강화 보너스와 동요된 표적에 "
-"대한 공격 및 피해 굴림에 +2 보너스를 제공합니다. 악 성향의 캐릭터만이 사용 할 수 있습니다."
+"대한 명중 및 피해 굴림에 +2 보너스를 제공합니다. 악 성향의 캐릭터만이 사용 할 수 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/LateChapters/BlackKnightCloakItem_m_DisplayNameText
 msgctxt "dd412839-d044-4e94-af51-3e0085046595"
 msgid "Castigator's Cloak"
-msgstr ""
+msgstr "징벌자의 망토"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/LateChapters/BlackKnightCloakItem_m_FlavorText
 msgctxt "685fefb6-64d3-4a96-87dd-edd9a8350d6d"
 msgid ""
 "On the underlay, a motto is embroidered: \"Anguish Sows Fear, Fear Sprouts "
 "Virtue\"."
-msgstr ""
+msgstr "밑단에 경구가 수놓아져 있습니다. \"고통은 두려움을 뿌리고, 두려움에서 미덕이 싹튼다\"."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/LateChapters/CloakOfTheBearItem_m_DescriptionText
 msgctxt "3d97e51d-c82b-4dd3-bf71-872222a2aef9"
@@ -5425,24 +5431,24 @@ msgstr "이 망토는 착용자에게 모든 내성 굴림 +4 저항 보너스�
 #. Mechanics/Blueprints/Equipment/Cloaks/LateChapters/CloakOfTheBearItem_m_DisplayNameText
 msgctxt "dac70ecb-d59f-43fe-a8d3-df5f4ea62c51"
 msgid "Cloak of the Bear"
-msgstr ""
+msgstr "곰의 망토"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/LateChapters/CloakOfTheWinterWolfItem_m_DescriptionText
 msgctxt "87ab763e-43d5-4734-ae1c-7985ebe12dbc"
 msgid ""
 "Whenever the wearer of this cloak makes a successful bite attack, it deals "
 "additional 1d6 cold damages and trips the target."
-msgstr ""
+msgstr "착용자가 물기 공격을 명중시키면, 1d6 냉기 피해를 추가하고 대상에게 넘어뜨리기 전법을 시도합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/LateChapters/CloakOfTheWinterWolfItem_m_DisplayNameText
 msgctxt "27c02b3d-6480-4ef6-af47-b3708d209562"
 msgid "Cloak of the Winter Wolf"
-msgstr ""
+msgstr "겨울 늑대의 망토"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/LateChapters/CloakOfTheWinterWolfItem_m_FlavorText
 msgctxt "57eb208a-6340-4f52-af66-7c9af362bb6b"
 msgid "The fur on this cloak retains the beast's primal ferocity."
-msgstr ""
+msgstr "이 망토의 모피는 그 짐승의 원시적인 흉포함을 간직하고 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/LateChapters/GrimMantleItem_m_DescriptionText
 msgctxt "932fd60a-6c2e-45d2-856f-4dfd6cec2c16"
@@ -5452,12 +5458,6 @@ msgid ""
 msgstr "이 망토는 착용자에게 모든 내성 굴림 +5 저항 보너스와 독 면역을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/LateChapters/WhiteKnightCloakItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This cloak grants its wearer a +4 deflection bonus to 4 AC, a +4 resistance "
-#| "bonus on all saving throws, a +4 enhancement bonus to Persuasion skill "
-#| "checks and +1 bonus to AC against evil-aligned creatures' attacks. This "
-#| "cloak can be worn only by good characters."
 msgctxt "5fa22759-57fe-4d2f-9407-efb36a1b2fca"
 msgid ""
 "This cloak grants its wearer a +4 deflection bonus to AC, a +4 resistance "
@@ -5465,13 +5465,13 @@ msgid ""
 "checks and +1 bonus to AC against evil-aligned creatures' attacks. This "
 "cloak can be worn only by good characters."
 msgstr ""
-"이 망토는 착용자에게 AC +4 굴절 보너스, 모든 내성 굴림 +4 저항 보너스, 설득 기술 판정에 +4 강화 보너스와 악 성향 크리처의"
-" 공격에 대한 AC에 +1 보너스를 제공합니다. 이 망토는 선 성향 캐릭터만 착용가능합니다. "
+"이 망토는 착용자에게 AC에 +4 굴절 보너스, 모든 내성 굴림에 +4 저항 보너스, 설득 기술 판정에 +4 강화 보너스와 악 성향 "
+"크리처의 공격에 대한 AC에 +1 보너스를 제공합니다. 이 망토는 선 성향 캐릭터만 착용가능합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/LateChapters/WhiteKnightCloakItem_m_DisplayNameText
 msgctxt "13282ad0-660e-40fa-885f-fe6c5a8e0011"
 msgid "Absolver's Cloak"
-msgstr ""
+msgstr "면죄자의 망토"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/LateChapters/WhiteKnightCloakItem_m_FlavorText
 msgctxt "98df581b-4b7c-4755-b67e-704a936bacdd"
@@ -5480,21 +5480,23 @@ msgid ""
 "Coercion. Virtue With No Love Is Mere Arrogance. Power With No Love Is Mere "
 "Tyranny.\""
 msgstr ""
+"밑단에 경구가 수놓아져 있습니다. \"사랑이 없는 정의는 강요에 불과하다. 사랑이 없는 미덕은 오만에 불과하다. 사랑이 없는 권력은 "
+"폭정에 불과하다.\""
 
 #. Mechanics/Blueprints/Equipment/Cloaks/SoulsCloak/SoulsCloakCurseBuff_m_DisplayName
 msgctxt "66059ca9-cd71-4469-8777-727bb847f6db"
 msgid "Cursed Cloak"
-msgstr ""
+msgstr "저주받은 망토"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/SoulsCloak/SoulsCloakVampiricTouchBuff_m_DisplayName
 msgctxt "e5da9943-3d82-4900-b0d0-0afd0763c513"
 msgid "Vampiric Touch (Temporary HP)"
-msgstr ""
+msgstr "흡혈의 손길 (임시 HP)"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/SoulsCloak/SoulsCloakVampiricTouchCast_LocalizedDuration
 msgctxt "0a70add9-82e7-4621-9a3b-484921666483"
 msgid "Temporary hit points last 1 hour"
-msgstr ""
+msgstr "1시간 지속되는 임시 생명점"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/SoulsCloak/SoulsCloakVampiricTouchCast_m_Description
 msgctxt "bdc37627-bffd-40c8-8105-9d324bb09daa"
@@ -5507,18 +5509,17 @@ msgid ""
 msgstr ""
 "근접 접촉 공격에 성공할 경우 2 개의 시전자 레벨 당 1d6점 (최대 10d6)의 피해를 입힙니다. 그리고 이 피해와 동일한 임시 "
 "생명점을 얻습니다. 이 수치는 대상의 현재 생명점 + 대상의 건강 수치(대상이 죽기에 충분한 양)를 초과할 수 없습니다. 일시 생명점은 "
-"1 시간 후에 소실됩니다.( 예: 생명점 20, 건강 10의 대상에게 이 주문을 통해 60점의 피해를 주어도 임시 생명점은 30만 얻을 "
-"수 있습니다.)"
+"1 시간 후에 소실됩니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/SoulsCloak/SoulsCloakVampiricTouchCast_m_DisplayName
 msgctxt "32da143a-05b5-4a5c-8564-198c1961116b"
 msgid "Vampiric Touch"
-msgstr ""
+msgstr "흡혈의 손길"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/SoulsCloak/SoulsCloakVampiricTouch_LocalizedDuration
 msgctxt "3c92df80-ffbc-4a57-bc4a-1a2a2a11fe4e"
 msgid "Temporary hit points last 1 hour"
-msgstr ""
+msgstr "1시간 지속되는 임시 생명점"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/SoulsCloak/SoulsCloakVampiricTouch_m_Description
 msgctxt "d96009f2-e02b-4637-bbe3-cd4976d23f74"
@@ -5532,50 +5533,49 @@ msgid ""
 msgstr ""
 "근접 접촉 공격에 성공할 경우 2 개의 시전자 레벨 당 1d6점 (최대 10d6)의 피해를 입힙니다. 그리고 이 피해와 동일한 임시 "
 "생명점을 얻습니다. 이 수치는 대상의 현재 생명점 + 대상의 건강 수치(대상이 죽기에 충분한 양)를 초과할 수 "
-"없습니다.[LONGSTART] 일시 생명점은 1 시간 후에 소실됩니다.( 예: 생명점 20, 건강 10의 대상에게 이 주문을 통해 "
-"60점의 피해를 주어도 임시 생명점은 30만 얻을 수 있습니다.)[LONGEND]"
+"없습니다.[LONGSTART] 일시 생명점은 1 시간 후에 소실됩니다.[LONGEND]"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/SoulsCloak/SoulsCloakVampiricTouch_m_DisplayName
 msgctxt "8b6bc78d-7638-4ddf-98b9-f2502dbbb661"
 msgid "Vampiric Touch"
-msgstr ""
+msgstr "흡혈의 손길"
 
 #. Mechanics/Blueprints/Equipment/CommonEnchantments/ColdResistance10Enchantment_m_EnchantName
 msgctxt "346e0bff-bd0d-4a33-b566-97a7ee0c6c6d"
 msgid "Cold Resistance 10"
-msgstr ""
+msgstr "냉기 저항 10"
 
 #. Mechanics/Blueprints/Equipment/CommonEnchantments/ColdResistance15Enchantment_m_EnchantName
 msgctxt "8c18057f-f9fb-4987-b10d-ac7ad08622f1"
 msgid "Cold Resistance 15"
-msgstr ""
+msgstr "냉기 저항 15"
 
 #. Mechanics/Blueprints/Equipment/CommonEnchantments/ColdResistance25Enchantment_m_EnchantName
 msgctxt "923f76c5-23b1-4059-a936-6af99b2de6ce"
 msgid "Cold Resistance 25"
-msgstr ""
+msgstr "냉기 저항 25"
 
 #. Mechanics/Blueprints/Equipment/CommonEnchantments/ElementalResistance15Enchantment_m_EnchantName
 msgctxt "7a150384-3393-4dbb-b5cf-dcd3215e3949"
 msgid "Elemental Resistance 10"
-msgstr ""
+msgstr "원소 저항 10"
 
 #. Mechanics/Blueprints/Equipment/Gloves/GlovesOfDeathDealer_m_DescriptionText
 msgctxt "ce7c0891-4388-45dc-b64a-67dc5201947c"
 msgid ""
 "When the wearer of these gloves makes a sneak attack, it deals additional "
 "1d6 damage."
-msgstr "이 장갑의 착용자가 암습을 시도하면, 추가적인 1d6 피해를 입힌다."
+msgstr "이 장갑의 착용자가 암습을 시도하면, 1d6 피해를 추가로 입힙니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/GlovesOfDeathDealer_m_DisplayNameText
 msgctxt "0be073f6-adfd-4584-ae69-fd4fb28e6ba5"
 msgid "Gloves of Deathdealer"
-msgstr ""
+msgstr "살인청부업자의 장갑"
 
 #. Mechanics/Blueprints/Equipment/Gloves/GlovesOfDeathDealer_m_FlavorText
 msgctxt "2902909e-c030-4c04-ae50-1913f6cb9ce5"
 msgid "Fingers of these gloves are covered in dark substance."
-msgstr ""
+msgstr "이 장갑의 손가락은 어두운 물질로 덮여 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/GlovesOfDexterityItem_m_DescriptionText
 msgctxt "e9ca156b-aeac-4002-9fd9-7831ecd49de9"
@@ -5587,7 +5587,7 @@ msgstr "이 장갑은 착용자의 민첩에 +2 강화 보너스를 제공합니
 #. Mechanics/Blueprints/Equipment/Gloves/GlovesOfDexterityItem_m_DisplayNameText
 msgctxt "26a43df2-3591-469e-8a13-4a77a7d0fd2f"
 msgid "Gloves of Dexterity +2"
-msgstr ""
+msgstr "민첩의 장갑 +2"
 
 #. Mechanics/Blueprints/Equipment/Gloves/GlovesOfDuelingLesserItem_m_DescriptionText
 msgctxt "cc7853dc-50d0-490c-a9b6-2a4581500952"
@@ -5596,13 +5596,13 @@ msgid ""
 "If the wearer has the Weapon Training ability and is wielding a weapon it "
 "gives a bonus to, that bonus increases by +1."
 msgstr ""
-"이 장갑은 착용자가 상대방에게 무장 해체를 시도시 CMD에 +1 보너스를 제공합니다. 만약 무기 훈련 능력이 적용되는 무기를 사용하면 "
+"이 장갑은 착용자가 상대방에게 무장 해제를 시도시 CMD에 +1 보너스를 제공합니다. 만약 무기 훈련 능력이 적용되는 무기를 사용하면 "
 "해당 보너스가 +1 증가합니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/GlovesOfDuelingLesserItem_m_DisplayNameText
 msgctxt "b1bcf442-8ce8-4f29-8f9f-c879e9879cd0"
 msgid "Lesser Gloves of Dueling"
-msgstr ""
+msgstr "하급 결투의 장갑"
 
 #. Mechanics/Blueprints/Equipment/Gloves/GlovesOfDuelingNormalItem_m_DescriptionText
 msgctxt "9993b56b-7580-4546-aaf5-96e4e688989f"
@@ -5611,19 +5611,15 @@ msgid ""
 "If the wearer has the Weapon Training ability and is wielding a weapon it "
 "gives a bonus to, that bonus increases by +2."
 msgstr ""
-"이 장갑은 착용자가 상대방에게 무장 해체를 시도시 CMD에 +4 보너스를 제공합니다. 만약 무기 훈련 능력이 적용되는 무기를 사용하면 "
+"이 장갑은 착용자가 상대방에게 무장 해제를 시도시 CMD에 +4 보너스를 제공합니다. 만약 무기 훈련 능력이 적용되는 무기를 사용하면 "
 "해당 보너스가 +2 증가합니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/GlovesOfDuelingNormalItem_m_DisplayNameText
 msgctxt "ad648d03-1250-40ad-b6d5-9aad5a932b7f"
 msgid "Gloves of Dueling"
-msgstr ""
+msgstr "결투의 장갑"
 
 #. Mechanics/Blueprints/Equipment/Gloves/GlovesOfFirmGripItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "These gloves grant the wearer +3 competence bonus on Mobility and Athletics "
-#| "skill checks."
 msgctxt "b91ed13f-6678-4c97-b16e-381e9017be3c"
 msgid ""
 "These gloves grant the wearer +3 competence bonus on all Mobility and "
@@ -5633,7 +5629,7 @@ msgstr "이 장갑은 착용자의 운동과 기동성 기술 판정에 +3 능�
 #. Mechanics/Blueprints/Equipment/Gloves/GlovesOfFirmGripItem_m_DisplayNameText
 msgctxt "d1a9f96d-95c1-4287-830c-748ec4a7697e"
 msgid "Athlete's Gloves"
-msgstr ""
+msgstr "운동선수의 장갑"
 
 #. Mechanics/Blueprints/Equipment/Gloves/GlovesOfPreciseShotItem_m_DescriptionText
 msgctxt "a7e7b953-5628-443c-a85c-65654c06507b"
@@ -5645,21 +5641,19 @@ msgstr "이 장갑은 착용자가 사용하는 원거리 무기 명중 굴림�
 #. Mechanics/Blueprints/Equipment/Gloves/GlovesOfPreciseShotItem_m_DisplayNameText
 msgctxt "47a711b9-1fd8-4858-9c7f-3601ae7cdc03"
 msgid "Gloves Of Precise Shot"
-msgstr ""
+msgstr "정밀 사격의 장갑"
 
 #. Mechanics/Blueprints/Equipment/Gloves/GlovesOfProtectionFromUndeadItem_m_DescriptionText
-#, fuzzy
-#| msgid "These gloves grant the wearer +3 morale bonus against Undead."
 msgctxt "d6512286-ed09-45ae-8f94-061f69e42735"
 msgid ""
 "These gloves grant their wearer a +3 morale bonus to AC against the attacks "
 "of Undead creatures."
-msgstr "이 장갑은 착용자에게 언대드에 대항시 +3 사기 보너스를 제공합니다."
+msgstr "이 장갑은 착용자에게 언데드의 공격에 대한 AC에 +3 사기 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/GlovesOfProtectionFromUndeadItem_m_DisplayNameText
 msgctxt "5dd1e701-132e-47ce-b237-1a97fbe681f6"
 msgid "Undertaker's Gloves"
-msgstr ""
+msgstr "장의사의 장갑"
 
 #. Mechanics/Blueprints/Equipment/Gloves/GlovesOfTheScribeItem_m_DescriptionText
 msgctxt "74581acd-9ccc-4cd2-be33-12b08f95d475"
@@ -5674,13 +5668,9 @@ msgstr ""
 #. Mechanics/Blueprints/Equipment/Gloves/GlovesOfTheScribeItem_m_DisplayNameText
 msgctxt "1777442e-3dc9-4f8e-b244-dee1ffe54861"
 msgid "Gloves of the Scribe"
-msgstr ""
+msgstr "서기의 장갑"
 
 #. Mechanics/Blueprints/Equipment/Gloves/GlovesOfUseMagiDevicesItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "These gloves grant their wearer a +5 competence bonus on all Use Magical "
-#| "Device skill checks."
 msgctxt "4d6ed7c4-058d-4e6e-807b-981255781719"
 msgid ""
 "These gloves grant their wearer a +5 competence bonus on all Use Magic "
@@ -5688,11 +5678,9 @@ msgid ""
 msgstr "이 장갑은 착용자에게 마법 도구 사용 기술 판정시 +5 능숙 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/GlovesOfUseMagiDevicesItem_m_DisplayNameText
-#, fuzzy
-#| msgid "Professional's Gloves"
 msgctxt "1da0494e-09b4-4bff-87b1-61d6d2bc407d"
 msgid "Master Hand"
-msgstr "전문가의 장갑"
+msgstr "대가의 장갑"
 
 #. Mechanics/Blueprints/Equipment/Gloves/TrapspringerGloves_m_DescriptionText
 msgctxt "e2c6c0bb-b84b-44f3-a0ab-0c5638d6f008"
@@ -5704,22 +5692,22 @@ msgstr "이 장갑은 착용자에게 모든 손재주 기술 판정시 +5 능�
 #. Mechanics/Blueprints/Equipment/Gloves/TrapspringerGloves_m_DisplayNameText
 msgctxt "0897fc12-a058-4f52-bd36-499f82f18256"
 msgid "Trapspringer's Gloves"
-msgstr ""
+msgstr "함정해제가의 장갑"
 
 #. Mechanics/Blueprints/Equipment/Gloves/TrapspringerGloves_m_FlavorText
 msgctxt "927acdcb-1bbd-4ecf-a6bd-eb79255989e5"
 msgid "Loops for delicate tools are attached to the backside of the gloves."
-msgstr ""
+msgstr "장갑 뒤쪽에 섬세한 공구를 걸어두는 고리가 부착되어 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artifact_StarGauntlet/Artifact_StarGauntletItem_m_DisplayNameText
 msgctxt "78c9ecda-a49e-42ab-a22d-0a8d65933120"
 msgid "Star Soldier's Gauntlet"
-msgstr ""
+msgstr "스타 솔저의 건틀렛"
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artifact_StarGauntlet/Artifact_StarGauntletRay_m_Description
 msgctxt "31a2c2af-7b5c-4551-b735-95231ca10d7c"
 msgid "Deals 4d6 damage."
-msgstr ""
+msgstr "4d6 피해를 입힙니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artifact_StarGauntlet/Artifact_StarGauntletRay_m_DisplayName
 msgctxt "a0d5822e-249b-4997-bb27-ad80b4f357ec"
@@ -5727,142 +5715,115 @@ msgid "Laser Beam"
 msgstr "레이저 빔"
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/TrickstersGloves_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "These gloves grant their wearer a +5 luck bonus on Mobility checks and the "
-#| "ability to cast cloak of dreams spell once per day."
 msgctxt "619f9fc6-1951-462a-ac4f-c00406877178"
 msgid ""
 "These gloves grant their wearer a +5 luck bonus on Mobility checks and the "
 "ability to cast cloak of dreams spell once per day as a 14th level wizard."
-msgstr "이 장갑은 착용자에게 기동성 판정시 +5 행운 보너스와 하루에 한 번 꿈의 망토 주문 시전 능력을 제공합니다."
+msgstr "이 장갑은 착용자에게 기동성 판정시 +5 행운 보너스와 하루에 한 번 14레벨 위저드의 꿈의 망토 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/TrickstersGloves_m_DisplayNameText
 msgctxt "1a56ef27-64d6-411a-a646-d4ab6ba11fa3"
 msgid "Trickster's Gloves"
-msgstr ""
+msgstr "장난꾸러기의 장갑"
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/TrickstersGloves_m_FlavorText
 msgctxt "4b650897-459a-4607-a2b0-29344dd377b6"
 msgid ""
 "The back of these gloves is covered in sparkling dust that looks like "
 "diamond crumbs."
-msgstr ""
+msgstr "이 장갑의 뒷면은 다이아몬드 부스러기처럼 보이는 반짝이는 먼지로 덮여 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/ElfFemaleLeatherworker/BlessedHandsGlovesItem_m_DescriptionText
 msgctxt "151604e1-c28a-4b0c-8e90-a875a9989a1e"
 msgid ""
 "These gloves adds +4 to the wearer's caster level when they cast any cure "
 "spell."
-msgstr "이 장갑의 착용자는 모든 치료 주문을 시전할 때 시전자 레벨 +4 더합니다."
+msgstr "이 장갑의 착용자는 모든 치료 주문을 시전할 때 시전자 레벨에 +4를 더합니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/ElfFemaleLeatherworker/BlessedHandsGlovesItem_m_DisplayNameText
 msgctxt "59f8fee7-afef-4117-aff4-bd67303ee65a"
 msgid "Blessed Hands"
-msgstr ""
+msgstr "축복받은 손"
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/ElfFemaleLeatherworker/CheatSheetGlovesItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "These gloves grant their wearer a +5 luck bonus to Lore (Nature), Lore "
-#| "(Religion), Knowledge (World) and Knowledge (Arcane) skill checks."
 msgctxt "b6fa9aa7-168e-44dc-9ba0-8375c3058c1c"
 msgid ""
 "These gloves grant their wearer a +5 luck bonus to Lore (Nature), Lore "
 "(Religion), Knowledge (World) and Knowledge (Arcana) skill checks."
-msgstr "이 잡갑은 착용자에게 전승(자연), 전승(종교), 지식(세계)와 지식(비전) 기술 판정시 +5 행운 보너스를 제공합니다."
+msgstr "이 장갑은 착용자에게 전승(자연), 전승(종교), 지식(세계)와 지식(비전) 기술 판정시 +5 행운 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/ElfFemaleLeatherworker/CheatSheetGlovesItem_m_DisplayNameText
 msgctxt "ea20e5a5-fbfd-4849-b5ea-55b1d753ae4d"
 msgid "Cheatsheet Gloves"
-msgstr ""
+msgstr "컨닝페이퍼 장갑"
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/ElfFemaleLeatherworker/RoyalGlovesOfValorItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "These gloves grant their wearer a +6 enhancement bonus to Charisma and the "
-#| "ability to cast greater heroism three times per day."
 msgctxt "db88a797-b153-4048-8524-33713aaac9db"
 msgid ""
 "These gloves grant their wearer a +6 enhancement bonus to Charisma and the "
 "ability to cast greater heroism three times per day as a 11th level wizard."
-msgstr "이 장갑은 착용자에게 매력에 +6 강화 보너스와 하루에 세 번 상급 영웅심 시전 능력을 제공합니다."
+msgstr "이 장갑은 착용자에게 매력에 +6 강화 보너스와 하루에 세 번 11레벨 위저드의 상급 영웅심 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/ElfFemaleLeatherworker/RoyalGlovesOfValorItem_m_DisplayNameText
 msgctxt "97a72b95-9751-48c6-b3c4-7afe90b0dd45"
 msgid "Royal Gloves of Valor"
-msgstr ""
+msgstr "왕실 용기의 장갑"
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/ElfFemaleLeatherworker/UltimateGripGlovesItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "These gloves grant their wearer a +6 enhancement bonus to Strength, a +4 "
-#| "enhancement to Constitution and the ability to cast death clutch spell once "
-#| "per day."
 msgctxt "53c2c7ad-9950-4520-a786-46adc82ad416"
 msgid ""
 "These gloves grant their wearer a +6 enhancement bonus to Strength, a +4 "
 "enhancement to Constitution and the ability to cast death clutch spell once "
 "per day as a 15th level wizard."
 msgstr ""
-"이 장갑은 착용자에게 힘에 +6 강화 보너스, 건강에 +4 강화 보너스와 하루에 한 번 죽음의 손아귀 주문 시전 능력을 제공합니다."
+"이 장갑은 착용자에게 힘에 +6 강화 보너스, 건강에 +4 강화 보너스와 하루에 한 번 15레벨 위저드의 죽음의 손아귀 주문 시전 능력을 "
+"제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/ElfFemaleLeatherworker/UltimateGripGlovesItem_m_DisplayNameText
 msgctxt "392cad0b-7bb7-48b1-9369-7b7837fe2412"
 msgid "Ultimate Grip"
-msgstr ""
+msgstr "궁극의 움켜쥠"
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/ElvenFemaleWeaponsmith/GlovesOfLighterTouch_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "These gloves grant their wearer a +6 enhancement bonus to Dexterity, a +3 "
-#| "resistance bonus to Reflex saving throws and the ability to cast reduce "
-#| "person spell at will."
 msgctxt "2b4e4ccd-7c54-43db-948a-a6ed8b29bce9"
 msgid ""
 "These gloves grant their wearer a +6 enhancement bonus to Dexterity, a +3 "
 "resistance bonus to Reflex saving throws and the ability to cast reduce "
 "person spell at will as a 5th level wizard."
 msgstr ""
-"이 장갑은 착용자에게 민첩에 +6 강화 보너스, 반사 내성 굴림 +3 저항 보너스와 자유의지로 사람 축소 주문 시전 능력을 제공합니다."
+"이 장갑은 착용자에게 민첩에 +6 강화 보너스, 반사 내성 굴림 +3 저항 보너스를 주고 마음대로 5레벨 위저드의 사람 축소 주문을 "
+"시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/ElvenFemaleWeaponsmith/GlovesOfLighterTouch_m_DisplayNameText
 msgctxt "dd3a69d4-6ca5-4355-b7b6-eaefa2dd1d82"
 msgid "Lightest Touch"
-msgstr ""
+msgstr "가벼운 손속"
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/ElvenFemaleWeaponsmith/SteadyHandGlovesItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "These gloves grant their wearer a +4 enhancement bonus to Dexterity and the "
-#| "ability to cast true strike spell three times per day."
 msgctxt "d5e13095-66a2-452d-9ccd-2d8419560447"
 msgid ""
 "These gloves grant their wearer a +4 enhancement bonus to Dexterity and the "
 "ability to cast true strike spell three times per day as a 1st level wizard."
-msgstr "이 장갑은 착용자에게 민첩에 +4 강화 보너스와 하루에 세 번 진실의 일격 주문 시전 능력을 제공합니다."
+msgstr "이 장갑은 착용자에게 민첩에 +4 강화 보너스와 하루에 세 번 1레벨 위저드의 진실의 일격 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/ElvenFemaleWeaponsmith/SteadyHandGlovesItem_m_DisplayNameText
 msgctxt "0a42a292-5c87-44d6-b1f4-0e0a55f76e40"
 msgid "Steady Hand"
-msgstr ""
+msgstr "흔들림 없는 손"
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/HalfElfMaleTailor/ButterflyWingsGlovesItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "These gloves grant their wearer a +5 resistance bonus on all saving throws, "
-#| "and the ability to cast prismatic spray spell three times per day."
 msgctxt "ce34f6a4-225e-4543-8585-772f8e713cf8"
 msgid ""
 "These gloves grant their wearer a +5 resistance bonus on all saving throws, "
 "and the ability to cast prismatic spray spell three times per day as a 13th "
 "level wizard."
-msgstr "이 장갑은 착용자에게 모든 내성 굴림 +5 저항 보너스와 하루에 세 번 무지개빛 분사 주문 시전 능력을 제공합니다."
+msgstr ""
+"이 장갑은 착용자에게 모든 내성 굴림 +5 저항 보너스와 하루에 세 번 13레벨 위저드의 무지개빛 분사 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/HalfElfMaleTailor/ButterflyWingsGlovesItem_m_DisplayNameText
 msgctxt "02e1b259-d6bc-4170-a31c-c4a41c29838e"
 msgid "Butterfly Wings"
-msgstr ""
+msgstr "나비 날개"
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/HalfElfMaleTailor/ManticoresClawsGlovesItem_m_DescriptionText
 msgctxt "684bc9ab-d65c-41e7-8aff-d3db26d30810"
@@ -5870,12 +5831,13 @@ msgid ""
 "These gloves grant their wearer a +4 enhancement bonus to Strength, and +2 "
 "enhancement bonus on attack and damage rolls with unarmed attacks and "
 "natural weapons."
-msgstr "이 장갑은 착용자에게 힘에 +4 강화 보너스와 비무장 또는 자연 무기의 명중 및 피해 굴림에 +2 강화 보너스를 제공합니다."
+msgstr ""
+"이 장갑은 착용자에게 힘에 +4 강화 보너스와 비무장 타격 또는 자연 무기의 명중 및 피해 굴림에 +2 강화 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/HalfElfMaleTailor/ManticoresClawsGlovesItem_m_DisplayNameText
 msgctxt "b574361c-4d1e-46b1-9af4-b07d472d3f1e"
 msgid "Manticore's Claws"
-msgstr ""
+msgstr "만티코어의 발톱"
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/HumanMaleAlchemist/CrazyScientistsGlovesItem_m_DescriptionText
 msgctxt "ef867146-f079-4768-9ab5-63ef849f484f"
@@ -5900,34 +5862,34 @@ msgctxt "a9923e31-2eba-4e2e-bb52-6d1e79c922d5"
 msgid ""
 "These gloves grant its wearer a +4 enhancement bonus to Strength ability "
 "score and a +2 morale bonus to AC."
-msgstr ""
+msgstr "이 장갑은 착용자의 힘에 +4 강화 보너스를 주고, AC에 +2 사기 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/DLC3/BracersSpikedHodagItem_m_DisplayNameText
 msgctxt "12bef015-159e-41f5-b0b9-69902865bc78"
 msgid "Hammer Fists"
-msgstr ""
+msgstr "망치 주먹"
 
 #. Mechanics/Blueprints/Equipment/Gloves/DLC3/GlovesNumerianItem_m_DescriptionText
 msgctxt "9338a9d9-e5eb-497a-a570-31e6431efba1"
 msgid ""
 "These gloves grant its wearer a +2 enhancement bonus to Constitution ability"
 " score and a +4 competence bonus on all Mobility skill checks."
-msgstr ""
+msgstr "이 장갑은 착용자의 건강에 +2 강화 보너스를 주고 기동성 판정에 +4 능숙 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/DLC3/GlovesNumerianItem_m_DisplayNameText
 msgctxt "be2f4b7e-bff4-46e9-b90f-872707fe0294"
 msgid "Soaring Fist"
-msgstr ""
+msgstr "날아오르는 주먹"
 
 #. Mechanics/Blueprints/Equipment/Gloves/DLC3/GlovesStaglordItem_DisplayNameText_String
 msgctxt "e8386740-12a7-4a47-b6f1-fbd51800555c"
 msgid "Death From Afar"
-msgstr ""
+msgstr "멀리서부터 오는 죽음"
 
 #. Mechanics/Blueprints/Equipment/Gloves/DLC3/GlovesStaglordItem_m_DescriptionText
 msgctxt "c166ea4a-c695-4430-a157-91d9bcaac93b"
 msgid "This gloves grants its wearer a +4 bonus to ranged attacks."
-msgstr ""
+msgstr "이 장갑의 착용자는 원거리 공격의 명중 굴림에 +4 보너스를 받습니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/LateChapters/BombThrowingGlovesItem_m_DescriptionText
 msgctxt "c8848493-6ddf-4be5-b9ef-38e30583f948"
@@ -5939,12 +5901,12 @@ msgstr "이 장갑은 착용자에게 폭탄 사용시 명중 굴림과 DC에 +2
 #. Mechanics/Blueprints/Equipment/Gloves/LateChapters/BombThrowingGlovesItem_m_DisplayNameText
 msgctxt "472c13cb-0768-4049-aaa3-4d33ea95096c"
 msgid "Bombthrower's Gloves"
-msgstr ""
+msgstr "폭격수의 장갑"
 
 #. Mechanics/Blueprints/Equipment/Gloves/LateChapters/BombThrowingGlovesItem_m_FlavorText
 msgctxt "7ca087f7-b793-4773-9541-ab6a0e16cfa0"
 msgid "The word \"KABOOM!\" is embroidered on these gloves' underlays."
-msgstr ""
+msgstr "이 장갑의 밑단에 \"콰광!\"이라는 단어가 수놓아져 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/LateChapters/DeliquescentGlovesItem_m_DescriptionText
 msgctxt "16d0af75-2a3c-4dd4-bd6e-8f7f816d1613"
@@ -5952,53 +5914,53 @@ msgid ""
 "Whenever the wearer of these gloves successfully lands a hit with a melee "
 "weapon, an unarmed strike, or a natural weapon, the target takes 1d6 points "
 "of acid damage."
-msgstr ""
+msgstr "이 장갑의 착용자가 근접 무기나 비무장 타격, 자연 무기로 공격을 명중시키면 대상에게 1d6점의 산성 피해를 추가로 입힙니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/LateChapters/DeliquescentGlovesItem_m_DisplayNameText
 msgctxt "80fbb4b5-b2a8-43cc-acf5-85af6bf8099e"
 msgid "Alkali Gloves"
-msgstr ""
+msgstr "염기성 장갑"
 
 #. Mechanics/Blueprints/Equipment/Gloves/LateChapters/DeliquescentGlovesItem_m_FlavorText
 msgctxt "3d33e7f4-19c2-430e-b232-0e11252f51cf"
 msgid ""
 "The gloves are made of a strange, gross material and emanate a strong acrid "
 "odor."
-msgstr ""
+msgstr "그 장갑은 이상하고 역겨운 물질로 만들어졌고 매캐한 냄새를 강하게 내뿜습니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/LateChapters/GlovesOfElvenkindItem_m_DescriptionText
 msgctxt "0c875034-97a1-4a2c-9356-948af2f5054e"
 msgid ""
 "These gloves grant their wearer a +5 competence bonus to Knowledge (Arcana) "
 "skill checks and a +5 bonus to Concentration checks."
-msgstr ""
+msgstr "이 장갑은 착용자의 지식 (비전) 기술 판정에 +5 능숙 보너스를 주고, 집중 판정에 +5 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/LateChapters/GlovesOfElvenkindItem_m_DisplayNameText
 msgctxt "3ed0b4e0-5fe1-4760-a5fa-8678dc25283d"
 msgid "Gloves of Elvenkind"
-msgstr ""
+msgstr "엘프족의 장갑"
 
 #. Mechanics/Blueprints/Equipment/Gloves/LateChapters/GlovesOfElvenkindItem_m_FlavorText
 msgctxt "4b6ed7cd-0c16-45f4-97e4-45d131d8aaae"
 msgid "There elegant gloves are welted with the finest purled silk."
-msgstr ""
+msgstr "이 우아한 장갑의 가장자리는 최고급 비단으로 수놓아 장식했습니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/LateChapters/GlovesOfRendingItem_m_DescriptionText
 msgctxt "3b2e6d36-3adc-4f1d-8a03-244ac9efa498"
 msgid ""
 "These gloves grant their wearer a +2 bonus on attack and damage rolls made "
 "with claws."
-msgstr ""
+msgstr "이 장갑의 착용자는 할퀴기 공격의 명중 및 피해 굴림에 +2 보너스를 받습니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/LateChapters/GlovesOfRendingItem_m_DisplayNameText
 msgctxt "cac54a52-ffcc-4f7a-8a05-67ed82fa2bde"
 msgid "Gloves of Rending"
-msgstr ""
+msgstr "찢어발기기 장갑"
 
 #. Mechanics/Blueprints/Equipment/Gloves/LateChapters/GlovesOfRendingItem_m_FlavorText
 msgctxt "6e57555f-4293-4c6a-9c9c-43a9e6776f79"
 msgid "These worn-out gloves are incredibly heavy and solid to the touch."
-msgstr ""
+msgstr "이 낡아빠진 장갑은 믿을 수 없을 정도로 무겁고 견고합니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/CrownOfFear_m_DescriptionText
 msgctxt "508e5f27-e4d3-4687-85ce-1c8a1522408a"
@@ -6007,165 +5969,167 @@ msgid ""
 "made to intimidate. It also grants its wearer a +2 bonus to all spells with "
 "fear descriptor DC."
 msgstr ""
+"이 투구는 착용자의 협박의 설득 판정에 +4 능숙 보너스를 줍니다. 또한 착용자가 시전하는 공포 기술어를 포함한 주문의 DC가 2 "
+"증가합니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/CrownOfFear_m_DisplayNameText
 msgctxt "6abc9d77-3ed8-4770-b967-a3f7094b480d"
 msgid "Crown of Fear"
-msgstr ""
+msgstr "공포의 왕관"
 
 #. Mechanics/Blueprints/Equipment/Headgear/CrownOfFear_m_FlavorText
 msgctxt "39e5cbd3-97bb-4b34-a20b-c2e695c273af"
 msgid "The dark helmet has a lot of notches and dents on it."
-msgstr ""
+msgstr "이 시커먼 투구는 움푹 들어간 자국과 홈이 많이 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/EvasiveRoundHelmetItem_m_DescriptionText
 msgctxt "232dac7d-5480-4575-9451-70a485d885cd"
 msgid "This helmet grants its wearer immunity to critical hits."
-msgstr ""
+msgstr "이 투구는 착용자에게 치명타 면역을 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/EvasiveRoundHelmetItem_m_DisplayNameText
 msgctxt "ce7cae7f-047d-4c08-94ed-d555e748dccb"
 msgid "Evasive Round Helmet"
-msgstr ""
+msgstr "회피의 원형 투구"
 
 #. Mechanics/Blueprints/Equipment/Headgear/EvasiveRoundHelmetItem_m_FlavorText
 msgctxt "3d45b638-1863-472e-a93b-5ce3a2767246"
 msgid ""
 "As you put this helmet on, you realise that you can't tell where exactly "
 "within your body your heart is beating."
-msgstr ""
+msgstr "이 헬멧을 쓰자 당신은 자기 심장이 어디서 뛰고 있는지 헷갈리게 되었습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/EyesOfEagle_m_DescriptionText
 msgctxt "3e41e22b-7031-4180-aaf9-e89d630c3a42"
 msgid ""
 "This helmet grants its wearer a +5 competence bonus on Perception checks."
-msgstr ""
+msgstr "이 투구는 착용자의 지각 판정에 +5 능숙 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/EyesOfEagle_m_DisplayNameText
 msgctxt "6e52ac28-3189-4551-a7c6-dd0d1d2e559b"
 msgid "Eyes of the Eagle"
-msgstr ""
+msgstr "독수리의 눈"
 
 #. Mechanics/Blueprints/Equipment/Headgear/EyesOfEagle_m_FlavorText
 msgctxt "e0d1ac3b-18bd-4bd5-8bde-b2b825ba0b97"
 msgid ""
 "The creation of an unknown optician would perplex the inhabitants of a small"
 " village in the middle of nowhere."
-msgstr ""
+msgstr "이 무명의 안경사가 만든 작품은 한적한 곳에 있는 작은 마을의 주민들을 당황하게 할 것입니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfCharisma2_m_DescriptionText
 msgctxt "dbc13ce6-5f9e-40e4-98a8-3ad8210db37a"
 msgid ""
 "This headband grants its wearer a +2 enhancement bonus to Charisma. Bonuses "
 "of the same type usually don't stack."
-msgstr ""
+msgstr "이 머리띠는 착용자의 매력에 +2 강화 보너스를 줍니다. 같은 유형의 보너스는 보통 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfCharisma2_m_DisplayNameText
 msgctxt "bde3358b-f257-4712-bccc-2bdc9accc460"
 msgid "Headband of Alluring Charisma +2"
-msgstr ""
+msgstr "매혹적인 매력의 머리띠 +2"
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfCharisma2_m_FlavorText
 msgctxt "e7cf8892-cf13-4f88-888b-de48734e3094"
 msgid ""
 "This attractive silver headband is decorated with a number of small red and "
 "orange gemstones."
-msgstr ""
+msgstr "이 매력적인 은색 머리띠는 여러 개의 작은 빨간색과 주황색 보석으로 장식되어 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfCharisma4_m_DescriptionText
 msgctxt "76dcc80e-81d0-4752-8274-37eb3180c52b"
 msgid ""
 "This headband grants its wearer a +4 enhancement bonus to Charisma. Bonuses "
 "of the same type usually don't stack."
-msgstr ""
+msgstr "이 머리띠는 착용자의 매력에 +4 강화 보너스를 줍니다. 같은 유형의 보너스는 보통 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfCharisma4_m_DisplayNameText
 msgctxt "e3f24339-e1fa-414e-8e9b-8357feeb6d58"
 msgid "Headband of Alluring Charisma +4"
-msgstr ""
+msgstr "매혹적인 매력의 머리띠 +4"
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfCharisma4_m_FlavorText
 msgctxt "aafc1214-887b-4eca-80a5-7a4960586428"
 msgid ""
 "This attractive silver headband is decorated with a number of small red and "
 "orange gemstones."
-msgstr ""
+msgstr "이 매력적인 은색 머리띠는 여러 개의 작은 빨간색과 주황색 보석으로 장식되어 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfCharisma6_m_DescriptionText
 msgctxt "b89e4fc5-f14b-43fb-b1ee-f27efae97e26"
 msgid ""
 "This headband grants its wearer a +6 enhancement bonus to Charisma. Bonuses "
 "of the same type usually don't stack."
-msgstr ""
+msgstr "이 머리띠는 착용자의 매력에 +6 강화 보너스를 줍니다. 같은 유형의 보너스는 보통 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfCharisma6_m_DisplayNameText
 msgctxt "58deb447-7544-4d04-befa-512d92244045"
 msgid "Headband of Alluring Charisma +6"
-msgstr ""
+msgstr "매혹적인 매력의 머리띠 +6"
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfCharisma6_m_FlavorText
 msgctxt "3b7341c7-bf44-4d42-904a-679443ce3201"
 msgid ""
 "This attractive silver headband is decorated with a number of small red and "
 "orange gemstones."
-msgstr ""
+msgstr "이 매력적인 은색 머리띠는 여러 개의 작은 빨간색과 주황색 보석으로 장식되어 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfIntelligence2_m_DescriptionText
 msgctxt "aafede3b-de7d-418a-8b2b-f2e339caaeeb"
 msgid ""
 "This headband grants its wearer a +2 enhancement bonus to Intelligence. "
 "Bonuses of the same type usually don't stack."
-msgstr ""
+msgstr "이 머리띠는 착용자의 지능에 +2 강화 보너스를 줍니다. 같은 유형의 보너스는 보통 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfIntelligence2_m_DisplayNameText
 msgctxt "20ae86a9-06db-4d6b-9430-aeacc30c11ff"
 msgid "Headband of Vast Intelligence +2"
-msgstr ""
+msgstr "방대한 지능의 머리띠 +2"
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfIntelligence2_m_FlavorText
 msgctxt "08148350-4658-4f4e-a53a-2022808d8d06"
 msgid ""
 "This intricate gold headband is decorated with several small blue and deep "
 "purple gemstones."
-msgstr ""
+msgstr "이 복잡한 금색 머리띠는 몇 개의 작은 파란색과 깊은 보라색 보석으로 장식되어 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfIntelligence4_m_DescriptionText
 msgctxt "1ad40ae8-cb92-44c1-924a-61e704c389d0"
 msgid ""
 "This headband grants its wearer a +4 enhancement bonus to Intelligence. "
 "Bonuses of the same type usually don't stack."
-msgstr ""
+msgstr "이 머리띠는 착용자의 지능에 +4 강화 보너스를 줍니다. 같은 유형의 보너스는 보통 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfIntelligence4_m_DisplayNameText
 msgctxt "3d908d96-4602-41d9-bcba-1fd0da1cac88"
 msgid "Headband of Vast Intelligence +4"
-msgstr ""
+msgstr "방대한 지능의 머리띠 +4"
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfIntelligence4_m_FlavorText
 msgctxt "e9b405b7-318a-4ce0-adba-ae6b1786e969"
 msgid ""
 "This intricate gold headband is decorated with several small blue and deep "
 "purple gemstones."
-msgstr ""
+msgstr "이 복잡한 금색 머리띠는 몇 개의 작은 파란색과 깊은 보라색 보석으로 장식되어 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfIntelligence6_m_DescriptionText
 msgctxt "48a48528-7509-4555-8909-2cdc55fddbed"
 msgid ""
 "This headband grants its wearer a +6 enhancement bonus to Intelligence. "
 "Bonuses of the same type usually don't stack."
-msgstr ""
+msgstr "이 머리띠는 착용자의 지능에 +6 강화 보너스를 줍니다. 같은 유형의 보너스는 보통 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfIntelligence6_m_DisplayNameText
 msgctxt "40851561-d20a-4687-bb39-18881bcea06c"
 msgid "Headband of Vast Intelligence +6"
-msgstr ""
+msgstr "방대한 지능의 머리띠 +6"
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfIntelligence6_m_FlavorText
 msgctxt "33f7c5cc-48d4-474b-9070-7b2b5ecb4a3f"
 msgid ""
 "This intricate gold headband is decorated with several small blue and deep "
 "purple gemstones."
-msgstr ""
+msgstr "이 복잡한 금색 머리띠는 몇 개의 작은 파란색과 깊은 보라색 보석으로 장식되어 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfPerfection2_m_DescriptionText
 msgctxt "ae33ecca-b6f0-4536-8918-3657933f66be"
@@ -6174,17 +6138,18 @@ msgid ""
 " scores (Intelligence, Wisdom, and Charisma). Bonuses of the same type "
 "usually don't stack."
 msgstr ""
+"이 머리띠는 착용자의 모든 정신 능력치에 (지능, 지혜, 매력) +2 강화 보너스를 줍니다. 같은 유형의 보너스는 보통 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfPerfection2_m_DisplayNameText
 msgctxt "bfffaa6a-22a6-4612-9784-0fd616c56b99"
 msgid "Headband of Mental Perfection +2"
-msgstr ""
+msgstr "정신 완벽의 머리띠 +2"
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfPerfection2_m_FlavorText
 msgctxt "e3305b15-4f49-449c-b17b-8a02690c7188"
 msgid ""
 "This ornate headband is decorated with numerous clusters of small gemstones."
-msgstr ""
+msgstr "이 화려한 머리띠는 수많은 작은 보석들로 장식되어 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfPerfection4_m_DescriptionText
 msgctxt "8dab5500-ec68-4d40-8dce-61ebf7105f06"
@@ -6193,17 +6158,18 @@ msgid ""
 " scores (Intelligence, Wisdom, and Charisma). Bonuses of the same type "
 "usually don't stack."
 msgstr ""
+"이 머리띠는 착용자의 모든 정신 능력치에 (지능, 지혜, 매력) +4 강화 보너스를 줍니다. 같은 유형의 보너스는 보통 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfPerfection4_m_DisplayNameText
 msgctxt "64d87313-0c29-4598-a043-a4a8d7e6a9c4"
 msgid "Headband of Mental Perfection +4"
-msgstr ""
+msgstr "정신 완벽의 머리띠 +4"
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfPerfection4_m_FlavorText
 msgctxt "1af53e47-4608-4f5b-86da-51b79ce21b59"
 msgid ""
 "This ornate headband is decorated with numerous clusters of small gemstones."
-msgstr ""
+msgstr "이 화려한 머리띠는 수많은 작은 보석들로 장식되어 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfPerfection6_m_DescriptionText
 msgctxt "c8fe6513-4f57-4644-92d0-451b5a9c5d99"
@@ -6212,17 +6178,18 @@ msgid ""
 " scores (Intelligence, Wisdom, and Charisma). Bonuses of the same type "
 "usually don't stack."
 msgstr ""
+"이 머리띠는 착용자의 모든 정신 능력치에 (지능, 지혜, 매력) +6 강화 보너스를 줍니다. 같은 유형의 보너스는 보통 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfPerfection6_m_DisplayNameText
 msgctxt "f7aa49da-5678-4045-b2e6-9dea19e7bd01"
 msgid "Headband of Mental Perfection +6"
-msgstr ""
+msgstr "정신 완벽의 머리띠 +6"
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfPerfection6_m_FlavorText
 msgctxt "62359f0e-1064-49e3-aa68-d7ef1f860c10"
 msgid ""
 "This ornate headband is decorated with numerous clusters of small gemstones."
-msgstr ""
+msgstr "이 화려한 머리띠는 수많은 작은 보석들로 장식되어 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfPerfection8_m_DescriptionText
 msgctxt "6d8381f6-02ec-4cc0-b867-6c668a0e1984"
@@ -6231,74 +6198,75 @@ msgid ""
 "scores (Intelligence, Wisdom, and Charisma). Bonuses of the same type "
 "usually don't stack."
 msgstr ""
+"이 모자는 착용자의 모든 정신 능력치에 (지능, 지혜, 매력) +8 강화 보너스를 줍니다. 같은 유형의 보너스는 보통 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfPerfection8_m_DisplayNameText
 msgctxt "6241ef24-79db-4eb1-a098-da7cf0db869a"
 msgid "Hat of Mental Perfection +8"
-msgstr ""
+msgstr "정신 완벽의 모자 +8"
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfPerfection8_m_FlavorText
 msgctxt "d6eecae7-4963-4538-9368-79f6c6139b15"
 msgid ""
 "This ornate headband is decorated with numerous clusters of small gemstones."
-msgstr ""
+msgstr "이 화려한 머리띠는 수많은 작은 보석들로 장식되어 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfWisdom2_m_DescriptionText
 msgctxt "a1514679-6b46-4ce2-91ff-86c979cb9ed3"
 msgid ""
 "This headband grants its wearer a +2 enhancement bonus to Wisdom. Bonuses of"
 " the same type usually don't stack."
-msgstr ""
+msgstr "이 머리띠는 착용자의 지혜에 +2 강화 보너스를 줍니다. 같은 유형의 보너스는 보통 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfWisdom2_m_DisplayNameText
 msgctxt "de118273-21db-414b-a10d-456bf7cda46a"
 msgid "Headband of Inspired Wisdom +2"
-msgstr ""
+msgstr "영감의 지혜 머리띠 +2"
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfWisdom2_m_FlavorText
 msgctxt "43eedd93-d541-4faa-a374-1f405987a27f"
 msgid ""
 "This simple headband is decorated with an intricate pattern of fine green "
 "etchings."
-msgstr ""
+msgstr "이 단순한 머리띠는 정교하게 그려진 복잡한 무늬의 녹색 식각으로 장식되어 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfWisdom4_m_DescriptionText
 msgctxt "6be4a3fd-8442-46c9-96c0-3a3aa20624a1"
 msgid ""
 "This headband grants its wearer a +4 enhancement bonus to Wisdom. Bonuses of"
 " the same type usually don't stack."
-msgstr ""
+msgstr "이 머리띠는 착용자의 지혜에 +4 강화 보너스를 줍니다. 같은 유형의 보너스는 보통 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfWisdom4_m_DisplayNameText
 msgctxt "9725a7c6-c689-41bf-929f-64ba39dfa4d0"
 msgid "Headband of Inspired Wisdom +4"
-msgstr ""
+msgstr "영감의 지혜 머리띠 +4"
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfWisdom4_m_FlavorText
 msgctxt "078d0b30-3a34-4d9a-aebd-26ded5121ec0"
 msgid ""
 "This simple headband is decorated with an intricate pattern of fine green "
 "etchings."
-msgstr ""
+msgstr "이 단순한 머리띠는 정교하게 그려진 복잡한 무늬의 녹색 식각으로 장식되어 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfWisdom6_m_DescriptionText
 msgctxt "a4813268-08f8-4a79-9381-644182832b3e"
 msgid ""
 "This headband grants its wearer a +6 enhancement bonus to Wisdom. Bonuses of"
 " the same type usually don't stack."
-msgstr ""
+msgstr "이 머리띠는 착용자의 지혜에 +6 강화 보너스를 줍니다. 같은 유형의 보너스는 보통 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfWisdom6_m_DisplayNameText
 msgctxt "0adda122-30b7-4939-8695-6747dbd6a98c"
 msgid "Headband of Inspired Wisdom +6"
-msgstr ""
+msgstr "영감의 지혜 머리띠 +6"
 
 #. Mechanics/Blueprints/Equipment/Headgear/HeadbandOfWisdom6_m_FlavorText
 msgctxt "a461a128-a97a-4d1a-8b17-94aac5fae6f3"
 msgid ""
 "This simple headband is decorated with an intricate pattern of fine green "
 "etchings."
-msgstr ""
+msgstr "이 단순한 머리띠는 정교하게 그려진 복잡한 무늬의 녹색 식각으로 장식되어 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HelmetOfBattlefieldClarity_m_DescriptionText
 msgctxt "06859580-8966-4889-bf7d-18d0838521da"
@@ -6307,18 +6275,20 @@ msgid ""
 "wearer uses the Combat Expertise feat, it provides an additional +2 bonus to"
 " attack rolls."
 msgstr ""
+"이 투구의 착용자는 의지 내성에 +2 통찰 보너스를 받습니다. 착용자가 전투 전문화 특기를 사용하면, 명중 굴림에 +2 보너스를 "
+"추가합니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HelmetOfBattlefieldClarity_m_DisplayNameText
 msgctxt "e37d3cf3-4a43-4259-92c0-5809f7176895"
 msgid "Helmet of Battlefield Clarity"
-msgstr ""
+msgstr "전장의 명석 투구"
 
 #. Mechanics/Blueprints/Equipment/Headgear/HelmetOfBattlefieldClarity_m_FlavorText
 msgctxt "cdbc79b5-14a2-4198-be38-c896d3fb952c"
 msgid ""
 "This helmet was once decorated, but today there are gaping holes where the "
 "gems used to be."
-msgstr ""
+msgstr "이 헬멧에는 원래 장식이 있었지만, 지금은 보석이 있던 곳에 구멍이 뻥 뚫려 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/HelmetOfCertaintyItem_m_DescriptionText
 msgctxt "25c9e6d9-cec6-4867-886b-1f26265d2e4c"
