@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-30 02:07+0000\n"
-"Last-Translator: ayame <eveforce@naver.com>\n"
+"PO-Revision-Date: 2020-06-30 04:07+0000\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/items/ko/>\n"
 "Language: ko\n"
@@ -2521,7 +2521,7 @@ msgctxt "8c57142d-970b-4638-898e-4c3c5a87fa34"
 msgid ""
 "This +1 leather armor grants its wearer a +5 competence bonus to Stealth "
 "skill checks."
-msgstr "이 +1 가죽갑옷은 착용자의 은신 스킬 판정에 +5 능숙 보너스를 제공합니다."
+msgstr "이 +1 가죽갑옷은 착용자의 은신 기술 판정에 +5 능숙 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Unique/ShadowLeatherPlus1_m_DisplayNameText
 msgctxt "9ff5febd-bae9-4b2e-b380-228c4997e421"
@@ -2538,7 +2538,7 @@ msgctxt "7fd73290-138f-4bf3-82aa-9e9a53433372"
 msgid ""
 "This shirt grants its wearer a +5 bonus to Persuasion skill checks and a +6 "
 "enhancement bonus to Charisma."
-msgstr "이 조끼의 착용자에게 설득 스킬 판정에 +5 보너스와 매력에 +6 강화 보너스를 제공합니다."
+msgstr "이 조끼의 착용자에게 설득 기술 판정에 +5 보너스와 매력에 +6 강화 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Unique/ValerieSilkShirt_m_DisplayNameText
 msgctxt "2fdef53e-3edc-4893-a2b7-22cc98769088"
@@ -4327,36 +4327,36 @@ msgstr "이 허리띠의 버클에는 면도날처럼 날카로운 날이 있습
 #. Mechanics/Blueprints/Equipment/Boots/BootsOfElvenKind_m_DescriptionText
 msgctxt "3e03a783-e2d0-45d7-9be3-775c58d9d399"
 msgid "These boots grant its wearer a +5 competence bonus on Mobility checks."
-msgstr "이 부츠는 착용자의 기동성 판정에 +5 능숙 보너스를 제공합니다."
+msgstr "이 장화는 착용자의 기동성 판정에 +5 능숙 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Boots/BootsOfElvenKind_m_DisplayNameText
 msgctxt "dcffa0de-2270-4550-9044-b9ac465356e0"
 msgid "Boots of Elvenkind"
-msgstr "엘프족의 부츠"
+msgstr "엘프족의 장화"
 
 #. Mechanics/Blueprints/Equipment/Boots/BootsOfElvenKind_m_FlavorText
 msgctxt "e37731d9-34b0-4cfe-ae61-977a7a4f8637"
 msgid ""
 "These boots are made from fine leather, but it doesn't make them any less "
 "durable or comfortable."
-msgstr "이 부츠는 고급 가죽으로 만들어 내구성과 편안함에 부족함이 없습니다."
+msgstr "이 장화는 고급 가죽으로 만들어 내구성과 편안함에 부족함이 없습니다."
 
 #. Mechanics/Blueprints/Equipment/Boots/BootsOfSwiftFoot_m_DescriptionText
 msgctxt "f0b6c459-0d2a-4449-950f-5517b24ebf62"
 msgid ""
 "These boots increase the wearer's movement speed by 10. That's a enhancement"
 " bonus and it does not stack with other enhancement bonuses."
-msgstr "이 부츠는 착용자의 이동속도를 10 증가시킵니다. 이것은 강화 보너스이며 다른 강화 보너스와 중첩되지 않습니다."
+msgstr "이 장화는 착용자의 이동속도를 10 증가시킵니다. 이것은 강화 보너스이며 다른 강화 보너스와 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Equipment/Boots/BootsOfSwiftFoot_m_DisplayNameText
 msgctxt "542d9c86-42dd-4778-911d-f984b8c05448"
 msgid "Swiftfoot Boots"
-msgstr "잰걸음 부츠"
+msgstr "잰걸음 장화"
 
 #. Mechanics/Blueprints/Equipment/Boots/BootsOfSwiftFoot_m_FlavorText
 msgctxt "25df23fc-8f54-4ead-8ee3-cd0b9410360c"
 msgid "Fancy embroidery covers the shafts of these boots."
-msgstr "이 부츠의 다리 부분은 화려한 자수로 덮여 있습니다."
+msgstr "이 장화의 다리 부분은 화려한 자수로 덮여 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Boots/Artisan/OpportunistsBootsAbility_m_DisplayName
 msgctxt "8c4a0152-74b0-49c6-bc29-3a7707deb438"
@@ -4368,12 +4368,12 @@ msgctxt "016aca1e-6178-47d7-aec1-939d6b131f8d"
 msgid ""
 "These boots grant their wearer the ability to make two additional attacks of"
 " opportunity per round."
-msgstr "이 부츠는 착용자에게 라운드당 기회 공격 능력을 추가로 두 번 제공합니다."
+msgstr "이 장화는 착용자에게 라운드당 기회 공격 능력을 추가로 두 번 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Boots/Artisan/OpportunistsBoots_m_DisplayNameText
 msgctxt "ec08eff2-b191-46c4-a03f-030138100bab"
 msgid "Opportunist's Boots"
-msgstr "기회주의자의 부츠"
+msgstr "기회주의자의 장화"
 
 #. Mechanics/Blueprints/Equipment/Boots/Artisan/ElfFemaleLeatherworker/ConnectiontoEarthBoostItem_m_DescriptionText
 msgctxt "4be6b148-ecde-4474-bc26-e4192854f721"
@@ -4382,7 +4382,7 @@ msgid ""
 " spells: barkskin, entangle, obsidian flow, sickening entanglement, soothing"
 " mud, stone call."
 msgstr ""
-"이 부츠는 착용자에게 다음 주문을 시전자 레벨에 +4를 추가합니다. 해당 주문: 나무껍질, 휘감기, 흑요석 흐름, 병든 속박, 진정성 "
+"이 장화는 착용자에게 다음 주문을 시전자 레벨에 +4를 추가합니다. 해당 주문: 나무껍질, 휘감기, 흑요석 흐름, 병든 속박, 진정성 "
 "진흙, 바위의 부름"
 
 #. Mechanics/Blueprints/Equipment/Boots/Artisan/ElfFemaleLeatherworker/ConnectiontoEarthBoostItem_m_DisplayNameText
@@ -4396,7 +4396,7 @@ msgid ""
 "These boots grant the wearer a +5 competence bonus on all Stealth checks and"
 " the ability to cast dimension door spell once per day as a 7th level "
 "wizard."
-msgstr "이 부츠의 착용자에게 모든 은신 판단에 +5 능숙 보너스와 하루에 한번 7레벨 위저드의 차원문 주문 시전 능력을 제공합니다."
+msgstr "이 장화의 착용자에게 모든 은신 판단에 +5 능숙 보너스와 하루에 한번 7레벨 위저드의 차원문 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Boots/Artisan/ElfFemaleLeatherworker/EvadingStepsItem_m_DisplayNameText
 msgctxt "78f48efe-2dc5-4208-b115-93c04a62125f"
@@ -4408,19 +4408,19 @@ msgctxt "69463f14-c5f5-4ba2-88ec-999bfec26c72"
 msgid ""
 "These boots grants their wearer immunity to slowing and paralyzing effects, "
 "entanglement, and difficult terrain."
-msgstr "이 부츠는 착용자에게 감속과 마비 효과, 속박, 험한 지형에 면역을 제공합니다."
+msgstr "이 장화는 착용자에게 감속과 마비 효과, 속박, 험한 지형에 면역을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Boots/Artisan/ElfFemaleLeatherworker/PermanentFreedomItem_m_DisplayNameText
 msgctxt "01531291-1aa3-4afe-9dff-538a23a01334"
 msgid "Owlbear Skin Boots"
-msgstr "아울베어 가죽 부츠"
+msgstr "아울베어 가죽 장화"
 
 #. Mechanics/Blueprints/Equipment/Boots/Artisan/ElfFemaleLeatherworker/StabilityStanceItem_m_DescriptionText
 msgctxt "46072bdf-12c0-46a8-b000-d1e8c17c8124"
 msgid ""
 "These boots grant the wearer a +4 bonus to CMD, a +4 enhancement bonus to "
 "Constitution, and immunity to forced movement effects, slow and tripping."
-msgstr "이 부츠는 착용자에게 CMD에 +4 보너스, 건강에 +4 강화 보너스와 강제 이동 효과, 감속 및 넘어뜨리기 면역을 제공합니다."
+msgstr "이 장화는 착용자에게 CMD에 +4 보너스, 건강에 +4 강화 보너스와 강제 이동 효과, 감속 및 넘어뜨리기 면역을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Boots/Artisan/ElfFemaleLeatherworker/StabilityStanceItem_m_DisplayNameText
 msgctxt "db468b70-dfba-4d48-a157-b3cecc94ebeb"
@@ -4434,106 +4434,106 @@ msgid ""
 "and the ability to cast the greater invisibility spell once per day as a 7th"
 " level wizard."
 msgstr ""
-"이 부츠의 착용자는 모든 은신 판정에 +5 상황 보너스를 받고, 하루에 한 번 7레벨 위저드의 상급 투명화 주문을 쓸 수 있게 됩니다."
+"이 장화의 착용자는 모든 은신 판정에 +5 상황 보너스를 받고, 하루에 한 번 7레벨 위저드의 상급 투명화 주문을 쓸 수 있게 됩니다."
 
 #. Mechanics/Blueprints/Equipment/Boots/DLC2/BootsOfTheCreepingDeath_m_DisplayNameText
 msgctxt "68adc7b8-f16b-4c2e-bb2f-8493b5da5d48"
 msgid "Boots of the Creeping Death"
-msgstr "기어오는 죽음의 부츠"
+msgstr "기어오는 죽음의 장화"
 
 #. Mechanics/Blueprints/Equipment/Boots/DLC2/BootsOfTheCreepingDeath_m_FlavorText
 msgctxt "967dc03b-1e41-44ca-92eb-8fb8521d006b"
 msgid "In these soft, silent boots one can steal wallets as easily as lives."
-msgstr "이 부드럽고 조용한 부츠를 신으면 숨쉬듯 쉽게 지갑을 훔칠 수 있습니다."
+msgstr "이 부드럽고 조용한 장화를 신으면 숨쉬듯 쉽게 지갑을 훔칠 수 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Boots/LateChapters/BonethreaderBootsItem_m_DescriptionText
 msgctxt "dc72d3ea-c6d5-41be-b1ad-6c25ec67d5cf"
 msgid "These boots grant their wearer DR 5/bludgeoning."
-msgstr "이 부츠는 착용자에게 DR 5/부수기 를 제공합니다."
+msgstr "이 장화는 착용자에게 DR 5/부수기 를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Boots/LateChapters/BonethreaderBootsItem_m_DisplayNameText
 msgctxt "47eb5d48-0b1c-4495-aefd-2bd9afe6b7b1"
 msgid "Bonethreader Boots"
-msgstr "뼈로 엮은 부츠"
+msgstr "뼈로 엮은 장화"
 
 #. Mechanics/Blueprints/Equipment/Boots/LateChapters/BonethreaderBootsItem_m_FlavorText
 msgctxt "57a36363-721f-45fc-81da-f472c71b969d"
 msgid ""
 "These heavy boots are reinforced with inserts made of an unknown animal's "
 "bones."
-msgstr "이 무거운 부츠는 알려지지 않은 동물의 뼈가 삽입되어 보강되었습니다."
+msgstr "이 무거운 장화는 알려지지 않은 동물의 뼈가 삽입되어 보강되었습니다."
 
 #. Mechanics/Blueprints/Equipment/Boots/LateChapters/BootsOfManticoreItem_m_DescriptionText
 msgctxt "20cd8b9f-42cc-44be-a1b8-db7c08515e17"
 msgid ""
 "These boots grant its wearer a +10 bonus to speed and +4 enhancement bonus "
 "to natural armor."
-msgstr "이 부츠는 착용자에게 이동속도에 +10 보너스, +4 자연 방어 강화 보너스를 제공합니다."
+msgstr "이 장화는 착용자에게 이동속도에 +10 보너스, +4 자연 방어 강화 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Boots/LateChapters/BootsOfManticoreItem_m_DisplayNameText
 msgctxt "37af90d3-87ef-47c4-b588-321bb3bd6333"
 msgid "Manticore Skin Boots"
-msgstr "만티코어 가죽 부츠"
+msgstr "만티코어 가죽 장화"
 
 #. Mechanics/Blueprints/Equipment/Boots/LateChapters/BootsOfManticoreItem_m_FlavorText
 msgctxt "a5574d79-a81f-4252-a947-b7f59a72b67a"
 msgid ""
 "Made of a magical predator's hide, these boots tremble a bit even when "
 "nobody wears them, as if trying to run after a prey."
-msgstr "마법적 포식자의 가죽으로 만들어진 이 부츠는 아무도 신지 않아도 마치 먹이를 쫓으려는 것처럼 살짝 흔들립니다."
+msgstr "마법적 포식자의 가죽으로 만들어진 이 장화는 아무도 신지 않아도 마치 먹이를 쫓으려는 것처럼 살짝 흔들립니다."
 
 #. Mechanics/Blueprints/Equipment/Boots/LateChapters/BootsOfTheLightStepItem_m_DescriptionText
 msgctxt "a9b4bcb7-d351-4ea8-85d1-9b0a43d903ea"
 msgid ""
 "Thses boots grant the wearer a constant effect of the feather step spell."
-msgstr "이 부츠의 착용자에게 깃털 걸음 주문의 효과를 제공합니다."
+msgstr "이 장화의 착용자에게 깃털 걸음 주문의 효과를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Boots/LateChapters/BootsOfTheLightStepItem_m_DisplayNameText
 msgctxt "70c85480-b727-4e0e-92b4-510494fbe93d"
 msgid "Boots of the Light Step"
-msgstr "가벼운 걸음의 부츠"
+msgstr "가벼운 걸음의 장화"
 
 #. Mechanics/Blueprints/Equipment/Boots/LateChapters/BootsOfTheLightStepItem_m_FlavorText
 msgctxt "b1ae0dac-06c3-4143-85e9-b92005d50608"
 msgid ""
 "These boots are so light and cozy that they make you feel like you're "
 "barefoot."
-msgstr "이 부츠은 너무 가볍고 아늑해서 맨발처럼 느껴집니다."
+msgstr "이 장화은 너무 가볍고 아늑해서 맨발처럼 느껴집니다."
 
 #. Mechanics/Blueprints/Equipment/Boots/LateChapters/BootsOfTheSwampItem_m_DescriptionText
 msgctxt "c7ee5d24-2d96-4270-8970-f1afdc21ef87"
 msgid ""
 "These boots grant the wearer immunity to ability damage and ability drain."
-msgstr "이 부츠은 착용자에게 능력치 피해 및 고갈에 면역을 제공합니다."
+msgstr "이 장화은 착용자에게 능력치 피해 및 고갈에 면역을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Boots/LateChapters/BootsOfTheSwampItem_m_DisplayNameText
 msgctxt "79ed4525-e997-4ba2-8aca-ad39e7dc5c4d"
 msgid "Swamp Dweller's Boots"
-msgstr "늪 지대 부츠"
+msgstr "늪 지대 장화"
 
 #. Mechanics/Blueprints/Equipment/Boots/LateChapters/BootsOfTheSwampItem_m_FlavorText
 msgctxt "a00c5ba0-670c-471f-b2b8-ece9e12fb716"
 msgid ""
 "Heavy boots made of durable leather, designed to protect a traveler from "
 "some of the nastiest kinds of swamp fauna."
-msgstr "가장 더러운 늪에서도 여행자를 보호하도록 내구성이 뛰어난 가죽으로 만들어진 무거운 부츠입니다."
+msgstr "가장 더러운 늪에서도 여행자를 보호하도록 내구성이 뛰어난 가죽으로 만들어진 무거운 장화입니다."
 
 #. Mechanics/Blueprints/Equipment/Boots/LateChapters/DevilsBootsItem_m_DescriptionText
 msgctxt "6a857e1a-9bff-4e1c-af4f-27c10175537a"
 msgid ""
 "These boots grant its wearer fire resistance 30 and immunity to poison."
-msgstr "이 부츠는 착용자에게 화염 저항 30과 독 면역을 제공합니다."
+msgstr "이 장화는 착용자에게 화염 저항 30과 독 면역을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Boots/LateChapters/DevilsBootsItem_m_DisplayNameText
 msgctxt "216fb4ba-8f19-4756-92ee-d94478f7a5c6"
 msgid "Hellstrider Boots"
-msgstr "지옥여행자의 부츠"
+msgstr "지옥여행자의 장화"
 
 #. Mechanics/Blueprints/Equipment/Boots/LateChapters/DevilsBootsItem_m_FlavorText
 msgctxt "cfa0e1c2-5600-45f3-b1de-03b76c2b9650"
 msgid ""
 "In these sturdy boots, you could travel nine hells and safely come back."
-msgstr "이 견고한 부츠라면 아홉 지옥으로의 여행에서도 무사히 돌아올 수 있을 것입니다."
+msgstr "이 견고한 장화라면 아홉 지옥으로의 여행에서도 무사히 돌아올 수 있을 것입니다."
 
 #. Mechanics/Blueprints/Equipment/Bracers/ArcheryBonusesLesser_m_DisplayName
 msgctxt "6e7b9e77-2e3f-4864-9aa2-61d6ebf3b5b9"
@@ -4550,7 +4550,7 @@ msgctxt "84cdb94d-c09c-4c20-a7af-47f854f9adf8"
 msgid ""
 "These bracers empower the wearer to use any bow with a +1 competence bonus "
 "on attack rolls."
-msgstr "이 팔 보호구는 착용자의 모든 활 사용능력을 강화하여 활을 통한 명중 굴림에 +1의 능숙 보너스를 제공합니다."
+msgstr "이 팔찌는 착용자의 모든 활 사용능력을 강화하여 활을 통한 명중 굴림에 +1의 능숙 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Bracers/BracersOfArcheryLesser_m_DisplayNameText
 msgctxt "01118cf7-922b-4bf8-8890-225c94de2b04"
@@ -4568,8 +4568,7 @@ msgid ""
 "These bracers empower the wearer to use any bow with a +2 competence bonus "
 "on attack rolls and a +1 competence bonus on damage rolls."
 msgstr ""
-"이 팔 보호구는 착용자의 모든 활 사용능력을 강화하여 활을 통한 명중 굴림에 +2의 능숙 보너스와 피해 굴림에 +1의 능숙 보너스를 "
-"제공합니다."
+"이 팔찌는 착용자의 모든 활 사용능력을 강화하여 활을 통한 명중 굴림에 +2의 능숙 보너스와 피해 굴림에 +1의 능숙 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Bracers/BracersOfArchery_m_DisplayNameText
 msgctxt "698ac62c-c430-41e3-bc61-5bbc53fe7671"
@@ -4594,7 +4593,7 @@ msgid ""
 "These bracers grant their wearer an armor bonus of +1, just as though they were wearing armor.\n"
 "Like most bonuses, an armor bonus does not stack with armor bonuses from different sources, such as bonuses from wearing armor or from Mage Armor spell."
 msgstr ""
-"이 팔 보호구는 착용자가 갑옷을 입고 있는 것처럼 +1의 갑옷 보너스를 줍니다.\n"
+"이 팔찌는 착용자가 갑옷을 입고 있는 것처럼 +1의 갑옷 보너스를 줍니다.\n"
 "대부분의 보너스처럼 갑옷 보너스는 갑옷을 입어 얻는 갑옷 보너스나 마법사의 갑옷과 같은 주문으로 얻는 다른 출처의 갑옷 보너스와 중첩되지 "
 "않습니다."
 
@@ -4609,8 +4608,9 @@ msgid ""
 "These bracers grant their wearer an armor bonus of +2, just as though they were wearing armor.\n"
 "Like most bonuses, an armor bonus does not stack with armor bonuses from different sources, such as bonuses from wearing armor or from Mage Armor spell."
 msgstr ""
-"이 팔 보호구는 착용자가 갑옷을 입고 있는 것처럼 +2의 갑옷 보너스를 줍니다.\n"
-"대부분의 보너스처럼 갑옷 보너스는 갑옷을 입어 얻는 갑옷 보너스나 마법사의 갑옷과 같은 주문으로 얻는 다른 출처의 갑옷 보너스와 중첩되지 않습니다."
+"이 팔찌는 착용자가 갑옷을 입고 있는 것처럼 +2의 갑옷 보너스를 줍니다.\n"
+"대부분의 보너스처럼 갑옷 보너스는 갑옷을 입어 얻는 갑옷 보너스나 마법사의 갑옷과 같은 주문으로 얻는 다른 출처의 갑옷 보너스와 중첩되지 "
+"않습니다."
 
 #. Mechanics/Blueprints/Equipment/Bracers/BracersOfArmor2_m_DisplayNameText
 msgctxt "cda27b4b-ecc1-4a45-8777-57c56e4123e4"
@@ -4623,8 +4623,9 @@ msgid ""
 "These bracers grant their wearer an armor bonus of +3, just as though they were wearing armor.\n"
 "Like most bonuses, an armor bonus does not stack with armor bonuses from different sources, such as bonuses from wearing armor or from Mage Armor spell."
 msgstr ""
-"이 팔 보호구는 착용자가 갑옷을 입고 있는 것처럼 +3의 갑옷 보너스를 줍니다.\n"
-"대부분의 보너스처럼 갑옷 보너스는 갑옷을 입어 얻는 갑옷 보너스나 마법사의 갑옷과 같은 주문으로 얻는 다른 출처의 갑옷 보너스와 중첩되지 않습니다."
+"이 팔찌는 착용자가 갑옷을 입고 있는 것처럼 +3의 갑옷 보너스를 줍니다.\n"
+"대부분의 보너스처럼 갑옷 보너스는 갑옷을 입어 얻는 갑옷 보너스나 마법사의 갑옷과 같은 주문으로 얻는 다른 출처의 갑옷 보너스와 중첩되지 "
+"않습니다."
 
 #. Mechanics/Blueprints/Equipment/Bracers/BracersOfArmor3_m_DisplayNameText
 msgctxt "37546fbf-f607-46cd-b6ee-6ed6847cbe64"
@@ -4637,8 +4638,9 @@ msgid ""
 "These bracers grant their wearer an armor bonus of +4, just as though they were wearing armor.\n"
 "Like most bonuses, an armor bonus does not stack with armor bonuses from different sources, such as bonuses from wearing armor or from Mage Armor spell."
 msgstr ""
-"이 팔 보호구는 착용자가 갑옷을 입고 있는 것처럼 +4의 갑옷 보너스를 줍니다.\n"
-"대부분의 보너스처럼 갑옷 보너스는 갑옷을 입어 얻는 갑옷 보너스나 마법사의 갑옷과 같은 주문으로 얻는 다른 출처의 갑옷 보너스와 중첩되지 않습니다."
+"이 팔찌는 착용자가 갑옷을 입고 있는 것처럼 +4의 갑옷 보너스를 줍니다.\n"
+"대부분의 보너스처럼 갑옷 보너스는 갑옷을 입어 얻는 갑옷 보너스나 마법사의 갑옷과 같은 주문으로 얻는 다른 출처의 갑옷 보너스와 중첩되지 "
+"않습니다."
 
 #. Mechanics/Blueprints/Equipment/Bracers/BracersOfArmor4_m_DisplayNameText
 msgctxt "68ae5c47-a2c3-4b8f-9094-76161070b121"
@@ -4651,8 +4653,9 @@ msgid ""
 "These bracers grant their wearer an armor bonus of +5, just as though they were wearing armor.\n"
 "Like most bonuses, an armor bonus does not stack with armor bonuses from different sources, such as bonuses from wearing armor or from Mage Armor spell."
 msgstr ""
-"이 팔 보호구는 착용자가 갑옷을 입고 있는 것처럼 +5의 갑옷 보너스를 줍니다.\n"
-"대부분의 보너스처럼 갑옷 보너스는 갑옷을 입어 얻는 갑옷 보너스나 마법사의 갑옷과 같은 주문으로 얻는 다른 출처의 갑옷 보너스와 중첩되지 않습니다."
+"이 팔찌는 착용자가 갑옷을 입고 있는 것처럼 +5의 갑옷 보너스를 줍니다.\n"
+"대부분의 보너스처럼 갑옷 보너스는 갑옷을 입어 얻는 갑옷 보너스나 마법사의 갑옷과 같은 주문으로 얻는 다른 출처의 갑옷 보너스와 중첩되지 "
+"않습니다."
 
 #. Mechanics/Blueprints/Equipment/Bracers/BracersOfArmor5_m_DisplayNameText
 msgctxt "a370655c-15be-40f8-9bd4-09225800ae69"
@@ -4665,8 +4668,9 @@ msgid ""
 "These bracers grant their wearer an armor bonus of +6, just as though they were wearing armor.\n"
 "Like most bonuses, an armor bonus does not stack with armor bonuses from different sources, such as bonuses from wearing armor or from Mage Armor spell."
 msgstr ""
-"이 팔 보호구는 착용자가 갑옷을 입고 있는 것처럼 +6의 갑옷 보너스를 줍니다.\n"
-"대부분의 보너스처럼 갑옷 보너스는 갑옷을 입어 얻는 갑옷 보너스나 마법사의 갑옷과 같은 주문으로 얻는 다른 출처의 갑옷 보너스와 중첩되지 않습니다."
+"이 팔찌는 착용자가 갑옷을 입고 있는 것처럼 +6의 갑옷 보너스를 줍니다.\n"
+"대부분의 보너스처럼 갑옷 보너스는 갑옷을 입어 얻는 갑옷 보너스나 마법사의 갑옷과 같은 주문으로 얻는 다른 출처의 갑옷 보너스와 중첩되지 "
+"않습니다."
 
 #. Mechanics/Blueprints/Equipment/Bracers/BracersOfArmor6_m_DisplayNameText
 msgctxt "41f830ef-b015-4a40-8e51-8a3f90b107c3"
@@ -4679,8 +4683,9 @@ msgid ""
 "These bracers grant their wearer an armor bonus of +7, just as though they were wearing armor.\n"
 "Like most bonuses, an armor bonus does not stack with armor bonuses from different sources, such as bonuses from wearing armor or from Mage Armor spell."
 msgstr ""
-"이 팔 보호구는 착용자가 갑옷을 입고 있는 것처럼 +7의 갑옷 보너스를 줍니다.\n"
-"대부분의 보너스처럼 갑옷 보너스는 갑옷을 입어 얻는 갑옷 보너스나 마법사의 갑옷과 같은 주문으로 얻는 다른 출처의 갑옷 보너스와 중첩되지 않습니다."
+"이 팔찌는 착용자가 갑옷을 입고 있는 것처럼 +7의 갑옷 보너스를 줍니다.\n"
+"대부분의 보너스처럼 갑옷 보너스는 갑옷을 입어 얻는 갑옷 보너스나 마법사의 갑옷과 같은 주문으로 얻는 다른 출처의 갑옷 보너스와 중첩되지 "
+"않습니다."
 
 #. Mechanics/Blueprints/Equipment/Bracers/BracersOfArmor7_m_DisplayNameText
 msgctxt "55be4d45-f0c5-4d7c-b635-bcf7a25f1e10"
@@ -4693,8 +4698,9 @@ msgid ""
 "These bracers grant their wearer an armor bonus of +8, just as though they were wearing armor.\n"
 "Like most bonuses, an armor bonus does not stack with armor bonuses from different sources, such as bonuses from wearing armor or from Mage Armor spell."
 msgstr ""
-"이 팔 보호구는 착용자가 갑옷을 입고 있는 것처럼 +8의 갑옷 보너스를 줍니다.\n"
-"대부분의 보너스처럼 갑옷 보너스는 갑옷을 입어 얻는 갑옷 보너스나 마법사의 갑옷과 같은 주문으로 얻는 다른 출처의 갑옷 보너스와 중첩되지 않습니다."
+"이 팔찌는 착용자가 갑옷을 입고 있는 것처럼 +8의 갑옷 보너스를 줍니다.\n"
+"대부분의 보너스처럼 갑옷 보너스는 갑옷을 입어 얻는 갑옷 보너스나 마법사의 갑옷과 같은 주문으로 얻는 다른 출처의 갑옷 보너스와 중첩되지 "
+"않습니다."
 
 #. Mechanics/Blueprints/Equipment/Bracers/BracersOfArmor8_m_DisplayNameText
 msgctxt "ffae3d8a-3d26-439e-9f74-151bb86a2a63"
@@ -4753,7 +4759,7 @@ msgstr ""
 #. Mechanics/Blueprints/Equipment/Bracers/GearsRuleItem_m_DisplayNameText
 msgctxt "7cc5cc5d-84cd-4f2e-8ceb-71834adc9a81"
 msgid "Gear's Rule"
-msgstr "기계장치의 지배"
+msgstr "기어스 지배"
 
 #. Mechanics/Blueprints/Equipment/Bracers/GearsRuleItem_m_FlavorText
 msgctxt "79431e43-09ad-4b7c-8b1f-ebe35ea551df"
@@ -4764,9 +4770,9 @@ msgid ""
 "wrist this item merges with the characters flesh, appearing as a faintly "
 "glowing tattoo and granting several abilities to its owner."
 msgstr ""
-"기계 전갈의 형태를 한 이 물체는 사실 안드로이드 기어스의 영혼과 능력을 추출한 자동 나노 기기의 집합체로, 그의 패밀리어의 일부로 "
-"결합되어 있습니다. 이 장치를 캐릭터의 손목에 올려놓으면 캐릭터의 살갗에 스며들어서 희미하게 빛나는 문신이 되고 소유자에게 몇 가지 "
-"능력을 부여합니다."
+"기계 전갈의 형태를 한 이 물체는 사실 친구들이 자신의 일부를 모아 만든 안드로이드 기어스의 영혼과 능력을 추출한 자동 나노 기기의 "
+"집합체로, 이 장치를 캐릭터의 손목에 올려놓으면 캐릭터의 살갗에 스며들어서 희미하게 빛나는 문신이 되고 소유자에게 몇 가지 능력을 "
+"부여합니다."
 
 #. Mechanics/Blueprints/Equipment/Bracers/GearsRuleNote_m_DisplayNameText
 msgctxt "de47ad78-fe3f-46ce-93ac-b0c9adaa5f77"
@@ -4792,11 +4798,43 @@ msgid ""
 "Kalannah\n"
 "PS. I attach to this letter a box containing the remains of the android, the nanites take form and fuse, but seem practically inert and unresponsive to our experts and analysis machines. Maybe you can find some use for them.\""
 msgstr ""
+"\"마에스트로 야누쉬께,\n"
+"마침내 문제가 해결되었습니다. 우리 조직이 입은 모든 피해에 대한 사고 보고서를 올립니다. 지시하신 대로 회사의 기술자들과 로봇 호위들이 "
+"이 소란을 잠재웠습니다.\n"
+"송구스럽게도 이 습격에서 살아남은 우리 인원은 얼마 되지 않습니다. 미르미돈과 하급 로봇들은 겨우 부품만 건졌고, 우리의 귀중한 "
+"어나힐레이터 두 대중 한 대는 아직 운용 가능합니다만, 큰 손상을 입었고 우리 능력으로는 수리가 불가능합니다.\n"
+"적어도 \"누메리아 재앙\" 사태는 이제 완전히 종결되었으며, 가능한 한 빠르게 완전한 보고서를 올리도록 하겠습니다. 그전에 주요 연구 "
+"사항을 간추려 여기에 적어 올립니다.\n"
+"현재까지 이 사태는 강력한 개인들이 조직적으로 움직이는 소규모 집단이 벌인 소행으로 보이며, 더 자세한 정보가 밝혀질 때까지는 5대 "
+"재앙이라 부르기로 하였습니다:\n"
+"-팔 4개를 지닌 미등록 안드로이드 한 대. 이 안드로이드의 사이버웨어는 몹시 개조되어 폭발을 통한 장애나 사망의 유발이 허용되어 "
+"있었습니다. 이것을 수리해서 사용해 보려고 하였으나, 이상한 나노 기기 구름 덩어리를 추출해내는데 그쳤습니다. 지금은 만질 수 있는 "
+"형태로 안정화되었지만 일부 데이터가 손상되어 있습니다. 일단 복구를 시도하였으나 성공한 것은 자신을 \"기어스\"라는 존재로, 또는 \""
+"엘로니엘\", \"세이\", \"신드라\", \"엘프리다\", \"맥스\", \"빌리\", \"샌달리\"라는 이름 중의 하나로 인식하는 "
+"자기 인식을 추출해낸 것 뿐입니다. 재난의 원흉이 이중에 있기를 바라고 있습니다. 수사의 단서가 될만한 것이 그것 밖에 없습니다.\n"
+"-날개와 강력한 성스러운 오라를 지닌 여성형 천사 같은 존재. 한결 같은 치유 능력으로 재앙의 처리를 엄청나게 늦추었습니다. 재앙이 "
+"피해를 받는 것보다 더 빠르게 치유되는 것 같았고, 치유될 때마다 우리 인원이 그 반동을 받아 자연 발화를 일으켰던 것으로 보입니다.\n"
+"-뿔, 꼬리, 작고 뾰족한 송곳니, 극도의 민첩성을 지닌 여성형 데블 또는 짐승. 유발한 피해가 동료들에 비할 바는 아니었지만, 제일 "
+"나중에 제압되었습니다. 어나힐레이터가 그 지역을 통째로 날려버리기 전까지는 거의 손도 대지 못했습니다.\n"
+"-매우 특이한 능력을 지닌 인간 여성. 활과 신비로운 노래의 조합으로 우리 병력을 공격했지만, 전투중 자기 동료들에게 산발적으로 "
+"돌연변이를 일으키며 공격성을 표출하는 것이 보였습니다. 아직 조사 중이지만, 그 이후로는 그녀나 돌연변이의 흔적을 찾을 수 없었습니다.\n"
+"-마지막 사례는 상당히 이례적이며, 쉽게 분류하기 어렵습니다. 겉보기에는 엘프나 하프엘프 남성으로 보이는데, 게거품을 물고 분노한 상태로 "
+"칼과 권총을 휘둘러 강철바람과 납탄의 비를 휘몰아쳤습니다. 다음 습격 때는 안드로이드가 그를 할퀴었는데, 그러자 팔이 6개 달린 물로 "
+"이뤄진 거대한 크리처로 변해 발톱, 송곳니, 그리고 무기를 휘두르며 우리 대열을 혼란에 빠뜨렸습니다. 명백히 추가 조사가 필요한 "
+"상황입니다.\n"
+"상기한 재앙 뒤에는 요원들을 죽여서 펠데일 방면 거미의 흉터에서 진행중인 우리 활동을 접게하고 스타폴 기지로 철수하도록 하려는 속셈이 "
+"있는 듯합니다.\n"
+"공격의 진의와 동기는 아직 밝혀내지 못했으며, 우리가 당한 습격 중에도 별다른 말은 없었습니다.\n"
+"비록 이렇게 심대한 타격을 입었지만, 이 전언을 당신께 전하는 동안 누메리아에서 우리 활동이 재개되었다는 점은 희소식이 될 수 있을 "
+"듯합니다.\n"
+"칼란나.\n"
+"PS. 이 편지에 안드로이드의 잔해가 들어 있는 상자를 첨부합니다. 나노 기기는 형태와 퓨즈를 가지고 있지만, 우리 전문가들과 분석 "
+"기계에는 거의 반응하지 않아 비활성 상태로 보입니다. 아마 당신께서는 이것을 유용하게 쓸 수 있으실겁니다.\""
 
 #. Mechanics/Blueprints/Equipment/Bracers/RubyPhoenixItem_DisplayNameText_String
 msgctxt "9d012069-054e-4659-bc90-6a55dca6f504"
 msgid "Bracers of the Ruby Phoenix Champion"
-msgstr "루비 피닉스 투사의 팔찌"
+msgstr "홍옥 불사조 우승자의 팔찌"
 
 #. Mechanics/Blueprints/Equipment/Bracers/RubyPhoenixItem_m_DescriptionText
 msgctxt "4a83ebf6-e8ce-4b2a-bbfe-e5771268906e"
@@ -4806,22 +4844,20 @@ msgid ""
 "damage rolls. These bracers also grant an additional +1 bonus on all attacks"
 " rolls and damage rolls with Longbows."
 msgstr ""
-"이 팔 보호구는 궁술의 팔 보호구처럼 착용자의 모든 활 사용능력을 강화하여 활을 통한 명중 굴림에 +2의 능숙 보너스와 피해 굴림에 "
-"+1의 능숙 보너스를 제공합니다. 또한 이 팔 보호구는 장궁을 사용시 모든 명중 굴림과 피해 굴림에 +1 보너스를 추가 제공합니다."
+"이 팔찌는 궁술의 팔찌처럼 착용자의 모든 활 사용능력을 강화하여 활을 통한 명중 굴림에 +2의 능숙 보너스와 피해 굴림에 +1의 능숙 "
+"보너스를 제공합니다. 또한 이 팔찌는 장궁을 사용시 모든 명중 굴림과 피해 굴림에 +1 보너스를 추가 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Bracers/RubyPhoenixItem_m_FlavorText
 msgctxt "127a62b7-e2e9-4891-ac9e-30d56746c027"
 msgid ""
 "The bracers of Ruberd Smythe, a fighter famous for his skill with the bow, "
 "his beauty, and for achieving victory in the Ruby Phoenix Tournament."
-msgstr ""
-"루버드 스미스(Ruberd Smythe)의 팔 보호구로 전사였던 그는 궁술, 아름다움과 홍옥 불사조 경기(Ruby Phoenix "
-"Tournament)에서 승리한 것으로 유명하였다."
+msgstr "궁술과 아름다운 외모, 홍옥 불사조 경기의 우승자로 유명한 파이터, 루버드 스미스의 팔찌입니다."
 
 #. Mechanics/Blueprints/Equipment/Bracers/RubyPhoenixItem_m_NonIdentifiedNameText
 msgctxt "225da13f-6826-4d72-9ccf-a27274bedf53"
 msgid "Bracers"
-msgstr ""
+msgstr "팔찌"
 
 #. Mechanics/Blueprints/Equipment/Bracers/DLC2/BracersOfDeflection_m_DescriptionText
 msgctxt "ddadb977-16c1-40ca-b75c-aa8d13bcb27e"
@@ -4829,42 +4865,43 @@ msgid ""
 "These bracers give the wearer a +2 deflection bonus to AC and the ability to"
 " cast the shield spell twice a day like a 5th level wizard."
 msgstr ""
+"이 팔찌는 착용자에게 AC에 +2 굴절 보너스를 주고, 하루에 두 번 5레벨 위저드의 방패 주문을 시전할 수 있는 능력을 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Bracers/DLC2/BracersOfDeflection_m_DisplayNameText
 msgctxt "875bfd27-a774-48db-98bc-4f884ab57e33"
 msgid "Bracers of Deflection"
-msgstr ""
+msgstr "굴절의 팔찌"
 
 #. Mechanics/Blueprints/Equipment/Bracers/DLC2/BracersOfDeflection_m_FlavorText
 msgctxt "14cf2086-4d9e-4927-9a45-46b77950c310"
 msgid "Weaponless doesn't always mean defenseless."
-msgstr ""
+msgstr "무기가 없다고 꼭 방어수단이 없는 건 아닙니다."
 
 #. Mechanics/Blueprints/Equipment/Bracers/DLC2/CharonsTouch_m_DescriptionText
 msgctxt "c22c85eb-ce99-4e46-8879-72d98854a4ec"
 msgid ""
 "These bracers grant their wearer an ability cast harm spell once per day, "
 "and greater false life spell twice per day."
-msgstr ""
+msgstr "이 팔찌는 착용자에게 하루에 한 번 위해 주문을, 하루에 두 번 상급 거짓 생명 주문을 시전할 수 있는 능력을 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Bracers/DLC2/CharonsTouch_m_DisplayNameText
 msgctxt "4ffdff72-d7c0-4578-a187-a133b9e5ead7"
 msgid "Charon's Touch"
-msgstr ""
+msgstr "케런의 손길"
 
 #. Mechanics/Blueprints/Equipment/Bracers/DLC2/CharonsTouch_m_FlavorText
 msgctxt "02e51cb3-ebce-4e60-a895-c04666e854ee"
 msgid ""
 "The only reward the Death Horseman gives to his flock is a chance to hasten "
 "other people's deaths more than their own."
-msgstr ""
+msgstr "죽음의 기수가 자신의 양떼에게 주는 유일한 보상은 다른 사람의 죽음을 자신의 죽음보다 앞당길 수 있게 해주는 것입니다."
 
 #. Mechanics/Blueprints/Equipment/Bracers/HermitKnightBracers/HermitKnightBracersShakenBuff_m_Description
 msgctxt "80386f6c-07b9-4308-9710-dc425265ab98"
 msgid ""
 "Forest Knight's Bracers have granted you a +2 morale bonus to attack rolls, "
 "saving throws and skill checks for the same duration."
-msgstr "삼림 기사의 팔 보호구는 명중 굴림, 내성 굴림과 스킬 판정에 +2 사기 보너스를 제공합니다."
+msgstr "삼림 기사의 팔찌는 명중 굴림, 내성 굴림과 기술 판정에 +2 사기 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Bracers/HermitKnightBracers/HermitKnightBracersShakenBuff_m_DisplayName
 msgctxt "0d026c27-dc1f-43ea-aa73-0b43260e6ce3"
@@ -4876,59 +4913,50 @@ msgctxt "1f971e46-0078-484d-9590-b84820a14447"
 msgid ""
 "These bracers grant its wearer a +1 bonus to Illusion school spells' DC, and"
 " a +2 bonus to saving throws against illusion school spells."
-msgstr ""
-"이 팔 보호구는 착용자의 일루젼 학파 주문 DC에 +1 보너스와 일루전 학파 주문 대항시 내성 굴림에 +2 보너스를 제공합니다."
+msgstr "이 팔찌는 착용자의 일루젼 학파 주문 DC에 +1 보너스와 일루전 학파 주문 대항시 내성 굴림에 +2 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Bracers/Unique/GoldenHallucinationBracersItem_m_DisplayNameText
 msgctxt "e3e7da26-25dc-4fd7-9083-75c26cc3cbbf"
 msgid "Golden Vision"
-msgstr ""
+msgstr "금빛 환상"
 
 #. Mechanics/Blueprints/Equipment/Bracers/Unique/GoldenHallucinationBracersItem_m_FlavorText
 msgctxt "df9f537a-5595-440b-9d1e-0ca6a5a51b4e"
 msgid ""
 "A mere touch of these bracres' golden surface fills your mind with vivid "
 "fantastical images."
-msgstr ""
+msgstr "이 팔찌의 금빛 표면을 만지는 것만으로도 생생한 환상이 당신의 마음을 가득 채웁니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CapeOfDivinationItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This cape grants the wearer +3 bonus to DC to Divination School."
 msgctxt "566724ed-9b86-4694-b0a4-f067bda4f3ec"
 msgid ""
 "This cape increases by 3 the DC of all Divination school spells cast by the "
 "wearer."
-msgstr "이 케이프는 착용자에게 디비네이션 학파 주문의 DC에 +3의 보너스를 제공합니다."
+msgstr "이 케이프는 착용자가 사용하는 디비네이션 학파 주문의 DC에 +3의 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CapeOfDivinationItem_m_DisplayNameText
-#, fuzzy
-#| msgid "Cape of Divination"
 msgctxt "19dcd591-911f-48fb-8c92-e1ab3eb9ee84"
 msgid "Augur's Cape"
-msgstr "디비네이션의 케이프"
+msgstr "전조의 케이프"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfHeroism_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This cloak grants its wearer the ability to cast heroism spell once per day."
 msgctxt "e99b61ae-619f-45b4-88f8-ddcb1ac915d7"
 msgid ""
 "This cloak grants its wearer the ability to cast heroism spell once per day "
 "as a 2nd level wizard."
-msgstr "이 망토는 착용자에게 하루에 한 번 영움심 주문 시전 능력을 제공합니다."
+msgstr "이 망토는 착용자에게 하루에 한 번 2레벨 위저드의 영웅심 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfHeroism_m_DisplayNameText
 msgctxt "c6f81848-65be-469f-9dc9-101bdd60bec7"
 msgid "Cloak of Heroism"
-msgstr ""
+msgstr "영웅심의 망토"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfHeroism_m_FlavorText
 msgctxt "0f467db9-6106-440d-a2ab-5f8067b2aa46"
 msgid ""
 "The collar of this cloak is decorated with shiny gems. The fabric produces "
 "pleasant rustling sounds with every movement."
-msgstr ""
+msgstr "이 망토의 깃은 반짝이는 보석으로 장식되어 있습니다. 움직일때마다 옷감에서 기분 좋게 스치는 소리가 납니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfInnerWarmthItem_m_DescriptionText
 msgctxt "f2938a2d-3766-4fe6-a4dc-5fac3b521c99"
@@ -4939,14 +4967,14 @@ msgstr "이 망토는 착용자에게 산성 저함 30과 냉기 저항 30을 �
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfInnerWarmthItem_m_DisplayNameText
 msgctxt "a66dc768-a5f9-4f89-828a-a83df49dd126"
 msgid "Cloak Of Inner Warmth"
-msgstr ""
+msgstr "내면의 온기 망토"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfInnerWarmthItem_m_FlavorText
 msgctxt "882b6ef5-a6b9-4aed-b47f-519701a34e30"
 msgid ""
 "A cloak so warm and cozy that you could wrap yourself in it and sleep "
 "comfortably in the middle of a blizzard."
-msgstr ""
+msgstr "너무 따뜻하고 아늑해서 눈보라 속에서 몸을 감싸고 편안하게 잘 수 있는 망토입니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfResistance1_m_DescriptionText
 msgctxt "296065ec-6c2d-447d-a9c4-f76e14bc57a7"
@@ -4958,7 +4986,7 @@ msgstr "이 망토는 착용자에게 모든 내성 굴림 +1의 저항 보너�
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfResistance1_m_DisplayNameText
 msgctxt "70fa08b1-ce1d-45b3-9f7c-72b639d9143a"
 msgid "Cloak of Resistance +1"
-msgstr ""
+msgstr "저항의 망토 +1"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfResistance2_m_DescriptionText
 msgctxt "7ceefaf6-91f5-41ed-b01b-a239e15e50d5"
@@ -4970,7 +4998,7 @@ msgstr "이 망토는 착용자에게 모든 내성 굴림 +2의 저항 보너�
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfResistance2_m_DisplayNameText
 msgctxt "f33c9414-2d05-4076-8928-bbc9b35783a2"
 msgid "Cloak of Resistance +2"
-msgstr ""
+msgstr "저항의 망토 +2"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfResistance3_m_DescriptionText
 msgctxt "79b1fca1-6524-4c73-9573-47a0f61fc882"
@@ -4982,7 +5010,7 @@ msgstr "이 망토는 착용자에게 모든 내성 굴림 +3의 저항 보너�
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfResistance3_m_DisplayNameText
 msgctxt "b8d4ab36-dded-4746-bdb6-11bf2f628ff1"
 msgid "Cloak of Resistance +3"
-msgstr ""
+msgstr "저항의 망토 +3"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfResistance4_m_DescriptionText
 msgctxt "371c0752-e636-47ee-926a-7403ff99e680"
@@ -4994,7 +5022,7 @@ msgstr "이 망토는 착용자에게 모든 내성 굴림 +4의 저항 보너�
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfResistance4_m_DisplayNameText
 msgctxt "0e91ffed-0ea8-4488-b17a-a9165c57af3d"
 msgid "Cloak of Resistance +4"
-msgstr ""
+msgstr "저항의 망토 +4"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfResistance5_m_DescriptionText
 msgctxt "28849f5c-488a-42cd-a072-0043df469382"
@@ -5006,7 +5034,7 @@ msgstr "이 망토는 착용자에게 모든 내성 굴림 +5의 저항 보너�
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfResistance5_m_DisplayNameText
 msgctxt "7a44d42c-c9ac-483a-a940-0282a2526e73"
 msgid "Cloak of Resistance +5"
-msgstr ""
+msgstr "저항의 망토 +5"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfResistance6_m_DescriptionText
 msgctxt "53723774-46c5-4d00-b732-9d49a3d17f99"
@@ -5018,7 +5046,7 @@ msgstr "이 망토는 착용자에게 모든 내성 굴림 +6의 저항 보너�
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfResistance6_m_DisplayNameText
 msgctxt "6726d1d6-31aa-4556-bf75-114adc75156f"
 msgid "Cloak of Resistance +6"
-msgstr ""
+msgstr "저항의 망토 +6"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfShadows_m_DescriptionText
 msgctxt "5378f498-46dc-4825-8991-bbc2b57d6407"
@@ -5030,12 +5058,12 @@ msgstr "이 망토는 착용자에게 은신 기술 판정에 +10 강화 보너�
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfShadows_m_DisplayNameText
 msgctxt "d1940bf9-1d40-47c7-aa78-d6e38fb7afc7"
 msgid "Cloak of Shadows"
-msgstr ""
+msgstr "그림자의 망토"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfShadows_m_FlavorText
 msgctxt "0b579864-d911-40eb-a79e-085aaecf79d5"
 msgid "Shadows are running along the fabric of the cape."
-msgstr "망토 어깨의 천을 따라 그림자가 움직이고 있다."
+msgstr "망토 어깨의 천을 따라 그림자가 움직이고 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfSharpFangs_m_FlavorText
 msgctxt "a49397ed-b0f1-4019-a36f-703a1f267e9d"
@@ -5045,6 +5073,8 @@ msgid ""
 " cloak is stained with burn marks and dried blood. Now it serves as the "
 "symbol of power Regongar holds over his own destiny."
 msgstr ""
+"이 가죽 망토는 여러 세대에 걸쳐 날카로운 송곳니 부족의 족장이 쥐고 있는 권력의 상징 역할을 했습니다. 그 부족은 이미 오래 전에 "
+"망했고, 망토는 그슬린 자국과 말라붙은 피로 얼룩져 있습니다. 이제는 레곤가르가 자신의 운명을 쥐고 있는 힘의 상징 역할을 합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfSparklesItem_m_DescriptionText
 msgctxt "4bd17ce2-fbad-4492-bc36-8fb8f7893987"
@@ -5056,7 +5086,7 @@ msgstr "이 망토는 착용자에게 화염 저항 30과 전기 저항 30을 �
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfSparklesItem_m_DisplayNameText
 msgctxt "166c7ebb-0523-448f-b3b3-0049245381e1"
 msgid "Cloak Of Sparkles"
-msgstr ""
+msgstr "광채의 망토"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfStagLord_m_DescriptionText
 msgctxt "4c5baeb2-4656-4e43-9d0d-b319ade11a59"
@@ -5069,12 +5099,12 @@ msgstr ""
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfStagLord_m_DisplayNameText
 msgctxt "a97f3ddd-67d6-4656-af4f-3d23905881e7"
 msgid "Cloak of Winter Veil"
-msgstr ""
+msgstr "겨울 장막의 망토"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfStagLord_m_FlavorText
 msgctxt "e5c3dd4d-2e8a-40c1-870a-b4091187917b"
 msgid "The fabric feels chilly."
-msgstr ""
+msgstr "원단이 차게 느껴집니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakWyvernItem_m_DescriptionText
 msgctxt "d999963d-770a-49b0-af14-e843826ffca8"
@@ -5086,12 +5116,12 @@ msgstr "이 망토는 착용자에게 +2 자연 갑옷 강화 보너스와 독, 
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakWyvernItem_m_DisplayNameText
 msgctxt "9d91c95a-ed66-49c1-a820-e90539ade747"
 msgid "Wyvern Skin Cloak"
-msgstr ""
+msgstr "와이번 가죽 망토"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakWyvernItem_m_FlavorText
 msgctxt "e07a5d50-6e98-40bd-a43b-e3b6166315c3"
 msgid "This cape looks waxed."
-msgstr ""
+msgstr "이 망토는 밀랍을 바른 듯 합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/EnchantersCapeItem_m_DescriptionText
 msgctxt "ea262d4c-5866-4e36-9849-3ba52d5b1380"
@@ -5102,12 +5132,12 @@ msgstr "이 케이프는 착용자의 인첸트먼트 학파 주문 DC에 +1 보
 #. Mechanics/Blueprints/Equipment/Cloaks/EnchantersCapeItem_m_DisplayNameText
 msgctxt "a2663a45-b0fb-4e53-ab6f-17644481d315"
 msgid "Enchanter's Cape"
-msgstr "인첸터의 케이프"
+msgstr "인챈터의 케이프"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/EnchantersCapeItem_m_FlavorText
 msgctxt "fd688bcb-1057-4c11-83ee-5f5faad1d38b"
 msgid "This cloak's clasp locks by itself and opens by a voice command."
-msgstr ""
+msgstr "이 망토의 걸쇠는 저절로 잠기고 음성 명령으로 열립니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/ShroudOfAbaddon_m_DescriptionText
 msgctxt "4b1dbc6b-994b-4096-b14d-4cbb6419f747"
@@ -5122,80 +5152,69 @@ msgstr ""
 #. Mechanics/Blueprints/Equipment/Cloaks/ShroudOfAbaddon_m_DisplayNameText
 msgctxt "78a10326-68a4-4c98-a667-905658d81766"
 msgid "Shroud of Abaddon"
-msgstr ""
+msgstr "나락의 장막"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/ShroudOfAbaddon_m_FlavorText
 msgctxt "b0f5ccd2-f9af-4ac5-b903-385dffb65f95"
 msgid ""
 "If the owner of this shroud dies while wearing it, the cloak accepts this "
 "death as a sacrifice to its true masters."
-msgstr ""
+msgstr "소유자가 장막을 입은 채로 죽으면, 망토는 이 죽음을 그 진정한 주인에게 바치는 제물로 받아들입니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/ShamansCloak_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This cloak grants its wearer a +5 resistance bonus on all saving throws, and"
-#| " the ability to cast elemental body IV (earth) spell once per day."
 msgctxt "bad5ca68-dad1-46a4-a669-7f1d56d61e1e"
 msgid ""
 "This cloak grants its wearer a +5 resistance bonus on all saving throws, and"
 " the ability to cast elemental body IV (earth) spell once per day as a 17th "
 "level wizard."
 msgstr ""
-"이 망토는 착용자에게 모든 내성 굴림 +5 저항 보너스와 하루에 한 번 정령의 육체 IV(대지) 주문 시전 능력을 제공합니다."
+"이 망토는 착용자에게 모든 내성 굴림 +5 저항 보너스와 하루에 한 번 17레벨 위저드의 정령의 육신 IV(대지) 주문 시전 능력을 "
+"제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/ShamansCloak_m_DisplayNameText
 msgctxt "82ef6cba-85e0-45eb-be27-83df70eca831"
 msgid "Shaman's Cloak"
-msgstr ""
+msgstr "주술사의 망토"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/ShamansCloak_m_FlavorText
 msgctxt "68fde11d-7f00-4e01-98e2-3f6f474a6d74"
 msgid "Numerous pendants of this cloak tingle with every quick movement."
-msgstr ""
+msgstr "빨리 움직일 때마다 이 망토의 수많은 팬던트가 짤랑거립니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/ElfFemaleLeatherworker/CloakOfSeerItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This cloak grants its wearer a +3 deflection bonus to AC, a +3 bonus to "
-#| "Fortitude and Will saving throws, and an ability to cast see invisibility "
-#| "spell once per day."
 msgctxt "16635e94-f220-4110-b91c-a01f1c87bad8"
 msgid ""
 "This cloak grants its wearer a +3 deflection bonus to AC, a +3 bonus to "
 "Fortitude and Will saving throws, and an ability to cast see invisibility "
 "spell once per day as a 3rd level wizard."
 msgstr ""
-"이 망토는 착용자에게 AC에 +4의 굴절 보너스, 인내 및 의지 내성 굴림 +3 보너스와 하루에 한 번 투명체 탐지 주문 시전 능력을 "
-"제공합니다."
+"이 망토는 착용자에게 AC에 +4의 굴절 보너스, 인내 및 의지 내성 굴림 +3 보너스와 하루에 한 번 3레벨 위저드의 투명체 탐지 주문 "
+"시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/ElfFemaleLeatherworker/CloakOfSeerItem_m_DisplayNameText
 msgctxt "3e028829-97ea-484b-ab69-cbba1b2e392b"
 msgid "Cloak of the Seer"
-msgstr ""
+msgstr "선견자의 망토"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/CloakOfTheChosenItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This cloak grants its wearer immunity to blindness and dazzle, a +3 "
-#| "resistance bonus on Will saving throws, and the ability to cast prayer spell"
-#| " at will."
 msgctxt "b828b1d7-0968-4973-9950-7f705477f5af"
 msgid ""
 "This cloak grants its wearer immunity to blindness and dazzle, a +3 "
 "resistance bonus on Will saving throws, and the ability to cast prayer spell"
 " at will as a 9th level cleric."
-msgstr "이 망토는 착용자에게 실명과 눈부심 면역, 의지 내성 굴림 +3 저항 보너스와 자유의지로 기도 주문 시전 능력을 제공합니다."
+msgstr ""
+"이 망토는 착용자에게 실명과 눈부심 면역, 의지 내성 굴림 +3 저항 보너스를 주고, 마음대로 9레벨 클레릭의 기도 주문을 시전할 수 "
+"있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/CloakOfTheChosenItem_m_DisplayNameText
 msgctxt "0d3c78ab-efbc-4be3-bf2c-ab9f94b4d58a"
 msgid "Cloak of the Chosen"
-msgstr ""
+msgstr "선택받은 자의 망토"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/DervishCloakEnchant_m_Prefix
 msgctxt "fd4fc832-7dd4-4756-a493-2b018ccebb43"
 msgid "Shadow"
-msgstr ""
+msgstr "그림자"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/DervishCloakItem_m_DescriptionText
 msgctxt "f4c7c659-3bd6-46b0-8221-822d9b8039e3"
@@ -5207,96 +5226,76 @@ msgstr "이 망토는 착용자에게 지식(세계)와 지식(비전) 기술 �
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/DervishCloakItem_m_DisplayNameText
 msgctxt "c2443134-e352-495a-be4c-c2219f4f7c97"
 msgid "Thaumaturgist's Cloak"
-msgstr ""
+msgstr "마술사의 망토"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/ExtraplanarCloakItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This cloak grants its wearer a +4 enhancement bonus to Constitution and the "
-#| "ability to cast summon monster V spell once per day."
 msgctxt "e16c6658-52dc-4829-8838-026f3ded7dbf"
 msgid ""
 "This cloak grants its wearer a +4 enhancement bonus to Constitution and the "
 "ability to cast summon monster V spell once per day for 9 rounds."
-msgstr "이 망토는 착용자에게 건강에 +4 강화 보너스와 하루에 한 번 괴물 소환 V 주문 시전 능력을 제공합니다."
+msgstr "이 망토는 착용자에게 건강에 +4 강화 보너스와 하루에 한 번 9 라운드 동안의 괴물 소환 V 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/ExtraplanarCloakItem_m_DisplayNameText
 msgctxt "f47faf04-9c21-49c2-98fd-edaedb656f2d"
 msgid "Extraplanar Cloak"
-msgstr ""
+msgstr "외부차원의 망토"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/HerbalistCapeEcnhant_m_Prefix
 msgctxt "a333d6a0-d204-40cb-9ebf-9d3f8eb56947"
 msgid "Shadow"
-msgstr ""
+msgstr "그림자"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/HerbalistCapeItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This cloak grants its wearer a +4 enhancement bonus to Intelligence, a +5 "
-#| "competence bonus on all Lore (Nature) checks and the ability to cast delay "
-#| "poison spell three times per day."
 msgctxt "7b2d143f-d431-4cbf-90bd-b539f344d877"
 msgid ""
 "This cloak grants its wearer a +4 enhancement bonus to Intelligence, a +5 "
 "competence bonus on all Lore (Nature) checks and the ability to cast delay "
 "poison spell three times per day as a 3rd level cleric."
 msgstr ""
-"이 망토는 착용자에게 지능에 +4 강화 보너스, 전승(자연) 판정 +5 능숙 보너스와 하루에 세 번 독 지연 주문 시전 능력을 제공합니다."
+"이 망토는 착용자에게 지능에 +4 강화 보너스, 전승(자연) 판정 +5 능숙 보너스와 하루에 세 번 3레벨 클레릭의 독 지연 주문 시전 "
+"능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/HerbalistCapeItem_m_DisplayNameText
 msgctxt "764a2cdf-c20b-4a3d-a14a-63fc1badc994"
 msgid "Herbalist's Cape"
-msgstr ""
+msgstr "약초꾼의 망토"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/RoguesCompanionEnchant_m_Prefix
 msgctxt "05f9a234-9a96-4fef-afe2-a4082fd22c46"
 msgid "Shadow"
-msgstr ""
+msgstr "그림자"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/RoguesCompanionItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This cloak grants its wearer a +5 competence bonus on Trickery checks and "
-#| "the ability to cast expeditious retreat three times per day."
 msgctxt "e181de32-394e-4972-a841-52ca6d1df1f1"
 msgid ""
 "This cloak grants its wearer a +5 competence bonus on Trickery checks and "
 "the ability to cast expeditious retreat three times per day as a 1st level "
 "wizard."
-msgstr "이 망토는 착용자에게 손재주 판정에 +5 능숙 보너스와 하루에 세 번 신속한 후퇴 시전 능력을 제공합니다."
+msgstr "이 망토는 착용자에게 손재주 판정에 +5 능숙 보너스와 하루에 세 번 1레벨 위저드의 신속한 후퇴 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/RoguesCompanionItem_m_DisplayNameText
 msgctxt "db2b5115-1693-44e6-89da-ebfc96382341"
 msgid "Rogue's Companion"
-msgstr ""
+msgstr "로그의 동료"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/ShroudOfDecayItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This cloak grants its wearer acid resistance 30 and the ability to cast acid"
-#| " fog spell twice per day."
 msgctxt "8c25a61f-0a20-4989-acbf-6f3fbae9ae00"
 msgid ""
 "This cloak grants its wearer acid resistance 30 and the ability to cast acid"
 " fog spell twice per day as a 11th level wizard."
-msgstr "이 망토는 착용자에게 산성 저항 30과 하루에 두 번 산성 안개 주문 시전 능력을 제공합니다."
+msgstr "이 망토는 착용자에게 산성 저항 30과 하루에 두 번 11레벨 위저드의 산성 안개 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/ShroudOfDecayItem_m_DisplayNameText
 msgctxt "1871da77-abdd-4424-a2ef-8d9b1c277607"
 msgid "Noxious Veil"
-msgstr ""
+msgstr "유독성 베일"
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/ShroudOfEternalMadness_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This cloak grants its wearer a +8 enhancement bonus to Charisma and the "
-#| "ability to cast energy drain spell once per day."
 msgctxt "d9282232-6177-4182-935a-399b83cf88bf"
 msgid ""
 "This cloak grants its wearer a +8 enhancement bonus to Charisma and the "
 "ability to cast energy drain spell once per day as a 13th level wizard."
-msgstr "이 망토는 착용자에게 매력에 +8 강화 보너스와 하루에 한 번 원기 소진 주문 시전 능력을 제공합니다."
+msgstr "이 망토는 착용자에게 매력에 +8 강화 보너스와 하루에 한 번 13레벨 위저드의 원기 소진 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/ShroudOfEternalMadness_m_DisplayNameText
 msgctxt "baf11e7b-4c35-43ef-b6b9-4364d8bf7d1a"
