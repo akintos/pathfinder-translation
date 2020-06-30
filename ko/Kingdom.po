@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
 "PO-Revision-Date: 2020-07-01 05:07+0000\n"
-"Last-Translator: ayame <eveforce@naver.com>\n"
+"Last-Translator: laz <joholja@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -9782,12 +9782,14 @@ msgid ""
 "public trial is being held. It could be held up as a valuable reminder of "
 "the supremacy of the law."
 msgstr ""
+"경비병들이 부패한 일단의 관료들을 체포했습니다. 이들은 청탁, 위증, 상급자에 대한 중상 등의 죄목으로 기소되어, 곧 공판이 열릴 "
+"예정입니다. 법치에는 예외가 없다는 걸 널리 알릴 좋은 기회가 될 것 같습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/JudgementAndPunishment_LE_LocalizedName
 msgctxt "ea20af4d-84f7-448c-861a-a13b9819b028"
 msgid "Crime and Punishment"
-msgstr ""
+msgstr "범죄와 처벌"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/JudgementAndPunishment_LE_Solutions.Entries.Array.data[1].Resolutions.Array.data[0].LocalizedDescription
@@ -9797,6 +9799,8 @@ msgid ""
 " a stern warning. This was a mistake, as the people saw that crime doesn't "
 "always lead to just punishment."
 msgstr ""
+"재판 결과는 솜방망이 처벌에 그쳤습니다. 범인들은 엄중 경고만 받고 모두 사면되었습니다. 백성들은 범죄에 늘 처벌이 따르는 건 아니라는 "
+"나쁜 교훈을 얻었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/JudgementAndPunishment_LE_Solutions.Entries.Array.data[1].Resolutions.Array.data[1].LocalizedDescription
@@ -9807,6 +9811,8 @@ msgid ""
 "provided a poor example for the populace, and the Councilor's negligent "
 "servants were sent to the gallows for their failure."
 msgstr ""
+"재판은 빠르고도 공정하게 진행됐습니다. 하지만 법정에서 모든 혐의가 입증되지는 않아, 범인들은 추방되는 것에 그쳤습니다. 백성들에게는 별 "
+"교훈이 되지 못했고, 오히려 공소를 태만히 처리한 평의원의 부하들이 교수대에 서게 됐습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/JudgementAndPunishment_LE_Solutions.Entries.Array.data[1].Resolutions.Array.data[2].LocalizedDescription
@@ -9816,6 +9822,8 @@ msgid ""
 "Their bodies hang there still, a grim reminder of the fate awaiting anyone "
 "who breaks the law. So far, crime has been effectively deterred."
 msgstr ""
+"범인들은 전원 사형을 선고받았고, 광장에서 교수형이 집행되었습니다. 그들의 시신은 아직도 광장에 매달려, 법을 어긴 자들의 운명에 대한 "
+"끔찍한 본보기로 남아 있습니다. 적어도 지금까지는, 범죄 예방에 효과적이었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/JudgementAndPunishment_LE_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription
@@ -9826,6 +9834,8 @@ msgid ""
 "even now at large, robbing passing travelers who are furious at the law's "
 "failure."
 msgstr ""
+"범죄자들은 결투를 통해 무죄를 입증할 기회를 얻었습니다. 그러나 무기를 건네받자마자, 그들은 즉시 경비병들을 공격하여 탈주해버리고 "
+"말았습니다. 그들은 세력을 불려 도적떼가 되었고, 그들에게 약탈당한 여행자들은 사법기관의 실패에 분노하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/JudgementAndPunishment_LE_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription
@@ -9835,6 +9845,8 @@ msgid ""
 "the few survivors lived to clear their name. The law failed to demonstrate "
 "its power or sense of justice."
 msgstr ""
+"범인들은 결투 재판에 처해졌습니다. 그들 대부분이 죽고, 살아남은 일부는 무죄방면되었습니다. 그러다보니 정의의 가치나 법치의 위력을 "
+"과시하는 데에는 전혀 도움이 되지 않았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/JudgementAndPunishment_LE_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription
@@ -9845,6 +9857,8 @@ msgid ""
 "criminals were cut down, and the trial was an effective demonstration of the"
 " law's power. As an extra benefit, the crowd loved the performance!"
 msgstr ""
+"범인들에게, 병사들과 경험 많은 용병들을 상대로 결투 재판을 명령했습니다. 대부분의 악명 높은 범죄자들이 칼날 앞에 쓰러졌고, 이번 "
+"재판은 법치의 위엄을 잘 보여준 사례로 남았습니다. 소소한 부가 이익이지만, 결투 자체도 주민들에게 열렬한 반응을 얻었습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/JudgementAndPunishment_LE_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription
@@ -9855,6 +9869,8 @@ msgid ""
 "every single criminal. The people were disappointed, and realize that the "
 "law doesn't always demand obedience."
 msgstr ""
+"지역 사제들이 범죄자에 대한 심판을 맡겠다고 제안해왔습니다. 재판 과정에 대한 전권을 요구한 그들은, 자신들의 신에게 의견을 구하는가 "
+"싶더니 결국 모든 범죄자들을 사면해주고 말았습니다. 실망한 민중들은, 법을 잘 준수해봐야 소용없다는 나쁜 교훈만 얻게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/JudgementAndPunishment_LE_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription
@@ -9866,6 +9882,9 @@ msgid ""
 "death. This was no great demonstration of the law's power, but at least the "
 "damage was mitigated."
 msgstr ""
+"범죄자들의 운명은 신의 판단에 맡기기로 했습니다. 성직자들이 몇몇 범죄자들을 사면해버리는 바람에 법의 위엄에 다소간 손상이 갔습니다만, "
+"다행히도 의회가 다른 범죄자들에게 사형을 선고하도록 성직자들을 설득했습니다. 법치의 위엄을 알리는 데에는 실패했습니다만, 적어도 피해는 "
+"최소화할 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/JudgementAndPunishment_LE_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription
@@ -9878,6 +9897,9 @@ msgid ""
 " closely the will of gods lined up with the mandates of the "
 "{mf|barony|barony|kingdom|kingdom}'s laws."
 msgstr ""
+"범죄자들의 운명은 신의 판단, 즉 사제들의 손에 맡기기로 했습니다. 그러나 왕의 부하들이 꾸준하고도 주의 깊게 그들에게 압력을 가했고, "
+"결국 성직자들은 \"올바른\" 판결을 내렸습니다. 모든 범죄자들이 즉결로 사형에 처해졌고, 청중들은 신의 뜻과 "
+"{mf|남작령|남작령|왕국|왕국}의 법의 판단이 일치하는 것에 깊은 감명을 받았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/KillersForGood_NE_LocalizedDescription
@@ -9890,12 +9912,15 @@ msgid ""
 "practicing dark magic, and solely for the good of the Crown and its "
 "subjects. These senseless executions must be stopped."
 msgstr ""
+"빛의 신을 섬기는 급진적인 사제들이 우리 영토에 나타났습니다. 그들은 극단적이고 광신적인 강령을 내세워 추종자를 규합하더니, 곧 야밤에 "
+"{mf|남작|여남작|왕|여왕}의 무고한 신민들을 습격하기에 이르렀습니다. 이들이 내세우는 희생자들의 죄목은 어둠의 마법을 연마했다는 "
+"것인데, 이들은 단지 왕국과 백성들을 돕기 위한 선의로 마법을 연구한 것 뿐입니다. 이들의 가당찮은 폭력행위를 당장 멈추어야 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/KillersForGood_NE_LocalizedName
 msgctxt "6f1c2398-9343-45ac-a202-244ab267452f"
 msgid "Wicked Means"
-msgstr ""
+msgstr "사악한 수단"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/KillersForGood_NE_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription
@@ -9906,6 +9931,8 @@ msgid ""
 "and many dark magic practitioners have fled these lands in search of a safe "
 "haven."
 msgstr ""
+"보좌관의 신료들이 이들 급진주의자들을 만나 추종자들의 폭력행위를 멈추도록 설득했지만 효과는 없었습니다. 폭력행위는 계속되었고, "
+"흑마법사들은 폭력을 피해 안전한 타국으로 도주하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/KillersForGood_NE_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription
@@ -9916,6 +9943,8 @@ msgid ""
 "claimed by the Crown, unless their worshippers were pacified. The attacks "
 "ceased."
 msgstr ""
+"이 선신의 사제들에 대한 위협이 먹혀들었습니다. 보좌관의 부하들이 만약 신도들의 폭력행위를 통제하지 않으면 사원을 폐쇄하고 부지도 "
+"몰수해버리겠다고 통지하자, 흑마법사들을 향한 공격은 중단되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/KillersForGood_NE_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription
@@ -9927,6 +9956,8 @@ msgid ""
 "executions. Once this convincing message was delivered, the murders "
 "immediately ended."
 msgstr ""
+"보좌관의 부하들은 이 선신의 사제들에 대한 징벌로 사원을 장식하고 있는 값비싼 보물과 집기들을 압류했습니다. 만약 이들의 폭력 행위가 "
+"계속된다면 다음 번에는 사제들을 처형하겠다는 위협과 함께 말입니다. 이런 단호한 조치 덕에, 이번 폭력 사태는 즉시 종결되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/KillersForGood_NE_Solutions.Entries.Array.data[6].Resolutions.Array.data[0].LocalizedDescription
@@ -9938,6 +9969,9 @@ msgid ""
 "mages have already lost their lives, before the authorities were able to "
 "provide them with effective amulets. But in the end, the attacks ended."
 msgstr ""
+"어둠의 마법을 연마하는 모든 마법사들에게 보호의 아뮬렛이 지급되었습니다. 이론적으로는 이것들이 습격에 대해 충분한 보호를 제공했어야 "
+"하지만, 실제로 그 마법력은 턱없이 부족한 것으로 드러났습니다. 유명한 마법사들 다수가 살해당한 뒤에야 제대로 된 마법 아뮬렛이 지급될 "
+"수 있었습니다. 어쨋든 그 결과로 습격은 멈추었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/KillersForGood_NE_Solutions.Entries.Array.data[6].Resolutions.Array.data[1].LocalizedDescription
@@ -9948,6 +9982,8 @@ msgid ""
 "cowardly fanatics wouldn't take any chances with the horrible beasts, and "
 "the attacks ended."
 msgstr ""
+"마법사들은 아주 복잡한 의식을 통해 지옥의 졸개들을 소환해냈고, 이들로 하여금 어둠의 마법사들을 경호하도록 시켰습니다. 비겁한 광신도들은 "
+"감히 이 끔찍한 괴수들에 맞설 엄두도 내지 못했고, 습격 사건은 곧 종결되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/KillersForGood_NE_Solutions.Entries.Array.data[6].Resolutions.Array.data[2].LocalizedDescription
@@ -9958,6 +9994,8 @@ msgid ""
 "and the summoned beasts now maintain a deterring presence on the streets at "
 "night."
 msgstr ""
+"마법사들은 아주 복잡한 의식을 통해 지옥의 졸개들을 소환해냈고, 이들로 하여금 이 자칭 자경단을 몰아내도록 시켰습니다. 광신도들은 곧 "
+"몰살당했고, 이 괴물들의 존재감이 아직도 밤거리를 통제하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/KillersForGood_NE_Solutions.Entries.Array.data[9].Resolutions.Array.data[0].LocalizedDescription
@@ -9968,6 +10006,8 @@ msgid ""
 "Crown. Once our agents began capturing and killing the fanatics, their "
 "remaining numbers went into hiding – but the damage has already been done."
 msgstr ""
+"장관의 부하들이 신속히 살인자들을 잡아들였지만, 벌써 충성스럽고 수완 좋은 마법사 여럿이 살해당한 뒤였습니다. 광신도들을 잡아죽이고 "
+"잔당들도 흩어졌지만, 이미 적잖은 피해가 발생했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/KillersForGood_NE_Solutions.Entries.Array.data[9].Resolutions.Array.data[1].LocalizedDescription
@@ -9977,6 +10017,8 @@ msgid ""
 "magic. The sight of hardened security forces escorting these servants of the"
 " Crown discouraged the murderers from any further raids."
 msgstr ""
+"장관의 부하들이 흑마법 수련자들을 지키는데 투입되었습니다. 왕권이 직접 경비를 강화시키는 광경에 습격자들은 움츠러들었고, 더 이상의 "
+"습격을 막을 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/KillersForGood_NE_Solutions.Entries.Array.data[9].Resolutions.Array.data[2].LocalizedDescription
@@ -9987,6 +10029,8 @@ msgid ""
 "their families were severely punished. The lesson was clear: the servants of"
 " the Crown are not to be touched."
 msgstr ""
+"장관의 하수인들이 유명한 흑마법사의 집 근처에 잠복했고, 습격해온 이 자경단원들은 함정에 빠져 모조리 살해당했습니다. 남은 가족들도 "
+"혹독한 처벌을 받았고, 왕의 종복들을 감히 건드려서는 안된다는 교훈을 똑똑히 남겼습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Mission_LG_LocalizedDescription
