@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-30 04:07+0000\n"
-"Last-Translator: 냠 <setsuna444@naver.com>\n"
+"PO-Revision-Date: 2020-07-01 05:07+0000\n"
+"Last-Translator: ayame <eveforce@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -11468,14 +11468,15 @@ msgid ""
 "towards a region of the {mf|barony|barony|kingdom|kingdom}. You should seize"
 " this opportunity!"
 msgstr ""
-"다섯 왕 산맥에 위치한 가장 큰 관측소로부터 소식이 도착했습니다. 관측소 주 망원경의 마법 렌즈가 깨졌다고 합니다. 이렇게 강력한 마법 "
-"구조물의 파손은 마력이 담긴 강력한 돌풍을 유발하고 있습니다.\n"
-"지금 그 돌풍은 저희 {mf|남작령|남작령|왕국|왕국} 지역으로 향하고 있습니다. 이 문제를 해결해야 합니다!"
+"다섯 왕 산맥에 위치한 가장 큰 관측소로부터 소식이 도착했습니다. 관측소 주 망원경의 마법 렌즈가 부서졌다고 합니다. 이렇게 강력한 마법 "
+"구조물이 파손되면 강력한 마력이 담긴 바람이 발생하게 됩니다.\n"
+"지금 그 마법의 바람은 저희 {mf|남작령|남작령|왕국|왕국} 지역으로 향해 불고 있습니다. 이 신비한 현상은 우리 영지에 기회일 수 "
+"있습니다. 이 기회를 노려보면 어떨까요!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/MagicalPhenomenon_LocalizedName
 msgctxt "884bb872-a4c6-49f6-b61b-d21e1b154d2a"
 msgid "Enchanted Wind"
-msgstr ""
+msgstr "마법에 걸린 바람"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/MagicalPhenomenon_Solutions.Entries.Array.data[3].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "6a2dddc0-ef81-4585-a212-2dcf0aa9d8b3"
@@ -11484,6 +11485,8 @@ msgid ""
 "{mf|barony|barony|kingdom|kingdom}, but failed to draw the attention of any "
 "notable experts."
 msgstr ""
+"우리는 행사를 준비하고 유명한 마법 연구가들을 우리 {mf|영지|영지|왕국|왕국}에 공개적으로 초대했지만, 유명한 연구가들의 주목을 "
+"끌어내지는 못했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/MagicalPhenomenon_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "e01b61fc-de51-410f-8d70-8f0a805935f1"
@@ -11491,6 +11494,8 @@ msgid ""
 "Attempts to invite well-known magic researchers to the "
 "{mf|barony|barony|kingdom|kingdom} have failed."
 msgstr ""
+"마법 연구자들을 위한 행사를 준비하였으나\n"
+"유명 마법사들과 연구자들의 우리 {mf|영지|영지|왕국|왕국} 초대에 실패했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/MagicalPhenomenon_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "c0f130f2-b82d-4dd4-a640-da07aa35f7d0"
@@ -11499,6 +11504,8 @@ msgid ""
 "countries. Many well-known wizards and magic researchers have visited the "
 "{mf|barony|barony|kingdom|kingdom} to study this unique phenomenon."
 msgstr ""
+"재무관은 행사를 준비하고 주변 이웃 나라들에서 여러 손님들을 초대했습니다. \n"
+"많은 유명한 마법사와 마법 연구원들이 이 독특한 현상을 연구하기 위해 우리 {mf|영지|영지|왕국|왕국}에 방문했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/MagicalPhenomenon_Solutions.Entries.Array.data[3].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "efd80d93-f18c-4c63-b31f-c87eb2024e3e"
@@ -11507,6 +11514,8 @@ msgid ""
 "countries. Many well-known wizards and magic researchers have visited the "
 "{mf|barony|barony|kingdom|kingdom} to study this unique phenomenon."
 msgstr ""
+"재무관은 행사를 준비하고 주변 이웃 나라들에서 여러 손님들을 초대했습니다. \n"
+"많은 유명한 마법사와 마법 연구원들이 이 독특한 현상을 연구하기 위해 우리 {mf|영지|영지|왕국|왕국}에 방문했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/MagicalPhenomenon_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "7f8ac301-b898-41f7-b9cb-431dccd2170e"
@@ -11516,20 +11525,23 @@ msgid ""
 " praises to the cursed god were scattered throughout the "
 "{mf|barony|barony|kingdom|kingdom} on the enchanted wind!"
 msgstr ""
+"대사제는 특별 의식을 행하였지만 의식은 결국 웃음거리가 되어버렸습니다. 의식이 무르익을 무렵, 로바구그(Rovagug) 숭배자가 군중 "
+"속에서 뛰쳐나왔고, \n"
+"저주받은 신에 대한 그의 찬양이 마법에 걸린 바람을 타고 {mf|영지|영지|왕국|왕국} 곳곳에 뿌려졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/MagicalPhenomenon_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "eeb2208b-9b50-437e-9639-43d3a86c6ecd"
 msgid ""
 "Alas, nothing of note occurred during the High "
 "{mf_HighPriest|Priest's|Priestess'} special ceremony."
-msgstr ""
+msgstr "아 이런, 대사제는 특별 의식을 행하였지만 딱히 주목할 만한 일은 아무 일도 일어나지 않았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/MagicalPhenomenon_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "ba64204f-4ce1-4aa9-86ff-2bfba4f51a80"
 msgid ""
 "The High {mf_HighPriest|Priest's|Priestess'} ceremony was a success! The "
 "enchanted wind enhanced the prayers of the citizens."
-msgstr ""
+msgstr "대사제는 특별 의식을 행하였고 의식은 성공적이었습니다! 마법에 걸린 바람 위에 시민들의 기도까지 더해졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/MagicalPhenomenon_Solutions.Entries.Array.data[5].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "39abdc4c-ac53-485e-81d8-6d424891fa93"
@@ -11538,6 +11550,8 @@ msgid ""
 "enchanted wind enhanced the prayers of the citizens and raised them up into "
 "the sky!"
 msgstr ""
+"대사제는 특별 의식을 행하였고 의식은 성공적이었습니다! 마법에 걸린 바람 위에 시민들의 기도가 더해졌으며 시민들이 바람을 타고 하늘을 "
+"향해 날아오르기까지 했습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/MagicalPhenomenon_Solutions.Entries.Array.data[6].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "af3d5fb3-0adf-456f-9853-0c2b18e724d9"
@@ -11560,7 +11574,7 @@ msgid ""
 "The Magister's experiment was a success! A close study of the movements of "
 "the enchanted winds allowed the wizards to better understand the nature of "
 "magic."
-msgstr "마법대신의 실험은 성공적이었습니다! 강화된 바람의 움직임에 대한 연구가 위자드들에게 마법의 본질을 더 이해하도록 도왔습니다."
+msgstr "마법대신의 실험은 성공적이었습니다! 강화된 바람의 움직임에 대한 연구가 마법사들에게 마법의 본질을 더 이해하도록 도왔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/MagicalPhenomenon_Solutions.Entries.Array.data[6].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "4538052a-14c4-41cd-93c6-7d7e86fbbfef"
