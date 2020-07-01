@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-07-01 05:07+0000\n"
+"PO-Revision-Date: 2020-07-02 16:45+0000\n"
 "Last-Translator: laz <joholja@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
@@ -10042,12 +10042,15 @@ msgid ""
 "service so they can embark on this dangerous mission and follow their divine"
 " command."
 msgstr ""
+"당신을 섬기는 기사 일부가 선한 신들 중 하나로부터 계시를 받았습니다. 이 용감한 전사들의 사명은 이제 일생에 걸친 악과의 신성한 투쟁에 "
+"가담하는 것이라고 합니다. 이 기사들은 신의 명령에 따라 이 위험한 임무를 개시할 수 있도록, 당신과 맺은 봉신의 서약을 면제해줄 것을 "
+"공손히 청원하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Mission_LG_LocalizedName
 msgctxt "d1361cb3-db9f-47f2-9a9c-2b89a5d93d4c"
 msgid "The Mission"
-msgstr ""
+msgstr "사명"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Mission_LG_Solutions.Entries.Array.data[3].Resolutions.Array.data[0].LocalizedDescription
@@ -10058,6 +10061,8 @@ msgid ""
 " service. The priests took offense at this, and condemned the Crown's "
 "actions before their worshippers."
 msgstr ""
+"재무관은 기사들이 여전히 궁정의 의무에 종속되어 있으므로, 아무리 신의 명령에 따른 것이라고 해도 머나먼 대륙에서의 사명을 찾아가는 것은 "
+"봉신으로서의 계약에 위배된다고 주장했습니다. 사제들은 이 주장에 분노하여, 신자들 앞에서 군주의 행동을 비난하기에 이르렀습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Mission_LG_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription
@@ -10069,6 +10074,9 @@ msgid ""
 "meet the necessary standards, so the knights were reluctantly forced to "
 "postpone their quest."
 msgstr ""
+"재무관은 궁정에는 충성스러운 기사들의 존재가 필수적이라고 주장하고, 기사들에게 자신들이 종교 임무를 수행하는 동안 자신들을 대체할 인력을 "
+"추천할 것을 제안했습니다. 그러나 후보자들은 기사들을 대체하기에는 전원이 수준 미달이었고, 결국 기사들은 내키지 않는 대로 임무 수행을 "
+"미룰 수 밖에 없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Mission_LG_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription
@@ -10078,6 +10086,8 @@ msgid ""
 "condition that they donate one of their trophies to the treasury in "
 "compensation for their absence."
 msgstr ""
+"재무관은 기사들이 신성한 임무를 출발하는 것을 허락했지만, 대신에 부재 기간에 대한 보상으로 그들의 전리품 중 하나씩을 국고에 기증하는 "
+"조건을 내걸었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Mission_LG_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription
@@ -10088,6 +10098,9 @@ msgid ""
 "it. The priests quarreled amongst themselves, and the mission was canceled. "
 "The scandal and conflict only pushed their followers away from the temples."
 msgstr ""
+"자신들의 신과 대화해본 사제들의 대답은 제각각이었습니다. 어떤 신들은 기사들의 임무에 긍정적이었지만, 격렬히 반대한 신들도 있었습니다. "
+"사제들은 자기들끼리 말다툼을 벌였고, 결국 임무는 취소되었습니다. 사제들 간의 갈등과 추문으로 사원에서 발길을 돌리는 신도들이 "
+"늘어났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Mission_LG_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription
@@ -10097,6 +10110,8 @@ msgid ""
 "regarding the knights' mission. Their request was rejected, and they "
 "remained on duty at the court."
 msgstr ""
+"성직자들이 각자의 신에게 의견을 구했지만, 기사들의 임무에 대한 결정적인 답변은 없었습니다. 기사들의 요청은 기각되었고, 그들은 "
+"궁정에서의 임무로 복귀했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Mission_LG_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription
@@ -10106,6 +10121,8 @@ msgid ""
 "divine task was given special attention over the knights' regular domestic "
 "duties."
 msgstr ""
+"성직자들이 기사들의 임무를 축성하였고, 신들은 자신들이 부여한 신성한 과업이 기사들의 원래 정규 임무보다 특별한 대우를 받는 것에 "
+"만족했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Mission_LG_Solutions.Entries.Array.data[8].Resolutions.Array.data[0].LocalizedDescription
@@ -10115,6 +10132,8 @@ msgid ""
 "tragic end. The knights took the lesson to heart, and decided against going "
 "on their great mission."
 msgstr ""
+"학예사가 기사들에게 아름답고 영웅적이지만, 비극적인 결말로 끝나는 감동적인 옛 이야기를 들려주었습니다. 기사들은 가슴 속 깊이 이 교훈을 "
+"새겨, 그들의 장대한 임무를 철회하기로 결정했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Mission_LG_Solutions.Entries.Array.data[8].Resolutions.Array.data[1].LocalizedDescription
@@ -10124,6 +10143,8 @@ msgid ""
 "which further inspired the knights to embark on their great mission. They "
 "proceeded eagerly and with a clear conscience, and the gods are happy."
 msgstr ""
+"학예사는 그들에게 영웅적이고도 용맹한 위업으로 가득한 옛 이야기를 들려주었고, 기사들은 크게 감동하여 그들의 장대한 임무를 개시했습니다. "
+"그들은 전심전력으로 임무를 수행해나갔고, 신들도 이에 기뻐하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/OnGuardOfLaw_LN_LocalizedDescription
@@ -10135,12 +10156,15 @@ msgid ""
 "war. They must be stopped before our royal servants abandon their duties in "
 "mortal fear."
 msgstr ""
+"지역의 범죄자들이 법 집행자들과 판사들에게서 숨어지내는데 나날이 지치고 분개하고 있습니다. 이들은 벌써 주요 공무원 여럿을 살해했고, 이 "
+"때문에 우리 영토의 정치 체제가 전쟁과도 같은 혼란에 빠졌습니다. 공무원들이 생명의 위협을 피해 임무를 저버리고 달아나기 전에 이 "
+"범죄자들을 멈춰야 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/OnGuardOfLaw_LN_LocalizedName
 msgctxt "64dec932-7e0d-4372-9ba8-908e7121b2c8"
 msgid "For Law and Order"
-msgstr ""
+msgstr "법과 질서를 위하여"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/OnGuardOfLaw_LN_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription_String
@@ -10151,6 +10175,8 @@ msgid ""
 "punished petty vices. Our subjects are outraged, and the real criminals "
 "continue hunting the Crown's servants."
 msgstr ""
+"보좌관의 부하들은 비밀 도박장으로 추정되는 모든 술집과 동굴을 단속했습니다. 이들의 노력에도 불구하고, 강력범은 거의 놓쳐버리고 "
+"경범죄만을 처벌한 꼴이 되었습니다. 백성들은 분노하고 있으며, 진짜 중범죄자들은 여전히 공무원들을 사냥하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/OnGuardOfLaw_LN_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription_String
@@ -10162,6 +10188,9 @@ msgid ""
 "offered by people trying to satisfy personal vendettas. The criminals "
 "continue to stalk the Crown's servants, and morale at court has plummeted."
 msgstr ""
+"보좌관의 부하들은 범죄 모의에 대해 알고 있는 사실을 전부 신고하는 것은 선량한 시민의 의무라고 대대적으로 홍보했습니다. 하지만, "
+"개인적인 원한 관계를 포함한 숱한 허위신고의 홍수 속에서, 오히려 진짜 쓸모있는 정보들도 묻혀버리고 말았습니다. 범죄자들은 여전히 "
+"사법기관의 공무원들을 사냥하고 있고, 궁정의 사기는 바닥을 치고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/OnGuardOfLaw_LN_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription_String
@@ -10171,6 +10200,8 @@ msgid ""
 "most valuable targets. Another attack soon took place, but this time every "
 "conspirator was either arrested or killed. Order has finally been restored."
 msgstr ""
+"보좌관의 부하들은 사법 공무원들, 특히 가장 가치있는 이들을 경호하기 시작했습니다. 곧 다음 습격이 발생했지만, 이번에는 모든 공모자들을 "
+"체포하거나 사살할 수 있었습니다. 질서가 마침내 회복되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/OnGuardOfLaw_LN_Solutions.Entries.Array.data[2].Resolutions.Array.data[3].LocalizedDescription_String
@@ -10182,6 +10213,9 @@ msgid ""
 " to discover the leaders behind the attacks. The common folk have faith that"
 " every crime will eventually be punished."
 msgstr ""
+"보좌관의 신료들은 지역 시장들에게 각자의 구역에서 살인이 발생하면 시장 직위를 해제하겠다고 경고했습니다. 시장들은 이들 범죄에 대한 "
+"책임을 모면하고자, 지역의 소문을 비밀리에 추적하여 습격을 기획한 두목급을 찾는 중입니다. 평민들은 모든 범죄는 언젠가 처벌받는다는 "
+"신념을 잃지 않고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/PathOfBalance_TN_LocalizedDescription
@@ -10193,12 +10227,15 @@ msgid ""
 "country's progress towards development and harmony. They must be led to a "
 "peaceful resolution, before there are any serious consequences."
 msgstr ""
+"영향력 있는 논객들 여럿이 궁정에 모였습니다. 이들은 각자의 파벌을 대표해 나왔는데, 이들 파벌 사이에는 국가의 미래에 대한 관점을 두고 "
+"아주 극단적인 견해 차이가 있었습니다. 이들의 다툼은 오히려 우리 나라가 발전과 화합을 향해 나아가는데 장애물이 되고 있습니다. 이 "
+"갈등이 더 큰 문제를 일으키기 전에 평화적인 해법을 찾아야 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/PathOfBalance_TN_LocalizedName
 msgctxt "753cc397-2ecd-447f-9b2c-b866aa04c4c9"
 msgid "Seeking Balance"
-msgstr ""
+msgstr "균형 추구"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/PathOfBalance_TN_Solutions.Entries.Array.data[1].Resolutions.Array.data[0].LocalizedDescription_String
@@ -10208,6 +10245,8 @@ msgid ""
 " no support was forthcoming from the Crown, they turned against the court to"
 " fight for their beliefs across the local lands."
 msgstr ""
+"이들 파벌간의 다툼을 통제하려는 보좌관의 시도는 실패했습니다. 어느 파벌도 군주의 지지를 얻지 못할 것이라는 것이 확실해지자, 이들은 "
+"자신들의 신념을 쟁취하기 위해 궁정에 반기를 들었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/PathOfBalance_TN_Solutions.Entries.Array.data[1].Resolutions.Array.data[1].LocalizedDescription_String
@@ -10216,6 +10255,7 @@ msgid ""
 "The advisor's decision to stay neutral in the conflict proved to be a "
 "mistake. Their competing views are undermining the local stability."
 msgstr ""
+"이들의 다툼에서 중립을 지키려던 보좌관의 결정은 실수로 드러났습니다. 이들의 관점 차이 때문에 지역사회의 안정이 위협받고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/PathOfBalance_TN_Solutions.Entries.Array.data[1].Resolutions.Array.data[2].LocalizedDescription_String
@@ -10225,6 +10265,8 @@ msgid ""
 "balance must be preserved to maintain the prosperity of the local lands, and"
 " it's dangerous to disturb the peace."
 msgstr ""
+"보좌관의 현명한 중재 덕에 두 파벌의 갈등은 봉밥되었습니다. 그들도 나라의 번영을 위해서는 관점들 사이의 균형이 필수적이며, 평화를 "
+"가볍게 여겨서도 안된다는 것을 깨닫게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/PathOfBalance_TN_Solutions.Entries.Array.data[1].Resolutions.Array.data[3].LocalizedDescription_String
@@ -10235,6 +10277,8 @@ msgid ""
 "they united and worked to accept the views of their brethren. This "
 "resolution served as a good example for the peasants."
 msgstr ""
+"보좌관은 영리하게도 서로를 향한 이들의 분노를 공통의 적으로 돌려, 이들 파벌을 통합하는데 성공했습니다. 이들은 과거의 분란은 잊고, "
+"이제 서로의 관점을 받아들이려고 노력하고 있습니다. 평화로운 해결책을 통해, 백성들에게도 모범을 보일 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Plutocracy_NG_LocalizedDescription
@@ -10247,12 +10291,16 @@ msgid ""
 " merchants and landlords, eager to profit from this new philosophy. This "
 "immoral movement must be stopped before it becomes a plague on our society."
 msgstr ""
+"정가에서 금권 정치 운동이 힘을 얻고 있습니다. 주로 대부호들인 이 운동의 지지자들은, 인간의 가치는 그가 갖고 있는 부와 영향력에 달려 "
+"있다고 생각합니다. 게다가 이들은 인간은 태어나면서부터 평등한 것이 아니므로, 자신들이 정당한 특권을 누려야 한다고 주장합니다. "
+"탐욕스러운 상인과 지주들의 후원으로, 이 운동은 날로 목소리를 높이고 있습니다. 이런 부도덕한 운동은 사회를 더 오염시키기 전에 "
+"근절되어야 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Plutocracy_NG_LocalizedName
 msgctxt "62168287-dd5f-4c19-bc42-43e133e2f3b6"
 msgid "Plutocracy"
-msgstr ""
+msgstr "금권 정치"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Plutocracy_NG_Solutions.Entries.Array.data[0].Resolutions.Array.data[0].LocalizedDescription
@@ -10263,6 +10311,8 @@ msgid ""
 "benevolence towards others. They continue to profit immorally from the poor,"
 " and advocate the superiority of the rich."
 msgstr ""
+"섭정은 이 금권주의자들에게 사회적 품위를 지켜줄 것을 호소하였으나 소용없었습니다. 이들은 자선이나 자비심의 호소에 귀를 기울이기에는 너무 "
+"이기적인 속물들이었습니다. 그들은 여전히 부자들의 이익을 대변하며, 빈자에 대한 착취를 계속하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Plutocracy_NG_Solutions.Entries.Array.data[0].Resolutions.Array.data[1].LocalizedDescription
@@ -10272,6 +10322,8 @@ msgid ""
 "plutocratic philosophy. Some in the audience were ashamed, and turned away "
 "from their egoistic values. Society remains whole and united."
 msgstr ""
+"섭정이 전령들을 곳곳으로 보내어 공개적으로 금권주의 사상을 비판했습니다. 그러자 금권주의자들 중 일부가 이 비판에 양심의 가책을 받고 "
+"자신들의 이기적인 행동을 반성하고 나섰습니다. 지역 사회는 다시금 일체감과 단결을 되찾았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Plutocracy_NG_Solutions.Entries.Array.data[3].Resolutions.Array.data[0].LocalizedDescription
@@ -10282,6 +10334,8 @@ msgid ""
 "the size of their purses. More and more commoners are taking their "
 "philosophy to heart, which is slowly undermining the society."
 msgstr ""
+"금권주의자들과 재무관의 회담은 성과없이 끝났습니다. 돈벌이에 눈이 먼 이 이기주의자들은 물질적인 부유함을 추구하는 것으로 모자라, "
+"사람들을 지갑의 두께로 평가하고 있습니다. 점점 더 많은 서민들도 이들의 사상을 받아들임에 따라, 사회가 좀먹어가고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/Plutocracy_NG_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription
@@ -10293,6 +10347,8 @@ msgid ""
 "than their purses. Their dangerous philosophy was eliminated from the local "
 "lands."
 msgstr ""
+"재무관은 금권주의자들 소유의 기업에 돈줄을 죄는 공작을 벌였습니다. 돈벌이에 눈먼 이기주의자들도 자신들의 부가 영원하지 않을 수도 있다는 "
+"사실을 깨닫자 돈으로 사람의 가치를 평가하는 일을 그만두게 되었습니다. 이들의 위험한 사상은 우리 영지에서 깨끗이 일소되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/TheyCame_LG_LocalizedDescription
@@ -10302,12 +10358,14 @@ msgid ""
 "citizens as wealthy, obedient, and weak – the perfect prey. The beasts must "
 "be taught that being civilized does not make one weak."
 msgstr ""
+"피에 굶주린 데몬들이 영지 내의 숲에서 목격되었습니다. 그들은 우리 영지의 시민들이 부유하고 순종적이면서도 허약한, 완벽한 먹잇감이라고 "
+"생각합니다. 이들에게 문명과 교양이 나약함과 동의어가 아니라는 것을 가르쳐줍시다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/TheyCame_LG_LocalizedName
 msgctxt "961aac90-d385-4fc2-88b0-05ba2da29a1c"
 msgid "The Scent of Piety"
-msgstr ""
+msgstr "경건의 향기"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/TheyCame_LG_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription
@@ -10318,6 +10376,8 @@ msgid ""
 "warriors and guards. Perhaps they were too arrogant in their faith. Their "
 "followers will miss them."
 msgstr ""
+"성직자들이 신자들을 보호하기 위해 숲으로 향했지만, 곧 전사와 경비병들의 도움 없이는 데몬들에게 대항할 수 없다는 사실만 깨닫게 "
+"되었습니다. 이들은 신앙의 힘을 과대평가했던 것 같습니다. 신자들은 돌아오지 않는 사제들을 그리워하게 될 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/TheyCame_LG_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription
@@ -10327,6 +10387,8 @@ msgid ""
 "their magic was too weak to resist the demon hordes, who broke through the "
 "spells and slaughtered the peasants, then mounted their bodies on spikes."
 msgstr ""
+"성직자들이 데몬들에 의해 위협받던 마을에 보호 마법을 시전했습니다만, 슬프게도 이들의 마법은 데몬 무리를 막아내기에는 역부족이었습니다. "
+"데몬들은 보호 주문을 무력화시킨 다음 마을 주민들을 학살하고, 그 시신을 뿔로 꿰뚫고 다니는 만행을 저질렀습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/TheyCame_LG_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription
@@ -10337,6 +10399,8 @@ msgid ""
 "departed for the local forests. The light of their torches and their faith "
 "dispersed the darkness, and the demons fled once they had nowhere to hide."
 msgstr ""
+"성직자들은 신자들에게 단결하여 이 영혼없는 데몬들에 맞설 것을 설파하였습니다. 주민들은 사원에 운집, 신에게 기도한 후 숲으로 "
+"출발했습니다. 그들이 든 횃불의 밝은 불빛과 이들의 신앙심이 숲의 어둠을 몰아내었고, 숨을 곳이 사라진 데몬들도 달아나고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/TheyCame_LG_Solutions.Entries.Array.data[5].Resolutions.Array.data[3].LocalizedDescription
@@ -10347,6 +10411,8 @@ msgid ""
 "and they performed their duty honorably. The gods are pleased by their new "
 "and zealous servants."
 msgstr ""
+"한 무리의 젊은 전사들이 수도의 대성당에서 팔라딘으로 서임되었습니다. 데몬들을 처치하는 것이 그들에게 팔라딘으로서의 첫 임무로 주어졌고, "
+"그들은 훌륭하게 임무를 완수했습니다. 신들 역시 이 새롭고도 열정적인 종복들의 등장에 기뻐하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/TheyCame_LG_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription
@@ -10358,6 +10424,9 @@ msgid ""
 " slaughtered the guards, soldiers, and peasants alike. Now there is nothing "
 "to hold back their rampage."
 msgstr ""
+"감시관은 지역 경비병들에 수도의 병사들을 보강하여 숲으로 파견하였습니다. 그러나 이것은 크나큰 실수였습니다. 데몬들은 정확히 이런 대응을 "
+"기다리고 있었고, 데몬들의 매복에 경비병들과 병사들, 그리고 지역 주민들까지 학살당하고 말았습니다. 이제 이들의 폭주를 막을 수단이 없는 "
+"상황입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/TheyCame_LG_Solutions.Entries.Array.data[7].Resolutions.Array.data[1].LocalizedDescription
@@ -10367,6 +10436,8 @@ msgid ""
 "woods, the demons emerged and massacred several villages. They must have "
 "been watching our military movements, and timed their attack perfectly."
 msgstr ""
+"감시관이 경비병 1개 중대를 숲으로 파견했습니다만, 이들이 숲을 수색하는 동안 데몬들이 나타나 여러 마을에서 대학살을 벌였습니다. 이들은 "
+"우리 군의 움직임을 면밀히 관찰하고 있던 것이 분명합니다. 빈틈을 노린 습격의 타이밍은 완벽했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/TheyCame_LG_Solutions.Entries.Array.data[7].Resolutions.Array.data[2].LocalizedDescription
@@ -10376,6 +10447,8 @@ msgid ""
 "villages. The overconfident demons were committed to attack, and ran "
 "themselves upon our spears."
 msgstr ""
+"감시관은 위협에 노출된 마을의 수비를 강화하기 위해 수도의 경비병들을 추가로 파견하였습니다. 데몬들은 자신만만하게 마을을 공격해왔지만, "
+"우리의 날카로운 창날 앞에서 꼬리를 말고 도망치고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/TheyCame_LG_Solutions.Entries.Array.data[7].Resolutions.Array.data[3].LocalizedDescription
@@ -10387,6 +10460,9 @@ msgid ""
 "defenseless settlement, they were butchered before they could react. The "
 "peasants who witnessed the battle praised the local soldiers."
 msgstr ""
+"감시관은 전략적으로 소수의 경비병들만 숲으로 보내 요란한 수색활동을 보여주게 하고는, 본대는 근처의 마을 주변에 꼼꼼히 매복시켰습니다. "
+"데몬들은 마을이 무방비상태라고 생각하고 공격해왔다가, 미처 무슨 상황인지도 깨닫기 전에 경비병들의 매복에 걸려 학살당했습니다. 이 전투를 "
+"목격한 주민들이 병사들의 무용을 찬양하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/UninvitedJustice_CE_LocalizedDescription
@@ -10397,12 +10473,15 @@ msgid ""
 "mean, overthrow the {mf|baron|baroness|King|Queen} and set up their own "
 "empire on the ruins of your {mf|barony|barony|kingdom|kingdom}."
 msgstr ""
+"한 무리의 자칭 \"덕망 있는 기사단\"이 우리 백성들을 악과 혼돈에서 구하러 왔다고 주장하며 우리 영지에 침입했습니다. 즉, "
+"{mf|남작|여남작|왕|여왕}님을 몰아내고서, 우리 {mf|남작령|남작령|왕국|왕국}의 폐허 위에 자신들의 제국을 세우겠다고 선언하고 "
+"있는 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/UninvitedJustice_CE_LocalizedName
 msgctxt "87bd6e58-2a37-44b7-a8a5-7d196ff8e057"
 msgid "False Virtue"
-msgstr ""
+msgstr "거짓된 미덕"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/UninvitedJustice_CE_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription
@@ -10413,6 +10492,8 @@ msgid ""
 "continue to incite rioting, promote lawlessness, and execute your loyal "
 "servants."
 msgstr ""
+"우리 군은 순찰을 강화하고 도로를 따라 초병도 증원하였습니다. 슬프게도, 각기 고립된데다 지원도 부족한 이들 방어 병력으로는 침입자들을 "
+"막아낼 수 없었습니다. 이들은 계속해서 반란을 선동하고, 무법을 조장하며, 지역 공무원들을 살해하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/UninvitedJustice_CE_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription
@@ -10422,6 +10503,8 @@ msgid ""
 "immediate execution, or retreat beyond our borders. The knights fled in "
 "relief, unprepared to face such a large and determined army."
 msgstr ""
+"우리 병사들이 기사들을 포위하고, 즉시 처형당하고 싶지 않으면 국경 밖으로 떠나라고 요구했습니다. 기사들은 우리가 이렇게 대규모로, "
+"단호하게 대응할 줄은 예상하지 못했고, 겨우 목숨만 건져 도망쳐야 했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/UninvitedJustice_CE_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription
@@ -10432,6 +10515,8 @@ msgid ""
 "cunning attack, and their weapons and armor now are now prized as trophies "
 "by the locals defenders."
 msgstr ""
+"지역 출신의 용감한 병사들 약간이 야습을 자원했고, 결과는 대성공이었습니다. 야습에 전혀 대비하고 있지 않던 기사들은 순식간에 "
+"몰살당했고, 이들의 갑주와 무기는 이 용감한 병사들에게 전리품으로 하사되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/UninvitedJustice_CE_Solutions.Entries.Array.data[8].Resolutions.Array.data[0].LocalizedDescription
@@ -10443,6 +10528,9 @@ msgid ""
 "encouraged his comrades to have no fear. The knights continue to wreak havoc"
 " in the region."
 msgstr ""
+"우리의 바드들이 {mf|남작|여남작|왕|여왕}의 가혹한 처벌을 내세워 침입자들을 협박하려고 했지만, 성과는 없었습니다. 기사들을 따라온 "
+"밀라니라는 이름의 성직자는 달변으로 이름난 자였고, 그의 격려에 고무된 기사들은 두려움을 잊었습니다. 그들은 여전히 지역에 큰 혼란을 "
+"일으키고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/UninvitedJustice_CE_Solutions.Entries.Array.data[8].Resolutions.Array.data[1].LocalizedDescription
@@ -10453,6 +10541,8 @@ msgid ""
 " and the people are content with their lot in life. Faced with a satisfied "
 "populace, the knights left these lands."
 msgstr ""
+"달콤한 목소리를 한 바드들이 이 불명예스러운 기사들을 설득해냈습니다. 이 나라에는 폭정도 없고, 백성들도 각자의 인생에 만족하고 있으니 "
+"기사들의 선동이 먹히지 않을 것이라고 말입니다. 민중이 정부에 만족하고 있다는 것을 확인하자, 기사들은 다른 나라로 떠나버렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/UninvitedJustice_CE_Solutions.Entries.Array.data[8].Resolutions.Array.data[2].LocalizedDescription
@@ -10466,6 +10556,9 @@ msgid ""
 " futility of attempting to invade the {mf|barony|barony|kingdom|kingdom} of "
 "{kingdomname}."
 msgstr ""
+"달콤한 혓바닥을 지닌 우리 바드들이, 기사들에게 그들이 속았다는 사실을 납득시켰습니다. 그들은 우리 이웃나라의 어느 폭군이 조작한 거짓 "
+"정보에 속아 우리 땅으로 원정을 떠나오게 된 것이었습니다. 이 미덕의 투사들은 격노했고, 즉시 이 음모를 꾸민 이웃나라에 징벌을 가하기 "
+"위해 떠났습니다. 다른 이웃들도 우리의 {mf|남작령|남작령|왕국|왕국}을 침공하려고 해봐야 소용없다는 교훈을 얻었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Leatherworker_VarnholdUndersiedge_AF_G_String
 msgctxt "dd64c450-d477-4fa7-a7ce-39e6f7c8f465"
@@ -10475,6 +10568,8 @@ msgid ""
 "continues to suffer from bandit attacks, and there is still much simmering "
 "animosity between the guard and the militia."
 msgstr ""
+"보좌관은 반홀드 민병대와 경비대 간에 협력 관계를 정착시키려고 애썼지만, 그들은 서로의 차이점을 극복하지 못했습니다. 강도들의 습격은 "
+"멈추지 않았고, 경비대와 민병대 사이의 적개심도 나날이 더 끓어오르고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Leatherworker_VarnholdUndersiedge_AF_N_String
 msgctxt "10d414e0-ad2a-4a94-90e1-92f785b16b41"
@@ -10483,6 +10578,8 @@ msgid ""
 "dispatched to Varnhold failed to achieve any results and had to return. The "
 "bandits have free reign in the region."
 msgstr ""
+"보좌관은 규율이라고는 모르는 민병대를 도무지 통제할 수가 없었습니다. 반홀드로 파견됐던 장교들은 성과를 거두지 못한 채 돌아와야만 "
+"했습니다. 강도들은 반홀드를 자유로이 활보하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Leatherworker_VarnholdUndersiedge_LocalizedDescription_2
 msgctxt "a66e05e1-1086-4663-b2fe-eb9f99375894"
@@ -10493,11 +10590,14 @@ msgid ""
 "the region. The guard and militia are holding fast, but they need "
 "reinforcements."
 msgstr ""
+"반홀드는 대혼란에 빠졌습니다. 강도 두목은 삼림 지대의 실질적인 권력자로 등극했고, 강력한 영도력으로 강도 무리를 계속해서 키워나가고 "
+"있습니다. 그는 끊임없이 외딴 마을들을 습격하고 다녔지만, 바람처럼 신출귀몰하여 도무지 잡을 수가 없었습니다. 민병대와 경비병들이 "
+"끈질기게 버티고는 있지만, 상황을 개선하려면 증원이 시급합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Leatherworker_VarnholdUndersiedge_LocalizedName_1
 msgctxt "9ed6f23e-e07f-417f-99b6-a554b6119677"
 msgid "Varnhold Besieged"
-msgstr ""
+msgstr "포위된 반홀드"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Leatherworker_VarnholdUndersiedge_Solutions.Entries.Array.data[1].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "2ae7ee74-a1ec-4a0f-97bc-0bf52018b433"
@@ -10507,6 +10607,9 @@ msgid ""
 "their camp. However, the locals were so terrified of Lamashtu's fearsome "
 "beasts that they killed every one of them!"
 msgstr ""
+"평의원은 반홀드 방어를 돕기 위해 \"특별한\" 품종의 사냥개들과 그들을 다룰 훈련사들을 파견했습니다. 그들은 도적떼들의 흔적을 추적해서 "
+"그 산채를 찾아낼 수 있을 것으로 기대됐습니다. 그러나 지역민들은 라마슈투의 사냥개들의 흉측한 외모에 겁을 집어먹고는 이들 모두를 "
+"죽여버리고 말았습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Leatherworker_VarnholdUndersiedge_Solutions.Entries.Array.data[1].Resolutions.Array.data[3].LocalizedDescription_String
 msgctxt "2383ae52-cd78-4bbf-8a16-1ef255acfe7c"
@@ -10516,6 +10619,8 @@ msgid ""
 "Varnhold drove the bandits from the region and hunted the gang's leader back"
 " to his own lair. Peace has been restored to Varnhold."
 msgstr ""
+"보좌관은 반홀드 민병대와 경비대를 성공적으로 통합했고, 그들의 합동 작전은 아주 신속하고도 효과적이었습니다. 이 통합 반홀드 수비대는 "
+"강도들을 지역에서 몰아내고, 두목을 무덤으로 돌려보내는데 성공했습니다. 반홀드에 평화가 돌아왔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Leatherworker_VarnholdUndersiedge_Solutions.Entries.Array.data[1].Resolutions.Array.data[4].LocalizedDescription_String
 msgctxt "2613e34b-5ab1-4562-a700-ea4718ce5ae2"
@@ -10525,6 +10630,8 @@ msgid ""
 "bandits from the region and took care of the gang leader. Varnhold is "
 "celebrating victory and praising their wise ruler."
 msgstr ""
+"보좌관은 야생마처럼 통제불능이던 반홀드 민병대를 해산하여 장교의 지휘에 따르는 정규군으로 재편성했고, 결과는 극히 성공적이었습니다. "
+"그들은 강도들을 몰아내고 두목을 처치했습니다. 반홀드는 승리를 자축하며, 현명한 통치자에게 환호하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Leatherworker_VarnholdUndersiedge_Solutions.Entries.Array.data[1].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "1cd20dfe-117d-4874-8ef8-c4f354e87149"
@@ -10534,6 +10641,9 @@ msgid ""
 "trace. The rest gave themselves up to the Varnhold militia, offering "
 "horrifying stories of monster attacks in the night."
 msgstr ""
+"평의원은 자신의 영향력을 이용하여 우리 지역 내에서 암약하던 어둠의 이교도 집단의 도움을 얻는데 성공했습니다. 곧, 도적들 무리가 흔적도 "
+"없이 사라지기 시작했고, 재난을 면한 나머지 도적들은 민병대에 자수해왔습니다. 이들은 어둠 속에서 자신들을 습격한 끔찍한 괴물들의 "
+"이야기를 전했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Leatherworker_VarnholdUndersiedge_Solutions.Entries.Array.data[7].Resolutions.Array.data[3].LocalizedDescription_String
 msgctxt "4f8dcca5-3335-43dd-a216-a2bd1ba0359a"
@@ -10543,6 +10653,8 @@ msgid ""
 "and captured the gang's notorious leader! The outlaws have been driven out, "
 "and Varnhold is celebrating a well-fought victory."
 msgstr ""
+"보좌관은 민병대 지휘관에게 수도에서 파견한 경비병 연대의 지휘까지 일임하기로 했습니다. 그들은 보강된 병력의 도움으로 도적떼들을 "
+"강습했고, 악명높은 도적 두목을 생포할 수 있었습니다! 이 무법자들은 일소되었고, 반홀드는 승전에 환호하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Leatherworker_VarnholdUndersiedge_Solutions.Entries.Array.data[9].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "dd098c8b-365e-4091-b5cf-89a3a4aa3e88"
@@ -10552,6 +10664,8 @@ msgid ""
 "alongside them. Instead of defending Varnhold, they continue to quarrel "
 "among themselves!"
 msgstr ""
+"보좌관은 반홀드를 돕기 위해 경비병 연대를 파견했습니다. 그러나 지역 주민들은 이 외지인들에 대놓고 불신의 감정을 드러냈고, 전선에서 "
+"함께 싸우기를 거부하기에 이르렀습니다. 반홀드를 지키기는커녕, 수비대 사이에서 내분만 일어나고 있습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/MasterFromVudraIII_LocalizedDescription
 msgctxt "f567a595-8fc2-4887-b702-9b156301a0c2"
