@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-07-02 16:45+0000\n"
+"PO-Revision-Date: 2020-07-03 18:07+0000\n"
 "Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/items/ko/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #
 #. Mechanics/Blueprints/Equipment/Amulets/AmuletOfAgileFistsPlus1_m_DescriptionText
@@ -279,7 +279,7 @@ msgctxt "7e96f84a-5377-458c-88b8-ba20096981ed"
 msgid ""
 "This amulet allows its wearer to cast haste spell as a 5th level wizard once"
 " per day."
-msgstr "이 부적의 착용자는 하루에 한 번 5레벨 위저드 수준의 헤이스트 주문을 시전할 수 있습니다."
+msgstr "이 부적의 착용자는 하루에 한 번 5 레벨 위저드 수준의 헤이스트 주문을 시전할 수 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Amulets/AmuletOfTimeTrickery_m_DisplayNameText
 msgctxt "d21e923a-53e7-45ad-aaf9-465676c7619d"
@@ -532,7 +532,7 @@ msgid ""
 "This amulet grants its wearer the ability to cast Overwhelming Presence as "
 "11th level Wizard once per day. It also increases the wearer's Ki pool by 5."
 msgstr ""
-"이 부적은 착용자가 하루에 한 번 11 레벨 위저드의 압도적인 존재감을 시전할 수 있게 해줍니다. 또한 착용자의 모아둔 기가 5 점 "
+"이 부적은 착용자가 하루에 한 번 11  레벨 위저드의 압도적인 존재감을 시전할 수 있게 해줍니다. 또한 착용자의 모아둔 기가 5 점 "
 "증가합니다."
 
 #. Mechanics/Blueprints/Equipment/Amulets/Artisan/AmuletOfInnerVirtue_m_DisplayNameText
@@ -1210,8 +1210,8 @@ msgid ""
 " damage per attack that the wearer would normally take. It also grants the "
 "ability to cast daze spell once per day as a 1st level wizard."
 msgstr ""
-"이 +1 갑옷의 착용자는 양에너지 저항 10, 음에너지 저항 10을 얻습니다. 또한 하루에 한 번 1레벨 위저드의 몽롱 주문 시전 능력을 "
-"제공합니다."
+"이 +1 갑옷의 착용자는 양에너지 저항 10, 음에너지 저항 10을 얻습니다. 또한 하루에 한 번 1 레벨 위저드의 몽롱 주문 시전 "
+"능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Artisan/BreastPlateofEnergy_m_DisplayNameText
 msgctxt "4ba40768-a492-4784-b13a-367c827ff3f2"
@@ -1249,7 +1249,7 @@ msgid ""
 "This +4 full plate armor grants its wearer negative energy resistance 10 and"
 " the ability to cast death ward spell twice per day as a 7th level cleric."
 msgstr ""
-"이 +4 전신 판금갑옷은 착용자에게 음에너지 저항 10 과 하루에 두 번 7레벨 클레릭의 죽음 방호 주문 시전 능력을 제공합니다."
+"이 +4 전신 판금갑옷은 착용자에게 음에너지 저항 10 과 하루에 두 번 7 레벨 클레릭의 죽음 방호 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Artisan/DeathCrushersFullPlateItem_m_DisplayNameText
 msgctxt "19d4afbb-97a3-4ea5-8302-c8b27bc9c531"
@@ -1351,8 +1351,8 @@ msgid ""
 "Wisdom and the ability to cast angelic aspect spell once per day as a 9th "
 "level wizard."
 msgstr ""
-"이 +3 미스랄 전신 판금갑옷은 착용자의 지혜에 +3의 강화 보너스를 주고, 하루에 한 번 9레벨 위저드의 천사의 형상 주문을 시전할 수 "
-"있게 해줍니다."
+"이 +3 미스랄 전신 판금갑옷은 착용자의 지혜에 +3의 강화 보너스를 주고, 하루에 한 번 9 레벨 위저드의 천사의 형상 주문을 시전할 "
+"수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Artisan/MithralFullPlateOfCrusadeItem_m_DisplayNameText
 msgctxt "b40513fa-c994-42e9-bc2a-84bce5299d12"
@@ -1376,7 +1376,7 @@ msgctxt "37fe77b0-c351-46e6-96df-2022082853ee"
 msgid ""
 "This +3 scalemail grants its wearer fire resistance 10 and the ability to "
 "cast rage spell twice per day as a 5th level wizard."
-msgstr "이 +3 미늘갑옷은 착용자에게 화염 저항 10과 하루에 두 번 5레벨 위저드의 분노 주문 시전 능력을 제공합니다.."
+msgstr "이 +3 미늘갑옷은 착용자에게 화염 저항 10과 하루에 두 번 5 레벨 위저드의 분노 주문 시전 능력을 제공합니다.."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Artisan/RagingBulwarkArmorItem_m_DisplayNameText
 msgctxt "c660336b-bae0-4526-91db-fdf2ce70a519"
@@ -1394,7 +1394,7 @@ msgid ""
 "This +4 studded leather armor grants its wearer cold resistance 25 and an "
 "ability to cast cone of cold spell twice per day as a 9th level wizard."
 msgstr ""
-"이 +4 징 박힌 가죽갑옷은 착용자에게 냉기 저항 25와 하루에 두 번 9레벨 위저드의 냉기의 원뿔 주문을 시전 능력을 제공합니다."
+"이 +4 징 박힌 가죽갑옷은 착용자에게 냉기 저항 25와 하루에 두 번 9 레벨 위저드의 냉기의 원뿔 주문을 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Artisan/ElfFemaleLeatherworker/BlizzardsHeartLeathArmorItem_m_DisplayNameText
 msgctxt "a34b2871-6b89-4414-9f2b-5ab638af6fd4"
@@ -1406,7 +1406,7 @@ msgctxt "53ed1481-a8f2-4cfb-bc65-42dc36270dc2"
 msgid ""
 "This +2 leather armor grants its wearer fire resistance 10 and an ability to"
 " cast remove disease spell once per day as a 5th level cleric."
-msgstr "이 +2 가죽갑옷은 착용자에게 화염 저항 10 과 하루에 한 번 5레벨 클레릭의 질병 제거 주문 시전 능력을 제공합니다."
+msgstr "이 +2 가죽갑옷은 착용자에게 화염 저항 10 과 하루에 한 번 5 레벨 클레릭의 질병 제거 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Artisan/ElfFemaleLeatherworker/BurnedProtectorLeathArmorItem_m_DisplayNameText
 msgctxt "bce61fb6-9b01-4a85-aaa5-1940a52f7c64"
@@ -1420,8 +1420,8 @@ msgid ""
 "against poison, paralysis and sleep; immunity to trip, and allows to cast "
 "touch of slime twice per day as a 7th level wizard."
 msgstr ""
-"이 +4 가죽갑옷은 착용자에게 독, 마비, 수면에 대한 모든 내성 굴림에 +4의 보너스와 넘어뜨리기 면역을 주고, 하루에 두 번 7 레벨 "
-"위저드의 슬라임의 손길을 시전할 수 있게 해줍니다."
+"이 +4 가죽갑옷은 착용자에게 독, 마비, 수면에 대한 모든 내성 굴림에 +4의 보너스와 넘어뜨리기 면역을 주고, 하루에 두 번 7  "
+"레벨 위저드의 슬라임의 손길을 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Artisan/ElfFemaleLeatherworker/GiantSnakesSkinLeathArmorItem_m_DisplayNameText
 msgctxt "21a50e35-263d-49cf-b9be-ffb27edbc88e"
@@ -1448,7 +1448,7 @@ msgid ""
 "them the ability to cast displacement spell three times per day as a 5th "
 "level wizard."
 msgstr ""
-"만약 이 +3 가죽갑옷의 착용자가 바드 공연 능력을 지녔다면, 하루당 사용횟수를 4 라운드 추가합니다. 또한 하루에 세 번 5레벨 "
+"만약 이 +3 가죽갑옷의 착용자가 바드 공연 능력을 지녔다면, 하루당 사용횟수를 4 라운드 추가합니다. 또한 하루에 세 번 5 레벨 "
 "위저드의 환위 주문을 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Artisan/ElfFemaleLeatherworker/MirroredDefenseLeathArmorItem_m_DisplayNameText
@@ -1463,7 +1463,7 @@ msgid ""
 "resistance 10. It also grants the ability to cast poison spell twice per day"
 " as a 5th level cleric."
 msgstr ""
-"이 +3의 가죽갑옷은 착용자에게 화염 저항 10과 산성 저항 10을 줍니다. 또한 하루에 두 번 5레벨 위저드의 독 주문 시전 능력을 "
+"이 +3의 가죽갑옷은 착용자에게 화염 저항 10과 산성 저항 10을 줍니다. 또한 하루에 두 번 5 레벨 위저드의 독 주문 시전 능력을 "
 "제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Artisan/ElfFemaleLeatherworker/ScorpionsHatredLeathArmorItem_m_DisplayNameText
@@ -1485,7 +1485,7 @@ msgid ""
 "ability to cast beast shape I (wolf) spell once per day as a 5th level "
 "wizard."
 msgstr ""
-"이 +2 징 박힌 가죽갑옷은 착용자에게 냉기 저항 10 과 하루에 한 번 5레벨 위저드의 짐승의 모습 I (늑대) 주문 시전 능력을 "
+"이 +2 징 박힌 가죽갑옷은 착용자에게 냉기 저항 10 과 하루에 한 번 5 레벨 위저드의 짐승의 모습 I (늑대) 주문 시전 능력을 "
 "제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Artisan/ElfFemaleLeatherworker/StoicWolfLeathArmorItem_m_DisplayNameText
@@ -1498,7 +1498,7 @@ msgctxt "1ca48767-7e8f-495e-ae45-199e5f2303cf"
 msgid ""
 "This +3 chainmail grants its wearer the ability to cast fireball spell once "
 "per day as a 5th level wizard."
-msgstr "이 +3 사슬갑옷은 착용자에게 하루에 한 번 5레벨 위저드의 화염구 주문 시전 능력을 제공합니다."
+msgstr "이 +3 사슬갑옷은 착용자에게 하루에 한 번 5 레벨 위저드의 화염구 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Artisan/ElvenFemaleWeaponsmith/BlazingOmenChainmailItem_m_DisplayNameText
 msgctxt "ccfb9958-2b0b-40e3-b06f-7b2b094c7d7d"
@@ -1514,7 +1514,7 @@ msgid ""
 "level cleric."
 msgstr ""
 "이 +3 사슬조끼는 착용자에게 모든 손재주 판정에 +5의 능숙 보너스와 반사 내성 굴림에 +3의 저항 보너스를 제공합니다. 또한 하루에 "
-"한 번 7레벨 클레릭의 자유 이동 주문 시전 능력을 제공합니다."
+"한 번 7 레벨 클레릭의 자유 이동 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Artisan/ElvenFemaleWeaponsmith/ChainbreakersChainChainmailItem_m_DisplayNameText
 msgctxt "86232090-4fb3-42b8-8dc2-71f2b871015d"
@@ -1538,7 +1538,7 @@ msgid ""
 "bonus to Reflex saving throws and the ability to cast web spell three times "
 "per day as a 5th level wizard."
 msgstr ""
-"이 +3 사슬갑옷은 착용자에게 산성 저항 15, 반사 내성 굴림에 +2 저항 보너스와 하루에 5레벨 위저드의 세 번 거미줄 주문 시전 "
+"이 +3 사슬갑옷은 착용자에게 산성 저항 15, 반사 내성 굴림에 +2 저항 보너스와 하루에 5 레벨 위저드의 세 번 거미줄 주문 시전 "
 "능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Artisan/ElvenFemaleWeaponsmith/WeaversChainmailItem_m_DisplayNameText
@@ -1553,7 +1553,7 @@ msgid ""
 "enhancement bonus to Wisdom, a +4 armor bonus to AC and the ability to cast "
 "prediction of failure spell once per day as a 15th level wizard."
 msgstr ""
-"이 로브는 착용자에게 지능에 +6 강화 보너스, 지혜에 +4 강화 보너스, AC에 +4 갑옷 보너스와 하루에 한 번 15레벨 위저드의 "
+"이 로브는 착용자에게 지능에 +6 강화 보너스, 지혜에 +4 강화 보너스, AC에 +4 갑옷 보너스와 하루에 한 번 15 레벨 위저드의 "
 "실패 예측 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Artisan/HalfElfMaleTailor/ArchmagesEnvyRobeItem_m_DisplayNameText
@@ -1568,8 +1568,8 @@ msgid ""
 " +2 deflection bonus to AC and the ability to cast enlarge person spell once"
 " per day as a 4th level wizard."
 msgstr ""
-"이 로브는 착용자에게 전기 저항 10, 냉기 저항 10, AC에 +2의 굴절 보너스와 하루에 한 번 4레벨 위저드의 사람 확대 주문 시전 "
-"능력을 제공합니다."
+"이 로브는 착용자에게 전기 저항 10, 냉기 저항 10, AC에 +2의 굴절 보너스와 하루에 한 번 4 레벨 위저드의 사람 확대 주문 "
+"시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Artisan/HalfElfMaleTailor/DrapingVeilOfProwessRobeItem_m_DisplayNameText
 msgctxt "295a979e-a7e1-488d-bc40-28267115e7d9"
@@ -1583,7 +1583,7 @@ msgid ""
 "Reflex saving throws and the ability to cast blindness spell once per day as"
 " a 5th level wizard."
 msgstr ""
-"이 로브는 착용자에게 의지, 인내 및 반사 내성 굴림에 대한 +3 저항 보너스와 하루에 한 번 5레벨 위저드의 실명 주문 시전 능력을 "
+"이 로브는 착용자에게 의지, 인내 및 반사 내성 굴림에 대한 +3 저항 보너스와 하루에 한 번 5 레벨 위저드의 실명 주문 시전 능력을 "
 "제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Artisan/HalfElfMaleTailor/IntegrityRobeItem_m_DisplayNameText
@@ -1628,7 +1628,7 @@ msgctxt "30f60708-2d08-4f5f-84ae-57ea1f57bda6"
 msgid ""
 "This robe grants its wearer a +2 dodge bonus to AC and the ability to cast "
 "dispel magic spell twice per day as a 5th level wizard."
-msgstr "이 로브는 착용자에게 AC에 +2 피하기 보너스와 하루에 세 번 5레벨 위저드의 마법 해제 주문 시전 능력을 제공합니다."
+msgstr "이 로브는 착용자에게 AC에 +2 피하기 보너스와 하루에 세 번 5 레벨 위저드의 마법 해제 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Artisan/HalfElfMaleTailor/PurlingRobeItem_m_DisplayNameText
 msgctxt "34d7e889-e77a-4434-ad8a-2557f72e1d22"
@@ -1649,7 +1649,7 @@ msgid ""
 "all saving throws and the ability to cast blindness spell twice per day as a"
 " 5th level wizard."
 msgstr ""
-"이 로브는 착용자에게 AC에 +4의 굴절 보너스, 모든 내성 굴림에 +2의 행운 보너스와 하루에 두 번 5레벨 위저드의 실명 주문 시전 "
+"이 로브는 착용자에게 AC에 +4의 굴절 보너스, 모든 내성 굴림에 +2의 행운 보너스와 하루에 두 번 5 레벨 위저드의 실명 주문 시전 "
 "능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Artisan/HalfElfMaleTailor/SilkySkinRobeItem_m_DisplayNameText
@@ -1664,7 +1664,7 @@ msgid ""
 "negative energy resistance 10 and the ability to cast phantasmal killer "
 "spell once per day as a 8th level wizard."
 msgstr ""
-"이 로브는 착용자에게 의지 내성 굴림에 +2 저항 보너스, 음에너지 저항 10과 하루에 한 번 8레벨 위저드의 환영 살인자 주문 시전 "
+"이 로브는 착용자에게 의지 내성 굴림에 +2 저항 보너스, 음에너지 저항 10과 하루에 한 번 8 레벨 위저드의 환영 살인자 주문 시전 "
 "능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Artisan/HalfElfMaleTailor/UnnaturalRobeItem_m_DisplayNameText
@@ -1677,7 +1677,7 @@ msgctxt "6bcc4626-e6ee-4448-a6c0-f95f1e4057ae"
 msgid ""
 "This a +4 mithral full plate grants its wearer ability to cast greater "
 "heroism spell once per day as a 11th level wizard."
-msgstr "이 +4 미스랄 전신 판금갑옷은 착용자가 하루에 한 번 11레벨 위저드의 영웅심 주문을 쓸 수 있게 해줍니다."
+msgstr "이 +4 미스랄 전신 판금갑옷은 착용자가 하루에 한 번 11 레벨 위저드의 영웅심 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/DLC2/BattlemastersPlate_m_DisplayNameText
 msgctxt "37b127d4-5e51-4d11-a9a6-f720ddf7d5e7"
@@ -2400,7 +2400,7 @@ msgstr ""
 "이 갑옷은 선행을 할 때마다 착용자의 건강을 매회 2 씩 최소 1까지 줄입니다. 오직 악한 행위만이 안식을 주어 건강 패널티를 제거하고 "
 "10 점의 임시 생명점을 얻도록 합니다. 이 갑옷을 벗으려면 저주 제거 주문을 시전하여 DC 33 시전자 레벨 판정를 통과하여야 합니다."
 "\n"
-"착용자는 민첩에 +6 강화 보너스, 은신에 +10의 능숙 보너스를 얻으며 착용자는 하루에 한 번 17레벨 위저드의 (DC 22) 사람 "
+"착용자는 민첩에 +6 강화 보너스, 은신에 +10의 능숙 보너스를 얻으며 착용자는 하루에 한 번 17 레벨 위저드의 (DC 22) 사람 "
 "지배를 시전할 수 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Unique/GentlePersuasion_m_DisplayNameText
@@ -2504,7 +2504,7 @@ msgctxt "8a0a757d-fb62-43a0-9a80-17f51aae0b71"
 msgid ""
 "This +2 studded leather allows the wearer to cast barkskin spell once per "
 "day as a 3rd level druid."
-msgstr "이 +2 징 박힌 가죽갑옷은 착용자에게 하루에 한 번 3레벨 드루이드의 나무껍질 주문 사용을 허용합니다."
+msgstr "이 +2 징 박힌 가죽갑옷은 착용자에게 하루에 한 번 3 레벨 드루이드의 나무껍질 주문 사용을 허용합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Unique/ReinforcedStuddedPlus2_m_DisplayNameText
 msgctxt "1a9dd201-b19a-4224-bfd0-e81cad9cb376"
@@ -4125,7 +4125,8 @@ msgid ""
 "This belt grants its wearer a +4 enhancement bonus to Dexterity and "
 "Charisma, and the ability to cast lightning bolt spell twice per day as a "
 "7th level wizard."
-msgstr "이 허리띠는 착용자에게 민첩과 매력에 +4 강화 보너스와 하루에 두 번 7레벨 위저드의 번개 화살 주문 시전 능력을 제공합니다."
+msgstr ""
+"이 허리띠는 착용자에게 민첩과 매력에 +4 강화 보너스와 하루에 두 번 7 레벨 위저드의 번개 화살 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Belts/Artisan/ElfFemaleLeatherworker/GozrehsEmbracementBeltItem_m_DisplayNameText
 msgctxt "27969784-a2c9-4121-8093-eb6c52dd1e02"
@@ -4138,7 +4139,8 @@ msgid ""
 "This belt grants its wearer a +4 resistance bonus to Reflex saving throws "
 "and the ability to cast mirror image spell twice per day as a 4th level "
 "wizard."
-msgstr "이 허리띠는 착용자에게 반사 내성 굴림에 +4 저항 보너스와 하루에 두 번 4레벨 위저드의 거울상 주문 시전 능력을 제공합니다."
+msgstr ""
+"이 허리띠는 착용자에게 반사 내성 굴림에 +4 저항 보너스와 하루에 두 번 4 레벨 위저드의 거울상 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Belts/Artisan/ElfFemaleLeatherworker/MirroredBeltItem_DisplayNameText_String
 msgctxt "80c070f5-0009-4963-b110-ab4c355e70f2"
@@ -4152,7 +4154,7 @@ msgid ""
 "ability to cast dragonkind III (black) spell once per day as a 12th level "
 "wizard."
 msgstr ""
-"이 허리띠는 착용자에게 건강에 +8 강화 보너스와 하루에 한 번 12레벨 위저드의 용족 변신 III (블랙 드래곤) 주문 시전 능력을 "
+"이 허리띠는 착용자에게 건강에 +8 강화 보너스와 하루에 한 번 12 레벨 위저드의 용족 변신 III (블랙 드래곤) 주문 시전 능력을 "
 "제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Belts/Artisan/ElfFemaleLeatherworker/SeedOfInsanityBeltItem_m_DisplayNameText
@@ -4180,7 +4182,7 @@ msgid ""
 "ability to cast mass bear's endurance spell once per day as a 3rd level "
 "wizard."
 msgstr ""
-"이 허리띠는 착용자에게 지혜와 건강에 +4 강화 보너스와 하루에 한 번 3레벨 위저드의 집단 곰의 지구력 주문 시전 능력을 제공합니다."
+"이 허리띠는 착용자에게 지혜와 건강에 +4 강화 보너스와 하루에 한 번 3 레벨 위저드의 집단 곰의 지구력 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Belts/Artisan/HalfElfMaleTailor/HermitRopeBeltItem_m_DisplayNameText
 msgctxt "de86a609-8c38-4943-bc35-728296cde9f4"
@@ -4396,7 +4398,7 @@ msgid ""
 "These boots grant the wearer a +5 competence bonus on all Stealth checks and"
 " the ability to cast dimension door spell once per day as a 7th level "
 "wizard."
-msgstr "이 장화의 착용자에게 모든 은신 판단에 +5 능숙 보너스와 하루에 한번 7레벨 위저드의 차원문 주문 시전 능력을 제공합니다."
+msgstr "이 장화의 착용자에게 모든 은신 판단에 +5 능숙 보너스와 하루에 한번 7 레벨 위저드의 차원문 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Boots/Artisan/ElfFemaleLeatherworker/EvadingStepsItem_m_DisplayNameText
 msgctxt "78f48efe-2dc5-4208-b115-93c04a62125f"
@@ -4434,7 +4436,7 @@ msgid ""
 "and the ability to cast the greater invisibility spell once per day as a 7th"
 " level wizard."
 msgstr ""
-"이 장화의 착용자는 모든 은신 판정에 +5 상황 보너스를 받고, 하루에 한 번 7레벨 위저드의 상급 투명화 주문을 쓸 수 있게 됩니다."
+"이 장화의 착용자는 모든 은신 판정에 +5 상황 보너스를 받고, 하루에 한 번 7 레벨 위저드의 상급 투명화 주문을 쓸 수 있게 됩니다."
 
 #. Mechanics/Blueprints/Equipment/Boots/DLC2/BootsOfTheCreepingDeath_m_DisplayNameText
 msgctxt "68adc7b8-f16b-4c2e-bb2f-8493b5da5d48"
@@ -4865,7 +4867,7 @@ msgid ""
 "These bracers give the wearer a +2 deflection bonus to AC and the ability to"
 " cast the shield spell twice a day like a 5th level wizard."
 msgstr ""
-"이 팔찌는 착용자에게 AC에 +2 굴절 보너스를 주고, 하루에 두 번 5레벨 위저드의 방패 주문을 시전할 수 있는 능력을 줍니다."
+"이 팔찌는 착용자에게 AC에 +2 굴절 보너스를 주고, 하루에 두 번 5 레벨 위저드의 방패 주문을 시전할 수 있는 능력을 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Bracers/DLC2/BracersOfDeflection_m_DisplayNameText
 msgctxt "875bfd27-a774-48db-98bc-4f884ab57e33"
@@ -4944,7 +4946,7 @@ msgctxt "e99b61ae-619f-45b4-88f8-ddcb1ac915d7"
 msgid ""
 "This cloak grants its wearer the ability to cast heroism spell once per day "
 "as a 2nd level wizard."
-msgstr "이 망토는 착용자에게 하루에 한 번 2레벨 위저드의 영웅심 주문 시전 능력을 제공합니다."
+msgstr "이 망토는 착용자에게 하루에 한 번 2 레벨 위저드의 영웅심 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/CloakOfHeroism_m_DisplayNameText
 msgctxt "c6f81848-65be-469f-9dc9-101bdd60bec7"
@@ -5168,7 +5170,7 @@ msgid ""
 " the ability to cast elemental body IV (earth) spell once per day as a 17th "
 "level wizard."
 msgstr ""
-"이 망토는 착용자에게 모든 내성 굴림 +5 저항 보너스와 하루에 한 번 17레벨 위저드의 정령의 육신 IV(대지) 주문 시전 능력을 "
+"이 망토는 착용자에게 모든 내성 굴림 +5 저항 보너스와 하루에 한 번 17 레벨 위저드의 정령의 육신 IV(대지) 주문 시전 능력을 "
 "제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/ShamansCloak_m_DisplayNameText
@@ -5188,8 +5190,8 @@ msgid ""
 "Fortitude and Will saving throws, and an ability to cast see invisibility "
 "spell once per day as a 3rd level wizard."
 msgstr ""
-"이 망토는 착용자에게 AC에 +4의 굴절 보너스, 인내 및 의지 내성 굴림 +3 보너스와 하루에 한 번 3레벨 위저드의 투명체 탐지 주문 "
-"시전 능력을 제공합니다."
+"이 망토는 착용자에게 AC에 +4의 굴절 보너스, 인내 및 의지 내성 굴림 +3 보너스와 하루에 한 번 3 레벨 위저드의 투명체 탐지 "
+"주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/ElfFemaleLeatherworker/CloakOfSeerItem_m_DisplayNameText
 msgctxt "3e028829-97ea-484b-ab69-cbba1b2e392b"
@@ -5203,7 +5205,7 @@ msgid ""
 "resistance bonus on Will saving throws, and the ability to cast prayer spell"
 " at will as a 9th level cleric."
 msgstr ""
-"이 망토는 착용자에게 실명과 눈부심 면역, 의지 내성 굴림 +3 저항 보너스를 주고, 마음대로 9레벨 클레릭의 기도 주문을 시전할 수 "
+"이 망토는 착용자에게 실명과 눈부심 면역, 의지 내성 굴림 +3 저항 보너스를 주고, 마음대로 9 레벨 클레릭의 기도 주문을 시전할 수 "
 "있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/CloakOfTheChosenItem_m_DisplayNameText
@@ -5252,7 +5254,7 @@ msgid ""
 "competence bonus on all Lore (Nature) checks and the ability to cast delay "
 "poison spell three times per day as a 3rd level cleric."
 msgstr ""
-"이 망토는 착용자에게 지능에 +4 강화 보너스, 전승(자연) 판정 +5 능숙 보너스와 하루에 세 번 3레벨 클레릭의 독 지연 주문 시전 "
+"이 망토는 착용자에게 지능에 +4 강화 보너스, 전승(자연) 판정 +5 능숙 보너스와 하루에 세 번 3 레벨 클레릭의 독 지연 주문 시전 "
 "능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/HerbalistCapeItem_m_DisplayNameText
@@ -5271,7 +5273,7 @@ msgid ""
 "This cloak grants its wearer a +5 competence bonus on Trickery checks and "
 "the ability to cast expeditious retreat three times per day as a 1st level "
 "wizard."
-msgstr "이 망토는 착용자에게 손재주 판정에 +5 능숙 보너스와 하루에 세 번 1레벨 위저드의 신속한 후퇴 시전 능력을 제공합니다."
+msgstr "이 망토는 착용자에게 손재주 판정에 +5 능숙 보너스와 하루에 세 번 1 레벨 위저드의 신속한 후퇴 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/RoguesCompanionItem_m_DisplayNameText
 msgctxt "db2b5115-1693-44e6-89da-ebfc96382341"
@@ -5283,7 +5285,7 @@ msgctxt "8c25a61f-0a20-4989-acbf-6f3fbae9ae00"
 msgid ""
 "This cloak grants its wearer acid resistance 30 and the ability to cast acid"
 " fog spell twice per day as a 11th level wizard."
-msgstr "이 망토는 착용자에게 산성 저항 30과 하루에 두 번 11레벨 위저드의 산성 안개 주문 시전 능력을 제공합니다."
+msgstr "이 망토는 착용자에게 산성 저항 30과 하루에 두 번 11 레벨 위저드의 산성 안개 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/ShroudOfDecayItem_m_DisplayNameText
 msgctxt "1871da77-abdd-4424-a2ef-8d9b1c277607"
@@ -5295,7 +5297,7 @@ msgctxt "d9282232-6177-4182-935a-399b83cf88bf"
 msgid ""
 "This cloak grants its wearer a +8 enhancement bonus to Charisma and the "
 "ability to cast energy drain spell once per day as a 13th level wizard."
-msgstr "이 망토는 착용자에게 매력에 +8 강화 보너스와 하루에 한 번 13레벨 위저드의 원기 소진 주문 시전 능력을 제공합니다."
+msgstr "이 망토는 착용자에게 매력에 +8 강화 보너스와 하루에 한 번 13 레벨 위저드의 원기 소진 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/ShroudOfEternalMadness_m_DisplayNameText
 msgctxt "baf11e7b-4c35-43ef-b6b9-4364d8bf7d1a"
@@ -5307,7 +5309,7 @@ msgctxt "6fe2286e-e4fc-4476-984d-b2aebe2c86e4"
 msgid ""
 "This cloak grants its wearer cold resistance 10 and the ability to cast deep"
 " slumber spell one per day as a 5th level wizard."
-msgstr "이 망토는 착용자에게 냉기 저항 10과 하루에 한 번 5레벨 위저드의 깊은 잠 주문 시전 능력을 제공합니다."
+msgstr "이 망토는 착용자에게 냉기 저항 10과 하루에 한 번 5 레벨 위저드의 깊은 잠 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/Artisan/HalfElfMaleTailor/WarmEmbrace_m_DisplayNameText
 msgctxt "7b420284-23f7-4f6f-8610-5d84553b0145"
@@ -5719,7 +5721,8 @@ msgctxt "619f9fc6-1951-462a-ac4f-c00406877178"
 msgid ""
 "These gloves grant their wearer a +5 luck bonus on Mobility checks and the "
 "ability to cast cloak of dreams spell once per day as a 14th level wizard."
-msgstr "이 장갑은 착용자에게 기동성 판정시 +5 행운 보너스와 하루에 한 번 14레벨 위저드의 꿈의 망토 주문 시전 능력을 제공합니다."
+msgstr ""
+"이 장갑은 착용자에게 기동성 판정시 +5 행운 보너스와 하루에 한 번 14 레벨 위저드의 꿈의 망토 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/TrickstersGloves_m_DisplayNameText
 msgctxt "1a56ef27-64d6-411a-a646-d4ab6ba11fa3"
@@ -5762,7 +5765,7 @@ msgctxt "db88a797-b153-4048-8524-33713aaac9db"
 msgid ""
 "These gloves grant their wearer a +6 enhancement bonus to Charisma and the "
 "ability to cast greater heroism three times per day as a 11th level wizard."
-msgstr "이 장갑은 착용자에게 매력에 +6 강화 보너스와 하루에 세 번 11레벨 위저드의 상급 영웅심 시전 능력을 제공합니다."
+msgstr "이 장갑은 착용자에게 매력에 +6 강화 보너스와 하루에 세 번 11 레벨 위저드의 상급 영웅심 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/ElfFemaleLeatherworker/RoyalGlovesOfValorItem_m_DisplayNameText
 msgctxt "97a72b95-9751-48c6-b3c4-7afe90b0dd45"
@@ -5776,8 +5779,8 @@ msgid ""
 "enhancement to Constitution and the ability to cast death clutch spell once "
 "per day as a 15th level wizard."
 msgstr ""
-"이 장갑은 착용자에게 힘에 +6 강화 보너스, 건강에 +4 강화 보너스와 하루에 한 번 15레벨 위저드의 죽음의 손아귀 주문 시전 능력을 "
-"제공합니다."
+"이 장갑은 착용자에게 힘에 +6 강화 보너스, 건강에 +4 강화 보너스와 하루에 한 번 15 레벨 위저드의 죽음의 손아귀 주문 시전 "
+"능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/ElfFemaleLeatherworker/UltimateGripGlovesItem_m_DisplayNameText
 msgctxt "392cad0b-7bb7-48b1-9369-7b7837fe2412"
@@ -5791,7 +5794,7 @@ msgid ""
 "resistance bonus to Reflex saving throws and the ability to cast reduce "
 "person spell at will as a 5th level wizard."
 msgstr ""
-"이 장갑은 착용자에게 민첩에 +6 강화 보너스, 반사 내성 굴림 +3 저항 보너스를 주고 마음대로 5레벨 위저드의 사람 축소 주문을 "
+"이 장갑은 착용자에게 민첩에 +6 강화 보너스, 반사 내성 굴림 +3 저항 보너스를 주고 마음대로 5 레벨 위저드의 사람 축소 주문을 "
 "시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/ElvenFemaleWeaponsmith/GlovesOfLighterTouch_m_DisplayNameText
@@ -5804,7 +5807,7 @@ msgctxt "d5e13095-66a2-452d-9ccd-2d8419560447"
 msgid ""
 "These gloves grant their wearer a +4 enhancement bonus to Dexterity and the "
 "ability to cast true strike spell three times per day as a 1st level wizard."
-msgstr "이 장갑은 착용자에게 민첩에 +4 강화 보너스와 하루에 세 번 1레벨 위저드의 진실의 일격 주문 시전 능력을 제공합니다."
+msgstr "이 장갑은 착용자에게 민첩에 +4 강화 보너스와 하루에 세 번 1 레벨 위저드의 진실의 일격 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/ElvenFemaleWeaponsmith/SteadyHandGlovesItem_m_DisplayNameText
 msgctxt "0a42a292-5c87-44d6-b1f4-0e0a55f76e40"
@@ -5818,7 +5821,7 @@ msgid ""
 "and the ability to cast prismatic spray spell three times per day as a 13th "
 "level wizard."
 msgstr ""
-"이 장갑은 착용자에게 모든 내성 굴림 +5 저항 보너스와 하루에 세 번 13레벨 위저드의 무지개빛 분사 주문 시전 능력을 제공합니다."
+"이 장갑은 착용자에게 모든 내성 굴림 +5 저항 보너스와 하루에 세 번 13 레벨 위저드의 무지개빛 분사 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Gloves/Artisan/HalfElfMaleTailor/ButterflyWingsGlovesItem_m_DisplayNameText
 msgctxt "02e1b259-d6bc-4170-a31c-c4a41c29838e"
@@ -6531,7 +6534,7 @@ msgctxt "43c95485-16a9-483a-8c0c-25c52dc34097"
 msgid ""
 "This circlet grants its wearer the ability to cast restoration spell once "
 "per day as a 7th level cleric."
-msgstr "이 서클릿은 착용자에게 하루에 한 번 7레벨 클레릭의 상태회복 주문을 쓸 수 있게 해줍니다."
+msgstr "이 서클릿은 착용자에게 하루에 한 번 7 레벨 클레릭의 상태회복 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/Artisan/HeadbandOfAedinasfaith_m_DisplayNameText
 msgctxt "bd2df324-d394-4bd1-82f0-b44aa9b9f620"
@@ -6552,7 +6555,7 @@ msgid ""
 "day as a 11th level wizard. Whenever the wearer casts a spell with cold "
 "descriptor, that spell deals +1 point of damage per die rolled."
 msgstr ""
-"이 모자는 착용자에게 하루에 한 번 11레벨 위저드의 냉기 원뿔 주문을 쓸 수 있게 해줍니다. 착용자가 냉기 서술어가 포함된 주문을 "
+"이 모자는 착용자에게 하루에 한 번 11 레벨 위저드의 냉기 원뿔 주문을 쓸 수 있게 해줍니다. 착용자가 냉기 서술어가 포함된 주문을 "
 "시전하면, 그 주문의 피해 굴림 주사위 수 마다 +1 점의 피해를 추가합니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/Artisan/HeadbandOfFrozenShout_m_DisplayNameText
@@ -6587,7 +6590,7 @@ msgctxt "fa070b44-426f-4c41-ba3a-8937de3ca25d"
 msgid ""
 "This circlet grants its wearer a +4 enhancement bonus to Intelligence and "
 "the ability to cast lightning bolt spell at will as a 5th level wizard."
-msgstr "이 서클릿은 착용자에게 지능에 +4 강화 보너스를 주고, 마음대로 5레벨 위저드의 번개 화살 주문을 쓸 수 있게 해줍니다."
+msgstr "이 서클릿은 착용자에게 지능에 +4 강화 보너스를 주고, 마음대로 5 레벨 위저드의 번개 화살 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/Artisan/ElfFemaleLeatherworker/EelCircletItem_m_DisplayNameText
 msgctxt "3e81b134-d0b4-4836-b71e-3ca022b687fc"
@@ -6627,7 +6630,7 @@ msgctxt "ce4538f1-9e9f-470f-9b43-a842ca7bd126"
 msgid ""
 "This hat grants its wearer a +4 enhancement bonus to Charisma, and the "
 "ability to cast hold person spell once per day as a 5th level wizard."
-msgstr "이 모자의 착용자는 매력에 +4 강화 보너스를 받고, 하루에 한 번 5레벨 위저드의 사람 포박 주문을 쓸 수 있습니다."
+msgstr "이 모자의 착용자는 매력에 +4 강화 보너스를 받고, 하루에 한 번 5 레벨 위저드의 사람 포박 주문을 쓸 수 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/Artisan/HalfElfMaleTailor/GoldenThreadHeadbandItem_m_DisplayNameText
 msgctxt "44617a20-7dde-4108-8ebd-c73985c28d03"
@@ -7474,7 +7477,7 @@ msgctxt "fc400dbd-5a20-4fbd-b2de-829651b84851"
 msgid ""
 "This ring grants its wearer the ability to cast magic missile spell three "
 "times per day as a 3rd level wizard."
-msgstr "이 반지는 착용자가 하루에 세 번 3레벨 위저드의 마력유도탄 주문을 쓸 수 있게 해줍니다."
+msgstr "이 반지는 착용자가 하루에 세 번 3 레벨 위저드의 마력유도탄 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfTwinArrows_m_DisplayNameText
 msgctxt "d502b2b8-2574-4afb-b0fa-a14461544b29"
@@ -7546,7 +7549,7 @@ msgctxt "172efb95-a27f-49fc-b42c-8b4914d88c5f"
 msgid ""
 "This ring grants its wearer a +2 luck bonus to Constitution, and the ability"
 " to cast enlarge person spell twice per day as a 1st level wizard."
-msgstr "이 반지는 착용자에게 건강에 +2 행운 보너스를 주고, 하루에 두 번 1레벨 위저드의 사람 확대 주문을 쓸 수 있게 해줍니다."
+msgstr "이 반지는 착용자에게 건강에 +2 행운 보너스를 주고, 하루에 두 번 1 레벨 위저드의 사람 확대 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/RingofConstitution_m_DisplayNameText
 msgctxt "11e85078-7f82-476f-b382-5cda3ec0ca8d"
@@ -7586,56 +7589,56 @@ msgctxt "9d288fcd-a77a-4a3b-b33a-f6d10eb8cef6"
 msgid ""
 "This ring generates a shield-sized wall of force that can be wielded by the "
 "wearer as if it were a heavy shield (+2 AC) and grants additional DR2/-."
-msgstr ""
+msgstr "이 반지는 방패 크기의 역장을 생성하여 착용자가 중형 방패처럼 쓸 수 있게 하고 (+2 AC), DR2/- 를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/RingofForceShield_m_DisplayNameText
 msgctxt "e109f20a-d1ea-4980-97fd-a4109a33b6d2"
 msgid "Sentinel"
-msgstr ""
+msgstr "파수꾼"
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/RingofForceShield_m_FlavorText
 msgctxt "101dd68f-1c1a-4b87-be6a-41ba457e72e4"
 msgid "Metal and stone are melted together in this ring."
-msgstr ""
+msgstr "이 반지는 쇠와 돌을 녹여서 만들었습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/RingOfHonorOfDeathItem_m_DescriptionText
 msgctxt "3ebdca19-df94-445e-9d3f-b569eee968d7"
 msgid ""
 "This ring grants its wearer negative energy resistance 20, and the ability "
 "to cast breath of life spell once per day as a 9th level cleric."
-msgstr ""
+msgstr "이 반지는 착용자에게 음에너지 저항 20을 주고, 하루에 한 번 9 레벨 클레릭의 생명의 숨결 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/RingOfHonorOfDeathItem_m_DisplayNameText
 msgctxt "16f91967-2d3e-4679-acb1-33000f657999"
 msgid "Honor of Death"
-msgstr ""
+msgstr "죽음의 영예"
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/RingOfHonorOfDeathItem_m_FlavorText
 msgctxt "43e9154b-c983-4bec-8942-8b9c365bcc99"
 msgid "The obsidian on this ring absorbs sunlight."
-msgstr ""
+msgstr "이 반지에 박힌 흑요석은 햇살을 빨아들입니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/RingOfHumbleMasterItem_m_DescriptionText
 msgctxt "19116e2a-2273-47a5-930d-d11511cf00d1"
 msgid ""
 "This ring grants its wearer a +2 bonus to attack rolls with melee weapons, "
 "and a +1 dodge bonus to AC."
-msgstr ""
+msgstr "이 반지는 착용자의 근접 무기 명중 굴림에 +2 보너스를 주고, AC에 +1 피하기 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/RingOfHumbleMasterItem_m_DisplayNameText
 msgctxt "56089a8a-bea9-4f77-8b51-fe07bad25b84"
 msgid "Daring Duelist"
-msgstr ""
+msgstr "대담한 결투가"
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/RingOfHumbleMasterItem_m_FlavorText
 msgctxt "9ebdbf31-fa46-4065-92a9-d4b1e8161f29"
 msgid "The ring is decorated with a bright jasper."
-msgstr ""
+msgstr "이 반지는 밝은 벽옥으로 장식되어 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/RingofMagicDevicesEnchantment_m_Suffix
 msgctxt "014b68f3-59eb-428f-9eb3-3254faaeaef1"
 msgid "+2"
-msgstr ""
+msgstr "+2"
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/RingofMagicDevices_m_DescriptionText
 msgctxt "451ffc51-52cb-46d6-b286-d5ffc52869f2"
@@ -7644,50 +7647,52 @@ msgid ""
 "skill checks and the ability to cast dispel magic spell twice per day as a "
 "7th level wizard."
 msgstr ""
+"이 반지는 착용자에게 마법 도구 사용 기술 판정에 +5 능숙 보너스를 주고, 하루에 두 번 7 레벨 위저드의 마법 해제 주문을 시전할 수 "
+"있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/RingofMagicDevices_m_DisplayNameText
 msgctxt "d2c8a5c8-6b5d-4480-b731-e55e7b3ea4f4"
 msgid "Ring of Magic Devices"
-msgstr ""
+msgstr "마법 도구의 반지"
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/RingofMagicDevices_m_FlavorText
 msgctxt "a744e057-2ed1-4e3e-9768-991949a26014"
 msgid "This ring's sparkling gem and the bezel are shining incredibly bright."
-msgstr ""
+msgstr "이 반지의 반짝이는 보석과 베젤은 엄청나게 밝게 빛납니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/RingOfPowerStoneEnchantment_m_Suffix
 msgctxt "6efecf5f-67e6-4fb0-9ae7-e13dabaf9ca6"
 msgid "+2"
-msgstr ""
+msgstr "+2"
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/RingOfPowerStoneItem_m_DescriptionText
 msgctxt "96b5edf4-cf33-403c-89d8-02fe17c3d584"
 msgid ""
 "This ring grants its wearer a +4 enhancement bonus to Strength and the "
 "ability to cast bull strength spell 3 times per day as a 3rd level wizard."
-msgstr ""
+msgstr "이 반지는 착용자에게 힘에 +4 강화 보너스를 주고, 하루에 세 번 3 레벨 위저드의 황소의 힘 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/RingOfPowerStoneItem_m_DisplayNameText
 msgctxt "843654df-99f3-4ccd-ba58-fee8b3d8011e"
 msgid "Power Stone"
-msgstr ""
+msgstr "힘의 돌"
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/RingOfPowerStoneItem_m_FlavorText
 msgctxt "a9f90c66-c0b4-4e61-a4a2-82d17eb33736"
 msgid "The nephrite ring is very warm to the touch."
-msgstr ""
+msgstr "이 네프라이트 반지는 만지면 아주 따뜻합니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/RingofSickeningEntanglement_m_DescriptionText
 msgctxt "f0e8a77b-e28b-45f8-bd09-aa1583ce6461"
 msgid ""
 "This ring grants its wearer the ability to cast sickening entanglement spell"
 " three times per day as a 3rd level druid."
-msgstr ""
+msgstr "이 반지는 착용자에게 하루에 세 번 3 레벨 드루이드의 고통스러운 휘감기 주문을 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/RingofSickeningEntanglement_m_DisplayNameText
 msgctxt "33e34e05-2b3b-4fa4-a246-35336a34c509"
 msgid "Thorny Ring"
-msgstr ""
+msgstr "가시 반지"
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/RingOfSourceOfInvisibilityItem_m_DescriptionText
 msgctxt "f521e4e7-bd3a-474e-8697-10fd4ac7d69a"
@@ -7695,65 +7700,67 @@ msgid ""
 "This ring grants its wearer the ability to cast poison spell three times per day as a 7th level cleric.\n"
 "If the wearer has the Invisible Thief ability, the ring allows them to use it for 5 additional rounds per day."
 msgstr ""
+"이 반지는 착용자에게 하루에 세 번 7 레벨 클레릭의 독 주문을 쓸 수 있게 해줍니다.\n"
+"착용자가 투명 도둑 능력을 지니고 있다면, 하루에 5 라운드 더 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/RingOfSourceOfInvisibilityItem_m_DisplayNameText
 msgctxt "3cc8f4f6-43f5-467e-afc1-5056d90a99db"
 msgid "Source of Invisibility"
-msgstr ""
+msgstr "투명화의 근원"
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/SealedRingItem_m_DescriptionText
 msgctxt "b0d95d1e-b161-44a4-9d7b-c002b44eed2c"
 msgid ""
 "This ring grants its wearer Cold Resistance 30 and the ability to cast "
 "horrid wilting spell once per day as a 17th level wizard."
-msgstr ""
+msgstr "이 반지는 착용자에게 냉기 저항 30을 주고, 하루에 한 번 17 레벨 위저드의 끔찍한 고사 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/SealedRingItem_m_DisplayNameText
 msgctxt "82848c10-4559-4bad-8c7a-59c4a57e0047"
 msgid "Sealed Ring"
-msgstr ""
+msgstr "봉인된 반지"
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/ElvenFemaleWeaponsmith/ChameleonRingItem_m_DescriptionText
 msgctxt "479ead2b-98b7-4295-9f30-d4f15a82f5d9"
 msgid ""
 "This ring grants its wearer a +10 enhancement bonus on Stealth skill checks."
-msgstr ""
+msgstr "이 반지는 착용자의 은신 기술 판정에 +10 강화 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/ElvenFemaleWeaponsmith/ChameleonRingItem_m_DisplayNameText
 msgctxt "9cf28339-e231-4b12-a5ed-1d854cd7d4ea"
 msgid "Chameleon Ring"
-msgstr ""
+msgstr "카멜레온 반지"
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/ElvenFemaleWeaponsmith/FireflyRingItem_m_DescriptionText
 msgctxt "9e5e75cc-b01c-4472-bc71-604ef92866d0"
 msgid ""
 "This ring grants its wearer a +8 enhancement bonus to Dexterity and the "
 "ability to cast cleanse spell three times per day as a 9th level cleric."
-msgstr ""
+msgstr "이 반지는 착용자에게 민첩에 +8 강화 보너스를 주고, 하루에 세 번 9 레벨 클레릭의 정화 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/ElvenFemaleWeaponsmith/FireflyRingItem_m_DisplayNameText
 msgctxt "49c52a8e-2b36-4199-bc83-eb4c7710b2cc"
 msgid "Dragonfly Ring"
-msgstr ""
+msgstr "잠자리 반지"
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/HumanMaleAlchemist/RingOfBigBoomEnchantment_m_Suffix
 msgctxt "ba177ecf-4b6f-409d-bd06-20f525f34c78"
 msgid "+2"
-msgstr ""
+msgstr "+2"
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/HumanMaleAlchemist/RingOfBigBoom_m_DescriptionText
 msgctxt "3cd720ba-7dd9-4270-af04-d650d4d91d4d"
 msgid ""
 "This ring grants its wearer a +6 damage bonus to bomb damage and the ability"
 " to cast slow spell twice per day."
-msgstr ""
+msgstr "이 반지는 착용자의 폭탄 피해 굴림에 +6 보너스를 주고, 착용자에게 하루에 두 번 감속 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/HumanMaleAlchemist/RingOfBigBoom_m_DescriptionText_1
 msgctxt "c918c7e1-5522-4e33-819d-1f46bdf7eda0"
 msgid ""
 "This ring grants its wearer a +6 damage bonus to bomb damage and the ability"
 " to cast slow spell twice per day."
-msgstr ""
+msgstr "이 반지는 착용자의 폭탄 피해 굴림에 +6 보너스를 주고, 착용자에게 하루에 두 번 감속 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/HumanMaleAlchemist/RingOfBigBoom_m_DescriptionText_2
 msgctxt "258b801c-b186-4e11-8780-d3e274fd0671"
@@ -7761,11 +7768,12 @@ msgid ""
 "This ring grants its wearer a +12 damage bonus to bomb damage and the "
 "ability to cast slow spell twice per day as a 5th level wizard."
 msgstr ""
+"이 반지는 착용자의 폭탄 피해 굴림에 +12 보너스를 주고, 착용자에게 하루에 두 번 5 레벨 위저드의 감속 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/Artisan/HumanMaleAlchemist/RingOfBigBoom_m_DisplayNameText
 msgctxt "d4f56f38-0beb-4540-abf2-519c65da7033"
 msgid "Explosion Ring"
-msgstr ""
+msgstr "폭발 반지"
 
 #. Mechanics/Blueprints/Equipment/Rings/BraveryRing/BraveryRingEnchant_m_Description
 msgctxt "995d8c2e-7f2c-4843-8e72-70a1adc1560c"
@@ -7774,23 +7782,28 @@ msgid ""
 "It imposes a -2 penalty to wearer's Wisdom score, -4 penalty to Perception skill checks, -2 penalty to Will saving throws, and a -10 all saving throws against traps.\n"
 "Whenever the wearer receives a critical hit, they become confused for 1d4 rounds."
 msgstr ""
+"이 반지는 착용자의 매력에 +4 보너스, 은신과 손재주 기술 판정에 +4 보너스, 치명타 확정 굴림에 +4 보너스, 정신 영향 주문의 "
+"DC에 +2 보너스를 줍니다.\n"
+"또한 착용자의 지혜에 -2 페널티, 지각 기술 판정에 -4 페널티, 의지 내성 굴림에 -2 페널티, 함정에 대한 내성 굴림에 -10 "
+"페널티를 줍니다.\n"
+"착용자가 치명타에 맞을 때마다 1d4 라운드 동안 혼란 상태에 빠집니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/BraveryRing/BraveryRingFeature_m_DisplayName
 msgctxt "674d14ad-4f47-4a4c-8652-e750fb7aba3d"
 msgid "Ring of Reckless Courage"
-msgstr ""
+msgstr "무모한 용기의 반지"
 
 #. Mechanics/Blueprints/Equipment/Rings/DLC2/RingOfTheNaturalBornCommander_m_DescriptionText
 msgctxt "34e6bafc-99a3-4615-9621-4b505791e8eb"
 msgid ""
 "This ring grants its wearer a +3 insight bonus on all Persuasion skill "
 "checks."
-msgstr ""
+msgstr "이 반지는 착용자의 모든 설득 기술 판정에 +3 통찰 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/DLC2/RingOfTheNaturalBornCommander_m_DisplayNameText
 msgctxt "49b10900-a3d0-452a-b52c-6895ccba14fc"
 msgid "Ring of the Natural Born Commander"
-msgstr ""
+msgstr "타고난 지도자의 반지"
 
 #. Mechanics/Blueprints/Equipment/Rings/DLC2/RingOfTheNaturalBornCommander_m_FlavorText
 msgctxt "cc6c5ef8-6d96-4da2-b3c8-0e87bf080e80"
@@ -7798,18 +7811,19 @@ msgid ""
 "The authority's voice doesn't always sound like a command. Some prefer to "
 "obey a friendly advice, some need a sweet lie."
 msgstr ""
+"권위는 명령에서만 나오는 것이 아닙니다. 사람에 따라 친절한 조언이나 달콤한 거짓말을 건넬 줄도 알아야 남을 따르게 할 수 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/KineticistRings/InfernalBondRingItem_m_DescriptionText
 msgctxt "9bc573b6-cb24-4235-8074-5e86a022cd06"
 msgid ""
 "If the wearer of this ring is a kineticist, the bonus given to them by their"
 " gather power ability is increased by 1."
-msgstr ""
+msgstr "키네티시스트가 이 반지를 착용하면, 힘 모으기의 보너스가 1 증가합니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/KineticistRings/InfernalBondRingItem_m_DisplayNameText
 msgctxt "929f7ae5-6d11-4a4e-b9dd-276ee342ba9c"
 msgid "Infernal Bond"
-msgstr ""
+msgstr "지옥의 유대"
 
 #. Mechanics/Blueprints/Equipment/Rings/KineticistRings/SigilOfCreationRingItem_m_DescriptionText
 msgctxt "dacf4707-f0be-42d8-8f54-a32095d5fb08"
@@ -7818,35 +7832,37 @@ msgid ""
 "also applies the effect of the restoration spell to the target. The talent "
 "is always empowered, as though using the Empower Spell feat."
 msgstr ""
+"이 반지의 착용자가 초능력 치유사 원초적 재능을 사용할 때마다, 대상에게 상태 회복 주문의 효과도 같이 적용됩니다. 초능력 치유사 능력이 "
+"메타매직 (강화) 특기를 쓴 것 처럼 강화됩니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/KineticistRings/SigilOfCreationRingItem_m_DisplayNameText
 msgctxt "96f56eb5-3f70-4481-b4b8-ec1bc09eb29f"
 msgid "Sigil of Creation"
-msgstr ""
+msgstr "창조의 인장"
 
 #. Mechanics/Blueprints/Equipment/Rings/KineticistRings/SigilOfDestructionRingItem_m_DescriptionText
 msgctxt "eb213c98-8821-486f-83d6-7a2d69279177"
 msgid ""
 "This ring doubles the threat range of the wearer's kinetic blasts. This "
 "effect stacks with the effect of Improved Critical feat."
-msgstr ""
+msgstr "이 반지는 초능력 블래스트의 치명타 범위를 두 배로 늘립니다. 이 효과는 향상된 치명타 특기와 중첩됩니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/KineticistRings/SigilOfDestructionRingItem_m_DisplayNameText
 msgctxt "06a58726-25ef-439f-bae6-9ba291beeaa6"
 msgid "Sigil of Destruction"
-msgstr ""
+msgstr "파괴의 인장"
 
 #. Mechanics/Blueprints/Equipment/Rings/KineticistRings/UnmakerRingItem_m_DescriptionText
 msgctxt "2beb3caa-1867-4f5c-b489-4678a692b4ea"
 msgid ""
 "Each round the first attack this ring's wearer makes using an unarmed "
 "strike or natural weapon, casts the greater dispel magic spell."
-msgstr ""
+msgstr "반지의 착용자가 비무장 타격이나 자연 무기로 행하는 라운드 첫 번째 공격은 상급 마법 해제 주문을 시전합니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/KineticistRings/UnmakerRingItem_m_DisplayNameText
 msgctxt "bd916040-bc36-40da-9323-ad57333c05a1"
 msgid "Unmaker"
-msgstr ""
+msgstr "역창조자"
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingMasterpieceItem_m_DescriptionText
 msgctxt "6b4ba018-3737-4370-a262-32d3edbe5bc2"
@@ -7855,21 +7871,23 @@ msgid ""
 "saving throws, skill checks and spell penetration checks. It also grants "
 "immunity to curses."
 msgstr ""
+"이 반지는 착용자의 명중 및 피해 굴림, 내성 굴림, 기술 판정 및 주문 관통 판정에 +2 행운 보너스를 줍니다. 또한 착용자는 저주에 "
+"면역이 됩니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingMasterpieceItem_m_DisplayNameText
 msgctxt "39a4c989-e7f0-44e8-ac16-0cf671daa37f"
 msgid "Great Dreamer's Smile"
-msgstr ""
+msgstr "위대한 몽상가의 미소"
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingOfAcidImmunityItem_m_DescriptionText
 msgctxt "d2da3d42-bcdc-4d44-8a30-6e2fb5b666e0"
 msgid "This ring grants its wearer immunity to acid."
-msgstr ""
+msgstr "이 반지는 착용자에게 산에 대한 면역을 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingOfAcidImmunityItem_m_DisplayNameText
 msgctxt "d2a8bfca-1014-4c3d-8513-ed4add21b24d"
 msgid "Ring of Acid Immunity"
-msgstr ""
+msgstr "산성 면역의 반지"
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingOfBalanceGreaterItem_m_DescriptionText
 msgctxt "541df506-2fef-42d9-99d4-3a8961ef5daa"
@@ -7879,11 +7897,13 @@ msgid ""
 "of freedom of movement spell. It can only be worn by true neutral (on both "
 "axes) characters."
 msgstr ""
+"이 반지는 착용자에게 AC에 +5 굴절 보너스, 감정 효과에 면역, 공포 효과에 면역, 혼란에 면역, 지속적인 이동의 자유 주문 효과를 "
+"줍니다. 이 반지는 진정한 중립 (양 축 모두) 캐릭터만 착용할 수 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingOfBalanceGreaterItem_m_DisplayNameText
 msgctxt "24986bce-60a8-4e37-bf18-271db0195941"
 msgid "Greater Ring of Balance"
-msgstr ""
+msgstr "상급 균형의 반지"
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingOfBalanceLesserItem_m_DescriptionText
 msgctxt "2e1ca4cc-bf92-4862-8b13-c02698b4711d"
@@ -7892,21 +7912,22 @@ msgid ""
 "emotion effects. It can only be worn only by neutral (on at least one axis) "
 "characters."
 msgstr ""
+"이 반지는 착용자에게 AC에 +4 굴절 보너스, 감정 효과에 면역을 줍니다. 중립 캐릭터만 (최소 한쪽 성향이) 착용할 수 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingOfBalanceLesserItem_m_DisplayNameText
 msgctxt "5231cf03-3f49-47b6-8256-3666c282d06a"
 msgid "Lesser Ring of Balance"
-msgstr ""
+msgstr "하급 균형의 반지"
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingOfBlurItem_m_DescriptionText
 msgctxt "2563fbef-b1ff-47c8-9aa7-250d087862ad"
 msgid "This ring grants its wearer a continuous blur spell effect."
-msgstr ""
+msgstr "이 반지는 착용자에게 지속적인 흐릿한 형상 주문 효과를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingOfBlurItem_m_DisplayNameText
 msgctxt "070f2290-fb14-4238-94f8-673541fe01b5"
 msgid "Ring of Blur"
-msgstr ""
+msgstr "흐릿한 형상의 반지"
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingOfChaosItem_m_DescriptionText
 msgctxt "6ab7ed45-fc91-4a6d-8678-2a12e51fa85b"
@@ -7914,23 +7935,24 @@ msgid ""
 "This ring grants its wearer a +4 deflection bonus to AC and a continuous "
 "freedom of movement spell effect. Only chaotic characters can equip it."
 msgstr ""
+"이 반지는 착용자에게 AC에 +4 굴절 보너스, 지속적인 이동의 자유 주문 효과를 줍니다. 혼돈 성향의 캐릭터만 장비할 수 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingOfChaosItem_m_DisplayNameText
 msgctxt "34d2ac2e-e06e-49fc-858d-2d9012c24228"
 msgid "Ring of Chaos"
-msgstr ""
+msgstr "혼돈의 반지"
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingOfEnhancedSummonsItem_m_DescriptionText
 msgctxt "4b00b831-28fe-4a2a-b56a-030b8787e649"
 msgid ""
 "This ring grants the monsters summoned by its wearer a +2 enhancement bonus "
 "for their weapons."
-msgstr ""
+msgstr "이 반지는 착용자가 소환한 괴물의 무기에 +2 강화 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingOfEnhancedSummonsItem_m_DisplayNameText
 msgctxt "716c8bf7-efe9-4fb6-8d76-6388334f838e"
 msgid "Ring of Enhanced Summons"
-msgstr ""
+msgstr "소환수 강화의 반지"
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingOfEvasionItem_m_DescriptionText
 msgctxt "523391e0-746f-483c-a5d0-132d9d69c397"
@@ -7940,23 +7962,25 @@ msgid ""
 "determine whether she takes half damage, a successful save results in no "
 "damage."
 msgstr ""
+"이 반지는 착용자가 회피 능력을 지닌 것처럼 피해를 회피할 수 있게 해줍니다. 성공하면 피해를 절반만 받는 반사 내성 굴림에 성공하면 "
+"피해를 받지 않습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingOfEvasionItem_m_DisplayNameText
 msgctxt "29c1b7db-a5ff-4d7a-9be8-7fae9f445b20"
 msgid "Ring of Evasion"
-msgstr ""
+msgstr "회피의 반지"
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingOfLawItem_m_DescriptionText
 msgctxt "6916247d-2d8e-44fb-bf8f-dda5b89454fc"
 msgid ""
 "This ring grants its wearer a +4 deflection bonus to AC, and immunity to "
 "confusion and fear. Only lawful characters can equip it."
-msgstr ""
+msgstr "이 반지는 착용자의 AC에 +4 굴절 보너스, 혼란과 공포에 면역을 줍니다. 질서 성향의 캐릭터만 착용할 수 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingOfLawItem_m_DisplayNameText
 msgctxt "5f442782-f9a3-4741-b7a1-5383f3defbf1"
 msgid "Ring of Law"
-msgstr ""
+msgstr "질서의 반지"
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingOfUltimateProtectionGreaterItem_m_DescriptionText
 msgctxt "de6c3c71-6f9b-4426-9666-2ee06c520eef"
@@ -7964,11 +7988,13 @@ msgid ""
 "This ring grants its wearer a +5 resistance bonus to all saving throws, a +5"
 " deflection bonus to AC, spell resistance 24, and DR 2/-."
 msgstr ""
+"이 반지는 착용자의 모든 내성 굴림에 +5 저항 보너스, AC에 +5 굴절 보너스를 주고, 착용자에게 주문 저항 24, DR 2/-를 "
+"줍니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingOfUltimateProtectionGreaterItem_m_DisplayNameText
 msgctxt "74d5fa31-bdae-4ad1-9d07-852ec004eecf"
 msgid "Greater Ring of Ultimate Protection"
-msgstr ""
+msgstr "상급 궁극의 보호 반지"
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingOfUltimateProtectionLesserItem_m_DescriptionText
 msgctxt "73123396-f9a2-4947-b13d-7d3c0961c227"
@@ -7976,11 +8002,13 @@ msgid ""
 "This ring grants its wearer a +4 resistance bonus to all saving throws, a +4"
 " deflection bonus to AC, spell resistance 19, and DR 1/-."
 msgstr ""
+"이 반지는 착용자의 모든 내성 굴림에 +4 저항 보너스, AC에 +4 굴절 보너스를 주고, 착용자에게 주문 저항 19, DR 1/-를 "
+"줍니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/LateChapters/RingOfUltimateProtectionLesserItem_m_DisplayNameText
 msgctxt "3387d926-3c27-4eef-a195-aa32a165064f"
 msgid "Lesser Ring of Ultimate Protection"
-msgstr ""
+msgstr "하급 궁극의 보호 반지"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesItem_m_DescriptionText
 msgctxt "9ec2a14f-4376-4f38-af59-cff449d37a05"
@@ -7999,329 +8027,342 @@ msgid ""
 "+1 circumstance bonus to AC\n"
 "+1 circumstance bonus to DCs of all spells and usable abilities"
 msgstr ""
+"이 반지를 착용하고 휴식을 취하면 아래의 목록 중 4 가지 효과를 받을 수 있습니다. 반지를 해제하면 모든 보너스가 즉시 사라집니다.\n"
+"힘에 +2 상황 보너스\n"
+"민첩에 +2 상황 보너스\n"
+"건강에 +2 상황 보너스\n"
+"지능에 +2 상황 보너스\n"
+"지혜에  +2 상황 보너스\n"
+"매력에  +2 상황 보너스\n"
+"모든 내성 굴림에 +1 상황 보너스\n"
+"무기 피해 굴림에  +1 상황 보너스\n"
+"모든 기술 판정에 +2 상황 보너스\n"
+"이동 속도에 +5 피트 상황 보너스\n"
+"AC에 +1 상황 보너스\n"
+"모든 사용 능력과 주문의 DC에 +1 상황 보너스"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesItem_m_DisplayNameText
 msgctxt "96ae6682-093e-4c2a-8849-81a248b2d4d9"
 msgid "Ring of Circumstances"
-msgstr ""
+msgstr "상황의 반지"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesItem_m_FlavorText
 msgctxt "4b10fcce-ba26-4998-9870-c606fbe7d0c0"
 msgid ""
 "The ring looks like an intricate puzzle, with rotating details and numerous "
 "scattered symbols."
-msgstr ""
+msgstr "이 반지에는 회전하는 자그마한 상징들이 여기저기 잔뜩 그려져 있어, 마치 복잡한 퍼즐처럼 보입니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesItem_m_NonIdentifiedNameText
 msgctxt "1d089691-a8f2-45f4-a172-80badc619e51"
 msgid "Intricate Ring"
-msgstr ""
+msgstr "복잡한 반지"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesArmorClass/RingOfCircumstancesArmorClassBuff_Description_String
 msgctxt "6809ad15-4cda-4b79-a7af-f96e8eb8a2c0"
 msgid ""
 "The wearer of the Ring of Circumstances gets a +1 circumstance bonus to AC."
-msgstr ""
+msgstr "상황의 반지 착용자는 AC에 +1 상황 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesArmorClass/RingOfCircumstancesArmorClassBuff_Description_String_1
 msgctxt "06168384-3723-4724-bd46-0ddaacb584e5"
 msgid ""
 "The wearer of the Ring of Circumstances gets a +1 circumstance bonus to AC."
-msgstr ""
+msgstr "상황의 반지 착용자는 AC에 +1 상황 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesArmorClass/RingOfCircumstancesArmorClassBuff_DisplayName_String
 msgctxt "15594989-87db-4acd-817a-95ad32e9df64"
 msgid "Ring of Circumstances: AC"
-msgstr ""
+msgstr "상황의 반지: AC"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesArmorClass/RingOfCircumstancesArmorClassBuff_DisplayName_String_1
 msgctxt "4436330d-c7df-46f4-ae86-ac41039a4951"
 msgid "Ring of Circumstances: AC"
-msgstr ""
+msgstr "상황의 반지: AC"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesCharisma/RingOfCircumstancesCharismaBuff_Description_String
 msgctxt "9e292993-3448-4103-a66b-c431331d2405"
 msgid ""
 "The wearer of the Ring of Circumstances gets a +2 circumstance bonus to "
 "Charisma."
-msgstr ""
+msgstr "상황의 반지 착용자는 매력에 +2 상황 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesCharisma/RingOfCircumstancesCharismaBuff_DisplayName_String
 msgctxt "890a507a-ef87-4a81-b31c-a12af0a785b9"
 msgid "Ring of Circumstances: Charisma"
-msgstr ""
+msgstr "상황의 반지: 매력"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesConstitution/RingOfCircumstancesConstitutionBuff_Description_String
 msgctxt "ab463b17-9c4f-4ce1-9b38-c31168d6442a"
 msgid ""
 "The wearer of the Ring of Circumstances gets a +2 circumstance bonus to "
 "Constitution."
-msgstr ""
+msgstr "상황의 반지 착용자는 건강에 +2 상황 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesConstitution/RingOfCircumstancesConstitutionBuff_DisplayName_String
 msgctxt "74e4cffb-1d25-42d9-a4d3-3cf1ae581536"
 msgid "Ring of Circumstances: Constitution"
-msgstr ""
+msgstr "상황의 반지: 건강"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesDexterity/RingOfCircumstancesDexterityBuff_Description_String
 msgctxt "6bf88434-8b00-4697-a5b7-70cfbc0efe5c"
 msgid ""
 "The wearer of the Ring of Circumstances gets a +2 circumstance bonus to "
 "Dexterity."
-msgstr ""
+msgstr "상황의 반지 착용자는 민첩에 +2 상황 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesDexterity/RingOfCircumstancesDexterityBuff_DisplayName_String
 msgctxt "9de4c14f-bed0-41f7-96ed-571587810054"
 msgid "Ring of Circumstances: Dexterity"
-msgstr ""
+msgstr "상황의 반지: 민첩"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesIntelligence/RingOfCircumstancesIntelligenceBuff_Description_String
 msgctxt "ce8840cb-66d6-4df2-981d-230918b18627"
 msgid ""
 "The wearer of the Ring of Circumstances gets a +2 circumstance bonus to "
 "Intelligence."
-msgstr ""
+msgstr "상황의 반지 착용자는 지능에 +2 상황 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesIntelligence/RingOfCircumstancesIntelligenceBuff_DisplayName_String
 msgctxt "85b387c1-4ba5-4963-8ca9-2db272d01de5"
 msgid "Ring of Circumstances: Intelligence"
-msgstr ""
+msgstr "상황의 반지: 지능"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesMovementSpeed/RingOfCircumstancesMovementSpeedBuff_Description_String
 msgctxt "d402b363-9738-4ffc-abe8-ff3b3b3582c5"
 msgid ""
 "The wearer of the Ring of Circumstances gets a +5 feet circumstance bonus to"
 " movement speed."
-msgstr ""
+msgstr "상황의 반지 착용자는 이동속도에 +5 피트 상황 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesMovementSpeed/RingOfCircumstancesMovementSpeedBuff_DisplayName_String
 msgctxt "38e7eb17-a85e-46c7-bc16-76ec5f6ad367"
 msgid "Ring of Circumstances: Speed"
-msgstr ""
+msgstr "상황의 반지: 속도"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesMovementSpeed/RingOfCircumstancesStrengthBuff_Description_String
 msgctxt "99390179-39a3-4929-a283-10f7cc0c0a40"
 msgid ""
 "The wearer of the Ring of Circumstances gets a +2 circumstance bonus to "
 "Strength."
-msgstr ""
+msgstr "상황의 반지 착용자는 힘에 +2 상황 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesMovementSpeed/RingOfCircumstancesStrengthBuff_DisplayName_String
 msgctxt "02f282e3-f28d-4a66-a2ab-03bacd1460d1"
 msgid "Ring of Circumstances: Strength"
-msgstr ""
+msgstr "상황의 반지: 힘"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesSaves/RingOfCircumstancesSavesBuff_Description_String
 msgctxt "08b6027b-cbda-498b-be33-df62e7255a02"
 msgid ""
 "The wearer of the Ring of Circumstances gets a +1 circumstance bonus to all "
 "saving throws."
-msgstr ""
+msgstr "상황의 반지 착용자는 모든 내성 굴림에 +1 상황 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesSaves/RingOfCircumstancesSavesBuff_DisplayName_String
 msgctxt "f88af2fe-eede-4664-b5e5-7ccff825629f"
 msgid "Ring of Circumstances: Saving Throws"
-msgstr ""
+msgstr "상황의 반지: 내성 굴림"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesSkills/RingOfCircumstancesSkillsBuff_Description_String
 msgctxt "eaa5aef9-f1a9-4d31-b1d5-c517f99bcd36"
 msgid ""
 "The wearer of the Ring of Circumstances gets a +2 circumstance bonus to all "
 "skill checks."
-msgstr ""
+msgstr "상황의 반지 착용자는 모든 기술 판정에 +2 상황 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesSkills/RingOfCircumstancesSkillsBuff_DisplayName_String
 msgctxt "30d60e88-ded6-4f0e-9081-7bc469b34936"
 msgid "Ring of Circumstances: Skills"
-msgstr ""
+msgstr "상황의 반지: 기술"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesSpellDC/RingOfCircumstancesSpellDCBuff_Description_String
 msgctxt "f4b9eb75-3608-4103-b0db-485172855f96"
 msgid ""
 "The wearer of the Ring of Circumstances gets a +1 circumstance bonus to DCs "
 "of all spells and usable abilities."
-msgstr ""
+msgstr "상황의 반지 착용자는 모든 사용 능력과 주문의 DC에 +1 상황 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesSpellDC/RingOfCircumstancesSpellDCBuff_DisplayName_String
 msgctxt "c2f68398-5e61-49fb-afa3-c46b2110ed8a"
 msgid "Ring of Circumstances: Spell DC"
-msgstr ""
+msgstr "상황의 반지: 주문 DC"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesStrength/RingOfCircumstancesStrengthBuff_Description_String
 msgctxt "1c636dc7-9a94-43c3-82b2-cdc195499b4b"
 msgid ""
 "The wearer of the Ring of Circumstances gets a +2 circumstance bonus to "
 "Strength."
-msgstr ""
+msgstr "상황의 반지 착용자는 힘에 +2 상황 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesStrength/RingOfCircumstancesStrengthBuff_DisplayName_String
 msgctxt "6aab5934-177a-4267-b888-dd2cfcd0cc07"
 msgid "Ring of Circumstances: Strength"
-msgstr ""
+msgstr "상황의 반지: 힘"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesWeaponDamage/RingOfCircumstancesStrengthBuff_Description_String
 msgctxt "82dbbdce-48f8-4a0f-b1ef-a12402544da1"
 msgid ""
 "The wearer of the Ring of Circumstances gets a +2 circumstance bonus to "
 "Strength."
-msgstr ""
+msgstr "상황의 반지 착용자는 힘에 +2 상황 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesWeaponDamage/RingOfCircumstancesStrengthBuff_DisplayName_String
 msgctxt "19c90445-a6fd-4381-a718-594da110041d"
 msgid "Ring of Circumstances: Strength"
-msgstr ""
+msgstr "상황의 반지: 힘"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesWeaponDamage/RingOfCircumstancesWeaponDamageBuff_Description_String
 msgctxt "c407e014-6071-4355-8f78-43fea98ae638"
 msgid ""
 "The wearer of the Ring of Circumstances gets a +1 circumstance bonus to "
 "weapon damage rolls."
-msgstr ""
+msgstr "상황의 반지 착용자는 무기 피해 굴림에 +1 상황 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesWeaponDamage/RingOfCircumstancesWeaponDamageBuff_DisplayName_String
 msgctxt "795ac5f4-ecee-4809-8ea6-364bed129682"
 msgid "Ring of Circumstances: Damage"
-msgstr ""
+msgstr "상황의 반지: 피해"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesWisdom/RingOfCircumstancesWisdomBuff_Description_String
 msgctxt "e66983ce-b194-4ed2-8da0-7fd49ae7cbcf"
 msgid ""
 "The wearer of the Ring of Circumstances gets a +2 circumstance bonus to "
 "Wisdom."
-msgstr ""
+msgstr "상황의 반지 착용자는 지혜에 +2 상황 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfCircumstances/RingOfCircumstancesWisdom/RingOfCircumstancesWisdomBuff_DisplayName_String
 msgctxt "0ff55d83-9f67-42db-bd02-f9ba78e6a4fa"
 msgid "Ring of Circumstances: Wisdom"
-msgstr ""
+msgstr "상황의 반지: 지혜"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfProtection1_Prologue/LinziRingFeature_Description_String
 msgctxt "568802ae-a0ad-44fb-8dc2-8ecc5b7228e5"
 msgid ""
 "Linzi's ring prevents her from dying and teleports her to a safe location "
 "should she fall in battle."
-msgstr ""
+msgstr "린지의 반지는 그녀가 전투에서 쓰러지면 안전한 장소로 순간이동시켜 죽지 않도록 합니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfProtection1_Prologue/LinziRingFeature_DisplayName_String
 msgctxt "cf45f17c-ee06-434d-a0a8-e0471f7897ce"
 msgid "Shelyn's Embrace"
-msgstr ""
+msgstr "셸린의 포옹"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfProtection1_Prologue/LinziRingFeature_FakeDeathMessage
 msgctxt "8399a8bd-ee4b-4667-8730-4eb676ca3809"
 msgid "<b>{source}</b> disappears!"
-msgstr ""
+msgstr "<b>{source}</b> 이/가 사라졌습니다!"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfProtection1_Prologue/LinziRingFeature_FakeDeathMessage_String
 msgctxt "b41990fc-9957-48cd-9328-6517de7b9348"
 msgid "<b>{source}</b> disappears!"
-msgstr ""
+msgstr "<b>{source}</b> 이/가 사라졌습니다!"
 
 #. Mechanics/Blueprints/Equipment/Rings/RingOfProtection1_Prologue/RingOfProtection1_Prologue_m_FlavorText
 msgctxt "09103b06-f3d6-4406-843f-dee6bd7a50d7"
 msgid ""
 "A fancy golden signet ring with an intricate monogram — a personal gift from"
 " Tartuccio to {Name}."
-msgstr ""
+msgstr "복잡한 모노그램이 새겨진 화려한 인장 반지. 타투치오가 {Name}에게 준 선물."
 
 #. Mechanics/Blueprints/Equipment/Rings/TristianRomance/TristianRing_m_DescriptionText
 msgctxt "6740d6bd-05a6-4e92-9c83-4f5dcc3e8f2d"
 msgid ""
 "This ring of protection +4 grants its wearer a continuous effect of death "
 "ward spell."
-msgstr ""
+msgstr "이 보호의 반지 +4는 착용자에게 지속적인 죽음 방호 주문의 효과를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/Vendors/RingOfCorrosionItem_m_DescriptionText
 msgctxt "3ef0eaca-bb28-409c-a6bb-a9f8b051a692"
 msgid ""
 "Whenever the wearer casts a spell with acid descriptor, that spell deals +1 "
 "point of damage per die rolled."
-msgstr ""
+msgstr "착용자가 산성 기술어를 포함하는 주문을 시전하면, 피해 굴림 주사위 당 1 점의 피해를 추가합니다."
 
 #. Mechanics/Blueprints/Equipment/Rings/Vendors/RingOfCorrosionItem_m_DisplayNameText
 msgctxt "8bfa213d-d560-43f0-a63b-2a252438ba87"
 msgid "Ring of Corrosion"
-msgstr ""
+msgstr "부식의 반지"
 
 #. Mechanics/Blueprints/Equipment/Shields/Enchantments/ShieldEnhancementBonus1_m_Description
 msgctxt "3d6104f2-ef8c-46fb-88ed-4588f106ea29"
 msgid "Grants +1 enhancement bonus to Armor Class."
-msgstr ""
+msgstr "방어도에 +1 강화 보너스 제공."
 
 #. Mechanics/Blueprints/Equipment/Shields/Enchantments/ShieldEnhancementBonus1_m_EnchantName
 msgctxt "66485597-d312-4c41-b8ee-f5373327bf61"
 msgid "Enhancement +1"
-msgstr ""
+msgstr "강화 +1"
 
 #. Mechanics/Blueprints/Equipment/Shields/Enchantments/ShieldEnhancementBonus1_m_Suffix
 msgctxt "b8ef8505-a32c-466d-9f1d-640d7691ef68"
 msgid "+1"
-msgstr ""
+msgstr "+1"
 
 #. Mechanics/Blueprints/Equipment/Shields/Enchantments/ShieldEnhancementBonus2_m_Description
 msgctxt "32d4ed2c-17b9-4433-bddd-5d18f8b6f7ae"
 msgid "Grants +2 enhancement bonus to Armor Class."
-msgstr ""
+msgstr "방어도에 +2 강화 보너스 제공."
 
 #. Mechanics/Blueprints/Equipment/Shields/Enchantments/ShieldEnhancementBonus2_m_EnchantName
 msgctxt "55c094e7-2917-4492-a905-b629438fde9d"
 msgid "Enhancement +2"
-msgstr ""
+msgstr "강화 +2"
 
 #. Mechanics/Blueprints/Equipment/Shields/Enchantments/ShieldEnhancementBonus2_m_Suffix
 msgctxt "8891a997-c261-4f57-9d91-35c96bb7fd41"
 msgid "+2"
-msgstr ""
+msgstr "+2"
 
 #. Mechanics/Blueprints/Equipment/Shields/Enchantments/ShieldEnhancementBonus3_m_Description
 msgctxt "d2b3d510-f2d0-46bf-a8a3-c94704793421"
 msgid "Grants +3 enhancement bonus to Armor Class."
-msgstr ""
+msgstr "방어도에 +3 강화 보너스 제공."
 
 #. Mechanics/Blueprints/Equipment/Shields/Enchantments/ShieldEnhancementBonus3_m_EnchantName
 msgctxt "69746ea7-4b89-42d9-ad17-3ea33e408719"
 msgid "Enhancement +3"
-msgstr ""
+msgstr "강화 +3"
 
 #. Mechanics/Blueprints/Equipment/Shields/Enchantments/ShieldEnhancementBonus3_m_Suffix
 msgctxt "46442355-88e7-47e1-bcaf-71866d81eb92"
 msgid "+3"
-msgstr ""
+msgstr "+3"
 
 #. Mechanics/Blueprints/Equipment/Shields/Enchantments/ShieldEnhancementBonus4_m_Description
 msgctxt "c5d64448-bd42-4079-b920-669ca36df7a2"
 msgid "Grants +4 enhancement bonus to Armor Class."
-msgstr ""
+msgstr "방어도에 +4 강화 보너스 제공."
 
 #. Mechanics/Blueprints/Equipment/Shields/Enchantments/ShieldEnhancementBonus4_m_EnchantName
 msgctxt "f11bcf30-48b9-47a1-8541-06ad2583c3f9"
 msgid "Enhancement +4"
-msgstr ""
+msgstr "강화 +4"
 
 #. Mechanics/Blueprints/Equipment/Shields/Enchantments/ShieldEnhancementBonus4_m_Suffix
 msgctxt "ac5ff4b0-88a6-43d5-91bb-6a4da9ac386e"
 msgid "+4"
-msgstr ""
+msgstr "+4"
 
 #. Mechanics/Blueprints/Equipment/Shields/Enchantments/ShieldEnhancementBonus5_m_Description
 msgctxt "cdbdff1c-1928-4b6a-bdef-1261ce8971e6"
 msgid "Grants +5 enhancement bonus to Armor Class."
-msgstr ""
+msgstr "방어도에 +5 강화 보너스 제공."
 
 #. Mechanics/Blueprints/Equipment/Shields/Enchantments/ShieldEnhancementBonus5_m_EnchantName
 msgctxt "e1b9efc0-b42a-4716-8ef2-ee295ad918d9"
 msgid "Enhancement +5"
-msgstr ""
+msgstr "강화 +5"
 
 #. Mechanics/Blueprints/Equipment/Shields/Enchantments/ShieldEnhancementBonus5_m_Suffix
 msgctxt "272f7aee-8cbf-4a36-a153-75d2d1324ffc"
 msgid "+5"
-msgstr ""
+msgstr "+5"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/Artisan/BashingShieldArmor_m_DisplayNameText
 msgctxt "ba9a34a7-473a-4327-97f7-ff117f351888"
 msgid "Bashing Shield"
-msgstr ""
+msgstr "타격용 방패"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/Artisan/BashingShield_m_DescriptionText
 msgctxt "64861c62-3587-42c8-8938-bb987819e445"
@@ -8331,52 +8372,54 @@ msgid ""
 "shield deals 1d8 points of damage). The shield acts as a +1 weapon when used"
 " to bash."
 msgstr ""
+"이 +1 방패는 방패 치기를 위해 특별히 고안되었습니다. 피해를 입힐 때 크기 범주를 원래보다 세 단계 높게 취급합니다. (중간 크기 "
+"소형 방패는 1d8점의 피해를 입힙니다). 방패 치기를 사용할 때 방패를 +1 무기로 간주합니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/Artisan/BashingShield_m_DisplayNameText
 msgctxt "504b0b9b-cff0-4826-ab7d-c638ac6e6173"
 msgid "Bashing Shield"
-msgstr ""
+msgstr "타격용 방패"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/Artisan/ShieldofDivinePowerArmor_m_DisplayNameText
 msgctxt "57c99835-45de-4ef3-9de0-49f7ded9407b"
 msgid "+1 Enhancement"
-msgstr ""
+msgstr "+1 강화"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/Artisan/ShieldofDivinePower_m_DescriptionText
 msgctxt "35f22cc8-61aa-417e-866e-c83756ff0937"
 msgid ""
 "This +3 shield gives its wielder the ability to cast divine power spell once"
 " per day as a 7th level cleric."
-msgstr ""
+msgstr "이 +3 방패는 착용자에게 하루에 한 번 7 레벨 클레릭의 신성한 힘 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/Artisan/ShieldofDivinePower_m_DisplayNameText
 msgctxt "a67f2e09-d3b7-48a0-8beb-10f58050072d"
 msgid "Blessed Defense"
-msgstr ""
+msgstr "축복받은 방어"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/Artisan/ShieldofWill_m_DescriptionText
 msgctxt "c53994df-06dc-44cb-a734-1d4123e0e720"
 msgid ""
 "This +4 heavy steel shield grants its wielder a +4 morale bonus on Will "
 "saving throws."
-msgstr ""
+msgstr "이 +4 중형 철제 방패는 착용자의 의지 내성에 +4 사기 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/Artisan/ShieldofWill_m_DisplayNameText
 msgctxt "edb984bc-f42c-4943-92ef-bc2ac7a495b2"
 msgid "Ironclad Will"
-msgstr ""
+msgstr "철갑의 의지"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/Artisan/UnbreakableBastionShieldItem_m_DescriptionText
 msgctxt "45569de4-05dc-4a1d-9584-4d2cc48a777e"
 msgid ""
 "This +4 tower shield grants its wielder a +4 resistance bonus on all saving "
 "throws, and a +4 deflection bonus to AC."
-msgstr ""
+msgstr "이 +4 타워 실드는 착용자의 내성 굴림에 +4 저항 보너스를 주고, AC에 +4 굴절 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/Artisan/UnbreakableBastionShieldItem_m_DisplayNameText
 msgctxt "944da0c8-cc7d-494e-9412-a6ef4822b5ad"
 msgid "Unbreakable Bastion"
-msgstr ""
+msgstr "난공불락"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/Artisan/ElvenMaleWoodmaster/HeartOfThunderShieldItem_m_DescriptionText
 msgctxt "375ab461-7d57-4705-866e-e02e9667bac0"
@@ -8385,343 +8428,344 @@ msgid ""
 "and the ability to cast shout, greater spell three times per day as a 7th "
 "level wizard."
 msgstr ""
+"이 +5 소형 목제 방패는 착용자에게 마비 면역을 주고, 하루에 세 번 7 레벨 위저드의 상급 포효 주문을 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/Artisan/ElvenMaleWoodmaster/HeartOfThunderShieldItem_m_DisplayNameText
 msgctxt "12337c77-43b1-4f83-bf92-73cf1a99a434"
 msgid "Heart of Thunder"
-msgstr ""
+msgstr "천둥의 심장"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/Artisan/ElvenMaleWoodmaster/NorthLightShieldItem_m_DescriptionText
 msgctxt "eb2b34e2-4bae-4c94-aadd-bdbaf504ad49"
 msgid ""
 "This +1 light wooden shield grants its wielder cold resistance 10 and a +1 "
 "resistance bonus to Fortitude saving throws."
-msgstr ""
+msgstr "이 +1 목제 나무 방패는 착용자에게 냉기 저항 10과 인내 내성에 +1 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/Artisan/ElvenMaleWoodmaster/NorthLightShieldItem_m_DisplayNameText
 msgctxt "6594b743-ccf9-40a1-8694-8b815fd839be"
 msgid "Northern Lights"
-msgstr ""
+msgstr "북극광"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/Artisan/ElvenMaleWoodmaster/VenomousLimbShieldEnchant_m_Prefix
 msgctxt "7b9fc207-b224-4bfe-8a25-86d716344c91"
 msgid "Shadow"
-msgstr ""
+msgstr "그림자"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/Artisan/ElvenMaleWoodmaster/VenomousLimbShieldItem_m_DescriptionText
 msgctxt "cdd04798-cf10-4f0d-a76d-cd6d8124bfba"
 msgid ""
 "This +2 heavy wooden shield grants its wearer a +5 competence bonus to "
 "Perception checks, and acid resistance 15."
-msgstr ""
+msgstr "이 +2 중형 나무 방패는 착용자에게 지각 판정에 +5 능숙 보너스와 산성 저항 15를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/Artisan/ElvenMaleWoodmaster/VenomousLimbShieldItem_m_DisplayNameText
 msgctxt "1e3451e1-5cb6-48ff-b044-b550dfd77e40"
 msgid "Bulwark"
-msgstr ""
+msgstr "방벽"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/Artisan/ElvenMaleWoodmaster/WildGuardianShieldItem_m_DescriptionText
 msgctxt "aa8810ce-9fae-4492-b51b-5443f7cf1df1"
 msgid ""
 "This +3 heavy wooden shield grants its wearer a +3 resistance bonus to Will "
 "saving throws, and a +4 enhancement bonus to Constitution."
-msgstr ""
+msgstr "이 +3 중형 나무 방패는 착용자에게 의지 내성에 +3 저항 보너스와 건강에 +4 강화 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/Artisan/ElvenMaleWoodmaster/WildGuardianShieldItem_m_DisplayNameText
 msgctxt "eca2b3d1-99bf-45d4-8cfd-9df4c93e6be1"
 msgid "Wild Guardian"
-msgstr ""
+msgstr "야생의 수호자"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus1/BucklerItemPlus1_m_DisplayNameText
 msgctxt "f197cd3d-5f08-44f4-b280-ac6b4a47579b"
 msgid "Buckler +1"
-msgstr ""
+msgstr "버클러 +1"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus1/HeavyShieldItemPlus1_m_DisplayNameText
 msgctxt "7922a01c-4d34-4be9-911e-0227fc23c46c"
 msgid "Heavy Shield +1"
-msgstr ""
+msgstr "중형 방패 +1"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus1/LightShieldItemPlus1_m_DisplayNameText
 msgctxt "ec537f2e-6be0-4984-a6e0-269a27f14caf"
 msgid "Light Shield +1"
-msgstr ""
+msgstr "소형 방패 +1"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus1/TowerShieldItemPlus1_m_DisplayNameText
 msgctxt "616f3449-d502-4be5-8982-20cb13306827"
 msgid "Tower Shield +1"
-msgstr ""
+msgstr "타워 실드 +1"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus2/HeavyShieldItemLesserColdResistPlus1_m_DescriptionText
 msgctxt "d273a285-f2df-4eee-abe0-b36913b24ef1"
 msgid "This +1 heavy shield grants its wielder cold resistance 10."
-msgstr ""
+msgstr "이 +1 중형 방패는 착용자에게 냉기 저항 10을 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus2/HeavyShieldItemLesserColdResistPlus1_m_DisplayNameText
 msgctxt "e691a62b-0b21-4400-878a-d02c595753b1"
 msgid "Heavy Shield of Lesser Cold Resistance"
-msgstr ""
+msgstr "하급 냉기 저항의 중형 방패"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus2/LightShieldItemLesserNegativeResistPlus1_m_DescriptionText
 msgctxt "370707b6-72b4-4662-99bd-a25bf546a7b0"
 msgid "This +1 light shield grants its wielder negative energy resistance 10."
-msgstr ""
+msgstr "이 +1 소형 방패는 착용자에게 음에너지 저항 10을 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus2/LightShieldItemLesserNegativeResistPlus1_m_DisplayNameText
 msgctxt "b77fadf7-3cc3-477e-bb3d-4f1deff5c435"
 msgid "Light Shield of Lesser Negative Energy Resistance"
-msgstr ""
+msgstr "하급 음에너지 저항의 소형 방패"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus2/TowerShieldItemSavThrAgainstBlindPlus1_m_DescriptionText
 msgctxt "9083097b-3a24-4845-a264-643a811d294f"
 msgid ""
 "This tower shield grants its wielder a +3 bonus on saving throws against "
 "blindness."
-msgstr ""
+msgstr "이 타워 실드는 착용자에게 실명에 대한 내성 굴림에 +3 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus2/TowerShieldItemSavThrAgainstBlindPlus1_m_DisplayNameText
 msgctxt "a0123dea-6aba-4f0a-9685-e2a08529a951"
 msgid "Colossal Shade"
-msgstr ""
+msgstr "거신상의 그늘"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus2/Enhancement2/BucklerItemPlus2_m_DisplayNameText
 msgctxt "6088f71b-1376-4064-81d7-c24c94408309"
 msgid "Buckler +2"
-msgstr ""
+msgstr "버클러 +2"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus2/Enhancement2/HeavyShieldItemPlus2_m_DisplayNameText
 msgctxt "962b5608-4643-46f6-8eaf-c80d8cbdbf04"
 msgid "Heavy Shield +2"
-msgstr ""
+msgstr "중형 방패 +2"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus2/Enhancement2/LightShieldItemPlus2_m_DisplayNameText
 msgctxt "9b3737b2-0cbb-45a4-a864-286687d8b301"
 msgid "Light Shield +2"
-msgstr ""
+msgstr "소형 방패 +2"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus2/Enhancement2/TowerShieldItemPlus2_m_DisplayNameText
 msgctxt "0f3f54ed-357a-4142-aea4-a8cdbf68b93c"
 msgid "Tower Shield +2"
-msgstr ""
+msgstr "타워 실드 +2"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus3/BucklerItem4ACagainstVerminPlus2_m_DescriptionText
 msgctxt "4d68154f-a9d5-4e7c-81ff-7824a288c904"
 msgid ""
 "This +2 buckler grants its wielder a +4 morale bonus AC against the attacks "
 "of Vermins."
-msgstr ""
+msgstr "이 +2 버클러는 착용자에게 해충의 공격에 대한 AC에 +4 사기 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus3/BucklerItem4ACagainstVerminPlus2_m_DisplayNameText
 msgctxt "ef02be0e-f89f-48a0-b7ba-1852fd431efa"
 msgid "Ratcatcher's Buckler"
-msgstr ""
+msgstr "쥐잡이의 버클러"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus3/Enhancement3/BucklerItemPlus3_m_DisplayNameText
 msgctxt "7726bb56-5879-4069-9290-08edff6ab11a"
 msgid "Buckler +3"
-msgstr ""
+msgstr "버클러 +3"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus3/Enhancement3/HeavyShieldItemPlus3_m_DisplayNameText
 msgctxt "030f3a09-84c8-4822-8c61-097b942c8b02"
 msgid "Heavy Shield +3"
-msgstr ""
+msgstr "중형 방패 +3"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus3/Enhancement3/LightShieldItemPlus3_m_DisplayNameText
 msgctxt "4ebb42dc-daf9-49d7-baac-2f790285a04c"
 msgid "Light Shield +3"
-msgstr ""
+msgstr "소형 방패 +3"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus3/Enhancement3/TowerShieldItemPlus3_m_DisplayNameText
 msgctxt "feebebde-d930-4de1-9e3c-c6312e106c11"
 msgid "Tower Shield +3"
-msgstr ""
+msgstr "타워 실드 +3"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus4/HeavyShieldItemPlus2AcidFire_m_DescriptionText
 msgctxt "50a83708-988f-4362-99da-ed2fcc09b9fc"
 msgid ""
 "This +2 heavy shield grants its wielder acid resistance 15 and fire "
 "resistance 15."
-msgstr ""
+msgstr "이 +2 중형 방패는 착용자에게 화염 저항 15와 산성 저항 15를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus4/HeavyShieldItemPlus2AcidFire_m_DisplayNameText
 msgctxt "666afe5e-f53a-4398-a62e-e1a3b25db353"
 msgid "Heavy Shield of Elemental Protection"
-msgstr ""
+msgstr "원소 보호의 중형 방패"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus4/LightShieldArmorItemPlus3againstEvocation_m_DescriptionText
 msgctxt "72e334d4-7683-4cd6-8d06-dc29aabb786e"
 msgid ""
 "This +3 light shield grants its wielder a +4 bonus on saving throws against "
 "all spells of Evocation school."
-msgstr ""
+msgstr "이 +3 소형 방패는 착용자의 이보케이션 학파에 대한 내성 굴림에 +4 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus4/LightShieldArmorItemPlus3againstEvocation_m_DisplayNameText
 msgctxt "c368c0fb-b138-4351-9fd7-22691d6194a0"
 msgid "Shield of Evocation Resilience"
-msgstr ""
+msgstr "이보케이션 도탄의 방패"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus4/LightShieldItemPlus3againstEvocation_m_DescriptionText
 msgctxt "f9cce04d-f06d-4b8b-8db3-8763eaeb11b0"
 msgid ""
 "This +3 light shield grants its wielder a +4 bonus on saving throws against "
 "all spells of Evocation school."
-msgstr ""
+msgstr "이 +3 소형 방패는 착용자의 이보케이션 학파에 대한 내성 굴림에 +4 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus4/LightShieldItemPlus3againstEvocation_m_DisplayNameText
 msgctxt "cf4666df-bac2-4c1b-8e66-0ac7cf3b2f4b"
 msgid "Ray Blocker"
-msgstr ""
+msgstr "광선 차폐벽"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus4/TowerShieldItemPlus2ElectricityCold_m_DescriptionText
 msgctxt "a825e598-767a-4322-bd52-74ddfcf57608"
 msgid ""
 "This +2 tower shield grants its wielder electricity resistance 15 and cold "
 "resistance 15."
-msgstr ""
+msgstr "이 +2 타워 실드는 착용자에게 전기 및 냉기 저항 15를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus4/TowerShieldItemPlus2ElectricityCold_m_DisplayNameText
 msgctxt "82d1531b-877c-4cf8-8038-48690e93a85d"
 msgid "Tower Shield of Elemental Protection"
-msgstr ""
+msgstr "원소 보호의 타워 실드"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus4/Enhancement4/BucklerItemPlus4_m_DisplayNameText
 msgctxt "acb3ed4f-94a4-48c8-942e-394cfbe02e49"
 msgid "Buckler +4"
-msgstr ""
+msgstr "버클러 +4"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus4/Enhancement4/HeavyShieldItemPlus4_m_DisplayNameText
 msgctxt "5100fdd7-bdc9-4f60-ba19-e69e7354913a"
 msgid "Heavy Shield +4"
-msgstr ""
+msgstr "중형 방패 +4"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus4/Enhancement4/LightShieldItemPlus4_m_DisplayNameText
 msgctxt "cce0351a-c1be-4585-a3a9-c83c5475c551"
 msgid "Light Shield +4"
-msgstr ""
+msgstr "소형 방패 +4"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus4/Enhancement4/TowerShieldItemPlus4_m_DisplayNameText
 msgctxt "8504f112-3692-4490-b64a-261e00892ca1"
 msgid "Tower Shield +4"
-msgstr ""
+msgstr "타워 실드 +4"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus5/Enhancement5/BucklerItemPlus5_m_DisplayNameText
 msgctxt "286289a6-c7ef-4f74-851c-52e8085be324"
 msgid "Buckler +5"
-msgstr ""
+msgstr "버클러 +5"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus5/Enhancement5/HeavyShieldItemPlus5_m_DisplayNameText
 msgctxt "5bfc9ed0-7909-4da3-9d0c-616808a454f8"
 msgid "Heavy Shield +5"
-msgstr ""
+msgstr "중형 방패 +5"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus5/Enhancement5/LightShieldItemPlus5_m_DisplayNameText
 msgctxt "3d2ea942-bd2c-4c81-ac38-3a12b8618f79"
 msgid "Light Shield +5"
-msgstr ""
+msgstr "소형 방패 +5"
 
 #. Mechanics/Blueprints/Equipment/Shields/Items/TotalPlus5/Enhancement5/TowerShieldItemPlus5_m_DisplayNameText
 msgctxt "da0612b9-9336-4181-86ed-31120abcb670"
 msgid "Tower Shield +5"
-msgstr ""
+msgstr "타워 실드 +5"
 
 #. Mechanics/Blueprints/Equipment/Shields/Types/BucklerType_m_DefaultNameText
 msgctxt "c9230736-915f-4b43-b119-f7d0b76d24cc"
 msgid "Buckler"
-msgstr ""
+msgstr "버클러"
 
 #. Mechanics/Blueprints/Equipment/Shields/Types/BucklerType_m_TypeNameText
 msgctxt "8770ae3f-e86b-41f7-b514-53ede47b1f59"
 msgid "Buckler"
-msgstr ""
+msgstr "버클러"
 
 #. Mechanics/Blueprints/Equipment/Shields/Types/HeavyShieldType_m_DefaultNameText
 msgctxt "d03e9fab-5473-4584-9dec-289c813b826c"
 msgid "Heavy Shield"
-msgstr ""
+msgstr "중형 방패"
 
 #. Mechanics/Blueprints/Equipment/Shields/Types/HeavyShieldType_m_TypeNameText
 msgctxt "4e8d8834-7015-4d9f-a731-fcb3ba577702"
 msgid "Heavy Shield"
-msgstr ""
+msgstr "중형 방패"
 
 #. Mechanics/Blueprints/Equipment/Shields/Types/LightShieldType_m_DefaultNameText
 msgctxt "a3b96b2a-71da-46bb-a754-a17ed088371c"
 msgid "Light Shield"
-msgstr ""
+msgstr "소형 방패"
 
 #. Mechanics/Blueprints/Equipment/Shields/Types/LightShieldType_m_TypeNameText
 msgctxt "bfe9fc0e-8460-48bd-8ac7-e40f3e23f41b"
 msgid "Light Shield"
-msgstr ""
+msgstr "소형 방패"
 
 #. Mechanics/Blueprints/Equipment/Shields/Types/TowerShieldType_m_DefaultNameText
 msgctxt "00defa56-3597-4813-a344-a4cc58673298"
 msgid "Tower Shield"
-msgstr ""
+msgstr "타워 실드"
 
 #. Mechanics/Blueprints/Equipment/Shields/Types/TowerShieldType_m_TypeNameText
 msgctxt "43d9f147-0093-4f00-ab23-28dd8bbeb6ce"
 msgid "Tower Shield"
-msgstr ""
+msgstr "타워 실드"
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/AncestralDwarwenShieldEnchantment_m_Description
 msgctxt "16f746c9-6af7-4eba-a0a5-aaf3ddaed676"
 msgid "DR 2/-"
-msgstr ""
+msgstr "DR 2/-"
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/AncestralDwarwenShieldEnchantment_m_EnchantName
 msgctxt "71c15a31-b79c-4f7f-9bd2-2ee4d9bfbc31"
 msgid "Ancestral Dwarven Shield"
-msgstr ""
+msgstr "드워프 선조의 방패"
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/AncestralDwarwenShieldItem_m_DescriptionText
 msgctxt "013fb140-7338-4624-9c07-6bcc7be92ebb"
 msgid "This +2 heavy shield grants its wielder DR 2/-."
-msgstr ""
+msgstr "이 +2 중형 방패는 착용자에게 DR 2/-를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/AncestralDwarwenShieldItem_m_DisplayNameText
 msgctxt "7a9e30dc-1a26-45ba-ad6a-26afb7f9f730"
 msgid "Ancestral Dwarven Shield"
-msgstr ""
+msgstr "드워프 선조의 방패"
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/HeavyShieldItemPlus1LivingArmor_m_DisplayNameText
 msgctxt "73c33fa3-dcb7-4bb9-98a6-227b5b5714d0"
 msgid "Heavy Shield +1"
-msgstr ""
+msgstr "중형 방패 +1"
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/Chapter2/FlameguardArmorItem_m_DescriptionText
 msgctxt "b8bced33-ae41-4fb8-95bb-5fbaec623e6d"
 msgid ""
 "+1 tower shield grants +3 resistance bonus on Reflex saving throws and fire "
 "resistance 10."
-msgstr ""
+msgstr "반사 내성에 +3 저항 보너스와 화염 저항에 10을 주는 +1 타워 실드."
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/Chapter2/FlameguardArmorItem_m_DisplayNameText
 msgctxt "2103c81d-4808-417b-ba85-36db422e4a85"
 msgid "Flameguard"
-msgstr ""
+msgstr "방화벽"
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/Chapter2/FlameguardShieldItem_m_DescriptionText
 msgctxt "daf0f12b-6c6f-454d-a81d-ee12af4f82d1"
 msgid ""
 "This +1 tower shield grants its wielder a +3 resistance bonus on Reflex "
 "saving throws and fire resistance 10."
-msgstr ""
+msgstr "이 +1 타워 실드는 착용자에게 반사 내성 굴림에 +3 저항 보너스를 주고, 화염 저항 10을 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/Chapter2/FlameguardShieldItem_m_DisplayNameText
 msgctxt "35b1b2be-19ee-4398-b740-2c9afc72ff70"
 msgid "Flameguard"
-msgstr ""
+msgstr "방화벽"
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/Chapter2/FlameguardShieldItem_m_FlavorText
 msgctxt "2a4e56be-0b0b-4b29-9235-3f826a6435c4"
 msgid "There are flames engraved on metal."
-msgstr ""
+msgstr "방패에 불꽃이 새겨져 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/Chapter2/ProtectorOfUnjustArmorItem_m_DisplayNameText
 msgctxt "9a4a1058-6974-4696-94ff-a3c0885329a5"
 msgid "Protector of Unjust"
-msgstr ""
+msgstr "불의의 수호자"
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/Chapter2/ProtectorOfUnjustShieldItem_m_DescriptionText
 msgctxt "4c982f73-72f2-4c1a-b933-c05558a599c4"
@@ -8731,11 +8775,13 @@ msgid ""
 "attacks by good or lawful outsiders. Cannot be equipped by lawful or good "
 "characters"
 msgstr ""
+"이 +2 중형 방패는 착용자의 내성 굴림에 +2 저항 보너스를 줍니다. 이 AC와 내성 굴림 보너스는 선하거나 질서적인 외차원체의 공격, "
+"능력, 주문에는 2 만큼 더 증가합니다. 선하거나 질서적인 캐릭터가 착용할 수 없습니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/Chapter2/ProtectorOfUnjustShieldItem_m_DisplayNameText
 msgctxt "9a9d4b4a-d1bd-4413-b727-28b234535f8a"
 msgid "Protector of Unjust"
-msgstr ""
+msgstr "불의의 수호자"
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/Chapter2/ProtectorOfUnjustShieldItem_m_FlavorText
 msgctxt "6a72f056-dfae-4b18-9638-383f9465e050"
@@ -8746,55 +8792,58 @@ msgid ""
 "shield is troubling at least. Or, perhaps, it merely had not found the one "
 "truly worthy of wielding it."
 msgstr ""
+"이 방패는 도둑맞은 땅에서 악명이 자자합니다. 이 무법천지에서 이미 여러 도적 두목과 군벌들의 손을 거쳤습니다. 성능은 나무랄 데가 "
+"없음에도 그 주인들의 목이 싹 날아갔다는 사실은 그 악명에 대한 신빙성을 더해주고 있습니다. 아니면 단지 이 방패를 다룰 자격을 가진 "
+"자가 나타나지 않았을 뿐일지도 모릅니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/LateChapters/ArrowguardBucklerItem_m_DescriptionText
 msgctxt "abb1e6f2-ac70-4bff-a9cf-e08ae662d325"
 msgid ""
 "This +4 buckler grants its wielder an additional +3 bonus to AC against "
 "ranged attacks."
-msgstr ""
+msgstr "이 +4 버클러는 착용자에게 원거리 공격에 대한 AC에 +3 보너스를 추가로 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/LateChapters/ArrowguardBucklerItem_m_DisplayNameText
 msgctxt "d19cf80c-3920-4bd1-962f-32232ddf52f4"
 msgid "Arrowguard"
-msgstr ""
+msgstr "화살막이"
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/LateChapters/ArrowguardBucklerItem_m_FlavorText
 msgctxt "f5948988-3b38-4735-9a6d-a5a328b0aea1"
 msgid "This shield's surface is covered with dents."
-msgstr ""
+msgstr "이 방패의 겉면은 찌그러진 자국으로 가득합니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/LateChapters/BladeguardBucklerItem_m_DescriptionText
 msgctxt "588dc2fb-072c-432d-a282-b108ad35fa7e"
 msgid ""
 "This +3 buckler grants its wielder an additional +3 bonus to AC against "
 "melee attacks."
-msgstr ""
+msgstr "이 +3 버클러는 착용자에게 근접 공격에 대한 AC에 +3 보너스를 추가로 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/LateChapters/BladeguardBucklerItem_m_DisplayNameText
 msgctxt "fbcc7800-3f28-43e5-aca5-4107e0255b60"
 msgid "Bladeguard"
-msgstr ""
+msgstr "칼날막이"
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/LateChapters/BladeguardBucklerItem_m_FlavorText
 msgctxt "e01816d9-4054-485e-bc2e-336d8b9f0731"
 msgid "This shield's edges are covered with cuts."
-msgstr ""
+msgstr "이 방패의 테두리는 긁힌 자국으로 가득합니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/LateChapters/BlazingCavalierShieldItem_m_DescriptionText
 msgctxt "eab805f1-0276-4581-a2cf-cdd638fb47c6"
 msgid "This +3 heavy shield increases the wielder's speed by +10 feet."
-msgstr ""
+msgstr "이 +3 중형 방패는 착용자의 이동속도를 +10 피트 더해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/LateChapters/BlazingCavalierShieldItem_m_DisplayNameText
 msgctxt "632c40a8-67b9-4322-99b1-f97080591dc5"
 msgid "Child of the Wind"
-msgstr ""
+msgstr "바람의 아이"
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/LateChapters/BlazingCavalierShieldItem_m_FlavorText
 msgctxt "9c9d7c2f-d51e-475c-9200-9799057c4780"
 msgid "This shield is adorned with a depiction of a hippogryph."
-msgstr "이 실드에는 정교한 한 마리의 히포그리프를 묘사한 것이 장식되어 있습니다."
+msgstr "이 방패는 정교하게 묘사한 히포그리프로 장식되어 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/LateChapters/DefendersBulwarkShieldItem_m_DescriptionText
 msgctxt "82f698a6-d65f-4fee-9f68-0468c18becc1"
@@ -8804,17 +8853,17 @@ msgstr "이 +3 타워 실드는 착용자에게 DR 2/— 를 제공합니다."
 #. Mechanics/Blueprints/Equipment/Shields/Unique/LateChapters/DefendersBulwarkShieldItem_m_DisplayNameText
 msgctxt "c2d0ac8b-6ffc-4ac5-bf36-10d29e8c3c3f"
 msgid "Defender's Bulwark"
-msgstr "수호자의 보루"
+msgstr "수호자의 방벽"
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/LateChapters/DefendersBulwarkShieldItem_m_FlavorText
 msgctxt "7fa56c4b-3276-4c25-83c4-d2ef6df52df9"
 msgid "This shield is adorned with a depiction of an unassailable fortress."
-msgstr "이 실드에는 한 난공불락의 요새를 묘사한 것이 장식되어 있습니다."
+msgstr "이 방패는 정교하게 묘사한 난공불락의 요새로 장식되어 있습니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/LateChapters/ForewarningShieldItem_m_DescriptionText
 msgctxt "886f2388-aa75-41d5-bde3-6a38d8603faa"
 msgid "This +3 light shield grants its wielder immunity to critical hits."
-msgstr "이 +3 소형 방패는 착용자에게 크리티컬 히트로부터 면역을 제공합니다."
+msgstr "이 +3 소형 방패는 착용자에게 치명타 면역을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/LateChapters/ForewarningShieldItem_m_DisplayNameText
 msgctxt "ec41d3f1-c9fd-4b49-88c5-4ee7b27ad5ff"
@@ -8826,7 +8875,7 @@ msgctxt "0332d6d7-213d-4092-9910-e76525030253"
 msgid ""
 "Whoever holds this shield has a feeling that it whispers barely audible "
 "warnings."
-msgstr "누구든 이 실드를 잡는 사람은 간신히 들리는 속삭임이 경고하는 느낌을 받습니다."
+msgstr "누구든 이 방패를 들면 방패가 들릴 듯 말 듯한 경고를 속삭이는 듯한 느낌을 받습니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/LateChapters/GrimBarrierShieldItem_m_DescriptionText
 msgctxt "725b6fea-b10a-4f8f-894e-bd8d78161900"
@@ -8836,8 +8885,8 @@ msgid ""
 "of this effect stack. Bleeding stops when the battle ends, or when the "
 "target is cured by any effect that restores HP."
 msgstr ""
-"이 +5 중형 방패는 무기로서 사용되어질 수 있습니다. 이것으로 성공적으로 가격하면 가격된 대상은 턴 당 1d6의 출혈 피해를 입습니다."
-" 이 효과는 누적되어 적용됩니다. 출혈은 전투가 끝나거나 대상이 HP를 회복하는 어떠한 효과를 받아 치료되면 종료됩니다."
+"이 +5 중형 방패는 무기로 쓸 수 있습니다. 명중시 대상에게 턴 당 1d6의 출혈 피해를 입힙니다. 이 효과는 누적됩니다. 전투가 "
+"끝나거나 HP 회복 효과로 치료하면 출혈이 멎습니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/LateChapters/WallsOfTheSanctuaryShieldItem_DescriptionText_String
 msgctxt "f0c93796-94cf-426e-bab4-aacaf4883b95"
@@ -8847,9 +8896,8 @@ msgid ""
 "invisibility spell effect. This power can be used for 20 rounds per day. "
 "These rounds do not need to be consecutive."
 msgstr ""
-"이 +5 타워 실드는 방어도(AC)에 +6 굴절 보너스를 가지며 착용자로 하여금 착용자를 제외한 모든 일행 맴버를 그레이터 인비지빌리티 "
-"주문(the greater invisibility spell)의 효과에 의한 것과 같은 투명화 상태로 만들 수 있게 합니다. 이 파워는 "
-"하루에 20라운드를 사용할 수 있습니다. 해당 라운드는 반드시 연속적이지 않아도 됩니다."
+"이 +5 타워 실드는 AC에 +6 굴절 보너스를 주고, 착용자를 제외한 모든 일행에게 상급 투명화 주문 효과를 적용할 수 있게 해줍니다. "
+"이 힘은 하루에 20 라운드 동안 쓸 수 있습니다. 이 라운드는 계속 이어서 사용하지 않아도 됩니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/LateChapters/WallsOfTheSanctuaryShieldItem_DisplayNameText_String
 msgctxt "7534881f-1a7d-41fc-8b63-c8eccc0772c4"
@@ -8863,20 +8911,20 @@ msgid ""
 "fire, acid, cold and electricity, and a +2 bonus to AC against Huge or "
 "larger creatures."
 msgstr ""
-"이 +5 타워 실드는 착용자에게 화염, 산성, 냉기 및 전격으로부터의 내성 굴림에 +4 보너스와, 거대형 또는 대형 크리처에 대하여 "
-"+2의 방어도(AC) 보너스를 제공합니다."
+"이 +5 타워 실드는 착용자에게 화염, 산성, 냉기 및 전기에 대한 내성 굴림에 +4 보너스, 거대 또는 대형 크리처에 대한 AC에 +2 "
+"보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/LateChapters/WyrmwallShieldItem_m_DisplayNameText
 msgctxt "2c23ffe7-2781-4a99-b292-4f95f645d125"
 msgid "Wyrmwall"
-msgstr ""
+msgstr "용벽"
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/LateChapters/WyrmwallShieldItem_m_FlavorText
 msgctxt "d2ff7e9a-3283-42c5-a2b0-15d759ce042b"
 msgid ""
 "This shield's surface is covered with an elaborate ornament, resembilng acid"
 " burns."
-msgstr "이 실드의 표면은 산성으로 인한 화상 같은 정교한 장식으로 뒤덮여 있습니다."
+msgstr "이 방패의 겉면은 정교한 장식으로 덮여있고, 산에 그슬린 듯한 흔적이 보입니다."
 
 #. Mechanics/Blueprints/Equipment/Slotless/BagOfHoldingSmall_DescriptionText_String
 msgctxt "2730fd96-03d0-4474-9c20-44ea7ff83e5e"
@@ -8884,15 +8932,13 @@ msgid ""
 "The bag of holding opens into a nondimensional space: its inside is way larger than its outside dimensions.\n"
 "Regardless of what is put into the bag, its weight doesn't change. This allows party to carry additional 100 lbs. of weight without suffering any negative consequences."
 msgstr ""
-"백 오브 홀딩은 비차원 공간으로 열립니다. 그것의 안쪽은 바깥쪽 차원보다 훨씬 넓습니다.\n"
-"어떤 것을 그곳에 넣더라도 그것의 무게는 변하지 않습니다. 이것은 일행이 100lbs 의 무게를 어떠한 부작용도 없이 추가로 짊어질 수 있게 합니다."
+"소유의 가방의 내부는 비차원 공간으로 통합니다. 그 내부는 바깥에서 보이는 것 보다 훨씬 큽니다.\n"
+"가방 안에 무엇을 집어 넣든 가방의 무게는 변하지 않습니다. 어떤 부정적인 효과도 없이 일행의 최대 하중을 100 파운드 늘려줍니다."
 
 #. Mechanics/Blueprints/Equipment/Slotless/BagOfHoldingSmall_DisplayNameText_String
-#, fuzzy
-#| msgid "Small Bag of Holding"
 msgctxt "3cce21b1-4558-4683-86d6-b82416c6f136"
 msgid "Bag of Holding, Small"
-msgstr "소형 백 오브 홀딩"
+msgstr "소형 소유의 가방"
 
 #. Mechanics/Blueprints/Equipment/Slotless/BagOfHolding_DescriptionText_String
 msgctxt "400b54b8-2176-45c8-a39f-aebc8f9bd315"
@@ -8900,13 +8946,13 @@ msgid ""
 "The bag of holding opens into a nondimensional space: its inside is way larger than its outside dimensions.\n"
 "Regardless of what is put into the bag, its weight doesn't change. This allows party to carry additional 200 lbs. of weight without suffering any negative consequences."
 msgstr ""
-"백 오브 홀딩은 비차원 공간으로 열립니다. 그것의 안쪽은 바깥쪽 차원보다 훨씬 넓습니다.\n"
-"어떤 것을 그곳에 넣더라도 그것의 무게는 변하지 않습니다. 이것은 일행이 200lbs 의 무게를 어떠한 부작용도 없이 추가로 짊어질 수 있게 합니다."
+"소유의 가방의 내부는 비차원 공간으로 통합니다. 그 내부는 바깥에서 보이는 것 보다 훨씬 큽니다.\n"
+"가방 안에 무엇을 집어 넣든 가방의 무게는 변하지 않습니다. 어떤 부정적인 효과도 없이 일행의 최대 하중을 200 파운드 늘려줍니다."
 
 #. Mechanics/Blueprints/Equipment/Slotless/BagOfHolding_DisplayNameText_String
 msgctxt "e63755a2-b628-4582-bc06-e6735ea99674"
 msgid "Bag of Holding"
-msgstr "백 오브 홀딩"
+msgstr "소유의 가방"
 
 #. Mechanics/Blueprints/Equipment/Slotless/BagOfHolding_FlavorText_String
 msgctxt "17692e10-0909-4466-9bfa-3e3b3215e66c"
@@ -8924,11 +8970,13 @@ msgid ""
 "The bag of holding opens into a nondimensional space: its inside is way larger than its outside dimensions.\n"
 "Regardless of what is put into the bag, its weight doesn't change. This allows party to carry additional 300 lbs. of weight without suffering any negative consequences."
 msgstr ""
+"소유의 가방의 내부는 비차원 공간으로 통합니다. 그 내부는 바깥에서 보이는 것 보다 훨씬 큽니다.\n"
+"가방 안에 무엇을 집어 넣든 가방의 무게는 변하지 않습니다. 어떤 부정적인 효과도 없이 일행의 최대 하중을 300 파운드 늘려줍니다."
 
 #. Mechanics/Blueprints/Equipment/Slotless/LargeBagOfHolding_DisplayNameText_String
 msgctxt "3bd7e818-c6da-41af-97ec-51de953cb8e8"
 msgid "Bag of Holding, Large"
-msgstr ""
+msgstr "대형 소유의 가방"
 
 #. Mechanics/Blueprints/Equipment/Slotless/HandOfMagusDan/HandOfMagusDanItem_DescriptionText_String
 msgctxt "aa1c760a-6d85-4c80-b926-389f5d7a6056"
@@ -8937,11 +8985,12 @@ msgid ""
 "to cast a spell, the hand has a 25% chance to produce a perfect copy of the "
 "expended scroll."
 msgstr ""
+"착용자가 두루마리를 사용하여 주문책에 옮겨 적거나 주문을 시전할 때, 이 손은 25% 확률로 소모한 두루마리의 완벽한 복사본을 생성합니다."
 
 #. Mechanics/Blueprints/Equipment/Slotless/HandOfMagusDan/HandOfMagusDanItem_DisplayNameText_String
 msgctxt "a2845c4d-8d86-495a-94cc-76ce55093a9f"
 msgid "The Hand of Magus Dann"
-msgstr ""
+msgstr "메이거스 댄의 손"
 
 #. Mechanics/Blueprints/Equipment/Slotless/HandOfMagusDan/HandOfMagusDanItem_m_FlavorText
 msgctxt "12c2f8fe-202d-4e38-a1cc-e48f8dae93ec"
@@ -8949,23 +8998,24 @@ msgid ""
 "This mummified hand continually scribes the words spoken by its owner in "
 "unknown languages, using minuscule and almost illegible cursive."
 msgstr ""
+"이 미라화 된 손은 소유자가 하는 말을 알 수 없는 언어로 옮겨, 아주 미세하고 거의 알아볼 수 없는 필기체로 계속 써내려갑니다."
 
 #. Mechanics/Blueprints/Equipment/Slotless/HandOfMagusDan/HandOfMagusDanItem_m_NonIdentifiedNameText
 msgctxt "fd50b75a-ba44-40f8-8dbe-40e653edfdef"
 msgid "Mummified Hand"
-msgstr ""
+msgstr "미라화된 손"
 
 #. Mechanics/Blueprints/Equipment/SpecialEditions/ArcaneSignet_m_DescriptionText
 msgctxt "03de6f8e-cbb4-485f-ba89-9d399b3bb917"
 msgid ""
 "This signet grants its wearer the ability to cast magic missile spell as a "
 "3rd level wizard three times a day."
-msgstr ""
+msgstr "이 인장은 착용자에게 하루에 세 번 3 레벨 위저드의 마력유도탄 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/SpecialEditions/ArcaneSignet_m_DisplayNameText
 msgctxt "65e538af-f806-467d-80ae-e25fc2ab372b"
 msgid "Arcane Signet"
-msgstr ""
+msgstr "비전 인장"
 
 #. Mechanics/Blueprints/Equipment/SpecialEditions/ArcaneSignet_m_FlavorText
 msgctxt "f5c3177c-16c1-47fd-892c-cae9eded8899"
@@ -8973,36 +9023,36 @@ msgid ""
 "An antique ring, covered in cryptic runes. Creates by the Thassilonian "
 "wizards in times immemorial, it has found its way through the ages into your"
 " hands."
-msgstr ""
+msgstr "암호화된 룬으로 덮여있는 골동품 반지. 태곳적에 타실론 마법사가 만든 이 반지는 오랜 세월을 거쳐 당신의 손에 들어왔습니다."
 
 #. Mechanics/Blueprints/Equipment/SpecialEditions/BlessedSignet_m_DescriptionText
 msgctxt "f561ec8b-5237-4b8c-acd4-8086f9a5e87e"
 msgid ""
 "This signet grants its wearer the ability to cast bless spell as a 1st level"
 " cleric three times a day."
-msgstr ""
+msgstr "이 인장은 착용자에게 하루에 세 번 1 레벨 클레릭의 축복 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/SpecialEditions/BlessedSignet_m_DisplayNameText
 msgctxt "ed54efad-2064-45ed-afce-b4640446a03b"
 msgid "Blessed Signet"
-msgstr ""
+msgstr "축복받은 인장"
 
 #. Mechanics/Blueprints/Equipment/SpecialEditions/BlessedSignet_m_FlavorText
 msgctxt "a7ce9386-a892-49f5-a3bf-79d81d96ac8e"
 msgid ""
 "A light, warm ring, surrounded by a subtle glow. Its wearer enjoys the favor"
 " of the divine forces."
-msgstr ""
+msgstr "희미한 빛에 둘러싸인 가볍고 따뜻한 반지. 착용자에게 신성한 힘의 도움을 베풉니다."
 
 #. Mechanics/Blueprints/Equipment/SpecialEditions/ExpertsHatItem_m_DescriptionText
 msgctxt "4081d857-f36c-4dc0-9102-369d96a8b272"
 msgid "This hat grants its wearer a +1 competence bonus on all skill checks."
-msgstr ""
+msgstr "이 모자는 착용자의 모든 기술 판정에 +1 능숙 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/SpecialEditions/ExpertsHatItem_m_DisplayNameText
 msgctxt "d25734b8-acf1-4f8f-b658-50c992919427"
 msgid "Expert's Hat"
-msgstr ""
+msgstr "전문가의 모자"
 
 #. Mechanics/Blueprints/Equipment/SpecialEditions/ExpertsHatItem_m_FlavorText
 msgctxt "ee99ed01-286c-4c05-8958-61c1f959a345"
@@ -9010,18 +9060,20 @@ msgid ""
 "This stylish hat will help you look like a true expert and convince anyone —"
 " even yourself! — that you know your way around everything."
 msgstr ""
+"이 멋진 모자는 당신을 진정한 전문가처럼 보이게 만들어 줍니다. 모두에게, 심지어 자기 자신에게도 당신이 모든 것을 알고 있다는 확신을 "
+"심어줍니다."
 
 #. Mechanics/Blueprints/Equipment/SpecialEditions/ExplorersBeltItem_m_DescriptionText
 msgctxt "1c59c9ca-9bce-481a-80b6-bf37d500f0d2"
 msgid ""
 "This belt grants its wearer a +2 enhancement bonus to Constitution and a +2 "
 "resistance bonus on saving throws against diseases, fatigue and exhaustion."
-msgstr ""
+msgstr "이 허러띠는 착용자에게 건강에 +2 강화 보너스 및 질병, 피로, 탈진에 대한 내성 굴림에 +2 저항 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/SpecialEditions/ExplorersBeltItem_m_DisplayNameText
 msgctxt "77e8e28d-1863-434d-b3a9-5d0edeb6d4fb"
 msgid "Explorer's Belt"
-msgstr ""
+msgstr "탐험가의 허리띠"
 
 #. Mechanics/Blueprints/Equipment/SpecialEditions/ExplorersBeltItem_m_FlavorText
 msgctxt "53ac11d5-3cde-4278-bea1-a1d3f02e7e03"
@@ -9030,18 +9082,20 @@ msgid ""
 "a journey through the uncharted lands... But it can't help those who lack "
 "curiosity and wanderlust!"
 msgstr ""
+"이 허리띠는 미지의 땅을 지나는 여정에 도사리고 있는 고난 모두를 용감하게 견뎌낼 인내심을 줍니다. 하지만 부족한 호기심과 방랑벽을 채워 "
+"주지는 않습니다!"
 
 #. Mechanics/Blueprints/Equipment/SpecialEditions/KnightsHelmetItem_m_DescriptionText
 msgctxt "5e447764-d966-476e-8386-6c91a1197103"
 msgid ""
 "This helmet grants its wearer a +1 morale bonus on attack rolls and a +4 "
 "resistance bonus on saving throws against fear."
-msgstr "이 헬멧은 착용자에게 명중 굴림에 +1 사기 보너스와 공포에 대한 내성 굴림에 대해 +4 저항 보너스를 줍니다."
+msgstr "이 투구는 착용자의 명중 굴림에 +1 사기 보너스와 공포에 대한 내성 굴림에 +4 저항 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/SpecialEditions/KnightsHelmetItem_m_DisplayNameText
 msgctxt "b7d3962c-013b-4b07-93aa-3949ca4df5f8"
 msgid "Knight's Helmet"
-msgstr "기사의 헬멧"
+msgstr "기사의 투구"
 
 #. Mechanics/Blueprints/Equipment/SpecialEditions/KnightsHelmetItem_m_FlavorText
 msgctxt "1cf17c53-4408-4c50-ac8f-c5b52ad4de14"
@@ -9053,19 +9107,14 @@ msgstr ""
 "알게 될 것이다.\""
 
 #. Mechanics/Blueprints/Equipment/SpecialEditions/MesmerizingNecklaceItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This amulet increases by 1 the DC of all Enchantment school spells casted by"
-#| " the wearer. It also grants the ability to cast color spray (DC 13) spell "
-#| "three times a day."
 msgctxt "655b8d88-5d85-4f46-9f8d-b3dbbac38a5b"
 msgid ""
 "This amulet increases by 1 the DC of all Enchantment school spells cast by "
 "the wearer. It also grants the ability to cast color spray (DC 13) spell "
 "three times a day as a 1st level wizard."
 msgstr ""
-"이 부적은 착용자가 시전하는 모든 인챈트먼트 학파 주문에 대한 DC를 +1씩 증가시킵니다. 또한 하루에 세 번 색채 분사( DC13) "
-"주문을 시전할 수 있는 능력을 제공합니다."
+"이 부적은 착용자가 시전하는 모든 인챈트먼트 학파 주문의 DC를 +1씩 증가시킵니다. 또한 하루에 세 번 1레벨 위저드의 색채 분사( "
+"DC13) 주문을 시전할 수 있는 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/SpecialEditions/MesmerizingNecklaceItem_m_DisplayNameText
 msgctxt "b5728202-1559-41a6-881c-660e36b76ff0"
@@ -9077,19 +9126,19 @@ msgctxt "b300cd71-7d84-41a3-a9e0-5e45c91bd672"
 msgid ""
 "As you look into the depths of the glittering gem on this amulet, your "
 "eyelids start feeling heavy."
-msgstr "이 목걸이에 장식된 빛나는 보석의 깊이를 들여다보고 있으면 눈꺼풀은 무거워지기 시작합니다."
+msgstr "이 목걸이에 장식된 빛나는 보석의 안쪽을 들여다보고 있으면 눈꺼풀이 무거워지기 시작합니다."
 
 #. Mechanics/Blueprints/Equipment/SpecialEditions/RulersMantleItem_m_DescriptionText
 msgctxt "bc9906cb-f041-42bc-a99d-1a4c00a396d1"
 msgid ""
 "This mantle grants its wearer a +1 resistance bonus on all saving throws, "
 "and a +3 resistance bonus on saving throws against poison."
-msgstr "이 맨틀은 착용자에게 모든 내성 굴림에 +1 내성 보너스를 제공하며 독에 대한 내성 굴림에 대해 +3 저항 보너스를 줍니다."
+msgstr "이 망토는 착용자의 모든 내성 굴림에 +1 저항 보너스를 제공하며 독에 대한 내성 굴림에 +3 저항 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/SpecialEditions/RulersMantleItem_m_DisplayNameText
 msgctxt "41b5c551-1f6b-4330-8b18-2e098af8e552"
 msgid "Ruler's Mantle"
-msgstr "통치자의 맨틀"
+msgstr "통치자의 망토"
 
 #. Mechanics/Blueprints/Equipment/SpecialEditions/RulersMantleItem_m_FlavorText
 msgctxt "38f92cea-3026-4a21-a27f-b348443ff923"
@@ -9099,6 +9148,8 @@ msgid ""
 "will protect you from passing your title to your heirs earlier than you "
 "expected."
 msgstr ""
+"통치자는 현명해야 하지만 무엇보다도 건강해야 합니다. 특히 보좌를 오랫 동안 지키고자 한다면 더욱 그렇습니다. 이 망토는 예상보다 일찍 "
+"후계자에게 직함을 물려주지 않도록 해줄 겁니다."
 
 #. Mechanics/Blueprints/Items/Areas/TrollLairNote1_DescriptionText_String
 msgctxt "19572eeb-7f41-4b23-991b-9fac2021975f"
@@ -9109,39 +9160,46 @@ msgid ""
 "I'll be praying to Desna day and night with one wish: to see you again.\"\n"
 "The poor condition of the paper suggests that the letter was written centuries ago."
 msgstr ""
+"\"내 사랑!\n"
+"다섯 왕 산맥으로 가는 짐마차는 내일 떠날 거예요. 저는 애들을 데리고 갈께요. 당신 소식을 들은지 며칠 됐네요. 사냥 잘 하다 오시고, "
+"우리를 만나려거든 길에서 짐마차를 따라 잡으시거나 산맥의 랑게북크 거주구역에서 보기로 해요.\n"
+"요즘의 '방패의 길'은 짐마차를 타고 가면 안전하지만, 혼자 가다 보면 위험할 수 있어요. 정찰대가 이 지역 여기 저기서 트롤을 "
+"발견했거든요. 제가 제일 좋아하는 활을 놓고 갈게요. 이게 그 잔혹한 거인들에게서 당신을 지켜줄 거예요.\n"
+"당신을 다시 만나게 해달라고 데즈나께 밤낮으로 기도할게요.\"\n"
+"종이의 상태로 보아 이 편지는 수 세기 전에 쓰여진 것 같습니다."
 
 #. Mechanics/Blueprints/Items/Areas/TrollLairNote1_m_DisplayNameText
 msgctxt "dcca5c0f-b186-4207-9ca4-c213194a8615"
 msgid "Old Dwarven Letter"
-msgstr ""
+msgstr "오래된 드워프 편지"
 
 #. Mechanics/Blueprints/Items/Areas/C0_Prologue/GuardKey_DescriptionText_String
 msgctxt "d015547f-188d-464c-8646-e392e7c59a6c"
 msgid "A small key that opens the northern wing of the mansion."
-msgstr ""
+msgstr "저택의 북쪽 구역으로 가는 문을 여는 작은 열쇠."
 
 #. Mechanics/Blueprints/Items/Areas/C0_Prologue/GuardKey_m_DisplayNameText
 msgctxt "d2e103a0-2bcb-4598-a9f9-cc06099c505a"
 msgid "Watchkeeper's Key"
-msgstr ""
+msgstr "파수꾼의 열쇠"
 
 #. Mechanics/Blueprints/Items/Areas/C11/OldSycamoreOutdoor/GoldenToad_m_DisplayNameText
 msgctxt "ab9750bb-75f1-4e60-a7a4-d76fd5c5c4ce"
 msgid "Golden Toad"
-msgstr ""
+msgstr "황금 두꺼비"
 
 #. Mechanics/Blueprints/Items/Areas/C11/OldSycamoreOutdoor/GoldenToad_m_FlavorText
 msgctxt "34226797-b427-48d5-b526-f5c679a9e31a"
 msgid ""
 "A toad statuette made of solid gold. It looks more like an idol than a "
 "decorative figurine."
-msgstr ""
+msgstr "순금으로 만든 두꺼비 조각상입니다. 장식용 조형물이라기보다는 우상처럼 보입니다."
 
 #. Mechanics/Blueprints/Items/Areas/C11/OlegsTradingPost/LockOfHair_m_DescriptionText
 msgctxt "2ee897a2-d677-4582-8060-3f411f509f89"
 msgid ""
 "This necklace gives its wearer +2 dodge bonus to AC against ranged attacks."
-msgstr ""
+msgstr "이 목걸이는 착용자의 원거리 공격에 대한 AC에 +2 피하기 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Items/Areas/C11/StagLordFort/ToyDragon_FlavorText_String
 msgctxt "e91c72e9-472d-49e3-8c09-724fe6ea36ae"
@@ -9149,326 +9207,327 @@ msgid ""
 "A simple wooden toy, one of those that you often see in the hands of peasant"
 " children. It's polished to a sheen due to the frequent use."
 msgstr ""
+"나무로 만든 단순한 장난감입니다. 농민 아이들에게서 흔히 볼 수 있는 장난감 중 하나입니다. 많이 가지고 놀았는지 바래서 광택이 납니다."
 
 #. Mechanics/Blueprints/Items/Areas/C11/StagLordFort/ToyDragon_m_DisplayNameText
 msgctxt "8534922c-d65d-47c7-b472-55af6480b5f5"
 msgid "Toy Dragon"
-msgstr ""
+msgstr "장난감 드래곤"
 
 #. Mechanics/Blueprints/Items/Areas/C11/StagLordFort/ToyKnight_m_DisplayNameText
 msgctxt "087d3632-f6cd-4092-bbc7-2845fd3b5867"
 msgid "Toy Knight"
-msgstr ""
+msgstr "장난감 기사"
 
 #. Mechanics/Blueprints/Items/Areas/C11/TuskguttersLair/TuskguttersHead_m_DisplayNameText
 msgctxt "9320ec57-6997-46ac-aed1-eaece41ecd1c"
 msgid "Tuskgutter's Head"
-msgstr ""
+msgstr "터스크거터의 머리"
 
 #. Mechanics/Blueprints/Items/Areas/C11/TuskguttersLair/TuskguttersHead_m_FlavorText
 msgctxt "0652a353-413e-445f-8442-0ca34b3d5537"
 msgid "The proof of your victory over the forest monster."
-msgstr ""
+msgstr "숲의 괴물에게서 거둔 승리의 증표."
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/BigKamelandsOutdoor/Berry_m_DisplayNameText
 msgctxt "5f6f8f06-fa34-4f02-bc30-0f2347ba20c1"
 msgid "Black Berries"
-msgstr ""
+msgstr "블랙 베리"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/BigKamelandsOutdoor/Berry_m_FlavorText
 msgctxt "9584fea8-5d46-4286-afee-0f4cc4313512"
 msgid "A sick old man asked you to bring him these medical berries."
-msgstr ""
+msgstr "어떤 병든 노인이 당신에게 이 약용 열매를 가져다 달라고 부탁했습니다."
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/BigKamelandsOutdoor/Necklace_m_DisplayNameText
 msgctxt "01a1ddd4-df8d-484c-ac64-4b65b940c460"
 msgid "Pearl Necklace"
-msgstr ""
+msgstr "진주 목걸이"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/BigKamelandsOutdoor/Necklace_m_FlavorText
 msgctxt "39666ce6-1d59-42ce-ab95-06cc890334c3"
 msgid ""
 "A worn adornment made from high-grade pearls. A half-erased monogram can be "
 "seen on the clasp."
-msgstr ""
+msgstr "고급 진주로 만든 낡은 장신구입니다. 걸쇠에 반쯤 지워진 모노그램이 보입니다."
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/BigNarlmarches/BlackRattlecap_m_DisplayNameText
 msgctxt "1176af32-a23c-4ee4-8adf-d6c4bbf47f4e"
 msgid "Black Rattlecap"
-msgstr ""
+msgstr "검은딸랑모자버섯"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/BigNarlmarches/Gloomberry_m_DisplayNameText
 msgctxt "2f380338-9f11-4d81-a94e-e07ca8555309"
 msgid "Gloomberry"
-msgstr ""
+msgstr "글룸베리"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/BigNarlmarches/Mageshroom_m_DisplayNameText
 msgctxt "1c57065e-cea8-4924-9bbc-69636b176af0"
 msgid "Mudleaf"
-msgstr ""
+msgstr "진흙잎"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/BigNarlmarches/OldCoinWithDriadName_m_DisplayNameText_3
 msgctxt "596c6109-b8fd-45c7-8330-cd6e690e1d83"
 msgid "Coin with Callitropsia's Name"
-msgstr ""
+msgstr "칼리트롭시아의 이름이 새겨진 동전"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/BigNarlmarches/OldCoinWithPriestName_m_DisplayNameText
 msgctxt "7fca1b5f-b14a-438c-8e01-f9ec2d27997a"
 msgid "Coin with Wilber's Name"
-msgstr ""
+msgstr "윌버의 이름이 새겨진 동전"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/BigNarlmarches/ScytheTreeRing_m_DisplayNameText
 msgctxt "d7431892-ed83-47f6-8f8b-8748d160e45f"
 msgid "Old Wedding Ring"
-msgstr ""
+msgstr "낡은 결혼 반지"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/BigNarlmarches/Swampherb_m_DisplayNameText
 msgctxt "76f05f13-35a7-476e-ba21-732c954b3f31"
 msgid "Dizzyhead"
-msgstr ""
+msgstr "현기증"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/DelicateSituation/FeatherTokens_m_DisplayNameText
 msgctxt "d733ae86-98eb-493b-bd8a-2441896d36d7"
 msgid "A Pouch of Feather Tokens"
-msgstr ""
+msgstr "깃털 토큰 주머니"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/GoblinVillage/GoblinTraderKey_m_DisplayNameText
 msgctxt "556e26e6-34f2-4956-95f0-d09151fe08e3"
 msgid "Dirty Key"
-msgstr ""
+msgstr "더러운 열쇠"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/GoblinVillage/GoblinTraderKey_m_FlavorText
 msgctxt "2227f25c-a02d-47f3-8c5b-ab3339aef8f7"
 msgid "A small rusty key, covered in mud."
-msgstr ""
+msgstr "진흙이 묻은 작고 더러운 열쇠."
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/KamelandsSafari/HydraHead_DescriptionText_String_1
 msgctxt "0dad1114-a268-4a93-b64a-4cee610718d5"
 msgid "A hunting trophy from Kamelands."
-msgstr ""
+msgstr "케임랜드의 사냥 트로피."
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/KamelandsSafari/HydraHead_m_DisplayNameText
 msgctxt "faddeba5-a646-4c19-9d58-982d4f7163b5"
 msgid "Hydra's Head"
-msgstr ""
+msgstr "히드라의 머리"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/KamelandsSafari/OwlbearHead_m_DisplayNameText
 msgctxt "9b03644f-1a7a-4e98-aed7-e59063d36532"
 msgid "Owlbear's Head"
-msgstr ""
+msgstr "아울베어의 머리"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/KamelandsSafari/WyvernHead_m_DisplayNameText
 msgctxt "29897419-6483-463d-9147-f3af26cb7419"
 msgid "Wyvern's Head"
-msgstr ""
+msgstr "와이번의 머리"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/LizardfolksVillage/KingsChestKey_DescriptionText_String
 msgctxt "29813cd1-0e17-41ac-ae9d-ca116648e0aa"
 msgid "The key from the lizardfolk king's chest."
-msgstr ""
+msgstr "도마뱀인간 왕의 상자 열쇠."
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/LizardfolksVillage/KingsChestKey_m_DisplayNameText
 msgctxt "23a28872-8a68-464f-b22e-6d813c155ae5"
 msgid "King Vesket's Key"
-msgstr ""
+msgstr "베스켓 왕의 열쇠"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/SecludedLodge/HostessRoomKey_DescriptionText_String
 msgctxt "475d1fde-5788-46c4-b490-73d002998190"
 msgid "A key from one of the rooms from the Hunting Lodge."
-msgstr ""
+msgstr "사냥 오두막의 어느 방의 열쇠."
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/SecludedLodge/HostessRoomKey_m_DisplayNameText
 msgctxt "29016c9b-747f-4f11-ad7d-ab7ac23c2e74"
 msgid "Hostess' Room Key"
-msgstr ""
+msgstr "안주인의 방 열쇠"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/SecludedLodge/MartaRoomKey_m_DisplayNameText
 msgctxt "353c18cf-bcdc-417c-af29-e6c8379ef5b7"
 msgid "Olika's Room Key"
-msgstr ""
+msgstr "올리카의 방 열쇠"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/SecludedLodge/NobleRoomKey_m_DisplayNameText
 msgctxt "74122a62-0f59-45fe-825b-fce45c2167c8"
 msgid "Tedrim's Room Key"
-msgstr ""
+msgstr "테드림의 방 열쇠"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/SecludedLodge/PartyRestRoomKey_m_DisplayNameText
 msgctxt "ae19eb25-82cd-4897-9124-de4a63c9ae3c"
 msgid "Guest Room Key"
-msgstr ""
+msgstr "객실 열쇠"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/SilverstepGrotto/EverbloomFlowerRoot_m_DisplayNameText
 msgctxt "88fc74a8-7e67-4a43-b044-1f4703c6a9b6"
 msgid "Root of the Everblooming Flower"
-msgstr ""
+msgstr "영원히 피는 꽃의 뿌리"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/SilverstepGrotto/EverbloomFlowerRoot_m_FlavorText
 msgctxt "e13d06a6-22ec-4ead-abc9-24be6c32385f"
 msgid "Part of a mysterious plant from the Silverstep grotto."
-msgstr ""
+msgstr "실버스텝 동굴에서 채취한 신비로운 식물의 일부."
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/SilverstepGrottoFirstWorld/FirstWorldLantern_Ability_DisplayName_String
 msgctxt "0aef7e84-0cb5-41ed-978a-2bea5ec81e48"
 msgid "First World Lantern"
-msgstr ""
+msgstr "태초 세계 등불"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/SilverstepGrottoFirstWorld/FirstWorldLantern_Ability_m_Description
 msgctxt "b411c791-58df-4c63-bd58-b37dd5ead7f3"
 msgid "Mysterious lantern"
-msgstr ""
+msgstr "신비한 등불"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/SilverstepGrottoFirstWorld/FirstWorldLantern_Buff_m_DisplayName
 msgctxt "6ef3780e-3c69-4aa3-a857-a50e7af4ee0a"
 msgid "First World Lantern"
-msgstr ""
+msgstr "태초 세계 등불"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/SilverstepLake_Outdoor/CaveBanditLetters_m_DisplayNameText
 msgctxt "6bf89070-5f3c-4c6c-8fdc-703cb19bae04"
 msgid "Pile of Notes"
-msgstr ""
+msgstr "서류 더미"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/SilverstepLake_Outdoor/HuntersLetter_m_DisplayNameText
 msgctxt "3c6aee24-9dda-4c42-b443-f79134402917"
 msgid "Hunter's Letter"
-msgstr ""
+msgstr "사냥꾼의 편지"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/SilverstepLake_Outdoor/SpicedFish_m_DisplayNameText
 msgctxt "861142ae-acdc-4de6-b580-d2e40838c7bc"
 msgid "Spiced Fish"
-msgstr ""
+msgstr "양념된 물고기"
 
 #. Mechanics/Blueprints/Items/Areas/C22_SeasonOfBloom/SilverstepLake_Outdoor/SpicedFish_m_FlavorText
 msgctxt "27db26da-30ad-44fa-a205-aebc7bd90fce"
 msgid "The meal smells splendid."
-msgstr ""
+msgstr "맛있는 냄새가 나는 요리."
 
 #. Mechanics/Blueprints/Items/Areas/C31_VarnholdVanished/DunswardTomb/DeadNobleLetter01_m_DisplayNameText_1
 msgctxt "050cf6c0-e46a-4e18-8757-8ca256f98290"
 msgid "Mathian Hanvaki's Letter"
-msgstr ""
+msgstr "마티안 한바키의 편지"
 
 #. Mechanics/Blueprints/Items/Areas/C31_VarnholdVanished/DunswardTomb/DeadNobleLetter02_m_DisplayNameText_1
 msgctxt "4d1cb700-4533-48c9-9e90-243fa92d1f13"
 msgid "Penrod Hanvaki's Letter"
-msgstr ""
+msgstr "펜로드 한바키의 편지"
 
 #. Mechanics/Blueprints/Items/Areas/C31_VarnholdVanished/OldCaveDungeon/BarbarianKey_m_DisplayNameText
 msgctxt "a5968ce5-d3fc-4280-bc25-3a146135c68b"
 msgid "Barbarian Chest Key"
-msgstr ""
+msgstr "바바리안 상자 열쇠"
 
 #. Mechanics/Blueprints/Items/Areas/C31_VarnholdVanished/OldCaveDungeon/BarbarianKey_m_FlavorText
 msgctxt "6b7467d7-b327-4260-8e15-00ff1bdf7420"
 msgid ""
 "A small steel key from the chest where the Tiger Lords barbarians keep their"
 " goods."
-msgstr ""
+msgstr "호랑이 군주 바바리안이 물건을 보관하는 상자를 여는 작은 철제 열쇠."
 
 #. Mechanics/Blueprints/Items/Areas/C31_VarnholdVanished/VordakaiTombLevel2/ArtefactDoorKey1_DescriptionText_String
 msgctxt "dccbe0ab-3bb6-4ff7-aea7-6f379e46c13a"
 msgid "A huge key from the tomb of Vordakai."
-msgstr ""
+msgstr "보다카이의 무덤을 여는 커다란 열쇠."
 
 #. Mechanics/Blueprints/Items/Areas/C31_VarnholdVanished/VordakaiTombLevel2/ArtefactDoorKey1_m_DisplayNameText
 msgctxt "52bb2b41-c94a-4b52-a07d-5d775ba0f613"
 msgid "Brass Cyclopean Key"
-msgstr ""
+msgstr "황동 사이클롭스 열쇠"
 
 #. Mechanics/Blueprints/Items/Areas/C31_VarnholdVanished/VordakaiTombLevel2/ArtefactDoorKey2_m_DisplayNameText
 msgctxt "526a75ff-6004-4171-9bc2-f7ebd813a3af"
 msgid "Bronze Cyclopean Key"
-msgstr ""
+msgstr "청동 사이클롭스 열쇠"
 
 #. Mechanics/Blueprints/Items/Areas/C41_TheTwiceBornWarlord/AbandonedKeep_Interior/AbandonedKeep_PrisonKey_m_FlavorText
 msgctxt "58f960d9-86ed-49e0-826b-592fa599de8a"
 msgid "A rusty key from the Abandoned keep."
-msgstr ""
+msgstr "버려진 성채의 녹슨 열쇠."
 
 #. Mechanics/Blueprints/Items/Areas/C51_WarOfTheRiverKings/IrovettiPalace/FakeBriar_m_NonIdentifiedNameText
 msgctxt "360f2018-6fb8-4fa2-a150-ff66bed9eb65"
 msgid "Mysterious Rod"
-msgstr ""
+msgstr "이상한 막대"
 
 #. Mechanics/Blueprints/Items/Areas/C51_WarOfTheRiverKings/IrovettiPalace/IrovettiJournalPlaceholder_m_DisplayNameText
 msgctxt "08caf8ed-b705-4cd2-ad29-16b0516065ec"
 msgid "Irovetti Journal"
-msgstr ""
+msgstr "이로베티 일기"
 
 #. Mechanics/Blueprints/Items/Areas/C51_WarOfTheRiverKings/IrovettiPalace/IrovettiPalace_BriarRoomKey_m_DisplayNameText
 msgctxt "18507639-6ffb-43c9-93f6-5c02bc226730"
 msgid "Irovetti's Secret Key"
-msgstr ""
+msgstr "이로베티의 비밀 열쇠"
 
 #. Mechanics/Blueprints/Items/Areas/C51_WarOfTheRiverKings/IrovettiPalace/IrovettiPalace_ConservatoryKey_FlavorText_String
 msgctxt "4b7fd5c1-cd50-46b3-a6f4-27b08e617859"
 msgid "A key found in Irovetti's palace."
-msgstr ""
+msgstr "이로베티의 궁전에서 찾은 열쇠."
 
 #. Mechanics/Blueprints/Items/Areas/C51_WarOfTheRiverKings/IrovettiPalace/IrovettiPalace_ConservatoryKey_m_DisplayNameText
 msgctxt "f526a2a1-ff5c-4acc-a1f4-a6532204e086"
 msgid "Conservatory Key"
-msgstr ""
+msgstr "온실 열쇠"
 
 #. Mechanics/Blueprints/Items/Areas/C51_WarOfTheRiverKings/IrovettiPalace/IrovettiPalace_GhostMageKey_m_DisplayNameText
 msgctxt "0a1fd6e2-ecaf-4f9e-84db-017c96a75229"
 msgid "Lost Key"
-msgstr ""
+msgstr "잃어버린 열쇠"
 
 #. Mechanics/Blueprints/Items/Areas/C51_WarOfTheRiverKings/IrovettiPalace/IrovettiPalace_OgreMageKey_m_DisplayNameText
 msgctxt "3bded4e1-e6d5-4601-bd33-249ceff85a86"
 msgid "General's Bedroom Key"
-msgstr ""
+msgstr "장군의 침실 열쇠"
 
 #. Mechanics/Blueprints/Items/Areas/C51_WarOfTheRiverKings/IrovettiPalace/PuzzleItem1_Cup_m_DisplayNameText
 msgctxt "ca1e2dbc-0ceb-49cd-88bc-f124f5888b8c"
 msgid "Cup of the Victor"
-msgstr ""
+msgstr "우승컵"
 
 #. Mechanics/Blueprints/Items/Areas/C51_WarOfTheRiverKings/IrovettiPalace/PuzzleItem1_Cup_m_FlavorText
 msgctxt "7b0b3ce6-8898-4482-a3b9-29c0bf2b73eb"
 msgid ""
 "The etching on the golden cup says, \"To Irovetti, the greatest bard in "
 "Pitax.\""
-msgstr "황금 컵에는  \"피탁스의 가장 위대한 시인, 이로베티에게\"라고 새겨져 있습니다 "
+msgstr "황금 컵에는  \"피탁스의 가장 위대한 시인, 이로베티에게\"라고 새겨져 있습니다."
 
 #. Mechanics/Blueprints/Items/Areas/C51_WarOfTheRiverKings/IrovettiPalace/PuzzleItem2_Statuette_m_DisplayNameText
 msgctxt "1312dbbe-7905-4ba6-8046-03b700c4190e"
 msgid "Vulgar Statuette"
-msgstr ""
+msgstr "상스러운 조각상"
 
 #. Mechanics/Blueprints/Items/Areas/C51_WarOfTheRiverKings/IrovettiPalace/PuzzleItem2_Statuette_m_FlavorText
 msgctxt "b916ff91-8e8a-4cce-8aa5-9ce4be7504ce"
 msgid ""
 "A statuette of Irovetti and Nyrissa in a suggestive pose, neatly carved of "
 "marble."
-msgstr ""
+msgstr "이로베티와 나이리사가 선정적인 자세를 취하고 있는 조각상으로, 대리석으로 멋지게 조각했습니다."
 
 #. Mechanics/Blueprints/Items/Areas/C51_WarOfTheRiverKings/IrovettiPalace/PuzzleItem3_Instrument_m_DisplayNameText
 msgctxt "90ee5c39-c200-4cb1-a0e1-af39c1bf9348"
 msgid "Silver-stringed Lute"
-msgstr ""
+msgstr "은현 류트"
 
 #. Mechanics/Blueprints/Items/Areas/C51_WarOfTheRiverKings/IrovettiPalace/PuzzleItem3_Instrument_m_FlavorText
 msgctxt "9dc86623-baff-4e55-9cea-4015d7b8dbf5"
 msgid ""
 "An old, cheap lute, covered in expensive new varnish. The shiny silver "
 "strings are attached to worn-out pegs."
-msgstr ""
+msgstr "값비싼 광택제로 새로 칠한 낡은 싸구려 류트입니다. 반짝이는 은으로 만든 현이 닳아빠진 고정못에 걸려 있습니다."
 
 #. Mechanics/Blueprints/Items/Areas/C61_SoundOfaThousandScreams/HouseAtTheEdgeOfTime/HornedHunterKey_m_DisplayNameText
 msgctxt "3fdc14f9-a65e-4e24-95b7-a49df123787e"
 msgid "Horned Hunter's Key"
-msgstr ""
+msgstr "뿔난 사냥꾼의 열쇠"
 
 #. Mechanics/Blueprints/Items/Areas/C61_SoundOfaThousandScreams/HouseAtTheEdgeOfTime/KnurlyWitchKey_m_DisplayNameText
 msgctxt "841f8805-155a-461d-a6cb-65e703102769"
 msgid "Knurly Witch's Key"
-msgstr ""
+msgstr "옹이 마녀의 열쇠"
 
 #. Mechanics/Blueprints/Items/Areas/C61_SoundOfaThousandScreams/HouseAtTheEdgeOfTime/ThirdNyrissaKey_FlavorText_String
 msgctxt "f30a4a11-3562-4e02-9ccc-624d13a9cfcd"
 msgid "One of the three keys to Nyrissa's inner chambers."
-msgstr "나이리사의 안쪽 방에 대한 세 개의 열쇠 중 하나입니다."
+msgstr "나이리사의 안쪽 방을 여는 세 개의 열쇠 중 하나입니다."
 
 #. Mechanics/Blueprints/Items/Areas/C61_SoundOfaThousandScreams/HouseAtTheEdgeOfTime/ThirdNyrissaKey_m_DisplayNameText
 msgctxt "fde53a8b-0ac6-47b1-81e5-2646503bc2ca"
@@ -9478,29 +9537,29 @@ msgstr "나이리사의 세 번째 열쇠"
 #. Mechanics/Blueprints/Items/Areas/C61_SoundOfaThousandScreams/HouseAtTheEdgeOfTime/WrigglingManKey_m_DisplayNameText
 msgctxt "17adcf48-a5be-428c-9b5c-9d2a0e628967"
 msgid "Wriggling Man's Key"
-msgstr ""
+msgstr "꿈틀거리는 남자의 열쇠"
 
 #. Mechanics/Blueprints/Items/Areas/C71_VarholdFW/FW_Shovel_m_DisplayNameText
 msgctxt "83a27f53-065d-4a61-a07c-b4ea71ac8dd8"
 msgid "Shovel"
-msgstr ""
+msgstr "삽"
 
 #. Mechanics/Blueprints/Items/Areas/C71_VarholdFW/FW_Shovel_m_FlavorText
 msgctxt "f8c032e9-e9a9-43ac-9aa6-2c7fc122c1d3"
 msgid "A simple but dependable tool."
-msgstr ""
+msgstr "단순하지만 믿음직한 도구."
 
 #. Mechanics/Blueprints/Items/Areas/Chapter2/Paintbrush_DescriptionText_String
 msgctxt "7dca5636-fd3b-41d9-823e-3eefea520d35"
 msgid ""
 "A dirty, well-used paintbrush. It seems to have belonged to a dedicated yet "
 "untidy artist."
-msgstr ""
+msgstr "더럽고 오래 쓰인 그림붓입니다. 이 붓의 주인은 작품에 몰두하느라 주변 정리를 잊은 화가인가 봅니다."
 
 #. Mechanics/Blueprints/Items/Areas/Chapter2/Paintbrush_m_DisplayNameText
 msgctxt "502cde3c-5767-4a39-826b-306ac021ca22"
 msgid "Dirty Paintbrush"
-msgstr ""
+msgstr "더러운 그림붓"
 
 #. Mechanics/Blueprints/Items/Areas/Companions/1DLC/ElementalGemFire_DescriptionText_String
 msgctxt "bdbbe303-505b-4405-8fbe-0c0895ec07ac"
@@ -9509,16 +9568,18 @@ msgid ""
 "Elemental appears as if summoned by a summon elemental spell. Summoned "
 "elemental persists for 11 rounds."
 msgstr ""
+"이 불그스름한 주황색 보석을 박살내거나, 내리치거나, 부숴버리면 정령 소환 주문을 쓴 것처럼 대형 화염 정령이 나타납니다. 소환된 정령은 "
+"11 라운드 동안 지속됩니다."
 
 #. Mechanics/Blueprints/Items/Areas/Companions/1DLC/ElementalGemFire_DisplayNameText_String
 msgctxt "25344962-164e-42af-92b4-9b133816a0a4"
 msgid "Primal Elemental Gem of Fire"
-msgstr ""
+msgstr "화염의 원시 정령 보석"
 
 #. Mechanics/Blueprints/Items/Areas/DLC2/BlackstonesFord/SecretDoorKey_m_DisplayNameText
 msgctxt "a54f80b4-2db8-4f6e-83f1-4ed54474afd0"
 msgid "A Little Key"
-msgstr ""
+msgstr "작은 열쇠"
 
 #. Mechanics/Blueprints/Items/Areas/KingdomTurns/KTC21-KavkenBringsArticle/JubilostReview_bad_DescriptionText_String
 msgctxt "8ec5845b-64ae-4144-a970-5dd6ad9610a7"
@@ -22548,7 +22609,7 @@ msgid ""
 "deals additional 2d6 fire damage. It grants its wielder the ability to cast "
 "mass heal spell once per day as a 17th level cleric."
 msgstr ""
-"이 +5 성스러운 시미터는 명중시 대상이 선하지 않으면 2d6 화염 피해를 추가합니다. 착용자가 하루에 한 번 집단 치유 주문을 17 "
+"이 +5 성스러운 시미터는 명중시 대상이 선하지 않으면 2d6 화염 피해를 추가합니다. 착용자가 하루에 한 번 집단 치유 주문을 17  "
 "레벨 클레릭 처럼 사용할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_4thPart/BladeOfTheMercifulItem_m_DisplayNameText
@@ -22677,7 +22738,7 @@ msgctxt "4b3a6c61-c6ec-40aa-9ccb-8c2cfdd662ad"
 msgid ""
 "This +5 adamantine bastard sword grants its wielder the ability to cast harm"
 " spell 3 times per day as an 11th level cleric."
-msgstr "이 +5 아다만틴 바스타드 소드는 착용자가 11 레벨 클레릭으로서 하루에 세 번 위해 주문을 시전할 수 있게 해줍니다."
+msgstr "이 +5 아다만틴 바스타드 소드는 착용자가 11  레벨 클레릭으로서 하루에 세 번 위해 주문을 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_4thPart/IncorruptibleBladeItem_m_DescriptionText
 msgctxt "ae91396f-d3a7-41ee-b4b7-2124a6240b3b"
@@ -22686,8 +22747,8 @@ msgid ""
 " wielder the ability to cast heroic invocation once per day as a 17th level "
 "wizard."
 msgstr ""
-"이 +5 성스러운 글레이브는 추가로 2d6의 음파 피해를 입힙니다. 또한 착용자가 하루에 한 번 17 레벨 위저드로서 영웅심 강신 주문을"
-" 시전할 수 있게 해줍니다."
+"이 +5 성스러운 글레이브는 추가로 2d6의 음파 피해를 입힙니다. 또한 착용자가 하루에 한 번 17  레벨 위저드로서 영웅심 강신 "
+"주문을 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_4thPart/IncorruptibleBladeItem_m_DisplayNameText
 msgctxt "bc98a1f2-5fe3-4c4b-a833-f31242e59cda"
@@ -22704,7 +22765,7 @@ msgctxt "b6eb294e-d7d0-409d-9496-27b2de344824"
 msgid ""
 "This +5 holy axiomatic longsword grants its wielder the ability to cast "
 "searing light spell as a 10th level cleric at will."
-msgstr "이 +5 성스러운 공리의 장검은 착용자가 10 레벨 클레릭으로서 타오르는 빛 주문을 마음대로 시전할 수 있게 해줍니다."
+msgstr "이 +5 성스러운 공리의 장검은 착용자가 10  레벨 클레릭으로서 타오르는 빛 주문을 마음대로 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_4thPart/LightOfValorItem_m_DisplayNameText
 msgctxt "9951619f-1744-4b04-85fd-b80e97548f4c"
