@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-07-04 00:46+0000\n"
+"PO-Revision-Date: 2020-07-04 02:39+0000\n"
 "Last-Translator: laz <joholja@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
@@ -62,7 +62,7 @@ msgstr "카실은 항상 도움이 필요한 사람들을 돕고자 합니다."
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[2].Options.Array.data[1].Description
 msgctxt "c9431b5d-c4b3-4a24-82a2-906585264e17"
 msgid "Amiri favors the direct approach."
-msgstr "아미리는 직접적인 방식을 선호합니다."
+msgstr "아미리는 단도직입적인 해결책을 선호합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[2].Options.Array.data[2].Description
 msgctxt "56efd59a-75a2-4da3-b42f-b59c70bade4c"
@@ -79,7 +79,7 @@ msgctxt "88ba46b5-7cae-4ad7-b5bd-3a7d959ec8ac"
 msgid ""
 "Jubilost aims to cut expenses and spend diligently. And he's sure to let "
 "everyone know it, too."
-msgstr "주빌로스트는 지출을 줄이고 부지런히 일하고자 합니다. 그리고 그만큼 잔뜩 티를 낼 것입니다."
+msgstr "주빌로스트는 비용을 절감하고 꼼꼼하게 지출을 관리하려 합니다. 그리고 모두가 그걸 알아주기를 바랄 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[3].Options.Array.data[2].Description
 msgctxt "8711ef65-f179-4940-afe5-21e62686a940"
@@ -115,12 +115,12 @@ msgstr "바솔로뮤는 가장 이득이 되는 방식으로 분쟁을 해결하
 msgctxt "47f69b88-1d9a-4580-9d68-988d2bdc632f"
 msgid ""
 "Jhod does his best to solve problems without disrupting local traditions."
-msgstr "조드는 지역 전통을 해치지 않는 선해서 문제를 해결하려고 최선을 다합니다."
+msgstr "조드는 지역의 전통을 해치지 않는 선에서 문제를 해결하려고 최선을 다합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[5].Options.Array.data[1].Description
 msgctxt "ec1ebcc4-e5f7-49f1-93a5-780996f41894"
 msgid "Harrim favors unusual, but effective solutions."
-msgstr "하림은 일반적이지 않지만 효과적인 해결책을 선호합니다."
+msgstr "하림은 특이하면서도 효과적인 해결책을 선호합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[5].Options.Array.data[2].Description
 msgctxt "8e8a959f-58a4-4e18-bf78-0030dbc36900"
@@ -139,14 +139,14 @@ msgctxt "5eeed616-a191-4821-8700-7883c5df9b33"
 msgid ""
 "The Storyteller is cautious and favors decisions that satisfy the interests "
 "of everyone involved."
-msgstr "이야기꾼은 관련된 모든 사람들의 이익을 만족시키는 결정을 내리고자 고민합니다."
+msgstr "이야기꾼은 매사에 신중하며, 모든 관계자의 이익을 만족시키는 결정을 선호합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[6].Options.Array.data[2].Description
 msgctxt "4f4d2275-07d1-4853-9d54-cc46631e2392"
 msgid ""
 "\"Maegar\" seeks to increase the {mf|barony|barony|kingdom|kingdom}'s arcane"
 " might, no matter the cost."
-msgstr "\"메이가르\"는 비용이 얼마나 들던 간에 {mf|남작령|남작령|왕국|왕국}의 비전적 역량을 키우고자 합니다."
+msgstr "메이가르는 비용이 얼마나 들던 간에 {mf|남작령|남작령|왕국|왕국}의 마법 역량을 키우고자 합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[7].Options.Array.data[0].Description
 msgctxt "050414fa-d380-450e-be13-22df688c55bf"
@@ -11045,7 +11045,7 @@ msgctxt "33e4231e-4e77-4173-a3d3-c93217c825a4"
 msgid ""
 "The advisor's agents traced the source of the corruption. All the harmful "
 "items were purchased from Nazrielle, the weaponsmith!"
-msgstr "보좌관의 부하들이 이 사건의 원인을 찾아냈습니다. 모든 해로운 물건들은 대장장이 나즈리엘이 판매한 것들이었습니다!"
+msgstr "보좌관의 부하들이 이 사건의 원인을 찾아냈습니다. 해를 끼친 물건들은 모두 대장장이 나즈리엘이 판매한 것들이었습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Weaponsmith_CursedThings_Results.Array.data[1].LocalizedDescription
 msgctxt "ef7a6d03-649c-47ec-b9ec-9a791f712e39"
@@ -11074,7 +11074,7 @@ msgctxt "e2b5f795-3288-4619-aab3-c976cf1d1cfd"
 msgid ""
 "The advisor's agents traced the source of the corruption. All the harmful "
 "items were purchased from Nazrielle, the weaponsmith!"
-msgstr "보좌관의 부하들이 이 사건의 원인을 찾아냈습니다. 모든 해로운 물건들은 대장장이 나즈리엘이 판매한 것들이었습니다!"
+msgstr "보좌관의 부하들이 이 사건의 원인을 찾아냈습니다. 해를 끼친 물건들은 모두 대장장이 나즈리엘이 판매한 것들이었습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Woodmaster_FeyJokesters_Description
 msgctxt "bca75561-570a-4ac5-95b4-b0eb3f29bb7f"
