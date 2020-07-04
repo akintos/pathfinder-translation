@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-07-04 21:37+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2020-07-05 21:00+0000\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/root/ko/>\n"
 "Language: ko\n"
@@ -523,8 +523,8 @@ msgstr ""
 "당신의 캐릭터는 적과 함정으로부터 <b>2배의 피해</b>를 입습니다. 적들은 <b>크게 증가 된 힘을</b> 가지며 <b>치명타를 치는 "
 "보통의 기회를</b> 누릴 것입니다.\n"
 "당신의 캐릭터는 <b>치명적인 부상을 당하면 죽을 것</b> 입니다.\n"
-"주인공이 사망하면 게임이 끝납니다. 동료가 죽으면 사자 소생 또는 대부분의 모험가가 지불하기 어려워하는 매우 비싼 서비스를 통해 부활시킬 "
-"수 있습니다.\n"
+"주인공이 사망하면 게임이 끝납니다. 동료가 죽으면 소생 또는 대부분의 모험가가 지불하기 어려워하는 매우 비싼 서비스를 통해 부활시킬 수 "
+"있습니다.\n"
 "<b><color=#ae1600>\n"
 "이 난이도는 패스파인더 시스템과 패스파인더: 킹 메이커 전투 시스템에 대해 익숙하지 않은 플레이어나 고난을 싫어하시는 분들께는 추천드리지 "
 "않습니다. 적들은 전투 중 실수를 용서하지 않으며 캐릭터의 빌드는 완벽해야만 합니다.</color></b>"
@@ -14132,7 +14132,7 @@ msgstr "내성 굴림"
 #. Mechanics/Blueprints/Root/MechanicTerms_Entries.Array.data[84].Name
 msgctxt "639f8bf7-9d34-4b7b-9e2a-1976e13b6899"
 msgid "Masterwork"
-msgstr "마스터워크"
+msgstr "명품"
 
 #. Mechanics/Blueprints/Root/MechanicTerms_Entries.Array.data[85].Name
 msgctxt "69b09da3-394a-4041-ad87-446e8862d68f"
@@ -15119,7 +15119,7 @@ msgstr "도리깨"
 #. Mechanics/Blueprints/Root/Stats_WeaponEntries.Array.data[27].Text
 msgctxt "5e13c413-7e17-4fd3-b707-e2d6bd09fecc"
 msgid "Heavy Pick"
-msgstr "대형 곡괭이"
+msgstr "중형 곡괭이"
 
 #. Mechanics/Blueprints/Root/Stats_WeaponEntries.Array.data[28].Text
 msgctxt "ba3ed684-8235-46ff-8bd7-bab32a27985d"
@@ -22431,7 +22431,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/SystemMechanics/Abilities/CoupDeGraceAbility_DisplayName_String
 msgctxt "eb254acc-f84f-4147-8319-d737a80b2399"
 msgid "Coup de Grace"
-msgstr "치명적인 일격"
+msgstr "쿠 드 그하스"
 
 #. Mechanics/Blueprints/Root/SystemMechanics/Abilities/OverrunAbility_LocalizedDuration
 msgctxt "e5a38b29-158a-424c-b705-e225fd8b35e4"
