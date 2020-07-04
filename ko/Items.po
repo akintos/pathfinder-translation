@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
 "PO-Revision-Date: 2020-07-04 21:37+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/items/ko/>\n"
 "Language: ko\n"
@@ -11829,11 +11829,16 @@ msgid ""
 "Lesser rods can be used with spells of 3rd level or lower.\n"
 "Quicken Spell: Casting a quickened spell is a swift action. You can perform another action, even casting another spell, in the same round as you cast a quickened spell. A spell whose casting time is more than 1 round or 1 full-round action cannot be quickened."
 msgstr ""
+"이 로드는 착용자에게 공포에 대한 내성 굴림에 +3 보너스를 주고 하루에 세 번 메타매직 (신속) 특기를 적용한 것처럼 주문을 신속화 할 "
+"수 있습니다.\n"
+"하급 로드는 3레벨 이하의 주문에 사용할 수 있습니다.\n"
+"신속 주문: 주문을 신속 행동으로 시전합니다. 신속 주문을 시전한 라운드에는 주문을 한 번 더 시전하는 등 다른 행동을 할 수 있습니다. "
+"시전시간이 1 라운드나 1 라운드 전체 행동을 넘어가는 주문은 신속화할 수 없습니다."
 
 #. Mechanics/Blueprints/Items/Rods/Artisan/RodofFearless_DisplayNameText_String
 msgctxt "346b288c-cf05-41d0-b505-d7571bda8c9c"
 msgid "Rod of the Fearless"
-msgstr ""
+msgstr "용기의 로드"
 
 #. Mechanics/Blueprints/Items/Rods/Artisan/RodOfFiredVengenceItem_DescriptionText_String
 msgctxt "52fa4710-18bf-405f-bbd2-054b0ab5a62b"
@@ -11842,11 +11847,17 @@ msgid ""
 "Greater rods can be used with spells of 9th level or lower.\n"
 "Maximize Spell: All variable, numeric effects of a spell modified by this feat are maximized. Saving throws and opposed rolls are not affected, nor are spells without random variables."
 msgstr ""
+"이 로드는 만지면 뜨겁습니다. 내부에서 타오르고 있는 힘 때문에 미세하게 떨리고 있습니다. 이 로드는 착용자의 이보케이션 학파 주문의 "
+"DC에 +3 보너스를 주고, 시전자 레벨을 1 올리고, 모든 주문 피해를 화염 피해로 전환합니다. 또한 착용자는 하루에 다섯 번 메타매직 "
+"(극대화) 특기를 적용한 것처럼 주문을 극대화 할 수 있습니다.\n"
+"상급 로드는 9레벨 이하의 주문에 사용할 수 있습니다.\n"
+"극대화 주문: 주문의 모든 가변수가 최대값이 됩니다. 내성 굴림이나 서로 굴림에는 적용되지 않고, 무작위 변수가 없는 주문도 극대화 "
+"효과를 받지 않습니다."
 
 #. Mechanics/Blueprints/Items/Rods/Artisan/RodOfFiredVengenceItem_DisplayNameText_String
 msgctxt "affe1977-f2ee-47d9-ab29-bed7d05a8e60"
 msgid "Rod of Flaming Vengeance"
-msgstr ""
+msgstr "타오르는 복수의 로드"
 
 #. Mechanics/Blueprints/Items/Rods/Artisan/RodOfPowerItem_DescriptionText_String
 msgctxt "36d21033-6530-4c26-a041-af6542b7c88c"
@@ -11856,11 +11867,16 @@ msgid ""
 "Empower Spell: All variable, numeric effects of an empowered spell are increased by half including bonuses to those rolls.\n"
 "Saving throws and opposed rolls are not affected, nor are spells without random variables."
 msgstr ""
+"이 무겁고, 부드럽게 웅웅대는 로드는 착용자의 컨저레이션 학파 주문 DC에 +4 보너스를 주고, 하루에 다섯 번 메타매직 (강화) 특기를 "
+"적용한 것처럼 주문을 강화합니다.\n"
+"일반적인 로드는 6레벨 이하의 주문에 사용할 수 있습니다.\n"
+"강화 주문: 주문의 주사위 굴림과 보너스를 포함한 모든 가변수가 1.5배로 증가합니다.\n"
+"내성 굴림이나 서로 굴림에는 적용되지 않고, 무작위 변수가 없는 주문도 강화 효과를 받지 않습니다."
 
 #. Mechanics/Blueprints/Items/Rods/Artisan/RodOfPowerItem_DisplayNameText_String
 msgctxt "53f4fedf-4e01-4481-bd41-0b0dfb882dfe"
 msgid "Rod of Power Source"
-msgstr ""
+msgstr "힘의 원천 로드"
 
 #. Mechanics/Blueprints/Items/Rods/Artisan/RodOfUndeadItem_DescriptionText_String
 msgctxt "89629b5f-3631-40f4-8256-5d369ff79985"
@@ -11869,11 +11885,16 @@ msgid ""
 "Regular rods can be used with spells of 6th level or lower.\n"
 "Extend Spell: An extended spell lasts twice as long as normal. A spell with a duration of concentration, instantaneous, or permanent is not affected by this feat."
 msgstr ""
+"이 로드는 착용자의 네크로맨시 주문 DC에 +2 보너스를 주고, 하루에 네 번 메타매직 (시간 연장) 특기를 적용한 것처럼 주문의 "
+"지속시간을 연장 시킬 수 있습니다.\n"
+"일반적인 로드는 6레벨 이하의 주문에 사용할 수 있습니다.\n"
+"시간 연장 주문: 시간 연장 주문은 지속시간이 보통 주문의 2 배입니다. 지속시간 동안 집중을 요하는 주문, 즉발 주문, 영구적인 주문은 "
+"이 특기의 영향을 받지 않습니다."
 
 #. Mechanics/Blueprints/Items/Rods/Artisan/RodOfUndeadItem_DisplayNameText_String
 msgctxt "2a63d584-7092-4322-82ef-5ba85942c461"
 msgid "Rod of Undeath"
-msgstr ""
+msgstr "불사의 로드"
 
 #. Mechanics/Blueprints/Items/Rods/Artisan/RodOfUndeadItem_m_DescriptionText_1
 msgctxt "b9ad92fa-1ea9-4714-b826-faaf74c9c266"
@@ -11882,75 +11903,80 @@ msgid ""
 "Regular rods can be used with spells of 6th level or lower.\n"
 "Extend Spell: An extended spell lasts twice as long as normal. A spell with a duration of concentration, instantaneous, or permanent is not affected by this feat."
 msgstr ""
+"이 로드는 착용자의 네크로맨시 주문 DC에 +2 보너스를 주고, 하루에 네 번 메타매직 (시간 연장) 특기를 적용한 것처럼 주문의 "
+"지속시간을 연장 시킬 수 있습니다.\n"
+"일반적인 로드는 6레벨 이하의 주문에 사용할 수 있습니다.\n"
+"시간 연장 주문: 시간 연장 주문은 지속시간이 보통 주문의 2 배입니다. 지속시간 동안 집중을 요하는 주문, 즉발 주문, 영구적인 주문은 "
+"이 특기의 영향을 받지 않습니다."
 
 #. Mechanics/Blueprints/Items/Rods/Artisan/RodOfUndeadItem_m_DisplayNameText_1
 msgctxt "180fcd40-dc1d-4599-b85c-492fbc396b9b"
 msgid "Rod of Undeath"
-msgstr ""
+msgstr "불사의 로드"
 
 #. Mechanics/Blueprints/Items/Rods/Artisan/RodofFearless/FearlessRodAbility_m_DisplayName
 msgctxt "459b0cc9-7b96-4e61-acd4-381a7b0035e4"
 msgid "Fearless"
-msgstr ""
+msgstr "용감함"
 
 #. Mechanics/Blueprints/Items/Rods/Artisan/RodofFearless/FearlessRodBuff_m_DisplayName
 msgctxt "a0f22628-5ee2-4c3e-89a9-3054a4356ece"
 msgid "Fearless"
-msgstr ""
+msgstr "용감함"
 
 #. Mechanics/Blueprints/Items/Rods/Artisan/RodOfFiredVengence/RodOfFiredVengenceAbility_DisplayName_String
 msgctxt "1dc351b4-54ff-45b1-9c3e-5dadf1c71f7c"
 msgid "Flaming Vengeance"
-msgstr ""
+msgstr "타오르는 복수"
 
 #. Mechanics/Blueprints/Items/Rods/Artisan/RodOfFiredVengence/RodOfFiredVengenceBuff_m_DisplayName
 msgctxt "ea0c2588-b218-4d85-9455-3ce417a5815e"
 msgid "Flaming Vengeance"
-msgstr ""
+msgstr "타오르는 복수"
 
 #. Mechanics/Blueprints/Items/Rods/Artisan/RodOfFiredVengence/RodOfFiredVengenceFeat_m_DisplayName
 msgctxt "9726c2dd-34c7-49f6-b173-c37d8ba77bc0"
 msgid "Flaming Vengeance"
-msgstr ""
+msgstr "타오르는 복수"
 
 #. Mechanics/Blueprints/Items/Rods/Artisan/RodofProtectionfromPositiveEnergy30/ProtectionfromPositiveEnergy30Ability_m_DisplayName
 msgctxt "e03447dd-a718-4a36-8921-b89d275b098e"
 msgid "Protection from Positive Energy"
-msgstr ""
+msgstr "양에너지로부터 보호"
 
 #. Mechanics/Blueprints/Items/Rods/Briar/BriarAbility_m_DisplayName
 msgctxt "c8670cac-dd1f-490b-bdd5-f47927ba74ea"
 msgid "Briar"
-msgstr ""
+msgstr "찔레"
 
 #. Mechanics/Blueprints/Items/Rods/Briar/Briar_DescriptionText_String
 msgctxt "02c5ecc1-3f40-4911-8f4f-84c8fc820e73"
 msgid ""
 "You can strike your enemy with this item as a melee touch attack. This will "
 "affect the target in an unpredictable way."
-msgstr ""
+msgstr "이 물품으로 적에게 근접 접촉 공격을 가할 수 있습니다. 대상에게 예측할 수 없는 영향을 미칩니다."
 
 #. Mechanics/Blueprints/Items/Rods/Briar/Briar_m_NonIdentifiedNameText
 msgctxt "f27885c8-0512-4e36-b23c-da4d415c0191"
 msgid "Mysterious Artifact"
-msgstr ""
+msgstr "신비한 아티팩트"
 
 #. Mechanics/Blueprints/Items/Rods/KinetecistRods/ChannelersRodToggleAbility_m_DisplayName
 msgctxt "206b4f72-57d3-4ce0-8a7c-8ed5d449f9d5"
 msgid "Channeler's Rod"
-msgstr ""
+msgstr "전달자의 로드"
 
 #. Mechanics/Blueprints/Items/Rods/KinetecistRods/ChannelersRod_DescriptionText_String
 msgctxt "a94e3147-5e4f-4fa8-b4e0-4498754a3842"
 msgid ""
 "This rod grants its wielder the ability to make up to three kinetic blasts "
 "they cast per day quickened as though using the Quicken Spell feat."
-msgstr ""
+msgstr "이 로드는 착용자에게 하루에 세 번 초능력 블래스트를 메타매직 (신속) 특기를 적용한 것처럼 신속화 할 수 있습니다."
 
 #. Mechanics/Blueprints/Items/Rods/KinetecistRods/ChannelersRod_DisplayNameText_String
 msgctxt "55ad1cb0-a7ba-4c61-b25b-faca7156f82e"
 msgid "Channeler's Rod"
-msgstr ""
+msgstr "전달자의 로드"
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodEmpowerGreater/MetamagicRodGreaterEmpower_DescriptionText_String
 msgctxt "49b0d3da-f7db-46cc-966f-a0f9d1cf0ab0"
@@ -21358,7 +21384,7 @@ msgid ""
 "This weapon is a +3 living bane scythe. If the wielder has inquisitor's "
 "judgement class ability, it allows them to use it 1 additional time per day."
 msgstr ""
-"이 무기는 +3 생명체 파괴 대낫입니다. 착용자가 인퀴지터의 심판 클래스 능력을 보유할 경우 하루에 한 번 더 추가로 사용할 수 있습니다."
+"이 무기는 +3 생명체 파멸 대낫입니다. 착용자가 인퀴지터의 심판 클래스 능력을 보유할 경우 하루에 한 번 더 추가로 사용할 수 있습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/PrimeWiperItem_DisplayNameText_String
 msgctxt "f5f02792-8271-4b13-a699-ecbc3fe29ce1"
