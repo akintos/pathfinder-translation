@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-07-03 18:07+0000\n"
+"PO-Revision-Date: 2020-07-04 00:46+0000\n"
 "Last-Translator: laz <joholja@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
@@ -10997,6 +10997,8 @@ msgid ""
 "the event was not well attended, and the master was not inspired to enter "
 "service to the Crown."
 msgstr ""
+"학예사는 그녀의 작품을 모아 작은 전시회를 열었습니다. 명검 몇 자루가 팔려 적은 수입이 있긴 했지만, 전반적으로 전시회는 한산했습니다. "
+"장인은 나라와의 계약에 크게 관심을 보이지 않았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/MasterFromVudraI_Solutions.Entries.Array.data[8].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "c93f439e-01ad-42b7-86b0-33092038b9c2"
@@ -11006,6 +11008,8 @@ msgid ""
 "her masterpieces over their fireplace! The master was flattered and decided "
 "to accept the Crown's patronage."
 msgstr ""
+"학예사는 장인의 솜씨를 널리 칭찬했고, 이에 부유한 상인들이 그녀의 훌륭한 무기를 구입하기 위해 줄을 설 지경이었습니다. 모두가 자기 집 "
+"벽난로 위에 장식할 걸작 무기를 원하고 있습니다! 의기양양해진 장인은 영주의 후원을 받아들였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Weaponsmith_CursedThings_Description
 msgctxt "e10f0db0-cd0d-4667-8a4d-fdb7f3a1d3b2"
@@ -11015,6 +11019,9 @@ msgid ""
 "{mf|barony|barony|kingdom|kingdom}'s subjects. The reason – and the culprit "
 "– must be discovered."
 msgstr ""
+"우리 지역에 무언가 이상한 일이 일어나고 있습니다. 주민들이 이상한 불운이 거듭된다며 불평하고 있는데, 이는 "
+"{mf|남작령|남작령|왕국|왕국}의 신민들을 괴롭히기 위해 누군가가 주문으로 수작을 부린 것이 분명합니다. 그 이유와 범인을 반드시 "
+"찾아내야 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Weaponsmith_CursedThings_LocalizedDescription
 msgctxt "743e750b-b77f-4e2c-98c9-cecb7ae376c9"
@@ -11024,18 +11031,21 @@ msgid ""
 "{mf|barony|barony|kingdom|kingdom}'s subjects. The reason – and the culprit "
 "– must be discovered."
 msgstr ""
+"우리 지역에 무언가 이상한 일이 일어나고 있습니다. 주민들이 이상한 불운이 거듭된다며 불평하고 있는데, 이는 "
+"{mf|남작령|남작령|왕국|왕국}의 신민들을 괴롭히기 위해 누군가가 주문으로 수작을 부린 것이 분명합니다. 그 이유와 범인을 반드시 "
+"찾아내야 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Weaponsmith_CursedThings_LocalizedName
 msgctxt "2ce1b819-2043-4b28-a231-feb60f5fa164"
 msgid "Accursed Things"
-msgstr ""
+msgstr "저주받은 물건"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Weaponsmith_CursedThings_Results.Array.data[0].LocalizedDescription
 msgctxt "33e4231e-4e77-4173-a3d3-c93217c825a4"
 msgid ""
 "The advisor's agents traced the source of the corruption. All the harmful "
 "items were purchased from Nazrielle, the weaponsmith!"
-msgstr ""
+msgstr "보좌관의 부하들이 이 사건의 원인을 찾아냈습니다. 모든 해로운 물건들은 대장장이 나즈리엘이 판매한 것들이었습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Weaponsmith_CursedThings_Results.Array.data[1].LocalizedDescription
 msgctxt "ef7a6d03-649c-47ec-b9ec-9a791f712e39"
@@ -11045,6 +11055,8 @@ msgid ""
 "from? The people continue to complain of their misfortunes. The "
 "investigation is far from over."
 msgstr ""
+"보좌관의 부하들도 사건의 원인을 찾아내는데 실패했습니다. 아직은 소소한 소동에 그치고 있긴 하지만, 대체 이 불운의 원인은 무엇일까요? "
+"사람들은 여전히 자신들의 불운에 대해 불평하고 있습니다. 조사를 계속 진행해야 할 것 같습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Weaponsmith_CursedThings_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "b206094d-4ede-4708-aaa7-f75b31ddd2ec"
@@ -11054,13 +11066,15 @@ msgid ""
 "from? The people continue to complain of their misfortunes. The "
 "investigation is far from over."
 msgstr ""
+"보좌관의 부하들도 사건의 원인을 찾아내는데 실패했습니다. 아직은 소소한 소동에 그치고 있긴 하지만, 대체 이 불운의 원인은 무엇일까요? "
+"사람들은 여전히 자신들의 불운에 대해 불평하고 있습니다. 조사를 계속 진행해야 할 것 같습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Weaponsmith_CursedThings_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "e2b5f795-3288-4619-aab3-c976cf1d1cfd"
 msgid ""
 "The advisor's agents traced the source of the corruption. All the harmful "
 "items were purchased from Nazrielle, the weaponsmith!"
-msgstr ""
+msgstr "보좌관의 부하들이 이 사건의 원인을 찾아냈습니다. 모든 해로운 물건들은 대장장이 나즈리엘이 판매한 것들이었습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Woodmaster_FeyJokesters_Description
 msgctxt "bca75561-570a-4ac5-95b4-b0eb3f29bb7f"
