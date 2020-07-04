@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-06-30 04:07+0000\n"
-"Last-Translator: 냠 <setsuna444@naver.com>\n"
+"PO-Revision-Date: 2020-07-04 02:39+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/world/ko/>\n"
 "Language: ko\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #
 #. Mechanics/Blueprints/World/Areas/2DLC/RestovThroneRoom_DLC2/RestovThroneRoom_DLC2_AreaName
@@ -10584,7 +10584,7 @@ msgctxt "72e7a4d4-608c-43dd-81cd-4ada31de02f7"
 msgid ""
 "You've acquired a ring. In order to equip it, open your inventory by "
 "pressing <b>{bind|OpenInventory}</b>."
-msgstr "지를 획득했습니다. 장비하려면 <b>{bind|OpenInventory}</b> 키를 눌러 소지품을 여십시오."
+msgstr "반지를 획득했습니다. 장비하려면 <b>{bind|OpenInventory}</b> 키를 눌러 소지품을 여십시오."
 
 #. Mechanics/Blueprints/World/TutorialStings/Message/TutorialMessage5_2_String
 msgctxt "ad6d8b82-6bb2-4997-ab7f-bef390c2520c"
