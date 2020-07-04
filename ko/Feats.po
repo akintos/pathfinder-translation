@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-17 04:07+0900\n"
-"PO-Revision-Date: 2020-06-30 02:07+0000\n"
+"PO-Revision-Date: 2020-07-04 21:37+0000\n"
 "Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/feats/ko/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #
 #. Mechanics/Blueprints/Feats/AbilityFocus_m_Description
@@ -2752,8 +2752,8 @@ msgid ""
 "Level Increase: +1 (An extended spell uses up a spell slot one level higher than the spell's actual level.)"
 msgstr ""
 "주문을 두 배 오래가게 만들 수 있습니다.\n"
-"이점: 시간 연장 주문은 보통 주문보다 지속시간이 2 배입니다. 지속시간 동안 집중을 요하는 주문, 즉발 주문, 영구적인 주문은 이 "
-"특기의 영향을 받지 않습니다.\n"
+"이점: 시간 연장 주문은 지속시간이 보통 주문의 2 배입니다. 지속시간 동안 집중을 요하는 주문, 즉발 주문, 영구적인 주문은 이 특기의 "
+"영향을 받지 않습니다.\n"
 "레벨 증가: +1. 시간 (연장 주문은 원래 주문의 레벨보다 1 단계 높은 주문 칸을 사용합니다.)"
 
 #. Mechanics/Blueprints/Feats/Metamagic/ExtendSpellFeat_m_DisplayName
