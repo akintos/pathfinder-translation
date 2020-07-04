@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-07-04 21:37+0000\n"
+"PO-Revision-Date: 2020-07-05 21:00+0000\n"
 "Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/items/ko/>\n"
@@ -532,7 +532,7 @@ msgid ""
 "This amulet grants its wearer the ability to cast Overwhelming Presence as "
 "11th level Wizard once per day. It also increases the wearer's Ki pool by 5."
 msgstr ""
-"이 부적은 착용자가 하루에 한 번 11  레벨 위저드의 압도적인 존재감을 시전할 수 있게 해줍니다. 또한 착용자의 모아둔 기가 5 점 "
+"이 부적은 착용자가 하루에 한 번 11 레벨 위저드의 압도적인 존재감을 시전할 수 있게 해줍니다. 또한 착용자의 모아둔 기가 5 점 "
 "증가합니다."
 
 #. Mechanics/Blueprints/Equipment/Amulets/Artisan/AmuletOfInnerVirtue_m_DisplayNameText
@@ -736,7 +736,7 @@ msgctxt "de4bd5e5-8367-4a7a-a2ff-bbdfda9eb0ad"
 msgid ""
 "When the wearer of this locket casts magic missile or force missile spell, "
 "it becomes Quickened and Empowered."
-msgstr "이 로켓의 착용자가 시전하는 마력유도탄 또는 역장유도탄 주문은, 메타매직(강화, 신속)이 적용됩니다. "
+msgstr "이 로켓의 착용자가 시전하는 마력유도탄 또는 역장유도탄 주문은, 메타매직(강화, 신속)이 적용됩니다."
 
 #. Mechanics/Blueprints/Equipment/Amulets/LateChapters/LocketOfMagicMissileMasteryItem_m_DisplayNameText
 msgctxt "493d0380-e94e-4e45-8b85-c6582eb524a8"
@@ -765,7 +765,7 @@ msgctxt "e5613422-d026-48fe-85b7-510e31f16825"
 msgid ""
 "A gilded copper locket, engraved with the face of a laughing circus "
 "magician."
-msgstr "서커스 마술사의 웃는 얼굴이 새겨진 금박이 입혀진 구리 로켓"
+msgstr "서커스 마술사의 웃는 얼굴이 새겨진 금박이 입혀진 구리 로켓."
 
 #. Mechanics/Blueprints/Equipment/Amulets/RiversJusticeQuest/RiversongAmuletItem_m_DescriptionText
 msgctxt "f487d9ad-e52d-4c0a-90db-16f896b0d7c3"
@@ -1420,8 +1420,8 @@ msgid ""
 "against poison, paralysis and sleep; immunity to trip, and allows to cast "
 "touch of slime twice per day as a 7th level wizard."
 msgstr ""
-"이 +4 가죽갑옷은 착용자에게 독, 마비, 수면에 대한 모든 내성 굴림에 +4의 보너스와 넘어뜨리기 면역을 주고, 하루에 두 번 7  "
-"레벨 위저드의 슬라임의 손길을 시전할 수 있게 해줍니다."
+"이 +4 가죽갑옷은 착용자에게 독, 마비, 수면에 대한 모든 내성 굴림에 +4의 보너스와 넘어뜨리기 면역을 주고, 하루에 두 번 7 레벨 "
+"위저드의 슬라임의 손길을 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Artisan/ElfFemaleLeatherworker/GiantSnakesSkinLeathArmorItem_m_DisplayNameText
 msgctxt "21a50e35-263d-49cf-b9be-ffb27edbc88e"
@@ -2074,7 +2074,7 @@ msgctxt "32f6cdef-cead-407a-b9cb-aa97045ea1f5"
 msgid ""
 "This +2 scalemail grants its wearer a +2 resistance bonus on all saving "
 "throws."
-msgstr "이 +2 미늘갑옷은 착용자에게 모든 내성 굴림에 +2 저항 보너스를 제공합니다. "
+msgstr "이 +2 미늘갑옷은 착용자에게 모든 내성 굴림에 +2 저항 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/TotalPlus3/ScalemailStandart2AllSavThr_m_DisplayNameText
 msgctxt "ed6604b5-7c23-4399-9225-4c04977787b3"
@@ -4385,7 +4385,7 @@ msgid ""
 " mud, stone call."
 msgstr ""
 "이 장화는 착용자에게 다음 주문을 시전자 레벨에 +4를 추가합니다. 해당 주문: 나무껍질, 휘감기, 흑요석 흐름, 병든 속박, 진정성 "
-"진흙, 바위의 부름"
+"진흙, 바위의 부름."
 
 #. Mechanics/Blueprints/Equipment/Boots/Artisan/ElfFemaleLeatherworker/ConnectiontoEarthBoostItem_m_DisplayNameText
 msgctxt "797d7daf-ccdc-40cc-a9b7-b65adb2a689e"
@@ -8032,7 +8032,7 @@ msgstr ""
 "민첩에 +2 상황 보너스\n"
 "건강에 +2 상황 보너스\n"
 "지능에 +2 상황 보너스\n"
-"지혜에  +2 상황 보너스\n"
+"지혜에 +2 상황 보너스\n"
 "매력에  +2 상황 보너스\n"
 "모든 내성 굴림에 +1 상황 보너스\n"
 "무기 피해 굴림에  +1 상황 보너스\n"
@@ -9488,7 +9488,7 @@ msgctxt "7b0b3ce6-8898-4482-a3b9-29c0bf2b73eb"
 msgid ""
 "The etching on the golden cup says, \"To Irovetti, the greatest bard in "
 "Pitax.\""
-msgstr "황금 컵에는  \"피탁스의 가장 위대한 시인, 이로베티에게\"라고 새겨져 있습니다."
+msgstr "황금 컵에는 \"피탁스의 가장 위대한 시인, 이로베티에게\"라고 새겨져 있습니다."
 
 #. Mechanics/Blueprints/Items/Areas/C51_WarOfTheRiverKings/IrovettiPalace/PuzzleItem2_Statuette_m_DisplayNameText
 msgctxt "1312dbbe-7905-4ba6-8046-03b700c4190e"
@@ -11886,7 +11886,7 @@ msgid ""
 "Extend Spell: An extended spell lasts twice as long as normal. A spell with a duration of concentration, instantaneous, or permanent is not affected by this feat."
 msgstr ""
 "이 로드는 착용자의 네크로맨시 주문 DC에 +2 보너스를 주고, 하루에 네 번 메타매직 (시간 연장) 특기를 적용한 것처럼 주문의 "
-"지속시간을 연장 시킬 수 있습니다.\n"
+"지속시간을 연장시킬 수 있습니다.\n"
 "일반적인 로드는 6레벨 이하의 주문에 사용할 수 있습니다.\n"
 "시간 연장 주문: 시간 연장 주문은 지속시간이 보통 주문의 2 배입니다. 지속시간 동안 집중을 요하는 주문, 즉발 주문, 영구적인 주문은 "
 "이 특기의 영향을 받지 않습니다."
@@ -11904,7 +11904,7 @@ msgid ""
 "Extend Spell: An extended spell lasts twice as long as normal. A spell with a duration of concentration, instantaneous, or permanent is not affected by this feat."
 msgstr ""
 "이 로드는 착용자의 네크로맨시 주문 DC에 +2 보너스를 주고, 하루에 네 번 메타매직 (시간 연장) 특기를 적용한 것처럼 주문의 "
-"지속시간을 연장 시킬 수 있습니다.\n"
+"지속시간을 연장시킬 수 있습니다.\n"
 "일반적인 로드는 6레벨 이하의 주문에 사용할 수 있습니다.\n"
 "시간 연장 주문: 시간 연장 주문은 지속시간이 보통 주문의 2 배입니다. 지속시간 동안 집중을 요하는 주문, 즉발 주문, 영구적인 주문은 "
 "이 특기의 영향을 받지 않습니다."
@@ -11971,7 +11971,7 @@ msgctxt "a94e3147-5e4f-4fa8-b4e0-4498754a3842"
 msgid ""
 "This rod grants its wielder the ability to make up to three kinetic blasts "
 "they cast per day quickened as though using the Quicken Spell feat."
-msgstr "이 로드는 착용자에게 하루에 세 번 초능력 블래스트를 메타매직 (신속) 특기를 적용한 것처럼 신속화 할 수 있습니다."
+msgstr "이 로드의 착용자는 하루에 세 번 초능력 블래스트를 메타매직 (신속) 특기를 적용한 것처럼 신속화 할 수 있습니다."
 
 #. Mechanics/Blueprints/Items/Rods/KinetecistRods/ChannelersRod_DisplayNameText_String
 msgctxt "55ad1cb0-a7ba-4c61-b25b-faca7156f82e"
@@ -11986,16 +11986,20 @@ msgid ""
 "Empower Spell: All variable, numeric effects of an empowered spell are increased by half including bonuses to those rolls.\n"
 "Saving throws and opposed rolls are not affected, nor are spells without random variables."
 msgstr ""
+"이 로드의 착용자는 하루에 세 번 메타매직 (강화) 특기를 적용한 것처럼 주문을 강화할 수 있습니다.\n"
+"상급 로드는 9레벨 이하의 주문에 사용할 수 있습니다.\n"
+"강화 주문: 주문의 주사위 굴림과 보너스를 포함한 모든 가변수가 1.5배로 증가합니다.\n"
+"내성 굴림이나 서로 굴림에는 적용되지 않고, 무작위 변수가 없는 주문도 강화 효과를 받지 않습니다."
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodEmpowerGreater/MetamagicRodGreaterEmpower_DisplayNameText_String
 msgctxt "0effa0ab-8ba8-4d0a-9ffb-a75e58fb8a2d"
 msgid "Greater Empower Metamagic Rod"
-msgstr ""
+msgstr "상급 강화 메타매직 로드"
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodEmpowerGreater/MetamagicRodGreaterEmpower_NonIdentifiedNameText_String
 msgctxt "b281224c-fede-414d-80ab-5acba5288829"
 msgid "Rod"
-msgstr ""
+msgstr "로드"
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodEmpowerLesser/MetamagicRodLesserEmpower_DescriptionText_String
 msgctxt "87dbd817-292e-4fa0-a581-e04592e56719"
@@ -12005,11 +12009,15 @@ msgid ""
 "Empower Spell: All variable, numeric effects of an empowered spell are increased by half including bonuses to those rolls.\n"
 "Saving throws and opposed rolls are not affected, nor are spells without random variables."
 msgstr ""
+"이 로드의 착용자는 하루에 세 번 메타매직 (강화) 특기를 적용한 것처럼 주문을 강화할 수 있습니다.\n"
+"하급 로드는 3레벨 이하의 주문에 사용할 수 있습니다.\n"
+"강화 주문: 주문의 주사위 굴림과 보너스를 포함한 모든 가변수가 1.5배로 증가합니다.\n"
+"내성 굴림이나 서로 굴림에는 적용되지 않고, 무작위 변수가 없는 주문도 강화 효과를 받지 않습니다."
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodEmpowerLesser/MetamagicRodLesserEmpower_DisplayNameText_String
 msgctxt "5054ea7d-c1f8-4052-a30f-cbea0e527ecb"
 msgid "Lesser Empower Metamagic Rod"
-msgstr ""
+msgstr "하급 강화 메타매직 로드"
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodEmpowerNormal/MetamagicRodNormalEmpower_DescriptionText_String
 msgctxt "79270303-d2c7-4b3b-b2de-90d1578bb85c"
@@ -12019,11 +12027,15 @@ msgid ""
 "Empower Spell: All variable, numeric effects of an empowered spell are increased by half including bonuses to those rolls.\n"
 "Saving throws and opposed rolls are not affected, nor are spells without random variables."
 msgstr ""
+"이 로드의 착용자는 하루에 세 번 메타매직 (강화) 특기를 적용한 것처럼 주문을 강화할 수 있습니다.\n"
+"일반적인 로드는 6레벨 이하의 주문에 사용할 수 있습니다.\n"
+"강화 주문: 주문의 주사위 굴림과 보너스를 포함한 모든 가변수가 1.5배로 증가합니다.\n"
+"내성 굴림이나 서로 굴림에는 적용되지 않고, 무작위 변수가 없는 주문도 강화 효과를 받지 않습니다."
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodEmpowerNormal/MetamagicRodNormalEmpower_DisplayNameText_String
 msgctxt "978b8d8f-dd55-4857-b590-59d7a7eaf348"
 msgid "Empower Metamagic Rod"
-msgstr ""
+msgstr "강화 메타매직 로드"
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodExtendGreater/MetamagicRodGreaterExtend_DescriptionText_String
 msgctxt "c34b75f4-2472-492b-b511-e3a9159e2816"
@@ -12032,11 +12044,15 @@ msgid ""
 "Greater rods can be used with spells of 9th level or lower.\n"
 "Extend Spell: An extended spell lasts twice as long as normal. A spell with a duration of concentration, instantaneous, or permanent is not affected by this feat."
 msgstr ""
+"이 로드의 착용자는 하루에 세 번 메타매직 (시간 연장) 특기를 적용한 것처럼 주문의 지속시간을 연장시킬 수 있습니다.\n"
+"상급 로드는 9레벨 이하의 주문에 사용할 수 있습니다.\n"
+"시간 연장 주문: 시간 연장 주문은 지속시간이 보통 주문의 2 배입니다. 지속시간 동안 집중을 요하는 주문, 즉발 주문, 영구적인 주문은 "
+"이 특기의 영향을 받지 않습니다."
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodExtendGreater/MetamagicRodGreaterExtend_DisplayNameText_String
 msgctxt "a2705fb9-1572-4204-acc7-8f30683d07ea"
 msgid "Greater Extend Metamagic Rod"
-msgstr ""
+msgstr "상급 시간 연장 메타매직 로드"
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodExtendLesser/MetamagicRodLesserExtend_DescriptionText_String
 msgctxt "90bca1f7-6399-4b62-9177-acddd0e4c453"
@@ -12045,11 +12061,15 @@ msgid ""
 "Lesser rods can be used with spells of 3rd level or lower.\n"
 "Extend Spell: An extended spell lasts twice as long as normal. A spell with a duration of concentration, instantaneous, or permanent is not affected by this feat."
 msgstr ""
+"이 로드의 착용자는 하루에 세 번 메타매직 (시간 연장) 특기를 적용한 것처럼 주문의 지속시간을 연장시킬 수 있습니다.\n"
+"하급 로드는 3레벨 이하의 주문에 사용할 수 있습니다.\n"
+"시간 연장 주문: 시간 연장 주문은 지속시간이 보통 주문의 2 배입니다. 지속시간 동안 집중을 요하는 주문, 즉발 주문, 영구적인 주문은 "
+"이 특기의 영향을 받지 않습니다."
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodExtendLesser/MetamagicRodLesserExtend_DisplayNameText_String
 msgctxt "ef81bfef-b963-4a70-b649-32887ae8dd9a"
 msgid "Lesser Extend Metamagic Rod"
-msgstr ""
+msgstr "하급 시간 연장 메타매직 로드"
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodExtendNormal/MetamagicRodNormalExtend_DescriptionText_String
 msgctxt "ebe8dae6-4af9-4f46-a5f7-5fc2c183de43"
@@ -12058,11 +12078,15 @@ msgid ""
 "Regular rods can be used with spells of 6th level or lower.\n"
 "Extend Spell: An extended spell lasts twice as long as normal. A spell with a duration of concentration, instantaneous, or permanent is not affected by this feat."
 msgstr ""
+"이 로드의 착용자는 하루에 세 번 메타매직 (시간 연장) 특기를 적용한 것처럼 주문의 지속시간을 연장시킬 수 있습니다.\n"
+"일반적인 로드는 6레벨 이하의 주문에 사용할 수 있습니다.\n"
+"시간 연장 주문: 시간 연장 주문은 지속시간이 보통 주문의 2 배입니다. 지속시간 동안 집중을 요하는 주문, 즉발 주문, 영구적인 주문은 "
+"이 특기의 영향을 받지 않습니다."
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodExtendNormal/MetamagicRodNormalExtend_DisplayNameText_String
 msgctxt "5e6cb30d-8f75-42c4-9f4b-6b18ba63e2b3"
 msgid "Extend Metamagic Rod"
-msgstr ""
+msgstr "시간 연장 메타매직 로드"
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodMasterpiece/MetamagicRodMasterpiece_DescriptionText_String
 msgctxt "e0ac84e4-110d-4f00-b07b-de70ad217320"
@@ -12072,11 +12096,13 @@ msgid ""
 " and Empowered as though using Maximize Spell and Empower Spell feats, and "
 "ignore spell resistance and magic immunity of the target."
 msgstr ""
+"이 로드의 착용자는 하루에 세 번 주문에 원초적인 마법의 정수를 주입합니다. 주문이 메타매직 (극대화), 메타매직 (강화) 특기를 적용한 "
+"것처럼 극대화되고 강화되고, 대상의 주문 저항과 마법면역을 무시합니다."
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodMasterpiece/MetamagicRodMasterpiece_DisplayNameText_String
 msgctxt "cc0c54bc-b7e1-4540-aee2-9df18d58180e"
 msgid "Grandmaster's Rod"
-msgstr ""
+msgstr "거장의 로드"
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodMaximizeGreater/MetamagicRodGreaterMaximize_DescriptionText_String
 msgctxt "34156af3-4554-40d4-858d-c35429d0f423"
@@ -12085,11 +12111,15 @@ msgid ""
 "Greater rods can be used with spells of 9th level or lower.\n"
 "Maximize Spell: All variable, numeric effects of a spell modified by this feat are maximized. Saving throws and opposed rolls are not affected, nor are spells without random variables."
 msgstr ""
+"이 로드의 착용자는 하루에 세 번 메타매직 (극대화) 특기를 적용한 것처럼 주문을 극대화 할 수 있습니다.\n"
+"상급 로드는 9레벨 이하의 주문에 사용할 수 있습니다.\n"
+"극대화 주문: 주문의 모든 가변수가 최대값이 됩니다. 내성 굴림이나 서로 굴림에는 적용되지 않고, 무작위 변수가 없는 주문도 극대화 "
+"효과를 받지 않습니다."
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodMaximizeGreater/MetamagicRodGreaterMaximize_DisplayNameText_String
 msgctxt "b441bdb2-badf-4913-b5e7-a20ffdbdb223"
 msgid "Greater Maximize Metamagic Rod"
-msgstr ""
+msgstr "상급 극대화 메타매직 로드"
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodMaximizeLesser/MetamagicRodLesserMaximize_DescriptionText_String
 msgctxt "aa2a31fa-5863-4b14-9c6f-ca9abf8b12bc"
@@ -12098,11 +12128,15 @@ msgid ""
 "Lesser rods can be used with spells of 3rd level or lower.\n"
 "Maximize Spell: All variable, numeric effects of a spell modified by this feat are maximized. Saving throws and opposed rolls are not affected, nor are spells without random variables."
 msgstr ""
+"이 로드의 착용자는 하루에 세 번 메타매직 (극대화) 특기를 적용한 것처럼 주문을 극대화 할 수 있습니다.\n"
+"하급 로드는 3레벨 이하의 주문에 사용할 수 있습니다.\n"
+"극대화 주문: 주문의 모든 가변수가 최대값이 됩니다. 내성 굴림이나 서로 굴림에는 적용되지 않고, 무작위 변수가 없는 주문도 극대화 "
+"효과를 받지 않습니다."
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodMaximizeLesser/MetamagicRodLesserMaximize_DisplayNameText_String
 msgctxt "8aeda2b5-6e43-4b37-ba8d-faf53d2ff171"
 msgid "Lesser Maximize Metamagic Rod"
-msgstr ""
+msgstr "하급 극대화 메타매직 로드"
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodMaximizeNormal/MetamagicRodNormalMaximize_DescriptionText_String
 msgctxt "f66a5b82-738e-40da-8f49-73a8294dd6c6"
@@ -12111,11 +12145,15 @@ msgid ""
 "Regular rods can be used with spells of 6th level or lower.\n"
 "Maximize Spell: All variable, numeric effects of a spell modified by this feat are maximized. Saving throws and opposed rolls are not affected, nor are spells without random variables."
 msgstr ""
+"이 로드의 착용자는 하루에 세 번 메타매직 (극대화) 특기를 적용한 것처럼 주문을 극대화 할 수 있습니다.\n"
+"일반적인 로드는 6레벨 이하의 주문에 사용할 수 있습니다.\n"
+"극대화 주문: 주문의 모든 가변수가 최대값이 됩니다. 내성 굴림이나 서로 굴림에는 적용되지 않고, 무작위 변수가 없는 주문도 극대화 "
+"효과를 받지 않습니다."
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodMaximizeNormal/MetamagicRodNormalMaximize_DisplayNameText_String
 msgctxt "793ae5e4-3079-4b3c-93c8-7d094c1da511"
 msgid "Maximize Metamagic Rod"
-msgstr ""
+msgstr "극대화 메타매직 로드"
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodQuickenGreater/MetamagicRodGreaterQuicken_DescriptionText_String
 msgctxt "6265a132-73d6-4eee-b330-fb7568076a65"
@@ -12124,11 +12162,15 @@ msgid ""
 "Greater rods can be used with spells of 9th level or lower.\n"
 "Quicken Spell: Casting a quickened spell is a swift action. You can perform another action, even casting another spell, in the same round as you cast a quickened spell. A spell whose casting time is more than 1 round or 1 full-round action cannot be quickened."
 msgstr ""
+"이 로드의 착용자는 하루에 세 번 메타매직 (신속) 특기를 적용한 것처럼 주문을 신속화 할 수 있습니다.\n"
+"상급 로드는 9레벨 이하의 주문에 사용할 수 있습니다.\n"
+"신속 주문: 주문을 신속 행동으로 시전합니다. 신속 주문을 시전한 라운드에는 주문을 한 번 더 시전하는 등 다른 행동을 할 수 있습니다. "
+"시전시간이 1 라운드나 1 라운드 전체 행동을 넘어가는 주문은 신속화할 수 없습니다."
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodQuickenGreater/MetamagicRodGreaterQuicken_DisplayNameText_String
 msgctxt "88174df7-14c2-401e-8657-3fa749ef607d"
 msgid "Greater Quicken Metamagic Rod"
-msgstr ""
+msgstr "상급 신속 메타매직 로드"
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodQuickenLesser/MetamagicRodLesserQuicken_DescriptionText_String
 msgctxt "26bd0b9d-3ea5-404e-bf73-1c2825daa183"
@@ -12137,11 +12179,15 @@ msgid ""
 "Lesser rods can be used with spells of 3rd level or lower.\n"
 "Quicken Spell: Casting a quickened spell is a swift action. You can perform another action, even casting another spell, in the same round as you cast a quickened spell. A spell whose casting time is more than 1 round or 1 full-round action cannot be quickened."
 msgstr ""
+"이 로드의 착용자는 하루에 세 번 메타매직 (신속) 특기를 적용한 것처럼 주문을 신속화 할 수 있습니다.\n"
+"하급 로드는 3레벨 이하의 주문에 사용할 수 있습니다.\n"
+"신속 주문: 주문을 신속 행동으로 시전합니다. 신속 주문을 시전한 라운드에는 주문을 한 번 더 시전하는 등 다른 행동을 할 수 있습니다. "
+"시전시간이 1 라운드나 1 라운드 전체 행동을 넘어가는 주문은 신속화할 수 없습니다."
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodQuickenLesser/MetamagicRodLesserQuicken_DisplayNameText_String
 msgctxt "c76786fe-5d5b-43bb-afd1-5d4d15186862"
 msgid "Lesser Quicken Metamagic Rod"
-msgstr ""
+msgstr "하급 신속 메타매직 로드"
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodQuickenNormal/MetamagicRodNormalQuicken_DescriptionText_String
 msgctxt "28073763-3974-4620-b98e-a83ae4af0c5e"
@@ -12150,11 +12196,15 @@ msgid ""
 "Regular rods can be used with spells of 6th level or lower.\n"
 "Quicken Spell: Casting a quickened spell is a swift action. You can perform another action, even casting another spell, in the same round as you cast a quickened spell. A spell whose casting time is more than 1 round or 1 full-round action cannot be quickened."
 msgstr ""
+"이 로드의 착용자는 하루에 세 번 메타매직 (신속) 특기를 적용한 것처럼 주문을 신속화 할 수 있습니다.\n"
+"일반적인 로드는 6레벨 이하의 주문에 사용할 수 있습니다.\n"
+"신속 주문: 주문을 신속 행동으로 시전합니다. 신속 주문을 시전한 라운드에는 주문을 한 번 더 시전하는 등 다른 행동을 할 수 있습니다. "
+"시전시간이 1 라운드나 1 라운드 전체 행동을 넘어가는 주문은 신속화할 수 없습니다."
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodQuickenNormal/MetamagicRodNormalQuicken_DisplayNameText_String
 msgctxt "cb62e61d-d023-4d66-a428-0fe13e92ee5e"
 msgid "Quicken Metamagic Rod"
-msgstr ""
+msgstr "신속 메타매직 로드"
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodReachGreater/MetamagicRodGreaterReach_DescriptionText_String
 msgctxt "9644aee4-3262-4e89-aac8-658bc0b8be8b"
@@ -12163,11 +12213,14 @@ msgid ""
 "Greater rods can be used with spells of 9th level or lower.\n"
 "Reach Spell: You can alter a spell with a range of touch, close, or medium to increase its range by one range category, using the following order: touch, close, medium, and long."
 msgstr ""
+"이 로드의 착용자는 하루에 세 번 메타매직 (거리 연장) 특기를 적용한 것처럼 주문의 거리를 연장할 수 있습니다.\n"
+"상급 로드는 9레벨 이하의 주문에 사용할 수 있습니다.\n"
+"거리 연장 주문: 접촉, 근처, 중간 사거리를 가진 주문을 변경하여 사거리 범주를 한 단계씩 (근처, 중간, 장거리로) 올릴 수 있습니다."
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodReachGreater/MetamagicRodGreaterReach_DisplayNameText_String
 msgctxt "70fe7baf-5f2e-4d0f-9e7c-3f471a3c19a3"
 msgid "Greater Reach Metamagic Rod"
-msgstr ""
+msgstr "상급 거리 연장 메타매직 로드"
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodReachLesser/MetamagicRodLesserReach_DescriptionText_String
 msgctxt "1744f435-526f-4778-920e-391dc5e48719"
@@ -12176,11 +12229,14 @@ msgid ""
 "Lesser rods can be used with spells of 3rd level or lower.\n"
 "Reach Spell: You can alter a spell with a range of touch, close, or medium to increase its range by one range category, using the following order: touch, close, medium, and long."
 msgstr ""
+"이 로드의 착용자는 하루에 세 번 메타매직 (거리 연장) 특기를 적용한 것처럼 주문의 거리를 연장할 수 있습니다.\n"
+"하급 로드는 3레벨 이하의 주문에 사용할 수 있습니다.\n"
+"거리 연장 주문: 접촉, 근처, 중간 사거리를 가진 주문을 변경하여 사거리 범주를 한 단계씩 (근처, 중간, 장거리로) 올릴 수 있습니다."
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodReachLesser/MetamagicRodLesserReach_DisplayNameText_String
 msgctxt "981f7d1a-c111-4f54-8b69-597f42a0db48"
 msgid "Lesser Reach Metamagic Rod"
-msgstr ""
+msgstr "하급 거리 연장 메타매직 로드"
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodReachNormal/MetamagicRodNormalReach_DescriptionText_String
 msgctxt "f2ad9230-91a2-41a4-a0b8-90655102b79b"
@@ -12189,11 +12245,14 @@ msgid ""
 "Regular rods can be used with spells of 6th level or lower.\n"
 "Reach Spell: You can alter a spell with a range of touch, close, or medium to increase its range by one range category, using the following order: touch, close, medium, and long."
 msgstr ""
+"이 로드의 착용자는 하루에 세 번 메타매직 (거리 연장) 특기를 적용한 것처럼 주문의 거리를 연장할 수 있습니다.\n"
+"일반적인 로드는 6레벨 이하의 주문에 사용할 수 있습니다.\n"
+"거리 연장 주문: 접촉, 근처, 중간 사거리를 가진 주문을 변경하여 사거리 범주를 한 단계씩 (근처, 중간, 장거리로) 올릴 수 있습니다."
 
 #. Mechanics/Blueprints/Items/Rods/MetamagicRodReachNormal/MetamagicRodNormalReach_DisplayNameText_String
 msgctxt "46d465e9-483c-4fd9-8efd-1e8a2c1022af"
 msgid "Reach Metamagic Rod"
-msgstr ""
+msgstr "거리 연장 메타매직 로드"
 
 #. Mechanics/Blueprints/Items/Rods/Oculus/Oculus_DescriptionText_String
 msgctxt "d928bdbd-91c6-4647-b14e-3b68d67b5d0a"
@@ -12205,21 +12264,25 @@ msgid ""
 "succeed on a Wisdom check (DC 15), to avoid seeing something truly "
 "unsettling... Or worse – be seen by it."
 msgstr ""
+"이 아티팩트는 착용자가 시전하는 모든 주문의 지속 시간을 메타매직 (시간 연장) 특기를 적용한 것처럼 두 배로 늘립니다. 착용자는 하루에 "
+"세 번 이것을 들여다 보아 20 레벨 위저드의 진실의 시야 주문 시전 효과를 누릴 수 있습니다. 그러나, 이 보석을 바라보는 것은 "
+"위험합니다. 착용자가 이 능력을 사용할 때마다, DC 15 지혜 판정에 실패하면 보석을 통해 진정으로 불안한 무언가...나 그 이상의 "
+"것을 목격하게 됩니다."
 
 #. Mechanics/Blueprints/Items/Rods/Oculus/Oculus_DisplayNameText_String
 msgctxt "40011dde-8ef4-4ade-a986-3765ef5f1934"
 msgid "Oculus of Abaddon"
-msgstr ""
+msgstr "나락의 눈"
 
 #. Mechanics/Blueprints/Items/Rods/Oculus/Oculus_NonIdentifiedNameText_String
 msgctxt "25c57241-0fce-40b8-9577-0b34596a0892"
 msgid "Sinister Gem"
-msgstr ""
+msgstr "불길한 보석"
 
 #. Mechanics/Blueprints/Items/Rods/PeridotWyverns/CharoiteWyvernItem_DisplayNameText_String
 msgctxt "320f326e-1557-4fde-99a1-1862e46c9688"
 msgid "Charoite Wyvern"
-msgstr ""
+msgstr "차로아이트 와이번"
 
 #. Mechanics/Blueprints/Items/Rods/PeridotWyverns/CharoiteWyvernSpell_Description_String
 msgctxt "b4472eb7-39bb-42fa-bf37-70b2707da69c"
@@ -12230,11 +12293,14 @@ msgid ""
 "draws power from the owner of the figurine, and its HD is equal to the "
 "summoner's character level, with a maximum of 20 HD."
 msgstr ""
+"하루에 한 번 고대 와이번을 10분 동안 소환할 수 있는 조각상. 고대 와이번은 치명적인 물기와 맹금 발톱, 쏘기 공격을 가지고 있고, "
+"적들에게 독의 숨결을 토해낼 수 있습니다. 와이번은 조각상의 소유자의 힘을 끌어 쓰기 때문에, 소환자의 캐릭터 레벨과 같은 HD를 "
+"가집니다. 최대 HD는 20입니다."
 
 #. Mechanics/Blueprints/Items/Rods/PeridotWyverns/CharoiteWyvernSpell_DisplayName_String
 msgctxt "ced20732-0592-4a04-a9fc-8cca2b8597a4"
 msgid "Charoite Wyvern"
-msgstr ""
+msgstr "차로아이트 와이번"
 
 #. Mechanics/Blueprints/Items/Rods/PeridotWyverns/LapisLazuliWyvernItem_DescriptionText_String
 msgctxt "e624d965-2084-4ec2-9434-8e83c5f680f3"
@@ -12244,11 +12310,13 @@ msgid ""
 "The wyvern draws power from the owner of the figurine, and its HD is equal "
 "to the summoner's character level, with a maximum of 16 HD."
 msgstr ""
+"하루에 한 번 과묵한 와이번을 10분 동안 소환할 수 있는 조각상. 과묵한 와이번은 치명적인 물기와 쏘기 공격을 가할 수 있습니다. "
+"와이번은 조각상의 소유자의 힘을 끌어 쓰기 때문에, 소환자의 캐릭터 레벨과 같은 HD를 가집니다. 최대 HD는 16입니다."
 
 #. Mechanics/Blueprints/Items/Rods/PeridotWyverns/LapisLazuliWyvernItem_DisplayNameText_String
 msgctxt "50368fe5-be46-445c-998e-646855779979"
 msgid "Lapis Lazuli Wyvern"
-msgstr ""
+msgstr "청금석 와이번"
 
 #. Mechanics/Blueprints/Items/Rods/PeridotWyverns/PeridotWyvernItem_DescriptionText_String
 msgctxt "7e87ebbb-e915-4c0a-a3fe-42f8f0efef55"
@@ -12257,11 +12325,13 @@ msgid ""
 "minutes. The wyvern draws power from the owner of the figurine, and its HD "
 "is equal to the summoner's character level, with a maximum of 12 HD."
 msgstr ""
+"하루에 한 번 강력한 와이번을 10분 동안 소환할 수 있는 조각상. 와이번은 조각상의 소유자의 힘을 끌어 쓰기 때문에, 소환자의 캐릭터 "
+"레벨과 같은 HD를 가집니다. 최대 HD는 12입니다."
 
 #. Mechanics/Blueprints/Items/Rods/PeridotWyverns/PeridotWyvernItem_DisplayNameText_String
 msgctxt "3e66faee-c6ec-4f25-a3de-f2a793139c6a"
 msgid "Peridot Wyvern"
-msgstr ""
+msgstr "감람석 와이번"
 
 #. Mechanics/Blueprints/Items/Rods/PeridotWyverns/PeridotWyvernItem_FlavorText_String
 msgctxt "af7d19a2-e87b-4395-b265-8469e7197d0a"
@@ -12276,16 +12346,20 @@ msgid ""
 "previously imagined. This figurine is one several that he crafted during the"
 " course of his research."
 msgstr ""
+"노움 소서러 반텀 비네어스는 가룬드 대륙에 다녀온 후 이 조각상을 만들었습니다. 그곳의 공룡들에게 홀딱 빠져버린 그는 공룡을 하나 "
+"길러보려고 했습니다. 슬프게도 강대한 공룡은 애완동물로는 적합하지 않았고, 대신 공룡과 닮은 것을 조각상으로 만들어 놀라운 힘을 "
+"불어넣기로 하였습니다. 그 조각상을 만드는 데 필요한 기술을 연구하던 중, 그는 조각상이 전혀 공룡과 닮지 않았다는 것과 애완 동물을 "
+"키우는 게 생각보다 복잡한 일이라는 것을 깨닫게 되었습니다. 이 조각상은 그가 연구 과정에서 만들었던 시제품 중 하나입니다."
 
 #. Mechanics/Blueprints/Items/Rods/PeridotWyverns/PeridotWyvernItem_NonIdentifiedNameText_String
 msgctxt "01f7680e-db3a-402e-95ed-d0152e9564b7"
 msgid "Figurine"
-msgstr ""
+msgstr "조각상"
 
 #. Mechanics/Blueprints/Items/Scrolls/ScrollOfAtonement_m_DisplayNameText
 msgctxt "19401c76-df54-4e5f-8842-e3788e74e180"
 msgid "Scroll of Atonement"
-msgstr ""
+msgstr "속죄의 두루마리"
 
 #. Mechanics/Blueprints/Items/Scrolls/Tooltip_ClericHere_String
 msgctxt "dde7656b-7251-4aba-8a00-d2dd593c14a2"
@@ -12294,16 +12368,18 @@ msgid ""
 "for you. To cast this spell on a party member, just use the scroll in that "
 "character's inventory."
 msgstr ""
+"현재 우호적인 성직자가 이 두루마리를 읽어줄 수 있는 장소에 있습니다. 일행에게 이 주문을 시전하려면 해당 캐릭터의 인벤토리에서 이 "
+"두루마리를 사용하십시오."
 
 #. Mechanics/Blueprints/Items/Scrolls/Artisan/ArtisanScroll_fla_String
 msgctxt "7f7adcd6-515e-40ca-a21f-6f7715fa27cd"
 msgid "An exquisite scroll of unusual power, scribed by a true virtuoso."
-msgstr ""
+msgstr "진정한 거장이 정교하게 써낸 비범한 권능의 두루마리."
 
 #. Mechanics/Blueprints/Items/Scrolls/Level5/ScrollOfRaiseDead_Prologue_m_DisplayNameText
 msgctxt "78986918-1ff1-47ad-ab65-29d1134f64dc"
 msgid "Signed Scroll of Raise Dead"
-msgstr ""
+msgstr "서명된 소생의 두루마리"
 
 #. Mechanics/Blueprints/Items/Scrolls/Level5/ScrollOfRaiseDead_Prologue_m_FlavorText
 msgctxt "5cd750c6-769b-4cef-8551-0f4d3dbedb55"
@@ -12311,7 +12387,7 @@ msgid ""
 "\"To {Name}, wishing you the best of luck in your endeavours. I pray that you'll never need to use it.\n"
 "Jamandi Aldori\""
 msgstr ""
-"\"{Name}께, 당신의 노력에 행운이 있기를 바랍니다. 당신이 그걸 쓸 일이 없기를 진심으로 기도합니다.\n"
+"\"{Name}, 자네의 노력에 행운이 있기를 바라네. 이걸 쓸 일이 없기를 진심으로 기도하지.\n"
 "자만디 알도리\""
 
 #. Mechanics/Blueprints/Items/Utility/BeltLantern_m_DescriptionText_1
@@ -12319,22 +12395,22 @@ msgctxt "8da79eea-509d-4e38-86dd-e62774df7cc6"
 msgid ""
 "This magical lantern emits soft light. It can be conveniently hooked to a "
 "belt."
-msgstr ""
+msgstr "이 마법의 등불은 부드러운 빛을 냅니다. 편리하게 허리띠에 걸어둘 수 있습니다."
 
 #. Mechanics/Blueprints/Items/Utility/BPCoins_m_DisplayNameText
 msgctxt "a11f59de-daf8-4c6f-ad92-4065e70b8df2"
 msgid "Build Points"
-msgstr ""
+msgstr "건설 점수"
 
 #. Mechanics/Blueprints/Items/Utility/BPCoins_m_FlavorText
 msgctxt "af83a50e-9bab-45c8-9189-04bc4aad31bc"
 msgid "Various materials and supplies essential for building your kingdom."
-msgstr ""
+msgstr "왕국을 건설하는 데 필요한 다양한 재료와 물자."
 
 #. Mechanics/Blueprints/Items/Utility/BPCoins_m_FlavorText_1
 msgctxt "f5747aea-a38d-4a86-a67d-e6deb15fee1b"
 msgid "All kinds of materials and supplies essential for building a kingdom."
-msgstr ""
+msgstr "왕국을 건설하는 데 필요한 다양한 재료와 물자."
 
 #. Mechanics/Blueprints/Items/Utility/ConsumableEventBonusItem_m_DescriptionText
 msgctxt "2c900ccb-a815-442e-b03c-ec2dc0e4c30e"
@@ -12343,16 +12419,17 @@ msgid ""
 "events, increasing their chances for success and completely negating the "
 "chance of Disaster."
 msgstr ""
+"위기 점수는 보좌관이 왕국 사건을 해결할 때 성공할 확률을 높이고 재난이 일어날 확률을 완전히 배제하도록 도움을 줄 수 있습니다."
 
 #. Mechanics/Blueprints/Items/Utility/ConsumableEventBonusItem_m_DisplayNameText
 msgctxt "9987a727-0eaf-4975-b7cc-4131f679c597"
 msgid "Crisis Points"
-msgstr ""
+msgstr "위기 점수"
 
 #. Mechanics/Blueprints/Items/Utility/ConsumableEventBonusItem_m_FlavorText
 msgctxt "f462f247-7839-47e3-871d-4e1a2440c0d9"
 msgid "Invalueble reserve funds acquired when developing a kingdom."
-msgstr ""
+msgstr "왕국이 발전하면서 얻게 되는 요긴한 예비금."
 
 #. Mechanics/Blueprints/Items/Utility/GoldCoins_m_DisplayNameText
 msgctxt "96ec39a1-7a74-47b1-8826-fe8d539dea03"
@@ -12381,17 +12458,17 @@ msgctxt "161e0663-c9df-46ed-89d0-ff26f80b0354"
 msgid ""
 "A long time ago this wand used to summon a terrible invisible monster. "
 "Unfortunately, this wand's power waned over time."
-msgstr ""
+msgstr "오래전 이 완드는 끔찍한 투명 괴물을 소환하는데 사용되었습니다. 아쉽게도 시간이 지나 이 완드의 힘이 다해버렸습니다."
 
 #. Mechanics/Blueprints/Items/Wands/Artisan/ArtisanWand_flav_String
 msgctxt "67b6c581-16ce-4e3b-bbf1-1eed20198117"
 msgid "An exquisite wand of unusual power, crafted by a true virtuoso."
-msgstr ""
+msgstr "진정한 거장이 정교하게 만들어낸 비범한 능력의 완드."
 
 #. Mechanics/Blueprints/Items/Weapons/Rapier_m_DisplayNameText
 msgctxt "d301d79c-a2d4-4070-a29a-11d975876e76"
 msgid "Rapier"
-msgstr ""
+msgstr "레이피어"
 
 #. Mechanics/Blueprints/Weapons/LongbowMedium_m_DisplayNameText
 msgctxt "0da8bbf8-227c-4400-aca6-d43d520f6ca5"
@@ -12838,16 +12915,18 @@ msgid ""
 "weapon's enhancement bonus is +2 better than its actual bonus. It also deals"
 " an extra 2d6 points of damage against such foes."
 msgstr ""
+"파멸의 무기는 특정 적들에게 특히 유효한 무기입니다. 해당 적들에 대해 무기의 강화 보너스가 실제 보너스보다 +2 높아집니다. 또한 해당 "
+"적들에게 2d6점의 추가 피해를 입힙니다."
 
 #. Mechanics/Blueprints/Weapons/Enchantments/BaneOrcGoblin_m_EnchantName
 msgctxt "b7f2cc61-3f1f-4934-81f3-22038eb58498"
 msgid "Orc and Goblin Bane"
-msgstr ""
+msgstr "오크 및 고블린 파멸"
 
 #. Mechanics/Blueprints/Weapons/Enchantments/BaneOrcGoblin_m_Prefix
 msgctxt "c3a2ed75-93c7-48e3-9a55-04644beb3a6d"
 msgid "Orc and Goblin Bane"
-msgstr ""
+msgstr "오크 및 고블린 파멸"
 
 #. Mechanics/Blueprints/Weapons/Enchantments/BaneOutsiderChaotic_m_Description
 msgctxt "a0149f33-a4e5-4703-9e60-501a28f29c29"
@@ -13031,11 +13110,13 @@ msgid ""
 "per round. Bleed will continue until the target receives magic healing or "
 "leaves combat."
 msgstr ""
+"출혈 무기가 명중할 때마다, 대상은 HP에 매 라운드 1d6 점의 출혈이 발생합니다. 출혈은 마법적 치유를 받거나 전투를 떠날 때까지 "
+"지속됩니다."
 
 #. Mechanics/Blueprints/Weapons/Enchantments/Bleed_m_EnchantName
 msgctxt "af8e3698-7117-4fb0-9edd-1929af315753"
 msgid "Bleed"
-msgstr ""
+msgstr "출혈"
 
 #. Mechanics/Blueprints/Weapons/Enchantments/Bleed_m_Prefix
 msgctxt "28a03acd-642c-41d2-a259-50690f30564b"
@@ -13045,7 +13126,7 @@ msgstr "변이체 파멸"
 #. Mechanics/Blueprints/Weapons/Enchantments/Bleed_m_Prefix_1
 msgctxt "ca1f4c85-0530-4da6-9c88-3c59f92004d8"
 msgid "Bleed"
-msgstr ""
+msgstr "출혈"
 
 #. Mechanics/Blueprints/Weapons/Enchantments/Brass2d8_m_Description
 msgctxt "c3f98828-9a9e-4fc4-a555-0d6def531fcd"
@@ -13111,32 +13192,26 @@ msgid ""
 "demons and fey creatures, is forged at a lower temperature to preserve its "
 "delicate properties."
 msgstr ""
+"깊은 지하에서 채굴된 이 철은 그 섬세한 특성을 보존하기 위해 낮은 온도에서 단조됩니다. 데몬과 페이 크리처에 효과적인 것으로 알려져 "
+"있습니다."
 
 #. Mechanics/Blueprints/Weapons/Enchantments/ColdIronWeaponEnchantment_m_EnchantName
 msgctxt "f30eeea6-03db-4b98-b0fa-1d3f73bdd2ce"
 msgid "Cold Iron"
-msgstr ""
+msgstr "콜드 아이언"
 
 #. Mechanics/Blueprints/Weapons/Enchantments/Corrosive2d6_m_Description
-#, fuzzy
-#| msgid ""
-#| "Corrosive weapon deals an extra 2d6 points of acid damage on a successful "
-#| "hit."
 msgctxt "35b4be43-bffe-448f-af62-71691c11e2fc"
 msgid ""
 "Caustic weapon deals an extra 2d6 points of acid damage on a successful hit."
 msgstr "부식성 무기는 명중시 2d6점의 산성 피해를 추가합니다."
 
 #. Mechanics/Blueprints/Weapons/Enchantments/Corrosive2d6_m_EnchantName
-#, fuzzy
-#| msgid "Greater Corrosive"
 msgctxt "9600a532-64c4-485b-8c40-737ef5a0c158"
 msgid "Caustic"
-msgstr "상급 부식성"
+msgstr "부식성"
 
 #. Mechanics/Blueprints/Weapons/Enchantments/Corrosive2d6_m_Prefix
-#, fuzzy
-#| msgid "Corrosive"
 msgctxt "3d381057-f38e-4eaf-b6c2-1d62c4f56fd6"
 msgid "Caustic"
 msgstr "부식성"
@@ -13650,7 +13725,7 @@ msgctxt "047735f4-5305-4f58-804f-28241a3f776b"
 msgid ""
 "When you have a touch spell charged, the weapon's enhancement bonus is +2 "
 "better than its actual bonus."
-msgstr "예리한"
+msgstr "접촉 주문이 충전되면 무기의 강화 보너스가 +2 만큼 더 증가합니다."
 
 #. Mechanics/Blueprints/Weapons/Enchantments/Mageblade_m_EnchantName
 msgctxt "4925071c-fa06-4f86-98c1-bcd12d761607"
@@ -13682,24 +13757,24 @@ msgstr "마법"
 #. Mechanics/Blueprints/Weapons/Enchantments/MagicWeapon_m_Prefix_1
 msgctxt "7bb0881b-7960-47cd-aa23-1294e7fbdc91"
 msgid "Magic"
-msgstr "마버"
+msgstr "마법"
 
 #. Mechanics/Blueprints/Weapons/Enchantments/Masterwork_m_Description
 msgctxt "5c1937d2-9c76-4919-a97f-123777407847"
 msgid ""
 "A masterwork weapon is a finely crafted version of a normal weapon. Wielding"
 " it provides a +1 enhancement bonus on attack rolls."
-msgstr "마스터워크 무기는 일반 무기를 더 정교하게 만든 것입니다. 이 무기는 명중 굴림에 +1 강화 보너스를 제공합니다."
+msgstr "명품 무기는 일반 무기를 더 정교하게 만든 것입니다. 이 무기는 명중 굴림에 +1 강화 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Weapons/Enchantments/Masterwork_m_EnchantName
 msgctxt "fbd8605f-c646-4e92-9901-f7793c57f962"
 msgid "Masterwork"
-msgstr "마스터워크"
+msgstr "명품"
 
 #. Mechanics/Blueprints/Weapons/Enchantments/Masterwork_m_Prefix
 msgctxt "f69616f9-1e11-494b-adc8-52e41aa0a8ce"
 msgid "Masterwork"
-msgstr "마스터워크"
+msgstr "명품"
 
 #. Mechanics/Blueprints/Weapons/Enchantments/MithralWeaponEnchantment_m_Description
 msgctxt "370cc00e-a10f-48da-a16d-7091c0b28205"
@@ -13712,16 +13787,20 @@ msgid ""
 "silver for the purpose of overcoming damage reduction. Weapons fashioned "
 "from mithral are always masterwork items as well."
 msgstr ""
+"미스랄은 은빛을 띄면서 반짝이는 매우 희귀한 금속으로 강철보다 가볍지만 그만큼 견고합니다. 미스랄로 만든 물품의 무게는 다른 금속으로 "
+"만든 같은 물품의 절반입니다. 무기의 경우, 이 가벼운 무게는 무기의 크기 범주를 바꾸거나 다루기 쉽게 (무거운 무기를 가벼운 무기로, "
+"양손 무기를 한손 무기로) 만들어주지 않습니다. 미스랄 무기는 피해 감소를 무시할 때 은으로 간주합니다. 또한 미스랄로 만든 무기는 항상 "
+"명품입니다."
 
 #. Mechanics/Blueprints/Weapons/Enchantments/MithralWeaponEnchantment_m_EnchantName
 msgctxt "968d3992-149d-4895-8f57-0f46745a7f2a"
 msgid "Mithral"
-msgstr ""
+msgstr "미스랄"
 
 #. Mechanics/Blueprints/Weapons/Enchantments/MithralWeaponEnchantment_m_Prefix
 msgctxt "90e84a7c-0d4d-4b59-82ef-b89041901d20"
 msgid "Mithral"
-msgstr ""
+msgstr "미스랄"
 
 #. Mechanics/Blueprints/Weapons/Enchantments/Necrotic_Description_String
 msgctxt "10b19c66-15b9-4b89-8182-a91144b1b184"
@@ -13789,7 +13868,7 @@ msgctxt "3880f3de-bb30-40bf-a9e4-4818a552880e"
 msgid ""
 "Radiant weapon is imbued with life essence itself and deals an extra 1d6 "
 "points of positive energy damage on a successful hit."
-msgstr "광휘 무기는 생명의 정수 그 자체에 깃들어 있어 명중시 1d6 점의 양에너지 피해를 추가합니다."
+msgstr "광휘 무기는 생명의 정수 그 자체가 깃들어 있어 명중시 1d6 점의 양에너지 피해를 추가합니다."
 
 #. Mechanics/Blueprints/Weapons/Enchantments/Radiant_m_EnchantName
 msgctxt "cbe57106-4118-4c3c-913b-e607a763eb92"
@@ -14171,15 +14250,11 @@ msgid "Loyal"
 msgstr "충직"
 
 #. Mechanics/Blueprints/Weapons/Enchantments/Unique/LordProtectorEnchant_m_Description
-#, fuzzy
-#| msgid ""
-#| "A loyal weapon refuses to damage the allies of its wielder. Weapon's "
-#| "enhancement bonus is reduced by -5 against friendly targets."
 msgctxt "5541ef94-3185-45e4-82f4-c3e62bd65af0"
 msgid ""
 "A loyal weapon refuses to damage the allies of its wielder. Weapon's attack "
 "bonus is reduced by -5 against friendly targets."
-msgstr "충직한 무기는 아군에게 입히는 피해를 줄여줍니다. 아군을 공격할 때 강화 보너스가 -5 만큼 감소합니다."
+msgstr "충직한 무기는 아군에게 입히는 피해를 줄여줍니다. 아군을 공격할 때 명중 보너스가 -5 만큼 감소합니다."
 
 #. Mechanics/Blueprints/Weapons/Enchantments/Unique/LordProtectorEnchant_m_Prefix
 msgctxt "5a35cdf3-6bbe-4d21-9719-d9198aa113f3"
@@ -14328,15 +14403,11 @@ msgid "Flaming Rapier +1"
 msgstr "불꽃의 레이피어"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/BattleaxeOfEarthWrath_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +3 battleaxe grants its wielder the ability to cast inspiring recovery "
-#| "two times per day."
 msgctxt "87e27da8-0a07-4ae8-af71-7600d4912c30"
 msgid ""
 "This +3 battleaxe grants its wielder the ability to cast inspiring recovery "
 "two times per day as a 11th level cleric."
-msgstr "이 +3 전투도끼는 착용자가 하루에 두 번 감동적인 회복을 시전할 수 있게 해줍니다."
+msgstr "이 +3 전투도끼는 착용자가 하루에 두 번 11 레벨 클레릭의 감동적인 회복을 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/BattleaxeOfEarthWrath_m_DisplayNameText
 msgctxt "ab5ffa09-583b-410a-9dd5-8420b6c050e8"
@@ -14344,18 +14415,14 @@ msgid "Earth's Wrath"
 msgstr "대지의 분노"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/StaffOfBurnedOak_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +2 quarterstaff grants its wielder the ability to cast fire snake spell"
-#| " twice per day, and burning hands spell at will."
 msgctxt "bcd01f7a-f157-4adb-8d61-505322ca28c5"
 msgid ""
 "This +2 quarterstaff grants its wielder the ability to cast fire snake spell"
 " twice per day as a 9th level wizard, and burning hands spell at will as a "
 "wizard of level equal to the wielder's character level."
 msgstr ""
-"이 +2 육척봉은 사용자에게 하루에 두 번 불뱀 주문을 시전할 수있는 능력을 부여하며, 불타는 손 주문을 마음대로 시전할 수 있게 "
-"해줍니다."
+"이 +2 육척봉은 사용자에게 하루에 두 번 9 레벨 위저드의 불뱀 주문을 시전할 수있는 능력을 부여하며, 착용자 캐릭터 레벨과 같은 레벨 "
+"위저드의 불타는 손 주문을 마음대로 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/StaffOfBurnedOak_m_DisplayNameText
 msgctxt "6bbb1866-686c-4a5e-9e28-37ec412deaca"
@@ -14369,18 +14436,14 @@ msgid ""
 msgstr "이 지팡이에 작게 난 균열 사이로 알아볼 듯 말 듯한 연기가 피어오릅니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/StaffofCurse_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +3 quarterstaff grants its wielder the ability to cast waves of fatigue"
-#| " spell three times per day, and ray of enfeeblement spell at will."
 msgctxt "4d1ce67b-1f1c-4f0f-9896-6f37c1cec139"
 msgid ""
 "This +3 quarterstaff grants its wielder the ability to cast waves of fatigue"
 " spell three times per day as a 9th level wizard, and ray of enfeeblement "
 "spell at will as a wizard of level equal to the wielder's character level."
 msgstr ""
-"이 +3 육척봉은 사용자에게 하루에 세 번 피로의 파동 주문을 시전할 수있는 능력을 부여하며, 쇠약의 광선 주문을 마음대로 시전할 수 "
-"있게 해줍니다."
+"이 +3 육척봉은 사용자에게 하루에 세 번 9 레벨 위저드의 피로의 파동 주문을 시전할 수 있는 능력을 부여하며, 착용자 캐릭터 레벨과 "
+"같은 레벨 위저드의 쇠약의 광선 주문을 마음대로 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/StaffofCurse_m_DisplayNameText
 msgctxt "151ac9ba-d4df-49a9-aa6c-4b80a53b5ea7"
@@ -14394,15 +14457,11 @@ msgid ""
 msgstr "이 지팡이의 황금빛 철판은 나머지 칙칙한 목재 부분과 대비됩니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/StaffofMovement_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +1 speed quarterstaff grants its wielder the ability to cast feather "
-#| "step (mass) spell three times per day."
 msgctxt "54fe19e1-2e46-4466-8282-9f906b70aaa0"
 msgid ""
 "This +1 speed quarterstaff grants its wielder the ability to cast feather "
 "step (mass) spell three times per day as 5th level druid."
-msgstr "이 +1 신속한 육척봉은 하루에 세 번 집단 깃털 걸음 주문을 시전할 수 있게 해줍니다."
+msgstr "이 +1 신속한 육척봉은 하루에 세 번 5 레벨 드루이드의 집단 깃털 걸음 주문을 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/StaffofMovement_m_DisplayNameText
 msgctxt "e8e6e457-87a9-45fb-98ee-a81f314d24a1"
@@ -14417,18 +14476,14 @@ msgid ""
 msgstr "주황색과 검은색의 잘 연마된 돌이 이 지팡이의 겉에 박혀있습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/StaffOfTheCallItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +4 quarterstaff grants its wielder the ability to cast summon monster "
-#| "VIII spell twice per day, and glitterdust spell at will."
 msgctxt "816bc867-c3a6-4d56-a94d-04c085eb4b16"
 msgid ""
 "This +4 quarterstaff grants its wielder the ability to cast summon monster "
 "VIII spell twice per day for 15 rounds, and glitterdust spell at will as a "
 "wizard of level equal to the wielder's character level."
 msgstr ""
-"이 +4 육척봉은 사용자에게 하루에 두 번 괴물 소환 VIII 주문을 시전할 수있는 능력을 부여하며, 반짝이는 주문을 마음대로 시전할 수"
-" 있게 해줍니다."
+"이 +4 육척봉은 사용자에게 하루에 두 번 15 라운드 동안 괴물 소환 VIII 주문을 시전할 수 있는 능력을 부여하며, 착용자 캐릭터 "
+"레벨과 같은 레벨 위저드의 반짝이는 주문을 마음대로 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/StaffOfTheCallItem_m_DisplayNameText
 msgctxt "3b9d0330-9c61-4b22-9131-4ed5e13b2bf9"
@@ -14472,15 +14527,11 @@ msgid "Greater Sting"
 msgstr "상급 침"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/DwarvenMaleArmorsmith/CrossbowOfEscape_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +3 speed shock light crossbow grants its wielder the ability to cast "
-#| "dimension door spell once per day."
 msgctxt "be7ec057-bb20-4b02-b9aa-dd9196a839ff"
 msgid ""
 "This +3 speed shock light crossbow grants its wielder the ability to cast "
 "dimension door spell once per day as a 8th level wizard."
-msgstr "이 +3 신속한 전격의 소형 쇠뇌는 착용자가 하루에 한 번 차원문 주문을 시전할 수 있게 해줍니다."
+msgstr "이 +3 신속한 전격의 소형 쇠뇌는 착용자가 하루에 한 번 8 레벨 위저드의 차원문 주문을 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/DwarvenMaleArmorsmith/CrossbowOfEscape_m_DisplayNameText
 msgctxt "e3cd36bf-0c9a-4378-b334-11b8d42f59ee"
@@ -14515,15 +14566,11 @@ msgid "Flaming"
 msgstr "불꽃"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/DwarvenMaleArmorsmith/FirebornWarhammer_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +4 flaming warhammer holds three small fire elementals that can be "
-#| "summoned once per day."
 msgctxt "3971526e-221d-444c-b569-72d6a7bdfbaa"
 msgid ""
 "This +4 flaming warhammer holds three small fire elementals that can be "
 "summoned once per day for 5 rounds."
-msgstr "이 +4 불꽃의 전투망치를 쥐면 하루에 한 번 세 마리의 소형 화염 정령을 소환할 수 있습니다."
+msgstr "이 +4 불꽃의 전투망치를 쥐면 하루에 한 번 5 라운드 동안 세 마리의 소형 화염 정령을 소환할 수 있습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/DwarvenMaleArmorsmith/FirebornWarhammer_m_DisplayNameText
 msgctxt "6ffa64fb-3faa-4cb7-8111-bb125c06010c"
@@ -14537,15 +14584,11 @@ msgid ""
 msgstr "이 전투망치는 화염으로 만들어졌습니다. 필요할 때 화염을 내놓을 수 있습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/DwarvenMaleArmorsmith/InspiringWillWarhammerItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +4 holy warhammer grants its wielder the ability to cast inspiring "
-#| "recovery spell once per day."
 msgctxt "2d988674-728d-4ca5-8762-61913f897166"
 msgid ""
 "This +4 holy warhammer grants its wielder the ability to cast inspiring "
 "recovery spell once per day as a 11th level cleric."
-msgstr "이 +4 성스러운 전투망치는 착용자가 하루 한 번 감동적인 회복 주문을 시전할 수 있게 해줍니다."
+msgstr "이 +4 성스러운 전투망치는 착용자가 하루 한 번 11 레벨 클레릭의 감동적인 회복 주문을 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/DwarvenMaleArmorsmith/InspiringWillWarhammerItem_m_DisplayNameText
 msgctxt "04e0c4f0-a88b-43f9-9eed-32818b81d6d0"
@@ -14553,16 +14596,13 @@ msgid "Preacher's Warhammer"
 msgstr "설교자의 전투망치"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/DwarvenMaleArmorsmith/LavaForgedAxeItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +5 bleed greataxe deals additional 2d8 damage. It grants its wielder "
-#| "ability to cast summon huge fire elemental spell once per day."
 msgctxt "e1f436be-37c7-4a0b-9811-01cd1250bb91"
 msgid ""
 "This +5 bleed greataxe deals additional 2d8 damage. It grants its wielder "
 "ability to cast summon huge fire elemental spell once per day for 11 rounds."
 msgstr ""
-"이 +5 출혈 대형 도끼는 2d8의 추가 피해를 입힙니다. 착용자가 하루에 한 번 거대 화염 정령 소환 주문을 사용할 수 있게 해줍니다."
+"이 +5 출혈 대형 도끼는 2d8의 추가 피해를 입힙니다. 착용자가 하루에 한 번 11 라운드 동안 거대 화염 정령 소환할 수 있게 "
+"해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/DwarvenMaleArmorsmith/LavaForgedAxeItem_m_DisplayNameText
 msgctxt "36e14d19-2e8f-4804-81ce-0e72ef775c7e"
@@ -14570,15 +14610,11 @@ msgid "Lava Forged Axe"
 msgstr "용암 주조 도끼"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/DwarvenMaleArmorsmith/LightningStrikeAxeItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +3 speed shock greataxe grants its wielder the ability to cast remove "
-#| "paralysis spell twice per day."
 msgctxt "c1bc8fe0-72b8-4d90-b9ca-b1587d8f0dce"
 msgid ""
 "This +3 speed shock greataxe grants its wielder the ability to cast remove "
 "paralysis spell twice per day as a 3rd level cleric."
-msgstr "이 +3 신속한 전격의 대형 도끼는 착용자가 하루에 두 번 마비 제거 주문을 시전할 수 있게 해줍니다."
+msgstr "이 +3 신속한 전격의 대형 도끼는 착용자가 하루에 두 번 3 레벨 클레릭의 마비 제거 주문을 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/DwarvenMaleArmorsmith/LightningStrikeAxeItem_m_DisplayNameText
 msgctxt "cf652199-b4fe-4ce3-a993-978f218a2962"
@@ -14586,19 +14622,14 @@ msgid "Tempest"
 msgstr "폭풍"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/DwarvenMaleArmorsmith/OpportunistsWarhammer_tolater_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +1 speed dwarven waraxe deals additional 9 damage on a successful "
-#| "critical hit and grants its wielder the ability to cast flare spell twice "
-#| "per day."
 msgctxt "5e20ed30-65d0-43dd-a5e6-680428c6334b"
 msgid ""
 "This +1 speed dwarven waraxe deals additional 9 damage on a successful "
 "critical hit and grants its wielder the ability to cast flare spell twice "
 "per day as a 1st level wizard."
 msgstr ""
-"이 +1 신속한 드워프 전투도끼는 치명타 명중시 9 만큼 추가 피해를 가하고, 착용자가 하루에 두 번 섬광 주문을 사용할 수 있게 "
-"해줍니다."
+"이 +1 신속한 드워프 전투도끼는 치명타 명중시 9 만큼 추가 피해를 가하고, 착용자가 하루에 두 번 1 레벨 위저드의 섬광 주문을 "
+"사용할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/DwarvenMaleArmorsmith/OpportunistsWarhammer_tolater_m_DisplayNameText
 msgctxt "8679a445-4cce-406b-b1e0-a5f29ec1e8d2"
@@ -14640,14 +14671,6 @@ msgid "Warhammer of Hatred"
 msgstr "증오의 전투망치"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/DwarvenMaleArmorsmith/WoundingBattleaxe_tolater_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This wounding battleaxe deals 1 point of bleed damage when it hits a "
-#| "creature. Multiple bleeding effects stack. Bleeding creatures take the bleed"
-#| " damage at the start of their turns. Bleed will continue until the target "
-#| "receives magic healing or leaves combat. A critical hit does not multiply "
-#| "the bleed damage. Creatures immune to critical hits are immune to the bleed "
-#| "damage dealt by this weapon."
 msgctxt "0c243773-5b27-44a9-94de-3dd16daa34f8"
 msgid ""
 "This wounding battleaxe deals 1 point of bleed damage when it hits a "
@@ -14655,9 +14678,8 @@ msgid ""
 "target receives magic healing or leaves combat. A critical hit does not "
 "multiply the bleed damage."
 msgstr ""
-"이 상처를 입히는 전투도끼는 명중 시 1 점의 출혈 피해를 입힙니다. 출혈은 여러번 누적될 수 있습니다. 출혈 상태의 크리처는 차례를 "
-"시작할 때 출혈 피해를 입습니다. 출혈은 마법적 치료를 받거나 전투를 떠날 때까지 지속됩니다. 치명타는 출혈 피해를 증가시키지 않습니다."
-" 치명타에 면역인 크리처는 이 무기의 출혈 피해에도 면역입니다."
+"이 상처를 입히는 전투도끼는 명중 시 1 점의 출혈 피해를 입힙니다. 출혈은 여러번 누적될 수 있습니다. 출혈은 마법적 치유를 받거나 "
+"전투를 떠날 때까지 지속됩니다. 치명타는 출혈 피해를 증가시키지 않습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/DwarvenMaleArmorsmith/WoundingBattleaxe_tolater_m_DisplayNameText
 msgctxt "b348d4e2-464a-4f89-8ab9-c21f426aa32c"
@@ -14677,15 +14699,11 @@ msgid "Clarity"
 msgstr "명쾌"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenFemaleWeaponsmith/DivineInterventionScimitarItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +4 holy flaming scimitar grants its wielder the ability to cast divine "
-#| "power spell once per day."
 msgctxt "33b6bc29-21cf-4944-92d2-ed202f264933"
 msgid ""
 "This +4 holy flaming scimitar grants its wielder the ability to cast divine "
 "power spell once per day as a 7th level cleric."
-msgstr "이 +4 성스러운 불꽃의 시미터는 착용자가 하루에 한 번 신성한 힘 주문을 사용할 수 있도록 해줍니다."
+msgstr "이 +4 성스러운 불꽃의 시미터는 착용자가 하루에 한 번 7 레벨 클레릭의 신성한 힘 주문을 사용할 수 있도록 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenFemaleWeaponsmith/DivineInterventionScimitarItem_m_DisplayNameText
 msgctxt "d88bfd73-1c12-4698-abcf-63c63eb17883"
@@ -14693,15 +14711,11 @@ msgid "Divine Intervention"
 msgstr "신성 개입"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenFemaleWeaponsmith/NaturesWillShortSwordItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +2 vermin bane shortsword grants its wielder the ability to cast summon"
-#| " nature's ally II spell once per day."
 msgctxt "d049d2fa-19c2-4d34-9182-101f620626cd"
 msgid ""
 "This +2 vermin bane shortsword grants its wielder the ability to cast summon"
 " nature's ally II spell once per day as a 5th level druid."
-msgstr "이 +2 해충 파멸의 소검은 착용자가 하루에 한 번 자연의 동맹 II 주문을 시전할 수 있게 해줍니다."
+msgstr "이 +2 해충 파멸의 소검은 착용자가 하루에 한 번 5 레벨 드루이드의 자연의 동맹 II 주문을 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenFemaleWeaponsmith/NaturesWillShortSwordItem_m_DisplayNameText
 msgctxt "df9a9e4b-ce51-4a6b-9fad-c35ee7806c6f"
@@ -14709,17 +14723,14 @@ msgid "Nature's Will"
 msgstr "자연의 의지"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenFemaleWeaponsmith/RedemptorLongSwItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +5 holy flaming longsword has an improved critical multiplier. It "
-#| "grants its wielder the ability to cast transformation spell once per day."
 msgctxt "548a6522-d17f-45ca-b7ac-81232f2553d6"
 msgid ""
 "This +5 holy flaming longsword has an improved critical multiplier. It "
 "grants its wielder the ability to cast transformation spell once per day as "
 "a 11th level wizard."
 msgstr ""
-"이 +5 성스러운 불꽃의 장검은 향상된 크리티컬 배율을 가집니다. 사용자에게 하루에 한 번 변신 마법을 쓸 수있는 능력을 부여합니다."
+"이 +5 성스러운 불꽃의 장검은 향상된 크리티컬 배율을 가집니다. 사용자에게 하루에 한 번 11 레벨 위저드의 변신 마법을 쓸 수있는 "
+"능력을 부여합니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenFemaleWeaponsmith/RedemptorLongSwItem_m_DisplayNameText
 msgctxt "b0979fb8-ffd3-42b7-a092-a64f99e0616b"
@@ -14727,15 +14738,12 @@ msgid "Redeemer"
 msgstr "구원자"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenFemaleWeaponsmith/SepticBiteRapierItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +3 corrosive agile rapier grants its wielder acid resistance 20 and the"
-#| " ability to cast spit venom spell once per day."
 msgctxt "0999a821-6a08-47b3-b124-70399a7a2ad1"
 msgid ""
 "This +3 corrosive agile rapier grants its wielder acid resistance 20 and the"
 " ability to cast spit venom spell once per day as a 7th level cleric."
-msgstr "이 부식성 날렵한 레이피어는 착용자에게 산성 저항 20과 하루에 한 번 독 뱉기 주문을 쓸 수 있는 능력을 줍니다."
+msgstr ""
+"이 부식성 날렵한 레이피어는 착용자에게 산성 저항 20과 하루에 한 번 7 레벨 클레릭의 독 뱉기 주문을 쓸 수 있는 능력을 줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenFemaleWeaponsmith/SepticBiteRapierItem_m_DisplayNameText
 msgctxt "6cdd4208-e752-4289-b8fd-ad3ffc54ef60"
@@ -14747,18 +14755,14 @@ msgctxt "899fbc5e-2658-4a53-8824-63b160f787ab"
 msgid ""
 "A fine example of the elven smithing craft from Nazrielle, a court artisan "
 "who made a deal with the {mf|baron|baroness|king|queen}."
-msgstr " {mf|남작|여남작|왕|여왕}과 계약한 궁중 장인 나즈리엘이 제작한 이 물건은 엘프 대장 공예의 훌륭한 견본입니다."
+msgstr "{mf|남작|여남작|왕|여왕}과 계약한 궁중 장인 나즈리엘이 제작한 이 물건은 엘프 대장 공예의 훌륭한 견본입니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenFemaleWeaponsmith/SilentWhispererItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +5 shock agile dagger grants its wielder the ability to cast harm spell"
-#| " once per day."
 msgctxt "42e16690-3997-4067-bef9-b1d0c19ffc39"
 msgid ""
 "This +5 shock agile dagger grants its wielder the ability to cast harm spell"
 " once per day as a 15th level cleric."
-msgstr "이 +5 충격 날렵한 단검은 착용자가 하루에 한 번 위해 주문을 쓸 수 있도로 해줍니다."
+msgstr "이 +5 충격 날렵한 단검은 착용자가 하루에 한 번 15 레벨 클레릭의 위해 주문을 쓸 수 있도로 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenFemaleWeaponsmith/SilentWhispererItem_m_DisplayNameText
 msgctxt "d210bdd7-72d2-4ae1-9f99-abaf93f4b0c5"
@@ -14766,19 +14770,14 @@ msgid "Silent Whisperer"
 msgstr "침묵의 속삭임"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenFemaleWeaponsmith/TheDeceiverItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +3 agile dagger has its reach increased by 5 feet. It grants its "
-#| "wielder a +5 luck bonus on all Stealth skill checks, and the ability to cast"
-#| " displacement spell once per day."
 msgctxt "2049f978-3fa4-4219-90b8-ae5e739c860b"
 msgid ""
 "This +3 agile dagger has its reach increased by 5 feet. It grants its "
 "wielder a +5 luck bonus on all Stealth skill checks, and the ability to cast"
 " displacement spell once per day as a 5th level wizard."
 msgstr ""
-"이 +3 날렵한 단검은 사거리가 5 피트 늘어났습니다. 착용자가 시도하는 은신 판정에 +5 행운 보너스를 주고, 하루에 한 번 환위 "
-"주문을 쓸 수 있도록 해줍니다."
+"이 +3 날렵한 단검은 사거리가 5 피트 늘어났습니다. 착용자가 시도하는 은신 판정에 +5 행운 보너스를 주고, 하루에 한 번 5 레벨 "
+"위저드의 환위 주문을 쓸 수 있도록 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenFemaleWeaponsmith/TheDeceiverItem_m_DisplayNameText
 msgctxt "9f05cb49-a40c-4598-959d-c41289d9f7bb"
@@ -14808,12 +14807,6 @@ msgid "Trouble Solver"
 msgstr "문제 해결사"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenFemaleWeaponsmith/VeinFinderRapierItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "Whenever this +3 agile rapier lands a hit, it makes the target bleed for 1d6"
-#| " HP per round. Bleed will continue until the target receives magic healing "
-#| "or leaves combat. It also grants its wielder the ability to cast cure "
-#| "moderate wounds spell once per day."
 msgctxt "4162cca9-a910-4404-8ceb-2dba70a1fa21"
 msgid ""
 "Whenever this +3 agile rapier lands a hit, it makes the target bleed for 1d6"
@@ -14821,8 +14814,8 @@ msgid ""
 "or leaves combat. It also grants its wielder the ability to cast cure "
 "moderate wounds spell once per day as a 5th level cleric."
 msgstr ""
-"이 +3 날렵한 레이피어가 명중할 때마다, 대상은 생명점에 매 라운드 1d6 점의 출혈이 발생합니다. 출혈은 마법적 치료를 받거나 전투를"
-" 떠날 때까지 지속됩니다. 착용자가 하루에 한 번 보통 상처 치료 주문을 시전할 수 있게 해줍니다."
+"이 +3 날렵한 레이피어가 명중할 때마다, 대상은 생명점에 매 라운드 1d6 점의 출혈이 발생합니다. 출혈은 마법적 치유를 받거나 전투를 "
+"떠날 때까지 지속됩니다. 착용자가 하루에 한 번 5 레벨 클레릭의 보통 상처 치료 주문을 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenFemaleWeaponsmith/VeinFinderRapierItem_m_DisplayNameText
 msgctxt "44108e19-0823-44ac-81ab-54ec7b784c91"
@@ -14830,15 +14823,11 @@ msgid "Vein Finder"
 msgstr "혈관 탐색기"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenMaleWoodmaster/FieryEyeItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +1 flaming composite shortbow grants its wielder the ability to cast "
-#| "flare burst spell three times per day."
 msgctxt "1733b48f-7abd-473e-ba52-437b55f81169"
 msgid ""
 "This +1 flaming composite shortbow grants its wielder the ability to cast "
 "flare burst spell three times per day as a 3rd level wizard."
-msgstr "이 +1 불꽃의 합성 단궁은 착용자가 하루에 세 번 섬광 폭발 주문을 쓸 수 있게 해줍니다."
+msgstr "이 +1 불꽃의 합성 단궁은 착용자가 하루에 세 번 3 레벨 위저드의 섬광 폭발 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenMaleWoodmaster/FieryEyeItem_m_DisplayNameText
 msgctxt "6376cace-a70c-4a0b-b275-6b69dad339a5"
@@ -14858,18 +14847,13 @@ msgid "Hunter's Blessing"
 msgstr "사냥꾼의 축복"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenMaleWoodmaster/HuntingCatComShBowItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +4 speed composite shortbow is decorated with a carving of a hunting "
-#| "cat. It grants its wielder the ability to summon 1d4+1 smilodons three times"
-#| " per day."
 msgctxt "263ad3ae-8bd0-4357-b3de-70850fa82b49"
 msgid ""
 "This +4 speed composite shortbow is decorated with a carving of a hunting "
 "cat. It grants its wielder the ability to summon 1d4+1 smilodons for 15 "
 "rounds."
 msgstr ""
-"이 +4 신속한 합성 단궁은 사냥중인 고양이가 세겨져 있습니다. 착용자가 하루에 세 번 검치호 1d4+1 마리를 소환할 수 있게 "
+"이 +4 신속한 합성 단궁은 사냥중인 고양이가 세겨져 있습니다. 착용자가 15 라운드 동안 검치호 1d4+1 마리를 소환할 수 있게 "
 "해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenMaleWoodmaster/HuntingCatComShBowItem_m_DisplayNameText
@@ -14900,19 +14884,14 @@ msgid "Necrotic"
 msgstr "괴저성"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenMaleWoodmaster/RigidOakStaffItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +2 quarterstaff grants its wielder a +4 morale bonus to Constitution, a"
-#| " +2 morale bonus on Fortitude saving throws, and the ability to cast resist "
-#| "sonic spell twice per day."
 msgctxt "36053fea-29f4-406b-8c6b-fca93984c85a"
 msgid ""
 "This +2 quarterstaff grants its wielder a +4 morale bonus to Constitution, a"
 " +2 morale bonus on Fortitude saving throws, and the ability to cast resist "
 "sonic spell twice per day as a 4th level wizard."
 msgstr ""
-"이 +2 육척봉은 착용자에게 건강에 +4 사기 보너스, 인내 내성에 +2 사기 보너스를 주며, 착용자가 하루에 두 번 음파 저항 주문을 "
-"쓸 수 있게 해줍니다."
+"이 +2 육척봉은 착용자에게 건강에 +4 사기 보너스, 인내 내성에 +2 사기 보너스를 주며, 착용자가 하루에 두 번 4 레벨 위저드의 "
+"음파 저항 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenMaleWoodmaster/RigidOakStaffItem_m_DisplayNameText
 msgctxt "3a908302-d30b-447a-ab63-88b7dc52b1f7"
@@ -14920,17 +14899,14 @@ msgid "Rigid Oak Staff"
 msgstr "단단단 참나무 지팡이"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenMaleWoodmaster/ShadyLongbowItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +3 composite longbow grants its wielder a +5 luck bonus to Stealth "
-#| "skill checks, and the ability to cast invisibility spell twice per day."
 msgctxt "5d2caef0-b096-4160-b375-c0f1df075e00"
 msgid ""
 "This +3 composite longbow grants its wielder a +5 luck bonus to Stealth "
 "skill checks, and the ability to cast invisibility spell twice per day as a "
 "5th level wizard."
 msgstr ""
-"이 +3 합성 장궁은 착용자에게 은신 판정에 +5 행운 보너스를 주고, 착용자가 하루에 두 번 투명화 주문을 쓸 수 있게 해줍니다."
+"이 +3 합성 장궁은 착용자에게 은신 판정에 +5 행운 보너스를 주고, 착용자가 하루에 두 번 5 레벨 위저드의 투명화 주문을 쓸 수 "
+"있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenMaleWoodmaster/ShadyLongbowItem_m_DisplayNameText
 msgctxt "0a1724a3-1092-4453-bbbb-892da5c7f200"
@@ -14972,15 +14948,11 @@ msgid "Spiked Defender"
 msgstr "뾰족한 방어자"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenMaleWoodmaster/SunbeamItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +2 flaming spear grants its wielder the ability to cast searing light "
-#| "spell twice per day."
 msgctxt "b29e20d3-375e-44de-afa8-fc10ae433cb8"
 msgid ""
 "This +2 flaming spear grants its wielder the ability to cast searing light "
 "spell twice per day as a 8th level cleric."
-msgstr "이 +2 불꽃의 창은 착용자가 하루에 두 번 타오르는 빛 주문을 시전할 수 있게 해줍니다."
+msgstr "이 +2 불꽃의 창은 착용자가 하루에 두 번 8 레벨 클레릭의 타오르는 빛 주문을 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenMaleWoodmaster/SunbeamItem_m_DisplayNameText
 msgctxt "1a135142-9776-46c6-ad94-2bc4be9a6917"
@@ -14993,19 +14965,14 @@ msgid "Necrotic"
 msgstr "괴저성"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenMaleWoodmaster/UndauntedStaffItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +4 flaming aberration bane quarterstaff grants its wielder a +3 morale "
-#| "bonus on Persuasion skill checks when used to intimidate, and the ability to"
-#| " cast remove paralysis spell once per day."
 msgctxt "480560d4-e5a2-4c8a-9df0-99739d080a74"
 msgid ""
 "This +4 flaming aberration bane quarterstaff grants its wielder a +3 morale "
 "bonus on Persuasion skill checks when used to intimidate, and the ability to"
 " cast remove paralysis spell once per day as a 4th level cleric."
 msgstr ""
-"이 +4 불꽃의 변이체 파멸의 육척봉은 설득 (협박) 판정에 +3 사기 보너스를 주고, 하루에 마비 제거 주문을 시전할 수 있게 "
-"해줍니다."
+"이 +4 불꽃의 변이체 파멸의 육척봉은 설득 (협박) 판정에 +3 사기 보너스를 주고, 하루에 한 번 4 레벨 클레릭의 마비 제거 주문을 "
+"시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenMaleWoodmaster/UndauntedStaffItem_m_DisplayNameText
 msgctxt "2ec1e307-0289-4304-92d7-05ae81c0519a"
@@ -15013,16 +14980,13 @@ msgid "The Undaunted"
 msgstr "의연"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenMaleWoodmaster/WhirlwindCompLongBowItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +2 composite longbow grants its wielder a +2 enhancement bonus to "
-#| "Dexterity, and the ability to summon a medium air elemental once per day."
 msgctxt "9b3a25ee-476b-44bc-87db-bc5e17e12843"
 msgid ""
 "This +2 composite longbow grants its wielder a +2 enhancement bonus to "
 "Dexterity, and the ability to summon a medium air elemental once per day as "
 "a 7th level wizard."
-msgstr "이 +2 합성 장궁은 민첩에 +2 강화 보너스를 주고, 하루에 한 번 중형 대기 정령을 소환할 수 있게 해줍니다."
+msgstr ""
+"이 +2 합성 장궁은 민첩에 +2 강화 보너스를 주고, 하루에 한 번 7 레벨 위저드의 중형 대기 정령을 소환할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenMaleWoodmaster/WhirlwindCompLongBowItem_m_DisplayNameText
 msgctxt "221bc077-ab0f-4c3f-aa3c-9073c8e29876"
@@ -15035,18 +14999,14 @@ msgid "Necrotic"
 msgstr "괴저성"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenMaleWoodmaster/WoodenWardenItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +5 holy undead bane spear grants its wielder a +3 sacred bonus to "
-#| "Initiative checks, and the ability to cast good hope spell three times per "
-#| "day."
 msgctxt "e578e0d4-ed39-474f-8c0f-d60fdd933a52"
 msgid ""
 "This +5 holy undead bane spear grants its wielder a +3 sacred bonus to "
 "Initiative checks, and the ability to cast good hope spell three times per "
 "day as a 12th level bard."
 msgstr ""
-"이 +5 성스러운 언데드 파멸의 창은 우선권 판정에 +3 신성 보너스를 주고, 하루에 세번 좋은 희망 주문을 쓸 수 있게 해줍니다."
+"이 +5 성스러운 언데드 파멸의 창은 우선권 판정에 +3 신성 보너스를 주고, 하루에 세 번 12 레벨 바드의 좋은 희망 주문을 쓸 수 "
+"있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenMaleWoodmaster/WoodenWardenItem_m_DisplayNameText
 msgctxt "9b4e46d0-398a-4228-88c3-0614d2e41a65"
@@ -15059,17 +15019,14 @@ msgid "Necrotic"
 msgstr "괴저성"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenMaleWoodmaster/WoundBearerItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +2 necrotic spear grants its wielder a +5 morale bonus to all Athletics"
-#| " checks, and the ability to cast inflict critical wounds spell three times "
-#| "per day."
 msgctxt "9ac3990b-f584-408b-ab77-3ca8b141124a"
 msgid ""
 "This +2 necrotic spear grants its wielder a +5 morale bonus to all Athletics"
 " checks, and the ability to cast inflict critical wounds spell three times "
 "per day as a 7th level cleric."
-msgstr "이 +2 괴저성 창은 운동 판정에 +5 사기 보너스를 주고, 치명적 상처 입히기 주문을 하루에 세 번 쓸 수 있게 해줍니다."
+msgstr ""
+"이 +2 괴저성 창은 운동 판정에 +5 사기 보너스를 주고, 7 레벨 클레릭의 치명적 상처 입히기 주문을 하루에 세 번 쓸 수 있게 "
+"해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/ElvenMaleWoodmaster/WoundBearerItem_m_DisplayNameText
 msgctxt "65b38986-dce9-4220-8875-57ddce97bb25"
@@ -15083,11 +15040,6 @@ msgstr "괴저성"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/Half-
 #. OrcEnforcer/AcidBombsMace_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +2 corrosive heavy mace allows its wearer to throw an acid bomb three "
-#| "times per day. Acid bombs launched from this mace deal 3d6+5 acid damage on "
-#| "a direct hit."
 msgctxt "936f4f24-ab45-40c5-8860-eb748d98a297"
 msgid ""
 "This +2 corrosive heavy mace allows its wielder to throw an acid bomb three "
@@ -15146,15 +15098,11 @@ msgstr "강타"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/Half-
 #. OrcEnforcer/DaggerofWeakness_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +1 ghost touch dagger grants its wielder the ability to cast bestow "
-#| "curse (curse of weakness) spell once per day."
 msgctxt "d4c959ef-7edf-4de4-87f1-4424d4f54438"
 msgid ""
 "This +1 ghost touch dagger grants its wielder the ability to cast bestow "
 "curse (curse of weakness) spell once per day as a 7th level wizard."
-msgstr "이 +1 유령접촉 단검은 하루에 한 번 저주 걸기 (나약함의 저주) 주문을 시전할 수 있게 해줍니다."
+msgstr "이 +1 유령접촉 단검은 하루에 한 번 7 레벨 위저드의 저주 걸기 (나약함의 저주) 주문을 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/Half-
 #. OrcEnforcer/DaggerofWeakness_m_DisplayNameText
@@ -15164,15 +15112,11 @@ msgstr "허약"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/Half-
 #. OrcEnforcer/DRAFT_TerrorBringer_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +2 heavy mace grants its wielder the ability to cast boneshaker spell "
-#| "twice per day."
 msgctxt "98a4fe57-21c6-4257-b78e-fe59494ea3c8"
 msgid ""
 "This +2 heavy mace grants its wielder the ability to cast boneshaker spell "
 "twice per day as a 3rd level wizard."
-msgstr "이 +2 중형 철퇴는 뼈 흔들기 주문을 하루에 두 번 시전할 수 있게 해줍니다."
+msgstr "이 +2 중형 철퇴는 3 레벨 위저드의 뼈 흔들기 주문을 하루에 두 번 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/Half-
 #. OrcEnforcer/DRAFT_TerrorBringer_m_DisplayNameText
@@ -15216,15 +15160,11 @@ msgstr "허약"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/Half-
 #. OrcEnforcer/FrostKissintheNeckGreatAxItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +3 frost fey bane greataxe grants its wielder the ability to cast "
-#| "resist cold spell once per day."
 msgctxt "26c56e5c-4cd0-4f1e-a2f7-18b6152d0869"
 msgid ""
 "This +3 frost fey bane greataxe grants its wielder the ability to cast "
 "resist cold spell once per day as a 3rd level wizard."
-msgstr "이 +3 서리의 페이 파멸의 대형 도끼는 하루에 한 번 냉기 저항 주문을 쓸 수 있게 해줍니다."
+msgstr "이 +3 서리의 페이 파멸의 대형 도끼는 하루에 한 번 3 레벨 위저드의 냉기 저항 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/Half-
 #. OrcEnforcer/FrostKissintheNeckGreatAxItem_m_DisplayNameText
@@ -15246,15 +15186,11 @@ msgstr "불꽃"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/Half-
 #. OrcEnforcer/RetributionGreataxe_m_DescriptionText_1
-#, fuzzy
-#| msgid ""
-#| "This +4 flaming magic beast bane greataxe grants its wielder the ability to "
-#| "cast eaglesoul spell once per day."
 msgctxt "31e944ce-cf24-440e-9141-abe036c51690"
 msgid ""
 "This +4 flaming magic beast bane greataxe grants its wielder the ability to "
 "cast eaglesoul spell once per day as a 14th level cleric."
-msgstr "이 +4 불꽃의 환수 파멸의 대형 도끼는 하루에 한 번 독수리의 혼 주문을 쓸 수 있게 해줍니다."
+msgstr "이 +4 불꽃의 환수 파멸의 대형 도끼는 하루에 한 번 14 레벨 클레릭의 독수리의 혼 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/Half-
 #. OrcEnforcer/RetributionGreataxe_m_DisplayNameText
@@ -15272,15 +15208,11 @@ msgstr "이 물건은 거친주먹으로 알려진 하프오크, 궁중 장인 �
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/Half-
 #. OrcEnforcer/Stonekeeper_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +2 corrosive greatsword grants its wielder the ability to cast spike "
-#| "stones spell twice per day."
 msgctxt "15349237-8bb0-4c4c-bebb-d30d3629bdc5"
 msgid ""
 "This +2 corrosive greatsword grants its wielder the ability to cast spike "
 "stones spell twice per day as a 7th level druid."
-msgstr "이 +2 부식성 대검은 하루에 두 번 돌가시 주문을 쓸 수 있게 해줍니다."
+msgstr "이 +2 부식성 대검은 하루에 두 번 7 레벨 드루이드의 돌가시 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/Half-
 #. OrcEnforcer/Stonekeeper_m_DisplayNameText
@@ -15290,15 +15222,11 @@ msgstr "돌지킴이"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/Half-
 #. OrcEnforcer/SwiftBlowItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +4 shock greatsword grants its wielder the ability to cast umbral "
-#| "strike spell once per day."
 msgctxt "252468f7-39b5-46d2-976c-4eb9502d6dbf"
 msgid ""
 "This +4 shock greatsword grants its wielder the ability to cast umbral "
 "strike spell once per day as a 13th level wizard."
-msgstr "이 +4 전격의 대검은 하루에 한 번 암영 일격 주문을 쓸 수 있게 해줍니다."
+msgstr "이 +4 전격의 대검은 하루에 한 번 13 레벨 위저드의 암영 일격 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/Half-
 #. OrcEnforcer/SwiftBlowItem_m_DisplayNameText
@@ -15320,15 +15248,11 @@ msgstr "전격"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/Half-
 #. OrcEnforcer/TheEradicatorGreataxeItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +4 unholy mace grants its wielder the ability to cast slay living spell"
-#| " once per day."
 msgctxt "8ac3ac06-3f2a-4776-ae04-6ea99914c60d"
 msgid ""
 "This +4 unholy mace grants its wielder the ability to cast slay living spell"
 " once per day as a 11th level cleric."
-msgstr "이 +4 부정한 철퇴는 하루에 한 번 살해 주문을 쓸 수 있게 해줍니다."
+msgstr "이 +4 부정한 철퇴는 하루에 한 번 11 레벨 클레릭의 살해 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/Half-
 #. OrcEnforcer/TheEradicatorGreataxeItem_m_DisplayNameText
@@ -15356,15 +15280,11 @@ msgstr "드래곤 파멸"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/Half-
 #. OrcEnforcer/DragonEssence/DragonEssenceItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +5 dragon bane greataxe grants its wielder the ability to cast "
-#| "dragonkind III spell once per day."
 msgctxt "53e77154-a80e-4b96-a3fc-267eb219f9a3"
 msgid ""
 "This +5 dragon bane greataxe grants its wielder the ability to cast "
 "dragonkind III spell once per day as a 16th level wizard."
-msgstr "이 +5 드래곤 파멸의 대형 도끼는 하루에 한번 드래곤붙이 III 주문을 쓸 수 있게 해줍니다."
+msgstr "이 +5 드래곤 파멸의 대형 도끼는 하루에 한 번 16 레벨 위저드의 드래곤붙이 III 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/Half-
 #. OrcEnforcer/DragonEssence/DragonEssenceItem_m_DisplayNameText
@@ -15379,16 +15299,14 @@ msgid "This outstanding greataxe is infused with the dragon's essence."
 msgstr "이 탁월한 대형 도끼에는 드래곤의 정수가 담겨 있습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/HumanFemaleExoticSmith/AvalancheHeavRepCrossBowItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +3 frost halfling sling staff grants its wielder a +2 morale bonus to "
-#| "damage, and an ability to cast stone call spell once per day."
 msgctxt "dfb57d07-911c-4cd1-9789-82ec937d8ee1"
 msgid ""
 "This +3 frost halfling sling staff grants its wielder a +2 morale bonus to "
 "damage, and an ability to cast stone call spell once per day as a 7th level "
 "wizard."
-msgstr "이 +3 서리의 하플링 슬링 스태프는 피해에 +2 사기 보너스를 주고, 하루에 한 번 자갈비 주문을 쓸 수 있게 해줍니다."
+msgstr ""
+"이 +3 서리의 하플링 슬링 스태프는 피해에 +2 사기 보너스를 주고, 하루에 한 번 7 레벨 위저드의 자갈비 주문을 쓸 수 있게 "
+"해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/HumanFemaleExoticSmith/AvalancheHeavRepCrossBowItem_m_DisplayNameText
 msgctxt "d6e0db3c-35d3-4297-aa97-3b0aa0019d0e"
@@ -15396,15 +15314,11 @@ msgid "Avalanche"
 msgstr "눈사태"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/HumanFemaleExoticSmith/DarkBiddingSlingstaffItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +3 necrotic fauchard grants its wielder the ability to cast animate "
-#| "dead spell once per day."
 msgctxt "6f57d182-8aa6-40f8-9f90-5f847ab576cd"
 msgid ""
 "This +3 necrotic fauchard grants its wielder the ability to cast animate "
 "dead spell once per day as for 8 rounds."
-msgstr "이 +3 괴저성 포샤르는 하루에 한 번 시체 일으키기 주문을 쓸 수 있게 해줍니다."
+msgstr "이 +3 괴저성 포샤르는 하루에 한 번 8 라운드 동안 시체 일으키기 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/HumanFemaleExoticSmith/DarkBiddingSlingstaffItem_m_DisplayNameText
 msgctxt "0ac6791e-208a-4ab2-aef9-8fc74415bb6c"
@@ -15429,18 +15343,14 @@ msgid "Necrotic"
 msgstr "괴저성"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/HumanFemaleExoticSmith/EyeOfTheTornadoLightRepShortbowItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +3 shock heavy crossbow grants its wielder a +2 luck bonus to "
-#| "Initiative, and the ability to cast summon medium air elemental spell once "
-#| "per day."
 msgctxt "039a9f74-a3fa-4b49-99e4-5af3aea4e31a"
 msgid ""
 "This +3 shock heavy crossbow grants its wielder a +2 luck bonus to "
 "Initiative, and the ability to cast summon medium air elemental spell once "
 "per day for 7 rounds."
 msgstr ""
-"이 +3 전격의 대형 쇠뇌는 우선권에 +2 행운 보너스를 주고, 하루에 한 번 중형 공기 정령 소환 주문을 쓸 수 있게 해줍니다."
+"이 +3 전격의 대형 쇠뇌는 우선권에 +2 행운 보너스를 주고, 하루에 한 번 7 라운드 동안 중형 공기 정령 소환 주문을 쓸 수 있게 "
+"해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/HumanFemaleExoticSmith/EyeOfTheTornadoLightRepShortbowItem_m_DisplayNameText
 msgctxt "c4f4e977-6884-4a9f-8a59-bd1a9b3571dc"
@@ -15453,15 +15363,11 @@ msgid "Sometimes this crossbow absorbs lightning during the storm."
 msgstr "때때로 이 석궁은 폭풍우가 불 때 내리치는 번개를 흡수합니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/HumanFemaleExoticSmith/FerventEdgeFalcataItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +3 furious brass falcata grants its wielder the ability to cast "
-#| "righteous might spell once per day."
 msgctxt "3eadbbbc-dd77-41c9-8fac-6fd773ec9462"
 msgid ""
 "This +3 furious brass falcata grants its wielder the ability to cast "
 "righteous might spell once per day as a 9th level cleric."
-msgstr "이 +3 격분 황동 팔카타는 하루에 한 번 정의의 힘 주문을 쓸 수 있게 해줍니다."
+msgstr "이 +3 격분 황동 팔카타는 하루에 한 번 9 레벨 클레릭의 의로운 힘 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/HumanFemaleExoticSmith/FerventEdgeFalcataItem_m_DisplayNameText
 msgctxt "8a1c8b8b-52b1-46f0-a8c7-c16cfa0e1890"
@@ -15469,15 +15375,11 @@ msgid "Fervent Edge"
 msgstr "열렬한 칼날"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/HumanFemaleExoticSmith/GameChangerEstocItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +4 keen speed estoc grants its wielder the ability to cast waves of "
-#| "fatigue spell once per day."
 msgctxt "579736dc-5a8c-4bad-8170-384f30f38800"
 msgid ""
 "This +4 keen speed estoc grants its wielder the ability to cast waves of "
 "fatigue spell once per day as a 11th level wizard."
-msgstr "이 +4 예리한 신속한 에스톡은 하루에 한 번 피로의 파동 주문을 쓸 수 있게 해줍니다."
+msgstr "이 +4 예리한 신속한 에스톡은 하루에 한 번 11 레벨 위저드의 피로의 파동 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/HumanFemaleExoticSmith/GameChangerEstocItem_m_DisplayNameText
 msgctxt "77cd755f-6108-4f5f-b92d-d49c6457a3e8"
@@ -15485,16 +15387,12 @@ msgid "Lifestopper"
 msgstr "숨멎이"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/HumanFemaleExoticSmith/GoldenTideNunchItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +3 kama has a chance to blind the opponent on a successful hit and "
-#| "grants its wielder the ability to cast molten orb spell twice per day."
 msgctxt "22b0c4e1-5010-4adc-aca7-8860d591d5cf"
 msgid ""
 "This +3 kama has a chance to blind the opponent on a successful hit and "
 "grants its wielder the ability to cast molten orb spell twice per day as a "
 "5th level wizard."
-msgstr "이 +3 카마는 명중 시 적을 실명 시킬 수 있고, 하루에 두 번 쇳물 공 주문을 쓸 수 있게 해줍니다."
+msgstr "이 +3 카마는 명중 시 적을 실명 시킬 수 있고, 하루에 두 번 5 레벨 위저드의 쇳물 공 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/HumanFemaleExoticSmith/GoldenTideNunchItem_m_DisplayNameText
 msgctxt "8f0f66ba-effc-4a93-a532-01d7916a1b8b"
@@ -15540,19 +15438,14 @@ msgid "Monastic Kama"
 msgstr "수도승의 카마"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/HumanFemaleExoticSmith/JustifierTongiItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +5 sacrificial tongi has a chance to stun creatures of evil alignment "
-#| "on critical hits and grants its wielder the ability to cast chain lightning "
-#| "spell once per day."
 msgctxt "83f6efc3-3b53-45ee-a440-05bfc574f259"
 msgid ""
 "This +5 sacrificial tongi has a chance to stun creatures of evil alignment "
 "on critical hits and grants its wielder the ability to cast chain lightning "
 "spell once per day as a 11th level wizard."
 msgstr ""
-"이 +5 희생양 통기는 악 성향 크리처에게 치명타를 적중시키면 기절시킬 수 있고, 착용자가 하루에 한 번 연쇄 번개 주문을 쓸 수 있게 "
-"해줍니다."
+"이 +5 희생양 통기는 악 성향 크리처에게 치명타를 적중시키면 기절시킬 수 있고, 착용자가 하루에 한 번 11 레벨 위저드의 연쇄 번개 "
+"주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/HumanFemaleExoticSmith/JustifierTongiItem_m_DisplayNameText
 msgctxt "25d09908-d7e6-4aa1-9aca-767d20058783"
@@ -15577,17 +15470,14 @@ msgid ""
 msgstr "이것은 소명을 찾아 먼 이국땅 부드라에서 도둑맞은 땅으로 온 왕실 궁중 장인 샤이니아의 공물입니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/HumanFemaleExoticSmith/TearsOfBloodShurikenItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +5 keen agile sai has a chance to stun the opponent on a successful hit"
-#| " and grants its wielder the ability to cast sirocco spell once per day."
 msgctxt "3268c099-49c7-46b0-8d36-cbf5baa75a5b"
 msgid ""
 "This +5 keen agile sai has a chance to stun the opponent on a successful hit"
 " and grants its wielder the ability to cast sirocco spell once per day as a "
 "13th level wizard."
 msgstr ""
-"이 +5 예리한 날렵한 필가차는 명중 시 적을 기절시킬 수 있으며, 착용자에게 하루에 한 번 열풍 주문을 쓸 수 있게 해줍니다."
+"이 +5 예리한 날렵한 필가차는 명중 시 적을 기절시킬 수 있으며, 착용자에게 하루에 한 번 13 레벨 위저드의 열풍 주문을 쓸 수 있게 "
+"해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/HumanFemaleExoticSmith/TearsOfBloodShurikenItem_m_DisplayNameText
 msgctxt "865a61ad-2e94-46c7-a1f5-10e6074022cd"
@@ -15619,15 +15509,11 @@ msgid "Oppressor"
 msgstr "압제자"
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/HumanFemaleExoticSmith/ThePersecutorBolaItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +2 shock kama grants its wielder the ability to cast thundering drums "
-#| "spell once per day."
 msgctxt "5f73b6bb-9298-4e1b-81cc-02b47c038fb0"
 msgid ""
 "This +2 shock kama grants its wielder the ability to cast thundering drums "
 "spell once per day as a 7th level bard."
-msgstr "이 +2 전격의 카마는 하루에 한 번 우레같은 북소리 주문을 쓸 수 있게 해줍니다."
+msgstr "이 +2 전격의 카마는 하루에 한 번 7 레벨 위저드의 우레같은 북소리 주문을 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Artisan/HumanFemaleExoticSmith/ThePersecutorBolaItem_m_DisplayNameText
 msgctxt "b9e7976b-87bd-4c5d-96e6-d32781ca7781"
@@ -15754,392 +15640,392 @@ msgstr "불꽃의 후려치기"
 #. Mechanics/Blueprints/Weapons/Items/HugeStandard/SimpleTwoHanded/HugeMasterworkGreatclub_m_DisplayNameText
 msgctxt "3b7c61e4-ace4-4749-95ae-a34ecb0e31a5"
 msgid "Masterwork Greatclub"
-msgstr "마스터워크 대형 몽둥이"
+msgstr "명품 대형 몽둥이"
 
 #. Mechanics/Blueprints/Weapons/Items/LargeStandard/MartialOneHanded/LargeMasterworkBattleaxe_m_DisplayNameText
 msgctxt "b1b5e66a-f1fc-4aa5-9b44-322826229f34"
 msgid "Masterwork Battleaxe"
-msgstr "마스터워크 전투도끼"
+msgstr "명품 전투도끼"
 
 #. Mechanics/Blueprints/Weapons/Items/LargeStandard/MartialOneHanded/LargeMasterworkGreataxe_m_DisplayNameText
 msgctxt "4e7e71e0-1166-41b8-97e8-b076b3247785"
 msgid "Masterwork Greataxe"
-msgstr "마스터워크 대형 도끼"
+msgstr "명품 대형 도끼"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworCompositeShortbow_m_DisplayNameText
 msgctxt "ef8d781c-d9f5-4516-b786-ba64d9a85dfe"
 msgid "Masterwork Composite Shortbow"
-msgstr "마스터워크 합성 단궁"
+msgstr "명품 합성 단궁"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkBardiche_m_DisplayNameText
 msgctxt "3361222c-a99c-46ce-a36a-794d621b5f60"
 msgid "Masterwork Bardiche"
-msgstr "마스터워크 바디시"
+msgstr "명품 바디시"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkBastardSwordOversized_m_DisplayNameText
 msgctxt "d35d34b5-5aaf-43bf-9f11-ee30cd2eef67"
 msgid "Masterwork Large Bastard Sword"
-msgstr "마스터워크 대형 바스타드 소드"
+msgstr "명품 대형 바스타드 소드"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkBastardSword_m_DisplayNameText
 msgctxt "3f022059-dc9c-4e3f-9ae4-0ca5220b0139"
 msgid "Masterwork Bastard Sword"
-msgstr "마스터워크 바스타드 소드"
+msgstr "명품 바스타드 소드"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkBattleaxe_m_DisplayNameText
 msgctxt "2c160b4f-b846-4796-bd52-093405592dfc"
 msgid "Masterwork Battleaxe"
-msgstr "마스터워크 전투도끼"
+msgstr "명품 전투도끼"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkBlowgun_m_DisplayNameText
 msgctxt "5565c627-b886-4eff-a095-dada420f6f57"
 msgid "Masterwork Blowgun"
-msgstr "마스터워크 바람총"
+msgstr "명품 바람총"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkBola_m_DisplayNameText
 msgctxt "f2a232e9-ebcf-4bdc-b667-82ffe752f154"
 msgid "Masterwork Bola"
-msgstr "마스터워크 볼라"
+msgstr "명품 볼라"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkClub_m_DisplayNameText
 msgctxt "cd29de43-54c3-454e-8822-dc0fa9863c09"
 msgid "Masterwork Club"
-msgstr "마스터워크 몽둥이"
+msgstr "명품 몽둥이"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkCompositeLongbow_m_DisplayNameText
 msgctxt "c9279d42-638d-48e2-b6d4-028772d3107d"
 msgid "Masterwork Composite Longbow"
-msgstr "마스터워크 합성 장궁"
+msgstr "명품 합성 장궁"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkDagger_m_DisplayNameText
 msgctxt "6b3c1ce1-dbb1-4dfa-a48f-3a72dd721d38"
 msgid "Masterwork Dagger"
-msgstr "마스터워크 단검"
+msgstr "명품 단검"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkDart_m_DisplayNameText
 msgctxt "4f2edd67-a917-44a5-a417-fdda2f321706"
 msgid "Masterwork Dart"
-msgstr "마스터워크 다트"
+msgstr "명품 다트"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkDoubleSwordSecond_m_DisplayNameText
 msgctxt "7233fbd9-b43f-41cf-9681-d0a90dd655a8"
 msgid "Masterwork Two-Bladed Sword"
-msgstr "마스터워크 쌍날검"
+msgstr "명품 쌍날검"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkDoubleSword_m_DisplayNameText
 msgctxt "d4045e3d-6a67-42dd-b4de-4d91a70f0094"
 msgid "Masterwork Two-Bladed Sword"
-msgstr "마스터워크 쌍날검"
+msgstr "명품 쌍날검"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkDuelingSword_m_DisplayNameText
 msgctxt "cdb10112-6d33-4040-8e6d-cb404d2694df"
 msgid "Masterwork Dueling Sword"
-msgstr "마스터워크 결투용 검"
+msgstr "명품 결투용 검"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkDwarvenUrgroshSecond_m_DisplayNameText
 msgctxt "2393e711-0661-445c-af8a-8b1a241829d2"
 msgid "Masterwork Dwarven Urgrosh"
-msgstr "마스터워크 드워프 우르그로쉬"
+msgstr "명품 드워프 우르그로쉬"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkDwarvenUrgrosh_m_DisplayNameText
 msgctxt "591443a9-8b2f-4350-9339-496b33d81b69"
 msgid "Masterwork Dwarven Urgrosh"
-msgstr "마스터워크 드워프 우르그로쉬"
+msgstr "명품 드워프 우르그로쉬"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkDwarvenWaraxe_m_DisplayNameText
 msgctxt "c0e791e8-bf7f-4082-a256-40decfd03c80"
 msgid "Masterwork Dwarven Waraxe"
-msgstr "마스터워크 드워프 전투도끼"
+msgstr "명품 드워프 전투도끼"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkEarthBreaker_m_DisplayNameText
 msgctxt "3fa1ea54-6eca-4814-b7fc-d96722b6ba3a"
 msgid "Masterwork Earth Breaker"
-msgstr "마스터워크 지진망치"
+msgstr "명품 지진망치"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkElvenCurvedBlade_m_DisplayNameText
 msgctxt "002eae07-2201-485e-9e04-97e64c02b80f"
 msgid "Masterwork Elven Curve Blade"
-msgstr "마스터워크 엘프 곡도"
+msgstr "명품 엘프 곡도"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkEstoc_m_DisplayNameText
 msgctxt "f26ff286-49a0-4cb8-84e7-0d4f91a24e1c"
 msgid "Masterwork Estoc"
-msgstr "마스터워크 에스톡"
+msgstr "명품 에스톡"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkFalcata_m_DisplayNameText
 msgctxt "49550d6f-ea80-4a5d-8a7b-3f4d2651e874"
 msgid "Masterwork Falcata"
-msgstr "마스터워크 팔카타"
+msgstr "명품 팔카타"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkFalchion_m_DisplayNameText
 msgctxt "05975221-d2b7-45bd-b653-33b7e13c1095"
 msgid "Masterwork Falchion"
-msgstr "마스터워크 펄션"
+msgstr "명품 펄션"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkFauchard_m_DisplayNameText
 msgctxt "8eed4d8b-e807-460c-ad50-b1464301912a"
 msgid "Masterwork Fauchard"
-msgstr "마스터워크 포샤르"
+msgstr "명품 포샤르"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkFlail_m_DisplayNameText
 msgctxt "a0b1ab66-21f8-42d6-b259-d2c78564baa3"
 msgid "Masterwork Flail"
-msgstr "마스터워크 도리깨"
+msgstr "명품 도리깨"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkGlaive_m_DisplayNameText
 msgctxt "3a2a2e67-973d-4ecb-b02e-26e597fe9ae4"
 msgid "Masterwork Glaive"
-msgstr "마스터워크 글레이브"
+msgstr "명품 글레이브"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkGnomehookedHammerSecond_m_DisplayNameText
 msgctxt "03df9cf0-f8eb-4d73-a4fa-202656966e13"
 msgid "Masterwork Gnome Hooked Hammer"
-msgstr "마스터워크 노움 갈고리 망치"
+msgstr "명품 노움 갈고리 망치"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkGnomeHookedHammer_m_DisplayNameText
 msgctxt "301b3637-8120-47cd-bab6-9d535b150c87"
 msgid "Masterwork Gnome Hooked Hammer"
-msgstr "마스터워크 노움 갈고리 망치"
+msgstr "명품 노움 갈고리 망치"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkGreataxe_m_DisplayNameText
 msgctxt "bfb28b16-f0fe-4f8c-b157-aed279e9f41e"
 msgid "Masterwork Greataxe"
-msgstr "마스터워크 대형 도끼"
+msgstr "명품 대형 도끼"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkGreatclub_m_DisplayNameText
 msgctxt "b1be5406-306e-4753-bf8b-3129300fac4b"
 msgid "Masterwork Greatclub"
-msgstr "마스터워크 대형 몽둥이"
+msgstr "명품 대형 몽둥이"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkGreatsword_m_DisplayNameText
 msgctxt "ae7cf3fe-70fa-4533-ab00-aa07350d59ca"
 msgid "Masterwork Greatsword"
-msgstr "마스터워크 대검"
+msgstr "명품 대검"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkHandaxe_m_DisplayNameText
 msgctxt "60545a18-b38e-469b-9fe0-9c74eca6b45e"
 msgid "Masterwork Handaxe"
-msgstr "마스터워크 손도끼"
+msgstr "명품 손도끼"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkHandCrossbow_m_DisplayNameText
 msgctxt "beb330c9-c0fa-4091-9d8a-93437358920c"
 msgid "Masterwork Hand Crossbow"
-msgstr "마스터워크 손쇠뇌"
+msgstr "명품 손쇠뇌"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkHeavyCrossbow_m_DisplayNameText
 msgctxt "3be6d657-685b-47e1-a314-94c4699731da"
 msgid "Masterwork Heavy Crossbow"
-msgstr "마스터워크 대형 쇠뇌"
+msgstr "명품 대형 쇠뇌"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkHeavyFlail_m_DisplayNameText
 msgctxt "a5a10000-79b1-49b1-8fee-50dbd2f8aca6"
 msgid "Masterwork Heavy Flail"
-msgstr "마스터워크 대형 도리깨"
+msgstr "명품 대형 도리깨"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkHeavyMace_m_DisplayNameText
 msgctxt "868bcd9e-a8cc-4a30-8d12-5d75fc978ef7"
 msgid "Masterwork Heavy Mace"
-msgstr "마스터워크 중형 철퇴"
+msgstr "명품 중형 철퇴"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkHeavyPick_m_DisplayNameText
 msgctxt "f2b0e1c1-85b1-48ab-b121-c128e07e709e"
 msgid "Masterwork Heavy Pick"
-msgstr "마스터워크 대형 곡괭이"
+msgstr "명품 중형 곡괭이"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkHeavyRepeatingCrossbow_m_DisplayNameText
 msgctxt "d02e4097-07cd-4db9-ba93-c159961f2f1d"
 msgid "Masterwork Heavy Repeating Crossbow"
-msgstr "마스터워크 대형 연사 쇠뇌"
+msgstr "명품 대형 연사 쇠뇌"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkJavelin_m_DisplayNameText
 msgctxt "6eb518f8-0f2d-433f-a03d-88719f7f37a7"
 msgid "Masterwork Javelin"
-msgstr "마스터워크 투창"
+msgstr "명품 투창"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkKama_m_DisplayNameText
 msgctxt "1c9a7be6-04eb-4446-aee1-f055d9c4adb0"
 msgid "Masterwork Kama"
-msgstr "마스터워크 카마"
+msgstr "명품 카마"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkKukri_m_DisplayNameText
 msgctxt "29d68e90-809f-460c-a2a4-c5ff2de04b31"
 msgid "Masterwork Kukri"
-msgstr "마스터워크 쿠크리"
+msgstr "명품 쿠크리"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkLightCrossbow_m_DisplayNameText
 msgctxt "e9a45e7c-4211-4b97-9ac8-eefb1b78202a"
 msgid "Masterwork Light Crossbow"
-msgstr "마스터워크 소형 쇠뇌"
+msgstr "명품 소형 쇠뇌"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkLightHammer_m_DisplayNameText
 msgctxt "73fdb6a4-0591-4f84-a333-cdbe69738cde"
 msgid "Masterwork Light Hammer"
-msgstr "마스터워크 소형 망치"
+msgstr "명품 소형 망치"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkLightMace_m_DisplayNameText
 msgctxt "e07c423d-6cc7-4594-8747-7cf87ecca902"
 msgid "Masterwork Light Mace"
-msgstr "마스터워크 소형 철퇴"
+msgstr "명품 소형 철퇴"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkLightPick_m_DisplayNameText
 msgctxt "6104f90c-f696-4c27-8b78-754494515307"
 msgid "Masterwork Light Pick"
-msgstr "마스터워크 소형 곡괭이"
+msgstr "명품 소형 곡괭이"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkLightRepeatedCrossbow_m_DisplayNameText
 msgctxt "8337b7bb-4296-4ccd-986b-ce8badecd259"
 msgid "Masterwork Light Repeating Crossbow"
-msgstr "마스터워크 소형 연사 쇠뇌"
+msgstr "명품 소형 연사 쇠뇌"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkLongbow_m_DisplayNameText
 msgctxt "10aff1b8-b56d-4b9a-9254-96f40dbd6864"
 msgid "Masterwork Longbow"
-msgstr "마스터워크 장궁"
+msgstr "명품 장궁"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkLongspear_m_DisplayNameText
 msgctxt "093a4941-5578-4301-8d08-a5d8c3d87711"
 msgid "Masterwork Longspear"
-msgstr "마스터워크 장창"
+msgstr "명품 장창"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkLongsword_m_DisplayNameText
 msgctxt "b90c6db1-2f31-4731-8f53-35dbf78bf013"
 msgid "Masterwork Longsword"
-msgstr "마스터워크 장검"
+msgstr "명품 장검"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkNunchaku_m_DisplayNameText
 msgctxt "3f54b9ad-2652-4941-a387-a83fafb61522"
 msgid "Masterwork Nunchaku"
-msgstr "마스터워크 쌍절곤"
+msgstr "명품 쌍절곤"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkPunchingDagger_m_DisplayNameText
 msgctxt "14a02fe6-8e98-4ddc-bf89-79a8e8d29420"
 msgid "Masterwork Punching Dagger"
-msgstr "마스터워크 주먹칼"
+msgstr "명품 주먹칼"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkQuarterstaff_m_DisplayNameText
 msgctxt "e8f98598-08ea-4a0c-b7c3-fc105f9c438a"
 msgid "Masterwork Quarterstaff"
-msgstr "마스터워크 육척봉"
+msgstr "명품 육척봉"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkRapier_m_DisplayNameText
 msgctxt "0725e6e2-360b-4593-8ae7-ae3bc7e4b1aa"
 msgid "Masterwork Rapier"
-msgstr "마스터워크 레이피어"
+msgstr "명품 레이피어"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkSai_m_DisplayNameText
 msgctxt "c5e34be8-a8e9-405a-8b67-ff39eaf7cbf6"
 msgid "Masterwork Sai"
-msgstr "마스터워크 필가차"
+msgstr "명품 필가차"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkScimitar_m_DisplayNameText
 msgctxt "28696254-8891-4201-a008-ba7789b7da93"
 msgid "Masterwork Scimitar"
-msgstr "마스터워크 시미터"
+msgstr "명품 시미터"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkScythe_m_DisplayNameText
 msgctxt "00e56e63-a276-4391-9811-0e22f8b4dd87"
 msgid "Masterwork Scythe"
-msgstr "마스터워크 대낫"
+msgstr "명품 대낫"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkShortbow_m_DisplayNameText
 msgctxt "0e09e9dc-8dc3-40d6-aa38-c9a5d36926af"
 msgid "Masterwork Shortbow"
-msgstr "마스터워크 단궁"
+msgstr "명품 단궁"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkShortspear_m_DisplayNameText
 msgctxt "c2a05909-d604-491f-b240-80b53f163117"
 msgid "Masterwork Shortspear"
-msgstr "마스터워크 단창"
+msgstr "명품 단창"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkShortsword_m_DisplayNameText
 msgctxt "3810e520-5781-41f5-aa7e-2312a310a43d"
 msgid "Masterwork Shortsword"
-msgstr "마스터워크 소검"
+msgstr "명품 소검"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkShuriken_m_DisplayNameText
 msgctxt "bdb66a7c-9fbf-4a03-a84d-7ca7a9718f01"
 msgid "Masterwork Shuriken"
-msgstr "마스터워크 수리검"
+msgstr "명품 수리검"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkSiangham_m_DisplayNameText
 msgctxt "01549bd7-837b-4798-a9b9-728d25a7e044"
 msgid "Masterwork Siangham"
-msgstr "마스터워크 시앙함"
+msgstr "명품 시앙함"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkSickle_m_DisplayNameText
 msgctxt "d59969ac-497a-4ed2-9d1e-caea899cb257"
 msgid "Masterwork Sickle"
-msgstr "마스터워크 낫"
+msgstr "명품 낫"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkSlingStaff_m_DisplayNameText
 msgctxt "8ed7794a-3930-4f32-b15a-e434e3042031"
 msgid "Masterwork Sling Staff"
-msgstr "마스터워크 슬링 스태프"
+msgstr "명품 슬링 스태프"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkSling_m_DisplayNameText
 msgctxt "f8b0b588-59a9-4e9d-9388-4b13f66c73e1"
 msgid "Masterwork Sling"
-msgstr "마스터워크 슬링"
+msgstr "명품 슬링"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkSpear_m_DisplayNameText
 msgctxt "d79dca1e-9773-4f51-8e18-8145d22c1d29"
 msgid "Masterwork Spear"
-msgstr "마스터워크 창"
+msgstr "명품 창"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkSpikedHeavyShield_m_DisplayNameText
 msgctxt "af9ba0a6-444a-4450-ab7d-abdcf0b791c9"
 msgid "Masterwork Spiked Heavy Shield"
-msgstr "마스터워크 가시 중형 방패"
+msgstr "명품 가시 중형 방패"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkSpikedLightShield_m_DisplayNameText
 msgctxt "e2937c8a-51f9-4d4c-aaf5-1c4765d07b49"
 msgid "Masterwork Spiked Light Shield"
-msgstr "마스터워크 가시 소형 방패"
+msgstr "명품 가시 소형 방패"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkStandardDoubleAxeSecond_m_DisplayNameText
 msgctxt "70a52814-dd2b-4829-afea-3a573e127828"
 msgid "Masterwork Orc Double Axe"
-msgstr "마스터워크 오크 쌍날도끼"
+msgstr "명품 오크 쌍날도끼"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkStandardDoubleAxe_m_DisplayNameText
 msgctxt "7427a777-398b-46aa-baf4-32c5f9a633f4"
 msgid "Masterwork Orc Double Axe"
-msgstr "마스터워크 오크 쌍날도끼"
+msgstr "명품 오크 쌍날도끼"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkStarknife_m_DisplayNameText
 msgctxt "4cde8e79-6964-47c1-9d6d-ad07f2e1d66d"
 msgid "Masterwork Starknife"
-msgstr "마스터워크 스타나이프"
+msgstr "명품 스타나이프"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkThrowingAxe_m_DisplayNameText
 msgctxt "50a6c444-3ebe-4c30-a90a-5c550c3eb69d"
 msgid "Masterwork Throwing Axe"
-msgstr ""
+msgstr "명품 투척용 도끼"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkTongi_m_DisplayNameText
 msgctxt "1af3b57c-1152-4472-a8f2-253dbfcb7533"
 msgid "Masterwork Tongi"
-msgstr "마스터워크 통기"
+msgstr "명품 통기"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkTrident_m_DisplayNameText
 msgctxt "0efac384-e0e5-42bc-91e6-0adc1dd43247"
 msgid "Masterwork Trident"
-msgstr "마스터워크 삼지창"
+msgstr "명품 삼지창"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkWarhammer_m_DisplayNameText
 msgctxt "db79c78c-3e63-4e59-a247-43593bc8cbb3"
 msgid "Masterwork Warhammer"
-msgstr "마스터워크 전투망치"
+msgstr "명품 전투망치"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkWeaponHeavyShield_m_DisplayNameText
 msgctxt "550e8e10-f329-424e-b991-3a090c750e59"
 msgid "Masterwork Heavy Shield"
-msgstr "마스터워크 중형 방패"
+msgstr "명품 중형 방패"
 
 #. Mechanics/Blueprints/Weapons/Items/Masterwork/MasterworkWeaponLightShield_m_DisplayNameText
 msgctxt "6f347484-5a68-4adb-80bc-61fb4f83e3ac"
 msgid "Masterwork Light Shield"
-msgstr "마스터워크 소형 방패"
+msgstr "명품 소형 방패"
 
 #. Mechanics/Blueprints/Weapons/Items/Standard/SimpleTwoHanded/NecromancersStaffItem_m_DescriptionText
 msgctxt "a6aaac3d-4945-4e01-bc25-a50cf5d25696"
@@ -16147,12 +16033,12 @@ msgid ""
 "This +1 quarterstaff grants a +3 enhancement bonus to the weapons of the "
 "monsters summoned by the wielder using animate dead and create undead "
 "spells."
-msgstr ""
+msgstr "이 +1 육척봉은 착용자가 시체 일으키기나 언데드 창조 주문으로 소환한 괴물들의 무기에 +3 강화 보너스를 부여합니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Standard/SimpleTwoHanded/NecromancersStaffItem_m_DisplayNameText
 msgctxt "c9ca0d96-c6f1-41d0-81df-16b34bb01548"
 msgid "Necromancer's Staff"
-msgstr ""
+msgstr "네크로맨서의 지팡이"
 
 #. Mechanics/Blueprints/Weapons/Items/Standard/Special/StandardTorch_DisplayNameText_String
 msgctxt "e24b86de-7944-4116-816b-9c95a25f0025"
@@ -16190,11 +16076,9 @@ msgid "Thundering Fauchard +1"
 msgstr "뇌성의 포샤르 +1"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus2/GreatclubBaneUndeadPlus1_m_DisplayNameText
-#, fuzzy
-#| msgid "Bane Undead Greatclub +1"
 msgctxt "a99bc822-76a5-423e-9922-9fd8c1cd3e61"
 msgid "Undead Bane Greatclub +1"
-msgstr "언데드 파멸 대형 몽둥이 +1"
+msgstr "언데드 파멸의 대형 몽둥이 +1"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus2/HeavyFlailNecroticPlus1_m_DisplayNameText
 msgctxt "75dd3a48-1b30-4149-a087-9fdc67a0a2e1"
@@ -16444,7 +16328,7 @@ msgstr "부식성 중형 철퇴 +1"
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus2/Corrosive/HeavyPickCorrosivePlus1_m_DisplayNameText
 msgctxt "0e9498f4-9662-4fb1-aa2d-7686509cad2b"
 msgid "Corrosive Heavy Pick +1"
-msgstr "부식성 대형 곡괭이 +1"
+msgstr "부식성 중형 곡괭이 +1"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus2/Corrosive/HeavyRepeatingCrossbowCorrosivePlus1_m_DisplayNameText
 msgctxt "ae14425b-b553-4629-8be5-6d262755de66"
@@ -16779,7 +16663,7 @@ msgstr "불꽃의 중형 철퇴 +1"
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus2/Flaming/HeavyPickFlamingPlus1_m_DisplayNameText
 msgctxt "6dfd0dfb-2bee-49b9-ba73-0ae3c26dfa71"
 msgid "Flaming Heavy Pick +1"
-msgstr "불꽃의 대형 곡괭이 +1"
+msgstr "불꽃의 중형 곡괭이 +1"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus2/Flaming/HeavyRepeatingCrossbowFlamingPlus1_m_DisplayNameText
 msgctxt "7daa3368-4d39-4beb-9590-db3c9548be75"
@@ -16812,8 +16696,6 @@ msgid "Flaming Light Hammer +1"
 msgstr "불꽃의 소형 망치 +1"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus2/Flaming/LightMaceFlamingPlus1_m_DisplayNameText
-#, fuzzy
-#| msgid "Flaming light mace +1"
 msgctxt "61c0f234-d46a-48a4-87a6-b567eb8c48e5"
 msgid "Flaming Light Mace +1"
 msgstr "불꽃의 소형 철퇴 +1"
@@ -17011,7 +16893,7 @@ msgstr "서리의 몽둥이 +1"
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus2/Frost/CompositeLongbowFrostPlus1_m_DisplayNameText
 msgctxt "800024ec-ce7a-4ca2-b13f-249c79923a93"
 msgid "Frost Composite Longbow +1"
-msgstr ""
+msgstr "서리의 합성 장궁 +1"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus2/Frost/DaggerFrostPlus1_m_DisplayNameText
 msgctxt "ad3a91c9-02ec-4d0e-992e-891ef4c13863"
@@ -17116,7 +16998,7 @@ msgstr "서리의 중형 철퇴 +1"
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus2/Frost/HeavyPickFrostPlus1_m_DisplayNameText
 msgctxt "33d2062f-9bdf-40f7-896d-cb50cee2adad"
 msgid "Frost Heavy Pick +1"
-msgstr "서리의 대형 곡괭이 +1"
+msgstr "서리의 중형 곡괭이 +1"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus2/Frost/HeavyRepeatingCrossbowFrostPlus1_m_DisplayNameText
 msgctxt "495abd0f-2d33-462f-97c5-e16b3da5c52d"
@@ -17149,8 +17031,6 @@ msgid "Frost Light Hammer +1"
 msgstr "서리의 소형 망치 +1"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus2/Frost/LightMaceFrostPlus1_m_DisplayNameText
-#, fuzzy
-#| msgid "Frost light mace +1"
 msgctxt "5c8f589e-fdd0-4e93-a5f9-0ca261557b7b"
 msgid "Frost Light Mace +1"
 msgstr "서리의 소형 철퇴 +1"
@@ -17413,7 +17293,7 @@ msgstr "예리한 대형 도리깨 +1"
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus2/Keen/HeavyPickKeenPlus1_m_DisplayNameText
 msgctxt "1f9a9d2e-54ce-4ab3-abac-db289632f95c"
 msgid "Keen Heavy Pick +1"
-msgstr "예리한 대형 곡괭이 +1"
+msgstr "예리한 중형 곡괭이 +1"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus2/Keen/JavelinKeenPlus1_m_DisplayNameText
 msgctxt "a1e0ec90-f0e0-4c40-b5a1-5e5cdfa7d6a0"
@@ -17688,7 +17568,7 @@ msgstr "전격의 중형 철퇴 +1"
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus2/Shock/HeavyPickShockPlus1_m_DisplayNameText
 msgctxt "49b94135-6152-499b-b46c-69f23621535b"
 msgid "Shock Heavy Pick +1"
-msgstr "전격의 대형 곡괭이 +1"
+msgstr "전격의 중형 곡괭이 +1"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus2/Shock/HeavyRepeatingCrossbowShockPlus1_m_DisplayNameText
 msgctxt "ee8dd29f-673b-49d1-8dc8-7d8998e45799"
@@ -17721,8 +17601,6 @@ msgid "Shock Light Hammer +1"
 msgstr "전격의 소형 망치 +1"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus2/Shock/LightMaceShockPlus1_m_DisplayNameText
-#, fuzzy
-#| msgid "Shock light mace +1"
 msgctxt "c33cbf7c-ce97-4b68-8a0f-24b8a5d94895"
 msgid "Shock Light Mace +1"
 msgstr "전격의 소형 철퇴 +1"
@@ -17905,7 +17783,7 @@ msgstr "광휘의 결투용 검 +2"
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus3/FuriousBardichePlus2_m_DisplayNameText
 msgctxt "9370c789-d31d-43b9-a96a-9bc2902f85ea"
 msgid "Furious Bardiche +2"
-msgstr ""
+msgstr "격분의 바디시 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus3/HandaxeAgileBrilliantEnergyPlus1_m_DisplayNameText
 msgctxt "fc5ad535-0d13-41cb-bc6d-722417ea97f3"
@@ -17913,15 +17791,11 @@ msgid "Agile Brilliant Energy Handaxe +1"
 msgstr "날렵한 광명의 에너지 손도끼 +1"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus3/HeavyCrossbowBaneWerePlus2_m_DisplayNameText
-#, fuzzy
-#| msgid "Bane Lycanthrope Heavy Crossbow +2"
 msgctxt "bb7676e6-af64-4023-bc63-f60b886167d1"
 msgid "Lycanthrope Bane Heavy Crossbow +2"
-msgstr "야수인간 파멸 대형 쇠뇌"
+msgstr "야수인간 파멸 대형 쇠뇌 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus3/HeavyMaceBaneGiantPlus2_m_DisplayNameText
-#, fuzzy
-#| msgid "Bane Giant Heavy Mace +2"
 msgctxt "98febe5d-9f0c-4af5-8766-7b957fb81041"
 msgid "Giant Bane Heavy Mace +2"
 msgstr "거인 파멸의 중형 철퇴 +2"
@@ -17977,8 +17851,6 @@ msgid "Flaming Orc Double Axe +2"
 msgstr "불꽃의 오크 쌍날도끼 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus3/StarknifeBaneUndeadPlus2_m_DisplayNameText
-#, fuzzy
-#| msgid "Bane Undead Starknife +2"
 msgctxt "639dafed-52b1-4554-b5a8-0d75b8a1d26f"
 msgid "Undead Bane Starknife +2"
 msgstr "언데드 파멸의 스타나이프 +2"
@@ -18116,7 +17988,7 @@ msgstr "부식성 중형 철퇴 +2"
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus3/Corrosive/HeavyPickCorrosivePlus2_m_DisplayNameText
 msgctxt "90e8da5c-6bfc-41c3-b4dd-78ac5016bea6"
 msgid "Corrosive Heavy Pick +2"
-msgstr "부식성 대형 곡괭이 +2"
+msgstr "부식성 중형 곡괭이 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus3/Corrosive/HeavyRepeatingCrossbowCorrosivePlus2_m_DisplayNameText
 msgctxt "58846202-ce24-455c-bdbf-f9720981fe4f"
@@ -18149,8 +18021,6 @@ msgid "Corrosive Light Hammer +2"
 msgstr "부식성 소형 망치 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus3/Corrosive/LightMaceCorrosivePlus2_m_DisplayNameText
-#, fuzzy
-#| msgid "Corrosive light mace +2"
 msgctxt "19ff72bc-0dc4-4ee2-be6c-0b4719215c06"
 msgid "Corrosive Light Mace +2"
 msgstr "부식성 소형 철퇴 +2"
@@ -18453,7 +18323,7 @@ msgstr "불꽃의 중형 철퇴 +2"
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus3/Flaming/HeavyPickFlamingPlus2_m_DisplayNameText
 msgctxt "09c152d9-4fdc-476b-bb0f-5d58cbd7258f"
 msgid "Flaming Heavy Pick +2"
-msgstr "불꽃의 대형 곡괭이 +2"
+msgstr "불꽃의 중형 곡괭이 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus3/Flaming/HeavyRepeatingCrossbowFlamingPlus2_m_DisplayNameText
 msgctxt "ab28e7eb-ca40-4f7c-ac9b-bbffbcc21ea1"
@@ -18486,8 +18356,6 @@ msgid "Flaming Light Hammer +2"
 msgstr "불꽃의 소형 망치 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus3/Flaming/LightMaceFlamingPlus2_m_DisplayNameText
-#, fuzzy
-#| msgid "Flaming light mace +2"
 msgctxt "8f3357f0-3906-45c1-aa4e-782a374c3ef8"
 msgid "Flaming Light Mace +2"
 msgstr "불꽃의 소형 철퇴 +2"
@@ -18785,7 +18653,7 @@ msgstr "서리의 중형 철퇴 +2"
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus3/Frost/HeavyPickFrostPlus2_m_DisplayNameText
 msgctxt "6436761a-221a-42e2-9533-ba6d09962ce8"
 msgid "Frost Heavy Pick +2"
-msgstr "서리의 대형 곡괭이 +2"
+msgstr "서리의 중형 곡괭이 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus3/Frost/HeavyRepeatingCrossbowFrostPlus2_m_DisplayNameText
 msgctxt "733072f8-0a7b-48a2-a709-0b96e045ea17"
@@ -18818,8 +18686,6 @@ msgid "Frost Light Hammer +2"
 msgstr "서리의 소형 망치 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus3/Frost/LightMaceFrostPlus2_m_DisplayNameText
-#, fuzzy
-#| msgid "Frost light mace +2"
 msgctxt "33479e5a-f30e-4b80-942e-8e462ecfe066"
 msgid "Frost Light Mace +2"
 msgstr "서리의 소형 철퇴 +2"
@@ -19227,7 +19093,7 @@ msgstr "전격의 중형 철퇴 +2"
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus3/Shock/HeavyPickShockPlus2_m_DisplayNameText
 msgctxt "9ea4ffa1-c317-4696-878f-4da2a0a5eabc"
 msgid "Shock Heavy Pick +2"
-msgstr "전격의 대형 곡괭이 +2"
+msgstr "전격의 중형 곡괭이 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus3/Shock/HeavyRepeatingCrossbowShockPlus2_m_DisplayNameText
 msgctxt "76e0915d-df0d-45bf-9139-1fc6eb6f2754"
@@ -19260,8 +19126,6 @@ msgid "Shock Light Hammer +2"
 msgstr "전격의 소형 망치 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus3/Shock/LightMaceShockPlus2_m_DisplayNameText
-#, fuzzy
-#| msgid "Shock light mace +2"
 msgctxt "217b3dc0-e8d9-4f14-9576-a58b3abee811"
 msgid "Shock Light Mace +2"
 msgstr "전격의 소형 철퇴 +2"
@@ -19432,15 +19296,11 @@ msgid "Shock Light Shield +2"
 msgstr "전격의 소형 방패 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus4/BattleaxeFlamingCorrosivePlus2_m_DisplayNameText
-#, fuzzy
-#| msgid "Flaming Corrosive Battleaxe +2"
 msgctxt "2eed1c68-2c85-452e-96e5-9f017220f88d"
 msgid "Corrosive Flaming Battleaxe +2"
 msgstr "불꽃의 부식성 전투도끼 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus4/BattleaxeFrostShockPlus2_m_DisplayNameText
-#, fuzzy
-#| msgid "Shock Frost Battleaxe +2"
 msgctxt "305edcac-6bf2-4e79-b3ed-485845c549e4"
 msgid "Frost Shock Battleaxe +2"
 msgstr "충격과 서리의 전투도끼 +2"
@@ -19451,15 +19311,11 @@ msgid "Corrosive Flaming Club +2"
 msgstr "부식성 불꽃의 몽둥이 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus4/DartSonicShockPlus2_m_DisplayNameText
-#, fuzzy
-#| msgid "Thundering Shock Dart +2"
 msgctxt "53933a17-93e8-443f-9edc-dc4c7f7711f1"
 msgid "Shock Thundering Dart +2"
 msgstr "뇌성과 전격의 다트 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus4/DwarvenWaraxeCorrosiveBaneVerminPlus2_m_DisplayNameText
-#, fuzzy
-#| msgid "Corrosive Bane Vermin Dwarven Waraxe +2"
 msgctxt "aa145b63-b1e8-41a1-a022-df3d3f967486"
 msgid "Corrosive Vermin Bane Dwarven Waraxe +2"
 msgstr "부식성 해충 파멸의 드워프 전투도끼 +2"
@@ -19480,15 +19336,11 @@ msgid "Greater Shock Greataxe +2"
 msgstr "상급 전격의 대형 도끼 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus4/GreatswordKeenBaneLycanPlus2_m_DisplayNameText
-#, fuzzy
-#| msgid "Anarchic Bane Lycanthrope Greatsword +2"
 msgctxt "85a5aec9-d2dd-45a1-b082-4357318847bb"
 msgid "Anarchic Lycanthrope Bane Greatsword +2"
 msgstr "무질서한 야수인간 파멸의 대검 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus4/HeavyFlailKeenBaneFeyPlus2_m_DisplayNameText
-#, fuzzy
-#| msgid "Speed Bane Fey Heavy Flail +2"
 msgctxt "04c9e044-ef37-4b80-8032-765c926acac2"
 msgid "Speed Fey Bane Heavy Flail +2"
 msgstr "신속한 페이 파멸의 대형 도리깨 +2"
@@ -19509,11 +19361,9 @@ msgid "Speed Necrotic Longsword +2"
 msgstr "신속한 괴저성 장검 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus4/NunchakuBaneUndeadShockPlus2_m_DisplayNameText
-#, fuzzy
-#| msgid "Bane Undead Shock Nunchaku +2"
 msgctxt "920a9d59-0e6e-403b-8db6-2fcea14c84f7"
 msgid "Undead Bane Shock Nunchaku +2"
-msgstr "언데드 파멸과 전격의 쌍절곤"
+msgstr "언데드 파멸과 전격의 쌍절곤 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus4/PunchingDaggerImprovedCorrosivePlus2_m_DisplayNameText
 msgctxt "b6023585-7c85-4f2a-b49f-bac58f9fa65e"
@@ -19556,8 +19406,6 @@ msgid "Axiomatic Flaming Shortsword +2"
 msgstr "공리와 불꽃의 소검 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus4/SickleBaneHumanFlamingPlus2_m_DisplayNameText
-#, fuzzy
-#| msgid "Bane Plant Flaming Sickle +2"
 msgctxt "e41228a8-dd3e-4d72-9946-9116750ff2a7"
 msgid "Plant Bane Flaming Sickle +2"
 msgstr "식물 파멸과 불꽃의 낫 +2"
@@ -19863,17 +19711,17 @@ msgctxt "495164d3-41cc-4a34-8d0e-7278e42065a6"
 msgid ""
 "Weapon is exceptionally large and deals more damage, but attacks with it "
 "suffer a penalty of -2 to attack rolls."
-msgstr ""
+msgstr "무기가 매우 크고 더 많은 피해를 입힙니다. 대신 이 무기로 공격시 명중 굴림에 -2의 패널티를 받습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus7/OversizedPenaltyNegateEnchant_m_EnchantName
 msgctxt "5e0e34db-0fce-42d3-8dcc-3e1c45a711c6"
 msgid "Oversized"
-msgstr ""
+msgstr "확대된"
 
 #. Mechanics/Blueprints/Weapons/Items/TotalPlus7/OversizedPenaltyNegateEnchant_m_Prefix
 msgctxt "3d2b8f54-d60c-40a1-81d5-4ca7fe474058"
 msgid "Oversized"
-msgstr ""
+msgstr "확대된"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/AmiriSwordBroken_m_DisplayNameText
 msgctxt "2a1b3b23-c5bf-4aa6-8013-16bcc7a75859"
@@ -19984,18 +19832,9 @@ msgstr "콜드 아이언 레이피어 +1"
 #. Mechanics/Blueprints/Weapons/Items/Unique/CompositeLongbowBralaniAzata_m_DisplayNameText
 msgctxt "1e9edc0f-6a10-42bb-aaa7-31bb2de60ec1"
 msgid "Holy Longbow +1"
-msgstr ""
+msgstr "성스러운 장궁 +1"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/CompositeLongbowSpellsPlus1_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +1 composite longbow grants its wielder the ability to cast aspect of "
-#| "the falcon spell three times per day, for 1 minute each time. When the "
-#| "wielder assumes the aspect of the falcon, they gain a +3 competence bonus on"
-#| " Perception skill checks, a +1 competence bonus on attack rolls with ranged "
-#| "weapons, and the critical multiplier for their bows and crossbows becomes "
-#| "19-20/×3. This effect does not stack with any other effect that improves the"
-#| " critical range of a weapon."
 msgctxt "08fa97c1-e95a-4613-bf9d-ec6e71dde305"
 msgid ""
 "This +1 composite longbow grants its wielder the ability to cast aspect of "
@@ -20006,9 +19845,9 @@ msgid ""
 "crossbows becomes 19-20/×3. This effect does not stack with any other effect"
 " that improves the critical range of a weapon."
 msgstr ""
-"이 +1 합성 장궁은 하루에 세 번 1분 동안 매의 형상 주문을 쓸 수 있게 해줍니다. 매의 형상을 쓰면 지각 기술 판정에 +3의 "
-"보너스를 받으며 원거리 무기 명중 굴림에 +1의 보너스를 받고 활과 쇠뇌의 치명타 배율이 19-20 / × 3이됩니다. 이 효과는 무기의"
-" 치명타 범위를 향상시키는 다른 효과와 중복되지 않습니다."
+"이 +1 합성 장궁은 하루에 세 번 1분 동안 1 레벨 드루이드의 매의 형상 주문을 쓸 수 있게 해줍니다. 매의 형상을 쓰면 지각 기술 "
+"판정에 +3의 보너스를 받으며 원거리 무기 명중 굴림에 +1의 보너스를 받고 활과 쇠뇌의 치명타 배율이 19-20 / × 3이됩니다. 이 "
+"효과는 무기의 치명타 범위를 향상시키는 다른 효과와 중복되지 않습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/CompositeLongbowSpellsPlus1_m_DisplayNameText
 msgctxt "870d7f8f-3cde-4b67-90b4-08cfb0469bea"
@@ -20108,7 +19947,7 @@ msgstr "바스타드 소드"
 #. Mechanics/Blueprints/Weapons/Items/Unique/LongswordGhaeleAzata_m_DisplayNameText
 msgctxt "d8138fdb-1fbc-4101-84e3-758d6d59289f"
 msgid "Holy Longsword +2"
-msgstr ""
+msgstr "성스러운 장검 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/NecroticHeavyMacePlus2_m_DisplayNameText
 msgctxt "e23a8f68-a873-4b15-835b-8985f555edb4"
@@ -20418,8 +20257,6 @@ msgid "The handle of this kukri is made of human bone."
 msgstr "이 쿠크리의 손잡이는 사람 뼈로 만들어졌습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/Chapter2/GoblinShortswordPlus1_m_DisplayNameText
-#, fuzzy
-#| msgid "Dogsilcer +1"
 msgctxt "1d4058b5-6d8f-4714-8908-6f40e08557df"
 msgid "Dogslicer +1"
 msgstr "개도살자 +1"
@@ -20464,7 +20301,7 @@ msgstr "연기와 불길에 휩싸인 이 무기는 맞서는 자의 가슴을 �
 #. Mechanics/Blueprints/Weapons/Items/Unique/Chapter2/Kneesplitter_m_DescriptionText
 msgctxt "2870179e-452a-432c-a89d-86a2fc6e7206"
 msgid "This weapon is a +2 giant bane heavy pick."
-msgstr "이 무기는 +2 거인 파멸의 대형 곡괭이입니다."
+msgstr "이 무기는 +2 거인 파멸의 중형 곡괭이입니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/Chapter2/Kneesplitter_m_DisplayNameText
 msgctxt "a71a7555-aa59-49f5-94d7-c585c292360d"
@@ -20538,7 +20375,7 @@ msgstr "이 칼은 황혼이 되면 마치 그 안에 번개가 치는 것처럼
 msgctxt "e2132777-b366-4c3b-b50f-dc1a08d4e4e0"
 msgid ""
 "This longbow deals additional 1d4 damage to animals and undead creatures."
-msgstr "이 장궁은 ​​동물과 언데드 크리처에게 1d4점의 추가 피해를 입힙니다."
+msgstr "이 장궁은 동물과 언데드 크리처에게 1d4점의 추가 피해를 입힙니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/Chapter2/LongbowOfErastilItem_m_DisplayNameText
 msgctxt "6c0d98a9-f628-4581-9b1e-f7b99a5f40b0"
@@ -20691,7 +20528,7 @@ msgid ""
 "This weapon is an agile rapier +2. It allows its wielder to add their "
 "Dexterity bonus to damage rolls instead of Strength bonus (whichever is "
 "higher)."
-msgstr "이 무기는 날렵한 레이피어 +2 입니다. 피해 굴림에 힘 수정치와 민첩 수정치 중 더 높은 쪽을 사용할 수 있습니다. "
+msgstr "이 무기는 날렵한 레이피어 +2 입니다. 피해 굴림에 힘 수정치와 민첩 수정치 중 더 높은 쪽을 사용할 수 있습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/Chapter2/RapierAgilePlus2_m_DisplayNameText
 msgctxt "d0505014-71b8-4cc8-9f64-3b0c54b1009d"
@@ -20857,11 +20694,9 @@ msgid ""
 msgstr "이 카마를 휘두르면 날카로운 소리로 비명을 지릅니다. 이 소리는 카마의 칼날 만큼이나 날카롭습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/Chapter2/TheBreaker_m_DescriptionText
-#, fuzzy
-#| msgid "This weapon is a +1 adamantium construct bane heavy pick."
 msgctxt "411aaa7e-fb56-4328-9815-e3d504aeb5b1"
 msgid "This weapon is a +1 adamantine construct bane heavy pick."
-msgstr "이 무기는 +1 아다만티움 구조물 파멸의 곡괭이입니다."
+msgstr "이 무기는 +1 아다만틴 구조물 파멸의 중형 곡괭이입니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/Chapter2/TheBreaker_m_DisplayNameText
 msgctxt "c761ebc2-6ad5-43cd-8498-fc1f9b44fd55"
@@ -20945,19 +20780,19 @@ msgstr "골라리온의 많은 지역사회는 거인에 대한 끊임없는 공
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC2/LionsClaw_m_DescriptionText
 msgctxt "621d2a53-7ec6-489e-950f-a3c579bcbfb9"
 msgid "This +3 falcata has a critical range of 18-20."
-msgstr ""
+msgstr "이 +3 팔카타는 치명타 범위가 18-20 입니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC2/LionsClaw_m_DisplayNameText
 msgctxt "414bcc7c-8100-4b12-8e63-48bb7f571c0c"
 msgid "Lion's Claw"
-msgstr ""
+msgstr "사자의 발톱"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC2/LionsClaw_m_FlavorText
 msgctxt "0be6a8c2-f48c-45f4-9854-c94e1c675861"
 msgid ""
 "On the antique blade's hilt one can discern a roaring lion — the symbol of "
 "the Taldan empire."
-msgstr ""
+msgstr "이 골동품 칼의 자루에 탈도르 제국의 상징인 포효하는 사자가 보입니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC2/LongbowOfTheColdMoon_m_DescriptionText
 msgctxt "f85a69e4-d788-4283-b2f2-5842461770b1"
@@ -20968,28 +20803,30 @@ msgid ""
 "staggered for 1 round instead. This effect doesn't work against creatures "
 "who are immune to cold damage."
 msgstr ""
+"이 +3 합성 장궁은 보통의 피해 대신 3d6 냉기 피해를 입힙니다. 치명타를 적중시 대상은 DC 18 내성 굴림에 실패하면 1 라운드 "
+"동안 마비됩니다. 내성에 성공하면 대상은 1 라운드 동안 비틀거립니다. 이 효과는 냉기 피해에 면역인 대상에게 효과가 없습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC2/LongbowOfTheColdMoon_m_DisplayNameText
 msgctxt "7eeb3af2-6d1b-4e61-8bf7-884e4ce1c795"
 msgid "Longbow of Cold Moon"
-msgstr ""
+msgstr "차가운 달의 장궁"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC2/LongbowOfTheColdMoon_m_FlavorText
 msgctxt "81f182bd-cc63-43bb-a76e-01ee00b81643"
 msgid "Its bowstring is always covered in silver hoarfrost."
-msgstr ""
+msgstr "이 활의 시위는 은빛 서리로 덮여있습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC2/StaffOfTheWhisperingSouls_m_DescriptionText
 msgctxt "4e944bd7-7e4e-478e-8731-a11f35dbc748"
 msgid ""
 "Souls trapped in this +2 quarterstaff grant the wielder +4 profane bonus to "
 "Intelligence. Only a creature of Evil alignment can use this staff."
-msgstr ""
+msgstr "이 +2 육척봉에 갖힌 영혼은 착용자의 지능에 +4 불경 보너스를 줍니다. 악한 크리처만 이 지팡이를 사용할 수 있습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC2/StaffOfTheWhisperingSouls_m_DisplayNameText
 msgctxt "044785fe-dea1-464d-a004-72b99d2d4b07"
 msgid "Staff of the Whispering Souls"
-msgstr ""
+msgstr "속삭이는 영혼의 지팡이"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC2/StaffOfTheWhisperingSouls_m_FlavorText
 msgctxt "41489a37-be8b-453a-96bf-107f40b86c30"
@@ -20998,43 +20835,44 @@ msgid ""
 "some useful insight — as long as you don't let the anguish in their voices "
 "distract you."
 msgstr ""
+"이 지팡이를 만지면 죽은 자의 영혼이 유용한 통찰의 말을 속삭입니다. 그 목소리에 담긴 괴로움이 당신을 방해하지 않는다면 말입니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/BardichePitaxGuardItem_m_DisplayNameText
 msgctxt "d2eeaf28-6974-4451-a8ee-4a44f9730db6"
 msgid "Holy Chaotic Outsider Bane Bardiche +3"
-msgstr ""
+msgstr "성스러운 혼돈의 외차원체 파멸의 바디시 +3"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/EarthBreakerHolyItem_DescriptionText_String
 msgctxt "5a05b110-8f87-4421-b252-2ba98d6ef967"
 msgid ""
 "Each time this +3 earth breaker lands a hit, it heals the wielder by 1d3 and"
 " grants 1d6 temporary hit points."
-msgstr ""
+msgstr "이 +3 지진 망치로 공격을 명중시키면, 착용자는 1d3 만큼 회복되고 1d6 만큼 임시 생명점을 얻습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/EarthBreakerHolyItem_DisplayNameText_String
 msgctxt "0956dea1-302f-44bf-804f-093f988792d4"
 msgid "Comforter"
-msgstr ""
+msgstr "위안자"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/EarthbreakerOrcKnightItem_m_DisplayNameText
 msgctxt "8297a714-0df0-4d1d-a0b2-c460c76317e9"
 msgid "Furious Magic Beast Bane Earth Breaker +1"
-msgstr ""
+msgstr "격노의 환수 파멸의 지진망치 +1"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/EarthBreakerRoyalDwarvenItem_m_DisplayNameText
 msgctxt "a2364f06-714e-4b8a-acb3-ba42314e575d"
 msgid "Corrosive Giant Bane Earth Breaker +2"
-msgstr ""
+msgstr "부식성 거인 파멸의 지진망치 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/ElvenCurvedBladeArcaneAdamantiteItem_m_DisplayNameText
 msgctxt "9ee81e7b-d7b4-45f3-be81-59c210e500b1"
 msgid "Adamantine Necrotic Elven Curve Blade +2"
-msgstr ""
+msgstr "아다만틴 괴저성 엘프 곡도 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/ElvenCurvedBladeArcaneItem_m_DisplayNameText
 msgctxt "de0d2d46-bf27-49c5-8f81-d627765a1648"
 msgid "Destructive Brilliant Energy Elven Curve Blade +3"
-msgstr ""
+msgstr "파괴적인 광명의 에너지 엘프 곡도 +3"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/FalchionVilderavnItem_DescriptionText_String
 msgctxt "c1c88d7c-35d1-4456-8f0a-0b5e71a951ef"
@@ -21043,91 +20881,93 @@ msgid ""
 "all of the target's saving throws, and an additional stacking -2 penalty to "
 "saving throws against curse."
 msgstr ""
+"이 +5 펄션으로 공격을 명중시킬 때마다, 대상의 내성 굴림에 -1 페널티를 누적시키고, 저주에 대한 내성 굴림에는 -2 페널티를 "
+"누적시킵니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/FalchionVilderavnItem_DisplayNameText_String
 msgctxt "8ea2ec9c-970f-4960-ae92-ffda5fd5b414"
 msgid "Tormentor"
-msgstr ""
+msgstr "고문기구"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/FlailHeavyKnightNormalItem_m_DisplayNameText
 msgctxt "79e88e0a-9da1-4492-ab0c-076de2d0e5d1"
 msgid "Disruption Thundering Heavy Flail +2"
-msgstr ""
+msgstr "붕괴의 뇌성 대형 도리깨 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/GreatSwordGreatZweihaenderItem_m_DisplayNameText
 msgctxt "e545dd99-3dd2-4c22-85d6-f60cc9471c72"
 msgid "Vicious Bleed Greatsword +2"
-msgstr ""
+msgstr "악랄한 출혈의 대검 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/HandaxeThievesMagicPoisonousItem_m_DisplayNameText
 msgctxt "17f7a90e-a1a8-40fa-970a-55b107a64b86"
 msgid "Caustic Shocking Burst Handaxe +2"
-msgstr ""
+msgstr "부식성 전격 폭발의 손도끼 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/LongswordKnightMasterworkItem_m_DisplayNameText
 msgctxt "132d14eb-18a4-4bc5-b135-fc88769fee06"
 msgid "Thundering Speed Construct Bane Longsword +2"
-msgstr ""
+msgstr "뇌성의 신속한 구조물 파멸의 장검 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/MorningstarRoyalLegendaryCorrosiveItem_DescriptionText_String
 msgctxt "7863475d-55f7-477b-8a17-5f1bf876103a"
 msgid ""
 "Each time this +4 corrosive heavy mace lands a hit, it gives the target "
 "vulnerability to acid. Multiple applications of this effect do not stack."
-msgstr ""
+msgstr "이 +4 부식성 중형 철퇴로 공격을 명중시킬 때마다, 대상은 산성에 취약해집니다. 이 효과는 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/MorningstarRoyalLegendaryCorrosiveItem_DisplayNameText_String
 msgctxt "6fd0494b-ee79-4b65-aae3-24a9730b51f5"
 msgid "Malevolent Corrosion"
-msgstr ""
+msgstr "악랄한 부식"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/MorningstarRoyalLegendaryFlamingItem_DescriptionText_String
 msgctxt "c997aa45-ee16-4679-b424-9e08d0b91858"
 msgid ""
 "Each time this +4 flaming heavy mace lands a hit, it gives the target "
 "vulnerability to fire. Multiple applications of this effect do not stack."
-msgstr ""
+msgstr "이 +4 불꽃 중형 철퇴로 공격을 명중시킬 때마다, 대상은 화염에 취약해집니다. 이 효과는 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/MorningstarRoyalLegendaryFlamingItem_DisplayNameText_String
 msgctxt "d51f01b4-82a9-48d6-bb56-ada3f98ef49e"
 msgid "Malevolent Singe"
-msgstr ""
+msgstr "악랄한 화상"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/MorningstarRoyalLegendaryFrostItem_DescriptionText_String
 msgctxt "e31df148-2c06-422a-88a4-6a9378ecefcc"
 msgid ""
 "When this +4 frost heavy mace lands a hit, it gives the target vulnerability"
 " to cold. Multiple applications of this effect do not stack."
-msgstr ""
+msgstr "이 +4 서리 중형 철퇴로 공격을 명중시킬 때마다, 대상은 냉기에 취약해집니다. 이 효과는 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/MorningstarRoyalLegendaryFrostItem_DisplayNameText_String
 msgctxt "f4f74d48-3e35-433b-b98d-9eecd3f17b6f"
 msgid "Malevolent Frostbite"
-msgstr ""
+msgstr "악랄한 동상"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/MorningstarRoyalLegendaryShockItem_DescriptionText_String
 msgctxt "4714ca82-69a8-4226-ab36-008b403ec5e1"
 msgid ""
 "When this +4 shock heavy mace lands a hit, it gives the target vulnerability"
 " to electricity. Multiple applications of this effect do not stack."
-msgstr ""
+msgstr "이 +4 전격 중형 철퇴로 공격을 명중시킬 때마다, 대상은 전격에 취약해집니다. 이 효과는 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/MorningstarRoyalLegendaryShockItem_DisplayNameText_String
 msgctxt "8cf97351-ade3-4d28-987c-2f92bc4b60ef"
 msgid "Malevolent Storm"
-msgstr ""
+msgstr "악랄한 감전"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/MorningstarRoyalLegendaryThunderingItem_DescriptionText_String
 msgctxt "33d8e288-db33-4041-b2b6-c5b59f6615d2"
 msgid ""
 "When this +5 thundering heavy mace lands a hit, it gives the target "
 "vulnerability to sound. Multiple applications of this effect do not stack."
-msgstr ""
+msgstr "이 +5 뇌성의 중형 철퇴로 공격을 명중시킬 때마다, 대상은 음파에 취약해집니다. 이 효과는 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/MorningstarRoyalLegendaryThunderingItem_DisplayNameText_String
 msgctxt "0ee83097-4f9a-4d15-9a3a-58ed6db2420b"
 msgid "Malevolent Scream"
-msgstr ""
+msgstr "악랄한 비명"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/ShortbowElvenItem_DescriptionText_String
 msgctxt "aac98b92-80d8-4e96-af7b-33563f820054"
@@ -21136,48 +20976,50 @@ msgid ""
 "10/melee. It also inflicts a -4 penalty to AC against melee attacks, and "
 "every melee attack deals additional 4 damage to it."
 msgstr ""
+"이 +4 합성 장궁으로 공격을 명중시킬 때마다, 대상은 DR 10/근접을 얻고, 근접 공격에 대한 AC에 -4 페널티를 받으며, 근접 "
+"공격에 4의 추가 피해를 입습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/ShortbowElvenItem_DisplayNameText_String
 msgctxt "39dc1a87-bcec-4ffb-938d-81f6d187a3c4"
 msgid "Neutralizer"
-msgstr ""
+msgstr "무력화"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/TongiArmyMagicItem_m_DisplayNameText
 msgctxt "eee2c8b5-949c-429d-a9ae-c756e9148ada"
 msgid "Axiomatic Radiant Tongi +1"
-msgstr ""
+msgstr "공리의 광휘 통기 +1"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/DLC3/TridentArmyNormalItem_m_DisplayNameText
 msgctxt "ff4dbddd-078a-4059-aef0-fd00af7d32a5"
 msgid "Greater Shock Speed Trident +2"
-msgstr ""
+msgstr "상급 전격의 신속 삼지창 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/AdamantineFalcataPlus3_m_DisplayNameText
 msgctxt "cae96e14-b9d4-4ffd-9d0a-0eafdb343a0c"
 msgid "Adamantine Falcata +3"
-msgstr ""
+msgstr "아다만틴 팔카타 +3"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/AdamantineFrostBurstStarknifePlus3_m_DisplayNameText
 msgctxt "0e482c16-3c9d-4fb9-9650-8423aaac0cfd"
 msgid "Adamantine Icy Burst Starknife +3"
-msgstr ""
+msgstr "아다만틴 얼음 폭발 스타나이프 +3"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/ArdentItem_DisplayNameText_String
 msgctxt "f1204047-d014-4513-91a3-c04914427790"
 msgid "Ardent"
-msgstr ""
+msgstr "열성"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/ArdentItem_m_DescriptionText
 msgctxt "5514fa75-f35c-481a-a794-213ad5d9209e"
 msgid ""
 "This +3 nunchaku grants the wielder a +5 competence bonus on Athletics skill"
 " checks."
-msgstr ""
+msgstr "이 +3 쌍절곤은 착용자의 운동 기술 판정에 +5 능숙 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/AtrocitiesItem_DisplayNameText_String
 msgctxt "3ee1e70a-77e1-4b86-a4eb-d55ce0af3187"
 msgid "Atrocities"
-msgstr ""
+msgstr "학대"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/AtrocitiesItem_m_DescriptionText
 msgctxt "2aca76de-85fc-42d0-b3fb-c7dfa5167737"
@@ -21185,124 +21027,126 @@ msgid ""
 "This weapon is a +3 furious double axe. If the wielder has the barbarian "
 "rage class ability, it allows them to use it for 4 additional rounds per "
 "day."
-msgstr ""
+msgstr "이 +3 격분의 쌍날도끼는 착용자가 바바리안의 격노 클래스 능력을 가졌다면 하루에 4 라운드 더 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/AxiomaticGreatswordPlus2_m_DisplayNameText
 msgctxt "a9c7d84a-d350-45cd-acae-c44af8ced63d"
 msgid "Axiomatic Greatsword +2"
-msgstr ""
+msgstr "공리의 대검 +2"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/BeaconItem_DisplayNameText_String
 msgctxt "12f6cc9f-634d-4b56-a694-2b302dd88ce9"
 msgid "Beacon"
-msgstr ""
+msgstr "봉화"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/BeaconItem_m_DescriptionText
 msgctxt "bad06eb2-5b60-436d-bf54-dbff48ab5205"
 msgid ""
 "Each time this +2 frost hand axe lands a hit, the enemy has to pass a Reflex"
 " saving throw (DC 13) or get blinded for 1d3 rounds."
-msgstr ""
+msgstr "이 +2 서리 손도끼로 공격을 명중시킬 때마다, 대상은 DC 13 반사 내성에 실패하면 1d3 라운드 동안 실명합니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/BleedingElvenCurvedBladePlus3_m_DisplayNameText
 msgctxt "cd236aea-d63d-4287-89b9-36a2d380b942"
 msgid "Bleed Elven Curve Blade +3"
-msgstr ""
+msgstr "출혈의 엘프 곡도 +3"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/ColdIronDwarvenWaraxePlus3_m_DisplayNameText
 msgctxt "25d7c5b7-71c3-4e89-8141-8324a88dff11"
 msgid "Cold Iron Dwarven Waraxe +3"
-msgstr ""
+msgstr "콜드 아이언 드워프 전투도끼 +3"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/DeadlyIvyItem_DisplayNameText_String
 msgctxt "1e0b9a97-0cb0-4cef-b268-3f2682d4cdce"
 msgid "Deadly Ivy"
-msgstr ""
+msgstr "맹독 덩굴"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/DeadlyIvyItem_m_DescriptionText
 msgctxt "b098a903-ac48-4136-a9bd-55c713202a7c"
 msgid ""
 "Each time this +2 corrosive short spear lands a hit, the enemy has to pass a"
 " Fortitude saving throw (DC 15) or be poisoned for 1d3 rounds."
-msgstr ""
+msgstr "이 +2 부식성 단창으로 공격을 명중시킬 때마다, 대상은 DC 15 인내 내성 굴림에 실패하면 1d3 라운드 동안 중독됩니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/DeterrenceItem_DisplayNameText_String
 msgctxt "2e6f1e29-85e9-4578-a075-146146d588ab"
 msgid "Deterrence"
-msgstr ""
+msgstr "억제"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/DeterrenceItem_m_DescriptionText
 msgctxt "3e6da8c9-51bb-43a5-8f30-01a629826c1a"
 msgid ""
 "This +3 unholy glaive grants the wielder a +5 competence bonus on Persuasion"
 " skill checks when used to intimidate."
-msgstr ""
+msgstr "이 +3 부정한 글레이브는 착용자가 협박에 설득 기술 판정을 사용할 때 +5 능숙 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/DuranceItem_DisplayNameText_String
 msgctxt "1b9d3c20-7867-47c7-b229-82c72ee32143"
 msgid "Durance"
-msgstr ""
+msgstr "감금"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/DuranceItem_m_DescriptionText
 msgctxt "fce7f494-c0d5-417d-bb42-3b8b9980656f"
 msgid ""
 "This +3 greatclub grants the wielder immunity to shaken and sickened "
 "conditions."
-msgstr ""
+msgstr "이 +3 대형 몽둥이는 착용자에게 동요와 고통에 면역을 줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/FeyBaneColdIronTongiPlus4_m_DisplayNameText
 msgctxt "0f93f229-f460-4e82-9119-eec3fb0c89a6"
 msgid "Fey Bane Cold Iron Tongi +4"
-msgstr ""
+msgstr "페이 파멸 콜드 아이언 통기 +4"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/FlamingBurstAdamantineDwarvenUrgroshPlus3_DisplayNameText_String
 msgctxt "df5c9a92-d8f5-4c4c-bdbb-a02d5ba70a17"
 msgid "Flaming Burst Adamantine Dwarven Urgrosh +3"
-msgstr ""
+msgstr "불꽃 폭발의 아다만틴 드워프 우르그로쉬 +3"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/FlamingPlantBaneDwarvenWaraxePlus3_m_DisplayNameText
 msgctxt "33adf0d5-d271-48b7-b8c4-e4282cd3f4c6"
 msgid "Flaming Plant Bane Dwarven Waraxe +3"
-msgstr ""
+msgstr "불꽃의 식물 파멸 드워프 전투도끼 +3"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/FrostColdIronDwarvenUrgroshPlus5_DisplayNameText_String
 msgctxt "ba17d6be-bdd9-4bcc-bd18-3def09354d09"
 msgid "Frost Cold Iron Dwarven Urgrosh +5"
-msgstr ""
+msgstr "서리의 콜드 아이언 드워프 우르그로쉬 +5"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/FrozenCrescentItem_DisplayNameText_String
 msgctxt "710243a9-bc70-4d44-95c9-309772f3d151"
 msgid "Frozen Crescent"
-msgstr ""
+msgstr "얼어붙은 초승달"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/FrozenCrescentItem_m_DescriptionText
 msgctxt "0a245347-5db1-40af-8e79-0812753e1ad8"
 msgid "This +3 frost throwing axe has a critical range of 18-20."
-msgstr ""
+msgstr "이 +3 서리 투척용 도끼는 치명타 범위가 18-20 입니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/HarbingerItem_DisplayNameText_String
 msgctxt "83f5878d-3285-4bbb-ad87-43681819319e"
 msgid "Harbinger"
-msgstr ""
+msgstr "조짐"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/HarbingerItem_m_DescriptionText
 msgctxt "806780ac-6879-4779-ad1d-c59b7bf73762"
 msgid ""
 "This +4 giant bane earth breaker grants the wielder a +3 insight bonus to AC"
 " against the undead's attacks."
-msgstr ""
+msgstr "이 +4 거인 파멸의 지진망치는 착용자의 언데드의 공격에 대한 AC에 +3 통찰 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/IgnitionItem_DisplayNameText_String
 msgctxt "a106b2dc-5507-4398-8183-874e5cb67a4e"
 msgid "Arsonist's Slingstaff"
-msgstr "방화범의 슬링 막대"
+msgstr "방화범의 슬링 스태프"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/IgnitionItem_m_DescriptionText
 msgctxt "50522e74-e043-48f9-b1f1-bb81f5122757"
 msgid ""
 "Whenever the wielder of this +4 flaming burst slingstaff casts a spell with "
 "fire descriptor, that spell deals +1 point of damage per die rolled."
-msgstr "이 +4 불꽃 폭발 슬링 막대의 착용자가 화염 속성 기술어의 주문을 사용할 경우, 그 주문은 주사위당 +1의 피해를 입힙니다."
+msgstr ""
+"이 +4 불꽃 폭발 슬링 스태프의 착용자가 화염 속성 기술어를 포함한 주문을 사용하면, 그 주문의 피해 굴림 주사위 당 +1 피해를 "
+"추가합니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/LissomItem_DisplayNameText_String
 msgctxt "96502c83-555c-4223-a9db-14df6aec9538"
@@ -21396,19 +21240,19 @@ msgctxt "65be0049-544a-4354-9724-5c321eaa8c95"
 msgid ""
 "This +4 fey bane short spear grants the wielder a +3 insight bonus to AC "
 "against fey's attacks."
-msgstr ""
+msgstr "이 +4 페이 파멸의 단창은 착용자에게 페이의 공격에 대한 AC에 +3 통찰 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/SaviourItem_DisplayNameText_String
 msgctxt "c320a502-2b16-4eb6-82b3-0ff1b2a93eb1"
 msgid "Saviour"
-msgstr ""
+msgstr "구원자"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/SaviourItem_m_DescriptionText
 msgctxt "6ee74284-f87e-47e8-a44c-e054339d669b"
 msgid ""
 "Each time this +5 mithral elven curve blade land a hit, it heals the wielder"
 " for 1 HP."
-msgstr ""
+msgstr "이 +5 미스랄 엘프 곡도로 공격을 명중시킬 때마다 착용자의 HP를 1 회복합니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/SoporiferousItem_DisplayNameText_String
 msgctxt "eaf13a23-e681-428e-bf5f-0a1dc003778b"
@@ -21420,7 +21264,7 @@ msgctxt "53cdf8b8-8e25-4bb2-8251-383b82d23cea"
 msgid ""
 "Each time this +3 gnome hooked hammer lands a hit, the enemy has to pass a "
 "Will saving throw (DC 16) or fall asleep."
-msgstr ""
+msgstr "이 +3 노움 갈고리 망치로 공격을 명중시킬 때마다 대상은 DC 16 의지 내성에 실패하면 잠이 듭니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/SpeedJavelinPlus3_m_DisplayNameText
 msgctxt "fcfa2bbe-e20a-4db5-b4b9-9e11ddc58489"
@@ -21430,7 +21274,7 @@ msgstr "신속의 투창 +3"
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/UnbendingItem_DisplayNameText_String
 msgctxt "70e96952-064e-4f99-8446-b527c0afcd82"
 msgid "Unbending Valor"
-msgstr ""
+msgstr "불굴의 용기"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/UnbendingItem_m_DescriptionText
 msgctxt "6184b672-06e8-497d-a0f4-02d82d150a32"
@@ -21447,14 +21291,14 @@ msgstr "부정의 플레일 +4"
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/VanwardItem_DisplayNameText_String
 msgctxt "d7cc59c7-8f74-4db7-8fe3-0fda01adcb53"
 msgid "Vanguard"
-msgstr ""
+msgstr "전위대"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/EE/VanwardItem_m_DescriptionText
 msgctxt "c15c6061-f8d7-4d34-8e2b-f8953ed31ec0"
 msgid ""
 "This +1 corrosive heavy flail grants the wielder immunity to difficult "
 "terrain."
-msgstr ""
+msgstr "이 +1 부식성 대형 도리깨는 착용자에게 험지 면역을 줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters/AgileLightMacePlus3Item_m_DisplayNameText
 msgctxt "584c8d55-41c1-4204-b573-d07e41283e4a"
@@ -21587,7 +21431,7 @@ msgstr "충족"
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters/CalistriaRapierItem_m_FlavorText
 msgctxt "54cd45a8-c0bc-46be-a511-5d77bf160265"
 msgid "The holy weapon of Calistria — goddess of lust and revenge."
-msgstr "욕망과 복수의 여신, 칼리스트리아의 신성한 무기"
+msgstr "욕망과 복수의 여신, 칼리스트리아의 신성한 무기."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters/CaydenRapierItem_m_DescriptionText
 msgctxt "ed6a053b-edfb-4d9b-ae1e-1d5a0fc3e3d3"
@@ -21605,7 +21449,7 @@ msgstr "향락"
 msgctxt "5f91c1d5-25f7-4ff6-b7e3-e771b9d595c6"
 msgid ""
 "The holy weapon of Cayden Cailean — god of freedom, bravery, and alcohol."
-msgstr "자유와 용기와 술의 신, 케이든 케일리엔의 성스러운 무기"
+msgstr "자유와 용기와 술의 신, 케이든 케일리엔의 성스러운 무기."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters/ChaosShardDaggerItem_m_DescriptionText
 msgctxt "23f6b3f0-b4d3-4321-a69f-2ae1aa3d9205"
@@ -21647,14 +21491,11 @@ msgid "Brilliant Energy Keen Dagger +3"
 msgstr "예리한 광명의 에너지 단검 +3"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters/DarkForestItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +4 necrotic spear summons a friendly will-o'-wisp when it ends a life."
 msgctxt "469ee5ae-b70c-4d41-bded-7e9992234409"
 msgid ""
 "This +4 necrotic spear summons a friendly 9th level will-o'-wisp for 1d6 "
 "rounds when it ends a life."
-msgstr "이 +4 괴저성 창으로 누군가를 죽이면 윌 오 위습을 아군으로 소환합니다."
+msgstr "이 +4 괴저성 창으로 누군가를 죽이면 9 레벨 윌 오 위습을 1d6 라운드 동안 아군으로 소환합니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters/DarkForestItem_m_DisplayNameText
 msgctxt "d71b4a64-a5cd-4bac-a06c-afd5e583c777"
@@ -21907,7 +21748,7 @@ msgctxt "0ee320c3-3e26-4d72-b690-9f57baee35f9"
 msgid ""
 "The unholy weapon of Lamashtu — goddess of monsters, nightmares, and "
 "insanity."
-msgstr "괴물, 악몽, 광기의 여신 라마쉬투의 부정한 무기"
+msgstr "괴물, 악몽, 광기의 여신 라마쉬투의 부정한 무기."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters/LawbringerEnchantment_m_EnchantName
 msgctxt "75c05b33-3e89-427e-b9c0-8504585c19a7"
@@ -21997,7 +21838,7 @@ msgstr "자연의 분노"
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters/NaturesWrathItem_m_FlavorText
 msgctxt "6a25c203-cafa-42a6-91d2-348320f772aa"
 msgid "The holy weapon of Gozreh — deity of nature, storms, and waves."
-msgstr "자연, 폭풍, 파도의 신 고즈레이의 성스러운 무기"
+msgstr "자연, 폭풍, 파도의 신 고즈레이의 성스러운 무기."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters/OathOfTheLandItem_m_DescriptionText
 msgctxt "996573f7-ecdd-4f56-bc3b-f8eaba590770"
@@ -22161,10 +22002,6 @@ msgid ""
 msgstr "오래된 엘프 판화에 따르면 이 의식용 무기는 데몬을 파괴하기 위해 만들어졌습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters/UnboundBladeItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +4 shock longsword grants its wilder a +4 bonus on saving throws "
-#| "against mind-affecting effects."
 msgctxt "6f84431e-4e75-4794-86bb-2d47de136935"
 msgid ""
 "This +4 shock longsword grants its wielder a +4 bonus on saving throws "
@@ -22179,7 +22016,7 @@ msgstr "해방의 칼"
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters/UnboundBladeItem_m_FlavorText
 msgctxt "71df4134-a858-4630-b80f-fc3a4f0119be"
 msgid "A single word is engraved on the hilt: \"Focus.\""
-msgstr " \"집중\" 단 한마디가 자루에 새겨져 있습니다."
+msgstr "\"집중\" 단 한마디가 자루에 새겨져 있습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters/ViciousTridentPlus3Item_m_DisplayNameText
 msgctxt "8b7549b7-653e-4103-be0f-3f5fe42f0760"
@@ -22416,11 +22253,6 @@ msgid "Obliteration"
 msgstr "말살"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_3rdPart/ObliterationItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "Whenever this +5 vicious earthbreaker lands a hit on an enemy, it applies a "
-#| "stacking -2 AC penalty to the target. This penalty disappears once the "
-#| "battle ends."
 msgctxt "467af261-7d4c-44a9-8609-bf5154f80fbc"
 msgid ""
 "Whenever this +5 vicious earth breaker lands a hit on an enemy, it applies a"
@@ -22525,12 +22357,9 @@ msgid "Neverending Journey"
 msgstr "끝없는 여정"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_3rdPart/StarbladeItem_m_FlavorText
-#, fuzzy
-#| msgid ""
-#| "The holy weapon of Desna — goddess of luck, dreams ant travels."
 msgctxt "81019825-e064-4046-a697-8a06d2300aa3"
 msgid "The holy weapon of Desna — goddess of luck, dreams and travels."
-msgstr "행운과 꿈 그리고 여행의 여신 데즈나의 성스러운 무기"
+msgstr "행운과 꿈 그리고 여행의 여신 데즈나의 성스러운 무기."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_3rdPart/TangledClawsItem_m_DescriptionText
 msgctxt "beaa9ad5-3416-4edc-9ef9-9c71ca1d1841"
@@ -22552,11 +22381,6 @@ msgid ""
 msgstr "이 무기의 목재 손잡이는 살아있으며, 끊임없이 작은 잎의 조그마한 새싹들이 자라나고 있습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_3rdPart/TwinSerpentsItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +5 quarterstaff deals force damage. Whenever its wielder casts spells "
-#| "with force descriptor, they deal +2 damage per dice. It also grants its "
-#| "wielder the ability to cast empowered magic missile spell at will."
 msgctxt "ae295420-8932-4c6c-b825-30ce090a6b9f"
 msgid ""
 "This +5 quarterstaff deals force damage. Whenever its wielder casts spells "
@@ -22565,7 +22389,7 @@ msgid ""
 "level wizard."
 msgstr ""
 "이 +5 육척봉은 역장 피해를 입힙니다. 착용자가 역장 기술어를 포함한 주문을 사용할 때 주사위 당 +2점의 피해를 추가합니다. 또한 "
-"착용자가 강화 마법유도탄 주문을 마음대로 쓸 수 있게 해줍니다."
+"착용자가 3 레벨 위저드의 강화 마력유도탄 주문을 마음대로 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_3rdPart/TwinSerpentsItem_m_DisplayNameText
 msgctxt "5cef66f1-a8f7-4e3e-9718-79a99335dfa1"
@@ -22575,7 +22399,7 @@ msgstr "쌍둥이 뱀"
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_3rdPart/TwinSerpentsItem_m_FlavorText
 msgctxt "d8e73c50-fb26-4234-9b18-fb783a32b650"
 msgid "The holy weapon of Nethys — the mysterious god of magic."
-msgstr "신비한 마법의 신 네서스의 성스러운 무기"
+msgstr "신비한 마법의 신 네서스의 성스러운 무기."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_3rdPart/TyrantBuff_m_DisplayName
 msgctxt "2f69ca0f-3a60-4bb9-86a4-8b16ecec26f6"
@@ -22745,11 +22569,6 @@ msgid "Venom Poison"
 msgstr "맹독"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_4thPart/AllslayerItem_m_DescriptionText
-#, fuzzy
-#| msgid ""
-#| "This +5 keen shortsword deals divine damage instead of physical, bypassing "
-#| "any damage reduction, resistance or immunity the target may possess. It also"
-#| " grants its wielder the ability to cast invisibility spell at will."
 msgctxt "7b92697f-7c21-4cb0-8e59-4656a6ef4b70"
 msgid ""
 "This +5 keen shortsword deals divine damage instead of physical, bypassing "
@@ -22757,8 +22576,8 @@ msgid ""
 " grants its wielder the ability to cast invisibility spell at will as a 3rd "
 "level wizard."
 msgstr ""
-"이 +5 예리한 소검은 물리 피해 대신 신성 피해를 가해 대상이 지닌 모든 피해 감소, 저항, 면역을 무시합니다. 또한 착용자에게 투명화"
-" 주문을 마음대로 쓸 수 있게 해줍니다."
+"이 +5 예리한 소검은 물리 피해 대신 신성 피해를 가해 대상이 지닌 모든 피해 감소, 저항, 면역을 무시합니다. 또한 착용자에게 3 "
+"레벨 위저드의 투명화 주문을 마음대로 쓸 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_4thPart/AllslayerItem_m_DisplayNameText
 msgctxt "a2e8a2a3-afe6-4903-bfa0-1ee62d377a6b"
@@ -22772,7 +22591,7 @@ msgid ""
 "deals additional 2d6 fire damage. It grants its wielder the ability to cast "
 "mass heal spell once per day as a 17th level cleric."
 msgstr ""
-"이 +5 성스러운 시미터는 명중시 대상이 선하지 않으면 2d6 화염 피해를 추가합니다. 착용자가 하루에 한 번 집단 치유 주문을 17  "
+"이 +5 성스러운 시미터는 명중시 대상이 선하지 않으면 2d6 화염 피해를 추가합니다. 착용자가 하루에 한 번 집단 치유 주문을 17 "
 "레벨 클레릭 처럼 사용할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_4thPart/BladeOfTheMercifulItem_m_DisplayNameText
@@ -22901,7 +22720,7 @@ msgctxt "4b3a6c61-c6ec-40aa-9ccb-8c2cfdd662ad"
 msgid ""
 "This +5 adamantine bastard sword grants its wielder the ability to cast harm"
 " spell 3 times per day as an 11th level cleric."
-msgstr "이 +5 아다만틴 바스타드 소드는 착용자가 11  레벨 클레릭으로서 하루에 세 번 위해 주문을 시전할 수 있게 해줍니다."
+msgstr "이 +5 아다만틴 바스타드 소드는 착용자가 11 레벨 클레릭으로서 하루에 세 번 위해 주문을 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_4thPart/IncorruptibleBladeItem_m_DescriptionText
 msgctxt "ae91396f-d3a7-41ee-b4b7-2124a6240b3b"
@@ -22910,8 +22729,8 @@ msgid ""
 " wielder the ability to cast heroic invocation once per day as a 17th level "
 "wizard."
 msgstr ""
-"이 +5 성스러운 글레이브는 추가로 2d6의 음파 피해를 입힙니다. 또한 착용자가 하루에 한 번 17  레벨 위저드로서 영웅심 강신 "
-"주문을 시전할 수 있게 해줍니다."
+"이 +5 성스러운 글레이브는 추가로 2d6의 음파 피해를 입힙니다. 또한 착용자가 하루에 한 번 17 레벨 위저드로서 영웅심 강신 주문을 "
+"시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_4thPart/IncorruptibleBladeItem_m_DisplayNameText
 msgctxt "bc98a1f2-5fe3-4c4b-a833-f31242e59cda"
@@ -22928,7 +22747,7 @@ msgctxt "b6eb294e-d7d0-409d-9496-27b2de344824"
 msgid ""
 "This +5 holy axiomatic longsword grants its wielder the ability to cast "
 "searing light spell as a 10th level cleric at will."
-msgstr "이 +5 성스러운 공리의 장검은 착용자가 10  레벨 클레릭으로서 타오르는 빛 주문을 마음대로 시전할 수 있게 해줍니다."
+msgstr "이 +5 성스러운 공리의 장검은 착용자가 10 레벨 클레릭으로서 타오르는 빛 주문을 마음대로 시전할 수 있게 해줍니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_4thPart/LightOfValorItem_m_DisplayNameText
 msgctxt "9951619f-1744-4b04-85fd-b80e97548f4c"
@@ -23378,12 +23197,12 @@ msgstr "도리깨"
 #. Mechanics/Blueprints/Weapons/Types/MartialOneHanded/HeavyPick_m_DefaultNameText
 msgctxt "4e6a531f-ec00-47b5-8dab-cad43fdb9539"
 msgid "Heavy Pick"
-msgstr "대형 곡괭이"
+msgstr "중형 곡괭이"
 
 #. Mechanics/Blueprints/Weapons/Types/MartialOneHanded/HeavyPick_m_TypeNameText
 msgctxt "6e33a430-1628-4fab-980f-7b73d23e205c"
 msgid "Heavy Pick"
-msgstr "대형 곡괭이"
+msgstr "중형 곡괭이"
 
 #. Mechanics/Blueprints/Weapons/Types/MartialOneHanded/Longsword_m_DefaultNameText
 msgctxt "46aeb1d1-c6a7-4296-9028-18d068ad9529"
@@ -23929,7 +23748,7 @@ msgstr "바람총"
 #. Mechanics/Blueprints/Weapons/Types/SimpleRanged/Dart_m_DefaultNameText
 msgctxt "e3a6139a-2661-4171-8987-7e12e217bfec"
 msgid "Dart"
-msgstr "ㅊ"
+msgstr "다트"
 
 #. Mechanics/Blueprints/Weapons/Types/SimpleRanged/Dart_m_TypeNameText
 msgctxt "4bf26430-890b-4391-a1f2-e72ecd746435"
@@ -24104,9 +23923,9 @@ msgstr "접촉"
 #. Mechanics/Blueprints/Weapons/Types/Special/Unarmed_m_DefaultNameText
 msgctxt "632f82f6-1dfd-4d68-9988-d7978b77176f"
 msgid "Unarmed Strike"
-msgstr ""
+msgstr "비무장 타격"
 
 #. Mechanics/Blueprints/Weapons/Types/Special/Unarmed_m_TypeNameText
 msgctxt "a0b12e2b-3afd-48e1-8672-9bd9e7611f24"
 msgid "Unarmed Strike"
-msgstr ""
+msgstr "비무장 타격"
