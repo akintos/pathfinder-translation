@@ -1,12 +1,30 @@
 import argparse
+import csv
+import io
 import json
 import os
 import sys
+
+import urllib.request
 from collections import namedtuple
 
 import polib
 
-TranslationEntry = namedtuple("TranslationEntry", ("key", "source", "target", "fuzzy", "prefix"))
+
+EXCLUDE_CSV_PATH = "https://docs.google.com/spreadsheet/ccc?key=1DtLj9LBDBVUaljksJ6Rhidb1DiqON8aaM3cca08U-jM&output=csv"
+
+
+class TranslationEntry:
+    def __init__(self, key: str, source: str, target: str, fuzzy: bool, prefix: str):
+        self.key = key
+        self.source = source
+        self.target = target
+        self.fuzzy = fuzzy
+        self.prefix = prefix
+    
+    @property
+    def translated(self):
+        return self.target != ""
 
 
 def parse_arguments():
@@ -25,6 +43,21 @@ def parse_arguments():
         help="Output locale JSON file path")
 
     return parser.parse_args()
+
+
+def load_exclude_keyset():
+    exclude_keyset = set()
+
+    response = urllib.request.urlopen(EXCLUDE_CSV_PATH)
+    with io.TextIOWrapper(response, encoding="utf-8") as s:
+        r = csv.reader(s)
+        next(r)  # header
+        for row in r:
+            if row[0]:
+                exclude_keyset.add(row[0])
+    
+    return exclude_keyset
+
 
 def main():
     args = parse_arguments()
@@ -54,6 +87,10 @@ def main():
             translation[entry.msgctxt] = TranslationEntry(entry.msgctxt, entry.msgid, entry.msgstr, entry.fuzzy, p+str(i+1))
     
     print(f"Loaded {len(translation)} strings")
+
+    # load string number exceptions
+    if n:
+        exclude_keyset = load_exclude_keyset()
     
     # open source locale file
     with open(in_path, "r", encoding="utf-8") as f:
@@ -61,20 +98,21 @@ def main():
     
     # patch locale
     for entry in l["strings"]:
-        if not entry["Key"] or not entry["Value"]:
+        key = entry["Key"]
+        if not key or not entry["Value"]:
             continue
 
-        tr = translation.get(entry["Key"], None)
+        tr = translation.get(key, None)
         if not tr:
             # print("Translation not found for " + entry["Value"])
             continue
         
-        if tr.target != "":
+        if tr.translated:
             value = tr.target
         else:
             value = tr.source
         
-        if n and tr.source != tr.target:
+        if n and key not in exclude_keyset and tr.source != tr.target:
             value = f"{value} ({tr.prefix})"
 
         entry["Value"] = value
