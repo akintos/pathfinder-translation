@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
 "PO-Revision-Date: 2020-07-05 21:00+0000\n"
-"Last-Translator: laz <joholja@gmail.com>\n"
+"Last-Translator: ayame <eveforce@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -11875,6 +11875,8 @@ msgid ""
 "quickly through the merchants' guild. Measures should be taken immediately, "
 "or the treasury will take a loss."
 msgstr ""
+"수도에서 옷감을 거래하는 어떤 하프 엘프가 대부분의 세금 납부를 피할 수 있는 법률 상의 허점을 찾아냈다고 합니다. 그 소식은 상인 "
+"길드를 통해 빠르게 퍼져가고 있습니다. 즉시 조치를 취해야 합니다. 그렇지 않으면 국고에 손해를 입게 될 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/TaxEvasion_LocalizedName
 msgctxt "0ea18a77-ed9d-40c2-869a-a752b4229d05"
@@ -21161,8 +21163,9 @@ msgid ""
 "the shift in power. Their songs in praise of the new "
 "{mf|baron|baroness|King|Queen} will keep the peasants loyal."
 msgstr ""
-"바드 그룹은 겸손한 수수료로 자신의 통치자를 칭찬하겠다고 제안했습니다. 그들의 노래는 수사슴왕의 죽음과 권력 이동의 외딴 마을에 소식을 "
-"전파 할 것입니다. 그들의 {mf|남작|여남작|왕|여왕} 에게 찬사를 보내는 새로운 노래는 농민들을 충성스럽게 유지할 것입니다. "
+"한 바드 무리들이 소정의 수수료로 {mf|영주님을|영주님을|전하를|전하를} 찬양하는 공연를  해주겠다고 제의해 왔습니다. 그들의 노래는 "
+"수사슴왕의 죽음과 권력이 바뀐 소식을 외딴 마을까지 퍼뜨릴 것입니다. 새로운 {mf|영주님|영주님|왕|여왕}을 찬양하는 그들의 노래는 "
+"농민들이 충성을 지키도록 할 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck1/CheapFame_LocalizedName
@@ -32009,7 +32012,7 @@ msgctxt "bd5d5044-1e90-470f-9cf5-bde42c8cb682"
 msgid ""
 "Bands of marauding trolls have been seen throughout the region. The people "
 "are frightened and beg for protection."
-msgstr "트롤 무리가 어슬렁거리는 것이 지역 곳곳에서 목격됐습니다. 사람들은 겁에 질려 보호를 구걸합니다."
+msgstr "지역 곳곳에서 약탈을 일삼는 트롤들이 목격되었습니다. 겁에 질린 시민들이 보호를 간청합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/StorySupport/TrollWeakAttack_LocalizedName
 msgctxt "c6e47fd6-b664-42d7-8c61-976e2160ea1b"
