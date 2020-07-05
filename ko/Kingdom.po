@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-07-04 02:39+0000\n"
+"PO-Revision-Date: 2020-07-05 21:00+0000\n"
 "Last-Translator: laz <joholja@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
@@ -11081,7 +11081,7 @@ msgctxt "bca75561-570a-4ac5-95b4-b0eb3f29bb7f"
 msgid ""
 "Every day there is more and more mischief in the bogs! The people are "
 "complaining of nasty swamp-dwellers."
-msgstr ""
+msgstr "누군가 늪지대에서 매일 점점 더 많은 장난을 치고 있습니다! 주민들은 못된 늪지대 원주민들의 소행이 아닌가 의심하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Woodmaster_FeyJokesters_LocalizedDescription
 msgctxt "60d95067-b792-4e1d-b220-d61b3de15d00"
@@ -11093,11 +11093,14 @@ msgid ""
 "impossible knots! The people have asked the "
 "{mf|barony|barony|kingdom|kingdom}'s advisors to step in…"
 msgstr ""
+"키모 타본이 최근 정착한 지역 인근에서 이상한 불평불만이 발생하고 있습니다. 우물에서 물이 넘쳐 농가들을 침수시키는가 하면, 경험 많은 "
+"사냥꾼들이 숲에서 길을 잃기도 하고, 창고에 저장해둔 음식과 와인이 사라지고, 아침에 일어난 여인들의 머리가 불가사의하게 땋여 있기도 "
+"합니다! 주민들은 이 이상한 사태에 {mf|남작령|남작령|왕국|왕국}의 보좌관들이 개입해주기를 청원하고 있습니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Woodmaster_FeyJokesters_Solutions.Entries.Array.data[0].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "02cec8a8-47a4-4d6a-b37d-a34365a9bf56"
 msgid "Despite all efforts, the Regent's investigation is making no progress."
-msgstr ""
+msgstr "많은 노력에도 불구하고, 섭정의 조사에는 전혀 진척이 없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Woodmaster_FeyJokesters_Solutions.Entries.Array.data[0].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "4d498881-855c-475e-b2a0-2c2aefd66fd5"
@@ -11108,6 +11111,9 @@ msgid ""
 "\"misfortunes\" that have beset the settlement. – Now it's just a matter of "
 "finding out where they are hiding…"
 msgstr ""
+"인근에 매복하고 있던 섭정의 부하들이, 물감통을 들고 빨래줄로 살금살금 다가오던 사티로스를 발견했습니다! 그 사티로스를 붙잡는 데는 "
+"실패했지만, 적어도 최근 마을에서 일어난 이 모든 '재난'이 페이의 소행인 것은 분명합니다. 이제 이들이 어디에 숨어있는가만 찾아내면 "
+"됩니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Woodmaster_FeyJokesters_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "7876e244-9998-4933-93c7-73e6d577e8f2"
@@ -11118,6 +11124,9 @@ msgid ""
 "\"misfortunes\" that have beset the settlement. – Now it's just a matter of "
 "finding out where they are hiding…"
 msgstr ""
+"인근에 매복하고 있던 섭정의 부하들이, 물감통을 들고 빨래줄로 살금살금 다가오던 사티로스를 발견했습니다! 그 사티로스를 붙잡는 데는 "
+"실패했지만, 적어도 최근 마을에서 일어난 이 모든 '재난'이 페이의 소행인 것은 분명합니다. 이제 이들이 어디에 숨어있는가만 찾아내면 "
+"됩니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Woodmaster_FeyJokesters_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription_1
 msgctxt "172ce14c-3d45-4c45-999e-1df907036b63"
@@ -11127,6 +11136,8 @@ msgid ""
 "of the problem has been established. It's time to pay these miscreants a "
 "visit."
 msgstr ""
+"야간에 숲 속을 수색하던 섭정의 부하들은 우연히 주연을 벌이며 시끌벅적 뛰놀고 있는 한 무리의 님프, 닉시, 사티로스들과 마주쳤습니다! "
+"문제의 원인을 찾았으니, 이제 이 악당들을 찾아가 해결을 보아야 할 때입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Woodmaster_FeyJokesters_Solutions.Entries.Array.data[0].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "0a5487f8-5e05-4eb3-a4a7-0ccffdd273f9"
@@ -11136,13 +11147,15 @@ msgid ""
 "of the problem has been established. It's time to pay these miscreants a "
 "visit."
 msgstr ""
+"야간에 숲 속을 수색하던 섭정의 부하들은 우연히 주연을 벌이며 시끌벅적 뛰놀고 있는 한 무리의 님프, 닉시, 사티로스들과 마주쳤습니다! "
+"문제의 원인을 찾았으니, 이제 이 악당들을 찾아가 해결을 보아야 할 때입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Woodmaster_FeyJokesters_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "f6dcf94d-a7c4-4f78-af8e-3141893d1b2a"
 msgid ""
 "The General's soldiers are running off their feet in search of the culprits,"
 " but they haven't found anything yet!"
-msgstr ""
+msgstr "장군 휘하의 병사들이 쉴틈 없이 범인을 찾아 헤맸지만, 그들은 아직 아무 것도 찾아내지 못했습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Woodmaster_FeyJokesters_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "98e2c88e-9d54-47b9-8f0d-ccf6edb2b46c"
@@ -11152,6 +11165,8 @@ msgid ""
 " but it seems that the fey are to blame for the villagers' troubles. – But "
 "where could they be hiding?"
 msgstr ""
+"한밤 중에 경계를 서던 경비병 둘이, 님프 하나가 타르가 담긴 양동이를 든 채 마을로 살금살금 다가오는 것을 목격했습니다. 이 악동은 "
+"체포를 피해 달아났지만, 그간 마을 사람들을 괴롭힌 범인들은 페이들인게 분명합니다. 대체 이들은 어디에 숨어있었을까요?"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Woodmaster_FeyJokesters_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "f29e26a5-a51b-41fc-a500-a6c9b39e3de6"
@@ -11161,6 +11176,8 @@ msgid ""
 " but it seems that the fey are to blame for the villagers' troubles. – But "
 "where could they be hiding?"
 msgstr ""
+"한밤 중에 경계를 서던 경비병 둘이, 님프 하나가 타르가 담긴 양동이를 든 채 마을로 살금살금 다가오는 것을 목격했습니다. 이 악동은 "
+"체포를 피해 달아났지만, 그간 마을 사람들을 괴롭힌 범인들은 페이들인게 분명합니다. 대체 이들은 어디에 숨어있었을까요?"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Woodmaster_FeyJokesters_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription_1
 msgctxt "2a336259-f4b7-4ff5-a3c0-9a3ab2ddc78d"
@@ -11169,6 +11186,8 @@ msgid ""
 "stumbled upon a fey camp! The source of the problem has been established. – "
 "Now it's time to deal with the inhabitants of the camp."
 msgstr ""
+"장군이 보낸 분견대 중 하나가, 숲 속에서 길을 잃고 헤매다 우연히 페이의 야영지와 마주쳤습니다! 문제의 원인은 밝혀졌습니다. 이제 이 "
+"야영지의 주민들에게 본때를 보여줄 때입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Woodmaster_FeyJokesters_Solutions.Entries.Array.data[2].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "d3a87108-eebc-4ae9-8622-edf342f132ee"
@@ -11177,11 +11196,13 @@ msgid ""
 "stumbled upon a fey camp! The source of the problem has been established. – "
 "Now it's time to deal with the inhabitants of the camp."
 msgstr ""
+"장군이 보낸 분견대 중 하나가, 숲 속에서 길을 잃고 헤매다 우연히 페이의 야영지와 마주쳤습니다! 문제의 원인은 밝혀졌습니다. 이제 이 "
+"야영지의 주민들에게 본때를 보여줄 때입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Woodmaster_FeyJokesters_Solutions.Entries.Array.data[3].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "957ce99e-f344-40ee-a811-5b38107252dc"
 msgid "The investigators hired by the Treasurer are not making any progress."
-msgstr ""
+msgstr "재무관이 고용한 탐정들은 아무 성과도 내지 못했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Woodmaster_FeyJokesters_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "cfd9a117-fc3b-4a63-994f-e9b8c0134c36"
@@ -11190,6 +11211,8 @@ msgid ""
 "witnesses, and concluded that it is the fey who are behind the trouble in "
 "the settlement! Now they just need to find the fey's hiding place…"
 msgstr ""
+"재무관이 고용한 탐정들은 목격자들을 꼼꼼하게 탐문하여, 이 모든 말썽 뒤에 있는 건 페이라는 결론을 내렸습니다! 이제 탐정들이 페이들의 "
+"은거지만 찾아내면 됩니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Woodmaster_FeyJokesters_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "300fd3b3-32dd-469d-a1cc-21a1480d9358"
@@ -11198,6 +11221,8 @@ msgid ""
 "witnesses, and concluded that it is the fey who are behind the trouble in "
 "the settlement! Now they just need to find the fey's hiding place…"
 msgstr ""
+"재무관이 고용한 탐정들은 목격자들을 꼼꼼하게 탐문하여, 이 모든 말썽 뒤에 있는 건 페이라는 결론을 내렸습니다! 이제 탐정들이 페이들의 "
+"은거지만 찾아내면 됩니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Woodmaster_FeyJokesters_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription_1
 msgctxt "2683a207-2b18-417b-a644-0f6827dd04ec"
@@ -11206,6 +11231,8 @@ msgid ""
 " in the forest. It belongs to the fey who have been causing trouble for the "
 "villagers!"
 msgstr ""
+"놀라운 성과입니다! 우리가 고용한 탐정들이 숲 속에서 비밀 야영지를 발견했습니다. 그간 마을에서 말썽을 일으켜온 페이들의 야영지가 "
+"분명합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Artisans/Woodmaster_FeyJokesters_Solutions.Entries.Array.data[3].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "d6555a3b-9ce7-496f-90f4-af1d590df601"
@@ -11214,11 +11241,13 @@ msgid ""
 " in the forest. It belongs to the fey who have been causing trouble for the "
 "villagers!"
 msgstr ""
+"놀라운 성과입니다! 우리가 고용한 탐정들이 숲 속에서 비밀 야영지를 발견했습니다. 그간 마을에서 말썽을 일으켜온 페이들의 야영지가 "
+"분명합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Bandits_Description
 msgctxt "b274bccb-737b-42ab-9f08-7a569b22cc08"
 msgid "Bandits are still robbing peasants and merchants in the region."
-msgstr ""
+msgstr "아직도 강도들이 인근의 농부와 상인들을 상대로 도적질을 벌이고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Bandits_LocalizedDescription
 msgctxt "1bad531d-4750-4ae5-b477-75c6101fda12"
@@ -11227,11 +11256,13 @@ msgid ""
 " peasants, rob travelers and merchants, and even attack tax gatherers! These"
 " bandits need to be muzzled."
 msgstr ""
+"날마치에 강도들의 산채가 다수 자리잡았습니다. 이들은 농가를 노략질하고, 여행자와 상인들의 짐을 강탈하는가 하면, 심지어는 징세 "
+"공무원들까지 공격하고 있습니다! 이 강도들을 반드시 근절해야 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Bandits_LocalizedName
 msgctxt "bb7c72ca-20e3-4c2a-921b-f9e854d3a27d"
 msgid "Bandits' Outrage"
-msgstr ""
+msgstr "도적떼의 폭주"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Bandits_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "bb61b3eb-d799-418c-978c-108aa07a4996"
@@ -11241,6 +11272,8 @@ msgid ""
 "{mf|barony|barony|kingdom|kingdom} dearly: the local people must now pay "
 "tribute to the bandit lords."
 msgstr ""
+"장군이 파견한 토벌대는 도적떼와의 서전에서 참패를 당하고 말았습니다. 패배의 결과는 쓰라린 것이었습니다. 이제 인근의 주민들은 어쩔 수 "
+"없이 도적 두목들에게 공물을 상납하게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Bandits_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "eab5f57e-d042-4908-a3f0-9aa7051c8c09"
@@ -11248,13 +11281,15 @@ msgid ""
 "The squad gathered by the General cleared the bandits from the Narlmarches. "
 "However a few managed to get away, carrying all their plunder."
 msgstr ""
+"장군이 파견한 토벌대는 날마치에서 도적들을 몰아내는 데 성공했습니다. 하지만 소수의 살아남은 도적들은 약탈한 전리품과 함께 달아나는 데 "
+"성공했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Bandits_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "fe5264fa-e47a-493a-9a29-63f9169b2b85"
 msgid ""
 "The squad sent by the General defeated the bandit gang and returned with a "
 "small portion of the plunder."
-msgstr ""
+msgstr "장군이 파견한 토벌대는 도적떼를 물리치고, 그들이 약탈한 전리품 일부를 되찾아 왔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Bandits_Solutions.Entries.Array.data[2].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "df2dbad2-4b5a-46be-917f-a02120cf257d"
@@ -11262,6 +11297,8 @@ msgid ""
 "The squad sent by the General defeated the bandit gang, returned a portion "
 "of their plunder and discovered a secret cache of stolen jewelry."
 msgstr ""
+"장군이 파견한 토벌대는 도적떼를 물리치고, 그들이 약탈한 전리품 일부를 되찾았을 뿐 아니라, 도둑들의 비밀 보물상자도 발견할 수 "
+"있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Bandits_Solutions.Entries.Array.data[3].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "826e467a-8a12-46f4-b131-81ef887db434"
@@ -11270,13 +11307,15 @@ msgid ""
 "Narlmarches. Many of the area's inhabitants have pulled up roots and left "
 "the {mf|barony|barony|kingdom|kingdom}."
 msgstr ""
+"재무관이 고용한 용병들은 날마치의 도적떼에게 상대도 되지 않았습니다. 지역 주민들 다수가 살림을 꾸려 {mf|남작령|남작령|왕국|왕국}을 "
+"떠나고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Bandits_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "d7b8d871-0530-47ec-9b96-d8c529f7178b"
 msgid ""
 "Relying on the services of mercenaries, the Treasurer managed to put an end "
 "to the bandit attacks. However, this proved quite expensive."
-msgstr ""
+msgstr "용병대의 활약으로, 재무관은 간신히 도적떼를 퇴치할 수 있었습니다. 그 대가가 무척 비싸기는 했지만 말입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Bandits_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "6af754f1-5476-4510-b0af-3279503ffc50"
@@ -11285,6 +11324,8 @@ msgid ""
 "to the bandit attacks. The roads of the {mf|barony|barony|kingdom|kingdom} "
 "are safer not only for the locals, but for merchants as well."
 msgstr ""
+"용병대의 활약으로, 재무관은 간신히 도적떼를 퇴치할 수 있었습니다. 이제 {mf|남작령|남작령|왕국|왕국}의 도로는 주민 뿐 아니라 "
+"상인들도 안전하게 통행할 수 있게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Bandits_Solutions.Entries.Array.data[3].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "9fa6c3ce-bee4-491e-bf95-b2643c12d1a2"
@@ -11293,13 +11334,15 @@ msgid ""
 "to the bandit attacks. The roads are safer for peasants and merchants alike."
 " Regional markets and fairs attract more people than ever."
 msgstr ""
+"용병대의 활약으로, 재무관은 간신히 도적떼를 퇴치할 수 있었습니다. 이제 {mf|남작령|남작령|왕국|왕국}의 도로는 주민 뿐 아니라 "
+"상인들도 안전하게 통행할 수 있게 되었습니다. 지역의 장터와 시장으로 더 많은 사람들이 몰리고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Bandits_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "8e606c24-c7a8-464a-93c8-53e2391c8831"
 msgid ""
 "The Warden's new recruits have fled the battlefield! The settlements had no "
 "protection and were completely plundered."
-msgstr ""
+msgstr "감시관이 새로 징병한 신병들은 전장에서 도주하고 말았습니다! 보호 수단을 잃은 마을들은 도적떼에게 철저하게 약탈당했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Bandits_Solutions.Entries.Array.data[7].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "207ca47b-79c6-4c44-a1ef-28462642e64b"
@@ -11308,6 +11351,8 @@ msgid ""
 "the attacks of the Narlmarches bandits, but this measure drew heavily on the"
 " treasury."
 msgstr ""
+"감시관은 날마치 전역에 경비병을 증강시켰습니다. 병사들이 도적떼의 습격을 격퇴해내긴 했지만, 대규모 징병으로 인해 국고에 꽤 손실이 "
+"있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Bandits_Solutions.Entries.Array.data[7].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "66be039a-b2fb-4d89-9abe-30b1d4458a8d"
@@ -11316,6 +11361,8 @@ msgid ""
 " Warden first pushed the bandits back, and then captured their encampment. "
 "Everything they had stolen has returned to the treasury!"
 msgstr ""
+"날마치 전역에 경비병을 증원하고 장교들을 교체한 결과, 감시관은 도적떼를 물리치고 산채를 점령할 수 있었습니다. 이들이 그간 약탈한 장물 "
+"모두를 국고로 귀속시켰습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Bandits_Solutions.Entries.Array.data[7].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "9152afee-b9ad-463f-bf18-5b5d1d95b2d8"
@@ -11325,6 +11372,8 @@ msgid ""
 "then capturing their encampment. Everything they had stolen is back safely "
 "in the treasury!"
 msgstr ""
+"경비병들을 편제대로 완편하고, 새로운 장교들을 진급시켜 임명한 결과, 감시관은 도적떼를 물리치고 산채를 점령할 수 있었습니다. 그들이 "
+"그간 약탈한 장물은 온전히 국고로 귀속되었습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/Ceremony_LocalizedDescription
 msgctxt "8b6a5a99-4831-4fb5-aab8-e6efd8574229"
