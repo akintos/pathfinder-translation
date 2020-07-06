@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
 "PO-Revision-Date: 2020-07-06 21:00+0000\n"
-"Last-Translator: 냠 <setsuna444@naver.com>\n"
+"Last-Translator: laz <joholja@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -7534,7 +7534,7 @@ msgid ""
 "and protect their ruler…"
 msgstr ""
 "하인들은 암살 공격에 전혀 대비가 되어 있지 않았습니다! 많은 하인들이 습격에서 {mf|남작|여남작|왕|여왕}을 지키려다 목숨을 "
-"잃었습니다."
+"잃었습니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/Order_Solutions.Entries.Array.data[7].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "3c50d841-5105-44fd-bd7d-5badb10d5ea6"
@@ -7585,7 +7585,7 @@ msgid ""
 " druids a heavy beating, and took everything even remotely valuable…"
 msgstr ""
 "섭정은 경솔하게도 빈민가의 가장 위험한 골목에 별다른 보호조치 없이 드루이드들을 투입했습니다. 결국 드루이드들은 주민들에게 심하게 "
-"두드려맞고, 몸에 걸친 속옷 한 장까지 털리고 말았습니다."
+"두드려맞고, 몸에 걸친 속옷 한 장까지 털리고 말았습니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/StreetDruids_Solutions.Entries.Array.data[0].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "a3fa3f02-1a17-4ed8-853a-b2d1c2f819f7"
@@ -7752,7 +7752,7 @@ msgid ""
 "without a trace…"
 msgstr ""
 "사교 집단의 대장을 추적하기 위해 장관이 보냈던 첩자가 너무 시끄럽게 움직였던 모양입니다. 도둑들과 채광 장비 모두가 흔적도 없이 "
-"사라지고 말았습니다."
+"사라지고 말았습니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TechicTrick_Solutions.Entries.Array.data[9].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "362819c0-f357-456c-b0a8-b5d1bdf42892"
@@ -8201,7 +8201,7 @@ msgid ""
 "the power of the fey. The afflicted remain sullen, discontent and lacking "
 "any interest to the outside world."
 msgstr ""
-" 보좌관의 신료들은 마법의 힘을 동원해봤지만, 페이의 힘에는 적수가 되지 못했습니다. 우울증 환자들은 무뚝뚝하고, 불만투성이에, 세상 "
+"보좌관의 신료들은 마법의 힘을 동원해봤지만, 페이의 힘에는 적수가 되지 못했습니다. 우울증 환자들은 무뚝뚝하고, 불만투성이에, 세상 "
 "돌아가는 일에 무관심한 채로 남고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Melancholy_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription_String
@@ -8311,7 +8311,7 @@ msgid ""
 " things which, alas, these mortal souls have lost…"
 msgstr ""
 "장관은 감정을 잃어버린 이들을 첩자로 고용하기로 결정했으나, 곧 대실패를 맛보아야 했습니다. 국가를 위해 봉사하려면 충성심과 애국심이 "
-"필요한데, 슬프게도 이들의 영혼은 이런 감정도 잃어버렸기 때문입니다."
+"필요한데, 슬프게도 이들의 영혼은 이런 감정도 잃어버렸기 때문입니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced8/Unsensuals_Solutions.Entries.Array.data[9].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "49416560-3f4c-433e-afb0-bda6ea208052"
@@ -8391,7 +8391,7 @@ msgid ""
 "violating the borders!"
 msgstr ""
 "수석 외교관은 이웃 나라들에 식민지 건설에 협조해줄 것을 요청했는데, 이것이 오히려 엉뚱한 반응을 불러일으켰습니다. 다른 나라들은 새 "
-"식민지 건설을 자신들에 대한 도발로 받아들였고, 이주자들이 국경을 침범했다고 주장하며 정착지를 송두리째 파괴해버렸습니다."
+"식민지 건설을 자신들에 대한 도발로 받아들였고, 이주자들이 국경을 침범했다고 주장하며 정착지를 송두리째 파괴해버렸습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Colony_Solutions.Entries.Array.data[4].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "8e158f1b-952d-49ee-a703-edf4ac0ba4ff"
@@ -8533,7 +8533,7 @@ msgid ""
 "peasants are dressing warmly and preparing for hard times."
 msgstr ""
 "보좌관들이 간신히 마녀의 마법에 대항할만한 주문 사용자들을 소집했지만, 슬프게도 그들은 마녀의 상대가 되지 않았습니다. 농부들은 온몸을 "
-"꽁꽁 싸매고 다가올 최악의 시기에 대한 대비에 나섰습니다"
+"꽁꽁 싸매고 다가올 최악의 시기에 대한 대비에 나섰습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/IceFury_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "fde6570a-3460-4033-af0e-22e9c9883431"
@@ -8818,8 +8818,8 @@ msgid ""
 "deaths should be an entertaining diversion for the audience."
 msgstr ""
 "국고에서 대출을 끌어쓰다 빚을 갚지 못하고 파산한 채무자들로 감옥이 미어터지고 있습니다. 축제를 열어서 이들에게 맹수와 싸울 기회를 "
-"주고, 이겨서 살아남은 자들은 빚을 탕감하고 석방하는 건 어떨까요? 설령 이들이 격투 끝에 목숨을 잃는다 해도 좋은 구경거리는 되지 "
-"않겠습니까?"
+"주고, 이겨서 살아남은 자들은 빚을 탕감하고 석방하는 건 어떨까요? 설령 이들이 격투 끝에 목숨을 잃는다 해도 좋은 구경거리는 될 "
+"것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/BloodyFestival_NE_LocalizedName
@@ -8965,7 +8965,7 @@ msgid ""
 " governmental issues."
 msgstr ""
 "칼리스트리아의 신도들이 자신들의 암살단을 이용해 정부의 골칫거리가 될지도 모를 위험 인물들을 하룻밤 사이 깨끗이 정리해주겠다는 제안을 "
-"해왔습니다. 관료들 귀가 솔깃해질, 쉽고 효율적인 문제 해결 방법이 아닐까요?"
+"해왔습니다. 관료들 귀가 솔깃해질, 쉽고 효율적인 문제 해결 방법이 될 수 있을 것 같습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/CalistriasJudgement_CN_LocalizedName
@@ -9207,7 +9207,7 @@ msgstr ""
 "우리 영지로 밀입국한 한 무리의 수도자와 사제들이 반란을 선동하고 있습니다. 거지, 빚쟁이, 품꾼 등 비천하고 쓸모없는 인종들이 이들의 "
 "선동에 호응해 폭정 타도를 외치고 있습니다. 식량과 돈을 포함한 각종 물품들이 '자선'이라는 이름으로 이 불한당들을 매수하는데 쓰이는 것 "
 "같습니다. 사태가 걷잡을 수 없을 만큼 확산되기 전에 저지해야만 합니다. 우리 사회의 기생충들을 박멸하고, 반란을 선동하는 주모자들을 "
-"즉각 제거합시다!"
+"즉각 제거합시다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment
 #. Events/FakeVirtue_LE_LocalizedName
@@ -12636,11 +12636,14 @@ msgid ""
 "resourceful Chelaxian pursuers. Perhaps this is the perfect time to offer "
 "assistance."
 msgstr ""
+"겁없는 밀라니의 성직자 한 사람이, 첼리악스가 소유하고 있던 밀라니의 성유물을 몰래 빼돌리는 사건이 벌어졌습니다. 아스모데우스의 "
+"심문관들에게 추적당하고 있는 이 하프엘프 성직자와 그 일행들은, 수완좋은 첼리악스 추적자들로부터 자신들과 성유물을 안전하게 숨길 피난처를 "
+"찾고 있습니다. 아마도 지금이 우리의 도움을 제공할 적기일 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Relic_LocalizedName
 msgctxt "12820138-826f-4cff-ad3b-fe22f32f4ef5"
 msgid "The Relic"
-msgstr ""
+msgstr "성유물"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Relic_Solutions.Entries.Array.data[4].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "0c63a110-f4c4-4fd9-b988-fff1b81f8f4c"
@@ -12648,6 +12651,7 @@ msgid ""
 "Milani's faithful were suspicious of the {mf|King|Queen} and {mf|his|her} "
 "servants. They left the kingdom at dawn."
 msgstr ""
+"이들 밀라니 신도들은 {mf|왕|여왕}과 {mf|그의|그녀의} 부하들을 신뢰하지 못했습니다. 그들은 새벽 무렵에 다시 왕국을 떠났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Relic_Solutions.Entries.Array.data[4].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "b39a6ae7-785d-44b2-972b-54c046ea4583"
@@ -12658,6 +12662,9 @@ msgid ""
 "kingdom has been blessed by Milani herself! The {mf|King|Queen}'s subjects "
 "are rallying together as a free nation under a strong ruler."
 msgstr ""
+"{mf|왕|여왕}의 사절단은 밀라니 추종자들에게 도둑맞은 땅의 통치자를 믿어도 되다는 확신을 주었습니다. 이 사제와 수도자들은 위협이 "
+"지나갈 때까지 은신처에서 기다린 후, 다시 제 길을 떠났습니다. 밀라니 본인이 직접 왕국을 축복했고, 왕국의 신민들은 강력한 통치자 "
+"아래서 자유를 누리는 국민으로서 더욱 단결하게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Revolution_LocalizedDescription
 msgctxt "1e0ee56d-227e-4ad5-934b-8a8199e1a200"
@@ -12669,12 +12676,15 @@ msgid ""
 "to seize these lands for themselves. Right now, however, it's more important"
 " to rein in our subjects before the unrest leads to open revolt."
 msgstr ""
+"불안과 혼돈이 도시를 뒤덮고 있습니다. 술집마다 떠벌이들이 왕정을 철폐하고 공화정을 수립하자며 혁명을 이야기하고 있습니다. 거리에는 벌써 "
+"혁명을 선동하는 선전물들이 등장했습니다. 아마도 우리의 이웃 중 하나가, 우리 땅을 손쉽게 공략해볼 요량으로 벌인 일로 추정됩니다. 어찌 "
+"됐든, 지금은 대대적인 반란이 일어나기 전에 민중에 대한 통제를 회복하는 것이 급선무입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Revolution_LocalizedName
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Revolution_LocalizedName_String
 msgctxt "214c04f9-2042-46d5-87db-4bcc1a01ce10"
 msgid "Revolution"
-msgstr ""
+msgstr "혁명"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Revolution_Solutions.Entries.Array.data[0].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "f54fd9d2-20c1-4579-ad7d-2ce7a0fc416a"
@@ -12683,6 +12693,8 @@ msgid ""
 "many shops and stores were looted. The guard eventually joined the crowd. It"
 " will take the city a long time to recover from this incident."
 msgstr ""
+"섭정의 대응은 너무 늦었습니다. 이미 도시 전체에서 폭력 사태가 터져나왔고, 많은 가게들이 약탈당했습니다. 경비병들조차 군중에 합류할 "
+"지경입니다. 도시가 안정을 되찾기는 요원한 상황입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Revolution_Solutions.Entries.Array.data[0].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "04ae3ea1-c405-4f3c-be96-eac821b6aec3"
@@ -12692,6 +12704,8 @@ msgid ""
 "stemmed, and the instigators have sat down at the negotiating table. The "
 "people are pleased with all the attention that they're being given."
 msgstr ""
+"섭정은 일단 시민들의 불만을 청취해보기로 시민 대표들과 합의하여, 시민들을 진정시킬 수 있었습니다. 불안은 잦아들었고, 선동가들도 협상 "
+"테이블에 참여했습니다. 민중은 자신들이 얻어낸 성과에 만족하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Revolution_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "9da3d780-72d7-4890-bff3-c229b9c63455"
@@ -12702,6 +12716,8 @@ msgid ""
 "representatives by setting out tables of food and wine... and a serious "
 "event turned into a feast!"
 msgstr ""
+"섭정은 일단 모든 문제의 해결을 약속하여 군중을 진정시켰고, 이윽고 임박했던 혁명의 지도자들과 협상 테이블을 꾸렸습니다. 시민들은 "
+"대표들의 협상을 지원하기 위해 음식과 와인을 제공하기로 했습니다. 심각한 협상이 잔칫날로 바뀌었습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Revolution_Solutions.Entries.Array.data[0].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "b53f4f75-3606-49a2-80c6-f3326cb598aa"
@@ -12711,6 +12727,8 @@ msgid ""
 "remnants of the rebels have hidden in their homes or fled into the forests. "
 "The people are incensed with their {mf|King|Queen}."
 msgstr ""
+"섭정의 지시로, 경비병들이 군중의 행진을 가로막고 나섰습니다. 곧 피비린내나는 유혈사태가 벌어졌고, 학살의 와중에 많은 이들이 목숨을 "
+"잃었습니다. 살아남은 반란자들은 집으로 숨거나 숲으로 달아났고, 민중은 {mf|왕|여왕}에게 분노하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Revolution_Solutions.Entries.Array.data[0].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "2e5d2033-ae80-4070-83b6-216465dfac4d"
@@ -12720,6 +12738,8 @@ msgid ""
 "However, the principle instigators remained in the shadows. They will "
 "certainly continue to incite their supporters to rebellion."
 msgstr ""
+"경비병들은 불만을 혹독하게 억압했습니다. 정부의 권위에 의문을 제기한 사람들은 예외없이 감옥에 갇히거나 다른 심한 처벌을 받았습니다. "
+"그러나 핵심적인 선동가들은 여전히 잡히지 않고 있습니다. 그들은 계속 지지자들을 모아 혁명을 선동하고 다닐 것이 분명합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Revolution_Solutions.Entries.Array.data[0].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "682bb060-bf10-4e88-af66-ceddcd2d7ca7"
@@ -12730,6 +12750,8 @@ msgid ""
 "avoided. The revolt has ended, and the rebellion's leaders are already "
 "naming those who were truly behind the unrest."
 msgstr ""
+"군중은 경비병들과 대면할 정도까지 접근하자 행진을 멈추었습니다. 평민들은 경비병들이 대열에서 선동자들을 끌어내어 체포하는 동안 별다른 "
+"저항을 보이지 않았습니다. 덕분에 인명 피해는 없었습니다. 반란은 끝났고, 주모자들은 벌써 진짜 배후가 누군지 진술하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Sabbath_LocalizedDescription
 msgctxt "87e271e5-df76-4608-92d0-ec0fd04d0d32"
@@ -12740,11 +12762,14 @@ msgid ""
 "include some rather gruesome rituals. They'll be terrorizing the locals with"
 " all manner of vile deeds."
 msgstr ""
+"넝마 자매단이라는 마녀 집단의 수령인 데멜자가, 다음 마녀 집회를 우리 지역의 숲에서 열 예정이라고 통보해왔습니다. 점점 더 많은 "
+"마녀들이, 섬뜩한 의식도 함께 열리는 이 집회에 참석하려고 우리 영지에 나타나고 있습니다. 주민들이 이들의 불쾌한 행동에 겁을 집어먹게 "
+"될 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Sabbath_LocalizedName
 msgctxt "e2c8c113-c0c1-4612-897a-13f37239fd49"
 msgid "Black Mass"
-msgstr ""
+msgstr "흑미사"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Sabbath_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "7214d9e8-e774-43b2-89dd-6dac004ad31c"
@@ -12755,6 +12780,8 @@ msgid ""
 "arrived hags. Those who remained faithful to their gods are leaving in "
 "droves, disgusted that their kingdom has stooped so low."
 msgstr ""
+"대사제는 이 암흑의 의식이 열리는 비밀의 장소를 발견하지 못했습니다. 그러자 사제단의 무력함에 겁을 먹은 일부 주민들이 이 마녀들을 "
+"경배하기에 이르렀습니다. 여전히 신실한 주민들은 왕국이 돌아가는 꼴에 실망하여, 대규모로 나라를 떠나고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Sabbath_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "7d60bfbf-9cb5-439e-927c-d3fcb67ca0f6"
@@ -12763,6 +12790,8 @@ msgid ""
 " sent them out to hunt. Soon, the region was cleared of the hags and their "
 "minions."
 msgstr ""
+"대사제는 마녀들을 퇴치하기 위해, 최고의 이단심문관들을 선발하여 파견하였습니다. 이들에 의해 곧 마녀들과 그 졸개들이 우리 영지에서 "
+"일소되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Sabbath_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "5c681d66-1880-47b3-846b-67fa7b11e5b4"
@@ -12774,6 +12803,9 @@ msgid ""
 "temples in the region are all but empty, and by night, unholy rituals are "
 "conducted by bonfire light."
 msgstr ""
+"대사제는 이 사악한 마녀 무리와 합의를 보는데 실패했습니다. 이들은 다른 신의 사제들과 관계를 갖는 데에는 전혀 관심이 없었습니다. "
+"그들은 순박한 이들을 그들의 사악한 신앙으로 유인하는 데에는 전문가들이었고, 우리 땅에서도 마찬가지였습니다! 우리 영지의 사원들은 텅텅 "
+"비고, 밤마다 모닥불 주위에서 사악한 의식이 열리고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Sabbath_Solutions.Entries.Array.data[5].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "dd9dcc49-46cd-4aa3-ab87-b3e39238a0cb"
@@ -12783,6 +12815,8 @@ msgid ""
 " left alone. As payment they offered a small library of ancient tomes, "
 "filled with forbidden knowledge."
 msgstr ""
+"마녀들은 기꺼이 대사제의 제안을 받아들였습니다. 그들은 농민들은 일절 건드리지 않고, 자신들끼리만 행사를 갖기로 약속했습니다. 그 "
+"보답으로 그들은 금지된 지식으로 가득한 고대의 문헌 약간을 왕국에 기증하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Salt_LocalizedDescription
 msgctxt "885bd0f8-ef7b-450e-85bf-d0841eab0ee0"
@@ -12802,7 +12836,7 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Salt_LocalizedName
 msgctxt "55aac7bb-f33c-4254-8bba-f3da635a2a63"
 msgid "Salt"
-msgstr ""
+msgstr "소금"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Salt_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "f439b32b-906c-4c7d-bc63-aed9e4c964cb"
@@ -12898,12 +12932,15 @@ msgid ""
 "tunnel, to conquer the surface world... and it seems they intend to begin in"
 " the heart of the Stolen Lands!"
 msgstr ""
+"수도의 시민들로부터 수상한 소음에 대한 신고가 쇄도하고 있습니다. 도로 아래에서 곡괭이질 소리, 돌 부서지는 소리, 무시무시한 목소리 "
+"등이 들린다고 합니다. 증거들을 종합해보면, 어둠땅 주민들이 지상을 정복하기 위해 거대한 터널을 파고 있는 게 분명합니다... 그것도 "
+"바로 도둑맞은 땅 한가운데서부터 시작하려는 것 같습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/UnderworldInvasion_LocalizedName
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/UnderworldInvasion_LocalizedName_String
 msgctxt "dfed64e3-4585-4b8f-a1be-a37f88ffe606"
 msgid "It Came from Under the Ground"
-msgstr ""
+msgstr "지하에서 온 손님"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/UnderworldInvasion_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "e1430ed9-08a1-4a82-a425-3fa739acdd77"
@@ -12913,6 +12950,8 @@ msgid ""
 "to hinder the enemy. The underground hordes struck the capital at night, "
 "destroying many buildings and taking many slaves."
 msgstr ""
+"장군은 침략자들을 저지하기 위해 지하 동굴로 병력을 파견했습니다. 그러나 슬프게도 그들은 전멸하고 말았고, 적의 침략을 지연시키는 데에도 "
+"실패했습니다. 곧 대규모의 지하 약탈자들이 야간에 수도를 들이쳐, 많은 건물이 파괴되고 시민들이 노예로 끌려가고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/UnderworldInvasion_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "87543cab-ead6-40f9-b823-f9f5c05e50d9"
@@ -12924,6 +12963,9 @@ msgid ""
 "thinned out, the raiders from the Darklands rose and attacked the surface, "
 "swiftly and ruthlessly, capturing many slaves."
 msgstr ""
+"장군은 이 불청객들에게 뜨거운 환영을 해주고자 직접 병력을 인솔해 지하로 내려갔습니다. 그러나 많은 병사들이 어둠 속에서 길을 잃고 "
+"헤매다 침략자들에게 손쉬운 사냥감이 되어 각개격파 당하고 말았습니다. 상대하던 이들 병력이 약화되자, 어둠땅의 침략자들은 그 틈을 놓치지 "
+"않고 지상을 신속하고도 무자비하게 습격하여 많은 시민들을 노예로 끌고 갔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/UnderworldInvasion_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "f09b58ee-11a7-483d-be0e-78245a20440e"
@@ -12934,6 +12976,9 @@ msgid ""
 "strike that they fled back to the Darklands, collapsing the tunnel behind "
 "them. They abandoned many trophies as they fled..."
 msgstr ""
+"장군의 명령에 따라, 병사들은 침략자들 몰래 비밀 터널을 역으로 파내려갔습니다. 우리의 기습에 침략자들은 완전 무방비 상태로 "
+"노출되었습니다. 우리의 신속하고도 강력한 공격에 혼비백산한 그들은, 지금까지 팠던 터널을 본인들의 손으로 무너트려버리고 어둠땅으로 "
+"도주하고 말았습니다. 도망치면서 다수의 전리품을 내버리고 간 것은 물론입니다..."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/UnderworldInvasion_Solutions.Entries.Array.data[2].Resolutions.Array.data[3].LocalizedDescription_String
 msgctxt "2012a655-ddc8-4a77-a000-24ed663f6e9c"
@@ -12944,6 +12989,9 @@ msgid ""
 "many of our residents were taken as slaves. There's no way to save them now:"
 " our attackers collapsed the tunnel behind them."
 msgstr ""
+"어둠땅 주민들과의 교섭 시도는 파국으로 끝났습니다. 우리가 보낸 사절단은 흔적도 없이 사라졌고, 바로 다음날 밤 침략자들의 대부대가 "
+"도시로 밀려들었습니다. 가장 많은 주민이 거주하던 구역이 가장 큰 피해를 입어, 많은 주민들이 노예로 끌려갔습니다. 침략자들이 퇴각하면서 "
+"터널을 무너트린 터라, 납치당한 주민들을 당장 구할 방법은 없는 상황입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/UnderworldInvasion_Solutions.Entries.Array.data[2].Resolutions.Array.data[4].LocalizedDescription_String
 msgctxt "e677a939-6ac9-47e5-b6e2-4de058cd1f5b"
@@ -12953,6 +13001,8 @@ msgid ""
 "most affluent quarters, but others were significantly damaged, with many of "
 "their residents stolen away as slaves."
 msgstr ""
+"어둠땅 주민들과의 교섭은 실패했지만, 군은 예상되는 기습에 대비하고 있었습니다. 군은 가장 부유한 지역을 지켜냈지만, 다른 지역의 피해는 "
+"심각하여 많은 주민들이 노예로 납치당하고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/UnderworldInvasion_Solutions.Entries.Array.data[2].Resolutions.Array.data[5].LocalizedDescription_String
 msgctxt "4c503dee-4807-4484-b28e-c31f457edad5"
@@ -12963,6 +13013,9 @@ msgid ""
 "citizens are concerned about the disappearances. But the merchants and "
 "businessmen have found the change most welcome."
 msgstr ""
+"우리가 보낸 사절단은 어둠땅 주민들과의 교섭을 성사시켰습니다. 다음 며칠 동안, 수도에서 부랑자, 도둑, 불평분자, 왕권에 적대하는 자 "
+"등 \"환영받지 못할 자들\" 대부분이 사라졌습니다... 몇몇 시민들은 실종사건을 미심쩍게 여겼지만, 상인과 기업가들은 변화를 "
+"환영했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/UnderworldInvasion_Solutions.Entries.Array.data[3].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "22751756-00ce-407e-a95d-f4a1c7b1f3b8"
@@ -12973,6 +13026,9 @@ msgid ""
 "casualties are massive. The raiders have already disappeared back under the "
 "ground – taking many slaves with them."
 msgstr ""
+"재무관의 지시에 따라, 용감한 광부들이 터널을 붕괴시켜 막으려 했지만, 이들의 시도는 오히려 어둠땅 주민들에게 지상으로 통하는 새로운 "
+"출구를 만들어주었을 뿐입니다. 도시는 혼돈에 빠저 곳곳에 불길이 타오르고, 엄청난 희생자가 발생했습니다. 지하의 약탈자들은 이미 지하로 "
+"돌아가 종적을 감췄고, 많은 시민들이 그들에게 노예로 납치당했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/UnderworldInvasion_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "9b3d7480-4d55-4934-8f7b-cb9cc73628d4"
@@ -12984,6 +13040,9 @@ msgid ""
 "have already retreated back into the Darklands, leaving a trail of victims "
 "behind."
 msgstr ""
+"재무관이 광부들을 고용해 침략자들의 터널을 붕괴시키려고 했지만, 이 운없는 광부들은 작업 중에 적들과 정면으로 조우하여 무참히 살육당하고 "
+"말았습니다. 해가 저물자 대규모의 지하 생물들이 터널을 통해 수도의 심장부를 직격했습니다. 이들은 수많은 희생자들을 남겨둔 채 이미 "
+"어둠땅으로 돌아갔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/UnderworldInvasion_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "a87a67f4-fd2b-44c4-8db7-4641b345f440"
@@ -12993,6 +13052,8 @@ msgid ""
 "forces. The invading army's vanguard was handily dispatched, and the evil "
 "plans of the Darkland raiders were cut off at the root."
 msgstr ""
+"재무관은 숙련된 광부들을 찾아내어, 이들의 작업을 통해 침략자들의 터널을 붕괴시킬 수 있었습니다. 붕괴로 인해 본대로부터 고립된 소수의 "
+"선발대 병력을 손쉽게 소탕한 것으로, 어둠땅 침략자들의 사악한 계획은 뿌리채 제거되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/WhiteTigers_LocalizedDescription
 msgctxt "126a38d7-a014-4d9a-bb12-f73c4362738c"
