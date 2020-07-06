@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-07-06 03:33+0000\n"
+"PO-Revision-Date: 2020-07-06 21:00+0000\n"
 "Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
@@ -12051,6 +12051,8 @@ msgid ""
 "battlefield experience was good for the soldiers, and peasants from other "
 "nearby lands started moving into the area."
 msgstr ""
+"장군의 순찰대가 산적들을 숲 속 깊이 몰아냈습니다. 전투는 병사들에게 좋은 경험이 되었고, 인근 지역의 농민들이 이 지역으로 이주해오기 "
+"시작했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/TradeProposition_LocalizedDescription
 msgctxt "5a9e93c0-68fe-4ba0-a9f1-51559098ba3e"
@@ -12058,26 +12060,26 @@ msgid ""
 "Three merchants from Absalom arrived in the region. They're ready to do "
 "business with the {mf|barony|barony|kingdom|kingdom}, if their conditions "
 "are met."
-msgstr ""
+msgstr "압살롬에서 상인 세 명이 이 지역을 찾아왔습니다. 조건만 맞는다면 {mf|남작령|남작령|왕국|왕국}과 거래를 하겠다고 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/TradeProposition_LocalizedName
 msgctxt "5a4cbbf5-9df6-498e-9885-d5e474b8f103"
 msgid "Proposal for Cooperation"
-msgstr ""
+msgstr "협력 제안"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/TradeProposition_Solutions.Entries.Array.data[0].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "afb24d4c-1bdb-4f29-8a93-d3c34329c1a2"
 msgid ""
 "Unfortunately, negotiations between the Regent and the merchants from "
 "Absalom led to nothing."
-msgstr ""
+msgstr "불행히도 섭정과 압살롬 상인의 협상은 아무 소득이 없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/TradeProposition_Solutions.Entries.Array.data[0].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "561d0bf0-a4bf-41fa-8056-a3bc6ef8d248"
 msgid ""
 "Unfortunately, negotiations between the Regent and the merchants from "
 "Absalom led to nothing."
-msgstr ""
+msgstr "불행히도 섭정과 압살롬 상인의 협상은 아무 소득이 없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/TradeProposition_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "3176a8b7-61ad-48de-8c90-8cb3a8d137bd"
@@ -12085,7 +12087,7 @@ msgid ""
 "The Regent promised the merchants help in resolving property disputes, if "
 "any arise. In exchange, the merchants agreed to lower their prices on "
 "timber, stone and ore."
-msgstr ""
+msgstr "섭정은 상인들의 재산 분쟁을 해결해주겠다고 약속했습니다. 그 대가로, 상인들은 목재, 돌, 광석의 가격을 낮추기로 하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/TradeProposition_Solutions.Entries.Array.data[0].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "25e0e984-8e39-421a-9d47-06bee1e16cb0"
@@ -12094,20 +12096,21 @@ msgid ""
 "extensive support, and they agreed to supply construction materials at "
 "significantly lower prices."
 msgstr ""
+"협상은 성공적이었습니다. 섭정은 상인들에게 광범위한 지원을 보장했고, 상인들은 건설 자재를 훨씬 더 낮은 가격에 공급하기로 합의했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/TradeProposition_Solutions.Entries.Array.data[3].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "c158ce9f-6c3c-46bb-84a6-44a5b9c1c51a"
 msgid ""
 "Unfortunately the Treasurer failed to come to an agreement with the "
 "merchants. The deal fell through."
-msgstr ""
+msgstr "불행히도 재무관은 상인들과 합의를 보지 못했습니다. 거래가 무산되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/TradeProposition_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "ec781f15-f4df-413a-9393-465998e44de2"
 msgid ""
 "Unfortunately the Treasurer failed to come to an agreement with the "
 "merchants. The deal fell through."
-msgstr ""
+msgstr "불행히도 재무관은 상인들과 합의를 보지 못했습니다. 거래가 무산되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/TradeProposition_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "a2d191b7-bb65-482f-9123-2ebb84fcbca8"
@@ -12116,6 +12119,8 @@ msgid ""
 "perked up, as more tools, machines and other craftsman's goods are being "
 "imported to the capital."
 msgstr ""
+"거래가 성사되었습니다! 수도로 더 많은 도구, 기계 , 공예품 등이 수입되어 {mf|남작령|남작령|왕국|왕국}의 거래가 활기를 띠고 "
+"있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/TradeProposition_Solutions.Entries.Array.data[3].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "dab38d61-2542-4a8c-82d4-4d7dd12711ef"
@@ -12124,20 +12129,22 @@ msgid ""
 "perked up, as more tools, machines and other craftsman's goods are being "
 "imported to the capital."
 msgstr ""
+"거래가 성사되었습니다! 수도로 더 많은 도구, 기계 , 공예품 등이 수입되어 {mf|남작령|남작령|왕국|왕국}의 거래가 활기를 띠고 "
+"있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/TradeProposition_Solutions.Entries.Array.data[4].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "c9a87b08-4262-4854-af10-e62c8d6a8473"
 msgid ""
 "Negotiations between the Grand Diplomat and the merchants from Absalom have "
 "come to a standstill."
-msgstr ""
+msgstr "수석 외교관과 압살롬 상인 간의 협상이 교착에 빠졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/TradeProposition_Solutions.Entries.Array.data[4].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "88756598-8636-4d2c-8a2b-b3c317ba5d66"
 msgid ""
 "Negotiations between the Grand Diplomat and the merchants from Absalom have "
 "come to a standstill."
-msgstr ""
+msgstr "수석 외교관과 압살롬 상인 간의 협상이 교착에 빠졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/TradeProposition_Solutions.Entries.Array.data[4].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "e4ef29c4-163a-402e-8887-e174436b8b3b"
@@ -12146,6 +12153,8 @@ msgid ""
 "Brevoy. In return, the merchants agreed to import rare goods from Absalom to"
 " the {mf|barony|barony|kingdom|kingdom} – spices, frankincense, and jewelry."
 msgstr ""
+"수석 외교관은 상인들이 브레보이에서 거래 허가를 받을 수 있게 도와주었습니다. 그 대가로 상인들은 압살롬의 향신료, 유향료, 보석류 등의 "
+"희귀품을 {mf|남작령|남작령|왕국|왕국}에 들여오기로 합의했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/TradeProposition_Solutions.Entries.Array.data[4].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "c3a9a67f-50a3-4d24-b392-05d2384ad765"
@@ -12155,18 +12164,20 @@ msgid ""
 "lowered the prices for rare goods from Absalom – spices, frankincense, and "
 "jewelry."
 msgstr ""
+"수석 외교관은 상인들이 브레보이에서 거래 허가를 받을 수 있게 도와주었습니다. 그 대가로 상인들은 압살롬의 향신료, 유향료, 보석류 등의 "
+"희귀품 가격을 현저히 낮추기로 합의했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/WeedsInfestation_LocalizedDescription
 msgctxt "23db5af4-f0c8-489f-a076-e09e5fb7419a"
 msgid ""
 "A giant weed is taking over more and more farmland. Someone must persuade "
 "the peasants to start fighting this pest!"
-msgstr ""
+msgstr "거대한 잡초가 점점 농지를 뒤덮고 있습니다. 누군가 농민들을 설득해서 이 유해 식물에 맞서야 합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/WeedsInfestation_LocalizedName
 msgctxt "875c6058-e42e-4a2b-861c-cb09621182b7"
 msgid "Mysterious Weed"
-msgstr ""
+msgstr "이상한 잡초"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/WeedsInfestation_Solutions.Entries.Array.data[1].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "d6275bb2-f8cb-4201-8088-92febf42e437"
@@ -12175,6 +12186,8 @@ msgid ""
 "The peasants refused to act, and even accused the messengers of inviting "
 "disaster!"
 msgstr ""
+"모든 지역에 전령을 보냈지만, 누구도 경고를 듣지 않았습니다. 농민들은 아무 조치도 취하지 않았고, 심지어 전령들이 재앙을 불러온다고 "
+"비난하기까지 했습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/WeedsInfestation_Solutions.Entries.Array.data[1].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "922561de-b07b-4aa5-b9d5-50fb16dce062"
@@ -12183,6 +12196,8 @@ msgid ""
 "The peasants refused to act, and even accused the messengers of inviting "
 "disaster!"
 msgstr ""
+"모든 지역에 전령을 보냈지만, 누구도 경고를 듣지 않았습니다. 농민들은 아무 조치도 취하지 않았고, 심지어 전령들이 재앙을 불러온다고 "
+"비난하기까지 했습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/WeedsInfestation_Solutions.Entries.Array.data[1].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "2fad233f-fe1f-4426-bdfd-ea22fcd9493a"
@@ -12191,27 +12206,29 @@ msgid ""
 "their fields. But many peasants acted too late, and accused the messengers "
 "of \"inviting disaster\", blaming them for the lost harvest!"
 msgstr ""
+"일부는 전령의 경고를 새겨듣고 일찍부터 밭에서 잡초를 뽑았지만, 많은 농민들은 너무 늦게 행동에 나서 많은 수확을 잃었습니다. 그러고는 "
+"\"재앙을 불러왔다\"며 전령을 탓했습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/WeedsInfestation_Solutions.Entries.Array.data[1].Resolutions.Array.data[2].LocalizedDescription_1
 msgctxt "06888a67-b3b0-4beb-84c5-1c1f0226f668"
 msgid ""
 "The messengers managed to persuade the peasants to thoroughly weed their "
 "fields. The crops were saved!"
-msgstr ""
+msgstr "전령들은 농민들이 밭의 잡초를 철저히 뽑도록 설득했습니다. 농작물은 이제 안전합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/WeedsInfestation_Solutions.Entries.Array.data[1].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "1fc7eb79-2b06-46fd-b387-017c3272511a"
 msgid ""
 "The messengers managed to persuade the peasants to thoroughly weed their "
 "fields. The crops were saved!"
-msgstr ""
+msgstr "전령들은 농민들이 밭의 잡초를 철저히 뽑도록 설득했습니다. 농작물은 이제 안전합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/WeedsInfestation_Solutions.Entries.Array.data[1].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "25179ac5-c57b-4692-aa69-e24459a69e70"
 msgid ""
 "The messengers managed to persuade the peasants to thoroughly weed their "
 "fields. The crops were saved!"
-msgstr ""
+msgstr "전령들은 농민들이 밭의 잡초를 철저히 뽑도록 설득했습니다. 농작물은 이제 안전합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/WeedsInfestation_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "c3202718-ff9d-4316-a491-5665faf82653"
@@ -12220,6 +12237,8 @@ msgid ""
 " listen. The monstrous weed grew all over the fields, and the peasants "
 "accused the {mf|baron|baroness|King|Queen} of inaction."
 msgstr ""
+"사제들은 다가오는 재앙에 대해 신도들에게 경고했지만 아무도 듣지 않았습니다. 괴물 같은 잡초가 들판 여기저기에서 자라났고, 농민들은 "
+"무능한 {mf|남작|여남작|왕|여왕}을 비난했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/WeedsInfestation_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "2158bd28-3e57-452c-b264-d92775d22381"
@@ -12228,20 +12247,22 @@ msgid ""
 "everyone started weeding on time. Those who lost their fields to the "
 "monstrous weed accused the {mf|baron|baroness|King|Queen} of inaction."
 msgstr ""
+"사제들은 다가오는 재앙에 대해 신도들에게 경고했지만 모두가 제때 잡초를 제거하지는 않았습니다. 괴물 같은 잡초로 농토를 잃은 사람들은 "
+"무능한 {mf|남작|여남작|왕|여왕}을 비난했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/WeedsInfestation_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "3da76bcf-5c0b-424b-949f-75416f12b040"
 msgid ""
 "The priests managed to convince the peasants that the weed must be stopped. "
 "The crops have been saved!"
-msgstr ""
+msgstr "사제들은 어떻게든 농민들에게 잡초를 막아야 한다고 설득했습니다. 농작물을 이제 안전합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/WeedsInfestation_Solutions.Entries.Array.data[5].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "c448f4c4-12b3-4503-8f0e-71cf3bfbd27a"
 msgid ""
 "The priests managed to convince the peasants that the weed must be "
 "eradicated. The crops have been saved!"
-msgstr ""
+msgstr "사제들은 어떻게든 농민들에게 잡초를 박멸해야 한다고 설득했습니다. 농작물을 이제 안전합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Caretaker_LocalizedDescription
 msgctxt "1d06c514-0080-4bd5-8077-ccdac3235280"
@@ -12252,11 +12273,14 @@ msgid ""
 "patriots of Artume, they are gathering their forces to retake their throne. "
 "Will the {mf|King|Queen} aid the deposed ruler?"
 msgstr ""
+"한때 팔라딘이자 멘데브 십자군이었던 섭정 웨이크는 현재 권력에 취해 아툼을 장악했습니다. 소벨라 여왕과 어린 아들 에드리드 왕자는 "
+"도망쳤습니다. 이들을 지키겠다고 맹세했던 웨이크는 이제 아툼 애국자들의 지원으로 군대를 모아 왕좌를 되찾으려 합니다. {mf|왕|여왕} "
+"전하, 폐위된 통치자를 도우시겠습니까?"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Caretaker_LocalizedName
 msgctxt "9ddba650-afb7-4233-856d-bdf4ce89ac86"
 msgid "Guardian"
-msgstr ""
+msgstr "수호자"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Caretaker_Solutions.Entries.Array.data[0].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "0a7d4347-f31e-46c5-896f-7d5e3a146c95"
@@ -12267,6 +12291,9 @@ msgid ""
 "locals were inspired by the story of her struggle, and have left their homes"
 " to join the ranks of Artume's legitimate ruler!"
 msgstr ""
+"소벨라 여왕은 보좌관을 신뢰하지 않았습니다. 그녀는 {kingdomname}이/가 자신과 아들의 새 감옥이 될 것을 두려워하여 도둑맞은 "
+"땅을 서둘러 떠났습니다. 하지만 그녀가 머무른 잠시 동안, 많은 주민들이 그녀의 투쟁에 감동 받아, 아툼의 합법적인 통치자의 편에 서기 "
+"위해 집을 떠났습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Caretaker_Solutions.Entries.Array.data[0].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "b718a43c-9000-4a39-bf24-f05f821c3236"
@@ -12277,6 +12304,9 @@ msgid ""
 "protection, Queen Sovella granted the {mf|King|Queen} a sacred relic that "
 "once belonged to Edryd's father."
 msgstr ""
+"보좌관은 소벨라 여왕에게 {kingdomname}이/가 안전한 피난처가 되어주겠다고 설득했습니다. 현지 사제들은 에드리드 왕자를 후견하여 "
+"훌륭한 사람이자 훌륭한 왕으로 키우겠다고 맹세했습니다. 소벨라 여왕은 보호에 대한 감사의 표시로 에드리드의 아버지가 갖고 있던 성물을 "
+"{mf|왕|여왕}에게 바쳤습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Caretaker_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "5f659f81-4ca5-49bb-b43c-1311b40ddabe"
@@ -12288,6 +12318,9 @@ msgid ""
 " traitorous knight... supported by several army regiments from the Stolen "
 "Lands, who have deserted and left with Queen Sovella!"
 msgstr ""
+"보좌관은 {mf|남작령|남작령|왕국|왕국}이 에드리드 왕자는 보호해 주겠지만, 소벨라 여왕과 섭정 웨이크의 분쟁에는 관여하지 않겠다고 "
+"하였습니다. 폐위된 통치자는 이를 거부하고 아들을 데리고 떠났고, 반란 기사와의 싸움을 이어나갔습니다. 도둑맞은 땅에서 몇 개의 연대가 "
+"이탈해 소벨라 여왕을 도왔습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Caretaker_Solutions.Entries.Array.data[0].Resolutions.Array.data[3].LocalizedDescription_String
 msgctxt "95e8236b-7a42-41a1-9d33-7ee3ba7e65a9"
@@ -12299,6 +12332,9 @@ msgid ""
 " joined ranks with the local army, awaiting the moment their ruler comes of "
 "age and calls them under his banner."
 msgstr ""
+"보좌관은 소벨라 여왕과 에드리드에게 피난처를 제공했지만, 섭정 웨이크와의 분쟁에 연루되는 것은 거부했습니다. 쫓겨난 통치자는 하는 수 "
+"없이 평화 협정을 맺었고, 원래 그녀의 남편의 것이었던 가족의 성물을 {mf|왕|여왕}에게 바쳤습니다. 에드리드 왕자에게 충성을 맹세한 "
+"기사들은 현지 군대에 합류하여, 성년이 된 주군의 깃발 아래 모일 날을 기다리고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Caretaker_Solutions.Entries.Array.data[0].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "d30a3f2c-8054-46d6-abfe-5bebe8e2f356"
@@ -12307,6 +12343,8 @@ msgid ""
 "for a substantial reward. Alas, the cautious ruler saw through the devilish "
 "plan, and escaped the from the spies who were meant to abduct her."
 msgstr ""
+"섭정은 소벨라 여왕에게 일단 피난처를 제공했다가, 몰래 상당한 금액을 받고 팔아넘기려 했습니다. 아뿔싸! 주의 깊은 여왕은 이 악마 같은 "
+"계획을 간파하고는 그녀를 납치하려던 첩보원들을 뚫고 도망쳤습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Caretaker_Solutions.Entries.Array.data[0].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "8a733f96-2ef3-40d1-980b-ac4ba815eb21"
@@ -12317,6 +12355,9 @@ msgid ""
 "with their precious catch, and the Regent received from Waike a generous "
 "reward."
 msgstr ""
+"섭정은 소벨라 여왕과 그녀의 아들을 성으로 초대했고, 그들에게 안전한 피난처를 약속했습니다. 그러나 이 고귀한 손님들은 문턱을 넘자마자 "
+"섭정 웨이크의 기사들과 맞닥뜨렸습니다. 아툼의 사절은 귀중한 선물을 손에 든 채 도둑맞은 땅을 떠났고, 섭정은 웨이크로부터 후한 보상을 "
+"받았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Caretaker_Solutions.Entries.Array.data[4].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "789f30b9-c583-4b6e-8046-49a904c18bee"
@@ -12326,6 +12367,8 @@ msgid ""
 "through the devilish plan, and escaped the from the spies who were meant to "
 "abduct her."
 msgstr ""
+"수석 외교관은 소벨라 여왕에게 일단 피난처를 제공했다가, 몰래 상당한 금액을 받고 팔아넘기려 했습니다. 아뿔싸! 주의 깊은 여왕은 이 "
+"악마 같은 계획을 간파하고는 그녀를 납치하려던 첩보원들을 뚫고 도망쳤습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Caretaker_Solutions.Entries.Array.data[4].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "bf17f90b-14ed-460a-a7ab-7f984a8a79c0"
@@ -12336,6 +12379,9 @@ msgid ""
 "left the Stolen Lands with their precious catch, and the Grand Diplomat "
 "received from Waike a generous reward."
 msgstr ""
+"수석 외교관은 소벨라 여왕과 그녀의 아들을 성으로 초대했고, 그들에게 안전한 피난처를 약속했습니다. 그러나 이 고귀한 손님들은 문턱을 "
+"넘자마자 섭정 웨이크의 기사들과 맞닥뜨렸습니다. 아툼의 사절은 귀중한 선물을 손에 든 채 도둑맞은 땅을 떠났고, 수석 외교관은 "
+"웨이크로부터 후한 보상을 받았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Contract_AF_G_String
 msgctxt "f4b3abd5-d3e8-4f76-b270-aa302a40c975"
@@ -12345,6 +12391,8 @@ msgid ""
 "seize and restrain the mage, he summoned a horde of daemons, who went on a "
 "bloody rampage through the region!"
 msgstr ""
+"악의 길을 포기하도록 설득해보았지만, 그러기엔 이 마법사의 영혼이 너무나도 사악했습니다. 보좌관의 전령들이 마법사를 붙잡아 제지하려 "
+"하자, 다이몬 떼를 소환하여 그 지역을 피로 물들였습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Contract_AF_NE_String
 msgctxt "07ff1c07-e19b-4960-b37f-c2660d56a62b"
@@ -12354,6 +12402,8 @@ msgid ""
 "envoys arrived too late: the mage held a ritual, summoning a horde of "
 "daemons. The region has descended into bloody chaos."
 msgstr ""
+"이 마법사는 아주 못된 놈으로 밝혀졌습니다. 그가 역모를 꾸며 왕국의 권력을 쥐려했다는 사실이 드러났습니다! 마법사는 다이몬 떼를 "
+"소환하는 의식을 거행했습니다. 보좌관의 전령들은 너무 늦게 도착했고, 그 지역은 피비린내 나는 혼돈으로 빠져 들었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Contract_AS_E_String
 msgctxt "3acfbbe8-f3ce-489c-a167-bdb7a8da2139"
@@ -12363,6 +12413,8 @@ msgid ""
 "The mighty being graciously accepted the sacrifice, and bestowed a powerful "
 "blessing upon the {mf|King|Queen}."
 msgstr ""
+"보좌관의 사절들은 마법사를 속여 넘겨 마법사가 자신의 의식에 스스로를 제물로 바치게 하였습니다. 마법사가 소환하려고 했던 것과는 다른 "
+"기수가 소환 되었지만, 위대한 존재는 기꺼이 희생양을 받아들였고, {mf|왕|여왕}에게 강력한 축복을 내렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Contract_AS_G_String
 msgctxt "cfaf6bce-1974-4e50-8b37-a4e57fc5cd92"
@@ -12374,6 +12426,9 @@ msgid ""
 "such an imprudent step, the mage granted the {mf|King|Queen} a powerful "
 "spell to aid {mf|him|her} in battle."
 msgstr ""
+"고문의 사절들의 필사적인 설득으로 마법사는 자신이 속았으며, 자신이 택한 길은 필연적으로 파멸로 이어질 수밖에 없다는 것을 깨달았습니다. "
+"마지막 순간 마법사는 나락의 기수를 등지고 빛의 신들의 품으로 돌아왔습니다. 마법사는 경솔한 행동으로부터 자신을 구해낸 것에 감사하여 "
+"전투 중에 {mf|왕|여왕}을 도울 강력한 주문을 건네주었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Contract_AS_N_String
 msgctxt "5e13cf91-dee5-462d-b248-c748325179dd"
@@ -12384,6 +12439,9 @@ msgid ""
 "for the good advice, he cast upon {mf|him|her} powerful enchantments to aid "
 "{mf|him|her} in battle."
 msgstr ""
+"보좌관 사절들의 필사적인 설득으로 마법사는 다이몬을 숭배하는 것에 아무런 가치가 없다는 것을 납득했습니다. 진정으로 중요한 게 무엇인지 "
+"깊게 고민한 끝에 마법사는 그의 위험한 계획을 포기했습니다. {mf|왕|여왕}의 조언에 감사하면서, 전투 중에 {mf|왕|여왕}을 도울 "
+"강력한 마법을 시전해주었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Contract_LocalizedDescription
 msgctxt "dacdfdc5-8a11-4a5a-84d3-c4402cfb74d3"
@@ -12392,12 +12450,14 @@ msgid ""
 " one of the Four Horsemen. Such an extraordinary event cannot be allowed to "
 "pass without royal attention."
 msgstr ""
+"이 지역의 강력한 마법사가 네 기수 중 하나와 계약을 맺을 준비를 하고 있습니다. 이런 중대사는 왕의 허락 없이는 결코 일어나선 안 될 "
+"일입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Contract_LocalizedName
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Contract_LocalizedName_String
 msgctxt "2121ebaf-49b6-43f5-822b-4ddf865d3e26"
 msgid "The Contract"
-msgstr ""
+msgstr "계약"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/EnchantedPrince_LocalizedDescription
 msgctxt "db7aebae-e8b2-42e5-b522-e59d291fb59d"
@@ -12410,11 +12470,15 @@ msgid ""
 "delicate approach — an overt intervention would not do. Will the Minister be"
 " able to manage this task?"
 msgstr ""
+"정찰대가 방금 한 통의 편지를 가지고 왔습니다. 근처에 있는 작은 남작령의 젊은 남작이 포로로 잡혔습니다. 그의 젊은 아내는 사실 위험한 "
+"마녀였고, 남편을 탑에 가둔 뒤 남작령을 장악했습니다. 그는 지금도 투옥되어 있지만, 일부 백성들은 아직도 충성을 다하고 있으며, 어떤 "
+"대가를 치르더라도 남작을 석방할 작정입니다. 이 문제는 세심한 접근이 필요합니다. 따라서 공공연한 개입은 불가능합니다. 장관에게 이 일을 "
+"처리하도록 하시겠습니까?"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/EnchantedPrince_LocalizedName
 msgctxt "eb1e37b8-253f-4726-a1f3-df765da63191"
 msgid "The Charmed Prince"
-msgstr ""
+msgstr "마법에 걸린 왕자"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/EnchantedPrince_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "a0c8471a-38d5-4620-ad38-41101a08ea21"
@@ -12424,6 +12488,8 @@ msgid ""
 "advisor for trying to foil her devices, and she has used her spies to spread"
 " dirty rumors about the {mf|King|Queen}."
 msgstr ""
+"보좌관은 남작을 도우려 했지만, 어설프게도 마녀의 주의 깊은 수하들에게 그의 계획을 들키고 말았습니다. 이제 남작부인은 보좌관이 남작을 "
+"탈옥시키려 한 것에 원한을 품고 있으며, 첩자들을 풀어 {mf|왕|여왕}에 대한 더러운 소문을 퍼뜨리고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/EnchantedPrince_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "18e8677c-620a-49a9-a40f-e16aa081e0ab"
@@ -12433,6 +12499,8 @@ msgid ""
 " dealt the baroness a swift blow. She was thrown in prison, and the baron is"
 " celebrating his liberation!"
 msgstr ""
+"보좌관은 젊은 남작을 도울 전사들을 보냈습니다. 평범한 농민으로 위장하여 정당한 통치자의 충성스런 백성들에 섞여 들어가 남작부인에게 "
+"일격을 가했습니다. 그녀는 감옥에 갇혔고, 남작은 자신의 해방을 축하하고 있습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/EnchantedPrince_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "bdaf0d53-40c5-4df2-8611-348b42006940"
@@ -12442,6 +12510,8 @@ msgid ""
 "their colleagues suspect that they were recruited by the baroness's "
 "henchmen."
 msgstr ""
+"보좌관의 첩보원들이 젊은 남작을 빼내려던 작전은 비참하게 실패했습니다! 요원들은 아직도 임무에서 돌아오지 않았고, 동료 요원들은 그들이 "
+"남작부인의 수하들에게 매수된 게 아닌지 의심하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/EnchantedPrince_Solutions.Entries.Array.data[2].Resolutions.Array.data[3].LocalizedDescription_String
 msgctxt "b8796432-ca70-41c9-922a-668b286a8533"
@@ -12453,6 +12523,9 @@ msgid ""
 "{mf|King|Queen}'s spies, the baroness grants all sorts of \"favors\" to the "
 "advisor."
 msgstr ""
+"어느 화창한 날, 남작은 감옥에서 사라졌습니다. 그리고 {mf|왕|여왕}의 궁정에서 모습을 드러냈습니다. 남작은 즉시 잔존한 충성파를 "
+"그의 깃발 아래 모으기 시작했습니다. 하지만, 보좌관은 이 순진한 통치자를 전쟁에 서둘러 내보내지 않았습니다. 왜냐하면 그가 "
+"{mf|왕|여왕}의 보호 아래 있는 한, 남작부인은 보좌관에게 온갖 \"호의\"를 베풀 것이기 때문입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/EnchantedPrince_Solutions.Entries.Array.data[2].Resolutions.Array.data[4].LocalizedDescription_String
 msgctxt "d0e4965a-fba8-4118-b21b-c4b2689fa77b"
@@ -12463,6 +12536,9 @@ msgid ""
 " his plans: the diplomats have already noted a significant cooling in "
 "relations with neighboring states."
 msgstr ""
+"보좌관은 마녀에게 남작의 계획을 알리지 못했습니다. 전령은 너무 늦게 도착했고, 아내의 시체를 밟고 서 있는 젊은 남작과 눈을 "
+"마주쳤습니다. 남작은 누가 자기 계획을 수포로 돌릴 뻔했는지 분명히 기억할 것입니다. 외교관들의 보고에 따르면 이미 이웃 국가들과의 "
+"관계가 상당히 냉각되고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/EnchantedPrince_Solutions.Entries.Array.data[2].Resolutions.Array.data[5].LocalizedDescription_String
 msgctxt "f37e0edc-d8a5-48c0-9fa1-5e65521fcf1f"
@@ -12472,6 +12548,8 @@ msgid ""
 " the {mf|King|Queen} by entering an alliance with {mf|him|her} and signing a"
 " number of rather lucrative trade treaties."
 msgstr ""
+"보좌관은 적절한 시간에 마녀에게 남작의 골치아픈 계획을 알려 주었습니다. 젊은 남작의 해방은 좌절되었고, 남작 부인은 {mf|왕|여왕}"
+"에게 감사를 표하며 왕국과 동맹을 맺었고, 꽤 이득이 되는 무역 조약을 체결했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Fog_Description
 msgctxt "164f4971-a956-4244-9648-341604685ccd"
@@ -12479,6 +12557,8 @@ msgid ""
 "\n"
 "A deadly fog is terrorizing our people."
 msgstr ""
+"\n"
+"치명적인 안개가 우리 국민을 공포에 떨게 하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Fog_LocalizedDescription
 msgctxt "0d1b415f-cf35-4864-beb6-395e123f664c"
@@ -12488,12 +12568,15 @@ msgid ""
 " are afraid to leave their homes. Are there enough brave men and women to "
 "take up arms and torches, and venture forth into the fog?"
 msgstr ""
+"불길한 안개가 이웃 나라 우스탈라브에서 우리 땅으로 넘어왔습니다. 뼈가 으스러지는 소리와 무시무시한 짐승의 숨소리가 들여다 볼 수 없는 "
+"장막 속을 가득 채우고 있습니다. 사람들은 두려움에 집을 나서지 못하고 있습니다. 과연 무기와 횃불을 들고 안개속을 과감히 헤쳐나갈 "
+"용감한 사람이 있을까요?"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Fog_LocalizedName
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Fog_LocalizedName_String
 msgctxt "93a0b176-64f7-4e0e-be2f-69f611ef7b41"
 msgid "The Fog"
-msgstr ""
+msgstr "안개"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Fog_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "6645fc19-16e5-4351-8efa-97efb5c8e288"
@@ -12503,6 +12586,8 @@ msgid ""
 " monsters are striking at settlements in the region, killing scores at a "
 "time. Something must be done!"
 msgstr ""
+"보좌관은 용감한 사람들을 모아 안개 속으로 들여보냈지만 아무도 돌아오지 않았습니다. 장막은 점점 더 두꺼워지고 있고, 형용할 수 없는 "
+"괴물들이 이 지역의 정착지를 습격하여 많은 사람들이 죽어가고 있습니다. 뭔가 조치를 취해야 합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Fog_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "c281d853-1d0b-4388-8611-8bbc515dda96"
@@ -12512,6 +12597,8 @@ msgid ""
 "The shroud grows ever thicker, and the monsters continue to slaughter more "
 "and more peasants..."
 msgstr ""
+"안개 속에 발을 디딘 용감한 사람들이 많은 수의 부정한 크리처들을 이 세상에서 없애버렸지만, 우리도 큰 손실을 입었고 괴물들은 아직 많이 "
+"남아있습니다. 장막은 점점 두꺼워지고 있으며 괴물들은 점점 더 많은 농민들을 학살하고 있습니다..."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Fog_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "078fb339-3a1d-47e2-8e1a-2c4e13874391"
@@ -12522,6 +12609,8 @@ msgid ""
 "easier to face once they had nowhere to hide. The region's residents are "
 "breathing a sigh of relief."
 msgstr ""
+"용감한 자들이 여왕의 부름에 응하여 망설임 없이 안개에 발을 들였고, 이내 영광스러운 승리를 거두었습니다! 횃불의 불꽃이 불길한 장막을 "
+"흩어버렸고, 숨을 곳을 잃은 부정한 짐승들을 상대하는 것은 전보다 훨씬 수월했습니다. 주민들이 안도의 한숨을 내쉬고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Fog_Solutions.Entries.Array.data[2].Resolutions.Array.data[3].LocalizedDescription_String
 msgctxt "81d00e94-786c-4c20-9537-133b28fbd49c"
@@ -12533,6 +12622,9 @@ msgid ""
 " a battle between courageous defenders of {kingdomname} and the horrid "
 "creatures from the fog."
 msgstr ""
+"조국을 지키기 위해 의용대가 모여들었고, 가슴 속에서 타오르는 불꽃으로 안개를 몰아냈습니다. 그림자 속에 숨어 있던 짐승들은 모두 "
+"비침하게 칼을 맞고 쓰러졌습니다. 목숨을 건진 마을 사람들은 {mf|왕|여왕}을 찬양하였고, 안개 속의 무시무시한 크리처과 맞서 "
+"{kingdomname}을/를 지킨 용감한 사람들의 영웅담이 주변의 모든 나라에서 들리고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic10/Relic_LocalizedDescription
 msgctxt "8c52c7bf-88ca-49f8-9585-0dc583c5c29e"
