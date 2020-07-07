@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
 "PO-Revision-Date: 2020-07-07 21:00+0000\n"
-"Last-Translator: 냠 <setsuna444@naver.com>\n"
+"Last-Translator: laz <joholja@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -13843,13 +13843,13 @@ msgctxt "b6a79225-4dd6-4162-88f6-1cf2b476888b"
 msgid ""
 "The subjects to the {mf|baron|baroness|King|Queen} pledge their undying "
 "loyalty and support! This opportunity should be seized…"
-msgstr ""
+msgstr "{mf|남작|여남작|왕|여왕}의 신민들이 영원한 충성과 지지를 맹세하고 있습니다. 이 기회를 놓치지 말아야 합니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/SupportFromPeople_LocalizedName
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/SupportFromPeople_LocalizedName_String
 msgctxt "a554d3b5-e39c-4119-af34-10d1283377ba"
 msgid "Faith and Loyalty"
-msgstr ""
+msgstr "신념과 충성"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/SupportFromPeople_Solutions.Entries.Array.data[0].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "ee027378-7c25-404f-994c-3cbabe1ca4a0"
@@ -13857,6 +13857,7 @@ msgid ""
 "The Regent failed to use the favorable atmosphere to strengthen the "
 "{mf|barony|barony|kingdom|kingdom} in any significant way."
 msgstr ""
+"우호적인 분위기에도 불구하고, 섭정은 이 호기를 이용해 {mf|남작령|남작령|왕국|왕국}을 강화하는 데에는 별 성과를 내지 못했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/SupportFromPeople_Solutions.Entries.Array.data[0].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "ad83d33f-2ae4-4e83-ba5b-4b9b62e0d695"
@@ -13864,6 +13865,7 @@ msgid ""
 "The regent failed to use the favorable atmosphere to strengthen the "
 "{mf|barony|barony|kingdom|kingdom} in any significant way."
 msgstr ""
+"우호적인 분위기에도 불구하고, 섭정은 이 호기를 이용해 {mf|남작령|남작령|왕국|왕국}을 강화하는 데에는 별 성과를 내지 못했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/SupportFromPeople_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "25341460-f56d-4fc0-b0cf-ffd0148de805"
@@ -13873,6 +13875,8 @@ msgid ""
 "people. The audience agreed, and recognized that by helping the "
 "underprivileged they would improve their own lives as well."
 msgstr ""
+"섭정은 시민들에 대한 연설을 통해, {mf|남작령|남작령|왕국|왕국}의 번영은 이웃에 대한 자선과 긴밀한 관계에 있다고 역설했습니다. "
+"청중 역시 이에 동의하여, 사회적 약자를 돕는 것이 자신의 삶에도 도움이 된다는 점을 깨닫게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/SupportFromPeople_Solutions.Entries.Array.data[0].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "e3f501b4-ee4a-4588-9670-9da55bea4fb0"
@@ -13882,6 +13886,8 @@ msgid ""
 "always welcomed here. The locals felt proud of themselves – and embraced "
 "their neighbors!"
 msgstr ""
+"섭정은 시민들에 대한 연설을 통해, 새로 이주한 정착자들이 언제나 환영받을 수 있어야만 {mf|남작령|남작령|왕국|왕국}의 번영도 "
+"보장받을 수 있다고 역설했습니다. 연설을 들은 주민들은 스스로에 자부심을 갖고, 이웃들을 더욱 환대하게 되었습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/SupportFromPeople_Solutions.Entries.Array.data[1].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "a394fffc-95a5-45d3-a979-2e80a41f80e9"
@@ -13889,6 +13895,7 @@ msgid ""
 "It was high time to rewrite some obsolete laws! The locals weren't so sure "
 "about the reforms, but didn't resist with their usual suspicion."
 msgstr ""
+"지금이야말로 시대에 뒤처진 법령을 개정할 적기입니다! 주민들은 법 개정을 딱히 지지하지도 않았지만, 보통 때처럼 반발하지도 않았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/SupportFromPeople_Solutions.Entries.Array.data[1].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "11a254d3-4cc6-417f-96a2-43fcf2f0ada4"
@@ -13896,13 +13903,14 @@ msgid ""
 "It was high time to rewrite some obsolete laws! The locals weren't so sure "
 "about the reforms, but didn't resist with their usual suspicion."
 msgstr ""
+"지금이야말로 시대에 뒤처진 법령을 개정할 적기입니다! 주민들은 법 개정을 딱히 지지하지도 않았지만, 보통 때처럼 반발하지도 않았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/SupportFromPeople_Solutions.Entries.Array.data[1].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "f0df785a-b46d-4f9a-b3d4-a15d98a1cd6e"
 msgid ""
 "The Councilor seized the opportunity to change a few obsolete laws. The "
 "reforms were considered timely and fair."
-msgstr ""
+msgstr "평의원은 이 기회를 노려 시대에 뒤처진 법령들을 개정했습니다. 법 개정은 대체로 시의적절했다는 평가입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/SupportFromPeople_Solutions.Entries.Array.data[1].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "62b330e9-13f8-450d-b275-60a5dc92d01a"
@@ -13910,13 +13918,15 @@ msgid ""
 "Sensing that the population was ready, the Councilor declared the annulment "
 "of several obsolete laws. The reforms were greeted with cheer and gratitude."
 msgstr ""
+"민중이 변화를 받아들일 준비가 됐다고 판단한 평의원은 시대에 뒤처진 법령 여럿의 폐지를 선언했습니다. 민중은 법 개정을 환호하며 "
+"맞이했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/SupportFromPeople_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "c3c223ea-8b85-4918-90b2-12e3b232482e"
 msgid ""
 "Unfortunately, the Warden failed to harness the support of the locals for "
 "the interests of the {mf|barony|barony|kingdom|kingdom}."
-msgstr ""
+msgstr "그러나 감시관은 지역 주민들의 지지를 {mf|남작령|남작령|왕국|왕국}의 이익과 연결시키는 데 실패했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/SupportFromPeople_Solutions.Entries.Array.data[7].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "b080ae2f-18c7-4030-bef2-6e65cf423765"
@@ -13924,6 +13934,8 @@ msgid ""
 "The Warden was quick to organize the visit by the Mivoni ambassador. The "
 "attentive guests noted that the locals looked well-fed and content."
 msgstr ""
+"감시관은 이 기회를 놓치지 않고 미본 사절단의 방문을 기획했습니다. 주의 깊게 민심을 살펴본 사절단원들은 주민들의 살림이 여유롭고 현재의 "
+"생활에 만족하고 있다는 인상을 받았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/SupportFromPeople_Solutions.Entries.Array.data[7].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "a58ee735-2c10-41e1-91cf-25983fcd8fba"
@@ -13932,6 +13944,8 @@ msgid ""
 " a fair amount of attention. The contented and leisurely appearance of the "
 "gathered onlookers impressed the guests."
 msgstr ""
+"감시관은 이 기회를 놓치지 않고 미본 사절단의 방문을 기획했습니다. 사절단의 방문은 주민들의 적잖은 관심을 끌었고, 사절단은 모여든 환영 "
+"인파의 여유롭고도 만족스러워 보이는 모습에 깊은 인상을 받았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/SupportFromPeople_Solutions.Entries.Array.data[7].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "1b019ab4-4887-4f00-83b6-b7fe12f69bed"
@@ -13940,17 +13954,19 @@ msgid ""
 "{mf|barony|barony|kingdom|kingdom}. The Mivoni ambassador and her court were"
 " greatly impressed by the hospitality and contentment of the locals!"
 msgstr ""
+"감시관은 {mf|남작령|남작령|왕국|왕국}에 우호적인 방문객들을 위해 경호를 제공했습니다. 미본 사절단과 미본 궁정은 지역 주민들의 "
+"만족스런 모습과 그들의 환대에 깊은 감명을 받았습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/TraditionalCelebration_LocalizedDescription
 msgctxt "e39f8e6c-0ec4-4c6e-964d-e099b3df07ba"
 msgid ""
 "An invitation to a celebrated folk festival was delivered to the castle."
-msgstr ""
+msgstr "왕궁으로 지역 민속 축제 초대장이 도착했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/TraditionalCelebration_LocalizedName
 msgctxt "bde2200b-1f5e-4800-b5b1-a1bade916c92"
 msgid "Ancient Tradition"
-msgstr ""
+msgstr "고대의 전통"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/TraditionalCelebration_Solutions.Entries.Array.data[0].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "40a8d4af-d752-41fb-a570-8a317b65ce0d"
@@ -13960,11 +13976,13 @@ msgid ""
 "years of disasters would befall the {mf|barony|barony|kingdom|kingdom}, and "
 "encouraged the people to leave these hostile lands."
 msgstr ""
+"섭정은 잔치 자리에서 만취한 나머지, 농민들이 깊이 신뢰하던 주술사를 모욕하는 실수를 저질렀습니다. 그 대답으로, 이 아시마르는 "
+"{mf|남작령|남작령|왕국|왕국}에 수백년간 이어질 재난을 예언하고는, 주민들에게 이 험악한 땅을 떠나라고 선동하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/TraditionalCelebration_Solutions.Entries.Array.data[0].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "cde2399a-4a10-48bc-b1b3-36edd01fbdfd"
 msgid "The Regent attended the folk festival and paid tribute to tradition."
-msgstr ""
+msgstr "섭정은 축제에 방문하여 이 전통에 경의를 표했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/TraditionalCelebration_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "b694edbd-401b-4ed4-ad5b-fda3fd04e763"
@@ -13973,6 +13991,8 @@ msgid ""
 "to guard the traditions of the River Kingdoms. Such eloquence impressed both"
 " the locals and their guests."
 msgstr ""
+"섭정은 축사를 통해, 강의 왕국들의 전통을 수호해나갈 것을 약속했습니다. 섭정의 언변에 지역 주민들 뿐 아니라 축제에 온 방문객들도 깊은 "
+"인상을 받았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/TraditionalCelebration_Solutions.Entries.Array.data[0].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "36bb6616-3e41-4981-a44c-6bab1006a736"
@@ -13982,6 +14002,8 @@ msgid ""
 "who in turn predicted a hundred years of peace and prosperity for the "
 "{mf|barony|barony|kingdom|kingdom}!"
 msgstr ""
+"섭정은 와인과 먹거리를 가득 실은 수레를 몰고 축제에 도착했습니다. 섭정은 첫 잔을 지역에서 존경받는 주술사에게 권했고, 술잔을 비운 "
+"주술사는 {mf|남작령|남작령|왕국|왕국}에 수백년에 걸친 번영과 평화를 예언했습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/TraditionalCelebration_Solutions.Entries.Array.data[1].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "b289aa7e-868d-4fa9-9174-a6df3a87160f"
@@ -13990,6 +14012,8 @@ msgid ""
 "ritual, devoted to the local spirits. The councilor refused with "
 "indignation, which ruined the festival and angered the locals."
 msgstr ""
+"축제에 참가한 평의원은 지역의 혼령들에게 바치는 전통 의식에 초대받았으나, 그는 화를 내며 거절했습니다. 이 때문에 축제 분위기를 망친 "
+"것은 물론이고, 지역 주민들도 분개하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/TraditionalCelebration_Solutions.Entries.Array.data[1].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "bb4d03f7-5da6-4c79-8457-da3b197147a8"
@@ -13997,14 +14021,14 @@ msgid ""
 "At the festival, the Councilor took part in a traditional ritual, but "
 "accidentally spilled a sacramental cup, casting a shadow over the "
 "celebration."
-msgstr ""
+msgstr "축제에 방문한 평의원은 전통 의식에 참가했지만, 실수로 성스러운 잔을 엎어버린 탓에 축제 분위기가 차게 식고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/TraditionalCelebration_Solutions.Entries.Array.data[1].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "03c6c2d8-ed80-4db6-b476-cc61f746ecb1"
 msgid ""
 "Taking part in a traditional ritual, the Councilor made a favorable "
 "impression on the locals."
-msgstr ""
+msgstr "전통 의식에 참가한 평의원은 지역 주민들에게 우호적인 인상을 주었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/TraditionalCelebration_Solutions.Entries.Array.data[1].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "e41e3fae-136c-4247-9e1a-dba834ce1614"
@@ -14014,20 +14038,22 @@ msgid ""
 "the Councilor is favored by the gods, and have developed tremendous respect "
 "for {mf_Counsilor|him|her}."
 msgstr ""
+"평의원이 전통 의식에 참가하던 중에, 마법의 광휘가 나타나 평의원 위로 비추어내렸습니다. 지역 주민들은 평의원이 신의 총애를 받는 자라고 "
+"믿어, 더욱 큰 존경을 바치고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/TraditionalCelebration_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "b98d9f6a-8de1-477d-bb8d-a3fb9eaa50c6"
 msgid ""
 "The High {mf_HighPriest|Priest|Priestess} honored the folk festival with "
 "{mf_HighPriest|his|her} presence."
-msgstr ""
+msgstr "대사제는 본인이 직접 참가하는 것으로 축제를 빛냈습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/TraditionalCelebration_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "6edfd902-c9e9-4048-8c2a-304cd23afdb7"
 msgid ""
 "The High {mf_HighPriest|Priest|Priestess} honored the folk festival with "
 "{mf_HighPriest|his|her} presence."
-msgstr ""
+msgstr "대사제는 본인이 직접 참가하는 것으로 축제를 빛냈습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/TraditionalCelebration_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "ef27f3e6-1af8-4bea-b235-d0cf33e74677"
@@ -14036,6 +14062,7 @@ msgid ""
 "{mf_HighPriest|his|her} presence. Before the feast began, "
 "{mf_HighPriest|he|she} invited all the guests to pray to their gods."
 msgstr ""
+"대사제는 본인이 직접 참가하는 것으로 축제를 빛냈습니다. 축제가 개막하기 전, 대사제는 모든 방문객들에게 신들에게 기도할 것을 권했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/TraditionalCelebration_Solutions.Entries.Array.data[5].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "eef36855-594a-48e4-ab2c-9dfe148ca5b3"
@@ -14045,6 +14072,8 @@ msgid ""
 "{mf_HighPriest|He|She} blessed the feast table and invited the guests to "
 "pray to their gods."
 msgstr ""
+"대사제는 축제에 도착하자, 몸소 장엄한 집회 행렬을 인도했습니다. 대사제는 잔치상을 축성한 후, 방문객들에게 신들에 대한 기도를 "
+"권했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/UnusuallyBigHarvest_LocalizedDescription
 msgctxt "cc4e3784-68ab-4c8a-ac3c-153557577023"
@@ -14054,25 +14083,27 @@ msgid ""
 "bear. Such fortune is rare. – Who will decide what to do with the sudden "
 "wealth?"
 msgstr ""
+"올해 신들이 농부들에게 미소지었나봅니다. 작황이 너무나 좋은 나머지, 고개숙인 곡식 줄깃대가 낱알의 무게를 견디지 못해 땅에 닿을 "
+"지경입니다. 실로 보기 드문 풍작입니다. 이 갑작스레 얻은 부를 어떻게 할지 누가 결정할까요?"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/UnusuallyBigHarvest_LocalizedName
 msgctxt "3e4d5d59-676b-46cf-b36b-e16db429983b"
 msgid "Bumper Harvest"
-msgstr ""
+msgstr "대풍"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/UnusuallyBigHarvest_Solutions.Entries.Array.data[1].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "b99d5151-cd6c-4924-afb8-a868b4fe5f4c"
 msgid ""
 "The Councilor ordered the excess grain be gathered, but couldn't think of "
 "anything further to do with it."
-msgstr ""
+msgstr "평의원은 우선 초과로 수확된 곡식을 집하하라고 명령했지만, 그 곡식을 어떻게 할지에 대한 계획은 전혀 없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/UnusuallyBigHarvest_Solutions.Entries.Array.data[1].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "930be504-c2a2-4ed1-a92b-1ffe3ddc4494"
 msgid ""
 "The Councilor failed to come up with an idea about what to do with the "
 "excess of grain, and ordered that it be left to the peasants."
-msgstr ""
+msgstr "평의원은 남아도는 곡식을 어떻게 처리할지 결정하지 못하고, 농민들이 각자 알아서 처분하도록 명령했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/UnusuallyBigHarvest_Solutions.Entries.Array.data[1].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "30ad23b7-2dfb-41f8-8464-97095e2b2573"
@@ -14080,6 +14111,7 @@ msgid ""
 "The Councilor bought the excess grain from the peasants and ordered huge "
 "granaries to be built, where it would be stored in case of future famine."
 msgstr ""
+"평의원은 농부들로부터 남은 수확물을 징수하고, 이를 새로 건설할 거대한 곡물 창고에 저장하여 미래의 흉작에 대비하기로 결정했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/UnusuallyBigHarvest_Solutions.Entries.Array.data[1].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "56221eaf-5cec-4c96-9dd1-702502a03720"
@@ -14088,32 +14120,34 @@ msgid ""
 "granaries to be built, where it would be stored in case of future famine. "
 "The remainder will be sown to expand the farmlands."
 msgstr ""
+"평의원은 농부들로부터 남은 수확물을 징수하고, 이를 새로 건설할 거대한 곡물 창고에 저장하여 미래의 흉작에 대비하기로 결정했습니다. 남는 "
+"곡식은 파종할 종자로 보관하여 경작지를 확대하는 데 쓰일 예정입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/UnusuallyBigHarvest_Solutions.Entries.Array.data[3].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "f3ac21c3-36f4-41e5-b602-c76bc65c2cf2"
 msgid ""
 "Unfortunately, the Treasurer's attempts to sell the excess grain failed."
-msgstr ""
+msgstr "불행히도, 남아도는 곡식을 수출하려는 재무관의 시도는 실패했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/UnusuallyBigHarvest_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "2c766ee0-b402-43e3-b2be-29439433820c"
 msgid ""
 "Unfortunately, the Treasurer failed to find a buyer for the excess grain."
-msgstr ""
+msgstr "불행하게도, 재무관은 남아도는 곡물을 처분할 판로를 찾지 못했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/UnusuallyBigHarvest_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "1d7b9b10-38ec-4290-abf5-d9eca38a48e6"
 msgid ""
 "The Treasurer managed to sell the {mf|barony|barony|kingdom|kingdom}'s "
 "excess grain in Brevoy."
-msgstr ""
+msgstr "재무관은 {mf|남작령|남작령|왕국|왕국}의 남아도는 곡물을 브레보이에 수출할 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/UnusuallyBigHarvest_Solutions.Entries.Array.data[3].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "814b8807-f773-4ad1-9f55-f0602ff0d6f9"
 msgid ""
 "The Treasurer managed to sell the excess grain at a very favorable price. "
 "The restless people of Galt never have enough food."
-msgstr ""
+msgstr "재무관은 남아도는 곡물을 매우 좋은 가격에 수출할 수 있었습니다. 늘 정세가 불안한 갈트에는 언제나 식량이 부족하기 때문입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/CattleFall_LocalizedDescription
 msgctxt "29128d5c-06e1-4705-86d6-2758bf37500b"
@@ -14245,11 +14279,13 @@ msgid ""
 "dangerous gang, is hiding in the {mf|barony|barony|kingdom|kingdom}! "
 "Irovetti's courts are not known to be beacons of justice…"
 msgstr ""
+"피탁스에서 위험한 강도 두목으로 체포됐던 엘프 한 명이 탈옥하여 {mf|남작령|남작령|왕국|왕국}에 숨어있다고 합니다. 이로베티 왕의 "
+"궁정이 정의의 등대로 여겨지고 있지는 않습니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/ConvictFromPitax_LocalizedName
 msgctxt "906117fa-8ac7-444a-be9a-738676623f25"
 msgid "Fugitive from Pitax"
-msgstr ""
+msgstr "피탁스에서 온 망명자"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/ConvictFromPitax_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "6a3c49c8-253f-46ea-91d3-7be0c62b8dc6"
@@ -14258,6 +14294,8 @@ msgid ""
 "appoint him as a squad commander. One week later, the elf had persuaded his "
 "soldiers to break their oaths and leave with him for Numeria!"
 msgstr ""
+"장군은 이 도망자와 면담해본 후, 그를 분대장으로 임명하기로 결정했습니다. 바로 그 다음 주에, 이 엘프는 분대원들이 왕국에 대한 충성 "
+"서약을 깨버리도록 설득하여 다같이 누메리아로 도주하고 말았습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/ConvictFromPitax_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "7b121fb7-5497-4e5f-a1f6-274f52752b54"
@@ -14266,18 +14304,20 @@ msgid ""
 "appoint him as a squad commander. One week later, the elf had persuaded his "
 "soldiers to break their oaths and leave with him for Numeria!"
 msgstr ""
+"장군은 이 도망자와 면담해본 후, 그를 분대장으로 임명하기로 결정했습니다. 바로 그 다음 주에, 이 엘프는 분대원들이 왕국에 대한 충성 "
+"서약을 깨버리도록 설득하여 다같이 누메리아로 도주하고 말았습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/ConvictFromPitax_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "d56f1992-3cae-4390-a28f-7b17c13a7d55"
 msgid ""
 "The General thought it best to capture the felon and hand him over to Pitax."
-msgstr ""
+msgstr "장군은 이 흉악범을 체포하여 피탁스로 넘겨주는 것이 최선이라는 결론을 내렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/ConvictFromPitax_Solutions.Entries.Array.data[2].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "b6d34002-3d1e-4ed1-9926-1feb5fe5b77d"
 msgid ""
 "The General thought it best to capture the felon and hand him over to Pitax."
-msgstr ""
+msgstr "장군은 이 흉악범을 체포하여 피탁스로 넘겨주는 것이 최선이라는 결론을 내렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/ConvictFromPitax_Solutions.Entries.Array.data[2].Resolutions.Array.data[4].LocalizedDescription_String
 msgctxt "9ce2c476-d3f5-487b-a7ee-f88c79fac310"
@@ -14288,6 +14328,8 @@ msgid ""
 "people are excited, and celebrate the General and the ruler of the Stolen "
 "Lands."
 msgstr ""
+"장군은 {mf|남작령|남작령|왕국|왕국}의 시민들을 향한 연설에서, 이 땅에 발을 들인 모든 이는 타국의 법으로부터 자유로우며, 우리 "
+"{mf|남작령|남작령|왕국|왕국}의 보호를 받을 것이라고 밝혔습니다. 시민들은 열광했고, 장군과 도둑맞은 땅의 통치자를 찬양하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/ConvictFromPitax_Solutions.Entries.Array.data[2].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "679a8a44-97ea-4b32-bb75-d134e4a76def"
@@ -14298,6 +14340,8 @@ msgid ""
 "people are excited, and celebrate the General and the ruler of the Stolen "
 "Lands."
 msgstr ""
+"장군은 {mf|남작령|남작령|왕국|왕국}의 시민들을 향한 연설에서, 이 땅에 발을 들인 모든 이는 타국의 법으로부터 자유로우며, 우리 "
+"{mf|남작령|남작령|왕국|왕국}의 보호를 받을 것이라고 밝혔습니다. 시민들은 열광했고, 장군과 도둑맞은 땅의 통치자를 찬양하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/ConvictFromPitax_Solutions.Entries.Array.data[4].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "86f805dc-30c2-4ec7-91d4-f67b4a858983"
@@ -14307,6 +14351,8 @@ msgid ""
 "quickly organized a gang and hid in the woods of the "
 "{mf|barony|barony|kingdom|kingdom}."
 msgstr ""
+"수석 외교관이 이 도망자와 면담을 해보기로 했습니다. 치욕스러운 인민재판에 대한 슬픈 이야기를 듣고 나서, 보좌관은 이 엘프를 석방하도록 "
+"했습니다. 그러나 그는 석방되자마자 강도떼를 모아 {mf|남작령|남작령|왕국|왕국}의 숲 속으로 숨어들어갔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/ConvictFromPitax_Solutions.Entries.Array.data[4].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "9f14d3b2-642c-4912-bcff-dbe41660b3b8"
@@ -14316,6 +14362,8 @@ msgid ""
 "together a gang and hid in the woods of the "
 "{mf|barony|barony|kingdom|kingdom}."
 msgstr ""
+"수석 외교관이 이 도망자와 면담을 해보기로 했습니다. 치욕스러운 인민재판에 대한 슬픈 이야기를 듣고 나서, 보좌관은 이 엘프를 석방하도록 "
+"했습니다. 그러나 그는 석방되자마자 강도떼를 모아 {mf|남작령|남작령|왕국|왕국}의 숲 속으로 숨어들어갔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/ConvictFromPitax_Solutions.Entries.Array.data[4].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "cc1aacf1-af32-402b-9607-9d40d5942cae"
@@ -14324,6 +14372,8 @@ msgid ""
 "guilty or innocent. The Grand Diplomat sent in the guards, and had the elf "
 "brought to justice."
 msgstr ""
+"이 도망자가 어떤 자이건 간에, 그의 유무죄 여부를 가릴 수 있는 것은 법원 뿐입니다. 수석 외교관은 경비병들을 시켜 이 엘프를 법정에 "
+"세우게 했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/ConvictFromPitax_Solutions.Entries.Array.data[4].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "24a81b61-adfd-4ab2-9a87-83ab7ada199d"
@@ -14332,6 +14382,8 @@ msgid ""
 "guilty or innocent. The Grand Diplomat sent in the guards, and had the elf "
 "brought to justice."
 msgstr ""
+"이 도망자가 어떤 자이건 간에, 그의 유무죄 여부를 가릴 수 있는 것은 법원 뿐입니다. 수석 외교관은 경비병들을 시켜 이 엘프를 법정에 "
+"세우게 했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/ConvictFromPitax_Solutions.Entries.Array.data[4].Resolutions.Array.data[4].LocalizedDescription_String
 msgctxt "9a468d58-d6e2-438e-be78-eb98ed770861"
@@ -14341,6 +14393,8 @@ msgid ""
 "investigators from Pitax who would trespass on the "
 "{mf|barony|barony|kingdom|kingdom}'s lands."
 msgstr ""
+"수석 외교관은 사건의 전모를 밝히는 데 실패하자 우선은 아무 일도 일어나지 않게 하는 것에 주력하기로 했습니다. 그는 피탁스에, 무단으로 "
+"월경하여 {mf|남작령|남작령|왕국|왕국}을 침범하는 피탁스의 수사관은 엄중히 처벌할 것이라고 경고했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/ConvictFromPitax_Solutions.Entries.Array.data[4].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "181b885f-2b14-441f-88a3-b5c4db822cc2"
@@ -14349,6 +14403,8 @@ msgid ""
 "the wisest course, while threatening to punish any investigators from Pitax "
 "who would trespass on the {mf|barony|barony|kingdom|kingdom}'s lands."
 msgstr ""
+"수석 외교관은 사건의 전모를 밝히는 데 실패하자 우선은 아무 일도 일어나지 않게 하는 것에 주력하기로 했습니다. 그는 피탁스에, 무단으로 "
+"월경하여 {mf|남작령|남작령|왕국|왕국}을 침범하는 피탁스의 수사관은 엄중히 처벌할 것이라고 경고했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/FirstWorldPhenomenon_LocalizedDescription
 msgctxt "8fd438ea-cf82-48bb-9118-30e9f611735d"
@@ -14358,11 +14414,13 @@ msgid ""
 " dwellings, but now they've begun to grow on the walls and roofs of local "
 "houses!"
 msgstr ""
+"불가사의한 소식입니다: 지역 주민들이 형형색색을 띤 거대 버섯이 나타났다며 불평하고 있습니다. 이 버섯들은 처음에는 주거지에서 멀리 "
+"떨어진 곳에서 원형 군집 형태로 발견되었다가, 이제는 민가의 벽과 지붕에서도 자라나고 있다고 합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/FirstWorldPhenomenon_LocalizedName
 msgctxt "84ec6a5e-3eb7-4a42-8111-c044116d77d8"
 msgid "Mystic Circles"
-msgstr ""
+msgstr "신비로운 원"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/FirstWorldPhenomenon_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "d66a0dfb-2dd2-468d-88ca-6fea3a24934d"
@@ -14371,6 +14429,8 @@ msgid ""
 "their prayers only made the circles grow faster! The local citizens have "
 "turned their backs on the gods, fearing further disasters."
 msgstr ""
+"성직자들은 거대 버섯의 확산을 전혀 늦추지 못했습니다. 오히려, 그들의 기도는 버섯을 더 빨리 자라게 만들었습니다! 지역 주민들은 더 큰 "
+"재앙을 두려워하며 신들로부터 등을 돌리고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/FirstWorldPhenomenon_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "e1d5f88a-f00c-4655-86b9-9a015bcc6f57"
@@ -14378,6 +14438,8 @@ msgid ""
 "The priests couldn't halt the advance of the giant mushrooms, either by "
 "prayer or by axe! The saddened peasants had to abandon their houses forever."
 msgstr ""
+"성직자들은 기도로나, 도끼질로나 전혀 거대 버섯들의 확산을 막아내지 못했습니다. 농민들은 슬픔에 잠겨 그들의 집을 영영 내버리는 수 밖에 "
+"없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/FirstWorldPhenomenon_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "9bca7ad2-76b7-4460-bad1-c5593f7994d5"
@@ -14387,6 +14449,8 @@ msgid ""
 " {mf_HighPriest|He|She} and {mf_HighPriest|his|her} clergy held a ritual, "
 "and managed to protect the peasants' houses from the strange growth."
 msgstr ""
+"대사제는 이 버섯들이 태초 세계로부터 나타났다는 계시를 받았습니다. 대사제와 그 예하의 성직자들은 종교 의식을 통해 농부들의 집을 이 "
+"이상한 현상으로부터 지키는 데 성공했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/FirstWorldPhenomenon_Solutions.Entries.Array.data[5].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "fd49f486-0d33-48be-b8d3-695252a522d4"
@@ -14397,6 +14461,8 @@ msgid ""
 "restore the borders between the worlds, and the giant mushrooms withered "
 "right before the peasants' eyes."
 msgstr ""
+"대사제는 이 버섯들이 태초 세계로부터 나타났다는 계시를 받았습니다! 대사제와 그 예하의 성직자들은 종교 의식을 통해 두 세계 간의 경계를 "
+"복구했고, 거대 버섯들은 농부들의 바로 코앞에서 시들어버렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/FirstWorldPhenomenon_Solutions.Entries.Array.data[6].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "37e7d63c-b1d2-43e9-8f09-04c7b6de0039"
@@ -14405,6 +14471,8 @@ msgid ""
 "these investigations led to nothing. Worse, the wizards {mf_Magister|he|she}"
 " sent carried spores on their shoes and cloaks into the neighboring region!"
 msgstr ""
+"마법대신은 버섯들이 퍼져나가는 원인을 파악하려 했지만, 성과는 없었습니다. 오히려 마법대신이 조사차 파견했던 마법사들의 신발과 망토에 "
+"버섯 포자가 들러붙어 이웃 지역으로까지 확산되고 있습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/FirstWorldPhenomenon_Solutions.Entries.Array.data[6].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "45cefcd3-7717-4f66-a405-6dc8b8361f98"
@@ -14414,6 +14482,8 @@ msgid ""
 " sent had to be quarantined to prevent spores from spreading to the nearby "
 "lands!"
 msgstr ""
+"마법대신은 버섯들이 퍼져나가는 원인을 파악하려 했지만, 성과는 없었습니다. 오히려 마법대신이 조사차 파견했던 마법사들은 이웃 지역으로 "
+"포자를 퍼트리는 것을 막기 위해 검역을 거쳐야만 했습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/FirstWorldPhenomenon_Solutions.Entries.Array.data[6].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "d7becd74-ec64-4f2c-8cd2-562253482e3c"
@@ -14422,6 +14492,8 @@ msgid ""
 "impenetrable to creatures from other planes – and this helped! Later they "
 "discovered that the giant mushrooms had emerged from the First World."
 msgstr ""
+"마법대신은 본인의 직관으로, 마을 주변에 다른 차원의 생물체는 뚫을 수 없는 방벽을 쳤고, 이 방법이 통했습니다! 나중에 이 거대 "
+"버섯들이 태초 세계로부터 나타났다는 사실이 밝혀졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/FirstWorldPhenomenon_Solutions.Entries.Array.data[6].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "512cf1b1-4fe0-4378-aa60-8eb9144fff3a"
@@ -14430,6 +14502,8 @@ msgid ""
 "impenetrable to creatures from other planes – and this helped! Later they "
 "discovered that the giant mushrooms had emerged from the First World."
 msgstr ""
+"마법대신은 본인의 직관으로, 마을 주변에 다른 차원의 생물체는 뚫을 수 없는 방벽을 쳤고, 이 방법이 통했습니다! 나중에 이 거대 "
+"버섯들이 태초 세계로부터 나타났다는 사실이 밝혀졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/ForestFairies_LocalizedDescription
 msgctxt "ce99f3af-9f6c-416d-9612-aace5b36e083"
