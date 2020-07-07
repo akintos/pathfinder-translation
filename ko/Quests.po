@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-07-07 21:00+0000\n"
-"Last-Translator: ayame <eveforce@naver.com>\n"
+"PO-Revision-Date: 2020-07-08 21:00+0000\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/quests/ko/>\n"
 "Language: ko\n"
@@ -757,11 +757,14 @@ msgid ""
 "have begun to worship monsters! Baron Varn and his companions must hold back"
 " the tide of disaster, or the village may not survive!"
 msgstr ""
+"두 가지 문제가 오래된 그루터기라는 마을에 닥쳤습니다. 마을은 무시무시한 짐승들의 공격을 받고 있습니다. 죽은 사이클롭스들이 무덤에서 "
+"기어나오고 있습니다. 게다가, 크베티슬라바 라는 마을 사람의 말에 따르면 일부 주민들이 괴물을 숭배하기 시작했다고 합니다! 반 남작과 "
+"그의 동료들은 이 재앙의 파도를 저지해야만 합니다. 그렇지 않으면 마을은 살아남을 수 없습니다!"
 
 #. Mechanics/Blueprints/World/Quests/2DLC/4_Village/Obj_1_GoToVillage_Title
 msgctxt "0cd194da-1aa2-4052-a794-b4c7a9166b71"
 msgid "Help the dwellers of Old Stump"
-msgstr ""
+msgstr "오래된 그루터기의 주민들을 도와라"
 
 #. Mechanics/Blueprints/World/Quests/2DLC/4_Village/Obj_2a_HelpRenegades_Description
 msgctxt "6ac15317-bdc4-40b3-8e75-6f9addeacce1"
@@ -770,6 +773,7 @@ msgid ""
 "jeopardizing the peace of Varnhold. There is no other way – they must be "
 "dealt with!"
 msgstr ""
+"마을 사람들은 불길한 아크다이몬 케런의 숭배자였고, 반홀드의 평화를 위협하고 있습니다. 다른 방법이 없습니다. 그들을 처리해야 합니다!"
 
 #. Mechanics/Blueprints/World/Quests/2DLC/4_Village/Obj_2a_HelpRenegades_Title
 msgctxt "03e531c4-f828-4d72-90a5-8ad1b702c696"
@@ -783,6 +787,8 @@ msgid ""
 " the liars who tried to trick Baron Varn into siding with them – they don't "
 "deserve his mercy!"
 msgstr ""
+"케런과는 별개로, 오래된 그루터기의 촌장과 그의 추종자들과는 좋게 지낼 수도 있었습니다. 그러나 이 거짓말쟁이들은 반 남작을 속여서 한 "
+"패로 삼으려 했습니다. 자비를 받을 자격이 없습니다!"
 
 #. Mechanics/Blueprints/World/Quests/2DLC/4_Village/Obj_2b_HelpFaithful_Title
 msgctxt "49bd607a-f1af-47b0-abef-5f1adcd995a0"
@@ -821,6 +827,8 @@ msgid ""
 "However, the centaurs of the Nomen tribe will hardly be happy to see "
 "outsiders approaching!"
 msgstr ""
+"반 남작의 목표가 고대 던전으로 정해졌습니다.  오래된 그루터기의 주민들에 따르면 고대의 사이클롭스의 황제가 아직도 이곳에 잠들어 있다고 "
+"합니다. 그러나, 노멘 부족의 켄타우로스는 이방인들이 접근하는 것을 달가워 하지 않을 것입니다!"
 
 #. Mechanics/Blueprints/World/Quests/2DLC/4_Village/Obj_3_GotoCentaurs_Title
 msgctxt "86020bde-fa15-4612-9047-0390f58b4945"
@@ -835,14 +843,14 @@ msgstr "문을 여는 의식을 마쳤습니다. 때가 되었습니다!"
 #. Mechanics/Blueprints/World/Quests/2DLC/4_Village/Obj_4_ReachEntrance_Title
 msgctxt "9d5bea1f-1574-4372-814f-7b561120f7c5"
 msgid "Set off into the black depths"
-msgstr ""
+msgstr "흑의 심부로 출발하라"
 
 #. Mechanics/Blueprints/World/Quests/2DLC/5_Dungeon/Add_01_NoVarn_Description
 msgctxt "18d9daf0-16c8-4164-bcf8-8767997b227c"
 msgid ""
 "Fooled by his conniving foe, Maegar Varn was separated from his people. The "
 "General will have to lead the party forward on {mf|his|her} own."
-msgstr ""
+msgstr "메이가르 반은 적의 음모에 속아서 부하들과 떨어지게 되었습니다. 장군은 혼자서 일행을 이끌어야 합니다."
 
 #. Mechanics/Blueprints/World/Quests/2DLC/5_Dungeon/Add_02_NoCephal_Description
 msgctxt "b8578e2f-6650-49a8-a9db-dd5591ae852c"
@@ -962,6 +970,9 @@ msgid ""
 "they were wandering around a mysterious magical dungeon at the time! Maegar "
 "Varn asked us to go there, and find out what happened to his companions."
 msgstr ""
+"썩은 시체의 왕 보다카이가 반홀드 사람 모두의 영혼을 훔쳐갔을 때, 메이가르의 장군이 이끄는 반링 호스트 전사들은 어찌어찌 목숨을 건질 "
+"수 있었습니다. 불행인지 다행인지 모르겠지만, 그들은 딱 그 시간에 어떤 신비로운 마법의 던전 주변을 돌아다니고 있었고, 이로 인해 그 "
+"사이클롭스의 주문에서 벗어날 수 있었습니다! 메이가르 반은 우리에게 거기로 가서 동료들에게 무슨 일이 생겼는지 알아봐 달라고 부탁했습니다."
 
 #. Mechanics/Blueprints/World/Quests/2DLC/Back_To_Lostlarn/Quest_DLC2_Back_To_Lostlarn_Title
 msgctxt "707b7930-0b24-46a6-92ab-a9c09ac3016a"
