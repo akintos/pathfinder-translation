@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
 "PO-Revision-Date: 2020-07-08 21:00+0000\n"
-"Last-Translator: 냠 <setsuna444@naver.com>\n"
+"Last-Translator: laz <joholja@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -15066,6 +15066,8 @@ msgid ""
 "\"witches\" and \"wizards\" to be burned at the stake. The relatives of the "
 "falsely accused took up arms, and a feud has begun in the area!"
 msgstr ""
+"섭정은 현명하지 못한 선택을 했습니다. 이 지역에서 \"마녀\"와 \"위저드\"가 화형에 처해지는 것은 흔한 일이 되었습니다. 누명을 쓴 "
+"피해자의 친지들이 무기를 들고 일어나 지역의 갈등이 심화되고 있습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/BurningTheWitch_Solutions.Entries.Array.data[0].Resolutions.Array.data[9].LocalizedDescription
 msgctxt "c58d87a0-e787-461c-8905-e8a8e5f5a728"
@@ -15299,12 +15301,12 @@ msgctxt "b7d06654-2c22-4517-807c-545e30173a94"
 msgid ""
 "Some locals found gold while panning along the river's sandy banks! However,"
 " this part of the waterway is actively used to transport trade goods."
-msgstr ""
+msgstr "일부 주민들이 강가의 모래톱에서 사금을 채취하고 있습니다! 그러나 이 강은 많은 물자가 오가는 중요한 수상 교통로이기도 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/GoldInTheRiver_LocalizedName
 msgctxt "bcfef2ca-20ea-4229-bae0-467581f21c45"
 msgid "River Gold"
-msgstr ""
+msgstr "강의 금"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/GoldInTheRiver_Solutions.Entries.Array.data[3].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "ce203b15-252a-4761-b492-cd4bfded0a05"
@@ -15313,6 +15315,8 @@ msgid ""
 "panning for gold spurred a massive underground operation to extract the "
 "metal – all without informing the authorities."
 msgstr ""
+"재무관의 계획도 탐욕 앞에선 소용없었습니다. 사금 채취를 통제하려는 시도는, 오히려 관청에 신고조차 없는 무허가 채취행위만 폭증시키는 "
+"결과를 낳았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/GoldInTheRiver_Solutions.Entries.Array.data[3].Resolutions.Array.data[10].LocalizedDescription
 msgctxt "d6d15bc0-73b2-432b-b300-abcc3a338e87"
@@ -15320,6 +15324,8 @@ msgid ""
 "The Treasurer offered the locals a unique mechanism for panning for gold. "
 "Gold extraction began, and the goods floated by, just as before."
 msgstr ""
+"재무관은 주민들에게 무역선의 통행을 방해하지 않는 새로운 사금 채취 방식을 제공했습니다. 금 채취는 계속됐고, 수상으로 오가는 교역도 "
+"종전과 다름없이 이루어지고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/GoldInTheRiver_Solutions.Entries.Array.data[3].Resolutions.Array.data[11].LocalizedDescription
 msgctxt "4d562b4f-be8b-4761-9b72-59fd6c23c577"
@@ -15329,13 +15335,15 @@ msgid ""
 " developed an automaton for waterway gold extraction. This has just become "
 "an important deposit."
 msgstr ""
+"재무관은 {mf|남작령|남작령|왕국|왕국} 최고의 기술자들을 동원하여 문제를 해결하였습니다. 그들은 힘을 합쳐 사금을 채취하는 자동 "
+"기계장치를 개발했고, 이것은 아주 중요한 수입원이 되고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/GoldInTheRiver_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "aaef2287-2127-461b-abb5-b474d4623534"
 msgid ""
 "An attempt to make the locals pan for gold at night only led to greater "
 "conflicts, and the emergence of underground gold workers."
-msgstr ""
+msgstr "사금 채취를 야간으로만 제한하려는 시도는 지역민들의 반발만 불러왔고, 대규모의 무허가 채취 행위가 발견되고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/GoldInTheRiver_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "5815bbe1-1ba7-488f-ad4f-c5b28e24809e"
@@ -15344,6 +15352,8 @@ msgid ""
 "night work was necessary at the location where the gold was found. The "
 "precious metal began to be extracted by moonlight and torch."
 msgstr ""
+"재무관은 주민들에게, 금이 발견되는 장소에서는 야간이 사금을 채취하기에 더 유리하다고 설득해냈습니다. 주민들은 곧 달빛과 횃불을 비추어 "
+"금을 채취하기 시작했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/GoldInTheRiver_Solutions.Entries.Array.data[3].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "ed67e863-7dc0-424c-af55-adf575650206"
@@ -15352,6 +15362,8 @@ msgid ""
 "interfere with daily navigation. All the revenue from the company is "
 "strictly controlled. Not a single grain of gold escapes the treasury!"
 msgstr ""
+"재무관은 낮 동안 배의 통행을 방해하지 않도록 특별히 야간 사금 채취 업체를 설립했습니다. 이 회사의 수익은 철저하게 정부의 통제를 받고 "
+"있습니다. 단 한 톨의 금도 국고에서 빠져나갈 수 없습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/GoldInTheRiver_Solutions.Entries.Array.data[3].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "6bf9df7f-f179-4774-934b-ad499b0d303e"
@@ -15360,6 +15372,8 @@ msgid ""
 "gold, all manner of local and visitor started panning without permission, "
 "and their carelessness has led to several casualties."
 msgstr ""
+"인파를 통제하려는 시도는 모두 실패했습니다. 금이 발견되고부터는 온갖 종류의 주민들과 외지인들이 무허가로 사금 채취에 나섰고, 이들의 "
+"부주의함 탓에 적잖은 희생자가 발생했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/GoldInTheRiver_Solutions.Entries.Array.data[3].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "cd45e9b9-8d98-43c7-8638-9430ac5e81c9"
@@ -15367,13 +15381,14 @@ msgid ""
 "The ban on floating goods caused a conflict with the merchants, who refused "
 "to look for alternate ways to transport their freight."
 msgstr ""
+"강에 선박의 통행을 금지시킨 조치는 상인들과의 갈등을 불러왔습니다. 상인들은 다른 교통수단으로 화물을 운송하는 것을 거부하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/GoldInTheRiver_Solutions.Entries.Array.data[3].Resolutions.Array.data[6].LocalizedDescription
 msgctxt "5bcda8c0-a01c-4d8b-89da-3148bf7bea38"
 msgid ""
 "The Treasurer was able to use another branch of the river to transport "
 "goods, and the gold panning operation has started in earnest."
-msgstr ""
+msgstr "재무관은 강의 다른 지류를 통해 물자를 운송하는 방식을 개발했고, 덕분에 사금 채취업은 본격적으로 궤도에 오를 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/GoldInTheRiver_Solutions.Entries.Array.data[3].Resolutions.Array.data[7].LocalizedDescription
 msgctxt "9988f38c-c437-45f9-8163-b28b8161a646"
@@ -15382,6 +15397,8 @@ msgid ""
 "of a shorter and more convenient route. The grateful merchants invested in "
 "the gold panning operation at the old location."
 msgstr ""
+"이 강을 대체할 새로운 무역로를 찾으려는 노력 끝에, 더 짧으면서도 이용이 편리한 경로가 개발되었습니다. 상인들은 감사의 뜻으로 과거의 "
+"무역로 자리에서 이루어지는 사금 채취업에 투자를 해왔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/GoldInTheRiver_Solutions.Entries.Array.data[3].Resolutions.Array.data[8].LocalizedDescription
 msgctxt "637f353e-e995-4b6d-9e5b-d0dbd61cc35d"
@@ -15390,13 +15407,14 @@ msgid ""
 " the merchant traffic, the local citizens started managing to do it on their"
 " own, leaving the advisor behind."
 msgstr ""
+"재무관이 수상 통행을 방해하지 않는 채취 방식을 검토하는 동안에, 주민들은 보좌관에 앞서 자신들만의 새로운 채취 방식을 적용하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/GoldInTheRiver_Solutions.Entries.Array.data[3].Resolutions.Array.data[9].LocalizedDescription
 msgctxt "ba3130c6-26ad-418a-9da9-4109ef96bdbd"
 msgid ""
 "The Treasurer failed to produce any technology useful for extracting gold. "
 "However, the same research was used to develop another project."
-msgstr ""
+msgstr "재무관의 연구는 금 채취에 도움이 되지는 않았지만, 다른 사업에 유용하게 쓰였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/LostNoble_LocalizedDescription
 msgctxt "0a2ee6cd-58ee-42d9-bd48-84414eb2a179"
@@ -15404,11 +15422,12 @@ msgid ""
 "The leisure boat of a noblewoman from Brevoy ran to ground on a sand bank in"
 " the river. The foreign guest requests aid from the {mf|ruler|ruler}."
 msgstr ""
+"브레보이의 어느 귀족 여성이 탄 유람선이 강가의 모래톱에 좌초하고 말았습니다. 이 외국 손님이 통치자의 도움을 요청하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/LostNoble_LocalizedName
 msgctxt "02c8ea4a-2b81-4a53-817d-71136bcc2ad9"
 msgid "A Noble in Trouble"
-msgstr ""
+msgstr "곤경에 빠진 귀족"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/LostNoble_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "28b64a5c-5511-44b6-9ff0-23b450596b4d"
@@ -15417,6 +15436,8 @@ msgid ""
 "boat from the sand bank, the soldiers toppled over the teetering boat and "
 "sank along with it to the bottom of the river!"
 msgstr ""
+"이 귀족을 도우려는 시도는 비극으로 끝났습니다. 아슬아슬하게 모래톱에 걸린 배를 강으로 띄우려던 병사들은 오히려 배를 뒤집고야 말았고, "
+"배는 강 바닥으로 가라앉았습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/LostNoble_Solutions.Entries.Array.data[2].Resolutions.Array.data[10].LocalizedDescription
 msgctxt "9e705239-20e8-4122-8889-03310a43f223"
@@ -15424,6 +15445,8 @@ msgid ""
 "The desperate noble agreed to the General's demands. After collecting a "
 "pretty sum, the General dispatched her soldiers to dislodge the stuck boat."
 msgstr ""
+"절박했던 이 귀졸은 장군의 요구를 받아들일 수 밖에 없었습니다. 적잖은 금품을 뜯어낸 다음, 장군은 병사들을 시켜 좌초된 배를 끌어내게 "
+"했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/LostNoble_Solutions.Entries.Array.data[2].Resolutions.Array.data[11].LocalizedDescription
 msgctxt "60093286-43da-4f96-b3fc-08ca7f0e7878"
@@ -15433,6 +15456,8 @@ msgid ""
 "reward, the General sent {mf_General|his|her} soldiers to the river and to "
 "release the noble from her predicament."
 msgstr ""
+"이틀간이나 강 한가운데서 씨름하고 나자, 이 귀족은 구조만 된다면 모든 것을 바칠 수 있을 지경에 이르렀습니다. 자신의 보상을 충분히 "
+"챙긴 다음, 장군은 병사들을 보내 이 귀족을 곤경에서 구해주었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/LostNoble_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "3d710c9b-054b-4763-b726-9da024c98d96"
@@ -15441,6 +15466,8 @@ msgid ""
 "the sand bank. They merely got soaking wet, and embarrassed in front of the "
 "onlookers who had gathered on the bank."
 msgstr ""
+"장군이 보낸 병사들이 한참 애써봤지만, 모래톱에 처박힌 배는 꼼짝도 하지 않았습니다. 병사들은 강가에서 지켜보는 군중 앞에서 물에 흠뻑 "
+"젖은 채 낭패한 꼴만 보이고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/LostNoble_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "f6cf8816-ce34-43c1-bad0-f00dea2ffe9c"
@@ -15449,13 +15476,15 @@ msgid ""
 "The story became well known throughout the "
 "{mf|barony|barony|kingdom|kingdom} and beyond its borders."
 msgstr ""
+"장군이 보낸 병사들은 이 귀족을 강 한가운데의 감옥 아닌 감옥에서 구조할 수 있었습니다. 이 이야기는 {mf|남작령|남작령|왕국|왕국} "
+"뿐 아니라 외국에서도 유명해졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/LostNoble_Solutions.Entries.Array.data[2].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "6af86ecc-900b-4b81-9a08-f8f5cdfb8883"
 msgid ""
 "The General's rescue team brilliantly completed their task. The delighted "
 "noble sang accolades to her rescuers."
-msgstr ""
+msgstr "장군이 보낸 구조대는 훌륭하게 구조 임무를 완수했습니다. 구조받은 귀족은 크게 기뻐하며 구조대를 찬양하는 노래를 불렀습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/LostNoble_Solutions.Entries.Array.data[2].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "dd9194dc-b0ab-4061-a26d-67f8c940b02f"
@@ -15464,6 +15493,7 @@ msgid ""
 "ran into bandits who were waiting in ambush near the stuck boat. All were "
 "killed."
 msgstr ""
+"장군이 이 귀족을 돕기 위해 파견한 병사들은, 불운하게도 좌초된 배 근처에서 매복하고 있던 강도들과 마주쳐 전부 살해되고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/LostNoble_Solutions.Entries.Array.data[2].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "5be9a7e3-9321-4f6b-858a-ffb7df6a146c"
@@ -15472,13 +15502,15 @@ msgid ""
 "the sand bank. They merely got soaking wet, and embarrassed in front of the "
 "onlookers who had gathered on the bank."
 msgstr ""
+"장군이 보낸 병사들이 한참 애써봤지만, 모래톱에 처박힌 배는 꼼짝도 하지 않았습니다. 병사들은 강가에서 지켜보는 군중 앞에서 물에 흠뻑 "
+"젖은 채 낭패한 꼴만 보이고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/LostNoble_Solutions.Entries.Array.data[2].Resolutions.Array.data[6].LocalizedDescription
 msgctxt "0b69a3ea-2eb6-41e9-b723-9d4402719830"
 msgid ""
 "The General's soldiers quickly and skillfully pushed the noble's boat from "
 "the sandbank, showered by cries of admiration."
-msgstr ""
+msgstr "장군이 보낸 병사들은 능숙하고도 빠르게 귀족의 배를 모래톱에서 밀어냈습니다. 지켜보던 구경꾼들 사이에 찬사의 환성이 일었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/LostNoble_Solutions.Entries.Array.data[2].Resolutions.Array.data[7].LocalizedDescription
 msgctxt "cf6d6a16-dbd8-4d89-8bab-456443f0f26a"
@@ -15487,13 +15519,15 @@ msgid ""
 "her from her watery prison, and granted her as an honorary escort to the "
 "border of the {mf|barony|barony|kingdom|kingdom}."
 msgstr ""
+"장군이 이 귀족을 돕기 위해 파견한 병사들은 그녀를 이 감옥아닌 감옥에서 신속히 구조하여, {mf|남작령|남작령|왕국|왕국}의 국경까지 "
+"경호해주었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/LostNoble_Solutions.Entries.Array.data[2].Resolutions.Array.data[8].LocalizedDescription
 msgctxt "ed09040b-408a-4f4b-8677-742eda383b8d"
 msgid ""
 "While the General negotiated payment for the noble's rescue, a gang of "
 "bandits stuck onto the boat and killed everyone on board."
-msgstr ""
+msgstr "장군이 귀족의 구조 비용을 협상하고 있던 동안, 한 무리의 도적떼가 배를 습격하여 탑승객 전원을 살해하고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/LostNoble_Solutions.Entries.Array.data[2].Resolutions.Array.data[9].LocalizedDescription
 msgctxt "48e47a54-c9c3-44eb-a28c-1c17e6b29f5c"
@@ -15504,6 +15538,9 @@ msgid ""
 "{mf|baron's|baroness'|King's|Queen's} advisors are extortionists and "
 "blackmailers."
 msgstr ""
+"이 귀족은 장군에게 구조 명목으로 금품을 바치길 거부하고, 대신 인근의 주민들에게 도움을 청했습니다. 주민들은 관대하게도 이웃의 요청에 "
+"응해서, 배를 모래톱에서 밀어내는데 성공했습니다. 시민들은 {mf|남작|여남작|왕|여왕}의 보좌관들이 어려움에 처한 이웃을 등쳐먹는 "
+"비열한 자들이라는 것을 오래도록 기억할 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/MineralWater_LocalizedDescription
 msgctxt "b60441de-1228-4355-ba72-15d7a2f24a58"
@@ -15511,18 +15548,20 @@ msgid ""
 "The locals speak of a healing spring, whose waters cure diseases and grant "
 "new powers. This natural phenomenon should surely be investigated."
 msgstr ""
+"주민들 사이에서 질병을 낫게 하고 기력을 회복시켜 준다는 치유의 샘에 대한 이야기가 떠돌고 있습니다. 이 신비한 자연 현상을 조사해보아야 "
+"할 것 같습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/MineralWater_LocalizedName
 msgctxt "f49b00dc-58b4-41c4-a5f3-a7e65e93584e"
 msgid "Mineral Spring"
-msgstr ""
+msgstr "온천"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/MineralWater_Solutions.Entries.Array.data[1].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "d5e9facd-76ed-49ba-a95c-fca88924dfbc"
 msgid ""
 "The Councilor's servants not only failed to find the mysterious spring, but "
 "incited alarm across the whole area, enraging the locals."
-msgstr ""
+msgstr "평의원의 부하들은 신비로운 온천을 찾기는커녕, 온 지역을 들쑤시고 다니며 주민들의 경계심만 자극했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/MineralWater_Solutions.Entries.Array.data[1].Resolutions.Array.data[10].LocalizedDescription
 msgctxt "d5914fa0-25c1-48cb-9247-ca8567cbd55e"
@@ -15532,6 +15571,8 @@ msgid ""
 " fortified to prevent the spring's destruction. The healing waters will be "
 "indispensable in fighting the next pestilence."
 msgstr ""
+"평의원은 온천을 찾아내자마자 이를{mf|남작령|남작령|왕국|왕국}의 소유라고 선언하고, 혹여라도 무너지거나 고갈되지 않게 보강할 것을 "
+"지시했습니다. 이 치유의 온천은 다음 역병이 창궐할 때 아주 유효한 무기가 될 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/MineralWater_Solutions.Entries.Array.data[1].Resolutions.Array.data[11].LocalizedDescription
 msgctxt "c75aaa76-44a4-466b-9019-53e3dbe3f00d"
@@ -15541,6 +15582,8 @@ msgid ""
 " underground reservoir. Henceforth, the {mf|barony|barony|kingdom|kingdom} "
 "will be safe from all epidemics."
 msgstr ""
+"온천을 찾아냈으나, 그 원천은 대중에 공개되지 않았습니다. 치유의 온천수는 정부 소유로 지정되어, 지하의 비밀 저수고에 저장되고 "
+"있습니다. 이제 {mf|남작령|남작령|왕국|왕국}은 모든 종류의 유행성 전염병에서 안전할 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/MineralWater_Solutions.Entries.Array.data[1].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "9e9edfda-d0f7-4152-84b6-c19ccbac4147"
@@ -15550,6 +15593,8 @@ msgid ""
 "increased the {mf|baron's|baroness'|King's|Queen's} popularity among the "
 "locals."
 msgstr ""
+"평의원이 보낸 탐사대는 온천을 찾아내는 데 실패했습니다. 그러나 그들은 탐사 도중 미아가 된 아이를 찾아냈고, 이 친절한 행위에 대한 "
+"소문이 주민들 사이에서 {mf|남작|여남작|왕|여왕}의 인기를 높이는 데 공헌했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/MineralWater_Solutions.Entries.Array.data[1].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "408675fc-c1e3-4bdd-b968-f10c6398f6fe"
@@ -15558,6 +15603,8 @@ msgid ""
 "More and more people come visit to the spring, seeking comfort from whatever"
 " ails them. Rumors spread far and wide of this wonderful discovery."
 msgstr ""
+"탐사대는 신비로운 온천을 발견하고, 주민들을 위해 포장도로를 연결했습니다. 점점 더 많은 이들이 치료를 위해 온천을 찾아오고, 이 놀라운 "
+"발견에 대한 소문이 널리널리 퍼져나가고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/MineralWater_Solutions.Entries.Array.data[1].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "7b8f9176-6b26-4318-b21b-0beeb3912bc6"
@@ -15567,20 +15614,22 @@ msgid ""
 "local priest. Its healing waters will be indispensable for fighting the next"
 " pestilence."
 msgstr ""
+"치유력의 원천을 찾아낸 평의원은, 온천으로 향하는 길을 신성한 순례자의 길로 조성하는데 노력을 기울였고, 지역의 성직자들이 이를 "
+"축성하였습니다. 치유의 온천수는 이제 다음 역병에 대항하는데 유용하게 쓰일 예정입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/MineralWater_Solutions.Entries.Array.data[1].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "15b438a9-feff-46df-8044-3f6fbb35a1df"
 msgid ""
 "The Councilor's servants not only failed to find the mysterious spring, but "
 "incited alarm across the whole area, enraging the locals."
-msgstr ""
+msgstr "평의원의 부하들은 신비로운 온천을 찾기는커녕, 온 지역을 들쑤시고 다니며 주민들의 경계심만 자극했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/MineralWater_Solutions.Entries.Array.data[1].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "137648b7-fad5-4cce-acc3-1570a1dfd5f8"
 msgid ""
 "The Councilor's servants not only failed to find the mysterious spring, but "
 "marched destructively across the entire area, enraging the locals."
-msgstr ""
+msgstr "평의원의 부하들은 신비로운 온천을 찾기는커녕, 온 지역을 들쑤시고 다니며 주민들의 분노만 자극했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/MineralWater_Solutions.Entries.Array.data[1].Resolutions.Array.data[6].LocalizedDescription
 msgctxt "ee4e0bb0-6199-4a68-a3f2-2f1026f18322"
@@ -15590,6 +15639,8 @@ msgid ""
 " convenience of its visitors, and soon small settlements began to appear in "
 "the vicinity, full of those who come seeking comfort from their ailments."
 msgstr ""
+"온천을 발견한 후, 평의원은 지역의 지리학자들과 상인들에게 이 발견을 알렸습니다. 온천이 위치한 지역은 방문객들의 편의를 위해 "
+"개발되었고, 곧 온천 근처에 치유의 힘을 찾아온 방문객들로 붐비는 작은 마을이 자리잡았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/MineralWater_Solutions.Entries.Array.data[1].Resolutions.Array.data[7].LocalizedDescription
 msgctxt "7b8e6a72-e5eb-4c7a-a80a-2fd0a2c2a241"
@@ -15600,6 +15651,8 @@ msgid ""
 "believers. The healing waters will be indispensable for fighting the next "
 "pestilence."
 msgstr ""
+"평의원은 온천을 발견하자마자 그 위치를 공개했습니다. 곧 온천 주변에 예배당을 갖춘 대규모 치료시설이 건설되어, 많은 여행자와 신자들이 "
+"방문하고 있습니다. 치유의 온천수는 다음 역병이 유행할 때 아주 유용하게 쓰일 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/MineralWater_Solutions.Entries.Array.data[1].Resolutions.Array.data[8].LocalizedDescription
 msgctxt "f4e52dfc-0031-4fbf-9bf6-5377ee4cc97d"
@@ -15608,13 +15661,15 @@ msgid ""
 "information about the spring's location, but the area's dwellers kept silent"
 " out of spite for the {mf|baron's|baroness'|King's|Queen's} advisor."
 msgstr ""
+"평의원이 보낸 조사단은 온천의 위치를 알아내고자 시민들을 닦달했지만, 지역 주민들은 {mf|남작|여남작|왕|여왕}의 보좌관들에 대해 "
+"앙심을 품고 결코 정보를 제공하지 않았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/MineralWater_Solutions.Entries.Array.data[1].Resolutions.Array.data[9].LocalizedDescription
 msgctxt "c769f35c-8e85-4146-8584-4af5da23f55a"
 msgid ""
 "The Councilor's servants not only failed to find the mysterious spring, but "
 "incited alarm across the whole area, enraging the locals."
-msgstr ""
+msgstr "평의원의 부하들은 신비로운 온천을 찾기는커녕, 온 지역을 들쑤시고 다니며 주민들의 경계심만 자극했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Poltergeist_LocalizedDescription
 msgctxt "99a17079-59ee-40b7-9119-86d71d6dcc34"
@@ -15622,11 +15677,13 @@ msgid ""
 "A poltergeist has appeared in the local temple, terrifying the area. It is "
 "rumored to be a wayward soul seeking revenge for an injustice."
 msgstr ""
+"지역의 한 사원에 유령이 나타나 일대가 공포에 떨고 있습니다. 이 제멋대로 날뛰는 혼령이 어떤 부조리에 대한 복수를 노리고 있다는 소문이 "
+"있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Poltergeist_LocalizedName
 msgctxt "0a529e5a-4251-45a8-8830-b8e92be3bfc2"
 msgid "Poltergeist in the Temple"
-msgstr ""
+msgstr "사원의 유령"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Poltergeist_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "ba76b63a-4104-488d-8a18-ea07b6e338c5"
@@ -15636,6 +15693,8 @@ msgid ""
 "advisor's disgraceful flight, and are now more sure than ever that nothing "
 "will protect them from the forces of evil."
 msgstr ""
+"대사제가 그 사원에 직접 들어갔지만, 유령을 제압하지 못했습니다. 주민들은 대사제가 수치스럽게 도망치는 것을 똑똑히 지켜보고는, 아무도 "
+"자신들을 악의 힘으로부터 지켜줄 수 없다는 확신만 커졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Poltergeist_Solutions.Entries.Array.data[5].Resolutions.Array.data[10].LocalizedDescription
 msgctxt "d2741838-8c5f-42ec-8837-db6f267e3489"
@@ -15645,6 +15704,8 @@ msgid ""
 "{mf_HighPriest|his|her} will. It became loyal servant of the advisor, who "
 "kept it in the region as an otherworldly warden."
 msgstr ""
+"대사제는 유령이 깰 수 없는 주문 그물을 엮어 자신의 의지에 따르도록 종속시켰습니다. 이 유령은 이제 대사제의 충실한 종복이 되어, 우리 "
+"영지를 다른 차원의 관점에서 감시하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Poltergeist_Solutions.Entries.Array.data[5].Resolutions.Array.data[11].LocalizedDescription
 msgctxt "a2cdfb4d-7d44-458a-8f47-799bb3507bff"
@@ -15656,6 +15717,9 @@ msgid ""
 "respect, and knelt before the priestess, who declared that her pet ghost "
 "would henceforth act as her lieutenant in the region."
 msgstr ""
+"대사제는 특별한 의식을 통해 유령을 함정에 빠트렸습니다. 포획된 유령은 자신의 의지를 빼앗기고, 대사제의 충성스러운 종복이 되었습니다. "
+"대사제는 그의 부하 유령을 그 지역을 담당하는 자신의 부관으로 임명한다고 선포했고, 지역 주민들은 공포와 존경을 담아 대사제 앞에 무릎을 "
+"꿇었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Poltergeist_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "4a2327a1-aead-4917-9aae-e38d791515f7"
@@ -15663,7 +15727,7 @@ msgid ""
 "All attempts to communicate with the ghost failed. The poltergeist refused "
 "to deal with the {mf_HighPriest|High Priest|High Priestess}, and continued "
 "its rampage."
-msgstr ""
+msgstr "그 유령과 대화하려는 시도는 전부 실패로 돌아갔습니다. 유령은 대사제와의 거래를 거절했고, 여전히 행패를 멈추지 않고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Poltergeist_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "53f04f24-35a6-4474-a77b-2a8965402822"
@@ -15672,6 +15736,8 @@ msgid ""
 "disappeared inside. What exactly transpired within that sacred hall remains "
 "a mystery, but the evil ghost has disappeared without a trace."
 msgstr ""
+"그 사원으로 찾아간 대사제는 그 안에서 갑자기 사라지고 말았습니다. 성전 안에서 무슨 일이 벌어졌는지는 자세히 밝혀지지 않았지만, 어쨋든 "
+"악령은 흔적도 없이 사라졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Poltergeist_Solutions.Entries.Array.data[5].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "788f79ac-4ec4-4b31-afa0-0ff1b01a6af0"
@@ -15682,6 +15748,8 @@ msgid ""
 "Priestess} personally conducted the following service in the temple – to a "
 "full congregation!"
 msgstr ""
+"대사제는 유령과 교신하여, 유령의 지식을 이용하여 오래된 살인사건을 해결할 수 있었습니다. 만족한 유령은 이 세계를 영영 떠나버렸습니다. "
+"대사제는 유령이 이 세계를 떠나는 광경을 사원의 만원 군중 앞에서 직접 연출하였습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Poltergeist_Solutions.Entries.Array.data[5].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "1d5f07cb-1710-417a-bfd3-412a14bb8024"
@@ -15690,6 +15758,8 @@ msgid ""
 "ghost, but failed utterly. The appearance of the beaten and barely-conscious"
 " advisor filled the locals with terror and desperation."
 msgstr ""
+"대사제는 유령을 몰아내려 했지만, 비참한 실패만 겪었습니다. 심하게 다쳐 의식을 잃은 대사제가 실려나가는 모습은 주민들을 공포와 절망으로 "
+"몰아넣었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Poltergeist_Solutions.Entries.Array.data[5].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "4e2992ec-045b-48eb-89fe-8e1b8914a28f"
@@ -15697,7 +15767,7 @@ msgid ""
 "An attempt to trap the ghost failed. The poltergeist chased the "
 "{mf_HighPriest|High Priest|High Priestess} from the temple, and remained "
 "inside for months."
-msgstr ""
+msgstr "유령을 포획하려는 시도는 실패했습니다. 오히려 유령은 사원 밖까지 대사제를 추격하여 몇 달 간이나 대사제에 빙의해 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Poltergeist_Solutions.Entries.Array.data[5].Resolutions.Array.data[6].LocalizedDescription
 msgctxt "12ba877c-cb40-42eb-9594-68a15b7fa343"
@@ -15706,6 +15776,8 @@ msgid ""
 "disappeared inside. What exactly transpired within that sacred hall remains "
 "a mystery, but the evil ghost has disappeared without a trace."
 msgstr ""
+"그 사원으로 찾아간 대사제는 그 안에서 갑자기 사라지고 말았습니다. 성전 안에서 무슨 일이 벌어졌는지는 자세히 밝혀지지 않았지만, 어쨋든 "
+"악령은 흔적도 없이 사라졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Poltergeist_Solutions.Entries.Array.data[5].Resolutions.Array.data[7].LocalizedDescription
 msgctxt "e99d93c9-b249-4d32-a708-64d5dd5d31da"
@@ -15716,6 +15788,8 @@ msgid ""
 "{mf_HighPriest|Priest|Priestess}, who immediately blessed the building and "
 "invited everyone inside for a service."
 msgstr ""
+"대사제와 유령의 대결은 온 지역의 관심을 집중시켰습니다. 이 장대한 격투는 결국 사원의 계단에 이르러 대사제의 승리로 마무리되었습니다. "
+"대사제는 즉시 사원 건물을 축성하고, 관전하던 모두를 사원 안으로 인도했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Poltergeist_Solutions.Entries.Array.data[5].Resolutions.Array.data[8].LocalizedDescription
 msgctxt "08bfa993-df76-4d23-9da3-ffe157bd911e"
@@ -15726,6 +15800,8 @@ msgid ""
 "temple! The advisor was chased from the region, which now seems to have "
 "descended into anarchy."
 msgstr ""
+"대사제가 유령을 제압하려 했지만, 오히려 압도당한 쪽은 대사제 본인이었습니다. 유령에 홀려 정신이 나간 대사제는 사원의 모든 집기를 "
+"때려부쉈습니다! 대사제는 추적을 피해 달아났고, 이제 완전히 착란 상태에 빠진 것 같습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Poltergeist_Solutions.Entries.Array.data[5].Resolutions.Array.data[9].LocalizedDescription
 msgctxt "23f5bf24-e09c-48a2-a196-51857180793e"
@@ -15733,19 +15809,20 @@ msgid ""
 "An attempt to subdue the ghost failed. The poltergeist continues to ravage "
 "the area and terrifies any who approach the temple."
 msgstr ""
+"유령을 제압하려는 시도는 실패했습니다. 유령은 계속해서 인접 지역을 초토화시키고, 사원에 접근하는 사람들을 공포에 빠트리고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Strike_LocalizedDescription
 msgctxt "5a5584aa-274d-45bd-9599-db90ffdf8fc5"
 msgid ""
 "The local craftsmen refuse to return to their workshops. The workers are "
 "demanding more money for their work."
-msgstr ""
+msgstr "지역의 숙련공들이 작업장으로 복귀하기를 거부하고 있습니다. 이들 노동자들은 급여 인상을 요구하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Strike_LocalizedName
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Strike_LocalizedName_String
 msgctxt "18415b1f-1695-472c-b6a4-1986e9d9ae2e"
 msgid "Craftsmen Strike"
-msgstr ""
+msgstr "숙련공들의 파업"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Strike_Solutions.Entries.Array.data[3].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "f86e409c-e49c-4bc8-adec-938d3bc73404"
@@ -15754,6 +15831,8 @@ msgid ""
 "strikers doubted {mf_Treasurer|his|her} good intentions and pelted the "
 "advisor with vegetables!"
 msgstr ""
+"재무관이 직접 지역을 방문했지만, 혼란만 심해졌습니다. 재무관의 의도를 의심한 파업 노동자들이 재무관을 향해 채소를 집어던지며 소요를 "
+"일으켰습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Strike_Solutions.Entries.Array.data[3].Resolutions.Array.data[10].LocalizedDescription
 msgctxt "0ee97168-a745-4ae7-9924-835632c3f28d"
@@ -15762,6 +15841,8 @@ msgid ""
 "in the region. Nonetheless, the craftsmen, fearing persecution, are "
 "returning to work."
 msgstr ""
+"재무관이 파업을 중단시키기는 했지만, 불평은 잦아들지 않았습니다. 그럼에도 불구하고, 처벌을 두려워한 숙련공들은 작업으로 복귀하고 "
+"있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Strike_Solutions.Entries.Array.data[3].Resolutions.Array.data[11].LocalizedDescription
 msgctxt "63e797dd-6d85-4869-b98c-a7aefe176692"
@@ -15771,6 +15852,8 @@ msgid ""
 "for their pains, but so fearful of prison that they now work three times "
 "faster."
 msgstr ""
+"재무관의 명령에 따라 파업은 분쇄되고, 파업 지도자는 체포되었습니다. 숙련공들은 보상도 없이 작업으로 복귀해야 했고, 이들은 감옥살이가 "
+"두려워 평소의 세 배 속도로 작업하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Strike_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "9c117d80-5889-431d-94f6-a18c67512acc"
@@ -15780,6 +15863,8 @@ msgid ""
 "simple craftsmen refused to hear {mf_Treasurer|him|her} and continued their "
 "strike."
 msgstr ""
+"재무관은 사태를 해결하기 위해 직접 지역을 방문했습니다. 그러나 재무관이 지역 상인들과 먼저 호화로운 식사 자리를 갖자, 평민 숙련공들은 "
+"이를 빌미삼아 재무관과의 면담을 거부하고 파업을 지속했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Strike_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "b21fbf03-1872-45e5-88a0-926406f25c71"
@@ -15789,6 +15874,8 @@ msgid ""
 "keeping {mf_Treasurer|his|her} promise and passing new laws to protect the "
 "interests of the workers."
 msgstr ""
+"파업 노동자들은 재무관이 직접 방문한 것에 감명받아 재무관과의 면담을 가진 끝에 파업을 중단했습니다. 재무관은 노동자들과의 약속을 "
+"지켰고, 노동자의 권익을 보호하는 새 법률이 제정되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Strike_Solutions.Entries.Array.data[3].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "7b4b56dd-b50b-4607-bd10-4600cdf8344d"
@@ -15797,6 +15884,8 @@ msgid ""
 "produced by the craftsmen. The people are singing praises of the "
 "{mf|baron|baroness} and {mf|his|her} advisor."
 msgstr ""
+"재무관은 숙련공들이 제작한 물건들을 더 높은 가격에 구매하도록 상인들을 윽박질렀습니다. 민중은 자비로운 남작과 그의 현명한 보좌관을 "
+"찬양하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Strike_Solutions.Entries.Array.data[3].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "6bb7c10c-5900-401e-81c3-2c23964d58f7"
@@ -15805,6 +15894,8 @@ msgid ""
 "its intricacies, and simply gave up! The region continues to lose money by "
 "the day, and the tax collectors are at a loss: the people simply cannot pay!"
 msgstr ""
+"재무관이 사태를 해결해보려 했지만, 복잡한 세부사항을 이해하지 못한 탓에 중재를 포기해버리고 말았습니다. 지역의 수입은 날로 줄어들어, "
+"징세인들이 손해를 볼 지경이 되었습니다. 민중들에게는 납세할 돈조차도 없습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Strike_Solutions.Entries.Array.data[3].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "483015d9-e33c-4221-a399-38db9d1583c0"
@@ -15813,6 +15904,8 @@ msgid ""
 "significant burden from the workers. Sadly, the locals didn't see the great "
 "value in the proposal, and instead made the advisor a laughingstock."
 msgstr ""
+"재무관은 갈트의 사례에서, 노동자들의 부담을 획기적으로 줄여줄 작업 방식의 혁신을 도입하고자 했습니다. 슬프게도 지역 주민들은 이 제안의 "
+"가치를 이해하지 못하고, 재무관을 웃음거리로 만들고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Strike_Solutions.Entries.Array.data[3].Resolutions.Array.data[6].LocalizedDescription
 msgctxt "3f5f8930-a966-4f34-865d-11dd78c4269f"
@@ -15822,6 +15915,8 @@ msgid ""
 "managed to persuade local merchants to invest in the project! The crafters "
 "ended their strike and returned to work."
 msgstr ""
+"재무관은 생산 과정을 훨씬 쉽고 빠르게 개선하는 혁신을 발견했을 뿐 아니라, 지역 상인들이 이 혁신을 도입하는 계획에 투자하도록 설득하는 "
+"데에도 성공했습니다. 노동자들은 파업을 중단하고 작업에 복귀했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Strike_Solutions.Entries.Array.data[3].Resolutions.Array.data[7].LocalizedDescription
 msgctxt "c273986e-03e8-41ed-975d-a00f0026d9a7"
@@ -15831,20 +15926,22 @@ msgid ""
 " tasks now much more convenient and simple, returned to work with "
 "enthusiasm."
 msgstr ""
+"재무관은 원자재를 훨씬 쉽게 가공할 수 있도록 도와주는 기계를 압살롬으로부터 도입하도록 지시했습니다. 이제 훨씬 쉽고 효율적으로 작업할 "
+"수 있게 된 노동자들은 열광하며 작업으로 복귀했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Strike_Solutions.Entries.Array.data[3].Resolutions.Array.data[8].LocalizedDescription
 msgctxt "1e73b47b-77b4-4c57-b20b-fd30ddfad245"
 msgid ""
 "The Treasurer ignored the strike and it evolved into a massive civil "
 "movement, grinding life to a halt across the whole region."
-msgstr ""
+msgstr "재무관은 파업을 무시해버렸고, 파업은 거대한 저항운동으로 자라나 온 지역의 일상이 멈춰버리기에 이르렀습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Strike_Solutions.Entries.Array.data[3].Resolutions.Array.data[9].LocalizedDescription
 msgctxt "0c77a8ec-b1f9-4a58-9583-33d55c16df23"
 msgid ""
 "The Treasurer ordered the strike broken. However, when the guards confronted"
 " the picket-line, the conflict escalated into bloody fights."
-msgstr ""
+msgstr "재무관은 파업을 분쇄하라는 명령을 내렸습니다. 그러나 경비병들이 시위 대열과 마주치자, 충돌은 유혈 사태로 확대되고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/WanderingHero_LocalizedDescription
 msgctxt "943b0d03-11a9-41c0-b933-23a0a28cf36d"
@@ -15853,19 +15950,21 @@ msgid ""
 " half-orc kills monsters and rescues lost locals. Such a person cannot fail "
 "to attract the attention of the {mf|baron|baroness|King|Queen}."
 msgstr ""
+"방랑하는 영웅, 아이오메데의 팔라딘이 날마치에 나타났습니다. 이 하프 오크는 괴물들을 물리치고 실종된 주민들을 구조하고 있습니다. 이런 "
+"영웅이 {mf|남작|여남작|왕|여왕}의 관심을 끌지 않았을리가 없습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/WanderingHero_LocalizedName
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/WanderingHero_LocalizedName_String
 msgctxt "b0443f6e-4875-49a9-9f79-bea3eb6df730"
 msgid "Protector of the Weak"
-msgstr ""
+msgstr "약자들의 보호자"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/WanderingHero_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "425d3a66-128b-45a2-a2f2-29bf26e374c1"
 msgid ""
 "The {mf_HighPriest|High Priest|High Priestess} dismissed the appearance of "
 "the unnamed hero."
-msgstr ""
+msgstr "대사제는 이 이름없는 영웅의 출현을 아예 무시해버렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/WanderingHero_Solutions.Entries.Array.data[5].Resolutions.Array.data[10].LocalizedDescription
 msgctxt "ec4ee505-dd27-4bc4-b293-82c465f6f336"
@@ -15873,7 +15972,7 @@ msgid ""
 "After killing the paladin and resurrecting him as an undead, the "
 "{mf_HighPriest|High Priest|High Priestess} obtained a personal hero, who is "
 "now terrifying the area."
-msgstr ""
+msgstr "대사제는 이 팔라딘을 척살하였다가 언데드로 부활시켜, 자신의 개인적인 부하로 삼았습니다. 지역이 공포에 떨고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/WanderingHero_Solutions.Entries.Array.data[5].Resolutions.Array.data[11].LocalizedDescription
 msgctxt "fa3f9fdf-138f-462c-8377-7718d8780314"
@@ -15883,11 +15982,13 @@ msgid ""
 "undead warriors, and commanded him to act as overseer of order in the "
 "Narlmarches."
 msgstr ""
+"대사제는 이 팔라딘을 척살하였다가 언데드로 되살린 후, 2개 소대 규모의 언데드 전사들의 지휘자로 임명했습니다. 이 언데드 부대는 이제 "
+"날마치 지역의 질서를 감독하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/WanderingHero_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "4b459da4-ed0f-4a72-b0f7-040fbff58580"
 msgid "Attempts to find and meet with the paladin failed."
-msgstr ""
+msgstr "이 팔라딘을 만나보려는 시도는 실패했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/WanderingHero_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "534343f3-4bd1-4f32-998d-3569c720b475"
@@ -15895,7 +15996,7 @@ msgid ""
 "The {mf_HighPriest|High Priest|High Priestess} declared the paladin a "
 "warrior or righteousness, and encouraged the local priests to aid him at "
 "every opportunity."
-msgstr ""
+msgstr "대사제는 이 팔라딘을 정의의 전사로 임명하고, 지역의 성직자들에게 최선을 다해 그의 활동을 지원할 것을 독려했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/WanderingHero_Solutions.Entries.Array.data[5].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "f8363a3b-e477-4d54-888d-f149902aa266"
@@ -15905,13 +16006,15 @@ msgid ""
 "gods. Throughout the Narlmarches this paladin remains honored as a sacred "
 "protector and the personal messenger of Iomedae."
 msgstr ""
+"대사제는 직접 이 팔라딘과 만나 면담해본 후, 그를 신들의 총애를 받는 영웅이라고 선언했습니다. 날마치 전역에서 이 팔라딘은 성스러운 "
+"보호자이자 아이오메데의 사자로 칭송받았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/WanderingHero_Solutions.Entries.Array.data[5].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "069426fc-e230-4ad6-ac33-9aeb73ed5ab2"
 msgid ""
 "The {mf_HighPriest|High Priest|High Priestess} dismissed the appearance of "
 "the unnamed hero."
-msgstr ""
+msgstr "대사제는 이 이름없는 영웅의 출현을 아예 무시해버렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/WanderingHero_Solutions.Entries.Array.data[5].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "917be7ef-3eaf-4187-aabb-cbcc60c77693"
@@ -15920,11 +16023,13 @@ msgid ""
 "paladin, but the half-orc defeated them and swore to defend the dwellers of "
 "Narlmarches from the sinister {mf|baron|baroness|King|Queen}."
 msgstr ""
+"대사제가 보낸 시종들은 그 팔라딘을 공격했지만, 이 하프오크는 그들을 격퇴하고는, 날마치 거주자들을 사악한 {mf|남작|여남작|왕|여왕}"
+"의 손으로부터 보호할 것을 맹세하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/WanderingHero_Solutions.Entries.Array.data[5].Resolutions.Array.data[6].LocalizedDescription
 msgctxt "8418edbc-45c3-4559-8b84-bf40d77c704e"
 msgid "Attempts to find and meet with the paladin failed."
-msgstr ""
+msgstr "이 팔라딘을 만나보려는 시도는 실패했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/WanderingHero_Solutions.Entries.Array.data[5].Resolutions.Array.data[7].LocalizedDescription
 msgctxt "3d4bad08-5622-4f64-96fb-929ae4b0d528"
@@ -15934,6 +16039,8 @@ msgid ""
 " This news puzzled the locals, but they began to treat the unnamed hero with"
 " renewed respect."
 msgstr ""
+"대사제는 이 팔라딘을 그의 정의로운 사명을 이루기 위해 곧 죽음을 맞이할 성스러운 순교자라고 선언하였습니다. 지역 주민들은 "
+"어리둥절했지만, 어쨋든 이 이름없는 영웅을 더욱 존경하게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/WanderingHero_Solutions.Entries.Array.data[5].Resolutions.Array.data[8].LocalizedDescription
 msgctxt "f1316be7-4c05-4018-9118-216d842f9b93"
@@ -15941,7 +16048,7 @@ msgid ""
 "The {mf_HighPriest|High Priest|High Priestess} included the paladin among "
 "the sacred martyrs. The unusual title inspired the paladin to yet greater "
 "feats."
-msgstr ""
+msgstr "대사제는 이 팔라딘을 성스러운 순교자들의 반열에 올렸고, 이 별난 호칭에 감명받은 팔라딘은 더 위대한 무훈을 추구하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/WanderingHero_Solutions.Entries.Array.data[5].Resolutions.Array.data[9].LocalizedDescription
 msgctxt "506e6f39-6fa0-483d-b973-2bd08f7f9baf"
@@ -15951,6 +16058,8 @@ msgid ""
 "him as an undead. The locals found out about the attempt, and now curse the "
 "{mf|baron|baroness|King|Queen} and all {mf|his|her} advisors."
 msgstr ""
+"대사제의 부하들이 이 팔라딘을 추적하여 살해했으나, 대사제는 그를 언데드로 부활시키는 데에는 실패했습니다. 이 더러운 계획의 전모를 알게 "
+"된 주민들은 {mf|남작|여남작|왕|여왕}과 모든 {mf|그의|그녀의} 보좌관들을 저주하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Wedding_LocalizedDescription
 msgctxt "55d17f79-e9b9-44db-812a-d5a1093715f4"
@@ -15959,11 +16068,13 @@ msgid ""
 "The {mf|baron|baroness|King|Queen} received a request that the splendid "
 "ceremony be held in the main square of the capital."
 msgstr ""
+"유력한 상인 가문 둘 간에 성대한 결혼식이 열린다고 합니다. 그들은 {mf|남작|여남작|왕|여왕}에게 수도의 중앙 광장에서 호화로운 "
+"결혼식을 올리게 해달라는 청원을 올렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Wedding_LocalizedName
 msgctxt "c9f6d171-4ca2-46cd-a999-2e51a4e9c84e"
 msgid "A High Society Wedding"
-msgstr ""
+msgstr "상류 사회의 결혼식"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Wedding_Solutions.Entries.Array.data[0].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "d03e1d41-7982-4005-bd6a-ae1665dc3e96"
@@ -15972,13 +16083,15 @@ msgid ""
 " of the families refused to participate in the farce and left the "
 "{mf|barony|barony|kingdom|kingdom} in disgust."
 msgstr ""
+"섭정은 오래된 혼례 전통이 반드시 지켜져야 한다고 완강하게 주장했습니다. 두 가문 중 하나는 이런 희극에 끼어드는 걸 거부하였고, 결국 "
+"혐오감을 견디지 못하고 {mf|남작령|남작령|왕국|왕국}을 떠나고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Wedding_Solutions.Entries.Array.data[0].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "d6a8db39-3681-475f-8a33-09231ab9e536"
 msgid ""
 "The Regent gave permission for the ceremony to be held, but refused to "
 "participate in the wedding preparations."
-msgstr ""
+msgstr "섭정은 결혼식은 허가했지만, 혼례 준비에 참가하는 것은 거절했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Wedding_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "6fe87ba0-d053-41e4-b5c7-57a3e1f527b7"
@@ -15986,7 +16099,7 @@ msgid ""
 "The Regent insisted that all the old wedding traditions be observed. A "
 "splendid military and sacred procession drew the admiration of onlookers and"
 " guests."
-msgstr ""
+msgstr "섭정은 오래된 혼례 전통을 준수해야 한다고 주장했습니다. 화려한 군사 행진과 종교 행렬이 손님과 관람객의 감탄을 이끌어냈습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Wedding_Solutions.Entries.Array.data[0].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "473eb97e-d02b-4652-b267-fc0bc4db1ba8"
@@ -15996,6 +16109,8 @@ msgid ""
 "and the military parade drew the attention of all the citizens of the "
 "capital."
 msgstr ""
+"옛 전통에 따라 거행된 결혼식은 한 달 내내 관심을 모은 행사가 되었습니다. 의식의 장엄함은 브레보이 예법을 능가할 정도였고, 군대의 "
+"행진은 모든 수도 시민들의 이목을 집중시켰습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Wedding_Solutions.Entries.Array.data[0].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "304df82e-15a7-45d6-a9b2-d4d5ca623dd3"
@@ -16003,13 +16118,15 @@ msgid ""
 "The Regent so obviously lobbied for his own interests while organizing the "
 "wedding that both families dropped the idea."
 msgstr ""
+"섭정은 결혼식 행사를 준비하면서 지나치게 자신의 사욕을 채우는데 열중했고, 결국 두 가문 모두가 광장에서의 결혼식을 포기하기에 "
+"이르렀습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Wedding_Solutions.Entries.Array.data[0].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "550c8f5b-c0a3-4b50-b034-f38a96a25763"
 msgid ""
 "The regent gave permission for the ceremony to be held, but refused to "
 "participate in the wedding preparations."
-msgstr ""
+msgstr "섭정은 결혼식은 허가했지만, 혼례 준비에 참가하는 것은 거절했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Wedding_Solutions.Entries.Array.data[0].Resolutions.Array.data[6].LocalizedDescription
 msgctxt "a6a96c47-f1c0-4b76-b46b-9fafa99ae203"
@@ -16017,6 +16134,8 @@ msgid ""
 "The Regent held a lavish feast to honor the newlyweds. The ceremony itself "
 "played second to the tables heaped with food."
 msgstr ""
+"섭정은 신랑신부를 위해 어마어마한 규모의 피로연을 열었습니다. 산처럼 쌓인 음식이 어찌나 굉장했는지, 오히려 결혼식을 뒷전으로 밀어낼 "
+"지경이었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/Wedding_Solutions.Entries.Array.data[0].Resolutions.Array.data[7].LocalizedDescription
 msgctxt "be45f0bf-be5c-4c8d-b1ad-51f0d6ebf527"
@@ -16025,6 +16144,8 @@ msgid ""
 "the capital without exception. News of the splendid ceremony spread through "
 "the whole {mf|barony|barony|kingdom|kingdom}."
 msgstr ""
+"결혼식은 수 일에 걸쳐 치러졌고, 수도의 시민들은 누구나 약간씩이라도 예식에 참가하게 되었습니다. 웅장한 예식에 대한 소문이 곧 "
+"{mf|남작령|남작령|왕국|왕국} 전역으로 퍼져나갔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_LocalizedDescription
 msgctxt "8fc547dd-45ef-4259-812c-bcb084a07bdb"
@@ -16034,12 +16155,15 @@ msgid ""
 "have enough food for themselves. The citizens of the neighboring regions are"
 " watching the situation closely. Who should be put in charge of handling it?"
 msgstr ""
+"우리 영지 내 한 지역의 농부들이 단호하게 납세를 거부하고 있습니다. 올해는 겨울이 길었는데다가, 작년의 수확도 별볼일 없었습니다. "
+"농부들은 자신들의 입에 풀칠할 식량도 부족할 지경입니다. 인접 지역의 시민들도 사태를 면밀히 주시 중입니다. 누가 이 문제를 해결할 "
+"적임자일까요?"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_LocalizedName
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_LocalizedName_String
 msgctxt "94abdea1-91b2-437f-a641-f3ac320ced73"
 msgid "Arrears"
-msgstr ""
+msgstr "납세 거부"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[1].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "cdff5c82-8193-43c0-9f45-75c5735c8c7e"
@@ -16049,6 +16173,8 @@ msgid ""
 "{mf|barony|barony|kingdom|kingdom} have begun to submit nearly identical "
 "petitions..."
 msgstr ""
+"농부들의 사정에 공감한 평의원은 올해의 납세를 면제해주었습니다. 그러자 {mf|남작령|남작령|왕국|왕국} 전역의 도시와 촌락에서 유사한 "
+"면세 청원이 몰려들고 있습니다..."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[1].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "34fa008f-a06e-40b8-b5d6-37851e7585a2"
@@ -16057,6 +16183,8 @@ msgid ""
 "exempted them from paying taxes this year. Some neighboring villages have "
 "begun to submit nearly identical petitions…"
 msgstr ""
+"농부들의 사정에 공감한 평의원은, 다소간의 망설임 끝에 올해 분의 세금을 감면해주었습니다. 그러자 인접한 다른 마을에서도 거의 똑같은 "
+"면세 청원을 앞다투어 제출하고 있습니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[1].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "c2e89f51-d5aa-471f-bf7e-0be645089ba9"
@@ -16064,7 +16192,7 @@ msgid ""
 "After hearing the peasants out, the Councilor prepared an agreement with "
 "them – they would be exempt from paying taxes this year, but would pay "
 "double on the following year."
-msgstr ""
+msgstr "농부들의 사정을 청취한 평의원은, 올해의 세금을 감면받는 대신 내년에 두 배의 세금을 납부하는 것으로 그들과 합의를 보았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[1].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "de1aac43-32fc-41a0-bfbe-3a76a2b52560"
@@ -16073,20 +16201,22 @@ msgid ""
 "paying taxes and made an impassioned speech about solidarity, and how those "
 "who enjoy fortune's blessings today must help those who are in need."
 msgstr ""
+"그들의 청원을 듣고 나서, 평의원은 그들의 세금을 감면해주며 연대에 대한 열정적인 연설을 남겼습니다. 평의원은 연설에서 부의 축복을 "
+"누리고 있는 자들은 반드시 궁핍한 이웃을 도와야 함을 역설했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[1].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "b3745ba2-d24d-4ac9-a21a-e68767e2a608"
 msgid ""
 "The Councilor threatened to demote the leaders of those villages that failed"
 " to pay their taxes. They only laughed."
-msgstr ""
+msgstr "평의원은 세금을 납부하지 않는 마을의 촌장들을 강등시키겠다고 위협했습니다만, 막상 그들은 헛웃음을 지을 뿐이었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[1].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "2561d4a9-e4a9-4a54-9c87-5f79d4c7dc65"
 msgid ""
 "The Councilor threatened to demote the leaders of those villages that failed"
 " to pay their taxes. {mf_Counsilor|His|Her} words had no response."
-msgstr ""
+msgstr "평의원은 세금을 납부하지 않는 마을의 촌장들을 강등시키겠다고 위협했습니다만, 아무 반응도 얻지 못했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[1].Resolutions.Array.data[6].LocalizedDescription
 msgctxt "07704419-3595-4855-8f2e-86f709a39fff"
@@ -16095,6 +16225,8 @@ msgid ""
 " wouldn't send assistance and grain to those villages that failed to pay "
 "their taxes. The peasants backed down."
 msgstr ""
+"평의원은 세금을 납부하지 않는 마을은 나중에 진짜 기근이 닥쳤을 때 아무런 원조도 받지 못할 것이라고 위협했습니다. 그러자 농부들도 "
+"물러설 수 밖에 없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[1].Resolutions.Array.data[7].LocalizedDescription
 msgctxt "57be68b7-733f-4af2-ac75-efec595a2232"
@@ -16103,6 +16235,8 @@ msgid ""
 "would be sent no healers if pestilence should strike, nor grain in the face "
 "of famine. The peasants publicly repented and backed down."
 msgstr ""
+"평의원은 세금을 납부하지 않는 마을에 대해서는 역병이 엄습해도 치료사들을 보내지 않고, 기근이 닥쳐도 식량을 원조하지 않을 것이라고 "
+"위협했습니다. 농부들은 공개적으로 잘못을 인정하고 물러섰습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[3].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "591fcf89-afa5-4648-93a2-f9ae2ec9f3b4"
@@ -16112,6 +16246,8 @@ msgid ""
 "sprout up from villages and cities throughout the "
 "{mf|barony|barony|kingdom|kingdom}…"
 msgstr ""
+"농부들의 주장을 검토한 재무관은 농부들의 사정에 공감하여 올해의 세금을 감면해주기로 결정했습니다. 그러자 유사한 불만이 영지 전역에서 "
+"터져나오고 있습니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "54f0c758-b59e-41e1-b0be-825e0d1784e9"
@@ -16120,6 +16256,8 @@ msgid ""
 "their debts. Some the neighboring villages followed their example and "
 "started sending the Treasurer letters with very similar petitions..."
 msgstr ""
+"농부들의 불만을 듣고 난 후, 재무관은 망설이던 끝에 그들의 빚을 탕감해주었습니다. 그러자 이웃한 마을들에서 그들의 전례를 따라 유사한 "
+"청원의 서신을 재무관에게 보내오기 시작했습니다..."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "f30eca49-3ba3-451e-b8e4-bdc83f92ecf1"
@@ -16127,6 +16265,8 @@ msgid ""
 "The Treasurer worked out a lenient plan together with the peasants, "
 "according to which they will pay half their taxes over the next year."
 msgstr ""
+"재무관은 농부들과 함께 너그러운 조건의 상환 계획을 마련했습니다. 이 계획에 따르면, 농부들은 올해 세금을 감면받는 대신, 그 반절에 "
+"해당하는 금액을 내년에 함께 납부하게 됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[3].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "49aad0da-897d-4eab-9859-70fc069bfc3d"
@@ -16135,6 +16275,8 @@ msgid ""
 " which they will pay all their taxes in installments over the next six "
 "months."
 msgstr ""
+"재무관은 농부들과 함께 너그러운 조건의 상환 계획을 마련했습니다. 이 계획에 따르면, 농부들은 올해 분의 세금을 앞으로 6개월에 걸쳐 "
+"분할 납부하게 됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[3].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "2327c07d-def5-4b8b-aa9e-45fec79d91fb"
@@ -16143,6 +16285,8 @@ msgid ""
 "copper coin out of the peasants. Peasants across the whole "
 "{mf|barony|barony|kingdom|kingdom} are openly laughing at this failure."
 msgstr ""
+"재무관은 직접 문제의 지역을 방문했지만, 농부들에게서 동전 한 닢 걷을 수 없었습니다. 온 {mf|남작령|남작령|왕국|왕국}의 농부들이 "
+"이 실패를 공공연히 비웃고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[3].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "23c60714-0200-416d-b404-9d900d20cf1c"
@@ -16151,13 +16295,15 @@ msgid ""
 " a quarter of the sum due. The subjects are making jokes at the show of "
 "incompetence."
 msgstr ""
+"재무관은 직접 문제의 지역을 방문했지만, 징세 목표액의 1/4 정도만 간신히 징수할 수 있었습니다. 신민들은 재무관의 무능력함을 농담거리 "
+"삼고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[3].Resolutions.Array.data[6].LocalizedDescription
 msgctxt "e5735baa-e972-4264-80f3-7f4d326aefad"
 msgid ""
 "The Treasurer wrote an angry letter. As a result, taxes were paid in full, "
 "though not on time."
-msgstr ""
+msgstr "재무관은 분노에 찬 서한을 보냈고, 그 결과 세금은 제때 걷히지는 못했지만 어쨋든 전액이 징수되긴 했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[3].Resolutions.Array.data[7].LocalizedDescription
 msgctxt "497be166-78f4-4590-a33b-de2886e951ad"
@@ -16166,6 +16312,8 @@ msgid ""
 "peasants if all the taxes were not duly paid. The money came on time, along "
 "with numerous letters of apology."
 msgstr ""
+"재무관은 분노에 찬 연설을 통해, 모든 세금이 적기에 납부되지 않는다면 두 배의 액수로 징수하겠다고 위협했습니다. 그 결과 세금은 무수히 "
+"많은 사죄 편지와 함께 제때 납부되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[4].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "ec2b0df7-215a-48b0-9763-56ef35cd5304"
@@ -16175,6 +16323,8 @@ msgid ""
 " the {mf|barony|barony|kingdom|kingdom} started demanding exemptions as "
 "well…"
 msgstr ""
+"농부들의 불만을 청취한 수석 외교관은 농부들의 사정에 공감하여 올해의 세금을 감면해주기로 결정했습니다. 그러자 "
+"{mf|남작령|남작령|왕국|왕국} 전역의 농부들도 자신들의 세금 감면을 요구하기 시작했습니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[4].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "98c26a9f-a1f4-4359-a087-c94462c50cb4"
@@ -16183,6 +16333,8 @@ msgid ""
 "without success. Feeling sorry for them, {mf_GrandDiplomat||s}he yielded. "
 "Soon the neighboring villages also began to resist paying taxes as well…"
 msgstr ""
+"수석 외교관은 농부들을 설득해보려 했지만 성과는 없었습니다. 수석 외교관은 농부들의 처지를 동정하여 결국 자신이 양보하기로 했습니다. 이 "
+"소식이 알려지자 이웃 마을들 역시 납세를 거부하기 시작했습니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[4].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "e3c66daa-3f7c-47e3-b83c-9eb539113985"
@@ -16194,6 +16346,9 @@ msgid ""
 " guard, and there would be no one to protect {mf|his|her} subjects from "
 "monsters."
 msgstr ""
+"농부들과 면담한 후, 수석 외교관은 올해 분의 세금을 감면해주기로 했습니다. 그러나 같은 날, {mf|그는|그녀는} 모두가 납세를 거부할 "
+"경우 {mf|남작|여남작|왕|여왕}은 경비병에게 급여를 지급하지 못하게 되고, 그럼 아무도 괴물들에게서 신민들을 지켜줄 수 없다는 내용의 "
+"선전물을 출판했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[4].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "f51473ce-e736-4c46-b856-10d24dbb57ef"
@@ -16204,6 +16359,8 @@ msgid ""
 "subjects from monsters. The peasants came to their senses and brought out "
 "their money."
 msgstr ""
+"농부들과 면담한 후, 수석 외교관은 농부들에게 모두가 납세를 거부할 경우 {mf|남작|여남작|왕|여왕}은 경비병에게 급여를 지급하지 "
+"못하게 되고, 그럼 아무도 괴물들에게서 신민들을 지켜줄 수 없다는 것을 설명했습니다. 농부들은 이성을 되찾고 세금을 납부하기로 하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[4].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "da544328-f6c2-416a-a448-51ce6081ac8d"
@@ -16212,6 +16369,8 @@ msgid ""
 " to go into the villages and collect the money by force. A tide of "
 "discontentment has swept over the {mf|barony|barony|kingdom|kingdom}."
 msgstr ""
+"농부들을 설득하는데 실패하자, 수석 외교관은 경비병들에게 마을로 가서 강제로 세금을 징수해올 것을 지시했습니다. 불만의 파도가 "
+"{mf|남작령|남작령|왕국|왕국} 전역을 휩쓸고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[4].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "166f808a-8165-4993-9e96-a721115808cc"
@@ -16221,6 +16380,8 @@ msgid ""
 "frightened peasants quickly brought out their money. Rumors of the ruler's "
 "cruelty are spreading throughout the {mf|barony|barony|kingdom|kingdom}."
 msgstr ""
+"농부들을 설득하는데 실패하자, 수석 외교관은 경비병들을 마을 외곽에 집합시켰습니다. 그러자 겁먹은 농부들은 앞다투어 세금을 "
+"납부해왔습니다. 그러나 군주의 잔인함에 대한 소문이 {mf|남작령|남작령|왕국|왕국} 전역으로 퍼지고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[4].Resolutions.Array.data[6].LocalizedDescription
 msgctxt "1c9d2789-6956-4a1c-b3b6-12815b1856a5"
@@ -16228,7 +16389,7 @@ msgid ""
 "The Grand Diplomat brought {mf_GrandDiplomat|his|her} guards to the meeting "
 "with the peasants. The negotiations were short – and the taxes will be paid "
 "in full and on time."
-msgstr ""
+msgstr "수석 외교관은 경비병들을 시켜 농부들과 면담하게 했습니다. 협상은 간단히 끝났습니다. 세금 전액이 적기에 납부될 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Arrears_Solutions.Entries.Array.data[4].Resolutions.Array.data[7].LocalizedDescription
 msgctxt "d44f4506-c940-4e04-a69a-e2b8e7d78b29"
@@ -16237,6 +16398,8 @@ msgid ""
 "{mf_GrandDiplomat||s}he told them, but they publicly repented and paid their"
 " taxes in full and on time."
 msgstr ""
+"수석 외교관은 단독으로 농부들과 면담을 가졌습니다. {mf|그가|그녀가} 그 자리에서 무슨 이야기를 했는지는 알려지지 않았으나, 아무튼 "
+"농부들은 공개적으로 잘못을 인정하고 세금 전액을 제때 납부했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/BlackRavine_LocalizedDescription
 msgctxt "36b3c420-0365-4f34-85c5-54b139ceb5dc"
@@ -18825,7 +18988,7 @@ msgid ""
 "{mf|barony|barony|kingdom|kingdom}'s reputation has benefited from the "
 "Minister's excellent work."
 msgstr ""
-"오를롭스키 가문은 지난 몇 주 동안 숨어있었습니다. 장관의 완벽한 일처리로 {mf|남작령|여남작령|왕국|왕국}의 명성도 커졌습니다. "
+"오를롭스키 가문은 지난 몇 주 동안 숨어있었습니다. 장관의 완벽한 일처리로 {mf|남작령|여남작령|왕국|왕국}의 명성도 커졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/SafeRefuge_Solutions.Entries.Array.data[9].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "a7450faf-eda0-4aa9-8ad6-6d6bdbe2fe6f"
@@ -18834,8 +18997,8 @@ msgid ""
 "the Minister managed to identify who among the family was secretly working "
 "as Surtova's spy – and turn them."
 msgstr ""
-"오를롭스키 가문은 지난 몇 주 동안 숨어있었습니다. 이 시간 동안, 장관은 가문 내에서 비밀리에 설토바의 첩보원으로 일하는 자를 찾아내어 "
-"돌려보냈습니다.  "
+"오를롭스키 가문은 지난 몇 주 동안 숨어있었습니다. 이 기간 동안, 장관은 가문 내에서 비밀리에 설토바의 첩보원으로 일하는 자를 찾아내어 "
+"전향시킬 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/SafeRefuge_Solutions.Entries.Array.data[9].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "b6d67aae-9fa3-4aee-bdf9-d05f7b8cd34b"
@@ -18845,8 +19008,8 @@ msgid ""
 "This was a hideous failure, and a blot on the "
 "{mf|barony|barony|kingdom|kingdom}'s reputation!"
 msgstr ""
-"오를롭스키 가문은 장관이 그들은 설토바의 손에 넘길 것이라 모함하였습니다. 그들은 작전을 수행중이던 첩보원들을 처형하였습니다. 이것은 "
-"끔찍한 실패였고, {mf|남작령|여남작령|왕국|왕국}의 명성에 오점을 남겼습니다. "
+"오를롭스키 가문은 장관이 그들을 설토바 가문의 손에 넘기려 한다고 비난하였습니다. 그들은 작전을 수행 중이던 첩보원들을 처형하였습니다. "
+"이것은 끔찍한 실패였고, {mf|남작령|여남작령|왕국|왕국}의 명성에 오점을 남겼습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/SafeRefuge_Solutions.Entries.Array.data[9].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "80c2c258-8883-41f0-91b1-3427ca0b96d1"
@@ -18855,8 +19018,8 @@ msgid ""
 " of House Surtova, but this was thwarted at the last minute. The Brevan "
 "family suspected something was wrong, and canceled the deal."
 msgstr ""
-"장관은 오를롭스키 가문을 배신하고 설토바에 넘겨줄 계획을 가지고 있었지만, 마지막에 계획이 어긋났습니다. 이 브레보이인들은 무언가 "
-"잘못되었다는 느낌에 거래를 취소하였습니다. "
+"장관은 오를롭스키 가문을 배신하고 설토바에 넘겨줄 계획을 가지고 있었지만, 마지막에 계획이 어긋났습니다. 이 브레보이 가문은 무언가 "
+"잘못되었다는 의심으로 거래를 취소하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/SafeRefuge_Solutions.Entries.Array.data[9].Resolutions.Array.data[6].LocalizedDescription
 msgctxt "56370ff4-0f5f-4359-b1e9-56d7785ada39"
@@ -18865,8 +19028,8 @@ msgid ""
 "hands of House Surtova. The Great House promised a share of the trade "
 "network controlled by House Orlovsky – in exchange for their heads."
 msgstr ""
-"장관은 오를롭스키 가족을 환영하고, 그들을 설토바의 손으로 넘겨주었습니다. 설토바는 오를롭스키 가문의 머리를 대가로 오를롭스키 가문이 "
-"관리하던 무역망을 나눠줄 것을 약속했습니다. "
+"장관은 오를롭스키 가족을 환영한 다음, 그들을 설토바의 손에 넘겨주었습니다. 설토바는 오를롭스키 가문의 머리를 대가로 오를롭스키 가문이 "
+"관리하던 무역망의 지분을 나눠줄 것을 약속했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Shared_ForgottenKnowledge_F_String
 msgctxt "9009f958-6416-4822-8bf6-e7f66948edd6"
@@ -19110,8 +19273,8 @@ msgid ""
 "rumors of vampires. But at least the disappearances seem to have stopped for"
 " now. However, the people are still afraid of the shadows."
 msgstr ""
-"장관의 최고 요원들은 뱀파이어에 관한 소문에 대해 확신도 반증도 할 수 없었습니다. 그나마 지금은 실종사건이 멈춰있는 상태입니다. 그러나"
-" 사람들은 여전히 공포에 떨고 있습니다. "
+"장관의 최고 요원들은 뱀파이어에 관한 소문에 대해 인정도 부인도 할 수 없었습니다. 그나마 지금은 실종사건이 멈춘 것으로 보입니다. "
+"그러나 사람들은 여전히 공포에 떨고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/FullBlooded_Solutions.Entries.Array.data[9].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "26079392-6391-46db-9a0c-0916e8a7de32"
@@ -20089,8 +20252,8 @@ msgid ""
 "especially strong. The mages wish to build a workshop for enchanting "
 "talismans here."
 msgstr ""
-"현지의 마법사들이 놀랍고 굉장히 중요한 장소-선의 교차점-를 발견했습니다. 이곳에선 마력이 특이하게 강합니다. 마법사들은 장신구를 "
-"강화시키기위한 작업장을 짓고자 합니다. "
+"현지의 마법사들이 선의 교차점이라고 알려진 놀랍고도 굉장히 중요한 장소를 발견했습니다. 이곳에선 마력이 특별히 강력하게 작용합니다. "
+"마법사들은 호부에 마력을 부여하는 작업장을 이곳에 짓고자 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/Ley_lines_LocalizedName
 msgctxt "b982ec20-e56a-43a5-946b-2ef0859fbe79"
@@ -21230,7 +21393,7 @@ msgctxt "94b0a9ea-2a90-4387-9d0a-6ae3aa048d00"
 msgid ""
 "The magic forest keeps growing, coating entire villages and swallowing "
 "fields."
-msgstr "마법의 숲이 계속 자라며 마을 전체을 뒤덮고 들판을 집어 삼키고 있습니다. "
+msgstr "마법의 숲이 계속 자라며 마을 전체을 뒤덮고 들판을 집어 삼키고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/BloodMoon/BloodMoon-5_LocalizedDescription
 msgctxt "26ff93ba-be42-41a5-bae0-72447220ff12"
@@ -21294,9 +21457,9 @@ msgid ""
 "unless one somehow comes to an understanding with the commanders of the "
 "hunt, and their monarch!"
 msgstr ""
-"왕국의 마을은 The Wild Hunt 에 의해 무너지고 있습니다. 두려움에 떠는 시민들은 조용한 목소리로 초록빛 안개에 숨어 나팔소리와"
-" 함께 나타나는 페이의 무리에 대해 말합니다. 사냥꾼들의 지휘관이나 그들의 지도자에 대해 무엇이든 알아내지 못한다면 결코 실수도 흔적도 "
-"남기지 않는 이 사냥꾼과 싸우기란 거의 불가능 합니다... "
+"왕국의 마을들이 와일드 헌트에 의해 유린당하고 있습니다. 겁먹은 시민들은 나직한 목소리로 초록빛 안개에 숨어 있다가 나팔소리와 함께 "
+"나타나는 이 페이의 무리에 대해 이야기하고 있습니다. 결코 사냥감을 놓치는 법도, 흔적을 남기는 법도 없는 이 사냥꾼들에 맞서 싸우는 "
+"것은 거의 불가능합니다... 누군가 이 사냥의 지휘자들, 그리고 그들의 군주와 어떻게든 합의를 이뤄내지 못한다면 말입니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/BloodMoon/BloodMoon-6_LocalizedName
 msgctxt "ad4b1de3-474b-4117-b05f-bebafc5f9187"
@@ -21310,8 +21473,8 @@ msgid ""
 " the Wild Hunt by offering to pay them off. The enraged fey are destroying "
 "everything in their path!"
 msgstr ""
-"재무관은 그들을 매수하려는 시도를 모욕으로 받아들인 the Wild Hunt 들에게서 겨우 목숨만 부지하여 탈출했습니다. 격분한 페이들은"
-" 그들이 가는 길에 놓인 모든 것들을 파괴하고 있습니다. "
+"재무관은 그들을 매수하려는 시도로 와일드 헌트를 모욕했다가 겨우 목숨만 부지하여 탈출했습니다. 격분한 페이들은 그들이 가는 길에 놓인 "
+"모든 것들을 파괴하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/BloodMoon/BloodMoon-6_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "cd5bf43f-ff9c-449a-b6ca-44efbfb5a1b8"
@@ -21349,8 +21512,7 @@ msgid ""
 "The Grand Diplomat failed to establish contact with the commanders of the "
 "Wild Hunt, who gave no response to the many letters and missives they were "
 "sent."
-msgstr ""
-"수석 외교관은 그가 보낸 수많은 편지에 전혀 반응을 보이지 않는 the Wild Hunt 의 지휘관과 접촉하는데 실패했습니다. "
+msgstr "수석 외교관은 와일드 헌트의 지휘자와 접촉하는데 실패했습니다. 그는 수많은 서신에도 전혀 반응을 보이지 않았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/BloodMoon/BloodMoon-6_Solutions.Entries.Array.data[4].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "1c2d05c8-f374-4015-885a-fedfbfce4afa"
@@ -21808,8 +21970,9 @@ msgid ""
 "been dispatched to get rid of the local population, and free up the lands "
 "for the colonizers."
 msgstr ""
-" {mf|남작님|남작님|전하|여왕 전하}의 평판에 해로운 끔찍한 소문이 퍼지고 있습니다. 소문은 브레보이가 더 많은 영토를 바라고 있고,"
-" 자만디 알도리의 사람들이 이미 지역의 주민들을 처리하기 위해 파견되었으며, 식민지를 위해 영토를 해방코자 한다는 것입니다."
+"불쾌한 소문이 퍼져 {mf|남작님|남작님|전하|여왕 전하}의 평판에 흠집을 내고 있습니다. 소문의 내용인즉슨 브레보이가 더 넓은 영토를 "
+"탐내고 있으며, 이를 위해 이미 파견된 자만디 알도리의 부하들이 이 지역 주민들을 제거하고, 그 땅을 이주 개척자들에게 넘기려 든다는 "
+"것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck1/FoulRumor_LocalizedName
@@ -27352,7 +27515,7 @@ msgstr "주빌로스트가 알현을 청합니다."
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC31-Linzi_Q2_Fail_LocalizedDescription
 msgctxt "15e7557b-7625-4155-b14a-c47c299cf06c"
 msgid "Linzi is waiting for the {mf|baron|baroness|King|Queen} in the castle."
-msgstr " {mf|남작|여남작|왕|여왕} 성에서 린지가 기다리고 있습니다."
+msgstr "린지가 성에서 {mf|남작|여남작|왕|여왕}을 기다리고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC31-Linzi_Q2_Fail_LocalizedName_String
 msgctxt "196421c9-dbd8-46e1-89bf-7aaffc22ca0b"
@@ -27899,7 +28062,7 @@ msgctxt "f48dd73c-d721-4b08-a7bf-af0f51537143"
 msgid ""
 "An important document is still waiting for the "
 "{mf|baron|baroness|King|Queen}'s attention."
-msgstr " {mf|남작|여남작|왕|여왕}이 봐야할 중요한 문서가 기다리고 있습니다."
+msgstr "아주 중요한 문서가 아직도 {mf|남작|여남작|왕|여왕}의 열람을 기다리고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/Shared_LetterDelivered_String
 msgctxt "ef87d594-4585-4195-8a24-279f1625938f"
@@ -29224,8 +29387,8 @@ msgid ""
 "community to action. The people overcame their fears, grabbed their "
 "pitchforks and axes, and hunted down the cultists in the dark of night."
 msgstr ""
-" {mf|남작|여남작|왕|여왕}의 광적인 적들을 비난하는 의회의 격앙된 연설은 주민들을 자극했습니다. 백성들은 두려움을 극복하고서 "
-"쇠스랑과 도끼를 움켜쥐고 어두운 밤중에 숭배자들을 쫓아버렸습니다."
+"{mf|남작|여남작|왕|여왕}을 광신적으로 적대하는 자들을 격하게 비난한 평의원의 연설은 주민들을 자극하여 직접 행동에 나서게 했습니다. "
+"백성들은 두려움을 극복하고 쇠스랑과 도끼를 움켜쥐고 나와, 야음을 틈타 모인 사교 집단을 모조리 쫓아버렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/RankUpCrisises/Divine5FaithDistorters_Solutions.Entries.Array.data[1].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "80ca0248-2d9f-4f86-a542-099ec9d0c6c8"
@@ -31166,8 +31329,7 @@ msgid ""
 "Our worried leaders report that the kingdom can persevere for one more "
 "month. — After that the government will fall, and Pitax will emerge "
 "victorious."
-msgstr ""
-" 걱정에 찬 지도자들은 왕국이 한 달 더 버틸 수 있다고 보고합니다. 그 후에 정부는 무너지고, 피탁스는 승리하게 될 것입니다."
+msgstr "근심에 찬 지도자들은 왕국이 한 달 더 버틸 수 있다고 보고합니다. 그 후에 정부가 무너지면, 피탁스가 승리하게 될 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/StorySupport/C51-PitaxWarning1Week_LocalizedDescription
 msgctxt "2c8c19cc-46c8-4879-b6ae-48bffe6c649b"
