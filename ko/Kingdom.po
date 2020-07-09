@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
 "PO-Revision-Date: 2020-07-10 21:00+0000\n"
-"Last-Translator: JRF <zxcvgahn@gmail.com>\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -13483,7 +13483,7 @@ msgid ""
 "However, some of them split off from the rest, and left the "
 "{mf|barony|barony|kingdom|kingdom}."
 msgstr ""
-"재무관은 용병들 대부분과 계약을 채결하는 데 성공했습니다. 하지만, 용병단 일부는 이에 반발하여 {mf|남작령|남작령|왕국|왕국}을 "
+"재무관은 용병들 대부분과 계약을 체결하는 데 성공했습니다. 하지만, 용병단 일부는 이에 반발하여 {mf|남작령|남작령|왕국|왕국}을 "
 "떠났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/Mercenaries_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription
@@ -18249,11 +18249,14 @@ msgid ""
 "of the local ruler's army — for a modest fee, of course. Despite their "
 "terrible temper, they are vicious and proficient fighters."
 msgstr ""
+"이 지역에 악랄한 레드캡 페이 패거리가 나타났습니다. 그들은 두 가지 선택지를 제시했습니다. \"돈을 적당히 쳐준다면 너희들의 군대에 "
+"들어가겠다. 거절하면 여자랑 노인부터 시작해서 너희들을 싹 다 죽여 주지.\" 성질머리가 끔찍하긴 하지만, 확실히 그들은 사납고 솜씨 "
+"좋은 전사입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/RedCaps_LocalizedName
 msgctxt "ac6188ef-54cc-4ac1-bf1c-730fc2ac332f"
 msgid "The Redcaps"
-msgstr ""
+msgstr "레드캡들"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/RedCaps_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "1a5ab49a-acf1-4320-89ce-afdb5ffc6224"
@@ -18262,6 +18265,8 @@ msgid ""
 " innocent peasants, slaughtering many of them before the guard came and "
 "drove the villainous lot from the land."
 msgstr ""
+"레드캡과의 협상은 무산되었고, 격노한 페이들이 무고한 우리 농민들을 공격하여 많은 이들이 목숨을 잃었습니다. 그 후, 경비대가 도착해 이 "
+"악당들을 이 땅에서 쫓아냈습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/RedCaps_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "696dfec5-9f76-4e31-8aaf-9a63def28d69"
@@ -18271,6 +18276,8 @@ msgid ""
 "redcaps so weary that they just decided to go home, sighing and cursing all "
 "the way."
 msgstr ""
+"보좌관의 수하들이 레드캡과 협상에 착수했지만, 보수 협의 문제로 협상이 몇 시간 이상 늘어지게 되었습니다. 흥정에 지친 레드캡들은 한숨과 "
+"욕지거리를 내뱉더니 그냥 집으로 돌아가버렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/RedCaps_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "21d2b1c7-581a-4c1f-a412-0c5dbcdd7fb4"
@@ -18281,6 +18288,8 @@ msgid ""
 "bloodthirsty savages will come as a most unsettling surprise for anyone who "
 "tries to attack the Stolen Lands."
 msgstr ""
+"보좌관이 레드캡과 계약을 체결하여 {mf|남작령|남작령|왕국|왕국}군에 편입시켰습니다. 병사들이 레드캡을 꺼려하여 숙소는 따로 마련해야 "
+"했습니다. 이 피에 굶주린 야만인들은 도둑맞은 땅을 침략하는 이들의 간담을 서늘케 할 깜짝 선물이 될 겁니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/RedCaps_Solutions.Entries.Array.data[2].Resolutions.Array.data[3].LocalizedDescription_String
 msgctxt "eb1e3a77-bbfe-47bb-8225-2ef192cb4631"
@@ -18290,6 +18299,8 @@ msgid ""
 "obscenely at every possible opportunity. They've been useful too, however — "
 "they've shown our warriors a few cunning fighting tricks."
 msgstr ""
+"보좌관이 레드캡과 계약을 체결했습니다. 레드캡은 순식간에 정규군에 녹아들었고, 이미 우리 병사들의 언어 생활에 지대한 악영향을 끼치고 "
+"있습니다. 하지만 레드캡이 음탕한 욕설만 가르치지는 않았습니다. 우리 전사들의 전투 기술에 교활하지만 실전적인 수법들이 추가되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/SeaDragons_AFEvil_String
 msgctxt "c5b2e422-e882-4f8f-831b-c5f336cc5b9c"
@@ -18300,6 +18311,8 @@ msgid ""
 "caught word of this and determined that the local authorities were unlawful "
 "and unworthy of assistance."
 msgstr ""
+"해룡단의 습격 계획을 이용하는 데 실패했습니다. 보좌관은 해룡단의 습격을 운운하는 협박으로 현지 수적들을 제압하려 했지만, 이 언사를 "
+"전해들은 해룡단은 {mf|남작령|남작령|왕국|왕국}을 불법국가로 규정하고 원조할 가치가 없다고 판단했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/SeaDragons_FGood_String
 msgctxt "cdb5c58d-b96f-44a1-9066-495f60cba94b"
@@ -18308,6 +18321,8 @@ msgid ""
 "{mf|baron's|baroness'|King's|Queen's} servants hindered them more than it "
 "helped."
 msgstr ""
+"해룡단의 수적 사냥은 별다른 성과를 거두지 못했습니다. {mf|남작|여남작|왕|여왕}의 신하들은 사냥에 도움을 주기는 커녕 짐덩이가 "
+"되었을 뿐입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/SeaDragons_GFGood_String
 msgctxt "83341805-abdf-4829-ac02-5f79a2500bdf"
@@ -18316,6 +18331,7 @@ msgid ""
 "hunting the river pirates. Moreover, the whole interchange gave them a poor "
 "impression of the locals."
 msgstr ""
+"보좌관은 해룡단과의 공동 수적 사냥 협의에 실패했습니다. 게다가, 협의 과정에서 오히려 현지에 좋지 못한 인상을 주고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/SeaDragons_GSEvil_String
 msgctxt "81730400-4e73-46f8-ae69-7b87c9634389"
@@ -18326,6 +18342,8 @@ msgid ""
 "treasures, ships and lives were claimed by the "
 "{mf|baron|baroness|King|Queen} and {mf|his|her} subjects."
 msgstr ""
+"{mf|남작|여남작|왕|여왕}의 보좌관은 해룡단의 습격을 좋은 기회로 삼았습니다. 겁에 질린 수적들은 아바다르의 종에게서 도망쳐 경비대 "
+"앞에 자수했습니다. 수적들의 보물, 배, 목숨은 {mf|남작|여남작|왕|여왕}과 신하들의 손에 넘어갔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/SeaDragons_GSGood_String
 msgctxt "c58812c0-cf39-45fb-8688-7d9ef386cf7f"
@@ -18336,6 +18354,8 @@ msgid ""
 "their routes safe and secure, and the surrounding areas are only getting "
 "richer."
 msgstr ""
+"강을 핏빛으로 물들인 습격 이후, {mf|남작|여남작|왕|여왕}의 보좌관은 해룡단에게 배 몇 척을 남겨 강을 순찰해 달라고 부탁했습니다. "
+"상인들이 이 안전한 항로로 모여들면서, 주변 지역이 점점 더 풍요로워지고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/SeaDragons_LocalizedDescription
 msgctxt "a2491d9c-940a-4c2c-97e5-6834109af21e"
@@ -18345,11 +18365,13 @@ msgid ""
 " the {mf|barony|barony|kingdom|kingdom}'s advisors be able to use this raid "
 "to their advantage?"
 msgstr ""
+"선박 무역을 수호하는 아바다르의 추종자들인 해룡단은 수적들에게 교훈을 주기 위해 강의 왕국들을 습격할 계획을 세우고 있습니다. "
+"{mf|남작령|남작령|왕국|왕국}의 보좌관 중에 이 습격을 기회로 만들 수 있는 자가 있겠습니까?"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/SeaDragons_LocalizedName
 msgctxt "0bdd46e6-08d5-4172-b8b5-09f323073684"
 msgid "Sea Dragons"
-msgstr "바다 용들"
+msgstr "해룡단"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/SeaDragons_SEvil_String
 msgctxt "bc4a0f40-969a-4c13-80c6-f87fb0dc64d2"
@@ -18358,6 +18380,8 @@ msgid ""
 "who sided with the {mf|baron|baroness|King|Queen} in time received their "
 "privateer letters, and protection from the unforgiving bandit exterminators."
 msgstr ""
+"해룡단의 습격은 수적들의 함대를 박살냈습니다. 그러나 재빨리 {mf|남작|여남작|왕|여왕}의 편에 붙은 자들은 사략 허가를 받았고, 저 "
+"무자비한 도적 사냥꾼의 손에서 목숨을 건질 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/SeaDragons_SGood_String
 msgctxt "b40b6b9d-b239-4955-a06a-674f0c5f4c13"
@@ -18366,13 +18390,15 @@ msgid ""
 "Dragons' hunt was invaluable. The bold raid brought order to the waters and "
 "the river pirates are now quietly hiding in backwater harbors."
 msgstr ""
+"{mf|남작|여남작|왕|여왕}의 신하들은 해룡단의 수적 사냥에서 큰 도움이 되었습니다. 용맹한 습격으로 바다에 질서가 잡혔고, 수적들은 "
+"조용히 촌구석 항구에 몸을 숨겼습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/SpiderInvasion_ASPeaceful_String
 msgctxt "ca3e5a79-e85a-4224-b3bb-85b102d35285"
 msgid ""
 "In half a day, the sweep organized by the servants of the crown cleared the "
 "woods of the disgusting beasts."
-msgstr ""
+msgstr "군주의 신하들이 소탕에 나서자, 반나절 만에 그 역겨운 짐승들의 숲이 정화되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/SpiderInvasion_FPeaceful_String
 msgctxt "3a31db89-ff71-4137-929e-7453ea254f5b"
@@ -18380,6 +18406,7 @@ msgid ""
 "The call to go out to the woods to sweep for spiders was not welcomed by the"
 " people. The civilians' fear of the monsters in the woods only intensified."
 msgstr ""
+"사람들은 거미를 쓸어버리러 숲으로 가자는 요청을 달가워 하지 않았습니다. 숲 속의 괴물에 대한 시민들의 공포가 더욱 심해졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/SpiderInvasion_GFPeaceful_String
 msgctxt "f6872adc-c7e7-4c86-bcf2-2a7053eb892e"
@@ -18387,6 +18414,7 @@ msgid ""
 "Unfortunately, the call for a spider sweep successfully brought many "
 "subjects out to the woods – who became easy prey for the ravenous beasts."
 msgstr ""
+"거미 소탕 요청은 성공을 거뒀고, 많은 백성들이 숲으로 향했습니다. 안타깝게도, 그들은 굶주린 야수들 앞에 손쉬운 먹이가 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/SpiderInvasion_LocalizedDescription
 msgctxt "b3b712dc-3bdf-4768-beaa-fe8913011550"
@@ -18396,6 +18424,8 @@ msgid ""
 "going, soon it will become impossible to even walk near the edge of the "
 "woods. It's time to clear the thicket of these predators."
 msgstr ""
+"무시무시한 거대 거미가 숲을 가득 매웠습니다. 거미줄에 걸려 죽음을 당한 사냥꾼과 나무꾼이 한 둘이 아닙니다. 소문에 따르면, 이대로 "
+"가다간 곧 숲가를 산책하는 것 조차도 불가능해질 거라고 합니다. 이제 이 식인 괴물들의 숲을 정화할 시간입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/SpiderInvasion_LocalizedName
 msgctxt "9a44f06a-6287-44d5-9d2f-e8c7e0d94db7"
@@ -18409,6 +18439,8 @@ msgid ""
 "but horrible beasts skillfully hiding in the trees. The military raid led to"
 " terrible losses."
 msgstr ""
+"장군은 병사들이 적병이 아니라 나무에 숨어 있는 끔찍한 짐승들과 상대해야 한다는 사실을 간과했습니다. 군대가 기습을 받아 끔찍한 피해를 "
+"입었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/SpiderInvasion_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "f00b4e38-bbd4-48dc-bf11-2520fe5cecd6"
@@ -18417,13 +18449,15 @@ msgid ""
 "woods before they were all lost in the traps of the disgusting creatures. "
 "The subjects are keeping their distance from the thickets tangled with webs."
 msgstr ""
+"군사 작전이 실패했습니다. 장군은 이 역겨운 크리처들의 덫에 모든 병사들이 걸려들기 전에 겨우 철수했습니다. 백성들은 이 거미줄로 가득한 "
+"숲에 감히 다가가지도 못하게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/SpiderInvasion_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "ed7d981f-a6fc-4ab0-802c-0108142ff090"
 msgid ""
 "The army went into the woods with torches and drawn swords. In half a day, "
 "the last of the disgusting creatures had been cut down."
-msgstr ""
+msgstr "군대가 출동해 횃불을 들고 칼을 뽑아든 채 숲으로 들어갔습니다. 반나절 만에 이 역겨운 크리처들을 모조리 베어넘겼습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/TrailLoric_LocalizedDescription
 msgctxt "b400a121-83bc-4d82-8baa-76e8cb70541f"
@@ -18433,11 +18467,13 @@ msgid ""
 "the loot, they'll become rich. – This stone is valued by wizards who create "
 "golems. Any who aid them can count on valuable trophies."
 msgstr ""
+"모험가들이 값비싼 석영과 대리석을 채굴하기 위해 로릭 언덕으로 향하는 탐험대를 모집하고 있습니다. 만약 트롤 숲에서 살아남기만 한다면, "
+"부자가 될 수 있습니다. 석영과 대리석은 골렘을 만드는 재료로, 위저드들이 아주 비싼 값을 치러줄 겁니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/TrailLoric_LocalizedName
 msgctxt "bae6b999-89b3-4774-a81e-26492be09b48"
 msgid "The Trail of Daring Loric"
-msgstr ""
+msgstr "로릭으로 가는 무모한 여정"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/TrailLoric_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "3ce3c1d3-5e21-46ef-8537-d1b6242ce9ad"
@@ -18446,13 +18482,14 @@ msgid ""
 " like the regimen and combat rules of the army's volunteers. The expedition "
 "set off without the General's support."
 msgstr ""
+"장군은 모험가들과의 협상에 실패했습니다. 그들은 군대의 명령과 교전 수칙을 달가워하지 않았습니다. 탐험대는 군대의 지원 없이 출발했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/TrailLoric_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "a4e55ab0-38a6-4869-8535-67b170a5a978"
 msgid ""
 "The General supplied the adventurers with volunteer soldiers for protection."
 " Now the expedition is ready to face goblins and trolls."
-msgstr ""
+msgstr "장군은 모험가들을 지켜줄 병사들을 선발했습니다. 이제 탐험대는 고블린과 트롤에 맞설 준비가 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/TrailLoric_Solutions.Entries.Array.data[3].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "a379bb8c-893c-4545-92ab-4a3e52ca0959"
@@ -18460,7 +18497,7 @@ msgid ""
 "The Treasurer tried to make a profitable deal with the adventurers, but they"
 " decided that the terms were too unreasonable. The cooperation didn't work "
 "out."
-msgstr ""
+msgstr "재무관은 모험가들과의 거래에서 이득을 보려고 했지만, 이런 조항들은 모험가에게 불합리하게 다가왔습니다. 협력이 무산되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/TrailLoric_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "136f4853-8f81-4a59-8123-ea4820538b3c"
@@ -18468,14 +18505,14 @@ msgid ""
 "The Treasurer managed to strike a deal with the adventurers. "
 "{mf_Treasurer|H|Sh}e provided them with supplies and helped them prepare for"
 " the dangerous expedition."
-msgstr ""
+msgstr "재무관은 모험가들과 거래를 성사시켰습니다. 탐험대의 보급을 지원하고 탐험의 위험에 대비할 수 있도록 도와주었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/TrailLoric_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "60f9d379-dfc6-41f8-afdd-46bb95369137"
 msgid ""
 "The local adventurers disliked the foreign thrill-seekers brought in by the "
 "advisor. The deal fell through."
-msgstr ""
+msgstr "현지 모험가들은 보좌관이 데려온 외지의 한탕주의자들을 좋아하지 않았습니다. 거래가 무산되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic6/TrailLoric_Solutions.Entries.Array.data[7].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "cc48656e-ea40-4889-a6f8-db1e377f60c7"
@@ -18485,6 +18522,8 @@ msgid ""
 "hunters who return alive will donate a portion of their shares to the "
 "treasury."
 msgstr ""
+"감시관은 이 외국인 모험가들과 현지 모험가의 만남을 주선했습니다. 성공 가능성이 한층 오르게 되었고, 이 보물 사냥꾼들이 살아 돌아 "
+"온다면 그 몫의 일부를 국고에 기부할 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Competition_LocalizedDescription
 msgctxt "3d4a316b-eb7b-4ec3-9a55-2055ca37b291"
@@ -18494,13 +18533,13 @@ msgid ""
 "the {mf|barony|barony|kingdom|kingdom}. The festival might even compete with"
 " the Rushlight tournament! – Who knows!"
 msgstr ""
-"사격과 격투 콘테스트가 곧 수도에서 열립니다. 잘만 알려진다면, 이 축제는 방문객을 끌어들이고 {mf|남작령|여남작령|왕국|왕국}에 "
-"명성을 안겨줄 것입니다. 어쩌면 러시라이트 토너먼트와 견줄 수 있을지도 모르죠- 누가 알겠어요!"
+"수도에서 곧 사격 및 격투 대회가 열립니다. 잘만 알려진다면, 이 축제는 방문객을 끌어들이고 {mf|남작령|여남작령|왕국|왕국}에 명성을 "
+"안겨줄 것입니다. 어쩌면 러시라이트 토너먼트와도 견주게 될지 누가 알겠습니까!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Competition_LocalizedName
 msgctxt "36dc1238-bb86-4cfb-a9ff-3ff469f117c7"
 msgid "Competition"
-msgstr "경쟁"
+msgstr "경기"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Competition_Solutions.Entries.Array.data[0].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "f2a21410-250f-42c8-ba97-927ab1c4a5f5"
@@ -18509,6 +18548,8 @@ msgid ""
 "knights breaking lances and crushing each other's skulls, and then feasting "
 "and enjoying their rewards – all at the people's expense!"
 msgstr ""
+"섭정의 연설은 농민들을 화나게 했습니다. 농민들은 기사들이 목숨을 걸고 서로의 골통을 깨고, 그들만의 축제를 벌이고, 자기들끼리 상을 "
+"주고 받는 꼬락서니를 좋아하지 않았습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Competition_Solutions.Entries.Array.data[0].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "e9937b76-cab3-4ef3-ab61-f8e038936ea5"
@@ -18517,6 +18558,8 @@ msgid ""
 "Why would peasants care which self-absorbed peacocks brought down the other "
 "peacocks?"
 msgstr ""
+"곧 대회가 있을 거라는 섭정의 발표에 민중들은 그저 짜증만 냈습니다. 자아도취한 허세쟁이가 다른 허세쟁이를 때려 눕히는 짓거리를 농민들이 "
+"신경이나 쓰겠습니까?"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Competition_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "9640952a-c2bd-458f-b65d-13aefac95e76"
@@ -18525,6 +18568,8 @@ msgid ""
 "peasants arrived to watch the knights and the region's most wealthy youth "
 "dragging each other through the mud. The contest was a rousing success!"
 msgstr ""
+"시민들은 대회의 발표에 매우 열광했습니다. 기사들과 부유층 자제들이 서로를 진흙탕 속에 쳐박는 것을 보려고 농민들이 몰려들었습니다. "
+"대회는 대성공을 거뒀습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Competition_Solutions.Entries.Array.data[0].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "5efff67e-b7e5-4ce4-a968-995be6bcf3c7"
@@ -18544,6 +18589,7 @@ msgid ""
 "unanswered. They regard {kingdomname} as a backwater, and not worthy of "
 "their precious time."
 msgstr ""
+"장군은 강의 왕국들의 유명한 기사들에게 참가를 독려했지만, 그들의 눈에 {kingdomname}은 귀중한 시간을 할애할 가치가 없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Competition_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "183e650e-702e-4964-ad52-9047fd739774"
@@ -18553,6 +18599,8 @@ msgid ""
 "soldiers. The event was far from exciting. In fact, it was so boring that "
 "the scant audience fell asleep on their feet!"
 msgstr ""
+"{kingdomname}의 이웃 나라들이 장군의 편지를 오해했습니다. 그들은 이게 군사 훈련인줄 알고 병사들을 보내왔습니다. 행사는 "
+"재미와는 거리가 멀었습니다. 솔직히 말하자면 너무 지루해서 얼마 없던 관중들마저 고개를 쳐박고 잠들어 버렸습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Competition_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "c0232e34-80ba-4f81-afc6-9aa4ae725930"
@@ -18561,6 +18609,8 @@ msgid ""
 "known knights arrived for the contest to prove their superiority. The "
 "spectacular show made a lasting impression on the audience."
 msgstr ""
+"장군은 유명한 전사들의 자긍심을 자극하는데 성공했습니다. 많은 유명 기사들이 실력을 증명하기 위해 대회에 참가했습니다. 선수들의 뛰어난 "
+"실력에 관객들은 눈을 뗄 수 없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Competition_Solutions.Entries.Array.data[2].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "ee2c615b-16b6-4133-8407-040f34df0d94"
@@ -18569,6 +18619,8 @@ msgid ""
 "mastery. The spectacular contest gathered crowds of viewers, and afterwards,"
 " some participants expressed a desire to serve under the General's command."
 msgstr ""
+"많은 유명 기사들이 실력을 보여달라는 장군의 요청에 응했습니다. 대회의 화려한 수준이 많은 관중을 모았고, 경기가 끝난 뒤 몇몇 "
+"참가자들이 장군의 밑에서 복무하고 싶다는 열망을 전해왔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Competition_Solutions.Entries.Array.data[8].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "eab7b567-b539-4ffa-a3f5-935330bda389"
@@ -18578,6 +18630,8 @@ msgid ""
 "the Rushlight tournament? They're so full of themselves out there in the "
 "swamps!"
 msgstr ""
+"학예사는 곧 있을 행사를 알리기 위해 바드들을 외지로 파견했습니다. 이런, 가난한 음악가들은 그저 비웃음만 당할 뿐이었습니다. 러시라이트 "
+"토너먼트와 붙어 보겠다고? 이 늪지 촌놈들 아주 자신만만 하구만!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Competition_Solutions.Entries.Array.data[8].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "8ceb2b3f-c904-4369-8ab7-62f6076b3d3c"
@@ -18587,6 +18641,8 @@ msgid ""
 "asked if the contest could take place somewhere more civilized than "
 "{kingdomname}."
 msgstr ""
+"학예사는 곧 있을 행사를 알리기 위해 바드들을 외지로 파견했습니다. 현지인들은 바드의 발라드를 경청하더니, 혹시 대회가 "
+"{kingdomname}보다 문명화된 곳에서 치러질 순 없는지 물어왔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Competition_Solutions.Entries.Array.data[8].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "f6485680-9a1e-435a-9707-09a5392dab23"
@@ -18595,6 +18651,8 @@ msgid ""
 "in the contest, which was advertised by the Curator's bards in the "
 "neighboring territories. The festival was a success!"
 msgstr ""
+"학예사의 계획이 먹혀 들었습니다! 학예사가 외지로 보낸 바드들의 광고를 듣고 많은 전사들과 농민들이 대회에 참가하러 왔습니다. 축제가 "
+"성공을 거뒀습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Competition_Solutions.Entries.Array.data[8].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "7ef2caee-f07c-4b69-9504-cd76c7f99a94"
@@ -18602,7 +18660,7 @@ msgid ""
 "The Curator sent the bards on a mission to the local lands, to announce the "
 "upcoming event. A great number of participants and spectators arrived for "
 "the festival."
-msgstr ""
+msgstr "학예사는 곧 있을 행사를 알리기 위해 바드들을 외지로 파견했습니다. 수많은 참가자와 관중이 축제에 몰려들었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Eclipse_LocalizedDescription
 msgctxt "c725c340-fc9a-4297-97fd-a40e2853a10a"
@@ -18639,7 +18697,7 @@ msgctxt "2d756032-fa7b-45df-b1b7-7672325a3a43"
 msgid ""
 "The Regent's words managed to calm the citizens. Life goes on, and the "
 "superstitions of fools are scorned or ridiculed."
-msgstr ""
+msgstr "섭정의 말은 겨우 시민들을 진정시켰습니다. 일상으로 돌아오자, 이 멍청한 미신은 경멸과 조소의 대상이 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Eclipse_Solutions.Entries.Array.data[0].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "50c3107a-750a-4ebe-8ffd-3fa7a16865ce"
@@ -18648,6 +18706,8 @@ msgid ""
 "misery. The citizens are pulling together. They're prepared for whatever "
 "happens."
 msgstr ""
+"섭정은 사람들을 설득하여 어떤 고난과 슬픔이 오더라도 하나로 뭉쳐 굳건히 맞서기로 하였습니다. 시민들은 서로에게 의지하며 무슨 일이 "
+"벌어지든 받아들일 준비를 하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Eclipse_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "f6365f9f-e627-4298-ad3a-6788d06d9798"
@@ -18657,6 +18717,8 @@ msgid ""
 "have chosen to ignore the laws of their gods and their earthly lords, and "
 "prepare for the end of the world."
 msgstr ""
+"시민들은 사제의 말보다 자기들의 민간 전승을 도 믿었습니다. 사원에 나오는 신도들의 수가 줄었습니다. 사람들은 이제 이승의 법과 신과 "
+"군주는 안중에도 없이 종말을 준비하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Eclipse_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "d8d17416-32ce-4166-9a85-858cb68dc33f"
@@ -18666,13 +18728,15 @@ msgid ""
 "hearts. The peasants are still preparing for a horrible catastrophe. They "
 "consider their own survival more pressing than the law."
 msgstr ""
+"사람들은 미신을 택했습니다. 대사제의 말은 사람들에게 나아갈 길을 보여주지 못했습니다. 농민들은 여전히 끔찍한 대재앙을 준비하고 "
+"있습니다. 사람들은 질서를 유지하다 죽느니 일단 자기 목숨부터 건지는게 낫다고 생각하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Eclipse_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "38815bf9-8ee2-4e37-9857-b9ab96bd113d"
 msgid ""
 "The {mf_HighPriest|High Priest|High Priestess} talked people into trusting "
 "their clerics. The panic subsided before it washed over the whole region."
-msgstr ""
+msgstr "대사제는 사람들에게 성직자의 말을 믿으라 전했습니다. 전 지역을 휩쓸 뻔했던 공황이 빠르게 사그라 들었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Eclipse_Solutions.Entries.Array.data[5].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "405c0e7c-0f79-4649-bfd2-7b0f6e96a503"
@@ -18683,13 +18747,15 @@ msgid ""
 "and the citizens praise their {mf_HighPriest|High Priest's|High Priestess'} "
 "wisdom."
 msgstr ""
+"대사제는 옳은 말을 하였습니다. 사람들은 미신을 버리고, 그들이 사원에 버려둔 신에게 달려갔습니다. 예언이 말했던 대재앙은 일어나지 "
+"않았고, 시민들은 대사제의 지혜를 찬양하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Eclipse_Solutions.Entries.Array.data[8].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "17878f0d-2073-4f8d-a7f5-b0d85bd46758"
 msgid ""
 "The country fair hosted by the Curator was a failure. The furious crowd "
 "doesn't approve of any sort of entertainment at a time like this."
-msgstr ""
+msgstr "학예사가 연 장마당은 실패로 돌아갔습니다. 분노한 군중들은 이런 시국에 무슨 오락이냐며 학예사에 몰려갔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Eclipse_Solutions.Entries.Array.data[8].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "6ffc74a8-3ce6-4fc9-8996-82a233df8247"
@@ -18698,6 +18764,8 @@ msgid ""
 "off things. The people are too worried and depressed about the coming "
 "cataclysm to have any fun."
 msgstr ""
+"학예사가 장마당을 열었지만 시민들은 신경도 쓰지 않았습니다. 사람들은 다가올 대재앙이 너무 걱정되고 우울해서 아무 것도 즐길 수 "
+"없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Eclipse_Solutions.Entries.Array.data[8].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "40ae8d09-2c4a-4812-8d0f-28c016a4adb0"
@@ -18706,6 +18774,7 @@ msgid ""
 " carnival acts managed to distract the people from the Golarion's imminent "
 "end."
 msgstr ""
+"학예사가 성대한 장마당을 열었습니다. 광대, 음악가, 마술사 등 여타 예능인들이 골라리온에 임박한 종말로부터 사람들의 마음을 돌려놨습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Eclipse_Solutions.Entries.Array.data[8].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "6235aec1-dd07-466b-93ec-60cea77fa745"
@@ -18715,6 +18784,8 @@ msgid ""
 "peace on earth and a season free of ills. The citizens went home in great "
 "moods, expressing their respects to their ruler for the fantastic feast."
 msgstr ""
+"학예사가 성대한 장마당을 열었습니다! 때마침 풍작과 평화, 건강을 예고하는 수많은 길조가 나타나 사람들이 아주 기뻐했습니다. 사람들은 "
+"아주 좋은 기분으로 집으로 돌아갔고, 환상적인 축제를 열어준 통치자에게 존경을 표했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/EscapedFromGod_LocalizedDescription
 msgctxt "2a8d7acd-a578-491f-984a-e056ac0b1ffd"
@@ -18723,11 +18794,13 @@ msgid ""
 "are numerous craftsmen and artisans among them. Will they find safe refuge "
 "here?"
 msgstr ""
+"라즈미란 국경으로부터 대규모 도망노예 집단이 다가오고 있습니다. 그 중에는 수많은 숙련공과 장인이 포함되어 있습니다. 그들이 여기에서 "
+"평화와 안식을 얻을 수 있겠습니까?"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/EscapedFromGod_LocalizedName
 msgctxt "01d53b00-69e7-4b87-840d-c7f476365216"
 msgid "Flight from a God"
-msgstr ""
+msgstr "신에게서 도망치다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/EscapedFromGod_Solutions.Entries.Array.data[4].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "8991692d-1fcd-4aba-aa38-018f21e8e80d"
@@ -18737,6 +18810,8 @@ msgid ""
 "betrayal. They attacked their escort and killed everyone, then fled into the"
 " morning mist."
 msgstr ""
+"도망노예들은 {mf|남작|여남작|왕|여왕}의 전령에게 거의 비밀을 털어놓을 뻔했으나, 마지막 순간에 배신을 의심했습니다. 그들은 마중나온 "
+"사람들을 공격하여 모두 죽였고, 새벽 안개를 틈타 도망쳤습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/EscapedFromGod_Solutions.Entries.Array.data[4].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "fa23144c-1deb-44ac-a87c-88a988ec15a8"
@@ -18745,6 +18820,8 @@ msgid ""
 "but didn't consider proffered shelter safe enough. They continued onward, "
 "seeking a safer place – as far from Razmir's minions as possible."
 msgstr ""
+"도망자들은 {mf|남작|여남작|왕|여왕}의 전령의 도움에 감사했지만, 이 곳이 충분히 안전한 장소라고 생각하지 않았습니다. 그들은 계속 "
+"길을 떠나, 라즈미르의 하수인들로부터 최대한 멀고 더 안전한 곳을 찾아갔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/EscapedFromGod_Solutions.Entries.Array.data[4].Resolutions.Array.data[2].LocalizedDescription_String
 msgctxt "9b8e6ba0-4926-4609-b4a7-54c68ce4eb0b"
@@ -18753,6 +18830,8 @@ msgid ""
 "covered their tracks, and started a rumor that they were seen somewhere "
 "around Galt. Razmir's hounds took the bait."
 msgstr ""
+"{mf|남작|여남작|왕|여왕}의 전령은 노예들을 배에 실어 발자취를 숨기고, 노예들이 갈트 어딘가에서 목격되었다는 소문을 흘렸습니다. "
+"라즈미르의 사냥개들은 이 미끼를 물었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/EscapedFromGod_Solutions.Entries.Array.data[4].Resolutions.Array.data[3].LocalizedDescription_String
 msgctxt "61238398-49b2-4176-bebf-17cda5c820bb"
@@ -18762,6 +18841,8 @@ msgid ""
 " escape. It wasn't hard to get in touch with the resistance against Razmir's"
 " tyranny, and they offered valuable cooperation."
 msgstr ""
+"{mf|남작|여남작|왕|여왕}의 전령은 노예들을 숨겨주어 신뢰를 얻었습니다. 노예들은 소규모의 반란군이 탈출을 도왔다고 털어놓았습니다. "
+"라즈미르의 폭정에 맞서는 저항군과 접촉하는 것은 어려운 일이 아니었고, 그들과 유용한 협력 관계를 구축했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/EscapedFromGod_Solutions.Entries.Array.data[4].Resolutions.Array.data[4].LocalizedDescription_String
 msgctxt "3efa1c9b-3565-4c96-9573-c25fad16aaed"
@@ -18772,6 +18853,8 @@ msgid ""
 "sprang, and the fugitive slaves fought off their would-be captors and "
 "escaped. The agents escorting them were the first to fall."
 msgstr ""
+"{mf|남작|여남작|왕|여왕}의 전령은 노예들을 안전한 피난처로 안내해주는 척 했습니다. 그들은 라즈미르의 하수인들에게 인계될 "
+"예정이었습니다. 그러나 계획을 알아차린 도망노예들은 인솔하던 요원들을 죽이고, 교전을 벌이다 도망쳤습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/EscapedFromGod_Solutions.Entries.Array.data[4].Resolutions.Array.data[5].LocalizedDescription_String
 msgctxt "49b14192-f5cd-4613-98dc-1d776e1f09a4"
@@ -18780,6 +18863,8 @@ msgid ""
 "{mf|baron|baroness|King|Queen} for the offer, but decided to seek shelter as"
 " far from Razmiran as possible."
 msgstr ""
+"도망자들은 {mf|남작|여남작|왕|여왕}의 전령이 준 도움에 감사를 표했지만, 라즈미란으로부터 최대한 멀리 떨어진 거처를 찾으러 "
+"떠났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/EscapedFromGod_Solutions.Entries.Array.data[4].Resolutions.Array.data[6].LocalizedDescription_String
 msgctxt "211ca254-d378-4b0e-baa3-24998e19fc4f"
@@ -18789,6 +18874,8 @@ msgid ""
 " patrol. The crown's reputation remains unstained, but Razmir's priests sent"
 " generous rewards for the invaluable help."
 msgstr ""
+"{mf|남작|여남작|왕|여왕}의 전령은 도망자들은 안전한 곳으로 이끌겠다고 설득했습니다. 그러다 \"우연히\" 라즈미란 순찰대를 "
+"맞딱뜨렸습니다. 군주의 명예는 더럽혀지지 않았지만, 라즈미르의 사제들은 큰 도움에 대한 보답으로 후한 보상을 보내왔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/EscapedFromGod_Solutions.Entries.Array.data[4].Resolutions.Array.data[7].LocalizedDescription_String
 msgctxt "7c46ba41-9f29-4183-9389-dde1b89af314"
@@ -18798,6 +18885,9 @@ msgid ""
 "\"accidentally\" fell into a trap laid by a Razmiran patrol. Nothing points "
 "towards the advisor – except for the fact that he was handsomely rewarded."
 msgstr ""
+"노예들은 {mf|남작|여남작|왕|여왕}의 전령을 믿고 제안받은 거처로 향했습니다. 국경에서 멀지 않은 곳에서, 그들은 \"우연히\" "
+"라즈미란 순찰대가 놓아둔 함정에 빠졌습니다. 누구도 보좌관을 탓하지는 않을 겁니다. 잘못이라곤 사실 누군가에게 막대한 보상을 넘겨 "
+"받았다는 것밖에 없습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/ForgottenKnowledge_LocalizedDescription
 msgctxt "bf8c848c-e7cf-4185-8697-78e2b8c1482c"
@@ -18807,6 +18897,8 @@ msgid ""
 " in an ancient language, now forgotten. A competent decryptor would be able "
 "to decipher the knowledge contained in the books."
 msgstr ""
+"늪에서 한때 늙은 엘프 마법사가 살던 오래된 오두막이 발견되었습니다. 먼지 쌓인 서재에는 이제는 잊혀진 고대어로 쓰여진 화려한 책이 "
+"꽂혀있습니다. 능숙한 암호해독가라면 이 책에 담긴 지식을 판독해낼 수 있을 겁니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/ForgottenKnowledge_LocalizedName
 msgctxt "7a4da3c8-3551-4d7a-b849-182f09e07ed2"
@@ -18930,11 +19022,13 @@ msgid ""
 "this crime must be found and punished, or the {mf|baron|baroness|King|Queen}"
 " {mf|himself|herself} will be held responsible!"
 msgstr ""
+"외국 대사가 우리 나라에 입국했는데, 수도로 오던 중 수행원들과 함께 실종되었습니다. 경비대는 습격의 증거를 발견했고, 수사가 "
+"진행중입니다. 누가 이런 범죄를 저질렀는지 반드시 밝혀내야 하며, 그러지 못하면 {mf|남작|여남작|왕|여왕}이 책임을 지게 될 것입니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/MissingAmbassador_LocalizedName
 msgctxt "53e8e79b-f64d-4df2-83dc-5ac4988973bc"
 msgid "The Missing Ambassador"
-msgstr ""
+msgstr "사라진 대사"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/PikeJudgement_LocalizedDescription
 msgctxt "b08d6564-1570-4b9f-8936-d2eee819076b"
@@ -18943,12 +19037,14 @@ msgid ""
 "are invading the region to bring it to heel. They're conducting judgments "
 "and executing people however they see fit. This is absolutely unacceptable!"
 msgstr ""
+"피할 수 없는 요새의 장창 기사단 헬나이트가 이 지역을 안정시키겠다며 쳐들어왔습니다. 그들은 스스로 재판을 벌여 사람들을 처형하고 "
+"있습니다. 이를 용납해선 안됩니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/PikeJudgement_LocalizedName
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/PikeJudgement_LocalizedName_String
 msgctxt "ff7119f0-48f3-4552-a300-e7a5a524dbbb"
 msgid "The Law of the Pike"
-msgstr ""
+msgstr "장창의 질서"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/PikeJudgement_Solutions.Entries.Array.data[1].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "7326b4de-cc3c-46d3-b464-5cece48f64fb"
@@ -18958,6 +19054,8 @@ msgid ""
 " powerless not only in the eyes of {mf|his|her} subjects, but also in the "
 "eyes of {mf|his|her} neighbors."
 msgstr ""
+"장창 기사단은 평의원의 문제 제기에 나약함의 증거라며 코웃음 쳤습니다. {mf|남작|여남작|왕|여왕}의 무력함이 백성들뿐만 아니라 이웃 "
+"나라에도 드러나게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/PikeJudgement_Solutions.Entries.Array.data[1].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "275d22b5-ee61-46ec-bcff-720ba57ea909"
@@ -18966,13 +19064,14 @@ msgid ""
 " at Councilor's poor attempts and are now treating the hellknights with "
 "respect."
 msgstr ""
+"장창 기사단은 평의원은 문제 제기를 무시했습니다. 사람들은 평의원의 한심한 대처를 비웃으며 헬나이트를 존경의 눈으로 바라보고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/PikeJudgement_Solutions.Entries.Array.data[1].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "84efa42a-982c-40af-b42e-107090f3d5de"
 msgid ""
 "The numerous complaints sent by the Councilor to the hellknights had an "
 "effect. The Order of the Pike was recalled. The law works both ways."
-msgstr ""
+msgstr "평의원의 끊임없는 문제제기가 성과를 거두었습니다. 장창 기사단은 본국으로 소환되었습니다. 법은 써먹기 나름입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/PikeJudgement_Solutions.Entries.Array.data[1].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "a4d3b88e-919e-4e01-aed3-22a34be1f58b"
@@ -18981,6 +19080,8 @@ msgid ""
 "by the Councilor. There was nothing left but recall their dogs, as well as "
 "pay a significant amount in compensation."
 msgstr ""
+"헬나이트는 평의원이 보낸 산더미 같은 문제제기 서한에 파묻혔습니다. 헬나이트는 그들의 개를 불러들이고, 상당한 양의 배상금을 지불할 수 "
+"밖에 없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/PikeJudgement_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "f2c0d3d0-caa7-461a-884b-c439f1aaf0d3"
@@ -18991,13 +19092,16 @@ msgid ""
 "The people aren't happy. They've even begun remarking that the Order of the "
 "Pike is a more reliable lord than the {mf|baron|baroness|King|Queen}."
 msgstr ""
+"감시관이 보낸 경비대를 보내 헬나이트가 독립국을 침범하고 있다고 고지했습니다. 헬나이트는 만약 감시관이 강했더라면 누가 침범하든 그냥 "
+"쫓아내면 그만이지 않느냐며 경비대의 나약함을 비웃었습니다. 사람들은 이에 아무 대꾸도 하지 못했고, 심지어 {mf|남작|여남작|왕|여왕}"
+"보다 장창 기사단이 더 믿을만한 지배자라는 말까지 나돌기 시작했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/PikeJudgement_Solutions.Entries.Array.data[7].Resolutions.Array.data[10].LocalizedDescription
 msgctxt "10e037d3-e6fe-491c-92ff-ee68840a988b"
 msgid ""
 "Our guards surrounded the hellknights and drove them away. Justice has been "
 "served."
-msgstr "경비병들은 헬나이트들을 포위했고, 그들을 몰아 냈습니다. 정의는 이루어 졌습니다."
+msgstr "경비대는 헬나이트를 포위해 몰아 냈습니다. 정의가 실현되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/PikeJudgement_Solutions.Entries.Array.data[7].Resolutions.Array.data[11].LocalizedDescription
 msgctxt "3ffbce87-ba07-452d-828f-c5341bc66e02"
@@ -19006,6 +19110,8 @@ msgid ""
 "the Order's younger squires saw who was stronger, and came over to serve the"
 " {mf|baron|baroness|King|Queen}."
 msgstr ""
+"경비대는 헬나이트를 무단침입으로 체포해 태형을 집행했습니다. 기사단의 어린 종자 몇몇은 이제 누가 더 강한지 깨닿게 되었고, "
+"{mf|남작|여남작|왕|여왕}을 위해 복무하기를 청했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/PikeJudgement_Solutions.Entries.Array.data[7].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "7fa5c8df-15e8-497c-8125-ad54a9ed21f6"
@@ -19014,6 +19120,8 @@ msgid ""
 "territory, but the hellknights simply continued with their operations "
 "without minding the guards. The people are outraged by their powerlessness."
 msgstr ""
+"감시관은 기사단에게 독립국에 대한 무단 침범을 자제해 줄 것을 요청하였으나, 헬나이트는 경비대는 안중에도 없이 자기들의 작전을 "
+"계속했습니다. 사람들이 경비대의 무력함에 분노하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/PikeJudgement_Solutions.Entries.Array.data[7].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "163deb4b-8e96-491f-b364-55d9ba0b171a"
@@ -19022,6 +19130,8 @@ msgid ""
 " territory broke all sorts of laws. They were forced to leave under the "
 "guards' supervision."
 msgstr ""
+"감시관은 헬나이트가 독립국의 영역에서 저지르는 폭력 행위가 어떠한 법에도 들어맞지 않는다는 점을 규탄했습니다. 헬나이트는 경비대의 감독 "
+"하에 국외 추방되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/PikeJudgement_Solutions.Entries.Array.data[7].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "264d7793-5e3c-44db-aa82-ea04042f4dd7"
@@ -19031,6 +19141,8 @@ msgid ""
 "self-appointment as judge and jury. The Order was forced to make an official"
 " apology. This victory has elevated the image of the Warden and the guards."
 msgstr ""
+"감시관은 장창 기사단이 저지른 헬나이트의 독립국 영토 침범과 불법적이고 자기중심적인 재판 행위에 대해 공식적으로 문제를 제기했습니다. "
+"기사단은 공식 사과를 할 수밖에 없었고, 이 승리로 감시관과 경비대의 위상이 한층 높아지게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/PikeJudgement_Solutions.Entries.Array.data[7].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "7fcbd6ef-197a-4f34-8b0c-a6c6344113c4"
@@ -19039,6 +19151,8 @@ msgid ""
 "hellknights. They had little choice by stand by and watch as the Order "
 "established their own law."
 msgstr ""
+"경비대는 장창 기사단을 도와주려 했으나, 비웃음만 사게 되었습니다. 경비대가 한 것이라곤 기사단이 자기 맘대로 규칙을 수립하는 것을 "
+"가만히 서서 지켜보는 것 말고는 없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/PikeJudgement_Solutions.Entries.Array.data[7].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "439343cf-9c65-48a9-a18a-4f13ad5d665c"
@@ -19047,13 +19161,15 @@ msgid ""
 " they were only treated with contempt. The people are unhappy that anyone "
 "could be allowed to conduct executions in these lands."
 msgstr ""
+"감시관은 경비대에게 장창 기사단을 도우라고 지시했지만, 기사단의 경멸을 샀을 뿐이었습니다. 사람들은 이제 이 땅에 사는 누구라도 사형 "
+"집행을 당할 수 있다는 사실에 불행을 느끼고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/PikeJudgement_Solutions.Entries.Array.data[7].Resolutions.Array.data[6].LocalizedDescription
 msgctxt "92754051-633f-4d63-ad5c-09e29aa228e3"
 msgid ""
 "The guards stood alongside the hellknights and helped them establish order. "
 "Many bandits were sent to the gallows."
-msgstr ""
+msgstr "경비대는 헬나이트 곁에 서서 그들이 질서를 세우는 것을 도왔습니다. 많은 도적들이 교수대 앞에 서게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/PikeJudgement_Solutions.Entries.Array.data[7].Resolutions.Array.data[7].LocalizedDescription
 msgctxt "31bab764-e0eb-4b41-9251-3a7d059b968e"
@@ -19062,6 +19178,7 @@ msgid ""
 "support. The hellknights got along so well with the guards that they've "
 "started patrolling the neighboring territories together."
 msgstr ""
+"감시관은 경비대에게 장창 기사단을 지원하라고 지시했습니다. 헬나이트는 경비대와 잘 어울렸고, 함께 이웃 지역을 순찰하기 시작했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/PikeJudgement_Solutions.Entries.Array.data[7].Resolutions.Array.data[8].LocalizedDescription
 msgctxt "24c63016-7502-4127-8791-c6fd670a0890"
@@ -19070,6 +19187,8 @@ msgid ""
 "empty-handed, whipped and humiliated. The people are outraged by the guards'"
 " inability to protect them from foreign invaders."
 msgstr ""
+"감시관은 경비대에게 헬나이트를 체포하라고 지시했지만, 굴욕적으로 얻어맞고는 빈손으로 돌아왔습니다. 사람들은 외지의 침략을 방어할 능력이 "
+"없는 경비대에게 분노를 토해냈습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/PikeJudgement_Solutions.Entries.Array.data[7].Resolutions.Array.data[9].LocalizedDescription
 msgctxt "25f487be-1a83-4f9d-a172-16a883b44e26"
@@ -19078,6 +19197,8 @@ msgid ""
 "resistance, and blood was shed, but still the Order of the Pike continue "
 "their crusade unchecked."
 msgstr ""
+"감시관은 경비대에게 헬나이트를 체포하라고 지시했습니다. 장창 기사단이 격렬히 저항하여 양측에 인명 피해가 발생했지만, 아직도 헬나이트의 "
+"성전은 계속되고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/RansomInGoldOrIron_LocalizedDescription
 msgctxt "2fc7ac6b-b9d0-43ca-b852-2721a9e2b942"
@@ -19087,11 +19208,13 @@ msgid ""
 "gangs A group of Kellids have arrived in the region, friends and families of"
 " the prisoners, here to offer ransom in gold, iron, or other service."
 msgstr ""
+"{mf|남작령|남작령|왕국|왕국}의 수감자 중에는 바바리안이 많이 있습니다. 주로 약탈에 실패하거나 폭력배의 일원으로 체포된 자들입니다. "
+"이들의 친구나 가족인 켈리드인들이 찾아와 몸값으로 돈이 됐든 용병일이 됐든 뭐든지 내놓겠다고 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/RansomInGoldOrIron_LocalizedName
 msgctxt "d3b9d74f-448c-42bc-92e8-c1e1de4bd3c3"
 msgid "Ransom in Gold or Iron"
-msgstr ""
+msgstr "몸값은 금이냐 칼이냐"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/RansomInGoldOrIron_Solutions.Entries.Array.data[1].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "f7dd38ce-3d2e-4395-9aa9-1c61ee0929e7"
@@ -19100,6 +19223,7 @@ msgid ""
 " The barbarians were offended, regarding this as an insult to their military"
 " honor."
 msgstr ""
+"평의원은 죄수를 보석금 없이 풀어주기를 제안했습니다. 바바리안들은 이를 그들의 군사적 명예에 대한 모욕으로 여겨 불쾌하게 생각했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/RansomInGoldOrIron_Solutions.Entries.Array.data[1].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "576fbbfc-0ec3-41ed-bb4a-5117d70d1329"
@@ -19124,6 +19248,8 @@ msgid ""
 "they'd have the requested amount within the year, though it would be soaked "
 "in the blood of the local citizens."
 msgstr ""
+"야만인들은 평의원이 제시한 몸값이 너무 비싸다고 생각했습니다. 그들은 올해 안으로 요구액을 맞춰주겠다 약속했습니만, 아마 그 돈은 이 "
+"지역 주민을 피가 묻은 돈이 될지도 모르겠습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/RansomInGoldOrIron_Solutions.Entries.Array.data[1].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "329dec35-3695-473a-a7cf-ef3b4979c772"
@@ -19140,6 +19266,8 @@ msgid ""
 "Councilor were very satisfied with the deal, and are already planning on "
 "future trades."
 msgstr ""
+"켈리드인들의 부족한 현금 대신에, 평의원은 가죽과 가치있는 금속으로 몸값을 대체하게끔 요구했습니다. 야만인들과 평의원 모두 이 거래에 "
+"만족했고, 미래 무역에 대한 계획을 벌써부터 계획중입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/RansomInGoldOrIron_Solutions.Entries.Array.data[1].Resolutions.Array.data[6].LocalizedDescription
 msgctxt "75b4ff06-5a44-4afd-b3fc-ce5faaae8d31"
@@ -19156,6 +19284,8 @@ msgid ""
 "{mf|barony|barony|kingdom|kingdom} for a full year, and slay at least five "
 "enemies for every prisoner released."
 msgstr ""
+"켈리드 전사들은 {mf|남작령|남작령|왕국|왕국} 에 1년간 충성을 다할것을 그리고 한 명의 죄수가 풀려날때마다 최소한 다섯의 적을 "
+"베어버릴 것을 맹세했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/RansomInGoldOrIron_Solutions.Entries.Array.data[1].Resolutions.Array.data[8].LocalizedDescription
 msgctxt "1510d426-2d47-4090-b856-aeb6afe0dd25"
@@ -19164,6 +19294,8 @@ msgid ""
 "{mf|barony|barony|kingdom|kingdom} for a full year, and bring in at least "
 "ten enemy heads for every prisoner released."
 msgstr ""
+"켈리드 전사들은 {mf|남작령|남작령|왕국|왕국} 에 1년간 충성을 다할것을 그리고 한 명의 죄수가 풀려날때마다 최소한 열명의 적을 "
+"베어버릴 것을 맹세했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/SafeRefuge_LocalizedDescription
 msgctxt "73774457-b89d-408c-bece-13740df78e94"
@@ -19220,6 +19352,8 @@ msgid ""
 "this refuge, but they also wish to take up trade with their prosperous "
 "neighbors."
 msgstr ""
+"오를롭스키가는 섭정이 피난처로 제공한 저택에 감명을 받았습니다. 본가를 뛰어넘는 사치품은 집에 돌아가길 주저하게 만들었고, 저택의 철저한 "
+"보안은 신뢰감을 주었습니다. 브레보이인들은 이 피난처를 달갑게 여길분만 아니라, 이 부유한 이웃들과 거래를 트기를 바라고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/SafeRefuge_Solutions.Entries.Array.data[9].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "32d1f6b8-b187-4a9f-9e25-41c23269d1dd"
@@ -19229,6 +19363,8 @@ msgid ""
 "of reconnaissance in {kingdomname} have had a bad impact on the "
 "{mf|barony|barony|kingdom|kingdom}'s reputation."
 msgstr ""
+"오를롭스키 가문은 장관이 단세포에다가 너무 멍청해서 그들의 소중한 가족을 지키지 못한다고 여겼습니다. {kingdomname} 첩보담당 "
+"얼간이에 대한 소문이 {mf|남작령|남작령|왕국|왕국}의 명성에 해가 되고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/SafeRefuge_Solutions.Entries.Array.data[9].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "70f3773f-fe74-4323-880c-1c6ba9674132"
@@ -19294,13 +19430,14 @@ msgid ""
 "Looking to impress, he spoiled the books beyond repair with alchemical "
 "reagents."
 msgstr ""
+"보좌관이 고용한 암호해석가는 무능력한 사기꾼으로 판명됐습니다. 인상적이게도, 그는 연금술 시약으로도 복구가 안될만큼 책을 망가뜨려놨습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Shared_ForgottenKnowledge_GF_String
 msgctxt "7ba5f381-ca0f-48d6-9132-3073770a65dc"
 msgid ""
 "The decryptor hired by the advisor turned out to be a spy! He stole a book "
 "and several important scrolls from the magical library."
-msgstr ""
+msgstr "보좌관이 고용한 암호해석가는 첩자로 드러났습니다! 그자는 마법 서고에서 책과 몇몇 중요한 두루마리를 훔쳤습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Shared_ForgottenKnowledge_GS_String
 msgctxt "a688013f-ad34-4906-9fbb-6342a9817fb7"
@@ -19376,6 +19513,8 @@ msgid ""
 "aroused further suspicion themselves. Some merchants from neighboring "
 "countries now choose to avoid the local trade routes."
 msgstr ""
+"모든 노력을 기울였지만, 살인자를 찾지는 못했습니다. 하지만 {mf|남작|여남작|왕|여왕}의 종복들은 수색에 너무 열중한 나머지, 서로를 "
+"의심하기 시작했습니다. 이웃나라에서 당도한 몇몇 상인들은 이제 현지 무역로를 피하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Shared_MissingAmbassador_GS_String
 msgctxt "df14e694-e627-4979-a31a-39600686b9e2"
@@ -19403,6 +19542,8 @@ msgid ""
 "{mf|baron's|baroness'|King's|Queen's} support, their gratitude would be "
 "immeasurable."
 msgstr ""
+"{mf|남작령|남작령|왕국|왕국}내 최고 서열의 아바다르 사제가 타계했습니다! 이제 성직자들은 새로운 지도자를 선출해야만 합니다! "
+"{mf|남작령|남작령|왕국|왕국}의 지원을 통해 후보자가 당선이 된다면, 그들은 헤아릴수없는 감사함을 느낄 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/AbadarPriest_LocalizedName
 msgctxt "a03549c7-e5de-488a-8b7d-3e1da01b44e5"
@@ -19417,6 +19558,8 @@ msgid ""
 "famous half-elf should be invited to the capital. – Such a visit would "
 "greatly benefit the subjects of the {mf|barony|barony|kingdom|kingdom}."
 msgstr ""
+"압살롬의 전설적인 학자가 영혼의 순환에 대한 강연을 열면서, 강의 왕국들을 여행하고 있습니다. 이 저명한 하프엘프를 수도에 초대해야만 "
+"합니다. 그의 방문은 {mf|남작령|남작령|왕국|왕국}의 백성들에게 크나큰 혜택이 될 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/Celebrity_LocalizedName
 msgctxt "c5d7e77b-9a2d-415f-82d1-da7b7bfb3f47"
@@ -19431,13 +19574,13 @@ msgid ""
 " their hulls and sink, and the bandits wait for the goods to wash ashore. "
 "Something must be done before trade begins to suffer."
 msgstr ""
-"교활한 범죄가 저질러지고 있습니다! 누군가가 가짜 신호소를 이용해 선박을 강이나 호수의 수심이 얕은 모래톱 위로 유인했습니다. 선박은 "
+"교활한 범죄가 저질러지고 있습니다! 누군가가 가짜 등대를 이용해 선박을 강이나 호수의 수심이 얕은 모래톱 위로 유인했습니다. 선박은 "
 "난파되어 가라앉고, 도적들이 떠내려온 물건들을 훔쳐갑니다. 무역에 지장이 생기기 전에 조치를 취해야합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/FalseLights_LocalizedName
 msgctxt "4f3c228b-cf15-485d-af38-23a80018eefc"
 msgid "False Lights"
-msgstr ""
+msgstr "가짜 등대"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/FullBlooded_LocalizedDescription
 msgctxt "b256c1aa-698c-4a87-8bb5-b0af4e8ff5eb"
@@ -19447,8 +19590,8 @@ msgid ""
 "They say this is all the doings of vampires, who are hiding among the "
 "capital's aristocracy. But can such rumors be trusted?"
 msgstr ""
-"늦은 시각엔 법원의 많은 사람들이 창백히 질립니다. 섬뜩한 그림자가 궁전의 홀을 따라 춤을 추고, 하인들은 매일 밤 소리소문 없이 "
-"사라집니다. 사람들은 이것이 귀족들 사이에 숨어있는 뱀파이어의 소행이라고 말합니다. 그렇다고 그런 소문이 믿을만 합니까?"
+"궐내의 많은 이들이 늦은 밤을 두려워하고 있습니다. 스산한 그림자가 궁전의 회관을 돌아니다고 있으며, 매일 밤 하인들이 흔적도 없이 "
+"사라져버립니다. 사람들은 이게 수도의 귀족들 사이에 숨어있는 흡혈귀의 소행이라고 말합니다. 이런 소문을 믿을 수 있겠습니까?"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/FullBlooded_LocalizedName
 msgctxt "74009d07-beb1-4dc4-b1da-b7e0946883d2"
@@ -19462,6 +19605,8 @@ msgid ""
 "or disprove these rumors. But at least the disappearances seem to have "
 "stopped for now. However, the people are still afraid of the shadows."
 msgstr ""
+"대사제는 이 소문을 사실로 밝혀내지도, 거짓으로 판명하지도 못했습니다. 최소한 지금 당장은 실종이 발생하고 있지는 않습니다. 하지만, "
+"사람들은 여전히 그림자를 두려워하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/FullBlooded_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "015be9de-b04d-46e6-b293-5f17e4e6287b"
@@ -19470,13 +19615,15 @@ msgid ""
 "gather around the castle each night! However, {mf_HighPriest|he|she} failed "
 "to capture any of the creatures, and they fled the capital."
 msgstr ""
+"대사제가 신들에게 받은 계시에 따르면 밤마다 언데드가 성으로 모여들고 있다고 합니다. 하지만, {mf_HighPriest|그는|그녀는} "
+"이 괴물들을 하나도 붙잡지 못했고, 전부 수도에서 도망쳐버렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/FullBlooded_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "9337707b-b858-405a-bcb4-3f89eb01de5c"
 msgid ""
 "The High {mf_HighPriest|Priest's|Priestess'} servants aided the guard in "
 "identifying and destroying a few vampires!"
-msgstr ""
+msgstr "대사제의 부하들이 경비대를 도와 흡혈귀를 색출하고 사살했습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/FullBlooded_Solutions.Entries.Array.data[5].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "d8393c74-80c1-4375-8761-d01efefd22cc"
@@ -19485,6 +19632,7 @@ msgid ""
 "network of vampires amongst the capital's aristocracy, and assisted the "
 "guard in the capture and execution of their leader."
 msgstr ""
+"대사제의 부하들이 수도 귀족사회의 흡혈귀 조직을 전부 밝혀내어, 경비대가 흡혈귀 우두머리를 체포하고 처형하는데 도움을 주었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/FullBlooded_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "e3757b3b-4556-4e16-93b7-761f08f089cf"
@@ -19494,8 +19642,8 @@ msgid ""
 "Soon thereafter, the disappearances stopped. However, the people still "
 "remain afraid of the shadows."
 msgstr ""
-"감시관은 십여 명의 보초를 세웠지만, 그날 밤 그들 중 세 명이 초소에서 사라졌습니다. 일주일 만에 마지막 보초의 시체가 발견되고, 곧 "
-"실종사건 역시 중단되었습니다. 그러나 사람들은 여전히 두려움에 떨고 있습니다."
+"감시관은 십여 명의 보초를 세웠지만, 그날 밤 보초 세 명이 초소에서 사라졌습니다. 세 보초의 시체를 모두 찾기까지 일주일의 시간이 "
+"걸렸고, 그 후로 실종사건 역시 더이상 벌어지지 않았습니다. 그러나 사람들은 여전히 두려움에 떨고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/FullBlooded_Solutions.Entries.Array.data[7].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "e0f2c585-08ab-41d9-b5d1-4aa6b2ef043d"
@@ -19504,8 +19652,8 @@ msgid ""
 "anything out of the ordinary. Soon thereafter, the disappearances stopped; "
 "however, the people are still afraid of the shadows."
 msgstr ""
-"감시관은 십여 명의 보초를 세웠지만, 그들 중 누구도 수상함을 눈치채지 못했습니다. 그 후 실종사건이 중단되었습니다. 그러나 사람들은 "
-"여전히 두려움에 떨고 있습니다."
+"감시관은 십여 명의 보초를 세웠지만, 그들 중 누구도 수상함을 눈치채지 못했습니다. 머지 않아 실종사건이 더 이상 일어나지 않게 "
+"되었습니다. 그러나 사람들은 여전히 두려움에 떨고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/FullBlooded_Solutions.Entries.Array.data[7].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "7882f179-b0b1-4283-964b-b72438d87755"
@@ -19526,7 +19674,7 @@ msgctxt "3c4d79d3-8f00-4a73-bcaf-0d25571d3b41"
 msgid ""
 "The Minister entrusted the matter to his best agent. But since then, the "
 "advisor has had no word from him…"
-msgstr ""
+msgstr "장관은 조직 내 최고 요원에게 이 사건을 맡겼습니다. 하지만 그 이후, 요원으로부터 어떤 보고도 들어오지 않았습니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/FullBlooded_Solutions.Entries.Array.data[9].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "c30a15b9-efe0-43d5-bedf-921067c05058"
@@ -19550,7 +19698,7 @@ msgctxt "db997467-600f-4515-b145-fd7d727f1339"
 msgid ""
 "The Minister's agents tracked down and arrested a noble who turned out to be"
 " the leader of a whole network of vampires!"
-msgstr "장관의 요원들은 뱀파이어 집단의 수장으로 보이는 한 귀족을 추격 끝에 채포하였습니다!"
+msgstr "장관의 요원들은 뱀파이어 집단의 수장으로 보이는 한 귀족을 추격 끝에 체포하였습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/GoingSouth_LocalizedDescription
 msgctxt "37161752-be2a-45cd-9181-55e463d64346"
@@ -19560,6 +19708,8 @@ msgid ""
 "and organize a raid on Qadira. Showing them support will make them share "
 "some of the loot – off the books, of course."
 msgstr ""
+"도둑맞은 땅에는 강도질에 익숙한 사람들이 많이 살고있습니다. 몇몇 무모한 자들이 좋았던 옛 시절을 떠올리며 카디라 약탈을 계획했습니다. "
+"우리가 이 강도들을 지원한다면, 소정의 전리품을 공유해줄것입니다. 물론 비공식적으로 말입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/GoingSouth_LocalizedName
 msgctxt "89cc6b04-f0f0-4544-b322-9f6c40291d3f"
@@ -19569,7 +19719,7 @@ msgstr "남쪽으로"
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/GoingSouth_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "c809e121-d7f8-4d76-a332-daa067e1b1c2"
 msgid "The proud raiders declined the General's aid."
-msgstr ""
+msgstr "자신만만한 약탈자들이 장군의 도움을 거절했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/GoingSouth_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "c84e74ea-31eb-4660-9c79-0af4b88d1575"
@@ -19577,7 +19727,7 @@ msgid ""
 "The General supplied the daredevils with weapons and armor. "
 "{mf_General|He|She} didn't have to wait long for them to show their "
 "gratitude."
-msgstr ""
+msgstr "장군은 이 무모한 자들에게 무기와 갑옷을 지원했습니다. 그들이 감사의 뜻을 전해올 때까지 긴 시간이 걸리지 않았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/GoingSouth_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "3e136b68-3c3d-470f-9988-9da6b402dd35"
@@ -19586,20 +19736,22 @@ msgid ""
 "few helpful tips along the way. Once the raiders returned, they generously "
 "rewarded the advisor."
 msgstr ""
+"장군은 이 무모한 자들에게 무기와 갑옷을 보급하고, 작전에 유용할 만한 정보도 제공해주었습니다. 약탈자들은 약탈을 마치고 돌아와 후하게 "
+"보답하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/GoingSouth_Solutions.Entries.Array.data[3].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "dd975aa9-bce6-4bf3-a35f-c9751e516320"
 msgid ""
 "The daredevils declined to work with the mercenaries that the Treasurer "
 "hired."
-msgstr ""
+msgstr "이 무모한 자들은 재무관의 용병 계약 제의를 거절했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/GoingSouth_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "5947f492-5f2f-4e69-bfe8-8ae28c00d12c"
 msgid ""
 "The Treasurer equipped the daredevils with supplies and foodstuffs. On their"
 " return, they donated a part of their booty to the treasury!"
-msgstr ""
+msgstr "재무관은 이 무모한 자들에게 보급품과 식료품을 제공했습니다. 약탈자들이 돌아와서 약탈품의 일부를 재무관의 몫으로 챙겨줬습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/GoingSouth_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "ef78c121-a928-45cc-a8c3-49a40b8b6016"
@@ -19608,6 +19760,8 @@ msgid ""
 "inventory\". Armed to the teeth, the daredevils mounted a raid – and donated"
 " half of their booty to the treasury!"
 msgstr ""
+"이 \"농민\"들은 \"재고보충을 위한 단 한번뿐인 재무 보조금\"을 받았습니다. 완전 무장을 한 상태로 약탈에 나섰고,  약탈품의 반을 "
+"재무관에게 나눠줬습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/GoingSouth_Solutions.Entries.Array.data[9].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "6ec23bf8-1200-4778-a0c8-6fe32f07ad63"
@@ -19616,6 +19770,8 @@ msgid ""
 "looking for them, and they promptly fled the "
 "{mf|barony|barony|kingdom|kingdom}…"
 msgstr ""
+"이 무슨 낭패인지! 장관이 그들을 찾고 있다는 것을, 이 무모한 자들이 알아챘습니다. 그리고 그들은 지체없이 "
+"{mf|남작령|남작령|왕국|왕국}에서 달아났습니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/GoingSouth_Solutions.Entries.Array.data[9].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "72e1a982-13a2-47f8-a714-cbd039cc2ae4"
@@ -19625,6 +19781,8 @@ msgid ""
 "generous donation \"for the good of the "
 "{mf|barony|barony|kingdom|kingdom}\"."
 msgstr ""
+"장관은 카디라와 그 병력에 관한 유용한 정보를 이 무모한 자들에게 제공했습니다. 그들이 약탈에서 돌아왔을 때, \""
+"{mf|남작령|남작령|왕국|왕국}을 위한 기부금\"을 쾌척하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/GoingSouth_Solutions.Entries.Array.data[9].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "ad57930b-470c-45b4-a44c-55f8524b936f"
