@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
 "PO-Revision-Date: 2020-07-10 21:00+0000\n"
-"Last-Translator: 냠 <setsuna444@naver.com>\n"
+"Last-Translator: laz <joholja@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -18670,11 +18670,14 @@ msgid ""
 " year. The fear is turning into panic. The people must be made to hear "
 "reason. The dangerous rumors have to be stopped!"
 msgstr ""
+"최근의 일식 현상 때문에 민중이 공포에 휩싸였습니다. 많은 이들이 올해의 악운을 예언한 켈리드 샤먼의 달력을 떠올리며, 일식을 나쁜 "
+"징조로 받아들이고 있습니다. 공포가 점차 공황 사태로 번질 조짐이 보입니다. 사람들이 이성을 되찾도록 하여, 이 위험한 소문의 확산을 "
+"막아야 합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Eclipse_LocalizedName
 msgctxt "ed974224-ee21-4493-9695-df0383e5d0f5"
 msgid "Eclipse"
-msgstr ""
+msgstr "일식"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Eclipse_Solutions.Entries.Array.data[0].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "42a75128-0c75-44c4-9dc5-887db6437191"
@@ -18684,6 +18687,8 @@ msgid ""
 "is a bad sign. The citizens have begun stocking up on every supply they can "
 "get. They'd be prepared if Rovagug himself was set free tomorrow."
 msgstr ""
+"섭정의 호소는 도리어 사태를 악화시킬 뿐이었습니다. 이제 심지어 {mf|남작|여남작|왕|여왕}의 보좌관들조차 소문을 신경쓰고 있습니다. "
+"결코 좋지 못한 징조입니다. 시민들은 마치 로바거그가 당장 내일 풀려나기라도 할 것처럼 생필품을 사재기하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Eclipse_Solutions.Entries.Array.data[0].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "3a25bff1-6983-4774-9293-7622b588a169"
@@ -18691,6 +18696,7 @@ msgid ""
 "The Regent's appeal went unheeded, and the peasants are flouting the laws. "
 "After all, they have to prepare for the end of the world!"
 msgstr ""
+"섭정의 호소는 전혀 효과가 없었고, 농부들은 이제 대놓고 법률을 거스르고 있습니다. 사람들은 세계의 종말을 준비해야 한다고 주장합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Eclipse_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "2d756032-fa7b-45df-b1b7-7672325a3a43"
@@ -19792,6 +19798,8 @@ msgid ""
 "good of the {mf|barony|barony|kingdom|kingdom}\" – and returned the map, now"
 " decorated with new notes and marks."
 msgstr ""
+"장관은 이 무모한 자들에게 자신만의 \"특별한\" 카디라 지도를 제공했습니다. 그들은 습격에서 돌아오면 \""
+"{mf|남작령|남작령|왕국|왕국}을 위하여\" 넉넉한 금품을 기부하고는, 새로운 주석과 표식이 추가된 지도를 반납했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HerosRemains_LocalizedDescription
 msgctxt "132fbbdb-e4eb-4090-aecd-d0b344fe4d9e"
@@ -19801,18 +19809,20 @@ msgid ""
 "an invaluable family relic. The leader of the clan requests permission to "
 "find his kin's remains and return them to his family."
 msgstr ""
+"지역의 드워프들에 따르면, 유명한 괴물 사냥꾼이었던 그들 부족의 일원이 {mf|남작|여남작|왕|여왕}의 영지 내에서 값비싼 가보를 지닌 "
+"채 사망했다고 합니다. 족장은 그의 시신과 유품을 찾아서 가족에게 돌려보내겠다며, 수색에 대한 허가를 구하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HerosRemains_LocalizedName
 msgctxt "882a3762-0cfb-4a80-ba93-b35dccf994bc"
 msgid "A Hero's Remains"
-msgstr "영웅의 유적"
+msgstr "영웅의 유품"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HerosRemains_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "cf5b1f3a-2da3-4956-9894-a38caf575a71"
 msgid ""
 "Pharasma's priests have been unable to reach the soul of the deceased dwarf,"
 " or discover where his remains might lie."
-msgstr ""
+msgstr "파라즈마의 성직자들은 죽은 드워프의 영혼과 접촉하는데 실패했습니다. 그의 시신과 유품의 위치는 미궁에 빠져 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HerosRemains_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "7d5d86fa-3aef-41de-9c51-db5023f2885d"
@@ -19821,6 +19831,8 @@ msgid ""
 "spirit was not pleased, but helped them locate his remains on the edge of a "
 "giant swamp – stripped clean of all his possessions."
 msgstr ""
+"파라즈마의 성직자들은 죽은 드워프의 혼령을 불러내는데 성공했습니다. 혼령은 썩 내켜하지는 않았지만, 어쨋든 자기 시신의 위치를 찾는 것을 "
+"도왔습니다. 거대한 늪지대의 가장자리에서 발견된 시신은, 모든 소지품을 도둑맞은 상태였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HerosRemains_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "8a670653-ac07-45af-85e7-37f53f1e4e10"
@@ -19829,20 +19841,22 @@ msgid ""
 "flattered by the attention, and told them where to look for his body – as "
 "well as for the lizardfolk who stole the shield with his family crest."
 msgstr ""
+"파라즈마의 성직자들은 죽은 드워프의 혼령을 불러냈습니다. 자신을 향한 관심에 만족한 혼령은, 그들에게 자기 시신의 위치와 함께, 부족의 "
+"문장이 새겨진 방패를 훔쳐간 도마뱀 인간들의 위치도 알려주었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HerosRemains_Solutions.Entries.Array.data[6].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "1233b8dd-7a82-46ba-8608-bfce0a569418"
 msgid ""
 "None of the Magister's spells were able to reveal the location of the "
 "missing hunter."
-msgstr ""
+msgstr "마법대신의 주문으로는 실종된 사냥꾼의 위치를 밝혀낼 수 없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HerosRemains_Solutions.Entries.Array.data[6].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "3cc5922c-80b9-426d-8191-c80a21834847"
 msgid ""
 "The Magister's servants were able to locate the missing hunter's body. – "
 "He'd perished on the fringes of a giant swamp."
-msgstr ""
+msgstr "마법대신의 부하들이 실종된 사냥꾼의 시신이 어디 있는지 알아냈습니다. 그는 거대한 늪지대의 가장자리에 숨져있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HerosRemains_Solutions.Entries.Array.data[6].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "9b8aab52-41bc-413f-b4ab-a98906394879"
@@ -19851,6 +19865,8 @@ msgid ""
 " only did he help to find the hero's body, he also pointed the search party "
 "towards a shield emblazoned with his family crest."
 msgstr ""
+"마법대신은 실종된 드워프를 찾기 위해 이로리의 신탁을 구했습니다. 그는 이 영웅의 시신을 발견하는 것을 도왔을 뿐 아니라, 부족의 문장이 "
+"세공된 방패를 찾을 수 있도록 수색대를 안내했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HerosRemains_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "d1a9cfea-1cbd-4f7e-a0ef-e7d3d0a8c0f5"
@@ -19859,13 +19875,14 @@ msgid ""
 "{mf|barony|barony|kingdom|kingdom}, but failed to find the body of the "
 "missing hunter."
 msgstr ""
+"경비대가 {mf|남작령|남작령|왕국|왕국}의 모든 숲과 동굴을 샅샅이 수색했지만, 실종된 사냥꾼의 시신을 발견하는데에는 실패했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HerosRemains_Solutions.Entries.Array.data[7].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "53dfb9a7-948a-4a78-b4f8-319a51d85aaf"
 msgid ""
 "The Warden personally lead the search. The missing hero was found on the "
 "fringes of a giant swamp, dead and stripped of his gear."
-msgstr ""
+msgstr "감시관이 직접 수색을 지휘했습니다. 실종된 영웅은 거대한 늪지대의 가장자리에서, 모든 소지품이 도난당한 채 발견됐습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HerosRemains_Solutions.Entries.Array.data[7].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "8f6ce2f9-bf20-449b-83c5-951321d56d61"
@@ -19875,6 +19892,8 @@ msgid ""
 "surrounding area for lizardfolk stashes. Soon after, a shield emblazoned "
 "with the dwarf's family crest was found."
 msgstr ""
+"감시관이 직접 수색을 지휘했습니다. 실종된 영웅의 시신을 거대한 늪지대의 가장자리에서 발견하자, 그는 경비병들에게 주변지역의 도마뱀인간 "
+"은닉처를 확인해보도록 지시했습니다. 오래지 않아, 드워프 부족 문장이 아로새겨진 방패를 발견할 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HungryVassal_LocalizedDescription
 msgctxt "7773f650-b8ad-4940-8a0d-4459a2622e63"
@@ -19884,18 +19903,20 @@ msgid ""
 " more, she already has a whole army of mercenaries at her command! Her "
 "appetite should be kept in check."
 msgstr ""
+"이 지역의 대지주인 어떤 하플링 여성이, 그녀가 {mf|남작령|남작령|왕국|왕국}을 통치해야만 한다는 결론을 낸 모양입니다. 문제는, "
+"그녀가 벌써 자기 명령에 따르는 대규모의 용병대를 고용했다는 점입니다! 이런 자가 돈 이상의 욕망을 품어서는 안될 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HungryVassal_LocalizedName
 msgctxt "7c826e61-1ac9-4a2b-bd87-ac697bec7aaa"
 msgid "The Hungry Vassal"
-msgstr ""
+msgstr "굶주린 가신"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HungryVassal_Solutions.Entries.Array.data[1].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "a2518ab5-d146-46cb-be6c-7af1a854bffd"
 msgid ""
 "The Councilor's clumsy attempts at restraining the landowner's ambitions "
 "have only stoked her fury!"
-msgstr ""
+msgstr "이 대지주의 야망을 제지하려던 평의원의 서투른 시도는 오히려 그녀의 분노만 돋구었을 뿐입니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HungryVassal_Solutions.Entries.Array.data[1].Resolutions.Array.data[10].LocalizedDescription
 msgctxt "f18ddc91-9177-4ccd-95dc-9a18e09582b2"
@@ -19903,6 +19924,7 @@ msgid ""
 "Someone from the landowner's entourage killed her in her sleep! They say her"
 " sons had been visited by the Councilor just before it happened…"
 msgstr ""
+"대지주는 잠자던 중 측근의 누군가에게 살해당했습니다! 소문에 따르면 사건이 일어나기 직전에 평의원이 그녀의 아들들을 방문했다고 합니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HungryVassal_Solutions.Entries.Array.data[1].Resolutions.Array.data[11].LocalizedDescription
 msgctxt "d6a65453-aec2-4433-bf90-29a1398b19cd"
@@ -19911,13 +19933,15 @@ msgid ""
 "infighting that ensued, all of the landowner's heirs mysteriously perished. "
 "The family riches passed on to the {mf|baron|baroness|King|Queen}."
 msgstr ""
+"이 대지주의 아들 중 하나가 잠자던 대지주를 살해했습니다! 그 결과 벌어진 치열한 암투의 와중에, 그녀의 상속자 전원이 불가사의하게 "
+"목숨을 잃었습니다. 지주 가문의 재산은 {mf|남작|여남작|왕|여왕}에게 귀속되고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HungryVassal_Solutions.Entries.Array.data[1].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "71e8ce1d-16c2-4d0b-8119-e2d8a582fdc9"
 msgid ""
 "The Councilor has been unable to persuade the landowner to give up her "
 "ambitions."
-msgstr ""
+msgstr "평의원은 지주에게 야망을 포기할 것을 설득하는데 실패했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HungryVassal_Solutions.Entries.Array.data[1].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "498bb01e-d5c7-409b-b4b3-6ea2b44b4d84"
@@ -19925,6 +19949,7 @@ msgid ""
 "The Councilor talked some sense into the landowner, persuading her to place "
 "the interests of her people above her own, and incite no strife."
 msgstr ""
+"평의원은 이 대지주와 이치를 논하여, 불필요한 갈등을 자극하지 말고 그녀 자신보다는 소작인들의 이익을 더 우선시할 것을 설득하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HungryVassal_Solutions.Entries.Array.data[1].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "a213e2ca-57d7-413a-a9be-aa15b3ce6003"
@@ -19933,19 +19958,21 @@ msgid ""
 "dismissed her guard, divided her wealth among her peasants, and became a "
 "wandering monk!"
 msgstr ""
+"평의원의 설득은 대지주에게 기적적인 변화를 일으켰습니다. 그녀는 사병을 해산하고, 재산을 소작농들에게 나누어주고는 방랑 수도자가 "
+"되었습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HungryVassal_Solutions.Entries.Array.data[1].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "f97605a5-dbd3-4b95-a5c2-99d7457d558f"
 msgid ""
 "The Councilor tried to frighten the landowner into submission, but "
 "{mf_Counsilor|his|her} threats were met with laughter!"
-msgstr ""
+msgstr "평의원은 협박으로 대지주를 복종시키려 했지만, 공허한 위협은 비웃음만을 샀을 뿐입니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HungryVassal_Solutions.Entries.Array.data[1].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "94befdc8-2ad8-4ed4-82df-c0444819971e"
 msgid ""
 "The Councilor has been unable to frighten the landowner into submission."
-msgstr ""
+msgstr "평의원은 협박으로 대지주를 복종시키는데 실패했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HungryVassal_Solutions.Entries.Array.data[1].Resolutions.Array.data[6].LocalizedDescription
 msgctxt "908442c5-6397-4e1c-9d8c-0400c48fb37e"
@@ -19954,6 +19981,8 @@ msgid ""
 "persuaded the halfling that she greatly overestimated her power, and that it"
 " was in her best interests to keep quiet from now on."
 msgstr ""
+"평의원은 이 하플링 대지주와 독대하여, 그녀가 자신의 힘을 턱없이 과대평가하고 있으며, 얌전히 지내는 것이 그녀에게 최선이라는 점을 "
+"설득하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HungryVassal_Solutions.Entries.Array.data[1].Resolutions.Array.data[7].LocalizedDescription
 msgctxt "b3f40913-cab7-484d-9f0f-1dfe63839522"
@@ -19962,20 +19991,22 @@ msgid ""
 "that her behavior would only get her hanged. The troublemaker swore her "
 "loyalty to the throne and dismissed half of her forces."
 msgstr ""
+"평의원은 이 대지주와 독대하여, 그녀의 방자한 행동은 결국 자신을 교수대로 향하게 할 뿐이라는 점을 교묘히 납득시킬 수 있었습니다. 이 "
+"말썽꾼 하플링은 왕에 대한 충성을 맹세하고, 사병을 절반으로 감축시켰습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HungryVassal_Solutions.Entries.Array.data[1].Resolutions.Array.data[8].LocalizedDescription
 msgctxt "6ffcf8a1-dc33-404b-9b15-c9e18c2fd53d"
 msgid ""
 "The Councilor tried to sow dissent between the troublemaker and her allies, "
 "but {mf_Counsilor|his|her} schemes were discovered!"
-msgstr ""
+msgstr "평의원은 이 말썽꾼과 그 동맹들 사이에 불화를 조장하려 했지만, 오히려 공작이 탄로나고 말았습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/HungryVassal_Solutions.Entries.Array.data[1].Resolutions.Array.data[9].LocalizedDescription
 msgctxt "a6c90375-ded9-4d5d-9f28-58936fa254ab"
 msgid ""
 "The Councilor has been unable to sow dissent between the troublemaker and "
 "her allies."
-msgstr ""
+msgstr "평의원은 이 말썽꾼과 그 동맹들 사이에 불화를 조장하는데 실패했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/PowerofBlood_LocalizedDescription
 msgctxt "dc872b04-94f8-47cb-aab1-31d152860d53"
@@ -20088,6 +20119,9 @@ msgid ""
 "{mf|barony|barony|kingdom|kingdom} will be beset by hurricanes, tornadoes "
 "and floods… But how can one appease a god whose temper is like a storm?"
 msgstr ""
+"하늘과 바람의 신 고즈레이가, {mf|남작령|남작령|왕국|왕국}의 백성들이 충분한 공물을 바치지 않는 것에 화가 난 것 같습니다! 만약 "
+"그의 분노가 진정되지 않으면, {mf|남작령|남작령|왕국|왕국}은 허리케인과 토네이도, 홍수에 시달리게 될 것입니다... 그러나 이 폭풍 "
+"같은 성정의 신을 과연 어떻게 달랠 수 있을까요?"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/RageofWinds_LocalizedName
 msgctxt "10739b63-7f58-49f0-bad2-0706a224238e"
@@ -20101,13 +20135,15 @@ msgid ""
 "the {mf|barony|barony|kingdom|kingdom} to take part in the High "
 "{mf_HighPriest|Priest's|Priestess'} magnificent ritual."
 msgstr ""
+"장엄한 예식이 성공적으로 치러졌습니다! 독실한 신도들이 {mf|남작령|남작령|왕국|왕국} 각지에서 모여, 대사제가 주관하는 웅장한 의식에 "
+"참가하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/RageofWinds_Solutions.Entries.Array.data[5].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "ade80a02-9895-4027-9f4d-513700165d6a"
 msgid ""
 "The High {mf_HighPriest|Priest's|Priestess'} lavish gifts have placated the "
 "wrathful deity."
-msgstr ""
+msgstr "대사제는 막대한 공물을 봉납하여 분노한 신을 달랠 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/RageofWinds_Solutions.Entries.Array.data[5].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "eea04e4e-ee41-4c75-89c4-4e496271ec85"
@@ -20116,6 +20152,8 @@ msgid ""
 "{mf_HighPriest|Priest|Priestess} sacrificed them to the deity, and its wrath"
 " turned to favor."
 msgstr ""
+"고즈레이의 성스러운 숲에서 벌목하던 나무꾼 세 사람이 붙잡혔습니다. 대사제는 이들을 고즈레이에게 제물로 공양했고, 그의 분노는 호의로 "
+"바뀌었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/Shared_AbadarPriest_AF_String
 msgctxt "aaec9432-6687-44e0-878f-4cef0afa44e0"
@@ -20193,6 +20231,8 @@ msgid ""
 "The {mf|barony|barony|kingdom|kingdom} can now look forward to poor harvests"
 " and all manner of cataclysms…"
 msgstr ""
+"다른 신의 신도가 주관한 의식은 오히려 고즈레이의 격노만 불러일으켰습니다. {mf|남작령|남작령|왕국|왕국}에는 이제 흉작과 다양한 "
+"천재지변이 예상되고 있습니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/WrathoftheForest_LocalizedDescription
 msgctxt "25aad309-20a3-4d0e-8848-cf7df805c556"
@@ -20202,6 +20242,8 @@ msgid ""
 "enters the forest. Someone must make peace with the keepers of the grove – "
 "or find another way to deal with them."
 msgstr ""
+"나무꾼 몇몇이 성스러운 숲을 침범하여, 거기에 거주하고 있던 트리엔트들의 분노를 자극했다고 합니다. 이 분노한 거인들은 이제 숲에 "
+"들어가는 모든 이들을 공격하고 있습니다. 이 숲의 보호자들과 화해하든지, 아니면 다른 해결책을 찾아야 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/WrathoftheForest_LocalizedName
 msgctxt "8d3ebe05-b39c-4740-adb3-22a23d6c7f58"
@@ -20215,20 +20257,21 @@ msgid ""
 "meeting. Many of the delegation's members were unable to escape the forest "
 "with their lives…"
 msgstr ""
+"섭정이 파견한 협상단 중 한 명이 멍청하게도 회담 장소에 도끼를 가지고 갔습니다. 협상단 대부분은 살아서 숲을 탈출하지 못했습니다…"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/WrathoftheForest_Solutions.Entries.Array.data[0].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "9800a489-13c1-4364-9b51-10e2123701cb"
 msgid ""
 "Negotiations with the treants achieved nothing. All the woodcutters had to "
 "leave the region."
-msgstr ""
+msgstr "트리엔트들과의 협상은 성과 없이 끝났습니다. 모든 나무꾼들은 지역을 떠나게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/WrathoftheForest_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "17ee0343-cbd3-486b-9bc4-9357af07108d"
 msgid ""
 "The treants have agreed to allow the woodsmen do their jobs, so long as they"
 " plant as many trees as they chop."
-msgstr ""
+msgstr "트리엔트들은 베어낸 만큼의 새 나무를 심는 조건으로, 나무꾼들이 벌목을 재개하는 것에 동의했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/WrathoftheForest_Solutions.Entries.Array.data[0].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "1e40c613-3ed7-49cd-a620-522428d53a44"
@@ -20237,6 +20280,8 @@ msgid ""
 "Only one of {mf_Regent|his|her} negotiators was able to flee the forest "
 "alive!"
 msgstr ""
+"섭정은 협상이 진행되는 동안, 지역 주민들에게 숲에 불을 놓겠다고 트리엔트를 위협할 것을 제안했습니다. 섭정이 보낸 협상단은 생존자 한 "
+"명을 제외하고 전멸했습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/WrathoftheForest_Solutions.Entries.Array.data[0].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "1cbd4ec5-ce32-4678-b13d-7a331f06a5ec"
@@ -20244,6 +20289,7 @@ msgid ""
 "The Regent suggested the locals threaten the treants with a forest fire. The"
 " people barely managed to flee from the wrathful monsters!"
 msgstr ""
+"섭정은 지역 주민들에게 숲에 불을 놓겠다고 트리엔트를 위협할 것을 제안했습니다. 주민들은 분노한 괴물들에게서 간신히 도망쳐나왔습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/WrathoftheForest_Solutions.Entries.Array.data[0].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "c6bf04e6-c55e-4db6-adac-22a329448308"
