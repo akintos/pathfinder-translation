@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
 "PO-Revision-Date: 2020-07-10 21:00+0000\n"
-"Last-Translator: laz <joholja@gmail.com>\n"
+"Last-Translator: anrnl <cgw1462@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -19237,6 +19237,8 @@ msgid ""
 "The Councilor let the prisoners free without ransom. The Kellids appreciated"
 " the unusual generosity, and swore never to plunder these lands again."
 msgstr ""
+"평의원은 몸값없이 죄수들을 풀어주었습니다. 켈리드인들은 이 의외의 너그러움을 감사히 여기며, 다시는 이 땅을 약탈하지 않겠다고 "
+"맹세했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/RansomInGoldOrIron_Solutions.Entries.Array.data[1].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "1ba1541b-6b7d-4633-8f23-2bdad80b56ff"
@@ -19246,6 +19248,8 @@ msgid ""
 " with the Councilor. As a result, a few of their families have decided to "
 "stay in {kingdomname}."
 msgstr ""
+"평의원은 죄수들을 아무 대가도 요구하지 않으면서 가족들에게 돌려보냈습니다. 켈리드인들은 이 관대함에 놀라서 평의원과 만나기를 청했습니다. "
+"그 결과 켈리드인 몇 가구는 {kingdomname}에 머무르기로 결정했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/RansomInGoldOrIron_Solutions.Entries.Array.data[1].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "5e681fc1-c764-4c13-ba59-7417c5c441b0"
@@ -19262,7 +19266,7 @@ msgctxt "329dec35-3695-473a-a7cf-ef3b4979c772"
 msgid ""
 "The Councilor negotiated the Kellids into paying a substantial ransom, which"
 " was supplemented by a curious artifact to cover their shortfall in gold."
-msgstr ""
+msgstr "평의원은 켈리드인들이 상당한 몸값을 지불하게끔 협상했습니다. 몸값의 부족분은 희귀한 유물로 대체하여 내게끔 했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/RansomInGoldOrIron_Solutions.Entries.Array.data[1].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "16083fff-d1ff-44aa-abef-12ed8a7c42bd"
@@ -19282,6 +19286,8 @@ msgid ""
 "and swore to destroy the evil order. Raids along the borderland have already"
 " become more frequent."
 msgstr ""
+"켈리드인들들은 평의원의 제안이 노예제나 다름없다고 여겼고, 이 사악한 질서를 파괴할 것을 맹세했습니다. 국경선을 따라 벌어지는 약탈들이 "
+"벌써부터 기승을 부리고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/RansomInGoldOrIron_Solutions.Entries.Array.data[1].Resolutions.Array.data[7].LocalizedDescription
 msgctxt "b30cef95-f0d4-4102-b7cb-464e75595523"
@@ -19454,13 +19460,16 @@ msgid ""
 "The mages and priests of the {mf|barony|barony|kingdom|kingdom} have taken "
 "great interest in the tome."
 msgstr ""
+"암호해석가는 사어로 된 책을 그저 번역하는 것뿐만 아니라, 책의 부드럽고 섬세한 뉘앙스를 짚어냈습니다. 그 책은 마법뿐만 아니라, 신들과 "
+"마법 에너지간의 관계도 설명하고 있었습니다. {mf|남작령|남작령|왕국|왕국}의 마법사들과 사제들은 이 전서에 지대한 관심을 가지고 "
+"있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Shared_ForgottenKnowledge_S_String
 msgctxt "214c5885-c731-43d2-9ce7-9d7ed98e327d"
 msgid ""
 "The decryptor was able to figure out the tricky language. The secrets of "
 "magic stored in the book proved very useful."
-msgstr ""
+msgstr "암호해석가는 까다로운 언어의 정체를 밝힐수 있었습니다. 이 책이 담고 있는 비밀은 매우 유용한 것으로 드러났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Shared_HeroReward_F_String
 msgctxt "a1544038-6252-46d8-aa7d-e44044cec62f"
@@ -19510,6 +19519,8 @@ msgid ""
 " are convinced that the {mf|baron|baroness|King|Queen} was somehow behind "
 "the mysterious disappearance."
 msgstr ""
+"{mf|남작|여남작|왕|여왕}의 종복들은 이 살인자를 찾기위하여 모든 곳을 찾았지만, 희미한 단서조차도 찾아내지 못했습니다. 우리 "
+"이웃들은 {mf|남작|여남작|왕|여왕}이 어떤 형태로든 이 기묘한 실종에 연관이 있다고 여깁니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Shared_MissingAmbassador_GF_String
 msgctxt "41f51400-48b1-4eca-86cb-5e2ffb5c15a7"
@@ -19529,6 +19540,7 @@ msgid ""
 "murderers and identify their employer. Such effective action has earned "
 "neighbors' respect."
 msgstr ""
+"{mf|남작|여남작|왕|여왕}의 종복들은 살인자를 체포하여 그들의 고용주를 밝혀냈습니다. 이 성공적인 수사는 이웃들의 존경을 얻어냈습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Shared_MissingAmbassador_S_String
 msgctxt "32b55d31-436d-470f-bb92-25ba901ab113"
@@ -19538,6 +19550,8 @@ msgid ""
 "bandit gang. The identity of their employer remains unknown, but the "
 "{mf|baron's|baroness'|King's|Queen's} name has officially been cleared."
 msgstr ""
+"{mf|남작|여남작|왕|여왕}의 종복들은 대사들의 실종과 연루된 범죄자들을 찾아냈습니다. 그들은 지역 도적떼였습니다. 그들의 고용주는 "
+"아직 베일에 가려져 있으나, {mf|남작|여남작|왕|여왕}의 결백함은 명백해졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/AbadarPriest_LocalizedDescription
 msgctxt "d0d72890-b0fc-4cff-bcc8-53391a55c119"
@@ -19554,7 +19568,7 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/AbadarPriest_LocalizedName
 msgctxt "a03549c7-e5de-488a-8b7d-3e1da01b44e5"
 msgid "A New Priest of Abadar"
-msgstr ""
+msgstr "아바다르의 새로운 사제"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/Celebrity_LocalizedDescription
 msgctxt "52eca06f-1ff4-476c-bd14-a4ba61a8e655"
