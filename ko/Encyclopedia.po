@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-18 13:07+0900\n"
-"PO-Revision-Date: 2020-07-09 21:00+0000\n"
-"Last-Translator: laz <joholja@gmail.com>\n"
+"PO-Revision-Date: 2020-07-10 21:00+0000\n"
+"Last-Translator: 진자스 <aodghaos@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/encyclopedia/ko/>\n"
 "Language: ko\n"
@@ -1089,7 +1089,7 @@ msgstr ""
 #. Mechanics/Blueprints/Encyclopedia/Basics_Title
 msgctxt "80fb0b02-d295-47e0-b142-d771d462f65b"
 msgid "Basics"
-msgstr ""
+msgstr "기초지식"
 
 #. Mechanics/Blueprints/Encyclopedia/Bear_BlockText_Text_String
 msgctxt "791767ff-808a-4e59-8b30-5dc6c3588824"
@@ -1224,11 +1224,13 @@ msgid ""
 "To move the camera, use the WASD and ARROW KEYS or press and hold the middle"
 " mouse button. You can also use a scroll wheel to zoom in and out."
 msgstr ""
+"카메라 시점을 이동시키려면 WASD키와 마우스 커서를 쓰거나 마우스 휠을 꾹 누르십시오. 또한 마우스 휠을 사용해서 줌인과 줌아웃이 "
+"가능합니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Camera_Title
 msgctxt "9e05160d-a890-40a0-b281-c2daef0bde85"
 msgid "Camera"
-msgstr ""
+msgstr "카메라 시점"
 
 #. Mechanics/Blueprints/Encyclopedia/Caster_Level_BlockText_Text
 msgctxt "978b139c-59b3-47b2-bef4-b269820a7a91"
@@ -1599,6 +1601,9 @@ msgid ""
 "rounds, with each round lasting 6 seconds. Initiative score is determined "
 "once for the entire combat and does not change between rounds."
 msgstr ""
+"<b>우선권:</b> 전투가 시작되면, 전투에 참가하는 모든 캐릭터는 우선권이 판정됩니다. 우선권이 높으면 높을 수록 캐릭터가 더 빨리 "
+"행동할 수 있습니다. 우선권의 수치는 전투기록에서 확인이 가능합니다. 전투는 여러 라운드로 나뉘어 있으며, 한 라운드가 끝나려면 6초가 "
+"경과해야 합니다. 우선권의 수치는 한번 정해지면 모든 라운드에 적용되고 그 이후로는 변동이 없습니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_BlockText 2_Text
 msgctxt "218fd6fe-bdb5-4521-bfdb-48bb882a0c2a"
@@ -1611,6 +1616,10 @@ msgid ""
 "roll results in a 20, the attack automatically hits, regardless of the "
 "target's AC."
 msgstr ""
+"<b>공격 굴림:</b> 공격은 캐릭터가 적에게 위해를 가하려는 행동입니다. 공격 굴림의 결과는 많은 요인에 따라 달라집니다. 휘두르는 "
+"무기의 종류, 적의 능력치, 기타 등등. 공격 굴림의 숫자가 상대방의 <link=\"Encyclopedia:Armor_Class\""
+"><b>아머클래스(AC)</b></link>보다 높거나 동등하게 나온다면 공격이 성공할 것입니다.만약 20면체 주사위로 20의 숫자가 "
+"나왔다면, 상대방의 AC에 상관없이 자동적으로 공격이 명중 할 것입니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_BlockText 3_Text
 msgctxt "a5670814-4138-4258-818f-93d76437f75d"
@@ -1619,6 +1628,8 @@ msgid ""
 " depends on the weapon's stats and other factors, such as empowering spells."
 " Attack roll results and damage numbers can be found in the Combat Log."
 msgstr ""
+"<b>데미지:</b> 성공적인 공격으로 인한 데미지의 총량은 강력한 마법과 무기의 성능과 같은 요소에 의해 정해집니다. 공격 굴림의 "
+"결과와 데미지 수치는 전투기록에서 확인할 수 있습니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_BlockText 4_Text
 msgctxt "b31a7935-7658-4939-bd8a-cda2aaefdd5c"
@@ -1629,6 +1640,8 @@ msgid ""
 "<link=\"Encyclopedia:Dexterity\"><b>Dexterity</b></link> bonus, passive "
 "abilities, etc."
 msgstr ""
+"<b>아머클래스:</b> 캐릭터의 아머클래스가 높을수록 공격을 성공적으로 가하기 힘들어 집니다. 아머클래스는 기본 방어력 10에 장비의 "
+"능력치, <link=\"백과사전:민첩성\"><b>민첩</b></link> 보너스,패시브 능력, 기타등등을 더해서 정해집니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_BlockText 5_Text
 msgctxt "82503571-7e66-4769-bdb5-1cff705b172b"
@@ -1639,6 +1652,8 @@ msgid ""
 "casting spells, attempts to move away from an opponent, and shooting ranged "
 "weapons."
 msgstr ""
+"<b>기회 공격</b>: 무장한 적 근처에서 행동을 하면 턴이 넘어가지도 않았는데도 적이 당신을 공격하는 경우가 생길 수 있습니다. "
+"다음과 같은 행동이 이런 현상을 유발합니다. 주문 시전, 적에게서 벗어나려는 행위, 원거리 무기로 쏘기."
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_BlockText_Text
 msgctxt "1e33c100-f9b9-4e04-87b0-5da00e2409dd"
@@ -1651,6 +1666,10 @@ msgid ""
 "better control the course of the battle in a situation where every second "
 "counts. Click on an opponent in order to attack them."
 msgstr ""
+"이 게임은 전투와 각종 기술을 판정하기 위해 20면체 주사위를 사용합니다. 전투는 실시간으로 진행되지만 정지버튼을 눌러 상황을 파악하고 "
+"동료들에게 명령을 내릴 수 있습니다. 정지시키거나 정지를 풀기 위해서는 <b>{bind|Pause}</b>를 누르십시오. 정지 상태에서 "
+"<b>{bind|UnpauseOn}</b>를 누르면, 시간이 느리게 흘러가 초단위로 전투를 유리하게 이끌어 갈 수 있습니다. 공격하려면 "
+"적을 클릭하십시오."
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_Initiative_BlockText_Text
 msgctxt "c54b347c-364a-4c48-b17b-0fbacb13b118"
@@ -1807,7 +1826,7 @@ msgstr "확산 무기 투척"
 #. Mechanics/Blueprints/Encyclopedia/Combat_Title
 msgctxt "c21b26d1-276a-4d80-9744-919a42ef3710"
 msgid "Combat"
-msgstr ""
+msgstr "전투"
 
 #. Mechanics/Blueprints/Encyclopedia/Combining_Magic_BlockText_Text
 msgctxt "7b0c78d2-8d12-4185-bdad-ee8e6b049a0b"
