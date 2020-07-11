@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-07-10 21:00+0000\n"
-"Last-Translator: anrnl <cgw1462@naver.com>\n"
+"PO-Revision-Date: 2020-07-11 13:49+0000\n"
+"Last-Translator: laz <joholja@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -20030,8 +20030,8 @@ msgid ""
 "needs to collect a couple hundred blood samples, and she's looking for a "
 "generous patron with whom she will share her results."
 msgstr ""
-"혈액을 연구하는 알케미스트인 유명한 혈액진단사는 어떻게 주문의 재능이 세대를 거쳐가는지 밝혀내길 원했습니다. 그 노움은 수 백개의 혈액 "
-"샘플을 필요로했고 그녀의 연구 결과를 공유할 관대로운 후원자를 구하는 중입니다."
+"유명한 히마토맨서, 즉 혈액을 전문으로 연구하는 알케미스트 노움 한 명이 소서러의 재능이 세대를 따라 전수되는 원리를 밝히고 싶어합니다. "
+"그녀는 혈액 샘플 수 백 개와 함께, 연구 결과를 공유할 관대한 후원자를 구하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/PowerofBlood_LocalizedName
 msgctxt "33995cfd-4884-4d86-8507-88101fce92b3"
@@ -20043,7 +20043,7 @@ msgctxt "9b55be18-b878-434c-9b03-6ff7b90b90a9"
 msgid ""
 "The Treasurer has been unable to entice the hematomancer with gold. As a "
 "true scholar, she cares only for her research!"
-msgstr "재무관은 혈액진단사를 금으로 회유하는데 실패했습니다. 그녀는 진정한 학자로서 연구만을 위해 행동합니다!"
+msgstr "재무관은 히마토맨서를 금으로 유혹하는데 실패했습니다. 그녀는 진정한 학자로서, 오로지 연구만을 염두에 둘 뿐입니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/PowerofBlood_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "bb89e3cf-3d16-4eed-ae19-eef516dd3ffb"
@@ -20054,9 +20054,9 @@ msgid ""
 " sends flowery letters to his colleagues, telling them of the wonders of "
 "this magnificent realm."
 msgstr ""
-"재무관은 혈액진단사에게 명예와 일로 말할 수 없는 부를 약속했습니다... 그리고 성공했습니다! 학자들조차 고급 와인, 극상의 만찬, "
-"호화로운 의복에 끌릴 수 있습니다. 그 노움은 연구에 대해 까맣게 잊어버렸지만, 동료들에게 이 멋진 세계의 경이로움에 대해 설명하는 "
-"화려한 편지를 보냈습니다."
+"재무관은 히마토맨서에게 명예와 막대한 부를 약속했고... 이것이 통했습니다! 제아무리 학자라도, 고급 와인, 극상의 만찬, 호화로운 "
+"의복의 유혹에는 넘어올 수 밖에 없었습니다. 이 노움은 막상 자신의 연구는 거의 잊어버리고, 동료 학자들에게 온갖 미사여구로 이 위대한 "
+"영지의 경이로움에 대해 설명한 편지를 보내고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/PowerofBlood_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "27158a12-9699-4b63-8d77-e3e01f322bc6"
@@ -20070,13 +20070,18 @@ msgid ""
 " Bleaching. In a few years, she will teach them everything she knows, and "
 "there will be no more need for her."
 msgstr ""
+"재무관은 그녀에게 어마어마한 금품을 제공하여, 그녀는 거의 돈으로 샤워를 하고, 손발에 금사슬을 채워서 수도로 끌려온 꼴이었습니다. "
+"그녀는 곧 과학은 잊어버리고 사치에 탐닉하고 있습니다. 그럼에도 그녀는 쓸모가 있습니다. 참석하는 학회마다 왕국을 찬양하고 다니는데다, "
+"재무관이 선발한 영민한 견습생들의 선생 노릇도 맡았습니다. 이들은 이제 선생을 위해 논문과 책도 집필하고 있습니다. 이런 태만한 삶은 "
+"물론 그녀의 백화를 촉진시키겠지만, 앞으로 몇 년이면 이 견습생들이 그녀의 지식을 전부 습득할 것이고, 그럼 그녀도 쓸모없어질 테니 "
+"괜찮습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/PowerofBlood_Solutions.Entries.Array.data[6].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "8fb97760-8f1d-46b8-8832-4276d674fe24"
 msgid ""
 "The talks between the Magister and the hematomancer fell through. – An "
 "agreement couldn't be reached on the scholar's pay."
-msgstr "마법대신과 혈액진단사의 거래는 실패했습니다. 연구비에 대한 합의점에 다다르지 못했습니다."
+msgstr "마법대신과 히마토맨서의 협상은 결렬되었습니다. 급여에 대한 견해차가 너무 컸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/PowerofBlood_Solutions.Entries.Array.data[6].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "c0e5cb9d-f843-463d-ae04-9006e51eea33"
@@ -20085,8 +20090,8 @@ msgid ""
 "research, a dozen children have discovered hidden magical talents, and the "
 "Magister has found a mentor for each of them."
 msgstr ""
-"마법대신은 혈액진단사와의 거래에 성공했습니다! 그녀의 연구에 감사하게도 수십 명의 아이들의 마법적 재능을 발견하고 마법대신이 그들의 "
-"스승을 찾아냈습니다."
+"마법대신은 히마토맨서와의 교섭을 성사시켰습니다! 그녀의 연구 덕분에, 십 여 명의 아이들이 숨어있던 마법 재능을 발견할 수 있었고, "
+"마법대신이 그들 각각에게 스승을 주선해주었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/PowerofBlood_Solutions.Entries.Array.data[6].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "98e2ceeb-6297-446b-b590-68c9041cbf66"
@@ -20096,8 +20101,8 @@ msgid ""
 "discovered, and the Magister even found a philanthropist who agreed to fund "
 "a school for the future sorcerers."
 msgstr ""
-"마법대신은 혈액진단사와의 거래에 성공했습니다! 그녀의 연구에 감사하게도 수십 명의 아이들의 마법적 재능을 발견하고, 마법대신은 미래의 "
-"소서러를 위한 학교에 기금을 대줄 자선가를 찾아냈습니다."
+"마법대신은 히마토맨서와의 교섭을 성사시켰습니다! 그녀의 연구 덕분에, 수십 명의 아이들이 숨어있던 마법 재능을 발견할 수 있었고, "
+"마법대신은 심지어 한 자선가로부터 이 장래의 소서러들을 위한 학교 설립 후원을 약속받았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/PowerofBlood_Solutions.Entries.Array.data[8].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "1151ca38-b9f8-4945-87a2-33086cba325e"
@@ -20106,13 +20111,15 @@ msgid ""
 "{mf|barony|barony|kingdom|kingdom} can provide all the facilities necessary "
 "for her research."
 msgstr ""
+"이 학자는 학예사의 제안을 거절했습니다. 그녀는 그녀가 필요로 하는 연구 설비를 {mf|남작령|남작령|왕국|왕국}이 제공하지 못할 것으로 "
+"생각했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/PowerofBlood_Solutions.Entries.Array.data[8].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "76f13c2e-7fcc-427a-8028-edc4fc9840ee"
 msgid ""
 "The Curator has persuaded the hematomancer to work with the capital's "
 "alchemists!"
-msgstr "학예사는 혈액진단사를 수도의 알케미스트와 협업하게끔 설득하였습니다!"
+msgstr "학예사는 우리 수도의 알케미스트와 함께 연구하도록 히마토맨서를 설득하였습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/PowerofBlood_Solutions.Entries.Array.data[8].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "36f56e86-737d-4ff2-a8c5-d48389a3086b"
@@ -20121,8 +20128,8 @@ msgid ""
 "her findings at a forum organized by the Curator! Scholars from all the "
 "neighboring lands have gathered to listen to her speak."
 msgstr ""
-"그 혈액진단사는 혈액 샘플에 대한 연구를 끝마쳐 학예사가 주최한 학회에서 선보였습니다! 모든 이웃 나라의 학자들이 그녀의 발표를 듣기 "
-"위해 모였습니다."
+"그 히마토맨서는 수집한 혈액 샘플에 대한 연구를 끝마치고, 학예사가 주최한 학회에서 그 연구 결과를 발표하였습니다! 온 이웃 나라의 "
+"학자들이 그녀의 발표를 듣기 위해 모여들었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/RageofWinds_LocalizedDescription
 msgctxt "b94803f4-df74-40a4-8c99-13c4ca459bd7"
@@ -20322,11 +20329,13 @@ msgid ""
 "technology. Given that Nex is always preparing for another military "
 "encounter with Geb, it's bound to be useful – and deadly!"
 msgstr ""
+"탐욕스러운 넥스 출신의 노움 마법사가 고급 전투 마법 기술의 판매를 제안해왔습니다. 넥스가 언제나 게브와의 다음 군사적 충돌을 준비 중인 "
+"국가라는 점을 감안하면, 아주 유용하고도 치명적인 기술인 것은 분명합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/BestAssasins_LocalizedName
 msgctxt "0f36df3d-8e87-43a7-a4c1-c946cb1e4d57"
 msgid "The Finest Assassins in the World of Magic"
-msgstr ""
+msgstr "마법세계의 최정예 암살자들"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/BestAssasins_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "7e68a6cd-b523-4040-9333-6ca5e9e2008a"
@@ -20335,13 +20344,15 @@ msgid ""
 "demonstration frightened the soldiers. Several combat mages damaged the "
 "weapon and ran off."
 msgstr ""
+"장군은 새 마법무기를 손에 넣었습니다. 그러나 이 무기의 시연 장면을 본 병사들을 겁에 질렸고, 몇몇 전투 마법사들이 무기를 파괴하고 "
+"달아나기에 이르렀습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/BestAssasins_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "d766ac2a-d800-4016-98f6-8ad8e957554e"
 msgid ""
 "The deal went wrong. The General and the opportunist mage couldn't come to "
 "an understanding, as often happens with soldiers and scientists."
-msgstr ""
+msgstr "교섭을 결렬되었습니다. 흔히 군인과 과학자 사이가 그러하듯이, 장군과 이 기회주의자 마법사는 합의에 이르지 못했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/BestAssasins_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "8992669e-3d8a-4b14-b288-91ac55a914cf"
@@ -20355,6 +20366,8 @@ msgid ""
 "has spread throughout the region, and has even become the subject of a few "
 "heroic ballads."
 msgstr ""
+"넥스제 고급 마법 무기가 군에 납품되었습니다. 이 소식은 발빠르게 퍼져나가, 이미 이를 주제로 한 영웅 서사시가 만들어지고 있을 "
+"정도입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/BestAssasins_Solutions.Entries.Array.data[6].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "a1913322-a74c-442f-afae-9ddf8fa40d80"
@@ -20363,13 +20376,15 @@ msgid ""
 "understand them. Their first test went out of control, and the magic "
 "explosion shook the whole region."
 msgstr ""
+"마법사들은 새 마법 무기의 설계도를 전달받았지만, 그 구조를 완전히 이해할 수가 없었습니다. 이 무기의 첫번째 시험은 대실패였고, 마법 "
+"폭발이 지역 전체를 뒤흔들었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/BestAssasins_Solutions.Entries.Array.data[6].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "46239567-1f81-4760-8e7b-fac1e3804209"
 msgid ""
 "The deal fell through because the seller turned out to be a paranoid, and "
 "obsessed with secrecy."
-msgstr ""
+msgstr "알고보니 판매자는 비밀 엄수에 집착하는 편집증 환자였습니다. 협상은 결렬되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/BestAssasins_Solutions.Entries.Array.data[6].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "427d58c7-a901-42e0-aa96-ca0d8cbe4086"
@@ -20385,20 +20400,22 @@ msgid ""
 "have learned many secrets from it, significantly promoting local magic "
 "research."
 msgstr ""
+"넥스제 최신 마법 무기가 수도에 도착했습니다. 마법사들은 무기를 분석해 많은 비밀을 습득할 수 있었고, 이 정보는 지역의 마법 연구 "
+"발전에 많은 기여를 하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/BestAssasins_Solutions.Entries.Array.data[9].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "6eaa8962-736a-46a6-bc2e-97c3b5268370"
 msgid ""
 "The Minister's people were so well informed that they frightened the mage, "
 "and the deal fell through at the last moment."
-msgstr ""
+msgstr "교섭을 진행하던 장관의 부하들은 이 마법사가 깜짝 놀랄만큼 많은 정보를 갖고 있었고, 교섭은 막판에 결렬되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/BestAssasins_Solutions.Entries.Array.data[9].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "bc2b6053-3142-4ce8-bac8-5faab9bd3b3f"
 msgid ""
 "The Minister's people were so well informed that they frightened the mage, "
 "and the deal fell through at the last moment."
-msgstr ""
+msgstr "교섭을 진행하던 장관의 부하들은 이 마법사가 깜짝 놀랄만큼 많은 정보를 갖고 있었고, 교섭은 막판에 결렬되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/BestAssasins_Solutions.Entries.Array.data[9].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "b1c24759-e5e2-4b01-a674-4872c1945f34"
@@ -20407,6 +20424,8 @@ msgid ""
 "soldiers have received dangerous magic designs, which perhaps should have "
 "remained secret forever."
 msgstr ""
+"장관은 이 기회주의자 마법사와 계약을 성사시켰습니다. 우리 병사들은 이제 위험한 마법 설계도를 손에 넣었고, 이것은 영원히 비밀에 부쳐질 "
+"것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/BestAssasins_Solutions.Entries.Array.data[9].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "de908e3f-b76b-4560-ba24-6788a03d5c60"
@@ -20415,6 +20434,8 @@ msgid ""
 "sold to Geb's necromancers in exchange for their magical knowledge. Geb is "
 "always willing to handsomely reward anyone who can tell them Nex's plans."
 msgstr ""
+"장관은 넥스의 고급 무기를 구입하는데 성공했습니다. 그리고 이를 복제한 다음, 게브의 마법 지식을 대가로 게브의 네크로맨서에게 "
+"팔아넘겼습니다. 게브는 넥스의 계획에 대해 알려주는 사람이라면 누구에게든 막대한 보상을 줄 의향이 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/HuntingForHunters_F_String
 msgctxt "3f9425ea-b407-4a19-8ec3-70c8a4b4259e"
@@ -20423,6 +20444,8 @@ msgid ""
 "and subdue the local criminals. But the assassins took the warning and "
 "escaped the raid, so all of the justiciars' efforts were for naught."
 msgstr ""
+"보좌관은 사법관의 검거 작전을 빌미삼아 지역의 범죄자들을 협박하고자 하였으나 실제로 범죄율을 낮추는 효과는 없었습니다. 오히려 "
+"암살자들만이 검거 작전에 대한 낌새를 채고 도주해버렸고, 결국 사법관의 성과는 전무했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/HuntingForHunters_GF_String
 msgctxt "facf6fb3-7ecb-477a-a40f-6e53ce73d507"
@@ -20432,6 +20455,8 @@ msgid ""
 " everyone in the advisor's shelter, both the criminals and the guards who "
 "were there for their protection."
 msgstr ""
+"보좌관의 부하들은 암살자들에게 사법관들의 단속을 피할 은신처를 제공하여 암살자들의 충성을 얻고자 하였습니다. 그러나 보좌관의 은신처를 "
+"발견한 사법관들은 암살자들과, 암살자들을 보호하기 위해 경계 중이던 경비병 전원을 구분 없이 처단해버리고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/HuntingForHunters_LocalizedDescription
 msgctxt "b574677f-299f-4051-b678-486ddecfe5b5"
@@ -20441,6 +20466,8 @@ msgid ""
 "the city. It's the perfect opportunity to arrest some criminals who have "
 "been hiding from justice for so long."
 msgstr ""
+"아바다르의 사법관들이 우리 수도에서 암약하는 암살자들에 대한 전면적인 체포 작전을 제안했습니다. 이 작전은 도시의 가장 으슥한 "
+"골목길에까지 질서를 가져올 것입니다. 지금이 그간 정의의 심판을 피해왔던 악당들을 체포할 최적의 기회입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/HuntingForHunters_LocalizedName
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/HuntingForHunters_LocalizedName_String
@@ -20456,20 +20483,22 @@ msgid ""
 "unrest, and riots broke out. The justiciars could have handled the task much"
 " better on their own."
 msgstr ""
+"사법관들의 급습 작전을 병사들이 지원했습니다. 그러나 병사들의 무례한 행동이 시민들을 자극했고, 불만이 점점 자라나 마침내 폭동으로까지 "
+"번지고 말았습니다. 차라리 사법관들이 단독으로 작전을 수행했더라면 더 나았을 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/HuntingForHunters_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "a2da9f75-6eac-4376-96b0-bc534e7dcac3"
 msgid ""
 "The General's army tried to support the justiciars, but all they did was "
 "scare off any criminals who were in hiding."
-msgstr ""
+msgstr "장군 휘하의 병사들이 사법관을 지원하려고 했으나, 오히려 숨어있던 범죄자들은 병사들에게 겁을 집어먹고 전부 달아나고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/HuntingForHunters_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "1b0245ca-7a37-4a9d-b3a6-e0df04813cb4"
 msgid ""
 "The justiciars' raid was a success. The General's soldiers supported them, "
 "and arrested a dozen seasoned criminals."
-msgstr ""
+msgstr "사법관의 작전은 성공적이었습니다. 장군 휘하의 병사들이 그들을 지원하여, 십여 명의 닳고 닳은 범죄자들을 체포할 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/HuntingForHunters_Solutions.Entries.Array.data[2].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "4af8655a-6de2-430b-ac2e-e910a4801968"
@@ -20479,6 +20508,8 @@ msgid ""
 "soldiers' bravery that they even spared some personal bodyguards, to watch "
 "over the brave officers and protect them from vindictive daggers."
 msgstr ""
+"우리 군의 병사들이 공세에 나서, 심지어 사법관들이 행동을 개시하기도 전에 벌써 범죄자들과 교전을 벌였습니다. 사법관들은 우리 병사들의 "
+"용맹함에 깊이 감명받아, 용감한 지휘관들을 원한에 찬 보복의 칼날로부터 보호할 개인 경호원들을 지원해주었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/HuntingForHunters_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "f3807d4f-0427-4084-b982-631b0cc6329f"
@@ -20488,6 +20519,8 @@ msgid ""
 "traitors within the ranks of the guards! In addition, they managed to escape"
 " justice as well!"
 msgstr ""
+"급습 작전은 계획대로 되지 않았습니다. 암살자들은 미리 도주하여 숨어버린 뒤였습니다. 분노한 사법관들이 그 원인을 찾아냈습니다! 경비병 "
+"중에 배신자들이 있었고, 이 배신자들마저 법의 심판을 피해 달아나버리고 말았습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/HuntingForHunters_Solutions.Entries.Array.data[7].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "16c25ec9-c746-4352-8d93-459e39e6330b"
@@ -20497,6 +20530,8 @@ msgid ""
 "justiciars the entire time. They were looking for criminals in the wrong "
 "places."
 msgstr ""
+"사법관들의 수도 급습 작전은 실패했습니다. 경비병 중에 배신자들이 있었고, 이들에 의해 작전 기간 내내 사법관들은 거짓 정보를 제공받고 "
+"있었던 것입니다. 그들은 엉뚱한 장소에서 범죄자들을 수색하고 있었던 셈입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/HuntingForHunters_Solutions.Entries.Array.data[7].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "ea2ac2ee-b389-4e49-b257-bd6c79d54998"
@@ -20506,6 +20541,8 @@ msgid ""
 "support, by surrounding the most dangerous districts and arresting numerous "
 "criminals."
 msgstr ""
+"사법관들은 성공적으로 급습 작전을 실행하여, 은신 중이던 암살자 전원을 처단하였습니다. 경비병들도 가장 위험한 지역 전체를 포위하여 숱한 "
+"범죄자들을 체포하는 등, 작전을 훌륭하게 원호하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/HuntingForHunters_Solutions.Entries.Array.data[7].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "84a9f4c3-faad-429d-9753-581254feacb3"
@@ -20514,6 +20551,8 @@ msgid ""
 "impressed that they commanded a few of their own guards to remain and keep "
 "patrolling the streets."
 msgstr ""
+"경비병들은 작전이 진행되는 동안 훌륭하게 임무를 수행하였습니다. 이에 감명받은 사법관들은 자신들의 호위병 일부를 수도에 남겨 거리를 "
+"순찰하도록 지시하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/HuntingForHunters_Solutions.Entries.Array.data[9].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "cc5d0d57-4d7f-477e-bfc3-bd9f7b94ca2f"
@@ -20523,6 +20562,8 @@ msgid ""
 "advisor's servants! In the meantime, many of the true criminals had a chance"
 " to escape."
 msgstr ""
+"장관 휘하의 요원들은 작전을 도우려 했지만, 사법관들은 요원들과 범죄자들을 구분하지 못하고 많은 요원들을 살해했습니다. 그 와중에 진짜 "
+"범죄자들 다수가 탈출할 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/HuntingForHunters_Solutions.Entries.Array.data[9].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "296cfa46-f5bc-46e4-9156-30ae19ce2d14"
@@ -20531,6 +20572,8 @@ msgid ""
 "during the raid. The latter disliked them, because they looked too much like"
 " their usual prey. The raid failed."
 msgstr ""
+"장관은 그의 첩보 요원들을 보내 작전을 돕게 했지만, 사법관들은 자신들의 평소 목표물과 분간하기 어려워 이들을 좋아하지 않았습니다. "
+"결과적으로 작전은 실패하고 말았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/HuntingForHunters_Solutions.Entries.Array.data[9].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "1bdc4b9b-07c2-4e07-a09e-0c10dfe5bc21"
@@ -20539,6 +20582,7 @@ msgid ""
 "justiciars' fingers were killed by the Minister's agents. Peace and order "
 "have been restored in the capital."
 msgstr ""
+"작전은 성공적이었습니다. 간신히 사법관의 손을 피한 암살자들도 전원이 장관의 요원들에게 살해당했습니다. 수도에 평화와 질서가 돌아왔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/HuntingForHunters_Solutions.Entries.Array.data[9].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "764157d1-1f70-4ffa-ac3f-370b682b155d"
@@ -20546,6 +20590,8 @@ msgid ""
 "The Minister's agents behaved perfectly during the raid. The justiciars left"
 " several soldiers behind, to watch over the darkest corners of the capital."
 msgstr ""
+"장관의 요원들은 작전이 진행되는 동안 완벽하게 작전을 지원하였습니다. 사법관들은 도시의 가장 으슥한 골목길을 순찰할 병사들을 "
+"남겨두었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/HuntingForHunters_S_GS_String
 msgctxt "b859a9c7-c08b-4e79-b219-6fdc1e18c99d"
@@ -20555,6 +20601,8 @@ msgid ""
 " The smart ones took refuge with the advisor, and from now on they protect "
 "the law, not violate it!"
 msgstr ""
+"보좌관의 요원들은 수도에 은거하던 암살자들 전원을 전향시키는데 성공했습니다. 협조하기를 거부한 자들은 사법관의 급습에 목숨을 잃었습니다. "
+"좀 더 영리한 자들은 보좌관의 제안을 받아들여 이제는 더 이상 법을 위반하지 않고, 법을 수호하는 일을 돕고 있습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/InfectiousMadness_LocalizedDescription
 #, fuzzy
