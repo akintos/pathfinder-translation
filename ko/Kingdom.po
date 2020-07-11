@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-07-11 13:49+0000\n"
+"PO-Revision-Date: 2020-07-11 20:36+0000\n"
 "Last-Translator: laz <joholja@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
@@ -20831,7 +20831,6 @@ msgstr ""
 "강해졌고 쉽게 신에게 닿을 수 있단 것을 발견했습니다. 그들은 몇몇 성소를 근처에 지었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/MonarchsCompetition_GF_F_String
-#, fuzzy
 msgctxt "784ef826-1a84-4416-9d71-114ecc02db12"
 msgid ""
 "The advisor returned empty-handed. There are other countries in the River "
@@ -20839,8 +20838,8 @@ msgid ""
 "is easier. Perhaps next time the {mf|barony|barony|kingdom|kingdom} will "
 "have better luck!"
 msgstr ""
-"보좌관은 빈손으로 돌아왔습니다. 리버킹덤??엔 사람들이 더 행복하고 살기 쉬운 부유한 나라들이 있습니다. 다음 기회에 ?? 가 더 운이 "
-"좋길 빌어보죠!"
+"보좌관은 빈손으로 돌아왔습니다. 강의 왕국들에는 물산이 풍부하고, 백성들도 행복하며, 삶이 더 순탄한 다른 나라들이 있었기 때문입니다. "
+"아마 다음 번에는 {mf|남작령|남작령|왕국|왕국}에 더 운이 따를 것입니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/MonarchsCompetition_LocalizedDescription
 msgctxt "032245f2-e26b-4915-bb7c-a9ea483655bc"
@@ -20850,6 +20849,8 @@ msgid ""
 "the enlightenment and happiness of their people. The winner's domain will "
 "receive blessings from Erastil's and Abadar's priests."
 msgstr ""
+"강의 왕국들의 통치자들끼리 격년으로 겨루는 부의 경쟁 대회가 곧 시작됩니다. 각각의 왕국은 자국의 부유함, 백성들의 계몽 수준과 행복도를 "
+"전시하게 됩니다. 승리한 통치자의 영지는 에라스틸과 아바다르의 사제들에게 축복을 받게 됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/MonarchsCompetition_LocalizedName
 msgctxt "059a0192-513b-411d-9b6c-25cf91109b8b"
@@ -20863,8 +20864,8 @@ msgid ""
 "victory! The {mf|barony|barony|kingdom|kingdom} has been blessed by the "
 "gods, and the fame is spread across all the River Kingdoms!"
 msgstr ""
-"활기가 넘치는 사자들이 영광스러운 소식과 함께 궁으로 돌아왔습니다. 승리! {mf|남작령|남작령|왕국|왕국}은 신에게 축복받았으며, 리버"
-" 킹덤에 그 명성을 떨쳤습니다."
+"대표단은 영광스러운 소식을 들고 의기양양하게 궁정으로 개선했습니다. 우리가 승리했습니다! {mf|남작령|남작령|왕국|왕국}은 신들에게 "
+"축복받았으며, 그 명성이 온 강의 왕국들에 떨치고 있습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/PopulationCencus_GF_F_String
 msgctxt "40b991dc-369f-48e4-a6ea-94811cffa159"
@@ -22131,12 +22132,9 @@ msgstr ""
 "괴물들은 불타는 그들의 동료들의 시체를 버려두고 도망갔습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/BloodMoon/Shared_BloodMoonWarning_Description_String
-#, fuzzy
-#| msgid ""
-#| "The attack from the Bald Hilltop is expected to occur in two weeks."
 msgctxt "a473ba0d-8e3c-4c7f-9569-0f54d19cefde"
 msgid "The attack from the Bald Hilltop is expected in two weeks."
-msgstr "민둥머리 언덕의 공격은 2주 안에 발생할것 같습니다."
+msgstr "민둥 언덕마루로부터의 공격이 2주 내에 있을 것으로 예상됩니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/BloodMoon/Shared_BloodMoonWarning_Name_String
 msgctxt "3dbf5689-b063-4841-93b3-843a13e9b948"
@@ -22230,18 +22228,20 @@ msgid ""
 "help {mf|his|her} companion. It might be a good idea to do it sooner rather "
 "than later."
 msgstr ""
+"{mf|남작|여남작|왕|여왕}이 {mf|그의|그녀의} 동료를 돕기로 한지 이미 충분한 시간이 흘렀습니다. 빨리 그 약속을 지키는 것이 "
+"좋을 것 같습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/CompanionsQuestsWarnings/KTC21-Amiri_Q1Warning_LocalizedName_String
 msgctxt "cb0daa04-1e09-4fbb-9b4e-0794a0d18c21"
 msgid "Amiri Seems to Be On Edge"
-msgstr ""
+msgstr "아미리는 몹시 초조해 보입니다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/CompanionsQuestsWarnings/KTC21-Amiri_Q1Warning_Results_String
 msgctxt "781cd6ef-93a0-4538-ac62-17924721157e"
 msgid ""
 "The {mf|baron|baroness|King|Queen} needs to help {mf|his|her} companion "
 "before it's too late."
-msgstr ""
+msgstr "{mf|남작|여남작|왕|여왕}은 너무 늦기 전에 {mf|그의|그녀의} 동료를 도와야 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/CompanionsQuestsWarnings/KTC21-HarrimQ1Warning_LocalizedDescription_String
 msgctxt "2a4fd0f1-d8db-4e29-b5df-7797ec79bcac"
@@ -22250,51 +22250,53 @@ msgid ""
 "help {mf|his|her} companion. It might be a good idea to do it sooner rather "
 "than later."
 msgstr ""
+"{mf|남작|여남작|왕|여왕}이 {mf|그의|그녀의} 동료를 돕기로 한지 이미 충분한 시간이 흘렀습니다. 빨리 그 약속을 지키는 것이 "
+"좋을 것 같습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/CompanionsQuestsWarnings/KTC21-HarrimQ1Warning_LocalizedName_String
 msgctxt "d51ccc9d-8899-40c7-a4fe-53f09e7805bb"
 msgid "Harrim Seems to be Brooding Even More than Usual"
-msgstr ""
+msgstr "하림은 평소의 어느 때보다도 더 깊은 생각에 잠겨 있는 것 같습니다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/CompanionsQuestsWarnings/KTC21-JaethalQ1Warning_LocalizedName_String
 msgctxt "efbff366-2eb0-4b0d-b176-83f626a3a828"
 msgid "Jaethal Seems Annoyed"
-msgstr ""
+msgstr "제이탈은 화가 난 것처럼 보입니다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/CompanionsQuestsWarnings/KTC21-Linzi_Q1Warning_LocalizedName_String
 msgctxt "4cfd59ec-3f7f-424f-8469-654e6d3e0eaf"
 msgid "Linzi Seems Sad"
-msgstr ""
+msgstr "린지는 슬퍼 보입니다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/CompanionsQuestsWarnings/KTC21-Tristian_Q1Warning_LocalizedName
 msgctxt "04fab1e3-7dff-4649-9af5-e00f67ee2537"
 msgid "Tristian Seems Sad"
-msgstr ""
+msgstr "트리스티안은 슬퍼 보입니다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/CompanionsQuestsWarnings/KTC21-Valerie_Q1Warning_LocalizedName_String
 msgctxt "68f16c62-ccd3-4990-a04a-4cede64c20c7"
 msgid "Valerie Seems Anxious"
-msgstr ""
+msgstr "발레리는 근심스러워 보입니다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/CompanionsQuestsWarnings/KTC22-EkunQ1Warning_LocalizedName
 msgctxt "adb6ce56-bbc5-477e-b462-3a67296898d6"
 msgid "Linzi is Worried About Ekun"
-msgstr ""
+msgstr "린지가 에쿤을 걱정하고 있습니다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/CompanionsQuestsWarnings/KTC31-EkunQ2Warning_LocalizedName
 msgctxt "68d4ab3b-833d-4998-bc7d-da795509f9c5"
 msgid "Elina is Worried About Ekun"
-msgstr ""
+msgstr "엘리나가 에쿤을 걱정하고 있습니다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/CompanionsQuestsWarnings/KTC31-Jubilost_Q1Warning_LocalizedName
 msgctxt "c1a7f417-ebf4-4573-a4f2-2fa85664df75"
 msgid "Jubilost Seems More Caustic than Usual"
-msgstr ""
+msgstr "주빌로스트는 평소보다도 심사가 무척 꼬여 보입니다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/CompanionsQuestsWarnings/KTC31-NokNok_Q1Warning_LocalizedName_String
 msgctxt "26de3f63-81fa-49ce-a04f-3865b1eb3329"
 msgid "Nok-Nok Seems More Twitchy than Usual"
-msgstr ""
+msgstr "녹녹은 평소보다도 더 초조해 보입니다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/CompanionsQuestsWarnings/KTC31-OctaviaRegongarQ2Warning_LocalizedDescription
 msgctxt "8f10c6f5-9bd3-4808-901b-f2024734acf0"
@@ -22303,11 +22305,13 @@ msgid ""
 "help {mf|his|her} companion. It might be a good idea to do it sooner rather "
 "than later."
 msgstr ""
+"{mf|남작|여남작|왕|여왕}이 {mf|그의|그녀의} 동료를 돕기로 한지 이미 충분한 시간이 흘렀습니다. 빨리 그 약속을 지키는 것이 "
+"좋을 것 같습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/CompanionsQuestsWarnings/KTC31-OctaviaRegongarQ2Warning_LocalizedName
 msgctxt "ff8de591-e4a7-4c11-b624-26b824220882"
 msgid "Regongar and Octavia Seem Concerned"
-msgstr ""
+msgstr "레곤가르와 옥타비아는 걱정하는 것처럼 보입니다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck1/CheapFame_LocalizedDescription
@@ -23158,16 +23162,14 @@ msgstr ""
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck2/Fugitives_Solutions.Entries.Array.data[0].Resolutions.Array.data[1].LocalizedDescription_String
-#, fuzzy
-#| msgid ""
-#| "The advisor managed to convince the people to stay, and struggle on for the "
-#| "good of their land! His words stirred the patriotism in their hearts."
 msgctxt "84e2396d-152c-46ef-83f6-e9572220f66d"
 msgid ""
 "The advisor managed to convince the people to stay, and struggle on for the "
 "good of their land! The advisor's words stirred the patriotism in their "
 "hearts."
-msgstr "보좌관들은 사람들이 떠나지 않고 그들의 땅을 위해 노력하도록 확신시킬 수 있었다. 그의 말은 사람들의 애국심을 뒤흔들었다."
+msgstr ""
+"보좌관은 백성들에게 이 땅에 남아 거주 여건을 개선하기 위해 노력하도록 설득할 수 있었습니다. 보좌관의 발언은 그들의 가슴 속에 잠자던 "
+"애국심을 자극했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra
 #. 50/Deck2/Fugitives_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription_String
@@ -26531,11 +26533,9 @@ msgstr ""
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/CE-
 #. DarkerthanBlack_LocalizedName
-#, fuzzy
-#| msgid "Blacker than Black"
 msgctxt "0ce9829b-0531-4c48-a62c-3c532686e51a"
 msgid "Darker than Black"
-msgstr "칠흑보다 새까만"
+msgstr "암흑보다 어두운"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/CE-
 #. DarkerthanBlack_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription
@@ -27579,13 +27579,13 @@ msgstr "한 여행자가 성에서 기다리고 있습니다."
 #. MaegarVarn_LocalizedDescription
 msgctxt "19240355-079a-4128-af7c-0554ba78adbb"
 msgid "The former Baron of Varnhold proposes an expedition."
-msgstr ""
+msgstr "반홀드의 전 남작이 원정을 제안합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/DLC2-KT-
 #. MaegarVarn_LocalizedName
 msgctxt "3022dea6-6d49-4f31-8075-bf7ccc431292"
 msgid "Maegar Varn Requests an Audience"
-msgstr ""
+msgstr "메이가르 반이 접견을 요청합니다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KT-
 #. DealWithTheDevil_LocalizedDescription
@@ -27833,14 +27833,11 @@ msgid "Amiri's Ire"
 msgstr "아미리의 분노"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC22-Amiri_Q2_Start_LocalizedDescription_String
-#, fuzzy
-#| msgid ""
-#| "Amiri insists on meeting the baron{mf||ess} in the throne room."
 msgctxt "c75b5f4e-9dce-4634-9ecc-75664c1d6aac"
 msgid ""
 "Amiri insists on meeting the {mf|baron|baroness|King|Queen} in the throne "
 "room."
-msgstr "아미리가 남작의 자리에서 만나자고 합니다."
+msgstr "아미리는 {mf|남작|여남작|왕|여왕}과 알현실에서 만날 것을 고집합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC22-Amiri_Q2_Start_LocalizedName_String
 msgctxt "adff6868-9033-4f82-acff-6f3c216eaca0"
@@ -28826,11 +28823,9 @@ msgstr ""
 "마치 이국땅에서 방황하는 이방인 같습니다. 그 곳에 마법의 흔적이 있습니다. 가볼 만한 가치가 있을지도 모릅니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/LocationsUnlock/DryadLair_LocalizedName
-#, fuzzy
-#| msgid "Errant Oak Discovered"
 msgctxt "4636936c-d689-4eaa-bceb-df08f84d4302"
 msgid "Oak-That-Strayed Discovered"
-msgstr "길 잃은 참나무 발견"
+msgstr "길잃은 참나무 발견"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/LocationsUnlock/EarthElementalLair_LocalizedDescription
 msgctxt "fd5bc6c0-d696-44ba-90c5-3095f9289b7c"
@@ -28924,8 +28919,6 @@ msgstr ""
 "있을지도 모릅니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/LocationsUnlock/GiantSlugLair_LocalizedName
-#, fuzzy
-#| msgid "Sticky Marsh Discovered"
 msgctxt "755a3c41-05fe-4805-bd54-d54e8bb09452"
 msgid "Tenacious Marsh Discovered"
 msgstr "끈적이는 늪지 발견"
@@ -30960,15 +30953,11 @@ msgid "Troll Threat"
 msgstr "트롤 위협"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/StorySupport/C21-TrollsWarning2Months_Results.Array.data[0].LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "If left unchecked, the troll bands will overrun the barony in just one "
-#| "month."
 msgctxt "8c31e29f-e50b-4290-a37e-2f289f5c422b"
 msgid ""
 "If left unchecked, the troll bands will overrun the barony in just two "
 "months."
-msgstr "트롤 무리를 방치하면, 한 달 내로 트롤이 남작령을 점령할 것입니다."
+msgstr "트롤 무리를 방치했다가는, 두 달 내로 이들이 남작령 전역을 짓밟을 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/StorySupport/C21-TrollsWarning2Weeks_LocalizedDescription
 msgctxt "844ae987-d368-4e9e-bbcc-95b83912fc3b"
@@ -32063,8 +32052,7 @@ msgstr ""
 "{mf|남작|남작|왕|여왕}은 요즘 반복되는 꿈으로 괴로워하고 있습니다. {mf|그|그녀}는 어떤 용감한 영웅들이 지하 고대 유적으로 "
 "들어간 후 다시는 돌아오지 않는 광경을 보았습니다. 그들의 얼굴은 단호한 결의에 차있었고, 입술은 가늘게 다물고 있었습니다. 한줄기의 "
 "성난 붉은 태양 빛이 어둠속으로 들어가는 영웅들 비추며 뻗어나가고 있었습니다. {mf|남작|남작|왕|여왕}은 꿈에서 깨어나기 전, 희미한 "
-"속삭임을 듣습니다.\n"
-"\"저에게 오십시오 영웅이여. 저는 여기에서 기다리겠습니다. 여기 어둠의 심연에서\""
+"속삭임을 듣습니다. \"저에게 오십시오, 영웅이여. 저는 여기에서 기다리겠습니다. 여기 어둠의 심연에서.\""
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/StorySupport/DLC3-DreamAboutHub_LocalizedName
 msgctxt "df3aabd5-55b5-4656-8382-228fd913c3fe"
@@ -32089,11 +32077,13 @@ msgid ""
 " of insanity has fallen, opening the way deeper into the dungeon. It is time"
 " to answer Xelliren's call!"
 msgstr ""
+"어둠의 심부에서 어둠이 사라지는 광경이 {mf|남작|여남작|왕|여왕}의 꿈에서 떠나지 않고 있습니다. 이제 첫 번째 광기의 장막이 "
+"무너져, 던전 속으로 더 깊이 들어가는 길이 열린 것으로 보입니다. 이제 젤리런의 부름에 답할 시간입니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/StorySupport/DLC3-FirstDepthUnlock_LocalizedName
 msgctxt "f3f7cc98-b76c-4bc5-8889-0167598c1a5e"
 msgid "The Darkness Retreats in the Tenebrous Depths"
-msgstr ""
+msgstr "어둠의 심부에서 어둠이 물러나다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/StorySupport/DLC3-SecondDepthUnlock_LocalizedDescription
 msgctxt "940cde21-2f12-49a8-affa-545729c9b798"
@@ -32103,11 +32093,13 @@ msgid ""
 "shroud of insanity has fallen, opening the way deeper into the dungeon. It "
 "is time to answer Xelliren's call!"
 msgstr ""
+"어둠의 심부에서 어둠이 사라지는 광경이 {mf|남작|여남작|왕|여왕}의 꿈에서 떠나지 않고 있습니다. 이제 두 번째 광기의 장막이 "
+"무너져, 던전 속으로 더 깊이 들어가는 길이 열린 것으로 보입니다. 이제 젤리런의 부름에 답할 시간입니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/StorySupport/DLC3-SecondDepthUnlock_LocalizedName
 msgctxt "6511ef4f-2ce9-4a64-a3d9-2364c2d745fb"
 msgid "The Darkness Retreats in the Tenebrous Depths"
-msgstr ""
+msgstr "어둠의 심부에서 어둠이 물러나다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/StorySupport/DLC3-ThirdDepthUnlock_LocalizedDescription
 msgctxt "9a432283-a877-4c05-a498-7d7e885919c4"
@@ -32117,11 +32109,13 @@ msgid ""
 " of insanity has fallen, unlocking the passage to the heart of the Depths. "
 "It is time to answer Xelliren's call!"
 msgstr ""
+"어둠의 심부에서 어둠이 사라지는 광경이 {mf|남작|여남작|왕|여왕}의 꿈에서 떠나지 않고 있습니다. 이제 마지막 광기의 장막이 무너져, "
+"심부의 중앙으로 향하는 통로가 열린 것으로 보입니다. 이제 젤리런의 부름에 답할 시간입니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/StorySupport/DLC3-ThirdDepthUnlock_LocalizedName
 msgctxt "cb695ff8-f676-49e4-a985-e4626e471255"
 msgid "The Darkness Retreats in the Tenebrous Depths"
-msgstr ""
+msgstr "어둠의 심부에서 어둠이 물러나다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/StorySupport/LinxiaAggressiveAttacks_Description
 msgctxt "51007830-6612-4df9-ac53-1983ed1600bf"
@@ -35944,17 +35938,14 @@ msgid "Research into the Nature of Curses: the First Crown"
 msgstr "저주의 본질에 대한 연구: 첫 번째 왕관"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseFirstCrown_Results.Array.data[0].LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "There is no trace of the elven king having been cursed. And yet the First Crown itself seems to be mystically connected to Nyrissa and her curse. Its creation helped Nyrissa destroy her first kingdom, and gain the first grain of dust for the accursed cup known as the Apology.\n"
-#| "This research has increased our understanding of arcane and divine magic."
 msgctxt "fd4b99e4-81e2-4dc8-9157-72855948f9ce"
 msgid ""
 "There is no trace of the elven king having been cursed. And yet the First Crown itself seems to be mystically connected to Nyrissa and her curse. Its creation helped Nyrissa destroy her first kingdom, and gain the first grain of dust for the accursed cup known as the Apology. This research has increased our understanding of arcane and divine magic.\n"
 "We have acquired a deeper understanding of the nature of curses."
 msgstr ""
-"엘프 왕이 저주를 받은 흔적은 없습니다. 하지만 첫 번째 왕관 자체는 나이리사, 그리고 그녀의 저주와 신비로운 관련이 있는 것 같습니다. 나이리사는 왕관을 만듦으로써 자신의 첫 왕국을 파괴하고, 사죄라고 알려진 저주받은 잔을 채울 첫 번째 먼지 티끌을 얻었습니다.\n"
-"우리는 이 연구를 통해 비전 마법과 신성 마법에 대해 더 깊이 알게 되었습니다."
+"엘프 왕이 저주를 받은 흔적은 없습니다. 하지만 첫 번째 왕관 자체는 나이리사, 그리고 그녀의 저주와 신비로운 관련이 있는 것 같습니다. "
+"나이리사는 왕관을 만듦으로써 자신의 첫 왕국을 파괴하고, 사죄라고 알려진 저주받은 잔을 채울 첫 번째 먼지 티끌을 얻었습니다. 우리는 이 "
+"연구를 통해 비전 마법과 신성 마법, 그리고 이 저주의 본질에 대해 더 깊이 알게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseHanvakis_LocalizedDescription
 msgctxt "ff5f02e7-d000-484e-b7a5-10715d30e143"
@@ -35969,19 +35960,14 @@ msgid "Research into the Nature of Curses: the Hanvaki Family"
 msgstr "저주의 본질에 대한 연구: 한바키 가문"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseHanvakis_Results.Array.data[0].LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "It is unclear whether anyone ever actually cursed the Hanvakis. Even if so, "
-#| "it must have been a very old familial curse — so old that all traces of the "
-#| "original magic have long faded in time. Still, this research has increased "
-#| "our understanding of arcane and divine magic."
 msgctxt "1327768c-61a1-4c05-b685-fe7fa644ab4e"
 msgid ""
 "It is unclear whether anyone ever actually cursed the Hanvakis. Even if so, it must have been a very old familial curse — so old that all traces of the original magic have long faded in time. Still, this research has increased our understanding of arcane and divine magic.\n"
 "We have acquired a deeper understanding of the nature of curses."
 msgstr ""
-"실제로 한바키 가문을 저주한 사람이 있는지 여부는 불분명합니다. 있다 할지라도, 아주 오래된 혈통적 저주이며, 너무 오래되서 원래 마법의"
-" 흔적은 시간 속으로 사라져버렸습니다. 그래도 우리는 이 연구를 통해 비전 마법과 신성 마법에 대해 더 깊이 알게 되었습니다."
+"실제로 한바키 가문을 저주한 사람이 있는지 여부는 불분명합니다. 그런 사람이 있었다 할지라도, 이 저주는 아주 오래된 혈통적 저주가 "
+"분명했으며, 너무 오래되다보니 원래 마법의 흔적은 시간 속으로 사라져버렸습니다. 그래도 우리는 이 연구를 통해 비전 마법과 신성 마법, "
+"그리고 이 저주의 본질에 대해 더 깊이 알게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseMarches_LocalizedDescription
 msgctxt "9a39ec9c-7e1b-4970-911e-4e178b7ddbb5"
@@ -35996,17 +35982,17 @@ msgid "Research into the Nature of Curses: Village on the Marches"
 msgstr "저주의 본질에 대한 연구: 날마치의 마을"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseMarches_Results.Array.data[0].LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "Our investigation found that the \"cursed wishing well\", which the locals believed was the source of their misfortune, is totally harmless and is not troubled by any magic. Dorsy, the rejected fiancee of a local girl, tried to use the well to curse the fey who he thought had bewitched his bride. The girl, Nyta, also used the well to curse her own father. Both of these curses bore fruit, but the well was clearly not the reason. Some other power may have intervened, to give the curses their power. Other theories are more complex: perhaps the curses don't require and binding power at all. – Perhaps Nyta and Dorsy somehow managed to bring them to life of their own will, though neither of them was a mage. That's all we know for now. Perhaps we shall learn more as our research continues.\n"
-#| "This research has increased our understanding of arcane and divine magic."
 msgctxt "696254aa-44f3-4e2e-ae05-05868c023ffe"
 msgid ""
 "Our investigation found that the \"cursed wishing well\", which the locals believed was the source of their misfortune, is totally harmless and is not troubled by any magic. Dorsy, the rejected fiancee of a local girl, tried to use the well to curse the fey who he thought had bewitched his bride. The girl, Nyta, also used the well to curse her own father. Both of these curses bore fruit, but the well was clearly not the reason. Some other power may have intervened, to give the curses their power. Other theories are more complex: perhaps the curses don't require and binding power at all. – Perhaps Nyta and Dorsy somehow managed to bring them to life of their own will, though neither of them was a mage. That's all we know for now. Perhaps we shall learn more as our research continues. This research has increased our understanding of arcane and divine magic.\n"
 "We have acquired a deeper understanding of the nature of curses."
 msgstr ""
-"조사 결과 주민들이 불행의 근원이라고 믿었던 \"저주받은 소원의 우물\"은 전혀 해롭지 않고 어떤 마법적 문제도 없는 것으로 밝혀졌습니다. 동네 처녀와의 약혼을 파혼당한 도르시는 페이가 신부를 홀렸다고 생각하고, 우물에 빌어 그를 저주했습니다. 소녀 니타도 우물에 빌어 친아버지를 저주했습니다. 두 저주 모두 실제로 일어났지만, 확실히 우물의 힘은 아니었습니다. 어떤 다른 힘이 개입해 저주를 실현했을 수도 있습니다. 다른 이론은 더 복잡합니다. 어쩌면 저주에는 소원도 구속력도 없었을지도 모릅니다. 니타와 도르시는 마법사가 아니었지만, 어떤 식으로든 스스로 이 현상을 일으켰다는 것입니다. 현재 우리가 아는 건 그게 전부입니다. 아마 연구를 계속하면 더 많은 것을 알아낼 수 있을 겁니다.\n"
-"우리는 이 연구를 통해 비전 마법과 신성 마법에 대해 더 깊이 알게 되었습니다."
+"조사 결과 주민들이 불행의 근원이라고 믿었던 \"저주받은 소원의 우물\"은 전혀 해롭지 않고 어떤 마법적 문제도 없는 것으로 "
+"밝혀졌습니다. 동네 처녀와의 약혼을 파혼당한 도르시는 페이가 신부를 홀렸다고 생각하고, 우물에 빌어 그를 저주했습니다. 소녀 니타도 "
+"우물에 빌어 친아버지를 저주했습니다. 두 저주 모두 실제로 일어났지만, 확실히 우물의 힘은 아니었습니다. 어떤 다른 힘이 개입해 저주를 "
+"실현했을 수도 있습니다. 다른 이론은 더 복잡합니다. 어쩌면 저주에는 소원도 구속력도 없었을지도 모릅니다. 니타와 도르시는 마법사가 "
+"아니었지만, 어떤 식으로든 스스로 이 현상을 일으켰다는 것입니다. 현재 우리가 아는 건 그게 전부입니다. 아마 연구를 계속하면 더 많은 "
+"것을 알아낼 수 있을 겁니다. 우리는 이 연구를 통해 비전 마법과 신성 마법, 그리고 이 저주의 본질에 대해 더 깊이 알게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseMothers_LocalizedDescription
 msgctxt "14af1df5-5f07-4dbc-8323-3d1b981cde3f"
@@ -36019,19 +36005,14 @@ msgid "Research into the Nature of Curses: Jenna Tannersen"
 msgstr "저주의 본질에 대한 연구: 제나 태너슨"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseMothers_Results.Array.data[0].LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "This case proves beyond any reasonable doubt that words possess true power: "
-#| "even a person with no magical ability at all can place a curse upon someone "
-#| "– even without knowing what they're doing. This research has increased our "
-#| "understanding of arcane and divine magic."
 msgctxt "9657f535-693f-45b0-945f-982b01efa808"
 msgid ""
 "This case proves beyond any reasonable doubt that words possess true power: even a person with no magical ability at all can place a curse upon someone – even without knowing what they're doing. This research has increased our understanding of arcane and divine magic.\n"
 "We have acquired a deeper understanding of the nature of curses."
 msgstr ""
 "이 사건은 말 속에 진정한 힘이 깃들어 있다는 것을 의심의 여지 없이 증명합니다. 마법적 능력이 전혀 없어도, 자기가 무슨 짓을 하고 "
-"있는지 몰라도 누군가를 저주할 수 있습니다. 우리는 이 연구를 통해 비전 마법과 신성 마법에 대해 더 깊이 알게 되었습니다."
+"있는지 몰라도 누군가를 저주할 수 있습니다. 우리는 이 연구를 통해 비전 마법과 신성 마법, 그리고 이 저주의 본질에 대해 더 깊이 알게 "
+"되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseNettles_LocalizedDescription
 msgctxt "db5e0bc8-9d7b-4697-9748-3ec4a679e354"
@@ -36046,20 +36027,14 @@ msgid "Research into the Nature of Curses: Davik Nettle"
 msgstr "저주의 본질에 대한 연구: 다빅 네틀"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseNettles_Results.Array.data[0].LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "It appears that curses are a mysterious, little-understood magical "
-#| "phenomenon. They can have devastating effects on their victims, but the "
-#| "source of their power is virtually unknown. Perhaps it would be well to keep"
-#| " an eye open for any other curses we might encounter: this research has "
-#| "increased our understanding of divine magic."
 msgctxt "f8915a29-6fed-4e53-998f-defdda268e09"
 msgid ""
 "It appears that curses are a mysterious, little-understood magical phenomenon. They can have devastating effects on their victims, but the source of their power is virtually unknown. Perhaps it would be well to keep an eye open for any other curses we might encounter: this research has increased our understanding of divine magic.\n"
 "We have acquired a deeper understanding of the nature of curses."
 msgstr ""
 "저주는 마법적 현상이지만 기이하고 이해하기 힘들어 보입니다. 피해자들에게 끔찍한 영향을 주지만, 그 힘의 근원은 사실상 알려진 바가 "
-"없습니다. 다른 저주를 만나게 된다면 주시할 필요가 있습니다. 우리는 이 연구를 통해 신성 마법에 대해 더 깊이 알게 되었습니다."
+"없습니다. 다른 저주를 만나게 된다면 주시할 필요가 있습니다. 우리는 이 연구를 통해 신성 마법과, 이 저주의 본질에 대해 더 깊이 알게 "
+"되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseofBloom_LocalizedDescription
 msgctxt "038c02ae-7e10-4c57-a2ed-de9a9724e446"
@@ -36075,23 +36050,16 @@ msgid "Research into the Nature of Curses: the Everblooming Flower"
 msgstr "저주의 본질에 대한 연구: 영원히 피는 꽃"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseofBloom_Results.Array.data[0].LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "We found no evidence that the Everblooming Flower came into being as the "
-#| "result of a curse. However, we do know that the mysterious woman who created"
-#| " the Flower was herself cursed, and that this curse demanded that she \"make"
-#| " ruins of kingdoms\". Perhaps the Flower was not the direct result of curse,"
-#| " but an instrument designed to fulfill its demands. As for the Flower "
-#| "itself, it is a most exceptional species. It comes from the First World and "
-#| "is infused with magic. Thanks to this research, it is now possible to "
-#| "cultivate plants from the First World in the Exotic Garden."
 msgctxt "c2f6e2b5-0147-4212-b970-ae11f07c1526"
 msgid ""
 "We found no evidence that the Everblooming Flower came into being as the result of a curse. However, we do know that the mysterious woman who created the Flower was herself cursed, and that this curse demanded that she \"make ruins of kingdoms\". Perhaps the Flower was not the direct result of curse, but an instrument designed to fulfill its demands. As for the Flower itself, it is a most exceptional species. It comes from the First World and is infused with magic. Thanks to this research, it is now possible to cultivate plants from the First World in the Exotic Garden.\n"
 "We have acquired a deeper understanding of the nature of curses."
 msgstr ""
-"우리는 영원히 피는 꽃이 저주의 결과로 생겨났다는 어떤 증거도 발견하지 못했습니다. 하지만, 우리는 \n"
-"이 꽃을 만들어낸 신비한 여인 그 자신이 저주받았다는 것을 알고 있습니다. 그리고 이 저주는 그녀가 \"왕국의 폐허를 만들도록\" 하고 있습니다. 어쩌면 꽃은 저주의 직접적인 결과가 아니라 목적을 이루기 위해 고안된 도구였을지도 모릅니다. 꽃 자체로 보자면 이것은 아주 특별한 종입니다. 마법으로 가득찬 태초 세계의 식물입니다. 이 연구 덕분에 이제 이국적인 정원에서 태초 세계의 식물을 재배할 수 있게 되었습니다."
+"우리는 영원히 피는 꽃이 저주의 결과로 생겨났다는 어떤 증거도 발견하지 못했습니다. 하지만, 우리는 이 꽃을 만들어낸 신비한 여인 그 "
+"자신이 저주받았다는 것을 알고 있습니다. 그리고 이 저주는 그녀가 \"왕국들의 폐허를 만들도록\" 하고 있습니다. 어쩌면 꽃은 저주의 "
+"직접적인 결과가 아니라 목적을 이루기 위해 고안된 도구였을지도 모릅니다. 꽃 자체로 보자면 이것은 아주 특별한 종입니다. 마법으로 가득찬 "
+"태초 세계의 식물입니다. 이 연구 덕분에 이제 이국적인 정원에서 태초 세계의 식물을 재배할 수 있게 되었습니다. 더불어, 우리는 이 "
+"저주의 본질에 대해 더 깊은 이해를 얻게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CursePolymorph_LocalizedDescription
 msgctxt "1379a518-ac4c-495a-a0f5-037345df2898"
@@ -36106,20 +36074,14 @@ msgid "Research into the Nature of Curses: Tartuk"
 msgstr "저주의 본질에 대한 연구: 타툭"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CursePolymorph_Results.Array.data[0].LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "It appears that Tartuk truly has been cursed. As usual, very little actual "
-#| "magic seems to have been put into the curse. How such a meager magical force"
-#| " could have such binding and dramatic results is beyond comprehension. "
-#| "Still, this research has advanced our knowledge of arcane magic."
 msgctxt "94f9035c-e058-42c1-aa66-939afe523c1b"
 msgid ""
 "It appears that Tartuk truly has been cursed. As usual, very little actual magic seems to have been put into the curse. How such a meager magical force could have such binding and dramatic results is beyond comprehension. Still, this research has advanced our knowledge of arcane magic.\n"
 "We have acquired a deeper understanding of the nature of curses."
 msgstr ""
 "타툭은 진짜로 저주 받은 것 같습니다. 늘 그렇듯이 마법이 실제로 저주에 기여한 것은 거의 없는 것 같습니다. 그런 빈약한 마법의 힘이 "
-"어떻게 그런 구속력과 극적인 결과를 가져올 수 있는지 이해할 수 없습니다. 그럼에도 불구하고, 우리는 이 연구를 통해 비전 마법에 대해 "
-"더 깊이 알게 되었습니다."
+"어떻게 그런 구속력과 극적인 결과를 가져올 수 있는지 이해할 수 없습니다. 그럼에도 불구하고, 우리는 이 연구를 통해 비전 마법과 이 "
+"저주의 본질에 대해 더 깊이 알게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseScytheTree_LocalizedDescription
 msgctxt "424aae98-952b-46a8-a027-e3b5644b4f98"
@@ -36134,21 +36096,14 @@ msgid "Research into the Nature of Curses: the Scythe Tree"
 msgstr "저주의 본질에 대한 연구: 대낫 나무"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseScytheTree_Results.Array.data[0].LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "It appears that this curse warped the very essence of its victim, turning a "
-#| "benevolent dryad into a ruthless monster, and trapping what was once good "
-#| "within an evil, twisted form. It is not clear, however, whether it might "
-#| "have been possible to release the one trapped inside. This research has "
-#| "increased our understanding of arcane magic."
 msgctxt "5e3bf41f-b51a-41be-bc06-f9a49ec27406"
 msgid ""
 "It appears that this curse warped the very essence of its victim, turning a benevolent dryad into a ruthless monster, and trapping what was once good within an evil, twisted form. It is not clear, however, whether it might have been possible to release the one trapped inside. This research has increased our understanding of arcane magic.\n"
 "We have acquired a deeper understanding of the nature of curses."
 msgstr ""
-"이 저주가 희생자의 본질을 뒤틀어, 자비로운 드라이아드를 무자비한 괴물로 만들고, 한때 선했던 것을 악하고 뒤틀린 형태 안에 가두어 버린"
-" 것으로 보입니다. 하지만 안에 갇힌 사람을 풀어줄 수 있었을지는 분명치 않습니다. 우리는 이 연구를 통해 비전 마법에 대해 더 깊이 "
-"알게 되었습니다."
+"이 저주가 희생자의 본질을 뒤틀어, 자비로운 드라이아드를 무자비한 괴물로 만들고, 한때 선했던 것을 악하고 뒤틀린 형태 안에 가두어 버린 "
+"것으로 보입니다. 하지만 안에 갇힌 사람을 풀어줄 수 있었을지는 분명치 않습니다. 우리는 이 연구를 통해 비전 마법과, 이 저주의 배경에 "
+"대해 더 깊이 알게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseWerewolf_LocalizedDescription
 msgctxt "200f4f18-ed4a-4da3-9861-30c58c922f97"
@@ -36163,21 +36118,14 @@ msgid "Research into the Nature of Curses: Ivar"
 msgstr "저주의 본질에 대한 연구: 이바르"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseWerewolf_Results.Array.data[0].LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "Ivar denies undergoing any magic ritual, and he bears no traces of any known"
-#| " spells. It seems the only thing that's changed is his own attitude towards "
-#| "his condition. — He's discovered that it can be a source of good as well as "
-#| "evil. In any case, this research has increased our understanding of divine "
-#| "magic."
 msgctxt "c11ed3b9-e7b7-44ec-ba90-f02dabd56979"
 msgid ""
 "Ivar denies undergoing any magic ritual, and he bears no traces of any known spells. It seems the only thing that's changed is his own attitude towards his condition. — He's discovered that it can be a source of good as well as evil. In any case, this research has increased our understanding of divine magic.\n"
 "We have acquired a deeper understanding of the nature of curses."
 msgstr ""
-"이바르는 어떤 마법 의식도 치르지 않았다고 했고, 그에게서 알려진 주문의 어떤 흔적도 찾을 수 없었습니다. 달라진 것은 자신의 상태에 "
-"대한 태도 뿐으로 보입니다. 그는 그게 악의 근원이 될 수도, 선의 원천이 될 수도 있다는 것을 깨달았습니다.  우리는 이 연구를 통해 "
-"신성 마법에 대해 더 깊이 알게 되었습니다."
+"이바르는 어떤 마법 의식도 치른 적이 없다고 주장했고, 실제로 그에게서는 어떠한 주문의 흔적도 찾을 수 없었습니다. 달라진 것은 본인의 "
+"상태를 대하는 자신의 태도 뿐으로 보입니다. 그는 그게 악의 근원이 될 수도, 선의 원천이 될 수도 있다는 것을 깨달았습니다. 어찌 "
+"되었든, 우리는 이 연구를 통해 신성 마법과, 이 저주의 배경에 대한 이해를 증진시킬 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/DreamscapeFastResearch_LocalizedDescription
 msgctxt "ddf13fea-c455-4dae-a182-db8aa245f437"
@@ -36334,16 +36282,13 @@ msgid ""
 msgstr "우리 상인과 외교관들이 문제를 해결했습니다. 더 이상 부당한 가격은 없을 것이며, 우리 경제는 계속해서 발전할 것입니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/HonorFallenClinic_LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "Jhod Kavken fought valliantly protecting the people of the capital from "
-#| "monsters. Honor him by opening a new hospital in his name."
 msgctxt "1f335078-4579-4ce6-a23d-845b4338b688"
 msgid ""
 "Jhod Kavken fought valliantly protecting the people of the capital from "
 "monsters. Honor his actions by opening a new hospital in his name."
 msgstr ""
-"조드 카브켄은 괴물들로부터 수도의 사람들을 보호하기 위해 맹렬히 싸웠습니다. 그의 이름으로 새 병원을 열어서 그를 기리십시오."
+"조드 카브켄은 괴물들로부터 수도의 시민들을 보호하기 위해 용맹하게 싸웠습니다. 그의 이름을 붙인 새 병원을 설립하여 그의 공적을 "
+"기념하십시오."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/HonorFallenClinic_LocalizedName
 msgctxt "8c15dfc2-5a78-4f6b-8c4b-d0ac6993d6b1"
@@ -36351,24 +36296,16 @@ msgid "Open a Hospital"
 msgstr "병원 개설"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/HonorFallenClinic_Results.Array.data[0].LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "The hospital opened its doors to its first patients. Jhod's name and "
-#| "dedication will never be forgotten."
 msgctxt "26106d87-8c0c-4595-9e2d-77375d18eeee"
 msgid "The hospital opened its doors to its first patients."
-msgstr "병원이 개설되어 첫 환자를 맞이했습니다. 조드의 이름과 헌신은 결코 잊혀지지 않을 것입니다."
+msgstr "병원이 개설되어 첫 환자를 맞이했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/HonorFallenGuardsHQ_LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "Kesten Garess fought valliantly holding back the monster invasion. Honor him"
-#| " by naming the new Guard Headquarters after him."
 msgctxt "2f5398c2-f4bb-42e5-8823-32587c74ac95"
 msgid ""
 "Kesten Garess fought valliantly holding back the monster invasion. Honor his"
 " actions by naming the new Guard Headquarters after him."
-msgstr "케스텐 가레스는 괴물의 침입을 막으며 맹렬히 싸웠습니다. 그의 이름으로 새 경비본부를 열어 그를 기리십시오."
+msgstr "케스텐 가레스는 괴물의 침략을 저지하고자 용맹하게 싸웠습니다. 새 경비본부에 그의 이름을 붙여서 그의 공적을 기념하십시오."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/HonorFallenGuardsHQ_LocalizedName
 msgctxt "a24a2b24-17e2-4a2c-b501-0fd30a72a10a"
@@ -36376,14 +36313,10 @@ msgid "Open Guard Headquarters"
 msgstr "경비본부 개설"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/HonorFallenGuardsHQ_Results.Array.data[0].LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "With the Guard Headquarters, the streets of the capital are safer than ever."
-#| " Kesten's name and courage will never be forgotten."
 msgctxt "c55ba5b4-43e9-4259-8b92-8af002a8e3a4"
 msgid ""
 "With the Guard Headquarters, the streets of the capital are safer than ever."
-msgstr "경비본부와 함께라면 수도의 거리는 그 어느 때보다 안전합니다. 케스텐의 이름과 용기는 결코 잊혀지지 않을 것입니다."
+msgstr "경비본부의 존재 덕분에, 수도의 거리는 그 어느 때보다도 안전합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/JointGoverningNivakta_LocalizedDescription
 msgctxt "125de0db-f2af-4f05-8cb1-9212bddae18f"
@@ -36754,11 +36687,13 @@ msgid ""
 "A ruler without a throne is but a fool. The thief must be found at any cost!"
 " The Minister can track down the hideout of this infamous bandit."
 msgstr ""
+"왕좌 없는 통치자는 바보에 불과합니다. 어떤 대가를 치르더라도 이 도둑을 찾아야 합니다! 장관이 이 악명 높은 도둑의 은신처를 추적할 수 "
+"있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/SearchforGoblinTrader_LocalizedName
 msgctxt "c74b35fd-5155-405d-8bd9-cf923d0ed817"
 msgid "Tracking the Throne Thief"
-msgstr ""
+msgstr "왕좌 도둑 추적"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/SearchforGoblinTrader_Results.Array.data[0].LocalizedDescription
 msgctxt "c16cc947-4a15-461f-8fdb-40711ddac517"
@@ -36767,6 +36702,8 @@ msgid ""
 "Thousand Voices. Surely the {mf|King|Queen} will want to have a word with "
 "the infamous bandit."
 msgstr ""
+"장관은 천 개의 목소리 지역의 어느 골짜기에서 이 도둑의 은신처를 찾아낼 수 있었습니다. 분명 {mf|왕|여왕}께서는 이 악명높은 도둑과 "
+"나눌 이야기가 있을 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/SearchingArmagLibrary_LocalizedDescription
 msgctxt "dbde72dd-13c4-4746-acb6-0687c304c5ef"
