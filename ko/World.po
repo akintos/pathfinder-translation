@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-07-09 21:00+0000\n"
-"Last-Translator: laz <joholja@gmail.com>\n"
+"PO-Revision-Date: 2020-07-11 13:49+0000\n"
+"Last-Translator: ayame <eveforce@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/world/ko/>\n"
 "Language: ko\n"
@@ -8123,7 +8123,7 @@ msgstr "코볼트의 사당에 경의를 표했습니다."
 #. Mechanics/Blueprints/World/GlobalMapEvents/KoboldTrail/Answ_KoboldTrail_EndFix_Text
 msgctxt "6979d927-6028-4b1c-b95f-a1a3de536b31"
 msgid "The baron{mf||ess} deemed it proper to respect the kobold shrine."
-msgstr "남작 코볼트신전을 존중하는 것이 적절하다고 생각했습니다."
+msgstr "남작은 코볼트신전을 존중하는 것이 적절하다고 생각했습니다."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/KoboldTrail/Answ_KoboldTrail_EndLeave_AlignmentShift.Description
 msgctxt "9811d7b6-3649-431a-bec1-428849087d9c"
@@ -8143,17 +8143,17 @@ msgstr "코볼트 사당을 파괴했습니다."
 #. Mechanics/Blueprints/World/GlobalMapEvents/KoboldTrail/Answ_KoboldTrail_EndTake_Text
 msgctxt "825c99eb-5329-492d-8436-4c9f1649dd5e"
 msgid "The baron{mf||ess} decided to destroy the kobold shrine."
-msgstr "남작{mf||여남작}은 코볼트의 사원을 파괴하기로 결정했습니다."
+msgstr "남작은 코볼트의 사원을 파괴하기로 결정했습니다."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/KoboldTrail/Answ_KoboldTrail_ExamineLog_Text
 msgctxt "a25d9101-f9a1-4871-ad46-67b080319b7f"
 msgid "We carefully examined the branch that would help us cross the river."
-msgstr "우리는 주의 깊게 강을 건너게끔 할 가지를 검사했습니다."
+msgstr "우리는 강을 건너게끔 할 나뭇가지를 주의 깊게 살펴보았습니다."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/KoboldTrail/Answ_KoboldTrail_ExamineRiver_Text
 msgctxt "3f484842-f84c-4be5-88f4-39348c8c9be2"
 msgid "Before deciding how to proceed, we carefully examined the river."
-msgstr "어떻게 나아갈지를 결정하기 전에, 우리는 강을 주의깊게 검사했습니다."
+msgstr "어떻게 나아갈지를 결정하기 전에, 우리는 강을 주의깊게 살펴보았습니다."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/KoboldTrail/Answ_KoboldTrail_FindOtherWay_Text
 msgctxt "490e8dad-cbab-44cc-b0b6-84deefe8c1ff"
@@ -8187,7 +8187,7 @@ msgstr "하루 동안 충분히 모험을 한 것으로 판단하고 돌아갔�
 msgctxt "bdf75bb6-47aa-49c8-8107-aa22bcc4f048"
 msgid ""
 "We turned and went back the way we'd come, leaving the Pale Hills behind."
-msgstr "우리는 창백한 언덕(Pale Hills)를 뒤로 하고 우리가 왔던 길로 되돌아 갔습니다."
+msgstr "우리는 창백한 언덕(Pale Hills)을 뒤로 하고 우리가 왔던 길로 되돌아 갔습니다."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/KoboldTrail/Answ_KoboldTrail_Leave_Text
 msgctxt "cd0df45e-3668-44ed-af06-aefd8906759c"
@@ -8231,14 +8231,14 @@ msgctxt "61974f12-0358-4cd3-b81a-69350e983495"
 msgid ""
 "[Choose a character] We talked it over and chose a volunteer to try crossing"
 " the river."
-msgstr "[캐릭터를 선택하시오] 우리는 이야기를 나누었고 강을 건널 자원자를 뽑았다."
+msgstr "[캐릭터를 선택] 우리는 의논 후, 강을 먼저 건너볼 자원자를 뽑았습니다."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/KoboldTrail/Answ_KoboldTrail_VolunteerRope_Text
 msgctxt "6774d1d8-491f-48ad-9ba9-9e7da83740a4"
 msgid ""
 "Precautions were definitely in order. We readied a rope to ensure the "
 "daredevil's safety."
-msgstr "예방조치는 확실히 순서대로 이루어졌다. 우리는 이 무모한 이의 안전을 지켜줄 밧줄을 준비했다."
+msgstr "예방조치는 확실히 제대로 되어있어야합니다. 우리는 안전을 위해 밧줄을 준비했습니다."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/KoboldTrail/Cue_15765_Text
 msgctxt "eb187c3b-0e18-45e2-8baa-1d5cb3f38d84"
@@ -8434,9 +8434,9 @@ msgid ""
 "how many kobolds have slipped on the wet bark and found a watery grave in "
 "the ice-cold river?"
 msgstr ""
-"워낙 두껍고 꽤나 단단했기 때문에 이 나뭇가지는 한가지 일을 해낼 수 있었어요. 그렇다고 그것이 미끄럽지 않거나 그 위에 발을 올리는 "
-"것이 아무일도 아닌 것 같은 탄탄한 건널목을 제공하는 것은 아니였죠. 얼마나 많은 코볼트들이 이 젖은 나무껍질 위에서 미끄러져서 이 "
-"얼음장같은 차가운 강에 수장되었을까요?"
+"이 나뭇가지는 매우 두껍고 꽤나 단단한것만은 확실했습니다. 그렇다고 그것이 미끄럽지 않거나 그 위에 아무렇지 않게 발을 올려도 될만큼 "
+"탄탄한 건널목을 제공하는 것은 아니였죠. 얼마나 많은 코볼트들이 이 젖은 나무껍질 위에서 미끄러져서 이 얼음장같은 차가운 강에 "
+"수장되었을까요?"
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/KoboldTrail/Cue_KoboldTrail_ExamineRiver_Text
 msgctxt "49f2a4a7-bf88-4ec2-ba94-39c411ebc20a"
@@ -8593,8 +8593,8 @@ msgid ""
 " bone pyramids on the far side, but it didn't look nearly strong enough for "
 "our party to cross."
 msgstr ""
-"음, \"다리\"는 좀 후한 편일지도 모릅니다. 둑에서 둑으로 이어지는 팔뚝만한 가지의 모습이었기 때문입니다. 저 멀리 저 작은 뼈 "
-"피라미드들이 보였기 때문에 코볼트가 건너기에 충분했을지 모르지만, 일행이 건너갈 만큼 튼튼해 보이지 않았습니다."
+"음, \"다리\"라고 부르기엔 좀 후한 편인것 같아요. 실제로는 강기슭에서 강넘어로 이어지는 팔뚝만한 긴 나뭇가지였기 때문입니다. 저 "
+"멀리 저 작은 뼈 피라미드들이 보였기 때문에 코볼트가 건너기에 충분했을지 모르지만, 일행이 건너갈 만큼 튼튼해 보이지 않았습니다."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/KoboldTrail/Cue_KoboldTrail_PullHimOutFail
 #. 1_Text
