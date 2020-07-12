@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-07-11 20:36+0000\n"
+"PO-Revision-Date: 2020-07-12 14:24+0000\n"
 "Last-Translator: laz <joholja@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
@@ -35002,11 +35002,9 @@ msgid "Strengthen Bartolomew's Skills as a Treasurer"
 msgstr "재무관으로서 바솔로뮤의 역량 강화"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_JhodAdvName_String
-#, fuzzy
-#| msgid "Strengthen Jhod's Skills as an Advisor"
 msgctxt "f663d08e-c319-4def-b699-014ec87ac37b"
 msgid "Strengthen Jhod's Skills as a High Priest"
-msgstr "보좌관으로서 조드의 역량 강화"
+msgstr "대사제로서 조드의 역량 강화"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_JhodFinish_String
 msgctxt "7b255cf8-1c7a-4266-8160-2d1c0ebc2c02"
@@ -35014,11 +35012,9 @@ msgid "Jhod's training is complete."
 msgstr "조드가 훈련을 완료했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_KassilAdvName_String
-#, fuzzy
-#| msgid "Strengthen Kassil's Skills as an Advisor"
 msgctxt "85e4c484-5193-446c-a695-64e9275bf106"
 msgid "Strengthen Kassil's Skills as a General"
-msgstr "보좌관으로서 카실의 역량 강화"
+msgstr "장군으로서 카실의 역량 강화"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_KassilFinish_String
 msgctxt "1a1ec20b-2aa0-42e4-b46a-87fa2706bf56"
@@ -35026,11 +35022,9 @@ msgid "Kassil's training is complete."
 msgstr "카실이 훈련을 완료했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_KestenAdvName_String
-#, fuzzy
-#| msgid "Strengthen Kesten's Skills as an Advisor"
 msgctxt "d85ae348-4ccc-4722-b1c1-fce2d4f08e14"
 msgid "Strengthen Kesten's Skills as a Warden"
-msgstr "보좌관으로서 케스텐의 역량 강화"
+msgstr "감시관으로서 케스텐의 역량 강화"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_KestenFinish_String
 msgctxt "ffaeab9d-9f01-4655-8acc-a01006c12c11"
@@ -35038,11 +35032,9 @@ msgid "Kesten's training is complete."
 msgstr "케스텐이 훈련을 완료했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_LebedaAdvName_String
-#, fuzzy
-#| msgid "Strengthen Lebeda's Skills as an Advisor"
 msgctxt "b4a7fabe-a490-44b9-8be5-0b50a74b0eb4"
 msgid "Strengthen Lebeda's Skills as a Regent"
-msgstr "보좌관으로서 레베다의 역량 강화"
+msgstr "섭정으로서 레베다의 역량 강화"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_LebedaFinish_String
 msgctxt "b2da8d27-4610-4be1-a2c7-b921df1bbfc4"
@@ -35050,11 +35042,9 @@ msgid "Lebeda's training is complete."
 msgstr "레베다가 훈련을 완료했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_MaegarAdvName_String
-#, fuzzy
-#| msgid "Strengthen Maegar's Skills as an Advisor"
 msgctxt "0ae3343e-b582-449b-a842-22717a752f2d"
 msgid "Strengthen Maegar's Skills as a Treasurer"
-msgstr "보좌관으로서 메이가르의 역량 강화"
+msgstr "재무관으로서 메이가르의 역량 강화"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_MaegarFinish_String
 msgctxt "775bf611-6fb6-4b15-8b28-7f56f037f140"
@@ -35062,11 +35052,9 @@ msgid "Maegar's training is complete."
 msgstr "메이가르가 훈련을 완료했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_ShandraAdvName_String
-#, fuzzy
-#| msgid "Strengthen Shandra's Skills as an Advisor"
 msgctxt "97ec9fe6-ebb8-421c-9594-790310eaff03"
 msgid "Strengthen Shandra's Skills as a Councilor"
-msgstr "보좌관으로서 샨드라의 역량 강화"
+msgstr "평의원으로서 샨드라의 역량 강화"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_ShandraFinish_String
 msgctxt "638c7e8f-abd9-44d5-9394-b6acbfb59877"
@@ -35104,11 +35092,9 @@ msgid "Strengthen Tsanna's Skills as a High Priestess"
 msgstr "고위사제로서 산나의 역량 강화"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_VordAdvName_String
-#, fuzzy
-#| msgid "Strengthen \"Maegar's\" Skills as an Advisor"
 msgctxt "1aadc765-9bb6-4f2d-8a6e-4ac0c65df5d8"
 msgid "Strengthen \"Maegar's\" Skills as a Magister"
-msgstr "보좌관으로서 \"메이가르\"의 역량 강화"
+msgstr "마법대신으로서 \"메이가르\"의 역량 강화"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/NPCLeadersImprovement/Shared_VordFinish_String
 msgctxt "ec1ce31f-e0fc-4294-aebe-09d7d2ee99ae"
@@ -35724,21 +35710,14 @@ msgid "Research into the Nature of Curses: Vordakai"
 msgstr "저주의 본질에 대한 연구: 보다카이"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseAncient_Results.Array.data[0].LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "Many forces were at play during the battle for the Oculus of Abaddon. But we"
-#| " learned that in order to curse someone, one has to know their true essence,"
-#| " the thing that defines their being. — Without this, the curse will have "
-#| "much less power over its victim. This research has increased our "
-#| "understanding of arcane magic."
 msgctxt "c3fc7b1a-be4b-4048-b285-35122c6a3bee"
 msgid ""
 "Many forces were at play during the battle for the Oculus of Abaddon. But we learned that in order to curse someone, one has to know their true essence, the thing that defines their being. — Without this, the curse will have much less power over its victim. This research has increased our understanding of arcane magic.\n"
 "We have acquired a deeper understanding of the nature of curses."
 msgstr ""
 "나락의 눈을 둘러싼 전투에는 다양한 힘들이 작용했지만, 누군가를 저주하기 위해서는 그들의 진정한 본질, 즉 무엇이 그 존재를 규정하는지 "
-"알아야 한다는 것을 배웠습니다. — 그렇지 않으면 저주는 훨씬 약해질 것입니다. 우리는 이 연구를 통해 비전 마법에 대해 더 깊이 알게 "
-"되었습니다."
+"알아야 한다는 것을 배웠습니다. — 그렇지 않으면 저주는 훨씬 약해질 것입니다. 우리는 이 연구를 통해 비전 마법과, 이 저주의 본질에 "
+"대해 더 깊이 알게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseAngel_LocalizedDescription
 msgctxt "c880e883-5dac-4b66-aff4-29177ff37759"
@@ -35753,13 +35732,6 @@ msgid "Research into the Nature of Curses: Tristian"
 msgstr "저주의 본질에 대한 연구: 트리스티안"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseAngel_Results.Array.data[0].LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "Although there's no evidence that Nyrissa actually cursed Tristian, it seems"
-#| " that the nymph has some special power over creatures that have lost "
-#| "something vital to them. This could be a clue to the nature of Nyrissa's own"
-#| " curse. This research has increased our understanding of arcane and divine "
-#| "magic."
 msgctxt "17520b02-47e6-41a7-829d-91942d7acbfe"
 msgid ""
 "Although there's no evidence that Nyrissa actually cursed Tristian, it seems that the nymph has some special power over creatures that have lost something vital to them. This could be a clue to the nature of Nyrissa's own curse. This research has increased our understanding of arcane and divine magic.\n"
@@ -35767,7 +35739,7 @@ msgid ""
 msgstr ""
 "나이리사가 실제로 트리스티안을 저주했다는 증거는 없지만, 자신에게 중요한 무언가를 잃어버린 자들에게 나이리사는 특별한 힘을 행사할 수 "
 "있는 것 같습니다. 이는 나이리사 그 자신에게 내려진 저주의 본질에 대한 단서가 될 수 있습니다. 우리는 이 연구를 통해 비전 마법과 "
-"신성 마법에 대해 더 깊이 알게 되었습니다."
+"신성 마법, 그리고 이 저주의 본질에 대해 더 깊이 알게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseBaldHill_LocalizedDescription
 msgctxt "7a95d5ba-5cc5-4ed0-81e2-6f4da2769330"
@@ -35786,24 +35758,16 @@ msgid "Research into the Nature of Curses: Bald Hilltop"
 msgstr "저주의 본질에 대한 연구: 민둥 언덕마루"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseBaldHill_Results.Array.data[0].LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "It seems the Bald Hilltop is indeed cursed from ancient times. This happened"
-#| " when dark rituals and the powers whose names are long forgotten held sway "
-#| "over this domain. The curse remains active even today. It withers any plant "
-#| "that would grow into the soil, and makes the very air around the place heavy"
-#| " and full of sorrow. However, the curse's target is just a small patch of "
-#| "land on top of the hill. It is unlikely that the curse caused any of the "
-#| "attacks on the {mf|barony|barony|kingdom|kingdom}."
 msgctxt "ed786d92-68a3-446e-bbd4-c4a2d2fe4f03"
 msgid ""
 "It seems the Bald Hilltop is indeed cursed from ancient times. This happened when dark rituals and the powers whose names are long forgotten held sway over this domain. The curse remains active even today. It withers any plant that would grow into the soil, and makes the very air around the place heavy and full of sorrow. However, the curse's target is just a small patch of land on top of the hill. It is unlikely that the curse caused any of the attacks on the {mf|barony|barony|kingdom|kingdom}.\n"
 "We have acquired a deeper understanding of the nature of curses."
 msgstr ""
 "민둥 언덕마루는 정말로 고대의 저주를 받았습니다. 그 저주는 오래전에 이름이 잊혀진 자들의 어둠의 의식과 힘이 이 영역을 지배할 때 "
-"내려졌습니다. 저주는 오늘날에도 여전히 작동하여, 흙에서 자라는 모든 식물을 시들게 하고, 그 지역의 공기를 슬픔으로 무겁게 짓누릅니다."
-" 하지만, 저주의 대상은 언덕 꼭대기에 있는 작은 땅덩어리에 불과합니다. 그 저주가 {mf|남작령|여남작령|왕국|왕국}에 대한 공격을 "
-"유발했을 가능성은 거의 없습니다."
+"내려졌습니다. 저주는 오늘날에도 여전히 작동하여, 흙에서 자라는 모든 식물을 시들게 하고, 그 지역의 공기를 슬픔으로 무겁게 짓누릅니다. "
+"하지만, 저주의 대상은 언덕 꼭대기에 있는 작은 땅덩어리에 불과합니다. 그 저주가 {mf|남작령|여남작령|왕국|왕국}에 대한 공격을 "
+"유발했을 가능성은 거의 없습니다.\n"
+"우리는 이 저주의 본질에 대해 더 잘 알게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseBarbarian_LocalizedDescription
 msgctxt "1d3d3479-3c1f-4de9-add5-9c5143ca5193"
@@ -35855,18 +35819,16 @@ msgid "Research into the Nature of Curses: Briar"
 msgstr "저주의 본질에 대한 연구: 찔레"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseBriar_Results.Array.data[0].LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "All evidence suggests that Briar is strongly connected with Nyrissa — and with strong feelings, like love, passion and affection. It's not just magical charm, but something more, which effects different creatures differently. It could even twist one's mind, but isn't it what love often does? Our research supposes that the subject's willingness could be the key to the riddle. Only when given and accepted willingly does Briar show its true potential.\n"
-#| "This research has increased our understanding of arcane and divine magic."
 msgctxt "a75964fc-52f3-4498-bc34-40269f42e71a"
 msgid ""
 "All evidence suggests that Briar is strongly connected with Nyrissa — and with strong feelings, like love, passion and affection. It's not just magical charm, but something more, which effects different creatures differently. It could even twist one's mind, but isn't it what love often does? Our research supposes that the subject's willingness could be the key to the riddle. Only when given and accepted willingly does Briar show its true potential. This research has increased our understanding of arcane and divine magic.\n"
 "We have acquired a deeper understanding of the nature of curses."
 msgstr ""
-"모든 증거가 찔레와 나이리사의 깊은 관련성을 보여주고 있습니다. 그것은 나이리사를 향해 사랑, 열정, 애정과 같은 강한 감정을 느끼도록 합니다. 이는 단순한 마법적 매혹 이상입니다. 이 효과는 대상에 따라 다르게 나타납니다. 심지어 마음을 뒤틀어 버릴 수도 있지만, 그게 바로 사랑이 가끔씩 벌이는 일 아니겠습니까? 우리 연구에서는 주체의 의지가 \n"
+"모든 증거가 찔레와 나이리사의 깊은 관련성을 보여주고 있습니다. 그것은 나이리사를 향해 사랑, 열정, 애정과 같은 강한 감정을 느끼도록 "
+"합니다. 이는 단순한 마법적 매혹 이상입니다. 이 효과는 대상에 따라 다르게 나타납니다. 심지어 마음을 뒤틀어 버릴 수도 있지만, 그게 "
+"바로 사랑이 가끔씩 벌이는 일 아니겠습니까? 우리 연구에서는 주체의 의지가 \n"
 "이 수수께끼의 열쇠라고 가정하고 있습니다. 그것을 기꺼이 주고 받을 때에만, 찔레의 진정한 잠재력이 드러날 것입니다.\n"
-"우리는 이 연구를 통해 비전 마법과 신성 마법에 대해 더 깊이 알게 되었습니다."
+"우리는 이 연구를 통해 비전 마법과 신성 마법, 그리고 이 저주의 본질에 대해 더 깊이 알게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseCandlemere_LocalizedDescription
 msgctxt "ad121556-0568-4c86-a21f-53a7aa9a9c13"
@@ -35884,19 +35846,13 @@ msgid "Research into the Nature of Curses: Candlemere"
 msgstr "저주의 본질에 대한 연구: 캔들미어"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseCandlemere_Results.Array.data[0].LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "Curses are mysterious, to be sure, but there is no curse at play in "
-#| "Candlemere. Its reputation stems from the strange portal located on the "
-#| "island and the will-o'-wisps that once lived around it. This research has "
-#| "increased our understanding of arcane and divine magic."
 msgctxt "2bfc28bf-eef7-4773-9db2-f1c8649e8c2c"
 msgid ""
 "Curses are mysterious, to be sure, but there is no curse at play in Candlemere. Its reputation stems from the strange portal located on the island and the will-o'-wisps that once lived around it. This research has increased our understanding of arcane and divine magic.\n"
 "We have acquired a deeper understanding of the nature of curses."
 msgstr ""
 "보통 저주가 불가사의 하긴 하지만, 캔들미어에는 저주가 내려지지 않았습니다. 그 소문은 섬에 있는 이상한 포탈과 거기 주변에 살았던 윌 "
-"오 위습 때문이었습니다. 우리는 이 연구를 통해 비전 마법과 신성 마법에 대해 더 깊이 알게 되었습니다."
+"오 위습 때문이었습니다. 우리는 이 연구를 통해 비전 마법과 신성 마법, 그리고 이 저주의 본질에 대해 더 깊이 알게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseDefaced_LocalizedDescription
 msgctxt "be0a5cee-6a52-4953-854a-b7f6065c311d"
@@ -35913,17 +35869,16 @@ msgid "Research into the Nature of Curses: the Defaced Sisters"
 msgstr "저주의 본질에 대한 연구: 얼굴잃은 자매들"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseDefaced_Results.Array.data[0].LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "Now we know for sure that the Defaced Sisters' affliction was the result of a curse, which affected both their faces and their souls, corrupting and ruining them. And yet this curse affected each of the Sisters differently. While some succumbed to evil without hesitation, others managed to retain some parts of their souls, and kept them safe from the curse's power. This leads us to the interesting conclusion that the power of curses is not absolute. There is some way to fight it, although we don't know yet how – at least, not yet.\n"
-#| "This research has increased our understanding of arcane and divine magic."
 msgctxt "f6e0a5cd-2f95-42f7-b9ce-d1eaa2f1fe68"
 msgid ""
 "Now we know for sure that the Defaced Sisters' affliction was the result of a curse, which affected both their faces and their souls, corrupting and ruining them. And yet this curse affected each of the Sisters differently. While some succumbed to evil without hesitation, others managed to retain some parts of their souls, and kept them safe from the curse's power. This leads us to the interesting conclusion that the power of curses is not absolute. There is some way to fight it, although we don't know yet how – at least, not yet. This research has increased our understanding of arcane and divine magic.\n"
 "We have acquired a deeper understanding of the nature of curses."
 msgstr ""
-"얼굴잃은 자매들은 얼굴과 영혼에 내려진 저주에 고통받다가 결국 타락하고 파멸하고 말았다는 것이 확실해졌습니다. 그럼에도 불구하고 이 저주는 자매들에게 각각 다른 영향을 끼쳤습니다. 어떤 이는 주저 없이 악에 굴복하는 반면, 어떤 이는 영혼의 일부를 간직하고 저주로부터 지켜냈습니다. 이렇게 되면 저주의 힘이 절대적이지 않다는 흥미로운 결론에 이르게 됩니다. 아직 우리가 알지는 못하지만 적어도 저주에 맞서 싸울 방법있다는 것은 분명합니다.\n"
-"우리는 이 연구를 통해 비전 마법과 신성 마법에 대해 더 깊이 알게 되었습니다."
+"얼굴잃은 자매들은 얼굴과 영혼에 내려진 저주에 고통받다가 결국 타락하고 파멸하고 말았다는 것이 확실해졌습니다. 그럼에도 불구하고 이 "
+"저주는 자매들에게 각각 다른 영향을 끼쳤습니다. 어떤 이는 주저 없이 악에 굴복하는 반면, 어떤 이는 영혼의 일부를 간직하고 저주로부터 "
+"지켜냈습니다. 이렇게 되면 저주의 힘이 절대적이지 않다는 흥미로운 결론에 이르게 됩니다. 아직 우리가 알지는 못하지만 적어도 저주에 맞서 "
+"싸울 방법있다는 것은 분명합니다.\n"
+"우리는 이 연구를 통해 비전 마법과 신성 마법, 그리고 이 저주의 본질에 대해 더 깊이 알게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseFirstCrown_LocalizedDescription
 msgctxt "c2221c2c-8d04-4877-912d-7b0ba646bc13"
