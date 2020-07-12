@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
 "PO-Revision-Date: 2020-07-12 14:24+0000\n"
-"Last-Translator: laz <joholja@gmail.com>\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -19616,7 +19616,7 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/FullBlooded_LocalizedName
 msgctxt "74009d07-beb1-4dc4-b1da-b7e0946883d2"
 msgid "The Full-Blooded"
-msgstr ""
+msgstr "순수 혈통"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/FullBlooded_Solutions.Entries.Array.data[5].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "a4fcac4a-a386-45bb-97a9-1fe0dbbccf91"
@@ -20183,6 +20183,8 @@ msgid ""
 "declined their offer. In her next sermon, she ridiculed the "
 "{mf|baron's|baroness'|King's|Queen's} inept henchmen."
 msgstr ""
+"{mf|남작|여남작|왕|여왕} 보좌관들이 선호하는 후보자가 제안을 거절했습니다. 다음 설교때 그녀는 {mf|남작|여남작|왕|여왕}의 "
+"어리석은 심복을 조롱했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/Shared_AbadarPriest_GS_String
 msgctxt "514043df-2cab-4c00-9148-1f8fe6550b0c"
@@ -20192,20 +20194,22 @@ msgid ""
 "{mf|baron|baroness|King|Queen}, the beacon of order and civilization in the "
 "realm."
 msgstr ""
+"한 여사제가 지지 제안을 받아들였습니다. 취임이 확정되자, 그녀는 독실한 신자들에게 {mf|남작|여남작|왕|여왕}을 질서와 문명의 "
+"봉화로서 지지해주기를 요청했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/Shared_AbadarPriest_S_String
 msgctxt "b7da1de0-5bc6-45a7-a592-47a49c7ac90d"
 msgid ""
 "One priestess accepted the offer of support, and successfully assumed her "
 "new post."
-msgstr ""
+msgstr "한 여사제가 지지제안을 받아들였고, 성공적으로 그녀의 취임이 확정되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/Shared_Celebrity_AF_String
 msgctxt "47457b92-3131-4622-9426-284c2b2feec8"
 msgid ""
 "The lector wasn't interested in visiting the capital, and soon left the "
 "country."
-msgstr ""
+msgstr "강사는 수도에 들르는데 별 관심이 없었고, 곧 바로 이 나라를 떠났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/Shared_Celebrity_GS_String
 msgctxt "4bf62df7-cec5-4d60-a4d7-28f3d9e9a5e8"
@@ -20227,7 +20231,7 @@ msgctxt "c7b7682b-0188-45f2-bbc2-2d5dd603dadd"
 msgid ""
 "The villains have been dealt with! – The guard tracked them down and "
 "arrested them during a night raid!"
-msgstr ""
+msgstr "악당들을 처리했습니다! 경비대가 이들의 뒤를 밟다가 한밤중에 습격하여 체포했습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic8/Shared_FalseLights_F_String
 msgctxt "77188c4b-1e47-43f5-9299-60fca7a54f69"
@@ -20605,7 +20609,6 @@ msgstr ""
 "좀 더 영리한 자들은 보좌관의 제안을 받아들여 이제는 더 이상 법을 위반하지 않고, 법을 수호하는 일을 돕고 있습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/InfectiousMadness_LocalizedDescription
-#, fuzzy
 msgctxt "92b1aef7-f7d8-4338-b8c2-dd7599f91026"
 msgid ""
 "A gang of dark fey from Uringen arrived at the capital. They're poisoning "
@@ -20613,8 +20616,8 @@ msgid ""
 "amazing dreams but shatters one's sanity. And indeed, the citizens are going"
 " insane."
 msgstr ""
-"유린젠에서 온 한 무리의 다크 페이들이 수도에 도착했습니다. 그들은 미드나이트 밀크로 주민들을 중독시키고 있습니다. 멋진 꿈을 꾸게 "
-"해주지만 이성을 부숴버리는 위험한 물질입니다. 그리고 실제로 시민들은 미쳐가고 있습니다."
+"유린젠에서 온 한 무리의 다크 페이들이 수도에 도착했습니다. 그들은 멋진 꿈을 꾸게 해주지만 이성을 부숴버리는 위험한 물질, 미드나이트 "
+"밀크로 잠자던 마을 사람들을 중독시켜 미쳐버리게 하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/InfectiousMadness_LocalizedName
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/InfectiousMadness_LocalizedName_String
@@ -20630,22 +20633,23 @@ msgid ""
 "priests' religious symbols. Not only did this instill fear in the people, "
 "but it turned them away from their gods."
 msgstr ""
+"사제들은 페이와 맞서 싸워보려 했지만, 참패를 당했습니다. 이 끔찍한 크리처들은 사제들의 성표를 보고도 눈 하나 깜짝 않고 신전을 "
+"훼손했습니다. 이 사건으로 사람들은 공포에 젖어 믿던 신에게서 등을 돌렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/InfectiousMadness_Solutions.Entries.Array.data[5].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "81163d1e-dabe-441b-baec-2c08d6a79a21"
 msgid ""
 "The priests failed to restrain the clever fey. They only continue to spread "
 "their poison. Nightmares grip the capital."
-msgstr ""
+msgstr "사제들은 이 간교한 페이를 저지하는데 실패했습니다. 이 페이들은 계속해서 독을 퍼뜨리고 있습니다. 악몽이 수도를 사로잡았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/InfectiousMadness_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription
-#, fuzzy
 msgctxt "555ebc5a-d72c-4c3d-963d-fcd0962de6d0"
 msgid ""
 "The priests' prayers banished the dark fey from the capital. The wild folk "
 "thought better of crossing such a serious foe."
 msgstr ""
-"사제의 기도가 수도로부터 다크 페이들을 내쫓았습니다. 야생의 무리들은 그런 힘겨운 상대를 거스르는게 좋은 생각이 아니라고 결론내렸습니다."
+"사제들이 기도를 올리자 다크 페이들이 수도에서 물러갔습니다. 이 야생의 종족은 이렇게 진지한 상대는 차라리 피하는게 낫다고 여겼습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/InfectiousMadness_Solutions.Entries.Array.data[5].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "48fe860a-7385-42fe-8c07-884ac22c1442"
@@ -20694,6 +20698,7 @@ msgid ""
 "Servants of the crown have failed to act decisively, and everyone on the "
 "capital is now haunted by nightmares. The situation is growing volatile."
 msgstr ""
+"군주의 수하들은 결단력있게 행동하지 못했고, 그 결과 수도의 모든 사람들이 악몽에 시달리고 있습니다. 일촉즉발의 상황으로 치닫고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/InfectiousMadness_Solutions.Entries.Array.data[7].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "4dd1f58c-f10a-40af-af31-ea81e4f2c0dc"
@@ -20702,6 +20707,8 @@ msgid ""
 "to help save the city from madness. She whispered to her brethren, and they "
 "flew from the capital at full speed."
 msgstr ""
+"전령은 광기에서 도시를 기꺼이 구해주겠다는 강력한 페이를 유린젠에서 어떻게든 찾아냈습니다. 그녀는 형제자매들에게 가능한 한 빨리 수도로 "
+"와달라고 속삭였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/InfectiousMadness_Solutions.Entries.Array.data[7].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "7fccabf4-adc2-4c96-a759-02421e83a84c"
@@ -20713,6 +20720,9 @@ msgid ""
 "them struggle amused him no end. They won't be returning to the criminal "
 "life any time soon."
 msgstr ""
+"전령은 그 무시무시하기로 소문난 페이, 용수철 다리 잭으로 추정되는 페이와의 계약에 성공했습니다. 그가 오자 다른 페이들은 겁을 집어먹고 "
+"모두 수도에서 도망쳤습니다. 페이만큼 현명하지 못했던 몇몇 현지 범죄자들이 잭의 함정에 걸려들었고, 잭은 그들이 고통스러워하는 모습을 "
+"오랫동안 즐겼습니다. 아마 당분간 범죄에 발을 들이지 않을 겁니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/InfectiousMadness_Solutions.Entries.Array.data[7].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "eede7ec4-15f0-4539-86b2-54299ce2fa59"
@@ -20723,6 +20733,8 @@ msgid ""
 "raided the guards' barracks. The citizens of the capital continue to go "
 "insane."
 msgstr ""
+"군주의 수하들은 이 문제에 도움을 청하기 위해 엠베스 여행자를 만났지만, 그 여행자는 다크 페이가 변장한 것이었습니다. 변장한 페이는 "
+"적당한 때를 보다가 경비대의 막사를  습격했습니다. 수도의 시민들은 계속해서 미쳐가고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/InfectiousMadness_Solutions.Entries.Array.data[7].Resolutions.Array.data[5].LocalizedDescription
 msgctxt "9fa0e9a7-2d00-479d-8ffa-aa054e744ce9"
@@ -20731,20 +20743,20 @@ msgid ""
 " fey, but they were unwilling to leave their forest. Insanity continues to "
 "stalk the capital."
 msgstr ""
+"군주의 수하들은 엠베스 여행자들에게 다크 페이를 퇴치해달라고 부탁하였지만, 그들은 숲을 떠나려 하지 않았습니다. 광기는 여전히 수도를 "
+"잠식하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/InfectiousMadness_Solutions.Entries.Array.data[7].Resolutions.Array.data[6].LocalizedDescription
-#, fuzzy
 msgctxt "85fb9efa-d012-4e1a-861b-8f27b28ab37b"
 msgid ""
 "For a sizable fee, Embeth Travelers agreed to help the guard. They used all "
 "the skill and experience they gained in the forest to drive the dark "
 "creatures from the city."
 msgstr ""
-"상당한 비용을 지불하고, 엠베스 여행자들은 경비원을 돕는데 동의했다. 그들은 숲에서 얻은 모든 기술과 경험을 도시로부터 어두운 크리처를 "
-"몰아내기 위해 사용했다."
+"상당한 비용을 지불하고, 엠베스 여행자들은 경비원을 돕는데 동의했습니다. 그들은 숲에서 얻은 모든 기술과 경험을 도시로부터 어두운 "
+"크리처를 몰아내기 위해 사용했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/InfectiousMadness_Solutions.Entries.Array.data[7].Resolutions.Array.data[7].LocalizedDescription
-#, fuzzy
 msgctxt "73219fdc-641c-4833-a0c1-c797af8f6a3c"
 msgid ""
 "Embeth Travelers gladly accepted the invitation to visit the capital. Not "
@@ -20752,8 +20764,8 @@ msgid ""
 "their way back home. They cleared the local rivers of some fuaths who had "
 "been sinking small merchant ships!"
 msgstr ""
-"엠베스 여행자들은 수도를 방문하라는 초대를 기꺼이 받아들였다. 그들은 어두운 깃털을 쫓아냈을 뿐만 아니라 집으로 돌아오는 길에 낚시질을 "
-"하며 즐거운 시간을 보냈다. 그들은 작은 상선들을 가라앉히고 있던 몇몇 화류들을 지역 강에서 제거했다!"
+"엠베스 여행자들은 수도로의 초대를 기꺼이 받아들였습니다. 그들은 다크 페이를 쫓아낸 데다가 돌아가는 길에는 낚시도 즐겼습니다. 그들은 "
+"지역의 강에서 작은 상선들을 가라앉히던 후아스를 모조리 쓸어버렸습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/InfectiousMadness_Solutions.Entries.Array.data[7].Resolutions.Array.data[8].LocalizedDescription
 msgctxt "4717579b-e88a-4119-aae9-89895e51d9f6"
@@ -20763,6 +20775,8 @@ msgid ""
 "angry. They changed their strategy: nightmares were now replaced with "
 "blinding rage and a need to kill."
 msgstr ""
+"경비대가 간신히 페이 하나를 붙잡았습니다. 페이는 보좌관의 지시에 따라 십자가에 못밖아 내걸었습니다. 다크 페이들은 화가나서 작전을 "
+"바꿨습니다. 악몽은 이제 통제 불능의 격노를 일으키며, 주변 사람을 죽이도록 만듭니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/InfectiousMadness_Solutions.Entries.Array.data[7].Resolutions.Array.data[9].LocalizedDescription
 msgctxt "7ed0fd7a-bd6f-42d2-8768-9b1891f25591"
@@ -20771,6 +20785,8 @@ msgid ""
 "failed so badly that it was the subject of ridicule for a long time "
 "thereafter. Meanwhile, insanity still stalks the capital."
 msgstr ""
+"보좌관의 부하들은 다크 페이들을 야습할 계획을 세웠습니다. 야습은 처참하게 실패하여 오랫동안 조롱거리로 남았습니다. 그 와중에도 광기는 "
+"여전히 수도를 잠식하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/Ley_lines_LocalizedDescription
 msgctxt "63965fd6-2a53-4ece-92e7-488ea5a44533"
@@ -31734,16 +31750,15 @@ msgid "Barbarian Threat"
 msgstr "야만족 위협"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/StorySupport/C41-BarbariansWarning1Month_Results.Array.data[0].LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "The army's commanders have determined that the barony's forces will be "
-#| "entirely depleted in one month."
 msgctxt "61d9b64f-dc9f-4041-88c7-cb48a17c4808"
 msgid ""
 "The army's commanders have determined that the barony's forces will be entirely depleted in one month.\n"
 "_______________\n"
 "New location discovered: Armag's Tomb."
-msgstr "군 지휘관들은 한 달 안에 남작령의 병력이 완전히 소진될 것이라고 판단했습니다."
+msgstr ""
+"군 지휘관들은 한 달 안에 남작령의 병력이 완전히 소진될 것이라고 판단했습니다.\n"
+"_______________\n"
+"새로운 장소 발견: 아르막의 무덤."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/StorySupport/C41-BarbariansWarning1Week_LocalizedDescription
 msgctxt "49795e56-b5d5-4f65-a2a3-e15bd7b18680"
@@ -34024,7 +34039,6 @@ msgid "The project is complete."
 msgstr "계획이 완료되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/EcoRank6-DiscountonEcoBuildings_LocalizedDescription
-#, fuzzy
 msgctxt "ff275ae5-2029-4394-ad23-8de5fec53029"
 msgid ""
 "Cost of buildings with static Economy bonus (Academy, Alchemist, Exotic "
@@ -35785,22 +35799,14 @@ msgid "Research into the Nature of Curses: Armag"
 msgstr "저주의 본질에 대한 연구: 아르막"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseBarbarian_Results.Array.data[0].LocalizedDescription
-#, fuzzy
-#| msgid ""
-#| "We are now sure: Armag was affected by the cursed sword Ovinrbaane. The "
-#| "curse was the source of his madness, but somehow it also showed him the "
-#| "truth, and in it he found the strength to fight against the lies that "
-#| "surrounded him. The nature of curses is truly amazing and rewards careful "
-#| "study. This research has increased our understanding of arcane and divine "
-#| "magic."
 msgctxt "433a58e7-d6ee-4bbc-a2c4-e22e7eeadf18"
 msgid ""
 "We are now sure: Armag was affected by the cursed sword Ovinrbaane. The curse was the source of his madness, but somehow it also showed him the truth, and in it he found the strength to fight against the lies that surrounded him. The nature of curses is truly amazing and rewards careful study. This research has increased our understanding of arcane and divine magic.\n"
 "We have acquired a deeper understanding of the nature of curses."
 msgstr ""
-"아르막은 저주받은 칼 오빈르베인의 영향을 받았습니다.그 저주가 그를 미치게 만들었지만, 어찌된 일인지 진실을 보여주기도 했습니다. 그 "
+"아르막은 저주받은 칼 오빈르베인의 영향을 받았습니다. 그 저주가 그를 미치게 만들었지만, 어찌된 일인지 진실을 보여주기도 했습니다. 그 "
 "속에서 그는 자신을 둘러싼 거짓말에 대항할 힘을 찾아냈습니다. 저주의 본질은 실로 놀랍고, 연구할수록 보람을 줍니다. 우리는 이 연구를 "
-"통해 비전 마법과 신성 마법에 대해 더 깊이 알게 되었습니다."
+"통해 비전 마법과 신성 마법, 그리고 이 저주의 본질에 대해 더 깊이 알게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/CurseBriar_LocalizedDescription
 msgctxt "2098fe35-a02b-49dc-94df-09d5c89fc6ba"
