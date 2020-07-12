@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-18 13:07+0900\n"
-"PO-Revision-Date: 2020-07-11 20:36+0000\n"
-"Last-Translator: ayame <eveforce@naver.com>\n"
+"PO-Revision-Date: 2020-07-12 14:24+0000\n"
+"Last-Translator: 진자스 <aodghaos@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/encyclopedia/ko/>\n"
 "Language: ko\n"
@@ -5118,11 +5118,16 @@ msgid ""
 "To set out for a location, click on one of the arrows near your party token. You can learn the whereabouts of significant locations by talking to characters or happening upon them during your journey. After learning about a location, you must find the way there yourself. Along the way, random encounters await. You may be attacked by monsters, or you may meet new acquaintances. After exiting the location of a random encounter, you will not be able to return there.\n"
 "Click this icon to exit the area."
 msgstr ""
+"다른 장소로 이동하려면 당신의 파티 근처에 있는 화살표를 클릭하십시오. 여행을 하면서 일어난 일이나 다른 캐릭터와의 대화를 통해서 중요한 "
+"장소에 대해 알아낼 수 있습니다. 장소에 대한 정보를 알아냈으면 그 이후부터는 당신이 직접 가는 길을 찾아야 합니다. 그러는 와중에 랜덤 "
+"인카운터가 발생할 수도 있습니다. 몬스터에게 공격당하거나 새로운 인물과 마주칠 수도 있지요. 랜덤 인카운터 지역에서 벗어난다면 다시는 그 "
+"지역으로 돌아갈 수 없습니다.\n"
+"지역을 벗어나려면 이 아이콘을 클릭하십시오."
 
 #. Mechanics/Blueprints/Encyclopedia/Map_Movement_Title
 msgctxt "2215e9fb-e114-4741-8d68-284ab3e88022"
 msgid "Map Movement"
-msgstr ""
+msgstr "맵 이동"
 
 #. Mechanics/Blueprints/Encyclopedia/Mastodon_BlockText_Text_String
 msgctxt "55e746db-9839-46aa-bf5a-aec9291fde6f"
@@ -5375,11 +5380,15 @@ msgid ""
 "character, especially for classes that heavily rely on their deities "
 "(paladins, clerics, inquisitors, druids, etc.)."
 msgstr ""
+"때로는 당신의 캐릭터가 양심에 따라어려운 결정을 내려하는 경우가 생길 수 있습니다. 이러한 결정은 캐릭터의 <link=\"백고사전:성향\""
+"><b>성향</b></link>에 영향을 끼칩니다. 점점 선과 악, 혹은 질서와 혼돈 쪽으로 치우치게 되지요. 대화문에서 캐릭터의 성향에 "
+"따라 특별한 선택지가 주어지기도 합니다. 당신의 선택은 캐릭터에 부정적인 결과를 가져올 수 있습니다. 특히나 신을 섬기는 직업이 그런 "
+"경향이 크지요. (팔라딘,클레릭,인퀴지터,드루이드,기타 등등)."
 
 #. Mechanics/Blueprints/Encyclopedia/Moral_Choices_Title
 msgctxt "e2406116-210c-4d9e-9a81-245edc54024c"
 msgid "Moral Choices"
-msgstr ""
+msgstr "도덕적 선택"
 
 #. Mechanics/Blueprints/Encyclopedia/MovanicDeva_BlockText_Text_String
 msgctxt "38e03fe0-ab12-46e3-9888-e7086d8fbe85"
@@ -5406,11 +5415,13 @@ msgid ""
 "location is inaccessible, the symbol will instead appear in the nearest "
 "accessible location."
 msgstr ""
+"이동하고 싶은 장소로 클릭하면 캐릭터가 그 곳으로 이동할 것입니다. 그 지점은 특별한 표시로 마크되어 있을 것입니다. 이동불가지역을 "
+"클릭할 시,  근처의 이동가능지역에 표시가 나타날 것입니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Movement_Title
 msgctxt "367be9b9-9a53-4774-bdd8-e4e1c19fb1f3"
 msgid "Movement"
-msgstr ""
+msgstr "이동"
 
 #. Mechanics/Blueprints/Encyclopedia/Move_Action_BlockText_Text
 msgctxt "1cf2a349-5642-493d-9e09-28b9a54b049e"
@@ -6057,7 +6068,7 @@ msgstr ""
 #. Mechanics/Blueprints/Encyclopedia/Rest_Title
 msgctxt "d8dc8de2-9b3b-4dce-8c5f-4dccc6b77696"
 msgid "Rest"
-msgstr ""
+msgstr "휴식"
 
 #. Mechanics/Blueprints/Encyclopedia/Roc_BlockText_Text_String
 msgctxt "fcbea8d0-616f-4f8d-ab31-ff0703a67ab5"
