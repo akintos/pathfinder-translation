@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-07-15 21:00+0000\n"
+"PO-Revision-Date: 2020-07-16 21:00+0000\n"
 "Last-Translator: 진자스 <aodghaos@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/world/ko/>\n"
@@ -8792,7 +8792,7 @@ msgstr ""
 msgctxt "76559051-f843-4f60-b00c-094236380061"
 msgid ""
 "Loud snoring came from the bushes in which Jubilost had hidden himself."
-msgstr "큰 코고는 소리가 주빌로스트가 숨어있던 덤불 속에서부터 터져나왔습니다."
+msgstr "커다랗게 코고는 소리가 주빌로스트가 숨어있던 덤불 속에서부터 터져나왔습니다."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/LongWait/Cue_33185_Text
 msgctxt "9f7fd5f7-37b5-4023-8937-8e17a31bb03d"
@@ -8800,8 +8800,10 @@ msgid ""
 "Amiri prodded the gnome in the ribs to wake him. \"Hey! No sleeping! Why are you so weak? Back home, everyone trained with runs up the hill before dawn! In full gear! Day and night! You became a real warrior, or you dropped dead!\"\n"
 "The gnome moved further away from the barbarian. \"Whatever,\" he said. \"I was taught to wash my hands before a meal, but do I come and lecture you?\""
 msgstr ""
-"아미리가 그 노움을 깨우기 위해 그를 꾹 찔렀습니다. \"어이, 자지말라고! 왜 그렇게 나약한거야? 돌아가면, 모두 다 새벽녘까지 언덕을 뛰며 훈련해야겠어! 중무장한 채로! 밤 낮 없이! 진짜 전사가 되거나, 아니면 죽는거지!\"\n"
-"노움은 그 바바리안으로부터 멀리 떨어졌습니다. \"뭐든간에,\" 그가 말했습니다. \"난 식사를 하기 전에 손을 씼으라고 배웠지, 그런데 내가 네게 잔소리를 하던가?\""
+"아미리가 그 노움을 깨우기 위해 그를 꾹 찔렀습니다. \"어이, 자지말라고! 왜 그렇게 나약한거야? 돌아가면, 모두 다 새벽녘까지 언덕을 "
+"뛰며 훈련해야겠어! 중무장한 채로! 밤 낮 없이! 진짜 전사가 되거나, 아니면 죽는거지!\"\n"
+"노움은 그 바바리안으로부터 멀리 떨어졌습니다. \"어쩌라고,\" 그가 말했습니다. \"난 식사를 하기 전에 손을 씻으라고 배웠지, 그런데 "
+"내가 네게 잔소리를 하던가?\""
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/LongWait/Cue_35986_Text
 msgctxt "3c246109-393f-4ca6-8722-4f34d4a35cc4"
@@ -8823,7 +8825,7 @@ msgid ""
 "our way? It's clear we won't be getting any bites here.\""
 msgstr ""
 "두 시간 동안, 주빌로스트는 책을 읽고 있었습니다. 해가 내려앉을 수록 그의 눈은 점점 책에 가까워지고 있었습니다. 그의 코가 책에 "
-"닿았을 때, 그는 책을 쾅 닫고는 그의 짐가방에 넣어버렸습니다. \"돌아갈 수 있을까? 여기선 우린 물리지도 못할게 뻔한데 말야.\""
+"닿았을 때, 그는 책을 쾅 닫고는 그의 짐가방에 넣어버렸습니다. \"돌아갈 수 있을까? 여긴 먹을거리도 없는 모양이고.\""
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/LongWait/Cue_38687_Text
 msgctxt "f1a73d8a-28cd-4131-9ba9-537c9425dc6a"
@@ -8849,8 +8851,8 @@ msgid ""
 "the priest slowly shook his head. I got chills just imagining what thoughts "
 "might be crossing his mind at that moment."
 msgstr ""
-"하림 한 해골과 손을 맞추었습니다. 그의 얼굴에 슬픈 미소와 함께, 사제는 천천히 그의 고개를 흔들었습니다. 저는 그 순간 그의 머릿속에"
-" 어떤 생각들이 떠올랐을지 상상하며 소름이 끼쳤습니다."
+"하림이 한 해골에 손을 댔습니다. 그의 얼굴에 슬픈 미소와 함께, 사제는 천천히 그의 고개를 흔들었습니다. 저는 그 순간 그의 머릿속에 "
+"어떤 생각들이 떠올랐을지 상상하며 소름이 끼쳤습니다."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/LongWait/Cue_51497_Text
 msgctxt "a4d44133-3a68-4f4f-9584-e25315eea729"
@@ -8874,7 +8876,7 @@ msgstr "남은 희망이 별로 없었기에, 우리는 트롤들에게 모습�
 #. Mechanics/Blueprints/World/GlobalMapEvents/LongWait/Cue_57504_Text
 msgctxt "d2f5964b-28aa-4321-aa28-9b5bc0de8997"
 msgid "\"What's your problem, trolls?\" Octavia yawned. \"Are you coming or not?\""
-msgstr "\"왜 그래, 트롤들?\" 옥타비아는 하품했다. \"할 거야 말 거야?\""
+msgstr "\"왜 그래, 트롤들?\" 옥타비아는 하품했습니다. \"할 거야 말 거야?\""
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/LongWait/Cue_59371_Text
 msgctxt "301f2c67-d7c9-456e-bd21-3ec9398f547e"
@@ -8929,7 +8931,7 @@ msgid ""
 "The trolls were really taking their time. The sun rose higher and higher, "
 "but we heard nothing from the woods but birdsong and the buzzing of insects."
 msgstr ""
-"트롤들은 정말로 느긋하게 시간을 보냈습니다. 해가 점점 높이 떠올랐지만, 우리는 새가 지저귀는 소리나 벌레들의 우는 소리 말고는 "
+"트롤들은 정말로 느긋하게 시간을 보내나 봅니다. 해가 점점 높이 떠올랐지만, 우리는 새가 지저귀는 소리나 벌레들의 우는 소리 말고는 "
 "숲으로부터 아무것도 들을 수 없었습니다."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/LongWait/Cue_73740_Text
@@ -8940,8 +8942,8 @@ msgid ""
 "mean, first we'd need a river to wend its way through these parts. But we're"
 " patient, aren't we? We can wait for that as well!\""
 msgstr ""
-"주빌로스트는 보란듯이 한숨을 쉬었습니다. \"물론이지, 서두를 필요 있겠어? 그냥 여기서 강물에 적 몸뚱아리가 흘러가버릴 때까지 기다리지"
-" 안 그래? 뭐, 우선은 여기까지 흘러올 강물이 필요하긴 할테지만. 우린 시간은 차고 넘치잖아? 그 꼬라지도 기다려보자고!\""
+"주빌로스트는 보란듯이 한숨을 쉬었습니다. \"물론이지, 서두를 필요 있겠어? 그냥 여기서 강물에서 적들의 시체가 툭 튀어나올 때까지 "
+"기다리지 그래? 뭐, 우선은 여기까지 흘러올 강물이 필요하긴 할테지만. 우린 시간은 차고 넘치잖아? 그 꼬라지도 기다려보자고!\""
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/LongWait/Cue_74806_Text
 msgctxt "b71b130a-231c-4b25-a0df-d710f75a0a42"
