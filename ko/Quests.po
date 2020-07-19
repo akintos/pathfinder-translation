@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
 "PO-Revision-Date: 2020-07-19 21:00+0000\n"
-"Last-Translator: 냠 <setsuna444@naver.com>\n"
+"Last-Translator: 진자스 <aodghaos@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/quests/ko/>\n"
 "Language: ko\n"
@@ -4898,8 +4898,8 @@ msgid ""
 "end to the horrible events that could well lead the country to its final "
 "fall."
 msgstr ""
-"남작령은 운명에 기로에 서있습니다. 우리 앞에 놓여진 운명은 구원일까요, 파멸일까요? {mf|baron's|baroness's}의 마지막"
-" 희망은 지난 몇 달동안 남작령을 휩슬었던 문제의 근원을 밝혀내고, 나라를 끝장낼 수 있는 끔찍한 재난에 종지부를 찍는 것 입니다."
+"남작령은 운명에 기로에 서있습니다. 우리 앞에 놓여진 운명은 구원일까요, 파멸일까요? 남작님의 마지막 희망은 지난 몇 달동안 남작령을 "
+"휩슬었던 문제의 근원을 밝혀내고, 나라를 끝장낼 수 있는 끔찍한 재난에 종지부를 찍는 것 입니다."
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/SeasonOfBloom/SeasonOfBloom_Title
 msgctxt "9a9b81e9-acb8-402b-9c38-aeaad66dea07"
@@ -10812,12 +10812,6 @@ msgid ""
 msgstr "드라근은 질서인도자를 복원하는 데 필요한 모든 것을 갖추었고, 갑옷을 훔치려는 도둑은 처벌되었습니다."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/DvarvenMaleArmorsmithLN/ArmorOfOathkeeper_Description
-#, fuzzy
-#| msgid ""
-#| "Dragn, a dwarven weaponsmith from South Narlmarches, told us all about some "
-#| "glorious armor called Lawbringer that used to belong to his grandfather. The"
-#| " armor was stolen and disassembled, but a skilled blacksmith might be able "
-#| "to restore it, if all its parts were recovered."
 msgctxt "6f47fb7c-ef6b-48e0-8f62-61399a710ec1"
 msgid ""
 "Dragn, a dwarven weaponsmith from South Narlmarches, told us all about some "
@@ -10825,7 +10819,7 @@ msgid ""
 "armor was stolen and disassembled, but a skilled blacksmith might be able to"
 " restore it, if all its parts were recovered."
 msgstr ""
-"날마치 남부의 드워프 무기 제작자 드라근은 그의 할아버지의 유품인 질서인도자라는 멋진 갑옷에 대해 이야기했습니다. 갑옷은 도난 당하고 "
+"날마치 남부의 드워프 무기 제작자 드란은 그의 할아버지의 유품인 질서인도자라는 멋진 갑옷에 대해 이야기했습니다. 갑옷은 도난 당하고 "
 "분해되었지만, 모든 부품을 회수하면 숙련된 대장장이가 이 갑옷을 복원할 수 있을 겁니다."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/DvarvenMaleArmorsmithLN/ArmorOfOathkeeper_Title
@@ -10858,23 +10852,17 @@ msgid "Return Onslaught to Dragn"
 msgstr "드란에게 질서인도자를 돌려줘라"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/DvarvenMaleArmorsmithLN/ThreePiecesOfGlory_Description
-#, fuzzy
-#| msgid ""
-#| "Lawbringer was divided into three parts and sold to three different "
-#| "merchants. The pieces must be reclaimed so that Dragn can restore the armor."
 msgctxt "e52848dd-8e0b-4ec9-87e4-57d728d1dbc1"
 msgid ""
 "Onslaught was divided into three parts and sold to three different "
 "merchants. The pieces must be reclaimed so that Dragn can restore the armor."
 msgstr ""
-"질서인도자는 세 조각으로 나뉘어 세 명의 다른 상인에게 팔려갔습니다. 드라근이 갑옷을 복원하려면 이 조각들을 모두 회수해야 합니다."
+"질서인도자는 세 조각으로 나뉘어 세 명의 다른 상인에게 팔려갔습니다. 드란이 갑옷을 복원하려면 이 조각들을 모두 회수해야 합니다."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/DvarvenMaleArmorsmithLN/ThreePiecesOfGlory_Title
-#, fuzzy
-#| msgid "Bring Dragn the three fragments of Lawbringer"
 msgctxt "99e635ac-3a5a-49cc-af4b-9dc99a0b6e15"
 msgid "Bring Dragn the three fragments of Onslaught"
-msgstr "질서인도자의 세 조각을 드라근에게 가져가라"
+msgstr "질서인도자의 세 조각을 드란에게 가져가라"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/DvarvenMaleArmorsmithLN/WaitForResult_Description
 msgctxt "64b8f866-75fd-4e41-881c-01b027d554ec"
@@ -10886,7 +10874,7 @@ msgstr "갑옷 부품이 대장장이에게 돌아갔습니다! 전설적인 갑
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/DvarvenMaleArmorsmithLN/WaitForResult_Title
 msgctxt "2d9f6d0a-f721-4809-a36b-58d273254d8c"
 msgid "Await news from Dragn"
-msgstr "드라근에게서 올 소식을 기다려라"
+msgstr "드란에게서 올 소식을 기다려라"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/ElvenFemaleWeaponsmithLE/Errand_Patronage/Errand_Patronage_desc_String
 msgctxt "598dd776-7e7b-4097-b659-a1697c78b842"
