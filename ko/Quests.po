@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-07-20 21:00+0000\n"
-"Last-Translator: JJ <howmindqwerty@gmail.com>\n"
+"PO-Revision-Date: 2020-07-21 21:00+0000\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/quests/ko/>\n"
 "Language: ko\n"
@@ -476,7 +476,7 @@ msgctxt "04ac4006-b1d2-489d-9d60-097ff91d4b73"
 msgid ""
 "The fate of the sisters has been decided. It's so difficult to find balance "
 "when people are so different yet dear to each other!"
-msgstr "자매의 운명이 결정됐습니다. 너무나 다른 두 사람이 서로를 진정 아낄 때, 둘 사이의  균형을 찾는 것은 무척 어려운 일입니다!"
+msgstr "자매의 운명이 결정됐습니다. 너무나 다른 두 사람이 서로를 진정 아낄 때, 둘 사이의 균형을 찾는 것은 무척 어려운 일입니다!"
 
 #. Mechanics/Blueprints/World/Quests/1DLC/Q3_Equilibrium/Q3_TT_Equilibrium_Description
 msgctxt "21d2a9fb-b069-444b-abe2-a9d01e1dd4b9"
@@ -1195,18 +1195,21 @@ msgid ""
 "send scouts to comb the area and find out whether there really is a dungeon "
 "there!"
 msgstr ""
+"요즘 우리 영웅은 무시무시한 괴물들이 우글거리는 음산한 동굴이 나오는 악몽으로 고생하고 있어요. 저는 거기에 뭔가 이유가 있을 거라고 "
+"생각해요! 다행히 우리 영웅은 그 끔찍한 환상에서 그곳이 어떻게 생겼는지 기억해낼 수 있었어요. 정찰대를 보내 그 지역을 샅샅이 뒤져 "
+"정말로 던전이 있을 지 알아낼 거예요!"
 
 #. Mechanics/Blueprints/World/Quests/3DLC/KillBosses/Obj_00_Project_Title
 msgctxt "085ecabe-d554-45ef-9ef0-ba3809d88528"
 msgid "Find the source of the strange dreams"
-msgstr ""
+msgstr "이상한 꿈의 근원을 찾아라"
 
 #. Mechanics/Blueprints/World/Quests/3DLC/KillBosses/Obj_01_GoToDungeon_Description
 msgctxt "92a856cd-9e5a-46a7-861a-27990daa529c"
 msgid ""
 "The dreams of the {mf|hero|heroine} are calling us to explore a new dungeon "
 "– so what are we waiting for?"
-msgstr "꿈속에서 우리 영웅이 새로운 던전으로 초대를 받았어요. 지금 당장 가지 않을 이유가 있을까요?"
+msgstr "우리 영웅이 던전을 탐사해달라는 꿈을 계속 꾸고 있어요. 지금 바로 가봐야 하지 않을까요?"
 
 #. Mechanics/Blueprints/World/Quests/3DLC/KillBosses/Obj_01_GoToDungeon_Title
 msgctxt "d2062eca-1776-4664-9e6c-3247dc7af0a2"
@@ -1222,6 +1225,8 @@ msgid ""
 "frightening entrance to a dungeon. And that means there's work to do! Let's "
 "see what adventures await us inside!"
 msgstr ""
+"함정이 아닐까 걱정되기도 했지만... 실은 재밌는 게 아무 것도 없을까 봐 더 걱정됐어요! 근데 그건 기우에 불과했죠. 우리는 적당히 "
+"공포스럽게 생긴 던전의 입구를 발견했어요. 바로 우리가 나설 차례라는 뜻이죠! 어떤 모험이 우리를 기다리고 있을지 가보자고요!"
 
 #. Mechanics/Blueprints/World/Quests/3DLC/KillBosses/Obj_02_ExploreDungeon_Title
 msgctxt "f2d1adc1-12c6-4a25-9e8a-a5f6cac13a7f"
@@ -1236,6 +1241,8 @@ msgid ""
 "friends or enemies? It's all so complicated... Anyway, we don't need to "
 "figure it out. – We already have our work cut out for us!"
 msgstr ""
+"데즈나의 사제인 그녀는 라마쉬투의 추종자가 되려고 여기 왔어요. 잠깐만요, 라마쉬투랑 로바거그가 무슨 관계가 있죠? 둘은 친구일까요, "
+"적일까요? 너무 복잡하네요... 뭐, 우리가 알바는 아니죠. 우리 몫은 이미 해치웠으니까요!"
 
 #. Mechanics/Blueprints/World/Quests/3DLC/KillBosses/Obj_03_KillBoss_1_Title
 msgctxt "8dda51e3-6adb-45be-8003-2e15b01935cd"
@@ -1249,6 +1256,8 @@ msgid ""
 " he found it! How many years (decades? centuries?) has he wandered here? The"
 " final page of his story should have been written a long time ago!"
 msgstr ""
+"이 여행자는 자기의 마지막 모험을 고대하고 있었어요... 그리고 안타깝게도 그 마지막을 맞이하고 말았네요. 대체 몇년 동안 이곳을 떠돌고 "
+"있던 걸까요? 수십년? 수백년? 이 여행기의 마지막 장은 아주 옛날에 적힌게 분명해요!"
 
 #. Mechanics/Blueprints/World/Quests/3DLC/KillBosses/Obj_04_KillBoss_2_Title
 msgctxt "f1334b0c-d8cf-4191-9ce4-8e0173dde8e1"
@@ -1262,11 +1271,13 @@ msgid ""
 "accompanied by a horde of monsters. Her tender voice has lured many heroes "
 "to their graves, but we won't let her fool us!"
 msgstr ""
+"불길하고 신비스러운 영창자는 한 무리의 괴물을 이끌며 던전의 어두컴컴한 회랑을 거닐고 있어요. 그녀는 그 다정한 목소리로 많은 영웅을 "
+"무덤으로 보냈죠. 그러나 우리에겐 통하지 않을 거예요!"
 
 #. Mechanics/Blueprints/World/Quests/3DLC/KillBosses/Obj_05_KillBoss_3_Title
 msgctxt "f338564b-f7e9-4213-a6c4-c59a523295f4"
 msgid "Overcome the Wicked Chanter"
-msgstr ""
+msgstr "사악한 영창자를 제압하라"
 
 #. Mechanics/Blueprints/World/Quests/3DLC/KillBosses/Obj_06_KillBoss_4_Description
 msgctxt "3a1f4ad4-7513-4617-a214-50bf71434120"
@@ -1275,6 +1286,8 @@ msgid ""
 "trapped in the Tenebrous Depths. We will have to face them both at once, "
 "since they cannot be defeated separately!"
 msgstr ""
+"강력한 위저드와 그가 다른 차원에서 소환한 괴물이 어둠의 심부 안에 갇혀있어요. 우리는 둘을 한꺼번에 상대해야 돼요. 그 둘을 따로따로 "
+"쓰러뜨릴 수는 없을테니까요!"
 
 #. Mechanics/Blueprints/World/Quests/3DLC/KillBosses/Obj_06_KillBoss_4_Title
 msgctxt "51b439e5-b0a8-4756-af6d-f42d6b05b044"
@@ -1289,6 +1302,8 @@ msgid ""
 "wildlife in our lands! We've cleared a path to the monster – now let's "
 "finish it for good!"
 msgstr ""
+"로바거그의 자식이 이토록 끔찍할 줄이야! 저는 이게 마을 하나 만큼의 크기로 자라서 대륙 전체를 집어삼킬 수 있다고 들었어요! 우리 땅에 "
+"이런 짐승은 필요 없어요! 이 괴물에게 가는 길은 이미 뚫어놨어요. 이제 이걸 영원히 끝장내버리자고요!"
 
 #. Mechanics/Blueprints/World/Quests/3DLC/KillBosses/Obj_07_KillBoss_FINAL_Title
 msgctxt "5fa55be3-fb3e-429f-9e33-1da5f6105efe"
@@ -1302,6 +1317,8 @@ msgid ""
 "triumphed, as always! Farewell, Spawn of the Beast – you will poison the "
 "earth beneath our feet no more!"
 msgstr ""
+"어휴! 저는 이 미궁에 끝이 없는게 아닌가 하는 생각이 들던 참이었어요! 그러나 언제나처럼 결국엔 우리가 이겼어요! 잘가라, 짐승의 "
+"자식. 더이상 우리 땅 밑을 오염시키지 못할거다!"
 
 #. Mechanics/Blueprints/World/Quests/3DLC/KillBosses/Quest_DLC3_KillBosses_Description
 msgctxt "0312d661-5448-4efb-be3c-f4e7a08a84e1"
@@ -1357,8 +1374,7 @@ msgctxt "a28d0d63-528b-46d8-95b0-042fee79f266"
 msgid ""
 "The time has come! Let us visit the Bald Hilltop and deal with this ancient "
 "curse that has our priests so worried!"
-msgstr ""
-"때가 됐습니다!  민둥 언덕마루(Bald Hilltop)에 찾아가 우리 성직자들을 그렇게 걱정하게 했던 고대의 저주를 상대하도록 합시다!"
+msgstr "때가 되었어요! 민둥 언덕마루에 찾아가 우리 사제들을 그렇게 걱정하게 했던 고대의 저주를 상대하도록 해요!"
 
 #. Mechanics/Blueprints/World/Quests/BloodMoon/BloodMoon1/CreaturesFirstMoon_Title_String
 msgctxt "0a1b2ec9-1e0c-4fcc-ac50-1e7423c2e4d9"
@@ -1441,7 +1457,7 @@ msgid ""
 "Our barony has had a tough time, but we're standing proud! But I've got a "
 "bad feeling that this second attack wasn't the last..."
 msgstr ""
-"우리의 남작령은 어려운 시간을 겪었지만, 꿋꿋하게 버텼냈습니다!  하지만 이 두번째 공격이 마지막이 아닐 것 같다는 나쁜 느낌이 "
+"우리의 남작령은 어려운 시간을 겪었지만, 꿋꿋하게 버텼냈습니다! 하지만 이 두번째 공격이 마지막이 아닐 것 같다는 나쁜 느낌이 "
 "드는군요...."
 
 #. Mechanics/Blueprints/World/Quests/BloodMoon/BloodMoon2/BloodMoon2_Description
@@ -1497,7 +1513,7 @@ msgid ""
 "beginning to get nervous…"
 msgstr ""
 "이건 무슨 종류의 저주일까요? 왜 이 시기에 공격이 이루어진걸까요? 그리고 가장 중요한 의문은— 이번에도 거미일까요, 아니면 더 무서운 "
-"존재들? 전 점점 긴장되기 시작하네요..."
+"존재들? 전 점점 긴장되기 시작하네요…"
 
 #. Mechanics/Blueprints/World/Quests/BloodMoon/BloodMoon3/BloodMoon3_CompletionText
 msgctxt "4585b7df-0857-4a77-a021-1191babac3d4"
@@ -1652,7 +1668,7 @@ msgid ""
 "adversary!"
 msgstr ""
 "이번엔 숲 그 자체가 깨어나 우리를 공격했습니다— 나무들, 관목들, 심지어 파리잡이까지 밤중에 일어나 우리 백성들의 집 앞에 "
-"나타났습니다!  하루빨리 이런 특이한 적들과 싸울 방법을 모색해야 합니다."
+"나타났습니다! 하루빨리 이런 특이한 적들과 싸울 방법을 모색해야 합니다!"
 
 #. Mechanics/Blueprints/World/Quests/BloodMoon/BloodMoon5/StartFifthMoon_Description
 msgctxt "f40057f2-11d8-4fad-962d-82daca257707"
@@ -1670,7 +1686,7 @@ msgstr "민둥 언덕마루(Bald Hilltop)에서의 공격에 대해 논의하라
 #. Mechanics/Blueprints/World/Quests/BloodMoon/BloodMoon5/SurviveFifthMoon_Title_String
 msgctxt "277a0c65-0c2b-45e0-9574-a52b7a4ef08b"
 msgid "A new attack is coming soon…"
-msgstr "새로운 공격이 머지 않았습니다."
+msgstr "새로운 공격이 머지 않았습니다…"
 
 #. Mechanics/Blueprints/World/Quests/BloodMoon/BloodMoon6/BloodMoon6_CompletionText
 msgctxt "94f3db7c-6fe5-42de-a2e6-39783bf1e876"
@@ -1735,7 +1751,7 @@ msgid ""
 "dangerous attack we have ever faced. But I know we'll hold out! – And then "
 "we'll take the offensive! Beware, Nyrissa! Your hour is nigh!"
 msgstr ""
-" \"고대의 저주\"의 어떤 공격도 우리 왕국을 이길 수 없고 우리 {mf|왕|여왕}의 결의를 흔들 수 없습니다! 최후의 전투-우리가 "
+"\"고대의 저주\"의 어떤 공격도 우리 왕국을 이길 수 없고 우리 {mf|왕|여왕}의 결의를 흔들 수 없습니다! 최후의 전투-우리가 "
 "겪어본 것 중 가장 위험한 공격-이 다가왔습니다. 하지만 우린 버텨낼겁니다! - 그 다음엔 반격에 나서야지요! 각오해라, 나이리사! 네 "
 "차례가 머지 않았다!"
 
@@ -1797,12 +1813,12 @@ msgstr "함정이 가득한 복도를 통과하십시오."
 #. Mechanics/Blueprints/World/Quests/C0_Prologue/FirstSteps/Add_3-3_Harrim_Description
 msgctxt "c47fa906-8975-4c33-82bf-a184940a06ec"
 msgid "Help the wounded dwarf."
-msgstr "부상당한 드워프를 도와라"
+msgstr "부상당한 드워프를 도와라."
 
 #. Mechanics/Blueprints/World/Quests/C0_Prologue/FirstSteps/Add_3-4_Fire_Description
 msgctxt "05d79154-971b-4034-97ac-84ef3b074c7c"
 msgid "Go through the fire."
-msgstr "화재를 통과해라"
+msgstr "화재를 통과하라."
 
 #. Mechanics/Blueprints/World/Quests/C0_Prologue/FirstSteps/Obj_1-GoOut_Description
 msgctxt "fd7f9667-8156-4e7c-a2ee-8d017666192d"
@@ -1884,8 +1900,6 @@ msgstr ""
 "살아남았을 뿐입니다. 이것이 도둑맞은 땅을 향한 우리의 원정이 취소됨을 의미할까요? 소드로드가 뭐라고 할지 들어봅시다!"
 
 #. Mechanics/Blueprints/World/Quests/C0_Prologue/FirstSteps/Obj_5_TalkJamandi_Title
-#, fuzzy
-#| msgid "Speak with Jamandi."
 msgctxt "74f82bb3-e598-44d9-9d9a-c5cb460cd7d4"
 msgid "Speak with Jamandi"
 msgstr "자만디와 대화하라"
@@ -2125,8 +2139,7 @@ msgid ""
 "While we fought the bloodthirsty beasts at the Temple of the Elk, Tartuccio "
 "might have found his artifact, or done something else insidious!"
 msgstr ""
-"우리가 엘크의 신전(Temple of the Elk)에서 피에 굶주린 맹수들과 싸울 동안, 타투치오는 이미 유물을 찾았거나 뭔가 교활한 "
-"짓을 했을지도 모르겠습니다!"
+"우리가 엘크의 신전에서 피에 굶주린 맹수들과 싸울 동안, 타투치오는 이미 유물을 찾았거나 뭔가 교활한 짓을 했을지도 모르겠습니다!"
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/BitterRival/Addendum_TartuccioChamber_Description
 msgctxt "812a9440-deb2-42c6-a32b-64505b29208f"
@@ -2189,7 +2202,7 @@ msgctxt "8c225042-91ed-4e5a-868b-07ba689fa99b"
 msgid ""
 "Bring to the mite gatekeeper the mandibles of a huge spider from the depths "
 "of the caves."
-msgstr "동굴 깊숙한 곳에서 거대 거미의 아래턱뼈를 구해 마이트 문지기에게 가져다 주십시오"
+msgstr "동굴 깊숙한 곳에서 거대 거미의 아래턱뼈를 구해 마이트 문지기에게 가져다 주십시오."
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/ErrandFindBugSycamoreDungeon/FindBug_Errand_Title
 msgctxt "43e12c30-e28a-45d7-994c-7ee1d6976817"
@@ -2206,7 +2219,7 @@ msgctxt "7e0650e2-6ba1-4c4d-8647-bf878558b888"
 msgid ""
 "Kill the kobold Chief Sootscale and report back to your ally, the mite "
 "Queen."
-msgstr "코볼트 족장 검댕비늘(Sootscale)을 죽이고 당신의 동맹인 마이트 여왕에게 보고하라"
+msgstr "코볼트 족장 검댕비늘을 죽이고 당신의 동맹인 마이트 여왕에게 보고하라."
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/ErrandKillKoboldChief/KillKoboldChief_Errand_Title
 msgctxt "6cc45c41-43a8-4cee-8681-8e2bade2b21c"
@@ -2221,7 +2234,7 @@ msgstr "이 일은 이제 할 일 목록에서 지워도 되겠네요."
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/ErrandKillMiteQueen/KillMiteQueenErrand_Description
 msgctxt "abd905b7-a11d-463a-9794-48a8667d5f69"
 msgid "Kill the mite Queen and report back to your ally, the kobold Chief."
-msgstr "마이트 여왕을 죽이고 당신의 동맹인 코볼트 족장에게 보고하라"
+msgstr "마이트 여왕을 죽이고 당신의 동맹인 코볼트 족장에게 보고하라."
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/ErrandKillMiteQueen/KillMiteQueenErrand_Title
 msgctxt "5e3c39f9-5307-4ab1-ac80-98ac6ceb873a"
@@ -2238,7 +2251,7 @@ msgctxt "c5a752df-dc40-483f-a1f3-99bd9dc463b4"
 msgid ""
 "Recover Svetlana Leveton's wedding ring from the bandits and return it to "
 "her."
-msgstr "스베틀라나 레베톤의 결혼 반지를 도적때로부터 되찾아 그녀에게 되돌려줘라"
+msgstr "스베틀라나 레베톤의 결혼 반지를 도적때로부터 되찾아 그녀에게 되돌려줘라."
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/ErrandSvetlanasRingOTP/SvetlanasRing_Title
 msgctxt "2f89cd6d-ab52-4908-9e9e-0f3979f36667"
@@ -2289,13 +2302,13 @@ msgid ""
 " Elk lost somewhere in the wilds. He asked us to tell him if we happen to "
 "find it!"
 msgstr ""
-"에라스틸의 클레릭인 조드는 들판 어딘가 버려전 엘크의 신전(Temple of the Elk)이 나타난 자신의 비전에 대해 얘기했습니다. "
-"그는 어쩌다 우리가 그곳을 찾게 된다면 얘기해달라고 부탁했습니다!"
+"에라스틸의 클레릭인 조드는 들판 어딘가 버려전 엘크의 신전이 나타난 자신의 비전에 대해 얘기했습니다. 그는 어쩌다 우리가 그곳을 찾게 "
+"된다면 얘기해달라고 부탁했습니다!"
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/Errand_JhodFindTemple/JhodFindTemple_errand_Title
 msgctxt "39e6794b-f7cf-4f6a-a3a5-f64eb83d1b37"
 msgid "Find the Temple of the Elk"
-msgstr "엘크의 신전(Temple of the Elk)을 찾아라"
+msgstr "엘크의 신전을 찾아라"
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/Errand_NettlesCrossing_KillStaglord/Errand_NettlesCrossing_KillStaglord_CompletionText
 msgctxt "8d42321d-7bfd-405e-baa7-53ce6b381813"
@@ -2305,7 +2318,7 @@ msgstr "이 일은 이제 할 일 목록에서 지워도 되겠네요."
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/Errand_NettlesCrossing_KillStaglord/Errand_NettlesCrossing_KillStaglord_Description
 msgctxt "9766d8d6-3230-4d1d-928e-86e7420cf79a"
 msgid "Kill the Stag Lord and return to Nettle's Crossing."
-msgstr "수사슴 군주를 살해하고 네틀의 교차로(Nettle's Crossing)로 돌아가시오"
+msgstr "수사슴 군주를 살해하고 네틀의 건널목으로 돌아가시오."
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/Errand_NettlesCrossing_KillStaglord/Errand_NettlesCrossing_KillStaglord_Title
 msgctxt "d249eb3d-10a6-4872-99ac-0ae688da9647"
@@ -2320,7 +2333,7 @@ msgstr "이 일은 이제 할 일 목록에서 지워도 되겠네요."
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/Errand_SycamoreOutdoor_FeedWorg/Errand_SycamoreOutdoor_FeedWorg_Description
 msgctxt "106ad545-bd3e-4751-8b85-fc39aa86e8b9"
 msgid "Send someone to the worg for lunch."
-msgstr "점심거리로 누군가를 워그에게 보내라"
+msgstr "워그의 점심거리로 누군가를 보내라."
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/Errand_SycamoreOutdoor_FeedWorg/Errand_SycamoreOutdoor_FeedWorg_Title
 msgctxt "7e0c8395-9eb0-4ebf-b65d-e094d0aea3c9"
@@ -2335,7 +2348,7 @@ msgstr "이 일은 이제 할 일 목록에서 지워도 되겠네요."
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/Errand_SycamoreOutdoor_KillWorg/Errand_SycamoreOutdoor_KillWorg_Description
 msgctxt "59595343-2b46-441d-a781-5e6c791695df"
 msgid "Kill the worg northeast of the Old Sycamore."
-msgstr "올드 시카모어Old Sycamore)의 북동쪽에 있는 워그를 죽여라"
+msgstr "오래된 시카모어 나무의 북동쪽에 있는 워그를 죽여라."
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/Errand_SycamoreOutdoor_KillWorg/Errand_SycamoreOutdoor_KillWorg_Title
 msgctxt "0da9c0dc-f5ab-4c02-af4b-98822789f1f9"
@@ -2350,7 +2363,7 @@ msgstr "이 일은 이제 할 일 목록에서 지워도 되겠네요."
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/Errand_Tuskgutter/Errand_Tuskgutter_Description
 msgctxt "6aad9cb7-8a36-46ef-a837-0b76e4275c47"
 msgid "Kill the giant boar known as Tuskgutter and bring his head to Oleg."
-msgstr "터스크거터(Tuskgutter)로 알려진 거대 맷돼지를 죽이고 올렉에게 머리를 전달하시오"
+msgstr "터스크거터라는 거대 맷돼지를 죽이고 올렉에게 머리를 전달하시오."
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/Errand_Tuskgutter/Errand_Tuskgutter_Title
 msgctxt "4fd2a105-f735-4d8f-9a5e-e1a9b158548c"
@@ -2466,9 +2479,9 @@ msgid ""
 "repeating the same words over and over: \"Shrike River.\" We should go there"
 " and discover the source of these terrible dreams!"
 msgstr ""
-"최근 우리의 영웅은 잠을 이루지 못했습니다 - 침구의 빈대 때문은 아니에요! 눈을 감을 때마다 h{mf|im|er}를 고문하는 악몽이 "
-"나타나거든요 - 부패한 익사체가 계속해서 같은 단어를 반복하는 꿈이지요: \"쉬라이크 강(Shrike River)\". 그곳으로 가서 이"
-" 끔찍한 꿈의 근원이 무엇인지 알아봐야 겠습니다."
+"최근 우리의 영웅은 잠을 이루지 못했습니다 - 침구의 빈대 때문은 아니에요! 눈을 감을 때마다 {mf|그|그녀)를 고문하는 악몽이 "
+"나타나거든요 - 부패한 익사체가 계속해서 같은 단어를 반복하는 꿈이지요: \"쉬라이크 강\". 그곳으로 가서 이 끔찍한 꿈의 근원이 "
+"무엇인지 알아봐야 겠습니다."
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/NettlesCrossing/Objective_FindNettle_Title
 msgctxt "907b4c3b-e7ff-4aef-9f85-25d344cc63b2"
@@ -2504,7 +2517,7 @@ msgid ""
 msgstr ""
 "수사슴 군주의 피가 그가 더럽힌 땅을 적셨을 때, 안도의 숨을 내쉰사람은 우리뿐이 아니었습니다. 우린 이 저주받을 도적이 우리가 오기 "
 "전까지 해쳤던 수없이 많은 무고한 생명을 위해 정의를 실현했습니다. 아아, 하지만 우린 희생자의 이름 중 오직 하나만을 알 뿐입니다. "
-"명복을 빌께요, 다빅 네틀!  "
+"명복을 빌께요, 다빅 네틀!"
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/NettlesCrossing/Quest_NettlesCrossing_Description
 msgctxt "3af7ce3a-631c-4e22-9a89-36960d3724a4"
@@ -2612,7 +2625,7 @@ msgid ""
 msgstr ""
 "벌집을 헤집어 놓은 듯 싶습니다! 교역소에서 일어난 전투는 도적들을 더 화나게만 했고, 곧 무리 전체가 여기에 올 것입니다! 자만디 "
 "알도리는 이 교역소를 안전하게 지키는 것도 남작의 작위를 받는 조건 중 하나라고 분명히 못박아뒀습니다. 그러니 무슨 일이 있어도 이곳과 "
-"이곳에 사는 사람들을 보호해야 합니다! "
+"이곳에 사는 사람들을 보호해야 합니다!"
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/StolenLand/02_DefendOTP_Title
 msgctxt "c74661d4-877b-4039-ae0e-6837415e579f"
@@ -2692,13 +2705,13 @@ msgid ""
 "shall face the source of that ominous fog."
 msgstr ""
 "우린 수사슴 군주의 과거와 그의 잔인한 드루이드 아버지에 대해 알아냈습니다. 우리은 영웅이 보이지 않는 보좌관과 대화를 나눈 후, 결정을 "
-"내렸습니다. 이제 앞으로 나아갈 때입니다! 고대 엘크의 신전(Temple of the Elk)이 우릴 기다립니다 - 거기서 우린 이 "
-"불길한 안개의 근원을 마주하게 될 것입니다.."
+"내렸습니다. 이제 앞으로 나아갈 때입니다! 고대 엘크의 신전이 우릴 기다립니다 - 거기서 우린 이 불길한 안개의 근원을 마주하게 될 "
+"것입니다.."
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/StolenLand/08_GoToTempleOfElk_Title
 msgctxt "f9ee03b6-2bde-4ec3-bb25-43ab12b92cbc"
 msgid "Uncover the mystery of the ancient Temple of the Elk"
-msgstr "고대 엘크의 신전(Temple of the Elk)의 미스터리를 밝혀라"
+msgstr "고대 엘크의 신전의 미스터리를 밝혀라"
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/StolenLand/09_DefeatMonsters_Description
 msgctxt "90c70e74-3171-453d-9c6a-e694ad973c29"
@@ -2709,14 +2722,14 @@ msgid ""
 "these dangerous beasts is a worthy task for us! We can handle them — and "
 "then we'll go talk to that priest again."
 msgstr ""
-"엘크의 신전(Temple of the Elk)에서 마주친 성직자 트리스티안은 우리가 가장 우려하던 점을 확인해 주었습니다! 안개는 사악한"
-" 마법으로 소환된 것이고, 신전 안에 있는 모든 악한 짐승들을 소탕하기 전까진 사라지지 않을 것이라고 합니다. 음, 이런 위험한 짐승들과"
-" 싸우는 건 우리에게 걸맞는 일이지요!  이들을 처리하고 나선 - 트리스티안과 다시 대화를 나눠봐야 할겁니다."
+"엘크의 신전에서 마주친 성직자 트리스티안은 우리가 가장 우려하던 점을 확인해 주었습니다! 안개는 사악한 마법으로 소환된 것이고, 신전 "
+"안에 있는 모든 악한 짐승들을 소탕하기 전까진 사라지지 않을 것이라고 합니다. 음, 이런 위험한 짐승들과 싸우는 건 우리에게 걸맞는 "
+"일이지요! 이들을 처리하고 나선 - 트리스티안과 다시 대화를 나눠봐야 할겁니다."
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/StolenLand/09_DefeatMonsters_Title
 msgctxt "d60d278e-a2b4-4d88-a63b-b6f72798e735"
 msgid "Defeat the carnivorous beasts at the Temple of the Elk"
-msgstr "엘크의 신전(Temple of the Elk)에 있는 육식 짐승들을 처리하라"
+msgstr "엘크의 신전에 있는 육식 짐승들을 처리하라"
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/StolenLand/10_ReturnToOTP_Description
 msgctxt "6bd7e312-9a27-4a99-9925-b0acb37bc1e9"
@@ -2725,13 +2738,13 @@ msgid ""
 "post, catch up on the news and discuss our future plans. And, of course, "
 "tell Jhod what happened in the Temple!"
 msgstr ""
-"이제 엘크의 신전(Temple of the Elk)이 정화됐으니, 교역소로 돌아가 새로운 소식을 듣고 앞으로의 계획을 논의해야겠습니다. "
-"물론, 조드에게 신전에서 무슨 일이 일어났었느지 얘기해 주어야겠지요"
+"이제 엘크의 신전이 정화됐으니, 교역소로 돌아가 새로운 소식을 듣고 앞으로의 계획을 논의해야겠습니다. 물론, 조드에게 신전에서 무슨 일이 "
+"일어났었느지 얘기해 주어야겠지요"
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/StolenLand/10_ReturnToOTP_Title
 msgctxt "b6317a4f-a399-4a5c-af03-ecd67fd1c84c"
 msgid "Talk to Jhod about our adventures in the Temple of the Elk"
-msgstr "조드에게 엘크의 신전(Temple of the Elk)에서 있었던 모험에 대해 얘기하시오"
+msgstr "조드에게 엘크의 신전에서 있었던 모험에 대해 얘기하시오"
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/StolenLand/11_WaitUntilFogClears_Description
 msgctxt "f8084611-24d9-4233-b7cf-ab739fd0eb13"
@@ -2776,7 +2789,7 @@ msgctxt "3933c9c4-4ffa-4df4-9d2e-cb749b6c8645"
 msgid ""
 "We managed to persuade the first of the Stag Lord's henchmen to leave the "
 "bandit ranks and keep out of the battle."
-msgstr "우리는 수사슴 군주의 오른팔에게 도적 때에서 나와 전투에서 빠지라고 설득했습니다"
+msgstr "우리는 수사슴 군주의 오른팔에게 도적 때에서 나와 전투에서 빠지라고 설득했습니다."
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/StolenLand/12add3_AkirosLeftSL_Title
 msgctxt "e686cba9-c3ec-4d72-a827-43852b931b99"
@@ -2802,7 +2815,7 @@ msgstr "산적이 잡은 야생 아울베어는 더이상 위협 대상이 아�
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/StolenLand/12add5_OwlbearIsNoLongerThreat_Title
 msgctxt "d8b2258b-720c-4d0c-86fe-ddf3e9e14404"
 msgid "The owlbear is no longer a threat"
-msgstr "아울베어는 더 이상 위협이 아닙니다."
+msgstr "아울베어는 더 이상 위협이 되지 않습니다."
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/StolenLand/12add6_AkirosSurrendered_Description
 msgctxt "5ea4f058-fa3b-480d-99ff-df54cde9ca00"
@@ -2872,7 +2885,7 @@ msgctxt "4769dbc5-3db6-4f5e-bd6a-fe33d11a1f95"
 msgid ""
 "We should talk to Jhod about our findings at the Temple of the Elk before we"
 " depart for Restov."
-msgstr "레스토프로 출발하기 전에 엘크의 신전(Temple of the Elk)에서 발견한 사실을 조드와 대화해야 합니다."
+msgstr "레스토프로 출발하기 전에 엘크의 신전에서 발견한 사실을 조드와 대화해야 합니다."
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/StolenLand/14add2_TalkKesten_Description
 msgctxt "0c36e20b-c82a-4f51-9c97-067319ec5c5a"
@@ -2909,8 +2922,8 @@ msgid ""
 "Jhod, Erastil's priest, told us of a vision that directed him to the Temple "
 "of the Elk. It seems that something really exciting awaits us there!"
 msgstr ""
-"에라스틸의 사제인 조드는 그를 엘크의 신전(Temple of the Elk)으로 이끈 비전에 대해 얘기해 주었습니다. 뭔가 정말로 "
-"흥분되는 일이 우릴 기다리고 있을 것 같습니다!"
+"에라스틸의 사제인 조드는 그를 엘크의 신전으로 이끈 비전에 대해 얘기해 주었습니다. 뭔가 정말로 흥분되는 일이 우릴 기다리고 있을 것 "
+"같습니다!"
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/StolenLand/Addendum_OTP_JhodVision_Title
 msgctxt "14368690-1201-4d7c-a85e-d4c0c36f7720"
@@ -2935,7 +2948,7 @@ msgstr ""
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/StolenLand/Addendum_SLOH_FindTemple_Title
 msgctxt "a3b3c16a-abd2-48cf-a6f0-8629612f5edc"
 msgid "Find the Temple of the Elk"
-msgstr "엘크의 신전(Temple of the Elk)을 찾아라"
+msgstr "엘크의 신전을 찾아라"
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/StolenLand/Addendum_StagLordHouse_WeTooLate_Description
 msgctxt "a8911c33-d3e9-4ec1-90ab-7453f7357da3"
@@ -2952,9 +2965,7 @@ msgctxt "aad78821-dfa5-4505-b383-7b7b9c0085d1"
 msgid ""
 "Oh, those pesky kobolds and mites! While we were dealing with all their "
 "troubles, anything might have happened at the Temple of the Elk!"
-msgstr ""
-"오, 그 성가신 코볼트와 마이트들! 우리가 그들 문제를 해결하는 동안, 엘크의 신전(Temple of the Elk)에선 무슨 일이 "
-"벌어졌을까요!"
+msgstr "오, 그 성가신 코볼트와 마이트들! 우리가 그들 문제를 해결하는 동안, 엘크의 신전에선 무슨 일이 벌어졌을까요!"
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/StolenLand/StolenLand_CompletionText
 msgctxt "e0849d0c-9363-47ee-b32f-cfa274d77b9a"
@@ -3459,7 +3470,7 @@ msgstr "케스텐의 말에 따르면, 트롤의 은시처는 날마치 어딘�
 #. Mechanics/Blueprints/World/Quests/C21_TrollTrouble/VS_TrollTrouble/TrollTrouble_DoomCounter_Description
 msgctxt "6a3bd974-0b39-4045-b6dd-58e0570bf14e"
 msgid "If left unchecked, the troll bands will soon overrun the barony!"
-msgstr ""
+msgstr "트롤 무리를 방치하면, 곧 트롤이 남작령을 점령할 거예요!"
 
 #. Mechanics/Blueprints/World/Quests/C21_TrollTrouble/VS_TrollTrouble/VS_TrollTrouble_CompletionText
 msgctxt "70c81afa-c306-4f31-a80c-413d7c4dfd37"
@@ -3667,19 +3678,14 @@ msgstr ""
 "끔찍하네요! 그가 우리의 도움을 받을 자격이나 있을까요? 이미 충분히 고통받은 것 같긴 하지만 말입니다..."
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/BigNarlmarches/GhostMan/Addendum_0005_Description
-#, fuzzy
-#| msgid ""
-#| "While it looks likd there were no good guys in this story, we can only put "
-#| "one of them to rest: Dorsy or Wilber. The other will simply have to wait "
-#| "until Pharasma takes pity on his sinful soul!"
 msgctxt "04ba9078-3ca6-4d68-bdc8-f302f606333b"
 msgid ""
 "While it looks like there were no good guys in this story, we can only put "
 "one of them to rest: Dorsy or Wilber. The other will simply have to wait "
 "until Pharasma takes pity on his sinful soul!"
 msgstr ""
-"이 이야기에 착한 사람이라곤 하나는 없는 듯 보입니다만, 도르시와 윌버 둘 중 한 명에게만 안식을 줄 수 있습니다. 남은 사람은 그저 "
-"그의 죄많은 영혼을 파라스마가 동정할 때까지 기다리는 수 밖에요."
+"이 이야기에 착한 사람이라곤 하나는 없는 듯 보이지만, 도르시와 윌버 둘 중 한 명에게만 안식을 줄 수 있어요. 남은 사람은 그저 그의 "
+"죄많은 영혼이 파라스마의 동정을 받게 될 때까지 기다리는 수 밖에요."
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/BigNarlmarches/GhostMan/GhostManTask_CompletionText
 msgctxt "d53f2fb1-c4a4-4e6e-a67f-78c63cf64c39"
@@ -4016,9 +4022,6 @@ msgstr ""
 "진행했어요. 이제 이 악의 세력이 남작령 전체에 뻗어나기 전에 무너뜨릴 때에요! 라마쉬투의 사원은 수도의 남쪽에 위치하고 있어요."
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/C22_WitchHunt/Objectives/2_MeetKesten_Title
-#, fuzzy
-#| msgid ""
-#| "Meet Kesten near the Shrine of Lamashtu on the first day of a week"
 msgctxt "ce04637b-4841-4437-b299-dae5b5ab1f93"
 msgid ""
 "Meet Kesten near the Shrine of Lamashtu on Moonday — the first day of a week"
@@ -4614,8 +4617,6 @@ msgstr ""
 "있겠습니까?남작은 보좌관들과 이 상황에 대해 논의해봐야합니다."
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/NobleSafari/Objective_0005_Title
-#, fuzzy
-#| msgid "Wait for the royal council to gather."
 msgctxt "f72add1a-6c9d-4de8-a509-30d0c393fe4e"
 msgid "Wait for the royal council to gather"
 msgstr "왕실 자문단이 모이기를 기다려라"
@@ -4869,7 +4870,7 @@ msgctxt "3e2ce123-1a35-415a-adae-b59b2861297e"
 msgid ""
 "Time is running out! Our healers predict that this epidemic could completely"
 " destroy the barony!"
-msgstr ""
+msgstr "시간이 없어요! 우리의 치유사들은 이 전염병이 남작령을 완전히 파괴할 수도 있다고 예상하고 있어요!"
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/SeasonOfBloom/SearchForTheSource_Add1_Description
 msgctxt "be8e5d19-ff39-43a6-b64d-583967e5d4d5"
@@ -5078,15 +5079,11 @@ msgid "The Scary Box"
 msgstr "무서운 상자"
 
 #. Mechanics/Blueprints/World/Quests/C31_VarnholdVanished/LostNoble/Addendum_0002_Description
-#, fuzzy
-#| msgid ""
-#| "We found Tomin. – The poor man perished halfway to Varnhold. We shall have "
-#| "to deliver this sad news to his brother."
 msgctxt "47d46263-217e-4073-b9c9-821cdcdffee5"
 msgid ""
 "We found Tomin. – The poor man perished halfway to Varnhold. We shall have "
 "to deliver the sad news to his brother."
-msgstr "토민을 찾았습니다 - 이 블쌍한 남자는 반홀드로 가는 길에 사망했습니다. 이 슬픈 소식을 그의 형제에게 전해야 합니다."
+msgstr "토민을 찾았어요. 이 불쌍한 사내는 반홀드로 가는 길에서 죽었죠. 이 슬픈 소식을 그의 형제에게 전해야 해요."
 
 #. Mechanics/Blueprints/World/Quests/C31_VarnholdVanished/LostNoble/Addendum_0004_Description
 msgctxt "a05be468-b474-49e3-bf89-d84775af9c09"
@@ -5107,7 +5104,7 @@ msgctxt "d1c1930f-43c5-4637-b926-450ee1e89278"
 msgid ""
 "Edrist needs proof of his brother's death. The letter we found on his "
 "brother's body should suffice."
-msgstr ""
+msgstr "에드리스트는 그의 형제가 죽었다는 증거가 필요하다고 해요. 우리가 형제의 시체에서 찾은 편지면 될 거예요."
 
 #. Mechanics/Blueprints/World/Quests/C31_VarnholdVanished/LostNoble/LostNoble_CompletionText
 msgctxt "0207bd13-dbec-47fd-8051-97666c18c1a5"
@@ -5607,6 +5604,8 @@ msgid ""
 "lands. Our capital will meet the same fate as poor Varnhold. What are we to "
 "do?!"
 msgstr ""
+"우리 비전 전문가들이 당황하고 있어요. 그들의 예측에 따르면, 강력한 비전 주문이 곧 수도와 그 주변 지역을 덮칠 거라고 해요. 우리 "
+"수도는 불쌍한 반홀드와 같은 운명을 맞게될 거예요. 어떡하죠?!"
 
 #. Mechanics/Blueprints/World/Quests/C31_VarnholdVanished/VarnholdVanished/VarnholdVanished_CompletionText
 msgctxt "fe5f3a51-addc-4ec2-a19c-826e8b70e37b"
@@ -5676,7 +5675,7 @@ msgctxt "558f4afd-ec36-4fc7-ba92-ebb0ef48a9ff"
 msgid ""
 "Tristian has entered a portal leading to the Temple of the Elk. We must "
 "hurry!"
-msgstr "트리스티안은 엘크의 신전(Temple of the Elk)으로 통하는 포탈에 들어갔습니다. 서둘러야 합니다!"
+msgstr "트리스티안은 엘크의 신전으로 통하는 포탈에 들어갔습니다. 서둘러야 합니다!"
 
 #. Mechanics/Blueprints/World/Quests/C41_TheTwiceBornWarlord/BetrayersFlight/03_ExploreTheTempleOfTheElkBloom_Title
 msgctxt "ba38a5a2-d277-4b51-930f-a361ff299ad7"
@@ -5795,8 +5794,8 @@ msgid ""
 "in the Temple of the Elk, we can find some clue that reveals where he has "
 "gone?"
 msgstr ""
-"트리스티안은 오래 전에 떠났고, 우리가 쫓고 있다는 걸 알고 있습니다. 아마도, 엘크의 신전(Temple of the Elk)에서 그가 "
-"어디로 갔는지 밝혀줄 단서를 찾을 수 있을까요?"
+"트리스티안은 오래 전에 떠났고, 우리가 쫓고 있다는 걸 알고 있습니다. 아마도, 엘크의 신전에서 그가 어디로 갔는지 밝혀줄 단서를 찾을 "
+"수 있을까요?"
 
 #. Mechanics/Blueprints/World/Quests/C41_TheTwiceBornWarlord/BetrayersFlight/04_FollowNigelThroughTheBloom/Addendum_0011_Description
 msgctxt "2ec60b58-732e-49bb-a3a0-0eb98d624686"
@@ -6265,6 +6264,8 @@ msgid ""
 "and those barbarians that still follow him. Our only hope is to find the "
 "legendary tomb of Armag in Glenebon – as soon as possible!"
 msgstr ""
+"아르막과 아직도 그를 따르는 야만족들을 처리하지 않으면 남작령의 병력은 완전히 고갈되버릴 거예요. 우리의 유일한 희망은 글레제본에 있는 "
+"전설 속의 아르막 무덤을 찾아내는 거예요. 최대한 서둘러야 해요!"
 
 #. Mechanics/Blueprints/World/Quests/C41_TheTwiceBornWarlord/TwiceBornWarlord/GoSearch_Description
 msgctxt "17480add-0d1d-4a1a-966d-b79c145576c3"
@@ -6395,15 +6396,6 @@ msgstr ""
 " 일이 참 많겠네요!"
 
 #. Mechanics/Blueprints/World/Quests/C41_TheTwiceBornWarlord/TwiceBornWarlord/TwiceBornWarlord_Description
-#, fuzzy
-#| msgid ""
-#| "It's a triumph! The barbarian hordes retreated as soon as they saw our "
-#| "troops, and the grateful Restov rulers announced that they were ready to "
-#| "recognize our {mf|baron|baroness} as {mf|King|Queen}! There's only one sour "
-#| "bit of news — the mad Armag still roams somewhere in our lands, and he seems"
-#| " to have found the tomb of his past incarnation. There, he believes he wil "
-#| "gain the power of Gorum, which will make him invincible! Yes, looks like "
-#| "it's best we postpone the celebration and take care of this matter at once."
 msgctxt "b0839010-3d76-4b52-a29c-429f5a990aad"
 msgid ""
 "It's a triumph! The barbarian hordes retreated as soon as they saw our "
@@ -6414,10 +6406,10 @@ msgid ""
 "gain the power of Gorum, which will make him invincible! Yes, looks like "
 "it's best we postpone the celebration and take care of this matter at once."
 msgstr ""
-"승리했습니다! 바바리안 무리는 우리 군대를 보자마자 퇴각했고, 이를 감사히 여긴 레스토프의 통치자들은 우리의  {mf|남작|여남작}을  "
-"{mf|왕|여왕}으로 인정할 준비가 되었다고 알려왔습니다!  하지만 씁쓸한 소식 한자락도 남았습니다 - 미친 아르막이 여전히 우리 영지 "
-"어딘가를 배회하며, 그의 과거 현현의 무덤을 찾아 해매고 있다고 합니다. 아르막은 그곳에서 그를 무적으로 만들어줄 고룸의 힘을  얻을 수"
-" 있다고 믿고 있는 모양입니다! 음, 축하는 잠시 미뤄두고 당장의 문제를 먼저 해결하는게 최선일 듯 싶습니다."
+"승리했어요! 야만족 무리는 우리 군대를 보자마자 퇴각했고, 레스토프의 통치자들은 이를 감사히 여겨 우리 {mf|남작|여남작}을  "
+"{mf|왕|여왕}으로 인정할 준비가 되었다고 알려왔어요! 하지만 좋지 못한 소식도 남아있어요. 미쳐버린 아르막이 여전히 우리 땅 어딘가를 "
+"배회하며, 자기 전생의 무덤을 찾아 헤메고 있대요. 아르막은 그곳에서 고룸의 힘을 얻어 무적의 존재가 되려고 하나봐요! 음, 축하는 잠시 "
+"미뤄두고 당장은 이 문제부터 해결하는게 좋겠어요."
 
 #. Mechanics/Blueprints/World/Quests/C41_TheTwiceBornWarlord/TwiceBornWarlord/TwiceBornWarlord_Title
 msgctxt "44beac61-ee20-4398-b6da-ac61043c0a1d"
@@ -6425,19 +6417,14 @@ msgid "The Twice-Born Warlord"
 msgstr "두번-태어난 전쟁군주"
 
 #. Mechanics/Blueprints/World/Quests/C51_WaroftheRiverKings/Dreamscape/01_HelpCollector_Description
-#, fuzzy
-#| msgid ""
-#| "To make this happen, the Storyteller and I must collect things and memories "
-#| "related to Nyrissa — as many as possible. The servants of the "
-#| "{mf|King|Queen} will need some time to collect all the necessary items."
 msgctxt "c3d44dd5-4b10-47c4-ba0c-3f6c6bc9b33f"
 msgid ""
 "To make this happen, the Storyteller and I must collect things and memories "
 "related to Nyrissa — as many as possible. The {mf|King|Queen} will need to "
 "allocate the kingdom resources for the project to assist the Storyteller."
 msgstr ""
-"이 의식을 수행하기 위해, 이야기꾼과 나는 나이리사와 관련된 사료와 기억들을 가능한 많이 모아야 합니다. {mf|왕|여왕}의 종복들이 "
-"필요한 모든 자원을 모으려면 어느정도 시간이 필요할 것 입니다."
+"이야기꾼과 제가 이걸 해내려면 관련된 자료와 기억들이 최대한 많이 필요해요. 이야기꾼이 계획을 진행하는 것을 도우려면 {mf|왕|여왕}은 "
+"왕국의 모든 자원을 동원해야 할 거예요."
 
 #. Mechanics/Blueprints/World/Quests/C51_WaroftheRiverKings/Dreamscape/01_HelpCollector_Title
 msgctxt "9efcff3b-6bf2-4458-8963-e8789e6ab650"
@@ -6649,8 +6636,6 @@ msgstr ""
 "왕좌를 원래자리로 돌려놓는게 급선무입니다!"
 
 #. Mechanics/Blueprints/World/Quests/C51_WaroftheRiverKings/RunawayThrone/03_GetThroneBack_Title
-#, fuzzy
-#| msgid "Return the throne."
 msgctxt "44212fdb-d80d-412c-9ee6-a37a14401ce0"
 msgid "Return the throne"
 msgstr "왕좌를 되돌려놓아라"
@@ -7034,6 +7019,8 @@ msgid ""
 "We must bring the war to Irovetti's doorstep, and confront the sly king in "
 "person!"
 msgstr ""
+"피탁스는 전쟁에서 이기고 있고, 우리의 불쌍한 왕국은 그다지 길게 버티지 못할 것입니다. 우리는 이로베티의 문앞에서 전쟁을 벌여 이 "
+"교활한 왕을 직접 상대해야 해요!"
 
 #. Mechanics/Blueprints/World/Quests/C51_WaroftheRiverKings/WarStart/Objective_AssCamp1_Description
 msgctxt "ec48332e-2f49-4e30-b33d-cc187d3e2a74"
@@ -7137,11 +7124,13 @@ msgid ""
 " endure the influence of Pitax – and wait for an opportunity to counter-"
 "attack!"
 msgstr ""
+"이로베티 왕이 비겁한 승부를 하고 있어요! 우리가 할 수 있는 건 아직 이를 악물고 피탁스의 압력을 견디는 것 밖에 없어요. 반격의 "
+"기회를 기다리자구요!"
 
 #. Mechanics/Blueprints/World/Quests/C51_WaroftheRiverKings/WarStart/Objective_OpposeIrovetti_Title
 msgctxt "090689bf-1397-4b53-b1f8-633796bf381b"
 msgid "Oppose the influence of Pitax"
-msgstr ""
+msgstr "피탁스의 압력을 견뎌라"
 
 #. Mechanics/Blueprints/World/Quests/C51_WaroftheRiverKings/WarStart/Objective_Showdown_Description
 msgctxt "c8d5a17d-2a38-4b82-ad8c-669f9a6ab13f"
@@ -7152,9 +7141,9 @@ msgid ""
 "and turn his own people against him. A great battle is coming, and we need "
 "allies!"
 msgstr ""
-"이로베티는 그의 궁전 앞에 서서 {Name}의 왕관을 탈취하기 위해 기다리고 있습니다. 지금 당장 이로베티와 맞서도 됩니다만... 그는 "
-"도시 전역에 걸쳐 수많은 적을 가지고 있으니, 이번엔 이로베티의 방식으로 그를 상대해보는게 어떨까요? 피탁스 사람들을 이로베티로부터 등을"
-" 돌리게 만드는 겁니다!  거대한 전투가 기다리고 있는 만큼, 우리에겐 동맹이 필요할 껍니다!"
+"이로베티는 그의 궁전 앞에 서서 {Name}의 왕관을 뺏어오길 기다리고 있어요. 지금 당장 이로베티와 맞서도 되지만... 피탁스에는 "
+"이로베티의 적이 널려있으니, 이번엔 이로베티가 하던 대로 이로베티를 상대해보는 건 어떨까요? 피탁스 사람들이 이로베티에게 등을 돌리게 "
+"하는 거예요!  거대한 전투를 앞둔 만큼, 우리에겐 동맹이 필요할 테니까요!"
 
 #. Mechanics/Blueprints/World/Quests/C51_WaroftheRiverKings/WarStart/Objective_Showdown_Title
 msgctxt "515d3d46-ddf0-4cf8-8d19-b1150c57d074"
@@ -7292,6 +7281,8 @@ msgid ""
 "The fey invasion is taking quite a toll, and the kingdom is suffering. We "
 "must find a way to stop the fey, or we'll face certain ruin!"
 msgstr ""
+"페이의 침공은 엄청난 피해를 입히고 있고, 왕국은 고통받고 있어요. 우리는 페이를 멈출 방법을 찾아야 해요, 그러지 못하면 우린 분명 "
+"멸망하고 말 거예요!"
 
 #. Mechanics/Blueprints/World/Quests/C61_SoundofaThousandScreams/SecretsOfSuramgamin/Addendum_3-1_Description
 msgctxt "295b3740-d434-4a61-a42b-b2845e87a637"
@@ -8738,16 +8729,6 @@ msgid "Examine the ruined dwarven fortress with Harrim"
 msgstr "하림과 드워프 요새 유적지를 탐험하라"
 
 #. Mechanics/Blueprints/World/Quests/Companions/Harrim/Q1_Unwanted_Legacy/Q1_Harrim_Unwanted_Legacy_CompletionText
-#, fuzzy
-#| msgid ""
-#| "It was hard to watch as Harrim wandered the desecrated stones of his "
-#| "people's ancient citadel. There was so much gloom in his eyes! Then "
-#| "something incredible happened at the end: he found a magic anvil that once "
-#| "belonged to the smiths of the fortress, and Harrim... broke it with his bare"
-#| " hands! No, that's not an artistic exaggeration – that's what really "
-#| "happened. He hit the anvil with his fist, and the metal broke like glass! "
-#| "Was this a sign from the gods? And if so, who which god? Torag... or "
-#| "Groetus?"
 msgctxt "cb8c4545-8f11-476e-8ee5-8edd577691d3"
 msgid ""
 "It was hard to watch as Harrim wandered the desecrated stones of his "
@@ -8760,8 +8741,8 @@ msgid ""
 msgstr ""
 "하림이 일족의 고대 수도의 잔재들을 배회하는 건 지켜보기 힘든 일이었습니다. 그의 눈에는 우울함이 가득했거든요! 그런데 끝에 가선 정말 "
 "놀라운 일이 일어났습니다: 하림은 한 때 요새의 대장장이의 소유였던 마법의 모루를 발견했는데, 하림이 그걸 맨손으로 박살내버렸답니다! "
-"아니, 시적인 과장이 아니에요 - 정말 말그대로 박살이 났다니까요. 하림은 주먹으로 모루를 쳤고, 금속 모루는 유리처럼 부서져버렸습니다."
-" 혹시 신들로부터 내려온 계시일까요?  만약 그렇다면 어떤 신의 계시일까요? 토락일까요? 아니면 그로투스?"
+"아니, 시적인 과장이 아니에요 - 정말 말그대로 박살이 났다니까요. 하림은 주먹으로 모루를 쳤고, 금속 모루는 유리처럼 부서져버렸습니다. "
+"혹시 신들로부터 내려온 계시일까요? 만약 그렇다면 어떤 신의 계시일까요? 토락일까요? 아니면 그로투스?"
 
 #. Mechanics/Blueprints/World/Quests/Companions/Harrim/Q1_Unwanted_Legacy/Q1_Harrim_Unwanted_Legacy_Description
 msgctxt "e35c281f-55a5-42f4-b984-2d17ca041cc1"
@@ -8870,11 +8851,9 @@ msgstr ""
 "내렸습니다. 하림은 - 분명, '내가 경고했었지'라고 설교할 기대를 꿈꾸며 - 다시금 그곳으로 가고자 합니다."
 
 #. Mechanics/Blueprints/World/Quests/Companions/Harrim/Q3_The_Unmaking/Obj_01_Visit_Lost_Keep_Title
-#, fuzzy
-#| msgid "Set off for the Adamantine Shield Fortress"
 msgctxt "705c545a-dba8-4291-8dd3-d00932e8bc8d"
 msgid "Set off for the Lost Dwarven Fortress"
-msgstr "아다만틴 방패 요새로 가라"
+msgstr "잊혀진 드워프 요새로 가라"
 
 #. Mechanics/Blueprints/World/Quests/Companions/Harrim/Q3_The_Unmaking/Obj_02_Investigate_Description
 msgctxt "ff2dd901-b694-4fbb-b616-abcb161bb093"
@@ -9724,12 +9703,6 @@ msgstr "올렉의 교역소에 머무는 고블린들을 상대하라"
 
 #. Mechanics/Blueprints/World/Quests/Companions/Nok-
 #. Nok/Q1_GoblinTrouble/Q1_GoblinTrouble_quest_CompletionText
-#, fuzzy
-#| msgid ""
-#| "What was that I just saw? Drunk goblins at Oleg's, and then the giant (also "
-#| "drunk), and Nok-Nok in the middle of it all... To his credit I must say that"
-#| " everything ended up somewhat good, if you overlook a goblin tribe skulking "
-#| "around our capitol. Well, at least, Oleg's still alive..."
 msgctxt "0a74f9fa-4e49-42eb-8347-22a63980fc59"
 msgid ""
 "What was that I just saw? Drunk goblins at Oleg's, and then the giant (also "
@@ -9792,8 +9765,6 @@ msgstr ""
 
 #. Mechanics/Blueprints/World/Quests/Companions/Nok-
 #. Nok/Q2_LamashtuShrines/Objective_0002_TravelToShrines_Title
-#, fuzzy
-#| msgid "Visit the clearing just ourside the capital"
 msgctxt "f3876453-0f39-4587-a25c-7ffe7de4da8a"
 msgid "Visit the clearing just outside the capital"
 msgstr "수도 바깥의 고블린 공터를 방문하라"
@@ -9811,12 +9782,6 @@ msgstr ""
 
 #. Mechanics/Blueprints/World/Quests/Companions/Nok-
 #. Nok/Q2_LamashtuShrines/Q2_LamashtuShrines_quest_Description
-#, fuzzy
-#| msgid ""
-#| "It seems, our goblin troubles are piling on. Nok-Nok and his tribesmen have "
-#| "built Lamashtu's shrines right at our doorstep — not far from capitol's main"
-#| " gates. It's time for our {mf|baron|baroness|king|queen} to take the matter "
-#| "into {mf|his|her} own hands."
 msgctxt "bf9a85f3-dada-4cd4-8842-b817b4d6e402"
 msgid ""
 "It seems, our goblin troubles are piling on. Nok-Nok and his tribesmen have "
@@ -10806,15 +10771,11 @@ msgid "Judgment of the Gods"
 msgstr "신들의 심판"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/DvarvenMaleArmorsmithLN/ArmorOfOathkeeper_CompletionText
-#, fuzzy
-#| msgid ""
-#| "Dragn has all he needs to restore Lawbringer, and the thief who attempted to"
-#| " steal the armor was punished."
 msgctxt "05527870-5922-4847-8fca-692f94ed0b5e"
 msgid ""
 "Dragn has all he needs to restore Onslaught, and the thief who attempted to "
 "steal the armor was punished."
-msgstr "드라근은 질서인도자를 복원하는 데 필요한 모든 것을 갖추었고, 갑옷을 훔치려는 도둑은 처벌되었습니다."
+msgstr "드란은 맹격을 복원하는 데 필요한 모든 것을 갖추었고, 갑옷을 훔치려는 도둑은 처벌되었습니다."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/DvarvenMaleArmorsmithLN/ArmorOfOathkeeper_Description
 msgctxt "6f47fb7c-ef6b-48e0-8f62-61399a710ec1"
@@ -10828,33 +10789,24 @@ msgstr ""
 "분해되었지만, 모든 부품을 회수하면 숙련된 대장장이가 이 갑옷을 복원할 수 있을 겁니다."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/DvarvenMaleArmorsmithLN/ArmorOfOathkeeper_Title
-#, fuzzy
-#| msgid "Lawbringer"
 msgctxt "f6354331-3cda-43c2-a525-8bdb3331f2a9"
 msgid "Onslaught"
-msgstr "질서인도자"
+msgstr "맹격"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/DvarvenMaleArmorsmithLN/StolenAgain_Description
-#, fuzzy
-#| msgid ""
-#| "Lawbringer was almost ready, but someone stole it again! The blacksmith "
-#| "suspects bandits from the Thorn Ford. You must go there, find the thieves, "
-#| "and recover the master's armor."
 msgctxt "128c82ad-0693-48c0-a90e-7f4dc9f4b030"
 msgid ""
 "Onslaught was almost ready, but someone stole it again! The blacksmith "
 "suspects bandits from the Thorn Ford. You must go there, find the thieves, "
 "and recover the master's armor."
 msgstr ""
-"질서인도자는 거의 다 완성됐었습니다만, 누군가 또다시 갑옷을 훔쳐갔습니다! 대장장이는 가시 여울에 있는 도적들을 의심하고 있습니다. "
-"그곳으로가 도둑을 찾아내 장인의 갑옷을 회수해야 합니다."
+"맹격은 거의 다 완성됐었습니다만, 누군가 또다시 갑옷을 훔쳐갔습니다! 대장장이는 가시 여울에 있는 도적들을 의심하고 있습니다. 그곳으로가 "
+"도둑을 찾아내 장인의 갑옷을 회수해야 합니다."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/DvarvenMaleArmorsmithLN/StolenAgain_Title
-#, fuzzy
-#| msgid "Return Lawbringer to Dragn"
 msgctxt "92a57f1b-ad1a-428c-8e7e-eb4e378bd3e4"
 msgid "Return Onslaught to Dragn"
-msgstr "드란에게 질서인도자를 돌려줘라"
+msgstr "드란에게 맹격을 돌려줘라"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/DvarvenMaleArmorsmithLN/ThreePiecesOfGlory_Description
 msgctxt "e52848dd-8e0b-4ec9-87e4-57d728d1dbc1"
@@ -11721,15 +11673,11 @@ msgid "Get the blood of Varrask's enemy"
 msgstr "바라스크의 적의 피를 얻어라"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/HalfOrcMaleEnforcer/EarthBreaker/EarthBreaker_CompletionText
-#, fuzzy
-#| msgid ""
-#| "A short but rough adventure secured everything that master Varrask needs to "
-#| "reforge Earthbreaker."
 msgctxt "57b1351a-de01-440a-9eb4-1a9e4fdf69f2"
 msgid ""
 "A short but rough adventure secured everything that master Varrask needs to "
 "reforge Obliteration."
-msgstr "짧지만 거친 모험 끝에 장인 바라스크가 대지파쇄자를 다시 재련하는 데 필요한 모든 재료를 구했습니다."
+msgstr "짧지만 거친 모험 끝에 장인 바라스크가 말살을 다시 재련하는 데 필요한 모든 재료를 구했습니다."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/HalfOrcMaleEnforcer/EarthBreaker/EarthBreaker_Description
 msgctxt "fada646a-c184-47c2-ac21-be4b379645b2"
@@ -11745,11 +11693,9 @@ msgstr ""
 "쪼가리를 최고의 선물로 여긴다니까요.  좋은 책을 선물로 받는게 더 신나는 일 아닐까요?"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/HalfOrcMaleEnforcer/EarthBreaker/EarthBreaker_Title
-#, fuzzy
-#| msgid "Earthbreaker"
 msgctxt "1ed0f7db-22dc-4dfd-b551-ad039dd33450"
 msgid "Obliteration"
-msgstr "대지파쇄자"
+msgstr "말살"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/HalfOrcMaleEnforcer/Errand_WarrasksTools/Errand_WarraskTools_Description
 msgctxt "32391016-ccca-4bf3-9b41-877bd16b4b48"
@@ -11916,10 +11862,6 @@ msgid "One Thousand and One Questionable Stories"
 msgstr "미심쩍은 천일야화"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/HumanFemaleExoticSmith/OneThousandAndOneUnthruthfulStories/TalktoArtisanShai_Description
-#, fuzzy
-#| msgid ""
-#| "The master is worried about something. — We should pay her a visit and find "
-#| "out what's distracting the weponsmith from her work."
 msgctxt "e7861388-1328-4980-b8d2-04b9bd783971"
 msgid ""
 "The master is worried about something. — We should pay her a visit and find "
@@ -11995,7 +11937,7 @@ msgctxt "ea5a8fb1-7703-44f3-8906-183a0d691997"
 msgid ""
 "The wererat drank Bokken's potion and died. We should tell Bokken about "
 "this!"
-msgstr "웨어랫이 보큰의 물약을 마시고는 죽어버렸다. 보큰에게 말해야 한다!"
+msgstr "쥐인간은 보큰의 물약을 마시고는 죽어버렸어요. 보큰에게 말해 줘야 해요!"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/HumanMaleAlchemistCN/MasterpieceQuest/AncientRecipe_CompletionText
 msgctxt "268527a2-76f3-488a-9159-adb38959bbb5"
@@ -12108,19 +12050,14 @@ msgid "Wrestle Bokken down"
 msgstr "보큰을 때려눕혀라"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/InvitationToKamelands/InvitationToKamelandsErrand_Description
-#, fuzzy
-#| msgid ""
-#| "After we acquired the Kamelands several famous crafters expressed a desire "
-#| "to settle in the region. We may want to establish a settlement there and "
-#| "visit it to meet them."
 msgctxt "243ecc06-0c24-486d-92c6-16cb9260783c"
 msgid ""
 "After we acquired the Kamelands, several famous craftsmen have expressed a "
 "desire to settle in the region. We may want to establish a settlement there,"
 " and visit it to meet them."
 msgstr ""
-"케임랜드를 얻은 후 몇몇 유명한 장인들이 이 지역에 머물고 싶다는 의사를 표현했습니다. 그 지역에 거주지를 세우고 그들을 방문해 만나보는"
-" 것도 괜찮을 것 같습니다."
+"케임랜드를 얻은 후 몇몇 유명한 장인들이 이 지역에 머물고 싶다는 의사를 표현했습니다. 그 지역에 거주지를 세우고 그들을 방문해 만나보는 "
+"것도 괜찮을 것 같습니다."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/InvitationToKamelands/InvitationToKamelandsErrand_Title
 msgctxt "4416d369-0b80-4a1c-b06a-6a2f551721ff"
@@ -12128,11 +12065,6 @@ msgid "Artisans of the Kamelands"
 msgstr "케임렌드의 장인들"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/InvitationToNorthNarlmarches/InvitationToNorthNarlmarchesErrand_Description
-#, fuzzy
-#| msgid ""
-#| "After we acquired the North Narlmarches several famous crafters expressed a "
-#| "desire to settle in the region. We may want to establish a settlement there "
-#| "and visit it to meet them."
 msgctxt "4cd65068-5719-4bff-9a87-717f6760dc68"
 msgid ""
 "After we acquired the North Narlmarches, several famous craftsmen expressed "
@@ -12154,11 +12086,12 @@ msgid ""
 "settle in the region. We may want to establish a settlement there, and visit"
 " it to meet her."
 msgstr ""
+"실버스텝을 얻은 후 유명한 장인이 이 지역에 머물고 싶다는 뜻을 알려왔어요. 여기에 정착지를 세우고 나면 그녀를 만나보도록 해요."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/InvitationToSilverstepErrand/InvitationToSilverstepErrand_Title
 msgctxt "27b0c9dc-1890-4d48-b989-d659edcf6c67"
 msgid "Artisans of the Silverstep"
-msgstr ""
+msgstr "실버스텝의 장인"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/KingdomAsCompanion/CE_DarkerThanBlack/Addendum_0006_Description
 msgctxt "c16e823c-40a2-40e3-a7da-22d0eaf81920"
@@ -12578,7 +12511,6 @@ msgid "Honor and Duty"
 msgstr "명예와 의무"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/KingdomAsCompanion/LG_HonorAndDuty/ProtectOrKickOut_Description
-#, fuzzy
 msgctxt "f47e76d7-95f1-42d1-b323-8a65946e3137"
 msgid ""
 "Mendev's agents are looking for volunteers ready to fight the Worldwound — "
@@ -12611,7 +12543,6 @@ msgid "Wait for the news"
 msgstr "새로운 소식을 기다려라."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/KingdomAsCompanion/LG_HonorAndDuty/WaitTillNews_Description
-#, fuzzy
 msgctxt "02ad35e1-3c25-4926-809d-2a4a7a51d5d5"
 msgid ""
 "Good grief! Looks like a handful of peasants were working for demons of the "
@@ -12619,8 +12550,8 @@ msgid ""
 "itself tried to stand in the way of Mendev? We can only guess and wait for "
 "news from this faraway country!"
 msgstr ""
-"안타깝도다!  농민들 일부가 월드운드의 데몬들과 결탁한 것 같습니다.  도둑맞은 땅은 정말로 심연 그 자신이 멘데브로 가는 길목으로서 "
-"호시탐탐 노리는 곳이었던 걸까요? 우리는 그저 추측만 할 뿐이며, 머나먼 나라에서 올 소식을 기다릴 뿐입니다."
+"안타깝도다! 농민들 일부가 월드운드의 데몬들과 결탁한 것 같습니다.  도둑맞은 땅은 정말로 심연 그 자신이 멘데브로 가는 길목으로서 "
+"호시탐탐 노리는 곳이었던 걸까요? 우리는 그저 추측만 할 뿐이며, 머나먼 나라에서 올 소식을 기다릴 뿐입니다!"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/KingdomAsCompanion/LG_HonorAndDuty/WaitTillNews_Title
 msgctxt "87857b20-cf23-4dfa-9dcf-b1e6ab24753c"
