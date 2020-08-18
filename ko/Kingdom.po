@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
 "PO-Revision-Date: 2020-08-18 17:18+0000\n"
-"Last-Translator: ayame <eveforce@naver.com>\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -1320,7 +1320,7 @@ msgid ""
 "is raised to +3."
 msgstr ""
 "비전 실험 일반에 대한 허가 이후로 수도의 생활은 훨씬 다채롭고...예측할 수 없게 되었습니다. 마법대신이 점령지의 사건을 해결할 때 +"
-"1 보너스를 받고, 쉬라이크 지역에서는 +3 보너스를 받습니다."
+"1 보너스를 받고, 슈라이크 지역에서는 +3 보너스를 받습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/ArcRank5-EasierEventsatCapital_DisplayName
@@ -1366,7 +1366,7 @@ msgid ""
 "Magister attempts to solve in the Shrike region, roll twice for resolution, "
 "and pick the better result."
 msgstr ""
-"평민들은 마법사들이 자리를 비켜준 것에 감사하여 좀 더 봐주기로 했습니다. 마법대신이 쉬라이크 지역에서 문제를 해결할 때 두 번 굴려서 "
+"평민들은 마법사들이 자리를 비켜준 것에 감사하여 좀 더 봐주기로 했습니다. 마법대신이 슈라이크 지역에서 문제를 해결할 때 두 번 굴려서 "
 "더 나은 결과를 선택합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
@@ -1696,13 +1696,13 @@ msgstr ""
 #. Ups/DivRank10-BlessingofLamashtu_DisplayName
 msgctxt "669f5af0-fe5c-48e6-b8c6-70b99963ba94"
 msgid "Blessing of Lamashtu"
-msgstr "라마쉬투의 축복"
+msgstr "라마슈투의 축복"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank10-BlessingofLamashtu_ReasonString_String
 msgctxt "56c4769d-34bd-4321-8816-4926d6ae8048"
 msgid "Blessing of Lamashtu"
-msgstr "라마쉬투의 축복"
+msgstr "라마슈투의 축복"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-
 #. Ups/DivRank3-ImmunitytoPoisonKingdomBuff_Description_String
@@ -28721,7 +28721,7 @@ msgid ""
 "topped rock which serves as a landmark in the area. It might be worth "
 "visiting."
 msgstr ""
-"정찰병들이 쉬라이크 구릉지에서 주목할 만한 위치를 발견했습니다. 이 지역의 표지석 역할을 하는 거대하고 평평한 바위입니다. 가볼 만한 "
+"정찰병들이 슈라이크 구릉지에서 주목할 만한 위치를 발견했습니다. 이 지역의 표지석 역할을 하는 거대하고 평평한 바위입니다. 가볼 만한 "
 "가치가 있을지도 모릅니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/LocationsUnlock/CapitalRegionLair01_LocalizedName
@@ -28736,7 +28736,7 @@ msgid ""
 " its name – and its nasty reputation – when rats swarmed it in vast numbers."
 " It might be worth exploring."
 msgstr ""
-"정찰병들이 쉬라이크 구릉지에서 주목할 만한 위치를 발견했습니다. 이곳은 엄청난 숫자의 쥐들이 떼를 지어 몰려왔었을 때 이런 고약한 이름이 "
+"정찰병들이 슈라이크 구릉지에서 주목할 만한 위치를 발견했습니다. 이곳은 엄청난 숫자의 쥐들이 떼를 지어 몰려왔었을 때 이런 고약한 이름이 "
 "붙여진 특이한 언덕입니다. 탐험할 가치가 있을지도 모릅니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/LocationsUnlock/CapitalRegionLair03_LocalizedName
@@ -28751,7 +28751,7 @@ msgid ""
 "covered the area, and there no more points of interest in the South "
 "Narlmarches and Shrike Hills."
 msgstr ""
-"정찰병들이 중부 지역을 샅샅이 뒤졌습니다. 이 지역을 전부 찾아본 결과, 남부 날마치와 쉬라이크 구릉지에는 더 이상 주목할 만한 장소가 "
+"정찰병들이 중부 지역을 샅샅이 뒤졌습니다. 이 지역을 전부 찾아본 결과, 남부 날마치와 슈라이크 구릉지에는 더 이상 주목할 만한 장소가 "
 "없었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/LocationsUnlock/CentralRegionsFinalReward_LocalizedName
@@ -28852,7 +28852,7 @@ msgid ""
 "within a flaky rock, which travelers call \"the Arbor\". It might be worth "
 "exploring."
 msgstr ""
-"정찰병들이 쉬라이크 구릉지에서 주목할 만한 위치를 발견했습니다. 동굴이 여행자들이 \"알버\"라고 부르는 조각난 바위에 숨겨져 있습니다. "
+"정찰병들이 슈라이크 구릉지에서 주목할 만한 위치를 발견했습니다. 동굴이 여행자들이 \"알버\"라고 부르는 조각난 바위에 숨겨져 있습니다. "
 "탐험할 가치가 있을지도 모릅니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/LocationsUnlock/EarthElementalLair_LocalizedName
@@ -28888,7 +28888,7 @@ msgid ""
 "dangerous on its own, but it also tends to attract monsters and other "
 "unpleasant creatures. The area might be worth exploring."
 msgstr ""
-"정찰병들이 쉬라이크 구릉지에서 주목할 만한 위치를 발견했습니다. 늪지로 통하는 음울하고 습한 저지대. 습지는 그 자체로 위험할 뿐 "
+"정찰병들이 슈라이크 구릉지에서 주목할 만한 위치를 발견했습니다. 늪지로 통하는 음울하고 습한 저지대. 습지는 그 자체로 위험할 뿐 "
 "아니라, 다른 괴물이나 불쾌한 크리처들을 끌어들입니다. 탐험할 가치가 있을지도 모릅니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/LocationsUnlock/ForgottenCache_LocalizedName
@@ -29077,7 +29077,7 @@ msgid ""
 "with its destruction, the trail has been abandoned. It could be worth "
 "exploring."
 msgstr ""
-"정찰병들이 쉬라이크 구릉지에서 주목할 만한 위치를 발견했습니다. 한때는 잘 닦여진 이 오솔길이었지만, 지금은 주변의 황무지에 "
+"정찰병들이 슈라이크 구릉지에서 주목할 만한 위치를 발견했습니다. 한때는 잘 닦여진 이 오솔길이었지만, 지금은 주변의 황무지에 "
 "먹혀버렸습니다. 여행자들은 네틀의 건널목을 통해 이곳에 오지만, 그곳이 파괴되면서 이 길도 버려졌습니다. 탐험할 가치가 있을 겁니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/LocationsUnlock/LeopardLair_LocalizedName
@@ -29251,7 +29251,7 @@ msgid ""
 "landmark, Riverine Rise, can be seen from afar. The bank of the river rises "
 "to a quaint, picturesque hill. The place might be worth visiting."
 msgstr ""
-"정찰병들이 쉬라이크 구릉지에서 주목할 만한 위치를 발견했습니다. 멀리서도 보이는 지역 명소인 강기슭 오르막입니다. 강기슭이 진기하고 "
+"정찰병들이 슈라이크 구릉지에서 주목할 만한 위치를 발견했습니다. 멀리서도 보이는 지역 명소인 강기슭 오르막입니다. 강기슭이 진기하고 "
 "그림같은 언덕으로 솟아올랐습니다. 가볼 만한 가치가 있을지도 모릅니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/LocationsUnlock/NorthNarlmarchesLair01_LocalizedName
@@ -29327,7 +29327,7 @@ msgid ""
 "where no trails or roads cross. However, smoke from bonfire was seen rising "
 "there. It might be worth investigating."
 msgstr ""
-"정찰병들이 외곽 지역에서 주목할 만한 위치를 발견했습니다. 굽이진 강과 쉬라이크 강이 합쳐지는 곳에서 멀지않은, 조용하고 눈에띄지 않는 "
+"정찰병들이 외곽 지역에서 주목할 만한 위치를 발견했습니다. 굽이진 강과 슈라이크 강이 합쳐지는 곳에서 멀지않은, 조용하고 눈에띄지 않는 "
 "지역입니다. 오솔길도 도로도 나있지 않지만 모닥불에서 연기가 피어오르는 것이 발견되었습니다. 조사할 가치가 있을지도 모릅니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/LocationsUnlock/RangersCamp_LocalizedName
@@ -29600,7 +29600,7 @@ msgid ""
 " pack, led by a powerful alpha, terrorizes even distant settlements, and is "
 "a curse to lonely travelers."
 msgstr ""
-"정찰병들이 쉬라이크 구릉지에서 주목할 만한 위치를 발견했습니다. 늑대 소굴입니다. 강력한 우두머리가 이끄는 늑대무리는 외진 정착지를 "
+"정찰병들이 슈라이크 구릉지에서 주목할 만한 위치를 발견했습니다. 늑대 소굴입니다. 강력한 우두머리가 이끄는 늑대무리는 외진 정착지를 "
 "공포에 빠뜨리고 홀로 다니는 여행자에게는 그야말로 저주입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/LocationsUnlock/WolfsLair_LocalizedName
@@ -34131,7 +34131,7 @@ msgctxt "50e87cbe-12d0-4888-af41-d97c1c6a6a71"
 msgid ""
 "Send scouts to the Shrike Hills and the South Narlmarches to uncover "
 "potential threats and points of interest."
-msgstr "쉬라이크 구릉지와 남부 날마치로 정찰병을 보내 잠재적인 위협과 관심 지점을 파악합니다."
+msgstr "슈라이크 구릉지와 남부 날마치로 정찰병을 보내 잠재적인 위협과 관심 지점을 파악합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/Esp2-ScoutingCentralRegions_LocalizedName
 msgctxt "0f750fee-7ab2-4b67-8c53-613d66914462"
@@ -37856,7 +37856,7 @@ msgid ""
 "adjacent regions that provides bonuses to Economy, Relations or Culture "
 "increases those bonuses by 2."
 msgstr ""
-"쉬라이크 구릉지는 우리 나라의 심장부이며, 진정한 무역과 문화의 중심지가 될 것입니다. 효과: 경제, 외교 또는 문화에 보너스를 제공하는 "
+"슈라이크 구릉지는 우리 나라의 심장부이며, 진정한 무역과 문화의 중심지가 될 것입니다. 효과: 경제, 외교 또는 문화에 보너스를 제공하는 "
 "이 지역 또는 인접한 승급된 지역의 모든 두 칸 건물의 보너스가 1씩 증가합니다. 경제, 외교 또는 문화에 보너스를 제공하는 이 지역 "
 "또는 인접 지역의 모든 네 칸 건물의 보너스가 2씩 증가합니다."
 
@@ -37870,7 +37870,7 @@ msgctxt "c181755a-4f6c-4a59-848c-a247581db69e"
 msgid ""
 "The Shrike Hills and the capital have become a famous trade and cultural "
 "center, well known for a luxurious lifestyle."
-msgstr "쉬라이크 구릉지와 수도는 호화로운 생활방식으로 잘 알려진 무역과 문화의 유명한 중심지가 되었습니다."
+msgstr "슈라이크 구릉지와 수도는 호화로운 생활방식으로 잘 알려진 무역과 문화의 유명한 중심지가 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/ShrikeHills_Upgrade_Fortress_LocalizedDescription
 msgctxt "e194563a-866e-49cd-8afd-b60ddd279324"
@@ -37892,7 +37892,7 @@ msgctxt "bc9031b8-6ec1-4418-bd1e-4ce7f29ffe4e"
 msgid ""
 "Shrike Hills and the capital are now a well-fortified military region, ready"
 " to stand against any enemy army."
-msgstr "쉬라이크 구릉지와 수도는 이제 어떤 적군에 맞서도 대항할 준비가 되어 있는 잘 정비된 군사 지역입니다."
+msgstr "슈라이크 구릉지와 수도는 이제 어떤 적군에 맞서도 대항할 준비가 되어 있는 잘 정비된 군사 지역입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/ShrikeHills_Upgrade_ItsaMagicalPlace_LocalizedDescription
 msgctxt "4776ff48-2e3d-4c0f-b2e1-000066ce3b5a"
@@ -37919,7 +37919,7 @@ msgctxt "f03dde20-22b8-4edd-9ef8-73e5db305177"
 msgid ""
 "Shrike Hills and the capital have become a famous center for arcane research"
 " and divine practices."
-msgstr "쉬라이크 구릉지와 수도는 비전 연구와 신성한 관습의 유명한 중심지가 되었습니다."
+msgstr "슈라이크 구릉지와 수도는 비전 연구와 신성한 관습의 유명한 중심지가 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Silverstep_Claim_FulfilledDescription
 msgctxt "9d0e195e-46e8-4b58-b3c5-4de86846c6b0"
@@ -38403,7 +38403,7 @@ msgstr "터스크데일"
 #. Mechanics/Blueprints/Kingdom/Regions/Shrike_LocalizedName
 msgctxt "0d085718-0d7d-44fb-93c5-cc970272c12c"
 msgid "Shrike Hills"
-msgstr "쉬라이크 구릉지"
+msgstr "슈라이크 구릉지"
 
 #. Mechanics/Blueprints/Kingdom/Regions/Shrike_UpgradeEvents.Array.data[0].ChangeDescription
 msgctxt "99f2d8b8-924e-497f-ae6d-7ae08344ae2c"
