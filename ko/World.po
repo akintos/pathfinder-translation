@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-08-17 12:17+0000\n"
-"Last-Translator: ayame <eveforce@naver.com>\n"
+"PO-Revision-Date: 2020-08-18 17:19+0000\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/world/ko/>\n"
 "Language: ko\n"
@@ -3395,24 +3395,24 @@ msgctxt "294fc635-9349-4dc4-bed5-7df1006344a3"
 msgid ""
 "You have received Tsanna's blessing, and with it, Lamashtu's benediction. "
 "You gain a +2 natural armor bonus and +4 to Constitution."
-msgstr "당신은 라마쉬투의 은총이 깃든 산나의 축복을 받았습니다. 당신은 +2 자연 방어 보너스와 체력에 +4를 얻습니다."
+msgstr "당신은 라마슈투의 은총이 깃든 산나의 축복을 받았습니다. 당신은 +2 자연 방어 보너스와 체력에 +4를 얻습니다."
 
 #. Mechanics/Blueprints/World/Encounters/FinalDungeon/Buffs/LamashtuStrong_m_DisplayName
 msgctxt "a0ef32b4-e4cc-43b1-bc9a-321f61aedefb"
 msgid "Blessing of Lamashtu"
-msgstr "라마쉬투의 축복"
+msgstr "라마슈투의 축복"
 
 #. Mechanics/Blueprints/World/Encounters/FinalDungeon/Buffs/LamashtuWeak_m_Description
 msgctxt "0c1e7da8-e7a1-4702-935f-7bf4c2a6effc"
 msgid ""
 "You have received Tsanna's blessing, and with it, a touch of Lamashtu's "
 "benediction. You gain a +1 natural armor bonus and +2 to Constitution."
-msgstr "당신은 라마쉬투의 은총의 일부가 깃든 산나의 축복을 받았습니다. 당신은 +1 자연 방어 보너스와 체력에 +2를 얻습니다."
+msgstr "당신은 라마슈투의 은총의 일부가 깃든 산나의 축복을 받았습니다. 당신은 +1 자연 방어 보너스와 체력에 +2를 얻습니다."
 
 #. Mechanics/Blueprints/World/Encounters/FinalDungeon/Buffs/LamashtuWeak_m_DisplayName
 msgctxt "27bb3fb3-b2b5-4781-ab50-3b89b6baf441"
 msgid "Touch of Lamashtu"
-msgstr "라마쉬투의 손길"
+msgstr "라마슈투의 손길"
 
 #. Mechanics/Blueprints/World/Encounters/FinalDungeon/Buffs/LanternKingBuff_m_Description
 msgctxt "f54a14ec-c6a2-44d8-8925-f775ca54ce21"
@@ -4439,7 +4439,7 @@ msgid ""
 "the kingdom's borders, preaching to anyone who would listen and granting the"
 " needy the blessing of the Mother of Monsters."
 msgstr ""
-"라마쉬투의 사제 산나는 {mf|왕|여왕}의 곁에 오래 머물지 않았어요. 어느 날 밤, 그녀는 성에서 사라져 왕국의 국경으로 떠났죠. "
+"라마슈투의 사제 산나는 {mf|왕|여왕}의 곁에 오래 머물지 않았어요. 어느 날 밤, 그녀는 성에서 사라져 왕국의 국경으로 떠났죠. "
 "그리고 어려움에 처한 모든 사람들을 위해 말씀을 전하고, 괴물의 어머니의 축복을 베풀었답니다."
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0167_Text
@@ -4454,10 +4454,10 @@ msgid ""
 " and sometimes leads them to safety, are passed on by word of mouth "
 "throughout the area."
 msgstr ""
-"라마쉬투의 {d|c22 Olika Ritual}의식에{/d} 참여한, {d|Olika}올리카{/d}는 튼튼하고 건강한 아기를 낳았어요. "
+"라마슈투의 {d|c22 Olika Ritual}의식에{/d} 참여한, {d|Olika}올리카{/d}는 튼튼하고 건강한 아기를 낳았어요. "
 "슬프게도, 그 아이는 제멋대로에 폭력적인 소년으로 성장했어요. 불과 10살 때 친구를 불구로 만든 이 소년은 자기 대신 어머니를 갈기갈기 "
 "찢은 군중의 분노를 피해 날마치로 도망쳤어요. 그 사내아이에게 무슨 일이 일어났는지는 아무도 모르지만, 길을 잃은 여행객들을 때로는 "
-"죽이고 때로는 안전한 곳으로 인도하는 라마쉬투의 아이 전설이 지역 곳곳에 입소문으로 전해지고 있어요."
+"죽이고 때로는 안전한 곳으로 인도하는 라마슈투의 아이 전설이 지역 곳곳에 입소문으로 전해지고 있어요."
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0175_Text
 msgctxt "962653ab-cbc5-4991-80cb-48510f257cf6"
@@ -5195,7 +5195,7 @@ msgid ""
 " more than a few occasions — in the last year alone, three squadrons of "
 "Iomedae's paladins arrived in the kingdom!"
 msgstr ""
-"이제 도둑맞은 땅에는 산나같은 사람들이 많아졌어요. {mf|왕|왕비}가 {mf|그의|그녀의} 왕국에서 라마쉬투교를 허용하겠다 선언했기 "
+"이제 도둑맞은 땅에는 산나같은 사람들이 많아졌어요. {mf|왕|왕비}가 {mf|그의|그녀의} 왕국에서 라마슈투교를 허용하겠다 선언했기 "
 "때문이죠! {mf|그의|그녀}와 보좌관들이 두고 두고 후회할 결정을 한 건 아닌지 걱정이에요. 작년 한 해에만 아이오메데 팔라딘 세 "
 "부대가 왕국에 당도했거든요!"
 
@@ -7215,7 +7215,7 @@ msgstr "고블린 처녀들은 모두 감동했다네!"
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Answer_0052_Text
 msgctxt "2be4e49b-6d90-472f-b17a-a4c27938f633"
 msgid "And Lamashtu be impressed."
-msgstr "그리고 라마쉬투께서도 감동했다네."
+msgstr "그리고 라마슈투께서도 감동했다네."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Answer_0053_Text
 msgctxt "9ca7cf23-2f64-4779-b0cb-85e7cbfe4b54"
@@ -7516,7 +7516,7 @@ msgid ""
 "that it couldn't be written down by anyone short of a master ethnographer, "
 "who really loves their job."
 msgstr ""
-"고블린들은 고집부리지 않았어요. 게으름은 적어도 그들의 모시는 신들가운데 {g|Lamashtu}라마쉬투{/g} 만큼이나 중요했으니까요. "
+"고블린들은 고집부리지 않았어요. 게으름은 적어도 그들의 모시는 신들가운데 {g|Lamashtu}라마슈투{/g} 만큼이나 중요했으니까요. "
 "우리를 초대하지 않고는 그들은 크게 노래부리기 시작했어요. 그것은 크고, 엉망진창에 괴상했지요. 자기 일을 진정으로 사랑하는 위대한 "
 "학자라도 아마 그것을 적어내려가진 못했을 거에요."
 
@@ -7644,7 +7644,7 @@ msgstr "고블린 처녀들은 모두 감동했다네!"
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Cue_0115_Text
 msgctxt "baa2b803-1416-4fec-9475-b8c1fd291bf9"
 msgid "And {g|Lamashtu}Lamashtu{/g} be impressed."
-msgstr "그리고 {g|Lamashtu}라마쉬투{/g}께서도 감동했다네."
+msgstr "그리고 {g|Lamashtu}라마슈투{/g}께서도 감동했다네."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Cue_0116_Text
 msgctxt "b7333d48-5543-4c72-adb3-f2b1e5cd601b"
