@@ -36,11 +36,11 @@ def parse_arguments():
     parser.add_argument("-l", "--lang", required=True, metavar="LANGCODE",
         help="Translation language code")
     
-    parser.add_argument("-i", "--input", required=True, metavar="INPUT_PATH",
-        help="Input locale JSON file path")
+    parser.add_argument("-i", "--input", required=True, metavar="INPUT_DIR",
+        help="Input locale JSON file directory")
 
-    parser.add_argument("-o", "--output", required=True, metavar="OUTPUT_PATH",
-        help="Output locale JSON file path")
+    parser.add_argument("-o", "--output", required=True, metavar="OUTPUT_DIR",
+        help="Output locale JSON file directory")
 
     return parser.parse_args()
 
@@ -71,8 +71,8 @@ def main():
         print(f"{lang} language translation directory does not exist.")
         sys.exit(1)
     
-    if not os.path.isfile(in_path):
-        print(f"Input locale file {in_path} not found.")
+    if not os.path.isdir(in_path):
+        print(f"Input locale directory {in_path} not found.")
         sys.exit(1)
 
     # load translations
@@ -86,40 +86,60 @@ def main():
             entry: polib.POEntry = po[i]
             translation[entry.msgctxt] = TranslationEntry(entry.msgctxt, entry.msgid, entry.msgstr, entry.fuzzy, p+str(i+1))
     
-    print(f"Loaded {len(translation)} strings")
+    # print(f"Loaded {len(translation)} strings")
 
+    exclude_keyset = set()
     # load string number exceptions
     if n:
         exclude_keyset = load_exclude_keyset()
+
+    total = 0
+    translated = 0
+    missing = 0
+
+    import collections
+    missing_dict = collections.OrderedDict()
     
-    # open source locale file
-    with open(in_path, "r", encoding="utf-8") as f:
-        l = json.load(f)
-    
-    # patch locale
-    for entry in l["strings"]:
-        key = entry["Key"]
-        if not key or not entry["Value"]:
+    for filename in os.listdir(in_path):
+        if not filename.endswith(".json"):
             continue
 
-        tr = translation.get(key, None)
-        if not tr:
-            # print("Translation not found for " + entry["Value"])
-            continue
-        
-        if tr.translated:
-            value = tr.target
-        else:
-            value = tr.source
-        
-        if n and key not in exclude_keyset and tr.source != tr.target:
-            value = f"{value} ({tr.prefix})"
+        with open(os.path.join(in_path, filename), "r", encoding="utf-8") as f:
+            j = json.load(f)
 
-        entry["Value"] = value
+        for entry in j["strings"]:
+            key = entry["Key"]
+            if not key or not entry["Value"]:
+                continue
+            
+            total += 1
+
+            tr = translation.get(key, None)
+            if not tr:
+                missing += 1
+                missing_dict[key] = entry["Value"]
+                # print("Translation not found for " + entry["Value"])
+                continue
+            
+            if tr.translated:
+                value = tr.target
+                translated += 1
+            else:
+                value = tr.source
+            
+            if n and key not in exclude_keyset and tr.source != tr.target:
+                value = f"{value} ({tr.prefix})"
+
+            entry["Value"] = value
+        
+        with open(os.path.join(out_path, "zhCN" + filename[4:]), "w", encoding="utf-8") as f:
+            json.dump(j, f, ensure_ascii=False, indent=2)
     
-    # save locale
-    with open(out_path, "w", encoding="utf-8") as f:
-        json.dump(l, f, ensure_ascii=False, indent=2)
+    print(f"Translated {translated} of {total} strings ({translated * 100 / total:5.2f}%)")
+    
+    # print(f"{missing} missing translation.")
+    # with open('missing.json', "w", encoding="utf-8") as f:
+    #     json.dump(missing_dict, f, indent=2, ensure_ascii=False)
 
 
 if __name__ == "__main__":
