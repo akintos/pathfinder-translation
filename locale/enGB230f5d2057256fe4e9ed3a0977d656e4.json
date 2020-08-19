@@ -1,0 +1,77 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "748b7d44-7f55-496f-9b47-560d5ca58cd6",
+      "Value": "{g|Espionage5_1}[Choice effects]{/g} \"They died for us and our cause. We shall openly honor the dead.\""
+    },
+    {
+      "Key": "a235fee3-3cbb-44bb-ad62-0e8db1fb5c4f",
+      "Value": "{g|Espionage5_2}[Choice effects]{/g} \"Take care of their families without attracting undue attention.\""
+    },
+    {
+      "Key": "3da55f40-2c5d-49ce-9eaf-3202479668aa",
+      "Value": "{g|Espionage5_3}[Choice effects]{/g} \"We have nothing to do with them. That's what everyone must think.\""
+    },
+    {
+      "Key": "33a9a256-5100-4fc5-bd4d-e1cad2df062f",
+      "Value": "{g|Espionage5_4}[Choice effects]{/g} \"Let's execute travelers from Galt and then raise them as undead. I'm in need of loyal servants.\""
+    },
+    {
+      "Key": "62a4daab-c2d4-4f75-94a1-1cf8843b6ac7",
+      "Value": "{g|Espionage5_5}[Choice effects]{/g} \"Hang ten citizens of Galt in our territories for every victim among our people.\""
+    },
+    {
+      "Key": "131ab397-530c-49fc-810f-f7e5fb780bb2",
+      "Value": "\"You decide, and it's done.\""
+    },
+    {
+      "Key": "02755f45-1145-4da0-acd3-df59bc8161ef",
+      "Value": "\"We shouldn't have gotten caught. But we've been caught. I don't understand how. Litran learned who blew their spy's cover. In retaliation, they seized our own agents and executed them. They mean to send us a message. But what troubles me more...\""
+    },
+    {
+      "Key": "ce4b00e9-1af7-4931-b591-9ebdbb709cc0",
+      "Value": "{n}Jubilost's gestures are abrupt, his voice betrays uncertainty.{/n} \"Despite all our secrecy, someone in Litran discovered who thwarted them. Accuse me all you like! I can find a dozen better scapegoats for you. But it doesn't matter. Our people were captured by the Grey Gardeners and executed. They've sent us a clear message: 'stay away'.\""
+    },
+    {
+      "Key": "9e868bff-93a5-4616-91a1-07c75db4eba8",
+      "Value": "\"{name}, I've done my best to tread lightly, but Litran learned of our interference with their plans nevertheless. I told you we shouldn't play games with them. Our people have been captured and beheaded. Pathetic fools, and their irrational act of defiance! Others would recommend you renounce these executed agents, to protect your reputation. After all, they were nothing but pawns.\""
+    },
+    {
+      "Key": "f1723f09-5b09-4915-8e0a-f5a7ba65747e",
+      "Value": "\"It's dangerous. That's going to irritate our neighbors. But it's noble. Death doesn't seem so frightening when you know you won't be forgotten.\""
+    },
+    {
+      "Key": "5cacbaa2-26ce-4998-9633-8975111d5150",
+      "Value": "\"Hm... That's unwise from a political perspective. However, politics are constantly changing, like the boiling waters of a hot spring.\""
+    },
+    {
+      "Key": "e93144f2-70b2-4376-ade1-563f33a644f1",
+      "Value": "\"They fulfilled their duty. We shall fulfill ours. We will take proper care of their families.\""
+    },
+    {
+      "Key": "5f6cbdb3-41d7-4019-9c31-bc5c20149da1",
+      "Value": "\"That's for the best. Only by openly renouncing them can we really take up and finish their job. If we accepted responsibility for their deaths, we'd not only be harming ourselves, but we'd also be making their sacrifice meaningless. – Or whatever you're supposed to say in a situation like this...\""
+    },
+    {
+      "Key": "a612802e-9146-443f-9b53-29b945890e5a",
+      "Value": "\"I will happily demonstrate to the pathetic mortals that death is not the end of their service. I promise, you will appreciate your new servants.\""
+    },
+    {
+      "Key": "7e726784-d0b3-4443-9b21-f171768aedcf",
+      "Value": "\"You're no stranger to the creative approach. I like that. I will order a general hunt for interlopers from {g|Galt}Galt{/g}.\""
+    },
+    {
+      "Key": "0ca75dfe-24b2-49e4-8030-d76646247350",
+      "Value": "\"I implore you to embrace this message and refrain from further dealings with them. Do not think of vengeance, or even acknowledge the families of the dead. There can be no monuments to the fallen. We must avoid war. We mustn't allow predictable moves to lead us into a trap. Our agents knew very well what they were getting themselves into. As do we all.\""
+    },
+    {
+      "Key": "513a763e-cec9-426f-9c2e-748d0dd38e5a",
+      "Value": "\"But this would send a message that you're scared. I've a better plan. We'll capture citizens of {g|Galt}Galt{/g} that are presently in our lands, put them to death, and turn them into the obedient undead slaves. We must demonstrate that we cannot be intimidated or brought to submission.\""
+    },
+    {
+      "Key": "0f755488-27ca-44cd-89f0-54e5be98c6a9",
+      "Value": "{n}Ekun sighs.{/n} \"What shall we tell their families? Do we promise them that we won't disown them? That could be dangerous. Do we renounce them? That would be disgraceful. My advice is to take care of their families, but secretly. The dead would have wanted this.\""
+    }
+  ]
+}

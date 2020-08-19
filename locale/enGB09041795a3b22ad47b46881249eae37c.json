@@ -1,0 +1,93 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "26000a62-d98b-4bd3-a81c-2c7d0ee36cbf",
+      "Value": "{g|Military2_1}[Choice effects]{/g} \"Open unrestricted recruitment. Anyone with the will for it is good enough for our army.\""
+    },
+    {
+      "Key": "d4193aa5-9bff-4364-9ae9-749cc50dc83f",
+      "Value": "{g|Military2_2}[Choice effects]{/g} \"Select the strongest and most skillful recruits. I need real fighters.\""
+    },
+    {
+      "Key": "a5373366-ded6-432a-b6b9-7b4822711049",
+      "Value": "{g|Military2_3}[Choice effects]{/g} \"Select those who have ambition. Soldiers who dream of glory and rank always serve better.\""
+    },
+    {
+      "Key": "d05036bc-7876-4983-a9a3-e6ae2faab63f",
+      "Value": "\"Make your own decision.\""
+    },
+    {
+      "Key": "86089f4e-6a8b-4e01-9779-55b71657aeb3",
+      "Value": "{n}Kassil bows briskly, then hurries to speak.{/n} \"On your orders, I have reviewed our military forces. The results are... disappointing, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. We require new recruits – and the sooner the better.\""
+    },
+    {
+      "Key": "8932307d-7c72-412a-979b-45d50124e6d7",
+      "Value": "\"We can introduce some restrictions, limiting how many could qualify for service. However, under these circumstances I feel they shouldn't be very stringent. Indeed, I would recommend we announce that anyone can join the army – and I'm sure that we shall find many brave men among your subjects, ready to protect their lands!\""
+    },
+    {
+      "Key": "89a1806e-95cd-4821-af51-e6458c95a212",
+      "Value": "{n}Amiri looks displeased.{/n} \"Since you made me the troops' chief, listen to what I tell you: you need more people. The ones we have now are weaklings and cowards. If we don't get any good fighters, our neighbors will smash us whenever they want!\""
+    },
+    {
+      "Key": "dc83b5e7-cced-43f1-b474-0cb62899f4d1",
+      "Value": "\"Just so you know... you should pick better fighters. I don't want to deal with overgrown kids who complain about every scratch! Don't take just anyone who wants it – or else we'll have barracks full of pansies. What are we going to do with pansies? We need them strong and gutsy or it's no point.\""
+    },
+    {
+      "Key": "51d89530-b08c-4575-994a-12b49fe9b0d6",
+      "Value": "\"You busy? No? Then I got something for you.\" {n}Regongar stretches his shoulders, like he's readying for a fight.{/n} \"You may have killed the Stag Lord, but it's too early to kick back and relax. There's still plenty of bandits walking your lands. They still think it's their home. Let me get some more soldiers, before they cut through the ones we have and leave us with nothing.\""
+    },
+    {
+      "Key": "23295680-a7bb-4a02-b716-c797a85cc9d9",
+      "Value": "{n}The half-orc squints.{/n} \"You know which ones you need? Not the big dumb guys. No, you need fighters who want power. They'll serve you well. And if any should grow too bold...\" {n}Regongar sneers sullenly.{/n} \"I'll hang them from the trees.\""
+    },
+    {
+      "Key": "384327b4-afc6-4f4a-851e-0a165aade32b",
+      "Value": "\"Wonderful, {mf|Your Grace|Your Grace|Your Highness|Your Highness}! I will begin recruiting new soldiers immediately.\""
+    },
+    {
+      "Key": "d527aa11-d73d-4cf7-908b-2c53ee3aed31",
+      "Value": "\"Seriously? Your capital is already guarded by a handful of pansies, and now you want a whole army like that?! Ugh!\" {n}Amiri spits on the floor and angrily turns away.{/n}"
+    },
+    {
+      "Key": "fdef484d-e341-46bf-a651-fc9f488c62e7",
+      "Value": "\"Is that right? Well, you're the boss. We'll find a use for cannon fodder too.\" {n}Regongar shrugs nonchalantly.{/n}"
+    },
+    {
+      "Key": "c25b7b34-cd20-45b1-9563-d43cd6426428",
+      "Value": "\"As you wish, {mf|Your Grace|Your Grace|Your Highness|Your Highness}.\""
+    },
+    {
+      "Key": "dc85a6ff-94ca-4c87-82e8-38ca0224da85",
+      "Value": "\"Right! Just like I say! No idea why I come to you. I could just do it all myself.\""
+    },
+    {
+      "Key": "62b4154d-3493-4c5d-91d2-49d1080908b1",
+      "Value": "{n}Regongar shows his fangs.{/n} \"Dumb blockheads marching around? What am I supposed to do with these idiots?!\" {n}The half-orc growls in irritation and turns away.{/n}"
+    },
+    {
+      "Key": "27481182-a75a-4369-a137-012a28fb4202",
+      "Value": "{n}Kassil frowns.{/n} \"Ambition is good, when there's a place for it. But an army, with its strict order and hierarchy, is hardly a place for upstarts.\" {n}The half-orc coughs.{/n} \"I'm sorry to speak so freely.\""
+    },
+    {
+      "Key": "c93f9353-a47d-48ff-91df-02096206598b",
+      "Value": "\"Hmm... well, maybe something good will come from them. I understand. I'll go find some.\""
+    },
+    {
+      "Key": "37f5df39-039a-4697-8b59-2ad782b64e82",
+      "Value": "{n}Regongar grins.{/n} \"I like your attitude. I'll go get busy.\""
+    },
+    {
+      "Key": "7f7350b8-63b1-4314-a988-f1ee5ebd2c5e",
+      "Value": "\"As you wish. I will announce immediately that anyone who wishes to serve their native land shall be welcomed in its army.\""
+    },
+    {
+      "Key": "70b87dda-f99a-4b0b-ae98-e10d778a6b5d",
+      "Value": "\"So why did I come all the way here from the other side of the castle?! Fine, I'll recruit the ones I like. If he can get up after I punch him, then he's in.\" {n}Amiri cracks her fingers, ready for a brawl.{/n}"
+    },
+    {
+      "Key": "59ab5f3c-74ac-4a5b-b629-84f72000b29f",
+      "Value": "\"Great. I'll find the kind of recruits who'll crawl into the {g|Abyss}Abyss{/g} if it means they'll get a medal.\""
+    }
+  ]
+}

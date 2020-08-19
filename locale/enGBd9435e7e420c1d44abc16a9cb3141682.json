@@ -1,0 +1,133 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "a61ed51f-2b45-458a-8d2e-b56d479154fa",
+      "Value": "{g|Economy2_3}[Choice effects]{/g} [Gain 60 BP] \"Take these riches to the treasury.\""
+    },
+    {
+      "Key": "06e06170-638f-422a-a6b9-a70f091c4af9",
+      "Value": "{g|Economy2_2}[Choice effects]{/g} \"The owners of these things might be dead or on the run. We will use them to revive the villages that suffered the most under the Stag Lord's reign.\""
+    },
+    {
+      "Key": "e044aa04-1008-42d2-ae63-9daf2887df58",
+      "Value": "{g|Economy2_1}[Choice effects]{/g} \"These things don't belong to me any more than they belonged to the Stag Lord. Order them returned to the people.\""
+    },
+    {
+      "Key": "108a6b5d-7acf-450b-9912-885926022a95",
+      "Value": "\"You may decide what to do with these things.\""
+    },
+    {
+      "Key": "4cf04bdf-6a36-4fcb-9bab-7e0f5d5b870e",
+      "Value": "{n}Jubilost cordially greets you with a document.{/n} \"{mf|Baron|Baroness|King|Queen}! You will never guess what your Treasurer is holding.\" {n}He waves a paper above his head. The ink on it seems still wet.{/n}"
+    },
+    {
+      "Key": "a77870b7-2e1b-4e61-b72d-41c335d94b16",
+      "Value": "\"This is a list of things that tumbled out of the wall of your own basement, as the workers were undertaking repairs.\" {n}Jubilost adjusts his glasses and starts reading.{/n} \"A gilded guard, one, silverware, three, a set of old coins... The list is long and varied, so I'll get straight to the point: it appears that your workers uncovered the Stag Lord's secret cache – items stolen from his own henchmen.\""
+    },
+    {
+      "Key": "279939e2-bc73-4f37-a326-0b0d80b25574",
+      "Value": "\"Finding the true owners of these things would be a hard and thankless job, while taking these trinkets for your own chests is complicity to expropriation. In other words – robbery. As your financial advisor, I recommend a compromise: appraise these 'riches' and spend an equal amount on reviving the villages laid to waste by the bandits. Let these treasures bring some good to those who suffered most under the Stag Lord.\""
+    },
+    {
+      "Key": "3ed252df-69d0-437d-aed9-7d759ea2fd38",
+      "Value": "{n}Maegar's face is lit with a contented smile.{/n} \"My deepest respects, {mf|baron|baroness|King|Queen}! I have wonderful news for you: our workers have unearthed a true treasure!\""
+    },
+    {
+      "Key": "28c04143-c2e3-41c4-b1c5-a6fcadf3b736",
+      "Value": "{n}Bartholomew bows down.{/n} \"{mf|Your Grace|Your Grace|Your Highness|Your Highness}, I am happy to see you well! I would not bother you were it not for some wonderful news that I'm happy to share.\""
+    },
+    {
+      "Key": "eed72f67-5c4a-48a7-a84c-c56c36321b70",
+      "Value": "\"Then I shall arrange that the funds be directed to the restoration of the villages.\" {n}A contented smile crosses Jubilost's face.{/n}"
+    },
+    {
+      "Key": "9ca5c3d7-7d10-45c8-89c8-4710db84f611",
+      "Value": "{n}Jubilost sniffs, disappointed.{/n} \"A noble gesture, but folly nonetheless. Very well, as you wish.\" {n}The gnome sighs sadly and waves his hand.{/n}"
+    },
+    {
+      "Key": "0d92d1be-5947-4cc0-b329-4b5f22293196",
+      "Value": "{n}Jubilost nods solemnly.{/n} \"I knew you would follow my advice.\""
+    },
+    {
+      "Key": "4815a0d1-4396-40bb-b6e6-20dcfa51bb44",
+      "Value": "{n}Jubilost lets his glasses fall to the tip of his nose as he sizes you up, annoyed.{/n} \"So it's like that, is it? Following the example of your predecessor? If I were you, I would think well about this Stag Lord you're so glad to imitate – and the way he ended up!\""
+    },
+    {
+      "Key": "8a63479e-ffaa-402e-af71-78a3671989d8",
+      "Value": "\"Well, not exactly a treasure... more like the secret cache of the Stag Lord. Our workers broke through a wall to expand the basement, and found inside a hidden alcove filled with valuables. Not endless gold, but not rubbish either. I think they are the valuables of locals who thought they'd buy a few days' peace from the Stag Lord and his bandits.\""
+    },
+    {
+      "Key": "117ab91c-2f4d-4467-99c4-cd4a86366e6d",
+      "Value": "\"It's up to you what we should do with these items. Of course, they were found in your castle, so you could keep them in the treasury...\" {n}Maegar cringes.{/n} \"If you wish to consider the opinion of your Treasurer, I say you'd best give them away. It wouldn't amount to a great loss, and a few people might recover their family heirlooms.\""
+    },
+    {
+      "Key": "8304c4b7-1a96-4d69-ae62-b11542bd950e",
+      "Value": "\"The workers who are expanding the old fort's basements stumbled upon a cache. It appears that the bandit leader, who previously lived in this fortification, kept a little stash for a rainy day. Luckily, I was able to intervene before the workers stole everything, and now the treasure is at my... I mean at your disposal.\""
+    },
+    {
+      "Key": "00539df3-a8db-4785-ade5-8d1ae2015249",
+      "Value": "\"I recommend you claim the cache for your treasury. No matter how these things made their way to the Stag Lord, they are now yours – just like the castle, the surrounding lands, and all who live upon them. As your Treasurer, I assure you – in the future you and your {mf|barony|barony|kingdom|kingdom} will require all the money you can get!\""
+    },
+    {
+      "Key": "86ee9b33-7e23-49cd-ba08-11c62c6f2c7d",
+      "Value": "{n}Maegar's face grows dark.{/n} \"It's wrong to put claim such stolen things for yourself. I do hope in the future you will be more attentive to those who are less lucky in life than you.\""
+    },
+    {
+      "Key": "24b47595-7f33-4547-87b6-10ebf4998fd4",
+      "Value": "\"Very wise, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. But still, such a pity these things will never see their proper owners again... but your decision is probably fairer. I will make the necessary arrangements.\""
+    },
+    {
+      "Key": "fa6e28ea-e190-4aed-8cfe-e0eec07798c8",
+      "Value": "{n}Maegar nods contentedly.{/n} \"We will do just that, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, don't you worry. I will do everything in my power to personally track down the proper owners of each little thing – that is, of course, if they're still alive and weren't run off by the bandits.\""
+    },
+    {
+      "Key": "5dd53f2e-f1da-4da9-baa7-f34495c57fde",
+      "Value": "\"Thank you for your trust, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. With your permission, I shall order the discovered riches returned to the people.\""
+    },
+    {
+      "Key": "5f6c9d6b-d4d2-4761-bda1-4ad064bf197b",
+      "Value": "\"A wonderful decision, {mf|Your Grace|Your Grace|Your Highness|Your Highness}! I will do as you ask!\""
+    },
+    {
+      "Key": "c1b786d9-c334-4e8d-910a-c7b0030d3e62",
+      "Value": "{n}Bartholomew strokes his mustache, brooding.{/n} \"You are farsighted, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. I hope the returning village folk appreciate your generosity.\""
+    },
+    {
+      "Key": "8bc78c9d-4cf8-442c-ae77-5403261b0f9c",
+      "Value": "{n}Red spots appear on Bartholomew's face, and he repeatedly opens his mouth, as if gasping for air.{/n} \"{mf|Your Grace|Your Grace|Your Highness|Your Highness}! How could you! Such... pointless... expenses! If we keep giving your treasures away at this rate, we'll soon be begging on the streets!\" {n}The Treasurer is silent for a few moments, then sighs and lowers his head.{/n} \"As you wish, {mf|baron|baroness|Your Highness|Your Highness}.\""
+    },
+    {
+      "Key": "5dd0964a-3e6d-4ced-9b78-3b437e1bf25d",
+      "Value": "\"{mf|Your Grace|Your Grace|Your Highness|Your Highness}, I am glad to be worthy of your trust. I shall ensure that all these riches, to the last coin, find their way into your coffers.\""
+    },
+    {
+      "Key": "7877f373-2834-4c5b-a56c-4ead5252f344",
+      "Value": "\"Look at this.\" {n}Kanerah is fiddling with a fine silver snuffbox.{/n} \"It's just a small part of the treasures that the workers found in the fort's cellars. The treasure's unpleasant history puts both of us – you as the {mf|baron|baroness|King|Queen}, and me as your Treasurer – in an awkward position.\""
+    },
+    {
+      "Key": "2eb304b7-3662-4449-a069-71f15c90cb0b",
+      "Value": "\"To Millar Fulson from his brothers-in-arms.\" {n}Kanerah frowns, reading aloud the text engraved on the lid.{/n} \"And all the other treasures are the same. Goblets, silverware, jewelry... Some still tainted with dried blood. Apparently, the Stag Lord stashed away many of the valuables he'd pillaged. And now we must decide what to do with this dark inheritance.\""
+    },
+    {
+      "Key": "2f47acb5-370f-4e74-83a1-fe248b3080f0",
+      "Value": "\"We can't keep it. If we do, we'll admit we're not a legitimate power, but just another gang of thieves. On the other hand, how are we ever going to find this Fulson and all the other poor victims? How many of them still live? I suggest we use these treasures to restore the villages decimated by the Stag Lord. That will be good for the state, and at the same time will strengthen your reputation as a fair ruler.\""
+    },
+    {
+      "Key": "0b301ed9-5916-4feb-abc8-d74a01c67ed1",
+      "Value": "{n}Kanerah shakes her head.{/n} \"Fair, but impractical. Your subjects will appreciate the gesture, of course, but I'm afraid we'll spend more money looking for the owners of these little treasures than they're even worth. Well, I'll go put together an inventory!\""
+    },
+    {
+      "Key": "b1fd43b0-0a7b-4e4f-83b7-b41273649aed",
+      "Value": "\"That's the right call. This way you'll be able to present yourself as a fair benefactor to your subjects – and at their own expense!\""
+    },
+    {
+      "Key": "e14e8c23-7daa-46dd-b6f7-80630e892668",
+      "Value": "{n}Kanerah shakes her head.{/n} \"I will do as you say, but I must warn you, you're making a mistake. You'll have enough chances to rob these poor folks. But you shouldn't pass up the chance to buy something that's usually not for sale – their good will.\""
+    },
+    {
+      "Key": "400161b0-f163-4e69-9981-7dd232cf00ce",
+      "Value": "\"So we'll spend it on restoring the villages. Most importantly, we need to spread the word about this as quickly as possible. Even villages that won't see a single copper of this treasure will hear all about your generosity and fairness!\""
+    }
+  ]
+}

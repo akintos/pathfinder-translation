@@ -1,0 +1,189 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "74ccec27-cbca-4b5d-932a-43ce67116a8b",
+      "Value": "\"What's your advice?\""
+    },
+    {
+      "Key": "2f39ef8f-62d4-4170-a57e-b37e1aaa1be5",
+      "Value": "\"The barbarians are coming for us anyway, so let our guard benefit from the extra numbers. Let the Golden Shields take up their duties immediately.\""
+    },
+    {
+      "Key": "e989fb6c-d0c6-4d04-9272-02de5337f210",
+      "Value": "\"We shall accept Wigmold's proposal. His magical surveillance system sounds most promising.\""
+    },
+    {
+      "Key": "d21be324-7967-41f2-a803-f90367ec1a63",
+      "Value": "\"I wish to speak with Roham, the leader of the justiciars.\""
+    },
+    {
+      "Key": "81dbb06f-915d-478f-8cb4-8977e77bbcb7",
+      "Value": "\"Let us hear what Wigmold has to say about his magical surveillance system.\""
+    },
+    {
+      "Key": "efb30fc1-02b8-49ca-a4ee-2079ea2c41bc",
+      "Value": "\"I wish to further question Wigmold\"."
+    },
+    {
+      "Key": "8bfc11ac-94ca-4346-b653-023c6a626f91",
+      "Value": "\"I wish to speak further with Roham.\""
+    },
+    {
+      "Key": "0df1f7a0-66c5-4846-a494-7968adc4a9eb",
+      "Value": "\"Enough. That is all that I needed to know.\""
+    },
+    {
+      "Key": "60774ad6-0b30-4d9c-b172-c1b454f95cd5",
+      "Value": "\"So why did you leave Druma?\""
+    },
+    {
+      "Key": "82751b21-9886-4151-9e47-15c89ebbf504",
+      "Value": "\"Tell me about the lands that you hail from.\""
+    },
+    {
+      "Key": "4b4bf600-d631-465e-9f2c-14512eaa457c",
+      "Value": "\"What exactly is it that you do?\""
+    },
+    {
+      "Key": "5498607b-f855-4c8c-b958-376e3466f213",
+      "Value": "\"How does your surveillance system work?\""
+    },
+    {
+      "Key": "1e5b7c6e-adb9-4939-89d2-df566d1029f6",
+      "Value": "\"There's been trouble. The night patrol caught a barbarian. He was about to poison a well on the outskirts of the capital. Tried to run, got shot. As he died, he swore that the shamans of his tribe would stop at nothing to poison all the food and water in the city.\""
+    },
+    {
+      "Key": "282c3231-7295-4385-a3e9-c598a3e3fd08",
+      "Value": "\"The Capital is in danger, Your Highness! A night patrol in the outskirts caught a Kellid barbarian trying to poison a well. He was fatally wounded during the arrest. But before he breathed his last, he threatened that their shamans were going to poison all our food and water, and even the air we breathe.\""
+    },
+    {
+      "Key": "1341a657-64b3-4f81-8928-b0edc078ff99",
+      "Value": "\"I got three pieces of news for you: one good, one bad, and the last one good again. The first is that my boys caught a Kellid barbarian trying to poison a well last night. That's pretty good, eh? He still managed to poison the well though...\""
+    },
+    {
+      "Key": "299125e8-e867-4042-bf0f-d3119700434e",
+      "Value": "\"We don't know what shamans he spoke of, or when they might strike. We don't even know if we can trust the words of the dying barbarian. We're in a rough spot, but I brought a couple of allies who could help.\" {n}Kesten nods in the direction of his companions.{/n}"
+    },
+    {
+      "Key": "05b6abc5-4d7c-4516-9806-016df2cd2084",
+      "Value": "\"We don't know who they are, how many they are, or where they are… And we need any help we can get. Two of our citizens have already stepped forward to offer plans and resources. The first — Roham Orand, justiciar of Abadar and leader of the Golden Shields. She wants to distribute her people around the city and capture the barbarians as soon as they appear. The other one — Wigmold Smegglyduddn. He has plans for a magical spying system. With his help, we might be able to find out where the enemy is hiding, and strike first.\""
+    },
+    {
+      "Key": "3c81594d-0834-46a6-9a79-8706de67c892",
+      "Value": "\"Naturally, the savage gave us some lip while we questioned him. At one point he even spat his teeth at us, ha ha! But in the end he sang. Apparently, a whole group of Kellid shamans are planning to poison the capital's food and water supplies. This whole thing has got me blazing mad. We knew nothing about this! And it was just dumb luck that we caught this idiot. Who are they? How many are there? – And when are they going to strike? It would have been a mess – and there's no way we'd be able to catch them... However!\" {n} The half-orc smiles, baring his fangs.{/n} \"Don't forget, the third piece of news is another good one.\""
+    },
+    {
+      "Key": "8a2d58f3-1637-4024-aa21-f50893653f39",
+      "Value": "\"I don't know what sorcery Wigmold uses. But I do know that if you're looking for a needle in a haystack, it's best to use magic. Too many people live in the capital. There's too many wells, granaries, warehouses. Our guard isn't trained to cover so much ground at once, and besides, we don't have enough guards to do it. Instead, we've taught them to track down the criminals beforehand, and move in to intercept. That makes Wigmold the better option.\""
+    },
+    {
+      "Key": "f7218093-1639-4eca-b775-501b57342a18",
+      "Value": "\"I do not trust magic. However, I know that our guards would make better use of a surveillance system. The way we have approached the problems that have arisen over the years – this has taught them specific skills. They know how to move quickly and strike first, to prevent crimes from occurring... but they would fare worse at protecting multiple locations at once, or sealing off every entry and exit from the city. We simply won't have enough people for that. Thus, it's better to chose Wigmold.\""
+    },
+    {
+      "Key": "5de4dc43-c8f6-474b-8327-ba96328cab04",
+      "Value": "\"I know our men. We've trained them to work with their muscles and their intuition – but we haven't trained them for patience. They're just not the kind of guys who can stand guard day and night at every gate and crossroads. And we don't even have the manpower for it. So it would be better to let Wigmold cast his magic thing and tell us how to catch the shamans before they strike.\""
+    },
+    {
+      "Key": "3ba08adc-f703-4acc-a477-c7ed300a9275",
+      "Value": "\"I'll help Roham and her people settle in.\""
+    },
+    {
+      "Key": "354bcfe9-ec32-4ea0-a24d-9b23f63652ac",
+      "Value": "\"As you wish, Your Highness. I'll make sure Roham and her team are briefed.\""
+    },
+    {
+      "Key": "9bb1e771-903c-4809-b253-56b00d761d44",
+      "Value": "\"Shall be done. We'll see what they're worth…\""
+    },
+    {
+      "Key": "b18f1450-c01e-4d6e-9d47-471959579ff3",
+      "Value": "{n}Ekun nods with a barely audible sigh.{/n}"
+    },
+    {
+      "Key": "b7517bc6-daa8-4338-8cbb-e4bd4152013d",
+      "Value": "\"As you command, Your Highness. We will begin calibrations immediately.\""
+    },
+    {
+      "Key": "cd645cc1-987f-4c91-9b4f-2b56022dbb78",
+      "Value": "\"Excellent. Well, no point standing around then. Let's go have a little talk, Wigmold…\""
+    },
+    {
+      "Key": "634f6bf9-46db-4b6f-9e69-067f6f20d48d",
+      "Value": "\"Magic is good. But our guards cannot use the knowledge that Wigmold's spells would provide. They're not fast enough, not nimble enough. They don't know how to strike first, preemptively. We've rarely ordered them to do so. But they do know how to lock down the city, and guard it day and night, so that no one can pass by unnoticed – which would be even easier with more eyes and swords. I would choose Roham.\""
+    },
+    {
+      "Key": "4cb670b1-b4e5-457f-8137-886dd6a217b5",
+      "Value": "\"The strength of our guard does not lie in its ability to track down potential criminals and catch them ahead of time. But our guard can capably cast a net over the whole city and maintain constant control over multiple remote locations. And if the Golden Shields can help us make the net even stronger, and guard all entrances and exits from the city even more thoroughly...\""
+    },
+    {
+      "Key": "365402d1-dcb4-4711-88df-4b04930f4f24",
+      "Value": "\"Even if Wigmold tells us where to look for the barbarians, even our fastest guards wouldn't be able to intercept them quickly enough. Our boys can block off several streets at a time, and stay on post day and night – and thoroughly pat-down everyone entering and leaving the city... My fat-arsed oafs barely remember how to walk. You think they'll be more effective staring at crystal balls instead of patrolling the streets? Ha! We'll be better off with the Golden Shields.\""
+    },
+    {
+      "Key": "fb7576bf-334c-4f2d-b8bf-4a72525f4af7",
+      "Value": "\"The big one is Roham Orand, justiciar of Abadar and captain of the Golden Shields. She guarantees that if her people go on patrol with our guards, they'll pounce on the trouble-makers as soon as they enter the city. And… ahem… that's Wigmold Smegglyduddn. He says he'll install a magical surveillance and prevention system that will allow us to locate and neutralize those barbarians before they can even get close to the city walls.\""
+    },
+    {
+      "Key": "f0cf49e1-e07c-4e40-9345-346570f1ebc7",
+      "Value": "\"There's a couple folks ready and waiting to help us out. You just gotta pick which one gets the job. Meet Roham, a justiciar of Abadar — her band, the Golden Shields, promises to stand guard at every city gate and catch our unwashed friends within a fortnight. And there's... what was his name, damn it... Ah, ha ha, Wigmold. He's ready to set up a magical surveillance system of his own invention in the Capital. With that we'll be able to catch both the barbarians and any other undesirables, ha ha hmm...\""
+    },
+    {
+      "Key": "411e7db0-e1d0-4b08-a666-69b53455f20c",
+      "Value": "{n}Roham bows courteously.{/n}"
+    },
+    {
+      "Key": "cc0e7703-a386-4fa0-bbf9-9b7b3837b6d2",
+      "Value": "{n}The captain's face lights up with a barely visible smile.{/n} \"Thank you, Your Highness. We will justify your trust in us.\""
+    },
+    {
+      "Key": "99451ff2-dde0-49ac-bbcf-141d72420462",
+      "Value": "\"Aha! And there you have it!\" {n} The gnome gleams with happiness. It seems like he's barely holding back from sticking his tongue out at Roham.{/n} \"An excellent choice, Your Highness! I promise, you will always remember old Wigmold with gratitude!\""
+    },
+    {
+      "Key": "909c0282-087c-4c7e-97e2-454241647f9b",
+      "Value": "{n}Wigmold lowers his heavy gaze in a farewell bow. Even his bracelets seem to clink more sadly.{/n}"
+    },
+    {
+      "Key": "acf212b1-9475-4fb0-bd14-1e1a59673b5c",
+      "Value": "\"How may I help?\""
+    },
+    {
+      "Key": "c54a8298-5c06-4ce9-a102-08007adf454d",
+      "Value": "{n}The aged gnome bows long and deep, as the many bracelets on his wrists chime softly. The expensive cloth and elegant cut of his robe would be the envy of any metropolitan dandy, though few would dare leave the house draped in such bold colors.{/n} \"Wigmold Smegglyduddn, the finest magical surveillance system specialist from Druma to Brevoy. At your service!\""
+    },
+    {
+      "Key": "578a8ffe-699a-436e-8a3e-6daecd0a80f2",
+      "Value": "\"At your service!\""
+    },
+    {
+      "Key": "44c63bcf-989b-43c9-bbeb-3b655a612c68",
+      "Value": "{n}Wigmold bows deeply, and the hall is once more filled with soft clinking.{/n}"
+    },
+    {
+      "Key": "647e353b-d044-4094-b59a-87d9cc2a0944",
+      "Value": "\"Life in Druma is most remarkable, but it grows dull quite quickly. The constant struggle for power and gold is wearisome. I felt a lack of spontaneity, of unpredictability, of strong feelings and grand gestures… In other words, all those things that are so abundant in your lands.\" {n}For a second the gnome loses himself as he gazes dreamily into the distance.{/n}"
+    },
+    {
+      "Key": "ce3eebc9-6909-4b7a-8911-0dbb05338bf6",
+      "Value": "\"Your Highness wishes to learn of Druma?\" {n}The gnome smirks.{/n} \"'Tis a land most striking, for its people worship not the gods, but trade and prosperity. Nearly all the people of Druma follow the Prophesies of Kalistrade — a philosophy that preaches severe abstinence, and professes that the acquisition of wealth is the purpose of life.\""
+    },
+    {
+      "Key": "9b46b1bc-4283-4c41-987f-edef30533f2c",
+      "Value": "\"They respect law and order, but never choose sides in the universal battle between good and evil. They follow a strict diet and refuse themselves basic comforts, even though they could afford to drown themselves in luxuries. They maintain ritual purity, only draping themselves in white colors and wearing elbow-length gloves to avoid any physical contact with infidels. It is considered a virtue to never give to charity, and those who acquire wealth despite their superiors' efforts are rewarded.\""
+    },
+    {
+      "Key": "58de5232-e50c-4508-a922-e2966770e33f",
+      "Value": "\"Your Highness's interest flatters me, but I'm afraid that I would be ruining myself if I were to surrender the details. It's a trade secret, you see. I can only say that it is my own design, which has allowed me to radically increase the zone of control compared to my competitors' products. While many of the usual charms can capably detect a breach and send out the alarm within one or two buildings, my system is capable of covering several districts... and a whole city if necessary!\""
+    },
+    {
+      "Key": "5da61230-3436-4a8c-924d-f920f98f5c8a",
+      "Value": "\"My enterprise offers a full range of services in security assurance! If you install one of my magical surveillance complexes, you will always know who enters or leaves the contractually determined zone of control, as well as when they enter and leave, and even — for a price — why.\""
+    },
+    {
+      "Key": "6fb9e021-d65f-42d1-8b8f-420e4a222219",
+      "Value": "\"In Druma, my systems were in high demand from both law enforcement, who needed to keep the town hall and prison under constant surveillance, and countless private clients. I've experience working with banks, jewelery stores, art galleries…\""
+    }
+  ]
+}

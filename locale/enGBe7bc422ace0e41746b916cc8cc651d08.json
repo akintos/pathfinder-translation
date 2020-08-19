@@ -1,0 +1,133 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "0d98681e-7299-4963-bf68-3a6f2ccec332",
+      "Value": "\"What happened to you?\""
+    },
+    {
+      "Key": "cd419edc-d852-4d43-bfd4-cb1b8862011d",
+      "Value": "\"I'm glad that's over with. Let's keep going!\""
+    },
+    {
+      "Key": "0095575d-e1bb-4cc8-98ec-c4cf577a0021",
+      "Value": "\"What happened here?\""
+    },
+    {
+      "Key": "7096cae3-9e0e-4505-bd68-3ff3f7110ba1",
+      "Value": "\"Jaethal? How is it that you are here — and alive?\""
+    },
+    {
+      "Key": "fadf2e1e-1028-48ac-8cca-a0818735407b",
+      "Value": "\"Tristian? What happened?\""
+    },
+    {
+      "Key": "25e7510d-bed7-48cc-93bb-72601e9b5296",
+      "Value": "\"I don't want to have anything to do with Jaethal's murderer.\""
+    },
+    {
+      "Key": "dc61e2ab-83c9-44ed-80ad-b7f91c03a28d",
+      "Value": "\"What's done is done. Let's keep going.\""
+    },
+    {
+      "Key": "155b1097-e34a-41cd-b436-8f9c51ad8048",
+      "Value": "\"You're a murderer. I don't want your help!\""
+    },
+    {
+      "Key": "8f64931f-26eb-4bdb-b672-7b56a08900b3",
+      "Value": "\"Wrong. Get out.\""
+    },
+    {
+      "Key": "c86e9591-cbfc-48ef-ac3d-97d83715154e",
+      "Value": "\"I think I'll let you stay, but only because I need all the help I can get to fight Nyrissa.\""
+    },
+    {
+      "Key": "a638c337-7a15-4262-b9d8-ba8a7309ce56",
+      "Value": "\"Leave. We now go separate ways.\""
+    },
+    {
+      "Key": "e2b48c1a-607e-4655-8ec4-66e0b220fe4e",
+      "Value": "\"Maybe you're right. You can stay, but only because I'm going to need your prayers.\""
+    },
+    {
+      "Key": "ff374d23-dfa9-4f05-969b-6a18d5fd7c45",
+      "Value": "{n}Jaethal tries to pretend nothing happened, but she breathes out, relieved. She literally breathes out — which means she is breathing...{/n} \"Great. Everyone is back together again. I suppose now we can go look for that inventive nymph and deal with her once and for all?\""
+    },
+    {
+      "Key": "345e9cb0-f204-43ce-86df-6080587954f0",
+      "Value": "{n}Tristian sighs.{/n} \"I'm ashamed to say it, but I fell for Nyrissa's lies yet again. She fooled me with an illusion, showing Jaethal killing innocent elves. I let rage overwhelm me, which happens to me rarely, as you know. But then... the lessons I learned from you, {name}, were not in vain. I remembered your wisdom and mercy for the innocent souls of the Kingdom of the Cleansed. I remembered how you {d|Jaethal Pharasma}convinced{/d} Jaethal to stop serving Urgathoa for the sake of her daughter's life. This stayed my hand.\""
+    },
+    {
+      "Key": "139aeffb-6524-4bc4-9fbe-a389dab2d689",
+      "Value": "\"I was expecting you to ask.\" {n}The elf smiles a contented smile.{/n} \"You see, my elegant {d|Jaethal Pharasma}performance{/d} in the elven camp didn't go unnoticed. When I rejected {g|Urgathoa}Urgathoa's{/g} gift, I mocked my former mistress. There is at least one deity who liked that very, very much. And we have one acquaintance among that deity's chosen who put in a word for me. So I was allowed to return — with a new mission and new goals. I'm not undead any more, but I'm still an inquisitor... An inquisitor of {g|Pharasma}Pharasma{/g}.\""
+    },
+    {
+      "Key": "a9972557-20e8-4ccd-9370-290026b5d619",
+      "Value": "\"Nyrissa wove an image of Tristian begging {g|Sarenrae}Sarenrae{/g} for my death. I might have believed the deception, if I hadn't known this righteous fool can't stop himself from trying to talk sense into everyone, even that stupid fanatic {d|Tristian Ruthgert Persuaded}Ruthgert{/d}. One minor detail: Nyrissa offered me {g|First World}First World{/g} immortality. Tempting, yes, but I didn't fancy falling under the power of a semi-insane nymph. Not to flatter you, {name}, but you're a far more worthy ruler and patron.\""
+    },
+    {
+      "Key": "2556b150-5962-422a-abc2-352b4a6a32da",
+      "Value": "\"As for Tristian... I'm sorry that I accidentally deprived you of this useful tool. I'd be happy to raise him as undead, but {g|Sarenrae}Sarenrae{/g} has already taken the soul. We don't want to wrestle with the Everlight.\""
+    },
+    {
+      "Key": "23158cc2-516f-4ec5-b595-42f49ea8dec9",
+      "Value": "As for Tristian... death is a part of the natural circle, and it's not the first time he's walked this road. I'm sorry that I involuntarily deprived you of a useful tool. But he showed once again that he's unreliable and easily manipulated. You have to face Nyrissa with the best — those you can truly rely on.\""
+    },
+    {
+      "Key": "7b9f19c9-42ea-4547-a913-7402f1b79bac",
+      "Value": "{n}Jaethal shrugs.{/n} \"The naive boy-priest fell for Nyrissa's illusions and attacked me. The nymph tried to fool my mind as well. — She even offered me {g|First World}First World{/g} immortality, can you imagine? She failed, of course. Not to flatter you, {name}, but you are the only leader I'm ready to follow. You have the will and mind worthy of a ruler. It would be inexcusably stupid for me to exchange your favor for the whims of an insane nymph.\""
+    },
+    {
+      "Key": "bfa69c42-409d-48e8-80c4-cc4775ba64a5",
+      "Value": "\"Unwise. You should not squander your companions now, when you're under such desperate circumstances. Right?\""
+    },
+    {
+      "Key": "a49957f6-c36b-4f95-af6f-c2fd6ea78da9",
+      "Value": "{n}Tristian is kneeling beside Jaethal's motionless body, quietly saying a prayer to {g|Sarenrae}Sarenrae{/g}. Noticing you, he jumps up.{/n} \"{name}! You found the way! Praised be Sarenrae... I...\""
+    },
+    {
+      "Key": "18c2db38-f823-431b-99ff-27d5136d87d7",
+      "Value": "{n}Jaethal is kneeling beside Tristian's body, lazily running her fingers through the dead priest's golden locks.{/n} \"What a pity... he was a nullity in life, but it's sad to see resources wasted so.\""
+    },
+    {
+      "Key": "2ee45f16-2eba-4619-a01d-2ea0056476ef",
+      "Value": "{n}Jaethal and Tristian keep their distance from each other. Both of your companions look wearied from a fight, but both are alive. Tristian notices you first.{/n} \"{name}! Praised be {g|Sarenrae}Sarenrae{/g}, you're alive!\""
+    },
+    {
+      "Key": "f68239a9-c6f1-446d-ad26-f3c88908572c",
+      "Value": "\"Finally a well-reasoned position. Let's not waste time on idle talk and keep moving.\""
+    },
+    {
+      "Key": "8cee5f7e-ecb1-4dd7-8ead-96568ebdc65b",
+      "Value": "\"If you insist...\""
+    },
+    {
+      "Key": "c100ce00-d952-405f-8f44-08ee3514b95b",
+      "Value": "{n}Tristian frowns but replies, looking you firmly in the eye.{/n} \"Both Jaethal and I fell for Nyrissa's lie. She fooled us with illusions and made us fight each other. And I was stronger. I never expected I...\" {n}Tristian chuckles, tired and sorrowful.{/n} \"I learned many lessons while traveling with you, and resilience was chief among them. Jaethal lacked it...\""
+    },
+    {
+      "Key": "ec040735-682e-409b-8d61-84dcf465e870",
+      "Value": "\"I want to tell you — this might sound cruel, but I don't regret what happened. I might have been driven by Nyrissa's lies, but for too long I'd turned a blind eye to what a monster Jaethal was, and how much harm she did. You've made it clear many times that indiscriminate forgiveness is not always the best solution. Well, I've learned this lesson.\""
+    },
+    {
+      "Key": "3fe4379b-25e5-48c6-a2d4-7ac7def7d1cc",
+      "Value": "\"But so many questions remain... Jaethal was different when she returned from {d|Jaethal Pharasma}death{/d}. When I killed her she was a living creature, not undead. And the symbols on her weapon... it's marked by {g|Pharasma}Pharasma{/g}. Could it be that the Lady of Graves gave her a second chance for a more worthy life — only for me to take it? I don't know, and probably never will. But I'll have to live with it.\""
+    },
+    {
+      "Key": "94c3b983-0c22-487e-bc1a-d0b29e1ca0c8",
+      "Value": "\"I... understand. And yet I must ask you — are you sure you're ready to let me go now, when you're facing a battle with Nyrissa? I would like to stay and help you in this fight.\""
+    },
+    {
+      "Key": "23eec95b-3d44-4995-b261-d01e218740ac",
+      "Value": "{n}Tristian lowers his head.{/n} \"Then farewell, {name}. Nonetheless, I'll pray for your success.\""
+    },
+    {
+      "Key": "66cfd41a-b445-4aff-bf75-05455691e8a8",
+      "Value": "\"Then let's go — into the storm!\""
+    },
+    {
+      "Key": "da607940-a095-47c6-b40d-10e9ac8ad11b",
+      "Value": "{n}Tristian frowns but replies, looking you firmly in the eye.{/n} \"Both Jaethal and I fell for Nyrissa's lies. She tricked us with illusions and made us fight each other. And I turned out to be the stronger. Death has never been so close to me, but I... I knew I must return to you. No matter what else.\""
+    }
+  ]
+}

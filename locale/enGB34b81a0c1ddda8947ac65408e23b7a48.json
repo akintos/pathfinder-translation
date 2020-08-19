@@ -1,0 +1,29 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "972b34ac-8134-4139-89f7-3b34c4eaf927",
+      "Value": "\"Guards! Take her. Send her head to Irovetti as our reply!\""
+    },
+    {
+      "Key": "35e1dbb5-36ee-4056-838b-6672e387c349",
+      "Value": "{n}The emblem of {g|Pitax}Pitax{/g} glistens on the messenger's chest. She stands proudly and speaks her words bold and clear:{/n} \"Your Highness, {Name} the First! I have a message for you from Irovetti, King of Pitax.\""
+    },
+    {
+      "Key": "b55cb268-3e6a-47d9-9900-ae48eb707e6b",
+      "Value": "{n}Your guards disarm the screaming messenger and drag her away.{/n}"
+    },
+    {
+      "Key": "c7640827-a023-497b-8e90-9067b6c5abc2",
+      "Value": "\"I am sorry, Your Highness, but I do not have authority to negotiate. I was only vested with the task of delivering my King's message and receiving your reply.\""
+    },
+    {
+      "Key": "51504f61-224b-438b-842d-b342b8f2a9ce",
+      "Value": "\"I will pass your words to His Highness.\""
+    },
+    {
+      "Key": "bff25da6-9517-4eed-b3fb-01ee6a5a5543",
+      "Value": "{n}After a low bow, the messenger leaves the throne room.{/n}"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "9d2b44fa-6b07-4c9c-9b4b-ed02bd8f5ee9",
+      "Value": "\"I'm the local baron{mf||ess}. My lands aren't far from here.\""
+    },
+    {
+      "Key": "3efb9226-1bf0-43e0-aaa4-b2621fe0353b",
+      "Value": "\"Mind your tongue! I'm the local baron{mf||ess}. My lands aren't far from here.\""
+    },
+    {
+      "Key": "843bdd90-0447-4f56-a46c-0717b1e83008",
+      "Value": "[Leave] \"We're just travelers. We'll be on our way.\""
+    },
+    {
+      "Key": "6099f599-b2bf-4d6d-9ffc-aad7da25ee0e",
+      "Value": "\"Actually, I don't think I can help you.\""
+    },
+    {
+      "Key": "ed0b995b-8c54-43f6-875c-bc8a777fa788",
+      "Value": "\"From Numeria? You're pretty far from home.\""
+    },
+    {
+      "Key": "7e99ac94-2a89-4158-844e-6c30c1af0b53",
+      "Value": "[Share food with the barbarians] \"We're not here to fight. Let's share some bread and have a chat.\""
+    },
+    {
+      "Key": "fa5fddb0-fe12-47b2-8326-50cdbdeffd8b",
+      "Value": "\"What are you searching for?\""
+    },
+    {
+      "Key": "0c7c643f-9389-4785-9409-cd7f49a3b715",
+      "Value": "\"Are you the only group of Numerians here?\""
+    },
+    {
+      "Key": "e1a758d2-51f2-45d7-960e-d60a8d85c072",
+      "Value": "\"Have you found anything interesting in the area?\""
+    },
+    {
+      "Key": "f7fc4028-1e8a-4727-ab92-6fb03cd66293",
+      "Value": "\"Tell me about Numeria.\""
+    },
+    {
+      "Key": "9f236cda-c6e9-4428-9f54-26280dc00467",
+      "Value": "\"Tell me about your tribe.\""
+    },
+    {
+      "Key": "9bf2e308-37f0-4da8-b7e5-5062d9d7760f",
+      "Value": "[Leave] \"Safe travels!\""
+    },
+    {
+      "Key": "6dcee6e5-7ef0-4221-b48a-97a4e7f69438",
+      "Value": "\"Who's Dugath?\""
+    },
+    {
+      "Key": "d8df65c6-b863-408a-83ed-a98767eade74",
+      "Value": "\"You don't like technology?\""
+    },
+    {
+      "Key": "c5c3c3f0-579a-49da-80c4-f6e31fb97a99",
+      "Value": "\"Do you know anything about the situation at Varnhold?\""
+    },
+    {
+      "Key": "ba16badb-6bf7-4e3d-9e8a-66873bc22e64",
+      "Value": "{n}A small but well-armed group moves across the flatlands. Tattoos, leather and fur clothing, bone amulets at their belts — these are barbarians. Kellids, to be precise, probably from neighboring Numeria, or maybe lands even further north. They stop when they see you, hands on their weapons and frowns on their faces.{/n}"
+    },
+    {
+      "Key": "5d62aa58-472d-4ee7-8348-9bc76ae704e3",
+      "Value": "\"What do you want? If you're looking for trouble, you might just have found it.\""
+    },
+    {
+      "Key": "c4277098-b385-4fbc-8331-24c4d2b1e93a",
+      "Value": "\"Hey!\" {n}One of the barbarians shouts toward Amiri.{/n} \"You're from the north, right? Which tribe?\""
+    },
+    {
+      "Key": "074c0e90-a775-491a-905c-bd33b3ed64d2",
+      "Value": "\"I'm by myself.\""
+    },
+    {
+      "Key": "7e6af76a-4a59-4be4-85ad-547ea323cbb8",
+      "Value": "\"Wait, isn't that the gal the Six Bears kicked out? Cause they were scared that if a woman touched a sword, their balls'd fall off?\""
+    },
+    {
+      "Key": "dac15a85-49cb-4634-8642-e17d98d49cf0",
+      "Value": "\"Ha, ha... Just let bygones be bygones. I walk with {mf|him|her} now.\" {n}Amiri points at you.{/n}"
+    },
+    {
+      "Key": "daaa3016-f665-44ff-82b9-d0c93dd40f35",
+      "Value": "\"Who're you, then? What do you want?\""
+    },
+    {
+      "Key": "ca371b5f-dc30-4817-aa46-d0965715efd7",
+      "Value": "\"Best stay out of the way, little one, or we might step on you!\""
+    },
+    {
+      "Key": "bcf8cae3-a70f-4151-a685-6312cf11c71e",
+      "Value": "\"Hey there, {mf|handsome|beauty}! What're you doing so far from the city? If you're not careful, you might get some calluses on those tender elven fingers!\""
+    },
+    {
+      "Key": "d38e0b0b-a499-4add-a25d-b81b3fc0e412",
+      "Value": "{n}The barbarian examines you closely.{/n} \"So, you lead this group, then?\""
+    },
+    {
+      "Key": "d1ccbde8-eb37-4ac6-888b-300001f0059c",
+      "Value": "{n}The barbarians watch you sternly, their hands still on their weapons.{/n}"
+    },
+    {
+      "Key": "8213db03-35ec-41bd-9754-aceca0af2212",
+      "Value": "\"Really? You don't seem much like one.\" {n}The barbarian stares at you incredulously.{/n} \"Well, all right... Your Baronship, then, or whatever it is they call you.\""
+    },
+    {
+      "Key": "31b9fd22-39a3-49cc-811a-9d657df2e75d",
+      "Value": "\"You're the baron{mf||ess}? You? Bah ha ha! That's funny! And I'm Kevoth-Kul, the Black Sovereign of {g|Numeria}Numeria{/g}!\""
+    },
+    {
+      "Key": "d00d9ac6-995d-4147-860e-627e8f4a69a9",
+      "Value": "\"Wait, really?\" {n}The Kellid examines you closely.{/n} \"Well, all right... Your Baronship, then, or whatever it is they call you.\""
+    },
+    {
+      "Key": "2b4efd4e-cda7-406c-ae58-4f10fb760793",
+      "Value": "\"We don't need your help-\" {n}the Kellid starts, his voice grim, but he's interrupted when one of the barbarian women begins coughing uncontrollably.{/n}"
+    },
+    {
+      "Key": "f887cd61-1345-4b0e-8b12-7ad089f3aa82",
+      "Value": "\"If you don't need it, just shut up so I can-\" {n}The barbarian woman breaks into another short coughing fit, then spits on the ground — the phlegm is blue.{/n} \"I'm not gonna die for your pride. Yes, I'm sick. Caught bluespit somewhere in the barrens. Don't worry, I don't think it's catching. If you heal me, I can pay in gold.\""
+    },
+    {
+      "Key": "101406a1-51f4-4e25-a75f-3d3281991475",
+      "Value": "{n}The barbarian woman spits more blue phlegm to the ground, disappointed.{/n} \"Why even open your mouth about it, then?\""
+    },
+    {
+      "Key": "bcb0e7c6-c924-4e08-87d9-4b9534b7621e",
+      "Value": "\"I'm Nober. We're from {g|Numeria}Numeria{/g}, part of the {g|Tiger Lords}Tiger Lords{/g} tribe. We're just minding our own business here, not looking to pick a fight. We don't want any trouble, and we're not after anyone.\""
+    },
+    {
+      "Key": "23983d10-876a-4ede-a3d0-81a5082ef4d8",
+      "Value": "\"Not so far. The {g|Tiger Lords}Tiger Lords{/g} travel around a lot — from the {g|Worldwound}Worldwound{/g} to {g|Iobaria}Iobaria{/g}. Hell, these lands were once practically home to us — we used to clear them damned fey from the {g|Narlmarches}Narlmarches{/g} on a regular basis. Well, now we're here again. That's the nomad life, you see — never know where you'll find yourself tomorrow!\""
+    },
+    {
+      "Key": "00047d7f-3414-4e5e-9086-ace00e023265",
+      "Value": "{n}The barbarians sniff the food cautiously, then taste small pieces for poison. Once they're certain it's safe, they begin to eat. After swallowing some of the bread, Nober wipes his lips.{/n} \"So you want a chat, huh? Sure, why not.\""
+    },
+    {
+      "Key": "a49d59a7-3c1e-4622-b480-997cef612282",
+      "Value": "\"Still here, huh?\""
+    },
+    {
+      "Key": "bee64f4d-7503-48f6-94ab-14a13773eb3f",
+      "Value": "{n}A barbarian woman steps forward, trying to control her heavy coughing.{/n} \"That'd be welcome. I'm-\" {n}The woman starts coughing again, then spits some blue phlegm on the ground.{/n} \"I caught bluespit somewhere in the barrens. I can pay for the healing in gold.\""
+    },
+    {
+      "Key": "b94a7aee-433e-4708-b4ff-0924af712e88",
+      "Value": "\"You kidding? Of course not! Our main camp's over the hills there. If you're feeling gutsy, come pay us a visit!\""
+    },
+    {
+      "Key": "27bafb82-84ec-4428-855e-f7359f468a2c",
+      "Value": "\"I wish! We've been searching the area for days now, but all we found was a cave with some grime-faced half-men. No ancient ruin, no treasures, not a damned thing!\""
+    },
+    {
+      "Key": "a8bbd490-0008-442a-8ecb-b9c4c10ed172",
+      "Value": "{n}The Kellid frowns.{/n} \"No idea, really. Dugath just said we should search for caves and ancient ruins, and he'd tell us if it was what we were looking for. You ask me, we're just wasting time out here — but chieftain knows best.\""
+    },
+    {
+      "Key": "62e16931-a227-4157-ac9e-111808d1ce7d",
+      "Value": "\"An old cleric. He's seen a lot, he knows a lot, and it seems like he's the only one who has any idea what the hell we're looking for out here!\""
+    },
+    {
+      "Key": "7f1053c2-4930-43dd-80a8-4efa24617f97",
+      "Value": "\"Ugh, I hate this question... Well, {g|Numeria}Numeria's{/g} a hard land made for hard people. Ages ago, stars rained from the sky and left a bunch of chunks of sky metal across the land — some as small as your finger, others big as a mountain. Lots of the chunks just sit still and do nothing, and we mine them for adamantine. Others make monsters, or diseases, or radiation and stuff like that... technic-ology!\" {n}Nober spits that last word, almost like a curse.{/n}"
+    },
+    {
+      "Key": "58e37dcc-362d-418b-81cc-315d83d4047c",
+      "Value": "\"The {g|Tiger Lords}Tiger Lords{/g} are an ancient and glorious tribe, one of the strongest in all {g|Numeria}Numeria{/g}. We used to own half the {g|Stolen Lands}Stolen Lands{/g} ourselves, but that was a long time ago — back in the time of great Armag. But now that the spirit of Armag's been reborn into the body of our new chieftain, you mark me — word of our heroic deeds will spread across {g|Golarion}Golarion{/g} once again!\""
+    },
+    {
+      "Key": "6db23a5b-a99d-4b30-b125-6e1293f7e23e",
+      "Value": "\"Why would I? Bad enough it brings us so much trouble on its own, but it also attracts villains from all over {g|Avistan}Avistan{/g}, like flies to a steaming pile of shit! That {g|Technic League}Technic League{/g} alone... Ugh!\""
+    },
+    {
+      "Key": "381f13ee-9284-449f-ad3d-0c1d02e0596a",
+      "Value": "\"{g|Varnhold}Varnhold{/g}? Never heard of it. Whatever's going on there, we got nothing to do with it.\""
+    },
+    {
+      "Key": "6ae1d2cf-d7f7-4046-9775-cff63f020637",
+      "Value": "\"Watch your tongue, barbarian! This is indeed the baron{mf||ess} of {kingdomname}. Show respect, or you will have to deal with me!\""
+    },
+    {
+      "Key": "7d5aa133-989e-4fba-8c28-ec94edbb7e54",
+      "Value": "\"Look at that woman. I think she needs help,\" {n}Tristian whispers, pointing out one of the barbarians who looks to be quite ill.{/n}"
+    },
+    {
+      "Key": "3f3360ef-f3c1-4d64-96ec-ea11831e0b2e",
+      "Value": "\"{g|Numeria}Numeria's{/g} also the birthplace of countless beautiful songs and heroic legends. I mean, most of them end with someone getting beheaded, impaled, chopped to pieces, or burned alive... but still, they're marvelous!\""
+    },
+    {
+      "Key": "528dd8ee-b06d-4964-b146-a0f899df4150",
+      "Value": "\"Now those are what I call good assistants — dutiful, prompt, and aware of their own intellectual limitations. Why can't I ever get assistants like that? Maybe I should have pursued a career as a barbarian chieftain...\""
+    }
+  ]
+}

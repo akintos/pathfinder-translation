@@ -1,0 +1,165 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "afac6d14-3629-4f7f-b4df-96b37f085202",
+      "Value": "\"Let me see your wares.\""
+    },
+    {
+      "Key": "e3b82510-8823-4334-ba2c-e31bf6842be7",
+      "Value": "\"Hey, this is my throne!\""
+    },
+    {
+      "Key": "74cae802-9cdb-4429-b312-a894783fbcbd",
+      "Value": "[Pay 100 gold] \"Here is your money. Just take it back to where it belongs.\""
+    },
+    {
+      "Key": "6ab79a6f-0bb5-41c0-940b-6c5d5039747b",
+      "Value": "\"Are you crazy?! This is my royal throne! How can you demand gold for that which is rightfully mine?\""
+    },
+    {
+      "Key": "0fb58bdc-1db5-4aa5-a0bc-b5ce30c9a25f",
+      "Value": "\"You will return my throne this instant before I hang you from the nearest tree!\""
+    },
+    {
+      "Key": "b8847ccf-f317-42e6-a26f-1e241274e4e0",
+      "Value": "\"I can do without this junk. I have to go.\""
+    },
+    {
+      "Key": "bac88d3e-d599-4691-b5be-f414da0dbed4",
+      "Value": "[Pay 200 gold] \"Here's your money, you robber. Now return the throne to where it belongs!\""
+    },
+    {
+      "Key": "cdfd052f-d443-4cb9-9295-68bfe4290d2c",
+      "Value": "\"Hey, Chwurk, we've met already! Remember me?\""
+    },
+    {
+      "Key": "c635e606-4493-4220-9cd0-bca8c0be9c94",
+      "Value": "\"How's goes the trading?\""
+    },
+    {
+      "Key": "c6715e81-db8f-48d1-a2c3-d60507a8ac3d",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "21c2feb0-682c-44de-ad45-92bc2cbd419d",
+      "Value": "\"How did you manage to get it in the first place?\""
+    },
+    {
+      "Key": "0ccc9da0-8c8c-49a3-9ab9-ae168a982c0f",
+      "Value": "\"For this piece of junk? What should I do with it? Carry it on my back and entertain people? You keep it!\""
+    },
+    {
+      "Key": "03922652-b94e-43ca-bb99-5451e46dc29c",
+      "Value": "[Pay 50 gold] \"Fine, you convinced me. But you have to put it back where you found it. Do you know the way?\""
+    },
+    {
+      "Key": "519a562f-e428-4350-b020-c5e609a4ee2c",
+      "Value": "\"You think I'm an idiot?! I'll find another chair, newer and shinier! And you can keep dragging this thing around — you'll be the fool of goblins everywhere!\""
+    },
+    {
+      "Key": "6914bf5b-e157-4b4d-a282-07555df6ca50",
+      "Value": "\"Fine, I'll help you out as a friend. Give me this throne.\""
+    },
+    {
+      "Key": "487b9168-6d42-4d99-9df9-8f6fd82ad2bc",
+      "Value": "\"It's your own fault! Come on, get lost!\""
+    },
+    {
+      "Key": "e199292f-bd22-49c7-944a-ccc28ac2af3e",
+      "Value": "[Attack] \"Prepare to die, creature!\""
+    },
+    {
+      "Key": "6efe8f44-0a77-46d0-bab8-1cb602fe724a",
+      "Value": "[Attack] \"I'll take this throne if I have to gut you to get it!\""
+    },
+    {
+      "Key": "f2730f7d-76bc-4efd-872c-7bf8982a8a9e",
+      "Value": "{n}As you come closer. the goblin gives a wide grin and waves at you. A ramshackle cart beside him is sagging under the weight of the junk within. Amidst the trash, however, you notice the glinting of gold and what seems to be hints of fine cloth — seems like only the owner of the cart can sort through this mess.{/n}"
+    },
+    {
+      "Key": "5c854e31-b030-4d11-8f7e-4de61e14e29e",
+      "Value": "\"Hail, travelers! Welcome to the Chwurk's cart-around shop! I be having all! Pokers, glinters, clothers — choose what you like if you have money!\" {n}Chwurk appraises you with greedy eyes, as if sizing up how much coin you have on you.{/n}"
+    },
+    {
+      "Key": "38f86153-6683-4714-aaca-c72804df3b58",
+      "Value": "\"You again? We trade! I be having all, just say yes!\" {n}The goblin points at his cart, packed to the brim with a heap of trash and treasure.{/n}"
+    },
+    {
+      "Key": "175f17dd-582a-4e26-aca3-ced5e924befa",
+      "Value": "\"Eh? Ah, this chairy! It be good chairy, sturdy! Ornamenties on sides, soft seat, fine back! I be giving it off for hundred money! You be not regretting it! Why you staring at me like that? Is that a deal stare?\""
+    },
+    {
+      "Key": "6a7f2a2b-84ce-4a38-bd0a-ec3d46c3bdca",
+      "Value": "\"Hey, stop! Don't beat me no more! Take it, take it, big deal! I be no stealing no more, I promise!\" {n}Chwurk leaps away from you and cowers behind the throne.{/n} \"Me be taking it back where I took it, just don't hit me in the head no more!\""
+    },
+    {
+      "Key": "98ca1a28-54f3-445b-a5b7-87fd0d839d2e",
+      "Value": "{n}Chwurk is still, trying to wrap his head around what you've said.{/n} \"That true?\" {n}He scratches his ear.{/n} \"Right! Me be asking too little! It be worth two hundred money!\""
+    },
+    {
+      "Key": "2aa94121-6b2f-442c-b766-3a219e46b3b3",
+      "Value": "\"Hey, why you be like that? I die of hunger if I be giving my goods for free! You give me money!\""
+    },
+    {
+      "Key": "fbb6bee5-8bd8-4c0d-83f1-a6c6c8d8163b",
+      "Value": "{n}The goblin sorts the coins greedily.{/n} \"Money! Trureal money! First time I be holding it!\" {n}Chwurk hastily tucks the coins into one of the purses around his waist and starts to mount the throne on the cart. {/n} \"I be getting this chairy back in a heartbeat! You watch me!\""
+    },
+    {
+      "Key": "2ab850eb-f1e1-42cc-83e8-20514eb77531",
+      "Value": "{n}Chwurk screeches and drops to his knees.{/n} \"Have mercy, adventurer! I be mistaken, I be not doing it never again!\" {n}Chwurk wrings his hands.{/n} \"You want bribe? I be giving you bribe! Many valuables I be giving you! And take chairy back! Just don't hit me no more!\""
+    },
+    {
+      "Key": "26cc4fd7-0b29-4d8d-b43a-ad2d88dcafdd",
+      "Value": "\"Look, what I have!\" {n}The goblin digs a wand out of the depths of his cart.{/n} \"It be doing WHOOSH and doors go open! I be entering, taking all good stuff and leaving!\" {n}Chwurk hastily tucks the wand back.{/n} \"I be having some other whoosh-thingies, but I no showing them to you, they are mine and not for sale!\""
+    },
+    {
+      "Key": "181e96ac-f370-45d8-9012-909e978795f0",
+      "Value": "\"How so? What about deal? Just hundred money! Come on! It be a good chairy, you no find this nowhere else! What you say?!\" {n}The goblin makes several steps towards you, obviously unwilling to let you go until you make a purchase.{/n}"
+    },
+    {
+      "Key": "7609d5b5-1c99-4507-87c3-69bbfc9f671b",
+      "Value": "\"Stop! Stop!\" {n}Desperation rings in Chwurk's voice.{/n} \"Let it be fifty money! You take this!\" {n}He turns towards the throne warily, as if expecting trouble from it.{/n}"
+    },
+    {
+      "Key": "16a6b509-a382-47ed-ba92-0fc648ab3450",
+      "Value": "{n}Grimace of offence appears on Chwurk's face.{/n} \"Why me be having this chairy! You take it! No money! Just no leave it to me! It be scaring other customers from me! It be ruining my reputashun! Take it!\""
+    },
+    {
+      "Key": "9ed9cf87-33df-4258-8426-1b2eaf634651",
+      "Value": "{n}Chwurk bursts into tears.{/n} \"Nooooo! You have piiiity on meeee! Don't leave me be with this cursed chairyyyy! Take it! No, I be taking it wherever you say! Just don't leave it to me!\"\n{n}Chwurk dives into his cart, grabs a pile of trash and thrusts it into your hands.{/n} \"You take these too! I be doing everything you want, just don't leave me with this chairyyyy! Shame, such shame, me be mocked to deeeeeath! Me not waaant! Me never take other's trash no mooooore! Neveeeeer!\""
+    },
+    {
+      "Key": "724c4004-5536-4c17-9272-5b3e161dbcb3",
+      "Value": "{n}Chwurk looks you up and down with indifferent expression.{/n} \"You adventurers be all the same! Dirty, skinny, why I should be remembering your kind. But if you be buying stuff...\" {n}Chwurk thinks for a moment, then shakes his head sadly, as if confirming his memory of you is lost.{/n}"
+    },
+    {
+      "Key": "2f182ab1-3834-4c96-85c8-b4d295718047",
+      "Value": "\"Since goblinking be downed, it be too bad. Me be self-riding roads and wandering around villages. No one be giving money, all just come to watch and pointfinger…\""
+    },
+    {
+      "Key": "3ac83a90-c81b-4f7c-83bf-43c5640cca63",
+      "Value": "{n}Before you have time to do something, a magic wand appears in Cwurk's hands. He waves it — and the world around you flashes with blinding lights that dance before your eyes, making you sick. Through the noise of blood pumping in your ears, you hear the goblin giggling and the wheels of cart squeaking as it moves away from you.{/n}"
+    },
+    {
+      "Key": "3484dd75-2724-43cc-90aa-34fa9c1d73b9",
+      "Value": "{n}When your sight returns to normal, Chwurk and his cart are gone. You start to wonder if the strange goblin was just a hallucination.{/n}"
+    },
+    {
+      "Key": "6f1c8c42-a64e-4833-b7d1-bc1389b40899",
+      "Value": "{n}Chwurk takes a deep breath, obviously relieved.{/n} \"That's right, you be taking it! I can even drag this chairy myself — not be a problem for me! Now, now...\" {n}The trader hastily mounts the throne atop his cart, covers it with some rugs, then looks around cautiously.{/n} \"Me never be taking no things without permission! No want get in trouble like that again!\""
+    },
+    {
+      "Key": "112480c5-b5bd-438b-ab16-510b6525179e",
+      "Value": "\"Told you not to bargain!\" {n}Nok-Nok sighs.{/n}"
+    },
+    {
+      "Key": "65bf3fa2-ac08-4f5c-a1b2-06df9b4d5b33",
+      "Value": "\"Listen what I say. No bargain with him. Nok-Nok knows sure, Nok-Nok tried. No do it.\""
+    },
+    {
+      "Key": "3e5259c9-8c1d-467d-a895-25b71b5c7b43",
+      "Value": "\"I be going new dungeon, have new goods! I sell, you buy!\""
+    }
+  ]
+}

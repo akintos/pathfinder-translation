@@ -1,0 +1,37 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "78669126-c4f6-4b25-a2a6-ee290b9d9f19",
+      "Value": "[Search the belongings for information or valuables]"
+    },
+    {
+      "Key": "2c42ad3a-bca4-4caf-ba89-9c5de14e7db4",
+      "Value": "[Leave]"
+    },
+    {
+      "Key": "41d7aab3-e4a7-490c-9cd9-9dddb55e35f3",
+      "Value": "[Take the wine]"
+    },
+    {
+      "Key": "509bcfe8-a90a-4184-b146-e2021401d5d2",
+      "Value": "[Poison the wine]"
+    },
+    {
+      "Key": "6dda8ae7-ba13-4609-9f44-9ed3f2730da0",
+      "Value": "[Break the jars and spill the wine]"
+    },
+    {
+      "Key": "55985113-e2ca-444a-b467-cec523dd5323",
+      "Value": "{n}The bandits' belongings are piled together in a messy heap.{/n}"
+    },
+    {
+      "Key": "d47d221c-3432-4965-b05f-eabc2f2af94d",
+      "Value": "{n}You find a cache under all the clothes and blankets. Opening the lid of a small hollow, you find a box full of bottles. An inscription on the side reads:{/n} \"Wine for the Stag Lord. Don't you dare steal it, fools! I'll make sure you rot!\""
+    },
+    {
+      "Key": "558e648f-d8a9-45ed-beb6-9e72ec5a7bb0",
+      "Value": "{n}You find nothing of interest.{/n}"
+    }
+  ]
+}

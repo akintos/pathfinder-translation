@@ -1,0 +1,321 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "9c9dfffc-1a8a-4cf7-9f3a-ee33f929f69e",
+      "Value": "\"Show us what treats you have.\""
+    },
+    {
+      "Key": "5f994b1a-78e9-40b6-bc67-ac3c6700e250",
+      "Value": "\"Tell me about yourself.\""
+    },
+    {
+      "Key": "09180db1-974f-4a77-be63-818a8a8628d6",
+      "Value": "\"All the news in the whole region must pass through this inn. What rumors have you heard?\""
+    },
+    {
+      "Key": "5d7721e2-63d9-4875-a523-143a67d9c448",
+      "Value": "\"I should go.\""
+    },
+    {
+      "Key": "ad1fca8b-7994-4ff6-b446-7dd38bb500ca",
+      "Value": "\"Where are you from? What land, which family?\""
+    },
+    {
+      "Key": "c2bc6e37-bd95-490a-994d-2880cc2ca294",
+      "Value": "\"Why did you decide to become an innkeeper?\""
+    },
+    {
+      "Key": "ed1aef67-bb37-41f7-a370-e5a0b29bdfb3",
+      "Value": "\"Tell me about the River Kingdoms.\""
+    },
+    {
+      "Key": "14b501eb-3089-4c0f-aff7-485d65a29454",
+      "Value": "\"The Six River Freedoms?\""
+    },
+    {
+      "Key": "585ea945-2743-438c-9fec-83e9bdbc19e6",
+      "Value": "\"Where does the inn's name come from?\""
+    },
+    {
+      "Key": "37cd1bef-3e35-488a-a308-141c32205084",
+      "Value": "\"What's the news around here?\""
+    },
+    {
+      "Key": "be60c7ec-6d50-4593-ac12-0f31252dca7d",
+      "Value": "\"Please tell me what other news you've heard. Your stories are so interesting — and useful.\""
+    },
+    {
+      "Key": "5c11257d-f8b1-47b6-a315-562947baa55b",
+      "Value": "\"I am curious what the people are talking about.\""
+    },
+    {
+      "Key": "4f7e615c-1295-480b-8f3a-b3623f3ffc3b",
+      "Value": "\"What's new around here?\""
+    },
+    {
+      "Key": "1ac98d70-88d6-481e-bcdb-6fdbd1a9232e",
+      "Value": "\"Elina, do you have anything to tell me?\""
+    },
+    {
+      "Key": "661ff737-e6a4-4e21-9871-557f04dc380e",
+      "Value": "\"Thank you, Elina. We will discuss it another time.\""
+    },
+    {
+      "Key": "0b4277d5-475c-43c6-8f35-b6cd2eb7456d",
+      "Value": "\"What did you want to ask me, Elina?\""
+    },
+    {
+      "Key": "a36d41c9-0852-4caf-87e9-46bb539c602e",
+      "Value": "\"A fine idea! I will try to get you such an egg.\""
+    },
+    {
+      "Key": "54d5bf53-014e-41d1-a5eb-3a2f305c188e",
+      "Value": "\"Please remind me what you'd asked me for...\""
+    },
+    {
+      "Key": "07777903-ad69-456c-a420-8e64d6305bd4",
+      "Value": "\"I have more serious things to do than gather groceries for your kitchen.\""
+    },
+    {
+      "Key": "4cac95cb-4295-452d-8794-621025a13021",
+      "Value": "\"Elina, I have a giant bird's egg. I thought you might be interested.\""
+    },
+    {
+      "Key": "108e33e5-9fe4-4565-a31b-03ffc3313fee",
+      "Value": "\"I have that roc's egg!\""
+    },
+    {
+      "Key": "f35b60bc-1455-4763-9cf0-0f002a24ea1b",
+      "Value": "\"I heard there's been a number of thefts in town. Do you know anything about it?\""
+    },
+    {
+      "Key": "62751d99-b2e4-4afc-bb44-99a54547b78c",
+      "Value": "\"During the celebration in the forest, you kept staring at Ekun, giving him a certain look...\""
+    },
+    {
+      "Key": "680ff81c-d12b-4d92-802f-a47661c7d7e6",
+      "Value": "\"Elina, I need to find a rare book. Do you know where in the city I should look?\""
+    },
+    {
+      "Key": "babbe9f9-79f2-462f-8d19-fb9232c73415",
+      "Value": "{n}Behind the inn's bar stands a young woman with curly red hair, a round face and rosy cheeks. She gives you a friendly smile, fixing her cap.{/n} \"It's so nice of you to stop by, Your {mf|Grace|Grace|Highness|Highness}! I'm Elina, the innkeeper.\""
+    },
+    {
+      "Key": "776cdfc2-425c-42d3-8302-c6f4d476a468",
+      "Value": "{n}Elina makes a curtsy, like a lady in waiting.{/n} \"Welcome, Your {mf|Grace|Grace|Highness|Highness}!\""
+    },
+    {
+      "Key": "afeedb60-8539-410b-919a-60c2ea060d6b",
+      "Value": "\"I'd be happy to, Your {mf|Grace|Grace|Highness|Highness}! I love to talk, especially about myself!\""
+    },
+    {
+      "Key": "6b7132ae-6b7f-4f90-bd27-c81517ed3f8c",
+      "Value": "\"An old man came through, an odd-looking fellow. Talked about some goddess that was going to come and sweep away the city, as I sweep bread crumbs from the table. He spoke of other, beautiful things, something about magic, forests, forces of nature, but he made it sound scary! We should make a toast and pray to {g|Cayden Cailean}Cayden{/g} — may he protect us from this evil Goddess.\""
+    },
+    {
+      "Key": "d7a76fd9-21d4-4afd-b446-d7b824ee9bd2",
+      "Value": "\"Lately everyone's been talking about the tower at the {g|Candlemere}Candlemere{/g}. They say lights were dancing around it like a busy cook's stove. Everyone who saw it says different things. Some witnessed a dragon, and some, glowing hamsters crawling from the lake! They're probably all lying, but the place is definitely spooky. And mysterious.\""
+    },
+    {
+      "Key": "a231057d-0d23-4a13-9512-0f24273099ad",
+      "Value": "\"The whole town is talking about that Stefano — a lord from {g|Pitax}Pitax{/g}! It seems there isn't a single man who this arrogant fool hasn't annoyed. He came here too! Mitty, the kitchen boy, admitted to me that he spat in his soup. I usually come down like a load of bricks for such things, but this time I couldn't even give him a scolding.\""
+    },
+    {
+      "Key": "aedec6f9-5e54-43ad-b1d8-cf906c65b4f8",
+      "Value": "\"Nothing new, Your {mf|Grace|Grace|Highness|Highness}. People talk of the harvest, the weather, and their pretty, well-knit children.\""
+    },
+    {
+      "Key": "f722e9a9-c15d-44d0-9e0f-f33f92b28f94",
+      "Value": "\"I wouldn't want to court disaster, baron{mf||ess}, but the people are talking about you... Someone said you're cursed, like it's your fate to call down all the troubles that were supposed to hit the {g|Stolen Lands}Stolen Lands{/g} over the next hundred years. You know how it can be — some people just attract bad things all at once, right? Like the fellow who stumbles over a barrel of fish, steps in a fire, knocks over a wasp nest, and runs blind into a bull field. That's how people are talking about you! Only you're a baron{mf||ess}, so the trouble you get into is more serious...\""
+    },
+    {
+      "Key": "53eeea58-fc24-4fc5-bbbb-aeade8cb95c6",
+      "Value": "\"The best fish gets brought in from {g|Lake Silverstep}Silverstep Lake{/g}. But there's been trouble out there. They saw a strange boat on the lake, and the bandits are fooling around again.\""
+    },
+    {
+      "Key": "26d1e9d5-1fa5-4c7d-b963-6b6bdbd0ab27",
+      "Value": "\"Nothing new, Your {mf|Grace|Grace|Highness|Highness}. Almost every day we're crying over another victim of the monsters. It seems there's no end in sight!\""
+    },
+    {
+      "Key": "e25fbed2-374d-4a91-85c1-a8611669e72f",
+      "Value": "\"I heard from a neighbor, who heard from her child's godmother, who heard from... oh dear, listen to me rattling on. Anyhow, there are rumors of a {g|Lamashtu}Lamashtu{/g} priestess in our lands. Those priestesses are dreadful frightening, but women sometimes go to them, if they cannot conceive or carry a child. Don't get me wrong, Your {mf|Grace|Grace|Highness|Highness}, no one from our town would do that, but they're happy to talk about it. They'll be talking for days about what kind of children a Lamashtu ritual can bring — with three rat tails, or three cat eyes!\""
+    },
+    {
+      "Key": "b90032dc-1a0f-436b-998e-51bc1465c0c6",
+      "Value": "\"Oh, stop, Your {mf|Grace|Grace|Highness|Highness}! You know the news around here: nothing strange is happening, we're rebuilding the city, getting back on our feet. Oh, and we've changed the name of the inn, did you see?\""
+    },
+    {
+      "Key": "72bcdebb-b76a-4867-9522-0939ae4d806c",
+      "Value": "\"Everything seems calm, it's just that... There was a hunter from {g|Varnhold}Varnhold{/g}, used to come in every week — don't know, if he fancies me or our groom... But now he stopped showing up. Matter of fact, there's been no news at all from Varnhold lately. Most peculiar.\""
+    },
+    {
+      "Key": "61eeec02-774a-44d7-9dab-1fe102776b63",
+      "Value": "\"Travelers coming in from {g|Brevoy}Brevoy{/g}, have run across groups of barbarians a few times. They're quite some ways from their own lands!\""
+    },
+    {
+      "Key": "918f5a1e-f183-44ab-ac23-994962a5011d",
+      "Value": "\"Absolutely nothing new. I'll tell you this month's topic of debate... What color is the best one for fences.\""
+    },
+    {
+      "Key": "f0cb861f-3b9e-4eef-866c-2c82b2fd3b6f",
+      "Value": "\"Again that tower on the {g|Candlemere}Candlemere{/g}, Your {mf|Grace|Grace|Highness|Highness}! A fishermen saw monsters on the island. {g|Cayden Cailean}Cayden{/g} forbid they're meddling with us again. You know, there are bad people, and there are bad places — and nastiness just keeps sticking right to them!\""
+    },
+    {
+      "Key": "a6eea2a4-c9ae-4edf-911c-037c1fff3db2",
+      "Value": "\"Refugees are coming in from around {g|Restov}Restov{/g}! Poor things... They say there's a whole horde of barbarians attacking them! The people of the {g|Stolen Lands}Stolen Lands{/g} used to be the unfortunates. And now they are running to us — for your protection, baron{mf||ess}!\""
+    },
+    {
+      "Key": "f94f54a4-5c63-4b60-8801-a86ff2fb8426",
+      "Value": "\"They say Annamede Belavarah is here on a tour of the barony. She's a famous bard, who they call no less than {g|Pitax}Pitax'{/g} Pride! I'm dying to hear her — though truth be told, King Irovetti's subjects are more like foxes than people.\""
+    },
+    {
+      "Key": "6fe8c695-82a5-4cbe-a766-0414edff5de7",
+      "Value": "\"No other news, Your {mf|Grace|Grace|Highness|Highness}. The people are recounting your past victories for the hundredth time, out of sheer boredom.\""
+    },
+    {
+      "Key": "c06ef3bb-ca48-4a2b-beac-cb4fb395a49d",
+      "Value": "\"Our local flower man has been happy as a prince, since Lady Valerie appeared in our city. His business wasn't going so good, but now not a day passes without some unlucky admirer buying a basket of roses or a bouquet of lilies.\""
+    },
+    {
+      "Key": "db861a78-fb63-46d3-8cb6-b8328bdfc828",
+      "Value": "\"It's enough to make a cat laugh, Your {mf|Grace|Grace|Highness|Highness}. A little bird told me that a few young lasses pretended to be sick, just to visit the clinic of Jhod and Tristian. And it's all on account of your {g|Sarenrae}Sarenrae{/g} priest being so handsome!\""
+    },
+    {
+      "Key": "f19cb973-1e87-4cae-914d-331f44a21d02",
+      "Value": "\"Your {mf|Grace|Grace|Highness|Highness}, I'm telling you, soon they'll be banning Sir Jubilost from all the neighborhood taverns. The inns and pubs too! Whenever he comes in, he starts shouting that we aren't cooking right, and he knows the right way, and he even has a book about it. Oh, something tells me Sir Jubilost can't tell one end of a ladle from the other — yet there he is, writing cookbooks!\""
+    },
+    {
+      "Key": "6474641a-eaf3-4e3c-be97-504e3852273e",
+      "Value": "\"There's a new saying in the barony. 'Wherever Sir Harrim walks, rye won't sprout and milk will sour.'\""
+    },
+    {
+      "Key": "0040f672-e994-4541-8625-40a40739ffbd",
+      "Value": "\"After seeing your warriors, the local folks came up with a new saying. They used to say 'wide as a road' or 'wide as a river', but now they say 'wide as Amiri's sword'!\""
+    },
+    {
+      "Key": "7ed215fe-ee95-4bee-a9ea-ae67e6d66954",
+      "Value": "\"One villager named her newborn daughter 'Octavia' after your companion. She says lady Octavia is kind, and she wants her daughter to grow up like that too! That'd be fine, but her neighbor called her cat 'Octavia' too. She says that when she saw the way that beast's eye were blazing, it reminded her of the lady magess!\""
+    },
+    {
+      "Key": "d0f545ab-34e0-42ff-8441-69d6baec7fc8",
+      "Value": "\"A local hunter came up to me, pointed at the wolf that walks beside that silent friend of yours, and asked me whether I wanted a coat made from its hide. I told him I'd tear out his beard and make nests for my hens, if he so much as touches that wolfy! I can't believe someone could harm such a smart and friendly animal! Stupid and shameless.\""
+    },
+    {
+      "Key": "7d0fa95e-c3c5-4169-88e7-03a225765c20",
+      "Value": "\"I hail from the {g|River Kingdoms}River Kingdoms{/g} — Artume, to be precise. I'm from a farming family, like just about everybody from around there. There's more fertile land and pasture there than anywhere in the River Kingdoms, except for maybe Sevenarches. The folks who grow crops and tend cattle are well respected there. But at the same time they live in constant danger — there's too many bad people, too lazy to work all day, but don't mind taking other people's things.\""
+    },
+    {
+      "Key": "5253f68a-328f-4dab-828f-73c2c1e34a23",
+      "Value": "\"I was bored! Please don't get me wrong, I was fine at father's farm, and I've got nothing but respect for farmers' work. But in our back country you could go half a year without seeing one new face. No news, nothing happening... I've dreamed of working at an inn since I was a child. That's the kind of place where there's always lots of guests and stories!\""
+    },
+    {
+      "Key": "05952f9b-9472-450e-8c0e-9fa7f1368094",
+      "Value": "\"Oh, don't ask, it's too funny! I kept thinking about what name to pick... choosing just the right one... but not one to waste time, I drew a beer mug on the door — I figured folks would just see it and come on in. So the locals got used to calling the place 'The Beer Mug Inn' — so the name stuck.\""
+    },
+    {
+      "Key": "057c72b8-c7ee-481d-b7f8-0cf528f3600e",
+      "Value": "\"A month wouldn't be long enough to tell it all, Your {mf|Grace|Grace|Highness|Highness}! Each kingdom is a special place all its own. Elves live in one of them. Another one, half of the country belongs to the Murderers' Guild, and the other half gives them their orders — they say they even get locals' discounts! There's just one thing that unites us all, like a strong thread keeps a quilt together. It's the Six River Freedoms.\""
+    },
+    {
+      "Key": "2068c9ee-55b3-4466-a0fd-23eb398f6a1a",
+      "Value": "\"Yes. The First Freedom — 'Say What you Will, I Live Free.' It doesn't mean you won't get beaten up for what you say, though! The Second Freedom — well, if you can call it a freedom! — 'Oathbreakers Die.' Those who break oaths get killed just like that. So people prefer not making any oaths at all.\""
+    },
+    {
+      "Key": "d2365303-822c-46a3-a66f-712786f39dc7",
+      "Value": "\"The Third Freedom — 'Walk Any Road, Float Any River.' Once the ruler of Heibarr decided to build a gate across the river and collect a fee from each passing boat. Well, there's no more Heibarr. The Fourth Freedom is even worse than the second one — 'Courts Are for Kings'. Whatever a king says, goes — well, as long as he doesn't say to build a gate across a river...\""
+    },
+    {
+      "Key": "5a4ac252-f2dd-4a9a-8e5c-8028d77590ac",
+      "Value": "\"Now for the Fifth. 'Slavery Is an Abomination'. Nothing to explain there. Runaway slaves from all over come to us for a reason. And the Sixth: 'You Have What You Hold'. It means that theft is a much worse crime than robbery, if you catch my drift. You can honestly beat a robber and keep what's yours, but a thief acts on the quiet. Shame on him — that's just disrespectful!\""
+    },
+    {
+      "Key": "6edfc780-7981-48d1-9883-7472e59eb839",
+      "Value": "\"I'm talking too much, Your {mf|Grace|Grace|Highness|Highness}!\" {n}Elina sighs.{/n}"
+    },
+    {
+      "Key": "56362faa-7393-47cd-a348-28406ef3b815",
+      "Value": "\"Almost no news. We're explaining to travelers and guests from the farthest settlements that we're not a barony any more, but a kingdom! Every chance I get, I let it drop that {mf|His|Her} Highness visits my inn from time to time.\""
+    },
+    {
+      "Key": "8cfb92b1-5dc4-45c2-a8e3-3f08ad0e8535",
+      "Value": "\"Oh, I was right when I said that {g|Pitax}Pitax{/g} is full of shameless foxes dressed like people! Lately there's so many folks from Pitax — more than mosquitoes in the spring. And they're sticking their noses in everywhere.\""
+    },
+    {
+      "Key": "936cc322-aa95-4085-9c65-9af7cda06d4f",
+      "Value": "\"It's probably you who can tell us the news. Our regulars keep talking about the Rushlight Tournament! I really wanted to go, but I don't have anyone to look after the inn. Your Highness, maybe we could have something like it in our own capital?\""
+    },
+    {
+      "Key": "4fabb081-b668-4113-ac37-ed605db8e65f",
+      "Value": "\"Nothing but trouble and sorrow. Those {g|Pitax}Pitax{/g} snakes keep talking, and folks either listen to them or get scared and start grumbling. They even started claiming Pitax beer tastes better, and they cook better eggs and crispy bacon. Well, I'd serve our eggs and bacon to the gods themselves!\""
+    },
+    {
+      "Key": "bb899832-8fcd-44be-87ba-f27229a12a8d",
+      "Value": "\"Come back soon, Your {mf|Grace|Grace|Highness|Highness}! No one can treat you better than me.\""
+    },
+    {
+      "Key": "2a63c7c2-a30e-48dd-a177-0478444926c3",
+      "Value": "\"What's there to talk about, Your Highness? Trouble, trouble everywhere. Monsters, natural disasters, monsters again... Seems like the end times have come. But if someone can save us, it's you. Here's some advice — take a closer look at your companions. In times like these, between the epochs, people always have to make choices. Sometimes it's tough, and sometimes it works out just right.\""
+    },
+    {
+      "Key": "fb214fac-1dc3-4ad2-b815-22d84b555a19",
+      "Value": "{n}Elina seems to be brooding. She tugs at the seam of her apron and looks at you with uncertainty.{/n} \"Your {mf|Grace|Grace|Highness|Highness}! I wouldn't want to bother you, but if you have a spare moment, I'd like to ask you something...\""
+    },
+    {
+      "Key": "03ff8f59-f6dd-4e4e-8a3e-d01185c235a8",
+      "Value": "\"Your {mf|Grace|Grace|Highness|Highness}, the city is getting rebuilt after the Bloom. But the people survived such terror! I know almost all of them, and I see in their eyes what that nightmare did to them. And I thought...\" {n}Elina sighs.{/n} \"I thought we should cheer them up somehow! I can make a special treat for everyone. But I can't do it alone.\""
+    },
+    {
+      "Key": "fea87aec-249b-49e4-acd5-23b710a75eff",
+      "Value": "\"I know there's a Roc that lives on {g|Talon Peak}Talon Peak{/g}. But it is a dangerous place. I offered a reward, but none of the hunters I know will risk going there. But I know you could handle it, Your {mf|Grace|Grace|Highness|Highness}...\" {n}Elina raises her eyes timidly.{/n} \"I know it's no task for a {mf|baron|baroness|king|queen}, but there's no one else to ask...\""
+    },
+    {
+      "Key": "f4eef6c5-6ff8-46d7-b09e-08b8db130b74",
+      "Value": "\"To get an egg from the roc, Your {mf|Grace|Grace|Highness|Highness}. The roc lives on {g|Talon Peak}Talon Peak{/g}, and that bird is scary — big and angry!\""
+    },
+    {
+      "Key": "643de159-a498-4271-a668-0b39d92e9fe0",
+      "Value": "{n}Elina is glowing.{/n} \"Thank you so much! I am sure you can handle it easily!\""
+    },
+    {
+      "Key": "d854e245-29b8-456c-81a5-4aa672589da9",
+      "Value": "{n}Elina sighs again.{/n} \"Of course, Your {mf|Grace|Grace|Highness|Highness}.\""
+    },
+    {
+      "Key": "38bc29ae-bc58-4e46-8086-ae400438a6df",
+      "Value": "{n}Elina throws up her hands.{/n} \"This is a roc's egg! Our family has an ancient recipe for how to cook it! It's amazing that you brought it, Your {mf|Grace|Grace|Highness|Highness}. Let me give you something in return. No, don't you argue! Merchants will pay a lot for these eggs, and you must have taken a risk in getting it!\""
+    },
+    {
+      "Key": "d04d9a3f-f9b2-4d0d-8fce-79c9e3088a14",
+      "Value": "{n}Elina throws up her hands.{/n} \"You've no idea how thankful I am, Your {mf|Grace|Grace|Highness|Highness}! All my life I've dreamed of cooking one of these eggs, and the timing couldn't be better!\""
+    },
+    {
+      "Key": "a316912d-5302-4629-9217-0daad45881a9",
+      "Value": "\"People say different things, Your {mf|Grace|Grace|Highness|Highness}. One says he turned away for a moment, and someone stole the ham from his table! Another one is missing his sausages. A third one says someone locked all his hens in the attic, and ate all their eggs — raw! So far I haven't noticed anything missing around here. Knock on wood. Knock-knock...\""
+    },
+    {
+      "Key": "a281c110-5440-410e-8779-bbc6e76474c7",
+      "Value": "\"Every local resident is very, very concerned about one thing. Will lady Linzi mention them in her book?! I'd settle for just one line... although a page would be better!\""
+    },
+    {
+      "Key": "b01aecca-8d89-4cf1-a61b-75a286ae540e",
+      "Value": "\"The thing is, I have a very special family recipe, which I'm sure the locals would love. It's... now don't laugh! ... it's an omelette. Made from a Roc's egg. This bird is not really a bird, but a huge monster that lays eggs very rarely. They're considered a royal treat, only a few people in all the {g|Stolen Lands}Stolen Lands{/g} have ever tried one. If we treat the people to this delicacy, the whole neighborhood will be buzzing about it for months! And what could be better medicine for their fear and sorrow, than something fresh to boast about?\""
+    },
+    {
+      "Key": "ee1b223b-d7c4-4d7d-9e9b-7be4515e1b10",
+      "Value": "\"Of course I heard about it, Your Highness! Many houses have been robbed. And here's what's strange — no picked locks, no broken windows. How do the scoundrels get inside, hunh?\""
+    },
+    {
+      "Key": "b312e179-44a6-4cab-989a-4d505fc47b65",
+      "Value": "\"Those thieves are real masters of getting into other people's houses — and they steal whatever they find. At one house they stole the silverware, and at another one they left the money, but took the children's toys. Strange thieves!\""
+    },
+    {
+      "Key": "828d85db-3d6c-4d32-98ae-b16d60139bcd",
+      "Value": "{n}After a brief moment of confusion, Elina answers easily,{/n} \"Of course I did. Ekun's a handsome man! And he's hardworking, he's got no bad habits, he's got friends in high places... and his gaze is so mysterious! And he's so quiet... If you could only imagine, Your {mf|Grace|Grace|HIghness|Highness}!\""
+    },
+    {
+      "Key": "24a80089-7631-44b6-bccb-694ab1151b17",
+      "Value": "\"You've probably asked the vendors, haven't you? If not, then do that, and if you have... um... Oh – I know who you should ask! Talk to Verdel, the blacksmith. He's quite a reader. Can't live a day without a book.\""
+    }
+  ]
+}

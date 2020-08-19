@@ -1,0 +1,197 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "a1ff7853-a5d2-48fa-94ee-605a64ebfc37",
+      "Value": "\"There wasn't even really a battle. The armies just stood staring at each other for a while, then the barbarians turned to head back to Numeria.\""
+    },
+    {
+      "Key": "2aa27069-05ff-4c24-896b-a8a985bffba4",
+      "Value": "\"The barbarians defeated the Brevans, but they took heavy losses. Lacking the forces to push into Restov, they turned back toward Numeria.\""
+    },
+    {
+      "Key": "4d74eccd-e12d-4945-a669-8ef67abe6f03",
+      "Value": "\"Rumor has it the barbarian chieftain left his men in the middle of a battle, so they turned their backs on him and returned to Numeria.\""
+    },
+    {
+      "Key": "6eb7cb14-00b6-47eb-aa85-5fd94c18f42e",
+      "Value": "[Lie] \"Sorry to disappoint, but I know nothing of the battle.\""
+    },
+    {
+      "Key": "4c10371d-e774-41c6-9b64-7ea163aa35f8",
+      "Value": "[Attack] \"We beat back the barbarians. Let me show you how!\""
+    },
+    {
+      "Key": "27b561fa-4387-48b6-b117-be0cbb244d36",
+      "Value": "\"What is this place?\""
+    },
+    {
+      "Key": "3cba23a4-3862-4f08-bdf4-685a4bf258f0",
+      "Value": "\"What are you doing here?\""
+    },
+    {
+      "Key": "16a74506-f6f1-4f6b-ae5d-7e9034524d10",
+      "Value": "\"Is it possible your chieftain's dead?\""
+    },
+    {
+      "Key": "77b7bd4c-f8cd-48e4-b35d-3aec7f6d1e42",
+      "Value": "\"Good luck to you!\""
+    },
+    {
+      "Key": "ebcb80dc-c5f6-4925-9702-8601d4209627",
+      "Value": "[Attack] \"You're not going anywhere.\""
+    },
+    {
+      "Key": "379513c9-74f3-4fdf-aeca-a2b9ce5140be",
+      "Value": "\"Aren't you fed up with this Sister? I'd have finished her off long ago.\""
+    },
+    {
+      "Key": "866b5043-6bf9-4b13-8a23-4f47bc8d4da4",
+      "Value": "\"I'm going into the tomb.\""
+    },
+    {
+      "Key": "f3dcc42c-8209-4c38-b9f4-f7de439c05a3",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "cbca77bd-8f8a-4e82-addb-0dadd21def88",
+      "Value": "[Attack] \"I've learned all I needed. Now I'll deal with you once and for all.\""
+    },
+    {
+      "Key": "e970da5d-8c9b-4c38-b81a-2b2d240d1ee7",
+      "Value": "\"There was a riot in the Tiger Lords' camp. The barbarians deposed their chieftain and returned to Numeria.\""
+    },
+    {
+      "Key": "6973b00b-ed59-4a0e-85f5-079e41fdf440",
+      "Value": "\"No matter how many you explore, there's always syca-more!\""
+    },
+    {
+      "Key": "7f133479-7737-479b-a676-3d329a042198",
+      "Value": "\"If they come crashing down on our heads, at least the world will be saved from your sense of humor.\""
+    },
+    {
+      "Key": "3b405d4d-9d61-44ec-adb4-2222bc6b5e63",
+      "Value": "[Say nothing]"
+    },
+    {
+      "Key": "c1134322-ab0c-4b03-8b07-6acfd006ecd0",
+      "Value": "{n}Some grim barbarians are sitting near the bonfire, speaking in low voices and casting sidelong glances toward the tomb entrance. Noticing you, one of them reaches for his weapon out of habit, but he catches himself and instead pats the space on the log beside him.{/n} \"Greetings, traveler! Come, have a seat! Don't suppose you've heard anything about the battle between the {g|Tiger Lords}Tiger Lords{/g} and {g|Restov}Restov{/g}, have you? Who won? How did it go?\""
+    },
+    {
+      "Key": "6adf05cc-f626-47d9-9ca2-70519d665186",
+      "Value": "\"Still here? You should head out. This place is bad. If not for our orders, we'd be long gone ourselves.\""
+    },
+    {
+      "Key": "135fadcf-796e-49c1-af2b-4b4b3acc29cc",
+      "Value": "{n}The barbarian slams the log with his fist.{/n} \"Damn... I knew it!\""
+    },
+    {
+      "Key": "15582ce2-5b98-47cb-bfd4-4968becdf9b9",
+      "Value": "\"Good riddance, I say! It was long overdue! That man was crazy, anyone could see.\""
+    },
+    {
+      "Key": "f67e843c-fe43-4006-9830-447af64248d9",
+      "Value": "\"Keep your voices down! That Sister's still strutting around over there. What if she hears you?\""
+    },
+    {
+      "Key": "7d8d028c-c38e-45df-bae0-d0442fe034d7",
+      "Value": "\"Well, no helping if you don't know. We've been sitting here out in the middle of nowhere for weeks, you see, and we've been wondering what happened to our tribesmen. We're also bored out of our minds.\""
+    },
+    {
+      "Key": "5dbfe8e6-b6ea-464c-a247-5814db791ccb",
+      "Value": "\"So that's what happened... Well, maybe it's for the best. We couldn't have conquered {g|Restov}Restov{/g} anyway, and this way at least we didn't lose our fighters' lives figuring it out.\""
+    },
+    {
+      "Key": "7f9074a5-1dd6-4150-87bd-d9c9dc875854",
+      "Value": "{n}The barbarian shakes his head in dismay.{/n} \"So much blood — all for nothing. Damn that Armag, what a crappy chieftain — someone should jab a spear up his...\""
+    },
+    {
+      "Key": "c064d6c9-7b19-4f5e-b6be-28e805dd1ef1",
+      "Value": "\"Shush, quiet! The Sister's still here! What if she hears you?\""
+    },
+    {
+      "Key": "c4c28a3f-7eb8-41db-a1fa-29e075779414",
+      "Value": "\"The tomb of peerless Armag, great chieftain and invincible fighter... damn his hide!\""
+    },
+    {
+      "Key": "e67e03ef-288d-4e69-8fe0-19e761da6660",
+      "Value": "\"Our chieftain brought us here. He took several of us into the tomb with him and told the rest to wait outside. No one's left the place since, and we've been sitting here for weeks!\""
+    },
+    {
+      "Key": "662fb5d6-0e70-4482-b59c-07e507a81579",
+      "Value": "\"Maybe... but what if he isn't? The Sisters always claimed that once he exited the tomb, he'd be the mightiest fighter {g|Golarion}Golarion{/g} ever saw! Maybe they were lying... but what if they weren't? I'd certainly hate to be the one who disobeyed his orders!\""
+    },
+    {
+      "Key": "f6332ce5-8f52-4572-88f4-2aa8e7beedd8",
+      "Value": "{n}The barbarians gather around the Sister's bloody body.{/n} \"So, that's it... The witch is gone. There's no turning back now — Armag won't waste any time investigating, he'll just tear our heads off.\""
+    },
+    {
+      "Key": "9c333050-b797-4477-9e45-40d5760affd8",
+      "Value": "\"To the {g|Abyss}Abyss{/g} with him! Are we supposed to wait here for him until we're old and gray? He's a traitor, not a chieftain! First he takes us to conquer {g|Restov}Restov{/g} without any proper scouting, like sheep to the slaughter, and then he leaves his forces right before a huge battle to go digging around in some hole in the ground... Other chieftains have been deposed for far less!\""
+    },
+    {
+      "Key": "478eaaf6-74ec-4dc2-ae29-d4b26741b5c5",
+      "Value": "\"Right! Enough is enough! I say, whether he's alive or dead, we go back to {g|Numeria}Numeria{/g}! We'll tell the elders everything, and they can choose a new chieftain!\""
+    },
+    {
+      "Key": "b8c1b19c-7b77-470e-90a6-44d799871582",
+      "Value": "\"Good luck to you, too!\" {n}The barbarians quickly pack up and leave.{/n}"
+    },
+    {
+      "Key": "45514615-cad4-4061-bfc4-bf23b458437e",
+      "Value": "\"There's a Sister standing guard at the entrance. She's a mighty witch, and she's crazy as a bat. She won't just let you in.\""
+    },
+    {
+      "Key": "86d2ce85-a41e-4ffb-82a8-8e9ed28a4b5a",
+      "Value": "\"And even if she did, there are a lot of traps down there.\""
+    },
+    {
+      "Key": "f9f5c681-0be5-4f5b-9393-a8c6ff4dff44",
+      "Value": "\"And if you make it past the traps, there's still Armag to deal with. He'll kill you.\""
+    },
+    {
+      "Key": "a5e02c8d-78d3-4339-89a6-ae40a3164b16",
+      "Value": "\"But, hey, you're welcome to try!\""
+    },
+    {
+      "Key": "763f0969-012c-484c-a8c3-1f2a55abdd59",
+      "Value": "\"It's kind of scary. She's a witch, after all!\""
+    },
+    {
+      "Key": "1d69d736-d769-4632-9e42-8df1ce7a63e6",
+      "Value": "\"No way! There'd be a riot! The chieftain would tear our heads off for that!\""
+    },
+    {
+      "Key": "7ef8f3a0-6702-4c4b-b394-20442cd261e2",
+      "Value": "\"Look at him, downright scared! No, you're right — it's long past time to rid ourselves of these witches, and our crazy chieftain, too! Hey, everyone! Get the Sister! Down with Armag!\""
+    },
+    {
+      "Key": "3390b898-b0b7-45bb-a42e-dc63fbe1e3cc",
+      "Value": "\"Have a safe journey! Wish we could get out of here, too.\""
+    },
+    {
+      "Key": "4aa331a1-59bf-4212-8d10-aae90da60941",
+      "Value": "\"Really? Then what are we sitting around here for?\""
+    },
+    {
+      "Key": "b9922d77-1548-45a5-8d3d-f6c4bf1b2173",
+      "Value": "\"Quiet! {g|Numeria}Numeria's{/g} far away, and he's still very close!\""
+    },
+    {
+      "Key": "047b7da7-6fa3-4cce-b6a0-351b62fdd880",
+      "Value": "\"Ugh, another dusty underground tomb. I'm so... sycamore and tired of them, heh heh!\""
+    },
+    {
+      "Key": "0810c479-42a8-4d38-9d22-89e2e09ca3a9",
+      "Value": "\"Ha ha! Good one! All right, I'm ready to crawl into another underground hole for your sense of humor!\""
+    },
+    {
+      "Key": "e749f78e-dc5f-4df1-83da-3ca6a9120a3b",
+      "Value": "\"That's fine. In a thousand years, someone will dig them up again, and then my jokes will come back to enslave all of {g|Golarion}Golarion{/g}!\""
+    },
+    {
+      "Key": "10aa23b5-00ed-4b17-baed-8d569f984fb5",
+      "Value": "{n}When no one pays attention to his pun, Regongar grunts and turns away.{/n}"
+    }
+  ]
+}

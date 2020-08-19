@@ -1,0 +1,309 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "86865539-fc28-4e6e-8d84-914f1541f0ed",
+      "Value": "[Do not interfere]"
+    },
+    {
+      "Key": "d3c132e8-6994-4ae0-a7b4-f5a70ce62ed7",
+      "Value": "\"Regongar, she's right.\""
+    },
+    {
+      "Key": "767cdcdf-6eb3-4dc1-aef2-64835e01c119",
+      "Value": "\"Octavia, you're unfair to him.\""
+    },
+    {
+      "Key": "a71cabce-0e1b-4293-ae35-40cc458664b6",
+      "Value": "\"Octavia, Regongar... You're about to say things you'll regret until the end of your lives. Did you really survive Numeria together, only to yell at each other now that you're are free?\""
+    },
+    {
+      "Key": "e3bed504-f21a-4bfc-8cd9-7e693f0a8e58",
+      "Value": "\"I'm sick of your fights! Treat each other however you want, but leave me out of it!\""
+    },
+    {
+      "Key": "c0eaf653-153d-457b-9668-bfb62a95e8f8",
+      "Value": "\"Don't worry, she'll come back.\""
+    },
+    {
+      "Key": "b838b981-17bc-46b2-a3d9-03f3b430e8ba",
+      "Value": "\"Why are you still sitting here? Run after her!\""
+    },
+    {
+      "Key": "7ae3dcd4-a459-47af-bf31-1c8d399713b5",
+      "Value": "\"You were right. It's her fault.\""
+    },
+    {
+      "Key": "38852575-d6a2-4e57-8b43-c73fb57ff318",
+      "Value": "[Hug Regongar without saying a word]"
+    },
+    {
+      "Key": "330ca746-8d84-4ea6-98e7-b2cb18c53e08",
+      "Value": "\"Why are you still sitting here? Run after him!\""
+    },
+    {
+      "Key": "2175b6cd-f3e4-43ac-8ab2-e2c487214c25",
+      "Value": "\"Don't worry, he'll come back.\""
+    },
+    {
+      "Key": "32c0bb3a-d5be-42ed-b9ab-978114417f4c",
+      "Value": "\"You were right. It's his fault.\""
+    },
+    {
+      "Key": "8ac40f2b-949c-47b0-b770-2fa45016a0de",
+      "Value": "[Hug Octavia without saying a word]"
+    },
+    {
+      "Key": "f1015e7f-a0e3-447a-b839-dc03156c48f2",
+      "Value": "\"I'm sure. I love you both as much as you love each other.\""
+    },
+    {
+      "Key": "a49d8158-4697-4bf0-9b3f-1b54df5dfd12",
+      "Value": "\"I'm not so sure any more. You two have enough fire in your lives without me!\""
+    },
+    {
+      "Key": "4041d3f0-ac56-45a7-82ce-f701fb5517e3",
+      "Value": "\"I can't stand your fights any more. Fight all you want — I have Tristian!\""
+    },
+    {
+      "Key": "1c02b073-7a97-4a7f-a1b0-b4d30950cd3d",
+      "Value": "\"I can't stand your fights any more. Fight all you want — I have Valerie!\""
+    },
+    {
+      "Key": "80275b13-e1f8-4bbe-96c5-0c70878c5f13",
+      "Value": "\"I'm afraid I don't. You two have enough fire in your lives, and I have Tristian.\""
+    },
+    {
+      "Key": "fb0015b0-3647-4359-bafe-0249b18c08ad",
+      "Value": "\"I'm afraid I don't. You two have enough fire in your lives, and I have Valerie.\""
+    },
+    {
+      "Key": "27fb81d8-0ea4-4fb0-94fc-85350fa4ffcb",
+      "Value": "\"I can't stand your fights any more. Fight with her, or make peace, or do whatever you like — I have Tristian!\""
+    },
+    {
+      "Key": "237b92af-ec13-408e-b43e-5931a4217f5c",
+      "Value": "\"I can't stand your fights any more. Fight with her, or make peace, or do whatever you like — I have Valerie!\""
+    },
+    {
+      "Key": "1ff4ae22-db3c-4028-a6f6-7415d2e116cb",
+      "Value": "\"I can't stand your fights any more. Fight with him, or make peace — do whatever you like, I have Tristian!\""
+    },
+    {
+      "Key": "aff7ba14-4361-45a1-bfa6-d1f3c5e8ded4",
+      "Value": "\"I can't stand your fights any more. Fight with him, or make peace — do whatever you like, I have Valerie!\""
+    },
+    {
+      "Key": "b7544c38-dd7d-49cd-852d-808adf8dac23",
+      "Value": "\"I'm sick of your fights! Work it out between you two, and leave me out of it!\""
+    },
+    {
+      "Key": "80b70688-9701-42b1-bcfb-030a2240e381",
+      "Value": "\"I'm sick of your fights! Work it out between you two, and leave me out of it!\""
+    },
+    {
+      "Key": "cba5f3ce-063c-410b-9f6c-27c965789322",
+      "Value": "{n}You, Octavia, and Regongar go to the tavern to rest after a campaign.{/n}"
+    },
+    {
+      "Key": "44cb95ca-31ba-4189-a30d-a0b45552435f",
+      "Value": "\"So, my Octavia? Should we drink to new victories?\""
+    },
+    {
+      "Key": "9ec34e47-c2cf-4aa4-9ace-1bc62384d8d9",
+      "Value": "{n}The half-elf's smile disappears. She puts down her mug firmly on the table.{/n} \"Regongar, honey! Please try to remember, how many times I asked you not to call me that?\""
+    },
+    {
+      "Key": "e889fc93-03c0-4412-aae2-62be1c9c2664",
+      "Value": "\"Oh, don't be like that, it's just a word!\""
+    },
+    {
+      "Key": "9b340eee-beb1-42af-ab79-f99f9c933785",
+      "Value": "\"Just a word that is just painful for me to hear. Which I've asked you a thousand times not to say. But you just don't care! We've had this conversation before! And not just once or twice!\""
+    },
+    {
+      "Key": "0dc3666b-5d43-4a94-a736-837e57ca2be1",
+      "Value": "\"Why do you keep pushing me away — and the more I try for you, the worse it gets? {Name} doesn't pick on my every sneeze! You know, it's just a word... A tender word! You know I call you that because I love you, not because I'm trying to make you my posession or some other insane reason you made up!\""
+    },
+    {
+      "Key": "91e065dc-245b-44bd-b8c6-a5b2e82a99d5",
+      "Value": "\"{Name} is just more patient with your bullshit than me. This, right here, is what I'm talking about! It's not a tender word to me, and you know it! Reg, you're always doing something crazy that I didn't ask you to do, don't want you to do — or even asked you not to do — and then you say it's all because of this great big love you have for me. Well if you love me so much, why is it you don't care for what I say?\""
+    },
+    {
+      "Key": "77ac8a8c-a046-49b2-a74e-ce82df438fc7",
+      "Value": "{n}Regongar's voice becomes dull, he speaks slowly, like a growling dog preparing to attack.{/n} \"I? Don't care for you? You have the guts to accuse me of neglecting you? Octavia, why do you think I'm doing all this dumb shit? To earn a drop of your affection! You're drifting further from me with each passing day — and what should I do? I'm suffocating without you. Do you remember how we saved each other in Numeria? The way you are now — I don't know how I would have survived without {Name}!\""
+    },
+    {
+      "Key": "47203d76-b402-49f7-956a-b738eb905057",
+      "Value": "{n}Octavia looks away.{/n} \"I'm sorry. It's just that... Sometimes your love hurts. It's too fierce, too aggressive. You leave me no space at all!\""
+    },
+    {
+      "Key": "37261195-32db-4c2c-bdc8-0b855614c762",
+      "Value": "\"Sick of — ?! Fine! You won't hear them again! We'll be quiet as mice! Just don't you dare say again that you love me!\" {n}Getting up from the table, Octavia walks out of the tavern quickly, and slams the door.{/n}"
+    },
+    {
+      "Key": "79c5a8b9-abf9-422c-9941-f0afc400b234",
+      "Value": "\"So you're sick of us, huh? Well... I knew our love would end like this. We played a little and now it's been enough!\" {n}Getting up from the table, Regongar runs outside, slamming the door.{/n}"
+    },
+    {
+      "Key": "3d95f19a-e2ae-46c9-9779-9582b71919aa",
+      "Value": "\"Fine! You won't hear any more fights or anything else! We'll be as quiet as mice! Just don't you dare say again that you love me!\" {n}Octavia runs out of the tavern.{/n}"
+    },
+    {
+      "Key": "6b85944f-6183-4894-8194-1376f6cf66ef",
+      "Value": "\"Well... I knew our love would end like this. We played for a while, and now it's over!\" {n}Regongar runs out of the tavern.{/n}"
+    },
+    {
+      "Key": "5e4510f5-47fe-47cc-ba1a-bbd25182fec4",
+      "Value": "{n}Regongar looks at you in rage.{/n} \"You're on her side? Fine! Keep playing soft with each other. Just leave me out of it!\" {n}Regongar gets up from the table, runs outside and slams the door.{/n}"
+    },
+    {
+      "Key": "31bc52b1-3901-422a-8949-bc208251fc42",
+      "Value": "{n}Octavia bangs her hand on the table.{/n} \"You really don't understand why it's unbearable? It's like I'm talking to a wall! You two are perfect for each other! You know what? I think you'd better just have a nice happy duo and leave me out of it!\" {n}Octavia gets up from the table, storms out of the tavern, and slams the door behind her.{/n}"
+    },
+    {
+      "Key": "135d4908-c516-4fac-8d0a-01599dd4530e",
+      "Value": "\"Are you serious? Fine! If that's what you want!\" {n}Octavia gets up from the table, storms out of the tavern, and slams the door.{/n}"
+    },
+    {
+      "Key": "06561d98-d6e0-4442-a020-5d9a7eaa7360",
+      "Value": "{n}Regongar jumps up from the table, runs outside, and slams the door.{/n}"
+    },
+    {
+      "Key": "0b733952-c83e-4027-bfc5-fd8ba3840cd7",
+      "Value": "{n}Regongar had already taken a deep breath to belt out a furious answer, but he just exhales and looks down, embarrassed. An uneasy silence hangs over the table.{/n}"
+    },
+    {
+      "Key": "161a9b58-9eb7-4172-ac23-f241f2e02703",
+      "Value": "\"No. She won't. You don't understand... It's been a long time coming.\""
+    },
+    {
+      "Key": "9f3e06cc-084b-4d1d-aefb-4c6d364e759b",
+      "Value": "\"Now I have nobody. Nobody... Except you.\""
+    },
+    {
+      "Key": "1b7b0342-3751-4f18-bb2e-417dda9f4055",
+      "Value": "\"There's no use. It's been a long time coming... It's finally over, after a long and painful agony.\""
+    },
+    {
+      "Key": "02060b53-64a3-414f-b1fd-6b00a3369f01",
+      "Value": "{n}The half-orc clings to you tightly.{/n}"
+    },
+    {
+      "Key": "ffb27b85-faac-412b-a4ab-b92b4d03f291",
+      "Value": "\"No, it's my, my fault! But... why does it even matter? It's over now.\""
+    },
+    {
+      "Key": "ffcce0bc-b6a0-4e33-8dc1-a4e91fad938f",
+      "Value": "\"No, it's too late now. It's been... not all roses between us for a long time... And it's been getting worse. This had to happen — and it finally did.\""
+    },
+    {
+      "Key": "913ea388-48a9-408b-9777-277c8fe6ea68",
+      "Value": "\"No. He won't. Things haven't been working out with us for a long time — and it's been getting worse. Sooner or later this had to happen — and it finally did.\""
+    },
+    {
+      "Key": "2f63aca8-b9cf-4047-aa00-70ebeab8d7bc",
+      "Value": "\"No, no... I wasn't fair! But now... Now everything is over.\""
+    },
+    {
+      "Key": "61ae481a-4735-48dc-93a9-2e577c6f7e7d",
+      "Value": "{n}Octavia clings to you with her whole body. You feel her shivering.{/n}"
+    },
+    {
+      "Key": "aa11882b-5b06-4cbf-aa92-713b93607d3a",
+      "Value": "\"I've lost him, {Name}. I've lost him forever. Now I only have you.\""
+    },
+    {
+      "Key": "f976ac3d-0050-4866-ab60-c4c03e0c8d5f",
+      "Value": "\"Forgive me. I overreacted. I know you love me... In the end, you're right — it's only a word.\""
+    },
+    {
+      "Key": "f48b1f3d-67e8-4509-a6e4-741026460689",
+      "Value": "\"No, you forgive me. I keep trying to act up in front of you, to prove that I love you... When instead I should have just done one simple thing — shut up and listen! I'm sorry. I... I won't say that word again.\""
+    },
+    {
+      "Key": "03c166fc-84c7-408b-b71c-28f9bb1b9da3",
+      "Value": "{n}Octavia covers Regongar's hand with hers.{/n} \"Prove? Why do you need to prove anything? Haven't we known we love each other for nearly our whole lives?\""
+    },
+    {
+      "Key": "c0518f7c-0b1b-4ebb-a388-3bc9359b56bb",
+      "Value": "\"It's just that since we became free, you've pushed me away more and more! You turn away, you yell, you get angry at I don't know what...\""
+    },
+    {
+      "Key": "a823f0a2-35f8-47d2-b3cc-3e8bf51aa39d",
+      "Value": "\"You don't know what? You just said what! Just listen to yourself — you just said why I get angry at you! Because you act like an unbearable... Oh. I'm doing it again... I'm sorry, Reg, I'm sorry! What is this? We love each other. I know that, you know that. Why are we such idiots that we can't stop hurting each other?\" {n}The half-elf looks at you.{/n} \"Are you sure you want to get involved with a couple like this? You see how we snap at each other. You're likely to get caught in the middle!\""
+    },
+    {
+      "Key": "03c6e135-b446-402c-8a1a-530eca6fd73e",
+      "Value": "\"Then maybe just for you I'll make sure I listen to the ones I love, and think about it before I say or anything stupid.\""
+    },
+    {
+      "Key": "e3efaf02-4fd2-4415-bcb4-32fa2a9e33c6",
+      "Value": "{n}Octavia takes your hand in hers.{/n} \"The three of us have had a tough life. And you know... The kingdom, our companions, the money and the glory — all of this can go away in a day. All we really have is each other. Let's promise ourselves we'll stay together — no matter what happens!\""
+    },
+    {
+      "Key": "9e11c5f0-138c-4c44-b6ec-5b2b9573dcc7",
+      "Value": "\"Ha ha, that's a fact! Anyway, thanks for talking some sense into us. Octavia, I promise you, I'm more afraid of losing you than anything else in the world. And when you push me away, I just lose my head. That's why I... Do, well, everything I do.\""
+    },
+    {
+      "Key": "1de351d5-39c8-4ebb-8792-9041e0acfcf7",
+      "Value": "\"I'm also afraid of losing you. I promise I won't push you away any more. Just promise me that you'll at least sometimes think before you say or do things, all right?\""
+    },
+    {
+      "Key": "5a95f042-a91c-44af-994b-e6793d4fe566",
+      "Value": "{n}Octavia and Regongar seal their vows with a passionate kiss.{/n}"
+    },
+    {
+      "Key": "af8c08d5-d6af-4f48-b3eb-6a8359521a14",
+      "Value": "{n}Regongar takes you by the hand.{/n} \"I promise!\""
+    },
+    {
+      "Key": "8535432f-072a-474d-9860-9e04b4cdf916",
+      "Value": "\"You know what? You're right! If this relationship is bringing us nothing but pain, then maybe it would be better if we end it!\" {n}Octavia gets up from the table, storms out of the tavern, and slams the door.{/n}"
+    },
+    {
+      "Key": "9182b5f8-7c11-478f-a254-8ff052d4b46b",
+      "Value": "\"Well that didn't take long, did it? All right... At least you're honest! As opposed to somebody else we know! Who says she loves me and then always finds reasons to pout and make me crawl begging for just a little warmth!\" {n}Regongar jumps up from the table, runs outside and slams the door.{/n}"
+    },
+    {
+      "Key": "7be07fc5-52df-44dd-b875-31a99212234f",
+      "Value": "\"Will you tell Tristian that it's over between you and him? He'll understand. But he won't be able to share you with me.\""
+    },
+    {
+      "Key": "3fa6e482-5ee6-4442-97c3-fd6991ce3eed",
+      "Value": "\"Will you tell Valerie that it's over between you and her? She'll understand. But she won't be able to share you with me.\""
+    },
+    {
+      "Key": "2c6eed96-7b44-4400-8e10-247f57396afd",
+      "Value": "\"Tristian still hopes it's just going to be you and him. Don't lead the boy on, all right? Tell him it's over or you'll just end up making him suffer for nothing.\""
+    },
+    {
+      "Key": "c7520d0b-a8f3-4867-92ee-3517552a3c42",
+      "Value": "\"Valerie still hopes it's just going to be you and her. Don't lead the girl on, all right? Tell her it's over or you'll just end up making her suffer for nothing.\""
+    },
+    {
+      "Key": "99d0a3fc-7b60-445f-9ea5-5988d66ce315",
+      "Value": "{n}You sit holding hands and looking at each other. Then anxiety runs across Octavia's face.{/n} \"You know... Tristian likes you. Regongar and I wouldn't mind, but he's not like us. He hopes it's just going to be you and him. Don't lead the boy on, all right? Tell him it's over or you'll just end up making him suffer for nothing.\""
+    },
+    {
+      "Key": "f1f4b5db-4577-4d18-94f0-cc1a3d88b2ac",
+      "Value": "{n}You sit holding hands and looking at each other. Then anxiety runs across Octavia's face.{/n} \"You know... Valerie likes you. Regongar and I wouldn't mind, but she's not like us. She hopes it's just going to be you and her. Don't lead the girl on, all right? Tell her it's over or you'll just end up making her suffer for nothing.\""
+    },
+    {
+      "Key": "fdb86291-dd09-4f09-949d-9e3aad7aa2fb",
+      "Value": "\"This, right here, is what I'm talking about! It's not a tender word to me, and you know it! Look at {name}: {mf||s}he respects my requests, even if {mf||s}he finds them unreasonable, because {mf||s}he respects me. Reg, you're always doing something crazy that I didn't ask you to do, don't want you to do — or even asked you not to do — and then you say it's all because of this great big love you have for me. Well if you love me so much, why is it you don't care for what I say?\""
+    },
+    {
+      "Key": "fa543e48-def0-43ae-9859-31ece46156ad",
+      "Value": "{n}Regongar's voice dulls, and he speaks slowly, like a growling dog preparing to attack.{/n} \"'If?' 'If?' So after all these years... After everything we've been through... After everything I've done for you... You're still not sure if I love you? If you're so happy with {Name} and so miserable with me — maybe I should just go, and not stand in the way of your happiness.\""
+    },
+    {
+      "Key": "ec213496-eae6-4e08-b469-7b35eba5d444",
+      "Value": "\"Why do you keep pushing me away — and the more I try for you, the worse it gets? You know, it's just a word... A tender word! You know I call you that because I love you, not because I'm trying to make you my posession or some other insane reason you made up!\""
+    },
+    {
+      "Key": "b8d70d45-b616-4a65-a5e4-237880e34a48",
+      "Value": "{n}Octavia looks away.{/n} \"That's not what I meant... Your love hurts. It's too fierce, too aggressive. You leave me no space at all!\""
+    }
+  ]
+}

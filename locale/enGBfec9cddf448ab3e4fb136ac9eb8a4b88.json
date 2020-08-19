@@ -1,0 +1,137 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "ab269665-2b13-4d21-8834-a30f1ba94742",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "10f1c191-dbac-4d92-b5fe-f6c56f712171",
+      "Value": "\"No, I want to know where Nyrissa is and what she's plotting. Tell me, and I'll protect you from her.\""
+    },
+    {
+      "Key": "d1da0ab2-b7a5-4606-b19a-04214cbb331a",
+      "Value": "\"I have to go. Farewell!\""
+    },
+    {
+      "Key": "b43746ab-f396-4996-ba11-bf4fc7ecf2ce",
+      "Value": "[Attack] \"You serve Nyrissa, so I'll have to kill you. Just in case.\""
+    },
+    {
+      "Key": "d697d03e-9a62-48f1-b866-941c2c20df5f",
+      "Value": "\"Do you know where Nyrissa is hiding?\""
+    },
+    {
+      "Key": "c0cf8202-39e8-44db-a7e0-e5cd3347af01",
+      "Value": "\"Tell me about the library. It's rather strange.\""
+    },
+    {
+      "Key": "d8a45342-db07-4ff2-8252-cce7653eab6e",
+      "Value": "\"Yes, that's right. Tell me about the treasure.\""
+    },
+    {
+      "Key": "ef599fb8-ec67-4f3e-84fe-9292fb7c83f0",
+      "Value": "[Look into the book]"
+    },
+    {
+      "Key": "4593865f-e76c-4f34-8e5b-8d7bc88cffc1",
+      "Value": "\"Not this time.\""
+    },
+    {
+      "Key": "0b655e82-1187-4250-8efd-c96878856c34",
+      "Value": "[Use detect magic]"
+    },
+    {
+      "Key": "d4fd0a0c-bcdc-49fe-adf4-3b5331bc27f2",
+      "Value": "{n}Water from the broken water-clock flows away in streams — but not all of it. Some freezes indecisively and then assumes the shape of a small winged creature.{/n} \"Why did you break the clock? The mistress will be angry and boil me! If only someone would give her a new clock instead. But it had better be a sun clock or an hourglass. I'm tired of living in the clock, let somebody else watch it. But what if the mistress makes me live in a pot or a kettle?\""
+    },
+    {
+      "Key": "24db1bb0-9b58-473c-a6f3-b6d953519675",
+      "Value": "\"No, no, don't ask me! I can't disclose my mistress's secrets! She'll punish me. Would you like me to tell you something interesting instead? About the House? {g|First World}The First World{/g}? The {g|Eldest}Eldest{/g}? The secret treasure?\""
+    },
+    {
+      "Key": "630e1573-3eee-4994-83f1-dc297904fe27",
+      "Value": "\"Pludock,\" {n}the creature looks at you devotedly, then stops, apparently realizing that a name is not enough.{/n} \"I am a mephit. The mistress placed me here to watch the clock. The clock is very important for the library. If you don't look at it, you might go on reading forever and forget about everything. {n}It's hard to tell by the mephit's tone whether he's joking or literally means complete oblivion.{/n}"
+    },
+    {
+      "Key": "1cb5546b-adfe-4299-a16d-7cab9f2429b6",
+      "Value": "\"Heh. You don't seem evil. I'll tell you some...\" {n}The Mephit doesn't finish. For a moment you feel the oppressive presence of a mighty power — and then the mephit's body boils, and he turns to steam, screaming desperately.{/n}"
+    },
+    {
+      "Key": "1b231a68-4a5a-48f7-89f1-6c335ffd50d2",
+      "Value": "\"I'm not stupid. I won't tell! Let's talk about books, all right?\""
+    },
+    {
+      "Key": "d5dc70b7-dc61-41f9-93a9-926e3abe08d4",
+      "Value": "\"It's you again! Don't break anything else, okay?\""
+    },
+    {
+      "Key": "02382aef-d3ea-417d-811c-a7de515570fa",
+      "Value": "{n}The mephit leans over to you and whispers mysteriously,{/n} \"The treasure is here, inside the library! But to open the way, you'll need to put the right books into the right bookcases. I'll tell you which ones! There are six books and three bookcases: Wrath, Fear, Sorrow. No one likes to read Sorrow, Wrath and Fear, of course. That's why they hid the treasure behind them. When you find all the books, put the good ones on the top shelves, and the bad ones on the lower shelves. Just like that! And you'll get a treasure! See? I'm so useful — I know so much!\""
+    },
+    {
+      "Key": "5fa3d8f6-1d5b-406c-b5c8-37a88b64833d",
+      "Value": "\"I've never seen any other libraries. What are they like? Probably bookcases hanging from the ceilings, and mephits living in the fireplace. Let me tell you about this library. It's for our books, ones from {g|First World}the First World{/g}. Other types of books don't like it here and disappear. We have books about everything: joy, triumph, fear... If you want to, you can walk around and read whatever you like. But remember: books about evil and bad things are on the lower shelves. Terrible fear. Vicious joy. Books about good things go on the top shelves!\""
+    },
+    {
+      "Key": "cfdfd6fa-a4f8-482f-b39a-3c9dc4296688",
+      "Value": "{n}You open the book and see... Octavia. Her eyes are glowing brightly with courage and compassion for those in trouble. Her smile is full of life and joy. Have you ever seen anything more beautiful?{/n}"
+    },
+    {
+      "Key": "a0a23248-ea46-44bf-be4b-a12f103073b2",
+      "Value": "\"It's a pity you don't like to read... I have no one here to talk to!\""
+    },
+    {
+      "Key": "862e4cf3-d815-4eb1-9958-abded3451a19",
+      "Value": "\"Although the mistress stopped reading books from the top shelves long ago, and many of them were scattered around the house. I barely saved my favorite book — about Beauty.\" {n}The mephit narrows his eyes with a serene look.{/n} \"Vast waves roll under the blue sky! The waterfall is falling, deep into the rainbow! Would you like to read it?\" {n}He carefully fishes out a little book from the pieces of the clock. It doesn't look harmed by water at all. The mephit opens it for you to see, but he's not letting go of it.{/n}"
+    },
+    {
+      "Key": "bf064043-48e5-4eef-aef3-66e9fbcf3050",
+      "Value": "\"There is nothing written here! It's pure magic, causing the 'reader' to have this or that emotion. It's primitive. Tasteless! Pointless, devoid of even the shadow of the author's hand! It's the poorest representation of the idea of 'book' that I've ever seen!\""
+    },
+    {
+      "Key": "0f6d78e8-9cc1-46cc-9662-eb144f3a184c",
+      "Value": "{n}The goblin tries to peak in the book and winces, as if splashed with boiling water.{/n} \"Books! Disgusting magic books! Why it shows me these pictures? Why we not burn this li-ba-ry? We kill water beastie and burn everything!\""
+    },
+    {
+      "Key": "20937f0b-c670-45da-b87c-579f25617633",
+      "Value": "\"I like this. I see moonlit meadows, beautiful young boys and girls... I wonder if these books will work outside {g|First World}the First World{/g}? I'd take an edition or two of Beauty with me. And a thick volume of Patience. — Especially if there's one entitled 'Patience for Those Surrounded by Weaklings, Fools, and Wimps'.\""
+    },
+    {
+      "Key": "fa570f8a-a1e5-441a-b61d-7837dfdd06e1",
+      "Value": "{n}You open the book and see... Regongar. Looking at him is like watching a living flame, one that is strong, fierce and rebellious.{/n}"
+    },
+    {
+      "Key": "97a99b62-4aa2-4d77-ae6e-ed152d1072ef",
+      "Value": "{n}You open the book and see... Valerie... Courage and loyalty, steadfast, and willing to face her fate — all of this reflected in her eyes.{/n}"
+    },
+    {
+      "Key": "85de5b02-0435-45c9-b154-5132e35ad3c1",
+      "Value": "{n}You open the book and see... Tristian. He seems woven of sunlight — the light of kindness and selflessness, coming from his soul.{/n}"
+    },
+    {
+      "Key": "50c30875-00bf-4eb7-af26-bb6fb4bcd03a",
+      "Value": "{n}You open the book and see... Nyrissa. Is that her? The nymph's beautiful face is not disfigured by cruelty and despair — instead joy and endless fascination glow upon it. All the madness of the blooming lands, and the changeability of {g|First World}the First World{/g} are embodied in the nymph's appearance. This is probably what she was like before the curse.{/n}"
+    },
+    {
+      "Key": "96384234-d6af-40d4-8781-745e403b53e2",
+      "Value": "{n}You open the book. A series of vague images flash before you: clouds flowing across the sky, the faces of those you care about or desire, incredible scenes from {g|First World}the First World{/g}, and others from your homeland, more familiar but no less charming.{/n}"
+    },
+    {
+      "Key": "e07d8a40-a9ce-4b4f-84fa-79933844fca4",
+      "Value": "{n}You open the book and see... Regongar and Octavia. Day and night, the gleaming whiteness of snow and the surface of boiling lava. There is incredible beauty in the contrast, the synergy of opposites.{/n}"
+    },
+    {
+      "Key": "634c63fa-c8f5-4297-b585-d31f8efca1ca",
+      "Value": "\"Do you see? Beautiful, beautiful waves! And such a white waterfall!\" {n}Says mephit in awe.{/n}"
+    },
+    {
+      "Key": "582d8890-13cb-45bb-9106-0cc160db6fb2",
+      "Value": "{n}You feel the presence of a powerful spell targeting the mephit. It's obvious that the spell's creator is not the creature itself, but someone much more powerful. It's hard to identify the spell's school of magic or its purpose. You can assume that right now it only provides passive effects, but it could be activated by some trigger or command.{/n}"
+    },
+    {
+      "Key": "37e8823d-4b13-4083-bb5f-26ab4a7e6985",
+      "Value": "\"Now that's strange. I can't see a thing. Wait... There's the glitter of gems... And the bodies of lovers entwined in a passionate embrace... Ah, now it's gone again.\""
+    }
+  ]
+}

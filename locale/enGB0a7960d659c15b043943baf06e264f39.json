@@ -1,0 +1,249 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "f33c67b8-8109-48b2-80e0-6fcd4f95b26a",
+      "Value": "\"You certainly seem to be in high spirits.\""
+    },
+    {
+      "Key": "dbc0bf8d-a155-4c1b-a1a5-dc86069d04f5",
+      "Value": "\"Any news from Brevoy?\""
+    },
+    {
+      "Key": "732b734b-c8f8-4a95-9bab-f07a4d7c85d4",
+      "Value": "\"Any advice for me, Lander?\""
+    },
+    {
+      "Key": "a5aba884-9312-4da1-a637-62c83a68c8d9",
+      "Value": "\"You'll address me by my proper title, unless you wish to end up as the court jester.\""
+    },
+    {
+      "Key": "1eb49c3c-e001-4371-98ec-ea6a7ef52edd",
+      "Value": "\"We'll speak later.\""
+    },
+    {
+      "Key": "d1d8df4e-a503-43e0-a8d3-42798583f681",
+      "Value": "\"Greetings... 'Your Grace.'\""
+    },
+    {
+      "Key": "f8360260-0858-479d-8a0c-ed9491b8fca5",
+      "Value": "\"You will return home eventually, won't you?\""
+    },
+    {
+      "Key": "ff87c4fe-8df0-461a-b384-0c887dd0bf0c",
+      "Value": "\"I'd like to learn more about you.\""
+    },
+    {
+      "Key": "6af0421e-c4a9-47d2-8bad-a37b56d220a6",
+      "Value": "\"I need to discuss politics and affairs of the barony with you.\""
+    },
+    {
+      "Key": "51a98339-43c7-4391-b681-0d4120c6f0ca",
+      "Value": "\"What's going on between the Royal House Surtova and the Aldori Swordlords?\""
+    },
+    {
+      "Key": "a2adeefc-80bc-471a-894b-358e29a43918",
+      "Value": "\"What's my barony's role in the Surtova-Aldori conflict? I'm certain they'll keep trying to win my support.\""
+    },
+    {
+      "Key": "1cc021db-bef1-4b79-a6a0-1fe11291df47",
+      "Value": "\"Tell me about your family.\""
+    },
+    {
+      "Key": "2c4a528f-00f3-426c-8e36-250510aa7790",
+      "Value": "\"Judging by that story, it seems no one is truly close to you.\""
+    },
+    {
+      "Key": "a648a986-28b0-4b42-8de3-2575132011b1",
+      "Value": "\"What do you value most in people?\""
+    },
+    {
+      "Key": "2eaf6273-25f0-4e90-b654-fe1d485c3fae",
+      "Value": "\"What can you tell me of the River Kingdoms?\""
+    },
+    {
+      "Key": "d1b2ed20-cb42-4223-8b42-d332f6a45891",
+      "Value": "\"That's enough business for now.\""
+    },
+    {
+      "Key": "49d5c120-5172-4597-b691-b6c25fceacce",
+      "Value": "\"Let's return to this conversation later.\""
+    },
+    {
+      "Key": "0390a678-463d-41d3-a375-f29300c1f000",
+      "Value": "\"If I decided to entrust you with some part of the barony's governance, what role would you be able to assume?\""
+    },
+    {
+      "Key": "f03b6799-6f9d-4030-9598-5cdd3de2f7a1",
+      "Value": "\"How do you like being Regent?\""
+    },
+    {
+      "Key": "26d51725-7360-4004-b370-e9e4459cdb6a",
+      "Value": "\"You came of age two years ago. Why, Lebeda, are you still heir to the throne, and not sitting upon it yourself?\""
+    },
+    {
+      "Key": "87e6ecb3-36cc-42eb-8fc2-db5f32c7f92a",
+      "Value": "\"Take care around Sir Stefano. On his way from {g|Brevoy}Brevoy{/g} to {g|Pitax}Pitax{/g}, and he happens here by chance? Unlikely. Very unlikely.\""
+    },
+    {
+      "Key": "8b8a6259-ac87-43c1-83b0-202fd9b702c1",
+      "Value": "\"I promised you nothing more than to reflect on your proposal. Now, I've far more compelling business to attend to this evening... as well as those that follow, for that matter.\""
+    },
+    {
+      "Key": "b312cf5d-67e1-46cb-aa7a-f82011a400c9",
+      "Value": "\"I promised you nothing more than to reflect on your proposal. Now, I've far more compelling business to attend to this evening... as well as those that follow, for that matter.\""
+    },
+    {
+      "Key": "2a0e6e1d-9936-4112-ac56-cdfbe8c3ceaf",
+      "Value": "{n}A tall young man of about seventeen stands before you. He's athletic, and his composure and bearing hint at nobility. A faint smile curves his lips, but his gaze remains cold and examining.{/n}"
+    },
+    {
+      "Key": "63bd2ee6-7f9b-4ceb-b2df-4c046852e250",
+      "Value": "\"Of course! Can't let a throne sit empty, after all. Especially not one so wealthy.\" {n}Lander's eyes gleam.{/n} \"I will return. Someday. But for today, my house can wait.\""
+    },
+    {
+      "Key": "8644eece-5242-402a-ba34-8a79bd80c6da",
+      "Value": "{n}As you approach, Lander stops studying his fingernails, his broad smile revealing brilliant white teeth.{/n} \"Ah, greetings!\""
+    },
+    {
+      "Key": "0f9cab13-e0e3-41e7-9d4e-64623076bf54",
+      "Value": "\"Oh, apologies! Just where are my manners today?\" {n}Lander laughs, still with no mention of your title.{/n} \"I must have my head in the clouds today.\""
+    },
+    {
+      "Key": "f3065e81-5891-4705-aa76-a549ff9027d2",
+      "Value": "\"Another time, then — but I shall certainly hold you to your promise when I return.\" {n}Lander bows slightly and winks.{/n} \"And as the poets say, anticipation fuels passion's flame.\""
+    },
+    {
+      "Key": "ea7332eb-ece2-47c5-a799-8ab21f05fb4a",
+      "Value": "\"Jhod Kavkhen seems like a kindhearted old man, but I'd definitely keep an eye on him. From {g|Galt}Galt{/g}, no? Never much cared for {g|Galt}Galt{/g}. Revolution and insubordination runs deep in the blood of its people.\" {n}Lander narrows his eyes.{/n} \"He doesn't look like a spy, though. Seems to lack the subtlety for the job. But does he really?\""
+    },
+    {
+      "Key": "57b70851-a3a3-4743-9b7c-1d2a925020ea",
+      "Value": "\"I've met Kesten {g|House Garess}Garess{/g} before. He was an amiable, gregarious man — not at all like he is now.\" {n}Lander sighs.{/n} \"Now he's a broken man. And I don't consider it wise to trust broken people with important positions.\""
+    },
+    {
+      "Key": "545d8d9b-0b62-4a5e-ab5a-0dcfb95ec06e",
+      "Value": "\"{g|House Lebeda}House Lebeda{/g} remains neutral — for now, at least. But rest assured, once I return home, we'll wholeheartedly support the friendship between our nations.\""
+    },
+    {
+      "Key": "ee47303b-8c3c-4d74-9864-e37095305100",
+      "Value": "\"Or quenches them, I pray.\" {n}Valerie rolls her eyes as she turns away.{/n}"
+    },
+    {
+      "Key": "827801fa-fce2-4de8-abbb-2caa37c0c489",
+      "Value": "\"Or quenches them, I pray.\" {n}Valerie rolls her eyes as she turns away.{/n}"
+    },
+    {
+      "Key": "c31399ec-8772-4ec3-a468-9ce085ce8f02",
+      "Value": "{n}Lander smiles broadly.{/n} \"Oh, many — and ripe ones, at that. It seems {g|House Surtova}House Surtova{/g} has lost face, my friend. And the reason? Your barony! Created with the {g|Swordlords}Swordlords{/g}' and {g|House Lebeda}House Lebeda's{/g} money, it's growing quickly — soon it will become a power all the noble houses will be forced to recognize. A wind of change is blowing across {g|Brevoy}Brevoy{/g}, and that wind is us.\""
+    },
+    {
+      "Key": "185fee9b-c0db-4611-a58a-4b003f130dfd",
+      "Value": "{n}Lander's face turns bright red, but his manners prevail as the young aristocrat bows.{/n} \"I had believed that... Well, no matter. I shall never again make such an untoward mistake. Your Grace.\""
+    },
+    {
+      "Key": "a7639904-7f3c-496b-8e1f-1f09ba655d60",
+      "Value": "\"Truly high spirits, indeed! Just this morning, I received news from {g|Brevoy}Brevoy{/g}. My illustrious mother, may the gods prolong her years, is terribly upset by the disappearance of yours truly.\" {n}Lander's smile twists into a sneer.{/n} \"She's dispatched search parties to the neighboring provinces. Discretely, of course — she fears whatever scandal might arise due to my absence.\" {n}Lander sighs.{/n} \"Well, it's not the first time she's gone to such lengths...\""
+    },
+    {
+      "Key": "25188ebe-8b19-48c5-9d28-9ac28dac65f0",
+      "Value": "\"The {g|Swordlords}Swordlords{/g} of {g|Restov}Restov{/g} are concerned about some of the freedoms you allow yourself, but they're still showing a good face over a bad game.\""
+    },
+    {
+      "Key": "4275c714-5987-4781-adcd-831517763c6c",
+      "Value": "\"Expand. An aggressive, expansionist stance is the order of the day. The bigger the barony, the better, right?\" {n}Lander grins.{/n}"
+    },
+    {
+      "Key": "dbb2ec7b-ac35-4cde-8b1e-002d7daa4be0",
+      "Value": "\"{g|House Surtova}House Surtova{/g} openly denounces you and your barony. Nothing more than loud words as yet, though.\""
+    },
+    {
+      "Key": "ea466dd1-3804-447e-99f3-256c19cb3a83",
+      "Value": "\"And to you, my dear Valerie, a special, heartfelt greeting. I seem to recall a promise of your company for an evening on the river that has yet to be kept... You, me, the moon above us as our boat glides along the river...?\""
+    },
+    {
+      "Key": "7a9fb52e-db22-4233-8eeb-c8b64604889e",
+      "Value": "\"Another time, then — but I shall certainly hold you to your promise when I return.\" {n}Lander bows slightly and winks.{/n} \"And as the poets say, anticipation fuels passion's flame.\""
+    },
+    {
+      "Key": "8019ae60-4284-483b-9361-686c9d4c822d",
+      "Value": "\"Always glad to provide counsel.\" {n}Lander smiles.{/n}"
+    },
+    {
+      "Key": "a1045dc8-0501-43df-a3d1-6fd44b327271",
+      "Value": "\"To be blunt, sly schemers battling for power against stubborn blusterers. Long ago, both of them ruled a kingdom of their own — the {g|House Surtova}Surtovas{/g} ruled over {g|Issia}Issia{/g}, and the Aldori {g|Swordlords}Swordlords{/g} over {g|Rostland}Rostland{/g}. Then {g|Choral}Choral Rogarvia{/g} came in with his dragons and made it abundantly clear to everyone that everything they saw around them was his.\""
+    },
+    {
+      "Key": "162b8ab4-4f85-49c3-b16d-82a0a1ff44e2",
+      "Value": "\"Over the next two centuries, the {g|House Surtova}Surtovas{/g} squeezed everything they could from the benevolence of their rulers. And now, after the Vanishing of the {g|House Rogarvia}Rogarvia{/g} line, Noleski Surtova has seized the throne. But the Surtovas owe a blood debt to half of {g|Brevoy}Brevoy{/g} — it will prove difficult for them to hold on to that power. This makes them paranoid — they see enemies everywhere, and the Aldori are no exception.\""
+    },
+    {
+      "Key": "bea6f41e-0705-4eda-bf82-f44b6ff6aa9d",
+      "Value": "\"Who do you think ran quickest to express their deep devotion and loyalty? It certainly wasn't the Aldori. They fought to the last — and they almost died out as a result.\""
+    },
+    {
+      "Key": "53ad2c62-18d2-4044-9e33-bc26460ad2cc",
+      "Value": "\"The Aldori are brave and senseless. You're more likely to pull them out of trouble than be the one receiving aid. And the {g|House Surtova}Surtovas{/g} are smart, but they'll gladly sell you out if they see profit in it. They're also unbearably boring. All of which means you made a wise decision when you picked me as your ally.\" {n}Lander smiles.{/n} \"I wouldn't pander to either of them, but I'd also avoid angering either of them until there's good cause.\""
+    },
+    {
+      "Key": "f19433d4-7879-4e5d-880f-98c6ab0e0978",
+      "Value": "\"Me? But I'm such a bore!\" {n}Lander huffs indignantly, though he's clearly flattered by your attention.{/n} \"What would you like to know?\""
+    },
+    {
+      "Key": "6b85b6d2-dfa4-4a3b-959d-1522b3a3c0cd",
+      "Value": "\"{g|House Lebeda}House Lebeda{/g} is considered one of the most influential in Brevoy, and rightfully so. We own the fertile lands around {g|Lake Reykal}Lake Reykal{/g} and the castle of {g|Silverhall}Silverhall{/g} — an impressive structure, famous well beyond {g|Brevoy}Brevoy{/g}'s borders. We also control a significant amount of the lake and river shipping trade in the region.\""
+    },
+    {
+      "Key": "c8f28315-563b-4ae7-9f9e-053ee119b282",
+      "Value": "\"And if it's my family that's of interest to you... My father passed away long ago. My mother's spent years attempting to marry my sister Elanna off to our beloved king, {g|King Noleski Surtova}Noleski Surtova{/g}. As for myself, well, the family remembers I exist on the rare — or not so rare! — occasions when I end up causing everyone trouble.\" {n}Lander gives a disarming smile.{/n}"
+    },
+    {
+      "Key": "f6054eb0-d785-4446-8581-66f2eac24581",
+      "Value": "\"Close relations are a luxury that some people can't afford.\" {n}Lander looks away for a moment before continuing.{/n} \"I once became close to a man I considered to be a mentor and a friend. I later learned he'd been using me to acquire information on my house's caravans for some local bandits.\""
+    },
+    {
+      "Key": "a7dbaa47-3f1f-4ffd-a16b-ca3db5a0800e",
+      "Value": "\"I learned much from that experience. And so, I shall watch your entourage with a keen eye — I won't allow any untrustworthy or suspicious people to go unnoticed. You can trust me on that!\""
+    },
+    {
+      "Key": "6537be28-7474-4014-a8bb-25b451b7b330",
+      "Value": "\"Decisiveness!\" {n}Lander answers immediately, then adds,{/n} \"Well, sensible decisiveness. I've no taste for those who sit and mumble all day when the time to act has come, nor for those who rush in without consideration or planning.\""
+    },
+    {
+      "Key": "71742afd-d81b-429a-b1b5-3a100d38af2a",
+      "Value": "{n}Lander greets you with a familiar smile and bow.{/n} \"Your Grace, Baron{mf||ess} {name}!\""
+    },
+    {
+      "Key": "918b43a8-7996-4971-b9fc-5b70555ca424",
+      "Value": "\"Have you ever seen a jar full of spiders? It's much the same, only on a greater scale. A plethora of small nations and city-states that form spontaneously and dissipate just as rapidly. Nevertheless, there are those that could potentially pose a serious threat or become a promising ally — {g|Pitax}Pitax{/g} makes a fine example, here.\""
+    },
+    {
+      "Key": "ccdaccc2-f6ad-46b1-ba33-211cf8ab9568",
+      "Value": "\"Of course.\" {n}Lander nods.{/n} \"The world is plenty interesting even without politics, wouldn't you say?\""
+    },
+    {
+      "Key": "4767dd1e-47d7-434c-9c51-0d3b9fafefff",
+      "Value": "\"Why not?\" {n}Lander shrugs.{/n}"
+    },
+    {
+      "Key": "b8d2d460-d634-40b8-903d-ad07f97542c1",
+      "Value": "{n}Lander gives you a subtle smile.{/n} \"My abilities are so remarkable that you shouldn't consider me for anything less than Regent.\""
+    },
+    {
+      "Key": "5155396a-1e16-4944-bd88-cbe9dd88db99",
+      "Value": "\"It gives me great satisfaction, Your Grace — the very thought of how much I influence the barony. Ah, but you must be asking after my responsibilities? All matters are well in hand — and by no means do they hamper my other affairs.\""
+    },
+    {
+      "Key": "a29f2128-dbf7-4a23-b308-47e03ba8278b",
+      "Value": "{n}Lander shakes his head in disapproval.{/n} \"Let's not repeat our previous mistakes, Your Grace. Last time we tried this, we didn't get along very well, remember? Why torture ourselves again? You should find yourself another, more amenable Regent, don't you think?\""
+    },
+    {
+      "Key": "7614bf15-a46c-4228-b27a-9292cbff2a0f",
+      "Value": "\"A throne is a curious thing: it owns you more than you own it. My mother bent over backwards to draw me into possession of my father's legacy. But I... I would like Lander to really see and do something in this world, before he becomes Lord {g|House Lebeda}Lebeda{/g}.\""
+    },
+    {
+      "Key": "6bd5d2ad-0747-44cc-a4c3-abff2b9c2d20",
+      "Value": "\"I heard a noble from one of the River Kingdoms, Lord What-His-Name Frey, considered inviting you to his daughter's wedding. I'd advise against accepting a wedding invitation from a man with a last name like that.\""
+    }
+  ]
+}

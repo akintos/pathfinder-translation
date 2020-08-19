@@ -1,0 +1,33 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "5857144e-83cc-4f76-b915-b3e196d2c18e",
+      "Value": "\"Remind me, who are you?\""
+    },
+    {
+      "Key": "76ffba44-6d67-4879-ae68-2ad9f95d8339",
+      "Value": "\"How are you doing?\""
+    },
+    {
+      "Key": "8189431a-1184-401a-8555-d509274bac75",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "e2285928-f0f3-4461-baf0-ada9d5048c3e",
+      "Value": "\"Hello, {mf|Your Grace|Your Grace|Your Highness|Your Highness}! Glad to see you in good health!\""
+    },
+    {
+      "Key": "45f30dda-8283-432f-9f98-9170a959882c",
+      "Value": "\"May {g|Torag}Torag{/g} lay a sturdy road beneath your feet!\""
+    },
+    {
+      "Key": "b790c244-3b8e-4456-aa1b-e1d83980cf42",
+      "Value": "\"Jarmuld Skjegge, {g|Torag}Torag's{/g} paladin from {g|Five Kings Mountains}the Five Kings Mountains{/g}. We returned here seeking our clan's legacy — and nearly paid with our lives. It is only thanks to your mercy that we yet live. For this, the Skjegge clan is eternally grateful to you\"."
+    },
+    {
+      "Key": "9573bc87-d11d-4db4-8986-db2fea7d23d6",
+      "Value": "\"Alas, not so good at present. The passage is hidden behind several heavy doors, fortified and protected with traps... Our ancestors' diaries say nothing of this. But rest assured, we'll find our way in! We Skjegge are famous for our perseverance!\""
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "81b86d63-11d6-43c1-a6ee-8aab8fb90abd",
+      "Value": "\"Your Grace!\" {n}Kesten's face looks worried and fearful.{/n} \"Your Grace, ill news from the {g|Narlmarches}Narlmarches{/g} — again!\""
+    },
+    {
+      "Key": "7f94bb2d-608b-47b5-bb46-dc03f48c90f0",
+      "Value": "\"There were already many trolls there, but now people are afraid to leave their houses! The wilds are said to be swarming with them. The hunters were the first ones to notice, then came the merchants delivering packages and food to the outskirts of the barony. Now there are more and more reports of trolls attacking villages\"."
+    },
+    {
+      "Key": "4da1e86f-57be-460d-9bb7-60f6d9943b73",
+      "Value": "\"At first, I took the reports for gossip. Thought it was just the fear talking. But a local group of merchants recently reported that most of the trolls seem to be lurking around the house of one Bartholomew Delgado — an odd mage living out in the wilds all by himself. They're saying there are so many trolls out there, nobody can reach Bartholomew for fear of the beasts!\""
+    },
+    {
+      "Key": "0f0c60d0-dca0-4bc1-9d70-2443b0c65910",
+      "Value": "{n}Kesten's face goes dark.{/n} \"Those trolls are up to something, and this strange Bartholomew fellow is clearly tangled up in it somehow. If the wizard's gotten some idea in his head to conspire with the trolls, we should make the first move and hit them with a preemptive strike. However, if the trolls are coming FOR him rather than TO him...\" {n}Kesten sighs.{/n} \"It would be an enormous help if you could pay a visit to Bartholomew and figure out what's going on. I recommend haste — if nothing is done soon, there may be a grisly fate in store for your subjects!\""
+    },
+    {
+      "Key": "fa2cb339-41ec-494c-b557-5415e4731e29",
+      "Value": "\"Local merchants reported lots of trolls lurking around the house where Bartholomew Delgado lived — you know, that suspicious wizard you... Well, no need to bring that back up. Anyway, I sent some reliable people there. They searched his house and found a torture chamber in the basement, with a troll tied to a rack. The poor beast died of hunger. Seems that's how the wizard amused himself...\" {n}Kesten shakes his head grimly.{/n}"
+    },
+    {
+      "Key": "80ded5c5-d2ee-4cfd-8cd6-fc048f6b1380",
+      "Value": "\"We're used to trolls lurking in deep marshes and forests. There were a surprising amount of them around Bartholomew's house, and now we know why... But whether the lack of response has made them bold or they're just avenging their kin's torture, they're now attacking in broad daylight. They pillage, plunder, and drag away cattle and people alike. Survivors say they seem to be taking all the loot in the same direction, somewhere around here — that must be where their lair is!\" {n}Kesten makes a mark on your map.{/n}"
+    }
+  ]
+}

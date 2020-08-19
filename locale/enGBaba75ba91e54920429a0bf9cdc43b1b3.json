@@ -1,0 +1,525 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "4bac72af-c8ad-4e3d-9457-5a27f679cd62",
+      "Value": "\"Herald of All-Seeing Nethys, I welcome you!\""
+    },
+    {
+      "Key": "cff37d95-a828-42ef-a5b4-2f130840cd89",
+      "Value": "\"Oh, another higher power visiting my kingdom!\""
+    },
+    {
+      "Key": "a47599e9-f084-4d26-a548-6f03769bcdd1",
+      "Value": "\"I've come for Kanerah and Kalikke.\""
+    },
+    {
+      "Key": "b6c34513-ab05-4740-9472-1e3998ee0b2b",
+      "Value": "\"If there's no other choice, then let Kalikke go with you.\""
+    },
+    {
+      "Key": "7fd864ff-acb2-4adf-bb81-76652d9646aa",
+      "Value": "\"Auferon?..\""
+    },
+    {
+      "Key": "776c0fac-fee9-4d63-a8f8-a88c6db32830",
+      "Value": "\"Wait, Herald. What did your compact with Kanerah and Kalikke mean, in that case?\""
+    },
+    {
+      "Key": "9fadc456-9b2a-497d-a2c6-59fc7e9bde35",
+      "Value": "\"You doomed them to a life of exile, torn apart. Is this what you call help?\""
+    },
+    {
+      "Key": "d21bae19-d0f2-4533-80eb-519abdd6b9f2",
+      "Value": "\"Forgive me, Kanerah, but I do not regret my decision. I couldn't let the innocent die.\""
+    },
+    {
+      "Key": "145d7862-7681-4ad0-8ee8-5147e8c78d4e",
+      "Value": "\"Think whatever you want, Kalikke, but I don't regret my decision. Kanerah's life is more precious to me than the lives of your friends.\""
+    },
+    {
+      "Key": "34e6954e-12fc-4dfe-84bd-87bb80d46ba4",
+      "Value": "\"Whatever decision I made back then, when facing the soul eater, I won't allow you to take either of these sisters, Forefather.\""
+    },
+    {
+      "Key": "ec2dcf0d-6e29-4190-b7f7-ba18fee26f8f",
+      "Value": "[Talk to Kalikke] \"Sometimes heart and its noble impulses are not our best advisors. Think about it, Kalikke. Think what's more important to you – your sister or your so-called kindness.\""
+    },
+    {
+      "Key": "facc1c08-8022-4114-8e2c-8811e9b932c8",
+      "Value": "[Reason with Kanerah] \"Shrewdness is not the best tool when it comes to dealing with your loved ones. Think about it, Kanerah. And learn to understand and accept your sister's feelings.\""
+    },
+    {
+      "Key": "03c7bbef-972a-4ddd-b720-7982c16e36bb",
+      "Value": "[Attack] \"I've no wish to prove anything to anyone, but I will defeat you, Forefather, and our problems will be solved.\""
+    },
+    {
+      "Key": "7d6e31f8-b721-4441-85c2-b5cef2528801",
+      "Value": "\"There are more important matters before me than dealing with the likes of you, devil. But don't even think about returning to my kingdom!\""
+    },
+    {
+      "Key": "df47e50a-3496-4d0e-915a-930cde55d400",
+      "Value": "[Attack] \"I fell for your trickery once, and let you leave without a fight. I won't make the same mistake again!\""
+    },
+    {
+      "Key": "5bd19af6-13ee-4947-8c45-4f9f072e53bd",
+      "Value": "[Attack] \"No, I will not allow you to leave. Not after what you've done!\""
+    },
+    {
+      "Key": "e35597ca-6736-46e5-ac21-a186a45ace3e",
+      "Value": "\"So long, Auferon. I wouldn't mind meeting you again, if you have something interesting to offer.\""
+    },
+    {
+      "Key": "f3a6610d-a2eb-4598-82fe-fb0217d92519",
+      "Value": "\"What if I simply don't like Nethys's faith?\""
+    },
+    {
+      "Key": "65b8e85b-63ee-494b-ba96-61c8f5966658",
+      "Value": "\"But I am the {mf|King|Queen}, and patron of the magic arts in my lands.\""
+    },
+    {
+      "Key": "2f63b432-c831-4261-b3b4-1f41b764185d",
+      "Value": "\"It's never too late to learn this art.\""
+    },
+    {
+      "Key": "cb0ac4b6-0e70-4bb7-aedc-4e11cb689963",
+      "Value": "\"Will you spare me some time, Herald? When will I again be witness to such a perfect embodiment of magic thought as you...\""
+    },
+    {
+      "Key": "48ec4c5c-3a00-466f-b353-8492826ed402",
+      "Value": "\"Thank you for your visit. Let's resolve the matter we have gathered here for.\""
+    },
+    {
+      "Key": "aa9776cb-bd68-42ef-bc76-04fdd7479e83",
+      "Value": "\"Kanerah, stop! We can still fix everything.\""
+    },
+    {
+      "Key": "7b743af0-ece1-4bf4-9f1f-0e723346571f",
+      "Value": "\"This might actually be for the best...\""
+    },
+    {
+      "Key": "3b5dfb80-ded7-4b8c-965e-6ced3fb5a6aa",
+      "Value": "\"Kalikke, stop. You don't need to do this.\""
+    },
+    {
+      "Key": "7812c910-19f3-44d1-9eb3-97c10d493cc9",
+      "Value": "\"Great, everybody gets what they want...\""
+    },
+    {
+      "Key": "6e0c671b-06ad-4a21-be17-8591f1d8b41f",
+      "Value": "[Attack] \"No, never. If I need to use force to stop you, then I will!\""
+    },
+    {
+      "Key": "9a1e3ada-2cb7-44cd-9e45-5d836b2838b3",
+      "Value": "\"If there is no other way. Let Kanerah go with you.\""
+    },
+    {
+      "Key": "9ef1d024-4b2b-4d69-ba36-595f8ec65cd4",
+      "Value": "\"I want what's good for you. Listen to my words. Think about what's more important to you – your sister or your ambitions.\""
+    },
+    {
+      "Key": "b7c08a34-1a43-4d61-9aa4-c8626bc12a99",
+      "Value": "\"You have a chance to change everything – starting with yourself.\""
+    },
+    {
+      "Key": "c4e6d324-32ab-48d5-ba8b-a16e4ea3a82c",
+      "Value": "\"Yes, I do. If you don't learn to think with your head and be more practical, you'll only get your sister into trouble again. Enough is enough.\""
+    },
+    {
+      "Key": "27142942-b390-443b-a484-bde72718b987",
+      "Value": "\"When will you learn to listen to those who are older and wiser than you?\""
+    },
+    {
+      "Key": "bc000612-27d0-43ad-baa4-4ebc7e8b9c70",
+      "Value": "{n}The pulsating magical energy, which so altered the area around the old Taldan tower, is particularly strong here. And it's easy to guess why: like a living heart pumping blood through its veins, a sparking cloud of energy is floating above the ground.{/n}"
+    },
+    {
+      "Key": "1ac7843e-1345-4fdc-ba2a-53f5d65ed438",
+      "Value": "\"{name}! You came for us!\" {n}Kalikke's blue eyes sparkle, but her face is tense and exhausted.{/n}"
+    },
+    {
+      "Key": "1306fa9e-7087-4c48-afce-4ac65e27b58e",
+      "Value": "{n}Kanerah, disheveled and tired, winks at you and whispers loudly,{/n} \"Our poor great-grandfather is upset... He wanted to resolve the matter quickly and without any fuss, but the {g|Arcanotheign}Herald{/g} didn't even want to talk to him.\""
+    },
+    {
+      "Key": "2604606e-82b3-44e2-8bb3-455576449223",
+      "Value": "\"Greetings.\" {n}The curt salutation betrays more about the Forefather's mood than he intended to reveal. There is no trace of the devil's usual eloquence – and he seems as tense as a predator ready to strike.{/n}"
+    },
+    {
+      "Key": "74447442-a4e2-4a4c-b7f8-9578df0564c7",
+      "Value": "\"Because I was waiting.\" {n}The numinous voice echoes powerfully the magic cloud, penetrating the area.{/n} \"And my wait is over.\""
+    },
+    {
+      "Key": "5cd8f10b-1e45-4638-b38d-276fb6f6731f",
+      "Value": "\"...and it seems I was not mistaken. Although without your participation, {name}, this plan would have never worked. One wrong step, and Kalikke's heart would have been broken by the sacrifice of her friends. Or Kanerah might have lost her faith in you, and in her sister, if you'd decided to use her as living bait for the soul eater. The sisters would never have been able to find a common path. – But you led them along the razor's edge, keeping all in perfect {d|TTQ2_TN}balance{/d}.\""
+    },
+    {
+      "Key": "447f94ca-fb70-4aaf-96a7-a7277248e71c",
+      "Value": "\"But I was wrong. Nothing worked – one side still tries to defeat the other. They cannot hear each other. They cannot make peace. It would be better for them never to meet, as I planned from the beginning.\""
+    },
+    {
+      "Key": "476079df-08cd-4c7d-8b2f-9937dddbd0b7",
+      "Value": "{n}The Arcanotheign leans forward a bit, in a gesture of greeting.{/n} \"Hello, loyal mage. Your power is great, I see.. it is a relief to see one who walk so confidently down their path, blessed by my lord and creator. – The path of magical knowledge and power...\""
+    },
+    {
+      "Key": "50dd8627-28bc-45fc-9baf-6a6e2f856004",
+      "Value": "\"That's no secret to me.\""
+    },
+    {
+      "Key": "0d2d29ee-3a6d-459e-830e-5c00057680fe",
+      "Value": "\"Isn't that supposed to make you happy – or at least curious? Most mortals live so... still, without a chance to ever see so many different forces and creatures, or learn so many new things...\""
+    },
+    {
+      "Key": "a7ec2358-8aa8-4fda-b4f3-7c6b8e66885b",
+      "Value": "\"What a perfect little scene. With the slight stench of a rotten corpse, but who cares. However, I must remind you – the Arcanotheign might have relinquished her claims. But I have not. One of you will come with me!\""
+    },
+    {
+      "Key": "1c4d4baa-db9a-411c-bb45-3f33e0866bc0",
+      "Value": "{n}With a suave gesture, the devil draws attention back to himself.{/n} \"Perhaps now that we're all together, we may discuss the delicate matter for which we are here assembled. Herald, I am aware that you brought Kanerah back to life, making her and her sister agree to some difficult conditions, as payment for your gift of life. And both of these conditions were bro–\""
+    },
+    {
+      "Key": "399387aa-3f92-4228-89a7-c0cebae5f7ab",
+      "Value": "{n}The god's herald interrupts the devil. You hear surprisingly human astonishment in her numinous voice.{/n} \"You are very wrong, Auferon. Perhaps you have confused me with the Lawgiver, the Herald of {g|Abadar}Abadar{/g}?\" {n}Judging by her voice, the Arcanotheign finds her final remark incredibly amusing.{/n}"
+    },
+    {
+      "Key": "0370ba0e-d622-46e6-8969-1f92a8045852",
+      "Value": "\"I do not take 'payment' for my deeds, and make no 'conditions'. That is the lot of other gods and their servants, but not of All-Seeing {g|Nethys}Nethys{/g}. I only heard Kalikke's prayer and desired to help her. My lord and creator approved this decision – it seemed to him a curious magic experiment, a momentary amusement in the vastness of eternity.\""
+    },
+    {
+      "Key": "ea78e3fd-8b2f-47ec-9e18-124fb8a56ebf",
+      "Value": "\"The true name of the Forefather. Interesting, even I didn't know...\""
+    },
+    {
+      "Key": "6e7a61d3-b285-4494-8697-adecad303e56",
+      "Value": "\"I told you – I simply wanted to help them.\""
+    },
+    {
+      "Key": "e9348cdd-b99e-4eb9-91dd-f951e7e06bce",
+      "Value": "{n}The Arcanotheign seems embarrassed.{/n}"
+    },
+    {
+      "Key": "02b06c03-c126-4c9e-8564-45e1465f8fdb",
+      "Value": "\"Certain energies and substances annihilate each other, if placed in the same vessel. Such are the spirits of Kanerah and Kalikke. So long as they are together, they will continue to hurt each other, pulling each in different directions, tearing themselves to pieces. If I simply returned Kanerah to life, sooner or later they would ruin each other as they did once before. But still I desired to help them. I drew upon the wisdom of Nethys, my lord and creator. He is double-edged, and his two sides are in balance. I thought the sisters might achieve this as well...\""
+    },
+    {
+      "Key": "0536625e-3f96-45de-9956-0ae6a1ed36ad",
+      "Value": "\"Your and Kalikke's {d|TTQ2_CG}decision{/d} to use Kanerah as living bait for the soul eater – this was the final brick in the wall that divided these sisters. Kanerah will not say this out loud – she is far too secretive. But deep down, she can no longer fully trust you – or her sister.\""
+    },
+    {
+      "Key": "ddb1c1a4-44e5-40c0-90ed-d5c7aab9cc28",
+      "Value": "\"The blood of the dead Sweet Teeth is {d|TTQ2_LE}on your hands{/d} – and the ease with which Kanerah accepted this sacrifice was the last brick in the wall that divides these sisters. Kalikke might not say anything – she is used to keeping all her grief shut away. But she has never truly forgiven you, or her sister.\""
+    },
+    {
+      "Key": "1ea9e4d8-e10d-4b8d-8730-9a87ad97c2cb",
+      "Value": "\"Oh, this crisis has been coming for a long time, but I know how to solve it...\" {n}The devil's seductive voice gradually gains strength. {/n}\"An agreement, and experiment, or aid given selflessly — whatever it was, your plan failed, Herald. You admit as much yourself.\""
+    },
+    {
+      "Key": "5feeefcd-f149-44d9-8743-53b30b5df177",
+      "Value": "\"But allow me to suggest a solution. I shall take one of the sisters with me to Hell, for all eternity, body, soul and all that she can give. The other will remain here to live out her life howsoever she pleases. If both are doomed, then my suggestion is the best solution.\""
+    },
+    {
+      "Key": "11849f88-f9a2-4cd3-ba02-b0895551331e",
+      "Value": "\"Perhaps,\"{n} the Arcanotheign agrees with remarkable ease.{/n} \"Or perhaps not. It is time to decide. Let the matter be weighed upon the scales – that's how you mortals evaluate things, is it not? Kanerah, Kalikke and {name} – it is up to you what happens next.\""
+    },
+    {
+      "Key": "d97dee85-3f9d-4782-890b-03df1736a304",
+      "Value": "{n}Kanerah bites her lip, then nods.{/n} \"The Herald is right. Whatever you may think, I can't accept that my patron and my only sister would use me as living bait. I still have nightmares about the soul eater – about how it killed me the first time. I awaken and I wonder – when will be the next time that you risk my life for the sake of your kind and noble deeds?\""
+    },
+    {
+      "Key": "7a051ebc-cf87-49fd-ac37-6434af972f74",
+      "Value": "{n}Kalikke takes a deep breath.{/n} \"You are right, wise Herald. I cannot forget my friends. Naiho, Tevi and Elki... I hear their voices in the morning before I awaken, and I cry when I do, when I realize they're gone. I don't know if I can ever get past this. Will I ever stop thinking what my life would be like, if I just shut my eyes and pretend nothing happened? No, I can't. Any fate is better than this torture.\""
+    },
+    {
+      "Key": "53ab4b64-af36-44c2-a813-c9d1778e8097",
+      "Value": "\"Really? And how do you intend to stop me, when even the god's Herald confirms the right of my claims. – And even the one you would protect refuses your patronage?\""
+    },
+    {
+      "Key": "153b5e3e-fb9a-45c2-a49e-514dd56317ec",
+      "Value": "\"I wanted to change your fate. But I guess I couldn't. There is nothing for me to do here... and maybe I shouldn't have interfered in the first place.\""
+    },
+    {
+      "Key": "1dec50ab-7062-4af7-80d2-f5ee489f7968",
+      "Value": "{n}A storm troubles Kalikke's eyes.{/n} \"You want me to become colder and more calculating? I guess it's time for me to grow up...\""
+    },
+    {
+      "Key": "71a87f21-ee2d-4aed-b7a7-917025cb7218",
+      "Value": "\"Do you really think mere words can make me forget the deaths of my friends? I have kept quiet about my grief for too long...\""
+    },
+    {
+      "Key": "85c6b741-ffdf-4758-9c3f-047b79275651",
+      "Value": "{n}Kanerah looks at her sister and back at you with almost childish despair.{/n} \"You're really serious, aren't you?\""
+    },
+    {
+      "Key": "4b52d5d5-3f17-42a9-922a-ae6560074a70",
+      "Value": "{n}Kanerah makes a wry face.{/n} \"Go to Hell and take your condescension with you!\""
+    },
+    {
+      "Key": "228c35ac-3e02-465d-84cd-dcc954562300",
+      "Value": "\"It's amazing you didn't suggest that I'd happily feed myself to the soul eater! Anyway, that's almost exactly what I'm going to do. Auferon, I am yours. I will join you in Hell. This is my decision.\""
+    },
+    {
+      "Key": "e5e5b776-1818-4e45-8324-f174828cb684",
+      "Value": "\"So what am I supposed to do? I'm not allowed to bear a grudge? Ha! Fine, fine, Kanerah is evil and heartless, and Kanerah will try to be better. Satisfied?\""
+    },
+    {
+      "Key": "6f6332b7-0a8c-4809-b98c-5ff66916590b",
+      "Value": "\"...Grow up and understand how the world really works. I can see it now – this place is no different than Hell. Evil and deviousness rule here as well. And if that's the case, then why does it matter where I spend my life? Take me, Forefather. This is my decision.\""
+    },
+    {
+      "Key": "724df508-bb45-4d75-9d65-22501d4beef5",
+      "Value": "\"I must accept this bitter world as it is, and not as I've imagined it to be in my dreams. Very well – you convinced me. I will try to change for you. Perhaps my heart will hurt less this way...\""
+    },
+    {
+      "Key": "34d270b6-b32d-439a-9640-4521ea5413b0",
+      "Value": "\"No! That's not how I wanted things... I thought you'd understand... and then...\""
+    },
+    {
+      "Key": "d66564e6-0d80-48d1-9a0b-466027051c10",
+      "Value": "{n}The Forefather holds his prey tightly by her hand, then looks at her sister.{/n} \"This is called 'accountability', you foolish child. Not everything in the world turns out how you'd like. At least so long as you don't have the power to compel the world to obey.\""
+    },
+    {
+      "Key": "d11ff1f3-e986-4c3c-a046-78c017d05ea6",
+      "Value": "\"This chapter ends in sadness... But I will not stand against a decision made freely. You have given me so many new thoughts, so many ideas. It's enough for an age or two of contemplation.\""
+    },
+    {
+      "Key": "fa78c85a-f876-49c9-a197-8ebb7ea76a44",
+      "Value": "{n}The devil gives a courtly half-bow.{/n} \"Herald.\""
+    },
+    {
+      "Key": "12dc6822-63bc-4b24-a5ff-59ba40316775",
+      "Value": "{n}He looks at you.{/n} \"Sooner or later, the kingdom of Asmodeus will collect your souls as well. But for now – farewell!\""
+    },
+    {
+      "Key": "f9866977-8ff3-41d5-a17b-cebb67ea6cb3",
+      "Value": "\"No! Kanerah, listen...\""
+    },
+    {
+      "Key": "4e7199d5-27ce-4f26-9ccf-71a0edb81ac2",
+      "Value": "{n}You sense a note of approval or even respect in the Arcanotheign's otherworldly voice.{/n} \"This universe is built so intricately... Only All-Seeing Nethys knows in advance all the consequences of all decisions, and the outcomes of countless timelines. Even I, his creation and Herald, do not know so much, and every new discovery amazes me more and more. What I have seen watching you and these sisters is one such amazing discovery.\""
+    },
+    {
+      "Key": "ee7face0-1bae-4e8c-a3ca-42b0e1a4dcde",
+      "Value": "\"More amazing still is that my lord and creator momentarily turned his gaze upon you. Nethys does not speak to his followers directly, nor reward their efforts or punish their negligence. But there is nothing to prevent me from presenting you with a token of thanks, for the insights into human nature which you have given me. You may live now as you wish. – I see you've learned to find a balance, and will be able to carry on with your lives without driving each other into madness.\""
+    },
+    {
+      "Key": "1490d02a-6ed9-430c-8a07-3a4edea15d3e",
+      "Value": "\"Thank you, Herald. For this gift and for the new chance we've received.\""
+    },
+    {
+      "Key": "4f76ae61-06c9-4f5d-a36e-16947a9fcd42",
+      "Value": "\"It's not enough to receive a gift. What matters is how you use it... But nonetheless – thank you!\""
+    },
+    {
+      "Key": "4abbdd58-6a6b-4cf5-9516-2fbeac2079bf",
+      "Value": "\"You gave me a chance to end this story for my own benefit. Now that the Herald has ceased her meddling...\""
+    },
+    {
+      "Key": "668d9328-68f3-49f9-9f8c-5fb466412a58",
+      "Value": "\"I too will excuse myself. Many interesting things are happening here. I would stay and watch, but I do not wish to interfere any longer. All that happens next is your story and yours alone. Farewell!\""
+    },
+    {
+      "Key": "bf6bb465-da78-4804-a170-8efebbdc1a1b",
+      "Value": "\"But you're already having so much fun here, and I have no wish to interfere. Farewell!\""
+    },
+    {
+      "Key": "94e8c54c-057e-4c4c-8fa4-888fc1ae1197",
+      "Value": "\"I doubt your kingdom will exist for much longer, so there is no sense in my return. It's a pity I failed to preserve my valuable investment. – Instead, they will die with you, pointlessly and uselessly... But alas. Such modest disappointments merely punctuate the tedium of eternity. Farewell!\""
+    },
+    {
+      "Key": "556fda24-3444-4336-a672-b64805dc1158",
+      "Value": "{n}Kanerah folds her arms on her chest.{/n} \"It is as I expected. My sister and you are two peas in a pod. But you know what? I'm not mad at you.\""
+    },
+    {
+      "Key": "3d9700db-5678-411f-b840-7cd02ead04ad",
+      "Value": "{n}Kalikke listens to you silently, nods, then turns to the Forefather and says abruptly,{/n} \"Take me, devil.\""
+    },
+    {
+      "Key": "f6f18e27-7482-4a6d-8cc1-97e0f89b1762",
+      "Value": "\"Everyone must choose their own friends and patrons. I simply don't belong in this friendly gang. A good thing I've received an alternative proposal... Forefather, I'm ready to go with you. Of course, we must discuss the terms of our new contract in detail...\""
+    },
+    {
+      "Key": "704c8de2-44bd-4384-9566-900f0ad3ff74",
+      "Value": "\"No! You silly goat! What's got into your head?\""
+    },
+    {
+      "Key": "b9487ea2-fb90-4e95-8fe3-05fe17bce820",
+      "Value": "\"Kanerah, no! Don't do this!\""
+    },
+    {
+      "Key": "9354c026-129c-490d-9d8a-180ec3ac7ecc",
+      "Value": "\"I just want to get this over with. You are good here, Kanerah. You and {name} have found a common purpose. But I don't belong here, as everyone can see. I failed to save you from death once, and then I failed to save the Sweet Teeth – all souls who trusted me. All I feel now is tired and sad. If the Hell requires a sacrifice, then let it be me. As for you... be happy, sister.\""
+    },
+    {
+      "Key": "86a33d0a-35a1-4b27-90e3-bf0ca40b043a",
+      "Value": "\"And on that splendid note, if you'll excuse me. – This miserable piece of land will soon fall anyway!\""
+    },
+    {
+      "Key": "bebc1a3c-3595-4175-a7a1-f393059cc633",
+      "Value": "\"However, you and {name} made me happy... first there, at the barrens with the soul eater. And now here, dashing the illusions of poor Kalikke so ruthlessly. How can I leave such a delicious act of indifference and evil without granting you a suitable reward? Accept this gift. And farewell – for now...\""
+    },
+    {
+      "Key": "9a020cee-b3a5-41bd-ab39-a8c680388aeb",
+      "Value": "\"Strange, why do I feel so lost? There is nothing else for me to do here. My help led to nothing good... and it's folly to hope it might.\""
+    },
+    {
+      "Key": "becfb0b7-bd07-46ef-8016-86237d20823c",
+      "Value": "\"I can't believe it, {name}! You managed to force some reason into my silly sister's head!\""
+    },
+    {
+      "Key": "1ebb6a9e-c84f-4d09-914e-c355af40de75",
+      "Value": "\"How presumptuous. But it only means that I'll get not one, but an entire bouquet of souls...\""
+    },
+    {
+      "Key": "66afecb4-6eb2-494a-90d0-804b428afe0c",
+      "Value": "\"There's nothing else for me to do here. What did my help lead to? This does not seem like balance and peace... Perhaps I should not have interfered in the business of mortals...\""
+    },
+    {
+      "Key": "b0cdfec8-273b-4ea9-bfb2-0c00cc609cc1",
+      "Value": "\"I knew you'd understand us, sister!\""
+    },
+    {
+      "Key": "8f076e38-05c6-4f0f-8d73-23d396025ff9",
+      "Value": "\"...Anyway, why don't I go there? The Forefather's company obviously suits me better than yours!\""
+    },
+    {
+      "Key": "5c7ccf14-32b8-423d-8dc2-0a4948568af0",
+      "Value": "{n}Kalikke turns her pale face to the devil.{/n} \"Take me, Forefather. I don't belong here any more.\""
+    },
+    {
+      "Key": "54afb73f-dd97-42d1-9db9-2ff2f807ef0c",
+      "Value": "\"Such moving unanimity.\" {n}The devil can barely conceal the venom in his voice.{/n} \"It appears that I should not even consider reclaiming my stolen property. Surely I shouldn't argue with the Herald of the most unpredictable god... And so, if you will excuse me...\""
+    },
+    {
+      "Key": "bb8a7184-1a8d-418e-aa2f-36a2507c303c",
+      "Value": "\"Better you should consider whether you'll have anything to offer in return. Considering the state of your kingdom, I am very much doubtful.\""
+    },
+    {
+      "Key": "1c476e92-2e12-45f2-bfb9-06502c8b7e33",
+      "Value": "\"That's not a wise decision... but fine! Forgive me, great-grandfather, but our dealings are done.\""
+    },
+    {
+      "Key": "5e263d14-8c2e-4c12-9c40-ae463e360100",
+      "Value": "\"Yes. We are together now, and there is no longer anything you can do to harm us!\""
+    },
+    {
+      "Key": "2ccf547b-3053-45dd-b7fe-efaa8cb41572",
+      "Value": "{n}The Arcanotheign tilts her head, as if curious.{/n} \"You are an interesting creature, {name}. You venerate the god of magic without wielding it yourself.\""
+    },
+    {
+      "Key": "c672a328-cc1d-4c68-bf65-43437c646049",
+      "Value": "\"Learning new things is priceless. I understand you all too well. Good luck to you in your journey!\""
+    },
+    {
+      "Key": "66f0c5f4-ccb7-4045-9fac-d265000e300d",
+      "Value": "\"You don't wield the power yourself, but you help others develop it? This is most worthy. To increase magical knowledge in any way is our goal and our reward.\""
+    },
+    {
+      "Key": "0b22fc1a-e7f9-4d44-a943-fd0024d75d09",
+      "Value": "\"My lord and creator pays no heed to the prayers of those who are not bestowed with magic. You know you will enjoy no profit from this faith, yet still you choose it by your heart's bidding. Interesting. I enjoy contemplating such intricacies...\""
+    },
+    {
+      "Key": "62e5b836-8af7-4b40-bdfc-77174c6751f8",
+      "Value": "\"Nothing would please me more!\" {n}You hear honest joy in the Arcanotheign's voice.{/n} \"But it is time we must finish what we have gathered here for. And you must soon set off to solve your other problems. I shouldn't be upset though, if I were you. Is it not a blessing – the Worlds Merger, and all that has happened and will happen? How else could you have seen such magic phenomena? Where else could you truly test your knowledge and power?\""
+    },
+    {
+      "Key": "c4e2c8f1-9c5d-4c51-8548-2480f81ffac4",
+      "Value": "\"That's what I'm here for.\""
+    },
+    {
+      "Key": "255409f8-e10b-4148-aa9c-6e4297dd61f7",
+      "Value": "\"It's too late, you fool. And do you know what? We'll be better off apart. I'm sure I will find a place for myself in Hell. I'll find a way to recover my soul – and find a more suitable use for it. I belong there! And you will stay here, saving silly outcasts who stumble into trouble, and write your poems and live as you like...\""
+    },
+    {
+      "Key": "b81e667b-8f79-4a90-b2cb-5354084e13cd",
+      "Value": "\"I don't think so,\" {n}the tiefling says harshly.{/n}"
+    },
+    {
+      "Key": "740f6b4d-e060-4fed-b9f1-5ea14743f342",
+      "Value": "{n}Kalikke bursts into tears.{/n}"
+    },
+    {
+      "Key": "21c08440-c2eb-401e-b8e7-64a2285e084c",
+      "Value": "\"Nor do I. Allow them to part now, before there's even greater trouble.\""
+    },
+    {
+      "Key": "d7700908-d16e-4a56-8efb-5a193d6a12cc",
+      "Value": "{n}Kanerah hugs her sobbing sister.{/n} \"Don't cry, you silly goat. This has been a long time coming. And it ended the only way it could.\""
+    },
+    {
+      "Key": "0f9265c3-f944-4fc5-9bc6-c1f9401cb6a2",
+      "Value": "\"It's so hard to understand you mortals... or perhaps you simply don't understand yourself? Soon enough you will sigh in relief, Kalikke. You will enjoy life without worrying what darkness your sister will drag you into. To reconcile internal opposites is easy for a god, but too great a burden for your shoulders.\""
+    },
+    {
+      "Key": "ab998a0a-e9e4-42c8-982a-ed34fe63eb87",
+      "Value": "\"Don't try to stop me, {name}. It's too late – besides, you made this decision when you fed the Sweet Teeth to the soul eater.\""
+    },
+    {
+      "Key": "86b1bbd1-5521-4fc1-a7aa-f79ec7b1e042",
+      "Value": "\"You and your silly impulses again! Don't... don't sacrifice yourself, Kalikke!\""
+    },
+    {
+      "Key": "24cac968-f4b6-461e-afb5-2814422051b3",
+      "Value": "\"She does what her nature tells her to do. As do you all. Alas, now I see – a god can reconcile internal opposites. But mortal souls cannot withstand such strain...\""
+    },
+    {
+      "Key": "444b1429-1a60-4176-95fc-8f96c3beaafc",
+      "Value": "{n}Kalikke takes a step, touches her sister's cheek for a moment, warmly and wistfully, then turns to the devil.{/n} \"I'm ready.\""
+    },
+    {
+      "Key": "ada531cd-0c5d-400b-99ed-e0ad590596c1",
+      "Value": "\"Such a moving scene. I'm sorry to leave you here, Kanerah, on this piece of land soon to be devoured by chaos, already nearly consumed by the First World. But I might still collect your soul once you've died trying in vain to protect it. This sweet parting may not last for long.\""
+    },
+    {
+      "Key": "c38b17b9-6931-40e2-a71c-ef8a07a9b69f",
+      "Value": "\"No!\""
+    },
+    {
+      "Key": "ab6d91e9-318d-4c2e-96ef-1184e6f751f1",
+      "Value": "\"No – never! You can't just give her away!\""
+    },
+    {
+      "Key": "ed385098-ce4d-4f7f-a397-05ca810afaab",
+      "Value": "\"Wonderful. A claimant to my property removed themselves from the argument. But strange as it may be, I'm not going to remove myself. And I guess I'm going to get an entire bouquet of souls instead of just one...\""
+    },
+    {
+      "Key": "945dd470-a993-430d-9fdc-e334ee109571",
+      "Value": "\"Come on, you silly goat. You can't defeat the Forefather, and the Lantern King is drawing near. The kingdom is all but destroyed – there's trouble everywhere... Don't worry, I'll be right at home in Hell!\" {n}Kanerah chuckles boldly.{/n}"
+    },
+    {
+      "Key": "e63d7112-9573-4015-8753-46c269d9f204",
+      "Value": "\"It will be better this way, sister. It will be better. You cannot defeat the Forefather in battle, and the Arcanotheign no longer protects us. The people of this kingdom and {name} must not be made to suffer because of us. Let Hell take me...\""
+    },
+    {
+      "Key": "6db12d4b-236e-440b-8dc7-22b43b0bddbc",
+      "Value": "\"I must say – those who stay in this wasteland to be torn apart by the First World, I do not fancy their chances. Let us go now, child. Many interesting things await...\""
+    },
+    {
+      "Key": "0e372245-f2ea-48ef-8571-7592b1ec4574",
+      "Value": "\"There's no way out, and everyone is unhappy. I couldn't have imagined a better ending myself. Let us go now, child. Hell awaits!\""
+    },
+    {
+      "Key": "728ad46b-8779-42fd-9c03-82d081b65df5",
+      "Value": "\"Oh, I don't mind sparing the world of this scumbag. But why did you only decide to do it now, {name}? After letting him kill my friends, being a part of this...\""
+    },
+    {
+      "Key": "e64ea9e9-5512-400d-b87a-a4805397643b",
+      "Value": "\"I see you like leaping into battle without much thinking. It's a pity neither you or Kalikke think your actions through, risking those who don't deserve it!\""
+    },
+    {
+      "Key": "7dbc2255-a1b9-4d3f-ada7-88d65923f32e",
+      "Value": "\"No more tears! As if it was better to feed me to the soul eater!\""
+    },
+    {
+      "Key": "f23a5c65-027a-432c-9136-5138439f777d",
+      "Value": "\"Kanerah, please, enough. You survived the fight with the soul eater, everything ended well. And now it will too!\""
+    },
+    {
+      "Key": "00c429ac-6649-48e5-92ac-00c953f79836",
+      "Value": "\"Kalikke is just whining, like usual! She'll cry for a while, but the tears will dry. Stop manipulating her, Forefather.\""
+    },
+    {
+      "Key": "1e55fa08-c1d7-4b7f-a896-0ec16f965660",
+      "Value": "\"Hell no! Kanerah will understand that we did everything right, if you would just stop manipulating her, you devil!\""
+    }
+  ]
+}

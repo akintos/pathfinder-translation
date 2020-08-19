@@ -1,0 +1,105 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "4854453e-e68b-4c12-80df-b5cc564e6ff3",
+      "Value": "\"Tell me about the Order of the Rack.\""
+    },
+    {
+      "Key": "626c7e36-0c1d-4028-86e4-2fea10ba008a",
+      "Value": "\"Who is this fugitive you're looking for?\""
+    },
+    {
+      "Key": "855c8fa4-1227-413a-ad73-a2c36ec6f01b",
+      "Value": "\"Can I help you with your investigation?\""
+    },
+    {
+      "Key": "8323bb6c-9cbb-4ff3-befa-b8bcf812d7e9",
+      "Value": "\"I authorize you to conduct your investigation within my {mf|barony|barony|kingdom|kingdom}.\""
+    },
+    {
+      "Key": "8ca5944c-d938-4db0-9ab2-68e693e359be",
+      "Value": "\"Get out of my {mf|barony|barony|kingdom|kingdom}.\""
+    },
+    {
+      "Key": "7904222a-15b6-4b6b-90d3-54dfd9a1bf6c",
+      "Value": "\"Catching criminals is one thing, but burning books is too much!\""
+    },
+    {
+      "Key": "d767665a-c0be-46ab-9ffa-13f7a658bc78",
+      "Value": "\"Your actions in Cheliax do not concern me. But while you are on my land, I demand you to refrain from such... extreme measures.\""
+    },
+    {
+      "Key": "af8a6e8c-aa98-4b9f-8170-653f64d78c5b",
+      "Value": "\"I entirely share your opinion.\""
+    },
+    {
+      "Key": "27168606-8429-4cb9-8462-1284aaf3df4b",
+      "Value": "[Remain silent]"
+    },
+    {
+      "Key": "0d0d09c8-e33e-4b87-9d66-8b9da2e9f5f6",
+      "Value": "\"The {g|Order of the Rack}Order of the Rack{/g} welcomes you, {mf|baron|baroness|king|queen}.\" {n}The black-skinned woman slightly bows her carefully shaved head.{/n} \"My name is Linxia. I come from the distant land of {g|Cheliax}Cheliax{/g} in search of a dangerous criminal who is hiding in your barony.\""
+    },
+    {
+      "Key": "08a25f41-02e8-4193-9a8f-0d91c1a2fdb2",
+      "Value": "{n}She stands tall and almost motionless. The reflected torch light dances on the surface of her polished black armor and in the depths of her watchful black eyes.{/n}"
+    },
+    {
+      "Key": "3e1e42d1-fd28-47e4-b293-e9bb66723abc",
+      "Value": "\"I am glad that we have met, and I believe the rule of law in your {mf|barony|barony|kingdom|kingdom} is not just empty phrases. I hope for the cooperation from your subjects and you personally.\" {n}Contrary to her words, Linxia's face does not express any gladness. The corner of her mouth twitches slightly, betraying carefully-concealed discontent.{/n}"
+    },
+    {
+      "Key": "2393e064-b28a-45ea-aa6c-63926d49603d",
+      "Value": "{n}Linxia's face remains as stony as ever. Only the corner of her mouth expresses displeasure with your decision.{/n} \"You misunderstand me, {mf|baron|baroness|king|queen}. The investigation will continue, with or without your permission. The {g|Order of the Rack}Order of the Rack{/g} always collects. No one should stay in its way.\""
+    },
+    {
+      "Key": "0b510764-06d1-4771-9d2d-49cadffdd2ea",
+      "Value": "\"A dangerous pirate, a murderer, and a rebel named Darven \"the Dashing\" Fairwood. He was found guilty of inciting a rebellion and murdering a noble lord in {g|Cheliax}Cheliax{/g}. The law of my Order is unwavering. The punishment for such crimes is death.\""
+    },
+    {
+      "Key": "e0942171-3ee1-4932-8bd8-336d4244fa8f",
+      "Value": "\"Darven's rebellion took place in {g|Cheliax}Cheliax{/g} three years ago. The {g|Order of the Rack}Order of the Rack{/g} quickly suppressed it, the participants were jailed, and the instigators quartered — but their leader Darven managed to escape. I have followed his trail for a long time, and now it has led me here.\""
+    },
+    {
+      "Key": "8686925b-3db3-4cb0-a9d9-ca41159283a9",
+      "Value": "{n}The shadow of a smile crosses Linxia's face.{/n} \"I and my knights are perfectly capable of finding and eliminating one criminal. Your help... is unnecessary.\""
+    },
+    {
+      "Key": "1749dc76-413b-4ee2-a91f-ead0f0346c72",
+      "Value": "\"If you want to help, do not interfere.\""
+    },
+    {
+      "Key": "e9392ab9-e4f4-4b2d-92b0-a40541f471da",
+      "Value": "\"We are the {g|Hellknights}Hellknights{/g}. We guard law and order. Legitimate authorities can rely on us entirely. Criminals tremble when they hear our footsteps.\""
+    },
+    {
+      "Key": "91f2323b-1b65-4a40-b3ae-b74073146c95",
+      "Value": "{n}Linxia sizes you up.{/n} \"It is in your best interest to maintain friendly relations with us. Trust me, {mf|baron|baroness|king|queen}.\""
+    },
+    {
+      "Key": "9f53ad6f-ffaf-4776-b6fa-fc0d24ed19ab",
+      "Value": "\"The Order of the Rack is a union of the knights of {g|Cheliax}Cheliax{/g}, led by hatred of idleness, worthless philosophy, and useless knowledge. Indulgence leads to lawlessness and insurrection. We seek out any manifestations of dissent and burn them — be they books, scientific treatises... or those who create them.\""
+    },
+    {
+      "Key": "c7ecb6e2-6540-4899-b478-0b8538254769",
+      "Value": "{n}For a moment, Linxia stares at you with an intense look, but then blinks as if suddenly relaxed.{/n} \"We stand on the side of legitimate authority. You need not be afraid, {mf|baron|baroness|king|queen}.\""
+    },
+    {
+      "Key": "329ba244-3e9c-4dd3-a811-0c9986c8cd3f",
+      "Value": "\"We do not burn all books, only those that can harm society and place dangerous thoughts in weak-willed minds. It's better to burn a book today than quarter its reader tomorrow.\""
+    },
+    {
+      "Key": "deffc211-6fa2-4aec-9c7e-bcd87a6d5195",
+      "Value": "\"I... will try to fulfill your request.\" {n}She gives you a little grin.{/n} \"At least — we'll let you know before we decide to burn someone.\""
+    },
+    {
+      "Key": "7b31d6be-710a-499c-b304-dcb0ddae2e24",
+      "Value": "{n}Linxia raises her eyebrow for a moment, as if she never expected such an answer.{/n} \"I'm pleased to see that our judgments coincide. We will inform you if, in the process of our investigation, we stumble upon any manifestations of dissent in your {mf|barony|barony|kingdom|kingdom}.\""
+    },
+    {
+      "Key": "9a169683-77b6-4765-a2cc-4415ef8146d3",
+      "Value": "\"Thank you, {mf|baron|baroness|king|queen}. Your good will means a lot to us.\""
+    }
+  ]
+}

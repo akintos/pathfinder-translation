@@ -1,0 +1,109 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "627db021-a2cf-4c2e-91f9-1d04c75af7d5",
+      "Value": "\"Who are you and what are you doing here?\""
+    },
+    {
+      "Key": "c97efd15-8293-4983-8404-3adebce7bed2",
+      "Value": "\"A daemon guards the exit.\""
+    },
+    {
+      "Key": "371f63dd-b037-47fd-889e-229a51278617",
+      "Value": "\"Hold on, I have to take care of something else first.\""
+    },
+    {
+      "Key": "9c4f2ba9-6ab1-44bf-a6ea-55167b9bd4b6",
+      "Value": "[Remove the shackles] \"No one has the right to put you in chains. You are free.\""
+    },
+    {
+      "Key": "0493e77c-c502-4c19-a6e2-eef99a739546",
+      "Value": "\"What did you see while imprisoned here?\""
+    },
+    {
+      "Key": "55e63f6c-fded-4541-af65-e7e743c5a8f4",
+      "Value": "[Attack] \"And let the guards here have the pleasure of killing you? No, I'll be the one to finish you off!\""
+    },
+    {
+      "Key": "08706f13-9176-4aeb-ad75-4b6e04952c28",
+      "Value": "\"This is Vordakai's tomb — have you seen him?\""
+    },
+    {
+      "Key": "bda48ad3-3aff-41f9-9cfb-7a4d44fa3ad5",
+      "Value": "\"Wait here — you're in no condition to fight. I'll deal with the guard daemon.\""
+    },
+    {
+      "Key": "72e67673-b937-4e88-9b06-f4a2f29e02bf",
+      "Value": "\"The daemon's dead. You're free.\""
+    },
+    {
+      "Key": "cd4d0bf1-af5b-4e23-bdab-efbf6e789c09",
+      "Value": "\"Who are you?\" {n}The man's voice is hoarse, almost a croak — you can barely make out his gaunt features beneath the tangle of hair and filth covering his face. His wrists are chained, and he looks half-starved, barely able to raise his head — yet he does so, defiantly.{/n} \"I can see you're neither dead nor daemon. Release us!\""
+    },
+    {
+      "Key": "a945ffce-dbb7-46e7-b8ad-8dcdc8609f04",
+      "Value": "\"We came from far {g|Numeria}Numeria{/g}. Dugath's group — have you heard of him? We were scouting the foothills, found a strange gate... then blackness took us. When we woke, we were here, shackled.\""
+    },
+    {
+      "Key": "b5289c38-06b3-4fbd-8d50-f8791fc8fe25",
+      "Value": "\"Beasts with a single eye — dead half-giants, and dead a long time from the look of them. They used to come and take one of us to who knows what hell. There were many more of us just several days ago…\" {n}He pauses, then frowns, his eyes wild.{/n} \"Hold on… how long have we been here...\""
+    },
+    {
+      "Key": "ebc810de-77cc-4027-82e4-c4fb7ac02cfe",
+      "Value": "{n}The barbarian clenches his fists.{/n} \"No! Free us — and we'll fight with all the strength we have!\""
+    },
+    {
+      "Key": "c77e1771-9dda-46ef-9080-4454f4259768",
+      "Value": "\"You're back!\""
+    },
+    {
+      "Key": "49fe3cd4-ae75-4cef-b9c0-2ca3cc6fa7a7",
+      "Value": "\"Once...\" {n}He frowns.{/n} \"Once one of the beasts here came, a cyclops, but not like the others — thinner, with clothes like a king, but half-eaten through and almost no more than shreds. He ordered us to tell him who we were and where we were from. I wanted to curse him, spit on him, kill the foul thing twice if I could, but...\""
+    },
+    {
+      "Key": "1a813a2e-0100-4d88-a67d-c88389603907",
+      "Value": "\"Did I complain about the undead being stupid? I changed my mind. Bring back the brainless zombies and skeletons.\""
+    },
+    {
+      "Key": "190eeaa8-37b1-46e7-9665-9461f79a7bc9",
+      "Value": "\"Not to wound your pride, but there's no way you can defeat it. You'd just die in vain. Let us deal with the monster!\""
+    },
+    {
+      "Key": "d9740e09-6ae9-437d-8398-1e78c1b1bc0d",
+      "Value": "\"If they want freedom, let them fight to the last for it!\""
+    },
+    {
+      "Key": "8d5f2043-c998-4d89-845c-3af0bdd23e16",
+      "Value": "\"You'll accomplish many more feats — once you've rested and healed your wounds!\" {n}Octavia nods to you gratefully.{/n}"
+    },
+    {
+      "Key": "4e4378b8-3aa5-41e2-bde7-7f42775ec686",
+      "Value": "\"Right! They're not children to be kept safe against their will — especially not in a cage. Let them have their freedom!\""
+    },
+    {
+      "Key": "c707f485-8cee-49e5-aad4-938dd20c1f82",
+      "Value": "\"Free... Free, at last!\""
+    },
+    {
+      "Key": "7ca8dc04-1837-491a-b6a4-63b9593a8927",
+      "Value": "\"Letting them go to battle now would be as good as cutting their throats. We should get rid of the daemon ourselves.\""
+    },
+    {
+      "Key": "88670e97-3974-4a4a-a25b-b401b505e737",
+      "Value": "\"Thank you for your nobility, {name}. And now...\" {n}Valerie squares her shoulders and grabs her weapon.{/n} \"Let us deal with our little problem at the entrance.\""
+    },
+    {
+      "Key": "32efca3d-b06e-433b-87cc-938616c9fc2c",
+      "Value": "{n}The man swallows, as though choking back his shame.{/n} \"Then, I started spilling everything I knew — all I knew of {g|Numeria}Numeria{/g}, and Dugath... everything!\" {n}The man snarls, baring his teeth.{/n} \"Beware that one — he can twist your will with a word!\""
+    },
+    {
+      "Key": "44a7a6ce-1ede-48ed-88a1-dbc615f3c4d8",
+      "Value": "\"I'm working on 'The Ultimate List of Undead Elven Noble Complaints.' Stupid zombies, stupid barbarians, stupid peasants, ugly peasants, stupid ugly peasants, bad wine. Poor Jaethal. Nobody respects Urgathoa's Inquisition!\""
+    },
+    {
+      "Key": "2df6f1fb-c25d-45ad-9f5b-1af908cedad4",
+      "Value": "\"Joke all you want, gnome. The difference between you and me is that I'm honest in my disdain, while you desperately try to hide it under your 'man of the people' mask.\""
+    }
+  ]
+}

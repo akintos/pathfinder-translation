@@ -1,0 +1,149 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "7ed33704-ef46-4d62-9ade-85c8916ba6d0",
+      "Value": "\"Greetings, Gwart. Was your riot a success?\""
+    },
+    {
+      "Key": "4277b73b-47f4-41ef-8243-c0310316b28b",
+      "Value": "\"Amiri, are you all right?\""
+    },
+    {
+      "Key": "591bfbb2-9082-4d04-b86e-b665bf9c783c",
+      "Value": "\"Dugath! I knew we'd meet again.\""
+    },
+    {
+      "Key": "1bb87154-2894-453a-b4a2-063daab16c6b",
+      "Value": "\"So Armag's on his own now?\""
+    },
+    {
+      "Key": "1524654f-cf6f-4f2e-9ce3-e0ec4adc6734",
+      "Value": "\"We have to stop this madman.\""
+    },
+    {
+      "Key": "0bb3de13-9e47-489c-be96-5d98e85b5e3a",
+      "Value": "\"Nilak, what will happen to your tribe now?\""
+    },
+    {
+      "Key": "d21e0ca2-7225-49e8-a52c-22512d074867",
+      "Value": "\"Farewell, then. I'll do all I can to stop Armag. I hope you can talk some sense into your tribesmen.\""
+    },
+    {
+      "Key": "58a394a1-89db-45ee-b461-a0e2e27955da",
+      "Value": "\"Where did he go?\""
+    },
+    {
+      "Key": "f2d1d946-a805-4381-916d-22f7cdf79b3a",
+      "Value": "\"Where's his tomb?\""
+    },
+    {
+      "Key": "dc2c8863-e611-40d1-8ef4-b8215b926614",
+      "Value": "{n}You find Gwart near Armag's tent. When he notices you, he raises his hand to greet you.{/n}"
+    },
+    {
+      "Key": "d744008c-7345-424c-ab06-b76ec6974b3f",
+      "Value": "{n}He unties Amiri and Nilak. Both women rise to their feet, rubbing their numb wrists, and exchange smiles of triumph.{/n}"
+    },
+    {
+      "Key": "3500f5f2-7aa8-453b-bf3d-6aa2b7377229",
+      "Value": "{n}He unties Amiri. The barbarian rises to her feet, rubbing her numb wrists and looking down in silence.{/n}"
+    },
+    {
+      "Key": "9579f160-53eb-45c2-ae60-0418ce5a1fda",
+      "Value": "{n}Dugath greets you with a curt nod.{/n}"
+    },
+    {
+      "Key": "d981aac4-e31c-4a54-8822-44de0c962c1c",
+      "Value": "{n}With a sour expression, Amiri shows you the hilt of her broken sword.{/n} \"Armag was really strong, the dirty piece of crap. But I survived, so hail {g|Gorum}Gorum{/g}, I guess. As for Armag, I'm still going to get him!\""
+    },
+    {
+      "Key": "1f94ff65-076a-493f-bc69-1e40282e65c4",
+      "Value": "{n}Without raising her eyes, Amiri silently shakes her head.{/n}"
+    },
+    {
+      "Key": "344f5754-e462-4fc7-bb61-8751790d7785",
+      "Value": "\"Heh heh heh, that's {d|c31 Ashman Friendly}right{/d}! Old Dugath's not so easy to kill! I'd ask you to share a drink or two with me again, but as you can see, now's not the best time!\""
+    },
+    {
+      "Key": "2e248263-bc31-4cb1-be2b-5e17ea92c95a",
+      "Value": "{n}The old cleric nods with restraint.{/n} \"So, the battle rages {d|c31 Ashman Hostile}again{/d}, and your people continue killing mine... but I owe you my life. The gods like to play cruel jokes on mortals.\""
+    },
+    {
+      "Key": "8d273537-efd9-489a-a731-40c0d8fd854b",
+      "Value": "\"Yes and no. Armag's still alive — mad or not, he's still one of the strongest fighters in all {g|Golarion}Golarion{/g}. But that's not important right now. He abandoned his army in the middle of battle — no one here will recognize him as chieftain after that!\""
+    },
+    {
+      "Key": "ea408fa9-6a47-4e74-b97b-e6e9acfe67e3",
+      "Value": "\"Not at all! There's still an entire army of our brothers and sisters back in {g|Numeria}Numeria{/g}, ready to obey his every word. They'd rather call us traitors than give up the dream of great Armag once more leading them to glory! We can try appealing to their reason, but... I fear this will end with the {g|Tiger Lords}Tiger Lords{/g} splitting into two separate tribes.\""
+    },
+    {
+      "Key": "83f6f158-e6e5-4409-9fa4-ffb13f007163",
+      "Value": "\"Exactly — and you should be the one to do it, because we can't stay any longer. We're retreating to {g|Numeria}Numeria{/g} before another battle with the Brevans can start. So listen to me carefully — find the tomb. Find Armag and kill him. If you don't, he'll be back soon enough with a new army — and then {g|Restov}Restov{/g} will fall, not to mention your barony!\""
+    },
+    {
+      "Key": "4342be04-2a26-492d-aac8-273c24ea071d",
+      "Value": "\"An evil spirit still haunts us. We won't survive on our own. We're going back to {g|Numeria}Numeria{/g} with Gwart and the others.\""
+    },
+    {
+      "Key": "12538cdc-f786-47cb-9358-d617ba8b0a32",
+      "Value": "{n}Having exchanged farewell handshakes, the {g|Tiger Lords}Tiger Lords{/g} leave the camp.{/n}"
+    },
+    {
+      "Key": "b0183634-99fb-4bbf-a1b7-f98a3a7abf1a",
+      "Value": "\"Go. I'll catch up to you later,\" {n}Amiri says, her voice hoarse.{/n} \"I must... bury Nilak. And this useless piece of scrap, too.\" {n}The barbarian looks to the hilt of her broken sword in her hands, then turns away.{/n} \"Go. Go, I said!\""
+    },
+    {
+      "Key": "a5dc9486-9c76-4fb2-84fa-958fc0f0df92",
+      "Value": "\"That's the creepy part. Our Armag spent a lot of time searching for the tomb of ancient Armag, the hero of the past, whose incarnation he believes himself to be. I don't know if it's true, but I heard rumor that he finally found it. He took a small squad with him, the Sisters opened a portal for them, and that's the last we saw of him. I'd guess he's inside the tomb already, and what he's looking for there could make him terribly powerful. More powerful than any of us can imagine!\""
+    },
+    {
+      "Key": "96f26634-896e-4cf8-82a8-54206800288c",
+      "Value": "\"Only Armag and the Sisters know! You'll have to find it on your own.\""
+    },
+    {
+      "Key": "84cba1c2-ed19-4c8f-9f73-498a9dcb679f",
+      "Value": "\"Amiri... thanks for saving me. {g|Desna}Desna{/g} be my witness, I didn't deserve it. After all I said...\""
+    },
+    {
+      "Key": "701c4a24-9287-4f4b-b203-6ec631e4ba0f",
+      "Value": "\"Don't talk rubbish, sis. You think I'd let you die here? I, erm... said a lot of stupid stuff back then, too. Sorry.\""
+    },
+    {
+      "Key": "7e42c26b-49c3-4198-89d7-b60fd8cb01de",
+      "Value": "\"I know you don't want to see our tribe anymore, but at least visit us one more time. Many things have changed. We should talk — even if it's just one last time.\""
+    },
+    {
+      "Key": "0f23c23f-944d-4950-be26-6f804e9f5194",
+      "Value": "\"Well, if you say so... Fine. I'll come. But if anyone tries to send me to the women's hut again, I won't be held responsible for what happens!\""
+    },
+    {
+      "Key": "f1cb1a1e-440b-4c61-93e2-022f18102824",
+      "Value": "\"I'll wait for you.\" {n}Following the {g|Tiger Lords}Tiger Lords{/g}, Nilak leaves the camp.{/n}"
+    },
+    {
+      "Key": "75115d4a-bbab-4f1f-a9dc-34ee0142c9d8",
+      "Value": "\"Oh, Amiri... How many times have I told you that disobeying orders and acting on a whim can lead to nothing good? I am glad to see you alive, though.\""
+    },
+    {
+      "Key": "e6a670a4-05e3-4d84-9eda-c285fd920157",
+      "Value": "\"No one to blame but yourself. No one else called your people to bring their swords to these lands.\""
+    },
+    {
+      "Key": "952479d2-1729-43dd-911e-b266435d7d2a",
+      "Value": "{n}Tristian sighs heavily.{/n} \"I... I feel her grief. You should not have wasted time helping me back then, {name}. Then perhaps this tragedy could have been avoided...\""
+    },
+    {
+      "Key": "7a2c8887-4544-4019-b7eb-a5f1e62ea647",
+      "Value": "{n}Amiri looks up and glares unkindly at Tristian for a moment, but she says nothing.{/n}"
+    },
+    {
+      "Key": "e8dcdf4e-fca2-4660-abc1-7026662d5d8b",
+      "Value": "\"Appalling irresponsibility! Such a person cannot be trusted with an army.\""
+    },
+    {
+      "Key": "4860c7ab-e530-4cd9-b7c7-688e8359b223",
+      "Value": "\"You hear that? A valuable lesson for the baron{mf||ess}. If you're a hero for even an hour, whatever you do later, you'll always have companions — people who will find it easier to accuse the whole world of lying rather than admit they were wrong about you.\""
+    }
+  ]
+}

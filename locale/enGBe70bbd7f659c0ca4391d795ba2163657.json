@@ -1,0 +1,41 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "11c3124d-3417-465d-92a2-c3f25ffb40d9",
+      "Value": "\"Calm down — everything's under control. Just follow those guards there, and they'll take you to safety.\""
+    },
+    {
+      "Key": "c7cc056e-6040-4678-b6c7-afe54c95cfe8",
+      "Value": "\"Can't you see I'm busy here?! Stay out of the way!\""
+    },
+    {
+      "Key": "0e12fba1-d5aa-4bc7-8062-fa203f743634",
+      "Value": "\"Have you heard about the new levy to boost our town's defenses? I do hope you've already chipped in.\""
+    },
+    {
+      "Key": "a08d66dd-dd76-4f6d-a2b9-f89783b810bc",
+      "Value": "\"Ha ha ha! A great day, isn't it? We're having a ball!\""
+    },
+    {
+      "Key": "694c4c7c-1e7a-4dfd-bd3a-ccaad256ecc3",
+      "Value": "{n}Elina, the local tavern keeper, runs up to you. Her face is pale, and she's shaking with fear.{/n} \"Your Grace, wh-wh-what's happening? There are monsters... {g|Erastil}Erastil{/g}, save our souls... Is this the end? Is the town lost?\""
+    },
+    {
+      "Key": "d0856cef-95c1-4623-8829-fc4d70351985",
+      "Value": "{n}Elina takes a deep breath and exhales loudly a few times before looking back to you, devotion in her eyes.{/n} \"Thank you, my baron{mf||ess}! I know you'll protect us!\" {n}She gives you a quick bow before hastily walking toward the guards.{/n}"
+    },
+    {
+      "Key": "e7c8b1ce-6cc5-4f64-9be0-864646f0eb5f",
+      "Value": "\"Y-yes, of c-course, Your Grace! Forgive me...\" {n}Continuing to mutter apologies, Elina runs away.{/n}"
+    },
+    {
+      "Key": "97d7b7bf-f714-42d9-8070-7421a967815e",
+      "Value": "\"N-no, Your Grace... Here, please... Just protect us, I beg you!\" {n}Elina hands you her money pouch and runs away.{/n}"
+    },
+    {
+      "Key": "836fc288-f315-4a9e-8d3b-b2b96d10527c",
+      "Value": "\"A... a b-ball? Ha... Ha ha. Oh... Ha ha ha!\" {n}Alternating delirious laughter with wails of terror, Elina runs away.{/n}"
+    }
+  ]
+}

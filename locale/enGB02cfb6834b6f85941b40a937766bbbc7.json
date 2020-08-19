@@ -1,0 +1,189 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "8e209c15-9209-4bbb-9353-b54b857ddfba",
+      "Value": "\"An odd name for an elf.\""
+    },
+    {
+      "Key": "464bc21d-1d53-4a25-9321-8d203790f3d9",
+      "Value": "\"What are you doing here?\""
+    },
+    {
+      "Key": "fc34f7a8-6e68-4349-8651-9c4e15e90a10",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "d69260d9-8372-4395-92f5-789ebf1f8c17",
+      "Value": "\"Concerning your request...\""
+    },
+    {
+      "Key": "632c0121-e3cb-4b07-81ec-7ee3cbdb647f",
+      "Value": "\"What sort of help do you need?\""
+    },
+    {
+      "Key": "91449741-4f42-4287-b06a-02490e3c9693",
+      "Value": "\"I can't agree to anything before I know what exactly you need...\""
+    },
+    {
+      "Key": "ce1c28d0-f5e8-496e-a344-e546517c42df",
+      "Value": "\"And what do I get if I help you?\""
+    },
+    {
+      "Key": "252614b4-a461-4305-9576-ccf2dc8597f7",
+      "Value": "\"So be it. I will help you.\""
+    },
+    {
+      "Key": "884b0d36-78e8-4f2a-b9c9-8c3e933d7af0",
+      "Value": "\"Is this the flower you were looking for?\""
+    },
+    {
+      "Key": "b6f880de-643a-49b0-a36b-e5c0d9d45275",
+      "Value": "\"I have no time for this.\""
+    },
+    {
+      "Key": "59f403c9-7d00-443c-90fc-d83dd96df058",
+      "Value": "\"You still haven't told me what you want from me...\""
+    },
+    {
+      "Key": "abe9d857-382a-4128-ae49-97e5aa073a6b",
+      "Value": "[Say nothing]"
+    },
+    {
+      "Key": "ce1da83e-1373-4f94-8df9-9614ad39e8f4",
+      "Value": "\"I've already agreed to help you...\""
+    },
+    {
+      "Key": "0e2dc7c3-bc6e-4910-a33d-5945649d7851",
+      "Value": "\"Very well.\""
+    },
+    {
+      "Key": "a0de1b64-2d72-46cd-8968-68dafae2ca75",
+      "Value": "\"No way. You're on your own.\""
+    },
+    {
+      "Key": "ad7bb71d-dfce-4309-a935-5e6dc56a29e8",
+      "Value": "\"All right then. I have to go.\""
+    },
+    {
+      "Key": "66039f9b-0c93-4f01-bebf-91a73ad0c752",
+      "Value": "\"If you agree to work for me, I'll build you a workshop here.\""
+    },
+    {
+      "Key": "861024d6-3a56-4570-98e3-4b44e107c5e7",
+      "Value": "\"I have no idea.\""
+    },
+    {
+      "Key": "3b0528a0-8494-49e8-941c-1383b56d2614",
+      "Value": "\"Can you pay for it?\""
+    },
+    {
+      "Key": "0d46572a-8780-4678-a445-f7564c7b6358",
+      "Value": "\"You wanted to know if there was a place you could settle in around here...\""
+    },
+    {
+      "Key": "ace01f0b-1940-4638-b294-3b80f499b941",
+      "Value": "{n}Before you is a tall, pale elf, the soft features of his face sharply contrasting his angular figure. But his woeful gaze is fixed on the ground.{/n}"
+    },
+    {
+      "Key": "7ebb275c-b6f0-47e7-84dd-526925b10aa4",
+      "Value": "{n}He finally notices you and, startled, blinks at you absent-mindedly. He talks slowly, slightly elongating his words as he speaks.{/n} \"Good day!\""
+    },
+    {
+      "Key": "40f24427-dd69-4fac-bec9-2d2d6acff175",
+      "Value": "{n}The elf shrugs.{/n} \"My parents named me Kimiel. But my friends decided this name didn't suit me so well…\""
+    },
+    {
+      "Key": "0891026c-3b05-4a10-8a99-10b1841b2d71",
+      "Value": "{n}The elf blushes ever so slightly and lowers his gaze.{/n} \"I… I can't tell you. It's a secret!\""
+    },
+    {
+      "Key": "c0e2b8e0-f38c-48ec-9e75-523e961ea55c",
+      "Value": "\"Although... if you promise...\" {n}The elf looks at you with hope in his eyes.{/n} \"If you promise to help me, then I will tell you!\""
+    },
+    {
+      "Key": "4561625d-31b4-4687-b12b-15cba4eba111",
+      "Value": "\"Kimo. Kimo Tavon.\" {n} With a wide smile, the elf slowly nods at you.{/n}"
+    },
+    {
+      "Key": "34018956-3437-4bb2-9ca1-2d28a839ee7d",
+      "Value": "\"That... that is a secret!\" {n}After some hesitation, the elf decides to add,{/n} \"But it's not hard. Not at all! You have my word.\""
+    },
+    {
+      "Key": "4a56414f-4da0-44a4-8f2f-c027440a7f84",
+      "Value": "{n}The elf wrinkles his forehead in concentration.{/n} \"Well... if you insist...\""
+    },
+    {
+      "Key": "811b1105-4a1e-4b4d-99ed-d8ddddbd07bf",
+      "Value": "\"Hmmm... In that case I... I will give you my spear! I can make a lot of handy things out of wood. You could call me a woodworker in your tongue.\" {n}The elf gives you a disarming smile.{/n}"
+    },
+    {
+      "Key": "9f04e6e0-2867-48e9-944f-9b014ce07722",
+      "Value": "{n}The elf is shining.{/n} \"Wonderful!\""
+    },
+    {
+      "Key": "2bdce9b5-f094-4e7f-be04-8607a7428482",
+      "Value": "\"I see...\" {n}The elf sighs.{/n}"
+    },
+    {
+      "Key": "19ba8257-3ef4-42f5-85a4-53476a876a07",
+      "Value": "\"So? Will you help me?\""
+    },
+    {
+      "Key": "6cdb3a83-bf9f-4105-be64-8e9090c0bb5d",
+      "Value": "{n}The elf just keeps smiling at you.{/n}"
+    },
+    {
+      "Key": "c5e2c86a-b4a4-49ee-92dd-153cd92708ca",
+      "Value": "\"Oh, right.\""
+    },
+    {
+      "Key": "d794e94c-e9cd-4aa4-8e93-ef166b700c51",
+      "Value": "\"Perfect! Come back as soon as you can!\""
+    },
+    {
+      "Key": "d73a9294-8475-447f-bf93-86044cc2e2d8",
+      "Value": "\"Yes?\" {n}The elf looks straight at you, his eyes wide.{/n}"
+    },
+    {
+      "Key": "f67100d5-d1f2-4c70-b5fd-73830c6e62f0",
+      "Value": "\"It... it is beautiful.\" {n}The elf reverently accepts the flower from your hands.{/n}"
+    },
+    {
+      "Key": "9cad722a-18c3-43b2-a501-221971385a71",
+      "Value": "\"Bye!\""
+    },
+    {
+      "Key": "d56a0f37-1282-4264-89c8-e2d1853f8e67",
+      "Value": "\"I thank you. You have helped me so much! Here, take my spear. My skill is nothing compared to the beauty of nature... But who knows — perhaps, you will find it useful.\""
+    },
+    {
+      "Key": "5d3a914b-8f08-45aa-b518-5d952ceb2b97",
+      "Value": "\"Tell me, friend... is there a place here where I could settle in? I do not wish to leave this place.\""
+    },
+    {
+      "Key": "45aff49c-b866-4662-95fe-0e798b18744d",
+      "Value": "\"Well, if only with my work... I work with wood. I make spears, bows, and shields.\""
+    },
+    {
+      "Key": "7dd6c93d-47e5-4f4e-a32c-2d7c2bd793c3",
+      "Value": "\"You... you would really do that for me?\" {n}The elf's mouth opens in amazement.{/n}"
+    },
+    {
+      "Key": "8ae10eca-3efd-4d42-8c97-345d30e23e7e",
+      "Value": "\"Yes?\""
+    },
+    {
+      "Key": "3085809b-39a1-4c5d-8446-d929dab440eb",
+      "Value": "\"I see...\""
+    },
+    {
+      "Key": "733f8065-6523-4f19-8c99-77a31bd10393",
+      "Value": "{n}The elf gives you a pensive look.{/n} \"Good day!\""
+    },
+    {
+      "Key": "28774985-a86b-49d8-b39f-7d4ab148f3b2",
+      "Value": "\"Well, if you're offering this to me… than I gladly accept! It's a deal.\""
+    }
+  ]
+}

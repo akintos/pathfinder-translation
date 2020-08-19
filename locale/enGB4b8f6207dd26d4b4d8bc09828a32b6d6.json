@@ -1,0 +1,117 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "0077a462-f9eb-48ff-873b-1ac7bfc2434e",
+      "Value": "\"Calm down, Linzi. Everything's fine. What is it you want to tell me?\""
+    },
+    {
+      "Key": "a24a03e5-ca35-49d5-9302-1075847bf6c5",
+      "Value": "\"Did you steal the money?\""
+    },
+    {
+      "Key": "b90f128e-ada6-44cc-a0e6-c99c57108b18",
+      "Value": "[Remain silent]"
+    },
+    {
+      "Key": "71474f24-966f-4ffd-9cec-21a5b77fec67",
+      "Value": "\"Another one of your tricks...\""
+    },
+    {
+      "Key": "8cb8830e-ff31-4e6d-8d8d-fa9a07d77f7a",
+      "Value": "\"All right, you can open your publishing house. But no more surprises.\""
+    },
+    {
+      "Key": "7883cd72-734f-401e-b89c-1a0aef42ef83",
+      "Value": "\"Great idea! Good for you, Linzi!\""
+    },
+    {
+      "Key": "4eb554d3-f593-41a1-8a59-50f81639a529",
+      "Value": "\"All right, let's go find your press. It's already been paid for, after all.\""
+    },
+    {
+      "Key": "86125798-d1e0-4d0b-834b-9dfeee1eb64e",
+      "Value": "\"What? Not a chance. You can go out and salvage it if you wish, but I have more important matters to attend to.\""
+    },
+    {
+      "Key": "62ca3bcc-c217-4c04-a30d-4f17c7e39b0d",
+      "Value": "\"I said no.\""
+    },
+    {
+      "Key": "4f22bb53-b258-4857-a322-00c626875e52",
+      "Value": "\"Don't we have a printing house? Why would we need a second press?\""
+    },
+    {
+      "Key": "fea36f19-8a7a-450d-ad89-df80b819b1ab",
+      "Value": "\"You dipped into the treasury?! Anyone else would already be behind bars for this! You'll return all the money — I don't care where you get it from — and never mention the publishing house again!\""
+    },
+    {
+      "Key": "abf5920a-118e-40c2-afcc-8ebba539fd55",
+      "Value": "[Sigh deeply] \"Fine, open your own publishing house. But if you pull any more tricks like this...\""
+    },
+    {
+      "Key": "a7fd1671-7ed0-47bc-875d-2ce06891e8e2",
+      "Value": "\"Don't give me that look — I trusted you, and you're wasting my treasury on toys!\""
+    },
+    {
+      "Key": "31a6becd-a793-4d2a-8085-7d777f9bd59e",
+      "Value": "{n}Linzi shuffles around nervously, fidgeting with a quill in her hands. She turns bright red.{/n} \"Well... About the embezzlement... I mean... Um...\""
+    },
+    {
+      "Key": "581a310f-ad37-473d-b96a-6f76bef0db50",
+      "Value": "{n}Linzi takes a deep breath.{/n} \"Well... It was me. But I can explain!\""
+    },
+    {
+      "Key": "e7264219-b0df-4aea-a8cf-d361414c56b5",
+      "Value": "\"I didn't steal it! I didn't take a single coin for myself! I... Please, let me explain!\""
+    },
+    {
+      "Key": "3b3692b6-b3ab-4fd7-8ab7-d47212502c9d",
+      "Value": "\"Don't look at me like that — I feel like a fish out of water! I... well... it was me. I took the money from the treasury. Don't be mad! I can explain!\""
+    },
+    {
+      "Key": "7f2207d8-11a1-456d-846d-e034ed301775",
+      "Value": "\"You see, I've... always dreamed of owning my own printing house. So I could print whatever books I want! And then I found out there was a printing press being sold for cheap in {g|Brevoy}Brevoy{/g}, and, well... I just couldn't resist!\""
+    },
+    {
+      "Key": "5f97e554-56f6-47dc-9257-9ca2b20bf61c",
+      "Value": "\"Thank you! You have my word — it won't happen again!\""
+    },
+    {
+      "Key": "ea353a70-8776-49ef-8b78-893f34d72e3b",
+      "Value": "{n}Linzi lowers her head and stares at her feet.{/n} \"I am SO sorry. You have my word — it won't happen again!\""
+    },
+    {
+      "Key": "e9b7185f-e2eb-46a3-9dd7-3fbd49da7cd9",
+      "Value": "\"Really?! Whew! I feel like a weight's been lifted off my shoulders. I was so afraid you'd be mad... Thank you!\""
+    },
+    {
+      "Key": "8bdc40c8-397c-459d-aa8d-4cc2d64d1bbe",
+      "Value": "\"There is... one other problem, though. The press should have been delivered by now, but it hasn't shown up. I'm afraid that, with our roads and the seeming menagerie that roams them, it might end up vanishing into thin air. Can we maybe go check on it, see if anything's happened? It was supposed to be coming across the old road through the {g|Narlmarches}Narlmarches{/g}.\""
+    },
+    {
+      "Key": "f154b6b5-27e0-4eb2-b490-c52ac6424102",
+      "Value": "\"Yes! Just don't leave without me!\""
+    },
+    {
+      "Key": "69ab42f0-f4bc-41a5-b6ad-8a3c9cd9dd8a",
+      "Value": "{n}Linzi gazes at you with puppy eyes.{/n} \"Please...\""
+    },
+    {
+      "Key": "82d53840-0a92-4d22-a1fa-94c7005d52b0",
+      "Value": "\"All right... No means no. I'm sorry for distracting you from your important business.\" {n}Linzi leaves the tavern, shoulders slumped and eyes downcast.{/n}"
+    },
+    {
+      "Key": "e442a763-d3f1-4bf0-8868-32adcc7a960d",
+      "Value": "\"It's always busy, and I don't even know with what! I abandoned any hope of printing so much as a brochure there, let alone an actual book. Don't worry, though — the printing house can definitely fit two presses!\""
+    },
+    {
+      "Key": "1726ef4a-5c34-468b-b5a2-00a1af388642",
+      "Value": "{n}Linzi gazes at you, silently begging with her eyes.{/n}"
+    },
+    {
+      "Key": "ae250de8-e8f6-42df-916c-d61fe8406ca0",
+      "Value": "\"I am SO sorry... I... I'll return the money. You have my word.\""
+    }
+  ]
+}

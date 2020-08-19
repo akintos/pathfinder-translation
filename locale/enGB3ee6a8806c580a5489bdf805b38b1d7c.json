@@ -1,0 +1,125 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "0b84379e-edef-43d0-b392-afbaa07fb8b3",
+      "Value": "\"Tell me more about the investigation.\""
+    },
+    {
+      "Key": "a26f16d5-1b53-48f6-b9bc-21dc357f52f9",
+      "Value": "\"He asked me to get rid of you.\""
+    },
+    {
+      "Key": "f2249b02-a285-4e92-9501-1dcc4e7649f8",
+      "Value": "\"He asked me to get rid of you. I lied to him and said I'd try to help.\""
+    },
+    {
+      "Key": "012edad5-76d5-44b2-96ba-3fa6fc15e16e",
+      "Value": "\"He asked me to get rid of you. I chased him away.\""
+    },
+    {
+      "Key": "a9887253-bff3-48ae-a198-b444ff6febd9",
+      "Value": "\"He asked me to get rid of you. I attacked him but he managed to flee.\""
+    },
+    {
+      "Key": "6bc81fa6-1a3a-4dfa-96a8-99f3d4873d18",
+      "Value": "\"Darven is a dangerous and cunning opponent. You've been chasing him for many years, and still you've failed to capture him. You shouldn't underestimate him.\""
+    },
+    {
+      "Key": "acaeb0a2-5f2b-40bc-96f6-9893e2ec00b3",
+      "Value": "\"He spoke with me through an illusion. I didn't stand a chance of catching him.\""
+    },
+    {
+      "Key": "a2c329d3-f492-4457-b114-c8ba6238bcd1",
+      "Value": "\"Hold your tongue, Linxia. Remember who are you speaking to.\""
+    },
+    {
+      "Key": "c584a91d-be0f-4ea3-bc68-6fa4b036b80b",
+      "Value": "\"{mf|Baron|Baroness|King|Queen}? It's such a pleasure to see you here.\" {n}{d|Linxia}Linxia's{/d} voice is emotionless as ever.{/n} \"The investigation is well underway. We'll soon find Darven. But I would like to know — how did you find this place?\""
+    },
+    {
+      "Key": "f2adaced-e6fe-4eb8-8b15-390f92982b8a",
+      "Value": "\"{mf|Baron|Baroness|King|Queen}? How did you get here? Who told you about this place? {d|Linxia}I{/d} demand answers!\""
+    },
+    {
+      "Key": "c6e72528-ca62-4d10-b2ba-6080ad679cf6",
+      "Value": "{n}Linxia shrugs.{/n} \"We've interrogated the capital's population, but no one proved to have any solid clues. Now we move our investigation to the neighboring villages. I'll find Darven, whatever it takes. Today, tomorrow, in a week, or in a year. He won't escape me.\""
+    },
+    {
+      "Key": "84c5a055-670d-46b5-be19-08a8549decbe",
+      "Value": "\"But you never answered my question. How did you get here?\""
+    },
+    {
+      "Key": "1c8ebf70-5ce2-4b7d-975f-13ba4c4d7a1a",
+      "Value": "\"What?!\" {n}Linxia's hand twitches towards her sword, and freezes at its hilt.{/n} \"How did this happen? When? Where is he now?\""
+    },
+    {
+      "Key": "794fd414-6f19-452b-a83e-590d0d33de88",
+      "Value": "{n}Linxia takes a deep breath and regains her self control.{/n} \"That is... true. I ask you to forgive my reckless words.\""
+    },
+    {
+      "Key": "9cc48943-cf27-4cdb-85d0-f9762fcf60f2",
+      "Value": "\"I'm not so easy to deceive, {mf|baron|baroness|king|queen}.\" {n}Linxia glares at you with narrowed eyes.{/n} \"I don't believe you. I strongly recommend you tell me the truth.\""
+    },
+    {
+      "Key": "521c69cd-fb31-4a8f-9161-233cd0538676",
+      "Value": "\"Not this time. The interests of the {g|Order of the Rack}Order of the Rack{/g} demand a straight answer to my question. And I will have it — the easy way or the hard way.\""
+    },
+    {
+      "Key": "6c800933-d240-4685-8b08-5cfdff4b58e3",
+      "Value": "{n}Linxia grabs her sword.{/n} \"Oh no. You won't avoid the question so easily. {g|Hellknights}Hellknights{/g}! To battle!\""
+    },
+    {
+      "Key": "38bf0dcd-f283-4069-8823-84f09c753993",
+      "Value": "\"Great job, my friend! I doubt anyone else could have managed to distract Linxia for so long. Now all that's left is to finish her off.\""
+    },
+    {
+      "Key": "5e18d289-9e65-4259-8baa-cfa3549086ad",
+      "Value": "\"You should have executed the criminal, not engaged him in conversation! It was your duty as the ruler of these lands! Or do you have something to hide? I think I'll just have to sort it out personally. {g|Hellknights}Hellknights{/g}! To battle!\""
+    },
+    {
+      "Key": "d47b7d93-3c0a-4632-a26f-cbc372b39437",
+      "Value": "\"So you lied to him, promising your help, and then you just let him go? Why didn't you kill him when you had the chance? If you truly stood firmly on the side of the law, Darven would be dead by now!\""
+    },
+    {
+      "Key": "726a823e-e93c-473d-bce0-c010b3c65cba",
+      "Value": "\"Half-measures! The law demands criminals be punished, not chased off! I'm starting to doubt which side you're really on.\""
+    },
+    {
+      "Key": "b8578175-f7b1-4852-8f5c-912e0fc8b76a",
+      "Value": "{n}Barely hidden contempt glints in Linxia's eyes.{/n} \"So, he escaped. As might be expected from the ruler of such a backward country. With all due respect.\""
+    },
+    {
+      "Key": "bbaa08f5-9d1d-4a62-95e1-f233f3bef15b",
+      "Value": "\"So, you just fell for a primitive trick? It would seem that even an infant could fool you with ease.\""
+    },
+    {
+      "Key": "49bfdf08-850a-45af-9420-44145f1f248f",
+      "Value": "\"Oh, I remember perfectly well who I am speaking to. I'm speaking to the ruler who is unable to catch a single criminal. Or is it not unable, but unwilling? We'll find out soon enough. {g|Hellknights}Hellknights{/g}! To battle!\""
+    },
+    {
+      "Key": "3a759557-5e6a-4184-a8f1-8f7de694f2a8",
+      "Value": "\"Treason! To battle, {g|Hellknights}hellknights{/g}! Keep Darven alive, but kill all the rest!\""
+    },
+    {
+      "Key": "dc56982a-7367-4268-ab17-da27ee51d886",
+      "Value": "\"Do we really need to talk to this person? The kindest words I could give a member of the {g|Order of the Rack}Order of the Rack{/g} would be an epitaph.\""
+    },
+    {
+      "Key": "a5d0ea19-2eb3-47e7-8bb2-6535b2d6dd3d",
+      "Value": "{n}Linzi self-righteously turns away from Linxia.{/n} \"Ooh, book burner!\""
+    },
+    {
+      "Key": "74670096-d6cd-4015-a19d-732513ee411b",
+      "Value": "\"So much ardor. So few results.\""
+    },
+    {
+      "Key": "aa3bf718-605a-4f72-ad66-972a216adc81",
+      "Value": "\"I see the worst of myself in you, Hellknight Linxia. A noble ardor that has lost its soul.\""
+    },
+    {
+      "Key": "c2b1667d-0de6-4ca4-b26a-2d4f4976fee7",
+      "Value": "\"Why she talk like that to you? She importanter than you?\" {n}Nok-Nok looks back and forth between you and Linxia, as though comparing.{/n}"
+    }
+  ]
+}

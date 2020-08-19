@@ -1,0 +1,61 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "790856cf-e78c-4d3f-8d5c-5e564187cabb",
+      "Value": "\"What's going on in Varnhold?\""
+    },
+    {
+      "Key": "be0b8a9d-d319-4ef9-a4cf-7ef0e0fb3673",
+      "Value": "\"Where are the city guards?\""
+    },
+    {
+      "Key": "8a0f10e8-e352-470c-8b87-a8c2106116f3",
+      "Value": "\"I need you in the capital!\""
+    },
+    {
+      "Key": "cf9ad474-1b49-4ff0-ac2f-310bd10093e6",
+      "Value": "\"Lead on, Maegar. Let's protect Varnhold!\""
+    },
+    {
+      "Key": "c4060f0c-b4d4-4c8c-8f54-92c2a1957e1a",
+      "Value": "{n}{d|Varn}Varn{/d} greets you with a broad smile.{/n} \"{name}! Glad to see you with us, Your Highness! Forgive {d|c31 Maegar Saved}me{/d} for leaving the capital without your permission, but I couldn't stay away when your subjects needed help!\""
+    },
+    {
+      "Key": "d50ff428-7cf2-476d-8e59-318288318007",
+      "Value": "{n}Maegar stows his weapon and catches his breath.{/n} \"That was a fine battle! Just like back with my old squad, when we- no, this is no time for war stories. We need to save your kingdom! Let's get to the capital — we'll give those invaders a hammering so good they'll roll to the {g|Pit of Gormuz}Pit of Gormuz{/g}!\""
+    },
+    {
+      "Key": "4320f390-87f9-4261-9b8d-058228877799",
+      "Value": "\"Madness, is what! These dead cyclopes came out of nowhere and attacked indiscriminately, then Vordakai himself appeared! The guards sent a message to the capital, and they held the line this whole time. Luckily, they were able to hold on until we could make it!\""
+    },
+    {
+      "Key": "5ec81536-021e-4d0e-bc71-242352597709",
+      "Value": "{n}Maegar's eyes blaze with anger.{/n} \"You can charge me with disobedience, Your Highness, but I couldn't ignore their cry for help! Thanks to me and those who followed, there are far fewer dead, but we still need to destroy their leader!\""
+    },
+    {
+      "Key": "4fa210a0-8195-4d2a-bf78-625fca01ca7e",
+      "Value": "{n}Maegar solemnly points to the warriors around him.{/n} \"These are all that's left. Our last hope lies with you. Let's send these undead back where they belong — to a deep grave!\""
+    },
+    {
+      "Key": "f0589d59-ef2f-4ae5-b2bd-f340318fee6d",
+      "Value": "{n}{d|Varn}Maegar{/d} shakes his head.{/n} \"Not until we've freed {g|Varnhold}Varnhold{/g} of this false Vordakai and his cyclopes.\""
+    },
+    {
+      "Key": "489f3feb-fb39-4dfc-8d22-b9884c83a85b",
+      "Value": "{n}Maegar stands up straight, and his mouth curls into a sneer.{/n} \"Just like the old days...\""
+    },
+    {
+      "Key": "b1e77d2e-1110-425a-9738-ff3dbf88f537",
+      "Value": "{n}Maegar salutes and half-smiles.{/n} \"Just like the good old times... wait, Your Highness. What's that? Over there!\""
+    },
+    {
+      "Key": "464d9ca1-fb01-4a6b-a35a-9d9b5e98f958",
+      "Value": "{n}Maegar can't help but smile.{/n} \"My lost friend has returned to me just in time! I'll be happy to introduce you, but it'll have to wait until we've dealt with this Horned Hunter, or Lantern King, or whoever he is.\""
+    },
+    {
+      "Key": "959fb881-30ca-415c-9133-0d0db106aae4",
+      "Value": "{n}Maegar grows grim.{/n} \"This is treachery... I didn't think the fey possessed the power to change a person like this. Or have I been blind all this time, and never noticed the snake beside me?! What a dark turn of events. I have much to think about.\""
+    }
+  ]
+}

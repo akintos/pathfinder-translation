@@ -1,0 +1,101 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "f0802cc4-8e57-4172-802d-53054a789c83",
+      "Value": "\"Cephal, you're not making any sense. You say that an alliance with the Aldori will end in a bloodbath. That surely means that we'd best keep away from them!\""
+    },
+    {
+      "Key": "6fbd8172-6a20-473b-9acf-d89b188d1b31",
+      "Value": "\"You mean we need to wait until they drop their guard. Make them rely on our help... And when civil war does break out in Brevoy, strike them in the back?\""
+    },
+    {
+      "Key": "3d1e1810-414a-4a14-9817-fe95e8bf1c65",
+      "Value": "[Say nothing]"
+    },
+    {
+      "Key": "915d8cc4-fbf0-4c71-a025-faba938778e7",
+      "Value": "\"You're both wrong. The Aldori are noble. An alliance with them would ensure our common prosperity!\""
+    },
+    {
+      "Key": "01e2669b-1654-470c-82f0-2775dc3e8752",
+      "Value": "{n}As Kjerdi approaches Varn, a wince crosses her grim face. But she speaks not a word, and instead hands him a document.{/n}"
+    },
+    {
+      "Key": "15d7560f-5877-4591-9899-dbd867c45319",
+      "Value": "{n}{d|Cephal}Cephal{/d} snatches the document from Varn's hands. As he reads it, the old wizard's eyes nearly pop out of his head.{/n} \"{d|Varn}Maegar{/d}... What does this mean? Tell me – what I am to make of this!?\""
+    },
+    {
+      "Key": "8745f24d-24e2-432b-83ae-3f16f7680dd2",
+      "Value": "\"I sent some much-needed aid to our neighbors in the Shrike Hills. They're our only possible allies in the coming carnage. {d|Cephal}Cephal{/d}, I know your opinion, but be realistic: the Aldori are not our friends. We can't count on them for help if something happens. We're expendable.\""
+    },
+    {
+      "Key": "a23085d6-6168-475f-b8fd-36c8c68b2b76",
+      "Value": "\"You will not preach realism to me, you naive boy! Yes, we are bargaining chips to them. That is exactly what I am basing my politics on. A delicate contraption which you are smashing to bits! War will come to Brevoy, even you can see that. But as long as it hasn't yet begun, we can scarcely do better than pretending to be the Aldori's most loyal vassals!\""
+    },
+    {
+      "Key": "8205d104-1546-44ac-b074-d960db3b501c",
+      "Value": "\"They are noble, it's true. But it's the nobility of Brevoy's aristocracy. – Whether they're Issian or Rostlandic, they don't welcome outsiders into their fold. I'm sorry to shatter your dreams of triumphant Aldori knights, my friend, but take this for a fact: our lives are nothing to them.\""
+    },
+    {
+      "Key": "c4635bc9-ceee-4bff-9f98-d2cfef242529",
+      "Value": "\"And how are you going to manage that? Perhaps Varnhold will grow a pair of legs and we shall ride it to the other end of Avistan? Or maybe we'll erect sails across the barony and sail far, far away from Brevoy? No? You don't think it will work? Then stop dreaming of isolating the country. We are already a part of this game, and we will not be able to leave it when the smoke clears from the final battlefield!\""
+    },
+    {
+      "Key": "176510ef-a9a9-4502-9efb-86e14a228448",
+      "Value": "\"Exactly! Praised be Asmodeus, at least someone in this traveling circus can understand me.\""
+    },
+    {
+      "Key": "eba4e209-7f8f-427c-ab64-3bb713c4328f",
+      "Value": "\"Well said, {d|Varn}Maegar{/d}. But if you understand this, then why not take the next logical step?\""
+    },
+    {
+      "Key": "86c5972c-7a56-4234-977f-6038dc58fbd9",
+      "Value": "\"Listen to me carefully, you three. Yes, Kjerdi, this involves you too. Things are looking bad. First, the land here is fertile, but its most bountiful crop is cyclopes graves. Second, it shares a border with {g|Iobaria}Iobaria{/g}, well known for its epidemics. – Gods forbid the wind carries the next plague here! Settlers are reluctant to come here as it is, and I can scarcely blame them.\""
+    },
+    {
+      "Key": "dae75daf-f7b2-46c2-b512-8a35b7fb756a",
+      "Value": "\"Such villainy!\""
+    },
+    {
+      "Key": "7f70787e-08e4-4d6d-81ce-241da7495f2c",
+      "Value": "\"Do not interrupt your regent, {d|Varn}Varn{/d}, or relieve me of the position this instant! Now. What is the most important thing here? The Aldori are afraid of unleashing war. They know that if they tried to separate from Brevoy without some kind of outside support, the Surtova would crush them. So we must convince them that we are their most loyal allies. We will stoke the Aldori into an uprising, and when the unrest picks up, we shall strike them in the back, and make them fight on two fronts!\""
+    },
+    {
+      "Key": "5609a06e-5f47-4ea2-b02a-9de16aac6ecd",
+      "Value": "\"While you, your grace, were drinking wine at the feast, I was busy acquiring a map of Nivakta's Crossing. Look at these fortifications. If we could seize this town, we'd win a significant piece of Brevic land along with it! After we've assisted the Surtova in hanging the Aldori on the gates, they will allow us to keep part of what we have seized as a reward. Then we will have peace and prosperity!\""
+    },
+    {
+      "Key": "2e3ddcd0-ec18-48f6-adb9-23aaaed3d272",
+      "Value": "\"Get out of my sight, {d|Cephal}Cephal{/d}. Get out! Never would the name of {d|Varn}Maegar Varn{/d} be tarred with such abominable villainy! It never happened while I was leader of a mercenary party, and won't happen now that I'm Baron!\""
+    },
+    {
+      "Key": "a1b990ac-0e3f-4e7a-ab44-401235c14bc8",
+      "Value": "\"Great {g|Asmodeus}Asmodeus{/g}, what did I do to deserve this punishment? Why do I deal with you at all? I should have taken my share and retired a long time ago! I will be off somewhere, soon enough – to {g|Absalom}Absalom{/g}, or {g|Cheliax}Cheliax{/g}. I shall read books on the porch, and drink wine... while you do whatever you want – burn the city down and get yourself killed!\" {n}As the old wizard storms off in a rage, you hear a magical whisper:{/n} \"Come to me later. We need to talk.\""
+    },
+    {
+      "Key": "19205bfd-00d3-4fc1-8809-3ff19d7563dc",
+      "Value": "\"I can't believe my ears. Must the history of our country begin with such villainy? Oh, {d|Cephal}Cephal{/d}, Cephal... Ah well, let the old devil cool off. I'll talk to him later. Is that all, Kjerdi?\""
+    },
+    {
+      "Key": "b5bf2080-b0c2-42c9-9872-e6e5d65bf38d",
+      "Value": "\"I see... So, we've got a revolutionary from {g|Galt}Galt{/g} on our hands. A tavern keeper writes us. — She saw the revolutionary walking around stirring up the people for an uprising.\""
+    },
+    {
+      "Key": "e6a693cb-95de-4a7a-b216-845dd67cfca4",
+      "Value": "\"Well, you're the General. –- You go and deal with it. Talk to the tavern keeper, find out where to look for this instigator. Well, far be it from me to teach you how to do your job. When you finish, report back to me. By the gods, what a worry! Uprisings, intrigues... These damn letters... That Gunderson and his bracelet... And the baron has to see to all of that, and listen to everyone's complaints while he's at it! What a nuisance...\" {n}Maegar leaves in a cloud of curses.{/n}"
+    },
+    {
+      "Key": "63575a1a-b11c-49c5-9916-540b97bfb33b",
+      "Value": "\"Do not become too attached to Varnhold. This is but a stepping stone. Our real prize lies to the west. – But what does {d|Varn}Varn{/d} do? He sends them gifts! Better to send them assassins! Without their baron, the Shrike Hills would descend into a struggle for power – and Silverstep and the Kamelands would fall to us soon after!\""
+    },
+    {
+      "Key": "38ff38a1-8832-43a6-a1b0-7482b217a4ee",
+      "Value": "{n}The dwarf shrugs and hands him another paper.{/n}"
+    },
+    {
+      "Key": "92a14dd8-141d-42a7-9ce2-3766b8c2d9e0",
+      "Value": "{n}Maegar glances over the document and his face brightens.{/n} \"Ah-ha... I see you've included everything, just as I asked. Thank you, Kjerdi.\""
+    }
+  ]
+}

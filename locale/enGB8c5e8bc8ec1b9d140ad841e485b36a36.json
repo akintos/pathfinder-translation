@@ -1,0 +1,133 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "a30242d6-43aa-4a95-9b54-a814af3ae5ea",
+      "Value": "\"You're wounded. Do you need aid?\""
+    },
+    {
+      "Key": "ed697a58-090d-4087-bde5-f13321d7179b",
+      "Value": "\"How did you get here?\""
+    },
+    {
+      "Key": "5bd85896-8bc7-4413-a7f9-6502933e7cae",
+      "Value": "\"A local nymph directed me here. She thinks the enchanted fog in this temple was created by the druid who serves the bandit leader here. I expect defeating the beast guards should cause the fog to clear.\""
+    },
+    {
+      "Key": "d2c133f9-f1f1-482d-b292-04c00fc6eac4",
+      "Value": "\"I'll be back once I deal with the beasts. Farewell.\""
+    },
+    {
+      "Key": "327f1e59-9b93-4b93-8a63-94ac86ee66f7",
+      "Value": "\"We should stick together in such a dangerous place. You could help me on my journey.\""
+    },
+    {
+      "Key": "e4a503bc-d10e-4b3f-bef5-51171c825c3b",
+      "Value": "\"The beasts are defeated. What now?\""
+    },
+    {
+      "Key": "a3434e3e-31da-4f88-b995-308c53d1d4a8",
+      "Value": "\"With those beasts dead, I have other matters to attend to. Farewell.\""
+    },
+    {
+      "Key": "e0be4284-4f8f-4d3e-abe2-82f85c5c46ff",
+      "Value": "\"I would welcome your assistance.\""
+    },
+    {
+      "Key": "cfab4a64-652d-430d-a0e0-07e8192c5c4e",
+      "Value": "\"I don't need your help.\""
+    },
+    {
+      "Key": "48855c37-2a5b-473e-8da2-54d7ca949925",
+      "Value": "\"The beasts have been dealt with. Are you ready to travel with me now?\""
+    },
+    {
+      "Key": "f3548072-4e6c-4137-b4d7-ea268a0e3a40",
+      "Value": "\"You owe me, priest. I expect you to repay this debt by serving me.\""
+    },
+    {
+      "Key": "d6f94210-5005-4b2e-8fdd-ac6a238537e5",
+      "Value": "\"A cleric of Sarenrae? Praised be the Everlight! We could really use her help about now!\""
+    },
+    {
+      "Key": "731a5986-1109-41e2-a63d-568b5557c4b1",
+      "Value": "{n}A young man wipes his hand across his brow. His face is pale and his fair hair is a mess, but his gaze is steady — and grateful.{/n} \"I swear, never have I been so glad to meet a stranger! Even with the power granted me by {g|Sarenrae}Sarenrae{/g}, I almost lost. You have my thanks. Please, allow me to introduce myself. My name is Tristian.\""
+    },
+    {
+      "Key": "35a21ecd-a69a-41e2-a368-1a9027a4f7e1",
+      "Value": "{n}A young man, severely wounded, whispers what sounds like a prayer as he raises his eyes. His face is pale, but his eyes flare with determination, despite his labored breathing.{/n} \"Your aid came at just the right time, stranger. My name is Tristian. I'm a priest of merciful {g|Sarenrae}Sarenrae{/g}. Another moment, and I fear I would have been on my way to her chambers — somewhat earlier than my destiny requires.\""
+    },
+    {
+      "Key": "a348f280-0341-470a-86ad-1aea43b59439",
+      "Value": "\"You are very kind.\" {n}Tristian looks at you thoughtfully.{/n} \"Kindness to strangers is in short supply these days. But worry not — {g|Sarenrae}Sarenrae's{/g} priests are skilled in the healing arts. I can heal myself.\""
+    },
+    {
+      "Key": "c7718711-e936-41ad-a32d-1b4fbe6345d5",
+      "Value": "\"I am a priest of {g|Sarenrae}Sarenrae{/g}, and a skilled healer. I have done all I can, but it will take some time for my strength to return in full. But worry not — I will make my way to the {g|Oleg's Trading Post}trading post{/g} nearby and wait there as I make my recovery.\""
+    },
+    {
+      "Key": "fb4e8906-14c8-4f15-bf8d-8f3705dcc608",
+      "Value": "\"I was investigating this fog. I believe you have already discerned that it is magical in nature. I serve {g|Sarenrae}Sarenrae{/g}, goddess of sunlight. Discovering an evil magic that isolated living creatures from the sun alarmed me in no small way. I was able to locate the place the fog originated from, but was too presumptuous and almost got into the beasts teeth.\""
+    },
+    {
+      "Key": "c32b3717-8e16-4d8f-947f-2c7a60282eba",
+      "Value": "\"I have never spoken to nymphs... but I believe your assessment is accurate. The creatures occupying this temple are... far from ordinary animals. The power that moved them here is related to the fog. The beasts hold the fog as anchors hold a ship dancing in the waves. From what I can tell, once the beasts are defeated, the fog should begin to clear.\""
+    },
+    {
+      "Key": "4f39103e-537c-4aa9-9406-2c0d23baddb3",
+      "Value": "\"Praised be {g|Sarenrae}Sarenrae{/g}! Now, if my knowledge serves, the fog should weaken and eventually clear entirely. We need only wait...\" {n}Tristian shivers slightly.{/n} \"Perhaps somewhere more hospitable?\""
+    },
+    {
+      "Key": "11f9803b-c5de-4fa8-93a1-a7c80c9d189a",
+      "Value": "{n}Tristian is waiting patiently.{/n}"
+    },
+    {
+      "Key": "a3ae68a4-e7b3-4edd-8f92-7cdfe60a281d",
+      "Value": "\"I will wait for you. This fog bothers me.\" {n}Tristian sighs.{/n}"
+    },
+    {
+      "Key": "6e8083ba-5521-49b5-b512-daf9f0a9133c",
+      "Value": "\"Please, wait! You saved my life. I have no treasures or relics, but I have knowledge and the divine power of a priest. I wish to aid you in your journeys.\""
+    },
+    {
+      "Key": "1c698242-3c6c-4e2f-977c-d33873f60bda",
+      "Value": "\"Alas, my wounds won't allow me to join you right now. I will travel to the {g|Oleg's Trading Post}trading post{/g}. I hope to be able to repay you for my life once I recover from these wounds.\""
+    },
+    {
+      "Key": "2d6b17b0-3080-4ed6-ab9a-38f9055669e8",
+      "Value": "\"Thank you! I hope... I hope I will be of help.\""
+    },
+    {
+      "Key": "9aa1255b-9271-4ff8-9652-b9d8d688fda5",
+      "Value": "{n}Tristian lowers his head.{/n} \"My heart and my faith tell me to repay good with good. So just know that I will be at the {g|Oleg's Trading Post}trading post{/g} — summon me, if you change your mind.\""
+    },
+    {
+      "Key": "f8908d6d-d833-4e4f-864e-0e2f779cb1f8",
+      "Value": "\"A {g|Sarenrae}Sarenrae{/g} fanatic! Talk about people I'd be just as happy not seeing for the next thousand years...\""
+    },
+    {
+      "Key": "4007c69d-a524-42bb-84e4-3b2094763c4e",
+      "Value": "\"Not you, of course. You're probably the only one in her whole cult whose brain hasn't dried in the sun.\""
+    },
+    {
+      "Key": "e56f6b76-33ca-41ce-b6e3-b0877b0c3c90",
+      "Value": "\"I promise to think about your request after you deal with the beasts. But, please, allow me to catch my breath for now.\""
+    },
+    {
+      "Key": "3dba8650-9a55-4a3a-8fd3-617b80235dde",
+      "Value": "\"You've saved my life and I wish to repay good with good. I will gladly aid you in your journeys.\""
+    },
+    {
+      "Key": "a20c07b3-4fe6-4abe-97c8-049811b7c8e1",
+      "Value": "\"Let us {d|c11 Tris saved}be off{/d}! We will accomplish much good together, I'm sure of it.\""
+    },
+    {
+      "Key": "f3b24f85-bd63-4c9f-8b7d-e6e91184b3c9",
+      "Value": "\"That is... a fair enough demand, I suppose.\""
+    },
+    {
+      "Key": "b7568548-e195-4a21-943f-59f59a5636b9",
+      "Value": "\"I am glad to hear it. The goddess sent me here to help those in need.\""
+    }
+  ]
+}

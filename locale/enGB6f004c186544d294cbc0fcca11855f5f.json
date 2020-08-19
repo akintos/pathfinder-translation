@@ -1,0 +1,105 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "42355beb-02d4-47fe-b926-5db14ef49d8b",
+      "Value": "{g|Culture3_1}[Choice effects]{/g} [Pay 75 BP] \"I wish to support this art society financially.\""
+    },
+    {
+      "Key": "aef8b106-220d-4926-91e5-4ba15506fae5",
+      "Value": "{g|Culture3_2}[Choice effects]{/g} [Pay 50 BP] \"We shall help them found and promote this society.\""
+    },
+    {
+      "Key": "c2aab1c6-95ed-4bc3-b7ee-b49683764a9c",
+      "Value": "\"We will not be participating.\""
+    },
+    {
+      "Key": "85360aee-0cfe-4bab-9fef-2493d97dc77d",
+      "Value": "\"Do as you deem right.\""
+    },
+    {
+      "Key": "b7a50890-5ead-44c1-ab50-d10fc480e939",
+      "Value": "\"I need a moment of your time! I have here someone who is sure to help us turn this city into the cultural capital of the {g|River Kingdoms}River Kingdoms{/g}!\""
+    },
+    {
+      "Key": "aacdd2c4-2b6d-4df6-9502-86591a25a312",
+      "Value": "{n}The Storyteller raises his hand to get your attention.{/n} \"{mf|Your Grace|Your Grace|Your Highness|Your Highness}, please spare me a few moments. As your curator, I request you listen to this kind lady, who wishes to discuss with you something of great importance.\""
+    },
+    {
+      "Key": "f969636c-5a84-4671-8fb9-e44503b81df4",
+      "Value": "{n}Jaethal waves carelessly in the direction of an aasimar.{/n} \"A petitioner. She insisted on a personal meeting.\""
+    },
+    {
+      "Key": "bd16451f-acad-4aed-a74d-032565216c94",
+      "Value": "{n}The aasimar bows. The young woman is wearing simple clothes, but carries herself with dignity.{/n} \"My greatest respect, {mf|baron|baroness|my King|my Queen}! My name is Rikri Sharvan, and I am the leader of a small group of enthusiasts, who wish to enrich life in the city. I come to you for two reasons: to tell you about our cause, and to ask for your support.\""
+    },
+    {
+      "Key": "c86c1bfe-5358-4c00-a1f2-35e0d195e1e5",
+      "Value": "\"A while ago an idea emerged in our ranks. Even though there are many ways to entertain oneself in the capital, there are still not enough cultural events taking place, even as artists are starved for money and audience. Thus we have decided to form a society for the appreciation of fine arts! Each member pays a modest monthly fee, and in return gets to vote which event the society should fund each month. Just imagine: the community will finally be able to organize exhibitions, performances, philosophical debates, concerts – and do this all on its own! We will inspire our friends and neighbors – but in order to provide an adequate reward for our most distinguished artists, we shall need to attract more members, and increase our funds.\""
+    },
+    {
+      "Key": "90b80f86-2a9f-4120-9587-42906999f704",
+      "Value": "{n}Rikri folds her hands.{/n} \"All we ask of you is a little support. Any funds you can spare will be most welcome, of course, but we especially need your help in founding and promoting the society and organizing the events. It will require a great effort to make this dream come true!\" {n}The aasimar bows.{/n} \"Thank you for your time. Please, if you decide to support us, send us a message through your curator. And whatever your decision, I hope your esteemed advisor will honor us by taking part in the opening ceremony!\""
+    },
+    {
+      "Key": "c7f4ca28-b4d9-4918-b6f1-fae8e32a3cdb",
+      "Value": "{n}Linzi's eyes shine with excitement.{/n} \"Well? What do you say? I say it's a very worthy cause – and I wouldn't be stingy about it!\""
+    },
+    {
+      "Key": "5abe699d-ac58-4ed3-b5ce-909a2636357b",
+      "Value": "{n}The Storyteller cocks his head.{/n} \"So? What shall I tell Lady Sharvan? To my mind, these people need our guidance and attention more than they need our money. We could inform all the city of this newly-founded society, and assist in the collection of membership fees.\""
+    },
+    {
+      "Key": "e551a49c-de6a-4b58-bced-9246f41940c6",
+      "Value": "{n}Jaethal thinks for a moment.{/n} \"Yes. Support them. Give them money. Make them feel they owe you. Moving forward, the resulting mixture of obligation and guilt will allow you to control everything that goes on in this 'society'."
+    },
+    {
+      "Key": "2607b05c-23ca-4a1d-9afe-09853475df2f",
+      "Value": "\"Wonderful! I will immediately give orders to draw money from the treasury!\""
+    },
+    {
+      "Key": "433cd488-c0fa-4304-96fd-974d39806b49",
+      "Value": "\"A most reasonable proposal, {mf|Your Grace|Your Grace|Your Highness|Your Highness}\"."
+    },
+    {
+      "Key": "ee56904b-6858-481f-bc4a-8c8cdf8d76f3",
+      "Value": "\"A good step, {name}. I will write to the aasimar in the most refined and sincere terms.\""
+    },
+    {
+      "Key": "8c41ea49-5fe5-49fa-893d-a828ebfd9bab",
+      "Value": "\"Great! No one in such a situation would reject that kind of help!\""
+    },
+    {
+      "Key": "65b47d06-83b4-4d9d-8fad-fda088fda343",
+      "Value": "\"A most wise decision.\""
+    },
+    {
+      "Key": "2b8b9f8e-2f61-42bb-b76f-40bd970b931e",
+      "Value": "\"Not a great deal of leverage, but better than nothing.\""
+    },
+    {
+      "Key": "70c6c989-7a02-4626-acd4-531cec0a7639",
+      "Value": "\"You have no idea how sad I am to hear this. You probably have your reasons, but still... fine, let's just forget about it. I hope Rikri and her friends can handle everything on their own.\""
+    },
+    {
+      "Key": "d6b31d3b-4d52-48af-b133-32358b7ab966",
+      "Value": "\"I am sorry to hear you would choose to neglect subjects in need of your help. Still, I feel certain that Lady Sharvan will find a way to handle this project on her own.\""
+    },
+    {
+      "Key": "2bd02943-bd0c-4b1e-9fd6-4331eb32be5c",
+      "Value": "\"Letting the matter run its course? I assure you, once their little society grows, its members will not be drinking to your health.\""
+    },
+    {
+      "Key": "1c7603f4-c7ee-43f3-b643-48df02634dee",
+      "Value": "\"Then I will go to the Treasurer immediately, and order the necessary sum be sent immediately to Rikri and her associates!\""
+    },
+    {
+      "Key": "1632587a-2729-4640-b159-aede2fe00bab",
+      "Value": "\"Very well. Lady Sharvan will receive all the help she needs in founding and running this society.\""
+    },
+    {
+      "Key": "a7e69e80-8db6-4151-8a04-f5e5ee570c7b",
+      "Value": "\"Very good. The Treasurer will have to dip into his coffers.\""
+    }
+  ]
+}

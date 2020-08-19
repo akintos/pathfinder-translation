@@ -1,0 +1,105 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "23967804-53b3-4f76-905c-3aae5473c74c",
+      "Value": "{g|Culture9_1}[Choice effects]{/g} [Pay 200 BP] \"There's no time to waste, Jaethal. Give Larzio a sense of just how much he owes us.\""
+    },
+    {
+      "Key": "c2745c65-695f-4f49-8c8c-f96b3b1b0a03",
+      "Value": "{g|Culture9_2}[Choice effects]{/g} [Pay 100 BP] \"Larzio may build his stage upon the main square. And his production shall be funded as well.\""
+    },
+    {
+      "Key": "a34cb810-31d0-4f20-b550-9e88a93455c2",
+      "Value": "{g|Culture9_3}[Choice effects]{/g} [Pay 50 BP] \"The composer is free to use the main square as he pleases. Nothing more, nothing less.\""
+    },
+    {
+      "Key": "c11b2c74-670e-4a96-afa5-6536b7957ee4",
+      "Value": "\"Larzio will have to find his own stage. We shall not help him.\""
+    },
+    {
+      "Key": "e41a33cf-025b-4290-9008-651312852e34",
+      "Value": "\"Make your own decision.\""
+    },
+    {
+      "Key": "fa6795e4-7aea-4339-9f60-11d277eb1669",
+      "Value": "\"{name}, I bring wonderful news: Larzio Messus has finally finished his opera! All that's left is to direct and stage it!\""
+    },
+    {
+      "Key": "419b7f88-6838-4f21-b3f1-4a8ea45127e9",
+      "Value": "\"We could help him find a venue — for example, we could let him use the main square! That alone would already solve a lot of his problems. But it would be even better if we funded the production! He's already found all the singers and has an orchestra ready to perform, but he cannot afford any spectacle. — The colors, the costumes, the decorations...\""
+    },
+    {
+      "Key": "9ea3261e-b1bf-4215-99fe-3cc087564f30",
+      "Value": "\"I bring news from Larzio Messus, Your Highness. Despite all his difficulties, he was able to finish his opera. He has already found singers and an orchestra — all he lacks now is a stage. I am, however, sad to inform you that he's also been taken ill. He's suffering from consumption, and this may well be his final request...\""
+    },
+    {
+      "Key": "cc925132-828e-4a88-8b8b-78c729d2210b",
+      "Value": "\"I believe we should help him this time. — Not in everything, of course. By if we allow him to set up his stage on the main square, we would allow his opera to gather the audience it deserves, without influencing its substance in any way. However, I would advise against funding the production, Your Highness. Theatrics only distract the viewer from the true meaning of what is happening on the stage.\""
+    },
+    {
+      "Key": "c8d07208-6ebc-476e-8c8a-6e00a7a58b69",
+      "Value": "\"Astounding. Despite everything he's endured, Larzio Messus has finished his opera! He's even found the singers and an orchestra, but is now confined to his bed, suffering from consumption. He has asked that you find him a stage. His condition grows worse by the day. — It may well be that this is his last request... and our last opportunity to influence the result of his work.\""
+    },
+    {
+      "Key": "35276508-d18b-46af-949a-c814477a275c",
+      "Value": "\"We should allow him use of the main square, and even take it upon ourselves to build a stage for his premiere. Moreover, we might fund the production and ensure his troupe receives all the best decorations and costumes. The more he owes us, the easier it will be to convince him to censor any part we find disagreeable – and add as much fanfare and eulogies as we like.\""
+    },
+    {
+      "Key": "0bff27f7-e91f-464c-beb2-58fc364ced90",
+      "Value": "{n}Jaethal takes a graceful bow.{/n} \"It shall be done.\""
+    },
+    {
+      "Key": "1a01936c-c5e3-4f8b-820a-1bbd4d586a11",
+      "Value": "\"Oh, how wonderful! You'll see – this will be nothing short of magical!\""
+    },
+    {
+      "Key": "7bcd9d7b-87d3-4b9b-be00-e7fbf40df37e",
+      "Value": "\"It is not the decision I would make… but it is not up to me.\""
+    },
+    {
+      "Key": "64da8615-70b2-4bf0-856b-92d3526e5acf",
+      "Value": "\"Thank you, {name} — Larzio will be very grateful!\""
+    },
+    {
+      "Key": "b70e00bc-f025-4ca4-abc8-bdb8fd7ed65c",
+      "Value": "{n}The Storyteller bows.{/n} \"I shall make the arrangements.\""
+    },
+    {
+      "Key": "71cb5600-c20b-4907-aa8e-344f4f088650",
+      "Value": "\"I see. Well, that should be just enough.\""
+    },
+    {
+      "Key": "8c359289-463b-4629-a1da-a67ada2dda44",
+      "Value": "\"You might not believe this, {name}… but Larzio Messus, the composer, has approached me once again! The poor fellow has finally finished his opera, and now he's been taken ill by consumption. He needs to find a stage to present his work to the public, but he's been bedridden for a week now. This may well be his final request...\""
+    },
+    {
+      "Key": "36832d87-a556-4f46-afb6-a1d86cccbcb7",
+      "Value": "\"Good news, Your Highness! — The composer Larzio Messus has finished work on his opera. Now all he lacks is a venue suitable for a premiere of such consequence.\""
+    },
+    {
+      "Key": "e648fe11-bfbb-4874-a975-36c65b5a4db5",
+      "Value": "\"My young and precious friend, Larzio Messus, has finally finished his opera. He spends all his days dreaming of the premiere, but he still lacks a few key resources: a worthy stage and the funding necessary for a magnificent, colorful production.\""
+    },
+    {
+      "Key": "5550474e-0d58-46b7-b52d-9668db10030c",
+      "Value": "\"I can't say that I understand you thinking… but you're the {mf|King|Queen} — you make the rules.\""
+    },
+    {
+      "Key": "cc09ded9-d050-4861-8ff4-49cec1d265b0",
+      "Value": "\"I understand your thinking, though I would have made a different decision. It will be done, Your Highness.\""
+    },
+    {
+      "Key": "ee493c5d-e961-436f-b204-57ba2cb4bf4a",
+      "Value": "\"A shame. One should never miss an opportunity like this.\""
+    },
+    {
+      "Key": "3a42df88-e906-4082-863d-206f8db85c07",
+      "Value": "\"I'll tell Larzio he can use the main square! And that we'll fund the whole spectacle as well! Oh, this is so exciting!\""
+    },
+    {
+      "Key": "9e12be97-800f-48c3-951c-bc4f22451862",
+      "Value": "\"I shall make the arrangements for building a stage in the main square.\""
+    }
+  ]
+}

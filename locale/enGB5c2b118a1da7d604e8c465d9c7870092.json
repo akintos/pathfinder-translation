@@ -1,0 +1,253 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "1222d1fc-e492-488f-85ef-cc3fc5051338",
+      "Value": "[Examine the guests from Mivon]"
+    },
+    {
+      "Key": "9feea498-2c76-42c3-8139-4fb24f5c54dc",
+      "Value": "[Examine the guests from Pitax]"
+    },
+    {
+      "Key": "997bb1dd-e267-4871-9995-b8511246d186",
+      "Value": "\"What's in the chest?\""
+    },
+    {
+      "Key": "a0fea33f-1233-449d-8498-4856640a8921",
+      "Value": "[Start the hunt] \"I'm ready.\""
+    },
+    {
+      "Key": "1b8e9084-70b0-4a24-ada4-2f38d94e331f",
+      "Value": "\"Tell me about the Embeth Travelers.\""
+    },
+    {
+      "Key": "52cf7121-50eb-4c45-b6ff-cac7758acf2f",
+      "Value": "\"How goes the hunt?\""
+    },
+    {
+      "Key": "52d1483b-7aae-417a-a4b9-df5fbb0b9249",
+      "Value": "[Finish the hunt] \"Sound the horn. The hunt is over.\""
+    },
+    {
+      "Key": "d00113f5-0feb-4f6e-b12c-9d341c8816cd",
+      "Value": "[Leave] \"I should go. There may still be time for another trophy.\""
+    },
+    {
+      "Key": "f262c8f9-cd7f-4be3-a9d1-a42411446e26",
+      "Value": "[Place your hand on your weapon] \"Are you certain? My victory seemed obvious, but if you disagree, I suppose we could determine the winner with one final match.\""
+    },
+    {
+      "Key": "2c15077e-7a1a-46cf-93bc-c9d8e287b451",
+      "Value": "[Leave] \"The hunt is officially over. Thank you all for your participation!\""
+    },
+    {
+      "Key": "b548f3d9-7dec-4dec-9262-d69949bb88da",
+      "Value": "\"How did our Mivoni guests fare?\""
+    },
+    {
+      "Key": "77a75c18-520f-4594-a5e2-ce1c765cfb76",
+      "Value": "\"How did our Pitaxian guests fare?\""
+    },
+    {
+      "Key": "8c38a5d5-f1f0-401c-8540-e3ba0e095f56",
+      "Value": "\"How did the Embeth Travelers fare?\""
+    },
+    {
+      "Key": "46f9dbd9-5d9a-4692-81ed-b9295b590431",
+      "Value": "\"Who won?\""
+    },
+    {
+      "Key": "28becc02-7c10-496c-831c-a7776d190961",
+      "Value": "\"As these are my lands, it seems only fitting that I should judge this competition. And I declare myself the winner!\""
+    },
+    {
+      "Key": "c6e61e43-b6d3-4963-a24f-8dbbbac270ba",
+      "Value": "\"Don't be upset! You can try your luck with one of the other guests.\""
+    },
+    {
+      "Key": "8d4249c8-30fb-4012-b278-8c753ba7d73f",
+      "Value": "\"I think you're teasing me on purpose.\""
+    },
+    {
+      "Key": "dc796dda-df2d-4793-bdca-ef936bf17065",
+      "Value": "{n}The leader of the {g|Embeth Travelers}travelers{/g}, a graying man with strong hands and sharp eyes, greets you with a nod.{/n} \"Your Grace. Thank you for hosting this hunt.\" {n}He turns toward the guests.{/n} \"Dear guests, welcome! I am Jamel Visser, of Embeth Forest. I've no talent for speeches, so let us proceed to business.\""
+    },
+    {
+      "Key": "14d7468b-1b17-43a6-b3f6-47c7bf1cc1ec",
+      "Value": "\"This is no normal hunt. Rather than hares or deer, our prey shall be owlbears, hydras, and wyverns. These targets would be dangerous enough anywhere, but on these grounds, we've found extraordinarily large and fierce specimens. We aim to eliminate them before they can find their way to any civilians.\""
+    },
+    {
+      "Key": "1f958fb8-b17a-42d1-b1c5-d1143e3b3ee5",
+      "Value": "\"To make the hunt a bit more interesting, we've decided to add an element of competition.\" {n}Jamel displays a gold-trimmed chest to the gathered audience.{/n} \"There are three dire monsters on the grounds. I'm willing to bet my crew will gather two heads at least. But if one of the other parties bests us and gathers two, or even all three trophies, they'll be rewarded with a valuable prize. Don't dally, though — we won't be waiting for anyone! Is everyone ready?\""
+    },
+    {
+      "Key": "22fb82ca-56c5-495d-8614-5bfb4a40a126",
+      "Value": "{n}The two {g|Swordlords}swordlord{/g} sisters represent the {g|Mivon}Mivoni{/g} Aldori. As they inspect their equipment, the elder sister, Edna, can be heard scolding the younger, Julia. Julia sighs and rolls her eyes, but she doesn't interrupt her sister.{/n}"
+    },
+    {
+      "Key": "d127737b-59d4-4180-8b86-e645b3179a34",
+      "Value": "{n}Annamede Belavarah, one of the most popular bards in {g|Pitax}Pitax{/g}, has come as an emissary of King Irovetti. She doesn't seem to have brought any hunting gear.{/n}"
+    },
+    {
+      "Key": "c5a1d1f9-7ae8-4aa9-992e-7970b2d98c35",
+      "Value": "\"That's for the winner to find out! There's no prize better than surprise, or so it's said.\""
+    },
+    {
+      "Key": "3b941ea8-3b98-402b-b944-2c2ced763169",
+      "Value": "\"Let us begin! The hunting grounds are an hour's travel from here. Don't waste any time; we won't hesitate to bag all the trophies!\""
+    },
+    {
+      "Key": "85b131eb-2600-4427-93cc-7fcf7d3c7e72",
+      "Value": "{n}The huntsman fiddles with a small spyglass.{/n} \"Can't see much from here. I wish I could join the hunt a get a couple of heads myself!\""
+    },
+    {
+      "Key": "947a591f-94fa-4a51-b49a-982690677f5a",
+      "Value": "\"Hmm, what would be of interest...\" {n}The huntsman scratches at his unshaven chin.{/n} \"Embeth Forest is a strange place, even for the {g|River Kingdoms}River Kingdoms{/g}. It teems with magic. The fey who live there believe there's no place for humans. Obviously, we believe otherwise.\""
+    },
+    {
+      "Key": "cccd6565-0cc8-4609-9577-37b587135ffb",
+      "Value": "\"We've been fighting them for centuries. Seen a lot in that time. But I must say, the beasts you're dealing with here are new even to us. As we're practically neighbors, it seemed only right to offer our help to you. Especially since, if these creatures managed to eat all of you — {g|Erastil}Erastil{/g} forbid! — they may just go for us as a second course.\""
+    },
+    {
+      "Key": "fabf3053-86f8-4c88-b17f-741e76e0dcc3",
+      "Value": "\"Can't see much from here, but my crew wastes no time. If you don't hurry, there may be no trophies left for you!\""
+    },
+    {
+      "Key": "6ecb3720-a1ff-49f8-938d-21550648e395",
+      "Value": "\"A good hunt to you!\""
+    },
+    {
+      "Key": "9f48cfa7-36e3-44a5-894d-7688ec721cc4",
+      "Value": "\"Our honorable guests from {g|Pitax}Pitax{/g} managed to bag... a single squirrel! Well, I hope they at least had a good time.\""
+    },
+    {
+      "Key": "7acc5bf7-9e4c-458b-9600-10d30867fc57",
+      "Value": "\"Our honorable guests from {g|Mivon}Mivon{/g} fought one of the monsters, but they couldn't defeat it. Their bodies are on their way home as we speak. With any luck, Mivoni Aldori can afford the resurrections. Let their fate be a lesson to anyone who would underestimate the threat of magical beasts!\""
+    },
+    {
+      "Key": "88adc602-6c71-4bc5-887e-9a2d9408ca4d",
+      "Value": "\"Our honorable guests from {g|Mivon}Mivon{/g} fought one of the monsters but barely survived. Fortunately, {mf|His|Her} Grace's timely arrival forestalled tragedy. We wish them better luck next time!\""
+    },
+    {
+      "Key": "27c0c28c-2b56-442a-8eb8-84856276a051",
+      "Value": "{n}The {g|Embeth Travelers}travelers'{/g} faces grow dark as they put their hands on their weapons, but Jamel simply shakes his head and hands the chest to you.{/n} \"Your lands, your rules. But do mind, Your Grace — such behavior can make it hard for one to keep their throne.\" {n}The travelers leave.{/n}"
+    },
+    {
+      "Key": "44042099-65d7-45f8-8cd7-d5e6658469f0",
+      "Value": "\"As you wish.\" {n}The huntsman opens the window and sounds the horn.{/n}"
+    },
+    {
+      "Key": "10475327-925c-4d20-b8d8-b1fdf5d6fcff",
+      "Value": "\"Is something wrong, Your Grace? I see you have no trophies as yet. You'll lose the competition if you don't hurry!"
+    },
+    {
+      "Key": "8b1d847a-8c48-456d-9616-8bfe708f3145",
+      "Value": "\"You've defeated one of the dire beasts! Impressive. If you don't hurry, though, you'll find the other two trophies in our hands!\""
+    },
+    {
+      "Key": "7b6f2400-0b38-4529-abe5-023a12c6174f",
+      "Value": "\"Two trophies! I'd never have guessed that you would best us like this. Would you like to announce the end of the hunt, or do you hope to claim yet another trophy?\""
+    },
+    {
+      "Key": "272b09ec-e517-4295-9bd7-150fa57b64da",
+      "Value": "\"You defeated all three of the monsters? I'd have never thought my crew would perform so poorly. Well then, shall we end the hunt now?\""
+    },
+    {
+      "Key": "b5290e98-2bc2-4851-964d-c7938db89a2b",
+      "Value": "\"It seems all three beasts have been slain. Should I signal the hunters to return?\""
+    },
+    {
+      "Key": "e3bc0263-a11c-4d43-a8c6-e7e227fbd16a",
+      "Value": "\"Now that the hunt's over, let's see how it turned out!\""
+    },
+    {
+      "Key": "c33fc409-3e70-4881-a8e5-26c63e8acb50",
+      "Value": "\"Our honorable guests from {g|Pitax}Pitax{/g} seem to have headed home before the hunt was officially over, and without killing a single beast. They must have had something urgent to attend to.\""
+    },
+    {
+      "Key": "6c79b484-8c23-4aa5-a59b-ba04e15cbda4",
+      "Value": "{n}Jamel frowns.{/n} \"One of our teams hasn't returned. We're searching for them now. They're experienced hunters, but during a hunt, anything is possible... I hope they're all right.\""
+    },
+    {
+      "Key": "506ec0eb-8adf-4c49-9276-b3203cca50cb",
+      "Value": "\"Your Grace was kind enough to allow us the honor of acquiring all three trophies.\" {n}On the huntsman's sign, the travelers present three bags, each containing the head of one of the dire monsters.{/n}"
+    },
+    {
+      "Key": "cc758eb0-7889-40af-a28c-486e782bb386",
+      "Value": "\"{mf|His|Her} Grace, noble ruler of these hunting grounds, has slain one of the beasts with a skill that would have made any Embeth Travelers proud — but we still acquired the other two trophies.\" {n}On the huntsman's sign, the Woodsmen present two bags, each containing the head of one of the dire monsters.{/n}"
+    },
+    {
+      "Key": "80019d6e-3864-4292-bf95-8b11c7fb352e",
+      "Value": "\"We defeated one of the beasts, but {mf|His|Her} Grace, noble ruler of these hunting grounds, has accomplished a true feat in gathering more trophies than us! Such skill deserves deep and genuine respect.\" {n}The huntsman bows deeply toward you.{/n}"
+    },
+    {
+      "Key": "974d4a2a-68ec-4b91-acac-ef25bdb4126d",
+      "Value": "\"It's a rare thing for the {g|Embeth Travelers}Embeth Travelers{/g} to go home empty-handed, but today is such a day! We gained not a single trophy — each monster was slain by the noble ruler of theses hunting grounds!\""
+    },
+    {
+      "Key": "fd5a5d2a-681c-43a8-bac6-1bf7d7c38c13",
+      "Value": "\"No one, Your Grace! We'll hold on to the prize.\""
+    },
+    {
+      "Key": "ac8c442c-a04b-4d64-8c6f-b680c9c7e35a",
+      "Value": "\"You, Your Grace!\" {n}The huntsman solemnly hands you the chest.{/n}"
+    },
+    {
+      "Key": "db3971a9-bd38-4081-8b3d-5d5be24d46f5",
+      "Value": "{n}Noticing your look, the bard smiles playfully.{/n}"
+    },
+    {
+      "Key": "37f9b4c4-b3d9-4fee-a18e-a366c442c701",
+      "Value": "{n}Ekun frowns.{/n} \"This is no game. People are dying.\""
+    },
+    {
+      "Key": "5d56e3f2-4275-403a-9cf4-a871c5146b6c",
+      "Value": "\"Whoa! You know who that is? It's Annamede herself! When she taught poetics at the {g|Academy of Grand Arts}Academy{/g}, all the guys there sent her love letters... and half the girls, too!\" {n}Linzi whispers excitedly. You notice a blush spread over her face.{/n}"
+    },
+    {
+      "Key": "4398c433-36e1-455b-8e63-7004ae59465e",
+      "Value": "\"Fey, big deal! We have giants!\" {n}The huntsman listens to Amiri with a smile.{/n} \"And mammoths! Sabertooth tigers! And we don't complain. You know what we do? We eat them!\""
+    },
+    {
+      "Key": "2b6d5647-b910-4939-bc48-7e98e9f3a371",
+      "Value": "\"I'm pleased for both you and your appetite. May I finish answering the question now?\""
+    },
+    {
+      "Key": "00ad05a4-9ac5-4c96-bf34-da89c37be59d",
+      "Value": "\"So, you're just being your usual self! Remind me to never sit at a card table with you.\""
+    },
+    {
+      "Key": "484ff651-12cd-4557-b356-9c2ba9270978",
+      "Value": "\"Hunting is fun. Back in {g|Kyonin}Kyonin{/g}, I also enjoyed hunting. Wasn't exactly hunting beasts, though.\""
+    },
+    {
+      "Key": "54dd5da5-7487-4cc9-b4a1-1c6e50d33616",
+      "Value": "{n}Octavia looks at Jamel with a lingering, delighted look.{/n} \"You're so brave. Maybe while they're out hunting, you and I could... take a walk in the forest? You could tell me of your feats, and of monsters you defeated...\""
+    },
+    {
+      "Key": "4e648894-7ace-42a4-a751-54b450b60da4",
+      "Value": "\"Forgive me, my lady, but perhaps another time. I'm happily married, you know!\""
+    },
+    {
+      "Key": "b14817a7-ee6d-4fc0-83ee-fb60ce955b17",
+      "Value": "{n}Octavia defiantly looks you in the eyes.{/n} \"Something wrong? I'm a free person, right? Or do you want to forbid me from talking to others? Maybe chain me up, too?\""
+    },
+    {
+      "Key": "33e69301-c04f-455a-8bb1-31afe340cd79",
+      "Value": "\"Nah. I'm not in the mood anymore!\""
+    },
+    {
+      "Key": "3efea47f-1205-46da-a377-5e9a77f9e8fb",
+      "Value": "\"What made you think that? I'm just having fun. This is a celebration, right?\""
+    },
+    {
+      "Key": "08823f02-1bf2-4bbf-aa32-c45a58e9edfa",
+      "Value": "\"Well I'll be damned... Ahem! Your Grace! Did you want to ask me something?\""
+    },
+    {
+      "Key": "93a9a3db-2e5a-4c87-b79c-886cbec6ae19",
+      "Value": "\"What? He doesn't want it, and that's fine. We're all free people here, aren't we?\""
+    }
+  ]
+}

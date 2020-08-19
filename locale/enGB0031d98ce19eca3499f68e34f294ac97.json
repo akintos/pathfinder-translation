@@ -1,0 +1,193 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "ef76d7ad-86fa-4a38-9387-c70023d476af",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "4b38066b-5895-47c6-941a-cf7abb0325c5",
+      "Value": "\"What are you doing here?\""
+    },
+    {
+      "Key": "3760f6f2-5188-4aca-ab92-52d48fc8a8ba",
+      "Value": "\"Dugath sent me.\""
+    },
+    {
+      "Key": "d1dda274-4f83-4c16-9963-ef8dfb8e23a6",
+      "Value": "\"The Defaced Sister sent me.\""
+    },
+    {
+      "Key": "927fd63b-9492-473b-8e74-bb2abf85a446",
+      "Value": "\"I'm just a passing traveler.\""
+    },
+    {
+      "Key": "b1cf7a22-cfd0-4980-854f-8a46de877238",
+      "Value": "[Attack] \"I'm not here to talk.\""
+    },
+    {
+      "Key": "401dc763-254a-410f-8f84-e1dd07c5018b",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "dd37bdbf-3fa7-4454-950e-c01319fa6690",
+      "Value": "\"Do you know anything about what happened in Varnhold?\""
+    },
+    {
+      "Key": "5574a18f-ddff-4e99-bc7f-fbc210c403e3",
+      "Value": "\"Cyclopes killed everyone.\""
+    },
+    {
+      "Key": "4ea04534-4582-4ca1-9c91-711251d0c947",
+      "Value": "\"Your people were killed by cyclopes. As for the Sister — I killed her.\""
+    },
+    {
+      "Key": "f48b18ce-3dac-4d99-a1ed-7443b0ccb080",
+      "Value": "[Attack] \"I killed them all. And I'll kill you, too.\""
+    },
+    {
+      "Key": "81d77cdb-3cc5-452d-9d7e-ea03c3920a9a",
+      "Value": "[Attack] \"I felt like it. And right now, I feel like killing you, too.\""
+    },
+    {
+      "Key": "8a835892-8133-4ec4-a0da-7c9e414d081f",
+      "Value": "\"Calm down. It was on Dugath's orders.\""
+    },
+    {
+      "Key": "e35a7195-3b4c-488f-a1b9-ccb1bc9a06ab",
+      "Value": "\"The Defaced Sisters betrayed you. You were brought to these ruins to die.\""
+    },
+    {
+      "Key": "aab1a962-1bed-4a74-a72e-fc7379f09079",
+      "Value": "\"Farewell.\""
+    },
+    {
+      "Key": "d95a3a13-814a-403f-9560-ba9506f64e03",
+      "Value": "[Attack] \"Give it your best shot, then!\""
+    },
+    {
+      "Key": "9732a988-0e3c-4f92-8932-ae9744c15fb6",
+      "Value": "\"Deal.\""
+    },
+    {
+      "Key": "bf557b18-56ec-458c-a103-0ae6ca06f009",
+      "Value": "\"Maybe. I'm not promising anything.\""
+    },
+    {
+      "Key": "7769d196-7c90-4b6d-8607-a00fb9f0547f",
+      "Value": "\"I don't have time for it.\""
+    },
+    {
+      "Key": "076bb74b-58a5-4441-9345-aa82bcdc8ac1",
+      "Value": "\"Are you an aasimar?\""
+    },
+    {
+      "Key": "513c1454-bae2-418a-a661-8c6798450287",
+      "Value": "{n}A huge scar crosses the face of this sturdy, silver-haired woman. An eye patch hides her left eye, while right shines with silver. She raises her bloody blade in a salute.{/n} \"You came just in time! We owe you one.\""
+    },
+    {
+      "Key": "5526e07b-8e65-4116-a837-b1aefb1580c3",
+      "Value": "{n}The barbarian sharpens her sword and inspects the edge. She takes her time as she lifts her single eye to fix an ice-cold glare on you.{/n} \"And what brings you here?\""
+    },
+    {
+      "Key": "fea52790-9e47-4048-b937-963de0d09cf1",
+      "Value": "\"I'm Hilla the Toothgrinder, from the {g|Tiger Lords}Tiger Lords{/g} tribe. This is my war party. We're here, uh... Fighting things. As you can see.\""
+    },
+    {
+      "Key": "23cacd67-3056-4cb4-a4e2-4c86bb514af7",
+      "Value": "\"What do you care? We came here, so we obviously have business here. What about you? What are you doing here?\""
+    },
+    {
+      "Key": "15e2a8d5-8bc7-41ca-84c2-ec28dee48b9f",
+      "Value": "\"What? Why? Does the old man think we can't handle it ourselves? Huh!\" {n}Hilla looks around briefly, then back to you.{/n} \"Well, to be honest, you really did help us... How about helping with one more thing?\""
+    },
+    {
+      "Key": "d6da3771-6a21-4aa2-b437-65b2c1edb798",
+      "Value": "\"Ah, I see. It was a good call. They may be witches, but they're smart. We really needed extra hands here.\""
+    },
+    {
+      "Key": "ecfd1869-8e62-4701-afa0-6805912dfa25",
+      "Value": "\"Here's the deal — we came with one of the witches to look for some trash in the tomb. We set camp, and the Sister took some of my people to the ruins around dawn. Never came back. Instead, these zombie cyclopes started crawling out on us from all over the place. Fun day, huh?\""
+    },
+    {
+      "Key": "e0faa7bc-e192-48ad-b45e-ed1357a84e69",
+      "Value": "\"You're quite the fighter for a 'passing traveler.' How'd you like to make a few quick coins here?\""
+    },
+    {
+      "Key": "8f42ac90-5fec-4eba-ac18-39ad31461729",
+      "Value": "\"My group can't afford to be separated now — we only barely fought those things off. So how about this — you scout the place and look for our people, find out if any of them are still alive, and I'll pay you in gold. Deal?\""
+    },
+    {
+      "Key": "c302291a-4a04-437d-879a-c60a7e61b8a3",
+      "Value": "\"Ah, there you are. Good job. A shame the rest of the group is gone, but at least the witch is intact. Here — for your trouble.\""
+    },
+    {
+      "Key": "ef82146a-5809-44e0-b864-7abcd16cab06",
+      "Value": "\"Hey, what news? Did you find the rest of my people? How about the witch?\""
+    },
+    {
+      "Key": "da218cc6-c41a-430f-b41e-09a7d544ae59",
+      "Value": "\"Hey, hold up. You don't seem like a total weakling — want to make a few quick coins?\""
+    },
+    {
+      "Key": "e42ffd50-3633-4970-a9ba-bec88e4dd75f",
+      "Value": "\"We should leave now. Visit our camp sometime — we'll share a drink.\""
+    },
+    {
+      "Key": "d1ea4cc0-3323-48ae-b739-ee8e495de76a",
+      "Value": "\"{g|Varnhold}Varnhold{/g}? {d|Varn}Maegar Varn{/d}'s village? No idea. Varn's a weakling — I used to knock him flat on his back. All his folks, too. You want real fighters, you go for {g|Numeria}Numerians{/g}!\""
+    },
+    {
+      "Key": "fb9c6075-79b9-4c0e-8791-21c877fc697f",
+      "Value": "\"Damn! This whole expedition's been nothing but trouble from the word go. Well, guess there's nothing left for us here — we're leaving. Here's your money — you earned it.\""
+    },
+    {
+      "Key": "4c8bbc9e-a3bf-4c7e-806d-3e2267052aef",
+      "Value": "{n}The barbarian narrows her eyes menacingly as she grips her sword.{/n} \"Seems to me that you're lying. You killed them, didn't you?\""
+    },
+    {
+      "Key": "6d001bef-ba02-4e11-bfc5-683d084214a4",
+      "Value": "{n}The barbarian draws her sword.{/n} \"What? Why?!\""
+    },
+    {
+      "Key": "1a71534b-4647-466a-8aad-d6fa214146c5",
+      "Value": "{n}Hilla sheathes her sword.{/n} \"So that's how it was. And to think I trusted them. Damn! This whole expedition's been nothing but trouble from the word go. Well, guess there's nothing left for us here — we're leaving.\""
+    },
+    {
+      "Key": "abec689e-86cc-4ef0-87aa-e20564846016",
+      "Value": "\"Lying scum! Everyone, to arms! Rush {mf|him|her}!\""
+    },
+    {
+      "Key": "447b37db-e23b-44dc-8287-1e5c13e55129",
+      "Value": "{n}Hilla sheathes her sword with a single abrupt motion, then spits.{/n} \"Dugath ordered it, huh? All right — I'm going to have a serious conversation with that old fart! As for you — get out of here, before I knock you out cold.\""
+    },
+    {
+      "Key": "b5d35615-37c6-436a-a3fd-b6bc006d9862",
+      "Value": "\"Go on, then. And hurry — I'm tired of this place.\""
+    },
+    {
+      "Key": "38472dad-017f-4a10-9543-f9d36bc1d161",
+      "Value": "\"Great.\""
+    },
+    {
+      "Key": "10a36978-8b63-4ed9-9448-97a0a8f307c9",
+      "Value": "\"Fair enough. If you go there after all, the gold will be waiting for you.\""
+    },
+    {
+      "Key": "2332492f-bd67-4612-811e-b3b151322f36",
+      "Value": "\"Do as you please. If you change your mind and go there after all, the gold will be waiting for you.\""
+    },
+    {
+      "Key": "75e4ff0a-fc8d-451a-a4c3-862f232d68bf",
+      "Value": "\"Yes! Hold on, {g|Numeria}Numerians{/g} — let's see how brave you really are!\""
+    },
+    {
+      "Key": "2d135da0-e51e-418c-8aba-8012c67b1ea8",
+      "Value": "\"To arms! Rush {mf|him|her}!\""
+    },
+    {
+      "Key": "f18cefd5-73aa-435a-84ed-cb45ec7ed6b0",
+      "Value": "\"What, don't I look like a celestial? Ha ha! Yes, I'm an aasimar. No idea which of my great grandmothers made it with a celestial, but in my entire lineage, the blood only manifested in me. I'm sure that was the plan all along — it's a common custom to strengthen the bloodline with the blood of orcs or whatever powerful beings come in handy. My birth was deemed a good sign, and proof of the gods' blessing, but I call it bullshit. The gods' blessing should be earned on the battlefield!\""
+    }
+  ]
+}

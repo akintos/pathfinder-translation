@@ -1,0 +1,109 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "9ce79b9f-a49e-49ac-bdb6-ec9feb0e8180",
+      "Value": "\"Right. I can't wait to end this nightmare once and for all.\""
+    },
+    {
+      "Key": "e2e42db4-fd53-4a7a-b263-faccf79d5cfe",
+      "Value": "\"What makes you think so? Have you been here before?\""
+    },
+    {
+      "Key": "c6a5b019-cc3c-4269-9cf5-84e807b44a78",
+      "Value": "\"What's the matter, Tristian? Frightened?\""
+    },
+    {
+      "Key": "b5d8f872-a822-4395-bdd4-5d9cdd7f2eb7",
+      "Value": "\"Enough talk, we need to move on.\""
+    },
+    {
+      "Key": "0df090fc-6688-4b26-a9d0-51029b752a4e",
+      "Value": "\"You've been acting strangely ever since we've entered this tomb. What's the matter?\""
+    },
+    {
+      "Key": "8c804e06-5e7c-45be-92c5-db52ef985daf",
+      "Value": "\"You insisted on accompanying me, and now that you're here, you're acting strangely — what's the matter?\""
+    },
+    {
+      "Key": "690990bf-2056-4f9d-ab82-6e5649de4055",
+      "Value": "\"Is there something you're not telling me?\""
+    },
+    {
+      "Key": "bc81a7aa-d73c-4ee9-9aea-7d818b016756",
+      "Value": "\"Are you ready? What lies ahead may be the end of us.\""
+    },
+    {
+      "Key": "d4e033f0-9d70-49d5-89bc-a7639652e026",
+      "Value": "\"Let's go.\""
+    },
+    {
+      "Key": "a89fd5e1-bac7-40fd-babc-fb956d88fb12",
+      "Value": "\"Whatever awaits us, we will face it. This is no time for last words between us.\""
+    },
+    {
+      "Key": "34c48009-c676-4041-a448-e90807e19ee9",
+      "Value": "\"My last words for you? I'd say that you were my ally and my friend. I could always count on your support. And if it was within my power, I'd do all I could to keep you by my side.\""
+    },
+    {
+      "Key": "5faeff4c-2f55-49f9-9aac-b0033091ba70",
+      "Value": "\"I'd regret we had so little time together and wish you luck on your path.\""
+    },
+    {
+      "Key": "db4861a6-2ccc-4728-9036-3ea4455e2672",
+      "Value": "\"Would I spare 'last words' for a chisel, a hammer, or any other tool, no matter how useful? Thus, cleric, I have none to spare for you.\""
+    },
+    {
+      "Key": "5aaa9ac4-7388-4a9a-8f27-602115403a32",
+      "Value": "\"Tristian, enough already — I need you to pull yourself together and focus.\""
+    },
+    {
+      "Key": "f1843264-a5d4-4e0b-9115-406f62bff036",
+      "Value": "{n}Tristian's voice drops, as if he's afraid of being overheard.{/n} \"The heart of the tomb. Vordakai is close now.\""
+    },
+    {
+      "Key": "9372180c-7336-4e43-9a59-20ed7086d999",
+      "Value": "\"Yes, it's time to finish this.\" {n}Tristian echoes your words.{/n} \"Once and for all.\""
+    },
+    {
+      "Key": "289bd206-768c-48be-8cda-97e23d3fd0e9",
+      "Value": " \"What? No, of course not. But like all who follow {g|Sarenrae}Sarenrae{/g}...\" {n}Tristian shivers, then winces, as if in pain.{/n} \"...I can feel the evil in this place, thick like the stench of rot and decay.\""
+    },
+    {
+      "Key": "44213a3b-0c0b-4800-9a73-7b93d857545e",
+      "Value": "{n}Tristian shakes his head.{/n} \"No, {name}. Though, now I think upon it, I suppose I am scared. But not of what lies behind this door.\""
+    },
+    {
+      "Key": "91374696-2de3-41f7-87d4-ae2bbbb475da",
+      "Value": "{n}Tristian shakes his head.{/n} \"It is no matter, {name}. This place... it feeds on doubt, fear... loss.\" {n}Tristian raises his head and looks at you, as if to steady himself.{/n} \"If we were to never see each other again... would you have any last words for me?\""
+    },
+    {
+      "Key": "900033f4-3c1d-4d57-a892-0c66c760a56a",
+      "Value": "{n}Tristian nods silently, and says no more.{/n}"
+    },
+    {
+      "Key": "41ca1971-23ff-4752-bde4-44f06e2adae4",
+      "Value": "\"I have shared all I can.\" {n}Tristian smiles wearily.{/n} \"Each of us has secrets and burdens we must carry alone, for the weight is not lessened in sharing them. So are your secrets yours to keep and share as you decide.\""
+    },
+    {
+      "Key": "75c678cc-5d0a-4d06-bc10-baf800dd1e49",
+      "Value": "{n}Tristian is still for a moment, then nods.{/n} \"Yes. I am ready. Even if it means the end of us.\""
+    },
+    {
+      "Key": "0266e1c6-53bf-41e4-b64b-3ac23567cbf7",
+      "Value": "\"Vordakai conquered these lands once, and could do so again, easily, with the artifact he possesses.\" {n}Tristian's voice is level.{/n} \"I may not survive this confrontation. If not, I would like to know who I was to you.\" {n}Tristian meets your gaze calmly, but you feel a sudden sense of loss, as if speaking to a drowning man.{/n} \"I need to know if I mattered to you.\""
+    },
+    {
+      "Key": "5c713249-0c26-4896-b09e-eb97456a0b38",
+      "Value": "{n}Tristian smiles, but it is tinged with sadness.{/n} \"Ever since I met you, I have thought myself blessed to stand with a {mf|hero|heroine} such as you.\" {n}Tristian pauses, his face conflicted.{/n} \"But this blessing — it was not the gods, it was your strength, and for that…\" {n}Tristian stops, then simply nods.{/n} \"For that, let us take faith in each other, and purge the evil from this place.\""
+    },
+    {
+      "Key": "62f0065c-3675-4e40-bf78-d7167053c091",
+      "Value": "{n}Tristian is silent for a moment.{/n} \"We each have a path, and while they may intersect for a time, it is only a matter of time before they part again.\" {n}He nods.{/n} \"I thank you. I am ready… we are ready... for Vordakai.\""
+    },
+    {
+      "Key": "016fb313-4ce6-448e-8818-05c178f3e9da",
+      "Value": "{n}Tristian nods sadly.{/n} \"I thank you for your honesty — not many people are free enough to speak their mind, and much harm is born from not doing so. I admire your strength — and I am ready for what comes.\""
+    }
+  ]
+}

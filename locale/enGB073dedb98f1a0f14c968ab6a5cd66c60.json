@@ -1,0 +1,325 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "8b937fc6-1e75-49ac-a546-b30f5daab63c",
+      "Value": "\"Tell me about yourself, Jhod.\""
+    },
+    {
+      "Key": "d3353660-d962-4466-977b-8257b50d3b10",
+      "Value": "\"Thank you for the story. We may speak more later. Farewell.\""
+    },
+    {
+      "Key": "edcd64bb-6aad-4001-8c18-d8819dd2f181",
+      "Value": "\"What did you do to anger Erastil?\""
+    },
+    {
+      "Key": "9f109dc2-df78-411a-a5c4-d2a6f53f7c94",
+      "Value": "\"To each their own. I wanted to ask you about something else.\""
+    },
+    {
+      "Key": "3a99ba29-0674-48d9-8c48-48c6e24d64ce",
+      "Value": "\"I see. Please continue.\""
+    },
+    {
+      "Key": "039844af-979a-44df-9fe7-c373f6ad08c0",
+      "Value": "\"Still, you saved the village from another danger, did you not?\""
+    },
+    {
+      "Key": "33586a13-0fbb-4b78-a54d-6c1e00044ddd",
+      "Value": "\"What can you tell me about your homeland, Galt?\""
+    },
+    {
+      "Key": "6c129054-ae9e-4bb5-88ee-02c47f99331d",
+      "Value": "\"Tell me about Erastil.\""
+    },
+    {
+      "Key": "2463767e-7ce0-49e1-a2cb-5b1276ff9ebf",
+      "Value": "\"Wait a moment — cities have their strengths as well, don't they? Civilization fosters science, trade and invention, and in that it often improves life for all of us.\""
+    },
+    {
+      "Key": "55a82ab4-acce-45ff-be1f-9a1595ff3439",
+      "Value": "\"Enough stories for today.\""
+    },
+    {
+      "Key": "6c62a5c0-c65a-45f3-ae87-56afe38cfb2e",
+      "Value": "\"You should have stayed your hand and discovered the truth before you acted.\""
+    },
+    {
+      "Key": "1a7c6880-b1ab-4f3f-bac3-8b2dfc5c1c97",
+      "Value": "\"I don't share your opinion. My future capital will be no village, whether you like it or not. One day it will rival Absalom itself!\""
+    },
+    {
+      "Key": "735006f2-a22f-473e-8721-dffccdac0127",
+      "Value": "\"Well, you do have a point. Indeed, cities can be places of evil and wrongdoing.\""
+    },
+    {
+      "Key": "a8772388-6147-4002-81cd-48eb971c5e66",
+      "Value": "\"Do you understand the true meaning of your visions now?\""
+    },
+    {
+      "Key": "c104855f-8c36-42b0-aae8-57714e146dc7",
+      "Value": "\"I've always had respect for Erastil and his priests.\""
+    },
+    {
+      "Key": "b5b50eab-f0c3-47a5-a312-5cbc625be1e4",
+      "Value": "\"I've long felt that Erastil was a worthless god, and now you've made me even more certain.\""
+    },
+    {
+      "Key": "040f4539-9924-4f1f-b704-f6e452cc9f02",
+      "Value": "\"I see no point in arguing.\""
+    },
+    {
+      "Key": "126a9a5c-3ffa-431f-aba2-cfabc6bcfdbb",
+      "Value": "\"What does Erastil demand of his faithful?\""
+    },
+    {
+      "Key": "816078ff-82fd-4466-b30c-04e013fc4e1f",
+      "Value": "\"Tell me about your past.\""
+    },
+    {
+      "Key": "76649991-e983-4849-90a8-2665623857bd",
+      "Value": "\"That's enough for now.\""
+    },
+    {
+      "Key": "f9b55dda-8384-41bd-8497-db2348f78c90",
+      "Value": "\"I've heard of the {g|Temple of the Elk}Temple of the Elk{/g} from a local nymph. She believes a mad druid, who served the Stag Lord, once performed his rituals there. It seems that's where the magic mist comes from.\""
+    },
+    {
+      "Key": "688dc80d-7d18-45fe-a1f5-97b313b395a5",
+      "Value": "\"I went to this temple of yours, but found nothing special. Just ruins, dust and desolation.\""
+    },
+    {
+      "Key": "dfebbb5d-15f9-4f68-902a-1d4bb1e426c1",
+      "Value": "\"Tell me about the visions that led you to the Temple of the Elk.\""
+    },
+    {
+      "Key": "094e29be-36a0-42c2-8cdd-1e123bc6e856",
+      "Value": "\"It seems that Tristian has already told you about our adventures in the Temple. Do you have any advice on what we might do next?\""
+    },
+    {
+      "Key": "eeb09335-bd42-4631-915e-7042b677c4bd",
+      "Value": "\"What do you want from me?\""
+    },
+    {
+      "Key": "a2e486e5-487a-4970-920a-157f3f5f5664",
+      "Value": "\"That's enough about this for now.\""
+    },
+    {
+      "Key": "9c9dbfa0-2329-4315-bfcc-e9d6ce255fd8",
+      "Value": "\"Why do you need to find this temple?\""
+    },
+    {
+      "Key": "32ceb4f3-79cc-404d-a709-e73f52a07ead",
+      "Value": "\"What role might you play in my government?\""
+    },
+    {
+      "Key": "0b05ff53-b3b8-4cf5-9291-ec212ed22acc",
+      "Value": "\"How are you enjoying your duties as the High Priest?\""
+    },
+    {
+      "Key": "f35ff61e-f275-4a43-ab03-c436db3ef269",
+      "Value": "\"It's hard to tell you this, but that vision that led you to the Stolen Lands...\""
+    },
+    {
+      "Key": "14ee60e4-47ff-4ce5-a8e3-d05da9493168",
+      "Value": "\"I need the help of a cleric.\""
+    },
+    {
+      "Key": "a9a38e2e-e3f6-4171-85ba-e9f128cce646",
+      "Value": "\"I found the Temple of the Elk and killed the beasts there.\""
+    },
+    {
+      "Key": "837f2e93-23c2-4b45-a50d-5d76707c3abd",
+      "Value": "\"Of course.\" {n}Jhod nods.{/n} \"The story is a long one. Few would care to listen to it all at once.\""
+    },
+    {
+      "Key": "93f19adb-f375-4ee9-93b9-668feeab88c4",
+      "Value": "\"Tell that to the peasant robbed of all he owns, spending his nights in the gutter, hoping to live to see the sunrise. You won't see such things in a village.\" {n}Jhod mournfully shakes his head.{/n}"
+    },
+    {
+      "Key": "09b3d928-cb3c-4c67-8eb2-520ba33540de",
+      "Value": "\"My story… Why not. You deserve to know it. I am a priest of {g|Erastil}Erastil{/g}, and {g|Galt}Galt{/g} is my homeland. You can imagine what it's like — following the teachings of the Stag God in a realm torn by discord and strife.\""
+    },
+    {
+      "Key": "8519867d-897c-48c7-a01d-a0dc4ea04cff",
+      "Value": "\"Indeed. I remind myself of this every day when I awaken, and again when I go to sleep. I, who'd admonished my fellow citizens for the chaos they spread and the transgressions they made. But then I myself…\" {n}Jhod frowns.{/n}"
+    },
+    {
+      "Key": "2e5fd0ab-ed6e-4df3-bb1b-bcdf46b19434",
+      "Value": "\"That's still no excuse for my actions. I was a fool. I made a grave mistake, and what's worse — in the eyes of my flock, I cast doubt over {g|Erastil}Erastil's{/g} greatness. A priest who can barely hear the voice of his god is a disgrace to his Lord and himself — and corrupts the very people he would save.\""
+    },
+    {
+      "Key": "545e6efe-bd6a-4d2a-bbc7-53c3aaab2e8a",
+      "Value": "\"And so I left, and traveled far, seeking myself, and a way back into the favor of the {g|Erastil}Stag God{/g}. And thus I found you, Your {mf|Grace|Grace|Highness|Highness}, and thus Erastil has returned to me.\" {n}Jhod sighs.{/n} \"For that blessing, I shall be forever grateful to you.\""
+    },
+    {
+      "Key": "fb6a4e73-e87f-4395-92f7-00bf4d9b07b2",
+      "Value": "\"Whatever the case, I knew that {g|Erastil}Erastil{/g} was no longer pleased with me. It was… terrifying.\" {n}Jhod's voice wavers. Even now, one can glimpse inside him the remnants of the horror he lived through.{/n}"
+    },
+    {
+      "Key": "109b529f-3c7b-447d-93ce-3d6599a5b5ad",
+      "Value": "\"How may I serve you, Your {mf|Grace|Grace|Highness|Highness}?\""
+    },
+    {
+      "Key": "48a297a7-27e1-482b-95d0-80b60564295b",
+      "Value": "\"For me, it is a place inhabited by the frightened and the desperate, always suspicious, watchful for trickery. All too often they are deaf to the voice of reason. They cannot grasp that chaos and lawlessness lead only to yet more chaos and lawlessness. All my life I've tried to break through to these poor people, but alas, I don't seem to have made much progress.\" {n}Jhod is visibly upset, and grows silent for a while.{/n}"
+    },
+    {
+      "Key": "11379c3f-8d7f-4b31-be31-f89fae8f90f4",
+      "Value": "\"Led by providence, I left to gather my flock, and we surrounded the tavern. The retribution...\" {n}Jhod clearly has no wish to go into detail.{/n} \"The retribution was swift. However, I was tragically mistaken. The young man was no werewolf. He was a bandit, sent to spy on the village by one of the local gangs. We only found out after, when we went through his things.\""
+    },
+    {
+      "Key": "b02d38e5-53ea-4670-8860-eeb3552fd563",
+      "Value": "{n}Jhod lets out a deep sigh.{/n} \"Well, if you truly wish to know… I'll have to start from a long time back. Werewolves preyed upon the lands around my village. They murdered people for fun or sport, and left the corpses to rot on the roads. One night, they broke into a young woman's house and dragged her into the streets.\""
+    },
+    {
+      "Key": "59caaacd-423f-4be5-8aa8-2098b36f90a5",
+      "Value": "\"For some, it is a land of freedom, where power belongs to the people, not to lords or kings. For others, it's a land of never-ending revolution. — A realm surrendered to anarchy. It depends on who you ask.\""
+    },
+    {
+      "Key": "b9101f15-95b1-45a3-aa3d-3f2040faccb1",
+      "Value": "\"For me, I found {g|Galt}Galt{/g} a…\" {n}He shakes his head.{/n} \"A violent place. Crowds eager to lynch a stranger for their accent or appearance. Where a single word, uttered at the wrong time or place, can spark the people to riot and cities to burn.\""
+    },
+    {
+      "Key": "66eacb4b-b1fd-488e-ae15-5d63a1862920",
+      "Value": "{n}A dark-haired man stands stooping before you. He's in his forties, but at first glance he could easily be mistaken for much older. His weary face is crisscrossed with innumerable wrinkles. His weak eyes squint at the light, and moves his lips silently as if talking to an invisible companion. He raises his head as you approach.{/n}"
+    },
+    {
+      "Key": "d68dd373-7273-4357-9fc4-0cceded24713",
+      "Value": "\"Of course!\" {n}Jhod's smile widens.{/n} \"It would be my pleasure. {g|Erastil}Erastil{/g} is one of the eldest gods of {g|Golarion}Golarion{/g}. His faith emerged when the first people appeared upon the land. Erastil helped our ancestors cultivate the land and hunt. Even now, his blessing lies with those who uphold the old traditions and keep to simpler ways, far from civilization and the noise of the city.\""
+    },
+    {
+      "Key": "a629d301-aa36-4d9d-b36b-7d44d3b8a128",
+      "Value": "\"Rebellion and suspicion are the pillars of {g|Galt}Galt{/g}. Led by {g|Erastil}Erastil{/g}, I tried to guide my flock to embrace tranquility and balance, and guard them from hasty judgment. — Until I fell from grace myself. Foolish, foolish old Jhod!\""
+    },
+    {
+      "Key": "b4866941-20e8-435f-9a0c-7a6d514d68f6",
+      "Value": "\"One evening, a traveler came to our tavern — tattered and dirty from days on the road — like so many others roaming {g|Galt}Galt{/g}. He sat quietly in the corner of the tavern, drinking cheap ale, and in an instant I knew he was a werewolf. I felt it in my soul — it was like {g|Erastil}Erastil{/g} himself had whispered it into my ear.\" {n}Jhod smiles, but his eyes are dead as stones.{/n}"
+    },
+    {
+      "Key": "54491498-86f2-4570-98a0-3b92323f903b",
+      "Value": "{n}Jhod looks saddened.{/n} \"As you wish. Still, lend your ear to this old man's words — don't brush away the wisdom of ages past. I came here to spread the kindness of simple village life, which is often lost and forgotten in the noise of an indifferent city.\""
+    },
+    {
+      "Key": "8704e1eb-ca02-4295-910c-1581095b044c",
+      "Value": "\"I am glad to hear you agree. These days many are deaf to the wisdom of generations.\""
+    },
+    {
+      "Key": "0bf87c0b-6c8a-4814-9aaf-ed40b7cf38ad",
+      "Value": "\"I am happy to help.\""
+    },
+    {
+      "Key": "5f0dc9b4-8bf5-4666-9b82-9ab2f573e5e6",
+      "Value": "{n}A smile lights up Jhod's face.{/n} \"I see it more clearly every day. — {g|Erastil}Erastil{/g} himself led me to meet you. Your keen spirit will serve you well.\""
+    },
+    {
+      "Key": "50dc0fc8-f76c-48a6-8d5b-6a89060029a0",
+      "Value": "{n}Jhod sorrowfully shakes his head.{/n} \"Alas, I must truly be an inept servant, for I have failed once more to convey the wisdom of {g|Erastil}Erastil{/g}. I only hope that someday in the future you will allow me the chance to change your mind.\""
+    },
+    {
+      "Key": "6e823bd9-18a3-4d68-a1db-1550a842c085",
+      "Value": "\"I trust in their truth. These visions... they were the voice of {g|Erastil}Erastil{/g} himself, quiet, but clear.\" {n}Jhod speaks with reverent awe.{/n} \"Before all this happened, I believed Erastil had turned his back to me. But now I see clearly — he has shown me divine mercy, for he has led me to you — and invited me to aid in a fellow priest's deliverance. Lady {g|Sarenrae}Sarenrae{/g} and Erastil walk the paths of the gods, hand in hand, and so must their servants as well.\""
+    },
+    {
+      "Key": "262606ea-a3d2-4211-8986-1ee08f788a13",
+      "Value": "\"Tristian is, undoubtedly, still very young, and youth is a time of naiveté and confusion.\" {n}An amiable grin appears on Jhod's face.{/n} \"But I see kindness and strength of spirit in him, traits indispensable to a priest. I sense that all that's transpired thus far is only the beginning, and the future promises great things for Tristian — and for you. This is why {g|Erastil}Erastil{/g} led me to the {g|Temple of the Elk}Temple of the Elk{/g}. Day and night I pray for you, and for my young friend. May the Stag God lead you down the true path!\""
+    },
+    {
+      "Key": "446a6aae-817a-4011-9390-9a627089783e",
+      "Value": "\"As you say,\" {n}replies Jhod, with just a hint of grumpiness in his voice.{/n}"
+    },
+    {
+      "Key": "e61428b3-6ef9-441e-b20c-211697f2956b",
+      "Value": "\"My misdeeds cast a shadow over my life and service. In search of redemption, and a balm for my soul, I took to the road. I had come nearly to despair when {g|Erastil}Erastil{/g} sent me a vision of the {g|Temple of the Elk}Temple of the Elk{/g}. I knew that very moment that the Stag God had shown me the way to redemption.\""
+    },
+    {
+      "Key": "1c3337d0-1943-48bc-a453-86fd82c93ce1",
+      "Value": "\"The word 'demand' does not befit the {g|Erastil}Stag God{/g}. Honesty and friendship, loving families, merry weddings and newborn children in their mothers' arms — they bring a smile to Erastil's face. He loves his people, and rewards them with fortunate hunts and plentiful harvests. But he has no temper for sloth and vanity. He never bestows gifts upon his faithful without first measuring their worthiness. We ourselves must win our daily bread. But the Stag God comes to our aid in times of need and strife.\""
+    },
+    {
+      "Key": "57646987-76ae-4c50-bd8c-821f50c0e4ec",
+      "Value": "\"What exactly would you like to know?\""
+    },
+    {
+      "Key": "459c9e00-f732-471b-b8b6-bd70a12bd5a1",
+      "Value": "\"As you wish!\""
+    },
+    {
+      "Key": "705d76a6-ff4a-48ad-8ad9-cf12ebdbd7c9",
+      "Value": "\"Greetings, good traveler! My name is Jhod Kavken, I am a cleric of {g|Erastil}Erastil{/g}, from {g|Galt}Galt{/g}. I was led to these wild lands by the Stag God in a vision. He led me through the magic mist, and showed me the location of an ancient forsaken site, the {g|Temple of the Elk}Temple of the Elk{/g}. Give me a moment of your time. I would speak with you of this.\""
+    },
+    {
+      "Key": "437b97c5-1f63-4895-9345-256920d23a7a",
+      "Value": "{n}Jhod looks at you with disbelief.{/n} \"It's... Odd. Perhaps {g|Erastil}Erastil{/g} requires my personal presence at the Temple... But I'm sure he pointed to this place for a reason. Please, check it once more, at least for my peace of mind!\""
+    },
+    {
+      "Key": "a197e409-9865-48dc-b08f-4f07eeca315f",
+      "Value": "{n}Jhod groans with indignation.{/n} \"To defile the ancient shrine of {g|Erastil}Erastil{/g}! And with such unnatural magic! How could it be that this druid wasn't completely exhausted?\""
+    },
+    {
+      "Key": "64e199fc-ffca-45ef-af19-492aceb28a8c",
+      "Value": "{d|Jhod}Jhod{/d} {n}nods warmly.{/n} \"How may I serve you?\""
+    },
+    {
+      "Key": "5c959832-f7f7-4c6b-b118-3e29efd901ed",
+      "Value": "\"Imagine how my mind raced, when here, in the {g|Stolen Lands}Stolen Lands{/g}, I heard the voice of the Stag God once again! He gave me another chance at service, to atone for my guilt. Now I have regained hope, and that very hope is my most precious possession.\""
+    },
+    {
+      "Key": "01ed14ea-35e4-4457-97e3-eb9eb366a208",
+      "Value": "\"That's why I'm here!\""
+    },
+    {
+      "Key": "4aa61e58-446d-4ee6-b6c6-1909668b0ca3",
+      "Value": "\"As you wish,\" {n}Jhod says with a hint of grumpiness.{/n}"
+    },
+    {
+      "Key": "8d208905-8781-460a-9018-05d32b17f9e1",
+      "Value": "\"What is there to understand? The gods do not send us visions for no reason.\" {n}Jhod folds his arms over his chest.{/n} \"We must go to the Temple. Then, I believe, we shall discover the true meaning and wisdom of {g|Erastil}Erastil's{/g} will.\""
+    },
+    {
+      "Key": "36b6d771-b86f-4985-8936-4fcc54f83935",
+      "Value": "\"I'm always glad to speak of the Stag God's teachings.\""
+    },
+    {
+      "Key": "833c1663-341f-49a6-bf0c-39aec03dfc2b",
+      "Value": "\"Oh yes!\" {n}Jhod shakes his head in contemplation.{/n} \"This has given me much to think about. It is another confirmation that our meeting was ordained by {g|Erastil}Erastil{/g}. Your victory over the bandit leader has only strengthened me in this belief. People like the Stag Lord disgust my god. I must continue helping you as well as I can, for as long as I am able. Perhaps that's why I was granted these visions.\""
+    },
+    {
+      "Key": "f59e1fe6-33e8-4a94-8603-8899e9f3efdf",
+      "Value": "\"Your {mf|Grace|Grace|Highness|Highness}, if there's one thing I know, it is matters of faith — whether it is my own god or some other deity. If you appoint me as High Priest, I'd be able to do much good. On the other hand, politics, or questions of trade — I know little of such things.\""
+    },
+    {
+      "Key": "2b0b3f99-852a-4477-8f30-d14dad3ba652",
+      "Value": "\"Oh.\" {n}Jhod opens his mouth to say something but then changes his mind and just waves his hand.{/n} \"Everything is all well, Your {mf|Grace|Grace|Highness|Highness}. I just keep forgetting what a mess it is in the {g|Stolen Lands}Stolen Lands{/g}, and how troubled are the minds of its people. Sometimes I must listen to such nonsense from my visitors... {g|Erastil}Erastil{/g} forgive them!\""
+    },
+    {
+      "Key": "310a14f6-2704-427a-8172-6df93be691ac",
+      "Value": "{n}Jhod shakes his head in a slow motion.{/n} \"No, Your {mf|Grace|Grace|Highness|Highness}. I cannot picture myself as your advisor. We disagreed too often while I was still in your service.\""
+    },
+    {
+      "Key": "0007e47c-ec14-411e-a96e-7b4943a0ac59",
+      "Value": "\"...was merely the trick of some wicked fey from the {g|First World}First World{/g}.\" {n}For a second, Jhod knits his brows, but then sighs and shakes his head.{/n} \"Tristian told me already, Your Grace. Looking like a beaten puppy all the while. I cannot say that this late confession brought me much solace…\""
+    },
+    {
+      "Key": "91aa4cd4-02c1-4535-bd55-65db1618c787",
+      "Value": "{n}Jhod looks straight at you.{/n} \"Damn it all! So what if {g|Erastil}Erastil{/g} didn't lead me here? I didn't do all this traveling for naught. And yes, I forgave Tristian, have no doubt of that. Last thing I need is to bear a grudge against that dunce.\""
+    },
+    {
+      "Key": "2acf3475-6325-4945-bfdd-4177ced57099",
+      "Value": "\"Find the {g|Temple of the Elk}Temple of the Elk{/g}!\" {n}Jhod frowns.{/n} \"I've pieced together its location from what I can remember of my visions. I have a rough idea of where to look for the sanctuary — somewhere in the North Narlmarches. However, I don't possess the strength to walk this path myself. Do not reject my plea, good traveler, and I'll repay you as best I can. In these dark times, people rarely help each other without compensation, may {g|Erastil}Erastil{/g} forgive us all. But I am sure my healing abilities will be useful to you.\""
+    },
+    {
+      "Key": "72fa4e10-cb4e-43f7-8f76-b34fd6819170",
+      "Value": "\"As far as I know, your next target looks to be the Stag Lord himself. With the Temple of the Elk cleansed of evil, the fog surrounding us should disperse to reveal the path to the brute's lair. Of course, magic so powerful is unlikely to disappear all at once. Bide your time — follow up on other concerns while you wait. I will gladly aid you on your noble quest. {g|Erastil}Erastil{/g} himself foresaw our meeting.\" {n}Jhod bows piously.{/n}"
+    },
+    {
+      "Key": "a44b28d7-5aad-4876-9a18-fdbb2f5140ce",
+      "Value": "\"{g|Erastil}Erastil{/g} be praised, you've finally returned, my good friend! Tristian told me how you helped him at the {g|Temple of the Elk}Temple of the Elk{/g}. Thank you for heeding my request. My heart is calm and filled with confidence that I've followed the will of my god. I would like to reward your bravery. I possess no treasure, but please, take this as a token of appreciation...\""
+    },
+    {
+      "Key": "4c387f25-bf56-465f-8185-df667eada356",
+      "Value": "\"I wish only thank you! You helped Tristian at the {g|Temple of the Elk}Temple of the Elk{/g}. {g|Erastil}Erastil{/g} teaches us to esteem those who help each other, though today such unity is sadly rare — especially here in the {g|Stolen Lands}Stolen Lands{/g}.\" {n}Jhod shakes his head in disappointment.{/n} \"I would like to reward your bravery. I possess no treasure, so let my knowledge as healer serve your good cause.\""
+    }
+  ]
+}

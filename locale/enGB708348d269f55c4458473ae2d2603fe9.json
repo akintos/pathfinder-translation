@@ -1,0 +1,61 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "855b4f06-b61b-4cf3-aea6-b6595f03216d",
+      "Value": "[Try to calm the owlbear]"
+    },
+    {
+      "Key": "22b87a08-811e-44ba-b2d6-ab939c07d625",
+      "Value": "[Open the cage and free the owlbear]"
+    },
+    {
+      "Key": "6cb428b2-130d-4ec4-b2cf-0d3104d7bc1d",
+      "Value": "[Lock the cage securely to prevent the owlbear from escaping]"
+    },
+    {
+      "Key": "ae43ff8f-4281-4930-bec3-7cebedc0d71b",
+      "Value": "[Leave]"
+    },
+    {
+      "Key": "f819618f-f2db-420b-9cef-a1fb89df865e",
+      "Value": "[Try to quietly kill the caged owlbear]"
+    },
+    {
+      "Key": "d6d7ef53-881c-4208-8cf5-7588d43efb2b",
+      "Value": "[Step away from the cage] \"This owlbear will help us fight the Stag Lord.\""
+    },
+    {
+      "Key": "c210aa32-0df5-4eb8-858f-f1b619ff2de5",
+      "Value": "{n}The caged owlbear seems to be worried. He growls softly as you approach. It looks strong enough to break the cage's door.{/n}"
+    },
+    {
+      "Key": "c43dcf2f-4cc7-4499-bb9a-b6bd2c7f5f11",
+      "Value": "{n}The owlbear seems to have endured some sort of abuse recently — probably at the hands of a certain druid. It's scared, angry, and wants to take revenge on his offenders. It seems to understand that you're not one of them, and it probably won't attack you.{/n}"
+    },
+    {
+      "Key": "a22f33d4-e78f-4918-910d-952444e75a1e",
+      "Value": "{n}The owlbear is angry — that's about all you can understand.{/n}"
+    },
+    {
+      "Key": "b54ef928-81ee-47a8-bc63-93f29217a020",
+      "Value": "{n}You properly secure the cage door.{/n}"
+    },
+    {
+      "Key": "0a38b8f3-d0e1-4098-86b0-e7783e708de1",
+      "Value": "{n}Your efforts don't seem to have accomplished anything — the cage door still looks like it would be easy to open.{/n}"
+    },
+    {
+      "Key": "9481bf56-67b0-465e-ac0f-ef67664b9421",
+      "Value": "{n}You wait until the owlbear looks away, then kill it with one quick blow.{/n}"
+    },
+    {
+      "Key": "c55ce94e-7916-469e-a0bf-58e8a21ace2c",
+      "Value": "{n}You accomplish your goal, but the owlbear gives a long, roaring scream before it dies.{/n}"
+    },
+    {
+      "Key": "436b90a1-2dcd-4e5f-b5ae-a65835b3866b",
+      "Value": "{n}The cage is locked securely. The owlbear looks at you sadly from the corner of the cage.{/n}"
+    }
+  ]
+}

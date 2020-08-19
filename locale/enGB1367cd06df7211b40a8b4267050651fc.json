@@ -1,0 +1,429 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "6cd3979e-d071-45ab-afd2-b95337e01156",
+      "Value": "\"I've found the trolls' lair already.\""
+    },
+    {
+      "Key": "ceacd284-3729-4229-acb0-cc9663a4ab65",
+      "Value": "\"Tell me about the trolls attacking Bristlehill.\""
+    },
+    {
+      "Key": "2d161e15-d24c-4ae7-902a-8dc28c6ef32b",
+      "Value": "\"Where are you from? Where is your homeland?\""
+    },
+    {
+      "Key": "1b959874-4f9d-47ac-8698-d73147bdaaaf",
+      "Value": "\"Do you have any family?\""
+    },
+    {
+      "Key": "baf60b3a-a5f0-4efb-90dd-7bb65c2adc0c",
+      "Value": "\"Why are you sitting on this hill?\""
+    },
+    {
+      "Key": "7b4d81ad-c7e0-4f13-a03d-775ede743fa2",
+      "Value": "\"All right, if you don't want to answer, you don't have to.\""
+    },
+    {
+      "Key": "2fe237dd-a754-425f-b7bc-ee43acb3991e",
+      "Value": "[Lie] \"No, nothing special.\""
+    },
+    {
+      "Key": "04c80ec7-278d-4a5c-93bc-74dc563ab962",
+      "Value": "\"Before we go, I'd like to ask you some questions.\""
+    },
+    {
+      "Key": "868c6184-8e4a-41af-bd45-cf3ace626b6c",
+      "Value": "\"Where did you learn to use a bow?\""
+    },
+    {
+      "Key": "f581c912-abf4-4656-ae42-629936bc49ad",
+      "Value": "\"Yes, I am a friend. So what are you doing here?\""
+    },
+    {
+      "Key": "3a7cfd73-97f5-4eee-a5f3-f0a9e7e567f1",
+      "Value": "\"Go to the capital, I will find you there.\""
+    },
+    {
+      "Key": "f1a65896-c2ba-40ce-aca1-63bf7630be8f",
+      "Value": "\"How can a mere carpenter be chasing trolls effectively?\""
+    },
+    {
+      "Key": "ff5c9ffe-e3b4-46bd-befa-faa63f357400",
+      "Value": "\"Why is your wolf whining?\""
+    },
+    {
+      "Key": "6067a2af-3da3-4a7f-98c8-1a7f584fd69d",
+      "Value": "\"Who? Can I help you?\""
+    },
+    {
+      "Key": "c52e68ec-d8f7-4bbb-9dd3-bc0d2259d534",
+      "Value": "\"No offense, but I don't need you. Go on your own path.\""
+    },
+    {
+      "Key": "54e38b82-6fc6-405a-a6e0-8fdc76ae87f0",
+      "Value": "\"You're bleeding, we need to patch you up.\""
+    },
+    {
+      "Key": "89ba9888-af74-4ae7-a1e4-9dc171e36e50",
+      "Value": "\"I'm {name}. I'm the {mf|baron|baroness|king|queen} of these lands. Nice to meet you.\""
+    },
+    {
+      "Key": "6ae0ef5a-04ec-4b91-af56-07e81b147b68",
+      "Value": "\"You are severely wounded, and will be a burden.\""
+    },
+    {
+      "Key": "61525f83-f891-4985-9334-8f72eaa64cf2",
+      "Value": "\"Well, if that's what you want, follow me.\""
+    },
+    {
+      "Key": "fb0ab257-fcc1-47aa-946d-642b26665a45",
+      "Value": "\"Sorry, but no. I don't need you.\""
+    },
+    {
+      "Key": "0a62dc6f-5a27-4264-81e9-61f7f2e34202",
+      "Value": "\"Well, if that's what you want, follow me.\""
+    },
+    {
+      "Key": "2f02ade3-6ba7-4566-9c8f-ff1120aa0e93",
+      "Value": "\"You swear by Torag?\""
+    },
+    {
+      "Key": "a45cdc4d-b459-465c-80e2-7861ddf92928",
+      "Value": "\"All right, if you don't want to talk, have it your way. Good hunting.\""
+    },
+    {
+      "Key": "73f8587d-644c-40f1-a873-a56b788509ff",
+      "Value": "\"Deal.\""
+    },
+    {
+      "Key": "42652a78-abb2-4d0d-8047-d590582aeb48",
+      "Value": "\"I'm the {mf|baron|baroness|king|queen} of these lands. Answer my questions or you'll get whipped.\""
+    },
+    {
+      "Key": "37c53baa-a129-48b0-aef4-cbb5d758882f",
+      "Value": "\"What's wrong with your wolf?\""
+    },
+    {
+      "Key": "eb1f51ee-429e-4c0d-8cf4-40c505c499de",
+      "Value": "\"Well, it was nice talking to you. Have good luck.\""
+    },
+    {
+      "Key": "699197b9-9c2c-490a-9355-ae2bf29f3433",
+      "Value": "\"You're not local, are you?\""
+    },
+    {
+      "Key": "06761f79-621b-4be9-abff-c42fc82e577e",
+      "Value": "\"I've been in the trolls lair already, and killed this Kargadd.\""
+    },
+    {
+      "Key": "5c2513f7-a895-452d-9a0c-3f8c5d78e64f",
+      "Value": "\"Yes, there were young trolls, Kargadd's children. They weren't dangerous and I let them go.\""
+    },
+    {
+      "Key": "e96bf2ea-a863-4a0d-9b41-1e4b861a53b3",
+      "Value": "\"Go to the capital. I will find you there.\""
+    },
+    {
+      "Key": "53debdca-e444-4f69-8c2c-0e4721d372be",
+      "Value": "\"I lured him under direct sunlight, and he turned into stone.\""
+    },
+    {
+      "Key": "2982b60c-ed02-43f1-b73b-06cb38c8b624",
+      "Value": "\"I'm hunting the trolls too. Would you like to join our efforts?\""
+    },
+    {
+      "Key": "763dd787-b3c8-454b-912f-ed71586f1c26",
+      "Value": "\"Did you know that local trolls are not afraid of fire now?\""
+    },
+    {
+      "Key": "30bb9adc-72a1-4826-853a-ed320084dd8d",
+      "Value": "\"How did you get wounded?\""
+    },
+    {
+      "Key": "c47c69f6-cf7d-4a8d-a300-e6a19ed4893e",
+      "Value": "\"Answer one, at least.\""
+    },
+    {
+      "Key": "5d3910cc-8220-4f30-8897-16dea68170e6",
+      "Value": "\"We slit his guts open.\""
+    },
+    {
+      "Key": "e3a696b0-9a84-408a-8cdf-b7c6f5a14650",
+      "Value": "\"How did you wind up in the Bristlehill village?\""
+    },
+    {
+      "Key": "3cd45192-8c57-48e5-9885-b49943f30e5d",
+      "Value": "\"Yes, there were troll young, Kargadd's children. I killed them as well.\""
+    },
+    {
+      "Key": "eddf604b-26dc-4fce-9b11-098a6003f248",
+      "Value": "[Attack] \"I am not a friend\"."
+    },
+    {
+      "Key": "d2e061d5-2b61-4876-a149-c52e319d7abc",
+      "Value": "[Attack] \"I am sick of homeless drifters in my lands!\""
+    },
+    {
+      "Key": "ae74b47c-3596-45de-981b-95c310aecd90",
+      "Value": "\"I don't wish to pressure you, but please answer me. I may be able to help you.\""
+    },
+    {
+      "Key": "f0d2bcd7-ad0c-4514-8f8f-74206eb9105a",
+      "Value": "\"To help a person, I need to learn at least a little about them.\""
+    },
+    {
+      "Key": "52789c55-d2e0-47a4-ab86-22407740250a",
+      "Value": "[Stay in ambush] \"This is a great place for an ambush. Let's wait.\""
+    },
+    {
+      "Key": "e376a135-3674-42ec-bf31-21deebbc67ae",
+      "Value": "\"Well, follow me then. I hope you will not start getting in my way.\""
+    },
+    {
+      "Key": "1c9928ec-8f7e-4838-b6a7-be8f023971c3",
+      "Value": "[Leave] \"We will not wait for trolls to just pass by. It would be better to finish off their lair as soon as possible.\""
+    },
+    {
+      "Key": "4eb31bff-0ea3-4614-a72e-3eae20a9723b",
+      "Value": "\"I would be honored to have a companion like you.\""
+    },
+    {
+      "Key": "8a2de7a5-9f95-48ae-a1de-b613ad8b4884",
+      "Value": "{n}Ekun stares heavily at Harrim, who's gotten into a religious frenzy. You are starting to worry the ranger will simply hit your cleric. But after Harrim runs out of breath at last, Ekun just turns away.{/n}"
+    },
+    {
+      "Key": "742fdeab-2678-45e7-8074-71f7008d1e11",
+      "Value": "\"He blesses no one!\" {n}Harrim snaps. His face turns red as he speaks, gesturing actively.{/n} \"He's left his followers to their fates! He's left me — a dwarf — in the hour of ultimate need! What did he do for you, human? Did he help you? How did he protect your village?!\""
+    },
+    {
+      "Key": "74900747-5a79-4664-8f07-d02600c7cdcc",
+      "Value": "{n}Harrim raises his eyes to the sky.{/n} \"One more lost soul, moaning, suffering from despair. Cast away the false light of the {g|Torag}Torag's{/g} forge, and see the verity in {g|Groetus}Groetus's{/g} moonlight!\""
+    },
+    {
+      "Key": "c89e149a-8101-4d18-8479-c7b3a0b6480f",
+      "Value": "{n}At first, Harrim doesn't get that he's been asked a question. After he eventually does, Ekun's already turned away.{/n}"
+    },
+    {
+      "Key": "b5c50d31-05bf-418f-82ab-47bd582cbaba",
+      "Value": "{n}Ekun looks Harrim up and down, but doesn't react to his passionate speech.{/n}"
+    },
+    {
+      "Key": "ec77cc76-5d8f-4645-87a8-a0b4f01e9c12",
+      "Value": "{n}The man staggers to his feet and you notice there's blood soaking the right side of his leather leggings.{/n}"
+    },
+    {
+      "Key": "426b59ac-b01a-4295-a75d-10ca07be18cb",
+      "Value": "{n}He's very tall and rather lanky. While he stands before you, leaning on his bow, his hurt leg trembles slightly, and the right side of his leggings darkens again with fresh bleeding. Nevertheless, the man doesn't reveal his pain, except for a strained jaw and heavy gaze.{/n}"
+    },
+    {
+      "Key": "77fe3d03-1a3a-416e-9064-e8fb5a4d5b7f",
+      "Value": "\"Ekundayo,\" {n}the man says, looking straight into your eyes.{/n}"
+    },
+    {
+      "Key": "36416d59-b9cb-4767-bb51-2588e42a2efb",
+      "Value": "\"Wow! Sounds like a spell!\""
+    },
+    {
+      "Key": "e68620cb-d955-4fc7-a80b-1b51124543e0",
+      "Value": "\"I guess you are wrong. This is his name.\""
+    },
+    {
+      "Key": "af691699-6f50-4016-a787-aee765898fe6",
+      "Value": "{n}Octavia rolls her eyes and makes a sarcastic expression.{/n} \"No way! Who could have guessed that?\""
+    },
+    {
+      "Key": "54b321c6-e2f2-45e6-a68f-b833fe55fcf6",
+      "Value": "\"It is so,\" {n}Valerie answers seriously.{/n}"
+    },
+    {
+      "Key": "d9e23c80-e547-4310-a8e9-ddb557f1fee0",
+      "Value": "\"Whom you brought?\" {n}The man asks the wolf.{/n} \"Get lost, dog, you're not needed here!\" {n}He raises his arm as if to hit the wolf, but the animal doesn't even try to dodge, still whining. The man's hand goes down, never finishing the blow.{/n}"
+    },
+    {
+      "Key": "5cdf8f13-0d0a-49f3-bb1b-26d996aa4f3b",
+      "Value": "\"Was that a threat?\" {n}Ekun's voice is extremely calm and distant.{/n}"
+    },
+    {
+      "Key": "a0757c7a-38d2-49a6-92d8-1980ad5065ca",
+      "Value": "\"Their path is finished, their sufferings are over,\" {n}Harrim whispers, loudly enough to let Ekun hear,{/n} \"{g|Groetus}Groetus{/g} granted them peace. But hold the sorrow off your heart, for you'll join them soon enough in the eternal darkness.\""
+    },
+    {
+      "Key": "25ecfe47-d4cc-4fb0-9cd9-0f26f0504aa3",
+      "Value": "\"You — were not always a {mf|baron|baroness|king|queen}. Here — I was not always a carpenter.\" {n}Ekun stares somewhere through you.{/n} \"Nothing to lose anymore,\" {n}he adds, almost in whisper.{/n}"
+    },
+    {
+      "Key": "c27591c6-e756-4fe7-9931-3882d0f9179f",
+      "Value": "{n}Ekun's face is hard to read, but it seems to you he is surprised.{/n} \"No. Didn't. Fire arrows couldn't murder them. Now know the reason.\" {n}He glances at his wounded leg.{/n} \"Had no chance here, can see it now.\""
+    },
+    {
+      "Key": "27e05dda-ef5b-4b2f-bc95-8b3c6d7f6056",
+      "Value": "{n}Ekun's face gets a trifle calmer. You can see he's glad to hear your offer.{/n}"
+    },
+    {
+      "Key": "a48fc4db-fe8f-4519-971d-aaabfe1c8b23",
+      "Value": "\"Wait,\" {n}Ekun stops you.{/n} \"I… am in need of assistance.\" {n}It is obvious that it's hard for him to ask.{/n} \"Impossible to crush Kargadd if alone. Still could murder him if not alone.\""
+    },
+    {
+      "Key": "14a43b56-0085-4d46-ab81-738cafe021d2",
+      "Value": "{n}Ekun raises his eyebrow.{/n} \"Never been a burden. Can shoot a longbow. From great distance.\" {n}He glances at his weapon.{/n} \"Also scouted the place while I still could walk. Found three spots where the trolls could have their lair. Will show you.\""
+    },
+    {
+      "Key": "ad60c4bc-f333-4df5-b57f-abef38c6ff3c",
+      "Value": "\"Will mark on your map all the places where troll feet tread the land. Trolls' lair must be somewhere nearby.\""
+    },
+    {
+      "Key": "979caa5d-8366-42c4-82b3-b580fac240ad",
+      "Value": "\"The spirit is strong, but the body falters. Will follow you wherever you need. But this wound must be tended by healers in the capital. Don't want to burden.\""
+    },
+    {
+      "Key": "a9dea976-3de2-4719-b388-2642bc26b280",
+      "Value": "\"One more thing. Before we go.\" {n}Ekun points to the valley below the hill.{/n} \"Troll feet thread this path often. Would like to stay here until they appear.\""
+    },
+    {
+      "Key": "7eb3c6bc-f7d6-4214-aa21-4697d2aec4d3",
+      "Value": "{n}Ekun nods and turns away.{/n} \"Will be here,\" {n}he mutters in your direction.{/n}"
+    },
+    {
+      "Key": "ae75f801-6ff2-4365-943b-f8f00b11af33",
+      "Value": "{n}The man stares at his leg as if seeing it for the first time.{/n} \"Patched up already,\" {n}he answers at last,{/n} \"This wound isn't the deadliest.\""
+    },
+    {
+      "Key": "8d6be206-2550-4172-a6c0-9460b77a7249",
+      "Value": "{n}Ekun narrows his eyes, interested.{/n} \"Would be good to see it. Kargadd awaits.\""
+    },
+    {
+      "Key": "c2502224-3290-421c-9e02-35fbf7c6afc2",
+      "Value": "{n}Ekun closes his eyes and sighs, relieved. It seems to you that a wrinkle disappears from his brow.{/n} \"You've stolen my vengeance. But it's no grudge to hold. You did the right thing.\""
+    },
+    {
+      "Key": "f244da45-2b8a-47a9-8a37-0f601de29d96",
+      "Value": "\"Troll feet often followed this path.\" {n}He glances at his wound. {/n}\"Can't hunt them anymore. That's why I wait. They will come here eventually.\""
+    },
+    {
+      "Key": "9605e4d0-66e0-4dda-8533-c9a0ea5ec388",
+      "Value": "\"Will mark on your map all the places where troll feet tread the land. Need to search everywhere, might be more than one lair. \""
+    },
+    {
+      "Key": "e69280e7-b7f4-44cf-8c50-15c5a4cd71c5",
+      "Value": "{n}Ekun's face darkens.{/n} \"You have my respect. But the answers shall be postponed. Swear by {g|Torag}Torag{/g}, the time for question will come — after Kargadd's last breath is drawn.\""
+    },
+    {
+      "Key": "38f9bc63-d243-4cbf-b6f9-5653355bdba0",
+      "Value": "{n}Ekun nods in gratitude.{/n}"
+    },
+    {
+      "Key": "48c936a3-a0dd-4bde-be0e-2eef425d87d8",
+      "Value": "{n}Ekun sighs and nods.{/n} \"One,\" {n}he says.{/n}"
+    },
+    {
+      "Key": "e30b54f6-d437-431c-859a-e560462d1b02",
+      "Value": "\"Not mine,\" {n}he answers. Noticing this answer doesn't satisfy you, he decides to go on.{/n} \"Never wanted a pet. Never needed one. But couldn't slay the trolls, defend the village. Just called for help.\" {n}Ranger shifts his frowning gaze toward the wolf.{/n} \"Everything grew dark for a moment. Fainted. Came back with the tongue of this...dog...on my face. \""
+    },
+    {
+      "Key": "09294430-d8bf-4cde-8e4d-300a5fc36a2a",
+      "Value": "\"An answer was promised, and you got it. It's… hard to remember the past now.\" {n}Ekun's strained face hardens.{/n} \"You'll get all the answers after Kargadd's last breath is drawn. That is a promise.\""
+    },
+    {
+      "Key": "3f61273f-e7e5-4fbc-921b-a9a19da701fc",
+      "Value": "\"{g|Thuvia}Thuvia{/g}, far south from here,\" {n}he answers. Noticing that this answer doesn't satisfy you, he decides to go on.{/n} \"A desert which changes the Sun Orchid into gold. Father brought me to {g|Absalom}Absalom{/g} when I was thirteen. Never been to my homeland since then. Roads always led north of Absalom.\" {n}He shrugs.{/n}"
+    },
+    {
+      "Key": "0cacfe6d-aff6-4138-8f9e-991439906a17",
+      "Value": "{n}It seems to you that a sparkle of good humor flickers in the man's eyes, but his face remains still.{/n} \"The name gave it up? Or my skin color? Yes, bred and nourished up away from here.\""
+    },
+    {
+      "Key": "47e071e3-6d08-4090-a412-0eace9f2495e",
+      "Value": "\"When wayfaring,\" {n}he answers. Noticing this answer doesn't satisfy you, he decides to go on.{/n} \"Traveled through northern lands countless times. Guarded trade caravans. Those who paid with gold, dealt with the merchants. Those wanting to pay with steel, dealt with me.\""
+    },
+    {
+      "Key": "88131cf2-e151-4b96-aaec-8030366fc752",
+      "Value": "\"Yes,\" {n}he answers. Noticing this answer doesn't satisfy you, he decides to go on.{/n} \"All gods are even in the eyes of men in Abasalom... Chose the one which fitted best. Though he is a dwarf god.\" {n}He shrugs and glances at his longbow.{/n} \"Used to guard decent men, and craft bows. {g|Torag}Torag{/g} blesses both guards and crafters.\""
+    },
+    {
+      "Key": "bcf9248d-0818-4eee-8c96-65935c933238",
+      "Value": "\"Got married,\" {n}he answers. Noticing this answer doesn't satisfy you, he decides to go on.{/n} \"Crossed northern lands back and forth for a long time. Often came to the {g|Stolen Lands}Stolen Lands{/g}. Spent nights in Bristlehill. Recognized Amanda there, and she recognized me. One day, realized leaving was not desirable anymore.\""
+    },
+    {
+      "Key": "81830bf5-54ee-4bb3-82b4-03d7f54d48e5",
+      "Value": "\"No,\" {n}he answers. Noticing this answer doesn't satisfy you, he decides to go on.{/n} \"Mother died early. Father died later.\" {n}He keeps silent for a while, than resumes.{/n} \"Wife, Amanda, and daughter, Clarissa, died five days ago. {g|Torag}Torag{/g} bless their souls.\""
+    },
+    {
+      "Key": "f3a43845-458c-44da-9880-f622100e6dcb",
+      "Value": "\"They attacked at night. Slaughtered everyone,\" {n}he answers. Noticing this answer doesn't satisfy you, he decides to go on.{/n} \"We all knew about trolls. Never thought they would come to the village. Never believed.\" {n}Ekun closes his eves and shakes his head, as if in denial,{/n} \"They came when the day hadn't yet dawned. They plundered houses. Killed dogs. Cows. People. They ate. Then gathered everything they could and left.\""
+    },
+    {
+      "Key": "98125cb2-89d8-48bc-92bf-78f4e3e8caf1",
+      "Value": "{n}Ekun nods in gratitude.{/n}"
+    },
+    {
+      "Key": "9555cb2b-a99d-4a07-86e5-0e12b18a2d08",
+      "Value": "{n}Ekun stares at you closely.{/n} \"I want to know it all. Tell me how it happened. Tell of him suffering.\""
+    },
+    {
+      "Key": "a8d8d479-af74-46ae-9467-a3eb8e69fcb9",
+      "Value": "{n}Ekun looks at you. For several seconds it seems to you that he'll smile, but he doesn't.{/n} \"An eternity spent in stone. It's a decent end. By {g|Torag}Torag{/g}, your fame comes well-earned. But it seems there was something else happening there.\""
+    },
+    {
+      "Key": "0d9745c7-7f80-44b5-89ee-ce91facdf09c",
+      "Value": "{n}Ekun looks at you. For several seconds it seems to you that he'll smile, but he doesn't.{/n} \"You've freed the world off a terrible monster. By {g|Torag}Torag{/g}, your fame comes well-earned. But it seems there was something else happening there.\""
+    },
+    {
+      "Key": "b74bc946-d11e-4a4b-94b8-bc36a63e3705",
+      "Value": "{n}Ekun seems surprised, then angry, then becomes contemplative.{/n} \"Unknown if I have enough courage inside to {d|c21 TrollYoung Live}act{/d} like this,\" {n}he says quietly.{/n}"
+    },
+    {
+      "Key": "7412e98d-349b-497b-b44a-6539e54f2545",
+      "Value": "{n}The man throws a glance at the wolf, who is still staring at him.{/n} \"Not mine.\""
+    },
+    {
+      "Key": "0f18da21-5629-4e8c-a8bc-bc6c02b95279",
+      "Value": "{n}For a moment, Ekun seems angry, but he brushes that emotion away.{/n} \"You {d|c21 TrollYoung Live}acted{/d} as you saw proper. Not going to pass my judgement on you. The deed is done, and that's most important.\""
+    },
+    {
+      "Key": "8427bd28-30f7-4250-9a84-66a689e2f111",
+      "Value": "{n}Ekun winces, then nods.{/n} \"You made the right {d|c21 TrollYoung Killed}choice{/d}. Young trolls will only grow into full trolls. Better for everyone if they never grow at all.\""
+    },
+    {
+      "Key": "0e450b46-8aa2-4017-b613-50787a5dee62",
+      "Value": "{n}Ekun looks into your eyes.{/n} \"Your deed has not been paid for still. No heavy gold here to reward you. Can serve you myself, though. Would you let me defend you in your travels? Or will this crossroad become the end of our common path?\""
+    },
+    {
+      "Key": "074a0699-3a6a-448c-b1e9-ca0436d4d03a",
+      "Value": "\"Sitting. Waiting.\" {n}Ekundayo shrugs.{/n} \"Hunting.\""
+    },
+    {
+      "Key": "3a8c82c4-d37c-42f6-b383-97d8d9685abc",
+      "Value": "{n}Ekundayo narrows his eyes and exhales loudly.{/n} \"Lured your curiosity. Serves me right. Will start again.\""
+    },
+    {
+      "Key": "c8be374c-b77b-4d93-9486-ea7309347e50",
+      "Value": "{n}Ekundayo narrows his eyes and exhales loudly.{/n} \"Sorry. Our knowing each other started incorrectly. Will start again.\""
+    },
+    {
+      "Key": "a7e26729-832a-47bd-a6af-be7bd5845629",
+      "Value": "\"The name's Ekundayo, Ekun for decent ones. Used to be a carpenter in the Bristlehill village. Trolls attacked. Killed everyone but me.\" {n}Ekun speaks with a distant voice, looking somewhere above you.{/n} \"Will show them that was a mistake.\""
+    },
+    {
+      "Key": "bfcbc464-87d3-4f76-9cf8-6442af62ca11",
+      "Value": "\"They all deserve death, Kargadd most of all.\" {n}Ekun grimaces as if he has a toothache.{/n} \"Rock troll. He led them.\""
+    },
+    {
+      "Key": "bbd70296-fa7c-4454-9423-22502b2d7ced",
+      "Value": "\"Have been hunting trolls until they have hunted back.\" {n}Ekun shrugs.{/n} \"The wound can't stop the hunting. Just slows it down.\""
+    },
+    {
+      "Key": "ebf1558b-bda3-4e80-9422-72547b7fc7d7",
+      "Value": "{n}The man nods.{/n} \"Ekun for decent ones,\"{n} he says. {/n}\"Are you decent?\""
+    },
+    {
+      "Key": "57a84bcd-bb97-4f5b-a3d9-cf48228b06c8",
+      "Value": "{n}Seeing you, Ekundayo nods in greeting.{/n}"
+    },
+    {
+      "Key": "f3e27362-f56f-4a17-8ee0-21ecb5753bbf",
+      "Value": "{n}Following the strange wolf, you climb the top of the hill. There you see a black-skinned man sitting under a spreading bush. The wolf runs up to him and sits near, whimpering.{/n}"
+    }
+  ]
+}

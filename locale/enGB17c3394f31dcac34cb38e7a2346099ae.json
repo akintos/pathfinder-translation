@@ -1,0 +1,93 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "1e6c99b5-6f14-4631-8328-ad65d1e94c91",
+      "Value": "\"What is it?\""
+    },
+    {
+      "Key": "ec80ea13-b93e-4658-959d-7922679de675",
+      "Value": "\"Looks strange.\""
+    },
+    {
+      "Key": "9b0eab13-fba3-4371-aad1-e1b42e0923a1",
+      "Value": "\"What does it have to do with me?\""
+    },
+    {
+      "Key": "67ff73d2-70a8-464e-8a0d-284402ed3cab",
+      "Value": "\"Maybe you should show the potion to an alchemist first?\""
+    },
+    {
+      "Key": "e654d8b8-30d8-48d9-9ae8-c620e66d624f",
+      "Value": "\"That potion might be dangerous.\""
+    },
+    {
+      "Key": "64bcc5cb-deb4-4613-bf31-cbc74481f712",
+      "Value": "\"Of course it is!\""
+    },
+    {
+      "Key": "918ad452-c3b0-4089-afbb-e9f2b99734d2",
+      "Value": "\"Please, don't risk your life.\""
+    },
+    {
+      "Key": "10606613-68ac-42c0-bb88-18aa5b5be335",
+      "Value": "\"No! I forbid it!\""
+    },
+    {
+      "Key": "43f9206c-eabb-4edd-a630-c32c2c92f661",
+      "Value": "\"If it restores your beauty, it's worth the risk!\""
+    },
+    {
+      "Key": "0a27ebb7-a3e0-4ac4-8100-6ed1113f10c4",
+      "Value": "\"It's dangerous! Please, throw that muck away and don't risk yourself!\""
+    },
+    {
+      "Key": "2240baa3-ffb0-4140-bd31-ee757c33dc68",
+      "Value": "\"Don't even think about using that suspicious potion!\""
+    },
+    {
+      "Key": "24ebb2f9-520a-4aab-b057-fdb17be44fb1",
+      "Value": "\"It's up to you to decide what to do.\""
+    },
+    {
+      "Key": "ccea7b06-4c93-4771-8684-88cc439670f4",
+      "Value": "{n}Valerie shows you a small vial of light-purple liquid.{/n} \"Look what I got in the city.\""
+    },
+    {
+      "Key": "4dddfd27-72a3-45d1-8d45-4465479bf1a1",
+      "Value": "\"I just wanted to see what you think.\" {n}Valerie holds the vial to the light and studies its contents with apparent indifference.{/n}"
+    },
+    {
+      "Key": "719e21a8-c1bd-4387-be2c-c5c33793fb88",
+      "Value": "\"This is an alchemical potion, some sort of cure-all in a vial. I don't know what's in it, but the vendor promised it would make my scar disappear if I take it five times.\" {n}Valerie looks at you steadily.{/n} \"I had a moment of weakness and bought the potion... but now I'm not so sure if using it is such a good idea.\""
+    },
+    {
+      "Key": "7956e8c9-250e-4f1d-93a9-5e443201a6a5",
+      "Value": "\"I don't think a different specialist would say anything definite. Besides, most alchemists I spoke to said the scar is magical, so simple potions won't help.\""
+    },
+    {
+      "Key": "63bd569f-20ff-401d-8e43-125dc940e481",
+      "Value": "\"Who knows, maybe they're all right, and the vendor tricked me. Or maybe everyone else I talked to were amateurs, and I finally managed to find the only worthy alchemist in the entire {g|Stolen Lands}Stolen Lands{/g}.\""
+    },
+    {
+      "Key": "f6199271-c51e-45ab-9204-1c5d82ebeaa8",
+      "Value": "{n}Valerie squints one eye.{/n} \"It might also take this mark off my face. Do you think it's worth it? Taking a risk to restore my beauty?\""
+    },
+    {
+      "Key": "2a9ef732-ab73-4b88-aa1a-dc3e6d41c648",
+      "Value": "{n}Disappointment flickers in Valerie's eyes.{/n} \"Is that so... Beauty is worth going blind. Or growing scales all over my body. Well, thanks for your answer.\" {n}Valerie steps aside, fiddles with the vial in her hands... and then hurls it away.{/n}"
+    },
+    {
+      "Key": "cc4821af-f2c8-4eb9-8db3-9c261ae00d1b",
+      "Value": "{n}Valerie looks at you with, puzzled or perhaps annoyed.{/n} \"Don't you think such an order is beyond the scope of my service?\" {n}Valerie turns around and steps away, then casually throws the vial into the bushes.{/n}"
+    },
+    {
+      "Key": "b36e254c-7591-47e7-9d57-30d6add7ed0b",
+      "Value": "{n}Valerie's eyes grow warmer.{/n} \"Very good. I'm sorry I distracted you for such a foolish reason.\" {n}Valerie throws the vial over her shoulder without looking.{/n}"
+    },
+    {
+      "Key": "3879754a-d86d-42a1-8f28-3795a5895a76",
+      "Value": "\"Indeed. I don't know why I came to you.\" {n}Valerie's eyes grow warmer. She weighs the vial in her hands.{/n} \"I don't think I'll risk life and limb for such a trifle.\" {n}Valerie then throws the vial aside.{/n}"
+    }
+  ]
+}

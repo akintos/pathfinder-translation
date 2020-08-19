@@ -1,0 +1,101 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "ad356aac-39bf-472e-b0cf-8908eb2446bc",
+      "Value": "[Talk to the old people] \"Who are you?\""
+    },
+    {
+      "Key": "67f0afb7-1b4e-45eb-8abe-e89c707b00a8",
+      "Value": "[Talk to the young man] \"So who are you, and what are you doing here?\""
+    },
+    {
+      "Key": "7a3f2e38-397f-486b-98de-81e508174d9f",
+      "Value": "\"I've inspected the area and I'm ready to report my findings.\""
+    },
+    {
+      "Key": "411cb632-061b-46ff-a0dc-64baaa3dcdf1",
+      "Value": "\"I'll go and see what I can find.\""
+    },
+    {
+      "Key": "f3b803e1-f370-49a0-b40e-eed43cea204f",
+      "Value": "\"I've explored the area and found nothing strange. It seems to be a regular inn.\""
+    },
+    {
+      "Key": "7b3da1f1-6073-4e63-8b13-13ab16027649",
+      "Value": "{n}Three people are sitting at a table in a tense silence, an old couple and a young man. They turn to you suddenly, making little effort to conceal their dismay.{/n}"
+    },
+    {
+      "Key": "ecf18e01-607a-4303-93d9-80dc554d8398",
+      "Value": "\"Good afternoon! Am I interrupting something?\""
+    },
+    {
+      "Key": "b5f0411b-de10-4b85-b64e-715429608818",
+      "Value": "\"Em... No, no, not at all! Welcome, dear guests, please sit down! How can we help you? Would you like to have dinner? Or maybe a room for the night?\""
+    },
+    {
+      "Key": "dd2ca22e-5296-4732-b848-487fee0fc7f1",
+      "Value": "\"Make sure not to order any meat. I heard it's... strange here.\""
+    },
+    {
+      "Key": "335fdefe-466d-4509-9dc0-8ada5f0e3949",
+      "Value": "\"I'm afraid we don't have any meat, only cabbage soup. And bread – but the bread is fresh!\""
+    },
+    {
+      "Key": "96cb030f-d017-4cdd-ab8d-a9fe7b030bf8",
+      "Value": "\"Are you sure you're all right?\""
+    },
+    {
+      "Key": "0a454f7b-dae4-4bfe-a7e9-7a1d18235f4e",
+      "Value": "\"Well, have you looked around? Have you found anything?\""
+    },
+    {
+      "Key": "91afd4d3-4ac6-421a-9278-d6b847266642",
+      "Value": "\"Yes, yes, of course! Don't worry about a thing!\""
+    },
+    {
+      "Key": "828d65f9-1484-4e4d-8fcf-18867705962e",
+      "Value": "\"Then I suppose you won't mind if my people take a look around your inn? By the way, I forgot to introduce myself. Maegar Varn – the baron of these lands. I've heard rumor that guests at your inn are treated rather badly. But surely this must be idle gossip?\""
+    },
+    {
+      "Key": "5dbeb245-6824-424e-a8ce-bef011d9fe41",
+      "Value": "{n}The old man looks at the old woman, then you, and then turns his eyes back to Maegar.{/n} \"Em... Yes, yes, of course! Please look around! I assure you, everything here is in order!\""
+    },
+    {
+      "Key": "58e26eaf-f28d-4873-9776-a48593100200",
+      "Value": "{n}Maegar turns to you and winks surreptitiously.{/n} \"Cephal and I will remain here just in case, to keep an eye on everyone. You have a look around. And if you have any questions, I'm sure our dear hosts will be happy to answer them.\""
+    },
+    {
+      "Key": "594b1824-9066-4fea-b459-37c9346dfcbb",
+      "Value": "\"I am Mytko, Mytko Bragic, and this is my wife, Kalina. We came from... em... Brevoy. Wanted to move someplace new. And we opened this inn...\""
+    },
+    {
+      "Key": "c077cf1b-eec8-4837-bcb8-c54431dc57f3",
+      "Value": "\"I'm Yorgesh, a simple merchant from {g|Restov}Restov{/g}. I'm on my way to {g|Galt}Galt{/g} to trade... I've been here before, and never had any problems. The beds are warm, the food is good, and the roof doesn't leak!\""
+    },
+    {
+      "Key": "70b07122-6e9a-4ac0-a772-4fac34034c7e",
+      "Value": "\"Great! Let's hear what my people managed to find out!\""
+    },
+    {
+      "Key": "a2742fb5-c51d-4715-9a94-5a4701f0f21b",
+      "Value": "\"Right, there are lots of passers-by here, settlers, merchants... And we thought an inn by a ford would be sure to have a regular flow of guests!\""
+    },
+    {
+      "Key": "28a628eb-251c-4aab-80d8-be9b6f2df169",
+      "Value": "\"And treating our guests badly? Why, that's slander, I swear by all the gods! We... em... We value our reputation!\""
+    },
+    {
+      "Key": "39b5fafb-0d30-4d38-9bd8-4fc90f322e26",
+      "Value": "\"Keep your eyes peeled – any evidence might be important!\""
+    },
+    {
+      "Key": "7d11db4c-a480-40f8-9374-f28a1f24dc4e",
+      "Value": "{n}The old people exchange nervous glances.{/n}"
+    },
+    {
+      "Key": "401c2566-c069-4eb4-8bd9-efc9b680aca9",
+      "Value": "\"Really? Well then, forgive us for the intrusion, dear hosts. Thank you for your hospitality. We have to go.\""
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "fbbbf82d-3720-4f21-a01d-bd9c8f626e89",
+      "Value": "\"I am an agent on a secret mission!\""
+    },
+    {
+      "Key": "8015ddf4-31e6-43d2-8ef5-0585921b2753",
+      "Value": "\"I'm {name}, I was just passing by.\""
+    },
+    {
+      "Key": "fe7f34bf-999f-4fab-b85e-0d87a14957db",
+      "Value": "[Attack] \"Die, monster!\""
+    },
+    {
+      "Key": "3adf5ad3-e938-41c0-8b6f-8d83d5fd7284",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "c246989d-875e-4a06-b63d-8929787842f5",
+      "Value": "\"I was hired to exterminate all the goblins in the surrounding woods!\""
+    },
+    {
+      "Key": "bb6cde2a-cc57-4019-9e9e-a2ebbc588260",
+      "Value": "\"Local ruler sent me to spy around the Kingdom of eternal summer, where people have never seen snow!\""
+    },
+    {
+      "Key": "03e5d32c-28fc-4bb0-b2e4-dbcd9281bf82",
+      "Value": "\"I act as an ally of orcs in their struggle against the powerful sorcerer!\""
+    },
+    {
+      "Key": "513fc316-d5da-47d4-86f5-50488b4dd7fd",
+      "Value": "\"Of course! And if you pay me, I'll send you a guide, who'll show you the shortest way!\""
+    },
+    {
+      "Key": "4474069b-2c57-40c0-a3aa-ef67e17fd4f0",
+      "Value": "[Attack] \"No, idiot, I'm fooling you! Prepare to die!\""
+    },
+    {
+      "Key": "1179d7ff-a28c-400d-b91c-7583099bdd21",
+      "Value": "\"You need to go south, always south.\""
+    },
+    {
+      "Key": "3b9627ad-b15d-4ee9-870a-341832043283",
+      "Value": "[Attack] \"I've changed my mind. Die!\""
+    },
+    {
+      "Key": "2350130f-c875-49c4-a97d-d88cbf9737a1",
+      "Value": "\"I need to think about it. While I am, I'll go about my business.\""
+    },
+    {
+      "Key": "29fec6eb-74db-4e8d-84eb-d39fd4f7bdca",
+      "Value": "\"Of course! And if you let me go, I'll explain how can you get there!\""
+    },
+    {
+      "Key": "80be652c-f938-496d-93fb-60945f31eade",
+      "Value": "\"Great! I'm going home now, and then I'll send my best ranger to you. He'll arrive tomorrow morning.\""
+    },
+    {
+      "Key": "ab9d0a46-bb3e-4d3e-9442-d904390b0e3e",
+      "Value": "{n}With their mouths open, three hill giants stare at you, puzzled. Finally, after a long pause, one of them points his finger at you.{/n} \"You...\""
+    },
+    {
+      "Key": "970ad1d8-c6e6-471f-881e-fe7ef92e212c",
+      "Value": "\"Where do you think you're going?\""
+    },
+    {
+      "Key": "37033d85-c742-4fb4-97c4-45d037803f34",
+      "Value": "\"Ask {mf|him|her}, Grug!\""
+    },
+    {
+      "Key": "9c0efbb9-e5e2-4fa9-b3dc-dff1f2f78839",
+      "Value": "\"SHUT UP, BREK!\""
+    },
+    {
+      "Key": "9e9d1745-7027-49d9-9e78-12d72cd28988",
+      "Value": "{n}The third giant has been silent all this time. Judging by his expression, he seems to be trying to figure out what's going on.{/n}"
+    },
+    {
+      "Key": "e37a515b-e6af-46d1-8fd8-0c65f1aec801",
+      "Value": "{n}Brek licks his lips with his huge, sore-covered tongue.{/n} \"Let's eat them, Grug! We'll eat them, right?\""
+    },
+    {
+      "Key": "3985ca29-7ea8-4435-bdd4-ec0b12010472",
+      "Value": "{n}Grug answers with a menacing smile.{/n} \"What do YOU think?\""
+    },
+    {
+      "Key": "ed96187b-8e33-4fad-b02b-bfc1d82f2c39",
+      "Value": "{n}Grug and Brek exchange looks. The third giant scratches his head and looks at them expectantly.{/n} \"What mission?\""
+    },
+    {
+      "Key": "6e0dfecd-0b1b-4864-ba63-21ca6df96856",
+      "Value": "{n}Narrowing his eyes, Brek glares at you.{/n} \"It seems to me {mf|he|she}'s lying, Grug! For {mf|him|her}, lying is as easy as breathing.\""
+    },
+    {
+      "Key": "435ed89e-5957-4b6e-96c7-9d7045fb7721",
+      "Value": "\"I agree, Brek.\""
+    },
+    {
+      "Key": "0c616f59-4e24-45e5-b84a-5c2687e5b6fb",
+      "Value": "\"Grug! I've never tasted a goblin before.\""
+    },
+    {
+      "Key": "8081df18-eb2e-436a-a777-8b32f0fac863",
+      "Value": "\"So what? I don't care what you tasted and what you didn't.\""
+    },
+    {
+      "Key": "10f5b4db-8062-46c6-af80-3b6361f96e36",
+      "Value": "{n}Brek spits on the ground, irritated. Then his gaze falls on you.{/n}"
+    },
+    {
+      "Key": "6e2407d3-9ce8-4365-9008-2bd851dba246",
+      "Value": "{n}Grug's face twists in thought, then he grunts dismissively. It looks as if he doesn't care about orcs and sorcerers.{/n}"
+    },
+    {
+      "Key": "000b3de7-c8ab-42b1-8e33-48b49bc3fdbf",
+      "Value": "{n}Grug's thunderous laughter almost deafens you.{/n} \"No, this won't work with us!\""
+    },
+    {
+      "Key": "c257809e-b4b0-43a2-a28a-6bd1332f27bf",
+      "Value": "{n}Brek's eyes light up.{/n} \"You say it's always warm there? With soft grass all around?\""
+    },
+    {
+      "Key": "a421c6d0-d2c8-4b93-b5b1-05f5b5f2d536",
+      "Value": "{n}Clearing his throat, Grug turns back to you.{/n} \"Who're you?\""
+    },
+    {
+      "Key": "17b959a9-647d-4b0c-ae04-b40c7e5892fa",
+      "Value": "{n}Brek rubs his stomach and looks at Grug pleadingly.{/n} \"Grug, come on…\""
+    },
+    {
+      "Key": "321a68fe-7d51-447e-b2a2-53b3320d3943",
+      "Value": "{n}Grug clicks his tongue, annoyed.{/n} \"Don't even start!\""
+    },
+    {
+      "Key": "67a4fd52-9c0c-41b4-b487-0eca18b126fe",
+      "Value": "\"Grug... remember when I let you have that juicy lamb? You said you'd owe me if I gave it to you! You promised!\" {n}Brek leans forward to whisper in Grug's ear, but the giant's 'whisper' echoes throughout the cave.{/n} \"After he shows us the way, we can do with this guide whatever... we... like...\""
+    },
+    {
+      "Key": "c78f7c4c-5356-4600-a3bf-55300907acd7",
+      "Value": "{n}Grug sighs.{/n} \"Damn you… Fine, here's your money, little one. When will this guide of yours arrive?\""
+    },
+    {
+      "Key": "dd0893e0-9cc6-4432-8bd6-c861a83cb513",
+      "Value": "{n}Grugs looks at you suspiciously.{/n} \"No, first you tell us! Spit it out!\""
+    },
+    {
+      "Key": "32837b9e-53e0-4f64-9673-b9f6677122c4",
+      "Value": "\"How about that? Soon as I got bored of not fighting, a fight came and found us!\""
+    },
+    {
+      "Key": "f06e6dfb-a9f2-4057-9c11-8ef8f7d69ba2",
+      "Value": "\"Eaten by a giant... Is that a good end, oh {g|Groetus}Groetus{/g}? I must consider the matter.\""
+    },
+    {
+      "Key": "9a5135f9-79e2-4f4e-b8b9-c39e4e0d9110",
+      "Value": "{n}With violent giggling, Nok-Nok bares his weapon.{/n} \"These good enemies! Big enough for Hero Nok-Nok!\""
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "fc64a06c-eeb8-4b20-a8cb-d89561863367",
+      "Value": "[Attack] \"No mercy for monsters! Prepare to die!\""
+    },
+    {
+      "Key": "8c593888-9444-461c-8fa6-449ac41822d5",
+      "Value": "\"You weren't too eager to show mercy to us. Why should I show mercy to you?\""
+    },
+    {
+      "Key": "476055b0-a182-4020-b096-530a7c4c1a88",
+      "Value": "[Attack] \"Your actions have caused numerous human deaths. It's time for you to answer for your crimes.\""
+    },
+    {
+      "Key": "2b0fb468-76c4-411d-9594-fba5f180ac31",
+      "Value": "\"If you hadn't killed people, I wouldn't have had to destroy your home.\""
+    },
+    {
+      "Key": "5ca6224e-a7a3-4140-889b-718a4c0b2730",
+      "Value": "[Attack] \"You'll die now, troll. But first, tell me — how does it feel to be the sole reason for the deaths of your family, your friends, and all of your kin?\""
+    },
+    {
+      "Key": "6a0a29dc-b09e-4eb3-a9b8-565b52133a60",
+      "Value": "\"...Leave now. And I don't want to see you again — in this life, or the next.\""
+    },
+    {
+      "Key": "564470cd-538b-4d3c-a98f-df2765a7ded7",
+      "Value": "\"What would you do if I let you go?\""
+    },
+    {
+      "Key": "f3437188-d694-4486-b651-84e1df987859",
+      "Value": "\"How did you manage to gather, let alone control, so many trolls?\""
+    },
+    {
+      "Key": "e380b401-7cfd-42ef-9369-d536831f905e",
+      "Value": "\"So you're just poor pariahs, cast away over a tiny flaw like the craving for human flesh? You know, it's funny, but I'm feeling merciful today — pledge fealty to me, swear you'll stop eating humans, and I'll let you continue to live here in Trobold.\""
+    },
+    {
+      "Key": "4675bace-7c37-478f-af26-a00b6b4fb249",
+      "Value": "\"Why not? You certainly wouldn't be the strangest thing in my lands.\""
+    },
+    {
+      "Key": "2ed29d1e-060c-4c7f-9439-0fe058317d59",
+      "Value": "\"On second thought, I guess not. Letting you live here would be a mistake.\""
+    },
+    {
+      "Key": "31842c6f-07b8-49a6-b7bc-abc5cc88d89c",
+      "Value": "\"Borba… lets Hargulka go?!\" {n}His eyes widen and his eyebrows tilt upward.{/n} \"Borba truly means it?!\""
+    },
+    {
+      "Key": "6f4b0431-f0f8-440e-a95b-45174308c7eb",
+      "Value": "{n}Hargulka jumps up and hurries to leave, as if you might change your mind — then stops, turns, and his eyes locks with yours.{/n}"
+    },
+    {
+      "Key": "2ffa83f7-05cc-4131-85b1-e1eb5847497e",
+      "Value": "\"Thank you, {race}.\""
+    },
+    {
+      "Key": "ab233915-45a6-4c75-8667-4d8b3f5eded7",
+      "Value": "{n}The troll gives a rasping chuckle.{/n} \"Dumb, dumb borba likes big words, right? While you spoke, Hargulka healed his wounds.\" {n}He straightens.{/n} \"If Hargulka dies now, borba dies with him.\""
+    },
+    {
+      "Key": "3aeea2ad-e45b-417e-85c2-70aa8886464d",
+      "Value": "\"Hargulka doesn't — doesn't want to fight anymore. Borba… Borba won.\" {n}His voice is ragged, his breathing heavy.{/n}"
+    },
+    {
+      "Key": "dfa03fe0-c414-446f-afda-9c0b3deced27",
+      "Value": "{n}Hargulka spits blood on the floor. The aura of might and power he displayed before seems to have vanished into nothing. What you see now is an extremely tired, wounded, and elderly troll, his pelt worn and his face wrinkled.{/n}"
+    },
+    {
+      "Key": "b18c6d73-04b9-4634-b220-4f8ed06057ef",
+      "Value": "\"Don't know, borba. Hargulka would not let you go.\" {n}He shakes his head slowly.{/n} \"Trolls wanted a kingdom. Home. But failed to protect it from borba.\""
+    },
+    {
+      "Key": "35456e73-404e-4f7b-becd-10ac0a0b1b6d",
+      "Value": "\"Trolls always ate borba. Always fought borba. How stop something that was always?\" {n}Hargulka speaks quietly, almost as if apologizing for the generations of trolls who came before him.{/n}"
+    },
+    {
+      "Key": "387c9181-3aed-430c-84bc-52995f2ccf34",
+      "Value": "\"Dumb borba, you not understand.\" {n}Hargulka sighs.{/n} \"Hargulka brought no one. Trolls came to Hargulka on their own will.\""
+    },
+    {
+      "Key": "744ba309-3485-4698-8715-c6c495bc7763",
+      "Value": "\"Let Hargulka go?\" {n}The troll looks surprised.{/n} \"Hargulka will... leave. Go far away. Far away from borba.\" {n}He rubs his neck, puzzled.{/n} \"Hargulka will find other trolls. Teach them to not be afraid.\""
+    },
+    {
+      "Key": "83b5cecb-87b6-4e28-8b0c-04e218186a02",
+      "Value": "\"Tartuk ordered stop eating borba. Hargulka wanted unite trolls first, teach them stop eating borba later.\" {n}Hargulka glances briefly at the kobold's corpse.{/n} \"Tartuk was right.\""
+    },
+    {
+      "Key": "cf588b80-19b6-47cd-962d-4c84cf1cd59c",
+      "Value": "\"Hargulka was first branded by Tartuk. First be immortal. Hargulka showed the trolls they could live without fear.\" {n}He looks at Tartuk's body, then looks away.{/n} \"No more brand. Fear comes again.\""
+    },
+    {
+      "Key": "8c652d5f-4f64-4a34-bcc8-2802e3ba3775",
+      "Value": "{n}His words come out faster, stronger.{/n} \"Yes. Yes! Hargulka will find new home for trolls. Far from borba. No eat borba, because there are no borba around. New home.\" {n}The troll's gaze brightens.{/n}"
+    },
+    {
+      "Key": "f1044403-aff4-4cbc-b7ee-63b8f2315290",
+      "Value": "{n}After Tartuk's death, the troll's strikes become slow and hesitant. Finally, Hargulka drops his club and squats, clearly fatigued.{/n}"
+    },
+    {
+      "Key": "9b22adcd-be5d-4285-8feb-f0d15b3b8674",
+      "Value": "{n}Ekun winces with contempt.{/n} \"Tell me this is a trick. Tell me the monster will die and devour no one else.\""
+    },
+    {
+      "Key": "93b01518-6b11-4a0b-8864-fbc8d2535749",
+      "Value": "{n}Octavia gently touches your shoulder, as if to urge restraint.{/n} \"I believe him. We should let him go.\""
+    },
+    {
+      "Key": "0b4683de-14b0-4ddc-b6d4-d24daaf56996",
+      "Value": "{n}Hargulka stares at you for a moment, his forehead wrinkling.{/n} \"Borba must be joking? Or crazy? So much blood between borba and trolls, and you'll let trolls live?\""
+    },
+    {
+      "Key": "555e7062-65b6-4e96-a22c-cba7d754df2a",
+      "Value": "\"Are you sure? Mercy is a virtue — but do you really believe trolls can stop eating humans?\""
+    },
+    {
+      "Key": "f8e7d6ff-285d-4680-bbb7-d6397c2a81c1",
+      "Value": "\"Aha, I see, that's what your barony needs most! Forget roads, trading houses, farms — a troll sanctuary is what's truly needed! Come on, surprise me, cast away your state before you really start building it!\""
+    },
+    {
+      "Key": "8bb16b60-b4c5-4b71-a1a8-8bd1edb5f8fe",
+      "Value": "\"Sparing trolls, relying on their word of honor? Even paladins of {g|Shelyn}Shelyn{/g} wouldn't give in to such meaningless, starry-eyed idealism! Do not let the crocodile tears of these monsters fool you — they'll return to their vile ways as soon as we are gone!\""
+    },
+    {
+      "Key": "97fc129f-f5bd-498f-b754-17c23c9740fe",
+      "Value": "\"Even the troll understands you must be mad to make a troll-house in the middle of the barony! Why are we still talking?! Let's finish this.\""
+    },
+    {
+      "Key": "2216e72a-b312-423c-924a-677bbea77175",
+      "Value": "\"Have you gone mad?\" {n}Ekun clenches his teeth and glares at you.{/n} \"Don't listen to this beast! They attacked villages, ate people alive! They will do so again!\" {n}Ekun falls silent, then begins again, slowly.{/n} \"If... if you let them live, I will travel with you no longer.\" {n}He steps back, watching you.{/n}"
+    },
+    {
+      "Key": "3bc35a4c-2181-45ae-99ab-590339998af1",
+      "Value": "{n}Hargulka stares intently at you.{/n} \"Hargulka will forbid trolls to eat borba. Hargulka will pledge fealty. Will you — will you really let trolls stay in {g|Trobold}Trobold{/g}?\""
+    },
+    {
+      "Key": "581d4681-dc03-408b-ba6a-38924b5ffca3",
+      "Value": "\"Borba mocks trolls? Or invents some scheme for trolls, like Tartuk? Hargulka not understand. Not understand at all.\""
+    },
+    {
+      "Key": "942596da-6f6e-4b47-aedc-267d0d9dc668",
+      "Value": "{n}Ekun's brow is furrowed… and his hand falls to his weapon. There's a moment of silence between you, then he shakes his head and turns away.{/n}\n\"Farewell.\""
+    },
+    {
+      "Key": "6bab2d31-9763-4f06-a956-bbde901e0b94",
+      "Value": "{n}Hargulka searches your face, confused.{/n} \"This never happened before. But Hargulka believes it can happen.\""
+    },
+    {
+      "Key": "6bdaa630-84e2-4d1f-83ec-2316708c3325",
+      "Value": "\"Hargulka swears to be your friend, {race}. Hargulka swears to forbid trolls eat your kin. From this day, and while {g|Trobold}Trobold{/g} stands, humans are not borba.\""
+    },
+    {
+      "Key": "69e66565-84da-46c6-97bb-54c45dc14338",
+      "Value": "\"Hargulka will gather those who are still alive. Tell them about what happened here. You better leave now, {race}. Come back when all trolls know you are a friend.\""
+    },
+    {
+      "Key": "ca8f8e5e-d5a3-4bf4-8187-5f140584898d",
+      "Value": "\"Oh, sure. Let's spare some man-eaters. Come on, chop his head off so we can go celebrate the victory!\""
+    },
+    {
+      "Key": "6d424d58-0223-4594-9b5b-137cf349ab77",
+      "Value": "\"I hope your mercy wakes something kind in his soul.\" {n}Tristian smiles.{/n} \"You seem to change everyone you meet for the better — I think Hargulka will be no exception.\""
+    },
+    {
+      "Key": "da929670-c1f6-4dc2-8224-ffd4c1d1f8ec",
+      "Value": "{n}The troll lets out a rasping chuckle.{/n} \"If Hargulka dies now, borba dies with him.\""
+    }
+  ]
+}

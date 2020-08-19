@@ -1,0 +1,185 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "978df197-1232-41ac-8d4b-d5c3d1d890c2",
+      "Value": "\"Nice to meet you, Nilak.\""
+    },
+    {
+      "Key": "e8f6b859-5584-4fd3-836d-1bfeb6778fee",
+      "Value": "\"So, what brought you to these lands?\""
+    },
+    {
+      "Key": "b30e542a-c179-42bf-b9a7-639e4a73039c",
+      "Value": "\"Amiri never told me about you.\""
+    },
+    {
+      "Key": "3c424449-d3d5-46e3-aebb-420dbc3b0e9a",
+      "Value": "\"I see you and Amiri are old friends.\""
+    },
+    {
+      "Key": "dbe61c2d-ef72-4eaf-b871-6b13dd7a83ed",
+      "Value": "\"Sounds like you're not too clever, so I'll speak in a language I'm sure you understand: one more rude word, and I'll punch your rotten teeth down your throat!\""
+    },
+    {
+      "Key": "804cc5ce-457b-4d40-981f-a06f083caee0",
+      "Value": "\"Choose your words carefully, barbarian. You and your tribe are guests here.\""
+    },
+    {
+      "Key": "009e3cfc-ec29-4791-998c-381c7274ad1d",
+      "Value": "\"What do you mean by 'need'?\""
+    },
+    {
+      "Key": "9ad70160-09b8-4ed2-8832-36572bff3d09",
+      "Value": "\"Amiri is no longer one of your tribe. She's with me now, so if you need something from her, you'll have to speak with me first.\""
+    },
+    {
+      "Key": "d457b782-c65a-467b-b1d9-3920ed74ec37",
+      "Value": "[Watch silently]"
+    },
+    {
+      "Key": "e8d34767-db59-4265-859a-189505b0d089",
+      "Value": "\"Do it, Amiri! Finish him off!\""
+    },
+    {
+      "Key": "f92ad3f4-c41a-4916-9b5a-6dc10e7be62b",
+      "Value": "{n}As soon as you approach the camp, a bright-eyed girl in a long skirt runs up to Amiri and gives her a big hug.{/n} \"Amiri! You're really alive! Oh...\" {n}The girl sobs and wipes her eyes.{/n} \"Everyone said you were killed by the giants. But I always believed you survived — and no one ever found your body! Amiri, I missed you so much!\""
+    },
+    {
+      "Key": "2f8be8f8-27e0-4dc3-adf7-09102ad42f8c",
+      "Value": "\"There, now… Stop crying. I'm alive, alive and well. You know nothing can beat me! Here, meet each other. Nilak, this is {mf|Baron|Baroness} {name}. {mf|He's|She's} something like a new chieftain for me now. {name}, this is Nilak. She... She's the only decent person in my whole lousy tribe!\""
+    },
+    {
+      "Key": "eaea2d2b-0974-40ea-b476-be109092a253",
+      "Value": "\"Don't say that! Yes, the elders were mean to you, but you shouldn't blame the whole tribe!\" {n}Having wiped her eyes, Nilak presses her hands against her chest and bows before you.{/n} \"I am Nilak, song keeper of the Six Bears. You must be the ruler of these lands. Forgive us for intruding into your domain, but we...\""
+    },
+    {
+      "Key": "17420e1b-52b1-4237-9899-fd44e4eb31d1",
+      "Value": "\"Wait, really?\" {n}Amiri interrupts her.{/n} \"You are really song keeper now? That's great! Since when?\""
+    },
+    {
+      "Key": "8aa01322-2a73-41c0-9d9f-faf5096740cf",
+      "Value": "{n}Nilak gives her a sad smile.{/n} \"I always wanted to be one. While you were learning to fight, I learned the legends. While you were training with the sword, I trained with the tambourine. But I was initiated... during your funeral feast, Amiri. — When we were saying goodbye to you and your party. As I sang at the funeral pyre, my heart broke in pain. {g|Desna}Desna{/g} whispered to me, and told me how I could turn this pain to power. Even the rocks and stones cried over the fallen, when they heard my song that night.\""
+    },
+    {
+      "Key": "f1f8bc22-a591-4ee7-bc4a-861e84b49d84",
+      "Value": "\"We were like sisters from childhood. She…\""
+    },
+    {
+      "Key": "590bf32d-b3ec-4bf3-baca-19137e569d2c",
+      "Value": "\"It just didn't come up. In fact…\""
+    },
+    {
+      "Key": "c57c7f6c-2238-4a27-8f54-551c2bebbe23",
+      "Value": "\"May both our tribes live in peace. We…\""
+    },
+    {
+      "Key": "e09fddb2-f25b-410f-afc6-2c473a2e3600",
+      "Value": "\"We're being haunted by a…\""
+    },
+    {
+      "Key": "87145d76-5139-4c19-aa9b-4554cc357172",
+      "Value": "{n}An old, grey-haired barbarian with a tattooed face interrupts her.{/n} \"Nilak! Who are you chatting with? Who are you? Wait...\""
+    },
+    {
+      "Key": "07cf610f-0566-4203-b8e2-40fa08926606",
+      "Value": "{n}He looks closer at Amiri's face an suddenly starts to yell, pointing his crooked finger at her.{/n} \"You! Pariah! Freak! After all you did, you still have the nerve to come and show your ugly face here!\""
+    },
+    {
+      "Key": "5e98d4ee-1405-401d-a542-b1ea2f1bba0c",
+      "Value": "\"Chieftain Akaia, this is {mf|Baron|Baroness} {name}, we're in {mf|his|her} lands now. Please soften your heart. Maybe {mf|he|she} can help us.\""
+    },
+    {
+      "Key": "d1d5946f-5174-47fa-8487-5c73a0eac1a7",
+      "Value": "\"Hm! Hm. A baron? That's something like a chieftain, right? You don't look like one... Well, whatever. I am Akaia, chieftain of the Six Bears tribe, and I need you to give me this dirty scumbag!\" {n}He points his finger at Amiri.{/n}"
+    },
+    {
+      "Key": "1b5b95e0-7feb-4be6-8536-b5c5fa53ae66",
+      "Value": "{n}The chieftain gives you a contemptuous look.{/n} \"A baroness, huh? Yet another tribe ruled by tits? Ugh. Fine. I am Akaia, the chieftain of the Six Bears tribe, and I need you to give me this dirty scumbag!\" {n}He points his finger at Amiri.{/n}"
+    },
+    {
+      "Key": "53a5e7c6-79c4-4737-bb1b-42b8ddf24684",
+      "Value": "\"Guests?! We'd rather be guests in {g|Abyss}Abyss{/g} than this hole. But we had to come. I'll tell you why we're here!\""
+    },
+    {
+      "Key": "65672594-5531-4900-9589-27ce8d6511fe",
+      "Value": "\"You threaten the Six Bears, you foolish {mf|pup|chick}?! Don't waste your breath. Thanks to her we've witnessed horrors you can't imagine! Just let me tell you what she's done to us!\""
+    },
+    {
+      "Key": "3308c034-0056-4e4f-b5f2-5927407e6979",
+      "Value": "\"This criminal has the blood of her tribesmen on her hands! I'll tell you what she did to us — and then you can decide if you want scum like that in your tribe!\""
+    },
+    {
+      "Key": "47ad31bb-241c-4034-a38e-29ebbb2582cb",
+      "Value": "\"You have no idea of what a venomous snake you've invited into your tent! Listen to me, and I will tell you!\""
+    },
+    {
+      "Key": "564e1ae9-df38-4667-bbd8-57c41864b021",
+      "Value": "\"From the dawn of time, our tribe lived by the old ways: everyone had a place, a job to do. Men crafted and went hunting. Women bore children and kept the huts clean. These are the ways set by our ancestors, and we do not change it! But then this upstart girl wants to match herself against men. She passed the warrior's initiation. She went hunting... But there's truth in the saying: nothing good comes from a woman with a sword! Neighbour tribes laughed at us: look, there's a second chieftain in the tribe! Soft Chieftain, girl chieftain — must be the end of the Six Bears! And they were right: she brought disaster upon our whole tribe!\""
+    },
+    {
+      "Key": "e9c01edc-33c3-4bcf-9a82-d1a64aa7b265",
+      "Value": "\"Once, a gang of giants came to our lands. They scared our prey, attacked our huntsmen... So we decided to deal with them. We sent a group — and she went along. For a long time we waited for this group to return, then we went searching for them even longer — but all we found were their dead bodies! Giants killed them all! Everyone... except for her!\""
+    },
+    {
+      "Key": "ab6841f4-16bf-4c02-aeca-cf4ceb1cd484",
+      "Value": "\"And then things got even worse. Have you seen those monsters? An evil spirit sends them! The ghost of a giant! He's the one who chased us from our lands! He chased us through all of {g|Numeria}Numeria{/g}! Even now, he's somewhere nearby — maybe he's just over that hill! He chases us, kills our people... And always says the same: \"Bring the thief to me! Find Amiri!\""
+    },
+    {
+      "Key": "c45c86b5-bfc6-4081-91c7-a089132c0d9a",
+      "Value": "{n}The chieftain turns to Amiri, his face red with anger. He shouts, slobbering in her face:{/n} \"Now you understand?! That's what your dreams have cost us! You brought a curse on our tribe — pariah! Now, hand me your weapons and get yourself to the women's hut! That is your place! It always was, and always will be! We'll feed you to the ghost, and maybe then he'll leave us alone. And at least you'll atone for a tiny part of your guilt!\""
+    },
+    {
+      "Key": "94c359ca-df43-4975-9323-71177ba63eaf",
+      "Value": "{n}In reply, Amiri headbutts the chieftain's face, breaking his nose with a sickly crunch. Paying no heed to Nilak's squeal, and growling in anger, she leaps upon him, punching the old man's face. The chieftain spits blood and struggles to speak — and Amiri grabs her sword. You realize that a murder will quickly follow.{/n}"
+    },
+    {
+      "Key": "47e65f3f-d59e-4a31-bfab-5ba420c7b4df",
+      "Value": "{n}Amiri raises her sword. Akaia shuts his eyes, but the final blow never comes. Amiri sheathes her sword, pushes the chieftain onto the ground and spits on him.{/n} \"Get lost of my sight, you scumbag! Next time I see you I won't stop at words!\""
+    },
+    {
+      "Key": "73ddd6e1-17a4-4db2-973c-7a616ec7bf15",
+      "Value": "{n}Amiri plunges her sword into the chieftain's chest. She breathes heavily, staring at the old man as he falls to his knees before her. Then she looks around the campsite, and all the barbarians who witnessed the scene, Nilak included, dash inside their huts.{/n}"
+    },
+    {
+      "Key": "fb659140-31f5-4f24-a335-f26c41fb4a3c",
+      "Value": "{n}Nilak helps the defeated chieftain stand up, and takes him into the nearest hut. The rest of barbarians hurry away, hiding themselves from Amiri's anger.{/n}"
+    },
+    {
+      "Key": "8545a803-78a0-433f-961a-0388924b2f43",
+      "Value": "{n}Panting heavily, and swaying like a drunk, Amiri approaches you and puts her bloody hand on your shoulder.{/n} \"That old goat said... Some evil spirit must be somewhere nearby. Let's go. We find him, and we kill him. And then we make them all go back where they from. I don't owe to them. Nothing. And never. I don't want to see them never again.\""
+    },
+    {
+      "Key": "b4e5020d-93cb-4974-a0e1-942b0bf9772b",
+      "Value": "\"So you're a bard? Great! Me too! We should share some songs when we have time. You can tell us what they sing in your tribe, and I'll tell you all about Amiri's feats!\""
+    },
+    {
+      "Key": "c81e1c4f-b388-4c2c-9b61-13a313bd74f9",
+      "Value": "\"I'd like that!\""
+    },
+    {
+      "Key": "bf898e47-d84f-4638-890f-6f4fb53144da",
+      "Value": "\"Watch your tongue, chief. You are a guest in these lands — uninvited, and not particularly welcome.\""
+    },
+    {
+      "Key": "3238faa7-cef0-4757-94a3-5771f2fef996",
+      "Value": "\"Quiet, woman! The chiefs are talking! You think you can talk back to a warrior just because you learned to put on armor?\""
+    },
+    {
+      "Key": "ceecd7e5-c59f-41eb-9035-7ee2b7d158d7",
+      "Value": "\"Soft chief? They really couldn't find a better nickname for this brontosaurus than soft?\" {n}Jubilost chuckles.{/n} \"Or does this tribe consist only of giants? I mean, that's obviously not true... unless gender stereotypes are having a serious impact on the perception of reality...\""
+    },
+    {
+      "Key": "da390992-e018-4448-8614-39eb5b6b3865",
+      "Value": "\"I am proud of you, Amiri. Returning the sword to the sheath and avoiding bloodshed — that is a true feat that not many are capable of.\""
+    },
+    {
+      "Key": "00344837-f659-4fb0-ad4f-dc8ba5b479f8",
+      "Value": "\"Oh, get lost! This isn't the time for your lectures!\""
+    },
+    {
+      "Key": "3e51e341-b7a3-4bec-9a70-c63037e5781c",
+      "Value": "\"Think somebody maybe wants get stabbed...\""
+    }
+  ]
+}

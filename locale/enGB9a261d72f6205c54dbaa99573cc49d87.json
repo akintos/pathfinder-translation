@@ -1,0 +1,273 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "21247271-907e-4c01-9511-1090fb9dafd3",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "aa3cef14-1ed0-4b11-bcc9-4cc01f1204e9",
+      "Value": "\"Tell me about those who tricked you.\""
+    },
+    {
+      "Key": "5e04cbec-ba42-42da-b6b4-c813c350e3ad",
+      "Value": "\"You don't seem like a local. Why would you keep these possessions of yours on the island in the middle of Candlemere Lake?\""
+    },
+    {
+      "Key": "ba53a5b5-da85-4f1d-81c7-67aff8f79096",
+      "Value": "\"Fine, I'll try to figure it out.\""
+    },
+    {
+      "Key": "d5b513ac-b1d0-4900-b514-a6de3a384764",
+      "Value": "\"I'll need someone to show me the way. Would you go to the island with me?\""
+    },
+    {
+      "Key": "7f9c9f78-7c5a-4766-b402-3ce36e51d6d4",
+      "Value": "\"This whole story sounds strange. I don't really want to get involved.\""
+    },
+    {
+      "Key": "64d0a178-eb11-478e-926e-9fff4a89e148",
+      "Value": "\"I visited the cursed island. It's swarming with monsters, the whole crew is dead, and the ruins are empty — except for some ancient magic in the tower walls.\""
+    },
+    {
+      "Key": "8d2115fe-cccd-4f07-a592-93b58e044f92",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "5b45f2b3-f190-4108-90e9-b8d929d8084d",
+      "Value": "\"Can you tell me more about them?\""
+    },
+    {
+      "Key": "1d69901a-9d77-4017-a1d0-7327a3e774e6",
+      "Value": "\"A paladin and a cleric who willingly took a job running errands for you? Sounds strange, if you ask me.\""
+    },
+    {
+      "Key": "60e5edaa-199f-48f3-abf8-784978dc683c",
+      "Value": "\"Let's go back to my other questions.\""
+    },
+    {
+      "Key": "a6d914a3-f659-4e09-b484-8786b389eba9",
+      "Value": "\"Which deity was this temple dedicated to?\""
+    },
+    {
+      "Key": "3d11688a-042c-430b-854a-e536c2cfec4b",
+      "Value": "\"Correct me if I'm wrong, but you believe that some sacred relics from the temple of an unknown deity belong to you? By what right?\""
+    },
+    {
+      "Key": "7f484b75-3fe6-4803-908a-7bc3a94e60d7",
+      "Value": "\"Someone offered sacrifices there — and I suppose we're not talking about animal sacrifices?\""
+    },
+    {
+      "Key": "8fb2d6a3-df30-4cd7-bb51-a1a5d9107933",
+      "Value": "\"What ghostly lights are you talking about?\""
+    },
+    {
+      "Key": "1c2a9c36-c857-4e9f-af67-dd3224f698a9",
+      "Value": "\"You mentioned a flash of light over the ruins. Did you see it with your own eyes, or just hear about it from someone else?\""
+    },
+    {
+      "Key": "eb72df85-7823-4eeb-ac9d-4761250b9a5d",
+      "Value": "\"I guess that's all I need to know about the island.\""
+    },
+    {
+      "Key": "e8c22472-0bf3-46a5-a485-301af92c5fcb",
+      "Value": "\"Of course, it exists. This island has seen too much sorrow and suffering — now any living creature who sets a foot there is doomed. The locals should stay away from the place to avoid the dormant evil within the tower.\""
+    },
+    {
+      "Key": "d29a5b85-7d6f-40b6-b2e8-3515c9dea856",
+      "Value": "\"There is no curse. Bad things just happen to people sometimes — it's as simple as that. These three went somewhere dangerous and failed to overcome its dangers. It's sad, but hardly supernatural.\""
+    },
+    {
+      "Key": "0be65f7f-cbd8-4bba-903e-436326d18836",
+      "Value": "\"You know, it just occurred to me... You sent those poor sods to the island, right? So it was you who doomed them and sent them to certain death — and then you sent me there, as well. So now I'll have to spend my own resources paying for a purification ritual, and you're just going to leave like nothing happened?\""
+    },
+    {
+      "Key": "d411a5c0-a79e-44cf-8f6b-56cf528788b4",
+      "Value": "\"I visited the cursed island. It swarms with monsters, the ranger and the paladin are dead, and the cleric of Nethys left in voluntary exile. The ruins are completely empty — no treasures.\""
+    },
+    {
+      "Key": "05debc84-17e0-4d92-9bde-23d24d9fb967",
+      "Value": "\"Why should I care? Three idiots dead, end of story. What about my reward?\""
+    },
+    {
+      "Key": "eed6bace-32e7-4013-a67e-99f0f9cc5c86",
+      "Value": "\"Whether it exists or not — are you going to spout nonsense about fate and doom now? The world's full of strange things, and looking for logic and consistency is a waste of time — people just do what they like. Some people sacrifice victims on an altar, others search for treasure among ruins, and some just grow sick and tired of listening to some boring idiot — so let's switch topics to something more interesting, like the reward for my work.\""
+    },
+    {
+      "Key": "49ef5003-d97d-4c7e-bce7-5eb905101687",
+      "Value": "{n}A plump man in his thirties approaches you. His hair's untidy, road dust covers his worn clothes, and his boots have seen better days. The stranger speaks to you in unusually high-pitched voice.{/n} \"Your Grace! I demand justice!\""
+    },
+    {
+      "Key": "2ee65b1a-9cb2-42c1-ac5e-888bf317c4ef",
+      "Value": "{n}Willas raises his eyes, and his face lights up.{/n} \"{mf|My baron|My baroness}! Have you changed your mind?\""
+    },
+    {
+      "Key": "1fbbea69-83bf-4c80-a8b7-f0bd3639c669",
+      "Value": "\"Crime in the barony is on the rise!\" {n}The man shakes his clenched fists, then drops his hands helplessly.{/n} \"In open daylight I was tricked, robbed, and if that weren't enough, humiliated!\""
+    },
+    {
+      "Key": "4bbff448-8323-4d0e-9098-93c4558c58ed",
+      "Value": "{n}Willas raises his head and gives you a nervous smile.{/n} \"{mf|My baron|My baroness}! I was waiting for you! Any news?\""
+    },
+    {
+      "Key": "85849c63-4867-4c9c-b4a9-0fce96556564",
+      "Value": "\"A gang of local thugs tricked me into trusting them. They found out about my possessions and disappeared with my treasures! I sent them to the island on {g|Candlemere}Candlemere{/g} some time ago, and they just vanished into thin air!\""
+    },
+    {
+      "Key": "f2d29cb3-56ba-4fac-a14d-2d6515c6f13d",
+      "Value": "\"I beg you — find these scoundrels and retrieve my treasure! I'll pay a handsome sum to be sure these villains are brought to justice!\""
+    },
+    {
+      "Key": "7d26a042-e884-43f1-b248-4e7680579815",
+      "Value": "\"Willas Gunderson, Your Grace! I'm a scientist, an explorer, an adventurer, and a renowned expert in treasures and artifacts of virtually every era and culture.\""
+    },
+    {
+      "Key": "61d63a6c-cc34-4ea2-88c0-04bfd4e759e5",
+      "Value": "{n}Jubilost eyes Willas up and down.{/n} \"So many titles for a single piece of mediocrity.\""
+    },
+    {
+      "Key": "860abbfa-142a-40d9-9491-cac5079e6e09",
+      "Value": "{n}Willas blushes and pretends that he just noticed the gnome.{/n} \"S-sir Narthropple! Y-you're here! What a nice s-surprise!\""
+    },
+    {
+      "Key": "d1dc5c43-57be-4cbe-9a37-7c6e522a399d",
+      "Value": "\"Oh really? In case you hadn't noticed, I've been here from the start. Or perhaps after the open lecture in the Forae Logos in {g|Absalom}Absalom{/g}, you've lost not only the rest of your mind, but also your eyesight?\""
+    },
+    {
+      "Key": "d8e563c3-6b6c-4c4d-bce1-e3996bdd1f86",
+      "Value": "{n}Willas straightens his jacket indignantly and lifts his chin.{/n} \"I see your manners haven't improved since last we met! Well, happily, I no longer consider you the beacon of knowledge you once were. You can joke however you like — I'm above such discourse!\""
+    },
+    {
+      "Key": "0a943408-cca5-4632-82ac-0980b49308a0",
+      "Value": "{n}Jubilost grins.{/n} \"The only thing that puts you above me is your size, Willas. And even that isn't so impressive for a human.\""
+    },
+    {
+      "Key": "46ec9ec2-f7e3-406b-8cc7-88c868e7ad19",
+      "Value": "{n}Willas face turns dark red and his eye starts to twitch. Pressing his lips tightly he turns back to you.{/n}"
+    },
+    {
+      "Key": "022797fb-6d62-4d2f-9837-fafa36390e72",
+      "Value": "\"They were a trio I hired to retrieve my possessions from {g|Candlemere}Candlemere{/g}'s island turned out to be a bunch of tricksters. You must know the place — in the center of the lake, with the ancient temple ruins. So they took my money, jumped into the boat, and — whoosh! — gone with the wind. So many days have passed, and not a single word from them! And they had the nerve to call themselves a paladin and a cleric! Scum is what they really are!\" {n}Willas stamps the ground in anger.{/n}"
+    },
+    {
+      "Key": "f21a5fd7-e623-49f4-969a-ef9ddeee527d",
+      "Value": "\"A ranger, a paladin of {g|Irori}Irori{/g}, and a cleric of {g|Nethys}Nethys{/g} — you know, that two-faced god. Frankly speaking, that one gave me creeps from the very beginning — half of those servants of Nethys are real psychos. Today they agree to help you, and tomorrow they change their minds at the drop of a hat. And this one played his tricks on me, too.\" {n}Willas sighs.{/n}"
+    },
+    {
+      "Key": "b74deaa7-85bb-40aa-b640-91dcebc569d3",
+      "Value": "{n}Willas mulls over your words for some time.{/n} \"You know, Your Grace... When I mentioned the old temple, they exchanged a glance — like I was talking about some hidden treasure... I was such a fool! I should have realized from the start that they had their own agenda!\""
+    },
+    {
+      "Key": "ade20e50-489b-47ed-983b-9bcae567cead",
+      "Value": "{n}Willas bites his lip, as if caught doing something wrong.{/n} \"Well... ahem... You see, these aren't EXACTLY my possessions right now. It's just... I learned from the locals about the ruins of an ancient temple on the island. And everyone knows, where there's a temple, there's always the hope of some treasure.\" {n}Willas rubs his palms.{/n}"
+    },
+    {
+      "Key": "d6b0aae3-0345-4d61-8d93-dd5b159c53c8",
+      "Value": "{n}Willas looks around, scared.{/n} \"Wait, me? Come with you? No way! Three armed men went and never came back! And I can't even swing a sword, or cast the simplest spell... Oh no, You Grace, you'll need to find someone more experienced for that!\""
+    },
+    {
+      "Key": "fcbed2a1-f646-4946-83f4-d48f8581c08d",
+      "Value": "\"As you wish — whatever you need to catch these thieves!\""
+    },
+    {
+      "Key": "2aba5381-cbd6-4ab5-a7c3-9826a5a60a95",
+      "Value": "\"Who cares...\" {n}Willas interrupts himself and sighs.{/n} \"I don't know! I never asked! All I heard is that long ago the locals used to perform some rituals there, dedicated to some ancient deity.\""
+    },
+    {
+      "Key": "c771f3d9-e311-4474-826f-7fbc5b68d275",
+      "Value": "\"By the right of finding! I dug up all the stories about the temple! I hired the crew! I pointed out where to start the search! Besides, no harm done. No one ever really goes there anyway — there aren't many volunteers willing to visit a cursed island!\""
+    },
+    {
+      "Key": "e0d60e57-ab1c-4a75-b39e-b4672a6d363f",
+      "Value": "{n}Willas shrugs reluctantly.{/n} \"The locals say… things… Something about that being why the place is cursed.\""
+    },
+    {
+      "Key": "153e73dc-2108-483a-9fbc-bd13e7f7b3bc",
+      "Value": "\"The lights were strange, you know?\" {n}Willas frowns, as if recalling something.{/n} \"They were brighter than fireflies, and different colors. You can see them even from the shore. During the day, they're barely visible, but at night... People say they're the restless souls of those who met their deaths on the island.\""
+    },
+    {
+      "Key": "e1fac804-07db-4ff8-9845-19364ee87f9b",
+      "Value": "\"I saw it with my own eyes, and just recently! Almost blinded me — like half the island suddenly burst into flames! When the locals saw it, they fell to their knees and started to pray — they said that the old god had returned.\" {n}Willas scoffs.{/n} \"Dimwits — what else would you expect from them.\""
+    },
+    {
+      "Key": "dfc1286a-a3ba-4e6a-9882-d244a899eebe",
+      "Value": "\"Whatever you say, {mf|my baron|my baroness}.\""
+    },
+    {
+      "Key": "f44a9a06-66bc-40a9-90f3-f6b9d43fc0d2",
+      "Value": "{n}Willas sighs, relieved.{/n} \"Praise {g|Desna}Desna{/g}! Don't let those scoundrels leave with my treasure!\""
+    },
+    {
+      "Key": "738ae8a0-308a-4f8c-b41b-080f787ec3e8",
+      "Value": "{n}Willas's jaw drops in surprise — it seems he was sure you'd help him. After a moment, his face falls, almost like that of a wronged child.{/n} \"{mf|My baron|My baroness}! Don't turn away from my pleas! Don't leave me helpless! I have no one here — no friends or relatives! Your Grace is my only hope!\""
+    },
+    {
+      "Key": "73330c8d-7ce5-4f22-9ffa-646504a325b0",
+      "Value": "{n}For several moments, Willas is silent, trying to wrap his head around what you said. He finally shudders and hugs himself, as though he suddenly grew cold.{/n} \"That means...\" {n}He gulps.{/n} \"That means the curse really exists...\" {n}His eyes meet yours.{/n} \"Right?\""
+    },
+    {
+      "Key": "4bda4123-f86d-4cdd-acee-c0eaae1577e0",
+      "Value": "{n}Willas shakes his head.{/n} \"If a cleric and a paladin together were unable to put an end to this curse, it would truly be unwise to try and go there again... Too bad, too bad! Well, here's your reward, as promised.\" {n}Willas gives you a pouch of coins.{/n}"
+    },
+    {
+      "Key": "cee82ecf-c605-422e-8a9c-2a38ea9cca9c",
+      "Value": "{n}Willas stares at you in admiration.{/n} \"You're so strong, Your Grace! Tough and strong! Praise be to {g|Desna}Desna{/g}, you managed to come back to your subjects alive and well! Please accept your reward!\" {n}Willas presents you with a pouch of coins.{/n}"
+    },
+    {
+      "Key": "7844eb39-c1a1-46d2-8a7e-7cbc35d8a778",
+      "Value": "\"If you manage to learn something new — please let me know! I'm staying at the tavern in the center of town — that's where I'll wait for good news!\" {n}Willas bows and steps back from you without straightening back up.{/n}"
+    },
+    {
+      "Key": "5eb5a726-68eb-4cee-bcf0-c696ac2da244",
+      "Value": "\"I'm staying at the tavern in the center of town. I beg you, if you change your mind… if you decide to look into it... I'll wait.\" {n}Willas gives you an awkward bow and leaves.{/n}"
+    },
+    {
+      "Key": "4e0317f2-7f0c-4076-9fff-5206c5865f47",
+      "Value": "{n}Willas's jaw drops.{/n} \"What?! But... I just...\" {n}The man seems to shrink in terror.{/n} \"No! Of course not, Your Grace... I'll... I'll compensate you... now... Here, Your Grace.\" {n}Willas digs a pouch full of coins from his pocket and hands it to you, barely avoiding dropping it on the ground.{/n} \"Here... this must be enough.\""
+    },
+    {
+      "Key": "a4a4e3b5-d330-47c7-b479-5e8437007e10",
+      "Value": "{n}Willas looks shocked at first, but he soon regains his composure.{/n} \"I suppose, Your Grace, that the cause of all the troubles must have been something else... Maybe weather conditions were unfavorable, or... actually, I think you have nothing to worry about.\" {n}He casts an unkind glance toward you and digs out a pouch of money.{/n} \"Here is your reward. As promised.\""
+    },
+    {
+      "Key": "cb7b7324-cc12-4ac4-a487-ba7601c06ced",
+      "Value": "{n}Willas looks around, slapping his pockets.{/n} \"Seems I've had no luck with this island — no profits at all! I guess I should move further to the east. People say the {g|Tors of Levenies}Tors of Levenies{/g} have plenty of places where an inquisitive mind might find something of value. And right now, if you don't mind, I could use a drink.\""
+    },
+    {
+      "Key": "847f16bd-0b02-4c9f-8a39-ba08c59ed426",
+      "Value": "{n}Willas purses his lips, obviously dissatisfied with such a short answer. He digs a pouch of coins out of his pocket and gives it to you.{/n} \"Here, Your Grace. I keep my word.\""
+    },
+    {
+      "Key": "69edd756-4738-471d-89fe-da3bac9d30f9",
+      "Value": "{n}Willas opens his mouth, then closes it, then opens again, as if failing to find the right words. It seems that your answer sent him into a stupor.{/n} \"You... you really think so?\" {n}Gunderson's face lights up, as if you've removed a huge invisible burden from his shoulders.{/n} \"Your words are the balm for my soul! Everyone around keeps talking about obligations and promises, and the truth is, anyone should do whatever they feel like!\""
+    },
+    {
+      "Key": "9d0061e4-d045-4e18-b01a-ddcb0d5e7261",
+      "Value": "{n}Willas digs out a pouch of coins.{/n} \"Here is your reward, {mf|my baron|my baroness}. And this...\" {n}He takes a parcel out of another pocket.{/n} \"This is a small gift from a kindred spirit. It's a true rarity, to meet such a wise person as yourself! This is something I snatched up at... Well, the location isn't important. I think it may be of use to you.\""
+    },
+    {
+      "Key": "f151c552-bd8b-4f37-8191-1a22fdf74549",
+      "Value": "{n}It seems like Willas is talking about will-o'-wisps — malevolent creatures made of light that feed on fears and other negative emotions.{/n}"
+    },
+    {
+      "Key": "b398f0f8-4f9d-4c90-82b2-9f1ab66665c7",
+      "Value": "{n}You're not sure what Willas is talking about. Maybe the island is really haunted with the spirits of the deceased?{/n}"
+    },
+    {
+      "Key": "6479485a-4ce4-4c2c-9e70-3a37478c9019",
+      "Value": "\"Typical for Master Gunderson! I wouldn't be surprised if, after this conversation, our poor timid friend will need a companion to guide him to his own door!\""
+    },
+    {
+      "Key": "32f0908d-3d14-4172-94d8-a531e591adc1",
+      "Value": "\"Some rituals, some ancient deities… Now that's what I call getting into details! With deep knowledge like that, you could easily write a book! You could call this opus magnum of yours 'Some Encyclopedia'!\""
+    },
+    {
+      "Key": "7324f4f4-4250-4408-8fd4-fc69b698fc32",
+      "Value": "\"…Says the king of dimwits.\""
+    },
+    {
+      "Key": "05baa2b7-38aa-45f4-a9ba-1299782af1f1",
+      "Value": "{n}Noticing the change in your face, Willas restrains himself.{/n} \"Oops, I'm just talking gibberish! Heard some gossip somewhere — and here I am, spilling it all on you!\" {n}The man utters a phony giggle, then gulps.{/n} \"It's... nothing, Your Grace. Just a big fat load of nothing. Some empty talk about someone sacrificing someone else there... And as for the ghostly lights, I'm sure there's a rational explanation for that... Same with the flash of light over the ruins...\""
+    }
+  ]
+}

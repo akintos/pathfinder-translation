@@ -1,0 +1,85 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "49888452-86ad-40f5-878d-430b09cab12e",
+      "Value": "[Send away your other companions] \"We will go on alone from here.\""
+    },
+    {
+      "Key": "649b4e6a-8246-4d19-a50d-ec5287c63e62",
+      "Value": "\"Who were those three tieflings?\""
+    },
+    {
+      "Key": "1b065a00-d406-4212-ba38-13348b2d342c",
+      "Value": "\"What's our plan?\""
+    },
+    {
+      "Key": "238b5045-0e65-46d6-8169-d8ab23e44f19",
+      "Value": "\"I have other things to do. I'll return later.\""
+    },
+    {
+      "Key": "068e1aee-ab5c-4816-acaa-ab2d673b74a6",
+      "Value": "\"Please remind me, what is this place and what are we looking for here?\""
+    },
+    {
+      "Key": "801e99c1-e941-4927-9f03-8773e6f24703",
+      "Value": "\"I'm ready, let's go!\""
+    },
+    {
+      "Key": "f18f11ef-335a-42f2-a216-ab46fe701b34",
+      "Value": "\"Wait, one more question...\""
+    },
+    {
+      "Key": "555b80bd-7656-422d-a1e5-af140e4a96da",
+      "Value": "{n}Kalikke smiles faintly as you approach, but you can't help but notice that she's as tense as a bow string.{/n}"
+    },
+    {
+      "Key": "447078f9-7e2f-433b-83a2-087d161a401b",
+      "Value": "\"Are you back? Can we proceed?\""
+    },
+    {
+      "Key": "a77cd74b-7551-404c-90ff-ec94ed89f2ac",
+      "Value": "{n}Three young tieflings wearing bright clothing, the sort one might find in a harlequin's wardrobe, are gathered near Kalikke, fidgeting from foot to foot. They bow simultaneously. The youngest casts you an inquisitive look.{/n} \"So this is the patron you found, Elder! The {mf|baron|baroness|King|Queen} of this land! And to think that Kanerah used to say that you don't know how to make connections... Oh! Oh!\""
+    },
+    {
+      "Key": "1363503f-7e81-476e-b621-7e0667a4dd6c",
+      "Value": "{n}Kalikke stomps her foot, drawing their attention.{/n} \"Sweet Teeth, that's enough! You're going right back to the city. The {mf|baron|baroness|King|Queen} and I need to talk in private. And we're going to the Taldan tower without you. – It might be dangerous.\""
+    },
+    {
+      "Key": "845b1b12-d5d8-4bc3-98c2-438577aa22ec",
+      "Value": "\"As you say, Elder.\" {n}The last of the three tieflings, who had kept quiet until now, nods and gestures to the others.{/n} \"We'll go to the city. We'll see if three tail-swinging goofs like us can find gainful employment around there. If you decided to settle down in these parts, maybe we can find a place here too. Goodbye, {mf|Your Grace|Your Grace|Your Highness|Your Highness}!\""
+    },
+    {
+      "Key": "4616bda8-fe98-4fc3-a32f-47a26533c733",
+      "Value": "\"As you wish. I'll wait here...\""
+    },
+    {
+      "Key": "7bc66db9-2ad6-4470-84be-f19e48c9d12e",
+      "Value": "\"My friends from {g|Qadira}Qadira{/g}. Their names are Naiho, Tevi and Elki, but I usually just call them the Sweet Teeth. They're always together, and always act and speak in chorus. It was they who dug up the history of this place, and told me of the treasury. But they never got inside. – They say there's a lot of dangerous beasts ahead...\""
+    },
+    {
+      "Key": "4308da1a-7cc5-40d1-8388-8c629cebee7c",
+      "Value": "{n}Kalikke sighs.{/n} \"I'm happy that at least someone from my past life hasn't abandoned me. But they make me anxious as well. The Sweet Teeth know nothing about what happened after our escape. They think Kanerah died, and I adopted a strange new name to hide from my past. But they know me and my sister well, and could easily uncover the truth. That would breach Nethys' first condition. That's why it would be better for all of us if we met as rarely as possible. Besides, Kanerah nearly fed the poor Sweet Teeth to wild animals. Though it seems now like ages ago...\""
+    },
+    {
+      "Key": "4a2f759a-b02c-4ca8-ba07-f7e7d8dc0f98",
+      "Value": "\"There must be a cliff somewhere ahead, where we'll find the remains of the tower. We'll need to climb it and search the ruins. – And be ready for trouble... one can never be too careful. Well, are we ready?\""
+    },
+    {
+      "Key": "28b1816f-f02e-4eb9-80a9-89bdb943f00e",
+      "Value": "{n}Your companions go back down the road, leaving you and Kalikke alone.{/n}"
+    },
+    {
+      "Key": "7916dfd6-8dea-41ff-8320-e6a1ce7ca5b7",
+      "Value": "\"It's an ancient {g|Taldor}Taldan{/g} settlement, long ago ravaged by the elements. They used to mine ore in these rocks. Little is known about what happened here, but according to rumors, a terrible flood devastated the town. Many citizens perished, the others fled. Only the tower remains, standing on the cliff. The flood wasn't able to reach it. The tower may still hold substantial riches, and among them, the Disk of the Eclipse – a relic from a Qadiran temple of {g|Nethys}Nethys{/g}. That's what I'm looking for...\""
+    },
+    {
+      "Key": "42f17488-9436-4a31-83be-406ccfba21d1",
+      "Value": "{n}Kalikke nods gratefully.{/n} \"Thank you. I'm glad I don't have to walk this road alone...\""
+    },
+    {
+      "Key": "89311b08-6887-4c98-acdb-3b8907334824",
+      "Value": "\"Of course.\""
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "63c1def0-16e6-4310-8fa7-a77269c6ae4f",
+      "Value": "\"I don't care to waste my time on this.\""
+    },
+    {
+      "Key": "ccbf92e8-33ca-47d4-b266-abb4e8a28b04",
+      "Value": "\"Let him speak, Jaethal. Anger will not help us learn the truth.\""
+    },
+    {
+      "Key": "c4b8b56d-cdf4-4909-b98e-ef8ae2fb720e",
+      "Value": "\"Jaethal, listen to reason. If Enneo was involved in your death, he wouldn't be openly offering your dagger for sale.\""
+    },
+    {
+      "Key": "94905eec-ce1d-4b7a-a43e-c9087eea5982",
+      "Value": "\"We will investigate this matter further. Let's start by checking Enneo's story, and seek out this unfortunate boar.\""
+    },
+    {
+      "Key": "72a7baeb-dc84-4654-b746-c40004dcf199",
+      "Value": "\"Where exactly did you find this carcass and dagger?\""
+    },
+    {
+      "Key": "e80ddcdb-590d-464c-9216-127938040bb9",
+      "Value": "\"Enneo, you face serious accusations. Are you sure you can say nothing more in your defense?\""
+    },
+    {
+      "Key": "bd3fbcc1-daf3-4e5c-98e2-c625c43f67d0",
+      "Value": "{n}Enneo, a half-elf merchant who recently appeared in the capital, falls to the floor in front of you. Jaethal stands beside him, looking quite unlike her normal self. Usually cold and stiff, the face of the undead elf now burns with rage. Despite his nearness to his furious undead captor, Enneo looks concerned but unafraid.{/n} \"If you allow me to speak, I can explain everything.\""
+    },
+    {
+      "Key": "59f69e25-42de-4f0a-881b-53bcdf262dd3",
+      "Value": "\"Was it poison? Magic? Illness? Whatever stole my life away, it left no trace. I thought this mystery would haunt me forever. But then I entered the shop of this half-blood... Seeking some reminder of {g|Kyonin}Kyonin{/g}... and what did I discover there? My very own dagger!\" {n} Jaethal shows you an elven-crafted dagger with a chipped blade and empty sockets, where once gemstones adorned the handle.{/n} \"This dagger disappeared the same night I was taken by death. How could this half-blood have obtained it?!\""
+    },
+    {
+      "Key": "f089ac47-f94f-434b-9977-63a40155ef3e",
+      "Value": "\"I hope you can, half-blood, otherwise...\" {n}Jaethal hisses and turns to you.{/n} \"Have I told you the sad story of my death? It is sad most of all because I do not remember how my life ended. I wandered, exhausted, through the wastelands beyond the borders of {g|Kyonin}Kyonin{/g}, until I could barely see my path. I stopped to rest, or perhaps I lost consciousness... When I came to my senses, I heard the call of my goddess, returning me from the dead.\""
+    },
+    {
+      "Key": "eeb6677e-fd8a-4ab4-83a1-b5af331fc266",
+      "Value": "\"That is why...\" {n}Jaethal pauses.{/n} \"Respecting your authority, I have brought this pathetic huckster here, rather than getting the truth out of him by my own methods...\""
+    },
+    {
+      "Key": "99ee69dc-ce51-4617-9c5b-1c7a1a11cac8",
+      "Value": "{n}The half-elf rises to his feet and sighs, putting his clothes in order.{/n} \"Thank you for allowing me to speak, Your Grace. The story is not very exciting, certainly not as exciting as my tale of the drunken regatta within the Eye of Abendego! ... Yesterday, north of the city, I stumbled upon a dead boar. There was no one around, but the dagger was protruding from the miserable beast's neck. I don't know why the owner would have left it in the carcass. Perhaps the beast escaped from the hunter, taking along the weapon that had injured it? So I... inadvertently decided to keep the item I'd found, thanking my luck — and never suspecting the price I'd pay for it.\""
+    },
+    {
+      "Key": "0ac97fd4-85ed-4d16-b989-787ce57df8b8",
+      "Value": "\"You are very attentive to the troubles and needs of your faithful companions.\" {n}You detect poisonous notes in Jaethal's voice, but she restrains herself quickly.{/n} \"Very well, let's not distract the {mf|baron|baroness}, half-blood. Let's go and talk somewhere alone!\""
+    },
+    {
+      "Key": "95b50a23-2c47-4da8-ad55-4534ca9a41a0",
+      "Value": "{n}Your words set Jaethal on her heels. She frowns, but calms down.{/n} \"Perhaps that's logical. This one would have to be a useless fool to do such a thing, and useless fools do not easily survive the road. Still, his story should be verified. It must be. And in any case, the dagger may lead... to my killer.\""
+    },
+    {
+      "Key": "45dd3a50-28f6-4980-8ad2-13860000293f",
+      "Value": "\"In the vicinity of the Old Sycamore. Of course I'm sure you know where that tree grows. I found the boar to the west of the Sycamore, in the direction of the {g|Thorn River}Thorn River{/g}.\""
+    },
+    {
+      "Key": "eac52667-c759-43e7-b6ee-a35432353c7b",
+      "Value": "{n}Jaethal bows gracefully.{/n} \"I am... grateful. It's important to me. And you, half-blood, should pray for our success. If you are lying, I shall find a surer way to get the truth from you!\""
+    },
+    {
+      "Key": "804e654e-35de-4b4a-a13b-64336c62802c",
+      "Value": "\"I would be glad if I could, but alas.\" {n}The bright yellow-green eyes of the half-elf are calm.{/n} \"The dead boar is my only witness. But I believe in your justice, {mf|baron|baroness}. I have faith that you will investigate my story and sort everything out.\""
+    }
+  ]
+}

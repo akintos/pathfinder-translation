@@ -1,0 +1,309 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "ea428ed8-6b92-4ed0-9b94-25aa749f41ac",
+      "Value": "\"Stop! What's going on here?\""
+    },
+    {
+      "Key": "900d7693-2cf5-4503-a93e-3366c0d0874b",
+      "Value": "[Attack] \"I don't wish to suffer such creatures on my future lands!\""
+    },
+    {
+      "Key": "3993b8d3-f620-40f8-a4b7-4220f720eebe",
+      "Value": "[Observe and do not interfere]"
+    },
+    {
+      "Key": "1c54a18d-734e-402d-a2f4-86b21a0148d6",
+      "Value": "\"Kobolds, tell me more about what happened.\""
+    },
+    {
+      "Key": "5291bb87-e726-41c0-9b10-13942931a7fe",
+      "Value": "\"You should make peace and search for the relic together.\""
+    },
+    {
+      "Key": "fbeee0f4-dd50-49e2-be45-c3211a44d05f",
+      "Value": "\"I side with the kobolds and Chief Sootscale.\""
+    },
+    {
+      "Key": "c2b555ad-b8a4-4073-b024-523f17620b61",
+      "Value": "\"I side with the mites and Queen Bdaah.\""
+    },
+    {
+      "Key": "1ca9ca6d-152d-4d7c-bf72-f553c476af3d",
+      "Value": "\"You are all disgusting, I don't want to help either of you.\""
+    },
+    {
+      "Key": "9c8d87a7-e391-4106-bab2-2cd54088e876",
+      "Value": "\"This quarrel is your own. I have no wish to be a part of it. However, if you allow me to visit your domains, I shall strive to learn the truth.\""
+    },
+    {
+      "Key": "e7eeb8b3-7965-4115-98e3-b96e3edbde98",
+      "Value": "\"Mites, I want to ask you a few questions.\""
+    },
+    {
+      "Key": "4866cb79-5d1b-4e91-98b0-44ac123124f1",
+      "Value": "\"How do you know the relic was stolen by the mites?\""
+    },
+    {
+      "Key": "136e1fd0-7ea6-4e8e-9a0e-e0d7d535196c",
+      "Value": "\"What is this relic?\""
+    },
+    {
+      "Key": "72683826-18f4-40c8-8be8-91c11ca9d527",
+      "Value": "\"Did you really attack the mites?\""
+    },
+    {
+      "Key": "7f7eb992-8f9d-411b-a5e5-28b1c9049eb4",
+      "Value": "\"It's clear to me now.\""
+    },
+    {
+      "Key": "64ca8ede-bd9e-4642-9cca-13163664518b",
+      "Value": "\"And where is 'shaman Tartuk' now?\""
+    },
+    {
+      "Key": "e3947edf-b465-4888-98c3-e81f6d776620",
+      "Value": "\"Tartuk is not a real kobold. He deceived you.\""
+    },
+    {
+      "Key": "faf96a96-f155-4075-9bcb-773ec2fcf616",
+      "Value": "\"My Queen, why did you fight the kobolds?\""
+    },
+    {
+      "Key": "206960a0-93ce-487a-a50f-127b647002e0",
+      "Value": "\"Why do you need the relic?\""
+    },
+    {
+      "Key": "d60447e3-e037-4031-bf2b-a493fbd620a6",
+      "Value": "\"Why do the kobolds think the relic was stolen by the mites?\""
+    },
+    {
+      "Key": "3d3b68a2-b5c3-4910-9ccd-93dde1d4bc71",
+      "Value": "\"Do you know where this purple-scaled shaman is now?\""
+    },
+    {
+      "Key": "a2c5b6f4-f171-48a8-960f-bd989b38cbc2",
+      "Value": "\"Very well. I have no more questions.\""
+    },
+    {
+      "Key": "c5523c72-0879-409f-a319-423668231ba4",
+      "Value": "\"I would hear my companion's advice.\""
+    },
+    {
+      "Key": "ce7d207f-f7c1-4d5b-94bf-caacec63dc3e",
+      "Value": "\"Ha ha! Great!\""
+    },
+    {
+      "Key": "0abc035a-d5d2-430c-b801-836be59f4055",
+      "Value": "\"Do you know why Choral the Conqueror razed half of Rostland? It was for puns like that!\""
+    },
+    {
+      "Key": "dbeb81ad-dd34-4576-9ec7-788a83a04d81",
+      "Value": "[Say nothing]"
+    },
+    {
+      "Key": "b1412092-9b5a-4986-ad02-72a7df838faa",
+      "Value": "\"Why support either? Do you think they'll ever listen to you? Let us battle these little ones, both groups, and be done with it!\""
+    },
+    {
+      "Key": "59d9da7c-7cc1-4bce-a6a1-96c654efbdca",
+      "Value": "\"Cowardly traitorsss! Sssonsss of a pike! Return the relic!\""
+    },
+    {
+      "Key": "e6024655-ff93-4f20-8f85-6cc20a3f7856",
+      "Value": "\"Silly, silly kobold, go look your relic your dungeon! Look under bed, under table. Ha-ha, silly kobold have no bed and no table? Search your eggs! You lose relic, and blame mites! Accuse Queen!\""
+    },
+    {
+      "Key": "71ecdad3-c70e-4f24-b1a2-0ad53589c618",
+      "Value": "\"Liesss! Chief Sssootssscale not sssilly!\" {n}The kobold leader shakes his weapon at the insult.{/n}"
+    },
+    {
+      "Key": "6d4874ea-b5ee-4af0-bad1-23f9148bba18",
+      "Value": "{n}The little mite jumps in place.{/n} \"Stranger! Stranger! You see, yes? Silly kobold attack mite! Insult us, our magnificent Queen!\""
+    },
+    {
+      "Key": "ac830504-00b6-4d3e-bd0a-e260443a813b",
+      "Value": "\"Liesss! Mite thief! Sssteal relic from kobold! We revenge! Help usss, ssstranger!\""
+    },
+    {
+      "Key": "8b99fad4-e7f2-43ea-8c34-26372d086840",
+      "Value": "\"I Chief! I name Sssootssscale. Kobold and mite live here long, live peaccce! But now mite thief! Sssteal our relic!\""
+    },
+    {
+      "Key": "0765c35b-187f-446e-9017-7a3f3eada487",
+      "Value": "\"Help kobold! Kobold ssstong, fierccce!\""
+    },
+    {
+      "Key": "4d346258-cd8c-4ac3-b908-855b098cab31",
+      "Value": "\"Mite tricksssy! But Chief Sssootssscale is more tricksssy! I call. New ssshaman come. Ssshaman Tartuk know who ssstole relic. Tartuk good!\""
+    },
+    {
+      "Key": "299b318e-f398-4d20-b708-40f842b1b74c",
+      "Value": "\"Sssootssscale not ssstupid! He know real kobold!\" {n}The chief puffs up his chest, rejecting the insult.{/n}"
+    },
+    {
+      "Key": "56f139a6-39bb-46a6-9099-7b98892d2f17",
+      "Value": "\"Relic key! Kobold take relic, enter sssacred hall!\""
+    },
+    {
+      "Key": "6d63a5b3-b587-44d6-8ddd-41ef579e7613",
+      "Value": "\"Revenge! Mite coward! Kobold come, mite run! We come, take them relic, go. Let they give back our relic, we give back their!\""
+    },
+    {
+      "Key": "9958a9c0-b3bd-4099-b3fa-265eda1b3397",
+      "Value": "\"Ssshaman was dungeon. Did not enter sssacred hall. Mite collapsse our entranccce! Kobold wrath mite!\""
+    },
+    {
+      "Key": "277095cd-2920-4b4b-8b86-216de5f884d7",
+      "Value": "{n}A small mite bows comically.{/n} \"I seneschal Vaggik. Here our magnificent Warrior Queen Bdaah!\" {n}He points at his large companion, adorned with the hide of a wolf.{/n} \"Queen defeat scary wolf battle, vanquish hundred enemies, charm hundred hearts! Queen Bdaah allow you speak her. May sit. We understand,\" {n}he says generously.{/n} \"Legs tremble when see such beauty\"."
+    },
+    {
+      "Key": "0ccdb56c-52d5-471c-9e9e-1d40bd920cdc",
+      "Value": "{n}The mite Queen shakes her head sadly.{/n} \"We live here long, kobolds and mites. We live peace, friends, trade. Together hunt good shaggy animal, gut it. Sweet! Long ago Chief kobold and our old King make good alliance. Two branch Old Sycamore we take, charm and give each to other. This be relic. Kobold have one, mite have one. Not long ago kobold come, yell we thief, take our relic! Silly kobold.\""
+    },
+    {
+      "Key": "8dbfece9-68dd-472f-a8f1-30fe10e6fe67",
+      "Value": "\"Two relic. They key, give entrance to sacred hall. There, under Old Sycamore. One key for kobold, one key for mite. Each can go hall. All fair.\""
+    },
+    {
+      "Key": "eeca5a0f-f4b1-4fc0-a3ea-e08cf49df2e3",
+      "Value": "\"Kobold Chief silly ugly old.\" {n}Seneschal and other mites giggle at these words.{/n} \"He lose last mind, listen new shaman Tartuk. Shaman not so ugly,\" {n}Bdaah smacks her lips in approval.{/n} \"But angry, tricksy, say wicked mite. I catch him and make crown from his scale. Pretty crown, purple!\""
+    },
+    {
+      "Key": "45b725d9-00c0-43cb-9fc5-9d96c721125c",
+      "Value": "\"He prowl dungeon near our house. We see he once, but not catch. Want find shaman — look under ground.\""
+    },
+    {
+      "Key": "783e1a24-3819-4883-9ac4-672995f8e17e",
+      "Value": "{n}Queen Bdaah nods with a queenly air.{/n} \"Stranger good. Fight kobold with me. Win, come my chamber. We make feast, play music, throw knife in furry squirrel. Sweet!\""
+    },
+    {
+      "Key": "d9b1c61d-bf1b-4336-b245-041451ce4e66",
+      "Value": "{n}The mite Queen scratches her nose with the tip of her sword.{/n} \"We accept. Stranger go peace our land. But we know truth already. Kobold must pay for his stupid!\""
+    },
+    {
+      "Key": "d7309c4f-04e2-46d9-b06f-9d64088e3c78",
+      "Value": "\"Never!\" {n}The chief hisses in animal rage.{/n} \"Deathhh to traitorsss!\""
+    },
+    {
+      "Key": "8680e4bf-0807-4801-ba8f-d6c249ced0a3",
+      "Value": "{n}The mite queen swings her blade.{/n} \"We no retreat! Choose who support, stranger, or enemy us all!\""
+    },
+    {
+      "Key": "3a687af7-0d45-48a2-994e-5ffcec39330c",
+      "Value": "\"Enough insult, silly lizard. I Bdaah, Warrior Queen, lead my mite to glory!\""
+    },
+    {
+      "Key": "f0ecff6b-712e-49f5-9745-994b97995a2b",
+      "Value": "\"Ridiculousss! Pathhhetic thief look for deathhh! I come back with ssshaman Tartuk and shhhow mite pain!\""
+    },
+    {
+      "Key": "30d210c5-f0e2-48a2-93e5-4828633180e3",
+      "Value": "\"Protect Queen!\""
+    },
+    {
+      "Key": "61ab93ce-3887-40b3-8049-90212f1c939c",
+      "Value": "\"Kobold fight! Hold ssstranger! I go my ssshaman Tartuk!\""
+    },
+    {
+      "Key": "c3566a60-9eb3-4741-ab26-bad7976d1f40",
+      "Value": "\"Ssstranger go. Find out mite thief! We hit mite! Hit! Hit! I call ssshaman Tartuk from under ground and hit them bad!\""
+    },
+    {
+      "Key": "10243f04-7952-4a1b-8c28-2fc66506b0da",
+      "Value": "{n}The mite leader snarls angrily.{/n} \"We not leave! Fighters — hit stranger! Hit silly kobold!\""
+    },
+    {
+      "Key": "0d381f96-cf73-4011-b5dd-f52686edbb89",
+      "Value": "{n}Chief Sootscale hisses in triumph.{/n} \"Ssstrangersss now guessst my houssse! Friendsss!\""
+    },
+    {
+      "Key": "1af7ec89-9844-4ab4-b9f6-a0ab21e4acde",
+      "Value": "\"Sweet! Stranger, go my cave chamber, talk. Kobold, be afraid!\""
+    },
+    {
+      "Key": "c044c8bd-0811-4946-b464-e4765ab7feb5",
+      "Value": "\"Insssult! Blood! Washhh out!\""
+    },
+    {
+      "Key": "5b2bdd99-1582-489f-8a85-a86965fa1ab4",
+      "Value": "\"Coward! Turn! Elic!\""
+    },
+    {
+      "Key": "ed9eb598-8f3b-44f5-a9a3-bcbb00457d81",
+      "Value": "\"Liesss! Chief! Scale!\" {n}The kobold crier diligently copies the words and gestures of the chief, swinging his weapon. It seems both groups are but a breath away from battle.{/n}"
+    },
+    {
+      "Key": "4ae8084a-b40f-4b73-b817-0bdac3ecfb2e",
+      "Value": "\"Thief! \"Teal! Elic!\" {n}echoes the crier enthusiastically.{/n}"
+    },
+    {
+      "Key": "386199f8-d7d8-476a-b8b5-9cb99554f5dc",
+      "Value": "\"Tartuk! Ood! Ooood!\""
+    },
+    {
+      "Key": "9b91f1c8-c4a5-450e-8ddd-4fa819229f0f",
+      "Value": "\"Oh, I can't stop laughing! He's so sweet! He repeats everything!\""
+    },
+    {
+      "Key": "b506d0d3-35e4-4292-a8fa-e442e664b09e",
+      "Value": "{n}The crier swells with pride.{/n} \"Peats! Verything!\""
+    },
+    {
+      "Key": "48e582d5-b921-4859-93bd-363d485a1a65",
+      "Value": "\"It's up to you, but we should remember that living among such creatures could be dangerous. The kobolds and mites are aggressive, poorly organized and unreliable. It's better to exile them, or not interfere, lest we're entangled in their unworthy deeds.\""
+    },
+    {
+      "Key": "72c96b0f-f2ad-4b43-9d9e-43c1c0cf9d8a",
+      "Value": "\"They haven't done anything bad. We shouldn't attack them. I wish they would make peace, but if this isn't possible, let's side with Chief Sootscale and the kobolds! They're so funny, and they haven't the guile to lie.\""
+    },
+    {
+      "Key": "6ade34b3-d577-4da3-9f7a-5a43a06cf7f4",
+      "Value": "\"I'd just kill them all: less monsters — less problems. But if you need to choose, side with the mites. They are fierce, and would make fine allies.\""
+    },
+    {
+      "Key": "2a718cf6-ccdc-4dd0-8306-77473b093c4e",
+      "Value": "{n}Jaethal rolls her eyes.{/n} \"And so again, to be the judge. To weigh and balance trivium. Decade upon decade...\""
+    },
+    {
+      "Key": "738e0975-3934-49eb-9025-b3713b6b2c01",
+      "Value": "\"Such hubris in such small and simple creatures... But are our own monarchs any better?\""
+    },
+    {
+      "Key": "a55de03e-7249-4099-bfc8-064ce326619c",
+      "Value": "\"So warlike! It's like a miniature version of the Taldan Imperial Chronicles!\""
+    },
+    {
+      "Key": "457aba58-0c65-422e-b07e-14500fb491a3",
+      "Value": "\"Great! Thanks for supporting them — they're so funny!\""
+    },
+    {
+      "Key": "8bde76fc-5593-42b4-ba10-bce98da574f3",
+      "Value": "\"Ha, that's right! They might be small, but they fight all right!\""
+    },
+    {
+      "Key": "f7e03761-1693-44bf-b10f-fe3c905b94ae",
+      "Value": "\"Heh, that's more like it! Let's cut these creeps to pieces!\""
+    },
+    {
+      "Key": "e4dbfac3-f3ec-40c0-905f-2bd32d6888c1",
+      "Value": "\"You know what they say... mite makes right! Ha ha ha!\""
+    },
+    {
+      "Key": "0d23a151-04cf-47f0-bf9b-35af8d77238b",
+      "Value": "{n}The half-orc wears a jaunty grin.{/n}"
+    },
+    {
+      "Key": "b089c6b3-3fd9-4eb4-a777-7cbe4e42f483",
+      "Value": "\"Heh, that's right! He was an expert in fiery humor!\""
+    },
+    {
+      "Key": "95cf355d-9975-4c99-88c3-f0b94a231b63",
+      "Value": "{n}Realizing his pun went unnoticed, Regongar grunts and turns away.{/n}"
+    },
+    {
+      "Key": "d9b16ae0-6339-4b8e-a9b1-602e12917b41",
+      "Value": "\"Let us free the lands of these dangerous creatures!\""
+    }
+  ]
+}

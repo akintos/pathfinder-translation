@@ -1,0 +1,177 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "45f25688-a1a8-4af1-a481-ed92c2d82009",
+      "Value": "\"What manner of creature are you?\""
+    },
+    {
+      "Key": "3d04c822-9f65-4360-8f0d-0dac85de8bdb",
+      "Value": "\"I need the keys to the Shrine. I know you have one of them.\""
+    },
+    {
+      "Key": "1befff6f-77e7-41a0-9195-4fc580790662",
+      "Value": "\"I need the keys to the Shrine. The Knurly Witch offered me hers in return for your head. I want to hear what you have to say.\""
+    },
+    {
+      "Key": "07749995-8db6-4bff-a55c-02e4e9a57bdd",
+      "Value": "[Attack] \"I'm afraid I'm not in the mood for talking. Die!\""
+    },
+    {
+      "Key": "cb8b84a5-8d87-4d0f-ad72-842d62dad625",
+      "Value": "\"I should probably go.\""
+    },
+    {
+      "Key": "b4bdc274-2980-4dda-825d-dccbb75eb6cf",
+      "Value": "\"I want to ask you about the Knurly Witch and the First Crown.\""
+    },
+    {
+      "Key": "2931ab48-98f6-4397-a3bc-5831aad76208",
+      "Value": "\"Nyrissa murdered you and now uses you as a servant. Look at this shard. It will show you everything — your past, your death, and your rebirth.\""
+    },
+    {
+      "Key": "f92f4fcb-e6a2-4fd6-ac26-4eb234e24842",
+      "Value": "\"The Knurly Witch is dead.\""
+    },
+    {
+      "Key": "27657ad7-9e4f-47b7-b55e-c1138f730812",
+      "Value": "\"She's still alive. Allow me to ask you about something else first...\""
+    },
+    {
+      "Key": "9ce40ee9-6d38-4744-afb9-300f58c19f7b",
+      "Value": "[Attack] \"I thought about it and decided to finish you!\""
+    },
+    {
+      "Key": "2f1698e0-415f-4861-9752-dbafd6dc9315",
+      "Value": "\"Are you always so calm when you meet those attacking the House?\""
+    },
+    {
+      "Key": "d7fba546-2971-4f56-8acc-3df0ca021307",
+      "Value": "\"Fine. I'll kill the Knurly Witch for you.\""
+    },
+    {
+      "Key": "85472e5f-a20b-4011-b8c1-a9bda27ec70b",
+      "Value": "\"I will think about your proposal.\""
+    },
+    {
+      "Key": "9098c6a3-f1d1-4896-b15e-a2631e1005e7",
+      "Value": "[Attack] \"I think I'd rather kill you.\""
+    },
+    {
+      "Key": "b1f83b3f-ddc9-45a4-8959-7d4db6cc858b",
+      "Value": "\"Why did you need the First Crown?\""
+    },
+    {
+      "Key": "290cede8-21db-4d02-90cc-4ae1d8ddd2fd",
+      "Value": "\"Why are you enemies with the Knurly Witch?\""
+    },
+    {
+      "Key": "e22719dd-6897-4686-9276-5755705ac62b",
+      "Value": "\"I have no more questions about this.\""
+    },
+    {
+      "Key": "e59018eb-3608-4d00-b8cd-40f3d5e0c79d",
+      "Value": "\"What if I give you the Crown?\""
+    },
+    {
+      "Key": "0e9846a4-06a7-4347-b734-62c81be23387",
+      "Value": "\"Where can I find the Knurly Witch?\""
+    },
+    {
+      "Key": "37c5e02f-3545-4c51-8455-ee177fbda3ac",
+      "Value": "{n}Hundreds of worms make up the body of this foulsome creature, swarming and wriggling restlessly. But the creature doesn't seem alarmed — it turns to you and nods. It seems a gesture of politeness only. — The worms have no eyes, and their common 'body' no true head, only a simulacrum of the form that came before.{/n} \"Hello, guest,\" {n}says the bodiless voice.{/n} \"What do you need from {d|Wriggling}the Wriggling Man{/d}?\""
+    },
+    {
+      "Key": "75b6780e-a23d-4644-ad61-ea2439891af0",
+      "Value": "\"What about our... wish, guest? Does the Knurly Witch still plague the Thousandbreaths with her presence?\""
+    },
+    {
+      "Key": "db47ea7a-6b5d-4237-b68c-f81daa4f4874",
+      "Value": "{n}The Wriggling Man seems to barely notice you. The worms are wriggling, busy in their communion.{/n}"
+    },
+    {
+      "Key": "129d73f9-16f6-4a70-9cd9-7ed24f8da2d9",
+      "Value": "{n}The worms on the creature's face lazily ball up and untwine again.{/n} \"Ask if you wish. But don't expect us to spend much time on you and your curiosity.\""
+    },
+    {
+      "Key": "9b752e24-2051-45ed-9026-c196426226be",
+      "Value": "\"Ah, you seem surprised, guest. What disturbs you? Maybe it's our hair, or our accent?\" {n}You hear laughter in the faint voice of the Wriggling Man — or a hundred voices sounding as one.{/n} \"We are a thousand reflections in a thousand shards of a mirror. We were once one creature, a man. Few memories are left from our past life, but we know this person died... and didn't want to accept it. His soul clung to his flesh, even as it fell to rot, and corpse worms devouring the body. And thus we came to be.\""
+    },
+    {
+      "Key": "fdeb60a3-b4fd-4022-8cf4-1358efc9e9d9",
+      "Value": "\"What are you hoping to do in the Shrine, foolish creature? Never mind, it matters not. Nyrissa will reduce you to dust the instant you set foot through the door. Should we waste our time talking to a dead {mf|man|woman}?\""
+    },
+    {
+      "Key": "baadd3ee-ed95-41c6-8450-103d9b823579",
+      "Value": "\"Bold honesty. You are intruding in the dominion of Lady Nyrissa, and making deals with our enemy, the Knurly Witch. What do you expect us to say? 'Prepare to become food for worms!'\""
+    },
+    {
+      "Key": "6cae521c-02b2-42ba-8210-16c9c79f8dc2",
+      "Value": "{n}The Wriggling man replies with a hundred-voice sigh, full of unconcealed irritation.{/n} \"Do we really have to spend time on this? Well, some new worm food won't hurt...\""
+    },
+    {
+      "Key": "9b5cbf29-8a47-4683-9614-f79e7d92b3d4",
+      "Value": "\"Be careful on the roads of {g|First World}the First World{/g}, guest. You never know where they might take you.\""
+    },
+    {
+      "Key": "83f4cd2d-554f-45d5-bde1-dd8dc59729e8",
+      "Value": "\"What an incredible pleasure it is to hear this. You deserve our respect, guest. For this we shall give you a quick and painless death. Nyrissa shall know that I am her most worthy servant and protector!\""
+    },
+    {
+      "Key": "ab6afd26-92fa-4dea-9549-2ec3eb9c4dbe",
+      "Value": "\"You are trying our patience. We hope at least you're not doing so out of idleness.\""
+    },
+    {
+      "Key": "a0366d84-0546-4d42-be23-7383c6ca15c4",
+      "Value": "{n}A wave passes through the creature's body. The worms arch and twist. It seems this is how the Wriggling Man laughs.{/n} \"When we decide that it's time to kill you, then we will certainly do it. And whether that happens now, in half an hour or in ten years — what's the difference?\""
+    },
+    {
+      "Key": "ed0fe921-8082-4459-8f3e-d67d05c81b07",
+      "Value": "\"But we like using opportunities. What about an offer? Kill the Knurly Witch, take her key — and you'll get ours. Since you are so eager to rush towards your own death, we won't stop you.\""
+    },
+    {
+      "Key": "8f694da3-d191-4bdc-99ca-827d37f5064c",
+      "Value": "\"Then go and come back. We will wait for you here.\""
+    },
+    {
+      "Key": "575d99d0-5fae-45de-a63d-f1dbe783b7d0",
+      "Value": "\"Time flies quickly, guest. Think while you can. Act when you're ready.\""
+    },
+    {
+      "Key": "3605eb4e-8de5-46e4-9225-285a2e71b074",
+      "Value": "\"It means nothing by itself. We would like to take it from the corpse of the disgusting witch, or receive it from the gracious hands of Lady Nyrissa.\""
+    },
+    {
+      "Key": "f0caefda-8c2c-42c7-9a6f-dde98ce89614",
+      "Value": "\"This feud is older than you can imagine. The Knurly Witch has always feared that we would take Lady Nyrissa's affection away from her. She envied us, tried to besmirch us, set traps — until our patience ran out.\" {n}The faint voice stops for a while — and continues with a strange ringing tone.{/n} \"And how can you not hate such a creature? Just the appearance of the witch has always made us very angry, deep inside.\""
+    },
+    {
+      "Key": "cf28bf08-fbe8-46f6-838e-fdda8dbaf993",
+      "Value": "\"It's a gift with which Lady Nyrissa marked the Knurly Witch as one of her most worthy servants. This was before our arrival at the House at the Edge of Time. The witch has had her day. We want her death, and we want recognition!\""
+    },
+    {
+      "Key": "c80e8cac-e421-4efe-b1fe-d505e15a14f1",
+      "Value": "\"It's good that you know when to stop. So many don't...\""
+    },
+    {
+      "Key": "6ce5d8d1-e8af-4839-8f4f-648fdb8d8d78",
+      "Value": "\"What? What do you {d|c61 Mirrors}mean{/d}?\" {n}You feel a strange tension in the Wriggling Man's thousand-voice question. The hand of the macabre creature takes the shard from you. Images flash across the smooth surface of the mirror: a wounded wizard fights at the doorway of the House at the Edge of Time; the wounded wizard confronts Nyrissa, and dies; worms eat the body in the Knurly Witch's pantry. Finally, Nyrissa looks at the newly created worm body and orders the Witch to destroy the wizard's memory of the event.{/n}"
+    },
+    {
+      "Key": "d0bad569-c65f-446b-9b81-352d0eea0baf",
+      "Value": "\"She is hiding in the underground part of the House. In one of the dimensions. You do know we live in two realities here, right? Of course you do — otherwise you wouldn't be here.\""
+    },
+    {
+      "Key": "e0ef0842-eefc-4a90-a944-8d80010f9a16",
+      "Value": "{n}Finally the mirror stops showing pictures from the past, and all that remains is a regular reflection of the Wriggling Man's cruel face — a ball of twitching worms under the shadow of a black hood. The creature's hand starts to tremble.{/n} \"Blinded, fooled... I... we... what happened to me? How did we... I... we... all of us... could let her make a toy out of us?! What have you done, guest. So much pain and anger, we can't hold it back!\" {n}The Wriggling Man shudders — and the next moment falls to pieces. The worms quickly crawl away, and only his black cloak remains lying on the floor.{/n}"
+    },
+    {
+      "Key": "76bdc28e-68bb-4235-a7bb-c8d5cb693197",
+      "Value": "\"You must be so unhappy. A thousand souls, all communally dragging out a pointless existence, instead of just one...\""
+    },
+    {
+      "Key": "7e0962ac-9a46-4aab-a693-9fcf32b0d10e",
+      "Value": "\"Ugh! How do you even beat that heap up if you need to? They're, you know... crawling away!\""
+    }
+  ]
+}

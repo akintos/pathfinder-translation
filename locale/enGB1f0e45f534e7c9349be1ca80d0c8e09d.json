@@ -1,0 +1,205 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "5e05ccc5-79e4-4793-be30-7c8eed21d898",
+      "Value": "\"What's going on here?\""
+    },
+    {
+      "Key": "2c5270cb-489a-4eb0-a7fb-89806dd42ab9",
+      "Value": "[Attack the lumberjacks] \"I'll show you what comes of disrespecting the fey!\""
+    },
+    {
+      "Key": "c8e54e67-8b30-4666-b817-571cde193e4c",
+      "Value": "[Attack Melianse] \"I'm not here to negotiate. Attack her!\""
+    },
+    {
+      "Key": "d5829a71-dda3-43e9-bfb1-64c344522216",
+      "Value": "[Use dispel magic to free the hostages] \"I've lifted the enchantment! You're free!\""
+    },
+    {
+      "Key": "e50b0591-4450-4b46-92fb-3cf5d40bfeb7",
+      "Value": "\"The forest is big. I'm sure you can find other trees to fell.\""
+    },
+    {
+      "Key": "2ffb5cb7-ec34-4f7e-a571-ae18123315ee",
+      "Value": "\"Quarreling with fey is more trouble than it's worth. You've no idea how powerful — and thin-skinned — they can be.\""
+    },
+    {
+      "Key": "00119a5c-e85d-4613-83c9-8740d2143140",
+      "Value": "\"Think of your situation, Melianse. These people are willing to leave in peace — asking for much more could prove dangerous.\""
+    },
+    {
+      "Key": "85947062-1461-4e7e-b02e-efb5cdf18dd3",
+      "Value": "\"How are we supposed to restore a tree that's already been cut down?\""
+    },
+    {
+      "Key": "07b3cd7b-de8d-4b54-9996-05bdcb877367",
+      "Value": "\"You hear that, Corax? Just buy some feather tokens from a magic shop and she'll let your people go.\""
+    },
+    {
+      "Key": "ddadbe81-f621-410c-af88-0bea3f7f4fac",
+      "Value": "\"Melianse, they'll leave this place and never return. Please, release the hostages now.\""
+    },
+    {
+      "Key": "b3863af4-6b7d-4360-b629-6314a919f2ec",
+      "Value": "\"I'm the {mf|baron|baroness|king|queen} of these lands, rightful ruler of the realm, and I haven't granted anyone logging rights to this forest. You should leave now, or you may regret it.\""
+    },
+    {
+      "Key": "c3fcde19-9b2a-4ae4-8f8c-df57fbff5bf3",
+      "Value": "\"Let them go, Melianse. These people have families.\""
+    },
+    {
+      "Key": "42433101-9def-44b0-be3d-57d7c6528d15",
+      "Value": "[Attack everyone] \"I've no interest in any of this. Arm yourselves!\""
+    },
+    {
+      "Key": "c28eaf74-5737-4d44-aae0-eb0309464d17",
+      "Value": "[Try to reason with loggers] \"Listen to me, people...\""
+    },
+    {
+      "Key": "38e9dc91-c0f0-4522-8ded-8b2f4287ac46",
+      "Value": "[Try another approach] \"All right, here's what I'll tell you...\""
+    },
+    {
+      "Key": "f8146ea6-6c02-46f8-8443-2ed8a72041ae",
+      "Value": "[Solve the problem with force] \"You know what? To hells with it...\""
+    },
+    {
+      "Key": "a091aba6-0468-47b9-b868-0bf9476a3a46",
+      "Value": "[Look for a different solution] \"Wait, wait, I'm sure we can find a way to settle this...\""
+    },
+    {
+      "Key": "e11232b2-6bdb-4b5e-b8eb-e7a94e318301",
+      "Value": "\"Wait here. I'll bring the feathers.\""
+    },
+    {
+      "Key": "9a3c06bc-8408-4f7f-877e-465bf6853e82",
+      "Value": "[Leave] \"I've no interest in your quarrel. Go ahead and fight if you want, but keep it between yourselves.\""
+    },
+    {
+      "Key": "b84125a7-59f2-4ab2-a16b-9b04739c3648",
+      "Value": "{n}A group of hardy people with axes, most likely lumberjacks, are menacing a fragile nixie. Two lumberjacks stand before her, relaxed and disconnected. The lead lumberjack shakes his fist at the nixie and yells,{/n} \"Let them go, you swamp freak! If you don't, I'll burn this rotten grove to the ground, on my word!\""
+    },
+    {
+      "Key": "8120196b-1ddd-4c64-a028-fc0d81e93d93",
+      "Value": "\"You're the freaks! And my name is Melianse, thank you very much! If you keep being rude like this, I'll just drown these jumbos in the lake, understand?\""
+    },
+    {
+      "Key": "e83a8e0a-8231-468b-9869-cf4a625671ed",
+      "Value": "{n}Noticing you, the lead lumberjack grins and waves.{/n} \"You, there! You seem a capable sort! Interested in some coin? Name's Corax, and we're loggers here in this forest. We could use your help in freeing our people from this gorgon's claws!\""
+    },
+    {
+      "Key": "70473841-7301-4d23-b1a8-c3b8c1424c24",
+      "Value": "\"We were minding our own business, cutting trees and splitting logs, when this hag shows up out of nowhere, screeches at us, then jinxes two of ours and threatens to drown them. With these fey breeding like rabbits everywhere, what's an honest, hard-working man to do?\""
+    },
+    {
+      "Key": "3b673af6-649d-491f-a92a-296b17e18787",
+      "Value": "\"Stupid jumbo! You're the ones who breed like rabbits, spreading into more and more space — we've lived here since forever! I've grown these trees for more than a hundred years, know them down to the tiniest leaf, and then you show up with your stupid axes to ruin everything!\""
+    },
+    {
+      "Key": "8196ca88-3939-4a17-b8e8-5803c6955ce2",
+      "Value": "\"You asked for it! Hey, you two! These jumbos want to hurt me! You wouldn't let something like that happen, would you?\""
+    },
+    {
+      "Key": "df331967-383b-49c6-b5d7-7d98e7d57139",
+      "Value": "{n}You tell the lumberjacks about a nearby grove where fine trees grow and no fey have taken up residence.{/n}"
+    },
+    {
+      "Key": "dfb079ab-3328-465b-836c-7a2b8103ce57",
+      "Value": "\"Sure, there might be other spots with trees as fine as these, but how would we find them? And what if there's another fey there, too?\""
+    },
+    {
+      "Key": "0d65256c-f8d5-4128-84b3-969faed5f7d4",
+      "Value": "{n}The lumberjack looks at the nixie with suspicion.{/n}"
+    },
+    {
+      "Key": "5c1be8b3-9029-46c0-b4ac-c8f0ee59ebbb",
+      "Value": "\"So what, then? Do we just hang ourselves and be done with it? There's all manner of beasts in the forests — we can't roll over for all of them! Instead of giving up, we should just keep on fighting till we wipe out every last one!\""
+    },
+    {
+      "Key": "23f70948-888b-4f8c-93f1-760f1d203ac3",
+      "Value": "\"Oh, sure! And who's going to bring back my trees, then? They come in here, smash everything in sight, and then just leave? No deal! Fix what you broke, then maybe I'll let them go!\""
+    },
+    {
+      "Key": "dacb3351-d783-472d-becc-ff2bf8e269c9",
+      "Value": "\"If you push me, I'll just retreat into the lake with these two! I can breathe underwater — you think they can, too? We could find out!\""
+    },
+    {
+      "Key": "774a717e-fc81-46e7-a9fd-d3f747b3bd27",
+      "Value": "\"You humans are always like this! Destroy, destroy, destroy, and then when it's time to clean up your mess, poof! Gone. Fine, then, since you're clearly clueless, I'll tell you what to do.\""
+    },
+    {
+      "Key": "4eb46f75-9e5b-4454-a55d-d911def373f8",
+      "Value": "\"You think we just have piles of gold lying around to go throwing away at a magic shop? We can barely feed our families!\""
+    },
+    {
+      "Key": "3095b3c1-10a4-477f-8fa0-79b818337edc",
+      "Value": "{n}The lumberjack gives you a long, hard look.{/n} \"If you say so... Your Grace. The sovereign's word is law.\""
+    },
+    {
+      "Key": "4cf428c6-7f52-41c5-b6f8-add2b891864a",
+      "Value": "\"What sort of ruler protects monsters over their own subjects?\""
+    },
+    {
+      "Key": "64816331-064b-4917-a6f9-552cbed4c446",
+      "Value": "\"You wish! Soon as I let them go, the whole lot of them will attack! If these goons want to go home to their stupid families, they're going to have to promise to steer clear of my grove first!\""
+    },
+    {
+      "Key": "f48dbad5-2954-4fc2-bc1d-d2d06efacdb6",
+      "Value": "\"All right, all right. It's not like we were dead set on this grove in the first place. If she gives us back our people, we'll leave the place in peace. On my word!\""
+    },
+    {
+      "Key": "9337ef52-8f83-4059-accc-8d8029707bfd",
+      "Value": "\"There are these magic thingies that look like little feathers. The feather tokens. Throw one on the ground, anywhere, and a tree springs up. Your people's mages who tread the swamps more often that the others — they can make them. Buying a couple won't break your bank. My cousin Tiressia can also make them — she lives in the {g|Narlmarches}Narlmarches{/g}. Either way, you bring a handful of them back here, I'll let your goons go!\""
+    },
+    {
+      "Key": "bbabefca-61b0-406b-9000-f801e7b47c72",
+      "Value": "\"They'll be waiting right here. It's not like they have anything else to do, right?\" {n}The nixie chuckles as she tussles one of the lumberjacks' hair. He smiles up at her faithfully.{/n}"
+    },
+    {
+      "Key": "7614ec14-5f1d-4838-842c-e50556a17c3c",
+      "Value": "{n}Melianse makes a scary face as she stretches her webbed hands out toward Corax, wiggling her fingers.{/n} \"OoooOOOooo!\""
+    },
+    {
+      "Key": "6f552d23-fec5-4b3c-aaa0-955d1720ecee",
+      "Value": "{n}The loggers exchange glances, holding their hand on their axes.{/n}"
+    },
+    {
+      "Key": "f6e763a9-87b5-4f3e-ab98-71538afea9c0",
+      "Value": "{n}Nixie gives the loggers a gloomy glance.{/n}"
+    },
+    {
+      "Key": "f8565588-fe10-44f6-9a51-f1ef319b5bfa",
+      "Value": "{n}The situation is heating up. A battle is about to erupt.{/n}"
+    },
+    {
+      "Key": "ccd68ab3-77fd-462e-92fd-261b7d6ea732",
+      "Value": "{n}The charmed loggers look at the nixie with adoration.{/n}"
+    },
+    {
+      "Key": "82246328-abcb-493a-b238-407b46d16ab2",
+      "Value": "\"You do not understand what calamities you are calling upon yourself. The forest is deep, and wild, and full of terrible secrets. When the full power of the fey wizardry falls upon you, you will remember this day, and ask yourself if some logs were worth suffering the neverending misery, and you will answer: no, of course, not, but it will be too late!\""
+    },
+    {
+      "Key": "63655fe4-11c8-47d9-b677-134a8eb42b64",
+      "Value": "\"We should help her! No, them! Uh, I don't know. Why can't people and fey live in peace?\""
+    },
+    {
+      "Key": "7dfaf333-ba55-464a-90af-99d3e47a481a",
+      "Value": "\"The nixie has better chances at winning.\" {n}Jaethal taps her chin, amused.{/n} \"Let's find out if I'm right.\""
+    },
+    {
+      "Key": "a5a015a5-bab4-4e05-ad8e-2983c5a1b821",
+      "Value": "\"Let's just slaughter them all and be done with it!\""
+    },
+    {
+      "Key": "eb09509a-9f7d-4cb2-83d0-2b3107a9b022",
+      "Value": "{n}The lead lumberjack curses under his breath, then sighs heavily.{/n} \"Have it your way! I'll send some of the boys to fetch those feathers of yours. I refuse to go back to talk to widows and orphans about how their dad or mom was drowned in the swamp by some blue-skinned tree hugger!\""
+    },
+    {
+      "Key": "eb3d780d-0463-41c8-9652-8dda7a5de06d",
+      "Value": "{n}The nixie pouts her lips.{/n} \"You mean... stinky... stupid... jumbos! Bug off!\" {n}Sobbing, the fey dives into the lake.{/n}"
+    }
+  ]
+}

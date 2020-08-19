@@ -1,0 +1,109 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "dfa66a05-351e-4ccf-9b17-982c54d120c2",
+      "Value": "\"What are you reading?\""
+    },
+    {
+      "Key": "864af25b-f0a6-4f8c-b714-017ed509f137",
+      "Value": "[Look over shoulder]"
+    },
+    {
+      "Key": "16366307-7888-46ab-bff2-11e4a84824e2",
+      "Value": "[Leave Tristian alone]"
+    },
+    {
+      "Key": "ab288b81-dc6e-4e3a-b5c1-559aecb5b2bd",
+      "Value": "\"I wouldn't mind reading that book myself.\""
+    },
+    {
+      "Key": "3d3e4852-c728-4c22-9fb4-75131a5e8c62",
+      "Value": "\"I noticed that book has some quite... exciting descriptions.\""
+    },
+    {
+      "Key": "7043a6cc-5ff0-40f8-b5af-e9e33b8873d3",
+      "Value": "\"So what confused you about it?\""
+    },
+    {
+      "Key": "b0acfd11-f9c7-400e-a4ea-adbbcc3349ce",
+      "Value": "\"I won't bother you any more.\""
+    },
+    {
+      "Key": "2e6cca75-3411-4caa-b676-76f9ed80f488",
+      "Value": "\"You always try to find something in words that can't be described.\""
+    },
+    {
+      "Key": "4cefd832-5253-4700-bf15-a8abae4b045f",
+      "Value": "[Take Tristian by the hand] \"And yet the answers you seek cannot be found on the pages of a book.\""
+    },
+    {
+      "Key": "014b6a86-5fb3-42de-8361-618a51bc7def",
+      "Value": "\"As you wish.\""
+    },
+    {
+      "Key": "18998fb7-c4bd-47b8-a98c-bc77f7cd9be7",
+      "Value": "[Hold your hand against Tristian's cheek] \"Not at all.\""
+    },
+    {
+      "Key": "998fe54e-5440-4e6d-828f-ecf7d97b6a8b",
+      "Value": "\"Well, you need to work on your confessions of love.\""
+    },
+    {
+      "Key": "6f600148-0c59-4c6c-937c-ce219368a3be",
+      "Value": "{n}You notice that Tristian is reading something, frowning from time to time. He seems so immersed in the book that he's oblivious to everything around him.{/n}"
+    },
+    {
+      "Key": "e8b75248-9851-411b-9039-9d68cc1635a6",
+      "Value": "{n}Stretching your neck, you peek into the book the priest is reading. Your eyes catch a few intriguing lines — something about 'blazing skin' and 'desire in her voice'.\"{/n}"
+    },
+    {
+      "Key": "25ce9ad7-2431-4fad-9fbd-a0930c5fba63",
+      "Value": "\"Ah! {name}! I didn't notice you!\" {n}Tristian shuts his book hastily.{/n}"
+    },
+    {
+      "Key": "270dfcc9-b9a4-420a-8bdd-b67f66fa9766",
+      "Value": "{n}Hesitating for a second, Tristian hands you the book.{/n} \"Here. Maybe you'll get more pleasure from it than I could.\""
+    },
+    {
+      "Key": "cf0e38ea-008e-4d84-84fc-3b4d5f299456",
+      "Value": "{n}Tristian blushes a little.{/n} \"You think so? What's described here… it all sounds... so unnatural. And pretentious! As if it's about venerating a deity, not... communicating with mortals.\""
+    },
+    {
+      "Key": "ea701508-e111-4860-b7d0-e7b19255ebac",
+      "Value": "{n}Tristian becomes crimson.{/n} \"What? Wait... I didn't mean to...\""
+    },
+    {
+      "Key": "60eaa6f1-ad38-45da-a772-10a9645a2e50",
+      "Value": "\"I thought I could wrap my head around some... issues. No, not issues — problems... that are bothering me. To find the words for something I cannot express. But instead I only became more confused.\" {n}Tristian freezes, and then chuckles with hesitation, looking away.{/n} \"Sometimes I admire how easily you choose the words for what's on your mind.\""
+    },
+    {
+      "Key": "a79cbd21-c044-4e56-8115-fd10f0374d1b",
+      "Value": "{n}Tristian looks at you hesitantly, a little askance.{/n} \"What are you talking about? The greatest wisdom of {g|Golarion}Golarion{/g} is expressed in the words of numerous books — and even the divine mercy of {g|Sarenrae}Sarenrae{/g} finds its reflection in her sacred text...\""
+    },
+    {
+      "Key": "f71b976b-e047-41bd-b768-d9b292ca76a9",
+      "Value": "{n}Tristian looks at you, almost in despair.{/n} \"I'm sorry, I didn't mean to offend you. It's just... I feel like something is happening inside me every time I see you. And I can't find the words to express it... words that don't seem false.\""
+    },
+    {
+      "Key": "93fb6e02-54d5-41a3-b14a-983f6393eac2",
+      "Value": "{n}Tristian looks at you, his fingers softly holding your hand.{/n} \"You have such warm hands. Like you are full of sunshine.\" {n}He smiles faintly.{/n} \"That probably sounded as terrible as the book.\""
+    },
+    {
+      "Key": "8c00f1bf-2bb8-40c5-9ec8-9f4418a529c8",
+      "Value": "{n}A moment later Tristian opens his eyes and casts a frightened look at you. He softly pushes away your hand.{/n} \"Forgive me! Forgive me, I'm out of line!\""
+    },
+    {
+      "Key": "aff95c57-6d26-419e-8c0a-4b05a74c3e77",
+      "Value": "{n}The young man looks up at you.{/n} \"I pray to {g|Sarenrae}Sarenrae{/g} that you aren't angry with me. Believe me, I care very much for you.\" {n}Tristian casts a final shy glance at you and turns away.{/n}"
+    },
+    {
+      "Key": "d1487417-525d-455c-830c-4a47e7cfc54e",
+      "Value": "{n}Tristian freezes, looking directly at you. In two heartbeats he closes his eyes and puts his hand over yours. He turns his head and tenderly touches your palm with his lips.{/n} \"Full of sunshine...\""
+    },
+    {
+      "Key": "de5f4879-54fa-4259-a82f-c39182365c0c",
+      "Value": "{n}Tristian awkwardly puts away the book.{/n} \"Some... treatise I learned about from Linzi. I asked her advice and she recommended that I read... this. She said it's the best you can get about... the passions.\" {n}Tristian looks embarrassed.{/n} \"I probably just don't understand anything about literature.\""
+    }
+  ]
+}

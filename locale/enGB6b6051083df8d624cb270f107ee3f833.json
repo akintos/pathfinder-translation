@@ -1,0 +1,25 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "1fae0d7b-fa7a-43ab-b52c-76ba6768c706",
+      "Value": "[Try to move the rock]"
+    },
+    {
+      "Key": "be27281a-8608-4a03-b06a-8ad033d4fb5d",
+      "Value": "[Leave]"
+    },
+    {
+      "Key": "767748bf-1bf0-437b-8797-0d177db14e06",
+      "Value": "{n}The stonework here has crumbled, leaving a huge boulder to block your way. Fortunately, there's a large girder sticking out of the nearby debris. It may help in removing the obstacle.{/n}"
+    },
+    {
+      "Key": "19969b7d-7ed9-4459-bac7-579cffe513dd",
+      "Value": "{n}Pushing all your weight and effort against your makeshift lever, you manage to shift the boulder. It falls into the chasm, rumbling loudly.{/n}"
+    },
+    {
+      "Key": "a39d5a45-db0a-467e-b444-ccef36cded5e",
+      "Value": "{n}Pushing all your weight and effort against your makeshift lever, you misjudge your own strength, and the girder snaps in two. It's unlikely you'll be able to move the boulder now.{/n}"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "ecc5fe99-c0b3-4f5c-a0f1-95025e205099",
+      "Value": "\"Please show me your wares.\""
+    },
+    {
+      "Key": "6e35582a-a1e3-4293-9f02-417c77dce3d2",
+      "Value": "\"How is the temple restoration progressing?\""
+    },
+    {
+      "Key": "e4a685a9-e35e-45a2-a950-13458b3f485e",
+      "Value": "\"I have no questions right now. Farewell.\""
+    },
+    {
+      "Key": "edc572b3-bb64-4246-9166-8d157f2ca618",
+      "Value": "\"You're doing a good thing. May Erastil never abandon you.\""
+    },
+    {
+      "Key": "6b20d264-b258-42dd-9b1f-fefb999f3ba0",
+      "Value": "{n}You see a tall woman dressed in simple but rugged traveling clothes.{/n} \"Greetings, Your {mf|Grace|Grace|Highness|Highness}! I'm Ilga, leader of these pilgrims in honor of {g|Erastil}Erastil{/g}. I meet with travelers and deal in the goods our small community creates. How can I be of service?\""
+    },
+    {
+      "Key": "47249c6b-fd36-49ea-9de7-6c2b0f21d9ba",
+      "Value": "\"Not quickly, Your {mf|Grace|Grace|Highness|Highness}. Temples like this take dozens of years to build, and I fear a full restoration won't be much faster. But we're happy to be able to touch the holy shrine and do our part to ensure its future greatness.\""
+    },
+    {
+      "Key": "da57b426-17e0-4f65-a952-540a9301c111",
+      "Value": "\"Thank you, Your {mf|Grace|Grace|Highness|Highness}! May he bless you as well!\""
+    }
+  ]
+}

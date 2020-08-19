@@ -1,0 +1,217 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "13f24525-74d0-4265-a036-8d35bf90ff4d",
+      "Value": "\"Irovetti, my friend, it's uncomfortable how much attention you lavish upon me. How about your kingdom? How many bodies are found in Pitax's harbors each year?\""
+    },
+    {
+      "Key": "1ba54dda-daf3-4e53-8276-49d0b16373d5",
+      "Value": "\"I'm flattered by your borderline disturbing attention to my persona, but why don't we include you in the discussion as well? For example, I heard an amusing story from some students from your academy...\""
+    },
+    {
+      "Key": "17398e32-e3ed-4fb5-a19e-3390cf27515e",
+      "Value": "\"Your words ooze poison — is this how you show hospitality? If I've offended you in some way, just tell me and I'll offer my apologies.\""
+    },
+    {
+      "Key": "5813fd18-55d8-47ad-a6df-b873a29676e8",
+      "Value": "\"Lies! Lies and slander! I demand you rescind your words!\""
+    },
+    {
+      "Key": "923b956f-5170-4222-8d60-44d641c33bf2",
+      "Value": "[Stay quiet]"
+    },
+    {
+      "Key": "81f7343a-b5dd-4dc4-8b0b-14fec3a1494f",
+      "Value": "\"Watch yourself, Irovetti, or you'll regret it!\""
+    },
+    {
+      "Key": "a3588642-4d25-4664-a73c-0caf787512cf",
+      "Value": "\"I hope my victory didn't offend. I do apologize — it's hard to tone down all this talent!\""
+    },
+    {
+      "Key": "c08b4ad3-5ca4-4eea-ba7c-3897ddb636b5",
+      "Value": "\"Tiny? Why are you so concerned with the size of my country, Irovetti? Are you perhaps trying to compensate for your size elsewhere?\""
+    },
+    {
+      "Key": "9aa63c6a-9fb6-4252-806a-d6d793dbcb6a",
+      "Value": "[Stay quiet]"
+    },
+    {
+      "Key": "67a0d5b3-e763-461f-b9f4-86771549ab3d",
+      "Value": "\"Your Highness! Dear guests! Attending this tournament was a great honor and a true pleasure. I thank you all for an unforgettable day!\""
+    },
+    {
+      "Key": "66bfd0a1-4f1f-4a4a-8c72-d6bcb635e331",
+      "Value": "\"Irovetti, I tire of your rudeness. To the Abyss with your insults!\""
+    },
+    {
+      "Key": "c0c6bbc6-6e9e-4da4-8157-9f6c970e8633",
+      "Value": "\"Awarding yourself the prize? Such a regal thing to do! I applaud you!\""
+    },
+    {
+      "Key": "3c57a958-bb4c-40ca-9587-2348b777add2",
+      "Value": "\"This is absurd! We won two of the three contests. That prize is ours by right!\""
+    },
+    {
+      "Key": "4493a5e1-b8cb-4430-b696-42c916154e02",
+      "Value": "[Stay quiet]"
+    },
+    {
+      "Key": "3b4a41d4-9c63-4dc9-bebc-af9a5c0d07da",
+      "Value": "[Show the guests the signet with Irovetti's monogram] \"I too have a most amusing story for you. This ring was given to me by a gnome named Tartuccio, on that bloody night when Swordlord Jamandi Aldori's mansion was attacked...\""
+    },
+    {
+      "Key": "385e4f54-2d1f-4d90-981d-e31822e49e04",
+      "Value": "\"Thank you, but I'm not fond of public speaking or ceremonies. I'll remain silent, if you please.\""
+    },
+    {
+      "Key": "1d1d463e-8a9c-4278-afaf-4ef47835abf7",
+      "Value": "\"Lords and ladies, another Rushlight tournament has come to an end! I'd like to thank all of you who honored this event with your presence. My friends, I'm happy to see all of you, but I'd like to give a special welcome to one guest who found themselves invited here for the first time! Today we had {Name}, the baron{mf||ess} — no, excuse me, it's {mf|king|queen} now, isn't it? — of a majority of what was once the {g|Stolen Lands}Stolen Lands{/g}! Thank you for coming, my darling — I can call you that, right? I thank you with all my heart!\""
+    },
+    {
+      "Key": "a470b9d4-c67a-4309-98da-ece6b2c64692",
+      "Value": "\"I first learned of {mf|him|her} from my friend Stefano Moskoni. To be honest, his report was less than flattering. Impassable swamps, monsters galloping about, and a complete absence of any valuable resources. 'Nothing more than a dirty hole ruled by another bandit lord, hardly worthy of your attention' — that's what he wrote back then. I'm so happy he was wrong!\""
+    },
+    {
+      "Key": "c29e0018-3089-4a4a-9dab-e2e735a6196e",
+      "Value": "\"Stefano himself seems to have vanished somewhere in {Name}'s domain, unfortunately. Perhaps he met a hydra on his way back, or drowned in the omnipresent mud... Or maybe he just caught the baron{mf||ess} in a bad mood, eh? Ha ha! A joke, a joke. Stefano was a great fellow — it's a pity he joined the many travelers who vanish in those lands each year.\""
+    },
+    {
+      "Key": "75553673-618b-4743-b9b3-8bec91f8caf7",
+      "Value": "\"Truth be told, even now traveling that domain is a less than pleasurable experience. Some roads have appeared, but their safety leaves much to be desired. Take the sad story of poor Tomin Hanvaki from Gralton! He set off to those lands and hasn't been seen since. His brother, Edrist, went to find the poor fellow, and what happened?\""
+    },
+    {
+      "Key": "ffc39488-3492-4f4b-96d6-a9cf33dcf1f9",
+      "Value": "\"The baron{mf||ess} found the body in the blink of an eye — almost as though it were stored in {mf|his|her} cellar!\""
+    },
+    {
+      "Key": "7ac800dd-d771-4b2a-a610-8233f6cd6106",
+      "Value": "\"He returned empty-handed! Tomin seems to have vanished into thin air, like hundreds of travelers before him. At least Edrist was lucky, I suppose — he managed to come back alive. That's certainly considered fortunate for those who decide to swing through those lands!\""
+    },
+    {
+      "Key": "8bba444b-1ee5-49f7-81d4-dbba5f2c913c",
+      "Value": "\"{Name} ordered him hanged as a spy! Now that's what I call taking care of national security! Take a lesson, there!\""
+    },
+    {
+      "Key": "f577de55-023a-4632-9fd3-69c65afdf621",
+      "Value": "\"And the hunt the baron{mf||ess} put on, clearly imitating my tournament? It was beyond description. While guests were out hunting hydras and owlbears, the latter came from behind and ate at the banquet table — along with all the servants! Some celebration, right?\""
+    },
+    {
+      "Key": "c0f7f451-0e9c-4a66-9203-21b4750b281e",
+      "Value": "\"Our precious Annamede was there — you should have heard the way she described how she was received, if you can call it that! The baron{mf||ess} was so loaded, {mf||s}he mistook her for prey! Poor thing had to crawl away from {mf|him|her} through bushes and swamps!\""
+    },
+    {
+      "Key": "d2304d76-396b-4658-8e0c-a2ca12bc05ac",
+      "Value": "\"And how about the Aldori sisters from {g|Mivon}Mivon{/g}? They're here today — ask them how the hunt went! They may have made it to the baron{mf||ess} on their own, but suffice to say, they made it back home in wooden boxes! That was some hunt! Good thing the noble family had enough gold to pay for resurrection!\""
+    },
+    {
+      "Key": "a840cf63-cfea-49d5-8032-1abe1b1566c4",
+      "Value": "\"Hey, now, no need to get mad. No harm meant — I'm just sharing amusing anecdotes!\""
+    },
+    {
+      "Key": "eeacd996-7c22-4632-9cab-b2c1c88f80a9",
+      "Value": "{n}Grinning triumphantly at you, Irovetti continues.{/n}"
+    },
+    {
+      "Key": "935655d2-6b47-40da-9945-d20a756bf9b9",
+      "Value": "{n}Irovetti breaks out into a fit of coughing.{/n} \"Right, yes. Ha ha! I did get a bit carried away, didn't I?\""
+    },
+    {
+      "Key": "ac930324-f255-47db-bb9c-0cd620f1ee4a",
+      "Value": "\"This is still my tournament, if you please. When I visit you, you can talk about whatever you want. Until then, let me continue!\""
+    },
+    {
+      "Key": "a4ae9b15-ea0b-4fc7-b5d0-ef9fd9387275",
+      "Value": "\"Um... Yes, well, I believe we've fallen a bit off topic.\""
+    },
+    {
+      "Key": "86478c26-a146-40fe-a93f-01f484f59e6d",
+      "Value": "\"Enough, really! Are you looking to ruin everyone's appetites right before the banquet?\""
+    },
+    {
+      "Key": "ce559ee4-434f-431e-b12f-f82f694af972",
+      "Value": "\"No, forgive me. I don't wish to seem impolite! But getting back to the subject...\""
+    },
+    {
+      "Key": "2b86bc25-620b-4975-9d76-7db78ee9dd92",
+      "Value": "\"Poison? What do you mean? We're friends, you and I! I was just looking to share some funny stories with my guests.\""
+    },
+    {
+      "Key": "b208705f-9e05-4def-9ae9-f763d8048864",
+      "Value": "\"All I really wanted to get at was that the {mf|king|queen} of {kingdomname} is a personage truly as extraordinary as {mf|his|her} lands, and I'm happy to see {mf|him|her} at this celebration! And now, it's time to announce the winner of the tournament!\""
+    },
+    {
+      "Key": "a0744ace-ce66-42eb-971a-ece17cf40610",
+      "Value": "\"Please restrain your anger, but this year, the prize will be staying here. The winner of the most contests was the team from {g|Pitax}Pitax{/g}!\""
+    },
+    {
+      "Key": "08d85cd5-45e7-43b8-8272-0f13825b9b48",
+      "Value": "\"This year, no one managed to win all three contests. Since the victories all belong to the {kingdomname} and {g|Pitax}Pitax{/g}, as the chief judge, I'll be rewarding the prize to... Pitax — for their grace and skill!\""
+    },
+    {
+      "Key": "7efd0cea-2440-4446-9461-ff9e51685c27",
+      "Value": "\"This year, all three contests were won by guests from one kingdom. I'm not sure what charms, tricks, or divine intervention helped {mf|him|her}, but...\""
+    },
+    {
+      "Key": "dd19e405-2830-4356-b2f5-9649018cb316",
+      "Value": "\"I must say, I was hoping that this year our debutant, {mf|King|Queen} {Name} of {kingdomname} would show {mf|his|her} worth, but I suppose it would be strange to expect {mf|him|her} to display more talent during the contest than {mf||s}he does ruling {mf|his|her} tiny country!\""
+    },
+    {
+      "Key": "cb70523a-1270-4016-a4e5-1e2bad3bb75e",
+      "Value": "\"Oh! I'll stop, I'll stop. I'm not trying to anger you. Believe me, I don't want you to start another ugly fight at my celebration!\""
+    },
+    {
+      "Key": "119f249c-1ace-4e57-9466-d7169acd8b7e",
+      "Value": "{n}Irovetti grinds his teeth as the rest of the guests laugh heartily.{/n}"
+    },
+    {
+      "Key": "ee2d9d41-d590-4d21-9c2a-1b4de6517aa7",
+      "Value": "\"Oh, trust me, I don't fall short in lands... or anything else! If you wish, I could give you a personal tour later!\" {n}The guests roar in laughter at Irovetti's words.{/n}"
+    },
+    {
+      "Key": "88eb274c-329f-4b56-b03e-4934ba53ab4f",
+      "Value": "\"Oh, well... Why attract any more attention to a group of losers than they deserve?\""
+    },
+    {
+      "Key": "c4be661e-413e-4d8e-9240-ff6a720e9567",
+      "Value": "{n}Despite Irovetti's efforts to smear you in the eyes of the guests, the audience is elated — your speech garners a hearty round of applause.{/n}"
+    },
+    {
+      "Key": "abb1d6c6-3952-44c5-a86d-4b93cbc0e246",
+      "Value": "{n}It seems Irovetti's insults and slander had a greater impact on the guests than your congeniality did — your speech is greeted with sideways glances and whispers.{/n}"
+    },
+    {
+      "Key": "f70a555c-dc11-4a3a-ba3c-52b9d79e76e0",
+      "Value": "{n}The guests greet your playful speech with amiable laughter.{/n}"
+    },
+    {
+      "Key": "fab8e8f6-a522-4f9e-9b63-c3c7e199e30d",
+      "Value": "{n}Your speech doesn't go over well with the guests — instead of laugher, you hear only baffled silence.{/n}"
+    },
+    {
+      "Key": "f1b0ee66-73f9-4946-a3a2-2cbe64449355",
+      "Value": "\"A joke! I was joking. You won two contests of the three — the prize is rightfully yours!\""
+    },
+    {
+      "Key": "14823659-e41f-4362-996c-26112f4a3523",
+      "Value": "\"Oh? Someone's displeased with my judgment? But it's my right, after all!\""
+    },
+    {
+      "Key": "7177f47c-fdaf-407b-ab82-a164a94a440e",
+      "Value": "\"Let's hear it for the winner! {Name}, if you please! I know you're not exactly a master of ceremonies, but please try to say something articulate to my guests!\""
+    },
+    {
+      "Key": "85209d95-16a4-4295-b44c-e9bc15d5d90a",
+      "Value": "\"Ha ha ha! Just a joke! Please, restrain yourself — no need to be mad! Of course the prize is yours. Here you are, take it — just don't cause a scene, please!\""
+    },
+    {
+      "Key": "c9241e8c-6899-417e-b7a6-987b4673e76f",
+      "Value": "{n}The guests listen to your tale with their mouths agape. Irovetti tries to interrupt you, but everyone's attention is directed at you.{/n}"
+    },
+    {
+      "Key": "f50ff939-08a2-4f29-a26f-3c29c3186e64",
+      "Value": "\"Ahem, ahem... A most amusing story indeed. Unfortunately, it has little to do with me. True, that rascal Tartuccio was spending my money, but he was acting entirely of his own volition!\" {n}The guests begin whispering to each other, obviously dissatisfied with Irovetti's excuses.{/n}"
+    }
+  ]
+}

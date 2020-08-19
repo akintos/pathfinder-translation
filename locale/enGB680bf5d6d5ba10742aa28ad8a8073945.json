@@ -1,0 +1,121 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "058a1d7b-91b9-4306-b2b0-d57b4a408c22",
+      "Value": "{g|Population5_1}[Choice effects]{/g} [Pay 100 BP] \"Send guards to search for Davor. Take care of the merchant and reimburse him for the stolen goods.\""
+    },
+    {
+      "Key": "da47ad86-81e8-4d0f-b2f1-c25a847d2d48",
+      "Value": "{g|Population5_2}[Choice effects]{/g} \"Send guards to search for Davor. Regarding the reimbursement... the Brevan will have to do without it.\""
+    },
+    {
+      "Key": "65937dfe-c90f-4883-89a5-d906c6221966",
+      "Value": "{g|Population5_3}[Choice effects]{/g} \"Let him deal with his problems himself.\""
+    },
+    {
+      "Key": "816dd232-7786-4a00-bb95-5bb32b9cc69d",
+      "Value": "\"I think you already know what should be done.\""
+    },
+    {
+      "Key": "837736fa-1fcb-43a4-8dfb-052d943b9e9e",
+      "Value": "{g|Population5_4}[Choice effects]{/g} [Pay 100 BP] \"Give him some money and let him go in peace. We're not interested in hunting for robbers.\""
+    },
+    {
+      "Key": "6de8b1fa-c06a-4fc9-ae34-baa04c0afd1e",
+      "Value": "\"There's been an accident, {name}! A wounded man is at our gates, all scratched up and covered in blood. He's a noble merchant from {g|Brevoy}Brevoy{/g}, whose caravan was waylaid by robbers. All of his traveling companions were killed! He's the only survivor.\""
+    },
+    {
+      "Key": "3cc3aa3b-6747-46fa-9b5e-f727a2a152d4",
+      "Value": "{n}Valerie clutches her sword.{/n} \"{name}! By the gate there a man who survived an ambush. He's a nobleman from {g|Brevoy}Brevoy{/g}, whose caravan was waylaid by bandits. His companions were all killed, and he's very lucky to be alive himself.\""
+    },
+    {
+      "Key": "5f2bdcaa-d326-40e6-88c7-e18e0dbcb514",
+      "Value": "{n}Lander smiles carelessly.{/n} \"{mf|Your Grace|Your Grace|Your Highness|Your Highness}! A poor fellow, a nobleman from {g|Brevoy}Brevoy{/g}, has been found near the gates. Sadly, his caravan was ambushed. It seems the bandits who live in the forest claimed it for themselves.\""
+    },
+    {
+      "Key": "7dd79e54-9a53-44ff-b28c-fe66ff3ce9bb",
+      "Value": "\"This ambush was carried out by the infamous villain, Davor the Grey! He's returned to our lands, to continue his dirty deeds. He's not known for his mercy, and responds only to force.\""
+    },
+    {
+      "Key": "140a3b32-dc02-4770-8776-a8864333e6cd",
+      "Value": "\"Davor the Grey is behind this assault. I suspect he'll soon be bringing us gifts... as soon as he's cleaned the blood off them!\""
+    },
+    {
+      "Key": "33e0ed61-4555-46f5-a6dc-d1ab3f71eb31",
+      "Value": "\"Davor the Grey was in command of the robbers. I have no idea how he managed to escape from prison. An old accomplice of his must have tricked the guards or helped him somehow.\""
+    },
+    {
+      "Key": "c173e58f-0839-4183-a471-7a38863b263b",
+      "Value": "\"The man from {g|Brevoy}Brevoy{/g} is frightened and outraged. And it is, after all, somewhat our fault. He was robbed on our land, where he's supposed to be under our protection. He wants us to find and punish the robbers, and compensate him for the damages. I think we should comfort this poor man. How would you feel in his position?\""
+    },
+    {
+      "Key": "b877e563-f224-4a10-84e1-f7e14be474d6",
+      "Value": "\"It was Davor the Grey who arranged the ambush. As I said, he should have been put in jail immediately.\""
+    },
+    {
+      "Key": "df0c120d-2fce-4a96-93b9-3b8ace861a88",
+      "Value": "\"It was Davor the Grey who arranged the ambush. The one whose bloody gifts you so gladly accepted.\""
+    },
+    {
+      "Key": "62ded391-a187-4d8d-85f3-1495cf8c5bea",
+      "Value": "\"It was Davor the Grey who arranged the ambush. I already demanded an explanation from the other prisoners. It turns out he escaped through a tunnel he dug.\""
+    },
+    {
+      "Key": "4a79614b-d6e5-4c17-b629-5fa8b11337f2",
+      "Value": "\"The Brevan wants us to find the robbers, and he's every right to make such demands. But then his business sense prevailed, and he asked us to compensate his losses. Now this I consider most arrogant! We cannot be held responsible for his caravan! It's Davor that owes him, not you.\""
+    },
+    {
+      "Key": "72c16ff0-190c-4348-9db7-52082b949ca5",
+      "Value": "\"It was Davor the Grey who arranged the ambush, the bandit you expelled so carelessly. He must be very angry. Just think how we might have treated him differently, and made him into your obedient hound.\""
+    },
+    {
+      "Key": "02b4cc64-5dc8-4fd3-a5e1-d0436e2beeb2",
+      "Value": "\"It was Davor the Grey who arranged the ambush. See how hard he works to fill your coffers.\""
+    },
+    {
+      "Key": "615c709e-0104-4bb0-a53f-14f4654f8377",
+      "Value": "\"The gang's leader was Davor the Grey, who you so carelessly imprisoned. He only recently escaped, and he has a lot to catch up on.\""
+    },
+    {
+      "Key": "490d7313-682c-449d-b80d-40585804ad48",
+      "Value": "\"The merchant demands that we find and hang the ambushers, and compensate him for his damages. What makes him think we're ready to pay? Was it we who robbed him? Did he pay us to ensure his safety? Nothing of the sort. We must send a message to him and all the other merchants: anyone looking to travel safely across our lands should dip into their purses. Just ignore his whining, {mf|Your Grace|Your Grace|Your Highness|Your Highness}.\""
+    },
+    {
+      "Key": "6bacbd7d-942e-4535-9c4e-6803a8e6597a",
+      "Value": "\"Perfect! We'll find Davor, and this time he won't get away so easily. The merchants will see that we're tough on murderers.\""
+    },
+    {
+      "Key": "16def1db-cb35-41f7-a904-2be032225c9c",
+      "Value": "\"You're far too generous. On the other hand, a good reputation never did anyone any harm.\""
+    },
+    {
+      "Key": "a92ab9c8-3f2f-4334-9137-17905ae1f2e2",
+      "Value": "\"Very well, I don't like the fact that he's so concerned with his money, either. He should thank gods for keeping him alive, not rush to fill his pockets!\""
+    },
+    {
+      "Key": "75b13b6c-2276-4db6-8328-fd5910a86313",
+      "Value": "{n}Valerie looks determined.{/n} \"We won't stop until we have that villain cornered! He shall pay for his deeds.\""
+    },
+    {
+      "Key": "a6a9db16-dc13-47df-8966-e999af4cecb2",
+      "Value": "{n}{g|House Lebeda}Lebeda{/g} rolls the eyes.{/n} \"Oh, but what's the point? {mf|Your Grace|Your Grace|Your Highness|Your Highness} will cut Davor's head off, and the locals will elect a new chieftain, who will step up and cause the same trouble that Davor did. Mark my word!\""
+    },
+    {
+      "Key": "031ff4bc-88d7-4921-a68e-c352eac1f6c6",
+      "Value": "\"Wonderful. Rest assured, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, this will do your treasury good. Merchants are always trying to avoid taxation, hide their goods, pass fake gold and the like. Robbery is a far more honest profession. Our forest brethren are happy to pay their fair share to {mf|Your Grace|Your Grace|Your Highness|Your Highness} – in a timely manner and without quarrel.\""
+    },
+    {
+      "Key": "44592de0-444f-42f2-a80b-e3d9e84dc39f",
+      "Value": "\"We will pay for the merchant's lost goods, and we'll send our people to search for Davor. Assault and robbery cannot be tolerated!\""
+    },
+    {
+      "Key": "f0ca691a-133d-4b20-84d3-ca30be0542ed",
+      "Value": "\"The merchant is lucky to be alive. But it wasn't we who assaulted him. We didn't steal his goods. So he shall get no compensation from us. However, justice will be done. We'll send a troop to find Davor.\""
+    },
+    {
+      "Key": "f4fcd401-14a7-42a5-8082-53547a6f2739",
+      "Value": "\"That merchant can go to hell. I hereby announce a new law: if you wish to take a road through the {g|Stolen Lands}Stolen Lands{/g}, make sure you pay its {mf|baron|baroness} the proper fee, or you risk being robbed of all your belongings.\""
+    }
+  ]
+}

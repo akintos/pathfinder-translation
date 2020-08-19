@@ -1,0 +1,101 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "274f9fca-73e5-440a-a6b8-9ab76dba3e39",
+      "Value": "\"She lies! I didn't kill anyone!\""
+    },
+    {
+      "Key": "16e98652-bb2a-453d-be57-25dafb58b822",
+      "Value": "\"It's a lie! I saved two Sisters. When I found the third, she was already dead!\""
+    },
+    {
+      "Key": "ccd8a67a-cec7-4155-9d94-3a1ec1e08d64",
+      "Value": "\"Dugath, we have nothing to fight over. What will this battle get you? Spare the lives of your people.\""
+    },
+    {
+      "Key": "c654cd40-c10c-40da-a1c4-debbe0dfe853",
+      "Value": "\"Come and get me, if you dare!\""
+    },
+    {
+      "Key": "6389510d-9134-4138-976a-14058d03753a",
+      "Value": "\"By {g|Gorum}Gorum{/g}, wake up! How can you believe that lying witch? She lured you all here as a sacrifice to the wicked gods of the ancient cyclopes!\""
+    },
+    {
+      "Key": "f01ed50d-8f9c-48f9-bd93-347728320e1e",
+      "Value": "{n}As you approach the camp, you hear the noise of an agitated crowd. {g|Numeria}Numerians{/g} are gathered around the Defaced Sister near the camp entrance, and a loud discussion is taking place. When the Defaced Sister sees you, she lifts her hand and points a finger at you. Her voice, usually calm and quiet, is now menacing and accusing.{/n} \"Look there, {g|Tiger Lords}Tiger Lords{/g}! Here comes the killer! An enemy! A servant of evil spirits! This person aims to disrupt our exalted mission!\""
+    },
+    {
+      "Key": "aa870546-06c3-4590-bdde-f9720aec6e02",
+      "Value": "\"As you can see, there are only {d|c31 Sisters Saved}three{/d} of us here. Our fourth Sister was killed, and {mf|he|she} is the killer!\" {n}The women raise their hands in perfect unison and point their fingers at you.{/n}"
+    },
+    {
+      "Key": "c4e85ae2-da45-4dc9-b95d-828c760755b7",
+      "Value": "{n}Dugath sheathes his blade.{/n} \"An enemy, you say? I don't see any {d|c31 Ashman Friendly}enemies{/d} here.\""
+    },
+    {
+      "Key": "17ebd624-2588-47bd-99e1-853bb2b3c48a",
+      "Value": "{n}Dugath raises his sword.{/n} \"You heard the Sister. {g|Tiger Lords}Tiger Lords{/g}, {d|c31 Ashman Hostile}to battle{/d}!\""
+    },
+    {
+      "Key": "757728c0-6ec4-41f1-aaad-2c26c9a60c81",
+      "Value": "{n}Dugath hesitates, looking at you intently.{/n}"
+    },
+    {
+      "Key": "9e7aeeb5-51fa-4e66-b004-342da5d7afe5",
+      "Value": "{n}Dugath lowers his sword.{/n} \"{g|Tiger Lords}Tiger Lords{/g}! Haven't you had enough of this witch's speeches? Me, I'm fed up with all her lies and half-truths. We keep dying here, and she won't even tell us what for, what we're trying to find here! If anyone wants to give their life for her gibberish, go ahead. Everyone else, start packing — we go back to {g|Numeria}Numeria{/g}.\""
+    },
+    {
+      "Key": "0f41bc19-7989-4d78-ad4d-d949568c4e7f",
+      "Value": "\"Now listen closely, Sister. I'm tired of the constant lies, the omissions, and vague prophecies. We'll kill the {mf|baron|baroness} for you, but that's the end. We're done. We're going back to {g|Numeria}Numeria{/g}. And we do it today!\""
+    },
+    {
+      "Key": "cc75f7d3-ef3f-4d1a-90d9-a6dbfe469daa",
+      "Value": "{n}Dugath sheathes his blade.{/n} \"Battle? And what battle would that be?\""
+    },
+    {
+      "Key": "817e5fd3-078f-4dcf-b72c-a6e32867c4d3",
+      "Value": "\"As far as I know, all the Sisters went out into the hills, and that was the last anyone ever saw of them. We waited long enough, but when none of them returned, we had to head back to {g|Numeria}Numeria{/g} on our own... Right, everyone? That's how it all happened, isn't it?\" {n}He turns around, looking around at the other barbarians. Some of them stow their blades, laughing, while others continue to throw dark stares in your direction.{/n}"
+    },
+    {
+      "Key": "53a749b7-2605-4f79-a9b3-fc426835d028",
+      "Value": "\"Betrayal! Blasphemy! All who remain loyal to the great Armag — to battle!\""
+    },
+    {
+      "Key": "4bd6ed43-1c2e-4c3e-9b1b-99a94a181ad8",
+      "Value": "\"Today you die, Baron{mf||ess} {name}!\""
+    },
+    {
+      "Key": "9b354d4b-39e3-4ea3-8394-cc494ea4d740",
+      "Value": "{n}Hearing your name, a black raven who'd been perched nearby and listening intently flies off, cawing coarsely.{/n}"
+    },
+    {
+      "Key": "6d74efa0-60db-4639-bc5d-09913cf27112",
+      "Value": "{n}Shouting battle cries, the barbarians attack.{/n}"
+    },
+    {
+      "Key": "0a9f9ec3-fbe2-4dde-b4ec-975970973dfb",
+      "Value": "{n}The barbarians exchange glances with each other, look at the Sister, then look at you, and finally look to Dugath, who tightens his fist around his sword. They await an order from their leader, ready to charge at his sign.{/n}"
+    },
+    {
+      "Key": "e2250bf3-f74c-40b4-8e2a-5e3636c833f6",
+      "Value": "\"We trusted {mf|him|her}, and this is how {mf|he|she} repays us! Liar! Traitor! Murderer!\""
+    },
+    {
+      "Key": "3761b915-af0b-4888-92db-75c9aeddc4dc",
+      "Value": "\"There were four of us. Two are already {d|c31 Dunsward Murder}dead{/d}, and the third is {d|c31 Good Sister}missing{/d} — I doubt we'll see her alive again. And the killer stands right before you!\" {n}The woman points her trembling finger at you.{/n}"
+    },
+    {
+      "Key": "a4c7e212-5968-4be6-a8a2-0111f78925f0",
+      "Value": "\"One of our Sisters is slain, and the other is {d|c31 Good Sister}missing{/d} — probably never to be seen again. And the killer stands right before you!\" {n}The women raise their hands in perfect unison and point their fingers at you.{/n}"
+    },
+    {
+      "Key": "6fa91170-1cd1-4d63-9e3a-c80592dcb8b3",
+      "Value": "\"Since we first met, you've given us nothing but lies and half-truths. You wouldn't even tell me your name! You probably believed me unable to learn who you are, that your name — and your crimes — would remain secret! You should have known that nothing stays hidden forever!\""
+    },
+    {
+      "Key": "9e72b412-03ec-4002-9d70-ceb888fa04f9",
+      "Value": "\"The Sisters who went into the hills in search of truth {d|c31 One Murder}never returned{/d}. They perished, and {mf|he|she} is the killer!\" {n}The woman points a trembling finger at you.{/n}"
+    }
+  ]
+}

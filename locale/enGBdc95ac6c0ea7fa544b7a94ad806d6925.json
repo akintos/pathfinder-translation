@@ -1,0 +1,137 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "9eaa38c8-33a0-4a21-866a-6ee3ffad835d",
+      "Value": "\"Time to explain yourself, Enneo.\""
+    },
+    {
+      "Key": "e386646d-d428-4d73-b2aa-78bc239b1574",
+      "Value": "[Attack] \"You've grown tiresome. Defend yourself!\""
+    },
+    {
+      "Key": "8ee30c83-4f27-4c15-8d18-a52153d42d7a",
+      "Value": "\"So, you deliberately sent the elves to their deaths? They weren't undead. What grudge did you hold with them?\""
+    },
+    {
+      "Key": "2dd9ff51-328f-405f-bbd9-c6182dbb53b8",
+      "Value": "\"Why did you kill Taneka's daughters?\""
+    },
+    {
+      "Key": "597d9d1b-39f7-487c-85ab-f8bbe102829b",
+      "Value": "\"That's all well and good. But why do you come here now?\""
+    },
+    {
+      "Key": "23d97915-5e22-4928-b1f9-784575cf54f0",
+      "Value": "[Attack] \"I've heard enough, and now it's your turn to feel the blade!\""
+    },
+    {
+      "Key": "8df3744c-b690-4801-8fbd-6300692b6012",
+      "Value": "[Side with Enneo] \"It was a mistake for me to ally with an undead murderer. I now know that Jaethal will never stop, and I must support you, Enneo.\""
+    },
+    {
+      "Key": "4e46c02b-f060-4cd6-b14c-c50d477c0622",
+      "Value": "[Side with Jaethal] \"Jaethal has served me well. I cannot allow you to kill her.\""
+    },
+    {
+      "Key": "e297c1bd-2bfa-4660-bd11-faf0ae3718e2",
+      "Value": "[Side with Jaethal] \"I care nothing for such nonsense as the blood of the innocent. But I can control Jaethal, and that's more than I can say for you. Which is unfortunate for you.\""
+    },
+    {
+      "Key": "852ca089-07b2-434c-b8ac-3e1d417ed67b",
+      "Value": "[Side with Enneo] \"Allegiance with an undead follower of a dangerous cult — this is harmful to my reputation. That's my only reason for supporting you, Enneo.\""
+    },
+    {
+      "Key": "30d5905f-63ca-4c22-a260-fb99cb5f392d",
+      "Value": "[Side with Jaethal] \"You are a dangerous fanatic! Innocent people have died because of you. More blood may be spilled unless you are stopped.\""
+    },
+    {
+      "Key": "50bc21aa-2e63-48fe-96e6-512261de6ccc",
+      "Value": "\"Did you track down Jaethal right after her expulsion from Kyonin?\""
+    },
+    {
+      "Key": "f837688b-2a6f-441a-98fa-baf2a53c151c",
+      "Value": "{n}The false merchant {d|Enneo}Enneo{/d} walks towards you with an easy gait. His calm friendliness has disappeared, like a mask fallen from his face. His clothes are decorated with the easily-distinguishable symbol of {g|Pharasma}Pharasma{/g}.{/n} \"I hope you've settled all your affairs with the poor old exile? It was an interesting show to watch.\""
+    },
+    {
+      "Key": "7dce8056-7ad6-4d4f-a69e-c56b3b9dbaaf",
+      "Value": "\"I don't have much to add, beyond what I'm sure you already know. I'm the inquisitor of {g|Pharasma}Pharasma{/g}, and for almost forty years I've hunted the undead and cultists of {g|Urgathoa}Urgathoa{/g}, for the glory of the Lady of Graves. I destroyed Taneka's coven. I tracked Jaethal into the wasteland and killed her — only to find that her hideous deity returned her to 'life'. To put an end to that, I made use of a company of naive young elves from a camp near the {g|Thorn River}Thorn River{/g}.\""
+    },
+    {
+      "Key": "26283b83-2a01-436e-8be9-eb39211f8064",
+      "Value": "{n}The undead priestess tightens like a predator preparing to strike.{/n} \"You... so many years later, and you come to me again. Why are you here? Why stand once more between me and immortality?\""
+    },
+    {
+      "Key": "66f0e40c-cfa9-4d45-b44f-049b82d84725",
+      "Value": "\"What a stunning frankness.\" {n}Jaethal smiles lightly, almost affectionately.{/n} \"Did you imagine, half-blood, that those youngsters could handle me and the {mf|baron|baroness|king|queen}?"
+    },
+    {
+      "Key": "c9376727-0d1f-44fe-9da5-d13e6f0d57aa",
+      "Value": "\"Do not be so naive, inquisitor. I held no hope that the young elves would kill either you or your defender. No, I wanted you, rather, to kill them. And I did all I could to inform their relatives in {g|Kyonin}Kyonin{/g} of the horrible violence you perpetrated. Retribution will follow, sooner or later. One lonely warrior of {g|Pharasma}Pharasma{/g} may fail, but three elven clans will find a way to exact their revenge. There's no way out, Jaethal. Not for you.\""
+    },
+    {
+      "Key": "c79b5ee2-4232-4920-b62a-f6de0d72dcab",
+      "Value": "\"They were a necessary tool to complete my mission. In my youth, I thought the best decision was a bold, honest battle against apostates and monsters. But I learned much from my struggle against Taneka. There's nothing worse than seeing an abomination rise before you, and being powerless to strike it down. One must use any method available.\""
+    },
+    {
+      "Key": "1b5c8b0b-1f5d-4d2f-bbf4-9babf17210d0",
+      "Value": "\"They were necessary for her disgusting ritual, and their death was my only chance to prevent it. Do not forget who I serve. Their honest deaths, and their souls' journey to {g|Pharasma}Pharasma's{/g} judgment, was a far better fate than their mother had prepared for them.\""
+    },
+    {
+      "Key": "1b07987e-a841-41e8-a576-215ccb960dbc",
+      "Value": "\"I wanted to talk to you, {mf|baron|baroness|king|queen}. My hunt for Jaethal is the greatest work of my life. She is the living example of the hideous essence of the cult of {g|Urgathoa}Urgathoa{/g}, the distortion of the world order, and the triumph of the evil intentions of her vile deity. Even if I die today, this story will end the way I intended. But you can still change your own role in it, {name}.\""
+    },
+    {
+      "Key": "041abeb2-7aca-466a-a87a-60f310cf7aa5",
+      "Value": "\"You've been playing games for too long, zealot.\""
+    },
+    {
+      "Key": "b4b46539-1cdb-46e5-9626-37375e24b896",
+      "Value": "{n}Enneo allows himself to smile for the first time. {/n} \"I've heard this so many times, even among the priests of {g|Pharasma}Pharasma{/g}. There are many who think my faith is insane, and my methods cruel and excessive. But that is the fate of the inquisitor. Loneliness.\""
+    },
+    {
+      "Key": "7421752b-a63f-44c0-9637-53239a2025a5",
+      "Value": "\"No. No! I cannot die, I will not die!\""
+    },
+    {
+      "Key": "a289e66f-924e-40f2-a674-5841240f6910",
+      "Value": "\"I was so eager to attain un-life, and now to lose it so quickly...\""
+    },
+    {
+      "Key": "c299cbb4-a2e1-40f1-816b-3ebc2f8113db",
+      "Value": "\"Everything will proceed as I have planned, with or without me.\""
+    },
+    {
+      "Key": "9a93d1d3-382a-4b8c-adb2-5f4e9bd88af1",
+      "Value": "\"Well, I shall risk immortality for your death, Pharasmite.\""
+    },
+    {
+      "Key": "d62d1f3e-9074-4b14-98e6-01cd2561d917",
+      "Value": "\"Immediately after the trial. I was born in {g|Kyonin}Kyonin{/g} and often visited. It is uncommon for high-society ladies to perform ritual murders for the glory of the dark goddess, so the news quickly reached my native {g|Greengold}Greengold{/g}, and soon came to me. When later, the elves sentenced her to exile, rather than the usual life imprisonment — well, how could I stay away?\""
+    },
+    {
+      "Key": "099d0538-b465-493f-b0fa-d6d14c85a57f",
+      "Value": "\"Nothing can justify the blood on your hands and the stain on your conscience! The law is strict, but it should not take innocent lives to punish the guilty.\""
+    },
+    {
+      "Key": "e09b6f2f-e4d6-480a-bc91-a78a7a0b1c3e",
+      "Value": "\"Sharp lad! I like you.\""
+    },
+    {
+      "Key": "2925f796-e9a0-4c13-8ab4-08f52a42d310",
+      "Value": "\"The dead one's scum, of course, but at least she's our scum. And she always helps in fights. But I don't like this other guy at all! He lied to us, told us tales. So let him beat it!\""
+    },
+    {
+      "Key": "13b0ed59-a71b-4814-8ad8-cc297a13ab4b",
+      "Value": "\"Jaethal's been dead for a long time. A dead heart, and a dead soul. Let {g|Pharasma}Pharasma{/g}'s inquisitor commit his judgment — the world will sigh with relief.\""
+    },
+    {
+      "Key": "5ea560b5-f70a-48c9-8a89-21cc7219358b",
+      "Value": "\"First goddess. Second goddess. Nope, not gonna mess with them. But I know for sure: my goddess is better.\""
+    },
+    {
+      "Key": "f27cd8af-8459-409e-b907-12ff710cebde",
+      "Value": "\"What use is a dead horse in a harness? Let's be rid of her. First she lost her position and respect, then she lost her life. Who needs a servant like her?\""
+    }
+  ]
+}

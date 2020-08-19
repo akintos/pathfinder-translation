@@ -1,0 +1,221 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "99169c4e-28ab-43af-98a4-62bbda41829b",
+      "Value": "[Leave] \"Farewell.\""
+    },
+    {
+      "Key": "f9bbe302-a0ab-4b79-8edc-39750c92a30c",
+      "Value": "[Give her the mushrooms] \"Here are your black rattlecaps.\""
+    },
+    {
+      "Key": "94bb5796-fb74-4fb7-9803-789852e83ee2",
+      "Value": "\"How can I help you, good woman?\""
+    },
+    {
+      "Key": "d2d77d0b-67aa-493c-bcf0-40ff3f925e20",
+      "Value": "[Give her the herbs] \"Here are your herbs, three bundles of each.\""
+    },
+    {
+      "Key": "a77f8012-f6c5-4bac-a50a-3cdf4538a50f",
+      "Value": "[Show the herb you've found at the swamp] \"This seems to be an unusual herb. Can you tell me what it is?\""
+    },
+    {
+      "Key": "d872ab7f-f5dd-4ccc-853c-4308d2a13a65",
+      "Value": "[Attack] \"My lands will be safer without you.\""
+    },
+    {
+      "Key": "745f2364-08ef-4525-a12f-6c49c6072098",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "ce9cd167-c5f2-4f0e-b226-68bbda43af20",
+      "Value": "\"I've got a question for you...\""
+    },
+    {
+      "Key": "d002a55d-48ff-4cf2-afdf-30001316ee12",
+      "Value": "\"As far as I've heard, a daughter of a human and a fey used to live here. Her name was Elga Verniex. Are you her?\""
+    },
+    {
+      "Key": "073ffdc5-b01d-406b-bf94-0e16e146409f",
+      "Value": "[Give her the letter] \"A dryad named Tiressia remembers you and would be glad to see you again. She asked me to give you this letter.\""
+    },
+    {
+      "Key": "5ffcfd91-f64a-4778-8598-88ca6a3833aa",
+      "Value": "\"Take a look at these coins — we found them at the bottom of a well.\""
+    },
+    {
+      "Key": "ce9f7865-7fc1-484e-a4b8-72e5ac8adf7a",
+      "Value": "\"What happened here?\""
+    },
+    {
+      "Key": "357ffdf5-32fc-422b-9823-7a6c2e1c0fce",
+      "Value": "[Trade] \"How much for your potions?\""
+    },
+    {
+      "Key": "35ed29e4-53c7-47a0-91ec-61d79b52b281",
+      "Value": "[Tell her about the coins] \"I've learned what happened to the village, slain the monster, and freed a cursed soul...\""
+    },
+    {
+      "Key": "5aebc4f9-7009-4752-98a1-e1e40c8db4cf",
+      "Value": "\"Dorsy. He was the one who cursed Wilber and Callitropsia.\""
+    },
+    {
+      "Key": "df888674-d4cb-446d-b938-487093e34d32",
+      "Value": "\"Nyta. If she hadn't cast Dorsy aside, none of this would have happened.\""
+    },
+    {
+      "Key": "1730a26d-bd97-45b3-899a-3ba17e5c88b3",
+      "Value": "\"Wilber. He's been stalling with the decision for too long, and in the end everyone started hating him.\""
+    },
+    {
+      "Key": "3e3af5c3-3541-4e84-ad89-0f378a09acec",
+      "Value": "\"Callitropsia. She's put a spell on Nyta and has stolen her from Dorsy.\""
+    },
+    {
+      "Key": "8434541c-bb21-4841-bb4b-06963a2cb3aa",
+      "Value": "\"Why bring this all up again? That's not important anymore.\""
+    },
+    {
+      "Key": "e0201cb7-a837-4fe3-a6aa-22906241fb1b",
+      "Value": "\"Maybe something else has destroyed the village?\""
+    },
+    {
+      "Key": "442e5ada-d24c-4c8b-86f7-cf2e0fc124a6",
+      "Value": "\"What do you think?\""
+    },
+    {
+      "Key": "102f698c-35c2-4685-933c-ec97813b6e56",
+      "Value": "\"I'm looking for a lost child. Have you seen him by chance?\""
+    },
+    {
+      "Key": "6adb09ca-dbe7-4dc7-8633-6dcba12643b9",
+      "Value": "{n}The old woman smells the mushrooms and takes a small bite. She chews on it slowly for a moment, then grins, a gleam in her eye.{/n} \"Hah! Strong! These will be good, all right!\""
+    },
+    {
+      "Key": "f9d4d4dd-eae1-4f5f-803d-0c223fdaddc3",
+      "Value": "\"Well, now we're talking! Much better than poking around where you don't belong, nattering on like a fool... here, look!\" {n}She pulls a black, oddly-wrinkled mushroom from a bag on her belt — it has an odd smell about it that makes your eyes tear up.{/n} \"This — this is a black rattlecap. The sporepods inside — the best thing for the lungs — and the skin. Me, I use them for tea. They're rare, though, but they grow thickest at the {g|Mud Bowl}Mud Bowl{/g}, east of here. Get me... at least ten... yes, ten, then we'll talk!\""
+    },
+    {
+      "Key": "15cd0873-512b-420a-a245-e7bc81efe5a3",
+      "Value": "{n}The old woman claps her hands and grins, revealing a row of brown, uneven teeth.{/n} \"There's a good {mf|boy|girl}! Did it take a lot of time to find them, eh? Give them here, I'll put them to a good use...\""
+    },
+    {
+      "Key": "1e645860-e1af-4346-aaab-f846977071b2",
+      "Value": "{n}She takes the herb between her bony fingers, sniffs it, then gives you an approving nod.{/n} \"You've got a good eye! The herb is useful, but not by itself. Look here.\""
+    },
+    {
+      "Key": "b37630a6-3bd8-4e70-bcb4-71d2cb2e6205",
+      "Value": "\"So — what in damnation are you doing here?\" {n}The old woman squints at you with disapproval. Her hair is a tangle of grey, and her wrinkled skin is an unusual shade of green. Both her eyebrows and ears taper to points.{/n}"
+    },
+    {
+      "Key": "5aebfcc0-678b-423a-a2c3-869292f720ee",
+      "Value": "\"You have no business prowling around here...\" {n}Her eyes narrow.{/n} \"What are you — a thief? Bandit?\" {n}She studies you, then hisses in her throat.{/n} \"Hell take you if you're a tax collector.\""
+    },
+    {
+      "Key": "8774b6e2-5dc5-4bdd-9118-09f68f1395b5",
+      "Value": "\"You again? Hmph. I'd offer you tea, but I don't have any. How about a cup of deathcap tincture instead?\" {n}She gives a splintered grin.{/n} \"Best thing for health!\""
+    },
+    {
+      "Key": "ba321709-3022-4cff-8dc6-c04b2c36dcea",
+      "Value": "\"Me, eh? I'm just a harmless old woman, hoping for some peace and quiet… the 'Old Beldame,' they call me, and that's fine — been called worse in my life. Why are you asking? What fool's errand brings you all the way out here?\""
+    },
+    {
+      "Key": "8dc10c22-e533-4ee9-beb3-f57b698f0469",
+      "Value": "{n}The old woman frowns.{/n} \"The 'Old Beldame' they call me when they aren't calling me worse — hag, witch — accusing me of fornicating with demons, stealing children...\" {n}She grunts.{/n} \"Came here to be as far away from gossips like that, but wasn't far enough. There's you knocking at my door — and just recent, some other fool came — begged me to buy his soul, can you believe it? Hnh! Is it too much to ask for some peace and quiet...\""
+    },
+    {
+      "Key": "60425dc6-5b58-42a7-a18a-ae1715bfabdd",
+      "Value": "\"A boy? What would I do with a brat, pickle him in a jar? That's rich!\" {n}She gives a rattling laugh.{/n} \"Where is it written if an old woman likes a little peace and quiet, she must be a child-stealing witch?\""
+    },
+    {
+      "Key": "b6799244-2141-42ab-aa4e-9845a7754348",
+      "Value": "\"Just look at {mf|him|her} — {mf|he|she}'s got a question!\" {n}Her lip curls in a sneer.{/n} \"What makes you think I've any answers for one such as you, scrabbling at my door like a beggar? Have you done anything good for me recently? You've nothing for me, and you're nothing TO me!\""
+    },
+    {
+      "Key": "daa06c43-2cbd-4878-a1b6-c45f907977aa",
+      "Value": "\"Who knows what could have snatched up a child?! Mayhap he's been eaten by goblins, or lured to the swamp by the wandering lights! Or maybe his poor, sobbing mother with all her false tears strangled him in his sleep, then put him to bed with a shovel somewhere deep in the forest and now looks for someone to mantle the blame? Go to her, squeeze answers from her, make HER tell where her whelp is, but don't be bothering me!\""
+    },
+    {
+      "Key": "8ed62eb3-aa5b-4378-9a1c-086bcb6a48f9",
+      "Value": "\"See, I've never done any harm to anyone without a good reason. Others have tried to harm me... they regretted it afterwards, that's certain, but folk never learn. Ohh, what should I say... \" {n}With a sour expression, the old woman waves her wrinkled greenish hand.{/n}"
+    },
+    {
+      "Key": "6c243f76-0473-4307-aefb-1d7c13e2d0c6",
+      "Value": "{n}She shows you three different herbs.{/n} \"This one's mudleaf. That there is gloomberry. And that — that's the dizzyhead, one guess what it does. If you can find three bundles of each — bring them to me!\""
+    },
+    {
+      "Key": "f14200e7-20a6-4d61-8df1-1ea1fb6d2536",
+      "Value": "\"Good riddance!\""
+    },
+    {
+      "Key": "bfa557d0-1102-4a71-809f-c69fe56b7ffe",
+      "Value": "{n}Elga opens the letter, runs her eyes over it, and her expression shifts... it could be either a smile or a grimace.{/n} \"So, that's how it is... Well, what does it matter now...\" {n}She gives a rattling sigh.{/n} \"Oh, Tiressia... I should visit her someday... yes.\""
+    },
+    {
+      "Key": "a4229048-865c-4806-8fb7-68daddc281de",
+      "Value": "\"Ugh, foul evil that is!\" {n}She spits on the floor.{/n} \"I don't know which magic is that, but it has the feel of a curse — or something even something worse! Keep it away from me!\""
+    },
+    {
+      "Key": "288b2c2c-9551-47aa-a3cc-319a64291968",
+      "Value": "\"I've no idea. Used to be a village here once — good folk, well-off but not so well-off to put on airs... they were at peace with the fey — even had festivals, celebrated with them... but that was long ago — six or seven dozen years, at least.\""
+    },
+    {
+      "Key": "a21f73de-fc9d-4abe-af76-66e4d85895d3",
+      "Value": "\"As for what ruined them — I don't know. Got a guess, though. In the darkest nights, strange sounds come from deep in the woods — crackling and moaning, as if a great tree is twisting its roots, rattling its branches like bones. There's something there... a creature that drove away folk and fey alike.\""
+    },
+    {
+      "Key": "8e7a0cb6-3065-4af0-aff6-815d134c7083",
+      "Value": "{n}She listens to your tale, nodding her head.{/n} \"So, that's how it all happened... A scary thing it is, this curse and all. It would seem just a tall tale... but here we are — the village is gone! So who's to blame, you think?\""
+    },
+    {
+      "Key": "a09573d3-acb8-4c35-9bf6-151b173b8cf7",
+      "Value": "\"Maybe, maybe... But the hatred may be well-earned, or at least seemed to be! Put yourself in his boots, see it through his eyes — fey are dragging your beloved to the forest, her fool of a father helping them... the fellow must have truly believed he was saving her!\""
+    },
+    {
+      "Key": "520b5f84-69ca-4d54-a722-54869223ec1f",
+      "Value": "\"The heart wants what it wants, right? A girl falls in love, then the passion fades — happens all the time. The worst thing is she's cursed her own father — that's wicked, true. But her love must have been fierce if it gave birth to such a burning hate!\""
+    },
+    {
+      "Key": "5fafb8b2-6817-4347-9a07-ddac1c049be1",
+      "Value": "\"Yes, Wilber was always a coward. He didn't want to hurt anyone, but in so doing, he hurt everyone and got retribution from both sides — his daughter and her groom… But he wished well to everyone, right? It wasn't his hatred that fueled the curse...\""
+    },
+    {
+      "Key": "ddb9724b-41d7-4618-aa6b-856231385fc0",
+      "Value": "\"Stolen, huh? A bride's not a sack of potatoes, she's got a mind of her own — she could decide for herself whom she liked more!\" {n}She grunts.{/n} \"And as for putting a spell on Nyta — I don't believe it. I've seen how people act under a love-binding spell... So, though I haven't seen this whole story with my own eyes, I still believe it was born from true love.\""
+    },
+    {
+      "Key": "5144f2a5-1ba1-4f4d-92cc-4bed95b778de",
+      "Value": "\"That's true. What's done can't be undone — those who were right and those who were wrong, all got more than they deserved... you may have lifted the curse, but it had done its work. No people will live here for a long time... except for ones such as me.\""
+    },
+    {
+      "Key": "f5b5f316-3f41-4403-bd39-61ec1b972eb0",
+      "Value": "\"So, what would you say now? Who is to blame?\""
+    },
+    {
+      "Key": "29047651-89e0-4a82-a438-99a2fa6ce367",
+      "Value": "\"Now that's clever of you — you're sharper than I took you for. You're right, Dorsy wasn't a mage — why would his curse come true, and with such strength?\" {n}She raises an eyebrow.{/n} \"Turning a dryad queen into a monster is not a simple curse, like making neighbor's knees ache when he tells a lie.\" {n}She sniffs, and her voice drops.{/n} \"'Sides, the air in these parts feels wrong, like... no, no, never mind, we should speak no more about it.\""
+    },
+    {
+      "Key": "a0ec17a1-2bd1-4635-9536-7aff4d6ae33b",
+      "Value": "{n}She's shaking with indignation. She's a proud woman, you can tell that easily, and the fact she's breaking composure makes you sure she's telling the truth.{/n}"
+    },
+    {
+      "Key": "1aa9d180-494e-45eb-911f-112b8381c153",
+      "Value": "{n}Her answer rings with indignation, but you can't tell if it is genuine or not.{/n}"
+    },
+    {
+      "Key": "2c52a581-2999-478d-a179-967b101a29c5",
+      "Value": "{n}The old woman slowly smiles and shakes her head — now, more than ever, she reminds you of a fey of the forest. {/n}\"It's not up to me — judging folk. Gods can judge — it's easy for them, for they know everything. The young folks can judge as well — it's even easier for them, for they know nothing. And I... I just keep it all in my memory.\""
+    },
+    {
+      "Key": "78e48cf9-6b3e-4d0e-bc7a-949427747f9e",
+      "Value": "{n}After her new herbs are tucked away, she seems a bit more pleasant, even gives a gap-toothed smile.{/n} \"That's a proper greeting — trading favors! Help me, and I help you... so what did you want to know, hm? Ask, I know the area, might be able to help you on your way. Or maybe you need some potions? Nothing cheap, but nothing you can't afford — and they do the trick, they do!\""
+    },
+    {
+      "Key": "492e946e-2c71-4f53-af2e-7cfaf74d21df",
+      "Value": "{n}The Old Beldame averts her eyes.{/n} \"Might be me...\" {n}She sighs.{/n} \"...or might not. What's the difference… who would still remember that name...\""
+    }
+  ]
+}

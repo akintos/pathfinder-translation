@@ -1,0 +1,65 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "6725556f-caaa-4bdb-b126-c744d7b41819",
+      "Value": "{g|Population4_1}[Choice effects]{/g} [Pay 75 BP] \"I like this idea. Let us build a consulate in Brevoy.\""
+    },
+    {
+      "Key": "f3c4d428-66dc-49b6-9f9a-25225ff3ca4f",
+      "Value": "\"We can do without a consulate in Brevoy.\""
+    },
+    {
+      "Key": "d05a994a-c65e-4270-bc09-1e877c191074",
+      "Value": "\"You can resolve this issue without me.\""
+    },
+    {
+      "Key": "6c82cf7a-06c4-48f3-918b-1ac15aab7d76",
+      "Value": "{n}Octavia looks embarrassed.{/n} \"I've come with... a request. Could you find a diplomat to handle negotiations and politics? I lack the stamina to lead complicated discussions... and I don't have time at all for politics. Your subjects grow in number, and their problems multiply. It seems almost everyone demands attention!\" {n}The girl smiles timidly.{/n}"
+    },
+    {
+      "Key": "45cbd7b0-2783-4876-9331-f2e47b454fd1",
+      "Value": "\"Speaking of their problems: I keep hearing about how difficult it is for your subjects outside the {mf|barony|barony|kingdom|kingdom}. Especially in {g|Brevoy}Brevoy{/g}, these past few weeks. Their merchants overcharge our peasants or use their connections to force our people into a disadvantageous agreements! Why not build a consulate there? I'm sure your subjects will appreciate you taking care of them, even when they travel outside the {mf|barony|barony|kingdom|kingdom}!\""
+    },
+    {
+      "Key": "d8023cb1-89f8-441c-a341-febe4728dee9",
+      "Value": "{n}Valerie rubs her temple thoughtfully.{/n} \"Your {mf|barony|barony|kingdom|kingdom} requires a diplomat, {name}. Relationships with our neighbors require special attention. Appoint a new advisor to manage this aspect of your barony.\""
+    },
+    {
+      "Key": "d2fb5810-8ad3-4ede-8aa3-f3a5af5f0356",
+      "Value": "\"But before you transfer these responsibilities to someone else, I would like to make one suggestion. No country can ignore the interests of its citizens who travel beyond its borders. Our most active trade relations and cultural exchanges are with {g|Brevoy}Brevoy{/g}. I suggest we arrange with them to build a consulate in their capital. Then, all your subjects who visit there can enjoy our support and protection. As I see it, it's a worthy investment.\""
+    },
+    {
+      "Key": "aaa054cd-3329-474f-a453-26e71f5e151d",
+      "Value": "\"{mf|Your Grace|Your Grace|Your Highness|Your Highness}, it's time to hire another advisor. You need someone who can oversee our diplomatic relationships with other countries. Considering your complicated ties to {g|Brevoy}Brevoy{/g}, and the character of the {g|River Kingdoms}River Kingdoms{/g}, the earlier you find a talented Grand Diplomat, the better.\""
+    },
+    {
+      "Key": "6366098d-cfbd-4b83-a995-c7d1ee61aebf",
+      "Value": "\"Speaking of diplomacy, the project of a consulate in {g|Brevoy}Brevoy{/g} has appeared on my desk. This would be an establishment for your subjects, who find themselves in trouble while traveling there. To my mind it's a waste of money, but I felt duty-bound to inform you personally about this idea.\""
+    },
+    {
+      "Key": "d3443492-ec82-4c2c-b085-abf0bd97a13c",
+      "Value": "\"Wonderful! I'm glad that we'll be taking care of your subjects even when they're traveling outside the country!\""
+    },
+    {
+      "Key": "2f5a79c4-00f2-4555-95fc-bfac56a97792",
+      "Value": "\"Then I shall make the necessary arrangements.\""
+    },
+    {
+      "Key": "63bf3caa-768d-43fb-b369-b778db9a1a9f",
+      "Value": "{n}Lander nods.{/n} \"I am sure {mf|Your Grace|Your Grace|Your Highness|Your Highness} can find better uses for the {mf|barony's|barony's|kingdom's|kingdon's} resources.\""
+    },
+    {
+      "Key": "c9f80512-4931-474c-a607-104111113e6a",
+      "Value": "\"I will arrange everything. I do hope {g|Brevoy}Brevoy{/g} supports this project!\""
+    },
+    {
+      "Key": "b4938f56-592f-4d3e-9e34-f802b90c203a",
+      "Value": "\"I will send a few letters, and wait for an answer from {g|Brevoy}Brevoy{/g}. I think they will approve of the idea of building a consulate.\""
+    },
+    {
+      "Key": "519abb0c-5050-479c-b6dd-3236ba002894",
+      "Value": "\"Nothing could be simpler! I just won't do anything. The easiest decision of my entire regency!\""
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "167deb6c-ef1a-4a51-8b2c-723cd8ea06ee",
+      "Value": "\"Where have you been all this time?\""
+    },
+    {
+      "Key": "aeca4516-6a2c-4d40-841d-9318c698a54a",
+      "Value": "\"Elina? How did you get here?\""
+    },
+    {
+      "Key": "55f6cafe-6710-46da-9baa-b1e7bb36acb5",
+      "Value": "\"Why did you leave?\""
+    },
+    {
+      "Key": "61bc2ddb-f50a-4107-8551-609ccbc54aed",
+      "Value": "\"Don't let revenge drive you mad, Ekun. Killing these giants won't bring back your family nor bring peace to your soul. Stop and let us honor the memory of your family as we should... but another day.\""
+    },
+    {
+      "Key": "3e2c6db6-bb1f-4087-a14f-971b13d5a8a1",
+      "Value": "\"If only blood can douse the fire burning in your heart, I'll help you.\""
+    },
+    {
+      "Key": "1e3c8e3b-963d-4cc5-84ae-a20ccfffef6c",
+      "Value": "\"You decide, Ekun. I'll support you either way.\""
+    },
+    {
+      "Key": "09b5458b-6d51-4b6a-b22a-8e270f0f0999",
+      "Value": "\"Why do we have to choose? First we kill the giants, then honor your family.\""
+    },
+    {
+      "Key": "e35450fe-9d1e-414a-b4ea-99c0146de0b8",
+      "Value": "\"But Kargadd is dead. Isn't that revenge enough, Ekun?\""
+    },
+    {
+      "Key": "32449b3e-2910-40aa-92fb-0581b00166e9",
+      "Value": "\"Well, if you must... Take us to the giants' leader, Ekun.\""
+    },
+    {
+      "Key": "be10d079-26b0-4a70-a5ea-05b5523b398a",
+      "Value": "\"I won't take part in this. You're blinded by your bloodlust.\""
+    },
+    {
+      "Key": "cbacba05-fe13-4064-9cb8-a26b6f2625d7",
+      "Value": "\"Come to your senses, Ekun! What has your life become?\""
+    },
+    {
+      "Key": "fee2f392-2503-4059-b04d-1b529a0cb994",
+      "Value": "\"Well, if that's what you want, I'll support you.\""
+    },
+    {
+      "Key": "f7c2afaa-cfe7-49ee-a487-878c0c414e50",
+      "Value": "\"By sparing these giants, you doom dwellers of the nearby villages to death at their hands. Is this what you want?\""
+    },
+    {
+      "Key": "327d3acd-c9b9-4ebd-a04c-e143dc7eda4e",
+      "Value": "\"I'm not participating in any funerals. I have more important things to do.\""
+    },
+    {
+      "Key": "826bfb96-c4da-4b69-a005-81e40b347193",
+      "Value": "\"What?! Where are you going? You're insane! This isn't some game! Do you have a death wish?!\""
+    },
+    {
+      "Key": "e4a15071-cb73-4bc1-8b94-87073f7009aa",
+      "Value": "\"Don't listen to her. No one will take your revenge from you.\""
+    },
+    {
+      "Key": "1dd0fcbb-03ad-4df7-8f67-6d9603701b84",
+      "Value": "\"Hunting. Killed the first two — the others ran away. But we drove them here again.\""
+    },
+    {
+      "Key": "7bf7229a-68e7-4dcc-b71f-8da7c2d92710",
+      "Value": "{n}{d|Ntavi}Ntavi{/d} greets you with a nod.{/n} \"I am glad you decided to join us, {mf|Your Grace|Your Grace|Your Highness|Your Highness}.\""
+    },
+    {
+      "Key": "6e71049c-99f9-4e5b-bdeb-5e7390dd3f40",
+      "Value": "{n}A triumphant smile blooms on Ntavi's face.{/n}"
+    },
+    {
+      "Key": "426b246a-d4cd-4bd0-81bc-acaa853a62bf",
+      "Value": "\"Oh gods! So much blood! What happened here? Ekun, I was so worried!\""
+    },
+    {
+      "Key": "5faed139-0633-473e-a060-a57750ca5ba1",
+      "Value": "{n}Elina wrings her hands.{/n} \"I... I followed you, Your {mf|Grace|Grace|Highness|Highness}! I couldn't wait any longer! I almost decided to come by myself, but then I saw you walking out the city gate.\""
+    },
+    {
+      "Key": "2c88b4f1-2afd-4cb9-8c9e-ef3e2b8c1f6e",
+      "Value": "\"Ekun! In the name of {g|Erastil}Erastil{/g}, stop! I can't imagine how bitter you must feel now... but you can't wash away your grief with blood!\""
+    },
+    {
+      "Key": "b9e97edc-ad92-4bfc-9d69-afde39965948",
+      "Value": "\"You have to say farewell to your family. Honor their memory — and let the gods have mercy on their souls. Only then you will be able to start a new life!\" {n}Elina gulps nervously and looks at everyone present.{/n} \"Please... let's all go home?\""
+    },
+    {
+      "Key": "d7e64f1d-393f-4d88-b69c-97adfd97654e",
+      "Value": "\"We can't waste time, the giants could escape again. We need to finish what we started.\""
+    },
+    {
+      "Key": "fcad81a5-46f2-4626-87ba-65b1c97bf9b8",
+      "Value": "\"To pay for blood with blood. The ghosts of murdered innocents scream for justice — fate itself has destined Ekun to be an avenger.\""
+    },
+    {
+      "Key": "9b2cf6d0-42b7-46bb-8e78-f4514597ee94",
+      "Value": "\"What?! What are you saying?! I knew it was you pouring poison into Ekun's ears!\""
+    },
+    {
+      "Key": "944719dc-06ae-4dcf-a6b0-f0199c98d204",
+      "Value": "{n}Ekun furrows his forehead, the wrinkle between his brows growing deeper and deeper.{/n} \"I... don't know.\""
+    },
+    {
+      "Key": "826faa7a-7f59-421d-867b-dcfc4f0364f3",
+      "Value": "{n}Ekun shakes his head.{/n} \"Never. It will never be enough.\""
+    },
+    {
+      "Key": "c8dfe442-440c-433c-b552-60a2a57fa16c",
+      "Value": "{n}Ekun's voice is resolute and firm.{/n} \"No. I have nothing to bury... and no reason to. My heart can't be calmed by words and rites. The hunt must go on.\""
+    },
+    {
+      "Key": "8ec52752-9cab-4402-847c-ce70cfda74b8",
+      "Value": "{n}Cold fury can be heard in Ntavi's voice.{/n} \"Well... everything is clear. In this case I got nothing more to lose here. Farewell.\""
+    },
+    {
+      "Key": "5e6af989-42da-42d6-b17e-702104b376b8",
+      "Value": "\"Oh, Ekun...\""
+    },
+    {
+      "Key": "5829b1f8-2cc6-4e1a-92b0-f7e92c1a6b72",
+      "Value": "{n}Ekun's face breaks into a snarl.{/n} \"Enough! Who are you to judge me?!\""
+    },
+    {
+      "Key": "dec40533-cea7-4cd2-92db-d8781bcd063d",
+      "Value": "{n}Ekun is silent for a few moments, as if gathering his strength. Finally he nods and looks up at you.{/n} \"It is decided. I know what to do. Come where we met first. It is... an important place. Good for farewells.\""
+    },
+    {
+      "Key": "e16f7010-8bc7-4a7e-8e21-48ce29c9c676",
+      "Value": "\"No. But let someone else kill them... I will become a monster myself if I don't stop.\""
+    },
+    {
+      "Key": "3fe1cc90-1dcf-464e-b91c-986f9415aa84",
+      "Value": "\"This saddens me. But it's your right. Go, kill the giants. It doesn't matter to me.\""
+    },
+    {
+      "Key": "eb8bdc13-6d59-4471-8cf2-a70504f41c2e",
+      "Value": "{n}Ntavi's eyes flare with malicious fire.{/n}"
+    },
+    {
+      "Key": "ad9a4363-5169-4a76-92db-13921106b916",
+      "Value": "{n}Regongar grins from ear to ear.{/n} \"Well, we can't leave all the fun for you two!\""
+    },
+    {
+      "Key": "ce0c4efc-ae50-4bf8-8911-a31a8298a5a4",
+      "Value": "{n}Valerie sizes Elina up like it's the first time she's taken a good look at her.{/n} \"You brought yourself to leave the city? For him?\" {n}Then she turns around and examines Ekun with the same fascinated look.{/n}"
+    },
+    {
+      "Key": "cbc411ee-4779-4905-8ff6-18ee35d2b5a5",
+      "Value": "\"Oh, Elina! You could have been robbed! Or eaten by monsters! Or both at the same time... not that the difference would matter. Why take such a risk?\""
+    },
+    {
+      "Key": "eb3b4a95-d262-4914-8463-b781a4b147af",
+      "Value": "{n}Octavia bites her lips.{/n} \"I understand what moves you, Ekun... {g|Calistria}Calistria{/g} as my witness, I'd hunt the {g|Technic League}Technic League{/g} for my entire life... but that's not really life. It's a curse.\""
+    },
+    {
+      "Key": "a3e1d49a-2f0b-4284-89e1-217304aa3ba5",
+      "Value": "\"What can a city wench know of lives like ours? Ntavi's right: for each drop of your blood they shed, you gotta take three times that from them!\""
+    },
+    {
+      "Key": "821d688f-33f4-4426-a565-6a75c974b053",
+      "Value": "\"The words of a true savage, no less.\""
+    },
+    {
+      "Key": "1f997ada-ff01-4919-8048-2ce060071340",
+      "Value": "{n}Ekun is so tired he looks barely able to speak.{/n} \"{name}\"."
+    },
+    {
+      "Key": "36c4e189-bd42-4dbf-8fbc-2743354ceaf0",
+      "Value": "{n}Ekun frowns and looks away.{/n} \"I have to go. Their leader's there.\""
+    },
+    {
+      "Key": "1b5366d3-9108-47c7-8848-144141ff9f9b",
+      "Value": "{n}Ekun wipes sweat from his brow and stares at you.{/n} \"{name}\"."
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "cbc5e2ff-de06-437e-8f80-8ca095c9fbea",
+      "Value": "\"I don't need your money!\""
+    },
+    {
+      "Key": "b229f191-c490-4d8f-8d00-4b12dd7f46ed",
+      "Value": "\"You set me up! Now Linxia thinks we're accomplices!\""
+    },
+    {
+      "Key": "6c14796a-6919-48e5-ab7b-b6cc3acf49eb",
+      "Value": "\"Linxia was right about you. You belong on the rack!\""
+    },
+    {
+      "Key": "f8f34298-6e1b-48b8-a3e3-345af44daf33",
+      "Value": "\"Get out of my {mf|barony|barony|kingdom|kingdom} at once! — And don't let me catch you around here again!\""
+    },
+    {
+      "Key": "cf5f2077-5150-4cc9-9f76-396313f6d5e2",
+      "Value": "[Attack] \"Death to the traitor!\""
+    },
+    {
+      "Key": "47a7c0cb-7ff2-4131-a8e1-17a9ed309a6a",
+      "Value": "\"Explain yourself then. I'm listening.\""
+    },
+    {
+      "Key": "6c20dbf4-4c05-4b7b-8bee-41b318f1a90e",
+      "Value": "\"Tell me once again about your deal with Mammon.\""
+    },
+    {
+      "Key": "53ee1335-7e54-4f28-adb2-bdd9f47a361c",
+      "Value": "\"Remind me — how did you make a pact with Mammon?\""
+    },
+    {
+      "Key": "e1d91269-cb80-44bd-855d-e2b40d8ee270",
+      "Value": "\"I've heard enough.\""
+    },
+    {
+      "Key": "ea28e9cf-6393-4abb-bb8c-0071ba2cf579",
+      "Value": "\"What was the point of your pact with Mammon?\""
+    },
+    {
+      "Key": "05f719bd-d3eb-4976-968e-ca4d1fb79a34",
+      "Value": "\"So, this means you want to become a king?\""
+    },
+    {
+      "Key": "f5fd87cd-adb6-4576-a5e6-b6affe191b73",
+      "Value": "\"I'll take your deal.\""
+    },
+    {
+      "Key": "92b5fe53-6d76-459d-b950-5afad8c8a7c6",
+      "Value": "\"I don't care to help you. You're on your own.\""
+    },
+    {
+      "Key": "023474ca-6246-4be6-b6e2-5f137bd0c312",
+      "Value": "\"What amount of 'gratitude' can I expect?\""
+    },
+    {
+      "Key": "4b35fcc6-1449-41c7-a26e-e9e0c4c4fd00",
+      "Value": "{n}{d|Darven}Darven{/d} turns to you and graces you with a shining smile.{/n} \"I thank you for your help! Without you, I'd never have been able to deal with this fanatic. I hope you'll forgive me for the little show I took the liberty of putting on? After all, the results weren't bad, wouldn't you agree?\""
+    },
+    {
+      "Key": "b8a8b104-0671-46b5-bc42-9cc299a81ed1",
+      "Value": "\"But it's yours.\" {n}Darven shrugs dismissively.{/n} \"Give it to the poor, throw it away, or dump it in the river if you really can't be bothered.\""
+    },
+    {
+      "Key": "1e5c54ae-2a89-46f7-a1af-b7be3aefda84",
+      "Value": "\"I regret if I've caused you any discomfort. I hope that the sound of golden coins jingling in your purse will help you forget this unfortunate episode.\""
+    },
+    {
+      "Key": "af82d2fd-1607-40e4-920a-deb3ab31e99b",
+      "Value": "{n}Darven sighs.{/n} \"Things are unfolding in a most regrettable way. I should have offered {mf|him|her} more money…\""
+    },
+    {
+      "Key": "d4ea92a9-2fe5-410a-a673-6289f3cd77ef",
+      "Value": "\"Anyhow, it seems I owe you an explanation. — Again! That's beginning to become a habit! Ah, but before I forget, please accept this modest reward. You've earned every bit of it.\""
+    },
+    {
+      "Key": "eda0c1c4-c4c1-4720-b98d-6400c76d578b",
+      "Value": "{n}Darven laughs in reply, but his eyes glint with caution.{/n} \"The rack has been waiting for me for a long time. Sadly, I'm just too busy to waste my time on it. Besides, to tell you the truth, the rack is not my type of a date.\""
+    },
+    {
+      "Key": "6b69e792-b324-4959-b00d-a9b24220b2dc",
+      "Value": "{n}Then, all of a sudden, Darven's voice grows serious.{/n} \"If by any chance you decide to... facilitate my meeting with this missus — then you'll fail. I'll escape again. So let's just talk instead, without threats. Like civilized people.\""
+    },
+    {
+      "Key": "855ae488-72ec-4dd4-9edd-82eeec2b4fcc",
+      "Value": "\"You do remember the whole story I told you earlier, right? About the duel with the {g|Cheliax}Chelish{/g} noble and the rebellion which followed his death? You see, that whole story has one little additional piece.\""
+    },
+    {
+      "Key": "3a707fb1-8934-4c70-838e-b2daf3259601",
+      "Value": "\"Well, not so little, to be precise.\" {n}Darven grins.{/n} \"His name is {g|Mammon}Mammon{/g}, and he's one of the Archdevils — 'the Ardent Prince', or so I've been told. He's made a pact with me, and I'm having trouble upholding my side of the bargain. — And his patience is growing thinner by the day.\""
+    },
+    {
+      "Key": "a2cc2c4e-bba8-4a9c-8644-02a079bd88c7",
+      "Value": "\"That {g|Cheliax}Chelish{/g} noble had a pact with {g|Mammon}Mammon{/g} too — which I expect is commonplace for the Chelish nobility. And the noble was in no hurry to fulfill his end of the deal, either. By killing him, I earned Mammon's gratitude, and he offered me a similar pact. A handsome sum of gold, and my cherished dream come true — that's what he promised. So how could I say no?\""
+    },
+    {
+      "Key": "f21cac30-2438-4cef-a099-446ea87fe51c",
+      "Value": "\"With pleasure!\""
+    },
+    {
+      "Key": "cc2bfe78-d9cd-44f8-be30-207f01ab266b",
+      "Value": "\"So what do you say? Will you accept my offer?\""
+    },
+    {
+      "Key": "d67b0855-20f0-4687-ac85-dd46bf8bec13",
+      "Value": "\"I'm to become a king. No more, no less.\" {n}Darven grins, but this time his grin is joyless.{/n} \"The subjects of my kingdom are supposed to worship {g|Mammon}Mammon{/g} as their official deity, and pay taxes to his temples.\""
+    },
+    {
+      "Key": "5a0cc222-2c5a-4a39-be53-7dd4ae745257",
+      "Value": "\"It's not so difficult a task, I suppose — especially if you have enough money. The only problem is Linxia. The moment I lay my kingdom's first cornerstone, I'll become an easy target. She'll instantly find me and promptly introduce me to all her torture devices.\""
+    },
+    {
+      "Key": "c16199d9-a99b-4d1a-8981-0e9eb08dd7e4",
+      "Value": "\"Oh, yes. It was my dream ever since I was sailing the {g|Inner Sea}Inner Sea{/g} as a part of the {g|Taldor}Taldorian{/g} merchant fleet. I even came up with a name for my kingdom — Brineheart. Ah, fond memories of those careless times, when I had neither crazy zealots nor offended Archdevil chasing me.\""
+    },
+    {
+      "Key": "f5c7c36d-bf73-4655-afb1-c837d0f441a9",
+      "Value": "\"However, I fear that soon I'll have to take the risk and establish my kingdom nevertheless. {g|Mammon}Mammon{/g} is growing restless. And in the end I'd rather risk facing Linxia than challenge him.\""
+    },
+    {
+      "Key": "62415232-625d-47d8-9ad8-2d0e57eabc92",
+      "Value": "{n}Darven's habitual grin grows sad.{/n} \"Unfortunately, you can't just retreat from all this. I have an obligation to establish a kingdom, so that is what I must do. I have nowhere to run. After I make my whereabouts known, Linxia will come for me. This is inevitable.\""
+    },
+    {
+      "Key": "f79d8ba6-144d-4034-99be-accea5a76257",
+      "Value": "\"The only open question is — what role will you play in our confrontation. I suppose all I can do about that is to wait and see. Until then — farewell.\""
+    },
+    {
+      "Key": "466a7230-6b5f-495d-a813-af6467a17816",
+      "Value": "\"Excellent! In that case I'll establish my capital immediately. It will be a thriving trading hub, and its king will count himself in your debt. You won't be disappointed, you have my word on that. And I always keep my promises.\""
+    },
+    {
+      "Key": "53f18a25-b133-4cb3-b49a-f06b17f0eb1c",
+      "Value": "\"I hope same can be said about you.\" {n}Darven smiles disarmingly.{/n}"
+    },
+    {
+      "Key": "46c94292-8c2a-415f-bfa9-a3352df31aea",
+      "Value": "\"My finances are growing thin. I'm afraid I can't afford to offer you more than 10000 gold coins.\" {n}Darven's smile looks guilty.{/n} \"But in addition, I offer good neighborly relations and common trade routes established between our two countries.\""
+    },
+    {
+      "Key": "b70b1d21-4482-47d8-98f0-7695ceb98622",
+      "Value": "{n}Valerie folds her hands across her chest.{/n} \"I cannot say which is worse — the lies and manipulation, or the sincere belief that the righteous wrath they caused can be bought off!\""
+    },
+    {
+      "Key": "d3b87636-fc72-425c-8fbf-529734cf119d",
+      "Value": "\"You shouldn't swing your purse around like that, handsome. What's keeping us from just taking you out first in the name of good and just robbing you? It'd be a bitter misunderstanding, indeed!\""
+    },
+    {
+      "Key": "96c8e176-84d0-4abf-9c2e-a9c3b0602ce0",
+      "Value": "\"Such a beautiful story! And the name! It reminds me of my favorite pirate books! Oh, so many stories are swarming in my head...\""
+    },
+    {
+      "Key": "80d6e16b-9b96-47c0-a8c7-add05fd2e80b",
+      "Value": "\"Considering the questionable motives of honorable Darven, here, I would typically advise you to decline. But then, considering the personality of his adversary, I would recommend you agree! No organization in the world does more harm than the {g|Order of the Rack}Order of the Rack{/g}. And I'm not even saying this just because they've targeted my treatises for years...\""
+    },
+    {
+      "Key": "e94ff1a9-4b1c-4f30-ac11-c88e5cf0a76c",
+      "Value": "{n}Octavia laughs musically.{/n} \"How romantic! I would be curious to see Brineheart, if you're ever lucky enough to turn it from dream into reality...\""
+    },
+    {
+      "Key": "fc207042-23e9-4c05-ad89-a3e614b02c56",
+      "Value": "\"Give them to me. Nok-Nok knows what do with them. No tell you — don't ask.\""
+    }
+  ]
+}

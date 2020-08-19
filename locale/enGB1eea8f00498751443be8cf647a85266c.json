@@ -1,0 +1,73 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "c221a17e-4a65-4284-8d8e-036d6066f323",
+      "Value": "\"The statue was ancient, and easy to break. Don't try to see hidden signs where there aren't any.\""
+    },
+    {
+      "Key": "810c081d-84c3-4035-acba-63f17859eef4",
+      "Value": "[Leave] \"Stop whining. Let's go, we still have a lot to do.\""
+    },
+    {
+      "Key": "8ae73f3e-d904-44f2-a65f-33413c8c64c4",
+      "Value": "\"It was just an old statue. What Torag has to do with it?\""
+    },
+    {
+      "Key": "1b93226f-d26d-486c-a391-1ac56594a687",
+      "Value": "\"You confuse the reason with the consequence. Torag's worshippers left this place. Their faith doesn't empower Torag any more, so he has no need to protect this fortress.\""
+    },
+    {
+      "Key": "95f9fc88-b550-4055-bd5d-70e24c6299b0",
+      "Value": "\"You're only half right. Sure, you can't place your trust in Torag... but you can't trust any of the others, either! They're all the same!\""
+    },
+    {
+      "Key": "e7600a2a-0c10-4167-9986-4d797656ebd1",
+      "Value": "\"Torag never abandons his children. They left this place, and he followed.\""
+    },
+    {
+      "Key": "b8558fde-2830-4f0d-958c-489a7ac1bea8",
+      "Value": "\"You've confused the god with the sculpture depicting him,\" {n}Ekun notes calmly, but Harrim doesn't hear him or just doesn't care.{/n}"
+    },
+    {
+      "Key": "7054553b-e67e-4d45-a5a4-30152e5b3648",
+      "Value": "\"You're wrong, {name}. It's not just any statue. It's a symbol. Faith feeds the gods, just like food nourishes our mortal bodies. And the symbols of faith are the channels through which gods communicate with faithful.\" {n}He grimly looks at the pedestal, where the statue used to stand, but only the stone of Torag's feet remains now.{/n} \"This symbol is destroyed. Therefore {g|Torag}Torag{/g} is weak, {name}. If he could protect this place, he wouldn't allow such desolation to happen.\""
+    },
+    {
+      "Key": "ac5a930f-6bf3-464d-b76a-de0c71a216fb",
+      "Value": "\"You're blind. How could this statue possibly be destroyed, if {g|Torag}Torag{/g} was protecting this place? How could dwarves perish here if Torag cared about them?\" {n}Harrim presses his lips together.{/n} \"No, {name}. This whole place is an anthem for oblivion's victory over weakness. The victory {g|Groetus}Groetus{/g} won over Torag.\""
+    },
+    {
+      "Key": "da11ab59-4cfe-43fb-a91f-9ddae2874fb0",
+      "Value": "{n}Harrim opens his mouth to object, but apparently can't find any good arguments. Finally, he gives up on you.{/n} \"You're so blind, {name},\" {n}he says, just to fill the silence, and turns away.{/n}"
+    },
+    {
+      "Key": "0a045133-4732-41fb-b92e-09bf4c6a516f",
+      "Value": "{n}The dwarf turns away from the statue and stalks behind you, staring at the floor.{/n}"
+    },
+    {
+      "Key": "1f0afa6f-beea-4cd9-b779-1e326aaaf2ee",
+      "Value": "{n}You throw a glance towards Ekun, expecting him to stand up for {g|Torag}Torag{/g}, but the ranger just shrugs instead.{/n} \"No sense in over-persuading,\" {n}he says, looking at Harrim.{/n}"
+    },
+    {
+      "Key": "540cf770-134c-4415-818a-46e9fa2391f7",
+      "Value": "\"You're weak, {g|Torag}Torag{/g}. Weak and pathetic. How could you, the God of all dwarves, the Great Creator, be knocked down by some meager troll?\""
+    },
+    {
+      "Key": "b156e4a4-d906-4747-993e-c29926cc5239",
+      "Value": "\"Also, how can the dwarves put their trust in you, you traitor god? How can you protect your people if you're incapable of defending even yourself?\""
+    },
+    {
+      "Key": "77312718-2945-4663-a8ea-cb57fe16d664",
+      "Value": "\"Gods are not pathetic. Those who grovel at their feet and beg for charity, then cry when they receive no crumbs from the divine table, on the other hand...\""
+    },
+    {
+      "Key": "30788f99-aed4-4e7c-be23-46c908cc651d",
+      "Value": "\"'Never abandons,' {name}? Never abandons?! You only think that because he has not abandoned you yet!\""
+    },
+    {
+      "Key": "090c90ea-fb73-4c58-a785-09a456e4d7ee",
+      "Value": "\"No, {name}, no... You do not know of what you speak! I fear for your soul. What if your faithless words result in you spending eternity wandering the {g|Boneyard}Boneyard{/g}?\""
+    }
+  ]
+}

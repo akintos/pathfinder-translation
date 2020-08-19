@@ -1,0 +1,441 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "1605daeb-2e6f-40c7-85d4-e6ba68fad9c6",
+      "Value": "\"I killed Kargadd.\""
+    },
+    {
+      "Key": "6bf48bac-c6e7-4e05-8d03-0fd13af146e2",
+      "Value": "\"Tell me about yourself.\""
+    },
+    {
+      "Key": "903659ec-13e6-4e96-8fe5-6773cdd3623c",
+      "Value": "\"In that case, we'll talk later.\""
+    },
+    {
+      "Key": "5901e0f0-7a73-4ed2-b191-824e3723e7d4",
+      "Value": "\"I lured him into direct sunlight. He turned to stone.\""
+    },
+    {
+      "Key": "bacb6957-143c-4ea5-af55-64170b959abe",
+      "Value": "\"We cut his guts open.\""
+    },
+    {
+      "Key": "2d6b8ed9-f074-4e7c-bc60-2a9bc9d6071b",
+      "Value": "\"Tell me about yourself.\""
+    },
+    {
+      "Key": "5be7af4c-18db-4dbc-92fc-05396e50ecf4",
+      "Value": "\"Yes, there were troll younglings, Kargadd's children. They weren't dangerous. I let them go.\""
+    },
+    {
+      "Key": "802ad00c-d464-45c2-99a9-aa8cb91758b7",
+      "Value": "\"Yes, there were troll younglings, Kargadd's children. I killed them as well.\""
+    },
+    {
+      "Key": "56e638d4-e8f8-47c4-9b70-4431470f5ea6",
+      "Value": "[Lie] \"No, nothing special.\""
+    },
+    {
+      "Key": "53b2a3b4-2686-4e0f-a0d1-9eb35e872f7d",
+      "Value": "\"Tell me about your life in the Stolen Lands.\""
+    },
+    {
+      "Key": "a33c932b-6221-41c6-b1d4-ab08308697f4",
+      "Value": "\"Tell me about your wolf.\""
+    },
+    {
+      "Key": "893857f2-6654-41f3-b98f-94742fa14060",
+      "Value": "\"What are your plans for the future?\""
+    },
+    {
+      "Key": "9dec6e4d-3575-4cfd-b293-d5f7b53537c2",
+      "Value": "\"You're not much of a talker, right?\""
+    },
+    {
+      "Key": "fd0e2ac1-af17-4d6f-8100-abfde64cd061",
+      "Value": "\"I won't torture you with more conversation right now. We'll talk later.\""
+    },
+    {
+      "Key": "59a7cce9-9052-4b07-a385-7941c28ba258",
+      "Value": "\"I'm sorry for your loss, Ekun. Tell me if there's anything I can help you with.\""
+    },
+    {
+      "Key": "88ac3c81-2baf-4396-a2b5-aaa338efa935",
+      "Value": "\"I'm sorry that you lost your family. I would understand if you decided to leave me and get as far as possible from the Stolen Lands.\""
+    },
+    {
+      "Key": "53b0642b-0a11-416b-84b9-7234870cf050",
+      "Value": "\"Pull yourself together! I don't need any whiners in my company!\""
+    },
+    {
+      "Key": "0dbfff11-dbc3-457e-a01f-7aa5b72b18b4",
+      "Value": "\"Where are you from? Where's your homeland?\""
+    },
+    {
+      "Key": "4b2ebd22-7392-4826-ace0-d4e704a8bf87",
+      "Value": "\"Where did you learn to use a bow?\""
+    },
+    {
+      "Key": "7322aa4f-bde8-492e-be22-7364a7ff0e0a",
+      "Value": "\"Do you worship Torag?\""
+    },
+    {
+      "Key": "8f22233b-f2b3-425f-9765-1c9d359b3b9a",
+      "Value": "\"Do you have any family?\""
+    },
+    {
+      "Key": "e1d8f633-ec73-45eb-9397-8bbceb69a37f",
+      "Value": "\"Tell me about Amanda and Clarissa.\""
+    },
+    {
+      "Key": "34e70275-6480-44e0-a81b-9487c4dcde6b",
+      "Value": "\"Let's change the subject.\""
+    },
+    {
+      "Key": "8dcdbc1b-45bf-4992-96d3-e9d16340f738",
+      "Value": "\"How did you end up in the Stolen Lands?\""
+    },
+    {
+      "Key": "945f0370-6d0d-4426-9826-ad162f341665",
+      "Value": "\"Have you lived in the Stolen Lands for long?\""
+    },
+    {
+      "Key": "76ba1425-7c7c-483c-bdcf-90cc2d14782b",
+      "Value": "\"Do you like it in this country?\""
+    },
+    {
+      "Key": "7d3c520f-122b-432f-aac9-b779ba2d8012",
+      "Value": "\"Tell me again about the trolls attacking your village.\""
+    },
+    {
+      "Key": "f9ced22a-5c60-4212-96c4-89df09c13d77",
+      "Value": "\"Let's talk about something else.\""
+    },
+    {
+      "Key": "16abfa5c-0c3c-45fc-8de0-9153c6dfaafc",
+      "Value": "\"Drive him away then, if you dislike him so much.\""
+    },
+    {
+      "Key": "7d559515-b9f8-4589-aa26-3ab0e17eee69",
+      "Value": "\"You should accept his help. He's absolutely loyal to you.\""
+    },
+    {
+      "Key": "70859f1a-d8bb-4ef7-ae5e-64d3d0d4ef99",
+      "Value": "\"Aren't you going to give him a proper name?\""
+    },
+    {
+      "Key": "19921482-7822-4f19-b7e3-014135d3586d",
+      "Value": "\"I see. Let's talk about something else.\""
+    },
+    {
+      "Key": "fa318e5e-dd0d-49d4-9681-3d38e2ffdec6",
+      "Value": "\"I want you to leave.\""
+    },
+    {
+      "Key": "020e4d3c-6d64-4985-806c-8b65711588d9",
+      "Value": "\"Leave my lands. Immediately.\""
+    },
+    {
+      "Key": "6843ae53-3664-47d9-9698-aa844ebc8313",
+      "Value": "\"Excuse my rambling. Forget what I just said.\""
+    },
+    {
+      "Key": "78c88d07-8ec0-4913-beb6-246b40a7d9d3",
+      "Value": "\"I want you to leave.\""
+    },
+    {
+      "Key": "9a012a05-d816-442d-90af-70dc8c0e89a9",
+      "Value": "\"Take your things and leave my lands.\""
+    },
+    {
+      "Key": "e482ddbe-d2af-47e9-8b79-5cd11887595e",
+      "Value": "\"Forget what I said.\""
+    },
+    {
+      "Key": "5befbbfa-1381-4439-ad23-434fa84f0b20",
+      "Value": "\"Remind me how you got him.\""
+    },
+    {
+      "Key": "d29ea107-bc8f-40b8-ba87-856d11b2c0f2",
+      "Value": "\"Well, good to hear! Let's talk about something else.\""
+    },
+    {
+      "Key": "491c3b87-2e15-44e3-85f3-43bf38468b3e",
+      "Value": "\"And what did you and Ntavi do when she took you from the party?\""
+    },
+    {
+      "Key": "9b4a87f5-6695-4ef4-ad45-3d93aae63772",
+      "Value": "\"For what?\""
+    },
+    {
+      "Key": "26137fb7-80a6-434e-a444-9dc8ab1080b9",
+      "Value": "\"I understand, Ekun. You're welcome.\""
+    },
+    {
+      "Key": "9badaa94-a6da-4eba-99d5-034a4a364ae7",
+      "Value": "\"Where have you been? And where is Ntavi?\""
+    },
+    {
+      "Key": "4f7fe8b8-632b-43b9-84ff-42a437dff831",
+      "Value": "\"Forgive me for not coming to the funeral. How did it go?\""
+    },
+    {
+      "Key": "3d0b68e8-4edd-454b-aad0-321e8901d165",
+      "Value": "\"I hope you enjoyed the party.\""
+    },
+    {
+      "Key": "41735c83-5550-4334-94a7-2bd26c489467",
+      "Value": "\"Have you settled on your plans for the future?\""
+    },
+    {
+      "Key": "1041dcc7-5964-427a-afcb-dc09b332f175",
+      "Value": "{n}Ekundayo looks somewhere beyond you.{/n} \"Forgive me, friend. My thoughts are on Kargadd right now.\""
+    },
+    {
+      "Key": "02c69a2d-f6e8-4671-8dfd-be78908c206c",
+      "Value": "{n}Ekun stands absorbed in his thoughts, which must be as heavy as the gaze of his dark eyes. Noticing you, he gives you a distracted nod and waits for your questions.{/n}"
+    },
+    {
+      "Key": "fdb9b27e-2950-4195-902e-e5285f2d5bd2",
+      "Value": "{n}Ekun turns his eyes on you.{/n} \"Don't want to rake up the past. Not now, when the wound still bleeds. Must kill Kargadd and regain my peace.\""
+    },
+    {
+      "Key": "b2301f2b-f32a-4bb9-91ea-33c472c7b343",
+      "Value": "{n}Ekun closes his eyes and sighs, relieved. His wrinkled brow smoothes somewhat.{/n} \"You stole my vengeance. But it's no grudge to hold. You did the right thing.\""
+    },
+    {
+      "Key": "6cbecb88-1427-414d-b614-c8cf1e65e15d",
+      "Value": "{n}Ekun stares at you closely.{/n} \"I want to know it all. Tell me how it happened. Tell me of his suffering.\""
+    },
+    {
+      "Key": "ac2b0d1f-8c45-48cc-bfdd-09d0423c2531",
+      "Value": "{n}Ekun looks at you. For a long moment it seems like he'll smile, but he never does.{/n} \"An eternity spent in stone. A decent end. By {g|Torag}Torag{/g}, your fame comes well earned. But it seems there was something else happening there.\""
+    },
+    {
+      "Key": "5b82b371-67cf-42e2-a34b-320d68055160",
+      "Value": "{n}Ekun looks at you. For a long moment it seems like he'll smile, but he never does.{/n} \"You freed the world of a terrible monster. By {g|Torag}Torag{/g}, your fame comes well earned. But it seems there was something else happening there.\""
+    },
+    {
+      "Key": "402323f4-e7d0-4470-8f0e-8e3d77cf135c",
+      "Value": "{n}Ekun seems surprised, then angry, then contemplative.{/n} \"Don't know if I have the courage inside to act that way,\" {n}he says quietly.{/n}"
+    },
+    {
+      "Key": "954da1d0-3b8c-48fd-b8d5-72cef5a66a49",
+      "Value": "{n}For a moment, Ekun seems angry, but he brushes the emotion away.{/n} \"You acted as you saw fit. Not going to pass judgment on you. The deed's done, and that's most important.\""
+    },
+    {
+      "Key": "15be0a4a-e54b-476d-be61-780268a222a4",
+      "Value": "\"Vengeance is done, but the pain remains. You're worthy of gratitude and loyalty. You'll get all the answers I promised. I owe you.\""
+    },
+    {
+      "Key": "d870aa93-3c0b-411c-ac4e-b8886c5ead24",
+      "Value": "{n}Ekun winces, then nods.{/n} \"You made the right choice. Youngling trolls just grow into full trolls. Better for everyone if they never grow at all.\""
+    },
+    {
+      "Key": "1f305cd0-ecdb-44d9-8dc9-cb40f523fa78",
+      "Value": "{n}For a moment you can almost glimpse a smile in Ekun's eyes.{/n} \"Someone has to be. To balance you.\""
+    },
+    {
+      "Key": "8b359796-3df3-4cb8-a2e3-8bda18355349",
+      "Value": "{n}Ekun's eyes look at you, but his thoughts obviously wander somewhere else.{/n} \"To protect you.\" {n}He shrugs.{/n} \"Doesn't matter.\""
+    },
+    {
+      "Key": "8ed341b7-a7e5-4a0e-86a6-64cf15868c1b",
+      "Value": "{n}Ekun nods gratefully.{/n} \"Thank you. Talking with you already helps.\""
+    },
+    {
+      "Key": "ab2f4370-1148-40d8-a5e5-204f85015c7c",
+      "Value": "{n}Ekun frowns, looking into your eyes.{/n} \"Would prefer to stay, if you don't want to drive me away. Nowhere else to go.\""
+    },
+    {
+      "Key": "0d229c5a-3438-4c53-b41a-7731c8f81bc6",
+      "Value": "{n}For a moment, Ekun's eyes flash with defiance, but it disappears almost immediately.{/n} \"Hard to do so. Forgive me.\""
+    },
+    {
+      "Key": "ae56386f-872a-4262-ae23-c4ae8f51e450",
+      "Value": "{n}Ekun nods curtly.{/n}"
+    },
+    {
+      "Key": "e2d5d0d4-4b7c-4505-a560-b78eeb49344a",
+      "Value": "\"Why ask?\" {n}Ekun winces and stays silent for a while.{/n} \"Loved them,\" {n}he finally answers, turning away.{/n}"
+    },
+    {
+      "Key": "dc9a029a-3260-4c39-94d4-2e167d8cd416",
+      "Value": "\"No,\" {n}he answers indifferently.{/n} \"Mother died early. Father died later.\" {n}He stays silent for a while, than resumes.{/n} \"Wife Amanda and daughter Clarissa died recently. {g|Torag}Torag{/g} bless their souls.\""
+    },
+    {
+      "Key": "b9b7a0a0-e170-4902-ba33-9227127f1c31",
+      "Value": "\"Yes,\" {n}Ekun nods.{/n} \"All gods are even in the eyes of men back in the motherland. Chose the one that fit best, though he's a dwarf god.\" He shrugs and glances at his longbow. \"Used to guard decent men and craft bows. {g|Torag}Torag{/g} blesses both guards and crafters.\""
+    },
+    {
+      "Key": "6b3334b6-9a95-4386-bc69-503ebde101bd",
+      "Value": "\"When wayfaring,\" {n}he answers.{/n} \"Traveled through the northlands countless times. Guarded trade caravans. Those who paid with gold dealt with the merchants. Those who wanted to pay with steel dealt with me.\""
+    },
+    {
+      "Key": "6c1ee433-6406-421a-8d04-2c2ec52debc0",
+      "Value": "\"{g|Thuvia}Thuvia{/g}, far south. A desert that treats the sun orchid like gold. Father took me to {g|Absalom}Absalom{/g} when I was thirteen. Never been to my homeland since. Roads always led north of Absalom.\" {n}He shrugs.{/n}"
+    },
+    {
+      "Key": "bfd22191-59c8-4246-98aa-90e14bb2bb55",
+      "Value": "{n}Ekun shrugs indifferently.{/n}"
+    },
+    {
+      "Key": "ccafcbfe-dbe9-4a07-8bee-de21dac2b8a6",
+      "Value": "\"Happy pages of life. Good to recall. Hurts to come back.\""
+    },
+    {
+      "Key": "e897b985-f7ee-499f-afc0-b3ffafff9aff",
+      "Value": "\"Got married,\" {n}he answers.{/n} \"Crossed northern lands back and forth for a long time. Often came to the {g|Stolen Lands}Stolen Lands{/g}. Spent nights in Bristlehill. Recognized Amanda there, and she recognized me. One day, realized leaving wasn't desirable anymore.\""
+    },
+    {
+      "Key": "e0754c19-d0ea-4e81-b017-8a93e3b96079",
+      "Value": "\"Too long — forgot how to defend. Too short — not enough to raise a daughter. Depends how you measure time.\""
+    },
+    {
+      "Key": "1a393b9f-685a-42c6-8b00-c6d81632a284",
+      "Value": "\"Yes, but the {g|Stolen Lands}Stolen Lands{/g} have no credit in that. Seen many places worth staying. Always passed by.\" {n}Ekun shrugs.{/n} \"People by your side are more important than woods and hills around you. Found those people here.\""
+    },
+    {
+      "Key": "98744fa0-16e6-4a3b-a6ac-afdc08b27803",
+      "Value": "{n}Ekun swallows a lump in his throat.{/n} \"They attacked at night. Slaughtered everyone,\" {n}he answers.{/n} \"We all knew about trolls. Never thought they would come to the village. Never believed...\" {n}Ekun closes his eyes and shakes his head, as if in denial.{/n} \"They came before dawn. Plundered houses. Killed dogs. Cows. People. They ate. Then gathered everything they could and left.\""
+    },
+    {
+      "Key": "645ac8aa-7cd6-4853-8265-52c20f797177",
+      "Value": "\"Not mine,\" {n}he answers. Noticing this answer isn't satisfactory, he goes on.{/n} \"Never wanted a pet. Never needed one. But couldn't slay the trolls, defend the village. Just called for help.\" {n}Ranger shifts his frowning gaze to the side.{/n} \"Everything grew dark for a moment. Fainted. Came back with the tongue of this... dog... on my face.\""
+    },
+    {
+      "Key": "92cbd0c8-728b-454f-af23-bd3613f8edf8",
+      "Value": "{n}Ekun nods curtly.{/n}"
+    },
+    {
+      "Key": "4641f769-5cc1-4766-a99d-9681405d6d02",
+      "Value": "{n}Ekun shrugs.{/n} \"Probably will do it.\""
+    },
+    {
+      "Key": "e0b600bb-7cc8-4c68-8f1c-88ec68a7d42d",
+      "Value": "{n}Ekun frowns.{/n} \"Never called for this dog. Guess he should be accepted? Just don't know.\""
+    },
+    {
+      "Key": "5107aebf-6d64-4a45-9789-98ef8ba5eca4",
+      "Value": "{n}Ekun sighs.{/n} \"Not mine,\" {n}he explains.{/n} \"A name would make him mine.\""
+    },
+    {
+      "Key": "580bd330-4ed8-480d-970a-88750e137a9a",
+      "Value": "{n}Ekun stares at your without saying anything. His face betrays no emotion, but he's clearly waiting for you to continue.{/n}"
+    },
+    {
+      "Key": "af19da49-e7c1-4780-b061-4d974d79534b",
+      "Value": "{n}Ekun takes a deep breath and nods.{/n}\n\"Farewell.\""
+    },
+    {
+      "Key": "68c8bd5a-44c7-4317-af70-fb662e321345",
+      "Value": "{n}Ekun watches you intently, waiting for you to continue.{/n}"
+    },
+    {
+      "Key": "cfefec0d-8647-4a1a-9b46-56336bee833c",
+      "Value": "{n}Ekun takes a deep breath and nods.{/n}\n\"Farewell.\""
+    },
+    {
+      "Key": "d48a6ec3-865b-416b-a176-a08f92e696a9",
+      "Value": "\"If you say so.\""
+    },
+    {
+      "Key": "d3de5d9f-999f-4c9d-a329-b01b33103268",
+      "Value": "\"As you say.\""
+    },
+    {
+      "Key": "d3efb90b-4848-459c-8d59-0f0631bffc8b",
+      "Value": "{n}Ekun looks at the wolf. His eyes become noticeably warmer, and a faint smile appears on his lips.{/n} \"Okbo.\""
+    },
+    {
+      "Key": "d0c0f5c3-7d18-45b4-8715-a0f1c351eeee",
+      "Value": "\"Not my wolf.\" {n}Ekun sounds relieved.{/n} \"His own. Now for sure.\""
+    },
+    {
+      "Key": "7602028e-6b84-415d-905b-9d3fb99a917e",
+      "Value": "[Looks attentively at Ekun]"
+    },
+    {
+      "Key": "4e2e8500-903a-4092-8824-45e226fa4760",
+      "Value": "\"Rain, wind, storm — he keeps silent. And moves forward. Something to learn.\" {n}Ekun pauses, then meets your gaze.{/n} \"All of you... were right to make me change my mind. Thank you.\""
+    },
+    {
+      "Key": "e5081c74-c354-407c-9df5-516e83faebef",
+      "Value": "{n}Ekun nods and looks at you expectantly.{/n}"
+    },
+    {
+      "Key": "240d456b-403e-47ad-9e73-6797bc9d1d80",
+      "Value": "\"Never wanted a pet. Never needed one. But couldn't slay the trolls, defend the village. Just called for help.\" {n}Ranger shifts his gaze to the side.{/n} \"Everything grew dark for a moment. Fainted. Came back with the tongue of this dog on my face.\""
+    },
+    {
+      "Key": "58be6686-71dd-49b1-baaf-fbe33fe4fe67",
+      "Value": "\"Now he is mine. And I'm his. Good that it turned out this way. Okbo is a loyal soul.\""
+    },
+    {
+      "Key": "4035724a-5867-4743-bb99-c147ff88318a",
+      "Value": "\"I'm not keeping him. I'm not sending him away. He knows it and chooses to stay. Fine by me.\""
+    },
+    {
+      "Key": "d9d33e98-b2e6-46aa-b1ff-a6c43cc5b228",
+      "Value": "\"Talked. Remembered the past. Don't tell me you thought...\" {n}Ekun stops and turns bright red.{/n}"
+    },
+    {
+      "Key": "d1535c4a-6537-455e-a939-f420deeb422c",
+      "Value": "{n}Ekun stands and greets you with a faint smile.{/n} \"{name}.\""
+    },
+    {
+      "Key": "6df1aa24-db1b-4f55-bbfe-97db4dae81e7",
+      "Value": "{n}Ekun greets you with a nod.{/n} \"I... wanted to thank you.\""
+    },
+    {
+      "Key": "e98dc19b-0a7c-4fc2-bec5-0c82c5672681",
+      "Value": "{n}Ekun looks confused for a moment, fighting for the right words.{/n} \"For... helping me find the way.\""
+    },
+    {
+      "Key": "18f74567-55c2-41fd-8305-0a948bdb93ef",
+      "Value": "{n}Ekun sighs, relieved.{/n} \"I am glad I met you. And I can be here. Here, I am of use.\""
+    },
+    {
+      "Key": "07e91b9a-983f-4de9-b536-3dc11f6fd613",
+      "Value": "{n}Ekun frowns, then turns away.{/n} \"Went hunting. With Ntavi. Needed... fresh air. She left not long after — she had things to do.\""
+    },
+    {
+      "Key": "b3f3528e-138d-417b-bf7a-c08f4fcc3ebe",
+      "Value": "{n}Ekun nods, wincing.{/n} \"Not very. There were uninvited guests. But I'm glad I did it.\""
+    },
+    {
+      "Key": "4f841a75-cf33-4943-9b38-c0d6285b491f",
+      "Value": "{n}Ekun's brows furrow anxiously. Finally he answers,{/n} \"Yes. Nice to see old friends. And spend time with new ones.\""
+    },
+    {
+      "Key": "72246b0b-cdb1-481a-b8e4-d41191567c93",
+      "Value": "\"But... hmm... Next time, warn me. Especially if Elina will be there.\""
+    },
+    {
+      "Key": "7fba0a14-d131-46d0-8da9-97619afa0a35",
+      "Value": "\"Want to stay here. Protecting people is my destiny. I accept that now. The river of life carried me for a long time, powerless and still. Now I know how to swim.\""
+    },
+    {
+      "Key": "050a5ab3-b177-43e9-bcc2-2e1eee75756b",
+      "Value": "{n}Ekun nods.{/n} \"There is no place for monsters in the world. So I will hunt them. Hunting is my life. I was afraid to admit it for a long time. But fear, despair, doubt — all that is gone. All that is left is my resolve.\""
+    },
+    {
+      "Key": "c98164f1-9732-4f53-8dc5-e6b35e322a5a",
+      "Value": "\"Elina is also glad that I... {d|Ekun Ritual}made up my mind{/d}. Gave me armor. So that I'd 'be more careful'. I didn't expect it, but the armor is welcome.\""
+    },
+    {
+      "Key": "a170afb1-3f65-4fe4-b5f6-528e83cc3015",
+      "Value": "\"Decided this had to be marked somehow. Carved a new bow. I think it turned out well enough.\""
+    },
+    {
+      "Key": "dc65cb17-bb47-4af0-8cbc-74a934d7c764",
+      "Value": "\"You too worship the Father of Creation, don't you? Good. He's the best deity for a leader. Teaches to build, not destroy.\""
+    },
+    {
+      "Key": "b9a488a7-822a-4f7c-adad-b96facbb2d4b",
+      "Value": "\"Life story is open to you. You deserve it. Ask.\""
+    }
+  ]
+}

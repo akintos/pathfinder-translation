@@ -1,0 +1,85 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "6895e30e-9a1e-42d8-b6fe-afa94dff2ff5",
+      "Value": "[Burn the flower]"
+    },
+    {
+      "Key": "a4aba8c8-9353-464b-8d48-fbbc80dc78fa",
+      "Value": "[Take a part of the flower's root]"
+    },
+    {
+      "Key": "3f2e0248-d902-438b-9f6d-339171bc7108",
+      "Value": "[Examine the flower]"
+    },
+    {
+      "Key": "632ccb38-381c-4c9d-ab15-c0c3b0b54ce7",
+      "Value": "[Take a dry petal]"
+    },
+    {
+      "Key": "8b0a374e-465f-4e06-9e76-bd963bba439d",
+      "Value": "{n}The flower's mysterious glow fades, allowing you to take a closer look at this strange thing. Once a thing of beauty and elegance, now the dried flower barely clings to the wilted stalk. All the moisture abandoned the plant along with its magic glow — the petals have become grey and sagging, like the wings of a wounded bird. It looks like only the root, which clings desperately to the cave floor, still maintains some life.{/n}"
+    },
+    {
+      "Key": "b7f1ec82-082b-41ca-a80c-ce523f07f690",
+      "Value": "{n}Octavia taps her chin with her finger, pensive.{/n} \"I realize this plant is an instrument of evil… but must we destroy it? All it wanted was to bloom...\""
+    },
+    {
+      "Key": "7a63fefa-2bde-41d2-b68e-2a36ce0903ea",
+      "Value": "\"Scorch this abomination, I say. This way it won't come back to life again.\""
+    },
+    {
+      "Key": "8d00177f-7a66-407a-a6fd-1290b2f13962",
+      "Value": "\"I'd be happy to participate in researching this amazing sample... but I suppose this time it might be wise to reject a potentially dangerous specimen.\""
+    },
+    {
+      "Key": "41d36a28-7145-4b05-9310-553a52b0399b",
+      "Value": "\"Do not delay and perform your duty, {mf|baron|baroness}. Burn this spawn of another world down, to protect your people!\""
+    },
+    {
+      "Key": "8bd518a1-082d-4e5b-a006-ce5a57211548",
+      "Value": "\"It is time. Finish what you started. Send this flower to oblivion.\""
+    },
+    {
+      "Key": "644b7bfb-4bb8-403a-90d7-87fc495cb0ff",
+      "Value": "\"If you let it remain like this, it will recover. The fire must be fed.\""
+    },
+    {
+      "Key": "538f1fec-c48a-4554-826a-2c46994e22ac",
+      "Value": "{n}Once proud and bright, the plant has lost all its charms — it looks wilted and beyond salvation. The only part that still maintains some signs of life is a feeble root, which desperately clings to the soil.{/n}"
+    },
+    {
+      "Key": "313ffbde-86a9-4458-abcb-0eb28f65e2bc",
+      "Value": "{n}You slice off a section of the root with some difficulty, a viscous ooze bleeding from it as you do. Once severed, you wrap the root in a rag and place it in your bag.{/n}"
+    },
+    {
+      "Key": "f10bad8d-e48f-45fa-a369-25019116c5d5",
+      "Value": "{n}As you touch the petal, it crumbles into dust — and the dust settles to the ground around the plant.{/n}"
+    },
+    {
+      "Key": "fcc9ab12-3f58-4683-a369-697a78a9ba7e",
+      "Value": "{n}A single spark is enough for the flower to catch fire. As if in pain, the plant writhes, desperately trying to avoid the flames engulfling it. Moments later, it collapses and disintegrates into ash. The flower is extinguished — it will never grow again, and all that remains is a twisted, blackened root.{/n}"
+    },
+    {
+      "Key": "e6c37cb9-ccea-48ed-ac21-d074eca50d58",
+      "Value": "\"Do not waste your time, Baron{mf||ess}. Burn this offspring of evil, before this tragedy repeats itself!\""
+    },
+    {
+      "Key": "206b89e4-8fda-46cf-a44a-efd097b0c7b1",
+      "Value": "\"This is the hour of your heroic deed — the one that will be sung of across the ages! Do it, and I'll make sure everyone knows!\""
+    },
+    {
+      "Key": "00328fe1-8933-4776-99aa-000ec4ef9d54",
+      "Value": "\"So this is where those ugly things came from. Well, what are you waiting for? Burn it to Hell!\""
+    },
+    {
+      "Key": "ef4eaa60-20ed-45af-ac0c-636dca958799",
+      "Value": "\"It is beautiful. Destroying it would be a crime...\""
+    },
+    {
+      "Key": "85729f72-7c00-4cf0-9e37-47a59d658bb0",
+      "Value": "\"It wanted nothing more than to bloom! To spread seeds that rip people apart from the inside! No, {name} — this 'flower' has to go. Even I understand that — though it would certainly have been a fascinating specimen to study.\""
+    }
+  ]
+}

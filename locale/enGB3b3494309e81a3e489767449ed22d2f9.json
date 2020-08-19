@@ -1,0 +1,137 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "50660ba4-8e56-4a0e-ac7b-84b7ae456ae5",
+      "Value": "\"What were you haggling about?\""
+    },
+    {
+      "Key": "892e6ece-0f18-4df3-a9c4-4013874678c1",
+      "Value": "\"I'd think you can find at least one more deserving object of your flirtations around here...\""
+    },
+    {
+      "Key": "413b5671-d4c2-49b0-9d79-594cf9d627c3",
+      "Value": "\"Will you take a walk with me?\""
+    },
+    {
+      "Key": "79b95ce5-29bc-458c-a51e-5ec3d0d5a2d7",
+      "Value": "\"I'm sorry I can't keep you company. Farewell!\""
+    },
+    {
+      "Key": "27f74f9d-04e4-46e4-a14d-7d40123753f2",
+      "Value": "\"I definitely do not count modesty among my flaws.\""
+    },
+    {
+      "Key": "415abd51-357e-47ae-946e-1f9b661d3dee",
+      "Value": "\"I prefer calling things what they are.\""
+    },
+    {
+      "Key": "d156cb2e-72aa-4360-a1f4-1e7238b4f35b",
+      "Value": "\"You misunderstood me. Let's end this conversation.\""
+    },
+    {
+      "Key": "a885621d-df5e-41ab-853f-fd2ac3ae9736",
+      "Value": "\"I'd gladly accept the invitation. Let's go.\""
+    },
+    {
+      "Key": "766358c5-e143-489f-9309-3b3163615b35",
+      "Value": "\"But why? I like you. I don't want to keep it a secret.\""
+    },
+    {
+      "Key": "ddc17cb2-8f5e-42d1-ba3c-91257aed670d",
+      "Value": "\"Fine. A secret it is then.\""
+    },
+    {
+      "Key": "6b67e1d6-182b-4660-86a2-782fac44be44",
+      "Value": "\"I can't have that.\""
+    },
+    {
+      "Key": "74ed8dc8-d5b7-449a-a924-8207f598ff69",
+      "Value": "\"It's all because of a certain pretty tiefling lady. For her I'm ready to walk day and night!\""
+    },
+    {
+      "Key": "9792dbb0-9cf5-45dd-bcd3-af3fb85cc467",
+      "Value": "\"Eight coins?! Eight?! Look me in the eye, honorable Hassuf. Like black clouds hide the shining sun, that price steals the joy from my soul and the smile from my face.\""
+    },
+    {
+      "Key": "cebdad08-34fe-4e41-b4f6-7dcfd9af76df",
+      "Value": "\"I would pluck the moon from the sky for your smile, oh beautiful daughter of the desert. But as long as I stand on this side of the counter, no one's charm is going to cloud my judgment. Eight gold coins and not one coin less.\""
+    },
+    {
+      "Key": "fb55a1b6-4b2b-4987-a4ac-584b9afb966a",
+      "Value": "\"You are so cruel...\" {n}Kanerah notices you and smiles warmly.{/n} \"Now I'll leave you alone to your heartlessness!\""
+    },
+    {
+      "Key": "33c4dea0-6390-4f84-a875-281848b571a5",
+      "Value": "\"Oh Hassuf, shrewdest of merchants! – I like it though. I like people who know which side of their bread is buttered.\" {n}Kanerah almost purrs with pleasure, looking around playfully.{/n}"
+    },
+    {
+      "Key": "61f082ac-18ef-4e3d-a68f-0c5adbf94292",
+      "Value": "\"Some trinket – I don't even remember what it looks like! I just like haggling with Hassuf. It's like a little game... and a little like flirting.\""
+    },
+    {
+      "Key": "4486e036-bb41-46a4-ab89-de43a9e56215",
+      "Value": "{n}Kanerah looks at you coyly from under her lashes.{/n} \"And who might that be? I'm quite at a loss... Surely you can't mean yourself? That wouldn't be modest at all!\""
+    },
+    {
+      "Key": "eeca87c3-e204-43ff-aaa6-c5e464b0135f",
+      "Value": "{n}Kanerah doesn't even try to hide her disappointment.{/n} \"Our {mf|baron|baroness|King|Queen} is always so busy... Well, I'll go look for someone else to tease!\""
+    },
+    {
+      "Key": "70023dda-f421-4627-806b-d59cd8ceb371",
+      "Value": "\"Are you not tired of walking all the time? After chasing all those monsters and bandits through the nearby swamps...\""
+    },
+    {
+      "Key": "8fa4b7ec-066c-4b9c-99cd-82b10373dd91",
+      "Value": "\"A pity.\" {n}You see sincere regret in Kanerah's eyes.{/n} \"So long, and forgive me for bothering you.\""
+    },
+    {
+      "Key": "c8a161e1-9c64-4385-9e00-fb42eb8e8de1",
+      "Value": "\"You feel no shame at all? Why, how wonderful!\""
+    },
+    {
+      "Key": "4d2e9a7d-3299-4ef4-955b-0135b6d2e8eb",
+      "Value": "\"Why not? Honesty and directness are finer adornments than lace, for those who know how to pursue their goals.\""
+    },
+    {
+      "Key": "4f0922d1-244b-4784-afe7-65d069cf8aaf",
+      "Value": "\"But we mustn't freeze in the wind here. This northern weather could throw a storm our way any moment! There's a fireplace at my home – and we could make it burn even hotter...\""
+    },
+    {
+      "Key": "4bfc3297-481d-4d56-87bb-e3c931130ce7",
+      "Value": "{n}Kanerah stops and looks into the fire. Its shadows and flames dancing on her face. She suddenly seems more serious than she was a moment ago in the square.{/n} \"I want to ask you a favor.\""
+    },
+    {
+      "Key": "44bdc267-a170-44c1-a454-8aa1140f49c7",
+      "Value": "\"I can't believe I'm going to ruin such a wonderful moment with a serious conversation! But still... I think you're interested in me the way I'm interested in you. And if that's true, please keep everything that happens between us a secret. From everyone – even your companions.\""
+    },
+    {
+      "Key": "e83da667-c80b-4c6b-a5dd-d02bebdbd9d0",
+      "Value": "\"I don't want to draw too much public attention. My sister and I have already created quite a stir in your lands! Besides... it's hard to explain, but it feels better to stay in the shadows. Secrets hide and protect, and keep you from getting hurt. Kalikke could explain it better – maybe even write a poem about it. I only say it as well as I can.\""
+    },
+    {
+      "Key": "1999d980-a722-4d8e-8ae3-e28b61048250",
+      "Value": "\"For one thing, I don't want to draw too much attention, at least for now. Having too many eyes on me – it's... a little uncomfortable. Plus, I'm still bound by the conditions of the Herald of Nethys, and must try to keep my double identity a secret. If everyone begins whispering that 'Kaessi' has grown close to the {mf|baron|baroness|King|Queen}, they'll expect her to 'behave' in a certain way. And I know my sister. – She won't be able to play along, and the secret won't stay hidden for long.\""
+    },
+    {
+      "Key": "399b7b28-bd79-4723-8702-542e33e78d94",
+      "Value": "\"I'm sorry. Then forgive me for wasting your time.\""
+    },
+    {
+      "Key": "60e3ab5f-ad4a-44c3-af51-e68506440049",
+      "Value": "{n}Kanerah's smile seems sincere and grateful.{/n} \"That's perfect.\""
+    },
+    {
+      "Key": "f266e611-fc6b-4676-b6f3-a73b6464bf51",
+      "Value": "{n}She takes a step closer, almost clinging to you, and lights a small fire in her hand.{/n} \"The land where I come from is full of opposites. Sometimes it's so hot during the day that the rocks melt under the sun like snow. But then comes night, and the cold freezes you to the bone. Night is the time when families gather at a fireplace, when parents hold their children – and when lovers share the heat of their bodies, and fill their hearts with each other's heat as they drift into sleep.\""
+    },
+    {
+      "Key": "3ab3d5c5-3048-431c-bf56-6b304bd3f1c7",
+      "Value": "\"I want to show you how it's done.\" {n}She extinguishes the fire quickly, and takes the final step towards you, wrapping her arms around your neck and kissing you passionately.{/n}"
+    },
+    {
+      "Key": "a6b2fd82-6d9e-4d71-9fca-9cbd2239aead",
+      "Value": "{n}Kanerah trills with laughter.{/n} \"I especially liked the part about 'night'! And you know what I think?\""
+    }
+  ]
+}

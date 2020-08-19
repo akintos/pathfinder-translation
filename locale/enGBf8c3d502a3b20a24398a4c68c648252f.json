@@ -1,0 +1,225 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "cdb8fec6-bfca-4927-a2e0-0aa8bb501693",
+      "Value": "\"Jaethal, stop! You cannot do this to your daughter.\""
+    },
+    {
+      "Key": "0bc8c0bd-24c5-4a1c-91ae-b6fedd4097bb",
+      "Value": "\"Life is full of feeling and pleasure, which cannot be tasted by the undead. Take the body of your daughter, Jaethal, and be reunited with your desires.\""
+    },
+    {
+      "Key": "e27d0bda-bc7f-477c-94e0-534333a3fc8d",
+      "Value": "\"Un-life has provided you with new powers, and placed you above the laws of nature. Sacrifice your daughter, as Urgathoa wishes, but remain what you are.\""
+    },
+    {
+      "Key": "700a667c-8b11-4ce1-b9d6-4155179cd9d0",
+      "Value": "\"Do whatever you wish. I care not what you choose.\""
+    },
+    {
+      "Key": "7f0d7cbe-8201-43ec-92ff-1fb072294404",
+      "Value": "[Attack Jaethal] \"My patience is at an end! I can no longer tolerate your evil ways!\""
+    },
+    {
+      "Key": "0ff921ea-517e-4b31-88d1-37570a196dc3",
+      "Value": "\"She's your daughter. Don't you have at least an echo of love for her?\""
+    },
+    {
+      "Key": "50690ff2-cceb-4ebd-b86f-f467762d6934",
+      "Value": "\"You surely put much effort into raising your daughter. Were you proud of what she became, or am I wrong? Do you really want to sacrifice all this now?\""
+    },
+    {
+      "Key": "4c546ae4-d2d9-4f97-84cf-d3c9ea2b57b2",
+      "Value": "\"This is what turned Nortellara against you in the first place. Break this chain of senseless violence before it's too late.\""
+    },
+    {
+      "Key": "7283f0f5-53e0-4ae6-9b16-0b6d13fc5fb9",
+      "Value": "\"Can't you see what has your life has become? Blood is spilled again and again, and every time there's more.\""
+    },
+    {
+      "Key": "1fce4caa-0621-4b75-beb4-637aa439fa78",
+      "Value": "\"Remember the girl at the camp near the Thorn River? She would rather die than become undead. You bear destruction and grief. Those are the 'gifts' you offer. It's what Urgathoa gave to you.\""
+    },
+    {
+      "Key": "383c781f-e2b1-4645-9530-dfe0e3d2373d",
+      "Value": "\"Remember the story of Taneka? You can blame Enneo for what happened to her, but in truth it was her faith in Urgathoa that condemned her, and offered her no comfort in her time of need.\""
+    },
+    {
+      "Key": "9afc53f7-427e-433e-b717-55eab21332bf",
+      "Value": "\"Urgathoa awakened your worst side, Jaethal. But I have seen another side of you — purposeful, stubbornly seeking answers, respectfully speaking of Enneo's dedication, despite the fact that he was your enemy.\""
+    },
+    {
+      "Key": "8ea594d7-ba99-4e15-b58a-1776f290f6cf",
+      "Value": "[Attack Jaethal] \"If so, I have no other choice but to stop you by force.\""
+    },
+    {
+      "Key": "7379d74f-edda-4253-87ed-0786642e4689",
+      "Value": "\"I don't have any more arguments.\""
+    },
+    {
+      "Key": "f8c0b737-0f25-4e89-9b58-d7bbc84a6848",
+      "Value": "\"Taneka's ritual? What will happen if you use it?\""
+    },
+    {
+      "Key": "4cbcb028-d694-4aaa-bbea-a848bf9bc0ba",
+      "Value": "{n}Jaethal approaches the fallen Nortellara and freezes like a statue. The scene from the elven camp at the {g|Thorn River}Thorn River{/g} repeats itself once again, but now instead of some unknown elven girl, her own daughter lies at the inquisitor's feet, and she seems still alive.{/n}"
+    },
+    {
+      "Key": "458324b0-4e5e-492c-b840-80eac159ac73",
+      "Value": "\"I... hear you.\" {n}Jaethal speaks under her breath, and you realize that she is talking neither to her daughter, nor to you, nor anyone else. For a moment you are filled with the strange sensation of someone else's presence — someone evil but somehow jubilant — and then the feeling fades. Jaethal's eyes grow clear.{/n} \"Yes, mistress. I am ready.\""
+    },
+    {
+      "Key": "c8d63eee-e027-4585-be4b-1835f25518cc",
+      "Value": "{n}Jaethal turns to you. The dark eyes of the undead creature glow like a night sky pierced by lightning.{/n} \"{g|Urgathoa}Urgathoa{/g} has declared her will. The goddess demands a sacrifice of me, and she is prepared to grant me her blessing in return. I will become Herald of her will, her perfect follower, the impeccable undead. But she requires blood. Blood — and the life of my daughter, taken here and now.\""
+    },
+    {
+      "Key": "b0b6140a-bf98-4ca1-989c-ba58f01084c3",
+      "Value": "\"Don't let her do it, {name}. Killing her own daughter or taking her body — this is true, genuine evil. There can be no way back. Neither for Jaethal nor for any of us.\""
+    },
+    {
+      "Key": "ca276608-9cff-4556-ade0-da20af95f37d",
+      "Value": "\"The girl's got herself into trouble, and she deserves a beating for it. Both of them, in fact — mother and daughter.\""
+    },
+    {
+      "Key": "7eb7984a-491f-44ba-a2bb-09cd7846637b",
+      "Value": "\"Here's my expert opinion: the situation looks quite bad, and you must decide carefully here. Interfering in the affairs of the gods might be a bad idea.\""
+    },
+    {
+      "Key": "69e58f05-735e-420e-b1fb-28bf78abe414",
+      "Value": "{n}Nortellara struggles to open her mouth.{/n}\"So, you wish to feed me to your ravenous goddess? It's just what I'd imagine she would want!\""
+    },
+    {
+      "Key": "7eb93cf3-4fd6-4e6f-9b9f-9ce8600a1989",
+      "Value": "{n}Jaethal turns to you. Her eyes are glowing with a cold flame.{/n} \"{g|Urgathoa}Urgathoa{/g} wants me to choose one of the two paths of faith. I can use Taneka's ritual to regain a living body, with all the pleasures that it offers. The children I can then bear will be the source of my immortality. I will become an eternal spirit, changing temporary vessels, and even the ages-long lifespan of the elves will be to me as a season.\""
+    },
+    {
+      "Key": "e23613e0-5f14-4ea7-96f6-47db15258af1",
+      "Value": "\"There is another way. I will remain undead, eternal, unchanging and impeccable. In exchange for my final sacrifice, {g|Urgathoa}Urgathoa{/g} will grant me new power. A perfect spirit, or perfect undead. Either way, I shall be her perfect follower. All that my goddess requires of me is the life of my daughter — here and now.\""
+    },
+    {
+      "Key": "50191765-a0ce-4531-a8da-6f4edb1a8601",
+      "Value": "{n}Jaethal's eyes look stern and motionless.{/n} \"Do you understand what you ask? I cannot resist {g|Urgathoa}Urgathoa's{/g} will, even if I had good reason to do so. The gods do not forgive disobedience. I have served you well, but now I must have what I so desperately need.\""
+    },
+    {
+      "Key": "0da5efa3-ca4f-44fe-bbea-4053698e93f3",
+      "Value": "\"Have I ever given you any reason to believe that stupid sentimentality means something to me?\""
+    },
+    {
+      "Key": "03db623d-1972-4ee9-842f-3c7ed9e77029",
+      "Value": "{n}A barely-noticeable shadow of doubt runs through the depths of Jaethal's dark eyes.{/n} \"I... I will regret it. Perhaps I will even feel sad — once or twice a year. But I will not turn back. I cannot turn back.\""
+    },
+    {
+      "Key": "c26a10b3-a2d3-41d1-9578-68617668db88",
+      "Value": "\"Do you suggest I sacrifice myself for the sake of what is 'good' and 'just'? I cast these sentiments from my mind, together with {g|Kyonin}Kyonin{/g} and my service to their court.\""
+    },
+    {
+      "Key": "fdd0ae32-f90e-4c94-9144-07011f3a5246",
+      "Value": "\"Again, my good-hearted patron, stepping in to denounce me! But I give you credit — at least you are consistent. I can respect that.\""
+    },
+    {
+      "Key": "0b6bf7ea-90a1-4ac2-bf86-aa68e6fc0959",
+      "Value": "\"I don't recall you condemning me earlier, and you knew all about the murders I committed in {g|Kyonin}Kyonin{/g}.\""
+    },
+    {
+      "Key": "6caf6bf7-2dd5-4bae-8016-b50f14263c25",
+      "Value": "\"I didn't want to torture her, only to {d|Jaethal Kill Elf}preserve{/d} her youth and beauty for eternity!\" {n}Jaethal takes a long look at her daughter, as if comparing the two girls, and recalling the fate of the first.{/n}"
+    },
+    {
+      "Key": "a9376940-a21c-4cc6-bd5b-a238756c4a07",
+      "Value": "\"But wasn't it you, {name}, who convinced me to {d|Jaethal Keep Elf}keep{/d} the girl as undead, against her will? It didn't seem at the time that my actions were so destructive.\""
+    },
+    {
+      "Key": "f178dba3-8256-4be8-bbc9-4c34ee38c752",
+      "Value": "\"She {d|Jaethal Taneka Dead}was{/d} foolish, weak — unworthy of {g|Urgathoa}Urgathoa's{/g} gifts. With me it will be different. I shall live as I wish. I won't run from my enemies like a rat.\" {n}Jaethal's face remains motionless, and yet it seems that the memory of Taneka's terrible fate stirs in her some unspoken feeling.{/n}"
+    },
+    {
+      "Key": "b72ff80b-cba1-4330-b75f-7b0367deb382",
+      "Value": "\"But she became much happier once she was turned into an undead. You yourself {d|Jaethal Taneka Undead}convinced{/d} me to give her that gift, that she might continue her miserable existence. Is that not a recognition of {g|Urgathoa}Urgathoa's{/g} strength?\""
+    },
+    {
+      "Key": "ef4c2ad0-799e-4076-8555-59dc6616e3ca",
+      "Value": "\"You speak the truth. Sometimes I feel that senselessly drifting in a sea of pleasure would never be enough, even if I got everything I could possibly want. But refusing the goddess means suffering her wrath.\""
+    },
+    {
+      "Key": "122770cf-422f-4b2f-b66f-c9781dd2d665",
+      "Value": "\"How can you talk about my 'worst' side? Have you not told me in the past that there's nothing more important than pleasure?\""
+    },
+    {
+      "Key": "55f17a8c-a6e3-4251-bf28-2b14cafe0fdf",
+      "Value": "{n}Nortellara is barely able to move her lips.{/n} \"A fine choice. I always knew that {g|Urgathoa}Urgathoa{/g} would someday demand it from you. My life.\""
+    },
+    {
+      "Key": "979912ed-cea3-4df1-a1d9-a86ee44bd85f",
+      "Value": "\"You are right. This is my destiny. Farewell, my sorrow. At least you will do me one final service!\""
+    },
+    {
+      "Key": "c369489c-2175-4af0-a9d8-3dccb4972c8a",
+      "Value": "\"So let it be. The one born of me shall be destroyed by me. There's always a way out,\" {n}says Jaethal, as if continuing an old argument.{/n} \"But not for you, Norte.\""
+    },
+    {
+      "Key": "c229c3e0-1dd9-4a26-bc9d-b1b1a96fa0fa",
+      "Value": "\"Good, then it is decided.\""
+    },
+    {
+      "Key": "56e57a25-c536-475d-b741-ddfd9c91a70a",
+      "Value": "{n}Jaethal suddenly stops speaking and remains silent for a long time. Her empty, undead face does not betray the thoughts and feelings rushing through her mind, behind the mask. She glances at you, her daughter, the grass, the trees, the sky — as if trying to put them all into the same picture.{/n} \"I've come such a long way...\" {n}She says finally.{/n} \"Eternal escape. Life in constant expectation. Decisions made for me... Should I... finish all this?\""
+    },
+    {
+      "Key": "be3304a0-3732-464e-a18a-c44b249b4fa9",
+      "Value": "\"Fine.\" {n}Jaethal looks at her daughter and speaks with simmering calm.{/n} \"Do not dare disappoint me, girl. I do not wish to learn that I gave up so much for an ordinary worthless being who cannot manage her life. Be exceptional in everything you do.\" {n}Jaethal straightens her shoulders with a nervous movement, and looks straight ahead.{/n} \"I must disappoint you, goddess. I reject your gift.\""
+    },
+    {
+      "Key": "81363133-2759-4ec6-ad2a-fd2f3b2e5ddf",
+      "Value": "\"I don't see any further sense in this dispute,\" {n}Jaethal says sternly.{/n} \"Decide, {name}.The time for talk has passed.\""
+    },
+    {
+      "Key": "b64a4d6d-e530-4d13-bb7f-25b5665a2045",
+      "Value": "\"Rebirth. In a way.\" {n}Jaethal looks at her daughter.{/n} \"The power of the blood bond is great. {g|Urgathoa}Urgathoa{/g} will extract my spirit from this dead body — and move it to a new, living one, which I once gave birth to.\""
+    },
+    {
+      "Key": "3e326536-94c6-4e74-9d23-537cac84674b",
+      "Value": "\"A body you once gave birth to?\" {n}Nortellara repeats quietly.{/n} \"I was prepared to kill you. I was prepared for you to kill me. But I never imagined that I would be no more than a vessel.\""
+    },
+    {
+      "Key": "076d124c-7aaa-427f-bb96-651488066a37",
+      "Value": "\"No mere vessel, child. A priceless gift.\" {n}Jaethal speaks with a face of stone.{/n}"
+    },
+    {
+      "Key": "e60bd246-7d4c-4717-a2a3-ebe5126e1b4f",
+      "Value": "{n}Nortellara wearily rises to her feet, tosses her head and begins to say something, but does not have time. Jaethal swiftly throws up her hands and casts some unknown spell. A dark flame billows from her hands and envelops Nortellara's body for a moment. The girl screams. When the flame disappears, her body bears no visible damage, but her eyes are completely empty, like those of a doll or a statue.{/n}"
+    },
+    {
+      "Key": "2197e295-d776-4547-a1a9-9e0e950a714b",
+      "Value": "{n} Jaethal takes a long look at her creation, then makes a gesture — and what remains of her daughter turns and marches toward the road to the capital. The movements of soul-less body resemble a puppet in a fairground.{/n} \"I shall send it to a safe place. It will take time to prepare the vessel for the ritual. But how sweet the wait shall be...\" {n}Jaethal looks straight into your eyes.{/n} \"There's always a way out, isn't there?\""
+    },
+    {
+      "Key": "b1a17f3f-dd1b-4631-a46e-aaf27539d6b6",
+      "Value": "{n}Nortellara's eyes widen, but she doesn't utter a sound. She's either too exhausted or too proud to ask for mercy.{/n}"
+    },
+    {
+      "Key": "08691f72-d567-4397-a965-6a0a99bd1ebd",
+      "Value": "{n}For a moment, Jaethal freezes in a strained pose, as if gathering her strength.{/n} \"Let this be my new beginning. {g|Urgathoa}Urgathoa{/g}, accept this sacrifice!\""
+    },
+    {
+      "Key": "29e398c3-9a19-48ab-b9e2-276247962ab1",
+      "Value": "\"What are you talking about? Even killing her wouldn't be so cruel! You're even more vicious and terrible than I could have imagined, Jaethal.\""
+    },
+    {
+      "Key": "8b2f5006-c159-4f99-ab24-1bea3c4053b5",
+      "Value": "\"Oh radiant {g|Sarenrae}Sarenrae{/g}, how can such evil be tolerated?! Have I chosen the right path...? The right leader?\""
+    },
+    {
+      "Key": "5a3c0b9c-801b-4891-8cdc-ef099e62f308",
+      "Value": "\"I hope you know what you're doing, {name}... but I just can't watch! Betrayal from your own mother, death at her hands — no one... no one deserves such a fate!\""
+    },
+    {
+      "Key": "6509afe7-abb7-43ce-aa13-c412547e2bca",
+      "Value": "\"Yes, Jaethal. You have to.\""
+    },
+    {
+      "Key": "8ae12b14-f9b6-4d28-b50c-50c50860ee2b",
+      "Value": "{n}Harrim's voice is deep and solemn.{/n} \"All things come to an end. Even your pride, even attempts to cling to a ruined life. Let go of the past, Jaethal. You should have done this long ago.\""
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "85d31aa1-3010-4b62-97fd-66e1a06a3f88",
+      "Value": "{g|Arcane6_1}[Choice effects]{/g} \"From this day forth, the creation of undead, no matter the intent, is forbidden, and shall be punished by law.\""
+    },
+    {
+      "Key": "e2b78062-5a8d-4f4e-8bf8-9642281541cb",
+      "Value": "{g|Arcane6_2}[Choice effects]{/g} \"My decision stands. Any subject who has received a necromancer's license may carry on with their work as before.\""
+    },
+    {
+      "Key": "5cb00e2f-a31a-40d3-bc5b-d6d902f152e8",
+      "Value": "\"I trust in your vision. Act as you deem fit.\""
+    },
+    {
+      "Key": "b18df751-cdac-4452-8214-6268c80d1a6e",
+      "Value": "{g|Arcane6_3}[Choice effects]{/g} \"He has my permission. Let's see if his golems are as good as he claims.\""
+    },
+    {
+      "Key": "9b84d1ba-622a-4438-843b-ad5c0709180e",
+      "Value": "{g|Arcane6_4}[Choice effects]{/g} \"We shall not employ his services.\""
+    },
+    {
+      "Key": "4f36abe5-2533-4512-9f22-43a442635da7",
+      "Value": "\"You may resolve this issue as you see fit.\""
+    },
+    {
+      "Key": "498fe3d6-d6b3-4148-8a25-fc22de82bb39",
+      "Value": "{n}Octavia looks worried.{/n} \"Our dalliances with necromancy have not gone unnoticed, {name}. The priesthood of {g|Pharasma}Pharasma{/g}, the goddess of fate and death, has sent a delegation to our capital. The goddess abhors the undead, and her followers demand that we 'put an end to the blasphemy' – that is, stop creating undead laborers.\""
+    },
+    {
+      "Key": "4e39b90a-12fa-4491-a7dc-ce5a585ebf26",
+      "Value": "\"A delegation of pharasmites has entered the capital, Your {mf|Grace|Grace|Highness|Highness}. Necromancy disrupts the natural cycle of life and death, and for that reason {g|Pharasma}the Lady of Graves{/g} forbids the practice of this foul craft. Her priests and her faithful demand that we ban necromancy across your lands and put an end to this blasphemy.\""
+    },
+    {
+      "Key": "fbd03dae-be8d-44c8-80c7-ce1629fee9fc",
+      "Value": "{n}Today, as always, \"Maegar\" is clearly not in high spirits...{/n} \"This world is replete with meddlesome idiots. I am plagued by pharasmites. Their goddess hates the undead, so they're constantly demanding that we surrender our undead slaves and ban the creation of new ones.\""
+    },
+    {
+      "Key": "514b3ba8-cd1b-4a44-b285-635bc2bf9540",
+      "Value": "\"I think we should listen to the priests. Raising undead is an evil, violent act. It cuts away and corrupts a fragment of the departed soul. We never should have allowed this dark craft in our lands… and it is high time we put things right!\""
+    },
+    {
+      "Key": "6bdb30d1-81ac-4ecf-8eb3-9233589723e7",
+      "Value": "\"I believe that we should agree to their request. This is only because the availability of cheap undead slaves has led to the impoverishment of living laborers. But worse, in order to create an undead minion, a mage must cut away a miniscule fragment of from the departed soul, and corrupt it with negative energy. They then plant this seed back into the dead body. Nothing can justify such depravity.\""
+    },
+    {
+      "Key": "b275c7f5-a0c4-4483-91cf-f8f82a50a60b",
+      "Value": "\"Their incessant wailing makes my teeth hurt. The imbeciles must learn their place – and we must put an end to their complaints once and for all. Need I remind you that necromancy is the only path that leads to true power?\""
+    },
+    {
+      "Key": "c81b5d75-c009-4d8f-a48c-d34c96affffc",
+      "Value": "{n}Octavia gives a sigh of relief.{/n} \"A decision that should have been made long ago!\""
+    },
+    {
+      "Key": "5b9bd582-43e1-44e0-89f1-5cfdb9710c84",
+      "Value": "\"Very good. In that case, raising the undead shall become illegal.\""
+    },
+    {
+      "Key": "65968046-6d63-4527-af19-86f1d276aa46",
+      "Value": "{n}The Storyteller nods.{/n} \"I shall inform {g|Pharasma}Pharasma's{/g} faithful that they may rest easy.\""
+    },
+    {
+      "Key": "7387283c-a188-43f4-8bd9-0b8d05004609",
+      "Value": "\"Splendid. I shall decline the pharasmites' complaint, may they find themselves in their goddess' cold embrace as swiftly as possible.\""
+    },
+    {
+      "Key": "c4a2fe7a-31f6-44f4-8744-640e0df7733c",
+      "Value": "\"An amazingly impudent fellow, {name}! I have been approached by a wizard from Nex, who has learned to create golems from piles of literal junk: splinters of wood, rusty nails, broken furniture… He asks your permission to set up shop in the capital and start selling these junk golems. In return, he promises to provide us with a few of his finer creations. Now, you may find this surprising... but I am convinced that we must reject his proposal.\""
+    },
+    {
+      "Key": "479eda8f-bd2b-429a-b07d-12777665bf2e",
+      "Value": "\"A most interesting proposition, Your {mf|Grace|Grace|Highness|Highness}. A wizard from Nex has offered to create a number of golems for us, using only the rubbish that litters the capital's streets.\""
+    },
+    {
+      "Key": "b4fe1d97-070f-40ea-83a6-9cf06926a6dc",
+      "Value": "\"We've received a curious offer. Some upstart from Nex has mastered the art of creating golems. Even more, he assembles their bodies out of whatever junk he can find. – A simple rubbish heap is typically enough. He is willing to grant us a few specimens in exchange for permission to open a shop and sell his golems in the capital. There's no reason to refuse. We could use a few workers who don't ask any questions.\""
+    },
+    {
+      "Key": "7dbb13b9-aaee-4d0e-9a6f-5c949734c41e",
+      "Value": "\"I believe we should take him up on his offer. Golems are perfectly well suited for guard duty, as well as hard physical labor. Usually, creating them can be rather costly. However, the mage will take care of all the expenses – in exchange for your permission to set up shop in the capital.\""
+    },
+    {
+      "Key": "de4dc303-5bf2-4f14-af3e-68b4cebd1e2d",
+      "Value": "\"I shall instruct the mage to begin.\""
+    },
+    {
+      "Key": "b89be95d-b2f2-414b-9f7e-f1dceefa89d1",
+      "Value": "{n}\"Maegar\" nods impatiently.{/n} \"Wonderful.\""
+    },
+    {
+      "Key": "86d9cb9f-2ae2-44c6-aa85-c1cb44820872",
+      "Value": "\"Perfect. It will be my pleasure to get rid of this crook.\""
+    },
+    {
+      "Key": "70462223-e45b-4407-a766-c0de914fff50",
+      "Value": "\"In that case the mage shall begin immediately.\""
+    },
+    {
+      "Key": "07e458ae-8d65-4736-b9f8-ed448710aeea",
+      "Value": "\"Moreover, the bumbling fool somehow stumbled upon a way to eradicate the main flaw of many types of golems – the chance that the construct might go berserk. Golems are animated by enslaving an elemental spirit and binding it to an artificial body. Sometimes these spirits can go out of control. However, this Nexian shyster has found a way to strengthen the magical restraints that hold them captive.\""
+    },
+    {
+      "Key": "1ba34dfd-cd02-4b51-ab49-70526f57528a",
+      "Value": "\"Do you know how golems are created? A mage must ensnare a living spirit from one of the elemental planes – most typically, an earth elemental – and bind it to the construct. This means that golems are no better than slaves – after all, elemental spirits are living, sentient beings. The mage even brags that his golems 'never go out of control' – as if total domination of a spirit makes the whole thing any less cruel!\""
+    },
+    {
+      "Key": "2d044726-5d7d-43fb-a90f-76a4f2025e3f",
+      "Value": "\"After assembling the body out of various junk, he binds to it an elemental spirit, which lends the construct a semblance of life. In some golems, this enslaved spirit may go out of control and become berserk. However, the mage assured me that he has been able to completely eradicate this flaw. All he needs now is your permission – and access to our rubbish heaps.\""
+    }
+  ]
+}

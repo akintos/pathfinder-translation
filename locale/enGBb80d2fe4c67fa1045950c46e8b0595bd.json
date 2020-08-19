@@ -1,0 +1,69 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "a9bf80d9-1000-4e91-9e49-81556ffde719",
+      "Value": "[Leave]"
+    },
+    {
+      "Key": "56bb6aee-c0e4-4eed-83ec-88d728687044",
+      "Value": "[Ring the bell]"
+    },
+    {
+      "Key": "00f6c363-2653-4a9e-ac72-6e0e77abd4a3",
+      "Value": "[Open the gate and enter]"
+    },
+    {
+      "Key": "0cd20122-ef32-4195-98c0-5911e6f5ed88",
+      "Value": "[Gently throw a little pebble at the window]"
+    },
+    {
+      "Key": "b617e227-e66c-4cf5-8a2c-2e976944d55f",
+      "Value": "\"Anyone here?\""
+    },
+    {
+      "Key": "e3f8ef28-d3b0-4cbf-9a65-30702a9b2542",
+      "Value": "[Detect Magic] \"Let's see if there's any enchantments on this gate…\""
+    },
+    {
+      "Key": "24192f3d-1352-4d16-9fee-3eb365319f8e",
+      "Value": "[Detect Magic] \"That scarecrow looks like it might be trouble…\""
+    },
+    {
+      "Key": "a5caa02f-0b1a-44ed-91d8-bb2a25412ca9",
+      "Value": "{n}The pebble hits the window with a KLAK. After several moments, the door creaks open and an old woman with a tangle of grey hair and greenish skin steps out — her eyebrows and ears taper to sharp points. {/n}\"Who's causing all this mischief?\" {n}The woman scans the porch with a baleful eye, and her gaze locks on the pebble.{/n} \"Throwing rocks now?! What, you think that bell hanging there is just for show?!\""
+    },
+    {
+      "Key": "89377628-a03b-4756-8343-0533272bf35a",
+      "Value": "\"What in everlasting damnation…?!\" {n}After a few moments, the door creaks open and an old woman with a tangle of grey hair and greenish skin steps out.{/n}"
+    },
+    {
+      "Key": "61f584a0-51c5-4c1c-99fe-1264c7aa9f6e",
+      "Value": "{n}No matter how loud you shout, no one answers.{/n}"
+    },
+    {
+      "Key": "d50fbd9a-8cf5-44ad-b49c-7e6219782a87",
+      "Value": "{n}Your aim is true, but you've put too much strength in your throw — the window shatters! You hear shrill curses from inside the house.{/n}"
+    },
+    {
+      "Key": "8f8f7e9a-59dd-4d19-8e0c-1440fb0bb81b",
+      "Value": "{n}This house differs from the others — it's the only one that looks habitable. A low, almost-defeated fence rings it, smoke rises from the chimney, and you can smell what could be a stew — heavily spiced. Even glass windows, adorned with drapes, are intact. A small, dented brass bell hangs near the front gate, and a well-swept path leads from the gate to the door of the house. Along the side of the house lies a garden — vegetables, it seems — and in the middle of the garden, you see a scarecrow with black stones for eyes and a wicked grin stitched on its burlap face.{/n}"
+    },
+    {
+      "Key": "9d7ef7d7-74e9-4b3d-9ef5-96a35be4fa07",
+      "Value": "{n}The gate and the bell bear a simple enchantment that alerts the caster — presumably the owner of the house — about uninvited guests.{/n}"
+    },
+    {
+      "Key": "3220ad5c-4f6d-4787-ba4e-60769c379c60",
+      "Value": "{n}The scarecrow's aura is strong, almost like a lightning flash to your senses. It is not a bundle of sticks and rags — it's a dangerous ward to protect the home from trespassers.{/n}"
+    },
+    {
+      "Key": "3df4351f-6a81-45eb-b816-6f0f1c4fafd4",
+      "Value": "{n}As you snap the gate, you hear a slow creak and the snapping of tree branches — the scarecrow has stepped from its pole! Its stitched grin splits, revealing a wicked row of teeth.{/n}"
+    },
+    {
+      "Key": "cd4f2820-daeb-4eef-985e-df67e3323230",
+      "Value": "\"Ha ha ha! Great throw! That smashed it to pieces! Nice!\""
+    }
+  ]
+}

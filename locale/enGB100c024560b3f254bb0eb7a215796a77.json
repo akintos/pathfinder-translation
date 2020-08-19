@@ -1,0 +1,85 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "7570a0c1-03b2-4f21-ba22-19ca0a8acb04",
+      "Value": "\"I wish to know more about the Black Marquis and his Protectorate.\""
+    },
+    {
+      "Key": "eab476a3-9697-4564-8d67-3dce3a568e6c",
+      "Value": "{g|Relations5_1}[Choice effects]{/g} \"Show him how strong our army is. They'd better not cross swords with us.\""
+    },
+    {
+      "Key": "24e59afa-d46f-4c1a-b3c2-5760ec442202",
+      "Value": "{g|Relations5_2}[Choice effects]{/g} \"Show him we're rich, and he'll conclude that they'll be better off as our friends.\""
+    },
+    {
+      "Key": "41cb6412-504d-441b-b18a-6d061416227c",
+      "Value": "{g|Relations5_3}[Choice effects]{/g} \"Deceive him. Convince him we're a backwards country with little to offer.\""
+    },
+    {
+      "Key": "f6063082-1cdc-496d-8151-bec29d62358f",
+      "Value": "\"I will leave this decision to you.\""
+    },
+    {
+      "Key": "f5d8293e-7d8b-4003-a359-01131a886783",
+      "Value": "\"{name}, we've arrested a strange man. He was making a map of our rivers and bays. Upon his capture, he shouted that he serves the Black Marquis, and was sent to create a map of the local trade routes. But pirates are full of guile, and this map might be used not for trade, but for raids. What are we going to do with him, being that he's admittedly serving another king?\""
+    },
+    {
+      "Key": "5f395075-c7d0-4d88-80f8-ef6b8eb91824",
+      "Value": "\"{name}, we captured a suspicious man. He was making a map of our rivers, bays and backwaters. When he was placed under arrest, he admitted that he serves the Black Marquis. By his account, he was sent to create a map, in order to arrange trade with us. But I'd more likely believe that the pirates are preparing for a big raid.\""
+    },
+    {
+      "Key": "c7de39f4-d7f8-40ef-9a67-d3695d2a15f9",
+      "Value": "\"{mf|Your Grace|Your Grace|Your Highness|Your Highness}! I'm afraid I have bad news. Today by the river they caught a man making a map of rivers and bays in our lands. He said he was a scout for the Black Marquis, and was drawing a map to open a trade route with us. But everyone knows the greedy and deceptive nature of these pirates. It's more likely that they're preparing an attack against us.\""
+    },
+    {
+      "Key": "a2579319-997a-42b4-8526-b7f6dbf857e2",
+      "Value": "\"Once a {g|Cheliax}Chelish{/g} pirate named Morgan the White visited the village of Deadbridge to rest and replenish his supplies. He settled there and in time decided to build a whole pirate nation there! Those joined him began to collect duties from foreign ships, but they never touched the ships of the {g|River Kingdoms}River Kingdoms{/g}. Thus he gained the support and respect of his neighbors. That's how the Protectorate was created.\""
+    },
+    {
+      "Key": "efc839cc-d23e-458c-a541-dcf00e186ca4",
+      "Value": "\"It's a group of pirates calling themselves a country. It was created by a {g|Cheliax}Chelish{/g} bandit Morgan, the White Marquis. But he didn't rule for long. The Protectorate changed hands several times, until the Black Marquis took its helm – the most cunning and treacherous of the White Marquis' henchmen. There is only one law in this land – the law of the pirate. But these bandits don't touch the ships of the {g|River Kingdoms}River Kingdoms{/g}... at least, that's the official tale. But how far that agreement is respected – only the dead can say.\""
+    },
+    {
+      "Key": "cad87eb1-2704-4d6a-b746-a8cbdfecb8e5",
+      "Value": "\"It's a dangerous place. This dominion was founded by a pirate from {g|Cheliax}Cheliax{/g}. When he came across the village of Deadbridge, he saw an ideal camp for pirates and the capital of his future domain. Morgan called on many allies, and ordered that no ships be touched if they fly under the banners of the {g|River Kingdoms}River Kingdoms{/g} – and 'duties' from all other countries be collected. Now the pirate nation is ruled by the Black Marquis, and his subjects are, all of them, pirates and robbers.\""
+    },
+    {
+      "Key": "4fcf3438-a2d0-4f3a-8c10-6151d00eaf14",
+      "Value": "\"I'll show him the strength of our army. After the pirate sees our soldiers, he'll not likely recommend that his Black Marquis ever approach our shores.\""
+    },
+    {
+      "Key": "aab09fe2-ce9c-4d8f-8177-437efd09a753",
+      "Value": "\"Well, maybe it's better we have no business with them. Who knows how much blood there would be on their wares and gold?\""
+    },
+    {
+      "Key": "faf49c9c-99bd-4e96-9212-207d6e62da2a",
+      "Value": "\"Great! When we show off our riches, and convince pirates to trade with us, not fight. I can't wait for an opportunity to chat with the first captains who bring us their goods!\""
+    },
+    {
+      "Key": "fb650192-397f-4690-bd0d-70225c1e36dc",
+      "Value": "\"Hm.... You're probably right, {mf|Your Grace|Your Grace|Your Highness|Your Highness}! Your courage allows you to see their greed, whereas I, due to my humble nature, am too horrified by their cruelty to see anything beyond it. I do hope our riches tempt them to start trading with us.\""
+    },
+    {
+      "Key": "3377b691-d7a5-4431-a4cf-dbf9ebc8b718",
+      "Value": "\"Hm... Fine, I'll lead him past the pigsties and chicken houses, so he thinks it's our main avenue. Let's hope it works. Although acting has never been my strong suit.\""
+    },
+    {
+      "Key": "2d927230-2b22-4a08-98a8-31185dfb0005",
+      "Value": "\"Great! This pirate will doubly regret his mission, because there's nothing worthy waiting for him here!\""
+    },
+    {
+      "Key": "239a2ba8-0cce-46f7-8a9b-9577946add0d",
+      "Value": "\"The prisoner awaits his fate. We could receive him as an honorable guest, showing off our riches and power. But it would only whet the pirate's appetite. Better to show him an empty corner where there's nothing to take. But only demonstration of military power would make these pirates forget the road to our lands. Everything else is a half-measure.\""
+    },
+    {
+      "Key": "128a44dc-9341-41b2-9e2b-c475016f0815",
+      "Value": "\"I do not recommend we try impressing him with military parades. Pirates are fearless and stupid, they're not afraid of a stronger opponent. It's better we receive him as a dear guest and convince that it would be beneficial to be friends with us. Or we could do the complete opposite, and pretend we're a poor backwards country, with no treasures or riches whatsoever! This would yield the best result!\""
+    },
+    {
+      "Key": "305d669b-c4c5-4f91-add2-15ea44613a3b",
+      "Value": "\"The most important thing now is to appear strong and influential. If we demonstrate our military power, the pirates will be afraid to face us. Even better – we could show them our riches. Whether or not the story about trade routes is a tale, we can let the Black Marquis wonder if he'd be better off if he were our friend.\""
+    }
+  ]
+}

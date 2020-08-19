@@ -1,0 +1,93 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "2d32ccde-f2b9-4c97-a840-70b8f26c9278",
+      "Value": "{g|Stability2_1}[Choice effects]{/g} \"I order the guard doubled in all settlements.\""
+    },
+    {
+      "Key": "fc175a77-5501-4657-a9d0-b4d8c75336de",
+      "Value": "{g|Stability2_2}[Choice effects]{/g} \"I order a curfew.\""
+    },
+    {
+      "Key": "219b83db-925e-4713-8b0e-fe9dede4be85",
+      "Value": "{g|Stability2_3}[Choice effects]{/g} \"Let them get used to taking care of themselves.\""
+    },
+    {
+      "Key": "ff174daf-720d-4fd0-a886-e5185863e4d1",
+      "Value": "\"You're the Warden – you know what to do.\""
+    },
+    {
+      "Key": "d5d17a72-a691-4975-aa5e-ed61ac1eaa81",
+      "Value": "{n}Kesten bows hastily and starts talking right away.{/n} \"Bandit attacks continue in your {mf|barony|barony|kingdom|kingdom}. In some places, the people are scared of leaving their houses even at dusk, not to mention in the dead of night.\""
+    },
+    {
+      "Key": "822bb815-fbb6-477b-a66f-b41472be366e",
+      "Value": "\"As your Warden, I recommend we double the number of guards. That will allow us to keep the situation under control. I will arm everyone I can, and hasten their training.\""
+    },
+    {
+      "Key": "3d5ee7be-7ead-48bb-abc5-c84f8fffa3b0",
+      "Value": "{n}Ekun looks sullen.{/n} \"There's disaster. Everywhere. The Stag Lord may be gone, but there's still much trouble in your lands. Robbing and killing on the roads...\""
+    },
+    {
+      "Key": "dd7190f6-9740-4dbe-b350-52e9786aac3f",
+      "Value": "\"You must do something. Protect the people. My advice? A curfew. Announce a time of night when people remain inside their homes. My guard will maintain order.\""
+    },
+    {
+      "Key": "59f03c29-1b67-4eb8-94ad-9bdb2eb51fb2",
+      "Value": "{n}The half-orc grins darkly.{/n} \"Sometimes your subjects make me wonder. They live in the {g|Stolen Lands}Stolen Lands{/g}. They've always got plenty of bandits around, but they start families here, they raise their kids – all while they keep complaining that the bandits won't let them live! And they don't ever leave!\""
+    },
+    {
+      "Key": "12c9a087-569a-4d3f-a2e3-67325d4811c8",
+      "Value": "\"Well, the peasants finally got to me with all their nagging about bandits. But I'm fine, I can handle it. I've just got to try to ignore them. I've already lived here long enough to understand: as soon as the locals realize no one is going to protect them, they'll stop whining and take up arms themselves. Give them a chance to show their worth!\""
+    },
+    {
+      "Key": "f59f7fc5-0dfb-4362-8c11-a7ad9906e457",
+      "Value": "\"Will do, {mf|Your Grace|Your Grace|Your Highness|Your Highness}!\""
+    },
+    {
+      "Key": "a27fe94b-af72-46c2-b433-26fb41755dc9",
+      "Value": "\"You know what's best.\""
+    },
+    {
+      "Key": "9aa8d399-fdc4-4125-86ff-283eeaba9608",
+      "Value": "{n}Regongar cringes with disgust.{/n} \"So the guards will loiter in the streets rather than clearing out the bandits' lairs? Your barony won't go far at this rate!\""
+    },
+    {
+      "Key": "e8314e03-d820-4b0d-8767-1c73aaf05c40",
+      "Value": "\"Right. I will give the order.\""
+    },
+    {
+      "Key": "7201f066-a7f8-4ba7-854e-b6e4d24e3576",
+      "Value": "\"At least your subjects won't be crowding the streets like useless sheeple.\""
+    },
+    {
+      "Key": "c7e12711-85a0-42f4-8afe-80b4bfd85fe9",
+      "Value": "\"{mf|Your Grace|Your Grace|Your Highness|Your Highness}! We can't just... lock people up in their houses and hope that the violence will stop!\" {n}Kesten shakes his head, but decides not to continue.{/n}"
+    },
+    {
+      "Key": "b54ce66b-479e-44ac-b522-fbc84faae13e",
+      "Value": "\"They will fail. And when the criminals finish robbing people on the streets, they'll start breaking into their homes. This is a bad decision.\""
+    },
+    {
+      "Key": "79b40a6b-998c-4290-adaf-913591c59a9d",
+      "Value": "\"Exactly.\" {n}Regongar cracks his fingers, as if he's preparing for a fight himself.{/n}"
+    },
+    {
+      "Key": "13332787-ebf7-44d6-a71c-979c5b337ebe",
+      "Value": "\"I will immediately start looking for new guards, and dispatch units to the farthest reaches of the {mf|barony|barony|kingdom|kingdom}.\""
+    },
+    {
+      "Key": "baf6c203-56bd-439a-953c-17b02568f38f",
+      "Value": "\"I will announce time of night when the people should keep themselves inside.\""
+    },
+    {
+      "Key": "4c9d53c3-fb70-4e81-b0d1-a8c0e9c5eead",
+      "Value": "\"Like I said – nothing. You'll see, these petitioners can handle everything themselves.\""
+    },
+    {
+      "Key": "4ae11a43-de26-40d1-934f-2f407cd52371",
+      "Value": "{n}Kesten shakes his head, but doesn't argue.{/n}"
+    }
+  ]
+}

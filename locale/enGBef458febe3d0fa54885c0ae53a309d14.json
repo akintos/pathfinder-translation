@@ -1,0 +1,145 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "406ba4b1-96c8-488d-884b-445c0b49184e",
+      "Value": "{g|Loyalty10_1}[Choice effects]{/g} \"Our gallows cannot wait to meet them. Let everyone see what fate awaits traitors.\""
+    },
+    {
+      "Key": "615d7079-0f11-40d1-853e-eaefe1edd77d",
+      "Value": "{g|Loyalty10_2}[Choice effects]{/g} \"Let them go. We've taught them a lesson. It is sufficient.\""
+    },
+    {
+      "Key": "2b9d4b72-bc8e-4cbf-a208-b4aa2f10c503",
+      "Value": "{g|Loyalty10_3}[Choice effects]{/g} [Gain 10000 gold and 200 BP] \"Free them from their chains. Also free them of their wealth, their estates, their luxurious clothing and any other possessions. It will be seized for the good of the state and its people.\""
+    },
+    {
+      "Key": "425b5d51-cd08-4342-b98b-3105c801f7bc",
+      "Value": "\"You may determine their fate yourself.\""
+    },
+    {
+      "Key": "f7ee9084-418f-4a95-97c0-c113c38e6b30",
+      "Value": "\"The merchants became wealthy because they know how to read and write, and they studied history and geography. Let the people send their children to schools, temples, and sages, so they may learn and grow wiser.\""
+    },
+    {
+      "Key": "4d2e1ac8-6350-4b6b-bf34-37dbab275027",
+      "Value": "\"I want the people to become the kingdom's ears. Keep an eye on any suspicious foreigners. Never discount a strange rumor. Only united can we stand against our enemy's deceptions.\""
+    },
+    {
+      "Key": "ef6c9a61-8aa6-4fb2-b238-0a675b46b98f",
+      "Value": "\"Tell everyone you meet that I'm a just ruler. If our neighbors learn of my people's respect, my fame and power will grow.\""
+    },
+    {
+      "Key": "8914c62c-d67d-4154-becd-0ecdf44f76ad",
+      "Value": "\"But now for some less uplifting news. The guards have exposed a conspiracy of merchants. All the plotters have been arrested, and you must decide their fate. The people are concerned that the rich merchants will simply get away with it. I believe your justice will be served rightly and mercifully.\""
+    },
+    {
+      "Key": "e9f2ef71-f28d-45a0-bfdd-5fc0d04ebc44",
+      "Value": "\"Your citizens gathered in a council today to plan some more new slums. They're naming one of their squares after you. I love how they roll over for you. Not every ruler enjoys such a mixture of fear and love!\""
+    },
+    {
+      "Key": "db15bd8c-68e2-4c5a-92a6-4e068a1f614a",
+      "Value": "\"I am sad for them. I wish someone had stopped them before their conspiracy went too far. Part of the blame for this is also mine.\""
+    },
+    {
+      "Key": "edb1a6ea-815e-4cb3-8f65-18021891855f",
+      "Value": "\"This will teach a harsh lesson to all who witness the punishment. The lesson of fear and respect, {name}. They are the two pillars of every true leader's power.\""
+    },
+    {
+      "Key": "aa2e1745-6ce6-4020-8d46-0c1825903e92",
+      "Value": "\"I hope they recognize how lucky they are, and use this chance to start a new life.\""
+    },
+    {
+      "Key": "7abbc190-9ffc-46e0-b62f-24a9ecfa6d05",
+      "Value": "\"Your softness is sickening. Very well, as you wish. Your pack may consider it a token of generosity.\""
+    },
+    {
+      "Key": "21fc6376-9b54-498a-ae7f-bd0d729e9a43",
+      "Value": "\"I heard it's only when a man has nothing that he recognizes true virtue. Perhaps they'll become better and purer souls without their riches...\""
+    },
+    {
+      "Key": "9397a9ed-56d4-4d2e-adec-1ed68ce127a0",
+      "Value": "\"Hm... You might be doing the right thing. Anyway, they'll be helpless without their wealth.\""
+    },
+    {
+      "Key": "ea6b45b4-6016-4f9b-b3de-f51c6ce44479",
+      "Value": "\"We shall forgive them, but deprive them of their means of bribing people and plotting behind your back. Let their wealth be put into use for the ordinary poor people, and let the conspirators join their number.\""
+    },
+    {
+      "Key": "6f3c4926-bd65-4a38-a54b-a2a783942746",
+      "Value": "\"Dangerous and diseased pack members should be eliminated. I will take care of everything, beginning with these pathetic conspirators.\""
+    },
+    {
+      "Key": "c189f915-4f0a-4521-91a3-f1736d090925",
+      "Value": "\"Another visitor awaits an audience with you. He is the leader of the druids of {kingdomname}.\""
+    },
+    {
+      "Key": "2f35d81f-f02b-4861-81e4-74fe3e6cfc5d",
+      "Value": "{n}Tsanna's face darkens. She seems nervous. Her rat has disappeared gone.{/n} \"Now that the destiny of the conspirators has been decided, please accept another visitor. He is the leader of the druids of {kingdomname}. But beware – he is not as simple as he seems.\""
+    },
+    {
+      "Key": "4ac22d0c-cbe9-4b42-9bcb-62367a112472",
+      "Value": "\"{name}, the city council discussed the expansion of one of the districts today. The square in its center will be named in your honor, by unanimously consent. You deserve the love of your subjects! Not every ruler has a chance to enjoy it.\""
+    },
+    {
+      "Key": "3034f9bf-0851-4110-a7e4-48c8e712966b",
+      "Value": "\"The loyal hounds of your guard arrested the last members of the merchants' conspiracy today. It's time to decide their fates. I would not recommend mercy. It's not as if they'll ever do anything with their lives. Besides, there's only one way to ensure that such a conspiracy never forms again: a harsh punishment for all involved.\""
+    },
+    {
+      "Key": "0def0a5b-f2c8-4973-aa5c-df1d697306a0",
+      "Value": "{n}A sturdy old man with a shaggy beard begins to clear his throat. His penetrating eyes scan you, his face benign and respectful.{/n} \"Long live Your Highness! I am here to speak on behalf of your vassals. – Those who survive by farming the land, which my brothers and sisters have sworn to protect. We were their only defenders before you came. We didn't think of you as a friend at first, I admit. But we were wrong.\""
+    },
+    {
+      "Key": "d4847373-a5ca-40f8-9a6e-ef081dfb040b",
+      "Value": "\"We'll do it, {name}. It will take time, of course, but eventually we'll be better for it.\""
+    },
+    {
+      "Key": "75489cb0-29ca-4521-8068-3d5d7aa7651f",
+      "Value": "\"You're speaking dark words, but I don't want to argue. It is true, in times like these, all our neighbors envy us. Don't you worry. If any trouble stirs up, your guards will be the first to know!\""
+    },
+    {
+      "Key": "b3187d4c-44ec-4e20-9598-c45216cdb039",
+      "Value": "\"It will be done. All your neighbors will hear how your people support you. That will make them respect you!\""
+    },
+    {
+      "Key": "dbb918f7-07b7-42ae-b722-ab16bf577677",
+      "Value": "\"We've seen many things, but a ruler who stands up for the ordinary people against the rich – that's something new. The petty merchants that robbed the people are like the bandits now. They're singing a different tune, and engage in honest trade. For this I thank you on behalf of the druid circle. Tell us what your people can do for you, and your words will be ours. The people heed their druids.\""
+    },
+    {
+      "Key": "a0afff0d-da3c-4c12-8fdc-1304bf8ac5ed",
+      "Value": "\"Your people truly love you. However mighty or powerful a ruler may be, the druids never bear gifts to tyrants or villains.\""
+    },
+    {
+      "Key": "01e9b5d1-cf0c-46bd-a748-6fe84a4af464",
+      "Value": "{n}Tsanna and the old man stare down one another as if discussing something silently. Then the Councilor nods reluctantly.{/n} \"I'm glad to see you have come in good faith, old man. You have delivered the people's message, and we have heard you.\""
+    },
+    {
+      "Key": "9240ba57-48b8-4701-a7ba-006de3049f8a",
+      "Value": "\"Your Highness, the merchants who conspired against you have been arrested. You will have to determine their fate. Naturally, the crowd is out for blood. The smaller traders hope that you will confiscate the conspirators' assets. – They're looking to take their place.\""
+    },
+    {
+      "Key": "bfa46b96-badc-466e-88d8-32162c84ab29",
+      "Value": "\"If they were mere peasants, I would agree. But these are people of great value to the kingdom. They've made a fortune on their own wits. We all might benefit from their wisdom. Their clever heads on spikes – that would truly be a sorry sight!\""
+    },
+    {
+      "Key": "aa3c2616-fc9a-4aa1-9e31-67456dbc5287",
+      "Value": "\"Your Highness, it is time we graciously receive another visitor, if you please. He is a representative of the people, so to speak. Ahem.\""
+    },
+    {
+      "Key": "cf043b51-5cc9-4558-adfd-2500464d3146",
+      "Value": "\"They've learned their lesson. Arrest and imprisonment sent them a clear message. We can be sure that they'll think thrice before stirring up another rebellion. – And more importantly, if any make such a proposal, they'll all come running to report it to you!\""
+    },
+    {
+      "Key": "7b1a2605-06d2-4fa1-b7d8-03bd05e70ed2",
+      "Value": "\"Your Highness, that's tantamount to murdering them. But it's not their individual lives that matter. It's their names and assets that are important. Strip them of their gold, and you'll destroy pillars that support your kingdom. Though your power to devastate will strike fear into the hearts of the other merchants...\""
+    },
+    {
+      "Key": "a7259f30-f4ec-4540-9ffc-5c16ac2e0cbb",
+      "Value": "{n}The Councilor smiles at the druid graciously, but her gaze is cold.{/n} \"Your Highness, I am glad there's someone in the kingdom who we may rely on. Let's hope that the people's leaders will be reliable and loyal enough to take the place of the kingdom's nobility.\""
+    },
+    {
+      "Key": "3ef36976-8424-4d4b-8562-065ac92e9450",
+      "Value": "\"But I suggest they should be pardoned. They made a mistake, true. But they were caught. That will teach them to fear your wrath, and carefully consider their actions in the future. They have been among the most noble people in the capital. You have now their obedience. The same might not be true of whoever should replace them.\""
+    }
+  ]
+}

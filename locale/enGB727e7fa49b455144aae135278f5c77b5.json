@@ -1,0 +1,101 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "b2b2ce7b-6bf1-4419-83b8-bbb249adbb4f",
+      "Value": "\"The shaman was mumbling about a 'season of Bloom.' It seems the seeds the people swallowed turned into portals.\""
+    },
+    {
+      "Key": "9ecd75a7-b7c1-4006-af71-6d45d972edf3",
+      "Value": "\"No time to deal with that now. We must rescue the survivors.\""
+    },
+    {
+      "Key": "226db2ea-22a6-45ac-b765-8f92c72f548a",
+      "Value": "\"I'm glad you're safe, Kesten.\""
+    },
+    {
+      "Key": "5158d3b5-56ff-49db-8a15-f4e8c79c3e94",
+      "Value": "\"The shaman mentioned a place up the stream, 'Lamashtu's Womb.' It is the source of the seeds.\""
+    },
+    {
+      "Key": "3159593d-60fc-4540-981c-7ec79511248d",
+      "Value": "\"Lamashtu's Womb... This place must be crawling with monsters. You think you can do it?\""
+    },
+    {
+      "Key": "c0f17307-3c96-4a1b-bde0-227a6b169ac6",
+      "Value": "\"What will become of the survivors in this camp?\""
+    },
+    {
+      "Key": "853aa9fc-b9a4-4532-887f-3ee14ae5933d",
+      "Value": "\"Kesten, you are in my service, not to play hero-in-the-woods while my subjects — the families of your militia — are being sacrificed. Now fulfil your duty — gather your squad and take it to the capital!\""
+    },
+    {
+      "Key": "8deb8669-f094-478d-8777-59d9301ecc06",
+      "Value": "\"Do you think Kavken can hold out until my arrival?\""
+    },
+    {
+      "Key": "da00b6c3-eacf-4054-9164-12dd5f5322eb",
+      "Value": "\"Go to Lamashtu's Womb, Kesten. I'll make a decision and head out later.\""
+    },
+    {
+      "Key": "134e82e1-5b2b-4d94-bd97-939360015bd7",
+      "Value": "\"Why don't you go to the capital?\""
+    },
+    {
+      "Key": "c7bae084-2036-48c3-958d-fc5fa75e05f5",
+      "Value": "{n}Kesten breathes heavily, looking around the bloody battlefield.{/n} \"Your Grace... how can this be? The people... the prisoners from the camp... they've... exploded! Just like that!\""
+    },
+    {
+      "Key": "8886dc85-cbb9-42ca-825a-3684ed494342",
+      "Value": "{n}Kesten wipes his brow.{/n} \"If all the seeds have blossomed... {g|Abadar}Abadar{/g} protect us, the capital is full of infected! Both on the streets and in Kavken's hospital!\" {n}Kesten turns to you.{/n} \"You must hurry to the capital — I will continue looking for the source of the seeds.\""
+    },
+    {
+      "Key": "401f8f97-5907-4ccd-94d0-74e46fd9eb7c",
+      "Value": "\"Then I'm gathering my men and heading out there.\" {n}Kesten brow darkens, and his eyes narrow.{/n} \"I swear upon my life I will find this Womb, Your Grace, and destroy the source of the disease!\""
+    },
+    {
+      "Key": "a3a295e9-cc76-481a-ab8f-812fe270eaf0",
+      "Value": "\"But Kavken... gods be merciful, he has no one to protect him! And the citizens... Will the guard be enough to halt the attack of these horrid creatures?\" {n}Kesten falls silent for a moment, his brow troubled.{/n} \"No, I have to go up the river, make sure there are no new seeds — I must stop this curse at the source!\""
+    },
+    {
+      "Key": "c03d2f61-ca4b-4920-bf0e-c929bded9996",
+      "Value": "{n}Kesten freezes, his face becoming a mask.{/n} \"I don't know, {mf|baron|baroness}. I cannot promise anything.\" {n}He gives a wry grin.{/n} \"But we do not seem to have a choice.\""
+    },
+    {
+      "Key": "34ad98e0-a549-4917-823d-1b213e0a3b68",
+      "Value": "\"Most who survived the opening of the Bloom ran. I hope they find their way home — or manage to reach the main road and are found by the patrols.\""
+    },
+    {
+      "Key": "22b793f4-428c-4903-9c9c-eec65db45bee",
+      "Value": "{n}Kesten freezes, then lowers his eyes.{/n} \"I am sorry, Your Grace. The immediacy of the situation clouded my judgment.\" {n}He steps back and bows.{/n} \"I shall head to the capital at once, {mf|baron|baroness}.\""
+    },
+    {
+      "Key": "a5a1157f-b180-4458-ac3e-5f5c420a25a9",
+      "Value": "\"If you leave for the capital now, yes. But if you head to {g|Lamashtu}Lamashtu's{/g} Womb...\" {n}Kesten frowns.{/n} \"Jhod is not a warrior, Your Grace. He is a priest. He will shield his wards to the last — but he will likely have gone to join his god if we do not reach him in time.\""
+    },
+    {
+      "Key": "663cd7f1-732e-4650-b712-19926058424a",
+      "Value": "{n}Kesten nods.{/n} \"Do not linger, {mf|baron|baroness}. If you go to the Womb, you will certainly catch up with my soldiers. If you go to the capital, I hope you'll arrive in time to help the people there. {g|Abadar}Abadar{/g} protect you!\""
+    },
+    {
+      "Key": "b89a954b-787d-41bf-adcb-1879a85e2a1a",
+      "Value": "\"It is for you to decide, Your Grace, where your help is more needed. Jhod will defend his patients to his last. As for me...\" {n}Kesten frowns. {/n} \"I'll do the same — anything to put an end to this horror, once and for all.\""
+    },
+    {
+      "Key": "55105468-2939-4b13-b0b6-85ddf284b1be",
+      "Value": "\"No, Your Grace. I must find the source of the seeds, no matter the cost. This is my decision.\"{n} Kesten's face is stone.{/n} \"And the last word on the matter.\""
+    },
+    {
+      "Key": "2336ffbf-8505-41b5-8f26-35daa99c614d",
+      "Value": "\"What's wrong with you, Captain? You're going against orders! I wouldn't have taken you for one of those careless adventurers, who think the chain of command exists only for the sake of appearances!\""
+    },
+    {
+      "Key": "29312b29-bdfb-49a3-9d44-247c96d98bc9",
+      "Value": "\"I'm sorry if I have disappointed you, Lady Kaessi. But I will not turn back. Not now, when we must do everything we can to put an end to this calamity.\""
+    },
+    {
+      "Key": "cd51e773-c1ad-4b79-ad9b-19ebde2d0b85",
+      "Value": "\"You have a noble soul, Kesten. Those who are ready to protect the helpless, no matter to cost – they are the backbone of this world. May the gods keep you safe!\""
+    }
+  ]
+}

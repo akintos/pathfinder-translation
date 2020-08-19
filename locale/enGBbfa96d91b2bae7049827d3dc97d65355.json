@@ -1,0 +1,33 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "1413125e-d2cc-48dd-9dc7-85c52dc9425e",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "a19233d2-53fd-48c8-8821-b8d0a84e4725",
+      "Value": "\"Show me your wares.\""
+    },
+    {
+      "Key": "7fb21714-fa2a-45a6-a73d-c3cfa10a0550",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "f6097839-ed49-45c8-b0a3-ef3d1386705a",
+      "Value": "[Pay 23 gold] \"I'd like to spend the night here.\""
+    },
+    {
+      "Key": "5efd67d4-ab22-43d6-b39e-7762ffd1fb0e",
+      "Value": "{n}An elderly barbarian waves his hand, inviting you to come closer.{/n} \"Welcome, honored guest! Would you like to buy or sell anything?\""
+    },
+    {
+      "Key": "c56060b0-24e1-4989-bd99-cfd73814589d",
+      "Value": "\"Name's Dug. Was a hell of a fighter when I was younger, but truth, those years pass before you know it. The health, too.\" {n}The barbarian raises his hand, and you can see he only has two fingers left.{/n} \"So now my job is equipment and provisions, along with a bit of trading from time to time.\""
+    },
+    {
+      "Key": "d3f7eb0f-c87a-4236-8770-832e56567077",
+      "Value": "{n}The aged barbarian gives you a hospitable nod.{/n}"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "a08e2684-803b-4dcc-beab-2746403e787e",
+      "Value": "\"Well, I don't look forward to reuniting with eternal emptiness just yet.\""
+    },
+    {
+      "Key": "59b105c0-26ec-4194-a3ca-86985c16759e",
+      "Value": "[Leave] \"You're talking rubbish. Let's move.\""
+    },
+    {
+      "Key": "2dd3cfca-ae02-4424-ae83-2a692a2821bf",
+      "Value": "\"You just overreact. Perhaps the fortress ceased to be necessary, and the dwarves just left? How can we know?\""
+    },
+    {
+      "Key": "be3a81fd-cb21-4cc9-9c20-192143c5f0fc",
+      "Value": "{n}He turns his gaze to you.{/n} \"Now you see, {name}. This once-proud fortress has fallen, all her inhabitants long gone. Death and oblivion wait for every person at the end of their path. Soon you and I will reunite with the eternal emptiness too.\""
+    },
+    {
+      "Key": "3de4742c-a96a-468b-8870-6d7d6faac6be",
+      "Value": "{n}Harrim sighs.{/n} \"Your ignorance changes nothing. You won't miss the end of the path anyway. My aim is to make you ready for that. This is the will of {g|Groetus}Groetus{/g}.\""
+    },
+    {
+      "Key": "934459de-b593-4b19-b420-1d9aaa11b725",
+      "Value": "{n}Harrim grimaces with displeasure.{/n} \"If you put forth such an argument, you must know little about the dwarves. We are the most stubborn creatures in the world. Dwarves would never abandon a fortress without a proper fight.\" {n}He raises his eyes and stares at the broken statue near the gates.{/n} \"Oh the cradle of sorrow, here we go...\""
+    },
+    {
+      "Key": "cd84cb0e-9045-4c60-96ff-ac859228ec4d",
+      "Value": "\"It's worse than I thought.\" {n}Harrim pulls his beard, his eyes are full of suffering.{/n} \"Dwarves, where are you now? Why did you leave this fortress and let it be defiled by monsters? Perhaps you were killed? And no one survived to tell your families about your fate.\""
+    }
+  ]
+}

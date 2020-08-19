@@ -1,0 +1,101 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "5ef381d1-87d5-4686-bc1a-fd9e0d9aad46",
+      "Value": "{g|Arcane3_1}[Choice effects]{/g} \"Leave the charm to the one who found it.\""
+    },
+    {
+      "Key": "1122f508-6b11-4cf3-9a84-f3e53d66a570",
+      "Value": "{g|Arcane3_2}[Choice effects]{/g} [Pay 500 gold] \"Buy the charm and give it to the appraiser.\""
+    },
+    {
+      "Key": "2450de17-a0e8-4b34-a27c-052bab580e53",
+      "Value": "{g|Arcane3_3}[Choice effects]{/g} \"Seize the charm by force and give it to the appraiser.\""
+    },
+    {
+      "Key": "47d5fb50-3225-4f6c-abd9-d528bde7e5ef",
+      "Value": "\"You are quite capable of making this decision without me.\""
+    },
+    {
+      "Key": "f280d3d3-db4d-4bbf-ac36-f11fce5d33ac",
+      "Value": "\"A messenger from a distant village has arrived. Something strange is happening there – it would appear that some wizard is fooling around! The locals have never met any wizards, but one of them found a strange charm from the swamps not long ago. He showed it to the whole village and bragged of his luck!\""
+    },
+    {
+      "Key": "43ae02c7-8651-442e-b7d5-eb84f76135fd",
+      "Value": "\"The lucky fellow now completely refuses to allow anyone to examine the charm, so no one has been able to discover if it is the reason behind the disorder in the village. He is within his rights: he found it, and it's his property! Besides, the magical interference so far has been harmless – no one has yet been hurt.\""
+    },
+    {
+      "Key": "1f522e47-772e-4eb7-90a5-14150d464ce4",
+      "Value": "{n}Octavia taps on her chin thoughtfully.{/n} \"I think the locals are simply scared, and nothing more. Let's not make something out of nothing, and leave the charm to the person who found it. Otherwise we'll set an example for other squealers – and be buried under an avalanche of anonymous letters! It's only one little trinket – what's the worst that could happen?\""
+    },
+    {
+      "Key": "105d449b-a495-4a04-8c17-f3e115d62f33",
+      "Value": "\"A complicated situation, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. Dwellers in one of the distant villages have asked that we deal with their neighbor – one way or another. They can't talk sense into him, which is why they've turned to you.\""
+    },
+    {
+      "Key": "6c314139-c3c8-4bb2-8942-82a36ddd43b3",
+      "Value": "\"Their troublesome neighbor discovered a magical charm in the swamps – among some ancient ruins, he claimed. Afterwards, strange things began to happen in the village. One day a dead silence fell upon the whole area. Another day, the sun seemed to stop shining. Everyone blames the charm, and they beg its owner to give it up – but he refuses. He found it, and by his thinking, he'll be the one to decide what to do with it.\""
+    },
+    {
+      "Key": "8eecb707-dbc0-43f2-88bc-8757b65accc0",
+      "Value": "\"It's dangerous to leave an unidentified magical item in hands of an ignoramus. – All the more so when it seems to be causing such disturbing events. But it won't be fair just to take it from him. I suggest we buy it from him, and then give it to our appraiser for examination.\""
+    },
+    {
+      "Key": "c4a61e2d-e065-4275-90fe-540d8421a0c0",
+      "Value": "{n}\"Maegar\" looks annoyed.{/n} \"The vices and self-confidence of the lower races never ceases to amaze me. A messenger from a distant village arrived to the castle, requesting an investigation. It would appear that one of the villagers has discovered a powerful artifact, which is releasing bursts of magical energy and scaring the other peasants.\""
+    },
+    {
+      "Key": "f27b093d-f052-4aad-b9e2-77e9336aaa08",
+      "Value": "\"This worm refuses to part with his newfound possession, so the stubborn man's neighbors seek protection from you, their ruler. If I were you, I would set an example, and tear the charm from the insolent fool's hands. – His dead hands, if need be.\""
+    },
+    {
+      "Key": "048e7ee3-68a8-4c42-ba52-74092202cc7b",
+      "Value": "\"Hooray! A fine decision!\""
+    },
+    {
+      "Key": "e29e7585-0a83-4084-a8f9-d5cc71240ec7",
+      "Value": "{n}A shade passes over the Storyteller's face.{/n} \"Are you certain? I cannot predict where such carelessness on your part might lead.\""
+    },
+    {
+      "Key": "66c782b6-4b87-4285-9c46-f9699a2374b4",
+      "Value": "{n}\"Maegar\" sniffs disdainfully.{/n} \"Slaves can hardly be blamed for intemperance, when their master indulges their ridiculous whims!\""
+    },
+    {
+      "Key": "ab00a3d1-afb8-40cf-92f4-030e1af70dee",
+      "Value": "\"Well… I suppose that's a reasonable solution. He would probably sell the charm anyway, so this will be a win-win solution.\""
+    },
+    {
+      "Key": "da8eb2fe-a642-4090-b4b1-bad633a8f50d",
+      "Value": "\"As you wish, {mf|Your Grace|Your Grace|Your Highness|Your Highness}.\""
+    },
+    {
+      "Key": "6e8aa493-ffd1-40c1-9878-b67cf041c92d",
+      "Value": "\"A waste of money. But I will obey.\""
+    },
+    {
+      "Key": "d9c59a8a-5a50-4add-a1a6-705325e1228e",
+      "Value": "\"Hey! You can't behave like that! Especially with the poor – life is difficult for them as it is!\" {n}Octavia pouts.{/n}"
+    },
+    {
+      "Key": "eeb2b3e6-8dc9-4614-9ea9-84463ba170a1",
+      "Value": "\"Hmm... indeed, that would solve our problem as well. I will do as you say, {mf|Your Grace|Your Grace|Your Highness|Your Highness}.\""
+    },
+    {
+      "Key": "89216719-de78-4524-a4d3-af3c3d046547",
+      "Value": "\"I shall leave the castle at once and attend to the matter personally.\""
+    },
+    {
+      "Key": "76fbdc75-a1af-400d-b221-95a65538fdbd",
+      "Value": "\"Fine! I will leave the charm with the fisherman. – The poor man deserves for fortune to smile on him at last!\""
+    },
+    {
+      "Key": "a11550ca-77b2-4b42-be25-78c41eef0189",
+      "Value": "\"I shall allocate the required sum, immediately purchase the charm and convey it to the appraiser.\""
+    },
+    {
+      "Key": "3f52749e-d91e-4421-a654-fef0fd11b24c",
+      "Value": "\"I shan't hold back the guards if the peasant proves obstinate. I shall use whatever force is required to procure the charm for the appraiser.\""
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "f50deda6-8e54-4acb-9c25-2f17fc963c1c",
+      "Value": "\"I'd like to know more.\""
+    },
+    {
+      "Key": "09c594e6-b2ac-45ee-a0f5-103dc93fb51d",
+      "Value": "\"Tell me about Andoran.\""
+    },
+    {
+      "Key": "23a85a31-9f16-4e45-8ac2-0fad3233b14b",
+      "Value": "\"Why my {mf|barony|barony|kingdom|kingdom}?\""
+    },
+    {
+      "Key": "97154a2a-a08c-45c7-9de2-f42f58dc6ce8",
+      "Value": "\"What profit do I get from your bank?\""
+    },
+    {
+      "Key": "eeaab8cd-def5-43ae-95f6-8ceca6663c35",
+      "Value": "\"A family bank, you say?\""
+    },
+    {
+      "Key": "e0ba98c1-e84b-4ad7-8e30-a739ae5986b9",
+      "Value": "\"That's all that I need to know.\""
+    },
+    {
+      "Key": "16d6ba03-29e1-408b-b534-c7567864e7d5",
+      "Value": "\"I agree to open a bank in the capital.\""
+    },
+    {
+      "Key": "5b7cf576-51d4-4754-9d00-4faea4f9aa68",
+      "Value": "\"If I remember correctly, Andoran was once a colony of Cheliax.\""
+    },
+    {
+      "Key": "63a94c60-6336-4f4b-abc8-be6c417d919c",
+      "Value": "\"Tell me about these opportunities you mentioned.\""
+    },
+    {
+      "Key": "2ae34029-7b96-426a-8ce8-8daa8affc9a2",
+      "Value": "\"I don't like you or your Andoran propaganda. Take yourself from my lands.\""
+    },
+    {
+      "Key": "a933de05-2e0f-45aa-86d1-495c1f03098e",
+      "Value": "\"What is this lifestyle?\""
+    },
+    {
+      "Key": "11131042-224b-4435-9ef0-dee8657afa2b",
+      "Value": "\"This is very interesting, but I'd like to go over other issues.\""
+    },
+    {
+      "Key": "45ba6baa-2b8f-4090-b7a0-9bfea927f20c",
+      "Value": "\"I need time. I can't say yes right now.\""
+    },
+    {
+      "Key": "65fd7c7e-2bfd-46e4-9e2e-6c18174ba98c",
+      "Value": "{n}An exquisitely dressed man flips the pinned cape off his shoulder and bows deeply.{/n} \"Greetings, {mf|Your Grace|Your Grace|Your Highness|Your Highness}! My name is Alex Covenorb. I traveled a difficult road from {g|Andoran}Andoran{/g} just to meet you in person.\""
+    },
+    {
+      "Key": "e65cfa90-c497-434e-ac88-0e84ee7411b4",
+      "Value": "{n}Alex shows you a heavy folder full of papers.{/n} \"I am the official representative of the family bank called 'Heritage and Honor'. It is based in Augustana, but we do business well beyond the borders of {g|Andoran}Andoran{/g}. I'd like to open an office of our bank in your capital.\""
+    },
+    {
+      "Key": "6e67502c-f2dd-4364-a102-b7c27c0c8da0",
+      "Value": "\"Absolutely! However...\" {n}Alex weighs his folder thoughtfully.{/n} \"I don't wish to bother you with boring figures and terminology. I'd rather hand the papers to your Treasurer, who can confirm everything I say. Please, ask about any concerns you may have!\""
+    },
+    {
+      "Key": "fb3d4171-3251-423f-b70d-e06315418ffa",
+      "Value": "{n}Alex eyes you for a few seconds before answering.{/n} \"If you think I've made a random choice, perhaps you should think again. I've put much effort into making sure you're following my people's principles.\""
+    },
+    {
+      "Key": "817de430-54ec-40f3-8aed-97cb4905f90f",
+      "Value": "\"We don't just store your money, but put it into use to make more money! We make it work for you. We make it bring profit. Such promises might at first sound like sweet lies to the locals, but I'm prepared to wait patiently while people change their attitudes.\""
+    },
+    {
+      "Key": "8c9e0aac-966c-4074-a07f-0cf87ac243da",
+      "Value": "\"The bank was founded by my father, a respected man, a wise accountant and a perspicacious businessman. Father let me take over the business, now that he's resting on his laurels. He didn't merely raise my sisters and me – he passed on his spirit of enterprise, a gift I will never be able to repay.\""
+    },
+    {
+      "Key": "e0d4afc3-ff8a-4a50-92cc-c016bf2068eb",
+      "Value": "\"I hope you've liked what you heard. Well, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, are you ready to sign our contract?\""
+    },
+    {
+      "Key": "7462a44b-ab30-4354-a617-5ff6d8c01038",
+      "Value": "\"I don't mean doctrine or legislation. I mean human values, which my country got through our revolution, and which we strive to preserve, whatever it takes. Honor. Nobility. Equality. All these notions fit with your {mf|barony|barony|kingdom|kingdom} very well.\""
+    },
+    {
+      "Key": "dfeb8c94-b22b-41b2-9323-7fcac0de8bba",
+      "Value": "{n}The banker rubs his chin.{/n} \"In a nutshell, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, it's my motherland. It's where I grew up and learned the principles that I live up to even today. It's a beautiful country, always happy to welcome good travelers. It offers many opportunities for a hard-working person.\""
+    },
+    {
+      "Key": "07915c80-7533-49a6-a4fc-4a979fc098e8",
+      "Value": "\"It was a part of {g|Taldor}Taldor{/g} before. Yes, {g|Andoran}Andoran{/g} kept changing rulers over the centuries. Luckily, the people managed to break the cycle and opted for independence. Revolution brought us new problems, but at the same time, a unique social order.\""
+    },
+    {
+      "Key": "839b1a62-0b4a-4196-98fa-4b225ae761cb",
+      "Value": "\"With all due respect, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, the very essence of the modern governance in {g|Avistan}Avistan{/g} is wrong. It allows some to rise above the others, to force their will upon them, to determine their fate. {g|Andoran}Andoran{/g} is free from such tyranny. It's not the king or the emperor who rules the country, it's the people!\""
+    },
+    {
+      "Key": "b8c0e208-e9d2-45fe-ae99-5b98a40420fa",
+      "Value": "\"The People's Council runs the country. It consists of three hundred and fifty advisors elected by the citizens. Among them are former aristocrats and regular craftsmen, wealthy merchants and respected mayors. The People's Council appoints the Supreme Elect, the official head of state, along with ministers, governors and advisors. There are no privileges or patronage. Everyone gets what they deserve.\""
+    },
+    {
+      "Key": "44b84ebf-c823-4334-998d-bf39e2007501",
+      "Value": "\"Do you know how our family became bankers and took our place in society? We didn't possess titles or family heirlooms. My grandfather worked as an ordinary falconer for the rich aristocracy. But we had fire running through our veins! We decided to take a crazy risk and invested in our own business. As you can see, it paid off.\""
+    },
+    {
+      "Key": "5f8a8bef-10e9-4774-a245-163fabb84178",
+      "Value": "\"If you roll up your sleeves and get to work, and earn a good reputation, you can do anything. {g|Andoran}Andoran{/g} appreciates the noble and bold of spirit.\""
+    },
+    {
+      "Key": "1829712e-6933-4f70-957d-164bc9027fa0",
+      "Value": "{n}Alex turns pale.{/n} \"I'm afraid you misunderstood my words, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. I may sing the praises of my motherland, but {g|Abadar}Abadar{/g} forbid if I ever engage in cheap propaganda! I will not trouble you with my presence any further, but please allow me to leave these papers with one of your advisors! I hope you will consider all the benefits after your temper settles.\" {n}The man bows politely.{/n}"
+    },
+    {
+      "Key": "08278085-25f3-4404-938c-3d5701e491b2",
+      "Value": "{n}Alex nods.{/n}"
+    },
+    {
+      "Key": "81406380-7e81-4ba7-bbe6-c965f27c13f6",
+      "Value": "\"Reasonable care never hurt anyone. I'll pass the papers to one of your advisors. If you decide to accept this offer from the 'Heritage and Honor' bank, we'll return to this issue.\" {n}Alex bows politely.{/n}"
+    },
+    {
+      "Key": "0a0044c3-0cfb-43d0-a832-0aba32d3212d",
+      "Value": "\"Thank you for your trust, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. Rest assured, your subjects will appreciate the opportunities our bank has to offer! I won't waste any more of your time. The final details can be discussed with your advisors.\" {n}Alex bows politely.{/n}"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "3debe0d2-a61f-4172-889a-29f961d70b84",
+      "Value": "\"Who was Octavia's father?\""
+    },
+    {
+      "Key": "10f289c8-7d48-45b2-922f-f9140f6cdd5c",
+      "Value": "\"How did Octavia become a slave?\""
+    },
+    {
+      "Key": "cce8e0fd-6e66-4240-898b-8030c6d043e0",
+      "Value": "\"Why didn't you buy her back?\""
+    },
+    {
+      "Key": "dcdadcb2-cf1f-4441-80bb-2b38379c533b",
+      "Value": "\"What do you say, Octavia?\""
+    },
+    {
+      "Key": "7aab7050-a660-4106-850c-333e1c6ca90b",
+      "Value": "\"What is it? I wasn't expecting guests...\" {n}A woman comes out of the back rooms in a dress that was once expensive but is now moth-eaten and heavily mended. Her posture and gait give away a noble upbringing. She seems to be in her forties, though some pain or suffering must have worn her beyond her years, leaving wrinkles across her face and gray in her hair.{/n}"
+    },
+    {
+      "Key": "0d2eb422-cecf-41aa-ba42-5ecf13d94788",
+      "Value": "\"I am Marchioness Clarida Della Fiorni. Welcome to my manor. I'm afraid I have nothing to offer you, nor do I have the honor of knowing you. To what do I owe the pleasure?\""
+    },
+    {
+      "Key": "80f92d98-a132-431c-a5af-4deec2e4e09e",
+      "Value": "\"Hello... Mother.\""
+    },
+    {
+      "Key": "059d07d8-b839-4cc0-852f-ae844b52ff64",
+      "Value": "\"Oct... Octavia? Gods... My Octavia, is it really you? It's been so many years...\" {n}The marchioness steps forward to hug her daughter, tears in her eyes, but she stops when she sees Octavia's stony gaze.{/n}"
+    },
+    {
+      "Key": "df62b4d7-8dc0-4d70-a6c8-0ca70ba8919f",
+      "Value": "\"Your Octavia? Your?! My last memory of you is selling me to the slave traders! And you dare to call me yours?\""
+    },
+    {
+      "Key": "30ff9b5a-08fa-498a-88ae-bee56989bd5b",
+      "Value": "\"Cruel words... but fair. Octavia, my child... let me tell you what happened. Afterward... you may decide on your own what to do — even if it means you never wish to see me again. All I need to be happy is to know you are safe and sound.\""
+    },
+    {
+      "Key": "ee3ffa58-2d83-414f-9c93-48b5ed9ffe82",
+      "Value": "\"I'm listening.\""
+    },
+    {
+      "Key": "040d6d9a-a052-43cb-bd74-0607f18e4bb5",
+      "Value": "\"A pathetic wretch, and nothing more. A visiting elf swept a silly young girl off her feet, then vanished as soon as he learned she was expecting. I care not to even say his name.\""
+    },
+    {
+      "Key": "d6b6da48-6ac6-4325-a1a6-18ee2e1bf0e9",
+      "Value": "\"Well, he at least made one good thing in his life, right?\""
+    },
+    {
+      "Key": "5e0956ec-0ed4-44f0-bf9d-a45be0bb58f7",
+      "Value": "\"There are potions for those who don't wish to have children. They aren't expensive.\" {n}Octavia's voice is sharp and cold.{/n}"
+    },
+    {
+      "Key": "866311cd-9dda-474f-b36e-3160db0e11c3",
+      "Value": "\"And what would I have done then? What would I do without you?\""
+    },
+    {
+      "Key": "95e5bbec-eade-431e-a7d4-36c399d1cadf",
+      "Value": "\"Reg... Don't. Not now.\""
+    },
+    {
+      "Key": "0fa60ca9-3054-417f-93dc-bfeca72a7f4a",
+      "Value": "\"My father, may his soul rest in peace, was a very stern man — some would say cruel. When he found out I was expecting the child of some adventurer, he expelled me from the house and cut me off from any inheritance. I scraped by on my own for three years — sewing, teaching, and the like... But then father discovered he was dying, and the Della Fiorni line would end. So he told me he would leave the full inheritance to me if I would only get rid of 'my disgrace' — get rid of you.\""
+    },
+    {
+      "Key": "d3da2dee-5c80-4b92-9300-247c952fd528",
+      "Value": "\"And so you did. Traded me for an inheritance. I see.\""
+    },
+    {
+      "Key": "4259f8fd-35d8-4faf-b031-d23166d62655",
+      "Value": "\"No, it wasn't like that at all! I... I had a plan... to deceive him, you know? I made arrangements with a man from the {g|Technic League}Technic League{/g}. He was supposed to take you to {g|Numeria}Numeria{/g}, keep you there until my father died, and then bring you back! I was trying to do what I thought was best for you, do you understand? I wanted you to grow up in your own manor, in luxury rather than poverty... But, once father was gone, the man from the Technic League said he didn't remember any such arrangements. He said he bought you, had already sold you, and had no idea where you were anymore.\""
+    },
+    {
+      "Key": "a5bc6e2f-b092-496a-a6cd-e34633fbb213",
+      "Value": "\"Nobility, to be sure...\" {n}Regongar spits on the clean floor.{/n}"
+    },
+    {
+      "Key": "24cad268-f48b-4029-be72-0ffd56c6b439",
+      "Value": "\"I had no idea where she was! Octavia, believe me, I continued to look for you all these years. I spent all of the inheritance hiring sleuths and investigators to scour {g|Numeria}Numeria{/g} and the {g|River Kingdoms}River Kingdoms{/g} for you! But you were nowhere to be found...\""
+    },
+    {
+      "Key": "66034585-7746-43ae-869a-f4d5afe758ce",
+      "Value": "{n}The marchioness wipes tears from her eyes.{/n} \"I knew you were still alive. I could feel it. And I never stopped searching. I just wanted to see you again, just once... to at least beg your forgiveness.\""
+    },
+    {
+      "Key": "8e34efe6-c778-40af-a844-dfaa6190c530",
+      "Value": "\"What is there to say...? Mother, you're such a fool!\""
+    },
+    {
+      "Key": "6a611adc-eb8a-47a9-ba4a-93d621efd782",
+      "Value": "\"I say I can't understand how this woman has the nerve to snivel and play the innocent victim. Quit the drama, mommy dear — you seem to have lived well enough all these years. You used me like a chip at the gambling house, and you lost! And once you changed your mind and tried to get me back, it was too late — well, too bad! Am I supposed to feel sorry for you?\""
+    },
+    {
+      "Key": "6eaf2c04-bcd0-467a-8098-c8574a18d1bc",
+      "Value": "\"No, my child! I... I was young and stupid. I thought I could make a better life for you! I never needed the title, or even this town house...\""
+    },
+    {
+      "Key": "0d3d0998-8502-412e-9240-34d6442d4eac",
+      "Value": "\"You didn't, did you? Is that so? Well, then, let me spare you of it!\" {n}A smirk disfigures Octavia's face — or maybe rather a grimace of pain. She tears an oil lamp from the wall and hurls it to the floor.{/n}"
+    },
+    {
+      "Key": "62c62015-d5e0-4ecc-b82c-6897bb3beb80",
+      "Value": "{n}Octavia sobs.{/n} \"You think we wouldn't have done fine without a title? I'd have grown up, learned some craft... We'd have been poor, probably, but at least we'd have been together...\""
+    },
+    {
+      "Key": "6209b726-db79-4a87-993f-25f3da594522",
+      "Value": "{n}The marchioness and Octavia hold each other tight.{/n} \"Will you stay? At least for a little while? There's so much to talk about...\""
+    },
+    {
+      "Key": "8fc74576-54cf-4461-8162-6dd21420ff92",
+      "Value": "\"Isn't it dangerous for you here, though, with just a couple of servants? There's a lot of disquiet in {g|Pitax}Pitax{/g} right now, and trouble all around. Magical beasts, barbarians... I live in {kingdomname} now — have you heard of it? It's recently established. Maybe you can move there. I'll be able to tell you what I've been doing all this time, and show you all that I've achieved!\""
+    },
+    {
+      "Key": "27c19421-ad88-4f94-93b8-ec38df7a58cc",
+      "Value": "\"{kingdomname}? As you say, my child. I'll begin packing immediately.\""
+    },
+    {
+      "Key": "d2cdb3ac-7e8c-456a-a540-65e4aaff38c3",
+      "Value": "{n}Octavia hugs her mother again.{/n} \"I'll be waiting for you.\""
+    },
+    {
+      "Key": "7c8fd8e2-7977-4d3b-8bcc-afe577d6baa0",
+      "Value": "\"Reasonable.\""
+    },
+    {
+      "Key": "e3f769db-6b7d-42f1-9633-1a7f395ec529",
+      "Value": "\"Those scouts must have had a great feast to your health, but without moving a finger! How naive to pay for such 'services' upfront!\""
+    },
+    {
+      "Key": "56f61eca-782f-477c-bf16-ce86b767c513",
+      "Value": "\"As far as I can tell, not one person in this family possesses the ability to think through the consequences of their actions!\""
+    }
+  ]
+}

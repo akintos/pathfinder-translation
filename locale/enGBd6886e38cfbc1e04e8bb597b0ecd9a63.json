@@ -1,0 +1,161 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "95f34470-6ac4-4043-a7c7-07af72461121",
+      "Value": "[Attack] \"It's an undead! Kill it!\""
+    },
+    {
+      "Key": "f60d1b77-4b96-4ed6-bcc9-43b6997f5778",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "35c62db5-be42-482d-a23f-98aac16eef4f",
+      "Value": "\"What happened to the village?\""
+    },
+    {
+      "Key": "123762ef-7d2d-4129-80c8-0f31376ccfa0",
+      "Value": "\"How can I help you?\""
+    },
+    {
+      "Key": "7f886d48-ef4d-4164-8f8d-24b95c2c2469",
+      "Value": "[Leave without a word]"
+    },
+    {
+      "Key": "01548acb-d9ac-41dc-afe0-b9e717483a43",
+      "Value": "\"Why do you hate fey so much?\""
+    },
+    {
+      "Key": "1d47f4f0-d99a-4455-8828-94805e064823",
+      "Value": "[Put regular gold coins over the dead man's eyes] \"Just two coins? Shouldn't be too hard.\""
+    },
+    {
+      "Key": "518d44e9-f055-43f6-ab87-5f127bbf34e5",
+      "Value": "\"We've found some coins at the bottom of the well. Here, have a look.\""
+    },
+    {
+      "Key": "e4120a91-5677-4219-96d4-70c5bc860fca",
+      "Value": "[Put the cursed coins on the dead man's eyes]"
+    },
+    {
+      "Key": "83ad4482-7c9e-4561-9ca4-8aa9a798183e",
+      "Value": "\"Was it you who cursed Wilber and Callitropsia?\""
+    },
+    {
+      "Key": "b8ba24fe-723c-4c54-b70e-f0a4d93e6bf6",
+      "Value": "\"Who else has cursed Wilber, beside you?\""
+    },
+    {
+      "Key": "0e107286-e7cd-485a-9dcb-fb14244d1933",
+      "Value": "\"I've got some more questions for you.\""
+    },
+    {
+      "Key": "3decf94e-d02c-4d20-b2ea-63e6ca1b2ecd",
+      "Value": "\"We've destroyed the coins to give final rest to the ghost of old man.\""
+    },
+    {
+      "Key": "dfaf5f18-e137-4c71-a54b-12d883fd6458",
+      "Value": "\"Where did you learn to curse people?\""
+    },
+    {
+      "Key": "37ce25cb-768a-4e47-9fe2-fdda46c463fd",
+      "Value": "\"I mourn your terrible fate. I'll pray to Pharasma that she might grant you final rest.\""
+    },
+    {
+      "Key": "ce1be5fd-00fc-443b-8061-ac9ad1528042",
+      "Value": "\"Urgathoa knows best upon whom to bestow her gift of undeath — but it certainly seems to be wasted on you!\""
+    },
+    {
+      "Key": "d83bfea4-4def-424f-ac2b-33d64d237bee",
+      "Value": "\"I mourn your terrible fate. I'll pray to Sarenrae that she might grant you final rest.\""
+    },
+    {
+      "Key": "e5ea3ba6-d33a-41ba-85a7-5721d46a92f1",
+      "Value": "{n}A dead man staggers towards you. There is a gaping hole in the middle of his chest, and you can see the white of bone through the tears in his decayed flesh. He speaks with a halting, gurgling wheeze. {/n}\"Living one… I do not want to harm you… help me...\""
+    },
+    {
+      "Key": "1b46727b-0e0a-4883-888b-e5133ed1d38a",
+      "Value": "\"The fey said… I'll reach my final rest… when two coins… serve as my eyelids… give me… just two coins...\""
+    },
+    {
+      "Key": "fed34b10-653b-40c8-b09a-07f3c9ba02b5",
+      "Value": "{n}The man groans, and you see his hands twitch and curl into fists. {/n}\"Fey… Damned fey… killed everyone… every single one… hate, hate them all... hate the fey, hate the headman...\""
+    },
+    {
+      "Key": "98408ffb-d5fa-41ec-954b-66ff81b05ce1",
+      "Value": "{n}You put two coins over the dead man's eyes, but they fall from his sockets to the ground. The dead man hisses. {/n}\"All lies… Damned fey… Damned...\""
+    },
+    {
+      "Key": "d5575ff3-dfb9-461b-8d67-58de8dfa5c04",
+      "Value": "{n}The dead man utters a helpless groan, stretching out his arms toward you.{/n}"
+    },
+    {
+      "Key": "5fb07099-ab89-4f15-a7cf-c29b61b9c04e",
+      "Value": "{n}The dead man stands before you and stares at you with his dry, unblinking eyes.{/n}"
+    },
+    {
+      "Key": "594cdf01-e590-40a8-a30d-21ba08614e6d",
+      "Value": "{n}The dead man starts to shake — either with silent laughter or with silent sobs, you cannot tell.{/n} \"Yes… there… I see...\"{n} He points at two of the coins.{/n} \"These… give me… these...\""
+    },
+    {
+      "Key": "c1684c9c-8a39-4bb8-8cba-5999d707534b",
+      "Value": "\"Cursed... cuuurssssed... didn't know... thought it but a tale... I didn't know it would work... so it was me... I killed... that beast from the forest... and my Nyta too... and her bastard of a father... the whole village... and me along with it... all my fault...\""
+    },
+    {
+      "Key": "2f3c7449-8ae1-4ff2-8e7a-96ee1edbc025",
+      "Value": "{n}The coins evaporate, the coins on his eyes turning to mist. The dead man gives a rattling sigh, then slumps to his knees.{/n} \"Th-thank… you...\""
+    },
+    {
+      "Key": "4535a78f-2da7-45b8-ad83-6d2d30c6fd99",
+      "Value": "{n}The coins evaporate, the coins on his eyes turning to mist. The dead man gives a rattling sigh, then slumps to his knees.{/n} \"No… I'm… not… I do not deserve this…\""
+    },
+    {
+      "Key": "bfe72016-8ccf-4fa4-ab9d-4181828e0989",
+      "Value": "{n}The dead man stares at the coin inscribed by another's hand.{/n} \"Don't know...\""
+    },
+    {
+      "Key": "00c37f39-ab34-49a2-9ec3-1a241ecb016f",
+      "Value": "\"Ask...\""
+    },
+    {
+      "Key": "95ce2a50-5db7-4838-abf7-f7d883d05413",
+      "Value": "\"So… I'll never rest… never… A-a-a-aaAAAHH!\"{n} With a heart-breaking howl, the dead man lunges at you. {/n}"
+    },
+    {
+      "Key": "1a815364-cc6d-4f45-b292-0ef3f34fef59",
+      "Value": "\"Nowhere… just a tale… an old one… everyone knew it… but no, hold on...\""
+    },
+    {
+      "Key": "56eb0946-792d-4b3e-8cdc-55018d030aa4",
+      "Value": "\"I recall now… I had a dream… a maiden… she told me to inscribe the names on the coins… throw them to the well... and justice will be served... I thought... her a good omen...\""
+    },
+    {
+      "Key": "e43322bf-12b5-477c-b6f6-e72234c60d2f",
+      "Value": "\"That's good… Let him rest… And for me… everything is lost… So… Destroy this body...\""
+    },
+    {
+      "Key": "3305d892-0238-4bd0-bb94-3f8a33bc2999",
+      "Value": "\"Undead are rarely pretty... But why do they also have to be so dumb?\""
+    },
+    {
+      "Key": "df8e15fb-c1ce-4720-95aa-88b6f8c77475",
+      "Value": "\"Prayed to Erastil... when alive... God didn't save me... Didn't save...\""
+    },
+    {
+      "Key": "792064fd-fdce-4f4a-9908-ea7f32e7fa3d",
+      "Value": "\"Prayed... to every god and goddess... Nobody helped... Nobody...\""
+    },
+    {
+      "Key": "aad6d856-793a-44eb-bdd3-cad10ffb0900",
+      "Value": "{n}The dead man's decayed hands sink into the edges of the huge hole on his chest.{/n} \"The fey... Stole my bride... Killed her... Killed me... the whole village... and the headman, the bastard... helped them... sold his own daughter to the fey... Nyta, my love... evil, all of them, how I hate them...\""
+    },
+    {
+      "Key": "ba1588bb-780a-4d21-b953-3bd472c9e72d",
+      "Value": "\"I was… I had a name… Dorsy… had a bride… now I'm no one, alone… less than no one...\""
+    },
+    {
+      "Key": "05daad16-b807-4b09-808a-f56be4dcf055",
+      "Value": "\"I… do not deserve rest… the headman, he's… old… like me… take these coins to him... give him final rest... I... I'll stay…here...\""
+    }
+  ]
+}

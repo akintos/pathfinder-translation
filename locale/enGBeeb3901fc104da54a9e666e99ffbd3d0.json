@@ -1,0 +1,49 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "4571cca4-313f-4b73-aa33-031dc83ef82a",
+      "Value": "[Attack] \"I cannot let you live and risk the lives of everyone else.\""
+    },
+    {
+      "Key": "670350b6-b902-48f8-a33c-0d8c4ef5ad0f",
+      "Value": "[Examine the prisoners]"
+    },
+    {
+      "Key": "7e09f6ff-6aaa-41ec-b32b-0d36a408d9af",
+      "Value": "[Free the prisoners] \"The path is free. Go to Kesten and his militia — they will take care of you there.\""
+    },
+    {
+      "Key": "fe0bf72f-3882-4012-8f4c-319e802a0b14",
+      "Value": "[Leave the prisoners alone]"
+    },
+    {
+      "Key": "6679202e-2773-4676-854a-9b8f5030953b",
+      "Value": "[Attack] \"I'm tired of all this rabble getting under my feet!\""
+    },
+    {
+      "Key": "025d3703-3c9e-43ff-9953-e021002967a7",
+      "Value": "{n}The prisoners are still chained to the totem. They look at you with vacant eyes, as if they do not fully understand what is happening.{/n}"
+    },
+    {
+      "Key": "bbdddbc8-8928-405a-981d-a9ff11fc9630",
+      "Value": "{n}Simple clothes, work-worn hands, weather-beaten faces — the people in front of you clearly earn their living under the sun or in the forest. Apart from bruises and grazes, nobody seems hurt. An eerie, far-away look is stuck on their still-wet faces.{/n}"
+    },
+    {
+      "Key": "afde8e33-b8a1-4a52-ac9d-23b70a11d8d6",
+      "Value": "{n}Simple clothes, work-worn hands, weather-beaten faces — the people in front of you clearly earn their living under the sun or in the forest. Apart from bruises and grazes, nobody looks seriously hurt. The prisoners are looking at you slightly dazed, and a shadow of the horrors they've been through hangs over their faces.{/n}"
+    },
+    {
+      "Key": "874d79b6-4e53-4b54-b4fc-1ea5f295bda3",
+      "Value": "\"There is no salvation for them. Your duty is to grant them a quick, painless death.\""
+    },
+    {
+      "Key": "e225d923-6142-4c45-adbb-7d70e0c1417f",
+      "Value": "{n}You strike several decisive blows, cutting short the prisoners' lives.{/n}"
+    },
+    {
+      "Key": "c74671dd-caf5-480f-80fc-a322d070783b",
+      "Value": "\"I hope these are the last of those little monsters' victims.\""
+    }
+  ]
+}

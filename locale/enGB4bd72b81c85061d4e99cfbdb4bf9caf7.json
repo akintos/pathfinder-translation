@@ -1,0 +1,101 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "057d4f9a-9275-4b1f-8cdd-cf0ad2827ad6",
+      "Value": "\"I'm glad of your return, old friend. I will need your help.\""
+    },
+    {
+      "Key": "51e617ab-009c-4dde-9d70-770333e2993e",
+      "Value": "\"Jhod? How can you be here?! — You died!\""
+    },
+    {
+      "Key": "c9b0373f-fa79-4a1b-8cbb-93cdbb985260",
+      "Value": "\"Kesten? But I saw you die...\""
+    },
+    {
+      "Key": "44710b39-9a7b-40bf-8f22-3409802f4fd4",
+      "Value": "\"Thank you for your offer, Sir Weren. I could use your help.\""
+    },
+    {
+      "Key": "8ac55cae-9062-45df-9b81-70dc419b49d7",
+      "Value": "\"Did you really think you could fool me so easily? You are not a shadow from the cup!\""
+    },
+    {
+      "Key": "70024518-5c07-4acf-8659-8dc66556e296",
+      "Value": "\"Away, shadow! I will never trust an apparition born of the Lantern King's magic.\""
+    },
+    {
+      "Key": "f4691495-25d3-4af7-b02c-c2a3cc94ff20",
+      "Value": "{n}Mumbling unhappily, Jhod steps from behind Kesten's back.{/n} \"You must be watched! See what happens when you're not looked after!\""
+    },
+    {
+      "Key": "677f5b78-af3e-4f3a-b1c8-edb3851bd564",
+      "Value": "{n}The knight makes a brief bow again.{/n} \"My sword is at your disposal. I will stay here for a while and help your people, but I will arrive at once when you face real danger. We shall see much of it on the road ahead.\""
+    },
+    {
+      "Key": "88cc99a0-af9a-4d79-b391-ceb50154eda8",
+      "Value": "{n}Jhod catches his breath.{/n} \"You are a welcome sight, Your Highness. Look what the damned {g|Eldest}Eldest{/g} did to the city! As soon as we entered, the ground started trembling silently under our feet, and then it gave way and fell apart! But why am I telling you this — you probably saw the whole thing for yourself... So our team was stuck here, by the gate, together with a whole horde of beasts from the {g|First World}First World{/g}. We fought them off somehow, thanks to you — and Erastil! But I don't know what's going on with the others. And also... well, he'll tell you himself!\""
+    },
+    {
+      "Key": "4b6a3042-9d36-41db-9d96-76716681957d",
+      "Value": "{n}Kesten, who stood by silently until this moment, nods to you briefly, and then stares at the ground gloomily.{/n} \"Happy to serve you, Your Grace... I mean — Your Highness!\""
+    },
+    {
+      "Key": "658d4969-e059-4419-9218-8014858b76ec",
+      "Value": "\"Allow me to speak for myself, Sir Kesten.\" {n}The knight who helped fend off the attack steps forward and makes a curt, military bow.{/n} \"Greetings, Your Highness, I humbly request you hear me out. I come from a duchy you probably haven't heard of, though it's only a day's journey from here. Many ages ago it was destroyed by the fey Nyrissa, and turned into a grain of dust for the sorceress' cursed cup.\""
+    },
+    {
+      "Key": "8712a627-00e8-4511-8551-96b60f1b5a5b",
+      "Value": "\"You can rely on old Jhod, Your Highness! I'll watch over the wounded soldiers here, and then I will catch up with you. The greatest monsters still lie ahead. A priest will come in helpful!\""
+    },
+    {
+      "Key": "889c05f2-34ec-4020-8b5b-91dd940aab32",
+      "Value": "\"That's all very {d|c22 Kesten saved}true{/d}. But you saw what happened when the cup broke, right? The Stag Lord, Irovetti, and many others from the fallen kingdoms returned from the dead. And I returned along with them. I am a shadow... a memory of the old Jhod Kavken, may {g|Erastil}Erastil{/g} save his soul.\nI wandered around the ruins until I found Kesten — and now you. What else can I do but help you?\""
+    },
+    {
+      "Key": "d887fc33-37b8-4855-9cc9-a2ba8444b752",
+      "Value": "\"{d|c22 Jhod saved}Right.{/d}\" {n}Kesten sighs.{/n} \"Damned fool thing... Never mind — I'm not sorry for any of it! I'm not exactly myself, Your Grace. Did you see the Stag Lord and the others who appeared from the cup? Well, I returned with them. Let the priests decide whether I'm alive or not, but no one has released me from service. I'm here now, helping as best I can.\""
+    },
+    {
+      "Key": "c03b8b2c-edce-4b5b-8f62-74e0cc809424",
+      "Value": "\"I suppose you've guessed who I am, or rather — what I am. Warriors from all the fallen kingdoms were kept in the cup, and many return as half-mad shadows. I have returned as well. I am the shadow of Sir Weren Degar. But, unlike the other shadows, I have no desire to fight for those who slaughtered my ruler and my people. If you'd allow me, I would help you in your noble cause as best I can.\""
+    },
+    {
+      "Key": "631f22dc-c96d-45d1-96dc-b65d5231cdfe",
+      "Value": "{n}The priest hangs his head.{/n} \"Why... where am I going to... ah, fine! I'll look for people in the city. Surely someone needs my help...\"\n{n}He walks away with his head to the ground.{/n}"
+    },
+    {
+      "Key": "83e76cc2-ff29-4eb6-9102-962d182b3eac",
+      "Value": "{n}Kesten frowns and shrugs but does not dare argue.{/n} \"As you wish, Your Highness. I'll go then... And look for someone in the city who needs help...\""
+    },
+    {
+      "Key": "e8f11cf2-b60d-461b-94b4-fe1860521e1b",
+      "Value": "\"I'm impressed with your sharp eyes and deep knowledge, {mf|king|queen}. Though you are not the first mortal ruler to surprise me. And not the first one to die by my sword — for the pleasure of the true king, the {g|LanternKing}Lantern King{/g}!\""
+    },
+    {
+      "Key": "b9e4dd91-1998-485f-84b3-10615412544c",
+      "Value": "\"I understand your suspicions, although I am truly sorry for it. Very well, so long, Your Highness!\""
+    },
+    {
+      "Key": "f50e85ea-a493-4113-a7be-9c742e8e1b99",
+      "Value": "\"Yes, Your Highness! I'll talk to the soldiers now, and then catch up with you. Something strange is happening up ahead. There's some monster lurking around where there used to be a tavern. But we'll help bring it down!\""
+    },
+    {
+      "Key": "2992ffbd-a61c-4566-af11-165d6d1f00cf",
+      "Value": "\"Your loss, Your Highness. Of course, he wasn't the real Jhod, but he wished us well. All right, then. We need to deal with this disaster — now.\""
+    },
+    {
+      "Key": "a3669add-c927-444c-a4a0-2c3bee558f9d",
+      "Value": "\"That was harsh, Your Highness. But I think you did the right thing. Nothing good can come of the false little god's foul magic. The real Kesten has long been far away from us — and from everything of this world.\""
+    },
+    {
+      "Key": "904cfcd6-ad66-4770-a47a-492041177ac1",
+      "Value": "{n}Smoke envelops the grinning shadow, changing its features.{/n}"
+    },
+    {
+      "Key": "bd15debf-ca05-4043-9e89-c97c23f85460",
+      "Value": "\"I'm impressed with your sharp eyes and deep knowledge, {mf|king|queen}. Though you are not the first mortal ruler to surprise me. And not the first one to die by my sword — for the pleasure of the true king, the {g|LanternKing}Lantern King{/g}!\""
+    }
+  ]
+}

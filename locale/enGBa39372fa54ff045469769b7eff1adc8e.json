@@ -1,0 +1,145 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "4d1299a2-a6cd-48aa-b87c-68b6de2ead12",
+      "Value": "\"Get out, before I bury you all here!\""
+    },
+    {
+      "Key": "196696b4-c468-4d86-baaa-700cad6088d3",
+      "Value": "\"Who are you and what are you doing here?\""
+    },
+    {
+      "Key": "c69ed7da-a372-4415-84b8-04cff90e327e",
+      "Value": "\"What is this place?\""
+    },
+    {
+      "Key": "dcda2d69-a433-45c9-a303-faafaeebbf47",
+      "Value": "\"Forget this. I'm leaving.\""
+    },
+    {
+      "Key": "6a208fbd-646b-4d6d-af9e-0a1eba5ebe3c",
+      "Value": "\"We can help each other. Let me go ahead and deal with the traps, and you cover my back. We'll split the loot, half for me, half for you. Deal?\""
+    },
+    {
+      "Key": "39874631-a73a-4afe-a90f-17bcc4a9f378",
+      "Value": "\"You know this a plague tomb, right? All these corpses died from disease. My blessings preserve me, what about you?"
+    },
+    {
+      "Key": "e669a5ee-88a0-4ae9-9a36-6d0001130943",
+      "Value": "[Attack] \"You've picked the wrong tone to speak with the {mf|baron|baroness|king|queen}. Death to grave-robbers!\""
+    },
+    {
+      "Key": "c367c263-68b9-4514-b67b-071f90d014e6",
+      "Value": "{n}In the dim light, you come across a group of armed men with swords and bows — two of them are squatting near the body of a halfling. Spotting you, one of the men stands up and regards you with a crooked sneer.{/n} \"Well now, men, look — a corpse that don't know it's dead yet.\""
+    },
+    {
+      "Key": "d01e7d2c-7742-4261-8e67-031329a6f9f4",
+      "Value": "\"Didn't hear me the first time? Get out of here — now!\""
+    },
+    {
+      "Key": "c6b2a136-fc03-41cf-b764-7ad2754e936d",
+      "Value": "\"What, you come to loot the place?\" {n}The leader bares his teeth.{/n} \"You're too late — we were here first, and we're keeping what we found! We're scholars, see, this is our find!\""
+    },
+    {
+      "Key": "90b143cb-3831-4b29-af1a-c9a507bf11b5",
+      "Value": "\"Can't you see for yourself? Ree-surch-ass, we are! Ree-surching this crypt now, everything we find? Why, we give to the poor.\" {n}The leader chuckles, and the other bandits join in.{/n}"
+    },
+    {
+      "Key": "413f68af-f922-4215-aba0-e51252bdc526",
+      "Value": "{n}Gang leader stares at you, baffled.{/n} \"Why should I? We just pry the door open — then we'll see who's buried there and how much gold's with them.\""
+    },
+    {
+      "Key": "2df39c07-b40f-48f7-96a7-4085feed70b0",
+      "Value": "\"Short of it is — the crypt's our find. We'll deal with the traps ourselves and start ree-surching right away.\" {n}The man nods at you, then nods at the exit.{/n} \"And you'd better leave, before you catch something.\""
+    },
+    {
+      "Key": "d9957bb1-327b-41e2-b539-962514545bc3",
+      "Value": "{n}The leader stares at you for a few moments, chewing his lip, then nods.{/n} \"Deal. Men, let {mf|him|her} through!\""
+    },
+    {
+      "Key": "c9fb141e-e020-4e25-b589-9c7755323997",
+      "Value": "\"What, you think we'll just let you run on ahead, take what's ours? Kill {mf|him|her}!\""
+    },
+    {
+      "Key": "d73997b9-7a20-4639-8e84-72b9bb75c421",
+      "Value": "{n}The leader's face looks blankly at you for a moment, then the men behind him begin to shuffle, whispering amongst themselves.{/n} \"Plague?\" {n}The man echoes, which makes the men behind him begin to mutter prayers under their breath and glance around.{/n} \"Ah… no, no we didn't know that. Seems… seems we might want to get out to some fresh air. Get out of this hole.\" {n}He turns to the men behind him.{/n} \"Come on, out, everyone out!\""
+    },
+    {
+      "Key": "da65be3b-3b8a-4ced-a5f4-fc12c9a8bf97",
+      "Value": "\"You take me for an idiot, {race}?! Let's see how clever you are after we run you through!\""
+    },
+    {
+      "Key": "bf7dabf4-8f01-4db2-9b59-1e12a498caa6",
+      "Value": "\"Wha..? Is that so?\" {n}The leader steps toward you and locks eyes with you. As he attempts to stare you down, his angry expression falters, and he swallows.{/n} \"Hnh — you're serious — and as mad as they come.\""
+    },
+    {
+      "Key": "a98a3d20-e159-4eb1-beab-4a375072cb45",
+      "Value": "\"Oh, is that so? We'll see who buries who!\""
+    },
+    {
+      "Key": "a40e2ff0-c93b-4272-af24-cd9fcbdb9f75",
+      "Value": "\"There are some markings on the pillars over there.\" {n}The bandit points toward a massive column.{/n} \"Also that halfling idiot wouldn't shut up about some old book… satisfied? Now get while you still can!\""
+    },
+    {
+      "Key": "07a61bf0-60c8-432c-8a45-90f227a347b0",
+      "Value": "\"We're here on a job, see. This one here hired us.\" {n}The leader nods at the halfling corpse on the floor.{/n} \"Needed help to get into these ruins. And we were like — why not.\" He clicks his tongue sadly. \"But a shame — soon as the little one showed us the way in, he became ill. Must be the excitement, I bet.\""
+    },
+    {
+      "Key": "28f0a121-ab46-4c44-be4d-89cedffe9698",
+      "Value": "\"Such villainy! You murdered a man who trusted you! And now, to cap it off, you dare to utter threats against the legitimate ruler of these lands!\""
+    },
+    {
+      "Key": "65906a86-e790-4f84-9dbc-91f0354948de",
+      "Value": "\"He came to the house of the dead as a merry guest, but settled here forever... Such is the lot of mortals, yes... But what of their murderers? Will they escape their victim's fate?\""
+    },
+    {
+      "Key": "22ebd687-be5c-402d-a51c-4e1791a87216",
+      "Value": "\"Run, run! But don't lose your pants! Ha ha! You really gave them a good one. Watching them turn tail is even more fun than if we'd killed them!\""
+    },
+    {
+      "Key": "66ce1588-f48a-4665-ad49-f17d1564261e",
+      "Value": "\"Yes, fellows, that'll be your grave now... Shouldn't have gotten tough with me and the baron{mf||ess}!\""
+    },
+    {
+      "Key": "3c883f3c-9533-4052-a970-f959c63fb46a",
+      "Value": "{n}The leader tries to save face with an uneasy chuckle.{/n} \"Well now, this hole certainly isn't worth fighting over. We'll find easier pickings.\""
+    },
+    {
+      "Key": "b6747637-6404-4804-94b0-5646890ab9b5",
+      "Value": "\"We'll see who dies today...\""
+    },
+    {
+      "Key": "aac20db5-7bc1-4ed4-800f-b21b114fe23e",
+      "Value": "{n}Valerie looks at the bandit, then the corpse at his feet. She reaches for her weapon.{/n} \"Dirty marauders. We cannot let them go.\""
+    },
+    {
+      "Key": "b8701e5a-2035-4f93-9dca-c67ed2d1781e",
+      "Value": "\"Consorting with these animals! And about what? Robbing ancient tombs!\" {n}Valerie seems almost ready to spit with disgust.{/n}"
+    },
+    {
+      "Key": "39a9ea8a-e271-4eae-9d3e-8baa1d3cca81",
+      "Value": "\"Why are you trying to deceive these scoundrels? The only thing they deserve is immediate payback for their pillaging!\""
+    },
+    {
+      "Key": "cfbc3ffc-3dc4-42be-8ad0-f1ccacca3b19",
+      "Value": "\"You decided to scare them and let them escape? Those scoundrels are marauders and murderers! And we should just let them go?\""
+    },
+    {
+      "Key": "9a231c45-60bf-41e8-8dfa-d3a319feb039",
+      "Value": "\"Let us cleanse your lands of this filth!\""
+    },
+    {
+      "Key": "4cf4041b-1ca3-4b87-8839-3aa7133a8f1e",
+      "Value": "\"Hey, {name}! What is scolar? Like Hero? Or bad thing?\""
+    },
+    {
+      "Key": "2e4aab5c-6d16-496b-9ad3-ee5a03f60ac8",
+      "Value": "\"Would you look at that! Quite a pet, eh? Wouldn't mind getting this one myself, heh heh...\""
+    },
+    {
+      "Key": "fec6d461-83a0-44d2-b496-426ee99aa3c4",
+      "Value": "\"Huh. Sounds like goblin king, all proud and aloof. Scolar thing must be bad word after all.\""
+    }
+  ]
+}

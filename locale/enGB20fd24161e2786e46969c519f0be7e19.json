@@ -1,0 +1,101 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "a84c22c5-c82b-486c-a174-59b645fb541f",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "05764c94-d40c-44f4-99d3-340c236ebfbe",
+      "Value": "\"What is it you sell?\""
+    },
+    {
+      "Key": "e3f7e946-cd70-4a5c-8814-962f7cc1952e",
+      "Value": "\"Who might you recommend I meet here?\""
+    },
+    {
+      "Key": "d77a0d61-b72f-405e-87ce-80c88a5c0bcb",
+      "Value": "\"I've heard few curious words — 'Bloodbrush extract'... and that you're no ordinary salesman, and your wares are far from mundane.\""
+    },
+    {
+      "Key": "d996e097-1d85-4b96-bc40-a387e572ece8",
+      "Value": "\"Farewell.\""
+    },
+    {
+      "Key": "6808707c-a62f-4fd8-9e4d-18e270d23410",
+      "Value": "[Attack] \"Die, you dirty thief!\""
+    },
+    {
+      "Key": "38f6978c-a0cf-44f0-905a-ce3ff2ed0caf",
+      "Value": "\"Have you ever tried this bloodbrush extract?\""
+    },
+    {
+      "Key": "8471ed8e-33b5-4643-bf8a-bb794ba7ad27",
+      "Value": "\"How about you stay away from that junk, all right? It kills pretty fast, and I need you alive.\""
+    },
+    {
+      "Key": "f3466efb-862c-4543-a184-90d35f0891c3",
+      "Value": "\"That's out of the question. In fact, get away from him!\""
+    },
+    {
+      "Key": "7e3debfd-479a-42ba-9a3e-18949c1a14c5",
+      "Value": "\"Reg, leave the poor guy alone! Let's go have some wine instead!\""
+    },
+    {
+      "Key": "a8f109c8-2e46-46e8-a13f-70cf097c78bc",
+      "Value": "{n}The gnome's yellow, bloodshot eyes scan the faces in the room nervously. Noticing you, he grabs for his sealed sheath.{/n} \"What?! Who are you? Oh, it's Your Royal Highness? Forgive me, I... I didn't recognize you. An honor. Truly, a huge honor. I'm... I'm Kharne Vereel, a simple salesman.\""
+    },
+    {
+      "Key": "fb9cb85a-610f-4aef-ba52-34bf3eb2218f",
+      "Value": "{n}The gnome looks at you, suspicion in his little yellow eyes.{/n} \"You again?! I mean, what can I do for you, Your Highness?\""
+    },
+    {
+      "Key": "2ccd7f32-d1e0-4789-9c4d-28dd4933ec67",
+      "Value": "\"I told you already!\" {n}The gnome's voice rises in anger.{/n} \"I'm a simple salesman! Not rich, not noble... Why would a {mf|king|queen} concern {mf|him|her}self with me? {mf|He|She} wouldn't!\""
+    },
+    {
+      "Key": "cc288870-6be2-45e5-927a-b2bd4b61ce56",
+      "Value": "\"What do you care?! Fish, and the like.\""
+    },
+    {
+      "Key": "39afa98b-f5e4-43d1-a919-637fdc5e9ad7",
+      "Value": "\"No one! Everyone! How should I know?! I'm just a simple salesman. Leave me be!\""
+    },
+    {
+      "Key": "6b3a601e-5118-4875-b5bd-4f7f4d2122b8",
+      "Value": "\"Quiet! Quiet, I say!\" {n}Gripping his sheath tightly, the gnome looks around anxiously before whispering,{/n} \"Too many people here... Too many eyes, ears... You want to talk business, find me out in {g|Pitax}Pitax{/g}. I... I'll remember you!\""
+    },
+    {
+      "Key": "33215ff3-8df8-4109-bc48-f9afd4cdc1c6",
+      "Value": "\"Yes, yes, Your Highness. A great honor... Go, have fun!\""
+    },
+    {
+      "Key": "3b66a5af-f1df-45ce-98fd-a1c4f0f83781",
+      "Value": "\"You got any of that stuff on you? Just a little bit?\" {n}Regongar whispers suggestively, winking to the gnome.{/n}"
+    },
+    {
+      "Key": "43b960e7-75e8-4534-a3bc-6b95158bb6e4",
+      "Value": "\"Nah, never — so that's why I want to try it! Why not? We only live once!\""
+    },
+    {
+      "Key": "2b7fc47c-44ff-4dbe-8646-cd27026cfe6d",
+      "Value": "{n}The half-orc mumbles,{/n} \"Yeah, sure you do... Who needs me at all? This way I'd at least die from pleasure, instead of a sword...\""
+    },
+    {
+      "Key": "2305c780-068e-4538-8bca-aa872e7f35bf",
+      "Value": "\"Die wherever you want, just keep away from me! I told you, I've got nothing!\""
+    },
+    {
+      "Key": "39c1c6b1-7234-42bd-8c58-87fa7a99b8e1",
+      "Value": "\"Fine, fine... just asking!\" {n}Regongar turns away resentfully.{/n}"
+    },
+    {
+      "Key": "5208d146-04e9-43f1-aa89-62561159627e",
+      "Value": "\"Wine? Now that's an idea... Ha ha, fine, let's go do it! Ha, gnome, I thought you knew your business! Who turns away buyers?\""
+    },
+    {
+      "Key": "74f5ef59-a9ee-4102-add5-3c67166ba368",
+      "Value": "\"I do! I told you I got nothing! Now leave me alone! Out! Get out of here!\""
+    }
+  ]
+}

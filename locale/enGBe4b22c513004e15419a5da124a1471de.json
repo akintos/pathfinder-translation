@@ -1,0 +1,101 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "5868e6df-dcd0-4123-b494-d8ca56f5ef8b",
+      "Value": "{g|Loyalty4_1}[Choice effects]{/g} [Pay 100 BP] \"It would be well to open a printing house in the capital.\""
+    },
+    {
+      "Key": "92f24c48-4cbc-428a-80c8-d4e5c71881dc",
+      "Value": "\"We won't be opening a printing house in the capital.\""
+    },
+    {
+      "Key": "c9713074-f060-47d2-a620-819afd2f2e89",
+      "Value": "\"Make your own decision.\""
+    },
+    {
+      "Key": "42b25867-7ffb-4fa8-9610-c185a9fd198d",
+      "Value": "\"But we have Linzi's printing shop. Why do we need another one?\""
+    },
+    {
+      "Key": "a6fc3d8c-b02d-45bd-8270-285067efeb92",
+      "Value": "\"There's something important I wanted to discuss with you.\" {n}Meeting your eyes, Tristian looks away, as if perplexed.{/n} \"It's not easy to admit, but recently the {mf|barony|barony|kingdom|kingdom} has grown so much that I feel it slipping my grasp. Please, ease my burden by finding someone for the position of curator of arts and education.\""
+    },
+    {
+      "Key": "a289eade-187d-4493-ab52-c82576009eff",
+      "Value": "{n}Tristian catches his breath and smiles brightly.{/n} \"It's a huge weight off my shoulders! I have other news as well, which I'm sure you will find agreeable. As you know, our neighbor, {g|Galt}Galt{/g}, has been in chaos for years. Their ever-changing rulers destroy that which goes against their fickle doctrines, including scientists and creators. But one of them was recently able to escape – to your lands!\""
+    },
+    {
+      "Key": "31dbdd87-e967-4a94-9890-da7e0cdb165b",
+      "Value": "\"He's the publisher of a newspaper, whose headquarters in {g|Galt}Galt{/g} were burnt down after false accusations of slander. He wishes to move to the capital where he will enjoy your protection, and in exchange he has offered to found a new printing house! He escaped Galt with his plans for a printing machine with him, and is ready to start his business here – with your permission and help, of course. I think it's a wonderful opportunity – not only to get our own newspaper, but to help an innocent man get back on his feet. What do you say?\""
+    },
+    {
+      "Key": "12dd96c3-09d3-42e8-92e3-6432e8e95fad",
+      "Value": "{n}Shandra looks thoughtful.{/n} \"I am trying to solve a problem, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. You see... my responsibilities require me to focus on the most important problems of the {mf|barony|barony|kingdom|kingdom}... meanwhile, less important issues – particularly relating to culture, art and education – are left unattended. The only way out I can see is to find a curator, who may deal with these nuances, and free me to focus fully on our more urgent affairs.\""
+    },
+    {
+      "Key": "3244d1d7-9a51-4be5-aa68-3481c7e2c202",
+      "Value": "\"Anyway, I've come to speak with you of another issue. There's a man from Galt here in your lands, seeking asylum. He's different from the other sorry refugees, fleeing {g|Galt}Galt's{/g} unending flames of revolution: this one used to have his own newspaper press. Today all he possesses is a lingering ambition, and the plans for a printing machine.\""
+    },
+    {
+      "Key": "bdab6e76-c705-4519-9718-463c93c5aa9e",
+      "Value": "\"You've probably guessed where I'm going with this. Much can be said against Galt, but not for its lack of technical progress. I believe that founding a printing house in the capital, run by an experienced manager, would reflect well upon our population's education and enlightenment. Besides, as patron you would control what would be printed in this workshop.\""
+    },
+    {
+      "Key": "50e6f45f-67c3-4a1d-8a98-ea3d3e70b063",
+      "Value": "{n}Tsanna pats the two-headed rat peeping out from her clothes.{/n} \"{name}, everything is going smoothly in your domain. The people have filled their bellies, and now they crave beauty. However, my vision of beauty... is slightly differs from yours. Find a new advisor who can deal with the issues of art and culture.\""
+    },
+    {
+      "Key": "9a43ca4b-b80f-40d0-abb0-8dc3483aed45",
+      "Value": "\"Before you find one, there's something I'd like to discuss. A poor fellow, a typographer from {g|Galt}Galt{/g}, has come here seeking refuge with us. To show his gratitude, he'd like to open a publishing house in the capital. My job is to deliver the message, but if you want my opinion, it is this: send him away.\""
+    },
+    {
+      "Key": "4e0c5094-98c4-45f2-8fda-6d712521a193",
+      "Value": "\"It's difficult enough to manage a pack of scholars and academics. It's even worse that this fellow is already someone else's prey. Don't stand in the way of the {g|Galt}Galt{/g} hounds that chase him. It could end up worse than you can imagine.\""
+    },
+    {
+      "Key": "9efc23c4-7877-4208-b578-77756def2e23",
+      "Value": "\"Wonderful! I shall immediately send a messenger to the poor fellow, and inform him of your decision!\" {n}Tristian's eye flash with excitement.{/n} \"You have saved another soul from hopelessness and despair!\""
+    },
+    {
+      "Key": "91016432-b504-4617-857a-9286bcf00fea",
+      "Value": "\"I am happy we're of the same opinion on the matter. I'll make sure this runaway receives a fair welcome in the capital.\""
+    },
+    {
+      "Key": "7338836c-fa40-44a3-8a28-46d8e49df563",
+      "Value": "{n}Tristian sighs.{/n} \"I am very, very sorry... well, I hope this refugee finds a home somewhere else.\""
+    },
+    {
+      "Key": "84f2b8c8-a2cf-49a8-8423-2b430a6c0744",
+      "Value": "{n}Shandra thinks for a few moments.{/n} \"I understand. You don't want trouble with {g|Galt}Galt's{/g} authorities. Who knows what hunters chase this refugee. Your decision is quite reasonable. I shall do as you say.\""
+    },
+    {
+      "Key": "4020d54a-ff08-425f-be68-548344781c17",
+      "Value": "\"I agree. I'll make sure this refugee is driven from your lands as quickly as possible.\""
+    },
+    {
+      "Key": "93590ab0-f3ba-429f-8f42-fba006a98f6d",
+      "Value": "\"Then I will immediately send a messenger with an invitation to the capital. Forgive my haste, but I just can't stand by and watch someone suffering.\""
+    },
+    {
+      "Key": "365e8164-5560-4d28-9f54-0271a26ff2a9",
+      "Value": "\"Then I insist we open a printing house. Don't worry – I shall make all the necessary arrangements.\""
+    },
+    {
+      "Key": "ec9aa90c-cd57-41e7-9901-0ff08459b8db",
+      "Value": "\"I'll chase him from the capital, {name}. And I will make sure he never approaches our borders again.\""
+    },
+    {
+      "Key": "ea81c63c-8c0c-47c8-9218-a76b3b1ba987",
+      "Value": "{n}Tristian smiles.{/n} \"Linzi publishes books, not newspapers. I doubt she'd be interested in this kind of endeavor. And our guest from {g|Galt}Galt{/g} specializes in it!\""
+    },
+    {
+      "Key": "2b02b41a-1282-4959-bd35-db6aaa775dfb",
+      "Value": "\"With all due respect, Linzi is far too creative to manage newspaper publishing. It demands certain discipline – which, I am sure, this publisher from {g|Galt}Galt{/g} possesses.\""
+    },
+    {
+      "Key": "9ffacaa7-0bb2-4cce-8a0b-ccb9346b384e",
+      "Value": "{n}Tsanna smiles sarcastically.{/n} \"All the more reason to reject the refugee's offer.\""
+    }
+  ]
+}

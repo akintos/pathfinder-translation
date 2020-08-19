@@ -1,0 +1,209 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "7171cbf1-83f1-4af7-a5bf-c6285ad356f7",
+      "Value": "\"Let's get to the point. You say the bandits are going to attack again? Who are they, and when will they arrive?\""
+    },
+    {
+      "Key": "209c1053-0db2-4505-a13d-bfe38b448fce",
+      "Value": "\"Oleg, I'd like to see your goods.\""
+    },
+    {
+      "Key": "13ec18c6-875c-4902-8260-7ac230967c8d",
+      "Value": "\"We'll talk later.\""
+    },
+    {
+      "Key": "bf960fa1-bb2b-4f3a-9a83-442921f644ee",
+      "Value": "\"You have nothing to fear. I'll help you deal with the attack.\""
+    },
+    {
+      "Key": "1da99ae2-167b-408e-9c6d-35688eeb0d8a",
+      "Value": "\"Tell me as much as you know. How many bandits are there? What do they want?\""
+    },
+    {
+      "Key": "83f0146e-bea3-4d41-847e-ae96ce2d9666",
+      "Value": "\"They claimed they were collecting taxes. Why?\""
+    },
+    {
+      "Key": "94bc0cd1-84e0-4a58-9404-b95883e7307d",
+      "Value": "\"The safety of your post may have been one of the conditions Jamandi Aldori placed on granting me barony, but she said nothing about having to listen to your whining.\""
+    },
+    {
+      "Key": "15f03403-fbc1-43cd-a920-f2605648e3ef",
+      "Value": "\"Can you answer a few more questions for me?\""
+    },
+    {
+      "Key": "9ea95b1a-c0fe-4b93-a452-c14356a44cd4",
+      "Value": "\"Enough about the bandits for now.\""
+    },
+    {
+      "Key": "e2da3af6-0d30-4586-9029-387a20f453fb",
+      "Value": "[Wait for attack] \"I'm prepared for the attack. Get in your positions and wait.\""
+    },
+    {
+      "Key": "054b4207-d8c2-4345-957a-198f972789cd",
+      "Value": "\"Tell me more about yourselves.\""
+    },
+    {
+      "Key": "eda6319f-bc5c-45b8-9743-7819d546decd",
+      "Value": "\"Let's get back to the possible attack...\""
+    },
+    {
+      "Key": "1ef0836e-6685-424e-86c6-1b5d145e5ff9",
+      "Value": "\"I'm going to look around, think on the best way to use the tar and traps.\""
+    },
+    {
+      "Key": "2fddff11-b9b7-489a-9ba5-9d3115420dfc",
+      "Value": "\"I saw someone run out of the trading post. Do you know who it was?\""
+    },
+    {
+      "Key": "b75ef08a-8271-487a-afd6-a29428389e76",
+      "Value": "\"Alchemist's fire? We could put it by the gate, light it off with a burning arrow when those bandits are nearby.\""
+    },
+    {
+      "Key": "8f4fab87-619a-4679-8db5-3840570866ab",
+      "Value": "\"What can you tell me about that man who ran away from the post and came back?\""
+    },
+    {
+      "Key": "1dea6037-3003-4dda-a3c8-87363fd1b5e8",
+      "Value": "\"I'll help you. I'm not really interested in your post, but I never back down from a good fight.\""
+    },
+    {
+      "Key": "e04533b6-f081-4b89-81ef-b84a30512233",
+      "Value": "\"I like your idea.\""
+    },
+    {
+      "Key": "113eec02-32cf-497e-93c1-e67f99439a2e",
+      "Value": "\"Better give the alchemist's fire to me. We can deal with bandits without it.\""
+    },
+    {
+      "Key": "b6f6bea9-8130-4ee3-ba60-825c3775667d",
+      "Value": "\"Alchemist's fire? Could you give it to me? I'm sure I'll find a good use for it!\""
+    },
+    {
+      "Key": "705b97da-da60-4aa4-b6b9-2e2b0ed1fa39",
+      "Value": "{n}Oleg looks at you as though he'd hoped you and the bandits would cut each other to pieces, then he grunts.{/n} \"So, the rats bailed, huh? Better than nothing. But that won't keep them away for long. They'll be back with help, and they'll raze this post to the ground. Now what are we to do?\""
+    },
+    {
+      "Key": "97c85c38-ee4d-4b1b-931d-d87e4b8ccc52",
+      "Value": "\"That must have been Bokken. He sells potions. He lives out in the forest like a hermit, but he comes here every day. He knows every tree and bush in the area and how they can help you. The Stag Lord's gang wants him to work for them. He lacks the courage to fight those bandits, but he won't just walk away from us. He has a good heart, even if he grumbles a lot, especially recently.\""
+    },
+    {
+      "Key": "309b2b61-cb2c-4690-90d0-889b6b675662",
+      "Value": "{n}He notices a fair-haired woman approach.{/n} \"Dove! Why are you here? I told you to stay hidden!\""
+    },
+    {
+      "Key": "174f5476-4bca-49f0-860a-d176a3dd13c3",
+      "Value": "\"It's all over — I saw it. I just needed to be sure you were all right...\" {n}The woman looks at her husband tenderly, if with a hint of sorrow. Oleg mumbles something as he looks away, embarrassed.{/n} \"My name is Svetlana. I'm sorry your arrival to our {g|Oleg's Trading Post}trading post{/g} turned out so... unwelcoming.\""
+    },
+    {
+      "Key": "63fca25d-1c23-4adf-abdd-1406daca9ace",
+      "Value": "\"Take that, you scoundrels!\" {n}Oleg shakes his fist.{/n} \"But now...\" {n}He scratches his head and stares at the ground gloomily.{/n} \"The girl got away, a plague on her. She's certain to complain to the Stag Lord. They came before to 'collect taxes,' but this time they'll come to 'punish treason'... Now what are we to do?\" {n}He sighs heavily.{/n} \"If only I could send Svetlana somewhere safe and show those rats what's what!\""
+    },
+    {
+      "Key": "e9e58314-74c5-4e23-b690-b9bc162abb62",
+      "Value": "{n}Oleg waves his hand sullenly.{/n} \"Who are they? They're the Stag Lord's gang, that's who! These lands teem with bandits like bedbugs in a beggar's hut, and you just stirred them up. They have a camp not far from here — I expect they'll return in full force in half a day, maybe less. The Stag Lord won't take an insult like this lightly, and his henchmen are more like demons than men...\""
+    },
+    {
+      "Key": "9c2a33ad-9649-4128-ab49-880e7ce3bd9e",
+      "Value": "{n}Oleg grunts.{/n} \"So, what, I should start calling you 'Your Grace' and kneeling as you pass? I may not be a noble, but I have my dignity — you won't see me crawling on my knees! Let's prepare for the fight, and then we'll see what kind of baron{mf||ess} you are. Let's see... I have some spare traps, some tar... and a box of alchemist's fire. I'd bet some of it could help in the battle.\""
+    },
+    {
+      "Key": "ea32fd8c-d3a6-4b84-a5a2-2f444f4b0860",
+      "Value": "\"Well, I appreciate your good intentions. I may not have the best manners, but Oleg Leveton is the last name you'll hear accused of being ungrateful! If we manage to defend this post, I'll reward you proper.\""
+    },
+    {
+      "Key": "e3d6cf26-bd48-4d44-b2d4-36bdbae86446",
+      "Value": "\"What do they want? Those bloodsuckers think they own this land — they come, take what they want, and steal the better part of our money every month as a toll for their leader. They even broke our gate so we couldn't try to hide anything from them. No one knows exactly how many there are. Sometimes only five or six come — sometimes, it's a whole gang. I'd have shown them what for long ago, if not for Svetlana.\""
+    },
+    {
+      "Key": "3ec2401e-a9cf-4a58-b79f-84fc0495d1de",
+      "Value": "\"For the Stag Lord and his cronies, of course! That Stag Lord fancies himself a king in these parts. He may have antlers for a crown, but all the troublemakers around here are happy to follow his orders as long as they're paid. So they charge an arm and a leg as 'taxes,' and they call their executions 'punishment for treason,' even those who never swore allegiance to the Stag Lord. They're killed fast, if they're lucky. If not...\" {n}Oleg looks to Svetlana.{/n} \"Dove, why don't you go start supper while we finish our talk?\""
+    },
+    {
+      "Key": "da1a43f0-b14f-4c2a-b049-099c6a9c394e",
+      "Value": "\"I've no need to be protected from dark talk. I'm not some blind kitten, you know — I've seen what they do to people.\" {n}Svetlana lowers her head.{/n} \"Most of the gang is made up of simple bandits, but there are a few monsters among the leadership, especially those close to the Stag Lord. Auchs and Dovan from Nisroch come to mind. They like to make a show of their tortures and executions. My husband and I... we saw the bodies.\""
+    },
+    {
+      "Key": "fefcfdf3-4a58-47ff-8d4b-6351224368a0",
+      "Value": "\"I'm afraid they'll come back while we're chatting away, but what's to be done...?\" {n}Oleg mumbles.{/n}"
+    },
+    {
+      "Key": "b7824605-dedf-4fb4-8c31-3cc49be3be00",
+      "Value": "\"Don't know what good trading will serve if those bloodsuckers come back and take everything... but all right, have a look.\""
+    },
+    {
+      "Key": "a077ae6f-2f81-4b5c-8343-01cf986ba7c1",
+      "Value": "\"Meanwhile, they'll never have enough.\""
+    },
+    {
+      "Key": "f26ebfc4-bfe1-4f96-9f82-f551078d4df0",
+      "Value": "\"Svetlana, go hide inside! We're going to go meet our guests.\""
+    },
+    {
+      "Key": "99269c9f-2fb7-448b-88ba-434c8ffae696",
+      "Value": "\"I see you're not easily cowed.\""
+    },
+    {
+      "Key": "1fdd819a-3c64-4af4-a6ae-c57cc456876b",
+      "Value": "{n}Oleg shifts uncomfortably.{/n} \"Surely there are more important things to discuss... Well, all right. We're just honest people who came here from {g|Restov}Restov{/g}. We fixed up the old fort to house travelers and give merchants a place to trade with the locals. We also deal with the occasional huntsmen in the area. What does any of this matter? When those bandits come back, they'll either drain us dry or just kill us.\""
+    },
+    {
+      "Key": "fd24759b-de47-4d63-b4f7-6f3b52f3d7cf",
+      "Value": "{n}Oleg seems to be even gloomier, and Svetlana sorrowful. Both of them look at you intently.{/n}"
+    },
+    {
+      "Key": "f2675c28-017f-4bc7-be34-5a4c23d70a56",
+      "Value": "\"If we keep dallying, we'll end up talking WITH the attackers rather than about them. If they're even willing to talk...\""
+    },
+    {
+      "Key": "aaecfe2b-01cc-458d-9374-9f4f939421f1",
+      "Value": "\"All right. Soon as you're finished, let us know. And don't leave the post — the bandits could return at any time.\""
+    },
+    {
+      "Key": "51296a49-a2f7-42c1-8fb9-0196f0b77807",
+      "Value": "{n}Oleg and Svetlana are discussing something in low but impassioned whispers. You manage to make out the words 'Forget about it!' before they stop talking and turn to you.{/n}"
+    },
+    {
+      "Key": "273d3169-5be5-4e66-8164-304e6d090032",
+      "Value": "\"But that could set the post on fire!\" {n}Oleg shouts, surprised.{/n} \"Well, maybe if we covered the walls with something to protect them... All right, yes. I think it could work — I'll even shoot the arrow myself. I used to be pretty good with a crossbow, back in my day.\""
+    },
+    {
+      "Key": "3377e42a-39a0-4cb3-aeb5-17026b0fd1bd",
+      "Value": "\"I beg you, be careful. And please don't let Oleg do anything too risky.\""
+    },
+    {
+      "Key": "481c3dba-d808-473f-8958-da4e9eb9244c",
+      "Value": "\"Fear not! I'll stand between you and this scum! You're under my protection!\""
+    },
+    {
+      "Key": "65110b39-2d6d-4caa-acbc-8f8abe292b60",
+      "Value": "{n}Amiri flexes her shoulders.{/n} \"Finally, a fight. Was bored with all that talking.\""
+    },
+    {
+      "Key": "36b43af3-b6d4-4355-a0a1-8c24969e7317",
+      "Value": "\"Well, these aren't the heroics I was hoping to write about, but I guess even the greatest heroes had to start somewhere.\""
+    },
+    {
+      "Key": "c1dfdaf8-bde4-444d-b269-f63cd3ed836c",
+      "Value": "\"We have to hide Svetlana — please don't argue, Dove! Now, we also need to decide on a plan. Go ahead and look around — there may be some tools that can be used for the battle. There are some pretty solid traps around, some tar, and... a box of alchemist's fire, looks like.\""
+    },
+    {
+      "Key": "666a9a61-f4c2-4e6a-bd8d-9be68fcc4ab5",
+      "Value": "{n}Oleg grunts.{/n} \"Well, thanks, I guess. I might even be able to scrape some sort of reward together for you if we manage to defend the post.\""
+    },
+    {
+      "Key": "6aecda09-fb13-4fc6-9c70-b148ee9a6db9",
+      "Value": "\"I'll help you fight. I've got a box of alchemist's fire we can use. We could put it by the gate, then set it off with a burning arrow when those bandits get close. I'll even shoot the arrow myself. I used to be pretty good with a crossbow, back in my day.\""
+    },
+    {
+      "Key": "65ac3237-1a83-4f66-84bf-f7189a6a01d9",
+      "Value": "\"Are you sure? Well, it's your call. Here, take it.\""
+    },
+    {
+      "Key": "b40e9c5a-4206-4d57-a2c0-8098e5873b5e",
+      "Value": "\"Here, take it. But should you start throwing it into bandits, please, be careful. Don't set the post on fire.\""
+    }
+  ]
+}

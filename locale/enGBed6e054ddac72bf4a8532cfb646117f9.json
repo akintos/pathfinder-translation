@@ -1,0 +1,113 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "6b3386f7-fa9e-4b2d-8730-a2e0d150ca29",
+      "Value": "{g|Stability6_1}[Choice effects]{/g} [Pay 200 BP] \"We should focus on causes, not consequences. I command you to begin renovating the slums.\""
+    },
+    {
+      "Key": "17d509a7-82a5-40cb-9647-1f90a28c87e7",
+      "Value": "{g|Stability6_2}[Choice effects]{/g} \"Order your men to patrol the slums more frequently. You should check everyone who enters or leaves.\""
+    },
+    {
+      "Key": "89820e3e-71b9-48e2-8b3b-56735d279ded",
+      "Value": "{g|Stability6_3}[Choice effects]{/g} [Pay 50 BP] \"There's no place in my capital for this breeding ground of crime and disease. The slums must be removed.\""
+    },
+    {
+      "Key": "38393ee9-85c2-4ac5-89c2-521431a94ebe",
+      "Value": "{g|Stability6_4}[Choice effects]{/g} \"Such is life in the city. It can't be helped, so we shouldn't agonize over it.\""
+    },
+    {
+      "Key": "cc6d39b6-2c2c-41f6-bc26-650fccd11005",
+      "Value": "\"Settle this matter as you see fit.\""
+    },
+    {
+      "Key": "d15cde12-98ce-46fc-b4d9-28d298fcfa54",
+      "Value": "\"But now there's a new concern. I've heard several complaints about the slums on the outskirts of the capital. They say that only thieves and beggars live there. They say that we should tear down their huts and send them away, and the city would be cleaner and safer for it.\" {n}Ekun shakes his head.{/n} \"But the poor have nowhere to go. They'll just find a new place and build new huts, even shabbier than before.\""
+    },
+    {
+      "Key": "51f4e4b8-ab42-4031-b5c0-0ef64354e1ca",
+      "Value": "\"There is other news as well. Due to the capital's rapid growth and the inflow of people from the provinces, the outskirts of our capital have become a real slum. Streams of sewage crisscross the streets, hordes of rats and disease abound… What's worse – robbers, pickpockets, fences and the other dregs of society have found a home there.\""
+    },
+    {
+      "Key": "ff36d834-d285-47c0-8207-9be5054b74b2",
+      "Value": "\"Oh, by the way, there's something else. The people of the capital are complaining – again! This time it's the slums on the outskirts of the city. They stink to high heaven, hordes of rats piling out 'em every night, and every thief and pickpocket in town has a hideout there – or so they say.\""
+    },
+    {
+      "Key": "bf8b4df9-975a-4a72-b0c2-2ed83aa730cb",
+      "Value": "\"My advice – lift up the slums from the mud. Hire those who live there as builders. Teach them to dig wells and waste pits, to pave the roads and put up street lamps. Then, once they're done cleaning their district, hire them to start work on the next one. Give these people jobs and decent homes, and there won't be a thief among them.\""
+    },
+    {
+      "Key": "ca864be2-7445-4f04-8065-89f206648e9e",
+      "Value": "\"I suggest we double the guard in the slums and place restrictions on who can come and go, and when. It's much cheaper than trying to clean them up, and more effective than simply tearing them down.\""
+    },
+    {
+      "Key": "38543ae4-f4e2-4692-8161-9851cec6d1bb",
+      "Value": "\"And as far as the last part, that's definitely true. Me and my boys would have a much easier time if you let us just tear those dirty shacks down, and drive off all the scum that lives there. Of course, some think the district could be cleaned up... but they're just crazy. You could spend a mountain of gold building it up. In a few years it'll just turn back into a slum again.\""
+    },
+    {
+      "Key": "afb290a5-de0c-48a4-86e7-d24f3b354034",
+      "Value": "\"I will begin at once.\""
+    },
+    {
+      "Key": "30f93f45-fa40-4d9e-a6b4-643edf6800ca",
+      "Value": "\"It will be done.\""
+    },
+    {
+      "Key": "e3e8433e-28b8-42c9-8987-24511ecd65df",
+      "Value": "\"Certainly, Your {mf|Grace|Grace|Highness|Highness}. I should have suggested this a long time ago.\""
+    },
+    {
+      "Key": "4807e9de-1e66-4e44-a098-fbbd6186475f",
+      "Value": "\"Hm. That should do it just as well. I'll tell my boys to get busy. Maybe this will finally teach them a thing or two about life on the streets…\""
+    },
+    {
+      "Key": "d6d8a000-66d7-4138-82be-45bd9bd59134",
+      "Value": "{n}The half-orc rubs his hands in anticipation.{/n} \"Well said, ha ha! It's high time me and the boys got a little exercise…\""
+    },
+    {
+      "Key": "369bc060-82d3-41b1-b937-146ca29916da",
+      "Value": "\"Ha! Spot on. What do we care? The commoners can squabble all they want.\""
+    },
+    {
+      "Key": "e79acfaa-e24f-4805-abb8-d72b360c2437",
+      "Value": "{n}Ekun nods.{/n} \"We'll commence the renovation. The outskirts will become a fine place to live, just like any other district.\""
+    },
+    {
+      "Key": "361b4c46-d954-455a-b6ff-0200d1f2431c",
+      "Value": "\"As you command, Your {mf|Grace|Grace|Highness|Highness}. I'll double the patrols and ensure all entrances are watched day and night.\""
+    },
+    {
+      "Key": "6d3e7d3d-2748-4bbb-af47-279382293508",
+      "Value": "\"Sure thing. I'll rid the capital of this filth… It's been a while since me and the boys had some fun.\""
+    },
+    {
+      "Key": "02fd8552-3cf4-404b-86b5-b5d4bb103fcd",
+      "Value": "\"Great news! More and more bulettes are being spotted in that region, what's it called… I heard that some trader saw a landshark as big as a house! About time we paid them a visit, ha ha ha hmmm…\""
+    },
+    {
+      "Key": "bb47f6e1-6012-48d3-a27d-1d41e4e1d4f3",
+      "Value": "\"There have been new sightings of bulettes, Your {mf|Grace|Grace|Highness|Highness}. The creatures are becoming more and more numerous – as well as bigger and more aggressive. One of the guards swears he saw one as big as a hut…\""
+    },
+    {
+      "Key": "4000c02e-4fe6-442c-9bff-516d789dc30c",
+      "Value": "\"Those bulettes. They are gone. All dead. But the peasants have begun to complain about other wild animals and bandits. It seems that without the bulettes, the other threats have become more numerous. But of course wolves and bandits are better than giant monsters…\""
+    },
+    {
+      "Key": "3ef153a0-d7ba-47be-9361-5ac1ddc73b93",
+      "Value": "{n}Kesten looks grim.{/n} \"I've received new reports about those bulettes, Your {mf|Grace|Grace|Highness|Highness}. We managed to get rid of them, but this only led to an increase in attacks from other dangerous beasts – and even bandits! It seems that the bulettes had been keeping them at bay...\""
+    },
+    {
+      "Key": "d6eb43ea-9285-462f-9029-af59174f944b",
+      "Value": "\"Bad news. The hunters are terrified of a giant bulette, a really mean one. It's giving the locals a lot of trouble. You were warned.\""
+    },
+    {
+      "Key": "a1ddeee7-0759-41ae-b831-ed22fdfa3106",
+      "Value": "{n}Regongar is beaming.{/n} \"Remember those rare bulettes? Well not long ago, the locals finally killed them all off… but now they're constantly under attack from bears, wolves and even bandits! They've taken the bulettes' place! Ah ha ha ha ha hmmmmm!\""
+    },
+    {
+      "Key": "26c9243d-f7a7-4c0c-92fd-67682e37fca8",
+      "Value": "\"As you command, Your {mf|Grace|Grace|Highness|Highness}.\""
+    }
+  ]
+}

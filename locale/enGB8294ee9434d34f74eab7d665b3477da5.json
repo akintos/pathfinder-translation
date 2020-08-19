@@ -1,0 +1,45 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "eebf1a2e-6cb5-4464-93fa-ee2ca8e5cc6a",
+      "Value": "[Speak the word \"kheb\"]"
+    },
+    {
+      "Key": "78746719-b34d-4ad6-8e33-4f28ed4108e0",
+      "Value": "[Leave]"
+    },
+    {
+      "Key": "e66bf31f-cd4f-4392-b17f-a3c5e73dc865",
+      "Value": "[Search for way to unlock the door]"
+    },
+    {
+      "Key": "9bd5c27a-50ad-4bdc-a8ee-8d81227385d2",
+      "Value": "[Try to force the door open]"
+    },
+    {
+      "Key": "492cf9a9-ed88-4f1a-b172-f64366c5e37e",
+      "Value": "[Use detect magic]"
+    },
+    {
+      "Key": "d1594b93-0717-4569-ad02-dbed973f28da",
+      "Value": "{n}A massive stone door blocks the entrance. It has no knobs, buttons, or other signs as to how to unlock it. However, a thick patch of moss has been scraped off the door's hinges, hinting that it's been opened recently.{/n}"
+    },
+    {
+      "Key": "9f3f6519-4e62-4d0c-b9fb-53e944141dcf",
+      "Value": "{n}You barely scratch the door. You may as well have tried forcing your way through the rock face around it.{/n}"
+    },
+    {
+      "Key": "ca2e8dbf-b838-4d8c-b724-1c84427f2d61",
+      "Value": "{n}You can't find any physical mechanisms. It seems the door must be opened through some magical means.{/n}"
+    },
+    {
+      "Key": "0d070fd8-888a-43b7-921c-304fb1e070b0",
+      "Value": "{n}The door radiates a faint transmutation aura.{/n}"
+    },
+    {
+      "Key": "fb11a876-b386-495d-90be-3bfd44708a3a",
+      "Value": "{n}Without a sound, the door slides to the side, revealing the passage beyond.{/n}"
+    }
+  ]
+}

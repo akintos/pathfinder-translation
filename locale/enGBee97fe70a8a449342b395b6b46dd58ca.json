@@ -1,0 +1,241 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "e1e32c68-802d-441d-9928-56110bb0e42e",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "58ed8227-2eff-415f-b576-cc2f3577259f",
+      "Value": "\"Dragon? Feast? What's going on here?\""
+    },
+    {
+      "Key": "636f598b-b98d-4790-81cf-ce45676eb6ba",
+      "Value": "\"Tell me more about your fish situation.\""
+    },
+    {
+      "Key": "1bb3e97a-a2ef-4902-bbdb-fc2054bafb1c",
+      "Value": "\"The fish were jumping ashore thanks to an ancient sarcophagus the nixies accidentally drowned in the lake.\""
+    },
+    {
+      "Key": "d3404098-3b53-4d51-9b81-4ca090eef6f6",
+      "Value": "\"Do you have any idea who I am? I'm your {mf|baron|baroness|king|queen}!\""
+    },
+    {
+      "Key": "9f7d02be-10ae-4244-9d34-627becb739ed",
+      "Value": "\"Dragons that huge don't exist.\""
+    },
+    {
+      "Key": "97fb5cc9-cc5e-4568-bdf9-abb8ffcb1001",
+      "Value": "\"Have you ever seen this dragon with your own eyes?\""
+    },
+    {
+      "Key": "fed0d020-4b71-4c68-b423-d823f6df97b8",
+      "Value": "\"So what exactly has this dragon done to help you?\""
+    },
+    {
+      "Key": "86e95031-d8b8-4a96-a236-c959f5b4a963",
+      "Value": "\"The scale Ivar gave you came from a wyvern, not a dragon.\""
+    },
+    {
+      "Key": "eb58ed97-d3b2-4d95-af6f-f368763d8b7a",
+      "Value": "\"Enough about that for now.\""
+    },
+    {
+      "Key": "40a423e2-7383-4263-ac68-62af72b61a38",
+      "Value": "[Attack] \"I'm just here to rid the world of one more utter fool!\""
+    },
+    {
+      "Key": "4a2e3ef0-2ee9-4fc9-b0c2-b1c8e0fecc60",
+      "Value": "\"Who is he?\""
+    },
+    {
+      "Key": "90680d2d-f3a1-4776-9d52-3682bd19e4df",
+      "Value": "\"Seems you didn't know him half as well as you thought. Ivar was a werewolf, an evil beast — but I put an end to him.\""
+    },
+    {
+      "Key": "cbb9638d-bf42-4180-b88f-5bd5652be6b2",
+      "Value": "\"Seems you didn't know him half as well as you thought. After his family died, Ivar cursed himself and became a werewolf. I spared his life, but I don't think you'll see him around here anymore.\""
+    },
+    {
+      "Key": "406e5860-2bfd-41e3-adf1-780860dd04c8",
+      "Value": "\"Something terrible happened to him, didn't it?\""
+    },
+    {
+      "Key": "9c82c890-1371-4f3b-805d-447c38c96b6a",
+      "Value": "\"I know for a fact it was a cyclops kept in a sarcophagus under the lake that caused all the strange occurrences around here. The cyclops is dead now, and the village is safe.\""
+    },
+    {
+      "Key": "28816856-1515-4105-aef6-3d3b07df1719",
+      "Value": "\"Let's talk about this hunter — Ivar, was it?\""
+    },
+    {
+      "Key": "13e94cc0-877f-4c80-b031-a1c6cb6d9a2c",
+      "Value": "\"I need to tell you something about the fish and this dragon of yours.\""
+    },
+    {
+      "Key": "ec62752f-e3ff-4802-a15c-ea1a133b7294",
+      "Value": "\"Tell me more about this dragon of yours.\""
+    },
+    {
+      "Key": "ad8c3d07-0982-489e-abd7-819a480796d0",
+      "Value": "\"Everything you thought you knew about the dragon proved to be false. Do you still not believe me?\""
+    },
+    {
+      "Key": "71f63d2e-f41d-4978-8afd-41d259cc3e41",
+      "Value": "\"How about we talk about something else.\""
+    },
+    {
+      "Key": "cbab4988-1d7a-4376-9c0a-2ed8f1af56b7",
+      "Value": "\"That's enough about Ivar for now.\""
+    },
+    {
+      "Key": "0b81ce95-9bc9-4e6c-b85f-d8e1e5b84f30",
+      "Value": "\"Do you know where he is now?\""
+    },
+    {
+      "Key": "38953046-146e-48c0-bc18-9900496749d0",
+      "Value": "\"Let's talk later. Farewell!\""
+    },
+    {
+      "Key": "0e7c561a-d063-43da-9a35-9c3279b98d91",
+      "Value": "[Lie] \"He tried to tell me where to meet him! He said, '{mf|Baron|Baroness|King|Queen}, look for me at-' but then a gust of wind picked up, and I couldn't catch the last of it!\""
+    },
+    {
+      "Key": "63714eb8-c667-44b4-8b56-80f72e4ce346",
+      "Value": "{n}A ruddy-faced villager waves to you cheerfully.{/n} \"Hello there, traveler! A good day to you — a good day to us all! The Silver Dragon himself turned the day into a feast for us! And why, you might ask? All because I forgot my fishing gloves at home!\""
+    },
+    {
+      "Key": "ac9ecbd2-bf43-4541-b5eb-7603522aec8f",
+      "Value": "\"I'm Aysel! A fisherman. I mean, I was a fisherman when I did fishing. I don't fish now, so I guess I'm not a fisherman anymore...\" {n}Aysel frowns as he thinks about that paradox.{/n}"
+    },
+    {
+      "Key": "40173b7f-7927-4bbd-8f4e-9c4a58bbbfcf",
+      "Value": "\"I am telling you! I went fishing, but I left my fishing gloves at home. So? So I blistered my hands pulling out the nets. So? So I couldn't fish anymore. So? So I had to go hungry. Had to, but didn't. Because fish just started jumping out of the water! So? So our great Silver Dragon took care of me. He must have been watching, thinking, 'How will this poor sod Aysel get by with blistered hands? How will he fish? What will he eat? How about I send some fish ashore for him.'\""
+    },
+    {
+      "Key": "62cf8bab-50c8-4b1e-9d1f-c4e37919144e",
+      "Value": "\"Now, I think I'll never bring my fishing gloves again. So? So fish will always jump out of the lake on their own. It'll be great!\""
+    },
+    {
+      "Key": "1b102c8a-d33c-4cc2-b786-78ba44a64ab5",
+      "Value": "\"Your nixies lied to you! They're fey, so what do you expect? But Ivar told me about the dragon. Not the fish, though, just that the dragon is protecting us. But I know Ivar well. Ivar doesn't lie!\""
+    },
+    {
+      "Key": "ae7ebbf9-df58-442f-b1a1-9468e2c5eda4",
+      "Value": "\"Just go to the shore and see for yourself! They jump right out of the water! We can barely keep up with collecting and salting them — we made three barrels since the morning dawned. And our barrels are really big, not just any normal barrels.\" {n}The fisher puffs out his chest.{/n}"
+    },
+    {
+      "Key": "0d0f8484-33c0-4747-b511-5910c04446f5",
+      "Value": "\"He's... well, he's a huge dragon! A silver one. It's why he's called the Silver Dragon. He's very kind and always helps us! That lake is one of his footprints, filled with water — that's how we got the lake! I've got one of his scales. It's my lucky charm!\" {n}The fisher proudly holds out a scale held by a string around his neck.{/n} \"Ivar gave it to me. You can search around for him — maybe he'll give you one too!\""
+    },
+    {
+      "Key": "3c6858de-16df-4d97-82d2-9a35597d3f86",
+      "Value": "\"Maybe not — in other places. Maybe our dragon is one of a kind!\" {n}The fisher's voice rings with pride.{/n}"
+    },
+    {
+      "Key": "9641a480-8e97-4781-ac9e-be7a9911de3a",
+      "Value": "\"Sure did! Day before yesterday! Two months ago, too! Bervis the trader says I'm a fool and it was just a thundercloud, but you shouldn't listen to him!\""
+    },
+    {
+      "Key": "567b635a-7726-4876-89b6-5dc9686042da",
+      "Value": "\"He sent Ivar to us! Well, not sent, really — Ivar was here before. But he was only a hunter, not a Dragon's Voice. When Ivar became the Dragon's Voice, everything got better all at once! Most of the bandits disappeared from the roads, monsters stopped attacking us in the woods, and wolves don't even take our cattle anymore! And now there's the fish to top it all. Yeah, the Silver Dragon is the best dragon ever!\""
+    },
+    {
+      "Key": "a78b8bb0-a636-4f3c-a460-8c04021e88c4",
+      "Value": "\"What a downer. I like listening to stories about the dragon...\""
+    },
+    {
+      "Key": "b34c9d0b-fb90-4f41-9f05-dc1ba36bc155",
+      "Value": "\"Ivar, yes! He's a good fellow!\""
+    },
+    {
+      "Key": "330773a2-810b-4de7-8b56-461dad28d286",
+      "Value": "\"I could talk about the dragon all day long!\""
+    },
+    {
+      "Key": "3d9556ad-8f45-44bb-b1da-a9c8830c4ad4",
+      "Value": "{n}The fisher listens intently, his face thoughtful.{/n} \"So, what then? The fish won't jump ashore anymore?! That's too bad. Can we get another cyclops from somewhere, then?\""
+    },
+    {
+      "Key": "21a46868-4ead-43dc-977d-e7a65d6cd29f",
+      "Value": "\"Don't misunderstand, {mf|baron|baroness|king|queen}, it's not that I think you're simple,\" {n}the fisher assures you patronizingly,{/n} \"but everyone's been talking about the dragon, while you're the only one talking about some wyvern. You really should listen to what people say. It's just common sense, really!\""
+    },
+    {
+      "Key": "06483562-136f-4862-8e8c-3207a937a604",
+      "Value": "\"All right. You talk about fun things!\""
+    },
+    {
+      "Key": "d5be0c99-5ddd-4653-92a3-06f4834a2c7a",
+      "Value": "\"Back again!\" {n}The fisher gives you a wide grin.{/n} \"Ask me more things, would you? You're the only one who'll stay and talk with me for a while!\""
+    },
+    {
+      "Key": "1ee4e2f2-2bbb-4ca3-943e-bca15eab0b73",
+      "Value": "\"All right. Sure. Enough is enough!\""
+    },
+    {
+      "Key": "d4ce0074-e539-4f19-887f-fe2f78470e64",
+      "Value": "\"He's the Dragon's Voice! The Silver Dragon tells him things, then Ivar tells us. Like when the dragon chased the wolves from our herd — he told Ivar and Ivar told us. And when he scared the monsters away so they wouldn't attack us — he told Ivar that too. We get all kinds of good news from Ivar!\""
+    },
+    {
+      "Key": "aca1a16a-cba7-44ac-a145-cf1b81a4f48a",
+      "Value": "\"So...\" {n}The fisher frowns and rubs his forehead.{/n} \"If the scales aren't really the dragon's scales... and the fish aren't really the dragon's fish... and Ivar isn't the Ivar I knew... I guess that means there might be no dragon at all?\""
+    },
+    {
+      "Key": "6b9a7938-7bd7-438c-ac0b-36526b23eb38",
+      "Value": "\"Using a thousand-year-old undead cyclops for... for fishing! {mf|Baron|Baroness|King|Queen}, you need to order this village surrounded by a palisade and forbid your subjects to come within three arrow-flights of it. This is as bad as a plague! Stupidity can be just as infectious, you know.\""
+    },
+    {
+      "Key": "d9de481a-3f27-48ba-a9ad-bf7b2cf042cb",
+      "Value": "{n}The fisher frowns and looks away.{/n} \"Why'd you have to remind me of that! Ivar... he wasn't the Dragon's Voice before. He just used to live here, in a house to the northwest. Used to go hunting and tell us all kinds of stories, like a real bard would! Had a family, too. But then...\""
+    },
+    {
+      "Key": "d5778ad8-c7b4-41ec-b7ad-ee81e515563e",
+      "Value": "\"Well, one night his kids ran away, tried to climb to the top of the cliff in the middle of the night. It was a bad night, rainy and dark... They fell down. Far as anyone could tell, the boy probably slipped first, and the girl tried to help him, but she couldn't... she fell too, farther away. I helped search for them the next morning, then helped bury them...\" {n}The fisher sighs heavily.{/n} \"Lissa, Ivar's wife, she got sick right after and never recovered. And Ivar... well, he went odd. And that's when the Silver Dragon started talking to him.\""
+    },
+    {
+      "Key": "213a2cf4-1d94-4c5a-95fc-599458f06be6",
+      "Value": "\"He probably went to the grove up north again. That's where his children's graves are. Sometimes he'll disappear for several days at a time, and he won't tell anyone where he goes, but I know anyway!\""
+    },
+    {
+      "Key": "5ba25482-79b0-4fc0-a502-ff80b507a96d",
+      "Value": "\"If he didn't tell you where he was going, I won't either!\""
+    },
+    {
+      "Key": "15ffdc6e-53dd-4b60-a09b-63d31eba4145",
+      "Value": "{n}The fisher's eyes grow wide.{/n} \"How could that be?! Oh, Ivar... Such a great loss! I... I need a cup of spirits to steady me... Better make it two.\""
+    },
+    {
+      "Key": "3c9569a1-57de-47cf-8cbf-253235553f29",
+      "Value": "{n}The fisher's eyes get watery, and he frowns as he looks down at his feet.{/n} \"But Ivar... he was... Oh, I'll miss him so much!\""
+    },
+    {
+      "Key": "7dc42594-941c-41d0-b427-b8297bd8b2e4",
+      "Value": "\"That's great! I think? You know what, you should talk to Ivar first. He can ask the Silver Dragon's opinion on the greatness of that. Ivar's an important person here, and the dragon is even more important. What if he doesn't want some strange {mf|baron|baroness|king|queen} {mf|baroning|baroning|kinging|queening} around here?\""
+    },
+    {
+      "Key": "dd382764-6d7f-472e-967d-e61e041ccbf0",
+      "Value": "\"You solved everything so neatly! You deserve a gift for that! Us smart people need to stick together and... um... kind of... help each other keep being smart together!\""
+    },
+    {
+      "Key": "5eab07a8-dc69-4abf-bfb0-be4e3ffadf23",
+      "Value": "\"Well... well, I guess I didn't tell you all I knew about it last time!\""
+    },
+    {
+      "Key": "f018c46d-7b1e-494e-bd89-96d3401e451f",
+      "Value": "\"Wow! A real {mf|baron|baroness|king|queen}! Not as great as the dragon, of course, but still pretty impressive...\""
+    },
+    {
+      "Key": "57291c04-a5ea-4e26-85f8-618acefd996d",
+      "Value": "\"Oh, then you need to go north! To the grove. That's where Ivar's children are buried... He stays there from time to time.\" {n}The fisher sighs sadly.{/n}"
+    },
+    {
+      "Key": "447795d5-04bf-4ccf-879d-6031020372a1",
+      "Value": "\"No offense, {mf|baron|baroness|king|queen}, but I find that pretty tough to swallow... I'd best wait for Ivar to come back. And when he does, then you won't need me to tell you anything anyway!\""
+    },
+    {
+      "Key": "2dce9526-ba47-4c71-ba1d-be8586c53839",
+      "Value": "{n}Ekun bites his lip.{/n}"
+    }
+  ]
+}

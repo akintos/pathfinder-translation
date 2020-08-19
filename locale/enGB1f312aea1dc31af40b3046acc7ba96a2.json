@@ -1,0 +1,113 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "205663a9-3678-4605-980b-76be861a6c15",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "6551dd32-ace2-44e2-87c3-bd02fe4a55ed",
+      "Value": "\"Tell me about Nazrielle.\""
+    },
+    {
+      "Key": "13c01697-16dd-4979-b2c8-ef1bf79c878b",
+      "Value": "\"I'll see what I can do.\""
+    },
+    {
+      "Key": "98a853f8-b197-48c9-a960-9f285e16c45d",
+      "Value": "\"Does Nazrielle mistreat you?\""
+    },
+    {
+      "Key": "b1101128-8805-4c64-8a54-fdbcb16ced65",
+      "Value": "\"What gift are you talking about?\""
+    },
+    {
+      "Key": "845a69a6-1923-4d6c-a7cc-5cc163ae5e72",
+      "Value": "\"Extend my gratitude to Nazrielle.\""
+    },
+    {
+      "Key": "a6f43323-377b-429b-a74d-4888cca4d0e1",
+      "Value": "\"I have a specific request to your mistress.\""
+    },
+    {
+      "Key": "c88e2906-99da-4683-830d-2207377e619a",
+      "Value": "\"Nazrielle has one day to leave my domain.\""
+    },
+    {
+      "Key": "9b1eed58-fbab-4111-a815-95f3cecb617d",
+      "Value": "\"I need a dagger that's invisible and deadly.\""
+    },
+    {
+      "Key": "be688032-5358-4c0d-99ba-21389f405865",
+      "Value": "\"I could certainly use some flexible and sturdy chainmail.\""
+    },
+    {
+      "Key": "e3782bd8-f0be-41aa-9b69-32716a87f2d6",
+      "Value": "\"Is there anything Nazrielle can do to make me swifter on the battlefield?\""
+    },
+    {
+      "Key": "3fdcd20f-34ec-47e8-a3b9-7075a22e08aa",
+      "Value": "\"I'd like a sample of her elven metalwork.\""
+    },
+    {
+      "Key": "27c6fa75-c37a-493b-96e1-53553794b26e",
+      "Value": "\"I've changed my mind. Let Nazrielle think of something herself.\""
+    },
+    {
+      "Key": "2309200e-60ae-4e58-968b-0559bdf54c4c",
+      "Value": "\"I need a sword that's swift and tough.\""
+    },
+    {
+      "Key": "f78df191-f5d2-4a39-83e0-81e0044caf38",
+      "Value": "{n}A pathetic-looking elf stands before you. His clothes are wrinkled, his cheek is scratched, and his nose is swollen like he's suffered a heavy blow. He glances around with a haunted look, and bows.{/n} \"My name is Sartayne. Mistress {d|Nazriel}Nazrielle{/d} was supposed to have given me a gift for {mf|Your Grace|Your Grace|Your Highness|Your Highness}, but... I'm afraid, we might have a bit of a problem here...\""
+    },
+    {
+      "Key": "d8eb3b83-da8c-4c78-ad85-0f7987d776e0",
+      "Value": "{n}The elf eyes you in astonishment.{/n} \"Me? I'm Sartayne, assistant and servant of Mistress Nazrielle. She teaches me her craft. I've been dreaming of becoming a weaponsmith ever since I was a child. My father was a master, too. His swords were famous. Unfortunately, he went bankrupt while I was still too young to learn. He withered away and never got to teach me his skills. But the Mistress gave me another chance!\""
+    },
+    {
+      "Key": "7cfa692e-279e-40f7-abbd-4bfa5cdcc277",
+      "Value": "{n}The elf's enthusiasm is almost pathetic.{/n} \"I'm Mistress Nazrielle's assistant. It's a great honor! She's a genius! Her knowledge of weapons knows no bounds. Although... although it's scary sometimes, you know. Anyway, I'm not complaining. I'm happy to serve her.\""
+    },
+    {
+      "Key": "133b1670-8ae9-4fcf-acf3-3d3a1b6a2fe5",
+      "Value": "{n}The elf bows low once again.{/n}"
+    },
+    {
+      "Key": "f91755f2-51a1-47c5-906a-f1d93bef3a89",
+      "Value": "\"Mistress Nazrielle has been working hard on a special gift for you. But one of her apprentices, Ditael, went mad after he touched the blade that was meant to be presented to you. He grabbed it and just ran off as fast as he could – I saw it with my own eyes! Now Ditael is missing! I've come to you in secret to ask for your help. Maybe you or one of your advisors could get to the bottom of this. My Mistress would rather see the whole thing buried. After all, the sword that drove him mad was meant for you...\""
+    },
+    {
+      "Key": "41ea1c5b-83a9-42e1-8525-d9e718673880",
+      "Value": "{n}The elf throws up his hands in fear.{/n} \"Not at all! She's the most magnificent weaponsmith I've ever met in my entire life! I'm lucky she even noticed me! She's made me so happy! I wish I weren't so stupid and clumsy, or I'd be more worthy to help her! But I try as hard as I can.\""
+    },
+    {
+      "Key": "71978651-454c-4666-b03d-58243e02245b",
+      "Value": "{n}Sartayne shrugs.{/n} \"I don't know. The Mistress said I couldn't touch it. But I heard her ask Ditael to take it to you.\""
+    },
+    {
+      "Key": "012f210f-8d20-4de9-b34d-a55f0a870c64",
+      "Value": "{n}The apprentice bows low and speaks as if reading a note.{/n} \"On behalf of Mistress {d|Nazriel}Nazrielle{/d}, I would like to wish you eternal health and express our gratitude for your kind protection.\""
+    },
+    {
+      "Key": "05a72b22-9d68-4313-992d-2fb3845577e3",
+      "Value": "\"My Mistress wanted me to present you with this gift. She hopes that you would be satisfied with it.\""
+    },
+    {
+      "Key": "2c790c77-ce33-436d-a83c-1a7229fd8884",
+      "Value": "{n}The elf bows low and vanishes silently.{/n}"
+    },
+    {
+      "Key": "6852341f-a484-4e2e-a6c8-d33a3c6dd477",
+      "Value": "\"Oh... Oh no... This will make the Mistress very, very angry...\" {n}The elf shrinks and backs away in fear.{/n}"
+    },
+    {
+      "Key": "52851a74-8f2e-4839-a160-f3851813acac",
+      "Value": "\"I will give your order to the Mistress exactly as I hear it.\""
+    },
+    {
+      "Key": "f336c3e8-f4fe-41b4-9643-9c1662ca1411",
+      "Value": "\"Mistress Nazrielle will hear your command, word for word.\""
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "45518c72-7be8-44e0-a07e-02303a1befdd",
+      "Value": "\"Are you the one sending monsters to my lands?\""
+    },
+    {
+      "Key": "3bcec188-fa53-427e-9c60-d29502d2e7ac",
+      "Value": "\"I don't want to fight with you. Let's make a deal.\""
+    },
+    {
+      "Key": "bb267e9b-0216-495e-a52c-8f29f86161fc",
+      "Value": "[Attack] \"It's time to pay. Prepare to die.\""
+    },
+    {
+      "Key": "f4ffc5b0-92af-4955-88ed-ade97b6a5c51",
+      "Value": "\"I'd better go.\""
+    },
+    {
+      "Key": "865fdb32-3836-4bbb-bbf3-77a7759d7846",
+      "Value": "\"Why did you agree to work for Irovetti?\""
+    },
+    {
+      "Key": "ad359163-1df1-4d36-bd15-ae1835b8b045",
+      "Value": "\"You know, I'm looking at this withered straw pile hiding under your helmet and I don't think all these efforts are helping your Bleaching much...\""
+    },
+    {
+      "Key": "5a799f4a-ebf4-4d93-81f2-8b751d319ff0",
+      "Value": "\"How many times do I have to say it? Don't bother me, when I...\" {n}The sorceress turns and cries out in surprise when she sees you. Bleak, nearly gray hair sticks out from under her ridiculous leather helmet. An insane light gleams in her bloodshot eyes.{/n}"
+    },
+    {
+      "Key": "f04c928c-9f83-4e43-8096-cf8b0dd1ee8a",
+      "Value": "\"Ah, here you are, {name}! I've been waiting for you for some time. Irovetti was afraid you would find us immediately... but he obviously overestimated your abilities, he-he-he.\""
+    },
+    {
+      "Key": "5552ce69-19f1-4a60-b3d5-6bf9e593717f",
+      "Value": "\"Ah ha ha ha! You're a joker too, {name}?\""
+    },
+    {
+      "Key": "03809d6e-f137-4a8d-a65c-0019b36ae549",
+      "Value": "\"Guards, to me! And release the wyverns!\""
+    },
+    {
+      "Key": "a0c76276-97c7-4050-b998-119fe9f97e60",
+      "Value": "\"WHAT?! Where is your armor, you fools?! And where are the wyverns?! Damn it... Don't just stand there, attack!\""
+    },
+    {
+      "Key": "ce2d618f-4f7a-40e0-a654-2bdd5d210236",
+      "Value": "\"WHAT?! Where is your armor, you fools?! Damn it... Don't just stand there, attack them!\""
+    },
+    {
+      "Key": "230011da-1584-4abb-a0e3-e0f7f074601c",
+      "Value": "\"Devil take them, where are all the wyverns?! By all the... Don't just stand there. To arms! Attack!\""
+    },
+    {
+      "Key": "56aa6a79-65bd-4b98-9fe7-63fc2fcdf44b",
+      "Value": "\"Of course it's me! The great and terrible Nyrd Zottenropple, the most feared sorceress in these lands and every other — and the mistress of teleportation — at your service!\" {n}The woman sneers and gives a mocking bow.{/n}"
+    },
+    {
+      "Key": "c3d3d392-b6f6-4149-aaa4-16158edcdb3f",
+      "Value": "\"Feh, how low. Are you a {mf|king|queen} or a haggler?\""
+    },
+    {
+      "Key": "441de223-a0b2-4d46-8a55-ac357515e53a",
+      "Value": "\"Praise {g|Calistria}Calistria{/g}! I was looking at you, pouting your lips in righteous indignation, and feared you would lecture me, like your classic paladin...\""
+    },
+    {
+      "Key": "a1bfba4f-8629-44a6-86de-84290efb8c02",
+      "Value": "\"Oh, I don't care about your Irovetti, that lewd snotrag! But you can't argue with the {g|Bleaching}Bleaching{/g}... You'd turn to anyone, when your hair starts to lose color, and the skin — to fade and wrinkle! But just look at what he helped me build here. Even you must appreciate it!\""
+    },
+    {
+      "Key": "c558cc6e-4c87-4008-ba1c-6330eba27825",
+      "Value": "{n}The face of the sorceress turns red, and a vein bulges on her forehead. Her fury echoes through the cave.{/n} \"Silence, you boneheads!\""
+    },
+    {
+      "Key": "d8a8293f-a8b6-41b3-9e00-6d4f91c15297",
+      "Value": "{n}Jubilost looks sincerely upset.{/n} \"I wanted to help you during the debate, Lady Nyrd! Yes, despite your love of silly pranks. But the creature I see before me now simply cannot be saved.\""
+    },
+    {
+      "Key": "2500ffee-29c4-49d6-8a0c-9cda6b42a8fa",
+      "Value": "\"Bwa ha ha ha...\""
+    },
+    {
+      "Key": "33cef16a-db93-421d-8c9d-adb1754cbcf5",
+      "Value": "\"What could you possibly know about the {g|Bleaching}Bleaching{/g}, {race}? You would never understand this quiet, crawling terror.\""
+    },
+    {
+      "Key": "c48f1794-4149-4d89-89a5-0e8e0ee977d5",
+      "Value": "\"Then again, I'm sure for some reason you won't last long, {g|Bleaching}Bleaching{/g} or no Bleaching, {name}... he-he.\""
+    },
+    {
+      "Key": "5a59dcc9-3ebb-4060-be95-cb8100b03f38",
+      "Value": "\"If I ever Bleach and turn into something like this, please kill me. Just kill me.\""
+    },
+    {
+      "Key": "c7041aea-6102-410c-a3a1-c21d9b67bec9",
+      "Value": "\"Find a system of underground caves and clear it of all the critters! Create a gigantic teleportation circle, capable of transferring whole hordes of monsters! Breed and train huge uncontrollable beasts... then hurl them wherever you wish! Hurl them at naked guards at a bath-house, onto a bed of a merchant couple, to your privy even... Or to a tower roof, ah-ha-ha! And then watch them try to get down from there through a magic ball! Or better yet — drop them into a lake. Think of the splash! Ha-ha-ha-hah!\""
+    },
+    {
+      "Key": "e109a6c6-d7eb-4e42-b5f1-cb557bb03318",
+      "Value": "\"Who else? The great and terrible Nyrd Zottenropple, the world-famous wizard and master of teleportation! I liked playing with you very much, {name}. Without you there, the Inconsequent Debates would have been mortally boring! Mortally boring, ah ha ha! Nicely put, eh?\""
+    },
+    {
+      "Key": "39c5d183-88ed-4078-ba1e-777ad92789b1",
+      "Value": "\"How many times must I say it? Don't bother me when I...\" {n}The wizard turns to you and cries out in surprise. It's none other than {d|Nyrd}Nyrd Zottenropple{/d}, the prank-loving participant at the Inconsequent Debates.{/n}"
+    },
+    {
+      "Key": "0b4f9cc5-d932-4cd2-97fd-9a036be84226",
+      "Value": "\"Likewise.\""
+    },
+    {
+      "Key": "fb233dc2-94c8-4d97-a63c-e839d1cdc276",
+      "Value": "{n}Nyrd pouts.{/n} \"I didn't think you'd be such a bore! It's a shame to be let down by a fellow gnome!\""
+    },
+    {
+      "Key": "4b407e5c-2b67-430a-bf85-9ade9e59ec40",
+      "Value": "\"Oh, {name}, you brought your charming friend with you. Why don't you come a little closer, Sir Jubilost? I have a few delightfully fun spells in stock just for you!\" {n}Nyrd winks. Her words seem careless and fun, but there's a creepy undertone.{/n}"
+    },
+    {
+      "Key": "303b518a-35ea-421a-ba50-ec9f004f6bb7",
+      "Value": "\"An unexpected encounter at an unexpected place.\" {n}Jubilost frowns.{/n} \"I fear your pranks have gone too far, Lady Zottenropple.\""
+    },
+    {
+      "Key": "bf9792f8-2bf7-41a9-820d-456c0cdff97a",
+      "Value": "\"It started with turning random passers-by into frogs. It ended in the mass murder of innocent citizens by monsters. And I'm sure it was all just a mad game, in a head tormented by the {g|Bleaching}Bleaching{/g}.\""
+    },
+    {
+      "Key": "ba4118e9-77ad-4b21-8f99-ec6767017c62",
+      "Value": "\"Unreasonable creature. You should have accepted the {g|Bleaching}Bleaching{/g} as a great gift, submitted to it quietly, avoided the agony of being. By fighting it, you only prolong your suffering.\""
+    },
+    {
+      "Key": "55d3bcb4-0b68-4f18-aa88-22e09a7d138a",
+      "Value": "{n}Ekun grips his weapon.{/n} \"This insanity must be stopped.\""
+    },
+    {
+      "Key": "712568f9-10da-480a-86fb-53df9b054ade",
+      "Value": "\"Oh, a familiar face! Where are your frog brothers? Are they going to jump out from around the corner?\""
+    }
+  ]
+}

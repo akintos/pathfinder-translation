@@ -1,0 +1,733 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "d657db43-95c2-4159-a6f8-fa237ca73719",
+      "Value": "\"Could you tell me about your childhood, please?\""
+    },
+    {
+      "Key": "21a660a6-d884-4fda-b3a0-b2d7915392ff",
+      "Value": "\"Will you tell me about your life in slavery?\""
+    },
+    {
+      "Key": "c4599537-777e-46c0-8b50-054c3498f2cd",
+      "Value": "\"What kind of relationship do you have with Regongar?\""
+    },
+    {
+      "Key": "93af442e-1919-4b62-8aa0-5d1334d40de1",
+      "Value": "\"I just have to ask... How do you manage to look so gorgeous, even when we're out in the middle of nowhere?\""
+    },
+    {
+      "Key": "984bf40a-09c9-462c-adee-237a23a04806",
+      "Value": "\"Why do you need to find the Technic League agents?\""
+    },
+    {
+      "Key": "1c7ba728-aa30-48ae-af2f-db763e5e0c73",
+      "Value": "\"It's amazing how, after all your hardships, you still remain so cheerful and optimistic.\""
+    },
+    {
+      "Key": "b7810592-ccc4-4e84-8a4e-697b5f27d6dc",
+      "Value": "\"All right. We'll talk later.\""
+    },
+    {
+      "Key": "9be6fd7c-7666-4ccb-9040-4035cecc7644",
+      "Value": "\"What, exactly, do you remember?\""
+    },
+    {
+      "Key": "97303da4-4b28-4104-9919-eb41a5d54dc0",
+      "Value": "\"What do you know about your parents? You're a half-elf, right?\""
+    },
+    {
+      "Key": "bdf83793-2f11-4174-8277-6d0602d759d4",
+      "Value": "\"Do you remember how you were enslaved?\""
+    },
+    {
+      "Key": "840517db-fd23-42ba-b0f9-7ef9c00e2bae",
+      "Value": "\"It must be horrible, being unable to recall your childhood.\""
+    },
+    {
+      "Key": "7a910950-7bd6-41e4-88c8-22d167a59b63",
+      "Value": "\"I want to ask you about something else.\""
+    },
+    {
+      "Key": "c0165721-7e8c-43a0-a544-02bac0d00ec2",
+      "Value": "\"Did you have many masters over the years?\""
+    },
+    {
+      "Key": "8ff93b84-a75d-4f50-9dc7-cc8c70ddacb2",
+      "Value": "\"Where did you learn to use magic?\""
+    },
+    {
+      "Key": "31189a08-ed71-41e9-b72b-842d2af45088",
+      "Value": "\"Have you ever tried to run away?\""
+    },
+    {
+      "Key": "3dbb92d4-a3ff-44e5-b764-be49f45fcc3a",
+      "Value": "\"Have your masters ever hurt you?\""
+    },
+    {
+      "Key": "c0b619fc-e697-420d-8176-a6eb9eb869df",
+      "Value": "\"Let's talk about something else.\""
+    },
+    {
+      "Key": "be02f25d-7eed-4527-aadd-ca4411220782",
+      "Value": "\"I won't let anyone harm those who are dear to me. Whatever happens, you can count on me.\""
+    },
+    {
+      "Key": "84ce0692-6999-477e-8ec0-cf4958cf0027",
+      "Value": "\"I won't let those filthy slave traders to take you again! Just let them try!\""
+    },
+    {
+      "Key": "3ab85ab1-730c-48c4-b74f-4e7fa48e0d4d",
+      "Value": "\"Well, you're with us now. I'm confident that I should be able to make a deal with them.\""
+    },
+    {
+      "Key": "5ba5df95-6911-4244-81e4-3efaf9338594",
+      "Value": "\"I never throw away valuable resources. They won't get you.\""
+    },
+    {
+      "Key": "1fac21e4-fc70-4696-a008-b554313621c6",
+      "Value": "\"The way you said 'we're together' sounded unconvincing. Is something wrong?\""
+    },
+    {
+      "Key": "242a865b-4a2d-4f65-b01a-615c02a0e3d1",
+      "Value": "\"When did you meet Reg?\""
+    },
+    {
+      "Key": "5551a562-092d-4fcc-864c-22f3bb685659",
+      "Value": "\"You owe him much?\""
+    },
+    {
+      "Key": "718b6756-5d9b-4508-a9ba-56b2420f746a",
+      "Value": "\"The fact that Reg is so… impulsive, doesn't bother you?\""
+    },
+    {
+      "Key": "a1c2c5de-bb5e-4121-87b9-de05c85ce5a0",
+      "Value": "\"Let's change the subject.\""
+    },
+    {
+      "Key": "e465254f-829a-4b32-a629-786b9e544701",
+      "Value": "\"Oh, Octavia, the flower of the Stolen Lands! You're as beautiful as you are dangerous. You strike down monsters with your spells as you strike down people with your beauty.\""
+    },
+    {
+      "Key": "545bc56d-23db-4fed-b37c-9b57116e2c2e",
+      "Value": "\"You sure put a lot of effort into this, but the results make it worthwhile!\""
+    },
+    {
+      "Key": "aa58ddd5-fdf4-4c3a-8670-2a092094a02d",
+      "Value": "\"So much effort… Though that's your business.\""
+    },
+    {
+      "Key": "b3cffab9-14e0-4c0e-8d4d-150a281f9da0",
+      "Value": "\"I'd prefer that you get enough rest. Stop wasting your time on this nonsense.\""
+    },
+    {
+      "Key": "c3097a73-2e1c-4f2c-8fd8-b5869df2d941",
+      "Value": "\"I am glad you understand.\""
+    },
+    {
+      "Key": "a9a749cb-f484-441a-9ceb-5518b48bcdde",
+      "Value": "\"I'm sorry I stole Regongar from you.\""
+    },
+    {
+      "Key": "d46ad2ec-f4cd-4006-9cd6-0fc0ea3eb0e6",
+      "Value": "\"Our romance was a mistake. It would be best if we end it.\""
+    },
+    {
+      "Key": "ec4d6498-472f-4914-8964-01afc352d53b",
+      "Value": "\"No. It will be better for both of us if we just stay friends.\""
+    },
+    {
+      "Key": "1f8c3bdf-de48-43a2-a201-0e28b23735e4",
+      "Value": "\"This romance is a mistake. You and Reg will be better off without me.\""
+    },
+    {
+      "Key": "c2631542-03da-40c8-b7a8-f965cf6b7cd3",
+      "Value": "\"No. It will be better for both of us if we just stay friends.\""
+    },
+    {
+      "Key": "4e6c8273-1f8b-4fd6-8c32-a2549fc4b07d",
+      "Value": "\"You worship Calistria, right?\""
+    },
+    {
+      "Key": "245fb08d-2367-4d5d-a2b2-9bb707b6b1e3",
+      "Value": "\"How did you happen to find yourself in the Stolen Lands?\""
+    },
+    {
+      "Key": "3dc3f054-501a-487a-ad5b-c4fa3f5ff5b5",
+      "Value": "\"I don't need you any longer. Go away.\""
+    },
+    {
+      "Key": "5807d283-e999-4a35-95a1-fd0241eb810f",
+      "Value": "\"My decision is final. You both should go.\""
+    },
+    {
+      "Key": "134b60ac-fbb6-4ad9-b1d1-c226db17f5d2",
+      "Value": "\"Sorry, I didn't mean to scare you like that. Let's pretend I didn't say anything.\""
+    },
+    {
+      "Key": "b6798f7a-1f73-4acb-9896-cc0e20b78f49",
+      "Value": "\"What will you say to Janush when you see him?\""
+    },
+    {
+      "Key": "c69dad03-86b9-405c-bc6b-77d404a96cdb",
+      "Value": "\"Do you regret letting Janush escape?\""
+    },
+    {
+      "Key": "56c80b56-c47a-4ccb-bf1d-29b811ec56ad",
+      "Value": "\"Do you regret chasing after Janush?\""
+    },
+    {
+      "Key": "b16ac1ea-5c14-44a9-80ba-14caefac66b5",
+      "Value": "\"How's your mother?\""
+    },
+    {
+      "Key": "fee19177-a32b-4869-a8c5-6995c4151b08",
+      "Value": "\"Do you want to return to Pitax and find your mother again?\""
+    },
+    {
+      "Key": "15bde8da-79eb-48f8-bdc3-dbc29723b342",
+      "Value": "\"There's nothing to thank me for. You were the one who made the right call.\""
+    },
+    {
+      "Key": "d3fc8948-a2c1-4e40-9232-ecf77d585031",
+      "Value": "\"You know I'm always here to support you.\""
+    },
+    {
+      "Key": "0fca0e52-d191-4d41-b71b-59d8313f4ee1",
+      "Value": "\"We made a mistake. We should never have let that monster escape.\""
+    },
+    {
+      "Key": "939ff0bb-6978-49bf-ad95-2cc0d84f5eda",
+      "Value": "\"We made a terrible mistake. So many people died for the sake of revenge.\""
+    },
+    {
+      "Key": "e405bb81-d139-4dd6-a1d9-ff394c3d5bf1",
+      "Value": "\"It was a difficult decision, but someone had to take responsibility.\""
+    },
+    {
+      "Key": "74f2ede0-d777-4aa1-bbab-f4d6c38d6319",
+      "Value": "\"If you want to achieve anything in this world, you'll have to get used to such decisions. Mercy is a wasteful luxury.\""
+    },
+    {
+      "Key": "0c8c1988-9db8-4fc0-9146-52d17b898d3d",
+      "Value": "\"You're an exceptionally kind person.\""
+    },
+    {
+      "Key": "c86ebe18-1463-4435-9698-dd9ad0f39008",
+      "Value": "\"I'm glad you're all right.\""
+    },
+    {
+      "Key": "b24a71f5-88ba-4a0f-af4c-277c1cdfc7e2",
+      "Value": "\"I don't understand how you could forgive her. I probably never would.\""
+    },
+    {
+      "Key": "4c9a168b-ae19-4c52-b891-dced99b6e2d3",
+      "Value": "\"You worry too much about that nonsense. Just forget about it.\""
+    },
+    {
+      "Key": "6ca8ac46-3600-49f1-934a-17b1aaf29b08",
+      "Value": "\"That's very cruel of you.\""
+    },
+    {
+      "Key": "7ff510aa-adbb-48e5-bb3e-cdecaad3d4c4",
+      "Value": "\"As you wish. I respect your decision, whatever it may be.\""
+    },
+    {
+      "Key": "17fd92ae-c7d6-477d-bc70-6517b553963a",
+      "Value": "\"She got off easy. You shouldn't have let her live.\""
+    },
+    {
+      "Key": "2a40b272-ef65-45b5-86c1-077106e1093b",
+      "Value": "[Put your hand around Octavia's waist] \"Would you like... Some alone time?\""
+    },
+    {
+      "Key": "9a32d5d6-e2ec-4071-b904-9ac9509b1c3a",
+      "Value": "\"Of course!\""
+    },
+    {
+      "Key": "e3b254e4-0458-45ab-84cf-4dd46528d178",
+      "Value": "\"I want to be alone with you.\""
+    },
+    {
+      "Key": "870147f9-5db5-4ae9-9823-1adf0a58dd84",
+      "Value": "\"Or maybe you are...\""
+    },
+    {
+      "Key": "73cb2a95-727c-4601-a4dc-0f5a319da1cd",
+      "Value": "\"What's wrong? Do you want to talk about it?\""
+    },
+    {
+      "Key": "fa062e91-7a47-4940-912b-098998a0807d",
+      "Value": "\"Whatever you say. I love you.\""
+    },
+    {
+      "Key": "bb6617cb-d8f7-4cff-83a3-f9ddc56061da",
+      "Value": "\"I'm sorry.\""
+    },
+    {
+      "Key": "aa45b187-dbb1-49b4-ac54-bb3e31604f17",
+      "Value": "\"We're still friends, right?\""
+    },
+    {
+      "Key": "4ae1f367-0b6a-468b-b5c4-fa5c00accd21",
+      "Value": "\"Oh, hello!\" {n}Octavia gives you a fetching smile.{/n} \"Something you need?\""
+    },
+    {
+      "Key": "afee13f3-d6de-4ec3-8cf9-94ed58c692e9",
+      "Value": "\"Sure,\" {n}Octavia gives you a friendly smile.{/n} \"Come anytime!\""
+    },
+    {
+      "Key": "547602ce-097c-457a-ac56-e38a43fefa9a",
+      "Value": "{n}Octavia sighs.{/n} \"Too little. Some scraps of memories, no more than that.\""
+    },
+    {
+      "Key": "54ceaff2-8332-47ad-a361-9c2165a33208",
+      "Value": "\"Of course! What do you want to talk about?\""
+    },
+    {
+      "Key": "a84afca6-c579-4ca1-bf2a-7fbe6db3d842",
+      "Value": "{n}Octavia reflects on that, tapping her finger against her cheek.{/n} \"Nothing special. Some images of a faraway past, that's all.\""
+    },
+    {
+      "Key": "4c178ce3-b112-4918-a6bf-4b73a0778e26",
+      "Value": "\"I do remember wooden table legs. The paint on them was peeling off, and I was standing on my toes, trying to peek at what was on the table. I remember the wild rose by the window — it kept me up at night, scratching the glass with its gnarled branchlets. I do remember my mother's blue dress — it was a trifle battered, but it smelled of lavender.\" {n}Octavia wrinkles her forehead.{/n} \"I guess that's all. Not much there, right?\""
+    },
+    {
+      "Key": "9a98c840-d19e-4e3f-ac2b-baa99ad0088b",
+      "Value": "\"All those memories... it's like they're not mine at all. I recall some images, and I know I should feel something about them, but I don't remember what exactly I should feel. So let them rot in a swamp with tatzlwyrms!\" {n}Octavia grins cheerfully.{/n} \"My life's good enough without them!\""
+    },
+    {
+      "Key": "badd845b-3cb5-4f32-9cb3-1f8ee45d9120",
+      "Value": "\"Am I?\" {n}Octavia examines herself, as if seeing herself for the first time.{/n} \"You know, I think you might be right! I'm rather slim and tall, and I can see well in dim light.\" {n}She raises her hands and touches her ears.{/n} \"Aha! They're a bit pointy! Yes, I'm definitely a half-elf!\""
+    },
+    {
+      "Key": "962ffe13-4370-4ae4-96d5-41d548e27854",
+      "Value": "\"Hmm. Let's think about that logically. So my mother was an elf, and my father was a human. Or maybe it was the other way around, and my mother was a...\" {n}Finally Octavia can't take it anymore and bursts into laughter, having spoiled her own act.{/n}"
+    },
+    {
+      "Key": "717563ee-8f9f-4b07-aacc-83d196845a29",
+      "Value": "\"So that's it. Now you know as much about my parents as I do,\" {n}she says after her laughter subsides.{/n}"
+    },
+    {
+      "Key": "4cdb4786-ad67-49d3-bb39-ce8da86c8ab3",
+      "Value": "\"I clearly remember the man who took me away from my home. He was big, with a huge potbelly and shaggy beard. I was afraid he would eat me.\" {n}Octavia shrugs.{/n} \"Anyway, he didn't stay with me long. He gave me to his slaver accomplices, and I never saw him again.\""
+    },
+    {
+      "Key": "6fd6355e-726d-4d53-8208-cde6da5c71fb",
+      "Value": "\"When my mother was giving me to him, she was crying. I can still barely hear her quiet voice, but I can't recall her words or her face behind the tears... Just that lavender smell — it tickled my nose and I wanted to sneeze.\""
+    },
+    {
+      "Key": "a79e6313-53fa-4d03-9b3d-c855586749bf",
+      "Value": "\"Did my mother sell me into slavery? But then why was she crying? And if she didn't want me to be a slave, why didn't she try to save me?\" {n}Octavia twirls her hair, pondering over the thought, then sighs.{/n} \"One more riddle from my past that I don't care to solve.\""
+    },
+    {
+      "Key": "ce1d2edf-d8bf-49cb-995f-be1155dfed18",
+      "Value": "\"Oh, I recall my childhood in rather bright details. It was spent in dirty barracks. I wore flea-infested rags, and slept on a straw mattress instead of a proper bed.\" {n}Octavia smiles humorlessly.{/n} \"Though I understand what you mean.\""
+    },
+    {
+      "Key": "837a89d5-e1fb-4872-95a4-45fd1f85bec0",
+      "Value": "\"You know, to be honest, I'm not sure I want to remember my childhood before slavery. If I could remember what I lost, it would probably just bring me more pain...\" {n}Octavia shakes her head several times and makes herself smile again.{/n} \"So it's good that I don't remember much of anything.\""
+    },
+    {
+      "Key": "f1b62136-61da-4f72-845b-48adb9a6e3d9",
+      "Value": "\"I don't like to recall it, but if you insist…\" {n}Octavia frowns.{/n} \"The slavers from the {g|Technic League}Technic League{/g} tried to ruin my life. But all they could do was ruin my childhood.\""
+    },
+    {
+      "Key": "4a4cfdcd-5285-4ec9-b7f8-e187d6813537",
+      "Value": "\"Yes, many of them. Some owned me for years, others felt they'd had enough of me in a couple of months. Trust me, I did all I could to make every master eager to get rid of me. A slave that's trained in magic is a rather expensive thing, so they wouldn't kill me. At least that was the hope.\""
+    },
+    {
+      "Key": "cf09548a-eca6-4a26-bef7-54698cacad06",
+      "Value": "\"So I drooled, and played an idiot. And I listened as every new master argued with my former one, trying to return me. Sometimes I punctured the pages of magic books I was forced to copy with a quill. Other times I pretended to mix up the spells, so instead of lighting a magic torch, I set dozens of dancing lights floating just below the ceiling.\""
+    },
+    {
+      "Key": "07173239-8dc9-42de-832f-be28809263cc",
+      "Value": "\"Of course, most of these tricks of mine usually ended badly. I got punished on a regular basis. My back still remembers the masters' whips, though all my scars from those times are long gone.\""
+    },
+    {
+      "Key": "044e6c21-6389-4f7d-b4bd-d35ede09d301",
+      "Value": "\"At least that's what Maestro Janush used to repeat constantly, while whipping knowledge into my back. The Great Maestro was a big fan of punishment.\" {n}Octavia's lips press into a thin line.{/n} \"The {g|Technic League}Technic League{/g} didn't care if a few slaves died under the master's whip, as long as Maestro Janush provided an arcane-trained one in return.\""
+    },
+    {
+      "Key": "cc4cf917-b1b9-48ea-a8ad-429752b0ee37",
+      "Value": "\"Officially, there's no slavery in {g|Numeria}Numeria{/g}. But the {g|Technic League}Technic League{/g} is above any law. A slave with an aptitude for the arcane is worth much more than a regular one. The slave's repertoire is limited to the simplest and safest spells, of course.\""
+    },
+    {
+      "Key": "7d9e8241-02d7-41bc-b3a6-9ecacb02a910",
+      "Value": "\"What a silly question. Of course I tried. As soon as we saw even the tiniest opportunity to get free, Reg and I grabbed for it. On one occasion, we jumped from the cart into the river. There was a time when we spent weeks trying to dismantle the far wall of the barracks and make a path out. Sometimes we attacked our guards when they least expected it.\""
+    },
+    {
+      "Key": "799bf6bb-c466-4db8-b4ba-d17863238f50",
+      "Value": "\"We craved freedom, we lived only to dream about it. Those short days, sometimes weeks, that we spent on the run were the happiest days of my life. We used to hide in the woods, or blend in with the crowd on the streets of {g|Starfall}Starfall{/g}. Midnight stars were our guiding lights, and we shared our dream with them: to reach the {g|River Kingdoms}River Kingdoms{/g}, for in these lands there were neither slaves nor masters. We were starving and freezing, but that was the real life. Too bad it usually ended too soon.\""
+    },
+    {
+      "Key": "84e42adb-a6ca-45be-a784-748a4f86425c",
+      "Value": "\"The {g|Technic League}Technic League{/g} agents always found us in the end. I don't know how they managed to do it — they probably used magic, or maybe it was just our fate. They whipped us and returned us to our old masters, or sold us to new ones — if the old ones refused to pay. So we were slaves again, but the dream about the {g|River Kingdoms}River Kingdoms{/g} never left our hearts.\""
+    },
+    {
+      "Key": "e55481ff-2a9a-4742-88ad-70aeefbbccff",
+      "Value": "\"You figured that out, didn't you?\" {n}Octavia narrows her eyes.{/n} \"Or maybe you want to hear all about the beatings I survived? The humiliations I've endured? Imagine the worst thing one person can do to another, and multiply it tenfold. That's what happened to me nearly every day in slavery.\""
+    },
+    {
+      "Key": "7462dbe7-543d-4c17-9dc6-69915e9d62b8",
+      "Value": "\"Masters… Oh, how I hate that word!\" {n}Octavia shakes her head furiously, making her locks dance.{/n} \"They punished me because they wanted to hurt me. But what hurt even more was the mere fact of their existence.\""
+    },
+    {
+      "Key": "000d4d2d-5bae-43bf-940d-479a46517466",
+      "Value": "{n}Octavia stops you, gently touching your hand.{/n} \"Wait. I... I want to tell you...\" {n}She sighs and shakes her head, as if trying to collect her thoughts.{/n} \"The {g|Technic League}Technic League{/g} agents you rescued us from — Reg and I tried to run away many times, but they always managed to find us eventually. I have no reason to hope that this time they've lost track of us for good.\""
+    },
+    {
+      "Key": "94751959-1418-4498-bd40-2110e89b3da9",
+      "Value": "{n}Octavia raises her eyes to you and gives you such a warm smile that you're unable to not smile back. In the depths of her eyes, you notice something that wasn't there before. This unnamed feeling hides in a moment, but you're sure you know what it was: trust.{/n} \"Thank you,\" {n}Octavia whispers, touching your shoulder.{/n}"
+    },
+    {
+      "Key": "28a3a4cc-e42d-4cd3-96a2-87b1f2180653",
+      "Value": "\"Yes! We'll chase them to the border — we won't see them through the dust!\""
+    },
+    {
+      "Key": "a41b5f7b-d308-4ae0-8f77-1a0084dc34f2",
+      "Value": "{n}Octavia sighs.{/n} \"I wish I had your confidence.\""
+    },
+    {
+      "Key": "4722c9d9-dfc1-4ac1-b2b8-dc7eb806e67f",
+      "Value": "{n}Octavia's glance becomes sharper.{/n} \"So that's what I am for you? 'A resource'? A valuable thing that can be used anytime you wish?\" {n}She sighs and tightens her lips primly.{/n} \"I thank you for your help, but you should reconsider your attitude toward me and the others.\""
+    },
+    {
+      "Key": "2f8df67d-6ec3-4ca6-a117-ca1d913f5d3a",
+      "Value": "{n}Suddenly she frowns in contemplation, twirling her locks.{/n} \"Still, I'd like to find them first.\""
+    },
+    {
+      "Key": "fafec0e7-18a2-4559-b36a-402f974aab56",
+      "Value": "{n}Octavia shrugs awkwardly.{/n} \"We're together,\" {n}she answers simply.{/n}"
+    },
+    {
+      "Key": "7021626a-e987-48df-9295-d4ac6c86b456",
+      "Value": "\"You've noticed? Well, I didn't mean that… Now I'll have to explain.\" {n}Octavia shakes her head.{/n} \"I'm not sure I know how to put it correctly... You see, Reg seems to treat me like his property.\""
+    },
+    {
+      "Key": "e1c32f41-7064-49ad-bb58-548214ae4090",
+      "Value": "\"He's always kind to me and it feels good when we travel together, or when we share a blanket at the campsite... but he always calls me 'my Octavia.' I've told him over and over that I don't belong to anyone, that I'm my own, that I stay with him by my own free will. He only grins when I say that. I bet he likes to think that I'm 'his.'\""
+    },
+    {
+      "Key": "616c662a-c850-465f-9766-080ab15fee27",
+      "Value": "\"Never mind, though. I'll sort it out somehow.\" {n}Octavia shakes her head, making the troubling thoughts go away.{/n}"
+    },
+    {
+      "Key": "ccfa0c8a-8f77-4125-ba5d-16e8d0aea007",
+      "Value": "\"Years ago, when I was studying magic at Maestro Janush's, Reg was his student too, though you couldn't actually say he was really 'studying' anything. Reg had his own ways to cast spells — he never needed the maestro's instructions. You see, unlike wizards, Reg draws power directly from his innate bloodline abilities.\""
+    },
+    {
+      "Key": "74026ad3-0ed1-48c9-9745-001a34085a1e",
+      "Value": "\"Janush didn't realize the nature of Reg's powers when he took the young boy as his new student. And when he finally understood them, he just taught the negligent half-orc to control his powers, to avoid harming himself or the others.\""
+    },
+    {
+      "Key": "4ecf12d6-97fa-4a98-af4d-3633234c2718",
+      "Value": "\"Reg and I have been together ever since. We could both use magic, but more importantly we both craved freedom. We used to vow to each other that someday we'd break free from the unbearable captivity, or die trying — together.\" {n}Octavia gives you a warm smile.{/n} \"I guess it's good that we fulfilled only the first part of that vow.\""
+    },
+    {
+      "Key": "ca58d280-49a4-4b50-b585-8a6344a782d9",
+      "Value": "{n}Octavia winces.{/n} \"I don't like this 'owe' word. I don't owe anything to anybody — everything I do, I do of my own free will. But, to answer your question: yes, Reg has done a lot for me.\""
+    },
+    {
+      "Key": "737575e6-e199-4082-85cb-ebb8324ec353",
+      "Value": "\"I can't count how many times he was whipped by masters because of me, how many times he took the blame for my doings. He never complained when they dragged him, beaten and covered in blood, to the slave barracks. He just groaned and clenched his fists while I bandaged his wounds with the scraps of my filthy clothing.\""
+    },
+    {
+      "Key": "c291d1b1-8d9c-4d69-8061-dfff38487ccb",
+      "Value": "\"We've always been together. My whole life — as slaves and as free people. I wouldn't be me, if not for him.\""
+    },
+    {
+      "Key": "fd7d7be3-4b54-4dca-959f-8d27ac171ca5",
+      "Value": "\"Ah, that… that is a very delicate matter.\" {n}Octavia winces, looking away.{/n} \"Reg means a lot to me, and he endured a lot for me, but some parts of him just scare me.\""
+    },
+    {
+      "Key": "dc83914c-8f61-4e95-854b-da04a2e8e25e",
+      "Value": "\"He becomes extremely bloodthirsty when it comes to slavers. Don't get me wrong, I hate slavers with all my heart! And I'll do a lot to cleanse the world of their filth. But Reg... He'd do anything. Understand? Absolutely anything. I'm afraid that anger might kill everything good in him.\""
+    },
+    {
+      "Key": "86cbc99f-292a-49a4-88e9-1fdb2019dc49",
+      "Value": "\"I've attempted to talk to him about it many times, but he just won't listen. He becomes even angrier after our conversations.\" {n}Octavia sighs sadly.{/n}"
+    },
+    {
+      "Key": "7a15890b-b3d7-4264-bcdc-6ac15d42fa1f",
+      "Value": "\"I broke free from slavery. Thanks to you, I've obtained everything I dreamed of — my freedom, and the opportunity to control my own life. I want to use this opportunity to fight the {g|Technic League}Technic League{/g}. At least the part of it that operates here in the {g|Stolen Lands}Stolen Lands{/g}. I wish to free all the slaves from their Technic League masters.\""
+    },
+    {
+      "Key": "dd4be0ce-2903-48c1-a86a-f96e6d12cd77",
+      "Value": "{n}Octavia gives you a warm smile and gently touches your hand.{/n} \"I do believe that while we're together, we can achieve a lot! Even this.\""
+    },
+    {
+      "Key": "3ff8ef72-298a-406f-9d7d-a285f4d2072e",
+      "Value": "{n}Octavia's smile fades a little.{/n} \"I try not to view my life as a never-ending course of sufferings. Yes, I've had my share of hard times, but do I need to recall them? After all, along with the bad things, I had some good things as well. I had a dream, and I followed it, and eventually it came true. Following that path, I met Reg and you. Now I'm free and surrounded by friends.\""
+    },
+    {
+      "Key": "f2ac0e2a-a85c-409b-8116-f5091616a20f",
+      "Value": "{n}Octavia's voice trembles with hidden emotions. But her smile remains warm and sincere.{/n}"
+    },
+    {
+      "Key": "9cd15f1f-e161-47a7-a065-2121da028537",
+      "Value": "\"Oh, so you've noticed?\" {n}Octavia smiles slyly.{/n} \"My appearance is the result of daily effort, and it's not easy. Do you know how much time it takes to create good makeup, or to mend a dress, even with the help of magic?\""
+    },
+    {
+      "Key": "28a87399-20b2-4946-ab28-018f8c14f605",
+      "Value": "\"So if someday you wake up early, an hour before dawn or so, you can actually check on me. You'll see how I prepare myself for a new day.\""
+    },
+    {
+      "Key": "eb1758ec-a315-41de-aa79-e87c525290d6",
+      "Value": "\"So if someday you wake up early, an hour before dawn or so, you can actually check on me. You'll see how I prepare myself for a new day.\""
+    },
+    {
+      "Key": "b00f2b78-5ddc-4a70-aba6-4b8124ecd0ff",
+      "Value": "\"You're a real sweet-talker. I feel all flushed.\" {n}Octavia fans herself with a hand.{/n} \"Well, now I'll have to pay even more attention to my looks. For now I know for sure that there's someone who appreciates my efforts.\""
+    },
+    {
+      "Key": "f1a66ceb-9093-45fa-af54-a0b7ddda3f96",
+      "Value": "\"You bet! You know, I like to feel attractive, even while we're on the march.\" {n}Octavia flashes a teasing smile at you.{/n} \"It feels so good to be a beauty in a group of barely-washed and extremely reckless young gentlemen. You're my thorns, and I'm your rose!\" {n}Octavia giggles.{/n}"
+    },
+    {
+      "Key": "7dd528e3-c83b-43b7-98bf-3a6addf82ac7",
+      "Value": "\"Right, that's my business. It's good that you understand that.\" {n}Octavia nods and flashes a teasing smile at you.{/n} \"You know, it feels so good to be a beauty in a group of barely washed and extremely reckless young gentlemen. You're my thorns, and I'm your rose!\" {n}Octavia giggles.{/n}"
+    },
+    {
+      "Key": "5a254d88-6f4f-4565-8638-aa7f16cd0e5a",
+      "Value": "\"And I would prefer to decide on my own what to do in my free time.\" {n}Octavia's soft voice suddenly takes on a steely note.{/n}"
+    },
+    {
+      "Key": "ad2b9e6a-1906-4d1e-8c57-7cf13e3a1900",
+      "Value": "\"Don't apologize, we're both adults. And we have much more in common than a bed. We're friends and always will be.\""
+    },
+    {
+      "Key": "1d5cea8f-037f-41b2-93fe-4d81f38f2f17",
+      "Value": "\"Of course. I'd go through fire for you... But not to bed, haha!\""
+    },
+    {
+      "Key": "47cd452d-13cf-4fec-815b-9b25e4344c23",
+      "Value": "\"Of course I understand. We've always been more than just lovers. We are friends, and always will be.\""
+    },
+    {
+      "Key": "027246f8-e15a-430d-9ce9-f6f86cb01615",
+      "Value": "\"Seriously, we have nothing to regret. It was wonderful while it lasted.\""
+    },
+    {
+      "Key": "b30564ff-8437-438b-86db-7fadea7b8688",
+      "Value": "\"It's not your fault.\" {n}Octavia sighs.{/n} \"It's me who lost him. I kept driving him away, so sure that he was never going anywhere... So sure that he had to leave in the end.\""
+    },
+    {
+      "Key": "9a0b7926-649f-4a0c-8d53-afd46f9b20fd",
+      "Value": "\"I don't deserve to be with him. He's done so much for me, and I've brought him nothing but pain. So... Thank you for being with him. Take care of him. Care form him as I couldn't. He needs you more than ever now.\""
+    },
+    {
+      "Key": "5a8cd944-e7f4-464b-a476-f72cd78b47f8",
+      "Value": "{n}Octavia looks down.{/n} \"I... understand. But maybe we can give our feelings another chance?\""
+    },
+    {
+      "Key": "39b845c1-5861-46e8-a856-f23166723118",
+      "Value": "\"I know I can be tough. But we need each other.\""
+    },
+    {
+      "Key": "807b6f04-b428-4481-9f6e-3ef5c30d7f04",
+      "Value": "\"I won't lie and say I'm not hurt. But... You're probably right. Our love brings only suffering to both of us. And as friends... As friends we can keep covering each other's backs in battle!\" {n}Octavia forces a smile.{/n}"
+    },
+    {
+      "Key": "cde5e62f-7311-42e8-bd26-41968622e7f5",
+      "Value": "{n}Octavia looks down.{/n} \"I understand, it's hard to be with us. But remember — we promised each other to always be together. Maybe we can give our feelings another chance?\""
+    },
+    {
+      "Key": "54336b66-195d-4e10-b840-22e49bfee58c",
+      "Value": "\"Our relationship isn't simple, it's true. But the three of us need each other.\""
+    },
+    {
+      "Key": "a9757fdc-4073-4a46-8695-ff60ca111a21",
+      "Value": "\"Well... I want you to know that I was truly happy with you. But if this love brings you nothing but pain — it probably would be better to actually go our separate ways. I'll tell Reg.\""
+    },
+    {
+      "Key": "ae55b18c-0aea-4064-84a4-ddfbe1bdce02",
+      "Value": "\"Yes. Many slaves survived only thanks to their faith. Some lived hoping for a day when a good deity would deliver them. Some even offered deals to the evil gods... But me and Reg — {g|Calistria}Calistria{/g} has taught us the most important things. Expect no gifts from above. Rely only on ourselves. Never forgive those who wronged us. But, at the same time, savor every droplet of pleasure we could squeeze from our bleak days!\""
+    },
+    {
+      "Key": "a102ee2a-68c9-4fe0-a401-88f2791bfd89",
+      "Value": "\"I think you understand me well, as a fellow Calistrian... Could it be the Lady herself who sent you to help us?\""
+    },
+    {
+      "Key": "ade1a023-aeae-437a-9c0e-9c08cc6b6e97",
+      "Value": "\"Let's not regret it, or blame each other for anything. It was wonderful while it lasted. The most important thing is, we're friends, and we always will be.\""
+    },
+    {
+      "Key": "534403e5-7d0e-4fe5-bcfa-17c8e481c729",
+      "Value": "\"My enslavers from the {g|Technic League}Technic League{/g} funded a large expedition into the {g|Stolen Lands}Stolen Lands{/g}. A hundred agents, tens of slaves, wagons... We were to search for some ancient artifacts, or ancient ruins...\" {n}Octavia shrugs.{/n}"
+    },
+    {
+      "Key": "b6315570-41db-4296-99e1-3028871d3596",
+      "Value": "\"Our group never made it to the {g|Technic League}Technic League{/g} hideout. Along the way, it was attacked by the future owner of the {g|Stolen Lands}Stolen Lands{/g} {mf|himself|herself}. And I'll be forever grateful to {mf|him|her} for it!\" {n}Octavia winks cheerfully.{/n}"
+    },
+    {
+      "Key": "39579556-a0a1-4b6a-ad41-89fba513bc5f",
+      "Value": "{n}Octavia is visibly shaken by your words.{/n} \"But... but why? Is something wrong? We had so much fun together! And Reg... Reg will leave with me as well, I know that for sure!\""
+    },
+    {
+      "Key": "2ad94cb5-8385-4c80-9797-fc7cc203bc55",
+      "Value": "{n}Octavia barely fights back tears and struggles to smile.{/n} \"I'm so sorry to hear that, but if that is your wish... Whatever the reason you send me away, please remember that I always wished you well. Please remember me.\""
+    },
+    {
+      "Key": "90400e46-20b2-44cf-b85b-bbf2b052ca38",
+      "Value": "{n}Octavia winks her tears away and laughs.{/n} \"Oh, you've got some jokes, {name}!\""
+    },
+    {
+      "Key": "7151dc9d-ed60-4023-b7d9-77558adb502a",
+      "Value": "\"Mother was young and dumb... Younger than I am now. Of course, hiding a three-year-old with the {g|Technic League}Technic League{/g} and expecting to get her back later was probably the worst plan our era's seen. But what's the point of blaming her now? We can't change what happened, but we're together now. That's what's important.\""
+    },
+    {
+      "Key": "633f8bd9-bfa8-4683-b70c-0f01cca3221b",
+      "Value": "\"It infuriates me... Thinking she could hide a three-year-old with the {g|Technic League}Technic League{/g}, and expecting to get her back later?! I'm just glad it didn't occur to her to leave me in the woods with wolves and bears to care for me... the idiot. I don't even want to think about it!\""
+    },
+    {
+      "Key": "67da5695-3bab-41c8-ad13-a950178dcada",
+      "Value": "\"Nothing. We're not going there to talk. I just want to spare the world his continued presence once and for all.\""
+    },
+    {
+      "Key": "8bc8098a-5f7c-4652-b3ec-92360eeae335",
+      "Value": "\"No. Well... maybe just a bit. Of course it's bad that he's free and able to keep hurting people. But to sacrifice people dying in front of you just to save the people Janush MIGHT hurt in the future — that would be insane. And getting revenge just for the sake of revenge... No. Not at that price.\""
+    },
+    {
+      "Key": "97957074-a086-4c64-957c-e4835da16832",
+      "Value": "\"I do. I see those poor people in my nightmares. But I still believe it was the right thing to do, cruel though it was. Janush was a monster — he had no right to go on living. If he'd returned to {g|Numeria}Numeria{/g}, he'd have destroyed the lives of hundreds more people, maybe thousands.\""
+    },
+    {
+      "Key": "a876f81d-7a4e-4b2f-ace0-1524cbb4ae12",
+      "Value": "\"She moved to the capital — I rented a small house for her. We see each other every day. She's very kind, but so naive! Sometimes when she talks, it seems more like I'm the gray-haired old woman and she's the little girl!\""
+    },
+    {
+      "Key": "61a34fe7-740d-4275-9368-73dec38e037f",
+      "Value": "\"I have no mother. Please never bring it up again.\""
+    },
+    {
+      "Key": "d09386e0-2a92-4f8b-916a-9b06aace1c8c",
+      "Value": "\"Thank you for supporting me when I needed it. I was one small step away from leaving them behind to chase Janush.\""
+    },
+    {
+      "Key": "eb0f004b-afd1-44cc-b099-23dbb49348ba",
+      "Value": "\"Thank you for supporting me when I needed it. Without your advice, I'd have never had the guts to do what had to be done.\""
+    },
+    {
+      "Key": "a9d46185-6821-49a4-8a1d-e0b7112c0791",
+      "Value": "\"I tried introducing her to Reg a while ago. Invited him for tea... Oh, you should have seen it! Mother almost had a stroke, listening to him!\" {n}Octavia giggles.{/n} \"Oh, well! It's a bit late to make a lady of me anyway!\""
+    },
+    {
+      "Key": "7327fad5-9770-41dd-9585-b4b04ec19420",
+      "Value": "\"Oh, no! You have no idea how much I was seething on the inside. Reg wanted me to chase after him — and I almost did!\""
+    },
+    {
+      "Key": "2feb3ab5-05c3-4e42-9861-be2f3e5c2bf8",
+      "Value": "\"Of course! But you know, if I ever get it in my head to do something stupid or vile... don't support me then. Better yet, knock some sense into me. I'll definitely thank you later!\""
+    },
+    {
+      "Key": "713dbab9-4cf5-4fc1-b9e7-c04d791fcd4e",
+      "Value": "\"No, don't say that! We did the right thing. Janush is definitely a monster, but would we be any better if we'd let all those people die for our revenge?\""
+    },
+    {
+      "Key": "1a327c9a-596b-44f7-9257-9ba6867fe660",
+      "Value": "\"Not just for revenge. You have no idea what that monster Janush did to his victims! Someone had to end him, even at such a terrible price.\""
+    },
+    {
+      "Key": "6d4fa2f7-e4f1-4657-9dd7-6c35bced14e3",
+      "Value": "\"Not alone. You're our {mf|baron|baroness|king|queen}, of course, but that doesn't mean you have to bear that responsibility by yourself. We made the decision together, and we'll answer for it together — be it to the people, to the gods, or to our own consciences.\""
+    },
+    {
+      "Key": "5b027b97-28da-40ad-8cef-9f6595249b28",
+      "Value": "\"Perhaps... But as we get stronger, doesn't that mean we can afford such luxuries more often? We do what we must, of course — but there's nothing good about cruelty, even if it's sometimes necessary.\""
+    },
+    {
+      "Key": "33f15076-edca-4cbe-b4b1-ad7ea20161f1",
+      "Value": "\"Oh, stop with the flattery! It wasn't a matter of kindness — maybe not even forgiveness or mercy. It's just... even though we hadn't seen each other for so many years, I feel like she really is family.\""
+    },
+    {
+      "Key": "1b2e8f7f-27ef-4adf-8528-5a0cc4f84165",
+      "Value": "\"Well, I can't say everything's peachy. She tries not to show it, but I can tell — there's a lot she doesn't like about me. The way I talk, the work I do, who I sleep with... Sometimes there are awkward pauses in our conversations, and we both understand that some things are best left unsaid. But still... I'm glad we're together again.\""
+    },
+    {
+      "Key": "ece4ab4a-925d-4655-bf3e-e2164f5f0e90",
+      "Value": "{n}Octavia shrugs.{/n} \"If you told me a few years ago it'd be like this, I wouldn't have believed it myself!\""
+    },
+    {
+      "Key": "e4825291-aede-4b89-b265-2bb971fc3297",
+      "Value": "\"It's not nonsense, {Name}! People died... Maybe it wasn't directly because of me, but I let it happen! Maybe you can just forget about it, but not me... I'll never forget. I'll carry this guilt for the rest of my life.\""
+    },
+    {
+      "Key": "dfae6021-e2ca-4a3b-aaf5-1c14a9d422ad",
+      "Value": "\"Not any more cruel than she treated me. Enough about that. I don't want to talk about it anymore.\""
+    },
+    {
+      "Key": "61034d7c-4be1-4ee0-a820-96cbed024e64",
+      "Value": "\"Thank you. I appreciate it.\""
+    },
+    {
+      "Key": "724b3b74-66ee-4580-a559-846cc475a04c",
+      "Value": "\"I just want to forget about her — forever. If her blood was on my hands, she'd haunt me for the rest of my life. Just drop it. Please.\""
+    },
+    {
+      "Key": "e7f2c08c-cf23-4244-a937-6eb0a2d1781e",
+      "Value": "\"No matter what happens, we will always be friends.\""
+    },
+    {
+      "Key": "08c72fa8-fb14-4333-9b73-253d8136ab02",
+      "Value": "{n}Octavia buries her nose in your neck.{/n} \"I would. I do. I always do!\""
+    },
+    {
+      "Key": "944c59cf-4247-44c3-b76d-295e0ddfc095",
+      "Value": "{n}Octavia pulls away softly.{/n} \"I'm sorry, I'm... Not in the mood.\""
+    },
+    {
+      "Key": "90d32995-abf9-4d7e-83fc-f4d61b73f212",
+      "Value": "\"Should we call Reg? It's more fun with the three of us!\""
+    },
+    {
+      "Key": "cb208d40-3b5e-443b-9ffb-80a4f616b8a6",
+      "Value": "\"I'll bring him... Don't go anywhere, hee hee!\""
+    },
+    {
+      "Key": "3c7704eb-a058-4bc8-b6e7-be8f243d4591",
+      "Value": "{n}Laughing musically, Octavia takes you by the arm and leads to your chambers.{/n}"
+    },
+    {
+      "Key": "f122801c-64ff-485e-bf27-50923bb1eed3",
+      "Value": "\"{Name}, don't. Not now. I'm sorry I'm like this. I just need to think.\""
+    },
+    {
+      "Key": "59adf5c0-7326-4571-94fa-94e7d4b6afde",
+      "Value": "\"I'm...\" {n}Octavia sighs, almost sniffles.{/n} \"Please forgive me. I need to think. We'll talk when I find the words. All right?\""
+    },
+    {
+      "Key": "64d2bb25-35b2-4140-99ac-7671a3fafba0",
+      "Value": "\"I love you too. Thank you for being so patient with me. I don't know what I'd do without you.\""
+    },
+    {
+      "Key": "93d5d66f-1317-450b-9b9e-2ed8c7f2c15b",
+      "Value": "\"Well, our little adventure is over... Oh well, roses don't bloom forever, haha!\""
+    },
+    {
+      "Key": "a59a0d17-6a41-4629-8f98-f62b36179d16",
+      "Value": "\"Hello!\" {n}Octavia smiles at you flirtatiously.{/n} \"Got any good news?\""
+    },
+    {
+      "Key": "87edd3d2-26c0-4f43-8b22-4de69f858816",
+      "Value": "{n}Octavia greets you with a kiss on the cheek.{/n} \"Hi! It's been a long time! Or has it? It doesn't matter, I've missed you terribly!\""
+    },
+    {
+      "Key": "936728e8-f8d3-4472-9f37-96dd142a2b46",
+      "Value": "{n}Octavia is lost in thought. She doesn't notice you right away, and when she does, she greets you with a sad smile.{/n} \"Hi.\""
+    },
+    {
+      "Key": "8ecf3a1c-c748-43a7-a068-ad6697bfd01c",
+      "Value": "{n}Octavia holds you tight.{/n} \"Back together... I love you.\""
+    },
+    {
+      "Key": "1fc4d83f-99bd-46cc-b333-9ef406d54fee",
+      "Value": "\"Hold on to Valerie. She's a real treasure. Don't lose her!\""
+    },
+    {
+      "Key": "b208d2e3-9b70-4c3f-9dc1-247b3d89f59b",
+      "Value": "\"Take care of Tristian. He's so fragile!\""
+    }
+  ]
+}

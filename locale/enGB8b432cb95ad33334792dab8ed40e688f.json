@@ -1,0 +1,181 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "98d6b213-e75b-4b64-bce2-250c82eee5ab",
+      "Value": "\"{name}, {mf|baron|baroness|king|queen} and rightful ruler of this realm. And you are?\""
+    },
+    {
+      "Key": "1c4aeb4b-89eb-48c1-9837-603b87738a41",
+      "Value": "\"I dealt with the Stag Lord myself. You're just an impostor, and a miserable one at that.\""
+    },
+    {
+      "Key": "0d5fcb74-e708-4ce3-9ea0-089ccf3f24d4",
+      "Value": "\"You tried to take some of my lands for your own. What do you have to say in your defense?\""
+    },
+    {
+      "Key": "d483a566-be7b-487b-9cd2-29b421c181f1",
+      "Value": "\"How would you like to keep collecting money, only as servants rather than bandits? You would have to share your revenue, though — seven parts to the {mf|barony|barony|kingdom|kingdom}, three to your gang.\""
+    },
+    {
+      "Key": "a4006a21-7697-48d0-9092-8c0c38055d72",
+      "Value": "[Attack] \"Here's a thought. Since I already killed one Stag Lord, what's to keep me from killing another?\""
+    },
+    {
+      "Key": "4dac7d0c-6485-4b7f-b7c5-c60863a085db",
+      "Value": "\"All right, Stag Boy, you're going to take that ridiculous thing off your head, leave this tent, and do everything you can to ensure I never hear from you or your gang again. Everything you've collected so far will be returned to the people.\""
+    },
+    {
+      "Key": "177fbc57-6e81-437c-b568-45277ad1afac",
+      "Value": "\"I'll come back later.\""
+    },
+    {
+      "Key": "044900e1-8e77-4536-8419-763b5b0c4210",
+      "Value": "\"How are your duties going?\""
+    },
+    {
+      "Key": "bfc24b83-caba-47c2-acce-32ddf6bc1163",
+      "Value": "\"You'll hang in the main square as a warning to any other outlaws who might dare to cross my path. The money you've collected will serve better in the treasury.\""
+    },
+    {
+      "Key": "42d040e9-3609-4644-85e8-a754f146089b",
+      "Value": "\"No one blocks travel in the Stolen Lands, not even to charge a toll — haven't you heard of the River Freedoms? Get your people and get out. The bridge will be open to all.\""
+    },
+    {
+      "Key": "f164f3d2-7193-411c-b2a0-5da024a5a2ea",
+      "Value": "{n}The infamous Stag Lord looks to be a portly man somewhere in his forties. His armor is at least a size too small for his bulk, and the ill-fitting helmet on his head is adorned with antlers that vaguely resemble those seen on the head of the previous Stag Lord, now deceased.{/n}"
+    },
+    {
+      "Key": "6cdcf005-7975-4c8b-bdce-fdb3b8508f20",
+      "Value": "{n}The impostor shrinks from your gaze.{/n} \"What do you want?\""
+    },
+    {
+      "Key": "bb974e71-9fc5-4e17-aeba-841c46c00faf",
+      "Value": "\"Who dares stumble into my headquarters without so much as a knock or a bow?! Who the hell do you think you are?\""
+    },
+    {
+      "Key": "ca2b4c02-88d5-497f-972e-02f7143fd98c",
+      "Value": "\"{mf|Baron|Baroness|King|Queen}, you say? Heh, you made a huge mistake coming here, then. For I am the Stag Lord, hero to the people and enemy of any bureaucrats who would dare call the {g|Stolen Lands}Stolen Lands{/g} their own!\""
+    },
+    {
+      "Key": "a278e3e2-8d39-405b-a594-9089761616f2",
+      "Value": "{n}It may be hard to see his face under his ridiculous helmet, but it's easy to see the bandit leader deflate upon hearing your words.{/n} \"I... No! It is I who is the Stag Lord! You... killed an impostor!\" {n}The gang leader's voice quavers as he speaks.{/n}"
+    },
+    {
+      "Key": "74066c2c-f7f1-4289-aebb-ca5b1d95c396",
+      "Value": "\"Insolent fool! All of the surrounding lands are the property of the Stag Lord and his daredevils!\""
+    },
+    {
+      "Key": "13ed8f29-3053-43b3-b8db-5698aa459cdc",
+      "Value": "{n}The bandit leader is silent for a moment.{/n} \"Work... for you? Yes, of course! Rest assured, Your {mf|Grace|Grace|Highness|Highness}, not a mouse will pass this bridge without first paying the toll!\""
+    },
+    {
+      "Key": "54460542-6475-46ee-82fc-50bd85db1cb9",
+      "Value": "\"Yes, Your {mf|Barony|Barony|Kingness|Queenness}... I mean, Your {mf|Grace|Grace|Highness|Highness}... Of course... You're... too kind...\""
+    },
+    {
+      "Key": "4295b9a2-dfaa-4bcc-a6de-d57eab674db2",
+      "Value": "\"Impudent upstart! I may not be THE Stag Lord, but I can sure as hell give a presumptuous wimp like you a proper beating! Get {mf|him|her}!\""
+    },
+    {
+      "Key": "e11f3f6a-6f4b-4b55-b5d6-6e3765228a30",
+      "Value": "\"Hell no! You just want someone else to do all the dirty work for you! Get in here, gang! Let's teach the {mf|baron|baroness|king|queen} a lesson about trying to control free people!\""
+    },
+    {
+      "Key": "4451f312-1740-4f24-89c2-c719273b00c9",
+      "Value": "\"Get in my way again and I'll order my associates here to hang you upside down on the bridge!\""
+    },
+    {
+      "Key": "a53fe575-914d-418f-84e0-b43512c1a048",
+      "Value": "\"Everything's fine and dandy, Your {mf|Grace|Grace|Highness|Highness}! Levyin' tributes, blocking passage — everything's as it should be!\""
+    },
+    {
+      "Key": "1d3c6db2-43fb-40cc-a93a-68c3c5ed793d",
+      "Value": "{n}The \"Stag Lord\" awkwardly and hastily salutes you.{/n} \"What can we do for you today, {mf|baron|baroness|king|queen}?\""
+    },
+    {
+      "Key": "988a18d0-1e64-4cdb-965f-bd4d71a1429b",
+      "Value": "\"NO, PLEASE! MERCY!\""
+    },
+    {
+      "Key": "d65afc91-3378-42e0-84ba-0a48c27ccd56",
+      "Value": "\"That so?! Get {mf|him|her}, everyone! Let's hang the troublemaker from the bridge as a warning to all who see {mf|him|her}!\""
+    },
+    {
+      "Key": "93c3e3ab-86b7-4e3e-8300-5931f146ea85",
+      "Value": "{n}The impostor opens and closes his mouth a few times, unable to form actual words. He eventually averts his gaze.{/n} \"Then you and your {g|Stolen Lands}Stolen Lands{/g} can go to hell! You're missing a major haul, {mf|baron|baroness|king|queen}. If that's the way you want it, I won't interfere. Let's go, everyone. We're leaving.\""
+    },
+    {
+      "Key": "b75664a4-89e3-4a76-be79-dfcff01432a4",
+      "Value": "\"Listen to this idiot! Keep your damn freedoms to yourself — we're running a business here! Gang, teach this 'well-wisher' a lesson!\""
+    },
+    {
+      "Key": "ff1589e4-099d-408d-926b-ec08db42ab63",
+      "Value": "{n}Harrim shakes his head.{/n} \"Impersonating a dead man... What a ridiculous mockery of your own mortality. Today you steal the name of a man who has become dust — tomorrow, you join him...\""
+    },
+    {
+      "Key": "2929017c-fa32-4300-9380-eb0089e02bf9",
+      "Value": "\"Well, this is just great! We were sent to get rid of the Stag Lord, and you say the one we took out was just an impostor? Then I guess we're lucky to finally meet the real one, aren't we?\""
+    },
+    {
+      "Key": "a8210c88-0817-447e-94cc-453cef0e9662",
+      "Value": "\"I see you're a master at chewing the fat — are you as good at fighting, chubby? I bet if I gave you a push, you'd just roll away!\""
+    },
+    {
+      "Key": "d732680b-6a33-49b8-88fa-5b8c8ba31304",
+      "Value": "\"You? A hero? Not a chance. You're more like comic relief!\""
+    },
+    {
+      "Key": "e4eb1db3-5171-43fd-bedb-f245f70f94a1",
+      "Value": "\"Serves him right! I hope killing this asshole will be at least half as fun as killing the real Stag Lord was...\""
+    },
+    {
+      "Key": "9ba30214-be60-461d-b1c9-ed568a230435",
+      "Value": "{n}The impostor hastily removes his helmet and throws it to the ground.{/n}"
+    },
+    {
+      "Key": "09371aa6-c6d9-4d22-b525-6d6571481b64",
+      "Value": "{n}The fat man jumps up and begins running.{/n}"
+    },
+    {
+      "Key": "14b386e5-24c5-4005-859d-8e9750d7fd81",
+      "Value": "\"Don't expect any mercy!\""
+    },
+    {
+      "Key": "65c472d9-eb99-49d5-a6b4-0ddceb9610a6",
+      "Value": "\"More pointless bloodshed...\""
+    },
+    {
+      "Key": "0726aada-8bac-4638-b83c-896b3a13d0d9",
+      "Value": "\"What? You not only allow him to rob people, but you want to hire him?\""
+    },
+    {
+      "Key": "588329ea-b9cd-426c-8ac6-8690af24f84a",
+      "Value": "\"If I knew what I would have to do after joining you...\" {n}Tristian shakes his head.{/n}"
+    },
+    {
+      "Key": "36ef2534-d4f3-4000-bac5-66d80e03e852",
+      "Value": "{n}Tristian tries and fails to keep a serious expression on his face.{/n} \"I suspect {g|Sarenrae}Sarenrae{/g} would not approve of such methods of rehabilitation, but their efficacy exceeds all expectations.\" {n}The cleric bites his lip and chuckles softly.{/n}"
+    },
+    {
+      "Key": "e3e765c5-d2a2-4fad-a67e-cf47cd8ac15c",
+      "Value": "\"You bargain for your share like some huckster! It disgusts me even to hear it, not to mention participate in it, even indirectly!\""
+    },
+    {
+      "Key": "f14f74c1-56ae-4257-a571-3fad9aa3ee99",
+      "Value": "\"Not the most elegant expression of the will of law, but scum like this probably would not understand otherwise.\""
+    },
+    {
+      "Key": "f17d3383-d4b2-4ccc-8c3e-8725fcdf3f1d",
+      "Value": "\"What, for example? Bring order to the lands you're responsible for? Quiet your whimpers, boy-priest!\""
+    },
+    {
+      "Key": "bfc6cfc6-6b17-4312-b42a-74fddc64496e",
+      "Value": "\"That's a shame. A ruler should be tough and rely on {mf|his|her} loyal servants, not useless lowlifes that can only hurt your good name.\""
+    },
+    {
+      "Key": "00b2da3d-0199-4a94-9d53-3c592e8fcb25",
+      "Value": "{n}Kanerah trills with laughter.{/n} \"A hero of the people, fighting against bureaucracy! I bet in ten years that's exactly how bards will tell this story. And there will be many, many songs about the hero's tragic death... Especially if the heartless bureaucrats hang him from the pillar of a bridge today!\""
+    }
+  ]
+}

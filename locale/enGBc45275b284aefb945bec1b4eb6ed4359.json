@@ -1,0 +1,149 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "763de124-2700-4ca1-be16-c5c5cc64c018",
+      "Value": "\"Jamandi, just what kind of game are you playing? I think I have the right to know.\""
+    },
+    {
+      "Key": "1e79d58a-91e8-4835-afae-35d60cd03172",
+      "Value": "\"What do I need to know about the history of Brevoy?\""
+    },
+    {
+      "Key": "25f53530-a1cf-417a-b476-bbd8abe548e3",
+      "Value": "\"What do I need to know about the current political atmosphere?\""
+    },
+    {
+      "Key": "68f19f06-d5d7-43a5-90e9-51a3774f84cd",
+      "Value": "\"What role do I play in your plans?\""
+    },
+    {
+      "Key": "dd0f515f-dba6-430e-bded-a64b419650ee",
+      "Value": "\"If Natala is already here, why did she let you grant me the title?\""
+    },
+    {
+      "Key": "daf8f414-5278-4fe4-bcaf-69d12d98fc7d",
+      "Value": "\"I don't need an envoy.\""
+    },
+    {
+      "Key": "364ff95d-bd80-4222-9b0f-aad4a585a62b",
+      "Value": "\"Thank you for the explanation.\""
+    },
+    {
+      "Key": "238c919b-6809-45e5-9fee-d0d80796f830",
+      "Value": "\"What happens next?\""
+    },
+    {
+      "Key": "3cad9707-1437-47dc-9092-20078f419946",
+      "Value": "\"Do you already know about my encounter with Tartuccio?\""
+    },
+    {
+      "Key": "ff036eb2-0b48-4ac1-87f1-5f4153735e48",
+      "Value": "\"Thank you. I'm going to speak with the guests.\""
+    },
+    {
+      "Key": "eae9f8ca-f8b7-41bc-bf63-efa4bf87687e",
+      "Value": "\"What part does Restov play in this game?\""
+    },
+    {
+      "Key": "587b9ca7-3b8c-420e-9966-31e5fb1ba818",
+      "Value": "\"Don't the Swordlords have any other foreign allies capable of playing this role?\""
+    },
+    {
+      "Key": "9251a461-d32a-41ed-9878-98d4f3e9d8cf",
+      "Value": "\"May Abadar help us bring civilization to this savage land.\""
+    },
+    {
+      "Key": "8c34ae97-60b9-4b0b-b7c2-5334a7a3f5e4",
+      "Value": "\"Good work. Nice to see I haven't lost my intuition for people. Not many would have managed to set out to {g|Stolen Lands}the Stolen Lands{/g} and return with the Stag Lord's head, but I knew you could handle it.\""
+    },
+    {
+      "Key": "8879c2ee-c832-43da-adc2-6fdbe89fdb34",
+      "Value": "\"But matters of state can wait. For now, enjoy this feast in your honor. All the city leaders are here. It's a great opportunity to make some useful connections.\""
+    },
+    {
+      "Key": "7015d7e5-b59c-4d53-a950-7b326c74ec17",
+      "Value": "\"Speaking of connections, let me introduce you to Kassil Aldori. He's my adopted son and apprentice. He's a trustworthy man — I'd like to send him with you as an envoy.\""
+    },
+    {
+      "Key": "12cea0f0-5358-4a75-aab7-b40a84706309",
+      "Value": "{n}Kassil, a young half-orc with impeccable poise, performs a textbook-perfect bow.{/n}"
+    },
+    {
+      "Key": "d5b977f3-7037-41c7-9749-ca878b1702b3",
+      "Value": "\"Yes, you certainly have that right. But tell me, how well do you know {g|Brevoy}Brevoy's{/g} history, or the current political atmosphere? It won't be an easy explanation.\""
+    },
+    {
+      "Key": "63114bf1-f763-4f58-92e1-36fe31de8f1d",
+      "Value": "\"Don't think I'm trying to impose a nanny or a spy on you! We're neighbors now. You'll need someone knowledgeable about {g|Brevoy}Brevoy's{/g} politics to act as an ambassador to your court. If you don't like Kassil, you're free to choose someone else, but I won't be able to vouch for the loyalty or trustworthiness of another envoy.\""
+    },
+    {
+      "Key": "2ca3a29c-5f6e-43c8-90cd-f18b890cd1f0",
+      "Value": "\"I hope you have a better understanding of what's at stake.\""
+    },
+    {
+      "Key": "f02e7b16-842c-4b5b-9b95-1a63b8b93aa9",
+      "Value": "\"Of course. Kesten gave me a full report. You dealt with the scoundrel perfectly. It would be naive to think that none of your neighbors will try to stick their hands in your affairs — especially that sly fox Irovetti!\""
+    },
+    {
+      "Key": "70bd1bf6-2799-491b-a09e-5aa29cbea9ce",
+      "Value": "\"What's now called {g|Brevoy}Brevoy{/g} was originally two different countries — {g|Rostland}Rostland{/g} and {g|Issia}Issia{/g}. Two hundred years ago, they were stuck in constant squabbles. Then {g|Choral}Choral the Conqueror{/g} showed up and united the two states into one. Such diplomatic tricks are easy to manage when you have dragons at your disposal.\""
+    },
+    {
+      "Key": "b0020387-cec0-4345-aecb-3c6cf07ff4cb",
+      "Value": "\"The so-called noble Houses of {g|Brevoy}Brevoy{/g} — mainly {g|House Surtova}Surtova{/g}, {g|House Orlovsky}Orlovsky{/g}, and {g|House Lebeda}Lebeda{/g} — once ruled over {g|Issia}Issia{/g}. We, {g|Swordlords}the Aldori{/g}, ruled {g|Rostland}Rostland{/g}. {g|House Rogarvia}The Royal House Rogarvia{/g}, founded by {g|Choral}Choral the Conqueror{/g}, forced us into obedience. But two hundred years isn't long enough to make peace with such a troubled history — even two thousand years wouldn't be enough for us to accept Issian rule! Brevoy is a country held together by a thread, and that thread grows ever weaker.\""
+    },
+    {
+      "Key": "01390472-3831-47c9-a9ea-a48e03e63d27",
+      "Value": "\"We — {g|Swordlords}the Aldori{/g} and the Great noble Houses — spent two hundred years under the rule of invaders, {g|House Rogarvia}the Royal House Rogarvia{/g}. We plotted, we schemed, we stabbed each other in the back, but open confrontation was out of the question. But a few years ago, House Rogarvia... disappeared. No one knows how or why, but one day, their manors were just... empty. And the force that held {g|Brevoy}Brevoy{/g} together, that kept us from a bloody feud... ceased to be.\""
+    },
+    {
+      "Key": "49fafe22-eac5-4eb4-bd71-b437046b7c67",
+      "Value": "\"{g|Brevoy}Brevoy{/g} is currently ruled by {g|House Surtova}the House Surtova{/g} — the former kings of {g|Issia}Issia{/g}. But their power pales in comparison to that of {g|House Rogarvia}House Rogarvia{/g}, when they were here. So now, Surtova and {g|Swordlords}Aldori{/g} stand facing each other, staring each other in the eye, waiting for the other to draw their sword. It's an untenable situation. No one wants a civil war that would drown Brevoy in blood... but peace between us is also out of the question.\""
+    },
+    {
+      "Key": "9d92ebd7-5eea-4003-a7ae-094d6a2dc85b",
+      "Value": "\"{g|Rostland}Rostland{/g} wants to regain its independence — and we will regain it. The power the {g|Issia}Issians{/g} hold over us is humiliating and costly. And the {g|House Surtova}Surtovas{/g} won't give us our freedom without a fight — that is, unless there's some external power that can force everyone to sit down and talk... Do you see where this is going?\""
+    },
+    {
+      "Key": "18bd13b5-dfcf-41ac-8ff6-0b93d7c2b82e",
+      "Value": "\"{g|Stolen Lands}The Stolen Lands{/g} are disputed territory. {g|Brevoy}Brevoy{/g} can't appropriate them without raising protests from each of the neighboring states. However, if some brave people were to found independent states on that land, it would be another matter entirely. My hope is that you and your future neighbors — Baron Hannis Drelev and Captain {d|Varn}Maegar Varn{/d} — will become our allies. But even your neutrality would introduce a powerful counterbalance to the aggression of the Noble Houses. Maybe, with your help, the inevitable division of Brevoy can occur without too much pain.\""
+    },
+    {
+      "Key": "13284d30-47ef-4e26-9e27-a165d77cbe8e",
+      "Value": "\"Actually, she could still intervene and disrupt the proceedings. But she's a {g|House Surtova}Surtova{/g} — their games are always complex and multilayered. They're always looking for ways to turn defeat into victory. If she's decided to allow you to become a baron{mf||ess}, it means she already has some idea of how she can turn it to her benefit. Let's consider how she could do so.\""
+    },
+    {
+      "Key": "d8f63b4d-797b-4756-8911-c7699173c570",
+      "Value": "\"Maybe she understands that {g|Rostland}Rostland{/g} will inevitably separate, and she doesn't want a war. In that case, new states in {g|Stolen Lands}the Stolen Lands{/g} give the {g|Issia}Issians{/g} a reason to sit down and talk without losing face. But that's an optimistic view, and truth be told, it doesn't quite match up with what we've come to expect from the {g|House Surtova}Surtovas{/g}.\""
+    },
+    {
+      "Key": "c7e0078d-63eb-459a-b8e8-a77bc4dfb18b",
+      "Value": "\"The more likely scenario is that Natala wants to win you over to her side. If war breaks out and at least one of you stabs us in the back, {g|Rostland}Rostland{/g} will be surrounded by enemies. That might be enough to bring about our downfall... But you would fall first, and your newly formed states would be left in ruin. The {g|Issia}Issians{/g} always like to have someone around to pull their chestnuts out of the fire for them. A piece of friendly advice: don't do business with {g|House Surtova}Surtovas{/g}, no matter what promises they make you. Any deal with the Noble Houses is a deal with devils.\""
+    },
+    {
+      "Key": "baf1cfc5-c906-4768-85d2-790700767027",
+      "Value": "\"How should I know? We're in the middle of a big game — and today you move from being merely a piece on the board to being one of the players.\""
+    },
+    {
+      "Key": "170ec63c-5adf-469a-9eae-4e571fd5434e",
+      "Value": "\"Enjoy your evening! When you're ready for the official part, come to me.\""
+    },
+    {
+      "Key": "1feaddab-468e-41e8-aee0-e73e768c0f65",
+      "Value": "\"{g|Restov}Restov{/g} is a free city, proud of its independence from everyone, including the {g|Swordlords}Aldori Swordlords{/g}. But when it comes to {g|Rostland}Rostland's{/g} liberation, our goals align. This whole plan is our joint creation with Lord Mayor Ioseph Sellemius.\""
+    },
+    {
+      "Key": "22d77c96-8497-41e0-8e09-a4f1edc744c9",
+      "Value": "\"You have pulled it off even {d|c11 Fast}faster{/d} than I expected. Very good: we were short of time, and these months you've won for us proved very useful. Lord Mayor Sellemius especially appreciated it, and asked me to give you this little token of gratitude.\""
+    },
+    {
+      "Key": "1f92b807-7c17-4010-80b2-262b6555a2a2",
+      "Value": "\"We hope to get some help from the Mivoni Aldori — the descendants of the {g|Swordlords}Swordlords{/g} who have fled from {g|Choral}Choral's{/g} rage to build a new nation in the south. But the {g|Issia}Issians{/g} know this well, and are doing everything they can to deny us this help. I won't go into details, but, if my intelligence is correct, if a civil war starts in {g|Brevoy}Brevoy{/g}, {g|Mivon}Mivon{/g} will be too occupied with its own inner troubles to interfere.\""
+    },
+    {
+      "Key": "075bdc94-f881-4b76-9d30-d8a916ba1dff",
+      "Value": "{n}Jamandi nods.{/n} \"I will pray to the God of Walls and Ditches that he never leave your side. Though you can definitely expect more support from me than just thoughts and prayers!\""
+    }
+  ]
+}

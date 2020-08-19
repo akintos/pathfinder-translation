@@ -1,0 +1,81 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "fd8c9d1b-c079-42f4-af3a-34a171062dde",
+      "Value": "{g|Espionage6_1}[Choice effects]{/g} \"Pass the information about the Gardeners to the leader of the Revolutionary Council of Galt.\""
+    },
+    {
+      "Key": "76e040ee-8784-468e-8d80-a6fe53c7a04e",
+      "Value": "{g|Espionage6_2}[Choice effects]{/g} \"Help the Order of Vengeance achieve their revenge.\""
+    },
+    {
+      "Key": "e4f73933-5004-4a53-a41d-90b4193f9717",
+      "Value": "{g|Espionage6_3}[Choice effects]{/g} \"Organize peace negotiations with Litran.\""
+    },
+    {
+      "Key": "ef29183e-1f8a-493b-a357-da5a9aa97a5a",
+      "Value": "\"I'll trust in your judgment.\""
+    },
+    {
+      "Key": "f751c448-14b1-49a6-91e4-968e882f121b",
+      "Value": "\"We're fighting someone else's war. We aren't Gralton. We aren't Litran. We have no stake in this fight. Let us escape it before we're stabbed in the back. Petitioning for peace is an option, though unreliable. Let's distract them first.\""
+    },
+    {
+      "Key": "4dfda269-101d-45ce-9c1b-bcb17a9f322d",
+      "Value": "\"Look, {name}, we've suddenly stumbled into the middle of a fight between Litran and Gralton. I don't know who might benefit from this, but it's surely not us. It's time to figure out a way to extricate ourselves from the situation. I suggest we negotiate a peace treaty. However, if you're too proud for such a measure, I'll tell you a couple other options.\""
+    },
+    {
+      "Key": "340c47ed-e221-4b71-882e-462e422a9a65",
+      "Value": "\"We are pulled deeper and deeper into Litran and Gralton's fight. This already drains our forces, and cannot end well. It's time we plan our escape from this situation – preferably something that casts us in a positive light. I can see two options.\""
+    },
+    {
+      "Key": "727a369e-5b7b-4737-8554-e8c97261110e",
+      "Value": "\"Very well. I'll send Goss all he'll need to know about the grey masks.\""
+    },
+    {
+      "Key": "6b0c98a7-1dca-4ede-a41e-4118040aac27",
+      "Value": "\"He'll be more than happy to bleed the Grey Gardeners a little. And we've all the information we'll need to begin bloodletting. The ignorant fool won't even stop to think why we shared our knowledge with him.\""
+    },
+    {
+      "Key": "0d19e677-2ff0-4f3f-b03f-0a042f2ec8d7",
+      "Value": "\"This inane war between the two countries was bound to happen eventually. At least we might profit from it. That will have to be good enough for now.\""
+    },
+    {
+      "Key": "392c9dd4-9a52-44fb-a44a-5e005bf01139",
+      "Value": "\"Litran will forget all about us, once the partisans seize {g|Galt}Galt's{/g} borderlands. The Grey Gardeners should never have crossed us.\""
+    },
+    {
+      "Key": "7aba993b-9db8-40ca-be99-e7f4daa30819",
+      "Value": "{n}Ekun stretches shoulder.{/n} \"It might work. Litran is dangerous, but they are no fools. We are not their enemy.\""
+    },
+    {
+      "Key": "c4ad9d41-d6e7-4e71-8ac6-14b7782d1d55",
+      "Value": "\"That is most wise. I will send an ambassador to Litran. I do hope they won't decapitate him... No, no, they mustn't.\""
+    },
+    {
+      "Key": "95ea2bcd-bfa3-4b44-a528-81da99c3ec9e",
+      "Value": "\"We could convince the Grey Gardeners simply to forget about us. All we need do is deliver their names to Korran Goss, the head of {g|Galt}Galt's{/g} Revolutionary Council. He's afraid of the scaffold that ended the lives of his forerunners, so he will take the chance to undermine the revolution's guardians. The Gardeners will suddenly be fighting for survival, and in any case will have more pressing needs than worrying about us.\""
+    },
+    {
+      "Key": "d037c71c-dede-4bd8-a7e9-02573dfa6e04",
+      "Value": "\"Another enemy, also thirsty for the Gardeners' blood, is a secret society from Gralton – the Order of Vengeance. They've sworn loyalty to {g|Calistria}Calistria{/g}, in the hope that she will help them avenge their losses. We could aid them in forming an alliance with Gralton. They would start harassing {g|Galt}Galt's{/g} borderland, which will occupy the Gardeners' full attention. I will enjoy seeing my enemies bleeding to death in a battle that I caused.\""
+    },
+    {
+      "Key": "4403c990-4e8a-421f-ad67-236e8ab8f4d0",
+      "Value": "\"The Grey Gardeners have a more attractive enemy than us – and they're nearer to hand as well! Of course I'm speaking of the Revolutionary Council of {g|Galt}Galt{/g}, headed by Goss. After all, the Gardeners' favorite pastime is to behead members of the council 'for the benefit of the revolution' – so Goss prefers to keep a low profile. He fears that his government could be decapitated, in every meaning of the word. But if we give him something to sink his teeth into, he might decide to go after the Gardeners after all. However, I would avoid this course. If Goss prevails, he could become even worse than the Gardeners.\""
+    },
+    {
+      "Key": "8b272da0-34d0-47bc-abad-84eeb35040e0",
+      "Value": "\"Another way to distract Litran's attention is the Order of Vengeance, a secret society in Gralton. They are avengers, who seek to repay injuries suffered during the revolution. If we aid them in forming an alliance with Gralton, the Order could engage in guerrilla warfare on the borderlands. A shame that this mess will be taking place just next door.\""
+    },
+    {
+      "Key": "61f70cd5-2b6b-4aa8-a29a-8b881b96cdd5",
+      "Value": "\"You cannot deal with the Grey Gardeners, but death already stalks them closely. Korran Goss rules {g|Galt}Galt{/g}, and he is wary of the Gardeners. They decapitated more than one of his predecessors, and he'll strike if we give him a target. He'll find good reason – a betrayal. We can expect to be left alone after that.\""
+    },
+    {
+      "Key": "8fcfca47-9d05-4bfb-b67b-625b4c49abad",
+      "Value": "\"We have another option, but it leads us down a dangerous path. There is an Order of Vengeance in Gralton, wild avengers with deeply wounded hearts. They look to settle scores, but their numbers are too few. We could draw them into an alliance with Gralton, and their numbers will grow. They would return to {g|Galt}Galt{/g} to exact their vengeance, and the Gardeners would become too busy to bother with us. But blood will flow. And they'll remember what we've done!\""
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "4d10eb39-a4da-428b-a378-38a62251d56c",
+      "Value": "[Study the gate]"
+    },
+    {
+      "Key": "57e6e965-4e33-42a5-b79a-d9fb646cd1b2",
+      "Value": "[Examine the gate pillars]"
+    },
+    {
+      "Key": "6b04f5b1-08b5-48be-b8b8-ed8addf511b0",
+      "Value": "[Leave]"
+    },
+    {
+      "Key": "5d642b8b-463f-4574-9b16-45d1bd3af7f8",
+      "Value": "[Light the three incense burners from the tombs and hang them on the hooks on the center of the gate]"
+    },
+    {
+      "Key": "18fc4fe4-19ff-4cd0-a98b-097fd97a6cda",
+      "Value": "[Try to translate the inscriptions on the gate]"
+    },
+    {
+      "Key": "83291e79-b6d2-480f-be07-11aced5b8b1d",
+      "Value": "[Attempt to decipher the images on the gate]"
+    },
+    {
+      "Key": "9a5d45db-74a4-42d5-8497-0c8b39abd02b",
+      "Value": "[Step back from the gate]"
+    },
+    {
+      "Key": "453254de-ad51-45a6-b6ad-14cd6c5b08b4",
+      "Value": "[Examine the circular protrusion]"
+    },
+    {
+      "Key": "bca1047d-877a-4d68-9cda-c3b4bed75474",
+      "Value": "[Study the hooks set into the protrusion]"
+    },
+    {
+      "Key": "6766bf1c-c0e6-4805-b7fd-d2a96288ec0e",
+      "Value": "[Examine the left pillar]"
+    },
+    {
+      "Key": "cec49d96-282f-4f77-ac09-4da8bd33f658",
+      "Value": "[Study the right pillar]"
+    },
+    {
+      "Key": "8cbc9224-26fd-46d3-96e9-b4846a8f017c",
+      "Value": "[Step away from the pillars]"
+    },
+    {
+      "Key": "25250118-0e7e-41f6-a9fa-4ba1d41694bc",
+      "Value": "[Shout out your name]"
+    },
+    {
+      "Key": "b23a3599-0a2b-4fb7-8332-c1ac2ab53c9e",
+      "Value": "[Throw a stone at the gate]"
+    },
+    {
+      "Key": "1e9667d0-6931-4bbb-9b7a-cdcaf3dd7d97",
+      "Value": "{n}A towering gate blocks your path. The pillars flanking the gate are carved from the mountain itself, and both the gate and pillar rise so high they are obscured by the mists above. The gate is sealed, but you see no lock… not even a handle.{/n}"
+    },
+    {
+      "Key": "03066bb9-95b1-4dd0-8068-a30596174c0e",
+      "Value": "The raven gives a rattling caw. \"Pathetic crrreaturrre! How darrre you starre at the crrreation of yourrr masterrrs with indifference! Kneel! And prrray the ancients don't strrrrike you down!\""
+    },
+    {
+      "Key": "0e90f25a-6ce7-4457-b7fb-0fed3dba1b4a",
+      "Value": "{n}The gate seems impregnable — you can't imagine the power needed to open it, it looks like a score of battering rams would shatter against it.{/n}"
+    },
+    {
+      "Key": "4c98a9b9-0618-449e-88c0-d1d477d09c4f",
+      "Value": "{n}Massive pillars rise high up into the mist. You can barely imagine the power it would take to build this gigantic structure.{/n}"
+    },
+    {
+      "Key": "dd048152-cfa4-447d-aa54-1cc3c2e7314f",
+      "Value": "\"A merrre touch of my masterrrr's power… he commands arrrrmies, slaves, servants, shapes mountains to his will…\" {n}The raven makes a rattling caw.{/n} \"This is a monument to his reign... and his rrreign will come again.\""
+    },
+    {
+      "Key": "094ceda5-69b4-48d7-9413-168ab932738b",
+      "Value": "{n}Many of the words are lost to time and weather, but you make out some glyphs and symbols you recognize — and from there, manage to piece together the inscription:{/n}\n\"IN DARKNESS, THE DOORS OPEN .\nIN MURK, THE TRUTH REVEALS ITSELF.\nIN GLOOM, DEATH STEPS INTO THE HALLS.\""
+    },
+    {
+      "Key": "c33e72f0-9e08-439d-be39-82230182cbda",
+      "Value": "{n}The ancient inscriptions have fallen victim to time and weather. Try as you might, you cannot decipher them.{/n}"
+    },
+    {
+      "Key": "03f5cc63-c71e-4cbd-891c-9f1d127d989b",
+      "Value": "{n}The gates are covered with ancient inscriptions and disturbing depictions of worship and sacrifice... but the inscriptions are far above eye level, so much so you have to take a few steps back to see them. In the center, where the two gates meet, there is a circular protrusion — set into it are three black hooks.{/n}"
+    },
+    {
+      "Key": "05d26725-86ce-4975-bd52-ea647745e14b",
+      "Value": "{n}The raven tilts its head, affixing you with a single beady eye.{/n} \"What is wrrrrit, is wrrrrit no more, for wind and time have taken their toll… yet you would need masterrrry of languages grrrreater and olderrr than yours to read what's therrre… and a farrr greaterrr mind than yourrrrs to comprrrehend it.\""
+    },
+    {
+      "Key": "815b99fc-9243-411c-abfe-f9b55065871c",
+      "Value": "{n}Depicted on the gates are three cyclopes — great giants clad in ceremonial garb. They stand before an image of the gate, which is open. Each cyclops is holding aloft a lantern that looks to be a cyclops's skull.{/n}"
+    },
+    {
+      "Key": "2a03b7d6-af41-4293-809e-fee7b18a03fa",
+      "Value": "{n}Rains and winds have taken their toll on this bas-relief — all you can make out are a few vague figures, each holding something aloft, but you can't make out what the figures are or what they're carrying.{/n}"
+    },
+    {
+      "Key": "bd3cdf02-3d8b-4d4e-91e5-01dbf5d412bc",
+      "Value": "{n}The raven makes a rattling caw.{/n} \"Nothing to see, nothing to see… the storms have scourrred it away… just as my masterrr shall do with you.\""
+    },
+    {
+      "Key": "3a7ed81a-e5a1-416b-8460-7fb35d2e3372",
+      "Value": "{n}Clouds of smoke billow from the lit incense burners, streaming out through the cyclops' eye sockets... You quickly realize the smoke isn't rising — it's encircling you, engulfing you, until all around you is darkness...{/n}"
+    },
+    {
+      "Key": "283cdbee-d97e-4d4d-bd30-3e1350b097db",
+      "Value": "{n}You step down, and once again stand in the gate's shadow.{/n}"
+    },
+    {
+      "Key": "d7fc55bc-71cb-4212-8a80-ad15d838908d",
+      "Value": "{n}Your initial idea — that some ancient lock lay in the center of the gate — proves wrong. The \"gate\" is sealed, a solid wall with neither lock nor latch nor keyhole. Perhaps the gate was not meant to be opened — it was meant to seal something inside.{/n}"
+    },
+    {
+      "Key": "89eb9a6d-91b7-4fe0-bc50-4591419b28f1",
+      "Value": "{n}The gate seems built for giants and their kin, but yet three small hooks are set in a circular protrusion in the gate, five feet off the ground. If this gate was meant for giants, it is odd they set the hooks so low. Peering closer, you see the hooks bear traces of soot — and ash.{/n}"
+    },
+    {
+      "Key": "e309a46a-ac5e-47f6-a743-79a54d86e4b9",
+      "Value": "{n}You step back to take in the whole structure once again.{/n}"
+    },
+    {
+      "Key": "b4f7644d-cd5a-414d-b98d-417b41ec89ce",
+      "Value": "{n}This pillar stands on the windward side, so it is more weathered than the rest of the gate. You can faintly make out the remains of inscriptions that once used to cover the pillar — but they are so faded by wind and the elements as to be unreadable.{/n}"
+    },
+    {
+      "Key": "e158b7fb-44ba-44a5-96ab-b2cd0fb7d88b",
+      "Value": "{n}Time and weather have failed to destroy the bas-relief that rises from the foot of this pillar and winds its way up into the mist. The pillar is covered with intricate geometric patterns, images of lotuses and other flowers, mysterious figures performing strange rituals — the attention to detail is amazing, you'd need hours to examine every image.{/n}"
+    },
+    {
+      "Key": "7405c095-e2f0-40e2-96c8-47af4a801c90",
+      "Value": "{n}The stone flies in an arc, hits the gate and thuds on the ground. You wait several moments in awkward silence, but nothing happens.{/n}"
+    },
+    {
+      "Key": "e9a3b6c2-07eb-4cad-9fdf-738c76868512",
+      "Value": "{n}Your shout echoes repeatedly off the mountains and the gate. As the last echo fades, there is a moment of silence, then from the valley comes a strange sound, a mixture or howling and cawing that echoes sharply off the rock walls.{/n}"
+    },
+    {
+      "Key": "d92ffa0c-95f9-4eab-9dd4-6da716866a13",
+      "Value": "{n}The raven tilts its head forward, its tiny black eyes drilling into you.{/n} \"{name}. I'll remember your name, {race}.\""
+    },
+    {
+      "Key": "e8258aa1-9577-44ec-b467-428a6b486f8c",
+      "Value": "\"The cyclopes believed that the soul leaves the body through the eye socket... The incense smoke is supposed to symbolize the souls departing to the afterlife.\""
+    },
+    {
+      "Key": "29fd9839-ab27-4d5c-9ac1-e7520cb6d644",
+      "Value": "\"Which means, right into {g|Charon}Charon's{/g} maw.\""
+    },
+    {
+      "Key": "e458cc7a-77a5-4df8-bee0-7cc0f1bcdd70",
+      "Value": "\"Oh, I don't like this place.. I feel like I did in Qadira, during our raids on daemon worshipers. It's a very similar atmosphere.\""
+    }
+  ]
+}

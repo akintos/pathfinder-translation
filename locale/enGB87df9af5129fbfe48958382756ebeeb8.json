@@ -1,0 +1,197 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "631dd9a2-f328-456e-b4f3-bc86c8793c15",
+      "Value": "\"Are you a chieftain?\""
+    },
+    {
+      "Key": "47a5e047-5ac8-43e6-8f2d-52dee35eb6cf",
+      "Value": "\"What's your chieftain known for?\""
+    },
+    {
+      "Key": "5b4093c7-ad9f-4e71-bb2c-27630d8e30d3",
+      "Value": "\"I didn't know there were half-orcs among the Numerian barbarians.\""
+    },
+    {
+      "Key": "aa0c2efc-a18d-452c-8e53-90c51778e013",
+      "Value": "\"What are you doing here?\""
+    },
+    {
+      "Key": "de943611-1707-4705-b742-032f671959a4",
+      "Value": "\"Do you know anything about the situation at Varnhold?\""
+    },
+    {
+      "Key": "5227d543-e1fb-466d-82b1-a47c0621c277",
+      "Value": "\"Have you found anything of interest?\""
+    },
+    {
+      "Key": "93539210-6fe0-45a9-bb5c-2edb26c33c66",
+      "Value": "\"Where might I find Dugath and these Sisters?\""
+    },
+    {
+      "Key": "3e310a1d-c3b6-43a7-bbf3-9fbef76298fe",
+      "Value": "\"Tell me about Numeria.\""
+    },
+    {
+      "Key": "2fde397a-97e9-407e-a1dd-d668f13b4459",
+      "Value": "[Stay the night] \"Thank you for the invitation. I'll take you up on it.\""
+    },
+    {
+      "Key": "5c791f18-fe03-44f8-b21e-b6c71033bb73",
+      "Value": "[Attack] \"I don't like the looks of you — I think you're bandits, or spies!\""
+    },
+    {
+      "Key": "3f89f7d0-baf8-4fc4-9420-2c21968d3de0",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "d51332f5-607a-461c-bfbf-a9f18326a9b8",
+      "Value": "\"The spriggans who lived in this cave are under my protection. Please leave so they can return to their home.\""
+    },
+    {
+      "Key": "818abae0-1043-4ace-b5ec-e3c056f9a5db",
+      "Value": "\"Ha ha ha! Got you! I was just joking!\""
+    },
+    {
+      "Key": "ff7ffcc5-9749-4ad1-83fb-ad84555e18ea",
+      "Value": "\"I've no time for games. Leave now, while I'm still in the mood to ask politely.\""
+    },
+    {
+      "Key": "3862df15-9a38-4ad8-9e71-e9e277a0a118",
+      "Value": "\"I'm quite sane. Please try to understand — when you ousted the spriggans, you created a serious political issue that I need to resolve.\""
+    },
+    {
+      "Key": "73c6859a-fc6a-487f-84ec-73238c35e650",
+      "Value": "\"The spriggans will return soon, and they won't be alone. They're bringing trolls, cyclopes, and giants with them. I can negotiate a peaceful solution, but only if this cave is empty!\""
+    },
+    {
+      "Key": "8e90d214-100b-4657-8ff6-1d4c080566d5",
+      "Value": "\"All right. But if the spriggans attack you again, don't expect any help from me.\""
+    },
+    {
+      "Key": "54bc2aa9-0e5e-4227-9c26-05f88e2f71f4",
+      "Value": "[Attack] \"Then I'll just have to force you out.\""
+    },
+    {
+      "Key": "299e9beb-98a9-4db7-85b0-bc2088a14ed8",
+      "Value": "\"Who are these Sisters?\""
+    },
+    {
+      "Key": "ab45160c-45e5-4263-bca4-299ccfab922b",
+      "Value": "{n}A half-orc woman sits by the fire. Her clothes are made of leather and fur, matching the rest of the barbarians. She frowns as she slides her finger along a map, crudely drawn on a crumpled sheet of paper. She lifts her gaze as she notices you.{/n} \"Huh, guests. Who're you? If you're a friend, take a seat by the fire and let's talk. I'm Bolga, from the {g|Tiger Lords}Tiger Lords{/g} tribe. I lead this group.\""
+    },
+    {
+      "Key": "52d0f59c-73c1-4be3-8a5c-84c8900b6b51",
+      "Value": "\"Me? No, no. Just seasoned enough to lead a group. Our chieftain is Armag the Twice-Born!\" {n}Bolga says the name proudly, as though expecting recognition or awe.{/n} \"He's back home in {g|Numeria}Numeria{/g} right now.\""
+    },
+    {
+      "Key": "d1c0a020-6b18-4911-90db-349a8684222d",
+      "Value": "\"Long ago, he was the greatest of the {g|Numeria}Numerian{/g} chieftains, and {g|Gorum}Gorum's{/g} chosen! Armag was so strong, no mortal could strike him down. It was only when {g|Pharasma}Pharasma{/g} herself challenged him to battle that he fell, and only because of her divine power. But now, Armag shamed her and came back from the afterlife! Great Armag leads the {g|Tiger Lords}Tiger Lords{/g} once more, now as Armag the Twice-Born — and soon, word of our exploits will spread all over {g|Avistan}Avistan{/g}!\""
+    },
+    {
+      "Key": "7a6d339f-776a-4884-8a84-3671aaae4224",
+      "Value": "{n}The barbarian shrugs.{/n} \"The orcs have lands nearby. A lot can happen between two neighboring peoples.\""
+    },
+    {
+      "Key": "b695cdba-510a-4c4c-9731-c281f448ee9f",
+      "Value": "\"I'm sure you understand as well as I do.\""
+    },
+    {
+      "Key": "022ca2d1-5d0c-4e3c-a4f9-077cf48fe098",
+      "Value": "\"We're looking for some ruins, or a cave, or something... I don't really know — only Dugath knows exactly what we're looking for. He's a cleric, and he's our leader on this expedition. Well, him and the Sisters.\""
+    },
+    {
+      "Key": "e1214259-5845-4829-8f5a-1d7f77214c05",
+      "Value": "\"{g|Varnhold}Varnhold{/g}? Where's that?\" {n}The barbarian looks down at her map and finds a rough sketch of the area.{/n} \"Hmm, no. No idea. We've never been there.\""
+    },
+    {
+      "Key": "17a3846c-c121-4903-a002-54f36bac6474",
+      "Value": "\"It'd be nice if we had! So far it's just dirt, crap, and monsters. Like we don't get enough of that back in {g|Numeria}Numeria{/g}! We found this hole, and the monsters that were living here — we took a beating doing it, but we managed to kick them out. Then, after we searched the place, we found out it's just a regular cave, nothing of note. After a day or so, we'll probably head out and keep searching.\""
+    },
+    {
+      "Key": "024b697d-d026-4176-bbeb-f52cbca1b980",
+      "Value": "\"They're in our main camp, here.\" {n}Bolga points at a cross on her map.{/n} \"If you're looking to hire us or have some other business, come visit. It'd be much better than digging around in the dirt out here.\""
+    },
+    {
+      "Key": "37e0d7f9-0c59-40c9-be4f-e8b93bee1e9a",
+      "Value": "\"{g|Numeria}Numeria{/g} is the land with adamantine in its soil, and its people have adamantine in their hearts.\" {n}The barbarian starts solemnly, then her tone shifts.{/n} \"And since we have bugger all beyond adamantine and courage, we just trade what we've got!\" {n}She laughs.{/n}"
+    },
+    {
+      "Key": "55c812ca-ca08-4997-8b53-5b4226765f8b",
+      "Value": "{n}Bolga raises her gaze from the map.{/n} \"You again? You need something?\""
+    },
+    {
+      "Key": "0744e41a-fe43-413b-a401-9179f123e249",
+      "Value": "{n}The barbarian's jaw drops in surprise.{/n} \"Wha-what? Those ugly things? Are you crazy?\""
+    },
+    {
+      "Key": "ceb5862e-2f4c-45d4-a789-dbfa178e01d1",
+      "Value": "{n}Bolga slaps your shoulder, laughing loudly.{/n} \"Good one! You had me going!\""
+    },
+    {
+      "Key": "357f063e-86a5-4880-9cf1-2dd8292c2553",
+      "Value": "{n}The barbarian shrugs.{/n} \"Well, sounds odd, but all right. We weren't planning on staying long anyway. Pack up, everyone! We're leaving!\""
+    },
+    {
+      "Key": "5a3132e0-e3cf-4f1c-9f8f-9b194bb4c4fd",
+      "Value": "\"Sounds like your problem to deal with. No way we're leaving here after dusk.\""
+    },
+    {
+      "Key": "1dbc14c3-1b84-4a7e-96c7-d8ade1bc6b67",
+      "Value": "\"That so? Sounds to me like you're just spinning tales in the hopes of snatching something from us while we pack up!\""
+    },
+    {
+      "Key": "839d78c3-b0b0-4960-bf8b-c4e117ae527d",
+      "Value": "\"Damn!\" {n}Bolga leaps to her feet.{/n} \"Thanks for the warning. Listen up, everyone! Alarm! Pack up — now!\""
+    },
+    {
+      "Key": "9e78f5ac-470d-40f4-8b88-b4785593fb6f",
+      "Value": "{n}The barbarian stares into your eyes, but she's the first to drop her gaze.{/n} \"Fine... Have it your way.\""
+    },
+    {
+      "Key": "f45e4329-9ed2-4f68-9a2e-886e1197cce0",
+      "Value": "{n}The half-orc grins and bares her weapons.{/n} \"Well, let's see how you ask rudely!\""
+    },
+    {
+      "Key": "e3df41fc-8903-4de9-8086-1212426aec7a",
+      "Value": "\"Ha! Let them try. We thinned their ranks plenty already — we'll just have to finish what we started!\""
+    },
+    {
+      "Key": "1a7e1258-14e9-41c8-b5ac-a7ff3f9193a8",
+      "Value": "\"They're witches who serve Armag. They seem to know a lot about the world — history, gods, even other worlds... They're pretty smart talkers — you'd hardly believe the things they know! And they have these strange, unimaginable spells... When Armag ordered us to pack up for this expedition, we thought we'd be marching for a month. But they just waved their hands — whoosh! — a tunnel of multicolored lights opened before us. The trip here took us just one hour! Can you imagine it? I wouldn't be surprised if you can't.\""
+    },
+    {
+      "Key": "5c87e887-4733-4189-8b50-1c22df9e966f",
+      "Value": "\"Sure, no point in denting our asses in this hole. We'll head out soon, most like. Safe journey to you!\""
+    },
+    {
+      "Key": "3a18eddc-ec20-48a6-bf9c-7cb7c25f0ee5",
+      "Value": "\"I would ask you the same.\""
+    },
+    {
+      "Key": "5a7a045a-6a8b-48ee-8303-e611ebb970ce",
+      "Value": "\"A tunnel of many colors... Doesn't that sound familiar? Because it sure sounds familiar to me!\""
+    },
+    {
+      "Key": "252d849b-bc80-4444-95ce-2df01f2c4835",
+      "Value": "\"Sure... Lots of things.\" {n}Regongar spits on the ground.{/n}"
+    },
+    {
+      "Key": "08a96b05-d977-4751-a1a0-724396a4a705",
+      "Value": "\"Oh, really? Let's see you try!\""
+    },
+    {
+      "Key": "e0a203c9-c563-44e1-a294-488474d9e6f9",
+      "Value": "{n}When Bolga's gaze stops on Nok-Nok, she chuckles.{/n} \"Quite a beast you got there. Ones like that, we use for rags back home — their hides aren't good for anything else.\""
+    },
+    {
+      "Key": "634db436-beb4-42de-a9aa-d16946336e24",
+      "Value": "\"Ones like you, I use for chowder! Meat like dung, not good for nothing else.\" {n}Nok-Nok glares at the sturdy woman with a predatory look as he runs a finger along the edge of his blade.{/n}"
+    },
+    {
+      "Key": "e6ea9712-c55b-4d0a-b306-8dccb5a63c78",
+      "Value": "\"Sure.\""
+    }
+  ]
+}

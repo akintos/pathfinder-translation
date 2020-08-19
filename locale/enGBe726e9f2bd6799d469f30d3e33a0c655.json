@@ -1,0 +1,97 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "3e1d0db5-fbd6-4e99-befe-817a55466842",
+      "Value": "\"Splitting up now is unwise!\""
+    },
+    {
+      "Key": "2cb0870f-3730-4312-9ad1-7fb725c92433",
+      "Value": "\"Go, commander. I won't let you down!\""
+    },
+    {
+      "Key": "8bbb627b-5d08-4031-9554-4fa9170ef8af",
+      "Value": "\"Who are you?!\""
+    },
+    {
+      "Key": "1ca5cb94-75d6-4ae0-9479-adbd826462c2",
+      "Value": "\"What have you done to Maegar?\""
+    },
+    {
+      "Key": "6f9a058f-6bb1-4b83-a55c-86a62904fc92",
+      "Value": "\"What was that, Cephal?\""
+    },
+    {
+      "Key": "5aedc722-9310-41e4-a291-e8f16be25d59",
+      "Value": "\"We must return to Varnhold!\""
+    },
+    {
+      "Key": "d8ef2b74-d94e-461e-9e58-e1b3f03aefa1",
+      "Value": "\"We have been ordered to go onward. We must proceed.\""
+    },
+    {
+      "Key": "f4c0cc94-034f-4a6c-85ea-496ebaa8e208",
+      "Value": "\"Varn, do not be rash. I need time to examine the portal and the magic in the area. I...\""
+    },
+    {
+      "Key": "5897b80d-a029-4ec0-86ff-8d90f31153d5",
+      "Value": "\"We're out of time! The citizens of the town can still be saved, but we must act at once. However, we cannot go through the portal together. The greatest danger may still wait for us here, in the dungeon. You, {name}, must take command of the rest of the group. Root out, at any cost, what has been hiding itself away in this dungeon. Varnhold is my town, and my responsibility.\""
+    },
+    {
+      "Key": "d790af89-2042-4e27-83bf-3c8523f1fe63",
+      "Value": "\"Alas, there is no other choice.\""
+    },
+    {
+      "Key": "4c5d38c5-79ac-4653-98b8-1acd08f7df8e",
+      "Value": "\"I know, I wouldn't be trusting in you if I thought anything else.\""
+    },
+    {
+      "Key": "78fd0f0a-ba81-4e50-8b20-a5ceb84f7ffe",
+      "Value": "{n}He looks into your eyes and lowers his voice to a whisper.{/n} \"Forgive me for my doubts. You are my heart and soul. f we get out of this alive – if we both overcome this disaster – then I will never let you go!\""
+    },
+    {
+      "Key": "a35680f9-0379-4f49-8d4a-bb8a8a1841f6",
+      "Value": "{n}Maegar leans forward, and kisses you like there will be no tomorrow. Then he turns away sharply and dashes into the portal.{/n}"
+    },
+    {
+      "Key": "56413bb5-5782-41f0-9509-5cb66776f7d2",
+      "Value": "{n}Maegar disappears into the portal, and it lights up with a bright white and blue light, nearly blinding you for a moment. When the light fades, a regular door remains where the portal once stood.{/n}"
+    },
+    {
+      "Key": "c110e6f5-1ce2-4107-adeb-9d54df76f7ee",
+      "Value": "{n}Then he turns to you and speaks very quietly, so that only you two hear it.{/n} \"I will be waiting for you at the victory celebration in Varnhold. Be sure I will not fail. Not now, when I have something to lose, and something to fight for to my dying breath.\""
+    },
+    {
+      "Key": "73c4b884-1a60-4ae4-a9e9-67f1216ba568",
+      "Value": "{n}Maegar lingers a bit longer, to do what he has never forgotten, over all the years you've known him: to smile and cheer his people up.{/n} \"We've been through worse, right fellows? Good luck to each of you! keep count of how many foes you defeat. When we meet again, we'll boast our tallies, and the loser is buying the drinks!\""
+    },
+    {
+      "Key": "e6436b6c-cc5e-46a8-9d2f-1e24e6937de6",
+      "Value": "{n}Shrill, female laughter can be heard from all directions. Then you hear a flirtatious voice, one you've heard before, here in the dungeon.{/n} \"Ah, such a pity! The baron won't be attending the Marquise's reception. But there is another reception awaiting him, yes... The invitations have been sent, and soon, guests will be summoned to the host's door.\""
+    },
+    {
+      "Key": "cd87a038-fc35-432f-b218-cbe647bd0d52",
+      "Value": "\"Marquise, Marquise Immolatia. Be my guests... well, you can't refuse, can you?\""
+    },
+    {
+      "Key": "d7da2874-1f2d-493e-b668-f0fe3c916de3",
+      "Value": "\"She played us!\" {n}Cephal hisses. So far he'd remained quiet, obviously busy with some magic.{/n} \"All of us! The portal that transported Maegar was real, but what it showed us was an illusion. How are we ever going to find out what is happening to Varnhold? And to that stubborn boy, fool enough to be a Baron!?\""
+    },
+    {
+      "Key": "163390e7-5a84-4190-a517-7b0953294cd6",
+      "Value": "\"Your frightened confusion is so sweet! Such a delicious feeling. Enjoy it for now. I will meet with you later!\""
+    },
+    {
+      "Key": "1db5613c-a9de-4218-8416-cb63eaf1db34",
+      "Value": "\"I cannot say. Nothing is what it seems in this cursed dungeon. Everything is false. We must get to the bottom of this – and we will! We just need to keep going.\""
+    },
+    {
+      "Key": "0478a374-7b0b-406b-9494-efc6deb5a897",
+      "Value": "\"No – by no means! We cannot help Maegar in any way, whatever happens in Varnhold. He is on his own. The dungeon is our task. Well, General – onward! The sooner we finish here, the sooner we will be able to return.\""
+    },
+    {
+      "Key": "920fe780-119a-4094-b09e-4854b8c3219b",
+      "Value": "\"Quite right. Perhaps Maegar was lured from here with the aim of weakening the group. Or perhaps they hoped we would all dash through the portal to protect the town. But our purpose is true! Whoever is playing these tricks on us, they will not be able to keep it up forever. Onward!\""
+    }
+  ]
+}

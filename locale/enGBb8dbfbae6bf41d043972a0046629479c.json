@@ -1,0 +1,113 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "18b07bff-5a3e-4a53-8b3c-0eb5fe44105a",
+      "Value": "\"What are you arguing about?\""
+    },
+    {
+      "Key": "ffbcc824-adc7-41f6-a1e2-8b611650767e",
+      "Value": "\"Maegar is right. We must claim our rights at once, or we'll never climb out from under Restov's boot.\""
+    },
+    {
+      "Key": "1ca39bb0-de2b-42eb-a5f3-4379f6208050",
+      "Value": "\"Cephal is right. We must be cautious, or we'll lose Varnhold as quickly as we won it.\""
+    },
+    {
+      "Key": "4afc38e6-f97a-4d91-b72b-7b8a16c4f973",
+      "Value": "\"I don't understand why you dislike Jamandi Aldori. She's a fine person, and there's nothing wrong in being her ally – in word or in deed.\""
+    },
+    {
+      "Key": "1e836070-4ed6-4044-901d-afc729aaa9ee",
+      "Value": "\"Let's stay a little longer. I'd like to talk to the other guests.\""
+    },
+    {
+      "Key": "690aaa8c-6f02-430f-9cc5-0f857bf6344d",
+      "Value": "\"Let's go. Varnhold awaits!\""
+    },
+    {
+      "Key": "118b2826-72fe-4909-b1d9-63b31d37c108",
+      "Value": "{n}As the guests linger and entertain themselves, one hero of the occasion stands aside. {d|Varn}Maegar Varn{/d} – the leader of Varnling Host, your direct commander, and henceforth, the undisputed Baron of Varnhold. He's busying himself with one of his favorite pastimes. He's trying very hard not to yell, but he's ferociously arguing about something with the party's co-founder, a wizard named {d|Cephal}Cephal Lorentus{/d} – Varn's oldest companion, and his most uncompromising opponent.{/n}"
+    },
+    {
+      "Key": "dee96a30-251d-45b7-92ea-f7a79e821982",
+      "Value": "\"But {d|Varn}Varn{/d}, my dear friend, would you please be so kind as to explain, what, devil take you, you've been doing?! I financed this venture with my own personal funds, not to mention all the effort and time I've invested. And pray tell, what was it all for? For you to assemble the fruits of our labors and pitch the whole lot down the privy?\""
+    },
+    {
+      "Key": "67c1ec1f-6477-45cb-a690-87c3933e6482",
+      "Value": "\"Fruits?! I've been busy guarding these fruits from Brevoy's incessant fruit moths! But I'm a baron now. We finally have our own land. – For the first time in our lives, we're independent! No one can tell us what to do! And you want to destroy everything we've achieved by inviting spies into our house? Of course, why not? Please, do come in, eavesdrop, sniff around, take whatever you please! {d|Cephal}Cephal{/d} is generous, he said make yourself at home!\""
+    },
+    {
+      "Key": "164ceebe-b2c2-453f-93d7-b0da66944e9c",
+      "Value": "\"O {g|Asmodeus}Asmodeus{/g}! Please give me the patience to withstand this nonsense – or take my soul already! {d|Varn}Varn{/d}, what are you saying? What is this independence you speak of? We depend on {g|Restov}Restov{/g} for literally everything – from the inflow of settlers to the food to feed them! I like Jamandi no more than you do, but it will take us years to free ourselves from her influence! Right now we must bow to our patron – not brag about a title we received from her very hands!\""
+    },
+    {
+      "Key": "4e968ba8-48cd-477a-98ca-e6d45074301b",
+      "Value": "\"Listening to you is disgusting! Did we claw away our own piece of land only to keep toiling away for all those... Oh! {Name}, you're right on time! Come, be our arbiter!\""
+    },
+    {
+      "Key": "79be9437-5a22-46d7-be6c-5102830d3e14",
+      "Value": "\"At issue is the fact that Jamandi Aldori has generously offered to {d|Varn}Maegar{/d} the use of her envoy. And who is Jamandi Aldori? The very same one who created our barony – and who could make it disappear with a flick of her finger. An insignificant figure in the grand scheme of things, no doubt! But good Varn refused her! And to top it all off, he rather suggestively hinted that he considers every single one of Brevoy's diplomats to be spies!\""
+    },
+    {
+      "Key": "063d44bc-01fa-48e0-aa38-e417650614c2",
+      "Value": "\"What else should I consider them? {d|Cephal}Cephal{/d}, have you grown foggy in your old age? I can hardly recognize you. You've always been a hard-liner. You've always put the interests of our ventures above everything else. And now you want us to roll over on our backs for the Aldori, wiggle our tails and wait to be petted? We're an independent state now. And we shall have it known to all that we won't be ordered about!\""
+    },
+    {
+      "Key": "38b956fd-4934-4d90-b9b0-7b4db753c678",
+      "Value": "\"{d|Varn}Maegar{/d}, Maegar! Of course they're spies! You refused the spy in plain sight – congratulations, well done. Now the {g|swordlords}Swordlords{/g} will send other spies, ones we won't even be able to see! {g|restov}Restov{/g} has invested a great deal in our barony. It is ready to invest yet more... – So why bite the hand that feeds us, before the feeding is over? We could at least pretend to be humble, so long as we're still getting something for it.\""
+    },
+    {
+      "Key": "9e57944a-482e-4ea3-a3de-8c076839e0bb",
+      "Value": "\"Well for one thing, that's low. By accepting {g|Restov}Restov's{/g} handouts, we're taking on certain obligations. I know you don't care a fig for morality, but think of our reputation! Who will want to deal with us if we steal from our employers and stab them in the back?\""
+    },
+    {
+      "Key": "e7d98653-2f24-4c2b-8788-83f3525da4b0",
+      "Value": "\"Why do you keep saying 'us' and 'our'? Do I need to remind you that you're a baron now? That is the difference between you and me. You were born of a noble family, and yet even now, after receiving lands and power, you continue to think like the leader of a band of thugs. While I... My parents plowed the soil, and I learned to read by moonlight. But even as a snot-nosed child, I tried to think like a ruler – a king without a kingdom. After decades, my plans and schemes are finally bearing fruit. I shall not allow you to destroy everything we have created with your stupid pride!\""
+    },
+    {
+      "Key": "460f41a9-87fa-46ba-a549-86c79463dd77",
+      "Value": "\"Allies? You mean – vassals! Jamandi keeps singing about freedom and independence, but that's only because it's the legal loophole she's using. In truth, she doesn't want Varnhold as an ally. She wants Varnhold as a puppet!\""
+    },
+    {
+      "Key": "8bff2567-265f-4ec1-8bc9-9b631024f85e",
+      "Value": "\"For once I will agree with you, {d|Varn}Maegar{/d}. And you, {name}, do not be so naive. – Jamandi is no friend, not to us. Brevoy is on the verge of civil war. When she sends us to die for her ambitions, she will more than recover Brevoy's investment in us.\""
+    },
+    {
+      "Key": "7a592491-8552-460f-a302-1dad2b437483",
+      "Value": "\"If you know this, then why would you kowtow to her? You may be an old fox, but she's no little sheep. You think you can deal with the devil, take what you want, and then slip away without paying?\""
+    },
+    {
+      "Key": "e88d8ced-0d0d-4ec1-97ae-f7e191d77e80",
+      "Value": "\"Exactly. {g|Asmodeus}Asmodeus{/g} is my witness, I know more about deals with devils than you. In fact, I am accustomed to playing the devil's role myself, in deals of this sort.\""
+    },
+    {
+      "Key": "34a4efd3-7661-468b-823d-040ff27a42b9",
+      "Value": "\"All right, enough arguing. What is done cannot be undone. You spoiled my game quite a bit, {d|Varn}Maegar{/d}, and I will not forget it in a hurry. But we shall try to play with the hand we were dealt. Celebrations are over, it is time for everyday life. I suggest we exchange bows with the respected hosts and set off to Varnhold. We have much work to do.\""
+    },
+    {
+      "Key": "6c77165e-afff-4f02-8248-bb0282ebe8c7",
+      "Value": "{n}{d|Cephal}Cephal{/d} shakes his head.{/n} \"I will tell you one thing. If you engaged battle as clumsily as you're playing politics, all of us would be long dead by now. Caution, restraint, tactical finesse – when you're on the battlefield, you seem to remember what these things are. How is it that you've forgotten all of it now?\""
+    },
+    {
+      "Key": "3487e39e-01de-47b0-b5dc-e4fffd23c4d8",
+      "Value": "\"With all due respect, {d|Cephal}Cephal{/d}, I'm still the military leader here. You've called me hot-tempered and reckless many times before, pleading that I'll get all of us killed. But look around, we're still alive. Don't be a coward, now. I know what I'm doing!\""
+    },
+    {
+      "Key": "45b1a3a0-0bcb-4e44-91b1-124dce10bb37",
+      "Value": "\"It won't be my hot temper that ruins us. It'll be your cunning and greed. In any game, the most important thing to know is when it's time to take your winnings and walk away!\""
+    },
+    {
+      "Key": "ea44343a-57b3-4a7a-885b-15a6e572d3d0",
+      "Value": "\"But that is where you are so wrong! Do you imagine this is a table we can get up from? No! A mercenary commander can pocket some loot and move to the other side of the continent. In becoming a baron, you have got yourself into a long, long game. You cannot simply leave it, but if you play it well, your children and grandchildren may get a turn!\""
+    },
+    {
+      "Key": "5eb950c0-6326-4db9-954e-7c5bc8854848",
+      "Value": "\"Isn't it time we go home?\""
+    },
+    {
+      "Key": "176433a6-9c41-414b-958c-f7a403a3554e",
+      "Value": "\"This is true, you have saved us more than once... Apparently in order to valiantly ruin not just a party of mercenaries, but an entire barony!\""
+    }
+  ]
+}

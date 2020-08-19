@@ -1,0 +1,133 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "049b9062-94a0-470e-9ad4-b2931baa3680",
+      "Value": "\"I came to take the child, and I will take him — by force, if necessary.\""
+    },
+    {
+      "Key": "be78656d-051b-440e-8012-e17e75d17147",
+      "Value": "\"What is this place?\""
+    },
+    {
+      "Key": "72204365-216a-417c-9fec-98d7b94a047b",
+      "Value": "\"There's a human child in your village. I came to trade for his release.\""
+    },
+    {
+      "Key": "83d3da3f-091f-4727-a156-cfce31be655e",
+      "Value": "[Attack] \"I'm here to destroy you!\""
+    },
+    {
+      "Key": "13e71aeb-9bd3-427f-a1e4-4e49ab0ffca2",
+      "Value": "[Leave] \"I'll be back.\""
+    },
+    {
+      "Key": "b8d2e6f1-0721-4cb6-ac74-aaa32f387120",
+      "Value": "\"I'm here to speak with your chieftain.\""
+    },
+    {
+      "Key": "7b8f77a4-24f6-42f1-8fcd-cd6b8d5d01e0",
+      "Value": "\"Tell me about your tribe.\""
+    },
+    {
+      "Key": "ca6a080a-f554-412b-b37b-4c9e1506d70c",
+      "Value": "[Offer 5 rations] \"We come in peace. Please accept this food as a sign of our goodwill.\""
+    },
+    {
+      "Key": "633b99c3-0b70-4d36-a4ae-10546a2bd557",
+      "Value": "[Attack] \"Then let the war begin.\""
+    },
+    {
+      "Key": "f74fa8a9-714c-4cdf-902c-93bfc859eb12",
+      "Value": "[Leave] \"Whatever you say.\""
+    },
+    {
+      "Key": "14469b1b-e8e2-4376-b90a-95c39227253b",
+      "Value": "{n}Armed lizardfolk stand at the village gate. One of them seems familiar, and it seems he's recognized you too.{/n}"
+    },
+    {
+      "Key": "ad2a7863-b275-415c-b83d-acb651a872d7",
+      "Value": "{n}The lizardfolk examine your gear with long, contemplative looks. Finally, one of them speaks to you, trying to control his trembling voice.{/n} \"Warmblood is mighty warrior, yes!\""
+    },
+    {
+      "Key": "9349c4ab-a9cb-44db-a8ce-86cc4962f33b",
+      "Value": "\"This village of Longtail tribe. Been here since long-long ago, since warmbloods were wild... And before, when warmbloods were tiny like mice... And before, when no warmbloods were here at all... Even then, Longtail village stood here, yes!\""
+    },
+    {
+      "Key": "42b7af9b-25f0-4c99-a17d-af191c4dc889",
+      "Value": "{n}A group of warlike lizardfolk guards the village gates. Noticing you, they raise their weapons.{/n} \"Halt, warmblood! Why come? Friend or foe? War or peace?\""
+    },
+    {
+      "Key": "8c69fabc-2fa1-45e8-be51-ed8f5cfe5f70",
+      "Value": "{n}The lizardfolk at the gates salute you.{/n} \"Dryskin want peace? Come in then!\""
+    },
+    {
+      "Key": "a05b6f65-5a03-4875-b8d3-701f1a9a091b",
+      "Value": "{n}The lizardfolk look you up and down before bursting into laughter.{/n} \"Go back where you from, warmblood. Or we show you into village... straight to roasting rack!\""
+    },
+    {
+      "Key": "55ca32dc-e12e-46b0-bfaa-f36d02d9468b",
+      "Value": "{n}The lizardfolk exchange glances. One of them hesitantly replies.{/n} \"Trade good. But child... Warmblood need speak to Chieftain Vesket. He decide. We show way.\""
+    },
+    {
+      "Key": "7f3a9a9e-1dda-4c6c-900d-06b2850d5d42",
+      "Value": "{n}The lizardfolk exchange scared looks.{/n} \"Trade for child not possible! Child sits in Spirit Hut, or Great Ancestor grow angry! Leave, warmblood, no trade here!\""
+    },
+    {
+      "Key": "ce11dc1a-b933-4b07-90c9-5de8849c8192",
+      "Value": "\"Alarm! Warmblood bring war! All here, protect village!\""
+    },
+    {
+      "Key": "581de9b3-0e0e-4f13-b662-ce5a76350fbd",
+      "Value": "\"Here you are, dryskin! Rashor wait for you come! Hey, hey, look, everyone! This warmblood helped Rashor kill Thickskin! Put down your spears, friend comes!\""
+    },
+    {
+      "Key": "168c72e4-d168-4637-beb1-0050a6cee961",
+      "Value": "{n}The lizardfolk opens the gates and invites you to come in with a gesture.{/n} \"Come.\""
+    },
+    {
+      "Key": "6b03939d-5c7d-4263-b4a7-3a7f5a0d5755",
+      "Value": "\"Longtails are ancient tribe. Once owned all woods, all swamps, from big water to high mountain. Now changed, warmbloods everywhere, tribe became small... But we ancient, we wise. We know that who once came must once go. We not fight — why war? Century or two and you die out yourselves.\""
+    },
+    {
+      "Key": "9a400058-ca0d-4b7a-a846-6eac3eb254a3",
+      "Value": "\"Longtails wise, yes. We speak warmblood tongue, we trade, we not eat warmbloods unless we need. But Thickskin tribe not like us! They not speak to warmbloods, they just fight! They want make great empire again. Beware Thickskins, yes! They strong warriors, though weak in head.\""
+    },
+    {
+      "Key": "30c45623-5cae-46c0-b9c7-608b2db96848",
+      "Value": "{n}Jubilost listens to the lizardfolk closely, humming under his breath, and makes a few notes in his notebook.{/n}"
+    },
+    {
+      "Key": "eced0b3a-8746-4a29-8ac5-7f0373ac6bfb",
+      "Value": "{n}The lizardfolk sniff the food, taste it, and nod, satisfied.{/n} \"Good, good. Longtails always peace warmblood. Need speak with Chieftain Vesket. We show way.\""
+    },
+    {
+      "Key": "e4809d57-f963-4500-9df1-7ad91fe8a784",
+      "Value": "{n}The lizardfolk at the gates hiss menacingly.{/n} \"Warmblood, leave now, yes! Leave quick, or war start!\""
+    },
+    {
+      "Key": "6a851e2f-8b77-4b24-a5cf-64edd297a003",
+      "Value": "\"Typical for the primitive societies\"{n} whispers Jubilost.{/n} \"Visit any village of three mud huts, and people will tell you they live in the center of the universe from its very beginning, and gods are their grandparents... Well, let's be honest: in the civilized societies people say exactly the same things, just in fancier words!\""
+    },
+    {
+      "Key": "3c036e69-d07c-4064-bfab-3948751e8c9a",
+      "Value": "{n}The lizardfolk gulps, then speaks to you, trying to control his trembling voice.{/n} \"Warmblood is mighty warrior, yes. We take to Chieftain Vesket's hut, talk him. We show way.\""
+    },
+    {
+      "Key": "9f5fc3c1-f3a1-4b6a-b4ef-3b07fe56c917",
+      "Value": "{n}With a scowl, Regongar raises his hand, sparks dancing on his fingers.{/n} \"Are you having fun, lizard? Let's do it, one on one. Let's see who's going to get roasted!\""
+    },
+    {
+      "Key": "65b9419a-78d0-497c-a645-49b3bc078dcf",
+      "Value": "\"Yes, lizards... Be afraid of us. Very, very afraid!\""
+    },
+    {
+      "Key": "65d721d5-07f3-49c4-853d-53492dea447b",
+      "Value": "\"We take to Chieftain Vesket's hut — you talk him. We show way.\""
+    },
+    {
+      "Key": "ba31e961-5de3-4f25-bca5-c129b1830134",
+      "Value": "\"Great! Hold on, scales!\""
+    }
+  ]
+}

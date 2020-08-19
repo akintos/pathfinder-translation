@@ -1,0 +1,145 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "1d7c2ac6-1d2a-4518-8df5-47e8f4a3281c",
+      "Value": "{mf|Baron|Baroness|King|Queen} {name}, rightful ruler of these lands.\""
+    },
+    {
+      "Key": "52c52a60-7242-482b-888c-e142a757ecfe",
+      "Value": "\"None of your business.\""
+    },
+    {
+      "Key": "9387af36-b657-48b9-b4c3-624960cac614",
+      "Value": "[Attack] \"I didn't come here to talk. Die, scum!\""
+    },
+    {
+      "Key": "877af9e9-dfc2-4fbd-9947-1409871ffb6a",
+      "Value": "\"Why do keep upsetting the locals?\""
+    },
+    {
+      "Key": "e5bcfccd-6197-4017-904b-937bb6e7dc83",
+      "Value": "[In a loud voice] \"I was just passing through when I saw you and I thought to myself: 'why, I should come pay my respects!'\""
+    },
+    {
+      "Key": "70a6406e-103d-4083-9776-da6a06b7c6f2",
+      "Value": "\"How can I persuade you to allow the villagers to live in peace, and depart these lands for good?\""
+    },
+    {
+      "Key": "3e835459-3ac4-4e0c-a147-c1902dc01f76",
+      "Value": "[Attack] \"You shouldn't have said that. Make peace with your gods!\""
+    },
+    {
+      "Key": "9d1ed7c8-c134-41ee-9d93-4eab59022c20",
+      "Value": "\"Leave, and never come back. I won't repeat myself.\""
+    },
+    {
+      "Key": "35a5c16f-28ed-4abf-a2b6-cdd682e40462",
+      "Value": "\"Wait. Are you talking about Kimo – the elven craftsman who's in love?\""
+    },
+    {
+      "Key": "37f3182e-1057-4c93-87f2-382624c6a2d4",
+      "Value": "[Pass the bottle to the satyr] \"Here's your medicine.\""
+    },
+    {
+      "Key": "27856a9f-6057-4062-af03-6035f3a811b7",
+      "Value": "\"What are you talking about?\""
+    },
+    {
+      "Key": "956850bc-fa02-4cae-bd6a-aa76a511e644",
+      "Value": "\"I must go.\""
+    },
+    {
+      "Key": "9ef302b3-8ff5-4dc3-8bdf-80751abd1a3d",
+      "Value": "\"Alright, alright. Sorry about that.\""
+    },
+    {
+      "Key": "60d8025d-7d59-451d-8bd3-f296e8fbc0e4",
+      "Value": "[In an even louder voice] \"Huh?! You were saying?!\""
+    },
+    {
+      "Key": "378ea938-1f70-481d-8cfb-5fe6ece5de91",
+      "Value": "\"Whoops, sorry. I didn't mean to.\""
+    },
+    {
+      "Key": "af537c29-251a-478b-9043-a0af23b9cd6e",
+      "Value": "[Screaming] \"What?! Why are you whispering?! Speak up, please!\""
+    },
+    {
+      "Key": "3b4c52b9-488f-4382-98c2-f99828dbd2f5",
+      "Value": "{n}The foul, nauseating stench of morning-after breath permeates the glade. Fey of all sizes and shapes litter the ground, sleeping on the grass side by side, some of them scarcely clothed. A drowsy satyr squints in pain and shifts his heavy gaze to you.{/n}"
+    },
+    {
+      "Key": "9bda499b-a92f-49f7-b775-28b3958b0f9d",
+      "Value": "\"Curses… Who is it? Who's there?\""
+    },
+    {
+      "Key": "e3875c0a-caa7-43c1-8381-c4636c2ccbe7",
+      "Value": "{n}The satyr winces.{/n} \"Quiet, quiet, you hornless devil… What you want here?\""
+    },
+    {
+      "Key": "755fac67-8821-455b-88df-b118a3320848",
+      "Value": "\"Ha! I swear I could tell that just by looking at your puffed up chest… What you want?\""
+    },
+    {
+      "Key": "d9569628-e54b-4a87-814a-3cb83d1a6406",
+      "Value": "\"Some of them forget their place… We won't stand by while some pointy-eared oaf frolics with our girls!\""
+    },
+    {
+      "Key": "f6ac63da-48ce-4560-b0db-58e3199bc7bb",
+      "Value": "\"Ha! A midget {mf|baron|baroness|king|queen} of a midget country… What you want?\""
+    },
+    {
+      "Key": "6de8e94f-9ee5-4395-8a7d-347350640ecd",
+      "Value": "\"Ha! With a muzzle like that? You could at least file the tusks down first… What you want?\""
+    },
+    {
+      "Key": "59f074db-732f-4e5b-afc8-c1e5e1f3cc27",
+      "Value": "{n}The satyr stares at you with an expression of pure agony on his face.{/n} \"Ga-a-ah, what the hell. I couldn't care less about your damn villagers… My head's splitting in two. Just bring me a drink. The poison is the cure, you know? You bring me a drink, and I'll take the gang home. It's not like I'm ever going to change her mind, that scatterbrain...\""
+    },
+    {
+      "Key": "ccbca32d-7d24-48c9-83d7-dd6ce0483834",
+      "Value": "{n}The satyr hisses, covering his eyes with his hand:{/n} \"In the name of all that's good and fair, lower your voice…\""
+    },
+    {
+      "Key": "556b8928-4653-4681-89aa-46b0ee7375ec",
+      "Value": "{n}The poor creature gives a weak moan.{/n} \"By the gods, why are you yelling so loud…\""
+    },
+    {
+      "Key": "7adb7271-f900-4e89-8fb5-e730a923ef6b",
+      "Value": "{n}Baring his teeth in a grin, the satyr reluctantly rises.{/n} \"Rise and shine, you drunkards! We're going home!\""
+    },
+    {
+      "Key": "ae3b6012-4181-4be5-8d50-45f88dd21710",
+      "Value": "{n}The satyr huffs a dull laugh.{/n} \"You're just full of yourself, aren't you?\""
+    },
+    {
+      "Key": "48ace223-d639-4b64-9b23-2143763cf2f3",
+      "Value": "\"Oh, you know him? How sweet. You can tell him he'll not be getting anywhere with her. That sorry sack of stones doesn't need anyone except her tree…\""
+    },
+    {
+      "Key": "eb0b3862-41f8-4e9f-9b57-0336291c5fe6",
+      "Value": "\"Get lost, go talk to that elf of yours! See if I care!\""
+    },
+    {
+      "Key": "04e31880-81ab-4760-91f4-b02478556c8f",
+      "Value": "\"Huh, not bad… It's no fun playing tricks on those dim-witted farmers anyway. Farewell, then. I'm not going to miss your face.\""
+    },
+    {
+      "Key": "5b084d78-2d8e-415c-a56d-4d5b42b6b198",
+      "Value": "\"You again…\""
+    },
+    {
+      "Key": "5ceadbf5-0fde-487f-8d21-2c007b41e658",
+      "Value": "{n}The satyr waves at you dismissively.{/n} \"I'm not bowing to you. You've no power over me…\""
+    },
+    {
+      "Key": "e004ebb9-d806-4df9-a89d-f680e88c5177",
+      "Value": "{n}The satyr sighs in relief, massaging his temples.{/n}"
+    },
+    {
+      "Key": "c545303e-4c90-4639-bfe8-a602c54c822a",
+      "Value": "{n}The tormented satyr grabs his head in desperation, as his face turns into a grimace of pain and fear.{/n} \"Alright! I get it! We're leaving! Get up, you bastards! We're going home!\""
+    }
+  ]
+}

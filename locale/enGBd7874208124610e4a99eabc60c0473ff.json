@@ -1,0 +1,65 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "41c96209-c0bf-49c2-bd9e-e71fba82f8a1",
+      "Value": "\"Why don't you just go there yourself?\""
+    },
+    {
+      "Key": "568c7331-5d4f-411c-aca9-1d63906d74c2",
+      "Value": "\"And what kind of treasury is it?\""
+    },
+    {
+      "Key": "977bb946-178b-4714-9b89-e6c08d9d9efa",
+      "Value": "\"Great, I like adventure.\""
+    },
+    {
+      "Key": "7ee566fa-353f-4bdf-b6d3-97829dc3288f",
+      "Value": "\"I'm not interested.\""
+    },
+    {
+      "Key": "6390967a-c1c0-4e9e-b2b5-aadef64c840c",
+      "Value": "\"We must discuss dividing the loot before we proceed.\""
+    },
+    {
+      "Key": "3d5c6c73-7d9a-42a4-86a3-7791022c6ae9",
+      "Value": "\"Fine, I changed my mind. I'll help you.\""
+    },
+    {
+      "Key": "41f5e100-bfd2-4026-a4d0-7771f16da1f8",
+      "Value": "\"My decision is final. The audience is over.\""
+    },
+    {
+      "Key": "fea3f541-52cc-4e2d-9039-3e5971197655",
+      "Value": "{n}An unusual petitioner approaches you – a tiefling girl, who appears to be a foreigner from the south. She makes a courtly bow but her face betrays a coy smile.{/n} \"Greetings to the ruler of these lands!\""
+    },
+    {
+      "Key": "8e99fff5-3619-47c0-9229-decbd1212ea5",
+      "Value": "\"My name is Kaessi. I come from the sands of {g|Qadira}Qadira{/g}. A special wind – the wind of opportunity and hidden treasure – has brought me to these lands.\" {n}The tielfing waves her tail in excitement.{/n} \"And without all the polite words, here is what I want to say: I know the location of an ancient treasury, and I'm asking for the {mf|baron|baroness|King|Queen}'s help to reach it and share in the loot!\""
+    },
+    {
+      "Key": "28380ccf-3f9b-4edd-a6b5-bea00caad314",
+      "Value": "\"The remains of an ancient {g|Taldor}Taldan{/g} settlement, destroyed long ago by the forces of nature. My friends came across an ancient chronicle that referred to this settlement, and managed to locate the ruins. But they couldn't get inside, being too afraid. These lands are dangerous...\""
+    },
+    {
+      "Key": "33b84e30-9318-4803-a21a-289cc09a793e",
+      "Value": "\"My friends who visited the place said that it's filled with monsters and wild animals. I shouldn't like going there all alone. Besides, it would be wrong not to tell the ruler of a treasure found in {mf|his|her} lands...\""
+    },
+    {
+      "Key": "71be3f7c-cc2c-41d0-b6f9-de7de0a84c2d",
+      "Value": "{n}The girl nods.{/n} \"Of course. Truth be told, I'm only interested in one thing – an artifact called the Disk of the Eclipse, which is supposed to be in this treasury... if my informants are not mistaken. I claim no rights to the rest of the loot... but who knows – perhaps the {mf|baron|baroness|King|Queen} will have an overwhelming desire to reward their helpful assistant?\""
+    },
+    {
+      "Key": "667f5027-e33c-4d31-99ea-6923bb220ba3",
+      "Value": "{n}The tiefling bows again, tracing patterns on the floor with her tail.{/n} \"In that case I will take leave, and prepare for the expedition. I've already rented a house in your wonderful city. The {mf|baron|baroness|King|Queen} is welcome to visit me any time, when you're ready to discuss our plans.\""
+    },
+    {
+      "Key": "ec02a903-5e7f-4d38-b868-799c71ccd8c0",
+      "Value": "\"Was I really so unpersuasive? Will I just have to get all those treasures myself?\""
+    },
+    {
+      "Key": "0f30fd05-e9f5-47f3-bab9-72263484566d",
+      "Value": "\"Then I dare not bother you any longer.\" {n}The tiefling bows again and leaves.{/n}"
+    }
+  ]
+}

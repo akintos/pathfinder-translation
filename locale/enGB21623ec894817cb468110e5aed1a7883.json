@@ -1,0 +1,57 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "2e35a787-4f25-498a-9edb-169ac908ded5",
+      "Value": "\"Show me your wares.\""
+    },
+    {
+      "Key": "22b546b8-a45d-47c9-bf8a-1bfb0a6c89f0",
+      "Value": "\"I need to go.\""
+    },
+    {
+      "Key": "a225e6ea-e86b-4ea5-b98e-42b9d7f4bfba",
+      "Value": "[Wag a finger at Octavia]"
+    },
+    {
+      "Key": "90ee623c-ad45-4d24-966a-52f03569f891",
+      "Value": "\"My companion has taken a liking to your charm. Would you sell it for, say, 50 gold coins?\""
+    },
+    {
+      "Key": "03109f24-403a-49b6-b91f-364679b25ab7",
+      "Value": "[Distract the vendor]"
+    },
+    {
+      "Key": "b73ef8b5-9a07-4307-8aaf-4f70a9efec43",
+      "Value": "[Pretend not to notice]"
+    },
+    {
+      "Key": "70e7953c-e4fb-4e1e-8849-1784a5c7f756",
+      "Value": "\"Best wares on the river! Don't waste time asking where they're from — get these deals while they last!\""
+    },
+    {
+      "Key": "d2df9195-9b28-4607-8fec-be70d480fac2",
+      "Value": "{n}You notice Octavia's fingers reach for a sparkling charm on the vendor's belt.{/n}"
+    },
+    {
+      "Key": "140bdfa7-23ee-483e-ae9e-85f30e56cb79",
+      "Value": "{n}Octavia pouts, but she moves her hand away from the vendor's property.{/n}"
+    },
+    {
+      "Key": "7ada68aa-d24f-45e9-8b1b-42cebb27c355",
+      "Value": "{n}The vendor gladly takes the gold.{/n} \"Of course, of course! As you wish. Here, please... Ah, that will suit you nicely!\" {n}The vendor smiles as he gives Octavia the trinket.{/n}"
+    },
+    {
+      "Key": "62bbae73-8f40-4c02-9c01-0930b7c05320",
+      "Value": "{n}Octavia takes the charm from the vendor's hands, fastens it to her belt, and smiles at you.{/n} \"Thank you! It's just lovely. And so are you!\""
+    },
+    {
+      "Key": "5bb357fb-f42d-4d83-9bde-4e7e9db2c6c8",
+      "Value": "{n}While you pretend to check the prices of various goods, the charm quietly moves from the vendor's belt to Octavia's pocket. Octavia blows you a kiss.{/n}"
+    },
+    {
+      "Key": "6facf7b5-66ea-4201-a796-9fa89fe17c8e",
+      "Value": "{n}Octavia hides the charm in her pocket with a playful smile and turns away as though nothing had happened.{/n}"
+    }
+  ]
+}

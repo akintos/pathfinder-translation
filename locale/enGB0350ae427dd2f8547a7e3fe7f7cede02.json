@@ -1,0 +1,141 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "d6d71617-a4e1-45a6-b7f0-e0423aeceac1",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "2f14a49c-aa8b-4a8b-91d0-7b02405e946e",
+      "Value": "\"I am the {mf|baron|baroness|King|Queen} of these lands. Apologize immediately!\""
+    },
+    {
+      "Key": "b11f0408-4ac7-4295-9020-5f398eb26534",
+      "Value": "[Attack] \"You should watch your language.\""
+    },
+    {
+      "Key": "eaa429da-6af7-43eb-83a0-4ae2c03ce21b",
+      "Value": "\"I know who you are, Kaleena. I'm here to kill you and report your death to Areena Korvosh.\""
+    },
+    {
+      "Key": "b4f2d2f3-7c8f-4ffd-9c67-3dd78e821068",
+      "Value": "\"I know who you are. Your head is worth a lot of money. Care to make a counter-offer?\""
+    },
+    {
+      "Key": "11343a82-464b-4e9e-99fc-cabdf83ae1a6",
+      "Value": "[Attack] \"Enough of this drama!\""
+    },
+    {
+      "Key": "c495d7f6-8bf6-432a-98ec-34bd73c5471c",
+      "Value": "\"I'm going my way.\""
+    },
+    {
+      "Key": "627a8d67-f98a-4c52-a34c-3216b96957d9",
+      "Value": "\"Jadwiga? The White Witches? I don't understand half of what you're saying.\""
+    },
+    {
+      "Key": "38af7412-fcba-4972-86f9-419b37112e7f",
+      "Value": "\"I'm letting you go, but I won't help you in your scheming against your sister.\""
+    },
+    {
+      "Key": "1f460dcd-8a2a-4e9b-b5f6-b90b829f259d",
+      "Value": "\"I'll help you get rid of your sister. What am I to do?\""
+    },
+    {
+      "Key": "a6d0473b-64aa-4d87-944f-00287f6e8c0f",
+      "Value": "\"I don't care about your family feud. However, I do care about the trade contract Areena offered me.\""
+    },
+    {
+      "Key": "5d5ffd8d-3479-47c0-ab3d-3f1a24ee780d",
+      "Value": "\"I promised to help Areena, and I'll not go back on my word.\""
+    },
+    {
+      "Key": "d7d8e23b-49e4-4f75-93f4-ac4a5745f0df",
+      "Value": "\"It's your life we're talking about, remember? How about a better offer in exchange for my cooperation?\""
+    },
+    {
+      "Key": "3279cfcc-3537-4323-bd2c-ad9f42b2bfe6",
+      "Value": "\"I changed my mind. No deal.\""
+    },
+    {
+      "Key": "fcd16778-feac-4e17-b305-8d0612cff399",
+      "Value": "\"You do realize that if you try to cheat me, I'll contact your beloved sister's grieving friends?\""
+    },
+    {
+      "Key": "f6de69ae-71f0-4bef-80d1-a83ad28e839f",
+      "Value": "\"What are you doing here? Get lost before I lose my temper!\""
+    },
+    {
+      "Key": "2a5847e5-6bd4-449c-ab08-e9087a3048e7",
+      "Value": "{n}A thin, pale woman with an upright posture looks at you with the eyes of an angry cougar, blue as ice. Her bright ginger hair rustles like quiet fire over her white skin.{/n}"
+    },
+    {
+      "Key": "fb2d6c18-cee1-4d81-90cb-cc510a68f9c7",
+      "Value": "{n}Your words make the woman cower. She shrivels, fear in her eyes.{/n} \"I beg your forgiveness, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. We've been troubled quite a lot of late. It's made me a little... edgy. We must rest and regain our strength before we head south. We've a long road ahead, but don't worry, we'll be on our way soon.\""
+    },
+    {
+      "Key": "affe2c84-f2f9-48dc-bc23-6a414fe908e7",
+      "Value": "\"Why do you care?\" {n}The woman looks you up and down and continues in a calmer tone.{/n} \"Just travelers, {race}. We've been troubled a lot lately. I just want to be left alone. We need to rest and regain our strength before we head south.\""
+    },
+    {
+      "Key": "5e196d1b-6b75-436a-9afc-4f7f92a9d063",
+      "Value": "\"What is it?\""
+    },
+    {
+      "Key": "6f7578c8-096f-4dac-bf8b-73109ce572c5",
+      "Value": "{n}Kaleena licks her lips.{/n} \"Oh, really? Then why aren't you attacking me? It seems you're in no rush to obey the tramp's orders. Very good – that's the right thing to do!\""
+    },
+    {
+      "Key": "d26a5ea9-67e7-4ea6-833d-9b5498cbdc4a",
+      "Value": "{n}Kaleena blinks, then squints.{/n} \"So that's how it is. I see you have a good head for business! Straight to the point. It's a good thing I decided to hide out in the {g|Stolen Lands}Stolen Lands{/g}!\""
+    },
+    {
+      "Key": "983a3501-7a6a-480f-9ac0-2682b86ca9ba",
+      "Value": "\"I don't know what lies Areena told you, but I bet she didn't tell you I'm Jadwiga as well. I'll tell you more – I'm Korvosh. We're sisters, falling out over our inheritance. An old story, yes? As soon as our dear mother departed, my deceitful sister announced that I had joined the Heralds of Summer's Return – traitors who look to overthrow not only the Queen herself, but the White Witches altogether!\""
+    },
+    {
+      "Key": "b9a621f8-34d7-47fe-be9b-927df3d8763d",
+      "Value": "\"I care nothing about those madmen, but in {g|Irrisen}Irrisen{/g}, the accusation of being involved with the Heralds is certain death. They let the winter wolves loose upon me. Luckily, I had some money, so I bought the loyalty of a few mercenaries.\" {n}Kaleena looks you up and down.{/n} \"I'm sure I can repay you for your assistance. But it will take more than simply releasing me.\""
+    },
+    {
+      "Key": "732f1f29-61ca-4008-8b5e-5e9baa10f944",
+      "Value": "\"I'm no wealthier than a beggar now, but if you help me get rid of Areena... I can tell you this: I'll outbid her offer by half. Whatever she offered, money, slaves, trade interest... it doesn't matter. You'll getting it all, plus another half. I'll need lots of resources. Areena has many friends, who will be furious if she dies. I must be prepared.\""
+    },
+    {
+      "Key": "e26a56e6-425e-463e-aafe-4b0ea9ffb60c",
+      "Value": "\"I bet it's for the grain... Your soil is more fertile here than we have back home.\" {n}Her tone turns from musing to pleading.{/n} \"Don't be hasty. I promise the same contract if you help me. – No, an even better one. I'm bargaining for my life, you know.\""
+    },
+    {
+      "Key": "0af23165-9436-4cac-a1e8-c4f7a9c307fa",
+      "Value": "\"Must I explain every little thing?! The Jadwiga are the nobles of {g|Irrisen}Irrisen{/g}, the cream of their society, the blue bloods. The White Witches are the Jadwiga supremes: they stand by the throne of Queen Elvanna, they enforce the law in Irrisen and they are the vilest bitches in all the lands, from the Crown of the World to the Kodar Mountains!\""
+    },
+    {
+      "Key": "077ccf92-2e12-495d-81a6-c8f9e0daf441",
+      "Value": "\"Phew... All right, thanks for that at least! I won't try your temper further. Farewell!\""
+    },
+    {
+      "Key": "19b429e8-8064-479c-805a-0c54903bd169",
+      "Value": "\"Oh you vile creature... Die!\""
+    },
+    {
+      "Key": "373f5106-edfd-48bc-9add-71dd36f8a430",
+      "Value": "{n}Kaleena curls her lips in a cold smile.{/n} \"Wonderful. There's only I thing I need from you. Write Areena a letter – tell her I'm dead. Tell her you've sent my body with a sentry, but there's been a delay along the way. She's an arrogant fool. She'll assume it's all over and call off her dogs. In the meantime, I'll sneak back to {g|Irrisen}Irrisen{/g} and strike back!\""
+    },
+    {
+      "Key": "b180a4d6-ab31-4abe-bdd7-cd286b4d9280",
+      "Value": "{n}Kaleena grits her teeth.{/n} \"Very well. I'll double Areena's offer. I only hope she didn't offer half of our family's realm...\""
+    },
+    {
+      "Key": "5ddfddb1-dd44-4091-88d0-0016f811182c",
+      "Value": "{n}Kaleena stares firmly at you.{/n} \"I've given you my offer. I'm not changing it.\""
+    },
+    {
+      "Key": "a57aee6b-14e7-41dd-bbb6-0e9ce03d1733",
+      "Value": "{n}Kaleena rubs her hands together.{/n} \"Then I should get moving. My beloved sister must be missing me terribly. Oh, she'll be so surprised to see me!\" {n}The woman salutes you and calls out to the others.{/n} \"Let's pack it up. We're heading home.\""
+    },
+    {
+      "Key": "5f2321aa-9745-4302-a55a-85781703ac91",
+      "Value": "{n}Kaleena groans, annoyed.{/n} \"Of course, I understand. But I'd place more trust in strangers than my own people. At least I know you won't be talking. My death will profit you nothing.\""
+    }
+  ]
+}

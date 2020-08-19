@@ -1,0 +1,105 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "bcd41c81-d54a-4162-96c2-d89cfcb5240a",
+      "Value": "[Attack] \"You look like regular bandits to me — and I don't waste words on bandits!\""
+    },
+    {
+      "Key": "1f2e808a-78a2-421e-a752-06eb91936f3e",
+      "Value": "\"Looks like I came to the wrong place.\""
+    },
+    {
+      "Key": "44c4f4c8-2cc3-4e6f-838a-950bfd3a9314",
+      "Value": "\"This is your only warning — let me in, or I'll force my way in.\""
+    },
+    {
+      "Key": "91dec554-cdf7-4174-b917-33b4fb123e29",
+      "Value": "\"I'm just a traveler looking for a safe place to spend the night. Please let me in.\""
+    },
+    {
+      "Key": "60b3daa1-95ab-45a5-9a97-4a0b462f6c84",
+      "Value": "[Bribe the guards with 500 coins] \"I really need to get in there. Can we make a deal?\""
+    },
+    {
+      "Key": "4fa6ba5b-14ac-4272-88b7-74c9e060d114",
+      "Value": "\"Hey, who's that walking over there?\" {n}A barbarian standing guard at the cave entrance calls over to you coarsely.{/n} \"It's dangerous to walk around here. Better turn back!\""
+    },
+    {
+      "Key": "b2a03625-6565-4ec1-a24a-c50a0278cd96",
+      "Value": "{n}Amiri answers something in Hallit, the native tongue of the {g|Numeria}Numerian{/g} Kellid tribes.{/n}"
+    },
+    {
+      "Key": "31aaeb90-25da-4c9f-8345-53998b5e2a2d",
+      "Value": "{n}The guards look to you with their hands on their weapons, waiting for an answer.{/n}"
+    },
+    {
+      "Key": "7beb2976-e108-4650-a0d0-44573ec8478d",
+      "Value": "{n}After a brief exchange in Hallit with Amiri, the guard switches back to Common.{/n} \"Peace. If you want to speak with our elders or spend the night, you may enter. Just don't expect a free dinner!\""
+    },
+    {
+      "Key": "5349161e-6e33-45b9-9ee8-4fab66ae9006",
+      "Value": "\"You again? What do you need?\""
+    },
+    {
+      "Key": "d0d84030-0f73-4a49-98d3-bcf30ed4df51",
+      "Value": "{n}The guard scratches his head, confused.{/n} \"You? A chieftain? Will wonders never cease!\""
+    },
+    {
+      "Key": "9ac78c1a-6d56-410b-b78c-423c635e523d",
+      "Value": "{n}A mocking grin appears on the guard's face.{/n}"
+    },
+    {
+      "Key": "f3a88e37-552c-4ec4-89a4-e1ed1f6ec681",
+      "Value": "\"Hey, easy now! We have a cave full of fighters, here. You want in — enter. But if you're looking for trouble, it may be closer than you thought.\""
+    },
+    {
+      "Key": "091a9038-5173-4ea2-9e86-7dcfa0f717da",
+      "Value": "\"Looking to put your strength to the test? That can be arranged!\""
+    },
+    {
+      "Key": "c299caaf-a174-45aa-896c-0a50f151bfcd",
+      "Value": "\"We're fighters from the {g|Tiger Lords}Tiger Lords{/g} tribe. We're just minding our own business here — we're not looking for a fight. So long as you're not looking for trouble, you may enter.\""
+    },
+    {
+      "Key": "9c6c841a-beaa-4c38-9086-d1c96da698f2",
+      "Value": "\"You, a chieftain? Your elven fingers couldn't hold anything heavier than a spoon! How could you lead warriors?\""
+    },
+    {
+      "Key": "6e62e6b5-f4b3-46d6-a299-f1dd55a32892",
+      "Value": "\"Oh, a chieftain, are you? But you can hardly be seen down there! I could crush you underfoot without even noticing!\""
+    },
+    {
+      "Key": "7cc20822-613b-4ad5-9646-94d6b2d2411c",
+      "Value": "\"A traveler? All right, come in — warm yourself by the fire. Just stay out of storage, and don't expect a free meal!\""
+    },
+    {
+      "Key": "8f9fd0fe-be49-4e36-9198-586a81d42165",
+      "Value": "\"A traveler? I don't like the look of you. Go spend the night somewhere else.\""
+    },
+    {
+      "Key": "c301030e-45f1-410a-ab66-494fe29840be",
+      "Value": "{n}After sharing the gold, the guards step aside.{/n} \"Don't know what you're after in this hellhole, but when you meet our elders, you'll have to explain it to them yourself.\""
+    },
+    {
+      "Key": "836810b3-6cd7-490c-a181-b3293974e5b8",
+      "Value": "\"I assure you that this is indeed the baron{mf||ess} of {kingdomname}, as well as my l{mf|ord|ady}. Show some respect!\""
+    },
+    {
+      "Key": "5276c17f-29d8-4be5-a73b-db91ebb941df",
+      "Value": "\"All right, all right! A chieftain, huh. Wonders never cease!\""
+    },
+    {
+      "Key": "9f306fda-9329-4deb-a863-aba58fe9a039",
+      "Value": "\"Oh, a brave one, aren't you? Well, come on, then. Try to give us a hard time! What, are your hands sweaty already? I thought so.\""
+    },
+    {
+      "Key": "37aa11d0-394b-4d3a-b5d5-c0268bbe032b",
+      "Value": "{n}The barbarian turns away, feigning indifference.{/n}"
+    },
+    {
+      "Key": "29ea00bc-61d6-4cc0-8a91-c5c89b9bbd25",
+      "Value": "\"Alert! We're under attack!\""
+    }
+  ]
+}

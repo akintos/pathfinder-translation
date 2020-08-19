@@ -1,0 +1,25 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "aa6557e4-bf6c-4a19-84a4-5ace4f44c5d0",
+      "Value": "[Try to climb over the wall]"
+    },
+    {
+      "Key": "db4a7360-0b0f-4a0f-bae8-12cb362101bf",
+      "Value": "[Leave]"
+    },
+    {
+      "Key": "2214b22f-322c-490e-b55f-d7d84b448ca0",
+      "Value": "{n}This spot in the wall has been damaged by a fallen birch tree. The tops of the logs used to construct the wall have been broken, and the logs themselves stand askew. The thin birch tree still leans against it. A dexterous enough individual could probably climb up the trunk and get over the wall...{/n}"
+    },
+    {
+      "Key": "226d5f20-6008-4293-8f2e-b53d5cb9cdc4",
+      "Value": "{n}The trunk of the birch tree is slippery, and the logs of the wall shift precariously under your weight, but you manage to make it over the wall.{/n}"
+    },
+    {
+      "Key": "f8b3f839-ed21-44c2-944c-1accb4daa9b2",
+      "Value": "{n}The moment you put pressure on the birch tree, you hear a deafening creak. Jumping back just in time, you see the trunk crack in half and fall — the inside had rotted through. It seems you have no choice but to go in through the front door.{/n}"
+    }
+  ]
+}

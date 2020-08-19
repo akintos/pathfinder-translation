@@ -1,0 +1,265 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "57dde9a1-9be5-4440-8f00-e1085bb779d8",
+      "Value": "\"Valerie, don't get so steamed-up. At this pace we'll come to blows before we settle our disagreements.\""
+    },
+    {
+      "Key": "9a803b21-cbbe-4c50-a0e9-e7c0611a0e1a",
+      "Value": "\"Watch your tongue, Fredero. You're on my lands. You will respect my subjects.\""
+    },
+    {
+      "Key": "d95b6fa3-666c-4125-889f-1600cf1428b3",
+      "Value": "[Keep quiet]"
+    },
+    {
+      "Key": "409fa05b-c888-4fe3-a43f-aed21efdf1e7",
+      "Value": "\"Tell me, Fredero, why are you here?\""
+    },
+    {
+      "Key": "144fea52-f0a5-4a49-8bea-0cc966709d2e",
+      "Value": "\"You knew Valerie as a girl? Tell me about her.\""
+    },
+    {
+      "Key": "b0cab24d-6e30-4bc0-8800-0fc278173966",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "ee9b3216-3eac-4713-a9d2-391adafc802f",
+      "Value": "\"You are from the Eternal Rose Order, right?\""
+    },
+    {
+      "Key": "118d370c-9a76-4c2b-80b2-b366f286cbd0",
+      "Value": "\"Valerie serves me, but this is her decision. You shouldn't have wasted your time. She'll tell you the same thing.\""
+    },
+    {
+      "Key": "a082242d-e055-4934-a7b2-3cc0f3b437db",
+      "Value": "\"Where are you planning to go?\""
+    },
+    {
+      "Key": "bb0cc050-d357-4f73-a8a5-b4224b2a3534",
+      "Value": "\"I think we all need to calm down a little...\""
+    },
+    {
+      "Key": "e17add57-9225-453a-8b4b-12d0836d06f8",
+      "Value": "\"One more word, Sinnet, and your head will be decorating the nearest fence!\""
+    },
+    {
+      "Key": "381070ac-f7fd-4a88-ad66-9fbc662cfd4c",
+      "Value": "\"I only meant to support you...\""
+    },
+    {
+      "Key": "adeebb11-45d2-486b-b2c4-6379b6ee4d04",
+      "Value": "\"I think that's enough, Valerie.\""
+    },
+    {
+      "Key": "0a022416-0cbf-4837-a106-5fe8497f4eed",
+      "Value": "\"Well said, Valerie!\""
+    },
+    {
+      "Key": "3a617b21-73f1-4000-a12d-6d86c94c7f3b",
+      "Value": "[Keep quiet]"
+    },
+    {
+      "Key": "f40c53a9-7358-4e09-af20-944220348ad0",
+      "Value": "\"I won't let you kill each other right in front of me!\""
+    },
+    {
+      "Key": "feb7becf-dd6e-4630-a64f-906f3a0d2c37",
+      "Value": "\"As you say, Valerie. What will you have me do?\""
+    },
+    {
+      "Key": "bd4c57da-7a30-4cbb-9652-86760f67126a",
+      "Value": "\"Yes! Give this windbag a proper thrashing!\""
+    },
+    {
+      "Key": "9f02438f-bde1-4376-9d73-0ae4bfc70019",
+      "Value": "\"All right, let's get this over with. What would you have me do?\""
+    },
+    {
+      "Key": "ea2df797-783d-4b9c-a526-29e76dfe2bf3",
+      "Value": "\"Don't be silly, Valerie. Apologize for your words, and we'll part in peace!\""
+    },
+    {
+      "Key": "70fef6c9-ce0d-4a5a-b2a0-34a1869d47a1",
+      "Value": "\"I think you should talk to Valerie alone.\""
+    },
+    {
+      "Key": "36164495-c3dd-4d71-8225-1b8b6c14fdbd",
+      "Value": "{n}A middle-aged man in polished, shiny armor turns to you. His beard and hair are impeccably styled, and an expression of reserved politeness sits frozen on his face, as his piercing gray eyes watch everything attentively.{/n} \"{mf|Baron|Baroness} {name}? What an honor to meet you in person! I am Fredero Sinnet, a paladin of the most illustrious {g|Shelyn}Shelyn{/g} from the Eternal Rose Order.\""
+    },
+    {
+      "Key": "6c55835a-a3da-461f-8eee-6dbd3b64eb25",
+      "Value": "\"I see that you came without Valerie... I hope that's just a temporary setback. I cannot wait for the moment I see my dearest student again.\""
+    },
+    {
+      "Key": "0c382412-6be0-4e12-b625-e324a6193cb8",
+      "Value": "{n}Fredero Sinnet bows politely.{/n} \"Greetings, {mf|Baron|Baroness} {name}.\""
+    },
+    {
+      "Key": "69e2a8d7-4f61-42f2-8fec-cbaffc66725e",
+      "Value": "{n}Fredero looks at Valerie.{/n} \"There you are, Valerie. How many years has it been since we saw each other? I'm so happy that the years haven't erased the divine bliss written upon your radiant face.\""
+    },
+    {
+      "Key": "7bef81a3-a41f-4f84-9ef8-0a7a84030f66",
+      "Value": "{n}Valerie nods to Sinnet coldly.{/n} \"Greetings. I'm glad to see you in good health, Fredero.\""
+    },
+    {
+      "Key": "dd7c39c1-f632-47ad-8973-7f316c4d9b5b",
+      "Value": "{n}Fredero shakes his head.{/n} \"I don't recognize you, Valerie. What is this tone you address me with? I remember what politeness and respect you showed your elders. – We held you up as an example for the other novices.\""
+    },
+    {
+      "Key": "aaf44023-424e-4dd3-829f-8bb6d6851840",
+      "Value": "{n}Valerie raises her chin ever so slightly.{/n} \"I'm only repaying your courtesy in kind, Fredero. If you so easily ascribe to me thoughts and aspirations that I do not possess, then I can be as liberal a judge of your behavior.\""
+    },
+    {
+      "Key": "1d406a55-f508-47ef-a92f-129733e0e190",
+      "Value": "{n}Fredero purses his lips.{/n} \"And yet I insist on seeing Valerie in person. Grant me a chance to restore {g|Shelyn}Shelyn's{/g} chosen to the divine grace she once waved off so heedlessly.\""
+    },
+    {
+      "Key": "2c3004a3-41d4-419e-b74f-66b98eacda5c",
+      "Value": "{n}Valerie gives you a stern look.{/n} \"I haven't the slightest desire to quarrel, {name}. I'm here to put an end to a story that's already gone on for too long – and that is all.\""
+    },
+    {
+      "Key": "251c1307-90e9-46e8-99b8-f309d7a59554",
+      "Value": "\"When Valerie joins my entourage, we will travel west, to the borders of {g|Pitax}Pitax{/g}. There, a new temple to my divine patron is being built – an architectural wonder worthy of harboring the very spirit of the {g|Shelyn}Eternal Rose{/g}.\""
+    },
+    {
+      "Key": "1d5255bf-b6b5-4316-9c0c-efa7f191b8ed",
+      "Value": "{n}Fredero smiles pensively.{/n} \"Do I possess the words to describe the chosen of {g|Shelyn}Shelyn{/g}? Oh, don't look at me like that – I'm not the only one who believes it. A special role has been prepared for this girl, in the ranks of the {g|Shelyn}Eternal Rose's{/g} followers. I'm sure you've noticed Valerie's greatest virtue: she's impeccably loyal to whatever – or whomever – she serves.\""
+    },
+    {
+      "Key": "e93b4671-21b3-4781-bbac-cad216a491ce",
+      "Value": "\"Exactly. I once guarded works that showed Shelyn's blessing – works of art, beauty and love. But that's a path for young and energetic paladins and priests, Now I've become a mentor in the Order. Many servants of {g|Shelyn}Shelyn{/g} who now guard her creations were brought up by me, and I'm sure Valerie would have surpassed them all, had she not left our ranks.\""
+    },
+    {
+      "Key": "e331b2e0-bf2c-4ab1-a181-a53f3cc7dfa6",
+      "Value": "\"One of the newer orders of {g|Shelyn}Shelyn{/g} will occupy the temple – the Order of Prisms. Their zeal in serving the goddess will be good for Valerie – she has much to unlearn if she expects to return to Shelyn's favor, and the respect of her brothers in faith.\""
+    },
+    {
+      "Key": "6727b5bc-e06a-4cf0-ab8a-0eaa8e73643d",
+      "Value": "\"Her father did the right thing in sending his daughter into {g|Shelyn}Shelyn's{/g} embrace. And Valerie's departure from the Order was just an unfortunate mistake of youth. I'm sure she regrets her desperate mistake, driven by hurt feelings and rash judgment. Only shame and pride have kept her from admitting it. Her true place is in the radiance of glorious Shelyn.\""
+    },
+    {
+      "Key": "9acd4263-0862-4228-a9cf-8ce76e8426cd",
+      "Value": "{n}The paladin looks right at you.{/n} \"As I mentioned in my letter, my goal is to return Valerie to {g|Shelyn}Shelyn's{/g} grace. Several years ago, a terrible mistake was made: she whose fate was determined before she was born decided to resist her calling. I would appeal to Valerie's mind and remind her of her duty.\""
+    },
+    {
+      "Key": "0b52e5d3-4fdd-48b9-95d3-b4d26df3f9c4",
+      "Value": "{n}Fredero gives you a respectful look and a nod.{/n} \"In no way did I intend to be impolite. Forgive my manners: it's difficult for me not to address Valerie as a novice – for that is what she was the last time I saw...\""
+    },
+    {
+      "Key": "423156f0-115a-47c5-a449-b7cb0a578bac",
+      "Value": "\"As for my return to the church, which you so bluntly insist upon...\" {n}Valerie pulls her chin up.{/n} \"Please, Fredero, spare me your wordy speeches. The day I walked out the convent gates, I made a decision I'm not going to change. I'm never returning to the {g|Shelyn}Eternal Rose{/g} Order. I'm never going back to serving {g|Shelyn}Shelyn{/g}. Whatever nonsense you started with your letter, let's put an end to it. Once and for all.\""
+    },
+    {
+      "Key": "1d5dade1-a23c-49c8-b9e2-1a157d0ff5ff",
+      "Value": "\"My beautiful Valerie, as rash as ever. I was hoping these intervening years you spent away from the Order might have cooled your temper, and brought you some wisdom about the mistakes you made as a novice.\""
+    },
+    {
+      "Key": "99f6dd32-9a23-4278-a6ee-1d5360551eb0",
+      "Value": "{n}Fredero studies Valerie's face for a long time. His eyes turn steel-gray.{/n} \"I don't believe my ears. I expected to see repentance, Valerie. Repentance for your foolish choices. Repentance for the pain you've caused your family and all those who relied on you. But instead I see a proud renegade who dares to resist the will of the goddess, and who would defy me – the one who labored to bring you up and teach you. \""
+    },
+    {
+      "Key": "6d9cd0dc-8ada-4e66-ac4e-4029a15f7ad4",
+      "Value": "{n}Red spots start to appear on Valerie's cheeks, and she catches her breath with some difficulty.{/n} \"I am not in the least bit surprised by your words, Fredero. You have always been deaf to anything that goes against your beliefs. I'm not {g|Shelyn}Shelyn's{/g} chosen. I'm not a god's toy, created to entertain the whimsical goddess. I'm not...\""
+    },
+    {
+      "Key": "17c285eb-1765-41c2-b29e-40a203a0b533",
+      "Value": "\"Quiet! Quiet, before you bring her wrath upon you! How dare you, who is bestowed with celestial beauty, so insolently reject such gifts that others can only dream about! Your fate is already decided, laid out as a fine carpet before you. Enough! I didn't come here to listen to a spoiled child speaking out of turn, but only to bring you home. And I will take you by the ear and drag you all the way to the Order's convent, if that's what it takes!\""
+    },
+    {
+      "Key": "cf9d48fe-608b-477c-b192-ee630cdb9660",
+      "Value": "{n}Valerie slices the air with her hand.{/n} \"Stay out of it, {name}! Fredero might be crossing the boundaries of politeness, but no more than that. Stay your hand and allow me to finish!\""
+    },
+    {
+      "Key": "b8f30309-3caa-495d-9a3f-36adeba93f72",
+      "Value": "{n}Valerie interrupts you, she is almost screaming.{/n} \"What you call home, Fredero, was my prison! My home is here, in these lands, for which the baron{mf||ess} and I have fought and shed our blood! Here, beside the one I've vowed to serve, and whom I shan't leave until I die! Here in the {g|Stolen Lands}Stolen Lands{/g}, where for the first time I can decide for myself, where I belong and what I believe!\""
+    },
+    {
+      "Key": "4cdd61fb-f9b5-41ca-ab38-904a96313bd0",
+      "Value": "{n}Fredero doesn't look at you, so intently is he burning Valerie with his eyes.{/n} \"Forgive me, Your Grace, but I'm not leaving until I've taught this impulsive girl a lesson. I was hoping that Valerie's good sense would prevail over her insolence... but alas, the situation unfolds otherwise.\""
+    },
+    {
+      "Key": "3a1e6736-ae73-429f-ab93-d352064557a1",
+      "Value": "{n}Valerie's voice grows soft, almost like a hissing snake.{/n} \"Take your people, Fredero, and go back to the {g|Shelyn}Eternal Rose{/g} Abbey. And if you've the nerve to claim I'm {g|Shelyn}Shelyn's{/g} chosen... well, know that your precious goddess should have chosen her trinkets more carefully!\""
+    },
+    {
+      "Key": "c0bf5e02-e7f0-4abf-8ae6-85cdd444ce3e",
+      "Value": "\"The second's responsibilities include observing the fight, mediating in the duel, and should the circumstances require, declaring the final verdict.\" {n}Valerie reaches for her weapon.{/n} \"I think here is good enough. Step away, {name} – I don't want to hit you by accident.\""
+    },
+    {
+      "Key": "42162770-ca0b-4454-8323-8234b1eeae36",
+      "Value": "{n}Fredero grows white as a sheet.{/n} \"How dare you...\""
+    },
+    {
+      "Key": "bf10aa06-836b-456e-8c22-b31f4cea31d1",
+      "Value": "{n}Fredero looks Valerie in the eye. The paladin's hand is on his weapon.{/n} \"If you insist on standing equal to Shelyn's paladin, answer for your words now. If you have a drop of dignity left, you won't deny me satisfaction.\""
+    },
+    {
+      "Key": "fd5e0492-1e66-4283-bd38-5c1410533512",
+      "Value": "{n}Valerie looks at the enraged paladin fearlessly.{/n} \"Oh, so now I'm suddenly an independent person in your eyes? Finally! Well then, I shall agree to this duel with indescribable pleasure! {name}, you shall be my second.\""
+    },
+    {
+      "Key": "201165a0-fd80-4334-87a3-9bad0eca6aa4",
+      "Value": "{n}Valerie allows herself a faint smile.{/n} \"Don't worry, {name}. This... misunderstanding will only take a few minutes. Then Sir Sinnet will pick up the shreds of his pride and spare us of his presence forever.\""
+    },
+    {
+      "Key": "3cf9bc1b-b68c-4dfc-aadd-ff6b517b0412",
+      "Value": "\"Let's see whether you learned anything more than insolence from your mercenary friends.\""
+    },
+    {
+      "Key": "3d0c7bb6-ba36-4d3a-b357-814380ac2515",
+      "Value": "{n}Valerie slowly shakes her head, without taking her eyes off Fredero.{/n} \"I choose my words carefully and never deny them. I've had enough – if it takes a fight for {g|Shelyn}Shelyn{/g} and her henchmen to leave me alone, then so be it.\""
+    },
+    {
+      "Key": "0721b176-2c1e-46f5-8253-102eb400b006",
+      "Value": "\"Don't go, Your Grace. My intentions are known to all. Valerie, I have come to return you to our faith.\""
+    },
+    {
+      "Key": "defea6e9-e2cf-4a8c-bf73-08a02cf9c5b7",
+      "Value": "\"'Our?!' Now you imagine that not only do I want to serve {g|Shelyn}Shelyn{/g}, but now I have faith in her too?\""
+    },
+    {
+      "Key": "1a6f621b-da5f-4e0e-9025-42b261b5e596",
+      "Value": "\"You speak as though I am incapable of understanding where my duties lie.\""
+    },
+    {
+      "Key": "185f89c2-732d-46b3-ba12-be621827b465",
+      "Value": "\"You have given me much cause for doubt.\""
+    },
+    {
+      "Key": "73a26730-6d87-4942-b0f3-491aefafdba0",
+      "Value": "\"My departure wasn't a mistake. It fixed someone else's mistake, which caused me to waste a few years of my life.\""
+    },
+    {
+      "Key": "df051b80-0a55-4691-bf7c-44a0fabd4ee8",
+      "Value": "{n}You can barely hear Valerie's voice.{/n} \"I'm so tired of orders from those I despise...\""
+    },
+    {
+      "Key": "7a38a842-3aef-410d-b63c-33fbc70f2d5d",
+      "Value": "\"The temple devoted to the goddess of beauty... I wish I could see such grandeur!\""
+    },
+    {
+      "Key": "3e4e5ed6-8ff6-4cfe-af6b-90d77370fa6e",
+      "Value": "\"Hundreds and thousands of gold coins, wasted on decorating some pompous shed... I could name dozens of better uses for that money.\""
+    },
+    {
+      "Key": "a804fceb-9b0e-4274-97b3-dd9370fff636",
+      "Value": "\"Heh heh... the old man's right! Where else does our princess belong if not sitting at a tambour frame in a convent!\""
+    },
+    {
+      "Key": "4429d7d5-206d-4ac5-8199-5cba22619641",
+      "Value": "\"{name}, please explain to your feebleminded jester the times when he should keep his jaws shut.\""
+    },
+    {
+      "Key": "6740d548-4036-407e-ba2e-d9c70481736f",
+      "Value": "\"Hm... I have to admit, you're somewhat right...\" {n}Linzi stops under Valerie's glare and moves away apprehensively.{/n}"
+    },
+    {
+      "Key": "4aa10f21-8813-4a01-ab9b-00b6448fe10b",
+      "Value": "\"Hey! I just woke up after all that chatter, and you went and ruined all the fun before it could even get started!\""
+    }
+  ]
+}

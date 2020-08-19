@@ -1,0 +1,65 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "a802e8ad-1323-4321-8178-206a33a3cca4",
+      "Value": "\"It's a bold plan and I like it. It's time to pay the Stag Lord a visit!\""
+    },
+    {
+      "Key": "8fed45a3-7b80-4528-8c6e-4f29a2ecfbd5",
+      "Value": "\"Why did you decide to rebel against the Stag Lord?\""
+    },
+    {
+      "Key": "3091d222-dc5d-47ec-b753-bd21a0d7da23",
+      "Value": "[Attack] \"You'll share the same fate as the rest of the Stag Lord's henchmen.\""
+    },
+    {
+      "Key": "94cbc98a-39a9-4720-b01e-57d4cdfc6d6e",
+      "Value": "\"Direct attack might not be the best option. I'll look for other ways to enter the fort. Stay alert and join me when you hear the sounds of fighting.\""
+    },
+    {
+      "Key": "3f15a702-25a9-4f86-90b1-471535159161",
+      "Value": "\"So, what's your plan?\""
+    },
+    {
+      "Key": "5770a523-eff8-44f1-85ee-d7423aaf1a1c",
+      "Value": "\"I changed my mind. Let's use your plan with direct attack\"."
+    },
+    {
+      "Key": "a21832ca-2c4d-4d67-926a-65cd8299adce",
+      "Value": "\"Wait here while I look around.\""
+    },
+    {
+      "Key": "44fc80ad-d1e2-42fa-b7ee-9e4dcca212de",
+      "Value": "\"Now, this is a surprise.\" {d|Kressle Good}Kressle{/d} {n}salutes you. She seems to be focused but sullen.{/n} \"I'm on my way to pay the Stag Lord a visit, and I don't expect it to be a friendly one. How about we go together? I'd appreciate some help during the fight.\""
+    },
+    {
+      "Key": "ccf0c1fd-56ec-4c12-bcf7-946074571b07",
+      "Value": "\"I used my head, finally.\" {n}Kressle's words sound bitter.{/n} \"I grew up in {g|Restov}Restov{/g}, choking on its hypocrisy. {g|Swordlords}The Aldori{/g} make like they're these brave and noble defenders of justice, but they're afraid to so much as bark at {g|House Surtova}Surtova{/g}. The Stag Lord... He seemed different. Mighty, menacing, like a huge wave rolling toward the shore.\""
+    },
+    {
+      "Key": "56d9e3c7-b7c3-4b53-a75e-4b9bdc1c8606",
+      "Value": "\"He said he'd build a new kingdom here, and anyone brave enough to fight under his banner would get a new life. But now? Now he just sits in his fortress drinking away and plumping the bedroom pillows for some 'queen' of his, though I can't say if she's real or just a symptom of his drunken delirium.\""
+    },
+    {
+      "Key": "11667a05-1f16-4bb4-b0eb-28b97aeaffa1",
+      "Value": "\"I trusted him. In his name, I almost got Svetlana killed — the only living soul who's been kind to me. I was wrong, and I want to right that wrong with my own hands. I WILL free these lands of the Stag Lord!\""
+    },
+    {
+      "Key": "7a17cc4a-f16f-430e-87b7-b6945db712ee",
+      "Value": "\"What's to plan? A fight's a fight! They'll let me and anyone with me inside the fort, no questions asked. Once we're there, we call out the Stag Lord and tell him it's time for him to demonstrate his 'royal' ambitions.\""
+    },
+    {
+      "Key": "744e9d7b-9678-4060-a980-3d1372435510",
+      "Value": "{n}Kressle salutes you with her weapon.{/n} \"Let's go. Let the fate of {g|Stolen Lands}the Stolen Lands{/g} be decided in battle!\""
+    },
+    {
+      "Key": "5b236060-d83c-4db4-bbba-ffd7c9cbc852",
+      "Value": "{n}Kressle kicks at a small stone on the ground.{/n} \"Fine. Just don't take long!\""
+    },
+    {
+      "Key": "f85e8c41-01bf-479f-8bcb-392d396de05b",
+      "Value": "\"Get a nice walk in? Can we go to the fortress already?\""
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "4c2fcb05-212d-4ba2-8460-2e467576ffdd",
+      "Value": "\"Tell me more about each candidate.\""
+    },
+    {
+      "Key": "d83b11b5-3895-470f-922e-b9a15081e911",
+      "Value": "{g|Culture4_3}[Choice effects]{/g} \"My soldiers risk their lives every day for these lands. Let them enjoy some well-deserved glory. Let's order the series of etchings from the artist.\""
+    },
+    {
+      "Key": "d8a53926-24b5-412b-8d1f-65ba171794ff",
+      "Value": "{g|Culture4_1}[Choice effects]{/g} \"Let our neighbors learn all about the talented people of our lands. We'll help the musician.\""
+    },
+    {
+      "Key": "336d026d-ed8a-4fa5-8181-d785d56ea4cd",
+      "Value": "{g|Culture4_2}[Choice effects]{/g} \"It is our duty to preserve the culture and traditions of the Stolen Lands. We'll support the provincial teacher.\""
+    },
+    {
+      "Key": "b17fd411-2127-4717-b9bf-642d78e47ba2",
+      "Value": "\"Make your own decision.\""
+    },
+    {
+      "Key": "70f843c8-738b-48e6-985b-617b7975bfb5",
+      "Value": "\"{name}, our Treasurer informs me that we've managed to save up some money allocated for culture – a substantial amount, in fact! I talked to my friends in the artistic communities, and I've found three projects worthy of support!\""
+    },
+    {
+      "Key": "11ce1155-874f-49d5-bb26-15f3441f911e",
+      "Value": "\"{mf|Your Grace|Your Grace|Your Highness|Your Highness}, my calculations show that we haven't spent all the money we've allocated for cultural development. I have three projects on one of which we could spend the surplus.\""
+    },
+    {
+      "Key": "82293338-a5ad-43fe-8e7e-c39ec1035816",
+      "Value": "\"The Treasurer reports that we've allocated more money than we've actually spent on culture. A considerable sum of money remains. Money must be put to work, so I suggest you invest it in one of three projects.\""
+    },
+    {
+      "Key": "295542c2-1ebc-4e3f-bd39-5fda51d97e7d",
+      "Value": "\"It's an easy guess, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, that I suggest you pay attention to the folk wisdom collector. I myself am working on preserving tales from the ancient times. He's working hard on preserving modern-day tales for our descendants. The one can't do without the other, and both complement each other nicely!\""
+    },
+    {
+      "Key": "7ff7beef-dfb1-4c08-82a3-293b8a77855e",
+      "Value": "\"At first I thought of a local violin player I know. He's always dreamed of traveling around the neighboring lands, playing his music. I also talked to a provincial teacher who is assembling a book of local legends and traditions. And finally, I kept receiving letters from an artist local to the capital – I have no idea why. When we met, she offered me a series of etchings depicting your 'brilliant officers' and the 'great feats' of your army.\""
+    },
+    {
+      "Key": "56e37bc7-0710-4f66-8eff-4b44c39e7fe4",
+      "Value": "\"The first is a famous local violin player, who wishes to tour our neighbors' lands. The second is a book of local legends and traditions assembled by a provincial teacher. But the most promising is a series of etchings depicting your military campaigns. This artist's love of her motherland... it's most impressive!\""
+    },
+    {
+      "Key": "723a442e-b34f-49cf-bb18-946d809bfe0a",
+      "Value": "\"The violin player I told you about is an old friend. Even the most callous listener is touched by his music! Besides, he has plenty of friends in the {g|River Kingdoms}River Kingdoms{/g}. His concerts will be of the highest standards. They will attract crowds of fans, and every one of them will be grateful to you for giving them the gift of such lovely music.\""
+    },
+    {
+      "Key": "70cd1dc1-28cb-47b5-b0ff-c3f2685a66c3",
+      "Value": "\"The violin player's endeavor is commendable. Besides, when people hear his music and learn that you, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, are the one who made his concerts possible, then they will certainly grant you their favor and respect.\""
+    },
+    {
+      "Key": "c94fb643-fe3f-46de-9bb1-b8aae9be76af",
+      "Value": "\"A musician wishes to tour around the {g|River Kingdoms}River Kingdoms{/g}. It's not our best option, but it could enhance your image among our more sensitive citizens. The provincial teacher's proposal is the least promising. A book of peasants' superstitions and stories will lead nowhere of interest.\""
+    },
+    {
+      "Key": "aeb055ee-9556-42e6-a8ab-5f21a146eaff",
+      "Value": "\"A fine choice.\""
+    },
+    {
+      "Key": "e7515794-40dc-4269-a649-b24a4535b739",
+      "Value": "\"Excellent! Let me tell him! He'll be so happy!\""
+    },
+    {
+      "Key": "82e8b877-232e-4b25-be56-bea2038f5387",
+      "Value": "\"I'll discuss with him the details of his tour, {mf|Your Grace|Your Grace|Your Highness|Your Highness}.\""
+    },
+    {
+      "Key": "020a322a-03ed-4d30-beba-8117f7185c50",
+      "Value": "\"Yes, well, that's a fine use of our money...\""
+    },
+    {
+      "Key": "c1e9fe07-ba56-4a6d-9128-8b2d79cf7791",
+      "Value": "\"Hm... I'll hate to upset my friend... But I'm glad for the teacher!\""
+    },
+    {
+      "Key": "3134a180-fe01-4265-8ec7-c10f2c3f4fdb",
+      "Value": "\"Very wise, {mf|Your Grace|Your Grace|Your Highness|Your Highness}.\""
+    },
+    {
+      "Key": "7bc64f35-492e-4768-99bf-58d34ca09fe1",
+      "Value": "\"I'm sure we should support the musician. Your patronage of the arts will make you famous across the {g|River Kingdoms}River Kingdoms{/g}!\""
+    },
+    {
+      "Key": "508f00c6-b7a6-4360-966a-72fd67feedaf",
+      "Value": "\"First of all, we can send forth our outstanding violin player who wishes to tour the {g|River Kingdoms}River Kingdoms{/g}. Second, there is the provincial teacher collecting the legends, beliefs and traditions of your subjects. As a third option, we can order a series of etchings depicting your army's feats and campaigns.\""
+    },
+    {
+      "Key": "a181cc16-9ce0-4a2a-bd15-9360aa02f88f",
+      "Value": "\"Considering our position, I believe that supporting the artist and her workshop would be most useful. You might print many copies of these etchings, and thus elevate the prestige of military service! Besides, she herself wishes to paint your 'glorious army' and 'remarkable warriors' as faithfully as possible. She said she would not fall victim to the provocations of whiners and cowards.\""
+    },
+    {
+      "Key": "8837220f-2707-4ca3-8c96-80f31ca2e884",
+      "Value": "\"As to the series of etchings... I may be blind, but even I can see this artist's true, self-serving motives. And I can't say I agree with her desire to glorify the army and the officers' life. Art must reflect life, not distort the truth.\""
+    },
+    {
+      "Key": "5ec890e3-7bec-4708-ba20-379983d04bab",
+      "Value": "\"The legend-gatherer's work seems the most useful, and not only for our descendants. Your subjects, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, will be proud for their culture. Thus they might dedicate more time and money to its development...\""
+    },
+    {
+      "Key": "1b6f4964-9dcb-4e9e-a354-9182142fb848",
+      "Value": "\"The provincial teacher is very naive and sweet, but his innocence only deepens his vision. You should hear him speak of the folk culture of the {g|Stolen Lands}Stolen Lands{/g}! Your subjects will be very proud of their origin and culture after they've read his book.\""
+    },
+    {
+      "Key": "adc49019-7d2c-479a-bece-4c1a07468092",
+      "Value": "\"The artist seemed an awful back-scratcher to me. I'm sure she only came up with the military theme to get herself a big order. I hate flatterers and apple-polishers. Especially when it comes to art!\""
+    },
+    {
+      "Key": "c8469c27-181b-4248-b1b1-2a50908fb377",
+      "Value": "\"I'll tell the violin player that we'll help him! Oh, he'll be so happy!\""
+    },
+    {
+      "Key": "c1b09c45-f9a4-4ddc-b5fb-c1d694b5a3e9",
+      "Value": "\"Then I'll inform the teacher he can count on our support.\""
+    },
+    {
+      "Key": "eb8007e6-995a-4fbf-97ef-c2187a15014c",
+      "Value": "\"I'll order the series of etchings... and see that it's done to our specifications.\""
+    }
+  ]
+}

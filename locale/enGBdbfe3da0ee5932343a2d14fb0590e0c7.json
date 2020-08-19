@@ -1,0 +1,181 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "766f5619-6e74-417c-b391-ed20b6ab2ed5",
+      "Value": "[Examine the centaurs' gear]"
+    },
+    {
+      "Key": "c7a12da3-64eb-442b-a715-8871ebd8d289",
+      "Value": "\"I sense Desna's mark upon you, stranger. Does the goddess teach her followers to attack the unarmed and threaten passers-by?\""
+    },
+    {
+      "Key": "f57d5efb-ba95-412e-8c1f-97986c6b475a",
+      "Value": "\"How about we tame this insolent fellow's tongue?\""
+    },
+    {
+      "Key": "583e4544-c37c-4940-a696-71b97ffa850a",
+      "Value": "\"You worship Desna, stranger, and Desna is a good goddess. Do not discredit her with unworthy actions.\""
+    },
+    {
+      "Key": "795081f9-6f17-4f6a-ba03-b6499e5d75b7",
+      "Value": "[Look closer at the symbols that the centaurs are wearing]"
+    },
+    {
+      "Key": "a167726a-432f-43e3-8aad-a77e7fa45799",
+      "Value": "[Say nothing]"
+    },
+    {
+      "Key": "87c3f376-f8c2-441b-a818-08f4fb7af88d",
+      "Value": "\"Be easy, brave protector of the Nomen tribe. I know that you share no bonds of friendship with the 'two-legged', but we are not Taldans. We are not the invaders, who you once fought and killed.\""
+    },
+    {
+      "Key": "feeac1ae-baba-4410-a550-5e2e65497089",
+      "Value": "\"Maegar, we simply can't agree to that.\""
+    },
+    {
+      "Key": "333f3dfe-af9b-4da4-9783-0064f1ee78da",
+      "Value": "\"I don't want bloodshed. We must come to an agreement.\""
+    },
+    {
+      "Key": "57ce6b6d-d4bb-4a7a-a414-d103680e1fe7",
+      "Value": "\"By any measure, we are newcomers to this land. If we want to remain here, we'll have to respect the wishes and customs of those who've lived here long before us.\""
+    },
+    {
+      "Key": "f0237706-a2a6-40c3-98bd-2cbf6be553f9",
+      "Value": "\"Pff, so a tale about ancient evil is going to make us abandon this land, that we worked so hard to win?\""
+    },
+    {
+      "Key": "d596ea5a-7d36-4468-a276-3013ca21914b",
+      "Value": "{n}This once-quiet glade in the heart of the planes of Dunsward now resembles a low rocky shore, braced for the crash of a menacing wave. A team of centaurs tower above a handful of people, scraping the ground and rising to their hind legs from time to time. They seem nearly ready to trample their frightened prey into the mud.{/n}"
+    },
+    {
+      "Key": "88a56b49-f179-4e0f-9168-3992a8f9c3da",
+      "Value": "{n}Noticing your party, a woman in simple peasant clothes breaks away from the group and throws herself at Maegar's feet.{/n} \"Your Grace, Baron Varn! Our prayers have been answered! We are the villagers of Old Stump. We wanted to build a farm in these lands, but we barely started digging the cellar when these monsters appeared!\""
+    },
+    {
+      "Key": "73e64daa-ac94-48c4-8348-e67248bed48d",
+      "Value": "{n}A muscular centaur with black hide and dark hair leans forward, thrusting out his chest and nearly trampling the woman.{/n} \"Howl louder. The more of your kin you call forth, the fewer we'll have to root out from their holes!\""
+    },
+    {
+      "Key": "5f945579-6bcf-4cb4-b632-f716aaa3e4dd",
+      "Value": "{n}Maegar raises his hand in a powerful gesture, drawing everyone's attention.{/n} \"What is it you want from these people?\""
+    },
+    {
+      "Key": "045efbc2-22c1-4cf1-bcf8-257cc4ac3bf5",
+      "Value": "\"What do we want, two-legged? You ask this, after everything your kin have done?! You come to this land uninvited, dig up the ancient graves, and attack us, the guardians of the land. What do we want? We want to clean the world of the dirt you spread.\""
+    },
+    {
+      "Key": "04bdc126-67d8-468a-b3c6-26c5fe31189d",
+      "Value": "{n}By the signs and patterns on their weapons and clothes, you recognize them as belonging to the Nomen tribe – a warlike clan of centaurs that long ago settled in these lands. In ages past, the tribe fought back {g|Taldor}the Taldans{/g} who tried to settle the region – and were almost completely wiped out. The Nomen haven't shown themselves for a long time, but they hardly hold any warm feelings towards you.{/n}"
+    },
+    {
+      "Key": "af3267c6-1a52-423c-811e-2c538c63ea88",
+      "Value": "{n}You manage to spot some symbols and patterns on the centaurs' weapons and clothing, but do not recall anything useful about them. You only vaguely remember that centaurs used to live in this region, long, long ago.{/n}"
+    },
+    {
+      "Key": "a9e4dd12-4e44-4bc6-be63-1e1c8442b737",
+      "Value": "{n}All the centaurs have pendants or signs depicting the moon – the symbol of Desna in her aspect known as Mother Moon.{/n}"
+    },
+    {
+      "Key": "d303ac56-dcf0-4871-8082-57294d3ff5c6",
+      "Value": "{n}You see a few symbols of obviously religious origin, but cannot determine which of the many religions of Golarion they belong to.{/n}"
+    },
+    {
+      "Key": "b7ed0fac-789a-498b-a9d4-9c6cf1f844a2",
+      "Value": "{n}Maegar nods in approval.{/n} \"That's right. We walk under the same moon, stranger.\""
+    },
+    {
+      "Key": "8b3073d3-1f25-4f20-9040-5e46f6ab823b",
+      "Value": "\"I support the General's suggestion. A baron who allows insults and attacks cannot be baron for long.\""
+    },
+    {
+      "Key": "98e99da7-2bd6-4ac9-a58c-cd0607751573",
+      "Value": "\"Ah, and more the pity we are not Taldans. At least they knew how a ruler should behave on territory he plans to continue calling his own.\""
+    },
+    {
+      "Key": "579035aa-e1b5-41c6-8faf-5d8bbb1f86f4",
+      "Value": "\"I've always thought it a good sign when hostile parties begin with conversation, rather than an arrow in the face. If you will spend your time insulting us, stranger, then you will surely spend a moment more to explain, in detail, what my race – and my subjects – might have done to offend you.\""
+    },
+    {
+      "Key": "a4c07398-2d40-44a1-83d1-77b5e1583352",
+      "Value": "\"Easy, Cephal. {Name} is right.\""
+    },
+    {
+      "Key": "af7b5232-0a25-4ab0-808e-9688d493ad16",
+      "Value": "{n}The centaur grins.{/n} \"You have an easy tongue, two-legged one. You seek to make us drop our guard.\""
+    },
+    {
+      "Key": "592d4f97-52d7-48d3-8ad7-a22fa3842488",
+      "Value": "\"What have we here? A two-legged with reason and dignity? Not like these others. They are deaf to our warnings.\" {n}The centaur nods at the settlers.{/n}"
+    },
+    {
+      "Key": "192a8c4c-61ff-4172-b4a2-198c86e81491",
+      "Value": "\"Fine, I will tell you. I will use the words of the ancient songs, and of Aecora Silverfire, who sees far further than any of your sages and rulers. We are the guardians of this land, and it is imbued with evil.\" {n}The centaur speaks in a measured melodic voice, carefully reciting a sacred teaching.{/n} \"Evil sleeps here, under each burial mound, under each obelisk with one-eyed skulls. And you, two-legged, dig this ground like moles, stealing secret treasures from the ancient graves, and tempting their dread magic. You will ruin all. The one who sleeps must continue his slumber. The caged one must remain behind bolt and bar.\""
+    },
+    {
+      "Key": "8f3d057c-50d1-4235-9505-bca4eddd0fc7",
+      "Value": "\"You have been warned. I would sooner believe a liar and a thief than a grave robber like you. Now fight for your lives or run!\""
+    },
+    {
+      "Key": "e186022c-6523-4e96-b1af-ae18c0839efa",
+      "Value": "\"Do you understand, two-legged one? I'm giving you a chance to take this rabble and leave. Go away from the City of Hollow Eyes, away from the burial mounds, away from the obelisks and the other cyclops ruins. If you turn away from the past, the Nomen tribe will leave you in peace.\""
+    },
+    {
+      "Key": "f16897b3-b5ff-4fea-8c6b-96613c69d3bf",
+      "Value": "\"Quiet, you two! I want to hear what they have to say.\""
+    },
+    {
+      "Key": "84f59d34-79a4-45a7-bd86-f621e5e9c142",
+      "Value": "\"Well that's just wonderful. By a rough estimate, he just demanded that we relinquish two thirds of the barony. – Including the most fertile fields and mines. Only the barren rocks in the mountains are free from cyclops ruins.\""
+    },
+    {
+      "Key": "8744b34d-f8f7-4dd0-afbf-8fe175e57db3",
+      "Value": "{n}Maegar nods.{/n} \"Listen, stranger. We cannot simply leave this land. But if your tribe will stop threatening the settlers, I will forbid them from entering the cyclops tombs. My soldiers will patrol the area and punish any trespassers. I would also like to meet the chiefs of your tribe. We should learn to live side by side. I would also like to learn more about the 'evil' that sleeps here.\""
+    },
+    {
+      "Key": "2a027ef9-4b3a-46f9-8dc7-9cd72be16444",
+      "Value": "\"The Nomen tribe is led by warrior priestess Aecora Silverfire.\"{n} The centaur speaks boldly, then frowns.{/n} \"I do not believe a word you say, human. But I will give you a chance. If the two-legged keep their noses out of the tombs, then we will let them remain. Let them plant their orchards and build their homes. But if a single one breaks our agreement, there will be trouble. You have been warned. Hunters! Follow me!\""
+    },
+    {
+      "Key": "7945f4b1-0d73-47dd-aca9-fd629ad452ee",
+      "Value": "{n}Maegar tries to interfere but doesn't get a chance. The centaur's face darkens, and his eyes light up in anger.{/n} \"A tale? I knew I should never have tried talking to you as equals. Hunters, to arms!\""
+    },
+    {
+      "Key": "7ef7146e-291a-40d7-a3fa-ec14d8e7e008",
+      "Value": "\"Quiet, Cephal, and you, {name}. I think we can – and must – try to come to some kind of agreement. But of course, without uprooting two thirds of our villagers, and leading them into the mountains where they'll eat moss and stone. Let us talk, stranger. I'm sure we can find agreeable terms.\""
+    },
+    {
+      "Key": "0ce52ccc-7f90-41b4-8af3-5fcabb7cb6c6",
+      "Value": "{n}The centaur shakes his head.{/n} \"Mother Moon is my witness. I wish to avoid bloodshed. But what we guard is more important than any of our lives, two-legged!\""
+    },
+    {
+      "Key": "03e84185-96b8-47c2-a786-6d2d098013dc",
+      "Value": "{n}The moment the centaurs have left, Cephal sheds his nonchalant mask and turns angrily to Maegar.{/n} \"What were you thinking?! These creatures are unpredictable savages, and from what we hear, fanatics as well. As soon as a trade caravan unknowingly stops at a wind-worn cyclops stele, or children run inside a tomb when playing hide-and-seek, they will return, and bring carnage with them. My friend, you can only make deals with equals, with those who think as you do. But not with half-humans, who attack villagers because of their primeval fables.\""
+    },
+    {
+      "Key": "ba0c1660-d94e-40f3-b9fe-d14335d7cd2b",
+      "Value": "{n}Maegar looks down quietly at the dead centaur bodies.{/n} \"This could have been avoided. I hope all their kin aren't such hotheads. I wouldn't want to begin my rule by slaughtering a whole centaur tribe.\" {n}He's growing more gloomy every moment.{/n}"
+    },
+    {
+      "Key": "28805ca2-7923-48eb-8566-f648498affd0",
+      "Value": "\"And how would you like your rule to begin? With a village slaughtered by centaurs? Like it or not, but we cannot tolerate fanatics like them near our villages. If you are incapable of seeing the great cost they would bring the barony, then think of the safety of your people. Would you want children testing their bravery in a cyclops' tomb to fall victims to these four-legged savages.\""
+    },
+    {
+      "Key": "f0dfa220-ad66-4501-b154-9f88ff8cd3b7",
+      "Value": "\"Your Grace... about the tombs... Our younglings did go there! To that huge stone vault sticking out of the ground, to the south!\""
+    },
+    {
+      "Key": "57523102-df63-4e23-b7b7-39fcbad071ad",
+      "Value": "{n}Maegar curses.{/n} \"When? I've half a mind to tell you about watching your children, but the truth is I was once young and stupid myself, and slipped my caretakers more than once. General! Regent! Let us go to that 'huge stone vault' and save the young fools. Drag them home by their ears if needs must.\""
+    },
+    {
+      "Key": "f717c700-a01f-48b0-8a15-53f487ec09c4",
+      "Value": "{n}Maegar turns pale.{/n} \"When?! Damn it, I only just promised the centaurs that none of us would set foot in the tombs. If they spot those fools poking around, there will be trouble. General! Regent! Let us go to that 'huge stone vault'!\""
+    },
+    {
+      "Key": "95697fa6-999a-4227-af53-da5df39ff2ce",
+      "Value": "\"And you would prefer to slaughter them all and be done with it? Until we discover their motives and learn their location and numbers, wouldn't you think it wiser to proceed with caution? This doesn't sound like you, old friend. You would execute a small patrol on a whim, to watch all of Varnhold burn tomorrow? No, we must learn what we can of their motives, and determine the need for an armistice. But do not imagine me blind to menace these centaurs pose to our villages. I will take any steps necessary to protect them. But that does not include slaughtering an entire patrol, or ultimately a whole tribe, simply because centaurs lack all skill at diplomacy.\""
+    }
+  ]
+}

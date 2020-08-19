@@ -1,0 +1,113 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "a71eaecc-5362-4a8d-a697-f52ca290513d",
+      "Value": "\"Have we met?\""
+    },
+    {
+      "Key": "a774e3c7-62e8-434f-9f40-677c839883a7",
+      "Value": "\"What are you doing here?\""
+    },
+    {
+      "Key": "2ff52118-f52c-4034-9856-461d1661843e",
+      "Value": "\"So, have you found anything?\""
+    },
+    {
+      "Key": "e8385e17-5dd6-4d62-8201-b303ee10464b",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "fffdab7e-0f79-497d-8778-9609054fe70b",
+      "Value": "\"You keep the treasure.\""
+    },
+    {
+      "Key": "40d42e4c-44af-439a-b389-43e4f64073f6",
+      "Value": "[Take the coins] \"Congratulations on the lucky find!\""
+    },
+    {
+      "Key": "f59a82dc-0bf6-4935-894d-2df8b5ce31ba",
+      "Value": "\"What do you mean, 'share'? You'll give me all you've found immediately.\""
+    },
+    {
+      "Key": "f11ddee1-500a-4b0f-af20-857c5ea7d165",
+      "Value": "\"Lucky you! You must have been kissed by Desna herself!\""
+    },
+    {
+      "Key": "4e204835-6c51-4146-9b8e-b35f561db236",
+      "Value": "\"Look! It's the {mf|baron|baroness|king|queen}! You've got yourself pretty far from the capital, haven't you?\""
+    },
+    {
+      "Key": "fb426d08-5b7b-447d-b53c-7244e896a68f",
+      "Value": "\"It's all thanks to you! Farewell, Your {mf|Grace|Grace|Highness|Highness} — here's hoping we see you again sometime!\" {n}Having handed you the coins, the treasure hunters leave.{/n}"
+    },
+    {
+      "Key": "514741bf-d30f-43c3-87f5-2a1ff34401fb",
+      "Value": "\"You don't remember us? Well, I guess you probably got too much on your plate to remember everyone you happen across... We're the folk you met in the {g|Narlmarches}Narlmarches{/g}! We were digging for treasure under a tree, but there wasn't anything there. Then you gave us a hint on where to go — without you, we'd still be stumping around that swamp, all for nothing!\""
+    },
+    {
+      "Key": "b3468018-0ba6-45c4-8e8c-e4891a4dd0e3",
+      "Value": "\"What do you mean, what are we doing here? You were the one who {d|c21 Golddiggers Random}pointed{/d} us out here toward the treasure, after all. It was a long walk, but we knew if the {mf|baron|baroness|king|queen} {mf|him|her}self told us to come here, it just had to be true!\""
+    },
+    {
+      "Key": "43b08f44-ce21-4adb-9523-bd61839507c7",
+      "Value": "\"What... but... But why? Shameful... That's just shameful! And to think, they call you 'Your {mf|Grace|Grace|Highness|Highness}'!\" {n}The peasants spit on the ground spitefully, but they hand over the treasure and leave hastily.{/n}"
+    },
+    {
+      "Key": "1a81f2f6-7a1c-4a15-b6ab-394d83aa7a62",
+      "Value": "\"You bet we did! We really found something good! Look at this!\""
+    },
+    {
+      "Key": "d787f72a-82dd-4441-bfce-9db6e724734e",
+      "Value": "\"Ah, Your {mf|Grace|Grace|Highness|Highness}, you're too kind! We'll pray for you every single day! Come along, fellows. Let's get out of here before we end up some monster's dinner!\" {n}The treasure hunters bow and leave.{/n}"
+    },
+    {
+      "Key": "9a1aae4d-2731-473d-8122-7dc1a2d2cc29",
+      "Value": "\"Wait, Your {mf|Grace|Grace|Highness|Highness}, don't leave yet! I'm telling you, we found treasure! The treasure you told us about. Take a look!\""
+    },
+    {
+      "Key": "90e85a6a-175f-4e5b-a17c-be2f3b33f01e",
+      "Value": "{n}The treasure hunter hands you a fistful of ancient coins, with a bit of soil mixed in.{/n} \"We're fair, honest folk, you know! You pointed us to the treasure — this is your share!\""
+    },
+    {
+      "Key": "2a894b76-a5ea-4738-9210-45776b1e5f8b",
+      "Value": "\"Not as far as you! How did you even get here in such... uneaten shape?\""
+    },
+    {
+      "Key": "c0f5b0a6-122d-4b1a-8dfe-08bb6983f271",
+      "Value": "\"Ha, who'd want us? Nothing really to take — even our meat is probably too dry!\""
+    },
+    {
+      "Key": "222cb904-505d-4ae6-86c5-790bf88c1bb7",
+      "Value": "\"I suppose the old saying is true: luck favors the fool and the drunkard...\""
+    },
+    {
+      "Key": "182d4b48-86b8-472e-8fdd-cf4ef2ba63cd",
+      "Value": "\"Hey, we're not drunks! I haven't had a single sip in over a month!\""
+    },
+    {
+      "Key": "bb2ce70a-10be-4df5-8d02-d86098c30025",
+      "Value": "\"No, no, never mind. Certainly not drunkards. Of course.\""
+    },
+    {
+      "Key": "b6086825-159b-4373-9752-ff809e3d9e72",
+      "Value": "{n}Valerie shakes her head, smiling slightly.{/n} \"They earned every coin of this treasure with the sweat of their brows. Leave these lucky ones to their reward.\""
+    },
+    {
+      "Key": "c5407a3e-df29-4130-bbcc-ec6129916a38",
+      "Value": "\"I hope you have wisdom enough to handle it properly.\" {n}Valerie looks at you with pride.{/n}"
+    },
+    {
+      "Key": "14b98546-541f-440b-8ca3-2f224e067af4",
+      "Value": "\"How can you be such an unprincipled egoist?!\""
+    },
+    {
+      "Key": "50ba404f-0b93-4026-9d36-08c1602b9934",
+      "Value": "{n}At the sight of gold, Nok-Nok's eyes gleam greedily. He begins scratching his hands as though trying to satisfy an itch.{/n} \"More. All. Take all. You rule — it's your right to take all!\""
+    },
+    {
+      "Key": "d68f84be-c964-4767-88d5-5a4f63e8d8ac",
+      "Value": "\"Oh, we're just normal folk — it's you who's been touched by her grace! I guess a bit of it just rubbed off on us!\""
+    }
+  ]
+}

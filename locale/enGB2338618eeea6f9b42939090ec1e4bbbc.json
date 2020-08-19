@@ -1,0 +1,1673 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "f00dc8b9-3823-4049-8029-32bd6b6cdf19",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "a95680f3-0ef1-476c-aedf-bc2ac1371f55",
+      "Value": "\"How could you tell it was me?\""
+    },
+    {
+      "Key": "d6d35ff8-abc1-4bac-8e43-8d3279b4718a",
+      "Value": "\"All right. Would you care to trade stories with me?\""
+    },
+    {
+      "Key": "0b23d817-6f22-4872-bc00-e0b2adc2a0a4",
+      "Value": "\"Remind me what it is you want from me?\""
+    },
+    {
+      "Key": "003eef7e-91da-47a8-933d-d1ca1d0eba75",
+      "Value": "\"I'll leave you to your legends. Till we meet again.\""
+    },
+    {
+      "Key": "5b6eb644-c0bd-4813-b906-c89e864c9802",
+      "Value": "\"I've brought some relics. Are any worthy of a story?\""
+    },
+    {
+      "Key": "14d85ea6-ceaa-4278-a1ac-a5da407dd919",
+      "Value": "\"Could you tell me one of your stories again?\""
+    },
+    {
+      "Key": "3f876d57-d86f-4dff-acd9-378998fa0b7c",
+      "Value": "\"I've found the shards of an ancient artifact. Can you restore it for me at the anvil?\""
+    },
+    {
+      "Key": "ffdf688f-8d9c-47bd-bd9b-e948966553fb",
+      "Value": "\"The story of the singing anvil.\""
+    },
+    {
+      "Key": "e0aebf64-d558-4973-8691-4ed310f42ab7",
+      "Value": "\"On second thought, I'd like to ask you about something else.\""
+    },
+    {
+      "Key": "b0875857-bdf1-4bc9-8785-ff2b75b21591",
+      "Value": "\"Tell me the story of the singing anvil.\""
+    },
+    {
+      "Key": "84350328-44b1-43d7-b7f5-33babbffe10f",
+      "Value": "\"Another time.\""
+    },
+    {
+      "Key": "9bfce166-9e0b-40b8-859f-f7bbc41cbd7e",
+      "Value": "\"Forge the Trailblazer's Helm for me.\""
+    },
+    {
+      "Key": "b2223556-c6f4-4e2d-a9c9-8331bd6b45e0",
+      "Value": "\"Please, continue.\""
+    },
+    {
+      "Key": "bb92eb1b-c394-4124-9710-b662befd6957",
+      "Value": "\"Why won't Master Dzarif let you work the anvil?\""
+    },
+    {
+      "Key": "68e3eaf2-2646-4a44-8e9b-2ff64d68c224",
+      "Value": "\"What are you making?\""
+    },
+    {
+      "Key": "d2abdfe5-44d3-43c0-b487-614ff7c723dd",
+      "Value": "\"Your stories are amazing. You make it sound as though you're actually there, in the moment.\""
+    },
+    {
+      "Key": "180bc433-e1aa-4ade-8e27-4c3da43a6ce5",
+      "Value": "\"But what happened to you — I mean, to Kolgan?\""
+    },
+    {
+      "Key": "1d1b899d-a279-441d-9d44-f7a9f28df741",
+      "Value": "\"What happened to the anvil after that?\""
+    },
+    {
+      "Key": "5413af7d-434c-428c-b622-8777fe741699",
+      "Value": "\"What makes this anvil so special? Is it enchanted?\""
+    },
+    {
+      "Key": "abed98c2-3dd5-4da1-92a5-ef25bf38973e",
+      "Value": "\"The tale of the Cypress Queen.\""
+    },
+    {
+      "Key": "4f8875d2-15d7-4ea6-8794-ee82cad3ee0f",
+      "Value": "\"What happened next?\""
+    },
+    {
+      "Key": "ff8df438-1f1a-4692-959f-b343e8007d3f",
+      "Value": "\"Why couldn't you go see the city for yourself?\""
+    },
+    {
+      "Key": "358f6aaf-3ca7-4e20-aafd-cb31ef5d779c",
+      "Value": "\"Did you fall in love?\""
+    },
+    {
+      "Key": "2f94fb7e-32d1-48e7-8d83-dbc131192d83",
+      "Value": "\"And then what?\""
+    },
+    {
+      "Key": "7726404a-8738-469b-a818-20258c8259d9",
+      "Value": "\"And what kind of functions did your fey court conduct?\""
+    },
+    {
+      "Key": "5aa1514d-4ebf-428f-9408-a2310c35d3e6",
+      "Value": "\"So, your kingdom wasn't real? It was basically just a game?\""
+    },
+    {
+      "Key": "4e979af5-5219-4e71-a136-ac7279babaa0",
+      "Value": "\"What happened to the knight?\""
+    },
+    {
+      "Key": "f05349aa-6554-49fe-8d1b-5bca1a3bc498",
+      "Value": "\"What happened to the village and the kingdom after that?\""
+    },
+    {
+      "Key": "65bf77b5-f2a9-479e-8b1b-2a676cb6c1ff",
+      "Value": "\"Tell me the story of the Cypress Queen.\""
+    },
+    {
+      "Key": "5c96c76f-bb57-4526-ae1c-e7a49b7f7d21",
+      "Value": "\"Restore the Forest Knight's Bracers for me.\""
+    },
+    {
+      "Key": "c55c7af1-4b88-42cd-9327-61ba3d2640ca",
+      "Value": "\"The chronicle of the Fallen Soldier.\""
+    },
+    {
+      "Key": "f562c0af-f8a1-41ec-90e9-2a92f087766f",
+      "Value": "\"Go on.\""
+    },
+    {
+      "Key": "7e09530a-bf28-4afc-97de-0eec1f662655",
+      "Value": "\"Ghol-Gan? I thought the cyclops empire was called Koloran.\""
+    },
+    {
+      "Key": "718b5119-6d6b-4f35-b0fa-9d0b85cdb8a6",
+      "Value": "\"How long have you been on your mission?\""
+    },
+    {
+      "Key": "0f46981b-8898-415d-b00c-95d55fae6529",
+      "Value": "\"Do you worship the sun?\""
+    },
+    {
+      "Key": "72330258-24f0-4a43-a6a0-cc3522b532a2",
+      "Value": "\"Why do you wage war against the serpentfolk?\""
+    },
+    {
+      "Key": "de567325-20f8-4e50-9aa8-4419db17a399",
+      "Value": "\"Go on.\""
+    },
+    {
+      "Key": "ec6ae1f8-9175-43ea-9ebd-fec00d90e843",
+      "Value": "\"What beings do the serpentfolk worship?\""
+    },
+    {
+      "Key": "3c44296e-482e-4f2d-b302-251248fd19b8",
+      "Value": "\"Did you kill many serpentfolk?\""
+    },
+    {
+      "Key": "18cd1733-1a71-427d-af4c-d8ce15e65995",
+      "Value": "\"Go on.\""
+    },
+    {
+      "Key": "35a7a694-fc13-4415-9e45-bd8010881224",
+      "Value": "\"Won't you end up executed for treason?\""
+    },
+    {
+      "Key": "c5f6d0a2-c4fb-47fe-9e87-77ffc5ca9271",
+      "Value": "\"Do you still sacrifice cyclopes?\""
+    },
+    {
+      "Key": "733f5caf-d36b-4078-b411-fdbf888d85a0",
+      "Value": "\"What happened to Ghol-Gan after that?\""
+    },
+    {
+      "Key": "88d87cf8-8917-43dd-a2b3-acd9e234ab6c",
+      "Value": "\"How was Koloran founded?\""
+    },
+    {
+      "Key": "094fe3e2-886f-481a-a629-612c55a760d7",
+      "Value": "\"Thank you for the story!\""
+    },
+    {
+      "Key": "c2f19f7f-7eb2-4630-be9f-06fd8709317f",
+      "Value": "\"Tell me about the Fallen Soldier.\""
+    },
+    {
+      "Key": "29f6fd7d-735c-4ac1-8a40-8c250bad3cbc",
+      "Value": "\"The legend of the gemstone cave.\""
+    },
+    {
+      "Key": "cf0f6f5a-545b-40dc-9e5e-d2e87a220c43",
+      "Value": "\"Why did the army leave the gems untouched?\""
+    },
+    {
+      "Key": "1283dfe8-b958-4d8e-9cba-be05930eef25",
+      "Value": "\"What will you do when you find the mine?\""
+    },
+    {
+      "Key": "0095da79-d659-480d-a0bd-b90d7fd06130",
+      "Value": "\"Why do you think the gems are still there a thousand years later?\""
+    },
+    {
+      "Key": "18efb167-034d-42a8-bb6d-b99fb9c0a718",
+      "Value": "\"What exactly did the old kobold yell?\""
+    },
+    {
+      "Key": "cf02e0eb-dce3-4599-87f3-737f698eca19",
+      "Value": "\"Did you try exploring the mounds?\""
+    },
+    {
+      "Key": "9119c581-2dec-4dc9-bc99-35bcdfded5b7",
+      "Value": "\"What did you do with the exhumed remains?\""
+    },
+    {
+      "Key": "a179d635-1c47-4fa0-8dc8-d2d9b65216e7",
+      "Value": "\"What happened to the city after Jaxine died?\""
+    },
+    {
+      "Key": "76a2c873-1c2b-418f-9629-50bd9c9d9177",
+      "Value": "\"Thank you for the story!\""
+    },
+    {
+      "Key": "ea16211b-f595-4f86-938e-a4bb84cd0aa2",
+      "Value": "\"Restore the Ring of Reckless Courage for me.\""
+    },
+    {
+      "Key": "e6605132-37c0-4418-9dfb-dea2513c3f80",
+      "Value": "\"Restore the Cloak of Sold Souls for me.\""
+    },
+    {
+      "Key": "311584c8-ae44-4fc4-9e36-cd2af6f40972",
+      "Value": "\"Tell me about the gemstone cave.\""
+    },
+    {
+      "Key": "162e76fa-6858-4678-ba25-7d19d8a4bfb3",
+      "Value": "\"Tell me more about this disease. Could it cause a new epidemic among my subjects?\""
+    },
+    {
+      "Key": "98b7ccd3-21fd-4482-a9da-134a1100083d",
+      "Value": "\"Restore the Necklace of Double Crosses.\""
+    },
+    {
+      "Key": "2f691645-c4f9-4aa1-8cbe-6c175a6e04d8",
+      "Value": "\"Tell me about the Drowned Trees!\""
+    },
+    {
+      "Key": "fc2a9ab1-d8c5-44dc-9172-64a2e2fe6a5a",
+      "Value": "\"Tell me of the journey to the Drowned Trees.\""
+    },
+    {
+      "Key": "91302198-5efc-4d69-b4c4-8a019e5ba423",
+      "Value": "\"Please continue.\""
+    },
+    {
+      "Key": "3cc2c45d-2f23-462a-bc43-224594e01f2c",
+      "Value": "\"Who is in your group?\""
+    },
+    {
+      "Key": "544697d1-671f-4819-90cd-d3fd802fd566",
+      "Value": "\"Why do you question the prisoners?\""
+    },
+    {
+      "Key": "09ca9efb-191d-4657-9e6d-de67701e230a",
+      "Value": "\"Have there always been so many bandits in the Stolen Lands?\""
+    },
+    {
+      "Key": "e5df2f62-b0f9-441d-9856-423d1284db4b",
+      "Value": "\"Please continue.\""
+    },
+    {
+      "Key": "8820aa3d-6145-4224-9ff9-2ebe8c837892",
+      "Value": "\"Even if you sneak into the bandit camp unseen, how will you handle all of them?\""
+    },
+    {
+      "Key": "15f541a3-0ea5-4898-ad25-080deb7e9997",
+      "Value": "\"What kind of a secret entrance?\""
+    },
+    {
+      "Key": "a4d4492c-7af0-4147-ad9c-fee2376a4dc2",
+      "Value": "\"Please continue.\""
+    },
+    {
+      "Key": "897c1578-ab56-492e-b4cf-f12696711fd0",
+      "Value": "\"Do you find anything useful in Dargut's lair?\""
+    },
+    {
+      "Key": "af21a059-613f-4be9-a1e7-6a5870398eb9",
+      "Value": "\"So the bandit wanted to set you up, but he played right into your hands?\""
+    },
+    {
+      "Key": "28778dfd-ff1e-4c3f-b58a-d4f687e74cf2",
+      "Value": "\"Wait... Is this the story of Jamandi Aldori? But she's still alive!\""
+    },
+    {
+      "Key": "1f99d795-e057-4918-a2ca-70dfe95b49a9",
+      "Value": "\"If Jamandi has once cleared the Stolen Lands of bandits, why must we do it all over again?\""
+    },
+    {
+      "Key": "9462f6fd-94f9-4fc3-b56d-1276256ba73c",
+      "Value": "\"What kind of a monster was this Dargut Droon?\""
+    },
+    {
+      "Key": "c089cbf9-9910-47a2-87e8-2b6273e8a233",
+      "Value": "\"I need a wise advisor at my court. Would you like to serve me in matters of state?\""
+    },
+    {
+      "Key": "f7217a69-e227-4f9d-8ad6-ddf245256c3b",
+      "Value": "\"How are you handling your new job?\""
+    },
+    {
+      "Key": "2e7b7a9b-ef03-48a0-80fd-6905973913dc",
+      "Value": "\"Everything is prepared for the Dream Ritual. I am ready.\""
+    },
+    {
+      "Key": "60514f6f-577c-426b-a7e8-d1b6994dbb64",
+      "Value": "\"I've found a remarkable artifact. Can you tell me anything about it?\""
+    },
+    {
+      "Key": "a326fca4-9a58-41e1-8a68-b9e0538dce4b",
+      "Value": "[Give Briar to the Storyteller]"
+    },
+    {
+      "Key": "680e0808-6a06-4bb9-ab14-267b48f52611",
+      "Value": "\"Thank you for your help.\""
+    },
+    {
+      "Key": "824a539f-d64e-4726-8b58-94a072f54616",
+      "Value": "[Give Ovinrbaane to the Storyteller]"
+    },
+    {
+      "Key": "449d3f57-0c32-4f01-86f5-6cea9bbfac4b",
+      "Value": "\"Restore the Armor of Saber-Toothed Courage.\""
+    },
+    {
+      "Key": "3eb03644-bb5a-4d38-ad2a-88abace60e41",
+      "Value": "\"Restore the Star Commander's Glove.\""
+    },
+    {
+      "Key": "8fe958fb-51a2-4dfd-bbc6-a3680e00eb19",
+      "Value": "\"Tell me about the Forsaken Tomb.\""
+    },
+    {
+      "Key": "53c8f6b5-9aa5-44c7-80fb-393dfa8605f3",
+      "Value": "\"Tell me about the Technic League outcasts.\""
+    },
+    {
+      "Key": "684aa936-1d31-46e9-8a91-6dcb88227958",
+      "Value": "\"The tale of the Forsaken Tomb.\""
+    },
+    {
+      "Key": "4c726f3a-6b41-473f-95d9-138c34a91b16",
+      "Value": "\"The Technic League outcast's diary.\""
+    },
+    {
+      "Key": "04c1d883-d96b-4ccc-a6b1-00ae3e3bb61f",
+      "Value": "\"Please, continue.\""
+    },
+    {
+      "Key": "72ddfbae-32a4-427d-8887-cd9d2a89a1a0",
+      "Value": "\"Are the young tribe members supposed to make it to Armag's burial chamber?\""
+    },
+    {
+      "Key": "ae97b550-4142-4241-97b1-7e4bbf59178f",
+      "Value": "\"Tell me about your clan.\""
+    },
+    {
+      "Key": "23741f93-befc-46a9-986c-9154ba0cff16",
+      "Value": "\"What's wrong? Are you unhappy with your clan's posting?\""
+    },
+    {
+      "Key": "42bf8367-1f39-4d6b-a47a-9f324bab54a3",
+      "Value": "\"Please, continue.\""
+    },
+    {
+      "Key": "1245f450-5e67-45d0-ab12-1aaec0ee0ddf",
+      "Value": "\"Can't your tribe's clerics heal your daughter's arm?\""
+    },
+    {
+      "Key": "4d21b4af-30db-4b04-9823-e5e157082232",
+      "Value": "\"Does everyone in your clan know the tomb's location?\""
+    },
+    {
+      "Key": "b31b605b-7470-4a53-b03b-3f13e246bd72",
+      "Value": "\"How did the war with the Taldans end?\""
+    },
+    {
+      "Key": "1d9a7ff3-16d4-4de7-95ed-c75360d75e9f",
+      "Value": "\"What happened to Adra's daughter?\""
+    },
+    {
+      "Key": "c2327908-db0b-45c7-8939-484385aec324",
+      "Value": "\"Thank you for the story!\""
+    },
+    {
+      "Key": "12c3c46f-89a2-4cf6-af88-c1f6574755b9",
+      "Value": "\"Please, continue.\""
+    },
+    {
+      "Key": "57b29e3a-bc70-48f4-a3e9-7072fc201744",
+      "Value": "\"Why did you flee the Technic League?\""
+    },
+    {
+      "Key": "765dd87a-6936-45e8-ba7c-c829239366c0",
+      "Value": "\"What exactly can your artifact do?\""
+    },
+    {
+      "Key": "490dd415-3c2d-451e-a08c-4401006147a7",
+      "Value": "\"Please, continue.\""
+    },
+    {
+      "Key": "fc7ecc61-e943-4a7d-8242-e5239625cfc6",
+      "Value": "\"Where will you get battle robots?\""
+    },
+    {
+      "Key": "69d3708a-97da-43bf-8e77-8b7074ad9f61",
+      "Value": "\"Please, continue.\""
+    },
+    {
+      "Key": "6a75464d-997d-4066-9fe8-2b03e9837e87",
+      "Value": "\"What's wrong? Are you ill?\""
+    },
+    {
+      "Key": "eb5c0eda-641c-49b0-bb95-2de9a39fafbc",
+      "Value": "\"Are you all right?\""
+    },
+    {
+      "Key": "51d672fa-4c5d-469d-96e4-dfc8787ae271",
+      "Value": "\"Thank you for the story!\""
+    },
+    {
+      "Key": "7fe97885-2e0f-4e2b-8e98-15bb8a38b6c9",
+      "Value": "[Give the Oculus of Abaddon to the Storyteller]"
+    },
+    {
+      "Key": "542ec5e8-1d18-49f4-bb4e-c31258ff039e",
+      "Value": "\"The captain of the guard told me you had a fight with Valerie.\""
+    },
+    {
+      "Key": "5f4395df-d3a3-4ded-b474-99c862080e90",
+      "Value": "\"What was the fight about?\""
+    },
+    {
+      "Key": "25bc2d60-c4f9-4adc-8d24-f691e965c793",
+      "Value": "\"Do you think Valerie has been acting strange lately?\""
+    },
+    {
+      "Key": "efefba0d-7824-4d0e-94df-770306105943",
+      "Value": "\"That's all I wanted to know.\""
+    },
+    {
+      "Key": "99f38045-414c-4e76-9840-d0d5383128d2",
+      "Value": "\"A Vudrani asked me to show you this spear fragment. Can you tell me anything about its owner?\""
+    },
+    {
+      "Key": "a00c387e-561b-4b4b-b815-a21203f702ed",
+      "Value": "\"Are you really an elf? Do other elves age like you have?\""
+    },
+    {
+      "Key": "22d6d7ad-8bde-4805-a601-7e91d35757be",
+      "Value": "\"The royal guard's confession.\""
+    },
+    {
+      "Key": "3271b248-aaab-4705-ad1c-ba2ba1d32dd7",
+      "Value": "\"Who are the Sisters?\""
+    },
+    {
+      "Key": "bf308da0-7542-48ce-89f4-634c51e69abf",
+      "Value": "\"Let me guess — His Highness's crown was missing?\""
+    },
+    {
+      "Key": "6a37c600-4eb5-448f-aaa3-7a668eb637f6",
+      "Value": "\"Please continue.\""
+    },
+    {
+      "Key": "48828489-47db-4106-88c9-0445032009f6",
+      "Value": "\"You mentioned cyclopes?\""
+    },
+    {
+      "Key": "31f0bdae-ffb3-46ce-974f-9d1ac6ab1863",
+      "Value": "\"Who do you think is right?\""
+    },
+    {
+      "Key": "b747f89d-83f7-4954-882f-e18d5781a0fa",
+      "Value": "\"Please continue.\""
+    },
+    {
+      "Key": "8fb34cfc-6433-4e02-a2c4-6f2743e8aaeb",
+      "Value": "\"Do you think the princess is innocent?\""
+    },
+    {
+      "Key": "cd0f0f38-7ab1-4829-90f2-175b70b58768",
+      "Value": "\"Please continue.\""
+    },
+    {
+      "Key": "af4ec2e3-e2a9-48ba-b97b-b539117bece4",
+      "Value": "\"Was it all a plot by the Sisters?\""
+    },
+    {
+      "Key": "d6ba93c1-2aff-4104-b08b-9c2be72b9ab4",
+      "Value": "\"What happened to the banished guard captain?\""
+    },
+    {
+      "Key": "aa053338-694b-4fad-9352-b790b8703a34",
+      "Value": "\"Thank you for the story!\""
+    },
+    {
+      "Key": "197d3fa9-78af-4707-9018-482a2cb86648",
+      "Value": "[Give the First Crown to the Storyteller]"
+    },
+    {
+      "Key": "14ca63bd-789d-49c6-a310-336f5ac4bfb8",
+      "Value": "\"Tell me about the kingdom of ancient elves.\""
+    },
+    {
+      "Key": "0a885121-abfa-43ad-87dc-1874e2dc7aff",
+      "Value": "\"The story of the thief of secrets.\""
+    },
+    {
+      "Key": "9b946769-8fb0-425f-8162-72467e0ece8f",
+      "Value": "\"Please go on.\""
+    },
+    {
+      "Key": "36f02cde-6abe-49c1-9d83-8005161fd1c5",
+      "Value": "\"What are you stealing this time?\""
+    },
+    {
+      "Key": "5d078d02-14a5-4c8c-b4c6-68cb74d9ffe6",
+      "Value": "\"Why do you call yourself the 'thief of secrets'?\""
+    },
+    {
+      "Key": "38c39352-3671-471c-9a3d-923d9379d540",
+      "Value": "\"So what happened then?\""
+    },
+    {
+      "Key": "82bb3a1b-f0fe-4b2d-9f88-14c486a5f5bd",
+      "Value": "\"How are you going to pass through the traps? You've never been able to do it before.\""
+    },
+    {
+      "Key": "e28a39f4-a2c4-402e-82f5-22f707c718d3",
+      "Value": "\"Is that all?\""
+    },
+    {
+      "Key": "52470f01-aa9d-4d88-9f38-e9cc20ac4158",
+      "Value": "\"Thank you for the story, Storyteller.\""
+    },
+    {
+      "Key": "cbb08f01-f8a3-4326-abb9-abfdd1ea0adb",
+      "Value": "\"So what was he hiding?\""
+    },
+    {
+      "Key": "35891548-d760-43a7-9aea-ebb01ff20c9b",
+      "Value": "\"Tell me the story of the thief of secrets.\""
+    },
+    {
+      "Key": "ac1dce00-d440-490d-b8df-a488f7b89887",
+      "Value": "{n}The old man stares past you with unseeing eyes. He seems to be consumed in his thoughts. He mutters a soft melody, swaying back and forth slightly to its rhythm.{/n}"
+    },
+    {
+      "Key": "c633f8a1-8cf2-4e2a-923c-a95d77c3d050",
+      "Value": "{n}The Storyteller twitches as you approach.{/n} \"Ah, {mf|Your Grace|Your Grace|Your Highness|Highness}. My stories are calling for you. Have you come to answer their call?\""
+    },
+    {
+      "Key": "a8c136fd-a7bd-4f93-860f-5d6a0d7de4cb",
+      "Value": "{n}The man shudders briefly and stops singing. His mouth opens and closes a few times, bringing to mind a fish brought ashore.{/n} \"Ah, who is there? Is that you, Your Grace?\""
+    },
+    {
+      "Key": "19e3555e-61b9-4e8d-b4a7-1786f1a16dbe",
+      "Value": "\"I am an elf from {g|Kyonin}Kyonin{/g}. My name... is not important. I am the Storyteller, collector of stories. I collect unknown legends of ancient times.\" {n}The man smiles, but it doesn't seem to be directed toward you.{/n}"
+    },
+    {
+      "Key": "900550c0-17d7-4cd8-ba1f-47b195decce7",
+      "Value": "{n}The old man smiles slightly.{/n} \"It is not so hard to recognize a ruler by the way {mf|he|she} walks. No one in here steps as confidently as you, Your Grace.\""
+    },
+    {
+      "Key": "df0cfcb3-fb52-4cd3-b902-82c2d5c07bba",
+      "Value": "{n}The man's voice rustles like autumn leaves.{/n} \"I am a collector, not a trader. If I share a story with you, you receive the power to pass it further, changing or embellishing it, whether willingly or not. Can I be certain you will keep my stories intact in their absolute purity?\" {n}The Storyteller ponders for several moments.{/n} \"No, I do not think so. At least, not yet.\""
+    },
+    {
+      "Key": "c48a2cd2-9b08-4871-b6d4-5c214d2cb0eb",
+      "Value": "\"Long ago, I was a smith in {g|Kyonin}Kyonin{/g}. The fire of the forge has burned out my eyes, but I am grateful for it. If I could see, I would yet forge suits of armor for Iadara's guards. Instead, I have stepped on the path of an adventurer and gatherer of ancient legends.\""
+    },
+    {
+      "Key": "f9381f17-e4c5-4fe2-83a5-b63ea4c83e26",
+      "Value": "{n}The old man ponders silently for a moment.{/n} \"Many peoples are long dead, their homes crumbled to dust, and their bodies turned to ash. Only legends can still tell us of their triumphs and defeats, their joys and fears. I would be so interested to hear the stories told about us after our demise...\""
+    },
+    {
+      "Key": "b7c937d4-0be0-4c22-b44e-01fd850a64c1",
+      "Value": "{n}The Storyteller doesn't answer, his unseeing eyes staring ahead blankly.{/n}"
+    },
+    {
+      "Key": "fd5adcff-98ba-4e73-b0be-6483016c1f5e",
+      "Value": "\"In your travels, pay special attention to items from ancient eras. There must be an abundance of such things throughout the Stolen Lands, for these lands remember stories of the rise and fall of many kingdoms.\""
+    },
+    {
+      "Key": "6576eb05-59f6-4824-9cff-c5a0fc9e2824",
+      "Value": "\"These legends are the most precious valuables of this world, the last remnants of ancient tribes. They are beacons illuminating the way to the past, allowing us to meet generations long gone. I cannot let their light fade. The path to the past must not be lost.\""
+    },
+    {
+      "Key": "d6e7231b-fd1c-4ff3-a0f5-f06cb97f39be",
+      "Value": "{n}The old man thinks for a moment, then continues.{/n} \"But I can offer you a deal, Your Grace. If on your journeys you discover items that come from eras past, bring them to me. And if my eyes can see the stories that these relics hold, I will gladly share them with you.\""
+    },
+    {
+      "Key": "c052af43-11e5-4160-a4f8-d4ada11342d2",
+      "Value": "\"And if you find all the pieces of any ancient artifacts, I can even recall my smithing skills to unite them and restore their power.\""
+    },
+    {
+      "Key": "ee6603e7-a5a8-4988-8158-8f90c71dffe9",
+      "Value": "{n}The Storyteller's eyebrows raise.{/n} \"How interesting! May I, Your Grace?\" {n}He gently touches the items from your pack.{/n}"
+    },
+    {
+      "Key": "46d2097b-43dc-4053-a424-6d07987d6c65",
+      "Value": "\"It would be my pleasure. Which of my stories calls to you?\""
+    },
+    {
+      "Key": "faee90e8-1e83-4dea-88c5-b2db2b4a1add",
+      "Value": "{n}The Storyteller finishes his inspection.{/n} \"Remember me, should you find anything noteworthy.\""
+    },
+    {
+      "Key": "0789ecb8-1cbf-427c-8ce0-faa56022f07b",
+      "Value": "{n}The Storyteller inclines his head respectfully.{/n}"
+    },
+    {
+      "Key": "3de11956-b4f0-4144-8f29-6181f044c02c",
+      "Value": "{n}The Storyteller touches the pendant with {g|Torag}Torag's{/g} mark.{/n} \"Oh, the symbol of Torag. The children of stone wear such pendants as protective talismans. I will gladly purchase any you have.\""
+    },
+    {
+      "Key": "31bf9d78-2819-4e7a-9e51-00aeb3e45271",
+      "Value": "{n}The Storyteller's fingers caress the symbol, shaped like a tree leaf.{/n} \"And what is this? I hear the voices of trees, smell the scent of fresh leaves. A dryad mark, is it not? I would be happy to purchase it from you!\""
+    },
+    {
+      "Key": "b1fb71c1-59db-4c53-9ae3-e9f01b703c86",
+      "Value": "\"Oh, now here is something truly impressive! These items once belonged to a dwarven smith, and they wish to tell us their story...\" {n}The Storyteller shakes his head sadly.{/n} \"But too much has been lost. Too much forgotten. The story of this smith eludes me. Please, find the rest of the five missing items and return them to me as soon as you can!\""
+    },
+    {
+      "Key": "7432fe46-f003-4c6e-bede-0b4be766e976",
+      "Value": "\"Oh, now here is something truly impressive! These items once belonged to a dwarven smith, and they wish to tell us their story. I hear the booming strokes of a hammer, the sizzling sparks and roaring flame of the forge... The anvil... it sings!\""
+    },
+    {
+      "Key": "883c4142-2298-4d78-8f54-d488d5c31cbe",
+      "Value": "\"The air is so fresh! It is like I am back home, in the woods of my motherland. I can feel a soft breeze through my hair.\" {n}The Storyteller takes a deep breath and laughs.{/n} \"Some of the five items are still missing, though, {name}, so the full story of this forest remains a mystery to me.\""
+    },
+    {
+      "Key": "3d5b733f-1d4a-4fb9-a0a1-945fb78c30a2",
+      "Value": "\"I see the flames of the forge. It is so close I can touch it. The heat sears my face, and the sparks sting my cheeks. But there is no fear in my soul, only admiration and reverence for the work of an artist.\" {n}The Storyteller seems to be in some sort of trance. His unseeing eyes reflect the flames of a forge that burned out long ago.{/n}"
+    },
+    {
+      "Key": "4ceaf119-6f25-40eb-8f45-7ec4db3ced81",
+      "Value": "\"I would be happy to trade the whole set of items for their story. Can you hear it calling to us? Let us hurry!\""
+    },
+    {
+      "Key": "12b71b17-5ec9-44f9-93ce-5e88a1640bc7",
+      "Value": "\"May I?\" {n}The Storyteller gently touches the items from your pack.{/n}"
+    },
+    {
+      "Key": "d3fd37c9-c452-490a-852a-16067359f237",
+      "Value": "\"Oh, you found shards of the Trailblazer's Helm! If reforged, such a helm would serve you well. It would also share its story with us. For that, I would gladly take up the smith's hammer once more! Find the remaining of the ten shards and bring them to me!\""
+    },
+    {
+      "Key": "d230fe1b-29dc-43b6-bb75-36c205915299",
+      "Value": "\"So, what is your answer? Will you entrust me with this treasure?\" {n}The Storyteller eagerly awaits your response.{/n}"
+    },
+    {
+      "Key": "e83f2647-82ff-428a-8c14-3e31681841b1",
+      "Value": "\"Oh, you found all of the shards of the Trailblazer's Helm! Incredible! Let me forge them back together. I cannot wait to hear their story!\""
+    },
+    {
+      "Key": "f5d96015-2a1a-4f84-b3b0-b4ff040ece3f",
+      "Value": "{n}The Storyteller reverently takes the shards.{/n} \"Thank you,\" {n}he whispers.{/n} \"This will be one of my finest works! A small remnant of my gift will reside in this helmet, so you may recall its legend on your own.\""
+    },
+    {
+      "Key": "bfb1cec8-3f75-463a-bd72-fcc3c4066e78",
+      "Value": "\"I am Kolgan, an apprentice of the great Dzarif, the First Smith of {g|Bronzeshield Fortress}Bronzeshield Fortress{/g}, and I am fascinated by the work of a true master. The smith's hammer is raised in the air, the forge bellows roar, the sparks sizzle, and rhythmic ringing fills the room. The anvil, called the Searing Palm, replies with a happy, booming voice. This music, this song overwhelms my being. I feel a tear of joy run down my cheek and hastily wipe it away, for it is proof of my weakness.\""
+    },
+    {
+      "Key": "ad771d2f-6432-4bad-9925-6674aa641789",
+      "Value": "\"The tongs in my hands are covered with soot. I help the master all I can, but I am not allowed to raise my own hammer over the anvil. Master Dzarif protects his anvil zealously, won't let anyone else near it. It usually offends me, but not now. Now, my heart follows the ringing beat of a fiery song.\""
+    },
+    {
+      "Key": "e3668dec-6a35-477d-ad43-bea7ebe29848",
+      "Value": "\"I... can't see. I don't know. I don't care.\" {n}The Storyteller shrugs and frowns.{/n} \"This is my master's work, not mine. It doesn't bother me.\""
+    },
+    {
+      "Key": "59b5d110-2170-48cc-b83b-7b5a7843f6fe",
+      "Value": "\"He says I'm not worthy. He says I have no talent, no spark of creation in my soul.\" {n}The Storyteller's lips curl with contempt.{/n} \"He says that all I can do is copy the work of others.\""
+    },
+    {
+      "Key": "f7341241-1683-4fb7-bce3-ca5f4d452ee2",
+      "Value": "\"All I hear is silence. {g|Bronzeshield Fortress}Bronzeshield Fortress{/g} is sound asleep, save for the blinking of the signal bonfires. No one knows of the blasphemy about to be committed in the heart of the fortress.\" {n}The Storyteller chokes down a lump in his throat.{/n} \"I push open the door of the smithy. I fear the door's squeal of protest will wake everyone, but silence quickly returns. I take a step inside.\""
+    },
+    {
+      "Key": "509c38e1-c7b3-4fb0-a5c9-70107a6bcf08",
+      "Value": "\"I stoke the fire and don my soot-smeared apron. Long have I dreamt of the anvil — it calls to me. Its alluring voice captivates me. Its ringing is full of promise. Tonight, I will work the anvil myself! Tonight, I'll become a creator! And Master Dzarif, upon seeing my work, will be forced to accept me as his equal! The fire rises to the ceiling, and I raise my hammer to make the first stroke.\""
+    },
+    {
+      "Key": "b37be206-c6d9-4449-8cf3-38d3b798134d",
+      "Value": "\"Something's wrong. When did I make a mistake?!\" {n}The Storyteller's face collapses.{/n} \"The anvil... it won't sing. It moans under my hammer. Instead of sweet music, I hear cries of pain, begging me to stop. I clench my teeth and strike again. And again. And again. I will MAKE it work. It WILL sing for me, even if I must torture it to do so.\""
+    },
+    {
+      "Key": "a6219b1c-8397-4e72-a710-460a01f84cd9",
+      "Value": "\"The moans of the anvil become a monotonous rumble. But I can't stop. The smithy door swings open, and Master Dzarif stands before me, disheveled and furious. He screams curses at me, but I can't hear them. The metal of my work crumbles under my hammer, but I can't see it — my eyes are blinded by tears.\""
+    },
+    {
+      "Key": "c5db5093-4d2a-4fc3-a490-6ffc6237390d",
+      "Value": "{n}The Storyteller shakes his head to clear it of the visions, a weary smile on his face.{/n} \"Well, that is it.\""
+    },
+    {
+      "Key": "b2b3a007-2393-489d-97f4-5b4761154d69",
+      "Value": "\"It lost its voice. {g|Bronzeshield Fortress}Bronzeshield Fortress{/g} never again heard it sing.\" {n}The Storyteller sighs.{/n} \"It was still functional, and the weapons made on it were durable, but nothing more. No master ever managed to craft a masterpiece there again.\""
+    },
+    {
+      "Key": "dbddd8ee-9e34-4129-b897-6f49b7bb61cb",
+      "Value": "\"The dwarven weapons gradually lost their enchantments, and defending against local dangers became increasingly difficult. I suppose Kolgan's desecration was a strong contributor to the dwarves' eventual abandonment of the fortress.\""
+    },
+    {
+      "Key": "df46514b-bbb5-4f0e-adbc-b08b539b73d4",
+      "Value": "\"I — he left. Hung his apron on the hook, tossed away his hammer and tongs, and left {g|Bronzeshield Fortress}Bronzeshield Fortress{/g}. Deep in his heart, Kolgan knew that Master Dzarif was right all along. Kolgan's hammer would never create a masterpiece. Hard work is a poor substitute for inspired talent. Kolgan turned his eyes to {g|Droskar}Droskar{/g}.\""
+    },
+    {
+      "Key": "7ef32b84-1d11-4bdb-8490-6ab3df3b3c6e",
+      "Value": "\"The god of the dark dwarves accepted this new follower. The duergar gave Kolgan shelter and provided him with unceasing, tiresome work. Work that required no talent, just endless routine.\""
+    },
+    {
+      "Key": "52cbbaba-042c-4eb9-83c5-4a06ba1c9a73",
+      "Value": "\"He crafted weapons for the duergar army, and nobody expected masterpieces of him. He soon forgot all about the Searing Palm, Master Dzarif, and the blasphemy he had committed. And it seems to me that, there, in the dark tunnels, serving {g|Droskar}Droskar{/g}... Kolgan finally found happiness.\""
+    },
+    {
+      "Key": "712dc7dc-ab14-481b-bf3a-9e0d6fb402cb",
+      "Value": "{n}The Storyteller nods.{/n} \"I gained this gift after I lost my eyes. When I touch relics, I can feel the thoughts and emotions of those who previously owned them. If the emotions are strong enough, I can even see the events that left those impressions.\""
+    },
+    {
+      "Key": "890a0872-2846-4a21-a038-d82b16c54523",
+      "Value": "\"The anvil was created by Ordleif Langebukk herself in ancient times, when the dwarves, full of hope and inspiration, built fortresses along the Shield Road. Ordleif gave this anvil her voice and named it the Searing Palm. Ever since, the anvil sings hymns in praise of the sublime crafting skill of its great mother-creator.\""
+    },
+    {
+      "Key": "c64bbadc-1b57-4fb8-a4f6-13ed65e88b03",
+      "Value": "\"I hear the noise of the capital. Merchants shouting, horses neighing, soldiers' armor clanking... But this is all from far away, from beyond the tall walls of the palace garden. The noise is barely audible through the lush vegetation. But here, in the cool stillness, I can hear two lovers whisper beneath the shadow of an ancient cypress tree. I... I'm not one of them. No, I'm just a frail cypress twig.\""
+    },
+    {
+      "Key": "4d22b3a1-94af-4600-8456-8dc46e2bbc73",
+      "Value": "\"These two cannot be together. She is a queen, and he is her loyal knight — perhaps too loyal. But their love could not be kept secret for long. The king ordered the knight executed, but the knight managed to slip away to the wilderness of the Narlmarches in the Stolen Lands. He hid there, away from civilization, with only animals and birds to keep him company. To remember his lost home, he brought a cypress twig with him and planted it in front of his hut.\""
+    },
+    {
+      "Key": "146e1991-fb38-4f8f-bbf6-3915b9efd500",
+      "Value": "\"The tree took root, and the knight spent long hours talking to the cypress, imagining it was his queen. And one day... one day, I answered. Since ancient times, these lands had been home to the fey, so it's little surprise that a dryad would be born within the tree. We became friends. He told me of his homeland, and his beloved queen, and the merry life at court — the celebrations, the parades, the tournaments... I wanted so badly to see it all with my own eyes!\""
+    },
+    {
+      "Key": "3eb3e0b9-b3b5-4f91-98db-7a19a4e65273",
+      "Value": "\"You know not? Dryads are bonded to their trees. We cannot stray far from them. And even if we could, our kind tends not to get favorable reactions from humans. They find us too strange, too alien. I doubt I would have been warmly received in the city.\""
+    },
+    {
+      "Key": "8c828bd8-c9e0-4731-9590-2459130f06f2",
+      "Value": "\"Of course not! The very thought is shameful. The knight remained faithful to his true love till the end of his days. As for me... Well, I was born from a twig of the cypress under which the knight and the queen's love story began. I like to think I was a child of their love, in a way. I never told him directly, but I always considered the knight to be like a father to me.\""
+    },
+    {
+      "Key": "e71dca5e-790b-47e3-a87f-347cf3b7d149",
+      "Value": "\"So I decided I wanted to be a queen myself. And why not? After all, the {g|Green Mother}Green Mother{/g} gave me my fair share of beauty and magic, and the knight taught me all about how to rule a country!\""
+    },
+    {
+      "Key": "7392dd40-4464-4c72-b588-677bc5b6b43b",
+      "Value": "\"I organized a celebration — all the local fey were invited. I had no idea there were so many of my kin in the neighborhood! Everyone came! Shy nymphs, merry satyrs with their reed pipes, tender nixies, leprechauns with their fancy buckled hats and shiny boots... The celebration lasted three days, and my guests enjoyed it so much that every one of them proclaimed me their queen at the end. I wasn't establishing prisons, or taxes, or other nasty things common in human courts, but the social life of my court was vibrant enough to make any human monarch jealous!\""
+    },
+    {
+      "Key": "f0421876-54f9-49b8-b808-eefaa2e27606",
+      "Value": "\"We did all kinds of amazing things! Sometimes I hosted dances that went on all night, or held tournaments in which satyrs would entertain the audience, kicking each other for the right to kiss me. There were even parades organized for the local animals. Just imagine — deer, boars, and bears, all marching in lines! Even those fey who initially didn't like the idea of a kingdom were happy with things. I think we may have been the only kingdom in the world built without a single drop of blood spilled, built on a foundation of joy and happiness!\""
+    },
+    {
+      "Key": "930a87ab-8942-4f0a-bd0e-674e852d8e1d",
+      "Value": "\"What an odd suggestion! How about your country? Is it real? Or could it just be a game with complicated rules and high stakes? Our kingdom was as real as we were.\""
+    },
+    {
+      "Key": "503e4db7-e23c-4e4a-92e5-eb86e7ec9df8",
+      "Value": "\"Life in the woods changed a lot over time, and the knight changed, too. After spending so much time around fey and meditating alone in nature, he became more religious and built a shrine to {g|Erastil}Erastil{/g} with his own hands. Rumor spread around the area of some hermit or saint living in the swamps — though, to be frank, there wasn't anything saintly about him, as far as I could tell. But people started coming to meet him, and over time, a small village grew around the shrine, built by people in search of a new life.\""
+    },
+    {
+      "Key": "5736f8c5-bda0-4b3f-85c4-70d6d7790d03",
+      "Value": "\"As word spread of our kingdom in the woods, some people were surprised, while some just smiled knowingly. After all, the idea of a kingdom was familiar to humans, so fey living in a kingdom made them seem less alien, less strange and scary. So we began living side by side in peace. Sometimes fey would visit humans just to share a cup of tea, and sometimes there were even unions that resulted in children — human children with some of the magic of the fey. Some of those children deserve their own legends — but those are other stories for another time.\""
+    },
+    {
+      "Key": "d89b0fa2-5008-466f-900f-cd297f67e632",
+      "Value": "\"Human monarchs are quite different from their subjects. They have eyes everywhere. Their arms are long, and their memories longer. As the village grew, news of the location of a disgraced knight made its way to the king. Eventually, a small but heavily armed group of the king's men arrived in the village, demanding the hermit knight leave with them immediately. The villagers, both human and fey, were ready to fight to defend him, but the knight followed his unwelcome guests voluntarily. He said he wanted to avoid bloodshed, and he was old and longed to see his homeland and his beloved queen once again — even if it ended with his execution.\""
+    },
+    {
+      "Key": "1c1dce13-a229-4c8c-a88f-772234a98868",
+      "Value": "\"So the knight was taken away. Everyone grieved for him, myself especially — but as time passed, the pain subsided, as it tends to. Both the village and the fey kingdom happily lived in peace for many years after.\""
+    },
+    {
+      "Key": "e2ce9490-3b62-4ed1-853d-1a39bbe54729",
+      "Value": "\"If your wonder is strong enough, you could visit the Narlmarches yourself and ask the locals — I suspect someone there would know what happened next. But this story was about how the fey kingdom was established. And that story is over.\""
+    },
+    {
+      "Key": "f523d850-b601-4e8d-8681-d4eb5e57f7c9",
+      "Value": "\"I know not — this story was not about him. The dryad never saw him again. Perhaps he slipped away from his guards and accomplished a slew of heroic deeds afterward. Or perhaps his captors executed him on the first day, simply taking the king his head.\""
+    },
+    {
+      "Key": "7219ddd8-b00a-4284-8b00-c7ee8d22b160",
+      "Value": "\"Or maybe he died on the executioner's block, but in the city of his youth, gazing once more upon his queen — older now, but as beautiful as ever. Or maybe the city had changed beyond recognition, and his queen had died years ago, and he realized too late that his true home was a village built in the swamps. Or maybe the king saw that the pious old man standing before him shared nothing in common with the bold young upstart that had impinged his honor so long before, and thus pardoned him.\""
+    },
+    {
+      "Key": "b3bf59f4-d6e2-4092-9e0c-6cc8e597dc04",
+      "Value": "\"Alas, alas! We have no way of knowing what really happened. Time spared not even the kingdom where this story started, so your guess here is as good as mine.\""
+    },
+    {
+      "Key": "20d2195a-56de-4894-b9f4-2d67f023fb4a",
+      "Value": "\"Such clear air! I feel like I am back in my home woods. I can feel the wind tousling my hair...\" {n}The Storyteller takes a deep breath and laughs joyfully.{/n} \"Yes, now I recognize to whom this once belonged... I hear laughter, and the singing of the forest folk... Do you wish to learn the story of the Cypress Queen, {name}?\""
+    },
+    {
+      "Key": "8f440c0c-13a6-4503-96b6-e3b7a2152009",
+      "Value": "\"These shards... they were once part of the Forest Knight's Bracers. I would be honored to restore this artifact for you. The bracers would serve you well for a long time, and we could uncover their story — if you manage to collect all ten shards and bring them to me.\""
+    },
+    {
+      "Key": "0cae1e69-44de-4a56-b3c6-935516f9f370",
+      "Value": "\"These shards are all that remain of the Forest Knight's Bracers. I would be honored to restore them to their rightful glory and uncover the story behind them.\""
+    },
+    {
+      "Key": "20ffdcd0-0863-43dc-8270-34b8e11d870c",
+      "Value": "{n}The Storyteller caresses the metal shards with the tips of his fingers.{/n} \"A noble man once wore these bracers — and he was not the only one to do so. Restoring them would be an honor for any master. I shall impart a remnant of my gift in them to ensure this artifact's story lasts forever — I cannot let it be forgotten!\""
+    },
+    {
+      "Key": "22f1a03e-b57c-4f98-a07e-26e0e0ad0fee",
+      "Value": "\"I feel the damp cold of a dungeon... weapons clinking... I smell blood and soldiers' footcloth... There is a dull pain in my muscles... and a weariness, an endless weariness on the verge of desperation.\""
+    },
+    {
+      "Key": "478f6491-e868-48c5-b800-e782ef3926fc",
+      "Value": "\"I am a cyclops, a soldier of the Nineteenth \"Unbending\" Legion of the {g|Ghol-Gan}Ghol-Gan empire{/g}. We travel the {g|Darklands}Darklands{/g} with the mission of clearing the middle levels of the southwest sector of serpentfolk. Over the course of the mission, we've lost a third of our contingent. Our rations run low, and our morale lower.\""
+    },
+    {
+      "Key": "21a5aba6-ca6a-4060-8530-ce8addc2c4a3",
+      "Value": "\"I've heard several soldiers secretly tell each other they've lost any hope of returning home. But I stand strong. I'll endure whatever I must to return home alive, for the sake of my wife and child. But each new march, each new battle dims the thought that I'll ever see them again. I pray for the Sun's protection and guidance, but can the great luminary even hear me down here?\""
+    },
+    {
+      "Key": "386be6e2-b32e-4fae-aacc-0250ec1bf893",
+      "Value": "\"Our mission continues. We've lost half our contingent, but we still have no orders to turn back. The soldiers' desperation is becoming open indignation. If we were outside in this situation, I'm convinced half the unit would have deserted by now. But here we are, and there's nowhere to run.\""
+    },
+    {
+      "Key": "56b0fa6f-7e59-4d28-803f-d19ab62e6aa3",
+      "Value": "\"Koloran? Never heard of it.\" {n}The Storyteller's face twitches, and his normal voice returns.{/n} \"{g|Koloran}Koloran{/g} was founded by {g|Ghol-Gan}Ghol-Gan{/g} refugees several centuries later. As for why there were refugees at all... Well, we'll learn that soon enough.\" {n}The Storyteller's face relaxes again as he returns to the story.{/n}"
+    },
+    {
+      "Key": "61b1dc0e-dfcd-46a6-b292-a1339915b4d2",
+      "Value": "\"Cut off from the Sun and the Moon, we count time by daily marches. I've lost track completely. It feels like we've spent an eternity in this underground hell. Could it be that, when I return, my son will be a graying old man with sons of his own, and them sons themselves? ...No, I must avoid these venomous thoughts!\""
+    },
+    {
+      "Key": "bd5b51ff-b806-481e-bc86-08d5720411d4",
+      "Value": "\"Yes, of course! Do you know what raises cyclopes above the animals and other two-legged savages? The cyclops face has one eye — a single orb, just like the Sun in the sky during the day, or the Moon at night! We build majestic temples to praise the luminaries, and in return they reward us with prophetic visions. The lesser races may roam in the dark, but the cyclopes are capable of seeing truth!\""
+    },
+    {
+      "Key": "177030be-24b0-4c41-bfc1-6c5095a7280c",
+      "Value": "\"By the order of our empress, Zalekti Neverdoze. With her own hands, she destroyed their den near Garkotar and beheaded their leader! The {g|Darklands}Darklands{/g} will be ours soon. Maybe once we've purged it of serpentfolk we can find a way to bring some sunlight down here!\""
+    },
+    {
+      "Key": "555295a9-2016-4a3b-a022-fcefe40431b5",
+      "Value": "\"I listen to the soldiers talking, and I don't like what I hear. This underground hell has changed them. They don't look to the luminaries for help anymore. Rumor has it that some of them have secretly begun praying to the serpentfolk's gods. Worse than barbarism, this is pure insanity... But wasn't this mission itself insane, in hindsight?\""
+    },
+    {
+      "Key": "412d8d6a-ef95-4abc-b8c8-f287aa77a548",
+      "Value": "\"I don't know and I don't wish to! Who could possibly be worthy of worshipping in these fetid catacombs where sunlight can never reach? Devils or demons, if I had to guess. We've seen some of their unholy shrines, and they were enough to make even seasoned veterans sick. Flayed skins, bowls of blood and entrails, altars made of bones... And this done to their own kin, to other serpentfolk! I can't imagine what they'd do to their captives.\""
+    },
+    {
+      "Key": "0c7ff655-b341-4e3a-b6b4-c53e54c80e07",
+      "Value": "\"The legion rebelled. An officer caught some of the soldiers offering sacrifice to the serpentfolk's gods, and he ordered them arrested and executed. But he had no idea how deep the contagion had spread. Many soldiers refused to follow his orders — the groups stood facing each other, swords bared, loyalists against traitors... I should stand by my commanding officer, die beside him, as a loyal soldier of the empire. But I'm scared. Oh, Sun, I'm so scared! I don't want to die here, underground. I want to see my wife and son again!\""
+    },
+    {
+      "Key": "634bfb20-5a2b-4621-80b5-46630b2e5659",
+      "Value": "\"I think so? I don't know the exact numbers. That filth doesn't practice honest combat. They move through secret passages to ambush us, attacking from behind, or above, or below. We've decimated many of their nests, but they still keep coming.\""
+    },
+    {
+      "Key": "c8677312-98ee-4f48-bcd3-1b6e5aa91e33",
+      "Value": "\"I couldn't say a single word. I couldn't even move while they butchered our commanding officer and the soldiers who remained loyal to him. But that couldn't save me from what happened next — they declared the slain as sacrifices to the serpentfolk's gods, and each of us had to taste the flesh of the sacrificed or share in their fate.\""
+    },
+    {
+      "Key": "d68dd485-3bc5-43a9-b484-69486e5135c3",
+      "Value": "\"Salty blood runs down my lips. I choke down slimy meat and clap my hands to my mouth to keep myself from puking. Sun and Moon can't help us here. And I... I raise my prayer to new gods. My legs won't hold me, so I kneel. And I feel them... I feel they're here. With me. They stand around me, their cold palms on my forehead. And my fear subsides. I'll return home. Isn't that what I was praying for?\""
+    },
+    {
+      "Key": "96472f76-e73d-4e8d-8459-5221527c2325",
+      "Value": "\"On the upper levels, we rejoined the main force of our army. We reported the cleansing operation as a success. No one doubted our story of the officer's glorious death, not that I'm surprised. It seems our legion wasn't the only one to accept the protection of the underground gods. Some soldiers even pray to them openly, and our superiors turn a blind eye to it!\""
+    },
+    {
+      "Key": "4ffc1592-8336-4b62-8fdf-d7f8495ceede",
+      "Value": "\"Not if they never learn of it. We all agreed on the story we'd tell our commanders when we returned. Our operation was successful. The legion suffered heavy losses. The commanding officer was killed in action, so the next in command took his place and ordered us to head back. We did. That's all.\""
+    },
+    {
+      "Key": "caeb630f-316e-4278-83ed-3b82c7d0a2fe",
+      "Value": "\"Just once or twice. Now we try to capture serpentfolk alive and sacrifice them instead. I've even developed a taste for snake meat. The underground gods turned away from that scum — their new followers are far superior! Such power and glory these new gods can bring to the empire! We could even challenge {g|Azlant}Azlant{/g} itself!\""
+    },
+    {
+      "Key": "e51ab801-d06d-424e-9cfd-a2abc222a3a9",
+      "Value": "\"Finally, we make it back to the surface. I breathe fresh air deep into my lungs. Like a crimson eye, the huge ball of light glares down on me from the sky. I shut my eye, for I'm no longer used to sunlight. Tears run down my face... No matter. It's all right. I'll be home soon.\""
+    },
+    {
+      "Key": "7d0b71da-cda3-4ac4-a2cf-e29e5ff8e0e7",
+      "Value": "\"I must thank the gods for my safe return. Maybe my son would make a good sacrifice?\""
+    },
+    {
+      "Key": "f9333f8c-14fd-4369-8569-19d04977c790",
+      "Value": "\"As so often happens, while the serpentfolk may have lost the war with the cyclopes, they won victory over their souls. Soon, dark cults spread throughout the {g|Ghol-Gan}Ghol-Gan{/g} empire, replacing the traditional worship of celestial deities. Sacrifice of cyclopes, public tortures, and ritual cannibalism became commonplace. The empire began to decay.\""
+    },
+    {
+      "Key": "8cee57da-0d50-4844-864a-ee49c57dd843",
+      "Value": "\"Seeing the empire dying, some cyclopes fled to what is now known as {g|Iobaria}Iobaria{/g}. They hoped to preserve the culture of old Ghol-Gan, to build a new country free of the dark cults. But, as before, the contagion was already too deep — {g|Koloran}Koloran{/g} proved to be just a lesser copy of {g|Ghol-Gan}Ghol-Gan{/g}. And then the {g|Earthfall}Earthfall{/g} came. Skies have fallen down, ending the cyclopes' civilization, along with so many others.\""
+    },
+    {
+      "Key": "9f27573c-16a1-4221-8de5-d54fd1b76457",
+      "Value": "\"Blind darkness underground... Bronze blades clashing... The cold blood of serpentfolk and the hot blood of cyclopes mingle on a stone floor. And something else... Fear, desperation, agonizing shame... I cannot yet tell what happened there, underground, but if you collect all five pieces, I will be able to tell you the story of their owner.\""
+    },
+    {
+      "Key": "0ada8a16-8e6f-44e4-ad03-3184efd07295",
+      "Value": "\"Blind darkness underground... Bronze blades clashing... The cold blood of serpentfolk and the hot blood of cyclopes mingle on a stone floor. And something else... Fear, desperation, agonizing shame... The owner of these pieces was not to be envied, {name}. Give me the items you've collected, and I'll tell you the story of the Fallen Soldier.\""
+    },
+    {
+      "Key": "8f1be2a4-cc8b-47e6-824a-498fb6e7d6ae",
+      "Value": "\"I hear hooves clattering, wheels creaking. I smell the smoke of campfires. Wind kisses my face gently, and rain washes it with tears from the sky... We are on a road, heading north. We are on our way to the no-man's-land beyond the edge of the map, which promises a home to those who do not shy away from adventure. Those lands are where we will find our freedom and prosperity.\""
+    },
+    {
+      "Key": "16c50bac-ea5c-4930-8874-193d370c1ec1",
+      "Value": "\"I'm Jaxine Trestrin, from the Tandak Plains — the heart of the {g|Taldor}great Taldan empire{/g}. My family is old, but not rich — my inheritance as the youngest daughter barely covered the horses, cart, and supplies for this trip. But who cares? My real inheritance was a sharp mind and strong hands ready for hard work. My children will know riches that my ancestors could hardly dream of!\""
+    },
+    {
+      "Key": "c8f3d89d-7e76-4a1a-bb05-a5dd89d2ca63",
+      "Value": "\"A thousand years ago, on the emperor's orders, the Fifth Army of Exploration mapped the region around the great Sellen River — endless miles of plains, hills, woods, and swamps. My ancestor served in this army, and his diary mentions a particular cave filled with wonderful gemstones, floor to ceiling! The army turned back, leaving the gems unclaimed for centuries... But now they'll be mine! Onward!\""
+    },
+    {
+      "Key": "16f300aa-a725-4e91-8009-306527143dbb",
+      "Value": "\"It's a real mystery. My ancestor spared no words describing the beauty and riches of the cave, even described how to find it, but he didn't explain why the army had left such treasure behind. Maybe that part of the diary was lost? Well, even more interesting, then! Maybe we'll get to shed some light on this ancient mystery!\""
+    },
+    {
+      "Key": "c74dab17-d7ef-4e32-9dca-a6188178dae8",
+      "Value": "\"Isn't it obvious? I'll claim the land where the cave is located as my own property and a part of the Taldan empire! Then, if anyone tries to take it from me, they'll have to deal with not just me, but the imperial army as well!\""
+    },
+    {
+      "Key": "8f7ae6a2-58b6-4a27-abd0-b0a3f032e404",
+      "Value": "\"Of course, so much time has passed, a lot could have changed... But there are still no big cities in those wildlands to this day. If someone were mining gemstones there, I think we'd have heard about it by now!\""
+    },
+    {
+      "Key": "3ac06ba4-cb78-4dc5-a28f-ab21249657ee",
+      "Value": "\"We reached the area described in my ancestor's diary. The locals from the tiny villages scattered in the area call this region the {g|Kamelands}Kamelands{/g}. It's a strange, eerie place — what we originally took for hills as we passed through turned out to be ancient mounds, where you might find the buried bones of unbelievably ancient creatures, older even than {g|Earthfall}Earthfall{/g}... That gemstone cave must be around here somewhere.\""
+    },
+    {
+      "Key": "c50cec87-1b80-40ff-8c03-3251108e4b72",
+      "Value": "\"After a long and difficult search, fortune finally smiled on us — albeit a wry, cunning smile. Among the hills, we caught a bunch of kobolds, all dressed up like nobles at some celebration. Their filthy, scaly bodies were decorated with shining gemstones, and their leader proudly wore an ancient Taldan kneepad on his head. Their interrogation didn't take long — after decapitating one of them, the others almost fell over themselves to tell us where they found their ornaments.\""
+    },
+    {
+      "Key": "1790828e-5c41-4546-a36e-396f42b26ba3",
+      "Value": "\"The cave proved to be even more gorgeous than I'd imagined as I read my ancestor's diary — it was a huge hall, shining with gems of all colors and hues. We didn't have any problem evicting the kobolds — once we'd killed half their tribe, the other half just fled. Apparently wanting the last word, an old kobold — their chieftain, maybe, or a shaman — shook his tiny fist at us and yelled a curse. I just laughed and threw a torch at him, and he disappeared. I had won — the gems of the Fifth Army were mine!\""
+    },
+    {
+      "Key": "40e513f0-4e9a-4ce0-b238-e08e0fbf6bfa",
+      "Value": "\"Inside, we found ancient girders supporting the walls and rusty tools scattered around. There were also graves — several of which had been opened by the kobolds — with pieces of ancient Taldan armor in them. It seems some ancient people had been mining gems here after all. Unfortunately, we had no way to find out what happened to them, so I declared the mine my property and we began our own work.\""
+    },
+    {
+      "Key": "c84170dd-d93d-486d-9ddc-2bf458b13140",
+      "Value": "\"He yelled that they would go, but that we would stay forever. What a curse! Oh, no! I was already going to claim the lands anyway!\""
+    },
+    {
+      "Key": "7ec790e1-509d-4e12-aeec-9ef5b90660e7",
+      "Value": "\"We did. My best scout noticed an obviously artificial entrance into one of the mounds. He and a small team went in to explore it. Several hours later, a dense smoke rushed out of the mound, it began to rumble, and then it exploded! All that remained was a smoldering crater. We didn't risk fooling around with any ancient legacies after that, and later, we had enough of our own trouble to worry about.\""
+    },
+    {
+      "Key": "9c75a3fa-ff0d-4c3d-bcc0-a4a572ffa69a",
+      "Value": "\"A small town quickly grew up around the mine. First it was just locals, then people started traveling from afar. Miners, bards, brewers, priests — and, of course, traders of all kinds. {g|Taldor}Taldor{/g} sent a squad of soldiers to guard the new imperial mine and trade routes, as well.\""
+    },
+    {
+      "Key": "655856d9-7802-4216-9946-5c046f5ce645",
+      "Value": "\"My lands prospered... Too bad it didn't last long. It took us less than a year to discover what happened to the mine's previous owners and why it had been abandoned.\""
+    },
+    {
+      "Key": "31e5c571-d4d6-4986-9ede-d55da95b2fb3",
+      "Value": "\"We reburied them honorably. They became the first residents of our small new cemetery — which we had to expand considerably not long after.\""
+    },
+    {
+      "Key": "ba844438-3131-4b2b-a158-858cf12b7372",
+      "Value": "\"Things were going great, but then rumor of an epidemic started spreading through the town. I did my best to reassure the locals, though by that time I knew better than anyone that gray stains on the skin along with nosebleeds was essentially a death sentence. The mine's previous owners didn't just leave — they died out from ash leprosy. We were infected when we explored their graves. The best clerics and healers our money could buy all said the same thing — the disease wasn't curable.\""
+    },
+    {
+      "Key": "922ad32c-479f-4f9c-897c-c7dc6d4cd6ed",
+      "Value": "\"I still held hope that if I bought enough time we could find a cure, but news of the epidemic reached the imperial army. They were ordered to quarantine the entire area, and our guardians became our jailers overnight. The settlement was sealed off by a triple cordon of guards. We continued mining gemstones like before, but the traders took advantage of our situation and raised their prices. People were dying, but the town lived on as the empire kept sending a new workforce for us — branded criminals.\""
+    },
+    {
+      "Key": "bfeea2d6-0a92-4d81-be14-70997eaf8e9f",
+      "Value": "\"Thanks to the efforts of our healers, I lived longer than many others, but soon I didn't even dare leave my house — it seemed not a single person in the settlement didn't wish me dead. I died alone, slowly rotting alive, surrounded by treasure beyond measure — a leper queen of a doomed kingdom. My last thought was of how funny the kobold's curse had seemed — and how quickly it had come true.\""
+    },
+    {
+      "Key": "8507c693-81f4-4c82-a59f-5fc76ec7ad7a",
+      "Value": "\"The mine was inherited by her family. The colony of lepers continued mining gemstones for many years, until the mine was depleted. Once the mine was done, the town slowly died out. Once the last leper had died, the empire sent a group of clerics and wizards to the site, and they used prayers and spells to reduce the infected town to safe ashes and collapse the entrance to the depleted mine.\""
+    },
+    {
+      "Key": "5f600755-ec5e-4a95-94db-c1e7d3e07df7",
+      "Value": "\"One and a half thousand years have passed since then. No one even remembers a colony existed there anymore. As for the mine, it can probably still be found in the {g|Kamelands}Kamelands{/g}, but there are no longer any treasures there to claim.\""
+    },
+    {
+      "Key": "cb171e8a-d67f-4146-a38e-30d748896deb",
+      "Value": "\"What a curious find! Shards of the Ring of Reckless Courage, it would seem. Notice how they bear evidence of melting here and there. Lady Luck favored the ring's previous owner for quite some time, but when she finally turned her back on him, the consequences were quite grave... If you find the rest of the twelve shards, I will be able to tell you the story in full.\""
+    },
+    {
+      "Key": "87c5659c-cbfa-4567-8d33-baad60bd44b4",
+      "Value": "\"What a curious find! Shards of the Ring of Reckless Courage, it would seem. Notice how they bear evidence of melting here and there. Lady Luck favored the ring's previous owner for quite some time, but when she finally turned her back on him, the consequences were quite grave... If you wish, I can restore the ring for you and tell you its story.\""
+    },
+    {
+      "Key": "c27d5613-622a-47fe-bf29-4d1920ba298e",
+      "Value": "{n}The Storyteller shudders, his face grimacing in disgust.{/n} \"This is one artifact that would have been best left in the darkness of its past! These scraps you have brought are from the Cloak of Sold Souls. I cannot see its entire story yet, but I can feel it is dark and terrifying. If you should find the rest of the fifteen pieces, I will be able to recount the story, but consider carefully — do you really want to hear it?\""
+    },
+    {
+      "Key": "9836dc96-a868-4972-8683-8c7534a0b1d6",
+      "Value": "{n}The Storyteller shudders, his face grimacing in disgust.{/n} \"This is one artifact that would have been best left in the darkness of its past! These scraps you have brought are from the Cloak of Sold Souls. Its story is dark and terrifying — all this item offers its owner is suffering. If you really want, I can restore it for you — but only as a warning to those who might dream of making deals with the powers of {g|Abaddon}Abaddon{/g}!\""
+    },
+    {
+      "Key": "4e7cd3da-ab44-40a3-953e-12c7182b1121",
+      "Value": "{n}The Storyteller clenches the melted shards in his hand.{/n} \"Luck is a fickle partner — you may think yourself her favorite person while she sits and conspires to trick you. I will impart a remnant of my gift within this ring so you may recall its story. May it caution you against recklessness — or perhaps inspire it? The choice, of course, is yours!\""
+    },
+    {
+      "Key": "2b23f7a5-d7f8-4a35-98e9-becb1b9d208f",
+      "Value": "{n}The Storyteller places scraps of leather covered with unrecognizable inscriptions before him.{/n} \"The story you want to learn is truly terrible. Even more terrible could be the destiny of any person who dares wear this cloak. But as you wish — I will impart a remnant of my gift into this cloak so it will be able to recount to you the crimes of its creator.\""
+    },
+    {
+      "Key": "2b88977d-1782-4b23-bc50-2b9bd7ab4e12",
+      "Value": "\"Saddled horses neigh and stomp their hooves — they cannot wait to travel distant lands, searching for the legendary treasures of an ancient empire! I can feel the bravery of the previous owner, how she dreamt of adventure and fame. Do you wish to know where her path led her? I certainly do. Find the rest of her five belongings, and together we can uncover the story of the search for the gemstone cave.\""
+    },
+    {
+      "Key": "6f9d638e-a4ff-425e-87a9-9e244cf3f72d",
+      "Value": "\"Saddled horses neigh and stomp their hooves — they cannot wait to travel distant lands, searching for the legendary treasures of an ancient empire! I can feel the bravery of the previous owner, how she dreamt of adventure and fame. Do you wish to know where her path led her? I certainly do. Then listen, and I shall recount to you the story of the search for the gemstone cave.\""
+    },
+    {
+      "Key": "dc3ca0dd-d213-471c-ac6f-3848079c31ab",
+      "Value": "\"No, no. Worry not. Ash leprosy may have been incurable in Jaxine's time, but the Taldans eradicated it completely centuries ago. Besides, it is impossible that any trace remains of the leprosarium that surrounded the mine so long ago.\""
+    },
+    {
+      "Key": "28ca3a24-8e75-4b3e-b205-204f31f3654c",
+      "Value": "{n}The Storyteller weighs the soldier's tag in his palm.{/n} \"A soldier does not ask where the banners of war are headed. He or she goes to battle, dies, and leaves it to others to decide whether the cause was just. This tag belonged to one of the many warriors who helped establish the glory of the Taldan empire. If you would permit me, I would gladly purchase it from you.\""
+    },
+    {
+      "Key": "3448d733-700e-4639-a61f-337989c0740d",
+      "Value": "{n}The Storyteller idly toys with the ancient, plain-looking coin.{/n} \"What was the name of the {g|Koloran}Koloran{/g} ruler who issued this coin? Does anyone remember, now? What did the cyclopes use it to purchase? Food? Books? Weapons? Perhaps someone's life, or their freedom? Who can say? Its history was erased by the {g|Earthfall}Earthfall{/g}... But I will buy it from you for significantly more than it was worth in its own time.\""
+    },
+    {
+      "Key": "d858f305-4c2f-41a6-aaaf-4ee5559a5f54",
+      "Value": "\"You have gathered all the fragments of the Necklace of Double Crosses. They can fit into my hand. They carry an inglorious story. Allow me to tell the tale as I restore it. I expect the story will amuse you — and perhaps even give you some food for thought.\""
+    },
+    {
+      "Key": "27774bd7-404b-4b75-835f-49033209f95d",
+      "Value": "\"This scorched piece of metal is a part of a curious artifact, known as the Necklace of Double Crosses. Inside it I sense a story of many deeds — not heroic, but low and maleficent. If you find all seven of its fragments, I will be able to restore the artifact and recount its inglorious story.\""
+    },
+    {
+      "Key": "28d4cabb-6dc9-42ff-af05-1c761b689257",
+      "Value": "{n}The Storyteller holds the pieces of metal carefully in his hands.{/n} \"I shall begin. Not every legend speaks of heroic feats — some tell of atrocities and wicked things. I will breathe my gift into this necklace, that it may tell you something of itself.\""
+    },
+    {
+      "Key": "00f1e3e7-10dd-41d4-8af4-f56c5968fad1",
+      "Value": "\"A coin from a nonexistent country... When {g|Choral}Choral the Conqueror{/g} mastered Rostland, having claimed it for {g|Brevoy}Brevoy{/g}, he prohibited the issuance and use of such coins. Both ordinary folk and the Aldori {g|Swordlords}Swordlords{/g} were required to use new coins, decorated with Choral's profile. But no one was quick to be rid of these prohibited coins, oh no... In many houses they still store boxes and whole chests of such coins, waiting for the day when {g|Rostland}Rostland{/g} declares its independence.\""
+    },
+    {
+      "Key": "37dee55b-7e90-495e-8f90-a772f5727dc5",
+      "Value": "\"Ah, the belongings of brave heroes, who performed their feats here before you. I sense you would be interested to hear their story... But there are too few of them here for me to recount it yet. Please find all five of them. I am sure you won't regret the time you spend in the search!\""
+    },
+    {
+      "Key": "3529185f-78da-4ba6-9273-19f5ffcc7202",
+      "Value": "\"Ah, the belongings of brave heroes, who performed their feats here before you. I sense you would be interested to hear their story. These lands took many lives and spawned many legends... I can now tell you of a distant expedition, undertaken by a group of Brevic heroes to a place known as the Drowned Trees.\""
+    },
+    {
+      "Key": "0a2d318b-2390-4807-abd7-b862c791ca5a",
+      "Value": "\"I hear rowlocks creaking. River water splashing. Bushes rustling and arrows singing through the air. I feel an invincible will, a cold resolution to finish what's been started, no matter the cost. My chain armor clings to my body, and my young hands grip a sword tightly. I am the leader of a group of brave souls, set off to the Stolen Lands to clear them from bandits, once and for all.\""
+    },
+    {
+      "Key": "4094983a-c99f-46b6-8572-220b812d83cf",
+      "Value": "\"We sail on a large freight boat. It serves as bait for the bandits, who keep throwing themselves at it, only to find death. A death as inglorious as the life they've lived.\""
+    },
+    {
+      "Key": "6a62e49d-f247-412a-8c47-87ee177e77d0",
+      "Value": "\"From time to time we manage to capture a prisoner. While our inquisitor talks to them, I go to the stern, shutting my ears to their cries. I remind myself that these are scum, drenched in blood to the elbow. I think upon our cause — freedom for my homeland, an independent {g|Rostland}Rostland{/g}. But still my goosebumps rise with each pitiful cry. I must steel myself and be strong.\""
+    },
+    {
+      "Key": "55a6b5c9-a82e-4d1d-8718-4467278192f9",
+      "Value": "\"This land swarms with them, and we meet them more often than common merchants. You see, we started a rumor that the Aldori {g|Swordlords}Swordlords{/g} are using this boat to sneak treasures out of the country. Now half the gangs in the area are hunting us.\""
+    },
+    {
+      "Key": "74b66d2d-4737-4025-a07d-de4140984e62",
+      "Value": "\"The bandits attacking our boat are small fry. We're looking for their main lair — a place known as the Drowned Trees. We seek the leader of the bandits, an underwater monster named Dargut Droon, and we will not leave without his head!\""
+    },
+    {
+      "Key": "12834933-3f13-46c5-8dfa-76659b6ea8eb",
+      "Value": "\"A paladin, a ranger, a sorceress, a priest, an inquisitor, and me — a fighter. All experienced combatants. Over and over, we've saved each other's lives in times of need.\""
+    },
+    {
+      "Key": "17646dc5-c641-45c9-be1a-e062f1cf35b4",
+      "Value": "\"At night it seems a whole army is attacking our boat. Far too many for us to fend off... But luckily, we don't have to. While they battle monsters we've summoned in a pitch-black magical darkness, we drink the potions we've prepared, and dive under the water.\""
+    },
+    {
+      "Key": "0a4d70c8-824c-42a9-9cc2-6b7bac5d51d6",
+      "Value": "\"The scum break into the hold, but instead of treasure, they find their final surprise — the work of a {g|Restov}Restovic{/g} alchemist, a trap. A dozen barrels of highly explosive oils. We watch from a safe distance as the boat is blown to pieces in a deafening explosion. Everything has gone according to plan. The more who die here, the fewer we'll meet in the Drowned Trees.\""
+    },
+    {
+      "Key": "98ce81cf-6867-4ead-888f-0d753f094e17",
+      "Value": "\"We march through the forest, then camp to regain our strength. Their nest is close — our inquisitor discovered everything, even the location of their secret entrance. Today we rest. Tomorrow, the bandit king will draw his final breath!\""
+    },
+    {
+      "Key": "d308af78-f6dd-4b2a-a487-7a3046a03ae2",
+      "Value": "\"We trudge through muddy waters. Suddenly, a giant log studded with blades falls from above. I manage to stagger back, but the paladin who walked alongside me is now a gory sight, spread thin across the ground.\""
+    },
+    {
+      "Key": "eca1dc92-728f-48d9-925e-57eef366babf",
+      "Value": "\"Each of us is worth two dozen in battle. Besides, we are well prepared. Chaos, confusion, and summoned monsters will be on our side... And fire — a lot of fire.\""
+    },
+    {
+      "Key": "e3f13e93-0b6d-44a9-89f7-33db6fdbcef1",
+      "Value": "\"An underwater path, winding along the swamp bottom. We had potions to breathe freely under water. We couldn't see beyond our outstretched arms in the muddy water, and there were plenty of traps along the way, but the inquisitor learned all the signs that marked the safe passage... At least we believed she did.\""
+    },
+    {
+      "Key": "af45d79b-d2b4-4711-aec0-267317644589",
+      "Value": "\"I bury my terror deep in my soul — there was no time for weakness. There were only four of us left, and we are gasping for air by the time the freak's lifeblood stains the water. We leave the beheaded body on dry land, then retreat and recover. Only now I allow my hands to tremble, my breath to race unbidden, my tears to flow.\""
+    },
+    {
+      "Key": "92194b4a-0aa8-43b4-9f0f-5c86393225bc",
+      "Value": "\"The next moment a monstrous creature emerges from the darkness — a twisted cross between fish and monkey. Its clawed hand reaches out, effortlessly melting away the inquisitor's flesh, then ripping out her heart. This is the king of the bandits, Dargut Droon. The bandit we captured did not lie — but the secret passage he spoke of led right into the underwater lair of his master!\""
+    },
+    {
+      "Key": "b698e153-e06c-4c05-9419-6b8ca170526a",
+      "Value": "\"Oh yes. The bandit king was a true collector of magical items! We lost two of our friends, but what we found there would help us finish what we started.\""
+    },
+    {
+      "Key": "f31e9f47-10d2-4168-a50a-b37e1499e68a",
+      "Value": "\"You could say so... Dargut Droon didn't expect an armed party to appear there before him. But we too were unprepared for the encounter. The bandit's lie cost both sides dearly.\""
+    },
+    {
+      "Key": "adc62ea8-a972-493d-8a62-ff1a65e573ec",
+      "Value": "\"The next night we return the same way. We swim up to the surface, and quietly gather our bearings. Above us loom the Drowned Trees — enormous dead trunks emerging from the water, bridges crisscrossing their branches. The air is filled with the sounds of battle. — Having lost their king, the bandits now battle each other for power. And we are ready to join the fight.\""
+    },
+    {
+      "Key": "7dc5b401-521f-47bf-bb1a-05ac41f180f5",
+      "Value": "\"We leave at dawn. Behind us, smoke rises up to the sky. The bandit nest smolders and blazes. Only two of us remain, the priest and I. We've won, but this victory tastes of ash. Cinders and swamp ooze. I ask him: 'Tell me, Ezvanki, was it worth it?' He puts his hand on my shoulder and says: 'Yes, Jamandi. Now the Stolen Lands will be ours.' I wish I believed him.\""
+    },
+    {
+      "Key": "d9e96b0c-bc0d-4c77-ad7a-1f4c7eadb317",
+      "Value": "\"Some people become legends in their own lifetime! Jamandi has performed many glorious feats, and there may yet be more ahead.\""
+    },
+    {
+      "Key": "257ab27d-cf74-40ff-a914-6fc60ed2a44a",
+      "Value": "\"The death of Dargut Droon, and destruction of the Drowned Trees, weakened the bandits — but not for long. The paladin who died was a noble. It was he who was supposed to claim the {g|Stolen Lands}Stolen Lands{/g} and send in his troops. While Jamandi sought another candidate or a priest capable of performing a resurrection ritual, a new bandit leader emerged in the destroyed fortress on the banks of the {g|Tuskwater}Tuskwater{/g}. Within the year, the Stolen Lands were swarming with gangs once more.\""
+    },
+    {
+      "Key": "6ad7f209-486a-4a53-bb31-08c8eade64ea",
+      "Value": "\"They say he was once a normal human, but he offended a powerful fey. She cursed him, turning him into a monster — but one bestowed with the ability to breathe under water, and melt human flesh with his touch. With these powers he became the bandit king.\""
+    },
+    {
+      "Key": "4e3a0ea5-dc12-4fc1-8e1e-094e93c29372",
+      "Value": "{n}The Storyteller heaves a sigh, runs his hand over his face, and rubs his temples.{/n} \"Thus the expedition to the Drowned Trees came to an end. I must admit, it was no easy feeling for me to stand in the place of this daring woman. The steel of her soul was colder than ice.\""
+    },
+    {
+      "Key": "2945f6e5-f795-43ae-8f98-2cd40e9f983e",
+      "Value": "{n}The Storyteller's voice grows soft.{/n} \"Thank you for your words. I am unlikely to be able to interpret the intricacies of the political world, or the affairs of the treasury. But my advice regarding the magic of the arts would be useful to any ruler.\""
+    },
+    {
+      "Key": "3d9187ef-2418-48fc-92c5-e61a02799c1e",
+      "Value": "\"When I am capable of resolving matters on my own, I don't trouble Your Grace. But when solving a certain question is impossible without the ruler's participation, then I hurry to you. I hope my visits don't bother you too much.\""
+    },
+    {
+      "Key": "78d0c377-2ea5-4e68-97ed-d4592694bd6a",
+      "Value": "\"I am immensely grateful for this position, Your Grace. Thanks to it, I daily discover many new stories — of living people and their art.\""
+    },
+    {
+      "Key": "ce737394-e75d-48e4-9f29-7bf6de1b4ba4",
+      "Value": "{n}The Storyteller sighs.{/n} \"I once imagined I was capable of carrying out matters of state. Alas, those days have passed. Please find someone else who could better help you in your rule.\""
+    },
+    {
+      "Key": "cd9fc2ea-be63-4371-a3e4-6f670bc5930d",
+      "Value": "\"How unusual... I do not collect a story, but help create it. Good luck, Your Highness! And may the gods guide your way.\""
+    },
+    {
+      "Key": "4d8916fe-b079-4bc5-b09a-38ca5ba59cae",
+      "Value": "{n}The Storyteller takes Briar gingerly. The look on his face is hard to read — it may be awe, or unbelievable tension... perhaps anxiety.{/n} \"This burden is far heavier than my shoulders can carry, but I will attempt to tell you as much as I can...\""
+    },
+    {
+      "Key": "0af52cc3-f03b-4ca1-a021-46d40030c203",
+      "Value": "\"I see the light of a distant world. I feel maimed and scarred by the words, 'Let your unrequited love guide you…' And I become just a part of my self — torn away, cast out, detached. 'Seek it. Hunt it. Lust for it.' I am falling!\""
+    },
+    {
+      "Key": "b894f2df-3ed5-418b-bcb4-9d478de9294a",
+      "Value": "\"I pierce the planes, pass by entire worlds. I am buried deep underground, concealed from the other, larger part of me. I humbly wait, century after century. A tiny seedling feeds on my strength, growing to unbelievable size. Creatures, tiny and strange, but vile and wicked, settle in its roots.\""
+    },
+    {
+      "Key": "4a2e5567-4d99-4f98-898f-51fbee71f2a9",
+      "Value": "\"Not all artifacts wish to reveal the truths about themselves... but I will do my best. Let me touch it.\""
+    },
+    {
+      "Key": "4d8d0aaa-1c9a-42d7-9fa4-3132a4a980c0",
+      "Value": "\"It is I who owes you a debt for all the amazing stories I have been able to touch over our acquaintance.\""
+    },
+    {
+      "Key": "435099af-25e0-42f5-8f33-842e26d3a5b2",
+      "Value": "{n}The moment he touches Ovinrbaane's hilt, the Storyteller bares his teeth in a wicked grin.{/n} \"{g|Gorum}Gorum{/g}!\" {n}he shouts at the top of his lungs.{/n} \"Watch me, my Lord in Iron! All this blood! All these severed heads! All these broken weapons and pieces of armor! I throw them all at your feet! I, Armag the Invincible, best among your fighters!\""
+    },
+    {
+      "Key": "3fd61c47-3da8-4e04-b6e1-ec4381ca2bdc",
+      "Value": "\"You led me from one victory to another, and not once have I failed you! The glory of the {g|Tiger Lords}Tiger Lords{/g} glowed over the lands like the light of a raging bonfire! It rose to the sky like the smoke of the cities we razed! None could match us! In your presence, my lord, no one could defeat us — not people, not monsters, not the gods themselves!\""
+    },
+    {
+      "Key": "adc550ef-41d9-494e-b373-8ad4896b679a",
+      "Value": "\"Our glory was so great that even {g|Pharasma}Pharasma{/g} herself grew jealous! Oh, how she wished to bend us, break our pride, show us that no one is beyond death. But you, O {g|Gorum}Gorum{/g}, you fought her in the skies, just as we destroyed her emissaries on the land! {g|Golarion}Golarion{/g} hasn't seen such a battle since the gods fought {g|Rovagug}Rovagug{/g}!\""
+    },
+    {
+      "Key": "7980b2e4-4be4-4935-b8ff-8beac055cdf3",
+      "Value": "\"And we shamed her, my lord, oh yes! As my soul was about to depart my body, you snatched it from {g|Pharasma}Pharasma's{/g} pale fingers, sealing it in this sacred sword, so I might shed blood in your glory forever! My war will never end so long as this world stands! Blood! Blood for {g|Gorum}Gorum{/g}!\""
+    },
+    {
+      "Key": "e5886742-887b-4c64-b30f-eb87c400e7df",
+      "Value": "{n}The elf jerks his hand away from the sword, and heavy silence fills the air.{/n} \"That was... quite a curious experience,\" {n}he eventually manages.{/n}"
+    },
+    {
+      "Key": "0c35e95d-c593-49cd-a4e5-c5cdb8073d92",
+      "Value": "\"You have found something truly ancient in this. These are scraps of the Armor of Saber-Toothed Courage — a Kellid relic, destroyed millennia ago. I wonder what story this forgotten artifact has to relay to us? Please, find the rest of the sixteen fragments — I cannot wait to learn more about it!\""
+    },
+    {
+      "Key": "af491e15-f4bb-4e93-a671-b979cba0b03f",
+      "Value": "\"You have found something truly ancient in this. These are scraps of the Armor of Saber-Toothed Courage — a Kellid relic, destroyed millennia ago. I wonder what story this forgotten artifact has to relay to us? Now, with all of the fragments, we can finally find out!\""
+    },
+    {
+      "Key": "ac656dd1-4b80-4cc2-8625-e4ec5fcbd100",
+      "Value": "\"These are pieces of the Star Commander's Glove. A gift from another world, a treasure that fell from the sky to be buried in {g|Numeria}Numerian{/g} soil for millennia... Oh, how I wish I could visit the homeland of this artifact to learn its whole story! Alas, that is well beyond my powers. But if you find the rest of the seventeen pieces, I will at least be able to restore the creation of these craftsmen from the stars!\""
+    },
+    {
+      "Key": "4b0c5b6f-7497-4f11-a28e-6af6413b82cf",
+      "Value": "\"These are pieces of the Star Commander's Glove. A gift from another world, a treasure that fell from the sky to be buried in {g|Numeria}Numerian{/g} soil for millennia... Oh, how I wish I could visit the homeland of this artifact to learn its whole story! Alas, that is well beyond my powers. But now, with all the pieces collected, I will at last be able to restore the creation of these craftsmen from the stars!\""
+    },
+    {
+      "Key": "3b6863c9-74fa-4dac-9683-82198f3696f7",
+      "Value": "\"Century by century, eon by eon, the {g|Numeria}Numerian{/g} tribes went to war — without fear, without doubt, submitting themselves to {g|Gorum}Gorum's{/g} will and their own thirst for glory. This armor is much older than even Armag himself — the ancient Armag, that is, the one who once challenged {g|Pharasma}Pharasma{/g}. What can this artifact tell us? I will infuse it with a piece of my gift, and it will reveal its story.\""
+    },
+    {
+      "Key": "6951cdb5-04c0-4fbe-af12-0ffd6df8bd2c",
+      "Value": "\"How many are there, these worlds scattered across the infinite starry sky? I cannot see the stars, but I can feel that these pieces call to their faraway homeland... Still, the story they hide happened not there, but here, where the item was destroyed. I will place a bit of my gift in it so it may tell us what happened.\""
+    },
+    {
+      "Key": "d6d3d472-ff53-479a-b8f8-c112573b2c30",
+      "Value": "{n}The Storyteller gently touches a finger to the claws and fangs that make up the fetish, as if testing their sharpness.{/n} \"This is the creation of those who know how to speak with animals and can hear their stories. We, though proud of our so-called civilization, have become deaf to this language — and only objects such as these can bring its echoes to us. If you do not mind, I will gladly buy this from you.\""
+    },
+    {
+      "Key": "bc4ca148-e74b-45c7-9fc3-10c7f35ded94",
+      "Value": "{n}The Storyteller's fingers caress the smooth metal.{/n} \"Before losing my eyesight, I could not help but shed tears when I looked to the sky. So many worlds — all of them so far, unreachable, inconceivable... And now I hold in my hands an item made by inhabitants of those distant stars. This is proof that someday, we may chance to meet them — for better or for worse. Please — allow me to buy it from you.\""
+    },
+    {
+      "Key": "5b1af868-1369-4a72-b99f-3cee695c5b5c",
+      "Value": "\"The wind howls over the wastelands of {g|Glenebon}Glenebon{/g}. The flames of bonfires dance to the rhythmic music of a barbarian tribe. Thousands of years ago, these belonged to the guardians of a great chieftain's tomb — yes, the same tomb that had been forsaken until recently! Are you interested in why the guardians abandoned their post? Their story is ready to be told, if you are ready to listen!\""
+    },
+    {
+      "Key": "750c0493-8715-48a0-a220-c1f081c54cc4",
+      "Value": "\"The wind howls over the wastelands of {g|Glenebon}Glenebon{/g}. The flames of bonfires dance to the rhythmic music of a barbarian tribe. Thousands of years ago, these belonged to the guardians of a great chieftain's tomb — yes, the same tomb that had been forsaken until recently! Are you interested in why the guardians abandoned their post? Bring me the rest of the five pieces, and I shall ask them!\""
+    },
+    {
+      "Key": "6d00c368-552e-4f18-9a8b-e677db681f16",
+      "Value": "\"I hear tools clinking, someone laughing and chatting. I smell engine oil and burning insulation. This must be the {g|Technic League}Technic League{/g}! Time passes... people change... but the spirit of greed and thirst for power remain the same! Who once owned these tools? What did they want — and what did they manage to achieve? I can almost hear their story... Find the rest of their five items, and they will speak to us!\""
+    },
+    {
+      "Key": "4ffd93d2-506f-4502-acef-2ea65957edc8",
+      "Value": "\"I hear tools clinking, someone laughing and chatting. I smell engine oil and burning insulation. This must be the {g|Technic League}Technic League{/g}! Time passes... people change... but the spirit of greed and thirst for power remain the same! Who once owned these tools? What did they want — and what did they manage to achieve? I can hear their story now. These items are ready to speak — are you prepared to listen?\""
+    },
+    {
+      "Key": "d2cc88a0-2f79-4322-9e6f-1be29d0c5b2e",
+      "Value": "\"I hear the wind howling over the wastelands of {g|Glenebon}Glenebon{/g}, the whispering of grass, the distant sound of thunder. I hear music and laughter. I smell the smoke of bonfires and roasting meat. The big feast is coming. But my heart is filled with anxiety.\""
+    },
+    {
+      "Key": "95e03f55-4f76-47c3-be5f-6b820ca486d8",
+      "Value": "\"Farewell, {g|Technic League}Technic League{/g}! There's not room enough for you and us in this country. Captains and their apprentices, masters and their slaves, arcanists and technicians — good riddance! We head east, to the no-man's-land. We leave to start a revolution none of you has the courage or imagination to engineer!\""
+    },
+    {
+      "Key": "dc0498a6-ec2a-432d-b39e-c7507bb6e9cb",
+      "Value": "\"I'm Adra, of the {g|Tiger Lords}Tiger Lords{/g}. I'm chieftain of a part of the clan that's been guarding Great Armag's tomb for over a thousand years now. Once every three years, our youth venture into the tomb to test themselves, prove themselves worthy as adults in the tribe.\""
+    },
+    {
+      "Key": "3c2387c4-6139-4b36-9e21-cc07fcec4348",
+      "Value": "\"The tomb is full of deadly traps. We've all undergone this test — but we've all also had friends who didn't come back. Today, my daughter has gone underground. I'm trying to stay calm — I was the one who trained her, after all — but the long wait still gnaws at my soul like a wild beast.\""
+    },
+    {
+      "Key": "2e7c1360-93bf-4e05-9bdf-e3e25c0798df",
+      "Value": "\"Not at all! Only a handful of people have managed to get that far throughout the ages. Completing the initiation requires only making it to the stairway to the second floor. Of course, what warrior doesn't crave extra glory? There are always daredevils who'll risk their lives to make it farther... I was one myself, and I paid a price for it... No, that's not entirely true. I made it back from the tomb alive and well. It was some of my peers who paid the price for my relentless courage and never made it back.\""
+    },
+    {
+      "Key": "15daf0ce-e29f-4517-85cb-d2004743cd0f",
+      "Value": "\"The {g|Tiger Lords}Tiger Lords{/g} are the strongest tribe in all of {g|Numeria}Numeria{/g}! We're feared everywhere — from the {g|Hold of Belkzen}Hold of Belkzen{/g} to the Hills of Nomen. My clan has a special honor — we're the guardians of Great Armag's tomb. It... it's a unique, glorious mission...\""
+    },
+    {
+      "Key": "e0022e2f-d4ee-43f2-949c-82b4e5c6c15f",
+      "Value": "\"Good observation. This lofty mission has turned our clan into honorable outcasts. We try to avoid as much contact with the outside world — even our own kin — as possible. We've spent centuries roaming around the tomb, guarding the secret of its location. And once every three years, we send our youth down there, and every time, someone is maimed or killed. And for what? How much longer do the living need to serve an old dead man?\""
+    },
+    {
+      "Key": "08f54924-42cf-48e9-a3e7-b5de9798a85d",
+      "Value": "\"Of course, I would never say any of this where my tribesmen could hear it. These sorts of thoughts are treasonous. But if I could free my clan of this 'honorable' slavery — I would without a moment's hesitation.\""
+    },
+    {
+      "Key": "c2d1b105-0479-4083-8445-424b34b457b9",
+      "Value": "\"Torchlight flickers in the dark doorway — they're alive! They've returned! Only through great effort do I maintain my calm exterior, as a decent chieftain should. But as they come out into the light... Oh, {g|Gorum}Gorum{/g}! Without further thought of dignity, I rush toward them. They're wounded, exhausted. They carry three of their fellows on their shoulders. My daughter is among those being carried.\""
+    },
+    {
+      "Key": "952969e0-1cbe-421a-8534-2fe24f40767f",
+      "Value": "\"She's alive. Thank all the good gods, she's alive — and I can't hold back my tears as I see her weak smile, twisted with pain. But her right arm looks like a burnt branch, all black and charred... My daughter will never be able to wield a sword again. And two of her friends will never again open their eyes.\""
+    },
+    {
+      "Key": "2a18fe0a-8d7f-4abd-8221-921509d796e6",
+      "Value": "\"It's a rarity when the rite of initiation doesn't turn the great feast into someone's funerary feast. The damned tomb keeps devouring our children... No, in reality, it's devoured our whole clan. My daughter says she wanted to reach the burial chamber and speak with Zorek, but she failed the Test of Pain... I wonder what I would say to the spirit, if I were to reach him? Shout in his face the names of all those who never left his tomb, maybe? Or perhaps beg him to release our clan from this eternal guard? But no. No, I fear I wouldn't have anything at all to say to him.\""
+    },
+    {
+      "Key": "43605c31-2bb9-49a6-b9d6-19a4bf9f9c3c",
+      "Value": "\"The scouts bring alarming news — the {g|Taldor}Taldan{/g} army is headed this way from the south. They've already passed {g|Kyonin}Kyonin{/g}, and they're advancing toward {g|Numeria}Numeria{/g}, now. Our brothers and sisters from across the region are gathering to fight off the invaders. Everyone is nervous... Only I seem to feel any relief. In his inexplicable mercy, {g|Gorum}Gorum{/g} has sent us a war. No one would blame us if, to aid our motherland, we left our post at the tomb. And then... I'll do everything in my power to ensure the secret of its location is lost forever!\""
+    },
+    {
+      "Key": "4e4c9262-e408-45f8-8adf-ca95b44b78c3",
+      "Value": "\"Maybe back in {g|Numeria}Numeria{/g} there are clerics powerful enough. Not here. I'll send an emissary to request the aid of a healer powerful enough to help her, but they'll probably refuse. We're supposed to make as little contact with the outer world as we can. The secret of the tomb's location is greater than all.\""
+    },
+    {
+      "Key": "7a8e73e1-65c7-4c55-9517-9eca44cb3ee3",
+      "Value": "\"No. Its exact location is known only to the chieftain and a few select elders. We roam the region, and once every three years, we bring our youngsters here blindfolded.\""
+    },
+    {
+      "Key": "aad73d92-5be8-469f-8286-2a6adfd23eb9",
+      "Value": "\"I stare at the {g|Numeria}Numerian{/g} emissary. He's so young... I could be his mother. He's brought orders from the {g|Tiger Lords}Tiger Lords{/g} chieftain — our clan is to stay here and guard Armag's tomb. I already know what I must do — and for the first time in decades, my fingers tremble.\""
+    },
+    {
+      "Key": "baaa3c72-c60a-4a89-9333-c8e960cfbca5",
+      "Value": "\"My dagger pierces the emissary's heart. I see confusion in his eyes as they cloud over. Forgive me, boy. You never made it here. You were lost on the road, disappeared without a trace. The orders you carried never reached us. My crime is inexcusable, and I will gladly pay for it. I will do my best not to linger in this world — I'll find a decent way to die as soon as I make certain that no one remains who knows the exact location of the tomb. But my clan will never return here again. Never.\""
+    },
+    {
+      "Key": "251dd739-83f4-432a-87c1-a88bad955079",
+      "Value": "{n}The Storyteller bows his head.{/n} \"As you know, Adra was successful. Her clan rejoined the rest of the tribe, and once the {g|Taldor}Taldans{/g} were gone, the secret of the tomb's location was lost for many, many centuries...\""
+    },
+    {
+      "Key": "ffe664f7-da5f-4a9a-a871-b37abc47766c",
+      "Value": "\"It ended with... nothing. The Taldans went not to conquer, but to explore and make maps. The Second Army of Exploration traveled through the {g|River Kingdoms}River Kingdoms{/g}, walked around Lake Encarthan, and reached the {g|Hold of Belkzen}Hold of Belkzen{/g} before returning home. But at its start, the expedition looked like a real threat, and the {g|Numeria}Numerians{/g} made preparations to fight them off.\""
+    },
+    {
+      "Key": "b63492ea-383e-4025-9a5c-7e7e895f2c9f",
+      "Value": "\"{g|Numeria}Numerian{/g} clerics were able to heal her arm. She traveled far, cloaking herself in glory across multiple battles spanning from the {g|Hold of Belkzen}Hold of Belkzen{/g} to the Hills of Nomen before dying with honor while fighting the cyclopes.\""
+    },
+    {
+      "Key": "d2701e85-0408-4369-8d17-89f5d529b423",
+      "Value": "\"There are five of us. Hloggy and me, who snatched the device from right under our teacher's nose. Quiet, smart Alira, who knows the meaning of the symbols on the control panel. Ilyss and Llamm — brother and sister, elves from {g|Kyonin}Kyonin{/g}, who've been dealing with star scraps for longer than I've lived.\""
+    },
+    {
+      "Key": "e8f01bad-6ad7-40c9-ac99-d1bed0eed20a",
+      "Value": "\"We have everything we need to turn this world around. A hunting lodge in the middle of nowhere, where the {g|Technic League}Technic League{/g} will never find us. The best equipment we could steal. And a true miracle in a metal barrel — the most exciting artifact that's ever fallen from the stars. A handful of tiny metal ants and a remote control to command them — the little seeds we'll use to grow our empire. We've fixed up the lab in the basement, and it's time to get started!\""
+    },
+    {
+      "Key": "c6701ed2-357f-44f1-a431-b35a5587790d",
+      "Value": "\"Anything! Everything! I'm not kidding — these ants can create literally anything. Once we figure out how to control them, we'll possess a unique tool capable of copying any item in the world — this one, or those beyond the stars! Gold, technological artifacts — anything we could desire!\""
+    },
+    {
+      "Key": "290f2287-e9c9-4c05-b7d3-306205717ee8",
+      "Value": "\"Because these backward fools can't see what's under their noses or above their heads! This artifact is the discovery of the century, and they just sent it to some remote storage facility and expunged all mention of its existence! They're terrified of the power this relic has — well, so be it! That just means that power will be gained by someone braver!\""
+    },
+    {
+      "Key": "44cb3115-0979-47d9-bd5b-9820d90d84ba",
+      "Value": "\"The lab is abuzz. Metal ants swarmed over the golden coin, measured it, and now, bit by bit, they're creating an exact copy. They move in procession somewhere down underground, then return with tiny bits of gold as well as the other materials they need to build more ants. With a happy smile, Alira works her magic over the remote control. Once we're done with the coin, we'll try to have the ants copy something more complicated.\""
+    },
+    {
+      "Key": "c8f2c3cd-d48b-463c-8f61-d4ba367890ef",
+      "Value": "\"Hloggy's been on a hunt for three days now. He's a smart lad — he won't get lost in the wilderness. Especially not with the star equipment he's got! I try to convince myself, but I'm still nervous. To distract myself from these heavy thoughts, I keep helping Ilyss and Llamm set up the lab — we have so many ants now, there's not enough room for them all on the table's surface... Hloggy, where are you? Get back as soon as you can!\""
+    },
+    {
+      "Key": "99fa4d69-c751-4e21-80d9-f81ff96e4ffd",
+      "Value": "\"It's the middle of the night. I'm lying in bed alone — I can't sleep without Hloggy snoring beside me. I stare into the darkness. My eyes play tricks on me — it's like swarms of little black specks are marching across the ceiling. It's hot, and my back itches. I toss and turn in bed, imagining how we'll return to {g|Numeria}Numeria{/g} with an army of battle robots, or gearsmen, and we'll live as kings.\""
+    },
+    {
+      "Key": "8c33bef9-527c-4e11-8329-13fd74e2f090",
+      "Value": "\"It's foggy outside — the fog's so dense I can't see the grass under my window. It's hot, and my back itches so much. Llamm went out to search for Hloggy. I wander around the lodge without purpose. Something's under my feet. I almost stumble on it. I look through the window. I wait.\""
+    },
+    {
+      "Key": "494059b9-825f-47a6-9c16-7f1160566d87",
+      "Value": "\"The smell of rot emanates from the lab, but I can't open the door. It's hot. I want to go out, breathe fresh air, but I can't find the door. There's something under my feet. I kick it away and go back to bed.\""
+    },
+    {
+      "Key": "bb9996dd-a2a3-4b59-8eeb-fdc9efe3ea72",
+      "Value": "\"My whole body itches. I lie staring at the wall — in the darkness, it seems like tiny black dots move across the wall, creating odd patterns. We'll return to {g|Numeria}Numeria{/g} as kings.\""
+    },
+    {
+      "Key": "549880d4-2e21-405b-bbd2-4d0414e42d69",
+      "Value": "\"It's hot. So hot. So itchy. We'll be kings. We'll get back. So hot.\""
+    },
+    {
+      "Key": "b20af38e-0dc5-4fc3-baef-e4aabebce0aa",
+      "Value": "\"It's unbelievably hot. The walls of the lodge are covered with glowing lines — countless ants swarm busily, turning them into... into what? What is it? I don't know. I scratch my skin, and it peels off in bloody patches, ants swarming underneath. Ilyss crawls on the floor, breathing heavily. The smell of rot from the lab is unbearable.\""
+    },
+    {
+      "Key": "a6d60500-bcb6-45b5-a298-f74a4f49ebd0",
+      "Value": "\"It's getting even hotter. I want to get up from the bed, but my legs have been eaten by the ants. I smell something burning. Our teacher looks through the window from outside, his face a grimace of disgust. Did they find us? Wait... We'll get back to {g|Numeria}Numeria{/g} and live as ants... So hot... There's black fog everywhere. Ilyss rolls over the floor, trying to beat off the flames. Where's Hloggy? He must have returned from the hunt by now...\""
+    },
+    {
+      "Key": "33ddd477-522a-4a6a-9dd9-59ad34108bb5",
+      "Value": "{n}The Storyteller's head is covered with beads of sweat, his face grimacing in pain. He rubs his temples.{/n} \"That is how the revolution of the five {g|Technic League}Technic League{/g} outcasts ended. Fortunately, they were found and eliminated before the metal ants finished constructing... whatever it was they were building.\""
+    },
+    {
+      "Key": "5c0fedcc-8086-4ab2-9f07-61b4b94de594",
+      "Value": "\"This story simply gave me a headache... It is nothing. It shall pass.\""
+    },
+    {
+      "Key": "2d6fb76c-7221-481f-b8fc-1a52f01e835a",
+      "Value": "\"I don't know! Maybe we'll create some treasure first, or maybe weapons enough to outfit an entire army! With these ants, there's no dream we can't make a reality!\""
+    },
+    {
+      "Key": "d6e06a77-886f-4a65-a1f2-5cf77489a887",
+      "Value": "{n}As soon as the Storyteller touches the smooth surface of the Oculus, his face grows stony and his features become strained. His head falls back, powerless, and his mouth opens with a moan that forms itself into words.{/n} \"Heed me, my master! Is this gift worthy of your name?\""
+    },
+    {
+      "Key": "d438f6f9-6255-4602-9575-1ece4aa7581e",
+      "Value": "\"In your name, we left the blissful darkness and rose from the depths to eliminate the swarming life beneath the boundless, disgusting sky. Like a merciless scourge, we swept across the hills and vales, destroying any who dared confront {g|Abaddon}Abaddon's{/g} chosen. Their blood fed the earth, their screams made mountains tremble, but only I knew how to quench the hunger of my master, that most dreadful of the Horsemen of the Apocalypse!\""
+    },
+    {
+      "Key": "673d8f0d-f86d-4d18-b45a-546c2230e9c4",
+      "Value": "\"I created a vessel of the foul craving — it craves for power, pain, and suffering. I've placed in it all my hatred of your enemies — the very same who are destined to possess my creation. Anyone seduced by its whisper will become your loyal servant, oh master — your obedient slave, who shall bring death and destruction upon the world of mortals.\""
+    },
+    {
+      "Key": "2cec6da7-db1f-4b78-9fd7-d71bfe8f5d34",
+      "Value": "{n}The Storyteller shakes his head and practically shoves the Oculus of Abaddon back into your hands.{/n} \"Please do not ask me to touch this anymore. This... 'creation' craves a new master, and its call is unbearable.\""
+    },
+    {
+      "Key": "280ceb0e-e17a-4b45-b944-3cca2cc5c684",
+      "Value": "\"One of them comes into the hall of the heart of the tree in which I rest. But no, it is not one of these creatures — it is an alien being, hiding its true face! It throws me through the portal, straight into the craving hands of the one who calls himself King Irovetti. I...\" {n}The Storyteller stops speaking and sighs heavily.{/n} \"Forgive me. I cannot glean anything more.\""
+    },
+    {
+      "Key": "7ebde5a6-6400-468d-be2f-eaff68c29f3f",
+      "Value": "\"I leave my gift here, in this underground temple. Let anyone who finds this vessel of torture and rage become its owner — and be subdued by the dark will of my master. The time of our great conquest has passed, and the remains of my kin burn beneath the sun. I'll join them soon enough, but my heart is calm, for I leave a magnificent legacy.\""
+    },
+    {
+      "Key": "6a364913-ffac-4fcb-a82a-b5093afd6aee",
+      "Value": "{n}The Storyteller lowers his had sorrowfully.{/n} \"Alas, this is true. Believe me, I didn't want a fight. But my fool curiosity wounded Valerie's pride. I will apologize to her the first chance I get.\""
+    },
+    {
+      "Key": "b2a8b94b-f0d4-4e4f-b19d-a39905b08f83",
+      "Value": "{n}The Storyteller nods to you.{/n}"
+    },
+    {
+      "Key": "0e5e13a2-75ac-4751-8fb5-06db45e62649",
+      "Value": "\"What can I say? We are not that close. She has no interest in the things that matter to me, and I... I prefer the world of ancient heroes and old legends, not the fuss that's all around us here and now. So I don't have an answer to your question.\""
+    },
+    {
+      "Key": "d53519d3-e166-44f4-9de8-f5bf5dce7a1c",
+      "Value": "\"I asked Valerie if she still had anything related to the {g|Shelyn}Eternal Rose{/g} Order, from back when she was a novice. An innocent question, but she took it as impudence... or insult. Please don't blame her. I'm to blame for what happened.\""
+    },
+    {
+      "Key": "c33a4130-c2c0-4f69-842f-f122342d6f4f",
+      "Value": "\"But I know that those who consider Valerie a close companion might be hurt by her words. Yesterday I talked to Linzi, and when I mentioned Valerie, I heard sorrow and tears in her voice. Maybe the tireless chronicler is having a tough time for the very same reason that you honored me with your visit today.\""
+    },
+    {
+      "Key": "7ea0252f-01d2-4e55-aa01-4c4b98e3f336",
+      "Value": "{n}The Storyteller touches the spear fragment. When he speaks, his voice sounds weak and depressed.{/n} \"We've been walking for ten days. The caravan's owner is swearing and scratching himself — seems the fat slob got some bad mosquito bites. I think he's regretting his decision to bypass the border guard through a smuggling route. Half the porters have upset stomachs, likely due to drinking water from the stream I found yesterday. I guess there must have been a reason it reeked. I walk in the front, trying to seem respectable and intimidating. Otherwise, they might realize I'm lost.\""
+    },
+    {
+      "Key": "37036f7c-7e10-4e73-856b-ad303fbeff1c",
+      "Value": "\"The trouble really started three days ago. I only saw the map once, but there was definitely supposed to be just one path here — we found dozens! Only an experienced guide would be able to find the right one. Of course, the caravan owner thinks I am such a guide — I told him I've been running this route for ten years, that I know every bush by name. I really needed the money; they won't let me run up my tab anymore...\""
+    },
+    {
+      "Key": "e1f7ea82-ce59-466a-9ac4-64045683f70e",
+      "Value": "\"I'm falling, and I hear something crack. Did I break a bone?! No, it was the spear. I fell across the shaft, practically sitting on it, and it snapped. The bandit attacks, his bludgeon spinning overhead. Terrified, I crawl under the cart. Members of the caravan are being slaughtered around me like cattle. It was an evil hour when they chose to trust me, Vu Balak, a sham guide, a drunkard, and a sad coward who inadvertently led them all straight into a bandit ambush...\""
+    },
+    {
+      "Key": "1bd196b9-9f75-4dd8-bbcd-1a6afa8cbadf",
+      "Value": "\"There's a whistle, then hooting from the bushes. Bandits! A dozen and a half ragged, filthy people with rotten teeth and sunken eyes — not much worse than us, now — rise from the bushes, their hair and clothes a mess... I raise my spear and scream threateningly, which usually scares off the weaker ones, but not these bandits. They get close, I swing, I stumble...\""
+    },
+    {
+      "Key": "063a9930-cda7-48d2-a21b-843c644280e6",
+      "Value": "{n}The Storyteller hands back the spear fragment, his forehead covered in sweat.{/n} \"What an unpleasant memory. I do not believe the owner of this piece was a... meritorious individual.\""
+    },
+    {
+      "Key": "c8da26dc-c940-4a24-86f3-939e5536d399",
+      "Value": "{n}The man standing before you resembles an elf — but a very old one. His face is wrinkled, and his beard is as white as mountain snow. The man seems to be completely blind.{/n}"
+    },
+    {
+      "Key": "2b48163a-e9e2-4968-a283-2edf01ce450a",
+      "Value": "\"A common question. Despite my... unusual looks, I am an elf. And an old one, yes — perhaps older than any other elf of {g|Kyonin}Kyonin{/g}. However, I doubt my age alone is responsible for my appearance.\""
+    },
+    {
+      "Key": "809b5788-905d-4027-93ac-95ac04251a62",
+      "Value": "\"I have always been drawn to the {g|Stolen Lands}Stolen Lands{/g}, where countless expeditions, armies, and even kingdoms have met their untimely ends. When I learned of a new barony being founded in the heart of these lands, I knew I wanted to be part of its story. So I made the journey here.\""
+    },
+    {
+      "Key": "7128af10-4a31-4dc4-a1cf-a8393d244e0c",
+      "Value": "\"I keep the stories of many people and races, some forever gone from the face of {g|Golarion}Golarion{/g}. But they live on in my memory and my heart. When I accept a new story, I lock it within myself, bearing the weight of its words and the emotions they invoke.\""
+    },
+    {
+      "Key": "a59d8839-7549-41d9-8f1f-654fe43bf46c",
+      "Value": "\"I sometimes think that I probably should have died long ago, but some incomprehensible force is keeping me alive and granting me the ability to continue my quest to gather stories. Be it divine power or fell curse, I am grateful either way.\""
+    },
+    {
+      "Key": "d297c4ea-b37d-43dd-a025-6016bdfa640c",
+      "Value": "{n}The Storyteller's back straightens, and his voice becomes militant, direct and precise.{/n} \"I'm guarding the royal chambers. I can hear the queen weeping, inconsolable. I clench the hilt of my useless sword so hard it makes my fingers ache. There's no way for me to help my lady. King Lethoriel the Wise is ill, and we all pray for his swift recovery... that's what they told the populace.\""
+    },
+    {
+      "Key": "414ab72a-f7fd-440c-8056-4cfd7da29699",
+      "Value": "\"The truth is much worse. The king isn't really ill, at least not in the traditional sense. He lies staring unblinkingly at the ceiling, barely breathing, neither alive nor dead. The queen is at his side day and night. The high priestess begs for guidance from higher powers. The court wizards relentlessly cast their best spells... But I'm afraid that even the Sisters would be unable to help us this time.\""
+    },
+    {
+      "Key": "fa43591c-028f-4bbe-8308-114f7b48d9d8",
+      "Value": "\"Magical creatures — the royal house's closest advisors. Three sorceresses with covered faces — maybe fey, maybe celestial... who knows?\""
+    },
+    {
+      "Key": "2e8c4f67-af8a-40d9-9da2-ea4b64c97ea4",
+      "Value": "\"How did you know that? Yes, it's true — they found the king in the garden, lying as if dead, with no sign of the crown.\""
+    },
+    {
+      "Key": "a6c7a2cc-a40c-4455-87c8-7dab7570de7d",
+      "Value": "\"Long ago, they served our king's mother, the honorable Llavalee the Roadbuilder — the founder of Rushwood. Our kingdom wouldn't have flourished without their magic and their wisdom!\""
+    },
+    {
+      "Key": "710e98af-9aca-4051-a761-b656ea547082",
+      "Value": "\"Who would dare touch His Highness, let alone have the nerve to remove the crown from his head? It's been ten days, and we're no closer to solving the mystery!\""
+    },
+    {
+      "Key": "cef7c0d4-8ea7-4978-ae59-8d9753c52df2",
+      "Value": "\"It was a disgusting scene in the council hall this morning — the prince struck his sister on the face in full view of the queen, the advisors, and the court. She said it was time for us to stop lying to ourselves — it's been a month, and the king is no better than the day we found him. She said we should admit he was dead.\""
+    },
+    {
+      "Key": "e3d9e09d-f536-4440-9bb9-399598a24e28",
+      "Value": "\"It took the prince some time to find the words to answer. His voice cracking, he accused her of wishing to usurp the throne to fulfill some quixotic fantasies of sending a crusade against the cyclopes... I distinctly recall the look the princess gave her mother, but the queen kept silent. The Sisters, the court, the guards under my command — everyone watched her in silence. She quickly left the council hall without saying another word.\""
+    },
+    {
+      "Key": "c426f3df-37dc-4dd7-bd4d-00a9fdfe178c",
+      "Value": "\"Far to the west — beyond rivers, impassable swamps, and a wall of mountains — a tribe of cyclopes recently appeared. Our scouts reported that they'd escaped from faraway {g|Ghol-Gan}Ghol-Gan{/g} for some reason. They decided to found a new kingdom, called {g|Koloran}Koloran{/g}.\""
+    },
+    {
+      "Key": "211d09f8-a3a8-457c-923a-0446ec0aec0d",
+      "Value": "\"The cyclopes are fearsome, but they're too far away to be a threat to us. King Lethoriel is called 'the Wise' for a reason — he decided that we would only engage them if they dared to move troops against us, and only to rebuff their attack. We would not initiate a war with them. The king and the court argued regularly with the princess on this topic — she felt that the threat should be nipped in the bud.\""
+    },
+    {
+      "Key": "1e5b1396-78bd-4e50-8f25-350a9ad0bdec",
+      "Value": "\"It's hard to say, really. I want to believe the king will wake up, but if — gods forbid — he doesn't... The kingdom needs a ruler.\""
+    },
+    {
+      "Key": "d786a73b-840b-430f-a2e2-811c74ac4b51",
+      "Value": "\"I'm leaving the queen's chambers. My heart pounds so hard I fear it might stop. I'm terrified by what I'm about to do. A short note, hastily placed in a maid's hand... Forgive me, Your Highness, but I would sooner besmirch my honor with treason than allow you to ruin your own kingdom — and your own daughter.\""
+    },
+    {
+      "Key": "3462c6e0-6f6f-4d01-915e-a90f6e39eb9a",
+      "Value": "\"It's the dead of night. I'm in the queen's chambers. She whispers an order to me... I don't frighten easily, but I shudder. She's tasked me with gathering people who are loyal to her and arresting the princess at dawn. Her Highness is sure her daughter is plotting a coup, and she wants to avoid such bloodshed... Doesn't she understand that this act will unleash the very feud she's hoping to avoid?\""
+    },
+    {
+      "Key": "e448c752-c9be-4ba9-9ca5-e32eb8841d16",
+      "Value": "\"I'd stake my life on it, even my honor. The princess is loyal to Rushwood. The prince's slap today wouldn't be enough to make her turn against her people.\""
+    },
+    {
+      "Key": "ffac08b2-370a-4578-b97b-3e4b8c13db18",
+      "Value": "\"The queen knows it too, I'm sure — so why did she decide her own daughter was plotting a coup? And why didn't the Sisters talk some sense into her? Maybe the prince is spreading lies about his sister? Yes... Yes, that must be it!\""
+    },
+    {
+      "Key": "be9d3620-948d-4198-91ab-df6c6df631d6",
+      "Value": "\"At dawn, we approach the princess's chamber — and see a team thrice as large barring our way. We're disarmed and discharged. The queen is in honorary confinement in her chambers. The carnage has been prevented. No one knows of my crime, save my own conscience — which is enough. I sentence myself to banishment from the country I love above all else. The country in which I'm now ashamed to look even the lowliest garbage collector in the eye... at least he fulfills his simple duty with honesty.\""
+    },
+    {
+      "Key": "5475833a-2a45-4d9c-a7f2-156b73d276c2",
+      "Value": "{n}The Storyteller pauses a moment, his blind eyes seeming to stare intensely into the distance.{/n} \"A dirty roadside tavern. It smells of sour beer and burnt bread, and all I hear are these rough, barbaric tongues. I question travelers incessantly for news out of Rushwood — and what I hear makes me want to grab the swill they serve here and drink myself into a stupor.\""
+    },
+    {
+      "Key": "e3e0e439-909d-4953-8ba9-3dc70799f752",
+      "Value": "\"Power passed into the princess's hands without any bloodshed, but the prince has retired to his estate — to gather troops against his sister, I've no doubt. My betrayal didn't prevent the feud, it simply delayed it — he'll need just half a year, I fear, and no longer. I kneel and pray to all the kind gods. May they grant mercy, and may they keep safe the kingdom I couldn't.\""
+    },
+    {
+      "Key": "678828a9-1251-4a0e-9724-18ecc2d5a43c",
+      "Value": "\"There is no indication of this in the guard's memories, but I consider that to be the most likely probability.\""
+    },
+    {
+      "Key": "ec361628-bb83-4a22-a606-cc7841a367fe",
+      "Value": "\"They were trusted as kind guardian spirits. It would not cross anyone's mind that they might entrap the king's soul into his own crown, then defame the princess to her mother and her brother.\""
+    },
+    {
+      "Key": "1348845c-8f6f-4dd3-9de1-e2f6a3e23dbd",
+      "Value": "\"He traveled to the {g|Thassilonian Empire}Thassilonian Empire{/g}. He served as a guard and gave lessons in swordplay... but that's where his trail goes cold.\""
+    },
+    {
+      "Key": "6809ebe3-dc09-4019-9c21-58bccc81c212",
+      "Value": "\"I think he continued to question travelers for news of Rushwood to the end of his days, trying to decide if what he did that night was right. Maybe arresting the princess would have avoided the feud after all, who can say? I do not believe he ever found the answer to his questions.\""
+    },
+    {
+      "Key": "9021667c-3bc6-4637-a9c4-031f4dcb8c4c",
+      "Value": "{n}The Storyteller's face distorts with pain.{/n} \"Who are you? You're not the Witch, nor the worm... But you're also not the {race} who holds me here... Can you hear me? Free me from this prison, I beg you! I've suffered so long! I... I wish to rest in peace...\""
+    },
+    {
+      "Key": "fa5f0375-acec-4334-8003-053878437cf8",
+      "Value": "{n}The Storyteller rolls the bright bead in his palm.{/n} \"Just glass — but so much more beautiful and valuable than some precious gems. The art of melting such glass belonged to the elves before {g|Earthfall}Earthfall{/g}. That art is now lost, along with many other mysteries... I would buy this from you, if I may.\""
+    },
+    {
+      "Key": "0dcb0084-55de-45e3-8075-d369bc8b759c",
+      "Value": "\"I hear an elven flute. A joyful melody is being played in the main square — and passers-by cannot help but dance! This is not my native {g|Kyonin}Kyonin{/g}, no... This kingdom rose and fell thousands of years before. What ruined it? I think I... No, no. I cannot quite make out what these relics are saying. Please, find the rest of the five — I long to uncover their story!\""
+    },
+    {
+      "Key": "5a3c8857-9720-4294-9034-ab7cfa2a97c5",
+      "Value": "\"I hear an elven flute. A joyful melody is being played in the main square — and passers-by cannot help but dance! This is not my native {g|Kyonin}Kyonin{/g}, no... This kingdom rose and fell thousands of years before. What ruined it? I think I can hear their story... Are you ready to hear about the sad fate of Rushwood?\""
+    },
+    {
+      "Key": "393bde73-8792-4a9a-96b9-22e2d8bf29a1",
+      "Value": "{n}The Storyteller's shoulders sag as he returns the First Crown to you.{/n} \"You had no need to give me this item, to be reminded of this prisoner's suffering. You are well aware of the item's story. If his tears could move you, you would have already freed him.\""
+    },
+    {
+      "Key": "83aecf7f-e315-4df0-8089-ce431868fef4",
+      "Value": "{n}The Storyteller sighs heavily and shakes his head. After a moment, he continues, his voice returned to normal.{/n} \"As you can likely guess, the gods did not answer his prayers. Soon, Rushwood was devoured by the fires of the royal feud... And then {g|Earthfall}Earthfall{/g} wiped even Rushwood's ruins from the face of {g|Golarion}Golarion{/g}.\""
+    },
+    {
+      "Key": "6451d51b-b7f5-46b5-8148-91613d4eb718",
+      "Value": "\"The invisibility potion tastes bitter. My charmed spectacles are cold against my face, but they allow me to see in the dark. The darkness embraces me like warm dark velvet, as I creep slowly up the tower's spiral stair.\nI am Kiny the Stubborn, thief of secrets. I was born to a family of slaves, destined to squirm at the feet of my cyclops masters. But I grabbed fate by the throat and escaped, taking with me some of my cruel master's artifacts. Since then I've traveled the world, doing what I do best.\""
+    },
+    {
+      "Key": "02502bd8-5613-4107-8664-df1ce967f689",
+      "Value": "\"From the tall spikes of the temples of {g|Azlant}Azlanti{/g} to the secret dungeons of {g|Thassilonian Empire}Thassilon{/g}, from huts of shamans living in reeking swamps to the shiny palaces of cyclops aristocracy. I've been everywhere, and from every quarter I collected something of great value. Scrolls and potions, artifacts, blueprints of magical devices and spell designs. All this and far more I have held in my hands. Bards tell stories of my adventures. Some claim that once the Stubborn stole an artifact right from the bedroom of the Lord of Runes. I can neither confirm nor deny these rumors.\""
+    },
+    {
+      "Key": "fd9d7425-18da-4e13-928d-20930ab99963",
+      "Value": "\"But today's mission is more important and dangerous than all that came before it. I must not lose. I do not have the right to lose.\nThe stairway ends at an arch without a door. I look for traces of protective spells, and frown when I find none. I step across the threshold. Moonlight fills the room. Wrought iron grills on the windows cast criss-crossing patterns on the floor. Small, blossoming trees sway in their pots. Where are the protections? I take another careful step.\""
+    },
+    {
+      "Key": "852db004-1ecf-4c59-b62a-48d7e1adffed",
+      "Value": "\"Suddenly, two of the nearest trees reach out their branches and drop some petals. They fall in a circle. Damning the world all around, I move to escape, only to find myself trapped. The invisible wall is more secure than shackles. Caught! I sigh, and I sit down upon the floor, legs crossed. I take out a flask of strong liqueur, and a volume of frivolous poetry, awaiting the tower's owner.\""
+    },
+    {
+      "Key": "44e02a5b-6bda-4223-be71-b006931e6231",
+      "Value": "{n}The Storyteller moves his lips silently, rubs his temples, then sighs, obviously baffled.{/n} \"I cannot answer, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. This has never happened to me before, but some of the memories seem hidden. Let us continue. Perhaps everything will become clear as the story develops.\""
+    },
+    {
+      "Key": "e4539e90-c13e-4ce2-abbb-7fd5e6c23fe5",
+      "Value": "\"Because I do not steal for profit. I've no interest in gold and jewelry, only the secrets of wizardry. I do not rob simple wizards, but track down those who possess unusual artifacts or develop new spells, which they do not wish to share with the world.\""
+    },
+    {
+      "Key": "61cd7ffd-05ac-4743-b4bb-057617c790d1",
+      "Value": "\"I began by giving the secrets of cyclops wizards to their human slaves, but many years have passed since then, and the list of my exploits has grown long. I have learned that if someone possesses unique power or knowledge, they can easily use them to evil ends. But when power and knowledge belong to many, no one alone can abuse them, and balance is preserved.\""
+    },
+    {
+      "Key": "b0e83a6f-c84a-42ad-9f55-253a72f3c050",
+      "Value": "\"Soon the owner of the tower enters the room – a tall elf with silver hair, wearing simple gray clothes. He looks at me and shakes his head, 'Couldn't even make it past the third floor? What's happened to you, Stubborn? Are you getting old?' I flash him an obscene gesture that backstreet dwellers use. The elf laughs, then flutters his fingers, lifting the spell. The circle of petals blows away, and I arise. The tower's owner embraces me warmly.\""
+    },
+    {
+      "Key": "161a3c9e-328e-4695-87af-89e1ddb94e2d",
+      "Value": "\"The master of the tower is a powerful wizard, a creator of wonderful things, and an old friend. Once, when I was a young boy who had just escaped slavery, I snuck into his pantry and found myself caught in a magic trap, just like I was today. The owner did not punish me, but instead released me, gave me food, and a roof over my head. Since then we have been in competition. – Once every five or six years, I visit my friend and try to secretly slip through all the traps in his tower. Then we pass the night speaking of my adventures, and the varying fates of the elves and the short-lived.\""
+    },
+    {
+      "Key": "4da7e57b-76d3-4d5e-b813-0b961ed055d7",
+      "Value": "\"Today too we sip mulled wine, and I tell him of the many wonders I've seen in my travels. 'You'd learn much if you didn't sit here endlessly, guarding your secrets.' He smiles, 'You've made it your life's goal to reveal secrets, and I, to keep them. Not every secret belongs out there in the world, Stubborn. Passing through hundreds of hands, jewels lose their shine, and knowledge becomes distorted. Truth turns into lies. That is why I sit in my tower, guarding what I've created, and what I've learned from others.'\""
+    },
+    {
+      "Key": "dea83d46-c670-4eb5-b987-077aae14db8f",
+      "Value": "\"I dare not argue, and we talk about other things for a while. At last we say goodbye until the morning. And as soon as the elf retires to his chambers to immerse himself in meditation, I slip out of the room with all my equipment, and proceed to the tower's main treasury. Forgive me, my friend. You've let a snake into your house.\""
+    },
+    {
+      "Key": "8a05c14a-b179-495c-89f4-351c3bbc3444",
+      "Value": "\"The truth is that I've known all the traps in this tower for many years, and have gathered a handy set of artifacts that will help me avoid them. Every time I got caught it was only to blunt my host's vigilance. Thus he would invite me into his house without worrying for his precious secrets.\""
+    },
+    {
+      "Key": "b86d983c-9c33-44d8-91cb-a791f19028dc",
+      "Value": "\"The plan worked. Not long after, I had already escaped the tower, taking with me one of the old elf's greatest secrets. And now I'm running, hiding, delving down and down through the tunnels of an ancient dungeon, to hide what I have stolen.\nFor so many years we argued about whether I'm right to tear secrets from their keepers' hands and release them into the world. And here I am, shunning the sun, crawling deep, as far as I can reach, away from the light of knowledge. – To hide a secret which must never be shared.\""
+    },
+    {
+      "Key": "a5602e82-99f5-463a-b3bb-1a7782cc0b66",
+      "Value": "\"I have no one I can tell of this. There is none with whom I can share this dread knowledge and my terrifying speculations. I have no right to speak of it. The thing I took from the tower must be hidden dark away, and never see the light for thousands of years. Otherwise there will be great woe. My friend's tower is not the adamant keep he imagines it to be. I must hide his secret deep, where it will vanish without a trace. Even if it means that I myself must vanish with it.\nI have little hope that you will understand why I betrayed you, my friend. Forgive me, if you can, and farewell.\""
+    },
+    {
+      "Key": "0b8a771d-a493-4c6d-b541-4009dbb661ff",
+      "Value": "{n}The Storyteller hesitates. His face grows pensive, and more grim than usual.{/n} \"Yes. The ending of this story is lost in the darkness. I cannot say what happened to the Stubborn and his secret. This story is one of the most ancient I've encountered. Perhaps that is the reason for its obscurity. How amusing that it touches upon a matter that I've given much thought to. – Whether secrets should be kept hidden, or shared generously with the whole world...\""
+    },
+    {
+      "Key": "8b8dde3d-2c3a-497d-a223-4fe491ab0921",
+      "Value": "\"I cannot say. I suspect, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, that the Stubborn feared that his memories might be recovered, and deliberately hid his secret even from my sight.\""
+    },
+    {
+      "Key": "205fef34-41fc-4dd0-bf9d-ab17fc345be7",
+      "Value": "\"This story is the saddest of all for me. I might not be able to say what saddened me so much. I believe it's the obscurity...\""
+    },
+    {
+      "Key": "8ca27a88-a0a4-4590-971d-424c6b8a0265",
+      "Value": "\"This is strange… I feel the traces of the rune magic of {g|Thassilonian Empire}Thassilon{/g}, heavy spells of cyclopes, precise wizardry of {g|Azlant}Azlant{/g}, and the fresh wind of elven spells. All combined together, though it's barely discernible underneath the mold of time. Who could have joined all these things? Their owner is shrouded in a thick darkness, blacker than the depths. Find all five items, and then, I hope, the secret of their owner will be revealed to me.\""
+    },
+    {
+      "Key": "45008176-1981-43fa-af7f-38ca845f25f7",
+      "Value": "\"This is strange… I feel the traces of the rune magic of {g|Thassilonian Empire}Thassilon{/g}, heavy spells of cyclopes, precise wizardry of {g|Azlant}Azlant{/g}, and the fresh wind of elven spells. All combined together, though it's barely discernible underneath the mold of time. I see their owner, his lonely journey into the darkness, a path with no return. Do you wish to learn the story of the thief of secrets, my {mf|baron|baroness|King|Queen}?"
+    }
+  ]
+}

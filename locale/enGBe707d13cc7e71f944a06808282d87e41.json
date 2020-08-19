@@ -1,0 +1,177 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "2ac7caeb-a053-4024-b2f1-79ff4fd2e61e",
+      "Value": "[Pass the bottle to Ntavi] \"Here. I hope you like this.\""
+    },
+    {
+      "Key": "0b0cdedb-e280-4b8f-b76d-780ac5a11ee9",
+      "Value": "\"Still, why do you need a bottle of wine?\""
+    },
+    {
+      "Key": "38ba0df5-8930-4d86-a3d5-73d216093262",
+      "Value": "[Open a bottle of wine ostentatiously and sip from it]"
+    },
+    {
+      "Key": "88b57896-21b8-4d6b-82e7-84fd30122548",
+      "Value": "\"And why do you need a bottle of wine?\""
+    },
+    {
+      "Key": "79297746-8392-45b8-8b4f-4d73e383c5cd",
+      "Value": "\"Fine, I'll see what I can do.\""
+    },
+    {
+      "Key": "97dc0bf0-6092-464d-abe6-85b8535ecd1f",
+      "Value": "\"I'll think about it.\""
+    },
+    {
+      "Key": "d84038c0-0b22-405a-af69-3889f83486c1",
+      "Value": "\"I don't have time for this.\""
+    },
+    {
+      "Key": "3fa3d491-63b4-47f3-96c0-56978ffa6b16",
+      "Value": "\"So what did you want to talk about?\""
+    },
+    {
+      "Key": "dee33b9b-6b8a-4b05-9307-88355cc1b3d8",
+      "Value": "\"I admit, we got acquainted very suddenly.\""
+    },
+    {
+      "Key": "0f0c02b6-9224-4d72-bd55-82db08de960c",
+      "Value": "\"Where are you from?\""
+    },
+    {
+      "Key": "d98dc6c1-b113-4f8f-aca1-47e584e03b54",
+      "Value": "\"How did you meet Ekun?\""
+    },
+    {
+      "Key": "3231d4e9-150e-4040-bf6d-cc239ee88641",
+      "Value": "\"Ekun never mentioned you.\""
+    },
+    {
+      "Key": "fe349e49-f44f-4e3b-a2da-b97e3c903199",
+      "Value": "\"I'd like to know you better.\""
+    },
+    {
+      "Key": "34383e61-7794-440a-bb8a-a32a56d417c8",
+      "Value": "\"Didn't you say before that he doesn't like taverns?\""
+    },
+    {
+      "Key": "af4d39df-3f19-4d31-b3d1-3d8d5895a5f3",
+      "Value": "\"A curious story.\""
+    },
+    {
+      "Key": "e0f929de-1690-4d33-b750-fb173d16eb68",
+      "Value": "\"Let's change the subject.\""
+    },
+    {
+      "Key": "81fba912-97de-4dbd-b5ea-9c8be7f3a6a7",
+      "Value": "[Smile in response and leave]"
+    },
+    {
+      "Key": "7eae250a-be69-4829-b79c-0bb274abb7a5",
+      "Value": "\"A curious tattoo — a stinging wasp. Does it mean anything?\""
+    },
+    {
+      "Key": "d8528891-c771-44ee-b816-14f4bd7fa08d",
+      "Value": "\"There's a symbol of Calistria on your wrist. Are you one of her followers?\""
+    },
+    {
+      "Key": "2876c5af-c210-424d-8288-4565fd673b8e",
+      "Value": "\"Stinging wasp is a symbol of Calistria.\""
+    },
+    {
+      "Key": "4f0dcce0-4a4a-4498-8950-f5acbfeefde7",
+      "Value": "\"That is an evasive answer.\""
+    },
+    {
+      "Key": "b7f1d516-0088-43e1-ba20-25df6ddef1e8",
+      "Value": "\"Your Grace.\" {n}Smiling, {d|Ntavi}Ntavi{/d} nods politely.{/n}"
+    },
+    {
+      "Key": "90057eb9-30f4-4295-815c-822e8fd8220a",
+      "Value": "\"I wanted to ask a favor. You see, Elina the innkeeper treats me coldly, and I have no reason why! Yesterday, for instance, she argued with me before changing the sheets in my room, and today she refuses to pour me a glass of wine... So I was thinking, she wouldn't refuse if the baron{mf||ess} {mf|him|her}self asks for a bottle of wine?\""
+    },
+    {
+      "Key": "3f96ab56-1691-4d51-90a3-f9a393d98f44",
+      "Value": "{n}Ntavi greets you with a charming smile.{/n}"
+    },
+    {
+      "Key": "2b69368f-e9c4-4817-83d5-8f3ddc1a960f",
+      "Value": "{n}Casting a warm glance your way, Ntavi nods gratefully.{/n} \"Thank you very much! Now if you don't mind...\""
+    },
+    {
+      "Key": "9cb6e69e-e130-4d64-ba09-7d0870d4e44b",
+      "Value": "{n}The woman's mysterious smile is baffling.{/n}"
+    },
+    {
+      "Key": "d7f81d60-3622-48ad-bb37-1486881bc336",
+      "Value": "\"Hmm.\" {n}Ntavi's face is like a mask. She turns away silently.{/n}"
+    },
+    {
+      "Key": "36241676-939f-4fa2-af07-69100ab8c50f",
+      "Value": "{n}Ntavi's laughter is soft and musical.{/n} \"What a strange question! Really, why would I need a bottle of wine at a party?\""
+    },
+    {
+      "Key": "a4698dda-e755-430e-8c9d-478c6b371546",
+      "Value": "\"Thank you, {name}!\""
+    },
+    {
+      "Key": "a041395f-24cd-4c6c-82be-172c1bf26a9b",
+      "Value": "\"As you wish.\""
+    },
+    {
+      "Key": "3760d1af-57b7-4aa6-b725-bd20760e8b8c",
+      "Value": "\"Ah-ha-hah! That's right — when we met for the first time, I had to speak to him, interruptions be damned. What was I supposed to do? I haven't seen Ekun for such a long time, and I was so surprised to hear about him...\""
+    },
+    {
+      "Key": "a9f46c37-4c51-40ad-8c89-84e6d997e9fc",
+      "Value": "\"I'm at your service.\""
+    },
+    {
+      "Key": "eff2ec96-f6a7-43fc-93f0-d14372312045",
+      "Value": "\"I grew up in Nantambu, far from here, but never liked that city. I left it years ago, and haven't been back since. I remember leaving it vividly. Little towers covered with bright mosaics dot the horizon, while I lay hidden in the bushels of sugarcane on a rumbling cart, drawn by a lame old donkey.\" {n}Ntavi laughs.{/n}"
+    },
+    {
+      "Key": "94ee3696-9064-4004-aacd-100ad032f04f",
+      "Value": "\"We guarded a caravan together. At first, I couldn't stand Ekun — I took his silence for arrogance. But then a sandstorm forced us to spend a week in a tiny village. We drank everything the only inn had to offer — and got to know each other better.\""
+    },
+    {
+      "Key": "c743936a-c20f-418d-87fb-67f06d5942e9",
+      "Value": "\"You don't say, ah-ha-ha! It can't be!\" {n}Ntavi looks at you with a smirk.{/n} \"And he is usually so talkative! Keeps talking about himself, his past, his dreams and plans, a couple of jokes here and there.\""
+    },
+    {
+      "Key": "30ddd210-79b4-44f6-b567-bdf9a3daf8a8",
+      "Value": "{n}Ntavi grins, staring off into the distance.{/n} \"He behaved somewhat... differently when he was young.\""
+    },
+    {
+      "Key": "9d8fb558-186c-407a-8b75-1a27c0ccd8d9",
+      "Value": "\"And old as the world.\""
+    },
+    {
+      "Key": "b3ca6790-1df4-4588-b82b-8a51b85e221f",
+      "Value": "\"Agreed.\""
+    },
+    {
+      "Key": "6dc77033-d5b9-44a2-b73b-5a4b587aab01",
+      "Value": "\"Well... I just wanted to steal Ekun for a moment. To walk and talk with him, eye to eye. I've known him a long time, and he could definitely use someone to talk to.\""
+    },
+    {
+      "Key": "f89466f0-ddfc-4e7f-9160-a68847b9b163",
+      "Value": "\"Your Grace is very observant.\" {n}Ntavi runs her finger over the image.{/n} \"This tattoo is a tribute to tradition. It symbolizes the transition from unconscious dogmatic conformity to mindfulness and self-awareness.\""
+    },
+    {
+      "Key": "2db9d91e-e228-4cb4-8219-3165a374812a",
+      "Value": "\"You are well-informed. Yes, I venerate the goddess. In my part of the world, this tattoo is a part of an initiation ritual. It symbolizes awareness of one's desires... self awareness.\""
+    },
+    {
+      "Key": "2b396646-96c2-4c0d-a1e6-b15a65dcc694",
+      "Value": "\"Ah-ha-hah, I'll probably never get used to the straightforwardness of citizens of the {g|River Kingdoms}River Kingdoms{/g}. A wasp is the sacred animal of {g|Calistria}Calistria{/g}... I am one of her followers.\""
+    },
+    {
+      "Key": "aac44cb4-4099-4976-a75c-d1e4d779f0d7",
+      "Value": "{n}Ntavi keeps smiling as if nothing happened.{/n} \"Just so. Know your desires and you'll know yourself.\""
+    }
+  ]
+}

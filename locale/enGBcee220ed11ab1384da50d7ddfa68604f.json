@@ -1,0 +1,113 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "7c7272f0-9104-47cf-913f-7a469f28609f",
+      "Value": "[Try to pry the door open]"
+    },
+    {
+      "Key": "0a0111ba-5176-458b-81a4-0415106be9de",
+      "Value": "[Examine the entrance]"
+    },
+    {
+      "Key": "100229c5-78a3-4e91-87d8-7d0b7d1aac86",
+      "Value": "[Try to break the door open]"
+    },
+    {
+      "Key": "4b78174b-620a-42c5-b9d8-57d12fccfadb",
+      "Value": "[Speak the word \"kheb\"]"
+    },
+    {
+      "Key": "0c5d2a91-f942-4f4d-a885-7cf0a19026d4",
+      "Value": "[Enter]"
+    },
+    {
+      "Key": "8a898bf7-22c3-468a-9d03-3450fbfc4cf8",
+      "Value": "[Leave]"
+    },
+    {
+      "Key": "bb2fec68-449c-41bb-9012-4e7a4b197b89",
+      "Value": "[Use detect magic]"
+    },
+    {
+      "Key": "42b40d56-f8b6-4a9b-acb0-7cbc6ac6a407",
+      "Value": "[Read the inscriptions on the door]"
+    },
+    {
+      "Key": "16e57d11-6106-4b4f-bada-92ce3c2106de",
+      "Value": "{n}A huge stone slab blocks entrance to the tomb. The ancient stone surface is covered in worn inscriptions, barely visible beneath the moss.{/n}"
+    },
+    {
+      "Key": "8f1c2892-891a-4ec5-84b1-cc0411928784",
+      "Value": "{n}You examine the door closely, but you find no sign of any mechanism that would open the door.{/n}"
+    },
+    {
+      "Key": "dfb8429b-bf44-4833-9b6f-2ab595e12464",
+      "Value": "{n}The crumbling, ancient stone is densely covered with thick moss. Near the edge of the slab, some of the moss has been torn — some unknown force must have moved it aside and then replaced it.{/n}"
+    },
+    {
+      "Key": "456e3037-35e6-4b2b-ad23-99585c11141e",
+      "Value": "{n}Chunks of moss fall from the slab as you strike it. There doesn't seem to be any other effect.{/n}"
+    },
+    {
+      "Key": "d3c46c48-1447-4dd8-a415-6c0c7eaa6b81",
+      "Value": "{n}The slab slides aside, easily and noiselessly, making a crack wide enough for you to enter.{/n}"
+    },
+    {
+      "Key": "c6a547fc-b90c-4516-9d80-4dab5ad48161",
+      "Value": "{n}After ensuring the slab won't close itself behind you, you step into the damp, cold darkness of the tomb.{/n}"
+    },
+    {
+      "Key": "f0c1e0ab-c2ac-4a41-81e0-c501a460de83",
+      "Value": "{n}The door radiates a faint transmutation aura.{/n}"
+    },
+    {
+      "Key": "c112d3f2-b1f9-4a26-bcce-0c44541fdc2b",
+      "Value": "{n}You manage to read several phrases of the ancient cyclopean language.{/n}"
+    },
+    {
+      "Key": "9e86ab27-69b8-4c0a-b2b3-d862dd0077d7",
+      "Value": "{n}You stare at the symbols on the worn stone for a long, long time, but they just won't reveal their secrets.{/n}"
+    },
+    {
+      "Key": "4b2967d9-a036-4e9c-925d-babd5b985e32",
+      "Value": "{n}Before you have a chance to take a single step, a voice calls out from inside the tomb.{/n} \"Wait! Do not enter! Prop the door, or it will close behind you!\" {n}Unwilling to tempt fate, you move a large stone to the entrance and prop the door open.{/n}"
+    },
+    {
+      "Key": "744ae60b-1349-48c3-a9ff-acdb046be73a",
+      "Value": "{n}The huge stone slab that had been blocking the entrance now stands to the side. The darkness within seems to almost breathe with cold and dust.{/n}"
+    },
+    {
+      "Key": "6a78131a-f80a-4122-92f9-f4c27c3c6e11",
+      "Value": "{n}Swearing under her breath, Amiri continues hitting the door several more times. Once it's apparent that it isn't going to budge, she gives it an angry kick.{/n}"
+    },
+    {
+      "Key": "878df4ea-4592-4fb0-9b47-6207a8dac9d1",
+      "Value": "{n}Cruel and evil go into the blind darkness, while kind and merciful go into even deeper darkness... impenetrable blackness... darkness opens every door... wise and stupid, lewd and ascetic... there's not a single path in this world that won't lead into ultimate darkness.{/n}"
+    },
+    {
+      "Key": "9e2db9c0-b785-4be3-9149-6cb30b6af748",
+      "Value": "\"Wait a moment... I think I can understand some of this. Let me see...\""
+    },
+    {
+      "Key": "11fb67ed-6bfd-4e1b-a8db-1606b2cb31ca",
+      "Value": "\"Such wise, beautiful words...\""
+    },
+    {
+      "Key": "59796ae9-a703-4fbe-8fcd-8193bf28ff96",
+      "Value": "\"Ick, what a load of nonsense! I was hoping for a legend. Or maybe a poem. Or at least some sort of ancient recipe!\""
+    },
+    {
+      "Key": "23399137-9b4e-4ba9-945a-c83dc47c15ef",
+      "Value": "\"If you had even rudimentary knowledge of ancient cyclops culture, you wouldn't be so eager to see their recipes. To wit: they were cannibals.\""
+    },
+    {
+      "Key": "d8081d33-b02c-4c26-b757-a9edabb7642a",
+      "Value": "\"Blech!\""
+    },
+    {
+      "Key": "ff9873fa-2f62-4c17-80f2-5ff879ba7f93",
+      "Value": "\"The cyclopes were fabulously rich. Why, instead of creating ageless beauty, would they waste it all building monumental ugliness like this?\""
+    }
+  ]
+}

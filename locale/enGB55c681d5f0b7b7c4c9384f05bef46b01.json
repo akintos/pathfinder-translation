@@ -1,0 +1,417 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "c565f7a6-94f8-48e8-ad3e-199213f9a06c",
+      "Value": "\"Tell me about yourself.\""
+    },
+    {
+      "Key": "69eb2f55-1bc9-445c-99b5-952a85eb5f05",
+      "Value": "\"Leave and do not return. I don't want to ever see you again.\""
+    },
+    {
+      "Key": "66153143-6d99-45f3-9b56-42e38b530925",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "3c5ed105-70a4-4514-8b4e-5c8dcc880a53",
+      "Value": "\"Where are you from?\""
+    },
+    {
+      "Key": "4d67db61-d424-4dfc-9a7b-57e2d35091bb",
+      "Value": "\"Who was your teacher?\""
+    },
+    {
+      "Key": "b57fca8f-883f-4aa4-9854-b87711e82e60",
+      "Value": "\"How did you become a bard?\""
+    },
+    {
+      "Key": "8514f105-25a9-4546-9009-56f18fddf5b6",
+      "Value": "\"Why are your clothes so messy?\""
+    },
+    {
+      "Key": "455900f0-4c18-41d2-9736-e5dc3e00e3f0",
+      "Value": "\"You come from Pitax, right? Tell me about it.\""
+    },
+    {
+      "Key": "09d2b79f-bdd5-4d8a-a261-f2ffcff5e887",
+      "Value": "\"What is life in Pitax like?\""
+    },
+    {
+      "Key": "5b18391d-fa7a-4aa3-97b8-838a40f22076",
+      "Value": "\"Tell me about the Academy you studied at.\""
+    },
+    {
+      "Key": "6d215dbe-bf41-4a5f-85e8-9c4156a029c4",
+      "Value": "\"What do you know of King Irovetti?\""
+    },
+    {
+      "Key": "4c1c1103-b0d6-416d-9d62-84cc925b308e",
+      "Value": "\"Would you like to go back to the Academy and finish your studies?\""
+    },
+    {
+      "Key": "6e48c1fa-c7a1-437f-830c-a34bac564de7",
+      "Value": "\"Tell me about that book you're writing.\""
+    },
+    {
+      "Key": "dff2c9b6-0584-4193-bcc6-3bae5dc67afb",
+      "Value": "\"No offense, but your command of language is not that good.\""
+    },
+    {
+      "Key": "317b67b2-1c23-491b-afca-8bf1f46c1e1c",
+      "Value": "\"So, what kind of a character am I?\""
+    },
+    {
+      "Key": "e1d42614-9988-4c25-aaa7-47cb94e9b0ac",
+      "Value": "\"Why are you writing it? What's the point?\""
+    },
+    {
+      "Key": "bea0cd7c-bdf8-4890-8849-9607ff3bba6d",
+      "Value": "\"Do you worship Shelyn?\""
+    },
+    {
+      "Key": "2c420fb9-8030-49f0-a855-2b4c9fcfe7a3",
+      "Value": "\"How do you feel about me reading your work in progress?\""
+    },
+    {
+      "Key": "0e10ce69-0ef9-4d61-bad7-37a83c69889b",
+      "Value": "\"As long as you write the truth, I have no objection.\""
+    },
+    {
+      "Key": "6d64f169-b3d2-4f4f-98d2-07c42c8b1855",
+      "Value": "\"Write whatever you wish. I doubt you would defame me, or, for that matter, over-praise.\""
+    },
+    {
+      "Key": "a7723278-4b1c-4283-8e34-25567d4b4c56",
+      "Value": "\"I will be remembered for my deeds, not for your book.\""
+    },
+    {
+      "Key": "8a75feb7-7e94-46e7-b0ae-6f722b46fd9c",
+      "Value": "\"I have no interest in censorship! Any stories about me are welcome as long as they're interesting!\""
+    },
+    {
+      "Key": "97409ca6-65d6-4607-9d30-b9b686a22d96",
+      "Value": "\"I'd rather have a say in how my biography turns out.\""
+    },
+    {
+      "Key": "7e89ec90-6f25-444a-aa70-d4d31a833ad5",
+      "Value": "\"Of course, you can write whatever you want... But you know what happens to writers who displease their rulers!\""
+    },
+    {
+      "Key": "0652a712-e9d8-4705-8a3b-b5d3e0714792",
+      "Value": "\"Your book is full of inconsistencies!\""
+    },
+    {
+      "Key": "6f44dd03-a9f0-45bd-b34e-5af58d3314ff",
+      "Value": "\"How's your publishing house?\""
+    },
+    {
+      "Key": "32eea228-eff3-460c-b773-0aaa4669b5fc",
+      "Value": "\"How's the book about the academy coming along?\""
+    },
+    {
+      "Key": "52b2fb8d-c021-4d1d-b212-f5beadab72f3",
+      "Value": "\"Do you know now what your calling as a bard is?\""
+    },
+    {
+      "Key": "2138a32a-bf83-4197-bf30-a979c3c19397",
+      "Value": "\"Tell me about your friendship with Tessie the Quill.\""
+    },
+    {
+      "Key": "dca431b7-d83f-4bc1-a619-e7325b60bcc6",
+      "Value": "\"Have you noticed anything strange about Valerie lately?\""
+    },
+    {
+      "Key": "39d0e96d-436f-4c09-94b8-25a505e4b8d6",
+      "Value": "\"How could she hurt you like that?!\""
+    },
+    {
+      "Key": "50590d68-6d2e-4643-b41c-70a6143ac7ce",
+      "Value": "\"She shouldn't have said that. But perhaps you shouldn't have picked on her.\""
+    },
+    {
+      "Key": "c4e4c23e-379a-4fe2-bf02-c2ba9b598603",
+      "Value": "\"I completely agree with her.\""
+    },
+    {
+      "Key": "8e477f9e-c222-424e-9e6c-7d581f25b37a",
+      "Value": "\"Archknights of Avistan? Who are they?\""
+    },
+    {
+      "Key": "9ac1c0cc-1081-4e82-ba30-d362e7b18b7f",
+      "Value": "\"What's the deal with the ring you always wear on your finger?\""
+    },
+    {
+      "Key": "1c5443b8-c36b-43fe-9520-e4c74f7352a9",
+      "Value": "{n}A halfling girl with tousled hair, wearing a dusty traveler's outfit, sits chewing the tip of her quill.{/n} \"Just a moment... How should I put this... Oh, I know!\" {n}She scribbles something quickly in a notebook scrawled with verse, raises her eyes and gives you a bright smile.{/n} \"Oh, hi!\""
+    },
+    {
+      "Key": "0c32e638-841a-4270-89ed-86214d07da4b",
+      "Value": "\"What do you want to know?\""
+    },
+    {
+      "Key": "ff5505f5-4b7d-4d16-81f5-08fc4013d5fd",
+      "Value": "\"How typical! That's the fate of the talented – to be ever persecuted by people of power... Ha ha ha! No, you aren't going to get rid of me, so long as my book is unfinished! Even if you throw me out, I'll sit in a tavern and write, and write, and write some more... And can you imagine what I'll write about you if you throw me out?\""
+    },
+    {
+      "Key": "8f8318a6-23ee-47ea-8ee9-946ce3e57feb",
+      "Value": "\"I'm from all over, ha ha! I was actually born in {g|Galt}Galt{/g} – in such a tiny village that it's not even on the maps. If it weren't for my teacher, I'd still be living there – milking goats, weeding turnips, swilling homebrew, having babies, and using books only as kindling.\""
+    },
+    {
+      "Key": "128aea56-675a-443a-966e-9d7a22700261",
+      "Value": "\"He's a true saint. He was once an important person in the capital, at the church of {g|Shelyn}Shelyn{/g}. But he got in trouble with the authorities and went on a self-imposed exile – to the tiniest, most godsforsaken, priestless village he could find. – The one where I was born.\""
+    },
+    {
+      "Key": "8d3b93eb-eee3-463c-848e-ce5c9c59cd37",
+      "Value": "\"When I realized there was nothing for me at home besides more radish patches, I decided to run away. A traveling book peddler, Tessie the Quill, happened across our village. Well, I stuck to her like a bur and wouldn't let go until she agreed to take me as an apprentice. Together we traveled everywhere – to {g|Brevoy}Brevoy{/g}, and {g|Taldor}Taldor{/g}, and even {g|Ustalav}Ustalav{/g}. And then I found out about the {g|Academy of Grand Arts}Academy of Grand Arts{/g} in {g|Pitax}Pitax{/g}, and I thought: well, I love reading stories, so I can surely learn to write them too! I enrolled on my first try, and they even gave me a scholarship! Then they expelled me, ha ha, but that's okay. They'd already taught me all the important stuff. And now, with {g|Shelyn}Shelyn's{/g} help, I can manage on my own!\""
+    },
+    {
+      "Key": "6875eded-8fef-4dac-9555-6ec74734e183",
+      "Value": "{n}Linzi waves her hand carelessly.{/n} \"Forget it, I can't waste money on looks! I'd rather buy books instead. In a hundred years, when people are reading my works, they aren't going to ask whether the author had holes in her sleeves!\""
+    },
+    {
+      "Key": "137f1dcb-812e-445b-a9d6-e0f6ea53f2a1",
+      "Value": "\"Oh, I love {g|Pitax}Pitax{/g}, even though they kicked me out. A joyful place!\""
+    },
+    {
+      "Key": "a0d3f1fb-b987-4401-a74c-52311da83384",
+      "Value": "\"Actually {g|Pitax}Pitax{/g} has always been one huge nest of thieves. Bandits, river pirates, smugglers, fences, cardsharps – it's always been home for the likes of them. But that was before Irovetti became king. With him, a whole different life began there!\""
+    },
+    {
+      "Key": "84dcee1e-ebec-431b-9a8a-cbbc87887f46",
+      "Value": "\"He won his crown in a game of cards! – Which says as much about {g|Pitax}Pitax{/g} as it does about him. He's fiendishly clever – some cheats I know told me that from the moment he appeared, he started to pulling off such schemes that the old city masters just scratched their heads. With him in charge, gold flooded into Pitax. And also... He's incredibly, unimaginably, fantastically decadent and conceited!\""
+    },
+    {
+      "Key": "3066413c-bc6c-459a-9dfe-1da546bd1b25",
+      "Value": "\"You know, jokes aside, I'm thankful to Irovetti for building it... but... he has no taste! At all! Whatsoever! He likes his art loud, bright, grandiose, and most importantly – glorifying his royal highness! He kicked out the best charcoal artist, because he 'didn't wish to spend money on gray scribbles!' He sacked a masterful flute-player from Tian Xia for playing too quietly! – And instead ordered them to open a kettle-drum class! He even... He even ordered the {g|Academy of Grand Arts}Academy{/g} to expel me – and for what?! An innocent limerick!\""
+    },
+    {
+      "Key": "ed01d0fc-039a-45f1-aa45-3c53999267a5",
+      "Value": "\"I'd like to return, but on one condition: if they threw out three quarters of the professors who teach there now, and returned all the ones they banished! If you ask me, I'm proud to have been expelled! If my art was to Irovetti's liking – then I would have reason to be ashamed!\""
+    },
+    {
+      "Key": "de5d923a-765d-48b5-ae84-64fd7f646c19",
+      "Value": "\"He wanted to open a school, but the villagers wouldn't let him. 'You can heal us all you like, but no putting any ideas into our children's heads – it'll only distract them from their work!' But he did teach me on the sly. He taught me how to read, how to write, and he gave me books — poems legends... He was the one who told me about the Archknights of {g|Avistan}Avistan{/g}! And when I told him I was going on a journey, he gave a magic ring so that {g|Shelyn}Shelyn{/g} would protect me from harm.\""
+    },
+    {
+      "Key": "b611dff8-381d-4306-ac38-6422e2d50747",
+      "Value": "\"Irovetti always wanted to make history, but not as another bandit with a crown. – Though that's exactly what he is, ha ha! He wanted to be glorified through the centuries as a great patron of the arts. So he built the {g|Academy of Grand Arts}Academy of Grand Arts{/g} and spent lots of gold to assemble the best artists, poets, and musicians. Of course, the very best ones refused to go, but he got what he wanted in a way. If {g|Pitax}Pitax{/g} was once just a booze barn for thieves, now it's a cabaret!\""
+    },
+    {
+      "Key": "cebba8de-6c2a-45d2-991b-4ffb139aa1c2",
+      "Value": "\"Getting drunk with whores at the pub – that's not Lord Irovetti's style, oh no! He aims higher! Dressing up like a male {g|Calistria}Calistria{/g} with a golden codpiece, and holding a three week orgy, with dancing on the rooftops, parades, public executions, and a contest for the best ode to the great unrivaled King – that's more like it!\""
+    },
+    {
+      "Key": "5d538ac8-96fc-4c46-8145-04c678f261a4",
+      "Value": "\"What is there to tell? You've seen some of my rough drafts already, haven't you? It's a book about you and your adventures! I am writing the whole truth, just as it happened... Well, the whole artistic truth. You know, no glory – no story!\""
+    },
+    {
+      "Key": "6e1a5af2-669a-417a-98a3-f4b0f095c45e",
+      "Value": "\"The truth doesn't hurt me. Who do you think my most severe critic is? That's right, it's me! This is my first real book, and I have much yet to learn... But don't you worry, I will do your feats justice! And if I put my foot in my mouth here and there – then we can print a second edition! Revised and corrected!\""
+    },
+    {
+      "Key": "69e3a61f-b6d5-4046-ba51-5f8f90627938",
+      "Value": "\"Just don't leave without me! Of course, I could just write whatever you tell me, but... If I wanted to stay cooped up in a dusty room, I'd still be sleeping through lectures at the {g|Academy of Grand Arts}Academy{/g}!\""
+    },
+    {
+      "Key": "d963a5f9-e8ab-46d4-b333-5feaa9d9eab4",
+      "Value": "\"When I was at the {g|Academy of Grand Arts}Academy{/g}, Eobald the Insightful began his literature course with the question: 'What is a person?' And he answered: 'A person is a storytelling animal.' Our world does not consist of things – all these woods, seas, and cities. It consists of stories about those things! The stories we tell to ourselves, and to each other. Just think about it. Centuries will pass, and there will be no me, and no you. All your subjects will be long gone... But you and I will live on in people's memories, and influence their deeds – thanks to this very book!\""
+    },
+    {
+      "Key": "662da363-0d4d-4e82-88e1-ee95c87f38f3",
+      "Value": "\"As long as mediocre lickspittles sit at the {g|Academy of Grand Arts}Academy{/g}, and those with real talent beg on the streets of {g|Pitax}Pitax{/g}, I will not cross the threshold of that place!\""
+    },
+    {
+      "Key": "13da670f-44fc-4c87-b23c-0ca4d2026742",
+      "Value": "\"He also likes singing. Ugh! And he orders his guards to make the citizens gather for his shows... May {g|Shelyn}Shelyn{/g} have mercy on his listeners!\""
+    },
+    {
+      "Key": "e9735633-c59d-4cd9-8777-ad01d3320a2b",
+      "Value": "\"Truth be told, I was a little afraid of meeting a real hero. In books they're all protectors of the weak and poor, but what about in real life? But you eased all my fears with two shakes of a tail. You're a true hero{mf||ine}, just like in the legends! My new fear is that, in a hundred years, my readers will say that people like you never existed – but I'm writing the truth!\""
+    },
+    {
+      "Key": "6c662fd0-475c-4019-ad55-17c205fdcd7a",
+      "Value": "\"In books, everything is simple: these are the heroes, and those are the villains. In life, of course, it's completely different. You have to make difficult decisions, and I don't always agree with you... But that's what makes you a complex, multifaceted character!\""
+    },
+    {
+      "Key": "eab7f8f8-4382-454f-86af-828a0afe737f",
+      "Value": "\"It's not easy to write about you. You are not like a normal hero{mf||ine} from a book. Sometimes I even think you're a real villain! But it's not my place to judge you. That's for the readers. My task is to write the truth about you – the whole truth!\""
+    },
+    {
+      "Key": "fea5f196-576b-496d-8741-4bf321553db7",
+      "Value": "\"You have an iron core. No matter what tricks fate throws in your path, you always know what's right and what's wrong. Some might say that's boring... But others will learn from you, from your strong character!\""
+    },
+    {
+      "Key": "208b4356-035e-4530-bb46-59f7fb7c5814",
+      "Value": "\"Sometimes you follow the rules, and sometimes you make up your own. Your actions are hard to predict. – It's what makes you so interesting to read about!\""
+    },
+    {
+      "Key": "1c7a3f5d-2c6d-44da-8f92-b1f457b0f352",
+      "Value": "\"You are like a force of nature – wild and unpredictable. You're full of surprises. I doubt I could make up a protagonist like you, even if I tried very hard!\""
+    },
+    {
+      "Key": "39ab7ae3-4b8b-4478-b233-3a1a8a73d210",
+      "Value": "\"Yes! Not to offend the other gods, but she's the most important of them all. All the other gods guard the world as it is. But only the {g|Shelyn}Eternal Rose{/g}, the goddess of beauty, calls us to the world as it should be!\""
+    },
+    {
+      "Key": "f8a9282b-6df9-4a3d-9ea6-aa6e5a8ec3c3",
+      "Value": "\"Just a moment, I just got something...\" {n}Linzi quickly scribbles something in her notebook, then raises her eyes and smiles at you.{/n} \"Hi!\""
+    },
+    {
+      "Key": "902c4bca-5aec-4f5c-942b-ac7163109270",
+      "Value": "\"Hmm... I haven't seen him since I ran away from home. I hope he's all right! I ask {g|Shelyn}Shelyn{/g} every day to grant him a long life – and new students!\""
+    },
+    {
+      "Key": "dbffc022-7d81-422a-b2b0-af644c5b7f60",
+      "Value": "\"You're the ruler of {g|Pitax}Pitax{/g} now! I don't know what else I can tell you... But I will try!\""
+    },
+    {
+      "Key": "a876eb2a-bc8c-4678-bccc-962e6590b16f",
+      "Value": "\"I wonder how {g|Pitax}Pitax{/g} will fare now, under your rule!\""
+    },
+    {
+      "Key": "9b8d58da-2138-4780-8fb2-ecea4cd932b6",
+      "Value": "\"Many sighed in relief when Irovetti lost his throne. But maybe they shouldn't have – who knows what you have in store for them! Either way, the years of his rule will not be soon forgotten. It won't be called {g|Pitax}Pitax's{/g} golden age... But perhaps its 'gilded age' is closer to the mark..."
+    },
+    {
+      "Key": "4b35d18a-81aa-4f4d-a497-0e25872e149a",
+      "Value": "\"At first Tessie tried in vain to get rid of me. But later, when I told her I was staying behind in {g|Pitax}Pitax{/g}, she even shed a tear. I wonder where she is now... I wish she would visit us, and see how beautifully you fixed things up here! We used to avoid the {g|Stolen Lands}Stolen Lands{/g}, but now she could come and set up her stand, and the customers would come flooding through!\""
+    },
+    {
+      "Key": "c17b2c97-5296-41e0-9902-5719f3d34f59",
+      "Value": "\"Of course it's a book about you, but it's my book! Understood?\" {n}The small writer's eyes glow rebelliously.{/n}"
+    },
+    {
+      "Key": "96aa9ae5-4504-43b0-8631-50ffdd47a4b9",
+      "Value": "\"I know!\"{n} Linzi says defiantly.{/n} \"Rulers oppress writers. Sometimes even torture them, with a bit of execution thrown in for good measure... And so they etch their own names in history – as disgraceful tyrants. All while immortalizing their victims as heroes!\""
+    },
+    {
+      "Key": "ee82b413-e21e-4544-9e00-be8d66cf8438",
+      "Value": "\"And I would prefer to turn every army barracks into a library, and eat cream pudding for breakfast every day. But you can't always get what you want. That's true even for rulers!\""
+    },
+    {
+      "Key": "8ddc8bc7-564f-4374-91d8-b00bfb55df87",
+      "Value": "\"Ha ha ha! No, I am not going to make up any fiction about you! And why would I? I wouldn't be able to invent half of the adventures you keep getting yourself into!\""
+    },
+    {
+      "Key": "5c3eb32e-e940-4dfa-a6fe-c1dca42e0ad6",
+      "Value": "\"I think you underestimate the power of the written word! A quill may not be mightier than a sword, but one strike by even the sharpest sword is still just one strike. The written word may be read by thousands and thousands, for countless years to come!\""
+    },
+    {
+      "Key": "05179e6c-5c99-427a-9ac2-bca2d06c9119",
+      "Value": "\"Ha ha ha! How wonderful! Seriously, do it! Ban my book from your lands! Can you imagine how much the sales would grow everywhere else? As {g|Shelyn}Shelyn{/g} is my witness, if there's a higher honor for a writer than to author a popular book – it's to author a forbidden book!\""
+    },
+    {
+      "Key": "a62a43cc-de4d-4f98-8377-af490a150ccd",
+      "Value": "\"Thank you for your trust. I will not set out to please you, of course, but I still hope that you'll like my book as much as my other readers!\""
+    },
+    {
+      "Key": "5c8acfe9-139f-42dd-ab65-8303096f853e",
+      "Value": "\"I swear.\" {n}Linzi puts her little hand over her heart.{/n} \"Truth, only truth, and just a teensy bit of imaginative exaggeration!\""
+    },
+    {
+      "Key": "c7b81f4c-a815-4ed2-b494-40aa5f4f2675",
+      "Value": "\"Well... Yes, I can admit that. Sometimes one has to bend a few details for the sake of dramatic effect. It's called poetic truth! I write about everything as if I saw it with my own eyes – even parts of the adventure that I wasn't around for. But I do always carefully question everyone who was with you at the time! Think of it as of a general picture. In the end, you're the hero{mf||ine} of this book, and I am just the storyteller.\""
+    },
+    {
+      "Key": "378013f6-6a9f-42b4-8d27-72b963a4e3d4",
+      "Value": "\"I wasn't even with you during your first feats! But who wants to read about how I roamed the swamps with that miserable Tartuccio, while you were defeating the Stag Lord? No one, of course! So I wrote about you. I'll sit down and write my own biography some other time. When I'm very old, ha ha ha!\""
+    },
+    {
+      "Key": "53d1ec2a-e1a4-4882-8c8c-340eca78abf3",
+      "Value": "\"At first Tessie tried in vain to get rid of me. But later, when I told her I was staying in {g|Pitax}Pitax{/g}, she even shed a tear... I wonder where she is now!\""
+    },
+    {
+      "Key": "934d111a-006a-4ebd-9663-9cea9723ab04",
+      "Value": "\"At first, she'd have been glad to be rid of me. But in the end, when I told her I was staying in {g|Pitax}Pitax{/g}, she even shed a tear... Oh, I'm so happy she's staying with us! But she's so restless. Once she gets tired of this place — she'll be gone!\""
+    },
+    {
+      "Key": "6a53c005-6940-49d7-a090-92f3ec702b07",
+      "Value": "\"This is what the {g|Academy of Grand Arts}academy{/g} was like under Irovetti... Of course, everything's different now in {g|Pitax}Pitax{/g}. But neither students, nor teachers, nor citizens will ever forget what happened.\""
+    },
+    {
+      "Key": "a7eb9928-eea1-48cd-8ddd-b4704b8d9428",
+      "Value": "\"Yeah, right! A classroom feels too small for me now. Maybe I'll return — to give a lecture or two, ha ha!\""
+    },
+    {
+      "Key": "074f9acf-8f9d-4cfa-97b8-6593280ae022",
+      "Value": "{n}Linzi shakes her head slowly.{/n} \"No. I don't want to go back. Not to the {g|Academy of Grand Arts}academy{/g}, or to {g|Pitax}Pitax{/g}. I don't want to ever see the place again. I just... don't want to.\""
+    },
+    {
+      "Key": "326d3447-d356-4ba6-b0da-b3072e2e05de",
+      "Value": "\"In full swing! The press is working day and night. Turns out there aren't just readers, but also writers in our lands — they keep bringing me new manuscripts! Some are even readable without crying!\""
+    },
+    {
+      "Key": "647e8500-b5ca-4de6-aee9-a25b0046864c",
+      "Value": "\"We're writing constantly. You know, when I was studying, I of course suspected that it wasn't all fine and dandy at the {g|Academy of Grand Arts}academy{/g}, but I had no idea of the scale of the catastrophe. Professor Eobald told me things about Irovetti... Horrible. You'll read it when we finish it!\""
+    },
+    {
+      "Key": "84b1ff93-4f39-49e3-8e75-5ed9088bd3b0",
+      "Value": "\"Yes. 'The quill is mightier than the sword' — unfortunately I only learned the truth of this saying after getting blood on my own hands. I'm scared of the power words can have over people. But I can't be a coward! Since I possess this power, I must use it to change the world for the better! You change the world with the power of weapons and royal decrees. And I... I'll see to it that your legacy is more than just another dusty chronicle for future generations!\""
+    },
+    {
+      "Key": "4e687268-1d39-49d6-b8ed-61f10ccd06e6",
+      "Value": "\"Honestly, it wasn't easy to forgive Eobald for lying. But the more we work together, the more I understand why he hid the truth from me. What's really happening at the {g|Academy of Grand Arts}academy{/g}... If it comes out, the only thing left will be to burn it to the ground. And we hope that someday it might become what it must have been at the very beginning!\""
+    },
+    {
+      "Key": "ea0e600b-ef78-4a1c-9cd1-cef0f30afbf5",
+      "Value": "\"I thought teacher used to tell me about scary things. Now that I know what he DIDN'T tell me, it makes my hair stand on end. I'm afraid our book will destroy the {g|Academy of Grand Arts}academy{/g}. But if that's the case... maybe it can't be saved!\""
+    },
+    {
+      "Key": "0b892aa6-713f-43c9-a4e7-e7db3fdd0e76",
+      "Value": "\"What's there to say... The books woke my urge to travel, but it was only thanks to Tessie that I managed to really get out of my village.\""
+    },
+    {
+      "Key": "d88756dd-d4b4-486e-818e-4084d6a88f58",
+      "Value": "\"Yes. You know, before I used to think I was some kind of preacher of good and beauty. I thought the delicate intricacy of words could make the world better... But who am I to change other people? They're not chicks, and I'm not their mother hen, there to cuddle them with warm, comfy lies! I'm a bard. My job is to honestly tell the stories that must be told. Like yours. To preserve them, to save them from being lost to time. And people — they'll make their own conclusions. They're clever enough on their own.\""
+    },
+    {
+      "Key": "16dd86f0-fb0a-494f-a6e9-8f9a9ceaae01",
+      "Value": "\"So much for the calling... We're jesters. Our job is to entertain the audience! When a bard tries to act as a preacher or open people's eyes to truth, it ends in stupidity, or tragedy, or both!\""
+    },
+    {
+      "Key": "7e27ad53-e8ca-44c1-847e-c2226215bd8e",
+      "Value": "{n}Linzi lingers, then sighs dully.{/n} \"I had a fight with her. A big one. Well... I wanted to talk to her about the best way to describe her hair color in the book. And she...\""
+    },
+    {
+      "Key": "c33d08e5-9ad5-41ba-b2a3-24e2167aebd3",
+      "Value": "{n}Linzi pouts.{/n} \"She said my book is trash. And I'd be no better if I busied my time with... ugh, I won't even repeat it!\""
+    },
+    {
+      "Key": "37c77e78-a8ae-42d8-9cca-c995c4ca4f9c",
+      "Value": "\"Yes! I mean wait...\" {n}Linzi licks her lips.{/n} \"I wasn't hurt... it's just... oh, it doesn't matter!\""
+    },
+    {
+      "Key": "ed84945f-ab11-475c-830a-65c1eadf31fb",
+      "Value": "{n}Linzi lowers her head sorrowfully.{/n} \"You're probably right... But I'm doing it for her! You know?\""
+    },
+    {
+      "Key": "8ed19518-364b-474b-a5d6-6b472c865bb4",
+      "Value": "\"That's how everyone is! While the author is working on the chronicle, everyone is happy to heap insults on them. But then, when your names are glorified through ages, who do you think you'll be thanking?!\""
+    },
+    {
+      "Key": "415bcd63-15f2-4e89-ae8d-357b8472e410",
+      "Value": "\"To be honest, Valerie hasn't been herself lately. She's usually polite, though she can be cold at times – but now it's like she's changed! And it's all after, you know...\" {n}Linzi gathers her strength.{/n} \"After she got that scar.\""
+    },
+    {
+      "Key": "27a43693-4e07-4103-957b-83ce4f815d77",
+      "Value": "\"I talked to her before, and she wasn't very nice that time either... She's gotten so spiteful after she got hurt! Though she keeps saying she doesn't care.\""
+    },
+    {
+      "Key": "81c835e3-03f6-4d3f-b27e-0c85b54f6ee8",
+      "Value": "\"Oh! You haven't heard of them? How can you be a hero{mf||ine} without knowing one of the most epic stories in the history of stories? They... No, I won't spoil anything — you should just read about them yourself, every single chapter! Their adventures are what gave me the idea of going on a heroic quest and writing about it to begin with... And now, look at me, here I am! On a heroic quest!\""
+    },
+    {
+      "Key": "1079344d-aca3-44df-b74d-b65d191bd66c",
+      "Value": "\"You worship her too, right? I'm so happy to hear that! For some reason, I think that a leader following her call has the chance to create something beautiful in their lands... Even with such lackluster material as the Stolen Lands!\""
+    },
+    {
+      "Key": "92a0f1f9-e581-4d17-af55-c8ea64e7d486",
+      "Value": "\"Ah, this.\" {n}Linzi holds her arm for you to get a clear view of the ring.{/n} \"It was a gift to me from my first teacher. It's magical — imbued by the powers of Shelyn, no less! When I get myself in trouble, it transports me to a safe spot.\""
+    },
+    {
+      "Key": "a81dbb94-eeb5-4b2e-9d99-2cf6d86736ac",
+      "Value": "\"Sooo... Please, don't be angry with me if I suddenly disappear from a fight. I'll wait for you here! Promise!\""
+    }
+  ]
+}

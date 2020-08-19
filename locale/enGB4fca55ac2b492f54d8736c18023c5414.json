@@ -1,0 +1,73 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "92ef0d07-3e79-442e-9300-75ebab1d55da",
+      "Value": "\"Dissection of the carcass might help. Perhaps we'll learn something new.\""
+    },
+    {
+      "Key": "85d91bd1-7953-4197-a4ef-090c59242735",
+      "Value": "\"We should carefully examine everything around here. If the boar was already wounded when it came here, there must be a trail of blood somewhere.\""
+    },
+    {
+      "Key": "20e59283-ef53-4be0-adb4-6c0b787614cf",
+      "Value": "\"I can't offer any other suggestions. Do you have any ideas?\""
+    },
+    {
+      "Key": "c63dd9d0-d1b3-42f2-8ade-2ff07b7a4823",
+      "Value": "\"There's not much blood around the wound. — Looks like it was inflicted once the blood had already curdled. After the beast's death, not before.\""
+    },
+    {
+      "Key": "d719ff5e-2292-4b4a-a34f-28ed06839f10",
+      "Value": "{n}Jaethal approaches the boar's carcass, carefully examining the ground around it.{/n} \"See? There should be a pool of blood, but it's not here. It seems the beast came from somewhere else, already wounded, and then died here. But I can't track the direction. The ground is rocky. It would take a troll to leave footprints here.\""
+    },
+    {
+      "Key": "f05c2e29-c1a0-4f25-aedf-380513291a7c",
+      "Value": "{n}Jaethal inspects the wounds on the boar's neck.{/n} \"The cuts are distinctive — like the kind my dagger would make. It has a few deep serrations on one side of the blade — so it wounds like a saw-toothed weapon on that side. So far, everything backs up the half-elf's story. But how can we find the one who stabbed the boar?\""
+    },
+    {
+      "Key": "ff34130e-d257-4b30-9585-d5de9c4a9d1a",
+      "Value": "\"Astute. As for the wound... it's all very strange. We need more information.\""
+    },
+    {
+      "Key": "0c074b91-fc56-4493-87ec-0a17743a52d1",
+      "Value": "{n}Jaethal nods and slowly unpacks the tools and items one needs for such work. Together you bend over the carcass of the wild boar. At first, the dissection doesn't provide any details, until you note the small water plants in the boar's stomach. They are also stuck to its muzzle and tusks. It seems that the beast was near water recently — otherwise, the duckweed in its stomach would already be digested.{/n}"
+    },
+    {
+      "Key": "59fdf980-5079-431f-9f98-c77b43eb5506",
+      "Value": "{n}The time you spend exploring the boar's disgusting entrails was a complete waste. You don't find anything unusual — no clues that would allow you to trace the beast's movements or its final moments.{/n}"
+    },
+    {
+      "Key": "51943dca-1e95-4def-8ffa-15108965e04b",
+      "Value": "\"The nearest source of water is the {g|Thorn River}Thorn River{/g}, and plants like that grow along its backwaters. Let's go there and search the shore.\" {n}Jaethal suddenly smiles with the corner of her mouth. She does it in a strange, almost convulsive manner, as if her undead face had long ago forgotten the expression.{/n} \"How amusing. To look for evidence, to seek connections between events — as before, during my service in {g|Kyonin}Kyonin{/g}. However, this is the first time I've played the victim...\""
+    },
+    {
+      "Key": "1a79a12e-cdf3-4e16-83ea-5268e1bf9085",
+      "Value": "{n}Jaethal wipes her hands with disgust.{/n} \"A failure. We need to try something else. In my long life I've learned a few simple ideas — everything in the world leaves traces. You only need to know how to find them.\""
+    },
+    {
+      "Key": "dab6d97b-5a23-42fa-9f72-04239e2e6498",
+      "Value": "{n}Traces were easily discovered — marks of dark blood, spotting the ground here and there, leading westward.{/n}"
+    },
+    {
+      "Key": "50195af5-c3a9-4740-b99b-10c24b9c0989",
+      "Value": "{n}Any traces of blood, even if they were there once, had long since disappeared. The dead beast and quiet hills would not part with their secrets.{/n}"
+    },
+    {
+      "Key": "9e6a93f7-1e6c-486c-aef7-f0c99ee9cc3f",
+      "Value": "\"Easier than I imagined. The trail is clear. — It leads to the Thorn River. We should search the shores. We might find something there that points towards the dagger's 'owner'.\""
+    },
+    {
+      "Key": "6f87c6cd-d6f7-4020-aec6-0446b479526a",
+      "Value": "{n}Jaethal turns around slowly, examining every piece of ground, every stone and blade of grass.{/n} \"I cannot be sure, but I see a few marks on the stones and bent grass — all of it on the western side of the carcass. Probably the boar drinks at the {g|Thorn River}Thorn River{/g}. This is the only guess I have for now. We should explore there and see what we find.\""
+    },
+    {
+      "Key": "f8ed60cd-f6f2-425f-8245-7c83fe085b4a",
+      "Value": "{n}Ekun looks closely at everything around him.{/n} \"A strange place. Anxiety knocks on the door of my mind. Don't understand where it came from.\""
+    },
+    {
+      "Key": "f6778622-688e-40cd-9d84-9c3ff76021b4",
+      "Value": "{n}Ekun signals you to wait and examines the area for a while. After a while, he returns and points at the trail. Marks of dark blood lead west.{/n}"
+    }
+  ]
+}

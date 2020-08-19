@@ -1,0 +1,145 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "62c53b81-0d17-44dc-aee6-ccca290fe6fc",
+      "Value": "\"Trebricent, enough with your pretentious bravado. You know what will happen if you don't surrender peaceably. You have a chance to prevent bloodshed, if you'll just lay down your weapons.\""
+    },
+    {
+      "Key": "674cab26-30c6-4da2-b56e-4590d247a92d",
+      "Value": "\"A familiar face! Ivar, it's been a long time! How are you?\""
+    },
+    {
+      "Key": "2e2dc061-0de7-4502-a07b-109b29de1662",
+      "Value": "\"You seem to be having a nice time. I'll just go — I wouldn't want to bother you.\""
+    },
+    {
+      "Key": "3b371d2d-68b8-47d2-b185-f393efafe330",
+      "Value": "\"Free singers and poets of {g|Pitax}Pitax{/g}! How much longer will you be oppressed by Irovetti, he who gags all discontent, lets only his favorites perform, and chokes art while pretending to be its patron! Stand beside me and fight — not for me, but for freedom!\""
+    },
+    {
+      "Key": "79bc6a17-6d07-410f-9a67-4b40da283015",
+      "Value": "[Attack] \"You should've thought twice before dragging my name through the mud... None of you leaves here alive.\""
+    },
+    {
+      "Key": "ba1db34f-767f-430b-8319-7eed88fb8439",
+      "Value": "\"Bards of the academy, whether you're here because you believe me a worthless {mf|king|queen} or for the money and laurels promised by Irovetti, I say you should judge me by my deeds rather than speculative rumors. To the former, I say visit my kingdom, see my people, and then you may decide what kind of ruler you believe I am. To the latter, I say come serve me instead — bear witness that my treasury is abundant and my courtiers are free to speak their minds. Decide for yourselves for whom you work and about what you wish to sing — I guarantee safety to anyone who accepts my offer.\""
+    },
+    {
+      "Key": "1dfb9261-8ff9-4aee-8fe3-2424d563f93b",
+      "Value": "{n}Finally, after emptying his glass, the half-elf notices you.{/n} \"Good gods! Look, my brothers and sisters! Look who it is! Is that not {name} {mf|him|her}self? Did you come in your dirty boots and tattered hand-me-downs to spoil our feast with that gloomy, hungry look? Tell you what, if you abdicate the throne and swear allegiance to {g|Pitax}Pitax{/g}, I'll find a bone to throw you!\"\n{n}Some of the dinner guests roar with laughter, while others look at you with interest, maybe even hope. Everyone stops talking and watches you.{/n}"
+    },
+    {
+      "Key": "47df5921-bea2-4625-8856-e3cbf4a2b2c4",
+      "Value": "\"Ha ha ha, really? Soon as {mf||s}he noticed our merry company, the cowardly impostor decides to run away? Stow your glasses and lutes, my friends — this dastard needs to be taught a lesson!\""
+    },
+    {
+      "Key": "82a7d719-8471-4724-b0b8-60c9f76a4bd9",
+      "Value": "\"{d|c22 Ivar Nice}Better{/d}, now that you're here! It's nice to see an honest face — I didn't realize just how tired I'd grown of Irovetti and his hangers-on. And you've become the {mf|king|queen} glorified in legends, just as I foretold. Well, perhaps there'll be room in that legend for me!\""
+    },
+    {
+      "Key": "3aff6c30-82d8-4f8a-b688-7591ee1694da",
+      "Value": "\"Did you hear that, friends?! This beast, this monster, whose muzzle is caked with innocent blood, whose eyes burn with hellfire, breaks into our home and dares threaten us in the name of good intentions! But we're not so easily cowed — truth is on our side! Follow me, disciples of Irovetti! The gods are with us — we're in the right, and our enemy's in the wrong!\""
+    },
+    {
+      "Key": "a11985fe-20f2-42a8-8657-d0421c7773f2",
+      "Value": "\"By the gods, what am I hearing? Would you sell your own father for a fistful of pork and gravy? Your thankless heart is darker than night. I'm so overcome with indignation that I can barely speak! Take up your swords, my friends — such a disgrace can only be cleansed with blood!\""
+    },
+    {
+      "Key": "cf07f3ef-19c6-4992-866c-92085410e21d",
+      "Value": "{n}The audience is confused — some exchange wary looks, while others look down, embarrassed. Yet others begin to sulk. No one dares say a word.{/n}"
+    },
+    {
+      "Key": "2cdd2a4d-0190-496a-b538-f31f4145f438",
+      "Value": "\"Can't complain, {name}... I didn't {d|c22 Ivar Rude}expect{/d} to see you here. I hope no trouble comes to your kingdom.\""
+    },
+    {
+      "Key": "3b870ecd-b535-4379-84aa-bf4a28f67aee",
+      "Value": "\"Ha! They put a mirror before a crowned donkey, and in a fit of rage, {mf||s}he looks to break it! But you won't silence us — to arms, my friends! I seethe with a thirst for battle. Let's show this enraged tyrant that a poet can wield a sword as well as a quill!\""
+    },
+    {
+      "Key": "b984f68b-faa4-4007-933a-e5328380f710",
+      "Value": "{n}The soft murmur that began running through the hall during your speech swells into a roar.{/n} \"I won't write to dictation any longer! Down with Irovetti — long live {name}!\""
+    },
+    {
+      "Key": "c3eba7f9-ebcc-4a45-a016-db407aa877a1",
+      "Value": "\"Oh, Trebricent, I so want to stay and see how {name} and company pluck those peacock feathers of yours. But alas, I've other things to attend to. Say hello to your family for me!\""
+    },
+    {
+      "Key": "8ef5b0e9-6af0-40d0-9e08-606052c98072",
+      "Value": "{n}But what's this? Your friend {d|Ivar}Ivar{/d} sits with a long face, picking at a hunk of meat with his fork! The speaker raises his voice once more, and Ivar winces.{/n}"
+    },
+    {
+      "Key": "04ee9ad2-7013-43c1-a36d-84cffa1b7312",
+      "Value": "{n}People around the room begin whispering, and the noise slowly grows louder until a sonorous male voice says,{/n} \"I've wanted to travel for quite a while. The pay's not very good here, anyway... and the food's little better than slop.\" {n}Laughter and cries of approval sound from around the room.{/n}"
+    },
+    {
+      "Key": "4829799e-bd5e-47a0-b604-c648e6845fc9",
+      "Value": "\"What?! Do you hear that? Pygmies and epigones complain that they're not allowed to slander a giant among men, our protector, Irovetti! My spirit seethes, friends. Let's show these vile traitors the bright flame held in our loyal hearts!\""
+    },
+    {
+      "Key": "338f2e53-1a8b-4b15-b074-df284cb288f5",
+      "Value": "\"...So let's raise our cups, my brothers-in-arms and drinking comrades! Here's to the most enlightened monarch of our times, who brought prosperity and culture to {g|Pitax}Pitax{/g}! That skillful commander, famous the world over for his military genius! To the ladies' man who's broken so many hearts with his humble charm and aloof attitude! To that {d|c51 Atalia Info}patron{/d} of the arts, that philanthropist, whose generosity is matched only by his wisdom and taste! In short — here's to Irovetti!\" {n}A chorus of voices repeats the toast. Many drink up... but far from everyone.{/n}"
+    },
+    {
+      "Key": "0773641f-8927-40c1-8424-4d0f16a3e64e",
+      "Value": "{n}It seems no one noticed your entrance over the bustling noise of the tavern. A young half-elf with long, slicked-back hair and a delicately curled mustache and beard is making a solemn speech. He drawls and flourishes with his hands, and his pretentious red face makes it obvious that he's enjoying everyone's attention. Laughter and shouts of approval can be heard from the main table. Many other guests aren't participating in the gaieties, however — some are yawning, while others aren't even listening to the speaker as they focus on their meals.{/n}"
+    },
+    {
+      "Key": "7dd2bcac-d98f-4518-a0b6-d73e00b6cfeb",
+      "Value": "\"You can't confuse us, {name}! We'll remain faithful to Irovetti to our final breaths, our last drops of blood, the last beats of our pure, burning hearts! To arms, my friends — let's rip this slanderer's filthy tongue from {mf|his|her} throat!\""
+    },
+    {
+      "Key": "9d543652-9995-4656-aedc-53d683357069",
+      "Value": "\"Traitor! What else should we expect from a changeling, though — beasts know no loyalty!\""
+    },
+    {
+      "Key": "f84f483b-ab89-4e48-8e19-49822b6e44c6",
+      "Value": "\"You fight these cutthroats yourself if you want, you arrogant snob. Gods be with you — you won't see me here again!\""
+    },
+    {
+      "Key": "df25fc95-6eed-468f-89e8-43dd391b7c4e",
+      "Value": "\"What a farce! His melodramatic eulogies are nauseating!\""
+    },
+    {
+      "Key": "c2d0e4ea-3112-4780-a817-8e6d0cbd11c5",
+      "Value": "\"Ssh! He'll hear you and make a scene again, just like last time...\""
+    },
+    {
+      "Key": "f39fe57e-59e4-4c23-b91c-6fc0d613c05d",
+      "Value": "\"Deplorable, Trebricent... The things you'll say to get a reaction!\""
+    },
+    {
+      "Key": "58eb35bd-7b21-4273-8492-a7b4643a02d3",
+      "Value": "\"Poetry is my life, but I respect a good fight too!\""
+    },
+    {
+      "Key": "e8eb35bc-23d0-4930-9776-b61d6c66777d",
+      "Value": "\"You've left me no choice, {name}...\""
+    },
+    {
+      "Key": "73a2d0ff-86e3-436d-af17-3ce29781c6a8",
+      "Value": "\"Ha ha, I don't think so! Judging by {mf|his|her} looks, {name} is no joke... and I'm not going to test that. Farewell and good luck, Trebricent!\""
+    },
+    {
+      "Key": "6ed9d1fe-3a8c-42ad-872b-3ee2394755a8",
+      "Value": "\"Looks like it's time to get going...\""
+    },
+    {
+      "Key": "14df343c-ad2a-480d-8bc8-9175a23e3586",
+      "Value": "{n}Valerie is pale, and her silence could melt iron. The squeal of metal on metal indicates that she must be gripping her weapon, but she isn't rushing to draw it.{/n}"
+    },
+    {
+      "Key": "56fc8466-07ad-4e65-bcd4-aac2c4e0395d",
+      "Value": "\"You are noble to offer this scum a chance to live, but I do not think them capable of using the offer.\""
+    },
+    {
+      "Key": "379afc65-9626-4792-9eea-52da658b1daf",
+      "Value": "\"Ha ha, hoo! That has to be one of the most childish, tasteless, awkward rebukes I've heard in my life! Yes, definitely top of the list!\""
+    },
+    {
+      "Key": "71deec55-ba7c-4343-bbc7-4a9ae0eb068d",
+      "Value": "{n}Nok-Nok, who started falling asleep and even snoring while listening to the speeches, shudders at the sound of laughter and seizes his blade.{/n} \"Talk-talk-talk over? Stab time now?\""
+    }
+  ]
+}

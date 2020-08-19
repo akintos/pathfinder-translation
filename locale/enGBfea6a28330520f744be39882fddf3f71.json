@@ -1,0 +1,133 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "21d0264e-7278-40a1-817d-8f1431f5fa84",
+      "Value": "\"You and your band had best leave while you still can.\""
+    },
+    {
+      "Key": "f2067858-b9ad-4852-877d-0cbde72e9b2b",
+      "Value": "[Lie] \"This is all a big misunderstanding. You seem to have confused me with someone else. Trust me, I've never heard about you before. I'm just passing through these lands!\""
+    },
+    {
+      "Key": "b6954794-69c1-45a2-9836-786d31db9107",
+      "Value": "\"Who are you and what do you want from me?\""
+    },
+    {
+      "Key": "62b6f310-02d7-48a1-8906-a001479e9eda",
+      "Value": "\"Ah, yes. That was a great hunt. Your friends made for fine game. Have you come to share in their fate?\""
+    },
+    {
+      "Key": "131ddad7-cd1b-4636-bdfa-ca10ddb282d3",
+      "Value": "\"Is this any reason for us to quarrel? It was just a joke!\""
+    },
+    {
+      "Key": "f675bfc3-fc5d-4d02-a19e-fdb27f89ca40",
+      "Value": "\"There is no excuse for my actions. Let me redeem myself.\""
+    },
+    {
+      "Key": "4882598d-555d-4a8d-88cc-6290e6b998a7",
+      "Value": "\"My behavior was unacceptable. My sincere apologies.\""
+    },
+    {
+      "Key": "5bfb5b26-9cb5-4a5e-ad19-e3aab457f93c",
+      "Value": "[Give 1000 gold] \"Let me pay.\""
+    },
+    {
+      "Key": "ff349bac-7a98-4c3d-abe5-68c5d1285ba4",
+      "Value": "\"Bring out your beast.\""
+    },
+    {
+      "Key": "9b1b84de-beda-4200-900d-b4f6fce58779",
+      "Value": "[Give 3000 gold] \"Give this money to the families of the deceased.\""
+    },
+    {
+      "Key": "12f4311e-1b1a-40cc-b496-51645595c92d",
+      "Value": "\"You are right. I am ready to accept my punishment.\""
+    },
+    {
+      "Key": "4a2a3547-3681-4b0d-90e9-1231c63de2f7",
+      "Value": "\"Hey, you there!\" {n}Armed men dressed in wandering clothes are looking at you.The look upon their faces, as well as the tone of their female leader's voice, do not bode well.{/n} \"Yes, you! Jamel Visser sends his regards.\""
+    },
+    {
+      "Key": "555639cf-0709-42c9-a6c0-80ab98031602",
+      "Value": "{n}The huntress gives you a wicked smile.{/n}"
+    },
+    {
+      "Key": "bc6d0b07-0a7b-49d8-8715-1ae62a5e5a23",
+      "Value": "\"Jamel asked me to tell you — we are not murderers, judges, nor executioners. We are hunters. You will be judged by the forest, just as we are. Earn your right to live!\"\n{n}The hunters vanish back into the foliage. With a thundering roar, a hulking beast emerges from the trees.{/n}"
+    },
+    {
+      "Key": "ec117c75-da7c-484d-b940-15e28504e1da",
+      "Value": "\"Have you already forgotten about us? We remember you well. We are the {g|Embeth Travelers}hunters of the Embeth Forest{/g}. Do you recall the {d|c22 safari unfair}beast hunt{/d}?\""
+    },
+    {
+      "Key": "351c588f-230e-4b4e-af8c-80bcb9ec4e9e",
+      "Value": "{n}The righteous indignation on the huntress' face gives way to embarassment. As she whispers something to one of her companions, he shrugs.{/n} \"Hm... I am sorry, there was a mistake. You shouldn't loiter around here. The ruler of these lands is a true gorgon if I ever saw one.\""
+    },
+    {
+      "Key": "9a69423e-86c3-4357-aaa6-19e214b0d018",
+      "Value": "{n}The huntress gives you a sideways grin.{/n} \"Save your breath. It is not us you shall be speaking to.\""
+    },
+    {
+      "Key": "3b92af25-f7ca-47ca-8e9f-b1181989e15e",
+      "Value": "\"A joke?!\" {n}The huntress' face is twisted with rage.{/n} \"Those people had families! They came to aid you, and you killed them... For what? To win a prize? Is that what you call joke?\""
+    },
+    {
+      "Key": "cf025d11-b728-4adf-b92e-6bc1fd857cc0",
+      "Value": "\"A joke, you say?\" {n}The huntress grins.{/n} \"Well, now it's our turn to play a joke on you. You've taken the prize — now you have to earn it!\""
+    },
+    {
+      "Key": "9db428d4-e4c7-4033-8e6b-65a1bdfeb8c1",
+      "Value": "{n}The huntress clenches her teeth, her gaze full of hate. She spits on the ground, then gives a cold smile.{/n} \"Now it's your turn to be the game!\""
+    },
+    {
+      "Key": "a58c7c5c-b733-4a7c-b0cc-1d5ca94278e9",
+      "Value": "{n}The huntress frowns, evaluating your answer, then after a long moment, speaks.{/n} \"Apologies alone are not enough. Pay for that which you have taken from us... or prove that you are indeed worthy of such a reward — in battle with a beast.\""
+    },
+    {
+      "Key": "98fbd77e-e567-4acd-a970-e643a613dae9",
+      "Value": "{n}The huntress smirks.{/n} \"You won't get off so easily — apologies are not enough. I hope that our prize was to your liking. Now comes the time to earn it!\""
+    },
+    {
+      "Key": "6fc84a9f-a7e1-4c83-ac53-5011d0ae7f66",
+      "Value": "{n}The huntress frowns, evaluating your answer, then after a long moment, speaks.{/n}\n\"Those people had families. Children. What good are your apologies to them?\""
+    },
+    {
+      "Key": "4de6080d-301c-4047-bf69-596e385f9c6a",
+      "Value": "\"Those people came to your aid — in return you slaughtered them for some measly prize! And now you dare beg for forgiveness? You shall redeem yourself once you're dead!\""
+    },
+    {
+      "Key": "f2fbf85c-975d-4fe5-a317-d03817c9f1ee",
+      "Value": "{n}The huntress takes the money and nods.{/n} \"The matter is closed. I shall pass this on to Jamel along with your apologies.\""
+    },
+    {
+      "Key": "4c37b7b3-fa79-4a09-a877-2da97b2bd048",
+      "Value": "\"Good. Show us what you're made of.\""
+    },
+    {
+      "Key": "439ca0b3-30f5-4bc1-9c7b-ca24927885bd",
+      "Value": "\"Hm!\" {n}The huntress is surprised by the sum.{/n} \"All the coin in {g|Golarion}Golarion{/g} wouldn't make up for their lives, but... have it your way. I shall give them the gold and your apologies.\""
+    },
+    {
+      "Key": "d250ae01-8195-4bb1-9078-7b94b5f44fc7",
+      "Value": "{n}The hunters take a step back and vanish from sight, disappearing into the forest.{/n}"
+    },
+    {
+      "Key": "e98467a4-5977-430d-9e48-94d569682438",
+      "Value": "\"I do not believe that people like you can ever repent. I may be wrong. If you survive this battle, we shall see your next move.\""
+    },
+    {
+      "Key": "1795d259-e2ea-4d2f-a090-92496838ddcd",
+      "Value": "\"You took that which you had not earned. We've come to give you a chance to prove yourself deserving of the prize.\""
+    },
+    {
+      "Key": "3a6e48f6-2f58-45e3-aea8-cbd94b8d893e",
+      "Value": "\"You slaughtered those who came to your aid. If it were up to me, I would have slit your throat in your sleep... however, even though you had no mercy for your victims, Jamel insisted we give you a chance.\""
+    },
+    {
+      "Key": "16c64cc8-fba5-40fe-8359-48da0616be8a",
+      "Value": "\"Well said.\""
+    }
+  ]
+}

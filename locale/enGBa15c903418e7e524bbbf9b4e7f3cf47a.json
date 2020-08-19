@@ -1,0 +1,281 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "67815e47-dfab-41cd-a794-1d33cffcfe54",
+      "Value": "\"I've heard enough of Trobold.\""
+    },
+    {
+      "Key": "dd10395a-5cdd-4e25-af47-df0b9ad9ca43",
+      "Value": "\"Who's Tartuk?\""
+    },
+    {
+      "Key": "cd222f75-d4eb-40c8-a86e-84a3cad358ad",
+      "Value": "\"How does Tartuk protect trolls from fire?\""
+    },
+    {
+      "Key": "755f4343-a176-4955-8016-c5ea2ba45622",
+      "Value": "\"So trolls aren't eating people anymore?\""
+    },
+    {
+      "Key": "b2e6b299-dde9-4fca-9add-04abdb61fc4b",
+      "Value": "\"What do you mean, 'borba'?\""
+    },
+    {
+      "Key": "f17abbdc-668b-4ec3-b817-41e9b87880ea",
+      "Value": "\"That's enough about food. Tell me more about Trobold.\""
+    },
+    {
+      "Key": "f8e3deea-1937-4f2f-b4a8-235807e2690d",
+      "Value": "\"Trobold?\""
+    },
+    {
+      "Key": "312ce1d4-80df-41f3-ae5b-8c86f47f6e8b",
+      "Value": "\"Tell me more about Trobold.\""
+    },
+    {
+      "Key": "b4a6de88-65d4-428e-b2a9-57029b7f0665",
+      "Value": "\"We just want to look around here. We're not here to fight.\""
+    },
+    {
+      "Key": "6e853c2f-c62b-48ed-a356-37a0e8a58c41",
+      "Value": "\"All right, YOU don't eat people anymore. But how can you be so sure about the rest of your kin?\""
+    },
+    {
+      "Key": "72a2d502-ce81-454e-a1c4-17bfabc32d42",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "6aec80e7-91cc-4ec5-9568-1828561c4586",
+      "Value": "\"I'm glad to hear you don't eat people anymore. Let me ask you something else.\""
+    },
+    {
+      "Key": "6a37bc72-c6e8-4e0a-886c-d7c0a87d5a14",
+      "Value": "[Attack] \"I don't waste words on beasts — I kill them.\""
+    },
+    {
+      "Key": "30398cda-c845-4b55-a02e-309bde62bad0",
+      "Value": "\"Are you sure you won't change your mind as soon as you run out of people in your larder? You might get hungry again.\""
+    },
+    {
+      "Key": "5c2bba17-ef2a-4860-8e1a-e083d0c75393",
+      "Value": "\"What else can you tell me about Trobold?\""
+    },
+    {
+      "Key": "9682f1ef-3a6f-4a40-b1e9-d24e7c16acf2",
+      "Value": "\"So you still eat human flesh?\""
+    },
+    {
+      "Key": "5f9ee4ab-6412-410c-8c85-3f8328608de1",
+      "Value": "\"Hey, calm down. It was just a question. Trolls are friends with borba now.\""
+    },
+    {
+      "Key": "59955447-9424-4957-8ffa-37d268510a25",
+      "Value": "\"Your Common is impressive.\""
+    },
+    {
+      "Key": "aa44786e-32bf-4a3a-b631-d758d77b3a7a",
+      "Value": "[Attack] \"I knew that would happen. A monster is always a monster, even if it can talk.\""
+    },
+    {
+      "Key": "9de858d7-bbad-4a9a-bf82-762dd4e1127d",
+      "Value": "\"Who is Hargulka?\""
+    },
+    {
+      "Key": "fcc590db-a0ff-4761-8e62-5af919539b18",
+      "Value": "\"All right, what do you want from me?\""
+    },
+    {
+      "Key": "54529ff2-0bd1-4659-8c93-ad124ce7509c",
+      "Value": "\"So what do you eat now?\""
+    },
+    {
+      "Key": "e01f7b27-a7d6-459b-9fc7-f1bc0483a433",
+      "Value": "\"All right, take me to your kings and we'll see if trolls can hold a civil conversation. I'm the {mf|king|queen} of the lands your Trobold stands on, and as such, your kings and I have much to discuss.\""
+    },
+    {
+      "Key": "9e23c5e8-8ae6-4cad-8742-93e5cc89b583",
+      "Value": "\"Looks like the trolls have a sense of humor! Though for some reason they seem to shy away from fiery or caustic humor!\""
+    },
+    {
+      "Key": "29ae7414-2551-4097-8cf2-002aa17230db",
+      "Value": "\"Congratulations, you've found your audience!\""
+    },
+    {
+      "Key": "3223b8cd-35b8-48eb-a68e-fa6cd980b6e9",
+      "Value": "[Say nothing]"
+    },
+    {
+      "Key": "abaedcbb-b236-4ddb-8535-0a05c7e3f9e8",
+      "Value": "{n}Jubilost squints an eye as he listens to Jazon.{/n} \"Was that the same Tartuk who attempted to steal my cart? Or is Tartuk a common name among kobold spawn?\""
+    },
+    {
+      "Key": "f9e63d09-70e2-4e3f-80b3-4065b38c1a60",
+      "Value": "\"King over all kobolds! Strong! Smart! Kind...\" {n}The troll chews on his tongue momentarily.{/n} \"Fire killed trolls before. Tartuk protects trolls from fire. So now trolls forever love Tartuk and his kobolds.\""
+    },
+    {
+      "Key": "456bade9-14cd-47f6-bf12-264f041951ae",
+      "Value": "\"You — are borba.\" {n}The troll hesitates.{/n} \"Human, elf, dwarf. All borba.\""
+    },
+    {
+      "Key": "4a7b74e5-1de7-4686-93ec-2b0847739505",
+      "Value": "{n}Octavia touches your shoulder gently.{/n} \"You'd better be careful,\"{n} she whispers.{/n} \"It seems to be a sore subject for him. I'd leave it be.\""
+    },
+    {
+      "Key": "67529192-43f8-42b8-a8bb-953a9bf9432d",
+      "Value": "{n}He grins widely, revealing a row of long, rotten, and chipped teeth, but there's no menace in it.{/n}"
+    },
+    {
+      "Key": "af1a32ab-2e1c-4395-a2c8-4beeaf6400ba",
+      "Value": "{n}Ekun takes a breath as if about to speak, then spits on the ground instead.{/n}"
+    },
+    {
+      "Key": "2b29df5c-3d2a-4c75-84ad-3c22ace62598",
+      "Value": "{n}You continue to talk, but Jazon doesn't seem to be listening. He hammers the ground with his fists, growls, then charges.{/n}"
+    },
+    {
+      "Key": "492cdd74-03d4-4b79-9681-a400bd890230",
+      "Value": "{n}For several moments, Jazon inhales and exhales loudly, his eyes bulging madly, but he then seems to regain control over himself.{/n} \"Borba and troll friends.\" {n}He nods,then turns away.{/n}"
+    },
+    {
+      "Key": "7cb49cde-434a-4b5c-87d8-ed21d7ebb0bc",
+      "Value": "{n}Valerie bites her lip.{/n} \"With respect, I must warn you, that was an inconsiderate statement. Our duty is to our people, not these beasts.\""
+    },
+    {
+      "Key": "353b1a70-8426-4b51-83b3-e53435bfcb67",
+      "Value": "{n}The troll's eyes flash.{/n} \"Borba no get it! Borba no food, Hargulka said so! Borba try to get me angry on purpose...\" {n}Jazon's words become a growl, then he calms himself.{/n} \"Borba. Friend.\" {n}He nods, then goes silent.{/n}"
+    },
+    {
+      "Key": "f18067b7-c752-4f3f-b120-13f4413b411a",
+      "Value": "\"Me no eat borba no more!\" {n}Jazon claims proudly.{/n} \"King Hargulka and King Tartuk order so. Other trolls still eat borba. They wild and dumb. Soon they stop.\""
+    },
+    {
+      "Key": "dd3e10c5-ce62-467f-8b96-a18d3c84684a",
+      "Value": "{n}The troll stares at you for a moment.{/n} \"Me eat,\" {n}he confesses, slumping a little.{/n} \"But me no kill borba. Never again kill borba.\""
+    },
+    {
+      "Key": "5ae7264a-194b-4c6b-8336-2e066abbe171",
+      "Value": "\"Dumb borba! Don't listen!\" {n}Jazon snarls.{/n} \"Troll no eat borba. Borba friend!\" {n}Jazon stomps his feet loudly and works his jaw, spraying you with stinky, sticky saliva.{/n}"
+    },
+    {
+      "Key": "138faa83-ac78-4b2a-8757-55887b9c3514",
+      "Value": "\"Horse. Cow. Dog.\" {n}Jazon scratches is belly.{/n} \"Dead borba too, sometimes. Long dead, before Hargulka's order. No need to waste food.\""
+    },
+    {
+      "Key": "c390d573-b9dd-4e23-9654-957cfe413c8f",
+      "Value": "{n}Jazon scratches the back of his head, making a loud crackling sound.{/n} \"Borba better not go. Trolls still wild and dumb. Much danger.\" {n}Jazon sighs — a sound you've never heard from a troll — and stomps away.{/n}"
+    },
+    {
+      "Key": "728ff639-6ba1-4812-8d50-3bc9d4041bd9",
+      "Value": "\"King over all trolls! Strong! Smart! K-kind...\" {n}The troll stutters slightly and pauses for a moment.{/n} \"Made all trolls together. Made kingdom, like borba.\""
+    },
+    {
+      "Key": "9556aac3-d70e-47d0-8736-7a90c802d0d7",
+      "Value": "\"Not here to talk. Arrows will speak in my stead.\""
+    },
+    {
+      "Key": "dc8e447b-d0ab-4479-8c09-7c06a78a747a",
+      "Value": "\"In that case, he's in for one unforgettable audience today.\""
+    },
+    {
+      "Key": "24934e8d-8db0-4df7-8068-83bc1d096107",
+      "Value": "\"What a surprise! A polite troll!\""
+    },
+    {
+      "Key": "099aacb3-3bef-4a56-a1ea-503e5fe45bcc",
+      "Value": "\"I'm glad we let him go. He seems nice!\""
+    },
+    {
+      "Key": "efab7c67-c763-4e9e-8dae-f716fe9180c7",
+      "Value": "\"Ours capital!\" {n}the troll exclaims, waving his hand toward the rock.{/n} \"Kingdom of both troll and kobold. We live there now, in peace with borba. Ours land!\""
+    },
+    {
+      "Key": "da07d25c-d840-4bb2-ab43-6a6a35389256",
+      "Value": "\"You understand, borba? Troll no more die at all. Fire is no death. Steel is no death. Tartuk made troll immortal.\""
+    },
+    {
+      "Key": "4d676f6f-e3db-419e-8109-464c6adb8e28",
+      "Value": "{n}Jazon looks you in the eyes.{/n} \"Many trolls wild. Eat borba. They will stop soon. Peace will be!\""
+    },
+    {
+      "Key": "5d923100-8012-4ab5-8f99-7caabc6e50c6",
+      "Value": "\"Tartuk the one and only! King to kobolds, friend to trolls.\" {n}Jazon's voice sounds earnest and respectful.{/n}"
+    },
+    {
+      "Key": "d22ddf16-8162-4253-a8a0-7d65cabc2dc4",
+      "Value": "{n}Amiri looks at you with confusion.{/n} \"What? What do you mean, 'we're not here to fight'?\""
+    },
+    {
+      "Key": "deb8a360-0227-4c44-8281-8542e6aeb711",
+      "Value": "\"Yes,\" {n}the troll agrees.{/n} \"Tartuk speaks like that. Taught me borba language. Told I am smart.\" {n}The troll proceeds to scratch his armpit, then sniff his fingers.{/n}"
+    },
+    {
+      "Key": "418e8834-dfa2-460b-adfb-c7e16f08b5f0",
+      "Value": "{n}The troll makes a strange growl. You're about to draw your weapons when it becomes evident that he was simply clearing his throat.{/n} \"I meet borba and tell them: King Hargulka and King Tartuk ask that borba stay away from {g|Trobold}Trobold{/g}. It filthy, not pretty, and dangerous. We invite borba later. When Kings allow.\""
+    },
+    {
+      "Key": "518a6401-5fcf-4d73-9497-c76114f0f635",
+      "Value": "{n}Jazon's eyes widen and he shifts back a bit.{/n} \"Drrrabba kurga, iron red and hot! Heat! Troll scream, and scream, and scream! Gudunga yrga, borba. Pain.\" {n}He flails his hands in the air.{/n} \"Then, quiet. No more pain. Fire no danger anymore. Troll no die from fire no more.\""
+    },
+    {
+      "Key": "823da0c5-7419-47d4-98b7-d2867ad439d0",
+      "Value": "\"Many troll, many kobold. Live together. Learn borba speech. Paint walls. Tartuk protects trolls from fire.\" {n}Jazon's lips move silently, and he looks into the distance for a moment.{/n} \"Uh, plenty food, too. Plenty loot. Troll and kobold share.\""
+    },
+    {
+      "Key": "51a6c84d-4c14-44e3-9ae8-7329ce1be163",
+      "Value": "{n}Jazon stares at you, his tongue dangling out.{/n}"
+    },
+    {
+      "Key": "bc1a0e4c-18cf-4b30-9c99-609ae4ced178",
+      "Value": "\"Jazon!\" {n}The troll pounds his chest, making a hollow thud.{/n} \"I had different name before. Now, Jazon! Like borba!\" {n}He thrusts out his chest, and a dribble of drool from his mouth promptly lands there.{/n} \"Me talk like borba. Wash myself like borba. And no eat borba. Me is like borba myself!\""
+    },
+    {
+      "Key": "53460e7e-66bd-4163-86d3-5256bfdccee5",
+      "Value": "\"Hail, borba!\" {n}The troll's voice is rough and gravelly.{/n} \"Welcome to {g|Trobold}Trobold{/g}.\""
+    },
+    {
+      "Key": "6f6b2a1f-044a-4ccd-b20e-73d37aa26882",
+      "Value": "\"Sure. Now I've seen EVERYTHING.\""
+    },
+    {
+      "Key": "b838dd43-6010-47af-836c-7a1f54a3ed51",
+      "Value": "\"First city for both troll and kobold. Will be kingdom! Troll, and kobold, and borba will do friendship! Troll no eat borba anymore, and borba no kill troll and kobold anymore. Peace!\""
+    },
+    {
+      "Key": "2c348318-dc4b-4dbc-aa58-2fc3149589a0",
+      "Value": "\"Yep. I think it likes you.\""
+    },
+    {
+      "Key": "a56a792f-d6ef-460d-aeba-c279fc5b088c",
+      "Value": "{n}A bitter smile appears on Harrim's face.{/n} \"A proud citadel of dwarves, turned into a lair for trolls and kobolds... Would it be possible to humiliate {g|Torag}Torag{/g} any further?\""
+    },
+    {
+      "Key": "8b3ea633-2f58-43ac-b5d2-48e9c8642602",
+      "Value": "\"Really? A kingdom?\" {n}Regongar whistles in surprise.{/n} \"I'd certainly like to see what kind of kingdom they... kobold together. Ha ha!\""
+    },
+    {
+      "Key": "34427329-6fdf-4d5f-92de-0f5ae7196bd6",
+      "Value": "\"Kobold... together? Bwa ha ha! A pun! Jazon understand!\""
+    },
+    {
+      "Key": "d2f6450f-c7bd-438e-ad1e-830d31b36e7d",
+      "Value": "{n}Regongar laughs uproariously at your pun, slapping his thighs.{/n}"
+    },
+    {
+      "Key": "9b17e8f4-53ac-4499-80f9-22d42c3b53b2",
+      "Value": "{n}Regongar sneers, pleased.{/n} \"Who knows? The history of troll comedy might start with that pun!\""
+    },
+    {
+      "Key": "78e96b35-ddc0-4108-99e1-fa1ee2840f0a",
+      "Value": "{n}Glancing sideways at you and realizing you won't pay attention to his joke, Regongar turns away resentfully.{/n}"
+    },
+    {
+      "Key": "a9852055-df85-4717-b98e-6ef110e1d966",
+      "Value": "{n}Jazon frowns and blinks slowly. {/n} \"King said no one can enter... But he never said humans have kings too... What am I to do? Hargulka hates when someone disobeys his orders, always punches troublemakers in the face. But if it all so complicated, if borba ruler came... Fine. Hargulka smart, he'll figure it all out. And face will heal... Follow me, {mf|king|queen}, you'll talk to {g|Trobold}Trobold{/g} kings!\""
+    },
+    {
+      "Key": "296cd9bf-76eb-4090-86d1-049f8f11aaf6",
+      "Value": "{n}The troll who stands before you looks different from his kin. His pelt is cleaner, and his stench is almost bearable, unlike the other trolls. Noticing you, he turns and slowly steps toward you.{/n}"
+    }
+  ]
+}

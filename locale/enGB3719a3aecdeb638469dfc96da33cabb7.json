@@ -1,0 +1,149 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "91ccdc6f-fd1a-44ed-8904-903b7a408e26",
+      "Value": "\"What awaits Darven in Cheliax?\""
+    },
+    {
+      "Key": "57a374e7-4c7e-4e09-a0a2-d4c8d24433b7",
+      "Value": "\"Execute the criminal here and now.\""
+    },
+    {
+      "Key": "cdf41f4d-0a5e-4920-8bb0-a005fb9dafed",
+      "Value": "\"Let him live. Mammon will punish him, one way or another.\""
+    },
+    {
+      "Key": "f4787cd8-ae73-4320-bb92-bdfbf3d7db55",
+      "Value": "\"Do as you will.\""
+    },
+    {
+      "Key": "afbb249e-6329-404c-81ca-f09912ddf010",
+      "Value": "\"An exemplary execution? Too bad I can't go with you to watch it.\""
+    },
+    {
+      "Key": "25dbe504-2574-41c8-b82b-dd6d9de2755d",
+      "Value": "\"I accept your offer. The Hellknights of the Order of the Rack will always be welcome guests in my lands.\""
+    },
+    {
+      "Key": "8d5e0cf8-e7f5-4234-a134-ef1328b86958",
+      "Value": "\"Leave Darven alone and get out of my lands.\""
+    },
+    {
+      "Key": "06d2b3e4-92e0-4a22-86fc-580e72e8c6cc",
+      "Value": "\"I'm not afraid of you. Come and bring your hellknights with you. I'll wait.\""
+    },
+    {
+      "Key": "107800d9-6297-4963-92d5-29b2682358b6",
+      "Value": "[Attack] \"You've tested my patience for too long.\""
+    },
+    {
+      "Key": "11d24e38-d357-4238-8160-91714930e9af",
+      "Value": "\"Just leave. I don't want to see you anymore.\""
+    },
+    {
+      "Key": "3b6433c0-fd90-40d4-9937-8ab18207e2bf",
+      "Value": "\"I've helped you to catch Darven. Where's my reward?\""
+    },
+    {
+      "Key": "a92ca3b2-e85c-47c7-8bc7-1688b957529a",
+      "Value": "\"So, what now, Darven? Where's all your arrogance gone? What do you say now, laying in a pool of your own blood?\" {n}Linxia's eyes sparkle with pleasure. Her sword swings lazily from side to side, close to Darven's throat.{/n}"
+    },
+    {
+      "Key": "3eb24042-f556-4c3c-9027-34546d8e32cc",
+      "Value": "{n}Without taking his eyes from the Linxia's blade, Darven makes an effort to spit out blood.{/n} \"Well, I know what an honorable defeat means. {g|Mammon}Mammon's{/g} been waiting for me for a long time now. So do me a favor, kill me now and let's be done with it.\" {n}An attempt of false bravado fails to make his dull voice sound more lively.{/n}"
+    },
+    {
+      "Key": "92e6937a-24f3-467c-9023-2546f21e01a6",
+      "Value": "\"Kill you now? Simple as that? After so many years of chasing you across all of {g|Golarion}Golarion{/g}? Oh no, no way. We're taking you back to {g|Cheliax}Cheliax{/g}.\""
+    },
+    {
+      "Key": "298b0757-2063-4b5c-86a9-0c04b1d04a50",
+      "Value": "\"That's exactly what I'm going to do. Now, as for you...\" {n}Linxia eyes you up and down.{/n}"
+    },
+    {
+      "Key": "b6b72454-4460-4795-9243-a7692b200dc2",
+      "Value": "\"The fire, or perhaps the chopping block. The rack, perhaps the stocks. But before all that — an honest trial.\""
+    },
+    {
+      "Key": "9e419f73-d4e3-434e-a7c9-1f88d5d3a332",
+      "Value": "\"A trial so honest that you already know the outcome.\""
+    },
+    {
+      "Key": "f67d3558-41b5-47cf-843d-1d6ba9f28dfd",
+      "Value": "\"Ah, we have an admirer of the art! Trust me, when it comes to torture, Linxia is a true master. It's really sad that you're going to miss it all.\""
+    },
+    {
+      "Key": "d48106ae-cb73-437d-9076-97c6fcfccba6",
+      "Value": "\"At least you won't be missing anything, Darven.\" {n}Linxia's face winces in contempt.{/n} \"Now, as for you...\" {n}Linxia eyes you up and down.{/n}"
+    },
+    {
+      "Key": "f588d10a-5305-494f-af3f-58f574779d9c",
+      "Value": "\"I didn't ask for your opinion. The life and death of Darven are the sole concern of the {g|Order of the Rack}Order of the Rack{/g}. Now, as for you...\" {n}Linxia eyes you up and down.{/n}"
+    },
+    {
+      "Key": "d4f30cc7-26dd-49d8-b180-46cf32ea117b",
+      "Value": "\"You are… an adequate… ruler.\" {n}Each of Linxia's words comes with tremendous effort.{/n} \"I admit, I… didn't expect… a stronghold of law and order could appear in these backwaters. You have my… apologies.\""
+    },
+    {
+      "Key": "a722c1cf-f074-43e2-baa5-b02d9753d891",
+      "Value": "\"You are… an unworthy ruler.\" {n}Linxia makes no effort to hide her contempt.{/n} \"Though I wouldn't expect anything else from a bandit lord.\""
+    },
+    {
+      "Key": "978350b0-4990-4009-a738-9681fb6f9322",
+      "Value": "\"On behalf of the {g|Order of the Rack}Order of the Rack{/g}, I would like to offer you our hand in friendship. Let us join our efforts in fighting lawlessness and dissidence.\""
+    },
+    {
+      "Key": "e88fbc5e-714a-4c6c-9226-0f94e9d5c79c",
+      "Value": "\"Thank you.\" {n}Linxia gives you an awkward smile.{/n} \"I have high expectations of our alliance.\""
+    },
+    {
+      "Key": "b12db730-0045-4e1d-bac5-fba5b638f33c",
+      "Value": "\"Sooner or later, the {g|Hellknights}Hellknights{/g} will deal with your lands and bring order here. Pray to your gods that you're dead by then.\""
+    },
+    {
+      "Key": "ba04b567-3a30-49f2-ba46-6ef6bcad6485",
+      "Value": "{n}Linxia throws a withering glance at you and turns away.{/n}"
+    },
+    {
+      "Key": "68f75a84-3131-4a94-8719-507ac366c050",
+      "Value": "\"I was expecting something like this! I'm glad to be reminded that I'm an excellent judge of character — especially when it comes to the ones I put to death.\""
+    },
+    {
+      "Key": "cd26a7f4-e457-40fe-a772-ff07a771397f",
+      "Value": "\"Seeing justice served is reward enough in itself!\""
+    },
+    {
+      "Key": "23331cff-0ba5-4398-8e95-774f25f22377",
+      "Value": "{n}Darven tries to laugh, but bursts into a cough instead.{/n} \"If you expected a reward, you obviously picked the wrong side.\""
+    },
+    {
+      "Key": "9d14be2f-2a9a-4e12-b20d-ed7c6d11e146",
+      "Value": "\"A fair requirement. Law must be law, and justice must be justice. Neither is meant to indulge your own sordid feelings or be entertainment for a crowd.\""
+    },
+    {
+      "Key": "5b7d9aa7-8ef8-462c-8d13-289c94c3bba0",
+      "Value": "\"We could gain some benefits from this proposition. And it would be wrong not to get anything from the order, after all the trouble its zealous follower put us through.\""
+    },
+    {
+      "Key": "9e02d72c-8b70-437a-82f8-aa6a3732f455",
+      "Value": "\"Just in case, I feel I must remind you — the {g|Order of the Rack}Order of the Rack{/g} is a cult of narrow-minded fanatics who persecute scientists and artists alike. They hate technology, hate books and songs, and especially hate freedom and the right to speak one's mind.\""
+    },
+    {
+      "Key": "0ebde975-d260-4da6-bc3a-970dce988965",
+      "Value": "\"For once, I actually agree with Jubilost. Look in Linxia's eyes — there is nothing but the desire to exterminate and subdue! Besides, I like Darven... Regardless of his behavior, no good would come of leaving him in her hands...\""
+    },
+    {
+      "Key": "487a84c0-2a4e-4488-859a-6d1b02ffbd4e",
+      "Value": "\"So, what, now I have to hide all my books and manuscripts in a locked chest? What's keeping them from breaking in and burning everything down as soon as I turn around?\""
+    },
+    {
+      "Key": "757ac5df-1712-448f-a3e6-e948cb601a30",
+      "Value": "{n}Amiri casts a lazy glance your way.{/n} \"Can I punch her teeth out?\""
+    },
+    {
+      "Key": "99f1c7aa-84af-4448-9ac8-a6bfdd5fab83",
+      "Value": "\"No, that's too much! We didn't help her just to have her threaten us now!\""
+    }
+  ]
+}

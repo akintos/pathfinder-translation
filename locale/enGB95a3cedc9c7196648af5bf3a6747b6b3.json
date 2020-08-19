@@ -1,0 +1,121 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "704a3f60-9a2c-4c73-bee6-cc941718788a",
+      "Value": "[Begin the surgery] \"Let's begin.\""
+    },
+    {
+      "Key": "d9725d23-7a16-4414-bd34-a0ffc2d5d4da",
+      "Value": "[Leave] \"Give me a few moments to look around.\""
+    },
+    {
+      "Key": "67413739-ac2e-4618-b186-08616941cd9f",
+      "Value": "\"Who's our patient?\""
+    },
+    {
+      "Key": "27a29813-6d3b-494f-89d5-2de679fff351",
+      "Value": "\"Why the prison? Was there no place more suitable?\""
+    },
+    {
+      "Key": "c6b62478-eece-47d5-9050-883bf624a283",
+      "Value": "\"Where are all the prison inmates?\""
+    },
+    {
+      "Key": "557d6512-b906-430b-8bf7-b82b1fa1f880",
+      "Value": "\"What have you already tried?\""
+    },
+    {
+      "Key": "5a6b33d7-d631-43d2-926e-31f34036650d",
+      "Value": "\"Where will the surgery take place?\""
+    },
+    {
+      "Key": "8a1fb27f-56e1-4985-a172-f3c400050554",
+      "Value": "\"Good. I've no need for a torture chamber anyway.\""
+    },
+    {
+      "Key": "68d118f1-999f-45bc-998f-53f016d8573a",
+      "Value": "\"Well, isn't that ironic?\""
+    },
+    {
+      "Key": "ecea4f8d-951d-4a73-87d2-fd5cbc22f304",
+      "Value": "\"A shame. I could make use of a torture chamber.\""
+    },
+    {
+      "Key": "a50a887d-00cf-4604-9168-afeee7c0452d",
+      "Value": "\"This is our hospital.\" {n}Jhod shows you around the bleak, comfortless building with its barred cells.{/n} \"The prison is certainly not the best location, nor the healthiest. But it's better than nothing. Also... It might be cruel to say this — but, considering the nature of the malady, it would be safer for everyone if the patients were kept behind the bars until they are healed!\""
+    },
+    {
+      "Key": "e7671002-b261-4aab-805f-32e29e111f05",
+      "Value": "\"Her name is Madla Stasek. A peasant woman from a nearby village. We hadn't seen any prior cases of the disease there...\""
+    },
+    {
+      "Key": "efe1395e-4f2d-4050-afd6-8ea876a285db",
+      "Value": "\"Standard spells to heal disease, remove poison, and lift curses — all ineffective. Attempting to dispel the magic is also fruitless. I fear we may be dealing with a curse of strength enough to surpass our own faith...\""
+    },
+    {
+      "Key": "6c73e132-1979-4e40-9125-902c37b358e1",
+      "Value": "\"There were naught but a few pickpockets locked away here. We put them to work cleaning the place up, then set them free. There is one still here, though. He wasn't some petty thief, but a seasoned highwayman.\""
+    },
+    {
+      "Key": "be852a0f-1faf-4f48-bf6c-23c9bc6d8440",
+      "Value": "\"If only the city had a clinic...\""
+    },
+    {
+      "Key": "c423ac75-e488-4cb9-a720-670e8a3d0ee7",
+      "Value": "\"Well, that room was previously a... torture chamber. There was already a suitable table...\""
+    },
+    {
+      "Key": "74779ab3-47b2-4401-ad7f-226ab082f682",
+      "Value": "\"I thought as much!\""
+    },
+    {
+      "Key": "18998da8-5df2-4313-b617-c4e3ad28eeb5",
+      "Value": "\"This is no laughing matter!\""
+    },
+    {
+      "Key": "ef930918-efa1-4cfc-bbfc-be7f2de5de4d",
+      "Value": "{n}The cleric frowns but remains silent.{/n}"
+    },
+    {
+      "Key": "a4756401-40cc-4683-8649-9bb879a68b12",
+      "Value": "\"If you must, but please, don't take too long!\""
+    },
+    {
+      "Key": "d86cfe2a-8fe1-4940-adff-b44223c0a55a",
+      "Value": "\"Are you ready? Please, we cannot delay much longer!\""
+    },
+    {
+      "Key": "cffdbaad-207f-47a2-b046-587c8d88ea32",
+      "Value": "{n}Jhod breathes in deeply, then exhales slowly.{/n} \"{g|Erastil}Erastil{/g} be with us...\""
+    },
+    {
+      "Key": "78d75b64-599a-4282-a652-fe503385cc3b",
+      "Value": "\"I hope the city will get a proper clinic, in time.\""
+    },
+    {
+      "Key": "8fcd02c3-4b0a-473e-bcb4-0f67e62eef92",
+      "Value": "\"It isn't a matter of faith. I don't think it's a disease, let alone some powerful curse. I suspect it's some sort of parasite, hiding itself within the body.\""
+    },
+    {
+      "Key": "0a68519d-e65c-4b26-82ee-e6c8b204fe58",
+      "Value": "\"Nonsense! We've detected magic suffusing each patient's body, evenly distributed! If it was some sort of parasite, it would be a simple matter to detect!\""
+    },
+    {
+      "Key": "9ea911dc-0a5e-4f59-8dd1-d04ad5b4d229",
+      "Value": "\"Then it's able to disguise itself! Maybe it's poisoning their blood with its magic — by the Sun, we return to this argument over and over. It's been days! Let's stop talking and try doing something already!\""
+    },
+    {
+      "Key": "4505c31b-2ce5-428b-b4d8-46b41d4ff9bb",
+      "Value": "\"Even if it did, the prison would still be the best choice. Don't forget, at any moment one of the patients could... You know — die and release a monster. It's safer for everyone if we keep them locked up.\""
+    },
+    {
+      "Key": "31c68aa9-39c7-49ee-b3f0-420e887f3cb8",
+      "Value": "\"I pray for that brave woman. She's the first one to mount the courage necessary to volunteer for the surgery. We cannot let her down.\""
+    },
+    {
+      "Key": "38b5a684-8b84-4c7f-bfc4-ce896504cab6",
+      "Value": "\"Sarenrae help us.\""
+    }
+  ]
+}

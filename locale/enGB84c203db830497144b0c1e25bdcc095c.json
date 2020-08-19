@@ -1,0 +1,105 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "73ade55c-3ff0-48d3-9268-8a80baa22099",
+      "Value": "\"Tell me your story.\""
+    },
+    {
+      "Key": "0e7dc482-d5eb-4cde-8588-2dc5e8bf19c1",
+      "Value": "\"Start from the very beginning.\""
+    },
+    {
+      "Key": "3e11a75d-070e-41d0-a5ee-cd7af9804334",
+      "Value": "\"So, what did this Chelish noble do to make you so angry?\""
+    },
+    {
+      "Key": "fd0dde72-e77c-44d9-bb55-9ca93827397b",
+      "Value": "\"Remind me, how did you make a pact with Mammon?\""
+    },
+    {
+      "Key": "17ebf227-3789-4f02-aac0-a05017710789",
+      "Value": "\"What's the essence of your pact with Mammon?\""
+    },
+    {
+      "Key": "e105c3bf-a843-4cf2-ba25-24a224d0cf75",
+      "Value": "\"Have you always dreamt of becoming a king?\""
+    },
+    {
+      "Key": "c61a8c32-592e-4439-b11a-6c8cb7c2a27c",
+      "Value": "\"I have some other questions.\""
+    },
+    {
+      "Key": "0d980036-2262-480d-9692-959e44351a1e",
+      "Value": "\"Goodbye, Your Highness.\""
+    },
+    {
+      "Key": "d5ceeb1e-b048-4bbc-a20b-7055ef40596c",
+      "Value": "\"How are things going in Brineheart?\""
+    },
+    {
+      "Key": "7efd0c52-8135-400f-93b1-5cffc0c71c0c",
+      "Value": "\"Aren't you worried that the Hellknights will show up here once again?\""
+    },
+    {
+      "Key": "4848759d-f0ea-4ead-b1c9-0dbd18f5a2c1",
+      "Value": "\"Welcome to Brineheart! As you can see, we're settling in nicely. Let me once again express my gratitude for helping to drive Linxia from my city. That woman just won't take a hint.\" {n}{d|Darven}Darven's{/d} grin shines with joy.{/n}"
+    },
+    {
+      "Key": "4dc61c5b-16a2-4400-a08b-48cc6b2f593c",
+      "Value": "\"Welcome to Brineheart!\" {n}Darven gives you a hospitable smile.{/n}"
+    },
+    {
+      "Key": "df412c7c-89e6-4cd4-9f13-f01e17386abb",
+      "Value": "\"I'll be happy to tell you again. Or maybe you're interested in some particular part of it?\""
+    },
+    {
+      "Key": "f8f49535-5ac9-42d7-a1ef-5a65cadcf089",
+      "Value": "\"You see, that whole story about the duel and the {g|Cheliax}Chelish{/g} noble had one more little addendum to it.\""
+    },
+    {
+      "Key": "1d655ece-e8d8-4142-b703-650991ba086e",
+      "Value": "\"Well, not so little, to be precise.\" {n}Darven grins.{/n} \"His name is {g|Mammon}Mammon{/g}, and he is one of the Archdevils – the Ardent Prince. And he made a pact with me.\""
+    },
+    {
+      "Key": "a3cf1e2c-d3b2-40ad-8ccb-32f61638cae0",
+      "Value": "\"That {g|Cheliax}Chelish{/g} noble had a pact with {g|Mammon}Mammon{/g} too – which I expect is commonplace for the Chelish nobility. And the noble was in no hurry to fulfill his end of the deal, either. By killing him, I earned Mammon's gratitude, and he offered me a similar pact. A handsome sum of gold, and my cherished dream come true – that's what he promised. So how could I say no?\""
+    },
+    {
+      "Key": "df6196b4-faab-4fab-88cc-fc47a5c8f4d9",
+      "Value": "\"I was supposed to become a king. No more, no less.\" {n}Darven smiles.{/n} \"The subjects of my kingdom were supposed to worship {g|Mammon}Mammon{/g} as their official deity, and pay taxes for his temples.\""
+    },
+    {
+      "Key": "befcf5d4-cdd3-442d-88ca-34a9a4133eae",
+      "Value": "\"Not too difficult a task – especially if you have enough money. The only problem was Linxia. The moment I laid the first cornerstone of my kingdom, I'd have become an easy target. She would have instantly found me and introduced me to all her torture devices.\""
+    },
+    {
+      "Key": "b61a1aaf-ea3c-4694-8811-3222eb58f74b",
+      "Value": "\"Thanks to you, I managed to avoid this ignominious fate.\""
+    },
+    {
+      "Key": "c120147e-e3d7-4ba5-9984-038e5a1aec2e",
+      "Value": "\"I'll be happy to answer every one of them.\""
+    },
+    {
+      "Key": "c6563a33-d85d-461b-b07f-66e9e0033012",
+      "Value": "\"Farewell, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. Feel free to come back anytime – you're always welcome here!\""
+    },
+    {
+      "Key": "824b2bb0-f97a-4604-8feb-11c8ba0091f8",
+      "Value": "\"Oh, yes. It was my dream even back when I still was sailing the {g|Inner Sea}Inner Sea{/g} as a part of the {g|Taldor}Taldorian{/g} merchant fleet. It was back then that I came up with the name – Brineheart. In fond memory of those careless days when the salty spray settled in my hair as to the sound of creaking rigging and the cries of gulls.\""
+    },
+    {
+      "Key": "37170b23-fd23-4f3e-a543-46f1255aa4f1",
+      "Value": "\"Nothing could be better! Under my rule, trade is booming. The taxes are reasonable, so it didn't take much time for the caravan masters to figure out the best place to sell their goods, establish their storage or just spend the night. I crewed a trading vessel before I became pirate, so I have a pretty good understanding of how to do business.\""
+    },
+    {
+      "Key": "33d73578-6f35-4d0b-969c-3df21916e176",
+      "Value": "\"Let them come. I've already hired decent guards, and I have reliable neighbors.\" {n}Darven bows.{/n} \"Besides, I've got informants in {g|Cheliax}Cheliax{/g}. So it's highly unlikely these {g|Hellknights}Hellknights{/g} will take me by surprise.\""
+    },
+    {
+      "Key": "121ac574-0307-4b5f-be84-1e0f995c2e67",
+      "Value": "\"People see an example of a good ruler in me. I see no point in dissuading them. There's almost no opposition left.\" {n}Darven grins.{/n} \"A smile will get lots of doors open before you. But a smile and a sharp knife will get you even further.\""
+    }
+  ]
+}

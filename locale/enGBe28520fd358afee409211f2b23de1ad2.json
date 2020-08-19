@@ -1,0 +1,205 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "4a6de46a-b5ec-4314-aeec-6edf01458866",
+      "Value": "\"I've got it for you. Here you go.\""
+    },
+    {
+      "Key": "0f21cd1c-50cf-4746-b6f1-021c5093c981",
+      "Value": "[Lie] \"Sorry, I wasn't able to get it.\""
+    },
+    {
+      "Key": "0a06c37b-a390-4bbf-9582-145bc32fd725",
+      "Value": "\"I've got it, but I'm not giving it to you.\""
+    },
+    {
+      "Key": "1e6e1e55-7c23-4a12-a1a3-91ddb8457a69",
+      "Value": "\"Let's talk price. What's it worth to you?\""
+    },
+    {
+      "Key": "f3c71598-45a3-47f3-ac8b-60442a19e6cb",
+      "Value": "\"Did you know there's a ghost tied to it?\""
+    },
+    {
+      "Key": "ddfeb55c-99d3-42b8-92d1-5d5eac9e99d3",
+      "Value": "\"Let's talk about it later.\""
+    },
+    {
+      "Key": "b064cde5-2468-46c3-b4af-e4e3bfae5326",
+      "Value": "\"Here you go, Shyka.\""
+    },
+    {
+      "Key": "74d721e6-2abc-4532-bd41-1c06d0377962",
+      "Value": "\"Here, Salim. Have your goddess put Lethoriel to rest.\""
+    },
+    {
+      "Key": "1a30d109-5e36-49c6-9637-916d4d8d46b6",
+      "Value": "\"I'm going to keep it.\""
+    },
+    {
+      "Key": "3a50296b-f8b4-4a8d-8493-f49205cd6be6",
+      "Value": "\"I'm going to set the ghost free myself.\""
+    },
+    {
+      "Key": "499b800e-a07a-40b1-9e0b-9c728a3ea798",
+      "Value": "\"I need to think about it.\""
+    },
+    {
+      "Key": "295481d1-0748-4b45-a758-883aa1951f22",
+      "Value": "\"I've changed my mind. Here, Shyka — you take it.\""
+    },
+    {
+      "Key": "26f83498-99db-45bf-800b-55779cefb73c",
+      "Value": "[Free the ghost] \"Lethoriel!\""
+    },
+    {
+      "Key": "adf98c62-1972-40b9-96c5-2f0726111cf4",
+      "Value": "\"I've changed my mind.\""
+    },
+    {
+      "Key": "7e8b0bbf-d230-4e07-8058-1d8d6dbf3e60",
+      "Value": "\"I'll do it later.\""
+    },
+    {
+      "Key": "8f76c733-6c87-40a3-96b5-0415ef727c6d",
+      "Value": "\"I'll try!\""
+    },
+    {
+      "Key": "39d2ba7a-41f7-4734-b451-4d8ee54ea50a",
+      "Value": "\"What? No way!\""
+    },
+    {
+      "Key": "4da24c80-97eb-4e0b-9da1-7716b1f7a24e",
+      "Value": "\"But I killed you!\""
+    },
+    {
+      "Key": "3c5d58d8-2002-4017-890e-b529bfca0311",
+      "Value": "\"I've decided what to do with the crown.\""
+    },
+    {
+      "Key": "f503ffa9-4bc1-44bc-86df-cccf99c1e35a",
+      "Value": "{n}You look up to find {g|Shyka}Shyka{/g} waiting for you at the edge of the trees, arms crossed.{/n}"
+    },
+    {
+      "Key": "a9bac3ce-ca54-4447-9e2f-5f5a779454f5",
+      "Value": "{n}{d|Salim}Salim{/d} stands near the Eldest, his arms crossed. He nods to you but says nothing.{/n}"
+    },
+    {
+      "Key": "19472f61-4aab-4d2f-8429-2df745ca560b",
+      "Value": "{n}Despite being dead the last time you saw him, {d|Salim}Salim{/d} now stands in front of you, looking irritated.{/n}"
+    },
+    {
+      "Key": "a119296a-5c5f-4034-a5b8-87ec2c79ae02",
+      "Value": "\"Well? Did you get it for us?\""
+    },
+    {
+      "Key": "53dd7bc2-db26-4144-ace4-db90483116d0",
+      "Value": "\"Well?\" {n}{d|AnotherShyka}Shyka{/d} asks.{/n} \"Did you get it for us?\""
+    },
+    {
+      "Key": "9123b43c-3026-4519-afa8-496a98bc02f8",
+      "Value": "{n}As {g|Shyka}Shyka{/g} reaches for the crown, Salim steps forward and raises a hand between you. {/n}\"Before you do this, I think you should consider that the ghost tied to this crown is a mortal soul, trapped and kept from its rightful afterlife. As an agent of {g|Pharasma}Pharasma{/g}, Goddess of Death, I could take the crown to her realm and ensure that the ghost is put to rest safely, as he deserves.\" {n}At Shyka's shocked expression, he laughs.{/n} \"Don't look so surprised! I told you I'd help you locate it, and I did. But putting souls to rest is still my job.\"{n} He turns back to you. {/n}\"So what do you want to do?\""
+    },
+    {
+      "Key": "7d40f08e-a068-49e3-a50c-89f495225d11",
+      "Value": "{n}{g|Shyka}Shyka{/g} shakes their head. {/n}\"You really shouldn't lie to an {g|Eldest}Eldest{/g}, child. I'll let it slide this once — consider my indulgence part of your reward. Now hand over the crown.\""
+    },
+    {
+      "Key": "7cfb8e07-bfc9-46c8-b889-b84e8fd0517f",
+      "Value": "{n}Salim laughs at {g|Shyka}Shyka's{/g} shocked expression. He grins and claps them on the shoulder.{/n} \"You and your type never learn, do you? You think of us mortals as dogs to be trained, but we can still surprise you.\"{n} He turns to you, and his expression sobers. {/n}\"In that case, I have a proposal. The ghost tied to this crown is a mortal soul, trapped and kept from its rightful afterlife. As an agent of {g|Pharasma}Pharasma{/g}, goddess of death, I could take the crown to her realm and ensure that the ghost is put to rest safely, as he deserves. It's my job, actually.\"{n} He looks you in the eye. {/n}\"So what do you want to do?\""
+    },
+    {
+      "Key": "82c60465-c1e8-4b37-a631-b7b679cab078",
+      "Value": "{n}{g|Shyka}Shyka{/g} sighs. {/n}\"It's always money with you mortals, isn't it? Measuring your tiny lives in shiny pebbles. Besides, I already told you — giving me the crown will aid you in your quest against Nyrissa. But if you must have a physical reward, so be it.\"{n} The {g|Eldest}Eldest{/g} reaches into a sleeve and pulls out a bulging sack, showing it to you before stashing it away again. {/n}\"This is yours, in exchange for the crown. Now do we have a deal?\""
+    },
+    {
+      "Key": "1ee78750-a672-4e22-bc00-55ce245276b1",
+      "Value": "\"Did I know about the ghost?\"{n} {g|Shyka}Shyka{/g} smiles. {/n}\"Child, why do you think I wanted it? I'm far too old to be excited about fancy hats. Now are you going to give it to me or not?\""
+    },
+    {
+      "Key": "078f6725-2132-463c-9c47-80e819674d16",
+      "Value": "{n}{g|Shyka}Shyka{/g} sighs. {/n}\"You try our patience — and from a time god, that's really saying something. But very well. We'll be here when you return.\""
+    },
+    {
+      "Key": "e3410bd3-6715-4350-acdd-19f929d95446",
+      "Value": "{n}{g|Shyka}Shyka{/g} smile smugly, as they take the crown.{/n} \"We're glad to see that some mortals understand how the world works. As we promised, you've set in motion the events that we think you'll find quite beneficial. The past is not so immutable as Nyrissa believes, nor her cup so full. But here's a little something extra for your trouble.\"{n} The {g|Eldest}Eldest{/g} reaches into a sleeve and pulls out a bulging sack, tossing it at your feet. {/n}\"Now if you'll excuse us, we're late for an appointment... or was that early?\"{n} With a thoughtful expression, Shyka wink out of existence.{/n}"
+    },
+    {
+      "Key": "569ddd9c-66f1-456a-86b4-2dfcd2fb15b1",
+      "Value": "{n}Salim accepts the crown with both hands, bowing slightly.{/n} \"Thank you. I'll see that this soul is laid to rest properly. And I'll put in a good word for you with the goddess's psychopomps — it may be that they can grant you some favor in your battles to come.\"{n} He reaches up, pulls a spiral-marked amulet from the neck of his robe, and promptly disappears.{/n}"
+    },
+    {
+      "Key": "4590cc94-5ba0-4a0c-9015-7e38131c1374",
+      "Value": "{n}Salim frowns.{/n} \"Keep it? I'd thought better of you. But so be it — in that case, I'm done here.\"{n} He reaches up and pulls a spiral-marked amulet from the neck of his robe.{/n} \"Until next time, {g|Shyka}Shyka{/g},\"{n} he says, and promptly disappears.{/n}"
+    },
+    {
+      "Key": "128a8ebb-88ff-4cc4-8832-27b7a0ae8cad",
+      "Value": "{n}Salim frowns.{/n} \"Are you sure? Undeath twists the mind — even ghosts formed from the most innocent souls can be perverted by rage and loss. But...\"{n} He unsheathes his sword and nods his readiness.{/n} \"If you're going to do it, do it now. I'll try to clean up the mess if it goes wrong.\""
+    },
+    {
+      "Key": "c9ad7d4e-ff8b-4fbc-99c2-70b322d55827",
+      "Value": "{n}As you call forth Lethoriel and command him to free himself, the crown crumbles in your hands, and light seems to fade from the forest. The ghost appears above you, twitching and writhing, expression flickering between beatific and savage. Ghostly howls shriek through the trees. Salim looks over to you, eyes wide. {/n}\"He's been a ghost too long — the backlash from the magic is tearing his personality apart! You're the master — only you can affect him. Quick, link your mind with his and lend him your willpower!\""
+    },
+    {
+      "Key": "1d038fb1-8b26-4ab4-800a-df17aa09a6a7",
+      "Value": "{n}{g|Shyka}Shyka{/g} shake their head.{/n} \"While we don't like to prophesy, we can tell you as someone who's seen the future that doing it later would be exceedingly unwise. If you're going to do it, do it now.\""
+    },
+    {
+      "Key": "fe7b9e46-c8e0-41cb-8438-a8e0f63ccf67",
+      "Value": "{n}Salim nods.{/n} \"Fair enough. What's the plan, then?\""
+    },
+    {
+      "Key": "42f7dfaa-0afe-4053-bdff-4ca9459bec67",
+      "Value": "{n}A flash flood of memories that aren't your own pours through you — scenes from Lethoriel's past. At last the tide ebbs, and the ghost looks down at you with clear eyes and a kind expression. {/n}\"Thank you. I feel more myself than I have in ages. I will go now, to tend to my forest, and perhaps explore the realms beyond this one.\"{n} His smile turns dangerous. {/n}\"But when you fight Nyrissa's minions... well, just call my name, and I'll do what I can.\"{n} With that, the ghost vanishes.{/n}"
+    },
+    {
+      "Key": "fd8f4ab8-52fc-45a3-9a8f-5edc659eff4b",
+      "Value": "{n}A flash flood of memories that aren't your own pours through you — painful scenes from Lethoriel's past that scour your soul and leave you gasping. When they end, Lethoriel looks down at you with a crazed expression. {/n}\"My kingdom! They've stolen it! But I'll get it back, oh yes...\"{n} With a mad giggle, the ghost vanishes.{/n}"
+    },
+    {
+      "Key": "40cab104-04c9-4863-bb16-37a0cb49570e",
+      "Value": "{n}Salim gives you a nod, then touches a spiral amulet around his neck and disappears as well.{/n}"
+    },
+    {
+      "Key": "f5b02728-9d98-4ff1-8966-9a47b4f69087",
+      "Value": "{n}Salim gives you a disgusted look.{/n} \"Well, that's just great. Looks like I've got a new ghost to hunt down. Thanks a lot.\"{n} Then he touches a spiral amulet around his throat and vanishes as well.{/n}"
+    },
+    {
+      "Key": "082a5374-d91a-4cda-848f-ff10a64ffa50",
+      "Value": "{n}{g|Shyka}Shyka{/g} is the last to leave, looking at you with surprise.{/n} \"That... didn't go the way we expected.\" {n}Then they vanish, leaving you alone.{/n}"
+    },
+    {
+      "Key": "ac82d404-bac7-433b-bf4f-58abe46b06ed",
+      "Value": "{n}Salim frowns. {/n}\"Keep it? Then you're truly no better than Nyrissa's scum. But so be it — in that case, I'm done here.\" {n}He reaches up and pulls a spiral-marked amulet from the neck of his robe. {/n}\"Until next time, {g|Shyka}Shyka{/g},\"{n} he says, and promptly disappears.{/n}"
+    },
+    {
+      "Key": "3c49969d-195b-4b5f-a944-07894b12b361",
+      "Value": "\"Maybe you missed the part where I work for the death goddess. You think the {g|Pharasma}Lady of Graves{/g} gives up her servants that easily?\"{n} He glares at you and shakes his head. {/n}\"But you... Murdering a traveler who's just survived a monster attack? I look forward to watching your inevitable judgment in Pharasma's Court. But until then, I've got a job to do. Let's get on with it.\""
+    },
+    {
+      "Key": "0380ce6c-928b-43e8-a0dd-09ecbdf217bf",
+      "Value": "{n}Salim looks at you and shakes his head. With a sigh, he reaches up and touches an amulet around his neck, then promptly disappears.{/n}"
+    },
+    {
+      "Key": "2a9e39ad-1b29-4378-84a1-2b293619539a",
+      "Value": "{n}Salim accepts the crown with both hands, regarding you with new curiosity.{/n} \"Interesting. You kill a man in cold blood, yet give up a god's favor to lay a ghost to rest.\"{n} He smirks. {/n}\"I'm not sure I'd exactly call us even, but... you made the right choice. I'll the goddess's psychopomps know — it may be that they'll grant you favor in your battles to come.\"{n} He reaches up, pulls a spiral-marked amulet from the neck of his robe, and promptly disappears.{/n}"
+    },
+    {
+      "Key": "02a09dcc-0282-47da-a2c2-8e0d8a46aa2b",
+      "Value": "\"The {g|Eldest}Eldest{/g} are wise. Let them decide what to do with the crown.\""
+    },
+    {
+      "Key": "e198a952-eeb6-4748-b270-70fdb72fbc82",
+      "Value": "\"Let's just keep the bauble! It's valuable, we took it — we should use it for ourselves!\""
+    },
+    {
+      "Key": "665a2a5c-dc46-4083-9829-0c5fd3ed0df0",
+      "Value": "\"What if the poor ghost doesn't want to go to {g|Pharasma}Pharasma{/g} or to {g|Shyka}Shyka{/g}? Why don't we set him free and let him decide what to do himself?\""
+    },
+    {
+      "Key": "c90308dd-39dc-4f7a-bc7a-786da905029c",
+      "Value": "\"We have no way of knowing what {g|Shyka}Shyka{/g} will do. Can we really trust someone with so many faces, so many personalities? Someone who keeps their plans a mystery? Salim is right — best to give him the crown, let the spirit rest, and restore things to normal.\""
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "5df6c6ff-d554-4b9f-b848-793ff1319133",
+      "Value": "\"What forces do I have now?\""
+    },
+    {
+      "Key": "261d58d2-f374-4abb-a447-0fea5ee119a8",
+      "Value": "\"What happened to my advisors and subjects?\""
+    },
+    {
+      "Key": "39e037eb-8b4e-4484-af4e-a775e90ea5a3",
+      "Value": "\"Is there a way to free me and my followers from the Lantern King's curse?\""
+    },
+    {
+      "Key": "3115d3b4-3261-414d-b49d-3eb89212e8c6",
+      "Value": "\"I have to go. Time ticks away!\""
+    },
+    {
+      "Key": "64d7aee5-e17c-4379-a7fd-b54426d07037",
+      "Value": "\"I'm ready for the final battle. Let us march!\""
+    },
+    {
+      "Key": "0bb69368-b54a-4a3b-89f3-cffed6f3db39",
+      "Value": "\"What's happening to my kingdom?\""
+    },
+    {
+      "Key": "f3978b0f-ee42-440e-ab56-361ad73abbf1",
+      "Value": "\"I'm ready for anything. To battle!\""
+    },
+    {
+      "Key": "ba381b04-7fe7-4bf4-a057-210a931dd337",
+      "Value": "\"I need more time to prepare.\""
+    },
+    {
+      "Key": "120228e2-6f15-4550-b668-a843b3231a89",
+      "Value": "\"I need rest. Can you help?\""
+    },
+    {
+      "Key": "a9b02908-7822-4dd2-9557-e056e8ca204d",
+      "Value": "\"What can you tell me about the Lantern King?\""
+    },
+    {
+      "Key": "efe283cc-58fa-4521-a774-e660ab40049a",
+      "Value": "\"How do you know so much? Who are you, Storyteller?\""
+    },
+    {
+      "Key": "615ebb21-7e8a-4d4d-a983-8fdd30d12177",
+      "Value": "{n}The blind old man bows to you gracefully, as if he hadn't just stepped out of battle a moment ago.{/n} \"I'm glad you're all right, Your Highness.\""
+    },
+    {
+      "Key": "68e8ada3-608c-43b1-976b-954270dd8d47",
+      "Value": "\"Yes, Your Highness.\""
+    },
+    {
+      "Key": "7e33bf76-ac67-483d-9a8f-6e42c9533556",
+      "Value": "\"Alas, we are short of time. You must act quickly to save your kingdom and yourself from the Worlds Merger — that's what we've named the catastrophe that's befallen us. There are two obstacles that may stand in your way. First — your advisors and subjects are now in various regions across the kingdom, and almost all are under attack by shadows. The power of any land lies in the brave souls that inhabit it. Save them, and you will save yourself.\""
+    },
+    {
+      "Key": "3b1b55b2-4504-4113-94ed-3d4441987be8",
+      "Value": "\"I think you'll be interested to know that the portal you used to enter the House at the Edge of Time has come to life again. Your remaining comrades, including the nereid Evindra, passed through it and brought me news about your feats in the {g|First World}First World{/g}. We've been eagerly awaiting your return, but meanwhile we've met the {g|Eldest}Eldest{/g} and the affliction he's sent.\""
+    },
+    {
+      "Key": "a6308d3c-7eba-4d6c-9332-bda65263b601",
+      "Value": "\"The nature of curses is mysterious, Your Highness. I know many stories about them, with happy and unhappy endings, and I can propose the following: to overcome a curse you must harness it. The {g|LanternKing}Lantern King{/g} would have you perish with your kingdom — and he has made real that imaginary bond between the land and its ruler, which poets and bards like to talk about so much. But this means that by protecting the kingdom from the Worlds Merger, you will also protect yourself. I think this is the first thing that must be done.\""
+    },
+    {
+      "Key": "ba2f9062-eaad-45f3-8e8a-ed073bf869f3",
+      "Value": "\"I sense you have about twenty days. That is as long as your kingdom can {d|c61 Kingdom Normal}withstand{/d} the onslaught of the {g|First World}First World{/g}. Believe me, this is a generous amount of time, considering the affliction we face.\""
+    },
+    {
+      "Key": "b848fbcf-419d-49f6-b028-9f7f38e922d7",
+      "Value": "\"I feel you have about fifteen days, no more. The pressure of {g|First World}the First World{/g} is imminent. I fear neither you nor {d|c61 Kingdom Poor}your kingdom{/d} can stand much longer.\""
+    },
+    {
+      "Key": "9156399a-911d-45d0-aee6-5c75abf3239e",
+      "Value": "\"{g|First World}The First World{/g} is rapidly penetrating the very essence of this world, changing everything at its whim — and this process will soon become irreversible. As I mentioned, after the Worlds Merger everything went mad here, even time and the laws of nature. The greatest danger to you is that the borders of the world of dreams have been destroyed. The visions of the past have become real, and you cannot sleep any more. This is a part of the curse — and one of the most dangerous consequences of your connection to your kingdom.\""
+    },
+    {
+      "Key": "c53e290d-7733-4398-8e7d-7ced9859e2cd",
+      "Value": "\"Everyone has found it difficult, especially in the hours after the Worlds Merger began. Those who could keep their sanity and escape are now either hiding or surviving and helping others.\""
+    },
+    {
+      "Key": "14af101d-eaad-444a-8e17-78c483d32dad",
+      "Value": "\"Jhod Kavken gathered the remains of the capital guard and set off to {g|Oleg's Trading Post}Oleg's Trading Post{/g} – to help hold back the shadows that escaped from the cup.\""
+    },
+    {
+      "Key": "74d7662f-732b-442f-a7da-bb2950bb7778",
+      "Value": "\"Kesten {g|House Garess}Garess{/g}, with the remains of the capital guard, has taken up position near {g|Oleg's Trading Post}Oleg's Trading Post{/g}. The shadows of the Stag Lord's bandits that escaped the cup have gathered there, and someone must repel them.\""
+    },
+    {
+      "Key": "972a8eab-c867-4478-9d6f-4a32e0e9857c",
+      "Value": "\"Many shadows that escaped the Apology went to {g|Oleg's Trading Post}Oleg's Trading Post{/g}, creating chaos and destruction along their way. Jhod Kavken and Kesten {g|House Garess}Garess{/g} rallied the remains of the guard and struck out to protect our citizens.\""
+    },
+    {
+      "Key": "b49e52f8-608c-4bdb-846e-8265faf6cb62",
+      "Value": "\"Bartholomew Delgado was able to escape the capital, but then he was beset by shadows of trolls from {g|Trobold}Trobold{/g}. They, like all the others, appeared from the broken cup, and come to take revenge for ancient grievances. If Bartholomew is still alive, you should look for him somewhere in the old Trolls' Lair.\""
+    },
+    {
+      "Key": "3f9795a6-38c8-42d5-9251-4a6654a5e7e6",
+      "Value": "\"Tsanna went to {g|Lamashtu}Lamashtu's{/g} Shrine to honor her cruel goddess and seek protection for herself and her pack.\""
+    },
+    {
+      "Key": "357ba3e3-fd3c-4b01-81b4-9a7e60562e43",
+      "Value": "\"{d|c31 Maegar Saved}Maegar Varn{/d} must be preparing a final stand at {g|Varnhold}Varnhold{/g}. The city is in dire plight. — An army led by Vordakai's own shadow is besieging it.\""
+    },
+    {
+      "Key": "e57b0721-914a-47fe-95b7-af144d26c423",
+      "Value": "\"Your advisor {d|c31 Vordakai Hired}Maegar{/d} went to {g|Varnhold}Varnhold{/g}, but was beset by shadows. I know nothing more.\""
+    },
+    {
+      "Key": "7ec4f179-cbd2-4910-8c0d-c6a29aef9d40",
+      "Value": "\"Your neighbors from Brevoy received word of the woes besetting your kingdom, and went to the border. The Worlds Merger found them as they passed the Flintrock Grassland. They were waylaid by an army of shadows. I can only guess what is happening there now.\""
+    },
+    {
+      "Key": "d8453315-03c8-409e-b523-1e07b4e31a58",
+      "Value": "\"Some of the citizens we saved were captured the moment Irovetti's shadow emerged from the cup. They say he arrived as if to one of his glamorous receptions, gave a flowery speech and departed for {g|Pitax}Pitax{/g} to restore what he had lost. Your governor is probably having a hard time right now. I also heard that a beautiful nereid was captured by a shadow. – It would appear that Evindra is in the hands of her tormentor once more.\""
+    },
+    {
+      "Key": "66af598f-4fe8-4cd5-95e6-69330efcf757",
+      "Value": "\"Are you sure, Your Highness? You will have to fight the {g|Eldest}Eldest{/g} and all his servants with but a handful of comrades...\""
+    },
+    {
+      "Key": "e568c7b4-8199-42f9-9f5c-c505180f7a6f",
+      "Value": "\"Are you sure, Your Highness? Will the forces you have assembled be enough to overcome the {g|LanternKing}Lantern King{/g} and the horde of shadows flooding the capital?\""
+    },
+    {
+      "Key": "a7612ff2-ea1b-428c-8fd3-63a960da34a1",
+      "Value": "\"Of course, Your Highness. My powers are at your service.\""
+    },
+    {
+      "Key": "d77f9cc2-a119-4cac-83a2-1d1cbdb9234c",
+      "Value": "\"He is the {g|Eldest}Eldest{/g} of laughter, mischief, and transformation — the most unpredictable creature of the unpredictable {g|First World}First World{/g}. You will never guess what stands behind his actions. An evil prank might lead to a great good, and a virtuous gift to a terrible tragedy. As far as I can judge by the stories I've heard, the {g|LanternKing}Lantern King{/g} is not an evil creature. But each deity has its role in the structure of the world. Laughter, mischief and transformation is a strange and powerful mixture, and one can only guess how it will affect this fate or that.\""
+    },
+    {
+      "Key": "d5dd4fd8-4357-4f92-bac9-e640856ef5ff",
+      "Value": "\"I see you are ready. You will make history this day.\""
+    },
+    {
+      "Key": "ce07db84-5651-4ccf-b7ec-091836f5f04b",
+      "Value": "\"Of course. Tell me when you are ready.\""
+    },
+    {
+      "Key": "10648e22-9aa0-44dd-a8df-442eae523437",
+      "Value": "\"Very well, so be it! Our main forces will march now for the city, Your Highness, and I shall go with them. We will attempt to engage most of the Apology's shadows, and the {g|LanternKing}Lantern King's{/g} minions. Look for me in the city if you need rest! And... good luck!\""
+    },
+    {
+      "Key": "731983db-cbfd-407e-93ec-013e3c8344b5",
+      "Value": "\"Of course you can always count on my help, and the help of your companions and fellow travelers.\""
+    },
+    {
+      "Key": "91b417e8-2c5f-4f61-bc77-9922973c7fc6",
+      "Value": "\"The warrior queen Bdaah sends regards to her ally, and is eager to take part in a battle with the {g|Eldest}Eldest{/g}.\""
+    },
+    {
+      "Key": "22c1a4fa-3233-4c29-9b2e-019d4d4afd01",
+      "Value": "\"Chief Sootscale and his kobolds have come to support their friend.\""
+    },
+    {
+      "Key": "9144d8c1-16dc-44e0-afa9-f0e653ad1408",
+      "Value": "\"The lizardfolk, who you freed from the power of Count Shimmerglow, have come to the capital and are ready to join your forces in the battle.\""
+    },
+    {
+      "Key": "907c7609-ae9b-4fd1-b58e-c5434a4c1f22",
+      "Value": "\"You managed to make friends among very different creatures – including goblins! Their delegation is ready to join your army.\""
+    },
+    {
+      "Key": "e8b1c66d-68d2-4062-ba4d-485862247f69",
+      "Value": "\"Although all your troubles come from {g|First World}the First World{/g}, some of its dwellers are on your side. Some fey have come and offered help in the battle to come.\""
+    },
+    {
+      "Key": "dc85aa83-17c8-4f8f-bb1e-b0ea6b174492",
+      "Value": "\"Sometimes help comes from unexpected places. A group of former — and not so former – bandits have joined the army.\""
+    },
+    {
+      "Key": "33ebdc4e-fca7-44b2-9f97-1ddf3f5d9769",
+      "Value": "\"{d|c41 Darven Nice}Darven{/d} from Brineheart has come to carry out his duty as an ally.\""
+    },
+    {
+      "Key": "c737d70c-3411-42bb-abba-60c0b22b11c5",
+      "Value": "\"The nymph Nyrissa, a most unexpected and awaited ally, is ready to share with you all the risks of the coming confrontation with the {g|LanternKing}Lantern King{/g}.\""
+    },
+    {
+      "Key": "04fc467e-47f2-4886-aadc-491dcac2f6cc",
+      "Value": "\"The army of {g|Pitax}Pitax{/g}, led by its governor, is ready for battle.\""
+    },
+    {
+      "Key": "d05415fe-3bea-476a-bd24-6974bebb3b2e",
+      "Value": "\"The {g|Swordlords}Aldori{/g} forces are here. Lady Jamandi and her most loyal officers will lead them in battle.\""
+    },
+    {
+      "Key": "95dc3162-534c-4b2c-86b3-8cf622ac74bd",
+      "Value": "\"Shandra Mervey and Lady {g|House Surtova}Surtova{/g} have brought soldiers from {g|Brevoy}Brevoy{/g}.\""
+    },
+    {
+      "Key": "6292ae10-9820-4357-b83a-2ed31bff5713",
+      "Value": "\"We have unexpected news: none other than Lander {g|House Lebeda}Lebeda{/g} has come to our camp with his people. He is eager to help you in the upcoming battle. This might be an attempt to apologize...\""
+    },
+    {
+      "Key": "144ffa93-a2f2-486e-8ce3-bb0a7d03ef3f",
+      "Value": "\"{g|Tiger Lords}Armag and his warriors{/g} are awaiting your signal to begin the attack.\""
+    },
+    {
+      "Key": "2d054563-e5c1-490e-bc63-e2c315f2d935",
+      "Value": "\"{g|Tiger Lords}Dugath and his warriors{/g} have come to support you.\""
+    },
+    {
+      "Key": "c3bac2e3-09e3-4e50-b097-3f299f2c1858",
+      "Value": "\"Tartuk sent us a few branded trolls to help.\""
+    },
+    {
+      "Key": "22b4a6af-15ef-4f59-b41b-e82ab1bb2cab",
+      "Value": "\"Hargulka and his trolls are ready to aid us in the coming battle.\""
+    },
+    {
+      "Key": "28c49ad5-136d-456c-af4f-f626280d546c",
+      "Value": "\"The capital guard have returned from the {g|Oleg's Trading Post}Trading Post{/g} and await your orders.\""
+    },
+    {
+      "Key": "d0510396-40bd-49a2-afa1-2bb04e6134e3",
+      "Value": "\"Second – while the Worlds Merger is tormenting the kingdom, you will not be able to rest and restore your spells in the normal way. This seems a special gift from the {g|LanternKing}Lantern King{/g} — to let you fight for your life, but make it so that fighting leads inevitably to exhaustion and death. But I can guard you from this for a short time. Come to me if you need rest. But be careful — this takes time, and time is not on your side.\""
+    },
+    {
+      "Key": "b532d42e-1974-439e-a297-1f59bcbf1498",
+      "Value": "{n}The Storyteller pauses.{/n} \"I... do not know. The crucial knowledge just appeared in my mind, as though someone whispered it into my ear. Yesterday, I had no idea I was capable of wielding such powerful magics or holding such vast knowledge, and look at me now.\""
+    },
+    {
+      "Key": "752fbdee-843d-41e6-8273-f78297988c35",
+      "Value": "\"One might assume this was due to the experience I acquired while living through my stories... but I doubt that idea. I even doubt now whether I am an elf, or somebody... perhaps something else. However, this mystery is not important just now. We will deal with it after we save your kingdom.\""
+    },
+    {
+      "Key": "d24e72e2-ed71-49ff-a8dc-0daec6fc7dff",
+      "Value": "\"Of course, Your Highness...\" {n}The Storyteller stops abruptly and frowns.{/n} \"I feel the presence of a new threat. What is happening?\""
+    },
+    {
+      "Key": "f02e4054-ce86-42f6-bcd0-cd394d734049",
+      "Value": "\"Your Highness! I sense the {g|LanternKing}Lantern King's{/g} curse still lingers over you! The enemy has a sword to your throat, and with a single move can end your life. Yet he waits, for now, enjoying his performance. Beware, he will use the curse to his advantage, as soon as he senses danger. You should lift the effects of Lantern King's curse, by gathering your allies and restoring your kingdom, before you move to challenge him directly.\""
+    }
+  ]
+}

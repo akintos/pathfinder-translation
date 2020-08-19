@@ -1,0 +1,205 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "674fe73d-1927-4a50-abc2-f1329b1f2065",
+      "Value": "\"Tell me about yourself.\""
+    },
+    {
+      "Key": "c3072150-8aa7-4614-b22a-237512bc435a",
+      "Value": "\"Tell me about the Rushlight tournament.\""
+    },
+    {
+      "Key": "a3662a38-3db4-4421-92cb-d64803085829",
+      "Value": "\"Who might you recommend I meet here?\""
+    },
+    {
+      "Key": "ea6ebb0d-5266-41ff-b610-9476ccb802a2",
+      "Value": "\"Farewell.\""
+    },
+    {
+      "Key": "7d180427-20bb-48c2-94fc-6fbd5ed78061",
+      "Value": "\"Does the king have any enemies?\""
+    },
+    {
+      "Key": "966ebc88-c1cf-4412-a2d7-3ecfa602ed28",
+      "Value": "[Attack] \"You won't get away this time!\""
+    },
+    {
+      "Key": "2213b659-7805-472c-a039-b038f78cdc25",
+      "Value": "[Attack] \"You look like a spy to me. Prepare to die!\""
+    },
+    {
+      "Key": "e827c8a8-0364-420c-bb08-ee88b7ccf868",
+      "Value": "\"I've heard King Irovetti can be too persistent in his flirtations.\""
+    },
+    {
+      "Key": "a97c7e3d-1325-49c3-b737-82a382c37623",
+      "Value": "\"I believe Linzi had a question for you...\""
+    },
+    {
+      "Key": "fff8397b-f6b4-49d4-86da-b6706bbc7b5d",
+      "Value": "\"If Irovetti didn't banish Eobald, then why did he send those cutthroats after him?\""
+    },
+    {
+      "Key": "66702bbd-4a0e-42d3-a640-8a54428149e8",
+      "Value": "\"Why did Atalia expel Eobald?\""
+    },
+    {
+      "Key": "9a1c5f7f-7299-4a43-b91f-bc787aa29507",
+      "Value": "\"Why would Atalia hide the circumstances around Eobald's dismissal?\""
+    },
+    {
+      "Key": "8aead85c-2e8f-4ddf-b2d5-c47f687e3f77",
+      "Value": "\"Thank you for telling us the truth.\""
+    },
+    {
+      "Key": "17873b5e-0aa3-4098-9437-27ea620d4e9e",
+      "Value": "\"Tell me, are the songs you compose for Irovetti as bold as the ones you sang at my capital?\""
+    },
+    {
+      "Key": "86883ab5-4ab3-48cd-b567-7ce15930e98d",
+      "Value": "\"Oh, {name}, the famed baron{mf||ess} — no, excuse {d|Annamede}me{/d}, the {mf|King|Queen} of {kingdomname} now — has come to visit us! It is such a delight to see you here!\""
+    },
+    {
+      "Key": "0f59eb43-c145-4310-9c9e-dec8a2275eb1",
+      "Value": "\"Our visit with you was quite a celebration — though it did end on a sad note. I hope there won't be any unpleasant surprises this time.\""
+    },
+    {
+      "Key": "d29fb42a-bdf4-4959-a688-63615f9ea9d3",
+      "Value": "\"How do you like the celebration?\""
+    },
+    {
+      "Key": "4b0e1b41-e60c-4629-8eb4-fd63f5862d41",
+      "Value": "\"I've heard tales of your feats. It's a pleasure to finally meet you!\""
+    },
+    {
+      "Key": "020121b9-9eda-40e2-8671-252580f5f167",
+      "Value": "\"Your hospitality was a bit lacking during our last encounter... but no hard feelings. Welcome!\""
+    },
+    {
+      "Key": "ff4f1517-065c-449f-b9e2-4f3264b58de1",
+      "Value": "\"You could have easily asked any of my admirers who Annamede Belavarah is. That'd be about three quarters of {g|Pitax}Pitax{/g} — and the rest are all my haters, ha ha! You don't get to be the best among a city of poets and musicians without gathering a few enemies along the way. But why should I concern myself with hacks and soreheads?\""
+    },
+    {
+      "Key": "ed188fce-38ca-43ab-a5ef-553d8bde3a47",
+      "Value": "\"Our beloved king has run this tournament once in several years since he took the throne. Guests from all over the {g|River Kingdoms}River Kingdoms{/g} come for it, from Daggermark to {g|Mivon}Mivon{/g}! It's a pity {g|Brevoy}Brevoy{/g} didn't honor us with any representatives this year — I guess the Aldori aren't in a very festive mood right now... On the bright side, we get to host you for the first time! And {g|Calistria}Calistria{/g} willing, it won't be the last!\""
+    },
+    {
+      "Key": "38b1ffab-a856-4404-bcd1-af7c9301aa7e",
+      "Value": "\"That depends on what you're looking for. If you're in the mood for pleasant company, well, you've already met me! And if you're in the mood for some schadenfreude, you could listen to the whining of {d|Liacenza}Gasperre Liacenza{/d} — his family lost the {g|Pitax}Pitaxian{/g} crown in a card game. Or maybe Atalia Gitaren, the Headmaster of the {g|Academy of Grand Arts}Academy{/g}, who seems to think her skill at bureaucracy makes her a good bard... And if thrills are what you're after — especially the 'shivers down your spine' kind — try speaking with Kharne Vereel, head of the thieves' guild.\""
+    },
+    {
+      "Key": "d16012d2-8f52-4194-8636-23f80e6e5283",
+      "Value": "\"Enjoy the celebration!\""
+    },
+    {
+      "Key": "f1ef77b3-ee40-42a7-88df-a5be3bff6dba",
+      "Value": "{n}Annamede's face darkens for a moment, but she quickly regains her sweet smile.{/n} \"Love him or hate him, you can't deny he's a great man! {g|Pitax}Pitax{/g} was a boring place before him — only pirates, fences, and other scum did any business in the area. But then King Irovetti came and turned it into the cultural capital of the region! With him in charge, the arts have flourished, and the city's been filled with songs, paintings, and statues. I just pray that {g|Calistria}Calistria{/g} breathes the same love of the arts into the withered hearts of some of the other rulers in the region, who'd prefer to squander their resources on saber rattling!\""
+    },
+    {
+      "Key": "71e7e79b-8e9a-46d2-b480-ff0156d7acb3",
+      "Value": "\"Some may say that King Irovetti doesn't have a taste for arts. Any successful person gets haters spreading dirty rumors about them. You should hear the things they say about me, ha ha! Pay it no mind. Our king is a man of exquisite taste, with appreciation for all kinds of art!\""
+    },
+    {
+      "Key": "e62b3d45-c7a5-438e-af04-e05d527f01a7",
+      "Value": "\"Of course he has enemies. Lots of them — just like anyone who's actually accomplished anything in life! Take some of the old trade houses, for example — Liacenza and some others, whom he stripped of their power. They'd love to see him at the bottom of the river, but even now, in their mutual sorry states, they can't manage to work together! There's also Irsei Caelysse, Captain of the Guard — he was just seething with indignation when the king brought new rules to the city. But who wants to listen to the whining of failures like them? Irovetti brought a golden age on {g|Pitax}Pitax{/g}!\""
+    },
+    {
+      "Key": "c8606595-82bb-4d13-a806-1fcb7aadf315",
+      "Value": "{n}Annamede purses her lips for a moment, then replies slowly, choosing her words carefully.{/n} \"I'd prefer not to discuss the private life of His Highness with strangers, much less my own. The details of any interactions between us will remain just that — between us. Let's please discuss another topic.\""
+    },
+    {
+      "Key": "a3c6b2e3-f1e3-4488-97b0-8b079ff6fd4a",
+      "Value": "\"Maestro Belavarah! I... well... do you remember me?\" {n}Linzi blurts out, turning bright red.{/n}"
+    },
+    {
+      "Key": "aee1b10e-3b99-491b-9fea-f0663aad78f1",
+      "Value": "\"Ah, Linzi! Of course I remember you. You and your nonsense at the poetics exam...\""
+    },
+    {
+      "Key": "64afe484-7185-4ef0-910d-7f8ff4957e45",
+      "Value": "\"I hear you have your own publishing house now! I didn't take you for the entrepreneurial sort, but I'm happy you've finally found your calling!\""
+    },
+    {
+      "Key": "a9eaf679-83aa-485e-a15a-ea138e698f55",
+      "Value": "\"I see you've found a comfortable position in {mf|His|Her} Highness's court. Congratulations!\""
+    },
+    {
+      "Key": "504b8e34-de7c-4d57-ae19-0d508938d908",
+      "Value": "\"Oh, yes, he did move to your kingdom, didn't he? I'm curious how he portrayed his dismissal. I'd bet it was something like a poem in six verses recounting the tale of a tyrant ousting a poor but honest scientist for telling the truth. The reality is much more mundane. Irovetti didn't fire Eobald — Atalia did. And I have to give it to her — this time, unlike most times, she was completely right.\""
+    },
+    {
+      "Key": "901cd00e-5d1a-4160-984f-7d6df75dfa26",
+      "Value": "\"Wait! I'm sorry, but... I really need to know the truth. Why did Irovetti kick Professor Eobald out of the {g|Academy of Grand Arts}Academy{/g}?\""
+    },
+    {
+      "Key": "b79c7ef0-717f-40be-962e-f90a8909446a",
+      "Value": "\"That can't be!\""
+    },
+    {
+      "Key": "5a638855-be96-4c0d-ba60-da3aab2c54b0",
+      "Value": "\"He'd planned to return the old man to {g|Pitax}Pitax{/g} and make Atalia reinstate him into the {g|Academy of Grand Arts}Academy{/g}. Or, failing that, he at least wanted to keep him from going to you. Eobald the Insightful is a prominent name. Of course Irovetti would want the teacher serving him, rather than his neighbors!\""
+    },
+    {
+      "Key": "e1473bbe-db48-48cf-9740-a1ee8def635d",
+      "Value": "\"Well... Eobald is a very fine teacher, of course, but he pays too much attention to how his favorite students perform in class, and not enough to their... extracurricular activities. Why worry if they steal a trinket here or there, or maybe rough someone up on occasion, so long as their poetry and music are exemplary? Predictably, this led to a sad end — what was supposed to be just another innocent joke from one of his favorites, Alondi, led to someone's death. It was an accident, certainly — the kids just underestimated their own strength.\""
+    },
+    {
+      "Key": "ada4b5db-fcc7-450f-905e-e777fc84de06",
+      "Value": "\"She doesn't like to discuss the {g|Academy of Grand Arts}Academy's{/g} internal affairs. Behind that neat facade, there are too many events she's looked the other way on over the years — all in good faith, of course.\""
+    },
+    {
+      "Key": "bb16f4c1-b605-43b6-8f80-65f18a72af31",
+      "Value": "\"Atalia expelled the lot of them. And as always, Eobald went to stand up for them... but this time, he discovered that her patience was not boundless. She blamed him, said that he'd let his troublemakers run wild, so he could get out of the {g|Academy of Grand Arts}Academy{/g} along with them. She told him she won't tolerate any more bullying, even if it's coming from 'genius' students. I understand it's odd to hear 'won't tolerate' from Atalia Gitaren, but that's what really happened.\""
+    },
+    {
+      "Key": "23ec2c0f-f257-4596-ab6a-3afb99040c23",
+      "Value": "{n}Pale, Linzi looks at Annamede with huge eyes, unable to utter a word.{/n}"
+    },
+    {
+      "Key": "da43862b-b18e-4d07-ad6e-32dcfb19e518",
+      "Value": "\"I can't believe it... Teacher lied to me all this time? I'm going to learn the truth as soon as we get back to the capital!\""
+    },
+    {
+      "Key": "f891912b-6786-44a8-bb87-85d21a7e093a",
+      "Value": "\"I'm not sure you should be thanking me — I see poor Linzi's not too happy with this truth... Hey, come on, girl — cheer up! Being disappointed by people is practically a professional necessity for people like us. Whatever I may have said before, you're not a bad bard. And that means, sometimes you have to face the music!\""
+    },
+    {
+      "Key": "97a7d7c8-8f7e-49fc-aac5-ed34acd704a9",
+      "Value": "{n}Linzi gulps and whispers,{/n} \"Th-thank you.\""
+    },
+    {
+      "Key": "ffe0163f-fdfd-4a6e-a995-79f08e0162ba",
+      "Value": "\"Oh? I just hope it isn't about any of the lectures I used to give you at the {g|Academy of Grand Arts}Academy{/g}. Go ahead, ask away!\" {n}Annamede smiles encouragingly at Linzi.{/n}"
+    },
+    {
+      "Key": "6b31eaca-ecd1-493f-b93f-409d439b3eb3",
+      "Value": "{n}Linzi turns bright red, takes a deep breath, and blurts out,{/n} \"Sorry, but... I really need to know the truth! Why did Irovetti kick Professor Eobald out of the {g|Academy of Grand Arts}Academy{/g}?\""
+    },
+    {
+      "Key": "5d3765d3-093f-497f-865b-5aaf034c0573",
+      "Value": "\"...He is also an unsurpassed singer, a skilled hunter, an excellent horseman, and able to bake fancy breads while juggling daggers! If you begin on the path of singing the praises of your superiors, dear, at least use your imagination.\""
+    },
+    {
+      "Key": "68bec47c-6e93-4782-a164-aa59da7ac75a",
+      "Value": "\"What am I hearing! A respected scholar, an author of so many books, articles, and memorandums... lied? Unbelievable!\""
+    },
+    {
+      "Key": "388c672e-42d2-47a6-8bda-a3abe031015c",
+      "Value": "\"Just as behind any nice facade. That's what they're built for, after all.\""
+    },
+    {
+      "Key": "58a76809-8ac9-4e3f-8f8e-2a7c1162549b",
+      "Value": "\"In the hands of a ruler, even death is political currency... Though none wish to recall that, sooner or later, fate will use it to pay them as well!\""
+    },
+    {
+      "Key": "58fa11f4-d2d3-4b9c-afda-0b180509a6c8",
+      "Value": "\"Have my humble verses so offended you that you still recall their sting? Please, Your Highness! It doesn't behoove a person of your standing to take umbrage against a petty bard. Don't you know the old proverb? The tunes are chosen by the one who pays the piper!\""
+    },
+    {
+      "Key": "f4599c58-9ced-42be-838a-895799d2255c",
+      "Value": "\"Hello, lady Provocateur. Aren't you afraid you'll burn out at work one day?\""
+    }
+  ]
+}

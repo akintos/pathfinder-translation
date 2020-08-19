@@ -1,0 +1,173 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "2bb0a6a4-b76f-4f15-9a63-12a61bea0b6c",
+      "Value": "\"I don't waste my breath talking to scum like you. Prepare to die!\""
+    },
+    {
+      "Key": "dc7f2933-05f9-494e-b670-ad32d6e55942",
+      "Value": "\"Forced out of your home? What do you mean?\""
+    },
+    {
+      "Key": "e6b5d0d4-6e6d-4510-aa36-d53826f84367",
+      "Value": "\"What are you on about? You attacked the citizens of Varnhold!\""
+    },
+    {
+      "Key": "6d102813-4634-42c6-b05e-31680c7c0137",
+      "Value": "\"Are you saying the city was empty before you got here?\""
+    },
+    {
+      "Key": "c1da4186-10e3-4753-9a4c-c3e2d6e23378",
+      "Value": "\"I believe that you and your kin aren't to blame for the disappearance of Varnhold's citizens. I'll let you leave in peace. Just tell me where your den is — perhaps I could pay you a visit and help you get your home back.\""
+    },
+    {
+      "Key": "31407227-0459-4a74-9a55-90fb32d0190b",
+      "Value": "[Attack] \"Time to clear the vermin from Varnhold.\""
+    },
+    {
+      "Key": "93f2fbd9-5d66-4e81-b661-c69aa9a1ff74",
+      "Value": "\"Where are all the locals?\""
+    },
+    {
+      "Key": "294ff5e3-4f18-4d7c-8b08-003a57cf5221",
+      "Value": "\"I'll let you go this one time. But mark my words: if you ever come to one of our towns or villages again, I'll make sure you regret it!\""
+    },
+    {
+      "Key": "831b56f6-d5f5-4ce7-be3b-09e6fb16de55",
+      "Value": "\"Where's your former home?\""
+    },
+    {
+      "Key": "8e7bc1b1-c2da-4b1e-b575-2b6d496d79ff",
+      "Value": "\"Last chance, Agai. Talk, or you'll regret your stubbornness.\""
+    },
+    {
+      "Key": "7bd57108-cc1b-4f6b-ada1-b05bdb99556d",
+      "Value": "\"You've nothing to lose anyway, Agai, and I need to locate the missing citizens of Varnhold. Our troubles may be more closely related than you realize. Please, help me.\""
+    },
+    {
+      "Key": "74d111c7-bfc4-40a2-96e3-ba49c2ceeacf",
+      "Value": "\"Whatever. I'll locate the den myself.\""
+    },
+    {
+      "Key": "71726165-dad9-4746-bf0b-12e17a1f8dc4",
+      "Value": "\"At least tell me who forced you and your kin from your home.\""
+    },
+    {
+      "Key": "440539a0-8128-4ced-99e9-a2298033aeef",
+      "Value": "\"What would I do without you, Tristian?\""
+    },
+    {
+      "Key": "8392cd1a-71bc-4698-b68d-f9d50e49cf5d",
+      "Value": "[Silently retrieve the map]"
+    },
+    {
+      "Key": "48a860f7-e81e-4003-8028-cec9555a2ca3",
+      "Value": "{n}The biggest spriggan, scarred and beaten, bares his rotting teeth.{/n} \"I guess we can't rest even here!\""
+    },
+    {
+      "Key": "1eec6df2-3ad6-4f08-892c-1cd64b73b1c4",
+      "Value": "{n}Agai steps back, pressing his hand against his bleeding wounds.{/n} \"Well, you got me...\" {n}he hisses through clenched teeth.{/n} \"Go on, then! Keep hounding us, pushing us back! Clearly taking all we had wasn't enough!\""
+    },
+    {
+      "Key": "384b29e4-90a0-4ec3-af6c-fa575642864f",
+      "Value": "\"I bet you followed our trail from our very den. Forcing us from our home wasn't enough — now you've come to finish us off! Well, Agai will not make this easy for you!\""
+    },
+    {
+      "Key": "4a19c0ef-1296-45ae-b283-bb21e3daf35f",
+      "Value": "{n}Agai swings his blade and utters a shrill battle cry as he charges you.{/n}"
+    },
+    {
+      "Key": "b0f1c5a1-931b-4d30-9a26-db72e3b6910c",
+      "Value": "\"You think me a fool? You attacked us! In our own home! And now you've followed us here to finish the job! How could we possibly bother anyone in an empty city?!\""
+    },
+    {
+      "Key": "b2b4ca94-7328-4530-9ca8-fa4f6fb4ad67",
+      "Value": "\"Who cares? We arrived, and no one else was here. We checked for traps, we checked for ambushes — nothing! Totally livable.\" {n}Agai is silent a moment.{/n} \"If I knew you'd follow us, I'd have taken everyone even further away...\""
+    },
+    {
+      "Key": "f48221a9-c8e6-46a4-a7ee-ee5e5fc19350",
+      "Value": "\"Like you don't know! The cave to the north, where I lived my entire life before your kind came! Enough — I'm done running!\""
+    },
+    {
+      "Key": "9126e2b7-a215-4322-ba1b-97dab6993ecc",
+      "Value": "\"No clue. Eaten by someone? Just gone? They left their belongings behind, doors wide open — anyone could walk in and take what they like!\""
+    },
+    {
+      "Key": "0ab1cc82-3dbe-432a-a038-914136e3cfa2",
+      "Value": "{n}Agai stares at you, unblinking, then scoffs with contempt.{/n} \"A {race} wants to help? Sure! I'll be surprised if I'm still breathing when we're done. I bet you just want to fight your way in and take my cave for yourself!\""
+    },
+    {
+      "Key": "871f74e0-35e3-4754-b9eb-d3d02fed249c",
+      "Value": "\"But what do I care? If I'm lucky, you'll both just kill each other. Find an old cave to the south — that's where you'll find the creeps who forced us out. And if you by some chance manage to kick them out of there... I'll know. Then we'll talk some more.\""
+    },
+    {
+      "Key": "205554b9-f6be-4d99-ade9-9aa5d7fd7c01",
+      "Value": "{n}Agai glares at you with contempt and hatred.{/n}"
+    },
+    {
+      "Key": "f0b3aaf1-e362-489b-b76c-aedd45c8a6be",
+      "Value": "{n}Agai grimaces.{/n} \"Fine. Give me your map. I'll point it out.\""
+    },
+    {
+      "Key": "a6550ca7-e441-4437-a3d5-aac7e276ce63",
+      "Value": "{n}Agai bares is teeth instead of answering.{/n}"
+    },
+    {
+      "Key": "2511eafd-0e4b-4845-9a99-de7b9131d8fb",
+      "Value": "\"Not a lot to regret when you've got nothing left to lose! You want to kill me? Go ahead and try. Just know you won't be getting my hide without a fight!\""
+    },
+    {
+      "Key": "f944440d-2bb0-4f6c-a45b-b3c0f3360ff7",
+      "Value": "\"None of my kin remain there, so don't go hoping to take my brethren by surprise!\""
+    },
+    {
+      "Key": "8cb0b91a-8905-46dd-8178-59d7dd1d30a5",
+      "Value": "\"People like you, but bigger. Stronger.\" {n}Agai sniffs the air.{/n} \"And more fetid.\""
+    },
+    {
+      "Key": "a7349e15-ceb5-41fb-a1e2-1a4637e140dd",
+      "Value": "\"I do not believe you.\""
+    },
+    {
+      "Key": "3bce657b-a116-4d35-a1d4-b56b92300c87",
+      "Value": "\"Believe what you want, I don't care! I'm not going to make up excuses for the likes of you!\""
+    },
+    {
+      "Key": "0b6ca6eb-9180-418d-bda6-8351afc83b57",
+      "Value": "\"Listen, Agai. You have no reason to like us, I understand that. But something sinister is going on here in {g|Dunsward}Dunsward{/g}. So far, only humans have suffered from it, but it may eventually get to your people as well. Please help us stop it. We are doing this not for our own sake, but for the sake of everyone living in Dunsward!\""
+    },
+    {
+      "Key": "50cc7fc8-5167-4473-9ab9-2f38080e4480",
+      "Value": "\"What a bunch of goodies you are.\""
+    },
+    {
+      "Key": "b2da12c2-29f2-4c93-85d1-78076e2fd268",
+      "Value": "{n}Tristian gratefully nods to Agai, then steps back.{/n}"
+    },
+    {
+      "Key": "2277fef1-482f-4b52-923a-4a3ec748e3ec",
+      "Value": "\"A helpful hand opens many doors.\" {n}Tristian glances at you warmly.{/n} \"You know that better than most.\""
+    },
+    {
+      "Key": "0100bed4-07ef-4890-8810-82c939c54c05",
+      "Value": "\"Well? Now what?\""
+    },
+    {
+      "Key": "0648dd90-785d-4c09-954a-eabba9002beb",
+      "Value": "{n}Agai backs away slowly.{/n}"
+    },
+    {
+      "Key": "ce4e62c8-77b1-4c5e-927c-eb3562973661",
+      "Value": "\"I think he will not risk it again — meaning he and his kin are no threat to the dwellers of {g|Dunsward}Dunsward{/g}.\""
+    },
+    {
+      "Key": "36a9decc-b664-4193-95e8-eaa6e98da84f",
+      "Value": "\"Good gods, what a stubborn creature you are! {name} grants you not just life — {mf||s}he promised to retrieve your home! You could at least thank the person who could have been your executioner!\""
+    },
+    {
+      "Key": "9bca1af8-665d-4774-9fd1-c4983b0b5916",
+      "Value": "{n}Agai sizes the woman up with a hostile glare and shakes his head.{/n}"
+    }
+  ]
+}

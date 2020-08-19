@@ -1,0 +1,61 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "2e3f1f88-54e1-4d2c-b864-8f5125632ed1",
+      "Value": "{g|Population5_5}[Choice effects]{/g} \"We need money and that means business. I'm willing to make a deal.\""
+    },
+    {
+      "Key": "ed65a745-1e5b-49b3-9233-2dbb255cac65",
+      "Value": "{g|Population5_6}[Choice effects]{/g} \"We're not Brevoy's dump. Let them find another place to put their trash.\""
+    },
+    {
+      "Key": "a2d739ba-3466-4539-84bb-cd5f329fc261",
+      "Value": "\"I trust your opinion.\""
+    },
+    {
+      "Key": "cc4516b4-4983-45ac-8bf3-2f5ea4b287bf",
+      "Value": "\"{name}! We have a big fish here today – a noble from {g|Brevoy}Brevoy{/g}. His clothes are worth hundreds of gold coins, and his eyes are shifty. He has a business offer to make. He wants to open a leatherworking shop in our domain, to tan skins.\""
+    },
+    {
+      "Key": "9d0a7fa6-b81c-4f0c-8e4e-5f1da7637bc3",
+      "Value": "\"{name}, a nobleman from {g|Brevoy}Brevoy{/g} has arrived. He requests your approval to open a small business. He desires to open a few leatherworking shops in your domain, to tan skins.\""
+    },
+    {
+      "Key": "b19c1120-55bf-466f-b75c-284b55737632",
+      "Value": "\"{mf|Your Grace|Your Grace|Your Highness|Your Highness}, a man of influence has arrived. He's a nobleman from {g|Brevoy}Brevoy{/g}, a wealthy charlatan – the kind of a dealer I like most. He has a few tanneries in Brevoy. He desires to relocate them to your lands, and share the profit with you.\""
+    },
+    {
+      "Key": "a0495541-d71d-4211-b682-273b0d97cf82",
+      "Value": "\"I'll give the orders to begin construction. I'll also reinforce the patrols, in case there's any unrest. It's time your subjects learn how to work for an honest living, even if it means a nasty smell.\""
+    },
+    {
+      "Key": "8252a06a-c66b-476f-98d9-f78ff49e269d",
+      "Value": "{n}Lander winks and smiles delicately.{/n} \"Excellent. After all, nobody ever died of a nasty odor. I assume.\""
+    },
+    {
+      "Key": "87402d3f-d27a-4e64-9a5b-9f63d2818e10",
+      "Value": "{n}Octavia's eyes glow.{/n} \"Perfect! We didn't save these lands to just turn them into a dump! Free from alchemical fumes, our people will live here happily and give birth to healthy children.\""
+    },
+    {
+      "Key": "fd1cc35a-80b8-4f70-814b-26ebd24c47ca",
+      "Value": "{n}Valerie nods solemnly.{/n} \"I'll give the order to prepare a location for the tanneries. The guards will deal with any loudmouths who complain about the smell.\""
+    },
+    {
+      "Key": "c1868be6-1e94-4505-bbb0-455979d92d67",
+      "Value": "\"A fine choice, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. You can count on me. I'll immediately have people sent out to determine the best location for the tanneries. We certainly wouldn't want their...\" {n}{g|House Lebeda}Lebeda{/g} frowns gently.{/n} \"... odor... clouding the air we breathe here at the palace.\""
+    },
+    {
+      "Key": "95e02c0c-4ff3-4bed-9ad3-756fdef6cefc",
+      "Value": "\"These tanneries smell like a kobold's backside. This industry requires the use of alchemical components, which are carried by the wind and cause nasty diseases. Nobody's happy about these factories being in {g|Brevoy}Brevoy{/g}. That's the reason he's come to us. The offer is profitable, no doubt, but the smell that comes with it is foul. We mustn't make a deal with this little man. Better to send him away – and quickly. That will teach the other moneybags a lesson too. Just because you're stuffed with gold, that doesn't mean you're allowed to do whatever you want.\""
+    },
+    {
+      "Key": "f41ef8ff-7a2c-459b-ad0c-7bfb7471c7bb",
+      "Value": "\"This alchemical enterprise would make an unpleasant neighbor. Of course, the locals won't be happy about the waste and the smell, but we must concentrate on our business interests and relationships with our neighboring countries. The people of {g|Brevoy}Brevoy{/g} will happily pay to move these tanneries away from their homes. But you have the right to make whatever decision you consider best for the country.\""
+    },
+    {
+      "Key": "b7d634cc-12b3-48f7-9cc8-79db25101102",
+      "Value": "\"These tanneries stink. The alchemical waste is hazardous, unless you're a Kobold of course. It's only natural that nobody in {g|Brevoy}Brevoy{/g} is happy about having such a neighbor. This merchant will pay handsomely to pour his waste into our land instead. We have plenty of forests and rivers, after all. Even if we ruin a couple, it won't be so bad, and the gold will certainly come in handy. Some of your people will surely be unhappy, but when are we concerned about the complaints of peasants? I think we must say yes!\""
+    }
+  ]
+}

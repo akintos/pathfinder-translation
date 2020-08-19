@@ -1,0 +1,109 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "9b1e39a8-4069-45e2-887e-c2455b4249bd",
+      "Value": "{g|Economy4_1}[Choice effects]{/g} [Pay 100 BP] \"I will take the risk. I shall support Leymar's proposal, and invite him to open a shop in our city.\""
+    },
+    {
+      "Key": "b4e4b641-fb5b-4825-836f-cc9c399bd762",
+      "Value": "\"I don't care for this risk. Tell Leymar that the answer is 'no'.\""
+    },
+    {
+      "Key": "d7251b8c-329b-4bb7-81bc-4221a3ce5168",
+      "Value": "\"You're the Treasurer. Solve this dilemma yourself.\""
+    },
+    {
+      "Key": "4ec711a4-9fd8-486f-8609-1e7fd5ed6910",
+      "Value": "\"I hope your intuition doesn't fail you, {mf|Your Grace|Your Grace|Your Highness|Your Highness}.\""
+    },
+    {
+      "Key": "2aba1a24-4d4e-4266-8661-b5ea303af0a2",
+      "Value": "\"I share your opinion, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. I'm afraid we'll have to disappoint our guest.\""
+    },
+    {
+      "Key": "8eba18b9-923a-440d-ba98-cb4e8249e389",
+      "Value": "\"In this case, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, I shall go immediately to sir Leymar and refuse his request in the most polite way I can.\""
+    },
+    {
+      "Key": "1c866361-cf42-4ae8-8c86-1e6768175e46",
+      "Value": "\"{mf|Your Grace|Your Grace|Your Highness|Your Highness}, it is my honor to introduce Leymar Tinch, an expert on alcoholic beverages, who has traveled here from distant lands.\" {n}Bartholomew frowns, apparently trying to remember the name of Leymar's native country.{/n} \"This... sir insisted on speaking to you in person, and I decided no one better could explain his request.\""
+    },
+    {
+      "Key": "d1ff3108-075d-47ee-be26-ea1c9f30d8c3",
+      "Value": "\"I've brought a petitioner with me, Leymar Tinch – a famous expert on everything regarding alcohol and the beverages which feature it. Our impatient guest wanted very much to speak with you in person, and tell you all about his, ahem, 'project'.\""
+    },
+    {
+      "Key": "61ab15f8-57dd-40fd-b5e7-04bececcb9c2",
+      "Value": "\"Just like that, without considering the risks? Of course, it's entirely up to you, {mf|baron|baroness|King|Queen}, although I'd remind you that the money belongs to the state.\""
+    },
+    {
+      "Key": "735eda41-6b69-443b-b197-23688704ccbd",
+      "Value": "{n}Jubilost silently nods in response.{/n}"
+    },
+    {
+      "Key": "bda490ed-aef0-4be1-bad5-2aa6dbbee2ad",
+      "Value": "\"If you thought you might change my mind by inviting me to decide, I'm afraid you were mistaken. I shall refuse Leymar's request straight away.\""
+    },
+    {
+      "Key": "c859c0f8-68af-46bf-aa20-c6305101d207",
+      "Value": "\"Is that so? Very well. Let's hope the number of halflings in your lands doesn't drop significantly.\""
+    },
+    {
+      "Key": "b70d577d-47df-4178-add9-450637e6e4fa",
+      "Value": "\"I'd be happy to, {mf|Your Grace|Your Grace|Your Highness|Your Highness}.\""
+    },
+    {
+      "Key": "88690ad6-6f76-4afe-afe1-677591683f0d",
+      "Value": "\"Thank you for your trust, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. I shall invite sir Leymar to leave – first the castle, and then the city.\""
+    },
+    {
+      "Key": "f29242b8-6294-472e-8e6c-d12e1fd3c948",
+      "Value": "\"Allow me to introduce Leymar Tinch, a well-known distiller and a renowned potion-maker. Sir Tinch insisted on a personal meeting, to present to you his unusual idea.\""
+    },
+    {
+      "Key": "48cca431-bace-458b-840f-34c45a1223c5",
+      "Value": "{n}The halfling before you looks young, but his sharp eyes framed by slight wrinkles gives away the petitioner's considerable age. Leymar nods politely, sweeping the floor with his beret and showing off an emerging bald spot.{/n} \"My respects, {mf|baron|baroness|King|Queen}! I beg your forgiveness for how boldly I sought our meeting, but I could hardly trust anyone with the fate of my beloved new child – which appeared to me in a waking dream, as I walked your lands.\""
+    },
+    {
+      "Key": "aa8da63d-ed51-47ce-b986-eebfea355729",
+      "Value": "\"You see, I was traveling through on my way to {g|Brevoy}Brevoy{/g}, when to my surprise I discovered a most curious detail: it turns out that many spicy and bitter herbs, which I and my colleagues use in our work, grow wild in these lands! Wineberry, goatweed, gentian...\" {n}Leymar bends his fingers, enumerating the plants, then waves his hands.{/n} \"Ah, these names probably tell you nothing, but to me... oh, for me this rich list is like a splendid palette – the foundation upon which a true masterpiece might be built.\""
+    },
+    {
+      "Key": "2d0d4a8d-e11f-48c3-9a7a-0ee6745731fe",
+      "Value": "\"{mf|Your Grace|Your Grace|Your Highness|Your Highness}, I once imagined settling in {g|Brevoy}Brevoy{/g}, but your lands have truly inspired me – and now my greatest dream is to open a shop in this very capital. With a bouquet you can easily gather nearby, I can easily create a new beverage – true ambrosia for any halfling! Only one thing is holding me back: lack of financial resources. I hope that now, upon hearing my request, you and your respected Treasurer will not refuse a humble artisan a little assistance... of course, in exchange for a future percentage!\" {n}Leymar bows deeply once again.{/n} \"I shall eagerly await your decision!\""
+    },
+    {
+      "Key": "900c95c8-ced9-4ffe-845c-e5d0da8a94fe",
+      "Value": "{n}Maegar chews his lip, annoyed.{/n} \"Of course it's up to you to decide, but I personally don't trust such moneymakers. 'Ambrosia', 'bouquet'... if he wanted to open a forge or, say, a pottery – why, that's a different story! But how can we say whether this investment is any good at all? What if he gets the money and simply disappears without a trace?\""
+    },
+    {
+      "Key": "0bde28bb-cb4a-4c43-aa64-874f41f84aeb",
+      "Value": "\"Do you want to hear my opinion? This business will fail. Halfling alcohol is like fruit juice for the other races. It's nothing like your dwarvish stout. You want to take a risk and put your money on halfling drunkards? Well, it's your {mf|barony|barony|kingdom|kingdom} and your business. But remember, if you give this trader the money he asks for, then tomorrow there will be ten more at your gate just like him.\""
+    },
+    {
+      "Key": "fb2532fa-14dc-4380-8a61-1328183754d5",
+      "Value": "{n}Bartholomew clears his throat.{/n} \"If you ask my advice, I would not encourage our citizens to come ask for loans for their crazy ideas. You will quickly lose money, while this character poisons your subjects with his concoctions... Perhaps three and a half halflings will enjoy his fizzy wine, but that will hardly repay your investment.\""
+    },
+    {
+      "Key": "33831537-01f9-4256-b90b-36e17f5610a6",
+      "Value": "\"A sure sign of our state's maturity is the long line of entrepreneurs awaiting audience. Each has a project on their minds, and each sincerely believes that the others are rascals and madmen, while their own ideas are magnificent. Congratulations – this is a great moment for your {mf|barony|barony|kingdom|kingdom}! The first petitioner is Leymar Tinch, and he has quite a business proposal for you.\""
+    },
+    {
+      "Key": "0a59a148-4a4b-4466-9627-7fe8501fbd9b",
+      "Value": "\"Sounds dubious, doesn't it? Nevertheless, I do recommend allocating some money to this endeavor. True, it's unwise to get too involved in risky business, but it's even less wise to forgo it altogether. Most often such projects end in nothing. But the success of one can more than outweigh a dozen or even a hundred failures!\""
+    },
+    {
+      "Key": "d76ee2a7-66d4-464c-a439-448088dadecb",
+      "Value": "\"A wise decision! If our guest's business fails, our losses will be small. If it succeeds, our profits might range from modest to enormous. But most importantly, people like him will continue to come to court. A hundred might have only pebbles in their hands, but the hundred-and-first will bring you a diamond!\""
+    },
+    {
+      "Key": "cdc2eded-de6a-4fed-b614-ddc83b1bc192",
+      "Value": "\"I see you don't like playing dice with fate, and prefer to act when the situation is certain. Very well, it's a sensible approach. But I'm afraid it will be painful when the entrepreneur you turn away rains gold upon one of your neighbors!\""
+    },
+    {
+      "Key": "cfa106dc-1fe9-4f86-8101-707112e96e70",
+      "Value": "\"In this case I will lend sir Leymar the money he is asking for. There might be some risk, but it's justified.\nEntrepreneurship is the living blood of the state, and you can't avoid taking chances!\""
+    }
+  ]
+}

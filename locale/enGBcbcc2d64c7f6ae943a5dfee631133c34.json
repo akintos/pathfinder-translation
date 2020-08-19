@@ -1,0 +1,233 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "0228ed51-bcc2-4031-906b-4f5ba7a6db5e",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "fa436f01-0654-46d4-a78b-66bdc9e0ab80",
+      "Value": "\"What is this place?\""
+    },
+    {
+      "Key": "a5fe041b-407c-409d-a902-342e56fcc9b5",
+      "Value": "\"Why? What is your purpose in this?\""
+    },
+    {
+      "Key": "06bd1e67-94c1-4a30-ac96-656d1543ae25",
+      "Value": "\"I'd believe you. The fey are famous for their evil and pointless jokes.\""
+    },
+    {
+      "Key": "6ab7a664-a840-4d2e-968d-b483d0dd7d32",
+      "Value": "\"I don't believe you. All of this must be part of some larger plan – the details of which you've carefully hidden.\""
+    },
+    {
+      "Key": "886c6ecf-761d-45db-9323-02b578e84356",
+      "Value": "\"I don't know what to believe any more.\""
+    },
+    {
+      "Key": "3834a6f8-7d1b-4105-aa33-e8cc1d90cb73",
+      "Value": "\"So this tomb of the cyclops lord, and the gift of Charon – they never existed?\""
+    },
+    {
+      "Key": "95e82158-777d-4009-9a96-f0d12471cdc3",
+      "Value": "\"What did you do to Varnhold? To my companions?\""
+    },
+    {
+      "Key": "438a4433-19c5-400e-9f6b-51d09b7f00ca",
+      "Value": "\"You've told me about your game. So what do you want from me now?\""
+    },
+    {
+      "Key": "3ce459ec-65ab-4b7e-a0b2-0dec8e659ccd",
+      "Value": "[Step back to the portal] \"Do not come near, monster!\""
+    },
+    {
+      "Key": "a6c49ecf-748e-48d5-b708-27e5f56f73ae",
+      "Value": "[Attack] \"We have nothing to talk about, monster!\""
+    },
+    {
+      "Key": "846eaa1a-ccd6-4969-b70f-21dbbb681111",
+      "Value": "\"I agree. Give me the power to protect Varnhold!\""
+    },
+    {
+      "Key": "a88fbdc5-26d7-4913-9398-bd69c54639ce",
+      "Value": "[Enter the portal] \"I seek nothing from you. I am going home.\""
+    },
+    {
+      "Key": "c2e0d481-d6ab-4d08-bbdf-674171acc336",
+      "Value": "[Attack] \"You are a monster. Die!\""
+    },
+    {
+      "Key": "64e5d867-383a-47f4-97d9-dd66635bbf5d",
+      "Value": "\"I agree. Give me greatness!\""
+    },
+    {
+      "Key": "ff39a4f7-fe3c-4bd2-b185-38414ed5c481",
+      "Value": "\"I agree. Make me the ruler of Varnhold!\""
+    },
+    {
+      "Key": "e57fecbe-170b-4079-a863-3b2a58704485",
+      "Value": "\"Maegar Varn?\""
+    },
+    {
+      "Key": "ab8b3300-5a04-4b87-84db-5167d6449d70",
+      "Value": "\"Cephal Lorentus?\""
+    },
+    {
+      "Key": "40ac4e01-c70f-495c-9535-61a5a4eed6f8",
+      "Value": "\"Willas Gunderson?\""
+    },
+    {
+      "Key": "6d747e2d-433d-421a-ac5a-1684b7117980",
+      "Value": "\"Me?\""
+    },
+    {
+      "Key": "2f0c1793-1efc-4a44-bba2-8f71f150e21f",
+      "Value": "\"I don't know and I don't want to know!\""
+    },
+    {
+      "Key": "9921e0c8-4af9-451a-88a3-38b0378c8517",
+      "Value": "{n}The monsters are dead, and the sounds of battle have faded. All you hear is the blood rushing in your ears, and the rustling leaves of the unfamiliar plants around you.{/n}"
+    },
+    {
+      "Key": "faae0bee-ee56-49f2-b4dc-b46d0b76e315",
+      "Value": "{n}The silence is broken by the measured clapping of a heavy pair of hands. Clapping slowly, a human-like creature enters the clearing, wearing a full helmet decorated with heavy horns. You can't see his eyes, but you feel the thick darkness under the helmet studying you with curiosity.{/n}"
+    },
+    {
+      "Key": "5c75a8ce-e56d-4546-8c86-c972a4f88afc",
+      "Value": "\"Bravo. That was an exceptional victory. Not many mortals would have managed to get this far – not to mention killing two of my vassals. I am impressed. Such feats deserve a reward.\""
+    },
+    {
+      "Key": "2173cdf7-cb65-4bb4-939a-12e6292a35fc",
+      "Value": "\"Call me the Horned Hunter. I have other names, but today you'll have to make do with that one. I am the true creator and master of this dungeon.\""
+    },
+    {
+      "Key": "8d1e4126-0f53-4674-8171-a14e73b5bd19",
+      "Value": "\"Is there anything else you wish to ask me? You may do so. You have earned the right.\""
+    },
+    {
+      "Key": "9fb3f00a-2077-4f14-b825-7c7e22749087",
+      "Value": "\"We are on another plane, the world of fey. It is often called the First World. Or do you mean the dungeon through which you've just passed? This is Lostlarn Keep – my gate between the two worlds.\""
+    },
+    {
+      "Key": "256850e2-7be3-453c-9cb5-5273bceb007f",
+      "Value": "\"Once it was a castle of the proud Taldan Empire. Then it became the zoo of a sorceress who dreamed of other worlds. And finally it became my toy. I hid it under the ground, and quietly persuaded the locals that this is the resting place of their precious cyclops leader.\""
+    },
+    {
+      "Key": "ac44658a-c01b-429d-957a-87bcfaf3fb89",
+      "Value": "\"Would you believe me if I told you, I did it on a whim? As a joke? Would you believe that I've been playing this game for ages, just to see the expression on your face?\""
+    },
+    {
+      "Key": "c65aeacd-e8d6-499f-8dea-82bed2ac5f5a",
+      "Value": "\"Oh, this is not at all pointless. You simply cannot appreciate the beauty of the irony. The lives of mortals like you are far too short to enjoy the depths of a truly epic joke!\""
+    },
+    {
+      "Key": "14f60e20-4f56-4d65-846d-bbff346ebaa5",
+      "Value": "\"You are so discerning! Yes, there is a larger game, and you have played your part in it... Nevertheless, I do enjoy this delicious moment.\""
+    },
+    {
+      "Key": "0e2e2d3e-3eb1-4008-abc5-c4949505f305",
+      "Value": "\"Then choose insanity! If your mind has let you down, see what you can do without it. Maybe then you could catch a glimpse of the depths of my joke!\""
+    },
+    {
+      "Key": "c1ba76f5-ce64-4a1d-b6e0-135e2db040a9",
+      "Value": "\"My long-term plans are not so distracting that I miss the beauty of fleeting events. I swear, I am enjoying this conversation like a glass of thousand-year-old wine!"
+    },
+    {
+      "Key": "057434d9-dc52-4daf-9568-bc864d06fe53",
+      "Value": "\"Oh no! Both exist. They are not far from here – in the mountains to the south-west. I'll tell you more. The dusty lich has already awakened, and the hunt for his treasure begins... But alas, you will not be joining the others.\""
+    },
+    {
+      "Key": "6a410135-95fb-4bb1-b6cc-bf9559f10f46",
+      "Value": "{n}The mocking voice of the Horned Hunter seems to come from nowhere.{/n} \"I had hoped to reward you with a curse for good measure... But you've played quite a fine joke on yourself! Safe travels! We'll see if you can find your way home...\""
+    },
+    {
+      "Key": "63db127b-cbde-4907-8796-842daea4ef00",
+      "Value": "\"Me? Nothing. That horrible vision your commander saw was merely that – a vision. When he returned home, he found Varnhold safe and sound. The wizard followed him. The two were about to muster a force to dig you up... But suddenly changed their minds and went... elsewhere. Indeed, they've only just set off. Many exciting adventures await them!\""
+    },
+    {
+      "Key": "311e1344-7dc7-4923-8a55-b0a97ec54b9e",
+      "Value": "{n}The mocking voice of the Horned Hunter seems to come from nowhere.{/n} \"As long as there are monsters in the world, it will need a hero. As long as that hero stands guard, the torrent of monsters will be unrelenting. You shall defend Varnhold without rest or sleep, until the master of these lands allows you to leave your post!\""
+    },
+    {
+      "Key": "4dfe3803-1880-42cf-adf6-ac216986038a",
+      "Value": "{n}The last thing you hear is the mocking voice of the Horned Hunter.{/n} \"Oh yes, you will be great. You will instill fear. I am generous! You will have title and dominions! I pronounce you {mf|Marquis|Marquise} Devouratio, the new master of Lostlarn Keep!\""
+    },
+    {
+      "Key": "60f34a7a-ea71-43e8-8a6a-aa75c21174d3",
+      "Value": "\"You haven't found what you seek here, but you still deserve a reward. I know what it is you really want most in your heart. And I will make that wish come true.\""
+    },
+    {
+      "Key": "ad056be1-8866-4830-8712-47629b97773a",
+      "Value": "\"How rude! Farewell, then! But be careful as you go. These portals can be so unreliable. Who knows where you might end up?!\""
+    },
+    {
+      "Key": "584dd5d5-36f2-4803-b57a-675fb24b39f4",
+      "Value": "{n}Bursting into laughter, the Horned Hunter disappears. And with him – the portal behind your back!{/n}"
+    },
+    {
+      "Key": "410a7ee2-2907-4a7d-948d-f73eab92f898",
+      "Value": "\"Deep down, you truly are a hero, aren't you? You don't like making deals with monsters and the followers of dark gods. You seek power – but not to impose your will onto others. No, you need it to destroy the monsters. Well, I can grant you this power! Take it from my hand, and become the defender that Varnhold deserves!\""
+    },
+    {
+      "Key": "5dd692e5-ef5e-4572-bfd9-4aff3093a78f",
+      "Value": "\"You are not one to settle for less. You seek might, and to obtain it, you are ready to go anywhere, even to the god of death! I respect this. Come, take this might from my hands! Accept it, and achieve such greatness that would even make this land's former masters shudder!\""
+    },
+    {
+      "Key": "3f20c352-9e6e-4a0f-9616-8666690b8832",
+      "Value": "\"You have served your leader long and faithfully, but you were not born to serve! No, your fate is to rule. That old fool Cephal refused to overthrow his pupil, but not I! I will help you get rid of Maegar Varn, and make you the sole ruler of Varnhold!\""
+    },
+    {
+      "Key": "1ff1fe3a-813c-4716-9e76-e3074303a365",
+      "Value": "{n}The Horned Hunter reaches out his hand, and you feel transported, far away...{/n}"
+    },
+    {
+      "Key": "9dab2e7f-9ac6-46c7-ba13-7c25266e10ae",
+      "Value": "{n}The Horned Hunter holds out his hand, and you're bathed in bright light...{/n}"
+    },
+    {
+      "Key": "f57749cd-3d1f-4ed5-9e7f-580c5984eebb",
+      "Value": "{n}The Horned Hunter holds out his hand, and the world goes dark before your eyes...{/n}"
+    },
+    {
+      "Key": "2dc4a6f9-04f9-4c3a-9f2f-a054862578b4",
+      "Value": "\"Ah, if only you knew what a wonderful endgame I have planned... You know what? I guess there's no harm in telling you that secret as well. But first, try to guess, who was the key piece in the game of chess I played at Varnhold?\""
+    },
+    {
+      "Key": "b7196a36-000d-4e1f-b1ac-731f00ad0af2",
+      "Value": "\"Ah, that's a pity. Well, this isn't the first secret I'll keep to myself.\"\""
+    },
+    {
+      "Key": "7b3cd9dc-a0a0-4dac-9140-f2a85db761aa",
+      "Value": "\"That grey-haired queen who thinks himself a player? No. Though I do enjoy his type. Both far-sighted and near-sighted. A cunning fool, busying himself building houses of cards, which I do so like to blow down. Under different circumstances, I might play a most interesting game with him... But this time he stayed on the sidelines.\""
+    },
+    {
+      "Key": "6fd8f83a-dd87-4a07-b0ea-51533cd6b244",
+      "Value": "\"Exactly!\""
+    },
+    {
+      "Key": "1e5fa584-ec62-42bb-8c85-c593eba7e5aa",
+      "Value": "\"Don't flatter yourself. You are but a pawn, which got to the end of the board by some chance. Truth be told, you aren't supposed to be here at all!\""
+    },
+    {
+      "Key": "102347b2-b6dc-490a-a9ba-ab6c18095585",
+      "Value": "\"No. On a chess board, of course, the king is more important than the other pieces, but only because without him there would be no game. But he rarely expresses the beauty of the game.\""
+    },
+    {
+      "Key": "7d4cc620-6c18-4dad-aba7-db86ed4ab3ab",
+      "Value": "\"The entire chain of events – everything that has happened and what will happen – was put in motion by Gunderson. That tireless knight, small but quick, keeps jumping onto squares where he's not expected!\""
+    },
+    {
+      "Key": "af843ca3-5155-4bff-b520-3dbe9ce8d16e",
+      "Value": "\"It was I who pointed the way to the tomb of the cyclops ruler. Without me, he might have wandered through the mountains for the rest of his life. I summoned the darkness that opened the gates of the tomb. I led him to the treasury, from which he took but one bracelet – or rather a ring – from a sleeping finger. The sleeper immediately felt the thief, awoke from his deathlike slumber, roused his servants and sent them forth on a chase...\""
+    },
+    {
+      "Key": "43305437-e2a3-4f4c-8d58-2204ed88e7b0",
+      "Value": "\"Such a knight's move would make any chess master jealous! Just don't ask me why I did it, or what's going to happen next. What kind of player would I be, if I revealed all my plans? But believe me, with each day, the stakes rise higher, and the game grows more and more interesting!\""
+    },
+    {
+      "Key": "0b73eae0-9b9f-42ac-8f89-9ad223cef7b1",
+      "Value": "{n}The mocking voice of the Horned Hunter seems to echo from nowhere,{/n} \"Enjoy your reward, oh lord of nothing! My parting gift to you is solitude. Will he who has betrayed twice, draw his poison from the chalice? Will he find someone he can trust?\""
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "22eeb9ac-6660-4aba-92a9-8339c225d6d3",
+      "Value": "\"Amiri! What happened?\""
+    },
+    {
+      "Key": "eaccf9c3-47f8-490d-b017-dd512f67904b",
+      "Value": "\"Come to your senses! We need to keep going.\""
+    },
+    {
+      "Key": "2ffa039f-cab9-4f5b-bf2e-aebdc9640a8b",
+      "Value": "{n}Amiri kneels down at a frozen gravestone, mumbling something quietly. She barely notices you.{/n}"
+    },
+    {
+      "Key": "b4c19b76-0f3d-423e-9afb-06f3fb0c43a1",
+      "Value": "{n}Amiri raises her eyes and looks at you from under her black hair, her expression strange.{/n} \"Do you see the name on the grave? {d|Nilak}Nilak{/d}... I didn't save her. Why does she die, while a mad dog keeps on kicking?\""
+    },
+    {
+      "Key": "4c6c8725-9ba3-414c-b3e5-ab80e6b038f0",
+      "Value": "\"Nothing!\" {n}Amiri snaps, jumping to her feet.{/n} \"I'm just tired of waiting for you, chief, that's what! This witch came by, tried to pour some muck into my ears. There are some snakes that whatever they say it's like a knife in your ribs...\""
+    },
+    {
+      "Key": "8f9d86d4-3e8c-4e28-9014-6cfb116cf002",
+      "Value": "\"Like I mind! Ha! Keep going means keep going! I told you, you are my tribe. Together we'll tear anyone to pieces.\""
+    },
+    {
+      "Key": "3502783d-c707-4b40-922f-42e6b0ab04a2",
+      "Value": "\"No. I'm leaving, {name}. You never really cared about me, so don't cling to me now. You'll thank me later for not dragging you down with me, plague rat that I am...\" {n}Amiri turns around and walks away.{/n}"
+    },
+    {
+      "Key": "6b4bb4be-80db-43a9-82fe-dcb109b919a9",
+      "Value": "\"I'm not going anywhere!\" {n}Amiri snaps.{/n} \"Or maybe I am... I'll go get lost. I only bring grief and {d|Amiri Nilak Sacrifice}death{/d} to those I care about. And don't try to convince me. Everyone has their limit. I've reached mine. I can't go on any more...\" {n}Amiri turns around and walks away.{/n}"
+    }
+  ]
+}

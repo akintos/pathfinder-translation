@@ -1,0 +1,185 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "9e3e113d-7fe5-4dfc-933f-11ad39f992a5",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "195a082a-e6f9-42da-87d3-02f5e0615b78",
+      "Value": "\"This young fellow — what's wrong with him?\""
+    },
+    {
+      "Key": "9b44ab43-b05e-44ff-a009-adf113d7a882",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "4aa19e44-a926-41d2-96c7-1bec35a7ec7c",
+      "Value": "\"Judging by your bags, you are not just traveling. You are on the run.\""
+    },
+    {
+      "Key": "4f98973a-985c-4fbf-951f-374d2c4ccc35",
+      "Value": "[Attack] \"Let's have a little fun. Why don't you try to run to Galt, and we'll see how many of you live to get there?\""
+    },
+    {
+      "Key": "c9b643da-b192-46ed-8289-4d2caf7ab279",
+      "Value": "\"There's nothing you can do for Verdrin — his signs are like the others afflicted. Any moment, a monster might tear its way out of him. Keep your distance!\""
+    },
+    {
+      "Key": "e300c5f3-3dc5-45a9-9690-b68580a491d9",
+      "Value": "\"Calm down. It wasn't me who killed your friend. What happened here was a tragedy, but it is not me you should blame.\""
+    },
+    {
+      "Key": "4a484747-17d0-4d4d-9685-b1c76fa11e41",
+      "Value": "\"I will not be able to protect you if you leave for Galt. Turn back, and inside the capital you will find protection from the beasts. You will at least save those who can still be saved.\""
+    },
+    {
+      "Key": "511e9b9b-a67d-4dd8-96ff-d8cb12edf14e",
+      "Value": "[Attack] \"Calm yourself — I shall send you to join your friend straight away.\""
+    },
+    {
+      "Key": "bc430fd1-f7d1-460c-b519-538d35c5b087",
+      "Value": "\"I should go now.\""
+    },
+    {
+      "Key": "0ebb6b12-7b18-4853-9a89-9818094db673",
+      "Value": "[Kill the afflicted youth]"
+    },
+    {
+      "Key": "e989d5ec-1d94-4c9d-89af-80c7dd593756",
+      "Value": "[Attack] \"You are not stopping me!\""
+    },
+    {
+      "Key": "2cf62755-a159-4cb5-8436-befaaef20997",
+      "Value": "\"Get away from him! A monster is about to burst out of him!\""
+    },
+    {
+      "Key": "9ff80ad3-79a3-4e7a-a62a-4a1bed3034b8",
+      "Value": "\"Fine, I shall leave.\""
+    },
+    {
+      "Key": "683806be-2e9f-4190-bf01-ba231e07db2e",
+      "Value": "\"Easy now! I'm doing everything I can! What, you think you'd do a better job if monsters started tearing out of your citizens all across the barony, huh? As a matter of fact, you — yes, you — are still alive, and I've yet to hear a word of gratitude.\""
+    },
+    {
+      "Key": "327e8f7d-f063-4897-9359-f7103cf96c53",
+      "Value": "\"I protect this realm for you, I fight monsters, and all I hear in return is cursing and the mewling of cowards! You ungrateful, narrow-minded fools!\""
+    },
+    {
+      "Key": "601c3091-ef23-499b-9384-af72af059b50",
+      "Value": "\"I must leave now. Farewell.\""
+    },
+    {
+      "Key": "bd748a37-5022-4b51-a05e-bf0ceb0f595c",
+      "Value": "[Attack] \"You. Stay. Here.\""
+    },
+    {
+      "Key": "69315a13-e641-4648-8dd3-0baa84b8222d",
+      "Value": "\"Farewell.\""
+    },
+    {
+      "Key": "6ef19286-78f5-435b-a678-ba29332ec528",
+      "Value": "\"Yell all you want. I couldn't care less about you or your family of beggars.\""
+    },
+    {
+      "Key": "23d086f6-7bd1-4ebf-ba83-758081925445",
+      "Value": "[Attack] \"Talking back to your {mf|baron|baroness} is akin to treason.\""
+    },
+    {
+      "Key": "fe89a3cc-68e1-4365-acd1-df3546431bfa",
+      "Value": "\"You cannot imagine the pain that fills my heart with each life lost. I am doing everything in my power to save those who still can be saved. Please, forgive me, for I cannot protect everyone.\""
+    },
+    {
+      "Key": "4a049c36-e836-4bd1-aa28-4bb71cb7126b",
+      "Value": "[Attack] \"Enough! I will make you shorter by the head.\""
+    },
+    {
+      "Key": "7a7c67f0-685f-491c-800c-b7ff89b9d895",
+      "Value": "{n}A group of travelers carrying bags, satchels, and sacks full of all manner of goods and chattels are shuffling their feet on the road in front of you. Two tougher looking men are helping one of their companions stand — a pale youth who is shivering, his face covered in sweat. As you approach, the men turn to you and glare at you.{/n} \"Your Grace.\""
+    },
+    {
+      "Key": "877b3609-9d0f-429d-a2f8-f90527125158",
+      "Value": "{n}Uhrked's hands are shaking, and as he turns to face you, his voice raises to a shout.{/n} \"Cursed lands! Cursed {mf|baron|baroness}! It's all your fault! Verdrin died because of you! WE'RE ALL GOING TO DIE BECAUSE OF YOU!\""
+    },
+    {
+      "Key": "d4c10b19-c30a-4476-854f-d0bd7925230f",
+      "Value": "{n}The man throws a glance at his small group.{/n} \"Name's Uhrked. These here are my companions. We come from the village of Lervik, and we're traveling to {g|Galt}Galt{/g} in search for protection.\""
+    },
+    {
+      "Key": "792145ee-629e-4374-ad8e-609a76bc3d94",
+      "Value": "\"Oh, Verdrin, you mean? Must've eaten something. He was fine, see, then felt sick, fever and all, and in the morning he began to cough blood. {g|Erastil}Erastil{/g} willing, he'll make it to the border, and we'll find him a healer there.\""
+    },
+    {
+      "Key": "ceda8da5-ab6d-496b-bb0a-ab580a8a3e8a",
+      "Value": "{n}You see a change in Uhrked's eyes, and he gives you a cold, even wicked, look.{/n} \"And if it were so, Your Grace? It's more risk to stay in the barony then to go into the wilds — three folks torn to pieces in our village, and even more were slain by the beasts that came out! {g|Galt}Galt{/g} has to be safer, they say, and I say we go see for ourselves!\""
+    },
+    {
+      "Key": "80f88581-2c00-40f9-8ba4-858445aed16f",
+      "Value": "{n}Uhrked pales and looks at the others.{/n} \"Listen up!\" {n}His voice is hoarse.{/n} \"All back! Back, behind the {mf|baron|baroness}!\""
+    },
+    {
+      "Key": "9f7d1ff3-da25-4952-990e-5d60ec79b484",
+      "Value": "{n}Uhrked frowns.{/n} \"What do you think you are doing, Your Grace? We don't need you in this! It's bad enough you've left us all to hang, now you come and tell me to leave one of my own behind? You better go on about your business, we'll deal with this on our own.\""
+    },
+    {
+      "Key": "926c9c0a-c232-452e-821c-f10f4018e8f2",
+      "Value": "{n}The wrath on Uhrked's face gives way to disbelief.{/n} \"Is that so? You want to sweep us away from our neighbors' sight?\" {n}He wipes away tears.{/n} \"'Tis all the same, no matter where we breathe our last — be it away from home in a foreign land or out on the city streets, let us die in peace! You hear that, lads? We turn back!\""
+    },
+    {
+      "Key": "d48c1727-a0c0-4d87-b4e8-293175ab88e7",
+      "Value": "{n}Uhrked glares at you, his eyes narrowing to slits.{/n} \"Lies! Twisted lies! There's only death and suffering to be found in these lands! We're heading straight to {g|Galt}Galt{/g}, and we are not stopping until we've left this cursed barony behind our backs!\""
+    },
+    {
+      "Key": "0caf8e0b-f859-42d2-8e3b-0bc38a0bc040",
+      "Value": "\"And whom should I blame? Or what?! Who is responsible for everything that happens here? Shouldn't it be the so-called 'ruler'?! Who is to answer for all these deaths, if not you?!\""
+    },
+    {
+      "Key": "b51f707b-9acc-4a89-91c7-521e28572e1d",
+      "Value": "{n}Verdrin gives a few deep, muffled coughs. The feverish glint in his bloodshot eyes, the glow in his cheeks, the distant look on his face... you have seen this before — this is what the unfortunate servant looked like moments before a monster erupted from his body.{/n}"
+    },
+    {
+      "Key": "5d74635b-272c-4a13-9e98-83a5d405b7aa",
+      "Value": "{n}Verdrin muffles a deep cough and wipes blood from his lips with an unsteady hand.{/n}"
+    },
+    {
+      "Key": "9e3ed483-28c8-44ad-beff-423a4720ea81",
+      "Value": "{n}Seeing your weapons, the leader of the small group puts himself in front of the sick young man.{/n} \"Just what do you think you are doing?! Get, or you'll have all of us to deal with!\""
+    },
+    {
+      "Key": "1f702ac2-bdcd-4a93-a954-2f25cc821001",
+      "Value": "\"What do I care for your apologies... Verdrin is not coming back!\""
+    },
+    {
+      "Key": "92c9fb2f-98c2-4f24-9934-c87e42418d52",
+      "Value": "\"Why did you take the throne then if you're unable to keep up?!\""
+    },
+    {
+      "Key": "95291498-fa1d-4b23-a663-fc7aea105ed6",
+      "Value": "\"{g|Brevoy}Brevoy{/g}-loyal traitor! I hope you die in a ditch, 'baron{mf||ess}'!\""
+    },
+    {
+      "Key": "ac7ae113-c17c-468f-96c4-4f6c46f8d774",
+      "Value": "{n}Refugee clenches his teeth and shakes his fists in powerless rage.{/n}"
+    },
+    {
+      "Key": "042af565-d38d-4e71-b380-9eb607ffe329",
+      "Value": "{n}Tristian shakes his head slowly.{/n} \"This is not food poisoning. The symptoms clearly indicate... I am sorry. I am so sorry...\""
+    },
+    {
+      "Key": "f0ed0a77-62ce-4a86-9d8e-71065f3fd611",
+      "Value": "\"Die here, or in {g|Galt}Galt{/g}... From disease, or by the sword... A bit sooner, or a bit later... Our earthly lives are filled with choices, but what change truly comes of them?\""
+    },
+    {
+      "Key": "4e6c1d0f-14f6-43c7-8cb1-09053019e5bf",
+      "Value": "\"Your ruler is trying to save you, fools.\""
+    },
+    {
+      "Key": "f39e3e04-337a-4d36-be10-22841f235614",
+      "Value": "\"Typical! 'I don't want to get to the bottom of things, though I know exactly who is to blame!'\""
+    },
+    {
+      "Key": "53d0d452-92f5-4cb6-a0d8-ebeff101b8f3",
+      "Value": "\"Please, {name}, don't allow anger to guide your hand. This man has been crushed by loss and fear – and he will regret his rash words!\""
+    }
+  ]
+}

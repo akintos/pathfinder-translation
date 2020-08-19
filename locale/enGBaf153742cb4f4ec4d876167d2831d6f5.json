@@ -1,0 +1,57 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "521ebb4b-7f9e-40a2-a3a6-4d453b189fa2",
+      "Value": "{g|Military7_1}[Choice effects]{/g} [Pay 250 BP] \"My subjects have spilled enough blood. We have plenty of gold to hire mercenaries.\""
+    },
+    {
+      "Key": "0205b98a-c003-4f4b-b8e0-79eb1f8d5fad",
+      "Value": "{g|Military7_2}[Choice effects]{/g} \"I don't trust the mercenary army. They've got nothing to lose in the defeat. Let us begin a period of mandatory military service.\""
+    },
+    {
+      "Key": "e1cadf0a-80ae-4372-b3d1-275faee5858e",
+      "Value": "{g|Military7_3}[Choice effects]{/g} \"We've just defeated the barbarians from the North! No other enemy will dare challenge us. Let's just leave everything as it is.\""
+    },
+    {
+      "Key": "22f2c8d0-ff90-4f38-aa58-30b06ffc54a7",
+      "Value": "\"You are my General. I trust your judgment.\""
+    },
+    {
+      "Key": "af4edd3a-121d-4285-9422-e10ee2e72a30",
+      "Value": "\"Chief, I've got a concern. We had a good battle with {g|Numeria}Numeria{/g}. Our soldiers fought and died as brave as the Kellids. Our glory is great. Like everybody knows, the best way to get glory is to defeat someone who already has it.\""
+    },
+    {
+      "Key": "caf83097-3876-40c1-9662-8446bbc5358f",
+      "Value": "\"{name}, here's the thing. We whipped {g|Numeria}Numeria{/g} into line, and made a good show of it. But we lost a lot of soldiers along the way. Our good neighbors must all be imagining how they'll to divide our territories between them... That's what I'd be doing in their position. We have to renew our ranks before it's too late.\""
+    },
+    {
+      "Key": "e1eb9e59-d49b-4df7-984f-3eb5cf973ea1",
+      "Value": "\"I'll strike a bargain with the mercenaries. I'd have joined them if I hadn't become your General. Loads of weapons, pockets full of gold, and no trace of remorse. That's my kind of party.\""
+    },
+    {
+      "Key": "2e3473df-44a2-4a83-a908-ad2c0bd62661",
+      "Value": "\"Your subjects are confident there will always be someone to protect them. Someone like me. I'll explain to all the craven idiots what's going to happen if the Kellids reach your kingdom and aren't met with an army.\""
+    },
+    {
+      "Key": "ea02fd76-ec6f-4baf-abf8-5011be7ffc71",
+      "Value": "\"You need a bigger army. There are many mercenaries in the city, trying to sell their skills. I don't trust them. They fight for their purse, not for their general. If the enemy bribes them, they'll stab us in the back. Then there's just more for us to execute. It's best if you draft the locals instead. They won't be very happy about it, after all that's happened, but let your people have to learn to stand up for their own land!\""
+    },
+    {
+      "Key": "a08f99e8-5870-499b-a28b-857dec76be70",
+      "Value": "\"You could call up the local citizens. However, all the volunteers are either already recruited or six feet under ground. That means we either take in the weaklings or we do it by force. We'll train them to kill, and then one fine morning they'll take a blade in the heart. Not a bright future, eh? It's best to pay the mercenaries. That bunch of daredevils is dreaming of fighting for a warchief like you! And these guys are tough and dangerous men, not some untrained farmhands.\""
+    },
+    {
+      "Key": "8cab1b33-003d-4463-8af5-70ff9349aec1",
+      "Value": "\"I have alarming news, your Highness. I've just audited the officers' reports, and I have to admit: the war with the Kellids cost us dearly. It was a glorious victory, but we lost many lives. Our losses must be replenished, but with who? A general mobilization would end with a mob of angry peasants in the ranks. Every volunteer has already joined. I guess we'll be looking at forced conscription.\""
+    },
+    {
+      "Key": "239b5b64-ce4a-4567-ae79-1323a4972269",
+      "Value": "\"The other option is mercenaries, which is far worse. I've never trusted those who fight for money, rather than honor or duty. It's better if we recruit peasants by force. The training they'll undergo will make them realize that it was the right thing to do for their own families and the homeland.\""
+    },
+    {
+      "Key": "be5acbf6-6848-419d-8f21-4590f57a1b50",
+      "Value": "\"I'll commence military conscription at once. Soldiers with families to defend are far more reliable than mercenaries who only care about their own skin and their pay. A mercenary will flee while a true defender holds out to the end.\""
+    }
+  ]
+}

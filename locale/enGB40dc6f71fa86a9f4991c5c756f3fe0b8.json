@@ -1,0 +1,65 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "515581f5-9200-40fe-9c63-1db3169c0474",
+      "Value": "\"There's trouble, {name}! A powerful magical anomaly has afflicted one of our regions! According to the local mages, spells either simply don't work, or lead to completely unexpected results. While trying to repair his carriage, an experienced mage unwittingly levitated a bystander. Elsewhere, a famous illusionist was setting off fireworks, but instead turned the ground under his audience's feet into deep and slippery mud.\""
+    },
+    {
+      "Key": "7c27d279-9ca3-4c9e-a99f-40bca4f1bdc3",
+      "Value": "\"Troubling news, Your Highness. Magic has turned wild in one of the regions. Spells are not working as intended. The incidents are numerous and varied. While trying to repair his carriage, an experienced mage unwittingly levitated a bystander. Elsewhere, a famous illusionist was setting off fireworks, but instead turned the ground under his audience's feet into deep and slippery mud.\""
+    },
+    {
+      "Key": "327c5721-8a25-4f9c-a942-fbb4ffe01adf",
+      "Value": "\"Your subjects are cowering at shadows again. Somewhere off in the provinces, spells have stopped working as intended. One 'mage' tried to repair his wagon, and instead levitated one of the onlookers. Another wanted to captivate and amaze the idiots gathered around him by means of simple fireworks — and ended up turning the ground under their feet into deep, loose mood. There's no end to the complaints: magical fires, acid storms, ferocious attacks of animated furniture...\""
+    },
+    {
+      "Key": "e025c736-7aa8-4caf-87d7-548a3b536428",
+      "Value": "\"New reports pour in by the day — magical fires sweep the settlements, storms of acid form from nothing. Furniture comes to life and attacks its owners! The worst part is that we have no clue as to the nature or cause of this. There are simply no scholars with sufficient knowledge remaining in the kingdom. — We put too many restrictions on the inhabitants of the mages' quarter... All that remains is to deal with the consequences.\""
+    },
+    {
+      "Key": "8d53a93b-4a1a-4599-aa54-7fcde57183b6",
+      "Value": "\"The High {mf_HighPriest|Priest|Priestess} may be able to help those who are suffering. — For now, divine magic remains unaffected by the anomaly. Still, who can say how long it will stay that way? If you want my advice, support our governors with gold from the treasury. That way they'll be able to solve any crises in a timely manner, as the situation dictates.\""
+    },
+    {
+      "Key": "8619760e-db95-4423-9f32-081a6b5cd593",
+      "Value": "\"Of course, no one had any idea what was happening until I intervened and determined that we're dealing with a magic anomaly. Perhaps I would even be willing to study it a bit more closely… However, since you've put all these restrictions on mages, there's no one left in the {mf|barony|barony|kingdom|kingdom} with enough intelligence to assist me. And naturally, I have no wish to pursue such research alone.\""
+    },
+    {
+      "Key": "42fbf8cd-8e39-4661-83b5-cb3bf7d3b85c",
+      "Value": "{n}Octavia is as pale as ash.{/n} \"{name}… There was a poisonous gas leak tonight, during another experiment in the magic quarter. It's... it's horrendous. People died in their homes, unable to crawl to their door… Many simply tucked in for the night, never to awaken... It wasn't until early morning that someone heard some weak moans coming from one of the streets that run alongside the quarter...\""
+    },
+    {
+      "Key": "e32d66cf-8c2f-4a9e-afbc-385f9f035bc6",
+      "Value": "{n}The Storyteller looks concerned.{/n} \"Tragedy has struck the magic quarter, Your Highness. Another one of their experiments ended in a poisonous gas leak. However, because the experiment was held in the dead of night, the alarm came too late. People died silently in their own homes. — Too weak to get away, too weak to call for help...\""
+    },
+    {
+      "Key": "020d8c26-fb25-402e-af16-e5613a778db1",
+      "Value": "\"Ha! The lower races are so entirely ill-suited for magic! Last night's experiments in the mages' quarter ended in a poisonous gas leak that went unnoticed for hours. As one would expect, it was morning by the time our dim-witted townsfolk realized what was happening. — Once they started stumbling over their neighbors' corpses.\""
+    },
+    {
+      "Key": "12b3da69-8b31-4915-8412-e4faac37a01e",
+      "Value": "\"New reports pour in every day — magical fires, acid storms, attacks of animated furniture… The reason behind this magic anomaly is beyond our understanding, for not a single one of our subjects is knowledgeable enough about magic. Our greatest scholars left the kingdom a long time ago, citing 'infringement on their freedom to research'. Now we can only battle the consequences.\""
+    },
+    {
+      "Key": "3a4be593-6490-4100-8fb9-3ad1f2cda4f6",
+      "Value": "\"The Treasurer could simply send some money to the poor souls, and hope they can deal with their problems themselves. However, the more reliable course would be to enlist the aid of the High Priest. Divine magic is powerful, and unlike arcane magic, it remains untouched by the anomaly. — It still works as it's supposed to.\""
+    },
+    {
+      "Key": "9c03f7c8-9694-4941-8b26-c33335dd432d",
+      "Value": "\"As always, the knaves expect that you… Your Highness… shall come to their rescue. Perhaps the Treasurer can buy their silence for a few coins. Or you could order the High {mf_HighPriest|Priest|Priestess} to intervene. In any case, it is pointless for me to help you reach a decision. The suffering of the rabble are no concern of mine. Therefore, I shall leave it up to you to deal with this most fascinating dilemma.\""
+    },
+    {
+      "Key": "5d942d0b-1b0e-4ad1-9193-c32ad8979d0a",
+      "Value": "\"The poisonous cloud is no more — the wind dissipated it. But everywhere there are people wounded and disfigured by the gas. There's no two ways about it — we must help them! I suggest sending our best healers and priests in immediately. What use is a monetary compensation if you've become a cripple!\""
+    },
+    {
+      "Key": "868d7380-875c-4dbf-b200-6fd7e5eb8343",
+      "Value": "\"The poisonous cloud has dispersed, but its victims are many. We could ask the High {mf_HighPriest|Priest|Priestess} to send healers into the quarter, in hopes of saving some of those who are dying — but they have little hope of success. However, it would be best if the treasurer provides those afflicted with a monetary compensation. Some will be wish to hire healers for their loved ones, and others — gravediggers.\""
+    },
+    {
+      "Key": "d80c8f38-7dbe-47ef-b8e1-353864ce692b",
+      "Value": "\"The High {mf_HighPriest|Priest|Priestess} could deal with the wounded. The Treasurer could open the {mf|barony|barony|kingdom|kingdom}'s coffers and give out gifts to all who suffered. I see no point in either, so do whatever you see fit. Frankly, I simply cannot care…\""
+    }
+  ]
+}

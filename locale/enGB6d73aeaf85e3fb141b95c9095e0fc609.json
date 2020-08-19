@@ -1,0 +1,53 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "86ba0e3c-5081-4f67-826c-866964451883",
+      "Value": "\"Don't, Tristian! As you said, evil can tempt anyone! You're stronger than it — fight it!\""
+    },
+    {
+      "Key": "975bb6a0-ff90-4fb1-89c6-c43650ae603d",
+      "Value": "\"Give me the Oculus! Now!\""
+    },
+    {
+      "Key": "97e782a6-56e7-449f-b79d-990f5793f433",
+      "Value": "\"I'll kill you for this, traitor!\""
+    },
+    {
+      "Key": "f95b6cdf-6bae-4788-a502-1bf8adc87f04",
+      "Value": "\"Tristian! I don't believe you're doing this willingly! Stop it — for me!\""
+    },
+    {
+      "Key": "4a6abebd-e85a-42e6-82d2-b195999935ed",
+      "Value": "{n}Tristian's silhouette, holding the Oculus of {g|Abaddon}Abaddon{/g}, is a stunning contrast — a terrible darkness against the shining portal. The cleric doesn't meet your gaze — his eyes are focused on the gateway. He speaks faintly, as if lost in its light.{/n} \"I must take it. Forgive me.\""
+    },
+    {
+      "Key": "c9bee384-2ca2-4840-a468-a077ac305562",
+      "Value": "{n}Tristian hesitates. When he turns to you, his eyes are filled with {d|c31 Tris Persuade}pain{/d}.{/n} \"I... I cannot, {name}! It is not my will... but I am bound by a force greater than my own, and I must bring them the Oculus. But...\"{n}Tristian's voice, once despairing, suddenly takes on a strange hope — realization.{/n} \"I can destroy it.\""
+    },
+    {
+      "Key": "2dc3b6a1-166a-4797-b687-892c1ece8765",
+      "Value": "\"No! Don't ask for something I can't give you! The force that compels me, calls for me — and I must answer it!\""
+    },
+    {
+      "Key": "048d38dd-6076-4ecd-8d04-1322e1a18c02",
+      "Value": "{n}Tristian lowers his head. You can barely hear his words.{/n} \"If my will was my own, I'd grant your wish. Forgive me.\"\n{n}Without another word, Tristian steps into the portal and vanishes in its light.{/n}"
+    },
+    {
+      "Key": "87818461-580f-4a32-b55d-f25265218ff2",
+      "Value": "\"I must leave. I pray to {g|Sarenrae}Sarenrae{/g} that you find it in your heart to forgive me.\"\n{n}Without another word, Tristian steps into the portal and vanishes in its light.{/n}"
+    },
+    {
+      "Key": "16c1e708-11bf-4197-b6a1-14c4787f3354",
+      "Value": "\"The one who can't see evil will smite an entity that tempts others; the messenger of good, deprived of sunlight, gains the power to dispel the darkness.\" {n}Tristian casts the Oculus of {g|Abaddon}Abaddon{/g} at his feet and raises his hands over his head.{/n} \"Dawnflower! Healing Light! {g|Sarenrae}Merciful Sarenrae{/g}, your servant and champion calls for you! Grant me the power to remove the last obstacle on the path of salvation! Grant me the courage to spare the world from the abominations that threaten it!\" {n}A light blazes through the tomb — and Tristian's hands become aflame with sunlight. He covers his eyes with his palms — and utters a blood-curdling scream. Without taking his hands from his face, Tristian slams his heel downwards, shattering the Oculus of Abaddon beneath his weight.{/n}"
+    },
+    {
+      "Key": "42e35b70-802d-404d-82ea-81c0ece6988f",
+      "Value": "{n}Tristian removes his hands from his face — and his blind white eyes stare past you.{/n} \"Now I can't see evil... oh, {g|Sarenrae}Sarenrae{/g}! The price of faith is high — I shall never see your sacred light again.\" {n}Tristian bursts into harsh laughter.{/n} \"The end! The end of this nightmare! I'll accept punishment, any punishment, just to have it end! Only one last shackle remains, and this is done!\" {n}Tristian turns and vanishes into the portal.{/n}"
+    },
+    {
+      "Key": "b2b43ed0-cdb5-4f22-bf95-c34ada76ea65",
+      "Value": "{n}Tristian turns around and looks at you. Tears are running down his pale face.{/n} \"Even now... even now you don't back away from me! I am so worthless... for not even trying...\" {n}The priest looks down at the Oculus of {g|Abaddon}Abaddon{/g}.{/n} \"But I will end this now.\""
+    }
+  ]
+}

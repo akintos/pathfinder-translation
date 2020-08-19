@@ -1,0 +1,93 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "0e90b4ce-6216-4765-8887-e5fb0e5063d0",
+      "Value": "\"Why would the Swordlords care about Varnhold?\""
+    },
+    {
+      "Key": "5bc42616-17a9-4d5f-bd40-dbfe32cb1c8d",
+      "Value": "\"What do we know of Varnhold?\""
+    },
+    {
+      "Key": "5c583cd8-3ed0-4a4d-bd52-1418336d463c",
+      "Value": "\"And why should I drop everything and rush to help the Swordlords? I suppose that question would be better addressed to Lady Aldori. Prepare the letter and send it immediately — I won't let some Restovic upstarts tell me what to do, as if I were some servant.\""
+    },
+    {
+      "Key": "c1e36225-c8ea-4c04-9e44-8aba96abe0b9",
+      "Value": "\"Varnhold isn't far off. We should find out what happened there before the same fate befalls us too.\""
+    },
+    {
+      "Key": "ac33eb90-36eb-4ffe-93b5-b160a0a1383d",
+      "Value": "\"What do you think has happened to Varnhold?\""
+    },
+    {
+      "Key": "65e191f8-2457-4d15-b9a7-51cf2638a57d",
+      "Value": "\"Maybe Varn simply decided to stop dealing with Restov?\""
+    },
+    {
+      "Key": "ba81152e-4e23-4162-bb75-c72e94849776",
+      "Value": "\"Your Grace, we have urgent news from Jamandi Aldori! The Swordlord is asking for aid with an unusual problem. Here is {g|JamandiVarnholdTrouble}her letter{/g} — please read it when you have a moment.\""
+    },
+    {
+      "Key": "fa358e07-0270-4a56-9c19-79ab6ef93c6c",
+      "Value": "\"Greetings, Your Grace. I have {g|JamandiVarnholdTrouble}an urgent message{/g} from Jamandi Aldori. It seems the {g|Swordlords}Swordlords{/g} have — again — proved their inability to rule their subjects. See for yourself — here's the message from Jamandi.\""
+    },
+    {
+      "Key": "eb650d79-dfaf-4e67-9a01-52913623ec2b",
+      "Value": "\"I bring tidings in good measure — and bad. As for the good, it seems the {g|Restov}Restov{/g} Swordlord Jamandi Aldori honors us with her attention. She jotted you {g|JamandiVarnholdTrouble}a nice little letter{/g}. The bad tidings? She wants us to prove ourselves worthy of such recognition.\""
+    },
+    {
+      "Key": "cbf082d5-5904-4f05-a7c2-da36b9de314d",
+      "Value": "\"She writes that a while ago she stopped receiving reports from {g|Varnhold}Varnhold{/g} — a neighboring barony, established by the Swordlords' protege, {d|Varn}Maegar Varn{/d}. But it is not only letters that stopped coming — trade caravans, couriers, all traffic from Varnhold has ceased. It is as if the barony has disappeared.\""
+    },
+    {
+      "Key": "467267f9-a9cc-48fa-b99b-bd525d3f9a63",
+      "Value": "\"Jamandi Aldori expects your help with this matter, for she knows of your good relations with Maegar. She asks you to go to {g|Varnhold}Varnhold{/g} and find out why they have fallen silent.\""
+    },
+    {
+      "Key": "29a3068a-0ef9-4987-930c-c27f0f1db46f",
+      "Value": "\"Jamandi Aldori seeks allies with anyone who has proven to be trustworthy — even if only a little. Considering that {g|Varnhold}Varnhold{/g} is the closest thing to an outpost on the east edge of the {g|River Kingdoms}River Kingdoms{/g}, it's also useful to her in keeping an eye on {g|Dunsward}Dunsward{/g} and the surrounding area.\""
+    },
+    {
+      "Key": "9fb0140e-fe28-4af1-95ac-eb24740ae454",
+      "Value": "\"I appreciate your determination in solving diplomatic issues — though, in my opinion, you may wish to massage your wording somewhat. I'll send the letter to {g|Restov}Restov{/g} immediately.\""
+    },
+    {
+      "Key": "70b2889d-85a3-4be2-bcbc-57615119cbd7",
+      "Value": "\"This barony is much alike your own. It was also established by a mercenary, {d|Varn}Maegar Varn{/d}. He got his title at the same event you did.\""
+    },
+    {
+      "Key": "b682fa72-3ce2-4238-87ea-f5a3d36da83f",
+      "Value": "\"Then it's time to gather a party and head to {g|Varnhold}Varnhold{/g}, Your Grace.\""
+    },
+    {
+      "Key": "ebc3a856-8dee-48da-98cb-f40b757e8df0",
+      "Value": "\"{d|Varn}Maegar Varn{/d} is third or fourth son in the family, so he couldn't claim his father's inheritance. Looks like he hoped to establish a settlement of his own and gain wealth and prosperity that way.\""
+    },
+    {
+      "Key": "dd930a13-1afb-400a-a998-7bf86456601f",
+      "Value": "\"Hmmm... a riot? A rebellion? But if that were the case, there would be refugees. Whatever happened there, it must have been sudden indeed — perhaps a bandit attack, barbarians, a plague… whatever it was, no one outside {g|Varnhold}Varnhold{/g} seems to know what happened.\""
+    },
+    {
+      "Key": "5ac54445-2088-4991-be8f-97f70f6f1c5b",
+      "Value": "\"Judging by Aldori's letter, the silence doesn't seem voluntary. Otherwise at least one person would have reached a neighbor and spoken about what had happened there.\""
+    },
+    {
+      "Key": "a767dd3d-2943-4c82-831b-4950d52b1a78",
+      "Value": "\"You really know how to talk to those insolent {g|Swordlords}Swordlords{/g}! I'll just go ahead and add some lines of my own to your letter.\""
+    },
+    {
+      "Key": "ca272084-50b1-4c54-8391-41a6d0feb38a",
+      "Value": "\"How dare you, {mf|baron|baroness}?! You owe much to Lady Jamandi, yet you repay her with insults? Fine, I'll compose the letter, though I'll use milder expressions — as for you, you should go and solve the mystery of {g|Varnhold}Varnhold{/g}!\""
+    },
+    {
+      "Key": "50f2f9c7-d0c1-43b5-a7b0-4cee012c9523",
+      "Value": "\"Lady Aldori asks you to head to {g|Varnhold}Varnhold{/g} at once — it's a barony led by {d|Varn}Maegar Varn{/d}, a brave soul who carved out the settlement from the wilderness. Until recently he eagerly... and frequently... relayed to the {g|Swordlords}Swordlords{/g} his many successes, but then the letters suddenly ceased. As you may expect, this is a matter of some concern!\""
+    },
+    {
+      "Key": "c1af8cd6-e9f1-41eb-8b71-55d020a49d26",
+      "Value": "\"Remember that annoying {d|Varn}Maegar Varn{/d}, who couldn't stop pestering you? Seems like he grew tired of Aldori's leash, so he stopped answering the {g|Swordlords}Swordlords{/g}' letters. But Varn alone wouldn't raise so much concern — according to the letter, the settlement itself seems to have vanished!\""
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "203cf607-fb33-4bd1-966c-5d59d575bdcc",
+      "Value": "\"He helped us against the goblin tribes... I think I should return the favor.\""
+    },
+    {
+      "Key": "5ad4f632-679d-4f20-9244-a44b35db19ff",
+      "Value": "\"I'll hear what he has to say. Send him in.\""
+    },
+    {
+      "Key": "59ece8df-02b4-4522-a781-f3475a4d3c7c",
+      "Value": "\"Tell him I await him in the dungeon, and when he enters a cell, shackle him there.\""
+    },
+    {
+      "Key": "3f21c3a3-604d-4e50-8ea3-1158bfa5df47",
+      "Value": "\"He has served his purpose. Have the guards take him and execute him.\""
+    },
+    {
+      "Key": "1063031b-a822-47c1-bb06-c81a5a8edb82",
+      "Value": "\"Turn him away, I don't have time for him right now. Or ever.\""
+    },
+    {
+      "Key": "7e2b743c-dc58-4974-ab5d-e02aca09c012",
+      "Value": "\"How can you help?\""
+    },
+    {
+      "Key": "a4b33db1-6d96-4f05-8db6-0eb0bf1d5ee9",
+      "Value": "\"Guards, have this creature thrown in chains.\""
+    },
+    {
+      "Key": "743e7aac-71ad-4aad-92d2-5cbc83f276b7",
+      "Value": "\"Guards, have this creature executed.\""
+    },
+    {
+      "Key": "edbe09cd-09a9-4610-8d5c-dbd560a69b83",
+      "Value": "\"Very well. We'll travel to Oleg's soon.\""
+    },
+    {
+      "Key": "662c7721-f3c8-4c37-a8ec-f243363c7aed",
+      "Value": "\"Very well. I have instructions on how I want you to handle it.\""
+    },
+    {
+      "Key": "3b3d686b-df26-4fdb-97d9-ae5e54fb9328",
+      "Value": "\"If it keeps you out of here, go attend to it.\""
+    },
+    {
+      "Key": "d0107104-37e2-4724-9a47-46482a539a70",
+      "Value": "\"I'm not doing it.\""
+    },
+    {
+      "Key": "32a54d15-570d-46b7-b344-561fa0ca7ebd",
+      "Value": "\"I'll make you my specially-designated Warden, drive them out. By force, if necessary.\""
+    },
+    {
+      "Key": "e2c03f14-49c2-4909-8ec4-eb9bdfa47d5a",
+      "Value": "\"Tell them you are my Councilor. Ask them, politely, to move elsewhere – I don't want any bloodshed.\""
+    },
+    {
+      "Key": "5808d433-316f-424b-a6d0-6e183350be6f",
+      "Value": "\"Represent them as my Grand Dipl- er, Diplomat. Tell them they can set up a new tribe, but at least twenty leagues from Oleg's. Downwind.\""
+    },
+    {
+      "Key": "f0987c88-92d3-418a-9657-2db7b1188ad5",
+      "Value": "\"Not today, it's not worth our time.\""
+    },
+    {
+      "Key": "74ccb407-6719-469d-85f0-257c76c412ba",
+      "Value": "\"'We'? No, this is a mission for you.\""
+    },
+    {
+      "Key": "d07977d5-8774-41e4-b387-9041805698c9",
+      "Value": "\"A Hero grows on his own – and through his accomplishments.\""
+    },
+    {
+      "Key": "8930ee7e-986c-4997-a4a3-94053ecfca4a",
+      "Value": "\"It may be wise if I shepherded... er, accompanied... you.\""
+    },
+    {
+      "Key": "6ea61291-2f64-4c0e-8aa1-82e7dddea163",
+      "Value": "\"Yes, let's resolve this quickly.\""
+    },
+    {
+      "Key": "2f8c1a93-e9b1-432b-82e7-a64dfd447ebf",
+      "Value": "\"We'll depart when I say.\""
+    },
+    {
+      "Key": "768c74cb-4519-4df7-8870-cd6e0bd02fd5",
+      "Value": "\"No, I have other things to attend to.\""
+    },
+    {
+      "Key": "465a071f-01a7-43b9-a508-48852bcde870",
+      "Value": "\"Your Grace...\" {n}Kesten coughs politely.{/n} \"The goblin... the one you found, has asked to see you. He claims you are in need of... training. I think he is rather in need of a bath. Several.\""
+    },
+    {
+      "Key": "dcd8e334-af71-466d-ab0e-2fa6e5334758",
+      "Value": "\"Your Grace...\" {n}Jhod coughs politely.{/n} \"The goblin... the one you found, has asked to see you. He claims you are in need of... training. I think he is rather in need of a bath. Several.\""
+    },
+    {
+      "Key": "985fc0e3-11aa-4fba-980c-a6242daf10ee",
+      "Value": "\"Your Grace.\" {n}Kesten gives a nod, then nods to the guards, who file out of the room.{/n}"
+    },
+    {
+      "Key": "e4854b0a-533d-430b-b20d-b6a44d5c4f99",
+      "Value": "\"Your Grace.\" {n}Jhod gives a nod, then nods to the guards, who file out of the room.{/n}"
+    },
+    {
+      "Key": "138175a2-527d-44ef-9e7b-c7c35fefcafe",
+      "Value": "{n}You hear the sounds of weapons being drawn, a plaintive screech, and a crash of metal, then silence. After a moment, a guard returns, nods, then resumes his stance. After another moment, there is another screech, a loud clang, then silence... then nothing.{/n}"
+    },
+    {
+      "Key": "3441965e-7849-4116-b7c0-c18b845f3604",
+      "Value": "{n}Nok-Nok strides in, as best as his short legs can manage, then his gait slows, then stops as he takes in the throne room – his eyes and ears swivel independently, as if trying to take every direction in at once – after scanning the area around him, he looks upward, and squints, as if uncertain if there's a ceiling above him or not. He stands still, swaying slightly, eyes affixed on the ceiling.\nOthers in the throne room are disdainfully silent, some wrinkle their nose and take a step back. Some of the guard's hands fall to the hilt of their blades.{/n}"
+    },
+    {
+      "Key": "58959dd4-0a7a-4d3e-b358-b35132d935a2",
+      "Value": "{n}Nok-Nok's head snaps down, then seeing you, he gives a sickle-grin, his eyes gleaming.{/n} \"Sidekick? Almost didn't see among all longshanks.\" {n}He frowns at your throne, then cocks his head, confused.{/n} \"Why in my chair?\""
+    },
+    {
+      "Key": "c23b1c78-015a-480d-a3c9-f794c17e9671",
+      "Value": "{n}There is a light chuckle from someone in the room, quickly silenced.{/n}"
+    },
+    {
+      "Key": "25448da9-d27e-45a6-a1a8-f177fcacc955",
+      "Value": "\"Took a while to find way here...\" {n}Nok-Nok glances around.{/n} \"...but now here to take rightful place, be a Hero – and show you how to be a Hero.\" {n}He nods sharply, and hooks his fingers in his belt.{/n} \"I can help, like before, side by side, Big Hero...\" {n}He points to himself.{/n} \"...and not Big Hero.\" {n}He pauses.{/n} \"You need it.\""
+    },
+    {
+      "Key": "ee8e1ab7-5cbf-4b1a-af02-60547155ebde",
+      "Value": "{n}Kesten frown.{/n} \"Actually, Your Grace, if you are considering accepting assistance from this... this...\""
+    },
+    {
+      "Key": "5c6bc420-16ed-4c48-b636-062846041807",
+      "Value": "{n}Jhod frown.{/n} \"Actually, Your Grace, if you are considering accepting assistance from this... this...\""
+    },
+    {
+      "Key": "c5912bfb-05b8-45cf-8c2e-370df2c9ea4d",
+      "Value": "\"Nok-Nok.\" {n}Nok-Nok raps the ground with his heel twice for emphasis, then winces.{/n}"
+    },
+    {
+      "Key": "f9b91403-d1db-45ed-9db8-bc137029b4b6",
+      "Value": "{n}Kesten's frown deepens.{/n} \"If this 'Nok-Nok' TRULY wishes to be of help and is one goblins might listen to, there have been sightings of goblins near Oleg's... possibly dispossessed by our recent encounter-\""
+    },
+    {
+      "Key": "221bacf1-5d47-45cc-9abc-aaee7bd31a56",
+      "Value": "{n}Jhod's frown deepens.{/n} \"If this 'Nok-Nok' TRULY wishes to be of help and is one goblins might listen to, there have been sightings of goblins near Oleg's... possibly dispossessed by our recent encounter-\""
+    },
+    {
+      "Key": "38d8e217-bce4-4cab-857f-5cb6c025ec36",
+      "Value": "\"Massacre,\" {n}Nok-Nok corrects brightly.{/n} \"Chopped them all up except those who ran fast. New tribe probably have very long legs, very hard to catch.\" {n}His eyes alight, and he grins.{/n} \"But not for me, I can round them up!\""
+    },
+    {
+      "Key": "7525d6a0-8c8c-4112-b616-0979e2b437f8",
+      "Value": "\"But...\" {n}He frowns again.{/n} \"But unless they were still being chased, it's not like them to keep moving. Tires one out. They'd better stay in the capital, like Nok-Nok, even if...\" {n}He wrinkles his nose.{/n} \"...it smell bad here.\""
+    },
+    {
+      "Key": "ce712f8b-d36f-4f79-ba2f-0182e136da54",
+      "Value": "\"Ah... yes. Oleg has sent word of these goblins via courier, but he has been reluctant to leave in case they raid the Post in his absence. Apparently, they've been quite diligent in trying to raid his storeroom. If your goblin ally could deal with them...\""
+    },
+    {
+      "Key": "7115df90-7ae5-4f9f-bba0-27c18ac3c15d",
+      "Value": "\"Ah... yes. Oleg has sent word of these goblins via courier, but he has been reluctant to leave in case they raid the Post in his absence. Apparently, they've been quite diligent in trying to raid his storeroom. If your goblin ally could deal with them...\""
+    },
+    {
+      "Key": "972ccce4-8df8-4cc9-bb8c-2052dcb3627a",
+      "Value": "{n}Nok-Nok nods, then pauses as he sees you remaining seated.{/n} \"Do... we go now?\""
+    },
+    {
+      "Key": "38a365ec-0ada-4af3-bc61-a9f981753cbc",
+      "Value": "{n}Nok-Nok's ears perk up in your direction.{/n}"
+    },
+    {
+      "Key": "61d8bdd4-0219-47d7-b2f0-760a766a7284",
+      "Value": "{n}Nok-Nok nods, standing proudly. He makes what might be a ragged salute, interrupted by him noticing something on his wrist, which he rubs away with a frown.{/n} \"As you command, as a Hero w-\" {n}He rubs his wrist again, then grunts.{/n} \"...will go. Lead to post, Nok-Nok follow!\""
+    },
+    {
+      "Key": "59b9dc24-49eb-446a-9a26-37f3fae44588",
+      "Value": "{n}Nok-Nok shrugs.{/n} \"Might want to go quick-quick, goblins not known for staying in a place for too long when longshanks around.\" {n}He makes what might be a ragged salute.{/n} \"When longshanks good to go, Nok-Nok ready.\""
+    }
+  ]
+}

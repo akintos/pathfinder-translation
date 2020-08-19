@@ -1,0 +1,209 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "84b29768-a721-4b87-a32c-edbd749af936",
+      "Value": "\"I'd like to know more about you.\""
+    },
+    {
+      "Key": "957dc2c4-d6db-473f-b14b-2cebf1790f0f",
+      "Value": "\"A half-orc among the Brevic aristocracy is a rare sight indeed.\""
+    },
+    {
+      "Key": "4425d1ef-27e3-4d6b-a078-d05cea586578",
+      "Value": "\"Tell me of your origins.\""
+    },
+    {
+      "Key": "90374c90-b94f-4d04-af42-d665344e4f29",
+      "Value": "\"What's it like for you, living among humans?\""
+    },
+    {
+      "Key": "98083f42-cb7f-4680-a971-4051bbf01749",
+      "Value": "\"I need to discuss politics and affairs of the {mf|barony|barony|kingdom|kingdom} with you.\""
+    },
+    {
+      "Key": "825c3acf-fcca-4946-b5af-0d4ad07ad6be",
+      "Value": "\"You must know much of the history of Brevoy and the neighboring lands.\""
+    },
+    {
+      "Key": "32ada20d-d852-465e-90bc-44c6be7f7611",
+      "Value": "\"What's the situation between the Aldori and the Royal House Surtova?\""
+    },
+    {
+      "Key": "9b7dca86-f6eb-4ddf-848e-427c509c5617",
+      "Value": "\"What can you tell me about the River Kingdoms?\""
+    },
+    {
+      "Key": "49e6efb9-041c-4aa0-af58-3a682f2a83dd",
+      "Value": "\"I have questions on another topic.\""
+    },
+    {
+      "Key": "ebb741cc-64f4-4544-a7d4-b4d270439cb6",
+      "Value": "\"I'd like to hear about the early history of Brevoy.\""
+    },
+    {
+      "Key": "4356c556-4650-4c6a-9e07-ec198cbf7a81",
+      "Value": "\"Tell me about the Swordlords.\""
+    },
+    {
+      "Key": "f32b0196-b754-4dea-989a-03f202b2fd34",
+      "Value": "\"Let's change the subject.\""
+    },
+    {
+      "Key": "f86ccdee-09de-4627-ab04-061fb57d16c4",
+      "Value": "\"Thank you. Let's discuss something less personal.\""
+    },
+    {
+      "Key": "6c9b8458-4517-4282-ba76-206bc706ad7f",
+      "Value": "\"Thank you. I've learned what I needed.\""
+    },
+    {
+      "Key": "40d50088-3340-4b02-8c4a-68797f3b4423",
+      "Value": "\"So the baron was the first Swordlord?\""
+    },
+    {
+      "Key": "f9c8a2f9-c540-40c9-b915-18fd4ba3a77f",
+      "Value": "\"I understand. It's a true shame.\""
+    },
+    {
+      "Key": "2a6e4367-29f8-4633-82ca-e52376b43be9",
+      "Value": "\"Wouldn't it be better to accept yourself completely as you are?\""
+    },
+    {
+      "Key": "21d29fbc-3524-4aa3-95c0-ca575f12850e",
+      "Value": "\"People will never truly accept those like us as their own.\""
+    },
+    {
+      "Key": "4fba7b0b-8a25-480f-a938-f1ea365d345b",
+      "Value": "\"Can I rely on you in matters of state?\""
+    },
+    {
+      "Key": "453b320f-20c2-4da4-9cc6-576245c8d812",
+      "Value": "\"How do you like being General?\""
+    },
+    {
+      "Key": "37794506-86cb-4881-a27f-4e36cca0a733",
+      "Value": "{n}Kassil Aldori, elegantly dressed in formal clothes as always, welcomes you with a courteous half bow.{/n} \"Your {mf|Grace|Grace|Highness|Highness}!\""
+    },
+    {
+      "Key": "e7c30065-e4db-4efc-8446-aaba0e341f94",
+      "Value": "\"Happy to serve, Your {mf|Grace|Grace|Highness|Highness}.\" {n}Kassil bows courteously.{/n}"
+    },
+    {
+      "Key": "e11910cd-7832-43fd-aa6c-c0af11b52d4e",
+      "Value": "\"I grew up alone on the streets of {g|Restov}Restov{/g} — I know nothing of my parents. It's more than likely that my mother just wanted to be rid of me — probably left me somewhere in an alley as a baby. And I don't feel I have the right to blame her.\""
+    },
+    {
+      "Key": "6f7a68d6-ea85-45ab-9540-0ff0137385c5",
+      "Value": "\"I don't remember how I survived. My first memory is of sneaking into someone's backyard — I must have been three or four — and trying to steal food from a cat.\" {n}Kassil smiles sadly.{/n}"
+    },
+    {
+      "Key": "69a3ba3b-f71c-45e4-a8c9-6b812d2a7727",
+      "Value": "\"Lady Jamandi Aldori herself brought me into the family. She picked me up off the streets when I was about fourteen. I was fighting some lord's guardsmen — their master had expressed his wish, in a most inappropriate manner, to acquaint me with his female wolfhound in the hopes of producing offspring.\" {n}Kassil's lips turn up slightly at the corners, stopping just short of looking sinister. No other sign of emotion crosses his face.{/n}"
+    },
+    {
+      "Key": "aff889ce-a7e2-4ae7-ad44-f969707cc844",
+      "Value": "\"I was at what would politely be called a disadvantage when I saw a flashing beam of light reflect off a lone sword. What happened next was too fast for me to follow, but all three of my torturers fell to the ground, a single woman standing above them. She turned to the lord and coldly asked him, 'And just what is it you're doing in here?'\" {n}Kassil speaks almost reverently, genuine awe in his voice.{/n}"
+    },
+    {
+      "Key": "28381511-3b67-4b0f-b191-7c871f5ccf41",
+      "Value": "\"It isn't easy, Your {mf|Grace|Grace|Highness|Highness}. I was born and raised in {g|Restov}Restov{/g} — I don't know a single word of Orc. I devoted my entire life to proving myself worthy to bear the name Aldori. But to most people, I'm still a half-orc first and foremost — anything else is secondary.\""
+    },
+    {
+      "Key": "f1f9a225-7f38-4325-ac86-f353e53bbd81",
+      "Value": "\"How may I be of service, Your {mf|Grace|Grace|Highness|Highness}?\""
+    },
+    {
+      "Key": "0668d165-3ccc-4333-b0b8-ede8a5c82e3e",
+      "Value": "{n}Kassil's eyes light up.{/n} \"In {g|Restov}Restov{/g}, I spent nearly as much time studying historical chronicles as I did training with the sword. What would you like to discuss, Your {mf|Grace|Grace|Highness|Highness}?\""
+    },
+    {
+      "Key": "b9f6a523-63e8-4ef3-8c0a-a44484ce7011",
+      "Value": "{n}Kassil's face remains impassive, but his speech becomes slower, more deliberate.{/n} \"The {g|House Surtova}Surtovas{/g} and the Aldori are... different in nature and spirit. They are as water and stone — a snake and an eagle. When {g|Choral}Choral the Conqueror{/g} came to our lands, the Surtovas didn't even attempt to defend themselves — they gave up the crown in exchange for positions of power in the new court, along with the safety of their lands.\""
+    },
+    {
+      "Key": "cb0fa79e-a8d8-4a93-83cb-41e1949c92fa",
+      "Value": "\"For two centuries we've fought for survival, while the Surtovas have flourished and grown stronger at the side of the throne. Needless to say, now that {g|King Noleski Surtova}King Noleski Surtova{/g} and his sister Natala rule over {g|Brevoy}Brevoy{/g}, our relationship hasn't improved. The {g|House Surtova}Surtovas{/g} fear the Aldori, and the Aldori don't trust the Surtovas — that's the current situation between our houses.\""
+    },
+    {
+      "Key": "a5fd337b-ac68-4ad7-9168-0731996b3575",
+      "Value": "\"That's a story written in blood — Aldori blood, mostly. In the beginning, {g|Brevoy}Brevoy{/g} was two independent lands — {g|House Surtova}House Surtova{/g} reigned over {g|Issia}Issia{/g}, and the Aldori ruled {g|Rostland}Rostland{/g}. They were not peaceable neighbors. Issia's soil was too poor to sustain its population, and its people were too cruel and proud to simply stand by and watch as their neighbors prospered.\""
+    },
+    {
+      "Key": "a97e828a-bcac-435b-b3c1-e34f219565fa",
+      "Value": "\"I'd be willing to bet that {g|Restov}Restov's{/g} northern walls still hold a few marks left by {g|House Surtova}Surtova{/g} soldiers during their frequent raids from ages past. It was {g|Choral}Choral{/g} {g|House Rogarvia}Rogarvia{/g} — later known as Choral the Conqueror — who put an end to all that. He brought each realm to its knees. Only, one side knelt willingly — the other ended up first paying a devastating toll.\""
+    },
+    {
+      "Key": "1c68e9de-343c-474e-ad91-6f5593b6559e",
+      "Value": "\"I could speak for days about the {g|Swordlords}Swordlords{/g}, but I'll try to condense things so as not to bore Your {mf|Grace|Grace|Highness|Highness}! Our history goes back to ancient times, when {g|Rostland}Rostland{/g} was ruled by Baron Sirian First. He was a notorious squabbler and duelist, but at the time, he wasn't as skillful as he thought. After losing a fight against a local gang leader — the baron was the one who issued the challenge — he went into exile to hide his shame.\""
+    },
+    {
+      "Key": "f138f47c-3a07-464d-aa34-71565e678c45",
+      "Value": "\"If it pleases Your {mf|Grace|Grace|Highness|Highness}.\""
+    },
+    {
+      "Key": "0c0e96d2-67f2-4c2f-9fc9-05208338a930",
+      "Value": "\"In times past, they were little more than a nest of bandits. Frankly, that hasn't really changed.\" {n}Kassil frowns disapprovingly.{/n}"
+    },
+    {
+      "Key": "a9845eae-d62f-492e-9a12-6ab05f0b9d22",
+      "Value": "\"Of course, Your {mf|Grace|Grace|Highness|Highness}.\""
+    },
+    {
+      "Key": "53413a79-cffb-4385-b6cc-f541519315de",
+      "Value": "\"But that was just the beginning! No one knows where Sirian wandered, but a few years later, he returned to {g|Rostland}Rostland{/g} a changed man. He challenged that same gang leader to another duel and bested him handily. The baron then declared an open challenge: anyone who could defeat him would be rewarded handsomely.\""
+    },
+    {
+      "Key": "9da02841-ecf0-4c59-8f1d-6a27efabc3c0",
+      "Value": "\"After that, not a month would pass without Sirian seeing another challenger. Renowned fighters and experienced warriors came and went, but none — not a single one! — could best the baron. In those years, Sirian took on his new name — Aldori. But many people preferred to call him simply 'the Sword Baron.'\""
+    },
+    {
+      "Key": "8977c4cc-53ba-4e0e-9764-d7ad02abbd23",
+      "Value": "\"The very same. His heirs inherited the secrets of his dueling style, along with the name 'Aldori'. Ever since, the name has been passed down from master to student along with the title {g|Swordlords}'Swordlord'{/g}. The Aldori are simultaneously a family and an alliance. Swordlords will usually teach their own children, but many of us were brought in from outside the family. Occasionally, you can even find a half-orc fosterling or two.\" {n}Kassil gives a slight bow.{/n}"
+    },
+    {
+      "Key": "9555ffa6-9dea-40e6-b254-0fd186144b56",
+      "Value": "\"My pleasure, Your {mf|Grace|Grace|Highness|Highness}.\""
+    },
+    {
+      "Key": "3d74b652-7b16-4729-8408-0eb8e4d984f2",
+      "Value": "\"I had never seen a {g|Restov}Restovic{/g} noble so afraid — but he was also almost reverent. And this lord was a close companion to the mayor, at that! At the time, I had no idea who this woman was, but I couldn't keep myself from rushing after her — well, hobbling, really — and pleading with her, 'Teach me! Please, teach me!'\""
+    },
+    {
+      "Key": "24baed85-8739-4735-9720-47e91b8379c3",
+      "Value": "\"The Aldori went to war — and lost. I dare not even say 'valiantly lost.' The damage inflicted on {g|Rostland}Rostland{/g}'s armies by the red dragons of {g|Choral}Choral the Conqueror{/g}... Well, it was a slaughter. A crushing defeat.\" {n}A barely noticeable frown darkens Kassil's face.{/n} \"Even with two centuries of effort, the Aldori and Rostland have yet to fully recover.\""
+    },
+    {
+      "Key": "4917d8cb-4cfe-43a9-9457-a6847f96c028",
+      "Value": "\"It infuriated me when I was younger, but with age, I've learned to accept my fate. To me, I'm simply Kassil, a street urchin from {g|Restov}Restov{/g} who became the student of Swordlord Jamandi Aldori. Nothing more, nothing less.\""
+    },
+    {
+      "Key": "eeeff191-83ac-42b2-8c5e-975de2a2da46",
+      "Value": "{n}Kassil shows a reserved but heartfelt smile.{/n} \"You're the ruler of this realm, Your {mf|Grace|Grace|Highness|Highness}. Your example can change the way people see those like me.\""
+    },
+    {
+      "Key": "769c8dea-8655-4191-8b88-93b916f61b69",
+      "Value": "\"Perhaps. But everyone has to answer the question 'What are you?' on their own, and I have.\""
+    },
+    {
+      "Key": "c09947a1-500d-4097-8a81-4c89ff2e64c3",
+      "Value": "\"Be that as it may, there are a select few whose opinions matter to me. I don't concern myself with the opinions of anyone else.\""
+    },
+    {
+      "Key": "7546c216-9236-4410-91cf-c799d9ea48e2",
+      "Value": "{n}You notice Kassil's eyes flash.{/n} \"Certainly, Your {mf|Grace|Grace|Highness|Highness}. To the best of my ability. I've learned from lady Aldori not only the art of the sword, but also the ability to inspire. I could apply myself in the role of military advisor.\""
+    },
+    {
+      "Key": "06228c6c-92a3-4511-b1a8-d6c12ff186a0",
+      "Value": "{n}Kassil bows.{/n} \"I thank you for the faith you place in me. I shall do my best to prove worthy of your trust.\""
+    },
+    {
+      "Key": "8b8d5c5f-f418-49ab-968d-d3e90fc35e4a",
+      "Value": "{n}Kassil frowns for a moment.{/n} \"It seems I am ill fit for state service. I suppose it would be better if I continued as an ambassador for Lady Aldori — and no more than that.\""
+    },
+    {
+      "Key": "df1ebfa0-e9f4-4ad5-8e07-f13626bd006f",
+      "Value": "\"Of all the kingdoms, {g|Pitax}Pitax{/g} is probably of the greatest interest. King Irovetti rose to power too quickly and too easily — I would recommend Your {mf|Grace|Grace|Highness|Highness} take great caution with him.\""
+    }
+  ]
+}

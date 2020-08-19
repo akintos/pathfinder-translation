@@ -1,0 +1,81 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "0994959c-7626-4f94-b588-463c0eab79f8",
+      "Value": "\"Were you crying? May I help you?\""
+    },
+    {
+      "Key": "5dfe6d37-40f8-4016-87f8-3d48e6815f2a",
+      "Value": "\"Do you know Lidika? She lives in this village.\""
+    },
+    {
+      "Key": "8efde16d-6899-4e7e-a4ab-cb97e78f6239",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "68a39800-0c99-444a-9c3a-fc0716b64218",
+      "Value": "\"Irlene sent me. She's looking for Ollie, and she said you might know where to find him.\""
+    },
+    {
+      "Key": "ef750174-49a2-4528-90ce-15b08cf69c04",
+      "Value": "[Give away the chest of gemstones] \"I found it on Ollie's body. I'm sure he'd want his family to have it.\""
+    },
+    {
+      "Key": "438a4948-0ae7-426e-b81a-dd9c80aec90a",
+      "Value": "\"I found Ollie's body. I'm so sorry.\""
+    },
+    {
+      "Key": "dbf7da35-6800-4c9a-9331-9f6005a10934",
+      "Value": "[Let Lidika go]"
+    },
+    {
+      "Key": "cdf563ba-0015-4f3f-aa42-0360cb828a3e",
+      "Value": "\"The {mf|barony|barony|kingdom|kingdom} will support you, now that you've lost your provider.\""
+    },
+    {
+      "Key": "91ecbc7a-ebc2-4efc-b9fd-c9645d2007be",
+      "Value": "\"Please, accept this money. It should last you for a while.\""
+    },
+    {
+      "Key": "29e28b88-a587-4bad-a62b-67fac3dfcb2e",
+      "Value": "{n}A woman with dark circles under her eyes watches you anxiously as you approach. When you come closer, she bows.{/n} \"Greetings, {mf|Your Grace|Your Grace|Your Highness|Your Highness}!\""
+    },
+    {
+      "Key": "82b35e38-66c7-41bc-beeb-c7e5ac4391a9",
+      "Value": "\"Yes, {mf|Your Grace|Your Grace|Your Highness|Your Highness}?\""
+    },
+    {
+      "Key": "7923979f-d6b1-46d7-b65e-2c8bee128f7d",
+      "Value": "\"If only you could track down and punish my lost husband, the bastard! Oh, pardon my language, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. I lost my temper. You see, Ollie, my husband, left on business a few days ago, and he's disappeared. I'm just so angry! And a little scared...\""
+    },
+    {
+      "Key": "502ff46d-c3a5-450b-89b9-e175a1a97f51",
+      "Value": "\"I'm Lidika. Has something happened? Something... Do you know something about my husband?\" {n}The woman's voice rings with fear and anxiety.{/n}"
+    },
+    {
+      "Key": "838cb5c2-fd7e-4982-8b70-42bebbf9813a",
+      "Value": "\"{d|Irlena}Irlene{/d}! That greedy witch!\" {n}Lidika stomps her foot.{/n} \"It was her who sent my Ollie on that mission! If not for her, my husband wouldn't have dreamed of becoming rich! He wouldn't be slaving away for some wench! She's been using him as a packhorse, always ordering him to deliver all kinds of stuff. I have no idea what her deal was, but I can feel it in my bones — no ordinary goods need to bypass guards and highroads in their delivery!\""
+    },
+    {
+      "Key": "5df3ce61-8eed-441a-aecd-345fa8cb39b8",
+      "Value": "\"I don't know where Ollie is. I've been racking my brain for what could have happened! He mentioned he was going to the southern border to grab something from some cleft. He said it was a desolate location, and that the package was safe there... Guess it turns out it wasn't safe, after all!\" {n}Lidika starts crying.{/n} \"He widowed me and orphaned our two children! He's gone, he's dead, I can feel it! He would never just leave us to starve!\""
+    },
+    {
+      "Key": "fb6413e6-218d-4c1b-bef3-3006fb7870af",
+      "Value": "\"Oh... This... This is a fortune! The cursed fortune that ruined my poor husband! If it weren't for the kids, I wouldn't even touch them...\" {n}Lidika wipes her face with a sleeve and smiles wearily.{/n} \"Thank you, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. You saved us, I swear you did.\""
+    },
+    {
+      "Key": "eca0e4e2-3b3b-4371-9ad9-30094738f254",
+      "Value": "{n}Lidika stares at you for a few moments, as if not understanding what you just said. Then she buries her face in her palms and turns away.{/n}"
+    },
+    {
+      "Key": "9eaaae35-0e47-40c6-ae7e-388638fa7fb9",
+      "Value": "{n}Lidika wipes the tears from her eyes. Her whisper is barely audible.{/n} \"Thank you.\""
+    },
+    {
+      "Key": "7f02781b-ca98-40c5-8824-2e212cb684f6",
+      "Value": "{n}Lidika blinks away the tears and looks at you in astonishment.{/n} \"Th... Thank you, {mf|Your Grace|Your Grace|Your Highness|Your Highness}! Thank you for not letting our children starve! And me... I'm nothing without my Ollie...\""
+    }
+  ]
+}

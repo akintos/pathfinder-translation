@@ -1,0 +1,641 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "4dd9ddcd-422c-4123-9b87-0d83a787ceec",
+      "Value": "\"Why are you referring to yourself in the plural, Host?\""
+    },
+    {
+      "Key": "55d6ed4d-478d-4895-adee-b8747e5908d4",
+      "Value": "\"Your evasion is very eloquent. I know only one Eldest from the First World who is called Shyka The Many.\""
+    },
+    {
+      "Key": "585db774-2cb2-4528-a603-5d7c613146ae",
+      "Value": "\"Let's begin.\""
+    },
+    {
+      "Key": "f41440e4-55cb-40a3-843a-ad3f098f7fe1",
+      "Value": "\"Jubilost, Linzi? What's our answer?\""
+    },
+    {
+      "Key": "37998057-65f8-46f0-9a54-4f54638468fe",
+      "Value": "\"Magic.\""
+    },
+    {
+      "Key": "71a8ccdf-705d-42fc-9f90-05e2a1e8f5ff",
+      "Value": "\"Gods.\""
+    },
+    {
+      "Key": "5bafca6a-1e4e-44ea-b867-531efe3fec7b",
+      "Value": "\"Its own will. And tentacles.\""
+    },
+    {
+      "Key": "9458051f-80f6-476a-8112-5080615b43fe",
+      "Value": "\"Its own will.\""
+    },
+    {
+      "Key": "f27ba7cd-a3fb-41b0-84b3-04e35d7c380f",
+      "Value": "\"Tell us, why do you, creatures from the First World, need to organize all this?\""
+    },
+    {
+      "Key": "95b74820-ac72-4f53-9621-3d6421b7c416",
+      "Value": "\"What do you say, Jubilost?\""
+    },
+    {
+      "Key": "7ddb357d-9127-4d7f-aec8-08079858e245",
+      "Value": "\"It's knowledge.\""
+    },
+    {
+      "Key": "f9977b7b-6b8c-467e-ab18-53b7db6724ed",
+      "Value": "\"It's our past.\""
+    },
+    {
+      "Key": "e88d2241-6a02-4187-8c0f-87c296b58627",
+      "Value": "\"It's ambition.\""
+    },
+    {
+      "Key": "56bd8ea6-5f07-4ed5-92e0-228ac2e2a421",
+      "Value": "\"An evil twin brother from another timeline.\""
+    },
+    {
+      "Key": "13eefe10-34d1-42fe-8721-21fb6fa4b5f4",
+      "Value": "\"It's memory.\""
+    },
+    {
+      "Key": "b6d1fc1a-2d8f-4116-9ac9-7d938715637e",
+      "Value": "\"Jubilost?\""
+    },
+    {
+      "Key": "f3daaf0b-01c0-4859-99fb-9fb2c0955931",
+      "Value": "\"A pot of soup.\""
+    },
+    {
+      "Key": "15b348e1-d034-4fc2-8fe1-f15c515b2d70",
+      "Value": "\"A secret.\""
+    },
+    {
+      "Key": "bf620397-da87-4261-ae72-cb8752ffa843",
+      "Value": "\"A house. Or any other property.\""
+    },
+    {
+      "Key": "e16f837c-6883-4d3f-a08c-b200b5bff54c",
+      "Value": "\"Glory.\""
+    },
+    {
+      "Key": "4d4d5c0e-38ce-4c78-af3b-413560c10d09",
+      "Value": "\"Knight!\""
+    },
+    {
+      "Key": "39faf27d-d490-4003-b946-4b087a770f4f",
+      "Value": "\"Dragon!\""
+    },
+    {
+      "Key": "9e22fb00-011b-44cb-9f7c-8e0cc1482d32",
+      "Value": "\"Snag!\""
+    },
+    {
+      "Key": "b0886f5b-a7ca-438c-aa6a-f670964d802e",
+      "Value": "\"Knight!\""
+    },
+    {
+      "Key": "e9cd02f8-8317-4410-8c7c-aa47c1dda91a",
+      "Value": "\"Knight!\""
+    },
+    {
+      "Key": "11a46927-bb00-4006-9835-33e78a62c7f6",
+      "Value": "\"DRAGON!\""
+    },
+    {
+      "Key": "4f695b96-c066-48c4-b61a-c5b1b661cd57",
+      "Value": "\"Snag!\""
+    },
+    {
+      "Key": "88377fd3-a1c6-48e5-9e4d-aaced72e6558",
+      "Value": "\"Dragon!\""
+    },
+    {
+      "Key": "4af33b7e-7592-4a2b-9102-a6e08dd10130",
+      "Value": "\"Snag!\""
+    },
+    {
+      "Key": "6c2a1f25-12fb-495d-9632-d500a0432b85",
+      "Value": "\"I want to know why the gnomes left the First World.\""
+    },
+    {
+      "Key": "bee1e8ac-dd69-4254-a627-c5cf061649c2",
+      "Value": "\"I want to know about this affliction – the Bloom – that fell on my barony.\""
+    },
+    {
+      "Key": "4878bd92-65cc-4df7-8a0d-3f421777d75e",
+      "Value": "\"I want to know why you organized all this, Host.\""
+    },
+    {
+      "Key": "1e8dd19d-ec17-43f2-96dd-cf34e52aa16d",
+      "Value": "\"I want to know who my love is, with whom I'm bound to tie my lot.\""
+    },
+    {
+      "Key": "c37dae88-9bc6-450d-8029-b6b72d1c48c7",
+      "Value": "\"I want to know how to gain power and immortality.\""
+    },
+    {
+      "Key": "cc031b26-8727-493b-953a-22cb5220eb7f",
+      "Value": "\"Any suggestions for a good pet name?\""
+    },
+    {
+      "Key": "d2efa027-251c-4df7-9ff8-3f8fe35a2cf0",
+      "Value": "\"My grandmother!\""
+    },
+    {
+      "Key": "b97549aa-a334-468c-bbb0-1b3287417df3",
+      "Value": "{n}The hooded creature looks mundane, but after looking for a time, one might notice the figure's contours tremble and flow, as in a haze.{/n}\n\"Welcome to the Inconsequent Debates! You can call us the Host. We are the reason for all that happens here today.\""
+    },
+    {
+      "Key": "02164576-5e9a-43d1-9834-2c2c367238a2",
+      "Value": "\"You've read the rules, have you not? Not that there is anything useful in them. We only made up the real rules the day after tomorrow, then forgot them and had to make new ones. So it's simple: you want, as your reward, for us to answer a question. So the competition will involve answering questions. We ask, and one in each triplet answers. And always the same one – the others can only prompt. Let's see... it will be you, little kobold, you, Sir Allfrey, you, Nyrd, and you, {name}.\""
+    },
+    {
+      "Key": "a3a05d14-a3ed-4ba7-9ec9-105dfe061065",
+      "Value": "\"Remember one thing: here at the Inconsequent Debates, there are no right or wrong answers. Every answer has weight, and each will be weighed. Don't choose the lightest one – your rival might find a heavier argument. And most importantly, light answers are no fun for us.\""
+    },
+    {
+      "Key": "cd20b6c4-88cd-40db-98a1-b77da767765f",
+      "Value": "{n}You hear laughter emerge from under the hood.{/n} \"You know very well, you've met us, {name}... But it was a different us at a different time. For now be satisfied that we do not wish to disclose ourselves.\""
+    },
+    {
+      "Key": "edb959d5-47b5-4dbb-921b-94b7080bfa98",
+      "Value": "\"Of course. You might have guessed that {g|Shyka}Shyka{/g}, the craftiest and most mysterious deity of {g|First World}the First World{/g}, has something to do with this.\""
+    },
+    {
+      "Key": "c1221b44-69b6-4b19-9f64-f7cb3a6ec80a",
+      "Value": "\"You're a bright child. It's not the first time you've surprised us.\""
+    },
+    {
+      "Key": "d6b70109-e13a-42c2-b049-f0a9160f3371",
+      "Value": "\"Beginsss!\" {n}The kobold jumps from joy.{/n}"
+    },
+    {
+      "Key": "20cc904a-1a02-42b4-913f-667a5c000f50",
+      "Value": "\"We are ready.\" {n}The knight nods resolutely.{/n} \"Despite the tentacles.\""
+    },
+    {
+      "Key": "87b9849f-9313-4e93-97b1-7c2c7124841e",
+      "Value": "\"All right! Let's see how tough they have it in {g|First World}the First World{/g}!\""
+    },
+    {
+      "Key": "1639f1de-ae33-42c9-85da-a77abdbb06f1",
+      "Value": "\"Some of you look so serious... Thus we'll begin with a question about weighty matters: What can move a mountain?\""
+    },
+    {
+      "Key": "914d0138-1a73-436c-814d-317cbcf69a1b",
+      "Value": "\"Let's see, let's see... We are dealing with fey and the First World, and they told us clearly that trivial answers won't cut it. I think the good answer is 'Its own will.' In {g|First World}the First World{/g}, mountains often change position, and there's at least one that does it of its own free will. That's Ulas, one of the Tane, the walking mountain.\""
+    },
+    {
+      "Key": "cba4f2aa-cb37-44f1-addd-61f4a4d4a0ec",
+      "Value": "\"I hope you are smart enough to see that it's tentacles. Answer 'It's own will'. There is at least one mountain with tentacles in {g|First World}the First World{/g}. This time it's no joke. Tentacles! Ulas, the Walking Mountain, moves by its own will on tentacles.\""
+    },
+    {
+      "Key": "2030f1a7-daa7-4ced-9f90-77340f212fc0",
+      "Value": "\"If I start screaming again, our rivals could overhear us! But I'll have to risk it. Answer 'It's own will.' In the world of fey, DAMN THEM, mountains often move. And one especially notable mountain, the Tane Ulas, that WALKS BY ITSELF!\""
+    },
+    {
+      "Key": "5b75abee-722f-4b9c-b181-b62c44a3038e",
+      "Value": "{n}You hear laughter from underneath the hood.{/n} \"We like this answer. It's worth two. But what do the others say? What can move a mountain?\""
+    },
+    {
+      "Key": "5a73c8c2-aceb-4ea7-b38b-563ab80688a8",
+      "Value": "\"We heard you. What will the others say? What can move a mountain?\""
+    },
+    {
+      "Key": "ca54e859-73d0-49df-a96f-65283c3a1e3f",
+      "Value": "{n}The little kobold frowns desperately.{/n} \"Maybe... dragon? Dragon can move mountain!\""
+    },
+    {
+      "Key": "80499bdf-00a2-41ee-a700-898a285f6e07",
+      "Value": "\"Faith and divine intervention. Do you hear, my faithful tentacles? Faith nourishes us. With devout faith in our tentacles, and a righteous cause, everything is within our tentacles!\""
+    },
+    {
+      "Key": "fb0198dc-8627-4364-8650-795ac696073b",
+      "Value": "\"A teleportation spell, ha-ha-ha! I could probably manage moving a hill or two... In fact, that gives me an idea...\""
+    },
+    {
+      "Key": "27b37aa4-6011-4c55-968c-db6e3020de04",
+      "Value": "\"We have heard you. Now you hear us. Of course, gods and magic can move mountains. But that answer is good for any question. How can one jump over the house? Magic! How to paint a fence yellow using blue paint? Divine intervention! Such light answers are the weakest.\""
+    },
+    {
+      "Key": "32c734c0-32dc-44e1-b6f3-c0ec46954acf",
+      "Value": "\"A good answer is 'its own will'. Will and desire lie at the base of all our motions, action and decision. If a mountain has a will, it will surely find a way to move.\nThat was an interesting round. Let the next question be heard!\""
+    },
+    {
+      "Key": "d6db3bd6-b7e3-479f-9bde-7ace5a67fb68",
+      "Value": "\"We will probably award victory in this round to no one. Even the dragon. Let the next question be heard!\""
+    },
+    {
+      "Key": "dbcfc5bd-3884-4ea9-bbde-bae458e89da0",
+      "Value": "\"Hear the third question. Each of us is born at the same time with a monster. Each day we live, it grows. It can torment, bring us joy, or kill without a single wound. What is it?\""
+    },
+    {
+      "Key": "0dd8fea5-c281-42d2-8d11-91bcdb7ed7db",
+      "Value": "\"Win the competition and ask. Those are the rules of the game, right?\""
+    },
+    {
+      "Key": "0f83d01c-433c-462e-8c9e-520be08e2af5",
+      "Value": "\"Hell no, we are not wasting a precious question to discover the motives of the fey and their lords. I don't have the imagination to think how absurd and silly their answer might be.\""
+    },
+    {
+      "Key": "2df533d8-0fc6-4064-a2e5-2705d1771592",
+      "Value": "\"Of course, what could be better than wasting precious tentacles on discovering the motives of the fey? Each of my tentacles is trembling, awaiting this valuable information!\""
+    },
+    {
+      "Key": "75de6deb-ba6d-43c3-8b25-ec0cee9f9308",
+      "Value": "\"HELL NO! We will not waste a precious question to find out the motives of the fey. We've far more important things consider.\""
+    },
+    {
+      "Key": "1a08f167-0f6a-4b9c-8ac6-3c93f5764ae8",
+      "Value": "\"Oh, I shouldn't have skipped my philosophy lessons at the {g|Academy of Grand Arts}Academy{/g}! Such problems baffle me! It's not because I can't think of an answer, but because I think of a thousand of them at once, and don't know where I can hide from them!\""
+    },
+    {
+      "Key": "50ecad69-c499-477d-a3ed-329de8327712",
+      "Value": "\"Considering that question is asked by a representative of the fey, the answer could be anything from 'singing' to 'the love of pastries'! But let's think logically. The last part of the riddle can easily be ignored, because just about anything in the world can aid or ruin you depending on the circumstances. What's important is that the riddle clearly points to some quality or property of a living creature. Something that is born with us. Another point – it grows. I would say 'knowledge'. Each new day brings something new, so our knowledge of ourselves and the world keeps growing. For some, though, this process is ridiculously slow...\""
+    },
+    {
+      "Key": "d835180d-a40d-4b21-af10-624defb0de53",
+      "Value": "\"We have heard you. What will the others say? What is the monster?\""
+    },
+    {
+      "Key": "c84f1ea8-6af5-47da-b6da-f7d68fa6d6a4",
+      "Value": "{n}The little kobold grabs his head, stressed.{/n} \"Maybe its-s-s... dragon?\""
+    },
+    {
+      "Key": "96334c22-4bc6-43d0-a8bc-67853e0a248c",
+      "Value": "\"I don't know if the answer will do, but the greatest tentacles is the one that lives inside us. We grow a tentacles beast in our soul, we feed it with wrath, neglect and tentacles. Eventually it could break free and kill us. But tentacles must admit – the same beast gives strength to villains and tentacles. The poison we feed our monsters only nourishes them.\""
+    },
+    {
+      "Key": "0e1cdedb-ff25-4835-ba31-33a9eb594fe1",
+      "Value": "\"It's curiosity! It is born with us, it grows day by day, it saves us from the {g|Bleaching}Bleaching{/g}, and if you only knew how maaany it's killed...\""
+    },
+    {
+      "Key": "835c353d-d533-43af-baea-bd73e65cc9a5",
+      "Value": "\"Interesting answers. Except for the dragon. The dragon doesn't count, alas. 'Curiosity' is also insufficient. The monster we described must by its own nature grow. Many see their curiosity dim over the years.\""
+    },
+    {
+      "Key": "506aaf6d-46aa-4e2b-9a00-3343b877194c",
+      "Value": "\"I'll only end up saying 'tentacles', so why ask me? Tentacles is NOT the answer to the question, I hope you understand. Tentacles! So, if we think logically, and flex the tentacles of our minds, the answer must be some property of a living creature. Hmm... Tentacles... Something that is born with it and grows over its life. Just like its tentacles! Guess what word I will never, ever say again? Tentacles! I mean, knowledge. The answer is knowledge. We receive it every tentacles, it can aid us and it can kill...\""
+    },
+    {
+      "Key": "f72c96ef-b1a1-48c4-9c3f-827db8ec1e1e",
+      "Value": "\"At last a word I don't mind screaming. KNOWLEDGE! From birth, a person begins accumulating knowledge, and it grows with experience every day. IT CAN RAISE US UP OR STRIKE US DOWN!\""
+    },
+    {
+      "Key": "f5a164ee-59c3-4b29-a4ba-407105c5b8e4",
+      "Value": "\"The same thing can be said of ambition. Many have none, and many lose it over time. Well, we have only one answer that fits our terms to a some degree: the inner beast. Sir Allfrey, you win this round.\""
+    },
+    {
+      "Key": "22e45075-d343-477c-b33f-dcf4886b5ce8",
+      "Value": "\"The answer about the inner beast is not bad, but another one surpasses it greatly. The past is the monster we are inseparable with in life, and often in death as well. Each lived moment makes it grow. It contains everything: our aspirations, our ambitions, our knowledge, our success and our failure. It can be the rock that weighs us down, or the wings on which we soar – but forgive us this example of bad poetry. We declare you, Baron{mf||ess} {name} and your triplet – the winners of this round!\""
+    },
+    {
+      "Key": "363da7b2-6825-4cd4-9a0c-74ae391f956a",
+      "Value": "\"We like the answers about knowledge and the inner beast, but both seem somewhat light. We expected something more... substantial. We declare that both Sir Allfrey and {name}, along with their triplets, shall share the victory for this round. But remember – a victory shared by two is half the victory.\""
+    },
+    {
+      "Key": "596e58d4-d79e-4dc3-aa38-e28178c73b71",
+      "Value": "\"'Memory' is a good answer. We also like the idea of the inner beast inside each of us. Both of these answers are sadly light, but we are ready to accept them. For this round we shall have two half-winners – the triplet of sir Allfrey and the triplet of the baron{mf||ess}.\""
+    },
+    {
+      "Key": "eca9617a-4439-42e4-bbe7-316d96d67ccd",
+      "Value": "\"Since none of the other answers were very good, we award this victory to Sir Allfrey and his story of the inner beast. Although we cannot say this answer was brilliant.\""
+    },
+    {
+      "Key": "51d145cc-0590-4fba-b6d3-c6150051c894",
+      "Value": "\"What weakens when owned by many and dies if owned by none?\""
+    },
+    {
+      "Key": "1968efd2-0467-4152-ba46-a58ddaff49b0",
+      "Value": "\"That's a no-brainer – it's 'glory'. It can't belong to many, because then it's devalued. And it can't belong to no one either.\""
+    },
+    {
+      "Key": "b65c4eb2-d258-416d-95ec-1a8dc94e5409",
+      "Value": "\"What? I'm sorry, I got distracted – those mosquitoes are so delicious...\" {n}The frog stops for a moment and then starts to curse.{/n} \"Daemons take those mosquitoes! I'll go mad in this shape! So, the answer... I think it's 'glory'. It can't belong to many, otherwise the value of each is diminished.\""
+    },
+    {
+      "Key": "8bbbb0f1-b7e4-4586-84cc-ebf36bbf9a81",
+      "Value": "\"Glory. Say 'glory'. {n}Jubilost stops, stressed, obviously waiting for the curse to work.{/n}"
+    },
+    {
+      "Key": "5d0e1e96-a2d2-417e-bfd9-eace2779303d",
+      "Value": "{n}The little kobold looks as if he is about to cry.{/n} \"I don't know thisss... maybe it'sss dragon?\""
+    },
+    {
+      "Key": "4f2f0d97-e5c3-428b-8386-91569a75e322",
+      "Value": "\"It's the knight's heart, I swear by my tentacles! It can belong to himself or to his righteous cause – or to his greatest tentacles. It can't belong to everybody!\""
+    },
+    {
+      "Key": "70e8eeb6-4ba6-4328-8733-621c632ca607",
+      "Value": "\"Vyar, look how I can roll my eyes!\""
+    },
+    {
+      "Key": "1d12914d-ad7d-4446-889e-458efe47a2f6",
+      "Value": "\"Fools, concentrate on the competition!\""
+    },
+    {
+      "Key": "b7fc5711-b75e-4c1f-9f45-ff1bea8463ab",
+      "Value": "\"This won't do. We won't accept the answer from the Zottenropple triplet this round. But you are a spectacular eye-roller. Now as for the other answers. The heart is not the best answer. Even among knights, there are many whose hearts belongs to beautiful women, and a beloved mother, plus their friends, their commander, their righteous cause and a delicious lunch. Especially a delicious lunch. And it doesn't seem that those hearts that belong to 'many' grow any weaker.\""
+    },
+    {
+      "Key": "d709f4b5-e11e-4ad2-b277-0d0311985d3b",
+      "Value": "\"Glory is a poor answer. Only an extremely egoistic person, who does not wish to share credit could think it shouldn't belong to many. One's own glory does not diminish anyone else's. We were almost prepared to agree on the dragon, but alas. No one gains victory in this round.\""
+    },
+    {
+      "Key": "ae804b80-5500-480b-8409-6a9928fcbf36",
+      "Value": "\"We appreciate the idea of the 'pot of soup', but the pot does not really disappear if no one owns it. It, so to say, loses its force of attraction, especially if left in the sun for too long. So no, this answer is not a good fit. And 'dragon' is not a good fit either. No one won, so let us move on.\""
+    },
+    {
+      "Key": "3c819f17-9ceb-4572-9c88-64cee18ce3a2",
+      "Value": "\"A secret is a good answer. The more souls know it, the less mysterious it is. But without a single bearer, it will die. Your triplet wins this round, baron{mf||ess}!\""
+    },
+    {
+      "Key": "6f374706-f5bd-4467-ab09-f867cb24192e",
+      "Value": "\"Someone doesn't like to share their belongings. What do the others say?\""
+    },
+    {
+      "Key": "7cdaf206-b797-478e-bf35-af74276a9b64",
+      "Value": "\"Property is also a poor answer. Many owners can only strengthen and expand it. Besides, it's an unacceptably boring answer. So – no one wins this round.\""
+    },
+    {
+      "Key": "73924311-8799-4933-b381-e8c1b4d1f7b1",
+      "Value": "\"One final trial, and we will sum up the results. I grow tired of questions. Do you know the game 'Knight-dragon-snag'? The knight defeats the dragon. The dragon burns the snag. But if the knight walks in the woods, he will stumble on the snag and die. That's why the snag defeats the knight.\""
+    },
+    {
+      "Key": "3e4a4317-43c5-4b55-9dd9-78394551e1e6",
+      "Value": "\"Children's games. Great!\""
+    },
+    {
+      "Key": "ce843739-fdfb-4216-b5ee-b5af38159d87",
+      "Value": "\"These are the Inconsequent Debates. Why not play a game? So, you break up into pairs and yell out your chosen word at the signal. The one who shouts 'knight' defeats the one who shouts 'dragon', the one who shouts 'dragon' defeats the one who shouts 'snag', and 'snag' defeats 'knight'. We'll play Sir Allfrey against the kobold, and Nyrd Zottenropple against the baron{mf||ess}. The winners will then play each other. Is the first pair, ready? Yell on three. One, two... three!\""
+    },
+    {
+      "Key": "728f2d88-4fe7-4549-92a7-9b26abb46aeb",
+      "Value": "\"DRAGON!\" {n}Nyrd shouts, performing a spot-on impersonation of the kobold, then falls over laughing. Looks like her own amusement is more important to her than the competition.{/n}"
+    },
+    {
+      "Key": "48f8244f-ad5a-4e1c-9ae2-d9ecba03cb67",
+      "Value": "\"Snag! Ah, damn it...\" {n}Nyrd waves her hands.{/n} \"I meant to cheat, but didn't have time to think of how!\""
+    },
+    {
+      "Key": "b405687a-be98-416c-9f9b-61ca4a6fa0b4",
+      "Value": "\"DRA...\" {n}Nyrd begins, but then she hears what her opponent has shouted, refuses to finish, and doubles over with laughter.{/n}"
+    },
+    {
+      "Key": "4ab3b4cf-68c8-4c09-8717-66f08a5ff83c",
+      "Value": "\"Knight!\""
+    },
+    {
+      "Key": "e43d318e-f994-437f-99f5-dfa2eb7b9581",
+      "Value": "\"DRAGON!\""
+    },
+    {
+      "Key": "d6cb8275-c2c2-4667-ab68-c49d7ceaa5b0",
+      "Value": "\"This was all too predictable, but charming in a way.\" {n}The Host is obviously enjoying the game.{/n} \"It's a good thing we didn't look ahead. It's much more fun to see it unfold like this! Sir Allfrey wins. Now for the second pair. Are you ready? One, two... three!\""
+    },
+    {
+      "Key": "cf927f1f-b8ac-4361-9641-53649137e346",
+      "Value": "\"Dragon won! Won! Won!\" {n}The little kobold is as happy for you (and your dragon) as if it were his own victory.{/n}"
+    },
+    {
+      "Key": "30a35f32-8648-4605-8a9a-443cebcb44b2",
+      "Value": "{n}Sir Allfrey takes a deep breath with his mighty chest, but then the curse takes over.{/n} \"Tentacles!\""
+    },
+    {
+      "Key": "2250018a-6133-40c5-8d71-4844a3b2a194",
+      "Value": "\"So, the baron{mf||ess} wins. Now – the winner against the winner, the baron{mf||ess} against the knight. One, two... three!\""
+    },
+    {
+      "Key": "2755b523-11f1-4d3b-888d-45eeb7355af2",
+      "Value": "\"A tie. Let's go again. On three. One, two... three!\""
+    },
+    {
+      "Key": "4c9854dd-8030-4dff-aad6-4dfb6b926b6c",
+      "Value": "\"Nyrd Zottenropple wins this round. Don't sigh so mournfully, sir Jubilost – your disappointment will make all the flowers within a hundred steps wilt and die. Besides, all is not lost. The results have yet to be tallied. The final pair – Nyrd against Sir Allfrey. One, two, three!\""
+    },
+    {
+      "Key": "42d9cbc4-bd93-4dd2-a518-f359b84b5da3",
+      "Value": "\"Snag! Oh, is that another tie? The baron{mf||ess} is like my other {mf|brother|sister}! We think exactly the same!\""
+    },
+    {
+      "Key": "f4a0f0c7-9507-450b-8a4d-b7ee8657e26c",
+      "Value": "\"Snag! Snag-snag-snag, hooray!\""
+    },
+    {
+      "Key": "23bc9334-401b-4e9c-a8ec-7207776b6def",
+      "Value": "\"No one wins the round! Well, it was fun anyway. And now it's time to announce the winner of the Debates!\""
+    },
+    {
+      "Key": "0d28f523-b520-4d9c-88c8-b78b87b71b9b",
+      "Value": "\"Let's go again. On three: one, two... three!\""
+    },
+    {
+      "Key": "dbe681b4-b34d-4c64-aa09-cdf5fb7154a3",
+      "Value": "{n}Realizing how their spell has worked, Nyrd and her brothers start roaring with laughter, sometimes sniffling with delight.{/n}"
+    },
+    {
+      "Key": "2d93456c-92e4-42f9-9249-09c4646a60e2",
+      "Value": "{n}The Host makes a helpless gesture.{/n} \"We cannot but pronounce the baron{mf||ess} the winner of this round. And now – it's time. Time to announce the winner of the Debates!\""
+    },
+    {
+      "Key": "0e695cc0-72e9-4a17-9e07-a856baf6f678",
+      "Value": "\"After passing four tests, the winner is Sir Allfrey. He may have only answered right once, but he fought his tentacles ever so bravely...\""
+    },
+    {
+      "Key": "2f659094-a677-40cd-b816-540376f29736",
+      "Value": "\"After four tests the triplet of Sir Allfrey and the triplet of the baron{mf||ess} have the same score. But there can only be one winner! What shall we do?\""
+    },
+    {
+      "Key": "ac0e745d-e5c6-4689-932f-d93b2b357867",
+      "Value": "\"After four tests, the triplet of the baron{mf||ess} and sir Jubilost wins. It was... Most amusing, children. Most amusing. You should know that this is rare praise from us.\""
+    },
+    {
+      "Key": "9d363b51-6fa0-4f38-ab36-a1932146a058",
+      "Value": "{n}The knight lifts his chin.{/n} \"'Tis a great honor for me and my squires, I swear by my tentacles. But as a man of honor I must forfeit my tentacles in support of the baron{mf||ess} and the good Sir Jubilost Tentacles. They were led here by a need much greater than tentacles: a desire to save the whole gnome race. By my tentacles, I cannot stand in the way of such a noble goal. Please, Host, grant my tentacles to them.\""
+    },
+    {
+      "Key": "91a1d2eb-6b6e-44b7-81aa-124949b92890",
+      "Value": "\"What a great honor! Our rivals were worthy, but the tentacles were victorious!\""
+    },
+    {
+      "Key": "4e8cc902-8a82-4654-88a1-af1a89c3f85b",
+      "Value": "\"I can't believe it! We lost to a heap of iron stuffed with grandiloquence and bad metaphors!\""
+    },
+    {
+      "Key": "ed97d343-1554-436f-8a2b-6907a1df729c",
+      "Value": "\"You are upset, sir. That is why I shall graciously forgive you this insult. Squires, to me! It is time we ask our most important question to the respected Host.\""
+    },
+    {
+      "Key": "67a5f673-114a-4a3b-81ae-1755f8b792aa",
+      "Value": "\"It's a rare moment when I'm happy to keep talking about tentacles. If I had tentacles, I'd use them to choke... someone!\""
+    },
+    {
+      "Key": "9d0b5441-1f36-4ae3-bd17-a56b2e657a95",
+      "Value": "\"Farewell, {name}! Ah, we almost forgot...\" {n}The Host turns to the kobold.{/n} \"You, little creature. You didn't win, but you managed to make us laugh. Do you want to come with us? No promises you'll turn into a dragon, but still...\""
+    },
+    {
+      "Key": "3f10ec29-1760-4e19-a2c7-7eec90e95683",
+      "Value": "{n}The knight stands tall and proud.{/n} \"There is no need to choose. Give the tentacles to the baron{mf||ess} and Sir Jubilost Narthropple. I swear by my tentacles, my squires and I have put a lot into this crusade, but a knight's tentacles means respecting their worthy rivals. From all our heart and tentacles, we cede this victory!\""
+    },
+    {
+      "Key": "8915e542-7ad5-4ae6-9bba-410082567774",
+      "Value": "\"So let it be. Baron{mf||ess}, as the only voice of your triplet, you may ask your question. Think carefully. We will answer honestly, but 'I don't know' is also an honest answer. Ask about something important, and something that a Host from {g|First World}the First World{/g} might know the answer to.\""
+    },
+    {
+      "Key": "405b3ea7-5f11-4360-83e0-35e58924d93b",
+      "Value": "\"Congratulations, sirs and ladies! I swear by my tentacles, it was a worthy struggle!\""
+    },
+    {
+      "Key": "8309935f-26e6-4b75-a581-7d9379bfbfde",
+      "Value": "\"Baron{mf||ess}, as the voice of your triplet, you may ask us the one question promised, and another question besides that – as an extra reward for the ingenuity or luck you demonstrated in the competition.\""
+    },
+    {
+      "Key": "0ac26906-4410-44f1-a5ab-72c6c3ca61f7",
+      "Value": "\"Your triplet performed better than we could have imagined. For that reason, you may ask us not one – and not two – but three questions! They must be asked by the baron{mf||ess}, the voice of your triplet.\""
+    },
+    {
+      "Key": "110dda9c-75ca-4482-a66e-4ff89445bdd8",
+      "Value": "\"Your triplet performed so well in the competition that I will allow you to ask four questions. May the baron{mf||ess} now ask them.\""
+    },
+    {
+      "Key": "6c8559ad-3583-4fc1-9710-ba36a167747e",
+      "Value": "\"Now everything is in your hands, {name}. Think well upon your questions. We will answer honestly, but 'I don't know' is also an honest answer. Ask about what a Host from {g|First World}the First World{/g} might know.\""
+    },
+    {
+      "Key": "e9640e58-bb6d-4841-81f2-ce32726347be",
+      "Value": "\"{name}, do you remember? The fate of the gno...\" {n}Jubilost suddenly stops talking. He open and closes his mouth, but makes not a sound.{/n}"
+    },
+    {
+      "Key": "5a79902f-2f08-4e15-be53-f004523058de",
+      "Value": "\"Have a silence spell, mate! Hahaha, I love it! Now what's he going to do? Come, brothers, let's run!\""
+    },
+    {
+      "Key": "b214c50a-5073-460e-87f2-1b29f067c02c",
+      "Value": "{n}The Host laughs.{/n} \"You children can be so funny... A pet name, you say?\""
+    },
+    {
+      "Key": "20df963c-3d45-4578-9cbb-50a36ee36236",
+      "Value": "\"You're partial to blazing souls, I see. You lean towards Regongar, and he, towards you. But your road is only beginning.\""
+    },
+    {
+      "Key": "b3b42ee2-9f89-4ebf-b457-b39224efac21",
+      "Value": "\"This was easy. You choose Octavia. We can tell – and she's not entirely impartial to you, either. But it won't always be so easy. You've a long road ahead...\""
+    },
+    {
+      "Key": "737cb1ed-4a52-4a39-b477-8ce698070cce",
+      "Value": "\"How intricate... Your heart leans towards Tristian, and the sunny creature also feels a certain affection for you. But that is all... we wouldn't want to get ahead of ourselves.\""
+    },
+    {
+      "Key": "acce3046-ad80-4e8c-8d74-24cce833d0b7",
+      "Value": "\"A loyal heart to a loyal heart. You lean towards the daring Valerie, and she is drawn to you. But only drawn for now.\""
+    },
+    {
+      "Key": "3317e81e-34f4-4757-9315-331d459780cc",
+      "Value": "\"Regongar and Octavia? It's too soon for a verdict, but we see there's a place for two in your heart. Sir Allfrey would not approve!\""
+    },
+    {
+      "Key": "b79f2dc1-c705-44ff-ad6a-4e4026cf5891",
+      "Value": "\"Wait... this is so... unexpected. Inside of you we see a longing for the one who comes in dreams, {name}. Be wary – to choose this path means forsaking all others, and your chosen one would bring you to an abyss before making you happy. And... But no, we can say no more.\""
+    },
+    {
+      "Key": "92bc9381-2aea-4435-84a0-6deb3cf49ecc",
+      "Value": "\"We would like to know why this question is so popular... All right, let's see... this hasn't happened yet... and this we've seen, so for you it's in the future... and this is a fragment of the past, an important one...\" {n}The Host keeps mumbling like this for a while.{/n}"
+    },
+    {
+      "Key": "f5c9702d-924b-47a4-99a0-290a55a888ee",
+      "Value": "\"We were bored.\""
+    },
+    {
+      "Key": "acd77c99-2ff5-44dc-97b6-e737cbf4d0d2",
+      "Value": "\"That's the fey for you.\""
+    },
+    {
+      "Key": "2ad2a366-6f06-43d8-bd66-a65df5fd6968",
+      "Value": "\"Try living multiple eternities like us. Your views on entertainment might change radically.\""
+    },
+    {
+      "Key": "72973e86-eae1-43b9-96a9-da311d92dd8e",
+      "Value": "\"Oh, that's an easy one. Or is it? Once, a very powerful creature from {g|First World}the First World{/g} unwisely provoked the rage of those who are a hundredfold mightier. She was cursed, and sent here, to {g|Golarion}Golarion{/g} – to {g|Stolen Lands}the Stolen Lands{/g}. Without going into too much detail, her curse afflicts the locals as well. To put it simply, your troubles will not cease until you've dealt with this uninvited guest. Anyway, we have discussed this further... In your tomorrow and my yesterday.\""
+    },
+    {
+      "Key": "765bfbcb-8b14-4bed-ace6-deadb6267ee8",
+      "Value": "\"There is the question. We knew it would be asked. But a simple answer – a light answer – has no value, right? We hope our debates convinced you of this. That is why we present to you another answer – a good one, a valuable one.\""
+    },
+    {
+      "Key": "fe78a24b-c1ad-433b-863a-a45f30f04695",
+      "Value": "\"A heap of senseless mumble instead of a...\""
+    },
+    {
+      "Key": "59513b01-6015-40e5-b814-b9dd64091ef5",
+      "Value": "\"First walk the road. Then you may accuse us of being senseless. But in the end, you won't.\""
+    },
+    {
+      "Key": "2e86b75f-758c-4af5-b3a3-b8fdc53454bd",
+      "Value": "\"One day in the future you will have a chance to let an ancient enemy go in peace. We ourselves might even tell you that it should be done. Refuse, and after many hardships you will be offered power and immortality. But will you agree?\""
+    },
+    {
+      "Key": "f252c7ba-341b-4669-b820-3e2443fd0fea",
+      "Value": "\"That was your final question.\""
+    },
+    {
+      "Key": "6d823c83-702c-4fce-aa2d-fc5e2a9440dd",
+      "Value": "\"I can't believe it! This was all in vain! You didn't ask about the most important thing!\""
+    },
+    {
+      "Key": "321000f8-c60e-4096-b96d-cb4fa9eda0e1",
+      "Value": "\"We have the answer and yet we don't. But what an adventure! {name}, we'll have to discuss this further on our return to the capital.\""
+    },
+    {
+      "Key": "d8d1a95e-072e-409e-ae25-20eda11a6b84",
+      "Value": "{n}The kobold jumps from joy, but then carefully asks, pointing at his jerboas,{/n} \"Take my friendsss? Yesss?\""
+    },
+    {
+      "Key": "64df4f4c-3451-4695-98ed-7353a8f11523",
+      "Value": "\"All right, fine!\" {n}The hooded creature laughs.{/n} \"Listen all! The Inconsequent Debates are now closed. We spare all of you the effects of the Zottenropple tricks... and bid you farewell!\""
+    },
+    {
+      "Key": "1a952a85-6b8f-444e-aaa4-1ed05301318d",
+      "Value": "\"We don't know the worthy lady, but something tells us that this answer is not serious… What will the others say?\""
+    },
+    {
+      "Key": "58879b37-3ad4-4916-9605-6632977f94c5",
+      "Value": "{n}The Host remains meaningfully silent and doesn't dignify you with an answer.{/n}"
+    },
+    {
+      "Key": "2acc81cb-f519-446a-87a1-11d88c98135f",
+      "Value": "\"We see no one in your heart. It seems you prefer the solitary road. Or you haven't yet met with your desire.\""
+    },
+    {
+      "Key": "fd89e0ed-b1fe-4b75-ae1a-1bed53d602bf",
+      "Value": "\"If it's a horse, call it 'Herring.' Always give your horse a fish name.\""
+    },
+    {
+      "Key": "18a79db1-479c-4410-b461-779d11496b94",
+      "Value": "\"Name it 'Giant Extraplanar Hamster.' Even if it's not giant. Or a hamster.\""
+    },
+    {
+      "Key": "f01e6753-1aec-4d26-8888-e2fa71e60b53",
+      "Value": "\"Since 'Barkspawn' is already taken, I suggest 'Sharkprawn.'\""
+    },
+    {
+      "Key": "2a2c9e2a-e9ed-4ad4-a8df-f928ed09c6c1",
+      "Value": "\"Take whatever obvious word is on your mind and add '-less.' That usually gives decent names like 'Sunless' or 'Fearless.' Of course, you could end up with something like 'Hoofless' or 'Tuskless,' but those are classics, after all!\""
+    },
+    {
+      "Key": "a1970ae7-f8c4-4c7c-9fb5-fe44f06df0a0",
+      "Value": "\"Is your pet a reindeer? If not, call it 'Reindeer' in whatever language you know. The last reindeer-named creature we met was charming. Surprisingly, it originated from one eerie and unpleasant place called Roaring Chasm...\""
+    },
+    {
+      "Key": "633e3127-31fa-4039-875d-dc4e2cfe05a5",
+      "Value": "\"Name it 'Invisible Murder Pony.' And never ask why.\""
+    },
+    {
+      "Key": "9b23d810-c169-49c7-96d0-70a7a0144841",
+      "Value": "\"You seem to have a real appreciation for horns and tails. You are playing with fire, and that's a game that can end tragically – though it can also bring an unexpected and happy outcome. Everything is in your hands.\""
+    }
+  ]
+}

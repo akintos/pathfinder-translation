@@ -1,0 +1,97 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "4ac1a206-ed2b-4d64-a5a8-267827fd9bc9",
+      "Value": "[Try all possible combinations]"
+    },
+    {
+      "Key": "50b24307-5c0e-44a8-ba12-0ed4658fa229",
+      "Value": "[Try to open the panel]"
+    },
+    {
+      "Key": "e9c6c6d2-4e65-41c2-ae8d-73dfa12046fb",
+      "Value": "[Put three cogs into the mechanism]"
+    },
+    {
+      "Key": "f7668ae7-eb3b-471e-833f-c8f852acca30",
+      "Value": "[Try to put a cog inside the mechanism]"
+    },
+    {
+      "Key": "58ad2c22-943b-48c4-b981-360303487051",
+      "Value": "[Leave]"
+    },
+    {
+      "Key": "c85f49ab-f59c-40e4-80d5-96927ac2b8a0",
+      "Value": "[Examine the statue]"
+    },
+    {
+      "Key": "2a69514a-f4c5-4584-bed2-37e111367a1e",
+      "Value": "[Try to decipher the markings]"
+    },
+    {
+      "Key": "9a3801df-e563-4fbf-8775-0dea787ca2a4",
+      "Value": "[Pray to Torag]"
+    },
+    {
+      "Key": "b2bd0777-ef9e-4a7d-a62a-3c3d770348c5",
+      "Value": "{n}You have all three cogs, but you're not sure how to fit them into the mechanism. Maybe the arcane markings inside are a clue.{/n}"
+    },
+    {
+      "Key": "0728dbc8-7036-494e-80f7-557803314f96",
+      "Value": "{n}You rotate the cogs and hear a rumbling noise from the statue, followed by a loud click. The panel opens, revealing the treasure stored within.{/n}"
+    },
+    {
+      "Key": "f21d4d17-b8c2-40f3-8b36-165c28da712f",
+      "Value": "{n}The stone panel and the mechanism keeping it shut are both sturdy and effective. Neither lockpicking skills nor brute force enhanced with cursing are capable of opening it. It looks like you won't get this hidden treasure without a proper key.{/n}"
+    },
+    {
+      "Key": "2175f4e3-5c68-4ced-8bf7-60e15372ca8d",
+      "Value": "{n}Your intuition tells you this statue may be hiding something of value. After several hours searching, you discover a hidden panel with a niche above it. In the niche, a set of jagged grooves adorned with arcane symbols seems to be connected to something deeper inside the statue. It seems that access to {g|Torag}Torag's{/g} treasures will require the missing cogs.{/n}"
+    },
+    {
+      "Key": "8e936d5d-899a-4b41-b89b-4c51eaeb2143",
+      "Value": "{n}This is harder than you thought. It takes some effort to place cogs into and remove them from the mechanism. After several hours of failed attempts, you finally find the right combination, so all of the cogs can now rotate.{/n}"
+    },
+    {
+      "Key": "bbddc845-567e-4a5e-abf3-b04ef9f0f8e1",
+      "Value": "{n}Jubilost inspects the markings closely.{/n} \"What have we here? Some sort of puzzle? Interesting, let me see... Ah! Those are alchemical symbols, just written in ancient dwarven script. This one is \"tin,\" so this is where we place the white cog. That one's \"iron\" — red one goes there. And the golden cog in the remaining space. A riddle for children, I'd suppose. Dwarves are fond of such things.\""
+    },
+    {
+      "Key": "7ac8e680-b6f6-44f8-9115-ed8662d38e59",
+      "Value": "{n}No matter how you fit it, the cog won't rotate. It seems you'll need all three of them to open the panel.{/n}"
+    },
+    {
+      "Key": "3b52d936-2f71-4ad8-8cbe-9aa43ecac1bf",
+      "Value": "{n}Unfortunately, no one in your party can decipher the meaning of the markings. The only option now is try all of the possible combinations.{/n}"
+    },
+    {
+      "Key": "b8556bdc-fefb-46dd-b3b1-c67e9a2c5150",
+      "Value": "{n}Ekun bows his head and whispers a short prayer before the statue.{/n}"
+    },
+    {
+      "Key": "496035b8-fe72-4d98-8b3c-7ff4657be7bc",
+      "Value": "{n}Unlike the timeworn watchtower, the statue of {g|Torag}Torag{/g} is in perfect condition. The dwarven god's face has a stern look, almost accusatory when combined with the surrounding devastation.{/n}"
+    },
+    {
+      "Key": "b2a9cebe-2fb6-4134-9883-90f86a2adbd5",
+      "Value": "{n}Dwarven artisans are famous for installing clever hidden mechanisms in their works. You discover a hidden panel with a niche above it. In the niche, a set of jagged grooves adorned with arcane symbols seems to be connected to something deeper inside the statue. It seems that access to {g|Torag}Torag's{/g} treasures will require the missing cogs.{/n}"
+    },
+    {
+      "Key": "d6d52567-de64-41f9-bc45-74035697055d",
+      "Value": "{n}Harrim gives the statue a long look, then spits on the ground without saying a word.{/n}"
+    },
+    {
+      "Key": "c9add0a5-a622-4d85-bc5f-eaec6b15dc7f",
+      "Value": "\"What's the problem?\" {n}Harrim grumbles as he snatches the cogs from you and places them inside the mechanism.{/n} \"This one goes here, that one there... can't you see?\""
+    },
+    {
+      "Key": "b10cdd90-0877-4b75-9a71-7fe70de26c97",
+      "Value": "{n}The markings seem vaguely familiar. Raking through your memory, you realize these are well-known alchemical symbols, though in an ancient dwarven script. The symbol for \"tin\" seems to be designed for the white cog, representing tinsmiths. \"Iron\" must mean the red cog, for blacksmiths, while \"gold\" is for the gold cog and goldsmiths. Having placed all the cogs properly, you see they can now rotate.{/n}"
+    },
+    {
+      "Key": "3c08f0cc-cbe8-4e75-a4cc-08d586c918e0",
+      "Value": "{n}As you whisper words of prayer to your god, you feel your heart fill with the determination to never shrink from any obstacle.{/n}"
+    }
+  ]
+}

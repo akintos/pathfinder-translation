@@ -1,0 +1,197 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "e3685f8e-01b4-4e6b-b4c9-deaf97188455",
+      "Value": "\"Where are you from?\""
+    },
+    {
+      "Key": "76404123-bfb1-4ca0-b875-ed7db0c8ddb3",
+      "Value": "\"What happened?\""
+    },
+    {
+      "Key": "48410a37-5848-4a79-95ed-706cc1eaca7a",
+      "Value": "\"I'll try to find your missing jewels. Where were you attacked?\""
+    },
+    {
+      "Key": "ac01447c-72c1-4066-b3b4-75ec2c56db62",
+      "Value": "\"I should go.\""
+    },
+    {
+      "Key": "46b5e0aa-4746-4da6-9124-8764a12f515d",
+      "Value": "\"Describe this forest monster.\""
+    },
+    {
+      "Key": "722bcf91-be84-4a1b-aca2-f986f5094a7b",
+      "Value": "[Show the pearl string taken from the goblin] \"Is this yours?\""
+    },
+    {
+      "Key": "81837e3f-94e4-44ba-9cd6-fe2be5a43c1d",
+      "Value": "\"Here are your pearls. Please be more cautious along the rest of your journey.\""
+    },
+    {
+      "Key": "5560ca82-ecbc-45c5-a90b-fafb36e16cc0",
+      "Value": "\"Here, take this money for the toll. You should keep those Eleder pearls in your family.\""
+    },
+    {
+      "Key": "7330d51f-3f82-4991-97b9-584bbb234566",
+      "Value": "\"I'll return your treasure on the condition that you turn back. I'm sure your brother would take you in, and there's safety in the city. These are trying times, but I'm doing all I can to stop the disease and protect the people.\""
+    },
+    {
+      "Key": "71fe9310-7292-45ab-9482-6d1acdf06d7b",
+      "Value": "\"I figure that, since I found the pearls, they're mine now.\""
+    },
+    {
+      "Key": "e61f19ff-a990-4ccb-af69-95f2c6ff1c7b",
+      "Value": "\"Wait, I have something else I want to ask you.\""
+    },
+    {
+      "Key": "b974234d-5c5d-4ad4-a074-1aa360fbae6c",
+      "Value": "\"You brought a priceless family heirloom along on a visit to Galt?\""
+    },
+    {
+      "Key": "7eb6ceb6-dc26-4e92-9d10-734fb32796ee",
+      "Value": "\"Are you traveling alone?\""
+    },
+    {
+      "Key": "4239421c-256f-4888-a83d-5d29ebeb9e2e",
+      "Value": "\"I have something else I want to ask you.\""
+    },
+    {
+      "Key": "86567983-8640-47d4-832d-cba1a37006e1",
+      "Value": "\"About your pearls...\""
+    },
+    {
+      "Key": "d1c1ba81-1392-40ab-b972-411bd212b681",
+      "Value": "[Attack] \"You thought you could run? Your corpse will rot in this very soil!\""
+    },
+    {
+      "Key": "3f413cff-53f6-42c4-aa56-78ededf692d1",
+      "Value": "\"It seems I can't change your mind... Here, take your pearls.\""
+    },
+    {
+      "Key": "c5683bae-90ba-43fb-8e3b-0560c383505e",
+      "Value": "\"Farewell.\""
+    },
+    {
+      "Key": "d52170ea-2b77-403b-bdfb-42244155273d",
+      "Value": "\"Good luck!\""
+    },
+    {
+      "Key": "68ea256c-b4ff-4520-a300-359907d9850c",
+      "Value": "{n}Before you is a disheveled woman, wearing a cheap dress and a cloak that's gray with dust. She covers her face as she sobs uncontrollably.{/n} \"A disaster... This is such a disaster!\""
+    },
+    {
+      "Key": "a968c58d-e628-455c-9709-52e6049313e0",
+      "Value": "{n}The woman sobs, drying her eyes with the edge of her cloak.{/n}"
+    },
+    {
+      "Key": "36a2aeb8-dd20-45e0-837e-fd5ee0de1444",
+      "Value": "\"From far off.\" {n}The woman sighs.{/n} \"I promised my cousin I'd visit her in {g|Galt}Galt{/g}, but now this...\""
+    },
+    {
+      "Key": "f1e9dbdd-3297-4ff9-bb2b-ace79a4fe988",
+      "Value": "{n}The woman raises her face, tears still streaming. Her eyes widen as she recognizes you, and she shudders.{/n} \"{mf|Baron|Baroness|King|Queen}! It must be Providence that sent you to me! Only you can help me.\" {n}She wipes her cheeks and stifles another sob.{/n} \"I was robbed by a forest monster! It took my most valuable possession — my great-grandmother's pearl string!\""
+    },
+    {
+      "Key": "23c1e505-71f9-496b-9e61-fd9dc9f3757a",
+      "Value": "\"I was hoping to pay the bandits at the bridge with them. They're a family heirloom — a real treasure! My great-grandfather brought the pearls all the way from Eleder! I thought that would be enough to get me to {g|Galt}Galt{/g}, but then I was ambushed by that vile beast... I was so frightened, I dropped all my belongings and ran. When I came to my senses, it was too late. What am I going to do? I'm so scared of going back!\""
+    },
+    {
+      "Key": "751e47c7-b212-4b51-ab79-aa865611b8aa",
+      "Value": "{n}The woman frowns.{/n} \"It had greenish skin... Short, with a wide face and red eyes... It jumped out of nowhere, flashing a dagger at me and yelling in pidgin. It said I should give it my money, or else...\""
+    },
+    {
+      "Key": "ba118f5d-4450-4e02-aea2-fd11703cbd03",
+      "Value": "{n}The creature's description leaves little doubt — it's a goblin. Many of the little pests have recently taken to lurking about the {mf|barony|barony|kingdom|kingdom}.{/n}"
+    },
+    {
+      "Key": "6a2c932f-1aa2-4aa0-8e08-ae83c5f0a392",
+      "Value": "{n}You can't fathom what kind of creature it might be, but the fact that it's a small beast is welcome news. A little pest like that shouldn't be too dangerous.{/n}"
+    },
+    {
+      "Key": "b45a0859-15c4-4256-9e13-3db67a38d971",
+      "Value": "\"Oh, thank you so much! The beast ambushed me by the large stone along the road. Follow it northeast — it's not far. But please be careful, {mf|baron|baroness|king|queen}, I beg you!\""
+    },
+    {
+      "Key": "a7dc26b0-6666-43a3-b9ba-72c974738b59",
+      "Value": "{n}The woman presses her hands to her chest.{/n} \"{g|Erastil}Erastil's{/g} mercy! You found my pearls!\""
+    },
+    {
+      "Key": "6cdf829d-f33f-41a6-94d5-c12ab2e10968",
+      "Value": "{n}The woman straightens herself and looks directly at you.{/n} \"{mf|Baron|Baroness|King|Queen}, will you return them to me?\""
+    },
+    {
+      "Key": "0bc39f1b-a7d5-44d8-84c0-04fa271711f4",
+      "Value": "{n}The woman takes the pearls delicately, looking at them intently as she smiles gently.{/n} \"The bandits are gone from the bridge now, so there's no need to pay the toll. Perhaps, with luck, I may yet be able to preserve my family's memory.\" {n}She shifts her gaze to you.{/n} \"Thank you, {mf|baron|baroness|king|queen}! May {g|Erastil}Erastil{/g} forever grant you strength and health!\""
+    },
+    {
+      "Key": "984f06e7-84a4-4a87-a9a9-5ed8b0ed8675",
+      "Value": "{n}The woman is completely speechless for a moment.{/n} \"You... you're a saint! May {g|Erastil}Erastil{/g} preserve you!\""
+    },
+    {
+      "Key": "8ad70a92-eeac-4faa-bdc7-5cc21235dba1",
+      "Value": "{n}The woman examines you closely.{/n} \"You know, Your {mf|Grace|Grace|Highness|Highness}... people spout all kinds of nonsense about you, but I can tell you have a good heart. A heart that aches over the troubles of your people!.There's nothing for me in {g|Galt}Galt{/g} — my home is here! Thank you again, and farewell, Baron{mf||ess}. I'm going back to the city. And I'll make sure everyone knows the kind of person you truly are!\""
+    },
+    {
+      "Key": "d928bf33-6fc3-44a7-8c6d-d4a97517505a",
+      "Value": "\"You... But...!\" {n}The woman's face reddens, and tears stream from her eyes.{/n} \"It's a wonder the earth doesn't open and swallow you whole! It's better than you deserve!\" {n}She starts sobbing as she walks away.{/n}"
+    },
+    {
+      "Key": "9a084751-98bc-4662-906e-dd26d9155d08",
+      "Value": "{n}The woman blushes and lowers her gaze.{/n} \"Forgive me, Your {mf|Grace|Grace|Highness|Highness}.\" {n}Her whisper is barely audible.{/n} \"It's difficult to confess, but... I'm running away. Two men in my village died from the magic disease. {g|Erastil}Erastil{/g} willing, I'd save myself...\""
+    },
+    {
+      "Key": "edd9c97a-054d-4bc2-9ab5-8d126cc45a67",
+      "Value": "\"Yes. Mother died last year, and my brother moved to the city... I hope that at least there he'll be safe from the disease.\""
+    },
+    {
+      "Key": "b18a3a66-716f-46bf-8382-b90f436758cf",
+      "Value": "\"Yes, {mf|baron|baroness|king|queen}?\""
+    },
+    {
+      "Key": "d223cd98-e34c-4ec8-b258-1abd491fca6b",
+      "Value": "{n}The woman slowly slides the pearls through her fingers.{/n} \"They're so beautiful... It's such a pity I'll have to part with them. Perhaps it would be best to cut the string, spend the pearls one at a time...\" {n}She sighs and forces a smile.{/n} \"But I'll manage, Your {mf|Grace|Grace|Highness|Highness}. Thank you for your help. I'll never forget what you've done!\""
+    },
+    {
+      "Key": "884cea3b-ce03-4626-8034-d4645d8ed29c",
+      "Value": "{n}The woman hesitates, tugging at the edge of her cloak and averting her eyes.{/n} \"Then keep the trinket for yourself,\" {n}she mumbles, barely audible.{/n} \"My life's more important to me.\" {n}She lowers her head and turns away.{/n}"
+    },
+    {
+      "Key": "9e1c0df4-a24a-4562-8eda-971ebbfdcb2b",
+      "Value": "{n}The woman stares at you anxiously.{/n} \"What is it?\""
+    },
+    {
+      "Key": "a25f6d6b-c1da-49fd-8331-abb1ffcb9803",
+      "Value": "\"Just robbed, let you go away alive? This is big luck.\""
+    },
+    {
+      "Key": "2b8f13d2-7e4a-4ec3-8a23-2b53babe3fd3",
+      "Value": "\"Pft! Afraid of some goblin are you?! You should've just given him a good old kick, and he'd be done for!\""
+    },
+    {
+      "Key": "b777d299-b5e2-45c6-bec7-f722dbeb7819",
+      "Value": "\"Pft! Afraid of some pygmy are you?! You should've just given him a good old kick, and he'd be done for!\""
+    },
+    {
+      "Key": "82597573-4db9-44af-8e46-b3e800178176",
+      "Value": "{n}Tristian looks at the ground, clutching his holy symbol, mumbling. {/n} \"Disease... This disease, everywhere...\""
+    },
+    {
+      "Key": "1a2a5773-9831-4dfc-80b0-2c507db39429",
+      "Value": "\"Your whining irritates me.\""
+    },
+    {
+      "Key": "f62ff9d4-d7a1-4305-aad5-f385a3adb46f",
+      "Value": "{n}The woman casts a scared glance at Jaethal and tries to calm down her tears, or at least to weep more quietly.{/n}"
+    },
+    {
+      "Key": "2d790727-20c9-4b4b-8fa0-d7f242b3795e",
+      "Value": "{n}The woman glances down and gasps in terror.{/n} \"Good gods! The beast from before looked just like the beast that's traveling with you! Gods have mercy!\""
+    },
+    {
+      "Key": "ffbed992-0f84-4ca8-a3d0-d9bf2f7441c2",
+      "Value": "\"Strange something. No think-thought who it could be.\""
+    }
+  ]
+}

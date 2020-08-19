@@ -1,0 +1,261 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "fbef27ef-bb5c-4d75-b858-80d5e46c9c37",
+      "Value": "\"So, how do you like living among 'lesser races'?\""
+    },
+    {
+      "Key": "8f759dce-f07a-451a-b0ed-3b1415f0314c",
+      "Value": "\"How are things in Varnhold?\""
+    },
+    {
+      "Key": "a387826c-790f-4e1d-87df-03d161922b7a",
+      "Value": "\"I bet you don't enjoy bowing before a mortal superior, do you?\""
+    },
+    {
+      "Key": "08303fc9-bba0-46b5-a19a-f8219793b015",
+      "Value": "\"I hope you've been smart enough to avoid plotting behind my back.\""
+    },
+    {
+      "Key": "5ba8f639-550d-4902-b1e2-a9c6a7839772",
+      "Value": "\"Perhaps you can use your knowledge about governing in practice?\""
+    },
+    {
+      "Key": "34b2dee9-ea13-4925-968c-63ae993efcc4",
+      "Value": "\"Tell me about your past.\""
+    },
+    {
+      "Key": "7a51a0bc-b909-4d14-a6bd-033f94d3c381",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "977b2da3-0cdb-4cfd-b0b5-687074be02a9",
+      "Value": "\"Willas Gunderson, the man who started all this. How did he manage to get into your tomb in the first place?\""
+    },
+    {
+      "Key": "d30b486b-c4cd-4f73-b5f1-07d9d1482c5f",
+      "Value": "\"What exactly are you watching?\""
+    },
+    {
+      "Key": "8f3243e3-5d42-4cd1-8c0b-541b486beda6",
+      "Value": "\"Since moving to the capital, you've become extremely polite.\""
+    },
+    {
+      "Key": "6d88b0e3-3421-4b63-898d-8fc75e9a507e",
+      "Value": "\"Have you learned anything interesting?\""
+    },
+    {
+      "Key": "28b72efd-09c9-440d-a8f7-e0a833fad654",
+      "Value": "\"Enough about you for now.\""
+    },
+    {
+      "Key": "ee688cfa-8ac0-4788-b743-8dc5dd3e85e1",
+      "Value": "\"Let's talk about what happened in your tomb.\""
+    },
+    {
+      "Key": "10bf0e59-fbbd-4318-85b2-5541c104119e",
+      "Value": "\"The curse Tristian bestowed on you — why did it work?\""
+    },
+    {
+      "Key": "d9f8f2e4-2971-4635-a9b1-7aa804dfd504",
+      "Value": "\"What was the ancient cyclopean empire like?\""
+    },
+    {
+      "Key": "64dea3c9-5115-4ad9-aac9-b8ca8c4234ab",
+      "Value": "\"Enough about the past.\""
+    },
+    {
+      "Key": "6b5c7932-32c0-4510-b51a-4aab8a5a5601",
+      "Value": "\"Let's go back to some other questions.\""
+    },
+    {
+      "Key": "07f55b12-74d4-4052-87f7-21bdbdfad3de",
+      "Value": "\"Where did the Oculus of Abaddon come from?\""
+    },
+    {
+      "Key": "57dcaf26-1b83-496b-92f8-6174ab33984f",
+      "Value": "\"Who were you back in your previous life?\""
+    },
+    {
+      "Key": "e468819a-4c4d-45eb-a5e0-0e8fe32142d9",
+      "Value": "\"Remind me, how did you abduct the citizens of Varnhold?\""
+    },
+    {
+      "Key": "d502368b-aeee-4e02-b4b3-9fee6fa798d3",
+      "Value": "\"How do you like your position?\""
+    },
+    {
+      "Key": "4c2e5d06-2c05-4ceb-9d08-03bf9708bfb3",
+      "Value": "\"Let's discuss this 'necromancy under the city'.\""
+    },
+    {
+      "Key": "7077af45-b017-47b9-9f6f-37e6dace55d8",
+      "Value": "[Show him the key from the magical prison] \"Can you tell me anything about this key?\""
+    },
+    {
+      "Key": "86e9c0dd-7e1a-4b1a-8ded-0b4562c226a2",
+      "Value": "\"I have no more questions about it.\""
+    },
+    {
+      "Key": "f8a76bb4-0b43-44fd-b663-8c4400e73303",
+      "Value": "\"I found a letter in the ruins under the city. In it, a mage named Farnirras speaks of some horrible danger...\""
+    },
+    {
+      "Key": "2798475d-732d-4a25-9ec4-df3e43060f67",
+      "Value": "\"Perhaps some of your followers have visited these ruins?\""
+    },
+    {
+      "Key": "3094c585-2851-419b-8e55-423c900d2351",
+      "Value": "\"The ruins under the city were once a laboratory of an Iobarian mage named Farnirras, who turned into a lich. And who is now dead.\""
+    },
+    {
+      "Key": "0da32671-0935-4922-a9c1-fe363b840a8a",
+      "Value": "\"Tell me about the Oculus of Abaddon.\""
+    },
+    {
+      "Key": "ae9e787d-8365-494a-a53c-bccbb24ca3ba",
+      "Value": "{n}The man stares at you with dark eyes, his lips curved with displeasure.{/n} \"You... I mean, 'Your {mf|Grace|Grace|Highness|Highness}' wishes to speak with me?\""
+    },
+    {
+      "Key": "5527ecc0-4817-4f2d-a7d9-507280eb2d98",
+      "Value": "\"What do you — does Your {mf|Grace|Grace|Highness|Highness} need?\""
+    },
+    {
+      "Key": "67caa2ef-225a-4ff1-8631-3e43ac68448f",
+      "Value": "{n}\"Maegar\" looks around the hall, then turns back to you.{/n} \"I watch. I learn. There is much I must comprehend of this... new world.\""
+    },
+    {
+      "Key": "5ebc7e4d-225f-43d0-b76a-12b6fcc345e6",
+      "Value": "\"I've enough to occupy my time without bothering with the bustling of insects. Address your question to someone who cares.\""
+    },
+    {
+      "Key": "0e48422f-32bf-4615-bddb-57a842a0fc3f",
+      "Value": "{n}A grimace of fury appears on \"Maegar's\" face, but he quickly regains control of himself.{/n} \"Lesser races are known for their pettiness. The awkward jokes of Your {mf|Grace|Grace|Highness|Highness} simply provide further evidence of such.\""
+    },
+    {
+      "Key": "76312be7-361f-499a-8c23-e000c14b913c",
+      "Value": "{n}\"Maegar\" gives you a wolfish smile.{/n} \"Why should I? I am absolutely safe in this castle, right until I restore my powers. I believe it will take some time though — at least till the end of your days\"."
+    },
+    {
+      "Key": "329f8e0d-15b9-4693-b9ac-063780478d75",
+      "Value": "\"And deprive myself of the pleasure of watching Your {mf|Grace|Grace|Highness|Highness} fuss about? The politics and city management of you lesser races is about as interesting as your ridiculous religions and traditions.\""
+    },
+    {
+      "Key": "b8c76830-67c6-4a71-b975-0885b94fed20",
+      "Value": "\"The words of your primitive tongue are incapable of expressing the greatness and power of my tremendous empire, known by your kind as {g|Koloran}Koloran{/g}. Your mages and alchemists can hardly dream of all the knowledge we gathered in our sanctuaries. The splendor of our estates would put your wildest fantasies to shame.\""
+    },
+    {
+      "Key": "0c81bcf8-0fa6-41cb-8b0a-42715953eb38",
+      "Value": "\"Then... it was all gone. The books of your kind call this cataclysm {g|Earthfall}'Earthfall'{/g}. Our greatness, our legacy — empire builders, owners of continents! — were a thing of the past. The cyclopes who survived were subsumed by lesser races.\" {n}\"Maegar\" goes silent, lost in his own thoughts.{/n}"
+    },
+    {
+      "Key": "cb75462f-f9c4-4708-8fe0-bb4bf727e0ae",
+      "Value": "{n}\"Maegar\" ponders it a moment.{/n} \"I hadn't considered it much — I've as much interest in that as anything else regarding you lesser races. I suppose it is odd — extremely so, actually. The thief managed to pass the gates, travel through the Valley, enter the tomb, and escape the guards... all by himself. Is it possible someone helped him?\""
+    },
+    {
+      "Key": "91369ee6-1fac-42d2-b0f5-b6b1d6bc1a0b",
+      "Value": "\"Despite the great discomfort, I'm actually glad to have started a new life under a false name and identity. I won't repeat my prior mistakes, believe me. My essence is now hidden from everyone, my true name will eventually be forgotten — over ages, if necessary — and then, I will become truly invincible.\""
+    },
+    {
+      "Key": "b628eadf-50c6-40a4-b8ed-b30269f459db",
+      "Value": "{n}\"Maegar\" rolls his eyes, but he refrains from commenting.{/n}"
+    },
+    {
+      "Key": "83166d1f-e28a-4c3f-a15f-35205cdc3670",
+      "Value": "\"Humans. Elves. Other beings that were once little more than dust beneath my feet. A new perspective has been opened before me. It is joyless and dull, but it is still worthy of my attention, should I wish to survive in this new world — and eventually conquer it.\""
+    },
+    {
+      "Key": "064706e0-227d-44ab-92e3-9d5ae3fa50d7",
+      "Value": "{n}\"Maegar\" leans in, as though suspecting someone may be eavesdropping.{/n} \"I must play the role of your subject. Do you think your minions would not notice if I spoke with their {mf|baron|baroness|king|queen} as I would a simple stable hand?!\" {n}\"Maegar\" straightens himself, casting a sidelong glance your way as he snarls with contempt.{/n} \"Besides, I really am quite at your mercy... for the moment.\""
+    },
+    {
+      "Key": "bcc022b8-3d7d-4331-b3db-4c7f1b22ff35",
+      "Value": "\"I took the liberty of touring your dwelling and found several books on your history and culture. I found a few thick volumes, bound in leather and locked with metal, standing in plain sight within the great hall. You must have been quite proud of them, to display them so prominently.\""
+    },
+    {
+      "Key": "d41d16ca-9ed5-4efe-a164-919ee576d817",
+      "Value": "{n}\"Maegar\" can't restrain a scoff of contempt.{/n} \"Such pathetic reading. Your chroniclers can barely string two words together, and your religious beliefs have the sophistication of an ant. Even the works of your artists are barely tolerable. As your subject, I felt obligated to save your palace from such terrible eyesores — I burned the trash in the nearest fireplace.\""
+    },
+    {
+      "Key": "1379dea9-c233-469a-9188-72e445898170",
+      "Value": "{n}\"Maegar\" raises an eyebrow.{/n} \"An odd proposal. What else do you need to know?\""
+    },
+    {
+      "Key": "c3e1322b-222b-469f-ac41-093a8b9cb8d0",
+      "Value": "{n}'Maegar' keeps silent for so long that you consider simply changing the topic.{/n} \"There is an inmost core in every soul, its basis, its essence. Fool you'll be if you try to transform this essence into something more material or distinct. And that was exactly what I did: turned my name into my banner, my motto, telling everyone what I am. Mighty Vordakai, the demolisher of the empires! ...It was the name that they used against me. Added to the curse, it turned out to be the deadliest weapon\". {n}'Maegar' winces, as if in pain.{/n} \"It was my mistake. Perhaps the only true mistake I ever made.\""
+    },
+    {
+      "Key": "a45d23ff-d6be-45da-9d32-1fb52c419413",
+      "Value": "{n}\"Maegar\" shakes his head.{/n} \"Why? Why bother speaking of what's irrevocably gone? Fine, then. Ask your questions, and let's be done with it.\""
+    },
+    {
+      "Key": "8a73c005-b53b-4d27-b990-bf0e24fdae63",
+      "Value": "\"That's what I tell myself every day, {name}. Every. Single. Day.\""
+    },
+    {
+      "Key": "1935a469-466b-4a60-99de-d90f04c19d9f",
+      "Value": "{n}Maegar stares intently at the wall behind your back, as though the stones behind you are of more interest than any questions you might have.{/n}"
+    },
+    {
+      "Key": "719fbc84-9dbb-4b5a-82d9-8067a34e5582",
+      "Value": "\"A ruler. A great necromancer. A true master, who learned to use the most precise tools of manipulation and coercion — over the living and the dead. But my shortsighted brethren decided my power had become too great. Once I'd pledged myself to the Four Horsemen, and with their blessing traded my life for immortality, the traitors made their perfidious strike. That is how my palace became my tomb, in the heart of which I slept for thousands of years.\""
+    },
+    {
+      "Key": "86145da5-37c5-4b86-af9e-4908179e1396",
+      "Value": "\"Even I don't know how or when the Oculus of {g|Abaddon}Abaddon{/g} appeared in our world. I found it while searching for a suitable location for my palace. It was buried in the heart of the mountain, deep underground, stored in a luxurious chamber that must have been built long before my empire rose. The room was decorated with the symbols of the Four Horsemen along with ancient carvings, the origins of which could only be guessed at by the wisest scholars of my empire.\""
+    },
+    {
+      "Key": "77a7ea5a-8384-46d6-8355-44f86c588be6",
+      "Value": "\"But I didn't call for the help of strangers, oh no. I secretly built my own palace around this mysterious chamber, killed all the builders, and did all in my power to ensure the secret of such a great gift would remain mine and mine alone. Since the Oculus of {g|Abaddon}Abaddon{/g} replaced my eye, I couldn't be separated from the great creation that opened the great powers of Abaddon before me.\""
+    },
+    {
+      "Key": "06bef29b-fb79-417d-8826-dd8533765458",
+      "Value": "\"The Oculus of {g|Abaddon}Abaddon{/g}. It grants me the strength to easily subdue dozens of mortals. After finding the hideout of the thief who'd stolen treasure from my palace, I used the Oculus to control the minds of everyone within the feeble walls of {g|Varnhold}Varnhold{/g}. I simply made them come to me.\""
+    },
+    {
+      "Key": "1b5052eb-f205-4ff1-aa37-8e56e6af7df8",
+      "Value": "\"Without the Oculus of {g|Abaddon}Abaddon{/g}, I won't be able to give those thieves what they truly deserve. Everyone must pay — from the ruler of the place down to the last mewling brat born within its wretched walls.\""
+    },
+    {
+      "Key": "0cfb92d6-ae6b-4a62-ac61-641cc9eb3a01",
+      "Value": "\"Everything concerning magic still quickens my pulse. It reminds me of the days when reality itself could change with a mere snap of my fingers. As for matters concerning humans... let's put it this way: my attitude towards lesser races hasn't changed at all.\""
+    },
+    {
+      "Key": "f188ad23-da5c-4ec3-b311-c24a92e84aeb",
+      "Value": "{n}'Maegar' curves his lips in a wicked grin.{/n} \"I'm done with your 'affairs'. I will no longer waste my precious time on them.\""
+    },
+    {
+      "Key": "b29f6a34-1d34-4a53-8e9d-fb957048db8f",
+      "Value": "{n}\"Maegar\" greets you with a watchful gaze, sniffing the air around you, as if trying to detect some smell.{/n} \"I knew it. Necromancy, here, under the city. That's what's been bothering me lately...\""
+    },
+    {
+      "Key": "67018d93-329a-4e97-88f2-5a0f01faa742",
+      "Value": "\"Oh yes, please listen — about that hole you found in the well. Everything down there was permeated with magical energy, and not a simple kind. The signature, the principles... the one who used to dwell there learned much from the cyclopes. And it would be good if he didn't use any of my own designs...\""
+    },
+    {
+      "Key": "3974d846-6ad2-4350-bd42-121d9126255e",
+      "Value": "{n}\"Maegar\" takes the key into his hands and seems to sniff it, and then bursts into laughter.{/n}\n\"This key? I wish I knew whose joke this was, and what it's all about! — This is a phylactery. It's the source of a lich's un-life... Someone risks the same path that I once followed. True greatness often gives rise to a crowd of imitators.\""
+    },
+    {
+      "Key": "b6200f08-6d2b-4c9c-9873-574a4815fa29",
+      "Value": "\"Nevertheless, keep an eye on this riddle. Otherwise this ant-hill you call your capital won't be lasting long…\""
+    },
+    {
+      "Key": "1921a9e9-aa77-4d35-a982-4ecebdb8798e",
+      "Value": "\"I doubt this 'mage' is still among the living. He's off somewhere, happily serving as an obedient zombie, squirming at the feet of his new master — the one whose traces I've sensed.\""
+    },
+    {
+      "Key": "96cb7f7d-708b-4c3a-9356-3ec1cf456f42",
+      "Value": "\"No. This is not cyclopean work. I can only assume... In your books, I've read of {g|Iobaria}Iobaria{/g}, a pathetic parasite that grew and fed on the ruins of my empire. One of its mages might have learned the cyclopes' ways. The thought that these putrid worms might have claimed our secrets — oh, it sickens me... but most likely that's exactly what happened. The mage who used to cast his spells in the ruins under the city was undoubtedly human.\""
+    },
+    {
+      "Key": "6f081c75-8dc1-407a-9137-8bfe843a12f2",
+      "Value": "{n}\"Maegar\" curves his lips in a smug grin.{/n} \"That's the first good news I've heard for a long, long time. Not everyone deserves immortality. Definitely not those pathetic impostors living off the scraps of someone else's power.\""
+    },
+    {
+      "Key": "6f87b67e-79a0-4b43-8c0c-c19a39921e0e",
+      "Value": "\"Why would I speak about what's been taken? Your henchman, this... priest — he took it, carried it away, leaving me without my powers. When the Oculus shone in my socket, there were no secrets to me. I could see everything, reveal hidden faces, look into the future, subdue slaves... And now another has those powers. I know not why or what for.\""
+    }
+  ]
+}

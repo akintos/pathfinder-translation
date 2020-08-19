@@ -1,0 +1,661 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "6118b705-c386-4345-8727-e1595cedb0a0",
+      "Value": "\"Bring it before us as an offering so that an Eldest may sip from it,\" the curse said. Having filled the cup, Nyrissa {d|c61 Nyrissa Left}appeared{/d} before the gods of the First World. That was when the Lantern King played another joke — he announced that the nymph, cursed for her attempt to become one of the Eldest, would now get to be one! The Eldest of dust and trampled hope, doomed to drink from her own cup and suffer terrible pain. Well, everyone got what they wanted: we got a peaceful kingdom, Nyrissa got her status as an Eldest, and the Lantern King got a finale to his horrific performance."
+    },
+    {
+      "Key": "5db8ab23-b591-4194-97c3-de6c29c177d8",
+      "Value": "\"Bring it before us as an offering so that an Eldest may sip from it,\" the {d|CURSE}curse{/d} said. Having filled the cup, Nyrissa {d|c61 Nyrissa Left}appeared{/d} before the gods of the First World. That was when the Lantern King played another joke — he announced that the nymph, cursed for her attempt to become one of the Eldest, would now get to be one! He commanded her to drink from the cup, and he was probably about to deliver some pompous speech, but..."
+    },
+    {
+      "Key": "9d2cc8e2-460e-4cc7-81c8-064b3e2e46d5",
+      "Value": "Now that the Eldest and other spiteful beings wouldn't be bothering us, the {mf|king|queen} returned to {mf|his|her} subjects and celebrated the victory and the end of the kingdom's miseries with great fanfare!\nEverything gradually returned to normal, including our exciting lives — not always peaceful, but also not troubled by invasions from another world. And little by little, our heroes and the common folk began to forget the sorrows of the past."
+    },
+    {
+      "Key": "d5067494-3788-4d22-9bdd-8b7f75f81434",
+      "Value": "So the kingdom returned to Golarion, but not without taking a piece of the First World with it. Miracles and strange occurrences, both kind and cruel, became the norm — not that the citizens hadn't grown used to that! And the {mf|king|queen} became the Lantern King's herald. Who knows what mission was assigned to {mf|him|her}? Our scouts now sneak across Golarion with secret tasks, and our fighters and wizards spend plenty of time in the First World. But we became something straight out of legends — a country with a mysterious, immortal {mf|king|queen} whose existence spans two worlds!"
+    },
+    {
+      "Key": "0f05ecf9-e6a2-4e47-b4cc-6655e168daf6",
+      "Value": "So the kingdom returned to Golarion, but not without taking a piece of the First World with it. Miracles and strange occurrences, both kind and cruel, became the norm — not that the citizens hadn't grown used to that! Of course, the Lantern King wasn't thrilled with the way things worked out, but who cares? {Name} and {d|c61 Nyrissa Evil}Nyrissa{/d}, the {mf|cursed king and queen|cursed queens}, are ever ready to face the power of the Eldest. Until that time comes, our leader spends a lot of time in the First World, learning its secrets and testing {mf|his|her} new powers. The immortal {mf|king|queen} and {mf|his|her} kingdom became a legend come true in Golarion!"
+    },
+    {
+      "Key": "e5092785-649f-42ac-847a-fb86f69ce496",
+      "Value": "That's how the story ended. The Lantern King vanished without a trace, and we never heard from him again. {d|c61 Nyrissa TE}Nyrissa{/d} helped return the kingdom to Golarion and followed her beloved there. After celebrating the victory with great fanfare, everyone began work on restoration efforts. Nyrissa helped the {mf|king|queen} in every way possible, and she quickly came to be loved across the country. No one would have thought this kind nymph was a former villain, so recently guilty of causing all those afflictions!"
+    },
+    {
+      "Key": "d3f6f396-29e9-431b-a22c-40be06b7b084",
+      "Value": "The kingdom built by our hero{mf||ine} became an example for all its neighbors. What else would you expect? The Stolen Lands became the only place where the citizens sincerely toast the health of their ruler! The citizens lived trouble-free, and taxes made it to the treasury without losses. A powerful army guards the peace, exploration of magic is on par, the temples are flooded with their congregations, and — most importantly — our cultural contributions are at least the equal of Absalom!"
+    },
+    {
+      "Key": "7267c0e8-6745-4193-85bf-d6253ab7d02f",
+      "Value": "Under the wise leadership of the {mf|king|queen}, the Stolen Lands became a true country! There was still much to be done, of course, and some of it will need to be finished by our hero{mf||ine}'s descendants, but there are no longer cutpurses on every corner, and the peasants aren't afraid some new self-proclaimed chief will show up and strong-arm himself into power!"
+    },
+    {
+      "Key": "e0803b29-28c7-4388-892c-8745abfe761b",
+      "Value": "Sadly, the numerous misfortunes that befell the {mf|king|queen} took their toll on the Stolen Lands. Matters left to luck and state problems left unattended meant the Stolen Lands would remain a lawless realm. It turns out you can't be both a great hero{mf||ine} and a successful ruler at the same time — or the hero{mf||ine} of this story couldn't, at least."
+    },
+    {
+      "Key": "5857c049-74d2-439d-b319-3fc617392c54",
+      "Value": "The Stolen Lands still remain a domain of bandits. However, every outlaw in the area {d|Kingdom Mafia}knows{/d} that if you don't bow to this new chief who wears a crown and calls {mf|him|her}self {mf|king|queen} — you're in trouble! The cutthroats know their place and unfailingly respect the hierarchy, but the kingdom's neighbors think it beneath their dignity to consider the {mf|king|queen} a true monarch."
+    },
+    {
+      "Key": "3383dd63-8b1a-4022-985c-4f06e19292f5",
+      "Value": "The {mf|king|queen} firmly eliminated banditry in the Stolen Lands, to the delight of the long-suffering {d|Kingdom Citizens}locals{/d}, and brought peace and law to the area. That peace didn't last long, however — a \"jolly gang\" appeared in the Narlmarches, claiming to fight the \"tyranny\" of the {mf|king|queen} \"for the good of the common people.\""
+    },
+    {
+      "Key": "29458507-a7dd-4b46-bb1d-2f6d60eacbe3",
+      "Value": "The Stolen Lands are called the \"land of popular rule,\" for in these lands, {d|Kingdom Folk}common people{/d} feel fully in control of their fates! Unfortunately, the total absence of authority allowed one of the richest regions of the kingdom to proclaim itself an independent republic, and retrieving those territories came at a rather high price for the {mf|king|queen}."
+    },
+    {
+      "Key": "96b33970-34a1-4632-aa45-3adb22ef718d",
+      "Value": "The {mf|king|queen} did the right thing, leaning on {d|Kingdom Merchants}the richest{/d} citizens of the Stolen Lands in {mf|his|her} ruling. Thanks to their many trade relations, money floods into the kingdom, and the fact that the private mercenary armies bought with the merchants' money continue to gain power can still be overlooked."
+    },
+    {
+      "Key": "2821415e-189b-4cbd-9fd7-583690b23639",
+      "Value": "Just half a year after the war with the First World, Galt moved its troops to the southern border of the kingdom. Their attack was rebuffed — the enemy state's infantry could do little against {d|Kingdom Might}soldiers{/d} who were skilled with their swords and knew the military arts better than the alphabet! Since then, Galt hasn't risked crossing any borders again, fearing cruel retaliation for further insolence."
+    },
+    {
+      "Key": "28d0daca-7934-487b-802d-465aeca5aef8",
+      "Value": "Just half a year after the war with the First World, Galt moved its troops to the southern border of the kingdom. Their attack was rebuffed — the enemy state's infantry retreated when the army's {d|Kingdom Magic}wizards{/d} brought down rains of fire and magical arrows on the heads of the flabbergasted enemy soldiers! Since then, Galt hasn't risked crossing any borders again, fearing cruel retaliation for further insolence."
+    },
+    {
+      "Key": "58961764-8555-4c40-b726-bb6a62c3f8af",
+      "Value": "The kingdom's treasury had been properly filled due to the efforts of the Treasurer and the {mf|king|queen}, until a scandal broke: for several years, the court's {d|Kingdom Official}advisors{/d} had been pocketing tax money! News of the noisy case echoed throughout the area, and for quite some time, neighboring states snickered at the {mf|king|queen}'s \"incorruptible government.\""
+    },
+    {
+      "Key": "88404ce0-c5eb-4ca2-bb61-8190fe6ba9b1",
+      "Value": "The {mf|king|queen}'s subjects praise {mf|his|her} {d|Kingdom People}generosity{/d} — while citizens of neighboring lands groan from crippling taxes, citizens of the Stolen Lands have it pretty good! Truth be told, the treasury isn't always capable of paying the royal bills, and the throne room's adornments are clearly decaying, but sometimes you have to buy the people's love — literally!"
+    },
+    {
+      "Key": "7cf5a726-06b9-4e97-88bc-a399f9f6f0ff",
+      "Value": "As the years went by, the Stolen Lands saw fewer small unknown cults and more temples devoted to {d|Kingdom Religion Control}famous{/d} and powerful gods. Followers of half-forgotten religions prefer to avoid the area, as the locals are a bit overzealous about the \"religious purity\" of their homeland."
+    },
+    {
+      "Key": "bbc1239e-cfe3-4a85-8929-d22b0efa4cd9",
+      "Value": "The {mf|king|queen} decided to {d|Kingdom Religion Liberty}stay out{/d} of the religious lives of {mf|his|her} subjects — and so small cults and sects began to blossom in the Stolen Lands. More and more often, the theological arguments between feuding congregations would turn into full brawls — I could only hope the guards had enough power to keep the rage of the fanatics at bay..."
+    },
+    {
+      "Key": "432bb83b-be64-463b-959a-3910b1c1ba73",
+      "Value": "The tribulations suffered by the citizens of the Stolen Lands made them true patriots — intolerant to strangers, and ready to fight to the death for their homeland. Foreign ambassadors were reluctant to accept invitations to visit these lands, as they knew well that the kingdom's citizens prefer to solve their own problems and {d|Kingdom Isolation}stay out{/d} of external affairs."
+    },
+    {
+      "Key": "8881e30b-a622-4279-852c-fde265cdf2c3",
+      "Value": "Who'd have thought that some tiny barony founded in the Stolen Lands by an adventurer would become a real kingdom, playing a prominent part in {d|Kingdom Open}world{/d} politics! Of course, not everyone likes the proactive stance of this young, bold state, but the fact of the matter is they can't afford to ignore the {mf|king|queen} and {mf|his|her} diplomats."
+    },
+    {
+      "Key": "d56e5e3c-7098-499c-a31f-aaf87baebce3",
+      "Value": "The kingdom reached incredible {d|Kingdom Arcane Liberty}heights{/d} in the development of magical arts. Sorcerers, wizards, and other initiates feel like kids in a candy store in the Stolen Lands. Sadly, ordinary subjects aren't so thrilled — they have to deal with the consequences of careless experiments and failed magical tests!"
+    },
+    {
+      "Key": "f4d073d4-78c9-4516-a433-36dbd95b7a60",
+      "Value": "The {mf|king|queen} thought it best to {d|Kingdom Arcane Control}limit{/d} the use of magic by regular citizens. That decision, oft criticized by prominent minds in Brevoy, more than once proved to be the right one in the end — the kingdom is reliably protected from any magical \"incidents\" that might be caused by unskilled wizards or nefarious infiltrators."
+    },
+    {
+      "Key": "c3322739-e11c-429c-991c-a9211a8fdb02",
+      "Value": "How do you turn the Stolen Lands, savage and unruly, into a stronghold of safety and stability? The {mf|king|queen} found an answer: by creating a police state! There are always some who are unhappy with the \"excessive {d|Kingdom Source}interference{/d}\" advisors have in the citizens' lives, of course, but their protests are easily overlooked."
+    },
+    {
+      "Key": "33000ba9-80d7-4567-8252-e06d512c1c8f",
+      "Value": "How do you turn the Stolen Lands, savage and unruly, into a stronghold of safety and stability? The {mf|king|queen} found an answer: by tripling or even quadrupling the number of {d|Kingdom Defense}guards{/d}! These guards consider themselves something of a privileged class, of course, allowed much more leniency than anyone else, but the ordinary citizens, feeling safe and secure, prefer to just overlook the discrepancy."
+    },
+    {
+      "Key": "5579e2cb-7d8a-4629-859e-25eebb0b6cf1",
+      "Value": "Generously {d|Kindom Culture Money}sponsored{/d} by the state, many bards, musicians, poets, and other servants of Shelyn create an abundance of artistic works praising the ruler and {mf|his|her} wisdom! Unfortunately, these creations are significantly less popular outside the kingdom."
+    },
+    {
+      "Key": "b69a0ebe-3a5f-4960-bfca-ad4e224cb7e4",
+      "Value": "Although the state doesn't directly {d|Kingdom Culture Liberty}support{/d} creators, the kingdom's freedom of speech and self-expression became fruitful soil for dozens of talented people across the Stolen Lands. Many creators achieved recognition and fame due to their efforts, but the most talented soon left the \"edge of the world\" in search of a more worthwhile audience."
+    },
+    {
+      "Key": "5ee71a45-142d-4029-9851-e223d9e58395",
+      "Value": "The mysterious \"Minister,\" whose actual line of work is still an enigma to the {mf|king|queen}'s other advisors, took care of securing the state from the schemes of spies and other provocations. Their {d|Kingdom Plotting}stratagems{/d}, political intrigues, and diplomatic leverage bore interesting fruit, as other states decided they'd rather steer clear of a kingdom known for its ability to excel at shady games."
+    },
+    {
+      "Key": "791c0134-03b5-4d42-95ac-618cfc9e27bd",
+      "Value": "The \"Minister,\" whose responsibilities are hidden even to the {mf|king|queen}'s other advisors, did much to let the subjects sleep well at night. It didn't come without a cost, however — outside the Stolen Lands, the kingdom is known as home to the {d|Kingdom Violence}cruelest{/d} investigators and inquisitors, who zealously persecute any enemies of the state!"
+    },
+    {
+      "Key": "350e5590-d995-410b-8d50-925649c8470a",
+      "Value": "The {mf|king|queen} became a true patron of fine crafts. Over time, the castle treasury filled with wonderful gifts from the best masters in the area. Armor, weapons, even magical artifacts — and the collection is still growing!"
+    },
+    {
+      "Key": "ed67d7df-6532-4270-874e-5da6ddd6755b",
+      "Value": "No kingdom can function without its nobility, and the kingdom in the Stolen Lands is no exception. Landowners, ready to share the burden of ruling alongside the {mf|king|queen}, grew to be more and more influential over time — and the more pompous the court balls and receptions held by dukes and baronets became, the more eventful were the lives of the schemers and freeloaders who always live within the shadows of the powerful!"
+    },
+    {
+      "Key": "10fb8627-ebec-4a33-a96f-ac5a18f0aefe",
+      "Value": "Using necromancy in service to the state is a solution as bold as it is desperate! Pharasma's church still makes frequent — and frankly, reasonable — plans to send a massive crusade against the Stolen Lands to cleanse the nest of vice. The kingdom's citizens, however, not only yielded to the use of an undead workforce, they actually supported it! After all, someone has to do the most dangerous, most unpleasant work!"
+    },
+    {
+      "Key": "b538fcfa-f4db-4104-ae3d-46713ce097db",
+      "Value": "The feud between Brevoy's north and south, which had been smoldering for ages, finally sparked the fires of civil war. Our troops lent {d|c41 Choose Aldori}aid{/d} to the forces of Restov, led by Swordlord Jamandi Aldori. After several bloody battles, House Surtova was forced to recognize Restov's independence. The victory came at a high price, but we have no more loyal ally than once more free Rostland."
+    },
+    {
+      "Key": "b439c16f-a057-410c-a658-e507b363e4da",
+      "Value": "The feud between Brevoy's north and south, which had been smoldering for ages, finally sparked the fires of civil war. Our troops lent {d|c41 Choose Surtova}aid{/d} to the forces of House Surtova, suffering terrible losses as they took the brunt of the damage from the Swordlords' forces. The rebellion was soon crushed, and Jamandi Aldori was beheaded in Restov's central square — and for a long time, any hope of an independent Rostland died with her."
+    },
+    {
+      "Key": "d63bcb8f-54ee-4d19-8a30-effccfef9edf",
+      "Value": "The feud between Brevoy's north and south, which had been smoldering for ages, never sparked the fires of civil war. Through great effort, our {mf|king|queen} managed to bring both parties to the {d|c41 Brevoy Neutral}negotiating table{/d}. While Rostland didn't regain its independence, it did receive wide autonomy rights. Our relationships with both House Surtova and the Swordlords are respectful, but they've become lukewarm — because of us, neither side got everything they wanted!"
+    },
+    {
+      "Key": "22b93480-2d03-4217-9531-682edcef604c",
+      "Value": "The feud between Brevoy's north and south, which had been smoldering for ages, finally sparked the fires of civil war. We {d|c41 Independence}didn't interfere{/d}, watching as the forces of House Surtova and the Swordlords slaughtered each other. Alternating between brief truces and fresh fights, Brevoy was flooded with blood and grew weak. Its leaders could only watch helplessly as their border territories were slowly annexed by neighbors — until they fell to squabbling among themselves. The butchery in Brevoy jeopardized the peace of the entire region."
+    },
+    {
+      "Key": "55843c36-0259-4d48-95b1-a322106cf664",
+      "Value": "Taking advantage of the tension in his homeland, the restless, {d|c41 Lander Lives}unlucky traitor{/d} Lander Lebeda abandoned his domain again and set off to attempt another scam! Our kingdom, along with Brevoy, actually proposed to celebrate the day he disappeared as a national holiday, but the initiative was shot down by the vigorous protests of House Lebeda!"
+    },
+    {
+      "Key": "38fcb659-6fe7-43b9-ae07-b2267a20844a",
+      "Value": "The Tiger Lords found it difficult to recuperate after what Armag did to them. The barbarians remaining in Numeria weren't very happy that we sheltered the deposed chief and his supporters, but they were too afraid of {d|c41 Chief Armag}him{/d} to attack us over it. That bomb has a long fuse, but it's definitely burning — I'm afraid that a few generations down the road, the grandchildren of the current Tiger Lords may want to retaliate against us for their grandfathers!"
+    },
+    {
+      "Key": "314bae19-37a9-4b3a-9ce9-f25bdbd5d107",
+      "Value": "Amiri didn't remain {d|c41 Chief Amiri}leader{/d} of the Tiger Lords for long — ruling was certainly not her calling! The years she spent with them were enough for them to regain their forces, though, and they recovered to be one of the best mercenary armies in the region again. They revere her as a great hero, even more than they once worshiped Armag. And they respect our {mf|king|queen}, of course — {mf||s}he was a comrade in arms of the great Amiri, after all! Their tribe came to be loyal allies."
+    },
+    {
+      "Key": "5f3a8bbc-582f-41f9-81ec-df674292a9b9",
+      "Value": "{d|c41 Chief Ashman}Led{/d} by careful, level-headed Dugath, the Tiger Lords tribe reunited and started to lick the wounds left by the erratic Armag. Little by little, they once again became one of the strongest mercenary armies in the region. Dugath always assures our {mf|king|queen} of his friendship, but the {mf|king|queen} always stays on {mf|his|her} toes, understanding that anything could happen when that old fox is around!"
+    },
+    {
+      "Key": "88661525-ee29-44fc-850e-52d35f65721c",
+      "Value": "The Tiger Lords never fully recovered from the damage Armag did to the tribe. Lacking a strong leader and torn by infighting, the barbarians sank into a short but fierce internal war. Their lands were quickly appropriated by neighboring tribes, and the Tiger Lords were scattered across Numeria and the River Kingdoms, little more than pitiful remnants of a once great tribe."
+    },
+    {
+      "Key": "2322ba1b-833c-4db1-86f5-5d5038730db6",
+      "Value": "Pitax almost returned to its former state — a joyful city filled with beer of dubious quality and deals of questionable legality. The old trade houses lost the crown, but they retrieved the property Irovetti had taken from them. Soon, Pitax became almost like a second capital in the kingdom, a thriving city through which rivers of money from across the region ran."
+    },
+    {
+      "Key": "290a8b84-9e32-48c0-95d9-26ccb1640809",
+      "Value": "Having lost their {d|c51 No Guards}guard{/d}, Pitax was plunged into chaos. Soon another power was born from among the gangs fighting to redistribute the wealth, and a much more dangerous one — revolutionaries, dreaming of regaining Pitax's independence. Troops had to be stationed in the city, and the rebels responded with arson and political assassinations throughout the kingdom. Pitax was a headache to us for a long time."
+    },
+    {
+      "Key": "9bf7ea43-4e90-4f7e-b496-b0e3b639d62c",
+      "Value": "Pitax had never been a paragon of law and order, but now it had become one giant bandit den. That has its benefits — a good share of the profits made their way to the treasury without fail, and the black markets held anything you could hope to find. But Pitax brought a lot of trouble, too, as thieves, extortionists, and drug dealers spread their tendrils throughout the entire kingdom."
+    },
+    {
+      "Key": "2b93b640-1413-43ed-aa59-722c56305626",
+      "Value": "Pitax never regained its former stature. In their fight for power, both bandits and the relatively honest merchants lost all their strength, scaring away both customers and suppliers. Trade routes began moving through other cities. Pitax fell into decline, and the citizens quickly forgot all of Irovetti's atrocities, remembering his rule instead as a golden age for the region."
+    },
+    {
+      "Key": "8e06ce27-5430-49ea-b919-b56047ebc226",
+      "Value": "Amid chaos and fighting, Headmistress {d|c51 Atalia Rules}Gitaren{/d} managed to preserve the Academy of the Arts, though not its reputation. Only sycophants willing to dash off odes to the highest bidder (primarily our {mf|king|queen}) stayed to work and study under her tutelage. One could say the academy still flourishes — though in the same way a pond covered with duckweed turns green on a sleepy summer day, slowly becoming a swamp. No one dreams of studying at the academy anymore — but for those more concerned with reality than dreams, it will always have a comfortable room."
+    },
+    {
+      "Key": "359196f3-bd69-41b8-ac8c-c616dca9ca95",
+      "Value": "Maestro {d|c51 Annamede Rules}Belavarah{/d} gave the Academy of the Arts a second wind. Throwing out mediocre students and sycophants, she gathered within its walls talented visionaries, rebels, and freethinkers — those whose gifts felt cramped within the walls of more respectable institutions. She managed to do what Irovetti never could, namely make the academy truly famous, albeit scandalously so. And so what if, instead of odes to the {mf|king|queen}, the academy releases sneering pamphlets and revolutionary leaflets? It only helps {mf|his|her} reputation as a true patron of the arts."
+    },
+    {
+      "Key": "66876dda-4bf4-4dcf-8991-3155e6173196",
+      "Value": "{d|c51 Academy Elections}Self-administration{/d} turned the Academy of the Arts into a strange place. The court sycophants were quickly ousted — it turned out they weren't welcome when there wasn't someone like Irovetti constantly ordering odes to themselves. In their place came a motley, unpredictable crowd: eccentrics, fashionable authors of popular prints and cheap novels, charlatans, scribblers with delusions of grandeur, as many as three feuding \"experimental\" theaters... and even a few truly unappreciated geniuses! The academy is not only highly esteemed — there's no place like it, even in Absalom!"
+    },
+    {
+      "Key": "6549af27-9348-46eb-9a61-f16196d1a607",
+      "Value": "There was no place for art in the new Pitax. Students and teachers from the academy were scattered to the winds. Some found a place in neighboring courts, while others set off to earn some coin in roadside taverns. A third group, harboring anger and resentment toward the {mf|king|queen}, began weaving revolutionary plots. The {d|c51 No Academy}ruins{/d} of the Academy of the Arts still stand in the middle of the city, overrun with ivy — empty and unwanted."
+    },
+    {
+      "Key": "7364763b-89e3-4311-bf47-0ffbdf3d6226",
+      "Value": "Trolls and kobolds, two of the most savage native peoples living in the Narlmarches, were completely exterminated in the region. The forest paths became much safer, and the peasants' cattle have stopped going missing."
+    },
+    {
+      "Key": "75afbed5-87d0-4ec5-b3df-6818a2dc77f4",
+      "Value": "The Stolen Lands managed to eliminate kobolds, but not quite all the trolls. Even nowadays, unlucky travelers and hunters sometimes stumble across one of these huge man-eaters in the depths of the swamps and forests. Do they have some {d|c21 Hargulka Exiled}leader{/d} hiding out there? No one knows for sure, and likely no one ever will."
+    },
+    {
+      "Key": "d92e354b-6956-4a87-a5ee-e7e402373ed1",
+      "Value": "Hargulka, the troll king, still {d|c21 Hargulka Lives}lives{/d} in the Stolen Lands. Amazingly, he managed to bring his savage kin to heel, even organizing trade with nearby settlements of ordinary citizens! The common folk aren't exactly excited to have such neighbors, but they'll settle for trolls who've switched their menu to forest game and the cattle people sell them!"
+    },
+    {
+      "Key": "aca5f02c-d708-4a99-adc4-abe75b3e2626",
+      "Value": "The dangerous, man-eating trolls disappeared entirely from the forests and swamps of the Stolen Lands. Kobolds, though, being sneaky and clever, are still sometimes met by travelers and hunters who wander off the beaten track. Some even say the short reptiles still praise the \"great king\" {d|c21 Tartuk Exiled}Tartuk{/d}, but no one knows for certain — as soon as anyone approaches the kobolds, they forget their military honor and turn tail!"
+    },
+    {
+      "Key": "d7c50953-a218-4aef-86b7-a561ab100c18",
+      "Value": "Bartholomew Delgado still serves the {mf|king|queen} loyally. From time to time, he orders peculiar mechanisms and substances from all corners of the world. After receiving them, he spends a few days bragging about some great discovery he's about to make, then ends up gloomy for a few months. Then he receives another package, and the process repeats itself. At night, chilling screams are often heard from his laboratory."
+    },
+    {
+      "Key": "db66f61c-e2c0-4b83-bd2f-97394fd28cca",
+      "Value": "After enduring so many storms and troubles, Varnhold eventually turned into a real city. Daring settlers decided to conquer the vast, wild expanses of Dunsward, and despite all odds, they succeeded! The modest colony that {d|c31 Maegar Saved}almost{/d} vanished at the hands of an ancient lich turned everything around to become a thriving city with lively river trading."
+    },
+    {
+      "Key": "efd71eee-40d3-4ca8-8813-33edde4050e8",
+      "Value": "Unfortunately, without its founder, Varnhold never really recovered from the blow. Over time, the colony withered away — all the more so when its dwellers continued to disappear under mysterious circumstances! It took less than two years for Varnhold to permanently become a ghost town. The only person happy about the news was the {mf|king|queen}'s new advisor, a mysterious and powerful {d|c31 Vordakai Hired}wizard{/d}, who still serves the ruler loyally to this day."
+    },
+    {
+      "Key": "ccdc68f8-c22c-436e-9179-6f3c424aa4da",
+      "Value": "{d|c31 Agai Lives}Agai{/d}, the spriggan leader, learned a valuable lesson after surviving his meeting with the {mf|king|queen} and even regaining his tribe's home — don't try to occupy seemingly empty settlements anymore! Instead, the spriggans settled across Dunsward's wild borderlands and proclaimed it as their domain! Keeping the peace in a situation like that seems like the stuff of dreams — as evidenced by the occasional lost patrols and stolen cattle!"
+    },
+    {
+      "Key": "c3bab0ce-bfb7-4d36-af04-9078251c43d6",
+      "Value": "{d|c11 Peacemaker}Peace{/d} reigns in the caves beneath the Old Sycamore. The kobolds and mites continue to explore the depths and learn simple crafts from each other. Rumor has it the first mite-kobold wedding even happened not long ago! That said, settlers still aren't rushing to build new homes in the area. Some kind souls even put up warning signs along the roads: \"Beware, traveler! Steer clear of the Old Sycamore!\" Another inscription soon appeared over the sign, though: \"no keep gowing trezzur ahed honest!\""
+    },
+    {
+      "Key": "599d6d16-911e-43f1-9328-ed4cf02b04ee",
+      "Value": "{d|c11 Mites Final}Mites{/d} led by Warrior Queen Bdaah keep causing trouble in the vicinity of the Old Sycamore. They scare the fishers, hold centipede races, and drag anything they find lying about back to their caves — clothes left out to dry, dog kennels, even anvils! When the {mf|king|queen} visits them, they seem to calm down... for about a day. Sometimes even two!"
+    },
+    {
+      "Key": "ad119cd4-b00f-481d-b4c1-c555d08a3c1a",
+      "Value": "{d|c11 Kobolds Final}The Sootscale kobolds{/d} think themselves the masters of the area around the Old Sycamore, and they aren't very friendly toward travelers. It hasn't come to bloodshed yet, but many careless travelers have broken an arm or a leg in the kobolds' traps! When the {mf|king|queen} visits, the kobolds usually calm down a bit and even take down their traps, but it never lasts long."
+    },
+    {
+      "Key": "8a5c97de-02c8-4cca-a101-6e19d124edba",
+      "Value": "After the kobolds and mites {d|c11 Kill Both}disappeared{/d}, the empty caves beneath the Old Sycamore quickly became home to all kinds of disgusting critters (giant centipedes being the most innocent and pleasant of them!). Attempts have been made to clear out the caves, but it never takes long for something to take up residence again. In the end, the decision was made to block the entrances and burn the giant tree down, destroying the roots that held up the ceiling of the caves."
+    },
+    {
+      "Key": "427e72cd-7c67-4f2f-91bd-3f264cd3d898",
+      "Value": "Due to tumult on both sides of the border, Oleg's {d|c21 Left OTP}trading post{/d} gradually fell into desolation. Regretfully leaving its walls, for which so much blood had been shed, Oleg and Svetlana left the backcountry that was so dear to their hearts and returned to the noise of the big city."
+    },
+    {
+      "Key": "ac5dcc4a-ddd4-4f11-bf92-4c058dd3700a",
+      "Value": "Oleg's {d|c21 Claim OTP}trading post{/d} continues to thrive, attracting ever more travelers. Much to its owner's displeasure, a small town is springing up around it. Despite Oleg's grumbling, he and his wife are well regarded by everyone, and Svetlana was even elected town chief!"
+    },
+    {
+      "Key": "0c15a85e-faee-40b0-9549-b7630e425e23",
+      "Value": "Oleg's {d|c21 Capture OTP}trading post{/d} now resembles a border stronghold more than a haven for merchants and travelers. A town sprung up around it, from which the leader of the guard operates. Oleg and Svetlana aren't too happy about it, but at least they don't have to fear for their lives anymore."
+    },
+    {
+      "Key": "aa687267-bc97-4734-949a-1b55da197346",
+      "Value": "Jhod remained loyal to the {mf|king|queen} to the end of his days, healing the sick and generously sharing his austere wisdom with anyone who wished to hear it (and some who didn't). Having fulfilled his duty to the ruler, Erastil's priest peacefully departed this world, surrounded by friends and disciples."
+    },
+    {
+      "Key": "e2ece1ee-c8b6-4db6-beb6-70a017c03c40",
+      "Value": "Kesten Garess took a post as chief of the kingdom's guard. The former heir to a noble family never returned to Brevoy, severing all ties to his kin. However, a few years after the victory over the First World, a girl arrived from Brevoy and soon married Kesten. They say Kesten started smiling a lot more after that."
+    },
+    {
+      "Key": "24ff9e9e-abd7-49d9-bbda-6a017ebf9d15",
+      "Value": "Jhod and Kesten, after {d|c22 both saved}surviving{/d} the Bloom, remained loyal to the {mf|king|queen} they followed through thick and thin, and they continue to serve as court advisors to this day. The austere priest and the gloomy warrior regularly argue over the proper way to govern the state, as well as which of the two the ruler should hear out first. Some things never change."
+    },
+    {
+      "Key": "6e938eb7-f4c8-4100-bb73-819c8d251205",
+      "Value": "Tsanna, Lamashtu's priestess, didn't remain in the {mf|king|queen}'s service for long. One night, she just disappeared from the castle and set off for the kingdom's borders, preaching to anyone who would listen and granting the needy the blessing of the Mother of Monsters."
+    },
+    {
+      "Key": "de4bc8ef-d018-4f45-8834-955cb0e5cae7",
+      "Value": "Having participated in Lamashtu's {d|c22 Olika Ritual}ritual{/d}, {d|Olika}Olika{/d} gave birth to a strong and healthy baby. Sadly, the child grew into an unruly and violent adolescent. Having maimed a peer at just ten years of age, the boy escaped to the Narlmarches, fleeing the rage of a mob that tore his mother to pieces instead. No one knows what happened to the lad, but legends of Lamashtu's Child, who sometimes kills lost travelers and sometimes leads them to safety, are passed on by word of mouth throughout the area."
+    },
+    {
+      "Key": "962653ab-cbc5-4991-80cb-48510f257cf6",
+      "Value": "Brineheart became a loyal {d|c41 Darven Nice}ally{/d} and trade partner of the kingdom, and Darven himself has been seen as a frequent guest in the capital. The elegant monarch of the neighboring kingdom has broken many hearts at court — after his visits, many young guards and servants have been seen staring through windows, sighing wistfully about something."
+    },
+    {
+      "Key": "33606d16-0544-4883-b0fb-a573f3d4ca11",
+      "Value": "The fey took a fancy to the kingdom, feeling totally at home here! They often play various pranks, but they never do any serious harm."
+    },
+    {
+      "Key": "610cd215-2e74-4cb5-837f-3228c15fd170",
+      "Value": "The lizardfolk of the Longtail tribe returned to live on the shores of Candlemere, but they couldn't return to their ancient way of life. Living alongside people, the lizardfolk adopted their behaviors, habits, and even religion — more and more of the Longtail tribe pray not to the spirits of their ancestors, but to Erastil, or Gorum. They even began to forget their original language. I hope someone writes down their songs and legends before they all sink into oblivion..."
+    },
+    {
+      "Key": "dee9d8b9-cc10-4813-9216-909e3c23994c",
+      "Value": "The goblins who put so much effort into preserving the {mf|king|queen}'s lands obviously felt that gave them the right to do whatever they wanted in the kingdom! Travelers are careful to move in groups when they can, and any peasants who spot at least one particularly toothy stranger immediately raise the alarm — for if you see one goblin, there's likely a whole gang!"
+    },
+    {
+      "Key": "1a60b112-511d-4b69-85a3-7a56ecbc65ac",
+      "Value": "A delegation of wizards from Absalom and other areas appeared in the kingdom one day, asking for permission to examine the lair of the lich Farnirras the Thoughtful. After completing their research, the wizards spent a long, long time thanking the {mf|king|queen} for freeing the world of that monster! In their opinion, he'd been capable of causing the end of the world — maybe even two worlds!"
+    },
+    {
+      "Key": "7742c9ee-34fe-48c7-be2d-92fce312a095",
+      "Value": "{d|Evindra}Evindra{/d} was glad to see the Lantern King's plans turned to dust. She spent some time helping restore the kingdom after the calamity, then returned home to the First World. They say the rebellious spirit of her cousin Nyrissa awoke within her as well. Evindra is said to recount our story to the fey, encouraging them to question the power and might of the Eldest."
+    },
+    {
+      "Key": "dd506b73-9200-42ee-a957-ece8440dad14",
+      "Value": "{d|Evindra}Evindra{/d} settled down in the Tuskwater and visits the capital often. She became a friend to the people of the kingdom, helping them and teaching them how to treat the lake life with care. Parents allow their children to swim in the Tuskwater at any time, day or night, secure in the knowledge that she'll look out for them."
+    },
+    {
+      "Key": "eeb147a1-7f10-4a3e-a1c1-e6d1af0f988c",
+      "Value": "After the victory, the Storyteller abandoned his affairs and began spending a lot of time alone in contemplation. He eventually bid farewell to the {mf|king|queen} and left {mf|his|her} lands, but I suspect the inhabitants of Golarion haven't heard the last of this mysterious traveler, for his own story is hardly finished."
+    },
+    {
+      "Key": "6890c9bc-a2ce-4d4e-82ae-8ed24a4adeaa",
+      "Value": "Amiri stayed close friends with {d|Nilak}Nilak{/d}, but she remained a pariah to all the other members of the Six Bears tribe. Despite all the wisdom of their new chief, the tribe never found its place among the unfamiliar plains and cities, and they soon broke apart. The two friends left the kingdom together, setting off to find their own adventures — enough that it would take a separate book to tell them all!"
+    },
+    {
+      "Key": "fbab154c-f629-4fd0-9687-fa8e59c96342",
+      "Value": "Amiri remained a pariah to her native tribe, but she stayed close friends with {d|Nilak}Nilak{/d}, who ruled the Six Bears wisely and taught them to survive in the unfamiliar plains and cities. The restless barbarian would often travel for long stretches of time, but sooner or later she would always return to her old friends, bragging about new scars and recounting new feats, many of which Nilak immortalized in song."
+    },
+    {
+      "Key": "396672c5-7c92-4672-86e6-2bbbdb33820c",
+      "Value": "We never saw Amiri again. Perhaps she got lost somewhere in the First World, or maybe she found some other way back — who knows? I doubt that stubborn barbarian would just vanish without a trace. As for the Six Bears, they returned to the mountains, out to the farthest, wildest backwoods they could find, and lived there ruled by their primal laws."
+    },
+    {
+      "Key": "780b5c86-aa53-41f6-85c3-f9791f9cdeac",
+      "Value": "Valerie stayed to serve the {mf|king|queen}, and to this day, she continues to be a {d|Valerie Shelyn}muse{/d} to many people — not just bards and admirers, but to warriors as well! Honest and resilient, Valerie is not just famous for her feats in battle, but also for her patience and kindness, which she says the {mf|king|queen} helped her discover within herself!"
+    },
+    {
+      "Key": "2d06ae83-1a58-40df-af25-4fdcba30523f",
+      "Value": "Valerie stayed to serve the {mf|king|queen}, and to this day, she terrifies any who would dare break the law. {d|Valerie No Shelyn}Forceful{/d} and assertive, Valerie has finally shed her crowd of admirers and set herself upon the path of ultimate law — the same path so honored by the austere Hellknights. Need I even mention that Valerie eventually decided to try on their black armor, only to find that it was a perfect fit?"
+    },
+    {
+      "Key": "f6a1c356-cf9f-4dfe-ba06-92f04fbb921b",
+      "Value": "Harrim became famous, {d|Harrim Neutral}respected{/d} by dwarves throughout our kingdom as well as our neighbors, even as far as the Five Kings Mountains. He's often been asked to help out or teach others, and he's never denied anyone, despite his grumbling. Some people even listen to his preaching — lucky for us, there's a lot less howling about the end of the world now, and more wise words of moderation and humility. Not all of his disciples turned to Groetus, but everyone took away something useful from his teachings."
+    },
+    {
+      "Key": "fd7e0628-9d90-4fda-a768-3719bca25d37",
+      "Value": "Harrim went {d|Harrim Badabum}mad{/d} for good... or perhaps understood the true wisdom of Groetus — I'm not really sure if there's a difference. He left the palace, barefoot, taking only a cane with him as he went off to preach. He died destitute, somewhere along the side of the road — but they say you can still find a ghost with a disheveled beard along the kingdom's roads, mumbling something about the end of the world. And if something suddenly breaks in someone's house, people commonly say, \"Harrim touched it!\""
+    },
+    {
+      "Key": "0e6db11e-9d10-4825-9486-52a36eabac76",
+      "Value": "Jaethal spent some time at the {mf|king|queen}'s court, but it became progressively harder for her to hide her true {d|Jaethal Kills Daughter}nature{/d} from the omnipresent servants of Pharasma. Realizing the risk, she reluctantly left the kingdom, and she soon sent a message from Geb. In a country populated mainly by undead, Jaethal fit in well, especially with her skills and Urgathoa's blessing. She quickly gained fame and influence there, even gaining the favor of Arazni, the de facto ruler of Geb."
+    },
+    {
+      "Key": "6b257b85-823b-4a44-8cdc-ad889fb433c4",
+      "Value": "One moonless night, Jaethal mysteriously disappeared! Soon, frightened fishers discovered her body (really truly dead now). A young elf named Nortellara came to the funeral, claiming to be the daughter of the deceased. She didn't grieve for her mother overmuch, and she began carousing almost straightaway, moving from balls to feasts to hunts! She acquired a crowd of admirers and treated the {mf|king|queen} as though they'd known each other a hundred years or more. Some even assumed they were — ahem — particularly close."
+    },
+    {
+      "Key": "94981bca-182d-48a5-a6ef-300399b98cc3",
+      "Value": "Jaethal spent some time at the {mf|king|queen}'s court, but she then left to... do whatever it was her new goddess required. She must have become a great inquisitor for Pharasma, as no one would know the ways of the undead and Urgathoa's cultists as well as a {d|Jaethal Pharasma}former{/d} undead cultist would! She was also seen in the company of Salim Ghadafar — it's unlikely the two became friends, being so different from one another, but it's a known fact that they worked together."
+    },
+    {
+      "Key": "e2a3cb3c-5aef-4272-a75f-76c5dbc58f7d",
+      "Value": "Octavia didn't stay still for very long — soon, she and Reg went to Numeria and started a huge slave rebellion there. They didn't manage to destroy the Technic League, but to this day, slaves speak their names with admiration, and slavers with terror. Over the course of their journey, the two grew as close as ever, leaving their quarrels and resentments behind. After returning from Numeria, Octavia settled in her mother's house and became the {mf|king|queen}'s advisor and loyal companion."
+    },
+    {
+      "Key": "3ddcd1e8-9156-4e49-8d3b-9f92dd424176",
+      "Value": "Octavia stayed in the capital as the {mf|king|queen}'s advisor and loyal companion, a true socialite, and one of the most influential (and desirable!) women in the entire kingdom. The balls put on by Octavia were frequented by nobility from every neighboring country — and she enjoys bragging to barons and counts alike that she achieved her status all on her own, a common half-breed from no family to speak of. Only Regongar spoils her happiness — they fight constantly, and she fears that his drinking or some other stupid trick of his will drive him to an early grave."
+    },
+    {
+      "Key": "3a3c4b92-bbe3-4798-959c-8f7e0cb6d73c",
+      "Value": "Regongar left for Numeria with Octavia to start a slave rebellion. Over the journey, he really matured and learned to understand others, as well as how to control his anger. After he returned, he took a position in the {mf|king|queen}'s court — being both formidable and charming, he inspired fear in the hearts of some and lust in others. There are even rumors that he almost talked Octavia into marrying him... and possibly even continuing the Della Fiorni line!"
+    },
+    {
+      "Key": "992060fc-863b-4384-970a-3fefb2c17fd9",
+      "Value": "Regongar hung up his sword and began the life of luxury he'd always wanted. Admirers lined up outside his door — women and men alike. He indulged in every pleasure, wearing luxurious clothes and hosting orgies that would make Calistria blush. He quarreled more and more often with Octavia, who feared his drinking and unruly temper would drive him to an early grave — after these fights, he'd drown his resentment in wine. These days, he's hardly ever sober, and his trembling hands can barely even hold a sword."
+    },
+    {
+      "Key": "b68ee54f-a8c7-4d59-84b1-a0a80917a310",
+      "Value": "Once the war was over, Tristian kept his {d|Tristian Angel}promise{/d} to Sarenrae. In the middle of celebrating the {mf|king|queen}'s victory, the priest suddenly disappeared in a flash of light — vanishing forever. I hope Sarenrae didn't take the movanic deva's memory, so her servant might still remember us and the Stolen Lands... or if she did, I hope he was at least able to forget everything about the lands in which he endured so much suffering."
+    },
+    {
+      "Key": "109b7e48-a9a2-486c-bca3-468044fb2f7b",
+      "Value": "Tristian {d|Tristian Mortal}stayed{/d} in the Stolen Lands. Endowed with a special blessing of Sarenrae, the priest became known as a great healer and went on to perform many more miracles. I'd say the movanic deva deserves the right to rejoin Sarenrae's divine army — I hope the goddess will think the same when Tristian's hour comes and his soul is up for a new judgment!"
+    },
+    {
+      "Key": "ba2dec94-e401-41cb-bbb2-0da95f6036f9",
+      "Value": "Ekun spent a few years in the Stolen Lands, and in that time won glory as the most rugged monster {d|Ekun Hunt}hunter{/d} in all the River Kingdoms! The ranger exterminated even the most harmless of the monsters around the capital, then moved on to other lands and new victories. They say the ruthless avenger and slayer of wild monsters made it as far as Katapesh! That's where his trail went cold — I'm afraid Ekun may have become the prey of one of his targets..."
+    },
+    {
+      "Key": "5be8f400-efab-46ae-a92f-fc07c0feb497",
+      "Value": "After the war ended, Ekun hung his bow on the wall and {d|Ekun Ritual}traded{/d} the path of the ranger in for the craft of the carpenter. It may not be the most heroic ending to a tragic story like his, but as Torag is my witness, Ekun's happy with it — as is Elina, who became his wife and is bearing his child. Any baby born into this family will be pretty lucky, since the {mf|king|queen} {mf|him|her}self still visits {mf|his|her} old friend, and will likely become the child's patron!"
+    },
+    {
+      "Key": "99a8718b-246c-43b6-a216-7e1b3fafb5d4",
+      "Value": "Jubilost {d|Jubilost Immortal}devoted{/d} himself to exploring the First World, and his works became a real sensation! But with each year, his appearances both in our kingdom and in Absalom lessened. He spoke often of strange, obscure things, and grumbled that the others just didn't understand him. It seemed almost as though his former friends, and even our world itself, didn't interest him anymore. One day, Jubilost set off on another expedition... and got lost. No one in Golarion has heard from him since."
+    },
+    {
+      "Key": "a5e9953b-6ee7-429f-a4f8-d498f20b7bfe",
+      "Value": "Jubilost returned to the life of a traveling explorer, frequently visiting his favorite kingdom — he said so himself! — {kingdomname}. His famous works studying the First World all opened with a dedication to his long-time companion, {mf|King|Queen} {name}."
+    },
+    {
+      "Key": "d2f4de2a-ee35-4391-833c-e7d5c3c4eaf8",
+      "Value": "As for Nok-Nok — apologies, I mean \"{d|Nok Hero}Hero{/d}\" Nok-Nok — he continued his questionably heroic efforts in the Stolen Lands. Despite whatever mess he fell into, no matter the danger he leapt into, he always seemed to scrape through just a little better off than before. Like true heroes, he simply never gave up, struggling on and meeting the challenge of each new day with a spirit that no mishap or misfortune could ever quell."
+    },
+    {
+      "Key": "ec4be0fb-9a76-4789-ad36-5256755e9c08",
+      "Value": "The {mf|king|queen} had to make a lot of difficult decisions, but Octavia was always there to make {mf|his|her} life easier. Closer than any other advisor and more loyal than any other ally, she prompted an elegant exit out of difficult situations a good many times. Such love could only be envied by the monarchs of more noble families, themselves tied down with the bonds of dynastic marriages!"
+    },
+    {
+      "Key": "a8fe0edc-ccef-42de-b550-001bffe25e01",
+      "Value": "Regongar was by the {mf|king|queen}'s side day and night — {mf|his|her} right hand, closest friend, and most trusted companion. He didn't interfere in ruling the country, but there were rumors of secret assignments he completed under royal orders... not to mention the festivities he hosted when there weren't any matters of state to attend to!"
+    },
+    {
+      "Key": "91307e2c-61bb-41e2-94ec-93282204ebd6",
+      "Value": "Octavia and Regongar were by the {mf|king|queen}'s side day and night — {mf|his|her} most intimate partners and most trusted companions. Coming together over so many battles, they could even finish each other's sentences, ruling the kingdom in the same dashing manner that they once killed monsters. Such love is rare for two — and simply a miracle for three!"
+    },
+    {
+      "Key": "9ceefbf3-8dbb-4462-a1ee-9762650f2df4",
+      "Value": "Beyond the many advisors and companions, there was always someone else near the queen — a faithful truelove, who devoted his worldly life to the one he cherished with all his heart. Wherever the queen went, whatever trials fell upon her, Tristian was always near, ready to support and protect his chosen one."
+    },
+    {
+      "Key": "8b0ec555-32b9-4743-81b5-dce682ae5865",
+      "Value": "The king and Valerie stayed together — lovers and companions, bound not only by love, but by common duty. The amazing union underlies dozens of ballads and poems written by delighted subjects and echoed all throughout Avistan. There's more fiction than truth in those poems, of course — our hero and his beloved keep their relationship well behind closed doors."
+    },
+    {
+      "Key": "5c11f060-43ad-448b-932f-35dcb3a74173",
+      "Value": "Nyrissa and her beloved {name} live happily together, setting up the kingdom hand in hand. Their union somehow linked the unruliness of the First World with the order of Material Plane. Nyrissa managed to bring forth the daring vision for which she had once been cursed — the creation of her dream country. {kingdomname} is now a flourishing land, taking the best of both wild nature and structured civilization, and our capital is an amazing garden city, which visitors from all over Golarion come to see!"
+    },
+    {
+      "Key": "ac4222c0-d815-40a8-bd86-8b5e8f8b5899",
+      "Value": "Despite all the woes that befell the country, {mf|King|Queen} {Name} remains a strong leader. Many noble houses from neighboring lands wouldn't hesitate to be related to {mf|him|her}, and they regularly send a variety of marriage proposals."
+    },
+    {
+      "Key": "416a968f-7383-4b36-b754-af312a642c2e",
+      "Value": "As for myself — the author of this book, Linzi-who-never-chose-a-pretty-nickname... I'm still here, inside my creation within the capital library. I live just like I always dreamed — surrounded by people and books. And not a day goes by without someone turning my pages. My story inspired many others to take up the quill. My readers have written many fierce books, articles, and pamphlets, flinging {d|Linzi Chaotic}truth{/d} in the faces of tyrants! What more could I dream of? I hope, oh honored reader, that this story offered you some daring ideas... or at least some entertainment! In any case, it's time to set the final period."
+    },
+    {
+      "Key": "ca3584e2-fd89-411d-b968-2af8fe53d78e",
+      "Value": "As for myself — the author of this book, Linzi-who-never-chose-a-pretty-nickname... I'm still here, inside my creation within the capital library. I live just like I always dreamed — surrounded by people and books. And not a day goes by without someone turning my pages. My story {d|Linzi Good}inspired{/d} many others to take up the quill. My readers have written many beautiful books and poems, transporting prisoners of humdrum lives into worlds of endless fantasy. What more could I dream of? I hope, oh honored reader, that this story inspired some creativity in you... or at least offered some entertainment! In any case, it's time to set the final period."
+    },
+    {
+      "Key": "b59d37db-b14f-4572-b826-d6ef551010b4",
+      "Value": "As for myself — the author of this book, Linzi-who-never-chose-a-pretty-nickname... I stayed here, within my own book, to watch what happens in the kingdom and one day write this epilogue. I hope, oh honored reader, that you learned something important from this story... or at least were entertained by it. And now that it's concluded, I have only to set the final period and go silent forever."
+    },
+    {
+      "Key": "601ad162-b758-4a67-98df-b485fc2a476e",
+      "Value": "Kassil Aldori, who lost an arm during the war, became a permanent ambassador of Rostland at our court."
+    },
+    {
+      "Key": "a038ca5b-5aae-42ae-8cc3-8496cddbcdf3",
+      "Value": "Shandra Mervey became an ambassador at our court once more. That arrogant old lady misses no chance to remind us that House Surtova considers us nothing more than vassals!"
+    },
+    {
+      "Key": "b7c5fb7f-b002-46e9-8237-7be72ce7cb11",
+      "Value": "Kassil Aldori settled in our capital, though he left politics to teach dueling."
+    },
+    {
+      "Key": "91b2574c-3b59-4e8f-be66-a5b3b4ebb0a1",
+      "Value": "Shandra Mervey returned to our court, but just half a year later she was poisoned — no one ever found out who did it or why."
+    },
+    {
+      "Key": "ebc31822-8a02-4a0e-b512-3bf2dffe9aff",
+      "Value": "Governor {d|c51 Governor Moskoni}Moskoni{/d} dips into this stream with both hands, of course, but the {mf|king|queen} looks the other way, since he's loyal and he governs the city well."
+    },
+    {
+      "Key": "ff4af8a2-cdd8-4b0d-a909-90e93bccdc8b",
+      "Value": "Unfortunately, we get much less of this money than we would like — Governor {d|c51 Governor Liacenca}Liacenza{/d} turned out to be helpless against widespread embezzlement."
+    },
+    {
+      "Key": "45e54a72-0ba0-456f-ac75-835c74b3bdcb",
+      "Value": "{d|c51 Governor Vereel}Kharne Vereel{/d} wasn't governor for long. Walking around the city one day, in a drug-induced delirium, he grabbed a tin of solvent from a construction worker in the street. Taking it for mead, he drank it. An ignominious — if somehow fitting — death, to be sure."
+    },
+    {
+      "Key": "275e4e9e-f700-4cce-9d9f-d5671d3a740d",
+      "Value": "Governor {d|c51 Governor Moskoni}Moskoni{/d} tried to gain control of the situation at first, but one day he simply left the country, taking the city treasury along with him."
+    },
+    {
+      "Key": "55814179-c699-4d74-9cd3-577f9dd6148d",
+      "Value": "Governor {d|c51 Governor Liacenca}Liacenza{/d} became one of the first victims of the revolutionaries — a fireball was thrown into his carriage in the middle of the street."
+    },
+    {
+      "Key": "22be2931-c9a3-4a32-9835-c735c36d1e64",
+      "Value": "Governor {d|c51 Governor Vereel}Kharne Vereel{/d}, fearing for his life, locked himself in his chambers. A week later, they found him dead, surrounded by empty bottles and drug vials."
+    },
+    {
+      "Key": "871acd00-6e61-47f9-ab99-e62913289e28",
+      "Value": "Governor {d|c51 Governor Moskoni}Moskoni{/d} is so fat now he can barely walk. Citizens pronounce his name in a respectful whisper."
+    },
+    {
+      "Key": "3a876edd-9ba7-41ec-863f-176256d4913f",
+      "Value": "Gasperre {d|c51 Governor Liacenca}Liacenza{/d} is governor in name only — he gathers taxes, but he has no real influence over the city, which is divided up by the gangs."
+    },
+    {
+      "Key": "3a1b8eda-2e43-40b7-881d-302635d5065e",
+      "Value": "Kharne {d|c51 Governor Vereel}Vereel{/d} wasn't governor for long. He was found hanged in the central square, with a sign on his chest saying \"Irovetti's Bootlicker.\""
+    },
+    {
+      "Key": "368a882a-70ee-4c2e-83ad-973dd1aab4b3",
+      "Value": "Governor {d|c51 Governor Moskoni}Moskoni{/d} still tries to attract attention to the city by holding the Rushlight tournament every year — but it's not very popular these days."
+    },
+    {
+      "Key": "177d0768-650f-4a35-9fcb-946cb15a5a37",
+      "Value": "Governor {d|c51 Governor Liacenca}Liacenza{/d} remembers what the {mf|king|queen} did for him and serves {mf|him|her} truthfully and loyally."
+    },
+    {
+      "Key": "1ad09d5a-b0dc-45b1-baec-aea5e4a1feb7",
+      "Value": "Only Governor Kharne {d|c51 Governor Vereel}Vereel{/d} is happy — his poison is in pretty high demand in a boring city with no prospects."
+    },
+    {
+      "Key": "abe1e51b-5d04-4570-aa50-27af147dadc8",
+      "Value": "Well, there are many like Tsanna in the Stolen Lands, now — because the {mf|king|queen} announced their religion lawful within {mf|his|her} lands! I'm afraid the ruler and {mf|his|her} advisors would regret that decision on more than a few occasions — in the last year alone, three squadrons of Iomedae's paladins arrived in the kingdom!"
+    },
+    {
+      "Key": "e97a3646-fcba-4733-9faa-ea0eb4e7baa0",
+      "Value": "Falchos and Tiressia managed to restore the magic forest, once freed of the anger of the {d|c21 FT saved}Scythe Tree{/d}. People returned to the abandoned village, and it became a haven of friendship between the fey and ordinary people, just like old times."
+    },
+    {
+      "Key": "26ed9da3-c60e-42d6-a508-62955f60e048",
+      "Value": "After Nyrissa's curse was lifted, the maimed face of the last Defaced Sister began healing, little by little. She still keeps her distance from people, but she's always glad to see the {mf|king|queen}."
+    },
+    {
+      "Key": "bedcefb5-5d44-4203-b14e-8a0a1ebb3a15",
+      "Value": "The ancient artifacts gathered by the {mf|king|queen} built the foundation of a museum collection that has become famous even in far-off Absalom."
+    },
+    {
+      "Key": "8836014a-52cb-4836-8ec4-52c6dea88af0",
+      "Value": "Sometimes, during Jubilost's performances, all kinds of chaos would break loose! Viewers turned into unicorns, or would be teleported to the top of a cliff. Later, Jubilost would be seen arguing fiercely with a pretty gnome named {d|Jubilost Nyrd}Nyrd{/d}. The arguments looked very... sweet, and intimate!"
+    },
+    {
+      "Key": "5145f512-c20a-40c9-a3cf-f9c7d4a70408",
+      "Value": "Another name was also mentioned — \"To {d|Jubilost Xae}Xae{/d}, my guide and inspiration.\" Admirers would ask Jubilost many times about this mystery lady, but he would only chuckle, hitch his knapsack on his shoulder, and return to storm the vast expanses of the First World once again!"
+    },
+    {
+      "Key": "0957678b-e3d7-4263-9631-9007a24c228a",
+      "Value": "Their wedding was legendary. Octavia became a real queen — only old friends would be able to recognize the grand dame as that giggling lass they used to share tales with by the fire."
+    },
+    {
+      "Key": "f187750f-37f6-47a9-9c01-92d987ad7f1c",
+      "Value": "Not to mention the festivities he and {Name} held to celebrate the marriage! It must be said, he refused to call himself a king, instead taking the title of Prince Consort."
+    },
+    {
+      "Key": "94c15969-a8a6-4083-a95f-b8b7d9fe7dc9",
+      "Value": "In the neighboring lands, their triple wedding was a scandal — but who would dare try to forbid THEM from doing anything? They still rule together — the incredible {mf|kings and queen|queens and king} of an incredible kingdom."
+    },
+    {
+      "Key": "87ce57ee-6f3e-4bb8-a865-1a1822f82e5b",
+      "Value": "And no wonder — soon after the war ended, the queen and Tristian took their wedding vows! And though Tristian never claimed any power over the kingdom, his common sense and kindness always played a part in the queen's decisions."
+    },
+    {
+      "Key": "20b7ae5c-7706-4869-b545-8beb8f15c0e4",
+      "Value": "The only thing kept in the chronicles in the truest detail is the grand royal wedding! Valerie became a worthy and honest ruler (like anyone doubted she would), and while their subjects can't wait for an heir, the beautiful royal couple seems to be in no hurry to continue their lineage."
+    },
+    {
+      "Key": "6fe9dcce-cc5b-4ecc-a8b6-7998d44e44bf",
+      "Value": "Valerie stayed to serve the {mf|king|queen}, but not for long — she soon laid down her weapon to start her own family. Valerie married a simple farmer and bore him two beautiful children. The settled away from the capital, where she was soon forgotten."
+    },
+    {
+      "Key": "b4d7dd47-38db-49b4-b2ee-6f59dba32946",
+      "Value": "As for Nok-Nok — apologies, I mean \"{d|Nok Jester}Jester{/d}\" Nok-Nok — he continued to be a great source of entertainment for the kingdom, both in and out of the throne room... sometimes even on purpose.\nHis antics in the kingdom had an additional effect — aside from bringing joy and amusement to the citizens, it also softened the common view of goblins. They even became welcome in the streets of the city — for a time. While he may not have become the \"Hero\" he envisioned, Nok-Nok did find himself and his inner strengths thanks to his {mf|king|queen}. If you should ever find yourself in the kingdom, be sure to seek him out — he'll gladly regale you with some new tale of adventure, one that will surely make you smile, whether our foolhardy, clumsy, well-intentioned goblin means to or not."
+    },
+    {
+      "Key": "cffa9e27-ac00-4bc4-a129-7bf12d6dc424",
+      "Value": "The... slightly inaccurate... {d|Nok Statue Ok}statue{/d} of him and the {mf|king|queen} still stands in the square to this day, the two figures side by side. I've always felt that, while the heights may be a bit... off, let's say... it accurately reflects the size in spirit of the goblin hero who'd been nurtured by the teachings of his {mf|king|queen}."
+    },
+    {
+      "Key": "bcca74ae-20ca-425b-a0cd-e9c50999c8c0",
+      "Value": "But at that moment, Shyka broke {d|c61 Crown Shyka}the First Crown{/d}. You remember, of course, that she is — I mean, they are — the Eldest of time, right? They broke the crown in the past and the present, allowing the elf king to return to his subjects and save his kingdom. A single grain of dust disappeared from the cup. And with the condition for forgiveness no longer fulfilled, Nyrissa dropped dead, having barely touched a drop. The Lantern King's performance was ruined, and the other Eldest all laughed at him. Serves him right!"
+    },
+    {
+      "Key": "fa9abce5-c665-4dbc-90e2-df342fd08c21",
+      "Value": "Love can bring anyone together, even creatures of different worlds. The queen and Tristian, joining their hearts, knew the truth — but they decided even the short time Sarenrae would give them was worth the torture of parting. The goddess was merciful, waiting a full year after the victory before returning the movanic deva to her flock, but the queen's heart was still broken."
+    },
+    {
+      "Key": "11bd3677-d7bd-48b8-bca9-d8e19a32fc90",
+      "Value": "There was no place for art in the new Pitax. Students and teachers from the academy were scattered to the winds. Some found a place in neighboring courts, while others set off to earn some coin in roadside taverns. A third group, harboring anger and resentment toward the {mf|king|queen}, began weaving revolutionary plots. The {d|c51 Academy Died}ruins{/d} of the Academy of the Arts still stand in the middle of the city, overrun with ivy — empty and unwanted."
+    },
+    {
+      "Key": "cbb049df-0ce7-4b36-8298-ad04bfb3e10f",
+      "Value": "The Sweet Teeth departed on a journey, hoping to see as many wonders as possible — of this world and others! They keep sending us news from every corner of the map. Their bright-painted wagon, drawn by a bull mastodon, crisscrosses Golarion, somehow appearing in the center of one incredible story after another."
+    },
+    {
+      "Key": "06b42ff2-2ce0-439c-9ac2-efb54fb88162",
+      "Value": "Kalikke remained in the kingdom, though her desire to witness the world's wonders keeps driving her to take long journeys! But when she is home, she spends much of her spare time with her sister. They don't quarrel any more, and have stopped dragging each other into trouble."
+    },
+    {
+      "Key": "fb259ce6-48c2-48b1-9bdc-8f20e6b7da28",
+      "Value": "Kanerah settled down in the capital, and became a very busy entrepreneur. It seems as though every hour is planned, meeting with rich merchants, or inventors whose work she's promoting. But on her way home, she never fails to stop at the market, to personally buy some sweets for her sister."
+    },
+    {
+      "Key": "b6533b7d-cba0-4409-b685-f3d89a0ce2f4",
+      "Value": "Kalikke has became calmer and wiser, but her friends no longer hear her singing by the fire any more. If she does write poems, she keeps them hidden away. She doesn't quarrel with her sister, but perhaps because she's grown weary of fighting, and not because they've truly made peace."
+    },
+    {
+      "Key": "94868fa5-bab5-4203-bde6-3992180d2abf",
+      "Value": "Kanerah's precocious spirit seems to have evaporated. She doesn't jeer and mock others as much as she used to, and her friends mourn her sharp wit. She's grown amicable with her sister, but her liveliness, emotional tantrums and deep caring have given way to a calm, almost businesslike acceptance."
+    },
+    {
+      "Key": "a52c5464-72a7-4ea6-beac-1cf5d97569b7",
+      "Value": "Absent her sister's influence, and after enduring their {d|TTQ3_KanerahAgreed}break{/d}, Kalikke has become harsher and more intolerant of evil. She used all her influence as the legendary {mf|King|Queen}'s companion to create a string of shelters for young tieflings. These children have become her personal army, and as they matured, many have devoted their lives to fighting evil — especially devils and their plots."
+    },
+    {
+      "Key": "b903aa84-94d0-46ab-966d-3900c4214b69",
+      "Value": "Kanerah {d|TTQ3_KalikkeAgreed}stayed{/d} on at the court, believing the young kingdom was perfect ground for sowing the seeds of her own power and prosperity. Caravans of Kanerah's trading house crisscross all of Golarion, and even into other planes, as she herself bathes in luxury and the attentions of her admirers. But those who know her better whisper how cold and dispassionate this powerful woman has become."
+    },
+    {
+      "Key": "fe5fee65-3ea5-4a49-b00d-778c6a4c8e8f",
+      "Value": "Kalikke did not remain in our lands for long. She never lost hope of discovering some news of her sister's fate, and the sorrow in her heart drove her to restless journey. One day she left without saying goodbye — no one knows where — taking along only the simple things she fled with from Qadira."
+    },
+    {
+      "Key": "fa0210bc-9940-4534-9ffd-2434f0172a4d",
+      "Value": "Many years after, we received news of the sisters' fate. As it turned out, Kanerah was {d|TTQ3_KanerahDevil}killed{/d} by the Forefather, and her soul, after enduring terrible suffering, was used to create a new she-devil. Somewhere on the roads of Golarion, this terrifying creature crossed paths with Kalikke, but no one knows how this meeting ended."
+    },
+    {
+      "Key": "eb5629c9-fc6c-401e-a89a-a0ed23cf6dd8",
+      "Value": "Kanerah celebrated the victory along with everyone else, but was soon consumed by black thoughts about her missing sister. One day we discovered her house empty, her things sold, and Kanerah herself gone. All that remained was a short goodbye note."
+    },
+    {
+      "Key": "2626a384-7c2e-407c-91d7-05f4f9d21b00",
+      "Value": "The note explained that Kanerah had sold her soul to one of the most powerful devils in Hell. With his help, she hoped to {d|TTQ3_KalikkeDevil}save{/d} Kalikke from the Forefather. 'In case of failure,' Kanerah wrote in her usual no-nonsense manner, 'my soul will be in Hell, and my sister and I will at least share the same fate.' Alas, a search turned up nothing, and we never discovered how their story ended."
+    },
+    {
+      "Key": "f46f2f98-7f69-453b-b782-d1264e6f702c",
+      "Value": "The kingdom's bards wrote a thousand ballads about love of the {mf|King|Queen} for the beautiful tiefling from Qadira. Kalikke herself shies from attention, and hiding away from the public eye. She instead spends all her time on her shelter for tiefling children, while supporting the {mf|King|Queen} in all matters. The grand royal palace has become much cozier, with the sound of her soft songs echoing below its vaults."
+    },
+    {
+      "Key": "b76c265d-0105-4e5c-9513-5c9a25a9725e",
+      "Value": "Even the wedding, and her new title of Princess Consort, hasn't diminished Kalikke's love of solitude. She often makes tea and prepares dinner for her dear {mf|husband|wife}. Beautiful parks were laid out in all the kingdom's cities according to her wishes, where lovebirds stroll in the sunlight."
+    },
+    {
+      "Key": "7b6249ef-7112-45d4-958f-cd37fda75066",
+      "Value": "It seems there is no happier couple in the world than {name} and Kanerah! The ardent tiefling girl now manages a vast number of trade deals, even as she dotes upon her beloved. Those who knew her before are surprised – for few expected ever to see so much sincere love in the eyes of the calculating, shrewd Kanerah!"
+    },
+    {
+      "Key": "7572380e-5927-4a43-a8a3-ba039e280ac5",
+      "Value": "Theirs was the most joyful royal wedding in all the lands, though the royal dressmakers had to use all their wits to answer the orders of the lucky bride. – Her dresses and accessories had to account for her tail, after all!"
+    },
+    {
+      "Key": "386424c5-6c8a-465f-9122-e07a9dd27aa5",
+      "Value": "Word of the glorious {mf|King|Queen} traveled far — and stories of {mf|his|her} tiefling partner spread just as quickly. Many of these tales were spoken in hushed whisper, for no one wanted to incur Kanerah's displeasure by a careless word. Being one of the most influential figures in the kingdom, she uses her powers skillfully and prudently to increase its wealth and the influence of its {mf|King|Queen}."
+    },
+    {
+      "Key": "ed70d847-c6ee-462a-b0de-d835de8445ef",
+      "Value": "The crown on her head only strengthened Kanerah's position. Those who know her well often wonder if there is more cold calculation in the royal couple than love. But none doubt the strength of their union."
+    },
+    {
+      "Key": "9721b81f-83c9-49eb-b5cf-a7b2df3382bb",
+      "Value": "It must be said that {name} found a double happiness in {mf|his|her} beloved twin tieflings. The three of them are rarely seen together, because Kalikke looks after her shelter for tiefling children, while Kanerah busies herself with trade deals — and both sisters serve as patrons of a school of magic devoted to Nethys. But when the incredible trio do happen to be seen together, just looking at them makes everyone smile!"
+    },
+    {
+      "Key": "efb536cd-da19-4433-9f12-77549a410911",
+      "Value": "And their common wedding was nothing short of spectacular! The magical fireworks at its finale were the stuff of history, and ever since, many brides and grooms across the neighboring lands have made it a habit to decorate their wedding hats with little horns."
+    },
+    {
+      "Key": "e4109bf6-7583-4902-9827-76f585681916",
+      "Value": "Maegar Varn didn't stay at the court for long. Having saved some seed money, he left service and organized a new Varnling Host together with his General. – And this new party of mercenaries has already helped our kingdom more than a few times."
+    },
+    {
+      "Key": "5df49c01-c792-46ad-b7eb-63f350a19cac",
+      "Value": "Maegar Varn and his beloved, after distinguishing themselves in the battle for the kingdom, soon celebrated their wedding. Half the capital was invited! But they weren't ready to settle down, and have already set off with another party of mercenaries. They've come to the aid of our kingdom on multiple occasions, but they're famous for their adventures in the most dangerous regions of Golarion, protecting peaceful towns from the undead and monsters."
+    },
+    {
+      "Key": "6237b68e-b0f4-4a29-9780-c702122c1e2b",
+      "Value": "Maegar Varn hasn't gotten over the death of his party, his closest friends and companions. At night he wakes up whispering their names. Unable to forgive himself for letting them all perish, he turned to religion and finally joined the crusaders, hoping to atone for his mistakes in fighting the demons of the Worldwound."
+    },
+    {
+      "Key": "5bc719bb-04b1-4bac-b534-b0792c321ec9",
+      "Value": "Maegar Varn hasn't gotten over the death of his party, his closest friends, and his beloved. At night he wakes up whispering their names. Unable to forgive himself for letting them all perish, he turned to religion and finally joined the crusaders, hoping to atone for his mistakes in fighting the demons of the Worldwound."
+    }
+  ]
+}

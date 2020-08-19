@@ -1,0 +1,21 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "3cdcee46-4b05-4414-af66-f65045236839",
+      "Value": "{n}Jhod looks to be puzzled and amused at the same time.{/n} \"Your Grace! I've brought you an extremely unusual message.\""
+    },
+    {
+      "Key": "c5b1199c-a88e-4199-b236-e23de915f42b",
+      "Value": "\"It's — how should I put it? — {g|JubilostReview_neutral}an essay on your barony{/g}. Written by Jubilost Narthropple, and published only recently. I thought you might like to see it for yourself.\" {n}Jhod hands you a magazine.{/n}"
+    },
+    {
+      "Key": "d96d3488-bb89-4c78-8c48-56714cc31900",
+      "Value": "\"It's — how should I put it? — {g|JubilostReview_good}an essay on your barony{/g}. Written by {d|c21 Jubi pleased}Jubilost Narthropple{/d}, and published only recently. I thought you might like to see it for yourself.\" {n}Jhod hands you a magazine.{/n}"
+    },
+    {
+      "Key": "4bccae60-8c5c-46e4-935a-95524663169d",
+      "Value": "\"It's — how should I put it? — {g|JubilostReview_bad}an essay on your barony{/g}. Written by {d|c21 Jubi displeased}Jubilost Narthropple{/d}, and published only recently. I thought you might like to see it for yourself.\" {n}Jhod hands you a magazine.{/n}"
+    }
+  ]
+}

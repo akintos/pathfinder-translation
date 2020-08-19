@@ -1,0 +1,81 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "c6c73c45-a6ba-47cf-b360-dd482b6efd01",
+      "Value": "[Attack] \"Varrask sends his regards.\""
+    },
+    {
+      "Key": "a3b1d27a-a258-4a31-9ae6-bff38e5ae9a0",
+      "Value": "\"Have you heard the name Varrask?\""
+    },
+    {
+      "Key": "2965cb35-df2b-4f60-ae93-aec39eddc99d",
+      "Value": "\"What has this criminal done?\""
+    },
+    {
+      "Key": "cc69927e-fd2a-458d-beeb-6f85a8e0b83a",
+      "Value": "[Attack] \"Enough talk. I've come for your blood.\""
+    },
+    {
+      "Key": "511ddb92-1da2-453a-919e-945d3f93658e",
+      "Value": "\"With a common traveler. Never mind me.\""
+    },
+    {
+      "Key": "cd1525e8-8e91-4900-9345-ee9e9eb43ab9",
+      "Value": "[Attack] \"I need Varrask, and he wants your blood. It's as simple as that.\""
+    },
+    {
+      "Key": "fdda44ab-c124-415c-975e-f4e1257ba63e",
+      "Value": "\"Varrask is on the right side of the law now. He won't hurt anyone.\""
+    },
+    {
+      "Key": "a1dc9fa8-4178-4694-8b79-b50d378333aa",
+      "Value": "\"Hand me the map. I'll point to the rascal.\""
+    },
+    {
+      "Key": "fe38deec-5994-4ed9-8c36-c1c3318ed71d",
+      "Value": "\"I am {name}, the {mf|baron|baroness|king|queen} of these lands. Who are you?\""
+    },
+    {
+      "Key": "77eb6841-bc1f-41f8-a583-80ff743c7033",
+      "Value": "\"You must do as you see fit.\""
+    },
+    {
+      "Key": "34551221-3e1f-4558-8aba-b9bad23f2580",
+      "Value": "{n}The girl is eyeing you expectantly, her hand laying casually over her weapon. The hand is missing its two smallest fingers.{/n} \"Who do I have the pleasure of addressing?\""
+    },
+    {
+      "Key": "43c71588-0522-4a91-adc8-18b98008a342",
+      "Value": "{n}The girl looks at you with distrust.{/n} \"Hm... Whatever you say.\""
+    },
+    {
+      "Key": "2120b876-76b3-4077-bd71-a2f5c5533eb1",
+      "Value": "\"The half-orc formed a gang with his wife, sons, and daughters. {g|Iomedae}Iomedae{/g} alone knows how many people he killed for their money, how many children he deprived of parents... His whole family was awash in bloodshed until my comrades and I tracked them down and put an end to the violence. Only Varrask managed to escape.\""
+    },
+    {
+      "Key": "34d32a77-f81e-4bf2-8d0b-223a1d584f3c",
+      "Value": "{n}The girl looks eagerly at you.{/n} \"Of course, I know the {d|Varrask}name{/d}. He is the criminal I'm after! What do you know of him?\""
+    },
+    {
+      "Key": "6ffed27b-f99c-4ad2-823e-2e8d583c2c4e",
+      "Value": "{n}The girl studies you for a moment and then speaks with regret:{/n} \"Do you think I'll give up on my mission just like that? I won't. I know he's alive. I know where he is. He's in your capital, right? Even if he's not there, he must be somewhere nearby. I shall keep looking until I fulfill my vow.\""
+    },
+    {
+      "Key": "98d873e3-218c-4d15-b0ad-857e299f4e1f",
+      "Value": "{n}She narrows her eyes as she draws a breath, as if she's trying to sniff out Varrask.{/n} \"Thank you. {g|Iomedae}Iomedae{/g} must have brought you to me. The bloody bastard will finally be punished.\""
+    },
+    {
+      "Key": "22f316a4-0053-4e71-afd4-895ebb09f288",
+      "Value": "\"I couldn't let the criminal go unpunished, and swore to pursue him until one of us falls dead. I only here lost his track, at the edge of the swamps of the {g|Stolen Lands}Stolen Lands{/g}... You would hardly take an interest in this matter if you weren't involved. Do you know anything about Varrask? Where is he now? Say the word, and I'll rid your lands of the bastard.\""
+    },
+    {
+      "Key": "ceb4761c-5a82-4f67-ba54-2c0a099ac71c",
+      "Value": "\"I am the Lastwall inquisitor, {g|Iomedae}Iomedae's{/g} servant. I'm looking for a dangerous criminal. His trail leads to the {g|Stolen Lands}Stolen Lands{/g}. The rascal is the only remaining member of the gang that spread terror across the lands. I took a vow to put an end to their bloody tale.\""
+    },
+    {
+      "Key": "fc986f40-8ea5-4df3-8190-e46e7556d059",
+      "Value": "{n}The girl sighs.{/n} \"Thank you for not keeping me from my task. My little holiday is over! Varrask is in one of the local settlements – and one step away from being arrested! His time will soon come. Farewell, {mf|Your Grace|Your Grace|Your Highness|Your Highness}.\""
+    }
+  ]
+}

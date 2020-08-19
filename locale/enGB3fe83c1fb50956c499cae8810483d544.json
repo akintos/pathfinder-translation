@@ -1,0 +1,81 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "076caef5-2bea-488f-94e8-e1d3e473eff5",
+      "Value": "[Leave]"
+    },
+    {
+      "Key": "4a6ea337-78da-4fe8-ae55-dbb533346a71",
+      "Value": "[Take the jewelry]"
+    },
+    {
+      "Key": "8fd109ef-973f-40f0-a860-dad1ce150d40",
+      "Value": "[Gather some flowers and lay them near the body]"
+    },
+    {
+      "Key": "e06cc061-4816-4bba-968e-f089bc24b071",
+      "Value": "[Take the ring you've collected at the Scythe-Tree and put it on the body]"
+    },
+    {
+      "Key": "31317437-60ea-4683-8cb1-60bff9f08410",
+      "Value": "[Detect Magic] \"I wonder what enchantments were cast on her…\""
+    },
+    {
+      "Key": "d229b862-9b13-4ec2-9533-49fd7b4a6508",
+      "Value": "\"Who is there? Show yourselves!\""
+    },
+    {
+      "Key": "33d8c8f4-2ef5-4d27-a012-ade3b1e8b750",
+      "Value": "{n}The corpse of a beautiful girl lays in the middle of the glade. You can see the black stain of caked blood on her flowing dress. Despite the years that have passed since the girl's death, the body bears no signs of decay. Her pale hands, clutching a white lily, are folded on her chest peacefully, and a wreath of fresh flowers crowns her head. There is the glint of fine jewelry on her body — a necklace, earrings, and a ring on her finger. As you study the jewelry, you hear hissing voices from every direction — fey — but despite the number of voices, you cannot see a single one.{/n} \"Get hence! Get hence! Let our Nyta sleep or you will regret it.\""
+    },
+    {
+      "Key": "9e9b3f85-6911-4c13-b180-c11303c48325",
+      "Value": "{n}Ignoring the threats of the fey, you collect the gold from the body.{/n}"
+    },
+    {
+      "Key": "673ef48d-9e51-457d-86ec-43ed94552d00",
+      "Value": "{n}The ring you found at the Scythe-Tree starts to glow softly. As it does, you hear the faint sound of a woman sobbing… but it's strangely removed as if coming from far away.{/n}"
+    },
+    {
+      "Key": "1f6aa6c1-bccc-47e3-94f5-b75aa58825e6",
+      "Value": "{n}You collect fresh flowers and lay them over the girl's remains.{/n}"
+    },
+    {
+      "Key": "849bf331-fa05-4339-a37e-010538eaecac",
+      "Value": "{n}You put the glowing ring over the girl's chest, and hear a sigh of relief.{/n}"
+    },
+    {
+      "Key": "9f6b4d00-005f-4a20-8989-5ed8426f6538",
+      "Value": "\"We'll find you...\"{n} — the hissing seemingly comes from the forest crown itself. — {/n}\"You'll regret… You'll be sorry...\""
+    },
+    {
+      "Key": "128efd08-5367-4af4-8fa9-1cbc24ed70e2",
+      "Value": "{n}The body bears a strong preservation enchantment that keeps decay at bay.{/n}"
+    },
+    {
+      "Key": "aab54ed1-ae7b-43dd-a564-6ea7169ab366",
+      "Value": "{n}The jeers and threats of the fey become murmurs, then dissolve into silence.{/n}"
+    },
+    {
+      "Key": "e9ed9373-d796-4975-a5a5-858bd361b541",
+      "Value": "{n}A flurry of giggles and a few mocking jabs (comparing you to the unfavorable end of a mule) are your only answer.{/n}"
+    },
+    {
+      "Key": "477b13c3-5997-4baf-bde6-e80a86edeb24",
+      "Value": "\"Hey, who're you laughing at? Come here, cowards, try and laugh into my face!\""
+    },
+    {
+      "Key": "851c5016-a33d-43d3-8fd8-7725d636243c",
+      "Value": "\"This is the land of the fey. Their jokes can be cruel, but their hearts are not evil. Angering them is unwise.\""
+    },
+    {
+      "Key": "3267ee09-b95c-4902-81e0-613bd8f31330",
+      "Value": "\"Oh, don't you say. Do you think angering me is wise? Let me catch these pests, and we'll see who laughs then!\" {n}The half-orc shakes his fists at the invisible mockers.{/n}"
+    },
+    {
+      "Key": "f9daf864-e276-4a91-8bee-e2d407e81b46",
+      "Value": "\"So sad and romantic... Whoever she was, someone really loved her!\""
+    }
+  ]
+}

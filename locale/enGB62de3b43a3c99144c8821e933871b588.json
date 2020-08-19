@@ -1,0 +1,61 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "de0ac2c6-7de2-479a-9d46-29e0eccba2a3",
+      "Value": "\"Exempt this merchant from taxes.\""
+    },
+    {
+      "Key": "1735a7a1-715b-4fbe-b397-ed73030d93c4",
+      "Value": "\"Tell him that the law in my domain applies equally to all.\""
+    },
+    {
+      "Key": "a334793f-abb7-4cf9-80b5-e218269d5c74",
+      "Value": "{g|Loyalty5_3}[Choice effects]{/g} [Gain 5000 gold and 40 BP] \"This corrupt tradesman will pay for his insolence. Arrest and execute him.\""
+    },
+    {
+      "Key": "6f66eaaa-8f92-4639-baf4-0f6d01baf01e",
+      "Value": "\"I trust your advice.\""
+    },
+    {
+      "Key": "0f4c3639-93aa-4694-91b9-befd3eaaaabf",
+      "Value": "\"{name}, a local merchant wishes to be relieved of his taxes, which naturally stands against the laws of the {mf|barony|barony|kingdom|kingdom}. In return for this… service... he promises to put in a good word for you among the city's trade community.\""
+    },
+    {
+      "Key": "eeaac375-d784-4c78-b5fc-fc474651656e",
+      "Value": "\"{mf|Your Grace|Your Grace|Your Highness|Your Highness}, I've curious news for you. A local merchant is trying to bribe you. He wants his new salt-production shop relieved of trade taxes. In return, he promises to act as your 'patron' among the {mf|barony's|barony's|kingdom's|kingdom's} trade community.\""
+    },
+    {
+      "Key": "1dc251d4-51e7-45a8-903a-822fd278d428",
+      "Value": "\"{name}, a merchant is offering you a business deal. He wants one of his shops relieved of trade taxes. This certainly goes against our laws. However, in return he promises to put in a good word for you among the high society of tradesmen.\""
+    },
+    {
+      "Key": "d4c41693-f673-44c7-80e8-968595d9ec0a",
+      "Value": "\"This deal proves your visionary leadership, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. The well-being of the {mf|barony|barony|kingdom|kingdom}... and of your treasury... relies on these people.\""
+    },
+    {
+      "Key": "0959a4b7-6351-4527-9aef-6ceefe71603b",
+      "Value": "\"You'll have to turn down many similar offers. But eventually people will come to realize that the {g|Stolen Lands}Stolen Lands{/g} have changed forever. Henceforth, everyone is equal before the law.\""
+    },
+    {
+      "Key": "ab1e1fb5-b44a-4274-9fc2-f7645dd5e07b",
+      "Value": "\"Is that all? You expect him to be grateful for your lenience? He's going to harbor a grudge anyway. You should have gotten rid of him.\""
+    },
+    {
+      "Key": "990f8e65-7520-4032-bb61-52d090dbe7e9",
+      "Value": "\"I will be sure his colleagues are aware of how painful his death was. May they mind their own business in the future – and not forget what happens to those who fail to do so.\""
+    },
+    {
+      "Key": "607945e1-1f61-41f1-8995-b5756bb38a25",
+      "Value": "{n}Tristian's voice is very soft.{/n} \"I realize that such offer might stir you to outrage. But try to understand, greed can cloud anyone's judgment, wealthy and pauper alike. We must teach these people that the times have changed. The law no longer serves only the rich. Reject his offer, but refrain from punishing him.\""
+    },
+    {
+      "Key": "55d9be2a-1d24-4f85-8c71-6b609465c76b",
+      "Value": "\"Surely, this fool is merely a symbol. He himself is not important. But all the influential people of the {mf|barony|barony|kingdom|kingdom} are holding their breaths, waiting for your decision. They need to know they can do business with us, or we'll be seen as a danger. If I were you, I wouldn't want to look like a fanatic, or a hostage of my own principles. Approve this small request, and be done with this greedy fellow.\""
+    },
+    {
+      "Key": "0e97bb70-75f0-4974-aaca-abe000622cab",
+      "Value": "\"It's good he's come to you. It means he knows who the leader is. It's bad he didn't come to beg, but instead offers to buy. This is disrespectful. The insolent worm must be punished. The pack needs to see fear in his eyes, and remember forever that your good will can never be bought and sold.\""
+    }
+  ]
+}

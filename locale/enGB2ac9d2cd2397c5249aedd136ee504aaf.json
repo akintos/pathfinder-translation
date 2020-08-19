@@ -1,0 +1,141 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "4a88b618-331f-4cb6-80dc-4684278adc18",
+      "Value": "\"I got tired of chasing you across the barony.\""
+    },
+    {
+      "Key": "7197c5a0-163d-4ae5-8061-cd1790d4cf67",
+      "Value": "\"Looks like opening portals isn't an easy task.\""
+    },
+    {
+      "Key": "8518ea06-260f-40df-bbee-5f2bef2e9441",
+      "Value": "\"I'll finish you off, Tristian! Do you hear me? By my own hand!\""
+    },
+    {
+      "Key": "b8a3c0ee-871a-49e0-95c7-5e59cb456314",
+      "Value": "\"I still want to speak with you, Tristian.\""
+    },
+    {
+      "Key": "3d985b66-4957-433a-8a68-5d59b924aa80",
+      "Value": "[Take a step toward Tristian] \"Why did you return here, to the Temple of the Elk?\""
+    },
+    {
+      "Key": "e61e14c7-5b7b-4b7d-9246-8f29df2078cc",
+      "Value": "[Take a step toward Tristian] \"Back on the island you said I was in danger. What did you mean?\""
+    },
+    {
+      "Key": "67eacae7-308e-4fbf-91fa-5497007286b7",
+      "Value": "\"Let's finish this. Give me what you have taken.\""
+    },
+    {
+      "Key": "38d82652-dcc5-4331-85d0-4ac6fa417d48",
+      "Value": "[Take a step toward Tristian]"
+    },
+    {
+      "Key": "9b7d198b-b41f-4c18-9ed7-19bffb9fd698",
+      "Value": "[Approach Tristian openly] \"No tricks, Tristian, no games. I came here to talk.\""
+    },
+    {
+      "Key": "291136b9-5667-4b94-8e04-451ffa6f7153",
+      "Value": "\"How long will this escape last?\""
+    },
+    {
+      "Key": "8f2d4270-953f-4022-8899-c1a0e54fccd4",
+      "Value": "[Attack] \"You shouldn't have trusted me, traitor!\""
+    },
+    {
+      "Key": "eabac926-7e0a-428f-9613-8eedea876d8f",
+      "Value": "[Take another step towards Tristian] \"Tell me about the First World.\""
+    },
+    {
+      "Key": "0e46b2ba-1a5b-4d5c-abf1-98730cd5a010",
+      "Value": "[Remain where you are] \"All right, let's talk like this. What are you doing here?\""
+    },
+    {
+      "Key": "b9c7815e-4209-4eec-ac17-84f1cc4658be",
+      "Value": "\"Where will you go, Tristian?\""
+    },
+    {
+      "Key": "4516e047-abca-47d3-aadd-21c68ba6da16",
+      "Value": "[Attack] \"You'll never leave this place!\""
+    },
+    {
+      "Key": "05f2c2ed-25fc-4adb-9edd-501d12356d72",
+      "Value": "\"I still want answers, Tristian. Are you satisfied with what you've done? Do you accept what you've become, or will you at least try to change? Your goddess gives everyone another chance — surely she has enough mercy for you as well.\""
+    },
+    {
+      "Key": "949b9d92-7500-4c95-bbc0-84003dd36715",
+      "Value": "\"Did you really think I'd just leave you alone?\""
+    },
+    {
+      "Key": "00d92aeb-d7ab-4eef-b6d7-40741af1bcb6",
+      "Value": "{n}Tristian looks exhausted — his face is deathly pale, his eyes are dull, with dark circles around them, and his hands tremble.{/n} \"You… again…\""
+    },
+    {
+      "Key": "06cd53ea-4593-403d-9eae-a82e71a6d169",
+      "Value": "{n}Tristian shakes his head sadly.{/n} \"You hope for a way to make things right. It's not possible.\""
+    },
+    {
+      "Key": "47ef04d1-b488-463b-a670-197bb9422b43",
+      "Value": "{n}Tristian shakes his head.{/n} \"Don't reduce yourself to idle threats. I must finish what I've started. Before that happens… you won't be able to stop me.\""
+    },
+    {
+      "Key": "ac0b9b04-b043-4c91-aa67-0f324899ec83",
+      "Value": "{n}Tristian closes his eyes.{/n} \"This is… hard. I need to rest. That's the only reason you were able to catch me.\""
+    },
+    {
+      "Key": "005664b7-8620-4a7e-830a-dbe9dfcd41d6",
+      "Value": "{n}Tristian tilts his head.{/n} \"I asked you to stop pursuing me. You waste your time… and you've placed yourself in danger.\""
+    },
+    {
+      "Key": "ea372b9a-469b-4bbf-8857-b08e44300f16",
+      "Value": "\"This is impossible, {name}. Please don't ask me to do it again. Oculus of Abaddon should serve to the power that compels me and reveal the path to it's goal. Otherwise...\" {n}Tristian shudders.{/n}"
+    },
+    {
+      "Key": "d0037794-34fb-481a-b88a-bb4260bc1ac1",
+      "Value": "{n}Lost in his thoughts, Tristian doesn't notice you step closer.{/n} \"You don't believe me? Indeed, why should you after all that has happened? If you think I exaggerate the danger you're in, you're mistaken.\""
+    },
+    {
+      "Key": "0f04ea9c-7258-441d-b508-46d90aee6f09",
+      "Value": "\"Please, don't move! If you wish, we can talk, but I beg you once again — stop pursuing me!\""
+    },
+    {
+      "Key": "ccd5931c-5580-4a41-a3a8-1a6a5c522b1e",
+      "Value": "\"I hope… I hope everything will be over soon.\""
+    },
+    {
+      "Key": "89d63a38-a28e-4d1a-baf6-e9eb0e66b350",
+      "Value": "\"If you persist, a real storm awaits you, {name}. A storm called the {g|First World}First World{/g}. Even you can't defeat an enemy like that. Even you have just one chance to survive it — if you flee!\""
+    },
+    {
+      "Key": "216681b3-b0d3-4eae-88cf-23f64321706b",
+      "Value": "{n}Tristian steps back.{/n} \"No… no! Get away from me! Get away from the portal!\""
+    },
+    {
+      "Key": "9bbbeaec-b7dd-4fe5-b5a4-cc579b6534f7",
+      "Value": "{n}Tristian drops his head, but not before you catch his eyes welling up.{/n} \"I... I will find a way to make amends. Even if it costs me my life. Even if my goddess remains deaf to my prayers. But now... Now I must leave.\""
+    },
+    {
+      "Key": "3f8eef24-e03e-4674-88b2-221a5386e437",
+      "Value": "{n}Tristian backs away.{/n} \"I've already told you more than I should have. Now I beg you… leave!\""
+    },
+    {
+      "Key": "f30694e8-f396-4753-952f-cf2290d3654d",
+      "Value": "{n}Tristian covers his face with his hand.{/n} \"I can't stand driving you away. But I must — to save you! But before I go... I swear, I'll find a way to make it up to you. Forgive me. I must go.\""
+    },
+    {
+      "Key": "5f096661-62d9-4e6b-a027-4596ae5a16ab",
+      "Value": "\"Now THAT'S interesting. Better than your usual whipped-up stories about life in {g|Kelesh}Kelesh{/g}!\""
+    },
+    {
+      "Key": "47183bd3-ddae-46d5-ac88-5aee8b96a311",
+      "Value": "\"With nagging like yours, of course escape's the only way! Not for us, though. We're not cowards or traitors.\""
+    },
+    {
+      "Key": "97281fb1-315e-4250-a821-13a5c66b70a1",
+      "Value": "\"A lie.\" {n}Ekun's face is serious, almost solemn.{/n} \"Despair blinded you. Now you try to blind us, to sow fear and doubt.\""
+    }
+  ]
+}

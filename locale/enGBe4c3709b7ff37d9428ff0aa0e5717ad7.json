@@ -1,0 +1,253 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "ba359187-bb71-433f-9c62-8750c0ae710c",
+      "Value": "\"What's going on here?\""
+    },
+    {
+      "Key": "d1a1ed1b-2a5e-4354-a20f-662594770618",
+      "Value": "[Address the leader] \"Who are you?\""
+    },
+    {
+      "Key": "90e4c986-723f-4a29-9ed0-8007740709fa",
+      "Value": "[Address the settlers] \"What's the problem here?\""
+    },
+    {
+      "Key": "ae3fdd8d-f3cf-405a-8852-78d2f791e342",
+      "Value": "\"Guards! Seize the troublemaker!\""
+    },
+    {
+      "Key": "039867f2-dd86-46bc-a20e-5e7017abcf6d",
+      "Value": "\"Those are just generalities. What happened, exactly?\""
+    },
+    {
+      "Key": "76976a44-a6c8-4f0d-80f5-10ca95b01580",
+      "Value": "\"Shut your mouth, foreigner. I wasn't talking to you. Citizens of Varnhold! What exactly are you unhappy about?\""
+    },
+    {
+      "Key": "121eaa60-ba59-47a7-8227-1daa4bd7d1fb",
+      "Value": "\"The baron is not your enemy, and we don't need to stoop to violence. I will personally see that your troubles get taken care of!\""
+    },
+    {
+      "Key": "23fcb73e-1855-4157-8b24-530aca68afd5",
+      "Value": "\"This woman is the instigator! She put you up to this. She wants you to fight with the soldiers so that she can play political games while you spill your life's blood!\""
+    },
+    {
+      "Key": "1d22270a-6f81-48d8-a7af-4b95971b0726",
+      "Value": "\"If this comes to blows, you won't stand a chance against Varn's guards. Now give us the instigator and go home.\""
+    },
+    {
+      "Key": "ef9c12e4-5cdb-41c5-843e-85a2547ed22c",
+      "Value": "\"And what is this on your belt? Why, it looks like a wand of invisibility! What need do you have of that?\""
+    },
+    {
+      "Key": "dcdf7d50-89cb-4bc3-b58d-1b1e77f86e24",
+      "Value": "\"There's been constant carnage ever since the revolution in Galt. Every day, someone else gets sent to the chopping block. Do you really want the same fate for Varnhold?\""
+    },
+    {
+      "Key": "18e98b76-7901-42a8-b7c1-ac264c06a9cd",
+      "Value": "\"Dull eyes, froth on the lips... That doesn't sound like an ordinary illness. Do you think someone could have poisoned your cows?\""
+    },
+    {
+      "Key": "46a26d81-bc91-4194-a84e-d3c7fb854c56",
+      "Value": "\"I see many of you wearing Abadar's keys. Does the god of civilization approve of such uncivilized methods for solving problems?\""
+    },
+    {
+      "Key": "b5cb41f6-b810-4dae-a0ca-c0899f4046b4",
+      "Value": "[Grab her hand]"
+    },
+    {
+      "Key": "69a2ff26-7f08-4cef-a559-34638742e186",
+      "Value": "[Knock the wand out of her hands]"
+    },
+    {
+      "Key": "412df6b6-569d-4271-9ca0-88fdaae04956",
+      "Value": "[Signal to the guards not to attack]"
+    },
+    {
+      "Key": "23707e23-6645-4ec4-a968-4d9a5270c363",
+      "Value": "[Do nothing]"
+    },
+    {
+      "Key": "543adc27-4c7a-41a0-bbbe-3153adef3327",
+      "Value": "\"So are you here to complain about the sick cows, or to demand a people's republic? Make up your minds.\""
+    },
+    {
+      "Key": "1b8f94ca-e7bd-454a-96a8-dd4e4a7ce609",
+      "Value": "{n}The situation is growing heated. Varn's guards, their weapons drawn, stand opposite a group of settlers who are yelling revolutionary slogans. You see some of the local fishermen among them. There's a half-orc woman in the front row, wearing a bright cape and shaking her weapon. She's obviously not from around here.{/n}"
+    },
+    {
+      "Key": "cf7316b4-d812-4b50-8da9-21a85746ae83",
+      "Value": "\"Down with tyranny! We will not be treated like cattle! You can't enslave us!\""
+    },
+    {
+      "Key": "90e1d375-b27d-425b-b653-ea02ca0e08bf",
+      "Value": "\"Calm down! Now...\" {n}Noticing you, the guard sighs with relief.{/n} \"Here's {Name}, the General of His Grace {d|Varn}Varn{/d}. I'm sure {mf|he|she} will deal with your problems, so we can all go home peacefully.\""
+    },
+    {
+      "Key": "ccc54309-97d2-4db3-8376-214bab3c8314",
+      "Value": "\"I am Leonta Misho of the revolutionary Crimson Swans of {g|Galt}Galt{/g}! We have freed our own home from tyranny, and I will not stand by as your new feudal lord tramples the freedom of these people under his boots!\""
+    },
+    {
+      "Key": "891f2a9c-f9f5-4068-a3f7-b25ab26722bd",
+      "Value": "\"Kings, barons, earls... Ordinary people are like cattle to the nobility! We will not allow this new state to become yet another prison for the people, who groan under the yoke of tyranny! We demand that {d|Varn}Maegar Varn{/d} relinquish his power, proclaim these lands a people's republic, and gather a constituent assembly!\""
+    },
+    {
+      "Key": "0469230a-8cb7-4e04-b697-baa51ca07049",
+      "Value": "\"Their problem is the autocracy of the tyrant!\""
+    },
+    {
+      "Key": "e410f3f7-8014-4d91-8d4d-348db8645db4",
+      "Value": "\"Don't threaten us! We've seen worse than you!\" {n}Settlers draw their weapons, ready to defend their leader.{/n}"
+    },
+    {
+      "Key": "5f9dd725-8062-4dde-a654-dccdf720587d",
+      "Value": "\"Here's the whole story, General. We're from Brevoy. We were tired of working for the Surtova, so we decided to try our luck here in this new land. So we built a farm a couple of miles from Varnhold, and started settling in. And it was going pretty well, too! But then a pestilence struck the cows!\""
+    },
+    {
+      "Key": "eebec92b-22c9-4e6d-8518-0321585baa1a",
+      "Value": "\"They can't even stand, the poor things. Their eyes are all dull and they're frothing at the lips... We sent word to His Grace – the Baron did promise to help us settlers! But we got no reply. He didn't even send a doctor – or even a bloody scroll!\""
+    },
+    {
+      "Key": "c991a060-fa37-48e0-955e-82c8f7ead2b3",
+      "Value": "\"Aren't your hearts...\""
+    },
+    {
+      "Key": "695ab241-d726-4a07-8931-be583e52ab89",
+      "Value": "\"What's wrong with you? Are you prepared to live your entire lives as slaves to a feudal lord? Whoever still has a living, beating heart in their chest, and not a pile of dung – to arms! For freedom! Against tyranny!\""
+    },
+    {
+      "Key": "0ec0e49a-a271-4f1c-abfa-657268aa97e1",
+      "Value": "\"Oh yes. The henchmen of dictators see evil everywhere, because evil is all they know! But we are not like them! Our hearts are pure, and our intentions are noble! To arms, my friends, to arms for our freedom!\""
+    },
+    {
+      "Key": "b33519b9-797a-4c31-a1f1-b8e362c0b420",
+      "Value": "\"Forgive us. We didn't mean any harm. This damned troublemaker played us for fools! Throw the snake in prison! And we'll, you know.. We'll just go home.\""
+    },
+    {
+      "Key": "6a76ad66-ddb2-4f04-b7d2-446b53dc1ef5",
+      "Value": "\"Do you hear that? Violence is the argument of dictators! They think they can keep us forever enslaved, under threat of their swords! But they are wrong! We are invincible, because the truth is with us!\""
+    },
+    {
+      "Key": "f03c8246-78db-4f5b-a2e2-8f65ec9005ad",
+      "Value": "\"A wand of invisibility? Old Ignash the sorcerer had one just like that... Now then, let me see it!\""
+    },
+    {
+      "Key": "cce385b6-4cee-4fce-9ff3-b6821e514482",
+      "Value": "\"What wand? We're talking about the cows, and {mf|he|she}'s going on about a wand. {mf|He|She}'s just trying to distract us!\""
+    },
+    {
+      "Key": "03bf0012-a594-47fe-ba68-1f16abfcfb7d",
+      "Value": "\"Right, who are we listening to? Those revolutionaries ruined everything in {g|Galt}Galt{/g}, and now they want to come here and tell us how to live?\""
+    },
+    {
+      "Key": "a8afd66d-78fa-4f73-9046-30eb37f6d022",
+      "Value": "\"No, no, Leonta told us all about {g|Galt}Galt{/g}! The people rose to power there, but they couldn't save the country from traitors and saboteurs. That's not going to happen here. We've never have any traitors or saboteurs here!\""
+    },
+    {
+      "Key": "909530d4-266b-406a-a1c8-e38e5f9b1983",
+      "Value": "\"Poison? Wait a minute, that does sound like poisoning! But who... Em... Leonta! Did you poison our cows just to stir up a riot?!\""
+    },
+    {
+      "Key": "760685df-e3c4-49d6-83e9-42a63b801327",
+      "Value": "\"No, why would I? It's only an illness. Or maybe they ate some poisonous grass in the field. Either way, we need help, and the baron sends us nothing!\""
+    },
+    {
+      "Key": "9ed99a72-58c8-4d99-8029-f2b16126e791",
+      "Value": "\"You're right! This doesn't seem right – drawing our weapons at the first sign of trouble. If we grabbed our knives every time there's a problem, what would happen? It wouldn't be a nice place to live, that's for sure!\""
+    },
+    {
+      "Key": "a64c6620-c3dc-4a35-9300-e6652bce7039",
+      "Value": "\"Don't try smooth talking us! What Abadar thinks of me is my business. We came here to talk about our dealings with the baron!\""
+    },
+    {
+      "Key": "9c7749cd-571b-4594-997d-4ef6f182dbc3",
+      "Value": "{n}You notice the revolutionary take a magic wand from her belt. She's about to cast a spell!{/n}"
+    },
+    {
+      "Key": "85cb7502-3cc4-4b9a-9ba7-9929c8f65d88",
+      "Value": "{n}The revolutionary grabs a magical wand from her belt. Before you have a chance to react, she casts an invisibility spell and disappears.{/n}"
+    },
+    {
+      "Key": "4bec8b74-8793-4472-aa8e-9d2569d3e00f",
+      "Value": "{n}The settler looks more closely at the wand the half-orc is holding, and his faces grow dark with anger.{/n} \"That's the wand of invisibility we took from old Ignash the sorcerer. So that's why you needed it!\""
+    },
+    {
+      "Key": "6b6963d9-7950-4668-9149-0b5bccf269bb",
+      "Value": "{n}The revolutionary ducks. Your fingers grab only air.{/n}"
+    },
+    {
+      "Key": "e3818085-eefd-4e84-8e12-231107f12292",
+      "Value": "{n}One settler picks up the wand from the ground, and his face grows dark with anger.{/n} \"This is the wand of invisibility we took from old Ignash the sorcerer. So this is why you needed it!\""
+    },
+    {
+      "Key": "fd0d31c0-277c-48ab-acd6-7b7681488ecb",
+      "Value": "{n}The revolutionary gracefully dodges your blow.{/n}"
+    },
+    {
+      "Key": "b9adb5d9-4c32-48f0-9c03-9c105f864a04",
+      "Value": "\"Keep back, keep back... We can still avoid bloodshed!\""
+    },
+    {
+      "Key": "314914e7-eec8-4e7f-8cc1-ecb77f21274e",
+      "Value": "{n}The revolutionary casts an invisibility spell with the wand, and promptly disappears, but only you notice it happen. – Both the guards and the settlers are only concerned about the fight!{/n}"
+    },
+    {
+      "Key": "2aef1b14-1440-4083-9f7c-66e6dab196ec",
+      "Value": "{n}The guards loose a battle cry and attack the crowd. The first blood drops fall to the ground. Carnage is inevitable!{/n}"
+    },
+    {
+      "Key": "f0c717f9-98fd-4d44-be8d-0ce3f00d814f",
+      "Value": "\"We wanted to forget it and seek our fortune elsewhere, but then this one came. Her name is Leonta Misho. She's from {g|Galt}Galt{/g}. She said the Baron didn't care about us, and wasn't going to help. That all he's good for is taking taxes. She said we should go make some noise, stomp our feet. Then maybe His Grace will pay heed to our troubles!\""
+    },
+    {
+      "Key": "a8473b6a-87b5-4e5a-8c69-da3e9a1b9fe5",
+      "Value": "{n}Baffled, the settlers stare into the empty space where she was just a moment ago. Rage fills their faces.{/n} \"What is this? She brought us here, set the soldiers on us... And disappears? The Galtan snake!\""
+    },
+    {
+      "Key": "6e8e902f-173f-4911-a1ac-81f2076d7d40",
+      "Value": "\"So that's your plan? Bring us here, set the soldiers on us... And disappear? You Galtan snake! Tie her up! Throw her in prison – or lead her to the chopping block. It's not our business any more.\""
+    },
+    {
+      "Key": "53f8390d-1c17-4fad-93de-3ac01261cdc9",
+      "Value": "{n}The settlers exchange looks.{/n} \"Yes, about the republic... We went a little overboard...\""
+    },
+    {
+      "Key": "dde91f29-8741-484b-a576-36ec829f22ad",
+      "Value": "\"Citizens, don't listen to the tyrant's henchman! Don't give up! Fight for your rights! Don't you see? So long as a sovereign rules over you, no one will care about your suffering? Your cows, your fields, your homes – all of this is at risk, until you become your own masters! Down with the baron! The time of the people has come!\""
+    },
+    {
+      "Key": "0070b4c4-9314-44ff-a9db-a38697e24d7e",
+      "Value": "{n}Inspired by the revolutionary's speech, the settlers draw their weapons and move towards the guards. The latter raise their weapons and grit their teeth. A bloodbath seems inevitable!{/n}"
+    },
+    {
+      "Key": "96af22fa-f2c6-49fe-a438-aaa3a43d01e5",
+      "Value": "\"But come to think of it... Please send us a doctor, or a healing scroll. Our cows keep getting ill, and the baron doesn't help, or even reply... If it weren't for the cows, we wouldn't have caused any trouble! All right, so long!\""
+    },
+    {
+      "Key": "3480d90f-c6a9-4379-8980-b4006ae0c9f9",
+      "Value": "\"Let's go, everyone, before the baron's guards cut us to pieces! I guess there's no luck for us in Varnhold. We'll try to settle somewhere else. Maybe things will be better in Shrike Hills...\""
+    },
+    {
+      "Key": "33042b91-bc9f-47cc-87e4-1d956b77d4b7",
+      "Value": "\"Keep quiet, you've had your say. Folks, tie her up!\""
+    },
+    {
+      "Key": "90071ab1-8c6b-4f4a-a93b-b79d01291222",
+      "Value": "\"You better surrender while you still can! Or we'll slaughter the lot of you!\"\n{n}The soldiers approach the crowd. They obviously don't want to fight the settlers, but they won't disobey your orders either.{/n}"
+    },
+    {
+      "Key": "6cb617ad-12bf-426f-a706-00404c044d4d",
+      "Value": "{n}The revolutionary casts an invisibility spell with her wand, and vanishes right in front of everyone.{/n}"
+    },
+    {
+      "Key": "3c5ca7ce-0986-40d9-8e6d-ea9efb52404f",
+      "Value": "{n}The fishermen exchange apprehensive looks.{/n} \"We'll, you know... We'll go too, all right? We have some silly things written on our walls. We'll wash them off right away!\""
+    },
+    {
+      "Key": "f48dd091-24cc-47a1-bd39-d68b10b9cd52",
+      "Value": "\"Yes! And there's holes in our boats. Can't catch any fish like that! But the Baron doesn't care! He loves to eat fish, I'm sure, but he's never held a fishing pole his whole life!\""
+    }
+  ]
+}

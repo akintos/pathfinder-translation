@@ -1,0 +1,229 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "1d5a305e-ca39-43ff-9a0d-d086a7891986",
+      "Value": "\"I will not deny help to anyone in trouble who comes to me for aid.\""
+    },
+    {
+      "Key": "e5bea311-e408-49e4-ad4b-d5241bef58ff",
+      "Value": "\"I will be merciful to those who deserve it!\""
+    },
+    {
+      "Key": "178a282d-0ae1-44bc-bf14-b34bdbd45ecd",
+      "Value": "\"Perhaps with benevolence. Or perhaps harshly. We'll wait and see.\""
+    },
+    {
+      "Key": "0e52c3e9-c089-4edd-a6c2-343dd217cf0b",
+      "Value": "\"I will destroy the unworthy, but as for those who are suffering — let them solve their own problems.\""
+    },
+    {
+      "Key": "7b987daf-c414-47a9-bb43-e86f7ddf66ee",
+      "Value": "\"All who abide by my laws may rely on my mercy.\""
+    },
+    {
+      "Key": "4b14302b-0d32-4d56-bead-830ec3060fda",
+      "Value": "\"Only if it is wise and serves our larger goals.\""
+    },
+    {
+      "Key": "b3b3bef0-7c63-415e-88a9-663dfa9aba7c",
+      "Value": "\"I will abide the laws which benefit my subjects and my lands.\""
+    },
+    {
+      "Key": "1bf62972-bb16-4847-a156-3aed845da1d1",
+      "Value": "\"This country will live under the rule of law, and those who break the law will be severely punished.\""
+    },
+    {
+      "Key": "b2453135-5207-4091-a023-69a221783b76",
+      "Value": "\"Laws? I don't give a fig about laws. I am the power and I am the law: if during breakfast I wish to hear innocents screaming on the rack — then I will hear it!\""
+    },
+    {
+      "Key": "9b8ab584-2b16-4dfa-8254-1fab480fba79",
+      "Value": "\"I don't need outdated traditions or stupid laws! The will of the {mf|King|Queen} is above all: I know what my subjects require for their happiness and prosperity!\""
+    },
+    {
+      "Key": "30bbd23f-dcf6-4e08-8bd7-cf4593bc4b46",
+      "Value": "\"Fine, I shall speak.\""
+    },
+    {
+      "Key": "fdc34898-5bcc-4f10-91e2-325d2af2f59e",
+      "Value": "\"That's quite enough for today, Linzi. The people want to celebrate, not listen to my pompous babbling.\""
+    },
+    {
+      "Key": "0386562c-4137-4c9a-935e-60c72c52ceae",
+      "Value": "\"My loyal subjects! Today is the day when law finally comes to the Stolen Lands…\""
+    },
+    {
+      "Key": "a59814ea-9805-43eb-a546-693d8b181363",
+      "Value": "\"My good subjects! My only dream is to deliver peace and safety to those who have put their trust in me — something you have so desperately needed, for so long...\""
+    },
+    {
+      "Key": "888b9c88-2496-4bd9-95a8-ca890dadc164",
+      "Value": "\"Now listen to me, my subjects! From this day forth, I am your sovereign and your master. My word is a law, and my will is your command…\""
+    },
+    {
+      "Key": "4f675ae2-efa9-4e8d-ac41-3aa977645520",
+      "Value": "\"Brothers and sisters! The very essence of the Stolen Lands is freedom! No longer will the powerful dominate the weak. I swear to defend your freedom to my last breath...\""
+    },
+    {
+      "Key": "f4bb7d7a-e82c-4321-9af0-922cbaf8e21c",
+      "Value": "{n}Linzi is almost jumping in excitement, clutching in her hands a scroll covered with solemn oaths.{/n} \"{mf|Baron|Baroness}, what took you so long? Everybody has been waiting for you! Hurry up!\""
+    },
+    {
+      "Key": "f59a2e1f-e78f-464d-ad0c-6435f63d91ba",
+      "Value": "{n}She proudly demonstrates a parchment scroll covered with scribbles.{/n} \"I've searched all the books, but I couldn't find anything that resembled a coronation protocol for the {g|Stolen Lands}Stolen Lands{/g}. So I took the liberty of penning the program myself! Don't worry, I did the very best I could!\" {n}Linzi clears her throat and turns to the crowd.{/n}"
+    },
+    {
+      "Key": "558d31c3-7321-40be-8913-3ae3fb5c8c73",
+      "Value": "\"Citizens of the Kingdom! Ladies and gentlemen! It is with great excitement and indescribable awe that I, Linzi, official chronicler of the hero who stands beside me, hereby declare the beginning of a sacred ceremony — the coronation of the first legitimate ruler in the history of the {g|Stolen Lands}Stolen Lands{/g}! By the power of the representatives of the other royal houses, who recognize {mf|him|her} as their equal, and according to the will of the people, who accepted {mf|his|her} rule, {mf|he|she} now ascends the throne, which has been waiting empty for so long, for such a worthy ruler!\""
+    },
+    {
+      "Key": "bf0dead5-8322-49a9-afca-105291ea5564",
+      "Value": "\"My fellow citizens! I hereby introduce {name}, your {mf|King|Queen} and your undisputed leader! Now {mf|he|she} stands before you, ready to accept your will! Everyone who has gathered here — are you ready to swear fealty to your new ruler?\""
+    },
+    {
+      "Key": "e9a78f0f-509b-49bf-8443-f743dd9d9c31",
+      "Value": "\"So, it is decided. And now...\" {n}Linzi turns to you.{/n} \"It's your turn, Your Highness!\" {n}The bard clears her throat and solemnly reads her words from the page.{/n} \"Into your hands we commend our lives, and humbly request you address the fate that awaits for us under your rule. Please now answer...\""
+    },
+    {
+      "Key": "defde008-6f5d-4b77-b5c7-ccdbd1a49af0",
+      "Value": "\"I'm not subject to anyone, so I cannot swear fealty, but I have nothing to say against a {mf|king|queen} such as this!\""
+    },
+    {
+      "Key": "180a30a0-33b2-407b-a323-520d75f24739",
+      "Value": "\"Erastil save the {mf|King|Queen}!\""
+    },
+    {
+      "Key": "420bb1ca-1572-40ff-8fda-5d29c9a26ef2",
+      "Value": "\"Hail to the {mf|King|Queen}!\""
+    },
+    {
+      "Key": "60883e3b-b079-4bd8-8f79-f2611f28808a",
+      "Value": "\"Yeah, yeah, sure! How much longer are you going to wag your tongues? It's time we start feasting in the chieftain's name!\""
+    },
+    {
+      "Key": "f4af88aa-52a7-4eda-8d8e-05cda394ab87",
+      "Value": "\"We pledge our loyalty!\""
+    },
+    {
+      "Key": "dd08c88b-686a-4199-9ece-cac2543a6e03",
+      "Value": "\"Long live the {mf|King|Queen}!\""
+    },
+    {
+      "Key": "ed18d191-c506-41d3-a4bf-ef158cd86d8d",
+      "Value": "\"I swear.\""
+    },
+    {
+      "Key": "f6b9cf54-4f4f-4d17-996f-10b8a75bc654",
+      "Value": "\"How do you intend to rule this land and its people? With benevolence and care for those who suffer, or with strength — and severity for the unworthy?\""
+    },
+    {
+      "Key": "2aa5a1f9-a47a-4c28-b34a-d80b8c711f8b",
+      "Value": "\"Will you honor the old ways and traditions, which spread through these lands long before your time, and will you abide its laws, which all accept?\""
+    },
+    {
+      "Key": "1fe681d4-18fc-4662-b5ea-90570da23dbd",
+      "Value": "\"And finally: what will be the motto under which you shall rule? Proclaim it now for us to witness, and we shall etch this solemn moment into our hearts!\""
+    },
+    {
+      "Key": "0c8dae8f-796d-45dc-aecc-5224296fa122",
+      "Value": "{n}Linzi glances at the last few lines of her manuscript.{/n} \"Well now...\" {n}She clears her throat and turns to the crowd.{/n} \"Esteemed gentlemen! Fair ladies! The ceremony is complete, and now the long-awaited moment has arrived!\""
+    },
+    {
+      "Key": "bf83083f-7ff2-44e3-a06d-ad27de9eb53e",
+      "Value": "\"Let us bow together, and witness this solemn moment! The crown!\""
+    },
+    {
+      "Key": "004657ce-5b7f-4712-b216-f7469f1dffc0",
+      "Value": "{n}Linzi leans towards you and whispers urgently:{/n} \"Speech, Your Highness! According to tradition we need a speech!\""
+    },
+    {
+      "Key": "4069bb7b-a06c-4064-a618-da4a3dc5d7a7",
+      "Value": "{n}Linzi claps her hands in joy and turns to the crowd.{/n} \"Ladies and gentlemen! {mf|His|Her} Highness wishes to give a speech!\""
+    },
+    {
+      "Key": "59fac5b3-6996-4b6d-a185-3cd43bbd2736",
+      "Value": "{n}Linzi sighs in disappointment.{/n} \"This isn't how the ceremony is supposed to go… but all right! You never promised anything — and after all, it's your kingdom and your rules!\""
+    },
+    {
+      "Key": "c6ee43a6-87ff-45b2-97ea-c32d8a09d269",
+      "Value": "\"Listen to me! By {mf|His|Her} Highness's declaration, the celebration has begun! We've heard enough speeches — now let us enjoy the feast, and raise a toast to the health of our {mf|King|Queen}!\""
+    },
+    {
+      "Key": "40873daa-002e-487b-89bd-3fff6a31bb1c",
+      "Value": "{n}You step forward. The countless faces of the crowd, so noisy just a moment ago, now become still, their eyes all upon you.{/n}"
+    },
+    {
+      "Key": "4b1c2ae7-ca68-4c9e-95dc-216d4b17c3ee",
+      "Value": "{n}Your words flow as a river — sincere, benevolent and warm. The faces in the crowd light up — as if a timid sunray peeked out from behind the clouds. One onlooker, then another, wipes her eyes with a stealthy gesture, as others smile and nod with manful dignity.{/n}"
+    },
+    {
+      "Key": "18524ba3-79e1-475d-b4bb-a8091aed5185",
+      "Value": "{n}The crowd heeds your words with servile expression. Some shake their heads, but most look at you as they should look upon their {mf|King|Queen} — with reverence.{/n}"
+    },
+    {
+      "Key": "220fccf8-96c5-45d1-81d8-bcf92c8c734d",
+      "Value": "{n}It seems your every word falls upon the crowd as a heavy stone — so terrifying is the power of your voice. The people gathered in the square look frightened by the picture you describe — but more than that, they are afraid to move, lest they incur your wrath.{/n}"
+    },
+    {
+      "Key": "e5d665fe-fdc8-4b02-9dfa-73a1e3bbdbad",
+      "Value": "{n}You barely manage to finish your inspiring speech, before the air is filled with shouts and whistles from the happy crowd.{/n}"
+    },
+    {
+      "Key": "f7f08163-190c-446c-ba05-db9e0061008c",
+      "Value": "\"My goodness, Your Highness! I always knew you were a {mf|man|woman} of many talents, but your gift of eloquence is without equal!\" {n}The bard turns to the crowd and shouts as loudly as she can:{/n} \"The {mf|King|Queen} has spoken! Hail to the {mf|King|Queen}!\""
+    },
+    {
+      "Key": "ca466a91-9364-41d3-b4f0-250baf4bde00",
+      "Value": "\"What passion, what intensity! Indeed, the Rushlight Tournament would be incomplete without your participation!\""
+    },
+    {
+      "Key": "196fae23-5f16-452a-bfda-4dad5ff6ce2d",
+      "Value": "\"That's right, every word you said was perfect! With a ruler like this, the future of the {g|Stolen Lands}Stolen Lands{/g} is looking bright!\""
+    },
+    {
+      "Key": "33f068da-25b7-409c-a499-9ef4ba5f880f",
+      "Value": "\"Always knew {mf|he|she} will make a good {mf|king|queen}! Now I am not ashamed to keep {mf|him|her} in my Hero party!\""
+    },
+    {
+      "Key": "69dea2c6-6834-4cd7-b0ef-8d98d4745e8b",
+      "Value": "\"Hail to the generous {mf|King|Queen}! Long live {name}!\""
+    },
+    {
+      "Key": "d51a827e-9771-4812-b01a-22cf96bc7786",
+      "Value": "\"That's what I call a true ruler! Hail to the {mf|King|Queen}! Hail to freedom!\""
+    },
+    {
+      "Key": "087e1f1d-4525-45bb-9e93-f50a510a2e9b",
+      "Value": "\"One more stronghold for freedom of speech! I could never have imagined I'd someday be saying these words about this place, so grim it once seemed…\""
+    },
+    {
+      "Key": "64619162-81d6-4b57-9822-338afe3148fe",
+      "Value": "\"With such a {mf|King|Queen} ruling here, even these lands — so mired in crime and corruption — stand a chance of becoming worthy of their ruler! Hurray!\""
+    },
+    {
+      "Key": "a89147ca-d086-4a52-bde9-acc7e279de60",
+      "Value": "\"Hail to the kindest ruler in all the lands!\""
+    },
+    {
+      "Key": "b55ea8e9-4eec-42ec-a07b-27915103733f",
+      "Value": "\"These are the words of a true leader! All hail!\""
+    },
+    {
+      "Key": "d312fa84-af6c-41bd-bc2e-92012670fb01",
+      "Value": "\"Hail to the {mf|King|Queen}!\""
+    },
+    {
+      "Key": "40658c5e-889d-45d1-8b31-1aefdb01ff04",
+      "Value": "\"Let {mf|His|Her} Highness' name be praised throughout the centuries!\""
+    },
+    {
+      "Key": "9f2964e1-49fe-4227-a4b9-f047b8a207df",
+      "Value": "\"Those are the words of a true ruler, not some sweet crowd-pleasing lies.\""
+    },
+    {
+      "Key": "f97b2f1d-b65b-4c88-a9b1-22d4b65a0ee1",
+      "Value": "\"Future wonders and amazing deeds echo in the {mf|King's|Queen's} words. And to think – I'll see them with my own eyes!\""
+    }
+  ]
+}

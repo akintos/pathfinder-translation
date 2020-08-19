@@ -1,0 +1,433 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "2af5b660-abbb-42de-8db6-9ef246927f99",
+      "Value": "\"What is the Scythe-Tree? And why is it dangerous?\""
+    },
+    {
+      "Key": "75297584-ae0f-4daa-ab08-99b574b3734b",
+      "Value": "\"Callitropsia? I found a coin with her name on it. Look.\""
+    },
+    {
+      "Key": "8fb4cd04-6692-487d-b153-ece54a223690",
+      "Value": "\"A girl from the village married a dryad?\""
+    },
+    {
+      "Key": "db0ce313-1193-46ce-9115-f3f90bd14577",
+      "Value": "\"Elga Verniex is back. She lives in a house outside the village.\""
+    },
+    {
+      "Key": "ad46f57f-1c32-4266-97b5-0439b838de2e",
+      "Value": "\"Tiressia, your cousin Melianse sends her regards — and asks for five feather tokens.\""
+    },
+    {
+      "Key": "20698c88-8078-4818-8dbc-7167199bcd5a",
+      "Value": "\"Fine, I will help you.\""
+    },
+    {
+      "Key": "a5cf00b3-d2fd-47aa-b941-b0b84cff4d9d",
+      "Value": "\"You're judging by appearances, Tristian. Love can bind anyone.\""
+    },
+    {
+      "Key": "07d8e329-dbb2-4f35-ae14-f22d5762d145",
+      "Value": "\"Steamy nights, of course. It's all the fey ever think about.\""
+    },
+    {
+      "Key": "2242593c-5c47-4a47-967c-02de4c172743",
+      "Value": "\"It's none of our business.\""
+    },
+    {
+      "Key": "a544a9f0-cc7d-463a-b0ec-81dedfc51e9d",
+      "Value": "\"Stow your weapon, and don't draw it until I give the order!\""
+    },
+    {
+      "Key": "fdeafaaa-1741-4b6a-a0f9-e0cbb5406a47",
+      "Value": "\"Wait, I want to speak with them. But keep watch for me!\""
+    },
+    {
+      "Key": "8b489354-b51c-47aa-82f4-03cca0565ceb",
+      "Value": "[Attack] \"Let's do it. Thrash them!\""
+    },
+    {
+      "Key": "2edac854-407f-4bfb-997f-03de7c384857",
+      "Value": "\"I'm always ready to please Gorum with a good battle! I hope it's a real monster and not just some small fry!\""
+    },
+    {
+      "Key": "30f74df4-77c9-4813-9607-96d58198fdb8",
+      "Value": "\"Monsters everywhere... Iomedae, please help me get rid of them all!\""
+    },
+    {
+      "Key": "40128ebb-a75a-4ec3-8f2d-c3b6a73bfd12",
+      "Value": "\"Asmodeus doesn't support those who work for free. What can you offer me?\""
+    },
+    {
+      "Key": "e7bb3673-56f7-4aba-8f1d-458f39d70595",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "f5dca2ef-95d7-4168-b823-722d58d24056",
+      "Value": "\"What happened to the village?\""
+    },
+    {
+      "Key": "118285d5-0b2c-4264-87d4-8342840e4bfb",
+      "Value": "\"What were you arguing about?\""
+    },
+    {
+      "Key": "68c7b731-749f-4fa7-9726-d020cfe085cf",
+      "Value": "\"The Scythe-Tree is no more.\""
+    },
+    {
+      "Key": "8605e79b-4d79-4620-b59b-efe1d612af8d",
+      "Value": "[Attack] \"The fey! That's the last thing we need — let's finish them!\""
+    },
+    {
+      "Key": "6d0f2177-530b-4f63-a374-2876d8603144",
+      "Value": "[Leave] \"I must take my leave. Farewell.\""
+    },
+    {
+      "Key": "6e192069-5b77-42a9-a1cd-bb9ef26553d3",
+      "Value": "\"The Scythe-Tree? It will trouble you no more.\""
+    },
+    {
+      "Key": "c62eac2e-3958-4c6a-891b-dae8a4e5aa50",
+      "Value": "\"Maybe I could help… depending on what you're offering.\""
+    },
+    {
+      "Key": "d427fdb5-6539-479c-b1e9-dd609bdfba95",
+      "Value": "\"She's right, Falchos. Leave, save yourself, or you'll perish.\""
+    },
+    {
+      "Key": "e1ed6c56-8376-48c5-a3d1-441d31521980",
+      "Value": "\"What does it matter to me? Let the Scythe-Tree take you for all I care.\""
+    },
+    {
+      "Key": "54d09bb3-3d24-44f8-a934-e6279b99d1db",
+      "Value": "\"I won't risk my life for such a meager reward.\""
+    },
+    {
+      "Key": "724f6dc2-a1c1-46f1-ac2e-a124889c5b9a",
+      "Value": "\"Yes!\""
+    },
+    {
+      "Key": "addfaffe-df1a-4c21-bc5d-bc33438e39f1",
+      "Value": "\"Of course!\""
+    },
+    {
+      "Key": "1fd0ad03-d2fa-4169-a74a-f18a1e161089",
+      "Value": "\"Certainly!\""
+    },
+    {
+      "Key": "4b637b49-1bca-417d-87ac-ee74dadd79e2",
+      "Value": "\"Sure!\""
+    },
+    {
+      "Key": "496b1104-5db5-484e-aa9c-2f0437593c43",
+      "Value": "\"With pleasure!\""
+    },
+    {
+      "Key": "2113202a-add9-4722-873d-9d2a78b40c1d",
+      "Value": "\"Seems you're desperate. All right, I'll help you.\""
+    },
+    {
+      "Key": "b76a5f80-c573-4570-97e3-2e9f70066b62",
+      "Value": "\"Trying that again might get you killed. But this time — I'll forgive you.\""
+    },
+    {
+      "Key": "80910caa-2fbc-46a9-a2ec-69296a9af24b",
+      "Value": "[Attack] \"You shouldn't have done it.\""
+    },
+    {
+      "Key": "70e19ae7-3ff1-4e0c-9263-d075c67c2169",
+      "Value": "\"All right, so be it. I'll deal with this Scythe-Tree of yours.\""
+    },
+    {
+      "Key": "4a186e09-087b-4390-85d1-740fe2c409d9",
+      "Value": "\"What was that? You've cast some spell on me?!\""
+    },
+    {
+      "Key": "6b10d472-618d-4f43-a29c-d3f1daa6fd02",
+      "Value": "[Attack] \"What you did, I cannot forgive.\""
+    },
+    {
+      "Key": "f25b61d1-3afb-4f33-bb15-887fdac6ad43",
+      "Value": "\"It's a sin to hold grudges against kids, lunatics and fey.\""
+    },
+    {
+      "Key": "457e1462-f1c2-4b89-a71f-b60cc5161944",
+      "Value": "\"So be it, I forgive you.\""
+    },
+    {
+      "Key": "1ccf92a6-b40b-4a07-ba55-54555be9262b",
+      "Value": "\"I will kill the Scythe-Tree. No reward needed.\""
+    },
+    {
+      "Key": "ea99fe86-7dff-425d-ab19-76a1770eb517",
+      "Value": "\"Well... It's...\" {n}Tiressia curls her fingers, imitating claws, and pretends to snatch up something with them.{/n}"
+    },
+    {
+      "Key": "a080e60b-b784-41b2-8439-a5a13c5292f8",
+      "Value": "{n}The dryad throws a sad, knowing glance at her lover and sighs.{/n} \"You're talking of death again? Whom are you going to fight this time?\""
+    },
+    {
+      "Key": "70cc85f1-7b62-491c-ac6b-a60428b57bf5",
+      "Value": "\"Right!\"{n}He laughs. {/n}\"Now we'll live in peace and quiet till we're old and grey!\""
+    },
+    {
+      "Key": "581222df-707e-41c7-88c7-75a2dee7a159",
+      "Value": "\"So, that's what happened… the hatred must have been great to turn her into a monster! I fear to imagine what happened to the one who put this curse on her.\""
+    },
+    {
+      "Key": "c97bfb43-5da4-44c1-b04a-6227da76ba45",
+      "Value": "{n}Tiressia smiles. {/n}\"Your world and the world of the fey are great and wide, yet rarely do they touch. It is unfortunate, for when they do, great joy is possible. Not simply between two souls, but more so when a third arises from their love — a child either born or found.\""
+    },
+    {
+      "Key": "b8da3271-73cd-401e-9732-f8d6da38b933",
+      "Value": "\"If she still lives, she's certainly forgotten all about us. Her poor father missed her so much, the grief never left him. It was in his eyes when he passed.\" {n}The dryad is silent for a moment, averting her eyes, then turns to face you again.{/n} \"Humans and fey both love, and love strongly… and we feel the same pain when we are cut off from the ones we hold in our hearts.\""
+    },
+    {
+      "Key": "615fa7c8-8ca2-40db-a322-828a75bd2715",
+      "Value": "\"Is that so? That's welcome news! Why, oh why, didn't she visit? Did she really forget me? Oh, so much time wasted...\""
+    },
+    {
+      "Key": "e12528b1-1f88-467c-9da7-cf268dce92d2",
+      "Value": "\"It is unfortunate her father didn't live to see this day… oh, but he left a letter for her! Where is it? Just a moment...\""
+    },
+    {
+      "Key": "888b3036-a6f4-4985-97ed-681ffacb75ab",
+      "Value": "{n}After several moments of rummaging inside of her tree, the dryad brings forth a roll of parchment. {/n}\"Here. Please, give her this — her father's last words to her. And tell her to visit me! I would so love to see her again!\""
+    },
+    {
+      "Key": "6649462a-b4d7-44fc-a784-5b3e9d5a8439",
+      "Value": "\"Feather tokens? Sure, that's no problem at all… But first I have to ask you about something.\""
+    },
+    {
+      "Key": "3f60fd76-dce5-4e4f-84b6-971c909dab31",
+      "Value": "\"I'll always share with Melianse! Here, take them!\""
+    },
+    {
+      "Key": "17508266-2199-4686-9667-e5a76fdfffe5",
+      "Value": "{n}Falchos jumps in.{/n} \"First, it's just a tree. Fire is not its friend — and you'd best use a weapon suited to chop through its bark — not impale it.\""
+    },
+    {
+      "Key": "db13f72b-197f-4678-8211-5920486e254d",
+      "Value": "\"Right! And, also, its branches are very long! Be careful, it can reach you from afar!\""
+    },
+    {
+      "Key": "84c6178c-618c-41e8-8315-9bf499117f47",
+      "Value": "\"The hells was that?! You think you can just charm us like this? That's it, you're dead!\""
+    },
+    {
+      "Key": "a76c7fc9-3223-49cb-a48a-a2437d39aa99",
+      "Value": "\"Holy kittens, look! It's fey! Real fey! Hello there!\" {n}Linzi waves her hand to the couple.{/n}"
+    },
+    {
+      "Key": "431a63b6-2091-469f-8480-30aef914fe2e",
+      "Value": "{n}Tristian stares at the satyr and the dryad, astonished. He leans toward you and says,{/n} \"What an amazing couple! What could bind these creatures so, with them being so different?\""
+    },
+    {
+      "Key": "81f8e4dc-f4ab-4c8d-86f7-2b99433e5862",
+      "Value": "{n}Tristian sighs wearily.{/n} \"And not a mirror to be found...\""
+    },
+    {
+      "Key": "609987c1-70d6-4dfe-9810-3ca62abd96da",
+      "Value": "{n}Tristian steps away, embarrassed.{/n}"
+    },
+    {
+      "Key": "11f3bda7-d0fe-4a11-ba66-30bb98fd6284",
+      "Value": "\"Yes. Of course.\" {n}Tristian looks at you apprehensively.{/n}"
+    },
+    {
+      "Key": "87ef2ae2-0047-48e7-8945-f5ac02464b45",
+      "Value": "\"It's an ambush, I'm telling you. I'll chop these assholes' limbs right off...\" {n}The half-orc reaches for his weapon.{/n}"
+    },
+    {
+      "Key": "1523205f-e19b-4470-86d8-7d2ccfb29e77",
+      "Value": "\"All right, all right... I'm just saying!\""
+    },
+    {
+      "Key": "2d1ee5fd-b230-4b99-bb31-94805752ee51",
+      "Value": "{n}Regongar nods. He watches the fey closely with his hand on his weapon.{/n}"
+    },
+    {
+      "Key": "f7be091c-88b6-481d-8f38-aa67d35078dd",
+      "Value": "\"Oh ho! Did you think you could fool us, you creeps?\""
+    },
+    {
+      "Key": "c2f1552c-8500-432c-9c84-285c5f369172",
+      "Value": "\"Why do you think that? They seem harmless to me... Nice, even! You just see enemies everywhere!\""
+    },
+    {
+      "Key": "430b2639-a033-4015-b761-79e3330ceac5",
+      "Value": "\"No, it's a real monster! A huge, horrible, murderous beast! Please fight him — your god will be pleased!\""
+    },
+    {
+      "Key": "ca7d3eea-c0c7-406e-98e7-30ab18e6fdba",
+      "Value": "\"Right! You help us, and your goddess will help you!\""
+    },
+    {
+      "Key": "3a164d28-a4a8-415d-a855-14514eeb275b",
+      "Value": "{n}As you approach the grove, you hear two voices in soft conversation. The first is a velvet baritone, begging on the brink of tears. {/n}\"Please, Tiressia, my love, don't send me away. I'd rather die than-\""
+    },
+    {
+      "Key": "75e7db99-18c3-41c5-959e-7a662734ca1d",
+      "Value": "{n}The dryad weeps softly, her head on the satyr's shoulder as he strokes her hair. He turns at your approach.{/n} \"So?\""
+    },
+    {
+      "Key": "84b30dcc-fd3b-4311-890e-6df2c506b42a",
+      "Value": "{n}Both satyr and dryad look at you warily, whispering to each other.{/n}"
+    },
+    {
+      "Key": "b9bc8fd1-5712-446d-ae57-80880c667780",
+      "Value": "{n}The satyr plays the reed pipe, and the dryad, laughing, accompanies him by clapping her hands. As they see you, they wave. {/n}\"Welcome back!\""
+    },
+    {
+      "Key": "fc599db3-9c0b-45af-b8ef-e2042ab52572",
+      "Value": "\"I want you to live!\"{n} A girl's voice says sharply.{/n} \"Falchos, you are my knight in shining armor. I love you like I've never loved anyone before! But if you stay, you'll... you'll...\"{n} The girl's voice falters, and she collapses into sobs.{/n}"
+    },
+    {
+      "Key": "4ae81bba-e04a-418d-8a84-9ba321e93b7a",
+      "Value": "\"Wait! There's someone here! Show yourself!\" {n}Approaching, you notice a fey couple — a satyr and a dryad who watch you with an anxious look.{/n}"
+    },
+    {
+      "Key": "49327526-2382-47e0-8263-96595e49f671",
+      "Value": "\"My name is Tiressia. I've lived here since my tree awoke from the earth and first sought the sun. And this is Falchos from far away. We're...\""
+    },
+    {
+      "Key": "2e866157-f698-45ba-ba7a-bd5986e60bf4",
+      "Value": "\"We are together.\" {n}The satyr nods.{/n} \"And we'll stay together till death takes us.\""
+    },
+    {
+      "Key": "8b07924e-d792-4d94-8ebe-f9c899e5e819",
+      "Value": "{n}The dryad narrows her eyes at Falchos and folds her arms.{/n} \"Can't you do without the 'death' part?\""
+    },
+    {
+      "Key": "1e47b7d2-e752-447a-90db-b8a254b32e87",
+      "Value": "\"I managed so far!\" {n}He grins widely.{/n}"
+    },
+    {
+      "Key": "2e393b9b-0688-4624-9375-ad455994a2bd",
+      "Value": "{n}The dryad gives a heavy sigh and closes her eyes, as if remembering.{/n} \"It was a beautiful place. A human village on the edge of the real fey kingdom. They lived in peace alongside the fey for generations, united by friendship — sometimes even by love!\" {n}The dryad looks away.{/n} \"That is... until our queen, Callitropsia, lost her heart to the headman's daughter. Such a beautiful couple! But...\""
+    },
+    {
+      "Key": "c2e42ae7-6ad2-4c35-912d-5324229e5f11",
+      "Value": "\"It happened at their wedding day. Both humans and fey had gathered to celebrate the union. No one knows what happened next, but in the midst of the festivities Callitropsia suddenly transformed... she changed into a monster...\" {n}The dryad's voice drops and she glances around, as if afraid another might hear.{/n} \"She became the Scythe-Tree. She killed her bride, her love... then destroyed the village.\""
+    },
+    {
+      "Key": "ef9fa1df-4829-4145-8c57-92aa9a6874df",
+      "Value": "\"Humans fled — or were killed. Same with fey. Our kingdom fell in a heartbeat. I couldn't leave my tree, so I slept for many years.... until I awoke to the sound of pipes, playing such beautiful music.\" {n}She smiles at Falchos.{/n}"
+    },
+    {
+      "Key": "6cf4a14c-793f-47f2-a8e1-935cd483fc40",
+      "Value": "\"These lands could be beautiful again, but not as long as this monster exists.\"{n} Falchos's hand curls into a fist.{/n} \"We cannot leave, we must fight!\""
+    },
+    {
+      "Key": "3f9c1873-3851-4557-b788-8ea713699dbb",
+      "Value": "\"My sweetheart, my love...\" {n}Tiressia's voice trembles on the verge of tears.{/n} \"You've tried already — and barely survived! Please, I'll... endure. I'll go to sleep again. If you were to die, it will hurt me far more, than if I let you go, knowing you're far away, but alive and well.\""
+    },
+    {
+      "Key": "1eb92e59-c7c2-4731-a4f4-b37a1f8b4149",
+      "Value": "\"Look at me, Tiressia. I'll never leave you. Never! I beg you, don't send me away. Being without you… it'll kill me as surely as the Scythe-Tree itself!\""
+    },
+    {
+      "Key": "c1ae7c6f-fcd1-4020-b085-d571e52b4d87",
+      "Value": "\"You have our gratitude! We won't forget your kindness!\""
+    },
+    {
+      "Key": "4445a967-ad32-40b3-95f8-daad697a2d56",
+      "Value": "\"We thank you! Here is your reward.\" {n}Tiressia hands you a small chest.{/n}"
+    },
+    {
+      "Key": "6b2f3a01-d0b9-4fd3-b106-1dcdb1f5880f",
+      "Value": "\"Wait, hold on!\""
+    },
+    {
+      "Key": "38d08645-6034-409c-b26a-ba8796ac900a",
+      "Value": "\"The Scythe-Tree won't leave us be. Simply being brave is not enough to defeat it, Falchos. Sooner or later it will kill you.\" {n}The dryad turns to you, hopeful.{/n} \"I beg you, put an end to the creature! End our suffering — and its suffering, as well. We'll find a way to reward you!\""
+    },
+    {
+      "Key": "e2f2fc59-dcd5-4748-87c7-a5cae4d58da2",
+      "Value": "\"You see...\" {n}The dryad speaks gently to the uneasy satyr.{/n} \"{mf|He|She} thinks so, too. You cannot stay, my love. My heart will miss you, but it won't survive if you die before my eyes.\""
+    },
+    {
+      "Key": "0b128de6-626e-466b-8f0a-3f9119e01c6c",
+      "Value": "{n}The satyr frowns. {/n}\"No. I've made up my mind. Whatever happens, I stay with my love — alive or dead.\""
+    },
+    {
+      "Key": "4fbdf603-9053-4f9e-ac54-54c175c3c341",
+      "Value": "\"It's not much, but...\"{n} -Tiressia gets a small chest from under the tree roots.{/n}"
+    },
+    {
+      "Key": "ab66e49c-9df3-4617-bf2c-7508301d9211",
+      "Value": "{n}Falchos gives Tiressia a meaningful look and sighs.{/n} \"Too bad. Well, if you think so...\""
+    },
+    {
+      "Key": "c6fc67e0-11dd-4a4e-9434-55287c2d8e33",
+      "Value": "{n}Satyr presses the reed pipe to his lips. The strains of a beautiful, touching melody wash over you — and you realize not only do the poor lovers need your help, you want to help them with all your heart.{/n}"
+    },
+    {
+      "Key": "38562c2f-a44c-4d6a-96d2-071159e5f9f7",
+      "Value": "{n}Fighting with all your will, you ignore the music, and focusing, you shake off the enchantment, feeling the emotions bleeding away — pity? A desire to help? You've just barely avoided being enchanted! As the realization comes over you, the satyr's face goes pale and he takes a step back from your gaze.{/n}"
+    },
+    {
+      "Key": "61208d67-1b99-40dc-b7ca-50d15652c7b0",
+      "Value": "{n}Your ears are filled with the dryad's unearthly voice — so beautiful, so sweet... and so filled with suffering! {/n}\"Only you can help us. Please, kill the Scythe-Tree!\" {n}You feel warm tears running down your cheeks at her words.{/n}"
+    },
+    {
+      "Key": "93d19827-64ad-40cc-b0ce-e7c22d3e0117",
+      "Value": "{n}The satyr, seemingly surprised at his own luck, nods quickly and hides the reed pipe.{/n}"
+    },
+    {
+      "Key": "a31bbcf2-330f-4dfc-b1c0-454e29d0950d",
+      "Value": "{n}The dryad smiles.{/n} \"There are not enough words in the world to express how grateful we are!\""
+    },
+    {
+      "Key": "20a47f2a-870e-48d5-93f9-1b05c6c58bff",
+      "Value": "\"I'm so grateful! You are our savior!\""
+    },
+    {
+      "Key": "107a4a53-1edd-4b80-96a8-d7108ed3e983",
+      "Value": "{n}The satyr, pale, steps between you and the dryad.{/n} \"Forgive me for playing this trick on you! You must understand, we need your help!\""
+    },
+    {
+      "Key": "659844a5-1a4f-407b-8aad-d06984027e9f",
+      "Value": "\"We won't do that again! I promise!\""
+    },
+    {
+      "Key": "ff2ff2de-a59e-4f90-8cef-7eb3779bf6a3",
+      "Value": "{n}The satyr gives you a broad smile and nods respectfully. {/n}\"How about that — the day brings not just a visitor, but wisdom as well.\""
+    },
+    {
+      "Key": "c5ea50b8-bdfd-4830-96a2-69e801fc82dc",
+      "Value": "{n}Falchos kisses Tiressia and turns away quickly, to hide his tears. Then he disappears in the woods. {/n}"
+    },
+    {
+      "Key": "62f50049-ede8-400e-bb02-214827710014",
+      "Value": "\"I shouldn't wake up.\" {n}The dryad says softly. {/n} \"I'll go back to sleep now — perhaps forever. Thank you for persuading Falchos. It's better for him to be far away, but alive. Here, take this, I don't need it anymore.\" {n}The dryad hands you a small chest and then, without another word, vanishes into her tree.{/n}"
+    },
+    {
+      "Key": "f8e54b2e-5d9c-4701-82db-7917c420bb05",
+      "Value": "{n}After looking at the coin, the dryad turns deadly pale. {/n}\"This… this is a curse. Someone hated our queen so much, he was ready to doom his soul, but destroy her too!\""
+    },
+    {
+      "Key": "26f693e9-2004-4568-8d95-6e08a87a2912",
+      "Value": "{n}You can feel time passing, but it feels slow, dulled — even your heartbeat is pulsing slowly, like the echo of a drum. The forest before you seems thick with fog, and you're conscious only of your legs on an unknown path, moving forward, step by step...\n...until you stop, the haze clears, and you take a sharp breath. You are on the the edge of a glade — a glade where you know the Scythe-Tree lives.{/n}"
+    },
+    {
+      "Key": "a2445d59-1469-4d86-b7aa-46b0e83165ec",
+      "Value": "\"Here, for instance… when my tree and I were far younger than we are now, a girl lived here — Elga Verniex. She was the daughter of the woman from the village — her father, a satyr. We loved her so much, watching her grow, laugh, learn...\" {n}The dryad shakes her head sadly.{/n} \"But her mother took her and left.\""
+    },
+    {
+      "Key": "978b0e36-b337-4a07-a3e1-742b0f76ebac",
+      "Value": "{n}White as a sheet, the satyr hides his reed pipe and steps away from you — just in case.{/n}"
+    },
+    {
+      "Key": "759e36d2-adee-497b-97fc-71c002ddf894",
+      "Value": "{n}Falchos gives you a wide grin, while Tiressia wipes away a tear. {/n}\"May you now know peace, my queen.\""
+    },
+    {
+      "Key": "5f774607-2a2c-4172-ae00-3715e3445364",
+      "Value": "\"You'll find it south of here, in a large glade. Good luck! We'll wait for you here!\""
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "d8b9194a-10e8-4806-be60-3ad18539546d",
+      "Value": "\"Look what Fredero did to her! He mangled Valerie! Who could stay their hand and not deal a fatal blow after this?\""
+    },
+    {
+      "Key": "cf1d9e5b-bece-4840-aeb4-e2047b460b7a",
+      "Value": "\"I ordered her to deal a fatal blow – the proper ending for any proper duel. But if Valerie didn't agree with me, she wouldn't have done it.\""
+    },
+    {
+      "Key": "957f7c7a-c7df-41b3-a8ab-49e218fd1edd",
+      "Value": "\"And yet Valerie observed all the rules. She came when Fredero called her. She accepted the challenge. Will none of this be taken into consideration?\""
+    },
+    {
+      "Key": "e036c556-8510-421c-a2d7-5884e38c3518",
+      "Value": "\"Valerie despises {g|Shelyn}Shelyn{/g} and everything she touches. Don't confuse her good manners with obedience to the goddess!\""
+    },
+    {
+      "Key": "d9a26683-19a1-4a18-8870-e661e763f31d",
+      "Value": "\"Valerie's only fault is that she obeyed my order.\""
+    },
+    {
+      "Key": "86114802-a5dd-42e2-acbf-de12b77d11f5",
+      "Value": "\"You judge Valerie harshly for obeying orders? Then why are you so persistent in seeking to judge her for breaking them?\""
+    },
+    {
+      "Key": "406283c6-99b7-490a-b070-35b4aa57fa28",
+      "Value": "\"I do not agree with Valerie. She can be harsh, but her heart is overfilled with pain and bitterness. Judge her actions, not her words.\""
+    },
+    {
+      "Key": "6e12402a-6a78-4f0a-8ebd-9e4dd622e8eb",
+      "Value": "\"What would you say about all of those you've killed since? Be honest with yourself, Valerie. You're a warrior, not a nurse!\""
+    },
+    {
+      "Key": "1267d5ec-55f0-4165-926c-d88d9f602dc1",
+      "Value": "\"Ha! What a spineless creature! How can you take him seriously? Valerie, you must feel like a right hypocrite, trading bows with this scum.\""
+    },
+    {
+      "Key": "6d5f55ec-32b6-4aab-b718-f5f78156a4b1",
+      "Value": "\"You provoked her! It's your fault, Eveld!\""
+    },
+    {
+      "Key": "3a3746b7-ce1d-4316-9f37-e57d6ae600a5",
+      "Value": "[Whisper to Valerie] \"Don't let him make you angry. It's what he wants!\""
+    },
+    {
+      "Key": "d12b0d0b-64e1-4ef9-bcf2-3c067c73a46e",
+      "Value": "\"Valerie defeated Fredero in a duel and slew him on my orders. Leave her be!\""
+    },
+    {
+      "Key": "b6d4ba9b-21d0-4033-ac70-ff3aaed976ce",
+      "Value": "[Lie] \"We don't know anyone named Fredero Sinnet.\""
+    },
+    {
+      "Key": "0ca0d9b6-93e6-4c04-9255-74f542f4d040",
+      "Value": "\"We've come to meet with Fredero Sinnet for one reason only – to get rid of him.\""
+    },
+    {
+      "Key": "746f1202-f9fb-4533-ac68-2262703801cf",
+      "Value": "\"Everyone can choose their own path. You and Fredero follow Shelyn's faith, and Valerie has turned away from it. That doesn't mean you can interfere in her life!\""
+    },
+    {
+      "Key": "404e57f1-6377-407c-9e40-d9f1957d95d4",
+      "Value": "[Whisper to Eveld] \"If I were you, I wouldn't accuse the one who serves the {mf|Baron|Baroness|King|Queen} of the Stolen Lands. Anything could happen in these parts.\""
+    },
+    {
+      "Key": "9f4720f3-d3ad-4403-9238-ea72da1eeeb7",
+      "Value": "\"I'm tired of wasting my time. Valerie, we're leaving!\""
+    },
+    {
+      "Key": "60fa1133-f159-4560-8f96-db0346138ada",
+      "Value": "[Lie] \"We don't know anyone named Fredero Sinnet.\""
+    },
+    {
+      "Key": "c2595028-f209-4d6d-929a-eb7bae4f5f96",
+      "Value": "\"{g|Shelyn}Shelyn's{/g} divine trial has commenced! May she be merciful to the lost and confused. It is time to listen to all sides, and decide what fate awaits Valerie.\""
+    },
+    {
+      "Key": "e37ec26b-2491-4ed0-9ae2-ee8fbed67385",
+      "Value": "\"Today, under the vaulting of the Temple of Prisms, we, followers of the goddess, will give you, Valerie, a chance to redeem yourself in the eyes of {g|Shelyn}Shelyn{/g}, and...\""
+    },
+    {
+      "Key": "68ddb3a0-8577-48bd-ba26-851e86e10954",
+      "Value": "\"Enough, Laryen. Everybody present knows she doesn't deserve redemption. She lost the right to forgiveness on the day she rejected {g|Shelyn}Shelyn's{/g} grace!\""
+    },
+    {
+      "Key": "ff5ccd7c-bbad-4d3c-8508-1a84f97513c7",
+      "Value": "{n}Fredero Sinnet clears his throat to attract everyone's attention.{/n} \"I didn't come here to stand silent like an idol. When I challenged Valerie to a duel, she agreed. We fought according to all rules, and our argument was settled. Think what you will of Valerie, but at least she showed me some {d|Valerie Fredero Lives}respect{/d}!\""
+    },
+    {
+      "Key": "48d9c4eb-1c47-4806-b505-6716c4081df6",
+      "Value": "\"But her transgressions against the church do not end with this deed! Valerie, what do you have to say about your former mentor, the respected Fredero Sinnet? The noble paladin was following your trail when he mysteriously {d|Valerie Fredero Killed}disappeared{/d}! Reveal the truth, Valerie – where is he? Where is the one who believed in you until the end, and apparently paid dearly for his willingness to forgive?\""
+    },
+    {
+      "Key": "2f0f6292-32e8-4bf5-9653-886415d2aa43",
+      "Value": "\"I didn't leave the order to look for lost paladins. If {g|Shelyn}Shelyn's{/g} followers think it's my job to keep an eye on all her henchmen, they're deeply mistaken!\""
+    },
+    {
+      "Key": "2a33dff4-a53b-4c7e-9fe9-07c252aeecca",
+      "Value": "{n}Valerie looks down. She tries to say something, but can't force out a single word.{/n}"
+    },
+    {
+      "Key": "3173e2b4-82a9-4c1b-bfc8-dc7db827e941",
+      "Value": "{n}Valerie scoffs.{/n} \"I don't care about you, let alone respect you! I just wanted to teach you a lesson and make you leave me alone!\""
+    },
+    {
+      "Key": "a24fa118-ea56-45ae-8433-7bba9d5b9504",
+      "Value": "\"I never wanted to insult anyone. All I wanted – all I dreamed of – was to choose my own way!\""
+    },
+    {
+      "Key": "106688b2-33a6-458d-b636-446edc88f5da",
+      "Value": "{n}Valerie clenches her fists.{/n} \"Yes! The paladin challenged me. Why am I to save him from the consequences of his own actions? I did what I thought was right, not what a goddess – who I don't even care about – might want me to!\""
+    },
+    {
+      "Key": "1c4eb462-c5e6-490f-829b-e257fb4d4760",
+      "Value": "\"There's truth in the {mf|baron|baroness|king|queen}'s words. You can hardly blame Valerie for losing her temper, after being stripped of her beauty so cruelly.\""
+    },
+    {
+      "Key": "e8544544-2f4a-472c-baa2-eebeba3a74eb",
+      "Value": "\"Of course! You can't ignore a person's deeds, even when their words are bitter!\""
+    },
+    {
+      "Key": "4b3e212b-16b7-4666-8979-41c72050ef1d",
+      "Value": "\"Honest words. Believe me, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, none of those present have any illusions about Valerie!\""
+    },
+    {
+      "Key": "5d096130-f2d4-4362-b6eb-1ecbd5c874bb",
+      "Value": "\"Enough about Fredero. We don't have that much time, and Valerie gives us much to consider. According to her masters at the Order of the {g|Shelyn}Eternal Rose{/g}, she's always been noble and merciful.\""
+    },
+    {
+      "Key": "8adf9d7e-ab09-4532-9c30-a555d5951a03",
+      "Value": "\"Really? Rumors from {g|Brevoy}Brevoy{/g} tell otherwise! Valerie {d|c0 Let People Burn}abandoned{/d} innocent people to die in the fiery inferno at Jamandi Aldori's house! And why? Simply because she was ordered to!\""
+    },
+    {
+      "Key": "b6797dd7-9395-4d1c-9050-494ae1f85940",
+      "Value": "\"Stories about the valor she showed in {g|Brevoy}Brevoy{/g} spread far beyond its borders. How many did this fearless warrior {d|c0 Saved People}save{/d} from the fire at Jamandi Aldori's house? They and many others owe their lives to her.\""
+    },
+    {
+      "Key": "ff88e36a-2009-4069-a018-524d77b3ea9c",
+      "Value": "{n}Valerie talks quickly, her face blushing.{/n} \"I didn't have time to look about! To appraise the situation! That attack... The murderers...\""
+    },
+    {
+      "Key": "a8ad8660-a8cd-4f5b-9f6c-3886113b1bee",
+      "Value": "\"What? But...\""
+    },
+    {
+      "Key": "3a0e0791-7689-48b4-b60a-8fb5f25872df",
+      "Value": "{n}Valerie opens her mouth but then sighs and lowers her head without saying anything.{/n}"
+    },
+    {
+      "Key": "c5f1ba5a-ad4d-4057-9092-973898ba7202",
+      "Value": "{n}Valerie throws a lock of hair from her face pensively, but then her lips form an angry sneer.{/n} \"Right. There's no comparing such dramatically different numbers.\""
+    },
+    {
+      "Key": "c5a68396-4b36-4afd-a530-361312a4b3db",
+      "Value": "\"Jamandi Aldori herself was in danger! How could I risk the life of a Swordlord?!\""
+    },
+    {
+      "Key": "aa7f2104-7b8f-42e4-9b53-b1976cbd0d6d",
+      "Value": "\"I remember it well. The one I was able to save from the flames. The others...\" {n}Valerie stops.{/n} \"I'm sorry.\""
+    },
+    {
+      "Key": "3b460d53-f65e-4ca3-8ed3-fefe40edc851",
+      "Value": "\"Oh, don't ascribe mercy to my actions – and don't drag your {g|Shelyn}Shelyn{/g} into this! I obeyed an order – that's all!\""
+    },
+    {
+      "Key": "5b60e698-f1ba-4e44-9819-d3eb5585dcbd",
+      "Value": "\"I only did what I had to. No more and no less.\""
+    },
+    {
+      "Key": "a176a2a9-63a6-4190-b824-4f5c2196acda",
+      "Value": "\"Enough! I'm tired of this endless babble. I shall prove that Valerie is a capricious and dishonorable woman who has twisted her life to pursue a single goal: to harm everything that is precious to {g|Shelyn}Shelyn{/g}!\""
+    },
+    {
+      "Key": "14823637-884e-441b-9196-7ab2ad2a44e7",
+      "Value": "\"I have a reliable witness who can confirm my statement. I present – Sir Eveld!"
+    },
+    {
+      "Key": "7740fec9-499d-4649-a3bc-33f63b25612e",
+      "Value": "{n}Eveld pushes his chest out and pulls his chin up.{/n} \"This lady insulted me in front of my audience – for no reason at all! Arrested me with brutal force! And the worst part is – when dust settled and our blood cooled, Valerie didn't even think to {d|Valerie Support Valerie}apologize{/d} for her behavior. I'd say that only confirms her maliciousness!\""
+    },
+    {
+      "Key": "628635a2-bd20-4113-a745-bbef11b6bce2",
+      "Value": "{n}Eveld rocks on his heels pensively.{/n} \"Well, Sir Hegend, actually Valerie did express her {d|Valerie Support Eveld}apologies{/d} for all the inconvenience she caused. Who would I be if I started digging up the past?\""
+    },
+    {
+      "Key": "62567604-a2a5-423d-b21e-8078d1c622f5",
+      "Value": "{n}Laryen raises a brow and looks at Eveld over his glasses.{/n} \"Oh? Was this man's art meant to do harm?\""
+    },
+    {
+      "Key": "3588dbba-5997-4ec7-9f41-1b09249ae7b8",
+      "Value": "{n}Eveld waves off the notion.{/n} \"Impertinent. Art is meant to arouse minds, not beget violence!\""
+    },
+    {
+      "Key": "1355715c-0bc3-4cbf-92cf-b8980cc301d2",
+      "Value": "{n}Valerie allows herself a shadow of a smile.{/n} \"Very true. But if I hadn't apologized, he might have died of sorrow.\""
+    },
+    {
+      "Key": "d7f909db-0735-4c2e-8da0-6c7b3045c2c9",
+      "Value": "{n}Valerie casts a tired look at you.{/n}"
+    },
+    {
+      "Key": "ef9bed19-f835-48f3-b4d1-fbd0256e5fd4",
+      "Value": "{n}Valerie raises her head and takes a deep breath – as if awakening from a deep sleep. She looks at the temple's decorations and raises her hand.{/n} \"I've stood here listening to your arguments for long enough. Now it's my turn to speak.\""
+    },
+    {
+      "Key": "c07aa46f-cd71-460f-92dd-fc5eb990f74a",
+      "Value": "\"For several months, the {g|Shelyn}Shelyn's{/g} followers made my life a torture. Why? Because I refused to obey someone else's will. Not a single time was I asked what I wanted. The only desires that mattered were the dim whims of a goddess, who expressed herself through her fanatics!\""
+    },
+    {
+      "Key": "9f8082e9-416e-40f3-b040-b7ddb68d787c",
+      "Value": "\"My departure from the Order of the {g|Shelyn}Eternal Rose{/g} was not an insult to {g|Shelyn}Shelyn{/g} or her followers. All I wanted was to devote my life to what's important to me. The goddess' followers never gave me a single chance to walk my own life's path.\""
+    },
+    {
+      "Key": "566c45d9-9f5f-4391-a710-527b2f8c3d67",
+      "Value": "\"You bring woe, bring grief, bring suffering to those around you. Why? Does your goddess want this? Or is it just your own ambition talking, wrapped in the cloth of infallible faith?!\""
+    },
+    {
+      "Key": "a8a41904-224e-41a2-a498-55af8630ab50",
+      "Value": "\"I've always been appalled by your fanaticism. I'm disgusted by the blunt stupidity that keeps you from seeing the person behind my beauty. And you know what? Now that I've lost this 'gift' of {g|Shelyn}Shelyn{/g}, this mask that prevented everyone from seeing the real me – now I'm finally free. And if anyone wants...\""
+    },
+    {
+      "Key": "f52d5c7d-956a-49db-ac0a-77d6a00c6c91",
+      "Value": "\"Do I value art? No. Am I ready to serve it? No. Do I respect those who have brought so much trouble to me and the {mf|baron|baroness|King|Queen}? No. But there are some of you like me, who dream of just one thing: to carry out your chosen duty. {n}Valerie turns to Laryen and lowers her head.{/n} \"If all servants of {g|Shelyn}Shelyn{/g} were like you, my parting from the Order could have been much more peaceful.\""
+    },
+    {
+      "Key": "608695ed-cd57-4be6-ae6e-d20cb01341b4",
+      "Value": "\"Maybe I don't deserve forgiveness in the eyes of {g|Shelyn}Shelyn{/g}. Maybe fanatics like Sir Hegend would be happier to see me in the noose. But I see now that one shouldn't laugh at another's way just because one doesn't understand or share it. But now, speaking openly before you, my conscience is definitely clear. And if you wish to judge me for the fact that my opinion is different from yours...\""
+    },
+    {
+      "Key": "6629b400-c86e-40e6-89aa-23d59d2d35c6",
+      "Value": "\"The divine trial is over. {g|Shelyn}Shelyn{/g} has made her decision.\""
+    },
+    {
+      "Key": "642e73ed-b2ac-43f9-8b96-689dcec00446",
+      "Value": "\"About what... how?\" {n}Valerie touches her face.{/n} \"The scar! It's... gone!\""
+    },
+    {
+      "Key": "85561a9f-2444-4980-8f13-d61dfbdb2428",
+      "Value": "{n}Hegend, white as a sheet, points at Valerie with a trembling hand.{/n} \"But... but why?!\""
+    },
+    {
+      "Key": "ae437171-0d7f-4947-ae26-00e3d593db7d",
+      "Value": "{n}Laryen looks at Valerie sadly.{/n} \"You are full of wrath and resentment towards {g|Shelyn}Shelyn{/g}, and these feelings will never allow you to return to her light. Shelyn is not vengeful, she only wanted to teach you a lesson. But since you reject her light, she now steps back, and returns what has always been only yours, never hers. Your beauty.\""
+    },
+    {
+      "Key": "eee7c3d4-9bfd-4dbe-9951-2c3005437436",
+      "Value": "{n}Laryen smiles softly, looking at Valerie.{/n} \"Look at her, my friend. She is proud, but who could expect otherwise from a creature of such amazing beauty? Now, as {g|Shelyn}Shelyn's{/g} light fills Valerie's soul, the child is filled with renewed radiance. The thorn that pricked has been burned away. The goddess shows Valerie a way to the source of light and beauty.\""
+    },
+    {
+      "Key": "c0bec21a-38f0-4ebd-8ee2-7171af881f07",
+      "Value": "\"NO!\" {n}Hegend pulls out his weapon and shakes it in the air, rolling his blood-shot eyes.{/n} \"The witch has deceived {g|Shelyn}Shelyn{/g}! Only I know the will of my goddess! Death to Valerie!\""
+    },
+    {
+      "Key": "bd652d2e-31c2-4bf7-a849-f180b0548bf3",
+      "Value": "\"Valerie's expression proclaims her blame louder than any words! Can there be any further doubt about what happened to Sir Sinnet, whose only fault was to have faith in this woman's virtue?\""
+    },
+    {
+      "Key": "980fedf6-4de7-44be-bf3e-0289f0eaacc5",
+      "Value": "\"You could free yourself – cleanse your soul and admit your fault – yet I don't hear you crying or begging for mercy. Tell me, Valerie, what drives you? Wicked pride or stony stubbornness?\""
+    },
+    {
+      "Key": "d38c3c45-158f-48b6-a0d4-887f80b11fb5",
+      "Value": "{n}Valerie squints and purses her lips. Her neck seems to be covered in sweat.{/n}"
+    },
+    {
+      "Key": "ff88e713-693b-4b25-aeb1-d14d991a9dda",
+      "Value": "{n}Valerie doesn't indicate that she heard you, but you see her shoulders relax.{/n}"
+    },
+    {
+      "Key": "fbede796-c5bb-45f4-8d86-6148a02c966e",
+      "Value": "\"Hm... I have no reason to distrust you, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. So the disappearance of Fredero Sinnet is not on Valerie's conscience.\""
+    },
+    {
+      "Key": "c9d6ee1a-0544-4156-a162-34b439bef26e",
+      "Value": "{n}Valerie finds a moment to swivel around and burn you with a furious look. Your barefaced lie didn't seem to please her.{/n}"
+    },
+    {
+      "Key": "74cee83a-dc4d-45df-a662-f12b900c51da",
+      "Value": "\"Is that so? Then after this trial has ended, perhaps we shall discuss the consequences of such rashness!\""
+    },
+    {
+      "Key": "6d010e7f-6bb7-4f03-a11b-5c2b802ab1a5",
+      "Value": "\"The {mf|baron|baroness|king|queen} was in {mf|his|her} right. Even {g|Shelyn}Shelyn's{/g} paladins must respect the laws of the lands they're in.\""
+    },
+    {
+      "Key": "51b46c18-29b8-48ac-a811-71150352afab",
+      "Value": "\"My child...\" {n}The priest does not continue, but sighs heavily.{/n}"
+    },
+    {
+      "Key": "bd826cca-6f39-41a7-ab8f-52d6763c6105",
+      "Value": "\"I can understand the desires of a young girl who wishes to soak up the world. It's only a pity that Valerie didn't find another way to express it, and fled from the Order like an errant child...\""
+    },
+    {
+      "Key": "f645136a-6153-422f-b0b6-cd3efe910df3",
+      "Value": "\"This woman has the nerve to openly defy the servants of {g|Shelyn}Shelyn{/g}! Oh, is there no limit to your insolence, Valerie?\""
+    },
+    {
+      "Key": "5569e331-b9f9-4478-bc92-dcb2717b6861",
+      "Value": "\"This may surprise you, but I agree with you. Once my blood cooled, I started to realize that my complaints about Valerie were a little... excessive.\""
+    },
+    {
+      "Key": "f7c598d9-3213-418b-a0e6-7fadf9abcdf8",
+      "Value": "\"And we did – only for you to come following in his footsteps!\""
+    },
+    {
+      "Key": "cc46c961-c9ea-44d5-a8ef-b618e7f2bd8d",
+      "Value": "\"An unforgivable crime with no excuse – that's what I see in Valerie's actions.\""
+    },
+    {
+      "Key": "36d987a8-773d-4a7c-b5db-3c674c3055ee",
+      "Value": "{n}Valerie closes her eyes in irritation and swallows heavily. You feel she is about to scream.{/n}"
+    },
+    {
+      "Key": "97671085-daa2-4a8f-b85d-c9f9081335cd",
+      "Value": "\"But are the lives of those who guard the peace of Jamandi less important than the life of a Swordlord? You made a terrible mistake, my child.\""
+    },
+    {
+      "Key": "7b104472-20fb-4032-a7d9-41130799fb26",
+      "Value": "\"Really? Well we can hardly judge Valerie's actions if they only happened in the imaginations of slanderers...\""
+    },
+    {
+      "Key": "06f71b98-7ca8-4ce5-8360-3417e430871a",
+      "Value": "{n}Valerie stands, as if turned to stone, her fingers clenching the hem of her sleeve. She avoids your eyes as if she's ashamed of you.{/n}"
+    },
+    {
+      "Key": "870dcd8a-677f-4e71-a8a3-99ccd1ef3678",
+      "Value": "{n}Laryen's voice sounds soothing.{/n} \"I understand, my child. You are not to blame. Let us leave this sad subject.\""
+    },
+    {
+      "Key": "49eab897-b977-45e9-9d5f-4441f4e2053f",
+      "Value": "{n}Valerie's face is lit by a faint smile.{/n} \"Truly. I forgot what hypocrites {g|Shelyn}Shelyn's{/g} servants are! You only care about one freedom of will – the one that serves your own interests!\""
+    },
+    {
+      "Key": "2831541c-cfb3-4127-b2f9-99820917d9f0",
+      "Value": "{n}The priest raises his arms apologetically.{/n} \"We are just clarifying some nuances, {mf|baron|baroness|king|queen}. Although I can't but notice your readiness to take part of the blame. Truly, Valerie has chosen a worthy ruler to serve...\""
+    },
+    {
+      "Key": "157cf13c-4c3e-4bfb-a792-fc4f38b62cde",
+      "Value": "\"ENOUGH!\" {n}Valerie's voice rings under the temple's vaulting. The stones themselves seem to tremble.{/n} \"I'm tired of this useless babbling! You stand here and discuss me as if I'm one of your stupid pictures or stone idols! Judging, accusing, speaking for me, as if... AS IF I DON'T EXIST! You can all go to the {g|Abyss}Abyss{/g} with your {g|Shelyn}Shelyn{/g}!\""
+    },
+    {
+      "Key": "5dbd0b4a-795e-421c-b235-1f5ad519f0b6",
+      "Value": "\"Insulting the goddess in her own temple! Death to Valerie!\""
+    },
+    {
+      "Key": "ba38fc09-b449-44f8-ad96-c1727a30afe9",
+      "Value": "\"So much smugness in her words! So much pride!\""
+    },
+    {
+      "Key": "ebffac0d-47f2-4090-9a25-a80cdd1d843f",
+      "Value": "\"I am sure Valerie's heart is filled with good. After all, her delightful appearance is but a reflection of a perfect soul, hidden away from prying eyes.\""
+    },
+    {
+      "Key": "6eb05343-44dd-4434-8c93-013155d28a04",
+      "Value": "\"Of course, {mf|baron|baroness|king|queen}. We are judging Valerie only by her actions.\""
+    },
+    {
+      "Key": "405eb0d8-31ad-4cd7-81d4-8176fe4c3366",
+      "Value": "\"W-What? I'm s-sorry, I'm confused... I have no complaints about Valerie. None! Whatsoever! I have to go!\""
+    },
+    {
+      "Key": "6b846a4f-b51c-4b47-9445-560772ff29a5",
+      "Value": "\"Ha! You can't scare me with your idle threats! All you've achieved, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, is confirming the rumors that are multiplying around your lands!\""
+    },
+    {
+      "Key": "05f38114-58e6-405b-a6cb-ac425091f57f",
+      "Value": "\"But... the trial isn't over yet! You can't insult {g|Shelyn}Shelyn's{/g} divine court!\""
+    },
+    {
+      "Key": "11ecd131-56ec-4ba4-bcaa-0bd9c556fa1a",
+      "Value": "\"Enough... servants of {g|Shelyn}Shelyn{/g} — come! We shall we shall wash away the insults of these scoundrels with their blood!\""
+    },
+    {
+      "Key": "9f38cc04-c67f-4e9d-8726-cbc46cda553a",
+      "Value": "\"No, I... well, possibly – just possibly – I might have drawn some inspiration from certain a poetic punishment... ahem...\""
+    },
+    {
+      "Key": "454a8a08-a950-494f-bb82-547b971b5af0",
+      "Value": "\"Then I cannot accept your statement. Leave this temple.\""
+    },
+    {
+      "Key": "c9615782-7f81-4735-815f-24c6e82f5100",
+      "Value": "{n}Valerie speaks under her breath.{/n} \"Please, leave this to me.\""
+    },
+    {
+      "Key": "97216686-7347-4d05-a3a3-d872436c28e7",
+      "Value": "\"And nevertheless, this didn't prevent Valerie from doing the noble thing. That's exactly how her father... and Fredero brought her up.\""
+    },
+    {
+      "Key": "76a4bf8b-69cd-4afc-9af9-4caa300a8ee5",
+      "Value": "\"Please, don't get your blood up. There is truth in your words, I admit it.\""
+    },
+    {
+      "Key": "4234ceec-aae9-40d5-a661-7ba276ea5514",
+      "Value": "\"Please, {name}! I would never follow a dishonorable order. – Which means I alone can answer for my actions.\""
+    },
+    {
+      "Key": "234fa7ed-2ed2-41b4-b3c9-d0da1044c10f",
+      "Value": "{n}Valerie doesn't show she heard you.{/n}"
+    },
+    {
+      "Key": "88d3a2ea-3c7c-4b81-9ae8-c57459f152ec",
+      "Value": "\"Ahem... fair... Well then, let's set this matter aside.\""
+    },
+    {
+      "Key": "e3a0b829-8422-44bf-a545-abc6b442cd4e",
+      "Value": "{n}Valerie grinds her teeth ever so softly.{/n}"
+    },
+    {
+      "Key": "18ab112e-2fc8-4440-aa15-d2dd47ffdfd7",
+      "Value": "\"Maybe you can give me a chance to speak for myself?!\""
+    },
+    {
+      "Key": "b0203c51-dbc7-440e-930a-1e751e1c7d40",
+      "Value": "\"Really? Well we can hardly judge Valerie's actions if they only happened in the imaginations of slanderers...\""
+    },
+    {
+      "Key": "f232d02f-3c06-4360-bc9c-c52f1a91c505",
+      "Value": "\"Thank you, Eveld. I am not surprised by this news – Valerie would never stoop to behaving like a shrill stallkeeper...\""
+    },
+    {
+      "Key": "29925687-9b73-4602-906e-6f3a0211c511",
+      "Value": "\"Thank you, Eveld! I hope this statement about Valerie's unconscionable act will not be igno...\""
+    },
+    {
+      "Key": "6e6a7ded-e88d-4170-979c-2cd53c79bcb9",
+      "Value": "{n}Valerie watches the bard with an amazed look, and then turns to you.{/n} \"What did you do? Why?!\""
+    },
+    {
+      "Key": "0c5807a3-21aa-4d06-b88e-72fcba1e651d",
+      "Value": "\"Ha ha ha! You gave them heat, friend! Serves them right!\""
+    },
+    {
+      "Key": "bc17c3e8-ddd7-4e8e-9e67-0d542b0c2407",
+      "Value": "\"Even I couldn't have put it better.\""
+    },
+    {
+      "Key": "70f0c6b7-fff1-480b-b678-64d826649794",
+      "Value": "\"It's the undeniable truth, you know! And as a victim of her attacks, I want to say that... Oh, I'm sorry. Go on, Sir Hegend.\""
+    },
+    {
+      "Key": "3e7a8380-5a93-48e3-8fc6-b617d9b5e956",
+      "Value": "{n}Linzi turns to you, her face concerned.{/n} \"I know you're worried about Valerie... but honestly, this accusation is completely fair! Don't you think?\""
+    },
+    {
+      "Key": "c6624abd-b126-4926-900c-ec18c839caa5",
+      "Value": "\"Oh. She used to apologize to me too. How could I forget?\""
+    },
+    {
+      "Key": "478137c7-9c12-49ed-b3ea-6b5f15e3c9f1",
+      "Value": "\"Apologies? From Valerie? This is the first I've ever heard of such an incredible miracle!\""
+    },
+    {
+      "Key": "7f460fce-b5d5-4087-be75-3d577672272e",
+      "Value": "\"Oh. When? I didn't even notice!\""
+    },
+    {
+      "Key": "d8367b64-8d23-479f-a900-a6772fa6d5cf",
+      "Value": "\"Witchery!\""
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "96f7360a-7b48-4539-9b3d-cb59d2d59e7e",
+      "Value": "\"How are things going with your cult?\""
+    },
+    {
+      "Key": "99c1ad3f-50d8-4fd7-ba20-1310bdcb8334",
+      "Value": "\"About this woman, Olika...\""
+    },
+    {
+      "Key": "70ee2240-12df-4bea-8aae-e3ea1b0df047",
+      "Value": "\"You mentioned you're not a local. Where are you from?\""
+    },
+    {
+      "Key": "90aaacb7-f5c1-47c6-a1cd-93d5ba68b4f1",
+      "Value": "\"Tell me about your goddess.\""
+    },
+    {
+      "Key": "fd326cbf-e177-40a3-ac33-9ee20f1131cc",
+      "Value": "[Attack] \"I spared your life — and now I'm taking it!\""
+    },
+    {
+      "Key": "4f960da3-4907-4290-ac59-cf70d29122ac",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "c46271fe-dd74-4ec3-932c-03105401b43e",
+      "Value": "\"I don't mind your priestly magic...\""
+    },
+    {
+      "Key": "c91b6b69-7b4e-416a-bc08-ee22134c0c9e",
+      "Value": "\"Speak to me properly!\""
+    },
+    {
+      "Key": "e4b65955-0215-47b3-af44-1d0b5cd520b0",
+      "Value": "\"You sound as if you're not trying to attract new followers!\""
+    },
+    {
+      "Key": "7f84c194-2902-4451-b22f-c9a2baf0e65c",
+      "Value": "\"I've given it some thought, and decided I want you by my throne. Will you take on the responsibilities of my advisor?\""
+    },
+    {
+      "Key": "d46b3148-f227-47a9-aacf-d45a267e5f5f",
+      "Value": "\"Your knowledge and skills are unusual... but I appreciate unconventional abilities. Maybe you would make a good advisor.\""
+    },
+    {
+      "Key": "9945973f-e318-4706-9e25-4ef10f0bd531",
+      "Value": "\"Tell me about the Lost Coast.\""
+    },
+    {
+      "Key": "887e9a3a-ef10-4170-a77f-f4a5f607f77c",
+      "Value": "\"What are these passions you speak of?\""
+    },
+    {
+      "Key": "7a723b85-e1ca-4902-901f-2fe05daa87b7",
+      "Value": "\"Enough of this.\""
+    },
+    {
+      "Key": "7d77a2c9-a0ee-4502-86af-a9c57a96686b",
+      "Value": "\"What happened to your leg?\""
+    },
+    {
+      "Key": "394463ba-9b75-4283-9cac-7a36464d24e4",
+      "Value": "\"Every god or goddess has a history. Tell me how Lamashtu appeared.\""
+    },
+    {
+      "Key": "8633e70e-efd2-41e7-a241-14e75d1fd372",
+      "Value": "\"How can one... 'experience' the path of Lamashtu?\""
+    },
+    {
+      "Key": "076a4832-8122-42bb-937f-434e62636149",
+      "Value": "\"Do you have children?\""
+    },
+    {
+      "Key": "ff033c54-a180-45dd-9d57-b734e953f688",
+      "Value": "\"Let's change the subject.\""
+    },
+    {
+      "Key": "52bdd0af-9c24-4e8f-b78b-79ca61c76493",
+      "Value": "\"Peculiar beauty? Ugliness is ugliness, whatever you call it.\""
+    },
+    {
+      "Key": "64e1b248-df51-42d6-9ede-089e997ee6f5",
+      "Value": "\"I have no more use for you. Leave my lands.\""
+    },
+    {
+      "Key": "cdc7425f-49ef-469e-a5a2-6552e8b2778e",
+      "Value": "\"Remind me, what would you like to serve as?\""
+    },
+    {
+      "Key": "460314a1-7a70-49a1-87cc-3d683eff7626",
+      "Value": "\"How do you like the city — far from the shrine and your pack?\""
+    },
+    {
+      "Key": "2e3c841f-8917-466c-9ca9-78558926fca6",
+      "Value": "\"Do you like what you do?\""
+    },
+    {
+      "Key": "69db4458-5f2a-48a3-94b4-86deaf023358",
+      "Value": "[Point at the rat] \"What is this?\""
+    },
+    {
+      "Key": "26633850-e93d-4537-8747-277cdf48e0e4",
+      "Value": "{n}As you approach, Tsanna raises her head and sizes you up. She has changed her clothes since you saw her last. She wears a band across her brow, decorated with a three-eyed jackal, and a live rat with two heads is resting on her shoulders, looking cautiously at you from under her cascading hair.{/n}"
+    },
+    {
+      "Key": "a69cdd59-a159-4a00-983e-7218edb93302",
+      "Value": "\"You came...\" {n}The woman narrows one eye.{/n} \"What brings you here, {mf|baron|baroness|my King|my Queen}?\""
+    },
+    {
+      "Key": "5ccf45ea-59d9-4961-bd73-1313493094fd",
+      "Value": "\"To what do I owe the honor, {mf|baron|baroness|my King|my Queen}?\""
+    },
+    {
+      "Key": "0196c682-d90a-4417-8914-e7f600dc4512",
+      "Value": "{n}Tsanna smiles sweetly.{/n} \"I'm touched that you care, {mf|baron|baroness|my King|my Queen}. Worry not, everyone receives {g|Lamashtu}Lamashtu's{/g} bliss who needs it. You need not know who they are or what they ask.\""
+    },
+    {
+      "Key": "fe3be091-e8e2-4148-9165-912552187446",
+      "Value": "\"{g|Lamashtu}The Mother of Monsters{/g} doesn't need sweet sermons, or criers yelling her name at the crossroads. When the other gods turn away from mortals, Lamashtu opens her embrace. When your subjects have nowhere to turn with their troubles, rumors and whispers bring them to the altar of the Mother of Monsters. It has always been this way, and it will always be.\""
+    },
+    {
+      "Key": "b9a16b5c-5172-4646-83f5-8ff26edd5d6a",
+      "Value": "\"Oh? Do you still think of her? Worry not, {g|Lamashtu}Lamashtu{/g} blessed Olika and invigorated her womb. The female gave birth to a child, and even survived herself. You wouldn't call the boy a pretty child, but he's the light of his suffering mother's eyes, and a symbol of Lamashtu's mercy.\""
+    },
+    {
+      "Key": "8ea528c3-7abf-4514-9885-33d38f53a428",
+      "Value": "{n}Tsanna shakes her head in admonition.{/n} \"I, the servant of Mother of Monsters, marked by her bliss, speak to you as an equal. What more do you want, {mf|baron|baroness|my King|my Queen}?\""
+    },
+    {
+      "Key": "03cd20e3-8654-4bd4-81f8-667b7b2acc27",
+      "Value": "{n}Tsanna shakes her head.{/n} \"The path of the Mother of Monsters cannot be embraced with words or reason alone. She can only be...\" {n}The woman slides her fingers along her lips and bites them salaciously.{/n} \"...experienced.\""
+    },
+    {
+      "Key": "bace4a4e-82e1-47da-be44-7c2170782bed",
+      "Value": "{n}Tsanna tilts her head ever so slightly.{/n} \"I was born in {g|Varisia}Varisia{/g}, in a small village on the Lost Coast. Despite the history of that place, it could never be home for me or my passions. Since then I've traveled far, bringing {g|Lamashtu}Lamashtu's{/g} gifts to all who need them.\""
+    },
+    {
+      "Key": "83a65480-38dd-4d67-ad58-643a9f026d59",
+      "Value": "{n}Tsanna starts laughing, musically at first, then loudly and more joyfully.{/n} \"Aha-ha-ha! Trust my word, {mf|baron|baroness|my King|my Queen} — you will not be glad of {g|Lamashtu}Lamashtu's{/g} gifts. Don't ask for what you don't know!\""
+    },
+    {
+      "Key": "a947faea-93d9-41cf-8700-2624eb395fc6",
+      "Value": "{n}The priestess' expression changes. The softness falls from her face, her gaze becomes piercing, and lines around her mouth grow harsh.{/n} \"Very well, {mf|baron|baroness|my King|my Queen}. I will leave this shrine and move to the city. But I warn you: I will not suffer argument and rejection. The wisdom that guides me is far older than us both, and does not respond kindly to the willfulness of fools.\""
+    },
+    {
+      "Key": "6df8589d-bc03-439a-a23c-93248d2d2676",
+      "Value": "\"Hmm... power and influence — tempting for any leader! But tolerating a stinking city and foolish crowds for this...\" {n}Tsanna is silent for a few moments.{/n} \"I could accept the title of High Priestess. Or Councilor if you wish.\""
+    },
+    {
+      "Key": "d20592a1-7fb1-4f10-b609-2b7aeb377871",
+      "Value": "{n}Tsanna looks at your belly.{/n} \"The most ancient and holy of {g|Lamashtu}Lamashtu's{/g} rituals is to give life. You are a female, and your womb is like that of the Mother of Monsters herself, giving life to a myriad of monsters. Undergo the ritual and accept the seed. Pray for Lamashtu's bliss. Carry a child marked by the seal of the goddess, and give it life in your pack.\" {n}Tsanna stretches her lips into a smile.{/n} \"You are strong. You might even survive.\""
+    },
+    {
+      "Key": "d9e32241-8598-42ef-8040-e03ba709b529",
+      "Value": "{n}Tsanna shows you her hands. They are covered with deep scars, rough cicactrices and sword cuts.{/n} \"Transform your body and mind in the image of {g|Lamashtu}Lamashtu{/g}. Look for beauty in everything — in yourself, in others, in the world. Murder it, burn it down, trample its sprouts. Few have a chance to drink the sweetness of divine destruction... but it is the true way to enlightenment. It is the only way for you, who does not possess the gift of child-bearing.\""
+    },
+    {
+      "Key": "dade9728-a9c6-4ac2-9eeb-92eda241abf6",
+      "Value": "\"Once {g|Lamashtu}Lamashtu{/g} was a great demon — the first of her kind to reach true divinity. She is the patron of monsters, many of which she bore herself. She is the mother of insanity, nightmares, chaos and that peculiar beauty which fools call ugliness.\" {n}Tsanna shrugs.{/n} \"You have your answer, and need hear nothing more.\""
+    },
+    {
+      "Key": "4c1b2486-5e13-412d-8d98-1bd311e28713",
+      "Value": "{n}The priestess sighs.{/n} \"I do not waste time arguing. We, {g|Lamashtu}Lamashtu's{/g} followers, do not look on the world with mortal eyes.\" {n}Tsanna lifts the two-headed rat to her lips, then returns the squeaking animal to its place on her shoulder.{/n}"
+    },
+    {
+      "Key": "64a0ec88-c329-4cb1-a976-bc158d6a0fd6",
+      "Value": "{n}Tsanna presses her lips together so firmly they turn white.{/n} \"Very well. As I said, I will not abide rejection. Farewell.\""
+    },
+    {
+      "Key": "276c6907-7877-4db8-86b6-120d0956cf9c",
+      "Value": "\"I am ready to care for your pack as a High Priestess, or as what you call a 'Councilor'. You decide which you need more.\""
+    },
+    {
+      "Key": "6a78869f-f2cf-494f-aa59-811ba7248205",
+      "Value": "{n}Tsanna looks around.{/n} \"I've been to places like this before. Bearable. And as for my pack... {g|Lamashtu}Lamashtu's{/g} followers are wise and strong. They will survive.\""
+    },
+    {
+      "Key": "e254d5d0-b010-4cbe-8ab2-c337f7de085a",
+      "Value": "\"Of course. Each time my belly swelled, I prayed for blessing.\" {n}Tsanna looks away, absentmindedly scratching the nape of the squeaking rat.{/n} \"But {g|Lamashtu}Lamashtu{/g} did not send me her gifts. Every child to leave my womb was a disgusting abomination — without a single flaw! I learned I must serve in a different way, and chose the path of the priestess.\""
+    },
+    {
+      "Key": "7acd9588-f70e-4343-b32b-dc4e60298dc8",
+      "Value": "\"They say that in olden days, this land was cradle for many of {g|Lamashtu}Lamashtu's{/g} children. But I don't know this to be true. Today it is too noisy for those who are like me.\""
+    },
+    {
+      "Key": "a4dbe5fd-79e6-466f-9d33-8d3cf40852b8",
+      "Value": "{n}Tsanna smiles bleakly.{/n} \"I played with living toys long before I became a priestess of {g|Lamashtu}Lamashtu{/g}. As a child I did not know my love for wickedness was the sign of a special destiny. Now I pluck out sheep's eyes, and cut open pregnant cats, but not for my own amusement — but because Lamashtu loves suffering. How lucky am I?\""
+    },
+    {
+      "Key": "94efb498-6e4b-46bc-8974-d9021c7716a4",
+      "Value": "{n}Tsanna lifts the hem of her skirt, showing a leg disfigured with sores.{/n} \"{g|Lamashtu}Lamashtu's{/g} gift. I received it when I stepped upon the priestess' path — the blessing of the goddess. Look at its splendor. Not many servants of the Mother can boast such a gift...\""
+    },
+    {
+      "Key": "0c5f100b-30df-476a-945f-51d04e1ee852",
+      "Value": "\"Your lands are not yet ready to fully embrace {g|Lamashtu}Lamashtu{/g}. But I prepare your pack. I protect, I teach, I guard — and I don't forget my followers, who hide in the cracks and shadows. I'm learning to be patient, {mf|baron|baroness|my King|my Queen}, and believe me — I am a careful student when it comes to my faith.\""
+    },
+    {
+      "Key": "7eb0557c-6479-4492-9d44-fd15e1298431",
+      "Value": "{n}Tsanna chuckles.{/n} \"Councilor is but another name for leader. While you are busy, I watch your pack. I know how to do it, and I do it well.\""
+    },
+    {
+      "Key": "5da47587-edfa-434e-a65e-10ff81b8bf35",
+      "Value": "{n}Tsanna shakes her hands and wipes them on her dress.{/n}"
+    },
+    {
+      "Key": "07d919b0-9755-437f-8c0f-94114fdbe91c",
+      "Value": "\"As you wish.\""
+    },
+    {
+      "Key": "9b56d1ae-1b12-470e-a732-cb2481135bdd",
+      "Value": "{n}Tsanna gently touches one of the rat's snouts and strokes its sickly hide.{/n} \"{g|Lamashtu}Lamashtu's{/g} messenger. An exquisite creature, is it not? A sign that the goddess is pleased with me. It is a living embodiment of her ideals, and shares the Mother's smile. One night this little creature just ran up to me, as if to her own mother — and I knew my loyal service had been noted by my lady.\""
+    }
+  ]
+}

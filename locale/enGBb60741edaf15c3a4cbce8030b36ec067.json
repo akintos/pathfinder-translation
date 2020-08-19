@@ -1,0 +1,173 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "6997b416-375f-4553-a3b7-b5d14d3ae8d4",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "179530f5-cc78-4e44-bd4f-4e4fcd03abf8",
+      "Value": "\"Are you a priest?\""
+    },
+    {
+      "Key": "630f7845-b388-4b24-ae88-5a952afa2339",
+      "Value": "\"If Shyka sent you, why didn't they tell me about it?\""
+    },
+    {
+      "Key": "4c5acbe4-3dfd-4818-860f-c34d22a66698",
+      "Value": "\"What do you know about the First Crown?\""
+    },
+    {
+      "Key": "ec4a99b9-ede8-485f-8bd2-f23779548431",
+      "Value": "\"Give me the crown fragment.\""
+    },
+    {
+      "Key": "1190e46f-ac2b-4f71-b0ed-a8dd66cbf863",
+      "Value": "[Attack] \"You're still in real trouble!\""
+    },
+    {
+      "Key": "a26d253d-806c-4bdb-8c77-59fce2f74c0c",
+      "Value": "\"I've got to keep moving. Goodbye.\""
+    },
+    {
+      "Key": "9e7f1ac5-a43b-4c9c-9bde-08e8c14cf854",
+      "Value": "\"Did... did you just curse your own goddess?\""
+    },
+    {
+      "Key": "30adae47-83d4-4228-938f-10b4718c27cd",
+      "Value": "\"How do you know Shyka?\""
+    },
+    {
+      "Key": "4cf0466c-944b-4b11-afd9-17fb0d62d221",
+      "Value": "\"You fight well. Will you join my quest?\""
+    },
+    {
+      "Key": "16fe85e7-ef48-4edf-8ee5-204a4be3258a",
+      "Value": "\"Enough about you. I have other questions.\""
+    },
+    {
+      "Key": "70b46c9c-0773-4d3f-a36d-6366df62c265",
+      "Value": "\"What do you mean 'another one'?\""
+    },
+    {
+      "Key": "2ede9b27-b92c-44a9-ba4a-d566366862e3",
+      "Value": "\"You hunt priests?! That's horrible!\""
+    },
+    {
+      "Key": "f73e9e88-ea4e-41bf-af8c-dfa0d812fedc",
+      "Value": "\"Sounds rough.\""
+    },
+    {
+      "Key": "55f2b9e7-1813-471a-9290-0abcffb02fb1",
+      "Value": "\"Killing priests? Sounds like a blast!\""
+    },
+    {
+      "Key": "1388c47c-f538-47a0-9b86-ad43e60a7221",
+      "Value": "\"Let's get back to business\"."
+    },
+    {
+      "Key": "c9ed33cb-bb5f-4cea-8461-a2dda6f023bd",
+      "Value": "\"I'm no fan of the gods, but killing clerics over it goes too far.\""
+    },
+    {
+      "Key": "fa0d8927-f09d-4757-a9a2-dd5ea261ec15",
+      "Value": "\"Cruel, but just. These god-slaves shouldn't have come to your country when they knew they weren't welcome.\""
+    },
+    {
+      "Key": "cd5ad7df-517b-40d6-8d81-5ad17818bb3a",
+      "Value": "\"You're looking for lost souls? You should visit the ruined village in the Narlmarches.\""
+    },
+    {
+      "Key": "b2fa19d3-84e3-4932-9754-fd086c653cd1",
+      "Value": "{n}The robed man nods gratefully at you.{/n} \"Thanks for the help. If {g|Shyka}Shyka{/g} haven't sent you, I'd have been in real trouble.\"{n} He frowns. {/n}\"Of course, if Shyka haven't sent me after this stupid shard, I wouldn't have been fighting that overgrown lizard in the first place...\""
+    },
+    {
+      "Key": "f0016a7c-eb86-435c-967a-132fade02ae8",
+      "Value": "\"You're a chatty one, aren't you?\""
+    },
+    {
+      "Key": "6b6670fd-a248-446e-a15b-3727bc31096e",
+      "Value": "\"Salim Ghadafar. A... servant of {g|Pharasma}Pharasma{/g}, so to speak. I owe {g|Shyka}Shyka{/g} a favor, so I agreed to help them locate this First Crown. Though it appears the crown is far more than I was originally told. I suppose I shouldn't be surprised. Shyka are as shifty as the damned death goddess.\""
+    },
+    {
+      "Key": "638510ff-bbf6-49c6-9415-f11c8ec20f98",
+      "Value": "{n}The man looks uncomfortable.{/n} \"More of a detective, really. An inquisitor. I track down missing souls for {g|Pharasma}Pharasma{/g}, the Lady of Graves.\"{n} He laughs bitterly. {/n}\"And it looks like I just found another one.\""
+    },
+    {
+      "Key": "5b0bad8d-ccbc-49e7-ab65-45f7c21723a2",
+      "Value": "\"Who knows why {g|Shyka}Shyka{/g} does anything? Perhaps they thought they'd already told you — for a god of time, they find it surprisingly difficult to keep straight what has or hasn't happened yet.\""
+    },
+    {
+      "Key": "228a12a8-ed71-4053-bc3e-cab59858c036",
+      "Value": "\"Straight to the point, aren't you? Well, go on and take it. The damned linnorm swallowed it before I could grab it. I told {g|Shyka}Shyka{/g} I'd track it down, but I won't fight you for it. Especially after you just saved my beard.\""
+    },
+    {
+      "Key": "854e5b22-d88c-4f47-b685-50b116d8f5ba",
+      "Value": "\"Safe travels.\"{n} The man quirks a smile. {/n}\"Though I suspect we'll meet again. That's how things work when {g|Shyka}Shyka's{/g} involved.\""
+    },
+    {
+      "Key": "62b5744a-88d6-4d54-9125-5f49c0aae9db",
+      "Value": "{n}Salim laughs bitterly. {/n}\"I used to hunt priests, back in {g|Rahadoum}Rahadoum{/g}. You know the atheist nation? I was an officer in the Pure Legion. Then I made some bad decisions, and ended up an indentured servant to {g|Pharasma}the Lady of Graves{/g}. Let's just say the situation hasn't been easy on either of us.\""
+    },
+    {
+      "Key": "ad30d93f-ac02-4b60-bacd-8f6d2bf9a3c0",
+      "Value": "\"The {g|Eldest}Eldest{/g} helped me with a job in {g|Thuvia}Thuvia{/g}, once. It's a long story.\""
+    },
+    {
+      "Key": "858c2580-0025-4a44-bb11-d99b95174812",
+      "Value": "\"Sorry. Even if my grave-rotted master would allow it, I work alone.\""
+    },
+    {
+      "Key": "926eacc7-75ab-4dd7-b4be-a13420097bf3",
+      "Value": "{n}Salim gives you a piercing look. {/n}\"Is it? One nation out of hundreds seeks independence from divine shackles, yet you god-slaves keep worming your way in, sowing conflict and dragging people into your endless holy wars. Is it so wrong to want to keep our souls for ourselves?\"{n} He sighs.{/n} \"But you didn't come here to debate philosophy. Take your shard and go.\""
+    },
+    {
+      "Key": "a4589a64-d432-418d-b547-a40bd4184367",
+      "Value": "\"You have no idea. Can you imagine what it's like to wake up every morning as the exact thing you despise most?\" {n}Salim shakes his head, then smiles ruefully.{/n} \"I'll say one thing for this job, though: serving {g|Pharasma}the Lady of Graves{/g} means you get to put your thumb in the eye of all the other gods on a pretty regular basis.\""
+    },
+    {
+      "Key": "648cb509-b0e0-4446-9e0b-dda0ca86e81c",
+      "Value": "\"Don't we all. Well, what is it?\""
+    },
+    {
+      "Key": "e17f99c6-38b1-448d-b8e3-a6f7cd4f6adf",
+      "Value": "{n}Salim nods. {/n}\"Fair enough.\""
+    },
+    {
+      "Key": "f22a40b0-fe4b-457c-8650-2601b97f90a0",
+      "Value": "{n}Salim glares.{/n} \"I never killed anyone if I could help it. I was a soldier, with a duty to protect our nation from subversives and terrorists.\"{n} He looks you up and down and makes a disgusted noise. {/n}\"And from people like you.\""
+    },
+    {
+      "Key": "b753d557-6ea7-418d-8f1d-7761561969f1",
+      "Value": "\"Meeting an inquisitor of Pharasma in these backwoods? Must be my lucky day.\""
+    },
+    {
+      "Key": "f0b42bda-2286-4d7b-aa67-cbc1cc4f116e",
+      "Value": "\"Oh, nice! I've heard of you. That'd make an awesome chapter in my book! I think I'd start it like this... 'Who was this mysterious man in black robes who fought alongside us against such a dreadful monster?' And then I'd wait to give the answer for a while — let the readers feel the suspense!\""
+    },
+    {
+      "Key": "5adf6476-8f41-4e60-a1d1-3323ed4ce889",
+      "Value": "\"Being a slave to a deity you hate, with no chance of freedom? That's the most terrible fate I can imagine...\""
+    },
+    {
+      "Key": "c16c7162-eb6b-4d91-ad7f-82b69ce7ce67",
+      "Value": "\"I, too, once drew the attention of a god. Please accept my sincerest sympathy.\""
+    },
+    {
+      "Key": "956ab6ee-15f7-4bd9-9646-ed93b0c7cdff",
+      "Value": "{n}Nok-Nok lets out a single acerbic giggle.{/n}"
+    },
+    {
+      "Key": "2894886a-7d34-4d31-ad01-1540c219fa1d",
+      "Value": "{n}Salim gives you a piercing look.{/n} \"Does it? One nation of hundreds seeks independence from divine shackles, yet those god-slaves keep worming their way in, sowing conflict and dragging others into their endless holy wars. If you're an atheist yourself, doesn't it make you boil with rage? Is it so wrong to wish to keep our souls to ourselves?\" {n}He sighs.{/n} \"But you didn't come here to debate philosophy and theology. Take your shard and go.\""
+    },
+    {
+      "Key": "a27e5702-a594-4698-9ac5-fb562d580a98",
+      "Value": "\"Don't think I enjoyed it. I never killed anyone if I could avoid it. I was a soldier — my duty was to protect our nation from subversives and terrorists. It's not my fault or yours that the gods and their slaves won't leave us alone.\""
+    },
+    {
+      "Key": "eeb938c9-9cf2-491a-9e57-4da5bcdf3b5a",
+      "Value": "\"Thank you for the advice. I'll be sure to visit it.\""
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "c7a37fb8-347b-48b8-bad3-4b6575bc2a08",
+      "Value": "[Lie] \"You're wrong. I haven't found it.\""
+    },
+    {
+      "Key": "48fc9ba1-c5c4-49fc-82b1-4338a8ad12cc",
+      "Value": "\"It's really quite exquisite. I think I'll keep it!\""
+    },
+    {
+      "Key": "619cdd16-bdcd-4e15-ad3a-2d3259887e5f",
+      "Value": "\"Can I see what you have to sell?\""
+    },
+    {
+      "Key": "d28fb09a-e41d-4024-8399-8a7d09883c6c",
+      "Value": "\"Packing? Are you leaving us soon?\""
+    },
+    {
+      "Key": "cb4a4a8b-5072-4aeb-8803-5ad0ad7597d5",
+      "Value": "\"Could I persuade you to stay? I could use someone familiar with magic.\""
+    },
+    {
+      "Key": "4d0d53b1-8c44-46a8-a8e9-72750045a313",
+      "Value": "\"I regret what I've done. I shouldn't have meddled in your affairs. If you agree to stay, I promise to never do so again.\""
+    },
+    {
+      "Key": "f6c6ee29-052f-4545-98f3-d3ec692702ec",
+      "Value": "[Attack] \"I no longer require your services.\""
+    },
+    {
+      "Key": "f29eed3e-4514-4558-8190-b7062572dfcc",
+      "Value": "\"It's time I should leave. Farewell.\""
+    },
+    {
+      "Key": "3e640acb-61a3-4953-bffb-3d3df43c5ff5",
+      "Value": "[Remain silent]"
+    },
+    {
+      "Key": "961e22ff-890e-4d07-8009-85479f7d5465",
+      "Value": "[Leave] \"Cut it out, Octavia. Let's go.\""
+    },
+    {
+      "Key": "8ad21c51-1ddd-471c-bc23-9f6b5c7ce5b6",
+      "Value": "\"I've an offer for you: stay as one of my advisors. There are so few people who see things in such a critical and rational way.\""
+    },
+    {
+      "Key": "fd84a5ae-e0c9-442b-a4cc-7a4dbf628194",
+      "Value": "{n}Bartholomew has managed to clean up the mess after the troll attack in his laboratory. The wizard is packing his items — books, vials, manacles, and needles — carefully wrapping his things in cloth before placing them in crates. He turns as he notices you approach.{/n}"
+    },
+    {
+      "Key": "e80a87e1-ecf7-4699-b6ea-cbbdbcbb3be4",
+      "Value": "{n}The laboratory feels emptier than before. The wizard is packing his items — books, vials, manacles, and needles — carefully wrapping his things in cloth before placing them in crates.{/n}"
+    },
+    {
+      "Key": "399660a2-fd06-475a-b8a5-33b6dfea7c8a",
+      "Value": "{n}Bartholomew hums a simple tune as he unpacks his things, sorting them back into their proper places.{/n}"
+    },
+    {
+      "Key": "afae76f8-c641-4d7d-90d7-94f52a9ec0c7",
+      "Value": "\"Have you brought my whip?!\" {n}The wizard snaps at you.{/n} \"I can feel it. It is near... Give it to me — now!\""
+    },
+    {
+      "Key": "228f1889-351b-4c4b-b5cf-a7bb0a46df01",
+      "Value": "\"Oh, Your Grace! Oh, how good to see you alive and well. Let me congratulate you on yet another brilliant victory! Would you perhaps permit me one small request? I sense that you've recovered something of mine...\" {n}Bartholomew's voice trembles with excitement.{/n}"
+    },
+    {
+      "Key": "7fd4c9c6-6227-48a3-8490-408058e35eec",
+      "Value": "\"Don't bother me with your explanations or excuses,\" {n}the wizard snaps at you coldly.{/n} \"I'm already well aware that my treasure has been destroyed. Such a senseless waste...\" {n}Bartholomew turns away and resumes packing his flasks and vials, his hands trembling.{/n}"
+    },
+    {
+      "Key": "0c8cad94-73e7-4f85-b6be-6d65c1dc191b",
+      "Value": "\"My treasure...\" {n}Perplexion cascades down the wizard's face.{/n} \"You let it slip through your fingers... I know exactly where it is right now, but it's no use... I'll be chasing it forever...\" {n}Bartholomew turns back to his flasks and vials, his hands trembling.{/n}"
+    },
+    {
+      "Key": "ee977fef-dcfb-4e06-83fb-f457f3e2e6b3",
+      "Value": "{n}The wizard's face contorts with anger, but he dares not object. Bartholomew turns away abruptly and resumes packing his flasks and vials, his hands trembling.{/n}"
+    },
+    {
+      "Key": "29778941-497d-4868-8f1f-378a2275f9bd",
+      "Value": "\"Certainly.\""
+    },
+    {
+      "Key": "13bfff6c-4220-4ccb-97a1-b6e51d350667",
+      "Value": "\"Yes, I am,\" {n}the wizard answers curtly.{/n} \"It's far too dangerous to stay here. Besides...\" {n}He doesn't finish the thought.{/n} \"Never mind. It doesn't matter.\""
+    },
+    {
+      "Key": "15e2c835-e595-4f01-85de-47dd5457404d",
+      "Value": "\"Yes, Your Grace. It's become too dangerous to stay here, even with your protection. I'll have to find someplace safe and quiet.\""
+    },
+    {
+      "Key": "244f08c7-9f2f-4857-b3cc-c5d2f7d13bd5",
+      "Value": "{n}Bartholomew's brow wrinkles, and he whispers some calculations under his breath — then smiles.{/n} \"I may regret this later, but come what may, I'll stay. You've shown yourself a strong and generous ruler, as well as open-minded. I suppose we may yet be useful to one another.\""
+    },
+    {
+      "Key": "8f1c2dbe-44cb-4be3-82be-aa1caa613698",
+      "Value": "\"I've no doubt of that.\" {n}Bartholomew sneers.{/n} \"But I'm afraid you'll have to find someone else to fulfill your magical needs.\""
+    },
+    {
+      "Key": "d7bd27ac-f38e-480a-80eb-c87ecc3b35e8",
+      "Value": "{n}The mage glares at you for a moment, then slowly nods.{/n} \"After what you've done, it's hard for me to trust you, {mf|Baron|Baroness} — but I'm willing to give you one more chance. If you promise to keep out of my affairs, I shall stay and serve you. But I won't forget what you've done. You owe me, Your Grace, and some day I'll take my due.\""
+    },
+    {
+      "Key": "bc5053d6-39bf-40d5-af42-3e8b6fcd8481",
+      "Value": "{n}Octavia looks back and forth between you and Bartholomew, glaring.{/n} \"Oh, great. This is exactly what we need...\""
+    },
+    {
+      "Key": "45cf49de-646d-4181-a15e-f26fdfcbd1fa",
+      "Value": "\"Until we meet again, Your Grace! Thank you for all you've done for me!\""
+    },
+    {
+      "Key": "b6771a79-a01e-4385-ad30-34323316303f",
+      "Value": "\"Until we meet again. Perhaps we'll manage to get along after all.\""
+    },
+    {
+      "Key": "c5ae32c5-8a12-40e3-8df4-c255b1ab6669",
+      "Value": "{n}Without turning to face you, Bartholomew mutters something under his breath.{/n}"
+    },
+    {
+      "Key": "6da32a45-5d87-42b7-8c30-96b8353dac05",
+      "Value": "\"Is that how you speak to your {mf|baron|baroness}? Face {mf|him|her} directly and say a proper farewell!\""
+    },
+    {
+      "Key": "4dda1ebd-c012-4379-a937-f6c7f54c4cb1",
+      "Value": "{n}Bartholomew turns and speaks through clenched teeth.{/n} \"Farewell, Your Grace. Safe travels. Godspeed.\""
+    },
+    {
+      "Key": "bddb6762-6bd4-4045-8c74-3a51ec925b67",
+      "Value": "\"And why is your face so grim? Did you study grimacing at some academy?\""
+    },
+    {
+      "Key": "33a1c37d-cf12-425f-a186-141c0b039f0f",
+      "Value": "\"We saved your life, and you dare turn your back on us? Come now, thank {mf|His|Her} Grace for all {mf|he|she}'s done for you!\""
+    },
+    {
+      "Key": "46de99ca-3a25-411d-a054-7374228fbd54",
+      "Value": "{n}Bartholomew's face turns red. Glaring at Octavia, he raises his hands as if to cast a spell.{/n}"
+    },
+    {
+      "Key": "5c30dcd0-dee0-46dc-9e4a-050539ef36e8",
+      "Value": "{n}Bartholomew stops packing and looks at you incredulously. Then he looks at the stack of books in his hands and keeps silent for a long time, figuring something out in his mind. Finally, Bartholomew sighs and puts his books aside.{/n} \"I cannot refuse such an offer. Of course, Your Grace, I shall enter your service. — After all, it's such a rare opportunity.\""
+    },
+    {
+      "Key": "de609cbe-6b43-4585-b04c-5a092870eea1",
+      "Value": "{n}He looks around his packed bags and smirks.{/n} \"Seems all this packing was unnecessary — I'll not take the laboratory with me. I'd prefer a lighter journey to the capital. As soon as I pack the essentials and lock up the house, I'll head straight for the city. See you there.\""
+    }
+  ]
+}

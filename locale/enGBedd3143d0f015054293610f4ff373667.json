@@ -1,0 +1,189 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "0317acf9-56c4-4619-ac92-d4b993d21245",
+      "Value": "\"I'd like to browse your wares.\""
+    },
+    {
+      "Key": "b64e9772-8785-4c18-afb4-9466d76de0dd",
+      "Value": "\"Your prices are three times higher than those of other merchants!\""
+    },
+    {
+      "Key": "967aca91-54ae-4351-8d65-b2380a3829db",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "58dbc113-1dd6-433c-b7bc-95df205336a3",
+      "Value": "\"What is all the commotion at the bridge? Where have all those people come from?\""
+    },
+    {
+      "Key": "203a7c83-9999-40b8-bbbb-36b3f60b0577",
+      "Value": "\"If I ever catch you asking an arm and a leg for rotten turnips again — I'll hang you on this bridge as a lesson to others.\""
+    },
+    {
+      "Key": "a0739b4b-05c1-4fa4-b5d7-548e8ac539b3",
+      "Value": "\"A great idea. And now you shall pay the trade tax — two thirds of all you've made from trade on MY lands. And you'd better not fleece my subjects behind my back — is that clear?\""
+    },
+    {
+      "Key": "216f2605-6f2a-4a4b-a741-ce3453140e00",
+      "Value": "[Point at the angry peasants nearby] \"Looks like you're making their blood boil...\""
+    },
+    {
+      "Key": "22300584-aa0d-40b5-89ba-e29848005510",
+      "Value": "[Attack] \"I've had enough!\""
+    },
+    {
+      "Key": "8223723a-1020-4a91-ab9b-c546b7d9f1ae",
+      "Value": "\"A bad day for trade, huh?\""
+    },
+    {
+      "Key": "1d9fdeb7-b439-4f22-834a-37ff569ad3bd",
+      "Value": "\"Have you no shame! These people are starving — and all you care about is lining your pockets?!\""
+    },
+    {
+      "Key": "dcc197a6-4208-4ee8-8dd4-15fbf140ff59",
+      "Value": "\"Well-played. Just don't forget to pay your taxes.\""
+    },
+    {
+      "Key": "802bda72-a59d-4aea-bfec-de2c43da7935",
+      "Value": "\"Your goods are your business.\""
+    },
+    {
+      "Key": "f7cd3bb0-dff5-44a5-a55b-c5b4e4ca043e",
+      "Value": "\"You seem to be sitting pretty here. Asmodeus likes enterprising people like you!\""
+    },
+    {
+      "Key": "dfa53598-be00-4bd7-8dab-4285afcf5383",
+      "Value": "{n}The merchant, a stout man in a shabby jacket, greasy pants, and a tattered beret, finally notices you.{/n} \"Ah! Welcome to the traveling shop of Tigni Jusmert! The finest goods this side of the canyon, {mf|sir|my lady}!\""
+    },
+    {
+      "Key": "15236fdd-0da8-44ad-ad49-ea4932fcea47",
+      "Value": "\"Welcome back, {mf|sir|madam}! How can I help you today?\""
+    },
+    {
+      "Key": "0de0ec5d-354e-442f-9da1-f128ae4e8906",
+      "Value": "\"The demand is high, {mf|sir|madam}!\" {n}The trader winks and jingles his fat purse.{/n} \"No one around offers the produce I do! In fact, you won't find anyone else selling in these parts, and you know people — they just love to eat!\" {n}He laughs, amused by his own joke.{/n}"
+    },
+    {
+      "Key": "0c6c897f-8b3e-4aa7-8a06-a5f96acad0d0",
+      "Value": "{n}Tigni shrinks, ducks his head and backs away.{/n} \"F-f-forgive me, Your {mf|Grace|Grace|Highness|Highness}! M-my sincere apologies!\" {n}He catches his breath and speaks carefully, as if each word might be his last.{/n} \"From now on only the lowest of prices for you and your subjects!\""
+    },
+    {
+      "Key": "13048c8c-b858-41e7-9cf9-e91f4a0a06a0",
+      "Value": "{n}Tigni shrinks, but, taking a look at his guards, he swallows and answers you boldly.{/n} \"W-w-with all due respect, {mf|baron|baroness|king|queen}, I have done nothing wrong, I shall trade as I see fit! Threaten me all you want — I won't budge!\""
+    },
+    {
+      "Key": "329a982f-108c-4ab1-a05b-d9fa3212c1c0",
+      "Value": "\"WHAT?!\" {n}Tigni gasps.{/n} \"But... but...! Damn it all!\" {n}Realizing his protests are for naught, he pulls out his purse and begins counting coins into your hand.{/n} \"Robbery... pure and simple...\" {n}As the last coin is placed in your hand, he gives a slight, stiff bow.{/n} \"I hear you, {mf|baron|baroness|king|queen}. I'll lower my prices.\""
+    },
+    {
+      "Key": "5d49f4bf-f3b4-4754-b967-4795ed4fe447",
+      "Value": "{n}Tigni's face turns dark red.{/n} \"You have what you hold! Do you know of the River Freedoms, {mf|baron|baroness|king|queen}? The one of the most venerated laws of the {g|Stolen Lands}Stolen Lands{/g}! So I'm afraid you're mistaken, but I'm not paying any such tax, that or any other!\""
+    },
+    {
+      "Key": "55b9cb2e-41a9-40d1-865b-f83e1d62b15d",
+      "Value": "\"Haven't you heard? The Stag Lord, {mf|baron|baroness|king|queen}! He's alive! One day he just comes back with his band, takes the bridge, and starts demanding coin for safe passage! So people are piling up at the bridge — after all, how can a peasant scrape up enough coin to pay the toll?!\""
+    },
+    {
+      "Key": "8664919b-e798-4952-a06f-003746bd13d0",
+      "Value": "\"That rabble?\" {n}Tigni looks over the peasants and sniffs.{/n} \"Those beggars can say whatever they want! They may whine and grumble all they wish, but they'd never dare to come out in arms against my boys.\""
+    },
+    {
+      "Key": "ea84f848-f348-449e-9350-6b6409f43c72",
+      "Value": "\"Some have been here for a while now. Many might've starved to death if it wasn't for my willingness to help those in need! For the right price, of course.\""
+    },
+    {
+      "Key": "48c95d10-3e23-4327-bc08-a155617b0057",
+      "Value": "{n}The trader, a stout man in a shabby jacket, greasy pants, and a tattered beret, seems bored. He raises an eyebrow as you approach.{/n}"
+    },
+    {
+      "Key": "ea85049d-49a3-4f80-a3c6-092da524ce75",
+      "Value": "{n}Tigni looks at you, frowning.{/n} \"Your wish, {mf|baron|baroness|king|queen}?\""
+    },
+    {
+      "Key": "dd2ee9a3-00cd-4f1d-9023-4808bf80dd05",
+      "Value": "\"Welcome to the traveling shop of Tigni Jusmert. The best goods this side of the canyon, {mf|sir|madam}.\" {n}Tigni looks around and sighs.{/n} \"You won't find lower prices anywhere.\""
+    },
+    {
+      "Key": "f0d5b0d8-d424-47cb-8dd3-1263d681d953",
+      "Value": "\"You don't say.\" {n}Tigni gives a long sigh.{/n} \"It used to be a perfect spot until you brought the Stag Lord to heel. The refugees used to be held up at the bridge, and they had little choice but to trade with me... and now? An occasional traveler buys a piece of rye flatbread — and that's on a good day!\""
+    },
+    {
+      "Key": "3fdd7c31-3353-429f-a0d2-f1fa6ab64b26",
+      "Value": "\"You charge a fortune for your food and what do we get? Moldy bread and rotten vegetables!\""
+    },
+    {
+      "Key": "9b0bbd82-712e-4486-9ab6-309697f0ff55",
+      "Value": "\"Fear {g|Erastil}Erastil{/g}, Tigni! Your profit is someone's grief!\""
+    },
+    {
+      "Key": "d01296e9-de5b-4f7d-9e8b-ef65afb685cd",
+      "Value": "\"Out of my sight! I am the only vendor for leagues around. You eat what I sell or don't eat at all!\""
+    },
+    {
+      "Key": "cc2a44d3-518b-43f1-8017-bb553fa8d20c",
+      "Value": "{n}Tigni averts his eyes in silence. Finally, he sighs.{/n} \"Very well. I will lower my prices. You think I'm some cold, heartless beast?\""
+    },
+    {
+      "Key": "fb2ca60f-c8c3-4c81-9802-a39e292548e9",
+      "Value": "\"You'll drive me to the streets with your moralizing! If they are starving, they can go pick berries, catch frogs! As for me, I stand by my wares, they are worth every copper!\""
+    },
+    {
+      "Key": "693eebbb-a523-486f-9f15-48fb2ea68560",
+      "Value": "\"I won't, Your {mf|Grace|Grace|Highness|Highness}! I wouldn't think of causing any trouble. Here's your share... I'm sorry, I meant to say, here's the trade tax, as per the law.\""
+    },
+    {
+      "Key": "81cbe07c-0788-46b1-8aca-2806231cda44",
+      "Value": "{n}The trader gives a generous smile. {/n}\"I always felt this {mf|barony|barony|kingdom|kingdom} was kind to us, the simple traders. Good to see it's true.\""
+    },
+    {
+      "Key": "513e4b9f-2aee-45c7-92d8-e786e1f2e61a",
+      "Value": "\"This is inhumane, but he has the right to do so. On the other hand, he stands on your land, and thus, he is in your hands. This is a confusing situation... In this wild realm, you can seldom rely on any established law.\""
+    },
+    {
+      "Key": "61cac4e4-78a2-4fb1-aa68-10aa7c38219e",
+      "Value": "\"I beg you to relent. Is a handful of coins really worth becoming a murderer? Look in the eyes of these poor souls — their lives are in your hands. Have you so much greed in your heart that there is no place left for mercy?\""
+    },
+    {
+      "Key": "ed424759-3a71-4c9e-8f3c-746eeae4c33b",
+      "Value": "\"'You have what you hold,' right. Your guards sure are brave against these paupers, but what do you think'll happen when WE draw our weapons? You sure you'll still be holding anything — beyond maybe your own guts as they spill from your ripped belly?\""
+    },
+    {
+      "Key": "fae6b789-3afe-40c2-a846-d86b7d7ad683",
+      "Value": "\"What a scumbag!\" {n}Octavia turns to you resentfully.{/n} \"Do something! You can't let him treat people this way!\""
+    },
+    {
+      "Key": "a4ecd9d9-e789-4708-bf5b-9b6974a178df",
+      "Value": "\"That's better! We won't let you rob anyone — remember that!\" {n}Octavia turns to you.{/n} \"Thank you for not letting this hack profit off other people's misery!\""
+    },
+    {
+      "Key": "62d9b527-ca8b-48cb-a538-13be402189b1",
+      "Value": "{n}Valerie lowers her head.{/n} \"Because of those like him, 'protectors of the offended' spring up — the very same bandits who would create their own law. And yet, dealers who look for legal loopholes are still better than troublemakers who think themselves above the law.\""
+    },
+    {
+      "Key": "c6021abd-af99-461e-8131-f1c041f795f7",
+      "Value": "{n}Valerie twists her lips, barely hiding her irritation.{/n} \"I see you have mastered threatening your subjects with death for any transgression. A questionable merit.\""
+    },
+    {
+      "Key": "78a9ee7c-71fa-4b67-86cb-159cef00e49a",
+      "Value": "{n}Valerie twists her lips and shakes her head.{/n} \"I see you are second to none at robbery and extortion. Certainly a worthy ruler for the {g|Stolen Lands}Stolen Lands{/g}."
+    },
+    {
+      "Key": "e8baa536-6c5f-4381-bc25-72eb4bd1232e",
+      "Value": "\"Uhhh... T-thanks, Your {mf|Grace|Grace|Highness|Highness}! Both to you, and to your, uh, much respected god!\""
+    },
+    {
+      "Key": "686df780-306a-4041-a4f9-a9ba572882d0",
+      "Value": "\"I know your relationships with the gods are complicated, but I'm grateful to them for your existence, Valerie. It's a refreshing change to hear words full of reason, rather than pointless noble gestures!\""
+    },
+    {
+      "Key": "8e7f0bfe-3fd7-425d-981b-605015d0fe7d",
+      "Value": "\"A word of advice, if you will, {name} – don't give in to emotion. It may seem now that by punishing this merchant, you will strengthen your subjects' loyalty and thus solidify your position. But what of the long-term consequences? Will the other merchants want to deal with you, if they fear that their lawful actions might be interrupted simply because the {mf|baron|baroness} likes to fall for {mf|his|her} peasants' tearful complaints?\""
+    },
+    {
+      "Key": "fbfd6e74-daf1-4fa0-8df3-93bb59996012",
+      "Value": "\"There is so much evil and indifference in this world...\""
+    }
+  ]
+}

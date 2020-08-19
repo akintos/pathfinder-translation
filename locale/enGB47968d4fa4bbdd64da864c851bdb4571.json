@@ -1,0 +1,33 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "3cc5358b-cd13-44da-9389-5f6bfecb90c0",
+      "Value": "\"I've never seen a troll trader before.\""
+    },
+    {
+      "Key": "f1f8ce44-1a94-4132-a1cd-ca2caba4ac07",
+      "Value": "[Trade] \"Show me what you have.\""
+    },
+    {
+      "Key": "c0affc89-ef93-4360-9c6f-d0878e9ae5c8",
+      "Value": "[Attack] \"I'll take all your wares. For free.\""
+    },
+    {
+      "Key": "2923dfb0-8022-4616-9e0c-c72362825f6c",
+      "Value": "[Leave] \"Good trading to you!\""
+    },
+    {
+      "Key": "256a0362-5d36-4f67-a149-05f92a67f23c",
+      "Value": "{n}A troll with an ironbound chest at his feet waves at you.{/n} \"Hey, borba! No, wait, it wrong… {Race}, that right! Come here, {race}! We trade!\""
+    },
+    {
+      "Key": "3f5b80ad-ae42-4e68-8082-6e17d03bacd7",
+      "Value": "\"It Tartuk's idea. He said humans trade things for gold. He said we trade, too, we get many gold. Humans then give us many pigs and sheep for gold. Tartuk dead now, but Hargulka ordered us gather many things in {g|Trobold}Trobold{/g} and sell them. No one buys till now. You my first customer!\""
+    },
+    {
+      "Key": "b80c57c4-0c35-4863-9e62-11cdd4f5543f",
+      "Value": "\"You have gold, {race}? Troll want gold! We trade!\""
+    }
+  ]
+}

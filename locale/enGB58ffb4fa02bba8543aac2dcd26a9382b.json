@@ -1,0 +1,185 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "a255a8c0-c527-4dca-9abc-1bd6fbb94f0f",
+      "Value": "\"What's your name?\""
+    },
+    {
+      "Key": "065ddbb6-45d7-4cc3-9f95-e2abb42307cd",
+      "Value": "\"Why are you crying?\""
+    },
+    {
+      "Key": "bda1cb33-7e67-435f-8bcc-0fd8e33126a8",
+      "Value": "\"Can you tell me what happened?\""
+    },
+    {
+      "Key": "f24e1f5c-6f70-4829-a7d4-5a721401c608",
+      "Value": "\"I'm no enemy to the fey.\""
+    },
+    {
+      "Key": "34370d35-cf02-419a-a29f-ca32b8f2d32b",
+      "Value": "[Attack] \"You shouldn't have threatened me, beast!\""
+    },
+    {
+      "Key": "5e5baf49-8c5a-4d1e-847f-08dd9b122b2b",
+      "Value": "\"We'll talk again later. Farewell!\""
+    },
+    {
+      "Key": "972ba846-cd5c-4cab-8e8f-2fe47bf941e2",
+      "Value": "\"Did you drown those travelers?\""
+    },
+    {
+      "Key": "d2b332fd-13fa-40fd-8963-dd994b80076e",
+      "Value": "\"That's quite a story. But what does it have to do with me?\""
+    },
+    {
+      "Key": "c5f81c58-5a17-4764-b968-3e8eb8fa912b",
+      "Value": "\"What's in the box?\""
+    },
+    {
+      "Key": "bfbedb94-066e-45d5-9202-3e2cdf05cef8",
+      "Value": "\"You said someone's trying to open the box again. Who is it?\""
+    },
+    {
+      "Key": "c9332605-fb21-4e32-93f6-967008b4c21e",
+      "Value": "\"We'll talk again later. Farewell!\""
+    },
+    {
+      "Key": "86d50d73-fbb3-4b76-8279-ddcb56a552a1",
+      "Value": "\"I'll help if I can.\""
+    },
+    {
+      "Key": "4b021c7d-1c97-46f4-b9b3-ad7203212d74",
+      "Value": "\"Can you remind me where the box is now?\""
+    },
+    {
+      "Key": "028bb60a-60e8-4d17-9631-7681ba9f46ff",
+      "Value": "\"I've thought about it, and I figure this isn't really any of my business after all.\""
+    },
+    {
+      "Key": "6e8088d5-b94e-4676-8b8e-c1ea2d40816d",
+      "Value": "[Attack] \"Creatures like you don't deserve my help!\""
+    },
+    {
+      "Key": "c6ba4f5f-b15e-4231-bd2c-9830bc90532a",
+      "Value": "\"You know favors like that don't come free, right?\""
+    },
+    {
+      "Key": "2f52c423-c33d-4790-864f-e204080fcedc",
+      "Value": "\"No, go ahead and keep your trinkets. No charge for this one.\""
+    },
+    {
+      "Key": "4516cfce-096b-41cf-878f-45cc5cb3a913",
+      "Value": "\"Deal.\""
+    },
+    {
+      "Key": "fc0694c1-0746-4871-90ce-11b6c1236f10",
+      "Value": "\"No. Deal with your own problems.\""
+    },
+    {
+      "Key": "6f9e55a2-306b-4b30-a834-dd73d119ef29",
+      "Value": "\"I can help you.\""
+    },
+    {
+      "Key": "18c533a5-438e-4f05-800a-2d59e45a536c",
+      "Value": "\"Well, that's cleared up a few things for me.\""
+    },
+    {
+      "Key": "44d8f4b2-af38-46e7-8e6e-f6fa6a5b8726",
+      "Value": "[Attack] \"I won't allow some foolish nixie to drown people and not be punished!\""
+    },
+    {
+      "Key": "480ea02f-01d7-47ba-9ad3-6763010e7bc8",
+      "Value": "{n}A nixie, slim and disheveled, is sobbing. Noticing strangers, she flinches.{/n} \"Not again! What are you doing here? What do you want?! Go away! If my family sees you, you're as good as dead, I promise!\""
+    },
+    {
+      "Key": "ff5e5cc2-4e34-43b2-a8d1-94ba78abde89",
+      "Value": "\"I'm Lykka. This lake is our home, though we've let other people live around here too. Oh, we never should have done that! We should have chased those foolish bumpkins away as soon as they started building their houses here. Now they've brought disaster down on us all!\""
+    },
+    {
+      "Key": "d2b5695b-9a45-41f0-9b1d-a3dd97a5a7b9",
+      "Value": "\"Those men brought trouble. The ones from the big boat! They came from {g|Tors of Levenies}Tors of Levenies{/g} and brought that scary box with them. Even the fish in the lake could tell that box was very, very evil. But those fools on the boat just laughed, bowing to the box, calling themselves '{g|Charon}Charon's{/g} chosen' or something. They claimed he'd reward them soon. I was the one who 'rewarded' them, though — I made them crash that big boat against the foot of the high cliff and sink themselves!\""
+    },
+    {
+      "Key": "24d403b8-7f45-43bb-b4e3-ce9ebdab3764",
+      "Value": "\"Yes! That was the last anyone saw of them! The evil box sunk too.\" {n}The nixie sobs.{/n} \"If I hadn't done it, they'd have opened the box, you understand? Then something terrible would have happened!\""
+    },
+    {
+      "Key": "eefa6502-a694-442f-bcbd-e5b008882e17",
+      "Value": "\"If you were an enemy, you'd be just a few bubbles on the lake surface by now! But here I am, see? Still standing and talking with you.\" {n}The nixie sobs again and rubs her eyes with her palm.{/n}"
+    },
+    {
+      "Key": "0ce6fae4-e0a4-4bbe-9c97-8d80917142f6",
+      "Value": "{n}The nixie hides her face in her hands.{/n} \"My family kicked me out. All because of what I did to that stupid boat! Everyone was furious when the evil box fell in the lake, but I was just trying to do the right thing!\""
+    },
+    {
+      "Key": "508ab7df-6be9-4e25-a8d7-67a2f96e188d",
+      "Value": "\"How should I know? I just know the box is evil — everyone but the stupid humans can sense it. Fish started jumping ashore after the box fell in the lake. Wolves took their hunting up north to get away from it. And the humans wanted to open it! First the ones from the boat, and now these other ones came for it!\""
+    },
+    {
+      "Key": "7e4a2838-b463-41cb-9560-ad074224232c",
+      "Value": "\"Now the nixies are mad at all strangers. They say, 'All strangers bring is trouble! First, they brought a horrible ancient thing here, and now other strangers are trying to fish it out of the lake and open it! Let's drive everyone but us nixies away, then we'll have peace and quiet again, like before!'\" {n}The nixie sobs again.{/n}"
+    },
+    {
+      "Key": "d8c26394-b351-4080-a5aa-1fc9cefeb109",
+      "Value": "\"More strangers! They hid in the cave near the lake. They've been using hooks and big nets to try to retrieve the box! 'It's a treasure, a treasure' — that's what they say. How can that thing be a treasure? It's a huge scary box that has a picture of a one-eyed skull with a coin on it. I don't know where it came from, but I know it's somewhere I'd never want to visit!\""
+    },
+    {
+      "Key": "5cd9435b-818a-4b8c-b619-962854c2d6f7",
+      "Value": "\"Please, wait!\" {n}The nixie looks at you timidly.{/n} \"You look really strong! Can you do something about that evil box, maybe? I just wish it would disappear! Then all the other nixies would forgive me and stop being angry at the humans...\""
+    },
+    {
+      "Key": "504941c3-e6cb-483f-811d-dacf050aad57",
+      "Value": "\"At the bottom of the lake. But those strangers from the cave could fish it out any time now — they already spent two nights searching with boats, hooks, and nets. Their cave is to the northwest.\""
+    },
+    {
+      "Key": "f1a2bdfd-2b9e-4323-b29d-c425ba44d799",
+      "Value": "{n}The nixie jumps with excitement.{/n} \"Thank you! Thank you, thank you, thank you! Just be careful, please! That box is so creepy...\""
+    },
+    {
+      "Key": "b2484b4a-93e0-48ce-90bd-cf7db475a710",
+      "Value": "{n}The nixie folds her hands over her chest and looks offended.{/n} \"Fine, then! I'll figure something out on my own!\""
+    },
+    {
+      "Key": "53021edc-8a23-4a04-a083-ad4cef30eb59",
+      "Value": "\"Go away!\""
+    },
+    {
+      "Key": "a6b4a96f-242c-441d-bc32-94328ec72fe6",
+      "Value": "\"You're back! Did you take care of that box?\""
+    },
+    {
+      "Key": "dee5ea4c-76ba-4199-947f-1367772eeb6e",
+      "Value": "\"If you help me with that box, I'll give you a chest I found on the sunken boat! It's not creepy like the evil box — just coins and trinkets inside.\""
+    },
+    {
+      "Key": "65c067d2-9022-4d5c-a0bb-471412e1181e",
+      "Value": "\"But I like humans! Especially human children. They're so awkward and funny! I used to play with the two kids from the house to the west, until they stopped coming for some reason... But I don't want my family to fight the humans!\""
+    },
+    {
+      "Key": "4bc1a2d0-1d82-442f-8926-1375ed9f0615",
+      "Value": "{n}The nixie sniffles and starts to calm down.{/n} \"It's all so sad!\""
+    },
+    {
+      "Key": "10ab5261-8f75-46fb-b9e2-46f0ae7e6fe8",
+      "Value": "{n}The nixie throws her hands up in joy.{/n} \"You did it! I have to tell my family as soon as possible! Once I tell them what you did, they'll understand that not all strangers are bad. A cyclops, huh? I doubt any of us could have dealt with that!\""
+    },
+    {
+      "Key": "aed0b9a7-8110-4ea1-8bca-d04a399123f6",
+      "Value": "\"I'd say you earned yourself a reward!\""
+    },
+    {
+      "Key": "6eb5af1c-2206-4788-8375-7a2047343e38",
+      "Value": "{n}The nixie looks at you timidly.{/n} \"You look really strong! Can you do something about that evil box, maybe? I just wish it would disappear! Then all the other nixies would forgive me and stop being angry at the humans...\""
+    },
+    {
+      "Key": "e4b38cea-9c52-4e13-987a-2bd6fd5cdb6e",
+      "Value": "\"What did you say? {g|Charon}Charon{/g}? That is bad. Very bad...\" {n}Harrim frowns, tugging on his beard.{/n} \"An ancient, evil deity. I thought only historians would remember him now. If he still has an active cult these days... Hmmm...\""
+    },
+    {
+      "Key": "f6cc8e30-db45-41ab-a7a5-2fdaac094e39",
+      "Value": "\"{g|Charon}Charon{/g}? I know that name. An ancient deity of death and evil. I was not aware he still had any worshipers.\""
+    }
+  ]
+}

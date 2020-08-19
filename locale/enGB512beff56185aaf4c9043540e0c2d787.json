@@ -1,0 +1,253 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "e1170bb3-00f3-4ddd-9d5e-a90cf0a1db28",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "cee5f56a-b821-4b85-8123-8856d437c9eb",
+      "Value": "\"Why are you called Eight Eyes?\""
+    },
+    {
+      "Key": "bfbd28c5-8f21-41ae-b98d-ba67ad15a894",
+      "Value": "\"Would you like to join me?\""
+    },
+    {
+      "Key": "2e24d627-d3e5-40e9-be20-2695650cb9a3",
+      "Value": "\"What are you doing here?\""
+    },
+    {
+      "Key": "08c51938-7ff3-440d-abe0-a5e69416ce1f",
+      "Value": "\"I need loyal and experienced fighters.\""
+    },
+    {
+      "Key": "48745823-2dd0-4536-bde0-e9b489230ff6",
+      "Value": "\"I want to know more about the Pathfinder Society.\""
+    },
+    {
+      "Key": "835998eb-57b4-44e6-88e0-f8d5337db928",
+      "Value": "\"What is the purpose of the Society?\""
+    },
+    {
+      "Key": "695412df-f1f2-4ede-8014-d223c764eecd",
+      "Value": "\"What kind of members does the Society have?\""
+    },
+    {
+      "Key": "48c7d592-db1d-4f1b-8e40-bb73b0b26017",
+      "Value": "\"Who does the Society support?\""
+    },
+    {
+      "Key": "6e12d4b5-99b4-4380-a264-f8c08f982670",
+      "Value": "\"We'll talk about this later.\""
+    },
+    {
+      "Key": "5a8a7fff-24af-43ad-9acd-9066b3d1c051",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "fbc5aba4-a70c-4a94-8e8d-fada95ae9fa2",
+      "Value": "\"A famous Pathfinder, here in the middle of nowhere? Why?\""
+    },
+    {
+      "Key": "7c0feaab-b8a1-4cf3-812f-87c5c5d769ec",
+      "Value": "\"What happened in Renchurch?\""
+    },
+    {
+      "Key": "2e3235d9-f2a6-4dee-9d6c-0400d9aad808",
+      "Value": "\"Where were you when the trading post was attacked?\""
+    },
+    {
+      "Key": "c70ad1dc-492a-4b7c-9a4e-cf4dd6d0d3d2",
+      "Value": "\"How did you escape Vermelt's trap?\""
+    },
+    {
+      "Key": "e17c61da-3892-404c-826b-7dffb1e563a9",
+      "Value": "\"Regarding your story...\""
+    },
+    {
+      "Key": "c1e298aa-2de0-46b5-b94b-2f425d75ba49",
+      "Value": "\"Remind me how the last campaign of the Reckless Six began.\""
+    },
+    {
+      "Key": "ac66d2b6-4380-4a4b-b1bd-e60531194c55",
+      "Value": "\"How did you escape Vermelt's trap?\""
+    },
+    {
+      "Key": "fcab79eb-be34-494c-b6ec-5a24f1763f39",
+      "Value": "\"Let's talk about something else.\""
+    },
+    {
+      "Key": "fc56faa4-a9ef-4325-bff4-a99767aaed84",
+      "Value": "\"How are things at the new Pathfinder lodge?\""
+    },
+    {
+      "Key": "1c78bb00-821e-42d0-90aa-afb3def89844",
+      "Value": "\"I hope my refusal regarding the lodge wasn't too much of a disappointment.\""
+    },
+    {
+      "Key": "8e035bff-deb8-46f3-9674-4025d6eb2da5",
+      "Value": "\"Let me think about it.\""
+    },
+    {
+      "Key": "4e8bbcb5-b429-4449-9e3b-feba340b27db",
+      "Value": "{n}The elf looks straight at you, through the tangled hair falling over her face.{/n} \"Hey. You're an adventurer, right? Seeking your fortune in the {g|Stolen Lands}Stolen Lands{/g}? You aren't the only one of your kind here. Take my advice — keep your eyes open and watch your back. Sometimes the ones who call themselves your friends are more dangerous than your enemies.\" {n}Judging by the elf's voice, it's obvious that she started the day with a jug of wine.{/n}"
+    },
+    {
+      "Key": "e3f4432a-20f9-40db-bb28-5db2e24b2224",
+      "Value": "\"Hey, it's you again! What can I do for you?\""
+    },
+    {
+      "Key": "2bdcde6d-0a41-4fce-815f-fc5a5e0a6b15",
+      "Value": "{n}The elf looks straight at you, through the tangled hair falling over her face.{/n} \"Hey. So, you're the new {mf|baron|baroness|King|Queen}, right? Seeking your fortune in the {g|Stolen Lands}Stolen Lands{/g}? Take my advice — keep your eyes open and watch your back. Sometimes the ones who call themselves your friends are more dangerous than your enemies. That's especially true for those who have power.\" {n}Judging by the elf's voice, it's obvious that she started the day with a jug of wine.{/n}"
+    },
+    {
+      "Key": "588043aa-27c6-473e-a4be-80c69259871b",
+      "Value": "\"Hey! You're the local {mf|baron|baroness|King|Queen} now, right? Congratulations! The Stag Lord was a real bastard. It's a good thing you killed him. Sometimes justice still triumphs, right? For what it's worth, I've decided to move to the capital. Living at Oleg's is horribly boring. But here, look around — I can feel the rhythm of life.\""
+    },
+    {
+      "Key": "59c132d0-ad1d-452e-9545-94bf4318c237",
+      "Value": "{n}The elf greets you with a nod.{/n} \"What can I do for you?\""
+    },
+    {
+      "Key": "f326af9d-6349-42df-9ef8-fcfe2a73a254",
+      "Value": "{n}The elf grunts.{/n} \"Anoriel Eight Eyes. Once upon a time, I was famous throughout {g|Absalom}Absalom{/g}. Anoriel Eight Eyes, of the Reckless Six! Well, glory passes quickly. A few miserable decades later, and no one recognizes you on the street anymore. What a shame.\""
+    },
+    {
+      "Key": "e345f61c-03e9-410a-8f5a-a1cfab881152",
+      "Value": "\"Once, long ago, I could spot an enemy and pin him to the wall before he could even think of attacking. Some said I had eight eyes and looked all around at once. Though it seems I've outlived my nickname.\" {n}Anoriel stretches her arm forward. Her palm trembles noticeably.{/n} \"I've been drinking so much lately, it's best I don't test my skills too often.\""
+    },
+    {
+      "Key": "34d624a2-80a4-4644-bf53-2ea314e9afbb",
+      "Value": "\"Uh, no, I've got enough things to do already. You'd better manage on your own.\""
+    },
+    {
+      "Key": "9e9e33d1-92e5-4265-8e67-22b9e95621cf",
+      "Value": "\"I sit here waiting for adventurers who are in need of help. We may be sitting here in a backwoods tavern, but in {g|Absalom}Absalom{/g} I have a lot of friends who are eager to make a few coins. They have brave hearts, but shallow pockets. A little gold would be a welcome change for them. I can send them a message, and they will come from Absalom through a portal. If you're interested, just give me a sign, and we'll arrange everything right away.\""
+    },
+    {
+      "Key": "ecc951c0-4130-4a9c-a42c-5d7fd6e7cfa2",
+      "Value": "\"I have friends like that. Just decide who exactly you need, and they will come on my signal. This will cost you {custom_companion_cost} gold pieces.\""
+    },
+    {
+      "Key": "0107b91c-812c-4ef8-b631-61c061eb132e",
+      "Value": "\"What exactly are you interested in?\""
+    },
+    {
+      "Key": "0ee0ff5f-a3bb-40a3-a5af-b1ff16b8a688",
+      "Value": "\"It's a school of adventurers. We search for those who are eager to test their skills, and we educate them and give them ideas about where on {g|Golarion}Golarion{/g} they might seek their fortune. They look for forgotten knowledge, secrets, and lost artifacts. They are explorers and pathfinders. We're a sort of mutual assistance club for adventure lovers. We exchange experience, share knowledge, and keep careful records. — In case it proves useful to future expeditions. And also, we publish books for thrill seekers... and bored urban teenagers from wealthy families.\""
+    },
+    {
+      "Key": "db7b708d-afea-488c-a8ac-ced1db511d85",
+      "Value": "\"All sorts of adventurers. We have representatives from all races, religions and beliefs. The Grand Lodge is in {g|Absalom}Absalom{/g}, but there are many smaller lodges throughout {g|Golarion}Golarion{/g}, and the venture-captains direct Pathfinders to their goals from across all the corners of the world. There are many renowned heroes in the {g|Pathfinder Society}Society{/g}... And many scoundrels as well, whose service to the Society has brought them fame.\""
+    },
+    {
+      "Key": "6900ec62-0590-46fd-bc16-6c6e016d30b7",
+      "Value": "\"You mean, who does it serve? No one in particular. Pathfinders try not to get involved in the quarrels of others. They serve only the spirit of adventure. And, sometimes, they happen to save the world. However, that doesn't mean there are no black sheep among the Seekers...\""
+    },
+    {
+      "Key": "e59127cc-94ac-45a7-8410-4a5b81202d83",
+      "Value": "\"The {g|Pathfinder Society}Society{/g} is an interesting community. There is much to tell about it.\""
+    },
+    {
+      "Key": "b3a97915-5388-46b5-be82-13380aa20081",
+      "Value": "\"You want to know how one could exchange the life of a Pathfinder for this sorry drunken rathole?\" {n}The light in Anoriel's eyes goes out as if someone had blown out a candle.{/n} \"You lose all your friends because of one scumbag, and then you'll understand. I was the only one to return from the final campaign of the Reckless Six... and whatever is left of me... can't be called a Seeker anymore.\""
+    },
+    {
+      "Key": "8ac4a230-7790-4045-9f20-7160c3e9720f",
+      "Value": "\"Voltar called to his god, and a ray of light shone forth, sending the vile creatures running. I almost believed for a moment that we had a chance...\" {n}Anoriel catches her breath and starts to talk faster.{/n} \"That part was the worst. It seemed like we could get out, if we could just make it a little farther... But then the zombies overwhelmed Voltar like a tidal wave. Ghotry lost her mind. She scrambled up a staircase, whispering the words of a children's song and screaming in terror. She jumped from the tower — to escape whatever ghost was tormenting her. The fall maimed her, but she survived. And after all this I... I was alone. The darkness closed in over me.\""
+    },
+    {
+      "Key": "2224cc69-c46b-4bf2-826f-073105cbabc5",
+      "Value": "\"We were attacked by the undead... Skeletons, zombies... but that wasn't the worst. What filled me with terror was the invisible dark entity crawling among the stones. This... thing... was driving us crazy — literally! Jaqueson rushed to a stone statue and beat it until he broke all his fingers. After that, there wasn't much use for his magic wand, though the poor fellow never gave up trying to help us. Berberton fell behind when we began our retreat. The last time I saw him he was squatting over a heap of carrion, gorging himself... and sobbing like a newborn all the while, I swear by {g|Pharasma}Pharasma{/g}!\" {n}Tears glint in Anoriel's eyes.{/n}"
+    },
+    {
+      "Key": "71e7d047-d662-46c7-aa40-209dbb83259d",
+      "Value": "\"When I came to my senses, we were all in cages. All of us except for Vermelt. He was free, unscathed — and extremely pleased with himself. And the undead were under his command.\" {n}Anoriel clenches her fists.{/n} \"The bastard betrayed us. From the very beginning. He'd decided to keep those damned books for himself! Adrissant wasn't his friend, but his competitor. Vermelt staged his death and went to find books while we fought off the undead. He used us as fodder... and those who survived were to become sacrifices for his ritual! We were betrayed by the one we trusted most!\""
+    },
+    {
+      "Key": "8e521c3d-d79d-4f9e-9b9f-d147394a6f5a",
+      "Value": "\"I was hunting. Got a little lost in the mist — which is the first time that's happened to me. I guess I should go easier on the drink. But don't you imagine I'd be scared of a good fight! If only I'd known I was missing all the action... But I see you've got everything under control.\""
+    },
+    {
+      "Key": "94955458-8a25-4b0f-b8c0-576dbcd27a00",
+      "Value": "\"We were to be sacrificed in Vermelt's ritual. The madman had decided to transform himself into a lich — and for this he required souls of the living. He'd prepared everything else in advance — after all, such a ritual demands extra precision, and his immortality was at stake. Vermelt probably thought he was ready for anything... except for Ghotry.\" {n}Anorel smiles sadly.{/n} \"Brave Ghotry. She'd come to senses by then, though she'd suffered some terrible wounds. But she was determined that she wouldn't let Vermelt carry out his plan. She would not become a sacrifice on his altar. With her broken fingers, she managed to pick up a sharp stone and open her veins. In her final moment, she summoned the grace of {g|Pharasma}Pharasma{/g} for aid — and her prayer was so powerful that the goddess's messenger responded. The spirit entered her lifeless body and waited patiently, ready to strike.\""
+    },
+    {
+      "Key": "8e944782-00dd-4297-a62a-3ee5a2ccee01",
+      "Value": "\"The time of the ritual had come, and Ghotry was carried to the altar. At the very moment that the dagger was supposed to end her life, {g|Pharasma}Pharasma's{/g} messenger left her body and flew into a rage. It was... well, there are no words to describe its splendor!\" {n}The elf stares at the floor.{/n} \"But poor Ghotry. She was bolder and purer than any of us. Her sacrifice saved us. And she didn't even get a decent funeral... By some miracle, we managed to free ourselves and joined the battle. Vermelt's ritual was broken, and the mage transformed into a pathetic, undead shadow of himself. The only thing we could do was finish him off. Our friend. Our would-be executioner. The final feat of the Reckless Six. And then we ran.\""
+    },
+    {
+      "Key": "69710c09-b4a4-4542-9f3b-b710b8927c87",
+      "Value": "\"That very night, Berberton has finally lost his mind and killed Voltar. Jaqueson died of his wounds. I reached {g|Absalom}Absalom{/g} alone and handed over those damned books to the {g|Pathfinder Society}Society{/g}. I was promised the post of venture-captain, but I... couldn't accept it. I looked at my new comrades and saw future corpses. In the end, I decided to get away — as far as I could. And so I ended up here. A worthy place to bury yourself.\" {n}The elf sighs heavily, but then her face clears and she suddenly smiles.{/n} \"But I look at you and I remember the old days. Not those terrible days in {g|Ustalav}Ustalav{/g}... but the better days, when we were all alive. And brave. Together. It's... a strange feeling, but a pleasant one, too.\""
+    },
+    {
+      "Key": "b732d16e-b06e-440d-a234-4a715b7e8f00",
+      "Value": "\"Do I really have the honor of speaking with {mf|His|Her} Highness {mf|him|her}self? My respects, {mf|King|Queen}!\""
+    },
+    {
+      "Key": "36387c04-fef9-475e-9c8a-130cbb3293bc",
+      "Value": "{n}Anoriel looks at you silently.{/n}"
+    },
+    {
+      "Key": "c3f833e0-bdcd-4b85-b5dd-05b4ef16fe6c",
+      "Value": "\"Enough. I shouldn't have gotten into this. Who am I to stir up other's feelings with all my chatter? We'd better forget about it for now. Maybe I'll tell you more some other time. But not today.\""
+    },
+    {
+      "Key": "bd32f106-7ad4-4e59-93f8-5416f6dd49d3",
+      "Value": "{n}The elf shakes her head.{/n} \"I have no wish to fill your sleep with nightmares. When you prove that you can stand firm in battle, that you can achieve victory without losing yourself along the way... then I will tell you of the horrors that waited us in Renchurch.\""
+    },
+    {
+      "Key": "5538f082-3718-4475-a896-a72fa46e24f0",
+      "Value": "{n}The elf utters a gloomy sigh.{/n} \"You've dealt with the Stag Lord, so I'll tell you my story. I hope it will make you think twice about looking for any more trouble.\""
+    },
+    {
+      "Key": "42c9a472-8dd8-45db-9be3-8106d36a1e9c",
+      "Value": "\"How can I refuse {mf|the King|the Queen}? Very well…\""
+    },
+    {
+      "Key": "21ad1405-9589-46b5-99e3-58af6161ef4a",
+      "Value": "\"It doesn't matter how. All that matters is that I put the Pathfinder's life behind me after that.\" {n}Anoriel gives you a piercing look.{/n} \"You don't need to hear this, {mf|baron|baroness} — at least not yet.\""
+    },
+    {
+      "Key": "2349feee-d154-4399-9e27-1e435e33598e",
+      "Value": "\"As you wish.\""
+    },
+    {
+      "Key": "bc920064-bc74-461a-adfc-72319e31e2fd",
+      "Value": "\"You know... this is the first time I've told the whole story to someone, from beginning to end. I was afraid that it would hurt to speak of my lost comrades, but... it seems I feel better now. Amazing, right?\" {n}Anoriel plunges her fingers into her bag.{/n} \"I want to thank you. This once served me faithfully. I think it will be in the right hands if I give it to you!\""
+    },
+    {
+      "Key": "6948ea75-f15a-4294-8b9b-eaf36a7d8cd1",
+      "Value": "{n}Anoriel rubs her hands together.{/n} \"Great, everything is wonderful! Just now I'm waiting for someone to take a new Society mission. You see, I got this map from the archives...\""
+    },
+    {
+      "Key": "540fa20f-c700-4cf2-a1df-9c9979e39484",
+      "Value": "{n}Anoriel gives you a false smile.{/n} \"Oh, never mind that! I didn't like the idea much anyway…\""
+    },
+    {
+      "Key": "fa5b3c72-8ba9-490d-9552-47b112186745",
+      "Value": "\"I'm the venture-captain of the local {g|Pathfinder Society}Pathfinder Society{/g} lodge, remember? Where else would I look for adventurers, if not in the tavern? By the way, if you happen to be in need of reliable assistance, I can help with that. I have plenty of friends in {g|Absalom}Absalom{/g}, eager to earn a few coins. They have brave hearts, but shallow pockets. A little gold would be a welcome change. I can send them a message, and they will come from Absalom through a portal. If you're interested — just give me a sign, we'll arrange everything.\""
+    },
+    {
+      "Key": "c869ca8e-3bcb-4a1e-b94b-63bc49a2d3f3",
+      "Value": "\"And now, thanks to you, I run the local lodge of the {g|Pathfinder Society}Pathfinder Society{/g}. Don't you remember? I'm the one who came to talk to you about establishing it.\""
+    },
+    {
+      "Key": "e3f5c74a-6ee9-4c8d-851c-92c85f3cdfa0",
+      "Value": "\"Some mess you got yourself into,\" {n}the elf says in place of a greeting.{/n} \"How can I help you? Won't be easy to gather fighters in these circumstances, but I'll try. Just give the word!\""
+    },
+    {
+      "Key": "4bdeecea-1f07-435a-ac4d-7f97c587c0be",
+      "Value": "\"Think as long as you like. I'm not going anywhere.\""
+    },
+    {
+      "Key": "96d686ef-0486-419c-88d7-476ef0e84332",
+      "Value": "\"Well, I'm not going anywhere.\""
+    },
+    {
+      "Key": "f18cf5e2-d703-4cac-8676-116dacd8b397",
+      "Value": "\"Also, I can summon the tutors from the {g|Pathfinder Society}Pathfinder Society{/g}, who can retrain you and your companions. They're quite willing to do this for free, the first three times you request their services. After that, the price for retraining will gradually increase. Such is their way of doing business with all new clients.\""
+    }
+  ]
+}

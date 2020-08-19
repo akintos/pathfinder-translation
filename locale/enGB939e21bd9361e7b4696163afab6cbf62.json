@@ -1,0 +1,161 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "625af87d-28fd-4419-be06-ba85384aad2a",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "f94afefc-4206-4c4d-96a8-27ec1841bcf5",
+      "Value": "\"Why were you looking for me?\""
+    },
+    {
+      "Key": "97d05f4f-b547-48df-9bca-a5b42ed2df09",
+      "Value": "\"What are you doing with these fey?\""
+    },
+    {
+      "Key": "fbf3c6dc-0747-4221-ab1b-80915f2ef731",
+      "Value": "[Attack] \"You shouldn't have looked for me unless you were looking for death.\""
+    },
+    {
+      "Key": "166fe178-805d-4820-a86a-45fc0944b4eb",
+      "Value": "\"I don't have time for your nonsense. Farewell.\""
+    },
+    {
+      "Key": "b1103b7e-d7f8-402c-aaa6-994aaf542152",
+      "Value": "\"Tell me about your order.\""
+    },
+    {
+      "Key": "6f247165-1664-43f4-acab-b99008245288",
+      "Value": "\"What does this trial consist of?\""
+    },
+    {
+      "Key": "a9f15da4-8183-47c9-bad0-5b38fe95d2a0",
+      "Value": "\"I agree to undergo your trial.\""
+    },
+    {
+      "Key": "f01706d9-00fd-467a-b3d6-7bd6ac4b76b8",
+      "Value": "\"I worship Shelyn. Your words ring familiar and true to me.\""
+    },
+    {
+      "Key": "02739f1d-1346-49ac-9256-651adf739b48",
+      "Value": "\"I worship Sarenrae. Your words ring familiar and true to me.\""
+    },
+    {
+      "Key": "889f0383-5a96-4b23-a321-a121095d3d22",
+      "Value": "\"I worship Irori. Your words ring familiar and true to me.\""
+    },
+    {
+      "Key": "61e93059-f990-494c-a70e-5a1b901c109b",
+      "Value": "\"I worship Iomedae. Your words ring familiar and true to me.\""
+    },
+    {
+      "Key": "95c9f6f1-f464-4f98-a04a-769188a7f4ea",
+      "Value": "\"I worship Erastil. Your words ring familiar and true to me.\""
+    },
+    {
+      "Key": "0c46b7c9-812d-4d8b-a10f-5fce62e643bf",
+      "Value": "\"I worship Abadar. Your words ring familiar and true to me.\""
+    },
+    {
+      "Key": "ae097949-8406-41dc-b215-ccfb7af1c8b4",
+      "Value": "\"I worship Asmodeus. You think your philosophy would be of interest to me?\""
+    },
+    {
+      "Key": "d3dbb28d-ca9c-4648-a726-ab67659af90e",
+      "Value": "\"I worship Zon-Kuthon. You think your philosophy would be of interest to me?\""
+    },
+    {
+      "Key": "04dee326-4210-411a-bb60-b3659bb3528b",
+      "Value": "\"I worship Urgathoa. You think your philosophy would be of interest to me?\""
+    },
+    {
+      "Key": "6a7ac305-b167-4c0f-bea4-722160686558",
+      "Value": "\"I'm an atheist. I've no interest in religious orders.\""
+    },
+    {
+      "Key": "a4d93d37-2bee-432f-b2ba-6cdb568f2859",
+      "Value": "\"I worship Gorum! Do you really intend to preach pacifism to me?\""
+    },
+    {
+      "Key": "15025ee3-4bfa-4a23-8d60-4f19ad2aac68",
+      "Value": "{n}A satyr and a nymph are watching a dark-skinned elf whose arms are dancing, gracefully making magical gestures in a sort of ritual. Noticing you, she stops her ceremonial dance and greets you with a light bow – respectful and dignified.{/n}"
+    },
+    {
+      "Key": "80514544-b512-4b68-bf14-faefd2b1c259",
+      "Value": "\"You are {Name}, warrior-{mf|king|queen}, the first to bring peace to the {g|Stolen Lands}Stolen Lands{/g}. I sought a meeting with you, and fate has allowed our paths to cross. My name is Kamala.\""
+    },
+    {
+      "Key": "1345225d-8928-45dc-9d27-30d64931be96",
+      "Value": "\"Kamala the Phoenix from the Suramgamin Order, humble follower of the Wise Way of teacher Avalo.\""
+    },
+    {
+      "Key": "9d4a916f-7782-4b71-9138-36b34bd86e1d",
+      "Value": "\"Mysterious and sinister events are happening in your lands. The border between worlds grows thin – and someone's hand reaches through it, plotting the deaths of you and your subjects. My brothers and sisters from the Suramgamin Order have come to help you stand firm against this unknown enemy – if you desire our help... And if you pass our trials and prove you are worthy of it.\""
+    },
+    {
+      "Key": "5ae9aba3-50c2-4ad5-9ccb-122582276644",
+      "Value": "\"They were brought into this world unwillingly, and their mischievous temper could mean a lot of trouble for the local people. The border between worlds here is thin and feeble, like the worn-out cloth of a monk's frock. I have charmed them to sit still for a bit, while I prepare to send them home.\""
+    },
+    {
+      "Key": "5b542785-11f8-4a20-b6ed-894f0b04dd71",
+      "Value": "{n}The Suramgamin Order is relatively unknown, but you've heard stories. They are followers of good and order, whose teacher Avalo, a native of {g|Jalmeray}Jalmeray{/g}, preaches complete non-violence.{/n}"
+    },
+    {
+      "Key": "9f4251ed-a54d-417a-afe1-2097afc11bc0",
+      "Value": "{n}You've never heard of this order, or a teacher of wisdom known by this name.{/n}"
+    },
+    {
+      "Key": "891edb92-764d-41c9-bfdd-cf4706d99a46",
+      "Value": "\"This is unfortunate. Very well, Your Highness, we will trouble you no more.\""
+    },
+    {
+      "Key": "efe17e45-8656-428b-b217-d8df308f1d29",
+      "Value": "\"Teacher Avalo founded our order to help people who walk the path of good remain steadfast, and to give those who've lost their way a place to come back to. The backbone of our philosophy is non-violence. This doesn't mean we are helpless, but we believe there is a future when no one in our world will wish to take up weapons against their neighbor.\""
+    },
+    {
+      "Key": "67a3fa78-d639-4d0b-bd97-6b4254229dc6",
+      "Value": "\"The heart of the way is practice. The ability to subdue anger, negotiate without threat, to quell a conflict before a spark becomes a fire – I imagine the {mf|king|queen} must be familiar with such things? With your permission, I would like to test you – here and now.\""
+    },
+    {
+      "Key": "6a6f6ec8-7182-4853-a5f1-062e37db2fa3",
+      "Value": "\"Fine. Let's begin!\""
+    },
+    {
+      "Key": "97876fc8-9230-4ff2-93dc-ed1a1132c41b",
+      "Value": "\"Look at these fey. I charmed them so they wouldn't interfere while I open a portal into their native world. I will release them now. To pass the trial, you must convince the fey to remain still, while I prepare to send them home. Try to do this without threatening them... And don't let them charm you!\""
+    },
+    {
+      "Key": "0796a6ff-c645-45c2-b191-917c6d0b3dfc",
+      "Value": "\"What? A whole world without fights? Then what would we do? Just lie around and get fat? I'd like to see you try teaching beasts and monsters to be peaceful — and how the peace lovers who follow you would handle them!\""
+    },
+    {
+      "Key": "e047d561-3c05-4e29-bbda-9e231dbe82f5",
+      "Value": "\"I am not familiar with these teachings, but they sound very similar to {g|Sarenrae}Sarenrae{/g}'s faith. It is amazing, but I think this is someone who surpasses us in peacefulness.\""
+    },
+    {
+      "Key": "88ba911f-5c10-4d24-b246-2481b3a7cc7c",
+      "Value": "\"I hear peace and wisdom in these words. Like the sound of the sea within a shell. If there ever comes a day when the fire of anger fades from the world, I would like to see its dawn.\""
+    },
+    {
+      "Key": "e18ae1e8-1517-40d9-bc42-35a2e1065ec9",
+      "Value": "\"Heat cannot be separated from fire, as anger cannot be separated from a living soul. Teaching peace for all is a lie, a dream, or just folly.\""
+    },
+    {
+      "Key": "784a3aa5-408b-4a6c-ba82-d64590f425f5",
+      "Value": "\"No wonder! That's one of the deities Master Avalo studied to glean some of the grains of truth he used to build his philosophy!\""
+    },
+    {
+      "Key": "30012338-4421-4d23-ba16-184861781e17",
+      "Value": "\"We know you pray to an evil deity. Still, we wanted to take a look at you and see for ourselves — are you really so evil? Could there yet be seeds of goodness sleeping deep in your soul?\""
+    },
+    {
+      "Key": "ec9069df-f8b5-4203-8823-298fd7f03486",
+      "Value": "\"It doesn't matter. There are atheists among us, too. We don't blindly follow deities — we simply use their lessons to help us become better people.\""
+    },
+    {
+      "Key": "deb53b50-f501-4166-b086-b47d01244200",
+      "Value": "\"We know that you pray to the god of war. Still, we wanted to take a look at you and see for ourselves — are you really so dedicated to chaos and destruction? Could there yet be seeds of order sleeping deep in your soul?\""
+    }
+  ]
+}

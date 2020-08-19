@@ -1,0 +1,153 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "ad0dcdc7-9c49-4224-9830-a5b76e337863",
+      "Value": "\"How is the kobold settlement faring?\""
+    },
+    {
+      "Key": "f0f1a4cd-e420-4492-b52c-13799335665a",
+      "Value": "\"I still want to understand what happened to you. So you came back to life and turned into a kobold, Tartuccio?\""
+    },
+    {
+      "Key": "a9a0c40e-d7b0-4703-80d0-15a1fb72bdf3",
+      "Value": "\"By now you should know much about kobolds. Tell me about your people.\""
+    },
+    {
+      "Key": "d381e1ed-ea9d-4135-9d87-914fd47fec9e",
+      "Value": "\"I'd like to visit the dungeon.\""
+    },
+    {
+      "Key": "a0dde89f-0417-4b4d-960f-d9c821487a71",
+      "Value": "\"I should go.\""
+    },
+    {
+      "Key": "b1b697f8-3193-43da-9ece-58c6911f9900",
+      "Value": "\"Aren't you a bit, um, small to call yourselves dragonkin?\""
+    },
+    {
+      "Key": "6b5a576e-ead8-49b8-ae78-70b55053e53e",
+      "Value": "\"Dragons, you say? Your people have common roots?\""
+    },
+    {
+      "Key": "c759b530-310e-433b-b536-8800f0399d7a",
+      "Value": "\"Do you worship any gods?\""
+    },
+    {
+      "Key": "65af53d1-8e27-4f86-9854-1686e510d2f3",
+      "Value": "\"It seems like kobolds can survive anywhere.\""
+    },
+    {
+      "Key": "c8c17bdf-16b3-4615-8d80-719e6841f307",
+      "Value": "\"You're quite a warlike people. Couldn't even maintain your alliance with the mites at the Old Sycamore. Are kobolds peaceful with anyone?\""
+    },
+    {
+      "Key": "8adf91ac-1e2a-4d7f-9e89-e5d751f9061d",
+      "Value": "\"Let's talk about something else.\""
+    },
+    {
+      "Key": "4677b294-551a-46d5-a0cb-5a83104086a0",
+      "Value": "\"There could have been something valuable in there!\""
+    },
+    {
+      "Key": "fcc67429-c8dd-4718-a7d9-a32ee247cf16",
+      "Value": "\"You did the right thing. What's done is done.\""
+    },
+    {
+      "Key": "b80a8dc9-d752-4e3a-a6ea-8ed04516e9c9",
+      "Value": "\"So, your people haven't overthrown you yet?\""
+    },
+    {
+      "Key": "749e2164-cdbe-4856-a8c2-68ab52c0619d",
+      "Value": "\"I hope there have been no incidents with my other subjects. If I were to hear of any attacks or robberies...\""
+    },
+    {
+      "Key": "6e21d4fc-e965-4f68-ada5-be66597d10d4",
+      "Value": "[Attack] \"I grow tired of you vermin!\""
+    },
+    {
+      "Key": "5a529094-0688-4eb9-a00b-ca84e989590a",
+      "Value": "\"Does your tribe have dealings with the Sootscale Tribe?\""
+    },
+    {
+      "Key": "1f81463a-2368-4d17-ac75-b342b4a82159",
+      "Value": "{n}Tartuk watches as you approach. You can see his cold eyes peering at you through the sockets of his horse-skull helmet.{/n} \"Ssso. Here {mf|Baron|Baroness|King|Queen} comesss.\" {n}Tartuk speaks slowly and deliberately.{/n} \"How... may I... ssserve?\""
+    },
+    {
+      "Key": "18e69e2c-33a3-488f-baf9-def158dcba89",
+      "Value": "\"Yes, Your Grac-ssse?\""
+    },
+    {
+      "Key": "a0bdb750-9641-4eca-9964-6fd1bc5c7cc8",
+      "Value": "{n}Tartuk turns his head and watches you with a glint in his eye.{/n} \"Sssplendid. Kobolds have their own plac-ssse now. Their kingdom. Silenc-ssse. Darknesss. Plenty of animalsss in the foressst, and no one bothersss koboldsss.\""
+    },
+    {
+      "Key": "11d9d762-34b5-4e1e-b35b-c59a96005def",
+      "Value": "\"Old dungeon isss gone. We collapsssed the c-ssseilingssss, dug new tunnelsss. Now koboldsss dig their densss. Widen the tunnelsss. Lay trapsss.\""
+    },
+    {
+      "Key": "b4fb74ef-fd03-4db7-8a06-9e30f833b8a5",
+      "Value": "\"What do you wisssh to know about the dragonkin?\""
+    },
+    {
+      "Key": "1ee65868-f6d4-4ace-9a3e-11fb813fe9a2",
+      "Value": "\"Marauder? Here.\" {n}Tartuk gestures toward another nearby kobold with his chin.{/n} \"He'sss asss curiousss asss you. Sssnatched much troll rubbisssh from the old dungeon. Asssk him. He tradesss.\""
+    },
+    {
+      "Key": "7b91c6ab-e9c1-4063-879d-d40245393d71",
+      "Value": "{n}Tartuk lowers his head.{/n} \"We wanted a fresssh ssstart. No more deathsss. Not koboldsss, nor humansss.\""
+    },
+    {
+      "Key": "ba348912-f665-45d4-9d64-9ca398bfd351",
+      "Value": "\"Yes, {name}. Many legendsss keep the memory of our creation. Let me tell you one. Long, long ago, there were only two beingsss, Apsssu and Tiamat. They were the anc-sssessstorsss of the godsss, and of the universsse itssself. They created many deitiesss, but the greatessst of them wasss Dahak the Dessstroyer, with the everburning fire in hisss heart. Where othersss wanted to create, Dahak wissshed only to burn and kill. Even hisss own offssspring could not avoid hisss wrathhh.\""
+    },
+    {
+      "Key": "ca7c2c2c-c3f5-48ec-90de-76c170d5cb01",
+      "Value": "\"Countlesss dragonsss fell victim to Dahak'sss wrathhh. There were ssso many deathsss, Apsssu himssself dec-sssided to ssstand againssst thisss madnesss and ssstop hisss own ssson. When the two dragonsss classshed, the world trembled under their feet. The sssky boiled from the flapping of their wingsss. The young world hasss never ssseen a battle more furiousss than that of Apsssu the Creator and Dahak the Dessstroyer. Finally, asss Dahak began to overpower hisss father, Apsssu fled the battle, leaving hisss ssspawn in the ruinsss. He barely sssurvived.\""
+    },
+    {
+      "Key": "b3d46a90-0120-4200-8456-3494e4497eab",
+      "Value": "\"The triumph of Dahak did not lassst long. When the veil of rage fell from hisss eyesss, he sssaw what he had done. A ssstrange pain hit the heart of the Dessstroyer — for the firssst and lassst time, he ssshed tearsss of ssshame over the dead bodiesss of ssslain dragonsss. Rainbow-colored tearsss fell on the ssscorched ground — and each of great Dahak'sss tearsss became a kobold, whossse ssscalesss were the sssame color asss the tear that gave them birthhh.\""
+    },
+    {
+      "Key": "23d9c75a-08a1-4d7a-aa33-78bf659c8b48",
+      "Value": "\"But our kin is ssso numerousss! All corners of the earthhh are digged with our tunnelsss. There isss no mountain we cannot dig beneathhh. There are no depthsss we can't reach!\""
+    },
+    {
+      "Key": "617a5c0d-4828-4642-8954-58f14be5b758",
+      "Value": "\"Dragonsss themssselvesss pay tribute to our kin and bid usss ssserve them. Only koboldsss have the sssacred duty of protecting and sssafeguarding dragon eggsss! You may mock our sssizzze as you wisssh, {mf|baron|baroness|king|queen}, but you mussst know — we ssshare the sssame blood of our great anc-sssessstorsss.\""
+    },
+    {
+      "Key": "345a3765-8331-4c82-a6b9-83181254ed4b",
+      "Value": "\"Each tribe worssshipsss a divine patron. We? We're dessscendantsss of Dahak the Dessstroyer, Father of Dragonsss, Primogenitor of Koboldsss. Our tribe dedicatesss ritualsss to Dahak and Dahak only.\""
+    },
+    {
+      "Key": "7e968be0-e4e5-4eae-b3b6-cce9f8b73604",
+      "Value": "\"There isss no plac-ssse kobolds can't sssurvive. If the sssurfac-ssse isss dangerousss, we dig tunnelsss and go under. If sssomeone followsss usss, they perisssh in our trapsss. If the enemy passsesss the trapsss — they die becaussse of poissson in our flesssh!\""
+    },
+    {
+      "Key": "710dfb11-219e-416e-a209-f75bcb40df62",
+      "Value": "\"Dessscendantsss of dragonsss have no need for alliesss.\" {n}Tartuk squints at you.{/n} \"Unlesss we have no other choic-sssesss.\""
+    },
+    {
+      "Key": "da7032a8-31bc-432d-a558-48b23f7e37f4",
+      "Value": "{n}Tartuk looks at you with unblinking eyes.{/n}"
+    },
+    {
+      "Key": "19413319-f092-4338-be8e-6bbdafc312b4",
+      "Value": "\"Overthrow? Why would they? I gave them home. Essstablissshed the colony. It did not work out ex-sssactly asss planned, but ssstill. Koboldsss are loyal to me like never before.\""
+    },
+    {
+      "Key": "3a95922a-cabb-40ec-ba47-1a4f2c4c14f8",
+      "Value": "\"Koboldsss remember kindnesss.\" {n}Tartuk interrupts.{/n} \"Koboldsss remember merc-sssy. I promisssed to be your vasssal. I keep my promissse. Koboldsss have no need to intrude on humans — woodsss and dungeonsss provide enough plac-ssse for usss.\""
+    },
+    {
+      "Key": "f0129a66-e463-4bdb-bbdb-13e840f682d5",
+      "Value": "\"I couldn't make an allianccce with the trolls, but you gave me a chanccce. A chanccce for all the koboldsss.\""
+    },
+    {
+      "Key": "7edce019-c637-4b70-bfb6-800f7b01aa40",
+      "Value": "{n}Tartuk wheezes indignantly.{/n} \"No! Chief Sssootssscale said he would ssskin me as a trickssster and a traitor! Very well, I will not ssscatter these nobodiesss, sssince they are your alliesss. But if they become ussselesss... jussst let me know!\""
+    }
+  ]
+}

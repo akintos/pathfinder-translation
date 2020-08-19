@@ -1,0 +1,129 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "c5eed1c1-a5dd-426a-9f60-5c3ca3381591",
+      "Value": "\"I'd like to learn more about you.\""
+    },
+    {
+      "Key": "da8e4e13-25e1-4abc-a28d-33bd1669af80",
+      "Value": "\"I need to discuss politics and affairs of the {mf|barony|barony|kingdom|kingdom} with you.\""
+    },
+    {
+      "Key": "2ac01861-40b0-4ac6-af4d-3e9dfd007144",
+      "Value": "\"What's the situation between the Royal House Surtova and the Aldori Swordlords?\""
+    },
+    {
+      "Key": "51a95052-8cc2-44b3-b148-03125c58e802",
+      "Value": "\"What can you tell me about the River Kingdoms?\""
+    },
+    {
+      "Key": "5c5d7df5-1f73-49a3-88c3-940fa22071dc",
+      "Value": "\"I have questions on other topics.\""
+    },
+    {
+      "Key": "be35f4e1-1321-452c-9916-5be8020c3424",
+      "Value": "\"Thank you. We'll speak another time.\""
+    },
+    {
+      "Key": "f17cfcba-db90-4026-a501-45a6aea9f6f0",
+      "Value": "\"Indulge my curiosity — do you have family? Close relatives?\""
+    },
+    {
+      "Key": "b1d87e60-6d63-4218-be80-3039c3858f7c",
+      "Value": "\"You must have seen a lot over your years of diplomatic service. Do you have any stories that stick out as particularly interesting?\""
+    },
+    {
+      "Key": "54300a3b-0f4f-4c4b-96c6-2effdcc8d976",
+      "Value": "\"Thank you. Let's speak of less personal matters.\""
+    },
+    {
+      "Key": "c583f9cf-52b2-40f1-a31e-62f2325da996",
+      "Value": "\"How long will you be staying with us?\""
+    },
+    {
+      "Key": "65168e38-fd64-4379-8eca-b4899b60b58e",
+      "Value": "\"I'm looking for new advisors to assist in governing the country. Would you consider taking a position?\""
+    },
+    {
+      "Key": "aed257d9-3fd8-47ec-b908-725cdbe2a087",
+      "Value": "\"Do you like your new position?\""
+    },
+    {
+      "Key": "00e460f7-7bab-4626-bb0e-3c4c1fe17898",
+      "Value": "{n}Shandra Mervey, envoy from the Royal House of {g|Brevoy}Brevoy{/g}, bows her head courteously.{/n} \"{mf|Baron|Baroness|King|Queen}, it's good to see you!\""
+    },
+    {
+      "Key": "508d1efb-1161-457c-965b-e06258b920fd",
+      "Value": "\"That is what I'm here for, {mf|Your Grace|Your Grace|Your Highness|Your Highness}.\""
+    },
+    {
+      "Key": "6544dcab-4570-449f-ab32-dad795b87970",
+      "Value": "\"Answering this question will involve delving a bit deeper into history. You're surely aware that the {g|House Surtova}Surtovas{/g} and the Aldori each ruled their own sovereign kingdoms in the past. When {g|Choral}Choral the Conqueror{/g} invaded our lands, his might was incontestable. The Surtovas recognized this and bowed to him, exchanging their crown for status as a noble house. They were able to not only retain the house's influence in the region, but also save the lives of their subjects.\""
+    },
+    {
+      "Key": "ef4f89f7-4c89-4298-adcd-90f1b4d66d66",
+      "Value": "\"In typical Aldori fashion, they chose to mount a reckless campaign against {g|Choral}Choral's{/g} forces without so much as scouting the size of his army. As a result, their own armies were decimated when they encountered his red dragons. But instead of taking a lesson from the tragedy, the {g|Swordlords}Swordlords{/g} chose to nurse their grievance over the past two hundred years — and now they may have finally found a way to strike back.\""
+    },
+    {
+      "Key": "bc9994b9-dfe1-4866-8cdd-21ba998c43b7",
+      "Value": "\"The Aldori aren't even a true noble house. They're a motley rabble of upstarts who take their name after they learn the secrets of the {g|Swordlords}Swordlords{/g}' dueling style — there's little actual noble blood spread among them. But they're impulsive and ambitious — they obsess over the past, rather than focusing on the current and future prosperity of {g|Brevoy}Brevoy{/g}. They need to be controlled, and {g|House Surtova}House Surtova{/g} can see that clearly. That's the situation as I understand it, {mf|Your Grace|Your Grace|Your Highness|Your Highness}.\""
+    },
+    {
+      "Key": "964236a1-df96-40fc-aba3-50a334d2bd0f",
+      "Value": "\"You are well within your rights, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. What would you like to know?\""
+    },
+    {
+      "Key": "711e118c-ab64-43fd-aa30-dfaacad77e75",
+      "Value": "\"An interesting story, you say? Well, I once had to spend a summer in Artume. This small kingdom in the {g|River Kingdoms}River Kingdoms{/g} suffered from frequent bandit raids, and one gang in particular, practically a small army, was especially troublesome. They had somehow managed to find an informant from within the court — this unfortunately gave them plenty of information to interfere with trade in the area, including trade with {g|Brevoy}Brevoy{/g}.\""
+    },
+    {
+      "Key": "38e7cb50-67b8-484a-8111-c17ffdec2fad",
+      "Value": "\"I announced to the court that I was awaiting the arrival of a particularly valuable caravan, and Artume's rulers were to take measures to ensure its safety. A squad was sent to meet the caravan, but the bandit gang struck and swiftly slaughtered the soldiers, capturing the cargo. The bandit leader was triumphant, and three merry bards started spreading news of his victory far and wide.\""
+    },
+    {
+      "Key": "e5a99238-8e75-43d0-8355-3958c2dd0e7c",
+      "Value": "\"The next day, a different gang attacked the first, hoping to seize the treasure from them. A week later, two more gangs entered the fray, and then more and more... Eventually, all the Brevic guards had to do was recover the stolen goods from a field of corpses. So, for the cost of three bards' time, we were able to protect our merchants and expose the bandits' informant from the court. I hope this simple tale can provide some insight to you, {mf|Your Grace|Your Grace|Your Highness|Your Highness}.\""
+    },
+    {
+      "Key": "4928c280-01aa-4fca-806e-46166b78811c",
+      "Value": "\"Of course. A daughter and two grandsons. The boys are a bit spoiled, but they show promising talent — I hope they'll go far.\" {n}Shandra shakes her head, a faint smile on her face.{/n}"
+    },
+    {
+      "Key": "1765512c-5bca-4ad6-afb6-a011127a8797",
+      "Value": "\"Now, if you were to ask me where they live, I would have to promptly redirect the conversation. The first thing any good diplomat learns is to hide their weak spots. In all of {g|Brevoy}Brevoy{/g}, only Lady Natala and {g|King Noleski Surtova}King Noleski{/g} know where my family lives.\""
+    },
+    {
+      "Key": "60e2cede-8d68-4c75-bc74-868c4258ec31",
+      "Value": "\"{g|River Kingdoms}The River Kingdoms{/g} are useful to {g|Brevoy}Brevoy{/g} — we sell the majority of our exports there. I personally spent a great deal of time there representing the interests of {g|House Surtova}House Surtova{/g}. My job was to help the River Kingdoms prosper, while at the same time helping them grow fat bellies rather than steel muscles, if you take my meaning. These lands can certainly be appealing, in their own way, but if I was asked to describe them in one word, it would have to be 'chaos'.\""
+    },
+    {
+      "Key": "6d2626a4-d343-4599-a7f3-e94aa0a0bd80",
+      "Value": "\"From a political standpoint, only {g|Pitax}Pitax{/g} and its ruler, King Irovetti, have any real power worth watching — both as an ally and as a potential enemy.\""
+    },
+    {
+      "Key": "8ec7d158-e4f5-49d3-995c-58c719d34584",
+      "Value": "\"Ask, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. I'm happy to help.\""
+    },
+    {
+      "Key": "26506410-55e5-4263-b0df-3a7c9589be7f",
+      "Value": "\"Of course, {mf|Your Grace|Your Grace|Your Highness|Your Highness}.\""
+    },
+    {
+      "Key": "6ca421e3-d5e2-42cb-a3c8-de89be0c1041",
+      "Value": "\"I'll remain for as long as Lady {g|House Surtova}Surtova{/g} deems it useful. You need the advice of an experienced advisor, so I'll provide you with information to the best of my ability until my lady calls for my return.\""
+    },
+    {
+      "Key": "1688bed3-f944-486c-9fe2-d86dfcbf9c35",
+      "Value": "\"{mf|Your Grace|Your Grace|Your Highness|Your Highness}, my whole life I've been a councilor, and I don't see myself in any other role. I am well familiar with all the mechanisms that help to ensuring the loyalty of the citizenry — or at least a part of it. If you assign me to this position, I'll direct all my knowledge and experience to your benefit.\""
+    },
+    {
+      "Key": "fc9fb9fa-815a-4c65-b218-df3b25798369",
+      "Value": "\"Whether I enjoy a thing is not a point for discussion. By my estimation, your polite words are a way to express concern over my ability to fulfill my obligations. I assure you, I haven't encountered any situation I was not equal to. I shall seek audience with you only in cases where I believe the problem demands the ruler's personal decision.\""
+    },
+    {
+      "Key": "a0bb8189-d3bf-42df-bae4-213d69c72ae3",
+      "Value": "{n}Shandra takes a barely noticeable breath before speaking.{/n} \"As prior experience has shown, we have unresolvable differences in our opinions regarding the country's governance. Perhaps I should step back and give someone else a chance to be your advisor.\""
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "1cddf401-1e14-41e6-b35f-fd0d509004cc",
+      "Value": "\"And?\""
+    },
+    {
+      "Key": "e2230acb-110a-49b0-91f4-7ebde7559cd1",
+      "Value": "\"Are you scared?\""
+    },
+    {
+      "Key": "66e3121f-669c-46e2-b50a-37fc4cf1d235",
+      "Value": "[Wait for her to continue]"
+    },
+    {
+      "Key": "b11680f7-9951-4ea4-8f09-7664db0201cf",
+      "Value": "\"They admitted they were wrong?\""
+    },
+    {
+      "Key": "4ce04288-f257-4552-8c5e-2522c7a805c0",
+      "Value": "\"They invoked some formality and declared your initiation invalid?\""
+    },
+    {
+      "Key": "50403da4-266e-4e49-8a5e-00c8826c7922",
+      "Value": "[Wait until she continues]"
+    },
+    {
+      "Key": "420501ea-292b-44a9-a8d9-2b329c67857b",
+      "Value": "\"Must you really slay him in single combat? It'll take our whole party to bring this Tuskgutter down!\""
+    },
+    {
+      "Key": "27d44332-cf4b-405e-bf6a-5fd7b186e8bc",
+      "Value": "[Join with Amiri and attack Tuskgutter] \"I see. Come on, to battle!\""
+    },
+    {
+      "Key": "09f65e95-89fe-4b48-97b1-2a1c80be7042",
+      "Value": "[Attack Tuskgutter] \"I see. Come on — to battle!\""
+    },
+    {
+      "Key": "035dd0fd-c402-42e4-8f50-669da27ac5c5",
+      "Value": "[Leave Tuskgutter's lair] \"A fight like this requires some preparation.\""
+    },
+    {
+      "Key": "488642bd-d7f0-49bc-af9f-841b7f59d1d0",
+      "Value": "\"I've never heard anything more stupid. We won't waste our time on your silly rituals.\""
+    },
+    {
+      "Key": "bb847153-5990-40aa-9812-efd7c3fac4e8",
+      "Value": "[Kick Amiri out of the party] \"You may leave. I'll manage without you.\""
+    },
+    {
+      "Key": "06ba75d1-52ed-41e2-af88-5dd8102a7a4d",
+      "Value": "\"So, here we are. The monster is here, and… Now I'll tear him apart! Yes! Just watch me!\""
+    },
+    {
+      "Key": "787331ec-0845-4433-8452-8f2be698b0ea",
+      "Value": "{n}Amiri waits near the entrance to the beast's lair. As she sees you, she bares her teeth in her usual grin, but this time it looks a bit forced.{/n} \"Ah, there you are. So, are you ready to watch me rip this piggie's tusks out? Because I'm, kind of, erm... ready.\" {n}She winces in hesitation, shifting her feet.{/n}"
+    },
+    {
+      "Key": "68f3267c-d060-4c6d-82df-8997878643f2",
+      "Value": "\"Don't interrupt me!\" {n}Amiri blurts out, as if anticipating being cut off.{/n} \"I speak on, when... I speak on!\" {n}She grunts, and her eyebrows narrow.{/n}"
+    },
+    {
+      "Key": "398b242e-bfdc-45e3-90e0-5109ca67fcc6",
+      "Value": "\"Wha-? Who, me?!\" {n}Amiri blushes, then pales, then bursts out laughing.{/n} \"Ha! You're funny! Am I scared of some pork chop?!\" {n}She falls silent with a smile, shaking her head.{/n}"
+    },
+    {
+      "Key": "ed5e750d-796a-4d4f-a714-cb10041a476a",
+      "Value": "{n}She clears her throat.{/n} \"There's a custom where I am from. A boy kills a monster in front of the elders, to prove he's man.\""
+    },
+    {
+      "Key": "2fc6f910-c943-4959-9874-1f4f1a1685bd",
+      "Value": "{n}The barbarian clears her throat in hesitation.{/n} \"In our tribe, girls don't get no initiation at all. So, I arranged my trial myself — like in the song about Kagul the Orphan. I downed a cave lion in a single combat! Here, see — the scars I got in that battle. And do you know what my elders did after I threw the lion's skin at their feet?\""
+    },
+    {
+      "Key": "702f9fc2-d524-453b-b525-2a44955fad51",
+      "Value": "\"Ha, ha. That's funny. In our parts, boys must do something rather different to become men!\""
+    },
+    {
+      "Key": "ea0bdd88-58fc-41bb-8185-d352b6f70659",
+      "Value": "{n}Amiri throws an angry glance at the half-elf, and Octavia falls silent — but her teasing smile remains.{/n}"
+    },
+    {
+      "Key": "fa4d4b5c-c83f-4c38-ba9d-8807577e73e4",
+      "Value": "\"I wish!\""
+    },
+    {
+      "Key": "186920d8-4633-445c-95d5-3b1df7455e88",
+      "Value": "\"They laughed in my face! They said I scratched my belly myself! And hired some man to kill the lion for me, in trade for... Ugh! Later they agreed my initiation, of course, they had no choice. But...\" {n}Amiri's voice wavers in anger, and she spits on the ground.{/n}"
+    },
+    {
+      "Key": "cfae0b57-5340-4e7c-afe9-6ad55f48cbbf",
+      "Value": "\"Dream on!\""
+    },
+    {
+      "Key": "1ec674c2-d892-4c64-9a41-799f19929739",
+      "Value": "{n}From a distance, Amiri examines Tuskgutter's muscular body and sharp tusks.{/n} \"Bah! You think I can't butcher a pig by myself? Though... if the elders saw the beast was about to kill the boy, they would help him. There is no shame in that... But it doesn't matter, I'm just saying! Now you stand and watch me gutting the beast!\""
+    },
+    {
+      "Key": "c7370e17-8cda-4bc9-8d34-7eadcf06f831",
+      "Value": "\"{g|Gorum}Gorum{/g} watch me!!\" {n}With a battle cry, the barbarian charges the boar.{/n}"
+    },
+    {
+      "Key": "b397a57e-2c23-4503-a6b8-43e8c4c3d549",
+      "Value": "\"Fine, just hurry up.\""
+    },
+    {
+      "Key": "acbcf990-f10e-46f4-a568-cba6b2d63113",
+      "Value": "\"Oh yeah?! Fine!\" {n}Amiri spits at your feet and leaves.{/n}"
+    },
+    {
+      "Key": "499dbd4f-c10e-4605-aaa5-55c93e9a251f",
+      "Value": "\"And here I thought men were stupid shit-for-brains only in my tribe!\""
+    },
+    {
+      "Key": "9f945553-09a4-4552-b348-2cb6aec1ac7b",
+      "Value": "\"Really? And here I thought you understand me, as a warrior woman!\""
+    },
+    {
+      "Key": "6298b733-d482-4069-a4e6-61419586c2eb",
+      "Value": "\"I need it, understand? If you are against it — you can walk. I find another chief!\""
+    },
+    {
+      "Key": "a28fedd6-9d46-4d28-aad8-b1e5b8806128",
+      "Value": "\"So, you ready? I'm itching to chop his tusks off!\""
+    },
+    {
+      "Key": "c8f36f01-4323-487a-86aa-101e6ff15300",
+      "Value": "{n}Amiri waits near the entrance to the beast's lair.{/n} \"So, you ready? I'm itching to chop his tusks off!\""
+    }
+  ]
+}

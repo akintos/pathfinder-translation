@@ -1,0 +1,141 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "875bf5a8-58b7-4958-b4dc-4362c446db26",
+      "Value": "\"I had a strange vision. A young man, and an old druid who tortured him — then they exchanged roles.\""
+    },
+    {
+      "Key": "8d00d2d8-d4d2-417f-8603-65a4d520d987",
+      "Value": "\"Tell me what to do next.\""
+    },
+    {
+      "Key": "b9310760-5843-4f89-8166-66f9519768c0",
+      "Value": "\"I'll return later. Farewell.\""
+    },
+    {
+      "Key": "0c61463d-7414-4ca5-a80c-f355222f40a9",
+      "Value": "\"I found the druid's notes. They mention a Temple of the Elk. Can this help us?\""
+    },
+    {
+      "Key": "f26f1304-b0ca-4d8c-b25c-28b9b61bf546",
+      "Value": "\"The druid's notes mention a cache he created using herbs. Do you know anything about that?\""
+    },
+    {
+      "Key": "1fd1f9d0-95af-43c5-b861-48f780316586",
+      "Value": "\"I have a clear goal now. I'll continue my journey.\""
+    },
+    {
+      "Key": "a3ea8625-c14d-4e34-83da-4fa2c10126cc",
+      "Value": "\"I need to ask you something else.\""
+    },
+    {
+      "Key": "5ad9a117-1ac1-4b22-b8e7-015a03f0f562",
+      "Value": "\"It's clear now. Farewell.\""
+    },
+    {
+      "Key": "b341fe33-934a-4ea5-bc1d-0533f21139e7",
+      "Value": "\"Would you stop following me? I've no intention of helping you.\""
+    },
+    {
+      "Key": "92fec91b-84b9-402f-878f-cd93b6ac7fbc",
+      "Value": "\"Tell me about yourself. I would like to know more about my ally.\""
+    },
+    {
+      "Key": "3b18fd43-f2e6-4e55-8607-1bcb91d0885d",
+      "Value": "\"Would you be willing to share the details of your story? About these evil powers, the enchanted forest, the monster?\""
+    },
+    {
+      "Key": "4b72a9b6-6bcd-4d5b-85ad-ad3ffbb395da",
+      "Value": "{n}The familiar outline of the nymph appears before you.{/n} \"I have been waiting for you. The flowers, birds, and wind told me you would come. Oh, my poor flowers — they will perish before long in this fog...\""
+    },
+    {
+      "Key": "c49ba640-3d22-4d26-a8fb-8ef750042c88",
+      "Value": "{n}The nymph lowers her head.{/n} \"Yes... Yes. The soil, water, and stones here are infused with toxic pain and fear. They poison this place as we speak. You have seen where your enemy's journey began. The one called Stag Lord was once the victim of a cruel madman — and has since become one himself. You see now how monsters are born. But what comes of regret for a thing you cannot change? There is no time to be lost — we must do away with the fog quickly.\""
+    },
+    {
+      "Key": "5914cf34-0f44-4ec0-b8c0-fd6e641ef77f",
+      "Value": "\"Search the area around the hut, try to find anything that remained of the druid who lived here. I am sure — the fog is his doing. This suffocating veil is as vicious as his nature. We should learn more about the fog and the ritual through which it was created. Return to me if you find anything. The past may hide the answers that shape the future\"."
+    },
+    {
+      "Key": "dd6f4765-258e-401e-a5c3-5833c86fdebd",
+      "Value": "\"I will be waiting...\" {n}The nymph whispers.{/n}"
+    },
+    {
+      "Key": "b98b3548-a47d-4f21-8500-19558f25e7c3",
+      "Value": "{n}The nymph reaches toward you.{/n} \"You come again. Did you find something?\""
+    },
+    {
+      "Key": "baa21ee0-8d6c-44b1-814b-5cba71f01e2b",
+      "Value": "{n}The nymph's blue eyes flare from within her pale face.{/n} \"An ancient temple, the Temple of the {g|Erastil}Stag God{/g}. Yes... Yes, that must be it! The place of power where the druid created the fog. Perhaps, we'll be able to cleanse it from there. The temple hides in the thicket not far from here. You'll need to go there and purge the place of whatever evil still lingers there, summoned by the druid's sinister ritual. Take care! You are my only hope...\""
+    },
+    {
+      "Key": "07505726-2095-4708-8b15-86e5ec2f41a5",
+      "Value": "\"I know little of the magic of people... But there is a trick we nymphs love to use. Herbs and flowers can keep secrets, as well as reveal them. Place an herb in a chest you wish to hide — it will conceal the treasure from strangers' eyes. Place the herb there again, and it will reveal what was hidden. If the druid used this trick, he probably chose simple herbs, likely those that can be found nearby.\""
+    },
+    {
+      "Key": "a853f6f5-68ad-4f26-82a3-1d78fd813b62",
+      "Value": "{n}The nymph stares at you sadly.{/n} \"Please hasten. I lose strength by the hour, and soon I will be unable to help you...\""
+    },
+    {
+      "Key": "5e2fa794-4354-44e7-8bce-491f6f4a1c53",
+      "Value": "\"Then hasten. Time is of the essence...\""
+    },
+    {
+      "Key": "e3bf6e47-8576-45b7-a359-b078d3e217c9",
+      "Value": "\"Oh! Mysterious talk with nobody!\""
+    },
+    {
+      "Key": "e958c996-fedb-4491-8f69-43df88613e4f",
+      "Value": "\"Speaking to the gods is best done in private. I can look away, if need be...\""
+    },
+    {
+      "Key": "6bd1217e-8b06-40fd-9c1f-c8535ae9a204",
+      "Value": "{n}It seems that only you can see or hear the nymph.{/n}"
+    },
+    {
+      "Key": "c3de5217-c875-4b91-92e4-c5934972d20e",
+      "Value": "{n}The nymph lowers her head.{/n} \"I have no one else I can ask for help. But I dare not insist. Please, return if you decide to listen or find yourself in need of advice.\""
+    },
+    {
+      "Key": "79cd20c5-a034-4634-9d12-cd9ecb4333e1",
+      "Value": "\"Who do you talk to? I don't see anyone. Should I be worried?\""
+    },
+    {
+      "Key": "685b1f83-6092-4ae5-b17c-0d3cd0b8e730",
+      "Value": "\"Not many have heard a voice from above... And fewer still are those who followed it to a positive outcome. \""
+    },
+    {
+      "Key": "d46f38f0-eb8c-45c6-9697-c4b0410c60c9",
+      "Value": "\"There was a guy in my tribe — kept walking around, listening to voices. After a while, they told him to jump off a cliff. Be careful what you listen to!\""
+    },
+    {
+      "Key": "68f128a0-cdd6-4103-8ce7-dc8889281e5d",
+      "Value": "\"Whoever you're speaking with... If they don't want your friends to overhear, maybe they aren't really looking out for you.\""
+    },
+    {
+      "Key": "a8f7e126-d527-44e1-bcea-5d6428d0724c",
+      "Value": "\"Be warned: unknown voices whispering to you from nowhere rarely have your best interests in mind.\""
+    },
+    {
+      "Key": "0ab60d31-4b67-4c4e-8a4b-74c516ac2e9c",
+      "Value": "{n}The nymph's eyes grow cloudy.{/n} \"Do you really wish to know? Fine, I'll tell you... a fairy tale. Once upon a time, there lived a young nymph. She lived in an enchanted forest, where thousands of birds sung day and night, where the sun often left a spark or two hanging in the tree crowns, and where the starlight fell on sleepy glades like a glowing soft haze...\""
+    },
+    {
+      "Key": "421a6ca5-95ba-415e-a0a0-f540870846e8",
+      "Value": "{n}The nymph's voice is quiet, but clear. As you hear it, you seem to sense the aroma of the forest glades, washed with the morning dew, mixing with the odor of spring meadows aflood with blooms.{/n} \"The young nymph loved simple things — like sitting by the stream with her friends, braiding each other's hair and adorning their braids with crystals made of dew. Or watching the flowers blooming. But inside her soul, the young nymph dreamed of something more.\""
+    },
+    {
+      "Key": "0cb5c5a4-819c-45fa-a4d5-cb2ad6874928",
+      "Value": "\"Oh, dreams... nothing in any world can live without them. Even a seed that falls in fertile soil, cannot sprout without the dream of the Sun. The same was true for our nymph — she wished to turn her enchanted forest into a true fairy tale kingdom, and fill it with thousands of wonders. But plans so ambitious rarely go unnoticed by greater powers...\" {n}New notes creep into the aroma of the forest and meadow. — Now you smell a storm coming.{/n}"
+    },
+    {
+      "Key": "d8ca5aab-cc2e-481d-a0a7-a21f7c143825",
+      "Value": "\"Those greater powers decided to punish the nymph for her boldness. They sent a horrible monster to poison the enchanted forest and kill the singing birds. The nymph... was forced to flee. And finally, she found shelter here, in the Stolen Lands. Here, she hoped to sprout the seeds of a new dream — even as she mourned the dream she'd lost. But then the magic mist appeared, killing everything that lived, and the nymph cast about, desperately searching for help. So far, these are the fairy tale's final words, but I hope this is not the end just yet...\""
+    },
+    {
+      "Key": "7ff28bea-2156-4605-8d53-aaac61832ddd",
+      "Value": "\"One day, perhaps… Perhaps I will tell you more. But it doesn't matter now. We need to concentrate on the problems at our doorstep — the Stag Lord, the druid, the mist.\""
+    }
+  ]
+}

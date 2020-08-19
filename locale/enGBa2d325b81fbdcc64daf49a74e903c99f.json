@@ -1,0 +1,405 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "e3f1b017-87d7-4110-8866-27e482db40fd",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "67421303-96d7-43a5-8173-a39cf3fd87a0",
+      "Value": "\"We're looking for a criminal who may have fled this way. Have you seen anyone suspicious?\""
+    },
+    {
+      "Key": "9b25a092-87b6-44c3-ba04-0d109d044fe0",
+      "Value": "\"What are you cooking, Tsanna?\""
+    },
+    {
+      "Key": "c778386d-1ba8-4d7b-9256-044e03fc97f5",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "46ecd708-5741-4a03-9705-6164a36ff2f8",
+      "Value": "\"What can you tell me about your masters?\""
+    },
+    {
+      "Key": "3d8cba7a-9eeb-496b-98ed-97c788594fcc",
+      "Value": "\"Why are they here, you think?\""
+    },
+    {
+      "Key": "c293274c-2908-4ce3-94a6-82182f3bc797",
+      "Value": "[Peek into the stewpot]"
+    },
+    {
+      "Key": "e98c2280-9410-4c29-b3fe-6d65a0e9a326",
+      "Value": "\"All right, that's enough about the Tedrims.\""
+    },
+    {
+      "Key": "7b83ceeb-4aa0-445f-a970-5ddc8fea7b44",
+      "Value": "\"The hostess of the lodge doesn't mind you cooking at her kitchen?\""
+    },
+    {
+      "Key": "71ccf633-0bb3-4967-99b7-8975c889e8e9",
+      "Value": "\"I've heard there was a commotion here in the kitchen.\""
+    },
+    {
+      "Key": "0de56c1c-29d2-420b-9fec-daa194c09d99",
+      "Value": "\"That's all I need.\""
+    },
+    {
+      "Key": "5aeb6d86-7219-487d-a55c-2f237a000237",
+      "Value": "\"It must be difficult to please nobles like the Tedrims. I imagine they ask for something new for each day's meal?\""
+    },
+    {
+      "Key": "c6b3f377-e1b6-4f1c-bd5b-83876d3975b0",
+      "Value": "\"All right, I won't trouble you any longer.\""
+    },
+    {
+      "Key": "56576520-e04e-4e6a-943a-fae41b621b06",
+      "Value": "\"I need the key to your room.\""
+    },
+    {
+      "Key": "e2ef4db5-5175-4415-99e4-18976a988410",
+      "Value": "\"Has anyone come into the kitchen recently?\""
+    },
+    {
+      "Key": "c33363f2-0729-4fb6-a5dd-2817e922fefc",
+      "Value": "\"You! You and your minions unleashed a blight across my lands! Because of you monsters overrun the barony, and honest people fear to leave their homes!\""
+    },
+    {
+      "Key": "6d0d30ad-49fb-4c37-a65d-c6127bff5904",
+      "Value": "\"Tell me who you are. Quick now.\""
+    },
+    {
+      "Key": "fd867cc4-5bb8-4fcb-80e7-e814e6c291af",
+      "Value": "\"Tell me about the cult of Lamashtu.\""
+    },
+    {
+      "Key": "24c1226f-d7d8-4531-83d3-8445bc1f60eb",
+      "Value": "\"What kind of rituals were you performing at the shrine?\""
+    },
+    {
+      "Key": "747e3dac-baf4-4fb9-88ba-c9b45ae193d4",
+      "Value": "\"Where are the rest of Lamashtu cultists hiding?\""
+    },
+    {
+      "Key": "d10922d9-cb81-4a29-9b5d-0f48975d21a9",
+      "Value": "\"Have you allied with goblins and other creatures in the area?\""
+    },
+    {
+      "Key": "f3aebe8e-cc57-4d89-9cef-1d4db24095d0",
+      "Value": "\"Enough about that.\""
+    },
+    {
+      "Key": "20968fff-7cff-4b80-9992-38b36b4ee3eb",
+      "Value": "\"All these people in the lodge — are they here because of you?\""
+    },
+    {
+      "Key": "c1886307-7484-4866-80d6-205702f0fc55",
+      "Value": "\"The couple from Restov — did they come to meet you?\""
+    },
+    {
+      "Key": "016b7787-e455-4336-b271-13629f1081ac",
+      "Value": "\"What's the story of merchant's widow?\""
+    },
+    {
+      "Key": "a12f90c6-699c-4958-9a6c-c831b7356508",
+      "Value": "\"Is the lodge hostess involved in all this?\""
+    },
+    {
+      "Key": "a4539983-787b-4cdb-bef2-23fbfd17678d",
+      "Value": "\"Enough.\""
+    },
+    {
+      "Key": "95ff44f5-718f-4a65-baae-a27fa65277ad",
+      "Value": "\"Kesten! I have an order for you!\""
+    },
+    {
+      "Key": "5553f67d-5b74-45db-ae10-ef07dafa6116",
+      "Value": "\"Arrest everyone except for the lodge hostess. I want them executed by morning.\""
+    },
+    {
+      "Key": "e478d04b-a482-4d83-9d07-3bd70b98a54f",
+      "Value": "\"Send these people home. The priestess of Lamashtu must be executed.\""
+    },
+    {
+      "Key": "8d5d84c9-a30e-4d49-afff-22a1c7d387b8",
+      "Value": "\"These people are innocent — let them leave. As for the priestess, she's banished from these lands forever. See to it she's removed from the barony at once.\""
+    },
+    {
+      "Key": "69265d0b-51b1-4b8f-bc55-d71e77ffc38a",
+      "Value": "\"I forgive all these people — even the priestess. Let them go.\""
+    },
+    {
+      "Key": "64d540b8-705b-44bb-ba51-37d28cb529ea",
+      "Value": "\"Fine, Olika. The priestess will perform her ritual for you, then Kesten will follow my orders. Servant of Lamashtu, are you ready to help this woman?\""
+    },
+    {
+      "Key": "9e8786c3-0abb-4b11-9dc5-e81da278d710",
+      "Value": "\"No, Olika. There is no place in my lands for such rituals. Kesten! Execute my order!\""
+    },
+    {
+      "Key": "15b73ddf-01a0-4b22-ac3f-508b4a3f600f",
+      "Value": "\"No, hold a moment. I want to ask the priestess something else.\""
+    },
+    {
+      "Key": "ff5f404d-4370-45cc-84cb-b3f137f4c361",
+      "Value": "\"It disgusts me to listen to this.\""
+    },
+    {
+      "Key": "6173392b-fe98-4e35-9e4c-32e65b021fb0",
+      "Value": "\"The more I hear about Lamashtu, the more I favor this goddess. What else can you share with me?\""
+    },
+    {
+      "Key": "9b822fb7-457f-4cfb-af72-0c65b75bc6f4",
+      "Value": "\"I'm not impressed by your attempts to wound my pride.\""
+    },
+    {
+      "Key": "d0f3df9a-a3d5-456f-a522-69530fad9369",
+      "Value": "\"I agree.\""
+    },
+    {
+      "Key": "17cc3d4b-134a-4015-8135-4b66716de3c0",
+      "Value": "\"I don't bargain with criminals!\""
+    },
+    {
+      "Key": "a5016dc1-6b98-4c4b-8af3-f9dd89d83858",
+      "Value": "\"I have nothing against Lamashtu and her flock. Priestess, you are free to go.\""
+    },
+    {
+      "Key": "961efbd0-219c-44d4-8975-c9e3e3c4fb28",
+      "Value": "{n}The kitchen servant is busy, grinding herbs within a mortar. She's wearing a dress, soiled with dark stains, and her hair is knotted in a bun with a few stray hairs poking free.{/n}"
+    },
+    {
+      "Key": "c0ab3d56-3948-4ce6-9049-479cf0f6b227",
+      "Value": "{n}The kitchen servant looks at you askew and keeps on grinding the herbs in the mortar.{/n}"
+    },
+    {
+      "Key": "333dbe4e-ebdd-413a-8c49-cc989ffa3d2c",
+      "Value": "\"Name's Tsanna, I cook for Tedrims, nobles from {g|Restov}Restov{/g}.\" {n}She wipes her hands with her apron.{/n} \"What will it be?\""
+    },
+    {
+      "Key": "5ad73477-a396-4b8b-8e5e-a63fe896e45c",
+      "Value": "{n}She throws a glance at the stove. {/n} \"That there's for tomorrow.\" {n}She hesitates.{/n} \"Tomorrow's mid-day meal, it is.\""
+    },
+    {
+      "Key": "6e4da2f9-88e8-4f1b-aa72-71fec1def409",
+      "Value": "{n}Tsanna frowns.{/n} \"No quicker road to trouble — talking about masters, that is.\" {n}She glances at your clothes and sighs.{/n} \"How would you like it if your servants were all a-gossip about you?\""
+    },
+    {
+      "Key": "3b6f7e8d-48a8-43ef-84ea-557ff80d09a9",
+      "Value": "\"None of my business. Might be they have things to do, but I wouldn't know it -I mend, I cook, and I serve when, where needed.\""
+    },
+    {
+      "Key": "ecd2509c-6491-43c0-aa50-17b33eba8237",
+      "Value": "{n}Tsanna doesn't react.{/n}"
+    },
+    {
+      "Key": "e598f5a7-0bfa-40c1-90cf-25045a5b7d36",
+      "Value": "\"What can be seen here, you say?\" {n}Tsanna snorts.{/n} \"Ask Dumra, she runs the house, she does.\""
+    },
+    {
+      "Key": "af9346a2-1cf5-448d-87b3-b0d0266adaec",
+      "Value": "\"As if she came here often herself!\" {n}She throws up her hands.{/n} \"Filth piled in corners, the floor sandal-deep in dirt… had to work my fingers to bones to clean the kitchen before I could start a proper meal in this…\" She curls her lip. \"...this cowshed.\""
+    },
+    {
+      "Key": "0bbe6dd1-d843-4d49-ae76-1870b6f2a3e6",
+      "Value": "\"Wha?\" {n}She looks at you, confused for a moment, then brightens.{/n} \"Ah! You meaning the pots. I knocked some off the stove. Haven't had time to hang them back up — that witch Dumra stormed here at once, all thundercloud-like! Howling as if I'd broken her finest crystal!\""
+    },
+    {
+      "Key": "611ff9f8-1a8b-422b-ab5b-f42cd9fd17ec",
+      "Value": "{n}She waves her hand and turns back to tend the stew boiling at the stove.{/n}"
+    },
+    {
+      "Key": "c31c03e9-4d4a-4366-9622-9ab9c5b9a39c",
+      "Value": "{n}You take the lid off the pan. Some brew boils inside. It looks strange and smells odd. You lean over, smell the stew...{/n}"
+    },
+    {
+      "Key": "60e54365-771d-41b0-9352-30987ddd6588",
+      "Value": "{n}…and immediately flinch: the acrid stink of vinegar feels like a punch in the face, besides you can smell some strange spice, which would be appropriate in a dessert, but not in a first course for dinner.{/n}"
+    },
+    {
+      "Key": "0071c3ca-8b20-40f1-8fd5-af370d790c78",
+      "Value": "{n}Tsanna thinks about it. {/n} \"Yes.\" {n}She hesitates, then nods.{/n} \"That's it, I s'ppose.\""
+    },
+    {
+      "Key": "ebfb670d-d360-42fb-a907-4dc70e1e8ada",
+      "Value": "\"You have my thanks.\""
+    },
+    {
+      "Key": "8f24c2c0-1d39-4440-ad6b-bc4f137099e9",
+      "Value": "\"Room?\" {n}She raises an eyebrow.{/n} \"I don't have a room 'cept here in the kitchen. Bed's a bench. Still — warm enough, though.\""
+    },
+    {
+      "Key": "2f9f85b3-d552-475c-bafb-60c4fef4dfa9",
+      "Value": "\"They pay regular, not stingy with their coin. They don't yell — much. So I count myself fortunate, I do.\""
+    },
+    {
+      "Key": "36d0542c-758e-4dff-8fa3-bd01e474216b",
+      "Value": "\"Only Dumra came.\" {n}She frowns.{/n} \"No doubt checking to see I'm not palming the silver. As if there's anything worth stealing here, so there's not.\""
+    },
+    {
+      "Key": "26e9a37c-da9e-498c-ba02-d726216496b2",
+      "Value": "\"Stop! Stop! I surrender! I surrender!\" {n}The priestess of {g|Lamashtu}Lamashtu{/g} holds her hands over her bleeding wounds, moaning in pain.{/n}"
+    },
+    {
+      "Key": "d2713fd2-a90d-4e2f-8cd4-18d8f3ffb3ed",
+      "Value": "{n}The priestess of {g|Lamashtu}Lamashtu{/g} shakes her head and tries to close her wounds, moaning.{/n} \"That's nonsense! I've heard the stories about what's happening in your barony, {race}, but I have nothing to do with this!\""
+    },
+    {
+      "Key": "db63bbee-a211-4f97-9cec-f9e3f54acad4",
+      "Value": "\"The Great Mother rules the monsters of this world. But if you had truly earned her wrath, your lands would be drowning in blood! No, {mf|baron|baroness}, you must look elsewhere to place blame — {g|Lamashtu}Lamashtu{/g} and her followers have nothing to do with your troubles.\""
+    },
+    {
+      "Key": "f6c1adea-6c80-4ee8-b3de-077f3a88f108",
+      "Value": "\"I am the priestess of the cult of {g|Lamashtu}Lamashtu{/g}, The Great Mother, The Ancestress of Monsters.\" {n}The priestess struggles to raise her chin, her voice a hiss. {/n} \"I'm not from these lands. I came because of the pleas of your people, who seek the mercy of my goddess.\""
+    },
+    {
+      "Key": "1db604b1-1268-46cf-8f09-dcb32c0be7d3",
+      "Value": "\"I came to these lands in secret and hid my identity from everyone except for those initiated in the mysteries of {g|Lamashtu}Great Mother{/g}. Even the hostess of this lodge had no idea who I was! And those looking for divine benefaction, found me on their own — and there are more than the followers of {g|Erastil}Erastil{/g} would believe!\""
+    },
+    {
+      "Key": "84c65fce-9e2b-4473-a2d9-8108129cfe3f",
+      "Value": "\"We are numerous and we are strong. The tribe of {g|Lamashtu}Lamashtu{/g} followers grows every day… breeds… and spreads over the lands of {g|Golarion}Golarion{/g} in search for places to create new packs.\""
+    },
+    {
+      "Key": "7be2f6c4-9ad7-46e6-b226-af894edf2fd3",
+      "Value": "\"We prayed to {g|Lamashtu}Lamashtu{/g}. We asked for new offsprings in the pack. We mated like wild animals, free of stupid prejudices...\" {n}Priestess' lips curve in a grin.{/n} \"I'll spare you the details, {race} — those like you are unable to accept the greatness of our ancient faith.\""
+    },
+    {
+      "Key": "4b53cbe0-aab4-4277-99cc-1512575df1d9",
+      "Value": "{n}The woman's face turns to stone.{/n} \"You cannot make me betray the children of Great Mother. Torture me if you like — {g|Lamashtu}Lamashtu{/g} will grant me the strength to endure any pain you inflict upon me.\""
+    },
+    {
+      "Key": "c815a232-adea-4778-a2a6-c3022b0f6a05",
+      "Value": "\"No. We have the same mistress, but our paths to faith are different.\""
+    },
+    {
+      "Key": "edc1769d-da98-422e-881f-b06f20db0d31",
+      "Value": "\"I held no illusions you could grasp the wisdom of my goddess.\""
+    },
+    {
+      "Key": "1b7fa172-80fa-44be-8e8e-92c85e6a3637",
+      "Value": "{n}The priestess shakes her head.{/n} \"They were searching for the blessing of {g|Lamashtu}Lamashtu{/g}. Other gods have denied them and they had to ask Mother of Monsters for her benefaction.\""
+    },
+    {
+      "Key": "17f0b9b7-3c2e-402d-80f5-68d9d20563bc",
+      "Value": "{n}The priestess of Lamashtu looks at Dumra in disgust.{/n} \"This thoughtless thing? No. She did not see, was not smart enough to see what was transpiring under her nose. I won't offend the name of {g|Lamashtu}Lamashtu{/g} by calling our hostess one of Her tribe.\""
+    },
+    {
+      "Key": "0d36a52e-ffe2-468f-9b94-032950cedd35",
+      "Value": "{n}The priestess glares at you, hatred and contempt in her eyes.{/n}"
+    },
+    {
+      "Key": "2ee92fbb-97cd-4b34-9598-77aef52ec22d",
+      "Value": "\"Olika, Olika, Olika… She's a poor girl clinging to the unborn life in her womb. The seed of her husband was too weak — Olika's child is doomed to perish before coming to this world.\""
+    },
+    {
+      "Key": "d64f2519-ab5e-441a-9828-7c386fcfdd41",
+      "Value": "\"Yes. Several years ago the lawyer defended a necromancer in a court in his native city — and he won the trial. Since then all Tedrim's attempts to conceive a child were doomed to fail — {g|Pharasma}Pharasma{/g} didn't want to prolong the bloodline of a man who protected those who raise the dead. Una has more brains than her spineless mate, so she'd sought the support of {g|Lamashtu}Lamashtu{/g}. The child, of course, will bear the mark of goddess. but Tedrim's don't have much choice — Pharasma's memory is long.\""
+    },
+    {
+      "Key": "f9f47bf1-b0b9-4648-95b4-7ca65fe5be36",
+      "Value": "{n}Kesten turns to you.{/n} \"Your Grace?\""
+    },
+    {
+      "Key": "68a05cb6-4057-4780-9157-3fe1bddc8415",
+      "Value": "{n}Kesten hesitates.{/n} \"Your Grace... I realize these people are guilty and must be punished. But I will not harm a pregnant woman. She will be sent home.\" {n}Kesten's face hardens.{/n} \"That is the only resolution to this matter.\""
+    },
+    {
+      "Key": "0e7e05e3-e3c9-456c-91d2-42a1048cfbd1",
+      "Value": "\"Your Grace! Wait!\" {n}You can barely hear Olika's words through her sobs.{/n} \"Let me ask you! No, let me beg you! Allow the priestess to perform one last ritual! Let her save my child! I have no other hope except for Tsanna!\""
+    },
+    {
+      "Key": "484b28aa-de0d-473a-9aa5-ebe854eca496",
+      "Value": "{n}Kesten looks at you as if you're mad.{/n} \"Let them go? All of them?! But...\" {n}He hesitates for a moment, then seems to remember his place and nods calmly. {/n} \"As you command, Your Grace.\""
+    },
+    {
+      "Key": "510541fd-5774-443e-9813-1368dc3ed5db",
+      "Value": "{n}She raises the hem of her skirt and starts to wipe away the blood from her legs. Her right leg is covered with sores, oozing pus and yellow ichor.{/n}"
+    },
+    {
+      "Key": "ef5b9561-1062-4181-aed5-38c569dfb522",
+      "Value": "{n}The cultist of {g|Lamashtu}Lamashtu{/g} looks at you with unblinking eyes.{/n}"
+    },
+    {
+      "Key": "ca3b8bf0-ebb0-4576-948d-ee96ab17110b",
+      "Value": "{n}Kesten throws a tired look over the lodge and rubs his chin.{/n} \"That's all.\" {n}He looks around the lodge.{/n} \"We'll deal with these people as you've ordered. I suppose it'll be a relief to Dumra to get rid of such troubling guests.\""
+    },
+    {
+      "Key": "e3bc00d5-604d-4e7e-8de9-67516c124507",
+      "Value": "\"I thank you, Your Grace, for your help and for your wisdom. A pity we didn't discover the true reason behind the blight, but at least we have one less mystery on our hands. Have a safe journey, {mf|My Baron|My Baroness}!\""
+    },
+    {
+      "Key": "6e1ceb47-3990-4fb1-8109-f29c02759bd8",
+      "Value": "{n}The woman doesn't appear to notice you as she makes her way to the stove — you notice she's limping badly on her right leg. Before you can speak, she turns, sees you, and freezes.{/n}"
+    },
+    {
+      "Key": "5f5d5ac8-b82b-4405-a6b6-a7f97b4921ea",
+      "Value": "{n}Hearing your footsteps, the woman raises her head and looks at you.{/n} \"Need something, do you?\""
+    },
+    {
+      "Key": "68de4b16-f3d4-41d8-b015-a9ad10ef3728",
+      "Value": "\"Narrow-minded creatures, living by stupid human laws.\""
+    },
+    {
+      "Key": "6e43d7c3-7900-414e-bd6d-326da2486454",
+      "Value": "{n}The priestess chuckles.{/n} \"Of course, {mf|baron|baroness}. Let us sit here like friends and have a heart-to-heart!\""
+    },
+    {
+      "Key": "86ed23fe-462b-4938-967d-1a9379e5f6c5",
+      "Value": "{n}The priestess says nothing, her eyes filled with contempt.{/n}"
+    },
+    {
+      "Key": "ead8bc02-2988-497b-8a50-d593c58d5ac0",
+      "Value": "{n}The priestess spits at your feet. {/n} \"Then {g|Lamashtu}Lamashtu{/g} will enjoy the suffering of this woman to the full!\" {n}Shocked, Olika steps aside and hides her face in her hands.{/n}"
+    },
+    {
+      "Key": "ae853709-5b7f-4dcb-94b6-f2b388e464d0",
+      "Value": "\"You may think of me whatever you like, but I have a duty to my pack. I'll help Olika, and the child will be born as a symbol of {g|Lamashtu}Lamashtu's{/g} grace!\""
+    },
+    {
+      "Key": "8b440bbe-8592-4e3a-a449-c45e1d12c689",
+      "Value": "\"Only if you'll change my death sentence to banishment. Let me go — in return, I'll help Olika, then after that will leave these lands forever!\""
+    },
+    {
+      "Key": "87d59ccb-368b-4373-9f64-44f0adbf9de1",
+      "Value": "\"Aren't you a merry bunch!\" {n}Octavia giggles, waving her finger tauntingly at the priestess.{/n} \"But you know, {g|Calistria}Calistria's{/g} faithful have a lot of fun, too — just without the risk of growing a pair of tentacles in the process!\""
+    },
+    {
+      "Key": "ad65265b-7ffe-4bd2-a21b-aaff941a893a",
+      "Value": "\"Don't you dare compare your frivolous goddess to ours, who's as old as the world itself! Your orgies are little more than entertainment for bored townsfolk. Ours are full of primordial wisdom!\""
+    },
+    {
+      "Key": "724a24d2-0f83-49fe-b821-f3948169dc3d",
+      "Value": "{n}Valerie winces.{/n} \"Could we please skip the theological debate over which cult has better orgies?\""
+    },
+    {
+      "Key": "dd7d0680-fec6-4143-ac89-82c615778cd9",
+      "Value": "\"Are you sure about that?\" {n}The half-orc bares his fangs in a grin. Sparks dance along his fingers.{/n}"
+    },
+    {
+      "Key": "5239dc52-9c1f-4656-a912-24017fb8ffc3",
+      "Value": "\"The culprit has confessed her crimes. It's time to announce the verdict!\""
+    },
+    {
+      "Key": "b45725c5-f146-4357-a7a9-616b1e4dc017",
+      "Value": "{n}Tsanna blinks and sweeps her eyes over you as if just noticing your presence.{/n} \"Well then... It seems I shall serve the Great Mother in these lands a little longer. If you wish to speak or ask for something, come to the Shrine of {g|Lamashtu}Lamashtu{/g} — that is where you'll find me.\""
+    },
+    {
+      "Key": "a90903c8-ec70-4651-a6c2-ed01a296303f",
+      "Value": "{n}Tristian moves closer to you.{/n} \"Please be merciful to these people. Imagine how great their despair must be to turn to the monstrous {g|Lamashtu}Lamashtu{/g} for help. Though the thought disgusts me, the priestess did try to help them... in whatever way she could.\""
+    },
+    {
+      "Key": "e11b0291-e42d-4cda-be03-a5b7bc332da3",
+      "Value": "\"You outran me, Kesten. I could hardly allow this... abomination to happen.\" {n}Tristian gloomily looks to the others responsible.{/n} \"Though the death of the other petitioners will be a stain on your conscience, {name}.\""
+    },
+    {
+      "Key": "9c2eec3c-9975-4e3d-8935-31dc8d793107",
+      "Value": "{n}Valerie folds her hands across her chest and looks at you with interest.{/n} \"The priestess's guilt is obvious to me. The others... not so much.\""
+    },
+    {
+      "Key": "062a43c9-e824-4982-8dc7-cd136170f358",
+      "Value": "{n}Valerie looks at you like you just grew a new set of horns. Then she rolls her eyes and silently turns away.{/n}"
+    }
+  ]
+}

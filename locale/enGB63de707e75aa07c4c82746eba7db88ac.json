@@ -1,0 +1,197 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "1a08649f-db7e-4dec-bf9a-d4111994189e",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "837c248a-5f99-4090-8e10-ff0353b648ad",
+      "Value": "\"Harrim, you've broken metal with your bare hands before!\""
+    },
+    {
+      "Key": "b862bbfc-9ef3-40c9-b905-aadbdd270da0",
+      "Value": "\"Anyway, are you safe now?\""
+    },
+    {
+      "Key": "fc93c577-2d1c-426c-9459-6bb310a0c8e5",
+      "Value": "\"Jarmuld, what are you talking about? What power hides inside Harrim?\""
+    },
+    {
+      "Key": "90f8e793-2672-4f8c-9800-04dbab684cd3",
+      "Value": "\"Harrim, his words make sense. Maybe what you thought was Torag's curse was actually a gift from the gods, which your kin simply couldn't understand?\""
+    },
+    {
+      "Key": "1d1918c1-f893-4ee9-ad5b-ebfb936977d6",
+      "Value": "\"How can you prove your words?\""
+    },
+    {
+      "Key": "5586bcb9-ef73-4f62-bb78-bbd41b08331e",
+      "Value": "[Give Harrim the heart of the anvil] \"If these are Torag's things, give them to his servant.\""
+    },
+    {
+      "Key": "c88c4b68-6260-4c42-8f57-615c5ad7fbe3",
+      "Value": "\"If it's a gift from Torag, then give it to his servant.\""
+    },
+    {
+      "Key": "51c9cc86-1724-49ea-b015-f0950118f230",
+      "Value": "\"You owe nothing to anyone. Especially to Torag and his servants.\""
+    },
+    {
+      "Key": "b3abd854-27e2-4bfb-b2ec-466c23fcd9f3",
+      "Value": "{n}The golem freezes. Inside it, something vibrates in harmony, and the dents left by your weapons quickly repair. Harrim approaches the metal monster and examines it from head to toe.{/n} \"An invincible idol made of indestructible metal... Another proof of our empty pride. Every master wishes to create something that will outlive them – but why? So that their creation will live on a short while, before returning to dust with the rest of the universe? Ha! Masters, masters... \""
+    },
+    {
+      "Key": "0af4a069-b272-4d09-b90f-8703fdf8a6df",
+      "Value": "{n}Harrim pulls the key. To his surprise, the whole lock comes out of the golem's body along with the key. As Harrim stands amazed, the monster falls to pieces, as if it were made not of the strongest metal in the world, but of rotten wood.{/n}"
+    },
+    {
+      "Key": "14c07ccc-0bcd-41f4-9d0a-c2b6cf675783",
+      "Value": "{n}One of the dwarves, clearly their leader – a grey-haired man with a massive symbol of {g|Torag}Torag{/g} around his neck – jumps down from the hillock where the dwarves climbed to escape the golem. He looks at Harrim and what he's done, astounded.{/n} \"How? How did you do it? That's impossible. Impossible!\""
+    },
+    {
+      "Key": "414554fa-8967-43bb-8aad-0b59aa804852",
+      "Value": "\"I don't know! I don't!\""
+    },
+    {
+      "Key": "e7486254-98ba-4637-91b6-bef30047cf2c",
+      "Value": "{n}The dwarf turns to you and bows ceremoniously.{/n} \"Forgive me, {mf|Your Grace|Your Grace|Your Highness|Your Highness}! The surprise made me lose all my manners... My name is Jarmuld Skjegge, paladin of {g|Torag}Torag{/g} and the leader of this group. On behalf of our whole clan, I thank you for your help!\""
+    },
+    {
+      "Key": "3e45de9d-afad-4057-82c8-c4de1f1bedb8",
+      "Value": "\"What? When did that happen, {Name}? Ah, wait... Are you talking about the anvil? Yes, I did do that... But why? I asked {g|Groetus}Groetus{/g} what it meant, but received no answer...\" {n}Harrim pensively wraps his beard around his finger.{/n}"
+    },
+    {
+      "Key": "e8c3166e-a6c1-40ea-946a-d6da37c17b7f",
+      "Value": "\"Yes, {mf|Your Grace|Your Grace|Your Highness|Your Highness}! May {g|Torag}Torag{/g} bless the soil you walk upon! You saved us! The Skjegge clan is in your debt! Alas, we have no treasure to reward you for your kind aid... But that is only temporary, believe me! When we find a way inside the fortress and recover the legacy of our ancestors, you'll see that no one can accuse the Skjegge clan of stinginess!\""
+    },
+    {
+      "Key": "89300fe9-ed8d-402a-bace-15e73f9fabdc",
+      "Value": "{n}Harrim sneers bitterly.{/n} \"Look at them, {Name}! Here they are, true children of {g|Torag}Torag{/g}! Greedy, conceited, unable to see beyond their own noses! They barely escaped death, and there they are, diving into its maw again, blinded by the glitter of imaginary treasures... I contemplated making them leave, but let us allow them to stay and continue what they are doing. If they are in such a hurry to dig their own graves, let us not interfere.\""
+    },
+    {
+      "Key": "1c08a15f-8711-4a7b-892c-cbc2bb00c08a",
+      "Value": "\"Thank you. I see you've no love for your people or our god... No, no, don't be so quick to frown – I've no wish to preach to you. But... I believe you said you broke the unbreakable with your bare hands? Please tell me about this. I think I've an idea of what power lies within you.\""
+    },
+    {
+      "Key": "57309832-472a-4fd8-8577-0455355f9b68",
+      "Value": "\"The Searing Palm.\" {n}Harrim's voice sounds dull and lifeless.{/n} \"The magic anvil in the desolate {g|Bronzeshield Fortress}Bronzeshield Fortress{/g}, desecrated by trolls. It was destroyed by my fist, as if it were made of sand – or wood that had rotted from within, and only waited to be touched to fall to dust.\""
+    },
+    {
+      "Key": "09133720-49cd-4a4d-8cd9-83d56257752d",
+      "Value": "{n}Jarmuld pensively holds his hand upon {g|Torag}Torag's{/g} hammer, which hangs about his neck.{/n} \"Could it be...\""
+    },
+    {
+      "Key": "3cbb795f-6635-41e8-8b7c-a794aedfe144",
+      "Value": "\"The Touch of the Unmaker. This is a rare, very rare gift of the gods. It happens once in a generation. I can't say who grants it. Perhaps {g|Torag}Torag{/g}. Perhaps {g|Groetus}Groetus{/g}. Or perhaps it comes from some other source we know nothing about... It is the power to give death to things which live on beyond their proper time.\""
+    },
+    {
+      "Key": "d38aad76-095e-45f5-bb2e-795688903f78",
+      "Value": "\"Ill things, created with a flaw – like this golem. Desecrated, like the anvil. The robust creations of dwarven hands, that beg for death but must continue to exist. A dwarf blessed by the Touch of the Unmaker can put an end to their suffering.\""
+    },
+    {
+      "Key": "e76b94bf-643c-4d3e-9719-6e51867912ad",
+      "Value": "\"Nonsense. I've never heard of this! If {g|Groetus}Groetus{/g} granted me this power... Why do I have to find out about it from some paladin of a traitor god – the god of helplessness and cowardice? A gift of the gods... By Groetus, you prove it or you admit you're lying!\""
+    },
+    {
+      "Key": "ca1d8a7e-24ff-4df9-9f2d-d1ebcc4938d7",
+      "Value": "{n}Jarmuld listens calmly to the stream of insults raining down on him from Harrim. When the latter has finally spent his breath, the paladin replies quietly:{/n} \"Yes, I can prove it.\""
+    },
+    {
+      "Key": "02ce0f97-16f5-4eb4-adf3-9b5632ca0010",
+      "Value": "{n}Harrim winces as if all of his teeth started aching at once, but then nods reluctantly.{/n} \"It is possible... But then {g|Torag}Torag{/g} and his followers are even more stupid and blind than I thought! Just imagine, {Name} – if this is true, the reason for my woe is not a curse, but the simple fact that none of my kin was wise enough to recognize a divine gift!\" {n}The priest shakes his head and looks at the paladin.{/n} \"You said you can prove your words, Jarmuld. I challenge you now.\""
+    },
+    {
+      "Key": "4069fee3-9015-4705-bd2a-575293ee0610",
+      "Value": "\"The Touch of the Unmaker is not only the power to destroy. He can take the heart from an item – all the love and effort put into it by its maker, by the mercy of {g|Torag}Torag{/g}. Strike the golem once more. Complete the unmaking. – And show us its heart!\""
+    },
+    {
+      "Key": "269aaed6-4b5f-434b-83ae-254761b2b979",
+      "Value": "{n}Harrim looks gloomily at the quiet golem, then shrugs and smashes it with his fist. The golem falls to fragments with a pitiful clink. Leaning down to search through the pieces, Harrim takes hold of a shimmering blue jewel. He examines it, then turns to you. The priest's face is sad and baffled.{/n} \"There. A gift from {g|Torag}Torag{/g}, be he damned... So what's next? What do I do with it now?\""
+    },
+    {
+      "Key": "df6695e1-3478-4b0e-8405-e134044725a4",
+      "Value": "\"You're right.\" {n}Harrim hurls the jewel onto the rocky ground. It breaks into shimmering shards that darken and vanish in the air.{/n}"
+    },
+    {
+      "Key": "c14bf92c-cf72-4780-94ed-256b79ea5a60",
+      "Value": "\"If you wish to keep digging a grave for you and your group, Jarmuld – then continue, I won't interfere. Maybe someday I will return to bury your bones. But for now – farewell.\""
+    },
+    {
+      "Key": "354cc2c4-eeb3-434c-9aa8-9e5bf66376d9",
+      "Value": "{n}Harrim hands the jewels to Jarmuld.{/n}"
+    },
+    {
+      "Key": "09134f97-f33f-4d15-a57a-b822571437d5",
+      "Value": "{n}Harrim hands the jewel to Jarmuld.{/n}"
+    },
+    {
+      "Key": "e42142ba-6533-4ec7-a520-a048dcc21963",
+      "Value": "\"Thank you for telling me of my gift, Jarmuld. But do not expect it will reconcile me with {g|Torag}Torag{/g}... Or with my people. If you find a way to make good use of it – fine. If not, it doesn't matter. You can keep looking for the entrance, or go back to your mountains – I care not.\""
+    },
+    {
+      "Key": "632a9f82-21ea-411a-91f7-e53b91b34801",
+      "Value": "{n}Jarmuld lowers his head.{/n} \"Thank you, Harrim. I will make good use of this gift. I am sorry that everything turned out the way it did, but I respect your decision and won't try to convince you. Farewell.\""
+    },
+    {
+      "Key": "ebcf22a6-44ce-4c51-b080-df24b3df8488",
+      "Value": "{n}Jarmuld lowers his head.{/n} \"Farewell, Harrim.\""
+    },
+    {
+      "Key": "3ea11a93-83f5-4958-a073-fdae3e88497f",
+      "Value": "\"You would like... Well I wouldn't like to even see you! We have nothing to discuss. This is just what I need – to listen to another sermon about {g|Torag}Torag's{/g} greatness!\""
+    },
+    {
+      "Key": "00153372-662d-473b-a178-31018881cbdc",
+      "Value": "{n}The paladin replies to Harrim's indignation with a humble bow.{/n} \"I am not so arrogant as to preach to a priest. Your faith is your choice. I am not one to question it. I only wanted to know more about your spiritual journey.\""
+    },
+    {
+      "Key": "a3eaa753-c89e-45e7-89de-d0d7f4dffc98",
+      "Value": "\"And you must be Harrim, the priest of {g|Groetus}Groetus{/g}? I've heard a lot about you and the unusual path you've taken. I would like to speak with you.\""
+    },
+    {
+      "Key": "f4fa7ec5-dd4b-4247-aa1a-f0decb75feb8",
+      "Value": "{n}In response Harrim only sniffs with contempt.{/n}"
+    },
+    {
+      "Key": "d7fb7bf5-2e1e-4b9e-885a-b1381e8afd57",
+      "Value": "{n}Harrim turns to you.{/n} \"Gifts from the gods, curses from the gods... I'm starting to think it's the same thing. But thank you for coming here with me. I probably wouldn't even have talked to this Jarmuld on my own. But now... Now I have much to contemplate. Let us go, {Name}. Let's leave these Skjegge to do as they will.\""
+    },
+    {
+      "Key": "b31e950c-8d9b-4483-ae83-4eb1479116e3",
+      "Value": "\"Oh, wow! Adamantine, with your bare hands? You're a beast! Spill it, when did you get so strong? Have you been lifting weights at night instead of praying?\""
+    },
+    {
+      "Key": "b2f1b8c2-04d0-474e-a7a3-b0d9a62a267d",
+      "Value": "{n}Ekun bows to the paladin.{/n} \"May the Father of Creation never leave you.\""
+    },
+    {
+      "Key": "57aaf698-1a17-49d9-a407-be3e17a9df22",
+      "Value": "\"May he bless you, my son.\""
+    },
+    {
+      "Key": "91f78ac2-3e56-4ca7-af8b-70686f049e9b",
+      "Value": "\"Ah, typical gratitude for dwarven clans... Just so you know, {Name}: when they say they're in irredeemable debt, it really means they're just never going to pay.\""
+    },
+    {
+      "Key": "2319b43d-3e71-46ad-8abc-0b26f4a0249e",
+      "Value": "\"So you can get gemstones from different broken pieces of iron? Good for you! You'll be rich!\""
+    },
+    {
+      "Key": "ea137374-42bc-4887-bb4d-d5b5f3ff3244",
+      "Value": "\"Such a pragmatic young man. However, I'm afraid the hearts of artifacts have much more value in one piece.\""
+    },
+    {
+      "Key": "9425919d-39d1-4391-91cc-0addcf399bb1",
+      "Value": "\"Well put. You know as well as I do how dangerous it is to accept gifts from gods.\""
+    },
+    {
+      "Key": "1f9ecc5f-1bc8-4e24-a00c-ace7fb1365a2",
+      "Value": "{n}Ekun shakes his head.{/n} \"Sacrilege.\""
+    },
+    {
+      "Key": "e50ee8e4-3cb4-462d-9f6c-a8a44c537d33",
+      "Value": "\"Pff! That's rich! Any pip-squeak from our tribe knows how to break things. And you longshanks call it a gift!\""
+    }
+  ]
+}

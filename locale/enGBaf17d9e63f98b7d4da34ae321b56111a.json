@@ -1,0 +1,161 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "951e34be-eff0-486c-b3b5-947cbfd76127",
+      "Value": "\"Where might Tartuk be now?\""
+    },
+    {
+      "Key": "dd687953-8458-4411-b8ee-9119f63e0d29",
+      "Value": "\"How is the war with the mites progressing?\""
+    },
+    {
+      "Key": "78120ff8-8784-4397-aef3-1d9a401bb4dd",
+      "Value": "\"How can I help you in your war?\""
+    },
+    {
+      "Key": "80487a52-1f62-4b13-ace9-6ef6d31c5f9d",
+      "Value": "\"We will speak later. Farewell!\""
+    },
+    {
+      "Key": "e7de4116-1520-4e94-9ad4-935d9f6441c6",
+      "Value": "\"Very well. I shall deal with the mite queen.\""
+    },
+    {
+      "Key": "b96153bb-522c-4c98-bced-44be1fa485a3",
+      "Value": "\"I have helped enough. You must fight without me.\""
+    },
+    {
+      "Key": "a4002479-df1f-4461-8550-e7464c5bd3b3",
+      "Value": "\"There is someone in your dungeon I wish to discuss.\""
+    },
+    {
+      "Key": "8d0d9a42-f5a0-42bb-b14c-4fa877ec2c6d",
+      "Value": "\"I may need the relic to enter the hall, if Tartuk is already there.\""
+    },
+    {
+      "Key": "4efec96f-e539-4775-b98c-92b0c1eaffc9",
+      "Value": "\"Queen Bdaah has been defeated. You have nothing more to fear.\""
+    },
+    {
+      "Key": "bb0a4b5a-3281-4578-8865-c6ce9e64b4b4",
+      "Value": "\"What need have you of this 'dumbhead', Chief? They're just taking up space in your dungeon.\""
+    },
+    {
+      "Key": "374ce009-1969-4e8c-a8fb-d9e00ae4be82",
+      "Value": "\"Serves them right. A kobold prison is the proper place for Tartuccio's servants.\""
+    },
+    {
+      "Key": "a41acf67-cf86-4de2-9f2a-388b9559967d",
+      "Value": "\"Release them, Chief. How does holding a 'dumbhead' prisoner serve you?\""
+    },
+    {
+      "Key": "52180ba4-c616-441c-9250-ce8c5a43542f",
+      "Value": "[Attack] \"I need our alliance no more!\""
+    },
+    {
+      "Key": "a1c997d9-a30b-4d43-9d62-e00eb9753b05",
+      "Value": "\"I won't kill you, Chief. Take your servants and leave.\""
+    },
+    {
+      "Key": "af72ed99-4106-4b21-905a-bb6f451876cf",
+      "Value": "[Finish him] \"Yes. Say your last goodbyes.\""
+    },
+    {
+      "Key": "d8f6c3b2-05b3-4afd-8d2c-a91aa66138c5",
+      "Value": "\"Greetingsss, friendsss!\""
+    },
+    {
+      "Key": "ed3c0628-9fe0-4b49-9117-d09f7635fe83",
+      "Value": "\"Eetingsss! Endsss!\""
+    },
+    {
+      "Key": "99a9204f-8276-41d9-b4f6-ee2393716437",
+      "Value": "\"We fight mitesss! Mitesss break bridge. We break wall. Now all quiet.\""
+    },
+    {
+      "Key": "e6e92373-0b11-45a0-a944-70ac8ebddee1",
+      "Value": "\"Passsage cleared. We make big attack!\""
+    },
+    {
+      "Key": "85fc6028-b2f5-42fe-9157-23a8ea6d0f63",
+      "Value": "\"Make! Big! Tack!\""
+    },
+    {
+      "Key": "95d882a9-6eed-4f82-af93-feba165c05ba",
+      "Value": "\"Don't know. He leave. If find relic, enter sssacred hall. Mite not go thisss hall! We have mite relic,\" {n}says the chief proudly.{/n}"
+    },
+    {
+      "Key": "dabacf83-7c7c-40af-a3b4-57bf21ac21de",
+      "Value": "\"I asssk help. My ssshaman Tartuk go passsage under Old Sssycamore. Fight mite! Sssearch relic! I afraid he can't do. Friend find ssshaman? Kobold attack then!\""
+    },
+    {
+      "Key": "5cd07e10-55ab-411c-b29e-29dd521cb5a2",
+      "Value": "\"Kobold ssstrong, fierccce! Not afraid! But mite Queen ssstrong too.\" {n}The Chief looks annoyed.{/n} \"You ssslay Queen, I give reward. Mitess run away. No kobold die. Sssuccesss!\""
+    },
+    {
+      "Key": "3da17e8f-10df-4700-80ac-9b4868710a9d",
+      "Value": "\"Sssuc! Cesss!\" {n}The crier brandishes his weapon bravely, but he is clearly shaken when the Queen is mentioned.{/n}"
+    },
+    {
+      "Key": "91959ef8-b5ce-4e4b-8c48-c25986ffba58",
+      "Value": "\"Fearlesss! I like.\""
+    },
+    {
+      "Key": "bb622312-8b97-4ea0-acd1-65b468bde979",
+      "Value": "\"Ssscared.\" {n}The Chief looks disappointed.{/n}"
+    },
+    {
+      "Key": "6af1f3db-d884-4ae4-b96d-fdfd22c7d2de",
+      "Value": "\"Tartuk bring them. Thisss dumbhead shhhout sssilly thingsss. Call Tartuk Tartuchhhio. Can't talk good!\""
+    },
+    {
+      "Key": "3295a246-a805-4417-b953-085c6d4b932e",
+      "Value": "\"This dungeon does not depress me. It is as good as any place for contemplating the frailty of life.\""
+    },
+    {
+      "Key": "aea50e10-4a49-4b81-9390-6a78aff03d5a",
+      "Value": "\"The little tongue-tied monster accuses me of not being able to speak. Ironic,\" {n}scoffs Jaethal, contemplating her nails.{/n}"
+    },
+    {
+      "Key": "e47345e9-1d1a-4d5b-90a8-849fc4e63255",
+      "Value": "\"I always knew that honesty could get a bard behind bars! But I didn't think it would happen so quickly...\""
+    },
+    {
+      "Key": "e322b054-15dc-4789-bc79-cf3cae2ceebe",
+      "Value": "\"'Tis unworthy of a ruler, to stoop to insulting his prisoners! And we merely tried to open your eyes, Chief.\""
+    },
+    {
+      "Key": "3525c8c1-c505-4dbd-b778-9735082761f7",
+      "Value": "{n}The Chief thinks for a while, scratching the back of his head with a clawed finger.{/n} \"Fine. I give mite relic. You touch it door and enter! Then return relic.\""
+    },
+    {
+      "Key": "726bf6a8-86b5-4eac-a749-3ffb6d601e38",
+      "Value": "{n}The kobold crier is so impressed, he speaks even before Chief Sootscale can respond.{/n} \"Feated! Evil mitey Queen! Glory! Glory!\""
+    },
+    {
+      "Key": "67f613ac-35f6-4d3d-8517-a75e0c15055e",
+      "Value": "{n}The Chief thumps the crier on the head.{/n} \"No ssspeak before Chhhief! Friend ssstrong, fierccce! Reccceive award!\""
+    },
+    {
+      "Key": "adee0a4b-df79-4737-b2b0-6f6e0fac5fe7",
+      "Value": "\"Agree. Ussselesss creature. Releassse!\""
+    },
+    {
+      "Key": "c3be5bcd-7b91-4187-bac2-c04097a531fd",
+      "Value": "\"Yes. Ussselesss. Let them go!\""
+    },
+    {
+      "Key": "f37ecf48-b3a2-4c31-9c66-e1a1e5b8d46c",
+      "Value": "\"You alssso ssspeak funny.\" {n}Chief Sootscale shakes his head helplessly.{/n}"
+    },
+    {
+      "Key": "0e64d06f-9168-4784-a2b8-53caedc81027",
+      "Value": "\"Deccceasssed... Deccceasssed is Chief and Sssootssscale tribe...\""
+    },
+    {
+      "Key": "7e6762bc-0fe2-4864-bf20-37d5730f7a7b",
+      "Value": "{n}The Chief clambers onto his feet, shaking from his wounds.{/n} \"I need no pity. Take mite relic. Paysss for my life!\""
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "2855ac6f-fda5-45fa-bc58-b94566c31b3e",
+      "Value": "\"What's your problem?\""
+    },
+    {
+      "Key": "c1d85584-0fa3-48c6-8bfb-48714e6611a7",
+      "Value": "\"Tell me about your ship, The Prestigious.\""
+    },
+    {
+      "Key": "0a27e0f7-01ff-4b8a-a78d-8ea497265f9c",
+      "Value": "\"Aren't you worried that I might reveal your plans to the captain?\""
+    },
+    {
+      "Key": "d116829f-7962-41b9-8e03-f77171ce5d0a",
+      "Value": "\"Blakemoor has asked for one more week to finish his grimoire.\""
+    },
+    {
+      "Key": "4829451a-9725-48b3-884f-cdb24e258c2e",
+      "Value": "\"I have the grimoire.\""
+    },
+    {
+      "Key": "60123b54-043f-4d16-adad-78e250c93a52",
+      "Value": "\"How did you become a pirate?\""
+    },
+    {
+      "Key": "aba42e97-dba8-4ec2-9cd5-85c966f50d2b",
+      "Value": "\"Let's leave that for now. We've more important thing to discuss.\""
+    },
+    {
+      "Key": "4b228a6f-4f1f-4523-ae0b-f6bf790cb920",
+      "Value": "\"I've no more questions.\""
+    },
+    {
+      "Key": "8f851936-de3a-479b-b87a-f42dfa16c463",
+      "Value": "\"Answer me this about Blakemoor and the grimoire.\""
+    },
+    {
+      "Key": "4f6b2c7d-58cc-4cc5-91f9-c288291c0e78",
+      "Value": "\"I've got a question about your line of work.\""
+    },
+    {
+      "Key": "8844c818-460e-4ab6-8224-5477e2500fda",
+      "Value": "[Attack] \"The citizens of Pitax will breathe a sigh of relief when I finish you once and for all.\""
+    },
+    {
+      "Key": "86421e07-f636-46e5-825a-41eb78c8179f",
+      "Value": "\"We'll talk later.\""
+    },
+    {
+      "Key": "1abe930c-c0d9-41e9-a0ca-fb8ff00ac4f0",
+      "Value": "\"Tell me about the grimoire.\""
+    },
+    {
+      "Key": "4abb3002-50c4-423a-9c28-2286d8bdfebf",
+      "Value": "\"Who is this Blakemoor?\""
+    },
+    {
+      "Key": "1f2980ca-02c0-4cc3-ad7d-2641c8380fb4",
+      "Value": "{n}A dark-haired middle-aged man with a sailor's gait, trimmed beard and a grumpy face is blocking your way.{/n} \"{mf|Sir|Ma'am}, my name is Wellar, and it is my honor to serve as First Mate aboard the pirate ship called The Prestigious. I'd like to ask you for a favor. Help me save my merry crew of sea dogs from drowning in the bottoms of their bottles.\""
+    },
+    {
+      "Key": "8cac003a-1d8b-4d3f-8c9f-97040e941504",
+      "Value": "{n}First Mate Wellar looks at you with the mix of hope and despair in his eyes.{/n} \"Greetings, Your {mf|Grace|Grace|Highness|Highness}! Have you... had a chance to consider my request?\""
+    },
+    {
+      "Key": "7caaf7ce-a89d-42d1-9e51-cda66c597b52",
+      "Value": "{n}Wellar grimly points at the drunken pirates.{/n} \"There. Our crew has placed an order: a wizard named Blakemoor agreed to create a grimoire for us – a book, but more, a masterpiece of art. We're supposed to meet him at this tavern two... or three... well, several days ago. But he hasn't shown up. Worse, we have no idea where we should look for him.\""
+    },
+    {
+      "Key": "f64a5267-bf56-4ce4-a412-e6cf28e6b09f",
+      "Value": "\"Crew, to arms! Drop your bottles and grab your weapons!\""
+    },
+    {
+      "Key": "afc8afc8-8e3e-408c-873c-f2d29c1f50a9",
+      "Value": "\"You won't find a more glorious pirate ship anywhere. We're not some pathetic bandits, who attack fishermen and cargo ships full of cabbages. The Prestigious chases only art. Pieces of art, I mean. I was never a big admirer of art, but when I learned how much the nobles are willing to pay for it, their aesthetics and beauty just overwhelmed me. Usually we've been selling most of our loot to the King Irovetti.\""
+    },
+    {
+      "Key": "ab65a674-b4b0-4a9d-b67d-84a73d7fda81",
+      "Value": "\"I'm counting on you. Fair winds.\""
+    },
+    {
+      "Key": "7d21cc8d-cb7b-45f1-b472-893b994ec583",
+      "Value": "\"Have you seen him? Have you spoken to him? And you didn't take the book?! Oh no! I'm sure he's long gone by now! You should have taken that damned book away from him! Where will we find him now... Everything is lost.\""
+    },
+    {
+      "Key": "615d3032-6acb-4ac6-acec-d0ee6582a57c",
+      "Value": "{n}Usually grumpy, the face of the First Mate lights up with a smile.{/n} \"Thank the gods! Now give that damned book to the captain, and we can leave this rat hole. And there won't even have to be a mutiny! By the merfolk's gods, you've saved me and my entire crew!\""
+    },
+    {
+      "Key": "45309ce9-4769-4d8b-9e51-4b2df884d73e",
+      "Value": "\"No, I'm not. For many years I've kept this crew afloat. Both our ship and our business. If I don't overthrow the captain, in a few weeks there won't be any crew left.\""
+    },
+    {
+      "Key": "bbf2d7ba-304c-435d-bb82-a19cda772e3c",
+      "Value": "{n}First Mate Wellar stares at the scene of the massacre in utter confusion.{/n} \"Holy Kraken... But... This wasn't what I wanted! I wanted a mutiny. For the ship. With the crew... But you've killed the whole crew! What good is the ship now?! Phew, let's go, brothers! It's true that landlubbers have butts instead of heads!\""
+    },
+    {
+      "Key": "5846b9bb-7268-49f0-b5e4-3b9e0461ae9e",
+      "Value": "\"It's a long story. Once I was a yeoman in {g|Rostland}Rostland{/g}. But when House Rogarvia... when all those things happened with {g|House Rogarvia}House Rogarvia{/g}, I raised anchor and took off in an instant. I could feel upheaval coming, just like I can feel the wind shift north-west at midnight. Back in Deadbridge, I met captain Martyn, who was recruiting a new crew.\""
+    },
+    {
+      "Key": "e2bc6175-6176-49d0-bb3c-d5a7ef71f740",
+      "Value": "\"Whatever you say. I'm always at your service.\""
+    },
+    {
+      "Key": "f0cad049-f287-4a80-9f2c-f317439ca876",
+      "Value": "\"Blakemoor is an extraordinary man full of amazing stories. But he's jealous of his solitude. In truth, if the whole crew stays here drinking, waiting for him for days upon days, and if it goes on like that – why, we'll lose our image as honest pirates. What respected client would want to hire us then? It's long past time for us to set sail, but captain Martyn will hear nothing of it: he won't leave without the book.\""
+    },
+    {
+      "Key": "b22e0138-3407-45d8-a840-1944712d2eb9",
+      "Value": "\"I need your help. I have to overthrow the captain and take command. But I'm not the most popular man in the crew. If Martyn is like an amusing and irresponsible father for the sailors, I'm the strict mother ready to put her rolling pin to use. I need someone who can persuade the sailors to take my side. There aren't many who support me now – just those who want to fill our sails with southern winds. It's true, we live in an age of decline and decadence.\""
+    },
+    {
+      "Key": "5e6586e5-e6f4-4a21-82e0-36f44b308c79",
+      "Value": "\"Speaking of which, Blakemoor's grimoire was commissioned by Irovetti too.\""
+    },
+    {
+      "Key": "5f0d4e2e-eabb-4010-8339-e1ce5c0fb4ed",
+      "Value": "\"Speaking of which, Blakemoor's grimoire was commissioned by Irovetti too. Now that contract has lost its force, but the captain believes we still have a deal with Blakemoor, so we have to collect the book anyway. The stubborn, decadent herring!\""
+    },
+    {
+      "Key": "a6bc0f40-22c1-42b5-8517-ad9d9fa23701",
+      "Value": "\"I'd wager you're curious what you'll stand to gain? I'll answer you. Robbing raids are a thing of the past for this ship and her crew. We'll dedicate ourselves to trading elite art pieces. This is a highly profitable business, and that's just as true for anyone drawing taxes from our vessel. If you help me, then after I become captain, I'll pursue this business under your banner. But this will only work if I'm captain – I can't speak for Martyn. He's always preferred robbery over honest trade.\""
+    },
+    {
+      "Key": "cad6665a-fb89-4e14-80f9-ba67d37c8a4f",
+      "Value": "\"I hope this information will be enough for you to help us.\""
+    },
+    {
+      "Key": "23a3664f-9a8f-4ede-a678-957cce1a8796",
+      "Value": "\"The crew soon grew to believe that it was my responsibility to... Well, to arrange things. To manage everything. The captain is good at strategic planning, but he's not so skilled in questions of discipline. On The Prestigious I listen to the captain, and the crew listens to me. But it only works so long as I don't contradict Martyn.\""
+    },
+    {
+      "Key": "56ab5d29-1159-410e-8f79-2c67d54397d0",
+      "Value": "\"What exactly would you like to know?\""
+    },
+    {
+      "Key": "6541ed1b-0a6c-4d29-8b63-08c895bfe76e",
+      "Value": "\"I'm ready to tell you whatever you wish, if it helps you to… erm… to help us!\""
+    },
+    {
+      "Key": "a4c6d0eb-35f4-45cf-bdfb-37ee722161ef",
+      "Value": "{n}Wellar spits grimly.{/n} \"Not much to be told. It's a book, it's big and beautiful. Covered with calligraphy. Knowing Blakemoor, I'd bet it's full of magical surprises. But its main value lies in the perfection of the visual aesthetics.\" {n}Wellar smirks.{/n} \"I sound like an artist, don't I? As you can see, throughout the years I've become well-versed in matters of art. I've practically grown to love it.\""
+    },
+    {
+      "Key": "87a2e479-da6c-4ac6-890f-8562218403bc",
+      "Value": "\"I've heard many accounts, and I don't believe any of them. Let's just say Blakemoor is a living phenomenon. If you listen to him for five minutes, you'll hear the most impossible stories any dreamer's mind could ever produce. But at the same time, he's an extraordinarily gifted wizard and a skilled artist. I can attest to that personally, I'm pleased to say.\""
+    },
+    {
+      "Key": "2dc1ce18-880d-4953-8587-34a0cd530eee",
+      "Value": "\"Can I count on your help? Without you, my crew will drown in drunkenness and decadence.\""
+    },
+    {
+      "Key": "2a88daed-1d40-486e-9b29-880bf75c4aee",
+      "Value": "\"What's he babbling about? I thought pirates were tough fighters. You know, feisty guys on ships. These are just drunks and rattlebrains.\""
+    },
+    {
+      "Key": "f385f3d9-5245-4ea8-990c-69cc27b63116",
+      "Value": "\"A pirate names himself such from the start, then has the audacity to ask for help! Life in the {g|River Kingdoms}River Kingdoms{/g} is insane. They really need a change.\""
+    }
+  ]
+}

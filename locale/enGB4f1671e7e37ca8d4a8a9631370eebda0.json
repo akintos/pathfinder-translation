@@ -1,0 +1,249 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "fe41bc89-ffbd-403c-9b05-44725768f115",
+      "Value": "\"I found proof that guests were robbed and murdered at this inn.\""
+    },
+    {
+      "Key": "6854ef5d-a4b9-4474-bf4b-dac54081eb65",
+      "Value": "\"I don't know who these people are, but they're definitely not who they pretend to be.\""
+    },
+    {
+      "Key": "8279c14f-7d00-4ac4-a650-7a0da57f5d72",
+      "Value": "\"The bodies of guests in a secret larder. Some of them are butchered like cows.\""
+    },
+    {
+      "Key": "87e133ed-39a4-4796-8579-fb0230c40267",
+      "Value": "\"There's a chest in the attic filled with clothes and personal effects that obviously used to belong to a variety of different people. Some of them are stained with blood.\""
+    },
+    {
+      "Key": "96a01d01-1006-4389-9d74-024db1a109df",
+      "Value": "\"There's half a box of bottles with sleeping potion in the kitchen. What use do they have for it, if not to drug their guests?\""
+    },
+    {
+      "Key": "bae17748-8bd5-435f-a6cf-f89cf77f8abe",
+      "Value": "\"I found the bodies of the real Mytko and Kalina Bragic. Their throats have been torn out.\""
+    },
+    {
+      "Key": "6ebf4aaf-a98b-48f7-a13a-de1334a17cc5",
+      "Value": "\"In the attic I found a wand that can change one's appearance.\""
+    },
+    {
+      "Key": "57ac4146-4401-4da5-8b14-20ec220c65ee",
+      "Value": "\"The dog in the yard is not what it pretends to be. When I passed by, it was reading a book!\""
+    },
+    {
+      "Key": "71409459-b966-40ad-b304-060c29fdfafd",
+      "Value": "\"Let's hear the lycanthropes out. I suppose they must have something to say in their defense.\""
+    },
+    {
+      "Key": "fe83c4aa-c88a-4cc0-bde9-4354192f7175",
+      "Value": "\"I found the real owner's bodies, and the key to the larder next them. The lycanthropes might not even know anything about the other killings!\""
+    },
+    {
+      "Key": "78238687-0143-497b-b332-3788bf78120d",
+      "Value": "\"I discovered and inspected the bodies in the larder and the corpses of the real owners. The bodies in the larder have been there for many months. Judging by the corpses of the real innkeepers, they only died a day or two ago.\""
+    },
+    {
+      "Key": "13e459e2-a87d-44f4-88ed-bd74c4eeeb3b",
+      "Value": "\"I don't have any grounds to suppose there's anything strange going on at this inn.\""
+    },
+    {
+      "Key": "b37e9b89-576c-42e9-a95a-78e1b2220b75",
+      "Value": "\"Maegar, wait! I have other evidence!\""
+    },
+    {
+      "Key": "79a6400d-762f-4739-9ac9-9d59bc5008c2",
+      "Value": "[Say nothing]"
+    },
+    {
+      "Key": "2f97cdab-f0ed-402a-8d4b-f2ade55d2555",
+      "Value": "\"Well, now everything is clear. The former innkeepers used to kill their guests. Their son helped them by selling the loot. And the lycanthropes are only guilty of self-defense.\""
+    },
+    {
+      "Key": "633d4381-8ad0-4506-bd93-ae5891a65d32",
+      "Value": "\"So, what did you manage to find out?\""
+    },
+    {
+      "Key": "72f9caed-65fc-4b54-89df-67522bc9b4a6",
+      "Value": "\"A serious accusation. What evidence is this?\""
+    },
+    {
+      "Key": "db403080-a299-420c-b93f-d41b3f8a7124",
+      "Value": "\"How horrible! With such evidence we needn't look any further. You've caught them red-handed!\""
+    },
+    {
+      "Key": "d3abc1ab-81c6-47e5-b2c5-171a4e0c5a6c",
+      "Value": "\"That's only circumstantial evidence. Can you back up your accusation with any other findings?\""
+    },
+    {
+      "Key": "bcc3079b-685b-4bc2-95d9-17b6e7a06422",
+      "Value": "\"Well, that seems to be a lie. Yes, {Name}, it appears that you've expose them for something worse than a lack of hospitality!\""
+    },
+    {
+      "Key": "87cc561f-c22a-4b88-84fe-916af8c1b7f4",
+      "Value": "\"So, the drunken bard wasn't making it up after all – they really do murder guests here. I would have liked to hope that the part about eating their flesh would turn out to be a fool's embellishment... But it's a hope I'm quickly losing.\""
+    },
+    {
+      "Key": "0e8c7432-9441-45bd-8688-9b925c881063",
+      "Value": "\"I admit, this inn does look rather suspicious, but without hard evidence I can't accuse these people of anything.\""
+    },
+    {
+      "Key": "e49a763e-fa01-45cf-8836-54a62852ec17",
+      "Value": "\"Really... What sort of monster is capable of murdering people and stealing their faces?\""
+    },
+    {
+      "Key": "ca9442ce-ab81-44bf-8a02-5f0d22f77d78",
+      "Value": "\"Quiet!\""
+    },
+    {
+      "Key": "718296fe-1fa4-4114-bc80-2e70fa6ecc83",
+      "Value": "\"That alone doesn't prove anything. Such a serious accusation requires serious proof!\""
+    },
+    {
+      "Key": "e11c864b-e3ff-44a6-a4f6-ad0085dc521e",
+      "Value": "\"This adds up in a very strange way... It sounds impossible but...\" {n}Maegar gives the old couple a severe look.{/n} \"So who are you? Will you confess, or shall we simply wait for the illusion to fade?\""
+    },
+    {
+      "Key": "e4823047-5b21-4e5b-b3d3-0e43582f56ca",
+      "Value": "\"I can't accuse these people of anything without sufficient evidence.\""
+    },
+    {
+      "Key": "646d1929-bee6-42e1-8ac9-fe563c9d5ac0",
+      "Value": "\"Well, I suppose the drunken bard was just making up tales about this inn. Forgive us for the intrusion! We are leaving.\""
+    },
+    {
+      "Key": "f6971f0a-33b3-4135-8d7d-8ae4b5a18578",
+      "Value": "\"I could fall in love with you right now, if I hadn't already... Ahem, all right. Not in public!\""
+    },
+    {
+      "Key": "20ed4d70-dc7a-47f0-872c-976186911353",
+      "Value": "{n}Maegar hesitates, but then nods.{/n} \"So, these are lycanthropes... What else did you manage to find out?\""
+    },
+    {
+      "Key": "e8bb0ae1-a5c0-4128-8f4a-5572a2feb95b",
+      "Value": "{n}The old people jump up, dropping their human disguises. The innkeepers are not human –- they're a couple of lycanthropes!{/n}"
+    },
+    {
+      "Key": "9d0cf644-612b-4678-bf4b-97cb7227e1b3",
+      "Value": "\"I've little doubt they have something to say! But why do you think we should listen to their excuses, or believe so much as a squeak that comes from their filthy maws?\""
+    },
+    {
+      "Key": "5cc4fa24-7ee3-4b40-9fa4-b9caa7259b8e",
+      "Value": "\"Hear us out! We...\""
+    },
+    {
+      "Key": "91583a68-b8b4-4ccf-afe5-8fcf92be59eb",
+      "Value": "\"There's no way we're talking to monsters!\""
+    },
+    {
+      "Key": "706bb57c-0e5d-416b-a3cb-6f72992afedf",
+      "Value": "{n}The lycanthropes begin to fight with inhuman dexterity.{/n}"
+    },
+    {
+      "Key": "a21533d0-8820-44c1-9959-a17e53b9b3aa",
+      "Value": "\"There is reason in this... But still, it's not enough to believe in the innocence of these human-eating lycanthropes!\""
+    },
+    {
+      "Key": "c8d4f699-3ebf-4f13-87f7-a65e31a96d50",
+      "Value": "\"I still don't understand why you're defending these monsters, but your reasoning is sound. Fine, I'll give these creatures a chance. Hey, you two! What can you say in your defense?\""
+    },
+    {
+      "Key": "dd07cffb-407f-4e85-b4b1-a144c4dfd226",
+      "Value": "\"Forgive me, but I don't understand why you're trying to protect them. These creatures are murderers, as clear as day!\""
+    },
+    {
+      "Key": "1a7a1373-70b8-419a-b26a-38919ac9a56f",
+      "Value": "{n}The man slumps his head down.{/n} \"I admit it! I'm guilty of selling the loot! My parents have been living in this backwater for a long time, hunting and housing travelers. But they got old, lost their strength, couldn't hunt any more. They didn't want to leave, no matter how much I tried to convince them. The lands here are wild, and travelers are rare. If someone goes missing, no one comes looking for them. So they decided to lure passing merchants into spending the night, only to kill them and keep their riches.\""
+    },
+    {
+      "Key": "77c4abc2-cdda-42ad-96c7-75752d78622b",
+      "Value": "{n}Maegar nods.{/n} \"Well, lycanthropes, what's your next move? I'm sorry your first attempt at living peacefully alongside people came to such a sad ending.\""
+    },
+    {
+      "Key": "1e389922-a239-47ef-abfa-98278b4d04a0",
+      "Value": "\"There are beasts even among ordinary people. We understand.\""
+    },
+    {
+      "Key": "86106204-8320-482f-b744-aa07b32dc477",
+      "Value": "\"So be it. When I return to the capital, I'll see to it that you have a roof over your head and a job. Here in the Stolen Lands, even the most unexpected alliances become possible. If you truly want peace, I won't refuse you.\""
+    },
+    {
+      "Key": "5831c798-e8f5-4b1e-923a-0f263b501bdc",
+      "Value": "\"And the bodies... they kept them too. They can hardly hunt, you know, my folks...\" {n}The man wipes sweat from his forehead with trembling hands.{/n} \"But I didn't kill anyone, I swear! I only helped them to sell the loot! They're my parents, you know. I couldn't just leave them.\""
+    },
+    {
+      "Key": "d3dd43a4-de07-43f7-b838-ad882db1718e",
+      "Value": "\"It's mine! I have trouble sleeping at night. Insomnia. You know, getting old is no fun...\""
+    },
+    {
+      "Key": "086fc91f-44e4-4d3c-97de-2163177a5870",
+      "Value": "\"They weren't stolen! Well... not by us at least. I admit, when our guests want to sell something cheaply and quickly, we don't ask too many questions about where it came from. But that doesn't make us robbers!\""
+    },
+    {
+      "Key": "872a63e5-e36b-4eed-bc27-4966cfa1f261",
+      "Value": "{n}Yorgesh turns pale.{/n} \"What... What are you?\""
+    },
+    {
+      "Key": "7cce57ca-db3f-42ca-abc3-d898aead7e41",
+      "Value": "{n}The old couple exchange glances, then sigh and shed the illusion. The creatures standing in front of you resemble humans only remotely – they are lycanthropes!{/n}"
+    },
+    {
+      "Key": "32f88c4a-1c8e-48fa-9a2b-5d6b199c8a31",
+      "Value": "\"We... Please hear us out! This is not our fault!\""
+    },
+    {
+      "Key": "16931473-ad3b-435e-9615-558cfa42a8bf",
+      "Value": "{n}Varn shakes his head, astonished.{/n} \"I can't believe my ears... Well! No matter how unbelievable it seems, I must admit that these creatures are innocent.\""
+    },
+    {
+      "Key": "121ad5ec-526e-4692-a5d3-5fdd5346ab79",
+      "Value": "\"We really did kill the old people... But we had to! We were only defending ourselves!\""
+    },
+    {
+      "Key": "d5244bfb-e13c-4738-a57d-d6fac1709eb2",
+      "Value": "\"We came here in human form as guests. And they drugged us with a sleeping potion and tried to kill us! Those old people wounded one of us – the one who's pretending to be a dog. We killed them, but only to save ourselves!\""
+    },
+    {
+      "Key": "027aa74b-ac88-498b-b4b2-be71cd7bb743",
+      "Value": "\"We believed we could live alongside people in peace. Have you heard about Trobold in the Shrike Hills? Trolls and kobolds have built a kingdom and live next to people as friends and neighbors. Couldn't we do the same?\""
+    },
+    {
+      "Key": "b9f9f69b-1ed0-4018-a57d-1bd3dca16561",
+      "Value": "\"We only stayed here to give our wounded friend a chance to heal. But then guests came. It was probably a bad idea to pretend to be the murdering hosts, but we didn't have the time to think of something better!\""
+    },
+    {
+      "Key": "a61ff28a-b543-4851-86aa-12b38fdee532",
+      "Value": "\"But those people are not my parents!\" {n}Yorgesh points at the old couple.{/n} \"They look the same, but they're not, I can feel it in my gut!\""
+    },
+    {
+      "Key": "3763c3c9-adfe-4d70-8db2-f3f779c5ee46",
+      "Value": "\"If you would allow it, baron, we would like to live in your capital. We will maintain our human appearance, and lead human lives... Let's give each other another chance for peace.\""
+    },
+    {
+      "Key": "f8b31287-51e0-4b4b-8b81-1f535e409a5d",
+      "Value": "\"Now let's go. We have a lot of work to do.\""
+    },
+    {
+      "Key": "e499ea80-59f3-499e-8796-7b2f4b6e5118",
+      "Value": "\"Meanwhile the confessions of this scumbag have revealed much of interest, haven't they?\""
+    },
+    {
+      "Key": "7ba3a3ca-e0b8-49fd-bacd-95a12d6ee3ad",
+      "Value": "\"In that case, the picture is complete.\" {n}Maegar draws his sword.{/n}"
+    },
+    {
+      "Key": "264d2995-7b45-4568-bbdb-eabd76c9d062",
+      "Value": "\"Great work, {name}! You got to the bottom of this complicated story, as if you've been doing it all your life. Well done!\""
+    },
+    {
+      "Key": "55fdbbe5-2321-428e-88cd-47b30efa667d",
+      "Value": "{n}Cephal nods gravely.{/n} \"I strongly recommend the second option. I am sorely lacking in... assistants... for my scientific research.\""
+    },
+    {
+      "Key": "8f93f3eb-24b1-4a24-ae3e-d911adb38d04",
+      "Value": "\"Abhorrent!\" {n}Maegar barely keeps from spitting on the floor.{/n} \"A trial will determine your guilt, and what punishment you deserve. Cephal, lock this Yorgesh in the attic. Just make sure he has enough food to last a week. We'll collect him on our way back to Varnhold.\""
+    }
+  ]
+}

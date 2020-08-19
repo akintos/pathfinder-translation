@@ -1,0 +1,261 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "ce20184d-2475-48db-acab-68c22b2b4e74",
+      "Value": "[Attack] \"You bore me. Why don't we play a game? I'll try to kill you, and you try to run away!\""
+    },
+    {
+      "Key": "1a01d513-d238-4ba4-9cd8-373c731c93de",
+      "Value": "[Attack] \"Kobolds, eh? Let's play a game — I'll try to kill you, and you try to run away!\""
+    },
+    {
+      "Key": "ae4c013f-4eaf-4103-8db8-1b904fb3b55f",
+      "Value": "\"Why are you looking for Tartuk?\""
+    },
+    {
+      "Key": "5f0a5c87-1a15-410b-8041-a6495cac7933",
+      "Value": "[Don't shake the kobold's hand] \"So, do you need something?\""
+    },
+    {
+      "Key": "67c8ea79-d3ba-499f-bdab-94e846815290",
+      "Value": "\"I don't know where the troll's lair is or where Tartuk is hiding. I'd recommend you give up the search, but that's for you to decide.\""
+    },
+    {
+      "Key": "f7883e10-abdc-40e0-886e-ef9c0319aa5f",
+      "Value": "[Attack] \"You bore me. Why don't we play a game? I'll try to kill you, and you try to run away!\""
+    },
+    {
+      "Key": "e7b6a26a-31dc-4243-8ecf-a00e76102e9a",
+      "Value": "[Point toward the hodag's lair] \"Yes, I saw Tartuk that way.\""
+    },
+    {
+      "Key": "1f79f37a-d66a-4e7a-971f-b0f746246bac",
+      "Value": "\"I'm no friend to trolls. I kill them, and anyone who helps them. You should return from where you came, for your own sake.\""
+    },
+    {
+      "Key": "4a14786f-eab3-4767-933d-7465c7be305b",
+      "Value": "[Shake the kobold's hand] \"Greetings.\""
+    },
+    {
+      "Key": "5f5a0a20-761f-49eb-8d88-3976d6497b4b",
+      "Value": "[Decide to shake the kobold's hand] \"All right, fine. Greetings.\""
+    },
+    {
+      "Key": "3b2fc42b-a463-4713-8745-301814c3aaab",
+      "Value": "\"All right. Let's get this sorted out.\""
+    },
+    {
+      "Key": "a7f4e22f-5e36-4b7b-bc1b-f02c9e2a6575",
+      "Value": "[Don't shake the kobold's hand] \"Yes, greetings to you, as well.\""
+    },
+    {
+      "Key": "2a647895-a0ca-4262-b43b-d2c2c417657b",
+      "Value": "\"I've more important things to do than solve your riddles. Farewell.\""
+    },
+    {
+      "Key": "1b8dc14d-b70c-4760-948b-48ad60e63794",
+      "Value": "[Point in a random direction] \"Yes, I saw Tartuk that way.\""
+    },
+    {
+      "Key": "8293f524-ccf6-4556-9b5c-e239d16f83db",
+      "Value": "\"I understand your plight, but I fear I can't help you. I'd only lead you further astray. I hope you find what you're searching for.\""
+    },
+    {
+      "Key": "794e8458-5d88-4f55-b4ac-4a8cbc70d4a2",
+      "Value": "\"Tartuk?! What a familiar name. Tell me, do you know the story of the Sootscale kobold tribe?\""
+    },
+    {
+      "Key": "b24348ca-af3b-4b5b-a773-1ad3219de02b",
+      "Value": "\"This Tartuk of yours is dead. I killed him.\""
+    },
+    {
+      "Key": "3586cdfc-ab44-480f-ae92-2f5f3f40d486",
+      "Value": "\"I exiled Tartuk from my lands.\""
+    },
+    {
+      "Key": "e4dc6c0d-e78d-42c4-bb4a-daecaaba8b11",
+      "Value": "\"Tartuk and I made a deal of sorts. He's in Trobold even now, ruling his kobold kingdom.\""
+    },
+    {
+      "Key": "67135b21-f26a-431e-aa93-15646762ecc1",
+      "Value": "\"Ritinsss!\""
+    },
+    {
+      "Key": "0f9a8718-9a09-4e8e-be4d-faeb5ec9f861",
+      "Value": "{n}All of the kobolds are staring at you now, no blinking or movement among them. It's starting to get uncomfortable.{/n}"
+    },
+    {
+      "Key": "da369307-43d0-478d-826c-7e9a0cf8427a",
+      "Value": "\"Tartuk is the purple bastard who tried to abscond with my cart. And to top that off, he's apparently the best of friends with some trolls.\" {n}Jubilost frowns.{/n} \"It's your choice, of course, but it seems to me that our best option would be to force this gang to disperse.\""
+    },
+    {
+      "Key": "9118d899-b163-401c-9e13-9c5299e172d4",
+      "Value": "\"Ssslaragsss!\" {n}the old kobold hisses. The rest of the kobolds immediately calm down.{/n} \"Greetingsss!\" {n}he says, addressing you and sticking out his hand.{/n}"
+    },
+    {
+      "Key": "fbc776dc-143f-45f1-beea-09f9b05edb62",
+      "Value": "{n}The old kobold steps back in fear.{/n} \"Tartuk, king, love! Humansss, koboldsss, love!\" {n}He speaks quickly, raising his hands before him as though shielding himself from attack.{/n}"
+    },
+    {
+      "Key": "bb19cc18-3116-4690-9b30-ed45d9788d8c",
+      "Value": "\"Karasssk!\" {n}the old kobold hisses, springing away from you. His hiss is echoed by the rest of the kobolds as they dash away in different directions.{/n}"
+    },
+    {
+      "Key": "b8e1b6a0-7967-4a4d-9a43-3f488a1388ee",
+      "Value": "\"It's clear that you'd be lost without the benefit of a superior intelligence. Obviously, these kobolds have lost their king, one Tartuk, who just as clearly had befriended some trolls. They're asking if you've seen him.\""
+    },
+    {
+      "Key": "6216a541-84ca-4280-b405-d95238149ed0",
+      "Value": "{n}Unable to judge the expression on his snout, you can't tell if the old kobold believed you. After you answer, he turns away from you as if you ceased to exist.{/n}"
+    },
+    {
+      "Key": "78bf2925-6008-4d7c-9903-b47d0d157750",
+      "Value": "\"Reeteensss!\""
+    },
+    {
+      "Key": "f7f7e022-a766-42d9-8150-989ea3aedfaf",
+      "Value": "\"Trollsss, oboldsss.\""
+    },
+    {
+      "Key": "6bb18fe9-fc54-48a9-908f-8c07e58ca16e",
+      "Value": "\"Mensss!\""
+    },
+    {
+      "Key": "3a0d5cd7-5965-4c12-9719-3bee826891ef",
+      "Value": "\"Tartuk is the purple bastard who tried to abscond with my cart. And to top that off, he's apparently the best of friends with some trolls.\" {n}Jubilost frowns.{/n} \"It's your choice, of course, but it seems to me that our best option would be to force this gang to disperse.\""
+    },
+    {
+      "Key": "caeb0dda-a6e4-4f3e-a100-52e0ccd0a221",
+      "Value": "{n}The kobolds quickly gather and leave into the woods.{/n}"
+    },
+    {
+      "Key": "9497c3b2-6f08-4936-a158-38b8cac765bc",
+      "Value": "{n}Over several minutes, you manage to piece together that these kobolds are looking for their \"king,\" Tartuk, who's lost somewhere. After several minutes beyond that, you deduce that this Tartuk somehow managed to befriend some trolls.{/n}"
+    },
+    {
+      "Key": "18985622-55d8-47c0-a8c8-8ba6dcc02080",
+      "Value": "{n}The old kobold continues to extend his hand as he stares at you.{/n}"
+    },
+    {
+      "Key": "18a12d2f-e4ff-4047-8705-4e4302812fe7",
+      "Value": "\"Trollsss, oboldsss.\""
+    },
+    {
+      "Key": "51e25cb1-4b34-4e63-8321-8a36a7c34360",
+      "Value": "\"Nooo! What are you doing? They're so cute! Just leave them alone; they've done nothing to you!\""
+    },
+    {
+      "Key": "26098919-d433-4eb0-809b-ef10f9e64885",
+      "Value": "\"{d|Tartuk}Tartuk{/d}, king, sssearch.\""
+    },
+    {
+      "Key": "5f193d3a-314b-4d74-b754-2bca67976dfc",
+      "Value": "{n}Jubilost frowns and folds his hands.{/n} \"You would do well to watch these yobbos,\" {n}he mutters, teeth clenched.{/n} \"They'll try to steal your cart as soon as you turn your back. That's just the way they are.\""
+    },
+    {
+      "Key": "31f1a4dc-6857-4765-82b7-9a46951d19a7",
+      "Value": "\"King,\" {n}the old kobold answers.{/n} \"Tartuk, trollsss, kobold. Love.\""
+    },
+    {
+      "Key": "9673149b-6847-4db0-928e-a59b98baf06a",
+      "Value": "\"Ssssss.\""
+    },
+    {
+      "Key": "885bfc03-efea-4890-8c2f-c43a50b6260f",
+      "Value": "\"Tartuk, trolls, love. Sssearch, Tartuk, kobold.\""
+    },
+    {
+      "Key": "b1a5c84e-00d7-49b5-a5af-0116b198bd46",
+      "Value": "{n}The old kobold seems to have said his piece, so he just continues to stare at you with cold, still eyes.{/n}"
+    },
+    {
+      "Key": "8bd9cc5e-b84c-4b62-9f66-f68652cb4608",
+      "Value": "\"Aww, it seems he's in love with you!\""
+    },
+    {
+      "Key": "b7fe34fc-161f-44de-8cde-739d5cef9bb1",
+      "Value": "\"Tartuk! Lufff!\""
+    },
+    {
+      "Key": "332653d2-119e-45e8-8470-7e781bbe4d67",
+      "Value": "\"Eeteesss!\""
+    },
+    {
+      "Key": "ba143d48-b593-40be-a623-1ece00e5ecfa",
+      "Value": "\"Tartuk!\""
+    },
+    {
+      "Key": "a5abde9b-9838-42b0-bf21-4d7775d1cc08",
+      "Value": "\"Kobold.\""
+    },
+    {
+      "Key": "fbef368c-f688-421e-9b96-08e7aa677b75",
+      "Value": "{n}You shake the old kobold's hand. It's slimy and cold. He continues to stare, his eyes still, yellow, and emotionless.{/n}"
+    },
+    {
+      "Key": "8a952044-2071-4b53-b58c-d482b5730801",
+      "Value": "\"Zzzerch!\""
+    },
+    {
+      "Key": "7b438122-2e6f-4a79-a109-608d6a0ac59b",
+      "Value": "\"Lufff!\""
+    },
+    {
+      "Key": "d9a3c1fd-f27a-4b61-8f1c-8f0534bb396e",
+      "Value": "\"Sssearch!\""
+    },
+    {
+      "Key": "01fd9faa-a4f5-4cab-98f3-0d18f9cb3db4",
+      "Value": "{n}Seeing you fail to understand the old kobold, Octavia touches your shoulder to attract your attention.{/n}"
+    },
+    {
+      "Key": "c39cf444-02a5-4a12-bf8b-e63eededac6c",
+      "Value": "{n}Unable to judge the expression on his snout, you can't tell if the old kobold is upset by your statement. After you answer, he turns away from you as if you ceased to exist.{/n}"
+    },
+    {
+      "Key": "80a218e9-9a21-4b11-88f2-85ca0d5796f9",
+      "Value": "\"Awww, they're so cute!\" {n}Octavia exclaims, clasping her hands together.{/n} \"May I keep one?\""
+    },
+    {
+      "Key": "74e53449-d30d-4341-ac48-65a63752e201",
+      "Value": "\"I think I understand what they're trying to say. It seems their king, Tartuk, is lost somewhere, and they're looking for him. But it sounds like he's become friends with trolls now, so I'm not sure it would be wise to help them...\""
+    },
+    {
+      "Key": "bfd73870-06b4-4a1e-a899-1d6b3ef34d39",
+      "Value": "{n}Seeing that you're unable to understand the old kobold, Jubilost exhales noisily.{/n}"
+    },
+    {
+      "Key": "6192d245-e7c0-4484-987c-91b5726b4272",
+      "Value": "\"Koboldsss, humansss, love,\" {n}the old kobold says.{/n}"
+    },
+    {
+      "Key": "2b28a172-13dd-46d6-b4b4-7e240ab71d80",
+      "Value": "{n}One kobold emerges from the swarming crowd. His scales are a touch lighter than those of his companions. Upon closer inspection, he seems to be extremely old. His skin is dry and lifeless, and he clearly lost some of his scales long ago.{/n}"
+    },
+    {
+      "Key": "a050e8e2-56ef-4876-bc57-d73a3844ad2d",
+      "Value": "{n}There's something curious about this kobold. He seems to be calm, confident, and... wise?{/n}"
+    },
+    {
+      "Key": "9862c46d-babf-4362-8f91-a58a7c7ef993",
+      "Value": "{n}No matter how hard you try, you can't glean anything useful from the old kobold's gibberish.{/n}"
+    },
+    {
+      "Key": "4633577d-91c7-4d44-bb56-cf365f8fdf36",
+      "Value": "\"Ssserrr. Obold.\""
+    },
+    {
+      "Key": "e01f4635-ee81-4eb0-af24-35410c7c4db8",
+      "Value": "{n}The old kobold continues to stare. After you answer, he turns away from you as if you ceased to exist.{/n}"
+    },
+    {
+      "Key": "bf74840b-036c-4805-a12e-430c74f360e8",
+      "Value": "{n}The kobold seems to not understand a single word you're saying, but reacts to the word 'Sootscale'.{/n} \"Sssootssscale. Bad. Not friend!\""
+    },
+    {
+      "Key": "9a41fa90-7a31-450d-b6f5-3133528c4b68",
+      "Value": "{n}You see a gang of kobolds resting around a campfire. When they finally notice you, they jump up and start scuttling around, making a mess, and bumping into each other, all the while muttering something in their hissing language.{/n}"
+    }
+  ]
+}

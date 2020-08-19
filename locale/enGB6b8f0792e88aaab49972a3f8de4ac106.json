@@ -1,0 +1,57 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "9f2887e7-f058-4599-ad25-bfac9c6e1172",
+      "Value": "{g|Population9_1}[Choice effects]{/g} \"My kingdom is in need of a noble class. Appoint those who possess enough power and influence to rule over their lands.\""
+    },
+    {
+      "Key": "ec9a2343-42df-4b25-9890-d4ebd2e4234e",
+      "Value": "{g|Population9_2}[Choice effects]{/g} \"The Stolen Lands managed without aristocrats before, they can live without them now and in the future. Let the people decide who they want as governors.\""
+    },
+    {
+      "Key": "707c7a46-2cdb-49d0-9627-823ca409882a",
+      "Value": "\"I'll leave this decision to you.\""
+    },
+    {
+      "Key": "0b240766-ce44-4951-8a4a-9efd5c73b3d5",
+      "Value": "\"{name}, your kingdom is growing, and its problems grow along with it. They must all be addressed, and this leaves no time for the trivial things. {mf|Barons|Baronesses|Kings|Queens} normally appoint others to deal with the little things. Sometimes it's the mayors and the local leaders. That's how an aristocracy is formed... a circle of power holders... But no matter what you call it, we can't do without such a group of trustees.\""
+    },
+    {
+      "Key": "e8a7ffbc-e5a3-4db8-93ca-7dab689e9be4",
+      "Value": "\"{name}, your kingdom is growing bigger. No matter how many advisors you hire, your officers can't address every problem and issue. A monarch should have vassals: knights, mayors, guild leaders, local chiefs and elders. It is they that form the natural aristocracy, the high society of any kingdom.\""
+    },
+    {
+      "Key": "02761c63-ed47-4c3d-9824-c7f2c7631c13",
+      "Value": "\"I will personally select those whose ambition equals their talent. They will be powerful enough not only to give people orders, but to protect them. You will have nothing to worry about. It doesn't matter who they were. These warriors will be your loyal vassals, reliable and just. I'll make sure of it.\""
+    },
+    {
+      "Key": "c7132fc5-84f7-4e20-9684-7c30b9afddfb",
+      "Value": "\"Perfect. I will announce to people that there will be no strange 'barons'. From now on, they are a self-governing the kingdom. This will make them so happy!\""
+    },
+    {
+      "Key": "1b98ba89-a909-4566-9b4d-96e8dafc5a4d",
+      "Value": "\"Many knights and adventurers seek to become your vassals, and fill the vacancy left by the local bandits you've exterminated. But what if they want more than you're willing to give? This will only puff them up. They might even start bossing people around and hurting them.\""
+    },
+    {
+      "Key": "885722db-f9a5-4cf8-b4e3-73a2d5f75b45",
+      "Value": "\"There was a time when bandit chiefs were the aristocracy of the {g|Stolen Lands}Stolen Lands{/g}, but we put an end to that. Many knights of honor now look to serve you, to become your faithful vassals and enforce the laws of your lands.\""
+    },
+    {
+      "Key": "dfa1cdeb-c1cd-4dd1-9e2d-3fa247f9a238",
+      "Value": "\"The bandit chieftains hold the greatest power in your lands. They already imagine themselves as the barons of your kingdom. Take it from me, giving them even more power would be... Just plain dangerous.\""
+    },
+    {
+      "Key": "b038e604-9b51-4b0b-934f-a576b0a4c506",
+      "Value": "\"Who lives in the villages and towns? The people! Regular citizens! Let them govern their own lives! Our cities and towns have elected their mayors. The villages have chosen their chiefs. They are the pillars we rely on, not a bunch of self-absorbed sloths!\""
+    },
+    {
+      "Key": "ff67b17c-bbe4-47a0-93a0-88ce1fba9f69",
+      "Value": "\"Unfortunately, the only people powerful enough to be granted titles are the local bandit chiefs. I'm afraid this situation is all too typical for the {g|Stolen Lands}Stolen Lands{/g}. Law and virtue is overtaken by brute force and deception. One might expect them to behave with dignity and respect if they become true vassals of the {mf|King|Queen}.\""
+    },
+    {
+      "Key": "a213a1cb-2841-418d-b080-499972e6e7c3",
+      "Value": "\"It's only natural that the law now rests on the shoulders of your royal vassals, not 'representatives of the people'. Mayors and chiefs come and go, but aristocrats remain, committing themselves to a ruler and raising worthy successors from a young age. They're obliged by the nobility that naturally arises from their responsibility to their subjects!\""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "843b8e26-b487-4300-ad1d-91e6b6f0bf1c",
+      "Value": "\"Why do you ask this?\""
+    },
+    {
+      "Key": "e3ce660b-9af5-447e-9287-1edfdf599ff9",
+      "Value": "\"Of course, Harrim. If I find any dwarven ruins, I'll take you to them.\""
+    },
+    {
+      "Key": "af3d5494-274c-4ccc-8af8-898e438ff7e4",
+      "Value": "\"Don't, Harrim. It will bring you nothing but pain.\""
+    },
+    {
+      "Key": "ff428ce2-b02f-4968-ab1a-453b1429c87b",
+      "Value": "{n}Harrim looks embarrassed. He runs his fingers through his beard and clears his throat a few times, then speaks at last.{/n} \"I heard... Not that it is important, but... Well...\""
+    },
+    {
+      "Key": "fe810be7-5f4d-4b61-996c-f82cf8342fae",
+      "Value": "{n}He clears his throat again.{/n} \"I heard that an ancient trade road built by the dwarves of {g|Five Kings Mountains}the Five Kings Mountains{/g} runs through these lands. I don't know what happened to them, or where they went. Unforgiving time spares no one... But the road itself is still here. And possibly not only the road.\""
+    },
+    {
+      "Key": "45df7714-5573-4e0a-b24a-54f45024d49d",
+      "Value": "{n}Harrim holds his beard in his fist.{/n} \"Well... {Name}, I have a request. If you find any dwarven ruins in the area, I'd like to see them with my own eyes.\""
+    },
+    {
+      "Key": "f14c8e68-159f-4acf-aa6c-bf1a9f250086",
+      "Value": "{n}Harrim fiddles with his beard again.{/n} \"I shouldn't, probably. But it's like a wound that's never healed. You know it will only hurt more, but you still need to scratch it... Of course it's foolish, foolish and vain... But still I wish to look at them.\""
+    },
+    {
+      "Key": "ff34fc4c-f7e8-440c-ae20-1e8fe8283cc5",
+      "Value": "\"Thank you, {Name}. I, well... Ahem! Thank you.\""
+    },
+    {
+      "Key": "6a8046b8-3dc2-42fb-85bf-d44c267b6f4b",
+      "Value": "\"You are right, {Name}, I know you're right... And yet I want to go there.\""
+    }
+  ]
+}

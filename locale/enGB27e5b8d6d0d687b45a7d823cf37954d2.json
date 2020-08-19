@@ -1,0 +1,133 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "f24d806a-2c82-454b-8edb-3f267cbd9e6d",
+      "Value": "\"Are you out of your mind? I can't let you go now!\""
+    },
+    {
+      "Key": "652fb794-1c0c-4ea1-823e-385e8c11d79d",
+      "Value": "\"I'm sorry, that was too harsh.\""
+    },
+    {
+      "Key": "1b5d3aef-bb5d-43de-b284-0bf5f9086d79",
+      "Value": "\"I'm not talking about taking your freedom — but this stupid idea is going to endanger the lives of the entire party.\""
+    },
+    {
+      "Key": "de48f5c4-f0e4-4e25-98c0-8f68ff599b1a",
+      "Value": "\"If you keep acting like this — maybe I will.\""
+    },
+    {
+      "Key": "cc275496-a674-4b9a-bd67-c2298120230a",
+      "Value": "\"Octavia, you're acting like a spoiled child.\""
+    },
+    {
+      "Key": "655823b3-d75a-419c-a6d0-3b0b57bb0289",
+      "Value": "\"Maybe you could explain what's going on first?\""
+    },
+    {
+      "Key": "13a2cdeb-e04d-4f73-9d24-b3ce3362d9d2",
+      "Value": "\"You'll let down me and the entire party.\""
+    },
+    {
+      "Key": "e9855b3c-2bd8-4187-aa06-402a92f4d245",
+      "Value": "\"I understand. Will you need any supplies or gear?\""
+    },
+    {
+      "Key": "5dffa0f0-2235-4315-aac8-829de80838f5",
+      "Value": "\"Alone? Sounds dangerous. Tell me what this is about, and I'll help you.\""
+    },
+    {
+      "Key": "3148df07-66f2-4ad4-b1ab-ac7227655d84",
+      "Value": "\"Have you thought this through? Alone, against the entire Technic League? Sounds like joke — and not a funny one.\""
+    },
+    {
+      "Key": "ff2f5078-042f-46f2-b1cd-fe156e8aa3e5",
+      "Value": "\"You don't have to do it alone. You have our whole team, plus all the resources of my {mf|barony|barony|kingdom|kingdom}.\""
+    },
+    {
+      "Key": "2435c818-123c-40d2-8906-34d884511b8e",
+      "Value": "\"So this was a test?\""
+    },
+    {
+      "Key": "9225e332-18d1-4bca-924c-97ba7e510983",
+      "Value": "\"You know you can always rely on me.\""
+    },
+    {
+      "Key": "1bbae6ab-a6a0-40cf-9d21-88916fd89aaa",
+      "Value": "\"You act like a spoiled child.\""
+    },
+    {
+      "Key": "39eed1d1-c585-4fe7-b4a0-4a3036444173",
+      "Value": "{n}Octavia approaches, her face serious with hints of gloom.{/n} \"Listen, {Name}... I have to tell you something. The thing is... I'm leaving. For a long time. Maybe for good.\""
+    },
+    {
+      "Key": "3c225413-3993-4f6c-ab12-c6e4904d6abe",
+      "Value": "\"You won't let me, huh? Maybe you'll tie me down?\""
+    },
+    {
+      "Key": "e94d4406-00a9-474a-9f0f-a78a6c48ab98",
+      "Value": "{n}Hearing this, Octavia winces as if struck by a whip.{/n} \"You know, I trusted you. Trusted that you're... Not like everyone else... Not like my former masters. I guess I was wrong.\""
+    },
+    {
+      "Key": "7eb61478-54c3-4dd1-9c63-d14c6610f689",
+      "Value": "{n}Octavia stares at you angrily for a long time, then looks away.{/n}"
+    },
+    {
+      "Key": "59db015c-0764-4c4a-8971-832f0d107b71",
+      "Value": "\"Fine... It doesn't matter. Forget it. I'll stay... For now.\""
+    },
+    {
+      "Key": "b9058646-73b7-46bf-bd11-b398f819eb0a",
+      "Value": "\"You would be fine!\""
+    },
+    {
+      "Key": "ff8925fa-2bdf-4f30-805e-cd66dd4b3ce6",
+      "Value": "\"Are you... Serious? Are you really ready to just let me go?\""
+    },
+    {
+      "Key": "fc63d3c0-a9ad-4f8e-8c2a-034ef4bd874d",
+      "Value": "\"I'm going to {g|Numeria}Numeria{/g} to destroy the {g|Technic League}Technic League{/g}. You have no idea what monsters they are. They kill people, enslave them, conduct horrible experiments... I have to stop them!\""
+    },
+    {
+      "Key": "74c7dc43-6ce8-478e-b132-d7766e01dbe4",
+      "Value": "\"I know. I'm sorry. But it's something I have to do!\""
+    },
+    {
+      "Key": "862a8220-da0a-4120-8d8a-5df8a03d2513",
+      "Value": "\"No... I can't put you in harm's way. Besides, there are many things here that you must attend. Just wait for me, all right?\""
+    },
+    {
+      "Key": "f43f798b-ac89-4a0c-a938-8573327d26f2",
+      "Value": "\"I'll go there and start a riot! I'll put an end to those wretches once and for all!\""
+    },
+    {
+      "Key": "7c96e464-4fe3-495b-952f-4b36ac8ebdbb",
+      "Value": "{n}Octavia keeps looking into your eyes, then finally looks away.{/n} \"You're right. It's a stupid idea... I think I mixed up my dreams and reality for a moment.\""
+    },
+    {
+      "Key": "a3ef33b1-2452-422d-b2d1-4adceeb611f7",
+      "Value": "\"Are you... Serious? Are you really prepared to start a war with {g|Numeria}Numeria{/g} for me?\""
+    },
+    {
+      "Key": "d595c1b5-ccfe-47bc-9e68-4df873ab997d",
+      "Value": "\"In the name of {g|Calistria}Calistria{/g}... That's why I love you. How could I have thought you'd have a different answer?\""
+    },
+    {
+      "Key": "11f03860-e8ff-4901-99a5-bc0e7a588d99",
+      "Value": "\"Yes... Probably...\""
+    },
+    {
+      "Key": "6b7dff9e-67c1-468c-a2a6-af3182462281",
+      "Value": "\"Yes, I know. Thank you. And...\""
+    },
+    {
+      "Key": "851a6bc3-21d9-486a-a36f-2dfb9898a005",
+      "Value": "\"A test? Well... Not exactly, but...\""
+    },
+    {
+      "Key": "cf4d94cc-0631-4e0b-919d-98bb19d83855",
+      "Value": "{n}The end of the sentence hangs in the air, as if Octavia wanted to apologize, but couldn't find the words.{/n}"
+    }
+  ]
+}

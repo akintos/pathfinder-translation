@@ -1,0 +1,105 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "f7dc8960-4b61-4339-b987-948bedd0225f",
+      "Value": "\"Congratulations, Nilak!\""
+    },
+    {
+      "Key": "a7804260-1593-49a9-9a15-93d486a3983f",
+      "Value": "\"Where will you lead your tribe now?\""
+    },
+    {
+      "Key": "9f694de3-6e23-4ee9-900b-6245c985710e",
+      "Value": "\"Why don't you stay in my lands?\""
+    },
+    {
+      "Key": "24c74a81-013d-460d-96e9-0ad87ef3ee55",
+      "Value": "\"Amiri, maybe now you can return to your tribe?\""
+    },
+    {
+      "Key": "1a120057-4bc9-41d6-bd7f-9d074bd0c299",
+      "Value": "[Give 1000 gold coins] \"Here, take this. You might need it.\""
+    },
+    {
+      "Key": "8bcb2328-95b9-4d2b-b63a-6806b5cca625",
+      "Value": "\"Farewell, Nilak. Have a safe journey.\""
+    },
+    {
+      "Key": "b7d20616-25f1-4ff7-b5e4-cf072e3e08d1",
+      "Value": "{n}As you approach the Six Bears campsite, you hear some rising noise and rumbling. Gathered outside their tents, the men of the tribe are having a heated discussion over something. One of them, a huge grey-haired man with a scar on his face, shouts:{/n} \"Brothers! This cannot go on! We need new chieftain, or this tribe is no more!\""
+    },
+    {
+      "Key": "42b56afc-7f60-4d71-82dd-c19bac91d5d9",
+      "Value": "\"{d|ChiefAkaia}Akaia{/d} has lost his instincts. He led us into a trap! We almost got killed in the war with Brevoy — all of us! Damn it, the only reason he still breathes is the kin-slayer was {d|Amiri Chief Lives}too weak{/d} to finish him off! Away with the old fool!\""
+    },
+    {
+      "Key": "ba00c722-c3e4-4ba7-a70a-1d6acbcb84ec",
+      "Value": "\"After the kin-slayer {d|Amiri Kill Chief}killed{/d} Akaia, we all acted like blind pups! We jumped into the trap. Almost killed ourselves against the {g|Brevoy}Brevoy{/g}! No real chief would let that happen!\""
+    },
+    {
+      "Key": "00918fa6-33ec-4990-8859-b72a0e855673",
+      "Value": "{n}Grinding his rotten teeth, Akaia tears a heavy necklace from his neck and throws it into dust.{/n} \"Take it, may you all choke on it! I'll see how you manage without old Akaia!\""
+    },
+    {
+      "Key": "4ce5a435-809f-42b2-b4fb-113769c6d382",
+      "Value": "\"So, who's gonna be the new chieftain? Maybe you?\""
+    },
+    {
+      "Key": "debf46ae-69e5-4c62-8b92-dd5925387365",
+      "Value": "\"Me? Oh no. The chieftain must know what threatens the tribe. Be able to defend it. If we were home, I would fight for power, but here, in the southern lands, we need a different kind of chief. I say {d|Nilak}Nilak{/d}!\""
+    },
+    {
+      "Key": "0dee40a2-f7ff-4da9-81f7-344fcd125a53",
+      "Value": "{n}There is grumbling in the crowd, but the barbarian continues, shouting over it:{/n} \"Think: who led us through {g|Numeria}Numeria{/g} — was it Akaia? No, it was Nilak! Who negotiated with the local tribes while he huffed and beat his chest? Nilak! Who was the only one who saw the danger of Armag and the Sisters? Nilak! Of course, a woman has never been leader of the Six Bears before — just like Six Bears have never left our homeland before. But if we want to survive, we must change! Nilak! Nilak! Nilak!\""
+    },
+    {
+      "Key": "ba6c44ea-925d-4277-8930-2570abba94de",
+      "Value": "{n}One by one, the barbarians stop arguing and join the chant. Soon the whole tribe is shouting Nilak's name. The girl steps from the crowd. Her face is confused, but, glancing above the men's heads, she sees Amiri's encouraging smile and nods. One of the barbarians puts a necklace of fangs around her neck, once worn by Akaia.{/n}"
+    },
+    {
+      "Key": "9a9aa2b0-bc48-41c1-b90b-05ae0f7e89e9",
+      "Value": "\"Brothers! I accept this honor. I swear that I will lead and protect the tribe, like every chieftain since the time of the Bear Ancestors. I will find a way to save us from the ghost that haunts us, and I will find a place for us in these strange southern lands. Get packed! We return to {g|Numeria}Numeria{/g}!\""
+    },
+    {
+      "Key": "376faf43-67b3-4c33-ab93-622744e748ec",
+      "Value": "{n}The barbarians disperse and start to pack their tents. Nilak approaches, and hugs Amiri.{/n} \"So, this is how it all turns out... I still cannot believe it. I never wanted to be leader! But you — you should be the chief!\""
+    },
+    {
+      "Key": "f7056193-fb5a-4a99-bc24-e679f2716e3f",
+      "Value": "{n}Amiri shakes her head.{/n} \"There will never be no place in the Six Bears for me. But you can do it without me, sis!\""
+    },
+    {
+      "Key": "776eed23-f806-47ab-838e-0ad5443807b8",
+      "Value": "\"Thanks. It seems that everything in the world will change, someday!\""
+    },
+    {
+      "Key": "6ec05481-c03a-420e-9e94-90713cdc8885",
+      "Value": "\"Thank you, but there is no place for us here. These forests, swamps, rivers… Strange and unfamiliar people... The Six Bears want to be with our kin, the Kellids.\""
+    },
+    {
+      "Key": "d0b7f1d5-4178-4438-ae59-db834050c99a",
+      "Value": "\"To {g|Starfall}Starfall{/g}. The evil spirit who haunts us is not that powerful. He doesn't dare attack near big settlements.\""
+    },
+    {
+      "Key": "8e1a4c66-8860-4af2-bfa5-974b6489cca0",
+      "Value": "\"No. You heard what they said. I'm pariah, kin-slayer. This cannot be changed. Even a chieftain's order will not make them forget what I did.\""
+    },
+    {
+      "Key": "5c6bae2f-aed2-4f80-b20f-12c4b751b7a1",
+      "Value": "\"Thank you. I hope one day our tribe will repay you for all the good you've done.\""
+    },
+    {
+      "Key": "48ccfa8f-1c4f-40a5-bfc2-a8a923bc77d7",
+      "Value": "{n}Nilak bows to you, hugs Amiri farewell, and leads her tribe away.{/n}"
+    },
+    {
+      "Key": "a3c0bfe9-85bb-427d-a03f-d6f030f85f39",
+      "Value": "\"A fine place for fugitives... Main thing, though — don't trust anyone there. And if anyone from the {g|Technic League}Technic League{/g} comes up to you, don't even listen what they have to say — just punch them in the face!\""
+    },
+    {
+      "Key": "85f17aca-414b-4933-b636-f794822134e9",
+      "Value": "\"I tire so of this admiration for family — both in savages and in civilized peoples. What's so special about the blood of kin that it can't be shed like any other?\""
+    }
+  ]
+}

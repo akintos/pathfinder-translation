@@ -1,0 +1,245 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "f01b789f-f2c0-4475-a180-1a8c528f520a",
+      "Value": "\"Who are you, ghost?\""
+    },
+    {
+      "Key": "409bf600-3a4b-4b03-8755-060eb5dd11b7",
+      "Value": "\"So you're one of gnomes from the First World? What happened to you?\""
+    },
+    {
+      "Key": "dedeb0a3-7d99-4685-b17b-c4588798d7e0",
+      "Value": "[Attack] \"You should be put to rest for good.\""
+    },
+    {
+      "Key": "1cd94210-2ee7-4a56-a110-ec6ed31d7f73",
+      "Value": "\"Very well, ask what you must.\""
+    },
+    {
+      "Key": "a8b7d816-e9a2-4175-a73d-5d5c21a4789d",
+      "Value": "\"Hell no. We'll not be talking to insane ghosts!\""
+    },
+    {
+      "Key": "5b92e246-5c86-4169-8ea5-69d81241a9c9",
+      "Value": "\"Is what Xae told us true?\""
+    },
+    {
+      "Key": "f078b42e-9a6c-41ea-8993-c66364403833",
+      "Value": "\"Is there any way to change what happened and help the gnomes?\""
+    },
+    {
+      "Key": "1b69e784-d147-4025-bf8b-3f5e486d2e8d",
+      "Value": "\"You say, 'we learned our lesson'... So you're also one of the Eldest, Host?\""
+    },
+    {
+      "Key": "519d8046-6d0b-4168-94c0-3a74b1954fbf",
+      "Value": "\"Why are you here?\""
+    },
+    {
+      "Key": "414d55b7-b837-4c84-af8a-94cff7cf5ac1",
+      "Value": "\"Great. Can I receive Jubilost's gift instead?\""
+    },
+    {
+      "Key": "bce0c6f2-629d-4ba3-96ff-899693b8aad4",
+      "Value": "\"Don't refuse. Principles are principles, but this is an incredibly rare gift. It would be good for you, and for all of us, especially since we're so often at war with the First World.\""
+    },
+    {
+      "Key": "206c0889-bf0f-4b25-a2f0-103ed686dc39",
+      "Value": "\"You're doing the right thing, Jubilost. Principles are principles.\""
+    },
+    {
+      "Key": "d1896ab2-d338-45ec-91a9-e7b7d7f466c1",
+      "Value": "\"I think you're rejecting this gift as a way to show off your nobility.\""
+    },
+    {
+      "Key": "ac8c87fa-0aff-4627-8c05-79671a649a6e",
+      "Value": "\"Maybe the gift will help Xae. That exhausted ghost deserves some peace.\""
+    },
+    {
+      "Key": "7e787fd2-146e-4173-b449-863cca6cda20",
+      "Value": "\"The gift should be given to some living gnome who is this moment dying of the Bleaching. Let our adventures help at least someone.\""
+    },
+    {
+      "Key": "7375339e-e4de-4439-bf22-10357835bf0c",
+      "Value": "{n}A flickering shadow stands before you, trembling and chanting something indistinct. In its silhouette you barely recognize the figure of a gnome girl dressed in rags.{/n} \"No, no... we need to try again... the door will open. I promised them! I promised!\""
+    },
+    {
+      "Key": "e7f89b98-ba6f-406a-8836-df966d895b9c",
+      "Value": "{n}Bursting into a long and bleak laugh, the ghost makes a move as if she wants to run away. But then freezes and gives you an eerily attentive look.{/n} \"Who am I? I am Xae, a wizard. I am the one who brought everyone here. This place... once {g|LanternKing}the Lantern King{/g} himself opened a gate from his dominion to {g|Golarion}Golarion{/g} here. He abandoned this road, but I thought... I thought I could... open the portal again. Or ask for help from an {g|Eldest}Eldest{/g}. Return all of us home! I was wrong. The door didn't open. We all lost color, one by one...\""
+    },
+    {
+      "Key": "4d37c8d3-5a43-43a4-80d4-165d6c85a4f8",
+      "Value": "{n}The ghost seems not to pay any attention to you.{/n} \"I promised them... I promised them... to open this door... to return everyone home...\""
+    },
+    {
+      "Key": "3227d31c-4f74-4e72-8997-bc3816800860",
+      "Value": "{n}The ghost lets out a strange sound, half moan half dull laughter.{/n} \"I lived a long, long life there, in {g|First World}the First World{/g}. Many long lives. I traveled, I created, I danced upon the edge of the abyss and fell into the clouds. I died to be born again – with none of my strengths and skills, but with all the memories of the wonders I'd seen. But eternity can become tedious even for a soul that's forever young! Many older gnomes suffered it even before we knew what the {g|Bleaching}Bleaching{/g} was. Sooner or later there's not enough novelty any more... So we all grew fascinated with a new game – 'death'.\""
+    },
+    {
+      "Key": "b4fa8461-d727-4eb9-865b-eeb6caf97894",
+      "Value": "\"One of the {g|Eldest}Eldest{/g} created it. Of course he was just borrowing it based on his observations of the true gods. He drew a string from {g|River of Souls}the River of Souls{/g} and created his own little circle of births, deaths and judgments. Imitating the all-mighty Pharasma, he judged the souls that he owned, and determined their further paths. It was so new, so exciting! Many gnomes volunteered. If not us, then who? ...\""
+    },
+    {
+      "Key": "c28d587a-f679-489b-a693-059acb20bd13",
+      "Value": "\"But those who take from the goddess of death must be ready for the consequences. {g|Pharasma}The Lady of Graves{/g} brought her wrath upon this creative {g|Eldest}Eldest{/g}. He was stripped of his power and forever doomed to serve in her court. And we gnomes... we were torn from {g|First World}the First World{/g} and bound to {g|River of Souls}the River of Souls{/g}, like all creatures of the {g|Material Plane}Material Plane{/g}. Thereafter we lived like the rest, died like the rest, and learned all the pain of the {g|Bleaching}Bleaching{/g}. Our 'game' had become our reality, and no longer could we tire of its fun and return to another one.\""
+    },
+    {
+      "Key": "ca2a004a-4fb2-4f1b-99d5-1313acf844bd",
+      "Value": "\"{name}, wait! I need to talk to her!\""
+    },
+    {
+      "Key": "b2730867-c5bf-48df-969e-096f928ad4c7",
+      "Value": "{n}Jubilost turns to the ghost. He seems most excited.{/n} \"Tell me... you are a gnome from {g|First World}the First World{/g}, right? How did it happen that you and the others ended up here... that you became mortal?\""
+    },
+    {
+      "Key": "c1a2e05f-0b73-4611-abec-e68783be1865",
+      "Value": "{n}Jubilost looks at the ghost, shaken. It seems to be one of those rare moments that the gift of speech is lost to him.{/n} \"But... this... I... this is not at all how I supposed it happened. Respected Xae, I understand that your condition does not allow for long conversations, but perhaps you could tell me...\""
+    },
+    {
+      "Key": "5b624c40-c2bf-4b3f-8f31-5f921ae97227",
+      "Value": "{n}The ghost listens to him with eerie attention.{/n} \"Of course I could... I could do many things... I tried many ways to open the portal... Everything except a sacrifice. A little blood would come in handy!\""
+    },
+    {
+      "Key": "f4dad718-1180-46ad-ac8b-0ca51c4d3200",
+      "Value": "{n}The ghost freezes, holds herself by the shoulders and sways back and forth, repeating over and over:{/n} \"I promised... I promised... I promised...\""
+    },
+    {
+      "Key": "5f395949-98e6-47d8-9412-b6dd3224cc00",
+      "Value": "\"That's rather a foolish performance, little ghost. You've staged a fine series of foolish performances: the playing the game of death, contacting an {g|Eldest}Eldest{/g} not known for his mercy, trying to open a door that leads nowhere. But who are we addressing? Greetings, {name}. And of course, you, most persistent of researchers. We see you solved our riddle...\""
+    },
+    {
+      "Key": "5b363700-d32d-4774-a636-6c411a56c9f0",
+      "Value": "{n}Jubilost folds his hands on his chest.{/n} \"We did. I might still fail to understand why you sent us the long way around instead of just telling us everything from the beginning...\""
+    },
+    {
+      "Key": "61b0c563-da1c-4ac7-a92e-8bfdaeb2db4b",
+      "Value": "\"Some truths must be discovered to be known. Or seen with your own eyes.\" {n}The Host nods at the pile of gnome bones and the shivering ghost.{/n}"
+    },
+    {
+      "Key": "ad458d34-4e03-4a32-9784-b91b6f9155cf",
+      "Value": "\"About the game of death and {g|Pharasma}Pharasma's{/g} punishment? Yes. One of our {g|Eldest}Eldest{/g} brothers thought he could steal from a deity. And the gnomes that answered his call thought they could play at death. Death decided otherwise.\""
+    },
+    {
+      "Key": "8063593b-4d41-401e-a4ad-c546020113bc",
+      "Value": "\"If there is, we know nothing of it. The {g|Eldest}Eldest{/g} can do many things, but as you both know, it is not enough to confront a deity – especially one such as {g|Pharasma}Pharasma{/g}. We have learned our lesson, and do not play with the toys of others.\""
+    },
+    {
+      "Key": "53e10b5d-8f10-4a1f-b0a6-bf867e5291f0",
+      "Value": "{n}You hear laughter from under the hood.{/n} \"Oh, we're tired of answering this question – and the many others that follow it. Ask us again next time. Especially since the 'next' time for you will be one of the first times for us...\""
+    },
+    {
+      "Key": "bf531c88-3027-4ba5-b660-bf8c7f11807c",
+      "Value": "\"Does that mean that this was all in vain?\""
+    },
+    {
+      "Key": "907ea3c2-80c2-4e33-9f9f-cb0280f0a331",
+      "Value": "\"Of course not. The journey is often more important than the destination. Be satisfied with the secret you have won.\""
+    },
+    {
+      "Key": "01b6a788-3463-4208-9546-4276c9207d0e",
+      "Value": "\"The day I can simply be 'satisfied' with something, I'll Bleach.\""
+    },
+    {
+      "Key": "6c45bf41-4a98-486b-a5bb-9e75a79885b7",
+      "Value": "\"The right question at last! As I suspect you've realized, there's no way to save all the gnomes from the {g|Bleaching}Bleaching{/g}. You cannot return them to {g|First World}the First World{/g} and restore their connection to their homeland. And even if there were a sufficiently desperate and powerful creature ready to do it, their actions would not be looked on mercifully by {g|Pharasma}the Lady of Graves{/g}.\""
+    },
+    {
+      "Key": "91afd69a-ec86-4653-94c6-e27c269f5117",
+      "Value": "\"Though it cannot be done for all, it can still be done for one. We are ready to offer this gift as a token of our appreciation for your exciting adventure and your solution to the riddle. Do you hear, sir Jubilost? You personally may become reconnected with {g|First World}the First World{/g}. You won't be entirely protected from death if you remain on {g|Golarion}Golarion{/g}, but you will be forever spared from the {g|Bleaching}Bleaching{/g}. Whenever you visit the First World, which we are aware you desire passionately, then you'll be as immortal as any fey.\""
+    },
+    {
+      "Key": "9990a9dc-30f3-4277-b533-9294bf229ee3",
+      "Value": "{n}Jubilost fixes his glasses nervously. It's the only chink in his nonchalant facade.{/n} \"If this 'gift' cannot help the whole gnome race, then I have no need of it. Of course, I'm not immune to vanity... but I've always been ready to share the burden of mortality with the others who bear it on their shoulders. I'll even keep wearing these stupid glasses! I'll survive without the immortality of {g|First World}the First World{/g}, and face the {g|Bleaching}Bleaching{/g} when it comes – as all gnomes have done before me.\""
+    },
+    {
+      "Key": "91444435-ca2e-4065-b581-7984c6dc5e99",
+      "Value": "\"You will have other opportunities to gain immortality, and the many problems that go along with it, {name}. Let someone else prove themselves this time.\""
+    },
+    {
+      "Key": "b5f3a8f8-0fb5-400a-afea-b717cff0623d",
+      "Value": "{n}Jubilost frowns.{/n} \"I remember {d|Jubilost Disapprove}discussing{/d} something similar with you after the Inconsequent Debates. I must admit, I've been thinking a lot about your words. Should I be more... practical in practical issues? Focus on how I can make myself useful?\""
+    },
+    {
+      "Key": "3b08fe12-ec34-41e0-8794-aa2428cc993b",
+      "Value": "\"I am surprised to hear this from you. Didn't we {d|Jubilost Approve}agree{/d} on the importance of self-sacrifice, back when we discussed the Inconsequent Debates? No, {name}, whatever may come, I cannot give up my principles.\""
+    },
+    {
+      "Key": "a2379d4f-26b2-4a07-bdd1-0119418641b4",
+      "Value": "\"I'm glad we understand each other. Well, my decision isn't changing. I decline the gift of the {g|Eldest}Eldest{/g}!\""
+    },
+    {
+      "Key": "a91cfe06-13a6-4846-8af8-ced3b7cc23e0",
+      "Value": "\"Then I'll hold true to my first instinct. I do not need this gift.\""
+    },
+    {
+      "Key": "d971ae3c-afbe-4c71-a197-341eb06322f3",
+      "Value": "\"Well, that's strong criticism, but I may deserve it. In that case, I'll listen to your advice, {name}. I will accept the gift.\""
+    },
+    {
+      "Key": "be3ecc4f-a932-4b01-b653-87e724dee2fa",
+      "Value": "\"That's a worthy idea. What do you say, Host? Can you grant the ghost peace, instead of giving me immortality and everything that goes along with it?\""
+    },
+    {
+      "Key": "df59c547-344b-4315-8ff9-ba60bf5cf796",
+      "Value": "\"Yes, that's the best thing we could do. What do you say, Host? Can you take what you're offering me, and give it to some other gnome instead? Anyone you choose, who is suffering from the {g|Bleaching}Bleaching{/g}.\""
+    },
+    {
+      "Key": "0e793336-440f-4179-bd4c-f3aaff755751",
+      "Value": "\"Thousand-year-old insane ghosts again? Well... why not? But we will do much more than simply give her peace. You'd be surprised how little difference there is between 'nowhere' and 'here and now'. She will open her door, just when she was always meant to.\""
+    },
+    {
+      "Key": "5163e4d1-289b-4d6f-b066-68fab8103e84",
+      "Value": "\"Oh, that's even more interesting. I see this has all been for a reason! Our choice, you say? Very good. We'll make a choice and save one lost soul. We already have, in a way.\""
+    },
+    {
+      "Key": "e1608e8f-5990-4034-9bd2-769848ce03a8",
+      "Value": "\"Very well. The gift is yours. Just to be clear, we'd like to remind you: it is only in {g|First World}the First World{/g} that you can die without fear. Don't try to do it anywhere else. Farewell, {name}, good-bye, Sir Jubilost! There is a long road ahead of you, but someday, in hundreds or thousands of years, it will surely bring you to our door.\""
+    },
+    {
+      "Key": "1dfc0a46-9a9b-47c5-9756-17fbb5068510",
+      "Value": "\"You have rejected the gift, Jubilost Narthropple. But we will not leave you without any reward at all. We offer you a trifle – the chance to sometimes glimpse eternity in the corner of your eye, just as we do. Now you can remember the history of things. Those who wander searching for mysteries and ancient relics might find this skill useful. And now – farewell! When you finally succumb to the {g|Bleaching}Bleaching{/g}, you may remember this moment. I wonder what you think then? Only time knows!\""
+    },
+    {
+      "Key": "4d09f0bf-6949-46ac-bb94-8f192e98a1a6",
+      "Value": "\"We aren't easy to surprise, but you managed it. Very well, a rejection is a rejection. But gifts of the {g|Eldest}Eldest{/g} are not so easy to withdraw from the world. They must find an owner somewhere, one way or another. So what should we do? To whom shall we grant what has been promised?\""
+    },
+    {
+      "Key": "45146590-9877-42a1-a1aa-a7cb79f6e69b",
+      "Value": "\"I can't believe I'm hearing this. The same Jubilost who spoke of his gnome servants with such contempt is rejecting immortality because he can't help all the gnomes in the world? Admit it — this is just another grab for attention, isn't it? Such a hypocrite!\""
+    },
+    {
+      "Key": "174a336c-e900-4ae2-a947-3f2c18a9a487",
+      "Value": "\"Let us assume for the moment that I've changed... matured.\" {n}Jubilost avoids looking at Octavia, but it's obvious how hard it is for him to say this and simultaneously avoid saying something rude.{/n} \"And this is not just about immortality. Exploring the {g|First World}First World{/g} is my dream. But, as we all know too well, it's mortally dangerous. The gift of the Host would be the best protection for me in my journeys... but no. This isn't going to happen.\""
+    },
+    {
+      "Key": "fbd3f2fb-4d92-42f0-b138-4d46222211dd",
+      "Value": "\"Poor creature... You should not have relied on the mercy of the gods.\""
+    },
+    {
+      "Key": "608198bb-3b35-40f9-bbba-9102140be12e",
+      "Value": "\"Foolish entertainment, closure, imminence. This is a story worth coming a long way for. I shall save it in my heart.\""
+    },
+    {
+      "Key": "dc987743-4e81-46dc-8c71-557cf0956b32",
+      "Value": "\"But... but how... It... it's all so sad! My thoughts are scattered, crying all over!\""
+    },
+    {
+      "Key": "2eba591f-5df0-4835-9e04-ce1cf6104d09",
+      "Value": "\"Stupid, gnome. Very, very stupid. I'd thought better of you, with a mind like yours. And believe me — that's no easy sentiment to draw from me.\""
+    },
+    {
+      "Key": "72644548-4e96-4b67-9258-6216c5926b0a",
+      "Value": "\"You call this punishment? You should see what Mother of Monsters does to wrong-wrongers! Off with their arms and legs — head replace your hind!\""
+    },
+    {
+      "Key": "db39e894-49e2-43a1-8148-e44a9531c248",
+      "Value": "\"Linzee not take much to squeak!\""
+    },
+    {
+      "Key": "78f4bf6d-9bb5-4eb1-9965-bf67a06abea1",
+      "Value": "\"Let go of me, you... you... little animal!\""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "5d647a09-3a55-4d60-9233-0e163fdde31a",
+      "Value": "\"Show me what's in the bag.\""
+    },
+    {
+      "Key": "d1be4cdf-75d6-41a1-9361-5005606a920b",
+      "Value": "[Attack] \"Thieves are executed in these lands.\""
+    },
+    {
+      "Key": "4b2be5c1-b52f-4db9-83a4-60379593f486",
+      "Value": "\"You cheated your own brother, sold the family relic... Aren't you ashamed of yourself?\""
+    },
+    {
+      "Key": "a1c25974-b6f5-4280-8188-fcaee5e95e75",
+      "Value": "[Attack] \"It's time I teach you a lesson!\""
+    },
+    {
+      "Key": "9cb4cf5e-9aa4-4c88-a702-8d3524358ed3",
+      "Value": "\"You're right. Your brother is a tyrant. Go in peace.\""
+    },
+    {
+      "Key": "c67df00c-9560-49c0-b356-498d3d744dda",
+      "Value": "\"I don't care about your family feud. I just need the armor. Hand it over.\""
+    },
+    {
+      "Key": "79d940bd-ead1-4bde-9f2b-e77cd1503b3d",
+      "Value": "\"You'll be going to jail until your trial. After that, I'll let your brother deal with you.\""
+    },
+    {
+      "Key": "cf5464d9-73b8-47dc-969b-db0b12b87a14",
+      "Value": "[Attack] \"Time to rid my country of one more pathetic thief!\""
+    },
+    {
+      "Key": "4eb13596-d120-4870-9d59-d3bcc313ad75",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "acb15b82-7f84-4430-9622-674dc4ef9d0e",
+      "Value": "\"I won't tell your brother you stole from him. Now take yourself from my lands and never return.\""
+    },
+    {
+      "Key": "c5e36985-9659-4321-b296-bb6637996e29",
+      "Value": "{n}The dwarf stashes something hastily in a big bag when he spots you.{/n} \"Um... What do you want? I mean, how can I help you?\""
+    },
+    {
+      "Key": "e8d46fcd-0677-4c0c-8b18-a430d9c9e4bc",
+      "Value": "{n}The dwarf turns pale.{/n} \"{d|Dragn}Dragn{/d} sent you after me? Please don't kill me! I'm Kergan, his younger brother. What stories did he tell you about me? That I stole from him? Well maybe I did. But he's the one who started it! Always bossing me around, saying he was older. Do this, don't do that! He was trying to strangle my talent! I'm an adventurer by nature! Adventure lures me! And he tells me my passion is nothing but prowling and roguery!\""
+    },
+    {
+      "Key": "5b89d2bf-20a2-405e-a562-da84fc3cd945",
+      "Value": "{n}Kergan flinches as if he's been hit, and then droops.{/n} \"You're right. I'm ashamed. I dreamt of returning home with wealth and glory, so Dragn would see how dumb he was. Now I've embarrassed myself, and I can't dare look him in the eye. It turns out I was the fool, not he.\""
+    },
+    {
+      "Key": "77090797-a6a8-44bd-88dd-75aecd77373b",
+      "Value": "{n}Kergan shrugs.{/n} \"Why would I be ashamed? It's my life. I'm not going to live my life just to satisfy my brother. Freedom means a lot to me. I'll make up for today's sins with tomorrow's good deeds.\""
+    },
+    {
+      "Key": "0718f04b-bfc6-4465-9355-9a942e24e945",
+      "Value": "{n}Kergan wipes the sweat from his forehead.{/n} \"It's all right, it's all right. I should go. Tell Dragn I don't care about him, or his advice, or his forges and hammers. I've got my own way.\""
+    },
+    {
+      "Key": "6f9eaac8-885c-452b-bb7e-d7bc9563d35c",
+      "Value": "\"Become a master, he said. Work hard in the family forge, he said. I'm sick to death of forges! I know it's a custom, but it's a stupid one. I want to see the world! To perform great feats! There's no adventuring without armor and a sword! So I took grandfather's armor. It was no use gathering dust like a holy relic! I wanted my chance at glory. I wanted it to serve our family honorably one more time!\""
+    },
+    {
+      "Key": "736bfb3c-99d2-46b9-8b28-e1d85873adc6",
+      "Value": "\"But... the whole hero thing didn't exactly work out. I had to sell the armor to feed myself. I swear, I was going to buy it back... I just needed more time. While I was gathering my strength, I heard there was a blacksmith named Dragn, who was forging some legendary armor. I realized this could be my second chance! I know I already did him an awful wrong – but if he hadn't hounded me so, I would have become a respectful adventurer, a world traveler, and a wealthy man!\""
+    },
+    {
+      "Key": "50c21f71-3e89-4bfd-b2aa-6a12f226c4cf",
+      "Value": "{n}The dwarf lifts up his hands in despair.{/n} \"Oh... all right, all right! Just don't use your fists!\" {n}Kergan bites his lip.{/n} \"What are you going to do to me?\""
+    },
+    {
+      "Key": "04b899f1-9131-407f-8201-503d5f5c4774",
+      "Value": "\"No way! If that's how you're going to behave, then just go ahead and try to take it by force!\""
+    },
+    {
+      "Key": "d570bfc3-0565-4061-8f44-4f9e7567f7a9",
+      "Value": "\"Have mercy! Please, don't kill me! I'll give you everything! Here's the armor – take it! Just spare my life!\""
+    },
+    {
+      "Key": "9e52209a-d555-4779-8927-f84183e28be7",
+      "Value": "\"Thank you! Thank you so much! I'll change! Just don't kill me!\" {n}The dwarf slumps down onto the ground, exhausted.{/n}"
+    },
+    {
+      "Key": "91bc121e-c87f-4107-8db7-776310584898",
+      "Value": "\"I'm Kerg... Kergabas! Dwarf Kergabas! Just a stranger on my way to, um... {g|Andoran}Andoran{/g}!\" {n}Judging from the look on the dwarf's face, the name \"Kergabas\" sounds just as dumb to him.{/n}"
+    },
+    {
+      "Key": "e75fbfec-7e27-482e-81ab-cbc216d0d0a4",
+      "Value": "\"I know, it's all my fault. I stole from my kin, from my own brother... but don't punish me, I beg you! I can go to jail if you like! Or maybe... maybe you could just set me free? Please don't hurt me!\""
+    },
+    {
+      "Key": "ed737619-a140-4d83-8664-5218ce7903ab",
+      "Value": "\"You know what? You can take the armor. I'll... I'll go to the city and surrender to the guards. I'm tired of running away... There's no point. There's no escaping your own guilt. I'll serve my sentence, and after that I'll lead a different life, a clean one! My brother might even take me back!\""
+    },
+    {
+      "Key": "348e67c0-d32b-43d2-9c36-4f67fe838e18",
+      "Value": "\"Oh, really? Oh, boy! Thank you so much! I'll pay you back in full when I become a great hero!\""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "30b3082d-4d95-4cf4-953e-a9beced84b42",
+      "Value": "\"My friends! We had a glorious feast after the coronation, but I'd still like to propose another toast to our friend! To you, {name}! May {kingdomname} stand for a thousand years!\""
+    },
+    {
+      "Key": "445978de-fc0c-4881-8fe5-ae6b5d858cdd",
+      "Value": "\"To the {mf|King|Queen}!\""
+    },
+    {
+      "Key": "229acb05-d44c-4e5e-84c1-bb02f742a7f9",
+      "Value": "\"To you, {name}! You deserve it!\""
+    },
+    {
+      "Key": "f5943115-272e-4378-8b1d-d9d3a00752a0",
+      "Value": "\"Bottoms up!\""
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "693fc8cb-50e1-4e7c-b65e-cb128232e614",
+      "Value": "\"You're suddenly much more polite.\""
+    },
+    {
+      "Key": "aa85f8b5-6a5e-44f7-b9f5-89c3dcb2e89c",
+      "Value": "\"Where is this neophyte who was supposed to test me?\""
+    },
+    {
+      "Key": "5398d95e-7458-4eb5-9fcd-cbf6f73f2af9",
+      "Value": "\"What does your name mean?\""
+    },
+    {
+      "Key": "48fb6143-b363-443c-b67d-0e532eefb915",
+      "Value": "\"Tell me about your order.\""
+    },
+    {
+      "Key": "c0a04b32-5e41-45d9-b64e-0e17073d1efc",
+      "Value": "[Attack] \"I don't need the likes of you here!\""
+    },
+    {
+      "Key": "bbc8c1be-e9c5-4875-a28c-618133f45959",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "8cab86aa-d937-401c-b814-53ded87abbb6",
+      "Value": "\"Where does your order come from?\""
+    },
+    {
+      "Key": "495b9413-d193-4dd6-9fe7-70d1a939b608",
+      "Value": "\"What is your philosophy?\""
+    },
+    {
+      "Key": "8086b347-b0f8-4b5d-9a02-fccdc5fc9250",
+      "Value": "\"What deity do you venerate?\""
+    },
+    {
+      "Key": "310b72d8-c579-412b-838c-e9812fb00032",
+      "Value": "\"What does 'Suramgamin' mean?\""
+    },
+    {
+      "Key": "f731a468-931b-47db-b3ef-a2a4bc247d9b",
+      "Value": "\"Are you sure you want to help me? My views on the world differ from yours.\""
+    },
+    {
+      "Key": "96c0f455-1fae-4281-aa53-fbdae98ae598",
+      "Value": "\"Thank you for your answers.\""
+    },
+    {
+      "Key": "99231cb9-82bd-46bd-8a13-6d5c238f7989",
+      "Value": "\"That time I didn't have to wait long! Congratulations, Your Highness – you passed this trial with flying colors!\""
+    },
+    {
+      "Key": "97b407ee-307f-494b-9206-5add2bfe5ab1",
+      "Value": "\"You took your time, Your Highness! Unfortunately you didn't pass the trial.\""
+    },
+    {
+      "Key": "983ff4fb-3355-4686-814d-e52b73821d31",
+      "Value": "\"Now the final trial awaits you. Find my sister, Vidya the Lion. She is somewhere nearby – you need not look far.\""
+    },
+    {
+      "Key": "8729135c-a745-4774-8807-7e3ab24fc123",
+      "Value": "{n}The dwarf smiles.{/n} \"Standing right in front of me. Who made you run here day and night without sleep or even rest? It certainly wasn't me! You tested yourself – and with brilliant results!\""
+    },
+    {
+      "Key": "99bfdf85-aeeb-436d-a2e2-7ad2c963e6e9",
+      "Value": "{n}The dwarf smiles.{/n} \"Standing right in front of me. This time you were supposed to test yourself. Could you bend your will to follow the road day and night, without sleep or even rest? Alas, you treat yourself too gently!\""
+    },
+    {
+      "Key": "701af65c-f9c8-4850-942f-5a6cfe404449",
+      "Value": "\"Forgive my rudeness. It was a part of the trial. Not everyone is be able to smother their pride and suffer insults from a smug stranger!\""
+    },
+    {
+      "Key": "29eec1ad-a632-477d-8ad9-96a799a28d02",
+      "Value": "\"Not too smart on your part.\" {n}The dwarf whispers a spell, and boundless peace and tranquility descend upon you. Unable to even reach for your weapon, you watch Puja leave.{/n}"
+    },
+    {
+      "Key": "9f3e9c04-f433-4d27-b270-859c2fb63836",
+      "Value": "\"Safe journey, Your Highness. We will meet again.\""
+    },
+    {
+      "Key": "2f50b9a9-f43a-4505-921d-2f320a5c52cc",
+      "Value": "\"I received the name Puja from teacher Avalo. He comes from {g|Jalmeray}Jalmeray{/g}, and gives his disciples names in his native tongue. 'Puja' means 'prayer'. And 'Wolf' is an honorary title. To become a master of an order, one must walk one of the paths of wisdom – the Phoenix, the Unicorn, and so on. The Way of the Wolf is the way of humility, of foregoing pride and personal ambition. Of honest, if sometimes thankless, work for the common good.\""
+    },
+    {
+      "Key": "9ab1dbff-619b-45f5-b0c9-fcbb08132b0a",
+      "Value": "\"Refusing those who seek knowledge is a sin. What do you wish to know?\""
+    },
+    {
+      "Key": "d9a3b3ef-22bf-4bbd-a8ec-ea73e5856fb0",
+      "Value": "\"It was founded by teacher Avalo. Very little is known of his past – only that he is from {g|Jalmeray}Jalmeray{/g}. Some say he was a criminal and fled the law... These are only rumors, but even if there is truth behind them – well, many in our order used to be villains. Changing one's sinister nature, rising from mere animal existence to goodness and order – this is the backbone of our teaching.\""
+    },
+    {
+      "Key": "73af459d-04c8-4fa9-b512-7d93864fc58e",
+      "Value": "\"It is difficult to translate – there just isn't a suitable word in the common language. 'The way of a hero' is close, but hero is not understood as one who spills more blood than the rest. 'The way of the righteous' perhaps, though still not very exact. If you would forgive such a bulky phrase, it's more precisely \"the way of the person who makes the world a better place'.\""
+    },
+    {
+      "Key": "cd82eb3c-f1f6-490f-a676-3a297b44a947",
+      "Value": "\"To tell the tale... the teacher spent many years meditating in the Arthfell Forest and then showed up out of nowhere at a great temple of {g|Sarenrae}Sarenrae{/g}, and challenged the high priestess to debates about the essence of their faith. He argued thus with many religious leaders, proving that there's a common principle behind the faiths of the different gods of good and order, a common path he called the Wise Way. Disciples came to him. But though there was nothing profane in his words, it seemed that the servants of even the most kind deities don't like it when their congregation is being taken from them.\" {n}The dwarf chuckles sadly.{/n}"
+    },
+    {
+      "Key": "18b4d13a-c55f-489a-a602-3d71f8d385b3",
+      "Value": "\"And thus the teacher returned to the Arthfell, swearing then and there that our order would build no temples of our own. Some of his disciples stayed with him, while others went traveling, spreading his teachings. We are no secret, but don't attract too much attention either. Some tell us to leave, others listen and learn... That is all.\""
+    },
+    {
+      "Key": "84112cab-126c-44b0-bb33-f168b76189fe",
+      "Value": "\"The Wise Way. Our teacher discovered it after years of contemplation and meditation. Its common principles of good and order underpin the faiths of all the kind gods. If everyone followed them, the world would know no war, and all would live as one vast family. The core principle of the Wise Way is non-violence. Yes, it can be difficult at times, especially when evil rages all around. But we believe that it is only by pacifying the evil in one's own soul that we are able to defeat monsters.\""
+    },
+    {
+      "Key": "809c1eb7-e8e7-4132-8266-193dcb87ac90",
+      "Value": "\"We are not sure – that's why we are testing you! But be assured that even if you harbor evil and hope only to profit from us... If you manage to pass our trials, this surely means there is room in your soul for good. Many of our members were once scoundrels or worse. And each of them is now living proof that the Wise Way is open to all!\""
+    },
+    {
+      "Key": "148dab1b-fc43-411c-a00f-8ba35821167b",
+      "Value": "\"We venerate many deities, but swear by none. {g|Shelyn}Shelyn{/g}, {g|Sarenrae}Sarenrae{/g}, {g|Irori}Irori{/g}, {g|Iomedae}Iomedae{/g}, {g|Erastil}Erastil{/g}, {g|Abadar}Abadar{/g} – each a fragment of the truth. But only teacher Avalo gathered all the parts together in the teachings of the Wise Way.\""
+    },
+    {
+      "Key": "15825e1d-8345-4f4b-918d-7de0ead21d4e",
+      "Value": "\"As the teacher likes to say – ask and be answered.\""
+    },
+    {
+      "Key": "886585a4-21ed-4fb3-92f1-636bb7b9a7cd",
+      "Value": "\"Hello again, Your Highness. Congratulations! You not only passed the trial, but you performed it brilliantly! If you walked just a little bit faster, you'd have had to wait for me, not me for you! My sincerest respect!\""
+    },
+    {
+      "Key": "4c317b2f-a31a-4f50-a396-2617b8990a1d",
+      "Value": "\"A wolf lives for the pack — true. A wolf is humble and not proud — not true.\""
+    },
+    {
+      "Key": "ece33b70-1a14-411b-bb67-b43dd43a1b70",
+      "Value": "\"I see wisdom in these words. Perhaps your teachings do not fully match with what I believe and know of the world, but there are many kind things in them.\""
+    }
+  ]
+}

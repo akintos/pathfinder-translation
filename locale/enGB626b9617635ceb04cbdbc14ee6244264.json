@@ -1,0 +1,105 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "57b6bfba-3c8f-4cb6-84f6-1f261d99cb97",
+      "Value": "{g|Economy9_2}[Choice effects]{/g} \"Start producing these coins.\""
+    },
+    {
+      "Key": "b955129c-68c5-4b1d-85b3-e0537dde4b37",
+      "Value": "\"Let's avoid the expense. Besides, seeing my face on every coin would drive me crazy.\""
+    },
+    {
+      "Key": "432cb455-6d9d-44c5-9bab-5e63191aa0ed",
+      "Value": "{g|Economy9_4}[Choice effects]{/g} \"Do what you offered. You know what I mean.\""
+    },
+    {
+      "Key": "ca2e156c-4f54-4fd0-bbd7-0049854007c9",
+      "Value": "\"Decide it yourself. After all, you're the Treasurer.\""
+    },
+    {
+      "Key": "198ff968-e766-4e89-8eae-701c607bb23a",
+      "Value": "{g|Economy9_1}[Choice effects]{/g} \"I like your plan. Let's start minting coins, and order that taxes can only be paid using them.\""
+    },
+    {
+      "Key": "a8b32631-0b26-48bb-bcee-cd3eb71e4d2e",
+      "Value": "\"Your Highness, a couple of Daggermark swindlers were arrested at the city market. They were paying with coins from their own country. There was significantly less gold in the coins than there was supposed to be. The coins turned out to be cut by nearly a quarter.\""
+    },
+    {
+      "Key": "94349c70-66e5-4c95-93a5-0551f371dfcd",
+      "Value": "\"Your citizens are grateful to you, {name}. Thanks to you, their pockets are filled. Strange that it's not me they're thanking. Now that you're a true {mf|king|queen}, why don't we start producing coins with your face on them?\""
+    },
+    {
+      "Key": "55438c8b-c314-4635-82e3-08904a725976",
+      "Value": "\"Your Highness, I suppose that your contribution to the history of this once-worthless land is so great that we must perpetuate it. At first, I was thinking about a park, a statue and a couple of fountains, but that's too visionary. Then another idea came into my head. Let's produce coins with your face on them!\""
+    },
+    {
+      "Key": "8a0b0bee-72a1-45aa-937c-47ddd3c08ec0",
+      "Value": "\"It will be done. This day marks a new milestone in the history of the kingdom!\""
+    },
+    {
+      "Key": "deeda486-17eb-4970-8498-0e77f861199e",
+      "Value": "{n}Jubilost nods approvingly.{/n} \"Everything is already in motion. Your decision was so obvious that it hadn't even occurred to me to delay the preparations.\""
+    },
+    {
+      "Key": "fa3860d1-6379-4bca-a655-b9709530b64a",
+      "Value": "{n}Maegar shakes his head.{/n} \"Very well, as you please.\""
+    },
+    {
+      "Key": "ecae5708-0877-4901-8aed-faa3242c1e27",
+      "Value": "{n}Jubilost takes off his glasses in astonishment and starts wiping the lenses.{/n} \"Are you serious? Do you have a phobia or something? A magical disease? I've never heard of anything like it. I'd love to know more, if you don't mind. What about mirrors? Your reflection...\""
+    },
+    {
+      "Key": "11c8eb1d-2a7f-4fb9-9068-f8a1a45f59c5",
+      "Value": "\"Indeed, we shouldn't be in such a hurry. There's always a better use for money.\""
+    },
+    {
+      "Key": "050a7649-2832-4d39-be41-0715ba1215f8",
+      "Value": "\"For the record, this is the way for us to get our own currency at our disposal, which will have a positive impact on the market due to inflation... You're not listening to me, are you? I'll put it simply. Producing coins does have a price, but it will pay off over time.\""
+    },
+    {
+      "Key": "b1ae7660-75e0-4cb4-b7ba-92a49d3134f5",
+      "Value": "\"Let every one of your subjects remember who to thank for the money they're holding in their hands! You pulled these lands out of poverty! You deserve a reward, don't you? For instance, one tenth of the gold from every coin, which we will secretly replace with copper. This new currency won't pay off right away, and we'll have a significant up-front cost. But don't worry, nobody will notice our little trick.\""
+    },
+    {
+      "Key": "450a9581-3aaf-416f-85ac-0c03e979c791",
+      "Value": "\"It makes me wonder why we haven't already produced our own coins. One with your face on it, for instance. It's the only way we can be assured that the money of our subjects is intact. It will also send a message to our neighbors that we're someone to reckon with. It will be some expense to set this up, but it will pay off eventually.\""
+    },
+    {
+      "Key": "76508727-481e-4e02-8f9d-139515f22f8b",
+      "Value": "{n}Jubilost puts the glasses back on when he catches your expression, and his mood darkens.{/n} \"Oh, I see. You're joking. Very funny. Ha. Ha. As if you were so modest. All right, enough chit-chat, I've got things to do.\""
+    },
+    {
+      "Key": "701fffbd-323f-4694-9282-58b060ca19f6",
+      "Value": "\"It will be done. Congratulations, Your Highness. You have become a part of history.\""
+    },
+    {
+      "Key": "5e65b7c4-ea00-44cf-a79d-0f6ea8c92af4",
+      "Value": "\"I could abuse your trust and stamp out coins with my own face on them. But why should I? My face already decorates several books which are more valuable than any amount of gold!\""
+    },
+    {
+      "Key": "123de6ff-fabc-4efc-9a16-b98b2ae6de14",
+      "Value": "{n}Bartholomew winks meaningfully.{/n} \"I'm on it, Your Highness. I shall order everything that's required: the coin machine, gold, casts... as well as a grindstone and tin snips.\""
+    },
+    {
+      "Key": "ca74c9ae-2f21-4e51-8464-9c4b822fb8a8",
+      "Value": "\"Your subjects already celebrate your wisdom and fairness. I think they should also be reminded of your captivating beauty.\" {n}The girl smiles coyly.{/n} \"It's high time to make everyone in your kingdom carry your portrait with them... A profile minted in gold!\""
+    },
+    {
+      "Key": "dae2938a-797c-4423-ad9a-6e991ba27fee",
+      "Value": "\"Our trade depends too much on the coins of others. Constant rate fluctuations make our money changers rich, at the expense of everyone else. Your country needs its own real currency!\""
+    },
+    {
+      "Key": "ddc03cf2-d14a-4be5-bf2d-03455c2130de",
+      "Value": "\"I have a plan that will make coins decorated with your noble profile far more valuable than the gold they are made of. Soon after minting the coins, we will announce that taxes can only be paid with these coins. Our merchants will be falling over each other, snatching these new coins! What do you say?\""
+    },
+    {
+      "Key": "2b0f9621-cef6-4df5-bdfe-2791c0c827c7",
+      "Value": "\"Thank you for your trust.. I will give the order to begin minting coins, and prepare the announcement about new tax collection rules. You'll see – a coin with your profile will soon be worth three times its weight in gold!\""
+    },
+    {
+      "Key": "7c17236f-f102-4570-a262-723597f7bbc2",
+      "Value": "{n}Kanerah grows gloomy.{/n} \"Well, what is best is often the enemy of what is good. Even without my tax collection plan, our own coins would have been beneficial for the economy, not to mention international prestige. In any case, know this: in your caution, you're passing up a big profit.\""
+    }
+  ]
+}

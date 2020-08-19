@@ -1,0 +1,769 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "509999ec-651d-4dc4-a126-11af3cbe30f7",
+      "Value": "\"Tell me about yourself.\""
+    },
+    {
+      "Key": "990140a3-dbab-4f94-9b36-c5b971eb2b67",
+      "Value": "\"Tell me about the way of Shelyn, and about her paladins.\""
+    },
+    {
+      "Key": "c99eb303-e532-451e-9b0c-9cd9fd7d7690",
+      "Value": "\"You know, you don't have to follow etiquette and maintain good manners while speaking with me, if you don't want to.\""
+    },
+    {
+      "Key": "e3622c15-6748-4fd5-9ff1-e170fce8ce1a",
+      "Value": "\"I guess you have plenty of suitors.\""
+    },
+    {
+      "Key": "d98b3116-2973-48ab-b734-8afcc629ff87",
+      "Value": "\"You know, you really are quite beautiful. You're a reliable friend and a worthy ally, but would be a crime to ignore your beauty.\""
+    },
+    {
+      "Key": "461e0997-d57a-4e90-a3fc-ec262fb190c7",
+      "Value": "\"You're so eager to follow my orders. Why?\""
+    },
+    {
+      "Key": "8a1cee3a-a3ae-4204-a972-cab44c246ec0",
+      "Value": "\"Thank you for the conversation. Talk to you later.\""
+    },
+    {
+      "Key": "6d2f22e8-5183-4684-a4e4-f8ab9ffb441b",
+      "Value": "\"Where are you from? What was your childhood like?\""
+    },
+    {
+      "Key": "ca7e8a51-987a-44eb-ae68-e9e6873acdf2",
+      "Value": "\"Why were you sent to the paladin Order of the Eternal Rose?\""
+    },
+    {
+      "Key": "054f80a4-500d-4619-8ebb-ea212635f0b2",
+      "Value": "\"What did they teach you in the Order?\""
+    },
+    {
+      "Key": "f5de3856-9d1d-4265-b532-603b9cfad5f1",
+      "Value": "\"Why did you leave the Order?\""
+    },
+    {
+      "Key": "d3a98946-0327-473b-bbf7-3132b3cacb3a",
+      "Value": "\"What did you do after you left the Order?\""
+    },
+    {
+      "Key": "13e95d82-63e1-484c-a36f-da85d8f172c8",
+      "Value": "\"I bet your beauty inspired many people in the Order.\""
+    },
+    {
+      "Key": "35fe6e88-1f2b-48f3-8ec1-60d4d27714f3",
+      "Value": "\"Let's change the subject.\""
+    },
+    {
+      "Key": "b7430ad3-9f95-4de2-b6b2-e59e9161c57f",
+      "Value": "\"Thank you for your honesty. I understand you very well. You are a true friend, who I can trust with my life.\""
+    },
+    {
+      "Key": "5484ba04-f907-408f-8b82-5f750f33b3e3",
+      "Value": "\"I know what you mean, but still, you shouldn't drive people away who only want to open their hearts to you. It's not their fault that you inspire such feeling.\""
+    },
+    {
+      "Key": "eb5e4e21-2a88-4a48-8444-e89125b39afe",
+      "Value": "\"Whoa, whoa, why all the shouting? It was just a simple question. What's become of all your precious self-control?\""
+    },
+    {
+      "Key": "eddc175e-7864-414d-99d1-a81eaafaaad1",
+      "Value": "\"For the moment, yes. I'm not going to stalk you like your admirers. But I wanted you to know that I've noticed you.\""
+    },
+    {
+      "Key": "653ea3e7-f4ca-4381-ac95-1c6fa638eacb",
+      "Value": "\"And what if I meant something else? Are you afraid to yield to temptation? I know you have plenty of suitors, but I'm not afraid of competition.\""
+    },
+    {
+      "Key": "4271d85f-87d8-4d74-84b5-2962312e2004",
+      "Value": "\"Well, yes. That's what I meant.\""
+    },
+    {
+      "Key": "16ba3fac-1a7c-4f25-8e0c-8aef27de19a4",
+      "Value": "\"You speak of Shelyn with such contempt. What did the goddess of beauty do to earn your anger?\""
+    },
+    {
+      "Key": "e069045c-9749-4e62-8c16-663a120d1221",
+      "Value": "\"What do paladins of Shelyn usually do?\""
+    },
+    {
+      "Key": "55d63dd3-3415-42a7-b90e-4715b1da9641",
+      "Value": "\"I understand that not every piece of art is good, or even decent, but surely there must be at least a few great works among them.\""
+    },
+    {
+      "Key": "ed155cae-56b0-4eed-ac12-59b5460a0585",
+      "Value": "\"You said that every paladin must practice some kind of art. What kind of art did you pursue?\""
+    },
+    {
+      "Key": "8e940265-0c0f-4478-aa1e-e3015c07c982",
+      "Value": "\"I see. Let's talk about something else.\""
+    },
+    {
+      "Key": "cead39fe-d3be-44c9-9c5f-71a13825bc34",
+      "Value": "\"I think it would be better if you leave.\""
+    },
+    {
+      "Key": "7dacfeae-428f-4b2a-9027-e8b42a397ceb",
+      "Value": "\"Yes.\""
+    },
+    {
+      "Key": "be7a5edf-fcb6-4ad4-aa26-a02c409377ae",
+      "Value": "\"No.\""
+    },
+    {
+      "Key": "6e747a8c-7574-4b22-a3ba-f3fccb42ed95",
+      "Value": "[Give Fredero's letter to Valerie] \"Valerie, I've received a letter from Fredero Sinnet. He says I'm to free you from service and return you to Shelyn.\""
+    },
+    {
+      "Key": "9acd1e8d-a0ca-4c2e-90dd-62e39ffca639",
+      "Value": "\"Then it's time to visit Oleg and Svetlana.\""
+    },
+    {
+      "Key": "dbb205bf-4a11-49ec-9855-a70d2373f532",
+      "Value": "\"What if I just throw these paladins off my lands? I'd be well within my rights.\""
+    },
+    {
+      "Key": "ebf38b5d-f536-4732-a827-5315a0a560b2",
+      "Value": "\"You do know we could just ignore this letter, right?\""
+    },
+    {
+      "Key": "348b34f2-540f-43a3-bf3a-ff368c65e0fa",
+      "Value": "\"How do you feel? I see your wound hasn't healed yet...\""
+    },
+    {
+      "Key": "99f5b142-151c-4fb9-a672-7798151757ca",
+      "Value": "\"We don't have the time to bother with this.\""
+    },
+    {
+      "Key": "a3520b02-c6f3-49da-b7c2-6f31a0aa816d",
+      "Value": "\"Valerie, we need to talk. You've been acting strange lately.\""
+    },
+    {
+      "Key": "0c7afaa4-2f4e-4d1b-b318-e25f21b7e557",
+      "Value": "\"Captain of the guard said you were taking it out on random people.\""
+    },
+    {
+      "Key": "7b9189e0-6c40-4562-9293-e09cac9c0c18",
+      "Value": "\"Why did you think that pasquinade next to the tavern entrance was about you?\""
+    },
+    {
+      "Key": "3ef00a0f-1210-4f9f-8d12-7693eab06c38",
+      "Value": "\"I know you had a fight with the Storyteller. And you yelled at Linzi.\""
+    },
+    {
+      "Key": "f5358369-a57f-456b-a1df-7fa487f716de",
+      "Value": "\"Only you can figure out what's bothering you.\""
+    },
+    {
+      "Key": "bf2b9cb8-5682-4c87-a361-8f270421a528",
+      "Value": "\"Linzi thinks you're concerned about the scar.\""
+    },
+    {
+      "Key": "1b5b0d68-fa83-4857-9858-b745fb252647",
+      "Value": "\"You've simply run out of patience. That sometimes happens when you're surrounded by idiots.\""
+    },
+    {
+      "Key": "eb8ecafe-0a2d-4a77-9643-214c0c9ef24b",
+      "Value": "\"You've always said that beauty isn't really important. Are you changing your views now?\""
+    },
+    {
+      "Key": "1a9a75f2-1212-488f-9a6e-619e632288ac",
+      "Value": "\"You're letting your old beliefs cover your pain and disappointment. Let yourself grieve for what you've lost.\""
+    },
+    {
+      "Key": "fccfe3a3-98cf-4f54-9a78-6f8f616aaaca",
+      "Value": "\"How's your wound?\""
+    },
+    {
+      "Key": "264fee22-a67d-4ba9-bfe3-0bb7f4ab82a4",
+      "Value": "\"How are things with the Storyteller and Linzi?\""
+    },
+    {
+      "Key": "973c8ec3-8472-4bf8-ab9b-df68eae3d086",
+      "Value": "\"I hear you received an unpleasant letter lately...\""
+    },
+    {
+      "Key": "3e950179-294d-47bc-9533-bce097c16951",
+      "Value": "\"Let's go there together and get to the bottom of this.\""
+    },
+    {
+      "Key": "71465cab-0e91-4e2c-9a01-1a64a323035e",
+      "Value": "\"I don't want to spend my time on this. Could you perhaps handle it alone?\""
+    },
+    {
+      "Key": "3994e732-404f-4e5b-99dd-4e85406772a0",
+      "Value": "\"I don't care what this Order wants. We aren't going to give them anything!'"
+    },
+    {
+      "Key": "9aa060bc-205c-4235-a148-0ef4e54bb6e6",
+      "Value": "\"If that's the case, then we'll just have to deal with them personally.\""
+    },
+    {
+      "Key": "a5f87088-3ee5-46ad-af88-89bcb95b59bb",
+      "Value": "\"Let them babble. I don't care.\""
+    },
+    {
+      "Key": "97082e69-5347-465c-8e02-9e8a4945e301",
+      "Value": "\"Listen to yourself! Why all this bile? I want to help you!\""
+    },
+    {
+      "Key": "5b5ff3bc-8144-4399-b8e7-7b552901d829",
+      "Value": "\"I don't care what excuses you come up with. Get a handle on yourself, or you're going back to Brevoy.\""
+    },
+    {
+      "Key": "8162fc1b-b817-416f-8bb3-ae150af97d39",
+      "Value": "[Wait]"
+    },
+    {
+      "Key": "aad36294-bbda-4f11-9156-4186fe223c1c",
+      "Value": "\"Valerie?\""
+    },
+    {
+      "Key": "65f372c0-de5c-4e33-bb1d-d6a92c2cd6af",
+      "Value": "\"I'm tired of your theatrics. Pull yourself together and stop wasting my time.\""
+    },
+    {
+      "Key": "425a707f-9514-4bc5-9336-ab4437d01b9a",
+      "Value": "\"It's a pity we couldn't get rid of the scar.\""
+    },
+    {
+      "Key": "48b232de-9c08-4aab-bbb9-795fc31a2dc1",
+      "Value": "\"I'm glad the scar is gone.\""
+    },
+    {
+      "Key": "6aaa2ac7-4a06-4fcf-9b81-1a45d9698de4",
+      "Value": "\"About what happened at the Temple of Prisms...\""
+    },
+    {
+      "Key": "93ac76d1-54e7-4914-a148-33518c5d0438",
+      "Value": "\"I'm glad this saga is finished. Let's see what else needs to be done...\""
+    },
+    {
+      "Key": "98f33b6a-8dff-4df7-84b1-2774135cf8ee",
+      "Value": "\"The next time someone come to claim you, I'll just slit their throat. You serve only me, don't forget it.\""
+    },
+    {
+      "Key": "e003f2d4-23be-415a-aa92-4ffe7b6b89a8",
+      "Value": "\"Together we can overcome any obstacle – I'm sure of that!\""
+    },
+    {
+      "Key": "68f768a4-6f42-4d9a-aa8c-c5be3bbcce5a",
+      "Value": "\"Why is it you never just talk to me? I have to pry everything out of you!\""
+    },
+    {
+      "Key": "89d42816-23ef-4be5-b70d-09b35bcd6694",
+      "Value": "\"I'd like to spend some time alone with you.\""
+    },
+    {
+      "Key": "fadd0735-29f0-43be-94b3-d92dd3f870f5",
+      "Value": "\"I'll try. Thank you.\""
+    },
+    {
+      "Key": "d59aa99f-6a99-46a1-b62c-8b65a34ea3c1",
+      "Value": "\"Are you... not upset?\""
+    },
+    {
+      "Key": "884cebb5-08d2-4d20-9e6d-4d6e759bc241",
+      "Value": "\"About us... Let's go back to how things were when we met.\""
+    },
+    {
+      "Key": "220c72cc-611a-4091-b34f-9435237bd03e",
+      "Value": "\"Yes.\""
+    },
+    {
+      "Key": "21ae1088-feef-4017-a59f-b7f58ebb2df0",
+      "Value": "\"No.\""
+    },
+    {
+      "Key": "24ed7f23-70d1-4c0c-ba26-c2229ff35eec",
+      "Value": "\"So you're an atheist? You don't worship any deity?\""
+    },
+    {
+      "Key": "99d3fbde-0ae6-41c3-bebf-440ddf6d4af3",
+      "Value": "\"Greetings.\" {n}Valerie sighs.{/n} \"Everything is well, I hope? I'm ready for new orders.\""
+    },
+    {
+      "Key": "7ba5db30-c8f6-414e-96ba-36b68b7efebf",
+      "Value": "\"I'm aware of that,\" {n}Valerie sighs.{/n} \"But I'm sure you understand that I am what I am. That's how I was brought up – first by my parents, and then by my mentors in the Order.\""
+    },
+    {
+      "Key": "05dc8991-9272-4f2d-a61c-016db8154143",
+      "Value": "\"Besides, I was born to a noble family.\" {n}Valerie raises her chin proudly.{/n} \"So I rather enjoy the idea that my manner of speech differs a bit from the common language of the peasantry. You just can't imagine how many social climbers have bowed politely the moment I opened my mouth.\""
+    },
+    {
+      "Key": "7f8916a3-92ab-46fe-a5c0-77bac1829525",
+      "Value": "{n}Valerie rolls her eyes.{/n} \"Sadly, you're right to suppose that. Even here, in these remote lands, one can find offspring of many noble houses – and all of them consider it their duty to kneel before me, begging me to walk with them in the garden.\" {n}Valerie's voice overflows with contempt. If words were poison, you'd be dying a horrible death.{/n}"
+    },
+    {
+      "Key": "de4a1474-319a-4174-be58-c4fc8697d051",
+      "Value": "\"Oh, and don't forget about the village oafs. They understand the concept of nobility perfectly well. So they realize they'll be punished if they dare make any advance towards me. So they prefer to stare from a distance, drooling. And believe me, I can very well imagine what they discuss in the taverns.\" {n}Valerie shivers and jerks her shoulders, as if trying to shed the sticky, disgusting stares.{/n}"
+    },
+    {
+      "Key": "c1e73ac0-62a1-4639-a001-6faa0687596f",
+      "Value": "\"What do you mean, 'why'?\" {n}Valerie looks at you in bewilderment.{/n} \"I follow your orders. I've joined your campaign because I have faith in you. I believe your intentions to be noble, though things may not always turn out as you've planned.\""
+    },
+    {
+      "Key": "008ed0c4-806e-4113-a25b-9d4d0a9c55ce",
+      "Value": "\"You are my commander, your orders are law. It's my duty to follow them.\" {n}Valerie hesitates for a moment.{/n} \"Well, so long as you don't order me to do something that's absolutely dishonorable. But that would never happen, I hope.\""
+    },
+    {
+      "Key": "793cc617-859d-424e-b98d-a3c33a6c5628",
+      "Value": "\"As you wish.\" {n}Valerie nods with dignity.{/n}"
+    },
+    {
+      "Key": "4605a82d-1fbd-403e-8b4d-0aec32feac2c",
+      "Value": "\"What exactly would you like to know? I was born to a noble family, though I didn't remain long on the family estate. My father sent me to the Order of the {g|Shelyn}Eternal Rose{/g}, but I left once I realized that it didn't match my principles.\""
+    },
+    {
+      "Key": "332cedf8-97df-4114-9fff-90bc6909a63c",
+      "Value": "\"I was born in {g|Brevoy}Brevoy{/g}, but in fact I've never seen much of the country. I spent my childhood on a remote estate, owned by my noble family. My father is a respectable philanthropist and benefactor of the Church of {g|Shelyn}Shelyn{/g}. He's also a renowned private collector and a great admirer of the arts.\""
+    },
+    {
+      "Key": "0ef9682f-a8b0-4410-9874-8e19c55c24ca",
+      "Value": "\"My mother saw to my education personally. From my early years I learned good manners – how to behave at the dinner-table, and the proper form of words for every occasion. I also learned the difference between true nobles and lowborn upstarts, and I learned how to treat each of them properly.\""
+    },
+    {
+      "Key": "3ed720d8-8ac5-4763-8f2f-409ecc965435",
+      "Value": "\"Our home was always under the protection of several paladins of {g|Shelyn}Shelyn{/g}. My father has donated a handsome sum to their Order. One of them, a man of venerable age with a grey beard, once let me touch his shining armor. I still remember the admiration I felt when I touched the cold, polished steel.\" {n}Valerie smiles.{/n} \"Of all the memories of my childhood, that one is somehow the warmest one.\""
+    },
+    {
+      "Key": "1967ba9d-2e46-4836-8ce2-c64a63486b17",
+      "Value": "\"Ah, as you can imagine, from my first days I was surrounded by crowds of servants and nannies who never stopped praising my heavenly beauty. The paladins of {g|Shelyn}Shelyn{/g} who used to visit our house echoed these praises.\""
+    },
+    {
+      "Key": "e7415baf-7790-4593-8494-90a1b03421d9",
+      "Value": "\"In the end, general consensus overwhelmed my father's better judgment. When I turned six, I was brought to the Church of {g|Shelyn}Shelyn{/g}, and told that this would be my new home.\""
+    },
+    {
+      "Key": "1dd595b4-61b0-4cce-ba12-22758a256c31",
+      "Value": "\"Don't pity me though, I beg of you. Many who hear this story immediately assume that my parents were cruel and had no love for their child.\" {n}Valerie's eyes become stern.{/n} \"My parents had respect for me. They taught me something that has supported me all of my life. – A sense of self-esteem.\""
+    },
+    {
+      "Key": "4600854b-f3ba-4be4-94ec-45c6a67d3e50",
+      "Value": "\"Besides, they didn't abandon me. Once every six months, they would come and visit me at the Order of the {g|Shelyn}Eternal Rose{/g}. We had some tea and then had an hour to walk around the garden. Then they would take their leave, as etiquette demanded.\""
+    },
+    {
+      "Key": "b95882d2-8ebc-4fd6-976e-14669a7c656e",
+      "Value": "\"A variety of things. Some of them appealed to me, others I simply couldn't accept. I enjoyed the physical activities and swordsmanship. But the arts, calligraphy, painting, poetry – and so many other ways to waste one's time.\""
+    },
+    {
+      "Key": "4aa9631a-3350-4b5b-b532-e5b2a7e5d986",
+      "Value": "{n}Valerie sighs.{/n} \"I guess that deep in my heart I always knew I'd never be a true paladin of {g|Shelyn}Shelyn{/g}. Wielding a sword always felt more natural to me than handling a paintbrush.\""
+    },
+    {
+      "Key": "71fc2b1a-f44e-415d-9004-1b555733eac5",
+      "Value": "\"Because of my heavenly beauty.\" {n}Valerie winces in contempt.{/n} \"According to {g|Shelyn}Shelyn's{/g} laws, all art is sacred – whatever form it takes. Severe punishment awaits those who dare harm a painting, sculpture or poem, no matter how worthless the drivel might be.\""
+    },
+    {
+      "Key": "a74a3610-b38a-4f84-829c-da0ee4983311",
+      "Value": "\"My looks always attracted unwanted attention from the pilgrims and acolytes at the temple. I received my first poem, dedicated to me, when I was nine. The author was some wealthy geezer.\" {n}Valerie's lips thin in contempt.{/n} \"And that was only the beginning.\""
+    },
+    {
+      "Key": "531c6cb0-9892-447e-87e9-d8f5704ff2c6",
+      "Value": "\"Sculptures. Pictures. Poems. I was drowning in them. My admirers mobbed me, and I had to respectfully accept all their... garbage. The clerics of the temple were magnanimous, for my suitors made generous offerings to the Church. But once... one time I just snapped.\""
+    },
+    {
+      "Key": "dbbfd0b6-e1e7-496b-971b-72eef260309d",
+      "Value": "{n}Barely suppressed anger glitters across Valerie's eyes.{/n} \"Some wealthy idiot has dedicated an extremely untalented poem to me, and he had the nerve to read it right to my face, holding my sleeve. The hour was late, and I was on my way to get some rest after a boring lesson on rhymes. I lost control and tore the poem apart, right in front of him.\" {n}Valerie raises her head proudly.{/n} \"The paladins wanted to impose some punishment upon me, I don't remember which one exactly. They wanted me to repent. Instead I just gathered my things and left.\""
+    },
+    {
+      "Key": "3fae7521-db17-49e9-b693-3d5124ca85fd",
+      "Value": "\"I set off for {g|Restov}Restov{/g}.\" {n}Valerie shrugs.{/n} \"I wanted to get as far away as possible from {g|Shelyn}Shelyn{/g} and the destiny everyone seemed so ready to force upon me. Besides, the school of swordsmanship in Restov has quite a decent reputation. Honestly, I was hoping for an opportunity to learn from the famous Aldori masters.\""
+    },
+    {
+      "Key": "2133fcb3-9690-47d0-8a5b-9cc15e26b31f",
+      "Value": "\"Eventually it became clear that their technique wasn't a good fit for me. They teach to avoid impact, whereas I prefer to raise my shield.\""
+    },
+    {
+      "Key": "84b3bb85-bc29-4c08-a9fb-7fae0366b02e",
+      "Value": "\"But my abilities and skills, which I'd learned at the Order of the {g|Shelyn}Eternal Rose{/g}, were enough to make the {g|Swordlords}Swordlords{/g} take an interest in me. They offered me a chance to join the mercenaries who served the Swordlords, and I accepted.\""
+    },
+    {
+      "Key": "1f4f9495-30b6-4cb9-85be-c44a6cc7c1b4",
+      "Value": "\"It's beyond my power to change that. But I've never given a potential admirer any reason to start a conversation with me. But it doesn't stop them! After leaving the Order, I took a dagger and cut off the long hair they used to praise. Well, now I get letters praising the beauty of my eyes.\""
+    },
+    {
+      "Key": "68f8f9de-0d1d-4a0d-aadd-fb1aa1ed7e5d",
+      "Value": "\"It was because of my appearance that I ended up in the Order of the {g|Shelyn}Eternal Rose{/g}, though I never wanted to be a paladin. It was because of my beauty that an infinite number of suitors have pursued me, all of them confusing simple politeness with hints of affection.\" {n}Valerie clenches her fists.{/n} \"But do you know what I really want?!\""
+    },
+    {
+      "Key": "e986ec0a-6b21-44be-95f1-6ce9ae66c602",
+      "Value": "\"I want people to stop treating me like a piece of art! I want them to notice that I'm a person, that I'm capable of something more than smiling for paintings, where I sit wearing a lacy satin dress, holding a basket of peaches in my lap! Is that too much to ask?!\" {n}The last question comes out in a shout, though Valerie doesn't seem to realize it.{/n}"
+    },
+    {
+      "Key": "f8988cc5-ebc1-496e-bdfb-05760d299ef7",
+      "Value": "\"I am... truly happy that you understand me. Thank you!\" {n}Valerie smiles at you gratefully, and the smile is full of a warmth that you never expected from someone as stern as Valerie. You suddenly realize that you're smiling back at her.{/n}"
+    },
+    {
+      "Key": "f15d1f41-2c48-4cb2-8eb7-8fa4d2e0a24b",
+      "Value": "\"You're talking just like my mentor at the Order used to!\" {n}But then Valerie regains her self control and hides her contempt behind her polite mask.{/n}"
+    },
+    {
+      "Key": "3a813b1c-b3f6-422d-a466-e3d11e3eb5dd",
+      "Value": "{n}Valerie breathes heavily for a moment, gasping awkwardly. As the meaning of your words finally become clear to her, she regains control over herself.{/n} \"I humbly beg your pardon,\" {n}she says calmly.{/n} \"That will never happen again.\""
+    },
+    {
+      "Key": "887415c8-2b6a-40fc-904a-742f17587f2e",
+      "Value": "\"You have my attention.\" {n}Valerie bows politely.{/n}"
+    },
+    {
+      "Key": "9d8264ac-3288-424f-93da-0fa633dcac81",
+      "Value": "{n}Valerie gives you a stony look.{/n} \"I sincerely hope your words carry nothing more than mere politeness.\""
+    },
+    {
+      "Key": "64c7c0fe-b6d3-437a-9f9d-a7c29cf9cf4a",
+      "Value": "\"That is good.\" {n}Valerie nods.{/n} \"In that case I thank you for the compliment, and would ask that you never bring up the subject again.\""
+    },
+    {
+      "Key": "b54e9435-2a6e-4b50-b5a5-930e7ebf3cc6",
+      "Value": "{n}Valerie folds her arms across her chest.{/n} \"With all due respect, I ask that you never bring this up again. If, of course, you value my company and our friendship.\""
+    },
+    {
+      "Key": "215e38c2-a82a-4203-8002-3c89ba8b30f8",
+      "Value": "\"So you like me, but won't seek my favor? Well, that's something new.\" {n}Valerie raises her eyebrow and smiles, but this smile expresses amusement, not her usual cold arrogance.{/n}"
+    },
+    {
+      "Key": "b5b2dd44-4737-4338-a878-7bbf9a17bdeb",
+      "Value": "{n}Valerie folds her arms across her chest.{/n} \"In that case, I must confess: even if I were to enter a courtship, I'd prefer a relationship with a man. I beg your pardon if I've disappointed you.\""
+    },
+    {
+      "Key": "71db8fd5-122e-45cc-92fd-6c7b6448d9fc",
+      "Value": "\"{g|Shelyn}Shelyn{/g} is a goddess of love, beauty, and art. Her paladins are something like armored artists — that's how they like to think of themselves at least. \""
+    },
+    {
+      "Key": "3b6d537c-7f2b-4f80-825a-c0f26a082f22",
+      "Value": "{n}Valerie tries to contain her feelings, but her inner contempt bursts forth.{/n} \"They are fanatical defenders of worthless, inartistic paintings and meaningless opuses, if you care to know my opinion.\""
+    },
+    {
+      "Key": "40802a51-2cf1-4209-98e0-14e31f82e9d5",
+      "Value": "\"She's been trying to ruin my life.\" {n}Valerie snorts.{/n} \"{g|Shelyn}Shelyn{/g} — the goddess of everything useless that ever existed in this life. All the beauty in the world, all the art, all the soulful sighs in the moonlight — they'll never feed a single family.\""
+    },
+    {
+      "Key": "83f21529-fc20-4950-b919-b9092eb03ff8",
+      "Value": "\"And I beg you to restrain yourself from offering your own opinion. Trust me, I've heard everything you can tell me — more than once. Nothing, and nobody, can change my mind.\" {n}Valerie looks at you with suspicion.{/n} \"As for {g|Shelyn}Shelyn{/g}, she's the goddess of idlers. I almost joined her preposterous entourage. I'm just glad I was smart enough to denounce her while I still could.\""
+    },
+    {
+      "Key": "6492f527-adf0-4d19-b947-b6a7dbbb5271",
+      "Value": "\"I couldn't agree more! If I can be frank, all this talk about {g|Shelyn}Shelyn{/g} makes me want to spit. But my noble upbringing prevents me from performing such an undignified act.\""
+    },
+    {
+      "Key": "3c8e4a2d-46f0-402c-b75e-4185a96b9a5e",
+      "Value": "\"Ah, that. I used to... embroider. And I still do from time to time.\" {n}A treacherous blush covers Valerie's cheeks.{/n} \"It's nothing, I assure you. Just a simple task to keep my hands busy and keep the gloomy thoughts at bay. Nothing special.\""
+    },
+    {
+      "Key": "ebd7d490-031a-4035-8e50-f87f582fee68",
+      "Value": "\"Is that what you think?\" {n}Valerie curves an eyebrow, mocking amazement.{/n} \"Many share that delusion. I was deluded too, for a while.\""
+    },
+    {
+      "Key": "8b91edad-74c7-4369-976c-b7a34b1af603",
+      "Value": "\"Now I consider all works of art useless. People create this garbage because they have nothing better to do. The peasant doesn't paint a picture; he ploughs the earth to feed his family. The soldier has no time for sculpture; he must defend his homeland. But idlers and slackers have plenty of time to waste, so they smear canvases with paint, and imagine they've done something worthy and valuable.\" {n}Valerie shakes her head in disapproval.{/n}"
+    },
+    {
+      "Key": "abcce4be-227f-48ad-be63-d777fa38c32c",
+      "Value": "\"They wander around, seeking the next pile of garbage. And when they find it, they call it an immortal piece of art, and admire it until they're blue in the face.\""
+    },
+    {
+      "Key": "5959dd58-7e70-480a-aba8-7a28473e4438",
+      "Value": "\"You might not believe this, but the paladins of {g|Shelyn}Shelyn{/g} aren't allowed to slay their enemies if they beg for mercy. Can you guess why? Because a bandit, rapist, or murderer who has been put to the sword will never be able to create something beautiful in the future. So a paladin overpowers her enemy in battle, then inspires him to create a masterpiece.\" {n}Valerie's face reflects extreme disgust.{/n} \"It might sound hilarious if it weren't true.\""
+    },
+    {
+      "Key": "249bec90-599d-4874-9ce9-6bc20b9e83b4",
+      "Value": "\"Plus, all of {g|Shelyn}Shelyn's{/g} followers are obliged to practice some sort of art in his or her free time. Every single day, no matter what else is going on, even if you're feeling sick, or hungry, or sleepy. Otherwise, according to their clerics, you lose your connection with your goddess. A preposterous notion, wouldn't you agree?\""
+    },
+    {
+      "Key": "6e6ac7f0-b609-4a5d-8e69-0792dd2db4a1",
+      "Value": "\"I am... truly happy that you understand me. Thank you!\" {n}Valerie smiles at you gratefully, and the smile is full of a warmth that you never expected from someone as stern as Valerie. You suddenly realize that you're smiling back at her.{/n}"
+    },
+    {
+      "Key": "73c0d4e0-6fd2-4ebd-a464-99a53a967312",
+      "Value": "{n}Valerie is silent for a couple of moments.{/n} \"Is this decision final?\""
+    },
+    {
+      "Key": "6e442aac-50e5-465f-86e0-818d4defbd06",
+      "Value": "\"In that case I would ask you to avoid such ridiculous jokes in the future. I invest a lot in our friendship and my service to your cause, and I am troubled by the fact that you neglect my goodwill.\""
+    },
+    {
+      "Key": "28cef034-5c77-48b1-bad1-bc875417c11a",
+      "Value": "{n}Valerie sighs but keeps her face calm.{/n} \"I can't help but notice that this is quite unexpected. It's a shame, really. I hope you won't regret this in the future. Now forgive me, I must ready my leave.\""
+    },
+    {
+      "Key": "37c789e0-61fc-419b-a7ec-25636b2a977a",
+      "Value": "{n}Valerie looks at you unblinking, and you see her eyes darken with an anger she can barely contain.{/n} \"Really? May I take a look at this letter?\""
+    },
+    {
+      "Key": "ae82712e-1902-4f4c-8b17-8f3934203cfb",
+      "Value": "\"Hm... Is that so?.. I see.\" {n}Valerie takes a deep breath.{/n} \"My apologies, {name}. I seem to have become the reason for this message and highly inappropriate demands it contains. I know this person. Fredero Sinnet is one of the mentors in the Order of the {g|Shelyn}Eternal Rose{/g}. A true paladin of {g|Shelyn}Shelyn{/g} – one of those who insist they are right till the very end. He kept saying louder than anyone that Shelyn herself predetermined my fate, even when I was packing my things before I left.\""
+    },
+    {
+      "Key": "1e083582-6da4-4d74-8e70-327634de5c01",
+      "Value": "\"Looks like he never came to terms with me leaving, since he found me even here. But the nerve! 'The mistake of leaving our ranks'! 'Return to the path destined her by divine will'! Since when does Fredero fancy himself the personal harbinger of his precious {g|Shelyn}Shelyn{/g}?\" {n}Valerie, her face scarlet red, doesn't seem to notice the letter crumpling in her hand.{/n}"
+    },
+    {
+      "Key": "4cc61e8e-5803-413a-8980-3ef70fdc7b3b",
+      "Value": "\"Enough. We must put an end to this. If paladins of the Order of the {g|Shelyn}Eternal Rose{/g} require another refusal, they shall get it! I'm going to the trading post with you to meet Fredero. I serve you – it's as simple as that. It's my decision, and I'm not going to change it just because someone from my past thinks otherwise.\""
+    },
+    {
+      "Key": "67466862-b3b0-485b-a3d5-c243c3c84b88",
+      "Value": "{n}Valerie smiles faintly and nods.{/n}"
+    },
+    {
+      "Key": "2e4163ca-dfd7-4145-8542-97e8734fc916",
+      "Value": "{n}Valerie shakes her head.{/n} \"We can't. Fredero Sinnet may be in the wrong, but that's no reason to show myself – and you – as uncultured barbarians. At least he didn't appear unannounced at court with his demands. I must at least give him credit for this superficial politeness.\""
+    },
+    {
+      "Key": "0e9b1ebf-0661-40fe-86dd-f248efea64e4",
+      "Value": "\"No! If you respect my honor and value my loyalty, please refrain from such hasty actions. I will go to the trading post with you. I will meet Sinnet, give him my final refusal, and the matter will be settled. Enough about that.\""
+    },
+    {
+      "Key": "e4f400af-af6e-400d-ba90-a7d86da8afa3",
+      "Value": "{n}Valerie waves off your words – with more haste than prudence.{/n} \"Please don't worry about such trifles. I will visit a priest or an alchemist when time permits. As for how I feel...\""
+    },
+    {
+      "Key": "4d8245ce-9803-4f4e-8ace-b0f7892f2a26",
+      "Value": "{n}Valerie smiles sourly.{/n} \"It's my pride that suffered most. It seems I must devote more time to training. I will keep this in mind in the future, and not let you down again.\""
+    },
+    {
+      "Key": "2ce41f1e-b575-472e-94b6-0f92decad459",
+      "Value": "{n}Valerie raises her chin up.{/n} \"I admit, I expected no other outcome from this duel. As I've always said, {g|Shelyn}Shelyn's{/g} paladins are pompous dolts, capable of little else beyond admiring useless garbage and pining after poetry.\""
+    },
+    {
+      "Key": "e77551ed-0b17-43b0-ae39-73af06c427fe",
+      "Value": "{n}Valerie is silent for a few moments. When she starts talking, her voice sounds dull.{/n} \"I never thought my encounter with Fredero might end like this.\" {n}She lingers for a few moments.{/n} \"If it hadn't, he would probably have never given up on trying to return me to the Order.\""
+    },
+    {
+      "Key": "a7b3ea0e-7e2c-4338-9ada-9dc97f9bb676",
+      "Value": "\"I should thank you, {name}. It's important to me that you were at my side. Now I'm sure that I'm finally free from the Order of the {g|Shelyn}Eternal Rose{/g}, and ready to devote all my time and efforts to our mission.\""
+    },
+    {
+      "Key": "fed60cd5-f606-41b4-a728-30fad909e0ee",
+      "Value": "{n}Valerie knits her eyebrows for a moment, but the girl quickly restores her usual calm expression.{/n} \"Your order is law. Fredero will just have to accept silence for an answer.\""
+    },
+    {
+      "Key": "6828a124-2db3-4fdc-baf4-e8a00476f6f5",
+      "Value": "{n}Valerie rolls her eyes.{/n} \"If it's about that bard again, I've apologized to him already! As you demanded!\""
+    },
+    {
+      "Key": "e4a5989f-c129-49ef-a00f-8ba36a39b562",
+      "Value": "\"The Storyteller... What business of his if I have anything left from the Order? Does he imagine I'm still carrying around {g|Shelyn}Shelyn's{/g} radiant face as a souvenir?! And as for Linzi... she knows full well how her constant babbling about her book irritates me!\""
+    },
+    {
+      "Key": "70881bf2-4415-4a31-8736-19efc861dbcf",
+      "Value": "\"Who else could it have been about?! That scribbler used to never leave me alone – dogged my heels asking questions whenever I appeared on the street, and now...\" {n}Valerie stops angrily and looks away.{/n}"
+    },
+    {
+      "Key": "99641817-fb0a-4545-a975-2a3c55b14018",
+      "Value": "{n}Valerie narrows her eyes.{/n} \"So the captain of the guard thinks I'm incapable of carrying out my duties to you and your subjects? Perhaps he should change his armor for a judge's mantle, if he's so ready to declare such verdicts?\""
+    },
+    {
+      "Key": "e1453acc-fa13-498f-98ee-758d7d2e2516",
+      "Value": "{n}When the girl starts talking again, her voice sounds soft.{/n} \"Please forgive me, {name}. I understand your worries. My behavior over the last few weeks has indeed left much to be desired. I don't know why I'm doing these things.\""
+    },
+    {
+      "Key": "2672c1ee-4fe9-4a81-957c-d293368fc207",
+      "Value": "{n}Valerie looks at you, raising her brow.{/n} \"Was that a joke? If so, it was inappropriate. I don't think anyone is worse or below me. There's a different reason.\" {n}Valerie gathers her strength before she continues.{/n} \"I think I fooled myself when I kept saying that I don't care about this scar on my face.\""
+    },
+    {
+      "Key": "dc9117e2-da2b-4ee0-b64f-b69e6553e6d0",
+      "Value": "{n}The girl hesitates, lifts her hand and touches the scar on her face.{/n} \"Since it appeared, it's like the world around me has changed. Wherever I went before, my admirers, followers, and bards used to follow me around... and now it's like I'm invisible. Worse! – I see how those I talk to trying hard not to look at the scar. It's like... it undid me. Completely.\""
+    },
+    {
+      "Key": "5e62916b-0940-4741-91aa-908bee6989a7",
+      "Value": "\"So typical of her – a superficial opinion, a superficial conclusion...\" {n}Valerie sighs.{/n} \"Forgive me. It's difficult to admit I was wrong. And scatterbrained Linzi is apparently right.\""
+    },
+    {
+      "Key": "177dbea0-fb67-4724-8635-611351a92569",
+      "Value": "{n}Valerie keeps silent for so long you start to think the conversation is over. Then she finally lowers her head.{/n} \"I was wrong when I thought I didn't care about the scar on my face. On the contrary...\""
+    },
+    {
+      "Key": "c107283a-905c-4e44-bdd3-1ffaca3427c8",
+      "Value": "{n}Valerie stops again, absently running the tips of her fingers over the ugly scar on her face. She finally pulls her hand from her face and looks at you.{/n} \"I've never seriously imagined what would happen if I lost my beauty. I thought my actions would speak much louder than my appearance... but now I'm having doubts. In this, and in everything else I keep telling myself.\""
+    },
+    {
+      "Key": "607e48d5-538b-4fdd-ba96-4ce7828d2832",
+      "Value": "{n}Valerie looks at you pensively for a few moments, then shakes her head with determination.{/n} \"No. If I'm to break when someone looks at me askance, after everything I've been through... it means I've never actually been worth anything! I may as well have stayed with the Order and lived meekly by {g|Shelyn}Shelyn's{/g} orders... Ugh!\""
+    },
+    {
+      "Key": "bcf5bbe8-6d15-4ce5-9739-2a9dfa5b326b",
+      "Value": "{n}Valerie looks down.{/n} \"I don't know how to be weak, {name}. This is not what I was taught.\" {n}The girl smiles sadly.{/n} \"You know, when they buried my grandmother, I didn't shed a tear. My mother was frightened for my cold heart, and my father thought this was another reason I should become one of {g|Shelyn}Shelyn's{/g} paladins. But in fact I simply don't know how to weep over something I've lost.\""
+    },
+    {
+      "Key": "9eff1ee0-157b-4514-a143-cd1652b1ff1c",
+      "Value": "{n}Valerie runs her fingers through her hair and sighs.{/n} \"Thank you. Now I know what to do. Since I don't know how to cry and wail, I'll do something useful. There's a lot of people I need to apologize to.\""
+    },
+    {
+      "Key": "e89060ab-46ff-4ed4-9a54-e98e4dc0bcc0",
+      "Value": "{n}Valerie straightens her shoulders and looks around with determination.{/n} \"I shouldn't have wasted time on these useless thoughts. I promise that you won't be bothered again by complaints about me... except perhaps from those who truly deserved a harsh response.\" {n}The girl nods to you.{/n} \"Thank you for this conversation. I knew you would support me.\""
+    },
+    {
+      "Key": "c9ea21f1-de62-49a6-accc-4861dbda9381",
+      "Value": "\"Physically it causes me no discomfort whatsoever. So if you are worried it might prevent me from serving you, then you shouldn't be.\""
+    },
+    {
+      "Key": "ac5bdfd5-6a81-40ed-8c71-7339d74b0a35",
+      "Value": "{n}Valerie smiles softly.{/n} \"It's amazing, but they seem not to feel insulted by my rash words. But of course, I delivered all due apologies.\""
+    },
+    {
+      "Key": "44b42789-e586-41a9-b890-2e5f1cf32799",
+      "Value": "{n}Valerie chuckles.{/n} \"Satisfactory. It appears that the Storyteller has thought it best to leave me alone, which I do not mind at all. Linzi...\" {n}Valerie shrugs her shoulder.{/n} \"I expect I'll never have any influence over her inappropriate enthusiasm about her book.\""
+    },
+    {
+      "Key": "a5ed5b88-3407-4126-b2df-f028e6fdecbe",
+      "Value": "\"Let me guess – from Linzi, right? She keeps poking her nose into other people's business...\" {n}Valerie lowers her head sadly.{/n} \"Forgive me, {name}. I was hoping I'd manage this without your help this time, which is why I didn't tell you.\""
+    },
+    {
+      "Key": "0187980e-2b01-4ee8-b725-14db9dea75b5",
+      "Value": "\"A while ago I received a letter from a new temple of Shelyn on the outskirts of {g|Pitax}Pitax{/g}, from a paladin of the Order of Prisms. This time they're not demanding that I return to the Order. Instead they want me to go there and submit to a great divine trial, and answer for all my transgressions in front of {g|Shelyn}Shelyn's{/g} worthy servants!\" {n}Valerie scoffs in indignation.{/n} \"Of course, I tore up the letter and tried to forget about it... but now they've begun to plot against the entire {mf|barony|barony|kingdom|kingdom}!\""
+    },
+    {
+      "Key": "fa84926f-0bfb-4b08-9b0c-4b6324005dbe",
+      "Value": "\"I was hoping that I could just ignore them this time too, but it seems I shall have to meet these stubborn fools face to face, and explain to them what their tricks might lead to!\""
+    },
+    {
+      "Key": "d74caebc-3431-4c2a-a56c-5cb7029243c2",
+      "Value": "\"Maybe if I do go there, I'll be able to convince them to leave us alone. Who knows... maybe it would be for the best if I appear for this trial.\" {n}Valerie doesn't notice herself raising her hand and touching her scar.{/n}"
+    },
+    {
+      "Key": "7f83a0c1-3ff8-492f-9103-b6f17f2cebe1",
+      "Value": "{n}Valerie arches her brow.{/n} \"You hope they will just get tired of slandering you? Fredero came for me many years after I left the order. I don't think this Order of Prisms is less stubborn than the Order of the {g|Shelyn}Eternal Rose{/g}. Judging by their actions, and the tone of the letter I received, I'm inclined to believe that the Order of Prisms is even more fanatical in their beliefs, not less.\""
+    },
+    {
+      "Key": "a9e690be-0739-459e-b528-7b583be11ae4",
+      "Value": "{n}Valerie licks her lips in hesitation.{/n} \"You should. But if that is your order, then I will obey it. I only hope you will change your mind.\""
+    },
+    {
+      "Key": "cace2402-5d16-403c-86bd-8959f2ae30e9",
+      "Value": "\"Thank you. I am ready to go to the Temple of Prisms as soon as you have the time.\""
+    },
+    {
+      "Key": "ee867f6a-328e-4e27-8e3c-bef088d8e2e4",
+      "Value": "\"How? They challenged not only me, but you too, trying to smear {kingdomname} in the eyes of all your neighbors! No, my presence alone will not be enough to put an end to this pernicious influence.\""
+    },
+    {
+      "Key": "ba764cd3-e281-4650-ab4b-e3d25f7aa0c1",
+      "Value": "{n}Valerie twists her lips and looks away, as if she wants to end the conversation.{/n}"
+    },
+    {
+      "Key": "1ccf65ba-9c80-4494-b2be-dc33b21b7f6b",
+      "Value": "{n}Valerie shakes her head angrily.{/n} \"So you attack me over someone else's complaints? Well! I shall limit my communications with the others, if you're so bothered by it!\""
+    },
+    {
+      "Key": "985d7cc1-db90-478d-b350-b01aa2f45415",
+      "Value": "\"If you are going to bring up that scene in the throne room, don't waste your breath. Eveld completely deserved that speech.\""
+    },
+    {
+      "Key": "f765544a-f6e7-4271-a118-c5b366d6fc40",
+      "Value": "\"I am finally free – really free! Not just from {g|Shelyn}Shelyn{/g} and her followers, but from my past as well. I shall lament no more over the years I spent in the Order. Now I can devote all my time to whatever I want. I have the strength to resist any threat – whether it be new fanatics of Shelyn or threats to your lands.\""
+    },
+    {
+      "Key": "025f9967-cc88-413e-8ba8-c2b5e015bd1d",
+      "Value": "\"I finally stopped blaming {g|Shelyn}Shelyn{/g} for all my troubles and found peace. Not that I suddenly came to love the goddess and her stupid followers...\" {n}Valerie smiles faintly.{/n} \"But now I understand: if you want others to respect your choices, you must respect theirs – however ridiculous they may seem to you. And of course, I'm ready to return to my duties with you. There are many battles ahead of you, and my responsibility is to protect you from any threat.\" {n}Valerie bows ceremoniously.{/n}"
+    },
+    {
+      "Key": "6f215bdf-eba7-4857-83f5-4832fbe2fea7",
+      "Value": "\"Please let me speak first. I wish to thank you. And apologize.\""
+    },
+    {
+      "Key": "5001e82b-fcbd-4d7b-8fa2-adf8850d031f",
+      "Value": "\"I'm afraid I've dragged you into a huge amount of trouble.\" {n}Valerie sighs.{/n} \"Trust me, I didn't want any of this, and it saddens me what you've had to endure. But at the same time I'm happy I had you at my side through it all.\""
+    },
+    {
+      "Key": "f878f96e-0273-4a32-abb6-574d717debdc",
+      "Value": "\"In your voice I hear notes I recognize from Fredero and the other mentors of the Order... I hope you've no intention of following their lead.\""
+    },
+    {
+      "Key": "1b9a07a9-bca2-47d2-a168-1ae68ee1e7ca",
+      "Value": "\"Of course.\" {n}Valerie nods gravely.{/n}"
+    },
+    {
+      "Key": "a1617f45-0683-4eb3-8d29-2db6c938a68c",
+      "Value": "{n}Valerie smiles with just one corner of her mouth.{/n} \"Your enthusiasm reminds me of Linzi's. In a good way.\""
+    },
+    {
+      "Key": "185ad2e0-b438-4589-bb93-79d7acfd3229",
+      "Value": "{n}Valerie touches her face where the scar used to be.{/n} \"At least the world around me has returned to its accustomed place. This morning I found another love note under my door.\" {n}Valerie chuckles.{/n} \"Though I can't say I missed the extra attention!\""
+    },
+    {
+      "Key": "5ce7010c-2035-4e96-8efb-f1f29db25a5e",
+      "Value": "{n}Valerie rubs her scar with her fingertips.{/n} \"Does it prevent me from serving you? Or make me worse in battle? There's only change to get used to – no more crowds of admirers. It feels strange, but I hardly miss the inappropriate attention!\""
+    },
+    {
+      "Key": "9928380a-1391-4b52-9caf-51848fa1a962",
+      "Value": "{n}Valerie blushes with shame.{/n} \"Please accept my humble apologies, {name}. Every time I encounter a problem, I think it's in my power to handle it on my own. – And I cannot keep distracting you from running your {mf|barony|barony|kingdom|kingdom}! But time and again, I find I must rely on my friends. I promise, I will not keep anything back from you again.\""
+    },
+    {
+      "Key": "85dcc8b2-73e3-45f3-ad50-550b3ce96859",
+      "Value": "{n}Valerie nods to you cordially.{/n} \"Glad to see you.\""
+    },
+    {
+      "Key": "c89e8be2-dc7d-46af-bdd4-e8af54da9f13",
+      "Value": "\"Hello, {name}. Are you ready for a new quest?\""
+    },
+    {
+      "Key": "b07e0d73-870a-439c-a22d-ac8189abb9cf",
+      "Value": "{n}Valerie tilts her head when she sees you.{/n} \"Glad to see you.\""
+    },
+    {
+      "Key": "730f4488-342b-443f-b66f-16b29df05b74",
+      "Value": "\"Yes, my king?\""
+    },
+    {
+      "Key": "90e063b1-7d7e-44cf-9186-b53ea5ba3ca7",
+      "Value": "\"It's good you're not alone... it doesn't become a ruler to spend his days in solitude.\""
+    },
+    {
+      "Key": "fdbd7660-2adc-46a7-9ab5-4fb74d1d96cb",
+      "Value": "\"Keep an eye on Regongar. He can be quite... unbearable when he's out of line.\""
+    },
+    {
+      "Key": "42fdcfd3-f956-4188-a7c3-ebfdf696a541",
+      "Value": "\"Octavia is very sweet. Keep an eye on her, or you'll lose her.\""
+    },
+    {
+      "Key": "2cbbe178-d4ec-4c72-8f32-ef51c1fb9c62",
+      "Value": "\"By what exactly? The fact you are not alone any more? Or the fact you didn't choose me? These are strange questions, {name}.\""
+    },
+    {
+      "Key": "ea05f62f-e427-4ba5-94f4-30777f14473c",
+      "Value": "{n}Valerie nods with dignity.{/n}"
+    },
+    {
+      "Key": "392eff12-6232-4527-931a-e149589b1ec9",
+      "Value": "{n}Valerie curves her lips in a mischievous smile.{/n} \"Gladly.\""
+    },
+    {
+      "Key": "ca9eac48-4993-4c51-88f8-9989acaaf2f0",
+      "Value": "{n}Valerie turns pale. She swallows then speaks in a measured manner.{/n} \"I won't ask what caused such a change. I'll ask only one thing — are you sure?\""
+    },
+    {
+      "Key": "f892d384-5518-4e2b-9bf2-10451eb2da69",
+      "Value": "{n}Valerie burns you with her eyes.{/n} \"Then spare me your strange tests... I don't know what you're trying to achieve!\""
+    },
+    {
+      "Key": "5e13c9dd-bee4-4525-8d37-33ccfcf0638a",
+      "Value": "{n}Valerie purses her lips and nods.{/n} \"As you wish, {name}.\""
+    },
+    {
+      "Key": "8b6934a5-96dc-46f5-ac1d-c27b35395be8",
+      "Value": "\"Forgive me if my words insult your faith, but I am not one to tell polite lies.\""
+    },
+    {
+      "Key": "868a4d8f-0bb2-47c1-b384-42c47e91bfbc",
+      "Value": "\"Right. I need no guidance from above. I have my own good conscience and my leader's orders to live by.\""
+    },
+    {
+      "Key": "c06e36a0-6bd4-44b8-9408-e2c29351786e",
+      "Value": "\"I must confess, I am glad my leader also lives without faith. I think the world would be much better if people used their own minds rather than relying on gods.\""
+    },
+    {
+      "Key": "c982707e-731e-4812-bd7c-31c3e37c9285",
+      "Value": "\"Or did you break up? I pay little attention to the gossips around the castle, so I rarely keep up with the news.\""
+    },
+    {
+      "Key": "319be819-5ef8-481a-a765-683e9ae9f96d",
+      "Value": "{n}Valerie's gaze suddenly becomes cold.{/n} \"And here I'd hoped to avoid the question.\" {n}She exhales loudly.{/n} \"Well, let's get this over with, once and for all. You should understand that I am perfectly aware that most races, orders, and genders find me physically attractive.\""
+    }
+  ]
+}

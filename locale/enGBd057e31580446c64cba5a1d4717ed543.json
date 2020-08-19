@@ -1,0 +1,129 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "ea855d36-c513-4579-9619-4ce5d8b2e11e",
+      "Value": "\"Baron Drelev?I didn't expect to see you here!\""
+    },
+    {
+      "Key": "d6e1c515-8669-4a21-949e-eb6e7d0d8e5a",
+      "Value": "[Leave]"
+    },
+    {
+      "Key": "359ca72d-83a8-4521-8293-f62ee1b8b46a",
+      "Value": "[Finish the baron] \"I will end your suffering.\""
+    },
+    {
+      "Key": "23a4d0b6-9fda-4fb9-a9d3-bcaf61d6a280",
+      "Value": "\"Are you dead?\""
+    },
+    {
+      "Key": "a51de47b-e9ee-430f-acff-dc12991ab57f",
+      "Value": "\"If you're dead, how can you be talking to me?\""
+    },
+    {
+      "Key": "87dce911-0341-4958-9659-2e39eca3058d",
+      "Value": "\"How did you die?\""
+    },
+    {
+      "Key": "f34cf8e6-4202-4053-b62b-649565ca164a",
+      "Value": "\"What are you doing in Irovetti's prison?\""
+    },
+    {
+      "Key": "7e3889c2-51c7-4baa-afc3-2852a8de2757",
+      "Value": "\"Are you out of your mind? It looks like you're alive and well.\""
+    },
+    {
+      "Key": "186efb25-b05a-4a88-af17-789ffb67534b",
+      "Value": "[Open the cage] \"There's no reason for you to stay in this cage, whether you are dead or alive. By the way, if you wish to be brought back to life, go outside and find the cleric Drey Yarnes. Tell him {Name} sent you and you need help.\""
+    },
+    {
+      "Key": "4f6efd92-86df-4e69-ad5e-fccee37a46e4",
+      "Value": "\"If you're dead, does that mean a priest can resurrect you?\""
+    },
+    {
+      "Key": "f2c3dbd0-17d6-457e-9971-c9b7662d786e",
+      "Value": "\"I have a few questions for you.\""
+    },
+    {
+      "Key": "3b3af216-17f7-47ef-bfc8-0b5a91d52d2c",
+      "Value": "\"Thank you for your answers.\""
+    },
+    {
+      "Key": "e7070b0c-0fd7-460c-a5f4-30d7fe7be3fa",
+      "Value": "[Use detect magic] \"Let's see what we have here...\""
+    },
+    {
+      "Key": "04bd83dc-e3b0-434c-9a4c-9b8fd4c414c8",
+      "Value": "{n}You barely recognize the man sitting in the cell. He's changed much over the years since you saw Baron {d|Drelev}Hannis Drelev{/d} at the formal reception in Restov. Once muscular arms are now thin, his skin is pale, his eyes sunken. He's sitting on the floor, staring at his hands.{/n}"
+    },
+    {
+      "Key": "8815c5f8-3c73-43bc-9a27-a9123cd198c6",
+      "Value": "{n}The baron gives you no notice. He just remains sitting, looking down.{/n}"
+    },
+    {
+      "Key": "8b07f645-26e7-4224-96c8-27e2ed3f295a",
+      "Value": "{n}Baron Drelev submits meekly to death by your hand. He doesn't even lift his gaze.{/n}"
+    },
+    {
+      "Key": "394af933-4978-45b8-8bfa-7395b958513c",
+      "Value": "{n}The baron's lips begin to tremble, but he doesn't lift his eyes from his hands. Just when you begin to sense you won't be getting an answer, he speaks softly,{/n} \"You are too late. Baron Hannis Drelev is dead. This is only a corpse.\""
+    },
+    {
+      "Key": "a85e870f-42ee-4cf8-8ba1-c62b3f965fd6",
+      "Value": "{n}The baron shrugs ever so slightly.{/n} \"I don't know.\""
+    },
+    {
+      "Key": "2de3431c-ac7a-49d3-a718-6c086cc8417a",
+      "Value": "{n}After a long pause, Hannis speaks softly and simply.{/n} \"Yes.\""
+    },
+    {
+      "Key": "4ff0a2bf-7006-4386-990b-4edc4520a3eb",
+      "Value": "\"Irovetti keeps a monster as a servant. A pet naga. It assumes different shapes for him... But that's not important. He gave her a weapon. A wooden sword. Probably magic. He told her to pierce Drelev with it. She did. And Drelev died.\""
+    },
+    {
+      "Key": "313c2d8f-8909-43e6-90d7-6e8c27ad1361",
+      "Value": "{n}Drelev interlocks his fingers.{/n} \"The baron left {g|Restov}Restov{/g} for {g|Glenebon}Glenebon{/g}. Stumbled into an ambush. Irovetti slaughtered his people, and captured him. No one paid a ransom for Baron Hannis Drelev. Then Irovetti killed him.\""
+    },
+    {
+      "Key": "9e8c6c5f-c605-484b-acd0-c2b6abaa9215",
+      "Value": "\"Look closer.\" {n}Drelev lifts his hand, and probes the skin on his cheek with his trembling fingers – it's pale, but quite healthy.{/n} \"You see? The skin peels away. Fingers, rotten to the bone. This corpse has no eyes, no heart, no stomach... Nothing. Smell it. It stinks of dead flesh.\""
+    },
+    {
+      "Key": "2179feab-89b5-4c32-bc48-887ac64ec8ce",
+      "Value": "{n}Drelev doesn't react to your words, and keeps looking down at his hands.{/n}"
+    },
+    {
+      "Key": "11626fb3-1775-4bb7-ab9f-73492ff7458d",
+      "Value": "\"Drey Yarnes, a priest. A priest... Can resurrect Drelev?\" {n}Hannis stands up with effort and leaves the cell, swaying unsteadily on his feet.{/n}"
+    },
+    {
+      "Key": "7a53ffc0-d4fa-41da-8593-3c2c74e2a873",
+      "Value": "\"This... These questions make no sense.\""
+    },
+    {
+      "Key": "e082c266-f6ef-4cbb-b89e-dbf03d518f39",
+      "Value": "\"A priest?\" {n}Hannis moves his lips silently.{/n} \"Yes, a priest... Do priests resurrect the dead? Yes... Perhaps a priest can help.\""
+    },
+    {
+      "Key": "e0f197dc-e5b9-45a8-bfb5-6dbac28454d4",
+      "Value": "{n}Baron Drelev pays no attention to you.{/n}"
+    },
+    {
+      "Key": "009dab8b-2fdb-4c0c-bf1a-3c3c70c92bd0",
+      "Value": "\"This Drelev is a real scumbag. He wouldn't have spared you — and yet you saved him anyway. I hope he doesn't blow this shot at a new life!\""
+    },
+    {
+      "Key": "94971a27-2f26-4025-a7a2-345b7ca1b63a",
+      "Value": "\"He died alive — and will return to life, thanks to you. You granted him another chance at life... as you did once for me.\""
+    },
+    {
+      "Key": "5d20baed-398c-4692-bbfe-1a81080f0c4e",
+      "Value": "{n}Hannis raises his face with difficulty and looks at you.{/n} \"Thank you, {Name}. Perhaps Baron Drelev will live again.\""
+    },
+    {
+      "Key": "d00bfbb1-3969-45ac-93db-6e0cfe76fdce",
+      "Value": "{n}It seems that there are no active spells on Drelev. However, you notice some traces of a strange magical aura. It reminds you of the one that filled the chamber under the Old Sycamore where you fought Tartuccio. One could assume that these traces were left by some powerful artifact, but there's no guarantee of that.{/n}"
+    }
+  ]
+}

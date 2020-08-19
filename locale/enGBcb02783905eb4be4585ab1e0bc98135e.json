@@ -1,0 +1,353 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "de43d8da-1df9-4232-a583-2a9d928e4e75",
+      "Value": "\"Tell me about yourself.\""
+    },
+    {
+      "Key": "cc12cf4f-24ea-43e2-9555-c579a00546a8",
+      "Value": "\"Let's see if you can complete my task...\""
+    },
+    {
+      "Key": "f9cb257b-f1d3-4efe-82f8-7523103ce4cb",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "373b1ba4-1a5f-4a73-81d8-c694b872d199",
+      "Value": "\"Who are you to each other? Relatives? Friends?\""
+    },
+    {
+      "Key": "19bfc863-3462-4a91-b558-2f63b05fc855",
+      "Value": "\"Tell why you left Qadira...\""
+    },
+    {
+      "Key": "ffdbcac9-3e85-429d-8a60-7b687ef3cc80",
+      "Value": "\"How is life here for you?\""
+    },
+    {
+      "Key": "42362d06-fa07-4fc5-ac8f-d16ebce10bb5",
+      "Value": "\"Thank you for your answers.\""
+    },
+    {
+      "Key": "17c0e28d-71b6-4086-be3e-60294eb6d3a0",
+      "Value": "\"The Narlmarches are overgrown. They need to be weeded!\""
+    },
+    {
+      "Key": "94a00dc1-b3a6-4ee8-b443-0e48b76ea926",
+      "Value": "\"The linnorm's grave is in terrible condition. Polish all the bones to a shine!\""
+    },
+    {
+      "Key": "57302fc3-ee55-4a2e-ba66-bc3328dbfa5c",
+      "Value": "\"Take some measurements of Lake Silverstep. I wish to know the exact length of its shoreline!\""
+    },
+    {
+      "Key": "bafd1f42-0bdf-4806-ad7d-2958b0560a89",
+      "Value": "\"The road through Varnhold to Talon Peak is terribly inconvenient. Try to find a better one, past the Shrike Hills!\""
+    },
+    {
+      "Key": "40bf07e7-71dd-4537-994e-ddfdbdcffe36",
+      "Value": "\"The picket fence at Oleg's Trading Post is tilted. Go there and fix it!\""
+    },
+    {
+      "Key": "0c789421-dff9-409c-814a-511801716df4",
+      "Value": "\"On the other hand, no, I don't have any errands for you.\""
+    },
+    {
+      "Key": "5aef7080-b991-4ed1-b050-ebad2b6cea49",
+      "Value": "\"It would be better for you to stay away from the capital for a while.\""
+    },
+    {
+      "Key": "158255f8-6ff1-4935-8d8d-a2f7396af67b",
+      "Value": "\"How do you know Kalikke?\""
+    },
+    {
+      "Key": "5e5421e9-2d97-4ac3-ac0b-67a8748d78be",
+      "Value": "\"How did you find out about the Disk of the Eclipse?\""
+    },
+    {
+      "Key": "a3984100-796f-430d-939f-8dafc74e81ca",
+      "Value": "\"It looks like you've completed all of my tasks. I have just one last thing to ask of you...\""
+    },
+    {
+      "Key": "8b0c8b68-3657-40fd-bacc-c6d2277a4652",
+      "Value": "\"I can't believe it! Look who it is! If it isn't the {mf|baron|baroness|King|Queen} {mf|himself|herself}! I thought gentlefolks didn't hang around their subjects' homes!\""
+    },
+    {
+      "Key": "88eca8d3-64a8-41e6-93d7-3eaeb4d46a2c",
+      "Value": "\"Look! We have a noble guest! But come to think of it, it's us who are the guests of the {mf|baron|baroness|King|Queen}... Anyway, it's a great honor!\""
+    },
+    {
+      "Key": "b50be58e-5fe0-4a15-87e5-64f748530370",
+      "Value": "\"We've weeded the Narlmarches! The faraway ones, the nearby ones, and even the in-between ones!\""
+    },
+    {
+      "Key": "5499b578-d018-4eec-9568-9784a9df9fcd",
+      "Value": "\"All done! We washed all your bones – to a perfect shine!\""
+    },
+    {
+      "Key": "b522cf59-f685-4533-aac2-3a91a0a4516f",
+      "Value": "\"We've measured the lake! But there was a small problem… The shore is sometimes so wavy, that it's thirty feet to walk, but if you measure every curve, it's two hundred! And if you measure really carefully, it's even a thousand!\""
+    },
+    {
+      "Key": "b5e8e31f-9ecb-4b26-80e5-78bf863d0b54",
+      "Value": "\"Your {mf|Grace|Grace|Highness|Highness}, we found another way to Talon Peak! Now we'll definitely be accepted into the {g|Pathfinder Society}Pathfinder Society{/g}!\""
+    },
+    {
+      "Key": "c0322026-59c9-4352-bd97-aa5a0b0930b5",
+      "Value": "\"Oh, that Oleg! Always finding fault with things!\""
+    },
+    {
+      "Key": "a2e57d8b-b2d3-4566-8645-05c2d2ed5f75",
+      "Value": "\"Thanks for stopping by!\""
+    },
+    {
+      "Key": "1c0c1afa-cafd-4787-8ff0-d6171931645c",
+      "Value": "\"Any time!\""
+    },
+    {
+      "Key": "a2bdc508-c632-4c98-907a-67c1194d726a",
+      "Value": "\"Us three were caught by a huge roc. It was so picky, only fed tieflings to its nestlings. So we met in its nest! But we escaped!\""
+    },
+    {
+      "Key": "f9e4eafb-0e1e-4f9b-b67a-a2d6f055692c",
+      "Value": "\"It's all because of the Cult of the Dawnflower! – The ones who honor Sarenrae for the scimitar she holds in her hand, not for her kindness and mercy. They look at any tiefling like a hound looks at its prey – like, you know, we can see what's inside you – you're just waiting to do some evil! So we... well, we gathered secretly with other tieflings and genie offspring to discuss how life is not so good for us in Qadira, and how we could change everything... And then they decided we were conspirators!\""
+    },
+    {
+      "Key": "dab0204f-d2b9-4261-857a-76ecc16be74f",
+      "Value": "\"Everything is so strange here! The ground is cold, the trees are so green it hurts to look at them, and even the sky is strange. It's like we're in another world! We find something new every day. It's great!\""
+    },
+    {
+      "Key": "f362fdcb-9acf-4df9-8bce-72672dbdccb4",
+      "Value": "\"Ask away, we'll make up some more!\""
+    },
+    {
+      "Key": "869d23f4-ab9c-4700-bd16-951420e5f419",
+      "Value": "\"These two are often mistaken for my brothers. We are in fact a family, but in truth I'm actually their grandmother! What, you don't believe me? I only look young!\""
+    },
+    {
+      "Key": "eeb2334b-5905-4ba7-8917-b6707717f144",
+      "Value": "\"That's right! Hey, who are you?! Your {mf|Grace|Grace|Highness|Highness}, I give you my word, I'm only seeing these two goofs for the first time in my life! They must be some kind of tricksters!\""
+    },
+    {
+      "Key": "a671cdf8-94fc-4732-9e76-8a2c2e73c92f",
+      "Value": "\"Yes! But the bird chased us through all of Kelesh, asking us to return the treasures we took from its nest. It even tried to sue us, but the judge didn't speak birdish!\""
+    },
+    {
+      "Key": "864af22c-9061-48e3-a6f6-0b630bc6cd63",
+      "Value": "\"You got everything mixed up, grandma! I'm your grandson, but he's the third great-great-grandson of your nephew's sister-in-law!\""
+    },
+    {
+      "Key": "883a6e34-90cf-4b4e-a978-4953697d5cb2",
+      "Value": "\"How insolent! Keeps following us, then dares to ask who we are! And steals all the flatbread from our bags at night too, by the way!\""
+    },
+    {
+      "Key": "fd95a82b-3ef0-4a65-a68d-1ba261a60045",
+      "Value": "\"It's a shame that it's so cold all the time, though. But then again, it keeps changing – snow, rain, whirlwinds, storms and lightning, and after that – a rainbow. It's beautiful!\""
+    },
+    {
+      "Key": "271738ef-b6d8-479e-aafb-20975c03c966",
+      "Value": "\"Order us to go collect the moon from the sky – we can do anything!\""
+    },
+    {
+      "Key": "697aae0a-26bc-4bf5-8372-b1f0a2287605",
+      "Value": "\"Our Elder won't tell you this – she's modest like that – but she's the one who saved us from the raid. She ran to us and fought off the Cult's soldiers so we could get away. The forces of nature have given her quite some power! If it wasn't for her, I don't know what would have happened. Maybe we'd just be exiled... but I don't think so.\""
+    },
+    {
+      "Key": "53dcd8db-ab9d-4217-abaf-bf1dc727ba75",
+      "Value": "\"Give us your orders! We won't let you down!\""
+    },
+    {
+      "Key": "507c650a-7ab5-4a4b-b905-f9378b1636d6",
+      "Value": "\"We're ready for anything! And even more!\""
+    },
+    {
+      "Key": "547bc995-ac2a-4aeb-955c-682f3d8d09f0",
+      "Value": "\"I still can't get used to these swamps everywhere. When I was little, I thought that marches and seas and glaciers were all just stories made up by travelers. But here you just leave the city walls – and you're up to your knees in a real swamp! It's fantastic!\""
+    },
+    {
+      "Key": "a402520c-5105-4d75-833a-9dd4795b039b",
+      "Value": "\"Linnorm bones? That's great! Can we take a few as souvenirs?\""
+    },
+    {
+      "Key": "c72f488f-d14a-4718-9a86-4a74093ab3f5",
+      "Value": "\"Did you hear that? We have an important task, surveying the lake shore! Don't forget your towels!\""
+    },
+    {
+      "Key": "f9e045c9-1331-40a7-aff1-df0a48d8f45e",
+      "Value": "\"Looking for new roads? We can do that!\""
+    },
+    {
+      "Key": "f3bbbb0b-a294-4b3c-b5f9-0f918dac8f02",
+      "Value": "\"Tilted? We'll fix it up and paint it in no time!\""
+    },
+    {
+      "Key": "97f75fdd-397e-45b4-87fa-56a4c798c9cd",
+      "Value": "{n}Grabbing their travel bags, the young tieflings run away.{/n}"
+    },
+    {
+      "Key": "a8172c9a-94dd-4e2d-9e8c-b3034f191ff2",
+      "Value": "\"But then some fey came and told us that the weeds we pulled out were actually the good ones. Maybe even sacred ones.\""
+    },
+    {
+      "Key": "b33ff7b7-8fd5-4bad-8ecb-0cd4178699a2",
+      "Value": "\"And a nice fellow followed us back. Can we keep him? He tramps around loudly at night, but we'll make him some soft shoes.\""
+    },
+    {
+      "Key": "80928cf3-4acb-419d-a6fa-4a499cdac560",
+      "Value": "\"We argued for a long time what the right way to measure it was, and in the end we decided to take an average. And the figure we got, um... Elki, how long was it?\""
+    },
+    {
+      "Key": "5e09a2c2-dd1d-4d21-ace1-892fcea91739",
+      "Value": "\"This new road, though... It might not be any more convenient than the one through Varnhold. Probably even less so. But anyone who really wants to can definitely get through it! Here, look!\""
+    },
+    {
+      "Key": "63984192-7625-4284-9734-c1516a9f627b",
+      "Value": "\"We straightened up his fence, painted it, and put some wolves' heads on top to scare off enemies! We even started building a catapult along the wall, and then here he comes – running up, waving his hands, yelling his head off!\""
+    },
+    {
+      "Key": "d1efeb89-702b-4ff6-bf26-8de650fc1284",
+      "Value": "\"Pity! We're ready for any feat! If you need us to perform a feat, you won't have to ask twice!\""
+    },
+    {
+      "Key": "8734fb14-6599-42f2-a1fe-b6db9c3cb440",
+      "Value": "{n}Elki slaps the young tiefling on the side of his head.{/n} \"Forgive him, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, he's got a big mouth. So big that when he comes to visit someone, his tongue enters first, and talks rubbish for a few minutes before the rest of his head shows up!\""
+    },
+    {
+      "Key": "01480218-9616-4043-b47b-368a2102febc",
+      "Value": "\"These two are trying to say that your visit is a great honor for us! How can we help you? Don't say that we can't! There are many things we can do. – Just try us!\""
+    },
+    {
+      "Key": "d90bd51d-f146-4842-821c-5319ef3af117",
+      "Value": "\"But we've only just arrived! Why would you send us away? We didn't do anything wrong!\""
+    },
+    {
+      "Key": "6f907c05-628d-454a-b5ce-8267c77730b2",
+      "Value": "\"Your {mf|Grace|Grace|Highness|Highness}! You must think we're a gang of useless loons...\" {n}The girl looks at Naiho askance.{/n} \"And I can understand why you'd think that... But please, don't send us away! Give us a chance to prove ourselves!\""
+    },
+    {
+      "Key": "c3db0523-3679-45c2-86be-a461637d539f",
+      "Value": "\"Yes! Just give us a chance – we'll show you!\""
+    },
+    {
+      "Key": "9e9e8783-47d2-4aaf-bf2b-a9d0d75d8655",
+      "Value": "\"Shame on you! The {mf|baron|baroness|King|Queen} trusted us with {mf|his|her} bones, and you're not going to steal them! Don't you worry, Your {mf|Grace|Grace|Highness|Highness}, we'll take care of your bones! They'll be as shiny as new!\""
+    },
+    {
+      "Key": "5886d38c-20ad-43c5-801e-9aaac729471c",
+      "Value": "\"If you need anything, just whistle!\""
+    },
+    {
+      "Key": "1018c730-5268-48c2-87a1-507673e9b39b",
+      "Value": "\"Do you really think {mf|His|Her} {mf|Grace|Grace|Highness|Highness} wants us to tell {mf|him|her} about {mf|his|her} lands?\""
+    },
+    {
+      "Key": "827233a9-5985-4f2b-9838-6709a46daa29",
+      "Value": "\"Why not? The swamps here are – ooh! – so juicy, green, and blooming! And the mosquitoes whistle day and night... The Padishah himself would envy you! All right, enough talk, it's time we get to work!\""
+    },
+    {
+      "Key": "cf83e9d7-6f39-4e89-8ba4-8ccf380f9a46",
+      "Value": "\"And fishing rods! Don't forget your fishing rods!\""
+    },
+    {
+      "Key": "bb9f71c2-9528-4446-8860-519ed5563fd5",
+      "Value": "\"What are you thinking, you goof-offs! The most important thing is to take a lot of rope, so we have something to measure with!\""
+    },
+    {
+      "Key": "d000edd3-f1b8-4da2-996f-d9e7d94e6422",
+      "Value": "\"Maybe if we found such a road, we'll be accepted into the Pathfinder Society!\""
+    },
+    {
+      "Key": "c1abb0f2-8446-4ee3-a663-8008f124bd03",
+      "Value": "\"There's a nice old lady who lives there. – She's green all over, but she's not an orc. And she wears such a weird hat. She poured us some mushroom tea and served us frog-eye cakes!\""
+    },
+    {
+      "Key": "bc08c9ea-bd80-442b-b84c-79208831147d",
+      "Value": "\"But first she asked us to pick some flowers for her, and it turned out they only grow on poisonous shambling mounds... But we couldn't say no to such a kind old lady!\""
+    },
+    {
+      "Key": "4c49d07b-fa17-445e-8e43-161c378e4144",
+      "Value": "\"So we had to put everything back where it was!\""
+    },
+    {
+      "Key": "7a484451-6ca2-4dd8-871e-3643d8137e0e",
+      "Value": "\"There are so many interesting things in the swamps... Here, look what we found!\""
+    },
+    {
+      "Key": "08a03c5c-5c04-4477-87e3-98009e016afe",
+      "Value": "\"He's tamed, even potty-trained!\""
+    },
+    {
+      "Key": "e9ed3119-e361-4cf7-aa1b-20a879ee8446",
+      "Value": "{n}The tiefling proudly presents you with a huge skein of wet rope.{/n} \"This long!\""
+    },
+    {
+      "Key": "903a6092-a82e-4680-ad9b-88cce97f6f07",
+      "Value": "{n}The tieflings unfold a scrawled map in front of you.{/n} \"First here. Then down to the cave, then crawl up to here, and then dive into this underground lake. And you come out of here. Yes, it does seem like you're going the wrong way, but if you climb this rock, throw a rope over to this tree, you can use it to get to the other side, avoiding all the lava down there, and then it's only about forty miles to Talon Peak!\""
+    },
+    {
+      "Key": "5bb21746-7aff-48bc-91f0-ef17222ad406",
+      "Value": "\"That's probably the way the ancient cyclops went. Look, we even found some coins there!\""
+    },
+    {
+      "Key": "e1ecd11c-dcec-459b-abc1-17d48148e8a6",
+      "Value": "\"He doesn't like the color, the heads will attract flies, and it turns out he wanted to keep the shed that we disassembled to make the catapult. He made us put everything back the way it was.\""
+    },
+    {
+      "Key": "1157f5c4-e4db-4554-b74f-34d31322b35f",
+      "Value": "\"But as we were leaving, he was so happy! He even gave us a little something for the road! There, have some!\""
+    },
+    {
+      "Key": "31416083-f09f-4f8c-a947-dd2e033bc527",
+      "Value": "\"Our Elder? She's the best!\" {n}Naiho jumps in place, waving his hands.{/n}"
+    },
+    {
+      "Key": "7af7b84a-c4df-41ef-95de-863bb3a9660f",
+      "Value": "\"Yes! We've known her for many years. Though at first we didn't know she's a tiefling like us...\""
+    },
+    {
+      "Key": "b8d41131-8392-4bac-9e70-f86bfec8b106",
+      "Value": "\"Yes, if nothing else, we always have a lot of stories! Ask, and we'll tell you anything you like!\""
+    },
+    {
+      "Key": "25251d9b-ea1c-401e-80a0-822209986467",
+      "Value": "\"And the people here! In Qadira everyone's face is either servile or arrogant. Everyone is looking for someone to bow to or look down on. It's so different here. Everyone is their own master. Even the bandits on the high road. – Of course they'll take your boots off you, but with respect, from one free person to another!\""
+    },
+    {
+      "Key": "67e5462c-2655-4dba-a372-3052474fa38c",
+      "Value": "\"Oh, that's some story! We were walking at night in complete darkness through an empty moonlit barren...\""
+    },
+    {
+      "Key": "17937229-8634-4471-a0e4-518aae3eb334",
+      "Value": "\"And we got lost, and stumbled into a scary thicket! But then we saw light ahead – a witch's house! As soon as we went inside, she...\""
+    },
+    {
+      "Key": "ef7a15e1-c93b-43cb-9623-5c6bc92bb7ea",
+      "Value": "\"… she said we are dummies who couldn't watch our tongues, and threw us out. And the Disk of the Eclipse? We found out about that by accident. – A peddler talked to us on the road, and just gave us an ancient chronicle where we read about it!\""
+    },
+    {
+      "Key": "2127aaa3-3ce4-4e12-90a4-cfbdc1e0bf27",
+      "Value": "\"We accidentally used the chronicle for kindling... but we remembered everything we read really well!\""
+    },
+    {
+      "Key": "2e1152c2-9683-4718-b7ac-3160500dfea5",
+      "Value": "\"One time we prepared a lot of different sweets and wanted to sell them. We were sitting in the street – they don't let you into the market without a fee! Then there they were – boys and girls, in wonderful dress, obviously rich or noble. And with them – an emberkin. So beautiful!!\" {n}Elki sighs dreamily.{/n} \"She wanted to buy some sweets from us, but her friends scoffed at us and took her away. And it was Kalikke! She was only pretending to be an aasimar, using an illusion...\""
+    },
+    {
+      "Key": "d0ebab0a-4eb3-46f9-858e-225f470dd632",
+      "Value": "\"And Elki fell in love right away, ha ha ha! Hey, what are you looking at? It's the truth! Well, she found us later. And bought our sweets, and started to keep an eye on us. She called us the Sweet Teeth ever since! Ah, our Elder... we'd be lost without her!\""
+    },
+    {
+      "Key": "1b11e7ee-3092-4cbe-8649-0be67ca3ec3a",
+      "Value": "\"Such a shame! We only just got started! Oh, well, that's too bad.\""
+    },
+    {
+      "Key": "725c234e-3d55-4672-a556-11bea1ce5904",
+      "Value": "\"If you manage to come up with any more tasks for us — feel free to come visit! We're here all the time.\""
+    },
+    {
+      "Key": "58066c37-3a0b-448a-918c-3110b3801aef",
+      "Value": "{n}Tevi lowers her eyes.{/n} \"We promise to keep away from our friend. And I think I know why we're always being sent out on errands.\""
+    }
+  ]
+}

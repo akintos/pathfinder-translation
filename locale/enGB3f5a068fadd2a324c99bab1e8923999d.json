@@ -1,0 +1,33 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "81f4ad5e-d704-4047-9f37-d3c0c59b653c",
+      "Value": "[Lure Evindra into a trap] \"Evindra, my advisor Tsanna needs the advice of someone who knows the First World well. She is up ahead, waiting not far from here. Will you help?\""
+    },
+    {
+      "Key": "e42dc60a-0e21-409f-82a0-e4efce16422d",
+      "Value": "\"I have to go. Goodbye!\""
+    },
+    {
+      "Key": "b3896808-875f-461e-8547-aa841bf26271",
+      "Value": "[Warn Evindra] \"I have to warn you — Tsanna, a priestess of Lamashtu, has chosen you as a sacrifice for her goddess.\""
+    },
+    {
+      "Key": "3710e5e8-a888-438d-a25e-87dcfc9d7383",
+      "Value": "{n}Evindra stops what she's doing and looks up at you with her big sad eyes.{/n} \"Can I do something to help?\""
+    },
+    {
+      "Key": "a638f160-2a5f-442e-90b0-6f5d55897c68",
+      "Value": "\"No one truly knows the {g|First World}First World{/g}, even I who was born and raised here. But I will help as well as I can. This is what I'm here for.\""
+    },
+    {
+      "Key": "ed747515-40c3-4f5b-b50f-648759c6ee14",
+      "Value": "\"Of course, this is a pointless wish, but nevertheless — please be careful. The {g|Eldest}Eldest{/g} is the foe of foes. His power can only be matched by his guile...\""
+    },
+    {
+      "Key": "cccc69a3-a50f-47ae-b443-83575ba83c1e",
+      "Value": "{n}The nereid flinches.{/n} \"{g|Lamashtu}Lamashtu's{/g} sacrifice! I'm sure I would be gone forever, if that horrendous deity claimed my life.\nThank you for warning me... I will be careful. Anyway, I must live to see your victory over the {g|LanternKing}Lantern King{/g} — and see his crown fall!\""
+    }
+  ]
+}

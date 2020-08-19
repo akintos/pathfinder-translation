@@ -1,0 +1,245 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "705f5603-8d27-40cc-9610-e1f3b9f3e24e",
+      "Value": "\"Kalikke, calm down. Everything ended well.\""
+    },
+    {
+      "Key": "3f55a162-17b8-4219-b333-c9af2c0806ff",
+      "Value": "\"Kanerah is actually the one with reason to be angry.\""
+    },
+    {
+      "Key": "4cdc5e0c-5231-426f-b416-3bdf4260f148",
+      "Value": "\"The Forefather wanted to feed the Sweet Teeth to the soul eater – supposedly to help you. But we interfered.\""
+    },
+    {
+      "Key": "dd8cc7b7-3a6a-4446-9973-133b2f43cc9c",
+      "Value": "\"You should never have gotten involved with this devil, Kanerah. He made the soul eater attack the Sweet Teeth.\""
+    },
+    {
+      "Key": "054aaa91-3664-41cf-9551-ef6cad9c3c31",
+      "Value": "\"Nothing special happened. The Forefather helped save you from the soul eater by feeding the Sweet Teeth to it instead.\""
+    },
+    {
+      "Key": "5c67c49f-625e-4497-8a38-89a834300c52",
+      "Value": "\"We sacrificed Kalikke's friends for your safety, but it didn't make her happy.\""
+    },
+    {
+      "Key": "8eaedd11-a552-4c8a-9f69-887ae6ba22ed",
+      "Value": "\"Why did you plot all this, Forefather? What's in all this for you?\""
+    },
+    {
+      "Key": "2ced2b5f-d713-49fc-8253-07e880013c6e",
+      "Value": "\"Your treatment of Kanerah and Kalikke as your property is unacceptable.\""
+    },
+    {
+      "Key": "6c2fa813-8e79-4950-91ef-e0394547df86",
+      "Value": "[Attack] \"We should have gotten rid of you the first time we met!\""
+    },
+    {
+      "Key": "51bd3c66-feaa-47a7-95e9-206a6f787e81",
+      "Value": "\"If anyone is to blame for what's happened, it's the Forefather!\""
+    },
+    {
+      "Key": "91d4abe6-3b9c-49d0-bee5-8360f8b2646a",
+      "Value": "\"Whatever it is you're planning, I'll protect Kanerah and Kalikke!\""
+    },
+    {
+      "Key": "74a1d99e-f555-42f4-9506-226c4e621e70",
+      "Value": "\"The sisters are my servants, and if anyone has a right to them, it's me! However, we could come to a mutually beneficial agreement...\""
+    },
+    {
+      "Key": "1a95037a-f789-4e49-888c-3856250d0d56",
+      "Value": "\"Leave, devil. Our conversation is over.\""
+    },
+    {
+      "Key": "b2694eee-b76a-41f5-8d0c-87cb17145ec9",
+      "Value": "\"I can't believe it! That crazy goat set me up AGAIN!\" {n}Kanerah seems fit to burst with rage.{/n} \"She risked my life again – for those lowlife simpletons! And in a fight with a beast that KILLED ME ONCE ALREADY!\""
+    },
+    {
+      "Key": "e4ff2468-c676-441a-8e87-9ab524c86c4f",
+      "Value": "\"The Sweet Teeth, you are alive! I was so scared!\" {n}Kalikke steps forward to embrace her friends, but then stops and turns to the Forefather, clenching her fists.{/n} \"Leave us alone. Go away, now! We aren't afraid of your little plots, you see?\""
+    },
+    {
+      "Key": "253470c8-8da2-4080-ac0f-471692b9b8f0",
+      "Value": "\"The Sweet Teeth... no, no...\" {n}Kalikke drops to her knees, and buries her face in her hands. Her shoulders are shaking with sobs.{/n}"
+    },
+    {
+      "Key": "39de2b06-9e18-4714-8d5e-5b12d839405c",
+      "Value": "\"Wait... so you're not Kalikke? Kanerah, you're alive? And what do you mean, 'it killed you once'?\""
+    },
+    {
+      "Key": "70df539c-b1f1-4135-9b4a-b693015a0ec9",
+      "Value": "\"I'll show you your Kalikke... tell her she can wipe your foolish snouts for the rest of her life, if she values you more than me!\""
+    },
+    {
+      "Key": "f07c7f80-3a08-4b63-8ee1-b1542f1e8193",
+      "Value": "\"The Sweet Teeth, you're alive! Praise Nethys!\""
+    },
+    {
+      "Key": "33f599d9-37b0-48f6-bef2-25b5e9caa1f5",
+      "Value": "\"...Your sister was just here. She's very angry with you...\""
+    },
+    {
+      "Key": "b09e5612-6881-4db9-94d2-78541cbad828",
+      "Value": "\"Angry with me?! Well then you can tell her I don't have to live with blood on my hands for her sake! If she hadn't made that deal with the devil, if she didn't want to have everything, then this would never have happened! I gave half of my life for her return... but I can't – I won't – give the lives of my friends as well!\""
+    },
+    {
+      "Key": "a3120566-bdbb-442d-84fa-bc1a98fc5419",
+      "Value": "\"Could someone explain to us what's going on?\""
+    },
+    {
+      "Key": "1842dad9-e85c-4236-b5c0-7471cf6b6141",
+      "Value": "\"Anyone at all?\""
+    },
+    {
+      "Key": "c07b450f-4f4e-4b7a-ad05-412f3de8c5fa",
+      "Value": "\"Ah, I understand – I do! There really are TWO of them! How could we have missed it?!\""
+    },
+    {
+      "Key": "2185a444-d53d-434b-9ecd-af2ac80609d8",
+      "Value": "\"My hat's off, young lady. You and your... sister, I take it? – You're quite good actresses. Or perhaps Jubilost Narthropple is just a knucklehead. Not to mention the rest of our party...\""
+    },
+    {
+      "Key": "b5ce0032-931b-4785-aaf4-608a31d3e121",
+      "Value": "\"No, it's hasn't.\" {n}The girl can barely hold back her tears.{/n} \"I can't take it any more. I love my sister but I can't stand her cruelty. If only we could just go our separate ways and never meet again. Forgive me, {name}. I... I...\""
+    },
+    {
+      "Key": "c4d62f21-713b-448b-b932-e75943601199",
+      "Value": "\"Yes, she has reason. Does that make me feel better? No. I thought something changed... that she wouldn't repeat the fight we had in Qadira, that began all this insanity. And now she thinks I should have agreed to the Forefather's conditions and sacrificed my friends! I can't do this any more...\""
+    },
+    {
+      "Key": "48fd112d-3e16-4529-81ba-bcedc20849da",
+      "Value": "\"Yes... I almost dragged Kanerah into this bloodbath without even asking her. But it was {name} who stopped me – while you seem to have been waiting for a chance to push me into the abyss.\""
+    },
+    {
+      "Key": "7d3106f5-1e2e-4c7a-bc0c-a506a9ffac5c",
+      "Value": "{n}The Sweet Teeth are lying on the ground. All three of them are dead...{/n}"
+    },
+    {
+      "Key": "a5ab422c-df37-4da9-97d6-a4677e313a79",
+      "Value": "{n}Finally Kalikke stands up. Her face is pale, and she looks with rage at the Forefather.{/n} \"You! You and your plots!\""
+    },
+    {
+      "Key": "3e4a6f82-402a-4527-82f5-57f70d8ee051",
+      "Value": "{n}Kanerah raises her brow expressively, eying the scene.{/n} \"So, what did I miss?\""
+    },
+    {
+      "Key": "2ae1ef84-18b8-4b79-9ab4-f63e09f5e7fb",
+      "Value": "\"Hey, what happened? Is it just me, or did Kalikke summon me like it's the end, and we need to pay off all our debts?\""
+    },
+    {
+      "Key": "fadd6171-64dd-4c66-9de3-12cb72b85d5c",
+      "Value": "\"Really? I'm amazed that it didn't occur to Kalikke to summon me as bait for the soul eater! My sister seems to be growing more mature... I'm almost ready to believe she's not just a silly little fool.\"{n} Kanerah smiles and seems pleased.{/n}"
+    },
+    {
+      "Key": "8ca67b83-5b8e-4dec-a1e0-7763cc053afb",
+      "Value": "{n}Kanerah frowns indecisively.{/n} \"My sister's silly pets, food for the soul eater? She must have cried a river! How did it not occur to her to summon me during the battle to save those fools? I'm... pleasantly surprised. And I hope you saved the riffraff for her sake?\""
+    },
+    {
+      "Key": "70100887-377e-489a-97c1-ee8dc03f8988",
+      "Value": "{n}Kanerah frowns fretfully.{/n} \"Let me guess – and now my sister blames me for everything? Tell her, when you have a chance, that I died once and I'm not about to do it again. And as for her daft friends... oh well, life is cruel.\""
+    },
+    {
+      "Key": "4cff24ff-2ae9-492d-beb3-ddd2db4f0a36",
+      "Value": "\"Of course! If you let her, she'd nurse every scraggy cat and lame bird that crossed her path. And it wouldn't matter who else had to suffer for it!\""
+    },
+    {
+      "Key": "74e9fbbc-2731-4912-8787-912f7629ac86",
+      "Value": "\"My poor child. I don't know how something so foolish could have descended from my blood. I wish to see you grow up, lose your childhood fantasies and weaknesses. This will be easier, once I spare you of the strictures imposed by a certain divine force...\""
+    },
+    {
+      "Key": "2f53d4c3-3cff-4441-9779-dd0a9baa1343",
+      "Value": "\"So that's why... that's why you set all this up!\""
+    },
+    {
+      "Key": "63802d40-5445-4ce0-aecd-28da9ea2d834",
+      "Value": "\"We are not your property.\""
+    },
+    {
+      "Key": "2e57d1b9-9a68-4e93-8067-5898c9fa0e75",
+      "Value": "\"To secure a valuable investment, of course. The mindless monster from Abaddon, in hunting Kanerah, was standing in my way – and I had to get rid of it. But there's more, of course – what kind of a devil makes plans without some sinister ulterier motive? I cannot hope to oppose Nethys, who has taken my girls under his wing. But I can drive them to break the god's conditions, and thus lose his patronage.\""
+    },
+    {
+      "Key": "24b0d3e1-916b-4b8b-9f01-35430e5942c7",
+      "Value": "\"And I have succeeded. First, I lured them to these lands with the Disk of the Eclipse. Then I made them reveal themselves to everyone present — Kalikke just couldn't stay and watch her precious Sweet Teeth die, could she? To protect them she only needed to bring Kanerah — right before everyone's eyes! In any case, their vow of secrecy has been broken. Now we only need deal with the second condition – and then I may receive what's been taken from me.\""
+    },
+    {
+      "Key": "ba828305-5d07-4e6f-9ca5-9ec94160798b",
+      "Value": "\"You can try – but your challenge of combat will have to wait until our next meeting. I have accomplished everything I intended. Now I shall wait. – A new turn is coming!\""
+    },
+    {
+      "Key": "104353bd-3dd0-416c-a522-e9b5756c1b9f",
+      "Value": "\"In your case, the matter must still be discussed. But in Kanerah's case, the situation is quite clear. She made a contract with me for a lifetime of service, and she's the only one who thinks a formal death followed by a resurrection can spare her from her contract. But in any case – it's not up to you to decide your fate.\""
+    },
+    {
+      "Key": "86ac4617-a0d6-471d-9953-085d1d740d11",
+      "Value": "{n}The surviving Sweet Teeth are clinging to each other, hesitating to come close.{/n}"
+    },
+    {
+      "Key": "3938459a-c1e8-4449-8742-57eae047db60",
+      "Value": "{n}The only surviving Sweet Tooth is wandering nearby, baffled, hesitating to come close.{/n}"
+    },
+    {
+      "Key": "f1848dfd-1993-45f0-9fb3-8e58aaec975e",
+      "Value": "{n}Kalikke grows even more pale.{/n} \"You are right in a way. Kanerah is unlikely to blame you for this evil. Why... why did everything have to happen this way... Kanerah died because of me, and now my friends have suffered because of her decision to get involved with you! I can't carry this burden any more... I'd rather just fall asleep and never wake up!\""
+    },
+    {
+      "Key": "0d2256a1-6d4b-4aec-ad24-65b6a6e38dad",
+      "Value": "\"You sound so confident... but what does Kanerah think of this?\""
+    },
+    {
+      "Key": "7a8acad9-6276-43c2-9d71-2a3b13692d9d",
+      "Value": "{n}A shadow of doubt runs over the girl's face.{/n} \"Let's ask her!\""
+    },
+    {
+      "Key": "afbcb19b-1e55-446e-a20a-d51fee60fe6c",
+      "Value": "\"Yes, he arranged all this, but he's not the main reason. I can't do this any more... I can't look the other way while Kanerah is indifferent to the lives of others, and my own feelings. I gave her half of everything that I'd ever have – all for her. But I cannot sacrifice those who depend on me!\""
+    },
+    {
+      "Key": "158c75f3-a3eb-4f3b-898a-7a2c8affb0cc",
+      "Value": "\"That's my girl! I'm glad to see such practicality in my offspring. And I will be even happier when I've spare you of the strictures imposed upon you by a certain divine power...\""
+    },
+    {
+      "Key": "a48a5b8d-5259-4048-9234-76c85117bd61",
+      "Value": "\"If you are talking about our contract, it's over. I only had to serve you until I died. And I did. – This conversation is over. Let's play by the rules, Forefather.\""
+    },
+    {
+      "Key": "89df1f85-ddf5-47ba-9377-74de86ff470b",
+      "Value": "{n}A quick succession of thoughts flash behind Kanerah's eyes.{/n} \"So that's what this was all about...\""
+    },
+    {
+      "Key": "3816aefa-6043-4c04-a35f-d036b095608c",
+      "Value": "\"Obviously. It would be madness – and short-sighted – to argue with a herald of Nethys himself.\" {n}You hear a chuckle from under the iron mask.{/n} \"But it would be pathetic to do nothing.\""
+    },
+    {
+      "Key": "ced92a55-8494-41a1-9efd-8adb4f16f9e4",
+      "Value": "\"You see, girl – and you, {name} – my offspring is a valuable investment in this world, and I wish to secure my interests. For ages I've reaped souls as a sickle reaps grain, turning even the most loyal followers from their service to the 'almighty' gods. And I imagine that all-seeing Nethys decided to make a joke of me, by taking the two souls that are mine by right. But everything will work out just fine. – Soon enough, I will reclaim what's been taken from me.\""
+    },
+    {
+      "Key": "ea394108-7c8b-469e-932d-ca7ab931bcab",
+      "Value": "\"Do not anger me, child. You are not dead, which means that your service and our contract are still binding. I am here to complete certain formalities and correct any misinterpretations.\""
+    },
+    {
+      "Key": "da5b17e3-822e-4120-bbc3-d86e637c5af4",
+      "Value": "\"I'm sorry, but I began their story, and I will be the one to finish it. Just you wait. Soon enough I will take another turn in this game…\""
+    },
+    {
+      "Key": "b28fdeaf-9b2c-4780-99d9-d056aadcfad1",
+      "Value": "\"I admire your approach, but there are too many interested parties in this deal already. Take my advice – when the time comes, do not interfere. It is best to keep clear of games between greater forces!\""
+    },
+    {
+      "Key": "2c2512dc-6f61-4d3b-a463-197b20d878d0",
+      "Value": "\"Of course you're welcome to try. But I don't recommend meddling in games of devils and gods. I've made my move – and now I shall wait. Soon enough, the game will continue...\""
+    },
+    {
+      "Key": "4c845235-b5d5-47ce-946a-4ded9c9c1d75",
+      "Value": "\"An amazing agreement, and in a way, a reconciliation. I expected a more emotional reaction. But it doesn't matter. What does matter is that my little play was a success. I hope it will help spare my darling girls from the strictures imposed on them by their divine patron...\""
+    },
+    {
+      "Key": "1144074f-f990-49c4-ae5e-fd58409427f3",
+      "Value": "\"As you wish, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. We will meet again.\""
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "7c929053-5db4-4e32-9a7f-5d1df8d857b3",
+      "Value": "\"Captain Martyn sent me.\""
+    },
+    {
+      "Key": "6d03cb69-be69-4b22-ae65-6cade30d1450",
+      "Value": "\"Erm… I'm a fan.\""
+    },
+    {
+      "Key": "ccebf94c-173f-4270-a54c-b9efb1317787",
+      "Value": "\"I'm someone you'd better treat with more respect!\""
+    },
+    {
+      "Key": "4eea26a2-0fcb-493b-8dc3-d7dbec22530c",
+      "Value": "\"Perhaps it's time to finish the grimoire?\""
+    },
+    {
+      "Key": "06ceb0e8-36ea-4961-98f8-98f5ae9d224e",
+      "Value": "\"Why do you stay here? Are you hiding from someone?\""
+    },
+    {
+      "Key": "dcd51e80-c8e0-400c-8282-7f1ea2fd4c28",
+      "Value": "\"Have you ever been to the First World?\""
+    },
+    {
+      "Key": "84efecd8-b7a1-47d4-aff2-fd7b365b35f7",
+      "Value": "\"How did you wind up in Katapesh?\""
+    },
+    {
+      "Key": "f074f8e9-3f08-4ba5-8cd3-4cd115c02a38",
+      "Value": "\"What did you do in the North?\""
+    },
+    {
+      "Key": "80f6adc9-c035-4085-a078-4c5f6ed7a79e",
+      "Value": "\"It's time for me to go.\""
+    },
+    {
+      "Key": "85837014-33d5-41ab-abf2-7a0b79c98e24",
+      "Value": "\"That won't do. Give me the book immediately!\""
+    },
+    {
+      "Key": "c75fcdff-e721-4050-a636-1a69d5365942",
+      "Value": "\"It's important to be able to accept closure. Perhaps it's time to put a period on it?\""
+    },
+    {
+      "Key": "bef393e7-f21c-4b05-bcd7-4003d897e54d",
+      "Value": "\"Maybe I can help you finish the book?\""
+    },
+    {
+      "Key": "b7ef2751-97f7-4eeb-a882-a4fa3ab23f20",
+      "Value": "\"I don't dare argue.\""
+    },
+    {
+      "Key": "deb940c6-d428-42c6-bb5f-499bd42e693b",
+      "Value": "\"How did you meet Captain Martyn?\""
+    },
+    {
+      "Key": "260ea8f0-efab-49c0-88ac-091d263d6ef0",
+      "Value": "\"But there are more important things to discuss...\""
+    },
+    {
+      "Key": "a320a9c0-7579-4755-becf-46179ebaaee8",
+      "Value": "\"I'm in need of a wise adviser. Would you like to work for me?\""
+    },
+    {
+      "Key": "7050eacd-7c8f-490a-8419-bb18f565e400",
+      "Value": "\"I'd like to learn more about you.\""
+    },
+    {
+      "Key": "284a4826-2973-420a-adcd-e758681a3434",
+      "Value": "[Attack] \"You're useless to me alive.\""
+    },
+    {
+      "Key": "e955c29f-f6cb-4221-bda3-8f2f79094e57",
+      "Value": "[Attack] \"Your death.\""
+    },
+    {
+      "Key": "8cf4e623-13be-47a9-8972-21c363cc8f1c",
+      "Value": "\"No one. Sorry to trouble you.\""
+    },
+    {
+      "Key": "dda6d6bc-fd0d-4e0a-aedd-cc45082234ff",
+      "Value": "\"What are you doing here?\""
+    },
+    {
+      "Key": "e1f2f577-fa3b-4ec1-b2b6-875f5daa391f",
+      "Value": "[Attack] \"No more excuses. I'm taking the book.\""
+    },
+    {
+      "Key": "fb5485c0-c60c-4b3c-9f29-070c4c66df11",
+      "Value": "{n}A large and broad man turns to you, trying to smooth his thick, tousled hair. His deep voice could have belonged to a giant.{/n} \"Hey, who are you?!\""
+    },
+    {
+      "Key": "1ff209ed-fe14-43cb-90b7-c0dd33b61e4e",
+      "Value": "{n}For a moment the man stares at you blankly, then smiles and heaves a sigh of relief.{/n} \"Oh yes, Captain Martyn! By all means, welcome to the dwelling of Blakemoor the Wizard.\""
+    },
+    {
+      "Key": "521e212a-502a-4809-b0cb-8312c9ae649a",
+      "Value": "\"Get out, robber!\""
+    },
+    {
+      "Key": "41fb2d40-242b-4c16-b5e8-6b96eb1e1af7",
+      "Value": "{n}The man heaves a heavy sigh.{/n} \"Ugh, another fan. You fans are the bane of my existence. And of course you're here seeking stories of the legendary Blakemoor the Wizard.\""
+    },
+    {
+      "Key": "001b380e-c4cb-4b69-8c52-51ca3c053297",
+      "Value": "\"So, someone important has come to visit good old Blakemoor? Well, I shall be a most gracious host!\""
+    },
+    {
+      "Key": "2d43c203-06d8-4b91-8bd1-53e198f4fec5",
+      "Value": "\"How can I help you?\""
+    },
+    {
+      "Key": "214781d2-b227-4559-82fa-48c1eb20ce3c",
+      "Value": "\"Only from my numerous fans. My enemies are terrified of me, even the mighty devils! Once, thanks to a certain vile entity, I ended up in {g|Hell}Hell{/g}. Took the wrong portal... Long story short, I found myself in Hell – and it was open season on my head! The devil Siroket was chasing me. And all I had to fight her off was a sack of low-quality tobacco, the Flute of the Hundred Sea Winds, a deaf-mute kobold servant, and the sulfur which laid in such abundance all around. But that's more than enough to trick some clueless devils!\""
+    },
+    {
+      "Key": "dd20e246-525e-4f64-9ca8-ec87eaef987b",
+      "Value": "{n}Blakemoor stares at the scattered pages with ill-concealed yearning.{/n} \"The book is almost finished. It's a phenomenal piece of work. All it needs is a couple of alterations. Everything must be perfect.\""
+    },
+    {
+      "Key": "14ffd2a6-5fbb-4b58-9299-ab85c6a15378",
+      "Value": "\"Ha, where should I start? I am Blakemoor the Wizard. I've seen many things and been to many places – from the northern {g|Realm of the Mammoth Lords}Realm of the Mammoth Lords{/g} to hot {g|Katapesh}Katapesh{/g}, and even to more exotic places, such as the {g|First World}First World{/g}.\""
+    },
+    {
+      "Key": "5a9e15bf-8cff-4c79-87fa-3379b9b83c64",
+      "Value": "\"I got into the {g|First World}First World{/g} by chance. But in spite of that, it was easy for me to find a job there. I was soon substitute rector at a rather remarkable academy, which was located on the back of an elephant with three eyes and numerous tusks. Actually, the elephant had served as the former rector, before he caught a rare elephantine disease. I moved on once he recovered.\""
+    },
+    {
+      "Key": "84522e05-8ae3-4cdb-9caa-2de05709a4a0",
+      "Value": "\"I wound up in {g|Katapesh}Katapesh{/g} by pure chance. I was planning to sail further, but seasickness had overtaken me. Katapesh is an amazing place, but I had little chance to enjoy it. In the heat of an argument, my then-sweetheart decided to teach me a lesson, so she drugged me and sold me to a traveling nightmare circus. There I earned my keep as a sword-swallower – and the crowd was just crazy about me! And it wasn't such a hard a job to learn.\""
+    },
+    {
+      "Key": "a8214da8-18d2-4c36-9b3a-fcc0502b6148",
+      "Value": "\"While taking part in an expedition, quite contrary to my intentions, I found myself hunted by some barbarians. While trying to escape, I climbed up into the mountains – so high that the barbarians had to abandon their quarry to the mercy of icy winds and avalanches. So I plodded across the highlands until I spotted a little light in the darkness. It turned out to be a tavern, where a celebration was underway. The highlanders weren't too happy to welcome an intruder, but they agreed to give me shelter if I beat them in a challenge.\""
+    },
+    {
+      "Key": "f3b1d04e-78a5-41fa-98f5-eddeab26a93a",
+      "Value": "\"My doors are always open to you!\""
+    },
+    {
+      "Key": "bd10de89-19a3-44fa-b93c-3d2a5c03aa1b",
+      "Value": "{n}Blakemoor hands you the book and turns away, bitterly offended and grumbling.{/n} \"Oh, just take it. What should I care? Ruffians. Breaking in, making threats…\""
+    },
+    {
+      "Key": "2c089692-1640-40e8-b04d-7df0bd5b61b4",
+      "Value": "{n}Blakemoor puts his fists on his hips.{/n} \"Are you mad? I have to tell you to behave, here in my own dwelling?!\""
+    },
+    {
+      "Key": "dbcc0165-8522-4161-8347-66469fe2fb42",
+      "Value": "{n}Blakemoor opens his mouth to argue, but then just sighs and waves his hand.{/n} \"Yes, you're right. Perfection is always impossible...\""
+    },
+    {
+      "Key": "251ce361-463b-4a70-bc33-95a5741647be",
+      "Value": "{n}Blakemoor's tone grows aloof.{/n} \"Art cannot tolerate half-measures. You've much to learn before you're capable of discussing serious matters among artists.\""
+    },
+    {
+      "Key": "34658dd8-afd9-4262-9d95-0456f0599aed",
+      "Value": "{n}The light of hope flashes in Blakemoor's eyes.{/n} \"An excellent idea! Let's try!\""
+    },
+    {
+      "Key": "2645a63c-6e1d-43e3-a348-b1aee7594a83",
+      "Value": "{n}Blakemoor scoffs.{/n} \"Well, of course, here's foolish me sitting and wracking my mind day and night! But here you come – a renowned author, no less! For you it's just a piece of cake! You'll finish everything in five minutes!\" {n}Blakemoor frowns, offended.{/n} \"You shouldn't underestimate me.\""
+    },
+    {
+      "Key": "6aa819d9-235d-49eb-9693-5eed3f579c4c",
+      "Value": "\"Don't worry, I won't let you down! Come back in a week – my door will always be open!\""
+    },
+    {
+      "Key": "cab767bf-1724-44ba-9e91-b371592f96c2",
+      "Value": "\"The Prestigious gave me transport after one encounter. Once time I woke up in the middle of the night and went to look for... the head, I think they call it. So, I went down into the bilge – and suddenly came face to face with eleven banshees – screaming ghosts! They were preparing to devour my soul, when I stopped them and offered to indulge them with conversation prior to the bloodbath. You won't believe it, but they proved to be most pleasant characters to converse with!\""
+    },
+    {
+      "Key": "ee0e82d8-33cc-46a9-bf03-b6e08d9d822e",
+      "Value": "{n}A note of resentment rings in Blakemoor's voice.{/n} \"Yes… Very well.\""
+    },
+    {
+      "Key": "b0b35069-fe2b-4757-aba7-6a5033ef9b8f",
+      "Value": "\"That was unexpected! But we managed! That was Siroket, by the way. – The same devil I met in {g|Hell}Hell{/g}! Did you see that face? Ha ha! That was one tough lady! Thank you for your help, and please give this grimoire to Captain Martyn.\""
+    },
+    {
+      "Key": "68f81eb8-6342-42c3-bb20-5a8d956ac6eb",
+      "Value": "{n}After many hours, you and Blakemoor stare at your creation. The Grimoire. Finished. Perfect.{/n}"
+    },
+    {
+      "Key": "5661c3ed-b9b1-4e4a-a4c5-34f70e24695a",
+      "Value": "\"Ha! I've been an advisor once already, and I don't want to do it again. I once served one of the merfolk kings. My service went on quite successfully, until I got into an affair with the princess, the king's daughter. Though her virtue was guarded day and night, and anyone who dared approach stood under threat of execution, my feelings overtook me, and we managed to run away together. But on the third day they caught up with us – the whole merfolk army. My death was imminent, but of course I had a brilliant solution in hand.\""
+    },
+    {
+      "Key": "dbfea095-4398-44f5-9a94-27d197c32160",
+      "Value": "\"After the merfolk soldiers captured us, I entertained myself with card tricks. The merfolk were mesmerized by my talents and demanded that I teach them. So, I suggested a wager. We'd play cards. If I lost, I had to teach them my card tricks before they executed me. But for the next three days I couldn't lose. I won all their money, armor, weapons, their dolphin mounts, their funny bone things they like to put in their ears, and even their Flute of the Hundred Sea Winds, which used to belong to their general.\""
+    },
+    {
+      "Key": "61556b8b-d23b-48cc-bb59-9b3f59dc8eba",
+      "Value": "\"After three days I'd become quite rich. Then the general ordered his fighters to execute me with their bare hands. But at just that moment my princess arrived! All this time she'd been looking for a way for us to escape, and she'd finally found something. It was a pirate ship! We climbed aboard, I blew the Flute of the Hundred Winds, and our sails nearly burst, taking us away. Unfortunately, things didn't work out between me and the princess. She turned out to be quite... unpleasant company. But she discovered some new talents, and now she's a successful circus fortune-teller!\""
+    },
+    {
+      "Key": "011ba903-d0c7-4af9-a731-bd127e64d9f1",
+      "Value": "\"I noticed a sturdy fellow with a simple face, wrapped in a cloak, so I picked him to be my rival. The competition – gluttony. The savage snatched my backpack, turned it inside out and started to cram all my equipment into his mouth. In a short moment, the greedy highlander had swallowed all my stuff, the backpack too – and gobbled down my axe for dessert. The barbarians were already making bets how long I would last out in the cold. Then I tore the mammoth's skull from the wall, broke off its tusk, and rushed for the huge barrel of beer that comprised the entire wall.\""
+    },
+    {
+      "Key": "9ba754d3-1887-419b-8399-3d19d43a066d",
+      "Value": "\"I kicked out the cork put the tusk under the rushing stream of beer. I filled it up like a drinking horn, and started to gulp. My memories of the next hours are hazy. I vaguely remember the highlanders being extremely angry at me for drinking all their beer. I remember how they started to turn into great beasts – and my rival became a wolf with blazing eyes. He charged me, but I caught him by his ears, shoved the mammoth's tusk in his mouth like a bit, and tied my mustache to both ends, to form reigns.\""
+    },
+    {
+      "Key": "f527d131-27be-4871-8e1e-595587aea413",
+      "Value": "\"Enraged, the wolf rushed out into the night – with me firmly planted on his back. We ran through the blizzard, and the vile dog whined in anger and humiliation. In the morning he stopped running and fell, exhausted. I looked around and realized there was not a single snowflake around. In the wild race, we'd crossed the borders of {g|Golarion}Golarion{/g} and entered an amazing place, the ancestor of all other worlds. I took pity on the wolf and let him go. He ran away at once. As for me, many adventures and exploits still lay ahead.\""
+    },
+    {
+      "Key": "7f7446a7-db1b-411e-8076-88d5da807652",
+      "Value": "\"Once, all of them were elven virgins, captured and enslaved by an evil slave-trading necromancer. The necromancer eventually perished, but the tormented souls of his tortured captives were bound to his ship's figurehead. Later, The Prestigious took this figurehead as a trophy. I felt pity for the banshees and decided to help them.\""
+    },
+    {
+      "Key": "72682e39-d16e-4726-8d27-1188ea31e9ac",
+      "Value": "\"I called upon one of the numerous sailors' deities of death, and amid the storm he brought, I performed a sad song, written by myself, hoping to touch his dead heart. And it's worth noting that none of the snoring pirates even woke up! The weeping deity set the banshees free, and they all turned into glowing ghostly maidens. To this day, they sing in a world-famous choir, taking the guise of simple mortals.\""
+    },
+    {
+      "Key": "08833fb1-e844-4038-8cc8-631460b3d414",
+      "Value": "\"Though it made things a bit more complicated that I had to use real combat swords. I traveled with the circus until I got a chance to escape. A well-known captain, the Hurricane King, came to see one of our performances. He accused me of being a fake, and challenged me to swallow his magnificent rapier, a weapon he cherished more than life itself.\""
+    },
+    {
+      "Key": "36b36bc0-2216-454f-81ae-6aadede4a305",
+      "Value": "\"As the audience applauded, I performed the trick. It ended with my spectacular disappearance in a cloud of smoke. When the reprobate came to his senses and hurried to find me and his cherished rapier, I'd already sold it to an unscrupulous vendor and was heading north, to flee his revenge. That's why I try to stay away from the southern lands.\""
+    },
+    {
+      "Key": "226f1478-9dc6-4f7f-abaf-9d6c16cabf48",
+      "Value": "\"Chronomistress Shyka always carefully avoided meeting herself, and she'd been jumping all over the timeline, like the water strider across the surface of the pond – because the Lantern King was assuming her form to trick her. After I revealed the game, I earned his unwanted attention, and it was time I left the {g|First World}First World{/g} for good. As a gesture of thanks, {g|Shyka}Shyka{/g} opened a portal for me, but after I stepped in it, I saw that Shyka's appearance had changed, and in her place stood the {g|LanternKing}Lantern King{/g}! It was not {g|Golarion}Golarion{/g} on the other side of that portal, but a far more dangerous place.\""
+    },
+    {
+      "Key": "0ac7c420-17ec-4fd3-93bf-9eb1f09be819",
+      "Value": "\"Seeking new purpose, I wound up at the Sinmarket, where I made a bargain – and came away with a fair amount of dangerous curiosity, and on top of that, a sack of tobacco, generously mixed with dirty thoughts, four to one. A horrible mixture to smoke. But my purchases didn't make me happy. Soon after, my curiosity, together with a swarm of my good friends – the squirrels – helped me discover that one of the {g|Eldest}Eldest{/g}, the {g|LanternKing}Lantern King{/g}, was playing a dirty trick on another Elder, {g|Shyka}Shyka{/g}, by assuming her form and visiting her.\""
+    },
+    {
+      "Key": "60157470-30b2-4a50-ae0f-9865d3e39377",
+      "Value": "\"When Siroket came for me, I used my gloomiest voice to recite a spell in a language I'd only just invented. On my signal, the kobold ignited the tobacco, the whole sack of it, and clouds of stinky smoke filled the air. I pretended to go into a fit. That was the second sign, and kobold started to play his flute. Have you ever heard a deaf-mute kobold play the flute? The winds have truly gone wild. The final hurricane is descending – the end of all times! And the squirrels, my loyal friends – the squirrels start screeching in different voices, from their hiding places behind the rocks. The overall effect was terrifying, I must admit.\""
+    },
+    {
+      "Key": "9c3eae2a-2483-4545-b55b-0edae9f81d69",
+      "Value": "\"As for me, I spun a bit of magic, to make the clouds of smoke look like the devil lord. With a booming voice, the illusory figure praised me for my efforts and 'gave me another task' – to create a grimoire, which would act as a gateway for devils into my world. Then the winds subsided, and the smoke cleared out. After that, Siroket didn't dare to lay a finger on me, fearing my 'Master's' revenge. Devils are extremely stupid, after all.\""
+    },
+    {
+      "Key": "f79e1e0b-d321-4f58-9f8c-e04af84c1175",
+      "Value": "{n}The man interrupts you with a gesture.{/n} \"Now, just a moment. I don't believe in coincidence. As you're already my guest, let's at least get to know each other. My name is Blakemoor.\""
+    },
+    {
+      "Key": "9f7861ff-4df9-42c1-b5ec-63e71c9e4bd9",
+      "Value": "\"This humble dwelling is my workshop. It's where I'm creating my masterpiece – the scienmajistik grimoire, a calligraphic work of art. The client who ordered it is my good friend, Captain Martyn... Oh, he must be getting so impatient by now. I'm so far behind schedule. I just want the grimoire to be perfect, you see?\""
+    },
+    {
+      "Key": "29aaaae1-8630-4318-a4c4-979b39762a63",
+      "Value": "{n}Blakemoor's voice trembles.{/n} \"But if you could come back in a week, the book should be ready by then… I have almost no doubt about it.\""
+    },
+    {
+      "Key": "80759cfd-5a59-413e-afd8-bdb082c88b32",
+      "Value": "{n}As Jubilost listens to the story, he opens his mouth to interrupt, but then he closes it as he realizes the futility of the attempt. When Blakemoor finishes, the gnome just sighs.{/n} \"{g|Desna}Desna{/g} help me sort out this mess! Half the story seems to be made of reliable facts, while the other half sounds like unmitigated bullshit! Even in relation to the {g|First World}First World{/g}, which is already insane by nature!\""
+    },
+    {
+      "Key": "505db21f-7ad3-42a8-bbb1-352f1d866029",
+      "Value": "{n}Amiri listens to the story with suspicion, but in the end, she roars with laughter.{/n} \"So that's who drank all the beer in that tavern! Our tribe liked to stay there, but there was that one time they had no beer and a mammoth's tusk was broken. But the thing about the werewolf owners... that's a lie. They're not werewolves — I should know!\" {n}Amiri looks back at you hesitantly, as though seeking support.{/n}"
+    },
+    {
+      "Key": "f8bcd6d6-c521-4b3a-8a0d-31b389c61363",
+      "Value": "{n}Harrim shakes his head, almost admiringly.{/n} \"Please allow me to visit you on occasion, honorable Blakemoor. I have never met a more stunning example of wasted words, madness, and pride incarnate. I must see the day these things bring you to a sad end.\""
+    },
+    {
+      "Key": "d9aad5e9-09b5-444e-84a5-f9a41bb0613b",
+      "Value": "\"With great pleasure, honored dwarf! And do remind me to tell you of my meeting with {g|Groetus}Groetus{/g}. I have to admit, I was almost charmed by him — who'd have thought the god of the End Times would have such an excellent sense of humor!\""
+    },
+    {
+      "Key": "026e4d6b-7bb8-4533-808b-cf5fbf36e8f6",
+      "Value": "{n}Kalikke listens closely to Blakemoor's story, her eyes wide open, then claps her hands.{/n} \"What a story! So what is this 'Sinmarket' – and could you really buy a curiosity there? And your squirrel friends — are they magical, talking squirrels? Are they fluffy and nice? Oh wise and honorable Blakemoor, forgive me if I'm bothering you, but could you please, please tell us more of your adventures?\""
+    }
+  ]
+}

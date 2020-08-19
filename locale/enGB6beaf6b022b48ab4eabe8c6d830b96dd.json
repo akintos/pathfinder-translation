@@ -1,0 +1,561 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "43450848-dcec-4353-abcc-382a5f1a7ef0",
+      "Value": "\"How'd you get the name 'Nok-Nok'?\""
+    },
+    {
+      "Key": "02339771-c68d-4875-b546-26c5b7eabad6",
+      "Value": "\"I'll... uh... join you. Later.\""
+    },
+    {
+      "Key": "d844cb1e-79be-4ae2-bccd-688caa4821ad",
+      "Value": "\"I had questions for you.\""
+    },
+    {
+      "Key": "451fa150-f050-4f26-85d6-2c0b5ea6d314",
+      "Value": "\"You must leave my lands, Nok-Nok.\""
+    },
+    {
+      "Key": "47efaeaa-3204-4047-b661-ab356aa1ceb6",
+      "Value": "\"I should go.\""
+    },
+    {
+      "Key": "82ecf7c1-ef2c-4f53-b4ef-797960065a77",
+      "Value": "\"That's a lot of wounds. Are you alright?\""
+    },
+    {
+      "Key": "b5e96286-0534-48de-a3ca-bde6f62ea6eb",
+      "Value": "\"From pain comes strength.\""
+    },
+    {
+      "Key": "6b76fb49-3a6d-44a8-bd3b-6a573934e2e1",
+      "Value": "\"I hope you gave as good as you got.\""
+    },
+    {
+      "Key": "eda7fd90-52ef-4393-9abd-8b2659978a83",
+      "Value": "\"Can't wait for being a Hero. Did you take revenge?\""
+    },
+    {
+      "Key": "af7d5666-0c8d-409d-90ea-e0b8c7589809",
+      "Value": "\"Good thing it didn't affect your memory.\""
+    },
+    {
+      "Key": "db5fbb4b-1013-4c7e-b3c5-cbac8f003753",
+      "Value": "\"That's what I… never mind.\""
+    },
+    {
+      "Key": "a62c155a-91cd-4292-82f2-241c72275cc7",
+      "Value": "\"Uh… yes, I was there.\""
+    },
+    {
+      "Key": "7b92952c-e336-4636-b2b6-cde0e8579c1a",
+      "Value": "\"What do you mean, you were \"not raised in a cage\"?\""
+    },
+    {
+      "Key": "6bfe0566-a2ec-435c-9396-3a0a3e37f901",
+      "Value": "\"Who was your mother?\""
+    },
+    {
+      "Key": "2238a0c8-9013-4e45-851f-efc5b160a548",
+      "Value": "\"I'd like to know more about you.\""
+    },
+    {
+      "Key": "5dd754cc-f3a1-4fe5-b0ed-8773d23451a9",
+      "Value": "\"Enough talking about you.\""
+    },
+    {
+      "Key": "14a73996-5bcb-4ec2-a311-f4ac8c5d3b69",
+      "Value": "\"Why do you mangle words?\""
+    },
+    {
+      "Key": "b95d2b34-6db0-4bee-b017-623c5324fbb3",
+      "Value": "\"What will you do now?\""
+    },
+    {
+      "Key": "9d6674de-662f-43f2-bb8e-fe6d68feff1a",
+      "Value": "\"Miss your village?\""
+    },
+    {
+      "Key": "47a5d547-f755-4505-9463-c27d1b86bf86",
+      "Value": "\"I'm not coming with you.\""
+    },
+    {
+      "Key": "714f8559-a332-4927-bd49-c9a04dd598fa",
+      "Value": "\"No, wait — I've changed my mind.\""
+    },
+    {
+      "Key": "d6bc431b-9841-4cd2-8e51-7796a87beb03",
+      "Value": "\"Do you have some problem with Linzi?\""
+    },
+    {
+      "Key": "aaefe2c0-a3fe-4b18-8cf0-78a3012a1247",
+      "Value": "\"Oh, is that all?\""
+    },
+    {
+      "Key": "b4ab3e51-fbac-41c4-88e8-9be3b431152b",
+      "Value": "\"So, no wedding then?\""
+    },
+    {
+      "Key": "203cf5cf-c48e-46a5-85a7-e878375fffa6",
+      "Value": "\"I thought I told you to leave.\""
+    },
+    {
+      "Key": "df517fda-9755-4df8-ba51-791f364df7f3",
+      "Value": "\"If goblins don't write, how do you remember anything?\""
+    },
+    {
+      "Key": "d1f49477-5071-4a26-afb5-ed63c6b16ae2",
+      "Value": "\"I'd like to ask you about goblins.\""
+    },
+    {
+      "Key": "f34b87df-a94e-4c7b-9637-cf30055ecf0d",
+      "Value": "\"Let's talk about something else.\""
+    },
+    {
+      "Key": "89be810f-9d55-4457-8611-5a7f785e721b",
+      "Value": "\"I'll tell her you said that.\""
+    },
+    {
+      "Key": "6c477b17-5710-4936-b366-dabca42145e7",
+      "Value": "\"Right. You don't like Linzi. Enough about her.\""
+    },
+    {
+      "Key": "fc763c16-c45c-408d-96c9-8a39097c0efa",
+      "Value": "\"I've... heard goblins sing. It's infamous.\""
+    },
+    {
+      "Key": "dd050c80-0e84-4547-afaa-8ab8cfbf40d1",
+      "Value": "\"But... that was a rhyme. And a song.\""
+    },
+    {
+      "Key": "6ffdb2f0-24aa-4eb2-a486-307dc5763cf1",
+      "Value": "\"I had other questions for you.\""
+    },
+    {
+      "Key": "ba5b474c-46a4-4471-86d8-85c1cbdbcce2",
+      "Value": "\"You... just did it again. On purpose?\""
+    },
+    {
+      "Key": "0925d0cd-6a41-4952-b33d-77c821e5a337",
+      "Value": "\"If you are making light of me, I promise you'll be wearing the next hangman's noose.\""
+    },
+    {
+      "Key": "b30fbca1-836f-45f9-a79c-0cf417027fca",
+      "Value": "\"I like your rhymes.\""
+    },
+    {
+      "Key": "cddff027-e216-4a41-b144-1817695b4a09",
+      "Value": "\"Are there other goblins who speak Common better than you?\""
+    },
+    {
+      "Key": "37a2a5f4-405a-4356-ad43-4ef69b9a0a2f",
+      "Value": "\"I still say you all mangle your speech. You're worse than most of your kin.\""
+    },
+    {
+      "Key": "8933630d-fb82-4439-b255-e45130c1946c",
+      "Value": "\"I heard your tribe is building shrines to Lamashtu near the capital.\""
+    },
+    {
+      "Key": "2e09e005-d50d-4af1-b982-27c8ebb95cfd",
+      "Value": "\"Bring them down, now!\""
+    },
+    {
+      "Key": "d3d473b5-632e-43aa-8ecf-e482bbc27d2b",
+      "Value": "\"You are more trouble than you're worth, you know...\""
+    },
+    {
+      "Key": "7a49b836-ad30-46fa-ae2b-c16f13e9bfda",
+      "Value": "\"I guess, I have no choice but to visit those shrines...\""
+    },
+    {
+      "Key": "573f85ab-e9a8-458a-8906-2afdc5ec8de4",
+      "Value": "\"How's the Lamashtu worship?\""
+    },
+    {
+      "Key": "9fbb8ba7-744b-4bdb-b244-853986d44f29",
+      "Value": "\"Are all the Lamashtu shrines down?\""
+    },
+    {
+      "Key": "939f35f4-372e-413d-acb2-2df1cf28b669",
+      "Value": "\"I haven't heard much about goblins since the Trading Post. Where're they?\""
+    },
+    {
+      "Key": "30dfedca-2954-4d42-8a40-5997c1bc859b",
+      "Value": "\"Nok-Nok? Is something wrong?\""
+    },
+    {
+      "Key": "8f094b5d-05b1-4d11-8752-9dfdeebde6e7",
+      "Value": "\"You might want to stop thinking before you hurt yourself.\""
+    },
+    {
+      "Key": "98c1b7f4-ee17-419b-beac-ffdf8b144042",
+      "Value": "\"What are you doing, cowering there?\""
+    },
+    {
+      "Key": "98f7c5b4-d764-4593-8cc5-ccd94b383dda",
+      "Value": "\"You've been more than a Hero and you've proved it. You dealt with the, uh, Mighty Munguk, saved your tribe, erected great temples of Lamashtu, and survived a goblin king – twice. And won.\""
+    },
+    {
+      "Key": "5951d89e-3daf-418a-9084-2090f8f9925b",
+      "Value": "\"You could do something else? Every challenge you faced wasn't won with a blade, it was won by who you are – and well, making others laugh.\""
+    },
+    {
+      "Key": "f121778c-631e-4bd4-a2c4-a632ff8b4e0d",
+      "Value": "\"Maybe you should give up this nonsense of being a Hero.\""
+    },
+    {
+      "Key": "f7993f8a-0641-4327-9bf2-3829e2c42fdf",
+      "Value": "\"Not everyone's meant to be a Hero in the same way.\""
+    },
+    {
+      "Key": "fbbfaa62-101f-4a40-960e-d652d8e1b6cb",
+      "Value": "\"That's the spirit – maybe one day it'll happen.\""
+    },
+    {
+      "Key": "deb8d699-44ea-4ae1-86a5-c158ca31c998",
+      "Value": "\"Get some sleep, have some food – there'll be dangers ahead to take your mind off things.\""
+    },
+    {
+      "Key": "c4d5db75-fcf9-4434-a370-0a0a29cd5cf9",
+      "Value": "\"Fine. For now, we have other concerns.\""
+    },
+    {
+      "Key": "b855589e-70ec-42ab-901a-c00e1574b41c",
+      "Value": "\"Why not embrace it? If you can disarm problems with a trick and have them laughing along with you, then you're more king than most.\""
+    },
+    {
+      "Key": "b528c472-591f-4152-adbf-4da65f0f52b7",
+      "Value": "\"Well, let's call you by a different title, but no less important – you'll be the court's jester.\""
+    },
+    {
+      "Key": "a49d64ee-6ea8-498f-9278-03bd9e4fd973",
+      "Value": "\"It would, but not if you were granted the title of 'jester', which is what, uh, goblins in the south call a king.\""
+    },
+    {
+      "Key": "50937807-474f-417e-84b8-4ed42e729faa",
+      "Value": "\"I know you won't. I may call upon you from time to time.\""
+    },
+    {
+      "Key": "e2a9c1fe-a81e-47e4-b5cd-bcd6b5a4eae8",
+      "Value": "\"You'd best not, we'll need your encouragement in the times ahead.\""
+    },
+    {
+      "Key": "73cc5175-b922-4b3b-8372-5908ca4cd2fb",
+      "Value": "\"Uh, to be clear, this is not a paid position. And any accidents that occur are yours to fix.\""
+    },
+    {
+      "Key": "150805ef-7b6a-43b6-b6b7-d3d29ec35779",
+      "Value": "\"You're more hero than most I've met, Nok-Nok. You've triumphed over a number of challenges that would have broken others.\""
+    },
+    {
+      "Key": "825c230d-5301-4e0c-99bc-4fb31ec2d6ac",
+      "Value": "\"A Hero can be many things, and even Heroes doubt themselves. Have faith. Simply don't give up – that's Hero enough, and even I can see it.\""
+    },
+    {
+      "Key": "93409f09-44ac-4a0c-b026-176eadb1a596",
+      "Value": "\"I don't want to make a show of it, but er, you're the most heroic goblin I've ever met.\""
+    },
+    {
+      "Key": "9c997161-f53e-4559-945c-1c64c106f875",
+      "Value": "\"Kneel, Nok-Nok. I pronounce you Hero of, uh, the Kingdom. Congratulations.\""
+    },
+    {
+      "Key": "3d06c6fa-fdaa-4a0f-8d9e-3bc3240b8d9e",
+      "Value": "\"Look, take it or leave it. You want to be a hero or not?\""
+    },
+    {
+      "Key": "abdd0b6c-8181-41c5-9cbf-68a1e30eb5c3",
+      "Value": "\"Uh, to be clear, this isn't a paid position. And no murdering and stealing, either.\""
+    },
+    {
+      "Key": "868f028f-8f3b-4e80-9feb-ba4995977406",
+      "Value": "\"Nok-Nok, I pronounce you Hero of the kingdom {kingdomname}, Hero of the Stolen Lands, and grant you a title that can never be taken from you: that of fellow Hero to {name}. Rise.\""
+    },
+    {
+      "Key": "884a9be6-633e-40aa-82f9-7d9942a5bb5a",
+      "Value": "\"Being a hero doesn't give you access to the treasury, by the way. I don't have the funds – or time to make a statue.\""
+    },
+    {
+      "Key": "834b957a-ba14-4d54-b361-5f9236c998b6",
+      "Value": "\"I'll let you sort that one out in your own.\""
+    },
+    {
+      "Key": "f80325a1-49cc-47dc-8bd8-65431545f646",
+      "Value": "\"Do what you need to do – I have other matters to attend to.\""
+    },
+    {
+      "Key": "019abf4d-791f-4200-be22-9fd84e5a57c7",
+      "Value": "{n}One of Nok-Nok's ears perk up at your approach. He affixes you with a single eye — and waits.{/n}"
+    },
+    {
+      "Key": "c19bb599-3104-4a6e-af5c-eeaeced4955f",
+      "Value": "{n}Nok-Nok looks sheepish, then his eyes narrow, as if remembering.{/n} \"Sound when others hit my head with rocks and sticks and boards. Make noking noise, give me lumps, usually hit me two times.\" {n}He rubs his skull, which you now notice resembles a tiny cluster of knobby, calloused hills. He then gives a feral grin.{/n} \"But I show them, be Hero, then I nok-nok THEM.\""
+    },
+    {
+      "Key": "a6676472-48cd-4902-938f-68e75811a5e0",
+      "Value": "{n}Nok-Nok nods eagerly… then pauses, blinking.{/n} \"Alright… with what?\""
+    },
+    {
+      "Key": "a924bb12-102f-4ca2-8f9f-af8089b480cd",
+      "Value": "{n}Nok-Nok shakes his head.{/n} \"No, mostly hurt. Then stop hurting after a while, barely feel it.\""
+    },
+    {
+      "Key": "038bc9b5-ae25-46d6-b82e-2803b0f47cd9",
+      "Value": "{n}Nok-Nok nods his head, eagerly.{/n} \"Yes, Hero come, then Nok-Nok show tribe what Hero is. Was good day.\""
+    },
+    {
+      "Key": "97f841da-5900-4a49-b1c9-ea72e0905944",
+      "Value": "\"But tribe hitting me, giving me name...\" {n}Nok-Nok makes a face… you think. It's hard to tell.{/n} \"It Nok-Nok's fault, though. Mom not raise Nok-Nok in cage, let him run around, get in adventures.\""
+    },
+    {
+      "Key": "da05d12d-9cfc-4002-8329-c56fbd9b2dcd",
+      "Value": "\"But I only start tell! Best part come!\""
+    },
+    {
+      "Key": "e5c9ae4d-83ac-4841-b841-78c6e4246daf",
+      "Value": "{n}Nok-Nok nods, then gives you a pitying look.{/n} \"You longshanks raise your shortshanks bad. Goblins raise right, keep children in cage until bigger. It smart way to raise kids. Not wail and cry unless put spiders in cage. Or snakes.\""
+    },
+    {
+      "Key": "d13b6261-b503-48d9-b72c-c64867389432",
+      "Value": "{n}Nok-Nok shrugs.{/n} \"Not know. One day, realize I am wandering around. Go find other goblins. Then...\" {n}He raps his head twice.{/n} \"Nok-Nok.\""
+    },
+    {
+      "Key": "bd1709d6-cf52-4480-980b-b7832e4603f7",
+      "Value": "{n}Nok-Nok nods eagerly, his eyes alight. He begins readying his weapons and gear... you leave him to it.{/n}"
+    },
+    {
+      "Key": "7809948e-0728-47a1-b418-633d367a152a",
+      "Value": "\"Enough.\" {n}He nods.{/n}"
+    },
+    {
+      "Key": "81569eaf-0b97-4a53-b3e5-07da877cdad1",
+      "Value": "{n}Nok-Nok smiles.{/n} \"Come to right place!\" {n}He jabs his thumb into his own chest… then narrows his eyes at you suspiciously.{/n} \"But depend on what you what knowing you want.\""
+    },
+    {
+      "Key": "3d7367a2-f37d-4f4e-ab13-1454d886ec56",
+      "Value": "{n}Nok-Nok face dims a bit.{/n} \"You have many questions. It problem with you longshanks, it why you so unhappy.\""
+    },
+    {
+      "Key": "7d5bb12d-dfe7-4dfc-87a6-fb4633f9558e",
+      "Value": "{n}Nok-Nok peers at you, then shakes his head slowly.{/n} \"Not us, you. You longshanks and halfshanks are drunk with words, use too many, like a cloud of flies out of your mouth, all that noise make it hard to listen to you.\""
+    },
+    {
+      "Key": "2e71fd80-2e07-49b1-a7dd-21477ea7e55d",
+      "Value": "\"See — here you…\" {n}Nok-Nok raises a hand and flaps it, pantomiming talking.{/n} \"'Me {mf|Baron|Baroness|King|Queen}. Greet, word, ask, words, more words, then boring words…'\" {n}The hand slows, then dips, making snoring noises.{/n} \"...annnnd me now asleep.\""
+    },
+    {
+      "Key": "05801ebb-d7e1-491e-9786-251de98227a1",
+      "Value": "\"Not your fault.\" {n}Nok-Nok gives you a pitying look as he tucks his hand away.{/n} \"Nok-Nok help if can, but it YOU who not talk right. Longshanks and halfshanks think goblins half-headed, no brain, but you are the halfheads who drink too many words, and vomit them out. Don't tell that halfshank, Linzee.\""
+    },
+    {
+      "Key": "6a40241a-4e16-4fef-86d5-a99cb2c6e59c",
+      "Value": "{n}Nok-Nok looks at you, then frowns, as if sizing you up.{/n} \"Be a hero. Nok-Nok teach you, you teach Nok-Nok.\" {n}He gives a grin that nearly splits his face.{/n} \"You see, yes.\""
+    },
+    {
+      "Key": "67da3cc9-ca35-4948-8427-df28b2a3eb4b",
+      "Value": "{n}Nok-Nok frowns — then lights up.{/n} \"The village!\" {n}Then his expression breaks, and he sighs wistfully.{/n} \"Yes. Smelled like toads. Beasts eat bad goblins. Children kept in cages. All as should be.\" {n}His face lights up again.{/n} \"But at least no see chief again. That good.\""
+    },
+    {
+      "Key": "8ec23c68-ba30-4e8a-8cb9-5d7e1fef1f2f",
+      "Value": "{n}Nok-Nok stares at you for a moment. You think he's about to cry, then he breaks into a wide, horrific grin.{/n} \"Go on adventure? Adventure! Let's go!\""
+    },
+    {
+      "Key": "17ab4838-2669-4547-8b39-10c6b6346e22",
+      "Value": "{n}Nok-Nok stares at you a moment, then nods, once.{/n} \"Yes. Better I go first, take care of big troubles myself, you follow after Nok-Nok make all safe.\" {n}He begins readying his weapons and gear… you leave him to it.{/n}"
+    },
+    {
+      "Key": "dfb7d062-64fa-44a4-8526-1a3ec4eed12b",
+      "Value": "{n}Nok-Nok grin fades, then he slumps.{/n} \"Nok-Nok wait, then.\""
+    },
+    {
+      "Key": "23e34c36-943a-4238-b32c-184bfb8fa5c2",
+      "Value": "{n}Nok-Nok wrinkles his nose — the visual is horrific.{/n} \"Linzee smell gross, like spring flowers. Has tiny ears. Never files teeth. Combs hair till shiny. Washes self and clothes. She...\" {n}He shudders.{/n} \"...WRITE in book ALL time.\""
+    },
+    {
+      "Key": "e02faeba-966f-467e-bd20-1d0fa4ccceee",
+      "Value": "\"You say leave, I leave. But I back now.\""
+    },
+    {
+      "Key": "1fddd68d-aa98-428c-bc09-8736d6a4c41b",
+      "Value": "\"I go on adventure, then come back for you. Not fair if I have adventure and you not.\""
+    },
+    {
+      "Key": "a4731134-0043-4549-b630-39dbcd6e4d25",
+      "Value": "\"Yes. Great adventure! Should go together next time!\""
+    },
+    {
+      "Key": "0c756d23-d6eb-4073-a33e-6fcd894ac482",
+      "Value": "{n}Nok-Nok stares at you for several moments. Then a few more. Finally, he leans in and whispers.{/n} \"Why you stare at me? Do I have bug on my face?\""
+    },
+    {
+      "Key": "69152a6b-872b-447c-8b12-3868d3718858",
+      "Value": "{n}Nok-Nok blinks with his right eye, then with his left one.{/n} \"Well, ask.\""
+    },
+    {
+      "Key": "8e3e673e-8c37-4d45-8645-8db70b161406",
+      "Value": "\"About something what?\""
+    },
+    {
+      "Key": "e49b95cb-4adb-4aca-9e5d-6f8f1a0b2c0d",
+      "Value": "\"Hkkt!\" {n}Nok-Nok shakes his head violently, and makes a vomiting motion.{/n} \"Other halfshanks, they just squealing bloodbags waiting to pop, but Linzee like chatterfly.\" {n}Nok-Nok rolls eyes.{/n} \"Linzee, Linzee, Linzee, write, write, write.\" {n}He folds his arms, then huffs under his breath.{/n} \"She sing bad, too.\""
+    },
+    {
+      "Key": "5da7f61b-e96a-4ddc-afc5-39ac89795b1a",
+      "Value": "\"What? No! Nok-Nok not want wife.\" {n}He makes a gagging motion.{/n} \"Not her. Gross. Getting... sick.\" {n}You step back — he genuinely looks like he's about to vomit.{/n} \"Wait — no. Swallowed it back. All good.\" {n}Nok-Nok licks his lips.{/n}"
+    },
+    {
+      "Key": "30f71ca7-15ed-438d-992a-403c13ab2ca7",
+      "Value": "\"What WRONG with writing?\" {n}Nok-Nok stares at you as if a frog just hopped out of your mouth.{/n} \"All goblins know why. It steals think-thoughts! Takes them away!\" {n}He shudders again.{/n}"
+    },
+    {
+      "Key": "d8d8e8c1-2579-4adc-8e73-726ab42c0294",
+      "Value": "{n}Nok-Nok's eyes widen — he seems genuinely terrified.{/n} \"Errrrr, not tell her that! No! She write in book, curse Nok-Nok.\""
+    },
+    {
+      "Key": "828883cd-d187-4776-b102-8ea0973d661d",
+      "Value": "\"Yes. No more Linzee. Ever!\""
+    },
+    {
+      "Key": "76d038d7-ba88-4df1-a4ac-90bfe50b03a4",
+      "Value": "{n}Nok-Nok frowns.{/n} \"What — like 'Nok-Nok kick fast, Nok-Nok bite deep, Nok-Nok stab you while you sleep'?\""
+    },
+    {
+      "Key": "e325fb10-2050-4254-96a8-a30d3560db03",
+      "Value": "{n}There is a long, uncomfortable silence as Nok-Nok stares at you, dragging his finger across his blade, as if coaxing it to sleep.{/n}"
+    },
+    {
+      "Key": "9b72e733-bdb5-416f-a715-d43db450391e",
+      "Value": "{n}Nok-Nok face dims a bit.{/n} \"You have many questions. It problem with you halfshanks, it why you so unhappy.\""
+    },
+    {
+      "Key": "fd34bee1-0267-40b5-a6f7-00bf29e6843f",
+      "Value": "{n}Nok-Nok finally breaks the silence by shaking his head.{/n} \"No. Songs make ears hurt, want to bury head in the dirt.\""
+    },
+    {
+      "Key": "6d814e4e-2063-4b95-8489-b26193052c41",
+      "Value": "\"That? A song it not, not what you thought.\""
+    },
+    {
+      "Key": "462bed11-bbb4-4dac-a122-4542de3f41f9",
+      "Value": "\"Questions about what?\""
+    },
+    {
+      "Key": "58849f9c-61cc-47bd-a89b-facbcbf07947",
+      "Value": "\"No, no,\" {n}Nok-Nok holds up his hands, his eyes wide.{/n} \"NEVER mock Hero. Nok-Nok NEVER mok-mok you.\""
+    },
+    {
+      "Key": "219b103d-00bd-49fe-97a8-9590f3a96512",
+      "Value": "\"Goblins sing, yes. Nok-Nok — no.\""
+    },
+    {
+      "Key": "42d3dc62-362a-490a-8269-cb5c91ade566",
+      "Value": "\"You say what? I know not.\" {n}A mischevious flicker flashes across Nok-Nok's eyes.{/n}"
+    },
+    {
+      "Key": "2f577b0f-6a8b-40cc-8552-d255a7879097",
+      "Value": "\"Other goblins?\" {n}Nok-Nok glares at you, then raises his nose – then pinches it, as if smelling something foul.{/n} \"Other tribes, they put on big show, add extra words, words, words, waste everyone's time.\"\n{n}He removes his fingers from his nose, and shakes his head — then gives a sinister grin, as if about to tell a ghost story.{/n}"
+    },
+    {
+      "Key": "522ccb79-2dbf-4448-a757-3d68bd460c4f",
+      "Value": "\"Legend say other goblins steal words from Nok-Nok's tribe.\" {n}He glances around quickly, then leans in with a whisper.{/n} \"Not true. They speak more words, but it is because they are all cursed to do so.\" {n}He stands proudly, his eyes closed, as if at attention.{/n} \"In Stolen Lands, goblins speak correct.\""
+    },
+    {
+      "Key": "34b1ea16-e9d0-4c98-9651-1a0ecec295da",
+      "Value": "{n}As if trying to prove his point, Nok-Nok remains silent, his eyes closed. After a moment, one of his ears pricks up and he cracks an eyelid open slightly to see if you are still there, then shuts it.{/n}"
+    },
+    {
+      "Key": "9d670655-24e8-401e-8a6f-ab549ef0f0de",
+      "Value": "\"Yes! Be praised, oh Mother of Beasts! You want to pay respect to her? I will show you!\""
+    },
+    {
+      "Key": "776a0f5d-9783-4910-8aeb-65c3858c796e",
+      "Value": "\"You like it! Promise!\""
+    },
+    {
+      "Key": "ff25fa20-5e5d-4fbd-b579-e4a56f58af3e",
+      "Value": "\"What? No! Shrines sacred! You see when you come there!\""
+    },
+    {
+      "Key": "eaf64c2d-9b68-4317-9b4f-edcb9752ba1b",
+      "Value": "{n}Nok-Nok gives you a puzzling look, then shakes his head.{/n} \"Come with me to the shrines! We pray together!\""
+    },
+    {
+      "Key": "eb26df48-c5fe-4220-85d5-f1feaf6c8d8f",
+      "Value": "{n}Nok-Nok gives a grin that nearly splits his face, and his ears perk up.{/n} \"Growing, many are drawn by the stink, all swarm to the Mother's shrines like happy flies. More and more animals, too, rats and snakes and...\" {n}He licks his lips.{/n} \"Even more than we can eat! The temple and bellies are full, and Mother is pleased.\""
+    },
+    {
+      "Key": "4d82914b-b14e-4e26-99e8-05d552023088",
+      "Value": "{n}Nok-Nok nods, and you notice he's still wearing the same grin, staring off into space and rubbing his belly. You decide to let it go.{/n}"
+    },
+    {
+      "Key": "c5fe32b9-07e5-4385-b0ce-0f7ab97cf67d",
+      "Value": "{n}Nok-Nok's ears droop, and his eyes fall.{/n} \"All down, easier to knock down than were to build up.\" {n}He glances around.{/n} \"I hope Mother not upset with me. With us. If so, worry beasts will find us.\""
+    },
+    {
+      "Key": "4b49fd7b-1dab-42e4-a48e-0390451c407c",
+      "Value": "{n}Nok-Nok nods slowly, but his face is still downcast, staring off into space. As if on cue, his belly rumbles, almost sadly. You decide to leave the matter alone.{/n}"
+    },
+    {
+      "Key": "adc4722c-04b0-4b49-940a-81fce84a2e99",
+      "Value": "\"Hiding. Sneaking.\" {n}Nok-Nok grins.{/n} \"Goblins good at hiding and sneaking. You will hear from us soon. You no worry!\""
+    },
+    {
+      "Key": "7d998f95-8a1f-4bce-97e2-a060433ddb83",
+      "Value": "{n}Nok-Nok doesn't look up at your approach, he's hunched over, hard in thought — one of his ears is even twitching slightly at the effort.{/n}"
+    },
+    {
+      "Key": "31e93ae4-ff65-4869-9d1d-4e902704adcf",
+      "Value": "{n}Nok-Nok's ear twitching stops in mid-twitch, and he swivels his head toward you.{/n} \"Been thinking about being a Hero. If Nok-Nok can even BE a Hero or not.\""
+    },
+    {
+      "Key": "bc1889e9-fb87-4fa4-b50d-6e503f5b9085",
+      "Value": "{n}He nods at you.{/n} \"You are longshanks and halfshanks who speak poorly, mangle words, bathes...\" {n}He gestures around.{/n} \"...but you make big tribe, found nation, build big city... even if city smells bad... do great things, and... Nok-Nok does things, and they seem... small, ridiculous. I want to do what you do — but asking — how?\""
+    },
+    {
+      "Key": "217231ac-ca3f-458f-b12a-c03dbaa41b5c",
+      "Value": "{n}Nok-Nok looks downcast, his face uncertain. He stares at the ground, and he seems defeated.{/n} \"{name} right. Useless. Couldn't make a difference – a Hero could.\" {n}He glances at you.{/n} \"Still, Nok-Nok will stay. Keep trying. Find a way, and if not...\" {n}He gives a tiny shrug.{/n} \"Then no worse off than before.\""
+    },
+    {
+      "Key": "d5932ea1-8863-4688-b607-af8d373afcbc",
+      "Value": "{n}Nok-Nok sighs, then looks up at you.{/n} \"You want something else?\""
+    },
+    {
+      "Key": "9111a573-3fde-46b6-8455-b1ab7b012591",
+      "Value": "{n}Nok-Nok looks downcast, his face uncertain. He stares at the ground, and despite your encouragement, he seems defeated.{/n} \"Useless. Couldn't make a difference – all of them laughed, laughed at me trying to be a Hero.\""
+    },
+    {
+      "Key": "c13fc657-fe23-45f7-85d5-f78f39858fc2",
+      "Value": "\"A king?\" {n}After a moment, he glances at you.{/n} \"But aren't you ruler?\" {n}He pauses again, and raises his fingers.{/n} \"Two rulers...\"{n} He touches each finger as if trying to count, then gives up in disgust.{/n} \"Two rulers would be bad.\""
+    },
+    {
+      "Key": "dde4c677-6671-4f99-9cf1-8dbda9f7424f",
+      "Value": "{n}Nok-Nok nods, then nods again, sharper and faster – he straightens, and does what passes for a royal stance.{/n} \"Nok-Nok. Jester Nok-Nok.\" {n}He nods one last time, solemnly.{/n} \"I will not fail you.\""
+    },
+    {
+      "Key": "02c95447-88c2-4829-af6d-0980f207c4ed",
+      "Value": "{n}Nok-Nok nods – with a trace of pride and a grin you haven't seen before. He looks... completely happy in his new role. You hope you don't regret this.{/n}"
+    },
+    {
+      "Key": "280c3c59-62c5-4528-a62d-4bb4b0e5d0e7",
+      "Value": "{n}At your words, Nok-Nok straightens, inch by inch, until he's standing tall. He holds in his breath proudly – until you seem his ears turn red, then he exhales, coughing... but when his fit ends, he seems to be chewing over your words, and nodding to himself.{/n}"
+    },
+    {
+      "Key": "1d0dc024-59f9-4e24-96a8-d07809c3d73d",
+      "Value": "{n}Nok-Nok looks up at you, his eyes narrow, as if trying to judge if you're being serious.{/n} \"You mean it? Nok-Nok proved self?\""
+    },
+    {
+      "Key": "70ac4364-057e-437b-815c-bc098a940898",
+      "Value": "{n}Nok-Nok kneels down, winces as his knee finds a rock, then shifts to a new position, accidentally facing away from you. You decide to let it go.{/n}"
+    },
+    {
+      "Key": "695b1679-c035-4cbd-940a-a5e09cbfeb23",
+      "Value": "{n}After a moment, he grunts, straightens, and places his hands on his hips.{/n} \"I accept.\" {n}He thinks for a moment.{/n} \"Now all is needed is a Hero statue!\""
+    },
+    {
+      "Key": "797bbcaa-c84a-4e42-a7fa-192613cc43ad",
+      "Value": "{n}Nok-Nok seems lost in thought... completely happy at your acknowledgment of his role. You hope you don't regret this.{/n}"
+    }
+  ]
+}

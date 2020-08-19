@@ -1,0 +1,141 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "8ea02901-40d3-422e-a0cd-c8b8341baa69",
+      "Value": "\"Who are you, and why are you looking for Octavia and Regongar?\""
+    },
+    {
+      "Key": "f1e6a11a-3ea9-4cbf-bbd1-8386a3b98ae2",
+      "Value": "\"Don't lie. You're a Technic League spy!\""
+    },
+    {
+      "Key": "091d7d8f-6635-425e-8eba-3e72e96d7442",
+      "Value": "\"This isn't a good place to talk — let's move somewhere more convenient. Like a torture chamber, perhaps.\""
+    },
+    {
+      "Key": "08a794f8-4f3f-4803-9f08-8c251565d58a",
+      "Value": "\"Octavia, do you believe him?\""
+    },
+    {
+      "Key": "e53816f8-d70a-4819-b9da-f373930cde65",
+      "Value": "\"Regongar, do you believe him?\""
+    },
+    {
+      "Key": "79957017-7f0d-437e-bf83-9b677ffbb97f",
+      "Value": "\"Tell me, Kerreg, do you know where we can find Janush?\""
+    },
+    {
+      "Key": "0bcbd412-2d18-464e-8552-b703b34a2092",
+      "Value": "[Give Kerreg 100 gold coins] \"Here, take this. It should cover your trip to the Five Kings Mountains.\""
+    },
+    {
+      "Key": "3c2c6d49-59ef-4419-a12d-be876f07e1fe",
+      "Value": "\"Kerreg, you can't go back. Stay here — we always have need of skilled cobblers.\""
+    },
+    {
+      "Key": "ffc73b3e-95d3-4388-bb12-9daf7f9084ba",
+      "Value": "\"Thanks for the information. Now get out of my city.\""
+    },
+    {
+      "Key": "508aa9fe-c990-4c7d-a794-e3ad1ab990f1",
+      "Value": "[Kill Kerreg] \"Very well. I have a simple way of dealing with spies...\""
+    },
+    {
+      "Key": "2df2a193-50b3-4a5e-8e65-0a7f2a63558d",
+      "Value": "{n}An inconspicuous dwarf wearing a gray coat sits at the table sipping beer. As you, Octavia, and Regongar appear at his table, he topples the mug, startled.{/n}"
+    },
+    {
+      "Key": "08a63cc3-5303-4c92-8592-8b022bea014d",
+      "Value": "\"Boo!\""
+    },
+    {
+      "Key": "ee6907f4-61e9-4415-9952-02205ed5d4e6",
+      "Value": "\"You were asking about us, right? Well, here we are. So what is it you want from us, hmm?\""
+    },
+    {
+      "Key": "4238c25a-cd08-45df-b825-377288103714",
+      "Value": "\"I-I... You've made a mistake! I have no idea who you are!\""
+    },
+    {
+      "Key": "cae5469b-5834-4957-8389-7cc351447e05",
+      "Value": "\"No torture chamber, please! I'll tell you everything!\""
+    },
+    {
+      "Key": "c556bd3e-777b-4c39-9588-f60a215050c9",
+      "Value": "\"No, you're wrong, I'm just a simple cobbler...\""
+    },
+    {
+      "Key": "8c00dc2e-691a-4871-b943-43f6816c8c21",
+      "Value": "{n}Regongar slams his fist on the table almost hard enough to break the table legs.{/n} \"Cut the crap, deadbeat! Talk, or I start cutting off fingers!\""
+    },
+    {
+      "Key": "27547b0d-d965-489d-974f-e6077863d865",
+      "Value": "\"Don't... Please, not my fingers! I'll tell you everything!\""
+    },
+    {
+      "Key": "bb8aad52-144f-4f6f-bf37-0bbafba313eb",
+      "Value": "\"Oh, {g|Abadar}Abadar{/g}, what did I do to deserve this... Fine, yes, I admit I was sent by the {g|Technic League}Technic League{/g}! I'll tell you everything, just don't hit me!\""
+    },
+    {
+      "Key": "d04ba647-5fec-4e46-9f17-93bbed6701b3",
+      "Value": "\"My name's Kerreg, just a humble servant of Maestro Janush...\" {n}The looks on Octavia's and Regongar's faces after hearing that name make the dwarf go pale and shrink into his chair.{/n} \"You... know him, don't you?\""
+    },
+    {
+      "Key": "de421055-eee2-4f08-8521-34b81e49e0a3",
+      "Value": "\"You could say that... And why did he send you here?\""
+    },
+    {
+      "Key": "8904c965-0f2f-48ed-9214-bcb1341e927f",
+      "Value": "\"I was his slave. I served the Maestro loyally for a long time, and he finally granted me my freedom! He promised me a lot of money, enough to get me to the Five Kings Mountains and then some, if I'd just do a simple task for him — find out if a half-elf named Octavia and a half-orc named Regongar were living in the capital, and if so, where they could be found... I don't know why he sent me — I'm no spy, just a simple cobbler!\""
+    },
+    {
+      "Key": "4505b112-f89c-4dce-8adf-1bb0ca24974c",
+      "Value": "\"I think this slimeball's lying. A cobbler, sure! Everyone knows the {g|Technic League}Technic League's{/g} short on spies — of course they have to send cobblers, cooks, and water carriers instead! So here's what I think: let's drag him by the beard from the city gate to the palace and back — maybe then he'll come up with something more clever along the way!\""
+    },
+    {
+      "Key": "f25bd88a-7300-483f-83ad-ff3a9f1d69fb",
+      "Value": "\"Strange as it may seem, yes. He seems more like one who's been deceived than one who's deceiving. Using people in the dark without telling them the true purpose of their mission is very much like Janush. I don't think he's a spy — I think he's bait.\""
+    },
+    {
+      "Key": "86132231-32eb-4c46-9440-a4e6bab3dca2",
+      "Value": "\"Yes! Yes, I do! Oh, the Maestro will kill me... {g|Abadar}Abadar{/g}, what did I do to deserve this... Give me a map — I'll show you where he's holed up!\""
+    },
+    {
+      "Key": "f2897926-e6e8-4495-873a-809235c266f5",
+      "Value": "{n}Octavia and Regongar exchange looks.{/n} \"Looks like a trap.\""
+    },
+    {
+      "Key": "24d74020-037f-422b-9fe5-88da67619222",
+      "Value": "\"Of course it's a trap! It's the Maestro!\""
+    },
+    {
+      "Key": "14926e41-252f-4728-a534-5f12af3319db",
+      "Value": "{n}The bar goes quiet a moment as everyone looks at the dwarf's lifeless body. Then all the guests turn away simultaneously and awkwardly return to their conversations, doing all they can not to look your way.{/n}"
+    },
+    {
+      "Key": "42127a21-922c-4c9c-a2ca-3dd5d1b85587",
+      "Value": "\"Of course! At once! You'll never see me here again, not even a hair...\" {n}The dwarf rushes out of the tavern.{/n}"
+    },
+    {
+      "Key": "b0ec7d43-93dd-4f20-b102-1699db2a6bb5",
+      "Value": "\"Thank you, {mf|Your Grace|Your Grace|Your Highness|Your Highness}! I'll serve you as loyally and truthfully as I did the Maestro himself! Are you in need of new soles? You probably go through a lot of shoes on your journeys... Forgive me, I'm being overly chatty — it's all nerves, you see... May {g|Abadar}Abadar{/g} keep you safe!\" {n}The dwarf rushes out of the tavern.{/n}"
+    },
+    {
+      "Key": "f2869d2a-73d4-4638-9ea7-52e8824e764e",
+      "Value": "\"Oh, {mf|Your Grace|Your Grace|Your Highness|Your Highness}! Thank you, from the bottom of my heart! I'll pray to {g|Abadar}Abadar{/g} for your good health till the day I die!\" {n}The dwarf rushes out of the tavern.{/n}"
+    },
+    {
+      "Key": "29bc2f85-369b-4ea4-862e-cec61bfee3d4",
+      "Value": "\"Well, now we know where Janush is waiting for us. He knows we're coming, of course... but we know that he knows, so that gives us the advantage!\""
+    },
+    {
+      "Key": "79cb6023-1464-4dee-926f-eb0b57fa5182",
+      "Value": "\"But does he know that we know that he knows?\" {n}Regongar frowns with exaggerated seriousness.{/n}"
+    },
+    {
+      "Key": "9ddaf576-8bb2-43c4-ab33-10f1e7db0311",
+      "Value": "{n}Laughing, Octavia lightly flicks Regongar's nose. Unable to maintain his serious expression, he breaks down and laughs with her.{/n}"
+    }
+  ]
+}

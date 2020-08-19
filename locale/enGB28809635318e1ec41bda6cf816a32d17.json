@@ -1,0 +1,105 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "361b7f32-f321-4ecf-8598-9df4efaf5a49",
+      "Value": "\"That's great news! Thank you.\""
+    },
+    {
+      "Key": "ac61a924-8370-4df1-ad92-ca5f160611ce",
+      "Value": "\"Why do I have the feeling that I've made a huge mistake?\""
+    },
+    {
+      "Key": "db121d2f-1a0c-4317-9811-853ebd019113",
+      "Value": "\"The credit goes for you.\""
+    },
+    {
+      "Key": "78e40aa3-3b52-400d-b9f9-8203e5e0a218",
+      "Value": "{n}Regongar grins, pride glowing in his eyes.{/n} \"You know, I've been thinking about which of our neighbors would be capable of destroying us if they wanted to. And it turns out that none of them can! As far as military power is concerned, we'll surely defeat anyone stupid enough to cross us.\""
+    },
+    {
+      "Key": "c74f3843-2f57-49bf-8643-f8d7bb21c2a1",
+      "Value": "{n}Amiri looks at you solemnly, her chin held high.{/n} \"I have something important to say, {name}. I want to congratulate you.\""
+    },
+    {
+      "Key": "bdae98d0-3185-4cb3-8bb0-4bdbd285c62c",
+      "Value": "\"Your army has so many well-trained blademasters that we've gained the attention of the {g|Swordlords}Swordlords{/g}. It looks like the new sword-fighting school will be opening soon in the kingdom. The Swordlords are looking to recruit all the most talented students.\""
+    },
+    {
+      "Key": "6d64c935-abe5-4434-9530-dcd4b8ab25b1",
+      "Value": "\"By the way, I'm not the only one who appreciates the decisions you've made. There are so many mages in our army that one of the orders or {g|Nethys}Nethys{/g} decided to move their coven to your kingdom. That's worked damn well for us! Do you have any idea what kinds of deadly spells they could teach us? They probably have a spell that summons a swarm of carnivorous bees that fly into their victim's mouth and eats him from the inside out! And a spell that makes your heart explode!\""
+    },
+    {
+      "Key": "a5d980ce-84fd-4de0-932a-ea5c7a240f04",
+      "Value": "\"The {g|Swordlords}Swordlords{/g} are amazed by our glory, and want to set up a new school in our kingdom. They hope that being close to us will give them better chances to be in a big battle. To show their mastery and earn some fame. I think this news will make you happy.\""
+    },
+    {
+      "Key": "89946a52-3d65-4304-b408-2d6a4285e70a",
+      "Value": "\"In the North, victory is achieved with sword and axe. It's different with you southerners. You're not so good as warriors, but you're crafty and better with magic. Your army has very strong mages. That makes you strong... for southerners anyway. The other mages have seen it too. It makes them come to beg for protection. Priests of {g|Nethys}Nethys{/g} want to open their own coven under your wing to share the knowledge.\""
+    },
+    {
+      "Key": "59ceec36-1c45-4450-89da-a56536f29cca",
+      "Value": "\"I have no more issues for you, chief. But there's a visitor who wants to see you.\""
+    },
+    {
+      "Key": "6c8bbb39-6862-42b1-98bd-58288b985f62",
+      "Value": "\"Well, that's all for now. There's someone else who wants to talk to you, {name}. You can do that without me, right?\""
+    },
+    {
+      "Key": "622ffcea-db77-4b8d-994c-8543dc20e5cb",
+      "Value": "{n}Amiri presses her hands to her chest and smiles lightly.{/n} \"We're a tribe, and that means we all take the credit, not me.\""
+    },
+    {
+      "Key": "da194e0c-2629-41cc-895a-4c8adcd5b85c",
+      "Value": "\"That's the a chief's burden. The enemies' blows make warrior's head ache. Doubts and second thoughts make the chief's head ache.\""
+    },
+    {
+      "Key": "e0f62d37-9ab1-4be8-9790-867b57990a84",
+      "Value": "\"That's because you've got brain. Most people rarely have second thoughts. Maybe that's why you're on the throne and we serve you. But don't be upset. If you run into any problems, we can solve them. Together.\""
+    },
+    {
+      "Key": "e4f1f0de-ce9b-4529-ab88-63964a4d69c5",
+      "Value": "\"That's true, I'm a good leader. But you... well, you're good, too. You didn't interfere.\" {n}Regongar grins contentedly.{/n}"
+    },
+    {
+      "Key": "50bbca95-8c5c-444a-a307-b90c26425de1",
+      "Value": "\"Your army, {name}, is the most dangerous bunch in the {g|River Kingdoms}River Kingdoms{/g}. Being a warchief is a Kellids' biggest pride. I'm happy to lead an army as powerful as yours.\""
+    },
+    {
+      "Key": "75bb1c75-4a32-4285-9d26-0b9185f74c87",
+      "Value": "\"I didn't understand you right away. You have ambition! And you can rule. It wasn't a bad decision to come work for you.\""
+    },
+    {
+      "Key": "ca252189-c6b0-434b-80a0-0dd7942695f2",
+      "Value": "\"Please, accept my congratulations, your Highness! It's under your guidance that we have raised a strong army! An invincible one, by local standards. Who could have imagined that such a young country would have such a powerful military force? I'm proud I could prove myself in the service of such a worthy ruler as you!\""
+    },
+    {
+      "Key": "8d4fc98d-533e-4e9e-b6d1-bc7bc772f36e",
+      "Value": "\"Perhaps, at some point I lacked the wisdom to understand your intentions, but I am only Lady Aldori's student. I still have a lot to learn. Anyway, a group of priests of {g|Nethys}Nethys{/g} are looking to open a coven in your domain. They appreciate the respect you've shown your mages, and hope that you might grant them your protection if trouble ever arose. In exchange, they promise to educate our combat mages. I find this a worthy deal.\""
+    },
+    {
+      "Key": "c2aa0c12-6f5f-408b-86bd-1e22b14dede1",
+      "Value": "\"There's always been a traditional rivalry between mages and warriors. The troops that defend the front lines have to face down lightning bolts and fiery rain with nothing but shields. They afterwards find it difficult to embrace any rainmaker, even as an ally. However, the mages in your army are respected and treated differently.\""
+    },
+    {
+      "Key": "a439a49a-198c-4baf-8652-3dc9dab438f5",
+      "Value": "\"The sword masters respect your army. Many are not bound by any obligation to the major houses, and would like to join us. They know we expect many battles to come, which promises a chance at glory and an opportunity to prove themselves.\""
+    },
+    {
+      "Key": "3d3ad998-a026-460e-8fac-76f32be08b0d",
+      "Value": "\"I have nothing at present that requires your attention. But I brought one of the military advisors, who may have an interesting offer.\""
+    },
+    {
+      "Key": "646f3fa1-da45-4e63-a4e4-d037764a4703",
+      "Value": "{n}Kassil shrugs.{/n} \"I'm sure all your decisions were correct. You only question them because you consider it a sacred duty to carefully consider your every step.\""
+    },
+    {
+      "Key": "4fff4567-3495-47ff-aa72-af4b8019274e",
+      "Value": "\"I was only doing my duty, your Highness. And I'm proud I managed to maintain the kingdom's honor.\""
+    },
+    {
+      "Key": "53565b54-ef02-4d0d-ae5b-301361f8aee9",
+      "Value": "\"I understand them well. This is why the sword masters have offered to open a military school in the capital. For me, this is no little matter of pride. It means that Lady Aldori's lessons were not lost on me.\""
+    }
+  ]
+}

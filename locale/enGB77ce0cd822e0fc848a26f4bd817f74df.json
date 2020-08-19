@@ -1,0 +1,105 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "23c38e41-a30e-45ab-9178-164f7afbad9b",
+      "Value": "{g|Loyalty2_1}[Choice effects]{/g} \"We shall hold a fair for the common people. I want them to know that I hold them closest to my heart.\""
+    },
+    {
+      "Key": "a93ba3b0-2a2b-436d-8fe2-a3690952498e",
+      "Value": "{g|Loyalty2_2}[Choice effects]{/g} \"We will hold a luxurious dinner party for the merchants. The support of our wealthiest citizens is essential.\""
+    },
+    {
+      "Key": "e1a9c0a2-43ba-4752-8b8c-58ea14dc894b",
+      "Value": "{g|Loyalty2_3}[Choice effects]{/g} [Gain 20 BP] \"I don't care to arrange anything. We can do without festivities and feasts.\""
+    },
+    {
+      "Key": "c78cbe74-f1f2-43bf-a327-0cd62a9cc1a5",
+      "Value": "\"Make up your own mind. – I don't care who we pander to.\""
+    },
+    {
+      "Key": "2f1aacbe-4423-42bf-b7ec-e54b740d6f14",
+      "Value": "{n}Tristian lowers his head.{/n} \"Greetings, {mf|baron|baroness|King|Queen}. I am sorry to take you away from your other affairs, but your people need you.\""
+    },
+    {
+      "Key": "45d92e61-62e9-4902-97b2-dd3370c22ea2",
+      "Value": "{n}Shandra bows briskly.{/n} \"{mf|Your Grace|Your Grace|Your Highness|Your Highness}, please spare me a moment of your time. As you know, it is my responsibility to hear what words are spoken when you are absent. And I must say, what I have heard lately does not bring me peace. The people are suspicious of their new {mf|baron|baroness|King|Queen}. But I know how to solve this problem.\""
+    },
+    {
+      "Key": "004bf7d9-ed9d-4f98-9718-7088e6c57407",
+      "Value": "\"When the {g|Stolen Lands}Stolen Lands{/g} were freed from the Stag Lord, the people sighed in relief. But many are still confused by their swift change of fortune. Truth be told, they simply don't know what to think of their new {mf|baron|baroness|king|queen}, nor what to expect of you. Will you be a fair ruler for all, or only for those of wealth and status?\""
+    },
+    {
+      "Key": "df9717d6-afb0-4237-8336-84c5d5809314",
+      "Value": "\"Let us reassure your people – show them where your favor truly rests. Perhaps a small celebration would help to win them over. Of course, you could spend the same amount on a luxurious dinner for the wealthiest of your barony, but I recommend organizing a fair for the common people – the ones upon whose shoulders your power truly resides!\""
+    },
+    {
+      "Key": "5a7a3466-5c42-4e1c-872b-a12e1c88bed3",
+      "Value": "{n}Shandra holds out a piece of paper.{/n} \"I took the liberty of composing a list of the wealthiest and most influential merchants in the region. All that is required of you is to hold an lavish dinner, to show them how generously their support is rewarded. This would draw heavily from the treasury, but I'm sure they will appreciate the gesture, and your noble attention.\""
+    },
+    {
+      "Key": "adb26afc-cfed-4f90-9451-09738016a750",
+      "Value": "{n}Shandra ponders for a moment.{/n} \"Of course you could use the dinner money instead to entertain your peasants, but I wouldn't recommend it. The whims of the crowd change with the wind. They will forget your generosity after the first bad harvest.\""
+    },
+    {
+      "Key": "0592d3ed-6568-45d4-ab27-db198b78b204",
+      "Value": "{n}Tristian smiles warmly.{/n} \"We will hold a common celebration, where everyone will be welcome – including the poor and downtrodden. This is the greatest gift a ruler can give to {mf|his|her} people!\""
+    },
+    {
+      "Key": "9ec95746-0394-4d1b-89bc-421f65896d67",
+      "Value": "\"Cheap populism has never done anyone any good. You'll throw your money to the wind without achieving anything. But it's your decision, {mf|Your Grace|Your Grace|Your Highness|Your Highness}.\""
+    },
+    {
+      "Key": "db427da0-31e6-4071-910a-57d45b5b5251",
+      "Value": "{n}Tristian keeps silent for a few moments. He is choosing his words very carefully.{/n} \"It saddens me to see money that could feed the hungry and bring joy to the suffering, will instead be spent on a feast for the wealthy. But if that is your decision, I cannot change it.\""
+    },
+    {
+      "Key": "2331c117-bc42-44be-9344-30aeac8dae45",
+      "Value": "\"An impeccable choice, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. I shall make the necessary arrangements.\""
+    },
+    {
+      "Key": "00600bf0-70e7-4d7b-8c3f-07084554eace",
+      "Value": "\"But...\" {n}Tristian interrupts himself and sighs.{/n} \"As you wish, {name}. As you wish.\""
+    },
+    {
+      "Key": "0ce44a72-385c-443e-9340-8c941322cc7e",
+      "Value": "{n}Shandra raises her puzzled eyebrow.{/n} \"Are you afraid of the extra expense? You shouldn't be. But if this is your decision, so be it.\""
+    },
+    {
+      "Key": "19891867-c242-48f1-9b5a-8469d7b0ed18",
+      "Value": "{n}Tristian's face darkens at your words, but he hides it, lowering his head.{/n} \"Then I shall commence preparations for the folk fair.\""
+    },
+    {
+      "Key": "dca10855-3ad1-43cd-8f72-24ef18ea2825",
+      "Value": "{n}Shandra looks through her list.{/n} \"I will send out invitations to the merchants today.\""
+    },
+    {
+      "Key": "c9aec0f4-4d81-47bb-864a-5064eb07c46b",
+      "Value": "\"{name}, I'm offering you guidance on leading your pack, so I will share my wisdom. You have won this land by right of strength. But your new pack doesn't know you. Are you kind or vengeful? Should they seek your favor, or flee in terror? Something tells me that the one who killed the Stag Lord might become even more fearsome.\""
+    },
+    {
+      "Key": "a83eb7d2-7a65-431d-91bd-b48ea8aa7580",
+      "Value": "{n}You hear a rustling sound from under Tsanna' clothes, but she ends it with a swift, impatient slap on her hip.{/n} \"Show your pack that you bring peace and prosperity. Give them food. A feast is the surest way to loyalty. And make no distinction between the wealthy and the poor.\""
+    },
+    {
+      "Key": "8a99a4c3-2e5d-4f39-bf9a-a516f7d75e8a",
+      "Value": "{n}A rat's grey face peeps out of Tsanna's sleeve.{/n} \"Very well. The people will enjoy a royal feast, and my rats will sup upon their leftovers and scraps.\""
+    },
+    {
+      "Key": "932a160a-34b1-4dbd-a2f8-b5f987a51642",
+      "Value": "\"This is wrong, {name}. You tease your pack by feeding the well-fed in front of the hungry. If you mock the hungry brutes long enough, they'll come to you at night to gnaw upon your bones. Is that not right, my children?\" {n}Two little grey faces emerge from Tsanna's sleeves.{/n}"
+    },
+    {
+      "Key": "f1b108ef-331c-4765-98ae-7343cc2a7cf8",
+      "Value": "\"It is your right. If you wish to be a strict leader, such gestures are beneath you.\""
+    },
+    {
+      "Key": "d7be6198-9732-4439-a790-d0abb0b07b7e",
+      "Value": "\"I will succor your pack. Your subjects shall be fed and happy, and the traders well entertained.\" {n}You see a rat's nose peek out from under Tsanna's hair.{/n}"
+    },
+    {
+      "Key": "1acc7466-980a-4424-aee9-f525b7b91d75",
+      "Value": "\"I know that your wealthy merchants seem the most powerful within your pack. It may feel right to throw a feast for them and leave others to fight over scraps. But beware of spoiling them before they prove their loyalty.\" {n}You hear the rustling once again, and the folds of Tsanna's clothes shift and ripple.{/n}"
+    }
+  ]
+}

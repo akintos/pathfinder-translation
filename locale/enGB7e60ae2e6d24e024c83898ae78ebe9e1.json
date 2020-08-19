@@ -1,0 +1,293 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "3bb1aab3-a506-4788-94e0-e95ea0ced8dd",
+      "Value": "\"Searching, asking questions, building theories… that's too long and too boring. I say bring them here all together! Let them get nervous and start with protests and denials, and we'll listen.\""
+    },
+    {
+      "Key": "e33382c6-79f6-4402-bda5-ce179e00e590",
+      "Value": "\"I'd like to look around and speak with these people. Maybe I'll find something.\""
+    },
+    {
+      "Key": "9ca7bc42-a4ae-431b-87e9-e7c861e0fb89",
+      "Value": "\"I trust your instincts, Kesten. Choose the one you think the most suspicious and begin with them.\""
+    },
+    {
+      "Key": "adf7d531-80cb-4c34-9dae-f9839767c11b",
+      "Value": "\"There is someone who seemed especially suspicious to me.\""
+    },
+    {
+      "Key": "535483f1-fae1-49cf-9200-863b20b9d32a",
+      "Value": "\"I need some time, Kesten. Don't let any of them leave, watch them — I'll be back soon.\""
+    },
+    {
+      "Key": "c6c57d1b-9b03-4c9a-abe8-e33ae9b9e395",
+      "Value": "\"Who would you interrogate first?\""
+    },
+    {
+      "Key": "b5f1cfb7-b680-4124-a4df-bc6ab9efbd3e",
+      "Value": "\"I've changed my mind. You can handle this better than I.\""
+    },
+    {
+      "Key": "1f0b6b2b-dbc3-49ce-9aab-cc6e267f6b45",
+      "Value": "\"Get to the interrogation, Kesten.\""
+    },
+    {
+      "Key": "7e3d5a12-9b89-491b-aa58-d3c13d8a3d82",
+      "Value": "\"Wait. I want to find out something else.\""
+    },
+    {
+      "Key": "066d00b6-043b-4f1c-b0b3-a74d324960fd",
+      "Value": "\"'Searching,' 'suspects'… a waste of time. Bring them here all together. Let them justify or incriminate themselves.\""
+    },
+    {
+      "Key": "7d7122fe-cba2-466e-8a1f-a279fb8344a5",
+      "Value": "\"Kabron Tedrim, a lawyer from Restov.\""
+    },
+    {
+      "Key": "d4b0cb29-0fd2-46c7-bd0f-85f9d73c7a9a",
+      "Value": "\"Una Tedrim, wife of the lawyer from Brevoy.\""
+    },
+    {
+      "Key": "6441c978-4ce5-4c4c-aa8a-59b44583cea3",
+      "Value": "\"Olika, a widow.\""
+    },
+    {
+      "Key": "1ef418e6-9863-43be-8169-be31ea9f12c5",
+      "Value": "\"Dumra, the hostess of this lodge.\""
+    },
+    {
+      "Key": "d88a89b0-ec32-4de2-b344-85dc61833aaa",
+      "Value": "\"Tsanna, Tedrim's maid.\""
+    },
+    {
+      "Key": "366e19b3-3601-462c-9a86-ba086d5fa537",
+      "Value": "\"I need more time to think.\""
+    },
+    {
+      "Key": "c048bc67-cfdd-4668-abfc-6a279af53ee3",
+      "Value": "{n}The lodge is lit with only a few candles on the tables and the counter — shadows lie thick around the room. A number of people are here — a well-dressed couple at one of the tables, a girl in simple dress dozes near the opposite wall, and at the counter is an untidy dwarf — she's wiping the mugs and glaring at you. From the half-opened kitchen door, you hear the clanging of pans upon metal — presumably a stove.{/n}"
+    },
+    {
+      "Key": "c8214f15-1d0d-4212-91ea-411653b8e856",
+      "Value": "{n}Kesten looks around with a heavy gaze.{/n} \"Things have gone from bad to worse. We must find the cultist before they flee — and we have no idea what they look like!\""
+    },
+    {
+      "Key": "c75acc90-7c30-412c-8712-07e7f135f588",
+      "Value": "{n}Kesten's hand falls to his weapon.{/n} \"Your Grace, I'm ready to make an arrest. But if you wish to investigate further before making a decision, I'll make sure no one leaves the lodge until you give the order.\""
+    },
+    {
+      "Key": "6fe95587-8e5f-4cd6-8264-226586f7a695",
+      "Value": "{n}The people in the lodge look surprised and concerned. Each seems to recognize you and ask themselves — what is the ruler of these lands doing here at such a late hour, flanked by armed guards?{/n}"
+    },
+    {
+      "Key": "61587c45-9fb0-4d14-b3cc-730e23c531a7",
+      "Value": "{n}Kesten's brow is furrowed. He looks at you, awaiting your orders.{/n}"
+    },
+    {
+      "Key": "b6169974-d9c3-4e44-aef1-1910cee46e62",
+      "Value": "\"As you command, Your Grace. No one will leave this house — I'll make sure of that.\" {n}Kesten looks around the hall once again.{/n} \"My advice — take their room keys. Their personal belongings speak their owner's intent, often more than their masters would like.\""
+    },
+    {
+      "Key": "5649ff29-2ffc-425a-988b-6336a88dc8e9",
+      "Value": "{n}Kesten frowns and looks around once again.{/n} \"The most suspicious… Hmmm...\""
+    },
+    {
+      "Key": "907dae87-820c-4478-b170-c3b6f6956ed1",
+      "Value": "{n}Kesten catches the eye of the dwarf at the counter — she glares back.{/n} \"The hostess isn't pleased to see us. She's obviously doesn't care for soldiers — or the law. Let's begin with her.\""
+    },
+    {
+      "Key": "2e71ab9a-66bb-48ae-900a-a5e85621b872",
+      "Value": "{n}Kesten raises his brow.{/n} \"All together?\" {n}After a moment of contemplating he gives you a wry grin.{/n} \"Cunning indeed, My {mf|Baron|Baroness}. Give me a moment to gather the suspects.\""
+    },
+    {
+      "Key": "b088cd2f-2aa7-4f8a-b1c6-609b9b4865cf",
+      "Value": "{n}Kesten shoots a glance at the dwarf at the counter.{/n} \"The hostess has been staring hate at us since we entered. Mind her.\""
+    },
+    {
+      "Key": "e0d26338-9547-4e77-8a5d-fc7aab49eb43",
+      "Value": "{n}Kesten nods, tight-lipped.{/n} \"As you command, Your Grace.\""
+    },
+    {
+      "Key": "c7f67686-feb3-4e66-99d3-44b5d1813438",
+      "Value": "\"Just call the name and I will interrogate that person.\""
+    },
+    {
+      "Key": "c4805453-cf56-4cfb-bef9-688c3f1756d5",
+      "Value": "\"Take your time, My {mf|Baron|Baroness}. We will keep an eye on them.\" {n}Kesten adjusts the weapon on his belt.{/n}"
+    },
+    {
+      "Key": "a270849b-81d7-4405-8d62-b007d2388d7b",
+      "Value": "\"I knew it!\" {n}Kesten rubs his hands.{/n} \"Now we'll bring her to light!\""
+    },
+    {
+      "Key": "050f97af-c4de-4844-9e8f-dc246cb88e56",
+      "Value": "\"The only man in the lodge...\" {n}Kesten ponders.{/n} \"All right, let's figure it out. I will bring him to you at once.\""
+    },
+    {
+      "Key": "8958a36c-a669-4b30-b057-7e966687a6d0",
+      "Value": "{n}Kesten nods.{/n} \"I will bring her to you at once.\""
+    },
+    {
+      "Key": "07c5eb37-f631-423a-bca5-4464d9b44c57",
+      "Value": "{n}Kesten raises his brow.{/n} \"You think so?\" He thinks for a moment, then nods. \"As you wish, My {mf|Baron|Baroness}. I'll bring her. \""
+    },
+    {
+      "Key": "345f6498-7b40-4f3c-90b4-5e56db6b4997",
+      "Value": "{n}Kesten nods.{/n} \"I'll call her here and we'll speak with her.\""
+    },
+    {
+      "Key": "9b201d37-cff6-4d55-94fb-5d7951a551fe",
+      "Value": "\"Well, Dumra… it's time to tell the truth.\""
+    },
+    {
+      "Key": "7688a57b-7f3b-40df-a06a-7fcbede1b26e",
+      "Value": "{n}Dumra gives Kesten a gloomy look. {/n} \"What about? About what drives a gang of soldiers to break into homes in the middle of the night?\""
+    },
+    {
+      "Key": "ce3d2e66-16e0-4220-a7b3-6beb92096b5b",
+      "Value": "\"Watch your tongue, cultist! Your act won't save you. Confess you worship wretched {g|Lamashtu}Lamashtu{/g}, and maybe {mf|baron|baroness} will spare you a painful execution!\""
+    },
+    {
+      "Key": "dcbc3606-5f63-43af-bfe8-c4b591249542",
+      "Value": "\"Cultist?! Are you mad?! My faith lies with {g|Erastil}Erastil{/g}, no other!\""
+    },
+    {
+      "Key": "eda68684-706a-4f83-89e2-d1bf811c97c6",
+      "Value": "\"Indeed? Odd to hear that from the hermit who prefers to live beside the monsters of {g|Narlmarches}Narlmarches{/g}! Or do you claim you know nothing about the shrine of dark goddess?\""
+    },
+    {
+      "Key": "7ada1098-c472-4236-8dc9-314b7bff7488",
+      "Value": "{n}Dumra rubs her eyes.{/n} \"Not in all my years have I been spoken to such... if you won't listen, then there, look!\" {n}The woman points to a grimy tablet over the fireplace.{/n} \"A bow and an arrow! Symbols of {g|Erastil}Erastil{/g}!\" She takes a breath. \"As for this {g|Lamashtu}Lamashtu{/g} of yours — I know nothing about her, and don't want to!\""
+    },
+    {
+      "Key": "93d4e4bf-6ff4-439a-b1b5-1769634c2c38",
+      "Value": "{n}Kesten glances at the tablet.{/n} \"I admit, that's clever — {g|Erastil}Erastil's{/g} symbol where everyone can see it, pretending to worship the god of hunting.\" Kesten turns back to Dumra. \"This is your last chance — confess, or else...\""
+    },
+    {
+      "Key": "9abf309b-44be-4506-abc6-6530625fdd73",
+      "Value": "{n}All of a sudden, a loud noise comes from the kitchen. Kesten turns, surprised.{/n} \"What was that?\" {n}Following his warrior instinct, he grabs the weapons.{/n}"
+    },
+    {
+      "Key": "e40432c7-62fd-488c-80fb-00812afb265c",
+      "Value": "\"So, Kabron… the time has come for us to have a heart-to-heart. Why are you here?\""
+    },
+    {
+      "Key": "f122d795-3fdb-46e8-a551-e806bc1dfbb4",
+      "Value": "{n}Kabron trembles, his voice quavering, his face pale.{/n} \"W-w-what a-are you t-t-talking ab-b-bout?\""
+    },
+    {
+      "Key": "6948968a-5bcf-43e3-83e2-baa6e10e1770",
+      "Value": "\"Let's cut to the chase, Master Tedrim. You don't want to keep our {mf|baron|baroness} waiting, do you?\""
+    },
+    {
+      "Key": "cc42b57a-5b8c-4347-b79c-b18c71941528",
+      "Value": "\"FINE!\" {n}Kabron almost shouts now.{/n} \"I confess! I CONFESS! I didn't come here to hunt! But… it's not my fault! It's because of her! Because of my wife!\""
+    },
+    {
+      "Key": "dce86b58-2be5-4805-8821-ccc205713b44",
+      "Value": "\"What about your wife?\" Kesten's eyes narrow. \"The truth now, all of it! I've lost too much time to you and your cult already!\""
+    },
+    {
+      "Key": "02d360cf-e25c-44bb-8e2f-c889251c84f4",
+      "Value": "\"I'm not a cultist!\" {n}Kabron's eye well up.{/n} \"It's Una! She told me the priestess of {g|Lamashtu}Lamashtu{/g} could help us! She brought me here, to this... this god-forsaken hole! She threatened that if I didn't go, she'd end our marriage — and she's a great-niece of Garnet {g|House Orlovsky}Orlovsky{/g}! The shame would destroy me!\""
+    },
+    {
+      "Key": "b7760a8d-33b3-4458-9219-e0e5426caa17",
+      "Value": "{n}Kesten looks at you.{/n} \"I guess we've made a mistake.\" {n}He whispers.{/n} \"This squab is guilty only of a lack of spine. But then, who is-\""
+    },
+    {
+      "Key": "83e85ebd-564d-4fab-8d4c-badeebcd36a2",
+      "Value": "{n}Kesten is interrupted by a loud noise from the kitchen.{/n} \"What was that?\" {n}His hand falls to his weapon.{/n}"
+    },
+    {
+      "Key": "e23cef11-2afa-4591-950e-f79601657b30",
+      "Value": "\"Una Tedrim, we have questions for you. Answer them, and we can dispense with the extreme mea-\""
+    },
+    {
+      "Key": "ff1eed57-4dd1-40e9-a610-4070c92aa745",
+      "Value": "{n}The woman's face is frozen in a sneer.{/n} \"Who are you, peasant? What gives you the right to address one of the {g|House Orlovsky}Orlovsky family{/g}? We are of the Great House of {g|Brevoy}Brevoy{/g}, and we will be treated as such!\""
+    },
+    {
+      "Key": "b931d16d-7cff-4661-8f83-0b1653de5700",
+      "Value": "{n}Kesten's face reddens.{/n} \"An honor indeed — but whatever your family, you're not in {g|Brevoy}Brevoy{/g}, so if you're done with your pleasantries, tell me what brings you to our barony. It seems to me {g|Lamashtu}Lamashtu{/g} must be involved.\""
+    },
+    {
+      "Key": "d25de8db-e8f8-4143-85a7-d43a2e1d2e3c",
+      "Value": "{n}Una's face whitens, but her voice is steady. {/n} \"You have no proof.\""
+    },
+    {
+      "Key": "8cfcdedf-ac01-4249-9336-80df8314deb7",
+      "Value": "\"Haven't I, Lady Tedrim? The behavior of you and your husband tells me a great deal.\""
+    },
+    {
+      "Key": "97409f67-1bbb-4b98-9d4c-c8cdb4696a30",
+      "Value": "{n}Una closes her eyes.{/n} \"I stand by what I said before.\" {n}She speaks slowly, accentuating each word.{/n} \"As a subject of a sovereign state of {g|Brevoy}Brevoy{/g}, I object to your methods and demand a fair trial, providing me with-\""
+    },
+    {
+      "Key": "e31ffa8e-66c8-479b-9a08-e9bae7b98eb9",
+      "Value": "{n}Una is interrupted by a loud noise from the kitchen. Kesten's hand falls to his weapon. {/n} \"What was that?\""
+    },
+    {
+      "Key": "1d8b2e79-c133-44b7-9a9c-db587b0580c5",
+      "Value": "{n}Kesten's voice softens.{/n} \"Olika… we must have the truth… You understand, right?\""
+    },
+    {
+      "Key": "44f7afa1-9897-486e-bce6-a1f06fc7f234",
+      "Value": "{n}Olika hands her head, and her hands cover her belly, as if trying to protect her unborn child. After a moment, she speaks, her voice a whisper. {/n} \"I had no choice.\""
+    },
+    {
+      "Key": "bd0ecedd-a100-4b94-971d-822bf1a65981",
+      "Value": "{n}Kesten shakes his head.{/n} \"There is always a choice, Olika. Always...\""
+    },
+    {
+      "Key": "817b5d68-d215-4c92-9936-1d4a054c0ac9",
+      "Value": "\"No!\" {n}Olika shakes her head without raising her eyes.{/n} \"No one could help me but {g|Lamashtu}Lamashtu{/g}! Everyone has turned their backs on me and my child! What could I do? Let my child die in my womb?\""
+    },
+    {
+      "Key": "999eafc7-8f1a-47f5-8549-ed056dff0a27",
+      "Value": "{n}Kesten stares at the widow, his eyes wide.{/n} \"That's why you've become a priestess of {g|Lamashtu}Lamashtu{/g}? To give your baby over to the infernal powers — to give birth to a fiend?\""
+    },
+    {
+      "Key": "a643ed5a-0977-49f6-b685-ada414833045",
+      "Value": "{n}Olika raises her face and stares at Kesten, surprised.{/n} \"What?\" {n}She blinks off the tears.{/n} \"Become a priestess? Oh no! I just wanted her to perform a ritual! To save my unborn child!\""
+    },
+    {
+      "Key": "0b1eeffc-733e-4650-afdd-bd1894e31186",
+      "Value": "\"What was that?\" {n}Kesten turns, his hand falling to his weapon. {/n}"
+    },
+    {
+      "Key": "2876ff20-643f-4459-9478-1fcc1d6371e6",
+      "Value": "\"I think, Tsanna, you know why I've brought you here.\""
+    },
+    {
+      "Key": "6545ab8d-6039-452c-8362-1249945bf0e6",
+      "Value": "{n}The kitchen servant casts a wary look at Kesten, then you.{/n} \"I would? How? Do you jest, my lord?\" {n}She gives a half-smile, as if uncertain.{/n} \"How could I know what you are thinking? I-\""
+    },
+    {
+      "Key": "eb80c2a2-a26f-4f9c-9cfa-0cfc52e56d1a",
+      "Value": "{n}Kesten shakes his head.{/n} \"Enough. We know who you are. {g|Lamashtu}Lamashtu{/g} won't help you.\""
+    },
+    {
+      "Key": "0233932d-6d74-4842-ab73-e76fe0dcdf47",
+      "Value": "{n}Tsanna is silent for a moment, then straightens like a serpent, her eyes cold with contempt.{/n} \"Is that so.\" {n}Her accent has vanished, the demeanor of a peasant shed like a cloak.{/n} \"Then you know little of our faith, indeed.\""
+    },
+    {
+      "Key": "e0c7675b-fb44-4cab-ba6f-5b815e0bcf5f",
+      "Value": "{n}Kesten shakes his head and turns to you.{/n} \"Have you seen something like that before, Your Grace? An 'innocent' woman reciting Brevoy law, as if she prepared herself in advance!\" He turns back to her. \"If you are not guilty, Lady Tedrim, why such a speech?\""
+    },
+    {
+      "Key": "b8428977-5e4d-4c94-aa11-328c875b4344",
+      "Value": "{n}Kesten grits his teeth.{/n} \"Damn it! We've made a mistake! We-\" {n}Kesten is cut off by a loud noise from the kitchen.{/n}"
+    },
+    {
+      "Key": "595d16be-e4d5-461b-9416-1829418c2053",
+      "Value": "\"The Great Mother is with me.\" {n}Tsanna's voice is ice.{/n} \"Prepare yourself for her.\""
+    },
+    {
+      "Key": "0a593a55-ebae-4335-b691-8bc8721f1928",
+      "Value": "{n}Una Tedrim clenches her fists.{/n} \"I understand all too well you need a scapegoat, but I won't allow you to cast aspirations on the Tedrim name! My opinion? Interrogate my husband, he who used to defend necromancers in the courts! I can bear witness to his crimes, if a real criminal is what you seek!\""
+    }
+  ]
+}

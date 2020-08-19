@@ -1,0 +1,29 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "63cf2006-c103-4228-bd7e-b4019be35ef3",
+      "Value": "{n}Bartholomew walks around the troll's corpse.{/n} \"At least they're still vulnerable to steel and acid. Now let's look into why this creature lost its respect for fire...\""
+    },
+    {
+      "Key": "24a0af4c-55ff-4df6-9004-7862969eb12a",
+      "Value": "{n}Bartholomew recites an incantation and waves his hand over the troll's chest, then points at a specific spot on it. There, branded on the flesh, is a symbol of a blacksmith's hammer encircled by thorn-studded vines.{/n} \"Whatever that is, that's the reason its flesh didn't burn.\""
+    },
+    {
+      "Key": "0d8b4ce5-83d8-45d4-8a2c-519a6ad4bcab",
+      "Value": "{n}Harrim inspects the brand closely.{/n} \"Alas, I recognize this cursed symbol. This is the hammer of {g|Torag}Torag{/g} — a god neglectful of even his most devoted followers. I don't know why his hammer is decorated with thorns, but it suits the treacherous god well.\""
+    },
+    {
+      "Key": "ce7986af-b8da-4105-ba67-49ed19ba4802",
+      "Value": "{n}Harrim inspects the brand closely.{/n} \"The same cursed symbol we saw earlier in the ruins. This is the hammer of {g|Torag}Torag{/g} — a god neglectful of even his most devoted followers. I don't know why his hammer is decorated with thorns, but it suits the treacherous god well.\""
+    },
+    {
+      "Key": "9ca6d2d0-7fc3-4fe7-9df1-db4ee098d9f5",
+      "Value": "{n}Ekun touches the brand carefully.{/n} \"A hammer. The sign of mighty {g|Torag}Torag{/g}, god of artisans. No thorns should be there, though. Maybe some secret symbol, or maybe deliberate blasphemy. Don't know.\""
+    },
+    {
+      "Key": "9a2ed931-4812-4126-ae6a-9bd738867220",
+      "Value": "{n}The wizard slowly makes an incision around the brand and then peels the flesh off, excising the brand completely.{/n} \"I must study this. Here's the key to my laboratory — wait for me there. I'll join you soon enough.\" {n}Without another word, Bartholomew whispers an incantation and vanishes.{/n}"
+    }
+  ]
+}

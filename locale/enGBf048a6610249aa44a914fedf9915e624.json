@@ -1,0 +1,137 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "d21322bf-73b4-429a-a450-e093896a3e9d",
+      "Value": "\"Hey, unknown voice — could you answer some questions?\""
+    },
+    {
+      "Key": "e3b5b430-1c4e-4998-8704-cef6e3d4d8f2",
+      "Value": "[Examine the barrier]"
+    },
+    {
+      "Key": "aa1ceb75-c6fb-4dbd-8e96-bf63af6e2cac",
+      "Value": "\"Tell me, door, what's locked behind you?\""
+    },
+    {
+      "Key": "cf27a21e-224c-492d-9658-17ba4127c098",
+      "Value": "\"Tell me about the monsters.\""
+    },
+    {
+      "Key": "50d6ca00-69ba-47de-b2b9-da7af06eb9ab",
+      "Value": "[Leave]"
+    },
+    {
+      "Key": "e9886496-b0d1-4253-a8e9-a4ca5f8b7bad",
+      "Value": "\"Tell me about the key.\""
+    },
+    {
+      "Key": "78c1caf4-a886-4b56-bded-b5be02a07f63",
+      "Value": "\"Who created you?\""
+    },
+    {
+      "Key": "3967e3e2-5ddb-4d9e-aef6-1c819457980f",
+      "Value": "\"Farnirras is imprisoned, Farnirras is the one who created you. Maybe you can explain what all this means?\""
+    },
+    {
+      "Key": "fb435554-6826-4a1d-a74d-439437db93f1",
+      "Value": "\"I have no more questions.\""
+    },
+    {
+      "Key": "a86df8a4-ee56-4fa0-b219-e594036f4bc2",
+      "Value": "\"It seems you're trying to hide something from me. This is no simple key, but a much more valuable artifact.\""
+    },
+    {
+      "Key": "b99b2905-f3d2-4961-b649-797159462d0e",
+      "Value": "\"Your 'key' is a lich's phylactery. What do you say to that?\""
+    },
+    {
+      "Key": "d4e9527b-f58e-4aff-a39d-8bf9cb301087",
+      "Value": "\"The monsters and the key. The door will open to the strongest.\""
+    },
+    {
+      "Key": "64b238e7-1813-4e96-a513-c88370d89522",
+      "Value": "{n}You plunge the key into the barrier and watch as waves of barely visible bluish light run up and down along it. It appears that a protective spell of some sort was hiding its true nature, but now it disappeared. An ethereal whisper comes from the door, and distinctly pronounces the word 'phylactery'. You barely have time consider its meaning when the key dissolves in the waves of blue light.{/n} \"It's part of a plan. The imprisoned one can be free, but only by sacrificing the essence of his power.\""
+    },
+    {
+      "Key": "a81abca2-6bda-48e1-afab-d502cd58a009",
+      "Value": "\"The key is in your hands. Ages ago it was hidden in the dungeon, where two rivers flow into one lake. Ages later it was drawn into the light. Defeat the monsters, then give me the key — and the door will open to you.\""
+    },
+    {
+      "Key": "4c245ad8-5f43-4687-af2d-5c0d0ae1b342",
+      "Value": "\"The monsters are your trial. I will mark their lairs. Seek them out and defeat them. After all of them fall, the door will open to you.\""
+    },
+    {
+      "Key": "c58ea025-3b73-4d3c-8fb5-cc75906ee023",
+      "Value": "{n}It seems that your attempt to plunge the key into the barrier is a waste of time. The shimmering surface is impenetrable.{/n} \"The monsters are not defeated. Defeat the monsters and return with the key.\""
+    },
+    {
+      "Key": "be66877f-4801-4d52-bae2-1a130bce6b99",
+      "Value": "\"It is kept in the dungeon beneath the well. The city grows above it, the lake splashing its waves abreast. You came from the city. Bring the key from the dungeon. Defeat the monsters. The door will open to the strongest.\""
+    },
+    {
+      "Key": "5cc8d1c8-9bf5-4ac4-a3b1-363bcb249cf5",
+      "Value": "\"Farnirras.\""
+    },
+    {
+      "Key": "12004871-fc12-4e5a-92ad-d7bc10918138",
+      "Value": "\"Farnirras.\""
+    },
+    {
+      "Key": "29c9fc50-392b-481d-b9c9-c1647020877e",
+      "Value": "{n}Silence falls for some time, and then the monotonous whispering resumes:{/n} \"The door will open to the strongest. Defeat the monsters. The door will open to the strongest.\""
+    },
+    {
+      "Key": "4007c2b4-0ae7-4f9b-873d-8f9501a8ee70",
+      "Value": "{n}As you approach, the barrier utters a deep sigh.{/n} \"The monsters are defeated. The trial is passed. The door will open to the strongest. The door will open to you. Will open...\""
+    },
+    {
+      "Key": "4be5533f-b80d-4936-8cae-78f673b95ac8",
+      "Value": "{n}The barrier feels slightly warm and somehow alive to the touch. Odd patterns and magical symbols glimpse on its shimmering surface. Among them you notice numerous pictures of various animals, monsters, and unusual creatures.{/n}"
+    },
+    {
+      "Key": "3fe7d2eb-532c-4b6d-a233-e1e64997a0c4",
+      "Value": "\"The key is delivered and destroyed. The monsters are defeated. The door opens to the strongest. Enter now!\""
+    },
+    {
+      "Key": "27d76992-9341-4b20-9f5c-406978279ab4",
+      "Value": "{n}The glow of the barrier is much more intense. Its surface is like a sun-warmed stone.{/n} \"The blood of the monsters is on your hands. The door will open to the strongest.\""
+    },
+    {
+      "Key": "8b4985d0-5bb0-412d-bbab-e59851aa5dfa",
+      "Value": "{n}It seems the barrier has changed since you were last here. Now it's enveloped in a barely visible glow, and the whispers have grown louder.{/n} \"The door will open to the strongest. Defeat the monsters.\""
+    },
+    {
+      "Key": "eadd44a3-b8cf-4b80-863e-518d474e9f5a",
+      "Value": "{n}The barrier glows, and radiates a strong heat.{/n} \"You near your goal. The door will open to the strongest!\""
+    },
+    {
+      "Key": "d28405d1-ad9a-453b-a2cb-e2a28f8591f7",
+      "Value": "{n}The monotonous voice keeps repeating:{/n} \"Will open to the strongest… Only to the strongest…\""
+    },
+    {
+      "Key": "db859924-7df0-48b5-979d-640b0e94a65e",
+      "Value": "{n}The whispering subsides for a moment, and then resumes with a different, intense intonation:{/n} \"Yes. The key is more than just a key. It is a gage. It is part of a plan. The imprisoned one can only become free by sacrificing the essence of his power.\""
+    },
+    {
+      "Key": "eb65c971-61b1-4a01-ab36-532d6569ad7d",
+      "Value": "\"Your goal is near. The trial is coming to an end. Defeat your final enemies and the door will open to you.\""
+    },
+    {
+      "Key": "7bdf5243-3504-44bb-a4c4-5129e558781d",
+      "Value": "\"The monsters were the trial, and the trial has been passed. The door will open to you.\""
+    },
+    {
+      "Key": "95900811-80b3-4d7f-8407-78d3f2986962",
+      "Value": "\"You have vanquished many, but more yet must be defeated. The trial is not yet passed.\""
+    },
+    {
+      "Key": "0e18c771-029a-495f-91ad-63081f2de8a0",
+      "Value": "\"You have already met them. But more of them must be defeated, many more. The trial is not yet passed.\""
+    },
+    {
+      "Key": "0c02ae02-9965-47b7-9755-80f6662f9c7b",
+      "Value": "{n}The closer you get to the magic barrier, the louder a whisper, just on the verge of hearing, becomes. It says over and over,{/n} \"The door will open to the strongest. Defeat the monsters. Get the key from the dungeon. The key is hidden between two rivers falling into the same lake, on its shore. Find it and come. The door will open to the strongest...\""
+    }
+  ]
+}

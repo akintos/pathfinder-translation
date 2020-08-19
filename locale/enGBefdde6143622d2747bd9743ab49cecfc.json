@@ -1,0 +1,533 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "db727c7a-6951-4a48-8023-b9de8503fade",
+      "Value": "\"I would like to hear your story.\""
+    },
+    {
+      "Key": "d42f6d0d-7128-45b6-b3e5-b1361e18671e",
+      "Value": "\"Tell me about your goddess.\""
+    },
+    {
+      "Key": "8bc7fd78-28e5-4d1e-a6ab-7aa0de020108",
+      "Value": "\"What made you follow me?\""
+    },
+    {
+      "Key": "f53ef8f9-b043-4eaa-9bd2-c1281ffa12e3",
+      "Value": "\"You and Tristian seem to not get along.\""
+    },
+    {
+      "Key": "fbbac3d6-662f-412a-af70-ac39f0fce1a4",
+      "Value": "\"I have decided I no longer need your assistance.\""
+    },
+    {
+      "Key": "2f108399-638e-4fe7-9738-ebb7617f7522",
+      "Value": "\"Thank you for the conversation. Farewell!\""
+    },
+    {
+      "Key": "fd5e8d83-a9f9-4ef9-a49e-b9f6c24c4881",
+      "Value": "\"Who did you kill and why?\""
+    },
+    {
+      "Key": "378d292a-b326-48c2-b992-df77192ad96a",
+      "Value": "\"How did you die — and what happened after?\""
+    },
+    {
+      "Key": "4a9969b5-de5a-4745-ad67-8249a670136f",
+      "Value": "\"Is exile your only punishment for murder?\""
+    },
+    {
+      "Key": "a13f129a-fbea-419f-a8a2-4523ba0240f2",
+      "Value": "\"What's it like to be undead?\""
+    },
+    {
+      "Key": "e96e4ff3-2f4e-4950-890d-9934c19bc0c6",
+      "Value": "\"Who were you before your exile?\""
+    },
+    {
+      "Key": "9c02167e-0c57-4925-a50d-ef6dffa19a40",
+      "Value": "\"Did you kill innocent elves for entertainment and pleasure? That's abominable!\""
+    },
+    {
+      "Key": "5fb18cba-7321-494c-89b2-39f244f04c74",
+      "Value": "\"I am not one to judge you for your past deeds.\""
+    },
+    {
+      "Key": "4dfcd008-4729-49bb-8a6c-b4890dc8d206",
+      "Value": "\"In the end we all live for ourselves. The lives of others shouldn't outweigh our own.\""
+    },
+    {
+      "Key": "eabb5723-b7d5-452a-a0fe-924fb6a290cf",
+      "Value": "\"How do healing spells, prayers and potions affect you?\""
+    },
+    {
+      "Key": "0a884070-d903-43d5-86b6-ba3768a1fa0f",
+      "Value": "\"You don't need to sleep, right?\""
+    },
+    {
+      "Key": "40bf42fe-5f70-458d-86b9-cf6c7abc2abd",
+      "Value": "\"What about, umm, carnal pleasures?\""
+    },
+    {
+      "Key": "72517718-fc2f-4f8e-a10d-e7c1e5dd5bc8",
+      "Value": "\"Do you regret not being alive anymore?\""
+    },
+    {
+      "Key": "fc4dbc20-ea9b-462c-aeec-49310ceb6798",
+      "Value": "\"What does Urgathoa require of her followers?\""
+    },
+    {
+      "Key": "637bf744-28a4-4c94-a5ce-205bc65f72e8",
+      "Value": "\"Why is the cult of Urgathoa forbidden in much of Golarion?\""
+    },
+    {
+      "Key": "23a47bbb-6be9-4e72-9a71-624e1d91d018",
+      "Value": "\"Tell me about your birthplace.\""
+    },
+    {
+      "Key": "0b79fbab-f22f-4f1e-8d47-3f780a45f029",
+      "Value": "\"You've become powerful, that's all that matters. It's much better than the life of ordinary mortals — and even elves.\""
+    },
+    {
+      "Key": "336a2518-63a0-4b7a-9cd6-9f0bd1a4b6f0",
+      "Value": "\"A bright life, full of pleasures, is better than un-life, though eternal.\""
+    },
+    {
+      "Key": "cb31c9ec-020f-47ac-8178-4bc335fe2fae",
+      "Value": "\"There's no purpose in living only for yourself. It makes life and un-life equally senseless.\""
+    },
+    {
+      "Key": "0e4d97a0-a601-4064-a916-a6af6e2cd3c4",
+      "Value": "\"But why do these assassins follow you?\""
+    },
+    {
+      "Key": "8276dd0d-3ddf-457b-8c23-0eb696c37a84",
+      "Value": "\"You are my companion, so you can count on my protection.\""
+    },
+    {
+      "Key": "3b4aec86-22ff-4cef-be76-5247ccf173c5",
+      "Value": "\"Do not engage me in your personal war.\""
+    },
+    {
+      "Key": "59ff2123-fea0-463d-a00b-c88aa1d5406f",
+      "Value": "\"Enough about this for now.\""
+    },
+    {
+      "Key": "6ca46664-bdd7-4497-ba5d-94d6601a16aa",
+      "Value": "\"Thank you, I have no more questions about this.\""
+    },
+    {
+      "Key": "3618b7a6-eaad-473d-b300-053f43db235d",
+      "Value": "\"Enough talking about your past.\""
+    },
+    {
+      "Key": "bc837b56-6377-4e7d-844a-40aaa7ab2251",
+      "Value": "\"What do you know of Urgathoa herself?\""
+    },
+    {
+      "Key": "4d33a679-6bf8-4112-8507-6cb1858b4248",
+      "Value": "\"I hope you suffered fair punishment for your crimes!\""
+    },
+    {
+      "Key": "f85c39cf-0fdb-4dbb-ba10-5b46bc15ebb8",
+      "Value": "\"An objective worth pursuing, but it would be better to refrain from secret murder. There are many ways to arrange a death, while keeping within the boundaries of law and decency.\""
+    },
+    {
+      "Key": "b33855c5-1486-4382-a049-68a90799eede",
+      "Value": "\"Does Urgathoa feud with the other gods?\""
+    },
+    {
+      "Key": "4d020b73-f599-4c42-97e2-ad73ec3ea4af",
+      "Value": "\"Yes. You should leave.\""
+    },
+    {
+      "Key": "9765ba0f-24a9-4076-8cf4-918746c13890",
+      "Value": "\"No. I just wanted to see how you'd react.\""
+    },
+    {
+      "Key": "7e936005-11c3-4366-8c37-e41e5c25c226",
+      "Value": "\"Do you have family in Kyonin? Anyone who is dear to you?\""
+    },
+    {
+      "Key": "c734d1b4-4d7b-42cb-9ece-e0cf9e06734b",
+      "Value": "\"It seems to me the experience... changed you.\""
+    },
+    {
+      "Key": "34d6b63f-7365-42c6-98e9-1c55dc99b598",
+      "Value": "\"No. Undeath has nothing to do with life. It reeks of evil, and disgusts me.\""
+    },
+    {
+      "Key": "383dcf63-246d-4816-92e0-aaea3072bdfd",
+      "Value": "\"I don't know. But your power does intrigue me.\""
+    },
+    {
+      "Key": "43a3c1df-13eb-42ae-88ab-10651d1d6ed7",
+      "Value": "\"I understand you. There is a frightening beauty in un-life. The beauty of power. The beauty of being able to ignore the laws that rule over all living things.\""
+    },
+    {
+      "Key": "8de50ce8-c83a-40ae-b387-198fbd5b6a52",
+      "Value": "\"Regarding this story with Taneka and Enneo...\""
+    },
+    {
+      "Key": "229d363b-b191-4212-b7d3-78ab11ffaf05",
+      "Value": "\"Did you study the scroll? What can you tell about the ritual?\""
+    },
+    {
+      "Key": "2ac2bd61-30ee-4c84-aea4-ace14d8cd12f",
+      "Value": "\"Before raising that elf woman as undead, you said that she looked like 'Nortellara'. Who is that?\""
+    },
+    {
+      "Key": "d3223694-edda-4a9e-8943-14927100b1d7",
+      "Value": "\"What can you tell me about Enneo?\""
+    },
+    {
+      "Key": "acf3b5b3-468b-4910-975d-052c046cf9b8",
+      "Value": "\"Let's talk about something else.\""
+    },
+    {
+      "Key": "4d42c3b5-deac-469f-af2e-1588b247ecfe",
+      "Value": "\"I want to speak with you about what happened at the elven camp.\""
+    },
+    {
+      "Key": "ce27655e-a73c-40fd-8ae9-8b69f6680acf",
+      "Value": "\"Enough about that for now.\""
+    },
+    {
+      "Key": "cba59696-74e6-49cb-98a9-b034507726fc",
+      "Value": "\"You are wrong to be inspired by Enneo's example. He was a fanatic and it led him to his death. Your desire for a carefree life of pleasure — that seems much more sensible.\""
+    },
+    {
+      "Key": "bd87c5d4-e4e0-4876-b467-dc3997cdaa8a",
+      "Value": "\"I do not like Enneo's fanaticism, nor the pointless indulgence of one's whims. There must be another way.\""
+    },
+    {
+      "Key": "a0875d1e-4888-4754-908d-50763a2b81c1",
+      "Value": "\"Enneo had a goal, and he moved towards it with fascinating tenacity. He deserves our respect. \""
+    },
+    {
+      "Key": "eeac611c-be6a-4b81-8bcb-d90dfa4eedd7",
+      "Value": "\"What can you expect now that you have passed Urgathoa's test?\""
+    },
+    {
+      "Key": "6d8df2a9-a579-4c73-9873-56af70d390d3",
+      "Value": "\"What does it mean to be an inquisitor of Urgathoa?\""
+    },
+    {
+      "Key": "950a24dd-a953-4c7c-aaed-33a7be8222f6",
+      "Value": "\"Right. I was born in other lands but always wanted to know more about the homeland of elves.\""
+    },
+    {
+      "Key": "be715952-610f-4db5-bb61-6eba68738106",
+      "Value": "\"I'm from Kyonin too, but I'd like to hear how you see our common homeland.\""
+    },
+    {
+      "Key": "8c84d2c2-384f-43d8-b59c-b634f66dcdb8",
+      "Value": "\"I just haven't been there for a long time. I want to hear the latest news.\""
+    },
+    {
+      "Key": "701f0ef3-bf3b-4a85-8ebb-5ee1efc02590",
+      "Value": "\"Everything depends on us. If some elves become jaded and boring late in life, they probably didn't enjoy life before either.\""
+    },
+    {
+      "Key": "8149bb40-3dec-4297-a72f-514ab2ed7da1",
+      "Value": "\"It's impossible to keep the soul forever young. Not across the ages, with all the pain and commotion.\""
+    },
+    {
+      "Key": "966e8789-cd53-40d7-b59d-a88ad58c5abf",
+      "Value": "\"Maybe, but our longevity is still much better than the short and bright existence granted to the short-lived.\""
+    },
+    {
+      "Key": "03883ae7-8aec-4aaa-9b73-9964ad51f22d",
+      "Value": "\"I understand what you mean. I myself fear to lose mental clarity and open-mindedness over time.\""
+    },
+    {
+      "Key": "35992c31-e5b4-40df-8f96-2e8d1084a4be",
+      "Value": "{n}Jaethal greets you with a nod.{/n} \"Speak.\""
+    },
+    {
+      "Key": "52e8c0f9-506f-4446-ae61-9cb054a1b4d9",
+      "Value": "\"Stories...\" {n}Jaethal shrugs.{/n} \"Stories are boring, and a waste of time. I have killed. I was exiled from {g|Kyonin}Kyonin{/g}. I died. I was raised by {g|Urgathoa}Urgathoa's{/g} gift. That is my 'story'.\""
+    },
+    {
+      "Key": "41c1c266-a5d7-4de1-8203-59e7370d473c",
+      "Value": "\"Family. Four.\" {n}Jaethal's voice is calm and ordinary, as if she's speaking of something trivial.{/n} \"But 'why' is the more interesting question.\""
+    },
+    {
+      "Key": "b7e8e283-696b-4026-8592-b85d87ab460a",
+      "Value": "\"What is the worth of a thousand years, if you cannot enjoy it like your first ten dozen springs?\" {n}The elf's voice sounds unusually vehement.{/n} \"Everyone considers elves ever-young, but our 'youthfulness' is but a mask, a threadbare ritual gown. What lies underneath? The dust of years, and jaded repetition. With each year the dust grows thicker, and erstwhile joys cease to excite, and cloy, as a dish you've tasted a thousand times!\""
+    },
+    {
+      "Key": "4314f7ab-2ba0-4bb1-be72-e533828abffc",
+      "Value": "\"Do we?\" {n}Jaethal idly brushes invisible dust from her sleeve.{/n} \"He bothers me no more than any overzealous fool. He's tried so dearly to 'redeem' me with his faith. I know a few sweet ways to redeem him with mine.\""
+    },
+    {
+      "Key": "1880e23a-5ddb-4697-9cea-94fb3948dae4",
+      "Value": "\"Do you wish to know what it means to me personally? Or what powers and limitations it imposes?\""
+    },
+    {
+      "Key": "d7971e1c-e153-416a-99a3-52c3e62ae94f",
+      "Value": "{n}A shadow passes over Jaethal's face.{/n} \"You surely know how to ask questions...\" {n}She says nothing for a long time.{/n} \"Two desires led me through life — to feel pleasure time and time again, and to achieve perfection. Un-life brought me closer to the second. I am changeless, torn from time. The chaos of the world, and even the soul circle, have no power over me. But everything comes with a price. Most things that brought me pleasure in life are meaningless to me now. How can I decide which is better?\""
+    },
+    {
+      "Key": "cd41054a-7ada-4c39-8f78-4737fd10ea66",
+      "Value": "\"Long did I search for a way to avert this fate. Don't I, who has truly tasted life, deserve a better lot than those benumbed old elves who close themselves to the world? And I found a way in the ancient texts of {g|Urgathoa}Urgathoa{/g}. A ritual, involving the blood of my kin. A trifle, that would make each day feel as a holiday, created specially for me. The ritual gave strength not only to my body, but to my mind and my soul. And my mind whirled at every sensation, each sip of wine, or silken carress. Oh how I miss this...\""
+    },
+    {
+      "Key": "a2f2887c-bffe-4f8c-9b0f-8a0dcfc3afcf",
+      "Value": "\"...My cousin was the first I used for the ritual. It was a simple matter to pass her death as an unfortunate accident. But the enchantment would not last. I had to find another, and again conceal my trail. With the third death, my family grew suspicious, and upon the fourth, my deeds were finally revealed. Such a pity. If not for this, my un-life even now would overflow with burning pleasure. For I have dozens of useless relatives.\""
+    },
+    {
+      "Key": "b5ef99fd-ae44-4322-a6e2-db490f1f2d18",
+      "Value": "\"I concur,\"{n} the elf nods in content.{/n} \"But not many possess the courage and honesty to admit it. The world is filled with cowards and fools.\""
+    },
+    {
+      "Key": "928f68ea-5f33-44b8-80f4-cd7654b8e4c1",
+      "Value": "\"Fair. Judge me for my present form. And better yet — for the benefits we can provide each other.\""
+    },
+    {
+      "Key": "53490053-87cd-4ec8-a59f-0fb94fa2eefc",
+      "Value": "\"Yes, I have.\" {n}Jaethal shrugs.{/n} \"Use whatever high-sounding words you wish to describe my deeds. Say 'abominable' if it suits you. 'Reasonable' and 'honest' would fit just as well.\""
+    },
+    {
+      "Key": "6b87b318-3a92-4730-9b00-9147a1bf8f30",
+      "Value": "\"It might sound strange, but I know less than others about {g|Urgathoa}Urgathoa{/g} and her faith. My transformation into her inquisitor was... unexpected. But I will answer to the best of my knowledge.\""
+    },
+    {
+      "Key": "5483ecb5-3a3f-4d6f-910c-0872854be365",
+      "Value": "\"I hope you do not ask from idle curiosity. {g|Kyonin}Kyonin{/g} is the birthplace of the elves. The other races are allowed to visit, within reasonable limits. Usually, only as far as {g|Greengold}Greengold{/g}. That is the enclave for half-breeds and the short-lived, a whim of our queen. I enjoyed going there sometimes, as to a wild beast show. Beyond this caricature of a city, Kyonin is a mixture of grandeur and the sad remains of ancient glory.\""
+    },
+    {
+      "Key": "efc4dc4b-2938-4b78-aead-51ba11ef896e",
+      "Value": "\"Curiosity. The need for a reliable ally. You see, I must come to understand what my goddess seeks from me. {g|Urgathoa}Urgathoa{/g} gave me the powers of inquisitor without declaring her will to me. I await her reply, any hint or trace or clue. And I suppose our meeting was no mere accident. Besides...\" {n}Jaethal cringes.{/n} \"I imagine that several {g|Kyonin}Kyonin{/g} assassins still pursue me. They never risked attacking me while I was under the patronage of the Aldori. They are unlikely to attack while I have reliable allies like you.\""
+    },
+    {
+      "Key": "3c42fa8f-470b-4405-8eee-9d9f5a461b26",
+      "Value": "\"I don't know. They can't have been sent by the queen. I am branded outlaw, but my punishment was exile, and it is not custom for elves to contravene their own verdicts. My attackers shouted something about threat and blood. I suppose they are a splinter group of feeble-minded zealots. Or someone on a quest for personal revenge.\""
+    },
+    {
+      "Key": "96500a07-32b8-4e45-b051-ae0c827ffcfe",
+      "Value": "\"A reasonable approach. I appreciate this.\""
+    },
+    {
+      "Key": "7f483049-c4e3-47f9-a74a-f0a1f07124a0",
+      "Value": "\"I only offer information. Dispose of it as you see fit.\""
+    },
+    {
+      "Key": "9c46982d-98de-47a6-b95c-daa3e731409a",
+      "Value": "\"As you wish. Conversation is truly a waste of time.\""
+    },
+    {
+      "Key": "024c5401-4441-4a86-92ba-6118b7e6a2a7",
+      "Value": "\"Apparently not.\""
+    },
+    {
+      "Key": "1e5a5ab1-b4a5-410c-9e0a-15b2411dcd47",
+      "Value": "\"As you wish.\""
+    },
+    {
+      "Key": "20cf6968-35e1-42a0-8615-a611c32b7ee9",
+      "Value": "\"Righteous anger? How tedious. But if it worries you so much, then yes, I appeared before the court. It deemed exile a fair penance.\""
+    },
+    {
+      "Key": "2bfcc1d8-d4e5-4159-9230-e94c33c0ffd2",
+      "Value": "\"It is much more difficult to accomplish this in {g|Kyonin}Kyonin{/g} than the {g|River Kingdoms}River Kingdoms{/g}.\" {n}Jaethal cringes.{/n} \"But you are correct. I have learned a lesson from my past, and will be more careful in the future.\""
+    },
+    {
+      "Key": "1f5b6fb2-096c-46d3-bc3d-8984d59c4d27",
+      "Value": "\"For an elf\", {n}Jaethal says pointedly,{/n} \"...exile is a serious punishment. There is no other {g|Kyonin}Kyonin{/g} in this world. Even I, who despises its hypocrisy, must admit as much.\""
+    },
+    {
+      "Key": "d386a340-57de-4073-9f87-68d39265dd10",
+      "Value": "\"It's rather amusing. I belonged to a wealthy family, and held high position on the courts of Iadara, the capital of {g|Kyonin}Kyonin{/g}. When my little wrongdoings were revealed, the trial was held in the very same court where I tried cases and delivered sentences, over several hundred years. An awkward situation, don't you think?\""
+    },
+    {
+      "Key": "930e2195-576a-4117-9f90-5faa1cf643bd",
+      "Value": "{n}Jaethal frowns.{/n} \"I... don't remember my death. I was stunned by the sentence of exile, and I admit, I showed weakness. I wandered aimless, absorbed in despair, without concern for my safety or sustenance. And then... then... I remember desolate rocks, a stone I lay upon, a convulsion, passing not only through my whole body, but through my soul. Then — I awakened. Cold, calm — my body overwhelmed with strength, but haunted by a strange internal silence.\""
+    },
+    {
+      "Key": "53f68fce-1035-44e6-a981-fbec69354247",
+      "Value": "\"There were bloody prints of bone feet on the stone next to me: the sign of the goddess. A battle scythe lay nearby. That was the first and last time I heard {g|Urgathoa}Urgathoa's{/g} voice. She spoke but three words: \"Hail the inquisitor.\" That is all. She has neither addressed me nor answered my pleas ever since.\""
+    },
+    {
+      "Key": "70dfc675-0ff6-45b8-a111-e0865487b563",
+      "Value": "\"I will not bother you with the story of how I tried to comprehend my new... condition. Soon I had a chance to put my new powers to the test. A group of my kin had tracked me through the woods. They were insolent, and would pay dearly for this. But I had to reckon how I might free myself from their persistent chase. A powerful protector from among the short-lived could help me, and the {g|Swordlords}Swordlords{/g} seemed suitable. That is all.\""
+    },
+    {
+      "Key": "9108eee9-efc6-4147-b99b-39ba6f939a87",
+      "Value": "\"Next to today's graceful dwellings lie the ruins of ancient monuments and fountains. Elves prefer to live in small groups, in secluded settlements. The most outgoing and ambitious live in the capital, Iadara. Daily life is filled with the efforts of hundred-year-old infants seeking worthy goals, and thousand-year-old stony cynics entertaining themselves howsoever they can. That is all. It's scarcely worth mentioning that even this gloom is far more tempting than anything one finds in the lands of the short-lived.\""
+    },
+    {
+      "Key": "e8eae955-ebe7-4c58-bb8a-db3a4698bf5b",
+      "Value": "\"Dreadfully, of course. Your healers had better stay away from me in battle. The undead are 'healed' through interaction with negative energy. — And I can perfectly manage that on my own.\""
+    },
+    {
+      "Key": "6cc73463-53ba-4e4a-bcf7-8b70aa5738f5",
+      "Value": "\"I am spared from that bothersome need. But I hope you do not take this as a reason to invent additional responsibilities to entertain me during the night. I spend this time meditating and addressing the goddess.\""
+    },
+    {
+      "Key": "0be4ad96-d4b9-4516-bd4b-58e5bf113180",
+      "Value": "\"A tactless and facile question. That pleasure is now as senseless to me as food or wine. Action without feeling.\" {n}Jaethal cringes.{/n}"
+    },
+    {
+      "Key": "724fd527-a561-4c94-9a40-f549f9691c7e",
+      "Value": "\"Agreed.\" {n}Jaethal yawns pointedly.{/n}"
+    },
+    {
+      "Key": "5229af68-405f-4bdb-bf5d-382b412d7439",
+      "Value": "\"Perhaps. But the choice was made for me. I have nothing left but to follow the will of the goddess.\""
+    },
+    {
+      "Key": "c19da6ce-5e32-446c-b93f-40d6bb3ee45f",
+      "Value": "\"I would prefer to have both. But meanwhile I shall have to content myself with power.\""
+    },
+    {
+      "Key": "7ffa8564-b3dd-4d2c-91a0-b7ea6cb81bae",
+      "Value": "\"Not {g|Urgathoa}Urgathoa{/g}. But {g|Pharasma}Pharasma{/g} still tries to call her to order, and {g|Sarenrae}Sarenrae{/g}, to 'heal' her.\" {n}Jaethal laughs at the absurdity.{/n}"
+    },
+    {
+      "Key": "4206f858-f39b-41c3-b0c9-e9b8460c151b",
+      "Value": "\"Oh, certainly. {g|Urgathoa}Urgathoa{/g} was once a mortal woman, basking in life and all the pleasures it had to offer. Her passion was so strong that Urgathoa rebelled against {g|Pharasma}Pharasma{/g}, against death itself and its laws. After her own death, she escaped the power of the Lady of Graves and returned to the world as a goddess — and the first undead. Since then she has protected all who submit their souls to pleasure and passion, paying no heed to worn-out morals and the dictates of law.\""
+    },
+    {
+      "Key": "b3c164a6-0a52-4249-ac1e-16ee294388fc",
+      "Value": "\"Because {g|Golarion}Golarion{/g} is plagued by narrow-minded cowards. Some tremble at the freedom granted by {g|Urgathoa}Urgathoa{/g}. Others fear the wrath of {g|Pharasma}Pharasma{/g} and her priests.\""
+    },
+    {
+      "Key": "18e22cf4-88db-48c1-8eb7-a388bcdede9a",
+      "Value": "\"To enjoy. To taste exquisite dishes, to feel the lover's caress, and drink the enemy's suffering. A wonderful religious obligation, isn't it?\""
+    },
+    {
+      "Key": "cfebe3df-93e4-4288-a96f-2785fffbd2c2",
+      "Value": "\"How unwise. Is this your final decision?\""
+    },
+    {
+      "Key": "79bbb80f-6180-428e-b8d2-e1557f09419e",
+      "Value": "\"Isn't that a shame?\" {n}Jaethal smiles coldly.{/n} \"I should say, it isn't.\""
+    },
+    {
+      "Key": "e3fd2b6d-332c-43dc-a529-aa8050056745",
+      "Value": "\"Entertained? You are welcome. What else is life for?\""
+    },
+    {
+      "Key": "48fdb85f-62e1-44d0-9b91-462696827262",
+      "Value": "\"Do you mean someone I would hesitate to sacrifice? Perhaps my daughter. I would regret the wasted effort — the creature turned out quite well. Like a properly trained dog, or a well-managed horse.\""
+    },
+    {
+      "Key": "d75f35fe-b820-4c78-8915-cd86f5caf9b9",
+      "Value": "\"Yes, that's true. It's strange I do not think more about who might have killed me. I should crave revenge, but I do not. Time and again, I remember the moment when the power of my gift brought that young elf back from the dead. It was… exciting.\""
+    },
+    {
+      "Key": "9cf448d1-ffb0-4d20-a6d6-9f5b4cef2a43",
+      "Value": "\"For the second time in my life, I felt her divine presence, and the power of my gift — power itself! Isn't un-life a wonderful blessing? By my own will, I can wrest someone's beauty out of time and into eternity, to preserve them in this world forever.\""
+    },
+    {
+      "Key": "3f7bb5ba-0e13-4c3e-8e7d-86fc6e23907f",
+      "Value": "\"It intrigues me as well. Sometimes it feels like two forces are fighting inside of me. One is my logical side, which strives to understand my gift, to evaluate and calculate the consequences and limits of its potential. The other is deep and hidden... It laughs at the first, and urges me to simply enjoy the power I've been given, to breathe it in. Which side will win? Someday we may find out.\""
+    },
+    {
+      "Key": "44badbab-3e41-415f-80ee-8ac20dec5b02",
+      "Value": "\"Everyone has the right to their own prejudices.\" {n}Jaethal shrugs.{/n} \"So long as they don't interfere with you ruling your {mf|barony|barony|kingdom|kingdom} as you see fit, then all is well.\""
+    },
+    {
+      "Key": "bece4216-2fd3-4598-ad0d-c46c1582fed7",
+      "Value": "\"I… I'm surprised at how deeply you can see. I shall ponder your words. Perhaps they will show me the way.\""
+    },
+    {
+      "Key": "117550c1-d619-4cd1-8193-aefc899ffdd3",
+      "Value": "\"She… she impressed me. What exactly would you like to discuss?\""
+    },
+    {
+      "Key": "d3866de1-953a-4d2c-9d8a-b34e69669ee3",
+      "Value": "\"As you wish.\""
+    },
+    {
+      "Key": "4cdcebd7-2d57-478a-90b7-071dd0fad7a3",
+      "Value": "\"You'll laugh to know what I learned... It offers great power, a chance for a new life... To put it simply, it's a way to transfer your soul into a blood relative's body. It's not so bad, if you think about it. You could choose that red-haired cousin or the niece with sweet dimples on her cheeks...\" {n}Jaethal grins, making it clear that she was joking... probably.{/n} \"But all my kin are in {g|Kyonin}Kyonin{/g}, and it's forbidden for me to go there. And even if I did... I don't know if {g|Urgathoa}Urgathoa{/g} would be angry with my decision to regain a living body. I suggest we stop talking about the ritual. It's pointless.\""
+    },
+    {
+      "Key": "979e59dd-a8c9-443b-b9eb-2f0ed9b0e21c",
+      "Value": "\"Of course. It was... An interesting experience.\""
+    },
+    {
+      "Key": "4266aeee-83e4-46da-8f91-4a5c2e29a68e",
+      "Value": "\"I must admit, the half-blood surprised me. I can say... he deserves respect. It's strange, isn't it? One might instead say that he lived in prison house built of dogma, and died serving it. But he was something I cannot yet fully be — an inquisitor with a purpose, someone who sees no barrier in the service of their faith. I'd come to think that the infinite search for new sensations and pleasures was the essence of life, but perhaps this is... not enough?\""
+    },
+    {
+      "Key": "357ffde7-607f-4061-8a48-f01097e68294",
+      "Value": "\"Ah. That is my daughter. Did I mention her earlier? I should say the resemblance turned out to be superficial. Norte would not have reacted so cowardly if she rose as undead. I was a good enough teacher to raise her strong, restrained, sensible, and able to evaluate her situation before acting. She would have weighed everything thoughtfully, rather than immediately pleading for death.\""
+    },
+    {
+      "Key": "7e05cc29-04aa-4a67-b40e-a58d3af0bb2c",
+      "Value": "\"Certainly.\""
+    },
+    {
+      "Key": "d7b6daf8-b707-4262-8fdb-4b37ceb681c5",
+      "Value": "\"Perhaps... Perhaps you're right. I don't know why exactly the half-blood's story moved me so. I should stop thinking about it and find something exciting to occupy myself with.\""
+    },
+    {
+      "Key": "e0dd7cf8-43a3-4748-a17d-9e44d2eb5b27",
+      "Value": "\"Can we really choose our own way? I don't know. I shall meditate upon this.\""
+    },
+    {
+      "Key": "a145efc5-abaa-4fa9-9380-f7d86dd0e0d0",
+      "Value": "\"I'm trying to imagine — what would my life be like, if I had a goal as decisive and inspiring as that? So many new thoughts, so many disturbing notions. At one time, my fear of losing my sense of novelty led me to kill. What will come next? It's impossible to predict.\""
+    },
+    {
+      "Key": "de7412a0-c912-4f4f-80bf-6f795d66d2c8",
+      "Value": "\"First of all, a new {d|Jaethal Reborn}body{/d} awaits me. It will take much time to prepare for the ritual, but then... three times a day I make a list of what I shall do, once I'm alive again. I'll not limit myself in any way — for at least ten years. It's sad, but after that, I shall have to turn my mind from the joys of life and give birth to a future vessel. Perhaps it is better to have several of them. It will be necessary to choose the father carefully, so that the vessel turns out to be beautiful. I've no wish to spend centuries in some ugly form.\""
+    },
+    {
+      "Key": "746632dd-20d6-4798-919d-722eae64d870",
+      "Value": "\"The Goddess has blessed me and made me stronger. That is why she requires {d|Jaethal Kills Daughter}sacrifices{/d}, right? She's waiting for me in her domain. Continuing my service, one day I may be awarded the title of Herald, the chosen one among chosen ones. But do not worry — I shall remain here until your affairs in the {g|Stolen Lands}Stolen Lands{/g} are finished. I shall help you in everything. I can be grateful.\""
+    },
+    {
+      "Key": "d8f3770b-10eb-4990-8718-45cc978c3654",
+      "Value": "\"You must be wondering what the Goddess has awarded me with. It was promised to me that one day I shall go to the domain of {g|Urgathoa}Urgathoa{/g} to continue my service. If I continue to please my Goddess, someday I will be selected among the other chosen to be the Herald of her will. Until that time, I may live as I wish. Urgathoa bestowed a blessing upon me and breathed her power into me. Know this: until she calls me, I am at your disposal.\""
+    },
+    {
+      "Key": "41b2cdba-0423-4a87-9f8d-0769380c7ae9",
+      "Value": "\"This question is more complicated than it seems. An inquisitor is by nature the most zealous defender of their faith. — The hand of their Goddess in mundane affairs. When I received this title and power, I expected that {g|Urgathoa}Urgathoa{/g} would tell me my mission. But this never happened. The Goddess remains silent. There's only one reasonable explanation I can imagine: discovering what's expected of me is a part of my mission. So I reflect on this, make my prayers and wait for a sign.\""
+    },
+    {
+      "Key": "8eee14bc-f7d4-4b9d-8b34-d23e229923b8",
+      "Value": "\"Greetings!\" {n}Something has subtly changed — either in Jaethal herself, or in her attitude towards you.{/n} \"It's amazing how significantly our fates can change. Just yesterday I was lost, and hardly understood my own strength. I did not hear the voice the Goddess, and knew not the purpose of my un-life. Today I am triumphant. There is no longer any doubt, no burdensome connection with the past, and the road to a bright future lies before me. And it all happened thanks to you.\""
+    },
+    {
+      "Key": "09d63da5-8e6d-4b85-83cc-cc7476280803",
+      "Value": "\"From your question, I assume you're not from {g|Kyonin}Kyonin{/g}. Right?\""
+    },
+    {
+      "Key": "dc905a42-4156-4d63-bcfe-3cbee6dfcdcd",
+      "Value": "{n}Jaethal scoffs.{/n} \"News! It's not about elves. Believe me, {g|Kyonin}Kyonin{/g} today is still the grim mix of ruin and splendor it has been for ages.\""
+    },
+    {
+      "Key": "a4a88f32-905c-4f63-b9a8-e4d9a88a3655",
+      "Value": "\"I'm afraid my story sounded too skeptical. You should definitely visit {g|Kyonin}Kyonin{/g}! Only there can you really understand what it means to be an elf — with all the benefits and vices that come with it.\""
+    },
+    {
+      "Key": "6062b43e-caa1-4f32-9e0c-979d5f3ed305",
+      "Value": "\"I hope I answered your question? I tried to tell you like I would tell an ordinary short-lived person who's never been to {g|Kyonin}Kyonin{/g}.\""
+    },
+    {
+      "Key": "3c3a223a-c4d0-44be-b4d2-469b242d2d10",
+      "Value": "\"Then you'll understand what I tell you next.\""
+    },
+    {
+      "Key": "a99ef52e-d406-4b51-b2c0-f31311ea1736",
+      "Value": "\"Truly. But what a paltry fate — to settle for what you have, not even trying to achieve more! That's exactly why I did what I did.\""
+    },
+    {
+      "Key": "7139a6f5-d8e1-4939-aa46-13ee98e0fbc6",
+      "Value": "\"Impossible is a word for those who are afraid of change,\" {n}Jaethal says firmly. Then she continues, softer,{/n} \"But allow me to continue my story...\""
+    },
+    {
+      "Key": "e900a856-91bf-40fe-a34a-fc380c1dc4ec",
+      "Value": "\"I like your optimism. But sadly, I look at things more pragmatically, and I'm not inclined to indulge in illusions about my kin or myself. We're all doomed to age mentally. But...\""
+    },
+    {
+      "Key": "6faed1ca-2c5d-4ea2-81bb-0aaef8ef9141",
+      "Value": "\"Why do you ask? I know you pray to the Pallid Princess too... I must say, I'm glad. There aren't many countries whose leaders have the guts to accept her gifts!\""
+    }
+  ]
+}

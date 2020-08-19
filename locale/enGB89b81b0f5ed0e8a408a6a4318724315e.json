@@ -1,0 +1,105 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "c07b908c-003f-4ee6-9185-588f2db75827",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "015def25-71ef-4f8c-beb7-86f121122b45",
+      "Value": "\"Let me guess — you're the hero who's been knocking heads together in my lands?\""
+    },
+    {
+      "Key": "0cc69a62-da4e-41fb-a473-cd0ac032a603",
+      "Value": "[Attack] \"First impressions can be deceiving.\""
+    },
+    {
+      "Key": "84e5e044-cecc-4b71-ace8-63a93a232f4c",
+      "Value": "\"Why are you wearing this weird costume?\""
+    },
+    {
+      "Key": "5e834a9c-f4c6-47cf-b915-b6cbf7411164",
+      "Value": "\"You're dressed in strange clothes, hunting bandits... an odd thing to do.\""
+    },
+    {
+      "Key": "f370aeff-cecd-470b-b385-de377edc1866",
+      "Value": "\"Who attacked you?\""
+    },
+    {
+      "Key": "c37be44a-0f98-47ff-90cc-f03d62509a0d",
+      "Value": "\"You must be one of the locals. Otherwise, why perform such feats in my lands?\""
+    },
+    {
+      "Key": "1d60f2a6-a346-4da7-a3d6-322e5d7a3b9b",
+      "Value": "\"I like what you're doing. I hope the Stolen Lands will change for the better thanks to you.\""
+    },
+    {
+      "Key": "8d61217f-8ab9-4020-852c-c0700b858bfb",
+      "Value": "\"I won't interfere, but don't expect any help either. I don't know your motives, so I'm wary of you.\""
+    },
+    {
+      "Key": "cdc49572-dae6-4332-a9b6-9b0975f060e4",
+      "Value": "\"You make my guards and I look like helpless children. I don't need amateurs working to preserve law and order.\""
+    },
+    {
+      "Key": "89fd61e4-6ee1-4730-aa72-4446f3ce4d7c",
+      "Value": "[Attack] \"It's time to put an end to the story of the little hero bird.\""
+    },
+    {
+      "Key": "dd79073b-eae2-4206-a8df-47ada0352b47",
+      "Value": "\"I can't help asking... 'Osprey'? Why?\""
+    },
+    {
+      "Key": "64144eb1-1e56-4159-ab3f-f91a19342ac9",
+      "Value": "{n}The tall man bows to you politely, face hidden behind an iron helmet.{/n} \"The rumors are true, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. You're as noble as they say!\""
+    },
+    {
+      "Key": "59729ac6-9faa-49fa-bfaa-5d89e745e59e",
+      "Value": "\"You may call me Osprey, {mf|Baron|Baroness|King|Queen} {name}.\""
+    },
+    {
+      "Key": "dcfee714-4862-4f6d-bbd1-0ce0261044f8",
+      "Value": "{n}The man laughs out loud.{/n} \"You could say that! Although I hope my efforts resulted in more than just a few headaches.\""
+    },
+    {
+      "Key": "fc727a23-9ee4-4aa4-80e3-c361be2160fe",
+      "Value": "{n}Osprey looks at his attire and shrugs helplessly.{/n} \"Believe it or not, I'm not the last remaining member of high society. I could hardly do what I do without changing my appearance.\""
+    },
+    {
+      "Key": "064ff6e6-dd66-4bd1-bd5e-2691168c0ac3",
+      "Value": "{n}Osprey grins.{/n} \"Not the first time I've heard those words! I might look odd to a stranger. Or even crazy. But still...\""
+    },
+    {
+      "Key": "689b9b8d-d4d6-451d-91eb-a3c1d66d037a",
+      "Value": "\"Common cutthroats sell their conscience for a handful of coins. I'm sure the local merchants hate that the common folk have their own man who can't be bribed.\""
+    },
+    {
+      "Key": "2bfe9a96-9d35-44ca-b0dd-ffc0c77193e2",
+      "Value": "\"{g|Golarion}Golarion{/g} is full of injustice. There are those who take advantage of oppression. There are those who overlook evil right in front of them. And then there are those who commit their time and effort to making this world a better place. I think I'm the latter, regardless if I'm considered weird or mad.\""
+    },
+    {
+      "Key": "f5823089-befa-4a58-9a5b-6dd6376e14a8",
+      "Value": "\"Besides, as you can see, my profession can be dangerous.\" {n}Osprey points at the robbers' bodies.{/n} \"I don't want my most active enemies paying a visit to my friends or family. Let them hunt me instead, if they so desire.\""
+    },
+    {
+      "Key": "004940b5-9dd3-40de-8b43-674d622dfdea",
+      "Value": "\"Let's put it this way: you rule these lands better than dozens of other {mf|kings|queens} could. But like any other mortal, you're not almighty. And you're not alone. Osprey circles high in the sky, deadly and invisible. I can see in the distance what you don't. I'm the hand of your people, ready to help our just ruler.\""
+    },
+    {
+      "Key": "c8f4924c-c6ea-436d-a35d-b975c6ef710d",
+      "Value": "{n}Osprey looks you up and down.{/n} \"Ambition and power corrupt even the purest souls. I'll take my leave, but don't expect me to stop helping and protecting those in need. Farewell.\""
+    },
+    {
+      "Key": "5ab6699d-3011-4651-9eaa-95d831449319",
+      "Value": "{n}The man nods.{/n} \"I understand. It isn't easy to trust someone who won't reveal their face, is it? I do, however, hope my deeds speak louder than my words. Farewell.\""
+    },
+    {
+      "Key": "030315cc-ae8d-4329-a8ce-d84599ff7cde",
+      "Value": "{n}Osprey bows, this time sincerely.{/n} \"{mf|Your Grace|Your Grace|Your Highness|Your Highness}, if it is so, it will be thanks to our combined deeds. You set a fine example and give hope that the whole {mf|barony|barony|kingdom|kingdom} can live guided by conscience rather than heartless legislation. It was a pleasure meeting you, {name}. And now... I must go.\""
+    },
+    {
+      "Key": "f29b2678-691e-49ac-9e31-383046de255d",
+      "Value": "{n}You hear a muffled chuckle from behind the visor.{/n} \"A good bird. Sharp-eyed. Swift. Proud. Can't stand bad people.\""
+    }
+  ]
+}

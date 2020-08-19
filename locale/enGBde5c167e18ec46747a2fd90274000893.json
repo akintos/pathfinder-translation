@@ -1,0 +1,209 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "3b778a7f-60c1-4088-929b-cfc7c9b38088",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "3b294615-f782-4ce0-89b8-2cdfc362c429",
+      "Value": "\"What do you want from me?\""
+    },
+    {
+      "Key": "2a22e72c-1a23-484b-868f-8090b74e70bd",
+      "Value": "\"How did you die?\""
+    },
+    {
+      "Key": "8579fd02-344a-48dd-8c27-f74d3784e7b1",
+      "Value": "[Attack] \"No one dares to trespass inside my head. Die, monster!\""
+    },
+    {
+      "Key": "c5a7bd67-426a-4718-92aa-e682b9d6c9b0",
+      "Value": "\"I'd better go.\""
+    },
+    {
+      "Key": "a196696e-13cb-43f5-9bd3-aab8980a5892",
+      "Value": "\"Why must I be the one who does it?\""
+    },
+    {
+      "Key": "aa8f5a7b-772d-41c3-8cac-1f5344b92ff7",
+      "Value": "\"I don't have time for this.\""
+    },
+    {
+      "Key": "f35ce2fa-4651-46e4-808b-61f560b02f6b",
+      "Value": "\"Very well. I shall mete your vengeance upon the Stag Lord.\""
+    },
+    {
+      "Key": "3a96e1cb-0323-46f3-8664-f5a5e8d7d819",
+      "Value": "\"Can't you kill the Stag Lord yourself?\""
+    },
+    {
+      "Key": "5df76bb9-621c-45a8-bf9e-259e7b38c777",
+      "Value": "\"My answer is the same.\""
+    },
+    {
+      "Key": "576f0943-1999-41fa-a1a1-6eefd991136e",
+      "Value": "\"So it was you who sent me those nightmares?\""
+    },
+    {
+      "Key": "44436ea8-97a5-4c16-87ee-6d3a03d5f3b9",
+      "Value": "\"I've killed you already. How did you survive?\""
+    },
+    {
+      "Key": "34c3a0a9-8a9b-481d-a37e-62bb8f7cd4d3",
+      "Value": "\"I refuse to help you on principle. You shouldn't have messed with my head!\""
+    },
+    {
+      "Key": "739cad07-c2d8-4229-b593-a86252434534",
+      "Value": "[Attack] \"You dare to threaten me? You're no better than the Stag Lord and his bandits. I'll teach you a lesson!\""
+    },
+    {
+      "Key": "5f6dad8a-73d9-418b-ac78-2fe4c89cd833",
+      "Value": "[Attack] \"Killing you may be pointless, but I'll do it again anyway just for fun!\""
+    },
+    {
+      "Key": "c783d662-4bbb-440f-818a-b239642429c2",
+      "Value": "\"Isn't it beautiful that Urgathoa gifted you with undeath so you could see your death avenged?\""
+    },
+    {
+      "Key": "29e7c74b-94b1-47c3-8327-b17c0c358179",
+      "Value": "\"Revenge is a holy pursuit. Calistria would be pleased if I avenged you.\""
+    },
+    {
+      "Key": "969b8769-c771-47d7-ac89-f070f32195d9",
+      "Value": "\"Becoming undead — such a horrible fate! Pharasma would want me to help you find peace.\""
+    },
+    {
+      "Key": "d26f6e86-0048-4f97-b724-138ad9f9d516",
+      "Value": "\"Becoming undead — such a horrible fate! Sarenrae would want me to help you find peace.\""
+    },
+    {
+      "Key": "2adb6b4f-77ce-4309-a3b7-cf75c1bc3e7a",
+      "Value": "{n}The corpse's face is bloated from being so long in the water. The stench from its toothless mouth is so foul that your eyes begin to water. The hand, clenching a sinister-looking spear, is covered with scabs.{/n}"
+    },
+    {
+      "Key": "8efb770a-a637-4a7f-991e-1c8073057529",
+      "Value": "{n}Suddenly you feel faint — as if a cold, wet hand is placed heavy on top of your head. Wet hair sticks to skin, and trickles of icy-cold water run down your face and shirt. A hoarse whisper rises inside your head:{/n} \"There you are...\""
+    },
+    {
+      "Key": "ffc1f08b-e9ba-458e-a587-667caa59f1f1",
+      "Value": "{n}The bloated face of the drowned man yawns open at you. You feel once more faint, and the invisible wet hand falls upon your brow again.{/n} \"Greetings, {name}...\""
+    },
+    {
+      "Key": "921e7be4-1f84-4a05-9704-4f0d23b28739",
+      "Value": "\"Davik Nettle...\" {n}A storm of bright images flashes before your eyes. A long time ago, this person, then a living man, came here from Brevoy, constructed a rope bridge, built a house, and lived in it, collecting payment from those who crossed the river.{/n}"
+    },
+    {
+      "Key": "4c70c1c8-330d-4da8-8bd4-d1f1ce5279b5",
+      "Value": "{n}You see a vision of a man wearing an antlered helm. You hear a muffled groan, and the helm drops to the ground with a loud thud. Your hands are covered with hot blood... too much blood.{/n} \"Death... to the Stag Lord.\""
+    },
+    {
+      "Key": "079347ed-07db-47b9-b84b-c7cee079cc01",
+      "Value": "{n}You see a vision of a lovely spring day. Sunbeams shine warm against your cheeks. Three men approach the house by the bridge, one of them wearing an antlered helm.{n}\"The Stag Lord\"...{/n} Angry faces, a quarrel, the glint of an unsheathed sword... Suddenly the Stag Lord's greedy eyes are twisted by surprise. The master of the house has unleashed his hounds!{/n}"
+    },
+    {
+      "Key": "97a4592e-2b85-4601-a086-08cfea27dd08",
+      "Value": "{n}A burning smell stirs you awake to the sound of loud barking. Flames are crawling up the walls. The sound of breaking glass, the bitter cold night air... you are outside... Outside the house, and something is wrong. An arrow strikes deep in your shoulder. You hear the guffaw of ten throats. You run, already in the middle of the bridge. The man in the antlered helm cuts one of the ropes. An ear-splitting scream fills the air.{/n}"
+    },
+    {
+      "Key": "d763a3c9-a45c-4e35-99d6-b435c70b5283",
+      "Value": "{n}You feel invisible fingers, cold as stone, draw aside a wet strand of hair from your forehead.{/n}"
+    },
+    {
+      "Key": "e813316b-13ea-4437-af7a-d688a0110d66",
+      "Value": "{n}You are taken in a whirlwind of visions and images, and you see... yourself! You lie with your eyes closed, thrashing in your sleep... finally you scream and wake, drenched in cold sweat.{/n}"
+    },
+    {
+      "Key": "42a167ea-ca5b-47b3-9f0c-4b2e75e39560",
+      "Value": "{n}The drowned man, who'd been sitting motionless, nods his head.{/n} \"Come later... take the spear...\""
+    },
+    {
+      "Key": "dc66bdcd-6f94-4345-bb0f-4ccbc32d85d5",
+      "Value": "{n}You see the Stag Lord and his cutthroats trying to build a new bridge here... Then running madly away from the rotting monster. The Stag Lord has avoided this place ever since.{/n}"
+    },
+    {
+      "Key": "7534fd8c-501c-4253-900e-76e3f4465a62",
+      "Value": "{n}The drowned man grins at you with blue lips.{/n}"
+    },
+    {
+      "Key": "73ba586c-4876-43d4-a863-677951eb7d18",
+      "Value": "\"Stag Lord... is dead... {g|Pharasma}Pharasma{/g} awaits... Farewell, {name}...\""
+    },
+    {
+      "Key": "496580f3-fc70-4743-b21c-d83d9dd92065",
+      "Value": "{n}Gurgling, deep-chested laughter pierces your skull, clouding your vision and flooding your ears. All else becomes muffled, as if you are trapped underwater. You shake your head to cast off the apparition.{/n}"
+    },
+    {
+      "Key": "3530a638-3234-4b08-8a6d-e86a41e4ec61",
+      "Value": "\"I sense evil... But not evil committed by this poor soul, no. He arose on account of some evil done to him.\""
+    },
+    {
+      "Key": "e091b6ec-eb05-4966-821d-fd768d3547f3",
+      "Value": "{n}Jaethal winces in disgust.{/n}"
+    },
+    {
+      "Key": "fc01cdf2-0a09-4d8a-ae8e-1f48b7468c76",
+      "Value": "\"Why not? Isn't this the very mission that brought us here in the first place?\""
+    },
+    {
+      "Key": "85bfbf2a-6f97-45d1-a40c-5ebc7769338c",
+      "Value": "\"Don't you hate it when someone asks you to do something you were going to do anyway? It makes me want to do nothing, just to spite them!\""
+    },
+    {
+      "Key": "b01e6db2-be8d-443e-bf20-b0e430e6520c",
+      "Value": "\"Well, at least we won't be doing it for free.\""
+    },
+    {
+      "Key": "d8eaa400-2ce9-4849-96aa-52e7074133c8",
+      "Value": "\"I would help him even if he wasn't going to pay. He has such a hard life... Well, a hard undeath. That must be even harder!\""
+    },
+    {
+      "Key": "7617c7f7-b0f7-4cc9-9330-85f0a0ed4d07",
+      "Value": "\"You're always helping scum like this for free. As if our own lives are easy!\""
+    },
+    {
+      "Key": "3c56863d-024f-4921-a932-13e78364577a",
+      "Value": "\"Right, no more chatting with corpses! Let's hang him out to dry so he'll stay out of your head!\""
+    },
+    {
+      "Key": "44e150ea-cadd-4cd1-ac77-6467d6cfda94",
+      "Value": "{n}Without a sound, the dead man rushes to attack you.{/n}"
+    },
+    {
+      "Key": "114524ba-be34-4bf4-8daf-cc7f81616d3d",
+      "Value": "\"You freed an innocent soul from eternal torment, {name}. Yours is truly a noble soul.\" {n}Tristian lowers his head and begins whispering a prayer.{/n}"
+    },
+    {
+      "Key": "03cf6d66-1eda-4359-bd8e-fcbbe31ee1aa",
+      "Value": "{n}The corpse crumples to the ground.{/n}"
+    },
+    {
+      "Key": "fe816ea6-9323-42ff-bc91-2cb58a8cbf9e",
+      "Value": "\"But why? We may have the power to help him!\""
+    },
+    {
+      "Key": "b03c090a-3ca1-4e0e-bfd5-f43e0a98a3ca",
+      "Value": "{n}A series of visions flash before your eyes — you see the Stag Lord dying in a variety of horrible ways: impaled, beheaded, drowned, immolated... The dead man lets out a moan full of rage and anguish.{/n}"
+    },
+    {
+      "Key": "c53b1b6c-890e-404a-8989-543acbb777c2",
+      "Value": "{n}The dead man bows his head. For a moment, a vision of a peaceful rural cemetery appears before your eyes.{/n}"
+    },
+    {
+      "Key": "0745c800-0386-43ee-b1cd-e13a2333d4bb",
+      "Value": "{n}Octavia nods without saying a word.{/n}"
+    },
+    {
+      "Key": "d11bd660-f7ea-4f6e-a274-fb9d2d73e44d",
+      "Value": "\"Right! Let's go make the goddess proud!\""
+    },
+    {
+      "Key": "e6fcada9-cc47-4e98-92ef-4ff09cb44451",
+      "Value": "\"I certainly wouldn't call him beautiful, but you're right — there's a reason the goddess bestows her gifts, even on lowly peasants like him.\""
+    },
+    {
+      "Key": "1c153e65-689a-41e3-a719-d6b2c917bbe9",
+      "Value": "{n}Jaethal turns away, scowling.{/n}"
+    }
+  ]
+}

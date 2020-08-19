@@ -1,0 +1,217 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "159c834a-ce77-429a-be74-5c76345f3e1d",
+      "Value": "\"Tell me about yourself, please.\""
+    },
+    {
+      "Key": "c3930aeb-0790-482e-b200-e79441e81259",
+      "Value": "\"A crime has taken place nearby. The one responsible may be hiding in this house. Have you seen anything suspicious?\""
+    },
+    {
+      "Key": "8440ca77-f28d-4c38-b9a1-0903e93141c3",
+      "Value": "\"I'll come back to you later.\""
+    },
+    {
+      "Key": "73e99e36-0cc4-48ff-8e48-e4eec531967d",
+      "Value": "\"Far from Brevoy, are you not?\""
+    },
+    {
+      "Key": "99a0fbae-b183-4d4c-b5c6-17be3660d39e",
+      "Value": "\"Do you prefer snares? Or a bow?\""
+    },
+    {
+      "Key": "0634ee2c-610b-48f6-b595-02309cfece02",
+      "Value": "\"What kind of prey do you hunt?\""
+    },
+    {
+      "Key": "683abec5-ddba-4556-93c2-aced5fe00f32",
+      "Value": "\"An odd place to rest for the night.\""
+    },
+    {
+      "Key": "18d9463b-03d5-4de2-9370-da9f3851a3a8",
+      "Value": "\"The woman in the kitchen — your cook?\""
+    },
+    {
+      "Key": "9ff66c65-4713-41eb-a30f-be8b0e9a36f9",
+      "Value": "\"Have you seen anyone suspicious?\""
+    },
+    {
+      "Key": "37226632-27d7-4682-b388-44d702136eab",
+      "Value": "\"Do you know the hostess of this lodge?\""
+    },
+    {
+      "Key": "aa2c0689-34e9-4870-928e-db0e2b9b791a",
+      "Value": "\"Do you recall who came to the lodge in the last hour or so?\""
+    },
+    {
+      "Key": "65f2b976-31a0-4fba-8915-adff1fec171a",
+      "Value": "\"I've been to your room. I found no hunting weapons there.\""
+    },
+    {
+      "Key": "c45c3644-ba00-4482-950a-df0415bf7182",
+      "Value": "\"I need a key to your room.\""
+    },
+    {
+      "Key": "c922698a-3e25-443a-bd4b-502d6263ccd2",
+      "Value": "\"A legalist? So you are a judge?\""
+    },
+    {
+      "Key": "8781c986-c42a-4821-9b89-e3ea9c831dc2",
+      "Value": "\"Oh, yes! Of course, Kabron Tedrim! I've heard about you and your famous legal cases!\""
+    },
+    {
+      "Key": "37149678-285b-4dd0-8e62-4a93708e4543",
+      "Value": "\"Let's go back to other questions.\""
+    },
+    {
+      "Key": "69dbf164-6c72-424c-ae53-d50335874dee",
+      "Value": "\"Well, with a difficult job like yours it's impossible to get by without some divine support. Whom do you address your prayers to?\""
+    },
+    {
+      "Key": "b5f2025a-629f-42fd-9ca0-35a0adba2a2c",
+      "Value": "\"Let's go back to other questions.\""
+    },
+    {
+      "Key": "aa3c4aea-4639-4728-baeb-36ed2b6ff79b",
+      "Value": "\"You've recognized me at once. Do I know you?\""
+    },
+    {
+      "Key": "3dc7634d-d80d-44dd-ba4a-49d094625b8e",
+      "Value": "\"Well, I hope you enjoy your hunting. Let's change the topic.\""
+    },
+    {
+      "Key": "89c7bde1-2f9f-4b19-8f02-b77f0a86169c",
+      "Value": "{n}A bearded, middle-aged man stands before you. He wears a massive gold chain on his neck. The woman beside him gives a polite smile and a nod as you approach.{/n}"
+    },
+    {
+      "Key": "4060bfe8-a6d0-4920-bcf7-31888e0baad7",
+      "Value": "\"Greetings, {mf|baron|baroness}\". {n}The man's voice is so low as to rumble.{/n} \"Let me introduce myself — Kabron Tedrim, from {g|Restov}Restov{/g}.\" {n}He nods to the woman beside him.{/n} \"And this is my wife, Una Tedrim. We've come to your lands to hunt — yet, I admit, we did not expect to meet you in person. To what do we owe this honor?\""
+    },
+    {
+      "Key": "71c77cd2-2514-407e-949f-0a9fc7d5f2b2",
+      "Value": "{n}Kabron Tedrim lowers his head.{/n} \"Your Grace?\""
+    },
+    {
+      "Key": "518f9c94-42d6-47ae-a68b-e493ab89d556",
+      "Value": "\"I'm a legalist, {mf|baron|baroness}.\" {n}Kabron hooks his thumbs into his embroidered belt. {/n} \"My job is to ensure {g|Restov}Restov's{/g} laws are upheld. My wife is a keeper of the hearth and my loyal companion in prolonged journeys.\""
+    },
+    {
+      "Key": "2f863057-ed8f-4d24-bbfd-1bda165f76ac",
+      "Value": "{n}Una nods without a word, her gaze fixed on you.{/n}"
+    },
+    {
+      "Key": "dbc63bc7-d699-43b0-8206-b0942105645d",
+      "Value": "\"You see, erm...\" {n}Kabron clears his throat.{/n} \"I've heard the wildlife here are excellent sport. So I decided to see for myself — sort truth from rumor, you understand. Fortunately, my fair wife was in favor of the trip — so here we are.\""
+    },
+    {
+      "Key": "392c03bd-7a7f-471b-a173-75cc7e3aee1d",
+      "Value": "\"Erm… a bow.\""
+    },
+    {
+      "Key": "be2d39bb-9863-4a5a-ab82-2c6572177271",
+      "Value": "{n}Kabron freezes.{/n} \"I...\" {n}He swallows.{/n} \"Cougars.\" {n}He swallows again, as if fighting to take a breath.{/n} \"Magnificent predators. Worthy prey. For a worthy hunter.\" {n}He gives an awkward smile. {/n}"
+    },
+    {
+      "Key": "a958cd2d-d7d8-4230-9661-125a51b81d5b",
+      "Value": "\"Why, {mf|baron|baroness}!\" {n}Una gives a false smile.{/n} \"We adore this… charming dwelling!\" {n}She glances around the dim hall — her smile remains, but you notice she raises an eyebrow at her surroundings, as if in judgment.{/n}"
+    },
+    {
+      "Key": "c651a9be-40d1-462a-8f8f-1806b0599da4",
+      "Value": "{n}Kabron nods quickly.{/n} \"Yes! We… We just can't imagine our lives without Tsanna.\""
+    },
+    {
+      "Key": "f5ba4cc8-edb2-4605-97b4-9c73337b9d27",
+      "Value": "{n}Una coughs delicately.{/n} \"My constitution demands a... unique diet.\" {n}She studies you closely.{/n} \"A private matter, if you don't mind.\""
+    },
+    {
+      "Key": "2ab9d84f-3387-42a9-82b4-e285689fa16c",
+      "Value": "{n}The Tedrims exchange glances.{/n} \"I'm afraid, Your Grace,\" {n}Kabron looks downcast.{/n} \"We won't be able to help you.\""
+    },
+    {
+      "Key": "94ba292c-2c26-4463-bd98-317f714a3160",
+      "Value": "{n}Despite Una's cool expression, you notice a bead of sweat running down her temple. As she spots your glance, her lips tighten. {/n}"
+    },
+    {
+      "Key": "f25a0e0e-cd99-433d-acd9-bfa0f01c7159",
+      "Value": "{n}Kabron becomes white as a sheet.{/n} \"Erm… you see… well...\" {n}He licks his lips, which are now trembling slightly.{/n}"
+    },
+    {
+      "Key": "bf11c4b0-cf88-41f9-be8c-bb5192932ff5",
+      "Value": "{n}You barely hear Una's hiss. {/n} \"Get a hold of yourself, you fool. You'll ruin everything.\" {n}These words seem to have the desired effect — Kabron suddenly straightens and smiles.{/n}"
+    },
+    {
+      "Key": "1602e48a-1f39-456c-aad0-2c032d3c9e40",
+      "Value": "{n}His wife's gentle support have had an almost enchanting effect on Kabron — he suddenly straightens and smiles as if nothing happened.{/n}"
+    },
+    {
+      "Key": "8c41f6d4-5fc6-4748-8885-7d6a3b8bd3ae",
+      "Value": "\"Truth be told, it's a rather embarrassing matter...\" {n}Kabron gives a hollow chuckle.{/n} \"I proved a much worse hunter than I thought. Just imagine — I managed to snap not one, not two, but three bow-strings in a day! Infuriated, I broke my bow across my knee! It shames me to even speak of it...\""
+    },
+    {
+      "Key": "7fa8e188-22b9-4db6-9ca6-ffbe4e6e0a2e",
+      "Value": "{n}Una smiles gently and looks aside.{/n}"
+    },
+    {
+      "Key": "663e5f64-5c67-41bc-a379-0325ed2be90a",
+      "Value": "{n}Kabron Tedrim freezes as if someone put a knife to his throat.{/n} \"Is... is that so?\" {n}He tries to smile, but his eyes are fearful. {/n} \"I d-doubt, {mf|baron|baroness}, that anything you heard concerned me... my family name is a common one... I've so many relatives, I know not a quarter of them...\" {n}He clears his throat.{/n}"
+    },
+    {
+      "Key": "ac6d1d98-9e67-44e9-9710-08ad07013e7d",
+      "Value": "{n}Kabron raises an eyebrow.{/n} \"I doubt it, Your Grace, My legal cases are not so famous to be known outside {g|Brevoy}Brevoy{/g}.\""
+    },
+    {
+      "Key": "2acc8e0c-9ee7-4f45-84dc-a61f67ca8d11",
+      "Value": "{n}Kabron smiles slightly. {/n} \"Not exactly. I work as a legal defendant in cases when a suspect's innocence must be proven. And, I admit, I have moderate success in this field...\" {n}Kabron seems about to elaborate, then stops.{/n} \"No need to bother you with tedious tales from the courts.\""
+    },
+    {
+      "Key": "58d6a5d7-046f-49a9-a613-f722d44081e4",
+      "Value": "\"Why, to Abadar, of course! Divine patron of law and lawyers!\" {n}Kabron looks at you intently.{/n} \"Surely, you are aware of {g|Abadar}Abadar{/g}, are you not? You must be! No matter, no matter.\""
+    },
+    {
+      "Key": "dd7369bc-bfd8-4809-90fb-713a6f704035",
+      "Value": "\"As you wish, Your Grace.\""
+    },
+    {
+      "Key": "d0631736-e1ed-46f2-a106-37c62199bbe3",
+      "Value": "{n}Kabron looks around the hall.{/n} \"We are not accustomed to such company, {mf|baron|baroness}. Besides, from the {g|Restov}Restov{/g} legalist's point of view, every person in this room is suspicious.\""
+    },
+    {
+      "Key": "4d5f96cb-fb80-4647-b09d-81c55d2c89ea",
+      "Value": "\"No, I don't.\" {n}Kabron rubs his brow.{/n} \"And I must say, she doesn't look forward to meeting new people either.\""
+    },
+    {
+      "Key": "6509377d-af06-4be7-9497-0ec65792f04c",
+      "Value": "{n}Kabron casts a look behind you.{/n} \"On second thought… this young woman… I didn't notice exactly when she entered the room.\" He turns to his wife. \"My dear, perhaps you recall? What was the name our hostess used addressing her?\""
+    },
+    {
+      "Key": "fedaf873-4bf8-4f70-8a17-dd933a17e5d3",
+      "Value": "\"Olika, sweetheart.\" {n}Una shrugs faintly.{/n} \"I cannot recall if I saw her at the start of the evening.\""
+    },
+    {
+      "Key": "d3658285-ca3c-4097-847a-984eebb7ff27",
+      "Value": "{n}Kabron nods.{/n}"
+    },
+    {
+      "Key": "97150bd6-d8eb-4921-9e48-6eca048709b9",
+      "Value": "{n}Una Tedrim raises her head.{/n} \"We've decided a trip was in order. My husband worked long hours during the last several months, so he felt a journey would be good for us.\""
+    },
+    {
+      "Key": "9bd87319-0962-4b44-8b37-20b737e21e67",
+      "Value": "\"I doubt it. But news about developments within the {g|Stolen Lands}Stolen Lands{/g} — and your role in them — has traveled far. {name} — is a well-known name beyond your borders.\" {n}Kabron gives a polite half-bow.{/n}"
+    },
+    {
+      "Key": "4146a2c0-ae45-4248-a8d6-9e0390171599",
+      "Value": "{n}Kabron takes a key from his purse and hands it to you.{/n} \"As you wish, {mf|baron|baroness}.\""
+    },
+    {
+      "Key": "3a9517e0-567a-4e28-8254-61e35e2bf76c",
+      "Value": "{n}Una, who was watching her husband closely, touches his shoulder lightly.{/n} \"I beg your pardon, {mf|baron|baroness}.\" {n}She leans in to Kabron and whispers something in his ear.{/n}"
+    },
+    {
+      "Key": "1b23df5b-b9a8-4cec-b7b6-d75c7cc72f14",
+      "Value": "\"My pleasure.\""
+    }
+  ]
+}

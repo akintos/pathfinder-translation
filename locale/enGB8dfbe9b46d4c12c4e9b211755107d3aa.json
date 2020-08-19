@@ -1,0 +1,105 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "eff6808f-c93d-45fc-8877-edfd9f110a12",
+      "Value": "\"How fares the academy?\""
+    },
+    {
+      "Key": "d8389c3b-8840-4e7b-b9b3-18143a215cf9",
+      "Value": "\"I hear you're not exactly thrilled by Irovetti's power...\""
+    },
+    {
+      "Key": "2693c9ce-86bd-42e9-b466-dccf463b8f93",
+      "Value": "\"Who might you recommend I meet here?\""
+    },
+    {
+      "Key": "2d76422c-9bf7-4a58-b805-7081ba183832",
+      "Value": "\"Farewell.\""
+    },
+    {
+      "Key": "0ad4f993-eafb-46fe-a59f-64bbfcceac59",
+      "Value": "\"I get the impression that something's upsetting you.\""
+    },
+    {
+      "Key": "ced466be-3b4f-414f-900e-a053967146f9",
+      "Value": "[Attack] \"Down with schools and teachers!\""
+    },
+    {
+      "Key": "e30eaa4a-1a09-45f1-904d-eb6ed6928f3e",
+      "Value": "\"What did you mean when you mentioned the circumstances surrounding Eobald the Insightful's dismissal?\""
+    },
+    {
+      "Key": "601f3e5c-668e-4e6a-8a80-398720cc8151",
+      "Value": "\"Linzi has some interesting news for you...\""
+    },
+    {
+      "Key": "d59a4b19-e917-4367-bd54-7ae1002b7af5",
+      "Value": "\"Annamede Belavarah told us why you expelled Eobald from the academy.\""
+    },
+    {
+      "Key": "ceab9af8-c6ec-40e5-ac20-22878fbf8459",
+      "Value": "\"Greetings, Your Highness! I'm Atalia Gitaren, Headmaster of the {g|Academy of Grand Arts}Academy of Grand Arts{/g}. Welcome to the tournament. Is this your first time here? I'll be honest, I'm delighted to hear what you've done with {kingdomname}! Not so long ago, it was little more than a hole in the ground... but you've brought it real civilization! Bravo!\""
+    },
+    {
+      "Key": "8e290898-5a74-4ad2-9e21-ba70e4583a38",
+      "Value": "\"Greetings, Your Highness. How do you find the tournament?\""
+    },
+    {
+      "Key": "d47d714e-5c8b-403a-afaa-8d525a388871",
+      "Value": "\"Forgive me, Your Highness, but this is defamation. My students and I owe everything we have to King Irovetti. If not for him, the {g|Academy of Grand Arts}Academy of Grand Arts{/g} wouldn't even exist. It would be base ingratitude on my part to engage in any conspiracy against our patron. You must have me confused with {d|Annamede}Annamede Belavarah{/d} — she's certainly always ready to bite the hand that feeds... or caresses.\""
+    },
+    {
+      "Key": "64810c1d-0109-45f8-b91c-caa3205d13e4",
+      "Value": "\"There are many respectable attendees today. You already know King Irovetti, of course. You should be sure to speak with High Priest Drey Yarnes, as well — he's truly a wise and honorable man.\""
+    },
+    {
+      "Key": "d5569144-bf49-496e-b72d-9d5ff6776edc",
+      "Value": "\"And if I may give you one piece of advice — beware of Kharne Vereel. He may be business partners with King Irovetti himself, but those who deal with him usually find themselves in a bad way. Since he showed up in the city, our dear captain of the guard, Irsei Caelysse, has so much more work that he-\" {n}Atalia stops short, covering her mouth.{/n} \"Forgive me, I've probably said too much.\""
+    },
+    {
+      "Key": "26ea5452-f0d3-404b-8f94-7c09688f6de4",
+      "Value": "\"It was a great honor and exquisite pleasure to meet you.\""
+    },
+    {
+      "Key": "fa4cdb13-9264-4c6f-9089-e04cdbafcb80",
+      "Value": "\"Oh, no, please don't worry. I'm just disappointed that one of our best students — Trebricent of {g|Cordelon}Cordelon{/g} — couldn't be here today. He could be singing in any capital, but the king chose to send him to some backcountry village called {g|Littletown}Littletown{/g}... Of course, His Highness would never squander talent, so I'm sure we'll hear from Trebricent again. But still, I do worry.\""
+    },
+    {
+      "Key": "09032c86-20b6-4020-8c22-87642e1cb635",
+      "Value": "\"Oh, just splendid! If you ever find time to visit {g|Pitax}Pitax{/g}, I'd gladly give you a tour. We're currently holding an exhibition of our graduates' works. Though it's a pity that... No, no, it's fine. Believe me, we have plenty worth coming to see and hear!\""
+    },
+    {
+      "Key": "b1d9f609-7e4e-4f4b-aa96-ff371357c03b",
+      "Value": "\"Oh, yes, Headmaster...\" {n}Linzi puts on an oversweet smile.{/n} \"Not so long ago, Professor\n{d|Eobald}Eobald{/d} the Insightful came to us. It's truly a pity that His Highness King Irovetti had to deprive the academy of such an outstanding teacher! He's writing his memoires of his time at the {g|Academy of Grand Arts}Academy{/g}, you know. I'm sure it'll be an entertaining read for everyone in {g|Pitax}Pitax{/g} — no, all of {g|Avistan}Avistan{/g}!\""
+    },
+    {
+      "Key": "0b4437a6-63d7-4645-9b71-070b07ce5b2d",
+      "Value": "\"A book, you say? How brave of him. I hope he doesn't neglect to include the details of his dismissal.\" {n}Atalia's voice is ice cold and bone dry.{/n}"
+    },
+    {
+      "Key": "b99a5099-607b-4c7c-9d39-e6b5c036f3a5",
+      "Value": "\"What details? What do you mean? Irovetti kicked Professor Eobald out for... just... being too smart, didn't he?\""
+    },
+    {
+      "Key": "4e759717-68f4-4989-a86d-df5176816d5e",
+      "Value": "\"I'm sure that's exactly how he described it. They call him 'the Insightful' for a reason, after all. Anyway, forgive me, but I've no interest in discussing this topic further. If you'd like to exchange idle gossip, I'm sure you can find much more willing and interesting company here. I suspect you know to whom I'm referring.\""
+    },
+    {
+      "Key": "7cf1ba15-c202-4a70-be71-844a5dfdd356",
+      "Value": "\"Forgive me, Your Highness, but I'd prefer not to discuss the subject. If you're truly so interested, I'm sure there are more than a few slanderers who would gladly share all the dirty details with you.\""
+    },
+    {
+      "Key": "a84d96fc-b1ef-4945-baf1-428d67abfcde",
+      "Value": "\"Yes! Professor {d|Eobald}Eobald{/d} found refuge in our capital. And you know what? He's writing his memoires of his time at the {g|Academy of Grand Arts}Academy{/g}! I'm sure it'll be an entertaining read for everyone in {g|Pitax}Pitax{/g} — no, all of {g|Avistan}Avistan{/g}!\""
+    },
+    {
+      "Key": "c1940b62-5cd0-4ffa-b93d-516b5056a420",
+      "Value": "\"I've no interest in what that individual told you. Please, let's discuss something else.\""
+    },
+    {
+      "Key": "2c9619b4-20ab-4db0-9f3e-a3bd36727414",
+      "Value": "\"Trifling hints, veiled accusations... I smell old rivalry and resentment here. You should take note of that, {name} — there may be an advantage in the feud of two mellifluous predators.\""
+    }
+  ]
+}

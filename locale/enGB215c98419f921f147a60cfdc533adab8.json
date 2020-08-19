@@ -1,0 +1,101 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "583ef2c2-9bea-41ff-a724-31c8c988b62f",
+      "Value": "{g|Relations4_1}[Choice effects]{/g} \"Help the guards find and arrest the runaway elf.\""
+    },
+    {
+      "Key": "685848fe-e867-4542-b7a6-9e68cdcb3d0c",
+      "Value": "{g|Relations4_2}[Choice effects]{/g} \"Make sure the elf reaches Kyonin.\""
+    },
+    {
+      "Key": "4172a43b-e57a-4b0e-8906-24f46ddc74c2",
+      "Value": "\"Decide his fate as you see fit.\""
+    },
+    {
+      "Key": "ce4f2372-dbaa-4132-b7c3-061fba06d2f0",
+      "Value": "\"Tell me about this conflict between Sevenarches and Kyonin.\""
+    },
+    {
+      "Key": "3836d1ce-2a1b-4b9d-a521-b1aa8bfbb7d8",
+      "Value": "{g|Relations4_3}[Choice effects]{/g} \"We aren't going to interfere in this matter.\""
+    },
+    {
+      "Key": "cbc2d484-9199-488d-9916-e176043d783a",
+      "Value": "\"There is a guard detail from Sevenarches at the border. They were sent by the Voice of the Wind – one of the elder druids who rule Sevenarches, a diplomat and chief scout. Their guard keeps insisting there's an elf hiding in our lands, a fugitive who slipped out of their city.\""
+    },
+    {
+      "Key": "8174b74e-1bb6-46a2-a818-1aca1b1a25eb",
+      "Value": "\"But now to the point. – A guard detail from Sevenarches has been stopped at the border. They've been sent by the Voice of the Wind, a druid charged with diplomacy in this River Kingdom. The guards are hunting some elven criminal, a fugitive who is hiding in our lands. They've asked us to provide support, and seem concerned that we might instead help him escape to {g|Kyonin}Kyonin{/g}.\""
+    },
+    {
+      "Key": "de1f9c86-1a4c-44e7-a8ba-a56f500d36b3",
+      "Value": "\"For now let me simply report one of such delicate matter. There's a guard detail at the border, sent by the Voice of the Wind – a druid and diplomat from Sevenarches. They're hunting a criminal, an elf who's escaped to our lands. I would imagine they're worried that someone might help the fugitive get to {g|Kyonin}Kyonin{/g}, and ask our assistance in hunting him down.\""
+    },
+    {
+      "Key": "a504aee5-4cdc-49b1-a912-079e08690c7e",
+      "Value": "\"Very good! We will catch the criminal and hand him over to Sevenarches. I'm sure the Voice of the Wind will appreciate the gesture... and might even have some information to share about our neighbors.\""
+    },
+    {
+      "Key": "23d9075f-ef5a-423b-b221-eb73733dbc38",
+      "Value": "\"Helping him get home is the nice thing to do. I'll make sure we find the elf and get him back home safely. I'm sure {g|Kyonin}Kyonin{/g} will appreciate the friendly act! They might even send a letter of gratitude... along with some ancient magical books... Oh, I should stop daydreaming!\""
+    },
+    {
+      "Key": "04af82ee-40f2-4536-9e56-3f78baabd24e",
+      "Value": "{n}Linzi shifts from foot to foot.{/n} \"{name}, not all diplomatic problems are solved openly. Sometimes a problem needs to be concealed, and sometimes knowledge must be cyphered, and secrets overheard. To do this you would need a spy chief. I'm not fit for the job – I'm used to speaking my mind, not keeping silent. Please find a worthy 'minister' for this position, and meanwhile I will try to handle today's delicate matter.\""
+    },
+    {
+      "Key": "d9e62aed-17c0-4bb4-a484-61cba81f6cea",
+      "Value": "\"{name}, I was born in a noble family, so I can imagine why you decided to entrust me with a diplomatic position. I understand how noble persons think, and how they should be addressed. But I also know that the nobility doesn't always solve their problems openly. Sometimes a dagger, or poison, or a purse of gold in the right pocket can do far more than charters and official letters could hope to achieve. But I myself am no infiltrator. These methods disgust me. You should choose... some other 'minister' to lead your spies.\""
+    },
+    {
+      "Key": "1abad9fe-b766-4231-b920-62c8ac8b6243",
+      "Value": "\"{mf|Your Grace|Your Grace|Your Highness|Your Highness}, more and more delicate issues arise with our neighbors. You need a spymaster... who should, of course, simply be called 'a minister'. I could certainly hold this position, but a spymaster sometimes learns too much about his {mf|lord|lady}, and I wouldn't want you to have even a shadow of a doubt about my loyalty.\""
+    },
+    {
+      "Key": "353e2534-965c-4789-9f84-c6206fedbd0f",
+      "Value": "\"Sevenarches are built on a spot that is sacred to elves. The elves fled from there once, and druids, the Oakstewards, have ruled there ever since. The elves of {g|Kyonin}Kyonin{/g} would like to return their shrine, or at least be granted access to it. But druids are wary of Kyonin, and feel hostile to any elves on their territory.\""
+    },
+    {
+      "Key": "0c93c447-af8c-41ce-b934-566cea428ac0",
+      "Value": "\"The elves' ancestors even built the seven arches which give the city its name. Then elves abandoned their shrines, or to put it more precisely – they fled. The druids then came to this place to make it their own. Now the Oakstewards rule there.\""
+    },
+    {
+      "Key": "a538c36d-9e7e-4bad-9d5a-6f54fa30571b",
+      "Value": "\"The elves claim they built seven arches for which the city is named, though the evidence of this is questionable. Anyway, the elves fled these lands, and druids of the bolder tribes claimed this land for themselves, any built a flourishing settlement.\""
+    },
+    {
+      "Key": "6a02b01f-e743-4024-b748-1ce98dafeee0",
+      "Value": "\"Hm... At least that way we won't be hurting anyone. But we aren't helping either...\""
+    },
+    {
+      "Key": "084648ec-943d-4089-b25e-6b61fcc8c6ca",
+      "Value": "\"Very good. We won't help anyone, as we have no proof of anyone's guilt or innocence.\""
+    },
+    {
+      "Key": "e4b2d833-a3d6-4713-a7b1-57b1d7140e66",
+      "Value": "\"Well, we won't make any enemies this way. But we won't get useful allies either... though we might have!\""
+    },
+    {
+      "Key": "68272294-c5b9-409b-b084-fdef08a13312",
+      "Value": "\"They asked us to help capture him, or at least not to hinder their search. But in Sevenarches they'll say an elf is a 'criminal' when they really mean he's a 'hindrance'. Since it wasn't us who sentenced him, why should we assume that he's the villain? It would be better if find him and help him get back home to {g|Kyonin}Kyonin{/g}.\""
+    },
+    {
+      "Key": "18e311ee-bf6e-4676-8c91-80d68b84b3b0",
+      "Value": "\"I don't advise taking either side. Everyone knows that the people of Sevenarches have no love of elves and rarely judge them equitably. But everyone has heard of the elven conspiracy to reclaim Sevenarches for themselves. Either way, this argument has nothing to do with us. I recommend you refuse to allow the guards onto our lands, but don't help the runaway elf either.\""
+    },
+    {
+      "Key": "844a9ba5-ad5d-41c6-b7c2-3bc881e9cdb6",
+      "Value": "\"The Voice of the Wind is very knowledgeable. The winds whisper many secrets to him. It is wise to befriend such useful persons. If we must give them the elf to win their favor, then I'd consider it a bargain no matter who he is or what he's done.\""
+    },
+    {
+      "Key": "e297899d-a9f5-41a3-9a57-529fe0e25f84",
+      "Value": "\"The elves of {g|Kyonin}Kyonin{/g} keep trying to return Sevenarches, though they abandoned the place many centuries ago. Meanwhile, the druids see a spy in every elf, and won't tolerate them on their land, although without the elves there wouldn't be any arches at all! Anyway, it's a complicated story, with no one clearly in the right or wrong.\""
+    },
+    {
+      "Key": "b2f7d54a-12a4-4bfe-a00c-c58a6ae807ca",
+      "Value": "\"Now the elves of {g|Kyonin}Kyonin{/g} are demanding the return of Sevenarches – as the land is supposedly sacred to them! Though if you ask me, such a demand smells of deceit. In any case, the Oakstewards who now rule Sevenarches have refused. As a result there's very little peace between them.\""
+    }
+  ]
+}

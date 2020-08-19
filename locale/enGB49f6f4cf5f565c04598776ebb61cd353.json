@@ -1,0 +1,41 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "13e3f54f-7179-48f3-9016-01c21f1a7b2e",
+      "Value": "\"Why? What happened?\""
+    },
+    {
+      "Key": "fd869005-98a6-4abc-8a2c-0d14da7dc8e5",
+      "Value": "\"Where will you go?\""
+    },
+    {
+      "Key": "1069d183-00e1-4d85-85a1-511436a2db61",
+      "Value": "\"Well. Too bad our paths have parted. Good luck in your travels, Ekun.\""
+    },
+    {
+      "Key": "7301b3ff-a9eb-489c-a126-d27a863ea97c",
+      "Value": "\"Come on, hit the road already, and get lost as far as you can from here. Who knows, if you move really fast, you might even flee from the ghosts of your family, those you weren't able to protect.\""
+    },
+    {
+      "Key": "8c48b7b7-98d1-4f4d-b451-50311730930f",
+      "Value": "[Attack] \"And I won't tolerate traitors!\""
+    },
+    {
+      "Key": "c655fc3c-74de-4133-a1c3-ae0f6d12eaa5",
+      "Value": "{n}You notice Ekun, who's clearly waiting for something. His face darkens as he looks at you. He turns toward you. {/n} \"I'm leaving.\""
+    },
+    {
+      "Key": "17f7cb72-17b7-4572-b04f-b2d3355b305c",
+      "Value": "\"You've made friendship with the trolls.\" {n}Ekun's eyes are ice-cold.{/n} \"The beasts who killed my wife. My daughter. Won't take it. Won't serve the {mf|baron|baroness} who lets the trolls stay.\""
+    },
+    {
+      "Key": "00b5b5a1-7090-4dbc-bd3a-95373fb5c950",
+      "Value": "\"You've made friendship with kobolds.\" {n}Ekun's eyes are ice-cold.{/n} \"They gave alliance to the trolls who'd killed my family. I won't have these beasts at my side. That's why I leave.\""
+    },
+    {
+      "Key": "21a6d0bd-d8f2-42c7-bbc7-43314bff18d4",
+      "Value": "\"West.\" {n}Ekun says no more, obviously having no intention to go into any further details.{/n}"
+    }
+  ]
+}

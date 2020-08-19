@@ -1,0 +1,209 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "ede187ac-ab36-4a94-bb43-3729cd69c36a",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "dc72346b-2026-4705-a00f-89b9e3db2049",
+      "Value": "\"What are you doing here?\""
+    },
+    {
+      "Key": "d5a433d1-154a-47bd-88d1-28e27bdb6423",
+      "Value": "[Attack] \"Prepare to die!\""
+    },
+    {
+      "Key": "d26c416b-dec2-49be-9200-01e5ae7eb195",
+      "Value": "\"Did you see the ghostly figure in the hallway? I think there are ghosts in this palace!\""
+    },
+    {
+      "Key": "55f69a45-9ef9-42ff-9b50-10e43330e5fa",
+      "Value": "[Leave] \"Good-bye!\""
+    },
+    {
+      "Key": "c0b825b2-eaba-4738-a793-ff368aa2c87a",
+      "Value": "\"Nyrd? I thought we killed you?\""
+    },
+    {
+      "Key": "85473b14-61b0-4594-b109-ec0062213828",
+      "Value": "[Attack] \"How many times do I have to kill you before you actually die?\""
+    },
+    {
+      "Key": "c4173b94-91f5-41b5-9bac-6194d5984ebc",
+      "Value": "\"Why don't you leave this palace while you still can.\""
+    },
+    {
+      "Key": "acbb6576-2577-4eae-9a2f-a2b7aa733b14",
+      "Value": "\"How did you manage to survive the Bleaching?\""
+    },
+    {
+      "Key": "13d3f684-449a-4bdf-8824-916ed60b2b0e",
+      "Value": "{n}These gnomes don't look too well: gray hair, pale skin and dim eyes say they're suffering a serious case of the {g|Bleaching}Bleaching{/g}. But their vitality certainly hasn't left them yet. Bickering busily, the gnomes are searching the bookshelves, stuffing one volume after another into their bags.{/n}"
+    },
+    {
+      "Key": "88364c03-2340-4907-9d19-c9f818d2688f",
+      "Value": "\"Look what I found! Look, look! We need to take this!\""
+    },
+    {
+      "Key": "99f312c4-432a-4609-89d2-e3545bebe88a",
+      "Value": "\"What? 'Heat of the Forbidden Embrace'? Are you out of your mind? Forget that filth, we're looking for magic books!\""
+    },
+    {
+      "Key": "7df1193c-7373-49b8-81d6-1b9c3b96f001",
+      "Value": "\"What do you know?! It's a rare book!\""
+    },
+    {
+      "Key": "db2831b9-758e-4201-bc61-d410677b868f",
+      "Value": "\"Well, then, give me that... 'The elven king thought he ruled the whole world – but who ruled the king's heart? Everything changes, when a young orc boy stands in his way...' Oh, we'll be taking that – definitely!\""
+    },
+    {
+      "Key": "b456c1c5-674c-4c7b-b87c-430155adab38",
+      "Value": "\"What do you think? Irovetti's finished! We're stuffing our bags and leaving – and we recommend you do the same!\""
+    },
+    {
+      "Key": "b6ebcf9e-45eb-4a90-8c04-2810571b16f5",
+      "Value": "\"Just stuff them somewhere else! You can take the silverware or candlesticks... But don't touch the books – the books are ours!\""
+    },
+    {
+      "Key": "b7a6f3b9-7f8e-4a49-a64a-f59932376954",
+      "Value": "\"You can take the one about hot, forbidden embraces.\""
+    },
+    {
+      "Key": "d17da918-300f-4069-909f-77243867c552",
+      "Value": "\"Don't even dream! I'm not giving it up!\""
+    },
+    {
+      "Key": "546f2576-5ef4-4a0d-8dca-f80f9d9ee013",
+      "Value": "\"I am Vyar Zottenropple, the most skilled wizard this side of the {g|Inner Sea}Inner Sea{/g}! And here with me is... Someone who keeps trying to piggyback on someone else's glory...\""
+    },
+    {
+      "Key": "510531a1-fbc6-4863-bcd7-2cf48b89da2d",
+      "Value": "\"Brother, how you always thrust yourself forward! Don't listen to his mumbles. I am Luar Zottenropple – the most skilled wizard on this AND THE OTHER side of the {g|Inner Sea}Inner Sea{/g}.\""
+    },
+    {
+      "Key": "5a2fc567-bb04-436d-9360-cce8d7663017",
+      "Value": "\"And I am the great and horrible Nyrd Zottenropple, the most skilled wizard on any side of any sea, and besides that, a master of teleportation!\""
+    },
+    {
+      "Key": "b6020373-b32d-48cf-a555-f1706d1b2d26",
+      "Value": "\"Wait, who are you? And why are we talking to you?\""
+    },
+    {
+      "Key": "e4683366-6783-4d0f-961c-4a3514bd8121",
+      "Value": "\"Of course there are! Well, not ghosts – just one. But a real one!\""
+    },
+    {
+      "Key": "8018fbd6-921b-4811-b95c-f5607a5def62",
+      "Value": "\"They say it's the ghost of the wizard who built this palace for the Queen of {g|Pitax}Pitax{/g}, and then refused to let her inside! He said she was unworthy of living in such a beautiful palace! She had to, you know...\""
+    },
+    {
+      "Key": "d3abd15a-1c2b-4b6e-be06-c2b2c359aaf7",
+      "Value": "\"They also say she didn't just kill him, but immured him alive somewhere in the palace, in a room with countless treasures! We've been meaning to find it, but never got around to it... And just now we're a bit busy!\""
+    },
+    {
+      "Key": "47578e45-55b8-488a-975b-b823a3b2b561",
+      "Value": "\"Yeah, right! Prepare yourself!\""
+    },
+    {
+      "Key": "2e78e61e-3677-44f0-87ac-a9e127bebb12",
+      "Value": "\"When we're done with you, everything that's left will fit into my hat!\""
+    },
+    {
+      "Key": "c667b593-e36c-43c7-a5bd-a26c5961710d",
+      "Value": "\"We'll show you what it means to mess with the Zottenropples!\""
+    },
+    {
+      "Key": "b9bcf0c5-ab3a-42f7-b66b-0b843147f839",
+      "Value": "\"Silly, why do you want a hat full of ashes?\""
+    },
+    {
+      "Key": "2f1d34c3-029a-4561-909a-6ceadd2cdb84",
+      "Value": "\"I don't, I'm just saying! I don't even have a hat!\""
+    },
+    {
+      "Key": "6f1580eb-3bb1-4701-a3ae-1d645b14d2d9",
+      "Value": "\"Wait, wait... I know your face! Have we met before?\""
+    },
+    {
+      "Key": "a2927ae5-5f61-48f3-8a08-5eb85b18a558",
+      "Value": "\"Hey! I know h{mf|er|im}! That's {Name}, {mf|King|Queen} of... What's that place called... Oh, right, {kingdomname}!\""
+    },
+    {
+      "Key": "c3a8d4c8-cb71-42c9-9eda-5bfd33156cfb",
+      "Value": "\"Seriously? That's {mf|king|queen} {Name}? Well, don't just stand there, grab {mf|him|her}! Irovetti promised a fortune for {mf|his|her} head! Hey, Highness, surrender or die!\""
+    },
+    {
+      "Key": "d20cff46-f167-4b20-a702-ef4e3650ec0b",
+      "Value": "\"{mf|King|Queen} {Name}! It was {mf|him|her} that killed our {d|c51 Nyrd Dies}sister{/d}! You scoundrel! We'll fry you alive for Nyrd!\""
+    },
+    {
+      "Key": "c7018a6a-6b8e-47e9-b8c3-256a790b9210",
+      "Value": "\"{mf|He|She} doesn't recognize us, {d|Luar}Luar{/d}! Ha ha!\""
+    },
+    {
+      "Key": "f96459f4-efc0-45fc-a838-2042f50bd325",
+      "Value": "\"Of course not. We were frogs when we met at the Inconsequent Debates!\""
+    },
+    {
+      "Key": "63ff4d80-a9c3-4d11-8aaf-b8c67f4b379d",
+      "Value": "\"Glad to see you again, {name}! We had fun last time, didn't we?\""
+    },
+    {
+      "Key": "c7775aab-338f-4e69-86e8-e31568128e57",
+      "Value": "\"Wait... You're {name}, and {name} is you?\""
+    },
+    {
+      "Key": "e1401764-40d5-47cb-b289-99205b544374",
+      "Value": "\"So {name} from Inconsequent Debates is the {mf|King|Queen} {name} from {kingdomname}? Oh thick skull of mine, I should've figured it out earlier!\""
+    },
+    {
+      "Key": "a324e22c-a152-4823-a483-38c0a50ec7ee",
+      "Value": "\"Wait, you fools! No one killed me! I mean, they did... but not quite!\""
+    },
+    {
+      "Key": "3a755621-a578-4c20-a544-573a5067a2a5",
+      "Value": "\"Ny-yrd? Sister? But how?!\""
+    },
+    {
+      "Key": "7048da56-2968-40ed-87e2-5d369ca6f20c",
+      "Value": "{n}The gnome appears out of nowhere, laughing happily. Were it not for her brother's reaction, it would be difficult to recognize the former Nyrd Zottenropple. The wizard's hair is bright teal now, her eyes a piercing green, and the insanity caused by the {g|Bleaching}Bleaching{/g} flared in them no longer. {/n} \"What, didn't expect me? I'm all safe and sound, and not even bleached any more!\""
+    },
+    {
+      "Key": "5bdecadb-c221-44b6-ac1c-d93c471d1880",
+      "Value": "\"Of course you did! I was about to go to {g|Pharasma}Pharasma's{/g} judgment, then I opened my eyes and where was I of all places? – The {g|First World}First World{/g}! And the Host stood in front of me, that monstrosity from the Inconsequent Debates. He... She... They... said, 'Nyrd, Jubilost says hello! By his mercy you are granted {d|Jubilost Nyrd}salvation{/d} from the {g|Bleaching}Bleaching{/g} and even something approaching immortality – if you stay in the {g|First World}First World{/g}.' Of course I'd be happy to stay! But first I figured I'd go get my stupid brothers! And here you all are.\""
+    },
+    {
+      "Key": "0a0196ef-25e9-4b9a-b13b-83251f03cf53",
+      "Value": "\"Aha! That's the 'random gnome' who received the gift of the {g|Eldest}Eldest{/g}!\""
+    },
+    {
+      "Key": "2d5fbb7c-ebb0-451f-9691-7aae48320ecc",
+      "Value": "\"Thank you so much. I liked you from the very moment we met.\" {n}Nyrd winks at Jubilost.{/n} \"I'd ask for an autograph, but I already have about eight books signed by you, which I stole from different places...\""
+    },
+    {
+      "Key": "95741845-94a2-4841-9eae-dc549a76f6b1",
+      "Value": "\"Where are we headed now, Nyrd?\""
+    },
+    {
+      "Key": "7dd55898-8570-4d32-9001-85a79cd23b81",
+      "Value": "\"To the {g|First World}First World{/g}! I'll show you the way. It's so much fun, brothers – there's more than enough to keep you from the {g|Bleaching}Bleaching{/g} for two ages. And just think, you can throw your favorite sister from a rock, ha ha ha, and it will do nothing to me! All right, let's go. Just bring some books for me. I'm not taking you without them!\""
+    },
+    {
+      "Key": "d4238b27-16b7-4982-93c7-e17371ac1951",
+      "Value": "\"I hope you haven't forgotten me — the great and terrible\n{d|Nyrd}Nyrd Zottenropple{/d}, greatest magician on any side of any sea!\""
+    },
+    {
+      "Key": "6b00fca6-b1bb-40ec-87fd-38c0adf96d96",
+      "Value": "\"I remember Nyrd saying that Irovetti put a fortune on {mf|his|her} head! Poor Nyrd died to the{g|bleaching}Bleaching{/g} before her prime – but we'll claim that fortune in her memory! So, Your Highness! Surrender or die!\""
+    },
+    {
+      "Key": "eb580531-e00f-4a86-855a-c8411b261337",
+      "Value": "\"Wait, you fools! I didn't die! I mean, I did... but like that!\""
+    },
+    {
+      "Key": "5a4aea2c-598e-4bce-890b-4a3d3f653514",
+      "Value": "\"I didn't survive – it killed me! I was about to go to {g|Pharasma}Pharasma's{/g} judgment, but then I opened my eyes and where was I of all places? – The {g|First World}First World{/g}! And the Host stood in front of me – you remember, that monstrosity from the Inconsequent Debates. He... She... They... said, 'Nyrd, Jubilost says hello! By his mercy, you are granted {d|Jubilost Nyrd}salvation{/d} from the {g|Bleaching}Bleaching{/g}, and even something approaching immortality – so long as you remain in the {g|First World}First World{/g}.' Naturally I'd be happy to stay! But first I figured I'd go get my stupid brothers! And here you all are.\""
+    }
+  ]
+}

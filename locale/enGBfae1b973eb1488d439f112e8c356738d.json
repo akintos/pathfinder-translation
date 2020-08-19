@@ -1,0 +1,61 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "3035d0da-c59d-4aae-bd13-b4246e2e43f0",
+      "Value": "[Help the blacksmith] \"All right, on three. One, two...\""
+    },
+    {
+      "Key": "a72c506c-c49c-4129-952e-f3868e2c975d",
+      "Value": "[Heal the guard] \"I'll tend his wounds.\""
+    },
+    {
+      "Key": "ae8fd45b-b214-473e-ae94-e262b5a6bf47",
+      "Value": "\"What happened?\""
+    },
+    {
+      "Key": "30856e77-56d0-472f-bfc8-84e48cdbb41c",
+      "Value": "\"You killed this beast on your own? I'm impressed.\""
+    },
+    {
+      "Key": "251e0bcb-67f8-4141-bcb5-a715a57a9e91",
+      "Value": "[Leave] \"I have to go.\""
+    },
+    {
+      "Key": "c2b9696e-7658-4c66-9835-8de2ad3e8d88",
+      "Value": "\"It's fortunate we're by your smithy. I have an urgent purchase to make.\""
+    },
+    {
+      "Key": "944b05a0-145c-42ec-9e97-89d22d71b618",
+      "Value": "{n}Beneath the crushing weight of a monster carcass lies a guard — unconscious and bleeding, but still alive.{/n} \"Your Grace! He's wounded. Help me get him out before he loses too much blood!\""
+    },
+    {
+      "Key": "191b0123-c1c1-42bb-a943-76f945dff706",
+      "Value": "{n}Gathering all your strength, you and the blacksmith manage to lift the monster's bulk off the ground and drag the guard out from beneath it.{/n} \"Phew... Lad's been within a hair's breadth of dyin'. He makes it to end of the battle, he should call this his second birthday!\""
+    },
+    {
+      "Key": "7a08166c-61c0-4203-8daf-a9d28a71ba4a",
+      "Value": "\"Didn't you hear? The man's wounded! You got a stone where your heart should be?\""
+    },
+    {
+      "Key": "ad073934-1fb5-4054-a8ca-5ac185444f09",
+      "Value": "{n}The guard's wounds rapidly close. The blacksmith nods in gratitude.{/n}"
+    },
+    {
+      "Key": "762b498c-772f-4687-8073-15f55d670a61",
+      "Value": "\"Well, I was sittin' in my smithy. I heard some shoutin' in the street, so I grabbed my maul and headed out. Saw THIS ugly mug throw that poor guard to the ground and get a huge bite in, so I gave it a good whack to the head. Then another, and another, and so on until it stopped movin'. Wasn't strong enough to pull the lad free from under its fat belly, though — good thing you showed up.\""
+    },
+    {
+      "Key": "b19c5468-a522-4bb7-a36b-72b3d52f7429",
+      "Value": "{n}The blacksmith's face twists in distaste.{/n} \"Aye, I can fight all right. Just don't like to.\""
+    },
+    {
+      "Key": "79a41303-e6f3-4713-ac21-c74bf05fec0b",
+      "Value": "\"Thanks for the help! I'll get him somewhere safe.\""
+    },
+    {
+      "Key": "6eb14812-4a5d-4d36-93ab-e2f374ddcf20",
+      "Value": "\"So you decided to help me after all?\""
+    }
+  ]
+}

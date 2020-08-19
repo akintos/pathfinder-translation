@@ -1,0 +1,93 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "2dbad44d-3d6d-45a3-bc07-ad2e9f8d4a91",
+      "Value": "\"I'm not going to help you. Get out!\""
+    },
+    {
+      "Key": "460618ac-c610-4bf7-916f-a4ab4c528e33",
+      "Value": "\"I think you're a spy. Guards! Hang her!\""
+    },
+    {
+      "Key": "a6d23f68-0612-4578-83e1-6b35edca96c9",
+      "Value": "\"So what's this trouble you've gotten yourselves into?\""
+    },
+    {
+      "Key": "7b755dcb-2cb3-4e52-a920-5f217cfba2b3",
+      "Value": "\"All right, I'll help you.\""
+    },
+    {
+      "Key": "bb82230a-318b-4c02-93e8-0f044ae09031",
+      "Value": "\"What? No! I swear I'm not a spy! Don't!\" {n}Ignoring the dwarf's screams, the guards drag her away.{/n}"
+    },
+    {
+      "Key": "2cacc3f9-84a7-456b-9b9c-c10723a5c653",
+      "Value": "\"Your Grace, I beg you...\""
+    },
+    {
+      "Key": "9c10ce65-aa4f-4ded-a76c-b39791e81de0",
+      "Value": "\"Serves her right.\""
+    },
+    {
+      "Key": "95508936-4b51-4908-a0a5-0cd68988267b",
+      "Value": "\"Many ages ago, our ancestors, together with the other clans, built a road here, and a chain of fortresses along it. Unfortunately they were forced to leave these lands. But now that you've established order here, we decided to return, to rekindle our clan's legacy. We found the entrance to the Adamantine Shield Fortress, but when we tried to enter...\" {n}Rudrin winces and touches her bandaged arm.{/n}"
+    },
+    {
+      "Key": "1ef1943e-a47a-470f-a216-9545b7cbf0c2",
+      "Value": "\"When our ancestors left, they charmed the gate of the fortress and locked it with a key – which has long been kept safe by our clan as a relic. We brought it with us, but when we inserted it into the lock and turned, something incredible happened! The gate fell to ashes, and we saw that the lock was upon the chest of a huge golem – which attacked us immediately!\""
+    },
+    {
+      "Key": "0c5c8d0f-fc71-4cac-be17-b6d694c2f8c5",
+      "Value": "{n}Harrim snorts.{/n} \"I'm sure the creator of this golem prayed devoutly to {g|Torag}Torag{/g} while he made it... Never thinking for a moment that this piece of iron might someday turn on his own. How dwarvish!\""
+    },
+    {
+      "Key": "c0d56711-7877-494c-b9f1-6019d3592b93",
+      "Value": "\"We managed to hide up on a hill, but we'd backed ourselves into a trap: the golem just stood below, waiting for us to come down. Two of us sacrificed their lives, distracting it to give me a chance to escape and find help... Please, save them! You are our only hope!\""
+    },
+    {
+      "Key": "32890058-70ee-43ae-8d47-00ba392a7472",
+      "Value": "{n}Harrim interrupts her sternly.{/n} \"We told you no! Now leave! You and your clan are not welcome here.\""
+    },
+    {
+      "Key": "8412dd4d-dbab-499a-a15c-0d151dcd1b77",
+      "Value": "\"As you say. Forgive me for troubling you.\""
+    },
+    {
+      "Key": "47799653-f064-44fd-8cb0-929dfab704f1",
+      "Value": "\"Thank you, Your Grace! The Skjegge clan owes you. Here's a map. It shows where to find the fortress...\""
+    },
+    {
+      "Key": "d4e67ecd-39b3-4453-825b-f5c5bc99be04",
+      "Value": "{n}Harrim fiddles with his beard pensively.{/n} \"I would ask you – if you go to help them, take me with you. I know it's folly to gloat, but I would see with my own eyes our proud guests from {g|Five Kings Mountains}the Five Kings Mountains{/g} caught in such a mess... – And then send them home with my own tongue. I hope you will allow me this small pleasure...\""
+    },
+    {
+      "Key": "4b12943f-dad6-4c27-86bb-57b7c1be27c0",
+      "Value": "\"Your Grace, I must warn you... This is no ordinary golem. He's made of adamantine. He's almost impossible to destroy, even with magical weapons. But if you wear it out for long enough in battle, it will collapse for a while to restore its strength. At that moment, you'll need to pull the key from its chest. If I know anything about mechanics, that should switch it off!\""
+    },
+    {
+      "Key": "9dc57ebb-78f3-4908-86dc-bc8c036cff7f",
+      "Value": "\"And if you don't?\" {n}Harrim's gloomy question hovers unanswered in the silence.{/n}"
+    },
+    {
+      "Key": "06e1dd6f-32ad-4574-8137-42f0b92f2894",
+      "Value": "{n}Harrim appears in the doorway, loudly shouting down the corridor, and trying to block a visitor's way. However, they don't budge, and finally the priest is pushed backwards into the room, shouting all the while.{/n} \"Away! Go away, I'm telling you! The baron{mf||ess} isn't seeing anyone! {mf|He's|She's} busy! And isn't here!\""
+    },
+    {
+      "Key": "14a75bb6-5d92-416e-a6a6-57727787d848",
+      "Value": "\"Forgive me, respected Harrim, but I must speak to the baron{mf||ess}!\" {n}A young dwarf limps into the room. She doesn't look well: her face is bruised, her armor crumpled, and her arm is dressed with rags, brown from dried blood. Nevertheless, she begins with a ceremonious bow.{/n} \"Your Grace! My name is Rudrin, of the Skjegge clan, and I've come to beg your help. My kin are in grave...\""
+    },
+    {
+      "Key": "2c3d8f5d-2574-4f9a-8c41-06ab2258b705",
+      "Value": "{n}Harrim interrupts her with indignation.{/n} \"How do you know my name?!\""
+    },
+    {
+      "Key": "cab76781-27df-4c79-bfdf-4aef66791fe5",
+      "Value": "\"I was told of you by our leader – the revered Jarmuld, {g|Torag}Torag's{/g} paladin. He is hoping to meet you in person. He has so many questions for you! A dwarf who rejected Torag, became a priest of {g|Groetus}Groetus{/g}, and now sits in an important position at the court of a baron{mf||ess} – such tales are rare!\""
+    },
+    {
+      "Key": "1e4c838c-502e-4d27-a9be-df0109fadeb9",
+      "Value": "{n}Harrim's face is exploding with red and white spots. He furiously grabs his beard.{/n} \"{g|Torag}Torag's{/g} paladin?! And he wants to talk to me?! What impudence, what shameless... Brazen... Although...\" {n}Harrim turns to you.{/n} \"You know, perhaps we should help them! I want to see this paladin with my own eyes – and the trap he walked his congregation into!\""
+    }
+  ]
+}

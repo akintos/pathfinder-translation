@@ -1,0 +1,193 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "f7331f97-10aa-4b20-ae7b-3d716d987884",
+      "Value": "[Recall what you can about this woman's heraldry]"
+    },
+    {
+      "Key": "7fc5da26-0de4-4f2e-a79f-8919b365c5d2",
+      "Value": "\"Wait, who are you?\""
+    },
+    {
+      "Key": "bb1bd2aa-50b1-4151-8971-cae712693647",
+      "Value": "\"This is all a terrible mistake!\""
+    },
+    {
+      "Key": "ab9ea66c-204c-49b0-a224-14f64c402d93",
+      "Value": "[Attack] \"I have nothing to say that a sword can't say better.\""
+    },
+    {
+      "Key": "d466bc60-f740-4e9b-b303-6d1bbfaf035b",
+      "Value": "\"We heard that a powerful band of pirates was camped here, and we were going to chase them off.\""
+    },
+    {
+      "Key": "0b7e8b49-b0ed-4775-828a-5f3f518c8579",
+      "Value": "\"A playwright convinced us to hunt pirates in order to win the adoration of Pitax's common folk.\""
+    },
+    {
+      "Key": "6b94bb10-ef92-42aa-8a63-8215b8d7c7e1",
+      "Value": "\"I was acting in good faith to chase off pirates, and I would never have attacked a Riversong convoy. Someone provided me misinformation, likely because they stood to profit if we killed each other.\""
+    },
+    {
+      "Key": "695b0d2f-2147-4417-94b4-5179b9044469",
+      "Value": "[Lie] \"We received these orders from King Irovetti himself. Here, take a look.\""
+    },
+    {
+      "Key": "671c7dc8-bed7-4b2a-9601-5ede56282760",
+      "Value": "[Strike her while she's distracted]"
+    },
+    {
+      "Key": "2af8e383-26a8-46c7-8a6f-c461e5b2d778",
+      "Value": "\"Oh, I must have been confused.\""
+    },
+    {
+      "Key": "f8f4af2f-5d37-4ac0-9b76-d2ce82a6b5a1",
+      "Value": "\"The playwright Eimar Deschamps told us about the camp.\""
+    },
+    {
+      "Key": "92448841-de9c-416f-8591-b54218e2e80e",
+      "Value": "\"Actually, the magistrate Walsh Celvoway insisted there were pirates preying on travelers here.\""
+    },
+    {
+      "Key": "29b4f15d-6cce-4a12-89a0-4f52375b883d",
+      "Value": "\"This is clearly a set up, but I have nothing more to add. Either you believe me or not. Make your choice.\""
+    },
+    {
+      "Key": "a1ad2962-ef7b-4a45-a571-3a96dbbd5e33",
+      "Value": "\"Judge Celvoway? I spoke with him directly, and he insisted that your group were the pirates.\""
+    },
+    {
+      "Key": "c27e8c1a-01b6-46c5-a8a5-7b8e64f7c27f",
+      "Value": "\"If he knows you travel with so many guards, maybe he hoped I would die during the attack.\""
+    },
+    {
+      "Key": "2a4b549c-ac0a-49d9-9420-4728a0d1b527",
+      "Value": "\"Can you think of something he'd gain from your death?\""
+    },
+    {
+      "Key": "c8c301b7-044f-4b42-942e-dbf7688a6fc4",
+      "Value": "\"I'd rather ask him personally.\""
+    },
+    {
+      "Key": "21364c54-11a6-4309-8420-3d1c656a85a8",
+      "Value": "\"We pretend this never happened, and I leave.\""
+    },
+    {
+      "Key": "1ceb1dea-aea9-420c-b6e6-f3e1c01e1d66",
+      "Value": "\"We join forces to uncover the truth.\""
+    },
+    {
+      "Key": "67d43b6e-431b-4a67-bd7f-d6ecffd11d8b",
+      "Value": "[Attack] \"I kill you, take whatever's in those crates, and claim it was self-defense.\""
+    },
+    {
+      "Key": "30713bb5-1188-4faa-a7e6-e99a74f028b5",
+      "Value": "{n}A voice cuts through the din, roaring with such indignation that the fighting momentarily stops.{/n} \"What is going on here?!? Who dares attack my camp?\" {n}The speaker is a suntanned woman wearing light blue traveling cloths with high boots, and an embroidered heron adorns one of her sleeves.{/n}"
+    },
+    {
+      "Key": "79fde8e2-916f-4a4b-b6c5-18eca9b2dfe6",
+      "Value": "{n}She draws her weapon and takes a menacing step forward.{/n} \"I don't know who you are, and any patience I have to hear your excuses is as short-lived as you are. If you have something to say, make it good.\" {n}Behind her, you can see more combatants approaching, but you have a few moments before they arrive.{/n}"
+    },
+    {
+      "Key": "1198233c-73b8-4811-b5c4-1eb01c8ae203",
+      "Value": "{n}She seems ready to say more when she notices the bright blaze along the shore.{/n} \"My boats! You soft-stomached jackals, what have you done?!\" {n}Her mouth moves as if trying to form more words, but she has difficulty enunciating past her anger.{/n}"
+    },
+    {
+      "Key": "c266200d-18d7-4263-b482-7e1002cba6c9",
+      "Value": "{n}A grin splits Nok-Nok's face.{/n} \"If we die, I just wanna say burning the boats made me happy. Good leadership.\""
+    },
+    {
+      "Key": "d9a6a9ce-e187-4220-a280-c864cadc9376",
+      "Value": "\"Well this throws some sand in the clockwork. The blue outfit and heron insignia indicate this is an important member of the Riversong Trade House in {g|Pitax}Pitax{/g}, not a pirate. In fact, I'd say that makes us look like the pirates, now.\""
+    },
+    {
+      "Key": "11ee6f6c-0ccb-46e6-b6fc-294338d73935",
+      "Value": "{n}The blue outfit and heron insignia indicate this is an important member of the Riversong Trade House of {g|Pitax}Pitax{/g}, possibly a member of the controlling family. Jhofre Vascari leads trade house, and this might be his sister, Renshala Vascari. As you look down at the enemies you've slain, it seems you haven't attack pirate; you've killed influential merchants!{/n}"
+    },
+    {
+      "Key": "1ab22864-cea3-4351-a58b-75b6e7fc6f48",
+      "Value": "{n}The woman's face wrinkles with disdain.{/n} \"I was prepared to kill thieves, but it looks like I'll have to kill idiots instead. If you don't know, explaining it's not worth the breath.\""
+    },
+    {
+      "Key": "a059951d-a213-4310-ba6c-69f7593b4455",
+      "Value": "{n}The well-dressed woman glowers at you.{/n} \"Explain. Quickly.\""
+    },
+    {
+      "Key": "6906dfc7-7558-4f27-a6d8-31e640cd0bd8",
+      "Value": "{n}You never received any such documents, but the woman approaches to investigate the random papers you produce. She peers over them for a moment before squinting and remarking,{/n} \"These aren't royal orders. You are trying my patience.\""
+    },
+    {
+      "Key": "5e4cb1a2-cc1b-418e-8318-ded32c6d0d60",
+      "Value": "\"You're a terrible liar,\" {n}she remarks, smirking as she notices that your failed deception bought her remaining forces enough time to arrive.{/n} \"Now you'll be a dead one.\""
+    },
+    {
+      "Key": "9ee1d872-9651-463b-a18b-33e50a73a3ef",
+      "Value": "\"What kind of trickery is this?!\" {n}She steps back.{/n}"
+    },
+    {
+      "Key": "677b6996-fd09-4d1c-9bc7-5b64d35ed7b2",
+      "Value": "\"The {g|River Kingdoms}River Kingdoms{/g} have a reputation for banditry,\" {n}she admits, lowering her weapon slightly.{/n} \"Still, it's irresponsible to have attacked us as you did. I am Renshala Vascari of the Riversong Trade House — no pirate. Who put you up to this?\""
+    },
+    {
+      "Key": "05f39c22-d387-4169-885a-14fc91bd5494",
+      "Value": "{n}Renshala makes a disgusted sound.{/n} \"That man writes overblown dramas for a living, and you trusted him? What kind of fool would you have to be to...\" {n}She trails off and peers at you more intently.{/n}"
+    },
+    {
+      "Key": "b096c44d-6936-4f60-a67d-c386773ecb3c",
+      "Value": "\"Wait, are you {name}? I was warned that you might try something like this!\" {n}She extracts a scroll from a tube and unrolls it for you to see. It clearly warns the Vascari family that raiders sent by you would soon threaten her shipments.{/n} \"Judge Celvoway may be a bastard at times, but he sure knew you would attack my convoy. Give me a good reason I shouldn't throw your corpse to the eels?\""
+    },
+    {
+      "Key": "46683a74-b209-41ef-86f1-6dc1450d0550",
+      "Value": "\"Did he now?\" {n}Renshala taps a finger to her chin in thought.{/n} \"Certainly he has the means, but does he have the motive? Bringing any harm to me would just foment chaos in the region, and Celvoway's a servant of King Irovetti through and through. Do you have a theory?\""
+    },
+    {
+      "Key": "8ee3c7d9-5e95-4409-ac70-9ebee69d5743",
+      "Value": "\"Ah, at last a hint of wisdom. Yes, you're right.\" {n}She thinks for a moment before continuing.{/n} \"Perhaps I was hasty to dismiss you as anything but dim-witted brigands. I am Renshala Vascari of the Riversong Trade House — not a pirate. Who provided you this misinformation?\""
+    },
+    {
+      "Key": "c1f04d0d-c221-4a71-b383-45c889335ffb",
+      "Value": "\"You understand how appallingly stupid that sounds, yes?\"{n} She rocks back on her heels, looks skyward, and mutters something exasperated under her breath before looking back at you.{/n} \"I am Renshala Vascari of the Riversong Trade House — not a pirate. Be more specific. Who put you up to this?\""
+    },
+    {
+      "Key": "80df1526-7495-4f23-b69a-5b16b089c0ae",
+      "Value": "\"It's clear you are a fool,\"{n} she remarks, smirking as she notices that your clumsy explanation bought her remaining forces enough time to arrive. {/n}\"For killing my employees, now you'll be a dead one.\""
+    },
+    {
+      "Key": "d24480f4-d912-46da-b0af-86dd5310d7ba",
+      "Value": "\"That's a little too convenient for my tastes. I don't like the sound of your story, and frankly, neither do my men,\" {n}she remarks, smirking as she notices that your clumsy explanation bought her remaining forces enough time to arrive.{/n} \"I shall consider your deaths justice for those you've slain.\""
+    },
+    {
+      "Key": "155acfb8-aa8e-47e1-9f40-6ccd9e3ff64c",
+      "Value": "{n}Renshala considers your arguments.{/n} \"No matter how much I may want you dead now, it wouldn't be justice. I suspect there's more going on that I need to understand first. Here,\"{n} she hands you the scroll from the magistrate. {/n}\"Use this to solve your mystery. Whether it leads you to {g|Pitax}Pitax{/g} or {g|Hell}Hell{/g}, I care not. For now, leave me space to bury the dead, and should I see you again, may the gods show you more mercy than you've shown today.\""
+    },
+    {
+      "Key": "8ac3fcbc-e4ca-466a-a498-6d2beaf53604",
+      "Value": "\"That's certainly a possibility. You must be flattered to have such powerful enemies.\""
+    },
+    {
+      "Key": "8dcd4203-e73e-4b2d-9135-e3ee1c91cfee",
+      "Value": "{n}She grits her teeth and nods.{/n} \"It's true that we Vascaris haven't kowtowed to King Irovetti as much as the Liacenzas and the Strocalles have, yet we control most of the river trade. What better way to bring us in line than crush us with foreign agents or scare us into swearing fealty?\""
+    },
+    {
+      "Key": "de277524-084c-4cbd-9829-eff1810c5976",
+      "Value": "\"Well then, what do you propose?\""
+    },
+    {
+      "Key": "1126cb03-0c0d-4f79-8fc4-ad5ed208de35",
+      "Value": "\"I regret that I've lost friends and colleagues, but I agree that you're not entirely to blame. Go. Get out of my sight. If you want the truth, here!\" {n}She chokes back an angry sob and hands you the scroll from the magistrate.{/n} \"Use this to solve your mystery. Whether it leads you to {g|Pitax}Pitax{/g} or {g|Hell}Hell{/g}, I care not. For now, leave me space to bury the dead, and should I see you again, may the gods show you more mercy than you've shown today.\""
+    },
+    {
+      "Key": "6b5badad-c628-4757-abce-e5d18b97430c",
+      "Value": "{n}Renshala's smile grows slowly as if she's contemplating devious possibilities.{/n} \"Very well. I will return to the city, and when you are ready to confront others about what transpired here, I will join you.\" {n} She hands you the scroll from the magistrate. {/n}\"Piece together your case, and get to the bottom of this mystery. For now, though, give me space to bury the dead.\""
+    },
+    {
+      "Key": "0f54a819-166b-4931-9e96-7a9be58c98ae",
+      "Value": "\"That...\" {n}She hesitates.{/n} \"You're a dangerous individual and have slain my people. I cannot bind my house's fate to your decisions. If you want the truth, here!\" {n}She chokes back an angry sob and hands you the scroll from the magistrate.{/n} \"Use this to solve your mystery. Whether it leads you to {g|Pitax}Pitax{/g} or {g|Hell}Hell{/g}, I care not. For now, leave me space to bury the dead, and should I see you again, may the gods show you more mercy than you've shown today.\""
+    },
+    {
+      "Key": "75994252-d91b-4e9b-ae96-a95e84e9ef8d",
+      "Value": "\"How convenient. Care to elaborate?\""
+    }
+  ]
+}

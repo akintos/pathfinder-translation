@@ -1,0 +1,305 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "194b628d-1503-4674-9f53-04faa3311b23",
+      "Value": "\"I'd like to ask you some questions.\""
+    },
+    {
+      "Key": "f8a1aa4c-4d87-4d5d-a192-32fbffa17182",
+      "Value": "\"Let me tell you of my deeds — they'll make my worth clear.\""
+    },
+    {
+      "Key": "f126dccf-514f-4127-9759-032610e481d5",
+      "Value": "[Attack] \"I'm always ready to prove myself in an honest battle!\""
+    },
+    {
+      "Key": "c05f880f-b933-4ada-94ed-18efa5a8a573",
+      "Value": "\"I'll prove myself worthy, but let me prepare first.\""
+    },
+    {
+      "Key": "eacebeff-b5d4-4639-ad3e-28eca14771dd",
+      "Value": "\"Where's Armag now?\""
+    },
+    {
+      "Key": "d1ac58f0-db7d-4726-acd0-8e7ff2a536e0",
+      "Value": "\"Tell me about ancient Armag.\""
+    },
+    {
+      "Key": "0e344805-c1cc-4dee-91f5-a600d53ae9ba",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "df89620f-0ef5-461d-a648-ff898f35380c",
+      "Value": "\"Thank you for your answers.\""
+    },
+    {
+      "Key": "5a0971bf-2ab0-43c1-aedd-42e9e4f84312",
+      "Value": "\"I killed the Stag Lord, leader of a large bandit gang, and took his fort!\""
+    },
+    {
+      "Key": "695205d5-b929-499c-b630-e3dd77d00c87",
+      "Value": "\"I killed Hargulka and Tartuk — a troll king and a kobold king respectively — and destroyed their city!\""
+    },
+    {
+      "Key": "52ba9f0b-4dfc-4a9d-ac3f-523d8286cb8f",
+      "Value": "\"I plundered Trobold, the underground monster city!\""
+    },
+    {
+      "Key": "c9287165-8c6b-41d5-a4d7-1591f014a673",
+      "Value": "\"I killed Vordakai, ancient necromancer and ruler of the cyclopes!\""
+    },
+    {
+      "Key": "4f9a8a70-12c8-4484-92c5-21392dbef6b7",
+      "Value": "\"I defeated Vordakai, ancient necromancer and ruler of the cyclopes!\""
+    },
+    {
+      "Key": "e575b1a2-eb12-4dd9-a268-f9bc8023b3c5",
+      "Value": "\"I decimated the Longtails, a might lizardfolk tribe!\""
+    },
+    {
+      "Key": "0af69fbb-afdc-4ca3-95df-439e7682c2f0",
+      "Value": "\"I destroyed a whole battle party of mighty Tiger Lords, led by the cleric known as Dugath!\""
+    },
+    {
+      "Key": "6a428f50-b8c1-45cf-928d-cddd47b0296f",
+      "Value": "\"I serve Gorum myself — all I do is in his name!\""
+    },
+    {
+      "Key": "a50e8d0e-7c21-42aa-82f3-3aa398c89e82",
+      "Value": "\"I'm the ruler of the Stolen Lands! No one dares doubt my glory! You can clearly see I'm worthy to enter, cleric — step aside!\""
+    },
+    {
+      "Key": "500b8447-7e16-4e82-ad8d-ff9942f6a5d1",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "eaa610fc-f6b3-4005-904c-bb3d46b1f3dd",
+      "Value": "\"I'm ready. Listen well.\""
+    },
+    {
+      "Key": "34d022f1-61eb-407f-bdfb-504ac8272bdb",
+      "Value": "\"Hold on — I must prepare myself first.\""
+    },
+    {
+      "Key": "9603c069-bad8-4f59-86af-92a2e81b2ec8",
+      "Value": "\"The villagers of Lake Silverstep disrespected me, so I killed them all!\""
+    },
+    {
+      "Key": "ea935cf9-e0ba-4651-96f4-4ce69281f74b",
+      "Value": "[Attack] \"I tire of idle talk. Let me show you my worth in an honest fight!\""
+    },
+    {
+      "Key": "44042331-c434-44c8-a2ef-f5bd7b69c71e",
+      "Value": "\"Regongar! Shut up, put away your weapon and stand down!\""
+    },
+    {
+      "Key": "965584b4-de88-4c92-a13f-891b484f1b41",
+      "Value": "\"Patience, Reg. I want to punch him too, but first I have a few questions.\""
+    },
+    {
+      "Key": "635eafbc-bd95-4783-ab09-81d4af262db8",
+      "Value": "[Attack] \"He's pissing me off too. Attack!\""
+    },
+    {
+      "Key": "7c7db654-c838-4558-89c6-e5710d64f3fe",
+      "Value": "[Lie] \"I serve Gorum myself — all I do is in his name!\""
+    },
+    {
+      "Key": "b7bfb9cc-d805-478b-9586-d7b042e5d514",
+      "Value": "{n}The barbarian who stands before you is old but not decrepit — his tanned, muscular body seems to be made of bronze. His eyes have no whites, no iris — just black metal, and reflections of invisible fire dance upon their shining surfaces.{/n}"
+    },
+    {
+      "Key": "b446c2df-bd9c-4f7b-9a38-166b5407cd0d",
+      "Value": "\"I greet you in the temple of {g|Gorum}Gorum{/g}. I'm Zorek, keeper of this tomb. If you've come this far, you certainly have potential... But the time has come to determine if you're worthy to enter the inner sanctum!\""
+    },
+    {
+      "Key": "877cc93d-2e99-4793-a60e-e1082de9d42d",
+      "Value": "\"Take as long as you need. I'm in no hurry.\""
+    },
+    {
+      "Key": "4d1ebe56-57d2-471e-88f0-d5a8562d301b",
+      "Value": "\"When I was young, as you are now, I also craved knowledge. It was only after serving Our Lord in Iron for some time that I realized that all the world's knowledge is but smoke on the water and dust in the wind. I can indulge your curiosity, but you should know that words can bear no true wisdom. Such wisdom is only found in the clashing of metal, the roaring of fire, and the crunching of bone!\""
+    },
+    {
+      "Key": "58d93a79-aed0-469d-b93d-629c436e5ebf",
+      "Value": "\"No need to thank me. Nothing I told you will help you in battle.\""
+    },
+    {
+      "Key": "8fcc36c0-d2a0-4abf-9000-313396bb4a1d",
+      "Value": "\"The same place he's been all these ages — in his burial chamber, inside the sacred sword in which {g|Gorum}Gorum{/g} placed his soul. Or were you asking after the bold boy who dared take the great chieftain's name? That one proved his worth in an honest fight, so I let him enter. I know not what happened to him after taking the sword, but he never came back.\""
+    },
+    {
+      "Key": "91a8bb8c-3b3f-42d5-84cb-7458693daf19",
+      "Value": "\"I never expected the great chieftain's glory would be forgotten among mortals! Listen well, then — Armag was a mighty berserker, and a valiant warlord who led our tribe from one victory to another. Undefeated, he grew too proud and began bragging that even Death herself was unable to lay him low. His words offended {g|Pharasma}Pharasma{/g}, so she sent her servants against him. {g|Gorum}Gorum{/g} wouldn't accept that and chose to challenge the goddess of death. While Armag fought armies of monsters on earth, the two deities fought each other over his soul. And though Armag's wounds were too horrible for him to survive, Gorum wouldn't let Pharasma take him — instead, he placed Armag's soul into his sacred sword, Ovinrbaane, the very sword that's held in this tomb.\""
+    },
+    {
+      "Key": "bf038021-596e-4e4a-bb4b-49541d4cc9a8",
+      "Value": "\"I'm Zorek, cleric of {g|Gorum}Gorum{/g} and advisor to the great chieftain Armag. I stayed with him as he ascended to his glory. I saw every step on his path. I fought beside him in each of his battles! When I was slain beside him on the bloody field of his final battle, Gorum made me Armag's guardian. My god ordered me to build this tomb and keep my chieftain's peace until the day when a mighty warrior would arrive, one worthy to wield the sacred sword that holds Armag's soul. Few people have entered this tomb over the centuries, and none have exited. That boy was the first to manage to pass me — do you think you can be the second?\""
+    },
+    {
+      "Key": "482fb59f-fcc8-4db1-a1f6-3a1fe3477bd4",
+      "Value": "\"Oh, I'm listening. But don't think to defile your lips and my ears with lies! I can see your thoughts as clear as I'll see your guts if you don't speak true!\""
+    },
+    {
+      "Key": "3066e345-8280-463b-9e72-a09976dcb54b",
+      "Value": "\"Ah, the words of a true fighter! Let {g|Gorum}Gorum's{/g} will be done!\""
+    },
+    {
+      "Key": "80894f2f-7720-4b2b-9ad6-8b2f3cf6f686",
+      "Value": "\"So, this Stag Lord terrorized the area, and the Brevans bestowed the title of baron on you for his head?\""
+    },
+    {
+      "Key": "1542ac45-b11d-4778-8f43-152db1b1f6ef",
+      "Value": "\"Simple bandits? Any merchant in the {g|River Kingdoms}River Kingdoms{/g} has fought them at least once!\""
+    },
+    {
+      "Key": "2f3330cc-cfce-41b0-89f5-077f6c6e9859",
+      "Value": "\"You felled two monster kings at once?\""
+    },
+    {
+      "Key": "eb52a166-7160-4f6d-96ae-add12bec49f2",
+      "Value": "\"Trolls and kobolds... Can you even call them monsters? You talk about these beasts as though you'd slain a dragon!\""
+    },
+    {
+      "Key": "3a1bcd47-6abc-400f-9751-2035b2891d80",
+      "Value": "\"What glory is there in plundering a city if you spared the life of their king?\""
+    },
+    {
+      "Key": "207ad0f9-ee34-40ec-8c92-a720cdea6007",
+      "Value": "\"Mages, giants, and undead — three of the world's most disgusting things!\""
+    },
+    {
+      "Key": "28219bff-4740-432a-8a5d-3fdfa1980e4f",
+      "Value": "\"He was old and dried up — barely held any magic left in his bones! A simple poke of the finger, and he crumbled to dust!\""
+    },
+    {
+      "Key": "98f58ae7-0d99-44fb-bf41-9addb7b6979f",
+      "Value": "\"Defeated — and let live! You allowed that abomination to continue defiling the world with his presence!\""
+    },
+    {
+      "Key": "528ae583-9f38-4759-8eef-97d70ed81b6d",
+      "Value": "\"Lizardfolk! A cruel people, with thick hides and razor-sharp teeth! Rumors say they eat each other more often than they eat other people!\""
+    },
+    {
+      "Key": "d7fbae49-b997-40eb-b29f-055dcb743528",
+      "Value": "\"Those ugly swamp creatures are barely a step above animals. Killing them isn't a battle, it's a hunt!\""
+    },
+    {
+      "Key": "6e639084-08b7-49c2-98be-90de6786c07d",
+      "Value": "\"You defeated fighters from my own tribe?\""
+    },
+    {
+      "Key": "0ccd8aae-0d5a-487a-81cb-01a7890aa363",
+      "Value": "\"The {g|Tiger Lords}Tiger Lords{/g} these days aren't the same as in my day. They've grown weak and soft — they can be beaten by anyone!\""
+    },
+    {
+      "Key": "d303ffab-42bb-4216-97ad-ed5561d7c8bd",
+      "Value": "\"I'm always happy to meet a {mf|brother|sister} in faith — in peaceful conversation or on the field of battle. Hail to Our Lord in Iron!\""
+    },
+    {
+      "Key": "2e2557f8-46e2-4554-aa4a-4b4d844a5070",
+      "Value": "\"Your faith alone doesn't make you worthy. Beyond idle prayers, what have you done in {g|Gorum}Gorum's{/g} name?\""
+    },
+    {
+      "Key": "4abf078e-e71e-4da4-854d-ab8abce9f3f0",
+      "Value": "\"A soft coward like you isn't capable of worthy deeds. Enough talk! If you want to prove yourself, draw your weapon!\""
+    },
+    {
+      "Key": "7ee748b9-b6a0-4ff4-8961-f430e0aaf213",
+      "Value": "\"Not just anyone can boast of such exploits! I, Zorek, declare before the face of {g|Gorum}Gorum{/g} that you truly are a great chieftain, worthy to enter Armag's inner sanctum!\" {n}The cleric bows his head and steps out of your way.{/n}"
+    },
+    {
+      "Key": "86ab9dd2-a4b2-486f-9298-58563f828252",
+      "Value": "\"Do you know what the rule of the strongest is? It's the right to take anything you want without a fight. It's the right to go without proving your strength at every turn, because everyone already knows it. Perhaps no one in your lands doubts your power, but that's not the case here! If you want to enter, then prepare yourself for battle — show me the true extent of your power!\""
+    },
+    {
+      "Key": "e9850853-9911-4abd-958f-90a21d75208f",
+      "Value": "{n}The old barbarian looks at you with indifferent black eyes, sparks of unearthly flame dancing across them.{/n}"
+    },
+    {
+      "Key": "46a90b81-63d7-4b57-942b-d63e7d24b111",
+      "Value": "\"I greet you in {g|Gorum}Gorum's{/g} temple, worthy one!\""
+    },
+    {
+      "Key": "af0f040d-ab8a-4bea-a2c9-4b120ba6e328",
+      "Value": "\"Are you ready?\""
+    },
+    {
+      "Key": "4b67d2e1-4046-4830-ba45-5ec96e874fc9",
+      "Value": "\"May {g|Gorum}Gorum{/g} help you in the hour of battle.\""
+    },
+    {
+      "Key": "608359a0-260d-4c94-a910-c07fa8b33c95",
+      "Value": "\"Tell me something worthwhile!\""
+    },
+    {
+      "Key": "c69661fa-1206-4baf-a292-df81426af64b",
+      "Value": "\"Yes! That's something to be proud of. What else can you boast?\""
+    },
+    {
+      "Key": "de3ba1c7-b07d-4f1e-af60-8b98b7863a94",
+      "Value": "\"Old man, you must be out of your mind! I'll swear on red-hot iron if you want — there isn't another fighter like {mf|him|her} in all of {g|Numeria}Numeria{/g}! Quit flapping your mouth and just step aside so {mf||s}he can accomplish yet another feat in {g|Gorum}Gorum's{/g} name!\""
+    },
+    {
+      "Key": "ca74d06a-39e2-491c-bc65-4ff93876f0f2",
+      "Value": "\"I like your spirit, girl. Yes, I can see it now — you aren't the kind of people who would disgrace {g|Gorum}Gorum{/g}.\""
+    },
+    {
+      "Key": "a5ca30ea-6296-4c03-8ad4-58c0147b826b",
+      "Value": "\"Oh, I remember now! In the {g|Academy of Grand Arts}academy{/g}, we used to study a song about Armag. Though, heh, it wasn't so much about his prowess in battle as his prowess in bed... According to the song, {g|Pharasma}Pharasma{/g} was mad at him because he... heh, well, it's all lies, of course! I mean, probably.\""
+    },
+    {
+      "Key": "13a55eb6-1447-40d4-88fd-4359e95e1a9c",
+      "Value": "\"Maybe so, but such speeches are sacred — they're like battles themselves. Once you start talking, I won't let you stop the story and leave without a fight. Are you ready?\""
+    },
+    {
+      "Key": "24fa34b6-82fb-482e-9620-7435b2b99075",
+      "Value": "\"Prepare as long as you like. Unlike you, I have the whole of eternity ahead of me.\""
+    },
+    {
+      "Key": "21525bdf-bd86-4b12-bd25-d7ad006364dd",
+      "Value": "\"I see you don't tolerate disrespect. And rightfully so — the price for insults must be blood!\""
+    },
+    {
+      "Key": "ceb0d10b-111f-4c7c-babf-a970a2dba0db",
+      "Value": "\"You brag of slaying a few villagers? How is that a great deed? To a great warrior, villagers aren't proper enemies — they're like deer in the woods!\""
+    },
+    {
+      "Key": "bc5d611e-a104-4076-8edc-0402c3904792",
+      "Value": "\"It's about time!\""
+    },
+    {
+      "Key": "bdac302e-980e-4fc7-9249-0ce87168244d",
+      "Value": "\"Hey, old geezer! Who the hell are you to test us? What are you, the oldest and wisest guy around? One swift kick and you'd turn to dust with all your wisdom!\""
+    },
+    {
+      "Key": "8165d262-e850-4c52-a80a-2b1f5aa92550",
+      "Value": "\"You are young, hot and reckless. Sometimes those like you grow up to be heroes. But they rarely live long enough to get the chance.\""
+    },
+    {
+      "Key": "7af5b745-f61a-4dfa-b268-1e120bd6e41d",
+      "Value": "{n}Grumbling resentfully, the half-orc obeys.{/n}"
+    },
+    {
+      "Key": "09429644-1dc7-44d1-a109-cb1fb8ad8a45",
+      "Value": "\"Fine, fine...\""
+    },
+    {
+      "Key": "f4c94d57-208e-4f47-a7cf-dbf3634280bb",
+      "Value": "\"Shut up, old man! Oh, I'm so pissed off by all these wise ancient ghosts and the other dusty weaklings! Come here, you — I'm going to...\""
+    },
+    {
+      "Key": "4cac0616-8dae-4d89-8c9a-3dd2fa8257bd",
+      "Value": "\"You're a dead man! You wanted to test us? Now we're going to test you. When we're done with you, there won't even be any dust left!\""
+    },
+    {
+      "Key": "aba4f4e9-4a59-4287-bb5d-8fd7cab8fde5",
+      "Value": "\"I hear... the echo of tragedy. Whatever happened to Armag, his meeting with the spirit of the ancient Armag might bring woe. But for whom? Him... or us?\""
+    },
+    {
+      "Key": "fec94c20-0737-40e8-b75b-dd6d4a6c58ec",
+      "Value": "\"Lies! Did you think to deceive me? Do you so fear to fight me that you resort to lying?\""
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "ee4e2561-02b0-4c32-89d2-381f1d4f8cb4",
+      "Value": "\"Thank you, Tristian. This is a precious gift.\""
+    },
+    {
+      "Key": "42859c58-c2a3-43cb-9315-fcc064b06ff2",
+      "Value": "\"I wouldn't mind if we were closer.\""
+    },
+    {
+      "Key": "3f30eb8b-de60-4045-9826-31c0ddb86c6d",
+      "Value": "\"And you've been hiding these potions from me all this time?!\""
+    },
+    {
+      "Key": "702fd968-6a97-4ea8-be82-9c5afd0c3c72",
+      "Value": "\"That's not what I meant.\""
+    },
+    {
+      "Key": "70636a93-25a4-4011-8080-43cea6a9599c",
+      "Value": "[Sigh and turn away]"
+    },
+    {
+      "Key": "7c01da3a-3ed5-4d7c-8105-3f00c10d96b6",
+      "Value": "\"That's great! Let's be friends!\""
+    },
+    {
+      "Key": "b8359c2d-4ae6-44d2-b735-8cfc45c50a4a",
+      "Value": "{n}Tristian approaches you and makes a gesture to attract your attention.{/n} \"{name}? Before we set off, I need to give you something.\""
+    },
+    {
+      "Key": "b752652b-2a96-4c1b-ab93-3535bf642948",
+      "Value": "\"You've come to my rescue when I was preparing to meet the goddess. Accept my gratitude — and this.\" {n}Tristian takes a few potions from the bag and hands them to you.{/n} \"There are only a few, but they will surely be useful to you in your journey through the {g|Stolen Lands}Stolen Lands{/g}.\""
+    },
+    {
+      "Key": "a944cfe6-efb3-479e-a6e4-6ce57fa20416",
+      "Value": "{n}Tristian folds his hands and smiles at you.{/n} \"I'm glad that I met you. If you need advice or help, I'll be around.\""
+    },
+    {
+      "Key": "dd385d95-0be7-4db0-b79b-350b6bf6006b",
+      "Value": "{n}Tristian blinks and then catches on.{/n} \"Of course! I would be happy to call you my friend, {name}!\""
+    },
+    {
+      "Key": "a0cf38a2-5151-4b4d-adee-9f9c672388d1",
+      "Value": "{n}Tristian knits his brows and keeps silent for a few tense seconds.{/n} \"I... I understand.\" {n}The priest smiles a crooked smile, then coughs and looks away.{/n} \"We need to go. But I... I will be happy to talk to you again some time.\""
+    },
+    {
+      "Key": "7fffd5f8-f90f-420a-baaf-cedb8dc4e4a7",
+      "Value": "\"I'm happy to help you. Well, I won't waste any more of your time.\" {n}Tristian nods to you and looks away.{/n}"
+    },
+    {
+      "Key": "76988180-c7e9-4b60-92dd-58b3adaf144b",
+      "Value": "{n}The smile drops from Tristian's face.{/n} \"What? No! Oh, it doesn't matter. Anyway, they're yours now.\""
+    },
+    {
+      "Key": "126bd140-9584-4f40-a4d3-e83bde7ec6cc",
+      "Value": "{n}Tristian laughs back.{/n} \"All right! A friend in need is a friend indeed — in the {g|Stolen Lands}Stolen Lands{/g} we'll have many chances to check if that's true!\""
+    }
+  ]
+}

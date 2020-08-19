@@ -1,0 +1,109 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "16a6f264-6b90-4441-b8ee-dc4985ce425f",
+      "Value": "{g|Espionage2_1}[Choice effects]{/g} \"Let the guards watch those who arrived by the caravan.\""
+    },
+    {
+      "Key": "042a54cf-b21e-48cc-b177-780e528278ae",
+      "Value": "{g|Espionage2_2}[Choice effects]{/g} \"Tell the merchants that if they fail to hand over the stranger, we'll seize their gold and goods.\""
+    },
+    {
+      "Key": "3b36cda0-015f-4348-9e0b-0c4d5cfa1d4f",
+      "Value": "{g|Espionage2_3}[Choice effects]{/g} \"Put all the merchants on the rack.\""
+    },
+    {
+      "Key": "33bbe335-fb5a-4d04-b5a5-c9f2fdc9de7c",
+      "Value": "\"Who, in your opinion, sent the spy?\""
+    },
+    {
+      "Key": "19c1fe68-b31e-4dd9-9dee-2ad6332c11f9",
+      "Value": "\"I trust your opinion.\""
+    },
+    {
+      "Key": "58af3084-25ba-4003-82f1-669afa637c88",
+      "Value": "\"{name}, these lands are like a forest. Everyone is hungry, and all keep constant watch on their predators and their prey. What you need is ears – by which I mean spies. We don't have any yet, but others do. They're planting them among us. I must stay in the shadows, so I can catch them. Don't tell anybody I'm your head of espionage. Simply tell them I'm a minister. Keep it simple.\""
+    },
+    {
+      "Key": "f19c08c6-11de-44a4-8ade-881e5d901a2e",
+      "Value": "\"A crowded caravan has arrived, the kind that often carries illegal goods. The guards searched the caravan and found a stash, but it didn't have potions or artifacts. It contained spying equipment. It's unclear who the spy is, but he's clearly experienced. He had fine tools.\""
+    },
+    {
+      "Key": "6f884afa-53f4-49c1-ae2b-69e8e193fac6",
+      "Value": "\"{name}, surely you realize that once you enter into intrigue, you will attract very close attention. All our neighbors are wondering who we are and how we can be used. And since we're but a quail among hawks, it's essential to be very careful. This is why I'm asking you to keep my doings secret. Introduce me as a minister. Simply a minister.\""
+    },
+    {
+      "Key": "e7dcb3ec-286d-469f-a7da-c6926d064bb8",
+      "Value": "\"{name}, do you know why I find the company of the short-living very annoying? They're in such a hurry to do as many things as they can, that they cause utter chaos. Back in {g|Kyonin}Kyonin{/g}, intrigues are very carefully devised. They're intended to last dozens of years. The plots were elegant and lies exquisite.\""
+    },
+    {
+      "Key": "587c2b77-0300-48eb-83b6-7f042a621b0c",
+      "Value": "\"I wouldn't be surprised to find actual ears on your palace's walls. Ask me what we found in the merchant's caravan if you don't believe me. A guard discovered a stash for smuggled goods – and a spy's gear was inside. It included very curious mathematical ciphers from {g|Ustalav}Ustalav{/g}. I must admit, they are very elegant.\""
+    },
+    {
+      "Key": "ab127faa-a8c3-450a-994a-6ba5218b3a60",
+      "Value": "\"Things are done differently here. For starters, spymasters publicly identify themselves as agents of espionage, all-seeing visionaries... They might as well paint a target on their foreheads. It's not a mistake I would like to make. For your subjects, I shall simply be a minister. You've come to power only recently, and the city is already full of murderers and spies. A guard recently found a stash while inspecting a trade caravan. It didn't contain any smuggled goods except some spying equipment and a few deadly toys. We could identify neither where the package came from, nor to whom it was going. But if you don't want such tools put to use, you must figure out who the spy is.\""
+    },
+    {
+      "Key": "31b971a0-55dc-4627-9f34-2d89a200ed0e",
+      "Value": "{n}Ekun nods.{/n} \"I'll order the guards to keep an eye on the merchants.\""
+    },
+    {
+      "Key": "0a70b3d1-a85d-4b88-9670-bf700d22ba71",
+      "Value": "\"Phew!\" {n}Jubilost raises his eyebrow and puts hands on his hips.{/n} \"The solution of someone who loves potboilers! A true spy is a professional! Our people are only amateurs.\""
+    },
+    {
+      "Key": "2c13d2f1-0560-41cd-9c16-84f7fdb20a4f",
+      "Value": "{n}Jaethal looks focused, her voice is as quiet as wind's whisper in the night.{/n} \"I hope those fools don't give away the game. It would be safer to arrest everyone involved.\""
+    },
+    {
+      "Key": "7e8167b2-37f2-4872-925f-30aad137c03c",
+      "Value": "{n}Ekun replies after a pause:{/n} \"I'd rather it was I who was doing the hunting. But it's good to give the merchants a reason to cooperate. They do love their gold.\""
+    },
+    {
+      "Key": "0b9f9d1b-7f71-45b1-ba68-4d64e1dc00e3",
+      "Value": "\"Perfect. The merchants would rather hand over their own mothers than lose their goods. They traveled a long way here, so they got to know their fellow travelers. They'd recognize a stranger in an instant.\""
+    },
+    {
+      "Key": "78380cd7-3ba5-4e6b-b610-ab3ed9bfed59",
+      "Value": "{n}Jaethal loses interest.{/n} \"We've practically caught an enemy spy, and now you entrust the final hunt not to me, but to some smuggler merchants? What a waste of time...\""
+    },
+    {
+      "Key": "ad5dbae9-b65a-4528-8e57-75fddeddc033",
+      "Value": "{n}Ekun shakes his head.{/n} \"This isn't fair. It's not the others' fault. Tormenting them is wrong.\""
+    },
+    {
+      "Key": "53e4e6f3-7851-4d35-8ad4-558d40d8a1d4",
+      "Value": "{n}Jubilost opens his mouth to object, but then changes his mind, nods, and frowns.{/n} \"Well, it's rough, it's tough, it's something an amateur would do, but it's nevertheless efficient. Like a hammer to the head.\""
+    },
+    {
+      "Key": "22945702-3634-4aa5-a464-cca433c22330",
+      "Value": "\"I'll teach them some new ways to feel pain. Only the truth will ease their bodily suffering.\""
+    },
+    {
+      "Key": "96f3420a-cd63-4667-9c93-4061ab0ec189",
+      "Value": "{n}The ranger shrugs.{/n} \"An enemy. A neighbor. An inquisitive mind. We haven't picked up the trail yet. We must keep looking.\""
+    },
+    {
+      "Key": "d8ef1441-2033-4ed3-848e-d89bf7b9aeba",
+      "Value": "\"I think of it as everyone at once. All countries are tied together by a chain of intrigue. Some would send their agents because they're scared. Others would send them because someone else did. The third one sends spies to watch the other two. Everything is interconnected.\" {n}Jubilost notices your facial expression and sighs.{/n} \"We don't know who sent him yet.\""
+    },
+    {
+      "Key": "0521b5a3-0a2d-483b-9efc-633b693ff1e4",
+      "Value": "{n}Jaethal's smile is predatory.{/n} \"I wonder, too. The name we receive under torture will be real. The others will be fake, just to trick us. So far, all I can say is that it could be any of our neighbors.\""
+    },
+    {
+      "Key": "88dcf305-8263-4f95-aa97-dea48f915022",
+      "Value": "\"I could order the merchants to look for a stranger among their servants. But I don't trust money-bags traders. I'd rather charge my people with watching the merchants. Then again, why look for clues when the best proof is evidence by confession? If you bring me the merchants for a couple of hours, the problem will be solved! The rack will make the spy sing like a bird.\""
+    },
+    {
+      "Key": "0112e59a-bee7-44b4-aeab-23c25cb9bf94",
+      "Value": "\"We failed to identify the owner of the package. But judging from its contents, this specialist is dangerous. Our people are helpless against him. They can't even catch their finger before it finds its way up their noses! Trying to track down a spy is out of the question. But you can't torture all the caravan's members – the merchants wouldn't approve of it. So we must tread lightly. We should threaten to confiscate their goods and kick them out. Trust me, they'll give us their information in no time.\""
+    },
+    {
+      "Key": "5754c8eb-c5be-4c73-bd0a-3a821db7cae8",
+      "Value": "\"We must catch the spy to track down his master. This is an animal that must be stalked quietly. We'll need a tail on every member of the caravan. But let them keep back. No threats, no torture. There's only one spy. The others are not at fault.\""
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "0aae1535-91ff-4584-8462-826046b32b28",
+      "Value": "\"I see. Let's discuss something other than your past.\""
+    },
+    {
+      "Key": "38379ebd-d3c0-42c7-9ac5-720fd62930af",
+      "Value": "\"I'll see you later. Farewell.\""
+    },
+    {
+      "Key": "c777ccba-219e-48c8-bcf9-32a0140c46ba",
+      "Value": "\"Well, was the girl at least worth it?\""
+    },
+    {
+      "Key": "52adef44-355a-4de4-8e36-e28def1b8077",
+      "Value": "\"Garess is the name of a noble house in Brevoy, is it not? You're a noble, then?\""
+    },
+    {
+      "Key": "63310c45-a94a-4b16-ba49-c8a0057e7b0a",
+      "Value": "\"Care to tell me why you were exiled? You've asked me a favor. I'd say you owe me an explanation.\""
+    },
+    {
+      "Key": "b59582d0-29a7-454d-b83a-28b62ffbf5e6",
+      "Value": "\"I hope you regret the things you've done. Duty should stand above emotion.\""
+    },
+    {
+      "Key": "6b661851-33c3-4eef-8255-9d1d6ce662fb",
+      "Value": "\"Leave the past in the past and think of it no more.\""
+    },
+    {
+      "Key": "e045ccd2-d8f4-40b4-86b4-1151b18733f9",
+      "Value": "\"I would know more of House Garess and your homeland.\""
+    },
+    {
+      "Key": "9f146448-8afe-4724-bf8c-94d780a134c0",
+      "Value": "\"Tell me of the lands you grew up in.\""
+    },
+    {
+      "Key": "7c32a807-185e-4d3b-93b6-6c11fa30e514",
+      "Value": "\"Tell me of House Garess.\""
+    },
+    {
+      "Key": "6abaa078-d228-4622-9db4-6a02ac0a6e80",
+      "Value": "\"Let's finish this conversation some other time.\""
+    },
+    {
+      "Key": "42c2d3f5-67e4-44ba-b2ad-0be594064b0c",
+      "Value": "\"Kesten, I failed to capture Tartuccio alive. He attacked me and was killed.\""
+    },
+    {
+      "Key": "eb62fe18-7d57-4325-9cc1-2b3cbb426ccb",
+      "Value": "\"What can Pitaxian spies hope to find in the Stolen Lands?\""
+    },
+    {
+      "Key": "73c083ce-9039-493f-9684-fa6e48f8ea4e",
+      "Value": "\"What did you do to be exiled? I believe I have a right to know.\""
+    },
+    {
+      "Key": "3834c3f0-a8d9-4948-afb7-c033287dacb7",
+      "Value": "\"If I were to offer you a public position, what job would you like to do?\""
+    },
+    {
+      "Key": "6f714d9b-7768-4fc3-bdae-def1f4f7527e",
+      "Value": "\"How are you managing the responsibilities of the main guard?\""
+    },
+    {
+      "Key": "ba434934-70b2-40d7-b90e-54fa88968c20",
+      "Value": "\"How did Tartuccio manage to fool you?\""
+    },
+    {
+      "Key": "af891a03-7dc2-4fd3-a81e-c57a27b2d3dd",
+      "Value": "\"I'd say you deserved a better fate, Kesten. True love should not be punished.\""
+    },
+    {
+      "Key": "4a8588a2-af27-4153-96f7-9047269002f3",
+      "Value": "\"How may I serve you, Your {mf|Grace|Grace|Highness|Highness}?\" {n}Kesten nods at you, pauses a moment, then bows awkwardly.{/n}"
+    },
+    {
+      "Key": "6e6e3a56-b423-4e1e-9a99-7231d556c7a8",
+      "Value": "\"Used to be.\" {n}Kesten cringes, as if he'd bitten a sour fruit.{/n} \"It's only a name now, nothing more. The {g|House Garess}Garesses{/g} are a noble family in {g|Brevoy}Brevoy{/g}, they own several mines in the Golushkin Mountains. My father Evan is cousin to Lord Howlan Garess.\" {n}Kesten frowns.{/n} \"But he's my father no longer.\""
+    },
+    {
+      "Key": "10f56764-379b-4d5f-8cf2-0f6738b630e4",
+      "Value": "\"Thank you,\" {n}sighs Kesten with relief.{/n}"
+    },
+    {
+      "Key": "e7713229-5bd0-479e-95e8-7eb04be4de36",
+      "Value": "{n}Before you stands a heavy-set man with grim, determined features. His weathered face is crossed by several scars — yet they do little to mar his appearance. His gaze is heavy, but he avoids eye contact, as if afraid of unwittingly sharing whatever burden weighs so heavily upon him.{/n}"
+    },
+    {
+      "Key": "83a3421c-b874-4ce6-8b09-a9aeb15fd799",
+      "Value": "\"In any case, I brought shame upon my name, and was punished accordingly. The family disowned me. I fled to {g|Restov}Restov{/g} and took up the life of a simple mercenary — until I received an assignment here, in the {g|Stolen Lands}Stolen Lands{/g}.\""
+    },
+    {
+      "Key": "cdce36fb-1a4e-4c5c-8501-2024b72e6cae",
+      "Value": "{n}An uneasy grin twists Kesten's lips.{/n} \"Fair enough. For a {g|House Garess}Garess{/g}, the prosperity of the house and the honor of the name stands above all else. And I… I was betrothed to a widow from another noble house. This union was of great importance to the family. However, three months before the wedding I met a commoner girl, gentle and pure, and we fell in love. I would have rather died than leave my Tania, so I decided to break off the engagement with my noble bride. I could never have expected what would follow…\""
+    },
+    {
+      "Key": "3c6d55d0-02c2-448b-83c9-91ce395a8cf7",
+      "Value": "\"My father was furious — I'd set a pointless love affair above the interests of the House. He expelled me from the family, and ordered to leave our lands under threat of death. And Tania...\"{n} A shadow of a smile crosses Kesten's face, only to leave it even more grim than before.{/n} \"Her mother was seriously ill, and she stayed behind to care for her, rather than follow me into exile. Thus, I was on my own: disgraced, without a name — and without love.\""
+    },
+    {
+      "Key": "4602b603-65cc-403d-9628-d468d942ee13",
+      "Value": "\"Don't imagine that I ask for pity,\"{n} Kesten remarks in a somber tone.{/n} \"Everyone gets what they deserve.\""
+    },
+    {
+      "Key": "bcd3cbff-76aa-4628-8b23-0f0101c0b607",
+      "Value": "{n}Kesten sighs, then says abruptly:{/n} \"I would never have left her of my own accord.\""
+    },
+    {
+      "Key": "a01e3e3e-6f30-476f-8d5e-01f36f5e1675",
+      "Value": "\"Fairness befits a ruler,\" {n}Kesten replies softly.{/n} \"Be sure — I've learned my lesson well.\""
+    },
+    {
+      "Key": "2a1de850-2e8f-4643-93c8-5b7d15a2b0f5",
+      "Value": "{n}Kesten frowns.{/n} \"That's no simple task. It's not only the love of a woman and a family that I've lost. I had a place in life, a purpose. Once such things are lost, they're hard to find again.\""
+    },
+    {
+      "Key": "9f039905-72da-49a8-8f70-f58421a8ce3c",
+      "Value": "\"The sly bastard has caused us no little trouble, that's for sure.\" {n}Kesten frowns.{/n} \"When he showed up in {g|Restov}Restov{/g} and announced he's going to join the expedition, nobody suspected a thing. Yes, a gnome. Yes, a sorcerer… But so what? Even after that terrible night some of my people were willing to bet money on you being the spy!\""
+    },
+    {
+      "Key": "6f7a4572-f4a7-45e0-b572-a98a4b13497d",
+      "Value": "\"His overconfidence was his downfall. Tartuccio's henchmen, it seems, imagined they could safely meet with {g|Pitax}Pitaxian{/g} spies in the town's seedy underbelly. But {g|Restov}Restov{/g} is the ancestral home of the Aldori, and Lady Jamandi is respected not only by the aristocracy and the common folk, but also by those on the other side of the law.\""
+    },
+    {
+      "Key": "ccf39807-b0a3-43ad-bd5b-3943008c3a8f",
+      "Value": "\"We received a message from the slums. A good friend, who wished to remain anonymous, suggested the {g|Swordlords}Swordlords{/g} take a closer look at a certain guest from {g|Pitax}Pitax{/g}. Jamandi immediately sent for me, and ordered me to capture the spy — all very quietly, of course. He told us everything — and not only about Tartuccio. I doubt that Irovetti was pleased to hear of his agents' failure.\" {n}A nasty grin crosses Kesten's face.{/n}"
+    },
+    {
+      "Key": "b7baf297-78b0-40f6-82c7-d9ceea82bebc",
+      "Value": "\"Well then, ask away.\""
+    },
+    {
+      "Key": "341b9a90-5b57-452b-9be4-ae8e2346ae89",
+      "Value": "\"As you wish.\""
+    },
+    {
+      "Key": "315bbe32-dd79-412a-b68f-e7f2324b0b58",
+      "Value": "\"{g|House Garess}House Garess{/g} owns a number of valleys and gorges in the Golushkin mountains. The landscape makes these places easily defensible, and they're rich in ores and everything else the depths of the earth have to offer. It is a place of rare beauty,\" {n}Kesten sighs.{/n} \"When I moved to {g|Restov}Restov{/g}, I couldn't get used to it for a long time — there was nothing but sky between the rooves. No mountain peaks anywhere in sight.\""
+    },
+    {
+      "Key": "4a18f950-f316-4306-b9b4-ff6dd8eb588c",
+      "Value": "\"It is an old and renowned family, one of the most influential in {g|Brevoy}Brevoy{/g}. A long time ago, the {g|House Garess}Garess house{/g} entered a pact with the dwarven clan of Golka. This proved to be of great benefit to both parties, and they've supplied the ore for our forges ever since. Lord Howlan even took the son of the dwarven leader as his ward. Who would've known where this would lead!\""
+    },
+    {
+      "Key": "b15ff674-5f2a-413c-b0e9-c0a3f9df0488",
+      "Value": "\"The same winter that {g|Brevoy}Brevoy{/g} lost the {g|House Rogarvia}Rogarvia{/g} dynasty, Howlan's only natural son, Bren, went missing in the mountains. Thus, Toval Golka, the lord's dwarven ward, became heir to {g|House Garess}house Garess{/g}. The lad has it tough though. Too many believed Howlan should have chosen someone of his own blood to be the heir. I would imagine my own father had similar plans for me... but we all know how that went.\""
+    },
+    {
+      "Key": "5d8a87b2-084c-480c-8b45-4d2db7c05527",
+      "Value": "\"Greetings!\" {n}Kesten Garess, the former captain of Jamandi Aldori's personal guards, nods to you, as though you'd seen each other in Restov only yesterday. He limps noticeably, and his clothes are stained with blood — and looks every bit as grim and focused as when you first met. But this time you also sense a hint of excitement in his eyes.{/n}"
+    },
+    {
+      "Key": "e345d2cf-ca8c-472b-9c78-8c2a550574e9",
+      "Value": "\"I have urgent news from {g|Restov}Restov{/g}. The investigation that I've conducted at lady Jamandi's orders have proved your innocence. Tartuccio was, and still is, the {g|Pitax}Pitaxian{/g} spy. That dreadful night, it was him who had opened the gate and let the assassins in. It appears that he planned to gain the barony and Aldori's support, only to later place these lands under the command of his true patron. King Irovetti is no stranger to intrigue, and likes to use others to do his dirty work.\" {n}Kesten winces.{/n} \"Anyway, lady Jamandi sends her apologies.\""
+    },
+    {
+      "Key": "18323852-e54d-4349-84e0-b004abd70179",
+      "Value": "\"Lady Jamandi ordered me to capture Tartuccio. We were following his trail when that damned mist fell. First we entirely lost our way, and then stumbled right into a bandit ambush. Alas, nearly all my people were wounded, and can go no further. And so I am here, asking for your aid. I'll point out on the map where Tartuccio is supposed to be. Bring that scum to {g|Oleg's Trading Post}Oleg's Trading Post{/g}, dead or alive. {g|Restov}Restov{/g} will not forget this favor!\""
+    },
+    {
+      "Key": "1520ae62-1ccf-4db3-9c06-d8238b3f04e0",
+      "Value": "\"We almost had Tartuccio cornered when this damned mist fell. First we entirely lost our way, and then stumbled right into a bandit ambush.\" {n}In an angry gesture, Kesten chops the air with his hand.{/n} \"My people can barely stand, so I would be grateful if you help us to capture this Tartuccio. He must be somewhere nearby. Bring that scum to {g|Oleg's Trading Post}Oleg's Trading Post{/g}, dead or alive. The {g|Swordlords}Swordlords{/g} will remember this favor!\""
+    },
+    {
+      "Key": "2c336652-256c-46df-83ce-58204700f604",
+      "Value": "{n}Kesten sighs.{/n} \"Well, this is not the best outcome, but I think it will be good enough for Jamandi. Take this as a reward for your help. I'll send word to {g|Restov}Restov{/g}, and let them consider how they might return the favor.\""
+    },
+    {
+      "Key": "55eb8cbf-7509-411b-b4e2-3a17820fe8ad",
+      "Value": "\"{g|Pitax}Pitaxian{/g} spies are much like magpies. They'll grab anything that catches their eye. Information, treasure, artifacts. This time King Irovetti had a chance to seize the entire {g|Stolen Lands}Stolen Lands{/g} region — and at the Aldori's expense. I'll give you some advice for the future — be wary of the Pitaxian king. He's truly a snake of a man.\""
+    },
+    {
+      "Key": "c9b8b843-39d1-448d-a6a1-ba86d7ba9d80",
+      "Value": "\"Once again, I thank you for your help. I'll remain here until my men recover from their wounds. Meanwhile, we'll help guard the {g|Oleg's Trading Post}trading post{/g} and fight off any bandits, should they return. Good luck in all your plans and endeavors!\""
+    },
+    {
+      "Key": "89c01372-5f21-4ce4-ae53-5be1d9c426f7",
+      "Value": "\"I believe I can manage to uphold the law. Being a Warden would suit me well.\""
+    },
+    {
+      "Key": "d47bb266-447c-4e0e-8533-e7e41bbb9089",
+      "Value": "{n}Kesten hesitates, carefully choosing his words.{/n} \"As you know, this land is quite a troublesome place. But as long as its people trust their guards, at least a bit, and as long as those guards are loyal to their ruler, then we'll be able to deal with any trouble that comes.\""
+    },
+    {
+      "Key": "8ea2b461-d069-4e15-b198-e1a9e6d67a79",
+      "Value": "\"Your {mf|Grace|Grace|Highness|Highness}…\" {n}Kesten falls silent, trying to choose the right words.{/n} \"I have already failed at keeping this land secure. You'd better find someone who can succeed where I have failed.\""
+    },
+    {
+      "Key": "3ab5e24d-f50b-44f0-bc47-1c544f5bd241",
+      "Value": "\"What's done is done.\" {n}Kesten lowers his head.{/n}"
+    }
+  ]
+}

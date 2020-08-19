@@ -1,0 +1,69 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "d26e483a-ba30-4d25-a4bf-647218c94008",
+      "Value": "{g|Arcane5_1}[Choice effects]{/g} \"From now on there will be no more magical experiments within the city walls. It's far too dangerous.\""
+    },
+    {
+      "Key": "9da06c1a-9339-48f4-bd6c-25f877510f2e",
+      "Value": "{g|Arcane5_2}[Choice effects]{/g} \"The experiments must continue. The townspeople will just have to put up with it.\""
+    },
+    {
+      "Key": "71632d2a-550c-4712-b6fb-42d97bcf011e",
+      "Value": "\"I leave this decision to you.\""
+    },
+    {
+      "Key": "7782055a-aaf8-4ed8-848b-659c30c70753",
+      "Value": "\"{name}, the townsfolk have launched a complaint against the inhabitants of the mages' quarter. They speak of 'dubious characters prowling the streets', while their sleep is disrupted by 'terrifying noises' and 'flashes of color'. So no big deal, right? But the people became fed up when a young alchemist's mistake lead to a... uhhh... contained explosion.\""
+    },
+    {
+      "Key": "3b1c97ac-3ad2-4a44-b20a-8cdb67c151aa",
+      "Value": "\"There's a matter that demands your personal attention, Your {mf|Grace|Grace|Highness|Highness}. The people of the capital have lodged a complaint against the inhabitants of the mages' quarter. Not only do unnatural sounds and strange lights disturb the peace, especially within the quarter itself – but also, the ongoing experiments have simply become too dangerous.\""
+    },
+    {
+      "Key": "96362b0a-086e-4c43-aaac-b3fab638e7b7",
+      "Value": "\"The rabble once more forgets its place, {name}! A madding crowd of concerned idiots has lodged a complaint against the inhabitants of the mages' quarter. The brainless vermin tremble in terror at the sight of anything that exceeds their narrow frame.\""
+    },
+    {
+      "Key": "9c74d52c-6bb1-41f6-86b7-f25b3b493c41",
+      "Value": "\"I understand just how… difficult it can be to live alongside mages and alchemists. But if we forbid their experiments, the magical potential of our {mf|barony|barony|kingdom|kingdom} will surely dwindle! If we limit their freedom to research, we'll clip our mages' wings, and they won't be able to help us expand. Therefore, I think we should refuse the citizens' complaint.\""
+    },
+    {
+      "Key": "102f6611-19eb-4173-8d34-e97fbbbab774",
+      "Value": "\"I've no doubt that some of these reports might be exaggerated. However, I also have no doubt that on the whole, the concerns of our citizens are well-founded. Magical experiments have no place in a densely populated city. Thus, I suggest that performing magical experiments inside the city walls should be outlawed.\""
+    },
+    {
+      "Key": "e176e07c-26d2-4cdf-8f73-311001163b38",
+      "Value": "\"The answer is clear. If one wishes for magic to continue growing and developing in their {mf|barony|barony|kingdom|kingdom}, one should accept that many experiments end in explosions, whirlwinds and clouds of acid. It is vain to hope for any better in these backwards lands. Those who complain may go to hell – they're even more useless than our dimwitted mages.\""
+    },
+    {
+      "Key": "c8b8304a-9957-4b1f-b596-7b9b881a72ee",
+      "Value": "{n}The Storyteller nods.{/n} \"I shall speak with the inhabitants of the mages' quarter.\""
+    },
+    {
+      "Key": "2e544f6d-4b1e-4384-88a6-2df9acf8a014",
+      "Value": "\"I knew you'd understand! Don't worry, I'll find a way to calm down the neighbors. We'll put on a fireworks show or something…\""
+    },
+    {
+      "Key": "54c35beb-2b72-4d96-ade5-fb9bfef8fc2e",
+      "Value": "\"Wonderful! I shall tell everyone at the mages' quarter that they may carry on with their experiments.\""
+    },
+    {
+      "Key": "5dd6994b-0f6f-4cf0-a530-2b64cc9e618e",
+      "Value": "\"Splendid. I won't even bother replying to the whiners. It sickens me even to look at them.\""
+    },
+    {
+      "Key": "f5deed33-e5cc-46af-b43c-ca7ad428e2c7",
+      "Value": "\"Windows all along the street started shaking, and then some sticky purple substance rained down on the town. Children started playing with it immediately. Well, that was messy! Allegedly, it made the streets smell like a 'wet goblin's hide' for a whole week!\" {n}Octavia tuts.{/n} \"They're amazingly well versed, these accusers. They must have plenty of time to go out smelling wet goblins!\""
+    },
+    {
+      "Key": "5aeba8e0-3b96-4684-841d-19bed1e4c6e3",
+      "Value": "\"A young alchemist's experiments have lead to an explosion so powerful that his neighbors up and down the street felt their window panes tremble. Later that day, an unidentified purple substance fell from the sky – all over the city. Our people complained that it made the capital reek of 'wet goblin hide'.\" {n}The Storyteller raises a concerned eyebrow.{/n}"
+    },
+    {
+      "Key": "25c1e6e1-945b-417c-b3b1-93563e72567d",
+      "Value": "\"As you can imagine, this list includes practically everything: lights, noises, and smells… The complaint was renewed today after an explosion at an alchemy lab which made the whole city 'reek of wet goblin hide'! Ha!\""
+    }
+  ]
+}

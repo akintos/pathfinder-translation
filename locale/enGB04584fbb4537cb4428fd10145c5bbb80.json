@@ -1,0 +1,109 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "87256a7a-85eb-4b61-a12c-c173587123ee",
+      "Value": "\"We've defended the capital, Kesten. Rest in peace.\""
+    },
+    {
+      "Key": "acb195ac-f280-4f01-950f-1c08bbb6bb1b",
+      "Value": "\"Hey, are you all right? Don't even think of dying on me! Come on, get up, we have to go and find out where those seeds came from!\""
+    },
+    {
+      "Key": "6e1e9480-dd5c-475a-bfb1-b99424772fac",
+      "Value": "[Ignore the question of the dying man]"
+    },
+    {
+      "Key": "13e4fd64-a035-4542-acdb-a0a891b92949",
+      "Value": "\"Report: what happened here?\""
+    },
+    {
+      "Key": "4f6acea0-cf8a-4eed-9037-04bb939f5ff4",
+      "Value": "\"Have you already searched the cave?\""
+    },
+    {
+      "Key": "adb04775-5af7-4be3-9d77-59d6b1b5f108",
+      "Value": "\"Are you wounded?\""
+    },
+    {
+      "Key": "c14fcee7-38d9-413d-aeda-2454c7d9f571",
+      "Value": "[Leave] \"I'll go deeper into the cave.\""
+    },
+    {
+      "Key": "28042476-d62b-42ba-aba6-23450f8f31fc",
+      "Value": "\"What do you think they were guarding?\""
+    },
+    {
+      "Key": "214d9144-27a8-4b03-81fc-5c0ab3f78ff8",
+      "Value": "\"I hope the capital will manage without us.\""
+    },
+    {
+      "Key": "119e5a4a-4cc1-4481-9889-d659e468fc75",
+      "Value": "{n}Kesten takes a deep breath, wiping sweat off his forehead.{/n} \"You arrived just in time, Your Grace! We could have dealt with goblins by ourselves, but not with this huge thing...\" {n}The warrior stops talking and takes a closer look at the owlbear's corpse.{/n} \"I've never seen such a specimen as huge as this before, even when I hunted these beasts with the militia.\""
+    },
+    {
+      "Key": "69497d04-5834-45f4-aa3f-8f9c43f1b90a",
+      "Value": "{n}As you approach, Kesten groans and tries to raise his head. You see huge, raking claw marks covering his body from the owlbear's attack — it's a miracle he still breathes.{/n}"
+    },
+    {
+      "Key": "d6037068-7f7a-49b7-a4ca-70138ce8315b",
+      "Value": "\"You… you came… capi… capital...\" {n}Kesten stares at you with feverish eyes.{/n}"
+    },
+    {
+      "Key": "0c3d45bb-320b-4477-94e9-e1abb242d484",
+      "Value": "{n}Kesten gives you a weary smile.{/n} \"Sorry... {mf|baron|baroness}... from now on… without...\""
+    },
+    {
+      "Key": "b0e7cba9-6428-4afb-8886-dc210bf072a9",
+      "Value": "{n}Kesten closes his eyes. His face, beneath the blood and mud, looks relieved.{/n} \"{g|Abadar}Abadar{/g}…be praised...\""
+    },
+    {
+      "Key": "0d97c3b4-8907-40af-9062-c56f8e609e90",
+      "Value": "{n}Kesten takes a ragged breath, then his head slumps to his chest and he falls still. He is dead.{/n}"
+    },
+    {
+      "Key": "98817f6d-c2bb-40f1-be0d-70e666753df8",
+      "Value": "{n}Kesten tries to say something else, but all that comes out is a trickle of blood from the corner of his mouth. He gives a last choking breath, then falls silent forever.{/n}"
+    },
+    {
+      "Key": "fa3b449c-c6e7-4690-a545-de6f8681514e",
+      "Value": "\"Nothing worthy of mentioning, just a few scratches. {g|Abadar}Abadar{/g} be praised, the rest are good too.\""
+    },
+    {
+      "Key": "a73c9c9d-baa7-4cf4-ab38-6a05a6b253cb",
+      "Value": "\"Nothing worthy of mentioning, just few scratches.\" {n}Kesten looks around, his voice bitter.{/n} \"But many families have lost their loved ones today.\""
+    },
+    {
+      "Key": "6a5c1d33-9f33-498a-8aa8-9c6ac245e8a0",
+      "Value": "\"We came here not long before you and ran into these goblins straight away. Take a look — they had surprisingly good weapons and armor — at least by goblin standards. Perhaps they were… ceremonial guards?\""
+    },
+    {
+      "Key": "39f868f7-20f2-49d7-8942-08ba323a5a19",
+      "Value": "\"The shaman called this place the 'Womb of {g|Lamashtu}Lamashtu{/g}'. I doubt goblins would use the name for just any cave — this must be a sanctuary to the Mother of Monsters.\" {n}Kesten glances at the dead owlbear.{/n} \"And I'm starting to understand why.\""
+    },
+    {
+      "Key": "709b8109-45c5-44c1-aa1e-23b6abbaba7a",
+      "Value": "\"No, my {mf|baron|baroness}. You came along just as we were dealing with these goblin guards. I suggest you search the place yourself — if anyone can find out what's going on — it's you.\""
+    },
+    {
+      "Key": "21fbc11c-73d7-4574-be80-f6f11d2039a5",
+      "Value": "\"We'll make sure no one enters the cave. Go ahead, gods bless you.\""
+    },
+    {
+      "Key": "c94f028a-86cd-4fa2-8658-9a268d0e90d5",
+      "Value": "\"The sooner we are done with this cave, the sooner we go home.\" {n}Kesten keeps his voice calm, but his brow is furrowed and he is clutching the hilt of his weapon tightly..{/n}"
+    },
+    {
+      "Key": "5c20bfa9-fc34-4150-a9c8-1100473fd53a",
+      "Value": "\"That right! It a shrine, a holy place of {g|Lamashtu}Mother Lamashtu{/g}! Many beasties emerge here and spread around. Shaman order warriors to guard here so no other tribe take the Womb for themselves! Owner of Womb of Lamashtu is owner of her love!\""
+    },
+    {
+      "Key": "8cb1366b-453c-4e3e-99a9-5c4612e80a18",
+      "Value": "{n}Kanerah scrapes her tail against the ground.{/n} \"This is not how I hoped to find you, Captain Kesten! And it's all because of your stupid willfulness. I wish a certain someone could see what it leads to...\""
+    },
+    {
+      "Key": "5a506dbd-3ad9-4bbc-898c-9a9ab7dcd939",
+      "Value": "{n}Kalikke's eyes fill with tears.{/n} \"You gave so much to your people, Kesten. Oh, why did this have to happen...\""
+    }
+  ]
+}

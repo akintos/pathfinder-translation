@@ -1,0 +1,157 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "94204bb3-f5c9-46e4-8f26-1232e8bce1ad",
+      "Value": "\"Show me your wares, Oleg.\""
+    },
+    {
+      "Key": "26fb5e6a-83d0-4d9d-acf8-24fe7756d15e",
+      "Value": "\"I need to take care of the Stag Lord. Do you know of anything that could help me find him?\""
+    },
+    {
+      "Key": "f82e9daa-0f1a-4435-a01d-6e60b1acee5a",
+      "Value": "\"What else can you tell me about the Stag Lord?\""
+    },
+    {
+      "Key": "0e6bf794-21ec-4c2e-9c5a-e3f4745b86a3",
+      "Value": "\"Tell me about the Stag Lord's gang, and any other bandits operating in the area.\""
+    },
+    {
+      "Key": "b3b15117-4faa-4e39-8b4d-2828412cb2dc",
+      "Value": "\"We'll speak another time. Farewell!\""
+    },
+    {
+      "Key": "0ba09a7b-ce62-462c-80a1-596ca1de7702",
+      "Value": "\"The Stag Lord's gone. We found his fortress and sent the villain to oblivion.\""
+    },
+    {
+      "Key": "1b511061-be33-48ed-8de9-a90ded3dd1d3",
+      "Value": "\"Restov awaits — I plan to set off right away.\""
+    },
+    {
+      "Key": "16bfb718-5b48-42d0-8017-76a40cb7e304",
+      "Value": "\"I still have some unfinished business here.\""
+    },
+    {
+      "Key": "89a36b36-8dba-48dc-ba4e-7500d5cac039",
+      "Value": "\"Tell me about yourself. Why open a trading post in such a dangerous place?\""
+    },
+    {
+      "Key": "9d95fc88-6e2e-4c02-9467-33f680f82f75",
+      "Value": "\"Tuskgutter is dead! You could mount his head on the wall as a trophy!\""
+    },
+    {
+      "Key": "786b9150-d4c6-4c17-a345-d106883a908a",
+      "Value": "\"How are things going in the trading post?\""
+    },
+    {
+      "Key": "3b35cb28-7704-4342-9b79-7491c52a75db",
+      "Value": "\"Remind me: what is the problem with Tuskgutter?\""
+    },
+    {
+      "Key": "9531d44c-0295-447f-925e-82a0a94cc0d6",
+      "Value": "{n}Oleg greets you with a quick nod.{/n} \"So, the {d|c11 Evil Money}bandit-breaker arrives.{/d}\""
+    },
+    {
+      "Key": "12a5bb30-332f-4706-8604-d5d50003bb82",
+      "Value": "\"Greetings!\" {n}Oleg seems to be in a good mood and greets you warmly.{/n} \"You certainly ruffled those villains' feathers!\""
+    },
+    {
+      "Key": "1e155b99-9d96-47e9-888e-03525b630a82",
+      "Value": "\"Well, anyway, new day, new troubles. Have you seen the fog? Never seen anything like it before. The road to {g|Restov}Restov{/g} looks like someone spilled milk and it just hung in the air. I couldn't see anything through that soup, not even with a torch! Feels like witchcraft to me. I'd bet the Stag Lord's involved somehow. Rumors say he deals with all kinds of bad magic.\""
+    },
+    {
+      "Key": "62e73c98-c7bd-44e2-b93f-75863705afab",
+      "Value": "\"You looking to pay for my wares with the same {d|c11 Evil Money}money{/d} you took from me? Is that funny to you?\""
+    },
+    {
+      "Key": "27f8c807-b041-4485-986c-ff1917f63001",
+      "Value": "\"Nothing's too good for such a good person!\""
+    },
+    {
+      "Key": "6e472e77-9017-47dc-80f8-5610676d3eea",
+      "Value": "\"Of course, Your {mf|Grace|Grace|Highness|Highness}! Take a look!\""
+    },
+    {
+      "Key": "8d59c7bc-eb91-42db-b2c8-e4545ff5eca3",
+      "Value": "\"A fine day to you! What brings you by?\""
+    },
+    {
+      "Key": "2cc4ddca-455e-4b98-8cff-042d9f449dd9",
+      "Value": "\"That's quite a task you've set yourself on. The Stag Lord has a fortress somewhere in the area, but only a few chosen from the most trusted of his rabble are ever invited. The location of the fortress is a heavily guarded secret. And with this fog hanging around, I'd imagine it would be even harder to find!\""
+    },
+    {
+      "Key": "d7622c58-efa7-4621-afa6-f9514df6f8cf",
+      "Value": "\"I suppose you could try to follow the trail of those bandits who attacked {g|Oleg's Trading Post}the post{/g} before. They came from the southwest, from the side of the {g|Thorn River}Thorn River{/g}. The fortress might be there, or at least some large camp of theirs where you can find information.\""
+    },
+    {
+      "Key": "b39178dc-312a-4f42-ad3a-cd25fd42d17f",
+      "Value": "\"Not much. Not like I've sat down and shared a cup of wine with the man, you know? But I think he arrived in {g|Stolen Lands}the Stolen Lands{/g} less than a year ago, from what I've heard. But soon as he got here, he took over everything. I wrote to {g|Restov}Restov{/g}, tried to warn them that the Stag Lord wasn't some typical gang leader, but they didn't listen. The rumors about him are horrible. He'll kill a person if they so much as disagree with him. He never reveals his face. Those who've seen him up close report the same thing — ugly scars cover every inch of his skin not covered by his clothes.\""
+    },
+    {
+      "Key": "a85673ff-9e4b-49b4-a3ff-c93061173bec",
+      "Value": "\"The other gangs, if they're still here, try their best to keep a low profile. As for the Stag Lord's men... Well, the most notable of them are his three lieutenants. The oldest one's name is Akiros — he's from somewhere around {g|Taldor}Taldor{/g}. He's fierce in a fight, but from what I hear, he isn't cruel by nature. The other two are Dovan and Auchs — they're usually seen together. Auchs is a mountain of a man with the mind of a five-year-old — albeit a mean and bloodthirsty one. He's quite the fan of torture and bloody executions. Dovan, though, that one's a snake in a man's body. I hope to never meet him in the flesh — the rumors about him are more than enough for me!\""
+    },
+    {
+      "Key": "190f456f-0944-4240-956b-fdc4be368f10",
+      "Value": "\"The Stag Lord's past is a mystery. He just... arrived one day. He was immediately a power to be reckoned with. I guess the most surprising thing about him is that he has as many followers who admire him as he has minions who obey him out of fear. He's got some inner strength in him — or maybe an inner madness. There are many who seem to follow him BECAUSE of that madness, like it was some kind of virtue.\""
+    },
+    {
+      "Key": "013744ac-248b-4b52-9eac-02bbeba67624",
+      "Value": "{n}Oleg looks at you with respect bordering on admiration.{/n} \"And good riddance! Maybe now we'll be able to actually LIVE in {g|Stolen Lands}the Stolen Lands{/g}, rather than just surviving.\" {n}Oleg sighs.{/n} \"Without a doubt, more people will flock here now. It'll surely boost trade, but all the noise they'll bring with them... Well, that's none of your concern. I bet you can't wait to return to {g|Restov}Restov{/g} and report your great victory!\""
+    },
+    {
+      "Key": "239186da-8330-4aa5-b902-30331bd17e8f",
+      "Value": "\"As you wish!\""
+    },
+    {
+      "Key": "96d30fb4-76a3-45b4-94a6-fbcd6d45fb98",
+      "Value": "\"I just... dislike the noise,\" {n}Oleg answers reluctantly.{/n} \"I'm from {g|Restov}Restov{/g}. Cities are... complicated. Lots of people, and each with their place on the shelf — bow before this one, fear this other. Don't do business with a third, but be sure to be extra nice to the fourth... And villages are little better! Everyone likes to stick their noses into each other's business. I just wanted a place where I could be my own master. And so I ended up here.\""
+    },
+    {
+      "Key": "dfcb6878-18c2-4f28-8c35-14fb9bb6d775",
+      "Value": "\"Good day to you, Your {mf|Grace|Grace|Highness|Highness}.\""
+    },
+    {
+      "Key": "c0026810-f911-43b7-a725-bfe481c2f44a",
+      "Value": "{n}Oleg looks at the bloodstained boar's head with respect, touching its tusk with his finger to test how sharp it is.{/n} \"That's one heck of a beast! I'd love to have a trophy like that, but a deal is a deal. The head goes to the old Benzen, and his bounty goes to you!\""
+    },
+    {
+      "Key": "35b38f82-82b1-4b76-bae4-eae2ba81d149",
+      "Value": "\"Jhod mentioned that he needed to speak with you. You should see him before you leave.\""
+    },
+    {
+      "Key": "041ffaa0-5137-406c-9097-7caf93045166",
+      "Value": "\"Just be sure you see Kesten before you go — he was eager to discuss something with you.\""
+    },
+    {
+      "Key": "8324e996-8a29-46f0-a438-9603000b5673",
+      "Value": "\"In the meantime, I'll gather some supplies for your journey. Come back when you're ready.\""
+    },
+    {
+      "Key": "58f7cbf2-7add-4a8c-ae95-5d837e6a3d5b",
+      "Value": "\"The fog seems to be thinning, but we should wait until it burns off completely. In the meantime, I'll gather some supplies for your journey to make sure you can enjoy your trip back to {g|Restov}Restov{/g}!\""
+    },
+    {
+      "Key": "e393ca12-9bb1-4c10-9c22-a6c752a6ea5e",
+      "Value": "{n}Oleg scratches his head.{/n} \"We're doing all right, I'd say. I could even say we're doing pretty well, thanks to the wise {d|c21 Claim OTP}decisions{/d} and protection of Your {mf|Grace|Grace|Highness|Highness}. You know, you had me worried for a moment back in the capital. I almost thought you were going to double our taxes, make a beggar of me...\""
+    },
+    {
+      "Key": "2511eb1f-4dc8-4d46-b9da-26a3842c9f50",
+      "Value": "{n}Oleg inhales loudly through clenched teeth.{/n} \"Why not ask again after your soldiers come back to {d|c21 Capture OTP}collect{/d} more taxes? If there's anyone left to answer, that is...\""
+    },
+    {
+      "Key": "3f198fd9-d2ee-48e8-9e7b-1718ab4dcb92",
+      "Value": "\"We're fine, I guess. Just, please try not to be too mad about our taxes, Your {mf|Grace|Grace|Highness|Highness}. We {d|c21 Left OTP}send{/d} them to {g|Restov}Restov{/g}, sure, but we still bring trade to your lands. We still benefit you.\""
+    },
+    {
+      "Key": "c20f2dbf-7715-41ec-b620-4bf862526a84",
+      "Value": "\"It is a giant boar. A terrible beast — he has killed many hunters, and maimed many more. Old Benzen has lost his leg to Tuskgutter, so he has put up a bounty for the animal's head!\""
+    },
+    {
+      "Key": "7fe8e6af-fd6b-45d0-a4d2-3bee83983cf1",
+      "Value": "\"Greetings!\" {n}Oleg welcomes you warmly, seemingly in a good mood.{/n} \"You certainly ruffled those villains' feathers! I want to thank you — this is for your efforts. Now, don't offend me by trying to turn it down — just take it. An honest fight deserves an honest reward! If that were a more common practice in this world, I think life would be so much better...\""
+    }
+  ]
+}

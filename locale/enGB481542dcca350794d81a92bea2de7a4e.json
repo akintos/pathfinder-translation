@@ -1,0 +1,141 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "c4e54e01-29c7-40b3-bcf8-a122664dbccf",
+      "Value": "{g|Loyalty10_4}[Choice effects]{/g} \"Off with their heads!\""
+    },
+    {
+      "Key": "18af66ef-204b-49df-84d0-1597c580767d",
+      "Value": "{g|Loyalty10_5}[Choice effects]{/g} \"I will grant pardon to them if the priests agree to bail them out.\""
+    },
+    {
+      "Key": "f825fa94-dd07-4b5b-8962-bbcd38cd61a0",
+      "Value": "{g|Loyalty10_6}[Choice effects]{/g} \"I'll spare their lives, but I cannot let them go just like that. Let them make up for their sins by the honest service in my army.\""
+    },
+    {
+      "Key": "5e092838-2da3-495b-9cd1-b497e53268d9",
+      "Value": "\"Decide their fate by yourself.\""
+    },
+    {
+      "Key": "aad2ae35-4341-4095-96d8-6909101f28d5",
+      "Value": "\"Open public schools at the cost of your profits. Even the peasants in my domain must know how to read and write!\""
+    },
+    {
+      "Key": "d2162d99-118d-4040-90e9-b1c7517edacd",
+      "Value": "\"I love magic trinkets.\""
+    },
+    {
+      "Key": "89eba91e-4232-4a94-89b1-fbac791580c6",
+      "Value": "\"You're wealthy, so reward me with gold.\""
+    },
+    {
+      "Key": "2027228a-e5d4-4005-8de2-294f37b4561e",
+      "Value": "\"Now to the bad news. The guards arrested a few citizens, organizers of riots in the wealthy quarter. You must determine their fate. You can impose strict penalties... or show mercy – that's what I'd like to ask you to do. Perhaps, you could kindly allow priests of {g|Erastil}Erastil{/g} and {g|Sarenrae}Sarenrae{/g} to bail out their followers.\""
+    },
+    {
+      "Key": "cdc7a42a-6ead-43b1-8964-2a93f6401c6b",
+      "Value": "\"Today the assembly of merchants decided that the city would hold a feast in your honor! It's so lovely when your name is associated with joy and wealth. It means, your pack is flourishing, and they know who they should thank for it.\""
+    },
+    {
+      "Key": "bdfa0c8a-8774-4d35-abe7-98b27a70fdc2",
+      "Value": "\"I understand... your wrath. Although I'm sorry for the poor fellows that were denied mercy.\""
+    },
+    {
+      "Key": "1c28f87e-191f-4027-a6ac-676dace4f552",
+      "Value": "\"It's a shame. They were ambitious and strong. But they never feared you, so they would have caused trouble anyway.\""
+    },
+    {
+      "Key": "32078ac0-1390-4bc9-ba74-abb457cad297",
+      "Value": "\"The priests will gladly take the responsibility. This is merciful and wise. Thank you!\""
+    },
+    {
+      "Key": "18e653f3-de0e-4c90-ac03-2a2157396573",
+      "Value": "\"I'm surprised at how willingly you share credit with these prudes. But it's your decision, of course.\""
+    },
+    {
+      "Key": "7466d63d-5398-428c-9f16-d02f14d817d3",
+      "Value": "\"It is merciful and just. Let me pass your message to the general.\""
+    },
+    {
+      "Key": "c53532eb-2681-4dbf-8bc8-e958094c9d2d",
+      "Value": "\"I agree. Why waste such daring and strong fellows? They may serve your pack!\""
+    },
+    {
+      "Key": "de59785f-8943-41c9-ae4c-6ec5352b0dde",
+      "Value": "\"Let's send them off to the temple for schooling. Priests will help their heads clear by hard labor and a word of wisdom.\""
+    },
+    {
+      "Key": "49598229-0372-47cb-b4b5-83bfb0d175fc",
+      "Value": "\"I will dispatch them to your army. Their fault must be washed off with enemies' blood. They're destined by fate to induce rage of their comrades.\""
+    },
+    {
+      "Key": "0c937a82-a768-4ea7-a7af-16adaac6d57f",
+      "Value": "\"There's someone else waiting for your audience. Please, take the time to talk to the visitor. It's the head of {kingdomname} kingdom's trade society.\""
+    },
+    {
+      "Key": "fda4ec0c-cf61-43c1-81af-e60818d76840",
+      "Value": "\"Now that we're done with the rebels, I'd like to ask you to receive one more visitor. It's the leader of merchants of your kingdom.\""
+    },
+    {
+      "Key": "5721ccae-4b4e-4d30-bf0f-cac390dfbb7c",
+      "Value": "\"{name}, today the high society council decided that the city would hold a feast in your honor! With street food, fairs, music and fun! The people want to thank you for their peaceful, abundant life.\""
+    },
+    {
+      "Key": "fdce2d48-71e7-4acd-902a-9ce91438ab7c",
+      "Value": "\"There's something else. The guards arrested the last organizer of the riot today. It's time to pronounce the verdict. You may demonstrate your strictness by executing them. Or you may acquire a reputation of a merciful leader by pardoning and sending them off to purge the guilt with blood. The only thing you shouldn't do is listen to {g|Erastil}Erastil{/g} and {g|Sarenrae}Sarenrae's{/g} priests. They want you to pardon the troublemakers and send them to temples on probation. Even if you do so, it's them who will get the credit for mercifulness, not you.\""
+    },
+    {
+      "Key": "f3f0117a-d744-4cbc-be2f-3c8302b42c8c",
+      "Value": "{n}A solid halfling with graying hair bows to you politely and wipes off the excessive sweat.{/n} \"Greetings, Your Highness! I am here to thank you on behalf of all merchants that live in your domain! Lords often consider us as money cows. We appreciate that you let us go about our own business. You didn't get to rob us as you took power. We discussed the matter and decided that we'd like to pay you back for your kind understanding. What can we do for you, Your Highness?\""
+    },
+    {
+      "Key": "d5eafb90-35b0-4e8e-9df0-1fae537f696f",
+      "Value": "\"It's a very wise demand! The educated youth may come in handy, especially now that the trade in the {g|Stolen Lands}Stolen Lands{/g} is flourishing!\""
+    },
+    {
+      "Key": "c6a2255a-92b3-41fe-87e9-0a39dc7b39b7",
+      "Value": "\"You have a fine taste! My colleagues and I will do our best to surprise you with a decent gift!\""
+    },
+    {
+      "Key": "b56d94f4-0e15-481f-8f0d-98865fdb863b",
+      "Value": "\"Believe me, Your Highness! We will spare no expense for the most luxurious monument possible! It will make rulers of other kingdoms jealous!\""
+    },
+    {
+      "Key": "5caa1cc1-b106-41a1-8478-7cdb6d15f2fc",
+      "Value": "\"Don't forget to pay well to your servants, not only to your ruler!\" {n}Tristian stops, looks at you apologetically and smiles.{/n}"
+    },
+    {
+      "Key": "1dede5e8-f777-4de4-ac6f-5e823235d1bd",
+      "Value": "\"Remember who you owe your abundant life in the capital to, without having to hide from robbers in the bushes.\" {n}The merchant nods hastily. Tsanna looks up and down at him, like a cook checking out a fresh steak that goes straight into cauldron.{/n}"
+    },
+    {
+      "Key": "59902776-3de8-4faa-a771-51f2b914cb71",
+      "Value": "\"Your Highness, the instigators of the riot have been arrested. You will have to determine their fate. If you're asking yourself whether you should make a grand gesture and pardon them, the answer is no. They're as dangerous as a hound that tasted blood.\""
+    },
+    {
+      "Key": "b0dda7b5-4621-45f7-b6b7-0fbee0792145",
+      "Value": "\"It's questionable. They'll keep spreading their dissidence among soldiers. The army mutiny is going to turn out much, much worse. I'll send my agents for surveillance.\""
+    },
+    {
+      "Key": "eb0f3911-622d-4615-9406-f7773ad27f8a",
+      "Value": "\"Your gentle heart will get you in trouble. The only lesson they'll learn, is that starting a riot doesn't carry a penalty. The next riot will gather even more followers. Those who got scared of the punishment last time, will certainly join the next riot.\""
+    },
+    {
+      "Key": "e20c9d49-cb5a-47e7-b945-1da83cc98846",
+      "Value": "\"Hang the troublemakers. It's your best option. It'll teach peasants a proper lesson. Just the idea of a riot makes the kingdom unreliable.\""
+    },
+    {
+      "Key": "28db7f7e-51b6-44ee-98f0-442b1703fb9e",
+      "Value": "\"Now that we're done with the unpleasant task, I'd like to ask you to receive an important visitor. He's the leader of merchants of your kingdom.\""
+    },
+    {
+      "Key": "6eef4895-5fa7-4f8a-97f6-70c1d3143178",
+      "Value": "\"I'm happy my advice came in handy, your Highness. You managed to tame the natural urge to take populist measures, and carefully considered your policy in a pragmatic manner. It was very insightful of you as a ruler!\""
+    },
+    {
+      "Key": "c74d4b4a-a1da-4f0e-bd85-307afeed8664",
+      "Value": "\"The riot will start again unless you punish them. In Brevoy, they usually hang the rebels or exile them to army service. Considering that we don't want a military riot, I'm sure the rascals belong with the scaffold.\""
+    }
+  ]
+}

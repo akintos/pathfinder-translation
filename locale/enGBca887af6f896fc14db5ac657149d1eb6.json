@@ -1,0 +1,109 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "a9c0e9dc-e514-4675-b396-09eaefa555a9",
+      "Value": "\"Where are you from?\""
+    },
+    {
+      "Key": "ac0cdb10-1a7f-4be2-ba21-40f7f73a8273",
+      "Value": "\"What brought you here?\""
+    },
+    {
+      "Key": "6c19e74a-3cec-489f-b68f-b009f22d84aa",
+      "Value": "\"Will you be staying?\""
+    },
+    {
+      "Key": "065736ec-117e-4750-ac3a-1db6f004cf0b",
+      "Value": "[Give 10 gold] \"You travel around... Have you heard anything interesting about my neighbors?\""
+    },
+    {
+      "Key": "8ddb92ad-6a0c-4322-bb55-5043be8c69ce",
+      "Value": "\"Have you heard anything interesting about my neighbors?\""
+    },
+    {
+      "Key": "1c77f674-89f3-4c9c-a182-173b7f2fe38c",
+      "Value": "\"How are things in Brevoy?\""
+    },
+    {
+      "Key": "b513a0e6-f387-41c6-baca-a04a0a2d9625",
+      "Value": "\"Any news from Mivon?\""
+    },
+    {
+      "Key": "ad4d4a58-fcbe-4821-8452-3c056c909f71",
+      "Value": "\"What's going on in Pitax?\""
+    },
+    {
+      "Key": "ddda3c98-0878-4618-a18e-b062ad68765f",
+      "Value": "\"Thank you. That's enough for now.\""
+    },
+    {
+      "Key": "867d32ed-e0c8-4702-a408-208a1fb54cfb",
+      "Value": "\"Has anyone asked about my lands?\""
+    },
+    {
+      "Key": "aa7bbf91-d02c-4a44-9f3c-f73b74c172ca",
+      "Value": "\"Farewell.\""
+    },
+    {
+      "Key": "756f7bd3-dcbe-4bae-97e3-7a590182b8dc",
+      "Value": "\"Wait! I want you to meet someone.\""
+    },
+    {
+      "Key": "1326a4e6-9a76-4c62-a5d9-5a35465813bb",
+      "Value": "\"Here! This is Tessie the Quill, a book peddler! If not for her, I'd probably still be sitting in a radish patch in my hometown.\""
+    },
+    {
+      "Key": "caca4a2f-dae5-47a0-b3db-034284e01053",
+      "Value": "{n}Tessie, a plump woman wearing heavily patched clothes, greets you with a broad, gap-toothed smile.{/n} \"Nice to meet you, Your Barony! Thanks for keeping an eye on this little tot!\""
+    },
+    {
+      "Key": "03a4b8ef-4bb3-4a8b-ab7b-fde4292f4452",
+      "Value": "\"Right now, or in general? Came from {g|Mivon}Mivon{/g} right now. As for in general — well, I'm from everywhere and nowhere. Was found under a bush, and I've traveled with the wind ever since, ha ha!\""
+    },
+    {
+      "Key": "77c1064b-0e19-4fd8-8349-76bee6719778",
+      "Value": "\"A little bird told me about a proper city in the {g|Stolen Lands}Stolen Lands{/g} now, one with a printing house — with an old friend of mine sitting in that printing house, at that! So I came by to see her, maybe buy some books while I'm at it.\""
+    },
+    {
+      "Key": "397e2620-cd48-42be-a949-3b3b9157153c",
+      "Value": "\"Me? Not really sure. Probably for a while, at least. The people here seem fine. They read, at least — then again, there is a printing house here... And I get to catch up with Linzi — hadn't seen her for a few years, y'know. After I get tired of things here, I'll be on my way again.\""
+    },
+    {
+      "Key": "c2c31313-a74b-403c-b21f-cb6ec620516a",
+      "Value": "{n}Tessie hides the money and smiles knowingly.{/n} \"Course I do! Who you want to hear about?\""
+    },
+    {
+      "Key": "83fd332a-3dc2-435b-bd58-93cee8e28e04",
+      "Value": "\"Sure! Who you want to hear about?\""
+    },
+    {
+      "Key": "33091f9a-752d-4e9e-971c-17943a02317a",
+      "Value": "\"You're always welcome! We peddlers are pretty good at judging rumors, y'know.\""
+    },
+    {
+      "Key": "ae11f6db-e9d9-4d05-a914-5336e5e0cb86",
+      "Value": "\"Now, don't you go taking me for a spy, all right? Honestly — go ahead and check me with magic, or just ask Linzi. I'm happy to hear and pass along rumors, but I don't go spying on purpose — my business is books.\""
+    },
+    {
+      "Key": "59cf4b31-11c2-4ced-9640-727e9e39f0fc",
+      "Value": "\"Bad. People in {g|Restov}Restov{/g} are honing their swords. With the royal house gone, it's just a matter of time until there's some big uproar. Everyone knows it, and no one wants it, but there doesn't seem to be any way to avoid it.\""
+    },
+    {
+      "Key": "0e689963-78de-4558-9823-cee475b6aa2d",
+      "Value": "\"The usual — schemes and duels! Seems a bunch of runaway bandits flooded in there from {g|Brevoy}Brevoy{/g}. Rumor has it the Great Houses are intentionally straining {g|Mivon}Mivon{/g} so the Aldori there won't be able to help {g|Restov}Restov{/g} when the carnage begins.\""
+    },
+    {
+      "Key": "87cfb7b8-feff-464e-b2cb-de33c86c0386",
+      "Value": "\"Under King Irovetti, what isn't? Parties, parades, executions... The king robs the trade houses that used to own the city. He brought some gang in from {g|Numeria}Numeria{/g} who's been selling deliriant potions. He sends strange expeditions into nearby lands, but no one knows what he's looking for... Nobody can tell what the kook's thinking — that's why he always wins!\""
+    },
+    {
+      "Key": "effa2797-ecf9-41ef-b9f1-9f6e44352570",
+      "Value": "\"As for your question... well, of course they're interested. People in {g|Restov}Restov{/g} want to know if they were right to wager on you, while {g|Mivon}Mivon{/g} and {g|Pitax}Pitax{/g} are still trying to take the measure of their new neighbor. No one knows what to expect from you, so they're getting themselves ready for some surprises!\""
+    },
+    {
+      "Key": "833f20b7-77ff-46fa-a0f7-dfaf44b874fe",
+      "Value": "\"A good day to ya! Take care of Linzi!\""
+    }
+  ]
+}

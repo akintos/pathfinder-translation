@@ -1,0 +1,101 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "24312097-71eb-4bc9-ac9d-9b5e8428bd43",
+      "Value": "\"Thank you. I'll be expecting your future creations.\""
+    },
+    {
+      "Key": "246d1e15-b10a-4ad8-9252-0e38f92bb920",
+      "Value": "\"I would like to order a specific item.\""
+    },
+    {
+      "Key": "e0757e36-0d28-4b7c-82af-a434e66f2d93",
+      "Value": "\"Your services are no longer needed.\""
+    },
+    {
+      "Key": "904af8e5-c7ed-4376-8062-c7f80c84650c",
+      "Value": "\"A set of magic scrolls.\""
+    },
+    {
+      "Key": "e12563f1-ff91-4755-9c5c-0b1262ef4b39",
+      "Value": "\"Wand.\""
+    },
+    {
+      "Key": "4dd99d37-89e6-4906-a3c4-6618f31d862b",
+      "Value": "\"Rod.\""
+    },
+    {
+      "Key": "376e688c-e2ce-4d40-b032-e1d6e1ef74d2",
+      "Value": "\"Staff.\""
+    },
+    {
+      "Key": "1e583ec2-b4b7-4da4-aced-306416b0fffe",
+      "Value": "\"I changed my mind. Do as you wish.\""
+    },
+    {
+      "Key": "a6216696-bfee-4e2d-a656-a22a986bff54",
+      "Value": "\"Of course!\""
+    },
+    {
+      "Key": "22b0ef7c-6f88-4cd1-908b-192ecaf93e0a",
+      "Value": "\"No, Irlene, your regular deliveries are enough.\""
+    },
+    {
+      "Key": "e043969c-6a25-4036-afe7-13ed29034a5c",
+      "Value": "\"Remind me, who are you and what are you working on?\""
+    },
+    {
+      "Key": "d9a4dae5-f606-4347-9c3c-ba07fb4b556c",
+      "Value": "{n}{d|Irlena}Irlene{/d} bows.{/n} \"Greetings, {mf|Your Grace|Your Grace|Your Highness|Your Highness}! Allow me to alleviate your daily concerns with a humble gift from your admirer!\""
+    },
+    {
+      "Key": "69070355-d08c-443e-8f24-eae180e09a85",
+      "Value": "\"I am certain that you or one of your friends will find this... trinket useful. It's come a long way to get to your hands.\""
+    },
+    {
+      "Key": "ab76e2fb-4fd9-4b3f-b554-4fb8fcdb776d",
+      "Value": "\"I'd like to take this opportunity to thank you once again, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, for your kind generosity. I have another... appealing offer for you.\""
+    },
+    {
+      "Key": "0c85cd1e-6457-4821-ac41-08fb1025e0a1",
+      "Value": "{n}Irlene pales.{/n} \"But... have I done something to insult you? Well, I suppose it's up to you. I won't trouble you again... But this was quite an unexpected rejection.\""
+    },
+    {
+      "Key": "83dd0b7a-d60b-48cb-a336-321432133c87",
+      "Value": "{n}Irlene breaks into a smile.{/n} \"I won't keep you waiting.\""
+    },
+    {
+      "Key": "2030cf78-5ca3-4ce9-a6e0-436400ccfae5",
+      "Value": "\"My quality for your money! What would you like?\""
+    },
+    {
+      "Key": "7000c174-b5e5-4b73-a956-36c80727e811",
+      "Value": "\"Whatever you say!\""
+    },
+    {
+      "Key": "1aa41468-a9a3-49ef-ae92-077d07b9fd1b",
+      "Value": "{n}Irlene starts twisting her hair around her finger.{/n} \"My range of goods is wide enough, no doubt. But just for you, I can get something exquisite... One of my partners may have come across something valuable and rare. However, I'll need your help to deliver it to you. Are you interested?\""
+    },
+    {
+      "Key": "31fa81e6-5081-4773-9c00-2a0e54eab363",
+      "Value": "{n}Irlene claps.{/n} \"Come to my shop, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, so we can talk more in private.\""
+    },
+    {
+      "Key": "e4fc1b6d-c459-452f-b20e-bc0e5bd824dc",
+      "Value": "\"That's a shame. If you change your mind, you're welcome to visit my shop to discuss the matter in private.\""
+    },
+    {
+      "Key": "703e951a-4528-4f75-b249-0b3fc6e45646",
+      "Value": "\"There is something else. My partner finally managed to send the article I promised. Now I just need to arrange its delivery. If you want your trophy, please, do not disturb my work. Allow me to do my job, and you'll have it very soon!\""
+    },
+    {
+      "Key": "2eec6400-df2a-4af6-908f-e6e2d4b778e0",
+      "Value": "{n}{d|Irlena}Irlene{/d} bows deeply and hands you a package.{/n} \"Here you are, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. Please, accept this gift as a token of my special respect and admiration. I swear, any concerns you had while it was en route will be repaid!\""
+    },
+    {
+      "Key": "85a078d6-06b3-40fd-8061-431224ae916c",
+      "Value": "\"I'm Irlene, the smartest dealer in magical items in all the Stolen Lands! With my connections I can find almost anything – rare spell scrolls, wands and staffs. I've got a lead on one truly unique artifact – a rod that can empower over any spell, and surpassed resistance to any magic! It won't be easy to get our hands on this thing, but I'll do my best.\""
+    }
+  ]
+}

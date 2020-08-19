@@ -1,0 +1,113 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "e64fbdf3-7487-4913-b867-912d8f0f1c7b",
+      "Value": "\"LOOK OUT! GOBLINS!\""
+    },
+    {
+      "Key": "f5730b8a-e891-43f2-b2a5-976bf99d8c1e",
+      "Value": "[Attack them]"
+    },
+    {
+      "Key": "81d1d10f-7335-4df9-bbb0-4baec52edba0",
+      "Value": "[Leave unnoticed]"
+    },
+    {
+      "Key": "a6bd9556-daee-49c2-a9bf-555446f32cbe",
+      "Value": "\"It was a trap? For whom?\""
+    },
+    {
+      "Key": "c7132776-a577-4807-97fd-72c36461338e",
+      "Value": "\"Why would your shaman want to catch humans?\""
+    },
+    {
+      "Key": "3c27faa5-122c-4659-aaa5-d9ce7c100c5d",
+      "Value": "\"Have you caught anyone yet?\"\""
+    },
+    {
+      "Key": "996d1fe9-fe92-48b9-be9f-cb6343d6af87",
+      "Value": "\"So where is this shaman of yours?\""
+    },
+    {
+      "Key": "7320356b-9e39-409d-83b1-297dd19f70d6",
+      "Value": "\"Get out of here, now! I see you again, you'll get what you deserve!\""
+    },
+    {
+      "Key": "2b1903e0-b9a8-41e0-b84e-e8f32dc9e925",
+      "Value": "[Attack] \"Catching humans, are you? I'll put an end to this.\""
+    },
+    {
+      "Key": "62e59a14-8332-40d6-8f46-09bf88b38028",
+      "Value": "[Leave] \"Happy hunting — if anyone's fool enough to get caught in your trap, they deserve what happens.\""
+    },
+    {
+      "Key": "9cd3a903-3a2f-4656-a14b-cc57bc365417",
+      "Value": "[Attack] \"And here I thought I might not get to hear some goblin death screams today.\""
+    },
+    {
+      "Key": "add82bfa-4d77-4604-a76c-f7afdbc51df3",
+      "Value": "\"What's inside the purse?\""
+    },
+    {
+      "Key": "b8c1aaf8-4bb9-4286-aec5-d7ca3e2ac3e0",
+      "Value": "{n}Rubbing their bruises, the goblins pick themselves up and try to brush the dirt off — but their hands are so filthy, they cake on more with every swipe.{/n}"
+    },
+    {
+      "Key": "28ec4834-1bed-440b-8c8f-c21f49d7e1a9",
+      "Value": "{n}Snarling, grimacing, and shaking their fists, the goblins approach.{/n}"
+    },
+    {
+      "Key": "a629ecaf-348c-45ac-aaf0-d3eeebb88b8e",
+      "Value": "{n}One of them stabs his finger at you.{/n} \"Not fair! You caught in our trap! You surrender now!\""
+    },
+    {
+      "Key": "e45332a5-61cc-4d00-bb10-d6f2dff79c6f",
+      "Value": "{n}A group of goblins is skulking in the bushes. One holds the end of a rope… the other end is tied to a coin purse lying on the road. The goblins are giggling to themselves and poking each other with their elbows.{/n}"
+    },
+    {
+      "Key": "9341bbd9-8fc8-4536-a309-5e681eb5b9ec",
+      "Value": "{n}The goblins are so intent on watching the road, they don't notice your approach.{/n}"
+    },
+    {
+      "Key": "edd9b4bb-f7d5-41f8-84c0-05120e148973",
+      "Value": "{n}As you approach, a twig snaps beneath your feet — and the goblins spot you. They screech, drop the rope, and scramble for their weapons. One of them points his finger at you and then at the road.{/n} \"You stand wrong! Trap be over there, you go there!\""
+    },
+    {
+      "Key": "b7700666-2cc1-48c7-b7a5-7ed28f5d3047",
+      "Value": "{n}Caught by surprise, the goblins scatter — but in the wrong directions. One of them accidentally jabs another with his dagger, while a third goblin stumbles into a snare under the rope. Finally, they pull themselves together and glare at you. One of them pokes his finger at you.{/n} \"Not fair! Not fair! Trap be over there, why you sneak over here?!\""
+    },
+    {
+      "Key": "76b5977b-bf5a-402f-ab9d-ea48e53ea0a0",
+      "Value": "\"For passers-by and other by-passers! They pass by back and forth, for no reason at all. Shaman says — catch one or two, he find use for them!\""
+    },
+    {
+      "Key": "cd2e709a-60f4-42bb-b2d5-bca6be3fa442",
+      "Value": "\"Me not telling you! It be a secret!\" {n}The goblin scratches his head, then whispers to the others.{/n} \"Any you know why shaman wanting humans? He won't say? Damn!\""
+    },
+    {
+      "Key": "cd8d37d5-1e71-4b80-8795-82e09e212e1a",
+      "Value": "{n}Turning back to you, the goblin raises his finger.{/n} \"A secret! A very big secret!\"{n} After that, as if unsure of what to do with is finger, he awkwardly scratches behind his ear.{/n}"
+    },
+    {
+      "Key": "3b724c23-fea0-4cc2-8c22-4288f46a815e",
+      "Value": "\"No way we did! We could, but you came and spoiled it all. Now shaman be tearing our ears off… along with our heads!\""
+    },
+    {
+      "Key": "3a846bea-75e1-4873-8dc5-95369662595a",
+      "Value": "\"He be not far, in our fort by the river.\" {n}The goblin points, presumably toward the fort.{/n}"
+    },
+    {
+      "Key": "7c94f684-d37a-42cf-aaa9-edba977a715e",
+      "Value": "\"Nuh-uh, won't be telling you!\""
+    },
+    {
+      "Key": "6ecfc193-4ca3-464a-b836-bb79ba096019",
+      "Value": "{n}The goblins scream and run in all directions.{/n}"
+    },
+    {
+      "Key": "02492a19-9cb0-438c-be4b-a6e5380ee9be",
+      "Value": "\"Stones! SMALL stones. You be expecting gold, huh? Ha, fooled you!\""
+    }
+  ]
+}

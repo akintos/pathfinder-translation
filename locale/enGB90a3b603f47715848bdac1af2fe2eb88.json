@@ -1,0 +1,749 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "83a0feeb-7563-4eaa-9bbe-e7536a866aa8",
+      "Value": "\"Tell me about yourself.\""
+    },
+    {
+      "Key": "8a9be6d6-f9c2-4bc1-ad49-9775fd492b77",
+      "Value": "\"Tell me about your life in Numeria.\""
+    },
+    {
+      "Key": "cfafaeb9-d3bf-48cb-af7b-2dc4f89e42ed",
+      "Value": "\"What kind of relationship do you have with Octavia?\""
+    },
+    {
+      "Key": "ec07cfdd-982a-4430-b9b0-47d75f5d8dff",
+      "Value": "\"How do you like it in my party?\""
+    },
+    {
+      "Key": "5d3368bf-c7cf-4d50-b3a4-27af85b4e2e6",
+      "Value": "\"I do not need you any longer. Go away.\""
+    },
+    {
+      "Key": "74da9940-1137-4b2d-b4c6-be7e737790b4",
+      "Value": "\"Go away and do not return.\""
+    },
+    {
+      "Key": "672cca90-aaef-4243-a3b6-205ba16328a6",
+      "Value": "\"I was only joking. Of course I need you.\""
+    },
+    {
+      "Key": "5356bef5-674c-4cce-a7df-f79358a66a8d",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "64f401b2-3337-400d-8f84-ea601dba37b0",
+      "Value": "\"Why do you call her yours? She doesn't seem to like that very much.\""
+    },
+    {
+      "Key": "543b3341-c3da-451a-b049-251cf402d666",
+      "Value": "\"Do you remember your childhood?\""
+    },
+    {
+      "Key": "24e7a460-66f2-4c71-96cc-e67bcfeb437f",
+      "Value": "\"What deity do you worship?\""
+    },
+    {
+      "Key": "bedb4b98-8ba3-4694-8e7c-028629936f58",
+      "Value": "\"Do you enjoy making people suffer?\""
+    },
+    {
+      "Key": "5235528b-59ce-42da-a4e3-8301ee2c97df",
+      "Value": "\"How do you manage to use both a sword and magic – and not cut off your fingers?\""
+    },
+    {
+      "Key": "51addf8c-4c8a-4e76-b3dc-0e2fb3713da5",
+      "Value": "\"It seems to me you're no more than a common felon.\""
+    },
+    {
+      "Key": "be16553a-e861-451a-808b-7fc6b3340902",
+      "Value": "\"If you treat your enemies like that, what makes you better than them?\""
+    },
+    {
+      "Key": "fa739c87-a666-4b14-8ad3-9aaeba6b2715",
+      "Value": "\"I, for one, enjoy the torments of others!\""
+    },
+    {
+      "Key": "95ed968d-1595-420d-9871-9c48a8bdcc11",
+      "Value": "\"So long as you're in my party, try to control yourself. I don't like meaningless atrocities.\""
+    },
+    {
+      "Key": "3b04f279-7e82-4942-98ef-00eec0459068",
+      "Value": "\"Very amusing! And you're right – if someone gets in your way, it's their own fault!\""
+    },
+    {
+      "Key": "0d6fd7ea-7378-4d79-bf26-0a9e872ece0f",
+      "Value": "\"Are you and Octavia faithful to each other?\""
+    },
+    {
+      "Key": "b8f118ad-3a42-4e77-bb73-d130713b8f3f",
+      "Value": "\"Where did you get your magical powers?\""
+    },
+    {
+      "Key": "6e6faf24-0ea8-40b2-bcf7-a5d57902055f",
+      "Value": "\"How did you happen to become a slave?\""
+    },
+    {
+      "Key": "788d919e-04f5-4030-9cd6-5edf9f69abce",
+      "Value": "\"Why did your masters teach you magic?\""
+    },
+    {
+      "Key": "d520d470-646c-4e6f-99be-ed49246a85ab",
+      "Value": "\"I couldn't do that. To me, love is impossible without faithfulness.\""
+    },
+    {
+      "Key": "e37518ed-aca2-4cce-b8c9-850969b1352a",
+      "Value": "\"Is that an invitation? Well then maybe I will!\""
+    },
+    {
+      "Key": "8989819e-d255-4cc6-b7aa-2f817b1ed258",
+      "Value": "\"I'm not here to judge. Just curious.\""
+    },
+    {
+      "Key": "dabcfe8d-6976-41e6-83b4-55d44241faa7",
+      "Value": "\"W-what?! That's enough from you!\""
+    },
+    {
+      "Key": "b42dfbe4-0509-4890-8f9f-dc97eb18934e",
+      "Value": "\"How did you meet?\""
+    },
+    {
+      "Key": "9fbd7dd8-ffbb-4fad-a034-e38c1cc1f60b",
+      "Value": "\"You seem not to like people in power. So why are you helping me?\""
+    },
+    {
+      "Key": "6b7a9457-3f71-4f8e-a9c1-90e3a107e489",
+      "Value": "\"What else did you see, beyond your life in chains?\""
+    },
+    {
+      "Key": "9ede665d-0769-4f60-8fd3-5a85c1690a57",
+      "Value": "\"Did you and Octavia try to escape?\""
+    },
+    {
+      "Key": "8b78d5f1-0bcc-476c-a725-b6cea8a06f49",
+      "Value": "\"What do your tattoos mean?\""
+    },
+    {
+      "Key": "7b392806-1a14-48cf-b0df-c379609c2825",
+      "Value": "\"I'm reluctant to ask, but why do you and Octavia need a whip?\""
+    },
+    {
+      "Key": "73bb2182-0504-45cf-8a39-b2dbefbc731e",
+      "Value": "\"I don't want to hear this. Keep your compliments to yourself.\""
+    },
+    {
+      "Key": "0af9bc57-863f-48f3-b435-4d4a68d2af4f",
+      "Value": "\"Are you serious? You better not joke like that! What if I happen to like you too?\""
+    },
+    {
+      "Key": "25e79009-57f7-464c-9f24-954117ca2cf2",
+      "Value": "\"Do whatever you like, but you'll do it without me.\""
+    },
+    {
+      "Key": "990a6301-9be4-4120-b968-babe15df4657",
+      "Value": "\"Are you trying to embarrass me? You failed. Or is that an invitation? If so… maybe I wouldn't mind.\""
+    },
+    {
+      "Key": "083d94e1-467b-4eae-8f0a-7d992674e48b",
+      "Value": "\"Is slavery legal in Numeria?\""
+    },
+    {
+      "Key": "834c7a4e-3d02-44be-a8d8-be055d67de40",
+      "Value": "\"What will you do when you meet Janush?\""
+    },
+    {
+      "Key": "9c36f9f8-4be0-413a-ab70-065242cf0aff",
+      "Value": "\"Do you think we did the right thing, letting Janush escape?\""
+    },
+    {
+      "Key": "391c4ac6-8e9e-4dde-b3ca-882357c7ce8b",
+      "Value": "\"Do you think we did the right thing, chasing Janush?\""
+    },
+    {
+      "Key": "d769ade5-be5f-4b2b-80ea-68994058957f",
+      "Value": "\"I'm sorry you haven't met your tribe.\""
+    },
+    {
+      "Key": "74d6e13e-0d21-4abc-8568-dd6c0967f406",
+      "Value": "\"I'm sorry you haven't met your tribe.\""
+    },
+    {
+      "Key": "6bc15adc-8c18-455a-a59b-452b33ad4602",
+      "Value": "\"If you need a personal conscience ever again — you know where to find me!\""
+    },
+    {
+      "Key": "f167ef56-e400-4649-ba9f-a85162c1a239",
+      "Value": "\"Since when do you let anyone make decisions for you?\""
+    },
+    {
+      "Key": "9d8e90ac-a36b-46e0-8df9-65140c7ef8b8",
+      "Value": "\"We made a mistake. We shouldn't have let that monster leave unscathed.\""
+    },
+    {
+      "Key": "7bce3a13-cd2e-40ad-9266-7928d0f27bed",
+      "Value": "\"I think we made a terrible mistake. So many innocent people died for revenge!\""
+    },
+    {
+      "Key": "cce56cdc-7d7a-4d6a-8b08-698649867198",
+      "Value": "\"You know I'm always there to support you.\""
+    },
+    {
+      "Key": "e080036d-524d-4486-8058-e1f0f8075257",
+      "Value": "\"Yes, we couldn't let him escape. Mercy was out of the question.\""
+    },
+    {
+      "Key": "025c4a5e-f07e-40a1-b460-390cb673dcf9",
+      "Value": "\"It's good that you refrained from taking your revenge out on that old man.\""
+    },
+    {
+      "Key": "196e63be-35d6-4ac0-b70d-dd94a4d13f34",
+      "Value": "\"I'm glad that you at least made peace with yourself.\""
+    },
+    {
+      "Key": "c3cf8b65-e6a5-4c3f-9a1c-bc7140fdc351",
+      "Value": "\"Still, you should have at least taken your revenge on the last member of the tribe.\""
+    },
+    {
+      "Key": "9c1c82d3-17bf-4a6a-996e-9394b762b43a",
+      "Value": "\"Still, you shouldn't have killed the poor old man.\""
+    },
+    {
+      "Key": "1b5947cd-3168-43ab-bcb6-172ba020c155",
+      "Value": "\"If you say so. I respect you decision, whatever it might be.\""
+    },
+    {
+      "Key": "6ce8f114-19a3-4439-8f22-651533cc6d42",
+      "Value": "\"There was only a pathetic old man left of the tribe, but you still got your revenge.\""
+    },
+    {
+      "Key": "3d7aba8e-a3b9-487c-b819-2bdbac41124e",
+      "Value": "\"We burned a few jerks, so what? Their screams as they fried were funny!\""
+    },
+    {
+      "Key": "c2500ac5-8773-4ca0-b92d-385e64bd745d",
+      "Value": "\"I should probably apologize for stealing her from you.\""
+    },
+    {
+      "Key": "37a88086-8628-4fb0-948b-517f1aa6ffaf",
+      "Value": "\"I'm sorry.\""
+    },
+    {
+      "Key": "f7b9e827-11a7-432e-a24b-0d2e34c3e859",
+      "Value": "\"We're still friends, right?\""
+    },
+    {
+      "Key": "ff7bcd11-2fdf-4c9b-b543-605efd197d1b",
+      "Value": "\"I'm glad you understand.\""
+    },
+    {
+      "Key": "bfe078b4-082d-4753-9703-7b59d9bb4593",
+      "Value": "[Put your arm around Regongar] \"Do you want to... Spend some time together?\""
+    },
+    {
+      "Key": "b336787d-8521-4e46-8be2-c20a4ffcc485",
+      "Value": "\"Of course!\""
+    },
+    {
+      "Key": "651cf19b-4f69-47c6-8d18-d64425fdf9cb",
+      "Value": "\"I want to be alone with you.\""
+    },
+    {
+      "Key": "1247127b-1f56-4cbe-af50-a987217d04e9",
+      "Value": "\"Our romance was a mistake. I can't be with you any more.\""
+    },
+    {
+      "Key": "f3c4ed40-5911-4a84-9664-bd320aa9d238",
+      "Value": "\"No. I'm sorry, I shouldn't have said that. I love you.\""
+    },
+    {
+      "Key": "cc5979a8-3c11-4d0f-a689-0eb57f2df624",
+      "Value": "\"Yes. It would be better for both of us.\""
+    },
+    {
+      "Key": "0779ea4e-e5b7-45a6-ad69-bb7d937600b0",
+      "Value": "\"Our romance was a mistake. You and Octavia will be better off without me.\""
+    },
+    {
+      "Key": "35ff8217-b51f-4681-8e98-71014ef95fc3",
+      "Value": "\"No. I'm sorry, I shouldn't have said that. I love both of you.\""
+    },
+    {
+      "Key": "a8d19205-80ed-4666-b9a3-131f42d1ed27",
+      "Value": "\"Yes. It would be better for all three of us.\""
+    },
+    {
+      "Key": "21f7cbf6-ca98-4edb-9a69-adc8e9f1278a",
+      "Value": "\"What did you say when you were killing Kalannah?\""
+    },
+    {
+      "Key": "80f1cda8-47ef-485a-a5cf-498b24781308",
+      "Value": "\"What do you want? Have a little chat? All right – it's not like we have anything better to do.\""
+    },
+    {
+      "Key": "21521d1f-cc9d-4855-b878-fcb4f15f4969",
+      "Value": "\"You mean my life as a slave? I didn't see much, except for the slave barracks and the League's twisted laboratories.\""
+    },
+    {
+      "Key": "1fc8993e-519e-4f47-aaa2-88968701db70",
+      "Value": "\"What is there to know? I was born. I'm alive. Haven't died yet. That enough for you?\""
+    },
+    {
+      "Key": "fb2a52a1-f292-47d4-b732-e20cb91d3579",
+      "Value": "\"Well... My Octavia and I don't have a 'relationship'. We have a life together.\""
+    },
+    {
+      "Key": "ffe763ea-1514-4fed-8d28-e29bc0188dff",
+      "Value": "\"Where did that come from? Everything seemed all right... No, I'll go, no questions asked. With Octavia, of course. We will be fine without you! But are you sure? If my new chief is your enemy, I won't spare you!\""
+    },
+    {
+      "Key": "9e14ead3-8ca4-4f24-9ef2-4340b813c3b6",
+      "Value": "\"Too bad, it was good here. But we will find another gang. So long!\""
+    },
+    {
+      "Key": "12650ea4-7031-4e89-ac45-486aba423154",
+      "Value": "\"Oh, all right. Be careful with such jokes – I might just take them seriously!\""
+    },
+    {
+      "Key": "42f85dfd-de82-432c-b5eb-ae6c1fd1d38d",
+      "Value": "\"So long. If you want to know anything else, just ask – don't be shy. Just don't go pale when I answer, heheh!\""
+    },
+    {
+      "Key": "1694bb28-031f-4eda-a3ff-144c4ca53aa6",
+      "Value": "\"My girl loves freedom so much and even a slight chance of losing it frightens her... She is so smart. You really think she feels like I'm trying to make her mine, like an apple stolen at a market? Me, who was skinned alive for trying to help her escape?!\""
+    },
+    {
+      "Key": "4bb1c74b-c640-4b57-89e3-b6dfa8b26962",
+      "Value": "\"If she's afraid of the word 'my', it's because she doesn't understand the difference between 'my boots' and 'my heart'. But she will understand. Sooner or later.\""
+    },
+    {
+      "Key": "95ea3458-7428-427e-997b-696a9744295a",
+      "Value": "\"Ha! I never got much help from the gods so far! But if you make me choose, I'd say {g|Calistria}Calistria{/g}. Who else could I worship? The Savored Sting – the goddess of pleasure, fun... and revenge! Oh, yes!\""
+    },
+    {
+      "Key": "94c34a0e-12c0-41ab-8600-8c913fb4f7bb",
+      "Value": "{n}Regongar scowls.{/n} \"What a crap question. I was just a kid when they sold me. Before that I don't remember much. Smoky fires, stinky hides, always bumping along on a horse... I think I was born in one of the Kellid tribes of {g|Numeria}Numeria{/g}. There are many – some survive on their own, some give up their pride and serve the {g|Technic League}Technic League{/g}. I guess mine was one of the cowards, if they sold their own kids!\""
+    },
+    {
+      "Key": "caeae89e-48bb-4cb9-ae03-3eaa0c4bc36f",
+      "Value": "\"I remember my father's hands. Rough, scarred... white. – So I guess I get this green skin from my mother. But I don't remember her. I think I remember playing with another half-orc child... A brother maybe. For some reason they didn't sell him, just me. Father gave him his dagger to play with. Never gave it to me... Ugh, I don't want to remember. Forget all this, I'm an orphan.\" {n}Regongar waves his hand wryly.{/n}"
+    },
+    {
+      "Key": "607b5459-0c8d-4007-b320-a8098ab9a650",
+      "Value": "\"Ha, ha, ha. Hmm... It's simple: I'm just that bloody good!\" {n}The half-orc gives a contented grin.{/n}"
+    },
+    {
+      "Key": "b16a1481-8fe4-4132-ab88-ddb0622d8f36",
+      "Value": "\"Pff! Why should I care about their suffering? I do what I want. If I step on someone's toes, then they shouldn't have put themselves in my way. But chasing someone down just to torture them? – That's only entertainment for maniacs like the {g|Technic League}Technic League{/g}. Well, on second thought... Ha, ha, ha. Hmm... For them I would make an exception. I'd love to watch as I fry them nice and slow!\""
+    },
+    {
+      "Key": "b39fdfe1-7716-40ff-ab3e-10ce6f5ec6e9",
+      "Value": "\"But why do you ask? Do my methods... Shock you?\" {n}Regongar clenches his fist, buzzing with sparks, and laughs loudly at his joke.{/n}"
+    },
+    {
+      "Key": "a83c8e8a-26a8-44a2-8280-913dbc342dc2",
+      "Value": "\"They did much to deserve it. But everyone else – if they stay out of my way, they won't get hurt!\""
+    },
+    {
+      "Key": "4c1a37c1-21a1-4d3f-a45b-964ea6105999",
+      "Value": "\"Look who is talking! Who are you then, if I'm in your gang? An accomplice? Or maybe you're hoping to redeem me with friendship and good examples? Ha, ha, ha!\""
+    },
+    {
+      "Key": "73909110-2710-4006-954f-b6e45581d3d2",
+      "Value": "\"And why would you think I want to be 'better'? What does that even mean? I have no delusions of purity. I don't need to prove to myself or my enemies that I'm better than them. Morally, spiritually – whatever. I just want them rotting in the ground, so I can live, drink wine – and piss on their graves!\""
+    },
+    {
+      "Key": "bff13670-e85f-48b5-9346-05c73e4d1132",
+      "Value": "\"Hey, fine! Do what you want. – You stay out of my affairs, and I'll stay out of yours. Just don't ask me to join in. I love life. Wine, meat, pretty boys and girls. But torturing someone – what kind of sick fun is that?\""
+    },
+    {
+      "Key": "fdecb028-10ef-4459-85e4-0f34630ef8f9",
+      "Value": "\"If you say so! You're the boss. We'll make sure all our atrocities are meaningful, ha, ha, ha! Wouldn't want to upset the boss!\""
+    },
+    {
+      "Key": "9315b1df-8220-4cf2-8a6a-bca1b1ae858a",
+      "Value": "\"That's what I say! There's too many freaks who don't understand, just asking to be run through with a sword! Sometimes I'm casting a spell, looking at another fool, thinking, 'You idiot, what the hell are you doing? You'd still be alive, if you weren't standing in my way. None of this had to happen.' And then – bam! They're dead, and I have to clean some more blood from my shirt!\""
+    },
+    {
+      "Key": "aab1b41e-3198-43b6-b7de-7f7ce67c8711",
+      "Value": "\"What magical powers, the hells are you talking about? Oh, you mean these?\" {n}Regongar makes lightning run over his hands with a contented smile, then snaps his fingers, invoking a shower of blinding sparks.{/n}"
+    },
+    {
+      "Key": "54cd339f-8e72-4a7a-881b-9987724943e1",
+      "Value": "\"I've had them since I was born. At least one thing I can thank my scum parents for. Maybe these powers are why they sold me to slavery. Think they were scared? Who knows. Damn {g|Numeria}Numerians{/g}.\""
+    },
+    {
+      "Key": "954e9dd5-2d07-4956-8a08-bd35eb533f76",
+      "Value": "\"At the {g|Technic League}Technic League{/g} they drew my blood, did experiments – burned me with fire, tortured me with cold, electricity... And they told me – you won't believe it! – they told me I have blue dragon blood in my veins! Not bad, huh? I'm a dragon, you freaks! Come check my blood, if you dare!\" {n}Grinning, Regongar strikes his palm with a fist, and another fountain of electric sparks shoots upwards.{/n}"
+    },
+    {
+      "Key": "f56a507b-29d0-4ae0-bc6d-04a3dc57cd66",
+      "Value": "\"Can't you guess? Because magic is in my blood – it's why they bought me! I wasn't raised as some lowly mop slave, but as a murder machine. I'd fetch quite a nice sum of gold! You might also ask if they knew I'd take the first opportunity to rip their own guts out, using everything they taught me. Ha! Of course they did! But that's the {g|Technic League}Technic League{/g}. They calculate risk.\""
+    },
+    {
+      "Key": "a2be4ea1-201f-42a3-9398-0db4e2dc67d2",
+      "Value": "\"Octavia kept pretending to be simple-minded, so they wouldn't expect anything of her. But I made every effort – though they didn't teach me much. What is there to teach? It's not book magic, it's innate. They made me practice with my sword more... But I did my best in everything. I studied all I could. They knew they were raising an enemy, but they thought they could keep me on a short leash. Or sell me to someone with deep pockets, so I'd become someone else's problem. But who won in the end, huh? Who is free? Who will bury them all?\" {n}The half-orc makes an obscene gesture in the north-western direction, toward {g|Numeria}Numeria{/g}.{/n}"
+    },
+    {
+      "Key": "5ec990c5-be10-4249-9f3e-a590516bd40f",
+      "Value": "\"That's what I call love. And that other thing, with constant jealousy, suspicion and scandal – I call that dog shit!\""
+    },
+    {
+      "Key": "3195bacb-e63e-419f-b4a8-5a14df2bc222",
+      "Value": "{n}Regongar laughs.{/n} \"Oh, I can't help it! You are so pretty when you blush!\""
+    },
+    {
+      "Key": "b5cd3bb6-2cd1-484b-939d-9169a6548453",
+      "Value": "\"You asked, I answered! When you pry into others' lives, don't be surprised if you find something that will keep you up at night, ha, ha!\""
+    },
+    {
+      "Key": "23b9a380-8397-44e0-af2b-60a15d2ee66c",
+      "Value": "{n}Regongar smirks.{/n} \"Live as you wish. I'm not trying to get into your bed!\""
+    },
+    {
+      "Key": "3d2ba89e-39c2-4e60-b2f6-9923acca8786",
+      "Value": "\"I was sold. By my own tribe. When I was just a little brat.\" {n}The half-orc clenches his teeth, then spits on the ground and steps on it with his boot.{/n}"
+    },
+    {
+      "Key": "f78335a2-8bf1-4040-9299-85fc0f3f3aff",
+      "Value": "\"So I grew up in a slave barracks. I was raised to be sold, like a battle animal. They tried to break me... But they picked the wrong brat! No matter how much you beat this animal – he only gets angrier!\" {n}The half-orc punches himself in the chest and snarls.{/n}"
+    },
+    {
+      "Key": "5c2eb79a-376f-4854-8602-f518012788c7",
+      "Value": "\"What kind of idiot question is that? I'm not some revolutionary from {g|Galt}Galt{/g}! Burn the palaces, eat the rich, power to the people... Bah! I don't care about all that. You are a decent {mf|lad|lass}, and your band is all right. You killed the Stag Lord, took his place, even got yourself a title – you're a real winner! A kingpin like that is worth holding on to. Better than cooking up a revolution... Oh, wait, I've got it! You're afraid I'm after your throne? Ha, ha, hmmm, relax! I don't need your sodding power. I'm fine as a henchman!\""
+    },
+    {
+      "Key": "cae6296a-c201-4122-bfe8-c8e45527d1e2",
+      "Value": "\"Just make sure all that power of yours doesn't go to your head. You know how sometimes normal people get carried away and want everyone to lick their boots. If you go that way, I won't lie: I'll walk away and take my Octavia with me. But you seem all right, so... The party goes on!\""
+    },
+    {
+      "Key": "a1e62bb8-deb6-4d82-bb22-eccd4633af21",
+      "Value": "\"What could I have seen?! Well, when we ran, we went through {g|Starfall}Starfall{/g}. That's a fine city – big, loud, many merchants, things to see... things to steal. But I didn't have much chance to walk around. It's the very nest of the sodding {g|Technic League}Technic League{/g}! We were focused more on getting out alive.\""
+    },
+    {
+      "Key": "8d878e87-81b2-4021-b9f7-8007a73b79fe",
+      "Value": "\"Oh, one more thing! One time Octavia and I tried to escape, and stumbled across a {g|Numeria}Numerian{/g} monster. I'll never forget it! A huge spider, the size of a house – made of metal! Spitting fire, shooting deadly rays all around... That thing could probably tear even a dragon to pieces! Ruined our escape plans, too. We had to go back.\""
+    },
+    {
+      "Key": "5f813a74-5071-4395-920f-24ba90eef516",
+      "Value": "\"What do you think? Of course we tried! I stopped counting how many times. Jumped from windows, dug tunnels, choked out guards – or seduced them. That happened too, ha, ha, hmm... But those dirtbags caught us every time. Every. Bloody. Time. My back is covered with whip scars. Lucky we were prized property. They'd spent too much gold on us to kill us. Anyone else would be hung and forgotten. But they kept trying to break us, and recoup their expenses.\""
+    },
+    {
+      "Key": "500bde71-c3e8-4694-bae2-7f6f9de1b3bf",
+      "Value": "\"I don't know whether I could have survived by sheer stubbornness, if it weren't for Octavia. I probably couldn't have. I would have just given up and died. But I had to pull my girl out of that meat grinder. And she... She believed in me, and had enough hope for both of us. When I lay there with my back slashed to pieces, she whispered to me about the {g|River Kingdoms}River Kingdoms{/g}, where there's no slavery, where everyone can go wherever they want – and take whatever they want.\""
+    },
+    {
+      "Key": "cf74d2b7-63d0-4bc3-8b18-48aaf179ee98",
+      "Value": "\"I'll be damned, but I thought she was just making this up to keep our hopes alive. And now it turns out to be true – all of it, every last word! No chains, no slaves, no laws – just live and be happy!\""
+    },
+    {
+      "Key": "0fdbf931-a033-4437-bae7-c8eba927338f",
+      "Value": "\"Back when we were children, we were taken as apprentices by a great spellmaster, Janush. – 'Maestro' Janush, he called himself. He was our teacher. Well, he made Octavia read books and memorize spells. I have my own, innate magic. He trained me a bit, taught how to control my gifts, so I wouldn't lose control and incinerate myself like a dumbass.\""
+    },
+    {
+      "Key": "0ed5fe69-f14c-4058-a856-4527ee091137",
+      "Value": "\"But you were asking about my Octavia. We've been together all our lives. We learned everything together – how to weave magic, and how to survive... And as we grew older, we learned how to love. Without each other we would never have gotten out of there, that's for sure. We would have given up and surrendered to death. But together – that's a very different story! Not the first time, and not the tenth, but eventually we made it out!\""
+    },
+    {
+      "Key": "83c57fbd-2a07-4b90-88bc-1c6b78c01a69",
+      "Value": "\"Ask away!\""
+    },
+    {
+      "Key": "0850c9c5-cf61-43e4-9c9b-649c3010ca01",
+      "Value": "\"Don't mention it!\""
+    },
+    {
+      "Key": "613d53ca-c8d2-42be-b925-8b9dbef15f1a",
+      "Value": "\"I grew up a slave. That I remember well. So many things burned into my memory. Most of all I remember her. My Octavia. Today we are almost the same age, but back then she was twice as young as me, just a child. – But a brave one. Cunning. Bold. And beautiful, the most beautiful girl in the world.\""
+    },
+    {
+      "Key": "53d29148-3a90-4064-bd2f-f168bec0a0aa",
+      "Value": "\"Oh, teacher... We will meet again. There's one more test I must pass...\""
+    },
+    {
+      "Key": "ecc8c4c6-ff1c-4849-875c-1608877ee040",
+      "Value": "\"Oh, teacher... I'd so like to get even with him, but now it's too late. I know that snake — he won't let me catch him again. Still, I'll always remember how he ran away from us in a blind panic, filling his trousers as he fled.\""
+    },
+    {
+      "Key": "62cef631-440d-4327-836a-1d15a66ef3de",
+      "Value": "\"I think it's grand! You have a fine gang of lunatics here! I myself am no noble from high society, ha, ha! But seriously, Octavia and I never even dreamed of a leader like you. We imagined we'd sit in the woods and rob wagons, maybe join a band of mercenaries... But we never expected to become the henchmen of a local ruler!\""
+    },
+    {
+      "Key": "62d28b25-6160-4728-9e6d-8ac722bfbe42",
+      "Value": "\"They are magical. They help me control my powers. The {g|Technic League}Technic League{/g} gave them to me. I'd hoped that somewhere on my body there was at least one sign left by my tribe... But no. I guess they didn't care to bother. To hell with them. They better hope I never find them! If I ever meet my father, I will even the score between us!\""
+    },
+    {
+      "Key": "8ea908a1-15fb-4418-bd98-4131075d0904",
+      "Value": "\"Ha, what a question! Are you sure you want to know? I don't mind telling you, but how are you going to sleep at night?\""
+    },
+    {
+      "Key": "64318bac-cc3a-4530-b0c7-0ffb47a86f72",
+      "Value": "\"Ha, ha, ha, hmm... It's difficult to explain. I'm nothing like those maniacs who worship {g|Zon-Kuthon}Zon-Kuthon{/g}, pain and death. In fact it's more the opposite. To me pain is another joy of life. It's proof that I'm alive. Sounds crazy, doesn't it? But it's true. When I am injured in battle, it's like hot pepper on the victory feast. And when the women you love does it... It's a very special kind of caress.\""
+    },
+    {
+      "Key": "442010d9-d624-4a79-84cb-49eb166282bb",
+      "Value": "\"Not to mention, such a pretty one, ha, ha!\" {n}Regongar winks at you playfully.{/n}"
+    },
+    {
+      "Key": "463c1367-1d01-41d8-9119-dee75e31d39b",
+      "Value": "\"Though at times it's boring. Truth be told, you love your laws and rules too much. You never relax and have some proper fun! But probably all rulers are like that, huh? Obligations and responsibilities weighing you down... That's exactly why you never have to fear me overthrowing you, ha, ha! You can be responsible for the country, and I'll be responsible for having enough fun for the both of us!\""
+    },
+    {
+      "Key": "89e5b997-5b4d-4fa1-8c21-c946ba0673fe",
+      "Value": "\"Of course, sometimes you ruin all the fun, hammering on about your laws and rules... But it's all right! The important thing is, you don't judge. You live and let live, ha, ha!\""
+    },
+    {
+      "Key": "88963780-bf86-4972-ae53-a33df6fcca09",
+      "Value": "\"Certainly never imagined one as fine a companion as you! I never thought someone could sit of the throne yet never lose their taste for good fun. I'd die of boredom with all those reports and orders. But you never let us get bored!\""
+    },
+    {
+      "Key": "ec672636-84cf-4ad9-ba8c-1a7512d69ca1",
+      "Value": "\"Go easy, I'm only kidding!\" {n}The half-orc sneers and pries his lusting eyes from your figure.{/n}"
+    },
+    {
+      "Key": "1b1ac656-18aa-4f3e-9d26-9d412106629f",
+      "Value": "{n}The half-orc approaches you closely, and locks eyes with you.{/n} \"And what if it's not a joke, huh?\""
+    },
+    {
+      "Key": "5e15bf30-62ae-45c9-aa4b-8695db7b5d8d",
+      "Value": "{n}After a pause he steps back and laughs heartily.{/n} \"I'm joking, I'm joking! Or am I? We can discuss it later. Another time and place.\""
+    },
+    {
+      "Key": "eb986e01-8328-41eb-84c0-d1cb929bdb17",
+      "Value": "\"But why the question? You want to watch our games? Or... Maybe join us?\""
+    },
+    {
+      "Key": "6e93717e-b897-46cc-91f0-da9ca277fe1d",
+      "Value": "\"Strange to hear this, huh? But what are you going to do? You ask strange questions – you get strange answers!\""
+    },
+    {
+      "Key": "16aea415-9b05-4d74-a4e2-14d8e4b60bb9",
+      "Value": "\"You're right about that! But if you have any more questions, don't be shy, ask away – ha, ha, ha!\""
+    },
+    {
+      "Key": "58a679ee-e5e8-41b8-ba37-ab9a52189591",
+      "Value": "\"Seriously, jokes aside? Ha, ha, hmm.\" {n}The half-orc measures you with a lustful look.{/n} \"Interesting... I will remember this!\""
+    },
+    {
+      "Key": "75d650f7-1e81-40a9-b946-afc49de4bbb9",
+      "Value": "\"Sometimes yes, sometimes no. There are some laws against it, but even in {g|Starfall}Starfall{/g} a third of the people live in bondage. And that's the capital! In regions where the Black Sovereign's hand doesn't reach, they hold to tribal customs instead of laws. The barbarians don't keep slaves – instead they have thralls. Big bloody difference!\""
+    },
+    {
+      "Key": "78be676c-40a0-40cf-b2cb-4ec3e4e79268",
+      "Value": "\"And on top of all that mess there's the {g|Technic League}Technic League{/g}. Law and custom mean nothing to those slimeballs. They just take whatever and whoever they want.\""
+    },
+    {
+      "Key": "fe39220e-4a15-43a6-ad7d-755e52a5065f",
+      "Value": "\"What do you mean? Stupid question! I'll crack his skull, that's what. We're not going there to have a chat with him!\""
+    },
+    {
+      "Key": "4d33eb47-c209-42d6-b424-92ae554d78d5",
+      "Value": "\"Sure, it's a shame. I've dreamed of smashing him across the wall, and he slipped right out of my hands! But you and Octavia are right: leaving those losers to burn — only an animal could do that. Maybe some of those we saved will get to Janush's throat... A boy can dream, heh!\""
+    },
+    {
+      "Key": "b52c3f6c-9007-47cf-b6b1-8e62de9db04c",
+      "Value": "\"Of course we did. It was one of the best days in my life! I waited for it for so many years! I dreamed so many times of seeing fear on his smug face, and then enjoying him bleeding out and growing cold... And he didn't disappoint, ha ha hmmm!\""
+    },
+    {
+      "Key": "9c2fbc57-5e2c-4661-9bd6-831986c2c9f1",
+      "Value": "\"Don't be. Knowing me — I'd have probably killed them. And now... Buried them. Said farewell. And that's it, we move on.\""
+    },
+    {
+      "Key": "6b3d61cd-4148-4aed-8e97-e5fbbdb8f6c1",
+      "Value": "\"What tribe? What are you talking about? I don't have a tribe! I'm an orphan — and that's fine. No relatives, no problems!\""
+    },
+    {
+      "Key": "f7c1dae3-b66d-45b2-bf77-00fd5b8a6753",
+      "Value": "{n}Regongar sniffs, irritated.{/n} \"You know how to ask a nasty question... My tribe was breeding children like cattle. They mated with orcs — thought it 'strengthens the blood.' They kept strong kids, and the weaklings were killed or — like me — sold into slavery... Pieces of shit, aren't they? I don't want to think about it!\""
+    },
+    {
+      "Key": "cf020acf-b4ba-4f3a-9149-ddd988cafd01",
+      "Value": "\"I've had this since I was born. They say my mom was a famous hero among orcs — made mincemeat of her enemies, shot lightning from her hands... Well, at least I have this to thank her for, though the bitch basically sold me like a high-bred pup!\""
+    },
+    {
+      "Key": "8ea7e4f9-a43e-4b6d-829e-332c3da7501a",
+      "Value": "\"They're enchanted, help me control my powers. These were done at the {g|Technic League}Technic League{/g}. I hoped that somewhere on my body there was at least one symbol left by my tribe... No luck. They sold and forgot me.\""
+    },
+    {
+      "Key": "a9c4bba3-6a5b-49fa-898d-e8596860e20e",
+      "Value": "\"Oh, teacher... You got no idea how glad I've been to wipe the floor with him!\""
+    },
+    {
+      "Key": "58482c92-2324-4b7a-a80f-7c5175f524ae",
+      "Value": "\"Octavia's also sort of my conscience. And now you too. That's fine — I never had one of my own, heh heh heh!\""
+    },
+    {
+      "Key": "cf91deae-d989-4521-88bd-3a234c5b5d3c",
+      "Value": "\"By the way, thanks for helping Octavia pull herself together. She's a kind girl. And we had to act with resolution!\""
+    },
+    {
+      "Key": "ca79cf86-b0e9-4632-acc2-93f11f93f135",
+      "Value": "\"Bones are bones. You can't take revenge on them, you can't make peace with them... You can only bury them.\""
+    },
+    {
+      "Key": "9f262d60-3c71-43bd-bfc0-e1abe22e2fa5",
+      "Value": "\"I don't want to talk about it. Even remembering it is disgusting!\""
+    },
+    {
+      "Key": "bf150bb1-b1b7-415f-8928-6d87c32aac71",
+      "Value": "\"Ha ha! Truth be told, it's easier living without it! But when it comes to really important decisions... I realized I'd be better off listening to you two.\""
+    },
+    {
+      "Key": "accd2f28-04a3-476d-a958-bc87fd35d403",
+      "Value": "\"Kidding, kidding, heh heh! But seriously — everything in its time. Sometimes you need to decide everything and listen to no one, no matter how they try to persuade you. Sometimes it's better to listen to friends you trust. And sometimes the best plan is to make decisions on the fly, just do whatever!\""
+    },
+    {
+      "Key": "8e4be073-3d43-49a5-95b8-cfbf48af80e1",
+      "Value": "\"Let him roll! There are lots of monsters in the world. Even if we'd killed him — there's still the whole {g|Technic League}Technic League{/g} full of his kind! If not us, someone else will kill him sooner or later. And those losers we pulled out of the fire — no one would help them but us.\""
+    },
+    {
+      "Key": "2bbd25f2-5d60-413d-b180-9b19a0901fe2",
+      "Value": "\"Ah, forget it. That's the world we live in — people die every day in the hundreds and thousands, and none of it is our business. If it wasn't Janush, someone else would kill those weaklings sooner or later.\""
+    },
+    {
+      "Key": "c70f03ef-c65d-4238-ac75-b4caa0f39011",
+      "Value": "\"Yeah, you're a solid {mf|fellow|girl}! I probably trust myself less than I trust you. That's why you're our leader, heh!\""
+    },
+    {
+      "Key": "03fce138-21da-46e0-a4db-e1ceb38d7b1d",
+      "Value": "\"Uh-huh. It's difficult to explain to Octavia though. She seems to understand that's the only thing we could have done — but it still torments her. She sees them in her dreams, then cries her eyes out... But she'll get over it sooner or later. She's strong.\""
+    },
+    {
+      "Key": "18d2d2ad-f11b-4651-9f1a-3e8c84a9401a",
+      "Value": "\"Refrain? I didn't even think about him! Too good for him — getting my hands dirty with an old toad's cold blood! What revenge? My brother got revenge for both of us, and I'll never forget it. No matter what god he prayed to when he was alive, I hope my brother's deity did right by him on the other side.\""
+    },
+    {
+      "Key": "d874a5ba-0576-434e-9e34-d7c84f767924",
+      "Value": "\"Ha! Have we met? When have I ever been right in the head? You'll see, some new shit'll happen, and we'll be at war again, ha ha ha!\""
+    },
+    {
+      "Key": "7bed4842-daaf-46eb-84a3-79048e81c5a8",
+      "Value": "\"What, on that old geezer? Pff. I forgot about him long ago! Some revenge — like squishing a mite!\""
+    },
+    {
+      "Key": "53da075f-f043-4c82-921e-3b757eaafacf",
+      "Value": "\"What, you feel sorry for him? Did you hear what he said? My father gave me to the slavers, and he stood by and nodded, like \"yes, good job\"! Maybe he even gave his own grandchildren to the {g|Technic League}Technic League{/g}! He was the same as the whole tribe, so he fully deserved my revenge!\""
+    },
+    {
+      "Key": "a6a05790-0b7f-45a1-93fd-90f6dc0d9a4d",
+      "Value": "\"Yes, it's all right. There should be more like you.\""
+    },
+    {
+      "Key": "239b9121-fd3e-441c-8afb-58a2e5d9872e",
+      "Value": "\"Well, I did... But what kind of revenge is that? On one crazy old fool? My brother got revenge for me, it's true. And I'll never forget it. No matter what god he prayed to when he was alive, I hope my brother's deity did right by him on the other side.\""
+    },
+    {
+      "Key": "26a04a7b-59d2-44e1-9a3a-187eb85e5bba",
+      "Value": "\"Heh! You're a beast! I mean, I even feel a little sorry for them. But it's their fault — they shouldn't have been such weaklings!\""
+    },
+    {
+      "Key": "23830f28-aadd-40f3-951c-ba8e888d73b5",
+      "Value": "{n}Regongar winces as if you touched an open wound.{/n} \"Whatever has happened between us, we're still friends.\""
+    },
+    {
+      "Key": "b033290b-b27c-4fb1-9147-f568cd8448fe",
+      "Value": "{n}The half-orc shakes his head.{/n} \"No. You don't have to apologize for anything. Things haven't been working out between us for a while. I thought it would somehow fix itself, but it just kept getting worse... And then — BAM! — everything fell apart.\""
+    },
+    {
+      "Key": "031250a8-845d-4205-a122-3dbfb496c2ad",
+      "Value": "\"So, don't apologize — just take care of her, that's what's important! And I — well I have a whole city to choose from! I don't ever have to sleep alone, ha ha hmm!\" {n}Regongar smiles a provocative grin.{/n}"
+    },
+    {
+      "Key": "c617569d-7902-46e8-a2db-df774682a459",
+      "Value": "\"You know what's strange? We survived slavery, but couldn't handle freedom. Since you freed us, we've both been a little crazy. She started thinking that I'm trying to control her. I didn't understand why she was pushing me away, so I got angry — which made her push me away even more... I'm such an idiot.\""
+    },
+    {
+      "Key": "9b3b8b84-c2a6-4d5d-b27e-5f30ffb15cec",
+      "Value": "\"So what, that's it then? All right, fine. I understand.\""
+    },
+    {
+      "Key": "1fe0971d-6785-4e8c-82dd-a9cb96c2d8a8",
+      "Value": "\"I bet that delicate flower won't let you do a third of what you and I were up to, eh?\""
+    },
+    {
+      "Key": "b58ee53b-f4fb-4b48-aa93-27bd48f0941c",
+      "Value": "\"Be careful with him, he's a fragile boy. You play with him like you did with me, and he won't live to the morning!\""
+    },
+    {
+      "Key": "0c16a9f1-a765-45ff-8cfa-6647289a5f46",
+      "Value": "\"You don't have to apologize for anything. We were good together, right? I never thought it would be forever.\""
+    },
+    {
+      "Key": "8cf1773e-a83a-43da-8f49-d50d27d83771",
+      "Value": "\"Of course. What would our friendship be worth if a bed could break it?\""
+    },
+    {
+      "Key": "6a399a3d-d8e7-40fa-9bed-50f607a7fca6",
+      "Value": "\"Why wouldn't I? You think I didn't have anybody except you and Octavia? Ha ha hmm… With me you had fun. With {mf|her|him} you might find happiness.\""
+    },
+    {
+      "Key": "cf64481e-e3c3-4ce8-b02b-8dee4c9e9b90",
+      "Value": "\"Listen, there are two people in this world for whom I'd be glad to gnaw everyone else's throats out. You're one of them. That hasn't changed. The rest doesn't matter!\""
+    },
+    {
+      "Key": "da978744-33b2-40cc-9a1c-43fb7ccd6673",
+      "Value": "{n}Regongar bares his fangs in a smile.{/n} \"So, chief, when are we leaving?\""
+    },
+    {
+      "Key": "0dd460ee-ea1e-44f1-9e09-776e9d35ba3b",
+      "Value": "\"There you are! Ready for another quest? Or maybe another trip to the bedroom, ha ha?\""
+    },
+    {
+      "Key": "49330840-43a8-4c54-89bc-e83bb022834c",
+      "Value": "{n}Regongar stares at his feet, biting his lip pensively. He looks up and forces a smile.{/n} \"Oh, hello.\""
+    },
+    {
+      "Key": "07113c7a-7ff3-41bd-9828-8eba1da4d249",
+      "Value": "\"Hello... My {Name}.\""
+    },
+    {
+      "Key": "16753316-c21d-445e-b797-3c0987db4d90",
+      "Value": "{n}Regongar touches your cheek and smiles.{/n} \"Can I say no to you?\""
+    },
+    {
+      "Key": "bfe0d6f4-ba87-4a42-800a-0d6f5852fb2f",
+      "Value": "{n}Holding each other tightly, you and Regongar leave for your chambers.{/n}"
+    },
+    {
+      "Key": "74824e0c-a602-41a8-b179-31981bdfa3d1",
+      "Value": "\"Let's call Octavia, hmm-m-m?\""
+    },
+    {
+      "Key": "ea9176f7-ad2b-4b9d-94a2-0ef69f6994a0",
+      "Value": "\"I'll call her now. I love both of you so much!\""
+    },
+    {
+      "Key": "9e9ac7b6-95eb-4c96-a9fa-9b5530b0501e",
+      "Value": "{n}Regongar bites his lip.{/n} \"Freedom is for the free... But are you sure? Aren't we good together?\""
+    },
+    {
+      "Key": "45f3ee00-9b49-4c17-915c-c34022ce10d4",
+      "Value": "\"Well... Fine. Maybe we're actually better as companions than lovers.\""
+    },
+    {
+      "Key": "5ccec194-c3bb-40a0-a12b-a7474dfac945",
+      "Value": "{n}Regongar bites his lip.{/n} \"Are you serious? After everything we've been through?\""
+    },
+    {
+      "Key": "db599f6c-cfe5-47ea-93fa-2f4795b5e09b",
+      "Value": "\"Well... So our promises didn't mean much, huh? Fine. Maybe we're actually better off as companions than lovers. I'll tell Octavia.\""
+    },
+    {
+      "Key": "b08ce965-1171-448e-9b11-22a2cbb94b94",
+      "Value": "\"What? Oh, that? Calistria's holy words! 'I stab thee with my heart.' We say that when we get our vengeance. Those words make it so much sweeter!\""
+    },
+    {
+      "Key": "4a33cb98-1e6f-4895-9eb2-aa268c6d7c85",
+      "Value": "\"You didn't hear? Those are our goddess's holy words — what we say when we get our vengeance. 'I stab thee with my heart.' You won't believe how long I wanted to say that to her!\""
+    },
+    {
+      "Key": "cdb4cc3d-f1eb-489d-83fc-31ac6304db02",
+      "Value": "\"You swear by her too, right? Great. She's the best deity for a ruler. She teaches you the most important things in life: how to have fun... and how to let no one cross you!\""
+    },
+    {
+      "Key": "2d917aa4-acdb-4820-b55a-0417ae37cf22",
+      "Value": "\"I never thought it would be forever. Anyway, there are two people in this world for whom I'd be glad to gnaw everyone else's throats out. You're one of them. That hasn't changed. The rest doesn't matter!\""
+    }
+  ]
+}

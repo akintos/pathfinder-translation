@@ -1,0 +1,209 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "c288a6eb-0622-4b8f-9a12-87b8fc94042d",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "388ce9ae-ad14-41aa-b35e-7924e7fb175c",
+      "Value": "\"Can you tell me what happened here?\""
+    },
+    {
+      "Key": "0e717b01-20ee-46c1-b170-c6f4ebf4087b",
+      "Value": "\"Why are you a ghost?\""
+    },
+    {
+      "Key": "801167de-de8c-4694-92b4-a7cdd66e30a8",
+      "Value": "\"Dorsy said you'd sold your daughter to the fey. Is it true?\""
+    },
+    {
+      "Key": "d7135b35-0cec-4541-8b2f-5e0886eb59d6",
+      "Value": "\"Your daughter married one of the fey?\""
+    },
+    {
+      "Key": "f0e5ed2c-238a-4f6c-b26b-edff8fc892c8",
+      "Value": "\"I've opened the well and scattered will-o'-wisps.\""
+    },
+    {
+      "Key": "95203358-d56e-47e5-86a8-338a66ba8d0e",
+      "Value": "[Attack] \"Undead! Kill it!\""
+    },
+    {
+      "Key": "65c92c0a-18e7-4550-8fa2-35b639f85787",
+      "Value": "[Leave]"
+    },
+    {
+      "Key": "48a1c379-8a85-4213-b0be-888a450046f6",
+      "Value": "\"Do you remember our fight?\""
+    },
+    {
+      "Key": "c928eb9f-fb93-4fa0-aac4-e460ff7cf89c",
+      "Value": "\"I've found some coins in the well. Here, have a look!\""
+    },
+    {
+      "Key": "716a8ee7-04d3-4700-b8c8-4e1b337fa9cb",
+      "Value": "\"What do these coins mean?\""
+    },
+    {
+      "Key": "f2e97b5e-c8da-440e-b850-7ad45e196129",
+      "Value": "\"Whose names are on these coins?\""
+    },
+    {
+      "Key": "e2bc85ac-b4e9-406e-806c-818307777418",
+      "Value": "\"What keeps you from your eternal rest?\""
+    },
+    {
+      "Key": "999ccb83-df9e-4de6-9ee2-f755a7963d0d",
+      "Value": "[Put the coins on Erastil's altar]"
+    },
+    {
+      "Key": "1035bf13-ed06-4bbf-9bc0-24cf06ec32c9",
+      "Value": "\"Look at this letter. It is written by the same hand as your name on the coin.\""
+    },
+    {
+      "Key": "70ba1288-23ab-4583-ad67-c9dfb26a0167",
+      "Value": "\"That's enough about the curse, let's talk about something else.\""
+    },
+    {
+      "Key": "50929c76-a530-492e-831b-c9cd3677d6b6",
+      "Value": "\"I've given the coins to put Dorsy to rest.\""
+    },
+    {
+      "Key": "561beaa0-5c40-40f9-9b90-6bc69e55b03c",
+      "Value": "\"I've given the coins to lift the curse off Dorsy.\""
+    },
+    {
+      "Key": "8a449050-c583-46a4-96c2-13471d892519",
+      "Value": "\"Don't.\""
+    },
+    {
+      "Key": "aeadd592-055e-4fa1-b323-2f11b2a8e011",
+      "Value": "[Attack] \"Why not?\""
+    },
+    {
+      "Key": "8cc7c89d-ce54-4f77-98b7-326d765ed4fb",
+      "Value": "\"You want to know about me? Name's Wilber, Wilber Colton, I'm the headman of this place. You're not locals, are you? Welcome...\" {n}The old man gestures around the ruins and his smile fades.{/n} \"...I'm dead, right? And all the rest as well? I keep forgetting. That's old age for you...\""
+    },
+    {
+      "Key": "4288dcb7-ba5a-45cc-8665-9705afc13a53",
+      "Value": "{n}In front of the ruined temple you see a ghost — an old man, walking the grounds. Noticing you, he smiles and nods.{/n}"
+    },
+    {
+      "Key": "25c4fe4b-106a-4d0e-b4ad-e186f44bb1eb",
+      "Value": "\"Happened? Where? {n}The old man looks around, puzzled.{/n} \"Ah, the village... aye, something bad happened here... Problem is, I can't remember a thing! Everything was going along, just as it should — I was preparing for my daughter's Nyta's wedding... and then — all went dark! I must have passed on before the village was destroyed!\""
+    },
+    {
+      "Key": "2a464b2b-3882-4362-8f44-53c377b37a68",
+      "Value": "\"Which ghost?\"{n} The old man raises his eyes, surprised, then looks at himself and sighs. {/n}\"Ah, right... Something won't let me rest in peace... Did I anger {g|Erastil}Erastil{/g}? No, that wasn't that...\"\n{n}The old man's eyes widen, and he snaps his fingers — it makes no sound.{/n} \"Ah, I remember now! It's these... lights, they're the reason! They keep creeping out of the well, whispering, hissing, and ruining my sleep! Aye, it's all because of them!\""
+    },
+    {
+      "Key": "1373dd26-b69c-4fdd-b9de-17780d91a905",
+      "Value": "\"Dorsy, huh? That's the one to listen to, hah! That rascal would have some tales to tell, no doubt... he was her fiancé, you see. Rich, handsome... he was courting her, and then all a-sudden she changed her mind about being wed.\" {n}The old man sighs and gives a faint shrug.{/n} \"My Nyta went for a walk in the woods and found a new love there — one of the fey! Naturally, drove Dorsy into a rage, screaming the fey had charmed her away... but think a moment.\" {n}He turns to you, eyebrows raised.{/n} \"What man can compare with the beauty of the fey? Nyta left Dorsy of her own free will!\""
+    },
+    {
+      "Key": "c6ab0b4f-8e55-4a01-8025-8c7d4293cc0c",
+      "Value": "\"You did? And still I can't rest… so it wasn't those lights after all... I must have done something wrong, then… or maybe I had to do something, but didn't? Damn it all, if only I could remember!\""
+    },
+    {
+      "Key": "b51ba72d-0357-4679-935f-48eb51583a18",
+      "Value": "\"A fight?\"{n} The ghost echoes.{/n} \"What fight? We're peaceful folk, we are! We mean harm to no one.\""
+    },
+    {
+      "Key": "96a946c1-f8ed-4ee9-a9af-f90815af846b",
+      "Value": "{n}The ghost studies the coins for several moments, then turns to you — his face grief-stricken.{/n} \"That's what this all about. That's why I can't rest… Oh, dark things, dark sins...\""
+    },
+    {
+      "Key": "3515dad3-58a1-49b7-a069-1382c899f740",
+      "Value": "\"Wilber — that's me. And I thought I had no enemies at all… and here were two who wanted me gone from this world! These coins, look at them — the inscription was done by different hands!\""
+    },
+    {
+      "Key": "d16ec1f9-cf39-4245-9405-1cd6043cd2f2",
+      "Value": "\"And the second name, the second… Callitropsia, sounds familiar... Aye, right! That's the dryad, my daughter's new love! Someone must have hated her so much that he was willing to doom his own immortal soul to get rid of her and of me!\""
+    },
+    {
+      "Key": "a5dc126f-09f7-4c6e-adeb-799e4713f3a4",
+      "Value": "\"They are a curse. It is a legend in these parts — it was said if you bore hatred in your heart, hatred so fierce it could burn another's soul, all you need do was etch your enemy's name on a coin and cast it into the cursed well... it would be the end of them.\" {n}The ghost nods.{/n} \"And the end of you as well — curses carry a heavy price. If you hate another more than you love your own life, well — your life is forfeit already.\""
+    },
+    {
+      "Key": "b23a35e3-5289-45c9-b0b3-9b18c190350a",
+      "Value": "\"Here they are, these coins just won't let me go… Those with my name on it — they are the symbols of a curse. I was hated not by one, but by two persons. Their hatred is the rope that ties me to this world and keeps me awake...\""
+    },
+    {
+      "Key": "733e09a1-d70a-471d-8ce8-d06a599859ae",
+      "Value": "{n}The ghost watches the coins evaporate to mist, almost in disbelief.{/n} \"At last... you have my gratitude! I feel... tired.\" {n}The ghost blinks, and you notice his silhouette is blurring slightly, evaporating as the coins did, but more slowly.{/n} \"But I must reward you — somehow. I've got nothing except for... wait, under that boulder — I hid something there years ago — I have no need of it now. For me... it is time to rest...\""
+    },
+    {
+      "Key": "798e36a1-9cfd-4025-a187-9297f8a98d16",
+      "Value": "{n}…and with that, the ghost dissolves into thin air.{/n}"
+    },
+    {
+      "Key": "a31ab477-2f87-46e3-b3d3-68e5298e27f5",
+      "Value": "{n}The ghost raises his grief-stricken eyes at you. {/n}\"While I was alive, I was a coward. A coward and a liar. That's how it went — on one hand, I felt Dorsy was a good man, a reliable man, a much better match for my daughter than some dryad. On the other hand, it would bring misfortune on me... on us, the village, to refuse the fey — and my Nyta, she truly loved the dryad. What was I left to do? If I gave her to Dorsy — the fey would seek revenge, if I gave her to the fey — Dorsy would seek revenge.\""
+    },
+    {
+      "Key": "77ce5df0-44b8-4308-a3df-42b09003563e",
+      "Value": "\"I used to give advice, but I couldn't heed it myself. I was a fool...\" {n}The ghost speaks slower, as if hearing his own story for the first time.{/n} \"I... lied to Dorsy, saying the fey threatened me. Then... I lied to my daughter, telling her Dorsy had pursued me... then I waited for the situation to solve itself... and it did. Dorsy grew to hate me... and so did my own daughter.\" {n}The ghost shakes his head and closes his eyes.{/n}"
+    },
+    {
+      "Key": "96fec74b-623d-4d7d-9428-76cb8197343c",
+      "Value": "\"Very well. What about, then?\""
+    },
+    {
+      "Key": "db006313-81d7-4aa7-b163-1f4cbbcdeff5",
+      "Value": "\"What — what are you talking about? Coins? Forgive an old man, my memory is not what it was… What were we talking about?\""
+    },
+    {
+      "Key": "0e516650-2f30-4e8c-bb97-3377133aeda3",
+      "Value": "\"Which curse? Why are you saying these horrid things? We never had any curses here, {g|Erastil}Erastil{/g} forbid!\""
+    },
+    {
+      "Key": "58e6b917-b0b5-448f-9b48-71cebaf469ad",
+      "Value": "\"I don't know if a curse like that can be lifted... But do me a favor — put the coins on the altar of {g|Erastil}Erastil{/g} — it's nearby, in the temple ruins. Maybe my god will take mercy on me, let me rest at last.\""
+    },
+    {
+      "Key": "584a2df7-01e0-4b13-a70c-72d4510db94d",
+      "Value": "{n}You place the coins on the altar. For a moment, nothing happens, then the coins evaporate silently, steaming away to mist.{/n}"
+    },
+    {
+      "Key": "7817b955-2b6d-432a-a6e4-3d8fd912bb8b",
+      "Value": "\"To lose both your life and mind... Disgusting. Not that this man had a lot of wit to begin with...\""
+    },
+    {
+      "Key": "f0cc8e67-7856-4bba-83ad-4990113ab8e0",
+      "Value": "\"Don't blame yourself. You've meant to do good.\""
+    },
+    {
+      "Key": "446abb34-2629-41a7-8ba9-6fac8c10d1fd",
+      "Value": "\"Thank you for your kind words. But who cares what I've meant if in the end it led to... this.\" {n}The ghost points at the ruins around him.{/n}"
+    },
+    {
+      "Key": "7bd9c4ac-7586-4bc4-8bc7-7f72e61223c6",
+      "Value": "\"So he doesn't even remember us beating him? What a fool! Should we give him a reminder?\""
+    },
+    {
+      "Key": "b76b164c-485c-471e-958d-b05d5d8e7878",
+      "Value": "\"Great! Just you wait, ghost face!\""
+    },
+    {
+      "Key": "2db31d8f-1c44-4cbc-bcf6-c7984b241a56",
+      "Value": "\"It's not like he'll remember! Eh, whatever.\""
+    },
+    {
+      "Key": "30c36493-3ad0-4eea-aa00-b773acfbb071",
+      "Value": "\"A daughter, laying a death curse on her father merely for being afraid and confused? How hardhearted! I would like to feel sorry for her, but now I simply cannot.\""
+    },
+    {
+      "Key": "e602bf3e-9cad-4646-87dd-09838a456a45",
+      "Value": "\"I guess this yobbo Dorsy was the one who'd cursed us. Her — for stealing his bride, and me — for letting this happen. Nasty things, nasty sins... But who else could wish me dead? I've got no slightest idea about that!\""
+    },
+    {
+      "Key": "430f9083-a035-4f4a-9efb-8566a83cc4f4",
+      "Value": "\"Maybe she did — by the time of wedding I had... passed. Still, a fey marriage wasn't unheard of here in the village. Fey lived close in the woods, trysts happened, love bloomed, children were born... take Elga Verniex, for instance — her mom conceived her in the forest, her father, a satyr of all things. Elga was born with greenish skin and sharp ears... ah, but so sharp, pretty, she was — wish I knew what's happened to her...\""
+    },
+    {
+      "Key": "8b36e4a3-868c-481b-9b79-ebff2b198d2a",
+      "Value": "{n}After reading the letter, the old man shakes his head, devastated.{/n} \"Oh, Nyta, Nyta, what have you done… And what have I done, such an old fool...\""
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "639afde0-d071-45c3-9bc7-4fcd74e3d05d",
+      "Value": "\"Your tribe is holding a human child. I came to take him back.\""
+    },
+    {
+      "Key": "9be0f782-d7c2-4aeb-a4ae-c8b123eae3fc",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "e1676fdb-b1dd-4725-8f6d-62a68163d2ba",
+      "Value": "\"Tell me about your tribe.\""
+    },
+    {
+      "Key": "843d7e91-a976-4dbf-9154-9c520e15188c",
+      "Value": "\"Who is Stishchak?\""
+    },
+    {
+      "Key": "6769a808-38c0-41c4-a9dc-21e5d812f3de",
+      "Value": "\"I came for a peaceful negotiation, one chieftain to another. Your tribe is holding a human child — I'm ready to pay for his return. I'd like to solve this without resorting to violence.\""
+    },
+    {
+      "Key": "dab01f81-51e2-44d5-99ab-f85815a26d4d",
+      "Value": "\"I've come to take our child back. Will you release him of your own free will, or will I have to cut you down?\""
+    },
+    {
+      "Key": "49819d47-cea3-47bc-b0ce-f7419b55aaf8",
+      "Value": "[Attack] \"Your time has come, Chieftain.\""
+    },
+    {
+      "Key": "dd56db92-a314-4164-b82e-f6c07ecbc18a",
+      "Value": "\"You and your tribe don't seem happy. Are you certain this Stishchak is really your Great Ancestor and not some evil spirit pretending to be him?\""
+    },
+    {
+      "Key": "b8dd029d-90ec-40f0-bdb8-503dc76f6ac9",
+      "Value": "\"Why did your tribe's rattler flee the village?\""
+    },
+    {
+      "Key": "ff1bf746-275a-425e-a834-73cdd2b5ab8d",
+      "Value": "[Attack] \"So be it.\""
+    },
+    {
+      "Key": "ec2048aa-0900-4e6f-9cbf-d47ce54d310c",
+      "Value": "[Leave] \"I'm not here to fight. I'll leave.\""
+    },
+    {
+      "Key": "33a63442-af49-45f0-9195-f8d18f0c4e9f",
+      "Value": "[Leave] \"I'll go to the Spirit Hut and talk to this Great Ancestor of yours.\""
+    },
+    {
+      "Key": "71caa76e-a487-469e-82d6-e78cf9c2fe4d",
+      "Value": "[Attack] \"I'd hoped to settle this peacefully, but...\""
+    },
+    {
+      "Key": "1650b260-b175-4add-a325-b9ca4c09287d",
+      "Value": "\"Let me ask you a question.\""
+    },
+    {
+      "Key": "7cd3803f-c505-46ea-9fa6-e7de8b57d5be",
+      "Value": "\"Thank you for the answers.\""
+    },
+    {
+      "Key": "f4ce9500-5f14-45b9-97d0-ba6345dfcb4e",
+      "Value": "\"Listen here, Chieftain. I will cut off your hands, legs, and tail — and then I'll do it to the rest of your tribe. When I'm done, I'll burn this village to the ground with you still inside, and then I'll salt the earth so nothing will grow here for the next hundred years.\""
+    },
+    {
+      "Key": "dff06576-2560-496d-88f8-9d291b851922",
+      "Value": "\"You're unfit to be chieftain. The 'Great Ancestor' you've placed your trust in is a monster. You're leading your tribe to ruin — let go of your pride, and let me help you save your tribe before it's too late.\""
+    },
+    {
+      "Key": "e8556974-2dd3-4646-8e63-a178c0987d63",
+      "Value": "{n}A sturdy lizardfolk is waiting for you in the hut. He's a head taller than the rest of his tribe, and his well-muscled body is covered in scars, displaying the experience of countless battles.{/n}"
+    },
+    {
+      "Key": "43e02bcc-1655-41ce-80ac-75d0a5f1a940",
+      "Value": "{n}It isn't easy to read the lizardfolk's body language, but his shallow breathing and jerky movements are consistent with deep exhaustion. It's possible the chieftain hasn't gotten a good night's sleep in a long while.{/n}"
+    },
+    {
+      "Key": "ab4e62da-44b2-4f69-ba8d-528db6f4eb53",
+      "Value": "\"What's that? Warmblood? Why you come? Vesket not call for you! Why you here? Tell, quick!\""
+    },
+    {
+      "Key": "6952f81e-5045-4d1a-a547-fce0de60280e",
+      "Value": "{n}The chieftain hisses loudly.{/n} \"You can't take warmblood youngling! Great Stishchak claimed youngling for himself! You not anger Stishchak!\""
+    },
+    {
+      "Key": "a97fb82c-06cf-4740-baef-14dcc4bf533f",
+      "Value": "\"I Chieftain Vesket, king of Longtail Tribe! Warmblood not know me? Fine! Soon, all know Vesket! Great Ancestor foretells I soon do great deeds!\""
+    },
+    {
+      "Key": "53664178-f8ee-41ff-aaf9-bbf2bd967360",
+      "Value": "\"Longtails the greatest tribe! When world hatched from egg, Longtails first to step here! The rest appeared later, from eggshell and dirt!\""
+    },
+    {
+      "Key": "086819b3-1600-4eab-ade3-39129c2738e4",
+      "Value": "\"Oh, Stishchak is great! Too bad old Kagar not here — he sing songs about him! Know this, warmblood: Stishchak hero among heroes! Earth under our feet — Stishchak fish from the water and put on steady foundation! Moon rolling over skies — Stishchak throw it there!\""
+    },
+    {
+      "Key": "251e4ef6-20a7-42b1-a052-7c5de2682885",
+      "Value": "{n}The chieftain clenches his teeth and glares for a moment, silent, then lowers his head.{/n} \"You are wrong about the Great Ancestor, but... Chieftain Vesket submits. The youngling is in Spirit Hut, with the Great Ancestor. If Great Ancestor let you, take him and leave.\""
+    },
+    {
+      "Key": "75707cfb-3a11-4327-923a-1d647124dcdb",
+      "Value": "{n}Vesket can't hide the trembling in his knees.{/n} \"Youngling in Spirit Hut,\" {n}he says in a hoarse voice.{/n} \"If Great Ancestor let you, take him and leave.\""
+    },
+    {
+      "Key": "460a6f21-a32a-4f0d-bab4-26e77f195240",
+      "Value": "{n}The chieftain frowns.{/n} \"Warmblood youngling in Spirit Hut with Great Ancestor. Vesket can't give him away — not Vesket's to give. Go, talk to Great Ancestor yourself. If you lucky, he give you youngling. If not, I no help.\""
+    },
+    {
+      "Key": "e02355c9-6129-4ccb-ac32-37dcac975fed",
+      "Value": "\"Can't. Stishchak took warmblood youngling for himself. Can't give him away, can't trade him.\""
+    },
+    {
+      "Key": "138f1fd4-d064-4c03-a93e-73e635fcf834",
+      "Value": "{n}Chieftain Vesket locks eyes with you for a long time, then looks away.{/n} \"Warmblood want scare me? Ha! Longtails eat a dozen warmbloods for lunch! Take lousy youngling — Vesket not need him! He is in Spirit Hut. Take him and leave at once, before Vesket become angry and change mind, yes!\""
+    },
+    {
+      "Key": "839bf929-1aee-453c-a8ce-ae3a18fd893d",
+      "Value": "{n}The chieftain is silent for a long while.{/n} \"Old Kagar used to tell that too. True, tribe scared. Could Chieftain Vesket be so wrong?\""
+    },
+    {
+      "Key": "0e34f1d4-3e11-4552-835c-7fd798726c27",
+      "Value": "{n}The chieftain's voice rises to a shout as he lashes the ground with his tail.{/n} \"Lies! Lies! You not slander Great Ancestor!\""
+    },
+    {
+      "Key": "9550bb83-9e37-42e1-8c84-feabdd4b3712",
+      "Value": "\"Old Kagar... lose mind, yes. Afraid of everyone. Tell if he stay, we kill and eat him. Happens with old folks. Too bad, too bad. Kagar once know much, sing ancient songs, teach whole tribe.\""
+    },
+    {
+      "Key": "55cdfa71-d225-4878-92c6-9ecb3290557e",
+      "Value": "\"All woods, all swamps, all rivers — ours, yes! Longtail Empire own whole world, from mountain roots to moon and stars!\""
+    },
+    {
+      "Key": "09f6497d-9c65-4add-8ed8-abb9b0ce7e9b",
+      "Value": "\"Now, with great Stishchak back, Longtails be respected again, yes! Soon, soon!\""
+    },
+    {
+      "Key": "943ff5d5-8612-48ce-ab8d-582c088fa4b2",
+      "Value": "{n}The chieftain shakes his head.{/n} \"Vesket knows not who believe. Maybe Vesket go crazy. Go to Spirit Hut, talk Stishchak. Learn truth yourself.\""
+    },
+    {
+      "Key": "72a44715-0d3d-48d9-b793-30cfda9ba026",
+      "Value": "\"Long ago, it was... Now Longtail tribe's enemies strong. Live all over. But Stishchak spirit come back! Tribe wage war on Thickskins, win easy! Joy, celebration! Now, Longtails get fame again, like old days!\""
+    },
+    {
+      "Key": "e315b974-b31f-4a47-8bc4-908dfb25abfe",
+      "Value": "\"Everyone, here! War with warmblood!\""
+    },
+    {
+      "Key": "637440ed-ed09-4e88-937d-51a9de4e0737",
+      "Value": "\"What else warmblood want? Go Spirit Hut. Talk Stishchak there!\""
+    },
+    {
+      "Key": "043addf1-c249-4a14-8bd6-1edf9569817b",
+      "Value": "{n}Chieftain Vesket bares his teeth.{/n} \"Warmblood threaten? Longtail tribe not bow to force! Get your weapon and fight now, or leave forever!\""
+    },
+    {
+      "Key": "9c9f4670-d8f0-4e0a-96a7-a44caa5ae2d4",
+      "Value": "\"Child stays in village. Chieftain's word stronger than rock! Leave, warmblood — I not want see you anymore.\""
+    },
+    {
+      "Key": "98e7024d-74b1-4a32-aaf9-f23af51176d1",
+      "Value": "\"Ask. Chieftain Vesket allow.\""
+    },
+    {
+      "Key": "aefa14e7-1bfd-495e-a35a-eae397739363",
+      "Value": "\"Chieftain Vesket generous today.\""
+    },
+    {
+      "Key": "da586fac-a9b6-4609-8410-bee21dd62200",
+      "Value": "\"It is amusing how eager some of the short-lived are to serve the dead.\""
+    },
+    {
+      "Key": "f638d786-5779-48ba-95a7-2d50c9098d23",
+      "Value": "{n}Jubilost quickly writes something down in his notebook.{/n} \"World hatching from an egg... Longtail Empire... Mountain roots... Fascinating!\""
+    },
+    {
+      "Key": "ac94482c-2d3b-4585-b6ab-cf2c35b9dc89",
+      "Value": "\"At last! I'm sick and tired of all their hissing! My hands have been itching to punch that scaly mug!\""
+    },
+    {
+      "Key": "cb178001-d423-4d1e-a791-b8ca58b6f59f",
+      "Value": "\"Look how brave he is, {Name}. The big chief isn't the least bit afraid of us!\" {n}The half-orc inhales deeply.{/n} \"Why do I smell shit?\""
+    },
+    {
+      "Key": "5f27d448-2252-4638-9f97-6feca6420b88",
+      "Value": "{n}The lizardfolk grinds his teeth.{/n} \"Chief Vesket is busy. No time for talk. You want child — go take child!\""
+    },
+    {
+      "Key": "ffda2c9b-0043-4c09-bf70-733ad67fed55",
+      "Value": "\"And no come back!\" {n}Lizardfolk guards lead you out through the gates.{/n}"
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "d35618d1-332f-4601-8387-83a97924da13",
+      "Value": "\"What does your name mean?\""
+    },
+    {
+      "Key": "2aac6036-ddeb-4695-b955-d61e2a68521e",
+      "Value": "\"What does the trial consist of?\""
+    },
+    {
+      "Key": "eb156ddb-162e-439b-974f-62855e4749b3",
+      "Value": "\"I am ready to pass the trial.\""
+    },
+    {
+      "Key": "bebe7661-eb3b-499e-8a52-eed6bb707c5c",
+      "Value": "\"I'm sick of your trials. Get out of my kingdom at once!\""
+    },
+    {
+      "Key": "61fa59f9-d144-43ca-835c-c86c04bc5fa8",
+      "Value": "[Attack] \"I've grown tired of this. Die!\""
+    },
+    {
+      "Key": "cd12ceff-4680-4cda-abbf-8d89f878b169",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "3fe9cbfb-36f4-4fbd-ad66-81460369abbe",
+      "Value": "\"Shelyn, Irori, Iomedae, Sarenrae, Erastil, Abadar.\""
+    },
+    {
+      "Key": "3a835440-9b31-4bcc-abba-efac42949059",
+      "Value": "\"Erastil, Pharasma, Shelyn, Cayden Cailean, Desna, Sarenrae.\""
+    },
+    {
+      "Key": "6f796c0d-6ee5-4ab5-b20d-d95cc2aa19c3",
+      "Value": "\"Shelyn, Irori, Rovagug, Sarenrae, Erastil, Asmodeus.\""
+    },
+    {
+      "Key": "77ef712e-a2af-4b3e-9de4-6da71426d6a8",
+      "Value": "\"From Jalmeray.\""
+    },
+    {
+      "Key": "8fa63667-7955-407a-926d-65a0ae2b8be9",
+      "Value": "\"From Arthfell Forest.\""
+    },
+    {
+      "Key": "3c060f73-6ebf-4b2d-97df-a5ae2eebfc9d",
+      "Value": "\"From Absalom.\""
+    },
+    {
+      "Key": "ee60854b-86b2-459b-98fd-f3013cea8943",
+      "Value": "\"The way of the hero.\""
+    },
+    {
+      "Key": "c6468bb2-c72f-4cdf-bffd-348e206e7f95",
+      "Value": "\"The Wise Way.\""
+    },
+    {
+      "Key": "95600c6e-e05e-4b8a-ab91-d3ca92791cae",
+      "Value": "\"It's impossible to translate into Common.\""
+    },
+    {
+      "Key": "1c32ed66-27da-4634-8371-258a783f3c3a",
+      "Value": "\"The Ways of the Phoenix, Unicorn, Wolf and Lion.\""
+    },
+    {
+      "Key": "7be21296-c8de-4fec-a5e1-cd0e6d7ee5b5",
+      "Value": "\"The Ways of the Phoenix, Unicorn, Wolf, Lion, and Chameleon.\""
+    },
+    {
+      "Key": "e7183b89-33ab-4a57-9009-28acb1c79b64",
+      "Value": "\"The Ways of the Phoenix, Unicorn, Wolf, Lion and Dragon.\""
+    },
+    {
+      "Key": "064538ba-f119-4d1e-8725-79ff67959117",
+      "Value": "\"In Jalmeray.\""
+    },
+    {
+      "Key": "32d5f410-3d4b-47d0-9b29-286834ef25a2",
+      "Value": "\"In Arthfell Forest.\""
+    },
+    {
+      "Key": "be72bd25-e677-41a6-9545-643dc148c7ec",
+      "Value": "\"In Narlmarches.\""
+    },
+    {
+      "Key": "22ab381b-cbd9-4e08-a5c0-214da5f25265",
+      "Value": "\"Set off on a crusade.\""
+    },
+    {
+      "Key": "25f6c559-6fb0-4a31-b93f-bcc677ffdaae",
+      "Value": "\"Organized debates about faith.\""
+    },
+    {
+      "Key": "3bd473d2-7eb0-4ff1-acef-2cab59d62823",
+      "Value": "\"Put his teachings in a book.\""
+    },
+    {
+      "Key": "134dc4e6-6b64-4ebb-9bf9-a86795fcb63d",
+      "Value": "\"In Arthfell Forest.\""
+    },
+    {
+      "Key": "0a1e74ce-2de8-423d-a61b-4a679fe10888",
+      "Value": "\"In Absalom.\""
+    },
+    {
+      "Key": "ca3615bc-0c6b-41ca-8aca-182a7dcea11d",
+      "Value": "\"Nowhere.\""
+    },
+    {
+      "Key": "0aee096e-4821-4fcb-8b9e-8e5e0fa2da1d",
+      "Value": "\"Where can I learn more about your order?\""
+    },
+    {
+      "Key": "820d010a-31d2-48b4-b165-81e98bf36044",
+      "Value": "[Attack] \"I'm sick of your stupid questions!\""
+    },
+    {
+      "Key": "04654a1a-b338-48bd-80c9-abc28df205c6",
+      "Value": "\"The Wise Way.\""
+    },
+    {
+      "Key": "df039a06-b9e5-4c47-bad9-999ad3b26136",
+      "Value": "\"The Pacifying Fist.\""
+    },
+    {
+      "Key": "46f1c27b-3831-47f7-92d4-adbe5e69d275",
+      "Value": "\"There are none.\""
+    },
+    {
+      "Key": "85a7f455-1ce3-45c5-9f9f-1a1880a943f7",
+      "Value": "\"Eliminate villains.\""
+    },
+    {
+      "Key": "712bf09d-3394-47e0-ba79-08e52fd2583c",
+      "Value": "\"Become more powerful.\""
+    },
+    {
+      "Key": "79b75f3f-2229-4e7a-93ab-64bb50457874",
+      "Value": "\"Make the world a better place.\""
+    },
+    {
+      "Key": "a1c3c354-ab94-480f-8c94-747346ba52e9",
+      "Value": "\"Hello, Your Highness. I am Vidya the Lion. Are you ready for your final trial?\""
+    },
+    {
+      "Key": "b5c14ade-246d-44d3-855c-b0def354708f",
+      "Value": "\"Hello, Your Highness. Are you ready for your final trial?\""
+    },
+    {
+      "Key": "e05abba0-0217-4754-ad82-8a5dd8325d13",
+      "Value": "\"I haven't always had that name. The teacher gave it to me, it means 'knowing the truth'. I follow the Lion's Way – it is the way of preaching. I came to understand the teachings of the Wise Way, and learned to declare them loud and clear – like a lion's roar.\""
+    },
+    {
+      "Key": "a3552261-3855-46f8-aafd-7210e3540d82",
+      "Value": "\"As you wish, Your Highness.\""
+    },
+    {
+      "Key": "49b5936d-88ee-450d-b6f3-1fb2352ed48f",
+      "Value": "\"You are making a mistake. But so be it.\" {n}Vidya casts a spell and boundless peace and tranquility descend upon you. You watch Vidya leave, unable to even reach for your weapon.{/n}"
+    },
+    {
+      "Key": "3abf04bf-9fb9-4d44-8a47-af6a6480b7e5",
+      "Value": "\"May the trial commence. Happy are those who have learned the truth!\""
+    },
+    {
+      "Key": "f9d7f000-3489-46cf-813b-2f11b4219ae2",
+      "Value": "\"My trial is the trial of truth. I will ask you three questions about the Suramgamin Order, to test how much you've learned of us. If you are unsure in your knowledge, do not hasten to commence this trial. First try to learn more about us!\""
+    },
+    {
+      "Key": "6e0630a3-d223-4281-9056-9402a5d454db",
+      "Value": "\"I will wait for you here.\""
+    },
+    {
+      "Key": "cfc26878-a146-492d-8111-e7299693f0ab",
+      "Value": "\"Here is my first question.\""
+    },
+    {
+      "Key": "69f18ea4-3143-4d1a-acf0-e629ccc5d78b",
+      "Value": "\"Here is my second question.\""
+    },
+    {
+      "Key": "69d9439e-8a5a-43f3-acb1-84d87408add4",
+      "Value": "\"Here is my final question.\""
+    },
+    {
+      "Key": "305a34cd-3242-4008-aa5e-6ddac620c17b",
+      "Value": "\"Which gods does our order venerate?\""
+    },
+    {
+      "Key": "7b593e44-6850-4d90-a7dc-2f8546de2450",
+      "Value": "\"Where did our teacher come from?\""
+    },
+    {
+      "Key": "35730714-b197-4f0e-bfdc-3f771401844c",
+      "Value": "\"What does the name of our order mean?\""
+    },
+    {
+      "Key": "510d16bf-d7ab-49e8-a479-7ae2f0a85475",
+      "Value": "\"What paths to achieving a master's title are there in our order?\""
+    },
+    {
+      "Key": "ab15ddf5-68f6-4e22-9ccf-faa703dc7547",
+      "Value": "\"Where did teacher Avalo meditate as he learned the truth?\""
+    },
+    {
+      "Key": "5483f790-77f9-41f7-b605-30c302c4bdce",
+      "Value": "\"What did teacher Avalo do when he learned the truth?\""
+    },
+    {
+      "Key": "62accc70-79f0-4397-b025-b567fc6e9241",
+      "Value": "\"Where is the main temple of our order?\""
+    },
+    {
+      "Key": "8033d6f6-126f-44f5-8be0-7e025ee65527",
+      "Value": "\"What is the name of a martial art that members of our order are taught?\""
+    },
+    {
+      "Key": "156a8e49-9529-4eca-b0cf-462c16d81c12",
+      "Value": "\"What does it mean to go the Way of the Hero?\""
+    },
+    {
+      "Key": "ea1db5bd-ae1f-467a-bb1d-269d935d98fd",
+      "Value": "\"Well, Your Highness, you have answered all the questions.\""
+    },
+    {
+      "Key": "7db51d72-0a5b-4950-8748-7ee8f141c336",
+      "Value": "\"In the same place you would go looking for knowledge about anything – in books! What I will ask you is no secret. I'm sure you can easily find books about us.\""
+    },
+    {
+      "Key": "46606775-e3e0-4968-bf4c-27a74c59b03b",
+      "Value": "\"You learned so much about our order. I am glad: knowledge is the first step to understanding, and understanding opens the path to enlightenment.'"
+    },
+    {
+      "Key": "ef5e8ac8-b684-4c1b-b5a5-2406b45a9d29",
+      "Value": "\"Unfortunately you have learned far less about us than we've learned about you... But do not despair: a single trial does not tip the balance.\""
+    },
+    {
+      "Key": "3e38ea76-101e-49c4-95ba-ddc1323d8bfe",
+      "Value": "\"Correct. We offer our prayers to gods of good and order.\""
+    },
+    {
+      "Key": "176d5d5b-c04d-44d2-b6b4-c3404a166576",
+      "Value": "\"Close, but not exactly. {g|Cayden Cailean}Cayden Cailean{/g} and {g|Desna}Desna{/g} are kind gods, but their deeds are marred with chaos. Pharasma is indifferent to good or evil, and takes a different path from us. And you forgot to mention {g|Abadar}Abadar{/g} and Irori.\""
+    },
+    {
+      "Key": "3c9062cf-e2e5-4701-a21d-073a164bca75",
+      "Value": "\"What? {g|Asmodeus}Asmodeus{/g}? {g|Rovagug}Rovagug{/g}? Your Highness, who do you take us for? No one in our order venerates evil!\""
+    },
+    {
+      "Key": "d283c1d0-f69b-4238-9009-452d8db58aae",
+      "Value": "\"Correct. That is exactly where he came from to these lands.\""
+    },
+    {
+      "Key": "f37d263f-a262-4bed-8732-6f2c225b8585",
+      "Value": "\"No, he meditated in Arthfell Forest while searching for the truth. Initially he hailed from {g|Jalmeray}Jalmeray{/g}.\""
+    },
+    {
+      "Key": "24880704-1724-4b8b-a4bb-214b310b6bdf",
+      "Value": "\"No, his homeland is much farther. He came from {g|Jalmeray}Jalmeray{/g}.\""
+    },
+    {
+      "Key": "e71725b8-ed61-4e0e-8744-cd255908d83f",
+      "Value": "\"This is true.\""
+    },
+    {
+      "Key": "53c0b7a8-5d59-4a2e-b84e-3e59eb6a4236",
+      "Value": "\"No, the Wise Way is a philosophy our order teaches. The name of the order means 'the way of the hero'.\""
+    },
+    {
+      "Key": "0f306770-270a-4468-8b93-931716c0103a",
+      "Value": "\"The exact translation might actually be impossible. But it's usually translated as 'the Way of the Hero'.\""
+    },
+    {
+      "Key": "0bf2bc8e-c6fd-49d2-99d9-9dcd6af180b1",
+      "Value": "\"Very true, but you forgot to mention the Way of the Chameleon. It's an easy mistake: the chameleon's way lies in shadow and silence, away from watchful eyes.\""
+    },
+    {
+      "Key": "c2be8042-0d66-4c6f-93ac-7b41eabf9c93",
+      "Value": "\"I see you are knowledgeable... Yes, Chameleon masters are not as noticeable, but are no less important than the others.\""
+    },
+    {
+      "Key": "c551cc98-5bff-4025-b989-681642bcea66",
+      "Value": "\"There is no Way of the Dragon in our order. But there is one you forgot – or perhaps didn't know – the Way of the Chameleon.\""
+    },
+    {
+      "Key": "d9562672-6700-47b9-ab5d-59066e7c1ac4",
+      "Value": "\"No, though he was born there. But to seek out the truth, he went to Arthfell Forest – where he still lives to this day.\""
+    },
+    {
+      "Key": "a5d4761c-bea3-4c1a-a4aa-aef43b48308c",
+      "Value": "\"Correct. He still lives there, surrounded by his disciples.\""
+    },
+    {
+      "Key": "710665cd-722d-4cc4-9b4b-6eef6f0a70e6",
+      "Value": "\"The {g|Narlmarches}Narlmarches{/g}? Oh no. He meditated in Arthfell Forest.\""
+    },
+    {
+      "Key": "0bce56f5-0d93-4a14-a468-73b645b7b004",
+      "Value": "\"Of course not. Teacher Avalo preaches non-violence – how could he set forth to fight? He organized debates about faith.\""
+    },
+    {
+      "Key": "3fac5323-2ffb-46aa-867c-d107a9802693",
+      "Value": "\"Correct. Many traveled there to prove his words wrong... only to become his followers.\""
+    },
+    {
+      "Key": "af640cae-c452-4933-8ef9-b28b59acbee6",
+      "Value": "\"Oh no. The revelations of teacher Avalo are recorded in many books, but never by he himself. He organized debates about faith with major religious leaders.\""
+    },
+    {
+      "Key": "3f59d4d9-004a-44ca-b684-507f0f165358",
+      "Value": "\"No. The teacher lives there, with a community of disciples – but our order has no temples.\""
+    },
+    {
+      "Key": "c8114311-583f-4a2c-b2bc-fa56648e39e4",
+      "Value": "\"No. Our order does not build temples.\""
+    },
+    {
+      "Key": "666367ad-7b5a-4509-910e-cbb75d63afa7",
+      "Value": "\"Correct. We don't build temples, and each of us is free to venerate the gods as they see fit. What's important is to follow the Wise Way.\""
+    },
+    {
+      "Key": "98068eb5-1e5b-4ed6-9e0b-f4b25d976fc0",
+      "Value": "\"Incorrect. The Wise Way is not a fighting style, but a dedication to complete non-violence. We do not teach any martial arts.\""
+    },
+    {
+      "Key": "5fe608d2-11b3-42b0-b1ec-ee7c0d6418c1",
+      "Value": "\"A fist cannot pacify, just as a sword cannot heal, nor the executioner's axe revive. Our core principle is non-violence. We do not teach any martial arts.\""
+    },
+    {
+      "Key": "7b7f014f-47d5-4a3a-ae6a-75ce3d6a13a4",
+      "Value": "\"Indeed. Our main principle is non-violence. We teach no martial arts.\""
+    },
+    {
+      "Key": "d62529fd-09ca-4864-8b09-b301fa2c88a3",
+      "Value": "\"He who kills villains only increases their number. No, we call a hero not the one who sheds blood, but the one who makes the world a better place.\""
+    },
+    {
+      "Key": "a8fc7a41-43c1-47ce-a37f-f4e7b0a4f252",
+      "Value": "\"What is power worth, if it's not applied to a good cause? No, we call a hero one who makes the world a better place.\""
+    },
+    {
+      "Key": "1443fe7b-8b7c-497b-98dd-c436c08e5a5d",
+      "Value": "\"Indeed. We call a hero any one, no matter how weak or strong, who brings even a small measure of good and order to this world.\""
+    },
+    {
+      "Key": "5303cb75-54e5-44db-ab22-67a6660d6700",
+      "Value": "\"With your permission I shall withdraw. I must to confer with my brothers and sisters. We shall assemble not far from here. Find us to hear our verdict.\""
+    },
+    {
+      "Key": "cb1772ea-0a16-4d7d-9ecf-28a82992f76c",
+      "Value": "\"Ah, so it all ended with a boring theology exam. Not surprising.\""
+    },
+    {
+      "Key": "2402c408-a4d8-4ad5-80fa-dce825fc49da",
+      "Value": "\"I think it'll be exciting! Everything's so symbolic — lions, unicorns... and the {mf|king|queen} wisely giving one correct answer after another!\""
+    }
+  ]
+}

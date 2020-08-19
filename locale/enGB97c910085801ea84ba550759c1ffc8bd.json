@@ -1,0 +1,349 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "96843b63-bba8-4a52-82a4-32e8adc62990",
+      "Value": "[Lie] \"Hassuf was delighted to read your letter.\""
+    },
+    {
+      "Key": "0155286c-f003-4641-b1d1-c4e4d46df0e5",
+      "Value": "[Tell the truth] \"Hassuf tore the letter into shreds, all the while cursing your family.\""
+    },
+    {
+      "Key": "3f511188-378f-4462-9b4c-3f1a884d6d8b",
+      "Value": "\"What sort of help do you need?\""
+    },
+    {
+      "Key": "67aa4bf0-20ef-4c0e-adda-c5a01cacf76b",
+      "Value": "\"I would like to know more about you.\""
+    },
+    {
+      "Key": "43f22baf-c3ea-4e37-8e24-5a3ebc8c90b9",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "48f410d4-86ce-47cb-99f6-52a08717399e",
+      "Value": "\"What happened this time?\""
+    },
+    {
+      "Key": "36bb9a0d-3aba-4779-ae71-8ec2db48d585",
+      "Value": "[Tell the truth] \"The Storyteller has seen that your ancestor was a coward and a failure, not a hero. I am sorry.\""
+    },
+    {
+      "Key": "526caf12-135c-402f-bd56-ebb1f57b49f5",
+      "Value": "[Lie] \"The Storyteller told me that your ancestor was a hero. However, he does not know where to seek the monster's heart.\""
+    },
+    {
+      "Key": "1f3f9b0a-1863-4f28-9a69-88007619f1b0",
+      "Value": "\"How did you end up here?\""
+    },
+    {
+      "Key": "24d1949a-68a0-4e47-9866-ab83cb57fced",
+      "Value": "\"You were a ruler?\""
+    },
+    {
+      "Key": "3dcfd794-623e-4525-a685-db4603f484d6",
+      "Value": "\"Tell me of your homeland.\""
+    },
+    {
+      "Key": "87f7184b-d49c-448b-be00-afa59da5eb60",
+      "Value": "\"It seems to me there are quite a few… exaggerations in your stories.\""
+    },
+    {
+      "Key": "6400f46a-d650-4ddc-afb5-e7d60b92106f",
+      "Value": "\"Do you enjoy living in my lands?\""
+    },
+    {
+      "Key": "c17a1a0a-b50a-40fc-b212-3586ca8ff71f",
+      "Value": "\"At times, you are insolent towards me.\""
+    },
+    {
+      "Key": "2dc83155-75ca-4b6d-b2fa-fb31c5b98644",
+      "Value": "\"You've talked about the treasures of your homeland. How would one go about trying to find them?\""
+    },
+    {
+      "Key": "b96685ac-7970-42c3-90c2-a4f68cf620cd",
+      "Value": "\"Tell me of Vudra.\""
+    },
+    {
+      "Key": "57f43851-709f-483e-b644-2e89213250ab",
+      "Value": "\"Let's talk of your homeland some other time.\""
+    },
+    {
+      "Key": "6a9eb89f-5691-4afc-91b2-9c0a31289578",
+      "Value": "\"Let's do this another time.\""
+    },
+    {
+      "Key": "a62c1c5a-8df1-4b11-b12e-1804a820f9cc",
+      "Value": "\"I'd like to listen to your story some other time.\""
+    },
+    {
+      "Key": "a40c4dd4-2d2e-45f3-82a3-9b223d085a35",
+      "Value": "\"No, not now. Maybe later.\""
+    },
+    {
+      "Key": "e40cec20-5a59-412c-8dbf-7ea7b100f684",
+      "Value": "[Keep listening no matter what]"
+    },
+    {
+      "Key": "a55b5e35-e0b8-40f0-8092-e941058f882b",
+      "Value": "\"I can't go on. That's enough.\""
+    },
+    {
+      "Key": "16a5a6ce-6e09-42a0-8584-422f09b50db7",
+      "Value": "\"I think you haven't finished your story… The one about the genie-binder.\""
+    },
+    {
+      "Key": "93de3b58-6545-4816-a27e-47dd4350f8f0",
+      "Value": "\"You wanted to tell me a story. I'm all ears.\""
+    },
+    {
+      "Key": "4b7301b2-58a1-40b0-a45e-18a9f23feac2",
+      "Value": "\"You wanted to tell me something about a spear and one of your ancestors.\""
+    },
+    {
+      "Key": "6117720d-4355-4eef-9571-d0f082d04c19",
+      "Value": "\"Ahem… Let's change the subject.\""
+    },
+    {
+      "Key": "f8f2a0fc-2544-4786-ad6a-90a70ed9e537",
+      "Value": "\"That's more than enough, I can see where this is going.\""
+    },
+    {
+      "Key": "1b7eb6db-f464-434d-8c17-9b05847fe07d",
+      "Value": "\"Oh no. Please, stop.\""
+    },
+    {
+      "Key": "2e982166-2339-4c55-8a62-21000ff0c8c2",
+      "Value": "\"Very interesting. Let's talk about something else.\""
+    },
+    {
+      "Key": "9fafe613-5f93-404a-b165-7be831f13dbb",
+      "Value": "\"A simple 'yes' would have sufficed.\""
+    },
+    {
+      "Key": "1124e10b-08f5-423a-9bdf-b7e1927bef5f",
+      "Value": "\"{d|Shainiha}Shaynih'a{/d} is happy to see you, o most worthy one! Rest your legs and listen to my stories – that is, if you've nothing more important to do… such as assisting me in a delicate situation...\" {n}Shaynih'a gives you a sly wink.{/n}"
+    },
+    {
+      "Key": "d745c0aa-4444-48a8-9782-137853559100",
+      "Value": "\"I am pleased to see you again, o worthy one. What brings you to {d|Shainiha}me{/d}?\""
+    },
+    {
+      "Key": "a45a5846-9457-47a3-af1a-71afd0c7f642",
+      "Value": "{n}The Vudrani proffers a small scroll.{/n} \"This was written by my father. It was meant for a family that has lived for centuries, near the home of my relatives in Absalom. Life has scattered us all across Golarion, but we never gave up hope of reuniting with those we once knew so well. My father asked me to pass this letter to a member of this fine family, if I should ever happen to stumble across one.\""
+    },
+    {
+      "Key": "96b7e5cc-17d9-4093-9949-1ca8617aa056",
+      "Value": "{n}Shaynih'a peers at you in surprise, but her melodious words come off her lips effortlessly:{/n} \"He wasn't pleased? How sad… This reminds me of a story that took place a long, long time ago. Please, let me enlighten you, o worthy one…\""
+    },
+    {
+      "Key": "a143c0ab-abe6-42fe-b14b-d4a05a78139d",
+      "Value": "{n}Shaynih'a smiles joyfully.{/n} \"I knew that wise Hassuf would be most pleased to receive news from home. All of this reminds me of a wonderful story, one that took place a long, long time ago…\""
+    },
+    {
+      "Key": "0993d357-ebec-4039-93f8-ac2d56bfbc97",
+      "Value": "\"There once lived a mighty warrior by the name of Khorkhor. His mother was a white shark, and his father the most lustful – and most inventive – of all mortals. Khorkhor inherited his fearlessness from his father, and from his mother his strength and thirst for blood. His skin was as white as milk, and his sharp, crooked teeth grew in three rows. There wasn't a warrior in the world who was stronger or more warlike, and he served the Maharaja loyally.\""
+    },
+    {
+      "Key": "41460195-6607-41f8-a038-330275eea0b7",
+      "Value": "\"This story teaches us that however long and difficult the most worthy path may be, happiness, honor and triumph always lie at the end of it. Our family has feuded with the Hassuf for many centuries. Many of his kinsmen were slain by our hand. Once we'd destroyed almost all of them, but we gained wisdom and sought a truce. I am glad that this news brought joy to the wise Hassuf, for he was noble enough to recognize suffering as a sign of enlightenment, for which we work so tirelessly, in doing both good and evil. Go now, o worthy one, for my heart has gained peace, and my mind attained clarity, which is so important to a true master.\""
+    },
+    {
+      "Key": "0ef4b53f-943e-4c3c-a63f-8fc3a634db61",
+      "Value": "\"As you can see, both honor and disgrace may live in the same body, even though it may belong to a person of worth. Why then cannot my family's deeds be both honorable and disgraceful at the same time? Yes, my kinsmen have spilled much blood, trying to destroy Hassuf's family, but it was also they who first decided to seek out peace. I am grateful that I have been able to fulfill my duty no matter the price. Go now, o worthy one, for my heart has gained peace, and my mind attained clarity, which is so important to a true master.\""
+    },
+    {
+      "Key": "5003cf22-2f79-4a1e-b057-1bd461076cc0",
+      "Value": "{n}Shaynih'a hands you a heavily worn piece of metal.{/n} \"I have heard, o worthy one, that there lives a Storyteller in your realm, whose eyes can see into the memories of things. Please, show him this. It was the tip of a spear that once belonged to my esteemed ancestor Vu Balak. He was fated to live in interesting times, for it was then that Kothogaz, the Dance of Disharmony, Spawn of Rovagug, attacked Vudra. A million Vudrani came out to fight him, and amongst them was the cleric Vu Balak.\""
+    },
+    {
+      "Key": "42ed7c3b-04b0-4dcd-8811-6fd28223e5f2",
+      "Value": "{n}The Vudrani frowns, but then her face lightens, and a smile crosses her lips.{/n} \"This is not news that I expected to hear. And still, is this news all that bad? For it means that I need not sail back to Vudra, but may instead continue my work here. This reminds me of a story...\""
+    },
+    {
+      "Key": "5d56b66a-da62-43df-b225-bba3fab9685b",
+      "Value": "\"Hm… Perhaps, I was wrong. The Perfect Human has sent the Storyteller to remind us all of the great purpose that we have each been given. I must not leave for Vudra to seek the shards of the heart of Kothogaz. I must follow my chosen path. I shall recount to you a tale that is well-suited to the occasion.\""
+    },
+    {
+      "Key": "6848ffbd-3267-4547-87ff-d500bcdf5d06",
+      "Value": "\"Maharajah Khiben-Sald etched his glorious name in history when he conquered the kingdoms of the genies. He spied on the descendants of the goddess Janasini, the Garuda, and saw how they charmed snakes by playing their flutes. Through these secrets, he discovered a way to charm and bind the genie to his will. Khiben-Sald openly declared his new mastery for all to hear, and in doing so insulted their race. Emissaries from the vizier of the djinni, the genie of air, came to demand an apology from the wizard – only to be turned into slaves, and their bodies bound in chains. It was then that the malik of the fire jinn, known as the efreet, sent his assassins. They hid in a cloud of dust and approached as the mage was sleeping.\""
+    },
+    {
+      "Key": "9a7a72b4-1cee-477a-9df2-ad2683fa491c",
+      "Value": "\"As you can see, even a mortal can accomplish such great deeds that their memory shall live on longer than the palaces built by the magical genie. This thought has given me the strength to create a great masterpiece, one which will ensure the memory of my name.\""
+    },
+    {
+      "Key": "15737f81-3e03-4186-b162-98eeddfe93e0",
+      "Value": "\"As you can see, your actions may be seen as valorous by some and heinous by others. For it is still forbidden to utter the name of Khiben-Sald among the genie, so much is it hated! Let others think of you as a villain or lunatic – all that truly matters is that enlightenment and devotion to your own goals blooms in your heart! It is decided. I shall continue my work on my path to mastery, and will create a masterpiece which will immortalize my name. May it serve you well, whether I be praised for it by your friends or cursed for it by your enemies!\""
+    },
+    {
+      "Key": "13140131-e61d-4207-9b20-7e23d08aba34",
+      "Value": "\"I am flattered. Where should I begin?\""
+    },
+    {
+      "Key": "5d7f2112-076a-4cdc-af73-2b009de265ce",
+      "Value": "\"Until we meet again, o worthy one! It shall happen sooner than you think – the Perfect Human has told me!\""
+    },
+    {
+      "Key": "e7464017-7b6b-41e0-bfc2-3cd7bd6b9bb7",
+      "Value": "\"Oh, they often say this about the Vudrani! Know then that the gods have given me such lessons in humbleness, that it is quite against my nature to lie and spread falsehood! Have you ever been to Niswan? It is the capital of the Island of {g|Jalmeray}Jalmeray{/g}, the city of a thousand rooftops, above which flutters a thousand silk banners. Not water, but the finest wines flow from their magnificent jade fountains! There isn't a city more beautiful in this world! But Niswan's greatest jewel is its Houses of Perfection, monasteries wherein the world's finest warriors train.\""
+    },
+    {
+      "Key": "34e05a25-a989-40f7-ab9d-f54f3b74ea94",
+      "Value": "{n}Shaynih'a's eyes glisten, and her movements become so smooth it's as if she's beginning to dance. It takes her a moment to stop herself.{/n} \"Vudra is a land of wonders never seen in your realm. As witnessed by the ten thousands lines of Mizravrtta Brahmodya, as recorded by the wise Balazastrin from the words of the goddess Likha. Vudra is fifty thousand years old. That means that it is far older than the rest of the world, which grew up around Vudra to become its outer mantle, like shells and weeds grow upon the bottom of a ship.\""
+    },
+    {
+      "Key": "0765b6c4-8760-46b5-9198-553156d0862d",
+      "Value": "\"Yes, I am of the rajah caste, although I have lost all my lands.\" {n} Shaynih'a speaks in a sing-song manner, as if she were reading a ballad or verse.{/n} \"I once disturbed an ancient city of the dead, one that lay hidden, deep in the jungle...\""
+    },
+    {
+      "Key": "b8b4ceaa-3aa0-49c1-873f-5055db509444",
+      "Value": "\"Have you heard of Rudrakavala? High in the Vudrani mountains lies the Adhaarm monastery. Its monks are pious and devout, their duty is to feed a dead man whose green-skinned body floats over a black metal altar as he meditates. Back when Rudrakavala was alive, he was the vilest of the rakshasa. However, one day he stepped upon a river bank and became a seeker of truth. And thus he stood for a thousand years, unmoved...\""
+    },
+    {
+      "Key": "c59332ac-b97f-4fe8-9b1c-057494f0d16b",
+      "Value": "\"This is a wondrous land! You have such strange cuisine! And kobolds? Incredible creatures, we do not have them in Vudra. And those insolent creatures... Squirrels! I have never seen such fierce creatures!\""
+    },
+    {
+      "Key": "8e7d0782-ca2d-41e6-896a-88129e23b2a5",
+      "Value": "{n}The Vudrani stares at you in surprise.{/n} \"Insolent? I am a rajah, same as you. We are equals by caste. True, I hold no power, but what does that change? The sage Ulvantha told me a story. Once, he was a groom to the moon herself, but he angered her with his rapturous nature, and was expelled from the plane of Nirvana...\""
+    },
+    {
+      "Key": "e2ab7ee7-144b-48ed-81f8-b44f78779270",
+      "Value": "{n}A sly smile crosses the Vudrani's face.{/n} \"Greed is a dangerous thing. Have you ever heard of the Consortium of Aspis, o worthy one? It is the union of the greediest merchants of all Cheliax. The head of the Consortium in Vudra learned of an abandoned palace of the princess Chhaya, rumored to be filled with fabulous riches. He hired guides and porters and set out for the palace, and the treasures they found there exceeded their wildest expectations – but their robbery had not gone unnoticed. They had awakened an evil spirit that sped towards them, taking the form of a white cobra...\""
+    },
+    {
+      "Key": "34d2748d-0302-436a-8cb0-f931c5ae8c87",
+      "Value": "\"O most worthy one! It pains me to ask of you yet another favor, yet {d|Shainiha}I{/d} desperately require your aid! I fear yet again that I may have made the wrong choice when I set myself upon the path of master smith! A rumor has come to my ears and has upset my heart, making me doubt myself! The Perfect Human has sent me a sign — a sign that shows I was fated for a great undertaking! I beseech you, help me!\""
+    },
+    {
+      "Key": "0044d77b-207b-4f93-a031-8ee29809b64e",
+      "Value": "\"But this land lacks order. The gods granted Vudra castes. You have none here, and that is why there is no order. For when you meet a member of the lowest caste, you know that they only barely deserved to be born human. In their previous lives, they were animals, or maybe even a vile things like kobolds, who are lower than even the lowliest beggars. Trust me, for I have more than once faced their wicked nature! Whereas when you encounter a member of a higher caste, be he a padaprajna warrior or a rajah as you and I, that signifies that in our past lives we were pious and noble, that our words were strong and true. It is that understanding that these lands lack.\""
+    },
+    {
+      "Key": "75c5cb54-78bb-41e0-b502-bf26c3dc8d82",
+      "Value": "\"Of the Kingdoms of a Thousand Wonders? Where should I begin…\""
+    },
+    {
+      "Key": "176af80e-06b7-441e-ac10-9ffcc91ae6cf",
+      "Value": "\"As you wish, so shall it be. I have many interesting stories for you.\""
+    },
+    {
+      "Key": "6965803d-e1b8-461e-88fa-1cd37ff36ee8",
+      "Value": "\"...The Aspis realized that they would pay dearly for their greed, and ran as fast as they could. The foolish Vudrani who had helped them ran as well. They built ships and fled their homes. Many turned to piracy, and you can find them still in the Protectorate of the Black Marquis, now known as the Mandagara League. Woe is the fate of thieves and outcasts! Others settled in Kaer Maga in {g|Varisia}Varisia{/g}. It was they who took the pyramid-box from the palace and hid it from the Consortium. This box is covered in the finest oil, and carried by dead men, and inside the box lives the Child Goddess.\""
+    },
+    {
+      "Key": "68a2b90c-b419-4f1a-ad3a-d854d9953c4f",
+      "Value": "\"Trust me, for the Child Goddess spoke to me once, and foretold that you and I were destined to meet! The Vudrani hope that the deity's protection will save them, but it is this box that the evil spirit seeks. It has since transformed into a demonic ship, and it comes into ports by night. Sailors who look like crocodiles search the towns, and the ship is gone by dawn. There will come a day when the ship finds Kaer Maga's port, and the Vudrani will pay dearly for their greed. Vudra knows how to protect its treasures, and it is best not to seek them, o worthy one.\""
+    },
+    {
+      "Key": "aa56d9c6-ae9a-4119-8e4f-3660f2ea7595",
+      "Value": "\"... To ensure that he never again falls victim of his ill nature, he carries with him the skull of his mortal enemy, and consults it on all occasions. Trust me, for I myself have heard the words of the skull's wisdom! Once, this wise man Ulvantha was heading north. However, his path was blocked by the local rajah's army, who was waging war against his neighbor. The soldiers were ordered not to let anyone pass. This infuriated Ulvantha.\""
+    },
+    {
+      "Key": "a49c2909-e7e0-453b-8425-81b8aaf1d9e3",
+      "Value": "\"But, following the skull's advice, he did not kill them on the spot – after all, the soldiers acted honorably, neither buckling to his wrath nor flinching in their duty. Instead, the wise man took some rice from his bag and boiled it, making an army of rice soldiers. The rice soldiers then tore the rajah's men apart, while Ulvantha visited the rajah's capital. He then overthrew the rajah and placed a dead whore on the throne, as a reminder that power is as fleeting as life. So do not hurry to think that your position of power might give you a strength that I do not posses. Only noble behavior and enlightenment truly matter.\""
+    },
+    {
+      "Key": "979c5285-fa09-420c-a42e-04e72e377cbd",
+      "Value": "\"Once the Monastery of the Unblinking Flame became jealous that the Monastery of the Unfolding Wind was known as the house of the greatest masters. Many turned down the invitations of the Unblinking Flame in order to join their white-robed rivals. The Monastery of the Unblinking Flame swore to make them pay for the insult. In the streets, the markets, and the palaces, the red-clad monks would insult the white ones, provoking them to bloody duels.\""
+    },
+    {
+      "Key": "40cfda39-dc2c-4332-9282-95e6d2fbfa2b",
+      "Value": "\"Niswan shook as if from an earthquake. Trust me, for I witnessed it myself. In that life I was an arrogant master of the Unblinking Flame and my pride demanded war. I knew that my days were numbered, and desired nothing but to see the Unblinking Flame triumph. In my arrogance, I could not see how much suffering I brought to the people. Those who were struck by a monk's fist fell and did not rise again, and those who were touched by a priest's finger were permanently crippled in body and mind. We fought with honor, seeking to demonstrate our mastery, not murder our enemy – while the townsfolk died by the thousands. And we did not care.\""
+    },
+    {
+      "Key": "b407ec11-0ac6-4f52-9606-40d58e0c5291",
+      "Value": "\"Our students, however, secretly arranged the Tournament of Unseen Mercy, which took place on a bridge over an abyss. They fought, and it was agreed that the losers would be shown no mercy, and their bodies would be thrown down, into the abyss. By dawn the bridge was completely empty. It was then that we, the masters, saw how arrogance had weakened our Houses and deprived us of our future. The ambitions of the past were all that remained. It was a bitter lesson, and it was then that I swore in all of my incarnations to be always humble and straightforward. I have since kept my promise, no matter how strongly I may wish to embellish my story!\""
+    },
+    {
+      "Key": "893e4cb7-74a8-46f5-b462-f310a0524094",
+      "Value": "\"As I have recently discovered, one of them lives nearby. The noble Hassuf trades in your capital. I confess, I am too nervous to meet him. I fear that my anxiety will cause me to behave inappropriately, and I may disgrace myself for it. Would you assist me in fulfilling my duty and deliver him this letter? I do not believe that my heart can be at peace until this letter is delivered! One cannot be a master when beset by such distraction.\""
+    },
+    {
+      "Key": "59396011-126c-4178-919a-cb6daf90b6e7",
+      "Value": "\"It is the land of genie, monks, wondrous beasts – and gods, of course. Vudra is home to thousands of gods, while in other lands they worship mere dozens! The Perfect Human is the head of the pantheon. He is called Irori, the Master of Masters. Among the gods he is as a maharajah, ruling Vudra and all of its Mahajanapadas, or kingdoms as you call them. Each kingdom has its own rajah. The wealth and glory of even the feeblest among them is such that would make even the wealthiest of your rulers rage in envy. Trust me, for I was once a rani myself.\""
+    },
+    {
+      "Key": "c6c20307-a9d1-47f0-b728-bd21129b45a6",
+      "Value": "\"Of course, we would need many a week to discuss all of her wonders!\""
+    },
+    {
+      "Key": "2444efa6-c4b3-48d0-8fb6-6bf26fdc34e3",
+      "Value": "\"The walls of my palace steadily absorbed their attack, but in the end they turned to dust. I was preparing to die, but the red wind suddenly fled in terror, banished by a strange traveler. He was a vanara, half-man and half-monkey, and he wore the orange robe of a priest. I wished to thank him but he had little interest in my treasures. He offered me to play the wise-men's game of BARME, and if he won then I would have to give him my throne.\""
+    },
+    {
+      "Key": "b0aa617a-1bb9-48f4-acc2-4411d05c02ff",
+      "Value": "\"I agreed, for how could I say 'no' to my savior? He easily outwitted me, hiding four pieces up his sleeve, while I only managed to brush one off the table and stash another one in my pocket. I ordered my guards to seize the vanara and put him in chains, as I had no wish to give up my throne. But by dawn the monk had fled his prison. — He'd used his tongue to lick a hole in his manacles. I knew then that the monk was Ragdya, the monkey god, a sage, a petty thief, and the lover of a hundred brides. Trust me, for I have met many gods, and know of what I speak. I gave Ragdya my throne along with my apologies, and set out to wander.\""
+    },
+    {
+      "Key": "d6b81b2c-5ffc-486b-abb8-502dfc6630ec",
+      "Value": "\"A massive ant hive grew around him, but this did not concern Rudrakavala. A thousand years passed, and Diomazul, the god of war, came to visit him and offered Rudrakavala any reward, for he'd shown great merit. The rakshasa demanded all eight of the god's swords. Upon receiving them, he chased Diomazul into a dungeon and, content with himself, sat down to rest. Soon the other gods realized that war has left them, for it was much more difficult to resolve conflict and maintain order. And so they began to seek the missing god. To be precise, they found a young hero and tasked him with finding and rescuing Diomazul.\""
+    },
+    {
+      "Key": "d7795916-e38f-4988-84fe-e357c1262236",
+      "Value": "\"But he was terrified by the sight of the mighty three-headed rakshasa. While one head was reading Mizravrit Brahmodiya, the second was puffing on a hookah while the third was sipping wine. The hero didn't stand a chance in battle. But the rakshasa's bride fell in love with the hero. It is she that stands before you today. I put Rudrakavala to sleep with fragrant incense, while my prince took one of his swords and severed all three of the rakshasa's heads. I hid the heads in secret places were my groom could not find them.\""
+    },
+    {
+      "Key": "13c671c6-15be-4209-8359-6f54309ecdc5",
+      "Value": "The memory of my treachery remains in one of his heads. I hope that it will never find its way back to his shoulders. But I'd best stay as far away as possible, in case that ever happens. So I prayed to the gods, and trusting in them, I jumped over the ocean landing in Varisia. From there my feet carried me here.\""
+    },
+    {
+      "Key": "526f4505-4d3c-46c0-aab1-ca7e394c1a9b",
+      "Value": "\"But they did not know that the wise man had taught his servants his techniques. While he slept, his servants captured the assassins. The pasha of the shaitans, also known as the earth genies, sent his finest warrior, Turmir, the destroyer of palaces. By his command, Khiben-Sald's palace fell and turned to rubble. The cunning wizard foresaw this, however, and fled to the island of Jalmeray.\""
+    },
+    {
+      "Key": "8fc030aa-3f6a-4147-a03a-b6ed6bc9d1b8",
+      "Value": "\"One of the royal marids, the genies of water, came to free his brethren from captivity. Of all the genies, he was the wisest. For three days, Khiben-Sald competed with the genie in the art of poetry. At the end of the third night, Khiben-Sald was so exhausted that he was about to take a ceremonial dagger to open his own veins... The genie, however, was first to admit defeat, and entered a copper vessel which the wizard then sealed. It was thus that history came to know the maharajah as the great conqueror of the genies.\""
+    },
+    {
+      "Key": "775ce288-94b8-4cf5-b6b4-49cb0462f0db",
+      "Value": "\"Kothogaz walked across the ocean, and the water reached only up to his waist. He was covered by a mighty shell like a beetle, and the slime from his body covered the waters like fat, calming the waves around him, and his many mouths dripped with spittle. Kothogaz cried out, and the putridity of its breath made creatures faint, bleeding from their eyes, their nose and their ears – while the monster's saliva burned through everything it touched. Trust me, for I have seen stones that were touched by this poison. Vu Balak, however, called forth the priests and they cast their magic. The ocean boiled and Kothogaz began to boil in it. The whales came surfacing all around him as he screamed, and his chitin hardened, becoming more and more fragile – until finally it cracked and crumbled.\""
+    },
+    {
+      "Key": "afc7ee71-ed24-43a1-adc6-d98eab704550",
+      "Value": "\"Finally, Vu Balak saw the heart of the Dance of Disharmony. He jumped so high that his mighty body blocked the sun, and the stars shone in the day. He then threw his spear and shattered Kothgaz's heart into a hundred and one pieces. We have managed to gather some of the pieces, but not all. Perhaps if the Storyteller were to read the spear's memories, he would be able to tell were the other pieces went. Then I might collect them to honor my mighty ancestor. That would be a truly heroic deed. Perhaps the path of a hero is what fate truly has in store for me.\""
+    },
+    {
+      "Key": "4e1f7513-4757-48e4-bca3-1bf35b8c0b01",
+      "Value": "\"One day, Khorkhor defeated the poisonous dragon Sruvara, who turned rice fields into nauseating marshes. But Khorkhor did not notice that Sruvara had scraped his white skin with its talon. Infection entered the hero's body, and he grew weak. He lied down to rest and remained there for a thousand years. Nothing could awaken him, even all the strife brought on by the fight with Kothogaz, the Dance of Disharmony. Once he finally awoke from his slumber, Khorkhor discovered that his homeland had been ravaged by this terrible attack, and he'd slept through the battle! Disgraced, he moaned and set off for a faraway gorge, where he would deliver his body to the scorpions, that they might eat his flesh and hide him from his shame.\""
+    },
+    {
+      "Key": "83ddf2df-6824-43a3-8594-ce073c0999aa",
+      "Value": "\"For three months, the scorpions ate his white skin and ruby flesh, but still the warrior endured. Even when he was eaten, Khorkhor did not die, for he was truly great. It was then that Bundha the Singing Butcher came to him. The immortal rakshasa told him that great was Khorkhor's shame, but more shameful still would be to run from it like a coward, rather than atone for it. Khorkhor's spirits were rekindled. He arose and, through sheer force of will, forged himself a new body out of iron. He accomplished many great deeds thereafter, and in the end he regained his position of honor and nobility.\""
+    },
+    {
+      "Key": "02b7dba6-79b4-4b43-9c79-927d482cfd82",
+      "Value": "{n}Surprised, the Vudrani falls silent, shrugs and gives you a slightly displeased look.{/n} \"Impatience is the mother of all sins, o worthy one. Be careful on this path. Return when you have the time to listen. Until then, I shall wait for you.\""
+    },
+    {
+      "Key": "e9c26603-2b27-489e-879f-5a27ffd70c39",
+      "Value": "{n}The Vudrani purses her lips in disappointment and mumbles something under her breath, but soon she is smiling at you again.{/n} \"I shall await your return.\""
+    },
+    {
+      "Key": "2f329bf0-d69e-4055-9a46-326cdc292a9f",
+      "Value": "{n}The Vudrani freezes with her mouth open. Obviously, she was just getting to the best part. She snorts disapprovingly.{/n}"
+    },
+    {
+      "Key": "e545e607-065c-4b35-b146-96ace15cbc17",
+      "Value": "\"Turmir chased after him, forgetting that the waters of the ocean could not hold his heavy flesh. As he began to drown, Khiben-Sald sent ships to save him, but only after Turmir swore to serve him. As compensation for the palace he destroyed, the genie was commanded to build the Pure Temple of the Maharajah, which was a hundred times more beautiful than the one he destroyed. Trust me – for I have seen this temple with my very eyes!\""
+    },
+    {
+      "Key": "86f28e3b-583b-4033-9045-1a558942414c",
+      "Value": "\"You are wise, o most worthy one. But not patient.\""
+    },
+    {
+      "Key": "3dfaf872-d17a-4dae-9aed-b4eede2553c7",
+      "Value": "\"What would you like to hear?\""
+    },
+    {
+      "Key": "69612f38-dcf0-4af5-9e26-1d0c07da2fbf",
+      "Value": "\"A great evil returned with me to my kingdom. The macaques of Sikari, diseased and rabid, swarmed the land. They rolled like an enormous wave, engulfing and destroying everything in their path. They called this horror 'the crimson wind'. My warriors went forth boldly, but were overrun.\""
+    },
+    {
+      "Key": "308692f9-4e09-4815-93b7-a2c2a8cb83d0",
+      "Value": "\"O, how fleeting is your attention!\""
+    }
+  ]
+}

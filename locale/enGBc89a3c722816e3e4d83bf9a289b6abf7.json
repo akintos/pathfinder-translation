@@ -1,0 +1,41 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "a6464154-e05b-4700-bb8c-39b29fc385c8",
+      "Value": "\"A baron{mf|'s|ess'} duty is to {mf|his|her} people. I'll head south and look into the situation.\""
+    },
+    {
+      "Key": "35e80fff-cb64-4013-8dae-e93fe25d1689",
+      "Value": "\"You believe trudging through swamps and chasing rumors to be part of a baron{mf||ess}'s duties?\""
+    },
+    {
+      "Key": "669910b4-5210-4a81-9062-9584934b8a44",
+      "Value": "\"I may have time for this later.\""
+    },
+    {
+      "Key": "5727ac07-f041-40d1-b798-d0ef6c4d75ca",
+      "Value": "\"Thank you, Your Grace.\" {n}Kesten sighs with relief.{/n} \"When you decide to go, please remember that trolls can only be killed with fire or acid.\""
+    },
+    {
+      "Key": "aeb60a29-e70f-488c-af8b-500614299d89",
+      "Value": "\"Forgive me, Your Grace. However, if this problem isn't handled now, by next month there may be no one left to save.\" {n}Kesten shifts uneasily.{/n} \"So, if you do decide to go, please remember that trolls can only be killed with fire or acid.\""
+    },
+    {
+      "Key": "26fab9ce-31ae-4aaf-bb73-a9a8d41e49ab",
+      "Value": "\"Your Grace, I...\" {n}Kesten has a troubled look on his face.{/n} \"I fear there's another matter that requires your attention. There have been reports, many of them, from settlements across the {g|Narlmarches}Narlmarches{/g}. There are trolls in the forest, seemingly hordes of them.\""
+    },
+    {
+      "Key": "88755c4d-9ff9-4ff5-8dbe-0191b6dcda2b",
+      "Value": "\"The common folk will hardly heed any simple exhortation — someone will need to go to the {g|Narlmarches}Narlmarches{/g} to investigate the matter. I was considering the matter when it hit me: what if you were to take on this investigation yourself, Your Grace?\""
+    },
+    {
+      "Key": "c3790ce4-2547-429b-b88b-c30c85fdbee4",
+      "Value": "\"Rumors claim they're more than the typical savage beasts. They almost seem to show reason and tactics — they form groups, attack all at once, plunder the villages, and carry away the peasants. Even stranger, kobolds have been spotted among their ranks, when usually they would be attacked on sight.\" {n}Kesten falls silent for a moment.{/n} \"I'm not certain any of this is reliable — fear builds mountains of molehills. Some of the rumors even say these trolls carried torches and burned down houses, seemingly unafraid of open flames. It's entirely possible the rest of the reports could be exaggerated as well.\""
+    },
+    {
+      "Key": "e9885eac-b39c-4333-85a9-111b6c864c21",
+      "Value": "\"If you would be so kind, Your Grace.\" {n}Kesten rubs his neck.{/n} \"Just be sure to provision yourself properly before you go. Remember, trolls can only be killed with fire or acid.\""
+    }
+  ]
+}

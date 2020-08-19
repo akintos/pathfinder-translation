@@ -1,0 +1,245 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "2e45d1df-1a2a-4f31-9024-93f8cbf2d5f2",
+      "Value": "\"Why are you unhappy with Armag?\""
+    },
+    {
+      "Key": "29f19627-c273-464a-be5a-b0bc4c9b8682",
+      "Value": "\"What's the plan?\""
+    },
+    {
+      "Key": "388e9dd2-89b1-4821-beb6-cf1d958d4bcc",
+      "Value": "\"If you get rid of Armag, who will be your new chieftain?\""
+    },
+    {
+      "Key": "0cc4021e-f13b-4bb5-b7ec-5cd988ed486c",
+      "Value": "\"We're ready.\""
+    },
+    {
+      "Key": "e72a8faf-52b4-41b3-acaf-626435553fae",
+      "Value": "\"Wait here. I need to prepare.\""
+    },
+    {
+      "Key": "6886aa30-fa33-4405-a493-ccc2eed2edee",
+      "Value": "\"No, wait. We have to take care of something else first.\""
+    },
+    {
+      "Key": "e4150933-74f7-4f89-ab3d-5622ce7cf302",
+      "Value": "\"Maybe we should all sneak into the camp together. Are you sure you can deal with Armag on your own?\""
+    },
+    {
+      "Key": "05db9c4f-21ef-47c9-957a-833ddfd8a707",
+      "Value": "\"Is that all? I feel like you're keeping something from me, Amiri.\""
+    },
+    {
+      "Key": "82512d2e-0f1d-4681-881b-a23878620beb",
+      "Value": "\"If my commander orders it, I'll jump. But I won't force my people to follow. This is about personal choices — theirs and mine.\""
+    },
+    {
+      "Key": "bfe0094e-1cea-4a57-9bc9-4a92d16b5a5a",
+      "Value": "\"A leader like that should be thrown off the cliff instead, before he kills all his people!\""
+    },
+    {
+      "Key": "c80abae1-8b7e-4e36-93b6-04e2b0fdd7a4",
+      "Value": "\"A commander's orders are not debatable. If someone I've sworn to obey gives such an order, they must have a good reason. These are my principles, and I expect the same principles from my subjects.\""
+    },
+    {
+      "Key": "0f8f578e-2fe9-460d-8235-e8a6c4343fdc",
+      "Value": "\"What? He can go straight to the Abyss, with orders like that!\""
+    },
+    {
+      "Key": "7ea4890e-1786-4947-bbf4-a5f60aa22463",
+      "Value": "\"I'd send my men in first while I tried to figure out the situation — maybe it wouldn't be necessary for me to jump as well.\""
+    },
+    {
+      "Key": "249211a5-9547-49a3-b635-4e8f8a9c44db",
+      "Value": "\"It's hard to say. Maybe he's right, maybe he's not. All the circumstances would need to be taken into consideration.\""
+    },
+    {
+      "Key": "42b758ef-ed10-4943-813b-e2d4c75cddc1",
+      "Value": "\"I thought your goal was to seize and plunder Restov.\""
+    },
+    {
+      "Key": "2a100c1e-9acc-402e-9386-a3410d2069ba",
+      "Value": "\"Numeria's pretty far away from here. How did you find yourselves near Rostland borders?\""
+    },
+    {
+      "Key": "dcc9a89b-09bb-4032-a2be-b7f218ab3561",
+      "Value": "\"You make me sick. Are you barbarians, or scared seamstresses? You want to sneak around because you don't have the guts for an open riot! Armag's right to treat you like dirt — you deserve it!\""
+    },
+    {
+      "Key": "1fba6ce7-3494-480d-a29e-7ab708d793a8",
+      "Value": "\"You're here, great! It's {d|c41 Follow Amiri}about time{/d}. The battle hasn't started yet — we may still have enough time to pull this off.\""
+    },
+    {
+      "Key": "346fbe75-911a-49d8-a1d4-171f8892e821",
+      "Value": "\"I've been growing old {d|c41 Follow Tristian}waiting{/d} for you! The battle's already started — there are streams of blood everywhere! I don't know if we'll have enough time to save anyone at this point!\""
+    },
+    {
+      "Key": "a8f6a912-e723-4d7f-97eb-698281d9c74a",
+      "Value": "{n}The barbarian raises his empty hands into the air.{/n} \"Peace, Baron{mf||ess}, peace! We've been waiting to speak with you. I'm Gwart, of the {g|Tiger Lords}Tiger Lords{/g} — a cleric of {g|Gorum}Gorum{/g}, and wise {d|Ashman}Dugath's{/d} apprentice. We've come with an offer for you.\""
+    },
+    {
+      "Key": "88590b33-bda8-4495-b56c-e91058193d3d",
+      "Value": "\"So, everyone's ready?\""
+    },
+    {
+      "Key": "ffb1bc47-9496-40a1-9aca-91ffa4933871",
+      "Value": "\"Are you ready?\""
+    },
+    {
+      "Key": "9d921391-0128-46cf-b33e-be5fb3d073ba",
+      "Value": "\"Here, meet Gwart of the {g|Tiger Lords}Tiger Lords{/g}. He's {d|Ashman}Dugath's{/d} apprentice, and a cleric, too. A really smart one! They're on our side, and the two of us have an agreement... Just... just listen to him. He'll explain things.\""
+    },
+    {
+      "Key": "b0ac7fca-283c-4d73-95f9-900490fc45f6",
+      "Value": "\"I don't wish to waste your time, so I'll be brief — we're sick and tired of Armag and his crazy witches. You want to help the Brevans, and we want to pull our kin out of this senseless slaughter. Our interests coincide.\""
+    },
+    {
+      "Key": "0731e877-568e-4bab-8cd0-b08324f0cf39",
+      "Value": "\"A chieftain's job is to fight for the wealth and glory of his tribe, not to cram vague bullcrap about some great future down the throats of his tribesmen! The real Armag once made all of {g|Numeria}Numeria{/g} tremble before the {g|Tiger Lords}Tiger Lords{/g}. What has this Armag done? Sent our people to their deaths for no reason — and he'll continue to do so in the future. Why should we even fight the Brevans, for goodness' sake? Is anyone going to pay us for it? Will the Sisters? Dream on! We're tired of being used as pawns in a game we don't even understand!\""
+    },
+    {
+      "Key": "3c7826ff-4697-40de-ab27-a5478c79b0ce",
+      "Value": "\"In short, with a little help I can sneak into the camp and set Dugath free. Then we'll find Armag and kill him and the Sisters. In my opinion, it's a pretty solid plan!\""
+    },
+    {
+      "Key": "4a8b7580-fa82-4acc-a245-badda27143ad",
+      "Value": "\"Long story short, with a little help I can sneak into the camp. I'll find Armag and the Sisters and rip their heads off. It's a great plan!\""
+    },
+    {
+      "Key": "63afcd67-1ed0-4731-92b0-2447b552c400",
+      "Value": "\"We'll go to the camp and start a riot! Once we explain that they're being sent into the grinder without even being paid for it, the camp will be behind us, and we can try to kill Armag and the Sisters!\""
+    },
+    {
+      "Key": "32bc1cae-8b6a-4979-9b40-bfb86f28147d",
+      "Value": "\"{d|Ashman}Dugath{/d}, I suppose. But that's not important right now.\""
+    },
+    {
+      "Key": "21b31500-4d1a-40c7-a916-2722ca34bb87",
+      "Value": "\"Have you prepared yourself? Once we start, there's no turning back. It could be a while before you have a chance to take care of any other matters.\""
+    },
+    {
+      "Key": "190b1564-50ee-4951-b9b7-65aacaae2c3a",
+      "Value": "\"We'll find someone. That's not important right now.\""
+    },
+    {
+      "Key": "44fbcc7f-47ae-4d00-a5f6-795a785999a8",
+      "Value": "\"Our main objective is to take out Armag. Even a mindless baby would be a better chieftain than this madman who obeys those harpies' every word and destroys his own tribe!\""
+    },
+    {
+      "Key": "a017add8-2f47-45ef-a213-bc1cc28f1ae0",
+      "Value": "\"What? I'll...\""
+    },
+    {
+      "Key": "b2cd06a5-23f7-4227-aaae-fb69da63f006",
+      "Value": "\"Sneaking into the camp together isn't an option. Amiri is from the Six Bears, so she can easily pass as one of our people. That trick won't work with you, though. Besides, you have an army to lead. Without that, the whole plan will be pointless.\""
+    },
+    {
+      "Key": "ae4ca28e-7a91-4c0c-9f64-59aad404c4c8",
+      "Value": "\"In the meantime, you take your reinforcements to the Brevans. The sight of your army and news of Armag's deposition should be enough to convince our brothers and sisters to retreat.\""
+    },
+    {
+      "Key": "29f18a8a-49d1-46bc-9b8e-6faa3d80dd9e",
+      "Value": "\"All right. But don't waste any time — we don't have much to spare.\""
+    },
+    {
+      "Key": "861d7902-f697-40a6-a41e-6280fd0d7657",
+      "Value": "\"Is it that obvious? Crap, I'm such a bad liar... Fine, here's the thing — I have one more thing to do there. My tribe, the Six Bears, is at the {g|Tiger Lords}Tiger Lords'{/g} campsite. Normally, I'd just say screw them all, but... Well, they have Nilak with them. And I won't let anyone hurt her. Got it?\""
+    },
+    {
+      "Key": "fd166cc2-7ac2-4690-9553-ead09e74cce0",
+      "Value": "\"Let's use you as an example — perhaps you're not the most important person in the {g|River Kingdoms}River Kingdoms{/g}, but you're certainly not an enemy to yourself or your people, right? Now put yourself in our shoes. Imagine your chieftain calls on you and orders you to take all your people and jump off a cliff, all because some old crone foretold that it was your destiny. What would you do?\""
+    },
+    {
+      "Key": "bd1cade5-3627-4f0e-bcf4-1c4399b695c6",
+      "Value": "\"We've had enough of Armag, and enough of the Sisters.\""
+    },
+    {
+      "Key": "fbb99f03-513c-4783-807f-20ff22f71817",
+      "Value": "\"Wow, I guess you're really a good person. Too bad there aren't more people like you around — they often don't live long enough. Our ways are a bit different.\""
+    },
+    {
+      "Key": "5c43a095-ef03-400e-bcac-414b4d98bff9",
+      "Value": "\"Exactly! That's just what we thought!\""
+    },
+    {
+      "Key": "5a9fda7a-5019-42b7-bcb9-685af2977cc0",
+      "Value": "\"Well, maybe that's how things go in your parts, but our ways are a bit different.\""
+    },
+    {
+      "Key": "a7dba866-a21e-40cb-a7ca-0f103ea80587",
+      "Value": "\"You have the mind of a fox, don't you? Prefer to have other pull chestnuts from the fire for you? Maybe that's how barons do things, but our ways are a bit different. We're all family to each other — we stand for each other. And we expect the same from our chieftain!\""
+    },
+    {
+      "Key": "1e83a8f7-9eac-4aa7-ba06-0d4184d3396f",
+      "Value": "\"And we did, and we decided we don't need a chieftain like that!\""
+    },
+    {
+      "Key": "c5ab7cb7-350a-474a-a4e1-640c4fa3e63f",
+      "Value": "\"If you call yourself a chieftain, you should care for your tribe. And if you can't — you can go straight to the {g|Abyss}Abyss{/g}!\""
+    },
+    {
+      "Key": "b6eabcfe-bf04-4e57-adf7-14c32559f457",
+      "Value": "\"That's what Armag said, but he underestimated the size of {g|Brevoy}Brevoy's{/g} army — he said their forces would be one third the size, and they haven't even received your reinforcements yet! Our today's enemies are just a fraction of Brevoy's forces. It's crystal clear to us that, with those forces and their walls, {g|Restov}Restov{/g} is too much for us. All we could achieve would be to weaken the {g|Swordlords}Swordlords'{/g} army. I'm sure the {g|House Surtova}Surtovas{/g} would be happy with that, but what's in it for us? The Surtovas won't be paying, because we dragged our butts here of our own accord!\""
+    },
+    {
+      "Key": "a70ffd7b-5076-458c-8444-085f47629f73",
+      "Value": "\"We traveled through {g|Pitax}Pitax{/g}. Why King Irovetti let us through is a mystery to us, though. There were rumors among the fighters that he was the one who hired us to attack {g|Restov}Restov{/g}, but now we know for sure that no one's even paying us for this expedition! I hate getting caught in a charade like that, but more than that, I hate any chieftain who would put on such a charade for their people!\""
+    },
+    {
+      "Key": "ccb93e36-0b8f-40d7-ab06-51bacb36248b",
+      "Value": "\"But we can't just...\""
+    },
+    {
+      "Key": "ebedc984-aee6-4f9a-8d78-55591500b487",
+      "Value": "\"Why not? We can do it, easy! Come on, Gwart, don't be such a wuss! Let's start a riot against Armag!\""
+    },
+    {
+      "Key": "29124eb8-8db9-479e-9a74-7e3588c76eeb",
+      "Value": "\"By {g|Gorum}Gorum{/g}, you're right! What's holding us back? Onward!\""
+    },
+    {
+      "Key": "5bfb5180-30b4-4b43-8a60-605a88889c34",
+      "Value": "{n}Octavia frowns.{/n} \"Are you serious? I hope that was just a stupid joke...\""
+    },
+    {
+      "Key": "73c4d72e-c030-4281-9bd2-a5e78cffa631",
+      "Value": "\"We leave Amiri alone for just a little while, and she goes and starts a rebellion! Sounds about right!\""
+    },
+    {
+      "Key": "b8761df3-f971-4d35-99c8-e2f99f07e3c8",
+      "Value": "\"I hear the voice of greed, not honor and valor. The only thing between these people and violence is lack of payment. If someone paid for it, they'd gladly take up arms against a peaceful village.\""
+    },
+    {
+      "Key": "6d79f4c3-7c8b-48c2-9718-f65d693a24c2",
+      "Value": "\"Hey, easy! We're fighters — we fight with other fighters, not plow-pushing weaklings!\""
+    },
+    {
+      "Key": "fabd8a91-1cbb-42d9-a5f8-6e139aa19a02",
+      "Value": "\"I'm not convinced.\""
+    },
+    {
+      "Key": "be7566f9-6585-47c3-80af-f7440cccfdb9",
+      "Value": "{n}Jaethal speaks softly so the barbarians won't hear her.{/n} \"Bad. This Dugath thinks too highly of himself. He's proud and uncontrollable. Better to give this horde to another chief — a more... convenient one. Of course, nothing prevents us from agreeing to their plan now and changing our minds later.\""
+    },
+    {
+      "Key": "86a63537-7ffe-4a2d-a805-25d4e888eeeb",
+      "Value": "\"They are ready to start chaos in their ranks. They worry not in the least for the consequences, not even the identity of their new chief. This is a deadly mindlessness, bordering on insanity.\""
+    },
+    {
+      "Key": "913463a5-fb77-4f7c-b54d-dd2c46a8382f",
+      "Value": "\"The voice of reason? I certainly didn't expect that here. I suppose even {g|Numeria}Numerian{/g} barbarians can be capable of looking for 'boring peace' over a good round of carnage!\""
+    },
+    {
+      "Key": "9c0f4e1b-3138-4662-a772-5914b2e72117",
+      "Value": "\"I'm looking at this, and I don't know whether to laugh or cry. With such lack of discipline and jumbled ideas, the barbarian horde will splinter into small groups and slaughter each other sooner or later. Poor, poor Armag – it's not easy to rule such subjects as this!\""
+    },
+    {
+      "Key": "eb869759-0615-40fd-a0b0-2feca2c60fad",
+      "Value": "\"A stubborn priest of Gorum commanding a wild horde? What's in it for us? After five years he'll decide it's high time to deliver his god another bloody sacrifice, and he'll march this army out again to butcher his neighbors.\""
+    }
+  ]
+}

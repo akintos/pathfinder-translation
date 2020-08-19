@@ -1,0 +1,37 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "c03ef5b9-55f2-463b-8c93-8b6ee2b422b6",
+      "Value": "[Use the rope]"
+    },
+    {
+      "Key": "d0b73580-4156-4fad-860d-f764f05905f4",
+      "Value": "[Start climbing] \"Let's go! To our goal!\""
+    },
+    {
+      "Key": "21d63287-88bc-49b2-a70e-eb5f5546723c",
+      "Value": "[Leave] \"Perhaps later.\""
+    },
+    {
+      "Key": "991eecee-8393-4698-aed5-7190025f6574",
+      "Value": "{n}Kalikke throws back her head and looks upward.{/n} \"Up there! There's a tower there, on the cliff. But it will be difficult to climb such a steep slope.\" {n}Kalikke gives you a pensive and sad smile.{/n} \"My sister and I used to climb cliffs together. She was so angry when I was faster! But she always helped me when she got ahead...\""
+    },
+    {
+      "Key": "3d0aa143-1741-4aab-bfac-5f6d966bb4a0",
+      "Value": "{n}Kalikke climbs the cliff with the dexterity of a lizard, but you go stride for stride with her, easily keeping up. Soon the top of the cliff lays before you...{/n}"
+    },
+    {
+      "Key": "2190471c-28e1-4dbc-89b1-898129c36020",
+      "Value": "{n}You begin climbing. At one point you discover that a ledge you meant to step on is not secure. You try to backtrack, but lose your balance.{/n}"
+    },
+    {
+      "Key": "437e9853-7932-4883-9b85-55c1712e1f91",
+      "Value": "{n}Luckily, Kalikke, who is climbing with the dexterity of a lizard, catches your hand just in time and helps you hold on.{/n} \"Look, we're close to the top! Almost there...\""
+    },
+    {
+      "Key": "ad6f806c-3c6e-4ea7-8b8f-d6e9c52c28f3",
+      "Value": "\"Are you ready for the climb?\""
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "e3c46a99-d684-4ffe-949a-11164b070888",
+      "Value": "[Look closer at the gang]"
+    },
+    {
+      "Key": "2bfa3cbc-9f26-418e-8d65-b148b45b89c2",
+      "Value": "\"If you want my opinion, commander, I think we should hear them out.\""
+    },
+    {
+      "Key": "b7fcd48a-1291-4770-a796-933707b2ddb0",
+      "Value": "[Draw your weapon] \"We are not bandit scumbags like you, and make no deals with your kind!\""
+    },
+    {
+      "Key": "4e020e50-1645-48a6-9db3-6cb69232082e",
+      "Value": "\"Just to get this straight, some person or creature fried your gang until they sizzled, and now you want our help to get the better of them?\""
+    },
+    {
+      "Key": "af62eece-0375-4432-9ca7-f001d6686ef2",
+      "Value": "[Look at your companions]"
+    },
+    {
+      "Key": "ed5265f9-c2c2-4860-90e0-574e05adaf23",
+      "Value": "\"Why should we share the loot with this rabble? Let's kill them, and then the dragon.\""
+    },
+    {
+      "Key": "93855df2-fb46-4791-a206-b8e00d74b6fa",
+      "Value": "\"Under other circumstances I wouldn't listen to these thugs, but a dragon is far too dangerous. We should unite with them even if only to protect our lands.\""
+    },
+    {
+      "Key": "80ed4d53-05ec-4dc3-9001-09d4a9038ffe",
+      "Value": "\"We can't abandon our principles, no matter what is at stake. No deals with bandits.\""
+    },
+    {
+      "Key": "15d61092-32f3-42e9-a06d-22eb8a7029c7",
+      "Value": "\"One should never reject a favorable offer. No matter who makes it.\""
+    },
+    {
+      "Key": "9ca07d22-bd0b-469f-8b88-c64cb4348c21",
+      "Value": "[Say nothing]"
+    },
+    {
+      "Key": "74d24ae1-2733-4367-9f42-bbd02cfc4a3f",
+      "Value": "\"I like it when bandits come out on their own, and literally ask to be regaled with a sword.\""
+    },
+    {
+      "Key": "ff9ec7b0-0d55-445e-9e2e-e11da40a4c14",
+      "Value": "\"We don't need to fight. After all, Yan has come to us to talk openly. Let him take his people from the barony and go his own way.\""
+    },
+    {
+      "Key": "112c7f42-282b-4102-8c23-8e14024281b1",
+      "Value": "{n}A large group of thugs armed to their teeth approaches you openly. The one in front walks with a swagger. He's a tall man, and the right half of his face is covered in an intricate pattern of scars and tattoos.{/n} \"Captain Varn – or rather Baron Varn! I had a feeling that you'd appear here sooner or later. I've been looking forward to this moment. You can call me Pale Yan. I am the leader of this honorable society of freedom-loving travelers, ha ha.\""
+    },
+    {
+      "Key": "9d5e2eec-75be-4ebe-be5d-3e710d4240f4",
+      "Value": "\"It's an amazing place, my barony. Even the bandits here are surprisingly polite and well-spoken.\" {n}Maegar seems completely nonchalant.{/n}"
+    },
+    {
+      "Key": "8c9dcff7-5bce-4838-bd1b-8a5ad88c0c1b",
+      "Value": "\"A barony usually suits its ruler.\" {n}The bandit smiles broadly, then scoffs.{/n} \"I wouldn't be talking to any of those smug nobles from Brevoy or Pitax. But the glory of Varnling Host precedes you, so I'm making an exception. I have a business proposal for you – information and my lads' swords, in exchange for a share in the loot... and your lady law will turn her blind eyes elsewhere for now.\""
+    },
+    {
+      "Key": "4da5ef46-5a94-4e54-85ca-773b32b8b157",
+      "Value": "{n}The gang appears excellently armed and equipped. However, the bandits have obviously just come from a fight. Most are scratched and wounded, their clothes torn – and what's more interesting, several have burns left by fire or electricity.{/n}"
+    },
+    {
+      "Key": "bbacedec-2873-42f6-9c57-6e7eabdec693",
+      "Value": "{n}The gang is well armed and equipped, but you can tell little more by just looking at them.{/n}"
+    },
+    {
+      "Key": "6142bfe4-c0f4-40b6-af24-56196a71ee17",
+      "Value": "\"In the name of Asmodeus, will we ever be done sorting out the tavern riffraff, who are ready to cross swords over every imagined insult?!\""
+    },
+    {
+      "Key": "646df65e-4c3f-48e1-b62b-1215baec39ff",
+      "Value": "\"Under normal circumstances, I would reproach you for insubordination, General. But right now I don't feel the need. To arms!\""
+    },
+    {
+      "Key": "a809647b-2172-4796-a725-c27808bd5988",
+      "Value": "\"What a pity. Fine, let's see if you're as good in a fight as they say!\""
+    },
+    {
+      "Key": "3575a51c-bfd2-48af-b847-7516f9adf246",
+      "Value": "{n}Maegar laughs softly.{/n} \"General, don't swallow him whole right away. Leave a few pieces for the rest of us!\""
+    },
+    {
+      "Key": "6694f1fd-5786-49ff-ac86-9aa236d37dff",
+      "Value": "{n}Maegar makes a wry face but nods.{/n} \"So what did you want to tell me?\""
+    },
+    {
+      "Key": "df9e0aaa-4665-46cc-9a76-6f812793b8aa",
+      "Value": "\"You have good eyes, General. I wonder if they see the potential benefits of such an arrangement, or can't you see past my singed pride?\""
+    },
+    {
+      "Key": "8104ca46-d89f-426d-b8ed-15ace715d909",
+      "Value": "\"I'll tell you the whole story. A while ago, a small group of locals were lucky enough to witness the spectacle of a lifetime. – Two dragons fighting above the wastelands. One of them appeared to be the legendary Ilthuliak. That old viper hasn't left her nest for a long time! Of course she won the battle, and her opponent narrowly escaped. Wounded, it struggled eastward, and somehow got over the Tors of Levenies – and finally ended up here! He's been sitting in the middle of the cyclopes' ruins for a few days, and doesn't seem ready to leave.\""
+    },
+    {
+      "Key": "b8a50715-1f93-4914-9e3b-2fa82156d0a5",
+      "Value": "\"This is an urgent matter, Sir Varn. You have a bloody dragon in your barony. Wounded, but still most deadly. He killed a few centaurs – we saw it with our own eyes. It won't be long before your villagers cross his path, and that will be a bloodbath. My lads wouldn't stand a chance against the monster, although we're ready to fight if we must. You and your current party couldn't beat him either. But if we joined forces, we might take down the beast – and share between us the treasures and artifacts it's taken from the ruins. I promise you, afterwards we will leave your lands and do our work somewhere far, far away.\""
+    },
+    {
+      "Key": "bce6453e-dc01-4f73-a52b-ad8b09442b8f",
+      "Value": "{n}As the bandit sets out his ideas, Maegar grows darker and darker. There's little doubt – he's preparing to order an attack, and put the gang down here and now.{/n}"
+    },
+    {
+      "Key": "bcd45365-fcfa-4316-9791-e4f7f171aa6a",
+      "Value": "{n}Cephal watches the leader's face closely, and draws himself together – undoubtedly preparing for a bitter dispute, but it would be unseemly to argue in front of the thugs. The sharp words will have to wait until the action is done.{/n}"
+    },
+    {
+      "Key": "e0c7d001-6222-401d-bc3f-9053d7616953",
+      "Value": "{n}Cephal starts to rub his hands together, apparently preparing for a fight.{/n}"
+    },
+    {
+      "Key": "1f1086c2-434a-4c26-8814-1d9d4d5d431d",
+      "Value": "\"Listen to your General, Baron, if you don't want to listen to me.\" {n}The wizard speaks softly.{/n}"
+    },
+    {
+      "Key": "ad01b0cf-e272-4531-a11f-bdf25d8b011c",
+      "Value": "\"Captain Varn has spent most of his life fighting bandits and murderers. I wouldn't want Baron Varn to commence his rule with an ill-fated partnership with them. Forgive me, Sir Pale Yan. In appreciation for your politeness, I suppose I shall grant your widow a pension, if you have one!\""
+    },
+    {
+      "Key": "c36837ca-f006-47f0-bdd3-a18db0f5787d",
+      "Value": "{n}Maegar looks at Cephal, then at you, then back at Cephal again.{/n} \"A unified front, huh! I don't like this, but I've grown used to heeding your advice, and I don't doubt you now.\" {n}He turns to the bandit.{/n} \"You have my word, Sir Pale Yan. We will kill the dragon together, and you can leave with half the loot.\""
+    },
+    {
+      "Key": "93dff829-31f0-46a7-aa7d-33483dc3fe15",
+      "Value": "{n}The bandit salutes.{/n} \"The beast lies to the southwest. We will be waiting for you nearby. Come join the fun!\""
+    },
+    {
+      "Key": "fd63e5eb-f36c-4f49-bbf5-2bc33d96589f",
+      "Value": "{n}A tense silence hangs in the air. Maegar doesn't speak, either pondering his thoughts, or awaiting a reaction from you and Cephal.{/n}"
+    },
+    {
+      "Key": "74798770-67f5-43a2-80fc-d9ceb3da7539",
+      "Value": "{n}Maegar fakes a friendly smirk.{/n} \"Sir Pale Yan, I'm sure this rehearsed speech is very impressive, but I'm afraid it comes a little late. The dragon is... how do I put it? No longer a problem. Your gang in my lands, on the other hand...\" {n}Maegar stops expressively, as if making room for anyone who wishes to reply.{/n}"
+    },
+    {
+      "Key": "f71643d1-49f2-4a6f-af22-199bd0b76272",
+      "Value": "{n}Maegar frowns.{/n} \"So what, we just let them rob people, even on somebody else's lands?\""
+    },
+    {
+      "Key": "65d0ebd2-b258-45c5-a940-9601b64321fb",
+      "Value": "\"What do you care what happens beyond your borders? Take care of your subjects, don't take extra risks just to play at being magnanimous.\""
+    },
+    {
+      "Key": "ad436ef1-0796-4311-8878-2d91e6cdfaa1",
+      "Value": "\"I'm surprised. You and the General present a united front! Fine, I will heed your advice. Do you hear, Sir Pale Yan? Gather your rabble and get out of my lands. If I see you again within the lands my barony, there will be no time for talk!\""
+    },
+    {
+      "Key": "5c2c6bf6-74a2-4510-8d68-26be1d845ce2",
+      "Value": "{n}The bandit salutes grimly.{/n} \"Have a nice day yourself, baron!\""
+    }
+  ]
+}

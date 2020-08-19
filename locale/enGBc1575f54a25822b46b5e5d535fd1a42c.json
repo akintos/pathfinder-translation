@@ -1,0 +1,129 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "86da9a1d-c142-4657-b12b-caeff2bdb1f0",
+      "Value": "{g|Economy3_1}[Choice effects]{/g} [Pay 2 BP each week] \"I have another proposal. We will lower the taxes slightly, allowing the economy to grow in the future. First of all we need to think about the common people.\""
+    },
+    {
+      "Key": "4889f408-bb07-4453-82ed-53e661813977",
+      "Value": "{g|Economy3_2}[Choice effects]{/g} \"We will raise the taxes by one third. I think this will be a fair solution.\""
+    },
+    {
+      "Key": "397d5680-cb4b-4ccf-b32b-1a44cdc2d0ee",
+      "Value": "{g|Economy3_3}[Choice effects]{/g} [Gain 2 BP each week] \"Let us double the taxes. The barony needs all the money it can get.\""
+    },
+    {
+      "Key": "ed518616-a9f7-41bf-b55e-52e0ba6d0090",
+      "Value": "\"I trust you. Do as you deem right.\""
+    },
+    {
+      "Key": "e2287085-f7a8-43f4-b713-be9e46fca2ac",
+      "Value": "{g|Economy3_4}[Choice effects]{/g} [Pay 3 BP each week] \"I like this idea. Let us announce a mandatory work initiative, and lower the taxes.\""
+    },
+    {
+      "Key": "3e82573a-2055-4e7b-a2db-b07eb905e5f7",
+      "Value": "\"Greetings, {mf|baron|baroness|King|Queen}! I hope you are in a good mood. We need to discuss a rather unpleasant matter...\""
+    },
+    {
+      "Key": "b6811785-f5fb-4377-b43b-1fcaef5934f8",
+      "Value": "\"Your {mf|barony's|barony's|kingdom's|kingdom's} expenses have increased several times recently. Construction, clearing lands, urban beautification – all of this requires resources. And we don't have the revenue to match. The only thing we can do is raise taxes. Of course, your subjects won't like it, no matter how much money you demand.\""
+    },
+    {
+      "Key": "51e1bf47-ed8f-4551-97a9-967effacd5ba",
+      "Value": "{n}Maegar strokes his beard thoughtfully.{/n} \"Although... there may be another way out. We might avoid any unpleasantness, if instead of money you introduce... let's call it a mandatory work initiative. The people will be required to work for the betterment of their community. They won't be as irate if they see their work is directly for their own benefit.\""
+    },
+    {
+      "Key": "9b09dd4c-ca82-49de-8066-fa6c4559fc7b",
+      "Value": "\"Greetings, {mf|baron|baroness|King|Queen}! Let's not beat around the bush: you and I simply must discuss taxes.\""
+    },
+    {
+      "Key": "6505c456-f5e7-4f05-8eb5-2930ca744199",
+      "Value": "\"I don't know how often you go to the treasury, but I go quite often indeed, as my service requires. Well, there is less and less money in your coffers, while the demands of the {mf|barony|barony|kingdom|kingdom} keep growing. We simply must raise taxes, whether your subjects like it or not.\""
+    },
+    {
+      "Key": "3669ff40-3ea5-4a4b-b63d-21a199b3ef4c",
+      "Value": "\"If I were you, I would raise the tax modestly. Of course, the treasury will not be replenished quickly, but the people will curse you significantly less.\" {n}Jubilost grins.{/n} \"Which means you may remain on the throne significantly longer.\""
+    },
+    {
+      "Key": "6325daa1-a23a-4a67-92dc-5d9303e6eb1d",
+      "Value": "\"{mf|Your Grace|Your Grace|Your Highness|Your Highness}, it is good to see you so well! I come to you with a delicate and urgent matter. Your {mf|barony|barony|kingdom|kingdom} is in dire need of money, and I have come up with the perfect way to raise it: introduce an additional tax.\""
+    },
+    {
+      "Key": "55a29cc2-7737-4264-9aa4-824a0068e604",
+      "Value": "\"Mark well my words: unless you raise taxes, the {mf|barony|barony|kingdom|kingdom} simply will not survive. No matter what you decide, you will have to increase the taxes. We can hardly expect the peasantry to understand this necessity, but their understanding is not required. As for me and your other attendants involved in the country's finances – we will fully support you in your decision.\""
+    },
+    {
+      "Key": "3eb35f5f-0553-4e05-8f06-57c9f672fa11",
+      "Value": "\"If you are interested in my advice, I am in favor of high taxes. Your {mf|barony|barony|kingdom|kingdom} will thrive, and people will keep busy – working hard to gather the required sums by the required dates. But of course, the decision is yours.\""
+    },
+    {
+      "Key": "ac620373-0793-4c98-accd-b9aba4248181",
+      "Value": "\"At least you are not taking the shirts off their backs. Very well, I shall execute your order, {mf|baron|baroness|King|Queen}.\""
+    },
+    {
+      "Key": "974d1361-e46d-4ad7-bae9-19635b0a3c0c",
+      "Value": "{n}Jubilost adjusts his glasses.{/n} \"It does my heart good to see how reasonable and patient you can be. Believe me, in such a situation this is the best possible decision.\""
+    },
+    {
+      "Key": "679b858e-7391-4abf-ae7e-5f4e4578fad8",
+      "Value": "{n}Jubilost cringes, removes his glasses and rubs his eyes.{/n} \"Mark my words, {mf|baron|baroness|King|Queen}, your love for easy money will not serve you well in the end. Very well, where was I... ah, right, I must go execute your orders. If you will excuse me...\""
+    },
+    {
+      "Key": "0ead4527-c0c9-4e61-98de-61f5a53c1c0a",
+      "Value": "\"Right, I'm not here for decoration. I will raise taxes modestly, but not more than the people can bear. – And you will thank me later for my far-sightedness.\""
+    },
+    {
+      "Key": "448cc102-8698-4d77-a9b5-92cf04ae2296",
+      "Value": "{n}Maegar nods solemnly.{/n} \"A fair decision, {mf|Your Grace|Your Grace|Your Highness|Your Highness}! I shall make all the necessary arrangements.\""
+    },
+    {
+      "Key": "7c81081f-9fb5-49df-87c1-738df78ce482",
+      "Value": "{n}Maegar shakes his head.{/n} \"I admit, this is not the decision I expected. Do you not fear riots, {mf|Your Grace|Your Grace|Your Highness|Your Highness}? I strongly suggest that in the future you give greater concern to the needs of your subjects.\""
+    },
+    {
+      "Key": "783df9e3-6eb1-49f6-b5f4-d2187e400a6b",
+      "Value": "\"Thank you, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. I will immediately announce the establishment of your work initiative.\""
+    },
+    {
+      "Key": "cbef6a5c-37eb-4bbe-a6e7-6f0e3663ed4a",
+      "Value": "{n}Bartholomew's face darkens.{/n} \"And who will remain most concerned with the treasury, {mf|Your Grace|Your Grace|Your Highness|Your Highness}? Apparently, I myself am the only one who concerns himself with such trifles, and you seem most dismissive of my apprehensions.\" {n}The Treasurer bows solemnly, abruptly ending the conversation.{/n}"
+    },
+    {
+      "Key": "91d7df71-9f2b-44f7-bdde-37010bff88b5",
+      "Value": "\"Well, it's better than nothing. I shall instruct our tax collectors.\""
+    },
+    {
+      "Key": "eef0aebc-1634-46c9-9bd1-4886aedf477f",
+      "Value": "{n}Your words make Bartholomew smile.{/n} \"You have made the right decision, as usual. Rest assured: soon, our coffers will once more overflow with gold!\""
+    },
+    {
+      "Key": "a3594895-032d-4722-9266-120fed262c55",
+      "Value": "\"{mf|Your Grace|Your Grace|Your Highness|Your Highness}, I am glad to be worthy of your trust. I shall double the taxes and ensure the treasury wants for nothing.\""
+    },
+    {
+      "Key": "f24dbb8f-20cd-4041-b679-befd9adddac7",
+      "Value": "{n}Maegar nods gratefully.{/n} \"I am pleased I can be helpful to you, and take care of your subjects at the same time. As I have your permission, I will proceed to make the necessary arrangements.\""
+    },
+    {
+      "Key": "e41c0adc-d175-4ba2-8e43-6b7479882176",
+      "Value": "{n}A sweet smile plays on the tiefling's lips.{/n} \"I came to discuss something that rulers love more than the sun in the sky – and subjects hate more than plague. That thing that fills a state with strength, that golden honey that diligent bees carry to their master's treasury... Yes, I'm here to discuss taxes.\""
+    },
+    {
+      "Key": "2773bb9c-61ec-4ebb-9dd1-dddf56730f25",
+      "Value": "\"Nobody has any more doubts that your power is here to stay. No one has any illusions that your throne will be knocked over by the first gust of the wind, or that these lands will ever be open to gangs again. – And that means your subjects are ready to wear the heavy yoke of taxes.\""
+    },
+    {
+      "Key": "e4bb1664-d23e-4637-a632-91a1a5eb838a",
+      "Value": "\"Of course, some will grumble, but that's to be expected. We'll first spend the taxes of the obedient on pacifying the ones who rebel. You've done a fine job seizing power – now it's time to enjoy its fruits! I suggest we double the taxes.\""
+    },
+    {
+      "Key": "31be4c7b-7aa1-49dd-9aae-06a01fe99a29",
+      "Value": "{n}The joy on Kanerah's face dissolves into disappointment.{/n} \"I keep thinking about the ordinary people day and night. About what we can afford to take from them, what we should leave them, how to reward the obedient and punish the rebels... While you seem blind to the very nature of power! So be it, I'll abate the taxes, but be warned: excessive kindness ruins rulers far faster than excessive cruelty!\""
+    },
+    {
+      "Key": "ae7ee5de-de44-4c5d-80b3-fe0fed4acd20",
+      "Value": "\"Just a third? Such caution is commendable. Sometimes raising taxes can lead to riots. But believe me, your sheep aren't starving. They have much more wool to give!\""
+    }
+  ]
+}

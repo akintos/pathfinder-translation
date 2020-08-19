@@ -1,0 +1,277 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "ebe1477f-9210-4aaf-863d-99da149be55d",
+      "Value": "\"I've never heard of you. Who are you?\""
+    },
+    {
+      "Key": "0eb0e352-ea06-4ca6-81b1-91173001bad6",
+      "Value": "\"Your First Mate, Wellar, is planning a mutiny.\""
+    },
+    {
+      "Key": "7af49a14-23b5-42d0-96ca-e7a2fe46dc0e",
+      "Value": "\"Tell me about your crew.\""
+    },
+    {
+      "Key": "2140f6e4-f00b-4598-81b3-fa0e20c73b76",
+      "Value": "\"You're a coward, not a captain. How long have you been sitting here ashore? Is this what a real captain would do?\""
+    },
+    {
+      "Key": "745b3315-b804-4ec8-94ce-0821dbafe313",
+      "Value": "\"Ha! You're just an idiot in a stupid hat! A true captain must be stern and bloodthirsty, and you're just a loud mouth.\""
+    },
+    {
+      "Key": "da4754e0-5006-462c-8681-b782e1560109",
+      "Value": "\"I think it's Wellar who does the real captain's work here. You just pretend to be the leader – and take all the credit for it.\""
+    },
+    {
+      "Key": "2cda37ee-5ab6-4314-bcef-21140fa46d0f",
+      "Value": "[Lie] \"Who are you trying to fool? Everybody knows that you're pocketing the best part of the booty! Wellar told me everything!\""
+    },
+    {
+      "Key": "2eda3b94-3697-4465-92cf-4e6fe3d43609",
+      "Value": "\"What kind of booty are you talking about? Compared to the Free Captains and the Andoran Corsairs, you look like real beggar.\""
+    },
+    {
+      "Key": "c5c007c5-fb2f-4494-b5c9-68cb2fe9eaf3",
+      "Value": "\"But you're much better dressed than they are. And the drink in your glass is not the same vinegar your crew drinks!\""
+    },
+    {
+      "Key": "092fbf09-c429-4b66-ae63-dac1f3b7bf03",
+      "Value": "\"Best not cross swords with me. Whoever touches Wellar is a dead man.\""
+    },
+    {
+      "Key": "b05750fa-5910-4e96-bc65-9cb4338c77df",
+      "Value": "\"See how you've pushed your crew to the edge, Martyn! To the edge of bloodshed and strife! They're prepared to kill each other because of you!\""
+    },
+    {
+      "Key": "88387ac0-ebef-45a3-b385-ffef999cedf9",
+      "Value": "\"You spit upon your crew and the Pirate Code when you call that ship yours. She belongs to the crew! Am I right?\""
+    },
+    {
+      "Key": "87d525f1-a042-445c-b13c-69a7b71898bc",
+      "Value": "\"That was a joke.\""
+    },
+    {
+      "Key": "a74237b6-c171-4ee1-b6a2-65091221aee2",
+      "Value": "[Attack] \"You'll find out when I take that stupid hat off your head!\""
+    },
+    {
+      "Key": "231ff97d-889a-4b6e-b14b-c0e2efdf6e97",
+      "Value": "\"I have the grimoire. Take it.\""
+    },
+    {
+      "Key": "4783de22-14cb-4a26-bfde-0eb7f02d1c85",
+      "Value": "\"I have the grimoire. And you may as well sail away. I'm not giving it to you.\""
+    },
+    {
+      "Key": "02eb32f5-dded-4469-9362-0d90911811ae",
+      "Value": "\"On second thought, I don't really need this book.\""
+    },
+    {
+      "Key": "f4f4b339-44b0-457e-8cb5-f5357943e1e7",
+      "Value": "\"Take your gold, buy yourself a new hat.\""
+    },
+    {
+      "Key": "a785bfa3-ce80-477a-9ec7-510496bb5de1",
+      "Value": "[Attack] \"You shouldn't have addressed me like that.\""
+    },
+    {
+      "Key": "556984fb-7275-40e3-8917-09f69d4bf840",
+      "Value": "\"Forget it. It was just a stupid joke.\""
+    },
+    {
+      "Key": "6a917196-57b3-4e42-a1d8-38b08af570c0",
+      "Value": "[Attack] \"I was just looking for a good fight.\""
+    },
+    {
+      "Key": "9ebacaf4-707c-4162-bfc1-fedf435c4ec6",
+      "Value": "\"What are you doing here?\""
+    },
+    {
+      "Key": "2d9270da-d43d-460e-b537-2e8583c590c9",
+      "Value": "\"I have a question for you, as a ship captain and seafarer.\""
+    },
+    {
+      "Key": "a1d061ea-2ebd-4382-add8-6aac9bfa1c7b",
+      "Value": "\"Get out of the city immediately.\""
+    },
+    {
+      "Key": "16150995-e924-4328-9c34-db2b769c81e9",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "1280645e-d2cf-4f0e-86e6-8f804b772ae9",
+      "Value": "\"Hand over command to Wellar before the crew hangs you.\""
+    },
+    {
+      "Key": "e42e0f5f-189e-481d-903a-e22396cad5fa",
+      "Value": "\"I'll listen to your stories later.\""
+    },
+    {
+      "Key": "466eb976-cb9d-496e-8e7e-9a812f81e64f",
+      "Value": "\"Tell me about your travels.\""
+    },
+    {
+      "Key": "ca32ced7-45c2-46c6-aac4-accde3431835",
+      "Value": "\"I paid Blakemoor a visit. I don't think you'll see your grimoire any time soon.\""
+    },
+    {
+      "Key": "cb92beeb-4b51-4786-81e5-a4f7c53309cb",
+      "Value": "{n}A tall, confident man stands before you, wearing a fancy hat and a charming smile.{/n} \"Ah, visitors! And whom do I have the pleasure of addressing? My name is Captain Martyn! There have been so few new faces in the tavern recently... For some reason.\""
+    },
+    {
+      "Key": "d35f4aa4-cbb1-4aa5-907c-1f21afb01489",
+      "Value": "\"Ah, it's you again! What's the purpose of your visit? Would you like to see the world as a crewmember aboard our humble vessel?\""
+    },
+    {
+      "Key": "ae7c8d56-0e83-47c4-bc1f-4469322c431f",
+      "Value": "\"Haven't you heard? Perhaps you're not interested in art! I am the famous Captain Martyn, commander of the pirate ship Prestigious! We are masterpiece hunters, art thieves and welcome guests in the houses of collectors and connoisseurs of beauty. I admit, King Irovetti himself hosted me at the palace more than once, and he's always been satisfied with my gifts.\""
+    },
+    {
+      "Key": "3312e804-3a80-4f52-96c6-a982b932d5e8",
+      "Value": "\"We have a rendezvous with a most outstanding artist. But he... He's rather late. My crew needs a way to blow off some steam, or their bloodthirst will get the better of them. Is there any way you can help me?\""
+    },
+    {
+      "Key": "ebd292ce-9ad2-4288-9fa2-8f7de39eb311",
+      "Value": "\"That's a serious accusation. We take those quite seriously on the high seas. Wellar! Get out here on the bridge!\""
+    },
+    {
+      "Key": "446e1599-c8ff-4414-850c-c709c47902e4",
+      "Value": "{n}Wellar looks at the captain, then at you, and his face darkens.{/n} \"You blabbed? I thought I could trust you! Well, Captain, I'll stand and say that you, bloody fishbone, are about to let the ship sink. The crew is getting drunk while we sit doing nothing, and meanwhile the bottom of the ship is getting covered in barnacles. I'm tired of this! I quit, Captain! I'm tired of you, tired of your ship, tired of your crew, and tired of piracy all over. I'll stay in {g|Pitax}Pitax{/g} and become an artist! Soon you'll see that I was right, but then it'll be too late! Mark my words – we're living in an age of decline and decadence!\""
+    },
+    {
+      "Key": "c9bd9780-21dd-489b-99a6-d1cb168dcfc3",
+      "Value": "\"Oh, you stinking bag of octopus guts! If you ever step foot on the deck of The Prestigious again – I'll haul you under the keel, savvy?\" {n}The captain turns to you, smiling, as if nothing had happened.{/n} \"Thank you for reporting the insurgency. Interested in the position of First Mate? No? Well, that's too bad! Then you must accept this modest gift – it's Wellar's share for the grimoire.\""
+    },
+    {
+      "Key": "ccef0b33-9007-4d89-95ff-f95836f64ec5",
+      "Value": "\"Well, farewell then! You can always find me again on this drunken sandbar. Of course, until the east wind spirits us away! Ha ha!\""
+    },
+    {
+      "Key": "ab18fc67-0bc1-414d-9112-ba9c557e7bc9",
+      "Value": "\"Oh, our crew is a team of extraordinary ladies and gentlemen! Calis, that elf, who was picking a fight so gracefully when you entered – he's a true master of boarding fights. The senior sailor Shagnak is quite funny and witty fellow like no one else. Of course, sometimes his orc half prevails, and his tricks start posing a danger to others ... But everyone has some flaws, right?\""
+    },
+    {
+      "Key": "023bd881-f82f-4921-a43c-b6e4eaadde58",
+      "Value": "{n}The pirates smile ravenously – your words have piqued their interest.{/n}"
+    },
+    {
+      "Key": "b91ddeb6-8750-4458-b7eb-47f80130ef3b",
+      "Value": "\"You think to turn my own crew against me? You will fail in that! Ahoy, sea wolves, didn't I always look after you? Didn't I always make sure we get glorious booty?!\""
+    },
+    {
+      "Key": "6703f31b-6806-483d-8a88-127d2b4fb117",
+      "Value": "{n}The pirates begin to murmur, looking angrily at the captain.{/n}"
+    },
+    {
+      "Key": "1c5148f9-ee25-46b0-bc01-2b5eab58bc51",
+      "Value": "{n}Martyn freezes, not knowing what to say. Silence falls for a moment, and then one of the pirates hisses an incomprehensible sailor's swear through his teeth. Martyn looks at the seamen around him, bewildered. The First Mate makes a sign, and the captain – apparently now former-captain – is carted away.{/n}"
+    },
+    {
+      "Key": "5b4b5c66-3d4e-4dd1-84db-eb710ca54d07",
+      "Value": "{n}First Mate... now Captain Wellar shakes your hand emotionally.{/n} \"You've saved The Prestigious! Now we can finally set sail like normal pirates... Hold on, I remember what I promised. We'll put an end to our careers as sea dogs, and become an honest merchant vessel. The Prestigious will sail henceforth under your banner.\""
+    },
+    {
+      "Key": "07b92a4b-ef25-41d7-bd4f-b3cd3739ee2a",
+      "Value": "{n}The pirates cast glances at you, gripping their weapons. Wellar looks at you with a tragic expression. Martyn's voice is tense, and his hospitality has disappeared.{/n} \"What was that? Would you like to explain yourself before blood is shed?\""
+    },
+    {
+      "Key": "f383d475-710c-4caa-8a02-09cc1f9f48fd",
+      "Value": "{n}Silence falls for a few seconds, then the sailors explode in laughter. The captain laughs louder than anyone.{/n} \"Ha! I love, I just love jokes like that! On the tip of the knife, right? Walking on the edge! And Wellar played along so well... The old devil! I've known you for so many years, and I still don't know you well enough. I believed you, I confess! But don't do it again!\" {n}Martyn threatens you with a finger.{/n}"
+    },
+    {
+      "Key": "16c7275b-405c-40c2-b7c3-087ba8089154",
+      "Value": "\"Finally! I simply don't know how to thank you! Please, accept this weapon as a token of my gratitude! Of my twelve blades, this one is by far the best, and my most cherished! Now it's time for us to meet new adventures. First Mate, all hands on deck!\""
+    },
+    {
+      "Key": "c1f5f1b4-3bb3-4486-8244-012dcc98c3ee",
+      "Value": "\"Oh, no. I have already spent too much time on this, so it'll be going my way: you can buy the book on my terms, for a hundred thousand gold – or hand the grimoire over, right now!\""
+    },
+    {
+      "Key": "a80e4f42-4ff3-4fe7-9977-4f5c20f2b846",
+      "Value": "{n}The captain winks at you.{/n} \"A wise decision. I'm glad to have met you. Thank you for the book. And as for a reward – I'll forgive your impudence and let you live!\""
+    },
+    {
+      "Key": "6026ebe2-b883-4f60-be0a-112d0e2eb2fe",
+      "Value": "\"Great! Well, seamen! I told you we'd be rewarded handsomely for this book! All aboard! I'm going to find another tavern and drink some of that gold! In a land across the sea!\" {n}The sailors cheer the captain with an approving roar.{/n}"
+    },
+    {
+      "Key": "eed33375-e6c3-4318-8141-4cac28b5fe08",
+      "Value": "\"I'll always be grateful to you for revealing that bilge rat Wellar. How could he betray me after so many years of robbery?\""
+    },
+    {
+      "Key": "de157350-4038-4b6b-867e-83e785b6b10e",
+      "Value": "\"{mf|Sir|Ma'am}! You saved The Prestigious! Now we can finally embark!\" {n}Wellar looks at the happy Martyn and whispers.{/n} \"And I beg you, please forget about my ridiculous request regarding our captain. That was the voice of despair.\""
+    },
+    {
+      "Key": "6edd853a-dc9a-45e0-8b1b-5ce36882effb",
+      "Value": "\"Oh, Wellar's not here any more... Are you quite certain you don't want to be my First Mate?\""
+    },
+    {
+      "Key": "323e216c-e8fc-48f8-ac96-c37751eb8fb8",
+      "Value": "\"Finally! I simply don't know how to thank you! Wait... are these blood stains? Oh, well, never mind! Please, accept this weapon as a token of my gratitude! Of my twelve blades, this one is by far the best, and my most cherished! Now it's time for us to meet new adventures. First Mate, all hands on deck!\""
+    },
+    {
+      "Key": "ee2abb03-8319-4f26-9833-fee7f9b1d509",
+      "Value": "{n}Martyn puts his hand on his weapon.{/n} \"You'll stop making plans on my ship, {name}. Stop this mutiny! Crewmen – arrest Wellar!\""
+    },
+    {
+      "Key": "4ad269a0-dca1-4fdc-b7ce-901f0b7bc39f",
+      "Value": "\"You see, not so long ago I commissioned a wizard named Blakemoor to create a grimoire. It should be an amazing book, a masterpiece of calligraphy and fine art. Blakemoor is a phenomenal genius, and... author of some mighty tall tales.\""
+    },
+    {
+      "Key": "3477193a-1f39-41bb-8e77-82e09a145180",
+      "Value": "\"Alas, punctuality is not one of his virtues. He's not much good with people at all. Blakemoor has lived too long a hermit. In fact, we don't know where he lives... But if you ever cross paths with him, and you can somehow bring back the grimoire to us, my gratitude would be immense. And of course, we'll immediately set off without disturbing the peace of these good citizens.\""
+    },
+    {
+      "Key": "544c69ff-f10a-47fb-b7bf-2b4453a0ec0b",
+      "Value": "\"Hmm... sounds tough. You want to fight? Just say the word.\""
+    },
+    {
+      "Key": "05db1688-8329-4a72-9818-5c32f401624d",
+      "Value": "\"Quite right. But don't worry, it's only sailors that have a real sense of humor.\""
+    },
+    {
+      "Key": "33a57be9-1f36-4929-b156-58fdb0d34102",
+      "Value": "{n}The captain adjusts the rapier on his belt with a swaggering gesture.{/n} \"Our ship has visited every single port in the world. I know a few things that'll surprise you.\""
+    },
+    {
+      "Key": "08e7bcd6-0f4a-4779-bd3f-e0b38698bd1f",
+      "Value": "\"Can I be of any use to you?\""
+    },
+    {
+      "Key": "a8cdef5b-3043-4064-85a9-c25830b7f19b",
+      "Value": "\"That would be a long story. I can say without exaggeration – there's no sea in the world we haven't sailed. I've traded with the {g|Kelesh}Keleshites{/g}, talked with the sages of {g|Absalom}Absalom{/g}, traded gorgeous carved masks from the {g|Garund}Garund{/g} aborigines – for rum! Fought off Ulfen raiders, who come in the middle of the night, howling like wolves.\""
+    },
+    {
+      "Key": "db832870-3503-42a8-9f93-76f1904a3a70",
+      "Value": "\"I participated in the regatta organized by the Aspis Consortium, taking honorable second – and only because of the dishonest ploys of my rival. The Hurricane King himself, Captain Kerdak Bonefist, leader of the Free Captains and Ruler of the Shackles, gave me that magnificent rapier, as a gesture of respect.\""
+    },
+    {
+      "Key": "c8a5e1fd-32d9-4a65-add0-cb672656250a",
+      "Value": "\"Babarm is a true dwarf, and a natural born ship's treasurer. His budget always squares with the treasury... Although one time he strangled a sailor because the treasury couldn't cover his salary – but in the end, his budget was spot on! Over there, in the corner, that's Blutmond. I've never met a more gloomy and rude man. They say he was once a crewman on the ship of the damned, but I wager that's all just a tall tale.\""
+    },
+    {
+      "Key": "e0230ed0-8bf8-44dd-a29a-f0417b2118ab",
+      "Value": "\"And, of course, let's not forget my First Mate Wellar. He's my right hand. A man of impeccable loyalty. And, don't tell anyone I told you, but he's a great fan of art. It's a pity he hides his passion, though we all know about it, of course.\" {n}Martyn winks conspiratorially at you.{/n}"
+    },
+    {
+      "Key": "3ca69d8c-2a3b-4f33-84b1-3a86d70250c6",
+      "Value": "{n}Martyn smiles uncomprehendingly, and you hear Wellar's footsteps behind.{/n} \"Sir, let's do this without bloodshed. Give up your command. You'll be the death of the crew.\""
+    },
+    {
+      "Key": "33a71130-7cdd-4232-a6d6-d6f4d69354cd",
+      "Value": "\"Wellar, is this... a mutiny? You're kidding me! My crew would never betray me! I'm the best captain in all the seas! Right, crew?!\""
+    },
+    {
+      "Key": "91c9680b-1222-4468-b576-359bf9803fc8",
+      "Value": "\"Oh, you will not regret it! I am a true master of tales... Not a master like Blakemoor, but an artist still!\""
+    },
+    {
+      "Key": "b9b78f5d-42c4-4747-bd16-970e6edc8137",
+      "Value": "\"That's what you think! I have patience on my side – I can wait.\""
+    }
+  ]
+}

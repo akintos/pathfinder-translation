@@ -1,0 +1,109 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "e78458a9-186a-445d-a5a6-bc1f02aa8476",
+      "Value": "\"What's going on here?\""
+    },
+    {
+      "Key": "862c01b2-e5b0-4b62-9dbe-92f97b6185a8",
+      "Value": "\"Clear the road and let these people pass!\""
+    },
+    {
+      "Key": "c761164b-db02-4dab-bc62-9545cb6322bb",
+      "Value": "\"Not a bad set-up you got here. How about you work for me?\""
+    },
+    {
+      "Key": "e900e36d-fac2-4824-b8c0-3aa938094d55",
+      "Value": "[Attack] \"You should have run while you could.\""
+    },
+    {
+      "Key": "3cb6ca7e-2110-475e-a63b-5615d984481e",
+      "Value": "\"I am the {mf|baron|baroness|king|queen} of this realm, and I didn't order anyone to guard this bridge.\""
+    },
+    {
+      "Key": "0963018e-3dc6-44d6-9677-72b2e621f99b",
+      "Value": "\"The Stag Lord? The Stag Lord is dead. What is this nonsense?\""
+    },
+    {
+      "Key": "e1db1c1e-242d-41f1-9ab7-35dcb2dfe216",
+      "Value": "\"Who gave you the right to extort passers-by?\""
+    },
+    {
+      "Key": "adeb5ebc-79ed-4807-8ff6-7fc7ac08f8e2",
+      "Value": "\"What are these monsters you're talking about?\""
+    },
+    {
+      "Key": "6e0ea7e5-39e4-4c90-bca0-f45c643950d9",
+      "Value": "\"Enough.\""
+    },
+    {
+      "Key": "e2881bdc-378e-4086-91bd-f1a8dd3c817a",
+      "Value": "\"Where is this 'Stag Lord' of yours?\""
+    },
+    {
+      "Key": "caf5b1ae-9774-4671-b3d0-f30262e9b575",
+      "Value": "\"I should go.\""
+    },
+    {
+      "Key": "9b6f3efe-abd0-479c-8770-ceb537d57ea0",
+      "Value": "\"How goes your duties?\""
+    },
+    {
+      "Key": "cfda97e4-ee77-4b32-a315-49c72e94f2f1",
+      "Value": "[Attack] \"I've had enough of brigands in my lands!\""
+    },
+    {
+      "Key": "56dea9d8-6667-4709-9d9a-a589289cdea7",
+      "Value": "{n}The cutthroat in front of you is well-armed, as are the other warriors behind him. He turns to face you.{/n} \"Hey, get in line! Watch where ye're goin'...\" {n}The man trails off as he sees your face — he recognizes you.{/n}"
+    },
+    {
+      "Key": "4ad89787-1077-4556-a169-a0e1e39be3b1",
+      "Value": "\"By the Gods! The {mf|baron|baroness|king|queen}! What the... what brings you here?\" {n}The man glances at his companions, who look equally uncertain what to do, and turns red.{/n} \"Eh, well, err... of course you can pass, Yer {mf|Grace|Grace|Highness|Highness}!'"
+    },
+    {
+      "Key": "ee9a971a-bbef-4659-b38d-11b1ee58183e",
+      "Value": "\"Yes, {mf|baron|baroness|king|queen}?\""
+    },
+    {
+      "Key": "e003a6cc-887a-4e76-95c3-0a686ae5616b",
+      "Value": "\"Well, now, we... we're guarding the bridge, {mf|baron|baroness|king|queen}! From monsters and others. On the Stag Lord's orders.\""
+    },
+    {
+      "Key": "3718bc54-cb46-44a0-ae90-8ad8953690a4",
+      "Value": "{n}The bandit swallows.{/n} \"It's ahhhh... like... an order's an order! We're the Stag Lord's people. He says — guard the bridge, we guard the bridge!\""
+    },
+    {
+      "Key": "c4b3a2a0-dbd6-45b2-b2ee-4559749d3fe7",
+      "Value": "\"Gotta peel yer eyes, Yer {mf|Grace|Grace|Highness|Highness}! Alive, he is! See for yourself — there he is, keeping watch over us himself!\""
+    },
+    {
+      "Key": "9dc6fae7-e3dc-4483-ab1d-638ec54828e5",
+      "Value": "\"We have to eat, as much as anyone else — hunger will take us if we've no coin.\""
+    },
+    {
+      "Key": "7dfcec28-3485-41ac-8d88-40e531033773",
+      "Value": "\"Why, eh... {mf|baron|baroness|king|queen}... all kinds, all kinds! Not long ago, a hydra popped up on the other side o' the river. Right, men?\" {n}The warriors nod.{/n} \"A fat, long-fanged bastard, too! Now, Your {mf|Grace|Grace|Highness|Highness} — what happens if that thing gets it into its head to feast on folk crossing the bridge? And that's not the worst of it — there's goblins sneaking all about as well, snatching everything that's not tied down!\""
+    },
+    {
+      "Key": "6868988a-b6d4-43ea-b85c-74bbbcd6a9d8",
+      "Value": "{n}The man falls silent. The men behind him all looking at their feet uncomfortably.{/n}"
+    },
+    {
+      "Key": "a6915105-cf12-4eee-81ae-9e7b5643f580",
+      "Value": "\"But, but... see...\" {n}The man takes a breath, and leans in.{/n} \"{mf|Baron|Baroness|King|Queen}, I'm nothing, a pair of hands — I collect the money, see, and let through ones that pay. It'd be better if you took the matter up with the Stag Lord, have a chat with him.\""
+    },
+    {
+      "Key": "8a1f972a-4941-405d-a0a8-396733fa1bef",
+      "Value": "{n}The man's eyes light up — then a worried expression crosses his face.{/n} \"Yer {mf|Grace|Grace|Highness|Highness}, me and the boys would like that, we would! But, see, we already answer to the Stag Lord... maybe you should have a word with him about it?\""
+    },
+    {
+      "Key": "95a6940f-f59a-4a83-9c12-f3de037893d0",
+      "Value": "\"There, see, right there. Go up to him, he's the one to talk to.\""
+    },
+    {
+      "Key": "0d6f1458-e4d5-41ac-ad48-6ba9876df92a",
+      "Value": "{n}The man gives a wide grin.{/n} \"Easy pickings, Yer {mf|Grace|Grace|Highness|Highness}! Doing well as before, but now's it's easier getting them to part with their coin now we have your blessing!\""
+    }
+  ]
+}

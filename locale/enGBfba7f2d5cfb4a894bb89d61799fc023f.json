@@ -1,0 +1,129 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "588e8ec8-45e1-45f3-9c8d-3b218c9ee7ff",
+      "Value": "[Leave the hunters] \"Ha, good luck up there! See you around. Maybe.\""
+    },
+    {
+      "Key": "d7e0fe47-7fb4-424a-ad87-cce84340b50c",
+      "Value": "\"How many of you are there? Is anyone wounded?\""
+    },
+    {
+      "Key": "b6a8d907-e1f1-4fe3-9609-13e517f0527a",
+      "Value": "\"If you could add some gold...\""
+    },
+    {
+      "Key": "1c44f3f3-48c3-4700-961f-4ceceb97d5c1",
+      "Value": "\"How did you get up there?\""
+    },
+    {
+      "Key": "c2b12a54-e6a1-4a62-bad6-8ee8cf92284b",
+      "Value": "[Throw a rope to the hunter] \"Hold on! I'll help! You're going to be all right.\""
+    },
+    {
+      "Key": "2e9f83d4-cf7f-4b19-baba-63d8123bcc17",
+      "Value": "[Try to catch the hunters using a stretched-out cloak] \"Jump! We'll catch you!\""
+    },
+    {
+      "Key": "df84a903-dc81-4fb6-bc20-30f415182033",
+      "Value": "\"Sure, we can help you down — if you pay in advance.\""
+    },
+    {
+      "Key": "8e248fbb-2e96-43df-b6df-fec8666d2e26",
+      "Value": "\"How much is my help worth to you?\""
+    },
+    {
+      "Key": "9af42c26-c65f-4f48-a1cd-11b370a367c5",
+      "Value": "[Try to catch the hunters using a stretched-out cloak] \"We'll try to catch you, but please, be careful!\""
+    },
+    {
+      "Key": "4afebb5a-f7cd-4f49-9573-8aea0ecfe008",
+      "Value": "{n}Digging through his pockets, the hunter pulls out a small purse.{/n} \"Take this too, as promised. I'd give you more, but it's all I have!\""
+    },
+    {
+      "Key": "c219f3aa-4285-419a-a931-10ee0246ed6d",
+      "Value": "{n}Digging through his pockets, the hunter pulls out a small purse.{/n} \"Take this too. Linnel and me owe you our lives, after all.\""
+    },
+    {
+      "Key": "35a30f9f-d0b8-4006-b889-0e5a75b8eadb",
+      "Value": "{n}The hunter hands you a gilded metal cog.{/n} \"Here, as a reward for your efforts. I found it on the corpse up there. It looks valuable.\""
+    },
+    {
+      "Key": "c7d4205e-70b3-4bec-a7e4-320ce523065b",
+      "Value": "{n}Jubilost looks back toward the camp you spent the night in. He opens his mouth as if to speak, but he instead bends over and bursts into wild, knee-slapping laughter. After eventually regaining control of himself, he wipes his eyes dry and gives you a silent thumbs-up.{/n}"
+    },
+    {
+      "Key": "7552c6e0-5b15-4e51-bd86-4e9e5e277f61",
+      "Value": "\"We're just two. I'm mostly good, thank {g|Erastil}Erastil{/g}. Linnel here, though, she came down pretty hard. She's got some broken ribs, can hardly breathe. As for Duldin... I think he's dead. I can only see his feet sticking out of the rock. There's some dwarf corpse up here, too — guess he got here the same way we did.\""
+    },
+    {
+      "Key": "e8db24bd-7328-46e2-9df2-2adac92637f2",
+      "Value": "\"No clue! We were heading off to sleep when a dream came over us — a bright one, too! All three of us were in a river, and the current was sweeping us away! The trees on shore were too high — up to the sky, I tell ya! And the clouds above were like mountains! We went over a waterfall and hurtled down... Next I knew, we were up here on this rock, wet like drowned rats. I've never seen anything like it! And I hope I never have to again.\""
+    },
+    {
+      "Key": "827d44fa-50de-42d3-b6c1-a4b628db286f",
+      "Value": "\"I found this funny thing on a corpse up here... It looks valuable. You save us, it's yours.\""
+    },
+    {
+      "Key": "5f8de8a6-6dd1-481b-88c5-ab6b08534169",
+      "Value": "{n}The hunter digs in his pocket and pulls out an odd object — a gilded metal cog. He holds it up to give you a good view, then tosses it down to you.{/n} \"There! Now, help us down, for gods' sake!\""
+    },
+    {
+      "Key": "4114d629-acc9-468e-9c42-f08e512f2fde",
+      "Value": "{n}The hunter reaches out, pleading.{/n} \"All we have is yours! Just get us down from here!\""
+    },
+    {
+      "Key": "9aa9f411-d574-40e3-94a2-e64c37ed59d3",
+      "Value": "{n}You hear a voice from somewhere above you.{/n} \"You there! Help us!\" {n}A man wearing simple clothes waves to you from the top of the massive rock.{/n} \"Hunters, we are! We were camping in the woods, then suddenly we were up here! Some weird magics or something, I guess. For gods' sake, help us!\""
+    },
+    {
+      "Key": "560c5f72-1ef2-4ecc-b80c-9bfab2f15c7d",
+      "Value": "{n}You throw the rope up. The hunter fixes it to the rock, then slowly lowers his wounded friend before climbing down himself.{/n}"
+    },
+    {
+      "Key": "cd78d917-3faf-4b27-880d-5f5884edc32e",
+      "Value": "{n}You manage to get a cloak stretched taut to try and catch the hunters. The man above pushes his wounded friend down first, then jumps himself. You catch them both without any trouble.{/n}"
+    },
+    {
+      "Key": "b546e74c-9bdc-4a8a-a61d-a05b2c9e16f5",
+      "Value": "{n}You manage to get a cloak stretched taut to try and catch the hunters. The man above pushes his wounded friend down first, but you fail to catch her. The impact kills her immediately. You manage to catch the man when he jumps down, and he looks at you reproachfully.{/n} \"She... she's dead, isn't she? How could you let this happen? What... what am I to do now?\""
+    },
+    {
+      "Key": "59042584-9217-458b-b501-b7d4f9cb34a4",
+      "Value": "\"Wait, you can't! We had a deal!\" {n}Ignoring their frantic cries, you walk back into the woods. A moment later, you hear a scream behind you, followed by a wet thud. It sounds like the unlucky hunter grew desperate enough to try getting down on his own.{/n}"
+    },
+    {
+      "Key": "57b12ec1-e909-4ec3-80c4-d60ebca7c4b6",
+      "Value": "{n}Harrim closes his eyes as if trying to hold on to the hunter's death cry.{/n} \"How did I miss it before...?\" {n}he whispers.{/n} \"Death cries are music, too... So beautiful...\""
+    },
+    {
+      "Key": "ebc663ff-5edb-4985-aae9-a20a6e950f0f",
+      "Value": "{n}Octavia glares at you.{/n} \"That was mean and undignified... Your Grace!\""
+    },
+    {
+      "Key": "84a50263-0695-49f1-833a-e726ebd3ddbf",
+      "Value": "\"Wait, don't leave! Save us!\" {n}Ignoring their frantic cries, you walk back into the woods. A moment later, you hear a scream behind you, followed by a wet thud. It sounds like the unlucky hunter grew desperate enough to try getting down on his own.{/n}"
+    },
+    {
+      "Key": "38546661-2792-4b58-9f60-7315af17bb0c",
+      "Value": "\"Thank you for saving my life. You were paid in advance, so all's proper and honest now.\""
+    },
+    {
+      "Key": "4ccb3eb4-04ae-4ee4-9642-3b70c56e8446",
+      "Value": "{n}Harrim gives a deep sigh.{/n} \"What a shame... He was just one step away from his death... Such a rare chance for a most beautiful end — wasted!\" {n}He shakes his head in frustration.{/n}"
+    },
+    {
+      "Key": "d0574573-94b4-4602-ac71-76bc6cea5139",
+      "Value": "{n}The hunter hands you a gilded metal cog.{/n} \"My word's good as gold — here's what I promised. Thank you for your help!\""
+    },
+    {
+      "Key": "a839bbec-722d-48c1-8d88-3a2e37c2a7b5",
+      "Value": "\"What?! For the sake of {g|Desna}Desna{/g}, this sounds... No-no-no, no way that can be true. He must have drunken too much and seen a bad dream!\""
+    },
+    {
+      "Key": "a90abdc2-a577-40d6-b166-6fb325191f42",
+      "Value": "\"Ha! Losers! And you're a sharp one! It's only fitting we rob the likes of them!\" {n}The half-orc roars with laughter as he makes an obscene gesture toward the stone.{/n}"
+    }
+  ]
+}

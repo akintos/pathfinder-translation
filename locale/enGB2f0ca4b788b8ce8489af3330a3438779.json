@@ -1,0 +1,157 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "0efc3ff4-77de-4c96-a59a-483b849da978",
+      "Value": "\"And just what do you want to talk about?\""
+    },
+    {
+      "Key": "81cef7ef-0970-4117-a190-ce104a5710bd",
+      "Value": "[Attack] \"I don't talk to bandits. Fight!\""
+    },
+    {
+      "Key": "e1fc38bb-16c0-40a5-aade-879e838414ec",
+      "Value": "\"Why not turn that around? No matter what you say, Akiros, the Stag Lord's not some ordinary ruler of an ordinary country. He can barely control his gang. And neither can you, or you wouldn't be arguing with Kressle in the middle of the woods. You both seem like reasonable people who simply chose the wrong leader. Leave him or help me find his fortress, and we can part in peace.\""
+    },
+    {
+      "Key": "68e4b8a8-03d6-4a48-920c-87e2f6fb4bf3",
+      "Value": "\"Unfortunately, there can be no peace between me and the Stag Lord. I've seen too much — I won't allow him to keep robbing the settlers.\""
+    },
+    {
+      "Key": "86cbc03a-da58-4dc2-844c-4181c3f71c8a",
+      "Value": "\"Restov promised me a barony for the Stag Lord's head, Akiros — and I intend to collect it at any cost, even a bloody one.\""
+    },
+    {
+      "Key": "210b6f4b-a2b2-4ce2-ac7b-2f23bb53115d",
+      "Value": "\"I'm not here to take sides. But if you don't want bloodshed, I'm willing to talk.\""
+    },
+    {
+      "Key": "9b9eead5-0e06-4c92-a93e-2f313d4833e7",
+      "Value": "\"Easy, now. I'm not here to blanket the Stolen Lands with corpses — lower your weapon, and let's talk. I won't kill anyone who leaves the Stag Lord's service or is willing to help me find him. So think about it — is he really a leader you're ready to die for?\""
+    },
+    {
+      "Key": "3d72697c-3927-4e18-b799-fa8ac69cf952",
+      "Value": "\"I'm looking for the Stag Lord's fortress. Perhaps you'd be willing to help... for a small reward?\""
+    },
+    {
+      "Key": "2ff8af57-bf59-4681-a383-2c07e60de8ef",
+      "Value": "\"Svetlana asked me to show you mercy. I don't know why.\""
+    },
+    {
+      "Key": "ff2d654a-ca2e-4d17-810b-5fc307be0721",
+      "Value": "\"Is it so hard to believe I simply might not want unnecessary bloodshed?\""
+    },
+    {
+      "Key": "5dba0f96-107a-4745-ad6e-c577edadceaf",
+      "Value": "\"My motives are my own. Just accept that I don't want you dead.\""
+    },
+    {
+      "Key": "9371c1cf-51fd-4544-b82a-0badfd04a15a",
+      "Value": "\"This isn't kindness — it's good judgment. Your death doesn't help me in any way.\""
+    },
+    {
+      "Key": "427e8bdc-ef59-489a-b4e0-126c6be2bee6",
+      "Value": "\"All I'm interested in talking about is the location of the Stag Lord's fortress.\""
+    },
+    {
+      "Key": "e4b1e754-c758-4290-b22a-4b57dae363b6",
+      "Value": "\"You can tell me everything you know about the Stag Lord and where he's hiding, or you can die.\""
+    },
+    {
+      "Key": "564e9683-a0ba-4634-a353-8ed51f379289",
+      "Value": "[Attack] \"I'm not here to talk. Fight and die.\""
+    },
+    {
+      "Key": "23b9ea55-d2a7-42f5-9488-7e7e4eecaa08",
+      "Value": "\"I shall stop the Stag Lord and the evil he commits!\""
+    },
+    {
+      "Key": "d73888a0-df2d-4995-abe2-31e413de8989",
+      "Value": "{n}You see a tall, broad-shouldered man with prematurely gray hair and a decisive face. Everything about him — his stance, his gestures, his intonations — radiates confidence.{/n} \"I'm not here to listen to your complaints or your crazy plans, {d|Kressle}Kressle{/d}. We cannot fight {g|Restov}Restov{/g} — leave Jamandi's messenger alone and follow your orders. You probably haven't even burned down that old house the Stag Lord seems to hate so much.\""
+    },
+    {
+      "Key": "822251af-6c49-4a79-ab35-fb360e235e71",
+      "Value": "\"Is the Stag Lord just going to hide in the fog forever?!\" {n}Kressle hisses angrily.{/n} \"If we don't show them our strength, they'll think this land belongs to them! When are we going to do something worthwhile, something more than just stealing from these spineless hogs?\" {n}She stops as she notices you.{/n} \"Damn!\""
+    },
+    {
+      "Key": "0f0d782d-44f4-4344-9d6b-635e34f5c7a4",
+      "Value": "{n}The man turns to you calmly.{/n} \"Ah, you must be the guests from {g|Restov}Restov{/g}. Well, I always have preferred to solve things face-to-face. I am Akiros Insmort, the Stag Lord's right hand. We should talk.\""
+    },
+    {
+      "Key": "c4b3a8ff-6e74-4fd4-8003-ddf8a9c24de3",
+      "Value": "\"I'm sure you've heard many stories of the Stag Lord and his people. You probably think we're flesh-eating madmen. We're nothing of the sort, I assure you. We essentially want the same as those who sent you — ownership of this land and the right to take payment from those who live and work here. {g|Stolen Lands}The Stolen Lands{/g} aren't part of {g|Brevoy}Brevoy{/g}, despite what anyone may think — my commander has as much right to this land as Jamandi Aldori.\""
+    },
+    {
+      "Key": "c02214e6-3af2-45b5-950c-6704e9a39f8b",
+      "Value": "\"I personally forbade Kressle's people from harming the owners of the {g|Oleg's Trading Post}trading post{/g}. They paid on time and worked dutifully — at least until you showed up and disturbed things. But despite that, does this really need to end in violence? {g|Restov}Restov{/g} is too far away to be able to effectively control these lands, and I don't want to lose any of my people. So, please — leave the Stag Lord be, and leave in peace.\""
+    },
+    {
+      "Key": "e7c9b84b-b794-4402-9962-7d29420dd659",
+      "Value": "{n}Something in your words seems to have impressed Kressle. She frowns for a moment, then spits.{/n} \"Fine. I won't cut your throat — for now, at least. But I also won't kneel to some {g|Restov}Restov{/g} upstart! Why would you try to make peace? Are you just naturally kind? Or have you been listening to Svetlana?\""
+    },
+    {
+      "Key": "2f6e373e-3c37-4c04-9c24-26c5917f9783",
+      "Value": "{n}Akiros smiles.{/n} \"A valiant effort, but no. Just your charm and the ghost of the ferocious Jamandi won't be enough to make me turn traitor. Farewell! And please, think on my words.\" {n}He turns and leaves.{/n}"
+    },
+    {
+      "Key": "2c0393db-dc1e-4742-a752-2dd5e7527f4e",
+      "Value": "\"A pity.\" {n}Akiros takes a quick step back.{/n} \"I'm sorry, but I'm afraid I can't keep you company in this skirmish. The Stag Lord is waiting for me.\" {n}He retreats to the road.{/n}"
+    },
+    {
+      "Key": "fe2021e6-90a7-4cce-874a-1e5e397a33ce",
+      "Value": "\"Let's cover him, everyone! To arms!\""
+    },
+    {
+      "Key": "9cf8b6a8-cc5e-4792-8412-89b9d43b97e3",
+      "Value": "\"One dog seeks to take a bone from another? I see...\""
+    },
+    {
+      "Key": "ee09c14f-968c-4148-b5bb-5c3c7bfb417c",
+      "Value": "{n}Kressle's handaxe swishes through the air.{/n} \"Enough talk! You won't make it to the Stag Lord, {g|Restov}Restov{/g} bootlicker!\""
+    },
+    {
+      "Key": "04a3af02-6de1-4697-a440-9fd2be32438f",
+      "Value": "\"Just what we needed... Kressle, stand down! Well, you'll do whatever you wish, but know that I won't be helping you!\""
+    },
+    {
+      "Key": "2ae81b00-ddf6-487e-bfe9-c9b7823a5f3e",
+      "Value": "\"Neutrality is not long-lived in {g|Stolen Lands}the Stolen Lands{/g}...\""
+    },
+    {
+      "Key": "fb809164-dca2-4805-94bb-35a5897b9a6f",
+      "Value": "\"Noble intentions. How familiar...\""
+    },
+    {
+      "Key": "d60b442a-49c9-472d-9e7e-6d831e376081",
+      "Value": "{n}The dark-haired bandit is kicking the ground irritably. When she sees you, she squares her shoulders and clenches her handaxes.{/n} \"Well, look {d|Kressle}who's{/d} here!\""
+    },
+    {
+      "Key": "f4c255f7-0b98-48d3-929f-9b7e0c85cc38",
+      "Value": "\"I doubt you'll get what you want from any of us. Those who would talk don't know, and those who know won't talk — not even if you tortured us. So perhaps I can convince you to hear me out?\""
+    },
+    {
+      "Key": "d8e9f83e-bc8f-4f67-a109-ee979397a80f",
+      "Value": "{n}Kressle frowns, then looks away.{/n} \"Mercy, huh? Haven't heard that in {g|Stolen Lands}the Stolen Lands{/g} for a long time.\""
+    },
+    {
+      "Key": "8537ec7e-6b38-4437-852e-cdf5276c5b58",
+      "Value": "\"All right, here's my piece. The Stag Lord's been spending more time keeping an eye on the bottom of his glass than on what's going on around him. If he won't answer an insult from some {g|Restov}Restov{/g} crook like Jamandi, then you're right — we chose the wrong leader. So go ahead, do whatever you're gonna do. I won't stop you, but I won't help you, either. And here... give this to Svetlana.\" {n}The bandit places a ring in your hand, then leaves.{/n}"
+    },
+    {
+      "Key": "746d2b06-f411-4ac5-a29f-b7051629a503",
+      "Value": "\"Y'know, life hasn't been so good to me,\" {n}Kressle replies, sullen.{/n} \"Why should I trust you?\""
+    },
+    {
+      "Key": "607389ef-999a-441c-ae69-d2c2e4e913e5",
+      "Value": "\"Bah! Fine. Let's see where your 'judgment' takes you.\""
+    },
+    {
+      "Key": "c17fca41-de61-42e7-874d-34c00fe2315b",
+      "Value": "\"Fine. Whatever, clam. Either way, you won't make it long in {g|Stolen Lands}the Stolen Lands{/g} without getting blood on your hands.\""
+    },
+    {
+      "Key": "102e0347-8578-4310-8c48-feff008e5305",
+      "Value": "\"Who would hope to find honor among thieves? It will be a pleasure to cross blades with you!\""
+    }
+  ]
+}

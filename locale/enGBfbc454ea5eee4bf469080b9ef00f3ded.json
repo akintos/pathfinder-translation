@@ -1,0 +1,121 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "133b5bce-9834-4c12-ae7a-781aef3a3d00",
+      "Value": "\"Where are you from?\""
+    },
+    {
+      "Key": "d1c841ad-f826-44ec-9d74-e598c8b1040f",
+      "Value": "\"Who are all those people on the bridge?\""
+    },
+    {
+      "Key": "62927b0a-aae2-4315-b681-54415d51dd18",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "f7aa8aa0-1854-42b0-9167-9144e0be481e",
+      "Value": "\"I found the berries you were talking about.\""
+    },
+    {
+      "Key": "60739608-9803-43b2-9578-93f49c9dc4e7",
+      "Value": "\"I found your berries. You lied. These aren't medicine — they're poison.\""
+    },
+    {
+      "Key": "aebd2f8e-a5aa-4d37-a0e9-e0796f513209",
+      "Value": "[Give him the berries] \"If that's really what you want...\""
+    },
+    {
+      "Key": "d69c5c15-b61e-48cd-af34-34f48be86479",
+      "Value": "\"My goal was to help you, not kill you. You'll have to find some other way to end your life if that's what you want.\""
+    },
+    {
+      "Key": "d3914d4e-3d10-4fd0-87ff-7b4a491be573",
+      "Value": "\"Find Jhod Kavken in town. He can identify your illness and give you the help you need.\""
+    },
+    {
+      "Key": "8b6b96b7-1c8b-4d02-af1d-6db36049344c",
+      "Value": "\"Why are you so sure you have the same illness?\""
+    },
+    {
+      "Key": "8ced6179-2613-475a-8cd9-f15ff3530001",
+      "Value": "[Attack] \"First you fool me, and now you dare beg me for yet more help? Perhaps you've found your death after all!\""
+    },
+    {
+      "Key": "8c955a1b-3db0-4667-a66e-6fcda6d5b13d",
+      "Value": "[Attack] \"I am the {mf|baron|baroness|king|queen}. And you're about to learn how I deal with any rabble who would dare vilify me!\""
+    },
+    {
+      "Key": "81e5e2df-dc0e-4e84-829b-f03222d29ed4",
+      "Value": "\"You shouldn't speak of the {mf|baron|baroness|king|queen} that way.\""
+    },
+    {
+      "Key": "f31cc41f-2363-4907-8037-19ca23cdb2ef",
+      "Value": "{n}The old man who called to you looks to be in bad shape: pale face, dark circles under his eyes, and his forehead glistening with sweat. There's no doubt this man is very sick.{/n}"
+    },
+    {
+      "Key": "b7bdad8a-cae1-4aee-bf51-735a2e6a8e57",
+      "Value": "\"Hey... hey, {mf|lad|lass}! Would you-\" {n}The old man breaks into a coughing fit.{/n} \"Would you do an old man a favor in his hour of need? I've traveled far, but I somehow fell ill along the way. I know of a berry that grows along the coast in these parts, though — it's supposed to be a potent medicine. It will-\" {n}The old man coughs again.{/n} \"It'll put anyone back on their feet!\""
+    },
+    {
+      "Key": "0daf2d7f-0e2e-4928-8edc-6b3388eb129f",
+      "Value": "\"They're black — hard to miss...\" {n}The old man bursts into more coughing for a few moments.{/n} \"Black with a hint of purple. The bush is short. You've strong legs and sharp eyes. Honor-\" {n}The old man coughs again but quickly controls it.{/n} \"Honor an old man's wish — bring me a handful of those berries.\""
+    },
+    {
+      "Key": "de196bc8-8def-4124-939d-8f04ede6bc4a",
+      "Value": "{n}The old man looks at you, hope in his purblind eyes.{/n}"
+    },
+    {
+      "Key": "169b954f-e4ea-4109-9db4-5781d6f6b9c1",
+      "Value": "\"The outskirts of the {g|Narlmarches}Narlmarches{/g}. Used to live there with my son and his wife. But when this scourge started to spread through the {mf|barony|barony|kingdom|kingdom} and a few people in our village started falling ill, we knew it was time to run. Hated to abandon the house, but what could we do? My son's little ones-\" {n}The old man lets out a few wet coughs.{/n} \"We couldn't just let the little ones perish in that cursed place...\""
+    },
+    {
+      "Key": "f2bcd6c1-109c-479b-98b5-fd447cafa8f7",
+      "Value": "\"Refugees, running from an illness that causes horrible beasts to burst out of people's bodies. The rulers couldn't care less for the simple folk,\" {n}the old man says, cringing slightly,{/n} \"so people run as far as they can. The {mf|baron|baroness|king|queen} can stay in {mf|his|her} cursed land all {mf|he|she} wants, but we want to be safe.\""
+    },
+    {
+      "Key": "200bce03-1b8b-449b-a7a1-6d5303e16445",
+      "Value": "{n}The old man shifts his gaze down.{/n} \"Please don't be angry... Look, I'm sick like all the others. I've seen the monsters come out of people — I'd rather take my own life than wait for such a terrible end!\""
+    },
+    {
+      "Key": "df28b31d-57a3-44e6-be3d-3beeb9bee684",
+      "Value": "{n}The old man carefully examines the berries, then nods fervently.{/n} \"Yes... Yes, these are the right ones. Thank you, {mf|lad|lass}.\" {n}He crams the black berries into his mouth and chews vigorously.{/n}"
+    },
+    {
+      "Key": "09072f8c-c8c8-4bca-8304-35fec272d80a",
+      "Value": "{n}A weak smile flickers across the old man's timeworn face.{/n} \"And so it begins...\" {n}He turns his gaze to you, his eyes going glassy.{/n} \"I'm sorry, my friend, but I tricked you. I don't-\" {n}The old man coughs, but it's less powerful than before.{/n} \"I don't want to die to this damn sickness, let some disgusting beast crawl from my body... It's... better this way...\""
+    },
+    {
+      "Key": "7d8f6a15-1353-476f-811c-b2a264c5d0df",
+      "Value": "\"I'm... not sure. And who's to say? But waiting to see whether some horrible creature hatches out of me... I'd rather die by my own hand!\""
+    },
+    {
+      "Key": "e0b5f7bb-5e8b-4c94-bd5e-9ce84cafb3fb",
+      "Value": "{n}The old man carefully examines the berries, then nods fervently.{/n} \"Yes... just what I needed...\" {n}He raises his tearful eyes to you.{/n} \"Thank you, my friend. You've saved my soul... {g|Erastil}Erastil{/g} bless you.\" {n}He crams the black berries into his mouth and chews vigorously.{/n}"
+    },
+    {
+      "Key": "adf54ffc-8caf-4516-99e8-a5d9ce686e54",
+      "Value": "{n}The old man's eyes swell with tears.{/n} \"I beg of you, give me the berries! Let me decide my own fate!\""
+    },
+    {
+      "Key": "17633895-b78f-40b1-9ac5-3162cc732fcd",
+      "Value": "{n}The old man's eyes light up.{/n} \"Someone... someone could help me?\" {n}A weak smile crosses his wrinkled face.{/n} \"There's still hope? Oh, {g|Erastil}Erastil{/g} protect this {mf|man|woman}! Thank you! Thank you! I'm leaving right now — I won't let this sickness stop me. As long as my legs will carry me, I'll make it there!\""
+    },
+    {
+      "Key": "b6838fca-98e5-4eb4-8f49-5c14c9129510",
+      "Value": "\"I left too — they're my family, after all...\" {n}The old man coughs a few times.{/n} \"But I'm not as strong as I once was. I started lagging behind, holding them back. So I said, 'Listen, son, save your wife and kids. I'll make it there on my own.'\" {n}He coughs again, then goes silent for a moment.{/n} \"We agreed to meet up in Drember village...\" {n}He trails off as his eyes grow watery.{/n}"
+    },
+    {
+      "Key": "3d6607d8-cac9-42ed-b3c5-b05601debe7f",
+      "Value": "{n}The old man tries to say something else, but his lips are sluggishl, his voice silent. Berry-tinted foam drips from his mouth as his eyes roll up and he slowly sags to the ground.{/n}"
+    },
+    {
+      "Key": "7ffa2c3f-b276-466e-bb74-992f639ecfe3",
+      "Value": "\"I beg you, {mf|lad|lass} — give me the berries. This is no sin upon your soul. I'd have killed myself anyway — you only helped an old man ease his suffering!\""
+    },
+    {
+      "Key": "ac3cb394-a12e-4f6e-9169-1ddabe3b45a3",
+      "Value": "{n}The old man waves his hand dismissively.{/n} \"I'm old. I've little concern for them high lords... I just hope I don't die and none of my kin get sick!\""
+    }
+  ]
+}

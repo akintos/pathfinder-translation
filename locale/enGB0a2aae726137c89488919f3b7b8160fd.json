@@ -1,0 +1,337 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "ddb4a432-a91f-47bc-b20a-6ba281627bb9",
+      "Value": "\"Do you know me? How?\""
+    },
+    {
+      "Key": "f1e78311-239e-416b-8e21-45aa1c8ab825",
+      "Value": "\"Tell me about yourself.\""
+    },
+    {
+      "Key": "9d08521b-5e54-476a-88ce-60412afd1acf",
+      "Value": "\"Do you know anything about what happened in Varnhold?\""
+    },
+    {
+      "Key": "222210b0-8d54-4e08-8f68-13ff2f4072a1",
+      "Value": "\"What are you looking for here?\""
+    },
+    {
+      "Key": "10c7ab50-b5d0-4747-a065-8ffa4f9b9906",
+      "Value": "\"Tell me about your tribe.\""
+    },
+    {
+      "Key": "5279ddf3-d725-4bbe-ab48-9cd8fdaa89c8",
+      "Value": "\"Tell me about Numeria.\""
+    },
+    {
+      "Key": "368e9863-0165-4359-8c07-bf8cbcc36ecd",
+      "Value": "\"Who's that woman?\""
+    },
+    {
+      "Key": "6de5e8ee-3ec9-4a7b-86b7-74879b54dff8",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "de8547a0-4f66-428a-8761-fc5b850497e3",
+      "Value": "\"So, how can we be useful to each other?\""
+    },
+    {
+      "Key": "5f775853-b438-418d-b1c9-13d2849d137a",
+      "Value": "\"How did it go? Did you find anything of interest?\""
+    },
+    {
+      "Key": "b53689fe-bad8-48de-ab3c-2064efc51dc4",
+      "Value": "\"Tell me about your chieftain.\""
+    },
+    {
+      "Key": "e720f2fe-0cc8-4378-bd91-e4eff3b6c37d",
+      "Value": "\"Tell me about Gorum.\""
+    },
+    {
+      "Key": "43b29260-1495-4a90-9c42-1605caaafe4c",
+      "Value": "\"There's a whole army of you here. How did you manage to get so far?\""
+    },
+    {
+      "Key": "39268450-e51d-428b-ab1e-5f5289908f36",
+      "Value": "\"What do you know about cyclopes?\""
+    },
+    {
+      "Key": "e9c01313-dca2-41f0-a9aa-5884a674300d",
+      "Value": "\"Let me ask you a question.\""
+    },
+    {
+      "Key": "f43be5c5-52ea-4e8b-a054-e5409eaa17af",
+      "Value": "\"Thank you for your answers.\""
+    },
+    {
+      "Key": "da99a976-081b-43f7-93fd-3a0c50cf58f8",
+      "Value": "\"Don't stay in his tent for too long. We have to get going soon.\""
+    },
+    {
+      "Key": "4e45ee52-2b66-4306-9fd7-2fa0a5ed9b69",
+      "Value": "\"Dugath is right, you're teasing me on purpose. Why?\""
+    },
+    {
+      "Key": "03d3eb7c-6f81-4afa-94fb-97f202935c80",
+      "Value": "\"If you want to go have fun, then go — I'm sure you can find someone here!\""
+    },
+    {
+      "Key": "00e74235-bbf3-47d1-8fd1-01459c555eae",
+      "Value": "\"Maybe there are some other signs that are not so easy to find?\""
+    },
+    {
+      "Key": "6df9b449-df35-41d9-8943-5acf8559fffc",
+      "Value": "\"Are there spells to find kindred blood?\""
+    },
+    {
+      "Key": "2e92eec1-a4e4-43e0-94a8-7dd8ca8d02b5",
+      "Value": "\"Maybe there are any indirect signs?\""
+    },
+    {
+      "Key": "1d986d08-79f1-4ec8-ab56-be1d26f3cb53",
+      "Value": "\"I'm afraid he's not going to help you.\""
+    },
+    {
+      "Key": "e07f7917-a79b-4cf9-9310-6ca68ffd647b",
+      "Value": "\"Then let's move on. We have more important things to do.\""
+    },
+    {
+      "Key": "ed46219e-3c0a-418f-bdae-124caa6192c4",
+      "Value": "{n}As you approach the barbarian leader, you can't help but overhear part of his conversation with a woman you recognize from the feast before. Her face remains hidden, and she sounds extremely worried.{/n} \"I beg you... I haven't seen my Sisters for several days! I'm afraid they may be in trouble!\""
+    },
+    {
+      "Key": "923260b0-2df6-47f2-b988-14951c92f2de",
+      "Value": "{n}The cleric shakes his head.{/n} \"This whole land is nothing but trouble. You want me to risk my life and the lives of my people to do your dirty work? Go ahead, ask Armag to give the order! Oh, but Armag stayed back in {g|Numeria}Numeria{/g}. Which means I'm the one making the decisions here.\""
+    },
+    {
+      "Key": "dacbb13e-be38-4bf3-ac31-8f03e35c6b67",
+      "Value": "\"But what about my Sisters? Something terrible could happen to them!\""
+    },
+    {
+      "Key": "98d2224e-653f-48f6-a5fa-25dc6975736a",
+      "Value": "\"You Sisters insisted on this expedition, so it's your price to pay. With your blood, not ours. Something terrible could happen, you say? It's too late for that — we already lost good men on this pointless journey to nowhere. Whatever Armag needs, it's not here, and it wasn't here from the start. But you didn't come here for him, did you? You came for your own reasons. You want some magic toy that once belonged to the ancient cyclopes. Well, I'm not leading my men to their deaths for that.\""
+    },
+    {
+      "Key": "048e46b3-bd0d-4d2c-8ace-a5920324e605",
+      "Value": "\"Dugath...\""
+    },
+    {
+      "Key": "5dfac2e2-2df8-480e-b5b8-1eeb30882a13",
+      "Value": "\"This conversation is over. You want help? Why not ask our guests to help you? If you can afford their rates, that is. As for me, my single remaining goal is to get my people home alive and well, and as soon as possible.\""
+    },
+    {
+      "Key": "260af0fa-2e7a-4064-b931-2bf8d9537cd9",
+      "Value": "{n}The woman leaves, sobbing. Dugath turns to you.{/n} \"Good morning! Well, let's get down to business, shall we? Introductions aren't necessary, Baron{mf||ess}, I know who you are. Let's discuss how we can be useful to one another.\""
+    },
+    {
+      "Key": "1ae0ef82-5140-4668-b581-a007f3e97b4e",
+      "Value": "\"How do you think?\" {n}Dugath grins.{/n} \"We keep an eye on everything that happens in the region. It's smart to know our potential employers... and our potential enemies.\""
+    },
+    {
+      "Key": "c401f95e-3314-4997-b6ba-47fd3c38ed4c",
+      "Value": "{n}The cleric frowns.{/n} \"I wish I knew. The Sisters are looking for something, but they won't tell anyone what it is. I guess it's some antique that used to belong to the cyclopes — some magic trinket or something. As for me, the only thing I'm looking for is a good reason to quit this nonsense and return to {g|Numeria}Numeria{/g} as soon as possible.\""
+    },
+    {
+      "Key": "ad4f1083-38f8-4370-8e3a-5f469115687f",
+      "Value": "\"I'm Dugath, son of Gordr and Harrith Three-Fingers, from the {g|Tiger Lords}Tiger Lords{/g} tribe. My entire life I've served {g|Gorum}Gorum{/g} — first on the battlefield, sword in my hand, and later with prayer as well. I've fought in battles all across the {g|River Kingdoms}River Kingdoms{/g}, in {g|Galt}Galt{/g}, {g|Ustalav}Ustalav{/g}... My price is high, my hand is steady, and my sword is deadly.\" {n}Finishing this speech, the man gives you a wide grin, showing off several missing teeth.{/n}"
+    },
+    {
+      "Key": "e31a0d35-ab33-46d7-a55d-3e479c9378ca",
+      "Value": "\"There are many tribes in {g|Numeria}Numeria{/g}. Each does its best to survive. The Black Horses sell adamantine, the Blood Pikes rob caravans, and the White Scars lick the boots of the {g|Technic League}Technic League{/g}. As for us, the {g|Tiger Lords}Tiger Lords{/g}, we're mercenaries — and the best ones in this part of {g|Avistan}Avistan{/g}. Remember this, Baron{mf||ess}! If you keep your throne long enough, we'll meet again — sooner or later. Fighting side by side, or otherwise... Who knows!\""
+    },
+    {
+      "Key": "d5f5fbd1-9171-4b8f-a678-f84298c6d833",
+      "Value": "\"Eons ago, stars rained down on {g|Numeria}Numeria{/g}. Pieces of metal, both dead and living ones, fell from the sky. Since then, metal monsters roam those lands, and the ground holds a wealth of adamantine, among other valuable things. Weaklings don't survive there. As for us Numerian Kellids, we grew up on that land — we drank its poisoned waters and breathed its toxic air. Metals from its depths infused our bones and muscles. No one can beat us. If there were anyone capable of bringing us down...\" {n}the cleric gives you a bitter smile,{/n} \"it would be ourselves.\""
+    },
+    {
+      "Key": "fba6b963-7869-4713-9146-89543fb0525a",
+      "Value": "\"{g|Varnhold}Varnhold{/g}, huh? Isn't that the village {d|Varn}Maegar Varn{/d} got from the {g|Restov}Restovic{/g} {g|Swordlords}Swordlords{/g}? I know Varn — he's not the best fighter, but also not the worst. As for what happened there — I wouldn't know.\""
+    },
+    {
+      "Key": "8d078082-14b8-408d-963e-4930bdef6b02",
+      "Value": "{n}The cleric utters a heavy sigh.{/n} \"Wish I knew who these witches are and where they came from. Our chieftain, the great Armag — spirits bless him — trusts them as if they were holy oracles. He sent us with them to these dead hills, and none but the Sisters and the chieftain himself know why. Who am I to confront the chieftain? So now we wander around these lands, chasing the unknown.\""
+    },
+    {
+      "Key": "c56a55a1-d4e7-4c6e-8ad5-3ddc10d9d7e6",
+      "Value": "{n}Dugath casts a grim glance at the surroundings.{/n} \"This whole land looks like one big burial ground.\""
+    },
+    {
+      "Key": "b6e08bd9-e800-4a42-8380-79ddd4519c57",
+      "Value": "\"I'm afraid we can't, at least not yet. I'd be happy to take a new job, but our chieftain's orders were strict: search the location and come back with a report. But if you could help us here — say, by finding whatever these witch Sisters are looking for, or maybe just making them disappear forever — mark my word, Baron{mf||ess}, the {g|Tiger Lords}Tiger Lords{/g} never forget those who help them.\""
+    },
+    {
+      "Key": "6d4d36f1-9faf-44c2-9092-5e51460af5a5",
+      "Value": "\"If we did, do you think we'd still be here now? The only thing to be found in these hills is one's own death. A group of my men entered a cave that turned out to be a spriggan den — they barely survived the encounter. Also, we found the ruins of some old tower — ancient as the world itself and useless as this expedition. There's nothing to be found here — except, like I said before, for one's own death.\""
+    },
+    {
+      "Key": "4d5d672a-8b34-4d74-96e5-32c5094c1386",
+      "Value": "{n}The cleric hesitates, trying to choose the right words.{/n} \"He's a strong fighter. Brave one. He says he's Armag, an incarnation of a hero from the old times. Just don't ask if I believe it. Armag is smart, he knows how to do business. If he'd only pay less attention to what those witches whisper, he'd be a perfect chieftain.\""
+    },
+    {
+      "Key": "fb82e122-b0dd-4485-861f-6cda8237c556",
+      "Value": "\"Our Lord in Iron doesn't like empty talk. He's the god of those who act instead of chatter. His palm blesses every sword ever crafted, and wherever at least two men meet in battle, he's there with them. Even orcs worship the God of Battle — and not only that, they imagine he's an orc, too! It's all nonsense, of course, but there may be a grain of truth to it. For anyone can aspire to be like him — a human, an orc, or even an elf... anyone who grips his iron to make his enemy bleed!\""
+    },
+    {
+      "Key": "9d93bd41-61aa-4069-84c6-2133935bdaf9",
+      "Value": "{n}Dugath frowns.{/n} \"None of your business, actually... But just to reassure you we weren't sneaking into your lands without permission, I'll answer: it was magic. The Sisters opened some strange tunnel, and we used it to get here from {g|Numeria}Numeria{/g}. {g|Gorum}Gorum's{/g} witness my words: I'm no coward, but I'd rather march for a month through all the {g|River Kingdoms}River Kingdoms{/g} than use that damned tunnel again. It was... strange. Wrong. Just like those witches themselves.\""
+    },
+    {
+      "Key": "4c766a23-7de5-441d-8b89-4c5ac7b41694",
+      "Value": "{n}Amiri grins approvingly and raises her clenched fist.{/n} \"Well said, old man! Truly well said! Blood for {g|Gorum}Gorum{/g}!\""
+    },
+    {
+      "Key": "327bf25a-f9c3-439b-9ca7-abf5dab77070",
+      "Value": "{n}Harrim opens his mouth, obviously wanting to say something, but just sighs and waves his hand instead.{/n}"
+    },
+    {
+      "Key": "83e5a972-e149-4076-9b12-df4e1d3271ac",
+      "Value": "\"You're one of ours, right? Don't deny it, I know a Gorumite when I see one!\" {n}The cleric grins.{/n} \"Perhaps sometime we'll get the chance to honor {g|Gorum}Our Lord in Iron{/g} together on the battlefield, who knows...\""
+    },
+    {
+      "Key": "caf7fecc-2778-4541-9d6d-eb44bcd77ac0",
+      "Value": "\"Not that much. Long ago, these lands were part of their empire. They were a great people back then, used unbelievable magic and possessed treasures beyond count. Ages passed, and their empire crumbled into dust. Cyclopes became wild and forgot all about what they once used to be... But the ruins — yes, the ruins remember everything.\""
+    },
+    {
+      "Key": "474413e3-bddd-4fa3-9a73-8f0a474535fb",
+      "Value": "\"Ask away, why not! I don't promise I'll answer, though.\""
+    },
+    {
+      "Key": "6db27bcc-43d5-4ae0-b033-13a610f814fa",
+      "Value": "\"You're welcome.\""
+    },
+    {
+      "Key": "0c07edd7-2105-4bd8-aa5e-e50ae0a6b6aa",
+      "Value": "{n}Octavia quietly mutters:{/n} \"And some deal in the slave trade...\""
+    },
+    {
+      "Key": "b40c4316-4c28-4912-a245-de1b898d5cbd",
+      "Value": "\"Yes, there's plenty of those too. And their numbers will never dwindle, so long as the {g|Technic League}Technic League{/g} runs the country!\""
+    },
+    {
+      "Key": "807bdce0-95c2-4fde-bd51-93982d1f6657",
+      "Value": "{n}Valerie frowns.{/n} \"Is this how you serve your liege?\""
+    },
+    {
+      "Key": "e68812df-25ad-4e9f-828b-f8cc05bed266",
+      "Value": "\"Don't confuse our chieftains with your kings, knight. It's the chieftain who swears an oath to the tribe, not the other way around! 'Liege', ha! I was one of the tribe's elders when he was in his first teeth!\""
+    },
+    {
+      "Key": "f84c6f64-5dfa-4c6d-bfb2-84043b9cbdaf",
+      "Value": "\"There it is, {g|Numeria}Numerian{/g} humor! For those who find gallows humor too cheerful.\""
+    },
+    {
+      "Key": "3cce6263-1cff-4a98-ba34-c2360c673bac",
+      "Value": "\"Indeed, they remember much — if only they were more eager to share!\""
+    },
+    {
+      "Key": "e9724f32-b297-41a5-8e03-f35f936746cf",
+      "Value": "\"'Disappear', you say? Ha ha hmmm... That can easily be arranged…\""
+    },
+    {
+      "Key": "4669ce16-8f1d-4519-a775-6e0b6f8809ac",
+      "Value": "{n}Octavia studies Dugath's muscular body with admiration.{/n} \"You have so many scars... You must have seen so much!\""
+    },
+    {
+      "Key": "144a3d58-d3bb-41af-9bff-e7877ed802a9",
+      "Value": "{n}The barbarian's face remains nonchalant.{/n} \"More than a few, yes. I just gave away my oldest granddaughter to be married. She's a little younger than you.\""
+    },
+    {
+      "Key": "99f2eb92-24df-4751-bc52-16282241378b",
+      "Value": "\"M-m-m? So you have vast experience — and not just on the battlefield?\" {n}Octavia casts a quick glance at your face.{/n}"
+    },
+    {
+      "Key": "3c70dd0f-0c9c-471a-b3a2-9e8c22a71e54",
+      "Value": "\"I was wondering the same thing.\""
+    },
+    {
+      "Key": "8026794e-b263-46e3-9471-b7715433acce",
+      "Value": "\"Listen, girl, I'm too old to fall for such tricks. If you want to tease your lover, good luck. But you'll have to find someone younger than me.\" {n}Dugath turns away.{/n}"
+    },
+    {
+      "Key": "90b1e14e-29a1-40a2-ac55-5ce2eaa0d067",
+      "Value": "\"We have a saying: if you want to live long — don't stand between a mother bear and her children, between a giant and his lunch, or between two lovers.\""
+    },
+    {
+      "Key": "a93c6296-399d-44df-9ac2-5ed95221154a",
+      "Value": "\"Hell no, all the beds in my tent are occupied.\""
+    },
+    {
+      "Key": "eaab5142-8e9b-4760-b745-64768f2cf65b",
+      "Value": "{n}Anger seethes in Octavia's eyes.{/n} \"I'm out of line?! You're out of line! I'm not your slave, got it? I'm a free person and I will do what I want!\""
+    },
+    {
+      "Key": "3efa8715-6b1f-4a6e-8ca6-f5ae0ebb6960",
+      "Value": "{n}Octavia follows the barbarian with her eyes, vexed, then looks at you. She eyes you like a naughty puppy, and for a moment you feel she's about to apologize, but instead the half-elf pouts.{/n} \"Fine! Go then! Hm!\""
+    },
+    {
+      "Key": "52080e2d-e5a8-4986-a8cd-e282c8dcd4e2",
+      "Value": "\"Tease you? It was nothing like that! I'm just... Well... It doesn't matter! Forget it.\""
+    },
+    {
+      "Key": "442d1adc-b415-4c5f-898f-b467bf310598",
+      "Value": "\"Naah... I'm not in the mood any more. What a mean old geezer!\""
+    },
+    {
+      "Key": "a059dfb5-c3f9-4391-bcef-e1af9849bf51",
+      "Value": "{n}Regongar frowns pensively.{/n} \"So, {g|Tiger Lords}Tiger Lords{/g}... Listen up! What if, say, some tribe abandons a child... Let's say, sells him to the {g|Technic League}Technic League{/g}... A little snotnose, no tattoos, no ritual scars. Is there any other way to find out where he's from?\""
+    },
+    {
+      "Key": "9da5f69e-8a89-4a2e-bc8d-113b312be968",
+      "Value": "\"That's a hell of a question! If there are no tattoos, no scars, nothing — then how would you identify him?\""
+    },
+    {
+      "Key": "f5de15ef-c647-4ac2-9f26-b078e637b9c0",
+      "Value": "\"Maybe there are — I don't know what I don't know. If so, only a very powerful wizard could do it. I don't know any of those.\""
+    },
+    {
+      "Key": "ff315fa7-d38a-4ee2-8c8b-f2cf0af83c8a",
+      "Value": "\"Hm, you're right. Hey, boy, open your mouth...\" {n}Dugath sticks his finger in Regongar's mouth, examines his teeth and then tilts his head down and feels his scalp. Finally, when the examination is over, the barbarian shakes his head.{/n} \"Your teeth aren't filed, and there's nothing on the head. I don't know any other signs.\""
+    },
+    {
+      "Key": "8850facc-eed1-4012-aae1-54b61db9bb79",
+      "Value": "\"There's only one indirect sign. If the tribe really sold their child to slavery — it was a tribe without honor or conscience. Only two of the larger tribes could be capable of this: the Sunder Horns...\" {n}The barbarian spits at his feet.{/n} \"... And the White Scars. But besides them there are dozens of small tribes in {g|Numeria}Numeria{/g}, and each of them has their own customs. Some aren't just slavers, but cannibals!\""
+    },
+    {
+      "Key": "37fd77da-b6a5-413b-be54-dbbd202c228d",
+      "Value": "\"I'm sorry, friend, but what you seek...\""
+    },
+    {
+      "Key": "94aec394-c1e7-4616-a530-470931b5eaed",
+      "Value": "{n}Regongar turns away resentfully.{/n}"
+    },
+    {
+      "Key": "1088718f-29f3-44db-97dc-28a7aacfd50c",
+      "Value": "\"I didn't get my hopes up. I just thought — what if? Heh...\""
+    },
+    {
+      "Key": "6f10f138-4adb-4f95-97db-8d47fce36ea0",
+      "Value": "\"I know. I always just think — what if?\" {n}Sighing, Regongar looks at you.{/n} \"Thanks for asking him, though. I never thought to ask!\""
+    },
+    {
+      "Key": "ab55d5e0-b44f-4172-90ca-97b4a76fcafe",
+      "Value": "\"Hard to miss someone like you, dragging that green beast around like it's just another compatriot.\""
+    },
+    {
+      "Key": "510741cb-15cf-4ce5-b1df-dad096b1df45",
+      "Value": "\"These longshanks know Nok-Nok already! That good, fame already rising. Just a little more, and Nok-Nok will be a real Hero!\""
+    },
+    {
+      "Key": "2c2f387b-8dba-49cc-a6e1-6f6d7d2770d8",
+      "Value": "\"So he's three times younger than you, but has achieved more?\" {n}Kanerah scoffs.{/n} \"That's why you're angry, old man.\""
+    },
+    {
+      "Key": "da6776c1-5f64-4428-8f11-c956090c7048",
+      "Value": "\"Very wise. It would be even wiser not to tell the {mf|lord|lady} of these lands that you consider {mf|him|her} an adversary.\""
+    },
+    {
+      "Key": "8bf62ac1-7a73-4f9a-b0ec-e7beefd6faa1",
+      "Value": "\"I understand how one could fight for justice, for something dear, for new knowledge, or simply for a better future. But battle for the sake of battle? Death for the sake of death?\""
+    },
+    {
+      "Key": "11b41399-9eae-4c08-b420-75cea6e858bd",
+      "Value": "\"A waste of gold and precious lives – that's war for war's sake. I understand the followers of Lamashtu better than those of Gorum!\""
+    }
+  ]
+}

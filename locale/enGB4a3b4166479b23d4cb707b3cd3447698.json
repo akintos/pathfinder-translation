@@ -1,0 +1,101 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "d44fb58d-b7bc-44fd-8246-795983967054",
+      "Value": "{g|Military5_1}[Choice effects]{/g} \"You must immediately prohibit this home-made booze among our soldiers, and arrest any who brew it. We need fighters, not drunken murderers.\""
+    },
+    {
+      "Key": "ad68ad4d-a25f-43f7-b9af-ed8e288af109",
+      "Value": "{g|Military5_2}[Choice effects]{/g} \"I provide my soldiers with weapons and ask them to kill. How they do it is their business. I won't make anyone drink, but I'm not prohibiting these potions either.\""
+    },
+    {
+      "Key": "75fe32f3-585b-4452-a419-ee64b27b82d0",
+      "Value": "{g|Military5_3}[Choice effects]{/g} \"I like the idea of these potions. Let every soldier drink them if they really help. Whatever they lack in power, they'll make up for with this magic.\""
+    },
+    {
+      "Key": "5836b028-3739-4bf5-b199-b2fcc6aa60f5",
+      "Value": "\"What is the potion's effect? Is it dangerous?\""
+    },
+    {
+      "Key": "2bbb5e49-5292-4278-a143-a559f19ac456",
+      "Value": "\"You're the commander. You decide.\""
+    },
+    {
+      "Key": "6b19a637-cae3-4fde-bd5c-b0fea2e95345",
+      "Value": "{n}Kassil seems to be lost.{/n} \"{mf|Your Grace|Your Grace|Your Highness|Your Highness}! I need your opinion. I caught a new recruit brewing dangerous potions for himself and the other soldiers. These potions turn them into fierce fighters for a while, but they dangerously twist their minds.\""
+    },
+    {
+      "Key": "4af8ca14-9c68-4dbf-b0b6-e7a6a137ac48",
+      "Value": "\"Instead of training and drilling, these lazy fools are relying on their potions. Many have already tried it, and the others are surely curious. I've arrested the cooks, but the officers are of a different opinion! They believe the potions might be effective, though they're quite unpredictable.\""
+    },
+    {
+      "Key": "303f7d7b-38c2-43eb-a058-f6a98b4ebc45",
+      "Value": "{n}Regongar has a strange look in his eyes, and his speech is confused.{/n} \"Ah well, how you doing, your chieftesty? You know, I've seen a miracle! {g|Gorum}Gorum{/g} himself honored one of my commanders... with a gift! He turns pathetic weaklings to fierce spawn of the {g|Abyss}Abyss{/g}, able to defeat anyone with their bare hands! You know how?\""
+    },
+    {
+      "Key": "66668747-26ef-4eb7-901e-94e55fb7855b",
+      "Value": "{n}Amiri looks annoyed.{/n} \"So, chief, it's about our soldiers. The pups are brewing magic potions of strength and bravery. It leaves no fear or doubt in their heads, just fury like the howling wind.\""
+    },
+    {
+      "Key": "815c270b-15ca-4299-835c-a3f85224b9c7",
+      "Value": "{n}Regongar laughs out loudly.{/n} \"Potions, he says! He got his fighters drunk! And they're not what you'd call fighters... All he's got is weaklings in his squad! But they all went like they were battle-crazy, fighting anyone who steps in their way! Pure gold, that's what this potion is.\""
+    },
+    {
+      "Key": "22d82757-cb8a-48b4-ad80-a02038b5a61d",
+      "Value": "{n}Kassil opens his mouth to object, but stays silent. After a while, he nods.{/n} \"I understand, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. Everyone is responsible for the power in their own hands. I will pass down the values of the {g|Swordlords}Swordlords{/g} to as many fighters as I can reach. Those who won't listen... Well, I feel sorry for them.\""
+    },
+    {
+      "Key": "44eb3ae1-c882-4a9b-a255-b437ae6436a7",
+      "Value": "\"I mean... Back in our tribe we used it some. But mostly it's for lazy bones and weaklings. A real fighter like me doesn't need that stuff. I wish there was more like me in your army. I would let them do what they want – and the potions do make them look like real soldiers. But I decided to ask you what you want.\""
+    },
+    {
+      "Key": "f68664b1-d84e-4799-bfef-4a931131dd95",
+      "Value": "\"The {g|Swordlords}Swordlords{/g} taught me to rely on myself and my skills – which were forged by sacrifice and struggle, not by drinking some potion. But you're not Aldori. You have every right to establish your own order. Must I bow to the officers' will, or will you trust me?\" {n}Kassil peers at you, sweat running down his temple.{/n}"
+    },
+    {
+      "Key": "e4d2cbf3-a700-43f0-8e8a-29c6d0098da0",
+      "Value": "{n}Amiri looks at you ironically.{/n} \"You southerners have strange ways, you know. I don't know whether you're their chief or their nanny, {name}. Are they adults with weapons and deadly skills, or naughty children you tell little rules. I still don't understand your ways here in the South, but I'll do what you told me to.\""
+    },
+    {
+      "Key": "577ddd66-4e67-44af-9ea3-fb234c83462c",
+      "Value": "\"That is right. Fighters must be responsible for themselves. Otherwise it's not a fighter, but just a bug wearing armor. If the potion is good for them, maybe it'll help them live. If not, then it's their own fault they died.\""
+    },
+    {
+      "Key": "1a02408b-7ca8-4b74-9b2e-e635758bc461",
+      "Value": "{n}Regongar looks at you with respect.{/n} \"Protecting your reputation, eh? Very wise. We don't want the neighbors spreading rumors that you're doping your fighters. I'll take care of everything myself. You'll have nothing to do with it. You are a deep thinker, {name}.\""
+    },
+    {
+      "Key": "3b174c3c-d988-434a-b2b6-13d1a96466be",
+      "Value": "{n}Amiri frowns.{/n} \"I'm not drinking this stuff. I decide for myself how I kill my enemies. But you're the chief. Your word is the law for the others.\""
+    },
+    {
+      "Key": "9ec13be3-e59c-4650-ac2f-ba5722768dac",
+      "Value": "\"Starting tomorrow, we'll have potion production in every camp. It'll turn your weaklings into real head hunters. Just point them at the battle and stay out of their way!\""
+    },
+    {
+      "Key": "14118d74-48a3-4d31-bd5d-87c11c3fa465",
+      "Value": "\"The stuff makes your arms stronger and you vision clearer, but it clouds your mind. It befits a savage – a goblin or a bandit – but not a fighter who goes to battle with a cool head.\""
+    },
+    {
+      "Key": "1926d8b5-662a-484f-958a-2593daafffb8",
+      "Value": "\"It makes you mad. Makes you want to fight. And it makes you strong as a bear. And there's something else...\" {n}Amiri frowns and waves her hand.{/n} \"Oh, never mind about that.\""
+    },
+    {
+      "Key": "659ba4a9-c6d5-45ef-9d66-c82d16ecf3e2",
+      "Value": "{n}Regongar's eyes grow dead. The half-orc looks away from you.{/n} \"The quietest time is just before the thunderstorm... And then... drip, drop... plip, plop... And then it bursts! And flashes! Your soul groans, and whizzes, the wind howls, and the thunder strikes!\" {n}Regongar licks his dry lips. He seems unaware of the electricity arcing between his fingers.{/n} \"And you are the storm! No one can stop you. That's how it works. I tried it. I know what I'm talking about.\""
+    },
+    {
+      "Key": "ff732643-b99b-4fd7-a499-1a4d5a6e04e0",
+      "Value": "{n}Amiri's gaze is incinerating.{/n} \"I want to stay out of it. I'm their commander, not their nanny. Let them drink whatever they want to as long as they're ready to fight.\""
+    },
+    {
+      "Key": "1edc2fd2-49f8-43a7-8682-2e9995408c60",
+      "Value": "{n}Regongar's mania suddenly fades. He speaks quietly.{/n} \"I've been thinking... Let's make all our fighters take these potions. Then you'll have an army of real cutthroats. They won't care about death, pain, fear, or really have any feelings at all. They'll kill without hesitation. Burn villages to the ground without a second thought. What do you say?\""
+    },
+    {
+      "Key": "2202e113-0d1a-4cfd-a03b-3fa89a20ad61",
+      "Value": "\"I appreciate your trust, {mf|Your Grace|Your Grace|Your Highness|Your Highness}.\" {n}Kassil pauses, and then continues in an earnest tone.{/n} \"I am glad that you've taken my views to heart. The potions will be prohibited as of today. Any who produce them will be punished.\""
+    }
+  ]
+}

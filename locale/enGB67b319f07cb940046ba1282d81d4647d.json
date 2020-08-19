@@ -1,0 +1,173 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "7c1a62c8-6cc3-4a7c-8837-9ab37959d8c3",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "73346472-1dd1-4220-9533-d3a833d24eaa",
+      "Value": "\"Yes, I'm looking for a missing boy. Where is he?\""
+    },
+    {
+      "Key": "cfdf0d39-e21b-49ca-b907-83783c24b93c",
+      "Value": "\"Youngling? You have a human child here?\""
+    },
+    {
+      "Key": "3d940ad8-7aef-47b5-bc6d-4436dfbe1b17",
+      "Value": "\"You seem unhappy. Is something wrong?\""
+    },
+    {
+      "Key": "6b70b6fc-5ad6-407e-8fa9-08112ffaef08",
+      "Value": "\"Who do you believe me to be?\""
+    },
+    {
+      "Key": "3293bb2b-1ecb-427e-b6c3-012c3f01d42b",
+      "Value": "[Take Kagar to Count Shimmerglow] \"Follow me.\""
+    },
+    {
+      "Key": "486af58a-aa40-49b2-a29b-7d7973affca4",
+      "Value": "[Attack] \"I've killed your entire tribe. Now it's your turn!\""
+    },
+    {
+      "Key": "f969c7d4-924f-4426-96e9-ac70ad84c0b7",
+      "Value": "[Leave] \"Farewell.\""
+    },
+    {
+      "Key": "1e94a692-45fa-4b49-92eb-a942c6086d66",
+      "Value": "\"Tell me about your tribe.\""
+    },
+    {
+      "Key": "c763c93e-842c-4f5d-87c4-9990b953b360",
+      "Value": "\"Why don't you go to the village? Were you banished?\""
+    },
+    {
+      "Key": "4ff8f4d5-82d9-4720-8a24-395402c19363",
+      "Value": "[Take Kagar to Count Shimmerglow] \"The Great Ancestor ordered me to bring you to him. Hurry.\""
+    },
+    {
+      "Key": "0c9a6da6-d1fd-43a9-83d1-8247e2d5d178",
+      "Value": "[Go to the Count with Kagar] \"You were right — an evil spirit is pretending to be your Great Ancestor. We want to stop him — come with us!\""
+    },
+    {
+      "Key": "bbacb592-20d0-43be-81af-41c994b927a1",
+      "Value": "[Leave] \"I have to go.\""
+    },
+    {
+      "Key": "be0b74f8-ba09-4bb2-ac7c-b67ef5b3a7ad",
+      "Value": "\"People without history are like wild animals... Wise words. Like something one of Irori's clerics might say in a sermon.\""
+    },
+    {
+      "Key": "ab8ae4fe-f17e-4039-b2f3-ef9cda9dadd8",
+      "Value": "{n}An old lizardfolk is muttering something under his breath.{/n}"
+    },
+    {
+      "Key": "c3f44539-e015-4c53-bb47-4e8cadf406d3",
+      "Value": "{n}An old lizardfolk looks up at you with dim eyes.{/n} \"I know at once who you is, warmblood. I know why you come, yes...\""
+    },
+    {
+      "Key": "1da9f8b8-29d7-4586-b041-67b7bffb048c",
+      "Value": "\"Inside village. Alive. For now. All old Kagar know. Kagar not go village in long-long ago...\""
+    },
+    {
+      "Key": "34fef902-9a42-435e-82e9-9fd2603a5280",
+      "Value": "\"Kagar have no one. Kagar not go village in long-long ago. But youngling there, yes. Still alive. For now.\""
+    },
+    {
+      "Key": "34f3bb29-217e-425b-868e-816234a64fda",
+      "Value": "\"Old Kagar rattler. Play rattle, sing songs, tell tales. Kagar know many things. Where tribe come, how live, who win...\""
+    },
+    {
+      "Key": "8a6e9e1b-0727-4e03-9879-56153054b00e",
+      "Value": "{n}The old man sighs heavily.{/n} \"Around dozen moon ago, on Forbidden Island in middle {g|Candlemere}Candlemere lake{/g}, bright light appear. Then spirit come to Chieftain Vesket. Tell he Great Ancestor, invincible hero Strishchak. Vesket believe.\""
+    },
+    {
+      "Key": "aba780f1-1298-449c-9ce0-017173655915",
+      "Value": "\"You look for your youngling, yes? He here. Alive. Other time, we eat him long ago, but Longtail tribe gone crazy. Maybe you save him. Maybe not. Maybe too late save anyone, yes...\""
+    },
+    {
+      "Key": "7cac337e-cedd-495d-b201-4b7373d377ad",
+      "Value": "\"You Ashshas-ta-ha. Our death. You take whole tribe — take old Kagar now!\""
+    },
+    {
+      "Key": "0158be7f-c525-49cc-abbc-313742cc9c97",
+      "Value": "\"Wait...\" {n}the old man says as you turn away.{/n} \"Why go? Why leave old Kagar alive?\""
+    },
+    {
+      "Key": "7529cf0e-3548-4bb9-972a-985bc803c173",
+      "Value": "\"Not banish, no. Kagar flee on own. Evil spirit come to tribe, pretend be Great Ancestor, destroy Longtails. Chieftain believed spirit — tribe believed chieftain. Old Kagar only one nobody believes, yes...\""
+    },
+    {
+      "Key": "5dca60ce-ca95-48bc-bfc0-4efd261717c9",
+      "Value": "\"People without history like wild animal. One day alive, next day dead. Kagar keep memory, tell stories to young.\""
+    },
+    {
+      "Key": "29ef65d5-03b4-40b5-bc6e-dbc400256a37",
+      "Value": "\"Lots to tell about Longtail tribe. Old, old tribe. Warmbloods not come yet, while Longtails built great empire, yes! Warmblood come and go without trace, while Longtails stay here as long as moon rides skies. Tales tell so. That what Kagar sing to tribe.\""
+    },
+    {
+      "Key": "1526604c-8692-403a-a7a5-c551b43a7b84",
+      "Value": "\"If tell truth, Longtails small tribe. Wage war with Thickskins for long time, rarely won. If not make peace with warmbloods, if not learn their language and buy their sharp iron, maybe tribe die long ago, yes...\""
+    },
+    {
+      "Key": "77b0c528-633e-468c-aad0-984a54cbc2f7",
+      "Value": "\"Spirit tell now we win everyone. True, every battle with Thickskins, they freeze in place or get scared and run! Vesket say we now return old glory. But spirit demand odd things. Tribe scared, not understand...\""
+    },
+    {
+      "Key": "f6b55b62-d050-4333-a92e-88501c216bd0",
+      "Value": "\"Old Kagar think, that not ancestor, that evil spirit. Tribe in fear, and spirit eat fear, become very-very strong, yes! Eat tribe from within. But Vesket trust spirit, do what spirit order. And tribe afraid but listen to chieftain. How save such stupid tribe?\""
+    },
+    {
+      "Key": "eb39f029-72fb-4137-acc6-c5b5df91f12e",
+      "Value": "\"Now spirit call himself Great Ancestor, live in Spirit Hut, and tribe go mad. Can Longtails be saved? Kagar not know...\""
+    },
+    {
+      "Key": "2fbc049b-758d-4290-959e-babdf7bafcb5",
+      "Value": "\"Kagar know in heart that Great Ancestor is false — Kagar wish him dead! Flee from village, live in woods. Walk around village, sing songs, try call to tribe's wisdom... but where that wisdom?\" {n}The old lizardfolk waves his hand, emphasizing his frustration.{/n}"
+    },
+    {
+      "Key": "786ed1e0-c910-4355-84bc-e03b07086e79",
+      "Value": "\"Kagar know magic. If come to Spirit Hut, can make evil spirit visible! But spirit know too. If Kagar enter village, he not live long.\""
+    },
+    {
+      "Key": "94a54356-1083-4c74-a21b-b78043a0d807",
+      "Value": "\"Well, must be fate of tribe. Lead on, warmblood.\""
+    },
+    {
+      "Key": "1947832d-c61d-473c-94f3-f69e9d59d2bb",
+      "Value": "\"Listen carefully, warmblood. When you come Spirit Hut, not be scared. Old Kagar make magic there. Evil spirit become visible. Then you hit it! Main thing is not be scared, yes!\""
+    },
+    {
+      "Key": "79383b5d-6e35-4a56-87c3-0abfcef5b75d",
+      "Value": "\"Well, warmblood, lead way!\""
+    },
+    {
+      "Key": "9a6fa76e-9df0-44e1-856e-3bb8062984a6",
+      "Value": "\"Your words are wise. You know I'm a rattler too! We call it a bard. Will you sing me the songs of your tribe? I can sing you ours!\""
+    },
+    {
+      "Key": "f79a7e37-f155-46b1-8941-c5be23a8dca5",
+      "Value": "\"Bad time for song. Need save tribe now. Then can sing.\""
+    },
+    {
+      "Key": "515573fb-56e9-4a19-bca5-fb5fbe025cdd",
+      "Value": "\"Longtail no worship warmblood gods. But truth is truth, wisdom is wisdom. History is history.\""
+    },
+    {
+      "Key": "1fb5aa6c-e0fa-49eb-9835-061c9d283a2f",
+      "Value": "{n}The dark lizardfolk's eyes light up.{/n} \"A-a-ah, Kagar knew! There still hope for Longtail tribe!\""
+    },
+    {
+      "Key": "ad2ffc63-6e3e-4c6f-9b9b-046536cbe933",
+      "Value": "{n}Kagar looks at you with a sneer.{/n} \"Thickskin tribe tell not trust warmbloods. Tell us, you can be friends with warmbloods as much as want, but they betray and destroy. Kagar not believed. Seems Thickskins were right.\""
+    },
+    {
+      "Key": "52a48b3b-a850-42d6-8251-d8382515974f",
+      "Value": "{n}The old lizardfolk follows you silently and obediently.{/n}"
+    },
+    {
+      "Key": "1c452455-5a5d-49c9-bbe8-cb28ec3e52b6",
+      "Value": "{n}An old lizardfolk is wandering outside the village walls. He stares at you with shiny, beady black eyes.{/n} \"Warmblood... Old Kagar knew you come, yes!\""
+    }
+  ]
+}

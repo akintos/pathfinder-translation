@@ -1,0 +1,189 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "54ea34ca-8a9e-46ff-94d8-d8b8a954e61a",
+      "Value": "\"We cleared out a nearby lair of trolls who were resistant to fire, somehow. I'd like to be sure new ones with the same resistance won't appear. Do you happen to know anything about the matter?\""
+    },
+    {
+      "Key": "3f75ab3b-336a-45ce-aba3-72d0cc374848",
+      "Value": "[Accompany Bartholomew] \"Lead the way.\""
+    },
+    {
+      "Key": "154ef7c7-7311-44cb-8860-6715a3db7007",
+      "Value": "\"You go ahead. We need to prepare for the battle first.\""
+    },
+    {
+      "Key": "dca35f2f-91fc-47f7-9fc9-25cab1a7e80c",
+      "Value": "\"Do you know anything about the local trolls who are resistant to fire?\""
+    },
+    {
+      "Key": "c8d339bb-e739-42cf-9428-2f28af06d895",
+      "Value": "\"You seem to be an educated man. What are you doing in these woods?\""
+    },
+    {
+      "Key": "3076f029-b4de-44f5-a412-0d1ae700a468",
+      "Value": "\"Those traps in the woods — are they yours?\""
+    },
+    {
+      "Key": "3e6cb00c-39fa-48fd-971e-1e748a30f385",
+      "Value": "\"The rock troll in the woods nearby — is it real?\""
+    },
+    {
+      "Key": "aaef9153-d96f-4450-9dfc-bac9066e3695",
+      "Value": "\"What about local bandits? Do they bother you here?\""
+    },
+    {
+      "Key": "7064d55c-5716-4418-8169-f58499887e04",
+      "Value": "\"Sometimes even those who can read get caught in your traps. A trader by the name of Waine, for instance.\""
+    },
+    {
+      "Key": "1dfc8bbc-4381-48ec-9141-573d150b1b4b",
+      "Value": "\"Thank you for satisfying my curiosity.\""
+    },
+    {
+      "Key": "de2783cf-5172-44ed-9281-9845777ff14b",
+      "Value": "\"A question about the traps...\""
+    },
+    {
+      "Key": "2f7ae2fc-2e61-4f59-84a0-242e5e4225a9",
+      "Value": "\"Have you executed my order?\""
+    },
+    {
+      "Key": "d8e07fec-3090-408e-b6b0-76690f928f29",
+      "Value": "\"How's your research going?\""
+    },
+    {
+      "Key": "42d2b699-e019-4c37-ad67-1e601f4decb3",
+      "Value": "\"Well, good luck with your work.\""
+    },
+    {
+      "Key": "a3719dfd-1cc8-4020-895b-75766a733c4b",
+      "Value": "\"Your experiments aren't safe — stop them immediately. And kill the troll.\""
+    },
+    {
+      "Key": "cf61470c-db57-4756-bb18-50eb4a81d428",
+      "Value": "\"I've never heard anything like it! I hope none of the beasts survived, otherwise I'll have to revise my defenses...\" {n}Bartholomew quickly goes silent, frowns, and closes his eyes.{/n}"
+    },
+    {
+      "Key": "0d26cb76-4e33-4ff5-90ba-b3d06c7910b6",
+      "Value": "{n}Bartholomew meets you with a long, sullen gaze.{/n} \"Good day... my {mf|baron|baroness}.\""
+    },
+    {
+      "Key": "587faf63-e8fa-49f9-b197-c98673ea7bad",
+      "Value": "\"I've never heard anything like it! If this is true, I'll have to revise my defenses...\" {n}Bartholomew suddenly goes silent, frowns, and closes his eyes.{/n}"
+    },
+    {
+      "Key": "e1291386-31f3-4574-80dc-c8e59679d552",
+      "Value": "\"Your Grace, I'm afraid we must intermit that conversation for now. A moment ago, a troll was caught in one of my fire traps... and it was unharmed. I suggest that a chance to explore its corpse would better equip me to answer your questions.\""
+    },
+    {
+      "Key": "13709b2c-099e-4642-b975-a9e6b19490b4",
+      "Value": "\"My liege, I humbly request your protection. Please, follow me.\""
+    },
+    {
+      "Key": "3cf69df6-47e6-49fb-ab54-36e45c3cc8d7",
+      "Value": "\"Make haste if you can. It's west of here, not far. You can't miss the spot.\""
+    },
+    {
+      "Key": "4685a877-f3f4-4850-a2a6-e9e06c3a5c36",
+      "Value": "\"I'm simply a humble researcher in the field of esoteric sciences, and I've chosen this location to work in peace, away from the noise of the city. When the environment is quiet and the air is fresh, ink just begs to be set to paper!\""
+    },
+    {
+      "Key": "a57e2a43-98dc-4807-9e48-c4d540d87ddb",
+      "Value": "\"I'm simply a humble servant of my {mf|baron|baroness},\" {n}the wizard answers coldly.{/n}"
+    },
+    {
+      "Key": "6c4bf65d-2744-47de-9671-9cb11b601915",
+      "Value": "{n}Octavia laughs.{/n} \"And no rude neighbors to complain about explosions, smoke, or ghastly screams!\""
+    },
+    {
+      "Key": "618bf2d4-0a5b-41a8-8dbd-158a45c252a2",
+      "Value": "{n}Octavia glares at the wizard.{/n} \"Researcher…? More like torturer!\""
+    },
+    {
+      "Key": "4f3dd887-a6f7-4e46-b10c-99751a65b673",
+      "Value": "{n}Bartholomew gives a wry smile.{/n} \"Yes, that's equally valuable.\""
+    },
+    {
+      "Key": "4b60189e-a735-4c8b-bfa7-a5bf6dda036c",
+      "Value": "{n}Bartholomew pretends not to have heard the comment.{/n}"
+    },
+    {
+      "Key": "9b119752-d430-4a92-aaca-3f96b5c9465c",
+      "Value": "\"They're mine, yes. You see, while I'm happy to welcome guests, I prefer those who are capable of coherent speech. I've neither interest in nor desire to waste my time with fighting off every monster that comes across my dwelling. But I did leave a safe passage for those who can read. I even installed a sign. You must have seen it.\""
+    },
+    {
+      "Key": "9e37cbff-eed3-4f06-89be-e8001ee33d34",
+      "Value": "\"I doubt I can tell you anything of interest,\" {n}Bartholomew mutters without looking you in the eye.{/n}"
+    },
+    {
+      "Key": "00ce24ed-94e6-44a7-9e5c-1b54b18782ce",
+      "Value": "{n}Amiri frowns.{/n} \"So what if someone can't read?\""
+    },
+    {
+      "Key": "c96c2ddb-5ad3-4627-894c-d56a7ab82f41",
+      "Value": "{n}Bartholomew shrugs.{/n} \"Literacy is one of humanity's most significant achievements! Trust me, my traps aren't even close to the worst dangers threatening anyone who chooses to remain in the darkness of ignorance. Though, I suppose if I ever meet a painter here, I could ask them to add a picture to my warning sign.\""
+    },
+    {
+      "Key": "ee4789b7-3a05-4e50-b655-bc65dba4c667",
+      "Value": "\"I'm always happy to help those who seek knowledge.\""
+    },
+    {
+      "Key": "e6123f84-ed7e-465b-8844-742bf1b63267",
+      "Value": "\"Oh, yes. I'm quite proud of that one, actually. You see, trolls rarely perish in traps. If they manage to break free from one, their animal cunning usually helps them avoid further traps. But that rock troll was trapped just before dawn, so he had no way to avoid the sunrise. Now he just stands there, serving as a demonstration of sorts... It's useful both for my research and as a ward against unwelcome guests.\""
+    },
+    {
+      "Key": "df70cee4-06f9-4fa2-9e0e-fea77f3f64ed",
+      "Value": "\"They tried once. Now they make every effort to stay away. They only show up if they don't have any other options, and even then they just politely ask me to enchant their arrows.\""
+    },
+    {
+      "Key": "df33dc2d-186a-4c1a-ac61-447ce2eac718",
+      "Value": "\"And you're happy to help them?!\""
+    },
+    {
+      "Key": "dc07cd08-c6b4-4ac4-bc8d-2e84c651b59d",
+      "Value": "\"Just because someone asks me to do something doesn't mean I actually do it,\" {n}Bartholomew says with a shrug.{/n} \"Though to be honest, in these parts, you can't really tell a local bandit from a peaceful hunter based on looks alone.\""
+    },
+    {
+      "Key": "64a921fa-717a-4088-b9b3-807983afcdd2",
+      "Value": "\"Oh, Waine... Frankly, I wonder what was going on in his brain that he'd just rush into the forest, being perfectly aware of the danger. Obviously, if you hadn't rescued him, I would... just a bit later. After he'd learned his lesson.\""
+    },
+    {
+      "Key": "1f0e15dc-9ba6-4332-bd77-33de84e365e7",
+      "Value": "\"To my utter regret, reading skill alone doesn't reflect the capacity for critical thought. Waine visited several times and was warned of the traps repeatedly. I pity the fellow, but his fate is his own fault, wouldn't you say? It would be like if someone were to snatch a flask of acid from my table and take a sip; I could hardly be held responsible for their physical distress, now could I?\""
+    },
+    {
+      "Key": "ae9ed537-e3c8-4f04-a12d-8ed258fd2528",
+      "Value": "{n}Bartholomew nods, ready to satisfy your curiosity.{/n}"
+    },
+    {
+      "Key": "2b19e91e-a87d-4be4-8bae-9120800455b8",
+      "Value": "\"Yes, Your Grace,\" {n}Bartholomew mutters.{/n} \"I released the beast into the woods. If you meet it, give it my regards.\""
+    },
+    {
+      "Key": "fdc642c6-4afa-4892-9d3b-a25cc086be55",
+      "Value": "\"Yes, Your Grace,\" {n}Bartholomew mutters.{/n} \"You've seen it with your own eyes. At least I managed to gather some useful data from its corpse. I hope you're satisfied.\""
+    },
+    {
+      "Key": "3f175e5d-71f2-4a72-8bc4-59176fbfa919",
+      "Value": "{n}Octavia smiles at Bartholomew, keeping it just short of a gloat.{/n}"
+    },
+    {
+      "Key": "459f10fe-5892-4cb1-8ddc-ea019d0f0970",
+      "Value": "{n}Octavia throws a withering glance your way.{/n}"
+    },
+    {
+      "Key": "e32f2312-5508-4724-b4b4-a50094b3b345",
+      "Value": "\"I won't lie, there's still much to be done — years of research. That's no small task for me and for my... assistant. Still, one must be ready to make sacrifices for knowledge!\""
+    },
+    {
+      "Key": "b182c61a-532a-45cc-a2e5-63a333b68574",
+      "Value": "\"Thank you, Your Grace!\""
+    },
+    {
+      "Key": "15d5db5f-3368-4f43-bf3f-a6e7e278c528",
+      "Value": "{n}Bartholomew's eyes widen — then they narrow.{/n} \"I don't dare object… Your Grace.\""
+    }
+  ]
+}

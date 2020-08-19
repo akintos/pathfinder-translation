@@ -1,0 +1,193 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "3428e654-fc1a-4451-b4ab-ba03fd1c66f8",
+      "Value": "\"Stand. We need to talk.\""
+    },
+    {
+      "Key": "cb347a7f-9d50-45e4-a5be-477f69243bb9",
+      "Value": "[Finish Armag off] \"This is the end.\""
+    },
+    {
+      "Key": "a7e93d88-2a27-4590-8faf-8125cac9e848",
+      "Value": "\"What are you doing here?\""
+    },
+    {
+      "Key": "63c6388f-fa01-4cd4-8ebc-9783f3b4cae9",
+      "Value": "\"Why did you kill the Sister?\""
+    },
+    {
+      "Key": "130e1d2a-f112-47c0-9855-e1b5641bea23",
+      "Value": "\"Why did you kill your people?\""
+    },
+    {
+      "Key": "fae8fb9d-c6d6-499c-8cb0-cc3977f7cc40",
+      "Value": "\"Why did you attack Brevoy?\""
+    },
+    {
+      "Key": "690ed7f8-2d86-4ced-afa8-aa408d61b6a8",
+      "Value": "\"What will you do if I let you live?\""
+    },
+    {
+      "Key": "208ac8a5-4374-41bc-bfcb-4e22163c70a6",
+      "Value": "[Finish Armag off] \"Die.\""
+    },
+    {
+      "Key": "bc4879b7-fad7-4080-ac40-c8b9a49b8b85",
+      "Value": "\"Wait! Before you die, I need to ask you something...\""
+    },
+    {
+      "Key": "2bb32ad5-6017-4733-87ba-4275dfa93e12",
+      "Value": "[Finish Armag off] \"I'll finish you myself.\""
+    },
+    {
+      "Key": "d3a6ff4f-a892-4ce5-bc32-8d45fbe7e691",
+      "Value": "\"That's a coward's death! You whine and complain that you're not Armag, that you have no destiny — you should be thankful! The Armag of old didn't have some destiny, he made it himself! And you can, too. Pull yourself together, show this ancient ghost who's really a great chieftain... but do it yourself, without some witch's trickery!\""
+    },
+    {
+      "Key": "75524c40-9e40-4859-ba81-bad2591742cf",
+      "Value": "\"Do it. You may not be the real Armag, but you can still have a heroic death.\""
+    },
+    {
+      "Key": "5efd8ad2-d60a-407e-a711-c0f5cacd7463",
+      "Value": "\"I want to ask you something else...\""
+    },
+    {
+      "Key": "5bb0ba71-cd4f-4767-b047-e398ed68e78c",
+      "Value": "\"You're free. Go, make your own destiny.\""
+    },
+    {
+      "Key": "6e3b0e1b-7c75-4706-9002-7b54d8eab896",
+      "Value": "[Finish Armag off] \"Your destiny ends here.\""
+    },
+    {
+      "Key": "bd78c71b-313e-450b-8dc0-8c5f04998299",
+      "Value": "[Fraternize with Armag] \"Brother{mf|s| and sister}.\""
+    },
+    {
+      "Key": "7c0b1198-2a2e-4445-9e9e-9fe3d84c7674",
+      "Value": "\"No need. Go, Armag. You're free.\""
+    },
+    {
+      "Key": "8b1fa6e4-ac7d-462b-8ca6-d2f9f3453b74",
+      "Value": "\"Who are these Defaced Sisters?\""
+    },
+    {
+      "Key": "0a7f56f4-552f-439e-a847-fa9403debf4a",
+      "Value": "{n}The exhausted barbarian falls to one knee, the blood seeping from his wounds falling to stain the floor. He doesn't look at you. His gaze wanders around the room until it stops on the bodies of his tribesmen.{/n}"
+    },
+    {
+      "Key": "c55e48ae-81ab-4096-b700-a33ed29ddbdf",
+      "Value": "{n}You raise your hand and deal the final blow.{/n}"
+    },
+    {
+      "Key": "413357f7-8202-477a-a423-17c3306ae014",
+      "Value": "{n}With great difficulty, the barbarian regains his feet. His bloodshot eyes dart about nervously, studying you from head to toe.{/n}"
+    },
+    {
+      "Key": "e16b0773-37f3-4b34-9b5d-9ba670f05826",
+      "Value": "\"Armag, the great chieftain of the past, was buried here. Armag, the great chieftain of the present, was born again. He had to return here to reunite with his soul, the one sleeping within the sword. To become whole again. To restore his power. To reign over the land again. To challenge the gods again. That's what the eight mothers told Armag. They lied. They were lying all along!\""
+    },
+    {
+      "Key": "7fa8a06b-fff9-4d36-95a5-4e5668b8d054",
+      "Value": "\"Armag took the sword and spoke to Armag's soul. The sword said Armag was not Armag, but just an impudent brat! Ancient Armag's rage blazed like a torch in the night! All that was hidden was unveiled at once — everything! The eight mothers raised Armag, and since childhood, they kept saying Armag was a great man with a great destiny... Lies, lies, and more lies! Armag is not Armag! Armag is just a toy for eight witches! But no more. Armag's life is over, but at least he dies free from all the lies!\""
+    },
+    {
+      "Key": "c508eada-3b1b-42b9-a52b-7c3dc0be80c9",
+      "Value": "{n}The barbarian stares at the bloodstained sword in his hand, raising the shining blade to see his own reflection in its surface. His voice grows dull and hoarse.{/n} \"Ancient Armag, great chieftain of the past... Invincible hero, {g|Gorum}Gorum's{/g} champion... He served only Gorum. Not his people, no — only Gorum. When he killed, it was not to feed his people, not to gain glory, not for wealth, not for power... No, it was the other way around. He fed his people to make them better killers.\""
+    },
+    {
+      "Key": "14283f3d-80f3-4b4b-be9f-506a417f3834",
+      "Value": "\"The blade was thirsty. It quenched its thirst on the blood of Armag's fellow tribesmen. Ancient Armag was a great warrior, that much is true. But he was a bad chieftain. He would send his people to their deaths for no good reason. Armag wasn't a hero. Armag was a kinslayer.\""
+    },
+    {
+      "Key": "460b1615-cdd5-4e09-a1d1-b450ccff88f2",
+      "Value": "\"The eight mothers used to say that today's Armag is a great chieftain, just like ancient Armag. He would defeat anyone he wanted as soon as he could find his soul. They said all he needed to do was find the tomb, then he could conquer {g|Restov}Restov{/g} — conquer all of {g|Brevoy}Brevoy{/g}. Just find the tomb... But did ancient Armag need some stupid tomb? No! He just fought and won! If Armag was really Armag, he would be bound to win!\""
+    },
+    {
+      "Key": "9063ee4c-3f67-4555-84f5-de380111ff18",
+      "Value": "\"But this Armag is not that Armag. He led his people into a trap. Realized too late that he won't be able to take {g|Restov}Restov{/g}. And that's when the eight mothers told him they had found the tomb. Armag entered the tomb to become stronger, to save his people, to bring them glory and riches! But all he found was death. Ancient Armag and present Armag have that in common.\""
+    },
+    {
+      "Key": "1923c97d-8733-4753-82ad-34a0756a995c",
+      "Value": "{n}The barbarian presses the tip of the sword against his broad chest.{/n} \"Nothing. This sword is cursed. It {d|c41 Tomb Late}controls{/d} the hand that wields it. If Armag is freed, he'll kill again, just as in the past. Not for glory, not for riches — just killing for the sake of killing. This cannot be. Armag must be buried in Armag's tomb.\""
+    },
+    {
+      "Key": "84fd5e88-b944-42d4-be87-7776125ec5b4",
+      "Value": "{n}The barbarian lowers his sword. His eyes avoid you, wandering around the room until they rest on the bodies scattered on the floor.{/n}"
+    },
+    {
+      "Key": "987eab08-7aa0-4f2c-a470-c54d7448fc84",
+      "Value": "{n}Armag nods to you, plunges the blade deep into his chest, and silently falls to the floor.{/n}"
+    },
+    {
+      "Key": "5579f677-ab54-4085-b23a-0ed1142b5858",
+      "Value": "\"Ask. Armag will answer.\""
+    },
+    {
+      "Key": "f1d5c613-d192-49d0-9a49-7a823d527743",
+      "Value": "\"The one holding Armag's life in {mf|his|her} hands didn't take it. This cannot be forgotten! Let us fraternize! Become sworn brother{mf|s| and sister}!\" {n}Armag draws Ovinrbaane's edge across his palm, then extends his bleeding hand to you.{/n}"
+    },
+    {
+      "Key": "c77f9d0c-715e-41ab-84d2-e149a3cafb6b",
+      "Value": "{n}The barbarian lowers his hand.{/n} \"Friends, then. Should we meet again, Armag will not forget.\""
+    },
+    {
+      "Key": "11044955-cd0c-4745-8dec-460e7ec819a9",
+      "Value": "{n}You run your palm along the blade of the ancient sword and shake Armag's hand. For the first time, he looks directly into your eyes.{/n} \"Brother{mf|s| and sister}.\""
+    },
+    {
+      "Key": "7c0c2db2-2a35-4312-a4ff-cccbb336dc94",
+      "Value": "{n}Armag sheathes Ovinrbaane and leaves the tomb.{/n}"
+    },
+    {
+      "Key": "60d6211f-158a-42d3-99a6-1f268ef7d39a",
+      "Value": "\"The eight mothers fed Armag, raised him, taught him everything he knows. Since he was born, Armag knew no other family and no other tribe. They told Armag of his great past and his even greater future... And every word was a lie. Armag was just their trained dog! He jumped when told, growled, tore their enemies to pieces... He had no idea for what or why he was fighting!\""
+    },
+    {
+      "Key": "57fa3cce-a1ec-4026-b64a-8b707c2f8321",
+      "Value": "\"One more thing... Once, Armag heard them talk about another Sister. The one they all serve. When he asked, they lied, said there was no ninth Sister, that Armag had misheard them. He should have understood then that they weren't to be trusted. Those who lie once are not to be believed twice!\""
+    },
+    {
+      "Key": "e6266336-c889-409b-831c-8c65ce1a2fc1",
+      "Value": "\"Be merciful to the enemy, even as cruel as this savage. Stop his suffering — here and now.\""
+    },
+    {
+      "Key": "b240c5b9-03ee-48f1-b66e-f0f741548477",
+      "Value": "\"That's it.\" {n}Valerie sighs and her shoulders relax.{/n}"
+    },
+    {
+      "Key": "a7138153-d181-42de-8dc4-4f330376e6c8",
+      "Value": "{n}The chieftain of the {g|Tiger Lords}Tiger Lords{/g} silently falls to the floor beside the bodies of his tribesmen, joining the corpses of those he'd slain.{/n}"
+    },
+    {
+      "Key": "b789ab6b-0b9b-4537-b831-bcf1430e2afd",
+      "Value": "\"We always only achieve death. Even presumed success in mortal matters is actually just one more step toward the grave.\""
+    },
+    {
+      "Key": "60f93076-3ca4-4b83-ae68-de4e0d091aef",
+      "Value": "\"So much blood was shed in vain, and yet compassion for this person stirred in my heart. A bitter lot — treason of those you thought were your family.\""
+    },
+    {
+      "Key": "2a13d7d9-d642-4733-b63c-3cd1a9c8681d",
+      "Value": "{n}Amiri spits glumly.{/n} \"This ancient Armag was a scum, if what you say is true. And some just love to venerate some dead wretch!\""
+    },
+    {
+      "Key": "7bdcf790-2f35-4ed4-aae5-541e176ed847",
+      "Value": "\"Oh, I think I shed a tear from my left eye! It's all emotions! Such a beautiful finale of the story, I can't wait to write it down!\""
+    },
+    {
+      "Key": "0c373463-03ca-43f3-9f33-1beced1a04b1",
+      "Value": "\"Turning an enemy into a friend and giving him hope... I believe {g|Sarenrae}Sarenrae{/g} herself smiled at your deeds today, {name}\"."
+    },
+    {
+      "Key": "9adfffb7-499a-4384-9e8d-4f9377723bd8",
+      "Value": "\"A lie is what Nyrissa and her servants live. And I was part of that lie...\" {n}Tristian's voice holds a bitter note.{/n}"
+    },
+    {
+      "Key": "663667ef-221f-464e-92ec-c33932b42811",
+      "Value": "\"The grave of the first Armag will accept the body of the second. I see a special dispensation in this. They were both devoured by anger, but now both are dust and peace.\""
+    }
+  ]
+}

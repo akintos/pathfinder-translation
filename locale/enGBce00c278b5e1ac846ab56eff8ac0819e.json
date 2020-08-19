@@ -1,0 +1,125 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "1fc46800-95e5-4728-9779-7d1d856c82ec",
+      "Value": "\"Who taught you goldwork?\""
+    },
+    {
+      "Key": "c7da682c-874f-4a94-a30b-29ddbbed41e3",
+      "Value": "\"You mentioned I could grant you three wishes to help you create your masterpiece.\""
+    },
+    {
+      "Key": "58b74f92-2165-4e61-a5b0-ead8da46941f",
+      "Value": "\"Why did you decide to move here from Restov?\""
+    },
+    {
+      "Key": "423723f0-552a-4c56-bf3d-f225459e6729",
+      "Value": "\"Isn't it difficult for a master craftsman from the capital to get used to living in the country?\""
+    },
+    {
+      "Key": "dda54590-5b80-43b5-aa17-6964f0782bf4",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "faa386c0-323a-4b6b-af68-3792478efa64",
+      "Value": "[Shake the bottle] \"Look what I've got!\""
+    },
+    {
+      "Key": "0c1ea281-6cde-43a8-8891-4e2d26d65242",
+      "Value": "\"I don't get how an alcoholic beverage can help you find inspiration...\""
+    },
+    {
+      "Key": "ff8a6b0b-3e18-43e7-b5f6-87e2a2e5e21d",
+      "Value": "\"I see.\""
+    },
+    {
+      "Key": "2179f10e-024a-4827-b36c-4490cfb7df8b",
+      "Value": "\"Why did you have to go to Talon Peak all alone?\""
+    },
+    {
+      "Key": "cd21c0a7-4754-4ab0-ac1d-6ef5c23e93ef",
+      "Value": "\"How did you learn to make magical items?\""
+    },
+    {
+      "Key": "0d780c26-ad77-4c2b-9e8d-77b0b3f9b586",
+      "Value": "\"Do you have enough customers here?\""
+    },
+    {
+      "Key": "34d130e0-9c58-403d-a316-2f732c0acdb5",
+      "Value": "\"I see. Can we talk about something else?\""
+    },
+    {
+      "Key": "d5a8dba0-7656-443f-8956-143cfdfe4724",
+      "Value": "\"What about your third wish? You haven't come up with one, have you?\""
+    },
+    {
+      "Key": "8c06e54c-a495-4895-a1e4-0b1712391fca",
+      "Value": "{n}{d|Mim}Mim{/d} blinks vacantly.{/n} \"Oh, it's you, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. It's good to see you. What can I do for you?\""
+    },
+    {
+      "Key": "f17d5ac0-87a9-47e3-9ffb-8eb2ef0e62d7",
+      "Value": "\"Ah, yes. That's very true. You've granted my first wish. As to the second... They say that ink is the blood of science. In that case, alcohol is the blood of creation.\" {n} The girl gives you a provocative look.{/n}"
+    },
+    {
+      "Key": "3cc299d5-f301-4c3d-8f33-9c25fa3658e9",
+      "Value": "\"My father is a successful watchmaker. His shop supplies the richest families of {g|Brevoy}Brevoy{/g}. When I grew up and it was time to teach me, he decided to 'move from simple to complicated' – to start with the shell, then move on to mechanisms. I learned how to make a golden chain, how to cast a perfectly smooth case, how to etch and ornament and encrust with jewels... and entirely lost interest in springs and gears!\""
+    },
+    {
+      "Key": "c58fa4e3-a862-470e-9dbc-44eac5b7e5ee",
+      "Value": "\"I didn't decide any such thing. I just realized all my hair will go gray of boredom if I spend even one more day in {g|Restov}Restov's{/g} mud. I explained it to my father, packed my things and struck off, over the hills and far away. I stopped here mostly because for the scenery. The {g|Tors of Levenies}Tors of Levenies{/g} are the most beautiful thing I have ever seen! I wish I could climb {g|Talon Peak}Talon Peak{/g}... but I can't seem to find the time. And when I do get a free day, the weather is always bad.\""
+    },
+    {
+      "Key": "a5a9543f-34c8-4a32-8230-53c5f4b870ee",
+      "Value": "{n}Mim sniffs.{/n} \"Do you mean, getting used to fresh air and clean water? To wearing simple comfortable clothes every day and forgetting about make up? What about not having to watch out for stinky horse piles and puddles wherever you step? Oh yes, it's tough out here.\""
+    },
+    {
+      "Key": "ffd58797-e75c-477e-846a-e3412b6c8eee",
+      "Value": "\"Bring me a bottle, if you please. Of either. It will fill my restless creative spirit! Just one gulp, and I will pierce the abyss of existence with a stare... sink down into the bottom of my soul... and finally comprehend what the hell I've been trying to drag from it, into the world!\""
+    },
+    {
+      "Key": "e21cd1a2-445e-4818-bf6b-dec1b0ef4cb0",
+      "Value": "{n}The girl has an eager gleam in her eyes.{/n} \"Oh, I've been waiting for so long! Thank you so much, {name}... um... {mf|Your Grace|Your Grace|Your Highness|Your Highness}!\""
+    },
+    {
+      "Key": "3fdd05d3-9052-4c51-998a-1d93abd34f70",
+      "Value": "\"In that case, you know nothing about the work of an artist, {mf|Your Grace|Your Grace|Your Highness|Your Highness}! But no matter, everyone has their own calling...\""
+    },
+    {
+      "Key": "6cdaaaa2-4d39-4c0b-8201-48d73b77e0b3",
+      "Value": "{n}Mim nods and looks at you expectantly.{/n}"
+    },
+    {
+      "Key": "df604333-18c3-4937-bdce-12ef3ddfefa9",
+      "Value": "\"Thank you for asking, but your own orders are quite enough for me! I'm an artist, not a craftsman. I don't feel the slightest desire to drudge over tasteless trinkets for the wives of merchants and elderly pleasure seekers. Besides, they wouldn't be able to afford my finest creations anyway...\""
+    },
+    {
+      "Key": "adb15f5e-2b03-48bb-bfd9-6d07e0004b27",
+      "Value": "\"Father insisted, once he realized I wasn't going to work with mechanisms. He said I needed 'to have at least some practical skill', and arranged my apprenticeship with his old client – an grumpy old professor of transmutation. I pouted for a long time, but now I'm grateful – that knowledge has actually come in quite useful.\""
+    },
+    {
+      "Key": "2285bb28-3f4d-49d4-a8c8-f26677df6394",
+      "Value": "\"Hmm?\" {n}It seems that Mim has again been carried away by the sight of the mountains.{/n} \"Oh yes, of course... Uhh... about what?\""
+    },
+    {
+      "Key": "a77a08c4-bbe2-4c99-be61-5b92cd4825c1",
+      "Value": "\"I... I don't completely understand it myself... I woke up that morning and thought – it's now or never.\" {n}Mim sighs and shrugs.{/n} \"And it turns out I was right!\""
+    },
+    {
+      "Key": "f34f530d-816b-461d-8f5f-06e3407702ba",
+      "Value": "{n}Mim laughs.{/n} \"I wish I knew the answer! But I never gave the decision a second thought. I just grabbed my backpack and stepped out. And it all turned out for the best!\""
+    },
+    {
+      "Key": "120009ab-2c9e-4fff-acb8-966eaae36368",
+      "Value": "\"I have to admit, I have no idea what my third wish should be. I'll tell you as soon as I come up with something. Now if you'll excuse me – art can't wait!\""
+    },
+    {
+      "Key": "917cf997-373c-4bc9-8f34-8f830416b5c9",
+      "Value": "\"Not yet. You can't rush the delicate movements of the soul. I can feel it growing within me, and that's all for now.\""
+    },
+    {
+      "Key": "9e4a7e09-6dca-4886-8a77-8e58a297af99",
+      "Value": "\"I don't mean the ordinary tavern booze. I need something delicate... rare... like... like berry wine from {g|Kyonin}Kyonin{/g}! Or even... Oh lord! Elven absinth!\" {n}She slaps her head, freezes for a second – and starts speaking faster and faster, and waving her hands in excitement.{/n} \"Why, of course! Why didn't I think of that? Elves! They're so close to the nature. To be one with nature! That's the unity I'm looking for!\""
+    }
+  ]
+}

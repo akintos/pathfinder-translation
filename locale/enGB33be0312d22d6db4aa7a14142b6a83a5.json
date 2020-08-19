@@ -1,0 +1,29 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "c6269040-b084-4a49-8ad2-b60df9897ffe",
+      "Value": "[Examine the golem]"
+    },
+    {
+      "Key": "f525e090-e11d-489a-8f3c-fc95100fb89b",
+      "Value": "[Strike the golem with a weapon]"
+    },
+    {
+      "Key": "17bba9ec-fc2f-4f15-b25e-386233bf4610",
+      "Value": "[Step away from the golem]"
+    },
+    {
+      "Key": "7a768857-0802-4290-984d-9fabeff11b62",
+      "Value": "{n}An iron golem, darkened by time, towers over you — it's massive, created by unknown masters. Its huge arms seem capable of snapping you in two, but it remains still.{/n}"
+    },
+    {
+      "Key": "9dd3ec35-aa0d-47d2-9290-ef23e53adeee",
+      "Value": "{n}Mighty armored plates protect the mechanisms that can set the massive figure into motion. This golem was obviously built for fighting.{/n}"
+    },
+    {
+      "Key": "a179017c-3984-416c-95d5-b6c4cb33d01f",
+      "Value": "{n}The weapon leaves no mark.{/n}"
+    }
+  ]
+}

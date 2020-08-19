@@ -1,0 +1,73 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "5b0f20f8-5015-46bb-9e6d-ba6ef67f09d4",
+      "Value": "\"Show me your wares.\""
+    },
+    {
+      "Key": "e0373a3b-c079-4c6e-814f-03ca42ea446b",
+      "Value": "\"We have to go.\""
+    },
+    {
+      "Key": "fc9819b6-9fc0-48bf-9675-a615b771e6b4",
+      "Value": "[Attack] \"I don't like you. Die!\""
+    },
+    {
+      "Key": "63b74caf-5647-4f7a-ba6b-c9137a5310fe",
+      "Value": "{n}The middle-aged man is hastily packing his wares into his cart. His rugged face and sun-bleached hair show him to be an experienced traveler. He notices you and nods, but continues his work.{/n} \"You chose a bad time to visit this place! I'm getting myself out of here, and I suggest you do the same!\""
+    },
+    {
+      "Key": "0f9b9e6d-9739-4f89-b8ff-d63ddd6c17a1",
+      "Value": "{n}The merchant gathers his things.{/n} \"Are you still here? Don't push your luck!\""
+    },
+    {
+      "Key": "1dcb0771-5633-407e-9485-5b42d805cb14",
+      "Value": "\"I am Muan, a merchant of {g|Brevoy}Brevoy{/g}. I thought I'd seek fortune in the new baronies – but so far I've met only danger and loss. Trolls roam the Shrike Hills, and the situation here is even worse. Drelev seems to have disappeared... Of course, the Swordlords can decide where the borders get drawn here, and who gets to claim which title. But so far these 'rulers of the Stolen Lands' haven't much tamed their claims.\""
+    },
+    {
+      "Key": "be587aec-f349-427c-af18-63f7e559e9b0",
+      "Value": "\"Have a look. But please be quick. I'm trying to get away from here quick.\""
+    },
+    {
+      "Key": "267f2e00-a78c-42e6-afae-aae2da581806",
+      "Value": "\"Farewell!\""
+    },
+    {
+      "Key": "058b0ee6-26d1-4aed-b817-377aae0e508f",
+      "Value": "{n}The merchant turns pale and reaches for his weapon.{/n} \"Don't you even try it! I'll kill you right where you stand!\""
+    },
+    {
+      "Key": "c5b20bb8-9d61-4392-8946-8967abfb0809",
+      "Value": "\"Enough! Put your weapons away. No one is killing anyone. Forgive my companion, sir!\""
+    },
+    {
+      "Key": "b3bbe7c8-660e-42fa-b2b1-570f0bb7045a",
+      "Value": "\"A fair reproach. Let me introduce myself: Maegar Varn, baron of these lands. I've been called here to help – specifically, to dispose of those monsters that are troubling you.\""
+    },
+    {
+      "Key": "2a7a33fb-42b7-4bbd-b9d8-88927d2cd34e",
+      "Value": "\"You're the ba – ! Oh, me and my big mouth! Well, Your Grace, blessings on you and your subjects. I shall hurry home and never set foot in the Stolen Lands again!\""
+    },
+    {
+      "Key": "7bbb2e3f-b9cb-41a1-823d-dc80577de6eb",
+      "Value": "\"Oh, come on now, don't be so dramatic. Monsters are a regular problem in such wild lands, but we've everything well in hand. Believe me, it wouldn't be in your interests to give up on the market now. Though this very moment isn't the best time for negotiations... But if you visit us in the capital, we would be happy to discuss the potential benefits of trade here, and what sorts of benefits we'd both enjoy. – But that will have to wait for another time...\""
+    },
+    {
+      "Key": "602a44e5-b32e-4b58-9ce9-552ec98d7a54",
+      "Value": "\"No, though I thank you very kindly. But I will try my luck somewhere far away from the Stolen Lands. This place is...\" {n}The merchant waves his hand in the air vaguely.{/n} \"...not good. Like it's cursed or something.\""
+    },
+    {
+      "Key": "dffe2643-e5f6-4405-82b8-0e435e657e1b",
+      "Value": "{n}The merchant puts away his weapon, mumbling something at you about the groaning gallows. His hand remains ready, and he watches you closely.{/n}"
+    },
+    {
+      "Key": "0d591773-2517-4f94-8f4d-b6d10b5944da",
+      "Value": "\"I know there's gloom in the air. – That's why we're here. To whom do I have the honor of speaking?\""
+    },
+    {
+      "Key": "7a8679db-3bb4-4616-9ee7-a7bc4aa7c839",
+      "Value": "\"Very well, good-bye then. Personally I'm in no mood for trade. {Name}, Cephal, if you need anything, go ahead and buy it, but be quick about it. There's a battle in the air!\""
+    }
+  ]
+}

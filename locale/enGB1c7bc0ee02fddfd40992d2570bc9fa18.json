@@ -1,0 +1,169 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "67134dd3-d273-4e5d-96b4-cce3131e20e3",
+      "Value": "\"What is this Technic League?\""
+    },
+    {
+      "Key": "6917beae-a754-4336-ae2d-1eda652f243f",
+      "Value": "\"We can't handle this — there's too many of them. What are we going to do?\""
+    },
+    {
+      "Key": "83894914-988a-43cc-9a46-26fc3443fdee",
+      "Value": "[Attack] \"No negotiations with slavers!\""
+    },
+    {
+      "Key": "eab89bdb-3366-4ce0-a17c-876b58a09f11",
+      "Value": "\"Amiri will go with you. But don't think this is over!\""
+    },
+    {
+      "Key": "b54c9446-00f8-482b-b9e4-a5381123db5b",
+      "Value": "\"Take Harrim. But this is not our last meeting.\""
+    },
+    {
+      "Key": "298b7118-0c88-41a9-91e9-3c024ffc5e9a",
+      "Value": "\"Linzi, go with them. We will rescue you, fear not.\""
+    },
+    {
+      "Key": "bc205949-bd47-4377-8eb1-d9194aed965a",
+      "Value": "\"Valerie, you will have to be patient. We will come for you.\""
+    },
+    {
+      "Key": "b6262d4e-4792-4d68-900f-d6924d91b379",
+      "Value": "\"Take Jaethal. But don't imagine you'll get far with her!\""
+    },
+    {
+      "Key": "5a9d8c06-67cb-46a4-95a0-519682610dc5",
+      "Value": "\"We surrender... For now. But you'll not get away with this!\""
+    },
+    {
+      "Key": "8b8cce4c-de18-4268-89c1-38c92d2d5658",
+      "Value": "\"We will fight to the end!\""
+    },
+    {
+      "Key": "a97e5dd6-4744-46c6-b826-5cdb8025acda",
+      "Value": "\"Take me!\""
+    },
+    {
+      "Key": "0f82fd98-d138-419e-9210-5c923ee65082",
+      "Value": "[Attack] \"You sure can talk. Let's see how you fight!\""
+    },
+    {
+      "Key": "c9f977b7-a686-459f-a8b5-f4dcd8893b6f",
+      "Value": "[Attack] \"I'll make you eat your own entrails!\""
+    },
+    {
+      "Key": "ee0186e0-19db-45c1-abb3-1bf6d1262ee0",
+      "Value": "{n}A group of well-armed fighters approaches. One of them raises their voice, pointing at you:{/n} \"Hey you, stop right there! Kalannah, look at this one! Will {mf|he|she} do?\""
+    },
+    {
+      "Key": "373e07f1-ac84-4e3d-bc14-63740f89ed8a",
+      "Value": "{n}The group's leader lays her cold and watchful eyes upon you.{/n} \"This one? I suppose... But I don't like {mf|his|her} snout.\""
+    },
+    {
+      "Key": "47a4baab-6a2f-42cf-af6c-a7ed80df38e8",
+      "Value": "{n}She studies your companions — carefully but nonchalantly, as if examining goods at the market.{/n} \"Listen, you tramps! We're from the {g|Technic League}Technic League{/g}. Our slave died, and we need a replacement. One of you will be coming with us. The rest of you are free to go. I advise against resistance — it would be a quick trick to kill every one of you. Choose now the one that you will give.\""
+    },
+    {
+      "Key": "ff400fa1-1905-49c5-ac79-4a37649484f6",
+      "Value": "\"Finish {mf|him|her} off.\""
+    },
+    {
+      "Key": "aa07212c-45d1-4de9-bd9f-6c068056b4ec",
+      "Value": "\"One very serious organization from {g|Numeria}Numeria{/g}. People with whom you'd better not start a fight... And who you better not bother with foolish questions.\""
+    },
+    {
+      "Key": "ef9c53c6-1842-4fd6-ae23-7160d8f4b6e2",
+      "Value": "\"No chains can hold me. I will go with them, break free, cut their throats and return, yes? Or you can track them.\""
+    },
+    {
+      "Key": "7f2f7bba-98ce-45dd-b035-b3b542f68d3f",
+      "Value": "\"Listen, {name}... I know the inevitability of death. I will sacrifice myself for you, yes... Let them take me.\""
+    },
+    {
+      "Key": "57056286-55c3-4601-bda5-de307b6fe319",
+      "Value": "\"I haven't ever been enslaved before — that would be new! Give me to them. Don't worry, nothing will happen to me, I'm too lucky for that! And then you can track them and set me free! What do you think of my plan?\""
+    },
+    {
+      "Key": "2cdebb4e-4c7c-4493-9d03-89ffc9675165",
+      "Value": "\"Sacrifice me. I possess enough strength to withstand this. I know you will find a way to set me free.\""
+    },
+    {
+      "Key": "552153a0-3360-4ee0-a9a0-118ff7bcb2f6",
+      "Value": "\"Slavery? Hmmm. I've seen worse. Give me to these clowns — they shall regret their actions when you come for me.\""
+    },
+    {
+      "Key": "f6656832-50f8-4850-b247-8539973e5175",
+      "Value": "\"Big mistake.\""
+    },
+    {
+      "Key": "6f4da27f-6e27-4d3a-a52c-e58589cc177e",
+      "Value": "\"I'll be back soon! And if I am not... I know you will find them!\""
+    },
+    {
+      "Key": "db9aea5f-a18b-499f-a942-7b17df8a3a64",
+      "Value": "{n}Without even looking at you, Kalannah's henchmen clap your companion in shackles and walk away.{/n}"
+    },
+    {
+      "Key": "27dc3a67-e34f-4d1c-957f-805ae0e27f64",
+      "Value": "\"I don't mind giving my life, yes... But I think you will somehow postpone my encounter with the inevitable. This time.\""
+    },
+    {
+      "Key": "08028422-ce87-4e29-8393-c61bb69d02bf",
+      "Value": "\"My life is in your hands. Don't let me down.\""
+    },
+    {
+      "Key": "1db4b226-b810-4110-a610-a645967f5a07",
+      "Value": "\"Don't worry about me! You're going to save me, right?\""
+    },
+    {
+      "Key": "0fa15b0a-49df-4aa9-9a40-72c9bd795fb0",
+      "Value": "\"I do not say goodbye.\""
+    },
+    {
+      "Key": "5720b6cd-5afa-40c4-83f4-b3eddc0d11a7",
+      "Value": "\"Your time is up. Let us avoid any needless complications. Which of you shall I take?\""
+    },
+    {
+      "Key": "3d898581-73f1-4b36-b3b9-f6b068bacfcb",
+      "Value": "{n}Kalannah casts a scornful eye on your fallen companion.{/n} \"This is precisely why you should not have resisted the will of the {g|Technic League}Technic League{/g}. Enough of this comedy. Hide your weapons — I shall take this carrion. Pray that the rest of you will escape the same fate.\""
+    },
+    {
+      "Key": "583ecb5e-5005-4786-9aef-e615359a600f",
+      "Value": "\"I can withstand this... Let them take me — and then come to my rescue.\""
+    },
+    {
+      "Key": "61b37fe4-5837-40a1-be62-bbf110baf5a0",
+      "Value": "\"Let them take this frail body, while life still lingers within... Then come for the remains.\""
+    },
+    {
+      "Key": "5ff26c5a-f5d9-420f-b9e7-0aee3ea3d487",
+      "Value": "\"I'm fine... Ahem, almost... Best give me to them. I shall bravely await my rescue!\""
+    },
+    {
+      "Key": "1e8e62bf-4ffa-45f1-8c69-8e125f75b2b2",
+      "Value": "\"There is no sense in all of us dying. Lay down your arms. I will go with them. Return for me in force!\""
+    },
+    {
+      "Key": "ef0fbbc0-e152-450c-9f63-fd1ff9f7d747",
+      "Value": "\"We cannot stand against them. Accept it: they have won. I shall go with them. Seek me out!\""
+    },
+    {
+      "Key": "2148ae34-8297-4249-85cf-6d91362bd3e3",
+      "Value": "\"That's the spirit.\" {n}Having picked up your barely-breathing companion, the {g|Technic League}Technic League{/g} fighters vanish.{/n}"
+    },
+    {
+      "Key": "e890975e-9451-4284-80ee-638b60e74a01",
+      "Value": "\"A fatal mistake.\""
+    },
+    {
+      "Key": "d795cda9-c17a-4aba-8c6b-88476de5076c",
+      "Value": "\"You? Hmm... No, I don't like you. I can read it in your snout — you're nothing but trouble. No, choose someone else.\""
+    },
+    {
+      "Key": "57d9908b-b8f9-4f96-989b-7a04beb768e0",
+      "Value": "{n}Your companions clench their fists with impotent rage. Their hateful stares would sear Kalannah.{/n}"
+    }
+  ]
+}

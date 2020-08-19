@@ -1,0 +1,113 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "3e4bacec-3875-47d1-b5aa-3cd932bd85ba",
+      "Value": "\"How did you end up in Varnhold?\""
+    },
+    {
+      "Key": "e0c29c2e-0518-4af7-841e-9a267ac747b2",
+      "Value": "\"What's on the menu?\""
+    },
+    {
+      "Key": "6d69c60c-b7e4-4439-903a-da20ec63b617",
+      "Value": "\"I've had a report that a troublemaker from Galt was seen here.\""
+    },
+    {
+      "Key": "be40a9ce-cbea-4809-b239-06b947866e00",
+      "Value": "\"I looked around, but haven't found the troublemaker yet. Do you have any news?\""
+    },
+    {
+      "Key": "8ad44960-fb28-4c29-8515-df4479d1c851",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "3675e7eb-f942-4b96-b2a4-152a2c512b50",
+      "Value": "{n}The tavern owner, Svelid, a freckled halfling, waves to you gladly.{/n} \"Oh, I heard, you're the General now? Congratulations! This calls for a celebration! Do you want a drink? Or just water while you're on duty?\""
+    },
+    {
+      "Key": "f57063b1-8acb-4cec-ad6e-fa7a66729952",
+      "Value": "\"We used to have a tavern in {g|Galt}Galt...{/g} Ha!\""
+    },
+    {
+      "Key": "ae64dc09-4f34-43e5-9751-7a14d71494f7",
+      "Value": "\"Here, take your pick!\""
+    },
+    {
+      "Key": "247720df-652a-4bd0-8225-ea04d40db6f9",
+      "Value": "\"Yes! That scumbag! We've seen a lot like her. She wandered in here, talking about tyranny and justice, when really she was just looking for something to steal! She came in with a small group. I think they were from a farm that's near the town. They sat here for a long time, saying things that made me sick to hear!\""
+    },
+    {
+      "Key": "aad97b35-a5bb-4e8c-a0e4-c6a7a807d069",
+      "Value": "\"She never appeared in the tavern again, but people are saying...\""
+    },
+    {
+      "Key": "507f1f2f-8dfe-4ced-8552-a45e0adc6cb8",
+      "Value": "\"Come back any time! We'll save you a bottle of something worthy of a General!\""
+    },
+    {
+      "Key": "abb8c2d3-bd1c-4801-b483-5e43059c634b",
+      "Value": "\"General! Welcome! What will you have?\""
+    },
+    {
+      "Key": "ae4bbff3-e824-4053-a28f-885d67060a7c",
+      "Value": "{n}Her wife Karida stops wiping the cups and gives you a wry look.{/n} \"If I had to serve as the General of Varnhold, I'd have to start the day with a glass of gin.\""
+    },
+    {
+      "Key": "346c442b-bfd0-45ce-83f8-8f41207a6521",
+      "Value": "\"But you do that anyway!\""
+    },
+    {
+      "Key": "d1e106d4-7407-4902-a3cb-a9f82166dc63",
+      "Value": "\"Who said a tavern owner's life is easier than a General's?\""
+    },
+    {
+      "Key": "2412b873-c1b9-4e3a-b3f3-d840b2196501",
+      "Value": "\"And then one day we didn't. They confiscated it for the needs of the revolution! But I suppose we should be grateful they let us go alive. They might have finished us off as oppressors and exploiters! Luckily they were too busy enacting revolutionary justice in our wine cellar, and we managed to sneak away.\""
+    },
+    {
+      "Key": "cf0bc964-e8d0-454b-abda-f1edbbaa694b",
+      "Value": "\"The scumbags took everything we had, except our common sense. Well, we broke our backs for a few years to scrounge up enough to open a new venue.\""
+    },
+    {
+      "Key": "13c5ae06-7bb3-4ac1-b101-25e005bb7b58",
+      "Value": "\"We heard about this new barony, the new town... So we came here! And it's quite a gold mine. The town is growing. There are more and more people, and all of them need to eat and drink! If {g|Desna}Desna{/g} wills it, we'll be rich!\""
+    },
+    {
+      "Key": "6b8ef102-850d-41e1-947c-e03af84b18df",
+      "Value": "\"First they were talking about Ignash the sorcerer, saying he was a bloodsucker, tricking the simple people. Then they talked about how to get into the armory to get some weapons. They decided they couldn't manage it. – Too many guards. But then they remembered there would be pitchforks and scythes in the barn.\""
+    },
+    {
+      "Key": "09934707-5e22-456b-b5a2-87f7455b92cd",
+      "Value": "\"In the end they started talking to people, trying to stir them up for a riot. But nobody would listen. I showed them to the door, and sent word to the Treasurer right away. I don't know where they went, I think they said something about fishermen on the river!\""
+    },
+    {
+      "Key": "004d53ad-cd7b-419f-8595-5609255f1345",
+      "Value": "{n}You hear voices and the clanking of iron from outside. It looks like a mob has gathered near the tavern. You hear the familiar voices of your guards, and another voice ringing out, yelling sharp slogans about tyranny.{/n}"
+    },
+    {
+      "Key": "49f32b2e-2203-439a-8342-85edfc06ee84",
+      "Value": "\"Do something with her, for Desna's sake! Kick her so hard she rolls back to {g|Galt}Galt{/g}. Otherwise she'll wind up some fools, and they'll burn down the whole town! We'll talk to the people, but you'd best go find out where she is and what she's doing.\""
+    },
+    {
+      "Key": "21dd9556-2973-4d03-b4fe-1ebb5f85929f",
+      "Value": "{n}Svelid turns pale and reaches for the crossbow she keeps hidden under the counter.{/n}"
+    },
+    {
+      "Key": "ce0e9358-7d40-4407-85e5-1c43c8229e5d",
+      "Value": "\"It looks like you won't have to go looking for her after all. Come on, General. Let's give it to these scoundrels!\""
+    },
+    {
+      "Key": "04391277-cd7a-4c7d-b134-e2dc3f175d71",
+      "Value": "\"Thank you for dealing with that wretch!\""
+    },
+    {
+      "Key": "d7f7ca7d-2275-4545-90cb-1d19a1dcfeac",
+      "Value": "\"She's right! I was struck dumb with fear when I heard these screams outside. It was just like when they trashed our tavern in {g|Galt}Galt...{/g}\" {n}The halfling pours herself a shot of something strong and gulps it down.{/n}"
+    },
+    {
+      "Key": "b4f877b9-24f0-4b49-8406-706670a64e74",
+      "Value": "\"She'd better not stick her nose in here again. I won't warn her. – I'll fire my crossbow while she's still at the door!\""
+    }
+  ]
+}

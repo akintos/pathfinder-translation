@@ -1,0 +1,57 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "d90b0f66-ade2-4046-bb35-5b56cd31adef",
+      "Value": "{g|Military6_1}[Choice effects]{/g} \"We don't leave our men behind. Let them climb into the angry mountains, if they're so brave.\""
+    },
+    {
+      "Key": "af0e8d76-85a0-4dbe-91bb-d3c068a4e581",
+      "Value": "{g|Military6_2}[Choice effects]{/g} \"It's dangerous and foolish. I'm not risking more fighters for the sake of a few others.\""
+    },
+    {
+      "Key": "6383d275-9815-46d4-99e9-b6df5bed0f42",
+      "Value": "\"You are the General. They're your soldiers. I'm expecting you to decide.\""
+    },
+    {
+      "Key": "7be4f4a7-eb5c-43f8-bf96-09463ae255c9",
+      "Value": "{n}Kassil is agitated. He's in a hurry, and his voice trembles.{/n} \"{mf|Your Grace|Your Grace|Your Highness|Your Highness}! A border patrol is trapped under an avalanche in the Eastern mountains. We don't know whether they're still alive, but hope fades with every passing second. They won't survive for long without our help. We have many volunteers among our soldiers, ready to go into the mountains and save them.\""
+    },
+    {
+      "Key": "680bc42c-93dd-4cc0-8c9e-72fa260dbcfd",
+      "Value": "\"There's been an accident, {name}. A border patrol got buried under an avalanche in the Eastern mountains. They're trapped, and they won't survive. Some of our other soldiers want to go rescue their friends, but the mountains are still angry. The earth is rumbling, and the stones are moving. I can hear it even from here.\""
+    },
+    {
+      "Key": "ad739c38-d6b6-470b-a0f5-457faa8543c0",
+      "Value": "{n}Regongar looks gloomy.{/n} \"{name}, we need to talk. A border patrol got buried under an avalanche in the Eastern mountains. They're probably all dead. Not a great loss. They weren't be the first to die, and they won't be the last. But there's a number of troops volunteering to go rescue them.\""
+    },
+    {
+      "Key": "a81f21c9-8615-4c6b-b75f-add92c587df3",
+      "Value": "\"We'll rescue them, no matter what it takes! You won't be sorry. Your soldiers will gladly give their lives for a general who is loyal and reliable!\""
+    },
+    {
+      "Key": "1787ce9f-018d-4d72-913a-3e6b1ecdf429",
+      "Value": "{n}Amiri nods solemnly.{/n} \"You are wise. Their destiny is already set. We'll raise a toast to them and remember them forever. The same for the ones that die tomorrow.\""
+    },
+    {
+      "Key": "a78af15c-52c6-4577-8e89-1ff4e46253f3",
+      "Value": "\"In fact, it's for the better. It will make our fighters angry – and they're supposed to be angry! They need to get used to the fact that military service is cruel. It chews up the noble and merciful sentiments.\""
+    },
+    {
+      "Key": "49496a1b-e40a-4de7-8ff3-c539e5b850b0",
+      "Value": "{n}Regongar grins.{/n} \"Ah, I don't care. Let them think of me however they want! There will be no rescue missions. We're not going back. No one is getting rescued today.\""
+    },
+    {
+      "Key": "5106fce5-6ce3-422b-9e6a-27c03e81fd7f",
+      "Value": "{n}Amiri shrugs coldly.{/n} \"We Kellids appreciate a helping hand. But when the mountains are angry, you should flee. When someone finds bad luck in the mountains, they cannot be saved. They belong to the spirits. Mess with the mountains and you'll die. Unless you want to bury your whole army under new avalanches, just forbid the rescue mission.\""
+    },
+    {
+      "Key": "44168a08-a23d-4095-ae6f-2653f3db1532",
+      "Value": "\"The first avalanche is never the last. We'll risk losing half the army up there. It's just not worth it. But if I say we're not going to the mountains, they won't learn anything. They'll just take me for a heartless bastard. That's why I'd rather you to give the order to cancel the mission. It's got to be you, the chief.\""
+    },
+    {
+      "Key": "f530f823-5ea7-4208-94f1-ad14da73213d",
+      "Value": "\"The mountains are restless. New avalanches are possible. They could bury the search parties as well. But our volunteers don't care about the risks. It isn't wise, but it's very brave of them. We shouldn't leave our people behind. As a fighter, I support them. But as your General, I must receive your permission before engaging upon such a dangerous mission.\""
+    }
+  ]
+}

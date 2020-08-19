@@ -1,0 +1,141 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "707368a3-08c3-4fd2-9d00-7e39cf43145d",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "2ccc35d2-b751-441a-8e69-84e6a4f1326b",
+      "Value": "\"Why are you sitting here alone?\""
+    },
+    {
+      "Key": "fd34afc5-34ad-41cf-8988-a3a4f7240746",
+      "Value": "\"What do you think of your stay ashore?\""
+    },
+    {
+      "Key": "f41a2f88-be92-47ab-a659-a185492d934c",
+      "Value": "\"You talk about Blakemoor with such confidence – do you know him well?\""
+    },
+    {
+      "Key": "71628840-1d43-4433-b807-1be16fa9e1ac",
+      "Value": "\"Farewell.\""
+    },
+    {
+      "Key": "b5aa3e9f-c6d3-4cee-bb10-6943b4169ef8",
+      "Value": "\"Because I will help you set sail again.\""
+    },
+    {
+      "Key": "b7897405-8873-46cc-9508-cb26d95b641c",
+      "Value": "\"Because otherwise I'll turn you in to Wellar.\""
+    },
+    {
+      "Key": "afffbcb0-cb93-44fd-9880-31d0943c21ce",
+      "Value": "\"Because my gold is looking for a new owner. Ten thousand coins.\""
+    },
+    {
+      "Key": "e623fee4-27ab-47a1-b8bd-addfd863a40f",
+      "Value": "\"Where does he live?\""
+    },
+    {
+      "Key": "5a029c9e-617f-4940-b16b-8685e0e61c62",
+      "Value": "\"Give me the key.\""
+    },
+    {
+      "Key": "61d825f5-a1bf-4a93-b4ad-8a29dd2d7a24",
+      "Value": "\"Because you don't want to die of old age in this tavern.\""
+    },
+    {
+      "Key": "5399d60c-48bd-482a-8af3-539b3d66be7a",
+      "Value": "\"Because the crew is drunk and they won't notice if I break your neck.\""
+    },
+    {
+      "Key": "fc3655d5-e6cb-4fde-8dc7-fecf9d556168",
+      "Value": "\"I'm ready to pay. Ten thousand.\""
+    },
+    {
+      "Key": "d5970d8e-3966-4b5a-8768-41906b179a63",
+      "Value": "\"Understood.\""
+    },
+    {
+      "Key": "9abe966d-b1af-4194-9417-e754087e121a",
+      "Value": "[Attack] \"You're insolent. And you'll pay for that.\""
+    },
+    {
+      "Key": "bd51b4bc-4b35-4bb2-88d5-d046575b1631",
+      "Value": "{n}A grim man with long brown hair and an unpleasant face is drinking in the corner, alone. He doesn't seem to be pleased with your attention.{/n} \"What do you want, {mf|mister|missy}?\""
+    },
+    {
+      "Key": "e26946fc-29d5-46fb-9fda-854ac0719f37",
+      "Value": "\"And who are you? I'm a pirate. A sailor on the Prestigious. Just a sailor. Sailor Blutmond, if it pleases you. Satisfied?\""
+    },
+    {
+      "Key": "01922f57-9dc3-4b1b-ad16-3a6b58603bb6",
+      "Value": "\"Because I don't need company. That's a hint, in case you didn't notice.\" {n}The sailor sighs heavily.{/n} \"Why is it, that when a person drinks alone, everyone wants to join him? Over there, there's a whole crew of sailors, eager to share their tales...\""
+    },
+    {
+      "Key": "030a905f-13c8-4b9c-80fd-dbaad8d7b1c7",
+      "Value": "\"Ha ha! We should never have relied on Blakemoor's punctuality. He's a special person, that one. But never expect him to know what time it is. As for me, I don't care so long as there's enough beer.\""
+    },
+    {
+      "Key": "4bc91873-193a-4ad7-94c1-bbdd9ffb7949",
+      "Value": "{n}Blutmond winces, realizing that he's said more than he intended.{/n} \"By the kraken! Okay, just stop yelling ... please lower your voice, {mf|mister|missy}. I'll tell you, but it's just between the two of us, okay? I was Blakemoor's apprentice after I replaced his former servant – a deaf-mute kobold. I used to visit him. He even gave me the key to his hideout. But now some of them, mostly First Mate Wellar, are angry with Blakemoor. If they find out that I'm friends with him, they'll pay him a visit and take that stupid book. And Blakemoor... he very much dislikes intrusions.\""
+    },
+    {
+      "Key": "5d505b1c-7361-4b06-8066-598df9475077",
+      "Value": "{n}Blutmond takes the gold with a lazy gesture.{/n}"
+    },
+    {
+      "Key": "2092e3d1-a701-47c2-94b5-2f6cafa332bb",
+      "Value": "\"That's quite an offer! You rarely meet a stranger who cares so much about your own concerns.\" {n}In the blink of an eye the sailor pulls out a map and pokes it with his finger{/n} \"It's here.\""
+    },
+    {
+      "Key": "61d0bf79-d8aa-452b-b603-54354848797e",
+      "Value": "\"Nah. It's not bad in here. Plus, the stormy season is coming soon.\""
+    },
+    {
+      "Key": "49b89cb3-57d6-4941-a9e5-5e5821f692ab",
+      "Value": "\"Ah, yes.\""
+    },
+    {
+      "Key": "bd0b0d33-20e6-4d9d-b6ab-e1c6f2ff2620",
+      "Value": "\"And why should I tell you? Like I just said – Blakemoor doesn't like guests.\""
+    },
+    {
+      "Key": "de25b0d2-c097-4bec-bbeb-4cc15f274567",
+      "Value": "\"This is my key. Why would I give it to you, oh curious one?\""
+    },
+    {
+      "Key": "f6977018-39a2-4d52-b1ef-7b7d5a015abb",
+      "Value": "\"Oh, you're a clever one. Now can I drink my beer in peace?\""
+    },
+    {
+      "Key": "9f93b039-bc32-4ec3-83e6-ab5ffe7208f6",
+      "Value": "{n}In a single movement, Blutmond manages to take your money and leave the key in its place, though a second ago his hands were quite empty.{/n}"
+    },
+    {
+      "Key": "1c165c78-1ee4-4344-86c1-6df96131b6bb",
+      "Value": "\"That's an interesting argument. It's true, I'd prefer to die at sea.\" {n}Blutmond gives you the key.{/n}"
+    },
+    {
+      "Key": "783dc0f4-0e3e-46c9-a751-7217df180a16",
+      "Value": "\"I was told by circus fortune-teller that I would die at sea, during a storm. It's calm today. So I'll live for now.\""
+    },
+    {
+      "Key": "26dc34e3-8789-42d0-99e2-637e136df1d4",
+      "Value": "\"And I'll tell the captain that you're looking for Blakemoor so you can take that crappy folio for yourself. I'm sure he'll be delighted.\""
+    },
+    {
+      "Key": "fe9f7d47-b698-4e72-b992-792b2200170a",
+      "Value": "{n}Blutmond pulls out a map again, and insistently points at it with an unclean fingernail.{/n} \"I already showed you, it's here. You want me to draw an X? Or a skull and cross-bones?\""
+    },
+    {
+      "Key": "9edd264b-91ab-4583-9927-a1c490855620",
+      "Value": "\"Hey! Guys! We're under attack! Stand your ground!\""
+    },
+    {
+      "Key": "34e9e792-34d2-498a-a4cd-58cef6b91a44",
+      "Value": "\"Whatever you say. We aren't going anywhere soon.\""
+    }
+  ]
+}

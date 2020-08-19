@@ -1,0 +1,241 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "57c90600-4c75-4b94-91fc-6e9e63c68d64",
+      "Value": "\"Jhod, the surgery showed that it was magic seeds causing the disease, correct?\""
+    },
+    {
+      "Key": "a9e5bb2b-be63-4ef8-a29a-045c1952dec2",
+      "Value": "\"Kesten, we discovered that the Lamashtu cultists weren't involved with the monster infestation.\""
+    },
+    {
+      "Key": "82536692-eb45-4492-84c6-a610506709f1",
+      "Value": "\"Goblins obviously like having all these monsters around. To them, it's like a sign of Lamashtu's benevolence.\""
+    },
+    {
+      "Key": "d3068886-f163-4f97-8acc-ad9bbeefa994",
+      "Value": "\"So, the Bloom's essential properties are strange seeds getting into people's bodies, which causes their disease and eventually creates magic portals. Now we just need to discover where the seeds are coming from.\""
+    },
+    {
+      "Key": "c22fdd00-f8c9-4958-bc37-c6743bf1ccfe",
+      "Value": "\"Kesten, the militia most often finds monsters by the river, right?\""
+    },
+    {
+      "Key": "86b1d559-3076-49ed-a09e-bd4a4279be6c",
+      "Value": "\"There are dozens of villages along the riverbanks — hundreds of people. How many are likely already infected?\""
+    },
+    {
+      "Key": "1941a35d-8ccb-446b-a6e8-3d3293eb6bf9",
+      "Value": "\"We have to go upstream and find the source of this blight.\""
+    },
+    {
+      "Key": "a07813e9-df90-4c75-b69e-fda86add1c58",
+      "Value": "\"Can we keep people calm? Persuade them to wait a bit longer?\""
+    },
+    {
+      "Key": "f06a3867-1353-4332-bd11-b88748226520",
+      "Value": "\"Kesten, are you still with the militia?\""
+    },
+    {
+      "Key": "7407b9cd-0344-4364-bd83-a4d93a3318e5",
+      "Value": "\"Jhod, how are the patients in the prison doing?\""
+    },
+    {
+      "Key": "81c476cc-8e61-40b6-8732-f59802c0922d",
+      "Value": "\"Tristian, how did you find the link between the disease and the river?\""
+    },
+    {
+      "Key": "b22118b2-76fd-4ca8-801a-5af969784844",
+      "Value": "\"Nok-Nok, what can you tell me of your brethren?\""
+    },
+    {
+      "Key": "76de8660-6c6d-48a1-b4e4-9c45236c2366",
+      "Value": "\"You have my permission, Kesten. I won't deprive people of the opportunity to find the cause of their troubles.\""
+    },
+    {
+      "Key": "0ea3edb1-ceed-4ca3-86c8-480c463da8b8",
+      "Value": "\"No, Kesten, we have to deal with this carefully and rationally. Go to your people and await my arrival.\""
+    },
+    {
+      "Key": "e6429ac3-127b-4f9d-845e-6a0e4b3935ed",
+      "Value": "\"I need some time to think over your offer.\""
+    },
+    {
+      "Key": "cb5804d2-0e26-4922-86bf-488d2bee69fa",
+      "Value": "\"Can you tell me where these monsters come from, Tristian? The ones that appear because of this... Bloom?\""
+    },
+    {
+      "Key": "e2f9f689-ec5e-45d1-8811-2861b9367ccc",
+      "Value": "\"Let's summarize what we've found up to this point.\""
+    },
+    {
+      "Key": "cf6e4568-3e32-4e4f-b83a-f8617d4ae407",
+      "Value": "\"The duty of the people is to obey the laws and orders of their ruler. I'll hang any rebels I find and banish their families.\""
+    },
+    {
+      "Key": "3f455434-c8d5-413e-81fc-fc54be239b08",
+      "Value": "\"That's all I need to know about the results of the research.\""
+    },
+    {
+      "Key": "1ba1ecb4-f9bf-4d70-acd7-c6b629e79aef",
+      "Value": "\"Jhod, how did you come about these rumors of a curse?\""
+    },
+    {
+      "Key": "086fc883-bb43-4db3-ad25-fc74ca7c13b5",
+      "Value": "{n}Jhod folds his hands on his chest.{/n} \"Well, now that we're all here, let's sum up what we know. We've each spent a lot of time and effort to learn what we can about where the monsters come from and what's causing this strange disease. I hope this conversation can help shed some light on the situation.\""
+    },
+    {
+      "Key": "ea9dd983-3e85-44c9-90db-be487b7e230f",
+      "Value": "{n}Kesten shakes his head slowly.{/n} \"We need to hurry. If we don't find the source of this blight and eliminate it, we may end up with a rebellion on our hands.\""
+    },
+    {
+      "Key": "11a696a6-5f6e-4029-8bdd-9aa5f413b7a4",
+      "Value": "{n}Hearing the name {g|Lamashtu}Lamashtu{/g} draws Nok-Nok's attention.{/n} \"Mother is not to blame here! Told you, but who listens to me?\""
+    },
+    {
+      "Key": "e94a25b1-3e0c-4195-9b8c-ecd0716da2cd",
+      "Value": "\"Right. Judging from the location in the patients' bodies, these seeds were ingested. It seems likely that they're initially extremely small, almost invisible, and people simply swallow them with their food. Once the seed is in the stomach, it begins to grow and cause the symptoms we've seen in our patients.\""
+    },
+    {
+      "Key": "e94f66fe-31f1-4e6d-8617-b182023edf47",
+      "Value": "{n}Tristian, who'd been examining the map on the table from the shadows, gives a small cough.{/n} \"If I may... I've noticed an interesting detail. Well, two details, to be precise.\""
+    },
+    {
+      "Key": "888819f5-2dcf-436c-8734-da7eef08394a",
+      "Value": "\"First, the seeds afflict mostly the villagers. There have been no recorded cases of disease within the city limits, except for those who came here looking for the cure.\""
+    },
+    {
+      "Key": "309ef4da-0269-49ff-a6d0-f2fac0b6ae31",
+      "Value": "{n}Kesten nods.{/n} \"It doesn't mean they're innocent of other crimes, but the monster invasion at least is not their work.\""
+    },
+    {
+      "Key": "5c63fab7-1c6e-4499-a519-f7bf168e2ff6",
+      "Value": "{n}Nok-Nok raises his head.{/n} \"Know what I think? I think goblin-king is rotten lice-scratchter! Shaman plays him like reedpipe, babbles about {g|Lamashtu}Lamashtu{/g}, then plots behind his back!\""
+    },
+    {
+      "Key": "31f9d5ee-8862-47dc-b864-568a31d3d309",
+      "Value": "{n}Jhod nods.{/n} \"That's right. Thus, we can assume a common factor in how people are exposed to these seeds: many villages get their food from the same territory.\""
+    },
+    {
+      "Key": "51aed43d-528f-4749-ad06-44889d273164",
+      "Value": "\"Hmm... We used to think the monsters were just coming to the river to drink.\" {n}Kesten rubs his forehead.{/n} \"But if what the cleric says is right...\""
+    },
+    {
+      "Key": "3e6400cd-1d64-411a-85f5-1022441e65b6",
+      "Value": "{n}Kesten grunts.{/n} \"I'd say they're just excited by anything new that happens. I wouldn't be surprised if they're linked to this story somehow. But I doubt the seeds were created by goblin shamans. Besides, a plan like this seems a little... beyond the local goblin chief's intelligence.\""
+    },
+    {
+      "Key": "95256a4f-8aa4-43bd-b608-69c1e3b69b40",
+      "Value": "{n}Jhod looks at you closely.{/n} \"Are you suggesting we wait for them all to succumb to this Bloom, {mf|Baron|Baroness}? Let's pray we can deal with the situation before that happens!\""
+    },
+    {
+      "Key": "d017abf3-b633-45cd-9c77-d7c7d1677909",
+      "Value": "{n}Kesten straighten up and flexes his shoulders.{/n} \"If you allow me, {mf|Baron|Baroness}, I'd like to take the lead on this. I'll take the best members of the militia with me and sweep the woods along the river. We'll look under each and every rock, if needed.\" {n}Kesten muffles a cough.{/n} \"After everything they've been through, these people deserve a chance to discover the source of their misfortunes.\""
+    },
+    {
+      "Key": "266aaeac-fc9e-4cd7-8849-3c06ecff09e9",
+      "Value": "{n}Kesten frowns.{/n} \"Your Grace... it's hard to expect loyalty and obedience from people in times like this. They're looking for something — or someone — to blame. I... I didn't want to be the one to say it, but...\""
+    },
+    {
+      "Key": "e0c8181f-ce02-4e9d-952a-8c2b6851ab91",
+      "Value": "{n}Jhod cuts Kesten off with a gesture.{/n} \"People think you're cursed, Your Grace. And it would be in your own best interests to quickly discover the cause of the disaster that keeps claiming the lives of your subjects.\""
+    },
+    {
+      "Key": "44b76b18-297c-4f6b-8d0d-b6c5d4d6a56d",
+      "Value": "{n}The guard hesitates, furrowing his brow.{/n} \"Your Grace... I understand these people very well. They're tired of just waiting and hoping. But for now, I can guide their eagerness for action in a positive direction. I'm glad to help them avoid hasty decisions that could cause more trouble.\""
+    },
+    {
+      "Key": "023e585e-10d4-4fcc-8562-40902ed1365d",
+      "Value": "\"At the same time, I'm convinced that a crowd of terrified villagers who've armed themselves can't truly be our salvation. This barony has a chance only so long as it has authorities and laws. My top priority is helping you remain that authority and that law.\" {n}Kesten takes a deep breath after the unusually long speech.{/n} \"I just... wanted to assure you that I'm on your side.\""
+    },
+    {
+      "Key": "1968662b-ebc5-40df-846e-942f38ac7798",
+      "Value": "{n}The cleric smiles, satisfied.{/n} \"After finding the source of the disease, we've been working to remove the seeds from people day and night. We've saved so many...\" {n}Jhod's face falls.{/n} \"But, for each patient we cure, we receive two newly infected...\""
+    },
+    {
+      "Key": "d755e2f3-d53c-461a-9dc6-2d70c87acbce",
+      "Value": "{n}The cleric glances pensively at the map.{/n} \"You see, {mf|Baron|Baroness}, these seeds are not the only sign of something... abnormal at work. Remember the ruins, where we first met? The glade near those ruins, full of huge flowers?\""
+    },
+    {
+      "Key": "149e5492-0946-4d2e-9a1e-fcbfe118d454",
+      "Value": "\"Glades such as that tend to appear all over the Stolen Lands. Seems strange, does it not? Especially if we take into account that the magic seeds and the portals they create look like flowers themselves. Jhod even called this disaster 'the Bloom.' I'd like to research this natural phenomenon, and perhaps...\" {n}Tristian stops talking as loud, hasty steps are heard from the main entrance.{/n}"
+    },
+    {
+      "Key": "c928a5fc-a5cb-41ab-a336-308ce8be060c",
+      "Value": "{n}Kesten runs into the room.{/n} \"Your Grace! We have trouble! The peasants are rioting!\""
+    },
+    {
+      "Key": "315befa6-7d9b-4e75-95dd-d3c98f39d228",
+      "Value": "{n}Nok-Nok grimaces.{/n} \"Dangle-eared fool-holes! They be trusting any word shaman says. They not think with their ownheads! See only big beasts, not see big truth!\" {n}The goblin scratches behind his ear with a dagger.{/n} \"Great {g|Lamashtu}Lamashtu{/g} may be happy of all big-beasties around, but it not be her doing...\" {n}After mentioning the goddess, Nok-Nok stops talking, rounds his shoulders, and looks around nervously.{/n}"
+    },
+    {
+      "Key": "d6000822-2433-4c06-9d3f-3c8bc271b6ef",
+      "Value": "\"Ugh! That's the only solution these nitwits could come up with...? Don't worry, {mf|Baron|Baroness}. As long as they're not setting fire to the streets, we still have a chance of coming to a peaceful resolution. If you allow me, I'll go and speak with them, do my best to calm the crowd down.\""
+    },
+    {
+      "Key": "774d6a6c-5d61-4195-9bcb-651f2cdb628d",
+      "Value": "\"And if peace doesn't prevail... your guards and I will stand with you. Let's go. I can hear their shouting even from here.\""
+    },
+    {
+      "Key": "59048746-6b4e-4dfa-b5fb-1ed52eb9e3b4",
+      "Value": "{n}The throne room is full of people. Your allies stand around the throne, waiting in silence as you approach. The atmosphere is tense. Today, you'll be discussing the strange and deadly blight that's recently struck your barony.{/n}"
+    },
+    {
+      "Key": "c8ed466d-e4e4-4382-a0bf-a5278d991be7",
+      "Value": "{n}The gloomy silence is only penetrated by loud chewing — Nok-Nok has grabbed a whole fried chicken from the table and is busily devouring it, ignoring everyone else completely.{/n}"
+    },
+    {
+      "Key": "c5ee4802-34be-4370-887f-b05e4eae40ed",
+      "Value": "{n}Tristian slowly shakes his head.{/n} \"I don't think food is the problem. Take a look.\" {n}He points at the map.{/n} \"We have the most cases of the disease here, here, and over here. Monsters mostly attack here and here...\" {n}The cleric's finger travels down the map, tapping points along a fluid line.{/n} \"You see? The situation is most dire along the banks of the {g|Gudrin River}Gudrin River{/g}.\""
+    },
+    {
+      "Key": "f7d2e31b-141f-4b2e-8f7a-04f999edeaea",
+      "Value": "{n}Everyone examines the map closely.{/n} \"{g|Erastil}Erastil{/g} have mercy...\" {n}Jhod exhales slowly.{/n} \"Exactly! Along the river! That must be where the seeds come from. From their drinking water!\""
+    },
+    {
+      "Key": "27c597d5-3e40-4c4a-9562-6b46dd70eeac",
+      "Value": "\"As soon as the seed gains enough strength, it sprouts and turns into a magic portal. Just like a bud turning into a flower, {g|Erastil}Erastil{/g} forgive me.\" {n}Jhod stares into the distance a moment.{/n} \"Something must have possessed me to say that — it really does look like blooming. Each seed tears the body of it's victim, just as a flower tears its bud.\""
+    },
+    {
+      "Key": "e88acd1c-06de-455d-a8bc-05859443c4ff",
+      "Value": "{n}Tristian raises his eyes from the papers on the table.{/n} \"Undoubtedly from some world alien to our own. All the monsters appearing from the Bloom are exceptionally large and strong — it would be rare to encounter such specimens in the {g|Stolen Lands}Stolen Lands{/g}, or even on most of {g|Golarion}Golarion{/g}. But it's impossible to say what it is that lies on the other side of the portals that's intent on killing your people.\""
+    },
+    {
+      "Key": "9ff7a53d-1d40-4794-9a18-2acb2041c873",
+      "Value": "\"I thank you, {mf|my baron|my baroness}. I hope you'll join us soon.\" {n}Kesten gives a short bow, turns around, and leaves.{/n}"
+    },
+    {
+      "Key": "6aa17a63-364e-41f0-8586-bd9fbf87fab0",
+      "Value": "{n}Kesten casts his eyes down.{/n} \"You... you're right, of course, Your Grace. I'll order my men to get ready immediately. We'll await your arrival and then make our move.\" {n}Kesten gives a short bow, turns around, and leaves.{/n}"
+    },
+    {
+      "Key": "225f2f5b-7a28-4126-b377-5888cec131bc",
+      "Value": "{n}Kesten bites his lip and shifts his shoulders.{/n} \"Time is precisely what we lack... Please, don't delay too long. I'll go to my men immediately. I hope you'll choose to join us soon.\" {n}Kesten gives a short bow, turns around, and leaves.{/n}"
+    },
+    {
+      "Key": "897e3b07-b1c4-4ad4-8b22-0700ded1c9e5",
+      "Value": "{n}Nok-Nok jumps at your words.{/n} \"Take me! Me!\" {n}The goblin bares his sharp, crooked teeth.{/n} \"I want to settle the score with the king!\""
+    },
+    {
+      "Key": "84b76472-c1cb-4261-ab85-f26d2070b3d9",
+      "Value": "{n}Jhod, Kesten, and Tristian look at you closely.{/n}"
+    },
+    {
+      "Key": "f8e86e61-a1b0-443f-b145-9173a9cbbdaa",
+      "Value": "{n}Kesten and Jhod exchange glances. Tristian continues to dig through his papers.{/n}"
+    },
+    {
+      "Key": "03473928-8611-4763-9baf-a071f5f7cfae",
+      "Value": "\"That's a strong statement. But while you ride your high horse in here, your people are dying out there, and new monsters continue to arrive. Duty of the people or no, you must deal with this threat — that is the duty of a ruler.\""
+    },
+    {
+      "Key": "f379c20a-d998-4d7e-9fda-8d1074cbff0a",
+      "Value": "{n}Jhod bows his head.{/n} \"Each day, I see dozens of infected, Your Grace. Many people have lost their loved ones or fear they soon will. They all want to know what's going on, who deserves the blame, whose sins brought this blight upon them. Trust me, every day, the number of people willing to pin the blame on you grows. They say you and your barony are cursed.\""
+    },
+    {
+      "Key": "1ec8b98a-53df-4b38-9f0e-20dd91871f05",
+      "Value": "\"Of course, I don't believe a word of it. This isn't a curse, but some... disease, which has somehow manifested itself in your barony.\" {n}Jhod raises his eyes to meet yours.{/n} \"Trust me. I won't leave you until I find the source of this disease — regardless of what these poor people may say in their delirium.\""
+    }
+  ]
+}

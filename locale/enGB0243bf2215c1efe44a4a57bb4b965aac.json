@@ -1,0 +1,57 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "2826be25-d879-4811-8ed4-aa460a7e77d5",
+      "Value": "\"You're waiting for new recruits, right? I was told to introduce myself to the Stag Lord.\""
+    },
+    {
+      "Key": "94746117-f35e-4536-8dee-d76b5d42748a",
+      "Value": "\"I'm an envoy of Restov and the Swordlords. Inform the Stag Lord that I'm here to fight him. If he's as fierce as rumors say, he'll accept my challenge.\""
+    },
+    {
+      "Key": "762364af-ae1a-4919-a0d1-f09cd4dda656",
+      "Value": "[Attack] \"I'm here to spare the Stolen Lands from your kind!\""
+    },
+    {
+      "Key": "67d76eb7-75f4-4ea7-b7e1-6cd4652027d9",
+      "Value": "[Leave] \"I'm just a simple traveler who lost my way! I'll leave immediately!\""
+    },
+    {
+      "Key": "1c25e827-3cca-43df-9ba2-fd44708dfc88",
+      "Value": "\"I bring a message from the river camp for Akiros!\""
+    },
+    {
+      "Key": "66bf0390-17e6-4a75-b62f-120118195ab6",
+      "Value": "\"Stop! Who's there?\" {n}A sentry calls out to you lazily, an obvious demonstration of how self-assured the bandits here are.{/n}"
+    },
+    {
+      "Key": "aaa7b48f-7408-4fb8-b4f7-9652a14f8a4d",
+      "Value": "\"What, those mites steal the Stag Lord's wine again? Ugh, fine, go on and give your report.\""
+    },
+    {
+      "Key": "3dd75ad3-6703-467f-97c2-94c1fb463add",
+      "Value": "\"I don't remember him saying anything about you. He's a strict man, Akiros is. He wouldn't forget to mention something like that.\""
+    },
+    {
+      "Key": "a6d64c20-dbe7-48e0-b0e5-35acdaca6d92",
+      "Value": "\"Like he's got nothing better to do than greet every flea that comes to visit. Well, go on, I guess. Maybe it'll provide some entertainment!\""
+    },
+    {
+      "Key": "f8312dce-5eb9-4b57-85db-24efee49adda",
+      "Value": "\"Ha! I know about 'recruits' like you. Get out of here, before I call my commander.\""
+    },
+    {
+      "Key": "f63a4bb1-1ad5-4fc0-b422-24a92162b319",
+      "Value": "{n}The sentry scratches the back of his head.{/n} \"So, what, I gotta go wake up the commander? These {g|Restov}Restovic{/g} challengers just keep coming... Make me run in, report to the commander, then clean up their corpses... All right, fine, just wait here. I'll go talk to the commander.\""
+    },
+    {
+      "Key": "637676ab-2971-42d6-91b1-6fa02745d03d",
+      "Value": "\"Ha ha! You have to make it inside, first! Oh, but look at these brave fighters here!\""
+    },
+    {
+      "Key": "b66c8725-50d9-4465-8e1e-12d0dc567ac3",
+      "Value": "\"Get out of here, traveler! Count yourself lucky the commander's asleep and I'm in a good mood — otherwise, I'd just call the others in to fill you with feathers.\""
+    }
+  ]
+}

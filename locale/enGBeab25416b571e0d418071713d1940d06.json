@@ -1,0 +1,225 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "2c0b8199-4c38-41db-b923-256b0fdde69c",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "390f75f4-5e49-41ba-b48c-2df6943e0a5c",
+      "Value": "\"What were you and Dugath arguing about?\""
+    },
+    {
+      "Key": "d0d7abe5-9105-4f58-93f0-2a443f525ac6",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "a82d51b4-c623-404a-a5ce-f07fe275beed",
+      "Value": "\"Do you have any idea where your Sisters might be?\""
+    },
+    {
+      "Key": "57778bf9-a96a-4cae-bc43-46bab049f7b9",
+      "Value": "\"What are you looking for here?\""
+    },
+    {
+      "Key": "818cbc4a-dbbd-47ce-bd8d-06781d63d553",
+      "Value": "\"You speak in riddles.\""
+    },
+    {
+      "Key": "e6220616-8c52-4c5b-b18c-8b1fbdd1b193",
+      "Value": "\"Do you know anything about what happened in Varnhold?\""
+    },
+    {
+      "Key": "402a8aac-1c08-4a28-b050-ce1dc5883c54",
+      "Value": "\"What compensation can I expect for my help?\""
+    },
+    {
+      "Key": "abb39be0-a8ab-445f-a6ec-225a3ee776cb",
+      "Value": "\"Tell me about Numeria.\""
+    },
+    {
+      "Key": "a43d5e2a-048e-4a5a-8d17-0b06be2b9103",
+      "Value": "\"Tell me about Armag.\""
+    },
+    {
+      "Key": "6313bc72-9e48-4df2-afc9-6e556e63fedf",
+      "Value": "\"My name is {name}. What's yours?\""
+    },
+    {
+      "Key": "d68f6baf-8515-4c94-952a-2d4585cf8919",
+      "Value": "\"You don't need to know my name.\""
+    },
+    {
+      "Key": "a23fee1f-79ac-41c3-a19b-deedee55f166",
+      "Value": "\"I found your Sister in the Forsaken Mound.\""
+    },
+    {
+      "Key": "b028d313-35d2-4f57-8ed1-668f044cf972",
+      "Value": "\"I found your Sister in the City of Hollow Eyes.\""
+    },
+    {
+      "Key": "04921c20-f3f2-4c36-b0af-fd4cc26581d0",
+      "Value": "\"I found your Sister in the Sepulcher of Forgotten Heroes.\""
+    },
+    {
+      "Key": "8101e886-97e4-4d2a-a4d6-6f687ec7d443",
+      "Value": "\"She's alive and well, and she'll return soon. She asked me to give you this incense burner.\""
+    },
+    {
+      "Key": "d6f5e7e2-32b2-4d55-9bd7-67a35c06903a",
+      "Value": "\"You have a whole army here. How did you manage to get this far?\""
+    },
+    {
+      "Key": "e21520f0-e671-4708-b73f-9f88cc893858",
+      "Value": "{n}A slim figure stands eerily still, wrapped in a cloak and hiding her face in her hands. If you hadn't seen her moving before, you could easily mistake her for a statue. However, as you approach, she lowers her hands from her face, and golden-green eyes peer at you through the holes in the cloth covering her face.{/n} \"You... Our guest. The {mf|baron|baroness} of {kingdomname}, am I right? I'm sorry you witnessed that unpleasant scene. If I may ask, what is your name?\""
+    },
+    {
+      "Key": "db3b496a-49d1-4679-be85-9797c43aefbb",
+      "Value": "{n}The Defaced Sister stands still, only her golden-green eyes follow you through the holes in the cloth that covers her face.{/n}"
+    },
+    {
+      "Key": "7f6f906c-e250-42f5-8107-19407f05ef17",
+      "Value": "\"I'm one of those who call themselves the Defaced Sisters. We've rejected our names and our faces in service to benevolent spirits. I'm sorry that I can't reveal our true destiny to you yet — but believe me when I say our mission is extremely important. Not just for us, not just for the tribe, but for the entire world.\""
+    },
+    {
+      "Key": "6c8555a6-3a7f-4974-b468-46396091ab40",
+      "Value": "{n}The woman lowers her head.{/n} \"My Sisters... They each went out on their own quests and never returned — not one of the three. I can understand Dugath — he doesn't trust us. But by refusing to help my sisters and me, he puts himself, his people, and countless innocent souls in grave danger. If only I could soften his impenitent heart...\""
+    },
+    {
+      "Key": "628c70aa-7c5b-4788-b69c-2ba4f8be9557",
+      "Value": "\"Do you have a map? I can provide you some direction. One of my Sisters went to the {g|Sepulcher of Forgotten Heroes}Sepulcher of Forgotten Heroes{/g}. Another went looking for the {g|Forsaken Mound}Forsaken Mound{/g}. And the third was going to visit the ruins of the {g|City of the Hollow Eyes}City of Hollow Eyes{/g}. I won't lie, these places are all very dangerous — but searching for lost truth always involves danger.\" {n}The woman marks the locations on your map.{/n}"
+    },
+    {
+      "Key": "50d1759b-89c0-465c-a736-5d4b19096fc4",
+      "Value": "\"It is not yet time to answer this question. We're searching for ancient ruins, the remains of structures built by the previous holders of these strange lands — that's all I can tell you for now. I understand that you want to know more, but have no doubt — you will in time.\""
+    },
+    {
+      "Key": "16546dcc-06cc-4996-85d8-4ae3bbd47255",
+      "Value": "\"Don't be wary of riddles. Those wise enough to solve them eventually learn much more than those who always seek straight answers.\""
+    },
+    {
+      "Key": "9dcd5edc-5e16-4449-a41b-921f69439eed",
+      "Value": "\"Dark things tend to happen in that land. I can only guess to the fate of {g|Varnhold}Varnhold{/g}. My three Sisters know more. Help me find them, and you'll get your answers — if the spirits are kind, it will happen before it's too late.\""
+    },
+    {
+      "Key": "55d92d51-696e-45b1-9d54-6121f3cf3d34",
+      "Value": "\"With the most valuable treasure of all — truth.\""
+    },
+    {
+      "Key": "ba83f3e2-948f-41ae-8e71-b1b027110e88",
+      "Value": "\"May kind spirits guide you in your travels.\""
+    },
+    {
+      "Key": "280757b2-ae06-499c-8b03-f5509772815f",
+      "Value": "\"These are enigmatic lands — stars rain from the sky, soil bleeds fire and gives birth to metal instead of grass... These are lands of mysteries and nightmares — but they're destined to become the salvation of us all, for that's where great Armag lived, died, and rose again, and he will bring redemption for us all.\""
+    },
+    {
+      "Key": "a2f2ddce-1331-481b-8195-a4c039743dae",
+      "Value": "\"He's a man of great destiny. The gods themselves tried to lay him low, but he came back, defied death itself, as was foretold, for that was his fate. He's destined to save many, many lives, but at terrible cost to himself. I would never wish a fate like that on you, Baron{mf||ess}. I would never wish a fate like that on anyone.\""
+    },
+    {
+      "Key": "07abada3-1635-4f9e-9a6d-ca82cc301693",
+      "Value": "\"Nice to meet you, Baron{mf||ess}. I have no name. I've rejected it to serve benevolent powers — not the greatest sacrifice of those we're sometimes called to make. You may call me Defaced Sister.\""
+    },
+    {
+      "Key": "a1be2508-85f0-463e-b3be-f964385afcf2",
+      "Value": "{n}The woman nods.{/n} \"So be it. Everyone has their secrets, Baron{mf||ess}.\""
+    },
+    {
+      "Key": "4af29f4a-69f0-43e3-861a-17f51fdafe79",
+      "Value": "{n}After you give your name, a large raven who'd been sitting on the fence nearby takes wing and flies away, cawing coarsely.{/n}"
+    },
+    {
+      "Key": "4166ce95-f304-435b-9ff2-97ff5aa182b1",
+      "Value": "\"I thank you. How is she? Where is she?\""
+    },
+    {
+      "Key": "eee24e5e-9a95-4de7-9265-02885c62ff95",
+      "Value": "\"Good spirits be praised! Where is she?\""
+    },
+    {
+      "Key": "0299ed3b-f435-4a3e-b7d0-e53fbbc6f3c4",
+      "Value": "\"Thank you for your help. I hope she's all right?\""
+    },
+    {
+      "Key": "073d9771-0d16-4d6b-a015-d6f119490c64",
+      "Value": "\"I'm so glad! I knew I shouldn't lose hope!\""
+    },
+    {
+      "Key": "fee0344e-da86-4fe1-ade6-a1c66300dd5d",
+      "Value": "\"Grave news, indeed. May the kind spirits save her soul.\""
+    },
+    {
+      "Key": "fe159639-9c2f-41d5-9ad3-6a1d819c2aa4",
+      "Value": "\"You... You've committed a terrible crime — and made an even more terrible mistake.\""
+    },
+    {
+      "Key": "669d9883-9538-4593-9dc7-f46925c6487f",
+      "Value": "\"I can't wait to see her again. Oh, Sister, please hurry!\""
+    },
+    {
+      "Key": "21246ca5-4838-4e9a-8742-937c8126bc3b",
+      "Value": "\"My poor Sister... I won't let her sacrifice be in vain.\""
+    },
+    {
+      "Key": "c9f1a814-c7b6-48a6-9cda-61e22037204d",
+      "Value": "\"How could you! You have no idea of the horrible dangers you've brought on your head — on the heads of us all!\""
+    },
+    {
+      "Key": "8c5ef7b2-0455-41a3-8bfe-eb5d13930b6a",
+      "Value": "\"May the kind spirits guard her path.\""
+    },
+    {
+      "Key": "a93601ed-ed8b-44c8-924a-72e394b21ddc",
+      "Value": "\"Such a tragedy... Alas, sometimes serving the good demands the ultimate sacrifice of us.\""
+    },
+    {
+      "Key": "a8f0efdc-4dfe-479c-b545-18987f767529",
+      "Value": "\"Oh, spirits... You've no idea what you're doing!\""
+    },
+    {
+      "Key": "3940ecdd-6176-4ec6-b957-a6911b0f6982",
+      "Value": "\"She's back already. I can't thank you enough.\""
+    },
+    {
+      "Key": "4ac99863-d0e4-4beb-849a-d70671d2442d",
+      "Value": "\"You have my thanks. I was so happy to see her alive and well!\""
+    },
+    {
+      "Key": "91227ae8-c2f4-49df-b19a-df0305bf8e96",
+      "Value": "\"If in your travels you meet my Sisters, please help them. And I will help you in return. Remember this word: \"kheb.\" That is what the previous inhabitants of these lands, the cyclopes, called darkness they so worshipped... If a door, shut and lockless, bars your path — this word might be your key.\""
+    },
+    {
+      "Key": "7dd8bae9-6822-437a-81d0-0734e1a87163",
+      "Value": "\"That's strange... What could keep her away for so long? I suppose it is no matter. I'm just happy to know she's all right. Thank you for taking care of her.\""
+    },
+    {
+      "Key": "527a4645-a300-43f3-8adf-98a6bd6d95a9",
+      "Value": "\"Wise ones know many routes that are closed to the uninitiated... Will you be able to detect them? Will you dare to walk along them? Who knows...\""
+    },
+    {
+      "Key": "a34aab6e-88a6-44b7-8b2a-b1f889836b87",
+      "Value": "\"So honorable! Do these benevolent spirits have names?\""
+    },
+    {
+      "Key": "e4b95472-545c-4e58-8e42-dee215362ae2",
+      "Value": "\"Do not burden yourself with idle questions, cleric. Know that all the truths you are seeking for will find you — but only when you are ready for them!\""
+    },
+    {
+      "Key": "a7832651-b8c3-4271-bd8c-b2e191d86a19",
+      "Value": "\"How is this possible? Doesn't this army know any kind of order or discipline? How do they manage to even fight in such chaos?\""
+    },
+    {
+      "Key": "f3472ab1-a230-4e6d-8fed-cc345b715851",
+      "Value": "\"There are many songs about Armag, not all of them {g|Numeria}Numerian{/g}. Some see his story as an inspiration, other as a warning against the dangers of hubris... But I've never heard about any prophecy!\""
+    },
+    {
+      "Key": "a8f887c5-8084-4c06-b3ad-708f66efe762",
+      "Value": "\"Such wise, enlightened words! People who talk like this are usually trying to swindle you out of your purse!\""
+    },
+    {
+      "Key": "2a4fb642-2fce-4893-9966-c832bc85b704",
+      "Value": "\"To challenge the {g|Pharasma}Lady of Graves{/g}, and win with no magic... I guess, there are humans who deserve to be called heroes, after all.\""
+    }
+  ]
+}

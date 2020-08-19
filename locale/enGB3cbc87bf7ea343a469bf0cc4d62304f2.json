@@ -1,0 +1,193 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "4f6fe7e8-c7bf-40f2-b09d-5a8b634e6410",
+      "Value": "\"What did you say?\""
+    },
+    {
+      "Key": "3092b9af-009d-47f3-9ee3-0456b6a21dd8",
+      "Value": "\"A talking bird right in the middle of a mysteriously empty settlement. Are you behind what happened here?\""
+    },
+    {
+      "Key": "432d0c22-936d-4b62-9119-61f24e6c4c5c",
+      "Value": "[Throw a stone at the raven]"
+    },
+    {
+      "Key": "c329cf1e-ff66-4f66-ba50-a6c16a7a8fcd",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "8c06f783-9c26-480c-816f-426df5c42ca6",
+      "Value": "\"They were thieves and looters — a threat to the peaceful peasants. What if they had come across another village?\""
+    },
+    {
+      "Key": "92431f60-d735-4029-b728-e667144ceb59",
+      "Value": "\"They attacked. I responded.\""
+    },
+    {
+      "Key": "9d303f97-f08a-468f-bbb7-58b414abb20e",
+      "Value": "\"They have broken the law and were punished for it.\""
+    },
+    {
+      "Key": "ee1cb4af-049d-4fb9-97aa-2b91e5642f5a",
+      "Value": "\"That's not true. Agai still has a chance for a fresh start.\""
+    },
+    {
+      "Key": "ba75dae9-c1ec-45d4-9006-b25c8e68e6db",
+      "Value": "\"I don't care where they go or what happens to them.\""
+    },
+    {
+      "Key": "7ab54bae-b30c-466c-bf5c-6acd57acb89f",
+      "Value": "\"That's exactly why I let them go — so they could suffer a while longer before the wilderness takes them.\""
+    },
+    {
+      "Key": "d351fd66-ac28-4f0f-9549-15fa3200ee0a",
+      "Value": "\"My name is {name}. Now tell me who you are.\""
+    },
+    {
+      "Key": "1ba88910-1e86-49cd-9f3d-cdc92266e91f",
+      "Value": "\"I'm guessing you're new to these parts if you still don't know who I am! Why don't you take to the air and ask around?\""
+    },
+    {
+      "Key": "d8cdfcc6-6782-4be2-99bb-9a1ae44cf642",
+      "Value": "[Leave] \"Last thing I need is to introduce myself to a filthy crow.\""
+    },
+    {
+      "Key": "7d260377-5474-4cf5-9188-00f058962f57",
+      "Value": "\"I stole nothing.\""
+    },
+    {
+      "Key": "8f0cb095-ffa7-4b4e-a949-7ddcc8311a61",
+      "Value": "\"What do you know about the vanishing of Varnhold?\""
+    },
+    {
+      "Key": "934f61e2-f4f5-45f1-870b-e9cc3e9cf103",
+      "Value": "\"I'm not from Varnhold, but I will find out what happened here.\""
+    },
+    {
+      "Key": "2ec6e907-7647-4615-af3a-6ad2797ffe48",
+      "Value": "[Ignore the question] \"My, my, a talking crow! Now if you said anything worth hearing, that'd be impressive indeed.\""
+    },
+    {
+      "Key": "f6faaf89-7455-439b-844a-fba19462c9dd",
+      "Value": "\"I am {name}, the baron{mf||ess} of the neighboring realm! Insult me again, insolent crow, and you'll regret it!\""
+    },
+    {
+      "Key": "0f00e1f4-fcc8-49fd-befd-203594c9bf23",
+      "Value": "[Hold Tristian's hand]"
+    },
+    {
+      "Key": "e5f49dc4-a402-4956-bdbf-f9828bc9b190",
+      "Value": "\"Put it out of your mind. It's just an insolent bird!\""
+    },
+    {
+      "Key": "68a09bfa-59ff-4133-9a80-287f6ae6e76c",
+      "Value": "\"Let's go.\""
+    },
+    {
+      "Key": "739cbde8-3f30-4540-857f-5d7b2bcfd426",
+      "Value": "{n}You notice a huge black bird sitting still on a high fence by the exit, as if waiting for you. It's a raven — glistening black, and one of the largest ravens you've even seen. As you approach, it tilts its head and affixes you with a beady black eye.{/n}"
+    },
+    {
+      "Key": "bf37265d-43a3-4dc0-8e7d-56dcba6c133b",
+      "Value": "{n}As you are about to leave, you hear a cracked voice.{/n} \"Hypocrrrite!\""
+    },
+    {
+      "Key": "39dae46a-0d8f-4965-80af-4c60fa0ef287",
+      "Value": "{n}As you are about to leave, you hear a cracked voice.{/n} \"Butcherrr.\""
+    },
+    {
+      "Key": "5870bbf8-7db3-4fc7-a13c-dca4c44a06db",
+      "Value": "\"What have these miserrrable fools done that they must pay with theirrr lives?\" {n}The raven gives a ragged caw, then tilts its head and looks at you, unblinking.{/n} \"Who are you to decide the fate of those whom you do not rule? Why did the victims deserrrve to die?\""
+    },
+    {
+      "Key": "53e6b137-4227-4629-a1b8-6c127bc417ff",
+      "Value": "\"What's the point of your false pity forrr these fools who you allowed to live?\" {n}The raven gives a sharp caw, almost a bark.{/n} With no shelter, no family, and no homeland, always on the run... all you did is prolong their sufferrrring... and take pride in your...\" {n}The raven gives another sharp caw, almost sneering.{/n} \"...'chivalry'.\""
+    },
+    {
+      "Key": "c5bf0094-5e9c-434a-a1c7-e4515bf260b5",
+      "Value": "\"Miserrrable hyprocrrrites. You seek to justify yourrr actions?\" {n}The raven gives a series of caws, as if laughing.{/n} \"There is no justification, no, no, no.\""
+    },
+    {
+      "Key": "77d55d22-e7f9-4bd3-95d2-bbc2bf1714fb",
+      "Value": "\"Worrrms wriggling in the mud. Nothing concerns you but yourrrselves. You deserve contempt, nothing morrre.\""
+    },
+    {
+      "Key": "e8c5e78a-0eeb-4bf7-82e2-77a116be7fe4",
+      "Value": "\"The delight you take in your prrride! At least you are honest, although in the end, you're just like the rest of your decrrrepit race, {race}.\""
+    },
+    {
+      "Key": "1fddc860-c294-4c2a-b9c3-e7913dc3bf03",
+      "Value": "{n}Your aim is true, and the stone hits the bird's skull with a sharp crack. The raven falls from its perch with a shriek.\nJust before it strikes the ground, it clumsily rights itself, and, cawing and losing feathers, takes flight.{/n}"
+    },
+    {
+      "Key": "50fcf92c-1f46-4b3e-afad-bbc09978b8c6",
+      "Value": "{n}The stone misses the raven. With rattling caws, the raven takes to the air and flies away. In moments, it is nothing more than a speck in the sky, then it is gone.{/n}"
+    },
+    {
+      "Key": "d626f57e-92a6-44b1-8605-9606e743a635",
+      "Value": "{n}The raven regards you for a moment. Finally, it flaps its wings and without a sound, takes flight. Moments later, it is nothing more than a speck in the sky, then it is gone.{/n}"
+    },
+    {
+      "Key": "f1c93da0-9b3b-42f6-8594-b17a24e96813",
+      "Value": "{n}The raven ignores the question, only echoing its last word.{/n} \"Butcherrr.\""
+    },
+    {
+      "Key": "cdd29826-ec73-4f1d-a20b-0e1ae80286fb",
+      "Value": "{n}The raven ignores the question, only echoing its last word.{/n} \"Hypocrrrite.\""
+    },
+    {
+      "Key": "41bf34e3-f1f9-4e8a-b410-8e25efab031b",
+      "Value": "\"Why are you herrre? Are you one of the thieves that lived in this miserrrable settlement?\""
+    },
+    {
+      "Key": "2caafbf0-82f0-405c-9a60-467a1acecbc8",
+      "Value": "\"Liarrr. This settlement was full of thieves — they paid for their crrrimes. Now only a single one rrremains — you. Who arrre you?\""
+    },
+    {
+      "Key": "d2f6c685-e0de-4de6-b3f0-af92951edab7",
+      "Value": "\"Only that the people of this dusty village were thieves. Thieves and bandits who didn't rrrespect the law and didn't know their place. Inferior beings don't dare touch that which belongs to their masterrrs. Who arrre you?\""
+    },
+    {
+      "Key": "e3d7e954-cc56-49b4-b0d7-66eed2c3425e",
+      "Value": "\"You?\" {n}The raven gives a short, barking caw.{/n} \"What arrrogance! What pride! You, thrall? Do not follow one crime with anotherrr… you will sufferrr the same fate. Who arrre you?\""
+    },
+    {
+      "Key": "ad3d723f-2c13-4e49-94f9-770f63d6baab",
+      "Value": "{n}The raven bristles, its wings fluttering.{/n} \"You would do well to heed my worrrds, thrall — as would all of you of the lesserrr races! You will swallow your worrrds when the time comes, and the time comes for you all!\""
+    },
+    {
+      "Key": "c70ee351-79be-4b3f-bbf8-861030d2fc63",
+      "Value": "{n}Tristian follows the bird with a look of anxiety and determination. He seems so absorbed in his thoughts that he forgets everything else in the world.{/n}"
+    },
+    {
+      "Key": "438fbb71-9111-4c8e-a75c-5d6af6907659",
+      "Value": "{n}Tristian turns back, surprised, and smiles faintly, seeing you.{/n} \"Not the most pleasant omen, right?\" {n}He squeezes your fingers lightly and releases them.{/n}"
+    },
+    {
+      "Key": "58629780-4611-4953-b799-99e60ad8b3b9",
+      "Value": "{n}Tristian swallows heavily and nods.{/n} \"Let's go.\""
+    },
+    {
+      "Key": "8e862f95-728c-4f22-a92f-c69389ba391c",
+      "Value": "{n}Tristian shrugs.{/n} \"I'm afraid that raven is more than just a bird.\""
+    },
+    {
+      "Key": "e2fb6304-8568-4b28-a3a3-4bd99c825392",
+      "Value": "\"Let's go. Let's not waste any more time.\""
+    },
+    {
+      "Key": "f0a672d8-4433-4b9b-88c2-fe6e493fb1c0",
+      "Value": "\"Look! Fat tasty featherbag! Hit it with stone!\""
+    },
+    {
+      "Key": "bd7f18a2-1ebc-4ab6-849a-f737a7df0c4a",
+      "Value": "\"Fat tasty... talky featherbag?\""
+    },
+    {
+      "Key": "f0d8cb5c-3ad4-4669-8f4f-1585e05e1929",
+      "Value": "\"It can talk! Maybe it's a wizard turned into a raven? Or a charmed prince? Oh, don't pay attention to me. – I've just never seen anything like it...\""
+    }
+  ]
+}

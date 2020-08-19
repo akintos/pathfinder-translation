@@ -1,0 +1,165 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "7f93df34-2598-480b-82dd-6cca97b74f7c",
+      "Value": "\"Willas Gunderson, right? Do you remember me? Once, you sought my help with the island on Candlemere.\""
+    },
+    {
+      "Key": "c05399cd-387a-4990-94ff-26f27ca399cb",
+      "Value": "\"Why do you still remain in this world?\""
+    },
+    {
+      "Key": "f72e77c0-ba13-48cf-9560-881d16815f74",
+      "Value": "[Attack] \"You attacked me first — now you'll pay!\""
+    },
+    {
+      "Key": "e67f4d69-0079-4900-b919-34a71d3c298d",
+      "Value": "\"How did you end up here?\""
+    },
+    {
+      "Key": "7c537e36-1d03-4119-9e8a-3f811610d57e",
+      "Value": "\"What happened in the tomb?\""
+    },
+    {
+      "Key": "e624ad9a-8e94-4d8a-9dc7-f8e2c6ff01e7",
+      "Value": "\"Varnhold — where are its citizens?\""
+    },
+    {
+      "Key": "26c1f6c0-5dab-4443-902a-8cef5b222f4e",
+      "Value": "\"Why wasn't your soul imprisoned?\""
+    },
+    {
+      "Key": "961c0ab8-d3d9-4c2d-8d98-6ccb5c6b5f46",
+      "Value": "\"You've suffered enough and paid the price for your mistakes. If before you can travel the River of Souls you need forgiveness — I forgive you. Go in peace.\""
+    },
+    {
+      "Key": "f88147bd-0d63-48bb-8670-df71d37ce0a7",
+      "Value": "\"I'm sorry. I'll make Vordakai regret what he did to you.\""
+    },
+    {
+      "Key": "74c053ff-5e54-4177-9e3d-ff6daaf5f4dc",
+      "Value": "\"You deserved your punishment. You caused the suffering of countless innocents — this is the price you must pay.\""
+    },
+    {
+      "Key": "f09a6e8a-b8b8-4cae-90a4-0c06b99a5a1c",
+      "Value": "\"I must go. Farewell.\""
+    },
+    {
+      "Key": "dd2c3520-af86-4c3f-9103-1b7f9991748f",
+      "Value": "\"Have you seen Vordakai? Tell me about him.\""
+    },
+    {
+      "Key": "9694eba3-9abf-4796-b8f9-c918a46df0dc",
+      "Value": "\"Wait! Mercy!\" {n}The ghost's voice is faint, as if speaking from far away.{/n}"
+    },
+    {
+      "Key": "38dbddda-7c12-458b-b7dc-fd56e25259ea",
+      "Value": "{n}The figure before you looks... vague, indistinct, as if it could dissipate into the air at any moment.{/n} \"Ba... {mf|baron|baroness}? Is that you?\""
+    },
+    {
+      "Key": "cc59be87-ba2a-4078-ac1c-ff7846b35db9",
+      "Value": "\"Flee from this place — before it's too late! This dungeon is a trap! A trap!\""
+    },
+    {
+      "Key": "94f5913a-c243-4cc8-b9a3-195cadf4ee9d",
+      "Value": "\"I tried! I tried to leave, but...\" {n}His voice becomes fainter.{/n} \"I fear to. I did all I could to be a decent man, but... but what if it was not enough? What if {g|Pharasma}Pharasma{/g} decides to cast me down… to be eaten by demons?\""
+    },
+    {
+      "Key": "dd71dfde-fb56-48ef-a8b3-19a79e730683",
+      "Value": "\"No, I'm not ready yet. I need to think. To work up my courage. I need…\" {n}His voice fades, becoming nothing more than a faint, indistinct whispering.{/n}"
+    },
+    {
+      "Key": "eeb9b1ce-5fc5-4a73-b5a4-94f1d7fb1980",
+      "Value": "\"It's not my fault! It was a mistake! A huge, foolish mistake!\""
+    },
+    {
+      "Key": "312fa8e8-3521-4cc7-82b8-2f42244bcaf3",
+      "Value": "\"I was wandering through the mountains. Searching for something... something that would prove my worth, make others sit up and take notice, a little respect. People always used to talk that there were some ancient ruins in {g|Tors of Levenies}Tors of Levenies{/g}. But all I found were pot shards and rubble. So, the next morning I decided to head to {g|Varnhold}Varnhold{/g}, and from there, to {g|Restov}Restov{/g}.\""
+    },
+    {
+      "Key": "4c6eb309-efc8-471f-a479-1dc0944a756e",
+      "Value": "\"Then something... happened. I can't tell if it was a dream or — it... it was as if someone had set a compass needle behind my eyes, and it was pointing me in another direction. So, I went… through the darkness... and ended up at the outside of this damned tomb.\""
+    },
+    {
+      "Key": "46c1ad49-0361-4b48-8774-0c5d4160323f",
+      "Value": "\"I... just wanted to take a look! So… I know it was foolish, but I saw this bracelet... entirely of jade! An entire fortune, worn on the wrist! I shouldn't have taken it, but I couldn't resist — so I snatched it and fled before some dead thing crawled from the tomb.\""
+    },
+    {
+      "Key": "e9f98e81-a2ce-441a-8c16-7e778c1f02e9",
+      "Value": "\"I returned to {g|Varnhold}Varnhold{/g} and gave the bracelet to Maegar — I expected he'd pay me with a good sum of gold.\" {n}Willas is silent for a moment.{/n} \"But before I could get my reward, it came for us.\""
+    },
+    {
+      "Key": "3db1b634-5f51-454f-af48-f7d079adafc9",
+      "Value": "\"They left. By their own free will. By the will of someone else, to be precise. I was among them... I remember that... voice ringing in my head. The voice, like an emperor, giving orders no one could disobey. So... I did everything it demanded. And so did the others.\""
+    },
+    {
+      "Key": "5fdae532-a02d-4d16-88c9-31b1474fabd0",
+      "Value": "\"That's how all of us ended up here. Vordakai... he's... evil incarnate. He blamed us for stealing what was his, then tore our souls from out chests and imprisoned them. As for the bodies... you'll find them in the next room, the dining hall.\" {n}Willas' silhouette quavers.{/n} \"I can't bear to look upon them.\""
+    },
+    {
+      "Key": "902afb95-6126-466b-a8af-75468d588d4e",
+      "Value": "{n}Willas is silent for so long, you begin to wonder if he's going to answer at all. When he speaks again, his voice is fainter than before, as if ashamed.{/n} \"Vordakai decided I deserve a harsher punishment than the others. After all, I was the one who stole his bracelet, the one who drew his eye. But he didn't torture my body, instead he... raked his fingers through my mind, plucking out memory after memory. He made me confess every bad thing I ever did, every shame, showed me how... weak I was.\""
+    },
+    {
+      "Key": "69338193-5137-4dc2-a3c6-20379637f2e1",
+      "Value": "\"After he was finished with me, he slit my throat with his finger… but I didn't die, he released my soul through the wound so that I might forever be amongst those who died as a result of my weakness. So here I remain. It's what I deserve for all the grief and suffering I caused in my life.\""
+    },
+    {
+      "Key": "7d60cc82-742a-4529-ad09-b66c1fc053a9",
+      "Value": "\"You… you forgive me? But... I did so much harm... yet there is still a hope for me beyond this world?\" {n}Willas's eyes widen, and you notice his form is fading, dissipating into the air.{/n} \"I hope the gods will be as merciful to you as Your Grace was to me.\""
+    },
+    {
+      "Key": "cb10afb7-f6eb-4928-8f15-388b279cad14",
+      "Value": "{n}The ghost is barely visible in the darkness — Willas looks at you warily.{/n} \"Why did you return?\""
+    },
+    {
+      "Key": "3c2bb536-ce7d-4c5b-be9e-2b27b36705f4",
+      "Value": "{n}Willas begins to fade, about to disappear entirely.{/n} \"I am sorry. I'm truly sorry…\""
+    },
+    {
+      "Key": "1d761611-2e70-458d-852f-899663c65325",
+      "Value": "\"I thank you, Your Grace, but I ask that you save yourself. I am beyond salvation.\""
+    },
+    {
+      "Key": "029a2d29-e53b-478c-b679-d0922a6a5653",
+      "Value": "\"A lich, a cyclops... their dead emperor. He's an ancient creature... perhaps the most ancient creature on all {g|Golarion}Golarion{/g}. He... he hates humans, dwarves, elves... 'the lesser races', the slaves, he calls them. He can twist our minds and crush our wills into dust. I know, for I fell... victim to his power.\""
+    },
+    {
+      "Key": "1670f73b-b4f9-4d6a-ac02-fd98293fb045",
+      "Value": "\"He boasts that he'll conquer the world. But you know I think... the centuries have taken their toll, weakened him as he lay sleeping here in his tomb. I don't believe Vordakai is all-powerful… it may be possible to defeat him.\""
+    },
+    {
+      "Key": "c632742e-11b3-4755-af52-2d116fa8eda8",
+      "Value": "\"My time has come. Thank you and farewell!\""
+    },
+    {
+      "Key": "cfd4fb3f-bbe3-4b1d-ab0b-6cf1212d2184",
+      "Value": "\"So devouring people is not enough for this monster. It wants a crown. I see.\""
+    },
+    {
+      "Key": "0d6855a4-e29b-4b24-82c4-34bb5b25af3e",
+      "Value": "\"As if the {g|Technic League}Technic League{/g} was not enough — here is another wannabe master! Well, he's getting no slaves here!\""
+    },
+    {
+      "Key": "3fccd1cd-2c12-460b-8853-313b69dfca0f",
+      "Value": "\"Ha! That's what you get for sticking your long nose and greedy fingers where they don't belong! Hm-m... This is probably the way I'm going to die too someday.\""
+    },
+    {
+      "Key": "3a533e94-b526-4491-946a-864336511ac1",
+      "Value": "{n}The goblin stares at the ghost, then shakes his head violently and turns away.{/n} \"Nok-Nok not know where he go when die. Not need to know. Dead is dead — Nok-Nok is still alive. All good.\""
+    },
+    {
+      "Key": "544bbe3d-c0de-42e1-b5a3-ce96b1c08ea7",
+      "Value": "{n}Kanerah frowns.{/n} \"There's nothing good in death – you're right about that. But an existence like yours isn't very joyful either...\""
+    },
+    {
+      "Key": "7e8fb9b7-5e26-4c56-b73b-12460a64827b",
+      "Value": "\"So the entire settlement died because of one careless treasure hunter? I'll tell this story next time someone tries to convince me that tramps and fortune-seekers are harmless.\""
+    },
+    {
+      "Key": "f956f02f-41c8-4cb9-9287-d9b5f710d635",
+      "Value": "\"Anger rarely visits my soul, but I'd be happy to rip Vordakai's dead heart from his chest, whoever he is. But can't we help Willas? Are we really just going to leave him alone in the dark like that? I could even shelter a ghost at my home, so that he wouldn't wander, suffering and alone, unable to even talk to anyone... It's a pity my sister wouldn't allow it.\""
+    }
+  ]
+}

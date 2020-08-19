@@ -1,0 +1,201 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "a87cb6ef-6150-44f1-b1a3-8256997b940c",
+      "Value": "\"Kanerah, I sense something strange. As if someone was here right before us, and did something to the Disk...\""
+    },
+    {
+      "Key": "add0ef75-7ba1-4932-9b47-9b7c58780367",
+      "Value": "[Detect Magic] [Examine the magic aura of the artifact and the surrounding area]"
+    },
+    {
+      "Key": "8a670aeb-dea0-454c-8d6f-f7b0d461a7b3",
+      "Value": "\"Fine. Take the Disk.\""
+    },
+    {
+      "Key": "575b14dd-5ce4-48b8-a6f7-663043a015eb",
+      "Value": "\"I won't give you the Disk.\""
+    },
+    {
+      "Key": "25e16970-9f73-43e3-8860-7828739c0d9f",
+      "Value": "\"It could be dangerous. I don't want to risk your life.\""
+    },
+    {
+      "Key": "242a66a5-7ff0-4842-a7db-b76e83087a9e",
+      "Value": "\"Are you all right?\""
+    },
+    {
+      "Key": "a4e7eb90-eec6-4de6-bdc2-fe6f1be0a56f",
+      "Value": "\"Nevertheless, I won't let you take it.\""
+    },
+    {
+      "Key": "b4882742-07c6-447c-b445-44ebfe4763b0",
+      "Value": "\"Here we are – we just recovered the artifact, and then lost it already...\""
+    },
+    {
+      "Key": "3d5050dd-88d2-49f4-852d-1b5ba8e0bbc6",
+      "Value": "\"I don't know what just happened, but I don't like it!\""
+    },
+    {
+      "Key": "e6732ccf-df11-48f3-a0d3-8b1fd904ce3f",
+      "Value": "\"You two are going to drive me insane, I swear!\""
+    },
+    {
+      "Key": "b1afa226-b58d-4ea1-864f-f5bd5c638134",
+      "Value": "\"Kanerah and I recovered the Disk of the Eclipse. And it affected her in a strange way...\""
+    },
+    {
+      "Key": "9a0240bc-c02d-49e3-803a-a07e45146cff",
+      "Value": "\"You got your Disk. Now can we put an end to this nonsense and move forward?\""
+    },
+    {
+      "Key": "ac9bd596-2b38-4cc5-ab58-a4fa2d556ff8",
+      "Value": "\"Your sister asked me to tell you that you're a foolish goat.\""
+    },
+    {
+      "Key": "b5d23a89-7236-4e76-902c-59699a5b6fd3",
+      "Value": "\"Your sister asked me to tell you that she misses you.\""
+    },
+    {
+      "Key": "f6f4b94e-2d7a-438d-b630-f8f12ffffd6a",
+      "Value": "\"Your sister asked me to tell you to give a nice big hug to the wonderful {mf|baron|baroness|King|Queen} who helped you so much...\""
+    },
+    {
+      "Key": "a5820ccb-22f8-4ff2-aa85-d9f2cd5bad42",
+      "Value": "\"I'm joking!\""
+    },
+    {
+      "Key": "93df6c91-c7f3-446a-987f-d037bf99942e",
+      "Value": "\"I'm only joking, but you know, I'd be happy if you hugged me at some point...\""
+    },
+    {
+      "Key": "86c009a3-e842-47f9-a07c-8fcbf8aac15b",
+      "Value": "\"I'm perfectly comfortable!\""
+    },
+    {
+      "Key": "9a72581d-f1fb-4bd1-b912-a5c6a3fc47c4",
+      "Value": "\"So you can now switch whenever you want to...\""
+    },
+    {
+      "Key": "78b4d715-4c08-44a7-84c6-0ba9460231be",
+      "Value": "\"You'll be most welcome!\""
+    },
+    {
+      "Key": "ef26cfa5-4590-4072-b5dd-8340aaa96fe9",
+      "Value": "\"I've no need of you.\""
+    },
+    {
+      "Key": "d479e4b5-e850-454a-870e-4bc562dfaf17",
+      "Value": "\"Let's see what we have here...\" {n}Kanerah's tail dances just above the ground, giving away the tiefling's excitement. She's obviously anxious to grab the Disk of the Eclipse, but waits for you to nod.{/n}"
+    },
+    {
+      "Key": "e92e956a-7b38-42e6-a24e-95cf1d8db422",
+      "Value": "{n}The girl quickly grabs the artifact with both hands, and that very instant you hear a loud sound, like a clap – and Kanerah is enveloped in a cocoon of white light, which quickly turns to darkness.{/n}"
+    },
+    {
+      "Key": "7060286b-5005-4e9c-a7bf-b86228120d5f",
+      "Value": "{n}You easily find the Disk's aura. It's an intricate artifact, but it doesn't seem especially powerful. But you notice something else – traces of a much stronger aura nearby. It seems that someone very powerful was here before you, and did something to the Disk...{/n}"
+    },
+    {
+      "Key": "e539cb32-14b7-42d7-8b09-4c5b87ff3e42",
+      "Value": "{n}The tiefling seems surprised.{/n} \"Someone was here before us? Found the treasures and the artifact, but didn't take them? So strange... Well, we aren't going to use the Disk right now anyway, are we? We'll just take it to the capital and examine it there.\""
+    },
+    {
+      "Key": "e9748052-96fd-45b9-99de-dd3cd5ea4576",
+      "Value": "{n}Kanerah frowns.{/n} \"We had a deal. The word of a ruler must mean something...\""
+    },
+    {
+      "Key": "e431c04c-3ec7-40fa-ad43-7beb6dfd14b8",
+      "Value": "{n}Kanerah shakes her head.{/n} \"Don't decide for me what's dangerous and what isn't. My sister and I only live a half life. We can't make plans, can't enjoy peace, or grow close to someone we like. The Disk of the Eclipse is our one chance to make things better. And we need it.\""
+    },
+    {
+      "Key": "085d86c7-14dd-4fb5-9ebd-0cbefbe1c63a",
+      "Value": "{n}The tiefling snaps her tail in anger and takes a mocking bow.{/n} \"If that's your decision – then good-bye and good luck! Let's see how long your {mf|barony|barony|kingdom|kingdom} lives if you always handle your responsibilities like this.\""
+    },
+    {
+      "Key": "8db83403-527d-4823-b65e-b1da7c57a8fc",
+      "Value": "{n}The moment she disappears, you hear a strange rustle and a snap... and the Disk of the Eclipse crumbles into dust before your eyes, and vanishes without a trace.{/n}"
+    },
+    {
+      "Key": "125ab850-c2bb-44f8-a86f-bf1501a5e419",
+      "Value": "{n}You hear voices, whispering and interrupting each other. They seem to be speaking in images, not natural words – 'black', 'white', 'bound', 'split'... 'indivisible'.\"{/n}"
+    },
+    {
+      "Key": "c1bd7ac2-e75c-4f36-8207-8ed560abc3b5",
+      "Value": "{n}Then the strange phenomena ends as quickly as it began. The darkness disappears, and Kanerah is standing just where she was, seemingly intact – but the Disk in her hands is gone...{/n}"
+    },
+    {
+      "Key": "a105b77f-27c6-4616-847c-e29fb097a952",
+      "Value": "\"Amazing... I didn't expect this. Listen – the artifact didn't disappear! I can feel it, like it's a part of me now. And I think I… I think I know how to use it!\""
+    },
+    {
+      "Key": "01ef1378-3f56-45bf-b4a3-7f4d295a845c",
+      "Value": "\"What?\" {n}Kanerah seems to barely hear you. She shakes her head a few times, as if she's emerging from a dream.{/n}"
+    },
+    {
+      "Key": "93f0702c-40f3-47b3-b31b-69d8e41dfc07",
+      "Value": "{n}Kalikke looks at you in complete astonishment.{/n} \"{name}? What... what just happened? I was sleeping in the demiplane, but this time I wasn't pulled out of it like usual. It's like I heard a voice... Kanerah's voice...\""
+    },
+    {
+      "Key": "55acab15-205d-4085-9f3b-9e217056d8b8",
+      "Value": "{n}Kalikke extends her hand in a pleading gesture.{/n} \"I think I'm going to lose my mind! And just when I thought my life couldn't get any crazier... So what happened?\""
+    },
+    {
+      "Key": "ed6df69c-1842-4ae8-9f4b-4d291379a028",
+      "Value": "\"So what I felt and heard was the influence of the Disk? But it's so strange...\" {n}Kalikke closes her eyes and stands still. Her dark hair moves in the wind, but nothing happens for about a minute. Then, without opening her eyes, she begins to move her hand.{/n} \"Yes... now I understand!\""
+    },
+    {
+      "Key": "8254f2c7-609b-4870-a4bc-8d02ff6da90e",
+      "Value": "\"Hello again! Ah, are we still here in Sorrowflow? So my sweet sister learned how to use our new ability so quickly? I was sure it would take her a year! I'm going to try to switch us again. Please tell her for me that she's a foolish goat!\""
+    },
+    {
+      "Key": "056e68e9-935a-46aa-bda2-2fdb9a9c05dd",
+      "Value": "{n}Kalikke looks even more stunned.{/n} \"I'm back again... and again I heard my sister calling me! I felt it inside, just like my bond to the elemental forces. – Now we can switch places whenever we wish.\""
+    },
+    {
+      "Key": "7b7800be-2be4-4a8b-a3cc-1681a61da65c",
+      "Value": "\"Really?\" {n}Kalikke looks sincerely surprised and a little embarrassed.{/n} \"I could... if you're comfortable with that, of course...\""
+    },
+    {
+      "Key": "82c408bb-203b-48c7-ae84-9c8b4fc825f7",
+      "Value": "{n}Kalikke's cheeks blush.{/n} \"Why did you say that?! It's easy to trick me... I'm so gullible...\""
+    },
+    {
+      "Key": "7f2bcc20-d3ee-480d-bb73-c257c65ebc15",
+      "Value": "{n}Kalikke becomes even more embarrassed.{/n} \"I... You don't mean... Oh, it doesn't matter! Why do I always fall for such obvious jokes...\""
+    },
+    {
+      "Key": "048695eb-8993-4195-90e5-2c7028717a3b",
+      "Value": "{n}Kalikke looks at you with suspicion, and then remarks,{/n} \"You're joking, aren't you?\""
+    },
+    {
+      "Key": "d12cd50b-2da8-466a-b086-2cb3005b4eaf",
+      "Value": "\"But what happened has changed so much for us... I need to think...\""
+    },
+    {
+      "Key": "f4250aa0-06ed-4395-9114-322c7ce89b05",
+      "Value": "\"Yes. Oh, there are so many thoughts in my head! It's a miracle that we found such a rare artifact that could help us – Or perhaps Nethys planned this all along? And what should we do with this new gift... Now my sister and I must decide how to divide the time we share...\""
+    },
+    {
+      "Key": "5b946825-df25-484f-9c9e-8c04d062cdcb",
+      "Value": "{n}Kalikke laughs.{/n} \"Just a goat? I remember when she used to call me a vicious little crocodile, or a slobbering camelthorn...\""
+    },
+    {
+      "Key": "ef10673b-ba05-49a0-9bfb-90e447d9291f",
+      "Value": "\"I doubt that's exactly what she said... but thanks for trying to cheer me up.\""
+    },
+    {
+      "Key": "6d9ace47-6ac2-4963-9fc2-312f0fed6466",
+      "Value": "{n}Kalikke shakes her head.{/n} \"Yes. I'll think about all this and many other things. But for now I wish to thank you, {name}! If a foreign outcast's gratitude means anything to you, you have it. And one more thing – I'd like to remain in your lands and help you with your quests and travels. Now that we can better control our switches, we won't have to keep running from one place to another. I think Kanerah will support my idea... What do you say?\""
+    },
+    {
+      "Key": "ab5643eb-8c82-4ae2-a2e6-35645188b342",
+      "Value": "\"Such a pity. But still thank you all the same for your help! Our life will become much easier now. I will remember you with kindness, {name}!\""
+    },
+    {
+      "Key": "672e0385-29ca-4558-b794-edee52301b91",
+      "Value": "\"May this be the beginning of a wonderful journey!\""
+    }
+  ]
+}

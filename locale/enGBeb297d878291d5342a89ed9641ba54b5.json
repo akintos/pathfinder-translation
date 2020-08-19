@@ -1,0 +1,73 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "81b37af5-99db-45c2-9cf9-48bfc369bbd5",
+      "Value": "\"How are you doing? Your guests behaving themselves?\""
+    },
+    {
+      "Key": "b6ba9072-f55f-481f-9d8b-258d075be47a",
+      "Value": "\"How are things going in the city?\""
+    },
+    {
+      "Key": "10055554-5549-40f1-a417-a9cd780fe380",
+      "Value": "\"I need some supplies for the long road.\""
+    },
+    {
+      "Key": "161a00ab-9455-4939-9ef8-9586b339727b",
+      "Value": "\"We'll talk next time.\""
+    },
+    {
+      "Key": "31f89a71-45cf-4be9-934e-34e5348c7e12",
+      "Value": "\"Can I rest here?\""
+    },
+    {
+      "Key": "916ff127-ca06-4f23-ae14-497c306efa05",
+      "Value": "[Pay for the room]"
+    },
+    {
+      "Key": "b1a40217-4015-48ae-972c-0b9bd5804536",
+      "Value": "\"I've changed my mind.\""
+    },
+    {
+      "Key": "55ab2adf-87a1-4f76-9fd2-e24bbef2207c",
+      "Value": "{n}A grumpy halfling tavernkeeper stares at you gloomily. His voice sounds indifferent, as he recites his memorized greeting.{/n} \"Greetings from the best tavern in {g|Pitax}Pitax{/g}. How may I help you?\""
+    },
+    {
+      "Key": "6c1bef97-4e2a-4ef4-bc64-1ff2f6a4bcfc",
+      "Value": "{n}The tavernkeeper mocks regret.{/n} \"Come back again. Good riddance.\""
+    },
+    {
+      "Key": "2a285895-4c04-438a-acc1-6a2ebc563603",
+      "Value": "\"Welcome, if you've got some coins in your pockets.\""
+    },
+    {
+      "Key": "3467fa37-ed9e-4401-91da-4f235c54017c",
+      "Value": "\"How can they go? King Irovetti rules, painters paint, sailors drink, travelers roam the streets, bards compose their trifles. Everyone finding something to do – all to avoid doing anything.\""
+    },
+    {
+      "Key": "6b697ae3-505d-41fd-b60f-fe782bc5df2e",
+      "Value": "{n}The tavernkeeper winces.{/n} \"Great. King Irovetti is dead, long live the {mf|King|Queen} {name}. A whole new life. Except for the same old thieves. And the same drinking. And refusing to work. Otherwise, everything is just grand.\""
+    },
+    {
+      "Key": "863a4a9a-2447-4d35-bb46-0ed422f7387e",
+      "Value": "\"Has my {mf|good sir|dear lady} tragically lost {mf|his|her} eyesight? Can't you see what's going on? The pirates will soon tear this tavern apart, board by board. – And the guardsmen don't dare come in here.\""
+    },
+    {
+      "Key": "8e29f287-e47a-4dfe-8d72-a6a84fd97d10",
+      "Value": "\"Thank the gods everything is quiet. That's a rarity nowadays.\""
+    },
+    {
+      "Key": "21645366-95eb-4c2b-83c0-74d70d32a3a0",
+      "Value": "\"Fair enough. As I understand it, you were the one who helped those river rascals find their way out of here?\" {n}The tavernkeeper utters a deep sigh, and tries to place a note of gratitude in his voice.{/n} \"This establishment is deeply grateful to you for your help.\""
+    },
+    {
+      "Key": "4c6b994a-3fbb-4c33-a2d1-64593a7d5788",
+      "Value": "\"You can, if you have coin. If you don't – well, I'm not running charity here! Ten gold.\""
+    },
+    {
+      "Key": "3fc06e04-f65c-44df-a5e7-5004ced5a53e",
+      "Value": "\"Suit yourself. If you change it again, the price will be the same. Don't even try to haggle!\""
+    }
+  ]
+}

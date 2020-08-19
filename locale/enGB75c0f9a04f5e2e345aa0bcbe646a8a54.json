@@ -1,0 +1,93 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "c0264179-46f8-4262-a248-b4e366f43eaa",
+      "Value": "\"What's going on here?\""
+    },
+    {
+      "Key": "6ce3a18d-e4f7-447c-b8bf-9af353781d0b",
+      "Value": "\"I would recognize that armor anywhere. What is a hellknight doing in my lands?\""
+    },
+    {
+      "Key": "fbcb33d6-a3b3-4d23-8f30-a5e2e5138f15",
+      "Value": "\"Why did you attack this knight?\""
+    },
+    {
+      "Key": "fa115b15-82f1-426b-a04d-b3b081982cd4",
+      "Value": "\"Stranger, identify yourself!\""
+    },
+    {
+      "Key": "b2b4de44-0cdf-4cb1-9454-5dd28c3ebacf",
+      "Value": "[Attack the peasants] \"You broke the law by attacking this knight. The sentence is death!\""
+    },
+    {
+      "Key": "7eaf255f-c1bd-4160-b098-a7148d5e15ff",
+      "Value": "[Attack the hellknight] \"Fellows, let's show this hellknight how we handle his filth in the Stolen Lands!\""
+    },
+    {
+      "Key": "76d36ec3-e8a2-4e5e-af95-62ec67187776",
+      "Value": "\"I have no wish to interfere. Deal with this yourself.\""
+    },
+    {
+      "Key": "c37b0fd3-5cda-44e5-b94a-af2b0d39e9db",
+      "Value": "{n}One of the peasants, who is armed with a weapon, jumps up in alarm as you approach.{/n} \"{mf|Your Grace|Your Grace|Your Highness|Your Highness}!\""
+    },
+    {
+      "Key": "b475b258-1071-4f87-b1bd-cf40eb62f82b",
+      "Value": "{n}You look upon knight in pitch black armor, a monstrous snarling snout emblazoned on his breastplate. He doesn't turn to you — all his attention is taken by multiple adversaries. Nonetheless, you hear a muffled voice from under the visor.{/n} \"Praise {g|Asmodeus}Asmodeus{/g}! {mf|Baron|Baroness|King|Queen} {name}, I presume? My regards. Please accept my apologies for not greeting you as the etiquette requires. I'm a little... busy.\""
+    },
+    {
+      "Key": "56d98985-bdf8-4bc2-81f0-db61049c0452",
+      "Value": "{n}Another peasant takes a moment to quickly wipe the sweat from his forehead.{/n} \"You're just in time! Look... Look who we've caught here! Look at the disgusting creature. He isn't afraid of anything!\""
+    },
+    {
+      "Key": "762ec3db-3825-43a3-a2dd-ff32eea47c3b",
+      "Value": "{n}You hear a chuckle from under the visor.{/n} \"I intended to come directly to your court, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. Unfortunately, I was detained.\""
+    },
+    {
+      "Key": "760158cd-ae7c-459c-962e-8cf06a6571f2",
+      "Value": "\"These degenerates have never before set foot in the {g|Stolen Lands}Stolen Lands{/g}. — But there, this devil's spawn was walking right in the middle of the road. And we became so angry...\""
+    },
+    {
+      "Key": "de45db32-bdc0-485a-944c-5e7658a4d665",
+      "Value": "\"Right, we figured we could gang up on him... But you could help, {mf|Your Grace|Your Grace|Your Highness|Your Highness}! We're shedding blood for your lands, after all!\""
+    },
+    {
+      "Key": "3fdd0bed-7004-4941-8f48-07fa3c2c99b3",
+      "Value": "\"This is a {g|Hellknights}hellknight{/g}! These wretches have dealings with devils!\""
+    },
+    {
+      "Key": "c607a30f-29cc-4882-8165-987e57c20eb2",
+      "Value": "\"Well... you know... they trample everyone whose lands they visit! Wherever there's one, there will soon be a hundred – in a blink of an eye! They crawl like locusts, with their executions and their laws!\""
+    },
+    {
+      "Key": "a5cc1e82-4789-48f0-8858-e1abfcdceb92",
+      "Value": "{n}The {g|Hellknights}hellknight{/g} laughs dryly.{/n} \"Of course. Savages like these fear laws even more than fire or sword. Listen, {mf|baron|baroness|king|queen}, isn't it time to put this bandit trash in its place? You are too soft for such a savage land as this.\""
+    },
+    {
+      "Key": "21815e5e-f8d3-493e-b5fa-8fcc25b65f52",
+      "Value": "\"Kayse Berro, maralictor of the {g|Order of the Nail}Order of the Nail{/g} of {g|Hellknights}hellknights{/g}.\" {n}The warrior pauses.{/n} \"I hail from {g|Varisia}Varisia{/g}, if {mf|Your Grace| Your Grace|Your Highness|Your Highness} cares to know. I've come under direct orders of the paralictor, in order to hold negotiations.\""
+    },
+    {
+      "Key": "cad5fcf1-8b3c-4582-934e-b8a0a7ca0c2e",
+      "Value": "{n}The {g|Hellknights}hellknight{/g} clenches his weapon.{/n} \"Not the fairest trial, but it's acceptable. Please allow me to help, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. Weeding is our job.\""
+    },
+    {
+      "Key": "95c8bb05-d479-4338-a504-3f6e6c6fd3b3",
+      "Value": "\"So... so you're just going to stand there and watch us die?!\""
+    },
+    {
+      "Key": "a4c726bb-d53e-4c08-8745-e02ba19c46d8",
+      "Value": "\"Let's beat {mf|him|her} up for abandoning {mf|his|her} subjects when they're in trouble!\""
+    },
+    {
+      "Key": "9b71d3f2-bb09-4a08-9398-cf7a963a9c12",
+      "Value": "\"Yeah, right, keep listening to him! These scoundrels mean to conquer us. That's why they're nosing about! That's why!\""
+    },
+    {
+      "Key": "48521687-74af-493d-bfc8-dd37cf2a5312",
+      "Value": "{n}The {g|Hellknights}hellknight{/g} seems to not hear his adversaries.{/n} \"I ran into some unexpectedly aggressive local fauna. Luckily, I was prepared for such a turn of events. The {g|Stolen Lands}Stolen Lands{/g} are said to be full of surprises.\""
+    }
+  ]
+}

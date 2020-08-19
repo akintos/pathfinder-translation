@@ -1,0 +1,41 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "de8cb8eb-95dd-4463-ae73-c5b4dcf0d7fa",
+      "Value": "\"There's enough work to do in the Stolen Lands. Running off bandits, founding a state, protecting the common people...\""
+    },
+    {
+      "Key": "05603f2c-b74c-49d3-b204-7ce6d0d30515",
+      "Value": "\"I'm not worried about what I'll do. All that matters is what I'll be getting. Sitting on a throne can be a lucrative occupation.\""
+    },
+    {
+      "Key": "7eb02579-d395-4379-a94c-0dcc41f71c35",
+      "Value": "\"Whatever happens, I hope you are beside me. I appreciate your help... and I appreciate you yourself, Valerie.\""
+    },
+    {
+      "Key": "249888a3-9c9c-4f38-9ce7-4c6b98434a5f",
+      "Value": "{n}Valerie catches up with you near the {g|Oleg's Trading Post}trading post{/g} and touches you on the shoulder.{/n} \"{name}? Can I talk to you?\""
+    },
+    {
+      "Key": "ab31e6c1-3995-4934-8386-e990769d7432",
+      "Value": "\"Now that the Stag Lord is defeated, you rightfully own the {g|Stolen Lands}Stolen Lands{/g}. Jamandi Aldori will endorse you and grant you the baron's title.\""
+    },
+    {
+      "Key": "b6ae733f-68c5-48ed-b6b1-6e5bbd71be22",
+      "Value": "{n}The girl looks at you with interest and a little apprehension.{/n} \"What will you do when you sit on the throne, {name}? Please don't say you haven't thought about it!\""
+    },
+    {
+      "Key": "a8281037-28b0-4bbe-b03f-65e75a0e5350",
+      "Value": "{n}Valerie carefully studies your face for a long time, as if trying to find something. Finally she gives you a soft smile and shakes her head.{/n} \"I would put down any other man who would say this. But not you. I'm sure you value me, my support and my military talent.\""
+    },
+    {
+      "Key": "f40a0728-658d-4c05-b4ea-02f3afb1d6a2",
+      "Value": "{n}Valerie nods, pleased.{/n} \"To be honest, I didn't expect any other answer from you. You are a noble person, {name}, and I'm glad I can serve the good of your state.\""
+    },
+    {
+      "Key": "e99f3170-71a6-4a21-80a1-e74761839e72",
+      "Value": "\"Hm... This is not an answer I would expect to hear from the future lord of the {g|Stolen Lands}Stolen Lands{/g}. I hope in time you will become more serious about your responsibilities.\""
+    }
+  ]
+}

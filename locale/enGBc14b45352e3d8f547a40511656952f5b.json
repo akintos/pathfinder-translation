@@ -1,0 +1,213 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "c65e53a4-234d-4205-b4d6-2841d77a6c4f",
+      "Value": "\"I promised to help you recover your home, and I've done just that.\""
+    },
+    {
+      "Key": "88717cc9-0e74-4b35-8077-2afcb7f7796d",
+      "Value": "\"Did the barbarians do much damage to your home?\""
+    },
+    {
+      "Key": "3f3b0339-f2e0-43bc-b2cc-76dd13039aa1",
+      "Value": "\"You could at least thank me!\""
+    },
+    {
+      "Key": "ded68043-7103-4f0a-bd0e-7a8d8d8eab81",
+      "Value": "\"You could be a touch friendlier to the person who helped you get your cave back.\""
+    },
+    {
+      "Key": "920661da-2b27-46d3-9488-90e2622f1f3e",
+      "Value": "\"Well, I wasn't expecting any gratitude, and you certainly didn't disappoint.\""
+    },
+    {
+      "Key": "40ae306e-b644-461a-8067-1ebd8cfed1be",
+      "Value": "\"You spriggans are a secretive people. Would you be willing to tell me about yourself and your kin?\""
+    },
+    {
+      "Key": "d7d8fc3f-e3dc-42d2-aabd-a3d24ba421f4",
+      "Value": "\"How are you doing after everything that happened?\""
+    },
+    {
+      "Key": "78f8ddac-7cde-4e5a-a8e7-e86f22f2584e",
+      "Value": "\"What are you doing?\""
+    },
+    {
+      "Key": "5dc29fed-3713-4b19-bb95-0cfadb88b310",
+      "Value": "\"Relax, it's just curiosity. I've already helped you, after all.\""
+    },
+    {
+      "Key": "8b561be9-8289-4813-922e-746548fcc16f",
+      "Value": "\"I didn't need to know anything about your weaknesses to kill your kin before — don't try my patience again.\""
+    },
+    {
+      "Key": "b748ea5c-7913-42ec-843c-21671f426feb",
+      "Value": "\"Don't be mad, Agai. I won't ask about it again.\""
+    },
+    {
+      "Key": "a691a6ef-14c3-44a5-a86c-1e76a3157187",
+      "Value": "\"I have some questions about your people.\""
+    },
+    {
+      "Key": "7a5eab61-514d-4bf7-abdf-3a2bdef49b53",
+      "Value": "\"You're related to gnomes, right?\""
+    },
+    {
+      "Key": "21e89c7c-fce8-4300-8b2e-7deb4f3692ff",
+      "Value": "\"You and gnomes don't look much alike. Why is that?\""
+    },
+    {
+      "Key": "2c7caa10-114e-4724-b7a6-3e850a0edc6b",
+      "Value": "\"It seems like your whole life is merely fighting for survival...\""
+    },
+    {
+      "Key": "53517915-4f2f-4d4c-bd17-fc2e0cdf941b",
+      "Value": "[Attack] \"I'll eliminate you before you bring even more pests!\""
+    },
+    {
+      "Key": "d14d57de-7c70-49d0-8d49-cfc93d523b68",
+      "Value": "\"How do you get along with other races?\""
+    },
+    {
+      "Key": "8e622915-e189-49d0-a82e-28a31ab33dd2",
+      "Value": "\"I'll be leaving.\""
+    },
+    {
+      "Key": "aa1f0703-cdc1-4e61-bba3-83ed6454cb02",
+      "Value": "\"Do you have any legends or stories about your creation?\""
+    },
+    {
+      "Key": "9ce6fe13-a0d5-4904-821e-b8b4b74aff64",
+      "Value": "\"That's all I want to know for now.\""
+    },
+    {
+      "Key": "657506a6-5265-43cf-b79f-511d46f33c0f",
+      "Value": "{n}Armed with a broken-handled knife, Agai is busy whittling a stake from a large stick. You see a pile of such stakes nearby, along with a coil or rough rope and some chunks of wood. The spriggan barely notices you, he's so consumed in his work.{/n}"
+    },
+    {
+      "Key": "c1d06aed-d9d4-4c06-b042-68a01e5d9f94",
+      "Value": "{n}Agai's minding his own business, ignoring you completely.{/n}"
+    },
+    {
+      "Key": "2d5754a7-3d3c-4eab-b266-79821646d809",
+      "Value": "{n}Agai glances at you briefly, then returns to his work on the stake.{/n} \"Aye.\""
+    },
+    {
+      "Key": "bdcc451b-94c6-4660-b23a-10e4a002f288",
+      "Value": "{n}Agai stops whittling for a moment, staring somewhere beyond you. He finally grunts, in a low voice,{/n} \"Thanks.\""
+    },
+    {
+      "Key": "786f1772-7c8a-4928-9a1c-4ab62d0258f6",
+      "Value": "\"You also killed half my tribe. Left me defenseless. Had to sort out the mess myself. You basically just compensated me for all the harm you've done.\""
+    },
+    {
+      "Key": "7c731a42-cc22-4dd3-a552-311273d84752",
+      "Value": "{n}Agai's face grows even grimmer, and he whittles the stick more frantically. It seems your pleasure at predicting his reaction has upset him.{/n}"
+    },
+    {
+      "Key": "5c1a5f3f-ae01-4dcb-a268-3c47e36c2c75",
+      "Value": "{n}Agai sniffs.{/n} \"Not too much,\" {n}he drawls.{/n} \"Stole some traps, scattered the beds, threw away all our food — the dolts! — but they left some useful things behind, too, so I won't hold a grudge. And it's all mine now, so don't even think about taking anything!\""
+    },
+    {
+      "Key": "07244639-cb66-4f36-aa6c-17d5df5d6f65",
+      "Value": "\"I'm obviously whittling stakes to make traps. Set some by the stream, so now I need more. Not many of us left — can't watch everyone's backs. When I'm done here, I'll check on the others and the pitfalls they're digging.\"\n{n}Agai throws you a sideways glance.{/n} \"Not telling you where the pitfalls will be, so be careful walking around here. Or better yet, don't walk around here at all.\""
+    },
+    {
+      "Key": "da3c0cb8-26b5-46e5-8df7-6d9eefca0a30",
+      "Value": "{n}Agai stops working and looks at you intently.{/n} \"Why should I do that? You trying to get close to us? Want to learn our weaknesses?!\""
+    },
+    {
+      "Key": "1c1d55c4-e6a2-4acf-a4ce-27be28a381e3",
+      "Value": "{n}Agai sucks air in through his teeth and turns away.{/n}"
+    },
+    {
+      "Key": "eb45a9ab-7eec-49df-bcf2-4cae083ec1f9",
+      "Value": "{n}The spriggan ponders for several moments.{/n} \"Fine. Ask. But I won't tell you where my provisions are.\""
+    },
+    {
+      "Key": "785184af-4286-42af-94ab-6fa63cf07f73",
+      "Value": "{n}The spriggan cringes and glares at you.{/n} \"Go on, then,\" {n}he mutters through clenched teeth.{/n} \"Ask your questions.\""
+    },
+    {
+      "Key": "65b8ce18-246f-4621-b936-7ab86bac1516",
+      "Value": "\"Today you help. Tomorrow you kill. I know your kind — you're all the same.\""
+    },
+    {
+      "Key": "7f1ca804-8430-453b-83d7-d563d740bcda",
+      "Value": "{n}Agai narrows his eyes menacingly as he looks at you, maintaining a stony silence.{/n}"
+    },
+    {
+      "Key": "a3a5c23a-99a3-4d8f-96b2-c8c4fa2be2a6",
+      "Value": "{n}Agai stops working on the stake and looks at you.{/n}"
+    },
+    {
+      "Key": "036e4280-4388-44d9-b70d-64123060fc5d",
+      "Value": "\"Been through worse.\""
+    },
+    {
+      "Key": "5887a62c-b9ed-42df-8ecf-1f58b3097a26",
+      "Value": "{n}Agai's voice lowers to contemptuous hissing.{/n} \"Those clowns? Yes, we're unfortunate enough to share common blood. And that's all we share.\""
+    },
+    {
+      "Key": "475409be-a4d3-414f-a3ac-d0337d9a4ba9",
+      "Value": "\"I must admit, gnomes aren't too excited to have 'relatives' such as these, either. Primitive creatures, devoid of any wish to improve themselves or their talents — their only concern is survival!\""
+    },
+    {
+      "Key": "4eecf7a0-c5b1-465d-bc05-61c7001d25aa",
+      "Value": "{n}Agai scratches his head.{/n} \"Is that bad? Gnomes are noisy, restless, and weak. Gotta keep a distance from them to survive. Being more like them would be worse.\""
+    },
+    {
+      "Key": "50d94cff-4f38-4799-bde2-91bd7bd8e78d",
+      "Value": "\"So you're starting to get it. Some people think the world's full of song and dance. In reality, all that stands between you and death is your ability to take care of yourself — we don't waste time on frivolous nonsense.\""
+    },
+    {
+      "Key": "82b1db8c-86e4-46d6-a86f-a05e56cdda41",
+      "Value": "{n}Jubilost clears his throat.{/n} \"Allow me, as a specialist, to share some knowledge with you, my ignorant companions. The gist is thus — spriggans are pathetic skeptics, obsessed with their primitive devotion to 'survival.' When the gnomes had just arrived in this world, some rejected traveling, exploring, and seeking new knowledge. Those shortsighted fools devolved into something like the poor creature you see before you, dwelling in the dirt and starting at every noise.\""
+    },
+    {
+      "Key": "9f30684e-56ca-4481-8f95-070cbf95e76d",
+      "Value": "{n}Agai eyes Jubilost up and down, scratching his own cheek with the point of his knife.{/n} \"Your hair is fading.\""
+    },
+    {
+      "Key": "f02a75c8-c756-4d22-a3b3-f86e044189cc",
+      "Value": "{n}The color drains from Jubilost's face as he frantically grabs for his hair. But once he realizes he's been fooled, the gnome blushes and turns away.{/n}"
+    },
+    {
+      "Key": "b172837a-97c5-4efd-9a70-4f1145475f6f",
+      "Value": "\"Further we are from them, the better. They don't bother us, we don't bother them. Been like that for many years, and it works just fine.\""
+    },
+    {
+      "Key": "f2449806-46b3-4478-91d4-5d908de73b95",
+      "Value": "\"Where's the sense in that? Why spend time wagging tongues when we could spend that time hunting?\""
+    },
+    {
+      "Key": "bfd554c8-286b-4576-b77d-8ff01f20d8e6",
+      "Value": "{n}Agai's gaze falls back on his stake as he returns to his whittling.{/n}"
+    },
+    {
+      "Key": "addd04d9-a534-47bc-9871-10de09a12881",
+      "Value": "\"Good... If true.\""
+    },
+    {
+      "Key": "99f1363d-65a5-4c2e-b59e-96bfb00dfc40",
+      "Value": "\"What a disappointment... No songs either?\""
+    },
+    {
+      "Key": "086104fc-7732-4a18-bedd-8ddd44a181ab",
+      "Value": "\"Songs? Who needs these? If you make noise, you're easy to find, and if you're easy to find, then you don't sing anymore, because you're dead!\""
+    },
+    {
+      "Key": "3d18c508-a915-412c-973c-dfdd7e413afe",
+      "Value": "\"What? Are we killing him now? Then why even give him hope in {g|Varnhold}Varnhold{/g} and let him go?\""
+    },
+    {
+      "Key": "c10dbf9c-09ab-4390-b0c3-1b8ba8322ec2",
+      "Value": "\"Get {mf|him|her}!\""
+    },
+    {
+      "Key": "6d59ed0e-4ac3-4481-b44c-3211e014a6d5",
+      "Value": "{n}Nok-Nok slowly reaches for one of the stakes. Without even looking, Agai slaps the goblin's clawed little hand, which jerks back immediately.{/n}"
+    }
+  ]
+}

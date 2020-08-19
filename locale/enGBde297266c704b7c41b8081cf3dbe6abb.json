@@ -1,0 +1,457 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "4d49f7d0-bb46-47ff-9bae-1177aaae3ce8",
+      "Value": "\"Did I startle you? I'm sorry.\""
+    },
+    {
+      "Key": "d3984aee-c89c-4ebb-9aaa-0bb94d1ac73f",
+      "Value": "\"Tell me about your past.\""
+    },
+    {
+      "Key": "29d98e3e-4a6e-4e6f-9393-6cd6fdb8604c",
+      "Value": "\"I'd like to learn more about dwarves.\""
+    },
+    {
+      "Key": "ca778454-1a69-434d-bf2a-c58a37b0df5f",
+      "Value": "\"I'd like to talk about your god, Groetus.\""
+    },
+    {
+      "Key": "d9a78f20-2799-4448-b896-fcf1e45a13bf",
+      "Value": "\"Have you ever regretted your decision to abandon Torag and start worshipping Groetus instead?\""
+    },
+    {
+      "Key": "06e040b2-b811-4754-94fc-60f65147a0de",
+      "Value": "\"From what I've heard, Groetus doesn't spare the minds of his clerics. They all go insane eventually. Is that true?\""
+    },
+    {
+      "Key": "8fc7fe24-460e-440e-804e-74e42fc20022",
+      "Value": "\"Thanks for the conversation. We'll talk later.\""
+    },
+    {
+      "Key": "8518f71d-0ddb-49c7-b5d9-9c31613b2623",
+      "Value": "\"Honestly, that's just too much. You're a funny dwarf, and you have your peculiarities. But to go insane – voluntarily? You should give it up before it's too late!\""
+    },
+    {
+      "Key": "53b35c83-63fd-4167-bc7d-18cdb1fc321b",
+      "Value": "\"Ha! Well, when you learn Groetus' divine plans, remember to tell me about them. I could use a good laugh.\""
+    },
+    {
+      "Key": "e6587966-f63e-4669-ad8d-03027fb6eafb",
+      "Value": "\"Your eagerness is commendable.\""
+    },
+    {
+      "Key": "8e78602f-837a-48ff-b022-7eca9961b471",
+      "Value": "\"Where are you from?\""
+    },
+    {
+      "Key": "b885bf26-2aa2-485e-8915-43bcfd56580b",
+      "Value": "\"You once tried to serve Torag?\""
+    },
+    {
+      "Key": "614fa061-2c13-4e20-b0c3-5f49454b6175",
+      "Value": "\"Even if Torag really has rejected you, is that enough reason to leave your homeland?\""
+    },
+    {
+      "Key": "92dd32fe-bad9-492e-9372-23ce9a5cd0cd",
+      "Value": "\"I didn't think dwarves ever worshipped Groetus. How did you learn about him?\""
+    },
+    {
+      "Key": "b4895399-59c0-4b1a-bd22-46b702d5e0ca",
+      "Value": "\"Wait, so you couldn't make even a simple nail – and you blamed Torag?\""
+    },
+    {
+      "Key": "49b21d8c-3300-463c-ad9f-672545551936",
+      "Value": "\"Let's talk about something else.\""
+    },
+    {
+      "Key": "799df7c4-bce6-4c93-9fb3-e2f595ed966d",
+      "Value": "\"Tell me about the Five Kings Mountains.\""
+    },
+    {
+      "Key": "3b95b48f-040c-40e3-bbfc-8a533bbe1e2c",
+      "Value": "\"Have the dwarves always lived on the surface?\""
+    },
+    {
+      "Key": "fd5b2df8-49a1-4392-bebc-b114ac65783e",
+      "Value": "\"Tell me about the Sky Citadels.\""
+    },
+    {
+      "Key": "65ec07d4-e21f-48dc-9f09-0682b46153ff",
+      "Value": "\"I've some other questions.\""
+    },
+    {
+      "Key": "fd134659-25b3-4b90-956e-546fbdcf56ea",
+      "Value": "\"What are Groetus' teachings about, in a nutshell?\""
+    },
+    {
+      "Key": "f2d3613f-9917-4135-bcb3-89b1b29e6ec1",
+      "Value": "\"Pharasma has Groetus locked in her Boneyard? So she is stronger than Groetus?\""
+    },
+    {
+      "Key": "22f8d983-d912-48c0-85bb-52fd49c4408d",
+      "Value": "\"Usually clerics can speak with their gods. What does Groetus say to you? What is his will?\""
+    },
+    {
+      "Key": "db306cad-1430-4a20-a51f-85f5ce5a611c",
+      "Value": "\"Thanks for telling me about Groetus. I've learned enough for now.\""
+    },
+    {
+      "Key": "633456ae-740c-45e1-974f-c8fc2e156931",
+      "Value": "\"I like your tales. There's an inner truth to them.\""
+    },
+    {
+      "Key": "2e922389-ecdc-4e9a-ac68-571e557ea87c",
+      "Value": "\"It was interesting to learn about him. No more, no less.\""
+    },
+    {
+      "Key": "b0f646bc-7455-4b60-826f-04e8e9ff4b6f",
+      "Value": "\"To be honest, I don't want to have anything to do with him.\""
+    },
+    {
+      "Key": "b90833d5-7c27-4f92-8c95-d6839bcdac1f",
+      "Value": "\"I want nothing to do with you. Leave.\""
+    },
+    {
+      "Key": "1bdedabc-9b77-4cc1-8268-fa68e3b30229",
+      "Value": "\"Yes, Harrim. Farewell.\""
+    },
+    {
+      "Key": "d155954f-23fd-44af-b9a3-5dd6499d1a33",
+      "Value": "\"No, Harrim, I still need your help.\""
+    },
+    {
+      "Key": "dad73983-4e02-4e5f-9f03-39aa77839dcf",
+      "Value": "\"Are you sure you want to see the dwarven ruins? Why open up old wounds?\""
+    },
+    {
+      "Key": "575bccda-9ec1-4cf6-8806-94886668d068",
+      "Value": "\"I still don't understand — how did you manage to break the anvil with your bare hands?\""
+    },
+    {
+      "Key": "cc352939-0374-4562-bf55-925b39cce751",
+      "Value": "\"You're not too happy about seeing your kin, are you?\""
+    },
+    {
+      "Key": "1c75fb0d-e0d4-444c-bf32-9ef86da68b43",
+      "Value": "\"Maybe we should drive these Skjegge back to their mountains?\""
+    },
+    {
+      "Key": "4e0d3ac4-50c1-4b69-af7e-411f31d88ac3",
+      "Value": "\"So you have the divine gift of the Touch of the Unmaker?\""
+    },
+    {
+      "Key": "e5eae454-8f7e-4049-a17a-85174bf1c309",
+      "Value": "\"You were right, the Skjegge did dig a grave for themselves.\""
+    },
+    {
+      "Key": "189cf97a-95f1-46ac-a713-85d30b3ddcd8",
+      "Value": "\"Have you made peace with your kin?\""
+    },
+    {
+      "Key": "b7084942-8aaa-4bf0-bf40-4ca59308f2ca",
+      "Value": "\"So your gift is strong enough to destroy fortresses?\""
+    },
+    {
+      "Key": "beb15e08-9b88-4e30-b978-3afd2ea47810",
+      "Value": "\"I worship Torag myself, and I think you're making a terrible mistake. The Father of Creation is kind. He'll forgive you if you repent and return to him.\""
+    },
+    {
+      "Key": "be943259-f473-4545-a861-01d6081efe98",
+      "Value": "\"Torag has shown you the true face of not just him, but of all the gods. Groetus is no better!\""
+    },
+    {
+      "Key": "63e463b4-a31f-4a34-b0db-7d386ca78c91",
+      "Value": "{n}Harrim pulls his beard, muttering something that could be either prayers or curses. Upon noticing you, he winces.{/n} \"Eh? What? Ah, it's you, {name}…\""
+    },
+    {
+      "Key": "ee7a8ab6-b101-4dbd-bcfc-ab893a218635",
+      "Value": "\"Oh no, that doesn't matter. I was just contemplating the futility of existence, and the worthlessness of the universe. The ways of {g|Groetus}Groetus{/g} are great. My humble mortal mind cannot fully grasp them, but I do what I can.\" {n}Harrim smiles apologetically.{/n}"
+    },
+    {
+      "Key": "946120af-1c2f-408c-ae01-a1e7c9452073",
+      "Value": "\"My life is divided into two parts. The first was filled with blind wandering, doubts and attempts to serve {g|Torag}Torag{/g}. The second part began when I accepted {g|Groetus}Groetus{/g} into my soul and received a clear vision of the world. What exactly would you like to know?\""
+    },
+    {
+      "Key": "d978ee51-11bf-4770-8efd-a266aa8ab7bb",
+      "Value": "\"Most dwarves are self-satisfied, stubborn fools serving {g|Torag}Torag{/g}. They don't deserve my good attitude.\" {n}Harrim winces.{/n} \"But you can ask what you want to know. I'll try to answer.\""
+    },
+    {
+      "Key": "79fed0f1-bc73-499c-9077-6c9a853881a0",
+      "Value": "\"You wish to learn about {g|Groetus}Groetus{/g}?\" {n}Harrim seems surprised and pleased at the same time.{/n} \"Yes, of course! I will answer anything you ask!\""
+    },
+    {
+      "Key": "9d544de6-6994-47d9-8a01-242acfef86bf",
+      "Value": "\"Your question might seem offensive, {name}, but I am not offended. I realize you ask it because you wish to learn more about {g|Groetus}Groetus{/g}.\" {n}Harrim squeezes his beard in his fist, but in a moment he lets it free again.{/n}"
+    },
+    {
+      "Key": "26ab9236-7024-4690-82d0-ed844a9ceab1",
+      "Value": "\"Ha! Who told you that? I'd like to look that slanderer in the eye!\" {n}Harrim bursts into laughter, but you can't understand what's so funny.{/n}"
+    },
+    {
+      "Key": "f45510aa-fed4-4624-8749-d3504206f80d",
+      "Value": "{n}Harrim nods with dignity.{/n} \"I'll be happy to continue our conversation later.\""
+    },
+    {
+      "Key": "7882772c-c6da-430e-b379-a6c18b91e670",
+      "Value": "\"Why are you asking? You're a dwarf yourself, just as I am. Or perhaps you want to learn my thoughts on our history?\""
+    },
+    {
+      "Key": "08964617-3fc2-416a-aca6-4f49c6139ee6",
+      "Value": "\"{g|Torag}Torag{/g} betrayed me, {name}. All he's ever done was look down with contempt on all my futile efforts to please him. I crafted armor plates, but they fell apart with a single strike of a fist. I smithed swords, but they broke at the hilt. Torag's priests used to say that such failures were the curse of their uncompromising deity.\" {n}Harrim's fingers grab his beard with such force that it seems he'll tear a handful of hair out of it.{/n}"
+    },
+    {
+      "Key": "4010648b-f2c5-4b22-a030-330fe39387a4",
+      "Value": "\"It was {g|Groetus}Groetus{/g} who opened my eyes. He showed me that failure is a manifestation of his will. The end time is near, {name}, and every failure is just another step towards it. {g|Torag}Torag's{/g} curse is only half the reason for my failure. The other half is the blessing of Groetus, which I have borne from early childhood.\" {n}Harrim smiles warmly at his thoughts. {/n}"
+    },
+    {
+      "Key": "6faafaa9-11a8-40cd-8953-6c05333cd538",
+      "Value": "\"So the short answer to your question is 'no'. I've never regretted opening my soul to {g|Groetus}Groetus{/g}.\""
+    },
+    {
+      "Key": "5114d126-475e-4b53-9aa6-3f67a076e248",
+      "Value": "\"You see, {name}. Sanity is quite a relative concept,\" {n}Harrim says as his laughter recedes.{/n} \"Each of us is certain that he's the sanest creature in the world. Meanwhile we periodically doubt the sanity of others. So what happens if two or three people claim that someone else is insane? Does that make it true? Perhaps the accusers have lost their minds themselves!\""
+    },
+    {
+      "Key": "e2731f60-5954-49a6-9966-0884ecd57428",
+      "Value": "\"The longer a cleric listens to the whispers of {g|Groetus}Groetus{/g}, the better he comprehends the essence of his designs, and the deeper his understanding becomes. When enlightenment comes, the mind of a cleric ascends to a new level of understanding, which is inaccessible to simpler souls. Is it insanity? This is for you to decide, {name}. My decision was made long ago. When I reach enlightenment, I'll accept it with joy and delight.\""
+    },
+    {
+      "Key": "1bf501dc-39cd-46af-b2f1-e7f68bdbb27c",
+      "Value": "{n}Harrim sighs and shakes his head.{/n} \"Can't you understand? That's precisely what I want – for it to be too late.\""
+    },
+    {
+      "Key": "81d2a73a-4ec6-4a26-8817-bc5ccaade41a",
+      "Value": "{n}Harrim seems not to hear the irony in your words.{/n} \"Oh! Of course, I will tell you! I will tell everyone! The word of {g|Groetus}Groetus{/g} will lead us forward, unto the inevitable!\""
+    },
+    {
+      "Key": "8e339ad2-30f6-47b4-8749-d92b10a4406d",
+      "Value": "{n}Harrim smiles broadly.{/n} \"I'm glad you noticed it! I dream that {g|Groetus}Groetus{/g} will someday notice my eagerness too!\""
+    },
+    {
+      "Key": "739b6ea5-9ed4-4f6b-b9cb-c5888d00bd4f",
+      "Value": "\"My life story began in Larrad, a city of dwarven clerics and acolytes. They serve {g|Torag}Torag{/g} and the other dwarven gods – Torag's brothers Angradd and Magrim, Torag's wife Folgrit, his daughter Bolka, his sons Grundinnar, Kols and Trudd, and also Torag's sister, Dranngvit.\" {n}Harrim curves his lips in contempt.{/n} \"I wouldn't be surprised if they built a temple to Torag's pet dog.\""
+    },
+    {
+      "Key": "d62800af-e76e-4306-9633-6d0fde22769d",
+      "Value": "\"Not just tried! It was a burning passion! I craved it by day and dreamt of it at night!\" {n}Harrim shakes his head, as if amazed by his own stupidity.{/n} \"You see, {name}, from my first days, I felt the presence of the god at my back. I heard his whispers and felt his power, though the nature of this power was unclear to me. I thought {g|Torag}Torag{/g} himself was trying to speak to me, and I did all I could to understand his words.\""
+    },
+    {
+      "Key": "fbbc313a-8a63-420d-b1fd-0e8e69b1dd00",
+      "Value": "\"You don't know much about dwarves.\" {n}Harrim lets out a sad sigh.{/n} \"How can a dwarf cursed by Torag go on living in a city where every single soul bows to {g|Torag}Torag{/g}? I was alone. Disgraced, humiliated, insulted.\" {n}A lone tear glints in the light before sliding down Harrim's cheek and hiding in his beard.{/n}"
+    },
+    {
+      "Key": "d34ead26-d66d-44b4-adb0-33411c910c63",
+      "Value": "\"Oh, but that blessed day became the beginning of a new life. Alone and abandoned by all, I spent many dull hours in a filthy tavern by the roadside. I don't recall the town, nor even the country. I had no money – in fact all I had was a hunk of stale bread. I was weary and almost fainting from hunger.\""
+    },
+    {
+      "Key": "61ccd346-cb07-4ae8-b566-8644231867a2",
+      "Value": "\"Are you suggesting that my problem was not a curse, just my own inability to work with metal? Or maybe you're saying that I was just too lazy?\" {n}Harrim looks into your eyes defiantly, his hands trembling with suppressed rage as he runs his fingers over his beard.{/n}"
+    },
+    {
+      "Key": "fce71f61-965b-4b5c-88ee-210b19018cf1",
+      "Value": "\"What else would you like me to tell you, {name}?\""
+    },
+    {
+      "Key": "9a8d4a87-41db-45e9-b4f8-0120e8df57dd",
+      "Value": "\"Sorry, I let myself get carried away.\" {n}Harrim sighs and pulls his beard several times.{/n} \"Larrad is the second largest dwarven city in {g|Five Kings Mountains}the Five Kings Mountains{/g}. It's built up around numerous temple-caverns which serve as places of worship for all the dwarven gods. Many pilgrims, from every corner of Golarion, come to Larrad to pray to their gods. Some remain to live there.\""
+    },
+    {
+      "Key": "b42d760d-744b-472e-933d-516117ee7824",
+      "Value": "\"This city is simply imbued with faith. You can't swing a dead cat without hitting a cleric. It's no surprise, inspired by the aura of this city, that I decided as a young boy to dedicate all my efforts to becoming a cleric of {g|Torag}Torag{/g}.\""
+    },
+    {
+      "Key": "232c2b4c-0f1f-4b65-a36f-f928ae0e168f",
+      "Value": "\"Oh, what a naive fool I was! I had no idea that {g|Torag}Torag{/g} – that uncompromising, conceited god, glamorized by all dwarves – was capable of betrayal! He turned away from me, {name}. He left me in the hour when I put all my hopes in him and desperately needed his support!\""
+    },
+    {
+      "Key": "49271d03-9d06-40cc-a0f8-25e8df7f4bb2",
+      "Value": "\"Torag is the god of craftsmanship. So every follower, especially the clerics, must smith their own suit of armor. The day when this work is finished is like the second birthday for a dwarf. He's newly born in the eyes of {g|Torag}Torag{/g}.\""
+    },
+    {
+      "Key": "8bd14c00-a5d2-43aa-879b-8a84aec394bd",
+      "Value": "{n}Harrim sighs heavily and falls silent for a time.{/n} \"My second birthday never came. I couldn't make armor. Not even a sword, not even a simple nail. My hammer smashed my fingers and fell on my feet. Molten iron burned my hands. The clerics laughed as they healed me. They used to say I was cursed by {g|Torag}Torag{/g}. So finally I gave up any attempt to please the betrayer god.\""
+    },
+    {
+      "Key": "74c0e728-8e90-4345-8a64-e75aecfe6c59",
+      "Value": "\"I was trying to drown my sorrows in drink, but even the owner of the cheapest pub on the road would laugh at me while he put those mugs in front of me. I couldn't take it any longer. I wanted everything to end.\""
+    },
+    {
+      "Key": "3433dc6e-b65d-4308-9b83-b538840c7c6e",
+      "Value": "\"But there was one thing that kept me going, and prevented me from ending my life. I could still hear that divine whisper behind my back. It was yet faint – it took a long time before I could hear it clearly. But having heard it once, I could never forget it. It was clear that none of Larrad's deities favored me, so I left {g|Five Kings Mountains}the Five Kings Mountains{/g} and went out searching.\""
+    },
+    {
+      "Key": "00547ae7-82b8-461e-be64-afa83d27704d",
+      "Value": "\"And that was the moment when the whisper from my god became more clear. It was like he was calling me. At last my sufferings had come to an end! It was a miracle, {name}! And I had paid full price for it with my torments.\""
+    },
+    {
+      "Key": "6300f9fe-9a56-4ee0-ba53-5c723a69a6e5",
+      "Value": "\"I couldn't control myself. I walked out of the tavern and straight into the nearest forest. And there I found the ruined temple of {g|Aroden}Aroden{/g}, the lost god. Several figures clad in robes were holding a silent service there, a service to a god I knew nothing of. None minded when I stood beside them. For the first time in my life I felt myself at home.\""
+    },
+    {
+      "Key": "e3112290-d0b2-4311-97ec-e476ea1ea58f",
+      "Value": "\"My new brothers told me that they were clerics of {g|Groetus}Groetus{/g}, the god of end times. They were traveling around Golarion, spreading the teachings of Groetus, despite all the persecution, contempt, and misjudgment they received from others. I gladly shared this burden with them. For now I knew whose voice had whispered to me through all those years.\""
+    },
+    {
+      "Key": "ce98ec97-777a-4364-91a9-9ba907dcfd74",
+      "Value": "\"You're a fool if you think so! An ignorant fool! Have you ever met a dwarf who can't handle a smith's hammer? Even our children craft knives! No, no, no, {g|Torag}Torag{/g} is the cause of my sufferings! The betrayer god deliberately cursed me – just to make a laughingstock of me!\" {n}Harrim raises his hand and shakes his fist at someone above.{/n}"
+    },
+    {
+      "Key": "bfce25cd-2473-40ec-a6b0-b837be14d0e7",
+      "Value": "\"But I won't let myself to get angry at you, {name}. You're an ignorant and blind soul, and my aim is to guide you through this dying world that marches towards its end. I will open your eyes or die trying. {g|Groetus}Groetus{/g} will be pleased by either outcome.\""
+    },
+    {
+      "Key": "14a3fa59-9994-4fc2-bb2a-81f0356d4220",
+      "Value": "\"The dwarven kingdom, yes. Well, it's to the south from here. It's survived many trials, and there will be more yet to come.\" {n}Harrim strokes his beard, contemplating.{/n}"
+    },
+    {
+      "Key": "bdd2991e-2737-4855-b4c8-b93ab14f2230",
+      "Value": "\"Oh, no. Eons ago, all dwarves lived deep beneath the surface. And they did rather well, judging by the historic records. They built fortresses befitting noble dwarves. But our restless god, {g|Torag}Torag{/g}, sent us a prophecy – {g|The Quest for Sky}the Quest For the Sky{/g}. He ordered all the dwarves to abandon their fortresses and press upwards, to show their beards to the Sun, as they say.\""
+    },
+    {
+      "Key": "ea8dac97-6be6-46ff-ab37-3d569782dcb6",
+      "Value": "\"Oh, they are the peaks of creation! – Glorious cities, built by the ancient dwarves who'd finally reached the surface after many hardships, performing the final labor in their {g|The Quest for Sky}Quest For the Sky{/g} on the surface of {g|Golarion}Golarion{/g}.\" {n}Harrim's eyes glitter with admiration.{/n} \"They are steadfast, tall, magnificent... they are beautiful!\""
+    },
+    {
+      "Key": "62fed95c-a484-4f07-bdbc-77346ebb1d22",
+      "Value": "\"What else would you like me to tell you, {name}?\""
+    },
+    {
+      "Key": "38500f52-faa6-4e6e-99b9-7c7582982ed4",
+      "Value": "\"There is no unity among the dwarves, {name}. The Five Kings rule over our people. They sit on the thrones of the five greatest cities, and with every passing day it grows harder for them to come to any agreement. The only thing uniting {g|Five Kings Mountains}the Five Kings Mountains{/g} is the {g|Sky Citadels}Sky Citadel{/g} of {g|Highhelm}Highhelm{/g}, the great dwarven fortress at the Mountains' heart.\""
+    },
+    {
+      "Key": "9ddf62c2-511c-4d9d-9092-a7f9c98bb122",
+      "Value": "\"This journey was long and bloody. Many dwarves perished on the way. Others turned back, keeping to their ancient strongholds – eventually to turn into evil duergar... gray dwarves. But those who survived reached the surface and founded {g|Sky Citadels}the Sky Citadels{/g} – the most glorious cities in dwarven history.\""
+    },
+    {
+      "Key": "720340d8-0d31-46f5-afc6-19d80078830b",
+      "Value": "\"The Ten Citadels were built by dwarves, but we've managed to keep only a few. The citadels crumbled, and the orcs, sworn enemies of our people, trampled their blessed streets and ruined the gorgeous palaces of the ancient kings.\" {n}Harrim's eyes grow misty with tears.{/n} \"These were heavy losses, and a disgrace to our people, {name}.\""
+    },
+    {
+      "Key": "ed943d0b-5c1e-42e3-b210-f27989e23b0c",
+      "Value": "\"{g|Highhelm}Highhelm{/g} is the jewel of {g|Sky Citadels}the Citadels{/g} that remain. It is located in the heart of the mountains, and the heart of every dwarf. Yes, yes, my heart too.\""
+    },
+    {
+      "Key": "8ec3d2fd-e8b7-4575-b2c8-2650e59cdf89",
+      "Value": "\"There is a dwarven saying that, if an enemy reaches {g|Highhelm}Highhelm{/g}, every dwarf from all the corners of the world will come to defend it.\" {n}Harrim casts a sad glance at you.{/n} \"I'd be there too. But not to help the Citadel's defenders. I'd be there to witness the fall of our people with my own eyes, and mourn it. I would fall upon the cold stone and raise my final prayer to {g|Groetus}Groetus{/g}.\""
+    },
+    {
+      "Key": "d3819539-bc36-43ff-95a8-bf6fd1dcff6b",
+      "Value": "\"{g|Groetus}Groetus{/g} is the end of all that exists.\" {n}Harrim smiles. He's obviously been waiting for this question.{/n} \"Look around, {name}. What do you see? Look again and realize that everything will be destroyed. Our clothing and our armor will turn to dust. The walls of the palaces will crumble into ruins. The trees will fall. And you and I will die much sooner than that!\""
+    },
+    {
+      "Key": "c5ec65d8-c2f7-45af-81c1-9e33164a869e",
+      "Value": "\"Of course she is stronger. For now!\" {n}Harrim nods with dignity, stroking his beard.{/n} \"{g|Groetus}Groetus{/g} is weaker than {g|Pharasma}Pharasma{/g} – and many other gods. I would be a fool if I tried to claim otherwise. If Groetus were stronger, the end times would already have come, wouldn't they?\""
+    },
+    {
+      "Key": "5d96759c-f0dc-4ed2-8ab0-06a7e00919ff",
+      "Value": "{n}Harrim shakes his head in resignation.{/n} \"{g|Groetus}Groetus{/g} doesn't speak to his clerics. Actually, Groetus doesn't need any clerics.\" {n}The dwarf raises his sad eyes to you.{/n} \"He only allows his whispers to be heard, and only by those who are dying to hear them.\""
+    },
+    {
+      "Key": "9a294d25-e100-400c-90ac-b8623b2fbab5",
+      "Value": "\"Then let me ask you, what do you think about {g|Groetus}Groetus{/g}?\""
+    },
+    {
+      "Key": "0073004c-b71e-4e84-8f63-57deee168c6f",
+      "Value": "\"But the powers of other gods fade away. They dissolve slowly, a grain in a century. {g|Groetus}Groetus{/g} collects those grains and waits. He doesn't need to hurry. He knows that his time shall come.\""
+    },
+    {
+      "Key": "91fe7a19-a204-457e-8abb-84f4492a6cab",
+      "Value": "\"His words are unclear, but they call to you. His voice comes with the soft rustle of fallen leaves, with the woeful wailing wind at the mountain pass, with the roar of the raging blizzard... and it calls you to strike out on the road. Onwards, always onwards, over the pass, over the bridge and further along. Up ahead, where the edge of a grey robe flashed, and a candle sputtered for the last time before dying... Onwards, always onwards, until your feet can no longer carry you...\" {n}Harrim falls silent, submerged in his own thoughts.{/n}"
+    },
+    {
+      "Key": "e4e7e534-21f2-4029-a60d-57e11e782a2c",
+      "Value": "\"What else would you like me to tell you, {name}?\""
+    },
+    {
+      "Key": "248b4d7e-2e7f-4a4a-bf87-25fcd13f1924",
+      "Value": "{n}A broad smile spreads across Harrim's face.{/n} \"I'm glad you think like that. We'll bring this truth to the whole world, and tell everyone that the end is inevitable!\""
+    },
+    {
+      "Key": "a90d9c18-d03c-47cc-b162-fc3c56878efa",
+      "Value": "{n}Harrim nods in contentment.{/n} \"I'll be glad to talk with you about {g|Groetus}Groetus{/g} any time, {name}. After all, that's why I travel in your company.\""
+    },
+    {
+      "Key": "822b22ac-ea96-4d3f-96df-2744f308ef37",
+      "Value": "{n}Harrim sighs.{/n} \"Your denial means nothing, {name}. The end will come either way. But there is still time to talk further about it. After all, that's why I travel in your company.\""
+    },
+    {
+      "Key": "730ea6dd-88f1-46da-a4b8-87376ea98b49",
+      "Value": "{n}Harrim lowers his head.{/n} \"Such is your wish then, {name}?\""
+    },
+    {
+      "Key": "6bc2a57a-01a3-43a9-acfe-a775be8843f5",
+      "Value": "\"Well then... everything comes to an end. So does our friendship. We shall meet the same fate, but now we follow different paths. Farewell.\""
+    },
+    {
+      "Key": "d56bbf68-914d-4408-9007-b99a5cfec95c",
+      "Value": "\"Then why do you disturb me with these obscure hints? Let's bury this conversation in oblivion and change the topic.\""
+    },
+    {
+      "Key": "3a7b4f04-7051-4ccf-ba2c-6a1fce837c36",
+      "Value": "{n}Harrim looks down and strokes his beard a few times before answering.{/n} \"I'm not sure, {Name}. This will likely bring nothing but pain. I suspect I will regret going to the ruins... But nevertheless I ask – please take me there.\""
+    },
+    {
+      "Key": "0abf3861-cfcb-4bfc-b117-a4fb23ff1291",
+      "Value": "\"I can't stop thinking about it either. Maybe it was a sign from above... But if so, what does it mean? Has {g|Torag}Torag{/g} admitted defeat and turned his back on the fortress? Did {g|Groetus}Groetus{/g} extend his hand to take what's his before its time?\""
+    },
+    {
+      "Key": "aeee3fa7-ccfb-4eef-8c2f-c7bcc0874008",
+      "Value": "\"I keep straining to hear the answer... But to no avail. But I'm sure that it happened for a reason. Some day I will understand what happened and why. Some day...\""
+    },
+    {
+      "Key": "eed111c4-39e9-42b5-ae4b-124b3bf16778",
+      "Value": "{n}Harrim fiddles with his beard pensively.{/n} \"Well... It's not as if I'm holding a grudge against the whole dwarven race. In {g|Brevoy}Brevoy{/g}, the {g|River Kingdoms}River Kingdoms{/g}, in the {g|Stolen Lands}Stolen Lands{/g} – I'm always rather happy to see one of us. Exiles like me, or those who left their homeland voluntarily in search of a better life – or even those who were born here and have never seen the mountains... I hold nothing against them.\""
+    },
+    {
+      "Key": "b872024e-d5ae-4bad-86da-40dd95e9fe84",
+      "Value": "\"But the Skjegge... You see, {Name}, they aren't just dwarves – they are envoys from my homeland and Torag himself. Like everyone who exiled me, who humiliated me, everyone I left behind – all of them have come back to torture me. They carry the spirit of {g|Five Kings Mountains}the Five Kings Mountains{/g} with them. A spirit that is more nauseating to me than the stench of a corpse.\""
+    },
+    {
+      "Key": "239e8d90-c5ab-43bc-90a1-1396f12ccf23",
+      "Value": "\"Don't. I would enjoy seeing those smug Skjegge led by {g|Torag}Torag's{/g} servant dig themselves a grave with their own hands and lie in it. It's probably petty of me... What's the difference who dies earlier or later, if the same end awaits us all? But please allow me this small pleasure.\""
+    },
+    {
+      "Key": "0ddd2423-6065-43a8-9a0a-c0287c5c9e65",
+      "Value": "\"I've never heard of any such thing… But you saw with your own eyes what happened. The paladin's words had the ring of truth – but what could this mean for me?\""
+    },
+    {
+      "Key": "14906dae-8201-4823-a76f-3adf02f98774",
+      "Value": "\"Who gave me this gift – {g|Torag}Torag{/g} or {g|Groetus}Groetus{/g}? And for what purpose? What should I do with it? Questions keep rushing into my mind, countless... Everything is so confusing... So strange and inconceivable...\" {n}Harrim's speech turns into barely understandable mumbling.{/n}"
+    },
+    {
+      "Key": "bc48c5a1-871f-42ae-b207-2f853bf2dedd",
+      "Value": "\"Being right didn't require any wisdom or knowledge or even experience. Do you think it brings me joy to be right about this?\""
+    },
+    {
+      "Key": "e83e19cc-0a39-41d8-a24d-f7f4fd10150d",
+      "Value": "{n}Harrim strokes his beard pensively and makes a crooked smile.{/n} \"But why should I lie either to you or to myself? Of course it brings me joy. But it's a bitter joy. The greedy and arrogant will continue to seek glory and wealth, but find only death and suffering. That's the sad comedy of our life, {Name}. We may laugh or cry at it, but no one walks from the stage without merciful {g|Groetus}Groetus{/g} drawing the curtain.\""
+    },
+    {
+      "Key": "17fbad33-9f61-4f61-bb6c-e69a0d123cd5",
+      "Value": "\"Have I made peace? Made peace...\" {n}Harrim says this word slowly, as if trying to taste it.{/n} \"There was war in my heart, and now it is serene – that is true. But can I call it peace? I think not. More like neutrality. I no longer torment myself thinking about them and {g|Torag}Torag{/g}, although the wounds they left continue to ache. But now it simply doesn't matter.\""
+    },
+    {
+      "Key": "37db389b-249e-4946-b2a0-3426e2601927",
+      "Value": "\"I used to think {g|Torag}Torag's{/g} followers were shallow, that they couldn't even imagine there was anything in the world besides their beloved god and their home mountain. Now I know that I used to be just as shallow. Torag, {g|Groetus}Groetus{/g}... Beginning of time, end of time... All these are only parts of a larger picture – a picture so vast that just thinking about it makes my head spin. But for a moment I saw it, {Name}. What can ridiculous resentments mean after that?\""
+    },
+    {
+      "Key": "cc89d364-29c4-4036-9e27-16140521e73e",
+      "Value": "\"Oh no. Don't imagine you can use me as a siege weapon. That was a special case... Divine intervention! The Revelation of {g|Groetus}Groetus{/g} – not just his usual whisper, but a proper crackling rumble! That day...\" {n}An insane light flares up in Harrim's eyes, and his voice turns into coarse whisper.{/n} \"Do you think I destroyed only a dwarven citadel that day? No, {Name}, oh no! That day a wall collapsed inside my soul, inside my mind... A wall of ignorance which had kept me from understanding... from true knowledge...\""
+    },
+    {
+      "Key": "65b4cd94-9730-439d-a502-46c7d93b395d",
+      "Value": "\"Oh, {Name}, if only I could share with you the truths that are opened to me! The truths that keep opening to me!\" {n}Harrim clenches his beard, almost pulling a piece from it.{/n} \"The truth about where time flows... The amazing forms that emptiness takes... The deafening song of silence that hides beyond {g|Groetus}Groetus'{/g} whisper... Now I know, now I know...\" {n}Harrim looks through you with unseeing eyes, whispering something indistinct.{/n}"
+    },
+    {
+      "Key": "164474d3-e8d4-4d49-9f09-416cb365da0c",
+      "Value": "\"Repent? You think I have to ask his forgiveness? The god who cast me out, who condemned me to a life of endless suffering? I would never return to him, even if he came asking for MY forgiveness!\""
+    },
+    {
+      "Key": "4e56e481-30aa-4f7e-82e6-581b13aed9e0",
+      "Value": "\"No, no! You cannot live without faith. Everyone needs a guiding force, a higher power to turn to in dire moments. I am sure your atheism is just a phase of your spiritual search. Sooner or later, you will find your faith as well!\""
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "16cd397c-4cd2-4ad0-afdb-64bdea4f9b1d",
+      "Value": "\"Linzi said it was you who discovered that the throne was missing.\""
+    },
+    {
+      "Key": "0a40ebd7-ed9c-4680-b6b9-f1ca59a18fae",
+      "Value": "\"I don't remember hiring a guard captain... or any guards, for that matter.\""
+    },
+    {
+      "Key": "d2b2ed83-80dd-4b35-80f9-b98bc6ef2fe3",
+      "Value": "\"I like to learn something about those who serve me.\""
+    },
+    {
+      "Key": "1463ee2c-8c04-4353-b4d4-a2078588ba4a",
+      "Value": "\"Hyland, do the guards have everything they need?\""
+    },
+    {
+      "Key": "90f4112a-a83c-4e5f-9e03-1a4871dda403",
+      "Value": "\"I have to go. Have a quiet shift!\""
+    },
+    {
+      "Key": "254e0462-a9ae-42a6-bc42-f3414702c3a4",
+      "Value": "\"How did your folks feel about the Irovetti story?\""
+    },
+    {
+      "Key": "b0778a7d-310a-43a1-b9eb-c0a2d75256e9",
+      "Value": "{n}The captain of the guard nods to you.{/n} \"Your {mf|Grace|Grace|Highness|Highness}.\""
+    },
+    {
+      "Key": "b5178659-f1da-40f6-b59f-be2389284596",
+      "Value": "{n}The captain grows gloomy.{/n} \"Yes, Your Highness.\" {n}He keeps silence for a moment, and continues, obviously embarrassed.{/n} \"Actually, Your Highness... Please don't think me a fool or a drunkard...\""
+    },
+    {
+      "Key": "4858e7f0-7927-452c-9cf9-44490b0c9f63",
+      "Value": "\"As I walked to the throne room... at first I thought it was a vision, and didn't think much of it. Well, I thought I saw your throne in the corridor. And it was... running away.\""
+    },
+    {
+      "Key": "48decaed-013e-4656-a3da-18fac027215e",
+      "Value": "\"Not by itself, of course! I just couldn't see who was carrying it. Perhaps someone really tiny had got underneath it. And my — how they and ran! It seemed the throne turned the corner by itself. But the sight was strange beyond belief, so I thought I was simply too tired and had started seeing things. A moment later, when I discovered it was really missing, I rushed after it — but it had vanished into thin air. Maybe it was... you know... magic?\""
+    },
+    {
+      "Key": "683234e5-0aaf-4a21-954f-62c3dd2be5d9",
+      "Value": "\"I came here from {g|Restov}Restov{/g} with a dozen of my best guards, by order of Lady Jamandi Aldori, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. I hired the rest from among the locals.\""
+    },
+    {
+      "Key": "d1378e47-650e-4b16-a34c-6f7646c38cf9",
+      "Value": "\"Of course, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. I have been a guard all my life — I started a snot-nosed runt in the night watch. {g|Restov}Restov{/g} is famous for its fencing schools. Young people from all the {g|River Kingdoms}River Kingdoms{/g} come to study there. It seems every other person has a sword... and every third thinks they know how to use it better than all the rest! A misspoken word or drunken fight can quickly lead to a stabbing rampage. That's why there are so many guards in the city — and they don't accept just anyone. Lady Jamandi took note of my achievements and marked me for advancement. That's why I'm here.\""
+    },
+    {
+      "Key": "b529174a-db63-4078-ad03-e11ac541b45e",
+      "Value": "\"There are sufficient munitions and supplies, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. The salary is fair: we've enough to buy toys for the kids and a jug of beer when the shift is done. Of course, the town is growing — it would be nice to expand the ranks... but we can manage that ourselves.\""
+    },
+    {
+      "Key": "277f83e2-5877-42db-b08d-5baa655fd538",
+      "Value": "\"Don't you worry, {mf|Your Grace|Your Grace|Your Highness|Your Highness}! We are now the subjects of the {mf|barony|barony|kingdom|kingdom}. We've sworn to serve you faithfully and loyally, and you can count on us! Besides, we draw our salary from your chests...\""
+    },
+    {
+      "Key": "71631c79-bb29-4edb-9c48-aff5051d053f",
+      "Value": "{n}The captain looks at the female guard, raising his brow, then sighs and looks at you.{/n} \"Of course. Every one of us is ready to die to protecting {mf|Your Grace|Your Grace|Your Highness|Your Highness}... but there's still some work to be done when it comes to discipline. You know that dwarven author… Baldric Zebras? Garlic Tundras? The name escapes me... My boneheads use to read his books about guard's duty right on guard duty. I'll have to teach them lesson or two!\""
+    },
+    {
+      "Key": "5566f1a6-e5b3-40fa-8903-b373c106bc25",
+      "Value": "\"Hyland, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. Captain of the city guard.\""
+    },
+    {
+      "Key": "1ce92aaf-5ba5-4e60-8ef5-f28f792643c9",
+      "Value": "{n}A young dwarf girl salutes you awkwardly.{/n} \"Delia, assistant to the captain. Happy to serve {mf|Your Grace|Your Grace|Your Highness|Your Highness}!\""
+    },
+    {
+      "Key": "5c53f3d9-70c8-405e-8693-959c69efe8be",
+      "Value": "{n}You see a stout man, suited in well-worn armor. His face is framed with silvery stubble, and his fleshy nose is red and pock-marked. He radiates perfect calm. As you approach, he bows — respectfully and with dignity.{/n}"
+    },
+    {
+      "Key": "8807efa0-af18-4bbb-a3fb-eba238006ca5",
+      "Value": "\"As for Delia, I found her on the street. About a decade ago. I remember vividly — a tiny dwarf girl sitting on the temple steps. Dirty face, barefoot, feeding a piece of bread to a stray cat. I saw her and my heart missed a beat...\" {n}The captain looks away.{/n} \"Where she's from, who left her alone and why — only {g|Erastil}Erastil{/g} knows. As she grew, I tried to send her to learn a craft — but who can talk sense into a dwarf?! She wanted to be a guard, and that's that. So now I'm teaching her myself. Lucky she has a head on her shoulders, and a fair bit of strength.\""
+    },
+    {
+      "Key": "9161ff52-6a1b-47ac-a9f8-addf7eb6e23c",
+      "Value": "\"Oh, uncle, when are you going to change that old armor! The magic beasts crumpled it so badly, it makes me cry to look at it!\""
+    },
+    {
+      "Key": "3b6d574e-a967-4fd2-a140-3a253d9202c4",
+      "Value": "\"Oh, you still have a lot to learn. If only you knew how many times it saved my life in that battle...\" {n}Hyland turns to you.{/n} \"Greetings, {mf|Your Grace|Your Grace|Your Highness|Your Highness}.\""
+    },
+    {
+      "Key": "0f20d64d-2f6a-49ef-bfee-ceaaa2956b14",
+      "Value": "\"How's one supposed to feel? He was a crook and a trickster, and everyone knew it. He got what he deserved, and it's all for the good — for {g|Pitax}Pitax{/g}, and for all their neighbors. Everyone sleeps better now.\""
+    },
+    {
+      "Key": "8dd9b10e-0e2b-4bb4-8c90-3913707370d1",
+      "Value": "\"We didn't believe for a moment all the dirty rumors he spread about you!\""
+    },
+    {
+      "Key": "36883b46-29b3-4a4e-af83-8bbd92cc5cf0",
+      "Value": "\"...why don't you explain why you're staring at me like that?\""
+    }
+  ]
+}

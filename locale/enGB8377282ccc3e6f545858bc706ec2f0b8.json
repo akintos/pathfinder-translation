@@ -1,0 +1,149 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "5488543d-894b-432a-870c-f65b696ec880",
+      "Value": "\"I'd like to know more about you.\""
+    },
+    {
+      "Key": "6e98632c-9a5b-4b0f-b826-fb8fff47e149",
+      "Value": "\"You have one day to leave my domain.\""
+    },
+    {
+      "Key": "16d7cdc1-c638-40ba-b27e-4a710baf5cb8",
+      "Value": "\"Tell me about your craft.\""
+    },
+    {
+      "Key": "bd699b7a-7f90-490b-b17b-9f17a725799e",
+      "Value": "\"Tell me about yourself.\""
+    },
+    {
+      "Key": "ebf0233d-00bd-4644-999f-66df7467aef7",
+      "Value": "\"Tell me about your apprentices.\""
+    },
+    {
+      "Key": "7e0acc16-c2d6-495e-8fea-1e849d65b304",
+      "Value": "\"Let us discuss it later.\""
+    },
+    {
+      "Key": "0f7c3828-d692-49e0-af41-3a2933591260",
+      "Value": "\"I heard the news that one of your assistants has gone missing.\""
+    },
+    {
+      "Key": "8b879c00-c8dc-4c53-8bf0-b65a23b27c7e",
+      "Value": "\"Take away this dangerous thing. It poisoned the mind of one of your assistants.\""
+    },
+    {
+      "Key": "61fc8a31-57e4-4de5-bd15-de163ffc9a99",
+      "Value": "\"Sartayne is dead. He had a vendetta against you for bankrupting his father.\""
+    },
+    {
+      "Key": "e8939990-99ed-457a-a158-2846d5e66ae1",
+      "Value": "\"You owe Sartayne. I set him free.\""
+    },
+    {
+      "Key": "efa073d2-b588-4389-88c8-3bfc8fab4c79",
+      "Value": "\"The goods you've been selling are cursed. Would you like to explain yourself?\""
+    },
+    {
+      "Key": "1d9ec33e-5005-40ad-8404-464cf4512013",
+      "Value": "\"How are the things going in the blacksmith shop?\""
+    },
+    {
+      "Key": "d20145dd-cc08-467f-a929-73450349a85b",
+      "Value": "{n}A heavily armed {d|Nazriel}Nazrielle{/d} eyes you suspiciously, but she sounds welcoming enough.{/n} \"Welcome! My apprentice Sartayne just finished unpacking, but I'm already up and running – all the better to serve you!\""
+    },
+    {
+      "Key": "10c0da23-2677-4e18-b35e-349acc62d63f",
+      "Value": "{n}{d|Nazriel}Nazrielle{/d} is gazing at you almost without blinking, like an owl.{/n} \"How can I help you?\""
+    },
+    {
+      "Key": "3856f2e6-0fee-4a89-b903-f54623ddaff4",
+      "Value": "{n}This time {d|Nazriel}Nazrielle{/d} looks different. There's still fire in her eyes, but her face expresses humility and obedience. Her shoulders are slumped. There's a bruise on her cheek. Her voice is quiet and servile.{/n} \"Welcome! Master Sartayne is busy at the forge. I will do my best to serve you.\""
+    },
+    {
+      "Key": "4d5b03b5-c33d-4e42-9052-dcb172d1d0f0",
+      "Value": "{n}Nazrielle lowers her eyes and bites her lip.{/n} \"I am but dust in the wind. I'm not worthy of your attention... {mf|sire|mistress}.\""
+    },
+    {
+      "Key": "b01a3e73-94c7-45d4-9b37-225325451da2",
+      "Value": "{n}Nazrielle tucks her head into her shoulders.{/n} \"I will pass this message along to the master. It will make him angry.\""
+    },
+    {
+      "Key": "c9476068-8b34-41dd-a837-9e8e720d1508",
+      "Value": "{n}Nazrielle is eyeing you apprehensively.{/n} \"So, you wish to break our contract? This is most unfortunate. You will hardly find a master as skilled as I am, but that doesn't seem to trouble you. Farewell.\""
+    },
+    {
+      "Key": "03fed43c-d0bc-4ac5-ad3e-6aa9af2898e6",
+      "Value": "\"What exactly would you like to know?\""
+    },
+    {
+      "Key": "6f80d3ce-621e-4496-aaee-cd371075d18c",
+      "Value": "{n}Nazrielle looks at you suspiciously for a moment, and then nervously brushes her fingers through her hair.{/n} \"My weapons define me. I've been drawn to it since I was a child. I have over three hundred blades at home, each of them special. I wanted to be a professional weaponsmith, so I learned the craft from greatest masters of Kyonin.\""
+    },
+    {
+      "Key": "da0dd69c-23e4-4dc8-83bc-d0795c3b856d",
+      "Value": "{n}Nazrielle juts out her chin.{/n} \"My art! A mere craftsman would attach a piece of wood to a piece of iron, and be happy with their work. That's not how I do it. I listen to a weapon. I talk to it. I spark its desire for blood and violence. This gives you two warriors in the battlefield, the soldier and their sword.\""
+    },
+    {
+      "Key": "bb3241fe-666d-479e-ba43-93216ebc21f4",
+      "Value": "\"Always at your service.\""
+    },
+    {
+      "Key": "89857877-199c-499b-9c76-fb8ef6868a80",
+      "Value": "{n}The elven woman waves her hand angrily.{/n} \"The boneheads? Why would you care about them? Ah, it doesn't matter anyway. I recruit apprentices for simple tasks. They sign my contracts. They obey me and take full responsibility for any harm they suffer during service. One of them, Sartayne, works in the smithy. The other, Ditael, tests finished weapons and runs errands.\""
+    },
+    {
+      "Key": "d1fc23ac-1712-41cf-a249-4a280000d0c7",
+      "Value": "{n}{d|Nazriel}Nazrielle's{/d} face is contorted in desperation. Her eyes have a haunted look.{/n} \"{mf|Your Grace|Your Grace|Your Highness|Your Highness}… To what do we owe the pleasure?\""
+    },
+    {
+      "Key": "8f2f48d9-3176-4fb3-ba66-03cb3f2d9fa2",
+      "Value": "{n}Nazrielle looks at you in disbelief. She spits on the ground in a most non-elfish way, gives you a scornful look, and instead of bidding you farewell, says:{/n} \"Everyone along my path will know that your word is worthless.\""
+    },
+    {
+      "Key": "3609890b-619a-433a-b853-e6b9526f7de8",
+      "Value": "{n}Nazrielle falls silent for a few seconds, looking very focused. Then she smiles slowly and malevolently:{/n} \"What a spectacular day. Thank you.\""
+    },
+    {
+      "Key": "913bb521-660c-46d9-ac5f-7593fb5e5e26",
+      "Value": "{n}The elven woman carefully takes the blade from your hands. She bows politely. There's honey in her voice.{/n} \"I'm terribly sorry. What an unbelievable failure! I would never have allowed a faulty blade to get into your hands! That's what we need quality control for, right?\""
+    },
+    {
+      "Key": "822c4b24-d3e0-4715-be67-4e41e807d2d5",
+      "Value": "{n}Nazrielle winces, and looks embarrassed.{/n} \"It's so humiliating that you've learned of it. Something went wrong with my weapon. It was... hm... It was meant to be a gift for you. But Ditael went crazy as he took it. He fell into a fury and ran off. If a faulty blade with my mark gets into someone else's hands, my reputation will be ruined.\""
+    },
+    {
+      "Key": "b6d87dd5-c063-4792-8359-39bb3412255f",
+      "Value": "{n}Nazrielle turns pale as paper.{/n} \"Cursed? Oh goodness... It wasn't me! I didn't do it! It's simply impossible! My creations are impeccable! I'm a master, you know! Such a thing has never happened in my entire life! Nobody could...\" {n}The elven woman falls silent, her lips move, but she doesn't make a sound.{/n}"
+    },
+    {
+      "Key": "44c4aa14-4dfa-42d7-81fe-f149fe1c4231",
+      "Value": "\"But then my comrades in craft and I... We had a bit of a falling out. A few bastards dared to question my skill. I felt that I could only shed this burden outside Kyonin. And you know what? I swore then that I would prove that I'm head and shoulders above them! Two of them paid the price even when I was working back home. They couldn't stand the competition and went bankrupt. – That's where all my competition is headed!\""
+    },
+    {
+      "Key": "a58a2bca-05e6-4c90-8301-044dd07a66d5",
+      "Value": "\"I beg you, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, help me! I don't think this idiot could have gone far. He may still be near the river. Bring me back the blade, and I will never let you down again, I swear!\" {n}The elven woman falls silent. She frowns, as if trying to remember something.{/n} \"Oh! But of course! Please be sure to save Ditael, my other apprentice. If it's not too much trouble.\""
+    },
+    {
+      "Key": "ab296bdb-1e8e-44c8-b2ae-3106e1e0df38",
+      "Value": "{n}Nazrielle recovers her voice, and now sounds strangely calm.{/n} \"It's Sartayne. It's him. He's been spoiling my work. No one else could do it. The little bastard tried to tarnish my name.\" {n}There's nothing but cold hatred in Nazrielle's gaze. The tone of her voice is quiet and murderous.{/n}"
+    },
+    {
+      "Key": "ed082e9f-056f-4b60-994f-b84a2d531add",
+      "Value": "\"By the right granted to me by our agreement, I am calling upon {mf|Your Grace|Your Grace|Your Highness|Your Highness}! Sartayne insulted the reputation of the master, to whom you promised protection. I'm asking you to find and kill the bastard. He must be hiding in his hut not far from the capital.\""
+    },
+    {
+      "Key": "dded5550-2d7a-4069-acf4-690fbcd63e29",
+      "Value": "\"I promise you will receive your gift. Please, give me a little more time. I hope the items I send with Sartayne will fend off boredom while you await the arrival of the true masterpiece!\""
+    },
+    {
+      "Key": "0fe714a5-c8e4-4b8d-8ae4-a518f72caab2",
+      "Value": "\"Of course, I pay close attention to detail. A sharper bevel will allow the blade to cut through the flesh, not into it. Change the angle of the point, and the blade will pierce through armor like a stitching awl without sliding. I learned all this from weapons. You just need to be able to know what you're looking at.\""
+    },
+    {
+      "Key": "677ba513-25d2-49ff-ad4f-4cac08be08f4",
+      "Value": "\"Excellent! Wonderful! I fired my apprentices. I've had enough with Sartayne. I work longer hours, of course, but every blade that leaves my forge is my personal responsibility now.\""
+    }
+  ]
+}

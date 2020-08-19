@@ -1,0 +1,145 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "3676b47e-d72b-4ad0-a6bc-dca773d30d82",
+      "Value": "\"I don't like the direction this conversation is taking. We'll speak again later.\""
+    },
+    {
+      "Key": "72cdfc9f-7a68-4dbd-954b-0c2b7fc504af",
+      "Value": "\"What brings a Pitaxian noble to my barony?\""
+    },
+    {
+      "Key": "bf6d7fb7-e776-406a-8b60-7ef2277b1b79",
+      "Value": "\"Ah, yes — King Irovetti. Worry not. I'll be sure I send him a melancholic missive relaying news of your tragic fate.\""
+    },
+    {
+      "Key": "79fd16e1-6428-4dd9-ac3e-d29f68810a00",
+      "Value": "\"Now, allow me to — personally — tax your cortege, so as to help improve my economy. And as taxes are especially high this year, I do hope you'll be able to pay — the punishment for failure to pay is imprisonment.\""
+    },
+    {
+      "Key": "bf2c6da9-fc64-4490-957a-f5dd9db037f7",
+      "Value": "\"Sir Stefano, please be frank with me — have you ever had the pleasure of being acquainted with the hooves of a jackass? Other than your own feet, I mean.\""
+    },
+    {
+      "Key": "b1cadce0-5cd2-41f3-8a13-9fb2b49a9019",
+      "Value": "\"What news of Pitax?\""
+    },
+    {
+      "Key": "d69e5470-08f5-4e3a-994d-a9a4467ed8ad",
+      "Value": "\"I'd watch my tone, were I you, lest I send you back to Pitax sooner than you'd planned.\""
+    },
+    {
+      "Key": "45ae6cdb-d152-428c-ae38-b4fbf5f2ec00",
+      "Value": "\"I'd watch my tone, were I you, lest I send you back to Pitax in a box — or perhaps several boxes.\""
+    },
+    {
+      "Key": "05b964ad-b7d8-417d-9b3b-709dff8751cc",
+      "Value": "\"Yes, the tragic fate you met after attempting to escape your chains. Now, if there's nothing more, I'd suggest you go replaster your face with whatever makeup you've been using — your cheeks are so bright, the red glow must be visible from Absalom.\""
+    },
+    {
+      "Key": "81492b70-11e3-443c-944e-5b8e12b1ffaa",
+      "Value": "\"A five-year-old could tell you're deliberately trying to offend me, Sir Stefano. Perhaps you could just tell us directly what it is you came here for?\""
+    },
+    {
+      "Key": "24be8ade-5a04-4050-a4c1-6d182195fd0e",
+      "Value": "\"I'm always open to criticism, so long as it's fair and reasonable.\""
+    },
+    {
+      "Key": "2c28e9eb-1468-48f9-9212-bbbb0d0e72e4",
+      "Value": "\"Perhaps there's a touch of truth to your words, but my barony is still very young. Everything will be different soon.\""
+    },
+    {
+      "Key": "60e7cc8c-ec36-44cb-be98-c7ddc5699cfd",
+      "Value": "\"Another word and I'll send you to the gallows.\""
+    },
+    {
+      "Key": "b68db8b2-a447-4f38-ac2f-3e7c48690471",
+      "Value": "\"No matter how weak my barony may be, you have no right to speak to me in such a tone.\""
+    },
+    {
+      "Key": "44cda5e2-88bb-4525-9881-e383dfe7f8aa",
+      "Value": "\"I hope you've taken the hint. Get out.\""
+    },
+    {
+      "Key": "fe9091a7-b46c-47a2-8016-b82450d829e5",
+      "Value": "\"Run along, then — go back and cry in your king's lap. Move along.\""
+    },
+    {
+      "Key": "6ae76810-6239-44a7-bcc3-5425a2f61a4b",
+      "Value": "\"I'll leave that to your imagination. This audience is over.\""
+    },
+    {
+      "Key": "005ab4a9-f082-4a07-bf97-d10327071ef8",
+      "Value": "{n}Sir Stefano opens his mouth, then immediately closes it.{/n}"
+    },
+    {
+      "Key": "667eacdd-7dfd-40f0-a2b8-382eb32fe64a",
+      "Value": "\"Life in {g|Pitax}Pitax{/g} is splendid, thank you! All thanks to the work of my king and sovereign, Castruccio Irovetti. Our city definitely prospers.\" {n}Sir Stefano grins, staring unabashedly into your eyes.{/n} \"A stark contrast to your own crumbling hamlet.\""
+    },
+    {
+      "Key": "fe008dc6-cb2c-46cc-b1b0-fb743d35cf2e",
+      "Value": "\"What do you mean? A noble dignitary from a neighboring state visits your capital — a close friend to King Castruccio Irovetti, at that — and you can't make time for a short conversation? A true host would never think to treat their guests so.\" {n}Sir Stefano grins, staring unabashedly into your eyes.{/n} \"Indeed, this hamlet seems to be faring even more poorly than I'd initially suspected.\""
+    },
+    {
+      "Key": "25d04c01-4158-4bbe-8e2b-58d0e2dc194f",
+      "Value": "\"Nothing. You have absolutely nothing to offer.\" {n}Sir Stefano continues on without giving you a chance to respond.{/n} \"Military — weak. Culture — weak. Economy — weak. You'd best pray to all the gods that my King Irovetti doesn't declare war on you. On the other hand, maybe you should pray he conquers you — this mess of a barony could use the rule of a proper king.\""
+    },
+    {
+      "Key": "274d0129-805d-4969-928d-f7b1cb39a68a",
+      "Value": "\"And now we resort to insults. Hardly surprising.\" {n}Sir Stefano lets out a long sigh, tapping his rapier.{/n} \"Well, you aren't worth the glove it would take to challenge you. Besides, you'd probably just run off and hawk it — it's easily worth twice what you've got in this throne room.\""
+    },
+    {
+      "Key": "127ead89-4135-488d-adf3-70e2e0d8d5c6",
+      "Value": "\"Well, then, I'll gladly give you my report.\" {n}Sir Stefano's voice takes on a condescending tone.{/n} \"Follow along on your fingers, assuming you can count. One — your army is weak. You lack the guards to properly defend your lands, so you must choose between the villages, the towns, and the trade routes.\""
+    },
+    {
+      "Key": "802c8fb9-da88-4425-8d1c-16c04bab9982",
+      "Value": "{n}As he approaches, a mean, sly smile appears on his face — clearly practiced and prepared in advance.{/n} \"Ah, the ruler of this 'barony.' I'm flattered by your attention. Sir Stefano Moskoni of {g|Pitax}Pitax{/g}, at your service.\" {n}The man performs a derisive bow.{/n}"
+    },
+    {
+      "Key": "c0fd6eaf-446d-4010-acaf-000910f5ff73",
+      "Value": "\"Oh, I'll be on my way, don't you worry. If I were to stay any longer, I fear I might pick up fleas, or lice, or whatever else passes for subjects in this place. Take care! No need to see me off.\""
+    },
+    {
+      "Key": "153a0759-e7f1-49c8-a948-4762d34e3d55",
+      "Value": "\"Two — your economy is a shambles. You have to personally resolve an issue of tax collection from some lowly inn — and it seems your treasury even depends upon this handful of coins.\""
+    },
+    {
+      "Key": "dc7b5367-18c3-4d21-bab6-2c41b75b0054",
+      "Value": "{n}The man before you reeks of vanity. His black hair is curled, styled, and generously waxed, from the hair atop his head to the points of his moustache. His cheeks and forehead are powdered white, giving him a pallid look. His hand rests casually on the golden hilt of his rapier.{/n}"
+    },
+    {
+      "Key": "7c4cb2c2-3bb0-40fa-8187-19f6a4d1e4fc",
+      "Value": "{n}Sir Stefano, furious, starts to speak.{/n} \"My king will not stand for-\""
+    },
+    {
+      "Key": "c40ea05f-88cd-4fee-91bd-309d92be4eb8",
+      "Value": "\"I was just traveling back home to glorious {g|Pitax}Pitax{/g} after paying a visit to {g|Restov}Restov{/g} — all in service to King Castruccio Irovetti. I thought I might take a day to visit the capital of {g|Pitax}Pitax{/g}'s bold new neighbor...\" {n}Sir Stefano sniffs, then grins.{/n} \"I must say, I really should have spared myself the trouble. It's hardly worth seeing.\""
+    },
+    {
+      "Key": "b6a2c7b2-ed78-4b4d-9992-d52e0d5835cc",
+      "Value": "\"Wha-\" {n}Sir Stefano pauses mid rant.{/n} \"My... tragic fate?\""
+    },
+    {
+      "Key": "85dd57d8-26d9-44ff-8037-9cf87986cb37",
+      "Value": "{n}Sir Stefano stares at you and snorts.{/n} \"You know, the initial goal of my visit was to take measure of your so-called 'barony,' to see if you had anything of value to offer to {g|Pitax}Pitax{/g}. And do you know what I found?\""
+    },
+    {
+      "Key": "5f597d01-e84b-40b6-a22a-f7c15c7f127a",
+      "Value": "\"And three — your culture is... well, nonexistent, really. What do you even have? No art galleries. No universities.\" {n}Sir Stefano waves his hand dismissively.{/n} \"Your capital may as well be a cowshed, with you a donkey sitting atop a heap of hay.\""
+    },
+    {
+      "Key": "2f7a4c1c-2e01-406c-a95b-67f162ddcb77",
+      "Value": "\"I... I'll take my leave now.\""
+    },
+    {
+      "Key": "2d8ca749-aee2-4bfe-9534-50f7b8f0f258",
+      "Value": "\"If anything ever changes here, it'll be the number of dung flies — and that will only grow. Ah, well, I shan't continue this slaughter — no use battling someone who can't even fight back. All the best!\" {n}Sir Stefano performs a mocking bow.{/n}"
+    },
+    {
+      "Key": "ef8f577c-9104-4786-929f-0ee30a313aab",
+      "Value": "\"Indeed, what was I thinking? What value could there be in speaking to someone who can barely understand the words of an educated noble? I've learned what I wished to know — I bid you farewell.\""
+    }
+  ]
+}

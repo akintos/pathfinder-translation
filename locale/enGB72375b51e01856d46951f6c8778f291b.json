@@ -1,0 +1,601 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "75efd9c5-0b7a-409d-9530-cd33392fabf0",
+      "Value": "\"What are you jotting down in your notebook all the time?\""
+    },
+    {
+      "Key": "1d8bb51c-2263-4f23-89f3-c5fa31afa494",
+      "Value": "\"Tell me about yourself.\""
+    },
+    {
+      "Key": "a83fa869-143c-44cc-a998-b6481d2e4c24",
+      "Value": "\"Tell me something about the history of the gnome race.\""
+    },
+    {
+      "Key": "33210c13-e5ce-424c-aa4d-813a74cd5fce",
+      "Value": "\"You must know a lot about the First World.\""
+    },
+    {
+      "Key": "4580b7a6-4472-421a-8ffe-0ae0ac1ef95e",
+      "Value": "\"Tell me, why have you studied the First World so thoroughly?\""
+    },
+    {
+      "Key": "c38d10cd-ad22-4469-8b94-d6c11feee7bd",
+      "Value": "\"You're not very friendly, you know.\""
+    },
+    {
+      "Key": "1bc10b99-b190-4b42-9430-34408747e71d",
+      "Value": "\"Thank you for the conversation. I have to go now.\""
+    },
+    {
+      "Key": "5c5995ea-c995-420a-8269-434a343757f8",
+      "Value": "\"Where are you from?\""
+    },
+    {
+      "Key": "cc053301-4719-44d6-91bb-5949d7df96a1",
+      "Value": "\"Still, where were you born?\""
+    },
+    {
+      "Key": "05c6742d-e0e7-484b-b90a-f7565cc2263b",
+      "Value": "\"You've traveled so much! Tell me of your travels abroad!\""
+    },
+    {
+      "Key": "810082f5-9b77-4fdf-a3a9-6a407bce5d2e",
+      "Value": "\"So you write books and magazine articles?\""
+    },
+    {
+      "Key": "b3fe02c2-1eb5-4b88-a6f6-5513326430c6",
+      "Value": "\"You wear glasses. Why won't you ask some cleric to heal your eyesight?\""
+    },
+    {
+      "Key": "08b30732-ee8c-4963-be5a-9ba452176777",
+      "Value": "\"Thanks for telling me about yourself. Let me ask you about something else.\""
+    },
+    {
+      "Key": "ef28b2cc-cb35-4c82-9149-34f9e20cb4e6",
+      "Value": "\"How did gnomes appear on Golarion?\""
+    },
+    {
+      "Key": "4d39c73a-b274-4fed-861f-916022358f0f",
+      "Value": "\"Do gnomes live long?\""
+    },
+    {
+      "Key": "0f5618de-7763-42b4-8dc2-a79ed288c0c7",
+      "Value": "\"So you travel so much as a way to fend off the Bleaching?\""
+    },
+    {
+      "Key": "ba204652-39e0-4a71-9f67-e9393f62e2b9",
+      "Value": "\"Let's change the subject. I'd like to learn more about the First World.\""
+    },
+    {
+      "Key": "5cc8764e-d9e6-470b-a087-31dbfee7bd92",
+      "Value": "\"Thank you for your story. I'd like to ask you about something else.\""
+    },
+    {
+      "Key": "b8208cae-d6ac-4183-b1ee-a14542ca8741",
+      "Value": "\"The First World, what it's like?\""
+    },
+    {
+      "Key": "ec698159-18ac-4c0d-9816-1608acdc3b06",
+      "Value": "\"How can a person get there?\""
+    },
+    {
+      "Key": "a675d4dc-50c8-4488-8493-a2c7d5438487",
+      "Value": "\"Are there any sentient beings in the First World?\""
+    },
+    {
+      "Key": "0843f1c1-8043-4d84-99aa-b00b148de672",
+      "Value": "\"Who rules the First World?\""
+    },
+    {
+      "Key": "cc57f3d6-38c7-45a7-9bc3-379928c10dc2",
+      "Value": "\"You know a lot about the First World. Have you ever been there?\""
+    },
+    {
+      "Key": "63d31642-9afe-48cc-8740-6b94dd5af0e1",
+      "Value": "\"I'd like to talk about something else.\""
+    },
+    {
+      "Key": "da95a726-b393-4ff7-86b2-130c4c5a7142",
+      "Value": "\"What are you hinting at? I'm only fulfilling my duty!\""
+    },
+    {
+      "Key": "19c6e614-11ba-43f0-99ae-05f7b78cd483",
+      "Value": "\"I do what I have the right to do!\""
+    },
+    {
+      "Key": "5472efc8-dca9-44ec-9a62-41d4af40d191",
+      "Value": "[Remain silent]"
+    },
+    {
+      "Key": "53c17e0d-d5aa-4dd0-8fb0-0f8698f29341",
+      "Value": "\"Even the most useful advice is better received if it's offered the right way. Your advice sounds like your only aim is to please your own ego.\""
+    },
+    {
+      "Key": "a7284045-67e2-4c1b-8860-cfc4ca50aefe",
+      "Value": "\"I will be honest with you too, then – you've become rather too fat lately. So accept this friendly help – tonight you go to sleep without dinner.\""
+    },
+    {
+      "Key": "99374c1d-a036-4f24-96bb-18b9c878674d",
+      "Value": "\"Very well, you can behave as you like.\""
+    },
+    {
+      "Key": "f712146a-887a-4f5c-aa7a-4e8c14b0a598",
+      "Value": "\"I've read your article about the barony. Should I be flattered?\""
+    },
+    {
+      "Key": "d29d2749-3d90-4963-a71c-97c278d4c11c",
+      "Value": "\"I have received the journal with your article. I thought it would be worse.\""
+    },
+    {
+      "Key": "adba61ee-b806-49bd-97f8-bb25e566a590",
+      "Value": "\"I have read your article about the barony! How dare you publish such trash?!\""
+    },
+    {
+      "Key": "0839f4cb-0db8-4d2d-9d1b-67ea15432df2",
+      "Value": "\"I'm fed up with you. You need to go.\""
+    },
+    {
+      "Key": "e4034b93-fdd3-41ce-952a-bab772548b7f",
+      "Value": "\"I certainly have. Now leave my lands at once.\""
+    },
+    {
+      "Key": "29299f68-a863-4e77-ab50-5b0532d0e5fc",
+      "Value": "\"Well... actually no. Please stay.\""
+    },
+    {
+      "Key": "5e0aebd9-3540-41b0-abdb-8a380e200b5c",
+      "Value": "\"I wanted to talk to you about the Inconsequent Debates...\""
+    },
+    {
+      "Key": "edc28d6b-b82f-403f-b640-919bf777e82a",
+      "Value": "\"Have you figured out anything about that riddle? – The Host's 'answer' to your question about the gnomes?\""
+    },
+    {
+      "Key": "29189a78-f4fd-490a-97c9-aa191e35ee19",
+      "Value": "\"Remind me how that riddle went again.\""
+    },
+    {
+      "Key": "dfbd9c1a-5b6d-4071-bc90-91dd8dce4407",
+      "Value": "\"I was surprised that you didn't want to be freed of the Zottenropples' spell. Why did you willingly suffer it?\""
+    },
+    {
+      "Key": "8a89403b-0dd7-477b-8347-af522a62ed77",
+      "Value": "\"Let's talk about something else.\""
+    },
+    {
+      "Key": "ebb66bba-b20f-4a72-9474-b150c49d03db",
+      "Value": "\"So you let them continue their prank to help them? That's a worthy act.\""
+    },
+    {
+      "Key": "c03f2f59-18df-461f-bbc2-614f476c4c6f",
+      "Value": "\"You shouldn't have played along. Each of us chooses how to face our troubles – with dignity, or by humiliating ourselves and others.\""
+    },
+    {
+      "Key": "0b161e57-28a8-4796-9928-455e34765b94",
+      "Value": "\"It's stupid to help useless weaklings, especially those who are trying to harm you.\""
+    },
+    {
+      "Key": "962dcd21-0f94-4e52-8460-e5a8f7391823",
+      "Value": "\"I found Gunderson's book – the one we were looking for!\""
+    },
+    {
+      "Key": "459803f0-f33e-40dd-988c-fa1c08b0dbb4",
+      "Value": "\"I found Gunderson's book, and more than that – I solved the riddle! On the twenty fourth of the month, I found someone named Luna in the corner of a tavern.\""
+    },
+    {
+      "Key": "f8618571-9992-48a1-8336-26727e95bdd5",
+      "Value": "\"What are you going to do now?\""
+    },
+    {
+      "Key": "3ac2bccd-fa13-4417-8f9a-abbd6cc9f2ab",
+      "Value": "\"What do you think about everything that has happened?\""
+    },
+    {
+      "Key": "63e9d2a6-456d-4b44-a37a-96355225c79c",
+      "Value": "\"Let's talk about something else.\""
+    },
+    {
+      "Key": "bc78f8d1-08cc-45ba-9527-3b287f5b3972",
+      "Value": "\"One thing they say about us gnomes is that few of us live long lives...\""
+    },
+    {
+      "Key": "25fafd23-edd8-47ba-819f-f113487444fa",
+      "Value": "\"Of course. I've heard about it but never witnessed it myself. What does it look like?\""
+    },
+    {
+      "Key": "810bba41-4dc4-43bf-b5d0-7feff7e51f09",
+      "Value": "\"You don't have to tell me. I've seen myself how the Bleaching develops.\""
+    },
+    {
+      "Key": "e1e8958b-b77b-42af-b688-968e3aeaa628",
+      "Value": "\"Ha! I became a baron{mf||ess} for entertainment! I think with all the commotion, I'm safe from the Bleaching.\""
+    },
+    {
+      "Key": "ad579044-4ed3-4bed-8305-bab3dce07ec6",
+      "Value": "\"You worship Desna, don't you? So do I.\""
+    },
+    {
+      "Key": "5a5f581c-c4e0-4170-a0cf-2e49a0c350c7",
+      "Value": "{n}Jubilost raises his head and closes his notebook.{/n} \"Ah, it's you. How can I help you?\""
+    },
+    {
+      "Key": "0ff9e8db-e3c8-4535-9e3a-f088eaa5001b",
+      "Value": "\"Come back when you run out of clever ideas again.\""
+    },
+    {
+      "Key": "e4c1cd5d-846f-416f-b1ba-33dd5442b24e",
+      "Value": "\"Notes on our adventures. Good ideas that come to mind. I don't know how it is with you, but in my case, my mind is constantly producing thoughts and ideas worthy of writing down.\""
+    },
+    {
+      "Key": "1188bd93-0aff-4fb4-a032-6dcefe898ecf",
+      "Value": "\"Some I use in my articles and books. Others I will share with the audience next time I speak at Forae Logos in {g|Absalom}Absalom{/g}. Some other thoughts should be kept out of the public view for a while. Our world isn't yet ready for certain revelations.\""
+    },
+    {
+      "Key": "2832449e-f522-42ea-b149-d321fd55ddec",
+      "Value": "\"I've heard this request so many times… Well, as we're traveling together, I suppose I can give you an interview – free of charge, of course.\""
+    },
+    {
+      "Key": "1e6fbbcf-1131-4c13-8d9c-9a3005d254f5",
+      "Value": "{n}Jubilost casually waves his hand.{/n} \"Ask away.\""
+    },
+    {
+      "Key": "4862cfb2-426a-42cd-89af-1d0963064a3e",
+      "Value": "\"All of {g|Golarion}Golarion{/g} is my home. I am a citizen of the world. Some might say my home is {g|Absalom}Absalom{/g}, that great old patchwork city. It's there that my books and magazine articles are published, and there I am held in particularly high esteem, owing to my vast knowledge. – In fact, once I was invited to the College of Mysteries itself! But I prefer to think of Absalom not as home but headquarters, where I go to plan my next adventure.\""
+    },
+    {
+      "Key": "e79024df-4fdc-469a-bc9e-d8710d5505ba",
+      "Value": "\"I've visited every country worth mentioning in {g|Avistan}Avistan{/g} and {g|Garund}Garund{/g}. I've even trodden the exotic lands of Tian Xia. I've seen miracles you couldn't even imagine. And in every place I've been, there was a home that would have gladly received a renowned explorer such as myself.\""
+    },
+    {
+      "Key": "04e6ec4b-10cc-444f-a563-e4018b69bd26",
+      "Value": "\"The famous name of Jubilost Narthropple is known even in the most remote corners of the world!\""
+    },
+    {
+      "Key": "36276562-991d-4140-9d4f-1d6737708853",
+      "Value": "\"You know, the line between persistence and importunity is very thin. And you risk crossing that line.\" {n}Jubilost sighs.{/n} \"Do you think I haven't mentioned my birthplace because of my forgetfulness?\""
+    },
+    {
+      "Key": "cc2c36a2-619e-4f1f-9ff6-976797187dcd",
+      "Value": "\"I was born in {g|Taldor}Taldor{/g}, if you must know. The empire is in decline nowadays, but still cherishes the illusion of its past glory. It's a country torn by prejudice. In Taldor, my mind was trapped in a cage of restrictions – birthright, poverty, and their \"beggars-be-damned\" attitude. I left the country as soon as I understood it.\""
+    },
+    {
+      "Key": "f2c2a014-7732-44ec-adc3-d607fe291af5",
+      "Value": "\"So if you ever try to rekindle any patriotic feelings in me, you'll be disappointed. My first article in The Independence was about {g|Taldor}Taldor{/g}. The magazine was almost closed as a result of the scandal that followed – and it would have closed, were it not for crowds of my supporters, marching in protest under the windows of the publishing house, making its editors change their minds.\""
+    },
+    {
+      "Key": "30d2f8d2-d833-4fa9-bb70-fd26f6c4aeef",
+      "Value": "{n}Jubilost tilts his head, peering at you.{/n} \"I've written a fair number of articles and essays on my journeys. And if you'll excuse me, I haven't the slightest desire to retell them all to you right now. If you wish to learn about foreign lands, pick up any issue of The Independence and read all you like. I'm sure you can find my magazines even in this hole of a place.\""
+    },
+    {
+      "Key": "ad1b0988-1891-468b-8f89-afcb6879d521",
+      "Value": "\"I certainly do. I'm too generous not to share my thoughts and journeys with other minds who search for knowledge. Judging from your face, you don't belong in that category.\" {n}Jubilost sighs.{/n}"
+    },
+    {
+      "Key": "06b4941c-bf9e-4ac4-9dad-c12f48c4c5ce",
+      "Value": "\"Among my scientific works, I'd recommend the range of articles published in National Alchemy. If you prefer lighter reading, you might like Traveler's Essays or the scandalous The Independence. If pictures capture your attention better than words, page through the Illustrated Atlas of {g|Avistan}Avistan{/g}. And you should give your cook a volume or two of my Culinary Almanacs. Trust me, it might help.\""
+    },
+    {
+      "Key": "50c0e0cd-8e94-4bcc-9aa1-8347572d04e4",
+      "Value": "{n}Jubilost throws a speculative glance at you.{/n} \"Some have tried to blame me for a sleazy romance novel called The Five Sins of {g|Sarenrae}Sarenrae{/g}. I have no idea on who spread these crazy rumors. But if you like such frivolity, I've been informed that the novel's sequel, The Sixth Sin, was recently published.\""
+    },
+    {
+      "Key": "f891cb19-be99-4655-86ba-3878871e0685",
+      "Value": "{n}Jubilost throws a cutting glance at you.{/n} \"I'm sure you could have figured out the answer to that question on your own, if you bothered to use a logical approach. At least I sincerely hope so. I prefer to think of you as of lazy person, not a stupid one.\" {n}Jubilost tightens his lips.{/n} \"Well then, I suppose it's my fate to enlighten you. All right, there's no time like the present!\""
+    },
+    {
+      "Key": "1a02b5bd-6054-44f7-827b-e1a62e82bf6f",
+      "Value": "\"Let's build up to a logical conclusion together. So, starting with the obvious... A cleric's services cost several hundred gold coins. Spectacles cost a dozen gold coins. So maybe I just couldn't afford to pay the cleric? Incorrect conclusion. I earn enough, besides, some clerics would surely help me free of charge, because they're fans of my incomparable talent.\""
+    },
+    {
+      "Key": "42aa1b97-675c-464e-ada3-47e2dd16e4c1",
+      "Value": "\"The answer can't be the money, then. So what is it? Let's explore further. Surely you've noticed that I'm a rather famous person? Just to be clear which circles I'm famous in: my scientific articles are well-known among the students and teachers of various institutions of higher education. My articles that satirize the rich and powerful are extremely popular among the minor nobility, traders, and workers – that is, among anyone who doesn't have any power for themselves. – The kind of people who don't usually have enough money to afford an expensive cleric.\""
+    },
+    {
+      "Key": "ccb990d4-08d1-47e5-b47e-02b380341097",
+      "Value": "\"Well? Can you add it all up and find the right answer yet?\""
+    },
+    {
+      "Key": "28de28c5-cd90-407e-9a4b-1005148176e0",
+      "Value": "{n}Jubilost doesn't let you get a single word in edgewise. Apparently, he's uninterested in your reaction, and is just enjoying listening to his own voice.{/n} \"My spectacles are something that unites me with my readers. People are more open to those who share their social status. Many of my readers can't afford to heal their eyesight at the temple. So when I, too, refuse such healing, I become closer to the people. My spectacles are part of my image.\""
+    },
+    {
+      "Key": "025ab867-5cfd-48f7-a15d-53d060b7422c",
+      "Value": "{n}Jubilost exhales at last.{/n} \"I believe I've managed to explain the basics of logical thinking. No need to thank me.\""
+    },
+    {
+      "Key": "9fe91d2c-f86d-4a74-8a54-460fc4da3f49",
+      "Value": "\"What have I come to? Jubilost Narthropple, famous explorer, writer and scientist, is reduced to giving simple lessons in history. Very well, ask away. What questions do you have?\""
+    },
+    {
+      "Key": "29877328-59c0-4c7a-bd26-fd2405797c04",
+      "Value": "\"What has the world come to? To see a gnome ask another gnome about the history of the gnome race. The gaps in your education are so huge, I doubt that even I would be able to fill them.\""
+    },
+    {
+      "Key": "24ff2cbb-876e-49f0-8db8-45534da4f3c2",
+      "Value": "\"They came here in ancient times from {g|First World}the First World{/g}. You do know what the First World is, right? If you don't, ask me about it some other time. I used to lecture on it at a couple of institutes.\""
+    },
+    {
+      "Key": "594ba745-ec00-493b-903c-98dabf9f8af4",
+      "Value": "\"Certainly. Long and happily ever after.\" {n}Jubilost shakes his head in remorse.{/n} \"We'd live as long as elves, were it not for the {g|Bleaching}Bleaching{/g}.\""
+    },
+    {
+      "Key": "63945e9c-98dc-4a20-967c-27048f4faa30",
+      "Value": "{n}Jublilost stares at you, then nods slowly.{/n} \"You see, I enjoy being alive. I like to eat pancakes in the morning, I like to write articles for magazines. I like it when I leave the publishing house in {g|Absalom}Absalom{/g} and a crowd of fans immediately mobs me. So I don't intend to die at the peak of my life because of some stupid, ancient curse.\""
+    },
+    {
+      "Key": "ffe5e214-5271-4c8c-a303-5317f1bdbb0a",
+      "Value": "\"According to the understanding I've accumulated, the gnomes were an immortal race until some of our especially insightful ancestors came up with a brilliant idea. They decided it would be fun to learn how it feels to be mortal. I would like very much to meet those gnomes. I wouldn't even kick them, I'd just look in their eyes without a single word. Too bad they're all long dead by now.\""
+    },
+    {
+      "Key": "35d83f70-f979-4db9-a6da-4b1b8a82eac5",
+      "Value": "\"As everyone knows, a stupid enough idea can be extremely contagious. So the gnomes caught this infection – all of them, without a hope for cure. So they found a way to {g|Golarion}Golarion{/g}, and decided to settle here. And – you'll never believe it – they got just what they wanted. They severed their link with {g|First World}the First World{/g}. They gained mortality, the {g|Bleaching}Bleaching{/g}, and a heap of local diseases that have been keeping our race on the verge of extinction ever since.\""
+    },
+    {
+      "Key": "b4d45585-4536-4d87-abb8-e4431527c479",
+      "Value": "\"That's the curse of our race, which only struck after the gnomes left {g|First World}the First World{/g}. To put it simply, gnomes must constantly have new experiences. If a gnome gets into a rut, so to speak, he Bleaches.\""
+    },
+    {
+      "Key": "78afbd1b-9edb-4847-8651-dae3d52416de",
+      "Value": "\"We start to lose color – literally. Our skin and hair become pale, and the worst thing is that our soul loses color, too. If the process continues unchecked, the gnome dies. History recalls only a few cases where gnomes actually died of old age. Most of them perish either because of the {g|Bleaching}Bleaching{/g}, or in the middle of some crazy adventure they've joined, just to stave it off.\""
+    },
+    {
+      "Key": "497cb666-6b65-48bb-8690-8dad8457153c",
+      "Value": "\"But don't you dare imagine that everything I do is just for fear of the {g|Bleaching}Bleaching{/g}! I tell people the truth about the world that surrounds them! My theoretical research aids the development of different branches of science in various institutes! Yes, sooner or later I'll Bleach and die, like any other gnome. But the name of the famous Jubilost Narthropple will live throughout the ages!\""
+    },
+    {
+      "Key": "db999dc1-7069-40ad-bbda-c4a775e7f6f9",
+      "Value": "\"Well you've asked the right person. I am an expert in studying {g|First World}the First World{/g}. Give me your questions.\""
+    },
+    {
+      "Key": "5f1a6f0b-8a61-4436-ad2c-0fdc2dd0ba22",
+      "Value": "\"It's huge, wild and extremely unfriendly to the unprepared traveler. Nothing remains constant there. Matter changes before your eyes: what was a mountain yesterday becomes a river today – and that river flows upwards. The trees touch the sky. The heat of the desert can melt metal. And hurricane winds can tear a person apart.\""
+    },
+    {
+      "Key": "1a63a8a1-e50f-4519-b17e-6598dce336e6",
+      "Value": "\"But it would be wrong to think of {g|First World}the First World{/g} as the plane of total destruction. Creation is just as important there. The deserts spring alive into forests, and when the hurricane subsides, animals emerge from hiding – huge, wild, as untamed as the world itself. The First World epitomizes life in its original chaotic meaning.\""
+    },
+    {
+      "Key": "ecabace8-d6e5-4f94-8765-925bade71d71",
+      "Value": "\"There's a theory that gods used {g|First World}the First World{/g} as a training ground, to practice their ability to create matter. They then abandoned the First World to its own fate, and wandered off to create {g|Golarion}Golarion{/g}. Some say that the inhabitants of the First World still hold a grudge against the gods for this.\""
+    },
+    {
+      "Key": "d2c9f0fa-d889-435d-a479-aad9f5b65de5",
+      "Value": "\"Mainly through magic portals, created by skilled magicians. But the price of such a portal is usually in excess of several thousand gold coins. There is another way, of course. There are documented cases where spontaneous portals to the First World have opened in remote places on {g|Golarion}Golarion{/g}, where, as mages say, the boundaries between the two worlds has grown thin.\""
+    },
+    {
+      "Key": "6688b965-30f8-4c6c-9b73-6dc290b49e21",
+      "Value": "\"But spontaneous portals are rather dangerous. – You never know what's lurking on the other side. Only desperate adventurers and madmen use them – and of course romantic suicidal idiots who think that good common sense is too boring.\""
+    },
+    {
+      "Key": "7ff32997-86de-4050-9877-b39861fbf0e5",
+      "Value": "\"Of course. The fey. And all their relatives, and all their relatives' relatives. And then some more fey besides. Sometimes one meets leprechauns or satyrs there – which are actually another type of fey, just called by another name. And all of them are immortal, by the way – at least within in their own home world.\""
+    },
+    {
+      "Key": "2f352822-6f6f-457a-86e2-8773c79cbfb5",
+      "Value": "\"The souls of the creatures of {g|First World}the First World{/g} have no connection with the realm of mortals. When a creature of the First World dies, its soul just materializes in another body, similar to its old one. It's not a pleasant experience, and the resurrected creature loses almost all of the powers and abilities it developed over its life, but keeps all its memories and personality. It's still much better than a mortal death, I would say. Sometimes the process doesn't even take long – a killer might meet his victim again the following week.\""
+    },
+    {
+      "Key": "838a717b-d712-4111-a822-8f927d0b6823",
+      "Value": "\"Naturally, this immortality has influenced the way First World inhabitants think. For instance, fey enjoy mischief and tricks that can easily end in someone's death. The fey think it's just funny, and anyone from another world, who falls victim to such tricks, doesn't end up having much to say at all.\""
+    },
+    {
+      "Key": "c437d297-788a-4610-8df1-246f848e0a92",
+      "Value": "\"Once, the gnomes were immortal relatives of the fey.\" {n}Jubilost sighs.{/n}"
+    },
+    {
+      "Key": "0552891e-aa77-43a4-ac35-bbc53f7c3305",
+      "Value": "\"It's commonly assumed that the Eldest rule it. They are overseers, but more just a glorified version of fey lords. Power attracts pompous blockheads in every world.\""
+    },
+    {
+      "Key": "3ea214dc-ad55-4d44-b66e-7d060f32963a",
+      "Value": "{n}Jubilost stares at you with interest.{/n} \"Yes, yes, duty. Protecting your subjects and restoring order. Objectives so noble I could weep. Unfortunately, noble objectives can coexist perfectly happily with pompous blockheads. Are you quite sure you're not one of those?\""
+    },
+    {
+      "Key": "852d131c-88d2-4489-ba77-8f41bff5a989",
+      "Value": "{n}Jubilost stares at you with interest.{/n} \"Yes, I've met plenty of pompous blockheads who believed they had the right to do whatever hideous thing came to mind. So if you decide to join their ranks, know that you're not the first to walk that path.\""
+    },
+    {
+      "Key": "1f17e841-808e-4074-9b28-3a720bf5fafb",
+      "Value": "{n}Jubilost gives you a critical stare.{/n} \"It's fortunate, then, that this problem doesn't trouble your lands at all.\""
+    },
+    {
+      "Key": "87951332-4fff-4c8f-b895-1f042a5ce796",
+      "Value": "\"But let's get back to {g|First World}the First World{/g}. The {g|Eldest}Eldest{/g} possess the power to keep matter in the First World in a more or less constant state. That's why the fey treat them as demigods, and offer them prayers, just as we offer prayers to {g|Desna}Desna{/g}, {g|Erastil}Erastil{/g} or even {g|Lamashtu}Lamashtu{/g}.\""
+    },
+    {
+      "Key": "ada3491c-fdbd-4cf8-81f1-74c97651a3f5",
+      "Value": "{n}Jubilost wrinkles his lips.{/n} \"I haven't the opportunity yet. Unfortunately. My studies of the First World are limited to the confused statements of witnesses or scribbles in their diaries. Also I've studied the remains of some unfortunates who periodically fall out of spontaneous portals.\""
+    },
+    {
+      "Key": "c3131d95-3e71-4df5-b522-6328e809a01b",
+      "Value": "\"I keep to the hope that sooner or later I'll manage to visit that wonderful place. And certainly the notes I'd write on the place would be far more extensive and informative than all the ramblings on the subject I've had to wade through.\""
+    },
+    {
+      "Key": "e90a2f32-f0c1-45c5-83ea-5acdcd1558bb",
+      "Value": "\"Naturally, the main concern of my expedition would be the safety of its leader, namely me. It would be extremely foolish to go that far and see that much, only to lose the chance to tell anyone about it.\""
+    },
+    {
+      "Key": "d3b2c09f-c69a-49ce-bf52-1e271e4a7a0e",
+      "Value": "{n}Jubilost looks at you for several moments, his eyes narrow.{/n} \"I told you already, I like to be alive. I assure you, other gnomes share the same attitude. Between the {g|Bleaching}Bleaching{/g}, disease, and old age, we have a lot to yearn for.\""
+    },
+    {
+      "Key": "c9003e08-ff29-42b4-b665-033652166cc3",
+      "Value": "\"But the ancient gnomes for some reason decided that mortality, the {g|Bleaching}Bleaching{/g}, and all the diseases of {g|Golarion}Golarion{/g} are preferable to the immortality of {g|First World}the First World{/g}. I can't do anything to change that. But I can do something with my own life. I want to find a way back to the First World for all the gnomes of Golarion.\""
+    },
+    {
+      "Key": "b794515c-b0b6-4019-882e-32dcd2719d88",
+      "Value": "\"Unfortunately, to do this I can't just gather up all the gnomes and send them marching through the nearest portal. We're too attached to {g|Golarion}Golarion{/g} now. We've lost out connection with the chaos of {g|First World}the First World{/g}. We've become too mortal, if you see what I mean. When a gnome dies in the First World, he dies forever, like any visitor. But there must be something that can be done to solve this problem – and I intend to find out what it is!\""
+    },
+    {
+      "Key": "9598b0e9-719b-4c7d-ab34-22eca6ef38f7",
+      "Value": "\"Jubilost Narthropple, the hero who returned the gnomes home. It has a nice ring to it, wouldn't you say?\""
+    },
+    {
+      "Key": "71f426bb-daf3-440a-9e5d-c3b740717b2f",
+      "Value": "\"Do you think so?\" {n}Jubilost looks at you above his glasses.{/n} \"Why ever not, if I may ask? Perhaps you confuse superficially friendly words with genuinely friendly intentions? Believe it or not, I wish you only well. As a proof of that I can point to the fact that I travel with you, and that I'm talking with you right here and now.\""
+    },
+    {
+      "Key": "d8a461b8-631a-468a-9f54-c3bae3b9b166",
+      "Value": "\"Tell me, which do you value more. – An artificial smile? Or an honest attitude, bolstered by friendly advice and assistance?\""
+    },
+    {
+      "Key": "9ebde818-e295-4640-9c7e-30f1af3f82a7",
+      "Value": "\"Here's another piece of advice, then: you should learn to see the essence rather than being distracted by colorful wrappings. Otherwise you risk swallowing something you shouldn't, because it was wrapped in golden foil.\" {n}Jubilost adjusts his glasses.{/n} \"If you cannot separate the sense of my words from the way they sound, that's not my problem.\""
+    },
+    {
+      "Key": "c237274e-66c2-4090-bab4-c902017c1e21",
+      "Value": "\"That was a joke, right?\" {n}Insult, doubt and resentment chase each other over Jubilost's face. {/n}\"Well, I admit, I may overreact sometimes. Perhaps my manner of speaking may seem offensive to some. But I'm usually right, when you get down to it. And the truth, no matter how unpleasant, is always better than lying to someone's face! We shouldn't let such minor things as my manner of speaking or tonight's dinner harm our friendship.\""
+    },
+    {
+      "Key": "544f2cc9-2f8e-44a4-b992-862c9732915e",
+      "Value": "\"I thank you for this permission. Can I have it in writing – in case you forget someday?\""
+    },
+    {
+      "Key": "c82ba3bb-db5a-4f9e-9f92-e079bb324dca",
+      "Value": "\"Trash?!\" {n}Jubilost is so offended, he nearly drops his glasses.{/n} \"Let it be known that this article is one of my finest works! Striking, precise – and exceedingly to the point! You should be proud that your barony inspired such a masterpiece!\""
+    },
+    {
+      "Key": "0245fe8a-3ff7-4671-a110-46dda9cbaa9f",
+      "Value": "\"Are you proud that I haven't found anything in your {mf|barony|barony|kingdom|kingdom} worth my attention? Hmm. Well at least that means that there's nothing truly disastrous in your lands. So yes, perhaps you may be proud of that.\""
+    },
+    {
+      "Key": "8a372814-9574-40e1-ae1d-952c48055198",
+      "Value": "\"Flattery is entirely foreign to my works. Everything that I write is the absolute truth, and never intended to satisfy egos.\" {n}Jubilost looks at you over his glasses.{/n} \"But in case you were wondering – yes, I'm impressed with what you've done.\""
+    },
+    {
+      "Key": "29430f85-8e5d-41ee-9895-dd9385f19b82",
+      "Value": "{n}The gnome raises an eyebrow.{/n} \"Oh? Have you thought this idea through?\""
+    },
+    {
+      "Key": "a04ec2c7-5920-4377-a80a-a966a7543ba7",
+      "Value": "{n}Jubilost chuckles.{/n} \"Next time you should pay more attention to your ramblings. I've gotten quite used to them already, but the others might be puzzled.\""
+    },
+    {
+      "Key": "b5127722-5870-4d8b-97c4-997915826ba0",
+      "Value": "\"Well well. It's not the first time I've been asked to leave a state, so I shouldn't be surprised. But now I feel that straying so far from civilization was a mistake. There's nothing here worth my time or talent. Good luck with your little plot of dirt.\""
+    },
+    {
+      "Key": "60190069-4815-4e1c-96b9-f6a53f2f4842",
+      "Value": "\"{Name}! I never properly thanked you for your help at the Inconsequent Debates. I'm happy to do so now. I hope you don't think me entirely ungrateful.\""
+    },
+    {
+      "Key": "427dc0b6-0e34-4810-9f0a-3e12464ff632",
+      "Value": "\"If you want to apologize for destroying my chance at solving the greatest mystery of our era – then don't bother. And if you think you were right about everything – well then I'm even less inclined to talk about it.\""
+    },
+    {
+      "Key": "94da5871-bcbb-4a67-aa15-766cf72ac0e4",
+      "Value": "\"Not quite, but I'm working on it. I'll certainly inform you of my findings. I must admit, such an answer is quite in the spirit of the fey. It must lead somewhere, and I will find the trail!\""
+    },
+    {
+      "Key": "4c81d8b0-3dcd-4e50-b718-d83e4f82c98b",
+      "Value": "\"Hmm...\" {n}Jubilost locks his hands behind his back.{/n} \"Well you see... I understand well what the {g|Bleaching}Bleaching{/g} is, what a fatal effect it has on gnomes. Those poor fellows were acting like that for no darker motive than desperation. Their foolish jokes allow them to live just a little bit longer. Do you see? I don't mind becoming the joke myself – for a while, of course, and not if my life was being threatened. It let someone live a couple days longer.\""
+    },
+    {
+      "Key": "d3ac1628-e2d0-49bc-badb-56f51118701c",
+      "Value": "\"As you wish. I'll continue to work on the riddle.\""
+    },
+    {
+      "Key": "eacd9980-4f72-42ed-986d-8d5b7f762a04",
+      "Value": "\"Stop, or you'll make me blush.\" {n}Jubilost folds his hands over his chest with a contented look.{/n}"
+    },
+    {
+      "Key": "415bc8f0-4008-4a75-b1f4-3d672e198142",
+      "Value": "\"So you think you could resist the {g|Bleaching}Bleaching{/g} and preserve your 'dignity'? Very well, let's revisit the topic when it's time for one of us to fight for our lives.\""
+    },
+    {
+      "Key": "d4df1f90-3143-422f-9e91-601a5db10992",
+      "Value": "\"I'd be the last to promote thoughtless altruism, but your viewpoint doesn't resonate with me. Some degree of self-sacrifice and cooperation forms the basis of society. Take that away, and you destroy civilization. It's as simple as that!\""
+    },
+    {
+      "Key": "45be3136-c4f1-4d94-97af-f3f3f1480139",
+      "Value": "\"I might listen to this valuable advice if it came from someone who had the slightest understanding of the {g|Bleaching}Bleaching{/g}.\""
+    },
+    {
+      "Key": "92a45ed3-a64a-4a45-8073-a350c06d09bc",
+      "Value": "\"Let me see!\" {n}Jubilost stares into the pages.{/n} \"It's a good thing I'm not a follower of {g|Shelyn}Shelyn{/g}, or I'd throw this thing into the fire right now, and draw the deity's wrath. Just look at this language! 'Shivering, she clang to my shoulder and whispered, 'Willas, you are my only hope! Only your well-developed adventuring skills, your daring mind, merciless eloquence, and shameless courage can save a poor girl like me!\""
+    },
+    {
+      "Key": "d9b4a6e9-f8e0-4017-b3c1-d0e20f616d52",
+      "Value": "\"The twenty fourth? Like the Moon from the riddle – it's a name, Luna? The fey, damn them! We can talk about it in more detail, but for now – let's hurry to the tavern! We need to catch this Luna and figure out what her connection is to the riddle!\""
+    },
+    {
+      "Key": "2d27ed59-b9c6-471b-8127-22809446c787",
+      "Value": "\"The twenty fourth? Like the Moon from the riddle – it's a name, Luna? Damn it all, we're too late! We can hardly figure out how to proceed if we fail to solve this part. Although... perhaps it wasn't about a specific twenty fourth, just about the twenty fourth of each month – twelve in twelve!\""
+    },
+    {
+      "Key": "cd11a4f8-d295-4486-979b-3f41e8127032",
+      "Value": "\"I have no idea who or what would visit the same place one the same day each month, but... we need to follow this through! Let's meet at the tavern on the twenty fourth – and hope Luna will be there.\""
+    },
+    {
+      "Key": "e7ca6999-7283-47b2-b61c-5ac26f2a5dbf",
+      "Value": "\"But I digress. We need something that's 'fifth in ten', obviously it's about the fifth adventure from this book. The name of the chapter is 'In the corner of the tavern'. Sounds like a place, but which tavern is it? The nearest one? And who or what should we look for there... Wait!\nWe know the place – the tavern, and a number – twenty four.\""
+    },
+    {
+      "Key": "a6071cdf-6698-46f9-ad16-bd1382c06e82",
+      "Value": "\"You reasonably assumed that twenty four is the day of the month. We have a time and a place!\""
+    },
+    {
+      "Key": "610d32b4-3a0c-4007-ad24-8d2ff420063e",
+      "Value": "\"We can suppose that it's a place and a time – or rather a date. The twenty four that's contained 'a dozen times in a dozen' is the twenty fourth of each month.\""
+    },
+    {
+      "Key": "762fba34-67cb-46ae-8825-85628b3c8885",
+      "Value": "{n}Jubilost greets you with unusual hospitality.{/n} \"{name}! I'm happy to see you. We haven't talked much about our adventure by the {g|Candlemere}Candlemere{/g}... You know, I'm even sad that everything is over. Not only because I didn't find a way to help all the gnomes. It's just that another mystery is behind me, another road had ended... But it was a wonderful journey – and in good company!\""
+    },
+    {
+      "Key": "3b498efc-1212-45b7-81ec-681fce831b91",
+      "Value": "\"Of course. An exciting topic of conversation, isn't it?\""
+    },
+    {
+      "Key": "4ca65080-838b-4ea7-a5a5-d98187ec051d",
+      "Value": "\"Of course! I'd be happy to talk.\""
+    },
+    {
+      "Key": "09a658c0-e2e1-448c-abb0-20a694032543",
+      "Value": "\"I hope my humble talents will be of use to you and your kingdom. Clearly it could do with the help of an expert in {g|First World}the First World{/g}. So I'll be around while I can be useful. Then I'll probably set off on another journey. The world is a big place, and there are many more secrets to be found!\""
+    },
+    {
+      "Key": "938bb612-3247-4e53-bb87-6331a3987e32",
+      "Value": "{n}Jubilost sighs heavily.{/n} \"The games of the gods, and the games of the {g|Eldest}Eldest{/g}. How little we matter, in the clash of powers of such scale – it boggles the mind. But at least now I know the secret.\""
+    },
+    {
+      "Key": "49208411-7470-44d5-8289-442951498983",
+      "Value": "\"And I can boast that I turned into a huge frog to win a secret from a demigod from another world!\""
+    },
+    {
+      "Key": "3d7df789-6ff9-40e9-8c6b-8cd0e124665f",
+      "Value": "\"And I can't say the word 'tentacles' without shivering.\""
+    },
+    {
+      "Key": "e2a37c94-33cf-43ed-bf6d-93a807628c84",
+      "Value": "\"And I feel more lenient towards people who SUDDENLY START SCREAMING!\""
+    },
+    {
+      "Key": "c3f54bb4-9dac-4979-b7a2-4307b94ceacb",
+      "Value": "\"Admit it, you had a bit of fun back there, didn't you? Don't tell anyone, but I did too! What an amazing adventure. Allow me to say in all sincerity, I'm glad that fate brought us together, {name}.\""
+    },
+    {
+      "Key": "04b44c98-cae5-4522-a960-886afb3c502e",
+      "Value": "\"Which is today! Lucky us! I suggest we don't delay and go straight away to the tavern. We need to verify our assumptions before it's too late!\""
+    },
+    {
+      "Key": "5b158de2-b752-4818-bb8d-0a056f8a4042",
+      "Value": "\"I propose we meet at the capital tavern on the next twenty fourth. – And see what happens!\""
+    },
+    {
+      "Key": "ee3cf506-eb56-4a49-b36e-e0ad69bdf201",
+      "Value": "{n}For a moment, Jubilost's sardonic look becomes a bit warmer.{/n} \"Ah, a fellow worshipper of the Great Dreamer! Glad to hear it. Most leaders I know have zero ability to dream!\""
+    },
+    {
+      "Key": "174c4cd5-7b85-44d0-bd1a-926e203ff088",
+      "Value": "{n}Jubilost chuckles awkwardly and pauses.{/n} \"Then there's no point in me adding anything. Historic records show few cases of gnomes dying from old age. Most die young, either from the {g|Bleaching}Bleaching{/g} or during some insane adventure meant to overcome it.\""
+    },
+    {
+      "Key": "b1d86502-728f-45c5-bd8d-faad89d32cd0",
+      "Value": "{n}Jubilost sighs.{/n} \"This is certainly not the most insane adventure to be started by a gnome fighting off the {g|Bleaching}Bleaching{/g}. Well, good luck fighting the humdrum of administration as well!\""
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "0d37ee6f-e0e1-4ed5-9bc2-e04c9fe8e1d1",
+      "Value": "\"What are you doing here?\""
+    },
+    {
+      "Key": "6b8aa1a0-5880-4afc-838e-087af6fdb5f4",
+      "Value": "\"I'm looking for a cultist of a dark goddess. Can you help me?\""
+    },
+    {
+      "Key": "b74566ae-64a3-48a3-b076-039cca01a81f",
+      "Value": "\"I should go.\""
+    },
+    {
+      "Key": "ec47a3ee-f89a-41d1-8dfa-a97bfc050856",
+      "Value": "\"Olika, why are there blood-stained undergarments in your room? Where is that from?\""
+    },
+    {
+      "Key": "6bb0036f-940d-4fe3-aa25-68ce8880aad7",
+      "Value": "\"Are you planning to stay in Gralton?\""
+    },
+    {
+      "Key": "083d48dd-08ff-4090-bdc0-52fc5cdde809",
+      "Value": "\"Where are you from?\""
+    },
+    {
+      "Key": "0135cbf3-f01b-4dcc-9e24-337c6bae48d8",
+      "Value": "\"Let's talk about something else.\""
+    },
+    {
+      "Key": "e7bb5c04-b8e2-49bc-8109-b34d2bb2c4fc",
+      "Value": "\"Have you seen anything suspicious tonight?\""
+    },
+    {
+      "Key": "985a87c9-95d7-4c9d-8dfc-049ad4dd7eeb",
+      "Value": "\"Do you know anyone in this hall?\""
+    },
+    {
+      "Key": "cac60995-02d6-4a41-98f4-65b73a656116",
+      "Value": "\"You see this couple at the table? They are nobles from Restov. They claim you were the last one who'd come to the hall.\""
+    },
+    {
+      "Key": "a6d2de1b-fb48-4098-8c5b-b713a2bd58cd",
+      "Value": "\"Do you know who came to the lodge last?\""
+    },
+    {
+      "Key": "432937fa-c9ef-42ce-8daf-5401659fe239",
+      "Value": "\"It was a long journey for you.\""
+    },
+    {
+      "Key": "acb3e1fa-edf4-4076-a15d-3359aed69d87",
+      "Value": "\"Let's talk about something else.\""
+    },
+    {
+      "Key": "3be3a559-332a-4a57-8e92-aa6f798977c2",
+      "Value": "\"I need a key to your room.\""
+    },
+    {
+      "Key": "a835d93e-a182-4fef-80e5-11317e802684",
+      "Value": "{n}A young woman stands before you, wearing a plain dress and a hooded cloak. Her belly is swollen — she is pregnant, and her time is near.{/n}"
+    },
+    {
+      "Key": "822cb11a-d6ef-44c7-806f-8348a3976305",
+      "Value": "{n}The woman manages a bow. {/n} \"I've heard other people calling you {mf|baron|baroness}, Your Grace. It's an honor to be in your presence. I am Olika.\""
+    },
+    {
+      "Key": "bddb44c9-9ead-4ab9-80ed-3e612f5e7deb",
+      "Value": "\"Your Grace! It's an honor!\" {n}The woman bows, then stares at you with shining eyes.{/n} \"I thought I'd never be able to thank you in person for your kindness, but gods were kind to me.\""
+    },
+    {
+      "Key": "d0c3ef5f-f4e7-4fd9-b008-6b8aff289942",
+      "Value": "{n}She touches a turquoise brooch pinned to her dress — the brooch is familiar to you. {/n} \"You made it possible that the last gift from my husband had found its way home. There's not enough words in the world for how grateful I am.\""
+    },
+    {
+      "Key": "a7453bb9-cae5-41ad-8166-502c24e316d2",
+      "Value": "\"Do you want to ask about something else?\" {n}Olika gives you a faint smile.{/n}"
+    },
+    {
+      "Key": "aa36dc73-8233-4e6c-a205-42f488613ba4",
+      "Value": "\"I've got a sister in Gralton. Gods bless her — she's agreed to give me a shelter in her house. So I went there — there was nowhere else to go.\""
+    },
+    {
+      "Key": "1b6b4439-98ef-4d36-9c3a-4bc083e55fd3",
+      "Value": "\"From {g|Galt}Galt{/g}, Your Grace. I'm from a tiny village near the tract — guess no one here ever heard about this place.\""
+    },
+    {
+      "Key": "76c0cbd9-80c3-4a69-8277-df37a95ab516",
+      "Value": "{n}Olika hesitates.{/n} \"I don't know yet.\" {n}She answers.{/n} \"But if things turn out well… why not?\""
+    },
+    {
+      "Key": "78ba4568-766b-4efc-a7d0-181d9fc2c654",
+      "Value": "{n}Olika nods.{/n} \"Of course, Your Grace.\""
+    },
+    {
+      "Key": "9a631b5f-4219-4352-b41d-3f6863db407c",
+      "Value": "{n}Olika pales.{/n} \"Cultists? That's… that's horrible! But… how can I help you?\""
+    },
+    {
+      "Key": "6cc7b300-6e4c-4697-805e-11798c9b70ca",
+      "Value": "{n}Olika shrugs.{/n} \"I've little coin, Your Grace… So I have to beg traders on the road to ride in their carts. I spend nights anywhere I have to. This place is at least warm and dry.\""
+    },
+    {
+      "Key": "90990657-1f43-4130-8982-79740d294db8",
+      "Value": "{n}Olika takes a step back, her eyes wide with fear.{/n} \"I… I'll explain...\""
+    },
+    {
+      "Key": "8e4d1d6e-e318-4430-a225-f1a167e5f20f",
+      "Value": "{n}Olika gives you perplexed look.{/n} \"But that's not true! It's not!\" {n}Her voice trembles.{/n} \"Dumra… the hostess… she... she was the last one! I remember her coming through the kitchen!\""
+    },
+    {
+      "Key": "0877785c-9007-4d25-9162-9d663d0af11f",
+      "Value": "\"I'm taking what rest I can after a long day on the road, Your Grace. I'm a widow...\" {n}Olika stops short.{/n} \"I've barely had two seasons to mourn my husband, and he left me with child. And in difficult times like these...\""
+    },
+    {
+      "Key": "ea718c09-6a79-401a-8055-f0a9a3f69b75",
+      "Value": "{n}Olika shakes her head slowly.{/n} \"No… I don't think so...\""
+    },
+    {
+      "Key": "2f5e3681-9f83-470f-8a45-1564bd24c016",
+      "Value": "\"First time I've seen these people was when I'd stepped over the threshold of this lodge.\""
+    },
+    {
+      "Key": "f2c9e399-0ccf-4738-a2c4-45b1d95f6d5a",
+      "Value": "{n}Olika frowns.{/n} \"I heard a noise from the kitchen… It was like something fell on the floor. And then this grumpy old lady, Dumra, came out.\""
+    },
+    {
+      "Key": "a7d28cb0-1aa1-4829-b106-92264fe9fa3a",
+      "Value": "{n}Olika gives you several hasty nods. It seems the talk of cultists has frightened her.{/n}"
+    },
+    {
+      "Key": "67d2f28f-f23d-4cfb-ad05-fb699bda1423",
+      "Value": "{n}The woman lowers her head and rests her hands against her belly.{/n} \"I… I'm expecting a baby… But… because of the journey... or of all the worries... something must have gone wrong. It hurts...\" {n}Olika closes her eyes tightly.{/n} \"And I bleed.\""
+    },
+    {
+      "Key": "2e29e810-751b-4fb9-8ccc-3be8170c233e",
+      "Value": "{n}Olika starts sobbing.{/n} \"I tried! I tried to find out what's wrong! To heal myself! To appease the gods! The priest of {g|Pharasma}Pharasma{/g} told me he couldn't help — the goddess rejected my child, said it would be born dead!\""
+    },
+    {
+      "Key": "9abfde57-2a76-4da2-932d-8a4a54fcf8a7",
+      "Value": "{n}You recall the location of {g|Galt}Galt{/g} and Gralton. As far as you know, {g|Stolen Lands}Stolen Lands{/g} lay aside from the places Olika had named.{/n}"
+    },
+    {
+      "Key": "536740f9-69d0-443b-8c0c-e76873a8b82f",
+      "Value": "{n}Olika straightens the folds of her dress and puts her hands over her belly.{/n}"
+    },
+    {
+      "Key": "5cfb7d42-b76d-43b9-9fc2-0ba66e2ef140",
+      "Value": "{n}Olika hesitates, then takes a key out from her cloak and hands it to you without a word.{/n}"
+    },
+    {
+      "Key": "14c10155-7ed4-4264-8dff-65111b469340",
+      "Value": "\"But I can't... can't just accept it. I can't give up. This child... my husband's child... all I have left of him...\" {n}Olika hides her face behind her hands and starts to weep. You realize you'll get nothing more from her at the moment.{/n}"
+    },
+    {
+      "Key": "3b605629-8770-4b6f-8989-d3fefec66ecf",
+      "Value": "{n}A memory of Olika's letter emerges from the depths of your mind. She mentioned her son in that letter, but now there is no child by her mother. It's odd that Olika, who's been planning to stay at Gralton, didn't bring her son with her. {/n}"
+    },
+    {
+      "Key": "7031a77b-2e6b-4964-9e49-7ab32e7e8ab2",
+      "Value": "\"You must have forgotten already, but… it was you who discovered my {d|Leksen}husband's{/d} body. A trader, died on one of his trips. You found a brooch and a letter on his body, and had it sent to me.\""
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "4ed46375-2076-4d42-b922-f2897b15db34",
+      "Value": "{g|Military8_1}[Choice effects]{/g} [Pay 3 BP each week] \"I trust Alkenstar's engineers. Have them supply us with their weapons.\""
+    },
+    {
+      "Key": "8ff586fa-ef4e-4c97-890a-843b0616b558",
+      "Value": "{g|Military8_2}[Choice effects]{/g} [Pay 3 BP each week] \"I am impressed with Arcanamirium's power. I'd like its graduates to train our mages.\""
+    },
+    {
+      "Key": "371709b5-de80-4c5c-b894-f4762df1a0de",
+      "Value": "{g|Military8_3}[Choice effects]{/g} [Pay 3 BP each week] \"May Kurgess bless our warriors with strength and agility.\""
+    },
+    {
+      "Key": "37147943-ccae-456e-a5c2-7e6d6c1028d8",
+      "Value": "\"You understand our army's needs better than I do. You can make your own decision.\""
+    },
+    {
+      "Key": "1768cfa2-59af-4600-ba25-56c5b6551c2e",
+      "Value": "\"Who should I make the deal with?\""
+    },
+    {
+      "Key": "2db4ff82-0e19-4b02-a1d6-f4193ea6c7bd",
+      "Value": "\"I should talk to their ambassadors.\""
+    },
+    {
+      "Key": "bbb80eee-c340-4b2d-b0c7-3bf2cca9b47a",
+      "Value": "\"The halfling in black.\""
+    },
+    {
+      "Key": "4721962e-bf24-4902-aeda-d9b5a4b89b88",
+      "Value": "\"With the dwarf.\""
+    },
+    {
+      "Key": "0aa41196-bb53-4b13-8b7b-210a2380da17",
+      "Value": "\"With the sorceress.\""
+    },
+    {
+      "Key": "145e55a9-e034-4246-be0d-fe74768bef9e",
+      "Value": "\"In fact, it doesn't matter.\""
+    },
+    {
+      "Key": "9e8f7ebc-486b-42d7-9ba8-c5b3eecc41ec",
+      "Value": "\"Your title is very unusual.\""
+    },
+    {
+      "Key": "280535f6-f557-45d2-9cce-93b94341d267",
+      "Value": "\"What do you have to offer to my troops?\""
+    },
+    {
+      "Key": "4ecb0802-8c9d-4cbd-a1ca-10d643299fac",
+      "Value": "\"What is this Arcanamirium so famous for?\""
+    },
+    {
+      "Key": "a9806116-16b9-47df-8bea-d5044e86b3a0",
+      "Value": "\"I need to think.\""
+    },
+    {
+      "Key": "7f8ce472-8734-4191-8c2a-aa86721c7374",
+      "Value": "\"Tell me about your motherland. Where is it? We don't hear about it often here, in our domain.\""
+    },
+    {
+      "Key": "af23ce33-f83f-4335-9354-29306d77eb1f",
+      "Value": "\"Tell me about the weapon in your waistband.\""
+    },
+    {
+      "Key": "cc0db3ab-0128-4179-8e0e-88f43a006b5b",
+      "Value": "\"What makes you think I'd prefer your odd toys over time-honored magic?\""
+    },
+    {
+      "Key": "53227f98-deb9-44b9-81fe-065dc3982e97",
+      "Value": "\"Thank you. I need to think.\""
+    },
+    {
+      "Key": "6a410807-4623-4986-9511-338d8d281cd1",
+      "Value": "\"What exactly do you have to offer?\""
+    },
+    {
+      "Key": "426f573c-71e6-419b-b060-7d343216ea3e",
+      "Value": "\"How can you help my army?\""
+    },
+    {
+      "Key": "5b03271e-ead8-4515-9efa-6224d379df90",
+      "Value": "\"Tell me about your god.\""
+    },
+    {
+      "Key": "c3c59489-a3a0-4a75-b010-be67f6d662e6",
+      "Value": "\"What is your church?\""
+    },
+    {
+      "Key": "a230555d-fa37-4035-b3a5-7d48227a2b7e",
+      "Value": "\"You... look outlandish. Where have you come from?\""
+    },
+    {
+      "Key": "56a73316-2d1b-4fe2-9248-db0b0681a2ee",
+      "Value": "\"I need to think it over.\""
+    },
+    {
+      "Key": "91f16048-695b-4f6c-8698-571159dfefed",
+      "Value": "{n}Regongar grins contentedly.{/n} \"I have an idea I'd like to share with you. I'm sure it's occurred to you that we are now in control? We're the power everyone answers to – and not only in the {g|Stolen Lands}Stolen Lands{/g}. We demand respect. And those worthy of respect are worthy of doing business with. Profitable business.\""
+    },
+    {
+      "Key": "cf93adef-39e7-4590-aa28-7c084dd05aa0",
+      "Value": "{n}Amiri smiles in satisfaction.{/n} \"It looks like word of our heroic feats made it all across {g|Golarion}Golarion{/g}. Merchants and shamans are always chasing great warriors, trying to sell them their best sword. So they can proudly announce it on every corner!\""
+    },
+    {
+      "Key": "a3ce2236-8273-4b2d-bfb7-89811ec06420",
+      "Value": "\"Anyway, three representatives of... dealers in life and death have requested an audience with you. All three are willing to support our army. Talk to them and decide which of them we want to sign a contract with. However, we can't hire all three. Each of them wants to be your main weapons supplier. If I were you, I'd consider the Arcanamirium.\""
+    },
+    {
+      "Key": "2e5e6ccb-695d-4b2f-bc80-811a69e4fca1",
+      "Value": "\"Three great clans want to offer support for our troops. There was more before I got rid of the swindlers and the small fish. We should choose the best one and seal the deal. But only one. We have to refuse the others to command their respect. All three want to talk to you. Talk them all you want, but look closest at...\" {n}Amiri gives you an 'inconspicuous' wink.{/n}\"... the Kurgess guy, I say.\""
+    },
+    {
+      "Key": "89435183-cae8-43c0-9cd4-f5931dedc62e",
+      "Value": "\"You think their tricky devices will bring you victory? Well, you obviously know better than me...\""
+    },
+    {
+      "Key": "904dead5-3bc8-4652-a11b-3f198b5fb3da",
+      "Value": "\"You can get a decent education in Arcanamirium. They don't just teach the books, but also how to use your legs and hold a weapon. The result is a well-rounded warrior.\""
+    },
+    {
+      "Key": "7677f593-bc8b-4d7a-9c93-fc6be7485e43",
+      "Value": "\"If even half of our soldiers were like Wodga, we'd break every enemy spine on the battlefield.\""
+    },
+    {
+      "Key": "65f18971-d924-406d-9532-fd345d73838b",
+      "Value": "\"Did that jock impress you? Ah, what am I saying?! I liked him too.\" {n}Regongar smirks.{/n}"
+    },
+    {
+      "Key": "d91ce54b-cf0a-4a1e-89bf-71a7cb110c9f",
+      "Value": "\"Alkenstar's weapons are impressive, but relying too heavily on their power may weaken our troops in other ways. You know what I think about magic and mages. But if all our soldiers looked like that Kurgess priest, the war might not happen at all! The enemy would flee on sight!\""
+    },
+    {
+      "Key": "23e6d3c2-7902-441d-b531-63d46f244a2f",
+      "Value": "\"With the mages, of course. Have you seen them fight? Now that's what I call a massacre! Fireballs hurtling, ice crunching! Swoosh! Bang! They can rip a soul right out of a body and use it as a bomb! Kaboom! Bony shrapnel flying everywhere! Blood in everyone's eyes! And then they jump into the shadows, spread out, and sneak behind the enemy's lines to finish the survivors. They surround them, cover them with a force field, and create a little explosion on the inside. And don't forget the roaring flame! All that's left is ashes and footprints on the scorched earth...\""
+    },
+    {
+      "Key": "79e19422-00f3-490f-a533-2be2cd5f0406",
+      "Value": "\"Which of the three?\""
+    },
+    {
+      "Key": "60ded03d-b27d-46fa-b204-c77b36e66327",
+      "Value": "\"Which of the ambassadors?\""
+    },
+    {
+      "Key": "607d40e3-6f36-4d92-b64a-22b157240420",
+      "Value": "\"They'll be waiting for your decision, chief.\""
+    },
+    {
+      "Key": "4b76f8bb-f85c-4927-8e3d-1807eecec06c",
+      "Value": "\"You should think fast. What if an enemy assault takes us by surprise, and we've got no reinforcements, hunh?\""
+    },
+    {
+      "Key": "76f913bf-78dd-4e02-b1ac-568b3ff444bb",
+      "Value": "{n}A sturdy middle-aged woman in practical grey attire bows to you. You can tell by the numerous strings and laces on her neck that she's wearing quite a number of amulets under her robe. Her hair is short and cropped.{/n}"
+    },
+    {
+      "Key": "895dc59f-cb51-437d-aef6-37ae3fab2d3c",
+      "Value": "{n}The Wands Brigade's first foreman, Raquillata, nods politely and softly clicks her heels together.{/n}"
+    },
+    {
+      "Key": "a5030eb0-377b-4acd-87db-38c244e71685",
+      "Value": "\"First Foreman Raquillata, at your service, Your Highness. Reporting for negotiations on behalf of the Wands Brigade, graduates of the Arcanamirium!\""
+    },
+    {
+      "Key": "b9424b94-01ca-44a0-a0d3-ad4b5cc814da",
+      "Value": "\"We're not theoreticians or professors, Your Highness. We're arcane practitioners, combat specialists, and frontline workers. We're willing to share our knowledge with your military mages.\""
+    },
+    {
+      "Key": "3ada023d-fcf6-4e6e-972c-645ba5143963",
+      "Value": "\"Our experience. You're hiring the Wands Brigade, an independent squad of mages, not merely as soldiers but as advisors and trainers for your other troops. Each of us not only possesses magic but also has extensive combat experience. What's more important, we know when and how to use it.\""
+    },
+    {
+      "Key": "47e55c26-b0db-4448-bb0a-2bddfe3e1aeb",
+      "Value": "\"It is the oldest, biggest, and the most prestigious arcane academy in {g|Absalom}Absalom{/g}. It's very influential. Students come from all over the world to master the art of magic. Mind you, the school is tuition-free.\""
+    },
+    {
+      "Key": "51a4087f-979d-4a94-b01c-ac26a78462eb",
+      "Value": "\"They teach both magic and practical skills, both of which are certainly useful to combat mages. For instance, if you've learned to summon enraged monsters, it might also be a good idea to learn to run fast.\"{n}A smile brushes lightly over Raquillata's face.{/n}"
+    },
+    {
+      "Key": "c3300fae-cd34-4706-b896-bd8451e0d0f4",
+      "Value": "\"Every member of our brigade is an Arcanamirium graduate. We each have combat experience and a desire to build a mercenary career. We've been preparing to accept your orders since we entered the Wands Brigade.\""
+    },
+    {
+      "Key": "f8414b01-c1e7-43dd-b8d5-b9262375d88b",
+      "Value": "\"Always at your service.\""
+    },
+    {
+      "Key": "f326537b-d6a2-4d32-a6d2-1085d7660779",
+      "Value": "{n}The halfling standing before you wears fine black cashmere. He has a couple of strange-looking palm-sized crossbows in his waistband. His expensive attire does nothing to disguise the scars on his face and hands, or his sturdy posture. Your guest seems more accustomed to sitting in the saddle and wearing traveling clothes, rather than visiting palaces wearing expensive attire.{/n}"
+    },
+    {
+      "Key": "02e045a7-8d97-4872-9baf-e0481412bef8",
+      "Value": "\"What else would you like to know?\""
+    },
+    {
+      "Key": "0cd5d147-4bc6-4d0e-889b-76cf246053ed",
+      "Value": "\"Greetings, Your Highness. I am Captain Romelo. I represent the Smoky Dawn Arms Factory in the Grand Duchy of Alkenstar. Our enterprise is prepared to provide your army with the finest weapons ever made.\""
+    },
+    {
+      "Key": "f8cfa9d8-f068-4961-9057-54bdcca2decb",
+      "Value": "\"Alkenstar is halfway around the world. You see, magic... how can I put this... It doesn't work in our lands. Don't ask me why. That's a question for the researchers and historians. But we ordinary people of Alkenstar managed to turn this nuisance to the greater good.\""
+    },
+    {
+      "Key": "a2d86a63-6288-4e76-afdb-1d11a1c633a4",
+      "Value": "{n}Romelo rubs his chin.{/n} \"We gave up magic for the sake of science. No country can compare to Alkenstar in terms of its technological miracles! We didn't just survive. We're doing very well here, where a mage could never endure. And we are willing to share our findings with anyone willing to pay a fair price.\""
+    },
+    {
+      "Key": "eee991f7-06f5-4190-a3fa-c27c3a7875e2",
+      "Value": "{n}The captain grins and pats his crossbows.{/n} \"So, you'd like to know how they're operated? What gears bring these small death machines to life? How can they rain bolts down upon the enemy without ever recharging? It's a secret. We make our living from other people's ignorance of how our weapons work. Nevertheless, I will tell you a secret about these two crossbows of mine.\""
+    },
+    {
+      "Key": "c21b7eda-cba9-42cc-ae8c-6a1561968b3c",
+      "Value": "\"The left one is for normal work. I use it to kill bandits and thieves spying on our secrets. It's loaded with ordinary bolts. The right one is for special occasions. Each of its bolts bears the name of a rascal who wronged me or my family. When the right one is empty, my travels on {g|Golarion}Golarion{/g} will end, and I will return to Alkenstar and find myself something else to do.\""
+    },
+    {
+      "Key": "3af080e7-b3d2-4bef-bf2e-54b4f8d0382f",
+      "Value": "\"Because you're smart, Your Highness. Firstly, our 'toys' are way safer, and their failure is far less dangerous than magic cast awry. Secondly, anyone with an eye and two hands can use our weapons. That makes things a bit simpler for you, doesn't it?\""
+    },
+    {
+      "Key": "7d8c5d98-e2e5-4dfe-87c8-59cc261519da",
+      "Value": "\"I'm sure we'll have a most productive association, Your Highness.\""
+    },
+    {
+      "Key": "d3bddc80-c1e5-4c27-9577-bd9c9847f874",
+      "Value": "{n}The captain's voice grows serious.{/n} \"We will provide your soldiers with our weapon, teach them how to use it, and make sure the weapons are working. Believe me, each bolt shot by our crossbows will cost the enemy an equal amount in gold.\""
+    },
+    {
+      "Key": "28808d5e-d234-4b07-b8eb-21bce1ba558e",
+      "Value": "\"I should make clear from the beginning, we're not selling the technology. Your engineers won't be permitted to repair the weapons; they're to be handled exclusively by our specialists. However, if you're interested in any of our non-weapons technologies, our craftsmen will gladly train yours!\""
+    },
+    {
+      "Key": "1bbdbdf3-517f-4333-a7bd-686704f69ead",
+      "Value": "{n}An unusually tall and sturdy dwarf with a shaved head bows to you. Despite the weather, his feet are bare, and he's wearing a simple vest over his naked torso.{/n}"
+    },
+    {
+      "Key": "500b3fee-b0e9-4c25-8b5c-3223174ed39e",
+      "Value": "\"Hey – let's arm wrestle, eh? Oh, no, I'm only joking. I know that Your Highness is mighty busy. Is there anything I can help you with?\""
+    },
+    {
+      "Key": "6681c6ea-d9b1-4210-9ea1-325a56221693",
+      "Value": "{n}His mighty but pleasant voice fills the entire hall.{/n} \"Greetings, Your Highness. I am Wodga, priest of the glorious god Kurgess! I believe it was not by coincidence that the road brought me and my comrades to your lands.\""
+    },
+    {
+      "Key": "cd646306-8cfb-4c82-8b60-ecbc3a9362ef",
+      "Value": "\"Your soldiers are... brave, but weak. By the will of Kurgess, we'll sort out your pathetic forces. My priests know how to strengthen a soldier with magic that will give them the power and speed of a mighty animal. And if that fails to protect them, our prayers will heal your warriors and restore them to perfect fighting form.\""
+    },
+    {
+      "Key": "9f7f67bf-d024-4c33-837b-902bd7fe266a",
+      "Value": "\"Kurgess was a {g|Taldor}Taldan{/g} villager of remarkable figure! He traveled around towns, visited trade fairs, took part in every competition and show, and always won. It's only natural that everybody was jealous.\""
+    },
+    {
+      "Key": "f86d63d7-7e53-4df1-bd31-7e04a0642363",
+      "Value": "\"His rivals set a trap for him during a competition. He died, giving his life to protect the other participants, but his glory lived on even after his death. Few mortals are deemed worthy of joining the godly host, and Kurgess was among them!\""
+    },
+    {
+      "Key": "007544c6-74dd-4c82-ae24-0223e2228a55",
+      "Value": "\"Our church is young, and we don't have an established hierarchy yet. We wander from town to town, healing the diseased, mentoring the weak and the sick, teaching them how to harness their own powers, inspiring those who are able to reach beyond their own boundaries. We do not build temples, for we believe our bodies are the temples. A tent in a field, that's all we need.\""
+    },
+    {
+      "Key": "a42d2e31-2291-4f82-98fa-2adb040d34bf",
+      "Value": "\"It disgusts Kurgess when people cripple themselves, so we reject alcohol and stupefying potions. I shall prohibit these among your soldiers. The spirit grows stronger in a mighty body! Kurgess dislikes foul play, so cheating is also illegal.\""
+    },
+    {
+      "Key": "e562c156-a66c-4130-a001-bea412f76fc4",
+      "Value": "{n}Dwarf laughs approvingly.{/n} \"Well, thank you! I wish you could meet my grandfather! He was a real hero, stately and notable! Myself, I'm a mere peasant from a small village on unclaimed land. I was once a fighter. However peaceful I may be, I am still very passionate. When it comes to wrestling, I can best even you! Though now I'm a priest as well.\""
+    },
+    {
+      "Key": "5167735e-fedc-401c-adef-cd908f3c9c2d",
+      "Value": "\"Try throwing a kettlebell up and down. Physical effort stimulates the brain.\""
+    },
+    {
+      "Key": "eb39c38d-27bf-4913-b566-9bcab2f37f8e",
+      "Value": "\"Your Highness, our army has grown strong enough to reckon with. There are others who look to support our army, and share in the glory of our victories. Representatives of three unions have arrived at the court to offer their services. Unfortunately, we are forced to select only one, and the others will have to leave. This is a matter of their insistence, something to do with prestige.\""
+    },
+    {
+      "Key": "af479fdc-bf0a-40ad-b076-968bfe011b37",
+      "Value": "\"I don't trust these cutthroats. They're deadly, no doubt. But they're prone to dirty tricks that ill becomes our army. I'm afraid their deeds might destroy our reputation.\""
+    },
+    {
+      "Key": "13b12f5a-2aa2-4d3b-ba9a-f4b7083b1474",
+      "Value": "\"I'll immediately begin training our shooters to use the weapons of Alkenstar. I'll ask the ambassador for one for myself... to study our new armaments.\""
+    },
+    {
+      "Key": "76b904f1-96b7-439c-a143-2397e27d67dc",
+      "Value": "\"I dislike Arcanamirium. They're dishonest thugs. And that Kurgess priest – he looks like he's about to burst with smugness. His strength is impressive, but I don't like his bragging and vulgar manners. As for Alkenstar... Have you seen their weapon? It's magnificent! I would love to be trained to handle it! And the tactical perspective it offers! Nobody here possesses anything like it!\""
+    },
+    {
+      "Key": "34d37c18-892e-48db-b257-865030ff035e",
+      "Value": "\"Who would you like to know about?\""
+    },
+    {
+      "Key": "3f847db4-0886-42d3-94ec-12bd45a6d103",
+      "Value": "\"Your visitors will wait for as long as it takes.\""
+    }
+  ]
+}

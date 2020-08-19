@@ -1,0 +1,361 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "0857a579-4b60-470c-99d9-69de21fc8499",
+      "Value": "\"Time to die, lunatic!\""
+    },
+    {
+      "Key": "9af36fa7-40ed-449c-b343-991b5f145336",
+      "Value": "\"Are you sure you want to stay here on this island?\""
+    },
+    {
+      "Key": "7f28ad80-b286-47ee-88f0-c89c0e7557be",
+      "Value": "\"An enchanted sanctuary, gates to other worlds… they are here? In these ruins?\""
+    },
+    {
+      "Key": "2f68097a-aa8d-4535-afad-98fb79033377",
+      "Value": "\"Some say this place is cursed.\""
+    },
+    {
+      "Key": "77669fb9-e655-425b-b4a9-15b445eeccf0",
+      "Value": "\"Let's assume Nethys waits beyond the portal. But what's beyond the portal exactly?\""
+    },
+    {
+      "Key": "c2cf6079-a8a9-4a60-bfe3-d9af212c7b20",
+      "Value": "\"Enough about this place.\""
+    },
+    {
+      "Key": "cbbec06b-b34d-47b3-aa7c-5f59bcaa3948",
+      "Value": "\"I'll leave you be. Farewell.\""
+    },
+    {
+      "Key": "c4cd8f5d-847a-47c6-b243-8c311b22c51c",
+      "Value": "\"You're a threat to yourself — and others. I'd best kill you.\""
+    },
+    {
+      "Key": "b300c08d-0cb1-42aa-aff9-e27b6fc68951",
+      "Value": "\"Near the tower entrance lies a paladin, dead — stabbed in the back. You betrayed him by giving in to your own ambition and pride. So who are you after all you've done, Rismel?\""
+    },
+    {
+      "Key": "d068705a-82ef-407d-98e8-7f5ff190a97d",
+      "Value": "\"Listen to yourself! — 'Nethys speaks to me,' 'Nethys has chosen me'... You know your god does not waste his time on mortals. How long are you going to lie to yourself, claiming the voice in your head belongs to Nethys?\""
+    },
+    {
+      "Key": "3e77dc93-f5dc-421f-ab30-d8ac6f9259f2",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "ea6d9551-d378-4ae1-b147-8b99b2c2b456",
+      "Value": "\"Will-o'-wisps roam the island. How did you get past them?\""
+    },
+    {
+      "Key": "c3767bad-7ee8-4c83-828c-8f89a3269d27",
+      "Value": "[Irony] \"Oh, so the great Nethys is just beyond this portal — yet the god of magic can't cross over on his own? Ha!\""
+    },
+    {
+      "Key": "9840a9f2-d333-4823-863e-78a0ec809840",
+      "Value": "\"I found a corpse on the island. You know the one I speak of. He perished in suffering, terrified, cursing those who'd left him to die. What did he do to earn your cruelty?\""
+    },
+    {
+      "Key": "f4a6e4a9-3870-4336-b24b-3bde948bba1e",
+      "Value": "\"I've come for the temple's treasures. Does anything of value remain?\""
+    },
+    {
+      "Key": "d6a3712d-d67e-4cde-aac8-18d867e2170f",
+      "Value": "\"The man who sent me to this island claimed there were treasures here.\""
+    },
+    {
+      "Key": "4ec85bb0-a62a-4d7b-8d09-8f3efabac08b",
+      "Value": "\"What do the writings say?\""
+    },
+    {
+      "Key": "57a8e19a-1e6e-4071-a8b6-ed21e221a5b0",
+      "Value": "\"Where are the others you came here with?\""
+    },
+    {
+      "Key": "1bcce69a-449a-4b0b-8f92-57f5ea732766",
+      "Value": "\"I'll find the proofs that you're wrong.\""
+    },
+    {
+      "Key": "2a3d6536-1bb0-402d-99a8-15beccbc4e6a",
+      "Value": "\"I'll help you to fight the monster.\""
+    },
+    {
+      "Key": "35751227-53f9-4194-b15b-7ddf09b3c74c",
+      "Value": "\"I'm not sure if I'll help you or not, but I'm not done talking with you.\""
+    },
+    {
+      "Key": "15683710-c48d-4894-bb25-19c9f34eaaa8",
+      "Value": "\"I'm ready to face whatever lies beyond the portal.\""
+    },
+    {
+      "Key": "76df68ef-7722-4238-b639-c5879ad769ef",
+      "Value": "\"I don't have to convince you, just execute you.\""
+    },
+    {
+      "Key": "914411b8-eea1-4e55-ac86-58378bfd2cd4",
+      "Value": "\"We know nothing about the creature who's waiting on the other side. Give me some time to get ready.\""
+    },
+    {
+      "Key": "a99aaefa-7c45-4acf-941e-29da9a15222e",
+      "Value": "\"Now if your mind's clearer… tell me about this place.\""
+    },
+    {
+      "Key": "428c6a93-969d-4967-b455-9fbd39ddf67c",
+      "Value": "\"Can you seal the portal permanently?\""
+    },
+    {
+      "Key": "a2e1f36a-b241-468c-aa15-601b690bdc03",
+      "Value": "\"Locals claim the island is cursed.\""
+    },
+    {
+      "Key": "647e5606-4681-4c24-8d60-c322f398e69c",
+      "Value": "\"Thank you, I've learned all I wanted.\""
+    },
+    {
+      "Key": "d155ddc8-c4dd-4f2e-ab11-43763e3c5ade",
+      "Value": "\"You betrayed those who trusted you. You left one friend to die and killed another! You're a murderer and must answer for your crimes.\""
+    },
+    {
+      "Key": "2f450635-668c-49e4-9657-88eeb13fb6a1",
+      "Value": "\"You're not in control of yourself. As soon as Nethys turns his attention back to you, madness will take you again. The safest course is to kill you here and now.\""
+    },
+    {
+      "Key": "bd40d4e8-f78f-40ae-a541-a7542b1cbfc1",
+      "Value": "\"You've caused too much trouble. That's enough to warrant your execution.\""
+    },
+    {
+      "Key": "a135c286-8976-4c60-a637-e3e22ffb2fc2",
+      "Value": "\"Forget what I said.\""
+    },
+    {
+      "Key": "611d2fdb-4a00-442a-9443-25cf11f67d37",
+      "Value": "\"Rismel… no matter if this island is cursed or not, you're not in your right mind. You don't know what you're doing.\""
+    },
+    {
+      "Key": "6f916a24-2fed-46b0-8b1b-d479b62540b2",
+      "Value": "{n}A man stands in the center of the half-ruined hall. He is motionless. His eyes are closed, head tilted, as if he was listening to something inaudible. He's clad in tattered black-and-white robe, though mud and dust made his clothes look almost uniformly grey. {/n}"
+    },
+    {
+      "Key": "76391fa5-0e98-4c7a-b109-aeb3c3a35364",
+      "Value": "{n}Hearing your footsteps, the man shudders and turns abruptly. The left part of his face is covered in blood and dirt. Seeing you, he gives a low growl in his throat.{/n} \"Tresspassers!\" {n}He spits on the ground.{/n} \"Are you so eager to die?\""
+    },
+    {
+      "Key": "6353ec64-e1c0-47fc-b6cd-2f866ec5295f",
+      "Value": "\"You dare?! Then feel the wrath of The All-Seeing Eye!\""
+    },
+    {
+      "Key": "e4f1e429-a4b8-4533-859e-b5b78c17e0c0",
+      "Value": "\"You again?\""
+    },
+    {
+      "Key": "25aeafcb-1fcf-4e4d-98fc-8b7c3ee029c6",
+      "Value": "\"Why are you here, traveler?\""
+    },
+    {
+      "Key": "001a09f9-5ffc-47cc-87b9-bccc5334638b",
+      "Value": "{n}The man stares at you for several moments. Then he suddenly grins and raises his eyebrows — in mockery.{/n} \"Who am I? Oh, soon the whole world will know my name.\" {n}The man straightens and raises his hands to the sky.{/n} \"Two-faced Rismel! Keeper of the Gates! Harbinger of {g|Nethys}Nethys{/g}! I have many names, and you shall pay fealty to them all!\""
+    },
+    {
+      "Key": "b89cbd3a-7226-4620-b4aa-39fb10a71e14",
+      "Value": "{n}Rismel, pale, nods.{/n} \"This is my penance. Someone must keep watch over the portal. I... I won't let anyone else die here, or become enslaved by temptation.\""
+    },
+    {
+      "Key": "6b841105-376b-4407-9fdd-48e4dd2e1f76",
+      "Value": "\"Silence!\" {n}Rismel roars.{/n} \"You're too blind to see what surrounds you — vibrant, bright, glorious to those who have embraced the arcane and mastered its power!\"\n{n}Rismel's voice drops, and his eyes become unfocused.{/n} \"{g|Nethys}Nethys{/g} himself led me here! His voice rings in my head, calling from the portal! All these writings... all these wandering lights... only the blind cannot see the coming of The All-Seeing Eye!\""
+    },
+    {
+      "Key": "2feb013a-116a-47af-9eaa-b5c6ac70845b",
+      "Value": "\"Cursed?\" {n}Rismel bursts into hysterical laughter.{/n} \"Only fools can claim this place is cursed! On the contrary, this tower, this portal — it's a true blessing for those who can grasp its real greatness!\""
+    },
+    {
+      "Key": "a0592747-ca2d-4aac-92de-853a9c978f62",
+      "Value": "{n}Rismel grunts — but makes no response.{/n}"
+    },
+    {
+      "Key": "5d624d36-3483-4afb-94c3-5828da82d2f9",
+      "Value": "{n}Rismel shuts his eyes, then slowly opens them.{/n} \"How dare you... \" {n}He hisses through clenched teeth.{/n} \"{g|Nethys}Nethys{/g} himself guides me! How dare you judge a Chosen One of the All-Seeing Eye?!\""
+    },
+    {
+      "Key": "dc198aeb-2087-4510-bd6e-81d7aff18f97",
+      "Value": "{n}Rismel blinks his tears away and turns to the portal, as if recalling it is still there.{/n} \"But the voice... The voice that urged me to open the gates...\" {n}He falls silent for a moment.{/n} \"It still sounds inside my head! But it is not {g|Nethys}Nethys{/g}. No, no, it's not Him, it's... something... else.\""
+    },
+    {
+      "Key": "89eb6902-388a-4bd3-940e-3bca51968292",
+      "Value": "\"Anything of value? Look before you!\" {n}Rismel points to the portal.{/n} \"Beyond is the keeper of all knowledge — {g|Nethys}Nethys{/g} himself! The wisdom of All-Seeing Eye... it's of more value than your paltry mind can dream of!\""
+    },
+    {
+      "Key": "de6a992b-e2c5-4c7f-a308-bdb3e6a6f819",
+      "Value": "\"But if you seek gold, gems, and other worthless things...\" {n}Rismel sneers and shakes his head.{/n} \"Then you've wasted your time.\""
+    },
+    {
+      "Key": "58175b40-5f7d-4075-bf85-577d8a100c79",
+      "Value": "\"I am the chosen one.\" {n}Rismel shakes his head.{/n} \"I knew it, always. The chosen one… different from the others...\" {n}His voice falters.{/n}"
+    },
+    {
+      "Key": "f7abab70-c215-49e8-b305-024ec49fef13",
+      "Value": "{n}Rismel stiffens.{/n} \"But all I've done was for a greater purpose. History will vindicate me.\" {n}Rismel refuses to look at you.{/n} \"Nothing you say will break my faith… \""
+    },
+    {
+      "Key": "8cc24192-51ec-4b2f-a992-60db9640c292",
+      "Value": "\"Enough!\" {n}Rismel snarls.{/n} \"It was the only sacrifice I've made in the name of {g|Nethys}Nethys{/g}! You have nothing more to accuse me!\""
+    },
+    {
+      "Key": "14cd5bd8-138c-494c-9731-6508e52f2b83",
+      "Value": "{n}Rismel gives an eloquent look to the half-ruined tower, dusty stones and the grass that sprouts through the stone floor.{/n} \"I guess this man was wrong.\""
+    },
+    {
+      "Key": "62317091-968c-4471-9865-daf74247a0df",
+      "Value": "{n}A shadow falls across Rismel's face. He stares at the writings at the walls that shimmer with ghostly light.{/n} \"I'll find out.\" {n}He mutters, but to himself.{/n} \"When He comes... when he shares his boundless wisdom with me... I'll find out everything I want.\""
+    },
+    {
+      "Key": "044a0a3c-ab16-4ea1-9bd2-c8e248591686",
+      "Value": "\"Will-o'-wisps don't devour flesh, they feed on suffering and fear. The island is full of them — since the times when this temple was sanctified with human blood. Besides, there was no fear in my heart — only joy and awe, for I was to meet my God and Master.\""
+    },
+    {
+      "Key": "918a3f41-db54-4cbf-aab3-42290eecf3d4",
+      "Value": "\"Who?...\" {n}Rismel ponders your words for a moment.{/n} \"Ah... You're talking about those who came to the island with me. They are gone.\""
+    },
+    {
+      "Key": "2afc7386-2a6d-489d-9817-20c8b458dae9",
+      "Value": "\"One of them gave up halfway here. I know nothing of his fate. And the second... the miserable creature, he...\" {n}Rismel closes his eyes, as if fighting to control his temper.{/n} \"He kept talking — how knowledge must belong to everyone, wisdom should be shared, about telling others about this place... he kept talking and talking.... \" {n}Rismel falls still for a moment.{/n} \"So I silenced him.\""
+    },
+    {
+      "Key": "ebcf9ca7-ad9f-45a1-92e7-0e83ae72d675",
+      "Value": "{n}Rismel sneers.{/n} \"You've already tried to accuse me, blind one. You have something to add?\""
+    },
+    {
+      "Key": "1df408a6-c7e8-45bd-9fcc-b37085dd5fe9",
+      "Value": "{n}The man turns back to you.{/n} \"I... I would never be able to repay for you help. stranger. But I must ask you about one more thing... will you help me to confront the creature that waits beyond the portal? I'll be able to open it and let this... thing come to {g|Golarion}Golarion{/g}. We have to destroy it before it finds some new prey.\" {n}Rismel covers his eyes.{/n} \"When we're done with this, I'll stay here and make sure no living soul ever falls the victim of this island.\""
+    },
+    {
+      "Key": "d57db6bc-5e9d-407d-91d7-319248c61a94",
+      "Value": "{n}Rismel stares at you silently, his eyes narrowed.{/n}"
+    },
+    {
+      "Key": "c50fc3fb-05b9-4bd9-8213-a2095c13530b",
+      "Value": "{n}Rismel's eyes turn glassy and dull as he keeps talking, and his speech becomes a stream of barely understandable words. It's impossible to distinguish, which part of his ramblings is true, and which represents his delirious fantasies. Nonetheless, the madman seems to lose interest in attacking you right now. {/n}"
+    },
+    {
+      "Key": "5359dc30-03d8-4947-b308-a2218b6558d8",
+      "Value": "{n}As you listen to Rismel, you can't stop frowning. Something is clearly not right — not just with the man, but his words. {g|Nethys}Nethys{/g}, the mad deity of magic and wizardry, never speaks directly his followers. His followers take pride in this — for their god is much too great to lower himself to such base forms of expression. Whoever or whatever Rismel heard beyond the portal — it is not Nethys.{/n}"
+    },
+    {
+      "Key": "4efa1a08-2335-4463-a5ad-57eb4395a3a4",
+      "Value": "{n}As you listen to Rismel, you can't stop wincing — the man's voice is so convincing, his beliefs so strong, that all your doubts about his words just vanish. Seems like this man really follows the path set by his god.{/n}"
+    },
+    {
+      "Key": "ddef82e0-6f5b-4283-b8aa-78cd77bbaf3a",
+      "Value": "\"You are terribly mistaken, honorable priest. Nethys does not interfere in the lives of his followers. Unlike the other gods, he does not play at being a shepherd. Even if he decided, out of curiosity, to speak to you, he'd send his Herald, the Arcanotheign. If you do hear a voice, it might be anyone – except our god!\""
+    },
+    {
+      "Key": "0b4aecbf-9ed4-4b1d-a2b1-796c341029a0",
+      "Value": "\"What is this nonsense I've just heard? The great Nethys, personally praising his priest, like a master praises his dog? This cannot be!\""
+    },
+    {
+      "Key": "4d92d0da-f476-4f18-b385-f42c8c004996",
+      "Value": "{n}Kalikke looks astonished.{/n} \"Reward his chosen? Oh honorable priest, are you sure you are not confusing Nethys with some other god?\""
+    },
+    {
+      "Key": "5f0895ed-82b6-4628-8d7a-26c0a89503db",
+      "Value": "\"Open the gates for Nethys? Do you really think that he, the omnipotent god of magic, would require the help of someone like you?\""
+    },
+    {
+      "Key": "514f5e8d-a688-4bd9-9144-d9c75c530a93",
+      "Value": "\"Blasphemer! Feel the wrath of {g|Nethys}Nethys{/g}!\""
+    },
+    {
+      "Key": "e3c3f93b-8cd4-4bb1-b7de-6bf8f6f7ccfa",
+      "Value": "{n}Rismel takes a deep breath.{/n} \"Praise {g|Nethys}Nethys{/g}!\" {n}He turns to the portal.{/n} \"It's time to end this.\""
+    },
+    {
+      "Key": "861ade41-0a9f-4ad1-a05d-f80b8a70ab4d",
+      "Value": "{n}Rismel turns to you.{/n} \"I was waiting for you.\""
+    },
+    {
+      "Key": "7bcf74df-4e65-4c2a-b6fd-62fb0b59f4a7",
+      "Value": "{n}Rismel casts a glance at the ancient tower.{/n} \"This is the place where two worlds connect. The border is razor thin, so it gave birth to a portal. Now it's sealed, but...\" {n}He rubs his forehead.{/n} \"When I was performing a ritual here, I noticed it's easy to open it. Someone must have used this portal before — and not too long ago.\""
+    },
+    {
+      "Key": "53b23548-22ba-4d11-9eda-1757f1b5a559",
+      "Value": "{n}Rismel shakes his head.{/n} \"Alas, I am not able to do it. The only thing I can do is become a guardian of this portal till the end of my days.\""
+    },
+    {
+      "Key": "695276c0-109f-496b-961f-c32420863e7f",
+      "Value": "{n}Rismel winces.{/n} \"Cursed? Definitely not. The tower is full of magic, but cursed...\" {n}He looks aside.{/n} \"Unless you call a clouded mind a curse of sorts.\""
+    },
+    {
+      "Key": "c7be4b0a-a222-400c-8673-29ef9ce9406e",
+      "Value": "\"Whatever you say.\""
+    },
+    {
+      "Key": "51daf0e1-694a-4c5e-9b91-1d4fdac04395",
+      "Value": "{n}Rismel's face darkens, and he takes a step back.{/n} \"And why is that?\""
+    },
+    {
+      "Key": "092fa395-7125-4add-9920-c3f6edcf8006",
+      "Value": "\"I must fulfill my vow! Don't expect I'll let you kill me without a fight!\""
+    },
+    {
+      "Key": "bb966d8b-4862-4a38-9641-e2c04481bb3a",
+      "Value": "{n}Rismel's voice drops to a hiss.{/n} \"So watch your tongue. The moment nears where I open the portal and let {g|Nethys}Nethys{/g} into this world. Fear my lord's wrath, for there will be no escape for blasphemers!\""
+    },
+    {
+      "Key": "0d30a393-cecb-4c30-adae-68b9e2cbf924",
+      "Value": "\"{g|Nethys}Great Nethys{/g}, what a nightmare is this? This can't be... I failed you! Misled by illusions... darkness took my mind and I... I...\" {n}Rismel utters a heartbreaking cry and buried his face in his hands. When he finally lifts his head, his eyes are full of tears.{/n} \"How can I atone for this? All I've done...\"{n}His voice is a choked whisper.{/n} \"It's... it's not possible.\""
+    },
+    {
+      "Key": "5e45b331-896a-4fb1-b263-10bb60833612",
+      "Value": "\"I…\"{n}Rismel's voice trembles. {/n}\"I… but it's just...\" {n}He averts his eyes and falls silent.{/n}"
+    },
+    {
+      "Key": "789beac2-bb4f-4e58-a48e-7f943684deb8",
+      "Value": "{n}Rismel meets your gaze silently. After a moment, he frowns, then winces.{/n} \"Morry... we should have come back for you...\""
+    },
+    {
+      "Key": "ef909815-df74-4c33-90bf-c04964fb6fe0",
+      "Value": "{n}Rismel crosses his arms.{/n} \"What do you want to know.\" {n}His voice is dull and listless.{/n}"
+    },
+    {
+      "Key": "b9bbb447-7040-433d-a992-e692eb1e9b5e",
+      "Value": "{n}Rismel folds his hands on his chest. {/n} \"Wha do you want to know?\" {n}His voice is dull and listless.{/n}"
+    },
+    {
+      "Key": "cffc6964-8cad-471c-9006-dd40c2aff8db",
+      "Value": "\"Then I'll begin the ritual now!\""
+    },
+    {
+      "Key": "2cd2aa3c-aa39-42b6-8f57-fce760bf2dbe",
+      "Value": "\"I'll wait for you. Don't waste your time!\""
+    },
+    {
+      "Key": "b0d30a86-8e04-4cf8-a0c8-59c6b5fd2d29",
+      "Value": "{n}As you look at him, Rismel's face changes. The obsessive gleam in his eyes gives way to astonishment and terror. He throws a haunted look at his surroundings then touches his face — and stares dully at the blood and dirt on his fingers.{/n} \"What... what have I done?\""
+    },
+    {
+      "Key": "55f5da46-e433-4440-a4e9-079735bc5f31",
+      "Value": "{n}As you look at him, Rismel's face changes. The obsessive gleam in his eyes gives way to astonishment and terror. He throws a haunted look at his surroundings then touches his face — and stares dully at the blood and dirt on his fingers.{/n} \"What... what have I done?\""
+    },
+    {
+      "Key": "9b11e070-5db3-449e-ac95-6cea5b6489d8",
+      "Value": "{n}As you look at him, Rismel's face changes. The obsessive gleam in his eyes gives way to astonishment and terror. He throws a haunted look at his surroundings then touches his face — and stares dully at the blood and dirt on his fingers.{/n} \"What... what have I done?\""
+    },
+    {
+      "Key": "69786a8b-f044-4caa-aaca-53bd261a9be3",
+      "Value": "\"The All-Seeing Eye has brought me here, to this sanctuary of magic! Others came, but they did not survive the trials. I am the only one who hears the word of {g|Nethys}Nethys{/g} and can open the gates for Him! Then the All-Seeing Eye will reward his chosen — I will become a lord in His new era!\""
+    },
+    {
+      "Key": "ad28f19e-6f67-4d4e-9d31-c78c767c1ccb",
+      "Value": "{n}Rismel's jaw clenches.{/n} \"One more word, insect...\" {n}He hisses.{/n} \"...and you'll witness it yourself!\""
+    },
+    {
+      "Key": "271af401-0b7d-46d9-a2b0-1939ef04f012",
+      "Value": "{n}Rismel answers with contemptuous grunt.{/n} \"Just as I thought.\""
+    },
+    {
+      "Key": "e016a8b9-6d5f-4402-b604-6b06a71e0cee",
+      "Value": "{n}Rismel closes his eyes and takes a breath.{/n} \"Can you feel it? No — of course you can't... the whole tower bears marks of the arcane! Look around you! Can you see these writings? Since ancient times, believers knew a portal lay here, so they left signs heralding the arrival of {g|Nethys}Nethys{/g}!\""
+    }
+  ]
+}

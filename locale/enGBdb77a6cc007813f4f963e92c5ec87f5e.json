@@ -1,0 +1,249 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "82dfa3a9-57c3-4784-9913-6c8b5d94560d",
+      "Value": "\"Why did you want that flower so bad?\""
+    },
+    {
+      "Key": "5e99f402-b2f0-47aa-98cb-6ace608c8a9b",
+      "Value": "\"Where do you hail from, Kimo?\""
+    },
+    {
+      "Key": "9f46c9b4-e6c0-4c7d-b09c-3a4986cedcfa",
+      "Value": "\"Why did you leave Kyonin?\""
+    },
+    {
+      "Key": "6f47916a-1831-41f2-ab2b-c61b55403d23",
+      "Value": "\"And?\""
+    },
+    {
+      "Key": "b67d0481-0207-4d6a-8f77-ccb464d99480",
+      "Value": "[Say nothing]"
+    },
+    {
+      "Key": "81d4309f-3ba2-4d59-ab91-2025b7fb6573",
+      "Value": "\"I see. No need to tell me anything, then.\""
+    },
+    {
+      "Key": "47fc43ed-528f-4312-884c-0569c0b381c6",
+      "Value": "\"Are you going to tell me or what?''"
+    },
+    {
+      "Key": "0ccc52fb-6dfe-4d96-9198-b297d7a54653",
+      "Value": "\"Kimo…\""
+    },
+    {
+      "Key": "a7a7b7f3-1401-4906-8e49-34eb3b89b740",
+      "Value": "\"I'm happy for you.\""
+    },
+    {
+      "Key": "9243f9f8-f235-49cf-b53a-f61c1ac124e1",
+      "Value": "\"You can't be serious…\""
+    },
+    {
+      "Key": "73a70387-c748-41f5-9f1d-b712b15466bf",
+      "Value": "\"I'm sick and tired of you!\""
+    },
+    {
+      "Key": "026c947d-c44a-44a7-9760-1a955fdde4c1",
+      "Value": "\"I must go.\""
+    },
+    {
+      "Key": "1a52366c-74b6-4baf-bab4-eb0dfa8c2f2d",
+      "Value": "\"What did you want to ask me?\""
+    },
+    {
+      "Key": "546928c9-975a-4ad4-9146-1cfebf388cfb",
+      "Value": "\"Tell me exactly what you need.\""
+    },
+    {
+      "Key": "acc61fdd-20eb-4134-8a9a-b64af80cb80c",
+      "Value": "\"You seem to put a lot of trust in this hunter's opinion.\""
+    },
+    {
+      "Key": "c2b71dce-dc5a-4eda-be23-1f055a4eaee1",
+      "Value": "\"So be it.\""
+    },
+    {
+      "Key": "d2aee2bd-0221-419d-b432-27a92364774f",
+      "Value": "\"I'm not interested.\""
+    },
+    {
+      "Key": "72e325ed-62fc-4681-8e60-69e771fceb64",
+      "Value": "\"I'll think about it.\""
+    },
+    {
+      "Key": "7c2c51d7-767d-4ac5-a2fb-89370f055333",
+      "Value": "\"Take a look – is this necklace any good?\""
+    },
+    {
+      "Key": "463c76d3-fa3e-4d56-ac68-1d8106cc083c",
+      "Value": "\"Tell me what went wrong between you two. You had a fight?\""
+    },
+    {
+      "Key": "e166589f-b825-4795-aa52-42115feab34a",
+      "Value": "\"What do you mean, she 'hid in her tree'?''"
+    },
+    {
+      "Key": "7cd0a71f-ce23-4908-8cde-4d1c0f70fc0e",
+      "Value": "\"Show me on the map where to find her.\""
+    },
+    {
+      "Key": "e58972ad-305f-4d2b-98a1-1386b8ae1914",
+      "Value": "\"I see. Well, I have no wish to interfere in your affairs.\""
+    },
+    {
+      "Key": "009d85f8-b152-4510-8645-ed9b3686bf15",
+      "Value": "\"I've had a chat with your dryad.\""
+    },
+    {
+      "Key": "2191321e-b238-478d-9284-96bdd9423aa9",
+      "Value": "\"Go to her. She's waiting for you.\""
+    },
+    {
+      "Key": "1fa5d884-5f32-4e7c-949f-07158fca9663",
+      "Value": "\"It didn't work out... I'm sorry, Kimo.\""
+    },
+    {
+      "Key": "64f4af5a-82fe-42b4-a4bf-f5aecbe97db9",
+      "Value": "{n}{d|Kimo}Kimo{/d} smiles at you absentmindedly.{/n} \"Good day!\""
+    },
+    {
+      "Key": "2d71b61a-c3a9-414c-ad31-4bec583f6cca",
+      "Value": "{n}Kimo closes his eyes in reverie.{/n} \"Kyonin. The land of the elves. The land of springs and forests. That is where I learned my craft...\""
+    },
+    {
+      "Key": "7207626e-da9d-4916-aeb5-8eb2c11c2642",
+      "Value": "\"You would love it there. Everybody does.\""
+    },
+    {
+      "Key": "144e1494-c0af-4a9f-9b62-6032091ee0e2",
+      "Value": "\"Nobody made me leave!\" {n}Kimo gives you an embarrassed look.{/n} \"I just woke up one day, looked out the window… and the road called. And I went!\""
+    },
+    {
+      "Key": "d3a0640d-4f6c-436a-b23f-e61821048f96",
+      "Value": "\"Oh! I don't want to tell! But since you asked me, it would have been awkward if I refused.\""
+    },
+    {
+      "Key": "d3b9b449-9346-4c53-b48a-e0fa6a39edd9",
+      "Value": "\"What?\""
+    },
+    {
+      "Key": "682aa980-d0bf-4164-9bfa-c85e95295bba",
+      "Value": "\"But you must have been there already. And if not, then you should! You won't regret it.\""
+    },
+    {
+      "Key": "7ef5d980-edb3-433d-8ad0-8ff351925d3b",
+      "Value": "\"Well… fine then.\" {n}The elf sounds somewhat disappointed.{/n}"
+    },
+    {
+      "Key": "9db539cf-64c2-453e-91ae-ec01c5891327",
+      "Value": "{n}The elf awkwardly picks at the ground with the toe-cap of his boot.{/n}"
+    },
+    {
+      "Key": "d2aabbc8-def5-4fd4-a9c0-fb46ae3e06ea",
+      "Value": "\"Alright, alright…\" {n}The elf takes a deep breath.{/n}"
+    },
+    {
+      "Key": "4f65185d-0a16-4cfa-924d-d6e4082f638d",
+      "Value": "\"I… I am in love. With a lady in the forest.\""
+    },
+    {
+      "Key": "5400cda8-a948-42f7-8ae4-857afcb798ce",
+      "Value": "\"Well…\""
+    },
+    {
+      "Key": "9faa36d2-5401-4dd6-b4d9-a6f6e75f2378",
+      "Value": "\"That flower was for her. I cannot tell you who she is. But she had hidden herself from me, and that is what darkens my days.\""
+    },
+    {
+      "Key": "4168301a-17f1-41bb-9815-efeac8986b40",
+      "Value": "\"Thank you! If only I could be happy as well…\""
+    },
+    {
+      "Key": "f6fb390a-d1d6-4ebc-91b0-b32c13ec8a01",
+      "Value": "{n}{d|Kimo}Kimo{/d} gives you a dreary nod.{/n} \"Good day…\""
+    },
+    {
+      "Key": "40bb15d9-40ee-48df-8cb5-bcf94647c1a1",
+      "Value": "{n}Kimo looks at you with regret.{/n} \"Forgive me, friend! I did not wish to disappoint you…\""
+    },
+    {
+      "Key": "b6f2a1d0-725f-404c-8952-3367c3b1be5c",
+      "Value": "\"You won't believe this! It's about her!\""
+    },
+    {
+      "Key": "a486ea7a-1d90-430b-ad4d-05070f80b4dd",
+      "Value": "\"She finally agreed to go on a date with me! I need to get ready!\""
+    },
+    {
+      "Key": "9856b0d1-9835-44fb-be5d-7db52eadac73",
+      "Value": "\"A hunter I know said that you only need one thing to woo a lady: a gift. Maybe... maybe an emerald necklace would do! But I wouldn't even know where to start looking for such a thing! Please, help me. I will repay you, I promise.\""
+    },
+    {
+      "Key": "ed090a64-64c5-4d5e-afc3-ddda4d441f52",
+      "Value": "\"Well… I don't really know… But surely, something that can't be found in every shop or roadside tavern.\""
+    },
+    {
+      "Key": "9e2b63a6-cfad-40c5-b8e8-6469237473ae",
+      "Value": "\"He talks a lot, and the other villagers listen to him.\" {n}Kimo bends over and whispers in a conspiratorial tone.{/n} \"To be completely honest, I sometimes think that he's… you know… a bit slow.\" {n}The elf gives you a meaningful glance, his eyebrows raised high.{/n} \"But he has a lot of experience. He knows a lot of things that I have no idea about!\""
+    },
+    {
+      "Key": "1556d929-e086-4044-a875-f6a391b4f392",
+      "Value": "\"I knew it!\" {n}Kimo is as happy as a cat that's found a pot of cream.{/n} \"You are always so kind! And I will help you in return – you'll see!\""
+    },
+    {
+      "Key": "532cdc7a-0ff7-4e73-8b85-54db1a1c00fd",
+      "Value": "{n}Kimo is scratching his head helplessly.{/n} \"Of course, {name}. As you wish! Thanks for hearing me out…\""
+    },
+    {
+      "Key": "7c1e1cf3-b622-42f8-8bea-09eb84f2dd38",
+      "Value": "\"Oh, thank you so much! That's very noble of you – after all, you're so busy all the time…\" {n}Kimo's face radiates wholehearted gratitude.{/n} \"Take as much time as you need.\""
+    },
+    {
+      "Key": "422ffede-61e2-43a1-8baf-49d6e89ed5d0",
+      "Value": "\"I'll come up with something so… so special…\" {n}Kimo's gaze wanders far away.{/n}"
+    },
+    {
+      "Key": "48c22d11-90e4-4695-82a7-a74d1718f9d5",
+      "Value": "{n}Kimo looks dumbfounded.{/n} \"How pretty!\""
+    },
+    {
+      "Key": "7654d616-56a4-4ec4-9aa3-e294715f02e5",
+      "Value": "{n}Kimo nods absent-mindedly.{/n}"
+    },
+    {
+      "Key": "5a6303be-6c03-493b-9be9-3a2fb5d4f46e",
+      "Value": "{n}A happy, dreamy smile blooms on the elf's face. The next moment, however, his eyes widen, and huge beads of sweat cover his forehead.{/n}"
+    },
+    {
+      "Key": "2c03a34e-7252-47e8-930a-26f37e09cd51",
+      "Value": "\"Then… then I should go.\" {n}Kimo gulps and gives you a weary sideways look.{/n} \"Thanks, {name}. You've done me a great service. I already know how I shall repay you – I'll make you a bow. The best bow in the world! But now I must go.\" {n}Kimo exhales decisively and slowly walks away.{/n}"
+    },
+    {
+      "Key": "9012d229-8bd5-47fb-a04d-869a74160b67",
+      "Value": "\"I don't know… Everything went so well after our first date. We spent every day together. We talked, we gathered flowers, we watched the clouds pass by… And then, one evening, she said 'goodbye' – and hid herself inside her tree. She hasn't shown her face or said a word to me ever since. No matter how many times I've asked...\""
+    },
+    {
+      "Key": "fdbeb0c2-e743-49fb-8380-2e8e979ea507",
+      "Value": "{n}Kimo heaves another heavy sigh.{/n} \"She's a dryad… Her body and spirit are tied to an oak. She takes care of it and protects it. I met her when I was in the forest, trying to find my way to this settlement.\""
+    },
+    {
+      "Key": "08f59c5a-1c7e-459e-a285-67301548e193",
+      "Value": "\"But you can't help… Her heart knows no mercy. You cannot change her wooden mind…\""
+    },
+    {
+      "Key": "06e2d4c9-0d2f-483b-a391-1c4cc50aeb0f",
+      "Value": "\"And?\" {n}The elf's fingers are twisting into a knot.{/n}"
+    },
+    {
+      "Key": "a0d50bf5-a632-46ad-8efe-9ceaded680f9",
+      "Value": "\"It... it cannot be! Thank you, {name}!\""
+    },
+    {
+      "Key": "1006d6ef-def6-41b5-8bb2-338d53f03c77",
+      "Value": "\"I knew this would happen. Thank you for at least trying… It's time for me to go. Far, far away from here.\""
+    }
+  ]
+}

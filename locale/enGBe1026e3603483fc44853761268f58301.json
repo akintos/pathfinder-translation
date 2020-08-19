@@ -1,0 +1,429 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "51410a76-3685-4a20-8ddb-ac8be06c6b1b",
+      "Value": "\"I appoint Gasperre Liacenza as governor.\""
+    },
+    {
+      "Key": "de54a00d-6054-4c90-89c3-aa8792b94218",
+      "Value": "\"I appoint Kharne Vereel as governor.\""
+    },
+    {
+      "Key": "ed4fdc30-b686-4ec9-8716-b9b00dc88470",
+      "Value": "\"I appoint Stefano Moskoni as governor.\""
+    },
+    {
+      "Key": "4cd9af7e-9461-487f-bfe5-6f85095abe4f",
+      "Value": "\"None of you will be governor. I will send my own viceroy.\""
+    },
+    {
+      "Key": "9419b9b2-c78a-4130-a566-873fc925a55c",
+      "Value": "\"Guards! I sentence Kharne Vereel to death. Take him!\""
+    },
+    {
+      "Key": "1e1897a6-55f9-4f38-9ed2-5496ad4bbe9f",
+      "Value": "\"Guards! I sentence Gasperre Liacenza to death. Take him!\""
+    },
+    {
+      "Key": "72897b7d-d0de-4486-99da-c01c474b5307",
+      "Value": "\"Guards! I sentence Stefano Moskoni to death. Take him!\""
+    },
+    {
+      "Key": "dafa32ca-050e-4097-9b2d-dc7b3e5661c4",
+      "Value": "\"Linzi, what's next on the agenda?\""
+    },
+    {
+      "Key": "3d5ca6d1-91a1-47de-9ef3-02454cbfdbea",
+      "Value": "\"Annamede, I appoint you as the new headmaster of the Academy.\""
+    },
+    {
+      "Key": "c1da3991-2645-4c3c-a410-627e65bf5771",
+      "Value": "\"Atalia, I refuse to accept your resignation. The Academy needs a headmaster, and you are the best candidate.\""
+    },
+    {
+      "Key": "7a795275-a596-4a27-8d40-4264a0c4ef24",
+      "Value": "\"I will trust the teachers to elect a new headmaster of the Academy.\""
+    },
+    {
+      "Key": "63705059-0149-4d6d-becc-90bca6c02680",
+      "Value": "\"No headmaster will be necessary. I am closing down the Academy.\""
+    },
+    {
+      "Key": "9fe767fe-7cc8-4ce6-be22-642395b54ba2",
+      "Value": "\"Guards! I sentence Atalia Gitaren to be executed. Take her away!\""
+    },
+    {
+      "Key": "bdfad339-1eb9-4e3a-97f6-ecbed7baea31",
+      "Value": "\"Guards! I sentence Annamede Belavarah to be executed. Take her away!\""
+    },
+    {
+      "Key": "d3aaa4cd-3329-4ea3-b392-99d1d6398af4",
+      "Value": "\"Who else wants an audience?\""
+    },
+    {
+      "Key": "e2230904-e2b0-4778-b083-5da20946c520",
+      "Value": "\"I'll hire you, but on one condition. No more robberies. From now on you're a military combat unit within my army.\""
+    },
+    {
+      "Key": "34656f50-8de9-485c-b1e0-aa459ccf1596",
+      "Value": "\"Thank you for your service, but we have different paths to follow. I have no need of pirates in my kingdom.\""
+    },
+    {
+      "Key": "a59134db-b928-4751-92cd-4f0b47f84baa",
+      "Value": "\"You've helped me, and I appreciate that. But you are pirates, and all pirates must hang. Guards, take her away! Make sure she doesn't suffer.\""
+    },
+    {
+      "Key": "55de04be-2f9b-4a99-80be-26d9f0f215d6",
+      "Value": "\"Aren't you confused? Why are you pledging allegiance to the city and not to me?\""
+    },
+    {
+      "Key": "f581b793-7428-45f2-b2e0-ae90dde83636",
+      "Value": "\"I wish to appoint a new captain of the guard.\""
+    },
+    {
+      "Key": "873962a6-ecac-471f-9b63-400ba6e0cd3e",
+      "Value": "\"I accept your pledge. Serve the city as you have before.\""
+    },
+    {
+      "Key": "7518e3a6-b961-42d8-bd03-0f0c628da7ae",
+      "Value": "\"The city is now under new leadership. I will retire the city guard, and create a new one, personally loyal to me.\""
+    },
+    {
+      "Key": "5035fafb-8f90-4346-899f-31f49c0d8c86",
+      "Value": "\"Is that a threat? Guards! Arrest that man! I sentence him to death!\""
+    },
+    {
+      "Key": "73bf5669-b28f-4493-a5cd-a3be0d4382f1",
+      "Value": "\"I didn't ask for your advice. Have a good day, former captain Caelysse.\""
+    },
+    {
+      "Key": "f9f5a747-1822-46a5-940e-8f33994851b1",
+      "Value": "\"I've changed my mind, and I accept your pledge. Continue to serve the city as you always have.\""
+    },
+    {
+      "Key": "f5ff8cf4-4071-4c0f-80de-e154f4be807a",
+      "Value": "\"They are under my protection. Do not stand in the way of honest people doing fair business.\""
+    },
+    {
+      "Key": "658fcdc0-a30d-4262-b3f8-db0031ea2fb6",
+      "Value": "\"They have every right to do business unless they disturb the peace.\""
+    },
+    {
+      "Key": "73bec803-9853-42a4-9807-26a33f2d1a76",
+      "Value": "\"You can throw them out of the city. I won't lift a finger to protect that scum.\""
+    },
+    {
+      "Key": "184357e9-f8a1-48e0-af86-d4a7233d0382",
+      "Value": "\"You can continue in your usual work – just don't forget to share!\""
+    },
+    {
+      "Key": "4d1e1268-badf-4f50-b1c5-7ec5a7544433",
+      "Value": "\"There is a whole delegation from {g|Pitax}Pitax{/g} to see you! They're standing by the doors, scowling at each other. It looks like they're about to come to blows!\""
+    },
+    {
+      "Key": "7c66a844-3a4c-4ef1-bebc-875a4b33a444",
+      "Value": "{n}{d|Liacenza}Gasperre Liacenza{/d} greets you with a polite bow.{/n} \"Your Highness. The old families, founders of Pitax, are grateful to you for sparing us of the usurper's tyranny. Allow us to assure you in our loyalty. None of the trade houses seek the {g|Pitax}Pitaxian{/g} crown – which is rightfully yours, of course. If it would please you to appoint a governor to oversee the city, all the four families humbly recommend me for this position.\""
+    },
+    {
+      "Key": "eaf85d75-1070-4f1c-b140-6e6d2a30ad50",
+      "Value": "{n}{d|Vereel}Kharne Vereel{/d} stares at Gasperre with dim, bloodshot eyes.{/n} \"Your Highness... Of course, it wasn't always peaceful between us. – The thieves' guild used to fight against you a little... But that's all water under the bridge, right? Irovetti's rule has ended, and the guild, represented by me, promises you our support and a share of our profits. Speaking of profits... If you appoint me as governor, then your share will make you gasp!\""
+    },
+    {
+      "Key": "1ad56887-ad6d-401b-bb96-9067ac5d9687",
+      "Value": "{n}{d|Stefano}Stefano Moskoni{/d} makes an formal low bow, hiding his mischievous smile.{/n} \"Well, justice was served. The usurper is dead, long live the rightful ruler! If my recollection is correct, you mentioned our arrangement in the square, before the whole city – something about the governor's position? I have certainly upheld my end of the agreement. Now it's your turn.\""
+    },
+    {
+      "Key": "042eb050-6e72-4ac9-8bfe-30d15220ae56",
+      "Value": "\"Thank you for your trust. Allow me to pledge our allegiance once again – both mine and that of all the old families.\""
+    },
+    {
+      "Key": "f4df3d20-4582-419e-9a42-ac44e9ff4132",
+      "Value": "{n}The gnome smiles and rubs his hands together.{/n} \"Sweet, sweet... You will see, Your Highness, you've made no mistake!\""
+    },
+    {
+      "Key": "ce3bface-2e49-486b-a35d-ccbae1ed7699",
+      "Value": "{n}A broad smile blooms on Stefano's face. He bows to the floor again.{/n} \"Thank you from all my heart, Your Highness! I won't let you down.\""
+    },
+    {
+      "Key": "9162f68e-c6ea-43e8-a7fd-bfe6e662d962",
+      "Value": "\"Writing this down... I'll find someone suitable from the lords and ladies of the court!\""
+    },
+    {
+      "Key": "6339d506-c1c2-46be-b841-81febda4efb6",
+      "Value": "\"So, we've decided on the governor... Would you like to say anything to the visitors or are they free to go? There's a whole crowd of them waiting in the hall!\""
+    },
+    {
+      "Key": "351e389d-880c-42e8-888c-7a4abe7e1581",
+      "Value": "\"A wise decision, Your Highness. The city will be safer and cleaner without him.\""
+    },
+    {
+      "Key": "8cb5bb7f-c7fc-4dac-9f22-8d4795ea6be5",
+      "Value": "\"Your Highness, but why?!\""
+    },
+    {
+      "Key": "27b5072e-0f6d-418f-ad8b-d39f642e850b",
+      "Value": "\"That's the fate of all turncoats.\""
+    },
+    {
+      "Key": "e524cced-32ec-41bf-b1f2-94906f10c50e",
+      "Value": "\"You won't get away with this – do you hear me?! The guild will find you! You'll be weeping blood! You'll eat your own guts!\""
+    },
+    {
+      "Key": "6700845a-ef7f-463b-8366-7ea64a89c170",
+      "Value": "\"Ha ha... Serves him right!\""
+    },
+    {
+      "Key": "332ddbd4-365c-4f73-9c71-67012771bb69",
+      "Value": "\"That fop should have hung a long time ago!\""
+    },
+    {
+      "Key": "265c243a-fd2d-447f-b3ba-5d80f248015b",
+      "Value": "\"So this is what your promises are worth?! I should have guessed, and fled while I had the chance.\""
+    },
+    {
+      "Key": "0122175b-6f16-4829-a41e-c97fef74b3b4",
+      "Value": "\"I see the old families are out of favor!\""
+    },
+    {
+      "Key": "79a88d56-68e7-4a69-a457-753c9c0c3f52",
+      "Value": "\"Farewell, Kharne Vereel. No one in Pitax will miss you.\""
+    },
+    {
+      "Key": "b89ae6e8-47dc-4217-b7d9-9eaf94e9a863",
+      "Value": "\"You must decide the fate of the {g|Academy of Grand Arts}Academy{/g}!\""
+    },
+    {
+      "Key": "564a3381-6d34-4f65-9ef0-ce2b101e1a3c",
+      "Value": "{n}The guards drag away the gnome, kicking and screaming.{/n}"
+    },
+    {
+      "Key": "b29c26bc-8028-4073-936b-e64c7d94d2d4",
+      "Value": "{n}The guards take away Gasperre, who is as pale as a sheet.{/n}"
+    },
+    {
+      "Key": "64f5c416-31e0-423c-8825-e27b0b9d9715",
+      "Value": "{n}Stefano is escorted away by the guards, his chin pointed proudly skyward.{/n}"
+    },
+    {
+      "Key": "af8be305-06fb-4325-8e38-5e362e29fe80",
+      "Value": "\"Your Highness, {d|Atalia}I{/d} ask that you relieve me from my post as headmaster of the {g|Academy of Grand Arts}Academy{/g}. After all that has happened, I am hardly worthy of keeping it.\""
+    },
+    {
+      "Key": "9c4eefec-3311-45ea-b00b-fab0bdb2641f",
+      "Value": "{n}{d|Annamede}Annamede Belavarah{/d}, the most famous bard in all of {g|Pitax}Pitax{/g}, gives you a charming smile.{/n} \"For the first time, I completely agree with my respected colleague. And if you don't have another candidate for the position, please allow me to offer my services!\""
+    },
+    {
+      "Key": "5eb7aea0-e2ea-4ed5-bb84-bae032089d56",
+      "Value": "\"It appears we don't have any candidates for the role of {g|Academy of Grand Arts}Academy{/g} headmaster... Why don't we then hold an election among the teachers?\""
+    },
+    {
+      "Key": "8ef4b76d-a141-4134-9d8f-93c98e63ef6e",
+      "Value": "{n}Atalia looks down and quietly replies.{/n} \"As you wish, Your Highness.\""
+    },
+    {
+      "Key": "5840bc9a-9594-46bd-bd97-ae4273ca6787",
+      "Value": "\"Well, I can't say I'm surprised. Lady Gitaren is not only competent, but also extremely pliable, accommodating, and efficient! Let her serve you as diligently as she served Irovetti!\""
+    },
+    {
+      "Key": "4cbbffd2-418d-471b-8f4d-976a14d685f0",
+      "Value": "\"Is that all? There is anyone else who can't wait to be seen?\""
+    },
+    {
+      "Key": "254e3157-d986-4984-af61-33509c542e69",
+      "Value": "\"Thank you, Your Highness. Lady Belavarah, I wish you all success in your new role, from the bottom of my heart.\""
+    },
+    {
+      "Key": "f7384986-5857-4aa7-a5f4-234d4a712efc",
+      "Value": "\"Thank you, Your Highness – it's a great honor! Apparently I was right about you. I shan't disappoint you either, I promise.\""
+    },
+    {
+      "Key": "e2335ff7-cca5-4d41-89f2-5e31dd02f308",
+      "Value": "\"Really? Well, that's even better! Let some other candidates have their fair chance.\""
+    },
+    {
+      "Key": "97106c8c-7bc5-42ad-8850-390e7b716e14",
+      "Value": "\"Thank you, Your Highness. That would indeed be the right thing to do.\""
+    },
+    {
+      "Key": "17698c8c-a352-4b8d-91df-a37ffceaf209",
+      "Value": "{n}Linzi's face becomes a little sad, but then she nods.{/n}"
+    },
+    {
+      "Key": "30afa466-441c-451f-a844-fc4039ab7d47",
+      "Value": "\"That's a big mistake, Your Highness. – An unforgivable mistake. Do you really care nothing of how history will remember you?\""
+    },
+    {
+      "Key": "a93cca59-e784-4980-bb41-85304aa9a042",
+      "Value": "\"It's a pity... But maybe it's the right thing to do.\""
+    },
+    {
+      "Key": "696bf48f-c95e-45a0-b169-caa9de74a04a",
+      "Value": "{n}Atalia lowers her head.{/n} \"I... Deserve this.\""
+    },
+    {
+      "Key": "eaff3967-398c-4da0-86d2-77e07addd161",
+      "Value": "{n}A blissful smile glows on Annamede's face.{/n}"
+    },
+    {
+      "Key": "d5918de0-0650-4c11-af3b-070600cdaa50",
+      "Value": "{n}Atalia falls limp and leaves with the guards.{/n}"
+    },
+    {
+      "Key": "f7e000bd-6a1a-4542-b012-144bc940e7fb",
+      "Value": "\"What?! No! You wouldn't dare! For what?!\""
+    },
+    {
+      "Key": "e5671408-e3da-400c-a3ff-3a6cf76841fd",
+      "Value": "{n}The guards take Annamede away, swearing and kicking.{/n}"
+    },
+    {
+      "Key": "e40c5c30-e3a2-4ee2-983d-9873dd456d96",
+      "Value": "\"What a wonderful decision! I'm sure the teachers will elect the most worthy candidate from among themselves!\""
+    },
+    {
+      "Key": "5bf32067-9a69-429a-b281-72ac297091f9",
+      "Value": "{n}Linzi covers her face and turns away.{/n}"
+    },
+    {
+      "Key": "9d2629ea-8ff4-4b53-9f19-e41d459e5586",
+      "Value": "\"Well, we're done with the guards. Who else is left...\""
+    },
+    {
+      "Key": "7c143f89-26ac-43af-9fb1-f0562bba0cc7",
+      "Value": "\"Ah, yes! {d|Ilora}Ilora Nuski{/d} and her River Razors!\""
+    },
+    {
+      "Key": "58ded152-9f2d-4b6e-8240-3328b9c5a462",
+      "Value": "\"No one else. Well, what a day! I see it's not easy to rule. I'd rather break up a pack of wyverns than live through another day like this!\""
+    },
+    {
+      "Key": "ca8e0c59-747e-48bb-a4e2-2a6889acb35f",
+      "Value": "\"Hello, Your Highness! Well, I'm... What's next? To be honest, my fellows and I got so much loot storming the palace that we could live in comfort to a ripe old age. – But I think it's still a little early for us to retire. Will you hire us to serve you? We've shown ourselves in battle, and we promise to serve you faithfully and loyally!\""
+    },
+    {
+      "Key": "301f1072-f8b9-4856-bbc2-db3af14f3a8d",
+      "Value": "\"It's a deal! Oh, I mean, at your orders, Your Highness!\""
+    },
+    {
+      "Key": "e6f37ccc-7888-4a95-a4c0-59b4dd50bb47",
+      "Value": "\"Yes, yes, how could I expect anything else? Very well, no hard feelings. Goodbye and good luck!\""
+    },
+    {
+      "Key": "72ffd689-5961-48c4-9a80-b9d31ccce6f1",
+      "Value": "\"What?! But I... You scum! Damn you! You and your whole blasted kingdom!\""
+    },
+    {
+      "Key": "aa8aa4c0-7263-4d7a-b4d4-be106b38fddf",
+      "Value": "\"Ha ha! As you wish, Your Highness! And don't you worry, you'll be getting your share on time!\""
+    },
+    {
+      "Key": "4d5604d2-1b88-4008-9f24-01c36a6f2102",
+      "Value": "{n}{d|Vereel}Kharne Vereel{/d} stares at Gasperre with dim, bloodshot eyes.{/n} \"Your Highness... I think the thieves' guild fully proved its loyalty, by supporting you against Irovetti. We promise you our complete support – and a share of our profits, of course. If you appoint me as governor, your cut of the profits will leave you gasping!\""
+    },
+    {
+      "Key": "32f6eacf-1a33-4f14-9a9e-bcae3a26fedd",
+      "Value": "{n}{d|Annamede}Annamede{/d} bows gracefully and gives you a charming smile.{/n} \"Congratulations, Your Highness. {g|Pitax}Pitax{/g} is at your feet – and as promised, I {d|c51 Annamede Help}contributed{/d} to your victory. Now it's your turn – will you hold up your end of our arrangement?\""
+    },
+    {
+      "Key": "68d39739-0bad-4753-9496-a10a49ecf489",
+      "Value": "\"Because that's the order, as set by the first kings of {g|Pitax}Pitax{/g}. The city guard has always served as a counter-balance to the trade houses – even whichever one presently holds the crown. We exist to guard the city's peace and prevent a bloody power struggle. That's why we answer not to the king, but to the people.\""
+    },
+    {
+      "Key": "e993a93a-69e5-4b1d-acf0-3f6c35028978",
+      "Value": "{n}Annamede listens to your words with a crooked smirk.{/n} \"Well, I can't say I'm surprised. This is the last time I take a job without being paid up front.\""
+    },
+    {
+      "Key": "f82e685a-accf-4c6e-b6c5-51a8527efd69",
+      "Value": "\"Irsei Caelysse, captain of the guard, comes to pledge allegiance to his {mf|King|Queen}.\""
+    },
+    {
+      "Key": "8bd827de-12bf-46ee-9ca7-d5805eb5b716",
+      "Value": "{n}Irsei Caelysse greets you with a reserved bow.{/n} \"Your Highness. According to the traditions set forth by the first kings of {g|Pitax}Pitax{/g}, I have come to pledge my allegiance to the city and its citizens, before you and the crown. I shall serve Pitax faithfully and loyally, to my dying breath, and guard the peace of its streets.\""
+    },
+    {
+      "Key": "191ff08c-d16c-40bc-a2a3-7fcbeb6c2b3d",
+      "Value": "\"This is impossible, Your Highness. The captain of the guard is elected by the citizens, from candidates proposed by the officers. – And only officers of the guard can demote him. This was the arrangement set forth by the first kings – expressly to protect the guard's role.\""
+    },
+    {
+      "Key": "efed4926-0f34-47f8-8b97-e98c6bdd765d",
+      "Value": "\"Thank you, Your Highness.\""
+    },
+    {
+      "Key": "f70d6508-cb16-4a97-9124-f855bbded8a5",
+      "Value": "\"This is a rash decision, Your Highness. It may cause civil unrest.\""
+    },
+    {
+      "Key": "e7f84de2-8a7c-4e7e-b51e-7741d4188c22",
+      "Value": "\"I admit it won't be easy with this new governor... But the city has been through worse. We'll be fine.\""
+    },
+    {
+      "Key": "b1ce93f4-6fdb-45c8-8013-47541010abd6",
+      "Value": "\"I must say, now that you so wisely spared the city of that scoundrel Kharne Vereel, it will be much easier to keep order.\""
+    },
+    {
+      "Key": "f529de95-539b-49e2-a384-24ae80ffb9ab",
+      "Value": "\"I admit, your choice of business {d|c51 Drugs Kingdom}partners{/d} won't make our job any easier... But the city has been through worse. We'll be all right.\""
+    },
+    {
+      "Key": "506957c2-f5d3-45ef-8bf0-ca6d68f40c9f",
+      "Value": "\"Allow me to ask you something. How do you feel about Kharne Vereel's so-called thieves' guild – dealers who, under Irovetti, flooded the city with {g|Numeria}Numerian{/g} drugs?\""
+    },
+    {
+      "Key": "f253ea77-72f5-4ac7-aae8-d4bef388a5ae",
+      "Value": "\"This is not what we arranged before the battle... But I can't say I'm surprised.\""
+    },
+    {
+      "Key": "a9d51e82-b8f0-4e27-ba43-78f918bb4906",
+      "Value": "\"Very well, I shall take my leave.\" {n}Saluting you, Irsei Caelysse leaves the throne room.{/n}"
+    },
+    {
+      "Key": "3f191fa6-d28c-464f-ac49-70665b57d244",
+      "Value": "\"It's good to see that the new {mf|King|Queen} is a {mf|man|woman} of honor, and {mf|his|her} {d|c51 Irsei Help}promises{/d} are worth something.\""
+    },
+    {
+      "Key": "8a6be490-8eff-436c-8b29-0a939674b079",
+      "Value": "{n}Pursing his lips, Irsei looks you right in the eye.{/n} \"I understand, Your Royal Highness. It appears that not much will change in the city, despite the change of ruler.\""
+    },
+    {
+      "Key": "5d8efc8c-70f2-434f-9149-5e65c3bf7fc5",
+      "Value": "{n}Irsei nods, and something remotely resembling a smile shows on his stern face.{/n} \"Thank you, Your Highness.\""
+    },
+    {
+      "Key": "387eb86a-9a57-4bf5-918b-70f24a3650fd",
+      "Value": "\"Really? And I thought that {g|Pitax}Pitax{/g} had its worst days under Irovetti. Those times will soon seem our golden age...\""
+    },
+    {
+      "Key": "3a39e517-a845-445a-9325-4128eaad0679",
+      "Value": "{n}Measuring his pace, Irsei Caelysse leaves, accompanied by the guard.{/n}"
+    },
+    {
+      "Key": "e4e043c1-4df3-44e9-a3f7-d2519d5bf528",
+      "Value": "{n}With a gap-toothed grin, Ilora leaves the throne room.{/n}"
+    },
+    {
+      "Key": "2100af20-86ae-459e-ac37-9da67f16ab91",
+      "Value": "{n}The guards take Ilora away, paying no heed to her screams and curses.{/n}"
+    },
+    {
+      "Key": "af5e972a-c987-4fcd-982b-5b5f08396638",
+      "Value": "{n}The gnome smiles and rubs his hands together.{/n} \"Sweet, yes... There, back in Pitax, you made some promises, Your Highness. Good promises, yes. I'll send my people to work out the details of our deal, heh heh.\""
+    },
+    {
+      "Key": "6e4edc24-6a07-4014-827d-c24cb47fdcd5",
+      "Value": "\"You shouldn't have disbanded the guard. Can you imagine what'll happen to the city without it? Oh, my poor old Pitax!\""
+    },
+    {
+      "Key": "8a32faca-0007-4f12-b326-54c420bf4971",
+      "Value": "\"You returned the city to the old Trade Houses. Frankly, under all the velvet clothes and pretty words, they were just plain old bandits — but old and familiar ones, at least. I guess Pitax will soon go back to what it was like before Irovetti!\""
+    },
+    {
+      "Key": "64a051e4-3b9c-4d15-a9a6-ae3c402c1f10",
+      "Value": "\"The old Trade Houses are through. I won't cry for them: under all the velvet clothes and pretty words, they were just plain old bandits. You took the city away from them and gave it to... Well, some new bandits, I guess? I wonder how it'll change the face of Pitax!\""
+    },
+    {
+      "Key": "4c222d76-9757-4355-b8d2-9fd9de08f065",
+      "Value": "\"I wonder: what will happen to the city now?\""
+    }
+  ]
+}

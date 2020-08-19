@@ -1,0 +1,93 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "672113ce-2c03-4be2-a677-6c504be6c947",
+      "Value": "\"So you're from a noble family?\""
+    },
+    {
+      "Key": "81d7cae1-3ff8-43ec-9ed0-527e5af1a46d",
+      "Value": "\"Do you know where to find your family?\""
+    },
+    {
+      "Key": "403b7259-aee9-449a-b472-5e5047080975",
+      "Value": "\"What about Regongar? Did you learn anything of his past?\""
+    },
+    {
+      "Key": "3340333c-5cb8-4150-bffd-1f419e58eb88",
+      "Value": "\"Fine, I'll travel with you to Della Fiorni manor.\""
+    },
+    {
+      "Key": "169645f6-940c-4c90-83e5-84ca2c929f72",
+      "Value": "\"You should forget about it. Nothing good will come of you meeting your mother.\""
+    },
+    {
+      "Key": "f8e7ebc3-dd04-4cca-9c01-e64af081ef54",
+      "Value": "\"No. I'm against this trip.\""
+    },
+    {
+      "Key": "06f44e1d-8f8f-4805-b0a6-463de00bcc86",
+      "Value": "\"How did you discover all this?\""
+    },
+    {
+      "Key": "ef7469bd-c808-4a75-8d09-a0feddd4293c",
+      "Value": "\"As you wish, Your Excellency. It would be an honor to serve you on this excursion.\""
+    },
+    {
+      "Key": "35b7925c-c8a8-4265-a10f-96a0ba6a0d43",
+      "Value": "{n}Octavia pensively fiddles with a small metal trinket while she waits. It takes her a moment to notice you as you approach.{/n} \"Oh... Hi. It seems we haven't been properly introduced. Allow me: Octavia Della Fiorni, heir to a noble title, a family manor... even a coat of arms with a motto.\""
+    },
+    {
+      "Key": "b4c93b0e-635f-40d7-9b19-05dd90f82cd0",
+      "Value": "{n}With a sad smile, Octavia shows you the trinket she was playing with. It's a fibula, decorated with a coat of arms — a butterfly and an arrow. At the bottom you see the motto: \"Serve solely my conscience.\"{/n}"
+    },
+    {
+      "Key": "3c40f3b4-ed49-4d64-ac09-169c0bd4b48c",
+      "Value": "\"I could hardly believe it myself, but there's no doubt — I'm the missing daughter of Marchioness Della Fiorni. 'Missing'... That's what they're calling it.\""
+    },
+    {
+      "Key": "9ced175b-9430-424f-83f5-96a22fb95871",
+      "Value": "\"There isn't one, really. The Della Fiorni family was waning before I was born. My mother's the last one. She's living in {g|Pitax}Pitax{/g}, in a small town house. I'm going to pay her a visit... and I'd like you to accompany me.\""
+    },
+    {
+      "Key": "2c832720-f03a-4fa0-a2ff-7829e25f7fae",
+      "Value": "\"Thank you. It means a lot to me.\""
+    },
+    {
+      "Key": "e8d282ad-6eb0-4b56-bdee-306a19807101",
+      "Value": "\"Even so, I still want to see her. I... I don't even want revenge! I just... need to know why.\""
+    },
+    {
+      "Key": "5a582d1c-a5e7-4932-b852-1bb289d53127",
+      "Value": "{n}Octavia sighs and turns away.{/n}"
+    },
+    {
+      "Key": "7b27bf73-9dd5-4778-8de4-dc4c5af65e0f",
+      "Value": "\"Yes, but he'll tell you everything himself.\""
+    },
+    {
+      "Key": "caf92a2f-b68a-4e09-ab02-67bc80370e74",
+      "Value": "\"It took a lot of work. After going through Janush's ledgers, not only did we find information about our purchase, we found a wealth of other data as well: connections, suppliers, meeting places... But tracking it all down ourselves would have required crossing half of the River Kingdoms and all of Numeria, and we couldn't abandon you!\""
+    },
+    {
+      "Key": "faa3fa9e-d777-4bf2-9b21-7e855efb59b9",
+      "Value": "\"So we did the boring but practical thing, like kings or their entourage might do — we hired a team of sleuths to follow the trail. And they found everything! Who bought us, who we'd been sold to, and where we're from.\""
+    },
+    {
+      "Key": "259ee2af-3c86-439b-89d0-331b5780105e",
+      "Value": "\"Finding my family was relatively easy. The marchioness was already looking for me herself — they just needed to put a few pieces together to realize I was the 'missing' heir of the Della Fiorni family. On the other hand, Reg's tribe had to be found with a looking glass. But it's no matter — we certainly paid them well for their trouble!\""
+    },
+    {
+      "Key": "c3d0702b-95ee-48cc-9ed7-da2e575beca9",
+      "Value": "{n}Octavia looks at you, confusion written across her face. At first she seems a little offended, but a moment later, she's bent in half with laughter.{/n}"
+    },
+    {
+      "Key": "fe6d8939-f600-4734-aaae-bad389d4d154",
+      "Value": "\"Excellency! Oh, I can't... My Ex-cel-len-cy! A highborn marchioness of the highest rank... Whew...\" {n}Octavia wipes tears of laughter from her eyes.{/n} \"Don't make me laugh so hard! Just look at me — devils take me, what kind of marchioness am I? You don't think I'm going to {g|Pitax}Pitax{/g} to inherit a title, do you?\""
+    },
+    {
+      "Key": "f06a3bbd-8a9c-4681-8c45-e5c8e774b9ce",
+      "Value": "\"But thank you anyway. The title's not important — I just want to see my mother.\""
+    }
+  ]
+}

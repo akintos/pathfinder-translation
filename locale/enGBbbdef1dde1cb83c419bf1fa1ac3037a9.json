@@ -1,0 +1,101 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "913336b4-95c6-4e83-830d-3827671abb5f",
+      "Value": "{g|Loyalty3_1}[Choice effects]{/g} [Gain 30 BP] \"Arrest that shifty merchant immediately! He'll answer for selling stolen goods, even if it happened before my time.\""
+    },
+    {
+      "Key": "c4a9c903-898e-4f57-8fa1-0a014afc9e69",
+      "Value": "\"I'd prefer to forget about this minor matter.\""
+    },
+    {
+      "Key": "72526c2a-8e3f-4f22-ae04-800b65764c74",
+      "Value": "\"Why don't you make your own decision?\""
+    },
+    {
+      "Key": "8e75654f-451d-4a04-b20f-4f37d6fbcddc",
+      "Value": "{g|Loyalty3_3}[Choice effects]{/g} \"I will issue an order for free pardons. Let the peasants keep out their countrymen's business.\""
+    },
+    {
+      "Key": "2c9b059c-4f7d-4d1f-93d4-533111c54e30",
+      "Value": "{g|Loyalty3_4}[Choice effects]{/g} \"Turn him over to the people. Let them do with him whatever they wish.\""
+    },
+    {
+      "Key": "23870f4c-2023-4a04-a0ea-a7a36af0d2a6",
+      "Value": "{n}There is a look of determination on Tristian's face.{/n} \"I bring bad news from your subjects. Today one of our citizens stopped me in the street, and asked me to tell you something of import.\" {n}Tristian ponders a while, as if he doesn't dare continue.{/n}"
+    },
+    {
+      "Key": "dfafe088-0ab4-44ab-a19b-e1887503d513",
+      "Value": "\"{mf|Your Grace|Your Grace|Your Highness|Your Highness}. A woman approached me on the street and asked me to tell you of, as she put it, a 'great injustice' in the capital.\""
+    },
+    {
+      "Key": "10b6cace-fc21-4a2b-8108-7ffbd87046a5",
+      "Value": "\"You see... one of the traders, who today sells imported specialties in the capital, has not always led an honest life. Under the Stag Lord, he helped the bandits sell stolen goods – for a percentage, of course. This scoundrel was far from the fort on the day you struck the decisive blow against the Stag Lord and his band, and today he continues trading in plain view of those who he recently helped rob!\""
+    },
+    {
+      "Key": "9a17c072-0175-401e-a652-328b8fffb833",
+      "Value": "\"I never rush to judgment. But you must at least arrest this merchant, to question him and give him a chance to repent. Think of those who see him in the streets every day – walking free and unpunished for his crimes! The people appeal to you for justice, {mf|baron|baroness|King|Queen}.\""
+    },
+    {
+      "Key": "2472ba6a-2e1e-452a-b5aa-86cf097271bb",
+      "Value": "\"It appears that one of the merchants doing business in the {mf|barony|barony|kingdom|kingdom} has been keeping silent about his previous ties to the Stag Lord and his bandits. This trader used his position to his advantage, offering his services as a tradesman to act as fence for the bandits' stolen goods. The merchant was away on the day you defeated the Stag Lord, and since then he's kept a low profile. The informant who brought this matter to our attention asks that you to give this trader his due.\""
+    },
+    {
+      "Key": "f11f466c-3952-4d46-9a16-8ffd85254354",
+      "Value": "\"I fear the people will continue to demand punishment for any who were able to profit during the times of trouble. If you want to know my opinion, you must to do more than simply ignore this bullying – you must issue a general pardon, for any who weren't directly involved in violence and vandalism. Don't give these squealers any more reason to stir up trouble, or you'll never hear the end of it.\""
+    },
+    {
+      "Key": "f8e5de58-92b4-4d6c-8771-ccbb83bd92b0",
+      "Value": "\"I shall order that this merchant be detained. Of course we will fully investigate all these rumors and get to the truth before we judge him.\""
+    },
+    {
+      "Key": "f2028319-b147-4b51-9451-01063cb81d80",
+      "Value": "{n}You see Shandra purse her mouth for a moment.{/n} \"I won't lie to you, saying I understand your decision. In this situation I would act quite differently. However, you are certainly in your own right.\""
+    },
+    {
+      "Key": "e60e1979-9c55-47fb-a769-51eeefe2a457",
+      "Value": "{n}Tristian looks away.{/n} \"I can't agree with this decision... but I understand your reasons.\" {n}The priest says no more, and falls deeply into thought.{/n}"
+    },
+    {
+      "Key": "994155cd-3cb4-41cf-ba8e-befbc8192a61",
+      "Value": "\"Hmm. If you think that will be enough...\""
+    },
+    {
+      "Key": "cfcfc659-5c4c-4f4f-9a99-a4c2f4c5c91f",
+      "Value": "{n}Tristian sighs.{/n} \"I will handle this. To do so, I will need to detain this merchant and speak with him. I'll see to it personally.\""
+    },
+    {
+      "Key": "150a5967-4073-447e-aa20-7cb5d9285883",
+      "Value": "\"Then I shall draft the general pardon. I am sure this will make all our lives more peaceful.\""
+    },
+    {
+      "Key": "722e0fb7-7101-4e04-ae64-dc90823aa45b",
+      "Value": "\"A wonderful decision, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. I shall prepare the order for you.\""
+    },
+    {
+      "Key": "65fb0122-b7af-4afa-bec4-05f1b68a62d6",
+      "Value": "\"{name}, my confidants tell me of a wicked person in the capital. Under the Stag Lord's reign, he trafficked in the bandits' stolen goods, but today he wears the mask of a decent man. But we know his hands are stained with blood from his ill-gotten gold.\""
+    },
+    {
+      "Key": "1a93d7bb-7732-4593-8ee9-10697ea4a45a",
+      "Value": "\"Oh, you deprive yourself of a pleasure... It's a genuine delight to look into the eyes of a man, chased down by a pack.\""
+    },
+    {
+      "Key": "465d7460-efcf-4d57-a1d3-6f6a598dcece",
+      "Value": "\"Your pack will never forget. If you fail to exercise your authority, then someday someone will seize it for themselves. That will be the consequence of your mistake.\""
+    },
+    {
+      "Key": "b519d0e1-c4d9-44de-8793-9dfa2987cb03",
+      "Value": "\"I'll put out the word you no longer take an interest in this merchant's life or well-being. Then we'll find the perfect spot to watch the chase!\""
+    },
+    {
+      "Key": "04a6009d-9d13-4159-b9dc-4d3749dfef5a",
+      "Value": "\"The people who were robbed by his cohorts surely know all about him. And surely, they want revenge. I expect he's not the only one in the {mf|barony|barony|kingdom|kingdom}. Whatever we subject him to, the same will happen to all the others who laid down with the bandits.\""
+    },
+    {
+      "Key": "d0182a60-b258-4129-b6ed-f3ea70032e69",
+      "Value": "\"What would you like to do with him? Grant him your protection? Send him to prison? I see no crime in his actions, but punishing him will make your pack love you. Let the crowd savage him, and they'll remember it was you who let them taste his blood. They will adore you for it.\""
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "1b814f1d-6b06-40da-915c-ac5a3dc46124",
+      "Value": "\"Thank you. This will prove useful. You may go now.\""
+    },
+    {
+      "Key": "d75b66c3-b246-439f-b93d-5ea64b14cbe0",
+      "Value": "\"I no longer require your services, Bokken.\""
+    },
+    {
+      "Key": "f9f31a6f-6c5e-4e80-8f4f-6dfa21d15f7b",
+      "Value": "\"I would like you to craft something specific.\""
+    },
+    {
+      "Key": "8c8a547b-e3fd-4125-b899-7ca609b4dbd1",
+      "Value": "\"I'm running low on potions.\""
+    },
+    {
+      "Key": "a1cac896-e232-4ae2-8f0b-3bd6218e4529",
+      "Value": "\"I need more of your oils and ointments.\""
+    },
+    {
+      "Key": "265fc802-146a-48b1-8b21-fd03763498c2",
+      "Value": "\"I could use another one of your alchemical items.\""
+    },
+    {
+      "Key": "757f7f47-9b5f-4895-a842-2bf4429e5eed",
+      "Value": "\"On second thought, I've changed my mind. Just make whatever you think will turn out best.\""
+    },
+    {
+      "Key": "d21019f9-c410-4fa3-90a6-a634cc8104f8",
+      "Value": "\"Remind me, who you are and what are you working on?\""
+    },
+    {
+      "Key": "883b00ae-1abe-4d38-bee5-0ab101d98643",
+      "Value": "{n}Unfazed by the awkward silence, {d|Bokken}Bokken{/d} searches through his bag for quite a while. Finally, he pulls out a sizeable brown paper package.{/n} \"There you go. A little something from old Bokken.\""
+    },
+    {
+      "Key": "091659c0-7ecc-4c77-bba5-b75f62923781",
+      "Value": "\"If you ever need anything in particular, just let me know. If you're not sure, I'll go home and think of something myself. My bones ache.\""
+    },
+    {
+      "Key": "83f81df8-949f-474b-8531-ed71732f6c78",
+      "Value": "\"My pleasure.\" {n}Bokken gives you a sideways look, then turns his eyes to the ceiling.{/n} \"I only hope that no one throws it away or leaves it to rot in some old chest. Oh well…\""
+    },
+    {
+      "Key": "c26776ad-7573-4a0a-8b8b-0c554321ea74",
+      "Value": "{n}Bokken nods and pulls a piece of coal and a scrap of paper from his sleeve. He takes his time smoothing it out before giving another solemn nod.{/n}"
+    },
+    {
+      "Key": "e53d6db1-a50e-407e-8e45-122a3589bdff",
+      "Value": "{n}Bokken frowns and sticks out his lower lip.{/n} \"What, one of your lackeys spit in your porridge this morning? What did the old man do this time? I bring you a present, and you send me away. You city-folk are a bad lot, I tell you...\""
+    },
+    {
+      "Key": "ab6d9fe7-ed81-471e-9608-30a4d7a15c91",
+      "Value": "{n}Bokken carefully writes something down on his scrap of paper.{/n} \"Very good. And if you want to buy anything else – just come around.\""
+    },
+    {
+      "Key": "abec31a5-d84b-427c-92f1-6f4c8d944720",
+      "Value": "{n}Bokken picks his ear with the piece of coal, and hides it and the paper back in his sleeve.{/n} \"My choice, then? Fine.\""
+    },
+    {
+      "Key": "9b35424a-9e4a-4094-9b98-fd982f476c64",
+      "Value": "{n}{d|Bokken}Bokken{/d} looks different today. His pace is slow and solemn, his back proudly straight… It seems that he's even put on a different robe – though it doesn't look any newer or cleaner than his normal one.{/n}"
+    },
+    {
+      "Key": "21e4cc03-3191-4f90-8335-a23d38abcf21",
+      "Value": "\"Perfect! You won't regret this!\""
+    },
+    {
+      "Key": "73f273fb-f590-4ec6-b60a-599d27fe29b1",
+      "Value": "\"Oh, and while I'm here… There's a book that I've always wanted to read. 'Of Transmutations and Bodily Poisons'. In three volumes. If you were to find it for me, I could produce something… most remarkable for you. Something that might even…\" {n}Bokken cuts himself short.{/n} \"Oh well, there's no use in empty words. But they say there's an ancient formula hidden in one of these books. Bring me the books, and I'll brew the potion for you.\""
+    },
+    {
+      "Key": "e20326e5-df33-4c4e-a956-f257a9db57b1",
+      "Value": "\"I know that the Old Beldame – the old witch who lives in the swamp – had one of these volumes in her hut, gathering dust. She must still have it for sale, I imagine. As for the other two volumes, I have no idea. You might look in a magic shop. Or in the bookcases and locked drawers of other alchemists, if you happen to across their possessions in your adventures.\" {n}Bokken grins, bows to you and leaves the throne room with a shuffling walk.{/n}"
+    },
+    {
+      "Key": "81fcf459-d389-49da-998a-897ed718287c",
+      "Value": "\"Here it is, the potion! The things I had to go through to get this made… Sure, it doesn't bring back one's youth, but it does strengthen the body, sharpen the mind and embolden the spirit! And doesn't affect one's temper any longer, ha ha.\""
+    },
+    {
+      "Key": "7a602b88-daf1-4dec-a594-8b6d523736f0",
+      "Value": "\"And one more thing… You remember that potion you helped me test?\" {n}Bokken gives you a conspiratorial wink.{/n} \"Well, it's almost ready! I got rid of all the rot that was spoiling the formula, and now it works just fine. I just need to brew a large enough dose, and that takes time. Unless you have another assignment for me, you'll have the elixir the next time we meet!\""
+    },
+    {
+      "Key": "8e69464d-a64b-4ef6-be68-e701f51eab01",
+      "Value": "\"I do hope this helps.\" {n}Bokken smiles and bows to you.{/n}"
+    },
+    {
+      "Key": "27e35def-f0e4-49c4-a212-fb2b672a3c28",
+      "Value": "\"Try the potion, won't you? It's the best I've ever brewed! My life's work, one could say.\" {n}Bokken smiles and bows to you.{/n}"
+    },
+    {
+      "Key": "604831e5-b00a-4b25-9ac2-a12b7bd2a570",
+      "Value": "\"It's me, good old Bokken. And they say old men get poor memories, hah! I'm your humble alchemist. I brew potions and oils, and study ancient formulas for transmutation. I'm going to make a very special elixir once my studies are complete. One that'll refine your spirit, and mind, and body alike!\""
+    }
+  ]
+}

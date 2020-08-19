@@ -1,0 +1,49 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "1cb2483c-ba4a-48fe-b650-33db99cfcd7b",
+      "Value": "\"How did you come to be in these lands, Jhod?\""
+    },
+    {
+      "Key": "720e8682-980d-4721-8352-01ed4f78bcf7",
+      "Value": "\"And where is this temple?\""
+    },
+    {
+      "Key": "5aa5872a-7f40-4819-8e83-6f2682cc3a89",
+      "Value": "[Conditionally Release Jhod] \"I hope you won't forget to reward your rescuer, old man!\""
+    },
+    {
+      "Key": "582e6385-0a80-477f-acd9-d6108a2c63a3",
+      "Value": "[Release Jhod] \"I'm glad I could help.\""
+    },
+    {
+      "Key": "ded4dcd9-99ea-47f9-b872-a13b5d8e1b83",
+      "Value": "{n}You see a dark-haired man of about forty-five, though the wrinkles on his face make him look sixty at first sight. He's currently a prisoner, judging from his tied hands. He slouches a bit, squinting shortsightedly at the light as he moves his lips as though speaking to someone invisible. He jerks his head up as he notices you.{/n}"
+    },
+    {
+      "Key": "4e78b97c-617a-4e75-adfd-9f68b9e9d31a",
+      "Value": "\"Praise {g|Erastil}Erastil{/g}, someone finally chased off those scoundrels! Thank you, stranger. My name is Jhod Kavken. I'm a priest of Erastil, from {g|Galt}Galt{/g}. Those bandits attacked me as I was crossing the river, said they wanted to take me to their leader, make me heal their wounds. Not a chance! The strength granted me by Erastil is meant to help honest people, not robbers!\""
+    },
+    {
+      "Key": "704d4d12-0c5f-4562-93b7-f498450d2122",
+      "Value": "\"I was led here by visions, sent by the {g|Erastil}Elk God{/g},\" {n}Jhod says with veneration.{/n} \"Erastil showed me that somewhere in this wild land lies the Temple of the Elk — an ancient shrine, forlorn and desecrated. I saw the ruins of the temple, and the shadows of a predator lurking in sorcerous fog. I felt the echoes of the vicious rituals performed at the once blessed place. I have no doubt — Erastil revealed all this to me so I could stop the ungodly sorcery that's desecrating the temple!\""
+    },
+    {
+      "Key": "2237b569-0335-46f7-b46f-606d830be888",
+      "Value": "\"That I don't know. Visions, even divine ones, are often vague and unreliable. I know only that the temple is somewhere near, in the {g|Narlmarches}Narlmarches{/g}. But I'm afraid I won't be able to find it myself, what with bandits lurking around every corner in this place...\" {n}Jhod shakes his head sadly.{/n}"
+    },
+    {
+      "Key": "41f11c79-929a-4ac5-9706-cc4082ce5cd9",
+      "Value": "{n}Jhod mutters a bit, rubbing his hands.{/n} \"Oh, these times — to be as surprised to meet an honest {mf||wo}man as to see a manticore at a vegetable stall! Thank you for your help. I've exhausted my supply of prayers, but I'll gladly repay you in the future, once I've restored my strength. Come to me if you ever need to be healed or blessed.\""
+    },
+    {
+      "Key": "4e375028-32ef-4211-a4f2-28969afeacb1",
+      "Value": "{n}Jhod shakes his head in disapproval.{/n} \"You think me some ingrate? I may have exhausted my supply of prayers, but I'll be ready to heal you or bless you once I've recovered my strength.\""
+    },
+    {
+      "Key": "0072a5d7-bfb1-4cc3-b364-00d4bed1670f",
+      "Value": "\"I'm afraid an old fool like me won't be able to handle the mission given me by {g|Erastil}Erastil{/g} on my own. How can I search for the temple when the bandits around here won't let me take a single step? I'll head to {g|Oleg's Trading Post}Oleg Leveton's Trading Post{/g} to rest and think on what to do next. Please, traveler, if you happen to discover the ruins of the Temple of the Elk, come inform old Jhod! My gratitude will know no bounds.\""
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "e2c562e5-5f85-4b44-803a-884811a0779f",
+      "Value": "[Approach the two openly]"
+    },
+    {
+      "Key": "db3320a5-0f7a-4d17-b8cc-cce8c1efbe80",
+      "Value": "[Eavesdrop from a distance]"
+    },
+    {
+      "Key": "fb32e48c-9e74-4a40-8c9d-a1e596f96bef",
+      "Value": "[Creep closer to listen to what they're saying]"
+    },
+    {
+      "Key": "3132419c-a996-4e44-909a-b8eedb8de94a",
+      "Value": "[Ignore the two men]"
+    },
+    {
+      "Key": "aeadfcf4-c3a9-41c0-8a17-034643e20745",
+      "Value": "\"I've helped a lot of people, but most have the decency to introduce themselves to me first.\""
+    },
+    {
+      "Key": "e5c0deb9-264f-4443-b5ae-d7e7507c7235",
+      "Value": "\"Wait, what am I doing now?\""
+    },
+    {
+      "Key": "abb53b8d-2cb4-4b8a-8c67-3affc811ec05",
+      "Value": "\"Who was that you were talking to?\""
+    },
+    {
+      "Key": "f7d1e839-f013-48fe-b7cc-3373d392ad25",
+      "Value": "\"What seems to be the problem?\""
+    },
+    {
+      "Key": "61af7d01-8204-4036-832d-a9758575f035",
+      "Value": "\"I don't have time for this.\""
+    },
+    {
+      "Key": "6ca7d2f2-900e-4453-8001-75627838958a",
+      "Value": "\"I gather you know each other pretty well?\""
+    },
+    {
+      "Key": "e00b57de-707e-480d-8b6a-88c8ddd31cef",
+      "Value": "\"Find somebody else to do the job.\""
+    },
+    {
+      "Key": "872f885c-acc1-4bfe-bed3-13cb01eea1ec",
+      "Value": "\"Before I accept, I have questions.\""
+    },
+    {
+      "Key": "d454a55c-991c-4eb5-a217-d1863f43f35e",
+      "Value": "\"I am always ready to thwart river pirates. I accept.\""
+    },
+    {
+      "Key": "52b0b5cc-6ca3-43a8-8f7a-a9820598dfe5",
+      "Value": "\"What did you need from me again?\""
+    },
+    {
+      "Key": "f03956dd-821c-4ed1-a69e-50ee4e26bdef",
+      "Value": "\"How many pirates are out there?\""
+    },
+    {
+      "Key": "544d0a99-4588-41fe-8da3-1dc6ed5584f2",
+      "Value": "\"Why does Talwyn disapprove of this plan?\""
+    },
+    {
+      "Key": "ebfbfa30-9e76-4e4a-b792-485bbaa549a5",
+      "Value": "\"Why hasn't the king acted against the pirates?\""
+    },
+    {
+      "Key": "91a50dc4-7d27-4d2b-87dc-fb4cd1bfab3e",
+      "Value": "\"Is there a reward?\""
+    },
+    {
+      "Key": "8ec53dfc-03df-4363-b8e9-9198f47a1a34",
+      "Value": "\"I know enough to make my choice.\""
+    },
+    {
+      "Key": "1c2fe3c1-dc39-4852-823c-090b2674625d",
+      "Value": "\"I've decided to help you.\""
+    },
+    {
+      "Key": "3029a169-eece-4671-b26e-3b93a24c351d",
+      "Value": "\"Between a mortal and an angel, for example?\""
+    },
+    {
+      "Key": "7871c3b1-4ffc-4b47-a79f-e5de8cc3a056",
+      "Value": "\"Shush! Don't interrupt!\""
+    },
+    {
+      "Key": "065e805b-46b2-464d-9f47-f2694b8d38fa",
+      "Value": "{n}Amid the tournament's frivolity, you notice that two men nearby are having a heated but hushed discussion. One wears flashy clothing fit for an entertainer, whereas the other wears the steel armor and red cloak of {g|Pitax}Pitax's{/g} guard. It's difficult to hear what they're saying.{/n}"
+    },
+    {
+      "Key": "1a96538e-1767-4044-acfb-7289e6e27852",
+      "Value": "{n}The two huddle near one another as they speak, and due to the ambient laughter and music, you can only overhear part of the conversation.{/n}"
+    },
+    {
+      "Key": "8f94e488-4e65-4547-9b68-5a348b7f2ef8",
+      "Value": "{n}The guard sternly chides the entertainer.{/n} \"...up to, Eimar, but I know that look. You're planning something...\""
+    },
+    {
+      "Key": "f385a613-18b0-4676-a86a-81528f4a1058",
+      "Value": "{n}Eimar interjects, motioning to the festival.{/n} \"...Talwyn. This celebration? It's just... we had planned for, but... can we really stand by?\" {n}He begins to raise his hand and strike a pose as if preparing to make a bold declaration.{/n}"
+    },
+    {
+      "Key": "9867c174-1adb-42ae-8758-6434c056625a",
+      "Value": "{n}The guard's hand intercepts Eimar's arm, firmly preventing the entertainer from making a scene.{/n} \"...I've seen it with my own eyes, and it... especially like you.\""
+    },
+    {
+      "Key": "50868357-0037-4d31-beed-6615b7fcfce2",
+      "Value": "{n}Eimar says a few comforting words before removing Talwyn's hand from his arm.{/n} \"...{g|Pitax}Pitax{/g} needs now is action, and I intend to act.\""
+    },
+    {
+      "Key": "4f54276c-1831-4f3c-b6bc-12161756b0a7",
+      "Value": "{n}Although the two huddle near one another, their voices only occasionally rising above the ambient laughter and music, you're able to overhear the rest of their conversation.{/n}"
+    },
+    {
+      "Key": "dfd4a0a1-4744-46ba-8b05-398f4804086e",
+      "Value": "{n}The guard sternly chides the entertainer.{/n} \"I don't know quite what you're up to, Eimar, but I know that look. You're planning something — something dangerous. This isn't the time; you know he's become harsher about-\""
+    },
+    {
+      "Key": "fbdbdc76-81df-48fa-988c-d7be5ebb4df8",
+      "Value": "\"Look around you, Talwyn.\" {n}Eimar interjects.{/n} \"This celebration? It's just more blood and sport to cover for the ongoing troubles, and we've both helped shepherd it along. This isn't the future we had planned for, but it's the one the fates have dealt. Can we really stand by?\" {n}He begins to raise his hand and strike a pose as if preparing to make a bold declaration.{/n}"
+    },
+    {
+      "Key": "b3b0ef6e-9a12-4a97-8e15-085a7376bece",
+      "Value": "{n}The guard's hand intercepts Eimar's arm, firmly preventing the entertainer from making a scene.{/n} \"You know how harsh justice is these days. I've seen it with my own eyes, and it would crush me to see noble intentions harming good people, especially like you.\""
+    },
+    {
+      "Key": "96f9c3d6-4233-4d9d-b527-f65fa3ad4a97",
+      "Value": "\"I appreciate those feelings. I do.\" {n}Eimar gently removes Talwyn's hand from his arm.{/n} \"But what {g|Pitax}Pitax{/g} needs now is action, and I intend to act.\""
+    },
+    {
+      "Key": "3cd1b917-3868-42ba-922e-602e9a9006a5",
+      "Value": "{n}The entertainer looks up, spots you, and smiles as Talwyn frowns and sadly walks away.{/n} \"It's a rare day that life emulates screenplays, Your Highness. Could it be that heroes have arrived in the people's time of need?\""
+    },
+    {
+      "Key": "826d2e09-e16a-4555-bd01-5b19b862601c",
+      "Value": "\"Oh, heroism! That's exactly what we do! See that symbol on his clothing? That marks him as a member of the Red Crescent Theater in {g|Pitax}Pitax{/g}. A fellow artist!\" {n}She eagerly extracts her journal.{/n} \"Imagine the stories we could write together!\""
+    },
+    {
+      "Key": "dfaae1e6-c047-4594-897b-3fe234a9564e",
+      "Value": "{n}The entertainer hastily bows. {/n}\"Ah, my manners! I am Eimar Deschamps, a playwright and stage artist attracted here by King Irovetti's call for theatrical talent. I am also a student of local legends, which is how I recognized you.\""
+    },
+    {
+      "Key": "509eacb7-7688-49a9-90fa-04e279d396a6",
+      "Value": "\"That was sergeant of the guard Talwyn Halmarion.\" {n}Eimar glances briefly in the direction that Talwyn disappeared.{/n} \"He's the finest guardsman I've had the pleasure to meet. That might not seem impressive in {g|Pitax}Pitax{/g}, but you won't find anyone else with the same love for the country and its people.\""
+    },
+    {
+      "Key": "f3ebf7ef-f16e-43ac-85cf-7d2290bd67a4",
+      "Value": "\"He is my husband, yes, so perhaps I am biased. He's quite protective, and in {g|Pitax}Pitax{/g} that means keeping your head down and not speaking ill of the king. I can't afford to stay silent, though, and I'd appreciate your help.\""
+    },
+    {
+      "Key": "eef27c68-f5fd-4483-967e-ab54d8f947d8",
+      "Value": "{n}Eimar smiles and remarks,{/n} \"We've known each other for several years, ever since I immigrated here from {g|Taldor}Taldor{/g}. Even so, he's a member of the guard and wouldn't approve of my plans to help {g|Pitax}Pitax's{/g} people. That's where you enter the scene.\""
+    },
+    {
+      "Key": "bd3a06be-f49c-4414-84bb-fad7a2b3db78",
+      "Value": "\"I first arrived here five years ago, answering King Irovetti's call for artists and actors to make {g|Pitax}Pitax{/g} a new crucible for the arts. Admittedly, the king dedicated plenty of money to building new theaters and schools. Art only thrives, though, when there are visitors and patrons to pay for it.\""
+    },
+    {
+      "Key": "8654533a-1ec8-436b-9dad-6cf190197418",
+      "Value": "\"Now, when the king's soldiers cannot or will not vanquish the villains, what happens in the stories?\" {n}He winks and gestures knowingly.{/n} \"That's right — heroes step in. Numerous victims have told me of the attacks, and I have pieced together the approximate location of the pirates' camp. If you can ambush and defeat them, traffic will flow, commerce will thrive, and you'll command the adoration of the boatmen, dockworkers, artists, and more. Naturally, I'm prepared to write a play dramatizing your exploits. What do you say?\""
+    },
+    {
+      "Key": "2a165743-e1f2-43e2-953b-67d6c891ba89",
+      "Value": "\"The wisest protagonist always has questions. What would you like to know?\""
+    },
+    {
+      "Key": "a539fd8a-2969-46ed-9f60-609f5017011f",
+      "Value": "\"Ah, consider this a little preview. Good hunting!\""
+    },
+    {
+      "Key": "969a8d2e-cd00-4d1e-8ab4-644a799a7b87",
+      "Value": "{n}Jaethal unrolls the script and reads a few dozen lines. She winces and grimaces at several points before throwing the parchment to you. {/n}\"Utter drivel. This man is an amateur, and his work is affront to art.\""
+    },
+    {
+      "Key": "661deba0-3647-4946-be35-d6cfa7bfe438",
+      "Value": "{n}Eimar's shoulders slump.{/n} \"I suspect there may be nobody else who can do the job. I hope you reconsider.\""
+    },
+    {
+      "Key": "d260f4c5-3894-4802-9b64-ec132fcd3ccb",
+      "Value": "\"What will it be?\""
+    },
+    {
+      "Key": "361b9d47-ee45-43a5-aa25-7ce155d1609c",
+      "Value": "\"It varies by the report. The camp could have a few dozen, so you might try to take them by surprise.\""
+    },
+    {
+      "Key": "7184fd08-38a1-431b-8938-96939436a9b2",
+      "Value": "\"That's... complicated.\" {n}Eimar sighs.{/n} \"Dispatching the pirates would be a service to {g|Pitax}Pitax{/g}, yet it would circumvent the king's authority. That makes him look incompetent, and King Irovetti has quite the temper. Anyone making him look bad is at risk, and that includes me. I'm putting Talwyn in a difficult position. If he reports me, I end up imprisoned, no doubt. If he doesn't, his career is at risk. If you succeed, though? Maybe everyone wins.\""
+    },
+    {
+      "Key": "e9aa535d-1c7a-4de3-b5c7-a9eae963fc0f",
+      "Value": "\"That's unclear. It might be a lack of soldiers, or perhaps it's a lack of will. Leaving the pirates alone might also undercut political or economic enemies in some way, but at what cost?\""
+    },
+    {
+      "Key": "8b2a31e3-3fab-4501-bd2a-4df4459a3eb8",
+      "Value": "{n}Eimar laughs nervously.{/n} \"The term 'starving artist' was fairly common in {g|Taldor}Taldor{/g}. Perhaps you haven't heard it before? I do not have much wealth, but I can help you win the people's adoration. I also understand that among the theater's props are a few enchanted items of actual value, so perhaps I can entice you with those?\""
+    },
+    {
+      "Key": "12ee2f6b-d355-47d2-886c-3f4fbab6f573",
+      "Value": "{n}The corners of Tristian's mouth turn up in what might be a smile.{/n} \"I should have noticed it earlier. Is it not marvelous how love can flourish between anyone?\""
+    },
+    {
+      "Key": "89823490-a241-4e34-a448-4eab23008389",
+      "Value": "{n}Tristian's smile grows wider.{/n}"
+    },
+    {
+      "Key": "9d9a7d77-6729-453f-aa6e-d6cc38e1fc4a",
+      "Value": "\"Sorry.\""
+    },
+    {
+      "Key": "474b2a34-2855-4de7-95e8-e19799698446",
+      "Value": "{n}Eimar grins eagerly.{/n} \"Then it's settled! I'll write down the directions real quick, and when you're done, you meet me in {g|Pitax}Pitax{/g} so I can hear your account. No doubt the magistrate will be pleased to stop getting piracy complaints, too.\" {n}He draws a roll of parchment from a scroll tube.{/n} \"I hope you'll arrive in time to see my latest production. Speaking of which, I'm already late to oversee its rehearsal.\""
+    },
+    {
+      "Key": "0b7062ae-0246-4189-95d0-96a6d464dd11",
+      "Value": "\"Now that's more like it! Let's go crash those pirates! And we'd better not waste time here. I don't like {g|Pitax}Pitax{/g}, or its people — everyone's always trying to cheat you, or swindle you, or drag you into some other cunning scumbaggery.\""
+    },
+    {
+      "Key": "920f9efd-3a22-4bc9-a4e1-07d33eb12e38",
+      "Value": "{n}Eimar sidles closer, lowering his voice.{/n} \"And that's where Irovetti has failed. The {g|Pitax River}Pitax River{/g} is our lifeline, connecting us to the outside world. River pirates know it, and they prey upon incoming travelers. You might think the king would thwart these pirates and defend his people, but no, he's only sent escorts to protect key shipments, leaving everyone else to the pirates' depredations. This tournament? It hides how we suffer from the king's inaction.\""
+    },
+    {
+      "Key": "efc7c015-25b0-4f6f-958c-5ff295ad351a",
+      "Value": "\"He barely opened his mouth before he made my teeth itch, with all his treacle and nonsense!\""
+    }
+  ]
+}

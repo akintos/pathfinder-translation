@@ -1,0 +1,233 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "7e831f18-49cd-4dae-8489-f36c48ad3117",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "3437d438-1955-4f43-baed-218117f0c8a6",
+      "Value": "\"Which deity do you serve?\""
+    },
+    {
+      "Key": "4ad89513-12d6-4dab-83e8-8c900ab914bc",
+      "Value": "\"What are you doing?\""
+    },
+    {
+      "Key": "c08a76d8-0d70-40b8-8a27-8c429d7cebb7",
+      "Value": "\"Good luck in the battle!\""
+    },
+    {
+      "Key": "0a86d86b-b744-4106-b08f-16db8420f5d7",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "79ea66a9-1d64-4e79-9a21-7c8ad2807909",
+      "Value": "\"What are you doing?\""
+    },
+    {
+      "Key": "1b8493d5-bf41-4f52-9d92-e83315846b9a",
+      "Value": "[Pass by]"
+    },
+    {
+      "Key": "5da8de51-1302-460a-808b-545b884c78ad",
+      "Value": "\"That sounds like a dark deed... Wouldn't your deity punish you for that?\""
+    },
+    {
+      "Key": "5eef4dac-0eb3-4435-a3ea-a9a2fce9dec7",
+      "Value": "\"Idiot! While you're conducting this weird ritual, wounded people are bleeding to death at the camp! They need your help, not your heroic corpse!\""
+    },
+    {
+      "Key": "a91d777d-a35a-4715-84df-697d8a464ef5",
+      "Value": "\"Are you really willing to be cursed by your goddess just to kill a few barbarians?\""
+    },
+    {
+      "Key": "9fb2de11-5cd9-46df-83e4-757b5acc986f",
+      "Value": "\"As you wish. I'm not here to tell you what to do.\""
+    },
+    {
+      "Key": "4697941c-41a1-4824-a6a3-8fe95a3919a6",
+      "Value": "\"They all died because of me, you know. I could have brought the reinforcements sooner, but I left you to fend for yourselves instead.\""
+    },
+    {
+      "Key": "cb512893-8631-48dd-ba97-7e770141892c",
+      "Value": "[Attack] \"Those stones look valuable... I think you should give them to me.\""
+    },
+    {
+      "Key": "1e9e19da-7272-4a56-8c1d-a2e71ace79e8",
+      "Value": "[Attack] \"I don't like you...\""
+    },
+    {
+      "Key": "432f8efc-e5a2-4c82-9ede-fea06adc4aad",
+      "Value": "\"Reg, these are our allies. We don't cut open our allies' muzzles, even if we really want to.\""
+    },
+    {
+      "Key": "b0d011b6-9552-410f-b6a1-98ed83523554",
+      "Value": "\"Put away your weapons, or I'll personally hand you over to Jamandi to hang!\""
+    },
+    {
+      "Key": "d44836c2-cefa-422a-be98-4a36e33a6f57",
+      "Value": "[Attack] \"Let's do it!\""
+    },
+    {
+      "Key": "c96f5872-dec9-476c-9480-c46e4bcdbcb9",
+      "Value": "\"Reg, these are our allies. We don't kill our allies even if we don't think they're being serious.\""
+    },
+    {
+      "Key": "21d97dfb-58ff-42a0-b8c4-a6e547f23b1f",
+      "Value": "\"Maybe I should cut you instead? When will you learn that we're not a gang of bandits?\""
+    },
+    {
+      "Key": "fba2af4a-c5f0-479f-8009-693898aefb98",
+      "Value": "[Attack] \"My thoughts exactly!\""
+    },
+    {
+      "Key": "d27d71be-3abc-49cc-8794-0fe49b9c0986",
+      "Value": "\"Don't vex Pharasma. The cost of such a pointless feat is your eternal soul!\""
+    },
+    {
+      "Key": "3ae84add-7070-41cf-9a54-7c7859c69ace",
+      "Value": "{n}You see a group of {g|Restov}Restovic{/g} soldiers giving you disturbed glances. A gnome who seem to be their leader waves around a holy symbol of {g|Pharasma}Pharasma{/g}.{/n} \"At easy, people! They are on our side! Sheath your weapons!\""
+    },
+    {
+      "Key": "cdf87656-b816-4708-81f3-e0f40980e3c7",
+      "Value": "{n}Soldiers' corpses litter the area. A gnome in dented armor moves hastily between the bodies. Ignoring the blood oozing from his wounds, he places shiny black onyx gems on the dead soldiers' chests.{/n}"
+    },
+    {
+      "Key": "be841c9a-ed97-4513-91f3-2b5f60054e1f",
+      "Value": "\"Can't you tell? We're angels from the sky, come to judge this sinful world! Come, mortal, kneel and pray!\" {n}The gnome strikes a pose as the rest of the soldiers laugh boisterously.{/n} \"What do we look like? These toughs are {g|Swordlords}Swordlord{/g} Jamandi's fighters, and I'm Dallirun Myrnas, their commander and regimental cleric!\""
+    },
+    {
+      "Key": "b1129441-1f4b-45e9-afb9-7b1f0fa0e624",
+      "Value": "\"{g|Pharasma}Pharasma{/g}, Lady of Graves and Mistress of the {g|Boneyard}Boneyard{/g}. She's the only goddess no one can avoid meeting — not you, not me, not anyone. My lady's always busy when there's a war on.\""
+    },
+    {
+      "Key": "98b94170-5167-4088-9373-d8cb0d9874f7",
+      "Value": "\"And you must be the baron{mf||ess} of {kingdomname}? Report said you'd be bringing reinforcements soon. You're just in time! Now we'll give them what they deserve!\""
+    },
+    {
+      "Key": "ad039202-f665-4100-b738-fdb8fc83b637",
+      "Value": "\"Huh, what ARE we doing here? Maybe some kind of open-air picnic? No, I don't see enough food for that. Maybe a traveling circus show? That doesn't seem likely — sure there are plenty of clowns and trained horses around, but I don't hear a band playing... Oh, I know! We must be Lady Jamandi's reserve, ready to engage on the sound of her horn! What with being at war and all. Yes, of course! Why didn't I see it straight away?\""
+    },
+    {
+      "Key": "95122324-635a-42b7-8ef9-0afef9299b47",
+      "Value": "\"I'm preparing the greatest blasphemy — I'm going to raise my fighters for one last attack. We lost the battle. We were betrayed — no one came to help us, and we were slaughtered like livestock. But I'm a cleric. I have some powers... I'll make the dead fight one more time. At least we can take some of those damned barbarians to the afterlife with us!\""
+    },
+    {
+      "Key": "bde227a0-3416-4aad-90ba-6cf486e1e7dd",
+      "Value": "{n}The gnome slowly raises his dull eyes to you.{/n} \"I'm Dallirun Myrnas, regimental cleric... Or I used to be. No regiment anymore. And I'm running out of time myself.\""
+    },
+    {
+      "Key": "8b38e2b1-c9f2-47ef-86bc-b3ac9fa87c58",
+      "Value": "\"Of course she would. The undead are abominations in the eyes of {g|Pharasma}Pharasma{/g} — raising them is the greatest blasphemy I could perform. Best case, she'll reject me. Worst, she'll smite me. It's not important. Who cares what happens to me next?\""
+    },
+    {
+      "Key": "01c1f1d6-3ada-4feb-a925-a3fadeaa001c",
+      "Value": "{n}The gnome looks at you, blinking, not seeming to comprehend your words. Then his gaze clears.{/n} \"What am I doing? You're right, a hundred times right — I've been an idiot! Here, take these and keep them out of harm's way!\" {n}The gnome presses some onyx gems into your hands and runs toward the Brevans' camp.{/n}"
+    },
+    {
+      "Key": "3c076ed0-2929-492d-97d8-6a1f1bb8a68f",
+      "Value": "{n}The gnome lowers his eyes to the holy symbol of {g|Pharasma}Pharasma{/g} in his hands.{/n} \"No. No... of course not. A thousand times no. Forgive me, my lady... I was on the verge of committing the worst act of my life.\""
+    },
+    {
+      "Key": "9685ef36-6d9b-4e1d-8237-3aadb52e1c59",
+      "Value": "\"Sure.\" {n}A crooked grin appears on the gnome's face.{/n} \"Everything's more fun with friends — even dying and going to the {g|Abyss}Abyss{/g}!\""
+    },
+    {
+      "Key": "f15b59a5-4330-46ef-9796-3ebb7f7cafe5",
+      "Value": "{n}The gnome grumbles an incoherent answer as he resumes his work.{/n}"
+    },
+    {
+      "Key": "4e41050c-16c1-467c-abc7-334ee3e650ea",
+      "Value": "{n}The gnome stares at you with dull eyes for several moments, as though trying to wrap his head around your words. He then starts to pray, clutching his holy symbol in white-knuckled hands.{/n}"
+    },
+    {
+      "Key": "85f6dc98-556f-45f2-b104-389e65795acf",
+      "Value": "{n}Impaling you with his dull eyes, the gnome clenches his teeth and charges.{/n}"
+    },
+    {
+      "Key": "6d6a82a0-b200-4c3c-a38d-77a36901f792",
+      "Value": "\"Same to you! Show that pantless scum they should have stayed out of {g|Brevoy}Brevoy{/g}!\""
+    },
+    {
+      "Key": "f686c1b2-67fc-4f1b-83ea-fb58cd4131d3",
+      "Value": "{n}The gnome continues, ignoring you completely.{/n}"
+    },
+    {
+      "Key": "98ebbdbd-8cd1-47ee-9860-2b9f0f92b854",
+      "Value": "\"What do you know? Get out of here!\" {n}He waves you away.{/n}"
+    },
+    {
+      "Key": "011bbf7c-1f2b-4e70-8efc-a5838899916c",
+      "Value": "{n}The gnome raises his hand to the sky, holy symbol of {g|Pharasma}Pharasma{/g} in hand, and whispers a prayer. As he utters the last word, his holy symbol cracks and falls to pieces. The gnome falls to his knees, and his dead brothers-in-arms open their eyes and slowly rise on unsteady feet.{/n}"
+    },
+    {
+      "Key": "acc56841-f2e4-4995-b5ca-7ba03f3d0fa5",
+      "Value": "\"Follow me, fellows. Follow me one last time. We'll have our revenge!\""
+    },
+    {
+      "Key": "2b033e6d-33b3-4a85-9d09-2203924fbbc6",
+      "Value": "\"Take these and keep them out of harm's way. As for me... I hope there are at least a few survivors left from our army. If so, they need my help now.\" {n}The gnome presses some onyx gems into your hands and runs toward the Brevans' camp.{/n}"
+    },
+    {
+      "Key": "87c6c1da-a42c-40b9-a165-18d05eaa3b8b",
+      "Value": "{n}As he utters the last word, the holy symbol of {g|Pharasma}Pharasma{/g} cracks and falls to pieces. The gnome falls to his knees, and his dead brothers-in-arms slowly rise on unsteady feet and groan as they start walking toward you.{/n}"
+    },
+    {
+      "Key": "b377915c-655d-4755-a524-1c47be9d0e21",
+      "Value": "\"Hey, what are you doing? Are you crazy? We're on the same side — we're from {g|Restov}Restov{/g}!\""
+    },
+    {
+      "Key": "761d1845-65ee-4f20-b635-69188c1ad806",
+      "Value": "\"Amazing... He was desperate, at the edge of death — and you returned to him the will to live! You're a miracle!\""
+    },
+    {
+      "Key": "35dc3a3c-56d3-43dc-9157-0dc554afdadf",
+      "Value": "\"Cheeky, isn't he? Can I cut open his muzzle?\""
+    },
+    {
+      "Key": "f057acc7-aa1c-4315-ac0e-4895eb7bd0e3",
+      "Value": "\"Hehehe... Hold on, you scum!\""
+    },
+    {
+      "Key": "67182af3-3106-4060-b8b2-2ca09bbdf7a0",
+      "Value": "\"Politics is complicated! Fine, you're in charge, you know better who to cut and who to let off. But his tongue will get him into trouble sooner or later!\""
+    },
+    {
+      "Key": "4f0c4d7b-fa77-4697-8ac9-f71e40290ee8",
+      "Value": "\"Hey, easy! It was only a suggestion. We don't have to if you don't want to!\""
+    },
+    {
+      "Key": "56401f3b-f271-46f5-b292-bf904f37cdd3",
+      "Value": "\"This guy can't be serious. How about we just cut him and take the gems?\""
+    },
+    {
+      "Key": "fc9a3bb6-09bf-4bb9-ae70-5a2c86b229fb",
+      "Value": "\"Politics is complicated! Fine, you're in charge, you know better who to cut and who to let off. Too bad about the gems, though — it's a shame to waste them!\""
+    },
+    {
+      "Key": "cdcb41a7-9b55-4bad-a674-7174dfec7f4c",
+      "Value": "\"All right, all right, fine with me... Bandits, barons — what's the difference? The title has made you so stuck up!\""
+    },
+    {
+      "Key": "db463484-1874-4351-84ff-d9e99fb16a4c",
+      "Value": "\"Ha ha ha! Well, I'm your right hand for a reason! Hey, shortie, give me the gems!\""
+    },
+    {
+      "Key": "644fa0b3-1338-4751-b53b-1e8167601db2",
+      "Value": "\"In every scream of 'unlife is disgusting!' I hear an unsaid 'given a reason, I'd give everything for the opportunities it provides.' And this is material evidence. If you want to see a hypocrite, just look for a {g|Pharasma}Pharasmin{/g}.\""
+    },
+    {
+      "Key": "ee80e173-5ecb-44d5-b2b8-1c0f0b5e6ec7",
+      "Value": "\"I fully support this wonderful proposition.\""
+    },
+    {
+      "Key": "6811bd03-b879-439c-81ab-a5618b4d3925",
+      "Value": "{n}Jaethal keeps her distance, cold as usual. But hearing the priest's words, she lets out a crooked smirk.{/n} \"I could argue over the inevitability of meeting {g|Pharasma}Pharasma{/g}, but why waste time enlightening silly fanatics?\""
+    },
+    {
+      "Key": "28e6e410-e2ab-47d5-88bc-a80edde53745",
+      "Value": "{n}The gnome looks down at the symbol of {g|Pharasma}Pharasma{/g} in his hand.{/n} \"My goddess... She would never forgive such sacrilege. I almost made the stupidest mistake of my life!\""
+    }
+  ]
+}

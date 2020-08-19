@@ -1,0 +1,61 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "49d0ec76-fbbf-4f18-a800-a46bbd91a9d3",
+      "Value": "[Take the envelope off the branch]"
+    },
+    {
+      "Key": "381e1b2f-39a9-4207-b5bc-8c4462bc7e4b",
+      "Value": "[Try to figure out how enchanted seal works]"
+    },
+    {
+      "Key": "44aa5db0-4dc7-4d8e-a0dd-739ac971c5f0",
+      "Value": "[Leave the envelope alone]"
+    },
+    {
+      "Key": "2ee6f692-8512-428d-9e05-39600f818051",
+      "Value": "[Carefully remove the seal without touching the envelope]"
+    },
+    {
+      "Key": "2108c254-9fb6-4c5f-a410-f4965818c16a",
+      "Value": "[Detect Magic] [Check the envelope for enchantments]"
+    },
+    {
+      "Key": "b1aae085-3fc9-4694-ad0f-f13e2d2ccc2e",
+      "Value": "[Examine the envelope closely]"
+    },
+    {
+      "Key": "9266678f-ceb0-4599-975e-23b56d00e5a2",
+      "Value": "{n}As you search, you notice an envelope inside the bush. It is hanging from a branch by a fine chain that runs through the envelope's black wax seal. The seal is in a shape of a skull, and the chain runs through its eye sockets.{/n}"
+    },
+    {
+      "Key": "92b99dd9-96e5-480a-a747-322aa73c565a",
+      "Value": "{n}The seal itself is enchanted, and will react on any attempts to either dispel the enchantment or break the seal. If the envelope is touched by anyone other than the designated recipient, it will crumble to dust. However, if you remove the seal without touching the envelope...{/n}"
+    },
+    {
+      "Key": "9d5f6473-0535-4035-a926-a50bea1ce351",
+      "Value": "{n}You're unable to decipher how the enchanted seal works.{/n}"
+    },
+    {
+      "Key": "dda4fa82-5f36-474e-ac6f-3231c8b0b338",
+      "Value": "{n}As soon as you touch the envelope, cracks begin to spread across its surface with a faint crackling noise, spreading from the seal outwards. The envelope turns black and disintegrates in your hands. Moments later, all that remains of the letter is a tiny scrap in your hands.{/n}"
+    },
+    {
+      "Key": "c684afef-7304-480f-87a8-8093cffd24bd",
+      "Value": "{n}After some time and with the help of simple tools at hand, you manage to remove the seal. The envelop darkens, and its lower half disintegrates with a low rustling sound, but you manage to preserve three quarters of the letter.{/n}"
+    },
+    {
+      "Key": "62b2807e-8768-4bc7-a84a-a361dbf2f401",
+      "Value": "{n}An ominous seal on the envelope bears the traces of magical influence.{/n}"
+    },
+    {
+      "Key": "919529db-5f7a-4159-86a3-b9c119e4c34d",
+      "Value": "{n}Taking a closer look, you realize the seal isn't simply black — it seems to absorb the light. There are faint dark circles inscribed on the envelope around the seal.{/n}"
+    },
+    {
+      "Key": "40bdc2de-327e-416e-ae7b-00ff2b5c1834",
+      "Value": "{n}An envelope swings lightly with the wind. The skull on the seal indifferently looks up at the sky.{/n}"
+    }
+  ]
+}

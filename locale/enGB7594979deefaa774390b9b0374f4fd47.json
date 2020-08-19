@@ -1,0 +1,69 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "a129bde3-e8ba-4e0f-ab2f-2415fa1cdb5a",
+      "Value": "\"What are you doing there?\""
+    },
+    {
+      "Key": "8d5e89fa-7a5d-484f-987f-3d361472c206",
+      "Value": "[Attack] \"The penalty for looting is death.\""
+    },
+    {
+      "Key": "3af6b82a-a97b-4ff6-87b9-29745524f13a",
+      "Value": "\"Drop everything you've looted and get out of my city. If I see you again, I'll execute you myself.\""
+    },
+    {
+      "Key": "f402f8a4-e357-43f9-b80e-e2e885880d3b",
+      "Value": "\"You have a choice: either I execute you here and now, or you voluntarily submit yourselves to the captain of the guard and follow his every command.\""
+    },
+    {
+      "Key": "1aca1e5c-16b5-422c-96b6-1d1831079568",
+      "Value": "\"Ha ha ha, I've never seen such clumsy thieves! Look, I'll cut you some slack — I'm going to close my eyes and count to three, and when I open them, you'll be long gone.\""
+    },
+    {
+      "Key": "d3b6dcb7-032d-4418-b312-6e7ea2f5a9a8",
+      "Value": "\"Give me all the gold you've gathered and I'll pretend I never saw you.\""
+    },
+    {
+      "Key": "4999a59e-e275-43d0-b957-48ed60cc67ab",
+      "Value": "[Attack] \"I'll post your heads above the city gates as a lesson to everyone else.\""
+    },
+    {
+      "Key": "3773ec82-2b8e-4a48-8ebd-90f65942c346",
+      "Value": "[Leave] \"If the owners really valued their possessions, they'd have protected them better. I have more important matters to attend to.\""
+    },
+    {
+      "Key": "4009d817-e7f6-413f-b2d7-361295a323fd",
+      "Value": "[Leave] \"This is none of my concern.\""
+    },
+    {
+      "Key": "e8e8d28b-c692-456b-92c1-40be22fd302d",
+      "Value": "{n}While the fierce battle rages, these people aren't fighting or fleeing. Rather, they've entered one of the ruined buildings and seem to be filling their sacks with whatever goods have been left behind. Noticing you, one of the marauders turns pale and drops his bag.{/n} \"Gah! Damn...\""
+    },
+    {
+      "Key": "af3b624c-6926-41ef-a1ce-3174801cd926",
+      "Value": "\"We're, uhhh... Well... Don't s'pose you'd believe we're pickin' up lost goods to return to their owners, would you?\""
+    },
+    {
+      "Key": "15469203-e3cf-4c0c-b056-68e82a1adbf4",
+      "Value": "{n}Looking back and forth between themselves, the pale-faced marauders eventually nod, drop their bags, and make their way to the captain of the guard under your watchful eye.{/n}"
+    },
+    {
+      "Key": "673fccee-8323-494c-9b1b-c9661476e82d",
+      "Value": "\"Yes, Your Grace... Thank you for your mercy. You'll never hear from us again, I swear it!\""
+    },
+    {
+      "Key": "17c11948-caf6-4373-8efd-4603d23a7997",
+      "Value": "\"Thank you, Your Grace! Your land, your right... and here's your share!\" {n}The marauders hand over a pouch of gold before picking up their bags and hastily leaving.{/n}"
+    },
+    {
+      "Key": "f0f5883e-d99e-4196-8bde-6294c7c6bbc3",
+      "Value": "{n}The marauders quickly pick up their bags and disappear.{/n}"
+    },
+    {
+      "Key": "865c30dd-6454-45e2-b7ff-14c40fcf1837",
+      "Value": "\"Such filth!\"{n} – Kanerah almost sings the words.{/n} \"After our victory, they should be publicly executed in the main square. But since we're a little busy to deal with criminals, I suggest we just kill them right here. We must get rid of these parasites!\""
+    }
+  ]
+}

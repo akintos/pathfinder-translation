@@ -1,0 +1,289 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "abfc55e1-7016-497d-97b5-c9d6448ddb8d",
+      "Value": "\"You do realize you're in my lands now, so you can get arrested and executed for statements like that?\""
+    },
+    {
+      "Key": "a51a01fe-2f91-47bd-9808-b5fd04d752f1",
+      "Value": "\"Ok, it was nice talking to you, but it's time to go.\""
+    },
+    {
+      "Key": "cb67b060-dafc-463c-bf8b-c8bf5505a883",
+      "Value": "\"Actually, I don't mind the freedom of speech.\""
+    },
+    {
+      "Key": "ae4e2370-bf5b-4dd9-80b4-c6a765421f46",
+      "Value": "\"I don't like your manner of speaking, gnome.\""
+    },
+    {
+      "Key": "19c83342-9a53-4f27-9538-4febc6be5621",
+      "Value": "\"I'm looking for the troll's lair. Maybe we're looking for the same place. Let's join our efforts and start looking together.\""
+    },
+    {
+      "Key": "4f8e6a0c-8d52-4802-90d4-3df25d1d76be",
+      "Value": "\"I didn't know you'd come.\""
+    },
+    {
+      "Key": "89d2bca1-e312-4682-a115-6c2c8db359ca",
+      "Value": "\"How do you know I am a {mf|baron|baroness}?\""
+    },
+    {
+      "Key": "f87a4876-0b5e-4bb5-bc3f-6eaf0da596ad",
+      "Value": "\"Tell me, is this old dwarven outpost abandoned? Is it possible it's now used by trolls as a lair, for instance?\""
+    },
+    {
+      "Key": "7b9826da-8b42-45c4-ae4a-ea013a4b05d7",
+      "Value": "\"You said you were famous, but I don't know you. What are you famous for?\""
+    },
+    {
+      "Key": "57815a70-8ffc-4652-ae02-02b930d339dc",
+      "Value": "\"I've found the dwarven outpost you told me about. The trolls have found it even before me.\""
+    },
+    {
+      "Key": "bc358eb5-a91f-47e8-a0f7-acb96daba415",
+      "Value": "\"Well, if I find this outpost, I'll let you know. Goodbye.\""
+    },
+    {
+      "Key": "6d3bb7c4-dae6-4491-8978-bb52cdf918e0",
+      "Value": "\"So what is such a famous person doing that far from civilization?\""
+    },
+    {
+      "Key": "f2bd2149-f8a5-4fb4-99b8-997a69bdf1ce",
+      "Value": "\"So what happened here? How did your cart end up in the river?\""
+    },
+    {
+      "Key": "153ae417-6a00-4b3c-916a-64b1a9e79241",
+      "Value": "\"What is this dwarven outpost you're searching for?\""
+    },
+    {
+      "Key": "ae595469-4b2f-480c-bd78-5c60ca6404ac",
+      "Value": "\"Still, I'd like you to hold back your harsh comments.\""
+    },
+    {
+      "Key": "557bd3f8-b975-460b-a40c-859fefa6a725",
+      "Value": "[Attack] \"I'll stuff your words back down your filthy throat!\""
+    },
+    {
+      "Key": "c6bce8c4-968d-4a0f-b135-412d6f0de837",
+      "Value": "\"I guess those glasses on your nose are just there to make you look smart, Jubilost.\""
+    },
+    {
+      "Key": "d2a2903b-b569-4a62-93f8-c4d92019714f",
+      "Value": "\"One more comment about my companions and you're done for, you brainless stump.\""
+    },
+    {
+      "Key": "2069b057-c1be-4239-9573-297b3f405868",
+      "Value": "\"For someone who values contents so highly, you seem pretty quick to make superficial judgments.\""
+    },
+    {
+      "Key": "6c8e7383-ed91-4c8a-955d-469569007d6d",
+      "Value": "{n}Jubilost thinks this over, tilting his head. Looks like this thought never occurred to him.{/n} \"Yes, you are right. I should've remembered that your lands are located in the middle of nowhere and you don't get updates on important things in time.\""
+    },
+    {
+      "Key": "64ba742e-58b5-4eee-a0c8-1a4c466f5c55",
+      "Value": "\"Also, while I'm on that, I'd like make an official announcement: the roads in your barony are in terrible condition. People must search for wading fords to cross the rivers because no one has bothered themselves with building bridges, and honest travelers have to take the risk of being attacked by kobolds at any moment.\""
+    },
+    {
+      "Key": "ec9c081c-047c-443b-94aa-3fad7e5fba18",
+      "Value": "\"So I've been explaining my position to him, being rather eloquent, too, suggesting he and his so-called kingdom might as well fall into the deepest sinkhole... And in the meantime, I've noticed that kobolds have already started to untie my cart! Well, I called my men to keep the cart safe... They couldn't guess what to do on their own, just stood there with their mouths ajar... Then things heated up as the fighting started. And while we were fighting, the ponies dragged the cart to the river. Stupid animals.\""
+    },
+    {
+      "Key": "44892990-fe37-4308-b8aa-ede3118b7c0d",
+      "Value": "\"Unbelievable! Amazing! Its location must be mapped at once!\" {n}Jubilost shouts in excitement, totally ignoring your mention of the trolls.{/n} \"I definitely need to see the place with my own eyes! Lead the way! As for the cart...oh, never mind, it will be ok. I will send someone for it later.\""
+    },
+    {
+      "Key": "10aeb5cb-4fdc-41c7-b787-a51fd13bf260",
+      "Value": "{n}Seeing the spectrum of emotions changing on your face, the gnome softens up a bit.{/n} \"I can see it's your first encounter with freedom of speech. Just do what you consider right and let others discuss it. You know, not everyone gets a chance to become a {mf|baron|baroness}, so discussing a {mf|baron's|baroness'} actions is actually all the unlucky ones can do.\""
+    },
+    {
+      "Key": "2991b86b-ee72-4a5f-9564-eebaa030e91e",
+      "Value": "\"Oh, I see, the very spirit of knighthood embodied.\" {n}Jubilost eyes Valerie up and down.{/n} \"So what do you propose me to do, oh bold and manful sir knight? Should I lie?\""
+    },
+    {
+      "Key": "0f4e8453-5d15-4e56-ab16-f157cbd3394e",
+      "Value": "\"Your ignorance is stunning. You create a barony and still you know nothing about the lands you own.\" {n}Jubilost pouches his lips.{/n} \"I'll have to enlighten you on the subject.\""
+    },
+    {
+      "Key": "00134bb1-541f-435b-9b5f-10baae9e3791",
+      "Value": "\"Well, now you're talking like a Chelaxian. It's all completely up to you, but I must warn you — the whole world knows my whereabouts. If something happens to me, neighboring states will definitely notice it.\""
+    },
+    {
+      "Key": "6661bcda-79e7-46f0-acae-4f430f3f9056",
+      "Value": "\"Jubilost Narthropple, humble servant to no one,\" {n}he introduces himself and winces, touching his scratched cheek.{/n} \"Too bad Your Grace proved to not be capable enough to save my cart. Well, one shouldn't expect a fast reaction from the {mf|baron himself|baroness herself} — after all, it's common knowledge that titled persons usually hire a bunch of advisors to do all the thinking for them. So they must have some other bunch to jump in the rivers and save carts.\""
+    },
+    {
+      "Key": "bc3bd4d6-b6f1-48df-9c90-af553d7a4255",
+      "Value": "\"Wow, a {mf|baron|baroness} supporting a freedom of speech! That's news. Remains to be seen, what will you say after reading my article.\""
+    },
+    {
+      "Key": "821891ee-6ca3-4944-97b0-11f15252d740",
+      "Value": "{n}Jubilost looks you up and down.{/n} \"You seem to be a capable companion, but I'll pass for now. I still have to count my losses after the river took my cart and all my stuff.\""
+    },
+    {
+      "Key": "0918be0c-0fcd-4ee3-a8cc-5f1aacf01b6e",
+      "Value": "{n}Jubilost scratches his chin.{/n} \"My party and I set up a camp on the bank of this river. We'd just finished kindling the fire when that purple bastard appeared.\""
+    },
+    {
+      "Key": "b81ce7a3-f295-4559-bed1-49874c8094ba",
+      "Value": "\"Why not,\"{n} Jubilost shrugs,{/n} \"Dwarves like being underground. Trolls like being underground too. It's quite possible that after the dwarves left, their warm and cozy place fell into the hands of less-attractive creatures.\""
+    },
+    {
+      "Key": "3769fcb2-3c2f-4a74-868e-6f4d5d6ee482",
+      "Value": "\"You think too highly of yourself, Sir gnome. Behave with some dignity while you are on these lands!\""
+    },
+    {
+      "Key": "08064b4a-afd1-43d0-859c-ad5b8f6a2a05",
+      "Value": "\"Jubilost Narthropple, at Your Grace's service,\" {n}he introduces himself and looks closely at your party.{/n} \"Your help with these kobolds and my almost-drowned cart was timely indeed.\""
+    },
+    {
+      "Key": "378b993a-9fc5-4fc9-9ccf-c3ae1a86ca81",
+      "Value": "\"Your problem, sir knight, is that you worry too much about form and appearance. Unsurprisingly so, considering your pretty face. As for me, I worry solely about the content.\""
+    },
+    {
+      "Key": "12071a7f-6f8a-4b0a-ad99-9f0325de4532",
+      "Value": "\"So what did you say your barony was called? Whatever, never mind. When I draw the map of these lands, I will call them 'Maybe local {mf|baron|baroness} will help.' I guess it's a fitting name.\""
+    },
+    {
+      "Key": "8d158792-4f6e-4f1b-b963-101f7d9bbc63",
+      "Value": "\"And I'd like you to stop telling me what to do.\""
+    },
+    {
+      "Key": "cc4aa790-da81-4fec-ac9b-0cb1ad84acf9",
+      "Value": "\"So what? I don't like a lot of things.\" {n}Jubilost presses his fists against his hips.{/n} \"You know what I do, when I don't like something? I try to change it. For example, I don't like your barony's roads, so I've reported to the authorities about it — namely you. And as for you, instead of pouting, you'd better get down to business and try to resolve the trouble.\""
+    },
+    {
+      "Key": "f7588df3-f26b-4bc5-9f09-15b75ff6f952",
+      "Value": "\"Hey, it's you again,\" {n}Jubilost greets you in his usual semi-friendly manner.{/n}"
+    },
+    {
+      "Key": "9b62fd42-9a01-406a-a739-fb9a777ed09a",
+      "Value": "\"By the way, it's a shame no one organized a greeting party when such a famous and popular person as myself arrived to your capital. I wasn't expecting a red carpet covered with rose petals, but you could at least have sent ahead some sort of delegation.\""
+    },
+    {
+      "Key": "2e4727b9-625c-447a-af66-316976ac45dc",
+      "Value": "\"Culinary almanac of the {g|Inner Sea}Inner Sea{/g}?\""
+    },
+    {
+      "Key": "d6c8f2ae-8496-4d7f-a62c-9be7bf65d001",
+      "Value": "\"Or the most scandalous one — The Independence — describing the benefits and drawbacks of governments and regimes in different states?\""
+    },
+    {
+      "Key": "946e9d66-1daa-4559-9a3d-817bbf74c5b7",
+      "Value": "\"I would be grateful.\" {n}Jubilost nods.{/n} \"I'll stay here for a while. I need to sort things out.\""
+    },
+    {
+      "Key": "27bb9832-647a-482d-8fea-62976af19991",
+      "Value": "\"So what did you say your barony was called? Whatever, never mind. When I draw the map of these lands, I will call them 'The end of all roads, dirt beyond.' I guess it's a fitting name.\""
+    },
+    {
+      "Key": "d3f2d037-3faf-4ea8-bae0-514ea730864a",
+      "Value": "\"Well, you proved to be a capable companion in case of emergency. I guess I can entrust you with covering my back. Let's go! I will send someone for my cart later.\""
+    },
+    {
+      "Key": "87cb3c2c-e666-42d2-9632-53659f96ba64",
+      "Value": "\"Hold on, wait a moment!\" {n}Jubilost stops you.{/n} \"There is one thing you can help me with.\""
+    },
+    {
+      "Key": "12cb1f2b-3b43-46f8-b89a-f65f885e5767",
+      "Value": "{n}The gnome fells silent at last. He just watches you with his shifty eyes, opening and closing his mouth, as if he wants to say something more, but hasn't come up with anything yet.{/n}"
+    },
+    {
+      "Key": "c3d08587-4353-4e01-90fa-a1abd1cdb79c",
+      "Value": "\"I've already told you I visited your capital some time ago. Weren't you listening to me?\" {n}Jubilost wonders a trifle too heartily.{/n} \"And I'm used to being greeted by officials when I arrive to settlements of at least some importance. The glory of myself and my exploits usually precedes me. And officials usually prefer to be on good terms with me.\" {n}Jubilost smiles slyly.{/n}"
+    },
+    {
+      "Key": "fc09cf93-ad3f-4894-9212-7e39ea2cc976",
+      "Value": "\"I pursue two objectives. The first is to write an article on this new barony of yours for The Independence. The second is to draw a detailed map of the {g|Stolen Lands}Stolen Lands{/g}. Before this barony appeared, it had been too dangerous to come here, but now an opportunity has appeared. Thanks to you, I must add. So, as you can see, the freedom of speech sometimes grants positive comments too.\""
+    },
+    {
+      "Key": "5dbea8d2-e4e3-41f3-9d43-743bf6518df9",
+      "Value": "{n}Valerie blushes, but still tries to argue.{/n} \"By no means! But you shall not be so blunt. I bid you to express your opinion in a more courteous form.\""
+    },
+    {
+      "Key": "c9b2904b-85cb-4a53-b402-edf7564ece66",
+      "Value": "\"You know what he told me? He introduced himself as the king of kobolds and told us he needed our clothes. Because he 'wanted to dress his subjects properly', you see, since they've established the kingdom of their own.\" {n}Jubilost's face gets red in resentment.{/n} \"That's literally what he said. I wonder where he learned the words. Obviously I told him to buzz off. Some kobold wants to strut around wearing the clothes of the great cartographer Jubilost Narthropple? No way!\""
+    },
+    {
+      "Key": "7f8dbc02-9c42-4da0-b7b6-c0911ee71f58",
+      "Value": "\"That was either a stupid and offensive joke, or a case of total ignorance. The latter, I hope.\" {n}Jubilost pouches his lips.{/n} \"I'm famous as a traveler, a cartographer, an alchemist and a journalist. The students of all the major universities study the world using my maps. My articles for different journals are well-known everywhere from {g|Andoran}Andoran{/g} to {g|Brevoy}Brevoy{/g}. You've definitely read some issues of National Alchemy, haven't you?\""
+    },
+    {
+      "Key": "9418a68d-ad08-44b5-9163-fb91d8916836",
+      "Value": "\"At least some of my servants are still alive. Do you know how much it costs to train a proper servant?\" {n}Jubilost jabbers too fast, never stopping even to take a breath. You can see he's piled up some emotions and just needs to get them out of his system.{/n}"
+    },
+    {
+      "Key": "a1f9a8fe-54c5-4a64-a6dd-d0e311abf4a1",
+      "Value": "\"Too bad none of my servants made it alive. Dimwits they were, but at least their service came cheap.\" {n}Jubilost jabbers too fast never stopping even to take a breath. You can see he's piled up some emotions and just needs to get them out of his system.{/n}"
+    },
+    {
+      "Key": "df9621a2-b8dd-4459-b946-692e381ccf3b",
+      "Value": "\"Wait... The Jubilost Narthropple? Author of the 'Fourteen and a half eulogies to {g|Pitax}Pitax{/g}'? Oh my... Every student in the {g|Academy of Grand Arts}Academy{/g} devoured your books — especially after king Irovetti banned them, tried you in absentia and sentenced you to death!\""
+    },
+    {
+      "Key": "0addaab8-a098-43c5-bc5b-ae0630cd2e3d",
+      "Value": "\"Hm! Hm! I see, at least someone in this shabby barony has at least rudimentary education... Even if they got them in such a dubious establishment as the {g|Pitax City}Pitax{/g} {g|Academy of Grand Arts}Academy of Grand Arts{/g}!\""
+    },
+    {
+      "Key": "ccb69b91-b346-4686-9b79-5cdc7b3186bc",
+      "Value": "\"Ha! I was expelled for irreverence!\""
+    },
+    {
+      "Key": "f78c4360-ed53-4430-8678-a32969ebbe25",
+      "Value": "\"Is this so? Well, if it is true, then you just might be not beyond hope!\""
+    },
+    {
+      "Key": "796388bb-359d-459c-9ca4-d04a7b6680cb",
+      "Value": "{n}Octavia glowers at the gnome.{/n} \"Sounds like your servants are nothing but tools to you. Truly, with masters like that being a servant is not much of an improvement over being a slave!\""
+    },
+    {
+      "Key": "3651c9e2-e8c7-442f-8b2c-f75b390a7ee0",
+      "Value": "\"What's this then?\" {n}The gnome sizes Octavia up from under his glasses and snorts, rolling his eyes.{/n} \"Run along, little girl, the grown-ups are talking.\""
+    },
+    {
+      "Key": "a7ef1b60-e7e7-4732-a40e-59da8dc4e75e",
+      "Value": "\"So you're not only arrogant, but a boorish swine as well. Why am I not surprised at all?\""
+    },
+    {
+      "Key": "e35b2b7b-788c-4dc8-82ff-0a370432c8bc",
+      "Value": "{n}Jubilost only clears his throat, paying no attention to the fuming mage.{/n}"
+    },
+    {
+      "Key": "6be01d67-1f4e-44d5-955c-ea8358b733db",
+      "Value": "\"Please, {name}! Be decent!\" {n}Valerie waves you off.{/n} \"I won't fall to pieces from some nonsense blabbed by a foreigner.\""
+    },
+    {
+      "Key": "ebbcceeb-1095-4f81-b676-d5a6bd3355a3",
+      "Value": "{n}It takes Jubilost a few seconds to realize the comment was directed at him, after which the gnome's mouth falls open with indignation.{/n} \"I'll have you know that...\""
+    },
+    {
+      "Key": "52ce8903-9a64-47c6-aae1-840e63b04528",
+      "Value": "\"Oh, is that so? I would then deem it necessary to inform you that...\""
+    },
+    {
+      "Key": "da7f0835-7d22-4580-95b2-34a43565d08d",
+      "Value": "\"{name}, please. Don't waste your words and time on this buffoon. Especially because of me.\" {n}Valerie nods to you with a slight smile, indicating her appreciation for your aid.{/n}"
+    },
+    {
+      "Key": "dfa3aa15-381b-4e1c-8159-82a5cf3d6cf6",
+      "Value": "\"You see, long ago, there was a dwarven trade route crossing these lands. It connected the {g|Five Kings Mountains}Five Kings Mountains{/g} and the north. The route was so important to the dwarves that they set a number of outposts along it, manned with armed guardians to provide protection for the traders.\""
+    },
+    {
+      "Key": "d915017d-3969-412b-9649-cbaa4aec9870",
+      "Value": "{n}The gnome that stands before you wears dirty and ragged clothes. They used to look stylish and wealthy long ago, but those times are long gone. His black hair is matted, a deep fresh scratch crosses his cheek. Despite of this rather pathetic look, the gnome behaves with inner dignity and even manages to maintain a superior manner.{/n}"
+    },
+    {
+      "Key": "987dc1d3-887d-4f54-baab-2854b0dfc42d",
+      "Value": "\"One of these outposts must be somewhere nearby, lost and completely forsaken. But nothing can avoid the watchful eye of the great cartographer Jubilost Narthropple.\" {n}Jubilost thrusts out his chest.{/n} \"I will find this outpost and I will mark its location on the map, you can trust me on that!\""
+    },
+    {
+      "Key": "3e607e1b-dee5-444a-b15f-d86434d6d4e7",
+      "Value": "\"Didn't read any of these? Oh well, don't answer that. I don't want to spoil my impression of your barony, it's spoiled enough already. It would be hard for me to write something positive otherwise.\""
+    },
+    {
+      "Key": "79e6d2a8-5bd3-4319-beb0-71d6bb71cfba",
+      "Value": "\"Anyway, I'm almost done with this journey. My article is practically ready, so is the map. All that is left to do now is to find an old dwarven outpost, established here several centuries ago.\""
+    }
+  ]
+}

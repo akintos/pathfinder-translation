@@ -1,0 +1,65 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "f0131900-d0a8-44aa-92cc-0fb54c508a6b",
+      "Value": "{g|Divine4_1}[Choice effects]{/g} [Pay 100 BP] \"We shall build this library of magic. It will spur the development of mystical arts.\""
+    },
+    {
+      "Key": "f2752701-702b-43e3-87e8-1783cef244b4",
+      "Value": "\"We can do without a magic library. There are more urgent matters before us.\""
+    },
+    {
+      "Key": "14ad9b61-f2c0-48aa-b3ce-56395df2cbdf",
+      "Value": "\"Why don't you decide?\""
+    },
+    {
+      "Key": "b0c69db9-d0c3-4d99-ba72-79038167ee8c",
+      "Value": "{n}Tsanna pats her rat gently. Her rat's grey body is swollen, as if it were carrying a brood of twin-headed beasts.{/n} \"Your pack grows like rabbits, and your mages multiply along with the rest. You should find yourself an advisor, a Magister, to look after these spellcasters and keep them on a tight leash. You might find my methods for establishing order too rough.\""
+    },
+    {
+      "Key": "29f321b5-3f22-4cc8-b522-01da45f03bc0",
+      "Value": "\"Speaking of spellcasters. A few worshipers of {g|Nethys}Nethys{/g} have traveled here from {g|Absalom}Absalom{/g}. They await you in the hallway. They seek to construct a library of magic in your capital, to make it a center of sacred knowledge for all the {g|River Kingdoms}River Kingdoms{/g}. Were I in your place, I would say yes. Such power might come in handy in making your subjects more... open-minded about the worshipping of Lamashtu.\""
+    },
+    {
+      "Key": "9527c524-5c0d-4d37-aaa5-c7202a2ddbc4",
+      "Value": "{n}Harrim broods and mumbles, then clears his throat.{/n} \"Listen, {name}. I wish to give you some advice: find another advisor who can deal with affairs of magic. The {mf|barony|barony|kingdom|kingdom} will struggle without a Magister. It is dangerous to leave such important issues unattended.\""
+    },
+    {
+      "Key": "d647b924-e451-4b01-9d88-f1e43b6b7afc",
+      "Value": "\"Before you appoint someone for this position, I will take upon myself this final case, involving wizards and other spellcasters. A group of {g|Nethys}Nethys'{/g} priests have arrived at your court, to propose an amazing thing: founding a library of magic – here, in the capital. Your barony would gain a valuable store of knowledge, that would otherwise fade into darkness. I believe this deed is worthy of you and your {mf|barony|barony|kingdom|kingdom}.\""
+    },
+    {
+      "Key": "ba8e5806-0822-4274-b730-802cec19635c",
+      "Value": "\"I agree. I will convey your message to the priests of {g|Nethys}Nethys{/g}.\""
+    },
+    {
+      "Key": "2746884d-dce9-4ede-9347-ca58dbeb63a6",
+      "Value": "\"{mf|Your Grace|Your Grace|Your Highness|Your Highness}, I... we need another advisor, who is equipped to deal with issues of magic. In the past I have spent some of my time on these affairs, but now the population of the {mf|barony|barony|kingdom|kingdom} – and my congregation – has grown so much that I simply cannot handle the extra responsibility!\""
+    },
+    {
+      "Key": "f0d623cd-825b-4106-b48b-585aae316d9d",
+      "Value": "\"Oh, and another thing: a delegation of {g|Nethys}Nethys{/g} worshipers has come to us from {g|Absalom}Absalom{/g}. They've dragged a miniature of some magical library with them. They say they want to build it here, in your capital. If I were you, I'd send them back the way they came. – We've enough on our plate without the crazy projects of a crazy god.\""
+    },
+    {
+      "Key": "72ead3ef-0c8f-43fa-ab7a-6dbc984dd351",
+      "Value": "\"I will immediately pass this news to the priests of {g|Nethys}Nethys{/g}.\""
+    },
+    {
+      "Key": "663b5df4-5373-4cef-960c-24f4e1a63841",
+      "Value": "{n}Jhod nods.{/n} \"Don't worry about what to tell them. I'll find the right words. The priests of {g|Nethys}Nethys{/g} will see their folly and leave in peace.\""
+    },
+    {
+      "Key": "e7a41d84-2891-4ad3-b9ce-302aa03c1299",
+      "Value": "\"Well, then there shan't be any {g|Nethys}Nethys{/g} archives in the capital. We can do just fine without them.\""
+    },
+    {
+      "Key": "167996a1-c144-42bc-9e8a-39d13aafe435",
+      "Value": "\"I will agree to the project.\" {n}Harrim bows slightly.{/n}"
+    },
+    {
+      "Key": "f654205c-ddd8-4bbd-ae6a-eea1b25df781",
+      "Value": "\"I will inform the priests of {g|Nethys}Nethys{/g}s that we accept their offer.\""
+    }
+  ]
+}

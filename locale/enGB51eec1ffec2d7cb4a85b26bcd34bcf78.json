@@ -1,0 +1,149 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "efe9e1f4-2239-4919-833b-77f06d71fbd0",
+      "Value": "\"Not all of us were born for adventure, Mim. You'd better go back home.\""
+    },
+    {
+      "Key": "15df164e-1d57-46dc-b439-dbcc79ddda83",
+      "Value": "\"Everyone makes mistakes. But some give up, while others stand up and go on! I'm going to climb this mountain, no matter what it takes. What about you?\""
+    },
+    {
+      "Key": "da3f6fa9-2595-47ac-8877-510d010b3aac",
+      "Value": "\"What are you doing here?\""
+    },
+    {
+      "Key": "18b2cbf9-09de-4952-a6ca-d14155f9a171",
+      "Value": "\"What's the matter here?\""
+    },
+    {
+      "Key": "fb15b843-3528-49e3-8207-acd0722538eb",
+      "Value": "[Use magic] \"I have just the spell for you...\""
+    },
+    {
+      "Key": "d662af16-5d10-4e23-b550-14776902bbdd",
+      "Value": "\"Let me see.\""
+    },
+    {
+      "Key": "d5c45f43-ec0e-4b9c-9714-d62536b9726b",
+      "Value": "\"I can't help you right now.\""
+    },
+    {
+      "Key": "1dda15f0-e67c-4240-be4b-ecb5aac73397",
+      "Value": "[Try fixing the dislocated joint] \"You didn't break your ankle, you twisted it. Hold on for a second, all right?\""
+    },
+    {
+      "Key": "b1d5a4e0-1468-4cdf-92ac-fb02662f5de6",
+      "Value": "\"There's no fracture – it's just dislocated. But I'm not sure I can fix it myself...\""
+    },
+    {
+      "Key": "66b0564b-2cb9-4935-b2a9-ff1aebe69151",
+      "Value": "\"About your ankle...\""
+    },
+    {
+      "Key": "db881bf1-4cf7-4479-9fe6-c4006bb7173c",
+      "Value": "\"I'm sorry, I was trying to set it back in its socket. But it seems too badly twisted.\""
+    },
+    {
+      "Key": "96c64671-8c52-4497-9a00-9487b42be928",
+      "Value": "\"Ouch. That must have hurt.\""
+    },
+    {
+      "Key": "8ccb7283-141b-4704-bbe5-4c5ee45c116f",
+      "Value": "\"Watch your tongue if you want to keep it.\""
+    },
+    {
+      "Key": "f6d22c87-4fab-4feb-9ee6-f19aaeef71a5",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "85f978a6-9df3-4ff7-999d-2fd28b5295d6",
+      "Value": "\"You decided to go on, even after you saw giant spiders?\""
+    },
+    {
+      "Key": "c1bf60c9-8e6d-46d9-b2c5-b0c02a6c275f",
+      "Value": "\"It's... it's you!\""
+    },
+    {
+      "Key": "0dd106e3-73ff-4ad3-9f41-e0aaf6482c3d",
+      "Value": "{n}{d|Mim}Mim's{/d} clothes are dirty, and her hair is matted.{/n} \"Good gods! I feared I would... I would have to stay... here forever...\" {n}Tears are running down her dirty cheeks, leaving light trails on her skin.{/n}"
+    },
+    {
+      "Key": "f320e983-97a6-43ee-9a36-724407fd7a17",
+      "Value": "\"I... I wanted to climb {g|Talon Peak}Talon Peak{/g}. It was... a sudden decision. I just thought, why put it off? Why ask for someone else to help, like I always do? Why can't I just get my wish by myself? After all, I left father so I could achieve everything on my own. So, I decided to climb the mountain alone. Skies above, my pride nearly sent me to my grave!\""
+    },
+    {
+      "Key": "7d27a36b-9b7d-4da4-be37-6e65ede5e3ad",
+      "Value": "{n}A smile appears on Mim's pale face.{/n} \"After all, what good would an ascent be if there weren't any obstacles along the way? I'm not giving up! Let's go! To the top! You're coming with me, right?\""
+    },
+    {
+      "Key": "21d7cce7-b0af-4a71-8149-8543992919b3",
+      "Value": "{n}Mim lowers her head and sighs heavily.{/n} \"You're... you're right. I should know that my place is in the workshop with my tools. Just show me the way, and I'll be off.\""
+    },
+    {
+      "Key": "932a0e63-0255-4440-a9f3-3365d011f937",
+      "Value": "\"I think I broke my ankle... I was fighting some spiders, and stepped on a stone, and it slipped, and I tripped and fell, and hit my ankle... I managed to drive away the beasts, but it's still messed up. It hurts too much to walk on. I crawled for several hours, but I couldn't...\""
+    },
+    {
+      "Key": "d7c99a73-e9e6-46aa-b90c-095ed8102e6e",
+      "Value": "{n}Mim relaxes her shoulders in relief.{/n} \"Whew... That's much better. Thank you so much!\""
+    },
+    {
+      "Key": "fb094ddd-5b22-4c57-be43-151c3636a097",
+      "Value": "{n}Mim's ankle is swollen and red. It looks more like a dislocation than a fracture. You palpate the area to find the bone intact.{/n}"
+    },
+    {
+      "Key": "918cbfc0-679b-4069-b2fe-7db3e59ee3f0",
+      "Value": "\"Think of something, please...\""
+    },
+    {
+      "Key": "2ae140f6-aa8a-4a67-a734-9bfcc86f07ce",
+      "Value": "{n}Mim's ankle looks swollen and red. You'll need help of an expert medic...{/n}"
+    },
+    {
+      "Key": "573f263e-9249-4e73-a410-fe7d83c18d18",
+      "Value": "\"Wait, what... OUCH!\" {n}The joint clicks back into place.{/n} \"Oh... well... It feels better... Much better! Thank you very much! Here, I'll try to get up...\""
+    },
+    {
+      "Key": "c1bdaac1-a4b7-412a-9f16-7ac398535073",
+      "Value": "\"Wait, what... OUCH! Devil's mercy, that hurts! What the hell do you think you're doing?\""
+    },
+    {
+      "Key": "b98a32f6-3ba8-439a-a68b-2b51405f2d37",
+      "Value": "{n}Mim looks away.{/n} \"I see. Well, thanks for trying to help.\""
+    },
+    {
+      "Key": "191a4fc6-5025-496f-be32-7837651ad75a",
+      "Value": "{n}Mim inhales, then breathes out slowly.{/n} \"Just... don't. All right?\""
+    },
+    {
+      "Key": "fe9091d1-6133-4bd1-8ff2-c23c1ffdcab6",
+      "Value": "\"So, the bones are intact... So that's good. I think.\""
+    },
+    {
+      "Key": "1526769c-feae-47a4-923b-ffb2192ccbae",
+      "Value": "{n}Mim flinches and lowers her head.{/n} \"I'm sorry, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. The pain is clouding my judgment.\""
+    },
+    {
+      "Key": "de355536-6263-4ce1-adcc-7a412ba438eb",
+      "Value": "{n}Mim looks at you with hope.{/n}"
+    },
+    {
+      "Key": "5de8196e-63dc-4db4-b966-9f07a4300ef6",
+      "Value": "\"Yes... I can walk now. But where should I go?\""
+    },
+    {
+      "Key": "70532c7c-e88d-4468-bab7-7848fff2b895",
+      "Value": "\"Don't get me wrong, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. I... I suddenly realized what my third wish would be. What I need to do, to find my inspiration. I must climb {g|Talon Peak}Talon Peak{/g}! To see the world from that height, to rise above myself... that's what my soul has been craving! But I don't know if I can make it.\""
+    },
+    {
+      "Key": "21f4ec23-e69e-436d-a467-c7ff897e523b",
+      "Value": "\"For heaven's sake, come back soon!\""
+    },
+    {
+      "Key": "c791554d-d8be-4e63-98d4-1515d611602c",
+      "Value": "{n}Mim's face turns red.{/n} \"I'm a mage! Before I tripped, I was handling them just fine! They were still afraid to attack, the spineless creeps...\""
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "6e5e60d2-e25e-45e6-8bd6-8eae91efc60f",
+      "Value": "\"Is this your tribe?\""
+    },
+    {
+      "Key": "6efdbc8f-eafa-4610-aa9d-9a4faca2bdfd",
+      "Value": "\"You need to get them to leave.\""
+    },
+    {
+      "Key": "a849da87-5773-407d-a1d2-136b29e04969",
+      "Value": "\"As my specially-designated Warden, drive them out. By force, if necessary.\""
+    },
+    {
+      "Key": "88d533f4-ae18-4471-b624-6780be3a6fee",
+      "Value": "\"As my specially-designated Councilor. Ask them, politely, to move elsewhere – do not fight them.\""
+    },
+    {
+      "Key": "fb597057-fedb-4ff1-8c63-a59ecb0be238",
+      "Value": "\"As my specially-designated Diplomat. Tell them they can set up a new tribe, but at least twenty leagues from Oleg's. Downwind.\""
+    },
+    {
+      "Key": "f01bfbbd-04db-4539-82c3-500eb69c653a",
+      "Value": "\"Make them leave, or I'll do it myself.\""
+    },
+    {
+      "Key": "3263025e-8dc6-4865-8d98-7328eb601f22",
+      "Value": "\"Caught? By who?\""
+    },
+    {
+      "Key": "598b868d-3932-41ae-accb-c950eb2f9b39",
+      "Value": "\"Nok-Nok, be ready.\""
+    },
+    {
+      "Key": "c1878134-6c57-40ff-b50b-de1f4f135f36",
+      "Value": "\"Look... uh, whatever your name is, we don't want any bloodshed, let's talk about this.\""
+    },
+    {
+      "Key": "1d8b8dd1-578f-4f33-9397-cee151808ff1",
+      "Value": "\"You're trespassing by the law of the land, giant. Leave now.\""
+    },
+    {
+      "Key": "7818f151-ff38-4db9-abb8-2b0e9d382c1b",
+      "Value": "\"This should be fun. Let's see how this plays out.\""
+    },
+    {
+      "Key": "71d4707f-bf59-4e1c-b2c1-0e8f7edb3be1",
+      "Value": "[Attack] \"Let's kill this beast.\""
+    },
+    {
+      "Key": "3910d515-7af1-46fb-ade9-5b8bbc90a50f",
+      "Value": "\"Well, it looks like we'll be doing more than murdering a few goblins. Good.\""
+    },
+    {
+      "Key": "843e3eb7-4471-4cec-8c7b-e048ac7a4597",
+      "Value": "\"You can understand him?\""
+    },
+    {
+      "Key": "7b5a0904-0928-426e-b285-9febed5c0162",
+      "Value": "\"Keep pretend- er, being my Warden and order him to leave, or we'll use force.\""
+    },
+    {
+      "Key": "67e8e3b6-7330-4c3c-b866-76910f30bbab",
+      "Value": "\"Try some diplomacy, then, 'Councilor', if he won't understand me.\""
+    },
+    {
+      "Key": "d0987a67-72f6-4334-bfa6-2be77b19cbf6",
+      "Value": "\"Well, 'Grand Diplomat', see if we can make a deal with him.\""
+    },
+    {
+      "Key": "15b1f185-a6e8-4b73-8990-87cc58c1c15c",
+      "Value": "\"He can eat them all for all I care.\""
+    },
+    {
+      "Key": "ef227a00-0f79-4aab-bc42-179b254b0138",
+      "Value": "[Put your hand on you weapon] \"Back away, monster, or I'll kill you.\""
+    },
+    {
+      "Key": "77517fc5-1f0c-436f-9c3f-e89cea31fe47",
+      "Value": "\"Well, do something about it!\""
+    },
+    {
+      "Key": "c46ed0e4-5d1c-42b8-82a6-ea541bbeab66",
+      "Value": "\"Attack him again, Nok-Nok!\""
+    },
+    {
+      "Key": "8419de0e-1efa-4e6e-85c9-cb32dea43096",
+      "Value": "\"Come on, Warden, you need to do better than that.\""
+    },
+    {
+      "Key": "8403d355-5a45-49da-abff-55f3b9c23dab",
+      "Value": "[Attack] \"Enough of this. Let's kill the beast.\""
+    },
+    {
+      "Key": "b2ea876c-4106-40c3-b46b-845c0fd24c7b",
+      "Value": "\"See if he'll leave now.\""
+    },
+    {
+      "Key": "89c42ffa-7765-4aa7-bed8-88cabff50452",
+      "Value": "\"Keep trying, Nok-Nok. There must be something you can say to convince him.\""
+    },
+    {
+      "Key": "53ab6df6-2826-4e7e-a9b6-5ad40c159420",
+      "Value": "\"Tell him there's food where he's going. And drink.\""
+    },
+    {
+      "Key": "6851c7e7-fab2-410d-975f-2af4ef322426",
+      "Value": "\"What did you say to him?\""
+    },
+    {
+      "Key": "963a6d0b-290b-41b2-ba84-d89520491181",
+      "Value": "\"That worked, well done, Nok-Nok.\""
+    },
+    {
+      "Key": "c1fdf61f-80cd-4480-ab9b-5b8b03d6479b",
+      "Value": "\"What?! Why did you do that?\""
+    },
+    {
+      "Key": "9dc8e07c-b2d3-4790-ad50-b659544f6ccc",
+      "Value": "\"Are you an idiot? Never mind that, of course you are.\""
+    },
+    {
+      "Key": "d29332ce-b1c0-4164-83ad-fe9a2d3f0f26",
+      "Value": "\"He goes there, his belly will be filled with spears. He'll likely do some damage, too. Great.\""
+    },
+    {
+      "Key": "379f348b-4486-47c5-86b7-2f09dd1e6971",
+      "Value": "\"That's it for Munguk... what about your tribe here?\""
+    },
+    {
+      "Key": "b736d605-69b6-412f-92f9-fa4d0a42f5df",
+      "Value": "\"Hmm. Do you think he'd like Amiri?\""
+    },
+    {
+      "Key": "62ea8879-a51e-4cc8-8dbe-f04f4820d3c7",
+      "Value": "\"A wife? Really?\""
+    },
+    {
+      "Key": "aa190fe8-d2da-4fc8-b18a-5df6930dadc1",
+      "Value": "\"Can you tell him to look elsewhere for a wife?\""
+    },
+    {
+      "Key": "6ea8858d-99d5-4172-a1a8-6233ca1ba139",
+      "Value": "\"Well, send him somewhere.\""
+    },
+    {
+      "Key": "3229daa3-c5ec-49cd-a9bb-c7900619f5f1",
+      "Value": "{n}You stumble across an ugly scene – a ragged pile of goblins. They are hiccupping violently, laughing, then hiccupping again – the air is so thick with alcohol fumes, flies lie dead in the dirt... and an odd vinegar smell as well.\nIt appears the goblins have gotten into Oleg's stock... and drank deep of its contents. Barrels lie in splinters around the area, not a single one intact.{/n}"
+    },
+    {
+      "Key": "ee4196b9-3b5c-40ee-93bb-db3101d19e1e",
+      "Value": "{n}Nok-Nok surveys the goblin pile, then glances at you with a shrug.{/n} \"No problem here. Normal day for tribe. Would be worse if holiday.\""
+    },
+    {
+      "Key": "85907c68-cf01-4ac1-82c9-05e2729940fd",
+      "Value": "\"Listen. Nok-Nok Big Hero, you do what Nok-Nok say. But...\" {n}Nok-Nok frowns, his ear twitching.{/n}"
+    },
+    {
+      "Key": "74c48658-c397-4d00-872e-4e719a430d4f",
+      "Value": "\"Tell me where Bigshanks now. When he expect you back? Did Bigshanks follow y-\""
+    },
+    {
+      "Key": "d4184442-ca4e-409b-90ca-e69d2bfe2e12",
+      "Value": "{n}At that moment, there is another waft of foul air, and a shadow falls on the ground.\nAll the goblins in the pile lift their heads at the new arrival – a towering hill giant with mis-matched coveralls, a necklace of hands and skulls, and a makeshift club composed of several timbers tied together with rope. He looks very, very angry – not just at the pile of goblins, but the splintered, empty barrels.{/n}"
+    },
+    {
+      "Key": "777d3833-5104-475e-a1a6-b2d162de7600",
+      "Value": "\"That him,\"{n} Long-Legs says unhelpfully.{/n}"
+    },
+    {
+      "Key": "ed67470a-362a-47d7-8609-d2011b6a4a90",
+      "Value": "{n}Nok-Nok sniffs.{/n} \"Yes.\" {n}He sniffs again, and you suddenly become more aware of the vinegar smell.{/n} \"They've marked this as home. It will be hard to make them leave this home. Though...\" {n}He glances around in disapproval.{/n} \"...it much smaller than the capital, capital would have more room for them, not have to lie in pile, could be lying down drunk everywhere.\""
+    },
+    {
+      "Key": "6d872c69-ac2b-4f6a-992f-df19079e0540",
+      "Value": "{n}Nok-Nok looks confused.{/n} \"But...\" {n}He sniffs again, and you suddenly become more aware of the vinegar smell.{/n} \"They've marked this as home. It will be hard to make them leave. Though...\" {n}He glances around in disapproval.{/n} \"...it much smaller than the capital, capital would have more room for them, not have to lie in pile, could be lying down drunk everywhere.\""
+    },
+    {
+      "Key": "2d0dd64f-9872-42d5-a8c8-279044e8dde2",
+      "Value": "{n}He turns to one of the group entwined in the mass.{/n} \"You – Runny-Long-Legs, why did you stop running? Why make home here?\""
+    },
+    {
+      "Key": "7ace937f-1c71-4ada-8527-fd5e9e601419",
+      "Value": "{n}The goblin lifts his head slightly, his tiny eyes blearily red. His legs are indeed long – and folded back, almost like a grasshopper.{/n} \"Kept... getting chased, no place to settle down. Got hungry. Then caught. Then we sent here, and now...\""
+    },
+    {
+      "Key": "7742278f-7436-4ec5-b5e7-2812f7ec1347",
+      "Value": "\"Bigshanks... bigger than you.\" {n}Long-Legs blinks, and scratches the side of his head with his foot.{/n} \"Fatter. Smelled better. Big club. Was eating sheep. We tried to share his sheep with us by taking one... a small one... in the night while he snore... but we not ask first, so he got mad.\""
+    },
+    {
+      "Key": "b645eb57-371f-4a18-b4e6-7822ae442a12",
+      "Value": "\"After eating half of us, he get so full, he ready to trade. He say if we find him something to wash other goblins down with because they still squirming in his gut, he let us go. We knew a place – here, at post... but... had to sample kegs to be sure.\""
+    },
+    {
+      "Key": "e105efca-a324-4d43-8137-a767d7815550",
+      "Value": "{n}The hill giant turns to you, as if in challenge, points to himself and gives a rumbling growl akin to \"MMNNN-guhk\", then turns to the goblins, his hand clenches on his club, and the growl grows louder. He points at the goblins, then points at his belly, the intent clear.{/n}"
+    },
+    {
+      "Key": "7a98a50a-d292-4771-98ca-eead6890c724",
+      "Value": "{n}The goblins do not respond, not even Long-Legs... their eyes remain wide, frozen. Suddenly, Long-Legs makes a high-pitched squeak and points at Nok-Nok.{/n} \"HE our leader. HE a Hero. He make us drink everything we promised. Also, he made us eat your sheep. Eat him and ugly friend.\""
+    },
+    {
+      "Key": "b1d6acb3-de4d-4928-b7f7-9b6eb8f3160c",
+      "Value": "{n}The hill giant snarls, lifts his club – then turns to you and Nok-Nok, and thrusts out his chin, pounding his chest and giving a thundering series of grunts that sound like a challenge.{/n}"
+    },
+    {
+      "Key": "15380a34-197b-489a-9573-c557b8feeb54",
+      "Value": "{n}Nok-Nok blinks.{/n} \"He... 'Munguk'... says... not in the mood to share. He says the halfshanks are... their guts his to eat.\""
+    },
+    {
+      "Key": "f615916b-600c-4f6a-9171-23640fc6b5cb",
+      "Value": "\"He says he eats all halfshanks. That includes you. You are halfshank to him.\""
+    },
+    {
+      "Key": "fb285bb1-1bcf-496d-858b-f46745dcf2ae",
+      "Value": "\"I can.\" {n}Nok-Nok seems embarrassed.{/n} \"Got caught by hill giants once. Kept as a toy for their kid. Until ran away.\""
+    },
+    {
+      "Key": "eab7f52f-6f5d-44f5-a6f4-138d8ab8ff91",
+      "Value": "{n}Munguk gives a roar as you draw your weapons. You've got an angry giant on your hands!{/n}"
+    },
+    {
+      "Key": "e5c50623-fa24-4333-81dc-8b7bc74e8c4b",
+      "Value": "{n}Munguk may not understand you, but is keen on catching your intent. He growls and raises his club. Then growls again.{/n}"
+    },
+    {
+      "Key": "44d4d471-0b7f-4ade-9765-d6ea7ec6fea3",
+      "Value": "{n}Nok-Nok swallows, then takes a deep breath, and strides up to the hill giant, barely cresting his knee. He then gives a few short drawn-out squeaks.\nThe hill giant doesn't respond, seemingly confused. Nok-Nok repeats himself, and again, is met with silence. Frustrated – and without thinking – he kicks Munguk as hard as he can – and howls in pain.{/n}"
+    },
+    {
+      "Key": "df36c369-8e78-4bcd-bf5e-e5103e7cac10",
+      "Value": "{n}Nok-Nok hesitates for a moment, then presents an open palm – then taps it with a finger... you suddenly realized he just did what seems to be the goblinoid version of \"trade.\" You think he's asking what Munguk want – but not about food, but currency, something of value.{/n}"
+    },
+    {
+      "Key": "466ad216-3bc1-4625-94ef-c4a27a0e6760",
+      "Value": "{n}Munguk seems oblivious to the kick, but glances down at Nok-Nok, who is now holding his foot and leaping about, and suddenly, a smile slowly cracks Munguk's stained face – it's like watching clay crack.\nThen, he starts chortling as Nok-Nok's eyes water.{/n}"
+    },
+    {
+      "Key": "d46a900b-54e9-4a8a-9596-ecac098cdb90",
+      "Value": "{n}Nok-Nok finally stops hopping about and takes a step back, glaring furiously at Munguk.{/n}"
+    },
+    {
+      "Key": "e20f0a3d-4a0c-4c5b-b32b-c4a43e6a855c",
+      "Value": "{n}Seeing the goblin become still, the once-smiling hill giant begins to grumble angrily, his eyebrows drawing together.{/n}"
+    },
+    {
+      "Key": "7a11dc65-50f8-4e53-b702-b942c49dd418",
+      "Value": "{n}Nok-Nok looks confused at your order, then without thinking, kicks Munguk again, and emits a new set of howls.{/n}"
+    },
+    {
+      "Key": "1e7d8c87-74bc-40df-8d03-2665ddfb4e47",
+      "Value": "{n}At this, the giant gives a delighted, booming laugh, spittle flying from his splintered teeth. One gob flies, almost slowly, twisting in flight, to land directly onto Nok-Nok's head with a heavy SPAT, forming a phlegmy cap that drips down his face.{/n}"
+    },
+    {
+      "Key": "370f4ba9-0ab5-4919-8ea2-7b7c924b5839",
+      "Value": "{n}The other goblins, once paralyzed by drink and fear, suddenly begin to laugh as well, pointing at Nok-Nok, until the entire building is filled with laughter.{/n}"
+    },
+    {
+      "Key": "500da806-d485-4f71-aa2f-dc935deac84f",
+      "Value": "{n}Nok-Nok's ears droop at the ridicule, but then he finally manages a half-hearted chuckle, until he's laughing as well... and the hill giant doesn't seem as angry anymore, it seems he's forgotten his hunger in the light of this amusement.{/n}"
+    },
+    {
+      "Key": "888812ea-a00f-41cd-ac9f-becaadf70837",
+      "Value": "{n}Nok-Nok looks doubtful, but shrugs. Squaring his chest, he tries to give a booming, rumbling command, then stomps his feet and nods outside.{/n}"
+    },
+    {
+      "Key": "64dba91d-0c36-4664-bb3b-913e03699e3d",
+      "Value": "{n}The hill giants glances in that direction, then turns back to Nok-Nok, confused, then points at his belly… then points at Nok-Nok.{/n}"
+    },
+    {
+      "Key": "b3a00e63-a7fc-4d10-9ec3-5609dbd64e85",
+      "Value": "{n}Nok-Nok shakes his head frantically, then risks a quick glance at you.{/n} \"Munguk not want to go. Food is here. Now he think me not a Hero, but food, too.\""
+    },
+    {
+      "Key": "061092bf-84fa-4713-b860-6832baf674c3",
+      "Value": "{n}Nok-Nok thinks hard for a moment, one ear twitching... then brightens. He gives a series of rumbling grunts, very quick in succession, then spreads his hands out wide – and then spreads them high, standing on his tiptoes. After that, he settles back on his heels, and pats himself on the belly with a \"mmmm\" sound… which doesn't need translation.{/n}"
+    },
+    {
+      "Key": "578abbb5-f74d-49b6-9ae3-2e9409246eda",
+      "Value": "{n}Nok-Nok nods. He gives a series of rumbling grunts, very quick in succession, then spreads his hands out wide – and then spreads them high, standing on his tiptoes. After that, he settles back on his heels, and pats himself on the belly with a \"mmmm\" sound… which doesn't need translation.{/n}"
+    },
+    {
+      "Key": "4b972dee-09c8-45fd-8c2c-bcb6c5676c6c",
+      "Value": "{n}Munguk absorbs this dully, then glances at the goblins. He gives a short, dismissive grunt, then glances back at Nok-Nok and shrugs... then to your surprise, he lumbers out, club over his shoulder.{/n}"
+    },
+    {
+      "Key": "cd892fdc-0e6d-4fa0-96b3-d038ceb1d079",
+      "Value": "\"Just make sense to him with words, like real Hero.\" {n}Nok-Nok puffs up triumphantly.{/n} \"Send Munguk to capital. Lots of food there and drink, he have ALL he need to fill belly.\""
+    },
+    {
+      "Key": "dbb1869f-79fe-4806-a6b0-e63a315ca919",
+      "Value": "{n}Nok-Nok loses some of his puffed-up-ness, his ears drooping.{/n} \"I not counsel well? But... Hero good at chasing off giant means Nok-Nok good Hero... right?\""
+    },
+    {
+      "Key": "f8cd44d6-f2eb-4720-8123-7376a9c94c8f",
+      "Value": "{n}Despondent, Nok-Nok thinks hard, his thinking ear twitching again, but he seems to be chewing over your words.{/n}"
+    },
+    {
+      "Key": "068578e7-2989-4a14-9b89-e409a7cfc524",
+      "Value": "{n}Ignoring him, pile of goblins are all watching you as they sober up.{/n}"
+    },
+    {
+      "Key": "ae5666c2-717f-4725-9184-a6aed45b1e3f",
+      "Value": "{n}To your surprise, Munguk looks sad – his eyebrows collapse and he gives a low grunt. The anger seems to have cool, and he makes a rumble, staring off into space with a half-lidded gaze. He doesn't seem drunk, merely... sad. He gives a grumble, then a sigh, then a low, exhaling rumble.{/n}"
+    },
+    {
+      "Key": "9ce9a13b-3e54-4a88-bb01-a15547941299",
+      "Value": "{n}Nok-Nok nods, listening, then translates – you think.{/n} \"Munguk not happy. He not hungry, just lonely. Says... came here looking for mate to be happy.\" {n}Nok-Nok wrinkles his face in disgust, and shivers. Still, he keeps going.{/n} \"But when he come, no wife, goblins take his favorite half-sheep entrails, drink the liquor he send them for. And he have nothing.\""
+    },
+    {
+      "Key": "829b211e-2173-4ff9-ab31-21f9b8226f40",
+      "Value": "{n}Nok-Nok shakes his head.{/n} \"No one does.\""
+    },
+    {
+      "Key": "bdcac279-aee4-4f6d-bf48-0f2bf3d20180",
+      "Value": "\"Ah, ha, HAH.\" {n}Amiri snarls sarcastically... as she does, Munguk looks up at her, and his face brightens.{/n} \"No! NO!\" {n}Amiri shouts at Munguk, as if bringing a dog to heel, and his eyes widen in fear.{/n} \"No, don't you think of it, stay back, or I'll cut your legs off so you can sit here and rot!\" {n}Munguk looks pained, then sighs.{/n}"
+    },
+    {
+      "Key": "101e9cb8-30db-4008-8c7c-8ec12e8be084",
+      "Value": "{n}Amiri continues glaring at Munguk, as if on guard in case of his renewed interest.{/n} \"He's a slow one, but in some tribes, they'd send the dumb men off to... you know, go do something to earn his right to marry. Only smart men come back. Or not take a wife.\" {n}She shrugs.{/n} \"Or I could just hack off his legs, let him bleed out.\""
+    },
+    {
+      "Key": "4e36175e-5171-428c-af20-8372f26b3560",
+      "Value": "{n}Nok-Nok shivers, then pauses.{/n} \"...cutting off legs be better than finding mate.\""
+    },
+    {
+      "Key": "8f5e3d28-8b49-4320-8dc9-cb58f193307b",
+      "Value": "\"Sad for him.\" {n}Nok-Nok gives a shiver and a nod, then pauses.{/n} \"...cutting off legs be better than finding mate.\""
+    },
+    {
+      "Key": "26ac7222-e4b9-4f93-966c-373332db005d",
+      "Value": "{n}Nok-Nok shrugs, then emits a series of what passes for rumbles, and he makes a slow sack-shaped gesture in the air, then points to the gate of the fort.{/n}"
+    },
+    {
+      "Key": "44b71f87-7577-431a-bcda-3e7dde655b98",
+      "Value": "{n}Munguk shakes his head, slowly, and sighs again, giving a low grumble in his belly.{/n}"
+    },
+    {
+      "Key": "719c5989-88f4-4ec5-9ec7-7426df9388fe",
+      "Value": "{n}Nok-Nok shakes his head.{/n} \"No, he said he looked everywhere.\""
+    },
+    {
+      "Key": "66f9ea12-4807-4c81-84f2-e4ff648e0afd",
+      "Value": "{n}Nok-Nok gives a reluctant nod, think, then makes an interrogatory grumble. Munguk looks confused, at which Nok-Nok repeats himself, more firmly. He traces his finger across his palm, as if providing a map and the giant looks blearily at it.{/n}"
+    },
+    {
+      "Key": "6258ee68-5ddb-488a-a3c8-3cb0ee3561d8",
+      "Value": "\"Just make sense to him with words, like real Hero.\" {n}Nok-Nok puffs up triumphantly.{/n} \"Send Munguk to capital. Lots of women, he have ALL he need to choose wife.\""
+    },
+    {
+      "Key": "387d12d9-8875-4501-a79e-2cf699a83a50",
+      "Value": "\"Ha! I'd love a festival like that! I think these guys wouldn't even mind if I fried their friends a little!\""
+    },
+    {
+      "Key": "29abfe35-feb5-442b-a107-6ec0affd3748",
+      "Value": "{n}Jaethal wrinkles her nose ever so slightly.{/n} \"Animals.\""
+    },
+    {
+      "Key": "a80ee87a-ead5-4d0a-a525-838f7576c698",
+      "Value": "\"Some appreciation that is! Look, you can't just serve any old swill to the monster that swallowed your friends! You have to be sure it'll complement such coarse meat! Perhaps I should write a guide on pairing drinks for goblin cuisine?\""
+    },
+    {
+      "Key": "2e6f2039-b0b3-459a-895d-cac2fb8e9215",
+      "Value": "\"Hmm. Looks like a giant. Don't know which one.\""
+    },
+    {
+      "Key": "1c347a01-6f4f-4bbc-b647-abda0c135740",
+      "Value": "{n}Amiri draws her weapon.{/n} \"Finally, down to business!\""
+    },
+    {
+      "Key": "d9072984-4741-4cfe-9b99-42f4445328c6",
+      "Value": "{n}Hearing Nok-Nok's words, Tristian winces and shakes his head sadly.{/n}"
+    },
+    {
+      "Key": "6c3c2c63-f16e-4322-9b83-aee3902eec1a",
+      "Value": "\"If... if you look at the entire situation from his point of view... The poor lad!\""
+    },
+    {
+      "Key": "0eb51c72-4199-4eed-b9e1-c92093d88538",
+      "Value": "\"{name}? It may be time to put an end to this madness. This prank has gone overboard.\""
+    }
+  ]
+}

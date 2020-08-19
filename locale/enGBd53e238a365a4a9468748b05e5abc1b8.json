@@ -1,0 +1,81 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "924f8c9a-1eb4-4a99-8987-a00448e98fb2",
+      "Value": "\"Your Grace… Ha, I just realized that I won't be calling you that much longer! I just wanted to tell you that everything is ready for the celebration: your guests have arrived, the capital is fully decorated for the festivities, and the people can't wait for you to make your entrance!"
+    },
+    {
+      "Key": "b2c2eca2-cb7b-4dc3-b2cd-136eae43e2ed",
+      "Value": "\"All right, then, now we can definitely start celebrating... it's just so incredible, I'm so excited: a new kingdom is about to appear — right here, before my very eyes! It's long overdue, if you ask me: my book of our adventures is desperately lacking in episodes where the heroes are properly rewarded!\""
+    },
+    {
+      "Key": "5f58e6f1-2913-4474-8bb9-2d73662fd97d",
+      "Value": "\"Shush, girl, stop babbling, would you? You've been hammering our ears for long enough! It's time to let others speak.\""
+    },
+    {
+      "Key": "a48b2cb4-19ee-41b0-a46d-41270297327e",
+      "Value": "{n}Kesten finds a suitable moment to interrupt the bard's speech.{/n} \"Linzi, I would like to have a word with the {mf|baron|baroness}.\""
+    },
+    {
+      "Key": "de2f6f73-9a4b-44c1-9c27-994296059c42",
+      "Value": "\"Enough, girl, let us say a word or two as well!\" {n}Jhod takes a deep breath, filling his chest.{/n} \"So, Your Grace, are you ready to put a proper crown upon your head? You have no need to answer, I can read it in your eyes: you simply cannot wait!\""
+    },
+    {
+      "Key": "9d325927-a417-444a-a930-b25d6ee14656",
+      "Value": "\"Well, {name}. I didn't expect to live long enough to witness this: the {g|Stolen Lands}Stolen Lands{/g} have finally gained a proper {mf|king|queen}! Now, after the other monarchs have recognized you, no one will challenge your right to the throne.\""
+    },
+    {
+      "Key": "0e755434-8383-447a-b905-6d7a7d2e4c34",
+      "Value": "\"May {g|Erastil}Erastil{/g} guard your kingdom. Rule wisely, don't be too harsh to your people without reason, and remain on friendly terms with your neighbors. That won't work with all of them, unfortunately — may demons take the cursed Irovetti... but if someone offers you a hand — don't reject it! All right, that's enough idle talk. I see Linzi here is getting antsy!\""
+    },
+    {
+      "Key": "289da087-5cc4-45ab-9694-be7dcc7e8a94",
+      "Value": "\"Pardon me for my attire — all these recent events were a bit unexpected... But before the politicians from distant lands start crowding around you, I'd like to tell you this: many people before you tried to win the {g|Stolen Lands}Stolen Lands{/g}, and all of them ended up buried in its swamps, fields and hills. You're the first one who didn't get {mf|him|her}self killed here, the first to bend the Stolen Lands to {mf|his|her} will.\""
+    },
+    {
+      "Key": "ef480062-d227-4d32-b7b3-f61b5de40def",
+      "Value": "\"Don't let anyone to snatch away the slightest bit of what now belongs to you. No outsider \"Stag Lords\", no upstarts like Irovetti. If I could have known who I'd end up serving after House Garess disowned me — well, I would never have believed it. But I am happy to be your vassal, my {mf|Baron|Baroness}. May your reign last a hundred years!\" {n}Kesten bows before you and steps aside.{/n}"
+    },
+    {
+      "Key": "f47bd5b6-2d2e-447a-a437-0b241ecc79f4",
+      "Value": "{n}Kesten nods.{/n} \"After everything we've been through to reach this moment... Remember the Season of Bloom? What about the monster that almost killed Jhod and me right in the middle of our own capital? And you even managed to avert a simmering war! Yes, it's high time you get something you deserve — even more than all these {g|House Surtova}Surtovas{/g} and Aldori: a kingdom of you own, and indeed, your own independence.\""
+    },
+    {
+      "Key": "dba6e977-8a8f-4094-b4f0-6d48942b7424",
+      "Value": "{n}Jhod gives you a tight smile and shakes his head.{/n} \"So much has happened, and much more is still to come, mark my words... You may have dealt with the barbarians, but there remain more than a few threats nearby. Take {g|Pitax}Pitax{/g} for instance — a basket of snakes in our back yard!\" {n}Jhod waves his hand.{/n}"
+    },
+    {
+      "Key": "6e59837f-c4c5-4c37-acd3-bdee383e9892",
+      "Value": "\"But never mind. Let's stop this dark talk, at least for today. Here's what I should like to say instead: though you change your baron's coronet for the royal crown, stay humble. Rule wisely. Don't be too harsh to your people, and don't let us down, for we believed in you from the very beginning. All right, that's it, enough lecturing for today.\" {n}Jhod and Kesten give you a bow and allow Linzi to jump back into the conversation.{/n}"
+    },
+    {
+      "Key": "9d11a615-9b37-4fd7-a0fd-3570f8fdb203",
+      "Value": "\"Well, it's time to talk to our current ally, Lady Aldori! Jamandi wishes to have a word with you before the ceremony begins. There are still some things I must arrange, so I can't linger any longer. The coronation will commence as soon as you arrive at the square.\""
+    },
+    {
+      "Key": "b19a233f-3584-4219-aadf-433855f2578b",
+      "Value": "\"Our new ally can't wait to exchange a word with you. Lady {g|House Surtova}Surtova{/g} requests a brief audience before the ceremony starts. After you're done receiving your congratulations, follow me: the coronation will commence as soon as you arrive at the square.\""
+    },
+    {
+      "Key": "09adfe46-fb5f-474f-8370-16dca9579b5b",
+      "Value": "\"Our esteemed guests, Jamandi Aldori and Natala {g|House Surtova}Surtova{/g}, would like to speak with you before you greet the crowd. Have a nice conversation — meanwhile, I must go and prepare for the ceremony! The coronation will commence as soon as you arrive at the square.\""
+    },
+    {
+      "Key": "a4c3121e-a923-40cc-8e5d-3022e193b94d",
+      "Value": "\"That's it, the ceremony is prepared. I'll wait for you outside — brace yourself and emerge in full splendor! The coronation will commence as soon as you arrive at the square.\""
+    },
+    {
+      "Key": "6c9bf903-a1b6-4f67-8e4c-89419c263c18",
+      "Value": "\"Oh, I almost forgot! Look what I have here — something about a former associate of yours, {d|c41 Lander Lives}Lander{/d}! You better {g|Coronation_Lander}read it{/g} right away and then promptly forget about it. You wouldn't want your mood to sour before the coronation!\""
+    },
+    {
+      "Key": "5d9b28d2-0ee8-48f6-a49c-0eb7e76b1e2d",
+      "Value": "\"Oh, I almost forgot! Look what I have here — something about a former associate of yours... {d|c41 Lander Money}Lander{/d}! You'd better {g|Coronation_Sarrona}read it{/g} right away, then promptly forget about it. You wouldn't want your mood to sour before the coronation!\""
+    },
+    {
+      "Key": "e9203c00-34f1-461b-87c1-debe4b2cfec5",
+      "Value": "\"Oh, I almost forgot! Look what I have here — something about a former associate of yours... {d|c41 Lander Dead}Lander{/d}! You'd better {g|Coronation_Broadsheet}read it{/g} right away, then promptly forget about it. You wouldn't want your mood to sour before the coronation!\""
+    }
+  ]
+}

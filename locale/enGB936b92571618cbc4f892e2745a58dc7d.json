@@ -1,0 +1,201 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "255c8a5e-3fa5-4a4c-b32b-20a9bd0f2df3",
+      "Value": "\"Who are you and what caravan is this?\""
+    },
+    {
+      "Key": "2d832e6d-1f88-4c95-84e3-09ecfc9c879b",
+      "Value": "\"I've no need of dirty tramps in my {mf|barony|barony|kingdom|kingdom}. Get out!\""
+    },
+    {
+      "Key": "540a859f-ed47-4b1e-b688-faee3f1c5c51",
+      "Value": "\"It doesn't matter what I thought. Your kind only brings trouble. Get out of my lands!\""
+    },
+    {
+      "Key": "12ff17b0-8482-4669-a632-5780b33661e5",
+      "Value": "\"You're right. Forgive me.\""
+    },
+    {
+      "Key": "0dd2567d-2def-4899-ac68-2c468cf7631c",
+      "Value": "[Attack] \"Death to thieves and vagabonds!\""
+    },
+    {
+      "Key": "1af20e88-b121-49ac-b770-e4a036ff9d10",
+      "Value": "\"I'm looking for a thief who robbed a few of my subjects. The evidence says he's one of yours.\""
+    },
+    {
+      "Key": "9c48e270-67f5-4cf6-8819-36b7bd142b79",
+      "Value": "\"Don't mess with me, Zandu. That usually ends badly.\""
+    },
+    {
+      "Key": "9ca1d364-7e1b-4a1d-ab21-d1a1e9607d6c",
+      "Value": "\"Listen, I have no wish to be your enemy. But one of your companions stole something, and is now hiding in your camp!\""
+    },
+    {
+      "Key": "73df73f5-a770-47b9-b552-b94f448b7292",
+      "Value": "[Attack] \"If I'm not going to get any answers — then I'll just kill you all!\""
+    },
+    {
+      "Key": "27846597-0182-44fb-9ef0-5578c6072f50",
+      "Value": "\"Fine, don't tell me if you don't want to.\""
+    },
+    {
+      "Key": "2d3cec2a-3190-4e39-bb29-296b428950c1",
+      "Value": "\"Fine. Deal with your black sheep as you see fit.\""
+    },
+    {
+      "Key": "e9dbdcd2-00bc-4892-a348-566cb8c14e64",
+      "Value": "\"I have no reason to trust you. Tell me where this hiding place is. Lorre will be given a fair trial.\""
+    },
+    {
+      "Key": "8f69cfac-0c16-4f50-bcb0-63b81d3b3fd8",
+      "Value": "\"Your family includes elves and halflings?\""
+    },
+    {
+      "Key": "79a51cec-6bcc-4c1b-8ad6-f1aec09b04d7",
+      "Value": "\"So you're traveling... and where have you been?\""
+    },
+    {
+      "Key": "567b679a-6dae-481b-977d-8fc98fe91a28",
+      "Value": "\"Numeria is not the most hospitable place, is it?\""
+    },
+    {
+      "Key": "849a33dd-a92b-4090-ba55-6bdeb4640587",
+      "Value": "\"What the hell did you do in Cheliax?\""
+    },
+    {
+      "Key": "89e6c8a6-2eed-4e01-91f5-d29cf6d136b9",
+      "Value": "\"Why did the Starlings leave their homeland of Varisia?\""
+    },
+    {
+      "Key": "0b433b8f-3a52-4a07-bf8e-2765b0b09588",
+      "Value": "\"Enough about your travels.\""
+    },
+    {
+      "Key": "e9b6f15f-52ea-4937-bade-187eef3f3bda",
+      "Value": "\"Wait... so the Starlings are the same caravan who picked up Jase when she escaped?\""
+    },
+    {
+      "Key": "3de04bff-3ee6-4430-816f-4085822395b4",
+      "Value": "\"You have interesting tattoos...\""
+    },
+    {
+      "Key": "f199d827-29fb-4b45-9a5e-9b99cb4acbd5",
+      "Value": "\"I must go.\""
+    },
+    {
+      "Key": "08990a6f-76dd-4e71-b62a-669c4d558910",
+      "Value": "{n}A dark-haired, dark-skinned {g|Varisia}Varisian{/g} stands before you, wearing an expensive but rather road-worn doublet, a leather belt, and dusty baggy pants. Tattoos that look like cuneiform writing wander up the man's neck and onto his cheeks. The Varisian is holding a deck of cards, springing them from one hand to the other with a faint rustling sound.{/n}"
+    },
+    {
+      "Key": "27c6ea32-dbe3-41cb-be25-4b552513893f",
+      "Value": "{n}The stranger looks at you askance, squinting and sneering with a corner of his mouth.{/n} \"Look who we have here! My regards, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, join our circle! Call me Zandu Starling.\""
+    },
+    {
+      "Key": "62e3589c-6974-4d7d-8f8c-f6776fc83b35",
+      "Value": "{n}Zandu's brows fly up.{/n} \"Really? Then why did you build shrines of our patroness along all your roads? You hoped they would bring travelers with deep pockets?\""
+    },
+    {
+      "Key": "fd80b8c9-3376-403e-8420-f56676789e3a",
+      "Value": "\"Ha, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, if you only knew what I have heard in my travels, you would not apologize for this small matter. Consider it forgotten.\""
+    },
+    {
+      "Key": "1c3eb396-1889-40e6-ab6d-5476d3327a05",
+      "Value": "\"Why should I want to remain? To quarrel with the likes of you? I've no interest in this. — Honest people are welcome in many places. Hey, Starlings! We're leaving!\""
+    },
+    {
+      "Key": "bf0003b0-2d62-49f8-96d7-49207f6550bd",
+      "Value": "\"I have... we have a little brother. His name is Lorre. A halfling. He came to us six months ago. He's a smart fellow, but willful. He's good with his hands, and thinks fast. But he decided to put his talents to ill use. We caught him stealing back in {g|Galt}Galt{/g} — and almost lost our heads because of the little rat!\""
+    },
+    {
+      "Key": "49513074-68bf-4f28-ba24-d485c82c1e61",
+      "Value": "{n}Zandu examines you with his eyes.{/n} \"So, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. We're nomads, so it's all right to blame all the evil in your lands on us?\""
+    },
+    {
+      "Key": "b090771f-2297-46b2-a4cb-ff300472eb15",
+      "Value": "{n}The man's glance becomes heavy.{/n} \"Let the test begin then, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. Perhaps this time {g|Desna}Desna{/g} will smile upon someone other than you.\""
+    },
+    {
+      "Key": "1269f302-221a-42d7-a8a8-4c4d1a4979d9",
+      "Value": "{n}Zandu gives you a long look and then sighs sadly.{/n} \"Fine.\""
+    },
+    {
+      "Key": "5f458409-48be-4f5e-80c2-d38e167d6594",
+      "Value": "{n}Zandu starts whistling carelessly, looking at the cards in his hands.{/n}"
+    },
+    {
+      "Key": "69af8982-2a55-45cb-ae0a-bad7f3f5df9a",
+      "Value": "{n}Zandu casts a glance at the other members of the caravan.{/n} \"So be it, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, you win. Just don't harm the others, they have nothing to do with it.\""
+    },
+    {
+      "Key": "36c82945-3065-4090-a865-d844d4c1b4c9",
+      "Value": "{n}Zandu turns away, but you notice a smug smile on his face.{/n}"
+    },
+    {
+      "Key": "d95c33b9-463f-4fd7-9083-d164794599e0",
+      "Value": "\"I told him last time: we Starlings don't do such things. We may not much respect the law, but we live by our consciences. Lorre just nodded, like he was agreeing. But your presence here means he's up to his old tricks. That must be why I haven't seen him around lately! I'm sorry I didn't tell you right away — I was hoping I was wrong to suspect him. But truth be told, none of ours would do these things. And I'm not his mother to cover for him his whole life!\""
+    },
+    {
+      "Key": "dbfffbba-ab96-4fb7-a660-8548ab76738d",
+      "Value": "{n}Zandu stands up straight.{/n} \"Listen, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. I know where he might have a hiding place. — He hinted at such a place but I pretended I didn't understand. But it's... our business. Family business. Don't send your soldiers after Lorre. The Starlings will deal with him, and we'll return what he stole. I give you my word — there won't be any more thefts here. The Starlings will track down rotten rascal ourselves!\""
+    },
+    {
+      "Key": "ed2ce62f-5b78-4b3f-bd19-0e3c72a53f3c",
+      "Value": "\"Thank you, {mf|Baron|Baroness|King|Queen} {name}. I still hope Lorre can be reformed. He is a good lad. He just got some bad ideas about easy money when he was a kid.\""
+    },
+    {
+      "Key": "da370ea4-c064-4d3e-84ba-e52a8e0f02cb",
+      "Value": "{n}Zandu frowns.{/n} \"You don't trust me? Or the Starlings? Or anyone who's not to your liking? Too bad you tar everyone with the same brush, {mf|Your Grace|Your Grace|Your Highness|Your Highness}... Lorre might have made a mistake, but it seems you're treating others just as poorly.\""
+    },
+    {
+      "Key": "7cc3b50a-eb90-4187-abad-4596d987acbf",
+      "Value": "\"One's family is not just the ones you share blood with. Yes, I have sisters and brothers, but Starling recruits are not kin by parentage, but by spirit and conscience. Every one of our caravan is as good as family. And if someone has pointy ears or hairy feet — why should I care?\""
+    },
+    {
+      "Key": "d9a62613-58e2-432e-a2be-14f20c51e0c1",
+      "Value": "{n}The man runs his finger along the lines on his neck.{/n} \"Yes... In case you don't know, it's a hereditary trait. Some {g|Varisia}Varisians{/g} have tattoos even in birth. No one knows why. My mother told me that I was born with only small streaks on my skin. And now look – I am covered in wisdom that no one has yet been able to decipher.\""
+    },
+    {
+      "Key": "414f1014-9b71-4b97-8067-cb4d702af1de",
+      "Value": "\"And you, {mf|Your Grace|Your Grace|Your Highness|Your Highness} – you really are just like the people say. You're not torturing people for no good reason, and leave them free to live by their wits. Who would ever guess I'd say this, but I like this {mf|baron|baroness|king|queen}!\""
+    },
+    {
+      "Key": "2158af8a-cc8b-44e8-a79b-dd15fc567376",
+      "Value": "{n}Zandu lets out a brief laugh.{/n} \"It's easier to say where we haven't been. From {g|Cheliax}Cheliax{/g} to {g|Numeria}Numeria{/g}, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. We've walked all of {g|Avistan}Avistan{/g}.\""
+    },
+    {
+      "Key": "a47d0b36-4044-4d59-9a20-054ccb5ccb2b",
+      "Value": "\"As you say.\" {n}Zandu throws his cards skillfully into the air and catches them with one smooth movement.{/n}"
+    },
+    {
+      "Key": "6f546e46-f07f-45de-a5c7-72a92bb2a041",
+      "Value": "{n}Zandu wrinkles his nose.{/n} \"Truth be told, it was not what, but whom. You see, the Starlings stand for freedom. So sometimes we visit the lands where this freedom is being trampled. We pick up fugitive slaves, and when we can, we get down to business and free someone.\""
+    },
+    {
+      "Key": "0e7e0596-cdbf-48ef-b683-12df55ce72de",
+      "Value": "\"We walked all the roads there many times, and eventually became bored. And so we decided to look farther afield, to see what's going on out in the world... and we got carried away.\""
+    },
+    {
+      "Key": "9321240e-80ce-4805-94f6-34202bcfe3c3",
+      "Value": "\"You are right about that.\" {n}The man scratches the back of his head.{/n} \"I've been to many places, seen many things... but I saw such things in {g|Numeria}Numeria{/g} as cannot be believed. The Starlings have no business there.\""
+    },
+    {
+      "Key": "94daa644-2d98-4b9b-8dc4-5dc82c08f9b2",
+      "Value": "\"Are you talking about my family?\" {n}Zandu nods at the others.{/n} \"We are the Starlings, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. We are from {g|Varisia}Varisia{/g}. We live on the road, traveling the world. We heard that life here is easy, so we decided to come see.\""
+    },
+    {
+      "Key": "160bcf14-ca94-4f67-b8f9-323a42af6d96",
+      "Value": "\"Lorre spoke of a ravine where the river is shallow. Send your dogs there. Meanwhile I will prepare to leave – before you begin to hunt any of my other people.\""
+    },
+    {
+      "Key": "976c5420-7cc0-4519-9aa8-0d4585014a31",
+      "Value": "{n}Zandu salutes you jauntily.{/n} \"May {g|Desna}Desna{/g} keep you safe, {mf|Your Grace|Your Grace|Your Highness|Your Highness}! And thank you for not keeping your distance! With such a {mf|baron|baroness|king|queen} I could even start to believe in law and order! And don't worry about scoundrels like Lorre: we road people keep a watchful eye on our brothers!\""
+    },
+    {
+      "Key": "4260709c-949d-4e6d-bbd7-ae9b42c056a5",
+      "Value": "{n}Zandu nods, pleased.{/n} \"That's right! The poor thing had it tough on the run – with shackles on her feet! But we nursed her back to health. And so she turned to {g|Desna}Desna{/g}. — She believes it was the goddess who sent us to her!\""
+    }
+  ]
+}

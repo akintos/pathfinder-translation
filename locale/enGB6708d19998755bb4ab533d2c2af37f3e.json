@@ -1,0 +1,161 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "70bf8d7d-caa3-4efe-b738-07286f765b87",
+      "Value": "\"You decided to help him, so finish what you started. Destroy the throne and say goodbye to the Skjegge clan forever.\""
+    },
+    {
+      "Key": "41852122-d3e2-4f71-b395-2cfe7bb93352",
+      "Value": "\"You've already done far more than they deserve. Let's go.\""
+    },
+    {
+      "Key": "831d2fbb-bd91-4915-a3fa-d38b5999ec50",
+      "Value": "\"Harrim, you were right: the dwarves of the Skjegge clan were killed by their stubbornness and greed. Let this fortress and its guard stand here as a reminder of this.\""
+    },
+    {
+      "Key": "e53ca647-44a5-44aa-8dc6-46ee40c0f7ae",
+      "Value": "\"The ghost has stayed in this world for too long. Let it rest.\""
+    },
+    {
+      "Key": "f24961d0-a13c-47f7-94fa-49515f5044a3",
+      "Value": "\"Help Jarmuld and unmake the throne.\""
+    },
+    {
+      "Key": "51d5b205-8d19-4bd2-9be0-83b4f401dd73",
+      "Value": "\"Help the ghost and take the scepter from Jarmuld.\""
+    },
+    {
+      "Key": "b34493a9-f1ac-40e0-98eb-c6cb562f9364",
+      "Value": "\"You don't have to decide anything. You don't have to be on anyone's side.\""
+    },
+    {
+      "Key": "e6955224-f206-4bf4-b087-c942ee9632e0",
+      "Value": "{n}The last of the battle golems falls to your feet. A ghost stands to the side, shaking its fist at you.{/n} \"Vandals! Have you any idea how much time I spent creating them?\""
+    },
+    {
+      "Key": "c2e1e331-52ee-4969-881d-b21e415f5edc",
+      "Value": "{n}The steel scepter falls from Jarmuld's hand with a loud clang. The paladin's head falls to his chest helplessly. He isn't breathing.{/n}"
+    },
+    {
+      "Key": "05096767-958c-4d06-b053-e198a53d4793",
+      "Value": "{n}The paladin's pale face glistens with sweat. His fingers tremble, but with what's left of his strength he clenches the steel scepter, and {g|Torag}Torag's{/g} symbol with its shimmering jewel.{/n} \"Quick... Harrim... Unmake... The throne...\""
+    },
+    {
+      "Key": "8e374c9c-b2ed-4d00-abf3-e3e0bf6821df",
+      "Value": "{n}Grinding his teeth, the paladin stands up. The magic jewels in his sacred symbol glow like red and blue flames.{/n} \"Be silent, ghost! In the name of Torag, I forbid you from harming the living! Be gone!\""
+    },
+    {
+      "Key": "82aa3260-fbc2-49ed-9881-cdd1ee0b34ff",
+      "Value": "{n}The ghost turns its still face to you.{/n} \"The impostor is dead. But I, the last Skjegge, am helpless against you, visitors. Are you going to destroy me? Or can we make peace?\""
+    },
+    {
+      "Key": "54e8a4a8-9984-49ab-8af3-cd650026c221",
+      "Value": "\"That's it. Thank you, my friends. I couldn't have done it without you. Harrim, please, unmake the throne so that this ghost has nowhere to return!\""
+    },
+    {
+      "Key": "543b748b-a518-446e-b809-396eb89df228",
+      "Value": "\"What am I, an errand boy? Go there, unmake this... Who are you to order me around? Perhaps I should drop to my knees before {g|Torag}Torag{/g}?\""
+    },
+    {
+      "Key": "07604f83-dfe9-468a-a61c-291d9a750a26",
+      "Value": "\"Harrim, I had no intention of giving you orders. Forgive me for expressing myself so poorly. I humbly ask you to help me as a friend and ally.\""
+    },
+    {
+      "Key": "fb58145a-d9cc-4fe9-b9ec-ec05df97a92f",
+      "Value": "\"Some friend...\" {n}Harrim mumbles angrily, but then looks at you with a question on his face.{/n} \"I don't know... Should I help him?\""
+    },
+    {
+      "Key": "9a7de558-1f1f-4824-b8f9-8c777e602d5c",
+      "Value": "\"Fine, all right. But it's the last time I'm helping you, understood?\" {n}Harrim approaches the throne with the skeleton and strikes it with his fist. One blow, two, and three – and the throne crumbles into pieces with a clanging sound, revealing another jewel, shimmering purple.{/n}"
+    },
+    {
+      "Key": "01edc176-5d41-428a-8424-849454d73141",
+      "Value": "\"Thank you...\" {n}The paladin was beginning a speech, but Harrim interrupts him.{/n}"
+    },
+    {
+      "Key": "0c7a3a0e-917c-4f41-8c1d-b99ae058f555",
+      "Value": "\"You are welcome. You are welcome. Now go back where you came from. I hope you try to make something useful from the pieces!\""
+    },
+    {
+      "Key": "45264d79-e4aa-4383-be89-bdeefdd721ff",
+      "Value": "{n}Jarmuld lowers his head.{/n} \"As you say. Your Highness, the Skjegge clan thanks you. We all are in your debt. I'm afraid we'll have to forget the treasures of our ancestors and return home in disgrace. Farewell!\""
+    },
+    {
+      "Key": "60cc7ffd-26dd-4fe2-8435-479bd1762ca7",
+      "Value": "{n}Harrim watches the paladin coldly.{/n} \"So much effort, so much suffering, and for what? They built themselves a crypt, and nearly buried themselves in it. {g|Torag}Torag{/g}, Torag... You inspire your children to build such things, then they don't know how to get rid of them... Fools... All right, let's go, there's no point standing here...\""
+    },
+    {
+      "Key": "2954591d-77a6-429f-866b-8a2e115863a3",
+      "Value": "\"True... But you know, I think I'll do one more thing. I'm just afraid they aren't going to like it! Go on, everyone, outside! Quickly! It's about to get very loud in here!\""
+    },
+    {
+      "Key": "7d70085e-1ac2-4e1b-8a3a-1e26b6269463",
+      "Value": "{n}Harrim turns to you with a bitter sneer.{/n} \"Look – even long-dead dwarves keep dragging me into their business. So, what are we going to do? Let the ghost... live?\""
+    },
+    {
+      "Key": "7d5236dd-fe8f-4dbf-8b92-aafc0a0eabbb",
+      "Value": "\"True, true... I said it from the very beginning... And that's just how it ended... Yes. Funny and tragic at the same time.\" {n}The priest fiddles with his beard.{/n} \"All right, ghost, stay here, become an undead monument to yourself. We'll send poor Jarmuld's body to his homeland. I'll write this tale with my own hand – to be a lesson to our descendants... And to keep away any more unwelcome guests from {g|Five Kings Mountains}the Five Kings Mountains{/g}. I hope we won't be seeing them again!\""
+    },
+    {
+      "Key": "e7a0c399-18ef-4d6f-97de-5cde116da483",
+      "Value": "\"Thank you. May there be peace between us! I will send a group of golems to serve you loyally and truthfully.\""
+    },
+    {
+      "Key": "831d5396-92ed-4542-ae75-cc03ba74eeb5",
+      "Value": "\"Yes, yes, you are welcome. Peace, friendship and so on.\" {n}Harrim's voice is full of irritation and haste.{/n} \"Farewell. Let's go, {Name}. I've no wish to look at these walls, this iron, and especially those bones.\""
+    },
+    {
+      "Key": "b79489c2-251e-4d24-a216-5b41b3b9898a",
+      "Value": "\"Oh, it wasn't just the ghost who stayed in this world for too long... Ha ha, I know what I will do!\" {n}A devilish sneer appears on the priest's face.{/n} \"Leave. It's about to get very noisy in here...\""
+    },
+    {
+      "Key": "ac9a65b9-e90e-477e-b39e-5f3e07a3f818",
+      "Value": "{n}Harrim puts his palms on the stone wall, and you feel a vibration coming from the very depths of the ground.{/n} \"Get out! Quickly!\""
+    },
+    {
+      "Key": "9799df54-6cb9-43b7-884b-b8b99c2b12ac",
+      "Value": "\"Don't do this! Don't you see – he's an impostor! He has no right to this fortress! It's mine, mine... Let's make peace! Take the scepter from him – I will repay you generously!\""
+    },
+    {
+      "Key": "b77a0cb1-61a1-4d3a-ad31-6efd896974ea",
+      "Value": "{n}Harrim looks at the paladin, then at the ghost and back, then turns to you with a bitter sneer.{/n} \"Look at them. Children of {g|Torag}Torag{/g}... Butting heads like two rams on a narrow mountain path! But we do need to decide something, though these two are equally disgusting. Whose side should we take?\""
+    },
+    {
+      "Key": "18956dd0-a5d9-432a-82fb-5c19bb2da12d",
+      "Value": "\"But they're...\" {n}Harrim frowns, baffled, and then a smile lights up his face.{/n} \"By {g|Groetus}Groetus{/g}, it's true! I owe them nothing. And I won't let anyone order me around. Do you know what I'll do? Do you? Oh... Run away, quickly! – Everyone run! It's about to get very noisy in here!\""
+    },
+    {
+      "Key": "793b7f4f-8762-4721-bd77-ed44ed7978ad",
+      "Value": "\"Yes, I didn't like him from the start...\" {n}Harrim approaches the paladin and breaks the steel scepter in his hand as easily as a straw.{/n} \"Go, servant of {g|Torag}Torag{/g}. Return home and never come back.\""
+    },
+    {
+      "Key": "b25afc59-d242-46ee-a80d-95eb997ebbcb",
+      "Value": "{n}Jarmuld looks at Harrim with a mix of anger and disappointment. Shaking his head, he leaves without saying a word.{/n}"
+    },
+    {
+      "Key": "3814cc9b-b436-4f0f-bc75-c10efe710d9e",
+      "Value": "\"Holy warrior... May {g|Torag}Torag{/g} lay your soul to rest.\""
+    },
+    {
+      "Key": "bddd1c57-23b4-47d5-89c4-b30c689172ba",
+      "Value": "\"These moments make striving for power worth it. Nothing's sweeter than seeing two petitioners before you, each wanting the other dead, and deciding whom to make your debtor, and whom to destroy.\""
+    },
+    {
+      "Key": "9d2a51ef-b1df-4e14-83a3-e6981b7a7a29",
+      "Value": "\"Heh heh heh... Depends what he can offer us for it!\""
+    },
+    {
+      "Key": "4e661cc9-92d5-45c0-9d40-aa9a74339f81",
+      "Value": "\"Don't argue — do it. Or this battle might be pointless.\""
+    },
+    {
+      "Key": "4b040bf3-9556-4c61-b2e5-b1b990db374d",
+      "Value": "\"Harrim, I beg you: forget your pride and help him! The ghost might be banished, but who knows what other deadly surprises he prepared for us?\""
+    },
+    {
+      "Key": "eeb0b35d-4775-40c4-9d57-8687e9f1c830",
+      "Value": "\"Let's do this: first, you break this throne... then, for dessert, the neck of one annoying paladin.\""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "e1f9dbd9-4d8d-47a2-851b-85e189628254",
+      "Value": "\"How are things in Varnhold?\""
+    },
+    {
+      "Key": "4a4dda74-657f-45ee-8f60-78f076b469e5",
+      "Value": "\"Have you taken care of Varnhold's defenses?\""
+    },
+    {
+      "Key": "b7527f91-2b9d-4858-a643-2e3d5b5e63be",
+      "Value": "\"Do you remember anything from when your soul was imprisoned?\""
+    },
+    {
+      "Key": "52ce0401-d88c-4b48-bd09-22e1609cd024",
+      "Value": "\"I should go.\""
+    },
+    {
+      "Key": "952f5b44-081b-4e53-b4f4-db37af4d2a87",
+      "Value": "\"How do you find the capital?\""
+    },
+    {
+      "Key": "eb0edf5a-eebf-455f-8e37-5cc748057409",
+      "Value": "\"In your room, I discovered a letter containing threats. Is there something you'd like to discuss with me?\""
+    },
+    {
+      "Key": "cacbf8e7-6b90-484e-b85a-5257f0116a0e",
+      "Value": "\"How did Jamandi react when Varnhold joined my barony?\""
+    },
+    {
+      "Key": "580ca85b-01cf-4442-b77b-7510382a3180",
+      "Value": "\"How do you like being Treasurer?\""
+    },
+    {
+      "Key": "7db15f75-6384-4612-bacb-5576302a3fb1",
+      "Value": "\"I'm thinking about offering you an official position. In what way could you help me govern the country?\""
+    },
+    {
+      "Key": "807cc288-d3ba-42f3-b39c-51849e982d77",
+      "Value": "\"Remind me, what did you ask me to do?\""
+    },
+    {
+      "Key": "7f3d3740-1a0c-43c8-8e7c-3546db07058b",
+      "Value": "{n}When he sees you, Maegar gives you a polite bow.{/n} \"Your {mf|Grace|Grace|Highness|Highness}! Welcome back. How can I serve you?\""
+    },
+    {
+      "Key": "bae396c0-349f-4c5a-b003-11524b9bcbf8",
+      "Value": "\"Your {mf|Grace|Grace|Highness|Highness}! To what do I owe the pleasure?\""
+    },
+    {
+      "Key": "53b38f59-9c3e-4338-b4f1-68eca297328a",
+      "Value": "\"The people have already reconstructed the fort walls, even started digging a moat around the town and organizing patrols. That event was... a real shock to everyone. So now every citizen of {g|Varnhold}Varnhold{/g}, young or old, has been doing everything in their power to never be caught off guard again.\""
+    },
+    {
+      "Key": "552ee337-5e1d-457b-8dc7-f6cdca08b973",
+      "Value": "\"Excellent, Your {mf|Grace|Grace|Highness|Highness}, everything is excellent. Sure, when everyone returned home, they were a bit uncomfortable. But after appointing a deputy and doubling the guards, the citizens began to calm down, and life started returning to normal.\""
+    },
+    {
+      "Key": "d7971b88-9702-4fa7-8c0f-c228f7adc72c",
+      "Value": "{n}Maegar hesitates a moment, then finally says,{/n} \"You saved us all, Your {mf|Grace|Grace|Highness|Highness}, and I'll never be able to thank you enough for that. All I can do is serve you faithfully and ensure your efforts weren't in vain. {g|Varnhold}Varnhold{/g} will stand strong, no matter what. This, I promise you!\""
+    },
+    {
+      "Key": "ec27d847-1bfd-413c-ba0a-bd74e7239339",
+      "Value": "{n}Maegar freezes.{/n} \"I'm... n-not sure, Your {mf|Grace|Grace|Highness|Highness}.\" {n}The man frowns.{/n} \"It was... dark. Almost no space...\" {n}He closes his eyes and gulps.{/n} \"If... if you don't mind, I'd rather not recall any more.\""
+    },
+    {
+      "Key": "445fd10e-3532-4a92-ac9c-19193707b073",
+      "Value": "{n}Maegar looks around the hall, squinting.{/n} \"It's impressive. Still, sometimes I just miss the open spaces of {g|Dunsward}Dunsward{/g}.\""
+    },
+    {
+      "Key": "ade08162-40d0-4e2d-b442-caed8622e19e",
+      "Value": "\"To be blunt, Your {mf|Grace|Grace|Highness|Highness}, who cares? Maybe she's angry back in {g|Restov}Restov{/g}, or crying her head off, or even celebrating. Matters not — the issue's already been settled between the two of us.\""
+    },
+    {
+      "Key": "0db462a4-cc51-44f1-9e06-4fe192590647",
+      "Value": "{n}Maegar's face darkens.{/n} \"I didn't want you to know about that. Wanted to spare you from any further worries... I began receiving letters like that one since about when I sent you trading goods.\""
+    },
+    {
+      "Key": "8e4c2c8f-6283-4108-a020-378e3784b75f",
+      "Value": "\"Once, my men even interrogated the trader who delivered the mail, but nothing came of it. I have some assumptions of who's behind it, but as long as I have no proof, I don't want to accuse anyone.\""
+    },
+    {
+      "Key": "222ed2c3-d6fe-49a6-bd4d-3ef75ed497b7",
+      "Value": "{n}Maegar shakes his head.{/n} \"Sometimes it's hard, other times — less so. But overall it's nothing special. The chests in the treasury are fine, all the records are in order, and as for all the pressing issues, I can simply address them to you.\""
+    },
+    {
+      "Key": "14f95517-17f4-4ec0-9402-f48d8a0fb090",
+      "Value": "{n}Maegar gives you a crooked smile, and shakes his head.{/n} \"Eh, no, Your {mf|Grace|Grace|Highness|Highness}. I've been there before, and it seemed my advices didn't do much good. You should find someone else to help you.\""
+    },
+    {
+      "Key": "c4951382-e673-41bd-b841-980893c76f49",
+      "Value": "\"I can't say ruling a barony used to give me much joy — there are far more enjoyable pursuits. But if there was something I really excelled at, it was managing {g|Varnhold}Varnhold's{/g} treasury. If I hadn't been there, our citizens would have had to tighten their belts!\""
+    },
+    {
+      "Key": "351e28a0-f124-4304-9edf-800d83e44c6b",
+      "Value": "{n}Maegar looks grim and gaunt.{/n} \"{mf|Your Grace|Your Grace|Your Highness|Your Highness}! I don't know if you're interested, but I attempted on my own to discover the fate of my people who stayed behind in that dungeon. I was only able to recover the remains of one person from the party, but I suspect the others are dead as well.\" {n}He looks away.{/n} \"I suppose we should consider the matter settled.\""
+    },
+    {
+      "Key": "a6980a35-01a9-46e4-b5a0-ed89a002cd66",
+      "Value": "\"To help me learn the fate of my people, who were down in that mysterious dungeon when Varnhold fell under Vordakai's spell. Cephal and I went down some of the way with them, but then had to hurry back to Varnhold, and I still don't know what happened.\""
+    }
+  ]
+}

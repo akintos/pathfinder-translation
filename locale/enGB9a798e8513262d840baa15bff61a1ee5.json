@@ -1,0 +1,109 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "4d997539-cc88-4b0d-81cb-41fb4ccf8676",
+      "Value": "[Call out to the man] \"You there, what do you want?\""
+    },
+    {
+      "Key": "4e720f7e-18c6-42f2-9eb3-f712d33dda4e",
+      "Value": "\"Tirval, what is happening here?\""
+    },
+    {
+      "Key": "b654ee63-0a9f-4ac2-80ec-b9e0879fddb5",
+      "Value": "\"Tirval, take care of your people right now! I will support you.\""
+    },
+    {
+      "Key": "7d8d42f4-4650-4b1a-a2cc-026ba799558c",
+      "Value": "\"I agree with this person. You are not fit to lead the militia, Tirval.\""
+    },
+    {
+      "Key": "e7c2fc1d-cf6a-40bd-8c1b-f6766386654d",
+      "Value": "\"Hang the troublemakers and disband the militia. I am the law in this land.\""
+    },
+    {
+      "Key": "01290a2d-472b-4ddc-8443-ebb2a4eacb25",
+      "Value": "\"Let them live. But the militia will have to be disbanded. You are too unreliable.\""
+    },
+    {
+      "Key": "07631124-053d-45bb-8eee-188556a17f74",
+      "Value": "\"Place them under house arrest until they come to their senses. As for the militia, I'll give you one more chance.\""
+    },
+    {
+      "Key": "be3b3c3d-dcd5-45d4-acee-e11cf2772494",
+      "Value": "\"Why hasn't this revolt already been dealt with, Tirval?\""
+    },
+    {
+      "Key": "bbf1b16c-8045-4286-8867-600509755479",
+      "Value": "[Attack] \"I'm sick and tired of you! It's time I took care of you myself!\""
+    },
+    {
+      "Key": "4f9b0e29-90e9-401b-8a34-b9a7bd9a5f5a",
+      "Value": "{n}A fraught scene is playing out before you: {d|Tirval}Tirval{/d}, the captain of the militia, is in a fiery argument with an angry man in heavy armor. Their hands are on the hilts of their weapons, and their eyes are locked. Their stares are so intense they could petrify a lesser warrior.{/n}"
+    },
+    {
+      "Key": "1e7ece59-58ea-418c-9b59-b9efd2110a75",
+      "Value": "{n}{d|Tirval}Tirval{/d} gives you a tired look, but there's an ingratiating tone to her voice.{/n} \"Please, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, do not execute these fools! Yes, they have… overstepped their bounds. But this was simply folly, nothing more! I implore you, have mercy on the guilty and do not disband the militia altogether!\""
+    },
+    {
+      "Key": "37b84a56-2161-4dfc-b049-bcfe3dcd84ac",
+      "Value": "{n}Tirval gives you a solemn look.{/n} \"That would serve no purpose. All these people wanted was to protect their homes and their streets. And all it took was a single mistake for you to… But it shall be as you wish. But do not expect me to stay here even a moment longer than necessary. Farewell, {mf|Your Grace|Your Grace|Your Highness|Your Highness}.\""
+    },
+    {
+      "Key": "53ca097f-e6ec-401b-ad4d-a65a1e6c4c4a",
+      "Value": "{n}Tirval shakes her head in regret.{/n} \"What a pity… but perhaps the people really cannot be trusted to protect themselves, after all. And still… never mind. It's our fault.\""
+    },
+    {
+      "Key": "837528da-d524-4d95-b356-94eafaa89028",
+      "Value": "{n}Tirval smiles, her face beaming with gratitude.{/n} \"Thank you. You have my word, this will not happen again. We won't let you down. Listen up, you oafs! Away with you! Back to your homes, everyone!\""
+    },
+    {
+      "Key": "3727c3a2-a84b-4e6e-aa8f-477056046c89",
+      "Value": "\"What's there to explain… We got ourselves an army here, right? That means we can defend our land on our own now, right? We build these little old huts ourselves, we plow the fields, we fend off the bandits. That means we deserve to rule Varnhold ourselves. We've no more need for strangers.\""
+    },
+    {
+      "Key": "65f7e546-e852-493a-996e-563dde27f12a",
+      "Value": "\"These idiots here decided they want to pretend they're independent now! They've all but forgotten the vows they gave you! The fools can't see that if you were to leave Varnhold, the whole region would fall into chaos! The bandits would be back fighting for dominance all over again! The rivers would flow red! But we gave them law and order! And if they decide to give it all up?! Why, if they'll be such fools, perhaps we should let them have what they think they want...\""
+    },
+    {
+      "Key": "b29d32d7-6f26-4fdf-a155-95d82879efa5",
+      "Value": "\"Yes, {mf|Your Grace|Your Grace|Your Highness|Your Highness}! Now we'll put these upstarts in their place…\""
+    },
+    {
+      "Key": "911fc919-3918-41ef-81f6-4861eb03f912",
+      "Value": "{n}The militiaman cracks a broad grin.{/n} \"There, heard that? The capital cares about the will of the people after all! As for — go, run back to the big city. You're not welcome here anymore! We'll run things our way here, the Varnhold way! Thank you, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, for taking our matter to heart, and for listening to the people!\""
+    },
+    {
+      "Key": "b0e026b2-7b34-40de-97df-76a811f81f0d",
+      "Value": "\"Thank the gods you're here! Reign in these dogs! They're inciting revolt and trying to rile up my militia-men!\""
+    },
+    {
+      "Key": "4b37c0ce-eadd-4e8a-9d3b-911498cdf3b7",
+      "Value": "\"Aha! She sees her master and runs to lick {mf|his|her} boots! This land belongs to us, not this… bird of passage. We plow these fields – and we protect them as well. When the bandits come, we'll be the ones out there shedding blood for our homes, while the big city folk hide in their holes! I say – no more!\""
+    },
+    {
+      "Key": "eacdd878-6535-431f-96b0-42eb927164f4",
+      "Value": "\"Heh, you wish! You hear that, folks? They want us to run home with our tails between our legs! Whaddya think? We fighting for our land or what?\""
+    },
+    {
+      "Key": "242475fd-7bfd-4a1c-8f8d-fab41bb5cfe8",
+      "Value": "{n}Tirval gives you a solemn look.{/n} \"You know you've doomed this place, don't you? Who are you leaving in charge? These nitwits? They'll do a damn fine job running this place, they will… Without law, without order, this land will descend into mayhem. I'd rather leave this land forever than watch that happen. It was a pleasure knowing you, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. Farewell.\""
+    },
+    {
+      "Key": "ef5f8d21-282e-45cd-8082-761f9ca94f4d",
+      "Value": "\"What you say is true. You have helped us arm ourselves, and for that we are thankful. That's why we don't want to break away from the {mf|barony|barony|kingdom|kingdom} — we just want to rule our own homes! What gives you the idea that you, living in the capital, know better than us what Varnhold really needs? Trust me, you'll only thank us once you set us free!\""
+    },
+    {
+      "Key": "13575955-c9d6-43aa-8773-5ab33fcbe597",
+      "Value": "\"Do you even remember whose gold bought those weapons? Who taught you to fight? Who gathered the militia in the first place?\""
+    },
+    {
+      "Key": "6593e8a4-fc56-4d22-8c5e-bed640f3819a",
+      "Value": "\"And what will you do? Hang us all? And then what? Send in your soldiers? That's the true face of your 'grace' and 'mercy'! You butcher anyone who speaks out against you! You two-faced bastards…\""
+    },
+    {
+      "Key": "c7fb77d1-cfd8-4696-95b6-87109e90ae85",
+      "Value": "\"Forgive me, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. It's just…\" {n}The half-elf lowers her voice.{/n} \"These were our people, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. Our neighbors, farmers, craftsmen… I didn't want to spill even more blood... But I... I suppose I've failed, haven't I?\""
+    }
+  ]
+}

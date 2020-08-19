@@ -1,0 +1,61 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "abb0111b-3cff-4d10-b7b2-aa11f3a4ac8a",
+      "Value": "\"Tell me more about your offer.\""
+    },
+    {
+      "Key": "68b782d8-92ad-4f38-95a7-11e3957ab008",
+      "Value": "\"I don't want any part in your affairs!\""
+    },
+    {
+      "Key": "989ff772-8d3e-4df9-91ce-ac1dbd1e3be7",
+      "Value": "\"I won't tolerate smuggling in my domain. Guards! Take her to prison!\""
+    },
+    {
+      "Key": "faf82fb9-8748-4a77-b6fa-16f9f2cfd8ea",
+      "Value": "\"I'll see what I can do.\""
+    },
+    {
+      "Key": "c297d640-e58b-45ed-9e2c-35dfed0bc3cd",
+      "Value": "[To guards] \"Didn't you hear me? Take her away!\""
+    },
+    {
+      "Key": "4925c6e0-3838-47e1-8e6f-44e3e67a4eaa",
+      "Value": "[To Irlene] \"Since this is your first time, I'll give you a break. Never set foot here again.\""
+    },
+    {
+      "Key": "dc0834fc-b124-423d-ba6d-01be81baa76f",
+      "Value": "[To guards] \"Execute her. Immediately.\""
+    },
+    {
+      "Key": "44284c90-71b0-448c-858c-c6a575cb6b0a",
+      "Value": "\"Greetings, {mf|Your Grace|Your Grace|Your Highness|Your Highness}! Allow me to pay my respects and deliver a gift on behalf of my master, a well-known connoisseur of magical artifacts, kindly welcomed by you in the capital!\""
+    },
+    {
+      "Key": "d9442580-d54e-47fa-b940-362f8e9a8cec",
+      "Value": "\"Let me introduce myself. Irlene Greyridge, at your service.\" {n}The girl bows briefly and springs back up. She casts curious, assessing glances across the throne room and holds out a package.{/n} \"This is a modest gift from my master, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. May it serve you well! And in case you're looking for more...\""
+    },
+    {
+      "Key": "ea4f9281-9cd6-44f6-8829-8a0be99fce87",
+      "Value": "{n}Irlene looks at you sideways and smiles mysteriously.{/n} \"I beg you to forgive my audacity, but since destiny is giving me the opportunity to speak with you face-to-face... You see, my master is a highly educated and respected specialist, but unfortunately, he has no business acumen whatsoever. For my part, as much as I appreciate collectible items of great aesthetic value, I'm far more interested in turning my knowledge in this sphere toward tangible profit. If you take an interest in obtaining magical items without all this hassle... I could arrange it.\""
+    },
+    {
+      "Key": "4ca08328-f483-4e86-b5eb-857ad6d20b69",
+      "Value": "\"You see, over all my years of travel, I've built up... a long list of contacts across {g|Golarion}Golarion{/g}. In other words, I can acquire magical rarities, no matter the distance or difficulty. If you kindly help me open my own shop, I'll gladly quit my master and use my talents for your benefit.\" {n}Irlene stops speaking and looks at you expectantly.{/n}"
+    },
+    {
+      "Key": "69774f16-e270-4d74-98e7-e3ad9fdc077a",
+      "Value": "\"Oh, thank you! May your reign last for years to come!\" {n}Irlene bows.{/n} \"I dare not distract you any longer, {mf|Your Grace|Your Grace|Your Highness|Your Highness}!\""
+    },
+    {
+      "Key": "753234c0-90d8-4545-b78b-225c51bf272f",
+      "Value": "{n}Irlene cowers in fear.{/n} \"No... {mf|Your Grace|Your Grace|Your Highness|Your Highness}, I beg you... Forgive me my insolence! Don't kill me!\""
+    },
+    {
+      "Key": "bc78dd36-b234-44be-9666-ed4306d3cfbe",
+      "Value": "{n}The halfling utters a sigh.{/n} \"Such a shame... In that case, I won't let my presence here bother you further. Farewell, {mf|Your Grace|Your Grace|Your Highness|Your Highness}!\""
+    }
+  ]
+}

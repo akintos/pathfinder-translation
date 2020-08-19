@@ -1,0 +1,897 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "db4c3996-78f8-41ad-a25f-e29aae3fce52",
+      "Value": "\"I'd like to ask you a few questions about your past.\""
+    },
+    {
+      "Key": "7e1650d1-8e0e-4623-9990-d27238ac3fc6",
+      "Value": "\"I wanted to talk to you about what it means to be a tiefling...\""
+    },
+    {
+      "Key": "fdef0775-8003-4866-a8cf-2d49f372cbf4",
+      "Value": "\"Tell me about Qadira.\""
+    },
+    {
+      "Key": "faad02e2-4624-4234-a205-c075a3bb7988",
+      "Value": "\"I'd like to talk to your sister.\""
+    },
+    {
+      "Key": "c0319544-51e5-4501-857b-b8b643fa4501",
+      "Value": "\"I have to go. So long, Kalikke!\""
+    },
+    {
+      "Key": "720b7359-02e6-405a-b09f-4555edf96552",
+      "Value": "\"You know, the Forefather came to talk to me.\""
+    },
+    {
+      "Key": "e823a353-1899-4871-8568-c97bc674fb43",
+      "Value": "\"I won't let anyone hurt you. We'll deal with the beast if it shows up.\""
+    },
+    {
+      "Key": "6d3a9c5f-4f8c-4d8f-9067-29144293e9d7",
+      "Value": "\"I do. The horns and the tail. They make you special.\""
+    },
+    {
+      "Key": "28c6cc32-fb70-4fdc-a759-daeeb0f36ae8",
+      "Value": "\"I want to ask you a few questions about your past.\""
+    },
+    {
+      "Key": "cbb88f99-ec4f-46a6-87fe-36d5a778ecac",
+      "Value": "\"I want to talk to you about what it means to be a tiefling.\""
+    },
+    {
+      "Key": "8703c6ae-be3a-434c-9774-2a8243ede757",
+      "Value": "\"Tell me about Qadira.\""
+    },
+    {
+      "Key": "c8c2ce52-af65-4856-b5f3-c3e68ac643d3",
+      "Value": "\"Do you really think I'd listen to a spawn of Hell?\""
+    },
+    {
+      "Key": "160c04a7-74ed-4c8e-9355-018c8bb2b1ea",
+      "Value": "\"Let's talk about how you are now.\""
+    },
+    {
+      "Key": "f7b1968f-caf2-421f-9102-bc52dda6f2fc",
+      "Value": "\"I'd like to talk to your sister.\""
+    },
+    {
+      "Key": "10c3b48d-e3a2-43a6-8ff5-f8ae037cb803",
+      "Value": "\"How did you end up living 'in turns'?\""
+    },
+    {
+      "Key": "bcc27fc2-28be-4f18-8add-e29b136ea907",
+      "Value": "\"Thank you for the conversation, Kanerah. So long!\""
+    },
+    {
+      "Key": "59617af3-ca3f-4d3e-98fd-6cefb5cf1794",
+      "Value": "\"Tell me the story of you and your sister – from the beginning.\""
+    },
+    {
+      "Key": "c5953372-0bff-49ef-985a-2bcf581078cc",
+      "Value": "\"What was it like, living disguised as aasimars?\""
+    },
+    {
+      "Key": "3ff8f554-7127-4a2e-aeb0-7a0d61298b1e",
+      "Value": "\"How did you end up at Jamandi's mansion?\""
+    },
+    {
+      "Key": "48da0e30-e1fa-4420-923c-604598cc1524",
+      "Value": "\"How do tieflings come into the world?\""
+    },
+    {
+      "Key": "d6d52ca3-88ab-4478-af22-52f0593228aa",
+      "Value": "\"Tell me the story of you and your sister. From the beginning.\""
+    },
+    {
+      "Key": "538211bd-90a6-43a5-81be-62cd90dda9e7",
+      "Value": "\"What was it like, living disguised as aasimars?\""
+    },
+    {
+      "Key": "743b5e81-0cc5-4e3b-9d8e-a1efd771a13d",
+      "Value": "\"What happened at Jamandi's mansion?\""
+    },
+    {
+      "Key": "d8c0ddd7-fe4e-486d-9f9e-8801f589ec3e",
+      "Value": "\"How does 'living in turns' with your sister work?\""
+    },
+    {
+      "Key": "7fcdeff8-93e9-45ec-9881-684b61c887fd",
+      "Value": "\"Do you worship Nethys? Tell me about him.\""
+    },
+    {
+      "Key": "ebfea94f-060a-4ac6-a367-578821746241",
+      "Value": "\"Tell me about how you were resurrected.\""
+    },
+    {
+      "Key": "7afb8122-90cf-4ff4-bd0a-6adc77327fe3",
+      "Value": "\"I'd like to know more about you.\""
+    },
+    {
+      "Key": "31bbab94-a6a8-488f-8438-765b309cf224",
+      "Value": "\"I have no more questions about this.\""
+    },
+    {
+      "Key": "25e80ed4-643d-4424-81e4-260bc935c0e1",
+      "Value": "\"What made you flee Qadira?\""
+    },
+    {
+      "Key": "7524d937-501e-4f98-b64c-70bbffc4f686",
+      "Value": "\"How are tieflings born?\""
+    },
+    {
+      "Key": "34d904cb-fd5a-44b8-9b74-5689e8dbc804",
+      "Value": "\"Which outsider do you and your sister descend from?\""
+    },
+    {
+      "Key": "49fc6e70-acca-4614-92da-2cc00263fb95",
+      "Value": "\"Tell me about your sister.\""
+    },
+    {
+      "Key": "5910540f-1bcd-4881-887a-0db078de8e8e",
+      "Value": "\"Everything is clear, thank you.\""
+    },
+    {
+      "Key": "97e3d773-0087-4058-a554-97e12830a689",
+      "Value": "\"Many think that evil literally runs in tiefling blood, owing to the heritage of their ancestors...\""
+    },
+    {
+      "Key": "edc11238-7e3e-4129-aa75-cb68ca0d4256",
+      "Value": "\"Tell me about your sister.\""
+    },
+    {
+      "Key": "49a5a5f7-0b4b-4039-8c2d-7d31e0301eea",
+      "Value": "\"I never wish to see you or your sister in my dominions again.\""
+    },
+    {
+      "Key": "415f623d-2033-4025-a22b-b901c8e6b9e1",
+      "Value": "\"Yes. Leave!\""
+    },
+    {
+      "Key": "d16304bd-b3f8-4d34-93e5-f08705177879",
+      "Value": "\"I might have spoken in haste.\""
+    },
+    {
+      "Key": "00fe9365-9e93-42c2-969a-47233a4cae9c",
+      "Value": "\"I want you to leave my lands.\""
+    },
+    {
+      "Key": "39aeb630-85c9-474e-9166-442784d92196",
+      "Value": "\"Yes. Leave.\""
+    },
+    {
+      "Key": "ce84ed6d-21c3-4e7c-8380-a27622d45f80",
+      "Value": "\"On second thought, no. You can stay.\""
+    },
+    {
+      "Key": "9f5c4333-5ad7-40fd-a7e0-539218aad33e",
+      "Value": "\"Who is this 'illusionist' who Kanerah called upon to change your appearance?\""
+    },
+    {
+      "Key": "b379a77e-d0a9-4f14-8200-29c5727bf4d2",
+      "Value": "\"I sympathize with both of you.\""
+    },
+    {
+      "Key": "bb2d4dd5-2107-4c8c-96cb-86d801649243",
+      "Value": "\"Don't blame yourself! How could you sit at home, knowing that your friends would be captured and dragged to a torture chamber?\""
+    },
+    {
+      "Key": "6ad3dc55-c761-4cad-b358-5298c97c91e8",
+      "Value": "\"How could you put the life and safety of your sister at risk? – For a bunch of trouble-makers, of all things.\""
+    },
+    {
+      "Key": "5ef5b5f0-bbf8-4236-a2cf-c8210a3ae732",
+      "Value": "\"You and your sister seem to have done everything you could to destroy each other's lives. All this could have been avoided, if only you were able to agree.\""
+    },
+    {
+      "Key": "835dd99a-3e7e-44ef-822b-1e4600bf72c1",
+      "Value": "\"It's hard to imagine a more foolish act. It's a sad outcome, but quite predictable.\""
+    },
+    {
+      "Key": "dd6ca34c-08b9-4fbc-833f-f47f1c35a675",
+      "Value": "\"You had me racking my brains! A girl shows up, acting like she wants to be my friend – and the next moment turns her nose up like she's seeing me for the first time...\""
+    },
+    {
+      "Key": "4ba2f355-0deb-4e8f-a1a6-ad0ab3557840",
+      "Value": "\"It was clear from the very beginning that something was up with 'Kaessi'.\""
+    },
+    {
+      "Key": "aa550aed-d102-47d1-8347-048773a44159",
+      "Value": "\"A contract with a devil?! That cannot stand.\""
+    },
+    {
+      "Key": "62de1b69-737c-40c4-b84c-706c9019d10d",
+      "Value": "\"You tried to fix an injustice that came upon you as a curse from the cradle. That can be understood and forgiven.\""
+    },
+    {
+      "Key": "be273ddc-c7c3-4592-ad9b-f952a48a3687",
+      "Value": "\"No one is inherently good or evil. Only our intentions are.\""
+    },
+    {
+      "Key": "a28ae5df-4145-41bd-a1b7-0cc651021a38",
+      "Value": "\"I hope you made the most of that contract. That's what matters.\""
+    },
+    {
+      "Key": "8bbd3531-8bab-47db-b169-bb8f0064fb8e",
+      "Value": "\"I found out what I wanted, thank you!'"
+    },
+    {
+      "Key": "e852030b-3cf2-4d77-9de0-48fa567e299b",
+      "Value": "\"How do you live with these switches?\""
+    },
+    {
+      "Key": "0878c92b-1aff-42de-8f27-155c9a2c4e54",
+      "Value": "\"Do you like it in the Stolen Lands?\""
+    },
+    {
+      "Key": "e4cfec02-1b85-4267-8086-57449a8081c4",
+      "Value": "\"I found a piece of paper with your poems...\""
+    },
+    {
+      "Key": "0c9d6924-6ea0-45c0-98cd-7f79b9cbbefb",
+      "Value": "\"You really aren't a good poet.\""
+    },
+    {
+      "Key": "01cb82c1-b960-44c7-a05d-576702bab08e",
+      "Value": "\"I think your poems beautiful. Do you mind if I read them from time to time?\""
+    },
+    {
+      "Key": "a339c5ad-4825-4900-91cf-8d0056df4f1d",
+      "Value": "\"Does Kanerah read them?\""
+    },
+    {
+      "Key": "f9c6efda-b169-4c5e-89ae-188332a61bfc",
+      "Value": "\"What was the agreement you made with the devil?\""
+    },
+    {
+      "Key": "153ed0b3-fa6f-4bc5-8f25-f6af4298f217",
+      "Value": "\"What assignments did the devil give you?\""
+    },
+    {
+      "Key": "ade2dca6-49cb-48f8-99b8-54ef04f91ed5",
+      "Value": "\"How does it work, your 'living in turns'?\""
+    },
+    {
+      "Key": "7b655793-c371-4c35-af3f-2ea3010697b0",
+      "Value": "\"Do you like it in the Stolen Lands?\""
+    },
+    {
+      "Key": "e26871f4-cd3a-4400-82d2-bc96627101d0",
+      "Value": "\"That road led you to me. And I must admit, I'm glad it did...\""
+    },
+    {
+      "Key": "6cc809fe-c145-44f5-8a1f-0f20bbdcf6a5",
+      "Value": "\"May it be a road of joy from now on!\""
+    },
+    {
+      "Key": "8296aa58-e343-46a6-92a6-48ac27782291",
+      "Value": "\"Enough sighing for the old days. There are more meaningful ways to spend your energy.\""
+    },
+    {
+      "Key": "e90d4463-2acd-4885-bcab-c176e432acdc",
+      "Value": "\"Why did you decide to remain in my lands? After you found and activated the relic, you could have left...\""
+    },
+    {
+      "Key": "0f993c8c-a0de-4537-a825-b158fa215588",
+      "Value": "\"Tell me, what made you stay here after we found your relic?\""
+    },
+    {
+      "Key": "fad80a58-2a68-479d-9e62-26935fbd125e",
+      "Value": "\"And why, I wonder, should I protect you?\""
+    },
+    {
+      "Key": "926aa10a-58df-4b0b-8c6e-5b8d804966f6",
+      "Value": "\"You can rely on me. We'll find a way to deal with that devil.\""
+    },
+    {
+      "Key": "cd69afc9-9c7e-4e03-8e89-e6f30604d3e6",
+      "Value": "\"It's very arrogant to think I'm going to jump at a chance to protect you.\""
+    },
+    {
+      "Key": "9eca02fd-86a8-4dec-8919-80590f0a601c",
+      "Value": "\"The lives of my companions is more to me than can be expressed in words. I will try to help you.\""
+    },
+    {
+      "Key": "3a3360fc-d55d-4f0a-8421-d8e28e51e91d",
+      "Value": "\"I have important news for you – the devil known as the Forefather came to me...\""
+    },
+    {
+      "Key": "697f3736-5765-40d8-b5fb-b8bdb5694c59",
+      "Value": "\"I didn't even listen to the wretch! Unfortunately, he escaped with his life.\""
+    },
+    {
+      "Key": "f09851b8-605a-4b5b-8e75-468a59a4a526",
+      "Value": "\"He wants you and I to go to the barrens to deal with the soul eater who killed Kanerah. He says he's ready to help.\""
+    },
+    {
+      "Key": "f8dc8337-699c-4409-8d64-f4236623a2cd",
+      "Value": "\"He offered his help against the soul eater who killed Kanerah. I'd rather not deal with such a creature, but I fear for your lives.\""
+    },
+    {
+      "Key": "e72656f7-da00-459e-a450-33195c356108",
+      "Value": "\"He offered his help against the soul eater that's hunting you.\""
+    },
+    {
+      "Key": "578621d2-8153-4e09-9ef7-0af177b1b9c9",
+      "Value": "\"He wants to help us get rid of the soul eater that's hunting you. We should take whatever advantage of the situation we can, no matter what methods we have to use.\""
+    },
+    {
+      "Key": "c658a9a4-eda2-4839-ac23-7823c8cf217b",
+      "Value": "\"Who is your savior, the Arcanotheign?\""
+    },
+    {
+      "Key": "8815c6a8-e002-47d3-b34a-da6104895098",
+      "Value": "\"Don't you think the Disk of the Eclipse reacted strangely?\""
+    },
+    {
+      "Key": "db4c2d0c-745c-4ef9-aadd-fddc35acb51b",
+      "Value": "\"It's strange what happened with the Disk of the Eclipse...\""
+    },
+    {
+      "Key": "321abd74-a046-4988-92f6-08f30c7df54b",
+      "Value": "\"It doesn't matter what he wanted. Talking to devils is too dangerous.\""
+    },
+    {
+      "Key": "84088b4b-2d12-4fa6-aaf1-04e64092d1a8",
+      "Value": "\"It doesn't make sense to communicate with such dangerous creatures.\""
+    },
+    {
+      "Key": "c9ae5d25-c8ae-4b70-8b05-41e90f396e27",
+      "Value": "\"I wanted to talk about a personal matter regarding your sister...\""
+    },
+    {
+      "Key": "85fd9b3a-a766-4a69-a9ed-f1334f11db9e",
+      "Value": "\"I told Kanerah that I like her. She reacted – strangely… – She broke off the conversation and ran away. Did I do something wrong?\""
+    },
+    {
+      "Key": "10073528-4340-4ec7-875f-c5dde0c8e986",
+      "Value": "\"Forgive me if my words offend you, but I like you and your sister – both of you – and not just as my companions. I don't know how you will react, but she behaved... Rather strangely.\""
+    },
+    {
+      "Key": "55606fb4-60f4-4032-99e5-6e8b5e7477c9",
+      "Value": "\"Thank you, Kalikke.\""
+    },
+    {
+      "Key": "67d2a03b-49c7-44fc-8c92-290edc1fa2b5",
+      "Value": "\"So what do you propose I do?\""
+    },
+    {
+      "Key": "29779d2d-d005-4993-9ec6-264419054830",
+      "Value": "\"I think I scared you during the conversation in my chambers.\""
+    },
+    {
+      "Key": "3605574b-a735-4a00-a0ff-259eb31ed651",
+      "Value": "\"Would you like to spend some time together?\""
+    },
+    {
+      "Key": "bdbb00fc-c7dc-4387-be28-ec8627457403",
+      "Value": "\"I want to tell you – we'll have no more intimate encounters from now on.\""
+    },
+    {
+      "Key": "c4516875-a10d-4646-b576-114d4081d7fa",
+      "Value": "\"I've missed you. I want to spend some time... alone with you.\""
+    },
+    {
+      "Key": "46cacf13-61cf-43a5-a51d-35841b311adb",
+      "Value": "\"I don't want to pressure you, but please know that everything I said is true.\""
+    },
+    {
+      "Key": "c2aca062-0074-4f93-be81-f44545aabc9e",
+      "Value": "\"This entire conversation was a mistake. Let's forget about it.\""
+    },
+    {
+      "Key": "1b466e90-2387-47f9-9f24-86774167cf55",
+      "Value": "\"With that stiff?\" {n}Kanerah wrinkles her nose, but seems strangely saddened.{/n} \"Very well, I'll get her. So long!\""
+    },
+    {
+      "Key": "ab9b0ff8-9fd3-4729-ae95-68701f270ded",
+      "Value": "\"For Kanerah it seemed as easy as changing a dress. For me... it was unusual. So many smiles, so many admiring eyes. Still almost a child, at first I took this warmth for granted. Oh the heady wine of affection – how easy it is to overlook its poisonous nature!\""
+    },
+    {
+      "Key": "cfb7ef3e-0b90-4953-bbe7-9ec6d3ccff62",
+      "Value": "\"I like your confidence. I have a penchant for the strong and confident...\""
+    },
+    {
+      "Key": "83131481-415d-4fb6-8f60-7d3e92afbad1",
+      "Value": "\"Ask me anything. We owe you much, and being open with you is the least I can do to repay you.\""
+    },
+    {
+      "Key": "e00ed20c-d79f-40c4-afaf-6d0c68c18ac4",
+      "Value": "\"My sister and I were born in {g|Qadira}Qadira{/g} – the country of the radiant Sarenrae, where we tieflings are not very welcome. But for my sister this was more a challenge than a barrier. She wanted respect, power, and wealth – things we were unlikely to get, being who we are. But she found a way.\""
+    },
+    {
+      "Key": "c7b270c4-deb3-4470-ab5e-e51eb5cf8743",
+      "Value": "\"Trouble.\"{n} Kalikke says quietly.{/n} \"My sister and I took different paths. Kanerah was able to earn the trust of a powerful patron, one of {g|Sarenrae}Sarenrae's{/g} fanatics – a member of the Cult of the Dawnflower. His mercenaries hunted down secret cults and monsters day and night. Meanwhile, I found a group of castaways, who reminded me of my sister and I as children – tieflings and genie-spawn. We gathered in secret to share our sorrows and dream of finding our place in the sun.\""
+    },
+    {
+      "Key": "371e36da-47c8-4056-9dd1-b73dadd93818",
+      "Value": "\"Oh, I cannot answer that question in much detail. The 'Kaessi' you met at the reception in Restov was Kanerah. – At the time, I'd been sleeping in our demiplane for over a month. I didn't even know my sister wanted to join the expedition that Lady Jamandi was sending. And then suddenly I was thrown out into reality – in the middle of a burning mansion with assassins dashing about! And the swordlord fighting monsters in the grand hall.\""
+    },
+    {
+      "Key": "139d7677-dd13-46e0-940c-5b8cc53c693d",
+      "Value": "\"As you wish.\""
+    },
+    {
+      "Key": "4aa7a1df-c81a-48f6-80f4-91a2fa153136",
+      "Value": "\"Oh, I could tell you a lot about it...\""
+    },
+    {
+      "Key": "fd6f9921-59c3-4a14-8124-414e97c32727",
+      "Value": "\"That's reasonable. Who wouldn't want to know about their subjects and companions?\""
+    },
+    {
+      "Key": "a7beffb0-aae0-4718-b286-238da56e0b1f",
+      "Value": "\"The beginning of this story is quite unexciting. My sister and I were born in {g|Qadira}Qadira{/g}, a place most unsuitable for tieflings. The people there honor the radiant Sarenrae, and think of themselves as guardians of the good. Of course, no one threw us in a dungeon right away or tried to kill us for no reason. But we could forget about social status. It's impossible to rise from rags in that country, where they value connections and reputation more than gold. Since birth, they looked on us as evil creatures, vicious and unpredictable.\""
+    },
+    {
+      "Key": "accbfa9e-8cd6-46d5-8a79-153fc8b661b9",
+      "Value": "\"We've lived for a few years under this disguise, gaining a certain status, affluence – and crowds of gullible suitors. In time I found a patron from among the followers of the Cult of the Dawnflower. A man of great wealth, with a personal army of mercenaries, who roamed the lands of Qadira night and day, seeking out monsters and those who worship them. I quickly became his confidant and joined that army – all as the Forefather desired. Perhaps this is why the devil agreed to give us the appearance of aasimars.\""
+    },
+    {
+      "Key": "391694f2-2838-4f56-9524-0bb8c49d6ec9",
+      "Value": "\"You know the fun part of our story? When Nethys returned me to life, the poor hungry soul eater started following my trail again. He cannot discover me, so long as I live disguised as Kaessi – but he keeps trying. That's one reason why my sister and I never stay in one place for long. We moved north, living here and there until we reached Restov.\""
+    },
+    {
+      "Key": "ca59b724-e28f-411f-9ef9-3d1f44d4fb00",
+      "Value": "\"What, already? How do you resist my charms?\""
+    },
+    {
+      "Key": "db4acb68-d4f4-4ab2-a43d-394306ca9300",
+      "Value": "\"Admit it, you like my horns. Or is it the tail?\""
+    },
+    {
+      "Key": "b808c40e-d3ad-4c0d-8181-544c4cec6140",
+      "Value": "\"{g|Nethys}Nethys{/g} is the god of magic. There are no limits to his power.\"{n} Kalikke speaks with awe.{/n} \"He was born human, but achieved such unparalleled mastery of magic that he gained divine power. He is the embodiment of paradoxes, contradictions, and making the impossible come true. I called on him at the moment of my greatest need, and he — through his Herald — helped me when all the 'kind and merciful' gods fell silent. But I'm no naive worshipper. – The gods, especially him, are powerful and unpredictable. Besides, he's hardly interested in my gratitude. But I do honor those who help me.\""
+    },
+    {
+      "Key": "4074c660-e3eb-452d-ad0c-acdee0071e19",
+      "Value": "\"You'd better ask Kalikke about that. When she learned of my death, she pleaded to {g|Nethys}Nethys{/g}, the god of unparalleled powers. And his {g|Arcanotheign}Herald{/g} agreed to return me to life, but in the state we're in now: only one of us can be in the Material Plane at a time. Meanwhile, the other sleeps in a special demiplane.\""
+    },
+    {
+      "Key": "cb8868be-aecd-413d-bd01-22fd48672bea",
+      "Value": "\"We are what happens when mortals mix their blood with evil outsiders – mostly demons, daemons or, as with me and my sister, devils. This heritage can manifest through many generations, and can be a cruel blow for the parents of a tiefling.\" {n}Kalikke frowns.{/n} \"As you probably know, there's hardly a corner in Golarion where the birth of someone like me is considered a welcome gift.\""
+    },
+    {
+      "Key": "f56a4049-2e9f-4918-ab5d-cd3d61660c2f",
+      "Value": "\"While one of us is in the Material Plane, the other sleeps in a demiplane created specially for us. There we sleep and sup upon elemental energy. When one of us enters the Material Plane, the other disappears. Until recently we couldn't even control the moment when we switched. – It seemed to happen randomly, usually while we slept, but sometimes in broad daylight. Now, thanks to you, we have a little more control over what's happening. It's been a great relief.\""
+    },
+    {
+      "Key": "0c110880-db0a-4379-9922-53803c433e97",
+      "Value": "\"After my sister almost got my friends killed, and I in my turn brought the wrath of her former patron down upon her. Kanerah died as she fled from him. In terror, I could only pray to the higher powers, and the {g|Arcanotheign}Arcanotheign{/g}, {g|Nethys}Nethys'{/g} Herald, answered this prayer.\""
+    },
+    {
+      "Key": "378b0222-be6d-48cb-a7a4-fc9ae15d3154",
+      "Value": "\"We are born if an ancestor laid with a powerful and evil outsider, be it a devil, a demon or some other dark creature. Many mortals do this, believe me – either for power or pleasure. This heritage can be hidden for many generations. And it can manifest in many ways. – It's difficult to find two similar tieflings.\""
+    },
+    {
+      "Key": "22b18338-c29b-471d-a3c9-43078897afbf",
+      "Value": "{n}A smile, sincere but sad, appears on Kalikke's face.{/n} \"My sister and I... we are twins, but we're as different as day and night. She was named Kanerah, which means 'Silent Flame' in our tribe's language, and I am named Kalikke, 'Silent Storm'.\""
+    },
+    {
+      "Key": "9cf8816e-479d-4064-9651-c793785e615c",
+      "Value": "\"As you wish.\""
+    },
+    {
+      "Key": "0f16f542-107a-4637-a856-73048e3b9a9e",
+      "Value": "\"Of course! Many do...\""
+    },
+    {
+      "Key": "ae76e8a1-6900-495c-b61c-e060d45dab5c",
+      "Value": "\"From a devil. I can even guess which one. Of all the infernal beings worshiped in Qadira, the whore queen Mahathallah is the most venerated – secretly, of course. Servants of her court frequent these lands. And they leave... trails.\""
+    },
+    {
+      "Key": "e90cbd6e-d0d9-44ed-a67e-6c9d08bc70f7",
+      "Value": "\"So the horns? Or the tail?\""
+    },
+    {
+      "Key": "70e64516-6d87-4b7f-a390-bff636643a98",
+      "Value": "\"Those who think so are both right and wrong. Your fate is not written by your blood alone. Surrendering to the temptation of evil is a choice every tiefling must make for themselves.\""
+    },
+    {
+      "Key": "5648d884-404e-4125-a9b7-dfef6a807fee",
+      "Value": "\"It's a beautiful land – but quite unlike the Stolen Lands. My sister and I grew up in a place dominated by the desert. I've often heard from travelers that such landscapes depresses them, but there's nowhere I feel more at home. Sand-drifts under the sun, life hiding where you'd never expect it... The lush green of a suddenly-revealed oasis... They are austere lands, but can be breathtaking.\""
+    },
+    {
+      "Key": "6092af96-0940-4b19-90dc-c9403005e16c",
+      "Value": "\"The cities of {g|Qadira}Qadira{/g} are an endless whirlwind of turmoil and bright colors. Some say the heart and essence of every Qadiran city is its temple to Sarenrae – ever since our country was blessed by the radiant goddess. But I'd put it differently. The heart of every city is a noisy market with its tents in every color you could imagine. Most of the city's life happens at the market. People go there not only to trade, but also to have fun, negotiate, and spin their intrigues. Take away the market – and what's left of Qadira?\""
+    },
+    {
+      "Key": "ad30ccbf-c1b5-4099-bd6a-7f439f07e596",
+      "Value": "\"We were at our eighth summer when Kalikke, the spring of my solace, got angry at me and chucked a bunch of desert thistles into my hair. I had to cut them out afterwards! That's what you have to suffer if life 'rewards' you with a sibling. Though I should say – that very evening I burned her favorite dress. With great trouble comes great satisfaction.\""
+    },
+    {
+      "Key": "40c2aa10-7c6a-4b3c-993a-2cdbc0e656ad",
+      "Value": "{n}Kanerah gives you a wry smile.{/n} \"What a surprise... It's little wonder that he came to you instead of me. – He respects hierarchy, as devils should. So what did he want?\""
+    },
+    {
+      "Key": "2f75dcfb-4f21-4410-8d84-75f7567c66da",
+      "Value": "\"Oh goodness, what fatherly commitment! You're right, he might be useful. But dangerous too, like any devil. But since it's my life that's at stake...\""
+    },
+    {
+      "Key": "75ce531b-29f7-4cef-a77f-9eaade040edf",
+      "Value": "\"As you wish. Now, thanks to you, we can at least switch when we want to...\" {n}Kalikke closes her eyes and focuses, calling to the other plane.{/n}"
+    },
+    {
+      "Key": "841084be-8006-4ffb-a489-6b733b2cf089",
+      "Value": "\"And that's it?\" {n}Kanerah slowly sways her tail.{/n} \"I've been known to spark... curiosity.\""
+    },
+    {
+      "Key": "8f73f635-1ec3-4651-aa77-41d8e8bf42a0",
+      "Value": "\"{g|Qadira}Qadira{/g} is a part of the Padishah Empire of {g|Kelesh}Kelesh{/g}, a great, thriving state. Don't think me rude, but the northern states are but a pale shadow of my homeland. Only Taldor at its height could compete with us, though it's long since lost its power. My land is wealthy, powerful, and full of opportunities for anyone cunning enough to seize them. It's a pity they're all devoted to Sarenrae, and the whole array of superstitions that go along with it...\""
+    },
+    {
+      "Key": "2286b8ad-aa44-41dd-bad8-0adf2184dc8d",
+      "Value": "\"Look at your golden-haired boy priest, and you'll see at once what exactly makes living in Qadira so unbearable, despite all its grandeur.\" {n}Kanerah wrinkles her little nose.{/n}"
+    },
+    {
+      "Key": "09387fe2-cf21-478a-b176-5ee37a017694",
+      "Value": "\"I'm not one to judge you, but refusing him might not have been the most sensible thing to do... at least for me and Kanerah. Who knows why the Forefather came to you, and what awaits us, after... But now is not the time for regrets. What's done is done.\""
+    },
+    {
+      "Key": "ed005ac8-f5d7-4907-82bc-de674bf665f5",
+      "Value": "\"The soul eater has returned! I don't know what to do, {name}. I'm worried sick! A devil's guile knows no bounds, but if my sister is in danger... I beg you, at least try to find out what the Forefather is plotting, and whether the soul eater really is once more at our heels...\""
+    },
+    {
+      "Key": "ebe4935c-e4d1-4a2a-9e37-803ca0f23c85",
+      "Value": "\"Dealing with devils, one must never drop one's guard, not even for a moment. But it's also true that it's best not to ignore them or their warnings. Especially when they involve mortal threats. And when it's your own life in the balance…\""
+    },
+    {
+      "Key": "20947c89-fcb5-485f-b65b-8fa5dc7116a7",
+      "Value": "\"But you are listening to me.\" {n}Kanerah smiles innocently.{/n} \"I wish I knew what he wanted... You can't just dismiss the words of such a powerful creature, even if you consider him your enemy. But what's done is done. It's not my habit to judge the actions of someone who has granted me their protection.\""
+    },
+    {
+      "Key": "7b819346-cff5-4a6c-8084-dce52b45e4fb",
+      "Value": "{n}Kalikke smiles faintly but her eyes remain sad.{/n} \"Ask what you will.\""
+    },
+    {
+      "Key": "0d2ec191-dc74-444e-948d-4996bc443593",
+      "Value": "\"I think we all have different experiences. What would you like to discuss?\""
+    },
+    {
+      "Key": "1d58e9b8-7a23-4654-9acc-9b962c3169c8",
+      "Value": "{n}Kalikke's eyes flare but she restrains herself, saying only:{/n} \"Is this your final decision?\""
+    },
+    {
+      "Key": "8a0c21a3-ef4c-4fe7-a6d9-458844fc2040",
+      "Value": "\"Well, it's not the first – and of course it won't be the last time we're driven away. Farewell!\""
+    },
+    {
+      "Key": "e6d2c73d-1bd1-4c67-8390-1184b8666285",
+      "Value": "\"Rash decisions – how familiar...\""
+    },
+    {
+      "Key": "1792a4c0-caf4-4684-add7-82d1d37f26c1",
+      "Value": "\"I can't imagine a reason that would make you wish to part with me. Are you sure?\""
+    },
+    {
+      "Key": "12a3a7ec-ae3a-43c3-8d5c-c78286716a36",
+      "Value": "\"I never doubted that you would change your mind.\""
+    },
+    {
+      "Key": "3cbdba00-4f55-4499-8eac-9547833c1916",
+      "Value": "\"Very well, goodbye. I will entertain myself with thoughts of how quickly and bitterly you will regret this decision...\""
+    },
+    {
+      "Key": "53c3d49c-ffb9-48c5-a4fc-6dbfbb63f600",
+      "Value": "\"But it was not enough to entirely hide our essence and pass as an emberkin. And Kanerah... asked for help. She asked a master of deception and illusion.\" {n}Kalikke frowns. She obviously wishes to get through this part of the story as quickly as possible.{/n} \"We left our native desert, crossed half of the country to avoid accidentally crossing paths with anyone from our tribe, and set off for a new life, in a new 'skin'.\""
+    },
+    {
+      "Key": "d930f55c-cb1c-48aa-8c92-72297b82fc82",
+      "Value": "\"Kanerah was born a few minutes before me. I suppose she just elbowed me out of the way in our mother's womb, to become the firstborn. Being the first – that's what she always craved. I never felt offended by it, though. Whenever the storm clouds gathered above our heads, heralding danger and trouble, my sister walked forward one step ahead, tightly holding my hand.\""
+    },
+    {
+      "Key": "9f4690c8-1bd3-4ff7-bf94-2e9ab2b543f1",
+      "Value": "\"I remember the day when I and a company of my friends met three young tieflings trading simple delicacies. As I reached for a coin to buy some food, my friends took me by the arm and led me away, saying a flameborn shouldn't take anything from the hands of unclean beings.\""
+    },
+    {
+      "Key": "d5fcecc1-e20b-48b6-9c1a-c8c27e32b91e",
+      "Value": "\"A flameborn…\"{n} — says Kalikke sullenly.{/n} \"My 'friends' would have been surprised to learn what sort of flame burned in my blood. But enough of this... I deceived them, and they were glad to be deceived, and no one was to blame. There is only one thing I regret – the rage that replaced the joy in my heart. Rage is not the best advisor – as I learned later from a bitter, bitter experience.\""
+    },
+    {
+      "Key": "d06545f7-65df-4497-890b-fd9259349faa",
+      "Value": "\"A devil.\" {n}Kalikke answers shortly, and stops gloomily for a moment.{/n} \"A powerful being, mighty and ancient. He made a contract with Kanerah, promising to weave an illusion for us. Luckily, my sister promised him only her service, not her soul. Ask Kanerah about details if you wish. Just remembering that creature's voice makes my skin crawl.\""
+    },
+    {
+      "Key": "23f31883-03eb-46f1-9982-30151fb179cc",
+      "Value": "\"Time passed, and these gatherings became more bitter. We yearned to prove that monster blood does not make us monsters. We spoke of how we should unite, and enter the great games of Qadiran aristocracy – supporting those who were ready to accept us as equals, and bringing down their opponents. We planned to use me as a cover – 'a beautiful emberkin', who would be the voice of the castaways.\""
+    },
+    {
+      "Key": "1f8b152f-7257-49cd-83ea-3ceda1606797",
+      "Value": "{n}The girl lowers her head.{/n} \"One evening, my sister came to me, full of careless grace. She told me that there was to be a raid on our secret meeting that very night. I had to stay home, and not even think of warning the others. It wasn't hard to guess how she found out. – The raid was to be led by followers of the Cult of the Dawnflower – fanatics who fancy themselves cleansing flames, saving the world from evil. Kanerah's patron, first among them.\""
+    },
+    {
+      "Key": "9a167180-1ffd-4651-a80d-6f983d906824",
+      "Value": "\"At that moment, I realized my sister loved me so much that she was ready to set aside her aspirations, and warn me of the danger. But I also realized something else – Kanerah was ready to sacrifice any number of innocent lives to get what she wanted. I ran away... after yelling in her face that she was a monster. I left her to warn my friends. – It's the last time I saw my sister alive.\""
+    },
+    {
+      "Key": "18d41566-b09a-4ccd-bd2a-d69bd7cf8c1d",
+      "Value": "\"I tried to save my friends from the raid, but came face-to-face with wizards from the Cult of the Dawnflower. They were able to dispel the illusion that protected me, and found out I was a tiefling. My secret was revealed – along with my sister's. What a shock it must have been for her patron, to find out that a clever tiefling was serving at his side, disguised as a righteous aasimar! There is no worse deed in Qadira than disgracing your patron. Kanerah knew this well, and tried to flee, terrified of his wrath. But she couldn't get away. Trouble came to her from a place she didn't expect. Ask her about the details if you want... I lack strength to talk about it. The truth is, I betrayed our secret, and my sister died because of it. I was able to bring her back to life, but bitterness has scorched my heart, and will be a part of me until my death.\""
+    },
+    {
+      "Key": "79d88939-5935-44b2-8d2b-3a4d93449032",
+      "Value": "\"Thank you. Your compassion gives me strength.\""
+    },
+    {
+      "Key": "3630d339-1603-4348-92d2-395147b2ce75",
+      "Value": "\"I don't know the answer, {name}. But I do see that my 'good heart' led my sister, jewel of my heart, to her death. I still cannot tell whether I was right or not, or how I would act if faced with a similar choice.\""
+    },
+    {
+      "Key": "56273203-cd98-442a-873b-aaee78f34bdb",
+      "Value": "\"I acted without thinking, I admit. But I wouldn't wish this choice on anyone – to choose between friends and a sister... I often ask myself – what would have I done, if I'd known how great the danger was for Kanerah? And I do not know the answer.\""
+    },
+    {
+      "Key": "25f24402-b411-4cdc-aabd-df0a6e7cfb11",
+      "Value": "\"Perhaps. But can water agree with fire? I do not know the answer.\""
+    },
+    {
+      "Key": "dc32cffb-87e5-4f42-962f-8d573694e5a8",
+      "Value": "\"You may be right. But how could I have stayed away, and not tried to warn those who trusted me?\""
+    },
+    {
+      "Key": "76b6b92c-160b-400b-83c3-0fafa92370c8",
+      "Value": "\"I wish Kanerah and I were more alike... We nearly destroyed each other, after failing to accept each other's wishes, and the paths we chose. Sometimes I feel that the life we now live is the best we could hope for. We can never meet, can never share each other's sorrows. But at least I don't have to be upset about her cruelty towards others. And she – about my softness and recklessness.\""
+    },
+    {
+      "Key": "df35817c-821f-447b-a9ae-629365f97ff3",
+      "Value": "\"I couldn't believe it, when she answered my prayer. She promised to bring Kanerah back to life, on two conditions: we would never be able to meet again, and we must keep secret everything that happened. By Nethys' power, my sister and I received our special connection. We cannot be in the same time and reality simultaneously. While one of us is in the Material Plane, the other one sleeps in a demiplane, one specially created for us.\""
+    },
+    {
+      "Key": "06c7bfcf-d0f7-4594-a003-7e961cc41904",
+      "Value": "\"Kanerah and I usually keep a diary, to tell each other in detail what happened during the day. But I didn't exactly have time to read it, and I doubt she had time to write anything during the attack. I ran into the hall and tried to help Jamandi, and then you and your companions appeared. We held back the attack, and you and Tartuccio began accusing each other of spying... Meanwhile, I still couldn't understand what was happening, or where I was. I had to pretend to distrust both sides of your argument, or I might have given myself away too easily. And I had to protect our secret – it was one of the conditions of our agreement with Nethys.\""
+    },
+    {
+      "Key": "a748fcfe-3f28-4a26-8f45-99fd9782e822",
+      "Value": "{n}Kalikke smiles faintly.{/n} \"Then you can begin to imagine what it's like for us! People approach me all the time, and start talking like they're my friends, and I just stand there, trying to remember lines from the diary. Is it 'the gnome with blue hair, a new admirer who has twice given me flowers' – or 'the gnome banker, who wishes to discuss investments in the Tors of Levenies mines'.\""
+    },
+    {
+      "Key": "0793000f-1caa-4086-ae47-4e9f2ec28115",
+      "Value": "\"I suppose it was natural to suspect that something was wrong. I'm still guessing why Nethys posed this condition – to keep all this a secret. It seems an impossible secret to keep, and there's little we can do to safeguard it. It could all be more complicated than I know. I simply don't understand his intention...\""
+    },
+    {
+      "Key": "1d826505-b53f-4c0b-80bc-988e9b9363e5",
+      "Value": "{n}The girl lowers her head.{/n} \"Good luck to you in everything you do!\""
+    },
+    {
+      "Key": "4213982c-3270-4b3f-93e1-d367b0ebc4a4",
+      "Value": "\"Not that it's entirely false...\" {n}Kanerah smiles coyly.{/n} \"But what is 'truth', generally speaking? I've always known what I was worth, and what lot I deserved. If superstitions stand in the way of achieving a goal, that's no reason to shed a tear. Better to use those same superstitions to your own ends. I must say, in Qadira they idolize aasimars almost as passionately as they hate tieflings. So I thought that with a little effort, I could pass as one, and my mastery of fire could be mistaken for a sign of {g|Sarenrae}Sarenrae's{/g} good will.\""
+    },
+    {
+      "Key": "02f3bb03-d7dd-4090-983a-e8a6f3771ec3",
+      "Value": "\"Of course, a masquerade of that sophistication required a little outside help – and I found it. I made a contract with a resourceful devil who calls himself the Forefather. He wove an illusion over me and my sister, hiding our tiefling features from everyone. I hope this doesn't shock you. It's not that I wanted to bind myself to a powerful and devious creature. But what choice did I have? To wash bowls at a caravanserai until the end of my days? That wouldn't just be a waste of the priceless gem that I am. I'd be burdened with caring for Kalikke – that naive walking virtue, who is totally unfit for a hard life...'"
+    },
+    {
+      "Key": "150f9458-ae5e-4b20-8007-9f5f13f21558",
+      "Value": "\"I'm just the incarnation of goodness and innocence, aren't I?\""
+    },
+    {
+      "Key": "20be8393-d412-4d5c-b569-12bb479f5bc3",
+      "Value": "\"As a person with principles, I can understand you. I have my own limits. But it was an agreement I found acceptable, though I admit I had my reservations.\""
+    },
+    {
+      "Key": "6faaa343-c6da-46ce-ad44-60dc8e446011",
+      "Value": "\"Wise words. If only there were more in this world who think as you do…\""
+    },
+    {
+      "Key": "18db2b3d-10cc-4cff-a44d-bfe6c62c730b",
+      "Value": "\"Of course I did. I would have done so much more, but as always, nothing went according to plan.\""
+    },
+    {
+      "Key": "ce6b237b-1ecf-48be-bb31-06f95a758655",
+      "Value": "\"Anyway, it's all in the past now. The contract was annulled by my death. Now I'm free to live as I wish.\""
+    },
+    {
+      "Key": "361b21e6-7656-41ac-8615-c15af831b4b6",
+      "Value": "\"Everything was going perfectly. But then Kalikke, that silly child, got herself mixed up with a band of tiefling renegades, who were too cowardly and stupid to achieve anything in their lives by their own wits.\""
+    },
+    {
+      "Key": "2307345d-334a-475a-9a1c-aac17a08317f",
+      "Value": "\"By the power of {g|Nethys}Nethys{/g}, my sister and I cannot meet... for as soon as one of us appears in the Material Plane, the other one is immediately spirited away to our demiplane. There we sleep until it's time to switch back. The demiplane, by the way, is full of elemental energy, which is wonderful for restoring our strength.\""
+    },
+    {
+      "Key": "a902319c-cddd-4a48-8fd7-b6a7f4d63e93",
+      "Value": "\"They organized something like a secret society, and gathered in the evenings in their huts. They spoke of opening everyone's eyes, and making them treat the outcasts with dignity. Sooner or later, they would have done something stupid and gotten themselves caught – and brought my sister down with them. So I helped them a little... and put my patron's people on their track.\nIf only I could have kept Kalikke from her foolishness! On the night of the raid, for some reason I told her the truth. I thought I could explain to her that her actions were threatening our secret. I thought she would see reason.\""
+    },
+    {
+      "Key": "73612664-76a6-4f11-98d9-a258a2e30abf",
+      "Value": "\"But nothing works out as one plans. – She hurried off to warn her friends, and fell into the hands of the Cult of the Dawnflower. Her disguise was unmasked, and with it, my own as well. Oh, sands and skies, I can't imagine the rage my noble patron felt! His aasimar confidant turned out to be a treacherous tiefling. I had no interest in learning how far he'd go in his rage, and immediately set off to flee. Alas – as soon as they found out what happened, the remaining members of a cult of daemon worshippers, who I'd once helped to disperse, quickly tracked me down. They summoned a soul eater, who cut my life short. And my story was at its end.\""
+    },
+    {
+      "Key": "3cfa9c8e-1a1b-49c7-afe0-3fff5514682e",
+      "Value": "\"It's a pity this ability came after we'd paid such a heavy price. I would have avoided my painful death, and I long to see my sister again – and singe her hair to show my gratitude for everything.\" {n}Despite her vitriol, Kanerah sighs – with sorrow and seeming tenderness.{/n} \"The demiplane nourishes us, and keeps us from all kinds of trouble. But the price... it's hard to live and make plans, when at any moment you can be pulled from reality, only to return after a few days – or even weeks. I'm glad that, thanks to you, we have now at least learned to control the process a little.\""
+    },
+    {
+      "Key": "3b606091-f49f-493a-8670-6318db47f909",
+      "Value": "\"Lady Jamandi's offer was simply too tempting... bring some pathetic bandits to heel, and receive a barony in return? Of course, 'Kaessi' could never be a baroness, but the adventure itself was an intriguing opportunity. Besides, I was in desperate need of distraction! So I showed up at the reception, made some valuable connections...\" {n}Kanerah locks eyes with you.{/n} \"I witnessed the attack of the unlucky assassins, but then – unfortunately, missed out on all the fun! The moment I ran through fire at the mansion, I was carried away to the demiplane, and Kalikke came forth to deal with the consequences. You know the rest.\""
+    },
+    {
+      "Key": "6184e034-0129-4296-abbb-0d570e0a53a5",
+      "Value": "\"Our home is always open to you... as am I!\""
+    },
+    {
+      "Key": "9ac55f93-3a9a-40da-855c-9e758a49558e",
+      "Value": "\"The people of Qadira revere the blood of the skies with the same fanaticism with which they distrust that the blood of {g|Hell}Hell{/g}. Aasimars, especially emberkin, are welcome guests in any house. Pretend to be one of them – and all doors are open to you. I didn't want to participate in this masquerade, but my sister insisted. We played upon our resistance to fire, and her gift of controlling this force of nature. – Both are often taken as signs of Sarenrae's good will.\""
+    },
+    {
+      "Key": "f17931aa-7d77-4bc3-9447-bb772091f7e5",
+      "Value": "\"As you wish.\""
+    },
+    {
+      "Key": "200e83f8-bba6-4e50-ac35-ee3ebc76b37d",
+      "Value": "\"It's not easy. {g|Nethys}Nethys{/g} made us agree to keep our story secret. In everyone else's eyes, we must remain one creature, 'Kaessi', a whimsical outlander with strange abilities. We keep a diary, describing our everyday life in detail, telling each other about all our new acquaintances – to help us protect our secret. If someone ever happens to see us 'switch', we say it's a special skill that allows us to travel through the elemental plane to replenish our powers. We're lucky to live in a world full of miracles. – It is not hard to convince people of such magic...\""
+    },
+    {
+      "Key": "4fb84a64-017b-4690-a28f-fe5ad14130cb",
+      "Value": "\"Yes! I may long for my native country, but this river land brings peace to my soul. I enjoy watching the clumsy ducklings struggling to go down to the lake – and the dragonflies flying over water, as it flashes with glints of sunlight... I'm glad to have seen all this, though the road that brought me here was a road of sorrow.\""
+    },
+    {
+      "Key": "4940b84e-a41c-47af-aed4-1e57668a0756",
+      "Value": "\"The divine creature made us agree to these mysterious conditions. And what's even more mysterious – we weren't punished when you discovered our secret. But I think I can hear a storm murmuring on the horizon. We might yet have to pay for our faults. But come what may – at least I did everything I could to tear my sister from the arms of death.\""
+    },
+    {
+      "Key": "06b746e3-d3dd-4e2b-8ecb-f63d3c4a1fa3",
+      "Value": "\"Sweet Linzi writes real poems. Mine are... no more than an attempt to talk to myself. And sometimes to the sister that I can no longer hear or see...\""
+    },
+    {
+      "Key": "4463b4d9-3fa3-492a-8433-6f75da023f66",
+      "Value": "\"She must. But she doesn't let it show. Still, I often find small gifts next to the notes – a strange flower, or my favorite sweets...\""
+    },
+    {
+      "Key": "8489b5d9-1426-49cb-b8ca-5488dfbaea20",
+      "Value": "\"Then don't bother reading them. Life is short. Don't waste it on things that don't make you happy.\""
+    },
+    {
+      "Key": "2a2392bd-d630-47ab-a16d-e03f7eea8b99",
+      "Value": "{n}The girl is a little embarrassed.{/n} \"As you wish. I don't like to hide things from those who are close to me... I have done this too often.\""
+    },
+    {
+      "Key": "aa5dfda8-4b32-4dfa-9dcc-880bdc491d0c",
+      "Value": "\"I'd have to spend the whole evening telling you all the details. Contracts require thoughtfulness and accuracy, especially ones like this. But to put it simply – I was to do as he commanded, and in return he granted me a powerful illusion, which would make my sister and I indistinguishable from emberkin – descendants of {g|peri}peri{/g}\"."
+    },
+    {
+      "Key": "adb05417-7044-40fc-82b5-62414d7cb147",
+      "Value": "\"The contract included a number of caveats and limitations. In particular, the tasks that devil would give me could do me no harm. The contract didn't involve my soul. – On the contrary, it bound me until my death, but no longer.\""
+    },
+    {
+      "Key": "26b47e89-efd1-46b8-ba11-76ff821403d1",
+      "Value": "\"Nothing helps to turn souls away from a faith better than fanatics of the faith. You have no idea, {name}, how often a zealous servants of the good, in their struggle against evil, has pushed others in the arms of that very same evil. That's why the Forefather sent me to serve the followers of the Cult of the Dawnflower. – Unlike the old church of Sarenrae, those cultists celebrate the goddess more for her warrior aspect than for her mercy.\""
+    },
+    {
+      "Key": "1aa10250-2693-47f4-a05e-9c3590ead8fa",
+      "Value": "\"You'd be amazed. They included... fighting evil. The Forefather comes from a line of apostate devils or deimaviggas. They live for one goal only – to turn people's souls away from serving any god but {g|Asmodeus}Asmodeus{/g}. Our deimavigga made a nest for himself in Qadira long ago, finding special pleasure in enslaving the servants of {g|Sarenrae}Sarenrae{/g}.\""
+    },
+    {
+      "Key": "ecf98c68-dadf-4d13-8c1d-af3210eedec7",
+      "Value": "\"My duties included seeking out secret cults of demon and daemon worshipers, and other springs of evil in the sunswept land of Qadira – real or imaginary. Questions, suspicions, public trials, one or two exemplary executions – and fear sank its claws into the hearts of the weak and doubtful. 'How can a good goddess allow this? What if I'm next?' Those who entertained such doubts would soon hear a knock on their door from a messenger of {g|Hell}Hell{/g}, offering a simple solution: protection and prosperity, in return for their souls. That's how I aided the legions of hell, by working under Sarenrae's sunny banner.\""
+    },
+    {
+      "Key": "2f8a4b8f-f15e-425c-bcc9-48c3c45a4683",
+      "Value": "\"If you say so...\""
+    },
+    {
+      "Key": "487ae6dc-ccb2-47f3-9c26-f4f9fda3e00d",
+      "Value": "\"I prefer large and bustling cities to backwaters. But on the other hand, the chance to build up a whole state from nothing – it's so tempting... I don't like chaos, though I've learned that at times I won't be able to play by the rules. So here is my answer – with some effort and right investments, your dominions might become something, someday.\""
+    },
+    {
+      "Key": "af04f464-b88d-4fae-bef8-caefec0efa0e",
+      "Value": "{n}Kalikke casts a quick glance at you, and then sighs faintly.{/n} \"I'm not sure I read your words correctly, but I will ask you not to repeat them. My life hangs by a thread, held by a devious devil and a powerful deity. I do not belong to myself, and I do not wish to become attached to anyone.\""
+    },
+    {
+      "Key": "f549664c-a271-497c-91b2-3671f0f56e23",
+      "Value": "\"Thank you. You have no idea how glad I am to be with someone I don't need to hide my secret from, and who supports me...\""
+    },
+    {
+      "Key": "f47d3a79-302c-4b5f-8fcb-c05c89650055",
+      "Value": "\"Perhaps. When you walk in the shadow for long enough, it's hard to step into the sun again.\""
+    },
+    {
+      "Key": "31b02b2c-b529-43f0-a3a3-adfb05a1ef66",
+      "Value": "\"I like living here. For the first time since fleeing Qadira, I feel there's a place in the world I can call home. And besides...\" {n}Kalikke frowns.{/n} \"I probably should have brought this up myself, but I couldn't bring myself to do it. I am very, very worried about the Forefather – the devil my sister made a contract with, long ago in Qadira. Kanerah thinks he's no longer a threat to us, since her death annulled the contract. But I don't believe such a creature can ever leave us in peace. I'd like there to be someone beside me who I can rely on in case he shows up again.\""
+    },
+    {
+      "Key": "fea9640a-cea0-4fa3-8b89-b6f8786f724b",
+      "Value": "\"A fair question. You see... there's an important detail about how I died and returned to life. I was killed by a repulsive creature called a soul eater. After a spell-caster aims it at its victim, the wretch will chase it tirelessly and endlessly. But when I was returned to life, the soul eater lost its prey. But it's still chasing me, and might show up at any time. It would be much easier for me if I could meet it here, surrounded by experienced monster hunters, ready to protect a poor fugitive from danger...\""
+    },
+    {
+      "Key": "b26665fb-adb7-41cd-8ea3-3283a9fd9422",
+      "Value": "{n}Kanerah folds her hands on her chest.{/n} \"It's your choice whether you protect your valuable companions or not... But now I can switch places with Kalikke at any time – and the wretch shouldn't attack her. So in the end, I guess you've already helped...\""
+    },
+    {
+      "Key": "6ec20518-ae8b-4c2a-b673-099e7a8d1e29",
+      "Value": "\"If things get bad, we'll have to flee again, or we'll put you and your people at great risk. But I believe it's here that we will find the strength to face Hell's claims on us.\""
+    },
+    {
+      "Key": "e2678a69-684d-4c48-ac7d-d7ad6248a22e",
+      "Value": "\"That is up to you. Send us away if you'd rather avoid this potential threat...\""
+    },
+    {
+      "Key": "66d53a14-4a0d-4a56-ac75-6b21defe9374",
+      "Value": "\"Thank you, and rest assured – I'll serve you loyally.\""
+    },
+    {
+      "Key": "d2b7956d-cc0f-4e59-82b1-ebad5d7240e3",
+      "Value": "{n}Kalikke turns pale.{/n} \"What... what did he want?\""
+    },
+    {
+      "Key": "fc4f66b5-4709-4bb5-bb24-09a177c1dc3f",
+      "Value": "{n}Kanerah shivers and holds her shoulders.{/n} \"The soul eater... no matter how I try, I'm never able to think of our last encounter as 'just another unpleasant episode from my past'. Maybe it's because I understood perfectly well what was happening. I was completely alone, losing a fight, being killed by a monster that would eat my soul. And I would lose everything, even an afterlife.\""
+    },
+    {
+      "Key": "21274e0d-03b0-4b93-b628-59bae73140ce",
+      "Value": "\"Nethys' Herald and his creation. She's a living whirlwind of magical energy, an amazing and powerful creature. She often takes interest in the business of mortals, and manifests Nethys' will. In our case, I think, she's done both. – The {g|Arcanotheign}Arcanotheign{/g} wanted to intervene and help, but she also told us that Nethys was aware of what happened. It's so strange to think that a deity turned his eyes on you, if only for a moment...\""
+    },
+    {
+      "Key": "89cd9e7c-b1b7-459b-9faf-b66a774f393f",
+      "Value": "\"Maybe. My sister and I have tried to figure out what happened, but failed. We need a real specialist in this sort of magic... a specialist like I can't even imagine. I can definitely say that the Disk hasn't been destroyed. – It seems to have become a part of my connection with my sister, helping us to move between the Material Plane and our demiplane. We'll continue to explore this new ability. Maybe we'll learn more at some point...\""
+    },
+    {
+      "Key": "298ded21-1e38-4c1f-aeb8-155d3d70d70e",
+      "Value": "{n}Kalikke nods.{/n} \"Ancient forces can be mysterious. I thought we'd need to spend a lot of time studying the properties of the Disk before we learned how to use it... But it just worked as soon as we touched it! If I understand its action correctly, it attuned itself to the connection between the Material Plane and our demiplane. Now we can move between them at will, and the rest is handled by our strange inner connection. I step into the demiplane, and Nethys' power transports Kanerah from there to the Material Plane.\""
+    },
+    {
+      "Key": "65865c03-4db8-4959-be46-cc7cbbb285de",
+      "Value": "\"Thank you. I don't remember anyone worrying about me like this, except for my sister... But you're saying the soul eater is back?! What should we do... I'm afraid of the Forefather and his plots, but can we safely dismiss him? We might just bring even more trouble down upon us...\""
+    },
+    {
+      "Key": "5e4e1a06-2abc-402d-bfd2-c041b84308aa",
+      "Value": "{n}Kanerah puts her hands on your shoulders.{/n} \"It's like I feel the desert heat and the cold northern wind at the same time...\""
+    },
+    {
+      "Key": "8f0b9f6a-7c96-4a5a-aff7-cdbe8c0a1b12",
+      "Value": "\"I knew something happened! There are scorch marks all around the house, as if someone got too anxious and couldn't control herself... Tell me – what happened!?\""
+    },
+    {
+      "Key": "61a69e84-3468-4263-a3dd-bd3f26eb57f8",
+      "Value": "\"You know our story. Most of our lives we lived in disguise. Kanerah has always been surrounded by admirers. I can barely remember a week passing without her receiving an invitation to courtship. But who was it that her suitors really pursued? Our whole story was fiction, and our faces were illusions of beautiful aasimars. The lucky ones who my sister allowed to get close – not only could they never look into her soul... They didn't even see her real body.\""
+    },
+    {
+      "Key": "fd69ddd8-723b-4ce0-94f9-4e201d3626a1",
+      "Value": "\"Please, don't talk to me about that. Not now, when I'm grieving a loss. Or better yet – never. As for Kanerah... it's not so simple with her.\""
+    },
+    {
+      "Key": "685a4363-ff6e-4ebf-b4f3-aeddffeb9edf",
+      "Value": "{n}Kalikke pinches the tip of her tail pensively, and her face brightens with a smile for a moment.{/n} \"There are some things that baffle even my cold and rational sister, and she gets lost like a child. Sincere mutual affection – not to mention love – is one of those things.\""
+    },
+    {
+      "Key": "9a33f65e-2078-4211-a637-1933d9691438",
+      "Value": "{n}There's deep sorrow in Kalikke's eyes.{/n} \"Let's not talk about it. There are those who were born under a lucky star, which brings them love and happiness. But I'm not so blessed, and my path takes me through lonely, dark places. As for Kanerah... it's not so simple with her.\""
+    },
+    {
+      "Key": "d2de577d-798a-46f0-9a5a-47a1ac4fcee7",
+      "Value": "\"I'm sure that her response to your confession would be to sneer, put on airs, or pretend she doesn't care about anything. But in truth I think she's perplexed. She's never been in a situation where someone liked her for what she really is. If you do care about her – then show her. Show her, and earn her trust.\""
+    },
+    {
+      "Key": "e2d2910b-78dc-4cb7-b9c4-7a3c7dc9d6b2",
+      "Value": "\"Be patient. But don't forget to impress her. Don't let her down. Life with her is chaos and unpredictability. The feeling the has blossomed between you can die just as easily – much more easily. Forgive me if I can't help beyond this simple advice.\""
+    },
+    {
+      "Key": "6b979ba1-c955-453e-a50e-d9fa2348be34",
+      "Value": "\"I am glad to help!\""
+    },
+    {
+      "Key": "7026b28e-489e-4994-9f7b-728bc4b0187f",
+      "Value": "{n}Kanerah's cheeks blush again.{/n} \"As you wish. You see, everything is fine. You like me, I like you, and we can keep having a good time and enjoying each other...\""
+    },
+    {
+      "Key": "9d721185-a613-4cf8-8127-dbdf814c71c6",
+      "Value": "\"You do realize – sooner or later, you and I will just burn this house to the ground in the heat of passion – and then the entire capital!"
+    },
+    {
+      "Key": "b8a87a94-f566-46a7-9ee8-191e964e72ae",
+      "Value": "{n}Kanerah exhales loudly, and sweeps her tail along the floor twice, but refrains from saying anything harsh.{/n} \"As you wish.\""
+    },
+    {
+      "Key": "3ebd08b5-0b29-4bbe-9236-6f905137c69f",
+      "Value": "\"That was awkward, wasn't it? I'm sorry I ran away, hiding my embarrassment in such an awkward way! It's not like me at all, isn't it?\" {n}Kanerah flashes a perky smile.{/n}"
+    },
+    {
+      "Key": "29bf63e2-836b-43c7-bebb-c5bfadd51059",
+      "Value": "\"Good luck to you in everything you do! And please, send the Sweet Teeth off on some errand to keep them away from Kanerah.\""
+    },
+    {
+      "Key": "cbba0890-9621-4e1a-8e7a-3fff6a234054",
+      "Value": "\"Our home is always open to you. And please, do me a favor – send the Sweet Teeth off on some errand so they will stop bothering me.\""
+    }
+  ]
+}

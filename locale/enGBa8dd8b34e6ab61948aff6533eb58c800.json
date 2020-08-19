@@ -1,0 +1,209 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "faf5e5df-0534-4632-80f3-b55dca30c657",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "4b5907f0-34c0-439f-b950-6cab89e8d871",
+      "Value": "\"What happened here?\""
+    },
+    {
+      "Key": "4b5bbf21-9819-4260-bb95-46de3bcebdd9",
+      "Value": "\"I helped you. What about the reward?\""
+    },
+    {
+      "Key": "9d27e2d8-212f-43f4-99fa-eb17a6fd4095",
+      "Value": "\"Hold on, I'll help you.\""
+    },
+    {
+      "Key": "11f2da44-6261-460a-9d3f-95059499af17",
+      "Value": "\"Well, I have to go.\""
+    },
+    {
+      "Key": "a46165ce-2da5-4514-9f42-f63ca2c6bc46",
+      "Value": "\"I'll take you down if you pay me.\""
+    },
+    {
+      "Key": "21e40e21-b835-4ccb-bb5e-d0d7389f98dd",
+      "Value": "\"Wait here, I'll be back soon.\""
+    },
+    {
+      "Key": "58c265f3-f4c1-41fc-9933-24e83bd58df1",
+      "Value": "[Lie] \"AAAAAH, A DRAGON! EVERYBODY HIDE!\""
+    },
+    {
+      "Key": "e9f4996a-8bae-4143-9167-aece23eb10be",
+      "Value": "[Throw a stone at the trader] \"Catch!\""
+    },
+    {
+      "Key": "3995bb7e-dd44-4938-9247-01bc8301d72b",
+      "Value": "[Collapse the tower] \"Why should I help you down? I'd prefer to watch you fly!\""
+    },
+    {
+      "Key": "79c0185a-2f17-4c85-9e4d-7acd2434a1b4",
+      "Value": "\"Jump, I'll catch you!\""
+    },
+    {
+      "Key": "c1428fe3-1263-47ea-8346-9fb7e425f489",
+      "Value": "\"Ha-ha, that's spectacular! I'll leave everything as it is, I don't want to ruin such a beauty!\""
+    },
+    {
+      "Key": "0a49d144-f503-4fcd-ba0c-bee7942f116f",
+      "Value": "\"Wait a bit, I have to think about it.\""
+    },
+    {
+      "Key": "3aa9be6e-b4a1-4c06-bfe5-27ca78d5dfd2",
+      "Value": "\"Tell me about yourself.\""
+    },
+    {
+      "Key": "dc068d92-b037-4c95-ad0f-e577f4b7aa90",
+      "Value": "\"What exactly happened here?\""
+    },
+    {
+      "Key": "c9256816-d0f3-43cf-8ec7-96337b399f3b",
+      "Value": "\"I'll give you a chance to think it all over and to give me the right answer. Where. Is. My. Money?\""
+    },
+    {
+      "Key": "5cb1b579-be9a-4ed0-a716-c6b73721e090",
+      "Value": "\"Where can I find the fey who did this?\""
+    },
+    {
+      "Key": "1412eecf-5ba3-41da-ab56-a0aac0238b3e",
+      "Value": "\"I should go.\""
+    },
+    {
+      "Key": "e4fda6d4-d0c8-4948-885c-c176bfcd3cf9",
+      "Value": "\"So how did they call this tower, Tamrath?\""
+    },
+    {
+      "Key": "a4c7f022-caa3-49ea-9971-10b82d666544",
+      "Value": "{n}A stout middle-aged man is fighting to keep his balance on top of the creaking tower. He's terrified and sweat is running down his face, so much so it's soaked his shirt through.{/n} \"For the sake of all gods, take me down before I break my neck!\""
+    },
+    {
+      "Key": "358187a4-0adb-4f0d-88b0-9065e58520e7",
+      "Value": "\"I'm Tamrath, a paint vendor! I'll be happy to tell you the story of my life after you help me down!\""
+    },
+    {
+      "Key": "2cbc861c-af46-4faf-ae3e-d2ff02fc4d30",
+      "Value": "\"Damned fey and their pranks, that's what happened! They sprang from the woods, hexed my horse and cart, killed my coachman, stole my paints, then put me up here…\""
+    },
+    {
+      "Key": "311b998a-93ad-402e-a0ae-03be8c9a214c",
+      "Value": "\"Garland just couldn't stop rearing, he was so scared. And Avim couldn't take it anymore... he loved Garland so much.\" {n}The vendor is silent for a moment, his face pained.{/n} \"Avim, oh Avim, we've been through so much together…\""
+    },
+    {
+      "Key": "ae3c1ab1-8fc6-43cf-ad34-2d645efbc42a",
+      "Value": "\"Thank the gods, I'm saved! Thank you, too! If only poor Avim was as lucky...\" {n}The vendor throws a glance at the blood pooling beneath the miniature cart.{/n}"
+    },
+    {
+      "Key": "9ab7a554-5a2d-401c-8dc0-737912b928ea",
+      "Value": "{n}Suddenly you hear branches rustle and noise from the nearby bushes, becoming louder and louder.{/n}"
+    },
+    {
+      "Key": "824cdb40-62ca-457c-b121-254c94085047",
+      "Value": "\"I'll pay, I'll give you everything I have, just get me down!\""
+    },
+    {
+      "Key": "dc617684-3f00-4730-a499-ebc2aed11e02",
+      "Value": "\"{g|Abadar}Abadar{/g} be praised, finally!\""
+    },
+    {
+      "Key": "6d88fa26-d22b-448f-9ae7-4b23047762b9",
+      "Value": "\"What are you doing? Don't! AAAAA!\""
+    },
+    {
+      "Key": "fca96097-9316-4e90-9204-ab0e00de53c9",
+      "Value": "{n}The vendor screams, startled, and covers his head with his hands. After a moment, realizing he's been fooled, he desperately tries to regain his balance.{/n}"
+    },
+    {
+      "Key": "7152403c-bd93-428b-9877-46cc5f789ffd",
+      "Value": "\"You really mean it?!\""
+    },
+    {
+      "Key": "6f6a3e38-ea86-4d53-b4cf-a7aee8bb60d8",
+      "Value": "{n}The stone flies straight and true and hits the vendor on the shoulder. With a scream, the man loses his balance and looks about to fall.{/n}"
+    },
+    {
+      "Key": "dc3afb18-3e4e-4317-9c30-ec51c079730e",
+      "Value": "{n}The vendor dodges your badly-aimed throw and manages to keep his balance on the top of the tower. His eyes are wide with terror.{/n} \"Are you mad?! Is that the best you could come up with?!\""
+    },
+    {
+      "Key": "a96d467f-3753-454a-ae49-071ed59ae1b6",
+      "Value": "\"For goodness sake, think faster!\""
+    },
+    {
+      "Key": "42488070-3e19-4bfe-b5d8-b1f294195597",
+      "Value": "{n}…and he falls to the ground awkwardly. Rubbing his shoulder and wincing, the merchant gets to his feet.{/n}"
+    },
+    {
+      "Key": "a3c11041-0fbc-4e4d-91dc-69f8268762b2",
+      "Value": "\"Don't go! Please, don't leave me alone here!\""
+    },
+    {
+      "Key": "ddec764e-17a8-4cac-8e13-f78f2316697f",
+      "Value": "{n}Deathly-pale and horrified, the vendor gets to his feet and stands silently, staring at his shoulder that now looks… crooked. It seems he's broken his collarbone.{/n}"
+    },
+    {
+      "Key": "500a4e8a-7f8c-4926-85ec-83ef5977f6ff",
+      "Value": "\"You could have helped me down more gently... though beggars can't be choosers! Gods be witness, I'm luckier than poor Avim...\" {n}The vendor throws a glance at the blood pooling beneath the miniature cart.{/n}"
+    },
+    {
+      "Key": "cfd4c5dc-efb7-46b9-a714-6cce45453d03",
+      "Value": "\"Of course. I'm Tamrath, from {g|Galt}Galt{/g}, and I make my living selling paints — I buy them in the city and then travel to villages in the area, selling them. Everybody wins — the peasants don't have to travel to the city, and I provide for my family.\""
+    },
+    {
+      "Key": "159600c6-dd2e-4245-aef0-13aa88d4747b",
+      "Value": "\"I was carrying my wares to the neighboring village. I've heard strange stories of odd happenings on this road, but I didn't listen, the old fool that I am. My coachman Avim and I were barely halfway to the village when a crowd of fey sprang out of the woods, laughing and encircled us... and... we didn't stand a chance.\""
+    },
+    {
+      "Key": "bc1b62ad-d205-486b-8ff7-e64a15e2e88c",
+      "Value": "\"They started to rummage through the cart. Then... I could scarcely believe it... they began building this ridiculous tower, arguing about what they should call it. But while they were building it, one of the crates fell and cracked open... and the paints, they were fascinated by them. But... they couldn't find a canvas, so they decided to paint our poor horse, Garland — they made him huge with their magic and started to color him — each in their own way...\""
+    },
+    {
+      "Key": "142f0b64-c177-4bc3-b8f5-4ee723cb9649",
+      "Value": "\"Long story short, Avim broke free and tried to drive the fey away. That's when Garland fled. The fey were ready to kill poor Avim where he stood, but the woman who led them proposed 'a joke' instead... before I knew it, they had put me on top of the tower, so I couldn't disturb them. And then they stuffed poor Avim into the cart with the remainder of the boxes... and then shrunk the cart...\" {n}Tamrath swallows.{/n} \"...but not Avim.\""
+    },
+    {
+      "Key": "3b1afc5b-3cdc-4387-8c8f-78b3061d6b28",
+      "Value": "{n}Tamrath smiles uncertainly.{/n} \"You see, all my goods were shrunk with the cart... but if you help me dispel the enchantment on the cart, I'll reward you right away, and generously, too.\""
+    },
+    {
+      "Key": "6ac76803-ea08-4716-aaa7-f3cfc5640013",
+      "Value": "\"I beg you to have mercy on me! You can't leave me to this horrible fate! Please, help me down!\""
+    },
+    {
+      "Key": "148aae86-2a01-4cd8-b36a-d9bc5e408745",
+      "Value": "\"Thank you! I dread to imagine what could have happened to me, if not for you. Please take this as a sign of my gratitude!\""
+    },
+    {
+      "Key": "3e512a99-7054-4ec9-84c2-b0c78f94e064",
+      "Value": "{n}The vendor winces.{/n} \"Temple of Solitary Contemplation.\""
+    },
+    {
+      "Key": "4fc0ffc2-e81c-4072-a09b-5370b4e41e56",
+      "Value": "\"Besides, after the fey were gone, this ring appeared in my pocket… I guess you deserve it more than I.\""
+    },
+    {
+      "Key": "87feaa04-8e00-47d2-91ad-e22a818049e1",
+      "Value": "{n}Nok-Nok's jaw drops as he eyes the tall construction with a puzzled look. A moment later, he bursts out laughing, pointing his finger and stomping fitfully.{/n}"
+    },
+    {
+      "Key": "26e92016-c895-42cb-8a54-e743413ed723",
+      "Value": "{n}…and you succeed. Struggling with the effort, you set the vendor on the ground as best as you can.{/n}"
+    },
+    {
+      "Key": "eacff487-64c7-4fcd-8dc8-f87d9aa5c48d",
+      "Value": "{n}…but the vendor proves too heavy, and you collapse on the ground with him. Despite the awkward landing, it looks like Tamrath is safe and sound. With a relieved sigh, he gets to his feet and brushes off his clothes, then turns to you.{/n}"
+    },
+    {
+      "Key": "013908e1-e82a-4115-9ca0-241c7b8734c4",
+      "Value": "{n}Tumbling through the air, the vendor hits the ground, landing on his elbow with a crack.{/n}"
+    },
+    {
+      "Key": "b3d321a4-259e-4382-9787-41c5407d26c0",
+      "Value": "{n}The tower sways and starts to collapse. Crates and barrels tumble down, shattering and scattering their contents across the ground. With a cry, the merchant falls as well...{/n}"
+    }
+  ]
+}

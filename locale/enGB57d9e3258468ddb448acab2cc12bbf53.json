@@ -1,0 +1,65 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "44e61d74-9fee-4486-9a52-e2e2dfe31fde",
+      "Value": "[Examine the exterior of the sarcophagus]"
+    },
+    {
+      "Key": "2dea8f89-db5d-4fb2-be6b-b228716eb473",
+      "Value": "[Use your strength to pry off the lid with a crowbar]"
+    },
+    {
+      "Key": "0ef37db3-630a-48e1-85d6-be447b8b831f",
+      "Value": "[Search for a keyhole or easier means to open the sarcophagus]"
+    },
+    {
+      "Key": "68bb5b78-e5ba-4198-84a5-2eb55172016e",
+      "Value": "[Leave]"
+    },
+    {
+      "Key": "64a34890-f6a8-40f3-aa7f-ca0d4b3c91a0",
+      "Value": "[Open the sarcophagus by any means — even cracking it open, no matter how long it takes]"
+    },
+    {
+      "Key": "efb838f9-e79c-4b8f-b121-0f70c5832971",
+      "Value": "[Detect Magic] [Search for the signs of magic on the sarcophagus]"
+    },
+    {
+      "Key": "ac528682-d17d-41ea-a3f1-256a373bda08",
+      "Value": "{n}Water and sludge still drip from this huge stone block, which has obviously been dredged from the lake bottom recently. Upon closer examination, it looks like a huge chest... or rather, a sarcophagus. One side bears an engraved symbol — a skull with a single eye-socket, and the eye-socket is covered with a coin.{/n}"
+    },
+    {
+      "Key": "3cf5ea64-64c3-4a56-ae46-538a1427ac7c",
+      "Value": "{n}The engraving on the side of sarcophagus resembles the symbol of {g|Charon}Charon{/g}, the Horseman of Death. But Charon's symbol usually has two eye-sockets (each covered by a coin), while the symbol here has only one. There's nothing more you can tell about the sarcophagus — except that it's ancient.{/n}"
+    },
+    {
+      "Key": "aa321bd3-cf95-4e17-9359-36e0ed772715",
+      "Value": "{n}The only thing about this sarcophagus you can say for certain is it was made to hold a huge corpse... perhaps an ogre or giant.{/n}"
+    },
+    {
+      "Key": "9742c70e-b1b3-4ac2-b4b7-741a79b4cc2b",
+      "Value": "{n}With a heave, you lean into the crowbar with all your might, and there is the scraping of stone as the lid shifts slightly and a waft of foul air emerges from within... corpse rot.\nTaking a breath, you are about to continue forcing the lid off when suddenly the sarcophagus shifts from within — and a heartbeat later, a huge rotting hand curls around the edge of the lid and begins to force the sarcophagus open the rest of the way!{/n}"
+    },
+    {
+      "Key": "83a853b1-1345-4284-9cac-fd33b8059d82",
+      "Value": "{n}You have no idea where the sarcophagus came from, but you know enough about enchantments to know there must be an easy way to open it. Experimenting with the engravings in various combinations, you discover when you press your finger against the skull symbol with your hand on the lid, the cover slides aside easily. Your triumph is short-lived, however — as the lid slides open, there is the sound of something... something huge... stirring within the sarcophagus. You hear a rattling whistle like air pushed through a leaky bellows and scraps of flesh fly from the sarcophagus... whatever's inside is huge, angry, and far from dead.{/n}"
+    },
+    {
+      "Key": "bc97cd0c-1ddb-446f-9c4a-143cc37ce37e",
+      "Value": "{n}You struggle with the crowbar, but after several tries, it's useless — the lid doesn't budge.{/n}"
+    },
+    {
+      "Key": "33aa8312-09f4-42c5-9008-e6ed2d8479e5",
+      "Value": "{n}After many desperate tries, a broken hammer, and a sore back and shoulders, you manage to crack the lid of the sarcophagus... a horrid smell wafts forth — corpse rot. But at least you've opened it. Your triumph is short-lived, however — you freeze as you hear something stir within the sarcophagus — something heavy. A heartbeat later, a huge rotting hand curls around the crack you've made, and locks around the edge... this is quickly followed by the scraping of stone as the hand begins to force the lid open the rest of the way!{/n}"
+    },
+    {
+      "Key": "a6703328-0962-4444-a4c4-72c168db558d",
+      "Value": "{n}There doesn't seem to be anything remarkable about the sarcophagus — nor does there seem to be an easy way to open it.{/n}"
+    },
+    {
+      "Key": "6f601b79-f41a-48fe-9260-ae28c7a49d1c",
+      "Value": "{n}Magic presence here is obvious. You can sense powerful necromancy energies, but can't figure out the specific spells in use here.{/n}"
+    }
+  ]
+}

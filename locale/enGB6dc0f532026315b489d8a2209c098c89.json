@@ -1,0 +1,325 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "2c3fa435-eb26-4004-9270-259c47cba12a",
+      "Value": "\"What is this place?\""
+    },
+    {
+      "Key": "f00bd158-e564-4c97-a7d5-587674650eb1",
+      "Value": "\"I'm looking for someone. Can you help me?\""
+    },
+    {
+      "Key": "ef304203-141b-493a-8aa7-adbc5383dbaa",
+      "Value": "\"Do you let everyone into your house?\""
+    },
+    {
+      "Key": "9d47591a-14b3-418b-b32e-e3a4ddab08de",
+      "Value": "\"A cultist of Lamashtu is hiding in your lodge. I have to find them.\""
+    },
+    {
+      "Key": "8abc7d3e-5ac5-4d0c-92c5-1dc49574a5c9",
+      "Value": "\"Do you remember when they came to your lodge at least?\""
+    },
+    {
+      "Key": "fb0469e3-785c-4039-b265-6465db702104",
+      "Value": "\"I'd like to examine your room, Dumra.\""
+    },
+    {
+      "Key": "499c444c-73ea-4bdb-a992-d2e071b42ca7",
+      "Value": "\"How long have you been living here?\""
+    },
+    {
+      "Key": "0442d6a5-3b25-4849-ad05-c223afc698f8",
+      "Value": "\"This place is rather secluded for a traveler's inn...\""
+    },
+    {
+      "Key": "a828e780-ce4e-433d-bc05-c7dcfa21ea1c",
+      "Value": "\"What is the main hunter's prey in these parts?\""
+    },
+    {
+      "Key": "6590f479-0e52-4b0d-968a-d2e01fa884ba",
+      "Value": "\"Listen… the sooner I cross you out of the suspect list, the sooner I'll leave you alone. Do me a favor and give me your room key, and all this will be over before you know it.\""
+    },
+    {
+      "Key": "c82b949c-7949-4578-a2fe-c4b3a3b749cb",
+      "Value": "\"I'm not going to ask twice, dammit! Put that key on a table now, or you'll regret talking back to your {mf|baron|baroness}!\""
+    },
+    {
+      "Key": "b5970f2a-1c07-4ef3-8894-2b8b3a3e6570",
+      "Value": "\"We'll return to this question later.\""
+    },
+    {
+      "Key": "68513759-d676-442c-a42d-fdab5c6100cc",
+      "Value": "\"I'd like to see your wares.\""
+    },
+    {
+      "Key": "e41b9bed-ed10-4180-8571-ede7e3947f67",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "fa5f8e5e-3378-4d40-9316-bb7a11e80576",
+      "Value": "\"I'd like to spend a night here.\""
+    },
+    {
+      "Key": "fac4d068-07cf-45f2-aa70-eee3caa17f0d",
+      "Value": "\"Let's go back to my other questions...\""
+    },
+    {
+      "Key": "45425540-b230-4d52-adc0-75d38d01e771",
+      "Value": "\"A crime has happened, Dumra. I need your help to find the culprit.\""
+    },
+    {
+      "Key": "76e36294-f25f-4d41-9592-054651516f41",
+      "Value": "\"Do you know who your guests are?\""
+    },
+    {
+      "Key": "3e875e5f-0181-4705-95e3-64d559510cfc",
+      "Value": "\"There are footprints leading to your lodge...\""
+    },
+    {
+      "Key": "994b1e5b-927d-4137-b6b9-13f902c053d6",
+      "Value": "\"Your lodge is the only house in the neighborhood...\""
+    },
+    {
+      "Key": "93524084-4d43-4dfb-a2b3-224939686415",
+      "Value": "\"Several hours walk from your lodge is a shrine of Lamashtu...\""
+    },
+    {
+      "Key": "3ca68b7a-b685-462a-99cc-8c0fcedbd08f",
+      "Value": "\"I'm not going to argue with you.\""
+    },
+    {
+      "Key": "97fd7556-eb1b-417f-84ff-ff54e28896eb",
+      "Value": "\"I don't like your tone, Dumra.\""
+    },
+    {
+      "Key": "9d910e5f-f0f1-49da-9568-d1b6d1bd2f6d",
+      "Value": "\"Your guests, Dumra. Do you allow anyone who asks to spend a night here?\""
+    },
+    {
+      "Key": "7a5dfa04-a53b-4aa3-a68c-00065c1fb2bf",
+      "Value": "\"I meant that followers of Lamashtu prefer… let's say… free relationships.\""
+    },
+    {
+      "Key": "4cc5a672-dcd3-4590-ac1c-a3197515a6cd",
+      "Value": "\"Poor choice of words. Forget what I said.\""
+    },
+    {
+      "Key": "60793920-b9b3-4b8a-8b48-890a604c090b",
+      "Value": "\"You're suspiciously stubborn in your refusal to help...\""
+    },
+    {
+      "Key": "c0beb2c7-68ec-4c34-950b-feb9b64de71c",
+      "Value": "\"How many people are there in the lodge now, except for you?\""
+    },
+    {
+      "Key": "f13a4abf-cc59-4180-893f-73524e9ddf19",
+      "Value": "\"People say you came to the hall last...\""
+    },
+    {
+      "Key": "1f34258e-5358-4a35-81e4-4d4b7f943164",
+      "Value": "\"That's enough about your lodge.\""
+    },
+    {
+      "Key": "6a3637c2-bcca-4d63-969e-0b5a9e07774d",
+      "Value": "[Pay for the room]"
+    },
+    {
+      "Key": "61e9dbc3-a3bd-49a8-9d2b-957b7b7c0d1f",
+      "Value": "\"I have changed my mind.\""
+    },
+    {
+      "Key": "d337fcdf-1028-491a-a846-4eca5666897e",
+      "Value": "\"Seven gold pieces?! I am a ruler of these lands — shouldn't I rest here without paying?\""
+    },
+    {
+      "Key": "507037a7-b0f4-4cb2-be22-ce639a565ac1",
+      "Value": "[Pay for the room]"
+    },
+    {
+      "Key": "b614a3ab-45d1-400c-a90b-a14269516399",
+      "Value": "\"I see you had some hellknights as guests...\""
+    },
+    {
+      "Key": "f2997929-1941-4938-9ee9-6aaf17925465",
+      "Value": "{n}The woman looks at you with caution, throwing quick glances towards your companions.{/n} \"Your Grace...\"{n} She chooses the words carefully.{/n} \"What an unexpected visit. I am the hostess of this place, my name is Dumra. How can I help you at this hour?\""
+    },
+    {
+      "Key": "b7e14d60-fa8c-4bfd-b0b8-251433422efb",
+      "Value": "\"Yes?\""
+    },
+    {
+      "Key": "76d8fae3-4b70-40b5-ae52-52ead2807dda",
+      "Value": "{n}Dumra looks at you without a word.{/n}"
+    },
+    {
+      "Key": "5ad45e3e-b589-4a0a-8c86-3f4932440fd9",
+      "Value": "{n}A sturdy, dour-faced dwarf stands before you, hands on her hips. Despite the wrinkles on her face, she looks more than capable of handling herself.{/n}"
+    },
+    {
+      "Key": "d51424c7-de53-418c-a14c-9628affeba5a",
+      "Value": "\"Can't you see for yourself?\" {n}Dumra grumbles.{/n} \"A place where people can rest after the hunt, enjoy a tankard or two, and fill their gullet. The nearest tavern is far, you know.\""
+    },
+    {
+      "Key": "fb5ede7e-a040-4cc1-8e0b-42ac676bcd48",
+      "Value": "{n}Dumra hands tighten to fists, but she keeps them on her hips. She says nothing, merely stares at you defiantly.{/n}"
+    },
+    {
+      "Key": "1336fce7-dfc1-4ac6-9f15-a755167697cc",
+      "Value": "{n}Dumra is silent for a moment, then nods and pulls an old, age-darkened key from her belt. {/n} \"Your way then.\" Her eyes narrow. \"But, have a care... no digging through my undergarments, or I'll have your hands on hooks, you hear?\""
+    },
+    {
+      "Key": "049c0aef-4a74-4acc-a93b-a0333748bd2d",
+      "Value": "{n}Dumra grunts, then her eyes narrow.{/n} \"Let's say I give you the key, and you use it to pin something incrim... increm... something bad on me! I won't allow it! Search the lodge up and down if you want, but stay out of my room!\""
+    },
+    {
+      "Key": "714208b7-0bc2-45a7-9109-b3af41cd247b",
+      "Value": "{n}Dumra glares at you for several moments, then finally grunts and pulls forth an old, age-darkened key from her belt. {/n} \"Have it your way... {mf|baron|baroness}.\""
+    },
+    {
+      "Key": "74479000-2823-456f-b65a-67fd1ba3e403",
+      "Value": "\"That's how it goes...\" {n}Dumra squints.{/n} \"If anything is against your liking, you just start shaking your fists and rattling your weapons. Won't work with me! I'm under {g|Erastil}Erastil's{/g} protection, Your Grace, and the Great Hunter will not let anyone harm me!\""
+    },
+    {
+      "Key": "b97e8c67-58b2-4bab-9568-9cdaf1b78f68",
+      "Value": "\"Can I leave now?\""
+    },
+    {
+      "Key": "e8d0bbf6-d3a1-4a82-bfe7-7c9ec3e948a9",
+      "Value": "{n}Dumra stares at you for a moment, then utters a hoarse chuckle.{/n} \"One of {g|Lamashtu}Lamashtu's{/g} own? That's quite a story you've spun, Your Grace. Next you'll tell me I'm holding {g|Rovagug}Rovagug{/g} down in the cellar? And what's your proof that I hide cultists?\""
+    },
+    {
+      "Key": "c2b61e62-04e6-40ac-8acb-3459e6a8dace",
+      "Value": "{n}Dumra's face turns red.{/n} \"What are you hinting at, huh?\""
+    },
+    {
+      "Key": "cc6e2456-80c1-4f19-aecb-639c8d2e9221",
+      "Value": "{n}Dumra squints at you, searching your features.{/n} \"Many years now. I know the whole neighborhood — flatlands and the swamps.\""
+    },
+    {
+      "Key": "25ff03d7-7c87-472d-8fa7-b1e45b6e2567",
+      "Value": "\"This is not an inn.\" {n}Dumra looks around the room.{/n} \"It's my home. I hunt for a living and let other fellow hunters spend a night here, if they find themselves too far from a tract.\""
+    },
+    {
+      "Key": "b053a16f-324f-4284-bdad-3fa55444ce0c",
+      "Value": "\"On the flatlands they go for fox and deer, birds in the swamp. There's always a chance of running into something more dangerous, of course.\""
+    },
+    {
+      "Key": "41f52dca-1469-4c77-abd8-0eb937e30197",
+      "Value": "{n}Dumra closes her eyes, trying to recall.{/n} \"I went to check on my traps… some people arrived when I was away. So I can't tell you for sure, Your Grace.\""
+    },
+    {
+      "Key": "bce95e12-f950-4a43-bdc2-9854c9ae09d7",
+      "Value": "\"What else haven't I told you?\""
+    },
+    {
+      "Key": "cddb9570-da64-4c25-a814-d37461790205",
+      "Value": "{n}A sturdy, dour-faced dwarf stands before you, hands on her hips. Despite the wrinkles on her face, she looks more than capable of handling herself.{/n}"
+    },
+    {
+      "Key": "d8ca19dd-cfbc-45f5-848f-7d5a9e25aaff",
+      "Value": "{n}She eyes you up and down.{/n} \"First time here, is it? House rules are simple — don't trouble the other guests, clean up your own mess, and don't cross me, or the sky'll be your roof. Name's Dumra — but don't call me if you need anything, guests attend to themselves.\""
+    },
+    {
+      "Key": "175d049f-5340-48db-a818-b65dc3485797",
+      "Value": "\"So what did this culprit do wrong?\" {n}Dumra's voice becomes thick, corners of her mouth curve down.{/n} \"Shot a deer in someone's lands? And now the criminal has to run away as if she was an animal herself… Whatever it is, leave me out of it.\""
+    },
+    {
+      "Key": "869810e1-f6a9-49f0-bde0-3f8267867705",
+      "Value": "{n}Dumra crosses her arms and lifts her chin.{/n}"
+    },
+    {
+      "Key": "e34e60ca-3581-4bce-9841-e547a9e7066f",
+      "Value": "\"So what? Folk come to this lodge everyday — both from the flatlands and the swamps.\""
+    },
+    {
+      "Key": "72b89001-37c5-4e77-9152-c7aa13720952",
+      "Value": "\"And?\" {n}She lifts her chin.{/n} \"Is it a bad thing — to provide shelter for those who's lost?\""
+    },
+    {
+      "Key": "5053c39d-bcef-4791-96ec-4012a6f13999",
+      "Value": "\"{mf|Baron|Baroness}, enough!\" {n}The dwarf clasps her hands.{/n} \"Here in the {g|Stolen Lands}Stolen Lands{/g} you can't swing a dead cat without hitting some goblin's nest, or cursed ruins, or a shrine of something foul!\""
+    },
+    {
+      "Key": "370d9bcb-4b59-456f-b6ef-31216d2a74f3",
+      "Value": "\"Really.\" {n}The dwarf frowns, her eyes narrowing.{/n} \"And how would you react, if a mob barged into your home and started troubling you and your guests? If you were expecting me to bow and scrape before you, then you're mistaken!\""
+    },
+    {
+      "Key": "85945186-2e73-4dd3-807f-67bd683be275",
+      "Value": "{n}Dumra glares at you and mutters something under her breath.{/n}"
+    },
+    {
+      "Key": "87e7e1e9-7d62-4cd8-ad33-0038e66db3e4",
+      "Value": "{n}Dumra straightens and inhales slowly, a snarl rattling in her throat.{/n} \"You know what? You may be a {mf|baron|baroness}, but I'm not going to listen to your filth!\" {n}She spits on the counter — then almost out of habit, she immediately begins cleaning the surface with a rag. {/n} \"What has my life come to when one such as you brands me as one of ill-repute?!\""
+    },
+    {
+      "Key": "d0df3326-0f85-4eb4-9518-f88852414e56",
+      "Value": "{n}Dumra blinks several times, pondering your words. {/n} \"Of course, everyone. What else am I expected I do — pick who gets a warm spot near the fireplace and who gets left out in the rain? I've let in you and your thugs, though you've put a terror in my other guests.\""
+    },
+    {
+      "Key": "f5a4bff2-aba7-46f2-8dea-110bf2227e20",
+      "Value": "{n}Dumra shakes her head slowly.{/n} \"You may think whatever you like.\" {n}She frowns.{/n} \"As for me, I just don't like those who feel the need to meddle in the business of others.\""
+    },
+    {
+      "Key": "ebaf9be0-e347-4fff-a3ee-3758e1c80ee2",
+      "Value": "\"Watch yourself — there are three of them, all sitting over there.\" {n}Dumra nods towards her guests.{/n} \"That one in the kitchen, guessing she's the servant to these two noble folk — they look to be carrying all the coin.\""
+    },
+    {
+      "Key": "f050e348-58d8-45cf-81b1-202112b18d39",
+      "Value": "{n}Dumra looks at you closely for a moment, then grunts.{/n} \"Right.\" {n}She speaks slowly, as if keeping her temper.{/n} \"I went out to the kitchen when this clumsy gal has knocked over some of my pots. What of it?\""
+    },
+    {
+      "Key": "5c985be0-bf43-4459-ab1d-6424722eb90c",
+      "Value": "\"You need something else?\""
+    },
+    {
+      "Key": "4309c852-9fbc-4d12-b6b4-d63b4712cfc0",
+      "Value": "{n}Dumra doesn't change her expression.{/n} \"Seven gold pieces.\""
+    },
+    {
+      "Key": "42556b23-58bd-433c-bef3-e146dafb8b25",
+      "Value": "{n}Dumra chews her lip, then answers with reluctance:{/n} \"All right. Here is your key.\""
+    },
+    {
+      "Key": "3ea496f1-2830-4e89-a4be-71927f24daa3",
+      "Value": "{n}Dumra narrows her eyes:{/n} \"Ten gold pieces then.\""
+    },
+    {
+      "Key": "e925a2fb-1264-4a77-aafd-1ad84aec1072",
+      "Value": "{n}Dumra doesn't change her expression.{/n} \"Ten gold pieces.\""
+    },
+    {
+      "Key": "5088ae1b-c237-4acc-b369-e5e1d29dffdc",
+      "Value": "{n}Dumra chuckles but says nothing.{/n}"
+    },
+    {
+      "Key": "52d8851a-9ae8-4274-bfe1-d58716481814",
+      "Value": "\"Here is the key. Good night.\""
+    },
+    {
+      "Key": "f4cc6a8d-984f-47a1-a1e7-4651ab810002",
+      "Value": "\"Excuse me? Who're you calling a thug?!\""
+    },
+    {
+      "Key": "6b181fc3-cf1a-4cc1-bbf9-74b9a0fd1b6c",
+      "Value": "{n}Dumra eyes Octavia and falls silent, then shrugs.{/n} \"You're a fair lass, sure, but who knows what thoughts you have in that pretty head of yours?\""
+    },
+    {
+      "Key": "5905bdd7-6d33-408c-9a74-9d9394643336",
+      "Value": "\"Here we go. Do you know how many times I've heard such words in the Iadaran court? As a side note, most of those speaking them turned out to be guilty.\""
+    },
+    {
+      "Key": "c3ca499c-3c05-42cf-bec9-0bf7fff54db7",
+      "Value": "{n}Dumra waves dismissively.{/n} \"Ah, blast the snots back to Hell. They scare simple folk away just sitting there. Good thing you've shown them what's what.\""
+    },
+    {
+      "Key": "b9c68612-9e82-423b-813e-c0114f0b1110",
+      "Value": "{n}Dumra gives you a sullen glance. It seems she's not too happy to talk with you, but she doesn't dare refuse it openly.{/n}"
+    },
+    {
+      "Key": "db75914c-9269-41b9-8f91-b149b48f13be",
+      "Value": "\"Why should I?\" {n}Dumra tilts her head, her eyes appraising you.{/n} \"I'm not their ward. They come, they pay for a bed, they keep quiet. Why would I care who they are?\""
+    }
+  ]
+}

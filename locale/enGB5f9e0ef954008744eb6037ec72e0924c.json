@@ -1,0 +1,177 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "ee0b5150-99c9-4dbe-a7c9-3fe5298883a5",
+      "Value": "\"Fine, I will do as you ask.\""
+    },
+    {
+      "Key": "ff677617-53f4-4283-a450-e9ff373cf78e",
+      "Value": "\"You think you can demand something from me? Hang him.\""
+    },
+    {
+      "Key": "2ba41038-eabc-4cb1-8740-7e10629aba7f",
+      "Value": "\"You get nothing from me. Leave at once.\""
+    },
+    {
+      "Key": "eb1c4b84-31fd-491a-8e14-a006c1fed020",
+      "Value": "\"Thank you for your gift.\""
+    },
+    {
+      "Key": "828f2e66-6979-41c0-b996-65f1cf458bb9",
+      "Value": "\"I need something from you.\""
+    },
+    {
+      "Key": "05faccd5-f848-452b-8175-fdcf77fa68e2",
+      "Value": "\"Leave my lands.\""
+    },
+    {
+      "Key": "97bf57bf-a25d-49be-8867-1bf9c93ed818",
+      "Value": "\"Put everything else aside and get to repairing your grandfather's armor!\""
+    },
+    {
+      "Key": "77ba1827-32cf-4f86-8465-b86a502dff9b",
+      "Value": "\"I think you know best what to make.\""
+    },
+    {
+      "Key": "8c0e0594-2f08-4015-a27b-db24a22914d4",
+      "Value": "\"A one-handed hammer.\""
+    },
+    {
+      "Key": "5e39af15-01d8-458c-8fc9-2cfcfd3859e8",
+      "Value": "\"A one-handed axe.\""
+    },
+    {
+      "Key": "110e8bae-962e-4cda-898d-b7b4268fa465",
+      "Value": "\"A crossbow.\""
+    },
+    {
+      "Key": "d589fc57-25bb-4801-8710-926daaf711a3",
+      "Value": "\"A metal shield.\""
+    },
+    {
+      "Key": "9677c228-be23-4bbb-9d60-d3414601ee2c",
+      "Value": "\"Plate armor.\""
+    },
+    {
+      "Key": "a285fa89-4268-4198-b6e5-0d371ec16091",
+      "Value": "\"Make something in the dwarvish style.\""
+    },
+    {
+      "Key": "d453a431-9eb2-4646-ba93-da6c04378119",
+      "Value": "My advisors will check your calculations. To the digit. Unfortunately, they already have a great deal to do as it is, so the gods only know when they'll have time to look at your petition.\""
+    },
+    {
+      "Key": "b0f82646-e594-4212-b464-11921e458010",
+      "Value": "\"Remind me, who you are and what are you working on?\""
+    },
+    {
+      "Key": "4e478d55-3a42-45c0-bca7-555514e0ef57",
+      "Value": "{n}A young dwarf in worn-out clothes shows you a scroll of fine paper with an expensive seal. He speaks ceremoniously, like a herald.{/n} \"Greetings. My name is Dragn Woradash. I come to you, {mf|Your Grace|Your Grace|Your Highness|Your Highness} with a request. Or to be precise, to receive compensation.\""
+    },
+    {
+      "Key": "39cb295e-9d18-4bf6-8849-80292f167949",
+      "Value": "{n}The dwarf blinks several times, surprised.{/n} \"You agree? Just like... like that? Seriously... I never thought I'd meet, in this land of thieves, a ruler who so honored the law. You are a truly a worthy ruler. Well, then, I guess we'll meet when you satisfy my petition. My respects!\""
+    },
+    {
+      "Key": "ec1db9ee-2543-4695-a9af-8a0728f20cea",
+      "Value": "{n}The dwarf's face twists in a mix of fear and anger.{/n} \"For pity's sake, for what?! This is lawlessness! Outrage!\""
+    },
+    {
+      "Key": "3996a46b-8e42-4fa9-b68a-37955e258397",
+      "Value": "{n}The dwarf sniffs.{/n} \"I knew I was never going to find justice here. There's nothing but thieves and robbers around these parts. If you're not holding on to it tightly enough, it's as good as gone!\""
+    },
+    {
+      "Key": "071657a2-ca83-4db5-b45e-8b209ba5f6bc",
+      "Value": "{n}{d|Dragn}Dragn{/d} bows, coughing quietly into his beard.{/n} \"{mf|Your Grace|Your Grace|Your Highness|Your Highness}, I would like to apologize. I suppose I was a little... headstrong during my last visit. I have a bad temper. In the mountains they used to call me Grumbler. Well, I didn't expect my petition to be taken seriously. No one wants to share with strangers, even if their demands are quite lawful. Please know that I appreciate your honesty.\""
+    },
+    {
+      "Key": "c10e5117-cfd6-4b59-8874-27bf42257264",
+      "Value": "{n}{d|Dragn}Dragn{/d} bows from the waist and addresses you ceremoniously.{/n} \"Greetings, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. By tradition, if a worthy ruler is patron to a master, the master gives generously in return. I have come to honor this tradition.\""
+    },
+    {
+      "Key": "f187ffb8-70b4-4a4b-bc3a-13702ce93620",
+      "Value": "\"Please accept this. I worked hard on it. I hope it serves you well.\""
+    },
+    {
+      "Key": "243f99d3-a230-4682-bec2-c9fad7e7297f",
+      "Value": "{n}Dragn solemnly presents the reforged plate armor.{/n} \"Here, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. The work is complete. Grandfather's armor is restored. It has belonged to the family for many years, but my family is no more... So I present it to you.\""
+    },
+    {
+      "Key": "a6d77b69-c88a-43c4-ad59-44048f8c5d22",
+      "Value": "\"A master always welcomes a good customer! So what would you like?\""
+    },
+    {
+      "Key": "a68fd211-c614-4403-997a-6903104d3250",
+      "Value": "\"It is a decent piece of work, to be fair, but not a masterpiece. Masterpieces are rare, once-in-a-lifetime accomplishments. Anyway, I have an idea how to use our family relic for your greater glory... but I'm going to need your help. Come by if you're interested. I'll tell you more.\""
+    },
+    {
+      "Key": "a108820f-7049-45e8-a84a-0ae7334daeaf",
+      "Value": "\"If my gift pleases you, please respond in kind. I've been robbed. Some thieves crept into my workshop and took all my gold, and Onslaught too! I hadn't even had a chance to finish it! The people are saying that robbers, thieves, and murderers have lately been freely roaming the area. They gather along the {g|Thorn River}Thorn River{/g}, near the ford. You're the ruler, so please, I beg you, take action to find it!\""
+    },
+    {
+      "Key": "4e18c965-e9fd-4e37-9a3d-4e440c2e07ab",
+      "Value": "\"If you have any requests or needs, feel free to tell me. Otherwise, please allow me to devote my time to Onslaught. I'm itching to finish what I've begun, and restore my grandfather's heritage.\""
+    },
+    {
+      "Key": "ef211d18-7e3e-4d8a-b175-dded71419afd",
+      "Value": "\"Gladly! I've been itching to start! But a craftsman's word is law. No new work until I complete all my current orders. I'm not some ordinary fool whose mind is so full of fantasies and \"fresh ideas\" that he can't properly finish a single task!\""
+    },
+    {
+      "Key": "40abe279-0178-4937-8042-0064e68631a5",
+      "Value": "\"It's a pleasure to work hard for such an honorable {mf|lord|lady}.\""
+    },
+    {
+      "Key": "cea000b4-00ac-44bf-adec-3043bb1acb24",
+      "Value": "{n}Dragn points his chin upwards, insulted.{/n} \"This is your land, you're free to throw me out. I'll always be happy to leave a place where honest citizens are unwelcome!\""
+    },
+    {
+      "Key": "98ca1126-58e1-42f2-918c-45cbefc2ef9e",
+      "Value": "{n}Dragn nods pensively.{/n} \"Of course... My kind are rarely allowed to work freely, without a big hurry...\""
+    },
+    {
+      "Key": "386ff4d6-fcfb-4b5e-8afc-72dc015790c2",
+      "Value": "\"Will do. It will be heavy enough to split open a suit of armor, but light enough that you won't get tired of holding it.\""
+    },
+    {
+      "Key": "bf9951fa-ac2b-44ee-bdfb-dd6a9a900ad2",
+      "Value": "\"Most reasonable. Nowadays they don't even think it's a real victory unless you overpower them hand to hand. But if you ask me, shooting bolts from a distance is smarter than getting bludgeoned to death. Let the fools think what they like, but you and I – we know better.\""
+    },
+    {
+      "Key": "c60c075d-f5f3-49b2-ae43-649906ee4277",
+      "Value": "\"Very wise. One should never forget about protection. Everyone thinks of glory and victory – a sharper axe, a heavier hammer. Never stop to think about their bones. Ha ha! The fools!\""
+    },
+    {
+      "Key": "8f905469-65ba-4e72-acd8-08cbcae14f5b",
+      "Value": "\"I see you're a true expert. No one has ever achieved greater success in smithing than my people.\""
+    },
+    {
+      "Key": "9f777ecb-2cce-4db7-a156-cac698191ae7",
+      "Value": "\"Here, take a look. This scroll contains a list of expenses for building the {g|Road of Shields}Road of Shields{/g}. The cost of laying the stone, draining, cutting firebreaks and so on. You and your people have lived for a long time on lands that lawfully belonged to my people, making free use of the fruits of someone else's labor. Would you now please pay for the work my ancestors did?\""
+    },
+    {
+      "Key": "76cc1b3d-cfc6-4c41-8abd-63c020768e3d",
+      "Value": "\"I, Dragn Woradash, humbly demand compensation for those who are no longer able to collect. I do not ask for gold. It's better that you give me a house with a shop, which will costs as much as the sum in the scroll. You see, I'm a blacksmith, and I'm used to earning my living honestly – but I can't work without a shop. As soon as I get what's mine, I'll open the shop right away. Then you'll have at least one decent bladesmith.\""
+    },
+    {
+      "Key": "eef61d62-e4f7-4e32-96d5-dc73ad5e4aa7",
+      "Value": "\"{g|Road of Shields}The Road of Shields{/g} used to run through your lands. It was built, among others, by my ancestors, members of the noble Woradash clan. This means they still own it, even though they were driven from these lands. According to all law, if a bandit takes my father's house and kills him, the house still belongs to me. So I've come for what's mine.\""
+    },
+    {
+      "Key": "5e07b20b-0389-4cd2-884b-30b2b5e92a36",
+      "Value": "{n}The dwarf opens his mouth to say something... then clearly can't find the words. He huffs indignantly, shifts from foot to foot, then finally turns away, defeated.{/n}"
+    },
+    {
+      "Key": "7d37415c-8def-44b4-89fe-e07b7c9afe94",
+      "Value": "\"I adjusted all the parts for a better fit, reworked a thing or two... Here you go. Wear it proudly. It is not by coincidence that it was named Onslaught. No lie, no trickery could withstand its wearer. It will aid a just lord in delivering law to {mf|his|her} honest people. It's going to fit you perfectly.\""
+    },
+    {
+      "Key": "2bbac27b-cc0b-4825-bd39-161b866bbc66",
+      "Value": "\"All right, I'll begin working on my grandfather's armor. I've been looking forward to this!\""
+    },
+    {
+      "Key": "36b460a3-0d25-4714-ae06-b30913a7ff6d",
+      "Value": "\"Dragn the armorsmith. Shields, axes, hammers – any kind of weapon or armor, these hands have done it all! But my life's work is repairing my ancestral armor, Onslaught. Full mithral plate – granting its wearer incredible power and speed. It is a great work, worth any sacrifice.\""
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "696ff88b-e06d-4266-a301-984cf7a287aa",
+      "Value": "\"How are you?\""
+    },
+    {
+      "Key": "77b879e5-8f76-4ff0-b74c-0f0d2a491db5",
+      "Value": "\"I see Elina is trying very hard to please you.\""
+    },
+    {
+      "Key": "76834c63-c0c7-49a0-989c-ffb965c508bb",
+      "Value": "\"Why did you never tell me about Ntavi?\""
+    },
+    {
+      "Key": "6c704b60-7be3-496f-94f1-83b2af9b6644",
+      "Value": "[Point at a glass] \"Drink with me?\""
+    },
+    {
+      "Key": "910eaa26-3e5c-4b6e-a2b0-a7d108302a97",
+      "Value": "\"I hope we didn't do more harm than good. Are you at least having fun?\""
+    },
+    {
+      "Key": "5932ba8c-8b03-4f81-a4f0-fd0ade631867",
+      "Value": "\"Why did you stop talking?\""
+    },
+    {
+      "Key": "98e3e68b-f62d-495d-8569-f2731787d32c",
+      "Value": "\"I see.\""
+    },
+    {
+      "Key": "fb9dafb8-9bad-43d4-ae40-f5a0f3406064",
+      "Value": "\"How did you meet Ntavi?\""
+    },
+    {
+      "Key": "cdf701c0-4828-46ef-84a6-8f9c6f172722",
+      "Value": "\"Were you close?\""
+    },
+    {
+      "Key": "35d5bab6-524c-449a-b9fe-1ec972363d0c",
+      "Value": "\"Tired of fighting? Ready to lie down and give up?\""
+    },
+    {
+      "Key": "bb56a70d-0b21-4233-866d-a9bcc43ce768",
+      "Value": "\"Want to change the subject?\""
+    },
+    {
+      "Key": "baa093ed-fa08-452c-aa04-d5d8f5f1825d",
+      "Value": "[Leave] \"I'm going to get something to eat.\""
+    },
+    {
+      "Key": "f84c8c9d-30b8-489a-81d5-e703992d4735",
+      "Value": "\"Help yourself. It's time to relax!\""
+    },
+    {
+      "Key": "b140920d-73e6-4642-a6f3-994876a63bbe",
+      "Value": "\"Elina's wine is quite good. It's your choice, though.\""
+    },
+    {
+      "Key": "7f3064ec-12fd-4b7d-b520-92f304306c2f",
+      "Value": "[Shrug and sip from your glass]"
+    },
+    {
+      "Key": "bc515617-42cf-4949-91cb-3322442447b1",
+      "Value": "\"Don't force yourself if you don't feel like it.\""
+    },
+    {
+      "Key": "3c51fa14-ef19-4e0c-8da9-a8c1d7ff48c8",
+      "Value": "[Remain silent]"
+    },
+    {
+      "Key": "47ca7c6d-5c22-4e57-897c-da70c6d2563c",
+      "Value": "\"Don't submit to despair. Deep inside you want to be happy again — and your family would want the same for you. Don't be ashamed of the moments where joy returns to your life.\""
+    },
+    {
+      "Key": "2d2c0fa4-cb6f-441f-ad2d-511434abf331",
+      "Value": "\"What do you mean?\""
+    },
+    {
+      "Key": "68585b39-c7bc-4d38-a5e9-ac26b9651663",
+      "Value": "\"I think this is more than a sense of obligation.\""
+    },
+    {
+      "Key": "e5c1f7dd-4268-45ad-aa87-2364566e62bc",
+      "Value": "\"Does it not ruin your fun?\""
+    },
+    {
+      "Key": "9e58d8c7-fc02-4a33-b0e7-c20577d42641",
+      "Value": "\"Yes. It was my idea, after all.\""
+    },
+    {
+      "Key": "d444cc88-c4f7-4b3b-9e83-5ae3823c397d",
+      "Value": "\"It was a team effort — Linzi, Elina, Ntavi...\""
+    },
+    {
+      "Key": "6ffef165-ba85-4a53-86e9-51d3cb162c20",
+      "Value": "\"You know Linzi. She has a creative mind.\""
+    },
+    {
+      "Key": "73386185-d496-43ed-b954-3a712627bb38",
+      "Value": "\"Let's talk about something else.\""
+    },
+    {
+      "Key": "f933b402-ddbf-41e5-a14c-a26071f1c867",
+      "Value": "\"Sometimes our feelings scare us... but your grief and your anger are justified. One can't order one's heart to stop seeking revenge and justice.\""
+    },
+    {
+      "Key": "95d4e994-2d17-4ca5-b179-83842b7ede4b",
+      "Value": "\"Only you can decide what path is right for you. I believe you will make the correct choice.\""
+    },
+    {
+      "Key": "ee5ad0cf-9eb5-4703-b937-74c37f641936",
+      "Value": "\"And that's it? You have nothing else to tell me?\""
+    },
+    {
+      "Key": "be17795b-f797-4f36-bd59-7f2d392cdc11",
+      "Value": "\"Enough whining. Pull yourself together.\""
+    },
+    {
+      "Key": "9340e684-e9ac-4743-bf0a-065cd1de5cc0",
+      "Value": "{n}The ranger greets you with a curt nod.{/n}"
+    },
+    {
+      "Key": "e1c24cb3-6be4-4d2e-b316-51b77df1faa5",
+      "Value": "\"Your Grace must want to talk to Ekun. I'll go make sure everyone has enough to drink.\""
+    },
+    {
+      "Key": "6ad83427-846f-44c9-8f59-52a047319309",
+      "Value": "{n}Ekun shrugs.{/n} \"Why?\""
+    },
+    {
+      "Key": "96860e08-c934-4514-804a-40332a1f339f",
+      "Value": "{n}The ranger rubs the back of his head, then smirks.{/n} \"Amanda. Said, 'A caravan is here — you'll go to the tavern again! Ntavi is a bad influence!' And then Ntavi started coming less and less...\""
+    },
+    {
+      "Key": "45ceee59-843d-4882-94ee-eea4a9ade882",
+      "Value": "{n}Ekun nods.{/n}"
+    },
+    {
+      "Key": "c8f4c416-ea2e-497d-9e23-cf6982e952dc",
+      "Value": "\"Guarded caravans. She talked a lot. I thought: 'She must be in love with her own voice.'\" {n}Ekun winces.{/n}"
+    },
+    {
+      "Key": "6cb9d96f-7f9e-454f-879a-78a3dac914fd",
+      "Value": "{n}Ekun chuckles and nods confidently.{/n} \"It's good to be among friends and trees. And better still — not holding a bow.\""
+    },
+    {
+      "Key": "4d31fc0f-69df-4f4b-aa29-465c0132a830",
+      "Value": "{n}Ekun looks at the grass beneath his feet.{/n} \"As fire and wind.\""
+    },
+    {
+      "Key": "44fc37fc-db79-4b05-876e-f3f42616b050",
+      "Value": "\"We are friends. And friends leave — but stay anyway.\""
+    },
+    {
+      "Key": "0d7b4857-6f38-475a-8f67-97dbc92bfb92",
+      "Value": "{n}Ekun looks uncertainly at the offered glass.{/n}"
+    },
+    {
+      "Key": "8a0907df-10e4-4c35-8cd1-f00acd015855",
+      "Value": "{n}Ekun resolutely shakes his head.{/n} \"No. Thank you.\""
+    },
+    {
+      "Key": "38deae43-1a4a-483d-b662-fc73ce128fd4",
+      "Value": "{n}Ekun is silent for a moment, then pours himself some wine and tastes it… then his face relaxes slightly.{/n} \"Not bad.\""
+    },
+    {
+      "Key": "8d239173-f585-4dbe-a64e-48e5dd1a2fc1",
+      "Value": "{n}Ekun nods and the tension leaves his shoulders.{/n}"
+    },
+    {
+      "Key": "91d2f86e-e54e-4e5f-af9e-5809bd875296",
+      "Value": "\"As always.\""
+    },
+    {
+      "Key": "f06fcc71-3e7b-4848-9e0a-ce9c957365ff",
+      "Value": "\"Life is life. It goes on... whether we wish it or not.\""
+    },
+    {
+      "Key": "b587b3d4-52e7-46ce-a80b-122c1b903fde",
+      "Value": "{n}Ekun tugs at the buttons of his jacket and lowers his head.{/n}"
+    },
+    {
+      "Key": "9b65b2b9-3cc9-43ec-b1d2-b5a225d3f658",
+      "Value": "{n}A faint smile spreads on Ekun's face.{/n} \"There is very much of her. All at once. However... she is a good woman.\""
+    },
+    {
+      "Key": "b425369d-5dfd-4caa-a931-8efad1ab397b",
+      "Value": "{n}Looking at Elina's back, Ekun turns to you, fixing one of his belt bags.{/n} \"Cunning plan. To bring a hunter to a feast, call him to hunt.\""
+    },
+    {
+      "Key": "35a11a22-0913-412d-84e1-c7daf6d206cb",
+      "Value": "{n}Ekun stares into the distance.{/n} \"I wake up with the first rays of sun — I see the faces of my family. Fire turns to ashes, midday turns to midnight — and when the stars are shining I still think of them.\""
+    },
+    {
+      "Key": "4fa13195-e965-4ba6-90db-0ce95c9595d3",
+      "Value": "\"I find it interesting to look at faces, listen to what they say to each other. I... missed it.\""
+    },
+    {
+      "Key": "84adb7bb-985a-4055-bb7b-4c4172e1652d",
+      "Value": "{n}Ekun nods.{/n} \"It's good to be among friends and trees. And even better — not holding a bow.\""
+    },
+    {
+      "Key": "52c480c0-6bd0-40b3-a407-9df47081309a",
+      "Value": "\"She is the lady of the house. This is her responsibility.\""
+    },
+    {
+      "Key": "f501384a-876c-4859-81e1-3fcf61ef9d45",
+      "Value": "\"And you, according to Elina.\" {n}Ekun is silent for a while.{/n} \"Thank you.\""
+    },
+    {
+      "Key": "52c8d994-756b-4ed0-a637-01ea7594d9b4",
+      "Value": "\"Elina told me. Thank you.\""
+    },
+    {
+      "Key": "e6e1a844-490a-4117-8401-5bd5a4ad8637",
+      "Value": "\"Hmm.\""
+    },
+    {
+      "Key": "e10b4810-8ac3-4322-9aab-1d441aa14b73",
+      "Value": "\"Uh-huh.\""
+    },
+    {
+      "Key": "2a3b0d02-f780-4a53-8fca-aa612956cb89",
+      "Value": "{n}Ekun shrugs.{/n} \"It's good to be among trees.\""
+    },
+    {
+      "Key": "c287295e-903e-4ca2-9d4c-fa54658a2f7e",
+      "Value": "\"I started living with Amanda. And Ntavi left with a caravan.\""
+    },
+    {
+      "Key": "7fc36c03-6fe0-49a5-a012-a74146563d7a",
+      "Value": "\"And then the desert taught her to close her mouth. Sand gets in.\" {n}Ekun smiles slightly, but his eyes are joyful.{/n}"
+    },
+    {
+      "Key": "01d5df0e-0f85-41db-8765-ac35eb9d2bdc",
+      "Value": "{n}Ekun shrugs nonchalantly.{/n}"
+    },
+    {
+      "Key": "8f189fc2-80e3-4518-88bb-57a5ced8d5d4",
+      "Value": "\"I... thought about it. Time will tell.\""
+    },
+    {
+      "Key": "1960b164-62e0-431b-8b03-5eb4996e7ee1",
+      "Value": "{n}Ekun studies his calloused palms.{/n}"
+    },
+    {
+      "Key": "5960fc1a-b92d-47e1-b3d3-e44677c26151",
+      "Value": "{n}Ekun's eyes flare.{/n} \"What do you know of how I live?\""
+    },
+    {
+      "Key": "db34c375-470f-4415-9406-1d835a332975",
+      "Value": "{n}Ekun's face is still.{/n} \"You will not put me out. No point trying.\""
+    },
+    {
+      "Key": "fdabe54c-ea13-492e-8a41-3b0efb32b478",
+      "Value": "\"I am still thinking about them.\""
+    },
+    {
+      "Key": "ac317697-3389-4b3e-bc9f-d2086c1f7b3f",
+      "Value": "\"Some days bitterness and rage fill me — I drive them away. Other days I feel a smile on my face and I appall myself. Only hunting numbs my feelings. But the farther I follow the trail, the darker the woods are... and the harder it is to find my way back.\""
+    },
+    {
+      "Key": "6bec904c-4b43-4544-b2a3-37de12a8a1e4",
+      "Value": "{n}Ekun sighs heavily and looks away.{/n}"
+    },
+    {
+      "Key": "902f7144-fd82-459e-938a-9a9ddc487364",
+      "Value": "{n}Ekun looks down. After a long silence he speaks, noticeably relieved.{/n} \"Your eyes look deep. Sometimes too deep. Thank you, {name}.\""
+    },
+    {
+      "Key": "08f6169d-40ee-4f57-ba89-a27ce84d664c",
+      "Value": "{n}Ekun's face is blank.{/n} \"Your words can't hurt me.\""
+    },
+    {
+      "Key": "308f9987-322f-4f82-8b1d-0790383005ae",
+      "Value": "{n}Listening to you, Ekun sighs heavily, but determination is written on his face.{/n} \"I suppose you're right. One can't be scared and leave these woods behind.\""
+    },
+    {
+      "Key": "98c723e7-eb2c-4da4-8645-70224f8abe91",
+      "Value": "{n}Ekun smiles slightly.{/n} \"Easier said than done. But there is wisdom in your words.\""
+    }
+  ]
+}

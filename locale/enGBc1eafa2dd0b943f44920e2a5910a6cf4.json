@@ -1,0 +1,249 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "347ee99a-2d9e-46a0-8732-9e1e44687fbe",
+      "Value": "[Try to decipher their speech]"
+    },
+    {
+      "Key": "a83d3aa8-04a1-4813-923c-0e8dc4a38927",
+      "Value": "[Attack]"
+    },
+    {
+      "Key": "9d2c5fa9-740f-4725-9a05-dbc72f5a318e",
+      "Value": "[Move closer]"
+    },
+    {
+      "Key": "f119d564-fcfe-42c1-be35-50845f438f4f",
+      "Value": "[Leave unnoticed]"
+    },
+    {
+      "Key": "265a9418-dd60-4675-b402-35981ef56def",
+      "Value": "[Try to decipher their speech]"
+    },
+    {
+      "Key": "d8c24144-fad7-43a9-9ad9-464d220cbf64",
+      "Value": "[Attack]"
+    },
+    {
+      "Key": "383d5bbe-d2de-4d74-8d04-fb14f2f37782",
+      "Value": "[Flee]"
+    },
+    {
+      "Key": "0cd3b451-884c-45da-b06a-206b4fc634f1",
+      "Value": "\"What are you arguing about?\""
+    },
+    {
+      "Key": "2a05dcbe-4c3d-47ea-84a4-dcfe41e181c2",
+      "Value": "\"What makes this 'treasure' so valuable?\""
+    },
+    {
+      "Key": "9c42ce38-7e56-45a6-979b-6e160e3506b7",
+      "Value": "[Inspect the stone]"
+    },
+    {
+      "Key": "9cf1949c-e0c2-491d-989b-7a7063e015e9",
+      "Value": "[Try to puzzle out the cyclopes' behavior]"
+    },
+    {
+      "Key": "b4c4271e-4194-477b-bdd7-da9bde76b4bb",
+      "Value": "\"What's the point in arguing? Just settle the matter with an honest fight.\""
+    },
+    {
+      "Key": "cc5666e9-72ef-4b83-af38-c68b894095a0",
+      "Value": "\"Instead of fighting, you could share the treasure equally.\""
+    },
+    {
+      "Key": "4b0bd894-0ac8-4349-9977-7537c8839dd1",
+      "Value": "\"Treasure, you say? If you value your lives, you'll hand it over to me!\""
+    },
+    {
+      "Key": "b49cfd26-a086-43e5-bf9f-c409c7699dad",
+      "Value": "\"All right. Good luck.\""
+    },
+    {
+      "Key": "7799bfa2-ba83-47ea-abcf-a200dffbb0ee",
+      "Value": "[Attack] \"Shut up and fight!\""
+    },
+    {
+      "Key": "12ea3b2e-0aba-426a-929a-d6436b366634",
+      "Value": "[Use detect magic]"
+    },
+    {
+      "Key": "7c794716-8dfc-4af7-a5ce-3fc2bf0bcccd",
+      "Value": "[Use dispel magic]"
+    },
+    {
+      "Key": "4469ee0a-f980-4cfc-93a5-70802fa2ef6e",
+      "Value": "{n}Two cyclopes are having a heated dispute in their rough language. They stomp their feet, pound their chests, sputter, and pay absolutely no attention to anything else around them, yourself included.{/n}"
+    },
+    {
+      "Key": "ca16c0bc-31c3-4e4d-96ca-ad4286523fc3",
+      "Value": "{n}You manage to make out some of the cyclopes' speech.{/n} \"Mine! Not yours!\" {n}The cyclops is yelling and shaking his fist.{/n}"
+    },
+    {
+      "Key": "f1bd6985-a121-4e8b-bb8d-440506c6838d",
+      "Value": "\"Hey, you! Insect! What are you doing? Get out of here before we step on you!\""
+    },
+    {
+      "Key": "554e8e7b-3b4f-4f71-9876-e1dc13ddb61b",
+      "Value": "{n}One of the cyclopes yells something at you in his language, shaking his hairy fist angrily.{/n}"
+    },
+    {
+      "Key": "603da0cd-11c7-4bac-9167-2d0f7d9122e1",
+      "Value": "{n}You manage to make out some of the cyclopes' speech.{/n}"
+    },
+    {
+      "Key": "89b0f2f3-fb1a-45c2-8f4d-3f2647740bbe",
+      "Value": "{n}The cyclopes don't give chase. They instead return to their heated argument.{/n}"
+    },
+    {
+      "Key": "70e73c01-68a3-4113-bd72-849990d6dbfc",
+      "Value": "\"I saw it first! Go away!\""
+    },
+    {
+      "Key": "aadbeda4-2fe5-4ae4-a8a6-b8abb9a96c1b",
+      "Value": "\"You go away! I'm not giving it up!\""
+    },
+    {
+      "Key": "be18c170-cb0e-481e-b04c-45e3292714e7",
+      "Value": "{n}The cyclopes turn to you, furrowing their bushy brows.{/n}"
+    },
+    {
+      "Key": "e7310fa9-1f45-4b42-84ac-306063882fe0",
+      "Value": "\"What do you care, insect?\""
+    },
+    {
+      "Key": "d4a6e8ad-5ee6-4689-910e-2c0131e83645",
+      "Value": "\"I'm telling! Let everyone know what a dirtbag you are! I found this treasure!\" {n}The cyclops slams his palm against the obelisk.{/n} \"This eyesore wants to take it for himself!\""
+    },
+    {
+      "Key": "f1e5801e-f230-4069-b437-c73a60a7c045",
+      "Value": "\"You found it? You?! I found it! You weren't even here!\""
+    },
+    {
+      "Key": "2dbe984b-7485-4c25-99e6-819e09beb13b",
+      "Value": "\"Erm...\" {n}The cyclops scratches his head.{/n} \"You, uh... you wouldn't understand!\""
+    },
+    {
+      "Key": "0ce48c7d-add0-4e82-9628-6739081e515f",
+      "Value": "\"Right! You're not a cyclops — what would you know of treasure? My sweet, precious treasure...\" {n}The cyclops tenderly pets the obelisk with his huge hand.{/n}"
+    },
+    {
+      "Key": "97dc9bd4-b643-4849-afdd-77d6ae987326",
+      "Value": "\"Hey! Paws off!\" {n}The second cyclops pushes the first away from the stone.{/n}"
+    },
+    {
+      "Key": "dd8bd468-bc05-4a69-bae2-6490a62fbade",
+      "Value": "\"This little savage makes sense! I'll gouge out your eye an shove it so for into-\""
+    },
+    {
+      "Key": "f95eb38e-58c1-4740-8745-f7c9ac87aaea",
+      "Value": "\"Try it! We'll see how you do with two broken arms!\""
+    },
+    {
+      "Key": "b2a8ed83-267f-487e-af28-a2c697ab37c1",
+      "Value": "{n}The cyclops tenderly caresses the stone's surface, completely ignoring the outside world.{/n} \"Mine... It's mine! I'm rich! The richest person in the world...\""
+    },
+    {
+      "Key": "ad779492-5386-474d-a000-602a6ea06f7b",
+      "Value": "\"No. That would be wrong, wouldn't it? He's my brother!\""
+    },
+    {
+      "Key": "2abddc22-a1cc-475c-8aec-02026e1af7df",
+      "Value": "\"Act like a brother, then! Give me the stone and get out of here!\""
+    },
+    {
+      "Key": "43f04b68-11b5-47d9-b92d-3311b6e1d387",
+      "Value": "\"No, you get out of here!\""
+    },
+    {
+      "Key": "4569de63-5182-4cca-94d4-1dd0904353f7",
+      "Value": "\"Forget that!\""
+    },
+    {
+      "Key": "7ca26e7b-f1ca-472b-a327-259505710862",
+      "Value": "\"Crush the little one!\""
+    },
+    {
+      "Key": "7023cb69-0094-40b7-8d1d-f55943bb3730",
+      "Value": "\"Hey, this little one speaks truth. Maybe we should share it?\""
+    },
+    {
+      "Key": "2c570f80-9355-4998-b253-305cb06e9119",
+      "Value": "\"Well, that could work... But how?\""
+    },
+    {
+      "Key": "36957119-c20e-467f-b693-c96f3bf668e3",
+      "Value": "\"Share? That's dumb! I'd rather pull his head off and keep the treasure myself!\""
+    },
+    {
+      "Key": "e6e9caf6-edc3-4fe5-90e0-84d5c88d45cd",
+      "Value": "\"I know! We'll drag it to camp, where we can both admire it! Give me a hand here...\" {n}The cyclopes grab the obelisk and try to move it, grunting and panting. The stone doesn't budge, but they keep trying.{/n}"
+    },
+    {
+      "Key": "d3509ca4-6932-447f-81d8-396765eb8111",
+      "Value": "{n}You didn't notice it at first, but there seems to be a pile of cyclopean bones at the foot of the obelisk. They've been gnawed on, and it doesn't seem like it was that long ago. This has the markings of a magical trap.{/n}"
+    },
+    {
+      "Key": "58cc0dd2-41b8-4c98-9886-cda05751d4b5",
+      "Value": "{n}The cyclopes ignore you completely. Their attention is completely focused on the obelisk.{/n}"
+    },
+    {
+      "Key": "80d4825c-3af8-469a-91f5-0477a5f7bbf6",
+      "Value": "{n}The stone radiates a powerful enchantment aura.{/n}"
+    },
+    {
+      "Key": "7fb64b08-1e94-4bc8-acfc-9d77a2a86815",
+      "Value": "{n}There doesn't seem to be anything unusual about the stone itself, but the cyclopes believe it to be a great treasure... It seems reminiscent of an enchantment spell. The ancient builders of this necropolis must have used the obelisk to create an inconspicuous but deadly trap. Any cyclops who got close enough would stay here, entranced by the obelisk, until they fell dead of exhaustion or starvation. Fortunately for you, spells like this typically can't target all sentient creatures, but rather need to be keyed to target a specific kind of creature — for instance, cyclopes.{/n}"
+    },
+    {
+      "Key": "f36f85fc-fefd-4f99-99ef-7ce55e222c36",
+      "Value": "\"Uh, you know... I don't really need this rock. You can have it.\""
+    },
+    {
+      "Key": "672dc5b1-03f0-4d53-8398-328b8c4068df",
+      "Value": "\"Me? Why would I want it? You take it, if you want. I'm not going to drag this stupid stone around.\""
+    },
+    {
+      "Key": "42905d7b-a750-4794-8bcd-0fa894ae26fa",
+      "Value": "\"Brother, all this arguing has made me hungry...\""
+    },
+    {
+      "Key": "3571fe26-f32c-483d-9efd-1d83e6ca355a",
+      "Value": "{n}Looking at you, the cyclopes lick their lips an begin moving toward you.{/n}"
+    },
+    {
+      "Key": "161ec630-cda6-4251-a882-8f68fb3373bc",
+      "Value": "{n}The cyclops's face falls as ecstasy gives way to disappointment. Puzzled, he looks at the stone, then to you, then to the body of the second cyclops, then back to you.{/n}"
+    },
+    {
+      "Key": "4f290bd9-d881-4fc2-8434-ef944b9301ed",
+      "Value": "\"Little savage! This is your fault! Now you'll get what you deserve!\""
+    },
+    {
+      "Key": "8fde0267-8185-441d-875d-2adf09f169a3",
+      "Value": "\"Ancient, great people, degraded into rabid animals. Pathetic.\""
+    },
+    {
+      "Key": "071e8352-99ba-46c6-b8c8-519e36982239",
+      "Value": "\"Here it is, the avarice. Two savages, among the ruins, fighting for a dead rock... All who seek earthly treasures are just like this, are they not? Hmmm...\""
+    },
+    {
+      "Key": "347f0535-2672-4451-ada7-1e508597eba5",
+      "Value": "\"I'm so tired of your whining! If avarice is so bad, why don't you take out your last coins from your pockets and give them to those in need — to me, for example? Also, be more like your god — he is just quietly whispering, not giving pointless sermons to everyone around him!\""
+    },
+    {
+      "Key": "01d273ea-1466-49b1-8d23-d04e6a4e32e4",
+      "Value": "{n}Nok-Nok leans in and whispers,{/n} \"They not want you and Nok-Nok there! Something brewing, I tell you!\""
+    },
+    {
+      "Key": "5b64d2bf-89e4-4ea6-90f3-8a0e84671e0a",
+      "Value": "{n}Nok-Nok eyes the stone with such intensity that it seems like he's trying to see right through it.{/n} \"Treasure...\" {n}His voice sounds unsure, but it trembles with greed.{/n}"
+    },
+    {
+      "Key": "6eda07e0-1337-46ff-a985-11e2da573f70",
+      "Value": "\"Yes! Our treasure!\""
+    }
+  ]
+}

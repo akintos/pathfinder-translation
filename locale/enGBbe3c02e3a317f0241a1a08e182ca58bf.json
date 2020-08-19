@@ -1,0 +1,269 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "fd0f6cdd-eac3-44e5-a406-c09c6219f05d",
+      "Value": "\"Destroy it, Tristian.\""
+    },
+    {
+      "Key": "5a6640c2-49ca-43e4-b530-b141e8c0d73d",
+      "Value": "\"I want to smash this damned artifact myself!\""
+    },
+    {
+      "Key": "ea02bd96-bda8-46ee-a4e4-0d06d6e3dbbb",
+      "Value": "\"Do not touch it. The Oculus of Abaddon belongs to me.\""
+    },
+    {
+      "Key": "fb4ca13a-1285-4c8e-a1af-1bb460addefa",
+      "Value": "[Watch silently]"
+    },
+    {
+      "Key": "7030f1da-5bf8-451c-9c32-776c21531e8f",
+      "Value": "\"Fine. Let's destroy it.\""
+    },
+    {
+      "Key": "90393a37-13d5-4bef-8410-590c8243b67c",
+      "Value": "\"I'll take the Oculus, one way or another!\""
+    },
+    {
+      "Key": "5d346110-0f44-4901-88c9-3d281af80a55",
+      "Value": "[Attack] \"You're wrong — the Oculus won't bring you down, but I will!\""
+    },
+    {
+      "Key": "0dd19da9-2995-42b1-ba37-87842d41b6c1",
+      "Value": "\"No more suffering. You're forgiven, Tristian.\""
+    },
+    {
+      "Key": "05c73b89-e07b-4025-9e56-8d1c5ac196ff",
+      "Value": "\"I can't trust you — and will never be able to trust you again. Leave my lands. Forever.\""
+    },
+    {
+      "Key": "b5a236c0-9de6-4ac9-9036-f038facb473f",
+      "Value": "[Attack] \"You've no excuses!\""
+    },
+    {
+      "Key": "769b070a-acf7-4f8c-8552-d41d0f881123",
+      "Value": "\"I'll try to find forgiveness for you in my soul. You can stay in my lands.\""
+    },
+    {
+      "Key": "d0bcc1b9-2eac-4f26-90f1-967a8db84df6",
+      "Value": "\"Wait! I want to ask…\""
+    },
+    {
+      "Key": "18f2508c-3dfa-472a-85d8-9a090c0bd8a4",
+      "Value": "\"I've made up my mind about what to do with you…\""
+    },
+    {
+      "Key": "5c42a3e4-db08-4fc7-ae7c-8c2db20f86f4",
+      "Value": "\"Tristian… who are you?\""
+    },
+    {
+      "Key": "5ee6fc1a-5d74-4f70-96b9-1536b9591abc",
+      "Value": "\"Who is Nyrissa?\""
+    },
+    {
+      "Key": "4dac2069-fb2a-49c0-8b5a-87c20d462bbc",
+      "Value": "\"What did Nyrissa want the Oculus of Abaddon for?\""
+    },
+    {
+      "Key": "4ffd8648-3a5c-4f01-869e-cfc5e82ed442",
+      "Value": "\"The Sister mentioned some lies about sacred gift and mortal body…\""
+    },
+    {
+      "Key": "a2c315b8-dbb5-4754-bfc8-2f66b7a62718",
+      "Value": "\"Those cultists from the Kingdom of the Cleansed who tried to kill me — were you involved in that, too?\""
+    },
+    {
+      "Key": "e558b19a-0365-4439-bd8d-a8a0db92d5a9",
+      "Value": "\"What is this Everblooming Flower you're talking about?\""
+    },
+    {
+      "Key": "99c2538c-9360-425d-b4eb-6796e82bb1c1",
+      "Value": "[Hold Tristian] \"Let me take you home.\""
+    },
+    {
+      "Key": "098bb6ec-f1e6-46c7-bff2-d3cf3e7eae5d",
+      "Value": "\"Tell me about Nyrissa's search for the Oculus.\""
+    },
+    {
+      "Key": "71636176-9dd1-4b4d-922a-1e88ca74f1c6",
+      "Value": "{n}Tristian's eyes are affixed on the Oculus of {g|Abaddon}Abaddon{/g}, gleaming in the eye of the Defaced Sister. His lips move, but you have to strain to hear his words.{/n} \"The one, who doesn't see evil, will destroy the thing that seduces others... power that can disperse the darkness... evil incarnate must be destroyed...\" {n}Without looking at you, Tristian reaches for the Oculus.{/n}"
+    },
+    {
+      "Key": "92b563ba-421b-46cb-96bd-cfbe29732f6a",
+      "Value": "\"No!\" {n}Tristian, deadly pale, turns to face you.{/n} \"No! The Oculus was created to bring suffering to mortals, to multiply grief and misery! Change your mind, {name}. It must be destroyed.\" {n}Tristian falls silent for a while.{/n} \"I've lost everything because of this Oculus. Let me destroy it before it brings down someone else.\""
+    },
+    {
+      "Key": "c0b49a38-43c0-45b8-bde2-57cc60e0b7c7",
+      "Value": "{n}Tears well in Tristian's eyes, but his features harden, his expression determined.{/n} \"Forgive me for what I do now.\" {n}He clenches his fists, and suddenly, blinding fires flare in his eyes!{/n}"
+    },
+    {
+      "Key": "cd109201-34e2-4e10-9c93-9fdef2460a7a",
+      "Value": "{n}Tristian shakes his head.{/n} \"No… there is one way… but not for you...\" {n}He sighs and kneels down beside the Sister's body.{/n} \"This is my duty, {name}. I will pay the price.\""
+    },
+    {
+      "Key": "19f32b92-ec99-4d85-ba30-e0e2efeb4458",
+      "Value": "{n}Tristian reaches down and takes the Oculus of {g|Abaddon}Abaddon{/g} from the Sister's eye socket. Then he steps back, raises his hand to his eyes, while raising the other hand, with the artifact firmly clenched in it, to the sky and sun, hidden behind the stone masonry.{/n}"
+    },
+    {
+      "Key": "4ebf7585-a11c-412e-81aa-5b00fc4c4895",
+      "Value": "\"Merciful {g|Sarenrae}Sarenrae{/g}! Dawnflower! Hear the prayer from your apostate! I am powerless to fix what I've done, but I can prevent others from following the same road! Grant me courage and light my way in the eternal darkness that awaits!\"\n{n}For a moment, the dim room is brightly illuminated — a flower, made of blinding light, blooms in Tristian's palm. The cleric utters a last sigh — and presses his palm engulfed in sacred fire, to his eyes. With his other hand, he releases the Oculus of {g|Abaddon}Abaddon{/g}, and it falls to shatter on the ground.{/n}"
+    },
+    {
+      "Key": "b53cda41-6c01-492a-ad6f-74002667405d",
+      "Value": "{n}Tristian turns towards you, his face tortured.{/n} \"{name}? Let me tell you something before you decide my fate. Nyrissa is gone — she cannot keep me silent any longer.\""
+    },
+    {
+      "Key": "73f9617d-c70c-4a5d-b351-d7b4dc0c8357",
+      "Value": "{n}Tristian takes his palm from his face, covered in tears of pain and relief — his eyes are white, blinded.{/n} \"The destruction of the Oculus in exchange for eternal darkness...\" {n}He chuckles bitterly.{/n} \"There's no worse punishment for {g|Sarenrae}Sarenrae's{/g} servant than to be deprived of her light forever — but it is fitting for all I have done.\""
+    },
+    {
+      "Key": "650960cb-0210-4a97-8a93-14d122a319c6",
+      "Value": "{n}Tristian's lips tremble, and he answers you faintly.{/n} \"Thank you.\"\n{n}The cleric takes a deep breath, as if gathering himself, and his voice rises.{/n} \"I'll leave you and head for the city. A walk will help me to figure out how can I make my amends for... for everything.\" {n}He nods in farewell.{/n} \"Till we meet again, {name}\"."
+    },
+    {
+      "Key": "50c492f8-7510-4868-b233-d4fd8879629c",
+      "Value": "{n}Tristian drops his head — either in shame or in agreement with your words.{/n} \"Forgive me, {name}.\""
+    },
+    {
+      "Key": "f7fbb61d-8a28-421f-949c-35f2ae9ba868",
+      "Value": "\"Later. Everything — later. Let me do this — let me save the world from this evil…\""
+    },
+    {
+      "Key": "4d6c5318-aadb-44db-90f1-912d20f66ad8",
+      "Value": "{n}It seems to you that a shadow of fear crosses Tristian's face, but he keeps silent.{/n}"
+    },
+    {
+      "Key": "b014f1f2-708f-41b9-9b7e-07f91fd97597",
+      "Value": "{n}Tristian lowers his head.{/n} \"I am a deva... once a sacred servant and messenger of {g|Sarenrae}Sarenrae{/g} herself. Once it was my calling to heed mortals' prayers and to deliver them to other servants of the goddess. That was before I fell into a trap set by Nyrissa.\""
+    },
+    {
+      "Key": "594fcc12-73c5-45e7-8eeb-a02b6f843c94",
+      "Value": "\"She took from me my powers and severed my bond with my goddess. At least… that's what I had thought.\""
+    },
+    {
+      "Key": "9e4324bb-2550-4be4-bedb-6f2e47f4d664",
+      "Value": "\"Nyrissa threatened that if I didn't serve her, she'd never return my wings and I'd never speak to {g|Sarenrae}Sarenrae{/g} again. She made me... she...\" {n}Tristian trails off, and his face darkens.{/n}\n\"I'm lying to you again, {name}. If it wasn't for my cowardice, Nyrissa would never have broken me to her will. But I... I was afraid to remain mortal!\""
+    },
+    {
+      "Key": "3aa48fcb-fe1b-4677-b3a1-5ef3881e4c68",
+      "Value": "\"A nymph. One of the most beautiful of all creatures. Most wicked of all monsters. But who she is — what she wants, I do not know.\""
+    },
+    {
+      "Key": "92fa4a5c-b37c-4d7e-93db-efa0a7c95ccb",
+      "Value": "\"I ran across her while traveling through the negative energy plane. A strange wound — like something had pierced time and space. In my pride, confident in my powers, I followed its path to this world.\" {n}Tristian shakes his head.{/n} \"She dealt with me in a heartbeat.\""
+    },
+    {
+      "Key": "f9edeb17-af38-4622-ab7a-78d855be6f39",
+      "Value": "\"Before I could flee, she had entrapped me, filling my mind with horrible nightmares... and when I awoke, I was mortal. I... I had no choice.\" {n}Tristian's voice rises, becoming desperate.{/n} \"No choice at all.\""
+    },
+    {
+      "Key": "bd63f96f-a6ed-4fb8-abac-f0211e2d0cd8",
+      "Value": "\"I don't know. After I failed her...\" {n}Tristian interrupts himself.{/n} \"After I failed to destroy you, she became angry with me. The only way to regain her favor was to find the Oculus of {g|Abaddon}Abaddon{/g} and bring it to her.\""
+    },
+    {
+      "Key": "5b504155-820c-40fb-8caf-21b6456969a1",
+      "Value": "\"I don't know why she wants it, only that she will destroy anything in her path to possess it — including you. I beg you, {name}, be careful — she never forgets any who dare challenge her.\""
+    },
+    {
+      "Key": "155afd86-d600-4c14-b51e-bcae2ebc46c0",
+      "Value": "\"When I awaked from Nyrissa's enchantments, I was mortal, no longer a deva. Nyrissa said she'd taken my gift of immortality and severed my bond with my goddess... but... according to what the Sister said...\""
+    },
+    {
+      "Key": "d7bd1531-c448-47e2-b68a-65440c39f20c",
+      "Value": "{n}Tristian takes a deep breath and raises his head.{/n} \"I don't understand what's true anymore and what is not. Before this, I thought Nyrissa stood between me and {g|Sarenrae}Sarenrae{/g}. But it seems like... seems like she was lying.\""
+    },
+    {
+      "Key": "97c86b00-de92-4847-8887-b285d0f81ce0",
+      "Value": "\"I'm tired of lies and deception. Our meeting wasn't a coincidence... It was Nyrissa who sent me to the {g|Temple of the Elk}Temple of the Elk{/g}. She conjured that fog and sent Jhod a vision of the place. Since then I've been watching you, waiting for a time to act. For Nyrissa.\""
+    },
+    {
+      "Key": "cbc6ebe4-9798-4ce0-86bc-a80e0836b06a",
+      "Value": "\"But that's... that's not all. I helped her create and plant the unwilting flower that almost destroyed your barony. As you can see...\" {n}Tristian shakes his head.{/n} \"Everything that happened in Vordakai's tomb was but one of my many crimes.\" {n}Tristian falls silent for a moment.{/n} \"That is all. Deal with me however you think best.\""
+    },
+    {
+      "Key": "248fa40f-a66d-42bc-9fbf-03d0a4ccbb32",
+      "Value": "\"Partly. Nyrissa charmed the First Faithful, promised him and all his followers a paradise in exchange for your head. My job was to lure you to the trap.\""
+    },
+    {
+      "Key": "62872d63-894c-4dfa-9f5b-8341b17d3c05",
+      "Value": "{n}A shadow of smile crosses Tristian's face.{/n} \"But Nyrissa ordered me only to lure you to the trap. She never forbade me to protect you. That's why I fought by your side in that battle.\""
+    },
+    {
+      "Key": "f998b738-ebe3-460f-9580-12b910c4960a",
+      "Value": "\"This was Nyrissa's creation — a strange plant with seeds that bring death to the mortals and open gates to the {g|First World}First World{/g}. I don't know much else... all I've done was use my knowledge of the planes to root the flower in two worlds simultaneously.\""
+    },
+    {
+      "Key": "7db43db7-968c-4bb3-b515-05e0f69748a7",
+      "Value": "{n}Tristian winces.{/n} \"What Nyrissa did was deplorable... but I am not blameless. {g|Sarenrae}Sarenrae{/g} as my witness, I didn't want it to happen as it did. But in my fear of losing her divine light, my resolve crumbled... so I did what I was ordered to do.\""
+    },
+    {
+      "Key": "18b2b609-65ab-4de1-be6a-8c4249d60872",
+      "Value": "{n}Tristian returns your embrace awkwardly. You feel that his heart, which was just pounding like mad, has already begun to beat more slowly, as the tension leaves the deva's body.{/n} \"I will never be able to fully thank you, {name}.\""
+    },
+    {
+      "Key": "79180baf-c4b8-432a-89ff-83495f1883e0",
+      "Value": "{n}Sighing, Tristian pushes you away softly.{/n} \"But please, allow me some time for thought. I will get back to the capital on my own. I need... to think about many things. So long, {name}.\""
+    },
+    {
+      "Key": "88d06b6f-0fa9-42f5-9b10-d6808446d14f",
+      "Value": "{n}Valerie sighs heavily.{/n} \"Only you can decide, but... I would never be able to trust a traitor. Never.\""
+    },
+    {
+      "Key": "b84e0159-3e25-4d45-a4e2-545e0d94d928",
+      "Value": "\"I hope you will find a new home in other lands, Tristian. I am sorry it turned out like this. And now — farewell.\""
+    },
+    {
+      "Key": "625eea14-91c7-4141-8b39-f2e5502cc835",
+      "Value": "\"Poor you, it must have been so hard! It's worse than slavery...\""
+    },
+    {
+      "Key": "a006f3a2-0475-4063-83b3-3ee2d4151a82",
+      "Value": "\"So we have a warrior of the divine armies of light here! To put it nicely, I suspected that Tristian wasn't honest with us, but I never assumed something like that...\""
+    },
+    {
+      "Key": "0cb9b259-ad46-4892-9b32-8674aca8945a",
+      "Value": "\"And I was very wrong about you, Tristian. I just can't decide, whether I should begin to respect you as a mighty creature from other spheres... or despise thrice as hard because you managed to lose even this divine power of yours?\""
+    },
+    {
+      "Key": "23f9321e-c72c-47bc-a14c-f9c0349d2ac2",
+      "Value": "\"A slave, if he has at least some bravery, will make every effort to escape. And this one? A witch wagged a finger at him, and he went and did what she said. And betrayed his friends, too. Ugh!\""
+    },
+    {
+      "Key": "fa4155fb-af74-4655-9fcb-75bedc85d3d7",
+      "Value": "\"I begin to admire this nymph.\""
+    },
+    {
+      "Key": "8f07f88c-076f-4f06-b039-10732a97d3e6",
+      "Value": "\"No, just look at him! He's been lied to.\" {n}Amiri says, her voice dripping with sarcasm.{/n} \"And how about lying to your friends with whom you sit by the fire and fight shoulder to shoulder?! I haven't seen such nastiness in a long time. And he pretended to be this goody-goody!\""
+    },
+    {
+      "Key": "918cabd0-0d41-4978-b5f7-7898c38939d9",
+      "Value": "\"Aaah! Stop talk-talking! Head hurts!\""
+    },
+    {
+      "Key": "513fbb33-02eb-47ee-9a46-7175df5fad8a",
+      "Value": "\"Nyrissa discovered an ancient power awakening beneath the {g|Tors of Levenies}Tors of Levenies{/g}. She knew of Vordakai, and she also knew of the oculus. What she did not know is the location of his tomb.\""
+    },
+    {
+      "Key": "a6616ca6-2006-4e1d-a980-d2407f7405f7",
+      "Value": "\"The Defaced Sisters and the {g|Numeria}Numeria{/g} barbarians serving them were dispatched to search for the tomb's entrance. But you found it first, and you would have acquired the Oculus if it were not for... me.\""
+    },
+    {
+      "Key": "a371d4ca-b41b-4ed1-863c-adff1a85896d",
+      "Value": "\"Not just a follower of Sarenrae, but her celestial messenger. And not just a hypocrite – but a traitor, guilty of taking many innocent lives. Now I see that my heart was right, when it told me to keep away from you.\""
+    },
+    {
+      "Key": "8fad8d8a-a823-4699-9591-dff9812692dc",
+      "Value": "\"What was the point of leaving Qadira if even in faraway lands fate delivers me not only a follower of Sarenrae, but her loyal – or not so loyal – deva!\""
+    },
+    {
+      "Key": "bef59ca6-ddda-4af4-8492-aec975295f4b",
+      "Value": "\"We saved him from a smug fey sorceresses from the First World. We helped him figure out the truth. We don't owe him anything. Let him go his way.\""
+    },
+    {
+      "Key": "ab04accc-51f5-4792-acce-51793efaa84b",
+      "Value": "\"I don't believe in beautiful tales of atonement and awakening. He who has betrayed once, will betray again. And what can be worse than a servant or companion who you can't trust?\""
+    }
+  ]
+}

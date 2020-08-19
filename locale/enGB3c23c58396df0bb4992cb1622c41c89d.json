@@ -1,0 +1,117 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "3538641b-9f00-4715-976d-b2c718a65b46",
+      "Value": "{g|Population10_1}[Choice effects]{/g} \"The kingdom requires developed trade. I want every merchant across our lands to receive a warm welcome, whether they're our own citizens or foreigners.\""
+    },
+    {
+      "Key": "d266a432-1ca0-43b5-9903-ec91cf519666",
+      "Value": "{g|Population10_2}[Choice effects]{/g} \"Let them remember their less fortunate neighbors. Let every poor man or a vagabond find their place on a ship that sails toward opportunity, shelter, and wages.\""
+    },
+    {
+      "Key": "2bc3a0c8-39b7-4daa-9614-d2fbf6c66f11",
+      "Value": "{g|Population10_3}[Choice effects]{/g} \"Let them hold a celebration in my honor. That will please me, and the people will have a good time!\""
+    },
+    {
+      "Key": "63b6398c-203b-4319-940e-ffb473033b81",
+      "Value": "{g|Population10_4}[Choice effects]{/g} \"I want to develop trade. Let them tend to the roads and guard foreign caravans with their lives!\""
+    },
+    {
+      "Key": "28051da5-0dd1-4832-a6a7-c8223db81b01",
+      "Value": "{g|Population10_5}[Choice effects]{/g} \"Their crimes are serious. But I expect they will to be forgiven, if each chief sacrifices a part of their wealth to the temple of one of the gods.\""
+    },
+    {
+      "Key": "44668218-564b-43dd-b03f-38877acde257",
+      "Value": "{g|Population10_6}[Choice effects]{/g} \"I want my subjects to live in safety. Let the bandits organize volunteer militia and to safeguard the citizens' security.\""
+    },
+    {
+      "Key": "aacc097a-14f1-4bd0-839e-0b3da3d5f37b",
+      "Value": "\"I'd like to congratulate you, {name}. When you took the Stag Lord's throne, you had a choice whether to rely on the support of decent, honorable people – or thieves, which were then so powerful in these lands. You made the right choice, and together with the people, you managed to overthrow the bandits! Peasants who once cowered in fear now boldly report every crime! They trust the authorities. The {g|Stolen Lands}Stolen Lands{/g} prosper under your reign as never before!\""
+    },
+    {
+      "Key": "51080df9-896b-4fb2-b5c2-00f577e4f054",
+      "Value": "\"{name}, I'm proud to serve you. No one would have believed that the {g|Stolen Lands}Stolen Lands{/g} could have turned from a criminal hotbed into a secure legitimate country in such a short time. But you did it! Our youth dream of becoming craftsmen, farmers and guards when they grow up, not forest bandits! People that once cowered in fear of bandits now boldly report every crime! It's no longer so easy for a bandit to hide among our honest citizens.\""
+    },
+    {
+      "Key": "c7461acb-a65a-428f-8c06-f8a82cbe2e62",
+      "Value": "\"{name}, you've done the impossible! You developed a mighty kingdom with thieves and bandits from all across the {g|Stolen Lands}Stolen Lands{/g}! Every other man in our domain keeps a bow or a mace under their bed. Who could ever have imagined that the thugs could be this loyal... or grateful!\""
+    },
+    {
+      "Key": "811326b4-8085-4272-a3b5-a63f719458f4",
+      "Value": "\"A guild of river shipbuilders arrived today. They are very respected in these lands, and local trade is impossible without them. They would like to thank you for getting rid of the bandits, who sank most of the crafts they built. They ask how they might repay you. How should we invest their energy?\""
+    },
+    {
+      "Key": "ac770dd9-93f8-4bea-ad76-3523363b585b",
+      "Value": "\"If you'd failed to reckon with the forest brethren, things would have turned out much worse. They truly appreciate you, their chieftain. In fact, a messenger arrived only today. Several major bandit leaders send you their wishes for many years of happiness, and ask how they can thank you for your vision and your generosity.\""
+    },
+    {
+      "Key": "e3ba6543-b3a5-495f-954e-dca062fe57cf",
+      "Value": "\"Excellent! I'm sure the merchants will appreciate the attention.\""
+    },
+    {
+      "Key": "a5028aec-1d99-4695-a316-1108c47d8ca5",
+      "Value": "\"That is so like you! Rather than caring about yourself and ordering a statue of gold, you think of others! You're too kind! Let me pass along your message.\""
+    },
+    {
+      "Key": "d11dbaf2-039a-4be7-8212-92fb917f4b79",
+      "Value": "\"We'll throw a magnificent singing contest! Bards from all around will sing songs about your deeds, praising you and your kingdom, and the mark you've left in history!\""
+    },
+    {
+      "Key": "b80760ac-d3b2-40e4-90fb-5061023545d9",
+      "Value": "\"That is a good solution. If we engage them like this, they will feel responsible for maintaining order. The next thing you know, they'll stop spilling blood for no reason.\""
+    },
+    {
+      "Key": "cade6174-aba5-4725-aac9-c030e3f88125",
+      "Value": "\"Do you think the gods can wash away blood for gold? Hmm. But no matter, this is a question of faith, not governance. I'll do as you say.\""
+    },
+    {
+      "Key": "18a1d97f-d5d2-41a2-98bd-7e4206833547",
+      "Value": "\"I understand. The gods know they weren't born criminals. Everyone has their own reason to do things... Things they're not proud of.\""
+    },
+    {
+      "Key": "e731d7d6-b9b4-4f21-a43d-0c3a1f8f4a9a",
+      "Value": "\"That makes sense. Let the ones who have eyes everywhere help the guards maintain order.\""
+    },
+    {
+      "Key": "2b7f1c94-fde3-4166-bf66-1c05c6c0e63c",
+      "Value": "\"They say they recognize you as their leader. They also admit their fault for failing to deal with Davor, who disrespected you. Their laws prohibit them from remaining in debt. What shall we ask of them?\""
+    },
+    {
+      "Key": "c315cd86-72ee-4074-93c1-fa11631e39c0",
+      "Value": "\"People are grateful to you for the change. A guild of river shipbuilders arrived at the palace today. They are highly respected in the {g|River Kingdoms}River Kingdoms{/g}. They would like to thank you with a gift, for ridding the rivers of the pirates who sank the ships they built. How shall we put them to use?\""
+    },
+    {
+      "Key": "ae74f7fd-aec1-4a50-9234-1e1e46b63099",
+      "Value": "\"I hope the merchants appreciate this gesture. I will convey your message to them.\""
+    },
+    {
+      "Key": "51e3cdd4-a6ec-439b-a380-8190eb2906a8",
+      "Value": "\"This is wise. It is best to reduce the number of desperate people in our kingdom. I will pass on your suggestion.\""
+    },
+    {
+      "Key": "c8c636e0-5d43-4c1a-a600-9844355b8412",
+      "Value": "\"Pardon me for saying this, but... that's a waste of money! I'll ask one of your advisors to take care of it. Cultural events... aren't my thing.\""
+    },
+    {
+      "Key": "e508a133-56fc-46ba-8d96-69db3f7b947b",
+      "Value": "\"I'd like to express my respect, {name}. I could never have done what you did! It was no easy task to unite all our unruly troublemakers into a single people, and earn their respect and trust. That takes more than just willpower. It takes political vision!\""
+    },
+    {
+      "Key": "7aa75cb6-8f19-41b1-b255-a68716ef96cd",
+      "Value": "\"I... don't entirely agree with you. But you decided to keep the peace with the forest thugs, and even managed to come to terms with them, however shaky that alliance was... Perhaps it was wise. Every other person in your domain is a bandit, after all. So this brings you to the top of a strange pyramid. You rule the bandits without starting a war. It's really quite unbelievable.\""
+    },
+    {
+      "Key": "dc923f96-8155-4e33-9c2a-0700eceaffd6",
+      "Value": "\"The forest brethren repay you with their respect. A messenger arrived today. A few chieftains declare their loyalty and ask for your orders. They made a mistake letting Davor rebel, and now they wish to make amends. What will you command of your, ahem, servants?\""
+    },
+    {
+      "Key": "c598db66-b519-4d2e-8056-4a083d9863dc",
+      "Value": "\"As long as our trade routes remain safe, we can afford these bandits' fee. They might even turn into regular guards over time. Who knows!\""
+    },
+    {
+      "Key": "b1ecfaaa-a7b0-437c-ab90-ab92c08e9228",
+      "Value": "\"What a strange decision – to set forest thugs upon ordinary bandits and criminals. I can't understand it, but your order will be fulfilled.\""
+    }
+  ]
+}

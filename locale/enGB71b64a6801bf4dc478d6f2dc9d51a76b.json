@@ -1,0 +1,213 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "860de8b8-a4bb-4d71-8db4-5ee62425d17b",
+      "Value": "\"Who are you?\""
+    },
+    {
+      "Key": "67688029-6e36-42d1-993c-55430176e641",
+      "Value": "\"Which of you is behind the dirty rumors about my {mf|barony|barony|kingdom|kingdom}?\""
+    },
+    {
+      "Key": "b4abbba7-59a4-470e-b7a5-181061c0da33",
+      "Value": "[Attack] \"I will consecrate your precious temple with your own blood!\""
+    },
+    {
+      "Key": "758149e2-2832-483f-b3ab-05307a8e4bfd",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "313b304b-ee91-4a3f-bbd3-8f413fafd592",
+      "Value": "\"I don't have the slightest desire to meddle in the affairs of Shelyn and her followers. I demand only one thing: stop slandering me and my subjects!\""
+    },
+    {
+      "Key": "58baccc5-1ac1-4525-a0f8-c6f82e704f26",
+      "Value": "\"What is this place?\""
+    },
+    {
+      "Key": "4c0a140f-8a26-45fd-b0c9-d8d9cdeaee48",
+      "Value": "\"I want you to leave Valerie alone. She serves me and owes no debt to Shelyn!\""
+    },
+    {
+      "Key": "2098a229-7a25-4c0a-9e42-10bc1fda16d2",
+      "Value": "\"I only came to escort Valerie. You can deal with each other without me.\""
+    },
+    {
+      "Key": "5c7cd93b-ea31-4db1-9892-e248ae38f4a7",
+      "Value": "\"It's up to you, Valerie.\""
+    },
+    {
+      "Key": "90c8c7e4-ccbe-477a-ab1d-daee1921bfd0",
+      "Value": "\"Maybe this trial will bring you peace?\""
+    },
+    {
+      "Key": "ff0a67bc-976b-478a-855f-821d4c515069",
+      "Value": "\"If I were you, I'd tell these smug prudes to go to hell.\""
+    },
+    {
+      "Key": "c7f050ed-2dbb-4b7f-89bd-e9960b13b984",
+      "Value": "\"What trial are you talking about?\""
+    },
+    {
+      "Key": "00b8ee5f-f8e5-4a2e-bec5-5c9023d4b018",
+      "Value": "\"What exactly is Valerie accused of?\""
+    },
+    {
+      "Key": "fc931d25-2030-4ec9-bdc5-6676cd4215ae",
+      "Value": "\"Suppose we agree. What trial are you talking about?\""
+    },
+    {
+      "Key": "1dbcd8ad-6f0a-451a-950e-6a443a2da7b6",
+      "Value": "\"I'm only here to escort Valerie.\""
+    },
+    {
+      "Key": "c10e4743-10ff-43aa-8490-28e2ec11fb4a",
+      "Value": "\"I'm not interested in playing your little games. Valerie and I are leaving.\""
+    },
+    {
+      "Key": "77417d06-b195-4806-ab31-badb32122add",
+      "Value": "\"I see there's a whole company here...\""
+    },
+    {
+      "Key": "05e9f5d9-732a-436c-8a4b-7b28769c76a7",
+      "Value": "{n}A white-haired priest looks at you over his glasses.{/n} \"Look who's here! {mf|Baron|Baroness|King|Queen} {name}! My respects. And I see you have brought company...\""
+    },
+    {
+      "Key": "51902624-1954-436a-9a0e-e10c5a50ec1a",
+      "Value": "{n}The paladin wearing armor strikes his open palm with his fist.{/n} \"Finally! For a woman balancing on the edge of excommunication, you are sluggish, Valerie!\""
+    },
+    {
+      "Key": "2607703c-3037-434f-961b-2f9a0ac72949",
+      "Value": "{n}Valerie slowly turns her head toward the paladin and gives him an icy look.{/n} \"I'm never in a hurry to meet those who would seek petty revenge upon the innocent for another's alleged transgressions.\""
+    },
+    {
+      "Key": "ce93a358-422d-4bfc-a0af-81320dfbd32d",
+      "Value": "\"Please, everyone be calm. Let's not hurry in with accusations and hasty decisions. In the end, we're in a sacred place. Arguments under this vaulting are unacceptable.\""
+    },
+    {
+      "Key": "e1ff6035-bf46-4b1c-bf64-31a631a8d52b",
+      "Value": "\"My name is Laryen. I'm a priest of {g|Shelyn}Shelyn{/g}, and leader of the local congregation. For now, at least – until my place is taken by a permanent priest from the Order of Prisms. For now I am spiritual adviser and mentor to respected Hegend and his people – paladins of Shelyn who require the advice of more experienced devotees.\""
+    },
+    {
+      "Key": "18571705-7371-43ba-b13f-2daf840ef797",
+      "Value": "\"We say the truth, and you call it 'dirty rumor'. We're the protectors of {g|Shelyn}Shelyn{/g}, and all who call her patron. It's ridiculous to hear the charge of slander from one who has befriended a viper. Your friend blackens the name of the goddess herself!\""
+    },
+    {
+      "Key": "a4d9e58b-3889-4ee0-a665-224fbc9e754d",
+      "Value": "\"I will pass unremarked the vaguely veiled insults. In the end, I have the doubtful honor of talking to a coward who can only throw around empty words and ungrounded accusations. You're too spineless to meet me face to face and make your claims in person – that's why you prefer to strike on the sly!\""
+    },
+    {
+      "Key": "867f736b-3095-408c-ab00-e5c2e135fec4",
+      "Value": "\"Please calm down. Although I do not approve of... the methods of respected Hegend, I will not tolerate jokes at the expense of a paladin of {g|Shelyn}Shelyn{/g} in her very temple.\""
+    },
+    {
+      "Key": "7a69fcbd-aae9-478e-958e-b1a86c8e6545",
+      "Value": "\"The temple of the Lenses is a new abbey for one of the orders of {g|Shelyn}Shelyn{/g}.\" {n}The priest looks up at the vaulting in admiration.{/n} \"A beautiful architectural masterpiece, isn't it? Such a sophisticated building will make a splendid home for the Order of Prisms.\""
+    },
+    {
+      "Key": "ad820f84-9d46-4dba-a430-c41df6fb6dba",
+      "Value": "\"We shall carry out all the necessary procedures. Valerie will answer for her transgressions against {g|Shelyn}Shelyn{/g}!\""
+    },
+    {
+      "Key": "e30832ea-fc89-474e-8516-1e5d18f0c545",
+      "Value": "\"I? For my transgressions? {g|Shelyn}Shelyn{/g} has to answer to me! – For ruining my life for so long!\""
+    },
+    {
+      "Key": "b42846d9-c8ce-42b6-a015-278ae68ac2cd",
+      "Value": "\"I tried to forget everything they stuck into my head in the Order, but I remember one thing for certain: {g|Shelyn}Shelyn{/g} is not revengeful or stern. I don't believe your words, paladin!\""
+    },
+    {
+      "Key": "486bd1b3-8f6c-4d5c-b71c-e20204e6a124",
+      "Value": "\"As long as Valerie is in your lands, no creator who crosses into your borders can feel safe! We heard how much she despises everyone who is capable of creating anything beautiful – and we're not going to keep silent about it! Of course, she could repent for her transgressions voluntarily, and beg the goddess for mercy...\""
+    },
+    {
+      "Key": "498fb5cb-624a-40a2-8917-ab69a6aca48c",
+      "Value": "\"Divine responsibilities surpass all worldly vows and commitments. Valerie was promised to {g|Shelyn}Shelyn{/g} – and rejected that honor! Now Valerie returns to her Order – and insults Shelyn again! It's time to repent and answer for your transgressions!\""
+    },
+    {
+      "Key": "107b77d4-19ab-4793-b54c-f40a8e6e7c57",
+      "Value": "\"You're right, Valerie: our goddess is not stern with those who misstep – which is why you need not fear the divine trial. Its name is just an old tradition.\""
+    },
+    {
+      "Key": "28f5183e-9d47-4ecd-92eb-243e44dedf80",
+      "Value": "\"Heretic! It seems there is no other hope for this soul, so deeply blackened by pride, than the divine trial. {g|Shelyn}Shelyn's{/g} judgment shall cleanse you of at least part of this abomination!\""
+    },
+    {
+      "Key": "8afe0793-6eab-4b5d-b479-ddae97e5b4f9",
+      "Value": "{n}The paladin puts his hand on his weapon.{/n} \"Forgive me, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, but if you leave, this will mean only one thing – an insult to {g|Shelyn}Shelyn{/g} and disregard of her will. Are you sure that is what you want?\""
+    },
+    {
+      "Key": "b42c6af9-966b-4edf-a120-4b959cbff944",
+      "Value": "\"My respected companion is right. As Valerie has arrived at the Temple of Prisms, the divine trial must commence. Besides, would you come all this way if you didn't want to settle the matter?\""
+    },
+    {
+      "Key": "105afb65-f6a9-442e-b8f2-e2bc16d8378f",
+      "Value": "{n}Valerie clenches her fists in silence. It seems the scar on her face darkens and deepens.{/n}"
+    },
+    {
+      "Key": "2cfde41b-dbd5-4e2b-9e3d-72d26e7ca467",
+      "Value": "{n}Valerie looks down, and an expression that could be taken for abashment freezes on her face.{/n}"
+    },
+    {
+      "Key": "c8b0fde2-7263-42d9-9ff9-3171ceb3c73f",
+      "Value": "{n}Hegend grabs his weapon.{/n} \"This is the last straw. You will wash away this insult with blood!\""
+    },
+    {
+      "Key": "d52f5a3b-a903-4e51-8be8-476598c1981a",
+      "Value": "\"Thank you for agreeing, Valerie. Let's begin.\""
+    },
+    {
+      "Key": "36c94682-a668-4731-bab9-ab61a7e99760",
+      "Value": "{n}Laryen folds his hands.{/n} \"A divine trial is a special ritual carried out by followers of a god for someone who has lapsed in their faith. It is not well known, but is used on those for whom there's still hope – for returning to the church, or at least for making peace.\""
+    },
+    {
+      "Key": "b0a7f898-2365-4c11-882b-35b688533f65",
+      "Value": "\"Making peace indeed! Valerie, who rejected my lady, should not count on being coddled.\""
+    },
+    {
+      "Key": "5cd00f78-96db-46f2-8923-bb257f04934e",
+      "Value": "\"Of persistent disrespect and insolence towards {g|Shelyn}Shelyn's{/g} order, and the goddess herself. The Order of the Eternal Rose disowned this woman, but we, the Order of Prisms, will finish what was started. If Valerie refuses to repent, she shall suffer punishment!\""
+    },
+    {
+      "Key": "1e913656-514c-4d18-9db9-08dae482b22a",
+      "Value": "\"If {g|Shelyn}Shelyn's{/g} newest order appears each time another one stops persecuting me, my disrespect for your goddess will only grow. You are creating the very thing that you so diligently fight – but are incapable of understanding this.\""
+    },
+    {
+      "Key": "218b2569-cc57-414c-885b-ecf6567b7144",
+      "Value": "{n}Hegend grabs his weapons.{/n} \"You aren't leaving!\""
+    },
+    {
+      "Key": "2e5ece22-ae0b-497c-8f71-1b9ef25a67e9",
+      "Value": "{n}Eveld bows in a refined manner.{/n} \"My respects, {mf|baron|baroness|king|queen}! I came at the special invitation of Sir Hegend. How could I refuse a paladin of my beloved patron?\""
+    },
+    {
+      "Key": "40796f7d-7ea0-4b18-9100-d7d8ae4fda71",
+      "Value": "\"My respects to you... and you, Valerie.\" {n}Fredero Sinnet nods to you and looks at Valerie. Seeing the scar, he purses his lips and shakes his head sorrowfully.{/n} \"I heard about what happened to you, but seeing it with my own eyes is unbearable. Believe me, I never wanted this. To be honest, I don't even remember striking the blow.\""
+    },
+    {
+      "Key": "12f79c68-82c1-4e16-8793-ae83e863fda1",
+      "Value": "{n}The wrinkle on Valerie's forehead softens.{/n} \"We settled our argument in battle, Fredero. As for the scar, I've been wearing my wounds for a long time.\""
+    },
+    {
+      "Key": "9be0e876-7000-441c-b6c4-1ee3db0c4bd7",
+      "Value": "\"Ha! That's the spirit! If the conversation keeps up like this, a fight'll be on!\""
+    },
+    {
+      "Key": "76b5fcde-026e-4079-9898-c7d2a69cd0f8",
+      "Value": "\"And you enjoy mocking Valerie and the {mf|baron|baroness|king|queen}? Why are there so many hypocrites among followers of supposedly kind gods?!\""
+    },
+    {
+      "Key": "5b91792d-fdb9-474f-81f2-f2d7d233ad88",
+      "Value": "{n}Harrim looks up and around. The dwarf mindlessly thrusts his hand into his beard and tugs at it, mumbling something fiercely.{/n}"
+    },
+    {
+      "Key": "48ec01bc-dc6c-4082-99d4-44fb91f732c9",
+      "Value": "{n}The paladin notices Nok-Nok and chokes with fury.{/n} \"And this... How dare you drag this abomination into the temple of the goddess?!\""
+    },
+    {
+      "Key": "d87552f5-373a-462e-81fa-86d91d38eb0b",
+      "Value": "{n}Nok-Nok grimaces and sticks his tongue out.{/n} \"Yes! Stink is awful! What are those, flowers? Eeeew!\""
+    }
+  ]
+}

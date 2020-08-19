@@ -1,0 +1,61 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "231fdc8a-ac03-4f47-93e3-780d0999a8fd",
+      "Value": "{g|Arcane2_1}[Choice effects]{/g} \"I wish to control weather and luck.\""
+    },
+    {
+      "Key": "7ae7664b-4da6-4fbd-acee-801459538a33",
+      "Value": "{g|Arcane2_2}[Choice effects]{/g} \"I wish to dominate animals.\""
+    },
+    {
+      "Key": "12d5b931-7fe6-40d3-805a-ce5acfeb716c",
+      "Value": "{g|Arcane2_3}[Choice effects]{/g} \"I wish to influence the minds of my subjects.\""
+    },
+    {
+      "Key": "d82af45a-24fa-491d-b199-da230e913260",
+      "Value": "{n}Octavia grins from ear to ear.{/n} \"Your {mf|barony|barony|kingdom|kingdom} attracts the most unusual and interesting characters! They must have heard the rumors that your country is a place where one can live without chains and restrictions! Not long ago, I was visited by an appraiser of magical items – a rare and sought-after profession in many countries!\""
+    },
+    {
+      "Key": "e606c6cb-cb69-4254-a4c8-6935289e2632",
+      "Value": "\"This man proposed that he settle in our lands and open his own store. I agreed then and there – why can't we be as good as {g|Absalom}Absalom{/g}, right? In tribute, he offered his new ruler a valuable gift! But he didn't dare select a specific item for you. Instead he simply invites you to choose from all the finest things he keeps in his best store-rooms!\" {n}Octavia hands you a small list, written on a piece of parchment in ornate handwriting.{/n} \"We'd best not be greedy, and choose just one item.\""
+    },
+    {
+      "Key": "0171c2e8-2817-4f75-81e3-ebe424b085c4",
+      "Value": "{n}The Storyteller bows and hands you a piece of parchment, on which is printed a short list, written in ornate handwriting.{/n} \"My respects, {mf|Your Grace|Your Grace|Your Highness|Your Highness}. I hasten to hand you this paper, that I have received from your new subject.\""
+    },
+    {
+      "Key": "7422a6b3-8551-44ff-a8d4-025e203d7665",
+      "Value": "\"An appraiser of magical items has settled in the capital. We are nearly colleagues, and this news fills my heart with joy.\" {n}The Storyteller smiles.{/n} \"Grateful for his new home, the appraiser asks {mf|Your Grace|Your Grace|Your Highness|Your Highness} to choose as a gift one of the artifacts from his store-rooms. See for yourself...\""
+    },
+    {
+      "Key": "46df1baf-51ed-4640-876f-296691c002bf",
+      "Value": "{n}You look through the list. The appraiser offers you a choice of three magical items: one of them attracts good weather and good luck, the second one allows you to dominate animals, and the third one – to influence the emotions of sentient creatures.{/n}"
+    },
+    {
+      "Key": "7dd5c142-8cfc-42b3-ae50-2816d0d56ba3",
+      "Value": "{n}\"Maegar\" waves a piece of parchment in the air.{/n} \"An appraiser of magical items has come to the castle, hat in hand – a pathetic toady, trying to win over the {mf|baron|baroness|King|Queen} with trivial gifts. What can be more amusing than the groveling of a miserable worm? I would have laughed at the fool and thrown him out, were it not for one of the items he offers.\""
+    },
+    {
+      "Key": "25544c9a-1127-4160-8dae-51f7902b63f9",
+      "Value": "\"Great! I will express your gratitude to the appraiser!\""
+    },
+    {
+      "Key": "c2a15fa9-6590-43a6-9394-6c252a61128a",
+      "Value": "\"As you wish.\""
+    },
+    {
+      "Key": "addff202-7884-4547-89a9-22ea1deee9de",
+      "Value": "{n}\"Maegar\" just hums in response.{/n}"
+    },
+    {
+      "Key": "059a458a-94d3-4c16-be45-14b76c8aabdb",
+      "Value": "\"This paper lists everything you can choose from. Among other things there's an artifact that allows its owner some measure of control over the minds of mortals.\" {n}The eyes of \"Maegar\" flash.{/n} \"If I were you... {mf|Your Grace|Your Grace|Your Highness|Your Highness}... that is exactly what I would choose. Never underestimate the intersection of magic and power.\""
+    },
+    {
+      "Key": "ba8ed966-d43f-4001-b16f-aaa4679c4a99",
+      "Value": "\"A wise choice, {name}.\""
+    }
+  ]
+}

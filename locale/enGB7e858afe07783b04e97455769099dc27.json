@@ -1,0 +1,117 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "50d0a013-772a-48a1-a2e7-48d7b61bd9eb",
+      "Value": "\"Where did such a monster come from?\""
+    },
+    {
+      "Key": "512e181c-3c78-4367-9157-31fd4c10224a",
+      "Value": "\"And who are you?\""
+    },
+    {
+      "Key": "99011b1e-7d69-40d0-be76-9c93b9cf44dd",
+      "Value": "[Attack] \"I was only getting warmed up!\""
+    },
+    {
+      "Key": "97e1c350-a47c-4861-8949-293523732d5a",
+      "Value": "\"I have to go.\""
+    },
+    {
+      "Key": "fac65258-d5ba-499c-ba69-795128a865c9",
+      "Value": "\"I am {mf|Baron|Baroness|King|Queen} {name}, ruler of this land!\""
+    },
+    {
+      "Key": "0c0e8bc3-8b33-4fd4-9d0c-a2550a523a67",
+      "Value": "\"What exactly are you doing here?\""
+    },
+    {
+      "Key": "d398fd87-1cc6-475f-95ae-97827de66b2c",
+      "Value": "\"What society are you talking about?\""
+    },
+    {
+      "Key": "a9920302-70e8-4afc-aa34-ba09fdaa9151",
+      "Value": "\"Well, it was nice to chat, but I have to go.\""
+    },
+    {
+      "Key": "ab62ee00-abbf-4c11-9288-cdaf06388666",
+      "Value": "\"Could you use any assistance?\""
+    },
+    {
+      "Key": "f6efc3ec-d462-454d-a802-dc78c31fb481",
+      "Value": "\"I don't need spies from some society sneaking around here. Get out of my lands immediately!\""
+    },
+    {
+      "Key": "d574a9f5-fe06-4db8-97cd-c57a140fd14e",
+      "Value": "[Attack] \"I'm tired of you!\""
+    },
+    {
+      "Key": "a20c619a-81c8-4fb0-9a1f-d06b1af58c66",
+      "Value": "\"The tomb?\""
+    },
+    {
+      "Key": "e6998341-c6e3-4c9a-abe5-7970c1ac9036",
+      "Value": "{n}A half-orc is wiping the sweat from her brow with a bright jacket decorated with many badges and patches.{/n} \"U-u-ugh, that handsome lad gave it to us good! Almost slaughtered us all! Good thing you came by!\""
+    },
+    {
+      "Key": "4ae4778e-2abd-41b6-adc2-17a0b91c69dd",
+      "Value": "\"Us? We're a group of Pathfinders from the {g|Pathfinder Society}Society{/g}. We're here on special orders from the Grand Lodge to explore this godforsaken land!\""
+    },
+    {
+      "Key": "d9040152-b030-40e3-8d28-d98b040e07f9",
+      "Value": "\"Yeah... I guess it followed us... walked with us from the tomb!\""
+    },
+    {
+      "Key": "6bc51df8-35c5-477d-9fc4-1955cd3cbaf9",
+      "Value": "{n}The half-orc stretches out her hand.{/n} \"Wait! I didn't even thank you! I don't know who you are, but thank you for your help. I've never met monsters like this one before, though it's not my first year in the {g|Pathfinder Society}Society{/g}!\""
+    },
+    {
+      "Key": "299c2b5c-51fd-40ad-9c48-dbfc9ff11d6e",
+      "Value": "{n}The half-orc freezes for a moment, and then begins to speak again, choosing her words more carefully.{/n} \"I didn't mean to offend you, Your... {mf|Your Grace|Your Grace|Your Highness|Your Highness}? I've been to many countries, and they address rulers differently everywhere — forgive me if I've made a mistake!\""
+    },
+    {
+      "Key": "8b127f51-5b64-4e84-a7f8-658cc30a8967",
+      "Value": "\"We've come from afar — from {g|Absalom}Absalom{/g}, to be specific. We've heard many interesting tales about the {g|Stolen Lands}Stolen Lands{/g}... so the {g|Pathfinder Society}Society{/g} decided we should update our maps and surveys! We've no wish to harm or indeed, to bother anyone. We thought it might be easiest if we just came here and performed our duties without getting into all the fuss of an official visit!\""
+    },
+    {
+      "Key": "406cbd81-cddf-4911-9c4c-7ff6584d3bb1",
+      "Value": "{n}The half-orc waves her hand vaguely.{/n} \"There's this one place, not far from here. It's labeled with a question mark on all our old maps. So we decided to see what's there.\""
+    },
+    {
+      "Key": "9cae613e-1ce7-48aa-94d7-eb241dda251f",
+      "Value": "{n}The Pathfinder laughs joyfully.{/n} \"And just imagine — we didn't find anything. Just the ruins of some old building, and signs of an ancient portal... It appears to be one of the places where the border between worlds is particularly thin. The beast must have smelled us and leapt out to have itself a snack!\""
+    },
+    {
+      "Key": "42286c04-e52b-47b2-a55d-1ccf8693a0f8",
+      "Value": "\"Don't tell me you've never heard of the {g|Pathfinder Society}Pathfinder Society{/g}! We stand at the helm of civilization! We cut the paths to the unknown and unveil even the gloomiest secrets, from which the weak of heart shy away in fear! We...\""
+    },
+    {
+      "Key": "70351199-533d-4723-9bc2-cc2b0839bf27",
+      "Value": "\"But never mind all that. Enough accolades. Here's the truth: the {g|Pathfinder Society}Pathfinder Society{/g} explores {g|Golarion}Golarion{/g}, seeking to reveal its greatest secrets. And we — Pathfinders, lovers of travel and adventure — are the ones who do it.\""
+    },
+    {
+      "Key": "e1320e5f-38fa-4e5a-b3d7-64232d8ca5d4",
+      "Value": "\"No, no, don't worry yourself! We'll just catch our breath and go... The bruises will be gone by sun up!\""
+    },
+    {
+      "Key": "8743abde-ab88-48a0-947e-2e7fee0e874a",
+      "Value": "{n}The half-orc looks around and purses her lips.{/n} \"You shouldn't bother... of course, it'll take some time to drag our unlucky friends to the temple... but it's fine — it won't be the first time!\""
+    },
+    {
+      "Key": "a15c31ee-2f79-43e1-9273-53ec2c57c91a",
+      "Value": "{n}The half-orc bows to you ceremoniously.{/n} \"My regards! If it's {g|Desna}Desna's{/g} will, we will meet again!\""
+    },
+    {
+      "Key": "f901ce62-a0d6-4e8e-ba56-fc870391b74e",
+      "Value": "{n}The half-orc becomes gloomy.{/n} \"How could you! To accuse the agents of the {g|Pathfinder Society}Society{/g} of espionage?! We'll not set foot in your backwards country ever again!\""
+    },
+    {
+      "Key": "e23c2da9-a88d-4754-96e8-3169aafc60e8",
+      "Value": "\"Well, yeah, the tomb! It's right there!\" {n}The half-orc waves her hand vaguely.{/n} \"Anyway, there's nothing interesting in there. Don't waste your time.\""
+    },
+    {
+      "Key": "ea13c806-7d0b-4340-ae33-e5830bf321a6",
+      "Value": "{n}The half-orc is wearing a bright jacket decorated with many badges and patches. She looks around and sighs.{/n} \"Heh, we suffered some losses... Oh well, on the other hand we got the beast! Thank you!\""
+    }
+  ]
+}

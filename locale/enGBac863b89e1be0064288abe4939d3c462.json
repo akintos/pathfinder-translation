@@ -1,0 +1,157 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "79992749-b4c7-4bda-b7d0-5f4dae662656",
+      "Value": "\"I brought you the blood of the one who murdered your family.\""
+    },
+    {
+      "Key": "7c6f42a7-51a1-44dc-9409-fc2b76ed3c71",
+      "Value": "\"I brought you the metal you need.\""
+    },
+    {
+      "Key": "1f773ac2-2ecb-4980-9575-04b19468af1e",
+      "Value": "\"What was that relic you spoke of? Can I help you fix it?\""
+    },
+    {
+      "Key": "92cf657f-bfd9-49a0-bd3a-4bddecca900d",
+      "Value": "\"You lied about the murderer of your family. It was the inquisitor.\""
+    },
+    {
+      "Key": "8fa75e76-ca4f-4d1e-8d9f-b3cbd05289fe",
+      "Value": "\"Tell me about yourself.\""
+    },
+    {
+      "Key": "6b01f710-0e8a-4a36-9be0-f8367d66de06",
+      "Value": "\"Where are you from?\""
+    },
+    {
+      "Key": "944730eb-0584-4142-bcda-75e623054b78",
+      "Value": "\"Remind me what you require to reforge your hammer.\""
+    },
+    {
+      "Key": "57adbc16-dd9f-438d-84c4-eaaa85986dee",
+      "Value": "\"How did your family die?\""
+    },
+    {
+      "Key": "e45b8a88-59d8-4170-8130-0c5efabe5d7f",
+      "Value": "\"Tell me about your craft.\""
+    },
+    {
+      "Key": "0b0963d7-9425-4e22-99e4-beef20e67550",
+      "Value": "\"Hold up your end of the bargain.\""
+    },
+    {
+      "Key": "ffa0dc09-4177-4d0d-bf4e-599d84a80e2b",
+      "Value": "[Attack] \"Your lies will be punished!\""
+    },
+    {
+      "Key": "a650c7fe-ce27-4a81-8c39-befea253932e",
+      "Value": "\"We'll speak later. Get to work.\""
+    },
+    {
+      "Key": "dcddb0d1-08e1-4e4c-b76d-26cddba84031",
+      "Value": "\"Let's put off this conversation until later.\""
+    },
+    {
+      "Key": "d8ec7628-e859-4e16-a5d2-74548999db8d",
+      "Value": "\"Remind me where I can… collect the blood you need.\""
+    },
+    {
+      "Key": "22015037-965b-4fb6-814e-fde01870afb5",
+      "Value": "\"Don't worry. The malicious woman deserved to die. You did the right thing.\""
+    },
+    {
+      "Key": "558dcffb-52a5-4ef6-9e0e-35f66b6322d3",
+      "Value": "\"You're a bandit and a murderer, but you had the right to avenge your family.\""
+    },
+    {
+      "Key": "f1d718f6-8aaa-4214-ba5b-e47c9f22c59d",
+      "Value": "\"{mf|Your Grace|Your Grace|Your Highness|Your Highness}! Decided to see how old {d|Varrask}Varrask{/d} is doing? I've set up nicely here! I forge armor and weapons for anyone who's got the coin. Though the fighters in these lands are weak – some can't even lift a normal axe. They cannot hold a candle to my sons...\""
+    },
+    {
+      "Key": "906fcb2b-b5ea-48b4-9131-0399ccbeb840",
+      "Value": "\"Greetings, patron. How can I serve you? Looking for a hatchet or a helmet?\""
+    },
+    {
+      "Key": "50b8e418-f5ea-4c27-8d81-cf4419dbb6cb",
+      "Value": "\"What should I tell you? I have no idea... ask me what you want to know.\""
+    },
+    {
+      "Key": "2ae07a69-e288-4696-ade7-51486f0976ed",
+      "Value": "{n}The old man looks at you angrily and warily.{/n} \"Yes... it's true. Our family committed some petty sins. But do I want revenge for my family less, because I'm a little light-fingered?\" {n}Varrask licks his lips.{/n} \"So what are you going to do now?\""
+    },
+    {
+      "Key": "7e5f5ade-3227-4baa-b858-3d7776073293",
+      "Value": "{n}The old man slaps himself on the thigh, happy enough to dance.{/n} \"Yes! My clan is avenged! Ha ha! Old Varrask outlived you, you arrogant witch! Oh, how I would love to taste her blood! It must be so sweet. But I can't afford the pleasure. I'm going to need every bit of it to harden Earthbreaker.\""
+    },
+    {
+      "Key": "150a013b-a11a-4618-97a2-316808567a40",
+      "Value": "{n}Varrask swells with pride.{/n} \"It's a hammer named Obliteration. Hold it with both hands. Whatever you hit, the only thing left there will be a greasy spot. I gave it to my son when it got too heavy for me. He named it Nibbler. You see, its head has beak-like wedges made of inubrix. Inubrix is a very hard celestial metal. It cuts through iron like a knife cuts through butter.\""
+    },
+    {
+      "Key": "1ba67f92-816c-45a0-9c9e-b3b2ab76926e",
+      "Value": "\"Inubrix. It's a celestial metal that looks a little like lead. It's pretty rare, but you might find just enough in the {g|Technic League}Technic League{/g} camp.\""
+    },
+    {
+      "Key": "ca80cfcf-6375-46d2-832b-d29b7eba9609",
+      "Value": "{n}Varrask grows grim, and his eyes start watering.{/n} \"I left my house. Went to a tribe that had ordered weapons from me. As I got back to my house, I was ambushed. They'd hid in my own yard! I have no idea how I survived. But I saw the dead bodies of my wife and children with my own eyes. I had four lads, all of age, all carried weapons. Three daughters too, and they knew how to fight.\""
+    },
+    {
+      "Key": "a371cf52-d04a-44f0-b6c1-c56ae5c37e3f",
+      "Value": "\"There's nothing to tell. Barbarians think all good things must be sturdy, heavy and big. Fragile and brittle things are no match for their strength – they have so much, and it begs to come out. Small and light things are easily lost in battle. A weapon must be sturdy, or a warrior might break it over the enemy's head. And armor must be even sturdier.\""
+    },
+    {
+      "Key": "8769e406-1c23-4ee0-afe3-d4273681794f",
+      "Value": "\"I was born in {g|Hold of Belkzen}Belkzen{/g}. I had to take off when I was still a snot-nosed kid. Got in a fight with some bonehead... And I hit him. I mean, not the bonehead. Was aiming at him, but I hit chief's son. And he suddenly went and died. I had to run away as far as I could, just to stay alive.\""
+    },
+    {
+      "Key": "21cbfa77-6283-4232-a420-b7e937c34eb2",
+      "Value": "\"As you say. We old people have nothing to do but tell stories. Come, I'll tell you one.\""
+    },
+    {
+      "Key": "89040717-eb4e-481c-ba5a-faa93a889c9b",
+      "Value": "\"Perfect! Now I have enough material. But here comes the hard part. I need blood. An enemy's blood. The creator of this hammer hardened it in the blood of a sworn enemy. This made the hammer incredibly powerful and furious. Should you want to reforge it, it will require another such hardening.\""
+    },
+    {
+      "Key": "5136625f-e108-4e7f-9c1f-286ff444ba35",
+      "Value": "\"They say there's a secluded outpost out there in the forest. The huntress that lives there gives shelter to travelers. I think her name is Dumra. I hear an armed girl is staying there. She's missing two fingers. That's her!\""
+    },
+    {
+      "Key": "53f760ee-5642-4627-a52b-7f20042480e6",
+      "Value": "{n}The half-orc heaves a sigh of relief.{/n} \"Thank you. I'm an old man, but I still wish to trample the ground a little longer.\""
+    },
+    {
+      "Key": "52bc2072-c7a1-4a03-9b08-5eacb4fe360d",
+      "Value": "{n}The half-orc grows grim, and his voice becomes dull and soft.{/n} \"My eldest was a strong one. He could hit an ogre with a hammer so hard that it would leave behind its teeth along with its boots. But they are gone... Both the son and his hammer. For twelve generations my family has owned this hammer. It's a relic, you could say. I wish I could fix it, but how? And for whom?\""
+    },
+    {
+      "Key": "07119f80-bd2d-4b0f-92f4-26a3a33c54d7",
+      "Value": "\"It was a fine hammer. Nobody knows how many skulls it cracked. It broke the day my son was killed. The hammer's head cracked all over from a magical blow. It needs to be reforged, but where can I possibly get any inubrix? Without that, the hammer is just an ordinary sledge. You can use it to hammer in posts, or tie it to your neck and drown.... Hmm... The {g|Technic League}Technic League{/g} is bound to have some. If you come across one of their camps, you might find inubrix there.\""
+    },
+    {
+      "Key": "b534a7bc-080d-4b76-a104-4e4251a56fd2",
+      "Value": "\"I'm old. Most of my enemies are dead. But there's one that's still breathing. The witch that slew my family. Oh, how I would love to harden the hammer in her blood! I could never defeat her, though. But I know she's been spotted in an isolated outpost in the forest. She has a distinguishing mark – she's missing two fingers. And she's got the look of a devil.\""
+    },
+    {
+      "Key": "899349d0-2ba8-4a61-b6bf-1d489e1ed0c6",
+      "Value": "\"If you slay the wretch, collect her blood and bring it to me. I'll give you the reforged hammer in exchange. I don't have anyone to leave it to. This will make you a clan member, avenging my family.\""
+    },
+    {
+      "Key": "86a5ef63-cdfc-4cfb-b98b-bf053ee4c64a",
+      "Value": "\"So I ended up in Lastwall. An awful place. Anyone with orc blood is a misfit. Which is fair enough. Orcs have killed so many of them… But I settled there, started my business, and a family.\""
+    },
+    {
+      "Key": "4c13015d-bb4a-488e-93f6-71d896ea33b8",
+      "Value": "\"More of the scoundrels kept coming. I guess they'd tracked us down, waited to catch us by surprise. And I guess I was lucky... they didn't kill me with the others. I fought them off and got lost in the woods. Walked for a long time without a road... and finally ended up here. You know the rest. But the gods didn't see a long life for those bandits. – I heard they're all dead. Only their chief is still breathing, the fingerless witch.\""
+    },
+    {
+      "Key": "a111e578-5d42-4e17-a684-fb0a9df70949",
+      "Value": "\"And a blacksmith, I figure, needs to be like his armor – sturdy and strong.\" {n}Varrask shows you his huge fists and absurdly thick arms.{/n} \"And patient. Barbarians have trouble with this last one. That's why a master is so valuable.\""
+    },
+    {
+      "Key": "d64d34bb-6ec7-4c28-aacf-80a2cc2dc69d",
+      "Value": "{n}The half-orc grins happily.{/n} \"I'm glad I trusted someone like you with my revenge.\""
+    }
+  ]
+}

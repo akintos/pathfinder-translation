@@ -1,0 +1,177 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "e9968a45-885b-4d06-a921-f7572d21cd72",
+      "Value": "\"How are things in Trobold now?\""
+    },
+    {
+      "Key": "47be1c11-15fa-4f63-80c1-b8df63af9601",
+      "Value": "\"What does the word 'borba' mean?\""
+    },
+    {
+      "Key": "9c579b7e-a4c9-4da3-963f-5d4fac806fbc",
+      "Value": "\"You don't eat people anymore?\""
+    },
+    {
+      "Key": "e8b00231-b7a8-44b0-b95f-b59c2423027a",
+      "Value": "\"Tell me about yourself.\""
+    },
+    {
+      "Key": "ac5e189c-37d0-477f-9dfc-725daad9aa90",
+      "Value": "\"Tell me about your people.\""
+    },
+    {
+      "Key": "e720d654-4252-46ed-97bb-4ec5755fdd5a",
+      "Value": "[Attack] \"Sparing your lives was a mistake. I'll destroy Trobold!\""
+    },
+    {
+      "Key": "54fe5de7-8ece-43ba-9097-ce59f7cc4453",
+      "Value": "[Leave] \"I have to go.\""
+    },
+    {
+      "Key": "ac387bc4-5ff2-4d40-9205-57dbae752bed",
+      "Value": "\"Where are you from?\""
+    },
+    {
+      "Key": "0ed680a0-f014-4d83-9c76-034593c34daf",
+      "Value": "\"Do you have children?\""
+    },
+    {
+      "Key": "792e40e9-d357-47d3-809d-e8a360cb7d9a",
+      "Value": "\"How did you become a king?\""
+    },
+    {
+      "Key": "5cb0c0ea-5e0d-45cd-bbaa-a5231111453d",
+      "Value": "\"Thank you for telling me about yourself. I'd like to ask another question.\""
+    },
+    {
+      "Key": "cf2b4581-ec57-4708-ae6c-5aa9744090a8",
+      "Value": "\"Are settlements like Trobold rare?\""
+    },
+    {
+      "Key": "3e3d4ff7-556d-450d-8f50-f0a509efe76a",
+      "Value": "\"What's an augur?\""
+    },
+    {
+      "Key": "3dc2d7cf-de66-4973-84c7-e6937cac6a03",
+      "Value": "\"Are fire and acid really the only ways to kill a troll?\""
+    },
+    {
+      "Key": "fbc78b83-5e28-40ab-84f7-ef79543f1aa9",
+      "Value": "\"Do trolls worship any gods?\""
+    },
+    {
+      "Key": "a1c9a4e0-dcda-4349-a7cc-d4469ae6f4fc",
+      "Value": "\"Thank you for telling me about your people. I'd like to ask you about something else.\""
+    },
+    {
+      "Key": "4d0a1926-849e-4da0-9971-fa72e2fdb322",
+      "Value": "\"I've met Kargadd's offspring in a dungeon and sent them your way. Have you seen them lately?\""
+    },
+    {
+      "Key": "700085e2-b2f1-484a-9e04-e5afd4dd7203",
+      "Value": "{n}An old troll stands near the gate of his kingdom. He looks at you with respect... and perhaps a touch of fear.{/n} \"{d|c21 Hargulka Lives}Hello{/d}, {race}.\""
+    },
+    {
+      "Key": "56288a14-4ff9-462d-b9b6-cf7fbf1052f5",
+      "Value": "{n}This question puzzles the old troll. He scratches his chin in confusion.{/n} \"How's that — about my self? Hargulka stands before you. What else tell?\""
+    },
+    {
+      "Key": "68351f48-815e-49e0-aacc-62cb9c0e913b",
+      "Value": "\"You want know about trolls?\" {n}The troll furrows his brow in contemplation and starts counting on his bony fingers.{/n} \"We strong. We live everywhere. We like eat borba. We not afraid claws, teeth, iron — only fire and acid are danger. That's it. Told you all.\""
+    },
+    {
+      "Key": "42b3e514-5005-493a-9d21-fc6484d77e04",
+      "Value": "\"With Tartuk gone, immortality gone too. Many left. That good — less mouths to feed. Trolls not live in towns and kingdoms like bor- like humans. We learn.\""
+    },
+    {
+      "Key": "e5604a72-e1f4-411c-89d8-9dcf64410820",
+      "Value": "\"How you call it... The thing you eat. Deer, cow, halfling, pig, human... Oh, that the word — meat. Kobold not meat, they poison. {Race} not meat too, now. Hargulka forbids. Now only animals in forest are borba.\""
+    },
+    {
+      "Key": "8b005cb0-ffec-49b2-9f7e-9978f18d36f8",
+      "Value": "{n}Hargulka looks to the side.{/n} \"We don't. Hargulka forbids! If someone from {g|Trobold}Trobold{/g} attacks not-borba, Hargulka himself will eat attacker. Strong word!\" {n}There's a note of uncertainty behind his braggadocio.{/n}"
+    },
+    {
+      "Key": "6278fed7-cc30-4424-8eaf-82cbbcd1b136",
+      "Value": "\"Ask.\""
+    },
+    {
+      "Key": "52fc8340-9df6-4bdf-bbd4-8fa9a59fb1d5",
+      "Value": "\"From mountains — far away, west. Long way here — I went through woods, through swamps, near big freshwater. Seen a lot, fought a lot, ate a lot. Once seen a dragon. Other time fought scrag — that like troll, but lives in water. Almost drowned. Another time, had to run from forest fire... Lots of things happened.\""
+    },
+    {
+      "Key": "ecdfafe6-3dcc-4a65-b9dd-4f4de9236592",
+      "Value": "{n}Hargulka wrinkles his eyebrows in confusion, then grunts. {/n} \"Hargulka male. Troll males not have children. Only Kargadd, but Kargadd strange, not like others. Male raising children, caring about children — Hargulka never seen anything like that before.\""
+    },
+    {
+      "Key": "921c89a7-eb56-494c-8029-bcbca4951059",
+      "Value": "\"Not like other kings. Trolls live alone or in small packs. King is one all trolls respect, obey, give gifts. King can gather trolls for... how you call it... when you all attack together. But trolls not live near their king.\""
+    },
+    {
+      "Key": "3d434dfc-637f-4cc6-b6c7-7a22c634f9fa",
+      "Value": "\"When woman is ready to bear child, men are drawn to her smell, fight for right to mate with her — women choose only strongest. Hargulka strong, won often, had many children. But when done, women drive men away. Men get hungry. When hungry, even children are borba.\""
+    },
+    {
+      "Key": "86d7acff-b657-4b8f-b7e1-5a6d7bb642f0",
+      "Value": "\"Tartuk made Hargulka immortal. Hargulka was with small pack of trolls then. Tartuk said we live together, build {g|Trobold}Trobold{/g} together, become like humans. Tartuk was scary smart.\nOnce, at a trader's cart, he found a potion to become smart. Gave it to Hargulka. Hargulka drank, and his head suddenly full of thoughts, and Tartuk talked and talked and talked... until the potion wore off. Hargulka's head ached whole day after. How you live like that all the time? Hargulka would go crazy!\""
+    },
+    {
+      "Key": "35516e60-9649-4744-bacb-ff364fc27d43",
+      "Value": "\"Tartuk gone now. Immortality gone. Many left and live like before. But {g|Trobold}Trobold{/g} stays. Maybe we do like he wanted and become like you. Or maybe we start fight with each other and split away. Hargulka still strong, but Hargulka old. Old trolls become borba. If this year, or next year, or year after that old Hargulka not eaten, that means Tartuk was right. We will see.\""
+    },
+    {
+      "Key": "d4abbb16-ea25-4907-8667-95bddc031cb8",
+      "Value": "\"No other settlements like {g|Trobold}Trobold{/g}. Trolls are nomads. Males walk alone or in small packs. Females walk with children until children grow, then mother drives them away. Trobold was Tartuk's idea. Trolls not live like that.\""
+    },
+    {
+      "Key": "660a3f36-0cc2-4400-880d-bb888590153f",
+      "Value": "\"From an old augur, Hargulk heard that far away, right hand from the east, there lands where trolls live in big tribe — like lizardfolk here. Augur won't lie, but that hard to believe. Where they get so much borba to feed the whole tribe? And why trolls in tribe not fight each other?\""
+    },
+    {
+      "Key": "662773cc-4626-483e-80a0-a0852d0ab0f1",
+      "Value": "\"That name for sorcerer-trolls. They wise. They know everything, because they talk with demons. They rip their own stomachs up and tell the future by looking on their own guts. They are rare. Hargulka met one only once, long ago, west from here.\""
+    },
+    {
+      "Key": "ef3d16a7-4a0d-4a43-890f-f2cb57764270",
+      "Value": "\"No. Most times, troll dies from hunger. We eat many, many borba. If there no borba, troll becomes weak, wounds don't close anymore. If troll weakened by hunger, even bear can kill him.\""
+    },
+    {
+      "Key": "83b2fe8c-2130-4282-8907-98a34cdc7894",
+      "Value": "\"Also we no live without breathing. If troll drown or strangled, he no survive. Also also...\" {n}The old troll's voice goes quiet, and he leans toward you and hunches down.{/n} \"Ghosts of dead. They no make wounds, just touch you and take your life. You survive, you become weak and sick. Some just fall and die, no scratch on their bodies. But they get ice cold, and their fur turn gray.\""
+    },
+    {
+      "Key": "befda342-b1d7-425e-a57f-48c562201b16",
+      "Value": "\"Troll god is Urxehl, lord of storms and fires. He created trolls, gave them strength to close their wounds and to hunt and eat everybody — animals in the woods, and ogres, and — cough-cough!\" {n}The troll coughs abruptly — and rather unconvincingly — and looks away.{/n}"
+    },
+    {
+      "Key": "02b09262-8d8a-4f01-a4d2-bcd6020b7886",
+      "Value": "\"And for the wisest trolls, Urxehl gives power to make magic and foretell futures. He gives humans dreams about fires, and they set fires to their own homes! Troll god is strong — the strongest!\""
+    },
+    {
+      "Key": "7a6c2892-816f-4485-9775-4fecff3efd1c",
+      "Value": "\"Ask. Hargulk tells what he knows.\""
+    },
+    {
+      "Key": "e4936c5f-f982-4b4c-bc4a-85018e4b0dd7",
+      "Value": "\"Hargulka no understand you. You crazy! But Hargulka fight for {g|Trobold}Trobold{/g}!\""
+    },
+    {
+      "Key": "9d5f568c-ddc3-48df-9cbe-919a9bdda442",
+      "Value": "\"Yes, Karga and Argadd came to Hargulka. Their anger was great. They said, if they catch you again, they will...\" {n}Hargulka makes a vague gesture. With an anxious chuckle, he continues.{/n} \"But don't worry! Hargulka told them that if YOU catch them, you will...\" {n}The gestures that follow are quite emphatic, but even more vague.{/n}"
+    },
+    {
+      "Key": "dd260c80-9fee-4534-841b-37eda500eb77",
+      "Value": "\"Now they understand and have let their anger go. They even asked me to give you this. They, ughhh... found this in a cave. On their way to Hargulka, yes.\""
+    },
+    {
+      "Key": "d13ced76-77b0-4e85-92b0-6a06f1bec92e",
+      "Value": "\"Really? They must have some guts to do that, he-he-hmmm!\" {n}Regongar laughs at his own pun.{/n}"
+    },
+    {
+      "Key": "f29d4794-3d9d-415a-af89-eeb719e9fbbc",
+      "Value": "{n}Tristian frowns.{/n} \"I know this name... It is truly a powerful demon. May {g|Sarenrae}Sarenrae{/g} protect us from him and his kind!\""
+    }
+  ]
+}

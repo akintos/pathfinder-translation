@@ -1,0 +1,389 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "321ccbb7-00f4-467d-bff6-74d24134f4b5",
+      "Value": "\"I command you: leave this place immediately!\""
+    },
+    {
+      "Key": "ac3ac116-a51a-455f-a278-7ea961865728",
+      "Value": "\"Silence! Please, let us speak. Tell me what brings you to my door.\""
+    },
+    {
+      "Key": "672ec216-5553-45dc-8800-9d2168ec7579",
+      "Value": "[Let Jhod speak]"
+    },
+    {
+      "Key": "a5de3aa7-dbe0-452a-a6c4-e933327082b6",
+      "Value": "\"Keep this up, and you'll all regret coming here.\""
+    },
+    {
+      "Key": "391a1e5a-c462-4d63-8994-3573f117676b",
+      "Value": "\"Jhod, can you try to reason with them?\""
+    },
+    {
+      "Key": "e5deff53-567f-478f-a251-d66ec5a95830",
+      "Value": "[To Remus] \"I ordered you executed!\""
+    },
+    {
+      "Key": "0369f68a-a0bf-4df3-a9f3-ff0585b827ad",
+      "Value": "[To Remus] \"You're supposed to be in a cell!\""
+    },
+    {
+      "Key": "96a6b2a8-67b3-4292-8ce4-a11b2244d8e4",
+      "Value": "\"People aren't dying from some curse, it's from strange magical seeds that carry a fatal disease. We just need to find out where they're coming from, then...\""
+    },
+    {
+      "Key": "f3550983-4251-45c2-b369-9c8b2ce14275",
+      "Value": "\"It's not worth arguing with them. Let them come to their own conclusions.\""
+    },
+    {
+      "Key": "fbaaca86-5c9a-4eb9-8888-006e854cb597",
+      "Value": "\"I refuse to get involved in this. Let them believe whatever they want.\""
+    },
+    {
+      "Key": "be3147c1-4eaf-4872-9a5c-2eaf6a680f63",
+      "Value": "\"I don't need to justify myself to anyone!\""
+    },
+    {
+      "Key": "d423f549-b626-47ac-9dcd-19d98de6df59",
+      "Value": "\"In times like these, a ruler should be able to rely on {mf|his|her} people, but I seem to have only ill-equipped vagrants who insist on threatening me. Return to your homes, before I decide to give you a sample of what I have in store for those who dare to send a magic disease into MY lands!\""
+    },
+    {
+      "Key": "fae6864d-2325-4afb-9e8b-645237fe8a75",
+      "Value": "\"I have no time for your wailing and threats — take your pleas to another.\""
+    },
+    {
+      "Key": "45536a71-5e85-4d1c-b12c-023d34d2ab1d",
+      "Value": "\"Please, give me more time! I won't let any disaster, natural or magical, overcome our strength! Trust in me, your rightful liege, and I WILL find a way to protect you and those you love!\""
+    },
+    {
+      "Key": "e05dec19-6474-4a9b-b9ba-2a7927f20f0a",
+      "Value": "\"Not long ago, the Stolen Lands were little more than a haven for cutthroats and bandits. If the fine, upstanding citizens abandon me, who will I have left to rely on? It's you who are the true foundation of this barony — a fact I've never forgotten!\""
+    },
+    {
+      "Key": "c14a3d8a-699b-4c15-b7f4-c1f580a95a7f",
+      "Value": "\"You ungrateful rabble, dare judge me, the one charged with protecting this barony? You're still here, so I must be doing something right!\""
+    },
+    {
+      "Key": "950882ec-ac37-484f-a25b-3686abd66505",
+      "Value": "\"Your whining sickens me. How much longer must I put up with this farce?\""
+    },
+    {
+      "Key": "71743623-3070-47d3-b7fb-a8a3708f559e",
+      "Value": "\"Lamashtu's cult is outlawed in these lands, like everywhere else. Keeping the reign of law in the Stolen Lands is my top priority, and I'll defend it to my dying breath!\""
+    },
+    {
+      "Key": "5f0ae645-6104-4643-bbce-5fce5f799730",
+      "Value": "\"If you care so much about my beliefs, maybe it's time we examine YOUR altars of worship! Let me see your paragons of virtue who have the right to reproach me!\""
+    },
+    {
+      "Key": "b70f225b-2dc5-444d-a2b3-7b592219c0f7",
+      "Value": "\"To think these miserable imbeciles are allowed to roam free in my lands...\""
+    },
+    {
+      "Key": "febce508-cbcc-4f69-96b1-0af80588aabc",
+      "Value": "[Attack] \"I can certainly try! Guards, forward!\""
+    },
+    {
+      "Key": "8c02df96-52e5-41bf-b503-a91732f55411",
+      "Value": "[Attack] \"Death to the insurgents!\""
+    },
+    {
+      "Key": "2ef2f58e-c62f-4390-8285-70cd023933f8",
+      "Value": "\"I'm doing all in my power to protect this realm from the evils besieging it. I swear to you, we'll soon discover the truth and put an end to this!\""
+    },
+    {
+      "Key": "89e95bd3-6bbd-4ed1-98c5-9b1ee4c219a4",
+      "Value": "[Attack] \"I will have order!\""
+    },
+    {
+      "Key": "67b5ac3f-c8de-43f7-8083-f4aebb8b9363",
+      "Value": "\"Put your faith in me, stand with me to overcome this ordeal, and I promise I will not let you down!\""
+    },
+    {
+      "Key": "3ea197ff-a6ef-4c0c-9367-5cea8a981733",
+      "Value": "[Attack] \"Enough! Guards, scatter this rabble.\""
+    },
+    {
+      "Key": "d35adeb5-b1b5-4cdf-a88c-46b193f4fd42",
+      "Value": "\"The mere thought of following Lamashtu disgusts me. I would never put the lives of those entrusted to me in such danger.\""
+    },
+    {
+      "Key": "ca96f117-fd55-4d6c-8b48-2e748cba4df9",
+      "Value": "[Attack] \"Enough! I'm sick of this rabble's threats.\""
+    },
+    {
+      "Key": "5204e27b-5763-4cb0-aa44-3c6b5ce66a62",
+      "Value": "[Lie] \"Yes, I worship Lamashtu. If you have a problem with that, why not step forward so we can discuss it face-to-face?\""
+    },
+    {
+      "Key": "7b9f74bd-4129-4195-9bb8-6eecfcca4bd3",
+      "Value": "\"I don't have time for this 'revolt' nonsense. Guards, lock these mongrels up, and hang every second one of them — if any others persist, break them on the wheel. These people need to be taught to respect the law of their {mf|baron|baroness}.\""
+    },
+    {
+      "Key": "9cbdd7ef-3b04-44d1-9fe7-db0b5fb0f549",
+      "Value": "\"Please hear me out before you lynch me. I know you're tired and disgruntled — I am too. Day after day I and my companions seek a solution to your misfortunes. We've saved so many from this fatal disease, and if the gods have mercy, we can save even more! So please, let us do what we can — return to your homes, to your loved ones. They need you, just as I need your patience and good faith.\""
+    },
+    {
+      "Key": "03ae2591-4ed7-4ebc-b12d-01a066e555a6",
+      "Value": "[To Remus] \"You're supposed to be banished from my lands!\""
+    },
+    {
+      "Key": "f682f637-8df9-4c75-81df-350d76990d1a",
+      "Value": "{n}The murmuring crowd takes up almost the entire square. The murmuring turns to shouts at your arrival, and a stone flies out of the crowd and strikes the cobbles at your feet.{/n}"
+    },
+    {
+      "Key": "9355b5f1-4e74-4903-b998-871fe4b449cb",
+      "Value": "\"There {mf|he|she} is! Out at last, damn {mf|his|her} eyes!\""
+    },
+    {
+      "Key": "a60b8f0b-d590-4d46-8d26-0c41467376a2",
+      "Value": "\"People, please hear me!\" {n}Jhod steps forward and raises his hands.{/n} \"Quiet down!\" {n}His voice thunders over the crowd, and the people fall silent, waiting.{/n}"
+    },
+    {
+      "Key": "5d455e7f-9b15-4bf2-8acc-d681b250a34b",
+      "Value": "\"Lies! This 'ruler' is the source of all our suffering! Once we get rid of {mf|him|her}, the curse will be lifted!\""
+    },
+    {
+      "Key": "72a8243d-1e05-4510-b069-75bd0541140c",
+      "Value": "\"Is that right?! You can't silence us all!\""
+    },
+    {
+      "Key": "39d67146-d801-4c22-9f34-d2398b3e6d21",
+      "Value": "{n}Suddenly, an old man dressed in rags steps from the crowd — or the crowd parts for him, it's difficult to tell. As he gets closer, you recognize him — it is the prophet, {d|Remus}Remus{/d}. His eyes fall on the crowd.{/n} \"Repent, fools! This is your last chance to appease the Goddess.\" {n}He turns and points at you, his eyes afire.{/n} \"By killing the one who dared lay claim to our Mistress's lands!\""
+    },
+    {
+      "Key": "8feaa368-41a6-42aa-88fa-a13a4921b9a2",
+      "Value": "\"Curse? There is no curse, you fool! Are you so afraid that you'll take every rumor you hear as truth?\""
+    },
+    {
+      "Key": "56a355f3-9549-486d-a14e-d9909937a9c3",
+      "Value": "\"Goddess sent me a {d|c21 Remus Executed}reprieve{/d}! Goddess protects those who hear her whispers! Goddess led me here to reveal the beast that destroys her kingdom and poisons her land!\" {n}Remus lifts his hand and points his finger at you.{/n} \"Your baron{mf||ess} will not receive the mercy {mf|he|she} is so eager to deny! {mf|He|She} laughs at omens and prophets without knowing what forces {mf|he|she} is meddling with!\""
+    },
+    {
+      "Key": "2a90f91c-7572-417c-80dd-59769ae0300b",
+      "Value": "\"Can {d|c21 Remus Imprisoned}locks{/d} and latches stop the primal force? What doors can withstand Nature itself that strucks those who are guilty?\" {n}Remus smiles, showing his rotten teeth.{/n} \"You have no idea what forces you are trying to oppose! Repent, accept your faith and claim your reward — quick demise!\""
+    },
+    {
+      "Key": "57d39fe0-db8a-4315-8fb4-50724783c0ec",
+      "Value": "\"Do you wish to know where to find safe haven in dark times? In faith, strong and pure! Pray to {g|Erastil}Erastil{/g}, or your own gods! Cast away the wicked, lazy thinking that brought you to this point. Only together can we purge the evil seeking to take root in our hearts!\""
+    },
+    {
+      "Key": "20ff8cf7-1ac5-4e1b-97da-74834931cf59",
+      "Value": "{n}People in the crowd look at each other uncertainly. Some close their eyes and put their hands to the holy symbols at their necks.{/n}"
+    },
+    {
+      "Key": "06cc96c0-64de-4b31-b54d-1bd40e04d948",
+      "Value": "\"A disease? Why would you {d|c22 hide truth}hide{/d} that from us, keep silent as monsters tore apart our loved ones? No, you're just trying to hide the truth about your curse!\""
+    },
+    {
+      "Key": "dff80dd1-9420-4367-aab9-8ac6d27dbf70",
+      "Value": "\"The {mf|baron|baroness} is telling the truth, and always has! How many of us were saved by being {d|c22 tell truth}warned{/d} of the coming disaster?\""
+    },
+    {
+      "Key": "c3b7f565-1dad-48a5-bae7-dd2b923be914",
+      "Value": "\"{d|MadlaStasek}Madla Stasek{/d}! She believed these lies about a disease, too, and she went to you in hopes of finding a cure! Well, where is she, {mf|baron|baroness}? Likely buried in an unmarked grave!\""
+    },
+    {
+      "Key": "e0561aab-6719-4808-9606-246c6925daff",
+      "Value": "\"Are you all mad? I myself came to the {mf|baron|baroness} for a cure! If you'd only seen the foulness they took out of me, you'd know this is not some curse!\""
+    },
+    {
+      "Key": "25557aa1-d75b-42c5-b124-1c2d3048666d",
+      "Value": "{n}The people exchange looks and nod slowly. It seems your words have calmed them somewhat.{/n}"
+    },
+    {
+      "Key": "2e47d0f8-2ac4-4cb4-b358-321570f3b406",
+      "Value": "{n}Your words are met with cold silence. The crowd gives each other dark looks and tighten their grips on their torches.{/n}"
+    },
+    {
+      "Key": "79cff526-8f4b-408f-8765-438ebf1219e1",
+      "Value": "\"Enough! You don't care about us! You hole up in your castle in fear, and refuse to lift a finger while us simple folk die like animals!\""
+    },
+    {
+      "Key": "94e3949f-1198-41c9-b74b-d3e783f9150f",
+      "Value": "\"{mf|He|She} won't even let us {d|c22 Refugees Capital}leave{/d}! Made us turn back — it'd be bad for business if any other rich folk heard that people were fleeing the lands like rats from a sinking ship!\""
+    },
+    {
+      "Key": "8e540a46-5335-4a3b-9769-ff83f8cdc15b",
+      "Value": "\"If all you care about is your own hide, then go on, flee with your tail between your legs! My neighbors may have fled like cowards, but the {mf|baron|baroness} is still here — {mf|he|she} refuses to leave {mf|his|her} people!\""
+    },
+    {
+      "Key": "0acb18ed-a098-4caa-a7ed-fdcdc215c337",
+      "Value": "\"Bah, only {d|c21 Bandits Evil}thugs{/d} in {mf|his|her} service! They're locking up roads and bridges! You want to cross? Better pay up! People are running for their lives, and {mf|he|she}'s lining {mf|his|her} pockets!\""
+    },
+    {
+      "Key": "b81948f7-44e1-407b-83cf-e256b25a751a",
+      "Value": "\"You heard of the new Stag Lord yet? No? That's because the {mf|baron|baroness} took {d|c22 Fake Killed}care{/d} of him, just like the one before that! The roads are safer, thanks to {mf|him|her}!\""
+    },
+    {
+      "Key": "4dd676b1-6918-49f8-97d1-97a07ee11163",
+      "Value": "\"Let an old man speak! I'll have you know I was {d|c22 GoTo Jhod}sent{/d} by the {mf|baron|baroness} {mf|himself|herself} to see this here priest of Erastil. And he cured me! So prattle all you want about some curse, but don't you spread lies about our {mf|baron|baroness}!\""
+    },
+    {
+      "Key": "21f338e6-4efb-46db-9ab8-0262673d6031",
+      "Value": "\"{mf|He|She} don't give a damn about us! I know it for sure — a fellow of mine met this scoundrel for a {d|c22 Peasants Left}chat{/d} near the castle. Know what happened after that? He took his family and left for good, because it was clear {mf|His|Her} Grace cares nothing for the troubles of {mf|his|her} subjects!\""
+    },
+    {
+      "Key": "faa2da1d-7c6e-49a3-b832-a95432cd9635",
+      "Value": "\"Enough, all of you! The {mf|baron|baroness} has been fighting to protect us! I've {d|c22 Peasants Stayed}talked{/d} to {mf|him|her} personally! I've seen how much {mf|he|she} cares! If we turn against each other, we're lost!\""
+    },
+    {
+      "Key": "aac7c3f8-450c-411c-82a0-5ad56313e67b",
+      "Value": "\"You leave the {mf|baron|baroness} be! {mf|He|She} didn't even hesitate to help out poor folk like me!\""
+    },
+    {
+      "Key": "ff8ffe95-177d-4740-9eef-2e47383a3ccc",
+      "Value": "{n}The people before you look around at each other, nodding. You see a few peasants turn and leave quietly.{/n}"
+    },
+    {
+      "Key": "764afbbe-0d53-45f7-9972-b5905cacf6b3",
+      "Value": "{n}Angry murmuring runs through the crowd. Some shake their fists at you, others their weapons into the air.{/n}"
+    },
+    {
+      "Key": "072ff44b-52c9-4cc4-9c57-55b92540002d",
+      "Value": "\"A serpent's tongue! Clear sign of {g|Lamashtu}Lamashtu{/g}! Did she grant you such cunning and hypocrisy in return for our lives?!\""
+    },
+    {
+      "Key": "866e3af4-fe12-442e-b22f-5753095d95bd",
+      "Value": "\"It's true! {d|c22 Goblins Live}Goblins{/d} dart about everywhere, putting up their filthy totems, and without a bit of fear! But it doesn't trouble our {mf|baron|baroness} — no, they can just put up their vile idols anywhere they want and carve honest people up for their wretched gods!\""
+    },
+    {
+      "Key": "9975df34-233c-4b7e-8003-0037b9a2e7b3",
+      "Value": "\"You bite your tongue! Ever since our {mf|baron|baroness} {d|c22 Goblins Killed}scattered{/d} the goblin tribe and stomped out their vile cult, there's been not a word of the vermin!\""
+    },
+    {
+      "Key": "68df9a3b-ddbc-4384-b6ef-623cf67d1307",
+      "Value": "\"Did you hear about the human cult of {g|Lamashtu}Lamashtu{/g}? They say the {mf|baron|baroness} gave them {mf|his|her} {d|c22 Tsanna Lives}favor{/d} and panders to their every whim!\""
+    },
+    {
+      "Key": "5d3b5f81-0f2e-4ac6-abca-e0f6a5c84ac6",
+      "Value": "\"Did you hear about the human cult of {g|Lamashtu}Lamashtu{/g}? The {mf|baron|baroness} declared {d|c22 Tsanna Exiled}war{/d} on them! Our lands are no place for wicked gods and their minions!\""
+    },
+    {
+      "Key": "5d506164-d595-4817-84a6-7c9372e25910",
+      "Value": "\"Just look at {mf|him|her}! Got a goblin right at {mf|his|her} side! Has {mf|he|she} no shame, taking beasts like that into {mf|his|her} service?\""
+    },
+    {
+      "Key": "6db9bf17-2485-406f-b921-9db3f77f4b13",
+      "Value": "{n}As they listen to you, some of the people edge closer. Many nod in agreement, and those who were shouting the loudest accusations turn their eyes away.{/n}"
+    },
+    {
+      "Key": "9200e3ef-8b70-4b34-9090-44dadf51464a",
+      "Value": "{n}Angry murmuring runs through the crowd. It looks like it might erupt at any moment.{/n}"
+    },
+    {
+      "Key": "1f939a2c-706f-4ce4-84b2-a60cbbc1bdd3",
+      "Value": "{n}...which gives way to some awkward coughing and the shuffle of feet as the crowd begins to disperse. Some risk a glance at you as they go, others hide their faces as they hastily leave the square.{/n}"
+    },
+    {
+      "Key": "a1cabf2f-77c7-4c6b-870a-4df42b409f0e",
+      "Value": "{n}...and then the people begin arguing among themselves. You manage to catch bits and pieces of their conversations — some have given up on the revolt, while others demand it continue. After a while, it becomes clear the crowd has lost its fire. The people turn and leave, continuing to argue as they do.{/n}"
+    },
+    {
+      "Key": "0d44c7aa-676f-4c57-a56e-fa07569e02f9",
+      "Value": "{n}...which explodes into furious shouting.{/n} \"Down with the {mf|baron|baroness}! Death to the cursed fiend!\" {n}Waving clubs and torches, the crowd turns on you to attack.{/n}"
+    },
+    {
+      "Key": "4ab72ecb-c46d-473c-b82c-abc234b009c2",
+      "Value": "{n}Jhod leans in.{/n} \"We've done all we can.\" {n} He turns to the crowd, then presses his hands together in prayer.{/n} \"In the name of {g|Erastil}Erastil{/g}, I beseech you — return to your homes, your families! You've suffered enough — do not bring more strife upon yourselves!\""
+    },
+    {
+      "Key": "e2e3ff71-429a-4048-b2cb-e1b6a0f7003e",
+      "Value": "\"Would you look at that! The {mf|baron|baroness} is trying to order us around, what a surprise! Well, we're fed up with you and your orders! Get off our lands while you're still in one piece!\""
+    },
+    {
+      "Key": "c899b557-0994-4ae7-b386-33bf464299f4",
+      "Value": "{n}Your voice is drowned out by the crowd's uproar. The peasants in front raise their torches, pitchforks, and clubs as they shout at you.{/n}"
+    },
+    {
+      "Key": "9c5545bb-62ad-4674-8bd8-c5093ebd93c7",
+      "Value": "\"I am Jhod Kavken, humble servant of {g|Erastil}Erastil{/g}. I may be {mf|His|Her} Grace's confidant, but I am also one of you, the people of this realm. The {mf|baron|baroness} is deeply concerned by your suffering, and {mf|he|she} is doing everything in {mf|his|her} power to...\""
+    },
+    {
+      "Key": "2b93fe35-097b-46e8-89e5-9d439f4e51bb",
+      "Value": "{n}The crowd is getting louder and louder. The people in front seem to be slowly edging toward you.{/n}"
+    },
+    {
+      "Key": "ec1b212a-4421-4863-b7d4-8418db73b002",
+      "Value": "\"Silence! Let your ruler speak!\" {n}Jhod nods at you.{/n} \"Please go on, Your Grace.\""
+    },
+    {
+      "Key": "4f3aa4c5-b278-448c-8b80-fb31b7a0b829",
+      "Value": "\"Did you come here to hear yourselves talk? For shame! While you try to figure out why you all gathered here, at least let the {mf|baron|baroness} speak!\""
+    },
+    {
+      "Key": "6ed297d0-edd3-4f4e-9593-bcf5b9456ac0",
+      "Value": "\"{g|Erastil}Erastil{/g} the merciful! Forgive them, they are caught up in their own anger! Your Grace, they don't know what they're saying!\""
+    },
+    {
+      "Key": "ce9e5933-8d6f-437f-8ef9-605e303adb08",
+      "Value": "{n}As the priest's speech comes to an end, a silence fills the air...{/n}"
+    },
+    {
+      "Key": "15d35d1b-0be9-4c13-b197-4df2d01fadc4",
+      "Value": "{n}You look around in search of Remus, the mysterious old man who managed to show up despite your best efforts to get rid of the instigator. It seems the mad preacher managed to disappear in all the commotion.{/n}"
+    },
+    {
+      "Key": "24959ec7-0742-4d5f-8af5-c05383682310",
+      "Value": "{n}For a moment, the crowd is silent. Then people start exchanging glances and whispers. Some give you looks filled with fear and hate.{/n}"
+    },
+    {
+      "Key": "161bd8ed-c003-4aae-b217-331d62e1cb29",
+      "Value": "{n}The people in the front row step back, pushing their companions backward as well. Those who meet your gaze look away quickly.{/n}"
+    },
+    {
+      "Key": "a9fce2c0-90dc-44c9-8b5f-a7ef87e1de3d",
+      "Value": "{n}The people before you exchange wary looks and back away. You notice a few peasants hastily turn and leave.{/n}"
+    },
+    {
+      "Key": "af52f80d-4e82-4e23-b8b6-be72cb3e87d3",
+      "Value": "{n}The crowd before you sways and mumbles: people look at one another, talk in a hushed tone, shake their heads and frown. It seems rebels who were screaming and jeering a minute ago alost all their confidence. Finally, one of the peasants opens his mouth.{/n}"
+    },
+    {
+      "Key": "14a71312-aa48-4e3e-9566-7d814d50c4d4",
+      "Value": "\"... The {mf|baron|baroness} is right.\""
+    },
+    {
+      "Key": "6d6dffb9-f41a-4a43-809a-f9b9b4f01434",
+      "Value": "\"You really believe this? It's pure nonsense!\""
+    },
+    {
+      "Key": "c758d2de-49d5-40d2-b50d-d990fc6f12bb",
+      "Value": "\"Don't you get it? We could run the {mf|baron|baroness} through, but it wouldn't change a thing! {mf|He's|She's} of more use alive than dead!\""
+    },
+    {
+      "Key": "3b8d531f-f23c-4d1f-b2dd-523d74e54b14",
+      "Value": "\"So be it, {mf|baron|baroness}, we'll let you pass. But don't forget — we're trusting you with our lives.\""
+    },
+    {
+      "Key": "773609e7-d240-474a-b0c3-0914b5872096",
+      "Value": "\"Find the source! Save our children from this terrible sickness!\""
+    },
+    {
+      "Key": "fbd035b7-0dce-4a48-a01b-72bb00ee2b54",
+      "Value": "\"The old man's right! The {mf|baron|baroness} is cursed! If we let {mf|him|her} go now, we'll all find our graves tomorrow!\""
+    },
+    {
+      "Key": "eacdf141-08ff-47b4-98de-45301a01d939",
+      "Value": "\"An if we don't let {mf|him|her} go, we'll be mangled one by one by them beasts that tear out of the sick! This goddess of yours no one's seen — what help will she be then?!\""
+    },
+    {
+      "Key": "6da83750-16d2-429d-9287-3ed9b9b237fe",
+      "Value": "\"Pitiful fools! You doom yourselves by entrusting yourselves to the one who angered the great goddess!\""
+    },
+    {
+      "Key": "cf46043e-5d11-46ed-9b4f-6f2ecd0160e1",
+      "Value": "\"Are you out of your mind, Your Grace?! This is inhuman!\""
+    },
+    {
+      "Key": "2fdd5ff3-9222-4c54-b598-ab14647899ff",
+      "Value": "\"Jhod, the time for words is done. Guards! Didn't you hear your {mf|baron|baroness}? Carry out your orders!\""
+    },
+    {
+      "Key": "3b4b11de-87f7-4a56-a115-474b616d78a2",
+      "Value": "\"I am the voice and sight of the goddess, Her loyal servant and herald of Her will! Your words are nothing against Her commands! Your orders are ashes against Her prophecies. The day is nigh when this disgusting city will be swallowed by the other world, and I cry out to all who can hear me: Repent, fools! Repent, for the reckoning of your avarice is nigh! None of you know the forces you're dealing with!\""
+    }
+  ]
+}

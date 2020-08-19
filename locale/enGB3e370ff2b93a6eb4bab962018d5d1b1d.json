@@ -1,0 +1,77 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "d994a45e-b280-401c-89ee-e482c40905a0",
+      "Value": "{g|Military3_1}[Choice effects]{/g} \"Hire Swordlords as officers.\""
+    },
+    {
+      "Key": "d674dd27-0ab1-4641-aa00-8190b1c44f8e",
+      "Value": "{g|Military3_2}[Choice effects]{/g} \"Hire spellcasters as officers.\""
+    },
+    {
+      "Key": "ec1884b6-3781-4070-afb3-cd9874b7fce4",
+      "Value": "\"I see you understand these matters better than I. Solve the problem yourself.\""
+    },
+    {
+      "Key": "90b4c9d5-99bc-408d-982c-14946dc19cf4",
+      "Value": "\"{mf|Your Grace|Your Grace|Your Highness|Your Highness}, I am happy to report that recruitment continues. Our ranks swell with more and more fine soldiers. However, we now face another problem – there aren't enough officers. We shouldn't look for them among the common citizens: command requires certain skills and knowledge.\""
+    },
+    {
+      "Key": "3ecabf96-b327-40df-bc3e-9995d7f5fb45",
+      "Value": "\"I recommend you recruit officers from among the {g|Swordlords}Swordlords{/g}. They are experienced warriors and skillful leaders, capable of strategic thinking and inspiring the sort of courage that will survive the harsh realities of the battlefield.\""
+    },
+    {
+      "Key": "ca848280-d823-491d-bd04-a65cafffdf81",
+      "Value": "\"Well, {name}, it's me again. Our army is growing. We got more soldiers. But not enough commanders. And there aren't no clever ones among the recruits. Without good command, you know, you can't run an army.\""
+    },
+    {
+      "Key": "adf88a2a-85f7-4034-bb33-b3555866b44a",
+      "Value": "\"In some armies the officers are wizards or shamans. They might be brainy, but they don't know a damn thing about soldiers. But when I was in {g|Brevoy}Brevoy{/g}, I seen those... you know... {g|Swordlords}Swordlords{/g}, right! They look skinny, but they know their weapons, and soldiers look up to them. I think we should hire them to be commanders in our army – they'll definitely have the troops' respect.\""
+    },
+    {
+      "Key": "6669f522-ccff-4c8f-bddb-0e69f7d62fad",
+      "Value": "\"Listen, {name}. Remember about recruitment? Well, I did that, we have the numbers. But there's no one to command them.\" {n}Regongar spits through his fangs.{/n} \"We need to find someone these dimwits will fear and obey. Me alone is not enough.\""
+    },
+    {
+      "Key": "d899a11e-62f5-4577-86ae-3f43536ca241",
+      "Value": "\"You know who we should make commanders? Not those boneheads from {g|Brevoy}Brevoy{/g}, who dance around with their pig-stickers. No, we should hire spellcasters instead! Our regular bonebreaker troops won't whisper a word against a wizard. They're too afraid of getting lightning thrown in their face. And just imagine what terror they'll bring to the battlefield. Not like those {g|Swordlords}Swordlords{/g} – {g|Choral}Choral{/g} mopped the floor with them!\""
+    },
+    {
+      "Key": "d373da7a-33df-449e-8e06-00b519ddbf4a",
+      "Value": "{n}Kassil nods.{/n} \"I will make the necessary arrangements immediately.\""
+    },
+    {
+      "Key": "bcc1052d-0665-4ed5-9a85-0fa2c77cfdd2",
+      "Value": "{n}Amiri hums contentedly.{/n} \"Right. Fine, I'll go tell the others what you said.\""
+    },
+    {
+      "Key": "7e3793c1-a261-4dbf-ba67-6d9077afcfa6",
+      "Value": "{n}Regongar sneers scornfully.{/n} \"What, you too? {g|Swordlords}Swordlords{/g}, no shit... even the peasants aren't afraid of them – what soldier will respect them?\""
+    },
+    {
+      "Key": "17f9792d-8a7f-43a2-89c9-a7cf2b30d12c",
+      "Value": "\"But... how should a spellcaster, who has sat all his life in a lab, be expected to take up command?\" {n}Kassil shakes his head.{/n} \"I… I'm surprised by this decision.\""
+    },
+    {
+      "Key": "c4cdb0a2-dc42-40cc-8cf5-cc1fdf6f72ea",
+      "Value": "{n}Amiri looks insulted.{/n} \"Wha-a-at? These skinny dudes in robes will boss my guys around? You kidding me, {name}?! What will I do with them?!\" {n}Amiri spits on the floor furiously.{/n}"
+    },
+    {
+      "Key": "44b780be-ea28-4197-b9c6-84392d30c620",
+      "Value": "\"Great! A couple of fried troublemakers, and the rest of your soldiers will toe the line.\""
+    },
+    {
+      "Key": "6a42ef37-5d3d-4c83-8b6e-aa91a507d773",
+      "Value": "\"Thank you for your trust. I will immediately send letters to any {g|Swordlords}Swordlords{/g} who may be interested in such a placement.\""
+    },
+    {
+      "Key": "7eb453db-1de4-438e-adc6-291bf887dc36",
+      "Value": "\"Then I go find out how to get those {g|Swordlords}Swordlords{/g}. Be back later.\""
+    },
+    {
+      "Key": "1a5b38ca-9ddb-47c9-ac4e-b822bd552fe5",
+      "Value": "\"I know a couple wizards who would make perfect commanders. I'll handle everything.\""
+    }
+  ]
+}

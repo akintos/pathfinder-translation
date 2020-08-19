@@ -1,0 +1,105 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "a289192f-4eb5-4373-bfcb-569a2db33681",
+      "Value": "\"Return the cow to the shepherd.\""
+    },
+    {
+      "Key": "da1cad89-f487-44bb-b662-674e040316ed",
+      "Value": "\"Give the cow to the neighbor.\""
+    },
+    {
+      "Key": "89c04375-e248-4621-84d3-d02ae4e2307f",
+      "Value": "{g|Population3_3}[Choice effects]{/g} [Gain 10 BP] \"I like your idea, Lander. Confiscate the cow. It belongs to the {mf|barony|barony|kingdom|kingdom}.\""
+    },
+    {
+      "Key": "f2895fdb-0a3e-493e-a060-01fe86c20bc2",
+      "Value": "\"I will not deal with such trifles! Send this petitioner away, and don't waste any more of my time.\""
+    },
+    {
+      "Key": "d66b6d9c-79f1-452d-879c-27cef415268b",
+      "Value": "\"I think you can manage this problem on your own.\""
+    },
+    {
+      "Key": "e75f5525-5fea-48ff-a0ca-eb5a72e77458",
+      "Value": "{n}Octavia smiles cunningly.{/n} \"I have good news. Your subjects, who have until recently held you in distrust, now have such faith in you that they insist on your final word to settle their disputes – such as the one I bring you today!\" {n}Octavia giggles, but then grows serious.{/n} \"All right, since we're here, we may as well help.\""
+    },
+    {
+      "Key": "9a2c1262-5913-42c2-bcbe-4392620094df",
+      "Value": "\"A shepherd has come to the capital, begging that you personally resolve a delicate situation. You see, this shepherd has a favorite cow... please don't laugh! This is important to your subjects! Well, this cow likes to graze in his neighbor's yard. The neighbor was patient for a while, but then locked the cow in her barn, claiming: 'If I feed the cow, then the milk is mine!'\""
+    },
+    {
+      "Key": "a6288de7-b84a-4af9-acd9-9334cf704df4",
+      "Value": "\"The shepherd and his neighbor have been quarreling for two days, and it's nearly come to blows! Settle their argument for them – after all, you're the {mf|baron|baroness|king|queen}!\" {n}Octavia shakes her head.{/n} \"I have no idea, who I'd give the cow to. Both sides have reasonable arguments…\""
+    },
+    {
+      "Key": "e3b3b488-497b-462b-b559-5dd9ef446a3c",
+      "Value": "{n}Valerie keeps silent for a few moments, pursing her lips.{/n} \"I don't know where to begin... You see, your subjects, who until recently felt only suspicion towards you, are gradually changing their minds. What you've been able to do for the {mf|barony|barony|kingdom|kingdom} has apparently made them feel that they can bring you any problem they have – even the most trivial!\""
+    },
+    {
+      "Key": "085d67bc-234e-4277-81dd-a10ede366421",
+      "Value": "{n}Valerie sighs.{/n} \"The neighbor of a local shepherd has taken his cow. Apparently, the owner let it graze in her back yard, and now the woman refuses to return the animal. According to her, she tolerated the imposition long enough, and now feels the milk belongs to her. The shepherd, of course, is demanding the return of his property.\""
+    },
+    {
+      "Key": "8964d21d-b960-4e98-860d-127212497355",
+      "Value": "\"As I see it, the shepherd is right. The cow belongs to him, and it must be returned to the owner. Although, if you want to know my other opinion…\" {n}Valerie's face becomes more stern.{/n} \"This is a matter for the village chief or a village council, or something of the sort – not for the supreme ruler of the lands. This {mf|barony|barony|kingdom|kingdom} may not be vast, but that doesn't mean the peasants should bother you with such trifles.\""
+    },
+    {
+      "Key": "42e1e96f-b7d1-4fb4-98d3-ce2622ee36d2",
+      "Value": "\"{mf|Your Grace|Your Grace|Your Highness|Your Highness}! Your subjects now believe in you so sincerely that they even trust you with the fate of their cattle!\" {n}Lander laughs, amused at himself.{/n} \"Don't look at me like that, {mf|baron|baroness|King|Queen}, it's true! Not long ago, your peasants thought you were an impostor, no better than the Stag Lord – and now they're ready to hang all their troubles on your door!\""
+    },
+    {
+      "Key": "34c7d3a6-cade-496b-b3e8-165bb15a57dd",
+      "Value": "\"An aggrieved shepherd has come to court, demanding you deal with his complicated and very mysterious case! You see, the shepherd has a cow, which a neighbor has stolen from him. The woman, for her part, argues that the animal has been grazing in her back yard for months, so both the cow and all its milk belong to her. Oh, such brilliant village logic! Of course, the shepherd is livid and demands justice.\""
+    },
+    {
+      "Key": "ebe8b1c3-74d6-4f15-8ac4-6047134a3ed3",
+      "Value": "{n}Lander smiles cunningly.{/n} \"Here's what I say. You can judge such cases, if you wish to waste your time... or you can simply send some guards to confiscate the cow. You'll take a modest profit and teach these foolish peasants a lesson: they can solve their problems on their own, or lose whatever they're quarrelling over.\""
+    },
+    {
+      "Key": "4391d39e-9dc6-4f25-a3e9-ef4490e3b180",
+      "Value": "{n}Octavia nods in consent.{/n} \"The word of the {mf|baron|baroness|King|Queen} is law!\""
+    },
+    {
+      "Key": "bd86123f-4797-431a-9267-8223de39c864",
+      "Value": "{n}Valerie nods.{/n} \"Of course.\""
+    },
+    {
+      "Key": "883f372d-616c-4a39-8955-59d21b3a072b",
+      "Value": "{n}Lander cringes.{/n} \"A {mf|baron|baroness|king|queen}, deciding the fate of a cow... There is something wrong about this, forgive my audacity. Beware, they may start asking you which side of the bed they should get up on in the morning!\""
+    },
+    {
+      "Key": "503953b0-8009-460d-9597-6840447ff364",
+      "Value": "{n}Valerie raises her brow.{/n} \"Do you think that's fair? Just taking something that belongs to one person and giving it to another? I am sorry to hear that this is your judgment.\""
+    },
+    {
+      "Key": "7208e75f-c839-472b-b395-5294146fa91e",
+      "Value": "{n}Lander bows slightly.{/n} \"I serve {mf|Your Grace|Your Grace|Your Highness|Your Highness}!\""
+    },
+    {
+      "Key": "aef97d2c-ceb6-4b47-9abc-51eca468a838",
+      "Value": "{n}Octavia looks baffled.{/n} \"How so? Your subjects trust you with an important decision... and you just dismiss them? You can't do that!\""
+    },
+    {
+      "Key": "e2637738-835f-4e3d-b51e-428fe9537e7e",
+      "Value": "{n}A contented smile crosses Valerie's face.{/n} \"I shall do precisely as you ordered.\""
+    },
+    {
+      "Key": "af60c98a-ecac-4472-a620-54a376e20a2c",
+      "Value": "{n}Lander shrugs.{/n} \"Ah, and just when we were about to gain a dairy cow for the state property fund. But as you wish.\""
+    },
+    {
+      "Key": "f1ef61a2-0502-44d5-902c-15ad240b899a",
+      "Value": "\"I will give the cow to the neighbor. After all, without her clover there wouldn't be any milk!\""
+    },
+    {
+      "Key": "d0b9da5f-a7b1-4c07-8239-cab230ac66ba",
+      "Value": "\"I will give the cow to the shepherd. Now make sure such issues are resolved without my intervention from now on.\""
+    },
+    {
+      "Key": "252f0710-c43c-41d3-9c61-1408d2fc6934",
+      "Value": "\"I will take the cow... I mean, I will order it confiscated. We must seize the occasion, mustn't we?\""
+    }
+  ]
+}

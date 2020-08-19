@@ -1,0 +1,129 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "0cc70b11-5280-45ec-89fb-3d4b0a076129",
+      "Value": "{g|Economy10_3}[Choice effects]{/g} \"Invest our gold in trade points. I need loyal people abroad.\""
+    },
+    {
+      "Key": "0635cf8e-0c64-4ad4-9bd3-9d4aa011c113",
+      "Value": "{g|Economy10_2}[Choice effects]{/g} \"Pay tuition for our young people in foreign lands.\""
+    },
+    {
+      "Key": "fc8320da-8a84-40b6-8c0a-06ba4c768976",
+      "Value": "{g|Economy10_1}[Choice effects]{/g} \"Invite a weather mage.\""
+    },
+    {
+      "Key": "4a49556e-2a39-4c3b-8bb3-977b60c1a2d6",
+      "Value": "\"You managed to bring to order the village chiefs and local leaders, and found common ground with the smaller local governors. They considered themselves kings in their own right, but now they faithfully serve you. It's a victory.\""
+    },
+    {
+      "Key": "a6e1a321-50f6-4a44-8d8e-84c635ef424c",
+      "Value": "\"You managed to reform a hostile country government, once full of corruption and bribery.\""
+    },
+    {
+      "Key": "0a912e08-11b4-4988-b67d-ec1668496a6d",
+      "Value": "{n}Jubilost chuckles contentedly.{/n} \"Oh, I'm only joking. Although I do respect the way you dealt with this mess of a bureaucracy. I couldn't have done it any better. It's a good thing that you put an end to all those bureaucrats mistreating the townsfolk.\""
+    },
+    {
+      "Key": "5ad718d5-6d10-479d-b962-2d11db5be746",
+      "Value": "{n}Jubilost chuckles contentedly.{/n} \"I'm only joking, of course. Although there's much that commands respect. When you came to power, you didn't dismiss all the Stag Lord's larcenous servants and governors, but organized them into a working system. As a result, the country under your governance is now thriving.\""
+    },
+    {
+      "Key": "b8595642-7cd4-4906-a615-6de7fe3bab0d",
+      "Value": "\"It was your vision not to imprison everyone you captured... so to speak, red-handed. You realized that bending these people to your will would be far more beneficial!\""
+    },
+    {
+      "Key": "49248c4a-64ba-46f3-9006-521cd3c5ebfe",
+      "Value": "\"Your celebrated steady hand cleared this swamp of corrupt servants and kleptocrats. Now that there's nobody to plunder your treasury, it's full of gold!\""
+    },
+    {
+      "Key": "c2cdc425-c6d2-4e43-99ea-039e3d8c3f94",
+      "Value": "\"You're not as simple as you pretend to be. All right. I will make the necessary arrangements.\""
+    },
+    {
+      "Key": "90a116b4-9082-4a70-b34a-d561487c0f5d",
+      "Value": "\"That's a promising idea. I will organize everything.\""
+    },
+    {
+      "Key": "02c42aec-1f4f-46dc-b4dd-0a8a25aaf966",
+      "Value": "\"Great idea. Every gold coin we invest in this will multiply tenfold!\""
+    },
+    {
+      "Key": "ab5aea39-2696-406f-961c-878e37c20abb",
+      "Value": "\"Taking care of youth is certainly the way to go. Let them see the world!\""
+    },
+    {
+      "Key": "e1f96e82-7a17-4f73-a05c-a28e52f6a01c",
+      "Value": "\"I'm glad that my example has proven to you how valuable a well-rounded outlook can be.\""
+    },
+    {
+      "Key": "95d3713e-e952-4485-b277-b57ccfa3f321",
+      "Value": "\"Very wise. We shall need some foreign-trained servants.\""
+    },
+    {
+      "Key": "9089fd1a-cbcd-4d2e-a82f-7c0cf466a9b3",
+      "Value": "\"Very well. It's wise to protect your fields from an early autumn or a torrid summer. When I was a baron, I also tended first to my subjects' bellies.\""
+    },
+    {
+      "Key": "de0d69ed-19b7-47ca-834c-daf463ea5463",
+      "Value": "\"Perfect! Finally I'll have someone to talk to. I mean, academically.\""
+    },
+    {
+      "Key": "959d0621-93fd-4fcb-a0ab-22e0bbc732a7",
+      "Value": "\"Having a court mage of such skill is very prestigious indeed. And advantageous! I admire your vision!\""
+    },
+    {
+      "Key": "d4ebffd2-33be-49fa-8ff9-c7d3dd25e28c",
+      "Value": "\"Your Highness, I have come to express my boundless respect! I had no idea I would be a part of something this... grand. You were able to build a prosperous and wealthy state, where there was once just a broken, cursed, and godforsaken backwoods.\""
+    },
+    {
+      "Key": "4111a309-034c-4ae2-8d4c-1ca642596c22",
+      "Value": "\"Your efforts have brought in too much money. It's strange, I never expected I'd say these words. Anyway, you must decide where to invest it. I suggest you invite an experienced weather mage from {g|Absalom}Absalom{/g} to drive droughts and floods away from our fields. Another option is to send our talented youth abroad for study. Or, for that matter, we could open a couple of trade offices in neighboring countries and use them as cover for our agents.\""
+    },
+    {
+      "Key": "fee052e4-169a-438c-a734-0ec17354d26c",
+      "Value": "\"I know why you applied such effort, {name} – why you turned this wasteland into an advanced, wealthy, and prosperous state. And today you will hear the words you've been striving for all this time. I'm proud of you.\""
+    },
+    {
+      "Key": "cc2a7728-d362-4022-85e4-08e61888b062",
+      "Value": "\"Your Highness! As your humble servant, allow me to express my respect. You have turned a gloomy, hopeless land into a region of prosperity and opportunity. I hope you fully appreciate my modest contribution.\""
+    },
+    {
+      "Key": "d36c5bc2-7c59-4ce9-83ee-0878d8968094",
+      "Value": "\"We managed to fill the treasury. Overflow it, in fact. Literally. The abundance of gold in the royal treasury has caused our subjects to develop a nasty disease. Greed – causing an acute inflammation of envy. Take my advice. Invite a famous weather mage from {g|Absalom}Absalom{/g} to the capital. I've heard his lectures. He's a true harvest-saving expert. He will protect the crops against flood or drought. Another option is to send our gifted youth abroad for study. On the other hand, if we harbor less-than-noble intentions, we might set up a few trade offices in neighboring countries to serve as cover for your agents.\""
+    },
+    {
+      "Key": "9cfc1dd2-2d3c-4bfa-8601-20102d8d0dbb",
+      "Value": "\"I wouldn't seal away the kingdom's coffers. You should rather invest the money. Consider inviting a famous weather mage from {g|Absalom}Absalom{/g}. His services are expensive, but he would protect our harvests from droughts and floods. Another promising project would be to send our youth abroad for study. We could also open several trade offices in the neighboring countries. As cover for our agents, of course.\""
+    },
+    {
+      "Key": "d2ba68e5-a830-4cb5-a5c1-9e1399d00845",
+      "Value": "\"Tell me, how does a gardener feel, when he looks at flowers blooming in a garden that he's grown in an arid desert? How does an alchemist feel when the gray lead in his vial turns into shining gold? You received this land as a wild, uninhabited swamp – and now the richest merchants in the land vie for the right to do business here! I can only be proud of being a humble part of this miracle you've made happen.\""
+    },
+    {
+      "Key": "72084fe7-1a16-4e46-8375-b917bc71d525",
+      "Value": "\"Your servants are loyal to you. Each of them remembers how much they owe you, how your generosity raised them up – and how your disfavor could turn them to dust. They didn't suddenly transform into honest people, but you've nevertheless managed to build a sturdy house from gnarled boards!\""
+    },
+    {
+      "Key": "06640614-31da-4cb4-84f5-60f358455719",
+      "Value": "\"Like a well-trained dog who wouldn't dare to look at the meat in front of it without its master's order, your servants have all but forgotten what bribery and embezzlement are. No longer do they serve their own purses, but only the glory and prosperity of the state.\""
+    },
+    {
+      "Key": "ad05f237-abc8-46f9-a1a6-9e83c58b71ce",
+      "Value": "\"Of course, there is no such thing as excess of money, but we do have some idle funds. It would be unwise to let them lie fallow in your coffers! We should spend the money to increase the profits and glory of the nation. I suggest we invite a famous wizard from {g|Absalom}Absalom{/g} who could command the weather. Such a learned man would not only adorn your court with his presence, but ease the lives of the peasants who suffer from droughts and floods. We might also invest in the younger generation, and pay the tuition fees of promising young men and women at foreign universities. We could even open trade missions in neighboring countries – which could make an excellent cover for our spies!\""
+    },
+    {
+      "Key": "d5af4902-a6aa-43cf-959b-a6ae0eb6f463",
+      "Value": "\"Your decision is wise as usual! What could be more prestigious than masters of arcane arts at court?\""
+    },
+    {
+      "Key": "12d65be2-5e34-4532-9122-3b60d93f2d11",
+      "Value": "\"Right, we need to think about the future. The generation that will inherit everything we've created must be ready to expand on our achievements, not waste them.\""
+    },
+    {
+      "Key": "007d81ff-2edf-4aa0-8ed8-85c89270bab2",
+      "Value": "\"This decision will not bring us glory, but its benefit will be great. When our envious neighbors start whispering and plotting against us, we'll know right away – and be ready to dismantle their plots!\""
+    }
+  ]
+}

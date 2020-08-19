@@ -1,0 +1,137 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "e0175f0b-b0e9-4d32-bbfc-3483a90eeec6",
+      "Value": "\"The decision is yours.\""
+    },
+    {
+      "Key": "99d46221-e8e4-4f4f-a032-829e28603d8c",
+      "Value": "{g|Stability4_2}[Choice effects]{/g} \"Let us follow the letter of the law. The miscreant shall be fined.\""
+    },
+    {
+      "Key": "b27982be-a947-4df1-be49-55d330ece6f6",
+      "Value": "{g|Stability4_1}[Choice effects]{/g} \"This is more than simple deception. Throw the villain in jail.\""
+    },
+    {
+      "Key": "302dfc01-39c8-4ffe-bb5a-339bbd477158",
+      "Value": "{g|Stability4_3}[Choice effects]{/g} \"Execute the fool.\""
+    },
+    {
+      "Key": "f78af692-4d37-4b02-9329-76472f6c085c",
+      "Value": "{g|Stability4_4}[Choice effects]{/g} [Gain 4000 gold] \"We agree. The search for the merchant's daughter shall be the guards' top priority.\""
+    },
+    {
+      "Key": "876afc68-80a2-497c-a63f-3eb05c525cd6",
+      "Value": "\"The guard already has their orders. This case shall be dealt with like any other.\""
+    },
+    {
+      "Key": "da964079-f6c4-4a0f-8b88-07af912c4330",
+      "Value": "\"You can decide this yourself.\""
+    },
+    {
+      "Key": "be77a732-4ca3-45d1-8884-db549cc5ccc8",
+      "Value": "{n}Ekun's face is grim.{/n} \"Caught a swindler. He tried to pour a love potion into a merchant daughter's drink. Her family is well-known, and the case is unusual... The people are watching, and his guilt is already proven. But the judges don't know how to punish him. You must decide.\""
+    },
+    {
+      "Key": "e3dadecb-517c-4a79-93c3-97525f765080",
+      "Value": "\"A minor court case has been the talk of the capital, Your {mf|Grace|Grace|Highness|Highness}. A swindler was caught trying to slip a love potion to the daughter of an important merchant. The court has found him guilty – but decreed that since the situation is so unusual, only you could pronounce a just sentence.\""
+    },
+    {
+      "Key": "b65113bd-42be-4fa9-870a-a04bff71d305",
+      "Value": "{n}Regongar's footsteps boom throughout the throne room.{/n} \"The damn swindlers, {name}! They're like lice – no matter how many you catch, tomorrow there will be even more! My boys caught another scoundrel a few days back. This one was trying to slip a love potion into the daughter of a local moneybag.\""
+    },
+    {
+      "Key": "314183de-4f3d-4d89-a8a0-5c4ff7038618",
+      "Value": "\"The usual punishment is a fine. But in this case... too soft. My suggestion – a prison sentence.\""
+    },
+    {
+      "Key": "11e49038-1af9-4dde-96bc-e53db9be01c2",
+      "Value": "\"The established punishment for fraud in the {mf|barony|barony|kingdom|kingdom} is a fine. To my mind, this case does not warrant a departure from established procedure. The case is not so exceptional as the locals imagine.\""
+    },
+    {
+      "Key": "6dd4aaba-b5f6-48c5-bd5f-80f8026be61d",
+      "Value": "{n}Regongar chuckles.{/n} \"Anyhow, we caught the poor sod, the court found him guilty, and all we need from you is a sentence. His plan was devious and cold, and everybody in the capital is watching this case. Unless you show the thieving scum around here who's boss, they'll just keep at it. I suggest a public execution. Love can make you lose your head, ha ha hmmm.\""
+    },
+    {
+      "Key": "d7ebdafa-6357-44cd-a369-50220817d8a6",
+      "Value": "\"The daughter of a wealthy merchant has gone missing. Stolen, most likely. Her father wants us to send out our best to search for her.\" {n}After a moment, Ekun adds:{/n} \"He's hinted that he'll reward us for our trouble.\""
+    },
+    {
+      "Key": "a975b857-a819-4c3e-a455-967c33447fd7",
+      "Value": "\"Rumors are flying around the capital, Your {mf|Grace|Grace|Highness|Highness}. The daughter of a well-known merchant has gone missing. Some say that she might have been kidnapped. Her father is calling on us to send every man and woman we have to go search for her – and promises that he will generously repay his debt of gratitude.\""
+    },
+    {
+      "Key": "ee0f8a78-a371-4a3d-a163-ec6923d924d1",
+      "Value": "\"Another day, another debacle, {name}! Someone's whisked away the daughter of a local moneybag. The trader swears 'he'll make us all rich' if we send every guard in town out in search of his precious little girl.\""
+    },
+    {
+      "Key": "4e3dde2a-adc0-45ef-9487-f7e274f15aa4",
+      "Value": "\"We should agree to help. We'll have to deal with the situation regardless. If we agree, we might also fill our coffers.\""
+    },
+    {
+      "Key": "5fd3001d-8143-4f56-930c-dbf2e208f221",
+      "Value": "\"There are several reasons we should accept his offer. I've learned that he has friends in high places in the trade guild…\""
+    },
+    {
+      "Key": "f15447fc-3413-4980-b5d3-0b98b5582310",
+      "Value": "\"To tell you the truth, it wouldn't surprise me if she ran off herself. As for the merchant – what's there to talk about? What should we care? Seems like the idiot just forgot his place. 'He'll make us all rich'?! Who the hell does he think he is?! We spend more on feasts in a week than he earns in a year!\""
+    },
+    {
+      "Key": "1ffcd18b-32b7-4fb3-bdf1-d6147823222f",
+      "Value": "{n}Ekun slowly nods.{/n} \"I understand. It will be done.\""
+    },
+    {
+      "Key": "c32bd484-9dbd-4774-8852-d70343d7a354",
+      "Value": "\"Wise choice.\""
+    },
+    {
+      "Key": "23b03743-0386-40d4-92b5-ac6d113a2383",
+      "Value": "\"Then I'll send him to prison. I'm glad that you trust me, {name}.\""
+    },
+    {
+      "Key": "57ae31af-11ba-46b9-bd20-4ceb33c822c7",
+      "Value": "\"In that case, the criminal shall be fined and set free.\""
+    },
+    {
+      "Key": "ceb42bb9-710b-4b15-ac9b-e74c10fc60ca",
+      "Value": "\"Good thinking. Why would you even need me otherwise? Hah. Long story short, we're hanging the bastard.\""
+    },
+    {
+      "Key": "8c169be9-c482-4bc5-907e-a811df7331d2",
+      "Value": "\"Nice! I'll get right to it.\""
+    },
+    {
+      "Key": "c8b95385-d117-4a55-b42d-e5b598124730",
+      "Value": "\"That should do it, I guess. Your wish is my command, ha ha hmmm.\""
+    },
+    {
+      "Key": "fdfeb9d0-5980-4bce-bb44-06cde01a853d",
+      "Value": "\"I'll inform the court, Your {mf|Grace|Grace|Highness|Highness}.\""
+    },
+    {
+      "Key": "623c30a9-9a51-4af4-b1e3-90543c1fa817",
+      "Value": "{n}Ekun shortly nods.{/n}"
+    },
+    {
+      "Key": "90d77a72-da66-41cb-afd3-1776acccdddc",
+      "Value": "\"It shall be done, Your {mf|Grace|Grace|Highness|Highness}.\" {n}Kesten bows, holding his hand against his chest.{/n}"
+    },
+    {
+      "Key": "34551231-5ef6-42c2-a85f-616ecfd0b021",
+      "Value": "\"I'll order the guard to focus on the search.\""
+    },
+    {
+      "Key": "62a3d569-c677-4862-9e3e-2058625f26b4",
+      "Value": "\"As you command, Your {mf|Grace|Grace|Highness|Highness}. I will tell the merchant that his case is in good hands.\""
+    },
+    {
+      "Key": "23019a59-3c82-449b-a47b-2252742fca69",
+      "Value": "\"Nice. Can't wait to tell the pig where he can stuff his gold…\""
+    },
+    {
+      "Key": "da3cef73-9f4c-4013-b9e1-25c752d128df",
+      "Value": "\"Not sure why he went to all the trouble though. The dowry is all right, of course. But the girl herself… Let's just say I'd rather be earning my bread crawling around stinking dungeons through the rat droppings.\""
+    }
+  ]
+}

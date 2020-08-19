@@ -1,0 +1,877 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "700bcb85-c624-49ea-963d-b012f97cb128",
+      "Value": "\"Tell me about yourself.\""
+    },
+    {
+      "Key": "29b5a77e-8014-482d-af51-303def1b23a7",
+      "Value": "\"What can you tell me of Sarenrae?\""
+    },
+    {
+      "Key": "e5f0a55e-117a-437a-94ca-b77932994a23",
+      "Value": "\"What brought you to these lands?\""
+    },
+    {
+      "Key": "753e838d-f885-430c-82fa-3cbb919be8c9",
+      "Value": "\"Tell me about this battle you mentioned. What was the act of valor of Sarenrae?\""
+    },
+    {
+      "Key": "4216f7e1-8b4e-4a63-bec7-e35ab10e9a75",
+      "Value": "\"What are your duties as a follower of Sarenrae?\""
+    },
+    {
+      "Key": "d10a300a-da70-49c9-b0e0-c9955e8c52ea",
+      "Value": "\"Are there any undeserving of mercy?\""
+    },
+    {
+      "Key": "a2ed08cb-bd8e-4db7-b1d6-2404751116c3",
+      "Value": "\"I do not agree. There are crimes that cannot go unpunished.\""
+    },
+    {
+      "Key": "7c351b16-4d31-4529-8c24-e8d621baf60b",
+      "Value": "\"There is good in everyone — one just has to look deep enough. Even those who feel lost, or broken — or unrepentant have light in their souls, and it's possible to help them see it.\""
+    },
+    {
+      "Key": "d27f9814-5eb8-46f4-bb45-d3aa21e4ace6",
+      "Value": "\"I like this idea, even though following through with it demands a lot of spiritual strength.\""
+    },
+    {
+      "Key": "af073c99-2af5-47c8-ba2e-63ff209f5dfe",
+      "Value": "\"An abstract theory — and little to do with real life.\""
+    },
+    {
+      "Key": "37c5ecce-085a-4288-87f0-d85ae99d02d3",
+      "Value": "\"It sounds stupid and pathetic.\""
+    },
+    {
+      "Key": "fc0712f8-a894-4991-b99f-36b501279f32",
+      "Value": "\"You make it sound like the followers of Sarenrae will try to find good even in a bandit with a knife to their throat.\""
+    },
+    {
+      "Key": "638777d7-763c-4074-9d2d-2fc1e34c2cf8",
+      "Value": "\"I have heard enough of Sarenrae.\""
+    },
+    {
+      "Key": "35cbf1ba-6dfb-4feb-ab3a-1d0cd692fb5d",
+      "Value": "\"What curses are you talking about?\""
+    },
+    {
+      "Key": "6fb63e16-962f-4ec1-8a50-c73f7eb52d5f",
+      "Value": "\"Why did Jhod see you in his premonition?\""
+    },
+    {
+      "Key": "f9a055fa-c9e4-4d2c-b1b4-5f3b986c7c1d",
+      "Value": "\"You've come a great distance, indeed.\""
+    },
+    {
+      "Key": "65b9f449-ba41-4df2-992a-3de4db09796f",
+      "Value": "\"You have spent much time here. What do you think the future holds for these lands?\""
+    },
+    {
+      "Key": "a098dbe5-6e41-4a69-9012-9595c151796f",
+      "Value": "\"Doesn't being outside the temple make you uncomfortable?\""
+    },
+    {
+      "Key": "0613465c-64bd-4d83-9749-68c527c6a621",
+      "Value": "\"Let's change the subject.\""
+    },
+    {
+      "Key": "6ed8d7c2-6ea9-499a-9a43-dfb1b95c0666",
+      "Value": "\"Do you enjoy traveling?\""
+    },
+    {
+      "Key": "449748b0-e932-402b-85ff-ead8e965abc6",
+      "Value": "\"Never before have I met a person so noble in spirit. Sarenrae's blessing was upon me the day you came to my aid.\""
+    },
+    {
+      "Key": "20d2e58d-79e2-49bc-ac3d-2a2600fddbc3",
+      "Value": "\"How is Sarenrae worshipped?\""
+    },
+    {
+      "Key": "8899164e-fea7-4bcf-9844-abb1054cf526",
+      "Value": "\"Do you know where you're going next?\""
+    },
+    {
+      "Key": "eba8bb01-20e5-40fe-8b89-804b8d5eb039",
+      "Value": "\"To the contrary — I hope you will stay with me for as long as you can. The thought of you leaving... is not a welcome one.\""
+    },
+    {
+      "Key": "5defc4fa-bdc6-48f0-8593-7bdbb107d650",
+      "Value": "\"I didn't mean to alarm you, that was not my intent.\""
+    },
+    {
+      "Key": "2582e90e-69ab-4e72-8e01-ea387732b498",
+      "Value": "\"Of course not! You are my comrade in arms. I trust you completely.\""
+    },
+    {
+      "Key": "f17d79ab-9585-4fcb-afa5-06c9e74517fd",
+      "Value": "\"I feel awkward in your presence.\""
+    },
+    {
+      "Key": "76735c88-c4c2-4ef5-9306-e4681d7dac20",
+      "Value": "\"What are the temples of Sarenrae like?\""
+    },
+    {
+      "Key": "02bde3f6-b462-4e69-b887-ce15aad532ac",
+      "Value": "\"Tell me of the Everlight Oasis.\""
+    },
+    {
+      "Key": "38299db4-1e71-467d-894f-90f8742aff37",
+      "Value": "\"What is the Sunwrought Festival?\""
+    },
+    {
+      "Key": "64780526-3fac-4981-ae9a-5778773928bc",
+      "Value": "\"That is all I wanted to know about this.\""
+    },
+    {
+      "Key": "d51d042c-4cdc-482d-a910-5fdb4abf7274",
+      "Value": "\"I should go.\""
+    },
+    {
+      "Key": "c7ea6058-5295-4c89-9add-b4f097b2eda4",
+      "Value": "\"Forgive me, but from your manner and appearance you don't strike me as a Keleshite.\""
+    },
+    {
+      "Key": "3bbe9e67-b2a4-4d33-b7e4-2414f8cdd90e",
+      "Value": "\"Let's discuss something else.\""
+    },
+    {
+      "Key": "56d9e022-ff9e-4af1-a1c5-f3b27570e54c",
+      "Value": "\"You've mentioned Gormuz… What happened to it?\""
+    },
+    {
+      "Key": "7b0d9a0a-1711-4209-b64b-4592655a6556",
+      "Value": "\"The more I hear, the more it seems your Sarenrae isn't worth a damn.\""
+    },
+    {
+      "Key": "1487293f-8746-46b8-9f95-52d23433a162",
+      "Value": "\"Forgive me, I overreacted. I have nothing against your faith.\""
+    },
+    {
+      "Key": "3bf249d8-3d77-41a2-b84f-14cf25c74570",
+      "Value": "\"Compassion, mercy… all this wailing in the name of good is sickening.\""
+    },
+    {
+      "Key": "ce2de0f6-cb3a-4a48-904d-a2806b6ae8db",
+      "Value": "\"Your religion is foreign to me, Tristian. Perhaps I shouldn't have put it the way I did, but Sarenrae's ways are much different than my own.\""
+    },
+    {
+      "Key": "559f6f6c-92b5-41d2-ad76-c2a77b369882",
+      "Value": "\"Leave. I don't want to ever see you again.\""
+    },
+    {
+      "Key": "9512fb55-5faa-4bd3-b6c4-fbf6af42cc0b",
+      "Value": "\"I'd like to hear about the history of your faith.\""
+    },
+    {
+      "Key": "6cdb8c03-35e0-404a-9d30-8cafc979826f",
+      "Value": "\"What are the teachings of Sarenrae?\""
+    },
+    {
+      "Key": "a6f0a306-edf5-49b4-bfb0-9ef353b3f397",
+      "Value": "\"How did Sarenrae come to be?\""
+    },
+    {
+      "Key": "f4e53f97-ae43-46ff-97bf-b7caded61136",
+      "Value": "\"Enough. I want to ask about something else.\""
+    },
+    {
+      "Key": "34cfa9bf-6ab9-4697-9695-2b60d19e86ff",
+      "Value": "\"I'd like to ask about something else.\""
+    },
+    {
+      "Key": "9629e715-589c-45b2-91fd-8e0b933f68ae",
+      "Value": "\"Have wars ever been waged in Sarenrae's name?\""
+    },
+    {
+      "Key": "43250c45-4fa5-40fa-bc26-ff522d90061b",
+      "Value": "\"Tell me about the Pit of Gormuz.\""
+    },
+    {
+      "Key": "9261fb09-9af0-4876-8a21-d5123696371c",
+      "Value": "\"I've made my decision. Farewell, Tristian.\""
+    },
+    {
+      "Key": "6aadb14e-e4bc-4ab6-88fa-a421e5cbf850",
+      "Value": "\"Fine, you can stay.\""
+    },
+    {
+      "Key": "575343b7-9d3f-4b9a-a446-a62b62853f08",
+      "Value": "\"How did you get to Golarion?\""
+    },
+    {
+      "Key": "c732f904-17ba-440c-9fd6-b4d38f054cd7",
+      "Value": "\"I've seen your shining wings on several occasions…\""
+    },
+    {
+      "Key": "047dd7da-2b53-4fda-ac7c-8f22d3f1f09c",
+      "Value": "\"Why didn't you tell me who you were right away?\""
+    },
+    {
+      "Key": "a6ff4d4d-cf6d-4db5-bbce-7790074d9942",
+      "Value": "\"That's enough. Let's change the subject.\""
+    },
+    {
+      "Key": "d078faa1-148e-4657-b459-5e9eb1acd0ce",
+      "Value": "\"How do entities like you come into this world?\""
+    },
+    {
+      "Key": "4be9e861-dce5-46ad-9cb6-c3ab43e2d946",
+      "Value": "\"What did Nyrissa do to make you serve her?\""
+    },
+    {
+      "Key": "f509c96f-f2ff-4140-814c-ffcba450a283",
+      "Value": "\"Do you know what she's looking for? Why does she make all these plots and schemes?\""
+    },
+    {
+      "Key": "a4e7997a-1ad0-4c0b-8007-c215cb2869ec",
+      "Value": "\"Did you like to travel amongst the worlds?\""
+    },
+    {
+      "Key": "df46a516-082b-405e-a240-cc21ae8e8039",
+      "Value": "\"Will you be able to restore your eyesight once?\""
+    },
+    {
+      "Key": "9fb2e474-a12b-429d-9813-8352a003c672",
+      "Value": "\"Enough about that.\""
+    },
+    {
+      "Key": "f26d367b-e8d7-4bec-85d1-87b4d5c3929c",
+      "Value": "\"All this Nyrissa story… How did she capture you?\""
+    },
+    {
+      "Key": "f9209278-8174-402b-b251-024e56a83227",
+      "Value": "\"Have you ever seen Sarenrae by your own eyes?\""
+    },
+    {
+      "Key": "aa5fda94-a871-4b8c-ad0f-1aab2c468fb6",
+      "Value": "\"How do you get by without your eyesight?\""
+    },
+    {
+      "Key": "ffb8db67-d37e-4d88-8663-54ba6306510c",
+      "Value": "\"You mentioned Nyrissa sending a vision to Jhod.\""
+    },
+    {
+      "Key": "61a5b3fd-e554-41ea-838c-04f266dd1dec",
+      "Value": "\"Are you ready to go to the meeting of the Kingdom of the Cleansed?\""
+    },
+    {
+      "Key": "b25e6ec2-777f-43b2-a285-beea0f5a3d2b",
+      "Value": "\"Have you heard anything about the Kingdom of the Cleansed or the First Faithful?\""
+    },
+    {
+      "Key": "e91db75e-f250-4d8f-8023-73ccd03239e3",
+      "Value": "\"Don't you regret your decision? Sarenrae was ready to forgive you...\""
+    },
+    {
+      "Key": "5430e845-3227-4c23-8e60-cb5b88ca8ff2",
+      "Value": "\"Don't you regret still being mortal?\""
+    },
+    {
+      "Key": "aca713db-f17a-4828-b63c-bd6a4a43def0",
+      "Value": "\"I'm glad you stayed with us. We will need all the help we can get to fight Nyrissa.\""
+    },
+    {
+      "Key": "39489e86-220a-4d1c-ba16-a4b49bf50006",
+      "Value": "\"We wouldn't have worked out anyway.\""
+    },
+    {
+      "Key": "40adf1c1-ad5a-4780-b371-8990493cad68",
+      "Value": "\"Are you… you're not upset?\""
+    },
+    {
+      "Key": "364a14aa-bfa6-4a86-ba0a-45bb5e38042a",
+      "Value": "\"Thank you.\""
+    },
+    {
+      "Key": "7beaa7f3-5fe2-4298-9241-0ab53cec4bac",
+      "Value": "\"We need to end our relationship.\""
+    },
+    {
+      "Key": "f6e56458-033c-42ec-883f-c586d92f1afd",
+      "Value": "\"I want to be alone with you.\""
+    },
+    {
+      "Key": "d2de5fe4-44d6-4ae9-b79e-1f96e6691f0d",
+      "Value": "\"Don't argue. I don't want to be with you any more.\""
+    },
+    {
+      "Key": "f0b90483-421d-4b0c-ae82-12d25358cf46",
+      "Value": "\"Oh. Sorry, slip of the tongue.\""
+    },
+    {
+      "Key": "feda2156-3576-4887-bd0e-a49e69507fd6",
+      "Value": "\"You called yourself the Chosen of Sarenrae. What did you mean by that?\""
+    },
+    {
+      "Key": "bb4e3265-74d7-4d1c-882f-715b14d4e7c7",
+      "Value": "\"So, what happened to you calling yourself the Chosen of Sarenrae?\""
+    },
+    {
+      "Key": "71c9c3ba-08be-4ea8-b7a4-53de0e53da94",
+      "Value": "{n}Tristian gives you a friendly nod.{/n} \"How may I help you, {name}?\""
+    },
+    {
+      "Key": "658fa847-5da1-42fc-a9a5-2ba410455931",
+      "Value": "\"About myself? I wouldn't know where to begin.\" {n}Tristian pauses for a moment in thought.{/n} \"You know my name, my faith — I follow {g|Sarenrae}Sarenrae{/g}, and I have traveled from the {g|Kelesh}Padishah Empire of Kelesh{/g} to here… what else do you want to know?\""
+    },
+    {
+      "Key": "101ce1be-effb-45a1-9159-39343b4a851f",
+      "Value": "\"I've heard rumors — they say these lands are cursed, and the curses are growing stronger… as if something is granting them power. I could not ignore such rumors.\""
+    },
+    {
+      "Key": "97eeac43-5af1-43ff-b27e-121415a1b7de",
+      "Value": "\"{g|Sarenrae}Sarenrae{/g} is the goddess of temperance and patience. Solarflame goddess teaches us compassion for the weary and mercy to those who go astray. What would you like to know of her?\""
+    },
+    {
+      "Key": "0a093778-8382-4d67-bd98-710604583aa0",
+      "Value": "\"My goddess strives to see the best, even in the dark gods — she never abandons the hope of their redemption. The priests of {g|Sarenrae}Sarenrae{/g} follow her teachings — akin to the Healing Light herself, who emanates warmth and heeds the call of those in need, we aid the suffering in body and spirit throughout {g|Golarion}Golarion{/g}.\""
+    },
+    {
+      "Key": "3c6e84bc-26fc-41fe-8e2a-1e2f9fa4f9b9",
+      "Value": "\"Her greatest moment of glory is her battle against the monstrous {g|Rovagug}Rovagug{/g}, who threatened to destroy {g|Golarion}Golarion{/g}. {g|Sarenrae}Sarenrae{/g} delivered the strike that staggered the horrendous creature and allowed her allies to shackle it. Once the Rough Beast was captured, the goddess split the earth, and the gods threw the behemoth into the depths. Once it was done, the goddess sealed the pit, and commanded her faithful to stay away from the scar that was left in the land.\""
+    },
+    {
+      "Key": "72bf1409-9521-40e9-85db-1b5b5ce53500",
+      "Value": "\"These are difficult questions you ask, {name}, questions wise men have debated for centuries. Does a being that has been tainted by evil to its very roots, that rejects its own salvation, still deserve compassion? Can those compelled to do evil by others still seek forgiveness? There is no easy answers on these issues among {g|Sarenrae}Sarenrae's{/g} followers.\""
+    },
+    {
+      "Key": "c43236a7-7531-4464-bcb4-2ac1ceeb4da1",
+      "Value": "{n}Suddenly, Tristian's face lights up.{/n} \"However, you've already chosen your side in this eternal debate. Your actions show that any creature, no matter how twisted or how far astray, can be led to enlightenment. It is in your lands that a settlement has sprouted to give shelter to those that used to leave nothing but destruction in their wake!\""
+    },
+    {
+      "Key": "5d3fe3bd-ec46-44c9-9a0d-61cb9d51f4f9",
+      "Value": "\"As for me… I believe that every soul carries the potential for goodness within. No matter the crime, the guilty may find forgiveness if they repent and cast off the evil that led to the deed. I believe this with all my heart, {name}.\""
+    },
+    {
+      "Key": "44013915-0b8f-41b2-90ee-8fde186177f5",
+      "Value": "{n}Tristian gives a perplexed laugh.{/n} \"Well, I wouldn't force anyone against their will… although, if it served a good purpose…\" {n}Tristian falls silent contemplating the issue, but almost immediately he shakes his head.{/n} \"No, I am not ready to make such a decision yet.\""
+    },
+    {
+      "Key": "5aaa509b-1b52-4b2b-914b-6763f4a63d61",
+      "Value": "{n}Tristian folds his arms.{/n} \"What is of greater importance — a living soul or the laws of nations? One's salvation or observance of rules? Know that I hold you in high esteem, but it is difficult for me to agree with you on this issue.\""
+    },
+    {
+      "Key": "3a482dd1-5e98-4d37-bacb-b2e2a1f7591b",
+      "Value": "\"It does, yet I think you are equal to the task, {name}. No, I am certain of it. And one needn't worship {g|Sarenrae}Sarenrae{/g} to practice mercy — all are capable of it.\""
+    },
+    {
+      "Key": "530c027c-21d3-4cd3-93b4-85dd33b4d3f9",
+      "Value": "{n}Tristian smiles faintly.{/n} \"I cannot argue with this, and nevertheless… I'll keep to my opinion.\""
+    },
+    {
+      "Key": "e8eccb8c-33b3-4126-a66f-d09282bc3f4a",
+      "Value": "{n}Tristian's shoulders sag, and he averts his eyes.{/n} \"It is a pity our views are so different. I hope it will not stand in the way of our shared goals.\""
+    },
+    {
+      "Key": "b5e26500-f134-4d55-b9d8-50eda2e3c218",
+      "Value": "\"If you ever wish to know more about the goddess, just ask.\""
+    },
+    {
+      "Key": "7f1d471e-eda6-4048-8d0a-18195472a359",
+      "Value": "\"Do not mistake compassion for weakness, {name}. One hand of {g|Sarenrae}Sarenrae{/g} is shrouded in healing light — the other holds a scimitar. Following their goddess, the priests learn to wield this weapon starting in childhood — and they do not hesitate to use it if a dispute cannot be settled peacefully.\""
+    },
+    {
+      "Key": "6f6e197d-b39f-4292-b61c-e1eb0cc3ae6a",
+      "Value": "\"The priests of {g|Sarenrae}Sarenrae{/g} are willing to help anyone, no matter the faith of the one in need. Each plea must be heard. Every misfortune deserves compassion — be it a peasant seeking a blessing for the harvest, or a murderer seeking repentance the night before their execution.\""
+    },
+    {
+      "Key": "5c04414c-f684-4e9f-a13f-7e2214b0a0fd",
+      "Value": "\"Sometimes the mercy of {g|Sarenrae}solarflame goddess{/g} is the last thing that can save one's soul from ruin. We have no right to withhold it from the truly repentant.\""
+    },
+    {
+      "Key": "3e60ee7d-cf33-4ebf-b650-72dcf0754cc7",
+      "Value": "{n}Tristian falls silent for a few moments.{/n} \"Alas, mortal beings are imperfect. Not even the most faithful among us can always follow their deity's commandments, even when such commandments are meant to save the world and their followers. I, for one, pray the goddess is never again as furious as she was with {g|Gormuz}Gormuz{/g}.\""
+    },
+    {
+      "Key": "bd2ca3a8-7a87-41eb-93ae-2645f2b644dd",
+      "Value": "\"{g|Sarenrae}Sarenrae{/g} preaches mercy. Yet her compassion is not infinite. We give a second chance to all who ask. But if they reject it, if they persist in their sins, they will face the goddess's retribution.\""
+    },
+    {
+      "Key": "dd6b3f6b-6ec5-4b79-a23b-b47b223556e6",
+      "Value": "{n}Tristian cocks his head to the side in wonder.{/n} \"Do you not see? Every word uttered in the heat of an argument turns into a prophecy here, just waiting to fulfill itself. And if it were only for the people — the land itself is seething with curses so ancient their origins are impossible to trace!\""
+    },
+    {
+      "Key": "0d080f95-1145-4138-bf69-6be204f1b0b3",
+      "Value": "\"Take the abandoned temple of {g|Erastil}Erastil{/g} where we met. What happened to it? What force compelled the priests to leave such a magnificent temple behind to the whims of nature? Will we ever know?\""
+    },
+    {
+      "Key": "91205a8a-d294-4fe5-9b67-639a1c71717c",
+      "Value": "\"{g|Sarenrae}Sarenrae{/g} sees all the good gods and goddesses as her allies. Many have fought alongside the goddess against the menace of {g|Rovagug}Rovagug{/g}, {g|Erastil}Erastil{/g} among them.\""
+    },
+    {
+      "Key": "6580126d-dec5-4885-bf71-c6781992530e",
+      "Value": "\"By offering my prayer to {g|Sarenrae}Sarenrae{/g}, I let her know of my misfortune in the {g|Temple of the Elk}Temple of the Elk{/g}. The merciful goddess did not ignore my plea — but whom could have she asked for aid than {g|Erastil}Erastil{/g}, whose faith is strong in these lands?\""
+    },
+    {
+      "Key": "9fee62bf-804d-466c-986c-4bc6e66385a9",
+      "Value": "\"I myself was nearly slain by beasts. Fortunately, you came along, following Jhod, and saved me. I owe you a great debt.\""
+    },
+    {
+      "Key": "31a0c192-9a2b-4b4d-b780-f3618b76ced3",
+      "Value": "{n}Tristian laughs heartily.{/n} \"When you look at it that way, then yes! But please, do not think that I came all the way from {g|Kelesh}Kelesh{/g} because of mere curiosity. I was wandering long before that. It is a custom of our faith — the farther our paths take us, the more people we may help.\""
+    },
+    {
+      "Key": "4f134527-6995-4698-b93c-7dd93f37ee28",
+      "Value": "\"{g|Erastil}Erastil{/g} had sent Jhod a sign, and you came just in time to rescue me.\" {n}Tristian sighs.{/n} \"To tell the truth, I was certain my journey was at an end, and those creatures were to be the death of me.\""
+    },
+    {
+      "Key": "93e10003-388c-4e6e-9cac-31db377057ca",
+      "Value": "\"These are cruel lands. As I came here, I bore witness to much pain and suffering, but I have seen equal kindness among those seeking to protect themselves and their loved ones. The people of the {g|Stolen Lands}Stolen Lands{/g} are resolute and true to themselves — I admire their strength.\""
+    },
+    {
+      "Key": "c3a69695-c404-414a-98e9-92b3cbff5a0f",
+      "Value": "{n}Tristian shakes his head.{/n} \"There are many ways to honor one's gods, {name}. It is true shrines play a role in the lives of many of the faithful, but even more find other ways to serve {g|Sarenrae}Sarenrae{/g}.\""
+    },
+    {
+      "Key": "d939d092-e2e3-4dff-b5af-042b3565b3ec",
+      "Value": "\"{g|Sarenrae}The Healing Light{/g} values good deeds above all else. I cannot stand by and watch evil claim others.\"\n{n}Tristian thinks for a moment, then raises an eyebrow.{/n} \"Perhaps that is another reason why I chose to go on my pilgrimage, leaving behind the temples of {g|Kelesh}Kelesh{/g}.\""
+    },
+    {
+      "Key": "b8c58700-11f2-49ab-8b69-fe2cb5a04ee7",
+      "Value": "{n}Tristian touches his chest.{/n} \"My faith is in my heart and in my hands. Millions honor {g|Sarenrae}Sarenrae{/g} in her temples, and my soul is filled with joy when I think of their devotion to the goddess. Nevertheless, my path is a different one.\""
+    },
+    {
+      "Key": "d4fde48c-2926-4991-9338-1a7974daa3bc",
+      "Value": "\"What would you like to discuss?\""
+    },
+    {
+      "Key": "50f40f36-9289-4891-a6a4-aee2d8ef198b",
+      "Value": "{n}The priest frowns and shakes his head.{/n}\n\"I cannot, {name}. If my presence troubles you, so be it — I shall surrender my place in your party to another. But I insist on staying and continuing my research with Jhod. Something wicked is stirring in these lands, and it is my duty to find out what it is.\""
+    },
+    {
+      "Key": "99099a2f-9eb2-419b-b2f6-727141001261",
+      "Value": "{n}Tristian nods, his eyes light up.{/n} \"Oh, yes! No library and no archive, however large, would have ever allowed me to learn as much of the world as I have in my journeys! It was only outside the temple walls I realized every living being is a world unto themselves, a world where many contradictions and passions coexist!\""
+    },
+    {
+      "Key": "37d998e6-80de-48fb-89a4-0bde0b009757",
+      "Value": "\"Each realm leaves its mark on the lives that live there. Only by visiting it, by breathing the same air, walking on the same soil, can you understand its people — what drives them, what frightens them, their dreams, and how they honor their gods.\""
+    },
+    {
+      "Key": "6d4d8a0a-90a1-4bc2-b9e1-36b5ff41f946",
+      "Value": "\"No, my thoughts were far from it, for my mission here is not yet done.\" {n}Tristian stares at you in surprise.{/n} \"Why do you ask? Do you wish me to leave your lands?\""
+    },
+    {
+      "Key": "df027b47-f14d-4303-8dfa-f9c3cf1fc5fa",
+      "Value": "{n}Tristian's face lights up.{/n} \"Thank you. I am pleased I could be of assistance.\""
+    },
+    {
+      "Key": "dd651a60-8317-47f5-9a4b-682436bc084b",
+      "Value": "{n}Tristian takes a step back.{/n} \"But why? What have I done to earn your mistrust?\" {n}He stops, then nods, as if ashamed.{/n} \"Do not answer. Whatever I have done — forgive me, I can only hope that I work harder on your behalf and prove myself an ally.\""
+    },
+    {
+      "Key": "050015c6-ae66-4955-939a-29c83091d4e1",
+      "Value": "{n}Tristian shakes his head reproachfully, but with a smile.{/n} \"You enjoy watching others' reactions, don't you? In this regard, we are alike, although I do not choose such sly ways to achieve this.\""
+    },
+    {
+      "Key": "40138469-568e-45d0-b289-df39e915b923",
+      "Value": "\"Many worship solarflame goddess in her temples. Some make the pilgrimage to the {g|The Everlight Oasis}Everlight Oasis{/g}. But even those who do not serve the goddess directly rarely shun the festivities dedicated to her — the Sunwrought Festival, for one.\""
+    },
+    {
+      "Key": "a3b44745-c9fb-40bb-a81e-f70977ebd7fc",
+      "Value": "\"{g|Sarenrae}Sarenrae's{/g} shrines are often open to the sky and to the goddess' life-bringing sunlight. Her light fills the temple, enshrouds the parish in warmth, and grants its blessing to all in need. In {g|Kelesh}Kelesh{/g}, crowds gather during the services so that all may feel the blessing of the goddess!\""
+    },
+    {
+      "Key": "8e953e6c-0e05-441a-be3d-a95b5830a556",
+      "Value": "\"I have never been there, but the stories say it is a wondrous place, sacred to {g|Sarenrae}Sarenrae's{/g} faithful. The Oasis is located in {g|Zelshabbar}Zelshabbar{/g}, which lies in {g|Casmaron}Casmaron{/g}. Pilgrims from throughout {g|Golarion}Golarion{/g} travel there, seeking the goddess's blessing.\""
+    },
+    {
+      "Key": "2df65dd7-315b-4e47-bc36-d31d4f94bff4",
+      "Value": "\"The most ingenious devices are constructed by some of the faithful to please the goddess. I have seen a temple of {g|Sarenrae}Sarenrae{/g} which housed a complicated array of mirrors — all to direct the light of the sun to the altar!\""
+    },
+    {
+      "Key": "f6f19f53-d782-4dc9-8317-e0af2ee0a527",
+      "Value": "\"According to legend, the waters of the {g|The Everlight Oasis}Everlight Oasis{/g} are imbued with healing properties, and anyone who bathes in them shall be cured of any ailment.\" {n}Tristian smiles in thought.{/n} \"Just imagine — a place where people from all around the world come to gather to worship. What stories they must share!\""
+    },
+    {
+      "Key": "d1d30dd1-095c-46e9-ae40-d414e7c43461",
+      "Value": "\"The Sunwrought Festival takes place on the day of the summer solstice, when the prayers of her flock can reach {g|Sarenrae}Sarenrae{/g} the easiest. On this day, {g|Kelesh}Kelesh{/g} blooms with color — in each corner of the {g|Kelesh}Padishah Empire{/g}, the people praise their goddess by dancing and singing, setting off fireworks and flying kites! I hope, this beautiful custom shall one day reach your lands as well, {name}!\""
+    },
+    {
+      "Key": "6f701191-27d2-46f1-8d47-6ff278d62290",
+      "Value": "\"I hope I have satisfied your curiosity.\""
+    },
+    {
+      "Key": "00cb54ae-28d1-44d3-8a15-789250fa76f0",
+      "Value": "{n}Tristian bows his head.{/n} \"A pleasure.\""
+    },
+    {
+      "Key": "fb6948f1-b9f2-4dfa-8dbc-9449366b4dec",
+      "Value": "{n}Tristian sighs.{/n} \"Alas, yes. Terrible battles were once fought between the followers of {g|Nethys}Nethys{/g}, {g|Norgorber}Norgorber{/g}, and {g|Sarenrae}Sarenrae{/g} in the lands now known as {g|Rahadoum}Rahadoum{/g}. To my shame, I must admit that this conflict was started by my brothers and sisters — they came to a foreign land to make way for the goddess's light with sword and fire.\""
+    },
+    {
+      "Key": "e85cf965-18bc-4237-a3da-45bfbb5927d7",
+      "Value": "{n}Tristian sighs.{/n} \"An error of faith. Perhaps a lesson. But it speaks of the danger when one listens to mortal words and one stops listening to their faith.\""
+    },
+    {
+      "Key": "06822fd8-3062-4251-a1a2-734a377bbf3d",
+      "Value": "\"Sarenrae forbade her followers from coming near the place of {g|Rovagug}Rovagug's{/g} imprisonment. But some of her priesthood misread her will and began to preach of a sacred place, where the mightiest of temples dedicated to the goddess were to be constructed. The people listened to these sermons and went forth to the lands touched by {g|Sarenrae}Sarenrae's{/g} scimitar. On the scar that sealed the well, they founded {g|Gormuz}Gormuz{/g}, a holy city that was to become the greatest monument to Sarenrae. Unsurprisingly, after the city was built, faithful from all {g|Golarion}Golarion{/g} traveled there to worship.\""
+    },
+    {
+      "Key": "935264ef-c7be-4178-a7ce-0660d4368eab",
+      "Value": "\"{g|Sarenrae}Sarenrae{/g} sent omens and visions, urging her followers to leave this dangerous place filled with the dark will of the shackled {g|Rovagug}Rovagug{/g}. But in their pride, the people misinterpreted or ignored her signs altogether, for they had already come under Rovagug's influence. Finally, the goddess sent her herald to the city, but the fanatics killed him.\"\n\"Realizing the people had turned from her, the enraged goddess smote {g|Gormuz}Gormuz{/g}, razing it from the face of {g|Golarion}Golarion{/g} with a single strike of her scimitar.\" {n}Tristian shakes his head.{/n} \"Today, it is called {g|Pit of Gormuz}the Pit of Gormuz{/g}, a well of pain and suffering.\""
+    },
+    {
+      "Key": "bf82bd26-66f7-432f-9e9b-86eb740caed8",
+      "Value": "{n}Tristian smiles softly.{/n} \"You have nothing to apologize for. Truly, I have received my name and appearance from my parents, who had come to {g|Kelesh}Kelesh{/g} from afar. I never knew them, for the fate had separated us when I was young. So I grew up in Kelesh, raised by the followers of Sarenrae.\""
+    },
+    {
+      "Key": "274339ca-6613-417c-a2c3-7effad03ccac",
+      "Value": "\"My home is where my heart is — within the temples of the great goddess, among the wise and generous men that took upon themselves the care of a child that was so unlike them. I learned mercy and patience at an early age — and it is these virtues that have made me the man I am today.\""
+    },
+    {
+      "Key": "bea8c74f-e2d7-4661-b0ba-88e5d6642f89",
+      "Value": "{n}Tristian lowers his head.{/n} \"Forgive me if my stories have bored you. I am not accustomed to speaking about myself and, in truth, take little enjoyment in it.\""
+    },
+    {
+      "Key": "62f287f5-3b0e-4341-9a14-2bbdc22799a7",
+      "Value": "\"Truly? The goddess does not demand of you, nor anyone — she only seeks to help. Why do you dismiss her?\""
+    },
+    {
+      "Key": "ed8a5958-968a-4e0b-9f21-3c152b18b50b",
+      "Value": "{n}Tristian sighs with relief.{/n} \"We are all different. One needn't share the other's faith to be a loyal ally.\" {n}He nods and gives a warm smile.{/n}"
+    },
+    {
+      "Key": "8e2c7ab5-8252-48da-b292-1a00ae7e9cfa",
+      "Value": "{n}Tristian's voice drops, almost to a monotone.{/n} \"We are all different. Allies needn't share the other's faith.\" {n}He nods once, the turns away.{/n}"
+    },
+    {
+      "Key": "7763aa6a-56f4-4e8c-99f5-8fb7206d26d9",
+      "Value": "\"We are all different. Allies needn't share faith, as long as they stand together.\" {n}He nods again, quickly, and gives a faint smile.{/n}"
+    },
+    {
+      "Key": "3c856161-9c02-419a-89f2-dafeca83dbfe",
+      "Value": "{n}Tristian blindly gazes past you into the distance for several moments. When he speaks again, his voice is quiet, reflective, as if echoing his thoughts.{/n} \"Undeserving of mercy... would even {g|Sarenrae}Sarenrae{/g} herself find the compassion to...\"\n{n}Tristian shudders, as if awakening from a trance.{/n} \"Forgive me, I... your words — they are not easy ones to reconcile, and even priests such as I... we debate them to this day. What is the point at which a soul is irredeemable — or is it a failing of the priest themselves?\""
+    },
+    {
+      "Key": "7cb05e33-0a2d-441b-ae85-ccc971c264d4",
+      "Value": "{n}Tristian falls silent and looks around himself worriedly, as if he can't believe what he had just said.{/n} \"Forgive me for my rash words. But this mission is important to me.\""
+    },
+    {
+      "Key": "095c3e46-1189-40bd-be8f-b3ddbf5be69e",
+      "Value": "\"There is much to tell — but I'm afraid I would miss the mark, and I fear I would bore you. Is there something specific you wished to know?\""
+    },
+    {
+      "Key": "df0d0562-605c-4987-b045-8fdbd2dadbfb",
+      "Value": "\"Solarflame goddess is the light of salvation — even to those who have been forsaken by the other gods. She teaches us mercy and forgiveness — for as long as they may be useful to a soul's salvation.\""
+    },
+    {
+      "Key": "05405c09-fad9-4d2a-ac26-f391547181ec",
+      "Value": "\"{g|Sarenrae}Sarenrae{/g} is one of {g|Golarion}Golarion's{/g} eldest deities. Once, she was an angel that had gathered the armies of her celestial allies behind her. The battle in which she showed her valor decided the fate of a whole world — and, in her victory, she was rewarded with divinity.\""
+    },
+    {
+      "Key": "f17d9a2e-344d-42a0-ad61-645698bcc42e",
+      "Value": "\"In the sacred texts, {g|Sarenrae}Sarenrae{/g} is shown as a beautiful bronze-skinned maiden, her hair dancing flame.\" {n}Tristian smiles slightly.{/n} \"But her appearance is not what matters, it is the grace she brings with her touch — healing and salvation.\""
+    },
+    {
+      "Key": "2a9ccd57-20b8-4791-96fc-2d3b0728fe90",
+      "Value": "\"Of course, {name}.\""
+    },
+    {
+      "Key": "335d3f9b-cead-49fd-924b-6fde6cf8b6a5",
+      "Value": "\"Of course. What else would you like to know?\""
+    },
+    {
+      "Key": "b2ba774a-6a13-40e3-be24-ae2ecc5f7b69",
+      "Value": "\"That calamity became known as the Oath Wars — a catastrophe that led the inheritors of {g|Rahadoum}Rahadoum{/g} to deny all gods, banning all faiths from their lands. Alas, the mortal vessel is imperfect, and even a pure faith may be distorted by blind ambition...\" {n}Tristian goes silent for a moment.{/n} \"And great suffering may occur in its name.\""
+    },
+    {
+      "Key": "399a6f1a-ea46-4ed8-938d-be90a75c4b39",
+      "Value": "\"Alas, I do not know yet what powers the curses that flourish in this land. But I swear I will not leave until we have the answer and the means to cleanse them. You must forgive me for not swearing on {g|Sarenrae}Sarenrae's{/g} name, but as of late I have troubled the goddess too much as it is — and it would better serve her through action, not prayer.\""
+    },
+    {
+      "Key": "fb4d877c-3f43-4d89-821c-21e8e6b7c3c9",
+      "Value": "{n}Tristian smiles awkwardly.{/n} \"You speak as if sharing your heart's affection. If… if I am dear to you as a comrade in arms, then I too value our friendship. If there is more to it, however…\" {n}Tristian goes silent, shaking his head sadly.{/n}"
+    },
+    {
+      "Key": "d8892d72-7e86-440c-b3f7-acdf89cd39c6",
+      "Value": "{n}Tristian nods, smiling.{/n} \"I, too, would not welcome the thought of leaving you. I…\"\n{n}Tristian pauses, then gives a rueful smile, shaking his head.{/n} \"My apologies, I don't know what came over me! I simply wanted to say I won't leave you until you ask me to. And still... I hope... I hope that won't happen.\" {n}Tristian stops, his face red.{/n}"
+    },
+    {
+      "Key": "6a74e451-fcd1-4ca2-a2a7-5044f61f4e7d",
+      "Value": "{n}Tristian smiles uneasily.{/n} \"Thank you for your kind words. However, I am confused — where I am from such compliments are not given to friends, but rather… to ones who are closer than that.\" {n}Tristian raises his eyes to look at you.{/n} \"I hope that this is not what you meant. I would hate to disappoint you and lose you as a friend.\""
+    },
+    {
+      "Key": "99498d11-4078-466d-9072-43d4549df65d",
+      "Value": "{n}Tristian blushes.{/n} \"Th-thanks, {name}. I… Your words fill my heart with joy. To be honest, I have never met a woman quite like you…\" {n}He breaks off mid-sentence and bites his lip bitterly.{/n} \"Forgive me my hasty words. Anyway...\" {n}Tristian sighs, as if trying to gather up his will.{/n} \"I am pleased to share your company.\""
+    },
+    {
+      "Key": "80c831c7-172d-4269-9858-ebe35c6a0a33",
+      "Value": "{n}Tristian shakes his head.{/n} \"It's a great crevasse in eastern {g|Casmaron}Casmaron{/g}. The lands surrounding it are dead, soaked in poison. {g|Pit of Gormuz}The Pit of Gormuz{/g} seems bottomless… until someone dares to gaze into its depths. All who have dared tell of a strange, distant glow — a glow that followed them in their dreams ever since.\""
+    },
+    {
+      "Key": "007ac61a-1b88-4969-87d1-abb205a3a69c",
+      "Value": "\"Throughout all of history, {g|Pit of Gormuz}the Pit of Gormuz{/g} has spawned… creatures. Hideous beasts of overwhelming power and driven by only a single desire — to destroy everything they see. Some were defeated — such as the nightmarish Ulunat, whose carapace to this day towers above the capital of {g|Osirion}Osirion{/g}. Others... proved too strong to be defeated by mortal hands.\" {n}Tristian frowns.{/n} \"The most terrible of them all was the Tarrasque, the Armageddon Engine, who to this day lies dormant deep beneath {g|Avistan}Avistan{/g}.\""
+    },
+    {
+      "Key": "2d93a30d-cc28-413d-9ad1-cfebb0de76fe",
+      "Value": "\"Alas, I also had a hand in making lives of these people yet more miserable. I hope I'll be able to heal the wounds I unwillingly inflicted to those families.\" {n}Tristian lowers his head, hiding his blind eyes from you.{/n}"
+    },
+    {
+      "Key": "e00040c3-40c7-4802-ac45-5de8371abcfd",
+      "Value": "{n}The cleric folds his hands on his chest in a pleading gesture.{/n} \"I realize I have wronged you. I know It won't be easy to earn your forgiveness. But I beg you: please, let me stay! I won't be any trouble to you — just give me a chance to prove how deeply I repent!\""
+    },
+    {
+      "Key": "2eaf23ec-35d1-4505-b421-5889c9366708",
+      "Value": "{n}Tristian's face turns grayish, light seems to leave his blind eyes.{/n} \"Indeed, earthly mercy is not boundless. So be it. Farewell, {name}\"."
+    },
+    {
+      "Key": "4774d8c0-9201-4488-b2c9-46654e4c5aea",
+      "Value": "\"I thank you, {name}. I swear by {g|Sarenrae}Sarenrae{/g}, you won't regret your decision.\""
+    },
+    {
+      "Key": "adb0d248-6a52-4ef8-bd31-87cc8d73d589",
+      "Value": "\"Well. As I've already mentioned, I'm movanic deva, a servant of {g|Sarenrae}Sarenrae{/g}. Of course, now I don't look much like an immortal being...\" {n}Tristian raises his hands only to drop them a moment later.{/n} \"But once I used to travel amongst the realms, searching for those who needed my help.\""
+    },
+    {
+      "Key": "1f1dd708-8d41-4475-8ba0-c2c0e02c37b4",
+      "Value": "{n}Tristian raises his head, as he hears your footsteps.{/n} \"{name}? I wanted to speak with you.\""
+    },
+    {
+      "Key": "fd021af5-5a7f-40f5-883a-f30dbf212340",
+      "Value": "\"On my way here, I had enough time to think. So, I've been thinking about you and me. About the words we once exchanged. It feels almost like a joke now... who knows, maybe you really were just joking back then. A lot has changed since then.\""
+    },
+    {
+      "Key": "f7e59ed8-ba54-4b02-88f3-efa994b8e76d",
+      "Value": "\"Anyway... I would like to preserve our friendship. We've been putting it to a test way too often to endanger it once again. Another disappointment can be fatal to it.\" {n}Tristian utters a heavy sigh.{/n} \"We shouldn't cross the borders from now on. I hope you'll understand that my intentions are pure and won't feel offended.\""
+    },
+    {
+      "Key": "3413614f-af4a-422e-8875-29127835e1c2",
+      "Value": "\"I've been traveling amongst the worlds when I noticed something strange. How should I describe it... it was like something had pierced time and matter, leaving a slight trace. I should have turned back and told my brethren about my discovery... but I was sure I was able to find a reason of this strange phenomenon by myself, so I decided to go for it alone.\""
+    },
+    {
+      "Key": "04acc042-2f36-4334-a13b-fe38c2ba9ce2",
+      "Value": "\"My overconfidence and my foolishness are to blame for that. Once I believed I deserved much more than {g|Sarenrae}solarflame goddess{/g} assigned to me... and eventually I paid a price for my pride.\""
+    },
+    {
+      "Key": "c412a338-be77-4daf-8eed-e3342dfbe645",
+      "Value": "\"The trace led me to {g|Golarion}Golarion{/g}, to the {g|Temple of the Elk}Temple of the Elk{/g} — and right into Nyrissa's hands. She proved to be much stronger than I, and defeated me in a heartbeat. Before I had time to realize what was happening, she put me into magic slumber, filled with nightmares and visions.\""
+    },
+    {
+      "Key": "a7da6096-1531-4e04-a642-48cbc2e191c7",
+      "Value": "{n}Tristian hesitates.{/n} \"She… she threatened she'd destroy my immortality and deprive me of my divine powers once and for all. I didn't dare to confront her; it was in her power to kill me — and then I'd go to {g|Pharasma}Pharasma{/g} instead of my Goddess!\""
+    },
+    {
+      "Key": "b3c9ffcb-b2c4-4476-a5a7-16a9b01f94d0",
+      "Value": "\"Of course, it all proved to be a lie…. But you should understand me: when I awoke from my slumber, I already was trapped in a mortal body, and this crazy fey bragged her power over me, and threatened me with eternal damnation!\""
+    },
+    {
+      "Key": "fd9f63b6-ad3d-4295-a47d-f9bbf8acf7a3",
+      "Value": "\"Nyrissa demanded unconditional submission. I couldn't… didn't dare to confront her and put my divine sparkle at stake: a single step in wrong direction — and Nyrissa would destroy the very essence of me!\""
+    },
+    {
+      "Key": "b5bf0911-65c1-47b9-bf0a-d837fa0ea380",
+      "Value": "\"She forbade me to uncover my true identity and made me do what she wanted me to: to help her create that flower, to plant it... but she never forbade me to help you fight the Bloom. This is a weak excuse, but I did all I could to make sure my deeds won't do as much harm as she expected.\""
+    },
+    {
+      "Key": "53319a89-28d5-4cc3-9043-20ed40f82042",
+      "Value": "\"Alas, no. Nyrissa trusts no one, she is reluctant to share her plans even with her Sisters. You'll have to expose her plots and schemes by yourself.\""
+    },
+    {
+      "Key": "cdbdffce-9d63-42cc-b21b-0454b4f7570b",
+      "Value": "\"Indeed. I would wish to leave it all behind — once and for all.\""
+    },
+    {
+      "Key": "b553873c-6795-4a03-b1ef-21442ccb2bc9",
+      "Value": "\"Devas, you mean? The same way as the servants of other deities do: our masters create us, give us our shape and vest us with our missions.\""
+    },
+    {
+      "Key": "2fa9b92f-bec6-4f09-ab4c-c33d2a7cbecd",
+      "Value": "\"As for me, I was reborn from the soul of a great mortal hero. My conscience is deprived of memories of the past life — but looks like mortal pride still resides within my heart. It was the reason why I've lost my freedom and my power.\""
+    },
+    {
+      "Key": "2490808b-8428-43df-82f9-82b13b896f33",
+      "Value": "{n}A slight smile emerges on Tristian's face.{/n} \"A gift of {g|Sarenrae}Sarenrae{/g}. A key to freedom. A symbol of our closeness to our Goddess. With my wings I could travel between worlds and to find those who asked for help. This is our sacred duty: to heed the prayers of mortals in every corner of the Universe.\""
+    },
+    {
+      "Key": "d0a408b0-8223-4f55-a8e1-7a012ec368b8",
+      "Value": "\"I was too stupid to value that gift. My heart craved for opportunity to prove myself, the chance to show {g|Sarenrae}Sarenrae{/g} I was capable of more, than what I was created for. And once the whole Universe laid on my palm. Once...\""
+    },
+    {
+      "Key": "3456bda0-cdc9-467d-9d25-b0ef8a9c48fa",
+      "Value": "{n}Tristian falls silent. You wait for a while, but seems like deva isn't going to continue. He winces and turns away.{/n}"
+    },
+    {
+      "Key": "b326d36a-82e8-4824-8d63-c8af1cfa4b74",
+      "Value": "\"No. I sacrificed my eyesight to destroy the Oculus of {g|Abaddon}Abaddon{/g}. Of all the mess I've done recently it was the only righteous and proper thing. I'm happy I was able to do it, and my ability to see isn't such a big price for an opportunity to cleanse my soul — at least a little.\""
+    },
+    {
+      "Key": "d0634a53-fd65-46b2-b98a-6358760d2f26",
+      "Value": "\"What do you want to talk about?\""
+    },
+    {
+      "Key": "c463f6be-77c6-4aa6-a6e6-fbc5654e769d",
+      "Value": "{n}Warm smile lights Tristian's face.{/n} \"I came to his world in the palms of my Goddess. My breath is just an echo of her breathing life into me, my powers are just a grain of her everlasting light. Yes, {name}, I've seen {g|Sarenrae}Sarenrae{/g} by my own eyes, and she was more beautiful than anything else ever seen in this Universe.\""
+    },
+    {
+      "Key": "7085c563-a458-412a-8a9b-52f4aa52b644",
+      "Value": "\"Despite my mortal body, I am still not just an ordinary man. I'm not sure I can explain it accurately...\" {n}Tristian ponders over it for a while.{/n} \"The light has left my eyes forever, but my soul is filled with the shining of {g|Sarenrae}Sarenrae{/g}. My heart will lead me from now on.\""
+    },
+    {
+      "Key": "62f3a551-0ee9-4651-b914-70d932af8e7b",
+      "Value": "\"Please, don't treat me differently because of my blindness. I won't be a burden to you, I promise.\""
+    },
+    {
+      "Key": "01bcbc97-55ac-490b-8716-6ec17473ef45",
+      "Value": "{n}Tristian hesitates for a while, then gently takes your hand into his palms.{/n} \"But I was young and naive back then. I didn't know yet, that warmth of living being can outshine divine light.\""
+    },
+    {
+      "Key": "c873e8cc-b4fc-48ad-95b2-976eac63e6a7",
+      "Value": "{n}The priest shakes his head.{/n} \"I have to refuse, {name}. Something wicked is stirring in your lands. I must find out what is the reason. Jhod gave his life to this cause — it is my duty to carry on!\""
+    },
+    {
+      "Key": "156a162c-836e-4258-bff7-20dbadce53c6",
+      "Value": "{n}Tristian touches his face.{/n} \"It is so. Her goal was to orchestrate our meeting. And she knew nothing better but to deceive a faithful servant of {g|Erastil}Erastil{/g} with a hope of forgiveness. Tricks and frauds are her specialty indeed.\""
+    },
+    {
+      "Key": "5672bdd4-0fcf-4a02-a9f6-7296dfac2973",
+      "Value": "\"The magical fog was her doing as well. She wanted you to go where she needed you to be. Wanted to gain your trust, fill your mind with lies, set you up for the fight with the Stag Lord... She fooled us all, playing our feelings of faith and duty… and I played my part in this heinous act.\""
+    },
+    {
+      "Key": "144386e5-62ed-4cd1-ba8f-fd787a132be5",
+      "Value": "{n}Tristian greets you with a nod.{/n} \"Thank you for coming. Unfortunately I have bad news.\""
+    },
+    {
+      "Key": "0605c9a7-40e0-4643-96d9-fc9dba8bdf98",
+      "Value": "\"I managed to find a couple of cultists from the Kingdom of the Cleansed. The poor fellows were scared to death, but I comforted them, and promised not to speak their names. Anyway, they left the capital, fearing your wrath.\""
+    },
+    {
+      "Key": "e64b63cd-cfda-4d2e-b9c0-a170728db716",
+      "Value": "\"None of them saw the First Faithful after that fateful meeting. The scoundrel vanished into thin air, and with him, all meetings, sacraments, and talk of the Goddess. It looks like the peculiar power of curses in the {g|Stolen Lands}Stolen Lands{/g} is not in fact connected to these lunatics.\""
+    },
+    {
+      "Key": "1e54cfb4-b0ba-435d-807c-adf3c57245c4",
+      "Value": "\"Anyway, we managed to get their barkers off the streets, and yesterday's fanatics have returned home, to their families and honest work. Thank you for your help, {name}\". {n}Tristian wears a beaming smile.{/n} \"I will not leave you of my own accord, until I repay you for your kindness.\""
+    },
+    {
+      "Key": "833f7b0d-ec9d-47ca-9f30-e99cb81a5627",
+      "Value": "\"Any time. Just let me know when you gather your party.\""
+    },
+    {
+      "Key": "cdd81f58-004d-4598-a5cf-046b5fa2516a",
+      "Value": "{n}Tristian frowns.{/n} \"Not yet. I don't know whether to be glad about it or not. The priest may be regrouping — in which case it may be all the more difficult to defeat him.\""
+    },
+    {
+      "Key": "594cea86-3966-4605-8054-b2b8f5bbd8e2",
+      "Value": "{n}Tristian smiles faintly with just the corners of his lips.{/n} \"No, I don't. I lost something while I was here, something that truly made me a creation of {g|Sarenrae}Sarenrae{/g}. Until I find that thing I've lost — until I find myself again... if that's even possible... I will continue my search.\""
+    },
+    {
+      "Key": "bb12be56-024c-425f-a2e0-00d1319749ac",
+      "Value": "{n}Tristian smiles brightly.{/n} \"It is the will of {g|Sarenrae}Sarenrae{/g}. I was torn from her blissful radiance for so long. I shall never contradict her again.\""
+    },
+    {
+      "Key": "77f154cd-addb-4915-aacc-d176d49360ad",
+      "Value": "{n}Tristian nods.{/n} \"Hello, {name}. Do you wish to know what happened there, at the altar of the Cleansed? I'd like to tell you, but I don't really know how to describe it.\""
+    },
+    {
+      "Key": "9ba425e6-6957-469f-b474-78242039d860",
+      "Value": "{n}The deva moves his shoulders, as if stretching unseen wings behind his back.{/n} \"One way or another... I walk in {g|Sarenrae}Sarenrae's{/g} light once more. There may yet be many hardships ahead, but now I know divine bliss. I'd started to forget, how... soothing it feels.\""
+    },
+    {
+      "Key": "04aac262-4f93-4d11-a8e0-1be51fdeaa86",
+      "Value": "{n}Tristian closes his eyes.{/n} \"She has given me a special power — a gift worthy of her messenger in the material world. I think this power will be useful to us, when we confront Nyrissa in the final battle.\""
+    },
+    {
+      "Key": "fa127ce0-a4fc-4b38-a15c-33d745584cc2",
+      "Value": "{n}Tristian smiles, almost humbly.{/n} \"When... when my master touched me with her divine radiance... I felt her love. And pride. She feels I've learned much, living among the dwellers of {g|Golarion}Golarion{/g}.\""
+    },
+    {
+      "Key": "0e025ea3-dbbc-4d2b-b22b-38ba23e31918",
+      "Value": "\"None of this would be possible were it not for you. I owe you my life and my salvation.\" {n}Tristian pauses.{/n} \"I once told you that I'll stay by your side until I repay you for your kindness. Now I promise you, I won't back down until Nyrissa is finished.\""
+    },
+    {
+      "Key": "f983493c-0831-4ed7-b291-ca96d72ae65a",
+      "Value": "{n}Tristian nods.{/n} \"And {g|Sarenrae}Sarenrae{/g} knows this. That is why she entrusted me with this mission. Everything that happened to me here, in this world, happened because of my pride and overzealousness.\" {n}Tristian smiles subtly.{/n} \"But now the goddess herself has showed me the way to glory. I won't miss this opportunity and fail her — or you.\""
+    },
+    {
+      "Key": "15f71ea1-b203-469f-8571-f00557041010",
+      "Value": "{n}Seeing you, Tristian smiles a bright smile.{/n} \"How good it is to see you!\""
+    },
+    {
+      "Key": "1bbaadaf-e6f1-4f3d-a2db-a47c345cef5b",
+      "Value": "{n}Tristian looks at you carefully.{/n} \"How can I help, {name}?\""
+    },
+    {
+      "Key": "c14da27e-3d02-4f40-a184-c873ef240d52",
+      "Value": "\"Your steps sound special. I always know it's you.\""
+    },
+    {
+      "Key": "3e8d98bb-e41a-4b2c-a051-f22b655ffa2c",
+      "Value": "{n}Tristian holds your hand and kisses it.{/n} \"Yes, my love?\""
+    },
+    {
+      "Key": "19893d71-bbec-430d-821b-e5f638b0894b",
+      "Value": "{n}The smile that Tristian greets you with is sad around the edges.{/n} \"Can you imagine, I just found out about you and... I hadn't noticed anything for such a long time!\""
+    },
+    {
+      "Key": "fede9628-f49d-4b92-9eb4-32f136ca06bf",
+      "Value": "\"Regongar will never let anyone hurt you. I'm glad you have such a protector.\""
+    },
+    {
+      "Key": "897211e9-aa9c-40eb-9613-c601fe7b927f",
+      "Value": "\"Octavia is wonderful. I'm sure you will be happy together!\""
+    },
+    {
+      "Key": "c4796f83-e8e0-464f-8a4e-ed0af75e2b06",
+      "Value": "{n}Tristian smiles shyly and shakes his head.{/n} \"We are friends. That's more than enough.\""
+    },
+    {
+      "Key": "c977e391-5777-4642-9ffc-7b715bf6b277",
+      "Value": "\"Why should I be upset? You are happy together, aren't you? So everything is as it's supposed to be.\""
+    },
+    {
+      "Key": "c1936061-e64f-4245-a743-624ee5f65f39",
+      "Value": "{n}Tristian nods to you warmly.{/n}"
+    },
+    {
+      "Key": "89c3281b-bc3a-424f-a21c-342242e0d19e",
+      "Value": "{n}Tristian looks as if he's been hit.{/n} \"But...\""
+    },
+    {
+      "Key": "560bfd81-255e-4c53-b40b-71ccd759686c",
+      "Value": "{n}Tristian touches your shoulder ever so slightly.{/n} \"I missed you too. Let's go.\""
+    },
+    {
+      "Key": "cea709c6-3da0-404e-9c24-23f77662e16f",
+      "Value": "{n}Tristian laughs and touches your shoulder carefully.{/n} \"How else could I do this?\""
+    },
+    {
+      "Key": "279f25fc-1adf-4094-90c2-a7d1ca929a13",
+      "Value": "\"Yours is... such an unusual alliance. I am glad I witnessed it, and I believe the three of you will take care of each other like no one else could.\""
+    },
+    {
+      "Key": "8bf2b57f-1df0-4f84-be75-ee2bb20f222b",
+      "Value": "{n}The deva gathers his strength, but still struggles to speak.{/n} \"Whatever the reason... thank you for giving me a second chance. I hope you will allow me stay near, and continue to help you as a friend.\""
+    },
+    {
+      "Key": "400f6904-7cf8-41ab-8b24-070cdd2710aa",
+      "Value": "{n}Tristian looks at you with an expression that could be taken for anger, if you didn't know the priest.{/n}"
+    },
+    {
+      "Key": "67c31517-79f3-4484-a0f1-9aa1b889491f",
+      "Value": "\"Well, it's not my place to comment on your personal life, so I will stop bothering you about things that do not concern me.\""
+    },
+    {
+      "Key": "899304cb-a835-4266-99a0-8caeab0ef8b8",
+      "Value": "\"Sorry, that was a mere jest. Other acolytes at my temple used to tease me with that title. This should tell you how pious and devoted I was compared to them.\""
+    },
+    {
+      "Key": "2722ce32-6735-4360-a27c-822814833799",
+      "Value": "{n}Tristian lowers his head.{/n} \"This was yet another lie I was forced to tell you. It was Nyrissa who protected me from harm, unwilling to lose her agent... her skylark. I am so sorry.\""
+    },
+    {
+      "Key": "bbaff2a3-d007-419e-af94-2afff9a577dd",
+      "Value": "{n}Tristian smiles as you approach.{/n} \"Greetings. How may this humble Chosen of the great Sarenrae help you?\""
+    },
+    {
+      "Key": "a1083902-ddbb-4b33-9134-946c25117f21",
+      "Value": "\"And yet, my faith is strong. Sarenrae knows this and protects me in times of great peril. If something ever threatens my life, by her divine powers I am transported to a safe location.\""
+    },
+    {
+      "Key": "38162b49-5d49-4bdf-96f1-9d84429c803d",
+      "Value": "{n}The deva lowers his head.{/n} \"Sarenrae spoke to me. She told me she forgives my misdeeds. That I have learned much while living among mortals. But... that matters little, because I cannot forgive myself. And I am not sure I will ever be able to.\" {n}Tristian's sigh is heavy, as though he carries an unseen burden.{/n}"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "9b474a5e-8454-43e0-8497-c33a4200a04f",
+      "Value": "\"Tell me more about the story of Tartuccio and the kobolds, and getting locked in their prison.\""
+    },
+    {
+      "Key": "03c52731-5590-428c-b4c7-18fb01fd86d5",
+      "Value": "\"A battle with the Stag Lord and a possible barony awaits me. I would appreciate the help of someone as skilled as you, Jaethal.\""
+    },
+    {
+      "Key": "1543beb8-6336-4eff-9f4a-4b0a1fa6ed1e",
+      "Value": "\"Valerie, I would be happy to see you among my companions.\""
+    },
+    {
+      "Key": "d90e235d-62ec-48ba-99f0-f7102dd032a8",
+      "Value": "\"Harrim, you should join me, if you're considering where you should go.\""
+    },
+    {
+      "Key": "4826f25e-3fe5-471d-a9a6-84a27d216d70",
+      "Value": "\"Linzi, you must see by now that I'm a more suitable leader than Tartuccio ever was — and a better character for your book. Wouldn't you like to join me?\""
+    },
+    {
+      "Key": "fee60fbf-e06b-4f8b-9eae-02a682e5aa01",
+      "Value": "\"Well, I have to go. I hope we never meet again!\""
+    },
+    {
+      "Key": "6cdb5865-ac37-4d9c-936e-3e04a519f29e",
+      "Value": "\"It is time to continue my journey.\""
+    },
+    {
+      "Key": "91c1fa42-c99f-4d3e-98c4-234b03e7c5e7",
+      "Value": "\"Just those imprisoned unjustly.\""
+    },
+    {
+      "Key": "96c1e2ee-a61d-4adb-9a30-0f5b7241f49b",
+      "Value": "\"I hate jails and their keepers!\""
+    },
+    {
+      "Key": "6d2e37ab-816b-4652-ac2b-ce97d808a9a3",
+      "Value": "\"It's probably just a coincidence.\""
+    },
+    {
+      "Key": "39411d56-977f-43f4-b16f-9b67056e7fff",
+      "Value": "\"I don't waste valuable resources. What good would it do to leave those who could work for me to rot in a cage?\""
+    },
+    {
+      "Key": "7b1dc271-1fa7-4b5f-8e54-cad75314e687",
+      "Value": "\"When I become a baron{mf||ess}, I'll chain everyone up myself!\""
+    },
+    {
+      "Key": "5f77d1ef-13f3-4c59-805a-9faefe58b38e",
+      "Value": "{n}While you were busy fighting, someone was busy trying to escape from the kobold prison. And that attempt was a success!{/n}"
+    },
+    {
+      "Key": "506b269c-40c9-4d68-95b1-cbceab46382d",
+      "Value": "{n}Someone recently released from kobold prison attracts your attention.{/n}"
+    },
+    {
+      "Key": "3ced3fea-2cc5-42c6-9b5e-a99a2735797f",
+      "Value": "\"Hooray! Freedom!\""
+    },
+    {
+      "Key": "c5667304-aa9e-4148-ae5c-d9ec42ddb64b",
+      "Value": "\"I do not know if I should even leave this dungeon. I feel such peace here, though at the cost of my freedom...\""
+    },
+    {
+      "Key": "fa5390a1-4b2a-43e7-8e0f-7dff2f86f7ac",
+      "Value": "\"I do not imagine I'll remember these days as among my more glorious.\""
+    },
+    {
+      "Key": "7f965dad-09e5-4dd5-9201-cb4d30396095",
+      "Value": "{n}Jaethal straightens her clothes as if to eliminate all signs of staying in the kobold prison.{/n} \"Let us strike out and forget.\""
+    },
+    {
+      "Key": "72cd9049-67e2-4e00-882e-dd4aaa19ad64",
+      "Value": "\"Oh, I will devote several pages of my book to that scoundrel! He even said the kobolds are more diligent and thorough servants — and he doesn't need the help of us scum of society! He even tricked us into an ambush and sold us to their chief. But it's all right — I already know the name of his chapter. 'Tartuccio — despicable pretender and worthless hypocrite.' Or maybe 'repulsive scamp?' What do you think?\""
+    },
+    {
+      "Key": "249a9d5b-57ab-44d8-a80e-3f6320ef2f5b",
+      "Value": "\"Arrogance and vanity — that is what drives Tartuccio, and this is why he seeks servants equally arrogant and vain. The kobolds were easily taken in by his talk of glory.\""
+    },
+    {
+      "Key": "3e016988-c756-47a7-9d9c-2e3b35d509ce",
+      "Value": "\"There is nothing to say. The gnome needed servants to seek an artifact. Voiceless, diligent, and numerous.\" {n}Jaethal frowns scornfully.{/n} \"He subdued the kobolds by idle talk and trickery. The despicable buffoon.\""
+    },
+    {
+      "Key": "b7ad7cb4-1195-42bf-84ae-1c63ba80924e",
+      "Value": "\"It is a tale of deceit and disgrace! Tartuccio deceived everyone, spying for {g|Pitax}Pitax{/g} and searching for an unknown relic. He used those gullible creatures, and betrayed someone who might ask questions and expose him — presenting them as a hunting trophy for the kobold chief.\""
+    },
+    {
+      "Key": "04b17369-fe10-478c-bc5b-6a257d01f484",
+      "Value": "\"My sword is at your disposal. May this bring me greater honor than serving the despicable liar Tartuccio!\""
+    },
+    {
+      "Key": "36bc22d8-27b3-497b-974b-fb310cfe3f26",
+      "Value": "\"A battle with the so-called bandit king will entertain me. I shall follow you. For now.\""
+    },
+    {
+      "Key": "5b57b34c-5f4c-46b5-b7f0-3f619957b2b4",
+      "Value": "\"So be it. The same end awaits everything and everyone, and this road is no worse than another.\""
+    },
+    {
+      "Key": "e12836dc-e2b5-4e6b-b225-24ce873108cb",
+      "Value": "\"Oh yes! I am replete with inspiration! We'll stop somewhere soon, right? I need to write down all our adventures in the dungeons! I wonder if I should add a battle with a dragon... Poetic license, you know?\""
+    },
+    {
+      "Key": "d82039bf-be81-4246-903b-240fc097ec53",
+      "Value": "\"The dungeon sapped my strength, and the wounds I suffered from the dirty kobolds have yet to heal. I will partake of Oleg's and Svetlana's hospitalities that I may heal, and will be happy to join you afterwards.\""
+    },
+    {
+      "Key": "0132a028-154f-4b2c-985a-893b08a43b91",
+      "Value": "\"I must go restore my strength. I shall return to you later, in all my glory.\""
+    },
+    {
+      "Key": "90ee09c4-865f-46d5-b27c-245ace4f80bb",
+      "Value": "\"As I sat in the soothing half-light of the dungeon, I felt the closeness of {g|Groetus}Groetus{/g}. Now I feel only fatigue and pain from my wounds. I must heal before I may follow you. We shall meet again soon.\""
+    },
+    {
+      "Key": "502e1751-4263-4245-a100-7656b5a0fb10",
+      "Value": "\"Yes! Hooray! I mean, of course! It's just that... the kobolds seem to have poked a few holes in my notes. And in me as well. But I'm more concerned about the notes. I should go to Oleg's and sort them out — and tend to my wounds while I'm at it. But I will definitely, definitely find you later!\""
+    },
+    {
+      "Key": "48aae0c5-3201-4d2a-976e-fc0df9a6fc0e",
+      "Value": "\"Hell no! I can't possibly pass up this opportunity! All these feats and adventures, the piercing stare of the future baron{mf||ess}... I simply must see everything for myself. I'll just be around to write everything down. Pay no attention to me. I'll do everything quietly — you won't even know I'm there!\""
+    },
+    {
+      "Key": "176df62b-307e-459a-8749-5cf45f6b8df5",
+      "Value": "\"I should rest in bed for a while at {g|Oleg's Trading Post}Oleg's Trading Post{/g} — and get to work right away! This book will turn out great!\""
+    },
+    {
+      "Key": "58be69e8-2efc-4b31-9b28-555e492fb34a",
+      "Value": "\"As long as I've known you, you've constantly freed people from prisons and chains. Is that a coincidence, or a good habit?\""
+    },
+    {
+      "Key": "bd3861b2-0f6b-43a7-8b32-fe3faccfce53",
+      "Value": "\"How do you know if someone's been thrown behind bars unjustly? If it was up to me, I'd destroy all the prisons and set all the prisoners free! And then any of them who did harm could be dealt with without chains!\""
+    },
+    {
+      "Key": "51c171d8-7da3-4f66-899d-2fd918cb1fdb",
+      "Value": "\"Me too! Hate them!\""
+    },
+    {
+      "Key": "8895a24f-1de1-48f2-b1af-6ce270766c9b",
+      "Value": "\"Really? Well, it's a lucky coincidence, then!\""
+    },
+    {
+      "Key": "13902696-d6fa-4a8c-a340-5c028b8c3feb",
+      "Value": "\"So we're just 'valuable resources' to you? All right...\""
+    },
+    {
+      "Key": "465fc713-1cf9-4f65-ba3b-db77322b2f5a",
+      "Value": "\"That's terrible! I hope you're joking!\""
+    }
+  ]
+}

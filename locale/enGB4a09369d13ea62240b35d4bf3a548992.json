@@ -1,0 +1,125 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "1f0beb4d-d136-48d8-ad70-019ff826f608",
+      "Value": "[Tell the truth] \"Tartuk deceived everyone. It was he who stole the Sycamore Branch from the kobolds, to make war with the mites. He attacked me, and he was killed. Now I possess both sacred Branches.\""
+    },
+    {
+      "Key": "f9015989-f229-4ae1-bd15-3a8cd8a9594d",
+      "Value": "[Lie] \"I haven't found Tartuk. He must have run away with the Sycamore Branch.\""
+    },
+    {
+      "Key": "1ef62dce-eb43-46bf-873d-2b1e6e368e19",
+      "Value": "[Give both Branches to their owners] \"Now that you know the truth, you must give up this needless feud and live together in peace once more. The true aggressor here has received his just punishment.\""
+    },
+    {
+      "Key": "bdafbbc1-5b79-41ff-b0f6-31b704a22b3b",
+      "Value": "[Give one Branch] \"Chief, I ask that you show mercy and not pursue Queen Bdaah and the mites. They were falsely accused.\""
+    },
+    {
+      "Key": "4fb8a735-73d3-41d6-a20d-49648034b1ff",
+      "Value": "[Give one Branch] \"My Queen, I ask that you show mercy, and not pursue King Sootscale and his kobolds. They only attacked you because they were deceived by a traitor.\""
+    },
+    {
+      "Key": "67506748-d158-462f-8e6a-df037191dc87",
+      "Value": "[Give one Branch] \"Now these dungeons belong to the kobolds. I hope our alliance lasts, Chief.\""
+    },
+    {
+      "Key": "38b1b908-be7f-42e8-b811-1a2c04810aa9",
+      "Value": "[Give one Branch] \"Now these dungeons belong to the mites. I hope our alliance stands, my Queen.\""
+    },
+    {
+      "Key": "68a5c833-b63f-468c-b7e2-23883e2fbb6b",
+      "Value": "[Keep both Branches] \"There is no need to honor these old relics. Honor the hero who opened your eyes and changed your history. Honor me! As for your relics... I suppose my gloves will do.\""
+    },
+    {
+      "Key": "baf51659-da58-4bf0-9880-a9508ea716be",
+      "Value": "[Attack] \"Now that Tartuccio has been dealt with, it is time I deal with you.\""
+    },
+    {
+      "Key": "ebd81278-0dd5-4d31-91c5-e3b8737db29a",
+      "Value": "\"I am returning the remaining Branch to the mites.\""
+    },
+    {
+      "Key": "6a1efa2d-eaa7-43d0-a4ce-596ea376eab5",
+      "Value": "\"I am returning the remaining Branch to the kobolds.\""
+    },
+    {
+      "Key": "a5a9ceaf-cdba-4c89-8aeb-341f1e709086",
+      "Value": "\"Ssscape! Mite! Ssscape!\""
+    },
+    {
+      "Key": "3cb3ad88-9c84-4c56-8192-4f8076795a5b",
+      "Value": "\"You {d|c11 Neutral}promise{/d} find truth. Open it soon. You find shaman?\""
+    },
+    {
+      "Key": "7cf19388-7028-4dc6-a112-4fc94313ebb9",
+      "Value": "\"War over not yet. You tell what happen treacherous shaman. You find him?\""
+    },
+    {
+      "Key": "88168994-1bcf-4c28-b488-1d9897244e85",
+      "Value": "\"Never! We war!\""
+    },
+    {
+      "Key": "b5b30d68-7f67-4d0c-af29-3eb247f2a974",
+      "Value": "\"Friend wissse! Kobold honor you!\""
+    },
+    {
+      "Key": "636a3d22-1c75-4bb6-bb37-cfdee0b888e4",
+      "Value": "\"Friends! We alliance with you long time. Friends, feasts.\""
+    },
+    {
+      "Key": "62d2e60d-8ae6-4102-b90d-ffbb50f6193b",
+      "Value": "\"Unjussst! Tricksssy! Kobold fight! Fight!\""
+    },
+    {
+      "Key": "474c7d38-a295-4f54-beae-739609bffd9b",
+      "Value": "\"Wissse and fearlesss! Loyal friend! You friend kobold now alwaysss. Glory!\""
+    },
+    {
+      "Key": "6081dfc9-b04b-4d47-826f-68c3877622fa",
+      "Value": "\"Thank loyal ally. You be guest mites always. Friends!\""
+    },
+    {
+      "Key": "32e10cfa-1478-415f-b6fa-e5b8a3c33866",
+      "Value": "{n}The kobold crier reaches out for a glove.{/n} \"Glove! Great relic!\""
+    },
+    {
+      "Key": "5e00a3cf-ce39-4188-bd02-ba314d017bb5",
+      "Value": "\"Friend! Alwaysss! Glory! Glory! Glory! Glory! Glory!\""
+    },
+    {
+      "Key": "c4c7769e-a7d3-442c-9afe-c0a2a723665e",
+      "Value": "\"Mite take this gift! Honor you hero!\""
+    },
+    {
+      "Key": "7dbba046-95fd-4071-a9a3-05ea5d6c9b25",
+      "Value": "{n}You have founded your own cult. Henceforth, your glove is treated as a sacred relic in the dungeons under the Old Sycamore.{/n}"
+    },
+    {
+      "Key": "21e58f22-02be-463f-a02d-1818d6c9e607",
+      "Value": "\"You know... It looks like you may yet become a worthy ruler of this realm.\""
+    },
+    {
+      "Key": "518fd570-8113-463b-a9d8-c3773f7e8d22",
+      "Value": "\"Ha ha! About time! Let's have some fun!\""
+    },
+    {
+      "Key": "a7a130d6-7ec9-459f-888b-afa23b586703",
+      "Value": "\"Whaaat?! Treassson! To armsss, to armsss!\""
+    },
+    {
+      "Key": "8e630696-3a42-4ab6-a1f6-cb01409033a3",
+      "Value": "\"{d|c11 Kobolds}Friend!{/d} We fight! Mitesss run away! You find Tartuk and relic?\""
+    },
+    {
+      "Key": "2ada8e72-ef9d-45ab-adb4-da266d842acc",
+      "Value": "\"{d|c11 Mites}Our ally{/d} brave come back! When you go, we defeat kobold.\""
+    },
+    {
+      "Key": "ed166305-c781-4f3d-a5b1-6c11cdcb94c9",
+      "Value": "{n}At the exit of the Sycamore Hall you meet Bdaah, queen of the mites and Sootscale, chief of the kobolds. They look askance at each other, their rage barely suppressed, but they do not attack.{/n}"
+    }
+  ]
+}

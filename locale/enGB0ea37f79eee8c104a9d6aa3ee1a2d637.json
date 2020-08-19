@@ -1,0 +1,117 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "154fd37e-3997-4d17-9d90-027fcbe05395",
+      "Value": "\"Is the body of your General here as well?\""
+    },
+    {
+      "Key": "cc1f0333-54aa-48ca-a124-d80c0adf0fe3",
+      "Value": "\"This monster was your General?\""
+    },
+    {
+      "Key": "6580a3e1-008f-46bb-b1c8-a6b0e035e403",
+      "Value": "\"What happened to your General?\""
+    },
+    {
+      "Key": "a2c54926-d1d4-4f7b-8696-a59b71742edd",
+      "Value": "{n}In silence, Maegar examines the dead end. It's painted in blood, and filled with remains, both ancient and fresh. He raises his head.{/n} \"There are bones everywhere... And this broken equipment... I recognize it. They used to belong to my fighters – the ones who...\" {n}His voice breaks.{/n} \"The ones who came here with the... the General that day.\""
+    },
+    {
+      "Key": "2a31de78-22e3-4c95-b388-e9ce8c056e0d",
+      "Value": "{n}Varn examines the remains more closely.{/n} \"No... Praise {g|Desna}Desna{/g}, he is not here. But where is he? Crushed under the cave-in? Vanished into a portal? I see no answers here. I'm afraid our expedition was in vain.\""
+    },
+    {
+      "Key": "3f87eda6-3d8d-45b9-b2c5-0afc4d394764",
+      "Value": "{n}Varn examines the remains more closely.{/n} \"No... Praise {g|Desna}Desna{/g}, she is not here. But where is she? Crushed under the cave-in? Vanished into the portal? I see no answers here. I'm afraid our expedition was in vain.\""
+    },
+    {
+      "Key": "a7d1df23-80c9-4243-8e2e-302d4ef2b465",
+      "Value": "\"If you'll allow it, I'll stay here a while... Alone with my people. To give them their final honors. You, {mf|Your Grace|Your Grace|Your Highness|Your Highness}, can examine the other rooms, or return to the capital. Don't wait for me, I will follow you soon.\""
+    },
+    {
+      "Key": "8bc58f76-f756-4e57-b7c2-a978c98b66d1",
+      "Value": "{n}With the final monster slain, the General falls to the ground. Varn rushes to him to catch the limp body. Checking for pulse, he sighs with relief.{/n} \"Alive. Praise {g|Desna}Desna{/g}, he's alive – though exhausted.\""
+    },
+    {
+      "Key": "16e6e582-1a6b-45ca-8b1d-fd0f6cf7fecc",
+      "Value": "{n}Varn runs to the monster's body.{/n} \"Is that... You? Why, it can't be! What is it? What have they done to you?!\""
+    },
+    {
+      "Key": "7af6b5c9-5345-4852-a8ca-3975d699ee78",
+      "Value": "{n}With the final monster slain, the General falls to the ground. Varn rushes to her to catch her limp body. Checking for pulse, he sighs with relief.{/n} \"Alive. Praise {g|Desna}Desna{/g}, she's alive – though exhausted.\""
+    },
+    {
+      "Key": "03c16fa3-0991-4ff2-9ace-9d976f07813a",
+      "Value": "{n}With the final monster slain, the General falls to the ground. Varn rushes to her to catch her limp body. Checking for pulse, he sighs with relief.{/n} \"Alive. Praise {g|Desna}Desna{/g}, she's alive – though exhausted. I don't know what I would do if I'd lost her!\""
+    },
+    {
+      "Key": "b4cab93f-87e9-4f8c-8623-949665b6086b",
+      "Value": "\"I don't know. You saw everything I did! It closed when we defeated the monsters... Maybe we broke some spell without knowing it? Or it was closed by the same person who opened it? Is it the same person who created this insane fortress? I thought I heard someone's voice...\""
+    },
+    {
+      "Key": "4807c042-a72d-4a56-abca-3bf00a16ac12",
+      "Value": "{n}Maegar looks into his companion's exhausted face.{/n} \"It looks like he stood guard here all this time. Fighting monsters day after day, month after month, without sleep or rest.\""
+    },
+    {
+      "Key": "331d6367-e3e0-415a-81ef-8fdd09613f63",
+      "Value": "\"We haven't looked through all the rooms. You can search the rest if you like. But if you'll allow me, I will stay here for a while to guard his sleep. He deserves at least a bit of rest. Don't wait for me – return to the capital. We will follow you as soon as he awakens.\""
+    },
+    {
+      "Key": "e677a57c-0e7c-4b61-9d15-5b4774376bb8",
+      "Value": "{n}Maegar looks into his companion's exhausted face.{/n} \"It looks like she stood guard here all this time. Fighting monsters day after day, month after month, without sleep or rest.\""
+    },
+    {
+      "Key": "cbdd7ed3-6764-40bb-b56d-1149e08a87cc",
+      "Value": "{n}Maegar runs his hand worriedly over his companion's cheek.{/n} \"It looks like she stood guard here all this time. Fighting monsters day after day, month after month, without sleep or rest.\""
+    },
+    {
+      "Key": "e514c85a-d9ee-40c6-9bbf-bb84f8602f4a",
+      "Value": "\"I don't know how this is possible, but this insane dungeon is filled with wild, unexplainable magic! In any case, whatever spell was cast on her, I think we've broken it. She's free again!\""
+    },
+    {
+      "Key": "77fd7e17-bd26-43dc-b4cd-8b15cc76a8df",
+      "Value": "\"I don't know how this is possible, but this insane dungeon is filled with wild, unexplainable magic! In any case, whatever spell was cast on him, I think we've broken it. He's free again!\""
+    },
+    {
+      "Key": "39d90657-a853-4a3c-9dd2-dbf2d78df211",
+      "Value": "\"I don't know how this is possible, but this insane dungeon is filled with wild, unexplainable magic! In any case, whatever spell was cast on her, I think we've broken it. She's free again... And with me!\""
+    },
+    {
+      "Key": "00de9a19-5514-49c2-8f10-8f8ab547b957",
+      "Value": "\"We haven't looked through all the rooms. You can search the rest if you like. But if you'll allow me, I will stay here for a while to guard her sleep. She deserves at least a bit of rest. Don't wait for me – return to the capital. We will follow you as soon as she awakens.\""
+    },
+    {
+      "Key": "f4ebd169-e7a1-4759-b608-87daee5ddb3b",
+      "Value": "\"We haven't looked through all the rooms. You can search the rest if you like. While I...\" {n}Maegar smiles tenderly.{/n} \"I've found everything I was looking for. If you'll allow me, I will stay here for a while to guard her sleep. Don't wait for me – return to the capital. We will follow you as soon as she awakens.\""
+    },
+    {
+      "Key": "ea96549c-81ee-4fa5-9a00-751e8f1eb1c3",
+      "Value": "\"I don't know. It just closed. What does it matter now?\""
+    },
+    {
+      "Key": "c3675c65-495a-4766-adab-6f0a79e54d35",
+      "Value": "\"You can search other rooms if you wish, or return to the capital. Don't wait for me, I... I'll stay here for a while, and give my people their final honors.\""
+    },
+    {
+      "Key": "52990242-1921-40a7-8962-d0e459833168",
+      "Value": "{n}Maegar shakes his head as though he's lost.{/n} \"Yes. I'd recognize that voice anywhere. But why? How could this happen? How is it possible, my friend?\""
+    },
+    {
+      "Key": "f698be35-2939-4bc8-83f3-f15c1c1f3da0",
+      "Value": "{n}Maegar hides his face, and his shoulders shake.{/n} \"Yes. I'd... recognize that voice anywhere. How is this possible?\""
+    },
+    {
+      "Key": "6f18d977-ffed-4470-bb1e-d05b56619f76",
+      "Value": "{n}Maegar grows grim.{/n} \"The bones that are scattered here... This broken equipment... I recognize the armor and swords. Indeed, I bought them myself, for the party that breathed their last breath right here where we stand. I'm afraid no one survived. Before I follow you to the capital, my General and I will give them their final honors.\""
+    },
+    {
+      "Key": "5576817e-e49a-43e2-a438-0c00f7a31d88",
+      "Value": "\"I don't know, and I don't care. Search the other rooms, or return to the capital if you wish. Don't wait for me. I'll... stay here. Alone with her. I must bury her, and what remains of my party.\""
+    },
+    {
+      "Key": "17fb4d98-2a28-40f4-a452-4da1066f0d67",
+      "Value": "\"There are human bones and broken equipment scattered all around. I recognize some of it. – I bought them for the party myself... It appears that no one survived.\""
+    }
+  ]
+}

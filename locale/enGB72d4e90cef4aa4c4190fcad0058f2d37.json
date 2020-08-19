@@ -1,0 +1,245 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "72da0cf4-4968-4273-8185-9488e6d2cb02",
+      "Value": "\"Tartuccio's trying to set me up. He's the one who gave me this ring!\""
+    },
+    {
+      "Key": "1d818ee0-e725-4623-b5ac-13fa7c17079a",
+      "Value": "\"I have no connections to Pitax — but Tartuccio's name, accent, and clothes seem like he came straight from there! Which of us looks more like they might be Irovetti's spy?\""
+    },
+    {
+      "Key": "c90f242d-e7bc-4884-81e9-5e38dcdce317",
+      "Value": "[Attack] \"Liar!\""
+    },
+    {
+      "Key": "bd4abbec-22a8-4ce8-b4b3-3fad5a5ea668",
+      "Value": "\"Forgive me for my trespass. In my defense, we were in the middle of a battle and in dire need of weapons.\""
+    },
+    {
+      "Key": "fd5ab121-95ae-49f9-ae3b-56556cd21185",
+      "Value": "\"We were in the middle of battle and needed weapons! There was no time to run and ask permission!\""
+    },
+    {
+      "Key": "7d55c061-c2c1-4ea8-83e2-3e496d96af0f",
+      "Value": "\"We weren't trying to take the money — we just wanted to keep it away from the bandits.\""
+    },
+    {
+      "Key": "a39c39da-eec8-4c06-8073-76cf79894e46",
+      "Value": "\"So what if we did? The guards weren't able to handle their responsibilities, so we decided we should teach them a lesson.\""
+    },
+    {
+      "Key": "33c83e1e-34fe-4edc-a6fd-068e3704ef85",
+      "Value": "\"People were dying right in front of me. How could I just walk by?\""
+    },
+    {
+      "Key": "1940f26e-0078-472d-a37b-b3874554c290",
+      "Value": "\"I wouldn't have saved them without good reason. Dead soldiers are useless, but the wounded could still help Kesten defend the mansion.\""
+    },
+    {
+      "Key": "aedfd8b0-a188-495d-978f-afe4f8f72a88",
+      "Value": "\"I regret that I couldn't save everyone — I would have if I could! I'm sad for the perished, but I had to decide between helping them and helping Lady Aldori. Forgive me if I chose wrongly.\""
+    },
+    {
+      "Key": "953b7c20-7d45-4358-9100-3fc8a68d60eb",
+      "Value": "\"Heartless? So what? I'm not going to worry about guards' lives when their ruler's life is at stake!\""
+    },
+    {
+      "Key": "5fb6348b-e946-4fff-b8d2-b757521f91ba",
+      "Value": "[Take the ring from your pocket] \"You mean this ring? The one YOU gave me?!\""
+    },
+    {
+      "Key": "aaf3f28f-5d76-441b-a306-818066e41316",
+      "Value": "[Show your hands] \"What ring? What are you talking about?\""
+    },
+    {
+      "Key": "6ef8bba0-c11a-42e0-8622-85d029b9c666",
+      "Value": "{n}As Jamandi catches her breath, she looks over the trashed banquet hall and salutes the survivors.{/n} \"Thank you for your valor and bravery! The enemy was strong, but you were stronger. And that means I made the right choice! Just as I thought, there were worthy leaders among you — {Name} and Tartuccio, to be precise. I'm especially grateful to them for the courage and common sense they showed while defending the mansion... But this attack means we have even less time than I'd thought. Someone already knows of our plans and is acting against us. You'll begin your expedition immediately.\""
+    },
+    {
+      "Key": "4a71ddaa-adb5-479a-a322-a51c1ad9a019",
+      "Value": "\"Lady Aldori...\" {n}Valerie bows respectfully to the {g|Swordlords}swordlord{/g}.{/n} \"Most of those who were to set off for the {g|Stolen Lands}Stolen Lands{/g} have been killed. Those who yet live will require help. Please allow me to join the expedition.\""
+    },
+    {
+      "Key": "050dde59-30e5-494d-842c-b4030db2d229",
+      "Value": "\"I'm sad to lose such a talented warrior, but you're right, Valerie. They have greater need of you right now. Go, and may {g|Abadar}Abadar{/g} keep you. Which of the two teams would you prefer to accompany?\""
+    },
+    {
+      "Key": "312ecf06-6bfc-4bd4-9dff-9d7ff5863951",
+      "Value": "\"Lady Aldori! Please, I know who arranged this attack. The vile king of {g|Pitax}Pitax{/g}, Irovetti! What's more, I know who among us works for him...\" {n}After a dramatic pause, Tartuccio points a finger toward you.{/n} \"{Name}! Show everyone the ring you're wearing! You think I wouldn't recognize Irovetti's seal? That's why {mf||s}he wasn't killed — the bandits recognized {mf|him|her} as one of their own by this signet ring!\""
+    },
+    {
+      "Key": "af1d261a-e9b3-4256-9358-aa14bacdeb3a",
+      "Value": "{n}Jamandi draws her sword.{/n} \"Not another move, or I'll kill you where you stand!\""
+    },
+    {
+      "Key": "c063f5ef-1028-4913-9228-d20b7368e24b",
+      "Value": "\"Yes, such a gambit would be typical of Irovetti and his {d|c0 Keep Ring}henchmen{/d}... And yet, it still seems suspicious.\""
+    },
+    {
+      "Key": "b8979854-1c15-426b-abcc-cfb194c17e09",
+      "Value": "\"In the middle of the attack, he took off the very {d|c0 Keep Ring}ring{/d} that would guarantee his safety just to set you up? Possible, but not convincing.\""
+    },
+    {
+      "Key": "3063a4fd-0996-4384-86c1-9c9831cff024",
+      "Value": "\"Probably, yes, but this evidence is circumstantial at best.\""
+    },
+    {
+      "Key": "82d4d4da-37a7-42b0-a2d9-ed07a2c16dcb",
+      "Value": "\"There's definitely a spy among us, but who? Tartuccio, or {Name}? All I have is one word against another. I'm afraid you're both under suspicion.\""
+    },
+    {
+      "Key": "46dfa11f-ae0f-44fc-865d-1782fd46dd1d",
+      "Value": "\"Lady Aldori, don't listen to this thick-headed barbarian — she doesn't know what she's talking about! During the attack, {Name} showed {mf|his|her} true colors! {mf|He|She} forced us to break into the armory and rob it!\""
+    },
+    {
+      "Key": "10da89e8-d5b0-4804-82df-89867365f4bc",
+      "Value": "\"And not just that, upon finding the guards' salaries in the armory, {mf||s}he immediately {d|c0 took money}pocketed{/d} it all!\""
+    },
+    {
+      "Key": "676043c2-10b6-4694-9b5f-d4d51b9ee927",
+      "Value": "\"Any thief caught red-handed would say the same.\""
+    },
+    {
+      "Key": "0783906a-4744-4ade-a585-2e5797803844",
+      "Value": "\"I'll be the judge of how my guards have handled their responsibilities. Please return the money now.\""
+    },
+    {
+      "Key": "04961f97-8533-485b-a754-6ef38fd08dca",
+      "Value": "\"I see you don't scare easily! You'll do well in the {g|Stolen Lands}Stolen Lands{/g}. But I'm going to have to ask you to return the money.\""
+    },
+    {
+      "Key": "7e4a58fd-7522-4048-ab9b-ba3d5702c576",
+      "Value": "\"What about that trick {mf||s}he pulled right before we came in here?\""
+    },
+    {
+      "Key": "94d45595-25e2-4d06-80f9-cdd2ae18c410",
+      "Value": "\"{mf|He|She} knew very well you were fighting the enemy, but instead of rushing to help you, {mf||s}he dallied as long as {mf||s}he could! Dropping everything to {d|c0 Saved People}save{/d} people from the fire, even though the guards were handling things just fine! {Name} was obviously hoping to show up too late and find you already dead!\""
+    },
+    {
+      "Key": "b005203f-41cb-4da6-88c6-26aef1dbe780",
+      "Value": "\"Some scoundrels set your mansion on fire, and as we were approaching the room, we saw your brave guards — your underlings! — dying in the fire, begging to be saved! And what did {Name} do? {mf|He|She} {d|c0 Let People Burn}passed{/d} right on by, mercilessly leaving them to their fates! Simply heartless!\""
+    },
+    {
+      "Key": "9db1c32c-1d6e-4511-99ab-83ae6e727e37",
+      "Value": "\"Cruel, but true.\""
+    },
+    {
+      "Key": "a797942e-aa99-40c6-a411-ff48e58adc3b",
+      "Value": "\"Really, Tartuccio? You're seriously trying to blame {Name} for saving people from a fire?\""
+    },
+    {
+      "Key": "7de01618-2ad3-4bf8-aa9f-3f10437886f9",
+      "Value": "\"Trying to save others is commendable, but Tartuccio's right — you were needed here more.\""
+    },
+    {
+      "Key": "fccc83ca-4c62-4950-8399-db35212c0a3d",
+      "Value": "\"You're talking about living people, {Name}, not pawns on a game board.\""
+    },
+    {
+      "Key": "82d541b0-e18f-483a-b8f9-f465cbbff46d",
+      "Value": "\"Alas, sometimes such decisions must be made. Don't blame yourself — you did the right thing.\""
+    },
+    {
+      "Key": "abcf0d05-3dbf-4d8e-b4da-33084fc37613",
+      "Value": "\"It's a cruel reality, but on the battlefield, sometimes such decisions have to be made.\""
+    },
+    {
+      "Key": "840d2aac-596f-401d-9512-55f755b7c19b",
+      "Value": "\"Enough squabbling. I'm still not sure which of you I can trust. However, the risk of entrusting the whole affair to a spy is too great. Here's what we'll do — two teams will head out. One will be headed by Tartuccio, and the other by {Name}. That way, I'll know at least one group can be counted on to serve my interests in the {g|Stolen Lands}Stolen Lands{/g}!\""
+    },
+    {
+      "Key": "f14849a3-e24c-4db8-8a4b-a1584e753cd2",
+      "Value": "\"If {Name} allows, I would join {mf|his|her} team. {mf|He|She} seems a worthy commander in my eyes.\""
+    },
+    {
+      "Key": "76f13c47-398c-4e23-83de-ce832993ac42",
+      "Value": "\"If Tartuccio allows, I would join his team. Forgive me, {Name}, but I don't appreciate your {d|c0 You Chaotic}willfulness{/d}.\""
+    },
+    {
+      "Key": "9a81a1f8-22a4-4e13-9cbb-ba95e418cbf3",
+      "Value": "\"And I like {Name}! What wisdom lies in minding orders, laws, and rules in the face of oblivion, knowing not whether you'll be alive tomorrow? I will go with {mf|his|her} team.\""
+    },
+    {
+      "Key": "ad8986d8-6775-4400-92a0-42dbe8405d6c",
+      "Value": "\"Commanders, military leaders... All these {d|c0 You Lawful}laws and rules{/d} are but dust and vanity. I suppose I will accompany Tartuccio.\""
+    },
+    {
+      "Key": "49db7f61-1bad-4ed8-bfda-ca173200d4d7",
+      "Value": "\"I like how {Name} does things — efficient and without unnecessary spiritual agonizing. I'll go with {mf|him|her}.\""
+    },
+    {
+      "Key": "61543dc3-530c-4c77-8404-c0734fad8ab7",
+      "Value": "\"{Name} is good in battle, but I don't like all the {d|c0 You Good}spiritual agonizing{/d}. I prefer those who can act without wasting time helping every little pipsqueak. Those like Tartuccio.\""
+    },
+    {
+      "Key": "1d15d26a-fcc8-474d-9ab0-4b3a2117a743",
+      "Value": "\"Oh, Tartuccio's going to take the credit for himself and be done with it! {g|Shelyn}Shelyn{/g} spare me from such allies! {Name}, I'm going with you. You're a hero worthy of my quill!\""
+    },
+    {
+      "Key": "0bb190e5-4ec4-4793-bfa8-10145f543dc9",
+      "Value": "\"Efficient? I'd say {d|c0 You Evil}heartless{/d}! Would the protagonist of my book do such a thing? No — I guess I'd better go with Tartuccio.\""
+    },
+    {
+      "Key": "d11315f5-8a10-4822-9731-a210a7f53c50",
+      "Value": "\"All right. We have two teams. To avoid unnecessary conflict on the road, you'll each take a different route to the {g|Stolen Lands}Stolen Lands{/g}. Tartuccio's team will go through {g|Nivakta's Crossing}Nivakta's Crossing{/g} — the garrison commandant will provide him all the help he needs. {Name} will take {mf|his|her} team to {g|Oleg's Trading Post}Oleg Leveton's trading post{/g} — he's been complaining about the Stag Lord's bandits for a while now. There, you'll be provided with all the necessary travel supplies.\""
+    },
+    {
+      "Key": "c93f06bb-f884-4211-bb4b-473d2c48dfa9",
+      "Value": "\"{Name}, I'd like to believe you, but I know all too well how convincing traitors and spies can be. If you're truly innocent, I hope you can forgive me this precaution.\""
+    },
+    {
+      "Key": "9b3db6d6-ee71-4082-818a-4d3c3cd78f69",
+      "Value": "\"And now — farewell! This battle was but the first ordeal along your path, and you overcame it as true champions of {g|Restov}Restov{/g}. May the obstacles that follow also fall to your feet! Fear nothing, my friends, and return victorious!\""
+    },
+    {
+      "Key": "43cddbdb-4c45-4533-be04-003793e737e7",
+      "Value": "\"I don't even need to think! {Name}, I'm coming with you. As for you, purple toad, just wait till we meet along the way — I'll be sure to hang your rotten spy guts from the trees!\""
+    },
+    {
+      "Key": "20ed44f4-e97b-4bdf-9b65-881c5702ef84",
+      "Value": "\"Of course, theft is not to be condoned... But when the fire burns around you and you are but one step away from death, would it not be insane to worry about laws and rules? I see this act not as a crime, but as a unique wisdom visiting us as we stood at the face of oblivion...\""
+    },
+    {
+      "Key": "e3f5a6ed-674e-4f04-8564-567c0a6a623c",
+      "Value": "\"While you're away, Kesten will investigate the night's events and learn who in {g|Restov}Restov{/g} is working for {g|Pitax}Pitax{/g}. But you should know that it isn't just Pitax we need to worry about — {g|House Surtova}the Royal House of Surtova{/g} may also interfere in our plans. I've managed to keep this affair a secret from them so far, but that can't last long. By my estimations, you have no more than three months. After that, any feats you accomplish will be pointless.\""
+    },
+    {
+      "Key": "f0035e8d-1722-4b63-829a-9962df3dc682",
+      "Value": "\"I bet my life the spy's anyone but {Name}! I saw how {mf||s}he dealt with those creeps with my own eyes! A true warrior — I'd go with {mf|him|her} through hell and high water! This purple crook, on the other hand...\" {n}Amiri spits on the floor with contempt.{/n} \"He's got the eyes of a spy! And the mug of a spy!\""
+    },
+    {
+      "Key": "ca0531fc-12aa-4fb8-85e1-95bab41a98a3",
+      "Value": "\"Tartuccio, your words are quite convincing, but I can't afford to trust words alone. If you're really innocent, I hope you'll prove it with your deeds.\""
+    },
+    {
+      "Key": "51e97550-9ffe-4ceb-86a3-358a1d4385b8",
+      "Value": "\"Lady Aldori, I saw it all with my own eyes! The ring must be in {mf|his|her} pocket! Search {mf|him|her}, and I'm sure...\""
+    },
+    {
+      "Key": "3e528fae-b56c-4dd3-a2f0-70714f9c8541",
+      "Value": "\"Enough, Tartuccio. I'm still the one giving orders here. We won't be searching anyone.\""
+    },
+    {
+      "Key": "edd0a527-a830-42b2-8cd6-f391e5d0e872",
+      "Value": "\"Of course, theft is not to be condoned... However, when the fire burns around you and you are but one step away from death, is it not insane to worry about laws and rules?\""
+    },
+    {
+      "Key": "27b888ea-7aaa-48b3-830c-7825a8bd3b82",
+      "Value": "\"They both came to your aid, Lady Jamandi... But a liar's cunning knows no bounds. I've never met these two, or their companions. For all I know, they're all conspiring spies.\""
+    },
+    {
+      "Key": "b8ed8c58-104d-4855-842d-cc67770e148c",
+      "Value": "\"How could you say that?! We fought together... we literally went through fire together! And then you vanished into thin air – after you promised you'd wait!\""
+    },
+    {
+      "Key": "31a17e27-9761-44bd-9e44-ba54e70758bb",
+      "Value": "{n}The tiefling is obviously embarrassed.{/n} \"My words might be rash...\""
+    },
+    {
+      "Key": "b9bd4183-549e-4a23-8d83-4c0004c0547b",
+      "Value": "\"As for me, I know neither of these two... at least, not well enough. And I have no wish to become an unwitting pawn to a unworthy leader. If Lady Jamandi allows, I'll remain in Restov and help mend the wounds this attack has inflicted. But who knows – the road may bring me to the Stolen Lands... but not yet.\""
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "df371863-827e-4f93-9a9b-49aa0c090898",
+      "Value": "\"Tell me the truth about what happened to you.\""
+    },
+    {
+      "Key": "21cf469f-96e8-42f0-88a7-e6f2b2a535f1",
+      "Value": "[Finish the hunter] \"We've no place for monsters like you!\""
+    },
+    {
+      "Key": "e9df9a16-e76f-48b3-bf57-29ca4dff473c",
+      "Value": "\"Enough, Ivar. I've heard what I need — I won't kill you.\""
+    },
+    {
+      "Key": "e526f527-1cd6-4c54-b46b-f0b4720e7d23",
+      "Value": "\"Why not work for me? Lay down the title of Dragon's Voice and become the {mf|Baron|Baroness|King|Queen}'s Voice for the people.\""
+    },
+    {
+      "Key": "28143160-047c-4023-abd5-ae1856c1a50a",
+      "Value": "\"So how exactly did you 'serve' people?\""
+    },
+    {
+      "Key": "7f489bea-d84a-4149-8450-f8399bffb329",
+      "Value": "\"Were I to spare you, what would you do?\""
+    },
+    {
+      "Key": "3a7cc5fa-f020-435f-a054-e143262344f1",
+      "Value": "[Finish the hunter] \"I'll reunite you with your family. Farewell!\""
+    },
+    {
+      "Key": "296ac7fd-c1a6-4560-b9b9-c2ea9557c3ca",
+      "Value": "\"You needn't worry about them any longer.\""
+    },
+    {
+      "Key": "018a3d23-957f-4d6f-9ac4-beda346b6514",
+      "Value": "\"Tell me about this gang.\""
+    },
+    {
+      "Key": "5602d700-94c2-4023-bef7-c29346b06a0b",
+      "Value": "\"That's enough for now.\""
+    },
+    {
+      "Key": "6e09b751-896e-40e5-9b15-f5daa04c7554",
+      "Value": "\"Go. Try to forgive yourself, if you can.\""
+    },
+    {
+      "Key": "ce425dd9-087d-46e9-bd73-ac8459724213",
+      "Value": "\"Farewell. And take care to never cross my path again.\""
+    },
+    {
+      "Key": "1346d353-3522-4679-baa3-12b33a18ca25",
+      "Value": "{n}The werewolf's powerful body shrinks and contorts. The beastly features transform into the face of Ivar, the hunter. There are deep wounds all over his body.{/n}"
+    },
+    {
+      "Key": "0cbbf676-9779-4507-a95f-7ee52ca98a3c",
+      "Value": "\"So this is how it finally ends...\""
+    },
+    {
+      "Key": "d4db1b9a-2178-4dfd-a586-b20576ff2670",
+      "Value": "\"Let it be my last fairy tale, then. Once upon a time, there lived a stupid young hunter named Ivar. He loved his family — his wife, his son, his little daughter — very much. He also loved making up fairy tales for his children. But one night, he came up with a foolish story, one about a silver dragon that can only be spotted if you climb to the top of a high cliff as the new moon rises. That very night, the children snuck out of the house and... their bodies were found at the base of the cliff the next morning...\""
+    },
+    {
+      "Key": "ef8b5eed-47d1-4127-92c0-7be1dc43dfa9",
+      "Value": "\"His poor wife's heart couldn't bear the loss. Lissa... she was gone soon after. So Ivar cursed himself. Cursed his own blabbering tongue and reckless mind. Standing near the graves of his family, he could only mutter to himself over and over, \"I'm a monster... I'm a monster!\" Then, he felt the self-inflicted curse begin to melt him from the inside — burning him, turning him into a beast. He became a werewolf, swore to protect the village to honor the memory of Lissa and his children. He wanted to serve people, to bring them good instead of evil, at least once.\""
+    },
+    {
+      "Key": "2375cff2-894a-4696-8d28-d481bc17aaab",
+      "Value": "\"Sorry, {mf|baron|baroness|king|queen}, but no. I'm not interested in working for anyone else. Besides, the village would never accept me if they learned who I really am. So, please, just finish me off or let me go — the choice is yours.\""
+    },
+    {
+      "Key": "1d4ac539-68d8-4249-b1b1-891ec4a22122",
+      "Value": "{n}Ivar's brow furrows.{/n} \"I stopped looking to the future long ago. But... but I don't think I belong here anymore. Especially if people discovered the truth. Were you to spare my life, I'd... leave. Leave, and try to find a new reason to live.\""
+    },
+    {
+      "Key": "68197d9b-ebb2-4b19-aa4f-c33bb482c4a3",
+      "Value": "\"There's always someone trying to take from the villagers, be it their property or their lives. Many's the villain who's become food for worms in the nearby woods. The only danger I haven't gained much ground against is a gang holed up in a nearby cave. I started hunting them, but it seems I've run out of time to finish the job.\" {n}Ivar's tone is bitter as he looks away.{/n}"
+    },
+    {
+      "Key": "c6aada25-e98e-4f27-8d48-092b02f6ef0a",
+      "Value": "\"Thank you, {mf|baron|baroness|king|queen}. That lightens my burden.\""
+    },
+    {
+      "Key": "cde957ed-d4c8-4269-92a8-8e0c04f033bc",
+      "Value": "\"Planning a visit?\" {n}Ivar smirks.{/n} \"The gang's not big, but they are well trained. They're very familiar with the woods around here — they've made a den in one of the caves to the west, near the lake. It isn't far.\""
+    },
+    {
+      "Key": "6f101385-53cc-4ae4-915a-f331a7941746",
+      "Value": "\"As you say.\""
+    },
+    {
+      "Key": "f881e190-2780-4270-9883-243184dc8ad9",
+      "Value": "{n}Ivar stands, holding the wound on his side.{/n} \"I was... not expecting mercy, but I'm certainly grateful for it.\""
+    },
+    {
+      "Key": "01be653b-92b4-4c54-8235-2b2bddbdb8c1",
+      "Value": "\"Head forward, then take to the right. And if you're looking for work, my advice would be to find a traveling circus — I'm sure you'd fit right in.\""
+    },
+    {
+      "Key": "94e42559-b553-482e-a4d0-97f322d829a5",
+      "Value": "{n}Octavia is shaking slightly after all that's happened.{/n} \"Thank you for giving him a chance. I... I hear there's a cure for lycanthropy. Good luck to you, Ivar!\""
+    },
+    {
+      "Key": "ac932d55-48c5-49a4-9d7b-eb4dd4a97705",
+      "Value": "{n}Ivar bows slightly, then winces in pain.{/n} \"A word in parting, if I may, {mf|baron|baroness|king|queen}. Consider it my werewolf instincts talking. I can tell you'll be the subject of stories and legends yourself, soon, and I'm sure they'll be told far and wide across the land. Now, whether they'll be tales of terror or of hope — well, that will be up to you.\""
+    },
+    {
+      "Key": "9794f976-ceb9-4cc9-935a-742a32a54cb9",
+      "Value": "\"I'll make sure of that!\" {n}Linzi smiles.{/n} \"And your story... it won't be forgotten! I promise!\""
+    },
+    {
+      "Key": "08e182fc-149a-40f4-8d92-ea077acbd061",
+      "Value": "\"Shut your trap, animal!\" {n}Regongar spits at the werewolf, then looks at you, grinning in triumph.{/n} \"His mane'll make a good trophy.\""
+    },
+    {
+      "Key": "a4290a50-47e1-48fc-8775-37c6768cc1d4",
+      "Value": "\"And if you called yourself a pig, you'd have grown a snout! That's exactly why it's so important to always think of yourself in only the best light.\""
+    },
+    {
+      "Key": "75a33a6b-7d2f-4074-b951-52da9c93d0cc",
+      "Value": "\"Anger and pain invited a beast's soul into a human heart? Huh... When I was a kid, the old crones talked about something like this. I thought it was just a fairy tale, though.\""
+    },
+    {
+      "Key": "3dd4aeb5-2231-47ea-8302-ebaf349477dd",
+      "Value": "\"Oh, you would definitely know, being the local clown and all.\""
+    },
+    {
+      "Key": "2f86a6c0-185f-4967-bbc6-125fa8941ba2",
+      "Value": "\"It's about time! Not like we've got any business chatting with wolves, here!\""
+    },
+    {
+      "Key": "22017564-6f95-4821-a230-4c99e45c8b67",
+      "Value": "\"Well... This is what I deserve.\""
+    },
+    {
+      "Key": "a177a256-1d89-480d-80ad-298ab280e5fe",
+      "Value": "\"You defeated him — that is enough. Stay your hand. Do not let anger control you.\" {n}Tristian looks at the werewolf, sadness in his eyes.{/n} \"Please. At least speak with him before passing your sentence.\""
+    },
+    {
+      "Key": "1839e0eb-c37f-458e-a709-61ec43bd108c",
+      "Value": "\"How cruel!\""
+    },
+    {
+      "Key": "b29f2790-8c57-4cc6-bf9f-f4b864ecbafb",
+      "Value": "{n}Tristian lowers his head.{/n} \"I hope you can come to terms with your loss. May {g|Sarenrae}Sarenrae{/g}'s light guide you.\" {n}Tristian turns to you.{/n} \"Thank you for showing mercy.\""
+    },
+    {
+      "Key": "5c369929-7a11-44bd-b424-d76b5287abad",
+      "Value": "\"Unlike your tongue, that speaks nothing but poisonous rot. How can you mock someone who is defeated and helpless?\""
+    },
+    {
+      "Key": "cf22dfbf-5c62-4e50-8963-5c4fb74ccd5f",
+      "Value": "\"This story breaks my heart. How can one kill with kind stories, or make oneself into a monster out of sheer gloom and grief?\""
+    },
+    {
+      "Key": "4b9888d6-62b6-4b51-9430-35da29a7f2c0",
+      "Value": "\"Almost a rebel, a high-minded rhymer, who doomed himself to the life of a shapeshifter. I'd gladly to pay to publish a book featuring his story. – Let the other rebel dreamers see where this road leads!\""
+    },
+    {
+      "Key": "d712cbbd-cdcb-4adf-aeea-7cd4a6ee1bb9",
+      "Value": "\"And the foolish werewolf joined his family in death, and never again troubled the local people. At least it's a story with a happy ending!\""
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "16a3b8d2-68e8-4a35-bfc1-671c05ac4f2f",
+      "Value": "{g|Population2_1}[Choice effects]{/g} \"Drive this bandit from my lands, and from now on do the same to any similar petitioners!\""
+    },
+    {
+      "Key": "e837d05b-60fb-4d05-bb5a-220812eb7a77",
+      "Value": "{g|Population2_2}[Choice effects]{/g} [Gain 50 BP] \"Arrest this bandit and clap him in irons. The same fate awaits any like him!\""
+    },
+    {
+      "Key": "7f4c8270-0958-46f8-8529-4fc5c41a495c",
+      "Value": "{g|Population2_3}[Choice effects]{/g} \"I will accept this tribute. I hope this good lad and his colleagues will continue to share their revenue in the future.\""
+    },
+    {
+      "Key": "e0419cb6-4a5e-449c-acfe-ecd1f5f66b0e",
+      "Value": "\"You know best what to do.\""
+    },
+    {
+      "Key": "4fe31cf7-1143-4987-bc5f-94235cd3e876",
+      "Value": "{n}Octavia looks alarmed.{/n} \"You won't believe what just happened! Some crook showed up at your gates, insisting on seeing 'the {mf|lad|lass} who bumped off the Stag Lord'! He says that he's brought a tribute to the new chief of the {g|Stolen Lands}Stolen Lands{/g}, and asks for permission to conduct his 'business' under your protection!\""
+    },
+    {
+      "Key": "03d97f31-3050-45c6-8579-fc89b303b957",
+      "Value": "\"You don't want to be seen as another Stag Lord, and your lands as an open field for thugs. Then throw this scoundrel out – along with his tribute!\""
+    },
+    {
+      "Key": "1a968543-3710-4aac-8a12-82c458f1941e",
+      "Value": "{n}Valerie enters the throne room, fiercely stabbing her heels into the floor as she approaches. She stands before you and simmering with indignation.{/n} \"I would never have thought that I'd commence my career as Regent with such a case, but... the leader of a local gang is at your gate. He's brought a chest stuffed with stolen goods, which he wants to share with you – the new lord of the {g|Stolen Lands}Stolen Lands{/g}!\""
+    },
+    {
+      "Key": "5e0bd067-724c-4a7e-8418-b65b699695be",
+      "Value": "\"I insist this impudent man be immediately arrested and brought to justice. Your lands have a long and dark legacy, but your subjects fail to grasp that the times of cutthroats and extortionists are over, and law rules here, now and henceforth!\" {n}Valerie flares her nostrils vehemently.{/n} \"You will not protect these bandits as the Stag Lord did!\""
+    },
+    {
+      "Key": "858b014c-bfe4-4d71-84c6-8f6fafe3e28b",
+      "Value": "{n}Lander smiles.{/n} \"Oh, it's an amusing situation, {mf|Your Grace|Your Grace|Your Highness|Your Highness}! A former cohort of the Stag Lord – a simple local bandit – has come to pay us a visit. It seems that he and all the other bandits in the area believe that you are now the new lord of the {g|Stolen Lands}Stolen Lands{/g}. So they sent him to pay their respects. He even brings gifts!\""
+    },
+    {
+      "Key": "5b662cb0-cfb3-4f3b-8802-69bdf8de3209",
+      "Value": "\"He wishes to share his loot, so that in response you will permit him to conduct his, ahem, business in your territory. It's not a bad solution – I'm sure the bandits will pay generously for the right to be private tax-collectors. Of course, outside your lands some may look upon this as organized extortion – but what do you care about those stiffs from {g|Brevoy}Brevoy{/g}?\""
+    },
+    {
+      "Key": "2c29e352-142f-4cf2-bf57-b675b667c211",
+      "Value": "{n}Octavia nods.{/n} \"Of course! I will indulge myself a bit, and let our citizens chase the crook to the city gates!\""
+    },
+    {
+      "Key": "2471935e-6cdc-4c90-af3a-e7322bd2df0c",
+      "Value": "\"So these presumptuous criminals can run rampant in someone else's lands? Still, at least this may teach them half a lesson.\""
+    },
+    {
+      "Key": "17accc32-616f-436f-b340-6ebd30728188",
+      "Value": "{n}Lander's face grows long.{/n} \"Oh, come now! You can't react like this to every business proposal, {mf|Your Grace|Your Grace|Your Highness|Your Highness}!\" {n}Lander sighs.{/n} \"But of course, I will do as you say.\""
+    },
+    {
+      "Key": "a31ba33a-8b67-412c-ba75-6dc4322faf24",
+      "Value": "\"You're in no mood for games today, I see! Fine, let it be so.\""
+    },
+    {
+      "Key": "351d6e4a-8fe8-43a4-b4ab-c951e976f7fc",
+      "Value": "{n}Valerie catches her breath and allows a faint smile to show on her face.{/n} \"I will carry out your orders with pleasure, {name}.\""
+    },
+    {
+      "Key": "dfe694e4-e873-44cf-bafe-52d62a7e8b77",
+      "Value": "{n}The smile disappears from Lander's face.{/n} \"Oh? I can't say this is a wise decision: there won't be any fewer bandits in your lands… they just won't be contributing to the treasury. But very well, it's up to you.\""
+    },
+    {
+      "Key": "07d0401a-5180-46b9-87ac-ce999c1ffaa0",
+      "Value": "{n}Octavia opens her mouth, amazed, and for a moment seems to have lost her gift of speech.{/n} \"So… so we what? Just let these scoundrels rob our poor citizens without fear? How can we allow this!?\" {n}The girl looks at you anxiously.{/n} \"I don't know what's got into you, but I don't like this at all!\""
+    },
+    {
+      "Key": "1f4c3860-7756-4d17-9fd8-d3391fdf685e",
+      "Value": "{n}Valerie's face turns morbid and pale. For a moment she struggles to say something, but in the end manages to force out only a single sentence, through gritted teeth.{/n} \"As you wish.\""
+    },
+    {
+      "Key": "5fb9d11b-3502-48ed-a952-ee2ae8239d77",
+      "Value": "{n}Lander rubs his hands together.{/n} \"I'm sure your Treasurer will be glad of this decision! Your subjects are not only the plowmen, but also such adventurous folks as this one – and you can't just take away their wages!\""
+    },
+    {
+      "Key": "40bafd90-c68a-4775-93c1-68213cf233af",
+      "Value": "\"Then this scoundrel and everyone like him can forget the way to these lands!\""
+    },
+    {
+      "Key": "ac5bd6c8-30c5-43aa-a8c5-82efca9f4a89",
+      "Value": "\"I will personally arrest this scoundrel, and see to it that his henchmen end up in prison cells beside him.\""
+    },
+    {
+      "Key": "19e02bd4-6587-439a-aaa8-598de8716288",
+      "Value": "\"In that case I shall accept the petitioner's gifts, and discuss further compensation with him.\""
+    }
+  ]
+}

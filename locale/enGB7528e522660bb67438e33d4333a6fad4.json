@@ -1,0 +1,109 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "8cf43caf-b39f-41cc-b303-9fa708502e17",
+      "Value": "\"Don't you have some other pressing business to attend? Perhaps Jamandi's quest — the search for the Stag Lord?\""
+    },
+    {
+      "Key": "86c1cce9-731c-4dfd-891f-e0fc27415502",
+      "Value": "\"Get to the point, Tartuccio. I know you're looking for an artifact — and you're planning to use it against me.\""
+    },
+    {
+      "Key": "ecf60ac0-c26d-4d54-9943-146f359137ba",
+      "Value": "[Attack] \"A barony cannot have two lords. You'll just have to... disappear!\""
+    },
+    {
+      "Key": "4d330d43-9582-4f82-ab9b-0fe7e21e7426",
+      "Value": "\"Linzi, don't you think it's the perfect time to throw away that silly draft and start a real book? You already have a great protagonist — me!\""
+    },
+    {
+      "Key": "be32b49c-2193-4c0f-b2f3-dee4eace0192",
+      "Value": "\"Valerie, I would say you and your sword can find greater glory than in service to Tartuccio. He summoned you to fight the Stag Lord's bandits, but now uses you for more questionable dealings.\""
+    },
+    {
+      "Key": "83bdc846-9661-4224-ac57-31017b5cbb83",
+      "Value": "\"Jaethal, isn't Tartuccio's arrogance long past what you can suffer? I can find far better use for a companion such as you.\""
+    },
+    {
+      "Key": "07ec2903-74f7-4b1f-ab73-046028907ad3",
+      "Value": "\"Harrim, I would be happy to see you among my companions. Your faith does not oblige you to follow fools and liars like Tartuccio.\""
+    },
+    {
+      "Key": "2ddcec51-b57d-4388-89df-b3089c4379ab",
+      "Value": "{n}A gnome in gaudy purple garb seizes your attention. Of course — the scoundrel Tartuccio, who you know from your time in {g|Restov}Restov{/g}. The vile gnome is standing on a small hill, expressing his discontentment in every way he can muster.{/n}"
+    },
+    {
+      "Key": "4042d6d2-53b8-455f-bc95-e2a8c5c5e4dd",
+      "Value": "\"Let me guess — you're still dawdling?\" {n}Tartuccio scoffs at his underlings, unimpressed.{/n} \"Should I make some tea in the meantime? Bake a pie, perhaps? Plant a small garden and harvest some cherries? Perhaps you'd be more comfortable wearing fools' caps and colored trousers? Then at least I'd be able to sell tickets. Come one, come all! Feast your eyes upon — \"The Slowest and Most Ridiculous Buffoons on {g|Golarion}Golarion{/g}!\""
+    },
+    {
+      "Key": "8b6acd5d-d8a6-424b-b714-c50d52ab815c",
+      "Value": "\"Why hurry? The same end awaits us all.\""
+    },
+    {
+      "Key": "88f5c781-d80c-4362-ab97-ca5cfaebc8cc",
+      "Value": "\"Sir Tartuccio, I may serve you, but I am no one's slave. We do what we can, but it is no simple feat to find an unknown object in a vast dungeon.\""
+    },
+    {
+      "Key": "18b7c280-7340-4252-a398-61b570c92a5b",
+      "Value": "\"Achoo! Digging through a dusty dungeon, searching for I-don't-know-what. And all this frowning! Scold, scold, scold. This is not how I imagined adventures with the future baron! What am I ever going write my book about? How we labored to open a chest filled with dust?\""
+    },
+    {
+      "Key": "d13b8eb8-55da-427a-9503-8ea65bcb6ced",
+      "Value": "{n}Jaethal stares Tartuccio down.{/n} \"Hold your tongue, gnome. I can hardly tell your twaddle from the buzzing of a fly.\""
+    },
+    {
+      "Key": "c42bccb4-6460-4b01-a8e0-d0adafa5de39",
+      "Value": "\"Quickly now. If we don't find that artifact soon, someone else might seize it. Someone... who's standing over there watching you right now, you fools!\" {n}Tartuccio turns his angry gaze upon you. He nods to his guards to draw their weapons.{/n}"
+    },
+    {
+      "Key": "a186cbc4-35b5-4aff-9775-e172d277ffd3",
+      "Value": "\"I might ask you the very same! Aren't you supposed to be searching the local forest for some bandit boss in a horned hat?\""
+    },
+    {
+      "Key": "63a4c88e-a918-4d3b-92d3-ffc6202b8678",
+      "Value": "\"Looks like someone's grown fond of an imaginary crown... Over here, you fools — front and center! Cover my retreat!\""
+    },
+    {
+      "Key": "3efe3c4c-4e15-42cd-b203-5e7dee7867d9",
+      "Value": "{n}The gnome grins.{/n} \"What ever did I do to deserve someone like you?! Here, you fools, drop your shovels — we're leaving! The rest of you — cover my retreat!\""
+    },
+    {
+      "Key": "21632622-182b-44f9-8565-5ab983f2f4da",
+      "Value": "{n}The little bard jumps for joy.{/n} \"Yes! I shall overturn a new leaf! And on that leaf I shall pen a wonderful, thrilling story — of the victory of the future baron{mf||ess}! And the bitter defeat of {mf|his|her} malevolent, flatulent rival!\" {n}Linzi sticks her tongue out at Tartuccio.{/n}"
+    },
+    {
+      "Key": "b489eae1-d5cd-47b1-bec2-c410b318b96b",
+      "Value": "{n}Linzi frowns.{/n} \"Why do you say my story is silly?! You haven't even read it. Ach, a critic is born every minute. Why should I help you anyway?\""
+    },
+    {
+      "Key": "d0875d09-14aa-4831-a97e-1da2319c2210",
+      "Value": "{n}Valerie folds her arms across her chest.{/n} \"You're right. Tartuccio has deceived us. A warrior who bows to a lie, who humiliates herself — there is no glory in this. I shall aid this scoundrel no more.\""
+    },
+    {
+      "Key": "509d6d36-b017-40c0-a6d2-46cfc52bd6d3",
+      "Value": "{n}Valerie looks unconvinced.{/n} \"There is truth in what you say, but a warrior cannot leave her commander on the easy words of a stranger.\""
+    },
+    {
+      "Key": "ca496de5-b2d1-433d-ab84-b25e587866a4",
+      "Value": "{n}The elf looks at you for a brief moment, then nods silently. She draws her weapon and eyes Tartuccio coldly.{/n}"
+    },
+    {
+      "Key": "5b37cc1e-27b5-4a91-984f-b2d4f8b0c8fd",
+      "Value": "{n}The elf allows herself a faint smile, unkind and frightening.{/n} \"Flattery cannot buy me, {race}.\""
+    },
+    {
+      "Key": "1ea936c2-6fd0-4645-b07f-40b2bca8c475",
+      "Value": "{n}Harrim strokes his beard, brooding.{/n} \"There is as much vanity in your words, as in the words of all who have not seen the wisdom of {g|Groetus}Groetus{/g}. Yet you seem a worthier leader than the arrogant Tartuccio. Perhaps in serving you I shall open your eyes to the teachings of my faith.\""
+    },
+    {
+      "Key": "367bf794-a4b0-41cd-ab5f-0ecc134cb42d",
+      "Value": "{n}Harrim pensively twists the strands of his beard between his fingers.{/n} \"Side with you? I cannot say if there be sense in that. I am satisfied in serving Tartuccio, as much as anyone else. {g|Groetus}Groetus's{/g} peace awaits us all, in the end.\""
+    },
+    {
+      "Key": "4b2e078b-36ea-4f5a-8175-51da668cbc1b",
+      "Value": "\"I see my magnificent rival will stop at nothing, even at stealing the servants of {mf|his|her} enemy. Let us see if your fools are even more useless than mine! Draw your swords! And cover my retreat!\""
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "$id": "1",
+  "strings": [
+    {
+      "Key": "d6d92523-8f12-4936-b51d-12e40ad030f9",
+      "Value": "{g|Espionage4_1}[Choice effects]{/g} \"Deliver the list of agents to Galt.\""
+    },
+    {
+      "Key": "afad2087-9585-43a4-af15-83990a057833",
+      "Value": "{g|Espionage4_2}[Choice effects]{/g} \"Report the treachery to Gralton.\""
+    },
+    {
+      "Key": "2e483ff3-c2e5-4083-9211-01f287da3aa6",
+      "Value": "{g|Espionage4_3}[Choice effects]{/g} [Gain 2000 gold] \"Sell the information in Daggermark.\""
+    },
+    {
+      "Key": "5ccad7e1-ed42-4f72-b6d6-1b3e67982f31",
+      "Value": "\"I trust your judgment.\""
+    },
+    {
+      "Key": "dcff999f-5928-46c6-9a70-da8f0428352b",
+      "Value": "\"Tell me more about Gralton and Galt.\""
+    },
+    {
+      "Key": "4f386534-bbda-437b-b07e-f5a7c4c3dbf5",
+      "Value": "\"We've found the one who meant to harm us. By day, he's a small fish, a scribe in Gralton. At night, he becomes an important spy from Litran, the Galtan city of Grey Gardeners. We do not know what his interest is in us, but we're following him. He recently sent a message to {g|Galt}Galt{/g}. We managed to intercept the courier on a backwoods path. The message contained a list of all Gralton's spies in Litran.\""
+    },
+    {
+      "Key": "bcbb862d-dc84-4d28-8605-fab0cb2691c5",
+      "Value": "\"We're finally on top of the enemy spy we've been tracking. An ordinary scribe from Gralton was plotting against us! It also happens that he's the head of the Grey Gardeners' intelligence operations in this city. I've no idea what interest he has in us, but we followed him and intercepted his correspondence. It contained a list of all Gralton's spies in Litran, in alphabetical order. The letter was on its way to Litran – to the Grey Gardeners' headquarters!\""
+    },
+    {
+      "Key": "476a3693-010e-4faa-a5ea-811c035c90b1",
+      "Value": "\"It's your right to choose which of your neighbors you make friends with. But what of the lives of Gralton's agents? Well, their blood is on your hands now.\""
+    },
+    {
+      "Key": "d978c756-b110-474b-b8a1-897f4e24bbb1",
+      "Value": "\"I'll be sure the Grey Gardeners know that their operation hung on our discretion. Let them be grateful to us for not punishing them harshly for their carelessness. The lives of the ungrateful are very short and full of suffering.\""
+    },
+    {
+      "Key": "3a30789b-c36d-4619-a454-a8ef2efa07c7",
+      "Value": "\"Gralton's people will stay alive. The traitor will go to jail. It's a good decision.\""
+    },
+    {
+      "Key": "6ef73d47-a199-4ec9-bee9-4f2ae13b6337",
+      "Value": "\"That's your right. But you shouldn't interfere in a squabble between two other countries. It's none of our concern!\""
+    },
+    {
+      "Key": "62f58d34-e913-4c40-8f47-fdd913a272b3",
+      "Value": "\"Selling this paper will bring us profit, and we won't even double-cross anyone. Hopefully...\""
+    },
+    {
+      "Key": "bdd6f53e-549e-4f5b-8cd8-5ad5a8df0d38",
+      "Value": "\"A revolution took place in Galt. Many were executed without trial. Others fled and hid in Gralton. They were the merchants and nobles. They dream of reclaiming their homes – and of vengeance. So the Citizen's Directorate of spies against {g|Galt}Galt{/g} was established.\""
+    },
+    {
+      "Key": "3280d943-7b02-427e-a55f-05a4b7c91075",
+      "Value": "\"When {g|Galt}Galt{/g} was flooded with the blood of the revolution, many nobles and wealthy merchants sought shelter in Gralton. Now they obsess upon reclaiming their former greatness and regaining what was taken from them. They created the Citizen's Directorate, a quite capable spying network, but still they could not bring Galt to its knees.\""
+    },
+    {
+      "Key": "13177f3c-a7fb-4633-995b-88eefef65eee",
+      "Value": "\"While mobs of ruffians were burning mansions and chopping the heads off of their nobles, Gralton sheltered those sentenced to death by the revolution. It became their refuge, in a way. Now, of course, they're just a bunch of idle fools, thirsty for revenge and dreaming of the days of yore. They created the Citizen's Directorate, a spy network, which has proven itself toothless and helpless from the very beginning.\""
+    },
+    {
+      "Key": "e273ac0a-740b-443f-ae4a-a40fa9b1a159",
+      "Value": "\"We could pass this information to Litran, and thus condemn these spies to death. The Grey Gardeners would appreciate it. On the other hand, their appreciation isn't worth so much. Better to deliver the traitor to Gralton in return for their friendship. The fanatics of Gralton are a charming bunch, but of course there's no great difference between them and the Gardeners. Why even get involved in their quarrel? My suggestion is to sell the information on the rumor market, and try to keep out of trouble.\""
+    },
+    {
+      "Key": "34ea5ffb-db7c-4b43-a85c-606a11249234",
+      "Value": "\"Their lives are in our hands. Many would be willing to pay for this list, {g|Galt}Galt{/g} first among them. Selling it would mean a death sentence to everyone on the list. I suggest we report the traitor to Gralton. We don't want these deaths on our conscience.\""
+    },
+    {
+      "Key": "cedd8593-0958-42a7-9869-056abcc4c23c",
+      "Value": "\"We intercepted one of his letters. It contains a list of all Gralton's spies in Litran. Oh, these greedy, crafty sorts, entirely oblivious to the fragile barrier that separates them from the scaffold. My good will. Gralton would be happy to learn of this treachery amongst their ranks, but what good would that do us? Would we gain their friendship and goodwill? At least the Daggermark rumor market would pay in gold! It's Gralton's own fault they weren't watching their servants. But I suggest we allow the letter to proceed to its address in Litran. If the Grey Gardeners show themselves to be ungrateful, we'll be able to eliminate them easily.\""
+    },
+    {
+      "Key": "edf24ace-2346-4d6b-83cb-64a1fc726a5d",
+      "Value": "\"The Grey Gardeners have a monastery in Litran, a city in Galt. They are spies and punishers. They keep {g|Galt}Galt{/g} safe from enemies both without and within. Their faces are covered with masks, which means anyone could be one of them. They are quite feared, and known for showing no mercy.\""
+    },
+    {
+      "Key": "6f5477fb-09e1-4384-bfd6-bd1516e3eb1d",
+      "Value": "\"It's no mystery why. It's because of the Grey Gardeners – their monastery is also there, in Litran to be precise. They look fearsome in their masks, so frightening and anonymous. Executioners, investigators, vigilantes, and murderers. They're better suited to slaughterhouse work than anything involving intellect. But people do fear them. And some are fond of them, too. They help protect the country against spies and traitors – and what's important, they keep away from politics.\""
+    },
+    {
+      "Key": "bcae97de-0ad6-4d86-9702-c26942ea6fc8",
+      "Value": "\"I like their enemies, though. The Grey Gardeners, guardians of the revolution. A vivid example of the fanaticism of the short-lived. The first thing they sacrifice in the name of their ideals is the right to life. They behave as though they cannot physically pronounce the word 'mercy'. Their reputation speaks for itself. They built a monastery in Litran; now they're casting terror in the hearts of everyone around. Their enemies don't stand a chance against their covered faces. At least until we demonstrate otherwise.\""
+    }
+  ]
+}
