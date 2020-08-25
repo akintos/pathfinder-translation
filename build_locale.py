@@ -4,9 +4,10 @@ import io
 import json
 import os
 import sys
-
 import urllib.request
-from collections import namedtuple
+import zipfile
+
+from collections import namedtuple, OrderedDict
 
 import polib
 
@@ -39,8 +40,13 @@ def parse_arguments():
     parser.add_argument("-i", "--input", required=True, metavar="INPUT_DIR",
         help="Input locale JSON file directory")
 
-    parser.add_argument("-o", "--output", required=True, metavar="OUTPUT_DIR",
+    group = parser.add_mutually_exclusive_group(required=True)
+
+    group.add_argument("-o", "--output", metavar="OUTPUT_DIR",
         help="Output locale JSON file directory")
+
+    group.add_argument("-c", "--compress", metavar="COMPRESSED_FILE",
+        help="Output locale zip file path")
 
     return parser.parse_args()
 
@@ -66,6 +72,7 @@ def main():
     lang = args.lang
     in_path = args.input
     out_path = args.output
+    c = args.compress
 
     if not os.path.isdir(lang):
         print(f"{lang} language translation directory does not exist.")
@@ -89,7 +96,7 @@ def main():
     # print(f"Loaded {len(translation)} strings")
 
     exclude_keyset = set()
-    # load string number exceptions
+    # load string number exclude data
     if n:
         exclude_keyset = load_exclude_keyset()
 
@@ -97,8 +104,10 @@ def main():
     translated = 0
     missing = 0
 
-    import collections
-    missing_dict = collections.OrderedDict()
+    # missing_dict = OrderedDict()
+
+    if c:
+        z = zipfile.ZipFile(c, "w", compression=zipfile.ZIP_DEFLATED)
     
     for filename in os.listdir(in_path):
         if not filename.endswith(".json"):
@@ -117,7 +126,7 @@ def main():
             tr = translation.get(key, None)
             if not tr:
                 missing += 1
-                missing_dict[key] = entry["Value"]
+                # missing_dict[key] = entry["Value"]
                 # print("Translation not found for " + entry["Value"])
                 continue
             
@@ -132,8 +141,13 @@ def main():
 
             entry["Value"] = value
         
-        with open(os.path.join(out_path, "zhCN" + filename[4:]), "w", encoding="utf-8") as f:
-            json.dump(j, f, ensure_ascii=False, indent=2)
+        output_filename = "zhCN" + filename[4:]
+        if c:
+            with z.open(output_filename, "w") as zf, io.TextIOWrapper(zf, encoding="utf-8") as tw:
+                json.dump(j, tw, ensure_ascii=False, indent=2)
+        else:
+            with open(os.path.join(out_path, output_filename), "w", encoding="utf-8") as f:
+                json.dump(j, f, ensure_ascii=False, indent=2)
     
     print(f"Translated {translated} of {total} strings ({translated * 100 / total:5.2f}%)")
     
