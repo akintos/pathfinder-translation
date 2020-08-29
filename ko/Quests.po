@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-08-29 05:12+0000\n"
+"PO-Revision-Date: 2020-08-30 13:18+0000\n"
 "Last-Translator: ayame <eveforce@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/quests/ko/>\n"
@@ -3997,8 +3997,8 @@ msgid ""
 "bother the {mf|baron|baroness} without a good reason, so the matter must be "
 "urgent!"
 msgstr ""
-"조드가 케스턴으로부터 받은 쪽지를 건냈습니다. 그 말이 적은 전사는 정당한 이유 없이 {mf|남작|여남작}이 신경쓰게 들려 하지 않지요,"
-" 그러니 문제는 아주 시급한 것일 거에요!"
+"조드가 케스턴으로부터 받은 쪽지를 건냈습니다. 그 말이 적은 전사는 정당한 이유 없이 {mf|남작|여남작}을 신경쓰이게 하지 않겠죠. "
+"그러니 문제는 아주 시급한 것일 거에요!"
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/C22_WitchHunt/Objectives/1_ReadKestensLetter_Title
 msgctxt "8b6e0ddf-4ef9-4f88-a88c-692299d675a3"
@@ -5004,7 +5004,7 @@ msgid ""
 "hospital in the capital. It isn't of much use yet, but they hope to discover"
 " a cure before the diseased are all torn to pieces!"
 msgstr ""
-"처음엔 침공이라 생각했던 것이 사실은 전염병으로 밝혀졌습니다! 이 정체불명의 질병은 감염된 사람이 누구든 죽음에 이르기하며, 그 순간 "
+"처음엔 침공이라 생각했던 것이 사실은 전염병으로 밝혀졌습니다! 이 정체불명의 질병은 감염된 사람이 누구든 죽음에 이르게하며, 그 순간 "
 "시체에서 괴물이 태어납니다! 조드 카브켄과 트리스티안은 수도에 야전병원을 차렸습니다. 아직 큰 차도를 보이진 않지만, 감염자들이 모두 "
 "갈갈이 찢기기 전에 치유법을 발견하길 바라고 있습니다!"
 
@@ -10787,7 +10787,7 @@ msgid ""
 "armor was stolen and disassembled, but a skilled blacksmith might be able to"
 " restore it, if all its parts were recovered."
 msgstr ""
-"날마치 남부의 드워프 무기 제작자 드란은 그의 할아버지의 유품인 질서인도자라는 멋진 갑옷에 대해 이야기했습니다. 갑옷은 도난 당하고 "
+"날마치 남부의 드워프 무기 제작자 드란은 그의 할아버지의 유품인 '맹격'이라는 멋진 갑옷에 대해 이야기했습니다. 갑옷은 도난 당하고 "
 "분해되었지만, 모든 부품을 회수하면 숙련된 대장장이가 이 갑옷을 복원할 수 있을 겁니다."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/DvarvenMaleArmorsmithLN/ArmorOfOathkeeper_Title
@@ -10815,13 +10815,12 @@ msgctxt "e52848dd-8e0b-4ec9-87e4-57d728d1dbc1"
 msgid ""
 "Onslaught was divided into three parts and sold to three different "
 "merchants. The pieces must be reclaimed so that Dragn can restore the armor."
-msgstr ""
-"질서인도자는 세 조각으로 나뉘어 세 명의 다른 상인에게 팔려갔습니다. 드란이 갑옷을 복원하려면 이 조각들을 모두 회수해야 합니다."
+msgstr "맹격은 세 조각으로 나뉘어 세 명의 다른 상인에게 팔려갔습니다. 드란이 갑옷을 복원하려면 이 조각들을 모두 회수해야 합니다."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/DvarvenMaleArmorsmithLN/ThreePiecesOfGlory_Title
 msgctxt "99e635ac-3a5a-49cc-af4b-9dc99a0b6e15"
 msgid "Bring Dragn the three fragments of Onslaught"
-msgstr "질서인도자의 세 조각을 드란에게 가져가라"
+msgstr "맹격의 세 조각을 드란에게 가져가라"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/DvarvenMaleArmorsmithLN/WaitForResult_Description
 msgctxt "64b8f866-75fd-4e41-881c-01b027d554ec"
@@ -11756,8 +11755,8 @@ msgid ""
 "at the thought of meeting him, and has asked us to deliver the letter for "
 "her."
 msgstr ""
-"섀이니아는 수도의 상인 하수프에게 반드시 전달해야하는 편지를 가지고 있습니다. 그녀의 아버지가 명령했다고 하는데... 꽤나 복잡한 "
-"부드라식 가족 문제인가 봅니다. 섀이니아는 그를 만난다는 생각만해도 긴장이 된다며 우리에게 편지를 대신 전해달라고 부탁했습니다."
+"샤이니아는 수도의 상인 하수프에게 반드시 전달해야하는 편지를 가지고 있습니다. 그녀의 아버지가 명령했다고 하는데... 꽤나 복잡한 "
+"부드라식 가족 문제인가 봅니다. 샤이니아는 그를 만난다는 생각만해도 긴장이 된다며 우리에게 편지를 대신 전해달라고 부탁했습니다."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/HumanFemaleExoticSmith/OneThousandAndOneUnthruthfulStories/Obj1_DeliveringLetterForGassuf_Title
 msgctxt "9dca938e-7168-4856-8fba-e493da0e505d"
@@ -11853,9 +11852,9 @@ msgid ""
 "help to reach harmony, otherwise the {mf|baron|baroness|King|Queen} will "
 "never see the prize that Shaynih'a owes {mf|him|her}!"
 msgstr ""
-"날마치 남부에 새 집을 꾸린 부드라인 섀이니아는 {mf|남작|여남작|왕|여왕}을 위한 위대한 무기를 만들기 위해 장인의 길에 발을 "
-"내딛었습니다. 하지만 섀이니아의 마음은 운명이 자신에게 다른 길을 택하길 원할 수도 있다는 의심에 불안해하고 있습니다. 섀이니아 마음의 "
-"조화를 이루지 못한다면, 섀이니아가 약속한 선물은 물 건너 간 것이나 다름 없습니다!"
+"날마치 남부에 새 집을 꾸린 부드라인 샤이니아는 {mf|남작|여남작|왕|여왕}을 위한 위대한 무기를 만들기 위해 장인의 길에 발을 "
+"내딛었습니다. 하지만 샤이니아의 마음은 운명이 자신에게 다른 길을 택하길 원할 수도 있다는 의심에 불안해하고 있습니다. 샤이니아 마음의 "
+"조화를 이루지 못한다면, 샤이니아가 약속한 선물은 물 건너 간 것이나 다름 없습니다!"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/HumanFemaleExoticSmith/OneThousandAndOneUnthruthfulStories/OneThousandAndOneUnthruthfulStories_Title
 msgctxt "7f29bcf2-e4e1-4e23-8a01-4b91801eba3b"
@@ -11872,7 +11871,7 @@ msgstr "장인이 뭔가 고민에 빠져 있습니다 - 찾아가 무엇이 그
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/HumanFemaleExoticSmith/OneThousandAndOneUnthruthfulStories/TalktoArtisanShai_Title
 msgctxt "260ea07a-fa68-49c8-9f0a-8dc71ecccdb4"
 msgid "Talk to Shaynih'a"
-msgstr "섀이니아와 대화하라"
+msgstr "샤이니아와 대화하라"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/HumanMaleAlchemistCN/BokkenArtisan/BokkenArtisan_CompletionText
 msgctxt "beb73ae2-2aa1-4a8b-a009-0aacfb572fa8"
