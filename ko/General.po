@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-08-21 17:01+0000\n"
+"PO-Revision-Date: 2020-09-11 21:43+0000\n"
 "Last-Translator: ayame <eveforce@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/general/ko/>\n"
@@ -5671,12 +5671,12 @@ msgstr "구드린 강 다리"
 #. Mechanics/Blueprints/GlobalMap/Locations/KAMELANDS_Region/Location_KamelandsSafariLodge_Description
 msgctxt "5a246515-d066-4433-b9a7-db3b51fd58ed"
 msgid "A hunting lodge built near a set of woods known to have big game."
-msgstr "대형 사냥감을 잡기위해 숲 근처에 지어진 사냥 오두막."
+msgstr "대형 사냥감을 잡기위해 숲 근처에 지어진 수렵 산장."
 
 #. Mechanics/Blueprints/GlobalMap/Locations/KAMELANDS_Region/Location_KamelandsSafariLodge_Name_String
 msgctxt "6fd4be7a-d24e-444e-8c21-4276bd38c6e1"
 msgid "Hunting Lodge"
-msgstr "사냥 오두막"
+msgstr "수렵 산장"
 
 #. Mechanics/Blueprints/GlobalMap/Locations/KAMELANDS_Region/Location_KamelandsSafari_Description
 msgctxt "b37e8de2-1191-43f8-a024-00de524ecfa1"
@@ -5862,7 +5862,7 @@ msgid ""
 " — both inhospitable lands, ready to swallow any unwary wanderers without a "
 "trace."
 msgstr ""
-"여행자들에게 피난처를 제공하는 드워프 여사냥꾼 덤라의 사냥 산장. 쌀쌀맞은 여주인은 산장을 찾아오는 여행객이나 보급물자를 가져오는 "
+"여행자들에게 피난처를 제공하는 드워프 여사냥꾼 덤라의 수렵 산장. 쌀쌀맞은 여주인은 산장을 찾아오는 여행객이나 보급물자를 가져오는 "
 "거래상을 제외하곤, 외부와의 접촉을 피합니다. 덤라의 산장은 풀이 많은 케임랜드와 날마치의 경계에 위치해 있는데, 둘 모두 부주의한 "
 "방랑자들을 흔적도 없이 삼켜버리는 사람이 살기 힘든 곳입니다."
 
@@ -17514,13 +17514,13 @@ msgstr "올리카"
 #. combat/C22_SeculdedLodge/SeculdedLodge_NobleFemale_String
 msgctxt "12e94756-f4f2-48da-b473-af1e74e68869"
 msgid "Una Tedrim"
-msgstr "우나 테트림"
+msgstr "우나 테드림"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Non-
 #. combat/C22_SeculdedLodge/SeculdedLodge_NobleMale_String
 msgctxt "f398fa75-0f74-44b2-8060-5575174e57ee"
 msgid "Kabron Tedrim"
-msgstr "카브론 테트림"
+msgstr "카브론 테드림"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Non-
 #. combat/C22_SilverstepGrottoFirstWorls/MagicBird_String
@@ -17669,13 +17669,13 @@ msgstr "가스페레 리아첸자"
 #. combat/C51_RushlightFestival/GraltonBrawler_String
 msgctxt "ba07a5c5-98e6-4f1b-9226-ba14b7339ab5"
 msgid "Gralton Brawler"
-msgstr "그래튼 싸움꾼"
+msgstr "그랄튼 싸움꾼"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Non-
 #. combat/C51_RushlightFestival/GraltonGuest_String
 msgctxt "bb64e1b0-3a51-447a-9a4d-c2e0ac95cc2a"
 msgid "Gralton Guest"
-msgstr "그래튼 손님"
+msgstr "그랄튼 손님"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Non-
 #. combat/C51_RushlightFestival/Guest_String
