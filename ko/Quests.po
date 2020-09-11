@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-09-10 16:00+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2020-09-11 21:43+0000\n"
+"Last-Translator: ayame <eveforce@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/quests/ko/>\n"
 "Language: ko\n"
@@ -4056,14 +4056,14 @@ msgid ""
 " woman — it's hard to tell with all those black robes and hoods. We'll have "
 "to sort it out ourselves somehow — or maybe ask Kesten to do it?"
 msgstr ""
-"남겨진 흔적은 우리를 이상하고 수상한 사람들로 가득한 외딴 오두막으로 우릴 이끌었어요. 그들 중 어느 누구도 우리가 찾는 도망자일 수 "
+"남겨진 흔적은 우리를 이상하고 수상한 사람들로 가득한 외딴 산장으로 우릴 이끌었어요. 그들 중 어느 누구도 우리가 찾는 도망자일 수 "
 "있어요. 우린 심지어 우리가 찾는 것이 남자인지 여자인지 조차 모르지만 - 온통 검은색 로브와 후드로 감싸고 있었으니까요. 우리는 "
 "어떻게든 우리 스스로 해결해야 해요. 어쩌면 케스턴에게 부탁할 수 있을지도요?"
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/C22_WitchHunt/Objectives/5_FindThePriest_Title
 msgctxt "d16f699a-583b-4322-acf7-2366687e31d7"
 msgid "Find the priest of Lamashtu among the lodge dwellers"
-msgstr "오두막에 머무는 사람 가운데 있는 라마슈투의 사제를 찾아내라"
+msgstr "산장에 머무는 사람들 중에서 라마슈투의 사제를 찾아내라"
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/C22_WitchHunt/Objectives/6_Interrogate_Description
 msgctxt "fb2b6e94-838c-4441-9e38-846839c121c6"
@@ -4120,7 +4120,7 @@ msgid ""
 " complete opposite direction! She should at least brush up on her geography "
 "before trying to lie straight to our faces!"
 msgstr ""
-"올리카의 말에 따르면, 그녀는 갈트에서 그라톤으로 여행을 하는 중이었다고 합니다. 평범하게 들립니다만, 어쩌다 도둑맞은 땅에 오게 "
+"올리카의 말에 따르면, 그녀는 갈트에서 그랄튼으로 여행을 하는 중이었다고 합니다. 평범하게 들립니다만, 어쩌다 도둑맞은 땅에 오게 "
 "됐을까요? 완전히 반대 방향인데 말입니다! 우리 면전에 거짓말을 하기 전에 지리학 실력을 갈고 닦았어야지요!"
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/C22_WitchHunt/Objectives/FindThePriestAddendums/FindThePriest_Add14_Description
@@ -4128,7 +4128,7 @@ msgctxt "bec18782-3e29-4dd5-986c-32fe31f616c1"
 msgid ""
 "There aren't many women in the world grumpier than this Dumra! She looks "
 "none too pleased at our arrival."
-msgstr "이 세상에 덤라(Dumra)보다 성격이 나쁜 여자는 얼마 없을겁니다! 그녀는 우리 도착이 전혀 기쁘지 않은 듯 합니다."
+msgstr "이 세상에 덤라보다 더 험악한 여자는 얼마 없을겁니다! 그녀는 우리가 이곳에 도착한게 전혀 기쁘지 않은 듯 합니다."
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/C22_WitchHunt/Objectives/FindThePriestAddendums/FindThePriest_Add15_Description
 msgctxt "ad6dd4b1-3bab-48d4-97ec-e9b3ba80db41"
@@ -4174,7 +4174,7 @@ msgctxt "faa2817f-088f-44db-a446-7c861b03db5a"
 msgid ""
 "Unless this Tsanna is intentionally trying to poison her masters, her "
 "cooking skills are way below average!"
-msgstr "차나가 주인장을 맛없는 요리로 독살하려는 의도가 아니라면, 그녀의 요리 실력은 평균보다 한참 아래인 것 같네요!"
+msgstr "산나가 주인장을 맛없는 요리로 독살하려는 의도가 아니라면, 그녀의 요리 실력은 평균보다 한참 아래인 것 같네요!"
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/C22_WitchHunt/Objectives/FindThePriestAddendums/FindThePriest_Add5_Description
 msgctxt "eac25763-aa9d-4609-bdad-df0b4f396594"
@@ -4547,7 +4547,7 @@ msgstr ""
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/NobleSafari/Objective_0001_Title
 msgctxt "ab935386-c513-4541-a992-248772f861a0"
 msgid "Meet the Huntsman in the Hunting Lodge"
-msgstr "수렵별장에 모인 사냥꾼을 만나라"
+msgstr "수렵 산장에 모인 사냥꾼을 만나라"
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/NobleSafari/Objective_0002_Description
 msgctxt "729e98fd-9dc0-43ba-9253-70e55311351d"
@@ -4556,8 +4556,8 @@ msgid ""
 "guests have already headed there. If we don't hurry, they'll get all the "
 "trophies, and we'll get a big fat nothing!"
 msgstr ""
-"괴물들이 살고 있는 고지는 별장에서 가까운 곳에 있습니다. 손님들은 이미 그곳으로 향했습니다. 서두르지 않으면, 그들이 트로피를 몽땅 다"
-" 가져가버릴지도 모릅니다, 그럼 우린 빈손으로 돌아와야겠지요!"
+"괴물들이 살고 있는 고지는 산장에서 가까운 곳에 있습니다. 손님들은 이미 그곳으로 향했습니다. 서두르지 않으면, 그들이 트로피를 몽땅 다 "
+"가져가버릴지도 모릅니다, 그럼 우린 빈손으로 돌아와야겠지요!"
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/NobleSafari/Objective_0002_Title
 msgctxt "68d51fe3-b473-4ab5-80b1-1223ae26dfa6"
