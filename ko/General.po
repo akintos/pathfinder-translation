@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-09-11 21:43+0000\n"
-"Last-Translator: ayame <eveforce@naver.com>\n"
+"PO-Revision-Date: 2020-09-17 00:01+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/general/ko/>\n"
 "Language: ko\n"
@@ -210,7 +210,7 @@ msgstr "용암"
 #. Mechanics/Blueprints/Buffs/LavaBuff_m_Description
 msgctxt "52f12d3b-29af-48b0-b728-92fa09ac1547"
 msgid "C"
-msgstr ""
+msgstr "C"
 
 #. Mechanics/Blueprints/Buffs/NPC_HealthGuard10_DisplayName_String
 msgctxt "5bfa9670-5762-4cd9-a39d-acf51940350f"
@@ -514,32 +514,32 @@ msgstr ""
 #. Mechanics/Blueprints/Console/GamePadTexts_m_Layers.Array.data[0].Texts.Array.data[0].Text
 msgctxt "5ebcf628-914f-48e2-a941-17907705a66e"
 msgid "Move Characters"
-msgstr ""
+msgstr "캐릭터 이동"
 
 #. Mechanics/Blueprints/Console/GamePadTexts_m_Layers.Array.data[0].Texts.Array.data[10].Text
 msgctxt "58f61671-f7fd-4a38-8aba-fd2e8d54e7b7"
 msgid "Group"
-msgstr ""
+msgstr "그룹"
 
 #. Mechanics/Blueprints/Console/GamePadTexts_m_Layers.Array.data[0].Texts.Array.data[11].Text
 msgctxt "8890e8e6-a263-46c0-bead-98fd616ae118"
 msgid "Menu"
-msgstr ""
+msgstr "메뉴"
 
 #. Mechanics/Blueprints/Console/GamePadTexts_m_Layers.Array.data[0].Texts.Array.data[12].Text
 msgctxt "10b011f3-287b-4c02-95de-87aec5876987"
 msgid "Previous Target"
-msgstr ""
+msgstr "이전 대상"
 
 #. Mechanics/Blueprints/Console/GamePadTexts_m_Layers.Array.data[0].Texts.Array.data[13].Text
 msgctxt "e108b389-20ec-43ed-8006-6f1de0b288b3"
 msgid "Next Target"
-msgstr ""
+msgstr "다음 대상"
 
 #. Mechanics/Blueprints/Console/GamePadTexts_m_Layers.Array.data[0].Texts.Array.data[14].Text
 msgctxt "e9d03b50-e333-4740-be65-e6aa3df1ae96"
 msgid "Options"
-msgstr ""
+msgstr "설정"
 
 #. Mechanics/Blueprints/Console/GamePadTexts_m_Layers.Array.data[0].Texts.Array.data[15].Text
 msgctxt "5b36cc00-777d-4f0a-a5b8-4390a0c184a1"
@@ -549,32 +549,32 @@ msgstr ""
 #. Mechanics/Blueprints/Console/GamePadTexts_m_Layers.Array.data[0].Texts.Array.data[1].Text
 msgctxt "ae5a7d1b-064d-4b6a-8ffd-4d3e81acf6fb"
 msgid "Move Camera"
-msgstr ""
+msgstr "카메라 이동"
 
 #. Mechanics/Blueprints/Console/GamePadTexts_m_Layers.Array.data[0].Texts.Array.data[2].Text
 msgctxt "21d3af11-9ff4-487f-9aff-5053d4118863"
 msgid "Open Combat Log"
-msgstr ""
+msgstr "전투 기록 열기"
 
 #. Mechanics/Blueprints/Console/GamePadTexts_m_Layers.Array.data[0].Texts.Array.data[4].Text
 msgctxt "abb50052-bcb2-4b1d-a206-b65d05df67b5"
 msgid "Zoom In"
-msgstr ""
+msgstr "확대"
 
 #. Mechanics/Blueprints/Console/GamePadTexts_m_Layers.Array.data[0].Texts.Array.data[5].Text
 msgctxt "6e8a58a3-fec7-4695-973e-9109b14fc8cf"
 msgid "Zoom Out"
-msgstr ""
+msgstr "축소"
 
 #. Mechanics/Blueprints/Console/GamePadTexts_m_Layers.Array.data[0].Texts.Array.data[6].Text
 msgctxt "66f81fa0-1a82-4271-b9d2-e05a59f75b09"
 msgid "Action / Confirm"
-msgstr ""
+msgstr "행동 / 확인"
 
 #. Mechanics/Blueprints/Console/GamePadTexts_m_Layers.Array.data[0].Texts.Array.data[8].Text
 msgctxt "3031337e-ebb9-440f-aa26-310032dfb6fe"
 msgid "Pause"
-msgstr ""
+msgstr "일시 정지"
 
 #. Mechanics/Blueprints/CreatureAbilities/Bleed/Bleed1d4Buff_DisplayName_String
 msgctxt "72e79a73-a76a-45d6-95d9-ea254c883e8b"
@@ -2180,47 +2180,47 @@ msgstr "코가쓰의 구속된 분노"
 #. Mechanics/Blueprints/Credits/ContentCreatorsRoles_Roles.Array.data[11].NameRole
 msgctxt "47005ed4-6e4c-49dc-b8a0-deaaf79bb7be"
 msgid "Ring of Circumstances"
-msgstr ""
+msgstr "상황의 반지"
 
 #. Mechanics/Blueprints/Credits/ContentCreatorsRoles_Roles.Array.data[12].NameRole
 msgctxt "f615ed41-1fdc-443d-8ddd-3e973d66ba5d"
 msgid "Gear's Rule"
-msgstr ""
+msgstr "톱니바퀴의 법칙"
 
 #. Mechanics/Blueprints/Credits/ContentCreatorsRoles_Roles.Array.data[13].NameRole
 msgctxt "73be1c8a-05a4-4b0b-8b0d-e79b95de8fe0"
 msgid "Professor's Hat"
-msgstr ""
+msgstr "교수의 모자"
 
 #. Mechanics/Blueprints/Credits/ContentCreatorsRoles_Roles.Array.data[14].NameRole
 msgctxt "26347ea7-d3f1-4806-ad6f-f3206aef0176"
 msgid "Warpainted Skull of Duthtica"
-msgstr ""
+msgstr "두시카의 전투 분장 해골"
 
 #. Mechanics/Blueprints/Credits/ContentCreatorsRoles_Roles.Array.data[15].NameRole
 msgctxt "1c35f026-8b41-473e-94b9-8c903d7d0778"
 msgid "Elven Protector Quiver"
-msgstr ""
+msgstr "엘프 수호자의 화살통"
 
 #. Mechanics/Blueprints/Credits/ContentCreatorsRoles_Roles.Array.data[16].NameRole
 msgctxt "5824e347-341d-48f8-a615-62204c1e4e9f"
 msgid "River Fox Memento Pendant"
-msgstr ""
+msgstr "강여우의 추억 펜던트"
 
 #. Mechanics/Blueprints/Credits/ContentCreatorsRoles_Roles.Array.data[17].NameRole
 msgctxt "7442418a-9a4b-4adf-a028-b22185ddf007"
 msgid "Hand of Magus Dan"
-msgstr ""
+msgstr "메이거스 댄의 손"
 
 #. Mechanics/Blueprints/Credits/ContentCreatorsRoles_Roles.Array.data[18].NameRole
 msgctxt "8d7c8e1a-32fa-46ca-ad69-e4369e598274"
 msgid "The Quest Electri"
-msgstr ""
+msgstr "일렉트리 모험전기"
 
 #. Mechanics/Blueprints/Credits/ContentCreatorsRoles_Roles.Array.data[19].NameRole
 msgctxt "3a38b348-083e-4b1d-bcf6-a4b919366297"
 msgid "Paragon of Defenders"
-msgstr ""
+msgstr "방어자의 귀감"
 
 #. Mechanics/Blueprints/Credits/ContentCreatorsRoles_Roles.Array.data[1].NameRole
 msgctxt "8f7ce3d9-b71d-463e-915e-acd4cae965b0"
@@ -2230,17 +2230,17 @@ msgstr "퀘스트 이름: 슈람가민의 비밀"
 #. Mechanics/Blueprints/Credits/ContentCreatorsRoles_Roles.Array.data[20].NameRole
 msgctxt "f9ae6576-57a1-42f6-bef9-87bbf6800a3f"
 msgid "Bracers of Ruby Phoenix Champion"
-msgstr ""
+msgstr "홍옥 불사조 우승자의 팔찌"
 
 #. Mechanics/Blueprints/Credits/ContentCreatorsRoles_Roles.Array.data[21].NameRole
 msgctxt "740f0ea1-a75c-48a4-802b-966c8424166f"
 msgid "The Heart of Ira"
-msgstr ""
+msgstr "아이라의 심장"
 
 #. Mechanics/Blueprints/Credits/ContentCreatorsRoles_Roles.Array.data[22].NameRole
 msgctxt "70ced415-712f-48e1-9902-f1f6c0b9d628"
 msgid "The Bindings of the Prince"
-msgstr ""
+msgstr "대공의 사슬"
 
 #. Mechanics/Blueprints/Credits/ContentCreatorsRoles_Roles.Array.data[23].NameRole
 msgctxt "4b2d3e23-8ed7-45dc-9572-3ccd15b4eaff"
@@ -2946,11 +2946,9 @@ msgid "Marketing manager and social media guru"
 msgstr "Marketing manager and social media guru"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[10].NameRole
-#, fuzzy
-#| msgid "CTO"
 msgctxt "1f957427-b698-4816-9ce6-1f47d830cda8"
 msgid "Chief Technical Officer"
-msgstr "CTO"
+msgstr "Chief Technical Officer"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[11].NameRole
 msgctxt "37afc829-3458-42e9-bbb9-8772f4024942"
@@ -3143,18 +3141,14 @@ msgid "Design Director"
 msgstr "Design Director"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[5].NameRole
-#, fuzzy
-#| msgid "COO"
 msgctxt "0d31dcbe-7c82-4753-a1aa-87cd06e7f3ce"
 msgid "Chief Operations Officer"
-msgstr "COO"
+msgstr "Chief Operations Officer"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[6].NameRole
-#, fuzzy
-#| msgid "VP of Marketing and Licensing"
 msgctxt "7f2f020d-3f5f-4668-afff-18cfec5facc2"
 msgid "Vice President of Marketing & Licensing"
-msgstr "VP of Marketing and Licensing"
+msgstr "Vice President of Marketing & Licensing"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[7].NameRole
 msgctxt "639d92f2-988b-43b2-b66c-8bab10bb3d94"
@@ -3162,11 +3156,9 @@ msgid "Franchise Manager"
 msgstr "Franchise Manager"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[8].NameRole
-#, fuzzy
-#| msgid "Director of licensing"
 msgctxt "51724296-bdb4-4416-8755-efe0fb51e499"
 msgid "Director of Licensing"
-msgstr "Director of licensing"
+msgstr "Director of Licensing"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[9].NameRole
 msgctxt "ac6660c5-8e61-4081-b273-22c7834a912f"
@@ -3511,11 +3503,9 @@ msgid "Technical Art"
 msgstr "Technical Art"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[36].NameRole
-#, fuzzy
-#| msgid "UI Design Team"
 msgctxt "c4066bcc-7d77-4965-8876-401a6dd8011c"
 msgid "UI Team"
-msgstr "UI Design Team"
+msgstr "UI Team"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[37].NameRole
 msgctxt "33462ddb-57e5-4db1-ba7d-f05bf84a9fe9"
@@ -4040,11 +4030,9 @@ msgid "Audio Team"
 msgstr "Audio Team"
 
 #. Mechanics/Blueprints/Credits/Teams_Teams.Array.data[6].NameTeam
-#, fuzzy
-#| msgid "UI Design Team"
 msgctxt "d747b328-e5db-43a9-a6e7-f22caacc1b16"
 msgid "UI Team"
-msgstr "UI Design Team"
+msgstr "UI Team"
 
 #. Mechanics/Blueprints/Credits/Teams_Teams.Array.data[7].NameTeam
 msgctxt "278e0546-a014-4a77-a2a3-f702212f46ca"
