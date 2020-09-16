@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-09-06 05:24+0000\n"
-"Last-Translator: ayame <eveforce@naver.com>\n"
+"PO-Revision-Date: 2020-09-16 19:41+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/root/ko/>\n"
 "Language: ko\n"
@@ -2528,7 +2528,7 @@ msgstr "<b>{source}</b>: 자물쇠 따기 성공."
 #. Mechanics/Blueprints/Root/GameLog/GameLog_RoundStarted.Message
 msgctxt "880dc3df-f1cf-4fdf-841e-fb2f9d724fee"
 msgid "Round {round} started."
-msgstr ""
+msgstr "라운드 {round} 시작."
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_SavingThrowFail.Message
 msgctxt "38085c3a-ba41-4562-9bd4-ac5d9192d586"
@@ -3095,6 +3095,8 @@ msgid ""
 "pressing the corresponding hotkey will stick the camera to the character "
 "until you manually move the camera or enter a battle."
 msgstr ""
+"이 옵션이 켜져있는 경우, 캐릭터의 초상화를 더블 클릭하거나 지정된 핫키를 누르면 카메라가 해당 캐릭터에게로 향하여 수동으로 카메라 "
+"조작을 하거나 전투에 돌입하기 전까지 고정됩니다."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/Controls/KeyBindings/General/HighlightObjects_Description_String
 msgctxt "3ad277cf-1857-4fd7-90df-b1b258818ef1"
@@ -3170,11 +3172,9 @@ msgid "Spells"
 msgstr "주문책"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/Controls/KeyBindings/General/Pause_Description
-#, fuzzy
-#| msgid "Pause"
 msgctxt "af345d9c-73ae-4740-82ff-570f72a8a5f5"
 msgid "Pause / Next character"
-msgstr "일시 정지"
+msgstr "일시 정지 / 다음 캐릭터"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/Controls/KeyBindings/General/QuickLoad_Description_String
 msgctxt "6d90e34d-7339-426e-bf9f-a7288e98fe7a"
@@ -5428,7 +5428,7 @@ msgstr "마우스를 올려 놓고 나서 아이템 설명을 표시하는데 �
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/AlwaysShowCompanioinHitPoints_Description
 msgctxt "ae95f775-3c0d-4d19-bbe0-fe1efe65af3f"
 msgid "Always display companions' HP"
-msgstr ""
+msgstr "동료 HP 항상 표시"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/AlwaysShowCompanioinHitPoints_TooltipDescription
 msgctxt "417c9ee8-e160-4351-8fda-3d8e962b3e3b"
@@ -5441,7 +5441,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/AlwaysShowEnemyHitPoints_Description
 msgctxt "ac97b405-44ba-40b4-a62c-93b017e36f4c"
 msgid "Always display enemies' HP"
-msgstr ""
+msgstr "적 HP 항상 표시"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/AlwaysShowEnemyHitPoints_TooltipDescription
 msgctxt "e4bd4b64-0869-4d7a-93d8-77a17cfd69db"
@@ -5454,14 +5454,14 @@ msgstr ""
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/AutoEndTurn_Description
 msgctxt "258dd456-9f0e-4a18-8a98-8f76cebbb992"
 msgid "Auto end turn"
-msgstr ""
+msgstr "자동 턴 종료"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/AutoEndTurn_TooltipDescription
 msgctxt "b98bbb4d-21b3-4304-878c-d243a26b351c"
 msgid ""
 "End the turn automatically when a character finishes their standard and move "
 "actions."
-msgstr ""
+msgstr "캐릭터가 일반 행동과 이동을 마쳤을 경우 자동으로 턴을 종료합니다."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/AutoStopAfterFirstMoveAction_Description
 msgctxt "18097b60-d4fe-42d4-8e41-1ac2e0cc1867"
@@ -5519,7 +5519,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/NonPlayersSpeedUpInTurnBasedMode_Description
 msgctxt "e8e3ed1f-0a44-4ca9-b103-5ff9affe0c78"
 msgid "Increase enemy animation speed"
-msgstr ""
+msgstr "적 애니메이션 속도 증가"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/NonPlayersSpeedUpInTurnBasedMode_TooltipDescription
 msgctxt "bc1867c3-8837-4fd6-81c9-c1254e59cfdf"
@@ -5585,12 +5585,12 @@ msgstr "전체 화면 후처리 효과입니다. 밝은 가장자리에 뿌연 �
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GraphicsSettings/BrightnessCorrection_Description
 msgctxt "1532ecc3-c220-4e82-93f2-7667eb7057f1"
 msgid "Brightness"
-msgstr ""
+msgstr "밝기"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GraphicsSettings/BrightnessCorrectionPC_Description
 msgctxt "9e0149e0-9dcd-4b47-955c-813a4647212c"
 msgid "Brightness"
-msgstr ""
+msgstr "밝기"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GraphicsSettings/CameraShake_Description
 msgctxt "48c0577f-6018-4219-b427-d1ea3dd46dde"
@@ -17223,7 +17223,7 @@ msgstr "무기"
 #. Mechanics/Blueprints/Root/UIStrings_ActionBar.ActionBarClearSlot_String
 msgctxt "05558160-bda5-4654-a3e7-c0cf47e4c13e"
 msgid "Clear"
-msgstr ""
+msgstr "비우기"
 
 #. Mechanics/Blueprints/Root/UIStrings_ActionBar.ActionBarSlotTypeActivableAbility
 msgctxt "59a9de8b-0034-40ce-b93c-2175968742f3"
@@ -17345,7 +17345,7 @@ msgstr "외모"
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.Archetype
 msgctxt "3b911456-bd20-4822-9e65-47f92cb3b388"
 msgid "Archetype"
-msgstr ""
+msgstr "아키타입"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.AutoLevelupLoaded
 msgctxt "6b9c58f6-004e-40db-a966-2fed549ad53e"
@@ -17542,7 +17542,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.ClassSkill
 msgctxt "054669ad-c130-45c3-b3ec-b49e5cf9fc74"
 msgid "Class skill"
-msgstr ""
+msgstr "클래스 기술"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.ComingSoon
 msgctxt "cea92159-109d-41d4-bd40-69f35d127ed3"
@@ -17607,7 +17607,7 @@ msgstr "얼굴"
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.Female
 msgctxt "fb06e12e-bd90-462f-9c10-05d231f33494"
 msgid "Female"
-msgstr ""
+msgstr "여성"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.Gender
 msgctxt "0b366596-b224-4a21-a8d0-3e45e8ea62e2"
@@ -17687,7 +17687,7 @@ msgstr "주 손"
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.Male
 msgctxt "25023d1b-8489-4407-ac59-42cc2055a191"
 msgid "Male"
-msgstr ""
+msgstr "남성"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.MaxRank
 msgctxt "fa1b4860-fd07-4bdb-802c-8ef1edc32bb2"
@@ -18017,17 +18017,17 @@ msgstr "치명타"
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.ChangeFilter
 msgctxt "41f30399-9a5b-4dfb-b8cd-38c706b89fbb"
 msgid "Filter"
-msgstr ""
+msgstr "필터"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.ChangeSet
 msgctxt "c42e3032-3c47-4f8c-baa4-4c3c63333fc7"
 msgid "Weapon Set"
-msgstr ""
+msgstr "무기 세트"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.Character
 msgctxt "05b3cf49-52a9-4817-b3d1-0d160982756b"
 msgid "Character"
-msgstr ""
+msgstr "캐릭터"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.Charisma_String
 msgctxt "592c4fc6-7d93-4bb8-a3c9-75b84c67fd91"
@@ -18122,7 +18122,7 @@ msgstr "에너지 저항"
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.Equipment_String
 msgctxt "7f0bf44c-c08d-423a-a2dd-639b6bdddf69"
 msgid "Equipment"
-msgstr ""
+msgstr "장비"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.FLATFOOTED
 msgctxt "b8812e8f-fe33-4c3e-b8ab-82d15aee9a00"
@@ -18147,7 +18147,7 @@ msgstr "특성과 능력"
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.Female
 msgctxt "8731b7dc-7046-4563-90cd-17df57c2b6d4"
 msgid "Female"
-msgstr ""
+msgstr "여성"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.Fort
 msgctxt "f96daf78-9e8f-460b-ab93-9502ff1165da"
@@ -18222,7 +18222,7 @@ msgstr "마법"
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.Male
 msgctxt "11c38430-651d-4601-a433-853b2318d98f"
 msgid "Male"
-msgstr ""
+msgstr "남성"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.ManyFeet_String
 msgctxt "2639d1e6-fa3c-4ab7-b4a9-1739d1d153a5"
@@ -18232,7 +18232,7 @@ msgstr "피트"
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.ManyFeet_String_1
 msgctxt "6ac63f06-2e2d-41bc-9568-d9d58acc4848"
 msgid "feet"
-msgstr ""
+msgstr "피트"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.Martial
 msgctxt "b5d6b8fe-6023-4dbe-b097-b99538acf29c"
@@ -18272,12 +18272,12 @@ msgstr "현재 어떤 효과나 상태도 없습니다."
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.NoDR
 msgctxt "cfed1f48-be06-4e67-9957-9704707a4580"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.NoER
 msgctxt "73648241-8057-4e0d-9590-210eb52babcf"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.NoItemsToChooseForEquip
 msgctxt "88df0ab7-b790-41b6-a367-99f0db60a521"
@@ -18472,22 +18472,22 @@ msgstr "빗나감"
 #. Mechanics/Blueprints/Root/UIStrings_CombatTexts.ChangeCombatModeWhenInRealTime
 msgctxt "ae3ce504-5aae-4a60-b90a-674d3f7f901f"
 msgid "RTWP Combat (Change)"
-msgstr ""
+msgstr "실시간 전투 (변경)"
 
 #. Mechanics/Blueprints/Root/UIStrings_CombatTexts.ChangeCombatModeWhenInRealTime_1
 msgctxt "11de3c08-0eca-4295-9c1d-1e0b4da5c3b0"
 msgid "RTWP Combat (Change)"
-msgstr ""
+msgstr "실시간 전투 (변경)"
 
 #. Mechanics/Blueprints/Root/UIStrings_CombatTexts.ChangeCombatModeWhenInTurnBased
 msgctxt "b8b523c3-92e5-42ea-9240-1e159b6950db"
 msgid "Turn-Based Combat (Change)"
-msgstr ""
+msgstr "턴제 전투 (변경)"
 
 #. Mechanics/Blueprints/Root/UIStrings_CombatTexts.ChangeCombatModeWhenInTurnBased_1
 msgctxt "656417da-51bc-4f8b-a30b-36b33d6653e3"
 msgid "Turn-Based Combat (Change)"
-msgstr ""
+msgstr "턴제 전투 (변경)"
 
 #. Mechanics/Blueprints/Root/UIStrings_CombatTexts.CombatStart
 msgctxt "9a777487-1514-4d29-ad25-10e045c7a36e"
@@ -18497,7 +18497,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_CombatTexts.Concealment
 msgctxt "1a1043aa-d0f9-4fc2-9940-628994e9181b"
 msgid "Concealment"
-msgstr ""
+msgstr "은폐"
 
 #. Mechanics/Blueprints/Root/UIStrings_CombatTexts.CriticalHit
 msgctxt "7dbc9243-2acf-4ca9-bc7d-dde7c881ec6a"
@@ -18562,17 +18562,17 @@ msgstr "{0} 내성 성공"
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.Back
 msgctxt "f328bd18-7f50-4a0f-b872-e4a96dff8489"
 msgid "Back"
-msgstr ""
+msgstr "뒤로"
 
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.Change
 msgctxt "af2ae171-b731-4752-b2e3-29f4333b5ce0"
 msgid "Change"
-msgstr ""
+msgstr "변경"
 
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.Close
 msgctxt "cabc8e84-6a7d-4a73-9aa3-39969d377588"
 msgid "Close"
-msgstr ""
+msgstr "닫기"
 
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.CommonDateTimeFormat
 msgctxt "b9a12d45-9b44-4549-8a36-43d822ad4d4b"
@@ -18655,22 +18655,22 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.Information
 msgctxt "c2b3c6fc-07d1-412b-903b-e9253d2e55e0"
 msgid "Info"
-msgstr ""
+msgstr "정보"
 
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.Move
 msgctxt "49454b43-bcdf-48a5-a507-5d9d1f2e66a4"
 msgid "Move"
-msgstr ""
+msgstr "이동"
 
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.Navigation_String
 msgctxt "79c99fee-8707-4f6a-95db-0758346771d1"
 msgid "Navigation"
-msgstr ""
+msgstr "탐색"
 
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.Navigation_String_1
 msgctxt "59ae8ed6-034b-45f9-8e58-50b3d8d18c8f"
 msgid "Navigation"
-msgstr ""
+msgstr "탐색"
 
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.PermanentBuffTimer
 msgctxt "2b51937f-91c3-4d44-9bb3-8b315429d2f8"
@@ -18700,12 +18700,12 @@ msgstr "메인 메뉴로 나가시겠습니까?"
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.Reorder
 msgctxt "17b4cebc-a3de-46e2-81b6-8e71920e3142"
 msgid "Reorder"
-msgstr ""
+msgstr "재정렬"
 
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.Select_String
 msgctxt "95049b92-ad92-4c81-a5ef-180df4245ad7"
 msgid "Select"
-msgstr ""
+msgstr "선택"
 
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.Table_String
 msgctxt "3cc637a1-0a70-4995-b92c-912880f5446c"
@@ -18724,7 +18724,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.Unselect
 msgctxt "d87d9863-8774-47ae-bad1-9e00c1012d42"
 msgid "Unselect"
-msgstr ""
+msgstr "선택 취소"
 
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.WarningBugReportWasSend
 msgctxt "1ab9fbb5-3146-4998-a097-7769363c7775"
@@ -18740,14 +18740,14 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_Console.XboxStreamingInstallBackButton
 msgctxt "54567dea-43ed-4a3f-9bc6-fc6678d16ef1"
 msgid "Back"
-msgstr ""
+msgstr "뒤로"
 
 #. Mechanics/Blueprints/Root/UIStrings_Console.XboxStreamingInstallMessage
 msgctxt "c420be5c-7ec2-4549-a3f3-52d3052cfc66"
 msgid ""
 "The required data has not been installed yet. Wait for installation to "
 "finish or go back."
-msgstr ""
+msgstr "필요한 데이터가 아직 설치되지 않았습니다. 설치가 완료되기를 기다려 주십시오."
 
 #. Mechanics/Blueprints/Root/UIStrings_ContextMenu.GrabItem
 msgctxt "d2d10cfd-d72f-41a0-848f-052b7e633864"
@@ -18761,6 +18761,8 @@ msgid ""
 "To change the control type, please, exit to the main menu. Keep in mind that "
 "any unsaved progress will be lost!"
 msgstr ""
+"게임패드가 연결되었습니다.\n"
+"조작 방식을 변경하려면 메인 메뉴로 나가주시기 바랍니다. 저장하지 않은 진행사항은 모두 사라집니다!"
 
 #. Mechanics/Blueprints/Root/UIStrings_ControllerModeTexts.GamepadUnpluggedInHintText
 msgctxt "bb67c50e-72cd-458e-9068-4d229d76c06b"
@@ -18775,6 +18777,8 @@ msgid ""
 "control type to keyboard. Keep in mind that any unsaved progress will be "
 "lost!"
 msgstr ""
+"게임패드가 연결 해제되었습니다.\n"
+"게임패드를 다시 연결해 주십시오. 조작 방식을 변경하려면 메인 메뉴로 나가주시기 바랍니다. 저장하지 않은 진행사항은 모두 사라집니다!"
 
 #. Mechanics/Blueprints/Root/UIStrings_ControllerModeTexts.PressAnyKeyText
 msgctxt "c0a025f0-2d1c-4532-8774-fce8fe8bb42c"
@@ -18869,7 +18873,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_DialogMessageBoxTexts.OpenLink
 msgctxt "d2d057ad-006e-4faa-b22e-f802cf1affc8"
 msgid "Open"
-msgstr ""
+msgstr "열기"
 
 #. Mechanics/Blueprints/Root/UIStrings_DialogMessageBoxTexts.OpenLink_1
 msgctxt "69fe6a21-d898-4f95-8adc-9a9bf03e65eb"
@@ -18952,7 +18956,7 @@ msgstr "{0}"
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.ContinueHint
 msgctxt "6ce15de9-b87e-4cc9-81d0-2c017834eff1"
 msgid "Continue"
-msgstr ""
+msgstr "계속"
 
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.EnterDialogAccept
 msgctxt "da1a369f-f67e-469b-99d9-ab7119c2ce0c"
@@ -19009,12 +19013,12 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.GlobalMapSettingsBorderNone
 msgctxt "d4cee2f7-4e2a-4615-9f81-07439ab6ed9d"
 msgid "Hide"
-msgstr ""
+msgstr "숨기기"
 
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.GlobalMapSettingsBorderOnlyBorder
 msgctxt "cbce7e18-c6bf-4b21-899a-a8849be5d1f4"
 msgid "Borders only"
-msgstr ""
+msgstr "경계만"
 
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.GlobalMapSettingsTitle_String
 msgctxt "ff8d1fea-3f56-4c10-8698-5f6a96c45fc9"
@@ -19219,12 +19223,12 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.CombatLogLabel_String
 msgctxt "dce38a49-f0d0-4aca-92cf-5eaaa6da5d3e"
 msgid "Combat Log"
-msgstr ""
+msgstr "전투 기록"
 
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.EndTurn_String
 msgctxt "70597d03-a6d3-4a25-a013-f67bf679e742"
 msgid "End turn"
-msgstr ""
+msgstr "턴 종료"
 
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.ExitCombatLog_String
 msgctxt "9d943ad4-c1be-4990-b683-6b7db965a271"
@@ -19234,7 +19238,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.HideCombatLog
 msgctxt "6433a150-5036-4099-8b71-7920e0de1bca"
 msgid "Hide"
-msgstr ""
+msgstr "숨기기"
 
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.HoldCombatLogVisibility
 msgctxt "46886f16-99d3-45d4-aefb-1d978d89f703"
@@ -19249,7 +19253,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.Pointer_String
 msgctxt "c44e26a3-1ec8-4889-a0c0-c828fcbc97a4"
 msgid "Show Cursor"
-msgstr ""
+msgstr "커서 표시"
 
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.ShowCombatLog
 msgctxt "a69ce08f-3a7c-43eb-81a8-935ea916d4bb"
@@ -19274,17 +19278,17 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.ToggleMode
 msgctxt "75b65a14-6e93-4973-8de0-6d00fd89d226"
 msgid "Change combat mode"
-msgstr ""
+msgstr "전투 모드 변경"
 
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.UnholdCombatLogVisibility
 msgctxt "0b06ffda-1083-460c-9ae5-4038dff98d5e"
 msgid "Unpin"
-msgstr ""
+msgstr "고정 해제"
 
 #. Mechanics/Blueprints/Root/UIStrings_InGameMenuTexts.Journal_String
 msgctxt "45da16e6-0301-415b-b616-e9830a7fa25a"
 msgid "Journal"
-msgstr ""
+msgstr "일지"
 
 #. Mechanics/Blueprints/Root/UIStrings_KeyboardTexts.LocalizedKeyCodes.Array.data[0].CodeString
 msgctxt "a3b6b6eb-dec8-4741-981d-2504c1e89af2"
@@ -19299,7 +19303,7 @@ msgstr "1"
 #. Mechanics/Blueprints/Root/UIStrings_LootWindow.CloseLootWindow
 msgctxt "4e4c0871-9c71-46f5-90e5-6ed28cd05f13"
 msgid "Close"
-msgstr ""
+msgstr "닫기"
 
 #. Mechanics/Blueprints/Root/UIStrings_LootWindow.CollectAll
 msgctxt "f4e06e75-4748-4e5b-b1fd-3a66597347a2"
@@ -19319,7 +19323,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_LootWindow.Items_2
 msgctxt "0291cecc-3a98-4177-9fa4-672f6c8785e0"
 msgid "Items"
-msgstr ""
+msgstr "물품"
 
 #. Mechanics/Blueprints/Root/UIStrings_LootWindow.LeaveZone
 msgctxt "33d3f9b3-f459-432a-bd60-facfa562abe0"
@@ -19349,12 +19353,12 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_LootWindow.MoveItem
 msgctxt "e361c8c3-ac32-4ace-9203-f098277857c3"
 msgid "Move"
-msgstr ""
+msgstr "이동"
 
 #. Mechanics/Blueprints/Root/UIStrings_LootWindow.ShouldBeIdentified
 msgctxt "7a3a27ac-a792-4983-8c64-c7c54de5411a"
 msgid "Unidentified item"
-msgstr ""
+msgstr "미확인 물품"
 
 #. Mechanics/Blueprints/Root/UIStrings_LootWindow.Skinning
 msgctxt "23e3b22f-aa79-4227-8905-c38e475bbf9d"
@@ -19437,7 +19441,7 @@ msgstr "새로운 게임"
 #. Mechanics/Blueprints/Root/UIStrings_MainMenu.QuickSaveGame
 msgctxt "22210e9e-095e-4e68-ada7-458bbfb02c53"
 msgid "Quick Save"
-msgstr ""
+msgstr "빠른 저장"
 
 #. Mechanics/Blueprints/Root/UIStrings_MainMenu.Settings
 msgctxt "e6185756-c6ed-4169-9396-016bff5eb904"
@@ -19618,12 +19622,12 @@ msgstr "<b>경험치 {0} 획득</b>"
 #. Mechanics/Blueprints/Root/UIStrings_QuesJournalTexts.Back
 msgctxt "3a7014f6-72e9-460d-9565-cfa3c72e600e"
 msgid "Back"
-msgstr ""
+msgstr "뒤로"
 
 #. Mechanics/Blueprints/Root/UIStrings_QuesJournalTexts.CloseJournalWindow
 msgctxt "265959eb-7972-40f3-8e2e-ddadd324f639"
 msgid "Close"
-msgstr ""
+msgstr "닫기"
 
 #. Mechanics/Blueprints/Root/UIStrings_QuesJournalTexts.QuestComplite
 msgctxt "b5a63ab3-b399-42fd-8cde-26b5564eb0e7"
@@ -19648,12 +19652,12 @@ msgstr "실패까지 {0}"
 #. Mechanics/Blueprints/Root/UIStrings_QuesJournalTexts.Select
 msgctxt "cb7a70d6-8e34-4224-adce-6408381c081a"
 msgid "Select"
-msgstr ""
+msgstr "선택"
 
 #. Mechanics/Blueprints/Root/UIStrings_QuesJournalTexts.SwitchCollapse
 msgctxt "eee58856-d13d-4f7f-a67d-b5307c78ce4d"
 msgid "Collapse / Expand"
-msgstr ""
+msgstr "접기 / 펼치기"
 
 #. Mechanics/Blueprints/Root/UIStrings_QuestNotificationTexts.QuestComplite
 msgctxt "58273399-3974-4547-807b-79578695a9c9"
@@ -20030,12 +20034,12 @@ msgstr "{0}시간 휴식 후 공격당했습니다!"
 #. Mechanics/Blueprints/Root/UIStrings_Rest.NotAvailable
 msgctxt "24f8c882-7454-46e9-9b4e-195d2eb87025"
 msgid "Not available"
-msgstr ""
+msgstr "불가능"
 
 #. Mechanics/Blueprints/Root/UIStrings_Rest.NotAvailable_1
 msgctxt "63580ccd-c090-4f88-9103-c3851e8de581"
 msgid "Not available"
-msgstr ""
+msgstr "불가능"
 
 #. Mechanics/Blueprints/Root/UIStrings_Rest.RationsTitle
 msgctxt "6b5ecf6e-4879-40ae-8be0-463dadd62eec"
@@ -20217,11 +20221,9 @@ msgid "Can't overwrite the autosave file"
 msgstr ""
 
 #. Mechanics/Blueprints/Root/UIStrings_SaveLoadTexts.DeleteLabel_String
-#, fuzzy
-#| msgid "Delete"
 msgctxt "af49e2f2-a5b4-4989-82dc-2f1e6979fc2a"
 msgid "Remove"
-msgstr "삭제"
+msgstr "제거"
 
 #. Mechanics/Blueprints/Root/UIStrings_SaveLoadTexts.DeleteWarning
 msgctxt "1bd2a802-b024-4237-aa39-592b42d35aad"
@@ -20310,22 +20312,22 @@ msgstr "왕국의 통치를 시작했습니다. 자동 관리 모드를 켰다�
 #. Mechanics/Blueprints/Root/UIStrings_SettingsUI.BackToMainMenu
 msgctxt "06f98f26-5f0a-4d86-b38f-be37b3b7a4ae"
 msgid "To change the language the game must return to the main menu. Continue?"
-msgstr ""
+msgstr "게임 언어를 변경하려면 메인 메뉴로 돌아가야 합니다. 계속하시겠습니까?"
 
 #. Mechanics/Blueprints/Root/UIStrings_SettingsUI.BoolOff
 msgctxt "b11432f9-06ca-4c69-93ff-47b9c1bda06f"
 msgid "Off"
-msgstr ""
+msgstr "끄기"
 
 #. Mechanics/Blueprints/Root/UIStrings_SettingsUI.BoolOn
 msgctxt "2eee0eb9-a3b5-4238-9b0f-8b3f2f3ca5f7"
 msgid "On"
-msgstr ""
+msgstr "켜기"
 
 #. Mechanics/Blueprints/Root/UIStrings_SettingsUI.BrightnessHint
 msgctxt "f459a7d8-9145-4eac-94f7-1cb8ac51ba68"
 msgid "Adjust brightness until you can barely see the darkest symbol"
-msgstr ""
+msgstr "가장 어두운 문양이 보이도록 밝기를 조절하세요"
 
 #. Mechanics/Blueprints/Root/UIStrings_SettingsUI.Default_String
 msgctxt "1faca86c-ddb8-44c6-8286-2a9bddbf6202"
@@ -20438,7 +20440,7 @@ msgstr "끄기"
 #. Mechanics/Blueprints/Root/UIStrings_SettingsUI.ToggleButtonOnLabel
 msgctxt "77c933e2-06f0-4f96-a477-24807f2308ce"
 msgid "On"
-msgstr "끄기"
+msgstr "켜기"
 
 #. Mechanics/Blueprints/Root/UIStrings_SkillcheckTooltips.Against
 msgctxt "c5ec193c-1da5-44b2-bf1d-7ec5ed891e9e"
@@ -20513,7 +20515,7 @@ msgstr "수정치"
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.AddMetamagic
 msgctxt "b52d3535-952d-4a58-bc9b-d83f2b63d526"
 msgid "Add metamagic"
-msgstr ""
+msgstr "메타매직 추가"
 
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.AutoCastHint
 msgctxt "601427a1-35ff-46b1-9488-9273cebaf094"
@@ -20663,8 +20665,6 @@ msgid "Rest to restore spells"
 msgstr "휴식으로 주문 회복"
 
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.NoMetamagicText
-#, fuzzy
-#| msgid "You don't have metamagic feats"
 msgctxt "0a3f559b-6be4-46ac-840f-67739a213481"
 msgid "You have no metamagic feats"
 msgstr "메타매직 특기 없음"
@@ -20960,6 +20960,183 @@ msgid ""
 "of this document to other languages are provided for your convenience only.\n"
 "©MY.COM B.V., 2017."
 msgstr ""
+"END USER LICENSE AGREEMENT FOR USE OF SOFTWARE TITLED \"PATHFINDER "
+"KINGMAKER\"\n"
+"This EULA is an agreement between you, an individual with full legal "
+"capacity and My.com B.V. (hereinafter \"MY.COM B.V.\") regarding \"Pathfinder"
+" Kingmaker\" software and all related documentation, any updates and "
+"upgrades that replace or supplement the software in any respect and which "
+"are not distributed with a separate license (collectively \"Software\" and/"
+"or \"Game\") (hereinafter \"the Software\"). If you are using the Software "
+"through console, platform or applications provider (hereinafter the \"Third "
+"Party\") (e.g., PlayStation®4, Xbox, Nintendo, Steam, GOG, etc.), any "
+"activities provided by such third party beyond MY.COM B.V.'s control as well "
+"as usage of the Software through Third Party are governed by that Third "
+"Party's policies and agreements. For example, following provisions are inter "
+"alia applicable to usage of Software on PlayStation®4:\n"
+"- Any content purchased in an in-game store will be purchased from Sony "
+"Interactive Entertainment Network Europe Limited (\"SIENE\") and be subject "
+"to PlayStation™Network Terms of Service and User Agreement which is "
+"available on the PlayStation™Store. Please check usage rights for each "
+"purchase as these may differ from item to item. Unless otherwise shown, "
+"content available in any in-game store has the same age rating as the game; "
+"or\n"
+"- Purchase and use of items are subject to the Network Terms of Service and "
+"User Agreement. This online service are being sublicensed to you by Sony "
+"Interactive Entertainment America.\n"
+"Acceptance of the terms and conditions of this End User License Agreement ("
+"hereinafter referred to as the \"EULA\" or \"Agreement\") is obligatory for "
+"you to use the Software. Please read the terms and conditions of the EULA "
+"carefully before installing the Software on your personal computer (\"Device"
+"\"). If you disagree with the terms and conditions of this Agreement or you "
+"cannot use the Software according to the terms and conditions of this "
+"Agreement, please abort the Software installation and/or immediately delete "
+"the Software from your Device.\n"
+"Downloading, installation of the Software (as described below) and/or any "
+"use of the Software shall mean your full consent to the terms and conditions "
+"of this Agreement and any other related documents. Use of the Software in "
+"violation of this EULA is subject to prosecution.\n"
+"You must also accept and comply with all rules of Third Party's platforms "
+"applicable to Software. Any breach of any rules of the Third Party's "
+"platforms shall also be regarded as a fundamental breach of this EULA.\n"
+"A separate terms and conditions may govern your use of online services in "
+"connection with the Software. You may view such terms and conditions at "
+"owlcatgames.com or any other official website of the Software.\n"
+"Please note that the Software includes Open Content available under Open "
+"Game License (owlcatgames.com\\OGLPFKM ). The full description of Open "
+"Content and all related information you can find on our site (owlcatgames."
+"com\\PFKMCRPGRD). All corresponded information are also available in the "
+"game Credits window.\n"
+"1. GENERAL PROVISIONS\n"
+"1.1. MY.COM B.V. has all necessary rights to enter into this Agreement. "
+"MY.COM B.V. hereby notifies that MY.COM B.V. uses all libraries contained in "
+"the Software under relevant conditions and applicable licenses (if any), "
+"access to which may be obtained at the web site of their owners. Any use of "
+"the Software shall be subject to the Agreement of the MY.COM B.V. The User "
+"may not change or delete copyright notices and/or any trademarks contained "
+"in the Software.\n"
+"1.2. The Users can find on the official website of the Software the minimum "
+"and recommended Device's system requirements for proper use of the Software. "
+"Due to potential programming changes and improvements, the minimum and "
+"recommended system Device's requirements for the Software may change over "
+"time, and the Software may become unavailable on some types of Devices.\n"
+"2. LIMITED LICENSE\n"
+"2.1. From the moment of acceptance of this EULA the User receives personal, "
+"limited, non-exclusive license to install and use the Software for your non-"
+"commercial use solely as set forth in this Agreement. MY.COM B.V. does not "
+"provide any rights to you for Software use, except for the rights expressly "
+"stated in this EULA.\n"
+"2.2. The User is prohibited from:\n"
+"• distributing, renting, leasing the Software or its copies for payment "
+"among any third parties;\n"
+"• altering, merging, adapting, decompiling, disassembling, modifying, "
+"translating into other languages or in any way changing the Software or any "
+"of its components;\n"
+"• creating derivative works based upon the Software;\n"
+"• using the Software in other ways that are not expressly stipulated in this "
+"EULA.\n"
+"2.3. The User may use the Software during the term of validity of this EULA "
+"in the above-mentioned ways anywhere in the world.\n"
+"2.4. The Software is intended solely for the User's private non-commercial "
+"use.\n"
+"2.5. All rights not expressly granted in this EULA are reserved.\n"
+"2.6. The Users are forbidden to decompile, decode, and reverse engineer "
+"data, to bypass data security systems, to crack or attempt to crack the "
+"software components of the Software. The following is forbidden: (inter alia)"
+" any modification, change, decompilation, decoding, sale, or distribution of "
+"modified materials of the Software as a whole or in parts (or the means and "
+"materials required for performing such actions), using programming errors, "
+"making changes in the program code.\n"
+"2.7. You are forbidden to falsify, remove or disconnect any copyright "
+"information; specifically, references to the author, legal confirmations of "
+"the copyright or any other messages or instructions, as well as any notes on "
+"the origin or source of the software or other content.\n"
+"2.8. Subject to compliance with this Agreement, you are entitled to stream, "
+"record and publish video content of the gameplay of the Software for "
+"commercial and non-commercial reasons. For avoidance of doubt, you are "
+"entitled to include advertisements in such streaming/recorded video content "
+"and otherwise monetize such video content by means allowed by corresponding "
+"streaming or video sharing websites.\n"
+"3. USE OF DATA\n"
+"3.1. The User hereby agrees that MY.COM B.V. may collect, store for an "
+"indefinite term and otherwise process anonymous information on the Software "
+"using by the User, information on hardware and software installed on the "
+"User's Device, and any other anonymous technical and statistical "
+"information, which MY.COM B.V. needs in order to identify and eliminate "
+"problems with operation of the Software, to improve the Software, and for "
+"marketing purpose\n"
+"3.2. At all times any information collected and being processed under this "
+"EULA will be treated in accordance with our Privacy Policy available at "
+"http://legal.my.com/us/games/privacy/ incorporated in this Agreement by the "
+"reference. All information collected is completely anonymous and cannot be "
+"traced back to an individual user.\n"
+"4. WARRANTY DISCLAIMER\n"
+"TO THE MAXIMUM EXTENT ALLOWED BY APPLICABLE LAW MY.COM B.V. EXPRESSLY WAIVES "
+"ANY WARRANTIES, DIRECT OR INDIRECT, TOWARDS THE USER REGARDING THE SOFTWARE, "
+"INCLUDING BUT NOT LIMITED TO ANY INDIRECT WARRANTIES TOWARDS QUALITY, "
+"SUITABILITY FOR SPECIFIC PURPOSES AND OBSERVATION OF RIGHTS. THE SOFTWARE "
+"SHALL BE PROVIDED \"AS IS\" WITHOUT FURTHER WARRANTIES OF ANY NATURE. THE "
+"USER SHALL ASSUME ALL RISKS RELATED TO ANY DAMAGE AND LOSSES ARISING FROM "
+"USE OR IMPOSSIBILITY OF USING THE SOFTWARE. MY.COM B.V. DOES NOT GUARANTEE "
+"THAT THE SOFTWARE MEETS THE USER'S REQUIREMENTS AND THAT SOFTWARE OPERATION "
+"WILL BE UNFAILING AND ERROR-FREE.\n"
+"5. LIMITATION OF LIABILITY\n"
+"TO THE MAXIMUM EXTENT ALLOWED BY APPLICABLE LAW NEITHER THE MY.COM B.V. NOR "
+"ITS LICENSORS AND/OR PARTNERS SHALL BEAR ANY LIABILITY TO THE USER FOR ANY "
+"DAMAGE (INCLUDING BUT NOT LIMITED TO IT, ACTUAL LOSSES, INCIDENTAL LOSSES, "
+"INDIRECT LOSSES, LOST PROFIT OR LOST DATA, REGARDLESS OF WHETHER SUCH DAMAGE "
+"WAS PREDICTABLE OR NOT) ARISING IN CONNECTION WITH THIS EULA AND WITH THE "
+"USER'S OPERATION OF THE SOFTWARE AND OF OTHER MATERIALS PROVIDED TO THE USER "
+"BY THE MY.COM B.V..\n"
+"MY.COM B.V. SHALL NOT BEAR LIABILITY FOR INABILITY TO INSTALL OR LAUNCH THE "
+"SOFTWARE ON THE USER'S PERSONAL COMPUTER AND ALSO FOR POSSIBLE ERRORS AND "
+"FAILURES IN THE SOFTWARE OPERATION. THE USER MUST CONNECT TO THE INTERNET IN "
+"ORDER TO USE THE SOFTWARE. ALL COSTS OF THE INTERNET CONNECTION SHALL BE "
+"INCURRED BY THE USER. MY.COM B.V. SHALL NOT BE LIABLE FOR ANY DAMAGE CAUSED "
+"TO THE USER AS A RESULT OF CONNECTION TO THE INTERNET OR INSTALLATION OF "
+"MALICIOUS SOFTWARE ON THE USER'S COMPUTER.\n"
+"6. APPLICABLE LAW. JURISDICTION\n"
+"This EULA shall be governed by the laws of the England and Wales. All "
+"disputes arising in connection with this EULA should be resolved by the "
+"parties without recourse to a court and, in case the parties fail to come to "
+"agreement without recourse to a court, disputes shall be resolved by a court "
+"of relevant jurisdiction in the MY.COM B.V.'s location.\n"
+"Each User must observe the law of the England and Wales and the law of his/ "
+"her country of residence. Every User is solely responsible and liable for "
+"his/ her violation of such regulations.\n"
+"7. MISCELLANEOUS\n"
+"7.1. Termination. This Agreement is effective until terminated. Your rights "
+"under this Agreement will terminate immediately and automatically without "
+"any notice from MY.COM B.V if you fail to comply with any of the terms and "
+"conditions of this Agreement. Promptly upon termination, you must cease all "
+"use of the Software and destroy all copies of the Software in your "
+"possession or control. Termination will not limit any of MY.COM B.V's other "
+"rights or remedies at law or in equity. Sections 4 — 7 of this Agreement "
+"shall survive termination or expiration of this Agreement for any reason.\n"
+"7.2. MY.COM B.V. may at its own discretion at any time assign and/or "
+"delegate its rights and obligations under this EULA or any part of them to "
+"any third party without notice to you. Your rights are personal and are not "
+"subject to assignment.\n"
+"7.3. This Agreement, constitutes the entire agreement between you and MY.COM "
+"B.V. of the Parties regarding use of the Software by the User and substitute "
+"any previous oral and written agreements or oral and written agreements that "
+"are simultaneous with the making of this Agreement regarding the subject "
+"hereof that are united in this Agreement.\n"
+"7.4. If any provision of this Agreement shall be held by a court of "
+"competent jurisdiction to be contrary to law, that provision will be "
+"enforced to the maximum extent permissible, and the remaining provisions of "
+"this Agreement will remain in full force and effect.\n"
+"7.5. MY.COM B.V. reserves the right to revise the terms of the Li by "
+"updating the EULA on the website located at www.my.com or by notifying the "
+"Users by email. The revised EULA comes into force on the date on which it is "
+"published. Users are advised to check the website periodically for notices "
+"concerning such revisions. Your continued use of the Software shall be "
+"deemed to constitute acceptance of any revised terms.\n"
+"On all issues related to this Agreement, please use the e-mail address "
+"legal@corp.my.com.\n"
+"Only the English version of this document has legal effect. Any translations "
+"of this document to other languages are provided for your convenience only.\n"
+"©MY.COM B.V., 2017."
 
 #. Mechanics/Blueprints/Root/UIStrings_TermsOfUseTexts.LicencePc
 msgctxt "b9293ff6-1d13-4242-9c80-2430ac74b27b"
@@ -21131,6 +21308,172 @@ msgid ""
 "of this document to other languages are provided for your convenience only.\n"
 "©MY.COM B.V., 2017."
 msgstr ""
+"END USER LICENSE AGREEMENT FOR USE OF SOFTWARE TITLED \"PATHFINDER "
+"KINGMAKER\"\n"
+"This EULA is an agreement between you, an individual with full legal "
+"capacity and My.com B.V. (hereinafter \"MY.COM B.V.\") regarding \"Pathfinder"
+" Kingmaker\" software and all related documentation, any updates and "
+"upgrades that replace or supplement the software in any respect and which "
+"are not distributed with a separate license (collectively \"Software\" and/"
+"or \"Game\")) (hereinafter \"the Software\").\n"
+"Acceptance of the terms and conditions of this End User License Agreement ("
+"hereinafter referred to as the \"EULA\" or \"Agreement\") is obligatory for "
+"you to use the Software. Please read the terms and conditions of the EULA "
+"carefully before installing the Software on your personal computer (\"Device"
+"\"). If you disagree with the terms and conditions of this Agreement or you "
+"cannot use the Software according to the terms and conditions of this "
+"Agreement, please abort the Software installation and/or immediately delete "
+"the Software from your Device.\n"
+"Downloading, installation of the Software (as described below) and/or any "
+"use of the Software shall mean your full consent to the terms and conditions "
+"of this Agreement and any other related documents. Use of the Software in "
+"violation of this EULA is subject to prosecution.\n"
+"You must also accept and comply with all rules of external platforms "
+"applicable to Software. Any breach of any rules of the external platforms "
+"shall also be regarded as a fundamental breach of this Software.\n"
+"A separate terms and conditions may govern your use of online services in "
+"connection with the Software. You may view such terms and conditions at "
+"owlcatgames.com or any other official website of the Software.\n"
+"Please note that the Software includes Open Content available under Open "
+"Game License (owlcatgames.com\\OGLPFKM ). The full description of Open "
+"Content and all related information you can find locally in PDF format ("
+"check <game installation folder>\\OGL) or on our site (owlcatgames."
+"com\\PFKMCRPGRD). All corresponded information are also available in the "
+"game Credits window.\n"
+"1. GENERAL PROVISIONS\n"
+"1.1. MY.COM B.V. has all necessary rights to enter into this Agreement. "
+"MY.COM B.V. hereby notifies that MY.COM B.V. uses all libraries contained in "
+"the Software under relevant conditions and applicable licenses (if any), "
+"access to which may be obtained at the web site of their owners. Any use of "
+"the Software shall be subject to the Agreement of the MY.COM B.V. The User "
+"may not change or delete copyright notices and/or any trademarks contained "
+"in the Software.\n"
+"1.2. The Users can find on the official website of the Software the minimum "
+"and recommended Device's system requirements for proper use of the Software. "
+"Due to potential programming changes and improvements, the minimum and "
+"recommended system Device's requirements for the Software may change over "
+"time, and the Software may become unavailable on some types of Devices.\n"
+"2. LIMITED LICENSE\n"
+"2.1. From the moment of acceptance of this EULA the User receives personal, "
+"limited, non-exclusive license to install and use the Software for your non-"
+"commercial use solely as set forth in this Agreement. MY.COM B.V. does not "
+"provide any rights to you for Software use, except for the rights expressly "
+"stated in this EULA.\n"
+"2.2. The User is prohibited from:\n"
+"• distributing, renting, leasing the Software or its copies for payment "
+"among any third parties;\n"
+"• altering, merging, adapting, decompiling, disassembling, modifying, "
+"translating into other languages or in any way changing the Software or any "
+"of its components;\n"
+"• creating derivative works based upon the Software;\n"
+"• using the Software in other ways that are not expressly stipulated in this "
+"EULA.\n"
+"2.3. The User may use the Software during the term of validity of this EULA "
+"in the above-mentioned ways anywhere in the world.\n"
+"2.4. The Software is intended solely for the User's private non-commercial "
+"use.\n"
+"2.5. All rights not expressly granted in this EULA are reserved.\n"
+"2.6. The Users are forbidden to decompile, decode, and reverse engineer "
+"data, to bypass data security systems, to crack or attempt to crack the "
+"software components of the Software. The following is forbidden: (inter alia)"
+" any modification, change, decompilation, decoding, sale, or distribution of "
+"modified materials of the Software as a whole or in parts (or the means and "
+"materials required for performing such actions), using programming errors, "
+"making changes in the program code.\n"
+"2.7. You are forbidden to falsify, remove or disconnect any copyright "
+"information; specifically, references to the author, legal confirmations of "
+"the copyright or any other messages or instructions, as well as any notes on "
+"the origin or source of the software or other content.\n"
+"2.8. Subject to compliance with this Agreement, you are entitled to stream, "
+"record and publish video content of the gameplay of the Software for "
+"commercial and non-commercial reasons. For avoidance of doubt, you are "
+"entitled to include advertisements in such streaming/recorded video content "
+"and otherwise monetize such video content by means allowed by corresponding "
+"streaming or video sharing websites.\n"
+"3. USE OF DATA\n"
+"3.1. The User hereby agrees that MY.COM B.V. may collect, store for an "
+"indefinite term and otherwise process anonymous information on the Software "
+"using by the User, information on hardware and software installed on the "
+"User's Device, and any other anonymous technical and statistical "
+"information, which MY.COM B.V. needs in order to identify and eliminate "
+"problems with operation of the Software, to improve the Software, and for "
+"marketing purposes. Thereby, the User hereby agrees that MY.COM B.V. has the "
+"right to upload software program files to User's Device, that will record "
+"CPU, RAM, operating system, video card, sound card, software and application "
+"of the other developers, peripherals, geolocation and any other anonymous "
+"technical and statistical information from User's computer.\n"
+"3.2. At all times any information collected and being processed under this "
+"EULA will be treated in accordance with our Privacy Policy available at "
+"http://legal.my.com/us/games/privacy/ incorporated in this Agreement by the "
+"reference. All information collected is completely anonymous and cannot be "
+"traced back to an individual user.\n"
+"4. WARRANTY DISCLAIMER\n"
+"TO THE MAXIMUM EXTENT ALLOWED BY APPLICABLE LAW MY.COM B.V. EXPRESSLY WAIVES "
+"ANY WARRANTIES, DIRECT OR INDIRECT, TOWARDS THE USER REGARDING THE SOFTWARE, "
+"INCLUDING BUT NOT LIMITED TO ANY INDIRECT WARRANTIES TOWARDS QUALITY, "
+"SUITABILITY FOR SPECIFIC PURPOSES AND OBSERVATION OF RIGHTS. THE SOFTWARE "
+"SHALL BE PROVIDED \"AS IS\" WITHOUT FURTHER WARRANTIES OF ANY NATURE. THE "
+"USER SHALL ASSUME ALL RISKS RELATED TO ANY DAMAGE AND LOSSES ARISING FROM "
+"USE OR IMPOSSIBILITY OF USING THE SOFTWARE. MY.COM B.V. DOES NOT GUARANTEE "
+"THAT THE SOFTWARE MEETS THE USER'S REQUIREMENTS AND THAT SOFTWARE OPERATION "
+"WILL BE UNFAILING AND ERROR-FREE.\n"
+"5. LIMITATION OF LIABILITY\n"
+"TO THE MAXIMUM EXTENT ALLOWED BY APPLICABLE LAW NEITHER THE MY.COM B.V. NOR "
+"ITS LICENSORS AND/OR PARTNERS SHALL BEAR ANY LIABILITY TO THE USER FOR ANY "
+"DAMAGE (INCLUDING BUT NOT LIMITED TO IT, ACTUAL LOSSES, INCIDENTAL LOSSES, "
+"INDIRECT LOSSES, LOST PROFIT OR LOST DATA, REGARDLESS OF WHETHER SUCH DAMAGE "
+"WAS PREDICTABLE OR NOT) ARISING IN CONNECTION WITH THIS EULA AND WITH THE "
+"USER'S OPERATION OF THE SOFTWARE AND OF OTHER MATERIALS PROVIDED TO THE USER "
+"BY THE MY.COM B.V..\n"
+"MY.COM B.V. SHALL NOT BEAR LIABILITY FOR INABILITY TO INSTALL OR LAUNCH THE "
+"SOFTWARE ON THE USER'S PERSONAL COMPUTER AND ALSO FOR POSSIBLE ERRORS AND "
+"FAILURES IN THE SOFTWARE OPERATION. THE USER MUST CONNECT TO THE INTERNET IN "
+"ORDER TO USE THE SOFTWARE. ALL COSTS OF THE INTERNET CONNECTION SHALL BE "
+"INCURRED BY THE USER. MY.COM B.V. SHALL NOT BE LIABLE FOR ANY DAMAGE CAUSED "
+"TO THE USER AS A RESULT OF CONNECTION TO THE INTERNET OR INSTALLATION OF "
+"MALICIOUS SOFTWARE ON THE USER'S COMPUTER.\n"
+"6. APPLICABLE LAW. JURISDICTION\n"
+"This EULA shall be governed by the laws of the England and Wales. All "
+"disputes arising in connection with this EULA should be resolved by the "
+"parties without recourse to a court and, in case the parties fail to come to "
+"agreement without recourse to a court, disputes shall be resolved by a court "
+"of relevant jurisdiction in the MY.COM B.V.'s location.\n"
+"Each User must observe the law of the England and Wales and the law of his/ "
+"her country of residence. Every User is solely responsible and liable for "
+"his/ her violation of such regulations.\n"
+"7. MISCELLANEOUS\n"
+"7.1. Termination. This Agreement is effective until terminated. Your rights "
+"under this Agreement will terminate immediately and automatically without "
+"any notice from MY.COM B.V if you fail to comply with any of the terms and "
+"conditions of this Agreement. Promptly upon termination, you must cease all "
+"use of the Software and destroy all copies of the Software in your "
+"possession or control. Termination will not limit any of MY.COM B.V's other "
+"rights or remedies at law or in equity. Sections 4 — 7 of this Agreement "
+"shall survive termination or expiration of this Agreement for any reason.\n"
+"7.2. MY.COM B.V. may at its own discretion at any time assign and/or "
+"delegate its rights and obligations under this EULA or any part of them to "
+"any third party without notice to you. Your rights are personal and are not "
+"subject to assignment.\n"
+"7.3. This Agreement, constitutes the entire agreement between you and MY.COM "
+"B.V. of the Parties regarding use of the Software by the User and substitute "
+"any previous oral and written agreements or oral and written agreements that "
+"are simultaneous with the making of this Agreement regarding the subject "
+"hereof that are united in this Agreement.\n"
+"7.4. If any provision of this Agreement shall be held by a court of "
+"competent jurisdiction to be contrary to law, that provision will be "
+"enforced to the maximum extent permissible, and the remaining provisions of "
+"this Agreement will remain in full force and effect.\n"
+"7.5. MY.COM B.V. reserves the right to revise the terms of the Li by "
+"updating the EULA on the website located at www.my.com or by notifying the "
+"Users by email. The revised EULA comes into force on the date on which it is "
+"published. Users are advised to check the website periodically for notices "
+"concerning such revisions. Your continued use of the Software shall be "
+"deemed to constitute acceptance of any revised terms.\n"
+"On all issues related to this Agreement, please use the e-mail address legal@"
+"corp.my.com .\n"
+"Only the English version of this document has legal effect. Any translations "
+"of this document to other languages are provided for your convenience only.\n"
+"©MY.COM B.V., 2017."
 
 #. Mechanics/Blueprints/Root/UIStrings_TermsOfUseTexts.LicenceXBox
 msgctxt "81b5b948-34d2-4295-b2c5-510be2c4ad73"
@@ -21302,6 +21645,172 @@ msgid ""
 "of this document to other languages are provided for your convenience only.\n"
 "©MY.COM B.V., 2017."
 msgstr ""
+"END USER LICENSE AGREEMENT FOR USE OF SOFTWARE TITLED \"PATHFINDER "
+"KINGMAKER\"\n"
+"This EULA is an agreement between you, an individual with full legal "
+"capacity and My.com B.V. (hereinafter \"MY.COM B.V.\") regarding \"Pathfinder"
+" Kingmaker\" software and all related documentation, any updates and "
+"upgrades that replace or supplement the software in any respect and which "
+"are not distributed with a separate license (collectively \"Software\" and/"
+"or \"Game\") (hereinafter \"the Software\"). If you are using the Software "
+"through console, platform or applications provider (hereinafter the \"Third "
+"Party\") (e.g., PlayStation, Xbox, Nintendo, Steam, GOG, etc.), any "
+"activities provided by such third party beyond MY.COM B.V.'s control as well "
+"as usage of the Software through Third Party are governed by that Third "
+"Party's policies and agreements.\n"
+"Acceptance of the terms and conditions of this End User License Agreement ("
+"hereinafter referred to as the \"EULA\" or \"Agreement\") is obligatory for "
+"you to use the Software. Please read the terms and conditions of the EULA "
+"carefully before installing the Software on your personal computer (\"Device"
+"\"). If you disagree with the terms and conditions of this Agreement or you "
+"cannot use the Software according to the terms and conditions of this "
+"Agreement, please abort the Software installation and/or immediately delete "
+"the Software from your Device.\n"
+"Downloading, installation of the Software (as described below) and/or any "
+"use of the Software shall mean your full consent to the terms and conditions "
+"of this Agreement and any other related documents. Use of the Software in "
+"violation of this EULA is subject to prosecution.\n"
+"You must also accept and comply with all rules of Third Party's platforms "
+"applicable to Software. Any breach of any rules of the Third Party's "
+"platforms shall also be regarded as a fundamental breach of this EULA.\n"
+"A separate terms and conditions may govern your use of online services in "
+"connection with the Software. You may view such terms and conditions at "
+"owlcatgames.com or any other official website of the Software.\n"
+"Please note that the Software includes Open Content available under Open "
+"Game License (owlcatgames.com\\OGLPFKM ). The full description of Open "
+"Content and all related information you can find on our site (owlcatgames."
+"com\\PFKMCRPGRD). All corresponded information are also available in the "
+"game Credits window.\n"
+"1. GENERAL PROVISIONS\n"
+"1.1. MY.COM B.V. has all necessary rights to enter into this Agreement. "
+"MY.COM B.V. hereby notifies that MY.COM B.V. uses all libraries contained in "
+"the Software under relevant conditions and applicable licenses (if any), "
+"access to which may be obtained at the web site of their owners. Any use of "
+"the Software shall be subject to the Agreement of the MY.COM B.V. The User "
+"may not change or delete copyright notices and/or any trademarks contained "
+"in the Software.\n"
+"1.2. The Users can find on the official website of the Software the minimum "
+"and recommended Device's system requirements for proper use of the Software. "
+"Due to potential programming changes and improvements, the minimum and "
+"recommended system Device's requirements for the Software may change over "
+"time, and the Software may become unavailable on some types of Devices.\n"
+"2. LIMITED LICENSE\n"
+"2.1. From the moment of acceptance of this EULA the User receives personal, "
+"limited, non-exclusive license to install and use the Software for your non-"
+"commercial use solely as set forth in this Agreement. MY.COM B.V. does not "
+"provide any rights to you for Software use, except for the rights expressly "
+"stated in this EULA.\n"
+"2.2. The User is prohibited from:\n"
+"• distributing, renting, leasing the Software or its copies for payment "
+"among any third parties;\n"
+"• altering, merging, adapting, decompiling, disassembling, modifying, "
+"translating into other languages or in any way changing the Software or any "
+"of its components;\n"
+"• creating derivative works based upon the Software;\n"
+"• using the Software in other ways that are not expressly stipulated in this "
+"EULA.\n"
+"2.3. The User may use the Software during the term of validity of this EULA "
+"in the above-mentioned ways anywhere in the world.\n"
+"2.4. The Software is intended solely for the User's private non-commercial "
+"use.\n"
+"2.5. All rights not expressly granted in this EULA are reserved.\n"
+"2.6. The Users are forbidden to decompile, decode, and reverse engineer "
+"data, to bypass data security systems, to crack or attempt to crack the "
+"software components of the Software. The following is forbidden: (inter alia)"
+" any modification, change, decompilation, decoding, sale, or distribution of "
+"modified materials of the Software as a whole or in parts (or the means and "
+"materials required for performing such actions), using programming errors, "
+"making changes in the program code.\n"
+"2.7. You are forbidden to falsify, remove or disconnect any copyright "
+"information; specifically, references to the author, legal confirmations of "
+"the copyright or any other messages or instructions, as well as any notes on "
+"the origin or source of the software or other content.\n"
+"2.8. Subject to compliance with this Agreement, you are entitled to stream, "
+"record and publish video content of the gameplay of the Software for "
+"commercial and non-commercial reasons. For avoidance of doubt, you are "
+"entitled to include advertisements in such streaming/recorded video content "
+"and otherwise monetize such video content by means allowed by corresponding "
+"streaming or video sharing websites.\n"
+"3. USE OF DATA\n"
+"3.1. The User hereby agrees that MY.COM B.V. may collect, store for an "
+"indefinite term and otherwise process anonymous information on the Software "
+"using by the User, information on hardware and software installed on the "
+"User's Device, and any other anonymous technical and statistical "
+"information, which MY.COM B.V. needs in order to identify and eliminate "
+"problems with operation of the Software, to improve the Software, and for "
+"marketing purpose\n"
+"3.2. At all times any information collected and being processed under this "
+"EULA will be treated in accordance with our Privacy Policy available at "
+"http://legal.my.com/us/games/privacy/ incorporated in this Agreement by the "
+"reference. All information collected is completely anonymous and cannot be "
+"traced back to an individual user.\n"
+"4. WARRANTY DISCLAIMER\n"
+"TO THE MAXIM EXTENT ALLOWED BY APPLICABLE LAW MY.COM B.V. EXPRESSLY WAIVES "
+"ANY WARRANTIES, DIRECT OR INDIRECT, TOWARDS THE USER REGARDING THE SOFTWARE, "
+"INCLUDING BUT NOT LIMITED TO ANY INDIRECT WARRANTIES TOWARDS QUALITY, "
+"SUITABILITY FOR SPECIFIC PURPOSES AND OBSERVATION OF RIGHTS. THE SOFTWARE "
+"SHALL BE PROVIDED \"AS IS\" WITHOUT FURTHER WARRANTIES OF ANY NATURE. THE "
+"USER SHALL ASSUME ALL RISKS RELATED TO ANY DAMAGE AND LOSSES ARISING FROM "
+"USE OR IMPOSSIBILITY OF USING THE SOFTWARE. MY.COM B.V. DOES NOT GUARANTEE "
+"THAT THE SOFTWARE MEETS THE USER'S REQUIREMENTS AND THAT SOFTWARE OPERATION "
+"WILL BE UNFAILING AND ERROR-FREE.\n"
+"5. LIMITATION OF LIABILITY\n"
+"TO THE MAXIMUM EXTENT ALLOWED BY APPLICABLE LAW NEITHER THE MY.COM B.V. NOR "
+"ITS LICENSORS AND/OR PARTNERS SHALL BEAR ANY LIABILITY TO THE USER FOR ANY "
+"DAMAGE (INCLUDING BUT NOT LIMITED TO IT, ACTUAL LOSSES, INCIDENTAL LOSSES, "
+"INDIRECT LOSSES, LOST PROFIT OR LOST DATA, REGARDLESS OF WHETHER SUCH DAMAGE "
+"WAS PREDICTABLE OR NOT) ARISING IN CONNECTION WITH THIS EULA AND WITH THE "
+"USER'S OPERATION OF THE SOFTWARE AND OF OTHER MATERIALS PROVIDED TO THE USER "
+"BY THE MY.COM B.V..\n"
+"MY.COM B.V. SHALL NOT BEAR LIABILITY FOR INABILITY TO INSTALL OR LAUNCH THE "
+"SOFTWARE ON THE USER'S PERSONAL COMPUTER AND ALSO FOR POSSIBLE ERRORS AND "
+"FAILURES IN THE SOFTWARE OPERATION. THE USER MUST CONNECT TO THE INTERNET IN "
+"ORDER TO USE THE SOFTWARE. ALL COSTS OF THE INTERNET CONNECTION SHALL BE "
+"INCURRED BY THE USER. MY.COM B.V. SHALL NOT BE LIABLE FOR ANY DAMAGE CAUSED "
+"TO THE USER AS A RESULT OF CONNECTION TO THE INTERNET OR INSTALLATION OF "
+"MALICIOUS SOFTWARE ON THE USER'S COMPUTER.\n"
+"6. APPLICABLE LAW. JURISDICTION\n"
+"This EULA shall be governed by the laws of the England and Wales. All "
+"disputes arising in connection with this EULA should be resolved by the "
+"parties without recourse to a court and, in case the parties fail to come to "
+"agreement without recourse to a court, disputes shall be resolved by a court "
+"of relevant jurisdiction in the MY.COM B.V.'s location.\n"
+"Each User must observe the law of the England and Wales and the law of his/ "
+"her country of residence. Every User is solely responsible and liable for "
+"his/ her violation of such regulations.\n"
+"7. MISCELLANEOUS\n"
+"7.1. Termination. This Agreement is effective until terminated. Your rights "
+"under this Agreement will terminate immediately and automatically without "
+"any notice from MY.COM B.V if you fail to comply with any of the terms and "
+"conditions of this Agreement. Promptly upon termination, you must cease all "
+"use of the Software and destroy all copies of the Software in your "
+"possession or control. Termination will not limit any of MY.COM B.V's other "
+"rights or remedies at law or in equity. Sections 4 — 7 of this Agreement "
+"shall survive termination or expiration of this Agreement for any reason.\n"
+"7.2. MY.COM B.V. may at its own discretion at any time assign and/or "
+"delegate its rights and obligations under this EULA or any part of them to "
+"any third party without notice to you. Your rights are personal and are not "
+"subject to assignment.\n"
+"7.3. This Agreement, constitutes the entire agreement between you and MY.COM "
+"B.V. of the Parties regarding use of the Software by the User and substitute "
+"any previous oral and written agreements or oral and written agreements that "
+"are simultaneous with the making of this Agreement regarding the subject "
+"hereof that are united in this Agreement.\n"
+"7.4. If any provision of this Agreement shall be held by a court of "
+"competent jurisdiction to be contrary to law, that provision will be "
+"enforced to the maximum extent permissible, and the remaining provisions of "
+"this Agreement will remain in full force and effect.\n"
+"7.5. MY.COM B.V. reserves the right to revise the terms of the Li by "
+"updating the EULA on the website located at www.my.com or by notifying the "
+"Users by email. The revised EULA comes into force on the date on which it is "
+"published. Users are advised to check the website periodically for notices "
+"concerning such revisions. Your continued use of the Software shall be "
+"deemed to constitute acceptance of any revised terms.\n"
+"On all issues related to this Agreement, please use the e-mail address "
+"legal@corp.my.com.\n"
+"Only the English version of this document has legal effect. Any translations "
+"of this document to other languages are provided for your convenience only.\n"
+"©MY.COM B.V., 2017."
 
 #. Mechanics/Blueprints/Root/UIStrings_TermsOfUseTexts.OkBtn
 msgctxt "3007be54-cb80-424e-a7c2-b51d10410356"
@@ -21971,7 +22480,7 @@ msgstr "또는"
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.AttackActivityName
 msgctxt "0e35cc26-01b0-483d-b26a-02cf4ce8a338"
 msgid "Attack"
-msgstr ""
+msgstr "공격"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.AutoEndOptionDialog
 msgctxt "fa8e9e4c-4916-4b73-9b56-6eed12580572"
@@ -21984,7 +22493,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.ChangeWeapon
 msgctxt "e2ceaa7b-28ad-4caf-8919-91b32362e086"
 msgid "Change weapon"
-msgstr ""
+msgstr "무기 변경"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.ChooseDelayTurnPosition
 msgctxt "d6458577-aad1-4b3d-825d-4721233e796a"
@@ -22022,12 +22531,12 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.FiveFeetActionName
 msgctxt "a313cb3b-54af-4418-b868-1fa69977d0d0"
 msgid "5 ft."
-msgstr ""
+msgstr "5 ft."
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.FreeActionName
 msgctxt "3083461d-a66f-4018-8c4b-d4e93c839194"
 msgid "Free"
-msgstr ""
+msgstr "자유"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.FullAttack
 msgctxt "642d7157-694f-4320-8fe1-7be9c4365449"
@@ -22042,17 +22551,17 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.InteractObject
 msgctxt "823c022f-5fd9-4bfd-b0aa-568d809ae53c"
 msgid "Interact"
-msgstr ""
+msgstr "상호작용"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.MoveActionName_String
 msgctxt "507dafbf-5995-4f01-809f-16631377cc71"
 msgid "Move action"
-msgstr ""
+msgstr "이동 행동"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.MoveActivityName
 msgctxt "d5b6377f-4737-46d5-85bd-67062dd9e2a4"
 msgid "Move"
-msgstr ""
+msgstr "이동"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.NotEnoughActionsMessage
 msgctxt "c02bb4cd-9ea1-45d3-87e8-a10535159e17"
@@ -22062,12 +22571,12 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.Round_String
 msgctxt "5ca19f92-2158-4a2b-b2ad-ef97a364d8e8"
 msgid "Round"
-msgstr ""
+msgstr "라운드"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.Rounds
 msgctxt "59175432-daf3-42a6-a800-8461f3ae17c0"
 msgid "Rounds"
-msgstr ""
+msgstr "라운드"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.SpellCombatAttack
 msgctxt "4ddc6b7c-31bb-44eb-b490-25c507750b5f"
@@ -22077,7 +22586,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.StandardActionName
 msgctxt "fe965430-b4de-46b2-bcd0-7af2a0fc7b86"
 msgid "Standard action"
-msgstr ""
+msgstr "일반 행동"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.Standup
 msgctxt "c609f212-0468-4e43-8442-47dec2738af3"
@@ -22087,12 +22596,12 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.SurpriseRound
 msgctxt "a5ce3891-db51-4a1c-bd2b-4c159da26d6f"
 msgid "Surprise round"
-msgstr ""
+msgstr "기습 라운드"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.SwiftActionName
 msgctxt "ba15ca2a-10bc-4424-9978-bf0dc82d3181"
 msgid "Swift"
-msgstr ""
+msgstr "신속"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.TouchDeliverActivity
 msgctxt "318e29c6-dec5-40d5-8103-11564abeb524"
@@ -22102,12 +22611,12 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.UseAbilityActivity
 msgctxt "fdcfb560-9971-4e4e-88f7-a80e963206ee"
 msgid "Use ability"
-msgstr ""
+msgstr "능력 사용"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.UseItemActivity
 msgctxt "7e9bc640-7675-4081-8321-d63852c50e83"
 msgid "Use item"
-msgstr ""
+msgstr "물품 사용"
 
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.AllProjectsName
 msgctxt "f773078a-649f-4c2c-977f-01209c3f65f1"
@@ -22142,12 +22651,12 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.KingdomCardEventNameColumnHeader_String
 msgctxt "98af3b90-ecd0-4930-97a7-483e1fda10f8"
 msgid "Name"
-msgstr ""
+msgstr "이름"
 
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.KingdomCardEventNormalStatus
 msgctxt "75ed86c6-0613-4688-90ec-000ff5c3bbf0"
 msgid "Normal"
-msgstr ""
+msgstr "보통"
 
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.KingdomCardEventStatusColumnHeader_String
 msgctxt "b673d6d3-8b30-4f8a-b87d-f0e5c8f3ed07"
@@ -22167,7 +22676,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.KingdomCardGoToKingdom
 msgctxt "3c717468-1e02-4e15-83ee-b5a0be07e38d"
 msgid "Manage Kingdom"
-msgstr ""
+msgstr "왕국 관리"
 
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.KingdomCardNewEventsAvailable
 msgctxt "ab97980e-988c-4423-9c1a-418d22b3385f"
@@ -22177,7 +22686,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.KingdomCardWaitingInThroneRoom
 msgctxt "34c2f53b-2f65-451e-a0dc-636a66366866"
 msgid "Waiting in the throne room"
-msgstr ""
+msgstr "알현실에서 대기중"
 
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.LeaveCityBuilderDialog
 msgctxt "9297a91a-8b11-4bbe-9ef4-5ddc265f4cd6"
@@ -22854,8 +23363,6 @@ msgid "Stop"
 msgstr "중지"
 
 #. Mechanics/Blueprints/Root/UITexts/GroupManager_CompanionsHeader_String
-#, fuzzy
-#| msgid "companions"
 msgctxt "5c08ccd3-1fe1-4bd6-8927-6615e00e8612"
 msgid "Companions"
 msgstr "동료"
@@ -22877,11 +23384,9 @@ msgid ""
 msgstr "<font=\"Saber_Dist32\"><size=140%><color=#983f1d>퀘</color></size>스트"
 
 #. Mechanics/Blueprints/Root/UITexts/Journal_ShowCompliteQuest_String
-#, fuzzy
-#| msgid "Show complete quests"
 msgctxt "f742d055-bdc3-4e28-b57b-71ddd6b4ba17"
 msgid "Show/Hide completed quests"
-msgstr "완료한 퀘스트 보기"
+msgstr "완료한 퀘스트 보기/숨기기"
 
 #. Mechanics/Blueprints/Root/UITexts/KingdomBpPurchase_CostLabel_String
 msgctxt "c11b4c8b-34f8-4dc1-b32b-a66ac476d6d5"
@@ -23064,11 +23569,9 @@ msgid "Value"
 msgstr "수치"
 
 #. Mechanics/Blueprints/Root/UITexts/Kingdom_BuildedLabel_String
-#, fuzzy
-#| msgid "Built"
 msgctxt "901bef8d-6e04-4d69-8049-34007de1eabf"
 msgid "Constructed"
-msgstr "건물"
+msgstr "건설됨"
 
 #. Mechanics/Blueprints/Root/UITexts/Kingdom_SkipDayLabel_String
 msgctxt "c9cdfd0c-9e73-4521-9aec-92178d0a10a6"
@@ -23101,11 +23604,9 @@ msgid "Build"
 msgstr "건설"
 
 #. Mechanics/Blueprints/Root/UITexts/Label_Label 1_String_1
-#, fuzzy
-#| msgid "Built"
 msgctxt "d77c595b-2ea6-4292-9ecf-ecb58025e13e"
 msgid "Constructed"
-msgstr "세워짐"
+msgstr "건설됨"
 
 #. Mechanics/Blueprints/Root/UITexts/Label_Label_String_1
 msgctxt "a2fe9093-933e-49b8-88d2-5879ede0de1a"
@@ -23398,8 +23899,6 @@ msgid "Upgrade"
 msgstr "승급"
 
 #. Mechanics/Blueprints/Root/UITexts/Settlement_Bulided_Label_String
-#, fuzzy
-#| msgid "Built"
 msgctxt "548dafc6-061d-4680-bf8e-446de404c25a"
 msgid "Constructed"
 msgstr "건설됨"
