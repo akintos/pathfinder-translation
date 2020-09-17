@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-09-11 21:43+0000\n"
-"Last-Translator: ayame <eveforce@naver.com>\n"
+"PO-Revision-Date: 2020-09-17 12:37+0000\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -36084,8 +36084,6 @@ msgid "Base Income"
 msgstr "기본 세입"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomBptTooltipEconomy
-#, fuzzy
-#| msgid "Income form Stat Ranks"
 msgctxt "b005ff08-c71e-4ea5-972a-721c2cb58537"
 msgid "Income from Stat Ranks"
 msgstr "지표 등급에 따른 세입"
@@ -36171,7 +36169,7 @@ msgstr "이 사건에 대응할 수 있는 시간이 지났습니다. 이 사건
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomEventWindowDropHint
 msgctxt "5c762a82-8387-4d07-9420-998a44cdcb1e"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomEventWindowDropDialogueEventLabel_String
 msgctxt "8d09a488-2a57-45ba-a5eb-f9855fdf394d"
@@ -36196,7 +36194,7 @@ msgstr "이 계획을 취소하면 <b>{0}</b> BP를 돌려받습니다."
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomEventWindowStartHint
 msgctxt "27f5967a-e46a-4ce8-b2b0-a70d8b7d7115"
 msgid "Begin"
-msgstr ""
+msgstr "시작"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.KingdomIsDeadDescription
 msgctxt "36813a1f-ce4b-4e77-99db-beeb2932dd9a"
