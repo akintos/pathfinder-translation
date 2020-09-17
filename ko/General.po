@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-09-17 00:01+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2020-09-17 12:36+0000\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/general/ko/>\n"
 "Language: ko\n"
@@ -310,7 +310,7 @@ msgstr "폭풍"
 #. Mechanics/Blueprints/Buffs/SE_Delay_m_DisplayName
 msgctxt "18c17832-510e-4c67-a8ef-f92fdb936991"
 msgid "Delay"
-msgstr "지연"
+msgstr "미루기"
 
 #. Mechanics/Blueprints/Buffs/ShakenBuff_m_Description
 msgctxt "67d042e0-0470-4cc6-ae05-e88ac947f7b5"
@@ -509,7 +509,7 @@ msgstr "죽어가는 바솔로뮤"
 #. Mechanics/Blueprints/Console/GamePadTexts_FuncAdditional.Control.Text_String
 msgctxt "90499e36-0098-4c5a-a9e8-2b84f4c9844f"
 msgid "Area Map"
-msgstr ""
+msgstr "지역 지도"
 
 #. Mechanics/Blueprints/Console/GamePadTexts_m_Layers.Array.data[0].Texts.Array.data[0].Text
 msgctxt "5ebcf628-914f-48e2-a941-17907705a66e"
@@ -544,7 +544,7 @@ msgstr "설정"
 #. Mechanics/Blueprints/Console/GamePadTexts_m_Layers.Array.data[0].Texts.Array.data[15].Text
 msgctxt "5b36cc00-777d-4f0a-a5b8-4390a0c184a1"
 msgid "SHARE"
-msgstr ""
+msgstr "공유하기"
 
 #. Mechanics/Blueprints/Console/GamePadTexts_m_Layers.Array.data[0].Texts.Array.data[1].Text
 msgctxt "ae5a7d1b-064d-4b6a-8ffd-4d3e81acf6fb"
@@ -650,6 +650,10 @@ msgid ""
 "Effect: 1d3 Constitution damage\n"
 "Cure: 2 consecutive saves"
 msgstr ""
+"상처; 내성: 인내\n"
+"빈도: 매 라운드 / 6 라운드 동안\n"
+"효과: 1d3 건강 피해\n"
+"치유: 내성 2회 연속 성공"
 
 #. Mechanics/Blueprints/CreatureAbilities/BloomInfusedTemplate/TreantCreature/TreantCreatureSturdy_m_DisplayName
 msgctxt "20770d9c-69e1-4028-af15-c2664f2ee684"
@@ -2245,7 +2249,7 @@ msgstr "대공의 사슬"
 #. Mechanics/Blueprints/Credits/ContentCreatorsRoles_Roles.Array.data[23].NameRole
 msgctxt "4b2d3e23-8ed7-45dc-9572-3ccd15b4eaff"
 msgid "Peridot Wyvern, Charoite Wyvern, Lapis Lazuly Wyvern"
-msgstr ""
+msgstr "감람석 와이번, 차로아이트 와이번, 청금석 와이번"
 
 #. Mechanics/Blueprints/Credits/ContentCreatorsRoles_Roles.Array.data[2].NameRole
 msgctxt "fb8a4a37-6e72-4074-b80f-9ce430c1e80f"
@@ -2285,12 +2289,12 @@ msgstr "\"마야의 매력\" 목걸이"
 #. Mechanics/Blueprints/Credits/ContentCreatorsRoles_Roles.Array.data[9].NameRole
 msgctxt "906b4bc3-6838-446c-b120-6a03953de189"
 msgid "Xavorn's Cross"
-msgstr ""
+msgstr "자본의 십자가"
 
 #. Mechanics/Blueprints/Credits/ContentCreators_HeaderText
 msgctxt "d1a5009d-b84e-43aa-82e6-57283b83f32f"
 msgid "Diamond Tier"
-msgstr ""
+msgstr "다이아몬드 등급"
 
 #. Mechanics/Blueprints/Credits/ContentCreators_LeftPageText
 msgctxt "b1f8c2f5-3474-47fc-9703-26d32f184b44"
@@ -2299,338 +2303,338 @@ msgid ""
 "their pledges, but also helped us in adding more content and features to the "
 "game. We praise your creativity!"
 msgstr ""
-"후원으로 우리를 지지해 줄 뿐만 아니라 우리 게임에 더 많은 내용과 특징을 더할 수 있도록 도와주시는 분들께 진심으로 감사드린다. 당신의 "
+"후원으로 우리를 지지해 줄 뿐만 아니라 우리 게임에 더 많은 내용과 특징을 더할 수 있도록 도와주시는 분들께 진심으로 감사드립다. 당신의 "
 "창의성에 찬사를 보냅니다!"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[0].NameRole
 msgctxt "5b955f62-07fc-47a6-ba99-590bb9b4ddcd"
 msgid "International Director Production"
-msgstr ""
+msgstr "International Director Production"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[10].NameRole
 msgctxt "58826355-5608-422f-8df6-f6e56f49bd65"
 msgid "International Marketing Director"
-msgstr ""
+msgstr "International Marketing Director"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[11].NameRole
 msgctxt "a2cc2452-32ce-4517-a996-ab07acef739c"
 msgid "Head of International Marketing"
-msgstr ""
+msgstr "Head of International Marketing"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[12].NameRole
 msgctxt "b2b6010a-a8a3-432e-99ac-179c689879f6"
 msgid "International Marketing Manager"
-msgstr ""
+msgstr "International Marketing Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[13].NameRole
 msgctxt "63da0b25-9400-40cb-8829-c4b7d771d9b5"
 msgid "Head of Creative Services"
-msgstr ""
+msgstr "Head of Creative Services"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[14].NameRole
 msgctxt "773436ad-c4bf-4d60-9c10-cb9c45d4fd16"
 msgid "Senior Art Director"
-msgstr ""
+msgstr "Senior Art Director"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[15].NameRole
 msgctxt "f87ecce8-8ef4-4a83-910a-268099862f65"
 msgid "Art Director"
-msgstr ""
+msgstr "Art Director"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[16].NameRole
 msgctxt "e2959186-5c1b-47a8-840f-93fa31fb0f2a"
 msgid "Video Expert"
-msgstr ""
+msgstr "Video Expert"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[17].NameRole
 msgctxt "01d0c333-2ca9-4297-90a0-8efc8d3bd1d3"
 msgid "Video Editor"
-msgstr ""
+msgstr "Video Editor"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[18].NameRole
 msgctxt "c2d24f43-56f2-4c87-b897-26005afea25c"
 msgid "Head of Sales Planning & Strategy"
-msgstr ""
+msgstr "Head of Sales Planning & Strategy"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[19].NameRole
 msgctxt "7632e6c3-ec3f-4aea-b8f9-223808a84daa"
 msgid "Head of Digital"
-msgstr ""
+msgstr "Head of Digital"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[1].NameRole
 msgctxt "761dede7-b049-4ece-b355-b6204690c86e"
 msgid "Product Manager"
-msgstr ""
+msgstr "Product Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[20].NameRole
 msgctxt "4cc1be10-88e7-4a2b-a842-73e693517468"
 msgid "Digital Marketing Manager"
-msgstr ""
+msgstr "Digital Marketing Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[21].NameRole
 msgctxt "e708b6e9-5561-465e-8038-8b3c47b2495e"
 msgid "Digital Account Manager"
-msgstr ""
+msgstr "Digital Account Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[22].NameRole
 msgctxt "8f4f55c1-d7e6-45a2-8d63-d3bbae7ff222"
 msgid "Content Manager"
-msgstr ""
+msgstr "Content Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[23].NameRole
 msgctxt "4763d6a9-cdf2-42b0-9030-25b1cfd9e39a"
 msgid "Communications Manager"
-msgstr ""
+msgstr "Communications Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[24].NameRole
 msgctxt "d0a3c900-90e2-455a-866e-d3c1bf2798fd"
 msgid "Jr. International Marketing Manager"
-msgstr ""
+msgstr "Jr. International Marketing Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[25].NameRole
 msgctxt "7ec37fbb-7481-4008-b375-9d98569b0784"
 msgid "Head of Global Marketing"
-msgstr ""
+msgstr "Head of Global Marketing"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[26].NameRole
 msgctxt "6481a24f-1f0c-43ec-929b-eb9a3a41fa63"
 msgid "UK Marketing Manager"
-msgstr ""
+msgstr "UK Marketing Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[27].NameRole
 msgctxt "ec88cb61-0326-4cc7-a090-16511f7d7b9b"
 msgid "UK Marketing Assistant"
-msgstr ""
+msgstr "UK Marketing Assistant"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[28].NameRole
 msgctxt "98acac23-435b-4ac0-bbf2-c85eb681067f"
 msgid "UK Senior PR Manager"
-msgstr ""
+msgstr "UK Senior PR Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[29].NameRole
 msgctxt "34728ff5-fb97-476c-8d23-29787f7b8aa8"
 msgid "UK PR Assistant"
-msgstr ""
+msgstr "UK PR Assistant"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[2].NameRole
 msgctxt "0e977a75-9348-4432-af3f-dfabdc6c8623"
 msgid "Senior Product Release Manager"
-msgstr ""
+msgstr "Senior Product Release Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[30].NameRole
 msgctxt "75051c46-a0cc-4e56-b729-4bb5a0484a5b"
 msgid "UK Product Manager"
-msgstr ""
+msgstr "UK Product Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[31].NameRole
 msgctxt "d230013d-e482-454b-91d7-425bacf6fba8"
 msgid "UK Community Manager"
-msgstr ""
+msgstr "UK Community Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[32].NameRole
 msgctxt "fb617fde-9fc0-4dda-b582-153f9ea857b8"
 msgid "UK Head of Sales and Trade Marketing UK & EIRE"
-msgstr ""
+msgstr "UK Head of Sales and Trade Marketing UK & EIRE"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[33].NameRole
 msgctxt "15e7d210-0ff8-46bf-9805-9dd0bc7e8e90"
 msgid "UK Trade Marketing Manager"
-msgstr ""
+msgstr "UK Trade Marketing Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[34].NameRole
 msgctxt "59ab5c27-8c9b-410c-98fa-cc904326c75b"
 msgid "UK National Account Manager"
-msgstr ""
+msgstr "UK National Account Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[35].NameRole
 msgctxt "b01a4428-0e78-4887-a115-9700c43a0a22"
 msgid "International Sales & New Business Development"
-msgstr ""
+msgstr "International Sales & New Business Development"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[36].NameRole
 msgctxt "93591599-4ad8-4a10-88dd-c3925c6638e7"
 msgid "Brand Marketing Manager"
-msgstr ""
+msgstr "Brand Marketing Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[37].NameRole
 msgctxt "e9282472-691a-4138-9711-15d7963f57ef"
 msgid "Chief Operating Officer"
-msgstr ""
+msgstr "Chief Operating Officer"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[38].NameRole
 msgctxt "ca25ce5a-5ccc-4c3a-8958-545b1e8f9d7d"
 msgid "Publishing Compliance Manager"
-msgstr ""
+msgstr "Publishing Compliance Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[39].NameRole
 msgctxt "404209b5-3372-4ea7-93c1-30f0b7f99cb3"
 msgid "Director of Marketing and PR"
-msgstr ""
+msgstr "Director of Marketing and PR"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[3].NameRole
 msgctxt "cd136988-fc85-4f2e-844a-ed5c4fafd76b"
 msgid "Product Release & QA Project Manager"
-msgstr ""
+msgstr "Product Release & QA Project Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[40].NameRole
 msgctxt "b2837631-af49-4199-a2eb-418cf9a67e51"
 msgid "Associate Marketing Manager"
-msgstr ""
+msgstr "Associate Marketing Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[41].NameRole
 msgctxt "bc54f994-af60-434f-b05c-dc491edd84b4"
 msgid "Managing Director"
-msgstr ""
+msgstr "Managing Director"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[42].NameRole
 msgctxt "33964194-713a-4f9d-9aac-aca2137cbeaf"
 msgid "Marketing Director"
-msgstr ""
+msgstr "Marketing Director"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[43].NameRole
 msgctxt "b27d0cd5-b329-45cc-b24b-5f6fd27bbbc6"
 msgid "General Manager"
-msgstr ""
+msgstr "General Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[44].NameRole
 msgctxt "07c1cdc2-006d-48fa-90a5-59b5de5bea30"
 msgid "Sales Manager Games"
-msgstr ""
+msgstr "Sales Manager Games"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[45].NameRole
 msgctxt "7a9bf76e-fdc0-4922-97ed-c64dcabc4d5b"
 msgid "Key Account Manager Games"
-msgstr ""
+msgstr "Key Account Manager Games"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[46].NameRole
 msgctxt "3bec59b0-459f-4f37-a71e-0c13d32ab198"
 msgid "Localisation Project Manager"
-msgstr ""
+msgstr "Localisation Project Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[47].NameRole
 msgctxt "257c3383-4178-4576-84cb-8e015c655707"
 msgid "Product Release & Senior QA Project Manager"
-msgstr ""
+msgstr "Product Release & Senior QA Project Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[4].NameRole
 msgctxt "3620ab3d-18c9-4595-9d80-193cc56e08e8"
 msgid "Head of Localisation & QA"
-msgstr ""
+msgstr "Head of Localisation & QA"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[5].NameRole
 msgctxt "72a8ec1f-47ab-4f07-a2c1-3418f9f304b9"
 msgid "Localisation Project Manager"
-msgstr ""
+msgstr "Localisation Project Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[6].NameRole
 msgctxt "bae5b934-f492-4c11-b49a-fd7985fbcc5a"
 msgid "QA Project Manager"
-msgstr ""
+msgstr "QA Project Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[7].NameRole
 msgctxt "3946caa6-63f9-4090-94eb-747e8b3d7634"
 msgid "Business Development Director"
-msgstr ""
+msgstr "Business Development Director"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[8].NameRole
 msgctxt "30c511b9-96ba-41cd-b869-c55767e924ae"
 msgid "Senior Business Development Manager"
-msgstr ""
+msgstr "Senior Business Development Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverRoles_Roles.Array.data[9].NameRole
 msgctxt "f08fa6cf-fd04-4b73-9653-b3c89e6f9fc2"
 msgid "Business Development Manager"
-msgstr ""
+msgstr "Business Development Manager"
 
 #. Mechanics/Blueprints/Credits/DeepSilverTeams_Teams.Array.data[0].NameTeam
 msgctxt "5d0163bd-4ba5-4774-8d22-02c5f4e6c351"
 msgid "Production"
-msgstr ""
+msgstr "Production"
 
 #. Mechanics/Blueprints/Credits/DeepSilverTeams_Teams.Array.data[10].NameTeam
 msgctxt "40a1bb60-2091-40df-b94d-e49c0dbb6481"
 msgid "Spain"
-msgstr ""
+msgstr "Spain"
 
 #. Mechanics/Blueprints/Credits/DeepSilverTeams_Teams.Array.data[11].NameTeam
 msgctxt "7ab422fc-72d8-401d-a65e-68ff217f50b7"
 msgid "Spanish Marketing"
-msgstr ""
+msgstr "Spanish Marketing"
 
 #. Mechanics/Blueprints/Credits/DeepSilverTeams_Teams.Array.data[12].NameTeam
 msgctxt "0d467387-c478-457a-9b37-a34ebc05dd9d"
 msgid "Italy"
-msgstr ""
+msgstr "Italy"
 
 #. Mechanics/Blueprints/Credits/DeepSilverTeams_Teams.Array.data[13].NameTeam
 msgctxt "61b85efe-f389-4771-aa64-190787830d0d"
 msgid "Italian Marketing"
-msgstr ""
+msgstr "Italian Marketing"
 
 #. Mechanics/Blueprints/Credits/DeepSilverTeams_Teams.Array.data[14].NameTeam
 msgctxt "f9c0e0cd-d164-4376-af6d-7ab5656fd70f"
 msgid "France"
-msgstr ""
+msgstr "France"
 
 #. Mechanics/Blueprints/Credits/DeepSilverTeams_Teams.Array.data[15].NameTeam
 msgctxt "793284f6-9269-444a-83ce-e4b9003880ae"
 msgid "French Marketing"
-msgstr ""
+msgstr "French Marketing"
 
 #. Mechanics/Blueprints/Credits/DeepSilverTeams_Teams.Array.data[16].NameTeam
 msgctxt "13a1ab43-3f3b-47bd-b053-e7090a9a7f7c"
 msgid "Benelux"
-msgstr ""
+msgstr "Benelux"
 
 #. Mechanics/Blueprints/Credits/DeepSilverTeams_Teams.Array.data[17].NameTeam
 msgctxt "1536be52-a7cc-49e2-adc3-ba06ab2c7905"
 msgid "Benelux Marketing"
-msgstr ""
+msgstr "Benelux Marketing"
 
 #. Mechanics/Blueprints/Credits/DeepSilverTeams_Teams.Array.data[1].NameTeam
 msgctxt "b09fdd79-79d8-449d-b3e9-7dca4b034cc7"
 msgid "Business Development"
-msgstr ""
+msgstr "Business Development"
 
 #. Mechanics/Blueprints/Credits/DeepSilverTeams_Teams.Array.data[2].NameTeam
 msgctxt "c708a761-acb8-4c0b-9482-af74ff5f73ac"
 msgid "International Marketing"
-msgstr ""
+msgstr "International Marketing"
 
 #. Mechanics/Blueprints/Credits/DeepSilverTeams_Teams.Array.data[3].NameTeam
 msgctxt "50bcf40c-ec1d-4a80-b69f-ff169a741541"
 msgid "GSA Marketing"
-msgstr ""
+msgstr "GSA Marketing"
 
 #. Mechanics/Blueprints/Credits/DeepSilverTeams_Teams.Array.data[4].NameTeam
 msgctxt "7d6e0e1e-ecba-4fd2-9f84-224652b2e0c1"
 msgid "UK Marketing"
-msgstr ""
+msgstr "UK Marketing"
 
 #. Mechanics/Blueprints/Credits/DeepSilverTeams_Teams.Array.data[5].NameTeam
 msgctxt "b22842c7-76a1-4f0f-a6ad-6bf180a99744"
 msgid "UK Sales"
-msgstr ""
+msgstr "UK Sales"
 
 #. Mechanics/Blueprints/Credits/DeepSilverTeams_Teams.Array.data[6].NameTeam
 msgctxt "b9bb3d7c-58c0-42dd-99d8-8d103c6def9d"
 msgid "International Export"
-msgstr ""
+msgstr "International Export"
 
 #. Mechanics/Blueprints/Credits/DeepSilverTeams_Teams.Array.data[7].NameTeam
 msgctxt "e9fc23b5-5c1a-470a-96e4-95432d11337e"
 msgid "North America"
-msgstr ""
+msgstr "North America"
 
 #. Mechanics/Blueprints/Credits/DeepSilverTeams_Teams.Array.data[8].NameTeam
 msgctxt "add17878-cb96-41c3-aaaa-5190519ca881"
 msgid "Nordic"
-msgstr ""
+msgstr "Nordic"
 
 #. Mechanics/Blueprints/Credits/DeepSilverTeams_Teams.Array.data[9].NameTeam
 msgctxt "4db94481-d9f6-40be-84c4-f96cde8cce33"
 msgid "Nordic Marketing"
-msgstr ""
+msgstr "Nordic Marketing"
 
 #. Mechanics/Blueprints/Credits/DeepSilver_HeaderText
 msgctxt "5959df02-3d6c-4e58-b9e3-24a1ce9994a4"
@@ -2701,7 +2705,7 @@ msgstr "Dungeon Architect"
 msgctxt "a637c3ad-ed9a-40e5-bc72-9602655a66db"
 msgid ""
 "Copyright (c) 2020 Hsinyu. Special thanks to the author of the TurnBasedMod!"
-msgstr ""
+msgstr "Copyright (c) 2020 Hsinyu. TurnBasedMod의 제작자에게 특별한 감사를 보냅니다!"
 
 #. Mechanics/Blueprints/Credits/Middleware_HeaderText
 msgctxt "be69b1d9-a66f-47e5-ad57-47391b127674"
@@ -2806,22 +2810,22 @@ msgstr "Head of Business Development, Mail.Ru Group"
 #. Mechanics/Blueprints/Credits/MyComRoles_Roles.Array.data[26].NameRole
 msgctxt "48e4da88-e77d-42f4-9a99-51d05a2d89f7"
 msgid "Head of Games Division, Mail.ru Group"
-msgstr ""
+msgstr "Head of Games Division, Mail.ru Group"
 
 #. Mechanics/Blueprints/Credits/MyComRoles_Roles.Array.data[27].NameRole
 msgctxt "46d98949-191b-42ae-8382-7b230ffd5060"
 msgid "Brand Manager"
-msgstr ""
+msgstr "Brand Manager"
 
 #. Mechanics/Blueprints/Credits/MyComRoles_Roles.Array.data[28].NameRole
 msgctxt "e63d7e99-e86b-4a37-b89f-569cc02d0e4b"
 msgid "Build Manager"
-msgstr ""
+msgstr "Build Manager"
 
 #. Mechanics/Blueprints/Credits/MyComRoles_Roles.Array.data[29].NameRole
 msgctxt "f4c8801d-d44c-4bb7-9fe0-ad92caae29a8"
 msgid "Technical Director"
-msgstr ""
+msgstr "Technical Director"
 
 #. Mechanics/Blueprints/Credits/MyComRoles_Roles.Array.data[2].NameRole
 msgctxt "c52bf41d-90b5-4ce6-a4d8-acb74971cf05"
@@ -2897,13 +2901,13 @@ msgstr "Developers"
 msgctxt "468f0f40-3f57-4375-8cae-456c9b708bda"
 msgid ""
 "Our heartfelt thanks to all the backers, who helped us with their feedback!"
-msgstr ""
+msgstr "피드백으로 우리를 도와주신 모든 분께 진심으로 감사를 전합니다!"
 
 #. Mechanics/Blueprints/Credits/Outsource_Persones.Array.data[222].Text
 msgctxt "b8f3e09c-9719-4f89-b83b-d472ad49febd"
 msgid ""
 "Our heartfelt thanks to all the backers, who helped us with their feedback!"
-msgstr ""
+msgstr "피드백으로 우리를 도와주신 모든 분께 진심으로 감사를 전합니다!"
 
 #. Mechanics/Blueprints/Credits/OwlCatGames_HeaderText
 msgctxt "322b11cb-b52c-4931-b8ce-a4ee9e671f80"
@@ -2938,7 +2942,7 @@ msgstr "우리 가족과 친구들의 성원에 심심한 감사의 뜻을 전�
 #. Mechanics/Blueprints/Credits/OwlCatGames_Persones.Array.data[51].Text
 msgctxt "a27e9d25-0986-4388-b71a-5fb442045f60"
 msgid "Special Thanks to our families and friends for their support!"
-msgstr ""
+msgstr "우리 가족과 친구들의 도움에 특별히 감사드립니다!"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[0].NameRole
 msgctxt "b600d297-0613-44ed-be3b-5de4b09eae4a"
@@ -2968,32 +2972,32 @@ msgstr "CEO of Paizo Publishing, and COO of Goblinworks"
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[14].NameRole
 msgctxt "5d00ef52-3268-4475-a9cf-75b04a41ed3d"
 msgid "Director of Game Design"
-msgstr ""
+msgstr "Director of Game Design"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[15].NameRole
 msgctxt "17f62041-ea70-47f2-8186-331145909d01"
 msgid "Managing Developer"
-msgstr ""
+msgstr "Managing Developer"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[16].NameRole
 msgctxt "816add70-1f7a-4f4e-b3fa-cc46b4037607"
 msgid "Organized Play Lead Developer"
-msgstr ""
+msgstr "Organized Play Lead Developer"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[17].NameRole
 msgctxt "7419659f-945c-499f-b9ed-e6ce118fbda5"
 msgid "Developer"
-msgstr ""
+msgstr "Developer"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[18].NameRole
 msgctxt "2e209d0e-b935-4f02-a722-b482c4209361"
 msgid "Starfinder Design Lead"
-msgstr ""
+msgstr "Starfinder Design Lead"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[19].NameRole
 msgctxt "d08c1c61-23f7-4095-875d-f4b69c453db6"
 msgid "Starfinder Society Developer"
-msgstr ""
+msgstr "Starfinder Society Developer"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[1].NameRole
 msgctxt "4a9de2be-28d9-400f-863f-bbe967304c03"
@@ -3003,52 +3007,52 @@ msgstr "CCO and Publisher"
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[20].NameRole
 msgctxt "52a122db-e36e-4915-adf9-2f1df1219eb0"
 msgid "Senior Designer"
-msgstr ""
+msgstr "Senior Designer"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[21].NameRole
 msgctxt "e188291e-af79-4d7a-9bec-0b1e5d06e75a"
 msgid "Designer"
-msgstr ""
+msgstr "Designer"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[22].NameRole
 msgctxt "f9131bde-1139-4cd7-a739-87f6c61860e2"
 msgid "Managing Editor"
-msgstr ""
+msgstr "Managing Editor"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[23].NameRole
 msgctxt "022d8728-f811-4b86-8c24-e00e44af70c4"
 msgid "Senior Editor"
-msgstr ""
+msgstr "Senior Editor"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[24].NameRole
 msgctxt "75414190-2687-4a1b-b175-a125d4d94a5e"
 msgid "Editor"
-msgstr ""
+msgstr "Editor"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[25].NameRole
 msgctxt "62307fae-4c1e-4ab2-8a35-d85dfb38a54d"
 msgid "Senior Graphic Designer"
-msgstr ""
+msgstr "Senior Graphic Designer"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[26].NameRole
 msgctxt "8074d815-e9fc-4aef-a223-5e3ddae53318"
 msgid "Production Artist"
-msgstr ""
+msgstr "Production Artist"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[27].NameRole
 msgctxt "f43d2eb3-bfbe-4dbc-a05d-aed21652a6af"
 msgid "Project Manager"
-msgstr ""
+msgstr "Project Manager"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[28].NameRole
 msgctxt "13bd205a-18d5-4d5e-91bf-bc1aa19c170a"
 msgid "Publisher"
-msgstr ""
+msgstr "Publisher"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[29].NameRole
 msgctxt "d8082814-a413-4e79-8fea-6904c5e3a9d6"
 msgid "Chief Executive Officer of Paizo Publishing"
-msgstr ""
+msgstr "Chief Executive Officer of Paizo Publishing"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[2].NameRole
 msgctxt "b485ee8c-dcf4-489f-9eb1-c8c848ac3870"
@@ -3058,52 +3062,52 @@ msgstr "Licensing Manager"
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[30].NameRole
 msgctxt "45089863-e190-4f3a-92a6-010fcc0a7ae6"
 msgid "Chief Financial Officer"
-msgstr ""
+msgstr "Chief Financial Officer"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[31].NameRole
 msgctxt "356bcae2-f5b4-485e-8ace-151bc357d44e"
 msgid "Director of Sales"
-msgstr ""
+msgstr "Director of Sales"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[32].NameRole
 msgctxt "81523331-4061-41dd-9717-5dc961a2de04"
 msgid "Sales Associate"
-msgstr ""
+msgstr "Sales Associate"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[33].NameRole
 msgctxt "f318daf6-6c21-4365-83e7-dc9d9163baae"
 msgid "Marketing Manager"
-msgstr ""
+msgstr "Marketing Manager"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[34].NameRole
 msgctxt "6dbf5563-1846-41d2-af22-14224223a737"
 msgid "Public Relations Manager"
-msgstr ""
+msgstr "Public Relations Manager"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[35].NameRole
 msgctxt "f6839708-c761-44e1-bbf1-e09d5eca39b6"
 msgid "Organized Play Manager"
-msgstr ""
+msgstr "Organized Play Manager"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[36].NameRole
 msgctxt "8b845585-beca-40fd-9f3b-2e617f404f61"
 msgid "Accountant"
-msgstr ""
+msgstr "Accountant"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[37].NameRole
 msgctxt "a021c088-c8a3-40a0-88be-5153801a749f"
 msgid "Data Entry Clerk"
-msgstr ""
+msgstr "Data Entry Clerk"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[38].NameRole
 msgctxt "e65e0b5c-f36f-4c61-8c02-82f20710dba4"
 msgid "Director of Technology"
-msgstr ""
+msgstr "Director of Technology"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[39].NameRole
 msgctxt "af7e6b47-cfbb-4876-a0e6-22e4100462b7"
 msgid "Web Production Manager"
-msgstr ""
+msgstr "Web Production Manager"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[3].NameRole
 msgctxt "6d65d330-4c44-446e-9fbc-c48af61f63d7"
@@ -3113,27 +3117,27 @@ msgstr "Creative Director"
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[40].NameRole
 msgctxt "68893627-37dc-41ca-9ade-c67654bf0ce7"
 msgid "Senior Software Developer"
-msgstr ""
+msgstr "Senior Software Developer"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[41].NameRole
 msgctxt "ea705834-3b11-4922-9df2-e1df9ce13948"
 msgid "Webstore Coordinator"
-msgstr ""
+msgstr "Webstore Coordinator"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[42].NameRole
 msgctxt "e32dca30-1170-4ab7-ae96-ae25cdd3767a"
 msgid "Customer Service Team"
-msgstr ""
+msgstr "Customer Service Team"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[43].NameRole
 msgctxt "3ecdd389-c0eb-4f5d-bee1-70109fe4957d"
 msgid "Warehouse Team"
-msgstr ""
+msgstr "Warehouse Team"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[44].NameRole
 msgctxt "47ec441b-2390-4941-95de-3285cc4119a6"
 msgid "Website Team"
-msgstr ""
+msgstr "Website Team"
 
 #. Mechanics/Blueprints/Credits/PaizoRoles_Roles.Array.data[4].NameRole
 msgctxt "6edc2154-68b2-4d0f-b997-81f374a2ea1b"
@@ -3255,7 +3259,7 @@ msgctxt "6fc0d30e-dd52-4801-962a-a23938674d0e"
 msgid ""
 "The setting glossary contains information compiled and summarized by the "
 "volunteer editors of pathfinderwiki.com."
-msgstr ""
+msgstr "용어집에는 pathfinderwiki.com의 기여자들이 수집하고 요약한 정보들이 포함되어 있습니다."
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[109].NameRole
 msgctxt "0958be25-a25a-4241-8ffc-11e96090949b"
@@ -3265,7 +3269,7 @@ msgstr "CCO and Publisher"
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[109].NameRole_1
 msgctxt "5ab10edc-96b4-4251-8c20-dc6496fac7bd"
 msgid "Build Manager"
-msgstr ""
+msgstr "Build Manager"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[10].NameRole
 msgctxt "c9ccc603-d2e0-4dd7-97cf-ce3ce681ca2a"
@@ -3310,7 +3314,7 @@ msgstr "COO"
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[113].NameRole_1
 msgctxt "f7ad38a1-45e5-4d11-b451-e0ceec689448"
 msgid "UI Engineer"
-msgstr ""
+msgstr "UI Engineer"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[114].NameRole
 msgctxt "b51c8ca6-8eca-4579-915b-4768e82916d5"
@@ -3320,7 +3324,7 @@ msgstr "VP of Marketing and Licensing"
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[114].NameRole_1
 msgctxt "026ef462-74b9-41cb-b4b4-bc4aaebb9bb1"
 msgid "Baron (Grumpy)"
-msgstr ""
+msgstr "Baron (Grumpy)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[115].NameRole
 msgctxt "96378526-349d-41fc-aa10-9a7c8522fd29"
@@ -3330,7 +3334,7 @@ msgstr "Franchise Manager"
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[115].NameRole_1
 msgctxt "437131e1-792b-48ac-a2b3-1e7c671250a4"
 msgid "Baron (Wise)"
-msgstr ""
+msgstr "Baron (Wise)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[116].NameRole
 msgctxt "e2099fd7-066c-4e99-a3eb-da17bdcedb60"
@@ -3340,7 +3344,7 @@ msgstr "Director of licensing"
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[116].NameRole_1
 msgctxt "9410280b-33a0-4b16-ac3d-1923b9a70722"
 msgid "Baroness (Cunning)"
-msgstr ""
+msgstr "Baroness (Cunning)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[117].NameRole
 msgctxt "465a7e2f-6a6c-4a64-bd14-545a84360236"
@@ -3350,7 +3354,7 @@ msgstr "Art Director"
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[117].NameRole_1
 msgctxt "9b50d364-edf9-430d-8196-0f1c743852e0"
 msgid "Baroness (Carefree)"
-msgstr ""
+msgstr "Baroness (Carefree)"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[118].NameRole
 msgctxt "1e884f5b-aa1d-451a-bd88-a920d5d25198"
@@ -9779,7 +9783,7 @@ msgstr "용감함"
 #. Mechanics/Blueprints/Sound/Barks/PC/PC_Female_Carefree/PC_Female_Carefree_Barks_DisplayName
 msgctxt "3cdd9419-3da8-417a-abc6-acd47b081995"
 msgid "Carefree"
-msgstr ""
+msgstr "Carefree"
 
 #. Mechanics/Blueprints/Sound/Barks/PC/PC_Female_Confident/PC_Female_Confident_Barks_DisplayName
 msgctxt "e00a24f7-7668-45b7-9e9e-87ced822b5c2"
@@ -9789,7 +9793,7 @@ msgstr "신중함"
 #. Mechanics/Blueprints/Sound/Barks/PC/PC_Female_Cunning/PC_Female_Cunning_Barks_DisplayName
 msgctxt "6d89ac3b-68e2-417f-bfa6-dd2e41760776"
 msgid "Cunning"
-msgstr ""
+msgstr "Cunning"
 
 #. Mechanics/Blueprints/Sound/Barks/PC/PC_Female_Madman/PC_Female_Madman_Barks_DisplayName
 msgctxt "1697ab15-282f-478c-bd2e-350088701806"
@@ -9834,7 +9838,7 @@ msgstr "신중함"
 #. Mechanics/Blueprints/Sound/Barks/PC/PC_Male_Grumpy/PC_Male_Grumpy_Barks_DisplayName
 msgctxt "a6c5c197-6594-4343-a289-b94bd49742c2"
 msgid "Grumpy"
-msgstr ""
+msgstr "Grumpy"
 
 #. Mechanics/Blueprints/Sound/Barks/PC/PC_Male_Madman/PC_Male_Madman_Barks_DisplayName
 msgctxt "adaef0b3-f7aa-425a-a6ba-a7485cc55241"
@@ -9859,7 +9863,7 @@ msgstr "과묵함"
 #. Mechanics/Blueprints/Sound/Barks/PC/PC_Male_Wise/PC_Male_Wise_Barks_DisplayName
 msgctxt "55396548-115b-4140-8c75-cda257dabaa5"
 msgid "Wise"
-msgstr ""
+msgstr "Wise"
 
 #. Mechanics/Blueprints/Sound/Barks/PC/PC_None_Barks_DisplayName
 msgctxt "bc85f77c-195d-45ec-9667-bdbfa6d07061"
@@ -11833,6 +11837,10 @@ msgid ""
 "monsters, or you may meet new acquaintances. After exiting the location of a "
 "random encounter, you will not be able to return there."
 msgstr ""
+"이것은 도둑맞은 땅과 그 주변의 지도입니다. 설정하려면 일행 토큰 옆에 있는 화살표 중 하나를 클릭하십시오. 여행 중에 중요한 장소의 "
+"이야기를 하거나 문자를 보면서 중요한 위치의 소재를 배울 수 있습니다. 위치에 대해 학습 한 후에는 자신의 위치를 찾아야 합니다. 길을 "
+"따라 무작위로 만날 수 있습니다. 괴물이 공격을 당하거나 새로운 지인을 만날 수 있습니다. 무작위 조우의 위치를 벗어나면 거기로 돌아갈 "
+"수 없습니다."
 
 #. Mechanics/Blueprints/TutorialCase/TutorialPageHint_1_1_MessageMouse
 msgctxt "6ca80f73-a0cb-4b2c-8e2d-0a35ecd3b13e"
@@ -11840,11 +11848,13 @@ msgid ""
 "To move the camera, use the <b>WASD</b> and <b>ARROW KEYS</b> or press and "
 "<b>hold the middle mouse button</b>."
 msgstr ""
+"카메라를 움직이려면, <b>WASD</b> 또는 <b>방향키</b>를 누르거나, <b>마우스 가운데 버튼을 누른 채로</b> 드래그 "
+"하세요."
 
 #. Mechanics/Blueprints/TutorialCase/TutorialPageHint_1_2_MessageMouse
 msgctxt "62707657-7fc8-4a8c-b761-b362de1e665c"
 msgid "Click this icon to exit the current area."
-msgstr ""
+msgstr "현재 지역에서 나가려면 이 아이콘을 클릭하십시오."
 
 #. Mechanics/Blueprints/TutorialCase/TutorialPageHint_1_MessageMouse
 msgctxt "e3723b3b-8db9-44bf-86d6-110aa25f82fb"
@@ -11854,6 +11864,8 @@ msgid ""
 "location is inaccessible, the symbol will instead appear in the nearest "
 "accessible location."
 msgstr ""
+"가려고 하는 장소를 클릭하면 표식이 생기고, 캐릭터가 그곳으로 움직입니다. 클릭한 곳으로 갈 수 없다면 그곳에 최대한 가까우면서 이동이 "
+"가능한 장소에 표식이 생깁니다."
 
 #. Mechanics/Blueprints/TutorialCase/TutorialPageHint_3_MessageMouse
 msgctxt "4ab485fb-7fad-4be9-8d3a-91d4481f2780"
@@ -11863,6 +11875,8 @@ msgid ""
 "when you hover your mouse over them or when you hold "
 "<b>{bind|HighlightObjectsOn}</b>."
 msgstr ""
+"죽은 적의 시체와 같은 다양한 물체들을 클릭해서 상호작용할 수 있습니다. 상호작용이 가능한 물체는 마우스로 가리키거나  "
+"<b>{bind|HighlightObjectsOn}</b> 키를 누르면 강조 표시됩니다."
 
 #. Mechanics/Blueprints/TutorialCase/TutorialPageHint_4_MessageMouse
 msgctxt "5f787b4c-8709-4101-ae2e-950390ed55e4"
@@ -11871,13 +11885,15 @@ msgid ""
 "changes, you will also see a notification on the main screen. To open "
 "Linzi's Journal, press <b>{bind|OpenJournal}</b>."
 msgstr ""
+"린지의 저널에는 현재 퀘스트 및 임무가 적혀 있습니다. 이에 변화가 생기면, 주 화면에도 알림이 표시됩니다. 린지의 저널을 열려면 "
+"<b>{bind|OpenJournal}</b>를 누르십시오."
 
 #. Mechanics/Blueprints/TutorialCase/TutorialPageHint_5_1_MessageMouse
 msgctxt "05ce1e81-7c28-42f9-a656-e7671cb7fbd1"
 msgid ""
 "You've acquired a ring. In order to equip it, open your inventory by "
 "pressing <b>{bind|OpenInventory}</b>."
-msgstr ""
+msgstr "반지를 획득했습니다. 장비하려면 <b>{bind|OpenInventory}</b> 키를 눌러 소지품 창을 여십시오."
 
 #. Mechanics/Blueprints/TutorialCase/TutorialPageHint_5_2_MessageMouse
 msgctxt "9d078536-4895-45d2-94cd-a0eab4f1cb3e"
@@ -11888,6 +11904,9 @@ msgid ""
 "primarily weapons and armor) require a character to have proficiency with "
 "that item's type before they are able to equip the item."
 msgstr ""
+"물품을 장비하려면 <b>{bind|OpenInventory}</b>키를 눌러 인벤토리 창을 열고 그 물품을 더블 클릭하거나 맞는 칸에 "
+"끌어 놓으십시오. 마우스 커서를 올려놓으면 물품에 관한 설명과 능력치가 보이고 현재 장비와 비교할 수 있습니다. 어떤 물품은 (주로 "
+"무기나 방어구) 장비하려면 해당 물품에 대한 숙련이 필요합니다."
 
 #. Mechanics/Blueprints/TutorialCase/TutorialPageHint_6_MessageMouse
 msgctxt "374bda7d-78c5-4a9f-b4f8-978a1010480f"
@@ -11899,18 +11918,22 @@ msgid ""
 "while holding down the left mouse button. To select all characters, press "
 "<b>{bind|GroupCharacterSelectAll}</b>."
 msgstr ""
+"이제 일행에 여러 명의 동료가 있습니다. 한 캐릭터를 선택하려면 초상화를 클릭하거나 "
+"<b>{bind|GroupCharacter0}~{bind|GroupCharacter5}</b> 키를 누르십시오. 한 번에 여러 캐릭터를 "
+"선택하고 같은 명령을 내리려면 왼쪽 마우스 버튼을 누른 상태에서 사각형을 그려 원하는 캐릭터들을 선택하면 됩니다. 모든 캐릭터를 "
+"선택하려면 <b>{bind|GroupCharacterSelectAll}</b> 키를 누르십시오."
 
 #. Mechanics/Blueprints/TutorialCase/TutorialPageHint_9_MessageMouse
 msgctxt "24624b56-b0c1-4b92-929d-11d228c17d36"
 msgid ""
 "Press the <b>Tab</b> key to highlight all interactive objects in the "
 "vicinity."
-msgstr ""
+msgstr "<b>Tab</b> 키를 눌러 주변에 있는 상호작용 가능한 물체를 강조해서 표시할 수 있습니다.<b>"
 
 #. Mechanics/Blueprints/TutorialCase/TutorialPageHint_Pause_MessageMouse
 msgctxt "988d1742-f1ba-43cb-b6c9-7f365e0e20da"
 msgid "To pause or unpause the game, press <b>{bind|Pause}</b>."
-msgstr ""
+msgstr "게임을 일시 중지하거나 재개하려면 <b>{bind|Pause}</b>키를 누르십시오."
 
 #. Mechanics/Blueprints/TutorialCase/TutorialPageModal_10_1_MessageMouse
 msgctxt "b30e0c57-2205-4018-b164-cd8f381c40c8"
@@ -11926,6 +11949,10 @@ msgid ""
 "the trap will go off as if the character had triggered it. All check results "
 "can be found in the Combat Log."
 msgstr ""
+"모험 중에는 많은 함정을 맞닥뜨리게 됩니다. 캐릭터가 함정에 접근하면 자동으로 <b>지각 기술 판정</b>을 합니다. 성공하면 함정의 "
+"위치가 표시되고 게임이 자동으로 일시 정지됩니다. 함정은 다양한 효과를 지니고 있고 탐지의 난이도 역시 다릅니다. 탐지한 함정을 클릭하면 "
+"일행 중 한 명이 <b>손재주 기술 판정</b>을 하게 됩니다. 성공하면 함정이 해제됩니다. 실패하면 그대로 유지됩니다. 그러나 기술 "
+"판정 결과가 함정의 난이도보다 5 이상 낮으면 함정이 발동됩니다. 모든 판정 결과는 전투 로그에서 확인할 수 있습니다."
 
 #. Mechanics/Blueprints/TutorialCase/TutorialPageModal_19_1_MessageMouse
 msgctxt "1113aa39-ca93-4e73-9751-078852e53399"
@@ -11938,6 +11965,10 @@ msgid ""
 "you to click to set up camp there, while a red one means that something is "
 "blocking it. After setting up camp, click on the bonfire to begin resting."
 msgstr ""
+"야영지를 열고 휴식을 취할 시간입니다. 야영지에서는 모든 캐릭터의 생명점이 회복되고 주문 시전 캐릭터의 주문이 보충됩니다. 야영을 하기 "
+"위해서는 야영 물자가 필요합니다. 야영지를 차리려면 <b>{bind|OpenRestCamp}</b>키를 누르거나  <b>\\\"휴식\\\""
+"</b> 버튼을 클릭하십시오. 그러면 야영지의 윤곽선이 나타나는데, 초록색이면 클릭하여 그곳에 야영지를 설치할 수 있고, 빨간색이면 "
+"무언가가 가로막고 있다는 뜻입니다. 야영지를 설치한 후 모닥불을 클릭하면 휴식을 취할 수 있습니다."
 
 #. Mechanics/Blueprints/TutorialCase/TutorialPageModal_19_3_MessageMouse
 msgctxt "17c40c65-fb34-4d24-81df-0d4093a9fd40"
@@ -11948,6 +11979,8 @@ msgid ""
 "use certain unique abilities. Moreover, there is a higher chance of an enemy "
 "attacks in such places."
 msgstr ""
+"쉬는 동안 야영지가 적에게 공격 당할 수 있습니다. 적들을 처리한 뒤에, 모닥불을 클릭하면 휴식을 취할 수 있습니다. 던전 안에서는 "
+"야영을 피하는 것이 좋습니다. 사냥 또는 요리를 하거나 특정 고유 능력을 사용할 수 없으며, 적에게 공격당할 가능성이 더 높습니다."
 
 #. Mechanics/Blueprints/TutorialCase/TutorialPageModal_2_MessageMouse
 msgctxt "0462b359-2308-4846-9484-964abb1cbb0e"
@@ -11965,6 +11998,12 @@ msgid ""
 "Initiative scores can be viewed in the Combat Log. Combat is divided into "
 "rounds, with each round lasting 6 seconds."
 msgstr ""
+"<b>기본:</b> 전투는 실시간으로 이루어지지만 언제든지 게임을 일시 정지하여 상황을 살피고 동료에게 명령을 내릴 수 있습니다. 게임을 "
+"일시 정지하거나 정지 해제하려면 <b>{bind|Pause}</b> 키를 누르십시오. 적을 클릭하면 공격 할 수 있습니다. \n"
+"<b>주사위 굴림:</b> 대부분의 게임 메커니즘은 \"패스파인더 롤플레잉 게임\"의 규칙을 기반으로 하며 주사위 굴림을 사용하여 행동의 "
+"결과를 결정합니다. 가장 일반적인 주사위는 20개의 면을 가지고 있으며 여러 종류의 판정에 사용됩니다.\n"
+"<b>우선권:</b> 전투가 시작되면 각 전투원이 우선권을 판정합니다. 우선권이 높은 캐릭터일수록 더 먼저 행동할 수 있습니다. 우선권 "
+"수치는 전투 로그에서 확인할 수 있습니다. 전투는 라운드로 나누어지며, 한 라운드는 6초입니다."
 
 #. Mechanics/Blueprints/TutorialCase/TutorialPageModal_8_1_MessageMouse
 msgctxt "590af15a-ed35-41ad-a9ae-9ca0704c4ad1"
@@ -11985,6 +12024,13 @@ msgid ""
 "spells, it happens when they prepare it for the first time). If you remove a "
 "spell from the action panel, it won't appear there automatically again."
 msgstr ""
+"<b>주문:</b> 린지와 타투치오는 주문을 시전할 수 있습니다.주문을 사용하려면 단축바나 주문 메뉴에서 주문을 선택 후 대상을 (원하는 "
+"효과에 따라 동료나 적을) 클릭하십시오. 클레릭, 드루이드, 메이거스, 팔라딘, 레인저, 위저드는 주문은 미리 준비해야 하며 시전시 "
+"소모됩니다. 캐릭터는 다시 캐스팅하기 전에 휴식을 취해야 합니다. 바드, 인퀴지터, 소서러는 하루에 여러 번 주문을 사용할 수 있지만 "
+"주문의 가짓수는 제한적입니다. 주문에는 범위, 지속시간, 학파 등과 같은 다양한 특성이 있습니다. 캐릭터가 사용할 수 있는 모든 주문을 "
+"검토하려면 <b>{bind|OpenSpells}</b>키를 눌러 주문책을 열어보십시오.\n"
+"캐릭터가 새로운 주문이나 능력을 획득하면 단축바의 첫 번째 빈 칸에 자동으로 나타납니다. (즉흥 시전자의 경우 주문을 얻자마자 단축바에 "
+"채워집니다. 주문을 준비해야하는 시전자는 주문을 준비하면 채워집니다.). 단축바에서 마법을 제거하면 자동으로 다시 나타나지 않습니다."
 
 #. Mechanics/Blueprints/TutorialCase/TutorialPageModal_8_2_MessageMouse
 msgctxt "2e5596b6-2a08-4db0-b397-3716bf8e1437"
@@ -11995,6 +12041,9 @@ msgid ""
 "You might target a companion or an enemy, depending on the desired effect.) "
 "Some abilities do not require targeting, or can be switched on and off."
 msgstr ""
+"<b>능력:</b> 대부분의 캐릭터는 사용 능력을 가지고 있습니다. 이 사용 능력은 사용 횟수에 제한이 있을 수도 있습니다. 능력을 "
+"사용하려면, 단축바이나 특수 능력 메뉴에서 대상의 아이콘을 클릭하십시오. 원하는 효과에 따라 동료 또는 적을 대상 지정할 수 있습니다. "
+"일부 기능은 대상 지정이 필요하지 않으며 켜거나 끌 수 있습니다."
 
 #. Mechanics/Blueprints/TutorialCase/TutorialPageModal_tbm_4_MessageMouse
 msgctxt "e159da26-4529-4755-82cd-b73d9423fd27"
@@ -12010,6 +12059,12 @@ msgid ""
 "You can hold <b>Ctrl</b> to ignore enemies and other objects under the "
 "cursor to precisely select a perfect position to move a character."
 msgstr ""
+"<b>5-foot step.</b> 캐릭터는 적의 기회 공격을 유발하지 않고 5피트를 이동할 수 있습니다. 캐릭터는 5피트 이동과 일반 "
+"이동을 같은 라운드에 수행할 수 없습니다. <b>{bind|ModifyMovementLimitOn}</b> 키를 누르고 있으면 일반 이동 "
+"대신 5피트 이동을 사용합니다.\n"
+"<b>자유 및 신속 행동.</b> 이 행동들은 캐릭터의 특수 능력, 그러니까 악 처단, 심판, 주문 시전 후 접촉 공격 외 여러 가지를 "
+"활성화 할 때 사용됩니다.\n"
+"<b>Ctrl</b> 키를 누르고 있으면 커서가 적이나 다른 오브젝트를 무시하여 캐릭터를 정확히 원하는 곳으로 이동시킬 수 있습니다."
 
 #. Mechanics/Blueprints/Units/Bosses/BlakemoorHideout/Siroket_EnragedWarrior_m_Description
 msgctxt "ea94cfd4-f1fa-41a9-b3ea-d3a8e4c70ebf"
@@ -12622,11 +12677,12 @@ msgid ""
 "apostate devil ignores its armor's speed reduction, max Dex bonus, and armor "
 "check penalty."
 msgstr ""
+"변절자 데블의 갑옷은 또다른 피부와도 같습니다. 변절자 데블은 갑옷의 이동 속도 감소와 최대 민첩 보너스, 갑옷 판정 페널티를 무시합니다."
 
 #. Mechanics/Blueprints/Units/Monsters/Devil Apostate/DevilApostateBrain/DevilApostateArmorBondFeature_DisplayName_String
 msgctxt "1a8fa2eb-b2e1-4a08-8fde-04a997f9c3bc"
 msgid "Armor Bond"
-msgstr ""
+msgstr "갑옷 결합"
 
 #. Mechanics/Blueprints/Units/Monsters/Devil Apostate/DevilApostateBrain/DevilApostateBoundlessReach_Description_String
 msgctxt "c5ae64b4-b080-4ade-ab80-31bdb10e0fb4"
@@ -12635,23 +12691,25 @@ msgid ""
 "attacks against any creature it is aware of — typically meaning creatures "
 "within 100 feet."
 msgstr ""
+"데이마비가의 손톱은 현실을 찢고 들어가 자신이 인지한 어떤 크리처에게든 근접 공격을 가할 수 있습니다. — 정확히는 100피트 내의 "
+"크리처를 의미합니다."
 
 #. Mechanics/Blueprints/Units/Monsters/Devil Apostate/DevilApostateBrain/DevilApostateBoundlessReach_DisplayName_String
 msgctxt "e7088594-9787-4621-aa8f-338c353b91cc"
 msgid "Boundless Reach"
-msgstr ""
+msgstr "무제한 사거리"
 
 #. Mechanics/Blueprints/Units/Monsters/Devil Apostate/DevilApostateBrain/DevilApostateClawFeature_Description_String
 msgctxt "b4cff196-29ac-49bc-ae5c-b549486da8e7"
 msgid ""
 "A deimavigga drains 1d6 points of Wisdom each time it hits with its claw "
 "attack."
-msgstr ""
+msgstr "데이마비가의 손톱 공격은 매 공격 마다 1d6 점의 지혜를 소진시킵니다."
 
 #. Mechanics/Blueprints/Units/Monsters/Devil Apostate/DevilApostateBrain/DevilApostateClawFeature_DisplayName_String
 msgctxt "b603685f-2df4-4fad-93e4-ffce5f653b00"
 msgid "Wisdom Drain"
-msgstr ""
+msgstr "지혜 소진"
 
 #. Mechanics/Blueprints/Units/Monsters/Devil Apostate/DevilApostateBrain/DevilApostateEvangelizationFeature_Description_String
 msgctxt "5e3565e8-087c-4aa6-96cd-ff0fc6eaf9b9"
@@ -13620,7 +13678,7 @@ msgstr "숨결 무기"
 #. Mechanics/Blueprints/Units/Monsters/MimicChest/MimicChestAdhesive_DisplayName_String
 msgctxt "82cb8776-c5c0-4201-97f4-3749e2d4754b"
 msgid "Adhesive Entanglement"
-msgstr ""
+msgstr "접착성 구속"
 
 #. Mechanics/Blueprints/Units/Monsters/Monitor Lizard/MonitorLizardPoisonBuff_DisplayName_String
 msgctxt "4993af1c-c3b5-4c76-9f14-b08a03a57a31"
@@ -15233,7 +15291,7 @@ msgstr "성숙한 아타치"
 #. Mechanics/Blueprints/Units/Names/Monsters/Athach/DLC3/CR14_AthachMiniboss_String
 msgctxt "6cf84f79-60be-4d76-bb52-2cdbc4729f14"
 msgid "Greater Athach"
-msgstr ""
+msgstr "상급 아타치"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Axiomite/AxiomiteSummoned_String
 msgctxt "c708ce0a-a2fb-4453-811a-79acc36b0dfb"
@@ -15523,7 +15581,7 @@ msgstr "드레드 좀비 사이클롭스"
 #. Mechanics/Blueprints/Units/Names/Monsters/Cyclop/CR9_DreadZombieCyclop_String
 msgctxt "2d1c7a4b-0005-4fcd-a6d8-7e6e39a2ab3b"
 msgid "Ferocious Dread Zombie Cyclops"
-msgstr ""
+msgstr "흉포한 드레드 좀비 사이클롭스"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Cyclop/ValleyOfTheDead/TanekaUrgathoaCleric_String
 msgctxt "65159559-fecb-49f6-88e7-1135e4b41d44"
@@ -15593,7 +15651,7 @@ msgstr "듀오머고양이"
 #. Mechanics/Blueprints/Units/Names/Monsters/Dweomercat/CR8_DweomercatAdvanced_String
 msgctxt "41ee6f3b-4852-403a-a804-319843090fa6"
 msgid "Ferocious Dweomercat"
-msgstr ""
+msgstr "흉포한 듀오머고양이"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Dweomercat/Dweomerlion_String
 msgctxt "32d36b0f-7d7d-4b4b-bb8c-a3c086eac4af"
@@ -15773,17 +15831,17 @@ msgstr "소환된 소형 화염 정령"
 #. Mechanics/Blueprints/Units/Names/Monsters/Frost Giant/CR11_FrostGiantBarbarian_String
 msgctxt "032a8479-5e48-499c-a794-41cc23021636"
 msgid "Frost Giant Raider"
-msgstr ""
+msgstr "서리거인 약탈자"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Frost Giant/CR13_FrostGiantBarbarian_String
 msgctxt "ff6955dc-7db5-4939-9934-fc7dd6f66a77"
 msgid "Frost Giant Berserk"
-msgstr ""
+msgstr "서리거인 광전사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Frost Giant/CR15_FrostGiantBarbarian_String
 msgctxt "9dc5a9a0-4ad7-4ff1-98ac-956f3c062611"
 msgid "Frost Giant Jarl"
-msgstr ""
+msgstr "서리거인 야를"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Frost Giant/CR9_FrostGiantStandard_String
 msgctxt "a9d7768b-5f4d-4b6b-a192-47a52a1f7fe0"
@@ -15923,7 +15981,7 @@ msgstr "거대 개구리"
 #. Mechanics/Blueprints/Units/Names/Monsters/Giant Frog/CR2_GiantFrogAdvanced_String
 msgctxt "b881a620-8d1e-4962-9fa7-4a5778dcd9d1"
 msgid "Greater Giant Frog"
-msgstr ""
+msgstr "상급 거대 개구리"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Giant Frog/CR4_GiantPoisonousFrog_String
 msgctxt "d2448db2-7867-474f-8539-7a0c5546f079"
@@ -15973,7 +16031,7 @@ msgstr "녹 녹"
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR0.5_GoblinArcher_String
 msgctxt "5c830125-4dce-48ab-8f0d-80fcd31e2e4a"
 msgid "Goblin Archer"
-msgstr ""
+msgstr "고블린 궁수"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR0_GoblinArcher_String
 msgctxt "66cc57a7-ca58-4953-b0af-d38d329f7f00"
@@ -15983,22 +16041,22 @@ msgstr "교활한 눈 고블린"
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR1_GoblinAlchemist_String
 msgctxt "453d9590-3ec6-4fc4-8309-ea7bbb2ad94c"
 msgid "Goblin Alchemist Novice"
-msgstr ""
+msgstr "고블린 견습 알케미스트"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR1_GoblinFighter_String
 msgctxt "3dfc2118-68a5-427d-9657-1c2770f0c8a3"
 msgid "Goblin Sentry"
-msgstr ""
+msgstr "고블린 보초"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR2_GoblinArcher_String
 msgctxt "1e12fa90-ba8b-4053-a040-0f24e608437f"
 msgid "Goblin Smart Eye"
-msgstr ""
+msgstr "영리한 눈 고블린"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR2_GoblinFighter_String
 msgctxt "e802d612-b33b-4e79-bb76-eab731736d47"
 msgid "Goblin Soldier"
-msgstr ""
+msgstr "고블린 병사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR3_GoblinArcher_String
 msgctxt "a311e3f8-ea27-49c0-9d92-0c55b6161a61"
@@ -16013,32 +16071,32 @@ msgstr "개도살자 고블린"
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR4_GoblinArcher_String
 msgctxt "634ef013-05d8-4531-ba24-42f5fc34d027"
 msgid "Goblin Cheetah Eye"
-msgstr ""
+msgstr "치타 눈 고블린"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR4_GoblinFighter_String
 msgctxt "c7abbed3-f170-4bc3-ac0a-2558498f120f"
 msgid "Goblin Dogslasher"
-msgstr ""
+msgstr "개백정 고블린"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR5_GoblinAlchemist_String
 msgctxt "a11c62d4-e988-434c-95e5-ad313a368985"
 msgid "Goblin Alchemist Expert"
-msgstr ""
+msgstr "고블린 숙련 알케미스트"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR5_GoblinArcher_String
 msgctxt "5c134d0c-a580-4980-98ba-d7a7cf020935"
 msgid "Goblin Falcon Eye"
-msgstr ""
+msgstr "매 눈 고블린"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR5_GoblinFighter_String
 msgctxt "36b523ca-12e8-4f97-859e-e45074140d2d"
 msgid "Goblin Dogreaper"
-msgstr ""
+msgstr "개학살자 고블린"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR6_GoblinAlchemist_String
 msgctxt "addb0198-98f2-4ff7-b120-87d43922e632"
 msgid "Goblin Alchemist Master"
-msgstr ""
+msgstr "고블린 대가 알케미스트"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR6_GoblinArcher_String
 msgctxt "d05fb94a-654e-4438-ab8d-63db1cf37aa1"
@@ -16053,17 +16111,17 @@ msgstr "말도살자 고블린"
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR7_GoblinAlchemist_String
 msgctxt "696d7ac1-e1a9-442b-b21d-2a893e300004"
 msgid "Goblin Arch-chemist"
-msgstr ""
+msgstr "고블린 대연금술사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR7_GoblinArcher_String
 msgctxt "b113115b-c7fa-4b1a-83bb-6e9fcaaeb377"
 msgid "Goblin Roc Eye"
-msgstr ""
+msgstr "로크 눈 고블린"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR7_GoblinFighter_String
 msgctxt "934842a4-39d2-4e39-aabd-74992883aecf"
 msgid "Goblin Horsereaper"
-msgstr ""
+msgstr "말학살자 고블린"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR7_GoblinRogue_String
 msgctxt "f5cf6182-7997-4999-8362-8332a85ee059"
@@ -16078,12 +16136,12 @@ msgstr "죽은 눈 고블린"
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR9_GoblinArcher_String
 msgctxt "4003d241-855c-4bdc-bc5c-0c5a865bd719"
 msgid "Goblin Death Eye"
-msgstr ""
+msgstr "죽음의 눈 고블린"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR9_GoblinFighter_String
 msgctxt "090a74fe-88b9-4f2a-a355-b6ea0d12f591"
 msgid "Goblin Commando Commander"
-msgstr ""
+msgstr "고블린 특공대 사령관"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR9_GoblinRogue_String
 msgctxt "11bb80d5-acb1-44c9-878f-ce655e2a67ff"
@@ -16243,12 +16301,12 @@ msgstr "바바리안 언덕거인"
 #. Mechanics/Blueprints/Units/Names/Monsters/HillGiant/CR10_HillGiantDruid_String
 msgctxt "5ae00576-10ac-41df-abdd-4a264e3e36e5"
 msgid "Hill Giant Shaman"
-msgstr ""
+msgstr "언덕거인 주술사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/HillGiant/CR11_HillGiantThug_String
 msgctxt "957c4a43-3912-4bc6-986f-648736f0e11e"
 msgid "Hill Giant Crusher"
-msgstr ""
+msgstr "언덕거인 파괴자"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/HillGiant/CR7_HillGiantStandart_String
 msgctxt "b5f6afa1-7f66-467d-bb46-6bd8e71cea8b"
@@ -16258,7 +16316,7 @@ msgstr "언덕거인"
 #. Mechanics/Blueprints/Units/Names/Monsters/HillGiant/CR9_HillGiantThug_String
 msgctxt "df156c8f-0faa-4236-89e4-6b9590ecc8c4"
 msgid "Hill Giant Thug"
-msgstr ""
+msgstr "언덕거인 덩치"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/HillGiant/OlegsTradingPost/Munguk_String
 msgctxt "bdabc689-f104-4bb4-98d7-fd7794510087"
@@ -16428,42 +16486,42 @@ msgstr "용의 노예"
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR0.5_KoboldMeleeWarriorLevel1_Alternative_String
 msgctxt "d9cf8faa-d271-4fc6-85b0-6284f6a57673"
 msgid "Kobold Soldier"
-msgstr ""
+msgstr "코볼트 병사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR0.5_KoboldRangedWarriorLevel1_Alternative_String
 msgctxt "32bd3941-614e-47fc-91cb-4353c70e19d1"
 msgid "Kobold Hunter"
-msgstr ""
+msgstr "코볼트 사냥꾼"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR0.5_KoboldRangedWarriorLevel1_String
 msgctxt "8a32dec6-e4a3-4b99-82fa-bdb2f784588d"
 msgid "Kobold Sentry"
-msgstr ""
+msgstr "코볼트 보초"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR0.75_KoboldMeleeWarriorLevel3_Alternative_String
 msgctxt "da57bbd2-bf9b-47f5-9f0a-a3774012a12f"
 msgid "Kobold Soldier Veteran"
-msgstr ""
+msgstr "코볼트 선임병사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR0.75_KoboldMeleeWarriorLevel3_String
 msgctxt "7ac5520f-99cd-4007-a86e-949dc61b8ab5"
 msgid "Kobold Veteran"
-msgstr ""
+msgstr "코볼트 숙련병"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR0.75_KoboldRangedWarriorLevel3_Alternative_String
 msgctxt "92458ae5-04c5-474f-9705-8119d8b1c832"
 msgid "Kobold Hunter Veteran"
-msgstr ""
+msgstr "코볼트 숙련 사냥꾼"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR0.75_KoboldRangedWarriorLevel3_String
 msgctxt "e3ee42eb-d699-4528-8dc1-6328d2a8a1f2"
 msgid "Kobold Sentry Veteran"
-msgstr ""
+msgstr "고볼트 숙련 보초"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR1_KoboldAlchemistLevel2_String
 msgctxt "71332aee-e2e8-4b24-b4e1-3df6baf982bc"
 msgid "Kobold Alchemist Apprentice"
-msgstr ""
+msgstr "코볼트 도제 알케미스트"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR1_KoboldMelee_String
 msgctxt "2f7ae41c-b765-48de-9b77-fa1aa1e9a94e"
@@ -16473,7 +16531,7 @@ msgstr "코볼트 칼잡이"
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR1_KoboldShamanEvokerLevel2_String
 msgctxt "93fc369f-f691-4efc-a4b2-56fe13a4d2c1"
 msgid "Kobold Spark Shaman"
-msgstr ""
+msgstr "코볼트 찌릿 주술사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR1_KoboldShamanNecromancerLevel2_String
 msgctxt "7017fd14-ec84-4db9-8a5c-613d4190f72b"
@@ -16483,7 +16541,7 @@ msgstr "코볼트 뼈 주술사"
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR1_KoboldShamanNecromancerLevel3_String
 msgctxt "1c69c16e-2c8c-45bb-8842-9f0a5a2fdd38"
 msgid "Kobold Doom Shaman"
-msgstr ""
+msgstr "코볼트 저주술사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR1_Kobold_String
 msgctxt "15ce10c7-64d4-48d7-a0f3-774b3d5dff96"
@@ -16493,27 +16551,27 @@ msgstr "코볼트"
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR2_KoboldMeleeFighterLevel3_String
 msgctxt "eecf9314-d6f7-4311-95ed-185f16563ea8"
 msgid "Kobold Blade Veteran"
-msgstr ""
+msgstr "고볼트 숙련 칼잡이"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR2_KoboldRangedFighterLevel3_String
 msgctxt "0ab356b7-6626-4987-a86b-b5046a43a36a"
 msgid "Kobold Archer Veteran"
-msgstr ""
+msgstr "코볼트 숙련 궁수"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR3_KoboldAlchemistLevel4_String
 msgctxt "6b6740f2-b596-422c-a8e9-cf031a9e2afa"
 msgid "Kobold Alchemist Expert"
-msgstr ""
+msgstr "코볼트 숙련 알케미스트"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR3_KoboldShamanNecromancerLevel4_String
 msgctxt "2aa10255-9134-4e46-b3a1-a911291c3b9b"
 msgid "Kobold Dread Shaman"
-msgstr ""
+msgstr "코볼트 공포 주술사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR4_KoboldAlchemistLevel5_String
 msgctxt "c92171a6-171e-4979-85ac-a296219f7600"
 msgid "Kobold Alchemist Master"
-msgstr ""
+msgstr "코볼트 대가 알케미스트"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR4_KoboldArcher_String
 msgctxt "2ed105e3-ff3c-4222-abb7-38b05dfe74b6"
@@ -16523,12 +16581,12 @@ msgstr "코볼트 궁수"
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR4_KoboldShamanEvokerLevel5_String
 msgctxt "520fb0a2-6d9e-4b8e-94a4-e5e3e2b198d1"
 msgid "Kobold Dragon Shaman"
-msgstr ""
+msgstr "코볼트 용 주술사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR4_KoboldShamanNecromancerLevel5_String
 msgctxt "057e8cdc-8abf-4d54-a11f-d425350c9553"
 msgid "Kobold Death Shaman"
-msgstr ""
+msgstr "코볼트 죽음 주술사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Kobold/CR4_KoboldThundercallerLevel5_String
 msgctxt "b0b13613-49aa-4896-8cd8-8a48a84064d2"
@@ -16933,7 +16991,7 @@ msgstr "자유로운 지네치기 에쉬"
 #. Mechanics/Blueprints/Units/Names/Monsters/Mite/CR0.5_MiteRanged_String
 msgctxt "1f441f45-bdec-45d6-8733-179d9de08284"
 msgid "Mite Stonethrower"
-msgstr ""
+msgstr "마이트 투석꾼"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Mite/CR0_MiteStandard_String
 msgctxt "d8719997-7515-4a03-91b5-35e52fca0aef"
@@ -16943,17 +17001,17 @@ msgstr "마이트"
 #. Mechanics/Blueprints/Units/Names/Monsters/Mite/CR1_GiantSpiderMite_String
 msgctxt "a16665da-28ea-4b0b-8495-77dfe5328992"
 msgid "Tame Giant Spider"
-msgstr ""
+msgstr "길들인 거대 거미"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Mite/CR2_GiantSpiderMiteAdvanced_String
 msgctxt "8a19c047-8662-4d00-b2df-dad27f2a522a"
 msgid "Guard Giant Spider"
-msgstr ""
+msgstr "보초 거대 거미"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Mite/CR3_AdvancedMiteRogueMeleeLevel3_String
 msgctxt "c25b7f91-609f-40b3-a00d-8b08f8146520"
 msgid "Mite Disemboweler"
-msgstr ""
+msgstr "마이트 내장해체가"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Mite/MiteButcher_String
 msgctxt "b02d016b-7032-4252-80cc-7ba2beb3c0c8"
@@ -17293,7 +17351,7 @@ msgstr "사냥꾼 팔드록스"
 #. Mechanics/Blueprints/Units/Names/Monsters/Satyrs/CR4_SatyrShortbowStandard_String
 msgctxt "5c74ca37-6f69-4569-b747-2e4064377589"
 msgid "Satyr Archer"
-msgstr ""
+msgstr "사티로스 궁수"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Satyrs/CR4_SatyrStandard_String
 msgctxt "a4808f79-ad39-49cb-833c-c2181dc83917"
@@ -17388,27 +17446,27 @@ msgstr "젤리런"
 #. Mechanics/Blueprints/Units/Names/Monsters/Skeleton/CR0.5_SkeletonArcher_String
 msgctxt "5f80d54c-c5a8-4a7e-87da-74433e873021"
 msgid "Skeleton Archer"
-msgstr ""
+msgstr "해골 궁수"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Skeleton/CR0.5_SkeletonMage_String
 msgctxt "c94e1b19-b13d-4617-906f-bf0dc545dd9a"
 msgid "Skeleton Mage"
-msgstr ""
+msgstr "해골 마법사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Skeleton/CR0.5_SkeletonNoShield_String
 msgctxt "b2040300-a09c-461f-9b50-044134ddc5e6"
 msgid "Skeleton Skirmisher"
-msgstr ""
+msgstr "해골 척후병"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Skeleton/CR0.5_SkeletonStandard_String
 msgctxt "136f5b70-c23b-4ef4-8350-fd8826713582"
 msgid "Skeleton Soldier"
-msgstr ""
+msgstr "해골 병사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Skeleton/CR0.5_SkeletonTwohanded_String
 msgctxt "9031c676-5624-448d-8371-ad2cc161dbd7"
 msgid "Skeleton Brawler"
-msgstr ""
+msgstr "해골 싸움꾼"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Skeleton/CR0_SkeletonStandard_String
 msgctxt "d0356625-6972-4a19-a4a1-09cbc5375e00"
@@ -17443,22 +17501,22 @@ msgstr "피투성이 뼈다귀 야수"
 #. Mechanics/Blueprints/Units/Names/Monsters/Skeleton/CR2_SkeletalChampion 1_String
 msgctxt "77ec7adf-0698-4166-92b1-6e0f8b27852f"
 msgid "Dread Skeleton Soldier"
-msgstr ""
+msgstr "공포의 해골 병사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Skeleton/CR2_SkeletalChampionDagger_String
 msgctxt "8c64da27-5cfe-40fb-ae2c-0d9fd3b5e10b"
 msgid "Dread Skeleton Skirmisher"
-msgstr ""
+msgstr "공포의 해골 척후병"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Skeleton/CR2_SkeletalChampionTwoHanded_String
 msgctxt "1d85a765-a1a9-4650-92bb-5c8fa4997518"
 msgid "Dread Skeleton Swordsman"
-msgstr ""
+msgstr "공포의 해골 검사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Skeleton/CR2_SkeletalChampionUnarmed_String
 msgctxt "d39fa0f1-64a8-489a-8ff9-a209b7447a6d"
 msgid "Dread Skeleton Champion"
-msgstr ""
+msgstr "공포의 해골 투사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Skeleton/CR2_SkeletalChampion_String
 msgctxt "a96ec717-0544-40fb-8600-4507480ff527"
@@ -17468,32 +17526,32 @@ msgstr "해골 투사"
 #. Mechanics/Blueprints/Units/Names/Monsters/Skeleton/CR3_SkeletalChampion_String
 msgctxt "2bf3c8da-94fb-4c12-80e7-ebecba691309"
 msgid "Dread Skeleton Elite"
-msgstr ""
+msgstr "공포의 해골 정예병"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Skeleton/CR4_SkeletalChampionArcher_String
 msgctxt "c7cfeb9f-8c5a-4a8a-89dc-c5823abbf8db"
 msgid "Dread Skeletal Champion Archer"
-msgstr ""
+msgstr "공포의 해골 투사 궁수"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Skeleton/CR5_SkeletalChampionNoShield_String
 msgctxt "90bde3c2-d76a-4eff-9dc4-cf8ce1dd0332"
 msgid "Nightmare Skeleton Skirmisher"
-msgstr ""
+msgstr "악몽의 해골 척후병"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Skeleton/CR5_SkeletalChampionTwoHanded_String
 msgctxt "4175f79e-7001-4bd3-a8bb-e2d34c396e75"
 msgid "Nightmare Skeleton Executor"
-msgstr ""
+msgstr "악몽의 해골 처형인"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Skeleton/CR5_SkeletalChampionUnarmed_String
 msgctxt "32a82606-c374-40af-bf4b-6fb258c4d2bc"
 msgid "Nightmare Skeleton Champion"
-msgstr ""
+msgstr "악몽의 해골 투사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Skeleton/CR5_SkeletalChampion_String
 msgctxt "b7609782-53af-4520-817c-7f430320c1ed"
 msgid "Nightmare Skeleton Soldier"
-msgstr ""
+msgstr "악몽의 해골 병사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Skeleton/CR6_SkeletalChampionArcher_String
 msgctxt "dd8104cf-57c4-4b09-a25d-9392d5322c1a"
@@ -17513,7 +17571,7 @@ msgstr "사나운 해골 투사"
 #. Mechanics/Blueprints/Units/Names/Monsters/Skeleton/CR7_SkeletalChampionArcher_String
 msgctxt "84aacae6-766c-4f5e-960f-4aee8bff8698"
 msgid "Nightmare Skeletal Champion Archer"
-msgstr ""
+msgstr "악몽의 해골 투사 궁수"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Skeleton/LonelyBarrow/LoneWarrior_String
 msgctxt "23b483ee-b87c-4492-a2f8-a3579c902493"
@@ -17633,12 +17691,12 @@ msgstr "원시 거미 여왕"
 #. Mechanics/Blueprints/Units/Names/Monsters/Spider/CR2_GiantSpiderAdvanced_String
 msgctxt "fe735a16-9bb9-451b-bbb6-da0e0f5367a8"
 msgid "Ferocious Giant Spider"
-msgstr ""
+msgstr "흉포한 거대 거미"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Spider/CR4_GiantSpider 1_String
 msgctxt "f3fd9b80-662e-49d2-9730-436849f94765"
 msgid "Greater Giant Spider"
-msgstr ""
+msgstr "상급 거대 거미"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Spider/CR4_GiantSpider_String
 msgctxt "27ea04da-347b-483f-9feb-c8033d8d6e2d"
@@ -17828,7 +17886,7 @@ msgstr "재즌"
 #. Mechanics/Blueprints/Units/Names/Monsters/Trolls/C21_TrollLairExterior/TrollRockThrower_String
 msgctxt "12e40107-9696-4edf-a5f7-6b4ecd3e206d"
 msgid "Troll Rock Thrower"
-msgstr ""
+msgstr "트롤 투석꾼"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Trolls/C21_TrollLairExterior/TrollTrader_String
 msgctxt "312f4334-04da-4df5-811e-3a665a48f8d3"
@@ -17858,32 +17916,32 @@ msgstr "카르가"
 #. Mechanics/Blueprints/Units/Names/Monsters/Trolls/C51_IrovettiPalace/IrovettiPalace_EliteTrollGuardBerserk_String
 msgctxt "235e31ab-5fe1-44c6-9183-81c3d0a4590d"
 msgid "Troll Royal Guard Berserk"
-msgstr ""
+msgstr "트롤 친위대 광전사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Trolls/C51_IrovettiPalace/IrovettiPalace_EliteTrollGuardVeteran_String
 msgctxt "2a3aed4b-28a9-4464-abdd-30f4a24f6c70"
 msgid "Troll Royal Guard Veteran"
-msgstr ""
+msgstr "트롤 친위대 숙련병"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Trolls/CR6_TrollRogue_String
 msgctxt "f9b0e504-a420-46f5-b702-1dcd1f1debe6"
 msgid "Troll Raider"
-msgstr ""
+msgstr "트롤 약탈자"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Trolls/CR7_TrollFighter_String
 msgctxt "1d5e1b11-707e-4213-a71d-41020cd6f3dc"
 msgid "Troll Fighter"
-msgstr ""
+msgstr "트롤 전사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Trolls/CR8_EliteTrollRockThrower_String
 msgctxt "c9e62431-36a9-4e0b-a21f-324137277d83"
 msgid "Troll Rock Thrower Veteran"
-msgstr ""
+msgstr "트롤 투석꾼 숙련병"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Trolls/CR9_TrollBranded_String
 msgctxt "1329cf34-88e7-461a-83aa-d79aec16ecc7"
 msgid "Branded Troll Berserker"
-msgstr ""
+msgstr "인장 트롤 광전사"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Trolls/TradingPostRegionLair01/TradingPostLairTroll_String
 msgctxt "f881673a-85dc-4c7d-9755-681d92447c1c"
@@ -18033,7 +18091,7 @@ msgstr "알라센"
 #. Mechanics/Blueprints/Units/Names/Monsters/Weretiger/CR7_Weretiger_String
 msgctxt "bfd095eb-afd3-4a59-b985-7296bbae2367"
 msgid "Weretiger"
-msgstr ""
+msgstr "호랑이인간"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Weretiger/Weretiger_String
 msgctxt "35c98549-c51a-4236-84bb-5a62c63840f4"
@@ -18128,12 +18186,12 @@ msgstr "워 위습"
 #. Mechanics/Blueprints/Units/Names/Monsters/Will-o-Wisp/DLC2_LostlarnKeep/LostlarnBossWisp_String
 msgctxt "4f4c3a99-aa33-411b-a684-174b78758fd2"
 msgid "[Draft] Lostlarn boss wisp"
-msgstr ""
+msgstr "[초안] 로스틀란 보스 위습"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Will-o-Wisp/DLC2_LostlarnKeep/LostlarnSpecialWisp_String
 msgctxt "15c242b5-9b5d-4142-a292-bd5944b9c2db"
 msgid "[Draft] Lostlarn special wisp"
-msgstr ""
+msgstr "[초안] 로스틀란 특수 위습"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Will-o-Wisp/NightmareWarWisp_String
 msgctxt "e4b1ed39-161d-42d4-9e00-80395d828eda"
@@ -18293,17 +18351,17 @@ msgstr "좀비"
 #. Mechanics/Blueprints/Units/Names/Monsters/Zombie/CR10_ZombieLordFighterLevel7_Axe_String
 msgctxt "a1aec98f-c7e7-45bf-84f0-876d84de6210"
 msgid "Greater Zombie Lord Axeman"
-msgstr ""
+msgstr "상급 좀비 군주 도끼병"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Zombie/CR10_ZombieLordFighterLevel7_Spear_String
 msgctxt "02601c17-54e6-449a-bf6e-89832dc203fe"
 msgid "Greater Zombie Lord Spearman"
-msgstr ""
+msgstr "상급 좀비 군주 창병"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Zombie/CR11_ZombieLordFighterLevel8_String
 msgctxt "4e11b3f1-0b4f-43e7-9002-102343f232da"
 msgid "Grand Zombie Lord"
-msgstr ""
+msgstr "좀비 대군주"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Zombie/CR4_ZombieLordFighter_String
 msgctxt "bfda7d1e-9a51-4d21-b4c7-98d6299335cb"
@@ -18318,12 +18376,12 @@ msgstr "사나운 좀비 군주"
 #. Mechanics/Blueprints/Units/Names/Monsters/Zombie/CR7_ZombieLordFighterLevel4_String
 msgctxt "d11e2466-1fde-42d9-bdf9-7408931886bb"
 msgid "Dread Zombie Lord"
-msgstr ""
+msgstr "공포의 좀비 군주"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Zombie/CR8_ZombieLordFighterLevel5_Axe_String
 msgctxt "9fb227f8-e56b-4f57-ab5b-2d5865234016"
 msgid "Ferocious Zombie Lord Axeman"
-msgstr ""
+msgstr "흉포한 좀비 군주 도끼병"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Zombie/CR8_ZombieLordFighter_String
 msgctxt "dc397f39-52e6-45b8-bada-341e24b72b8c"
@@ -18333,12 +18391,12 @@ msgstr "상급 좀비 군주"
 #. Mechanics/Blueprints/Units/Names/Monsters/Zombie/CR9_ZombieLordFighterLevel6_Spear_String
 msgctxt "37d52a3c-e6b8-4ba3-9aef-9b0fdd66a7f5"
 msgid "Nightmare Zombie Lord Spearman"
-msgstr ""
+msgstr "악몽의 좀비 군주 창병"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Zombie/CR9_ZombieLordFighterLevel6_String
 msgctxt "e51799ec-5718-4d6e-85a3-484bd2df8661"
 msgid "Nightmare Zombie Lord"
-msgstr ""
+msgstr "악몽의 좀비 군주"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Zombie/DunswardTomb/DunswardTombZombieArcher_String
 msgctxt "867571b6-39da-433c-9eb8-8a034cd488f9"
@@ -19413,7 +19471,7 @@ msgstr "화난 시민"
 #. Mechanics/Blueprints/Units/Names/NPC/Commoners/RE_TraderForest/RE_Trader_String
 msgctxt "7f31895d-ccfb-4e97-aa8c-a3174cb48c9b"
 msgid "(draft) Merchant"
-msgstr ""
+msgstr "(초안) 상인"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Commoners/VarisianCaravan/VarisianTrader_String
 msgctxt "e12c20b5-4ace-43c6-ac0d-109af2679817"
@@ -19438,27 +19496,27 @@ msgstr "드로우"
 #. Mechanics/Blueprints/Units/Names/NPC/Drow/CR0.5_DrowFighterMelee1_String
 msgctxt "89c47f29-7630-4b7e-aafb-52efb962f48b"
 msgid "Drow Soldier"
-msgstr ""
+msgstr "드로우 병사"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Drow/CR0.5_DrowFighterRanged1_String
 msgctxt "83322c40-6e08-40ad-889f-ae4c6873919f"
 msgid "Drow Sentry"
-msgstr ""
+msgstr "드로우 보초"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Drow/CR2_DrowEldritchArcher3_String
 msgctxt "7e41127f-0805-4b5b-9c77-4e364b308b93"
 msgid "Drow Magus Apprentice"
-msgstr ""
+msgstr "드로우 메이거스 도제"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Drow/CR3_DrowFighterMelee4_String
 msgctxt "2a662fbc-d5e4-49ab-9198-0c28cfa82513"
 msgid "Drow Fencer Veteran"
-msgstr ""
+msgstr "드로우 펜서 숙련병"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Drow/CR3_DrowFighterRanged4_String
 msgctxt "63041182-8955-44d8-a1b1-c4dd69497481"
 msgid "Drow Crossbowman Veteran"
-msgstr ""
+msgstr "드로우 쇠뇌수 숙련병"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Drow/CR4_DrowKnifeMaster5_String
 msgctxt "364c5f79-2e9b-4f1f-9df2-17c99dc98eaf"
@@ -19468,7 +19526,7 @@ msgstr "드로우 단검 대가"
 #. Mechanics/Blueprints/Units/Names/NPC/Drow/CR4_DrowKnifeMaster6_String
 msgctxt "f57a12fa-3a64-4bff-9f4f-e1da59499d49"
 msgid "Elite Drow Knife Master"
-msgstr ""
+msgstr "정예 드로우 나이프 마스터"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Drow/CR5_DrowFighter6_String
 msgctxt "19f7799b-99ff-4161-b103-a0066ee456b5"
@@ -19478,7 +19536,7 @@ msgstr "드로우 펜서"
 #. Mechanics/Blueprints/Units/Names/NPC/Drow/CR5_DrowFighterMelee6_String
 msgctxt "01f0b416-4e14-4a98-b6ba-65c94541179d"
 msgid "Elite Drow Fencer"
-msgstr ""
+msgstr "정예 드로우 펜서"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Drow/CR5_DrowFighterRanged6_String
 msgctxt "07a40f63-afd5-440c-bca5-f0d2002716d0"
@@ -19488,7 +19546,7 @@ msgstr "드로우 쇠뇌수"
 #. Mechanics/Blueprints/Units/Names/NPC/Drow/CR5_DrowFighterRanged7_String
 msgctxt "36cbde63-c940-4146-ae47-13c7de721d95"
 msgid "Drow Crossbowman Elite"
-msgstr ""
+msgstr "드로우 쇠뇌수 정예병"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Drow/CR6_DrowEldritchArcher7_String
 msgctxt "5ad97637-cad2-4d28-be30-d7411cfab5a9"
@@ -19498,7 +19556,7 @@ msgstr "드로우 메이거스"
 #. Mechanics/Blueprints/Units/Names/NPC/Drow/CR6_DrowEldritchArcher8_String
 msgctxt "26252c05-68d4-4dce-b123-e1a21c46580f"
 msgid "Drow Magus Master"
-msgstr ""
+msgstr "드로우 메이거스 대가"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Duergars/CR0.3_DuergarWarrior1_String
 msgctxt "83d391c1-9a5f-434b-92a0-346ca52574fe"
@@ -19513,7 +19571,7 @@ msgstr "듀에르가 폭군 주술사"
 #. Mechanics/Blueprints/Units/Names/NPC/Duergars/CR10_DuergarDruid12_String
 msgctxt "64bc0c90-819a-421b-97f3-35eab95b619a"
 msgid "Duergar Tyrant Archshaman"
-msgstr ""
+msgstr "듀에르가 폭군 대주술사"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Duergars/CR10_DuergarFighter11_String
 msgctxt "956f9fda-3d51-43a8-98db-464480caefc5"
@@ -19523,7 +19581,7 @@ msgstr "숙련병 듀에르가 수호자"
 #. Mechanics/Blueprints/Units/Names/NPC/Duergars/CR10_DuergarFighter12_String
 msgctxt "0d8d87f3-9be8-413f-a664-751e408f5687"
 msgid "Elite Duergar Defender"
-msgstr ""
+msgstr "정예 듀에르가 수호자"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Duergars/CR12_DuergarKineticist13_String
 msgctxt "065088c5-1733-4391-b6c9-543b815c7565"
@@ -19533,7 +19591,7 @@ msgstr "듀에르가 지오키네티시스트"
 #. Mechanics/Blueprints/Units/Names/NPC/Duergars/CR12_DuergarKineticist14_String
 msgctxt "3fc6f9e6-0a3c-4a3d-b331-0346936d13bc"
 msgid "Duergar Geokineticist Master"
-msgstr ""
+msgstr "듀에르가 지오키네시스트 대가"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Duergars/CR6_DuergarBarbarian7_String
 msgctxt "81865361-beed-4913-b195-5bb55d032054"
@@ -19548,12 +19606,12 @@ msgstr "듀에르가 수호자"
 #. Mechanics/Blueprints/Units/Names/NPC/Duergars/CR8_DuergarDruid9_String
 msgctxt "b2ca8b41-b8be-4080-908a-8fdc25127b75"
 msgid "Duergar Shaman"
-msgstr ""
+msgstr "듀에르가 주술사"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Duergars/CR8_DuergarKineticist9_String
 msgctxt "7a0418d8-b07b-4b9e-98e3-4a51ebb52e07"
 msgid "Duergar Geokineticist Initiate"
-msgstr ""
+msgstr "듀에르가 지오키네티시스트 입문자"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Duergars/CR9_DuergarBarbarian10_String
 msgctxt "8aa9c944-82af-44a3-a66c-508ae858b4c3"
@@ -21163,62 +21221,62 @@ msgstr "보물"
 #. Test/Blueprints/DLC3Boons/BoonTest01_Name
 msgctxt "e2238d1e-d94d-4932-951c-38bf6e8ba4bf"
 msgid "BoonTest01"
-msgstr ""
+msgstr "BoonTest01"
 
 #. Test/Blueprints/DLC3Boons/BoonTest01_m_Description
 msgctxt "73b54d03-5b5c-48c5-81f8-ee974221563e"
 msgid "BoonTest01 Description"
-msgstr ""
+msgstr "BoonTest01 Description"
 
 #. Test/Blueprints/DLC3Boons/BoonTest02_Name
 msgctxt "609b99e3-a698-48e7-bfe1-aacf0185fe31"
 msgid "BoonTest02"
-msgstr ""
+msgstr "BoonTest02"
 
 #. Test/Blueprints/DLC3Boons/BoonTest02_m_Description
 msgctxt "0d45c3a0-5ff8-4c0d-b36b-245f1bca8658"
 msgid "BoonTest02 Description"
-msgstr ""
+msgstr "BoonTest02 Description"
 
 #. Test/Blueprints/DLC3Boons/BoonTest03_Name
 msgctxt "ab9c033d-9203-4838-8df9-f093ac3cd57b"
 msgid "BoonTest03"
-msgstr ""
+msgstr "BoonTest03"
 
 #. Test/Blueprints/DLC3Boons/BoonTest03_m_Description
 msgctxt "fad1a314-faf7-42b7-97b0-b7206a934a9a"
 msgid "BoonTest03 Description"
-msgstr ""
+msgstr "BoonTest03 Description"
 
 #. Test/Blueprints/DLC3Boons/BoonTest04_Name
 msgctxt "79ed0900-8186-4708-a265-e5af35c645f7"
 msgid "BoonTest04"
-msgstr ""
+msgstr "BoonTest04"
 
 #. Test/Blueprints/DLC3Boons/BoonTest04_m_Description
 msgctxt "0b153cbe-0afb-4d32-a385-29aaa535e8a6"
 msgid "BoonTest04 Description"
-msgstr ""
+msgstr "BoonTest04 Description"
 
 #. Test/Blueprints/Encyclopedia/Bandits_Title
 msgctxt "b0944d03-29ed-4514-9ea2-8d6683d49a15"
 msgid "Bandits"
-msgstr ""
+msgstr "도적"
 
 #. Test/Blueprints/Encyclopedia/Basics_Title
 msgctxt "1ac2dd3f-5d51-4d82-8d21-9979636384a4"
 msgid "Basics"
-msgstr ""
+msgstr "기초지식"
 
 #. Test/Blueprints/Encyclopedia/BattleSystem_Title
 msgctxt "9abcb85e-6335-4d58-acc0-9be27d924f65"
 msgid "Battle system"
-msgstr ""
+msgstr "전투 시스템"
 
 #. Test/Blueprints/Encyclopedia/Bestiary_Title
 msgctxt "6428b034-3791-43df-9e6e-4acf4f36321a"
 msgid "Bestiary"
-msgstr ""
+msgstr "괴물도감"
 
 #. Test/Blueprints/Encyclopedia/HowToPlay_BlockText_Text
 msgctxt "949e2239-a2d5-4524-9ec0-b9f43158efdc"
@@ -21235,11 +21293,22 @@ msgid ""
 "how to playText how to playText how to playText how to playText how to "
 "playText how to playText how to play"
 msgstr ""
+"Text how to play Text how to playText how to playText how to playText how to "
+"playText how to playText how to playText how to playText how to playText how "
+"to playText how to playText how to playText how to playText how to playText "
+"how to playText how to playText how to playText how to playText how to "
+"playText how to playText how to playText how to playText how to playText how "
+"to playText how to playText how to playText how to playText how to playText "
+"how to playText how to playText how to playText how to playText how to "
+"playText how to playText how to playText how to playText how to playText how "
+"to playText how to playText how to playText how to playText how to playText "
+"how to playText how to playText how to playText how to playText how to "
+"playText how to playText how to play"
 
 #. Test/Blueprints/Encyclopedia/HowToPlay_Title
 msgctxt "416995df-e217-42fb-8279-3edbad4c4d1e"
 msgid "How to play"
-msgstr ""
+msgstr "플레이 방법"
 
 #. Test/Blueprints/Encyclopedia/Hugard_BlockText_Text
 msgctxt "aa84b391-e388-40d3-9527-468237e79429"
@@ -21255,11 +21324,21 @@ msgid ""
 "simple textIs simple textIs simple textIs simple textIs simple textIs simple "
 "textIs simple textIs simple textIs simple textIs simple text"
 msgstr ""
+"Is simple text Is simple text Is simple text Is simple text Is simple text "
+"Is simple text Is simple text Is simple text Is simple text Is simple text "
+"Is simple text Is simple text v v v v Is simple textIs simple textIs simple "
+"textIs simple textIs simple textIs simple textIs simple textIs simple textIs "
+"simple textIs simple textIs simple textIs simple textIs simple textIs simple "
+"textIs simple textIs simple textIs simple textIs simple textIs simple textIs "
+"simple textIs simple textIs simple textIs simple textIs simple textIs simple "
+"textIs simple textIs simple textIs simple textIs simple textIs simple textIs "
+"simple textIs simple textIs simple textIs simple textIs simple textIs simple "
+"textIs simple textIs simple textIs simple textIs simple text"
 
 #. Test/Blueprints/Encyclopedia/Hugard_Title
 msgctxt "d4165fb2-0548-4540-a62b-834740780cf6"
 msgid "Hugard"
-msgstr ""
+msgstr "위가르"
 
 #. Test/Blueprints/Encyclopedia/Navigation_BlockText_Text
 msgctxt "2b75c2d0-02be-4aaa-b6e7-13e0f97126c9"
@@ -21276,21 +21355,32 @@ msgid ""
 "Text at navigation Text at navigation Text at navigation Text at navigation "
 "Text at navigation Text at navigation Text at navigation"
 msgstr ""
+"Text at navigation Text at navigation Text at navigation Text at navigation "
+"Text at navigation Text at navigation Text at navigation Text at navigation "
+"Text at navigation Text at navigation Text at navigation Text at navigation "
+"Text at navigation Text at navigation Text at navigation Text at navigation "
+"Text at navigation Text at navigation Text at navigation Text at navigation "
+"Text at navigation Text at navigation Text at navigation Text at navigation "
+"Text at navigation Text at navigation Text at navigation Text at navigation "
+"Text at navigation Text at navigation Text at navigation Text at navigation "
+"Text at navigation Text at navigation Text at navigation Text at navigation "
+"Text at navigation Text at navigation Text at navigation Text at navigation "
+"Text at navigation Text at navigation Text at navigation"
 
 #. Test/Blueprints/Encyclopedia/Navigation_Title
 msgctxt "bde66d0c-d4be-43da-a522-55ef8c83a303"
 msgid "Navigation"
-msgstr ""
+msgstr "탐색"
 
 #. Test/Blueprints/Encyclopedia/Ork1_Text
 msgctxt "652e4fce-cbd2-422d-ba18-341995941c10"
 msgid "Орк мимими татата и дудуд"
-msgstr ""
+msgstr "Орк мимими татата и дудуд"
 
 #. Test/Blueprints/Encyclopedia/Ork1_Title
 msgctxt "7da5ac57-42c4-4354-bf18-1dc685f04428"
 msgid "Ork1"
-msgstr ""
+msgstr "Ork1"
 
 #. Test/Blueprints/Encyclopedia/Ork2_Text
 msgctxt "b3b82878-c36d-46f1-a714-9c1e277a818a"
