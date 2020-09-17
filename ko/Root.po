@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-09-16 19:41+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2020-09-17 12:36+0000\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/root/ko/>\n"
 "Language: ko\n"
@@ -1405,7 +1405,7 @@ msgstr "잊기"
 #. Mechanics/Blueprints/Root/ContextMenu/ContextMenuGrab_String
 msgctxt "172534cc-07f5-479e-a6a4-19e6df8aedf1"
 msgid "Grab"
-msgstr ""
+msgstr "그랩"
 
 #. Mechanics/Blueprints/Root/ContextMenu/ContextMenuInformation_String
 msgctxt "cdb72084-39ab-4b91-b390-7ebc33dfb718"
@@ -2683,17 +2683,17 @@ msgstr "<b>{target}</b>(이)가 알 수 없는 대상에게 <b>{count} {descript
 #. Mechanics/Blueprints/Root/GameLog/GameLog_StoryModeBuffImmunity.Message
 msgctxt "e57a5c7e-fb05-4b27-ae27-72d3681a7aaf"
 msgid "{source} is immune to {text} due to difficulty settings."
-msgstr ""
+msgstr "{source}은 난이도 설정 상 {text}에 면역입니다."
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_StoryModeEnergyDrainImmunity.Message
 msgctxt "03adc040-56c5-4538-b4a3-cf5e933873f5"
 msgid "{target} is immune to energy drain due to difficulty settings."
-msgstr ""
+msgstr "{target}은 난이도 설정 상 원기 소진에 면역입니다."
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_SurpriseRoundStarted.Message
 msgctxt "35ec130e-80bb-4e52-af6c-26e02aa53d68"
 msgid "Surprise round started."
-msgstr ""
+msgstr "기습 라운드가 시작되었습니다."
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_ThieveryMissing.Message
 msgctxt "51db536c-91f8-467b-bc49-ed99468d45ae"
@@ -2758,12 +2758,12 @@ msgstr "<b>{text}</b> 정보 갱신됨: {description}"
 #. Mechanics/Blueprints/Root/GameLog/GameLog_UnitNotSurprisedInTurnBased.Message
 msgctxt "d6a21db1-78fb-42b2-8cb0-e4fbccd251be"
 msgid "{source} spots {target} and will act in a surprise round."
-msgstr ""
+msgstr "{source}, {target} 발견. 기습 라운드에 행동 가능."
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_UnitNotSurprisedInTurnBased.Message_1
 msgctxt "5aa29d9d-811c-460e-9a84-1cc609633c62"
 msgid "{name} will act in a surprise round."
-msgstr ""
+msgstr "{name}, 기습 라운드에 행동 가능."
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_UnitXpGain.Message
 msgctxt "f5b7da82-ace7-467d-a473-acdfcd421256"
@@ -3073,7 +3073,7 @@ msgstr "카메라 위로 이동"
 #. Mechanics/Blueprints/Root/GameSettings/Settings/Controls/KeyBindings/General/ChangeCursorAction_Description_String
 msgctxt "ddef4e63-fb91-4bb1-a1bc-eaca845d6303"
 msgid "Switch Turn Actions"
-msgstr ""
+msgstr "턴 행동 전환"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/Controls/KeyBindings/General/ChangeCursorAction_TooltipDescription_String
 msgctxt "a13b29b9-b7ff-42ba-98db-cd4ca3394f2b"
@@ -3082,6 +3082,8 @@ msgid ""
 "available for the currently selected target. For example, full round attack "
 "action, or a single attack action and a move action."
 msgstr ""
+"턴제 모드에서 이 버튼을 누르면 선택된 대상이 현재 사용 가능한 행동을 전환합니다. 예를 들어 전체 라운드 공격 행동을 1회 공격 행동과 "
+"이동 행동으로 전환할 수 있습니다."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/Controls/KeyBindings/General/FollowUnit_Description
 msgctxt "bf1bfb88-ce2a-44a4-bf4e-d5b7b572c6ee"
@@ -3111,7 +3113,7 @@ msgstr "대기"
 #. Mechanics/Blueprints/Root/GameSettings/Settings/Controls/KeyBindings/General/Hold_Description_String_1
 msgctxt "aca24198-b370-408a-a1cd-7cd3cf496c6a"
 msgid "Hold position"
-msgstr ""
+msgstr "대기"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/Controls/KeyBindings/General/Inspect_Description_String
 msgctxt "afeb59b1-1ac5-4aa0-be78-d0d6b523c38c"
@@ -3121,7 +3123,7 @@ msgstr "조사"
 #. Mechanics/Blueprints/Root/GameSettings/Settings/Controls/KeyBindings/General/ModifyMovementLimit_Description
 msgctxt "17b8d665-42d3-4419-af60-d036f9ae6491"
 msgid "Use 5-ft move while in the turn-based mode"
-msgstr ""
+msgstr "턴제 모드에서 5피트 이동"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/Controls/KeyBindings/General/ModifyMovementLimit_TooltipDescription
 msgctxt "6feb9beb-73bf-46dd-bc85-155a1ded3bbd"
@@ -3130,6 +3132,7 @@ msgid ""
 "instead of a standard move action, if the 5-ft. step action is still "
 "available during the current turn."
 msgstr ""
+"이 버튼을 누르고 있으면, 캐릭터가 일반 이동 행동 대신 5피트 이동을 수행합니다. 현재 턴에 아직 5피트 행동이 가능할 때만 작동합니다."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/Controls/KeyBindings/General/MuteMusic_Description
 msgctxt "dd52abad-ac8c-4df4-bb9f-3267bf7dda0a"
@@ -5169,7 +5172,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/ResetControllerModePC_Description_String
 msgctxt "fa056031-27d2-4a3f-8e04-3a0214a7c0f1"
 msgid "Reset the Control Type"
-msgstr ""
+msgstr "조작 방식 초기화"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/ResetControllerModePC_TooltipDescription_String
 msgctxt "32f66f22-49f2-4828-8f20-801432a416a1"
@@ -5181,6 +5184,9 @@ msgid ""
 "Settings -> Controller -> General Controller Settings, and turn off "
 "Configuration Support for all controller types."
 msgstr ""
+"게임의 조작 방식(마우스와 키보드, 또는 컨트롤러)를 고르고 이 옵션을 선택하면 게임을 재시작합니다. \n"
+"컨트롤러가 제대로 작동하는지 확인하기 위해, Steam -> 설정 -> 컨트롤러 -> 일반 컨트롤러 설정으로 가서 모든 종류의 컨트롤러 "
+"구성 지원 체크를 해제하십시오."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/ScaleFont_Description
 msgctxt "0c224974-1d54-4644-b539-bc455ca9cdba"
@@ -5230,7 +5236,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/StatisticsOptOut_Description
 msgctxt "098cf749-3c7a-429b-b287-874d06201f0f"
 msgid "Opt out of sending data to Unity Analytics"
-msgstr ""
+msgstr "Unity Analytics에 데이터 전송 거부"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/StatisticsOptOut_TooltipDescription
 msgctxt "912d4531-a840-4073-8d93-c8a7590c9a16"
@@ -5239,6 +5245,8 @@ msgid ""
 "request your previously collected data. Please note that an active ad/pop-up "
 "blocker might prevent the page from opening."
 msgstr ""
+"Unity 웹사이트에 리다이렉트 됩니다. 여기서 데이터 전송을 중단하고 이전에 수집한 데이터를 요구할 수 있습니다. 광고나 팝업 차단이 "
+"활성화되어있으면 이 페이지가 열리지 않을 수도 있습니다."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/TutorialMessages_All_String
 msgctxt "30810308-8a5a-4152-bd28-59075f31c792"
@@ -5263,7 +5271,7 @@ msgstr "DLC에서만"
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/TutorialMessages_DLC3_String_1
 msgctxt "6804f2ec-6d98-4e3f-a385-4416e6b85345"
 msgid "Only for DLC"
-msgstr ""
+msgstr "DLC에서만"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/TutorialMessages_Description
 msgctxt "460d6746-5e85-4614-89eb-bc77eb02c4b3"
@@ -5437,6 +5445,8 @@ msgid ""
 "displayed above them in turn-based mode. When disabled, only the HP bar of "
 "the active companion or the currently selected companion is displayed."
 msgstr ""
+"턴제모드에서 이 설정을 활성화 하면 HP바가 항상 동료들의 밑에 표시됩니다. 해제하면, 활성화된 동료나 현재 선택한 동료의 HP바만 "
+"표시됩니다."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/AlwaysShowEnemyHitPoints_Description
 msgctxt "ac97b405-44ba-40b4-a62c-93b017e36f4c"
@@ -5450,6 +5460,8 @@ msgid ""
 "above them in turn-based mode. When disabled, only the HP bar of the active "
 "enemy or the currently selected enemy is displayed."
 msgstr ""
+"턴제 모드에서 이 설정을 활성화 하면 HP바가 항상 적들의 밑에 표시됩니다. 해제하면, 활성화된 적이나 현재 선택한 적의 HP바만 "
+"표시됩니다."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/AutoEndTurn_Description
 msgctxt "258dd456-9f0e-4a18-8a98-8f76cebbb992"
@@ -5466,55 +5478,55 @@ msgstr "캐릭터가 일반 행동과 이동을 마쳤을 경우 자동으로 �
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/AutoStopAfterFirstMoveAction_Description
 msgctxt "18097b60-d4fe-42d4-8e41-1ac2e0cc1867"
 msgid "Auto interrupt movement"
-msgstr ""
+msgstr "자동으로 이동 중단"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/AutoStopAfterFirstMoveAction_Description_1
 msgctxt "8d86be9b-a249-4ec5-9ab7-1f735b526b34"
 msgid "Auto interrupt movement"
-msgstr ""
+msgstr "자동으로 이동 중단"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/AutoStopAfterFirstMoveAction_TooltipDescription
 msgctxt "9360cd7e-fd25-41d0-ba2b-1333c875911a"
 msgid ""
 "Automatically interrupt character's movement before their standard action."
-msgstr ""
+msgstr "일반 행동을 하기 전에 자동으로 캐릭터의 이동을 중단합니다."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/AutoStopAfterFirstMoveAction_TooltipDescription_1
 msgctxt "172b7a63-bc91-45a7-aca6-825a45c57b01"
 msgid ""
 "Automatically interrupt character's movement before their standard action."
-msgstr ""
+msgstr "일반 행동을 하기 전에 자동으로 캐릭터의 이동을 중단합니다."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/AutoTurnOffAI_Description
 msgctxt "a1f8b702-c078-44fc-92fb-14e771ef7fb1"
 msgid "Auto turn off AI"
-msgstr ""
+msgstr "자동으로 AI 해제"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/CameraFollowUnit_Description
 msgctxt "aaab9c9a-da5a-47f0-8f78-24ed4a9858f2"
 msgid "Lock the camera the moving character"
-msgstr ""
+msgstr "이동 중인 캐릭터에 카메라 고정"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/CameraScrollToCurrentUnit_Description
 msgctxt "228f7013-5054-47e3-aac4-d96e1d3488e4"
 msgid "Move the camera to the acting character"
-msgstr ""
+msgstr "행동 중인 캐릭터로 카메라 이동"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/EnableTurnBaseCombatText_Description
 msgctxt "f98f4ed4-6d3e-402e-9bbe-bf3ce97967a7"
 msgid "Show combat text for the dice rolls on character's attack"
-msgstr ""
+msgstr "캐릭터가 공격할 때 전투 설명과 주사위 굴림 표시"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/EnableTurnBasedMode_Description
 msgctxt "3ccd6832-ed71-4630-b1a9-a1c1e5acc075"
 msgid "Turn-based combat mode"
-msgstr ""
+msgstr "턴제 전투 모드"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/EnableTurnBasedMode_TooltipDescription
 msgctxt "dee07f2c-aeec-49f3-a015-cf546c8b229b"
 msgid ""
 "Enables turn-based combat mode instead of real-time with pause combat mode."
-msgstr ""
+msgstr "정지 가능 실시간 모드 대신 턴제 전투 모드를 활성화 합니다."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/NonPlayersSpeedUpInTurnBasedMode_Description
 msgctxt "e8e3ed1f-0a44-4ca9-b103-5ff9affe0c78"
@@ -5526,19 +5538,19 @@ msgctxt "bc1867c3-8837-4fd6-81c9-c1254e59cfdf"
 msgid ""
 "Speeds up the animation speed of the enemies during their turn in turn-based "
 "mode."
-msgstr ""
+msgstr "턴제 모드에서 적 턴에 적들의 애니메이션이 빨라집니다."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/PlayersSpeedUpInTurnBasedMode_Description
 msgctxt "348313d9-ff3a-4d85-92ce-72d6e2a1e242"
 msgid "Increase party animation speed"
-msgstr ""
+msgstr "아군 애니메이션 속도 증가"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/TurnBasedModeSettings/PlayersSpeedUpInTurnBasedMode_TooltipDescription
 msgctxt "c38d3e6b-15c3-4232-8d5b-b5062ffd2d12"
 msgid ""
 "Speeds up the animation speed of the player and companions characters during "
 "their turn in turn-based mode."
-msgstr ""
+msgstr "턴제 모드에서 아군 턴에 아군의 애니메이션이 빨라집니다."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GraphicsSettings/Antialiasing_Description
 msgctxt "2b0826bd-0ff8-4bb4-a046-9fd3befa9571"
@@ -5734,8 +5746,6 @@ msgid "Display mode"
 msgstr "디스플레이 모드"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GraphicsSettings/DisplayMode_TooltipDescription
-#, fuzzy
-#| msgid "Game window operation mode in the OS."
 msgctxt "1f503546-6fde-44ac-9c32-d33e7a7d179e"
 msgid ""
 "Game window operation mode in the OS.\n"
@@ -5743,7 +5753,10 @@ msgid ""
 "stability issues on some systems, especially when switching between "
 "applications. In case of experiencing such issues, please, switch into the "
 "<b>Fullscreen Borderless Window</b> mode.</color>"
-msgstr "OS의 게임 창 작동 모드."
+msgstr ""
+"OS의 게임 창 작동 모드.\n"
+"<color=#ae1600>The <b>전체 화면</b> 모드는 일부 시스템에 안정성 문제를 일으킬 수 있습니다. Alt+Tab을 자주 "
+"활용하면 더 발생하기 쉽습니다. 그런 현상을 겪게 된다면 부디 <b>창 모드(전체화면)</b> 으로 전환해주십시오.</color>"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GraphicsSettings/DisplayMode_values.Array.data[0]
 msgctxt "afc3bd06-7474-4ac5-939c-e021738cd77f"
@@ -6052,14 +6065,14 @@ msgstr "중간"
 #. Mechanics/Blueprints/Root/GameSettings/Settings/Sound/SoundPauseInTBMMusicEnabled_Description
 msgctxt "3837bdd3-9213-42ca-9b7d-712d70e98cdc"
 msgid "Pauses between music tracks in turn-based mode"
-msgstr ""
+msgstr "턴제 모드에서 음악 중지"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/Sound/SoundPauseInTBMMusicEnabled_TooltipDescription
 msgctxt "b6a017db-a145-4d68-8dae-cc37c8c6995f"
 msgid ""
 "When this option is enabled, a pause will be added between music tracks "
 "during combats in turn-based mode."
-msgstr ""
+msgstr "이 옵션을 적용하면, 턴제 모드 전투 중에 배경음악 재생이 일시 중지됩니다."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/Sound/SoundVolumeAmbience_Description
 msgctxt "15cd3123-b7a1-40da-a194-29cb0a2ca41e"
@@ -6199,7 +6212,7 @@ msgstr "툴팁"
 #. Mechanics/Blueprints/Root/GameSettings/SettingsGroups/GameTurnBasedModeSetting_Title
 msgctxt "e1bb9163-ef71-4447-955a-82e16c188cb2"
 msgid "Turn-Based Mode"
-msgstr ""
+msgstr "턴제 모드"
 
 #. Mechanics/Blueprints/Root/GameSettings/SettingsGroups/GraphicsQualitySettingsGroup_Title
 msgctxt "ccf43c5c-86cf-448f-b806-7ae59930c904"
@@ -9876,7 +9889,7 @@ msgid ""
 msgstr ""
 "훗날 정복자 코랄로 불리게 되는 코랄 로가비아는 AR 4499년 지금의 브레보이 지역을 침공했고, 불을 뿜는 용들의 도움을 받아 그에게 "
 "맞서는 모든 이를 파괴했습니다. AR 4509년, 코랄은 사라졌고, 그의 후손들은 뉴 스텟븐에 있는 루비 요새에서 브레보이를 정복한 이후 "
-"정확히 200년 동안 다스리다가,  AR 4699년 가문의 모든 구성원이 사라져버렸습니다."
+"정확히 200년 동안 다스리다가, AR 4699년 가문의 모든 구성원이 사라져버렸습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[36].Name
 msgctxt "cb31963c-8c78-4b3a-a731-32d9e1e62307"
@@ -14156,12 +14169,12 @@ msgctxt "d327e91c-ba46-4b31-a33c-1db07af0262c"
 msgid ""
 "Flasks are similar to potions, but are not expended on the use and can "
 "instead be used three times per day."
-msgstr ""
+msgstr "플라스크는 물약과 비슷하지만 사용량이 많지 않아 하루 3회만 사용할 수 있습니다."
 
 #. Mechanics/Blueprints/Root/ItemsStrings_FlaskPrefix
 msgctxt "a5c48cd1-0504-4b02-98ba-8fc899c1c234"
 msgid "Flask of"
-msgstr ""
+msgstr "플라스크"
 
 #. Mechanics/Blueprints/Root/ItemsStrings_PotionPrefix
 msgctxt "29197da2-2bd7-48a8-9c29-52fb5932afb0"
@@ -15117,7 +15130,7 @@ msgstr ""
 "혁명가와 폭군의 야망보다, 제국 간의 전쟁보다, 마법이나 괴물의 분노보다 더 거대하고 파괴적인 것이 신앙의 힘입니다. 골라리온의 종족들과 "
 "떨어져 있지만 멀지 않은 곳에 수많은 신들이 있습니다. 자비로운 수호자들, 냉담한 관찰자들, 사악한 파괴자들, 불가해한 존재들 - 그들 "
 "모두는 인간 세상에 그 계획을 실현하려고 합니다. 헤아릴 수 없는 힘을 가진 놀라운 존재인 신들은 기적의 권능을 직접 내보이든지 아니면 "
-"수많은 추종자들의 행동을 통해서든지 간에 그들의 영향력을 물질계에 행사합니다.  신들은 믿음의 힘이 삶의 과정, 한 국가의 형태, 온 "
+"수많은 추종자들의 행동을 통해서든지 간에 그들의 영향력을 물질계에 행사합니다. 신들은 믿음의 힘이 삶의 과정, 한 국가의 형태, 온 "
 "세상의 운명을 결정한다는 것을 모두 알고 있습니다. 신들은 필멸자들 사이에서 추종자를 찾습니다 – 그들의 기치를 들고 그들의 교리를 "
 "전하고, 그들의 적을 물리칠 투사를. 신들은 숭배자를 모아서 그들에게 기쁨을 주는 자에게 큰 기적을 행할 수 있는 능력을 내려줍니다. "
 "대가로 요구하는 것은 오로지 신앙과 충성입니다."
@@ -17243,7 +17256,7 @@ msgstr "주문책"
 #. Mechanics/Blueprints/Root/UIStrings_ActionBar.SetAutoUse
 msgctxt "6c0afd93-7bc5-4cfb-8a26-8ea1eaa7e110"
 msgid "Use Automatically"
-msgstr ""
+msgstr "자동 사용"
 
 #. Mechanics/Blueprints/Root/UIStrings_ActionTexts.Attack
 msgctxt "f0a8ae5e-35fc-4fc8-944c-89238f5aab3e"
@@ -17727,12 +17740,12 @@ msgstr "다음"
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.NoDefaultBuildForArchetype
 msgctxt "1f282f17-3c7c-445d-986d-1146e5106e7c"
 msgid "No pre-made builds available for the archetypes"
-msgstr ""
+msgstr "이 아키타입에 맞는 사전 생성 빌드가 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.NoDefaultBuildForArchetype_1
 msgctxt "e8ca025c-e93d-4494-b1c1-df8e5fbf7c1f"
 msgid "There are no premade builds for archetypes"
-msgstr ""
+msgstr "아키타입에 맞는 사전 생성 빌드가 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.NoSpells
 msgctxt "457d7333-1f5c-4dcc-be04-d09795cd68c4"
@@ -17818,12 +17831,12 @@ msgstr "다른 레벨 표시"
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.SkillName_String
 msgctxt "3ad4c91f-80ff-4995-932d-7942bfdab75d"
 msgid "Skill name"
-msgstr ""
+msgstr "기술 이름"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.SkillName_String_1
 msgctxt "b81392a4-b2d5-4f1b-ac01-bdaf9e779654"
 msgid "Skill name"
-msgstr ""
+msgstr "기술 이름"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.Skills_String
 msgctxt "c0c16871-c782-40c1-8440-a98c431d26e6"
@@ -17853,7 +17866,7 @@ msgstr "주문"
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.StatName
 msgctxt "415b43ce-70e2-449d-8396-22f0b3a07ecd"
 msgid "Ability name"
-msgstr ""
+msgstr "능력 이름"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.SureWantClose
 msgctxt "9d1b3d20-1fe2-4f62-9fee-7c62df762b6f"
@@ -17917,7 +17930,7 @@ msgstr "능력"
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.Actions_String
 msgctxt "60c2a8d7-6b2a-42f9-b278-71a96870ac6a"
 msgid "Actions"
-msgstr ""
+msgstr "행동"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.Alignment
 msgctxt "42400bbf-6a42-489d-9c83-8c8b1c3b5315"
@@ -18167,7 +18180,7 @@ msgstr "HP"
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.History
 msgctxt "222eac56-af42-4b77-a7ac-45c112e10951"
 msgid "History"
-msgstr ""
+msgstr "역사"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.INT
 msgctxt "336992cf-a022-4033-9ed2-6c2b36a2a558"
@@ -18282,7 +18295,7 @@ msgstr "없음"
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.NoItemsToChooseForEquip
 msgctxt "88df0ab7-b790-41b6-a367-99f0db60a521"
 msgid "No suitable items"
-msgstr ""
+msgstr "적절한 물품이 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.OneFoot
 msgctxt "4ebe6417-3730-4ea9-a281-34ba4293b0f2"
@@ -18492,7 +18505,7 @@ msgstr "턴제 전투 (변경)"
 #. Mechanics/Blueprints/Root/UIStrings_CombatTexts.CombatStart
 msgctxt "9a777487-1514-4d29-ad25-10e045c7a36e"
 msgid "Get Ready for Battle"
-msgstr ""
+msgstr "전투 준비"
 
 #. Mechanics/Blueprints/Root/UIStrings_CombatTexts.Concealment
 msgctxt "1a1043aa-d0f9-4fc2-9940-628994e9181b"
@@ -18542,7 +18555,7 @@ msgstr "레벨"
 #. Mechanics/Blueprints/Root/UIStrings_CombatTexts.Parried
 msgctxt "40c38466-d8bf-4e25-9b92-fcb97aaef12d"
 msgid "Parry"
-msgstr ""
+msgstr "받아넘기기"
 
 #. Mechanics/Blueprints/Root/UIStrings_CombatTexts.SneakAttack
 msgctxt "3d8d8e3d-5ea1-47bc-96cb-d4823ab4a464"
@@ -18613,18 +18626,6 @@ msgid "ft"
 msgstr "피트"
 
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.GameStatisticEnabledDialogue_String
-#, fuzzy
-#| msgid ""
-#| "We, as developers, are always striving to improve our work. To this end, we "
-#| "need information that we can only get from you. By allowing sending the game "
-#| "statistics to us, you can help us learn more about the way you play, and "
-#| "what difficulties you encounter in our game.\n"
-#| "Only our developers will have access to your game experience data and bug "
-#| "reports. You may disable telemetry in the settings menu at any time.\n"
-#| "Would you like to enable sending the game statistics?\n"
-#| "By clicking \"OK\", you confirm that you have read and agree to our <link="
-#| "\"tou\">Terms of Use</link>, <link=\"payment\">Payment Terms</link> as well "
-#| "as the <link=\"privace\">Privacy Policy</link>."
 msgctxt "82c0217f-cfe3-4406-a48d-ef8864f7012d"
 msgid ""
 "We, as developers, are always striving to improve our work. To this end, we "
@@ -18644,13 +18645,13 @@ msgstr ""
 "오직 개발자만 게임 경험 데이터 및 버그 보고서에 액세스 할 수 있습니다. 언제든지 설정 메뉴에서 원격 측정을 비활성화 할 수 있습니다. "
 "\n"
 "게임 통계를 전송 하시겠습니까?\n"
-"\"확인\"을 클릭하면 당신이 <link=\"tou\">이용 약관</link>, <link=\"payment\">지불 조건</link> "
-"뿐만 아니라 <link=\"privace\">개인 정보 정책</link>에 동의한 것으로 간주합니다."
+"\"확인\"을 클릭하면 당신이 <link=\"tou\"><b>이용 약관</b></link>, <link=\"payment\"><b>지불 "
+"조건</b></link> 뿐만 아니라 <link=\"privace\"><b>개인 정보 정책</b></link>에 동의한 것으로 간주합니다."
 
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.Hold
 msgctxt "a4469a32-e81e-4c10-bbde-029ea08755c1"
 msgid "Hold"
-msgstr ""
+msgstr "대기"
 
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.Information
 msgctxt "c2b3c6fc-07d1-412b-903b-e9253d2e55e0"
@@ -18710,7 +18711,7 @@ msgstr "선택"
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.Table_String
 msgctxt "3cc637a1-0a70-4995-b92c-912880f5446c"
 msgid "Table"
-msgstr ""
+msgstr "목록"
 
 #. Mechanics/Blueprints/Root/UIStrings_CommonTexts.ToggleDescription
 msgctxt "04f80002-10a1-4186-8203-a1b0bba974c0"
@@ -18735,7 +18736,7 @@ msgstr "버그를 신고해 주셔서 감사합니다!"
 msgctxt "34d0edfe-aa17-419e-9de5-a1e94c180764"
 msgid ""
 "Not enough space to save the game. Please delete some of your older saves."
-msgstr ""
+msgstr "게임을 저장할 공간이 없습니다. 이전에 저장한 게임을 지워 주십시오."
 
 #. Mechanics/Blueprints/Root/UIStrings_Console.XboxStreamingInstallBackButton
 msgctxt "54567dea-43ed-4a3f-9bc6-fc6678d16ef1"
@@ -18767,7 +18768,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_ControllerModeTexts.GamepadUnpluggedInHintText
 msgctxt "bb67c50e-72cd-458e-9068-4d229d76c06b"
 msgid "Press Enter to exit to the main menu."
-msgstr ""
+msgstr "Enter를 누르면 메인 메뉴로 나갑니다."
 
 #. Mechanics/Blueprints/Root/UIStrings_ControllerModeTexts.GamepadUnpluggedInText
 msgctxt "5f6d87be-3ac2-4395-a524-4aa993813580"
@@ -18783,17 +18784,17 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_ControllerModeTexts.PressAnyKeyText
 msgctxt "c0a025f0-2d1c-4532-8774-fce8fe8bb42c"
 msgid "Press any key / {console_bind|Confirm|100} to continue"
-msgstr ""
+msgstr "아무 키나 눌러 / {console_bind|Confirm|100} 계속"
 
 #. Mechanics/Blueprints/Root/UIStrings_Credits.Play_String
 msgctxt "58264a82-be75-4b3e-a280-c033b56f3fd1"
 msgid "Roll the Credits"
-msgstr ""
+msgstr "크레딧 감기"
 
 #. Mechanics/Blueprints/Root/UIStrings_Credits.Previous_String
 msgctxt "5e3d0e51-cbb1-4a0d-9019-63dc428bf11c"
 msgid "Previous"
-msgstr ""
+msgstr "이전"
 
 #. Mechanics/Blueprints/Root/UIStrings_Dialog.AligmentShiftedFormat
 msgctxt "11935290-a8de-45fc-b71e-e5846c02a23b"
@@ -18833,7 +18834,7 @@ msgstr "특정 성향이어야 합니다."
 #. Mechanics/Blueprints/Root/UIStrings_Dialog.CloseGlossary
 msgctxt "f9c8a9bf-ffb4-4103-9fcf-d287718fbb93"
 msgid "Close Glossary"
-msgstr ""
+msgstr "용어집 닫기"
 
 #. Mechanics/Blueprints/Root/UIStrings_Dialog.FailedCheckFormat
 msgctxt "024166d4-0f1a-45e2-97e6-f34ee83cf334"
@@ -18848,7 +18849,7 @@ msgstr "실패"
 #. Mechanics/Blueprints/Root/UIStrings_Dialog.OpenGlossary
 msgctxt "70de1931-04d2-4a37-8260-9ff4a3eed78d"
 msgid "Open Glossary"
-msgstr ""
+msgstr "용어집 열기"
 
 #. Mechanics/Blueprints/Root/UIStrings_Dialog.SucccedeedCheckFormat
 msgctxt "0b437c0b-88c8-443f-a9a7-cc49b9d463d6"
@@ -18863,12 +18864,12 @@ msgstr "성공"
 #. Mechanics/Blueprints/Root/UIStrings_DialogMessageBoxTexts.GoToLinks
 msgctxt "ead74267-80b4-44cf-89c8-86a71c0a7178"
 msgid "Links"
-msgstr ""
+msgstr "링크"
 
 #. Mechanics/Blueprints/Root/UIStrings_DialogMessageBoxTexts.GoToLinks_1
 msgctxt "f0c4b3e7-add1-42b2-9eaa-73d856ca77dc"
 msgid "Links"
-msgstr ""
+msgstr "링크"
 
 #. Mechanics/Blueprints/Root/UIStrings_DialogMessageBoxTexts.OpenLink
 msgctxt "d2d057ad-006e-4faa-b22e-f802cf1affc8"
@@ -18878,7 +18879,7 @@ msgstr "열기"
 #. Mechanics/Blueprints/Root/UIStrings_DialogMessageBoxTexts.OpenLink_1
 msgctxt "69fe6a21-d898-4f95-8adc-9a9bf03e65eb"
 msgid "Open link"
-msgstr ""
+msgstr "링크 열기"
 
 #. Mechanics/Blueprints/Root/UIStrings_FirstAprilJokeTexts.ConfirmDescription
 msgctxt "e5367e2e-0f30-4b7b-a4b1-93d19d3b6ccb"
@@ -18971,7 +18972,7 @@ msgstr "이 위치에 들어가시겠습니까?"
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.EnterHint
 msgctxt "86086a7d-7306-4820-ad59-bfb093306da9"
 msgid "Enter Area"
-msgstr ""
+msgstr "지역 진입"
 
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.EnterKingdomDialogDesc
 msgctxt "fcbacdf8-d6b1-4202-9954-44c9b7f2bcbf"
@@ -19008,7 +19009,7 @@ msgstr "세계"
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.GlobalMapSettingsBorderAll
 msgctxt "dd415002-5a16-4719-b67b-d8ca0c040d58"
 msgid "Borders and Area"
-msgstr ""
+msgstr "경계와 지역"
 
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.GlobalMapSettingsBorderNone
 msgctxt "d4cee2f7-4e2a-4615-9f81-07439ab6ed9d"
@@ -19023,17 +19024,17 @@ msgstr "경계만"
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.GlobalMapSettingsTitle_String
 msgctxt "ff8d1fea-3f56-4c10-8698-5f6a96c45fc9"
 msgid "Global map settings"
-msgstr ""
+msgstr "글로벌 맵 설정"
 
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.GlobalMapSettingsToggleBorders
 msgctxt "a593bca0-3a5d-4f4e-8ef2-1940a5f0e96b"
 msgid "Kingdom area"
-msgstr ""
+msgstr "왕국 영역"
 
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.GlobalMapSettingsToggleLocationNames
 msgctxt "b5f1e87b-4cd5-48d1-befd-650a6c4a820f"
 msgid "Location names"
-msgstr ""
+msgstr "지명"
 
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.GlobalMapShortJourney
 msgctxt "58004b31-8cc4-49dc-a6c8-ddfe70f8a729"
@@ -19166,12 +19167,12 @@ msgstr "이 자원은 당신의 영토 내에 있지 않기 때문에 취득할 
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.StartHint
 msgctxt "3fd2a788-d413-4ae0-8c8d-58253fb64569"
 msgid "Go"
-msgstr ""
+msgstr "이동"
 
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.StopHint_String
 msgctxt "ee6b7c3b-95e9-437d-ad22-134d89a372bb"
 msgid "Stop"
-msgstr ""
+msgstr "정지"
 
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.UnderKingdomTooltipDescription
 msgctxt "d9d26bf1-c9c6-4ea9-bc56-07841d814bb1"
@@ -19188,37 +19189,37 @@ msgstr "{mf|남작령|남작령|왕국|왕국}에서 벗어남"
 #. Mechanics/Blueprints/Root/UIStrings_GroupChangerTexts.DetachCountWarning
 msgctxt "f8b3aabd-c9a8-4302-b441-282a1cc8be1a"
 msgid "The group must contain at least one chatacter."
-msgstr ""
+msgstr "이 그룹은 최소한 한 캐릭터를 포함해야 합니다."
 
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.ActionBar_String
 msgctxt "4d21a2ce-5650-48b0-b50c-5d495e1104bb"
 msgid "Action bar"
-msgstr ""
+msgstr "단축바"
 
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.ChangeAction
 msgctxt "70e25318-d728-45c1-9440-dc339a216281"
 msgid "Switch action"
-msgstr ""
+msgstr "행동 전환"
 
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.ChangeCombatLogSize
 msgctxt "7e89a0e5-22dd-4b04-a923-e46ebb9c5905"
 msgid "Change size"
-msgstr ""
+msgstr "크기 변경"
 
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.ChangeMovementAction
 msgctxt "24388071-b951-4d0d-a750-99e34c88e4ab"
 msgid "Switch move action"
-msgstr ""
+msgstr "이동 행동 전환"
 
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.CharactersList
 msgctxt "f20c0d96-cfe7-4278-aa54-1cc627cd4a45"
 msgid "Activate"
-msgstr ""
+msgstr "활성화"
 
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.CharactersList_1
 msgctxt "d3066678-a566-442f-ab0d-d39d08cf652a"
 msgid "Combat participants"
-msgstr ""
+msgstr "전투 참가자"
 
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.CombatLogLabel_String
 msgctxt "dce38a49-f0d0-4aca-92cf-5eaaa6da5d3e"
@@ -19233,7 +19234,7 @@ msgstr "턴 종료"
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.ExitCombatLog_String
 msgctxt "9d943ad4-c1be-4990-b683-6b7db965a271"
 msgid "Exit"
-msgstr ""
+msgstr "나가기"
 
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.HideCombatLog
 msgctxt "6433a150-5036-4099-8b71-7920e0de1bca"
@@ -19243,12 +19244,12 @@ msgstr "숨기기"
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.HoldCombatLogVisibility
 msgctxt "46886f16-99d3-45d4-aefb-1d978d89f703"
 msgid "Pin"
-msgstr ""
+msgstr "고정"
 
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.PointerTerrainMode
 msgctxt "25b6f7e8-6de5-4171-9bb8-5db48556e9a5"
 msgid "Force move"
-msgstr ""
+msgstr "강제 이동"
 
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.Pointer_String
 msgctxt "c44e26a3-1ec8-4889-a0c0-c828fcbc97a4"
@@ -19258,22 +19259,22 @@ msgstr "커서 표시"
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.ShowCombatLog
 msgctxt "a69ce08f-3a7c-43eb-81a8-935ea916d4bb"
 msgid "Show"
-msgstr ""
+msgstr "보기"
 
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.SwitchFullMove
 msgctxt "ef000ce3-7de0-459d-8b81-12b3cd613134"
 msgid "Switch to full move"
-msgstr ""
+msgstr "전력 이동으로 전환"
 
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.SwitchSingleMove
 msgctxt "d0604805-169c-4beb-8c14-57ad937b10c4"
 msgid "Switch to single move"
-msgstr ""
+msgstr "1회 이동으로 전환"
 
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.SwitchToFiveFeet
 msgctxt "9188669c-998f-4a6a-ba61-d15f6c07f394"
 msgid "Switch to 5 ft."
-msgstr ""
+msgstr "5피트로 전환"
 
 #. Mechanics/Blueprints/Root/UIStrings_HUDTexts.ToggleMode
 msgctxt "75b65a14-6e93-4973-8de0-6d00fd89d226"
@@ -19318,7 +19319,7 @@ msgstr "전부 획득 후 떠나기"
 #. Mechanics/Blueprints/Root/UIStrings_LootWindow.CollectItem
 msgctxt "985e7f6d-d220-47c9-b5f0-564303242499"
 msgid "Collect item"
-msgstr ""
+msgstr "물품 획득"
 
 #. Mechanics/Blueprints/Root/UIStrings_LootWindow.Items_2
 msgctxt "0291cecc-3a98-4177-9fa4-672f6c8785e0"
@@ -19338,7 +19339,7 @@ msgstr "물건"
 #. Mechanics/Blueprints/Root/UIStrings_LootWindow.LootChest
 msgctxt "dedd9124-bdd9-4d8e-9b86-5f91bc3ba74c"
 msgid "Chest"
-msgstr ""
+msgstr "상자"
 
 #. Mechanics/Blueprints/Root/UIStrings_LootWindow.LootOnArea
 msgctxt "cb374cc9-ef10-413b-95f2-7ffffd2c4dc7"
@@ -19348,7 +19349,7 @@ msgstr "{area_name}에 남아 있는 전리품"
 #. Mechanics/Blueprints/Root/UIStrings_LootWindow.LootPlayerChest
 msgctxt "1202c959-fb2c-4902-8013-9e81d65475b8"
 msgid "Personal Stash"
-msgstr ""
+msgstr "개인 금고"
 
 #. Mechanics/Blueprints/Root/UIStrings_LootWindow.MoveItem
 msgctxt "e361c8c3-ac32-4ace-9203-f098277857c3"
@@ -19727,12 +19728,12 @@ msgstr "휴식"
 #. Mechanics/Blueprints/Root/UIStrings_Rest.ConsoleUseRationsFromStashFormat
 msgctxt "3e9c77e0-e37f-470f-a491-a428f9f9f449"
 msgid "Use {0} rations from Stash (in Stash: {1})"
-msgstr ""
+msgstr "금고에서 식량 {0}개 사용 (금고에 {1}개)"
 
 #. Mechanics/Blueprints/Root/UIStrings_Rest.ConsoleUseRationsFromStashFormat_1
 msgctxt "213262d9-5e3d-462d-8f3c-aab435d5b1ed"
 msgid "Use {0} rations from Stash (in Stash: {1})"
-msgstr ""
+msgstr "금고에서 식량 {0}개 사용 (금고에 {1}개)"
 
 #. Mechanics/Blueprints/Root/UIStrings_Rest.ContinueButton
 msgctxt "7663b517-b9ca-4b1d-b338-d6194e11a84c"
@@ -19848,6 +19849,9 @@ msgid ""
 "Hunting is not available.\n"
 "The party will use rations."
 msgstr ""
+"당신은 던전에 있습니다.\n"
+"사냥을 할 수 없습니다.\n"
+"일행이 식량을 사용합니다."
 
 #. Mechanics/Blueprints/Root/UIStrings_Rest.HuntingDungeonHint_1
 msgctxt "cab18096-c46c-45b7-864e-56d8fc0cc7c5"
@@ -19856,6 +19860,9 @@ msgid ""
 "Hunting is not available.\n"
 "The party will use rations."
 msgstr ""
+"당신은 던전에 있습니다.\n"
+"사냥을 할 수 없습니다.\n"
+"일행이 식량을 사용합니다."
 
 #. Mechanics/Blueprints/Root/UIStrings_Rest.HuntingEncounter
 msgctxt "3c9d2caf-e73d-4771-9f62-42095172a574"
@@ -20059,7 +20066,7 @@ msgstr "식량"
 #. Mechanics/Blueprints/Root/UIStrings_Rest.RestImmediatelyRequest
 msgctxt "a0784b05-aa67-4d76-bb71-fe5086115fe5"
 msgid "Begin resting?"
-msgstr ""
+msgstr "휴식하시겠습니까?"
 
 #. Mechanics/Blueprints/Root/UIStrings_Rest.SkillPrefixBuilding
 msgctxt "d96c80ed-0ae5-47c3-a0dd-0d3e4e07bc18"
@@ -20141,14 +20148,14 @@ msgctxt "bb7c8d3d-9bee-4d6b-9ed9-82b3bf9696bc"
 msgid ""
 "Rest may take too long. Are you sure you want to rest until your health is "
 "fully restored?"
-msgstr ""
+msgstr "휴식이 너무 오래 걸립니다. 그래도 체력이 모두 회복될 때까지 쉬시겠습니까?"
 
 #. Mechanics/Blueprints/Root/UIStrings_Rest.WarningRestUntilHealed_1
 msgctxt "1f8ce67f-6316-45e1-a0f0-497185d83821"
 msgid ""
 "Rest may take too long. Are you sure you want to rest until your health is "
 "fully restored?"
-msgstr ""
+msgstr "휴식이 너무 오래 걸립니다. 그래도 체력이 모두 회복될 때까지 쉬시겠습니까?"
 
 #. Mechanics/Blueprints/Root/UIStrings_Rest.WarningSwitchOnUseRationsFromStash
 msgctxt "c13ec506-8254-4cbb-9423-c3df5b567912"
@@ -20158,12 +20165,12 @@ msgstr "식량 사용"
 #. Mechanics/Blueprints/Root/UIStrings_Rest.WarningUnableTurnOffRation
 msgctxt "40ea89f6-0713-4ea3-9b75-5ad162072968"
 msgid "Unable to turn off the use of rations in the dungeon"
-msgstr ""
+msgstr "던전에서는 식량 사용을 해제할 수 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_Rest.WarningUnableTurnOffRation_1
 msgctxt "efba1818-4279-4a07-bc5f-79be1b6da2ce"
 msgid "Unable to turn off the use of rations in the dungeon"
-msgstr ""
+msgstr "던전에서는 식량 사용을 해제할 수 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_Rest.WarningUseRationsFromStashOrChooseHunter
 msgctxt "8f2c9f88-99d4-4c82-9ca2-b081e23321cf"
@@ -20213,12 +20220,12 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_SaveInjectorTexts.WithoutImportHint
 msgctxt "ca809ef5-3c64-451f-8b42-45e75d342bbe"
 msgid "Continue without import"
-msgstr ""
+msgstr "추출 없이 계속"
 
 #. Mechanics/Blueprints/Root/UIStrings_SaveLoadTexts.CantOverwriteAutoSave
 msgctxt "a628ab5b-ec80-4f78-851e-bf35a26e583f"
 msgid "Can't overwrite the autosave file"
-msgstr ""
+msgstr "자동 저장은 덮어 쓸 수 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_SaveLoadTexts.DeleteLabel_String
 msgctxt "af49e2f2-a5b4-4989-82dc-2f1e6979fc2a"
@@ -20259,7 +20266,7 @@ msgstr "기존 저장을 덮어씌우시겠습니까?"
 #. Mechanics/Blueprints/Root/UIStrings_SaveLoadTexts.PS4CorruptedSavesMessage
 msgctxt "b23963d6-1f88-4427-b134-c515e92083bf"
 msgid "Some save files are corrupted"
-msgstr ""
+msgstr "깨진 세이브 파일이 있음"
 
 #. Mechanics/Blueprints/Root/UIStrings_SaveLoadTexts.SaveClickToEdit
 msgctxt "ec862a9f-82de-4038-8a60-a4500f154151"
@@ -20527,7 +20534,7 @@ msgstr "이 마법 혹은 능력은 자동 모드로 사용할 수 있습니다.
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.AutoCastHintShort
 msgctxt "dcff1467-393a-41f0-a2bd-4603fdf085d9"
 msgid "This spell or ability can be used in automatic mode."
-msgstr ""
+msgstr "이 주문 또는 능력은 자동 모드로 사용할 수 있습니다."
 
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.CanNotCastSpellsOfLevel
 msgctxt "eba7d8ce-c583-45a9-8d78-a84055fecda5"
@@ -20539,7 +20546,7 @@ msgctxt "56d234dd-f994-460b-a828-6912b6b6fecb"
 msgid ""
 "This spell will remain unavailable until your caster level is high enough to "
 "use it."
-msgstr ""
+msgstr "이 주문은 시전자 레벨이 부족해 시전할 수 없습니다."
 
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.CantripsHint
 msgctxt "6eab4a9d-e2a2-49fd-8c71-5a3ade0da8c7"
@@ -20572,12 +20579,12 @@ msgstr "집중"
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.ContextAddToActionBar
 msgctxt "01690a20-48ea-42c8-872c-fa9d41e61b42"
 msgid "Add to action bar"
-msgstr ""
+msgstr "단축바에 추가"
 
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.ContextCastAbility
 msgctxt "b088a3a0-eeb4-4179-a236-3d15d878372f"
 msgid "Cast"
-msgstr ""
+msgstr "시전"
 
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.DecorationLabel
 msgctxt "105aa41d-0f2a-4cde-ad43-48c88e55dbc8"
@@ -20686,7 +20693,7 @@ msgstr "<color=#FF0000> <b>반대 학파</b> (암기 할 수있는 주문 슬롯
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.RemoveMetamagic
 msgctxt "81ef8049-68e3-445f-92ec-efecbaaa0d42"
 msgid "Remove metamagic"
-msgstr ""
+msgstr "메타매직 제거"
 
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.ResultSpellLevel
 msgctxt "5a5eff37-0da7-4dbe-a467-193e29af4273"
@@ -20696,12 +20703,12 @@ msgstr "최종 주문 레벨"
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.SelectBorder
 msgctxt "7446dbe5-9d5c-4767-a0d4-80a3d6d2479e"
 msgid "Select border"
-msgstr ""
+msgstr "테두리 선택"
 
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.SelectSolor
 msgctxt "13a0faa5-7c60-4b2b-8b1a-449356e80ecc"
 msgid "Select color"
-msgstr ""
+msgstr "색깔 선택"
 
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.SpecializationSchoolTooltipHint
 msgctxt "79486d32-79ee-4bd3-b01e-5c559c35cf0f"
@@ -21818,12 +21825,6 @@ msgid "Close"
 msgstr "닫기"
 
 #. Mechanics/Blueprints/Root/UIStrings_TermsOfUseTexts.SubLicence
-#, fuzzy
-#| msgid ""
-#| "Pathfinder: Kingmaker includes Open Content available under Open Game "
-#| "License (owlcatgames.com\\OGLPFKM). You can find a complete description of "
-#| "Open Content and all related information locally in PDF format (<game "
-#| "installation folder>\\OGL) or on our site (owlcatgames.com\\PFKMCRPGRD)."
 msgctxt "1d4edb3e-4c7c-4bde-81a8-8020eaadfd60"
 msgid ""
 "Pathfinder: Kingmaker includes Open Content available under Open Game "
@@ -21833,8 +21834,8 @@ msgid ""
 msgstr ""
 "Pathfinder: Kingmaker includes Open Content available under Open Game "
 "License (owlcatgames.com\\OGLPFKM). You can find a complete description of "
-"Open Content and all related information locally in PDF format (<game "
-"installation folder>\\OGL) or on our site (owlcatgames.com\\PFKMCRPGRD)."
+"Open Content and all related information on our site (owlcatgames."
+"com\\PFKMCRPGRD)."
 
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.AbilityModifier
 msgctxt "50be8c23-06aa-4d0f-8df0-14e3894274b5"
@@ -22489,6 +22490,7 @@ msgid ""
 "the game to end the turn automatically when a character finishes their "
 "standard and move actions. Do you want to leave this option enabled?"
 msgstr ""
+"자동 턴 종료 옵션이 활성화되었습니다. 캐릭터가 일반 행동과 이동 행동을 마치면 자동으로 턴을 종료합니다. 이 옵션을 유지하시겠습니까?"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.ChangeWeapon
 msgctxt "e2ceaa7b-28ad-4caf-8919-91b32362e086"
@@ -22499,21 +22501,21 @@ msgstr "무기 변경"
 msgctxt "d6458577-aad1-4b3d-825d-4721233e796a"
 msgid ""
 "Choose a position in the initiative queue to delay the character's turn."
-msgstr ""
+msgstr "우선권 대기열에서 턴을 미룬 캐릭터가 있을 위치를 고르십시오."
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.ConfirmDelay
 msgctxt "e6c37e4c-54e3-4572-8b09-3a9e78b1762f"
 msgid ""
 "Delaying your turn will rearrange the turn order for the rest of the combat. "
 "Continue?"
-msgstr ""
+msgstr "전투가 끝날 때까지 이 순서로 전투하게 됩니다. 계속하시겠습니까?"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.ConfirmDelay_1
 msgctxt "5000c2a7-86bd-485b-8897-db731c03cb25"
 msgid ""
 "By delaying a character's turn, you voluntarily reduce their Initiative "
 "score for the rest of the combat. Continue?"
-msgstr ""
+msgstr "캐릭터의 턴을 미뤄서 우선권 점수를 일부러 줄입니다. 계속하시겠습니까?"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.ConfirmRoundDelay
 msgctxt "6c86cde9-6d6e-4a8c-9d16-d074d572e3fe"
@@ -22522,11 +22524,13 @@ msgid ""
 "this round, but from the next round and for the rest of the combat their "
 "Initiative score will be increased. Continue?"
 msgstr ""
+"캐릭터의 턴을 다음 라운드까지 미뤘습니다. 이 라운드에는 행동할 수 없습니다. 그러나 그 다음 라운드부터는 우선권 점수가 회복됩니다. "
+"계속하시겠습니까?"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.DelayTurn
 msgctxt "fc0aa974-00f0-4b91-aaff-56c69ebb496b"
 msgid "Delay"
-msgstr ""
+msgstr "미루기"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.FiveFeetActionName
 msgctxt "a313cb3b-54af-4418-b868-1fa69977d0d0"
@@ -22541,12 +22545,12 @@ msgstr "자유"
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.FullAttack
 msgctxt "642d7157-694f-4320-8fe1-7be9c4365449"
 msgid "Full attack"
-msgstr ""
+msgstr "전력 공격"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.FullRoundActionName
 msgctxt "1d2342a1-e2bc-4922-8a58-42bd0c5ce8f2"
 msgid "Full round"
-msgstr ""
+msgstr "라운드 전체"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.InteractObject
 msgctxt "823c022f-5fd9-4bfd-b0aa-568d809ae53c"
@@ -22566,7 +22570,7 @@ msgstr "이동"
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.NotEnoughActionsMessage
 msgctxt "c02bb4cd-9ea1-45d3-87e8-a10535159e17"
 msgid "No actions left this turn to use this ability"
-msgstr ""
+msgstr "남아있는 행동이 없어 이 능력을 사용할 수 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.Round_String
 msgctxt "5ca19f92-2158-4a2b-b2ad-ef97a364d8e8"
@@ -22581,7 +22585,7 @@ msgstr "라운드"
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.SpellCombatAttack
 msgctxt "4ddc6b7c-31bb-44eb-b490-25c507750b5f"
 msgid "Spell combat attack"
-msgstr ""
+msgstr "주문 전투 공격"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.StandardActionName
 msgctxt "fe965430-b4de-46b2-bcd0-7af2a0fc7b86"
@@ -22591,7 +22595,7 @@ msgstr "일반 행동"
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.Standup
 msgctxt "c609f212-0468-4e43-8442-47dec2738af3"
 msgid "Stand up"
-msgstr ""
+msgstr "일어서기"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.SurpriseRound
 msgctxt "a5ce3891-db51-4a1c-bd2b-4c159da26d6f"
@@ -22606,7 +22610,7 @@ msgstr "신속"
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.TouchDeliverActivity
 msgctxt "318e29c6-dec5-40d5-8103-11564abeb524"
 msgid "Deliver touch"
-msgstr ""
+msgstr "접촉 전달"
 
 #. Mechanics/Blueprints/Root/UIStrings_TurnBasedTexts.UseAbilityActivity
 msgctxt "fdcfb560-9971-4e4e-88f7-a80e963206ee"
@@ -22621,32 +22625,32 @@ msgstr "물품 사용"
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.AllProjectsName
 msgctxt "f773078a-649f-4c2c-977f-01209c3f65f1"
 msgid "All"
-msgstr ""
+msgstr "전부"
 
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.BuildNoPlace
 msgctxt "951d1d69-2ed2-4496-8eaa-a64e28b8b2d7"
 msgid "Not enough space to construct the building"
-msgstr ""
+msgstr "공간이 없어 건물을 지을 수 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.BuildNotEnoughBP
 msgctxt "12d89c83-2b85-4341-aac3-5b26fa57d783"
 msgid "Not enough Build Points to construct the building"
-msgstr ""
+msgstr "건설 점수가 없어 건물을 지을 수 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.CannotBuildBuilding
 msgctxt "ef61a0ae-52b5-4b59-9d0b-60b4f507ee1f"
 msgid "Building cannot be constructed"
-msgstr ""
+msgstr "건물을 지을 수 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.KingdomCardEventDaysColumnHeader_String
 msgctxt "f4c8f95f-b940-40f8-889f-42f06f120df8"
 msgid "Days"
-msgstr ""
+msgstr "날짜"
 
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.KingdomCardEventImportantStatus
 msgctxt "23e698dc-da3c-436c-86a4-54f4f0c48727"
 msgid "Important"
-msgstr ""
+msgstr "중요도"
 
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.KingdomCardEventNameColumnHeader_String
 msgctxt "98af3b90-ecd0-4930-97a7-483e1fda10f8"
@@ -22661,17 +22665,17 @@ msgstr "보통"
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.KingdomCardEventStatusColumnHeader_String
 msgctxt "b673d6d3-8b30-4f8a-b87d-f0e5c8f3ed07"
 msgid "Status"
-msgstr ""
+msgstr "상태"
 
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.KingdomCardEventsInProgress
 msgctxt "bed5bea4-0c00-4dc9-86a1-950e973f9660"
 msgid "Events in progress"
-msgstr ""
+msgstr "진행중인 사건"
 
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.KingdomCardFinishedEvents
 msgctxt "d8be809f-e0c3-492b-a1f8-001f58fb6cde"
 msgid "Completed events"
-msgstr ""
+msgstr "완료된 사건"
 
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.KingdomCardGoToKingdom
 msgctxt "3c717468-1e02-4e15-83ee-b5a0be07e38d"
@@ -22681,7 +22685,7 @@ msgstr "왕국 관리"
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.KingdomCardNewEventsAvailable
 msgctxt "ab97980e-988c-4423-9c1a-418d22b3385f"
 msgid "New events"
-msgstr ""
+msgstr "새 사건"
 
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.KingdomCardWaitingInThroneRoom
 msgctxt "34c2f53b-2f65-451e-a0dc-636a66366866"
@@ -22691,38 +22695,38 @@ msgstr "알현실에서 대기중"
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.LeaveCityBuilderDialog
 msgctxt "9297a91a-8b11-4bbe-9ef4-5ddc265f4cd6"
 msgid "Exit town management?"
-msgstr ""
+msgstr "도시 관리를 종료하시겠습니까?"
 
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.LeaveKingdomDialog
 msgctxt "f5a3c61b-241e-40fb-bd2b-00bc6bea81ee"
 msgid "Exit kingdom management?"
-msgstr ""
+msgstr "왕국 관리를 종료하시겠습니까?"
 
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.OpenCityViewText
 msgctxt "227f0d0e-de11-4389-a3d3-4588c7be8a2a"
 msgid "Enter town management"
-msgstr ""
+msgstr "도시 관리하기"
 
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.RegionStatsHeader_String
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.RegionStatsHeader_String_1
 msgctxt "c9b935bb-48b9-404d-9801-6641885da222"
 msgid "Region Stats"
-msgstr ""
+msgstr "지역 지표"
 
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.UpgradeAlreadyMaxLevel
 msgctxt "7ddd077a-c1a7-46ce-b071-5d1a03583011"
 msgid "The building has been already upgraded to the maximum level"
-msgstr ""
+msgstr "건물이 이미 최고 등급으로 승급됨"
 
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.UpgradeNotEnoughBP
 msgctxt "47be077a-d878-49c9-96b5-915f88b7c5a4"
 msgid "Not enough Build Points to upgrade the building"
-msgstr ""
+msgstr "건설 점수가 부족하여 건물을 승급할 수 없음"
 
 #. Mechanics/Blueprints/Root/UIStrings_UIKingdomTexts.UpgradeRequirementsNotMet
 msgctxt "6992f7b2-d4cb-4808-8776-2f403c76ae82"
 msgid "Building upgrade requirements are not met"
-msgstr ""
+msgstr "건물 승급 조건이 충족되지 않음"
 
 #. Mechanics/Blueprints/Root/UIStrings_Vendor.BeforeClose
 msgctxt "4b576345-70d3-4427-b229-f686a6b811d7"
@@ -22732,12 +22736,12 @@ msgstr "거래가 끝나지 않았습니다. 그래도 떠나시겠습니까?"
 #. Mechanics/Blueprints/Root/UIStrings_Vendor.Compare
 msgctxt "9da94a7f-185b-4b42-a270-41bf16006190"
 msgid "Compare"
-msgstr ""
+msgstr "비교"
 
 #. Mechanics/Blueprints/Root/UIStrings_Vendor.ConfirmDeal
 msgctxt "c5f1e378-f3de-4163-9737-49d9da4b5c51"
 msgid "Confirm"
-msgstr ""
+msgstr "확인"
 
 #. Mechanics/Blueprints/Root/UIStrings_Vendor.Deal
 msgctxt "67e72d69-dd73-4fdf-b705-cb7d52395a24"
@@ -22747,17 +22751,17 @@ msgstr "거래!"
 #. Mechanics/Blueprints/Root/UIStrings_Vendor.DealHeader
 msgctxt "81461445-f4e5-4a7f-8d6a-1f415e70f674"
 msgid "Deal"
-msgstr ""
+msgstr "거래"
 
 #. Mechanics/Blueprints/Root/UIStrings_Vendor.MassSaleSettings_String
 msgctxt "5bb750d3-0175-4909-8596-6efc46fd14d2"
 msgid "Bulk Selling Settings"
-msgstr ""
+msgstr "대량 판매 설정"
 
 #. Mechanics/Blueprints/Root/UIStrings_Vendor.MassSaleTitle
 msgctxt "487f4cb6-2992-4af7-9b45-1765c135b072"
 msgid "Bulk Selling"
-msgstr ""
+msgstr "대량 판매"
 
 #. Mechanics/Blueprints/Root/UIStrings_Vendor.MassSell
 msgctxt "1f46058b-7e4e-4e8d-8a05-e464cf17e434"
@@ -22767,27 +22771,27 @@ msgstr "제안"
 #. Mechanics/Blueprints/Root/UIStrings_Vendor.MassSellSettings_String
 msgctxt "24ed244e-4885-45dd-b75c-6a82c0072be0"
 msgid "Bulk Selling Settings"
-msgstr ""
+msgstr "대량 판매 설정"
 
 #. Mechanics/Blueprints/Root/UIStrings_Vendor.MassSellTitle
 msgctxt "a32f905e-a4ef-45e2-802c-ac5303aa9949"
 msgid "Bulk Selling"
-msgstr ""
+msgstr "대량 판매"
 
 #. Mechanics/Blueprints/Root/UIStrings_Vendor.Masterwork
 msgctxt "afe621c9-0919-4ebb-9fd8-38762d649b2e"
 msgid "Masterwork"
-msgstr ""
+msgstr "명품"
 
 #. Mechanics/Blueprints/Root/UIStrings_Vendor.Move
 msgctxt "c78ad8a8-e7a5-4afb-91f3-a48c31f8752f"
 msgid "Move"
-msgstr ""
+msgstr "이동"
 
 #. Mechanics/Blueprints/Root/UIStrings_Vendor.NonMagical
 msgctxt "43baf492-014b-46c5-858f-dab174dbb353"
 msgid "Non-Magical"
-msgstr ""
+msgstr "비마법 물품"
 
 #. Mechanics/Blueprints/Root/UIStrings_Vendor.ReturnAll
 msgctxt "cd16383c-038f-4c1f-b6b8-00dad8d6739a"
@@ -22797,12 +22801,12 @@ msgstr "대가"
 #. Mechanics/Blueprints/Root/UIStrings_Vendor.Sort
 msgctxt "ba2790fc-0848-424b-accb-c07b259b136b"
 msgid "Sort"
-msgstr ""
+msgstr "정렬"
 
 #. Mechanics/Blueprints/Root/UIStrings_Vendor.Trash
 msgctxt "e0cd82d2-b5b8-423f-b71c-6f9de6a47559"
 msgid "Trash"
-msgstr ""
+msgstr "쓰레기"
 
 #. Mechanics/Blueprints/Root/UITexts/AbilityScores_String
 msgctxt "92596372-5c48-48f9-b3bc-778b27f6e93b"
@@ -22856,7 +22860,7 @@ msgstr "다음 플레이 때 받을 혜탁을 선택하십시오. 지난 플레�
 #. Mechanics/Blueprints/Root/UITexts/BugReportWindow_Header_String
 msgctxt "9b56874d-141d-41fc-a68f-63f2d1c82ca9"
 msgid "Bug Report"
-msgstr ""
+msgstr "버그 리포트"
 
 #. Mechanics/Blueprints/Root/UITexts/BuildNaviLabel_BuildNaviLabel_String
 msgctxt "7e0d3299-f15c-4726-bc88-5a4d24702bea"
@@ -22921,7 +22925,7 @@ msgstr "초기화"
 #. Mechanics/Blueprints/Root/UITexts/CitiesNaviLabel_CitiesNaviLabel_String
 msgctxt "cb8fbd4a-9f99-496d-b758-9c6c020f4a2e"
 msgid "Settlements"
-msgstr ""
+msgstr "결정"
 
 #. Mechanics/Blueprints/Root/UITexts/CombatLog_ToogleAll_String
 msgctxt "eb6c03cd-fd2a-456f-8c3a-5ddbcf921aab"
@@ -22946,172 +22950,172 @@ msgstr "사건"
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_ActionBar_ContextMenu_String
 msgctxt "9c146afb-6b65-4a68-a55c-6c143da4e645"
 msgid "Context Menu"
-msgstr ""
+msgstr "컨텍스트 메뉴"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_ActionBar_SpellOptions_String
 msgctxt "aa57627c-7675-453e-8de5-e303e758285f"
 msgid "Options"
-msgstr ""
+msgstr "설정"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_ActionBar_Toggle_String
 msgctxt "45762c5b-c6c1-4233-bcce-1040ce5681c8"
 msgid "Toggle"
-msgstr ""
+msgstr "토글"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_ActionBar_Tooltip_String
 msgctxt "c1008760-ad3f-4f5f-98ea-37cb18153cf8"
 msgid "Tooltip"
-msgstr ""
+msgstr "툴팁"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_Ai_String
 msgctxt "ceca1a72-ff56-4b63-a48c-eb9828e117cf"
 msgid "Artificial Intelligence"
-msgstr ""
+msgstr "인공 지능"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_Ai_String_1
 msgctxt "1b94a077-9e04-4141-ad0d-faa979e9ec78"
 msgid "Artificial Intelligence"
-msgstr ""
+msgstr "인공 지능"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_Change_String
 msgctxt "8ad91e13-bf29-407a-aeec-e9a03ea1e5cd"
 msgid "Change"
-msgstr ""
+msgstr "변경"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_Cloke_PauseToggle_String
 msgctxt "ddb8a00b-a093-45b8-94bc-3ff0171eef43"
 msgid "Pause"
-msgstr ""
+msgstr "일시 정지"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_Close_String
 msgctxt "908affa8-70ee-4c60-9fc2-129905427067"
 msgid "Close"
-msgstr ""
+msgstr "닫기"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_Confirm_String
 msgctxt "7affe360-b15b-4db3-a1da-030ccd10f65d"
 msgid "Confirm"
-msgstr ""
+msgstr "확인"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_Delete_String
 msgctxt "913961be-7ab8-4cb7-9132-7e828b7057db"
 msgid "Remove"
-msgstr ""
+msgstr "제거"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_DeterminePosition_String
 msgctxt "36d30939-0022-4bba-a273-8c071aee7ed5"
 msgid "Change Position"
-msgstr ""
+msgstr "대형 변경"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_GlobalMap_CameraMovement_String
 msgctxt "c216b22a-23d0-42b6-a996-b8248bdfe6f9"
 msgid "Move Camera"
-msgstr ""
+msgstr "카메라 이동"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_GlobalMap_RelativeMovement_String
 msgctxt "729a9cdd-b3b2-4b8f-8667-82090fb20424"
 msgid "Select Direction"
-msgstr ""
+msgstr "방향 선택"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_GlobalMap_SelectLocation_String
 msgctxt "6694f7d3-f49f-405e-ab9f-862bbcba1375"
 msgid "Select Location"
-msgstr ""
+msgstr "위치 선택"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_GlobalMap_ToggleBorders_String
 msgctxt "c67c5003-fba9-4d8e-8e1e-830b8d40595e"
 msgid "Toggle kingdom borders"
-msgstr ""
+msgstr "왕국 경계 켜기/끄기"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_GlobalMap_ToggleNames_String
 msgctxt "f9ed1a80-ba7c-4504-a3b9-83d5e6b91314"
 msgid "Toggle locations names"
-msgstr ""
+msgstr "지명 켜기/끄기"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_GroupChanger_SwitchAll_String
 msgctxt "405671aa-8e7b-4b3b-aba7-88724e7589dc"
 msgid "Move All"
-msgstr ""
+msgstr "전체 이동"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_GroupChanger_Switch_String
 msgctxt "a107b5f0-63eb-44ea-9475-1197c0621425"
 msgid "Move"
-msgstr ""
+msgstr "이동"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_GroupManager_Link_String
 msgctxt "e0760407-bcc5-40d9-abd1-52e70bb32a15"
 msgid "Link"
-msgstr ""
+msgstr "링크"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_Info_String
 msgctxt "77b0fbb2-3d22-4252-b943-b97dc28b298a"
 msgid "Info"
-msgstr ""
+msgstr "정보"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_MainMenu_Choose_String
 msgctxt "c0f896ef-0316-4cff-949a-973b28c0528b"
 msgid "Select"
-msgstr ""
+msgstr "선택"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_MainMenu_Scroll_String
 msgctxt "ac815e53-d8b1-4391-85ef-e6f5526b36b8"
 msgid "Scroll"
-msgstr ""
+msgstr "두루마리"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_Rest_HourNext_String
 msgctxt "4771bfdf-9dff-4cf2-92d9-0e6a7a97d779"
 msgid "Add hour"
-msgstr ""
+msgstr "시간 추가"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_Rest_HourPrev_String
 msgctxt "5a73412f-3827-4cb6-9ecd-aca2b3101634"
 msgid "Remove hour"
-msgstr ""
+msgstr "시간 제거"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_Rest_Start_String
 msgctxt "c92344ae-730c-4d1e-93c6-4d405d891777"
 msgid "Rest"
-msgstr ""
+msgstr "휴식"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_Rest_Start_String_1
 msgctxt "f156f130-e9b9-4bdb-94a8-2b6acec1ba4b"
 msgid "Rest"
-msgstr ""
+msgstr "휴식"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_Stealth_String
 msgctxt "8e1eddf6-4ed6-4ba6-bf3f-18c784786dd8"
 msgid "Stealth"
-msgstr ""
+msgstr "은신"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_Tracker_Delay_String
 msgctxt "6594e847-cf26-4ea8-a75e-ae0c30b86267"
 msgid "Delay turn"
-msgstr ""
+msgstr "턴 미루기"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_Tracker_Delay_String_1
 msgctxt "36bb7e99-2913-485f-a826-d3193066a041"
 msgid "Delay turn"
-msgstr ""
+msgstr "턴 미루기"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_Tracker_Inspect_String
 msgctxt "f95d4e1b-11d5-4f2c-8400-a7f8880cabb7"
 msgid "Toggle Inspect"
-msgstr ""
+msgstr "조사 켜기/끄기"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_Tracker_Inspect_String_1
 msgctxt "1b4fbf58-2254-4802-9020-7a34bf55d712"
 msgid "Toggle Inspect"
-msgstr ""
+msgstr "조사 켜기/끄기"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsoleHint_Tracker_NoDelay_String
 msgctxt "0a97f77f-1bb9-4ee9-a47b-97dcad1dcf80"
 msgid "Can't delay turn: already moved"
-msgstr ""
+msgstr "턴을 미룰 수 없음: 이미 움직임"
 
 #. Mechanics/Blueprints/Root/UITexts/Console_RestCamp_Rations_Healing_Title_String
 msgctxt "34aae790-2dcf-4347-99f4-d97d9d4b6428"
 msgid "Rations and Healing"
-msgstr ""
+msgstr "식량과 의약품"
 
 #. Mechanics/Blueprints/Root/UITexts/ConsumableBonus_Header_String
 msgctxt "db336ea3-8954-4e1e-a5a4-1740c4f0956f"
@@ -23126,17 +23130,17 @@ msgstr "일행 관리"
 #. Mechanics/Blueprints/Root/UITexts/DetachGroupManager_Header_String_1
 msgctxt "c0e1b2f5-6735-46a8-94b0-a90aaca7d527"
 msgid "Main Team"
-msgstr ""
+msgstr "본대"
 
 #. Mechanics/Blueprints/Root/UITexts/DetachGroupManager_StrikeTeam_String
 msgctxt "9a7f9702-282d-4991-8eaa-d9c24343b01f"
 msgid "Strike Team"
-msgstr "스트라이크 팀"
+msgstr "공격대"
 
 #. Mechanics/Blueprints/Root/UITexts/DetachGroupManager_StrikeTeam_String_1
 msgctxt "97a891dd-19d4-4f51-8f10-54dba334b6d7"
 msgid "Second Team"
-msgstr ""
+msgstr "보조대"
 
 #. Mechanics/Blueprints/Root/UITexts/DialogueMessageBox_Btn_CancelLabel_String
 msgctxt "e1925a72-11b0-450f-9011-24d90efd9414"
@@ -23180,7 +23184,7 @@ msgstr "<font=\"Saber_Dist32\"><size=140%><color=#983f1d>백</color></size>과�
 #. Mechanics/Blueprints/Root/UITexts/EndOfRoundText_EndOfRoundText_String
 msgctxt "8d04b891-6a33-4b3a-ba60-b493fb016829"
 msgid "End of round."
-msgstr ""
+msgstr "라운드 끝."
 
 #. Mechanics/Blueprints/Root/UITexts/EndlessGameOver_NewGame_String
 msgctxt "23d0c432-2b7f-4bd0-9c9c-d7b7bab0d341"
@@ -23190,7 +23194,7 @@ msgstr "다시 시작"
 #. Mechanics/Blueprints/Root/UITexts/EngagementScreen_PressAnyButton_String
 msgctxt "fed3ad3b-9726-4b4f-8cc5-68f0215bfe3f"
 msgid "Press any button to continue"
-msgstr ""
+msgstr "아무 버튼이나 눌러 계속"
 
 #. Mechanics/Blueprints/Root/UITexts/EscMenu_Exit_String
 msgctxt "d3fa6272-a6a7-4712-86a2-b79e7eed1095"
@@ -23230,47 +23234,47 @@ msgstr "저장하기"
 #. Mechanics/Blueprints/Root/UITexts/EventCard_Console_DPad_String
 msgctxt "f5aecd3c-6077-4ddc-80df-16636a83cceb"
 msgid "Up / Down"
-msgstr ""
+msgstr "위 / 아래"
 
 #. Mechanics/Blueprints/Root/UITexts/EventCard_Console_DPad_String_1
 msgctxt "e20c69e1-7295-46d6-bd6d-222f8f37a0b1"
 msgid "Up / Down"
-msgstr ""
+msgstr "위 / 아래"
 
 #. Mechanics/Blueprints/Root/UITexts/EventCard_Console_DPad_String_2
 msgctxt "13578547-c103-43fd-af97-2ecf13d97133"
 msgid "Up / Down"
-msgstr ""
+msgstr "위 / 아래"
 
 #. Mechanics/Blueprints/Root/UITexts/EventCard_Console_ResetLeaderLabel_String
 msgctxt "2aa70015-e180-40db-b97a-fc03e265ef1e"
 msgid "Remove advisor"
-msgstr ""
+msgstr "보좌관 제거"
 
 #. Mechanics/Blueprints/Root/UITexts/EventCard_Console_ResetLeaderLabel_String_1
 msgctxt "4134e966-618f-4172-8126-e0076e65fec1"
 msgid "Remove advisor"
-msgstr ""
+msgstr "보좌관 제거"
 
 #. Mechanics/Blueprints/Root/UITexts/EventCard_Console_ResetLeaderLabel_String_2
 msgctxt "8ee36c44-4e12-4aea-b35b-60e2ca8f9bcc"
 msgid "Remove advisor"
-msgstr ""
+msgstr "보좌관 제거"
 
 #. Mechanics/Blueprints/Root/UITexts/EventCard_Console_SelectLeaderLabel_String
 msgctxt "d743ea79-f4a2-4a79-b1db-7281cf34c459"
 msgid "Select advisor"
-msgstr ""
+msgstr "보좌관 선택"
 
 #. Mechanics/Blueprints/Root/UITexts/EventCard_Console_SelectLeaderLabel_String_1
 msgctxt "842a1ad7-b9bd-4909-8f1c-1e96baef1341"
 msgid "Assign advisor"
-msgstr ""
+msgstr "보좌관 배정"
 
 #. Mechanics/Blueprints/Root/UITexts/EventCard_Console_SelectLeaderLabel_String_2
 msgctxt "5185cd35-5552-4b3c-aa09-0672b9a12857"
 msgid "Assign advisor"
-msgstr ""
+msgstr "보좌관 배정"
 
 #. Mechanics/Blueprints/Root/UITexts/FirstAprilJoke_AcceptLabel_String
 msgctxt "276efb9e-2b3c-45b5-96f7-c4d3d8ff21d3"
@@ -23721,12 +23725,12 @@ msgstr "전망"
 #. Mechanics/Blueprints/Root/UITexts/ProjectsAllNaviLabel_ProjectsAllNaviLabel_String
 msgctxt "a7fe2190-5579-4f50-96a4-ff526d388523"
 msgid "All"
-msgstr ""
+msgstr "전부"
 
 #. Mechanics/Blueprints/Root/UITexts/ProjectsAllNaviLabel_ProjectsAllNaviLabel_String_1
 msgctxt "f315e51a-c2ac-4312-8876-5846fb4d7bf6"
 msgid "All"
-msgstr ""
+msgstr "전부"
 
 #. Mechanics/Blueprints/Root/UITexts/ProjectsCursesNaviLabel_ProjectsCursesNaviLabel_String
 msgctxt "c05ab58d-27c0-41d0-8453-860a5d904190"
@@ -23771,7 +23775,7 @@ msgstr "초기화"
 #. Mechanics/Blueprints/Root/UITexts/RestCamp_RestUntilFullyHealed_Label_String
 msgctxt "2dd8af29-919b-4e86-880a-9d7f5d131f03"
 msgid "Rest until fully healed"
-msgstr ""
+msgstr "완전히 회복될 때까지 휴식"
 
 #. Mechanics/Blueprints/Root/UITexts/RestCamp_TextMeshPro Text 1_String
 msgctxt "007d162e-dd2e-4643-8ede-29e5a180bd73"
@@ -24259,7 +24263,7 @@ msgctxt "2e7811b7-4953-4208-80af-4c495d82334c"
 msgid ""
 "\"Ctrl + Shift + Alt + B\" to open Bug Report Window. Move the mouse over "
 "the objects for context."
-msgstr ""
+msgstr "\"Ctrl + Shift + Alt + B\"을 누르면 버그 리포트 창이 열립니다. 참조해야할 오브젝트에 마우스를 대세요."
 
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[121].Name
 msgctxt "f1de6378-b9f2-4a4c-ab70-69859f0b6f43"
@@ -24273,11 +24277,13 @@ msgid ""
 "increase animation speed for the current character if the character is "
 "moving.</align>"
 msgstr ""
+"<align=center>[{bind|Pause}]를 누르면 캐릭터의 턴을 끝내거나 이동 중인 캐릭터의 애니메이션 속도를 높일 수 "
+"있습니다.</align>"
 
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[122].Name
 msgctxt "e1e6cedd-bb11-4954-8e5d-9d11f095d86b"
 msgid "End turn / speed-up animation"
-msgstr ""
+msgstr "턴 끝내기 / 애니메이션 속도 올리기"
 
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[123].Description
 msgctxt "20eb83b9-ba27-468f-a398-7bdb06270cef"
@@ -24285,6 +24291,7 @@ msgid ""
 "<align=center>Press [{bind|SwitchTBM}] to enable or disable the turn-based "
 "mode.</align>"
 msgstr ""
+"<align=center>[{bind|SwitchTBM}] 키를 눌러 턴제 모드를 활성화하거나 해제할 수 있습니다.</align>"
 
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[12].Description_3
 msgctxt "9cd3331f-3b5a-4ae7-8159-3317f07e43c6"
@@ -24792,7 +24799,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[7].Name_1
 msgctxt "b980184f-2078-49b9-a563-e39df6a01ec5"
 msgid "Hold"
-msgstr "위치고수"
+msgstr "대기"
 
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[80].Description
 msgctxt "01970a40-b435-4fda-bdf4-ab9efd0fee13"
@@ -25094,7 +25101,7 @@ msgstr "전투 중 장비 교체 불가"
 #. Mechanics/Blueprints/Root/WarningNotifications_Entries.Array.data[13].Text
 msgctxt "199e1a74-ce61-4d48-8956-6556d2b49984"
 msgid "Saving error"
-msgstr ""
+msgstr "저장 오류"
 
 #. Mechanics/Blueprints/Root/WarningNotifications_Entries.Array.data[1].Text
 msgctxt "d668ec1c-4c36-4bdd-a0b6-eb2d9f4f3750"
@@ -25159,27 +25166,27 @@ msgstr "특수"
 #. Mechanics/Blueprints/Root/WeaponSubCategoryNames_Entries.Array.data[13].Text
 msgctxt "0df34391-eb22-4e09-95d6-ac3e30834f12"
 msgid "One-Handed Piercing"
-msgstr ""
+msgstr "한손 찌르기"
 
 #. Mechanics/Blueprints/Root/WeaponSubCategoryNames_Entries.Array.data[14].Text
 msgctxt "758322f3-9755-49df-9ba7-c4dba13eab5e"
 msgid "One-Handed Slashing"
-msgstr ""
+msgstr "한손 베기"
 
 #. Mechanics/Blueprints/Root/WeaponSubCategoryNames_Entries.Array.data[15].Text
 msgctxt "1815abbd-68a0-4109-a01f-48bc94eb346e"
 msgid "Metal"
-msgstr ""
+msgstr "금속"
 
 #. Mechanics/Blueprints/Root/WeaponSubCategoryNames_Entries.Array.data[1].Text
 msgctxt "a4fdc72f-4322-4fb9-a222-5cbb53a14eeb"
 msgid "Ranged"
-msgstr ""
+msgstr "원거리"
 
 #. Mechanics/Blueprints/Root/WeaponSubCategoryNames_Entries.Array.data[2].Text
 msgctxt "ec09a46d-8e9f-4b15-b125-2e4217adc97a"
 msgid "Melee"
-msgstr ""
+msgstr "근접"
 
 #. Mechanics/Blueprints/Root/WeaponSubCategoryNames_Entries.Array.data[3].Text_1
 msgctxt "e6ba47b5-6944-4ff4-99b9-51b15e9dca01"
@@ -25189,17 +25196,17 @@ msgstr "기교 무기"
 #. Mechanics/Blueprints/Root/WeaponSubCategoryNames_Entries.Array.data[4].Text
 msgctxt "cebd4b7d-b031-4829-81c0-9c8378216b66"
 msgid "Thrown"
-msgstr ""
+msgstr "투척"
 
 #. Mechanics/Blueprints/Root/WeaponSubCategoryNames_Entries.Array.data[5].Text
 msgctxt "b4102378-aae7-458b-8294-558aa2b71663"
 msgid "Natural"
-msgstr ""
+msgstr "자연"
 
 #. Mechanics/Blueprints/Root/WeaponSubCategoryNames_Entries.Array.data[6].Text
 msgctxt "c49ea547-a0ca-46c6-b7cf-3ec577c6ffa8"
 msgid "Knife"
-msgstr ""
+msgstr "나이프"
 
 #. Mechanics/Blueprints/Root/WeaponSubCategoryNames_Entries.Array.data[7].Text_1
 msgctxt "3cb6e21c-9950-4bc2-a7ec-e42e0dd8d695"
@@ -25209,9 +25216,9 @@ msgstr "몽크 무기"
 #. Mechanics/Blueprints/Root/WeaponSubCategoryNames_Entries.Array.data[8].Text
 msgctxt "1c700b09-c704-482d-8f74-5faafb6b2425"
 msgid "Two-Handed"
-msgstr ""
+msgstr "양손"
 
 #. Mechanics/Blueprints/Root/WeaponSubCategoryNames_Entries.Array.data[9].Text
 msgctxt "d4a5ff85-7031-43f0-9e8d-875f4fc33125"
 msgid "Light"
-msgstr ""
+msgstr "가벼움"
