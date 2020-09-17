@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 20:42+0900\n"
-"PO-Revision-Date: 2020-09-01 03:23+0000\n"
+"PO-Revision-Date: 2020-09-17 12:36+0000\n"
 "Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/classes/ko/>\n"
@@ -21048,6 +21048,10 @@ msgid ""
 "Effect: 1 Dexterity damage\n"
 "Cure: 1 save"
 msgstr ""
+"상처; 내성: 인내\n"
+"빈도: 매 라운드 / 4 라운드 동안\n"
+"효과: 1 민첩 피해\n"
+"치유: 내성 1회 성공"
 
 #. Mechanics/Blueprints/Classes/Ranger/Archetypes/Flamewarden/FlamewardenArchetype_LocalizedDescription
 msgctxt "ddd48ffc-189d-45fa-b7fe-5bcd5a7c287f"
@@ -21151,12 +21155,6 @@ msgid "Phoenix Blast"
 msgstr "불사조 작렬"
 
 #. Mechanics/Blueprints/Classes/Ranger/Archetypes/Flamewarden/FlamewardenPhoenixRising_m_Description
-#, fuzzy
-#| msgid ""
-#| "At 20th level, the flamewarden gains immunity to fire, and once per week, "
-#| "the flamewarden rises from the ashes of his own destruction 1 round after "
-#| "dying. The flamewarden's body re-forms with all his equipment, and he "
-#| "returns to life with half his maximum hit points."
 msgctxt "86a09d90-aee7-455c-84b4-a5008ae758b2"
 msgid ""
 "At 20th level, the flamewarden gains immunity to fire, and once per day, the "
@@ -21164,8 +21162,8 @@ msgid ""
 "The flamewarden's body re-forms with all his equipment, and he returns to "
 "life with half his maximum hit points."
 msgstr ""
-"20 레벨에 플레임워든은 화염에 면역이 됩니다. 또한, 플레임워든은 일주일에 한 번, 죽은지 1 라운드에 후에 재 속에서 다시 "
-"일어납니다. 플레임워든의 육체는 모든 장비와 함께 재생되고, 최대 생명점의 반을 가지고 되살아납니다."
+"20 레벨에 플레임워든은 화염에 면역이 됩니다. 또한, 플레임워든은 하루에 한 번, 죽고 1 라운드에 후에 재 속에서 다시 일어납니다. "
+"플레임워든의 육체는 모든 장비와 함께 재생되고, 최대 생명점의 반을 가지고 되살아납니다."
 
 #. Mechanics/Blueprints/Classes/Ranger/Archetypes/Flamewarden/FlamewardenPhoenixRising_m_DisplayName
 msgctxt "41125886-f94d-440f-9424-92eb6bf14311"
@@ -22402,11 +22400,13 @@ msgid ""
 "If any effect would prevent the rogue from adding her Strength modifier to "
 "the damage roll, she does not add her Dexterity modifier."
 msgstr ""
+"로그가 쌍절곤을 이용해 근접 공격에 성공하면, 피해 굴림에 힘 수정치 대신 민첩 수정치를 더합니다. 피해 굴림에 힘 수정치를 더하지 "
+"못하게 하는 효과를 받을 경우, 피해 굴림에 민첩 보너스를 더할 수 없습니다."
 
 #. Mechanics/Blueprints/Classes/Rogue/FinesseTraining/FinesseTrainingNunchaku_m_DisplayName
 msgctxt "15ce6266-f137-425d-9890-ad3ca146d7b9"
 msgid "Finesse Training (Nunchaku)"
-msgstr ""
+msgstr "기교 훈련 (쌍절곤)"
 
 #. Mechanics/Blueprints/Classes/Rogue/FinesseTraining/FinesseTrainingPunchingDagger_m_Description
 msgctxt "a73e1c6f-9991-4efa-b40d-24bb88148034"
@@ -22519,11 +22519,13 @@ msgid ""
 "roll. If any effect would prevent the rogue from adding her Strength "
 "modifier to the damage roll, she does not add her Dexterity modifier."
 msgstr ""
+"로그가 스타나이프를 이용해 근접 공격에 성공하면, 피해 굴림에 힘 수정치 대신 민첩 수정치를 더합니다. 피해 굴림에 힘 수정치를 더하지 "
+"못하게 하는 효과를 받을 경우, 피해 굴림에 민첩 보너스를 더할 수 없습니다."
 
 #. Mechanics/Blueprints/Classes/Rogue/FinesseTraining/FinesseTrainingStarknife_m_DisplayName
 msgctxt "70af1e75-ae38-46e8-bd1a-9a81e315ef9d"
 msgid "Finesse Training (Starknife)"
-msgstr ""
+msgstr "기교 훈련 (스타나이프)"
 
 #. Mechanics/Blueprints/Classes/Rogue/FinesseTraining/FinesseTrainingUnarmed_m_Description
 msgctxt "19222850-6bf9-477a-89bd-3fd78e7b4fe4"
