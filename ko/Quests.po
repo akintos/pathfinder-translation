@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-09-18 03:56+0000\n"
+"PO-Revision-Date: 2020-09-19 09:34+0000\n"
 "Last-Translator: ayame <eveforce@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/quests/ko/>\n"
@@ -145,7 +145,7 @@ msgid ""
 "silly troupe."
 msgstr ""
 "단 것 중독자들을 내보내는 게 쉬운 일은 아닙니다만, 우리의 {mf|남작|여남작|왕|여왕}은 경험없는 애송이가 아닙니다! 분명 "
-"{mf|그|그녀}는 이 바보 무리에게 어울리는 중요하고도 시급한 임무를 찾아낼 것 입니다."
+"{mf|그|그녀}는 이 철없는 친구들을 위해, 중요하고도 까다로운 일들을 찾아낼 꺼에요."
 
 #. Mechanics/Blueprints/World/Quests/1DLC/Errand_SweethTooth/Objective_TaskForSweet_Title
 msgctxt "ad5cc379-aa2e-4d3e-824e-3e275a87aa9e"
@@ -7980,7 +7980,7 @@ msgctxt "a00624fa-6a89-4a45-b744-f64eae886aaf"
 msgid ""
 "Ntavi asked to find her a bottle of wine. Shouldn't prove difficult at a "
 "feast..."
-msgstr "은타비는 와인 한 병을 구해달라고 부탁했습니다. 잔치에서 와인 한 병을 구하기란 그다지 어렵지 않겠지요..."
+msgstr "은타비는 와인 한 병을 구해달라고 부탁했습니다. 파티에서 와인 한 병을 구하기란 그다지 어렵지 않겠지요..."
 
 #. Mechanics/Blueprints/World/Quests/Companions/Ekun/Q1_A_Feast_For_a_Friend/Obj1_TalkToElina_Description
 msgctxt "daf2223d-2ca6-44b2-92a6-bbcad5806d16"
@@ -8005,7 +8005,7 @@ msgid ""
 "Hunting Grounds, in Kamelands. By the way, who should I invite to the party?"
 msgstr ""
 "에쿤의 오랜 친구 은타비와 엘리나 덕분에 덫을 놓는 일은 마무리 되었습니다. 이제 손님들과 에쿤을 끌어들이기만 하면 됩니다! 파티는 "
-"케임랜드의 사냥터(Hunting Grounds)에서 열릴 것입니다. 그건 그렇고, 누구누구를 잔치에 초대해야 할까요?"
+"케임랜드의 사냥터(Hunting Grounds)에서 열릴 것입니다. 그건 그렇고, 누구누구를 파티에 초대해야 할까요?"
 
 #. Mechanics/Blueprints/World/Quests/Companions/Ekun/Q1_A_Feast_For_a_Friend/Obj2_TakeEkunToTheForest_Title
 msgctxt "e1516e04-224b-4f0b-8484-961cee161afc"
@@ -8018,7 +8018,8 @@ msgid ""
 "The party is in full swing! And of course the baron{mf||ess} can't wait to "
 "talk to the hero of the hour. {mf|He|She} needs to seize the moment and talk "
 "to Ekun."
-msgstr "파티 준비가 끝났습니다! 이제 어서 남작가 잔치의 주인공에게 얘기를 꺼내야합니다. 기회를 잘 포착해서 에쿤을 끌어들여야합니다."
+msgstr ""
+"파티가 한창입니다! 물론 우리 남작님은 이 파티의 주인공과 대화할 시간을 기대하고 있습니다. 기회를 잘 포착해서 에쿤과 대화해야해요."
 
 #. Mechanics/Blueprints/World/Quests/Companions/Ekun/Q1_A_Feast_For_a_Friend/Obj3_TalkToEkun_Title
 msgctxt "71abcf7f-1717-4c74-83f5-012e5e1ff7cf"
@@ -8028,12 +8029,12 @@ msgstr "에쿤과 대화하라"
 #. Mechanics/Blueprints/World/Quests/Companions/Ekun/Q1_A_Feast_For_a_Friend/Obj4_TalkToNtavi_Description
 msgctxt "4e9be866-6cdc-48ad-8a7b-75459950724c"
 msgid "Ntavi asked for you to come to her to discuss something."
-msgstr "엔타비가 무언가 논의할 것이 있다며 당신을 불렀어요."
+msgstr "은타비가 무언가 상의할 것이 있다며 당신을 불렀어요."
 
 #. Mechanics/Blueprints/World/Quests/Companions/Ekun/Q1_A_Feast_For_a_Friend/Obj4_TalkToNtavi_Title
 msgctxt "8f86e5ef-0641-4bdd-9eac-13c87c0104c5"
 msgid "Talk to Ntavi"
-msgstr "엔타비와 대화하라"
+msgstr "은타비와 대화하라"
 
 #. Mechanics/Blueprints/World/Quests/Companions/Ekun/Q1_A_Feast_For_a_Friend/Obj5_TalkToLinzi_Description
 msgctxt "77121ec9-4061-4355-ad2f-1785f433d56d"
@@ -11265,7 +11266,7 @@ msgstr "섀이니아는 본업에 복귀했습니다. 더는 그녀 앞에 걸�
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/HumanFemaleExoticSmith/OneThousandAndOneUnthruthfulStories/Obj2.5_Waiting_Title
 msgctxt "8a559e0e-a6f3-4bc6-bd18-20bc4fdc24a8"
 msgid "Ensure that nothing distracts Shaynih'a"
-msgstr "섀이니아가 방해받지 않도록 해라"
+msgstr "샤이니아가 방해받지 않도록 해라"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/HumanFemaleExoticSmith/OneThousandAndOneUnthruthfulStories/Obj2_BadNewsOrGoodNews_Description
 msgctxt "6f739a24-69e7-47b7-8a54-fd2d4bfd4a16"
