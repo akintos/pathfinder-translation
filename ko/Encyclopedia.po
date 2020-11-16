@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-18 13:07+0900\n"
-"PO-Revision-Date: 2020-11-07 03:38+0000\n"
-"Last-Translator: Abraxas <netnk9151@hanmail.net>\n"
+"PO-Revision-Date: 2020-11-17 09:01+0000\n"
+"Last-Translator: JJ <howmindqwerty@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/encyclopedia/ko/>\n"
 "Language: ko\n"
@@ -1791,12 +1791,12 @@ msgstr ""
 #. Mechanics/Blueprints/Encyclopedia/Azata_Ghaele_Title_String
 msgctxt "5efde047-9edd-42b0-8d4c-f8d12b624863"
 msgid "Azata, Ghaele"
-msgstr "아자타, 게일"
+msgstr "아자타, 게일(Azata, Ghaele)"
 
 #. Mechanics/Blueprints/Encyclopedia/Azata_Title
 msgctxt "8a6a4e4f-376a-4929-aa94-6e289a03bd52"
 msgid "Azata"
-msgstr "아자타"
+msgstr "아자타(Azata)"
 
 #. Mechanics/Blueprints/Encyclopedia/BAB_BlockText_Text
 msgctxt "16ba293b-2bf1-47b9-8161-782b62a7ca5c"
@@ -1816,7 +1816,7 @@ msgstr ""
 #. Mechanics/Blueprints/Encyclopedia/BAB_Title
 msgctxt "1a155337-ffd3-4ba5-a512-5fc3db3a9792"
 msgid "Base Attack Bonus (BAB)"
-msgstr "기본 공격 보너스 (BAB)"
+msgstr "기본 공격 보너스 (BAB, Base Attack Bonus)"
 
 #. Mechanics/Blueprints/Encyclopedia/Back_ Dead_BlockText_Text
 msgctxt "a64d0a4e-d59e-4624-be75-29dfa726e225"
@@ -2704,7 +2704,7 @@ msgstr ""
 #. Mechanics/Blueprints/Encyclopedia/Bogeyman_Title_String
 msgctxt "6053e34d-f61c-4cea-9541-72cb3cc54eff"
 msgid "Bogeyman"
-msgstr "부기맨"
+msgstr "부기맨(Bogeyman)"
 
 #. Mechanics/Blueprints/Encyclopedia/Bonus_Types_BlockText_Text
 msgctxt "da44cdc1-2207-4f87-89f8-e83cf8f5a597"
@@ -2727,7 +2727,7 @@ msgstr ""
 #. Mechanics/Blueprints/Encyclopedia/Bonus_Types_Title
 msgctxt "c802f875-6e7a-4c17-b21b-3d06c261c66b"
 msgid "Bonus Types"
-msgstr "보너스 유형"
+msgstr "보너스 유형(Bonus Types)"
 
 #. Mechanics/Blueprints/Encyclopedia/Buffs_BlockText_Text
 msgctxt "bbb27f52-31de-4afe-8971-706ee3dae889"
@@ -2821,22 +2821,22 @@ msgid ""
 "In some situations (such as in a surprise round), you may be limited to "
 "taking only a single move action or standard action."
 msgstr ""
-"행동의 종류는 기본적으로 행동을 수행하는데 얼마나 시간이 드는지를 알려주며(전투 한 라운드가 6초가 걸린다는 사실을 기준으로) 이동이 "
-"어떻게 처리되는지 알려줍니다.\n"
-"행동은 5가지 종류가 존재합니다:\n"
-"<link=\"Encyclopedia:Standard_Actions\"><b>일반 행동</b></link>\n"
-"<link=\"Encyclopedia:Move_Action\"><b>이동 행동</b></link>\n"
-"<link=\"Encyclopedia:Full_Round_Action\"><b>라운드 전체 행동</b></link>\n"
-"<link=\"Encyclopedia:Swift_Action\"><b>신속 행동</b></link>\n"
-"<link=\"Encyclopedia:Free_Action\"><b>자유 행동</b></link>\n"
-"일반적으로 라운드 하나를 진행할 때는 일반 행동과 이동 행동을 함께 수행하거나, 라운드 전체 행동을 하나 수행할 수 있습니다. 또한 신속 "
-"행동 하나와 하나 그 이상의 자유 행동을 수행할 수 있습니다. 일반 행동은 언제든 이동 행동으로 대신할 수 있습니다.\n"
-"특정 상황(기습 라운드같은 경우)의 경우, 취할 수 있는 행동은 이동 행동 하나, 혹은 일반 행동 하나로 제한됩니다."
+"행동 유형은 당신에게 그 행동에 걸리는 시간과 (6초의 전투 라운드의 골조 안에서) 움직임이 어떻게 취급되는지 알려줍니다.\n"
+"행동 유형에는 다섯 가지가 있습니다.\n"
+"<link=\"Encyclopedia:Standard_Actions\"><b>기본</b></link>\n"
+"<link=\"Encyclopedia:Move_Action\"><b>이동</b></link>\n"
+"<link=\"Encyclopedia:Full_Round_Action\"><b>라운드 전체</b></link>\n"
+"<link=\"Encyclopedia:Swift_Action\"><b>신속</b></link>\n"
+"<link=\"Encyclopedia:Free_Action\"><b>자유</b></link>\n"
+"통상 하나의 라운드에서, 당신은 하나의 기본 행동과 하나의 이동 행동, 혹은 하나의 라운드 전체 행동을 수행할 수 있습니다. 당신은 또한 "
+"하나의 신속 행동과 하나 혹은 그 이상의 자유 행동들을 수행할 수 있습니다. 당신은 언제나 기본 행동을 대신하여 이동 행동을 취할 수 "
+"있습니다.\n"
+"몇몇의 상황(surprise 라운드와 같은), 당신은 오직 하나의 이동 행동 혹은 하나의 기본 행동만 취할 수 있도록 제한될 수 있습니다."
 
 #. Mechanics/Blueprints/Encyclopedia/CA_Types_Title
 msgctxt "45e9439a-c194-472e-822c-c40923cfdc1d"
 msgid "Action Types"
-msgstr "행동 종류"
+msgstr "행동 유형(Action Types)"
 
 #. Mechanics/Blueprints/Encyclopedia/CMB_BlockText_Text
 msgctxt "cfe6d1bf-a7c6-4a3c-b64f-aac62dad9699"
@@ -2861,6 +2861,22 @@ msgid ""
 "Some feats and abilities grant a bonus to your CMB when performing specific "
 "maneuvers."
 msgstr ""
+"각 캐릭터와 크리처는 전법을 수행할 때 나타나는 전법 보너스(Combat Maneuver Bonus, CMB)를 가지고 있습니다. "
+"크리처의 CMB는 다음의 공식에 따라 결정됩니다:\n"
+"CMB = <link=\"Encyclopedia:BAB\"><b>기본 공격 보너스(BAB)</b></link> + <link="
+"\"Encyclopedia:Strength\"><b>힘</b></link> 수정치 + 특별 <link=\"Encyclopedia:"
+"Size\"><b>크기</b></link> 수정치\n"
+"크리처의 전법 보너스를 위한 특별 크기 수정치는 다음과 같습니다:\n"
+"• 미세형(Fine) –8\n"
+"• 극소형(Diminutive) –4\n"
+"• 초소형(Tiny) –2\n"
+"• 소형(Small) –1\n"
+"• 중형(Medium) +0\n"
+"• 대형(Large) +1\n"
+"• 거대형(Huge) +2\n"
+"• 초대형(Gargantuan) +4\n"
+"• 초거대형(Colossal) +8\n"
+"몇몇의 특성과 능력은 특정한 전법들을 수행할 때, 당신의 CMB에 보너스를 부여합니다."
 
 #. Mechanics/Blueprints/Encyclopedia/CMB_Title
 msgctxt "ee84c329-7c38-4f61-9ddc-fa7ad6673fd2"
@@ -2895,6 +2911,25 @@ msgid ""
 "creature's <link=\"Encyclopedia:Armor_Class\"><b>AC</b></link> also apply to "
 "its CMD. A flat-footed creature does not add its Dexterity bonus to its CMD."
 msgstr ""
+"각 캐릭터와 크리처는 전법에 저항하는 능력을 나타내는 전법 방어도(Combat Maneuver Defense, CMD)를 가지고 "
+"있습니다. 크리처의 CMD는 다음의 공식에 따라 결정됩니다:\n"
+"CMD = 10 + 기본 공격 보너스 + <link=\"Encyclopedia:Strength\"><b>힘</b></link> 수정치 + "
+"<link=\"Encyclopedia:Dexterity\"><b>민첩</b></link> 수정치 + 특별 <link="
+"\"Encyclopedia:Size\"><b>크기</b></link> 수정치 + 기타 수정치\n"
+"크리처의 전법 방어도를 위한 특별 크기 수정치는 다음과 같습니다:\n"
+"• 미세형(Fine) –8\n"
+"• 극소형(Diminutive) –4\n"
+"• 초소형(Tiny) –2\n"
+"• 소형(Small) –1\n"
+"• 중형(Medium) +0\n"
+"• 대형(Large) +1\n"
+"• 거대형(Huge) +2\n"
+"• 초대형(Gargantuan) +4\n"
+"• 초거대형(Colossal) +8\n"
+"몇몇의 특성과 능력은 특정한 전법들에 저항할 때, 당신의 CMD에 보너스를 부여합니다.\n"
+"또한 크리처는 AC에 대한 상황, 굴절, 피하기, 통찰, 행운, 사기 및 불경과 신성 보너스를 CMD에 추가 할 수 있습니다. 크리처의 "
+"<link=\"Encyclopedia:Armor_Class\"><b>AC</b></link>에 대한 페널티는 CMD에도 적용됩니다. "
+"무방비 상태의 크리처는 CMD에 민첩 보너스를 추가하지 않습니다."
 
 #. Mechanics/Blueprints/Encyclopedia/CMD_Title
 msgctxt "0d08198b-7767-4c5c-a056-e95e3075540f"
@@ -3080,7 +3115,7 @@ msgstr ""
 #. Mechanics/Blueprints/Encyclopedia/Caster_Level_Title
 msgctxt "dfb34498-61df-49b1-af18-0a84ce47fc98"
 msgid "Caster Level"
-msgstr ""
+msgstr "시전자 레벨(Caster Level)"
 
 #. Mechanics/Blueprints/Encyclopedia/Casting_Spells_BlockText_Text
 msgctxt "34fcf33a-62ff-47a9-8d5a-5bd24510e174"
@@ -3088,11 +3123,13 @@ msgid ""
 "Whether a spell is arcane or divine, and whether a character prepares spells "
 "in advance or chooses them on the spot, casting a spell works the same way."
 msgstr ""
+"주문이 비전 혹은 신성인지와 상관없이, 그리고 캐릭터가 사전에 주문을 시전하는지 그 자리에서 주문을 선택하는지와 상관없이, 주문 시전은 "
+"같은 방식으로 동작합니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Casting_Spells_Title
 msgctxt "6640238b-7e89-4e8c-af5c-70e221e64e8c"
 msgid "Casting Spells"
-msgstr ""
+msgstr "주문 시전(Casting Spells)"
 
 #. Mechanics/Blueprints/Encyclopedia/Casting_Time_BlockText_Text
 msgctxt "d221e7db-4f57-4e99-bb95-8085ebe14949"
@@ -3117,7 +3154,7 @@ msgstr ""
 #. Mechanics/Blueprints/Encyclopedia/Casting_Time_Title
 msgctxt "8260b487-4d0b-491f-bf6a-8ff2166115ca"
 msgid "Casting Time"
-msgstr ""
+msgstr "시전 시간(Casting Time)"
 
 #. Mechanics/Blueprints/Encyclopedia/Cayden_Cailean_BlockText_Text
 msgctxt "d05859b2-8be2-41c0-b835-79f36eb416f2"
@@ -3228,7 +3265,7 @@ msgstr ""
 #. Mechanics/Blueprints/Encyclopedia/Cayden_Cailean_Title
 msgctxt "2affb6a7-ebf5-434e-a577-a8e08f417552"
 msgid "Cayden Cailean"
-msgstr ""
+msgstr "케이든 케일리엔(Cayden Cailean)"
 
 #. Mechanics/Blueprints/Encyclopedia/CentipedeGiant_BlockText_Text_String
 msgctxt "2494c9ff-3973-4ce1-b1b0-d04ad9c81aff"
@@ -3240,11 +3277,14 @@ msgid ""
 "bright reds and fiery oranges. Other species of giant centipedes exist as "
 "well, some smaller but most quite a bit larger."
 msgstr ""
+"거대 지네는 독성이 있는 턱뼈로 가까이 있는 어떤 살아있는 생명체라도 공격합니다. 이 생물은 많은 환경들에 적응하여 인간형 생물을 포함한 "
+"지역의 동물들을 게걸스럽게 먹어치웁니다. 거대 지네의 천연색은 평범한 지네의 천연색과 비슷하며, 그 스펙트럼은 평범한 빛깔에서부터 밝은 "
+"빨간색과 불타는 듯한 오랜지색까지 다양합니다. 거대 지네의 다른 종도 또한 존재하며, 몇몇은 더 작지만, 대다수는 약간 더 큽니다."
 
 #. Mechanics/Blueprints/Encyclopedia/CentipedeGiant_Title_String
 msgctxt "cf20cb7c-eafc-4234-b645-22dc3f848a0a"
 msgid "Centipede, Giant"
-msgstr ""
+msgstr "지네, 거대(Centipede, Giant)"
 
 #. Mechanics/Blueprints/Encyclopedia/Chaos_Domain_BlockText_Text
 msgctxt "fc377cb8-e261-4819-922f-4fab2f027ed1"
@@ -3261,11 +3301,17 @@ msgid ""
 "level. You can use this ability once per day at 8th level, and an additional "
 "time per day for every four levels beyond 8th."
 msgstr ""
+"당신의 손길은 생명과 무기에 혼돈의 힘을 불어넣으며, 무질서한 모든 것에서 기쁨을 느낍니다.\n"
+"<b>혼돈의 손길(Touch of Chaos):</b> 대상에게 근접 접촉 공격을 통해 혼돈을 불어넣을 수 있습니다. 다음 라운드 동안 "
+"대상은 d20을 굴릴 때마다 두 번 굴려 둘 중 더 안 좋은 결과를 취합니다. 하루에 3 + <link=\"Encyclopedia:"
+"Wisdom\"><b>지혜</b></link> 수정치 만큼 이 능력을 사용할 수 있습니다.\n"
+"<b>혼돈의 칼날(Chaos Blade):</b> 8 레벨에 하나의 무기에 클레릭 레벨의 1/2 라운드 동안 무질서 특수 무기 성질을 "
+"부여할 수 있습니다. 8 레벨에 이 능력을 한 번 사용할 수 있고, 이후 레벨이 4 오를 때마다 한 번 더 추가로 사용할 수 있습니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Chaos_Domain_Title
 msgctxt "6046cce4-94a1-4004-a244-d3da21f7868a"
 msgid "Chaos Domain"
-msgstr ""
+msgstr "혼돈 영역(Chaos Domain)"
 
 #. Mechanics/Blueprints/Encyclopedia/Character_Class_BlockText_Text
 msgctxt "ba51cb9a-8194-4411-82d6-924f9ecdf433"
@@ -3274,28 +3320,30 @@ msgid ""
 "most of their powers, and it gives them a specific role in any adventuring "
 "party"
 msgstr ""
+"캐릭터의 클래스는 게임의 본질적인 특징 중 하나입니다. 클래스는 대부분의 능력의 원천이며, 모험하는 일행 안에서 캐릭터에 특별한 역할을 "
+"부여합니다"
 
 #. Mechanics/Blueprints/Encyclopedia/Character_Class_Title
 msgctxt "245f6aac-31a2-4cbe-9629-3a3fdd4a65d1"
 msgid "Character Class"
-msgstr ""
+msgstr "캐릭터 클래스(Character Class)"
 
 #. Mechanics/Blueprints/Encyclopedia/Character_Creation_Title
 msgctxt "653f91a6-e5c7-466c-9acb-d45c7545963d"
 msgid "Character Creation"
-msgstr ""
+msgstr "캐릭터 생성(Character Creation)"
 
 #. Mechanics/Blueprints/Encyclopedia/Character_Level_BlockText_Text
 msgctxt "1ae54d0e-b00e-4c45-803c-3854d7afeff9"
 msgid ""
 "The total level of the character, which is the sum of all class levels held "
 "by that character."
-msgstr ""
+msgstr "캐릭터 레벨은 해당 캐릭터가 보유한 모든 클래스 레벨의 합계입니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Character_Level_Title
 msgctxt "e59443c2-b74d-435d-93ff-8195a33525b7"
 msgid "Character Level"
-msgstr ""
+msgstr "캐릭터 레벨(Character Level)"
 
 #. Mechanics/Blueprints/Encyclopedia/Charge_BlockText 1_Text
 msgctxt "6e4d5f14-c09e-4e69-9a35-7b055cb52015"
@@ -3321,6 +3369,18 @@ msgid ""
 "Draw feat. You can't use this option unless you are restricted to taking "
 "only a standard action on your turn."
 msgstr ""
+"<b>돌격 중 움직임(Movement During a Charge)</b>\n"
+"돌격은 공격 이전에 사용해야만 합니다. 돌격은 10 피트 이상의 직선 경로가 확보되어야 사용할 수 있으며, 원하는 적을 향해 직진으로 "
+"2배의 이동 속도로 움직일 수 있습니다. 만약 이동한 거리가 이동 속도와 같거나 적고, 만약 기본 공격 보너스가 적어도 +1이라면, "
+"당신은 돌격 공격 중에 무기를 꺼낼 수 있습니다.\n"
+"당신과 적과의 사이에는 아무것도 없어야 하고, 그 무엇도 (어려운 지형 혹은 장애물일지라도) 당신의 움직임을 막을 수 없습니다. 당신은 "
+"적을 공격할 수 있는 가장 가까운 거리로 움직여야만 합니다. 만약 이 공간에 누군가 있거나 막혀져 있다면, 당신은 돌격할 수 없습니다. "
+"시작하는 지점과 끝의 지점을 잇는 선 사이에 움직임을 막거나, 느리게 하거나, 생명체가 (아군을 포함하여) 있는 지역이 있다면, 당신은 "
+"돌격할 수 없습니다. 무력한 생물체는 돌격을 막지 않습니다.\n"
+"만약 당신의 턴이 시작될 때, 적에 대한 시야가 없어 선을 그을 수 없다면, 당신은 그 적에 돌격하지 못합니다.\n"
+"만약 당신의 턴에 기본 행동만 취할 수 있는 상태라면, 당신은 여전히 돌격할 수 있지만, 오직 (2배의 이동 속도 대신에) 현재의 이동 "
+"속도로만 이동 가능하고, Quick Draw 특성을 가지고 있지 않는 이상, 무기를 꺼낼 수 없습니다. 당신은 당신의 턴에 오직 기본 "
+"행동만 취할 수 있도록 제한되는 상태가 아니라면 이 옵션을 사용할 수 없습니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Charge_BlockText 2_Text
 msgctxt "b57b2ba6-2761-49d2-a332-9773251f614e"
@@ -3350,6 +3410,9 @@ msgid ""
 "as a part of the action. Charging, however, carries tight restrictions on "
 "how you can move."
 msgstr ""
+"돌격은 행동의 한 종류로써 당신의 이동 속도를 두 배로 올려주고 공격할 수 있게 하는 특별한 <link=\"Encyclopedia:"
+"Full_Round_Action\"><b>라운드 전체 행동</b></link>입니다. 돌격은, 그러나, 당신이 어떻게 움직이는지에 대한 "
+"강한 제약을 수반합니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Charge_Title
 msgctxt "bbb83294-9835-40e1-b89b-32e1e99aec8e"
@@ -3379,12 +3442,12 @@ msgstr ""
 #. Mechanics/Blueprints/Encyclopedia/Charisma_Title
 msgctxt "bdfc093c-8039-4baf-aaa0-be4458d05fbf"
 msgid "Charisma (Cha)"
-msgstr ""
+msgstr "매력(Charisma (Cha))"
 
 #. Mechanics/Blueprints/Encyclopedia/Charm_Domain_Title
 msgctxt "a27a7d8f-5a60-4993-b73c-2d646567acb2"
 msgid "Charm Domain"
-msgstr ""
+msgstr "매혹 영역(Charm Domain)"
 
 #. Mechanics/Blueprints/Encyclopedia/Choosing_Spell_BlockText_Text
 msgctxt "a75d806a-47bf-4640-80d0-142b3211d72b"
@@ -3405,11 +3468,21 @@ msgid ""
 "against your daily limit for spells of that spell level, but you can cast "
 "the same spell again if you haven't reached your limit."
 msgstr ""
+"먼저, 당신은 시전할 주문을 골라야 합니다. 당신이 만약 클레릭, 드루이드, 숙련된 팔라딘, 숙련된 레인저, 메이거스 혹은 위저드라면, "
+"당신은 그날 미리 준비되었고 아직 시전하지 않은 주문들 가운데에서 고릅니다.\n"
+"만약 당신이 바드, 인퀴지터, 혹은 소서러라면, 당신의 시전이 가능한 레벨과 같거나 더 높은 주문에 가운데에서, 알고 있는 어떤 주문이든 "
+"고를 수 있습니다.\n"
+"주문을 시전하기 위해서는, 당신은 말할 수 있어야 합니다. 더해서, 당신은 주문 시전에 집중해야만 합니다.\n"
+"주문이 하나 이상의 형태가 있다면, 당신은 주문을 시전할 때 형태를 고릅니다. 당신은 그 주문의 특정한 형태를 준비(바드 혹은 소서러의 "
+"경우 배우거나)할 필요가 없습니다.\n"
+"만약 당신이 준비된 주문을 시전했다면, 당신은 다시 준비되기 전까지는 그 주문을 시전할 수 없습니다. (만약 당신이 단일한 주문의 하나 "
+"이상의 복사본을 준비해 놓았다면, 당신은 각각의 복사본을 한 번씩 시전할 수 있습니다.) 만약 당신이 바드 혹은 소서러라면, 주문 시전은 "
+"당신의 주문 레벨에 해당하는 매일의 주문 제한량만큼 가능합니다. 당신은 제한량에 도달하지 않는 한 같은 주문을 다시 시전할 수 있습니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Choosing_Spell_Title
 msgctxt "1bb4ae1a-5c58-4d28-82d2-8c00b6101eb4"
 msgid "Choosing a Spell"
-msgstr ""
+msgstr "주문 선택(Choosing a Spell)"
 
 #. Mechanics/Blueprints/Encyclopedia/Class_BlockText_Text
 msgctxt "07ffa3d3-66ad-4d49-9c44-8d92b6586ee9"
@@ -3424,33 +3497,38 @@ msgid ""
 "If your character is a spell caster that prepares spells (such as a wizard) "
 "you will need to determine the spells your character starts with."
 msgstr ""
+"캐릭터의 클래스는 게임의 본질적인 특징 중 하나입니다. 클래스는 대부분의 능력의 원천이며, 모험하는 일행 안에서 캐릭터에 특별한 역할을 "
+"부여합니다.\n"
+"캐릭터의 클래스는 파이터 혹은 위저드와 같은 직업을 나타냅니다. 새로운 캐릭터는 고른 클래스의 1 레벨부터 시작합니다. 캐릭터가 몬스터를 "
+"격퇴하여 경험치 (XP)를 얻을 때마다, 그들은 레벨이 상승하며, 새로운 능력을 부여받습니다.\n"
+"만약 당신의 캐릭터가 주문을 준비해야 하는 주문 시전자 (위저드처럼) 당신은 가지고 시작할 주문을 결정할 필요가 있습니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Class_Level_BlockText_Text
 msgctxt "7f543eeb-3746-4b64-9a0e-79d9ff436f26"
 msgid ""
 "The level of a character in a particular class. For a character with levels "
 "in only one class, class level and character level are the same."
-msgstr ""
+msgstr "특정한 클래스 안에서의 캐릭터의 레벨. 하나의 클래스만 가지고 있는 캐릭터는 클래스 레벨과 캐릭터 레벨이 같습니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Class_Level_Title
 msgctxt "d80f16b7-331e-4254-b113-bf72beb16189"
 msgid "Class Level"
-msgstr ""
+msgstr "클래스 레벨(Class Level)"
 
 #. Mechanics/Blueprints/Encyclopedia/Class_Title
 msgctxt "a60dc495-fc08-427c-8d09-fdadbbf1eaf9"
 msgid "Class"
-msgstr ""
+msgstr "클래스(Class)"
 
 #. Mechanics/Blueprints/Encyclopedia/Classes_Title
 msgctxt "8ca68544-44aa-4f12-ba0c-4f4a9c974271"
 msgid "Classes"
-msgstr ""
+msgstr "클래스(Classes)"
 
 #. Mechanics/Blueprints/Encyclopedia/ClericTable_Title
 msgctxt "f3da2ec2-9660-4cc1-9cf9-2a753b3317a6"
 msgid "Cleric"
-msgstr ""
+msgstr "클레릭(Cleric)"
 
 #. Mechanics/Blueprints/Encyclopedia/Cleric_BlockText_Text
 msgctxt "84fe9ca5-fef7-4dce-b109-2fa1da131058"
@@ -3564,12 +3642,12 @@ msgstr ""
 #. Mechanics/Blueprints/Encyclopedia/Cleric_Title
 msgctxt "b30699f4-963d-410b-9070-a6e9efd517e7"
 msgid "Cleric"
-msgstr ""
+msgstr "클레릭(Cleric)"
 
 #. Mechanics/Blueprints/Encyclopedia/Combat-1-Title-new_String
 msgctxt "ee0396b5-cfb5-4312-b842-a6686763fb97"
 msgid "Combat"
-msgstr ""
+msgstr "전투(Combat)"
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_Action_BlockText 1_Text
 msgctxt "bb3a9b4b-01a2-4908-84a8-6e048d7b7565"
@@ -3590,18 +3668,30 @@ msgid ""
 "used. Characters without these feats can't attempt the special attacks "
 "detailed in those feats."
 msgstr ""
+"<b>전투 옵션의 유형(Types of Combat Options)</b>\n"
+"많은 공격들은 어떤 캐릭터라도 시도할 수 있는 기본 전투 옵션 혹은 전법으로 구성됩니다. 반면에 다른 몇몇의 공격들은 공격에 기반한 "
+"특기(feat)로서만 사용할 수 있습니다. 다른 전투 옵션은 다른 행동 유형(types of actions)을 요구합니다. 행동 유형은 "
+"어떤 옵션들이 함께 사용할 수 있는지를 정의합니다.\n"
+"<b>기본(Basic):</b> 누구나 이 전투 옵션을 사용할 수 있습니다. 돌격(charging)과 방어적 전투(fighting "
+"defensively)를 포함합니다.\n"
+"<b>전법(Combat Maneuvers):</b> 전법은 당신의 <link=\"Encyclopedia:CMB\"><b>전법 "
+"보너스</b></link>와 <link=\"Encyclopedia:CMD\"><b>전법 방어도</b></link>를 사용하는 기본 "
+"행동들의 특정한 집합입니다.\n"
+"<b>특기(Feats):</b> 수많은 특기는 추가적인 전투 옵션을 제공합니다. 베어 가르기(Cleave)와 강렬한 타격(Power "
+"Attack)과 같은 특기가 있습니다. 각각의 특기는 그 특기를 사용가능한 상황을 규정해 놓았습니다. 이 특기들이 없는 캐릭터는 그 "
+"특기에서 정해놓은 특별한 공격을 시도할 수 없습니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_Action_BlockText_Text
 msgctxt "c7cb8542-8dc7-43fa-8db1-f8a0e1ae8e24"
 msgid ""
 "During one turn, there are a wide variety of actions that your character can "
 "perform, from swinging a sword to casting a spell."
-msgstr ""
+msgstr "한 턴 동안, 칼을 휘두르는 것에서 주문을 시전하는 것까지, 당신의 캐릭터는 다양한 행동을 수행할 수 있습니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_Action_Title
 msgctxt "75c93fa4-fd9f-4335-9e87-eaa0074aff1d"
 msgid "Combat Actions"
-msgstr ""
+msgstr "전투 행동(Combat Actions)"
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_BlockText 1_Text
 msgctxt "22630522-b2b6-4f0b-a505-6d68d8abdfdf"
@@ -3710,11 +3800,18 @@ msgid ""
 "first). If there is still a tie, the tied characters should roll to "
 "determine which one of them goes before the other."
 msgstr ""
+"전투가 시작되면, 전투에 참가하는 모든 캐릭터는 우선권이 판정됩니다. 우선권이 높으면 높을 수록 캐릭터가 더 빨리 행동할 수 있습니다. "
+"우선권의 수치는 전투기록에서 확인이 가능합니다. 전투는 여러 라운드로 나뉘어 있으며, 한 라운드가 끝나려면 6초가 경과해야 합니다. "
+"우선권의 수치는 한번 정해지면 모든 라운드에 적용되고 그 이후로는 변동이 없습니다.\n"
+"우선권 판정은 <link=\"Encyclopedia:Dexterity\"><b>민첩</b></link> 판정입니다. 각 캐릭터는 특성, "
+"주문, 다른 효과들과 함께 민첩 수정치를 굴림에 적용합니다. 캐릭터의 행동 순서는, 높은 우선권 수치부터 낮은 우선권 수치까지입니다.\n"
+"만약 둘 이상의 전투원이 같은 우선권 판정을 가지고 있다면, 총 우선권 수정치에 따라 (높은 순서부터) 행동합니다. 그래도 같다면, 먼저 "
+"행동할 캐릭터를 결정하기 위해 주사위를 굴립니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_Initiative_Title_String
 msgctxt "a3caa1e5-9f93-41f0-9a1d-9dc526d6bfbf"
 msgid "Initiative"
-msgstr ""
+msgstr "우선권(Initiative)"
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_Maneuvers_BlockText 1_Text
 msgctxt "64743c69-ddf7-4c11-9259-35732c3a4681"
@@ -3743,6 +3840,12 @@ msgid ""
 "Some feats and abilities grant a bonus to your CMB when performing specific "
 "maneuvers."
 msgstr ""
+"<b>특별 크기 수정치(Special Size Modifier)</b>\n"
+"CMB를 결정함에 있어서 초소형(Tiny)과 그 이하의 <link=\"Encyclopedia:Size\"><b>크기</b></link>를 "
+"가진 크리처는 민첩 수정치를 힘 수정치 대신에 사용합니다. 크리처의 전법 보너스를 위한 특별 크기 수정치는 다음과 같습니다:\n"
+"미세형(Fine) –8, 극소형(Diminutive) –4, 초소형(Tiny) –2, 소형(Small) –1, 중형(Medium) +0, "
+"대형(Large) +1, 거대형(Huge) +2, 초대형(Gargantuan) +4, 초거대형(Colossal) +8.\n"
+"몇몇의 특성과 능력은 특정한 전법들을 수행할 때, 당신의 CMB에 보너스를 부여합니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_Maneuvers_BlockText 3_Text
 msgctxt "8e9364e2-2df8-45f3-98f9-49b949e281e9"
@@ -3808,6 +3911,11 @@ msgid ""
 "does not add its <link=\"Encyclopedia:Dexterity\"><b>Dexterity</b></link> "
 "bonus to its CMD."
 msgstr ""
+"<b>기타 수정치(Miscellaneous Modifiers)</b>\n"
+"크리처는 또한 상황, 굴절, 피하기, 통찰, 행운, 사기 및 불경과 신성 보너스에 따라 AC에 보너스를 <link="
+"\"Encyclopedia:CMD\"><b>CMD</b></link>에 추가 할 수 있습니다. 크리처의 <link="
+"\"Encyclopedia:Armor_Class\"><b>AC</b></link>에 대한 페널티는 CMD에도 적용됩니다. 무방비 상태의 "
+"크리처는 CMD에 <link=\"Encyclopedia:Dexterity\"><b>민첩</b></link> 보너스를 추가하지 않습니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_Maneuvers_BlockText 7_Text
 msgctxt "fcc6970f-70bd-4f01-8539-3fec8664e7fc"
@@ -3821,6 +3929,11 @@ msgid ""
 "except when attempting to escape from bonds) while rolling a natural 1 is "
 "always a failure."
 msgstr ""
+"<b>성공 결정(Determine Success)</b>\n"
+"만약 당신의 공격 굴림이 목표물의 <link=\"Encyclopedia:CMD\"><b>CMD</b></link>와 같거나 더 높다면, "
+"당신의 전법은 성공하고 적힌 효과를 갖게 됩니다. 몇몇의 전법,  황소 돌진(bull rush)의 경우는 얼마나 당신의 공격 굴림이 "
+"목표물의 CMD를 초과했는지에 따라 성공의 수준이 달라집니다. 전법을 시도할 때 굴림값이 순수 20이면 항상 (속박에서 벗어나는 것을 "
+"시도할 때를 제외하고는) 성공합니다. 반면에 굴림값이 순수 1이면 항상 실패합니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_Maneuvers_BlockText 8_Text
 msgctxt "ae04c7a2-be35-4efb-9952-af610bf623d3"
@@ -3838,6 +3951,13 @@ msgid ""
 "Some creatures — such as oozes, creatures without legs, and flying creatures "
 "— cannot be tripped."
 msgstr ""
+"<b>넘어뜨리기(Trip)</b>\n"
+"근접 공격을 대신해서 상대방에게 넘어뜨리기를 시도 할 수 있습니다. 자신보다 <link=\"Encyclopedia:Size\""
+"><b>크기</b></link>가 한 사이즈 큰 크리처까지만 넘어뜨릴 수 있습니다. 만약 당신이 넘어뜨리기 특성, 혹은 비슷한 능력을 "
+"가지고 있지 않다면, 넘어뜨리기를 시도하는 것은 당신의 전법의 목표물로부터 기회공격을 유발합니다.\n"
+"공격이 대상의 <link=\"Encyclopedia:CMD\"><b>CMD</b></link> 보다 높게 나올 경우 대상을 넘어뜨려서 "
+"쓰러짐 상태로 만듭니다. 대상의 다리가 두 개보다 많을 경우, 추가 다리 개수 당 전법 명중 굴림의 DC를 +2합니다. 몇 몇 크리처는 -"
+" 우즈와 같이 다리가 없거나 날아다디는 크리처 - 넘어뜨릴 수 없습니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_Maneuvers_BlockText_Text_String
 msgctxt "7eba7f89-f800-4eb3-a390-3cbe8423993b"
@@ -3846,6 +3966,8 @@ msgid ""
 "hinder or even cripple your foe. Although these maneuvers have vastly "
 "different results, they all use a similar mechanic to determine success."
 msgstr ""
+"전투 동안, 당신은 적을 방해하거나 심지어 무력화하는 많은 전법들을 시도할 수 있습니다. 이 전법들이 매우 다른 결과를 낼지라도, 전법의 "
+"성공을 결정하는 방법은 비슷합니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_Maneuvers_Title_String
 msgctxt "9fd3e63c-6f9e-4a17-b59a-f427824bfb6c"
@@ -3863,7 +3985,7 @@ msgstr ""
 #. Mechanics/Blueprints/Encyclopedia/Combat_Modifiers_Title
 msgctxt "ce326753-69f2-4030-852c-2a7b45141401"
 msgid "Combat Modifiers"
-msgstr ""
+msgstr "전투 수정치(Combat Modifiers)"
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_Movement_BlockText 1_Text
 msgctxt "c94d5598-f17f-40ba-a20e-e5329eb70663"
@@ -16020,7 +16142,7 @@ msgstr ""
 #. Mechanics/Blueprints/Encyclopedia/XP_Title
 msgctxt "fc437f4e-f340-4a44-990d-19c94df2c968"
 msgid "Experience Points (XP)"
-msgstr ""
+msgstr "경험치(Experience Points (XP))"
 
 #. Mechanics/Blueprints/Encyclopedia/Zombie_BlockText_Text_String
 msgctxt "e88665bf-ef50-49f8-8c85-62960a94eb90"
