@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-11-14 21:04+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2020-11-26 15:01+0000\n"
+"Last-Translator: 박진웅 <mauar82@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/general/ko/>\n"
 "Language: ko\n"
@@ -8731,7 +8731,7 @@ msgid ""
 msgstr ""
 "\"당신이 옳다고 생각하는 일을 하고 다른 이들이 그 문제에 대해 이러쿵저러쿵 하도록 내버려두십시오. 당신도 알다시피 모든 사람이 "
 "당신처럼 바론이 될 기회를 갖는 건 아닙니다. 그러니 바론의 행동에 대해 토론하는 것은 그 운없는 사람들이 할 수 있는 유일한 일인 "
-"샘이지요.\"\n"
+"셈이지요.\"\n"
 "- 주빌로스트 나쓰로플"
 
 #. Mechanics/Blueprints/LoadingScreenHints/LoadingScreenHints_Hints.Array.data[1]_String
@@ -8852,7 +8852,7 @@ msgstr ""
 #. Mechanics/Blueprints/LoadingScreenHints/LoadingScreenHints_Hints.Array.data[31]_String
 msgctxt "78c69b66-ed8a-422f-81ab-e7249dcea9e0"
 msgid "Use light weapons for two-weapon fighting — they have lower penalties."
-msgstr "쌍수 무기를 들어 싸울 때는 가벼운 무기를 사용하십시오. 페널티가 적습니다."
+msgstr "쌍수 무기를 들고 싸울 때는 가벼운 무기를 사용하십시오. 페널티가 적습니다."
 
 #. Mechanics/Blueprints/LoadingScreenHints/LoadingScreenHints_Hints.Array.data[32]_String
 msgctxt "c382dd31-cc75-4c1c-8044-5e1c1a39be9f"
@@ -10373,7 +10373,7 @@ msgid ""
 "Dwarves are proficient with battleaxes, heavy picks, and warhammers, and "
 "treat any weapon with the word \"dwarven\" in its name as a martial weapon."
 msgstr ""
-"드워프는 전투도끼, 중형 곡괭이, 전투망치에 숙련되어 있고, 군용 무기 중 이름에 \"드워프\"가 들어간 모든 무기를 다룰 수 있습니다."
+"드워프는 전투도끼, 중형 곡괭이, 전투망치에 숙련되어 있고, 이름에 \"드워프\"가 들어간 모든 무기를 군용 무기처럼 다룰 수 있습니다."
 
 #. Mechanics/Blueprints/Traits/Races/Dwarf/DwarvenWeaponFamiliarity_m_DisplayName
 msgctxt "db2c9339-8082-429e-b54d-c899b133cc24"
@@ -10465,8 +10465,8 @@ msgid ""
 "longswords, rapiers, and shortbows (including composite shortbows), and "
 "treat any weapon with the word \"elven\" in its name as a martial weapon."
 msgstr ""
-"엘프는 장궁, 합성 장궁, 장검, 레이피어 및 단궁, 합성 단궁에 숙련되어 있으며 군용 무기 중 이름에 \"엘프\"이라는 단어가 있는 "
-"모든 무기를 다룹니다."
+"엘프는 장궁, 합성 장궁, 장검, 레이피어 및 단궁, 합성 단궁에 숙련되어 있으며 이름에 \"엘프\"라는 단어가 있는 모든 무기를 군용 "
+"무기처럼 다룹니다."
 
 #. Mechanics/Blueprints/Traits/Races/Elf/ElvenWeaponFamiliarity_m_DisplayName
 msgctxt "d887c4ee-6219-4732-83f5-c2ac5b2dfea5"
