@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-18 13:07+0900\n"
-"PO-Revision-Date: 2020-12-12 10:31+0000\n"
+"PO-Revision-Date: 2020-12-12 22:20+0000\n"
 "Last-Translator: Abraxas <netnk9151@hanmail.net>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/encyclopedia/ko/>\n"
@@ -4032,6 +4032,17 @@ msgid ""
 "are attack rolls, so you must roll for concealment and take any other "
 "penalties that would normally apply to an attack roll."
 msgstr ""
+"<b>전법 사용</b>\n"
+"전법을 사용할 땐, 실행하려는 전법에 맞는 적절한 행동을 사용해야 합니다. 많은 전법이 공격 행동, 전력 공격, 혹은 기회 공격 (근접 "
+"공격을 대체)의 일환으로 이루어지지만, 어떤 전법은 특정 행동을 요구합니다. 별다른 말이 쓰여있지 않는 한, 전법을 사용하는 것은 전법의 "
+"사용 대상에게 기회 공격을 유발합니다. 만약 대상에게 공격 받았다면, 평소대로 피해를 입고 전법의 사용자는 해당 전법을 사용하는 데 "
+"필요한 공격 굴림에 불이익을 받습니다. 대상이 움직일 수 없거나, 의식 불명이거나, 아니면 행동 불능 상태라면, 전법은 자동적으로 "
+"성공합니다 (공격 굴림이 순수 20인 것으로 간주합니다). 대상이 기절했다면, 시전자는 전법에 필요한 공격 굴림에 +4 보너스를 받습니다."
+"\n"
+"전법을 실행하려고 한다면, 공격 굴림을 하고 일반 공격 보너스 대신 CMB 값을 더합니다. 주문, 특성 외 다른 효과로 공격 굴림에 현재 "
+"더해진 보너스도 더합니다. 이 보너스는 전법을 수행하는데 사용되는 공격이나 무기와 호환되어야 합니다. 전법의 난이도는 대상의 <link="
+"\"Encyclopedia:CMD\"><b>전법 방어도</b></link>와 같습니다. 전법은 공격 굴림이기에, 일반 공격 굴림에 "
+"일반적으로 적용되는 엄폐 외에도 기타 불이익을 적용해야 합니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_Maneuvers_BlockText 4_Text
 msgctxt "4eb20c6d-8dc1-4746-9c78-363ef71bd0cc"
@@ -4187,11 +4198,13 @@ msgid ""
 "If you do nothing but move (that is, if you use both of your actions in a "
 "round to move your speed), you can move double your speed."
 msgstr ""
+"일반적으로, 한 라운드에서 이동 속도만큼 움직이고도 여전히 무언가를 할 수 있습니다(이동 행동과 기본 행동을 취할 때).\n"
+"만약 이동 행동만 했다면(즉, 한 라운드에서 이동 행동을 두 번 하는 경우), 당신은 이동 속도의 두 배만큼 이동할 수 있습니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_Movement_Title
 msgctxt "83183f2c-351e-4b18-87ba-cba9e266d220"
 msgid "Movement in Combat"
-msgstr ""
+msgstr "전투에서의 움직임"
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_Round_BlockText_Text
 msgctxt "37b875b8-bf49-4064-9a31-bd030f28832c"
@@ -4207,16 +4220,22 @@ msgid ""
 "in the next round. Effects that last a certain number of rounds end just "
 "before the same initiative count that they began on."
 msgstr ""
+"각 라운드는 게임 세계에서 6초로 나타납니다. 전투의 1분은 10라운드입니다. 한 라운드에는 보통 전투 중인 각 캐릭터들이 행동을 "
+"수행합니다.\n"
+"각 캐릭터는 6초까지 <link=\"Encyclopedia:Initiative\"><b>우선권</b></link> 판정에 따라 전투 "
+"대기시간을 시작합니다. 6초의 라운드 내에 대기시간이 끝나면 행동을 시작합니다.\n"
+"규칙이 언급하는 \"라운드 전체\"는 일반적으로 한 라운드의 특정한 우선권 계산에서부터 다음 라운드의 같은 우선권 계산에 걸리는 시간을 "
+"의미합니다. 특정한 라운드 수 동안 지속되는 효과는 그 효과들이 시작한 동일한 우선권 계산이 시작되기 직전에 사라집니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_Round_Title
 msgctxt "d40d9fd9-3174-47e2-9af7-fb240099496b"
 msgid "Combat Round"
-msgstr ""
+msgstr "전투 라운드"
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_Rules_Title
 msgctxt "e5ad3953-f3ea-435f-bd9b-da3b4af133e3"
 msgid "Combat"
-msgstr ""
+msgstr "전투"
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_Splash_BlockText_Text
 msgctxt "e090c79c-9406-487f-b9db-fe302c9bb261"
@@ -4231,6 +4250,11 @@ msgid ""
 "If you miss the target, the attack hits a random place in 5-foot radius of "
 "the target."
 msgstr ""
+"확산 무기란 충격으로 부서지는 장거리 무기로써, 목표와 가까이에 있는 크리처 혹은 물체에 내용물을 튀기거나 흩뿌립니다. 투척된 확산 "
+"무기는 무기 숙련을 요구하지 않기 대문에, -4 비숙련 불이익을 받지 않습니다. 명중 시 목표물에 직접 타격 피해를 입히며, 목표물의 5 "
+"피트 이내의 모든 크리처에게 확산 데미지가 가해집니다. 확산 무기는 정확도 기반의 피해(로그의 클래스 특징인 은신 공격 같은 피해)를 "
+"일으키지 않습니다.\n"
+"목표물에 명중하지 않았다면, 해당 투척 공격은 목표물 반경 5피트에서 임의의 장소에 떨어집니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Combat_Splash_Title
 msgctxt "7cbfe6e1-c32d-4c6e-b422-59102e4d37d2"
@@ -4252,21 +4276,24 @@ msgid ""
 "spells, the spell description explains that effect. Several other general "
 "rules apply when spells or magical effects operate."
 msgstr ""
+"주문이나 마법 효과가 같은 지역이나 대상에게 얼마나 많이 적용되는 가는 관계 없이, 보통 주문이나 마법 효과는 묘사된 대로 효과를 "
+"일으킵니다. 특별한 경우를 제외하고는, 하나의 주문은 다른 주문의 작동에 전혀 영향을 받지 않습니다. 하나의 주문이 다른 주문에 특별한 "
+"영향을 줄 때는, 주문의 설명에서 해당 효과를 설명해줍니다. 주문이나 마법 효과가 작동하는 경우엔 각각 다른 일반 규칙이 적용됩니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Combining_Magic_Title
 msgctxt "1fe440a0-a092-42ab-80e9-4841618aa05c"
 msgid "Combining Magic Effects"
-msgstr ""
+msgstr "마법 효과 조합"
 
 #. Mechanics/Blueprints/Encyclopedia/Common_Terms_Title
 msgctxt "8fda3a52-3e48-44d9-9988-6b526b788f4a"
 msgid "Common Terms"
-msgstr ""
+msgstr "공통 용어"
 
 #. Mechanics/Blueprints/Encyclopedia/Community_Domain_Title
 msgctxt "c843a512-5211-4322-8306-2bc7b89e7d6d"
 msgid "Community Domain"
-msgstr ""
+msgstr "공동체 영역"
 
 #. Mechanics/Blueprints/Encyclopedia/Companions_BlockText 1_Text
 msgctxt "bdfc1544-1aed-417f-9370-ce8d1d640831"
@@ -4276,6 +4303,10 @@ msgid ""
 "{console_bind|RightStickX}. You can <b>Link</b> or <b>Unlink</b> characters "
 "by using {console_bind|Func02}. Unlinked characters move independently."
 msgstr ""
+"파티에는 최대 5명의 동료를 넣을 수 있습니다. 캐릭터 한 명을 선택하려면 {console_bind|LeftBottom} 버튼과 "
+"{console_bind|LeftStickX}, 또는 {console_bind|RightStickX} 버튼을 누르십시오. "
+"{console_bind|Func02} 버튼을 눌러 캐릭터들을 <b>연결</b>하거나 <b>연결 해제</b>할 수 있습니다. 연결되지 "
+"않은 캐릭터들은 따로 움직입니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Companions_BlockText_Text
 msgctxt "a66cb15b-1515-42d0-be7e-aa543f263900"
@@ -4305,6 +4336,10 @@ msgid ""
 "has a 20% chance of spoiling any spell with a verbal component that he tries "
 "to cast."
 msgstr ""
+"<b>음성</b>\n"
+"음성 요소는 말로 하는 영창입니다. 음성 요소를 넣기 위해서는, 큰 목소리로 말을 할 수 있어야 합니다. 침묵 주문 혹은 재갈은 영창을 "
+"할 수 없게 만듭니다 (그러므로 주문도 사용할 수 없습니다). 귀가 먹은 주문 시전자는 음성 요소를 사용하는 어떤 주문이라도 20%의 "
+"실패 확률을 가집니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Components_BlockText 2_Text
 msgctxt "523f544d-57f9-4c92-90ac-2e15dba713bd"
@@ -4313,6 +4348,8 @@ msgid ""
 "A material component consists of one or more physical substances or objects "
 "that are annihilated by the spell energies in the casting process."
 msgstr ""
+"<b>물질</b>\n"
+"물질 요소는 시전 과정에서 주문 에너지에 사용되는 하나 혹은 그 이상의 물리적인 물질 혹은 물체로 구성됩니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Components_BlockText_Text
 msgctxt "65e2653d-7a3b-47e2-9db7-cc6c52f2e508"
@@ -4321,11 +4358,13 @@ msgid ""
 "The components entry in a spell description includes abbreviations that tell "
 "you what type of components it requires."
 msgstr ""
+"주문 요소는 주문을 시전하기 위해 필요한 요소가 무엇인지 알려줍니다. 주문 설명에 있는 요소 항목에는 필요한 요소를 설명해주는 약어가 "
+"적혀있습니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Components_Title
 msgctxt "deba8ac3-385b-440c-8ffb-582e6f2b66ee"
 msgid "Components"
-msgstr ""
+msgstr "구성 요소"
 
 #. Mechanics/Blueprints/Encyclopedia/Concealment_BlockText 1_Text
 msgctxt "ac6ac89b-c747-4f86-8150-db67f83b8069"
@@ -4336,6 +4375,9 @@ msgid ""
 "the attacker hits, the defender must make a miss chance d% roll to avoid "
 "being struck. Multiple concealment conditions do not stack."
 msgstr ""
+"<b>은폐 회피 확률</b>\n"
+"은폐는 대상에게 성공적인 공격을 20%의 확률로 빗나가게 합니다. 일반적인 공격 상황에서 공격자가 공격을 명중시켰다면, 방어자는 회피하기 "
+"위해 d% 굴림을 해야 합니다. 하나 이상의 은폐 상태는 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Concealment_BlockText 2_Text
 msgctxt "7ec7878e-c186-4112-b08c-4f6151fc6489"
@@ -4350,6 +4392,12 @@ msgid ""
 "You can't execute an attack of opportunity against an opponent with total "
 "concealment."
 msgstr ""
+"<b>완전 은폐</b>\n"
+"만약 당신의 단일 목표물이 효과 범위 내에는 있지만 시야 범위 내에 있지 않은 경우, 해당 목표물은 당신으로부터의 완전 은폐 상태로 "
+"간주됩니다. 완전 은폐하고 있는 상대를 공격할 수는 없지만, 적이 있으리라 생각되는 공간을 공격할 수는 있습니다. 이 공격이 성공했을 "
+"경우, 그 지역의 완전 은폐 상태에 있는 적들은 공격을 50%의 확률로 회피합니다 (일반적으로 적이 은폐하고 있는 경우인 20% 회피 "
+"확률 대신).\n"
+"당신은 완전 은폐 상태에 있는 적들에 대해 기회 공격을 할 수 없습니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Concealment_BlockText 3_Text
 msgctxt "af70b7f5-9731-43df-9d09-94996d441edd"
@@ -4364,6 +4412,12 @@ msgid ""
 "invisible character. An invisible character gains a +20 bonus on <link="
 "\"Encyclopedia:Stealth\"><b>Stealth</b></link> checks."
 msgstr ""
+"<b>은폐 무시</b>\n"
+"은폐는 항상 효과적이지 않습니다. 옅은 빛과 어둠이 있는 장소는 암흑 시야를 가지고 있는 적에 대해서 은폐를 제공해주지 않습니다. 저광 "
+"시야를 가진 캐릭터는 같은 빛 아래서도 더 먼 거리를 볼 수 있습니다. 투명화가 완전 은폐 상태를 제공한다고 할지라도, 시야에 있는 "
+"적들은 여전히 보이지 않는 적의 위치를 알아차리는 <link=\"Encyclopedia:Perception\"><b>지각</b></"
+"link> 판정을 합니다. 투명화 상태의 캐릭터는 <link=\"Encyclopedia:Stealth\"><b>은신</b></link> "
+"판정에 +20 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Concealment_BlockText 4_Text
 msgctxt "46282a36-4953-4359-b799-2524d42ffef0"
@@ -4372,6 +4426,8 @@ msgid ""
 "Certain situations may provide more or less than typical concealment, and "
 "modify the miss chance accordingly."
 msgstr ""
+"<b>변화하는 은폐 상황</b>\n"
+"특정한 상황은 일반적인 은폐보다 더 많거나 적은 은폐를 제공합니다. 그리고 그에 따라 빗나감 확률을 수정합니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Concealment_BlockText_Text
 msgctxt "a1df8d90-2764-46b6-9ff5-5a08f722f14d"
@@ -4383,11 +4439,14 @@ msgid ""
 "In addition, some magical effects provide concealment against all attacks, "
 "regardless of whether any intervening concealment exists."
 msgstr ""
+"인접한 적에게 근접 공격을 하고자 할 때, 만약 그 장소가 완전하게 은폐를 제공하는 효과 범위 안에 있다면, 그 적은 은폐 상태에 "
+"있습니다. 인접하지 않은 적에게 근접 공격을 할 때는, 장거리 공격에 대한 은폐를 결정하는 규칙을 사용합니다.\n"
+"추가로, 몇몇 마법 효과는 은폐를 방해하는 요소에 관계 없이 모든 공격으로부터 은폐를 제공합니다."
 
 #. Mechanics/Blueprints/Encyclopedia/Concealment_Title
 msgctxt "0472893a-80d6-458b-a0d0-c31be7120805"
 msgid "Concealment"
-msgstr ""
+msgstr "은폐"
 
 #. Mechanics/Blueprints/Encyclopedia/Concentration_BlockText_Text
 msgctxt "28d4f2b2-c703-422c-9940-5033bcaed8cc"
