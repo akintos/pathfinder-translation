@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2020-12-12 10:31+0000\n"
-"Last-Translator: ayame <eveforce@naver.com>\n"
+"PO-Revision-Date: 2020-12-18 20:01+0000\n"
+"Last-Translator: Inbird <inbird81@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/general/ko/>\n"
 "Language: ko\n"
@@ -4322,7 +4322,8 @@ msgstr "[BoonN] 추가 경험치를 받는 게임을 시작합니다."
 #. Mechanics/Blueprints/DLC3/Boons/GoldStart_BoonDescription_String
 msgctxt "35d30efd-53c6-4a74-bfeb-bedc5958a0df"
 msgid "You start the game with an additional sum of [BoonN] gold pieces."
-msgstr "[BoonN] 추가 금 조각을 받는 게임을 시작합니다."
+msgstr ""
+"메인 캐릭터가 [BoonN]의 경험치를 가지고 시작합니다. (역자주: 원문은 금화로 적혀있으나 버그로 인해 실제로는 경험치가 들어옵니다)"
 
 #. Mechanics/Blueprints/DLC3/Boons/ItemDropChance_BoonDescription_String
 msgctxt "4518f7fa-5ede-4500-9202-12d31a9e549c"
@@ -21602,127 +21603,127 @@ msgstr "트롤"
 #. Test/Blueprints/Encyclopedia/Turuk_Title
 msgctxt "905fdd2f-c381-4bde-a3e2-d9a5bffeb54c"
 msgid "Turuk"
-msgstr ""
+msgstr "투룩"
 
 #. Test/Blueprints/TestDualCompanion/Answer_0002_Text
 msgctxt "0cca4172-8dd6-46fb-8466-628871f6cdf4"
 msgid "I would like to hire you"
-msgstr ""
+msgstr "당신을 고용하고 싶군."
 
 #. Test/Blueprints/TestDualCompanion/Answer_0003_Text
 msgctxt "8e02b623-06ef-45e9-8a90-271b9fed419a"
 msgid "We will talk later"
-msgstr ""
+msgstr "나중에 얘기하지."
 
 #. Test/Blueprints/TestDualCompanion/Cue_0001_Text
 msgctxt "7b16c045-269a-48c8-9a8b-a2784f1ce6d0"
 msgid "Hi, I am the evil twin."
-msgstr ""
+msgstr "안녕, 난 악마의 쌍둥이라고해."
 
 #. Test/Blueprints/TestDualCompanionSwitching/Answer_0005_Text
 msgctxt "04fad402-69f0-4a34-b059-46906caedc23"
 msgid "Start over"
-msgstr ""
+msgstr "다시 시작하기"
 
 #. Test/Blueprints/TestDualCompanionSwitching/Answer_0006_Text
 msgctxt "42dcb66e-3e84-44d5-bf5c-a10390b6efdf"
 msgid "I would like to talk to evil"
-msgstr ""
+msgstr "악과 대화하고 싶군"
 
 #. Test/Blueprints/TestDualCompanionSwitching/Answer_0007_Text
 msgctxt "3e500e0e-74df-4aff-b504-eae90850d24a"
 msgid "Bye bye"
-msgstr ""
+msgstr "잘가!"
 
 #. Test/Blueprints/TestDualCompanionSwitching/Answer_0011_Text
 msgctxt "b08626f2-6ef3-42e7-ab2d-c9a5db256be2"
 msgid "I would like to talk to good"
-msgstr ""
+msgstr "선과 대화하고 싶군"
 
 #. Test/Blueprints/TestDualCompanionSwitching/Answer_0014_Text
 msgctxt "8d9dd13d-1568-44eb-8738-db2c9def143c"
 msgid "Who's here?"
-msgstr ""
+msgstr "누구 있어?"
 
 #. Test/Blueprints/TestDualCompanionSwitching/Cue_0001_Text
 #. Speaker : Kanerah_Companion
 msgctxt "2a06ba29-fdab-4f54-8bbe-05f08472935e"
 msgid "I am evil twin"
-msgstr ""
+msgstr "난 사악한 쌍둥이야"
 
 #. Test/Blueprints/TestDualCompanionSwitching/Cue_0002_Text
 #. Speaker : Kalikke_Companion
 msgctxt "a513fe3d-ff87-4575-97b0-dc0aed1f28b9"
 msgid "I am good twin"
-msgstr ""
+msgstr "난 선한 쌍둥이야"
 
 #. Test/Blueprints/TestDualCompanionSwitching/Cue_0003_Text
 #. Speaker : Kanerah_Companion
 msgctxt "ab06b296-c9f6-42c4-b330-39adcf427bd9"
 msgid "Evil"
-msgstr ""
+msgstr "악"
 
 #. Test/Blueprints/TestDualCompanionSwitching/Cue_0004_Text
 #. Speaker : Kalikke_Companion
 msgctxt "5904093f-eed1-46ce-b9f5-e8523e91392a"
 msgid "Good"
-msgstr ""
+msgstr "선"
 
 #. Test/Blueprints/TestDualCompanionSwitching/Cue_0008_Text
 #. Speaker : Kalikke_Companion
 msgctxt "30c17a10-b461-4604-a195-310102614f5d"
 msgid "Ok"
-msgstr ""
+msgstr "그래"
 
 #. Test/Blueprints/TestDualCompanionSwitching/Cue_0009_Text
 #. Speaker : Kanerah_Companion
 msgctxt "71a83a02-635e-4a98-8da6-899be5f6aa7d"
 msgid "Here I am"
-msgstr ""
+msgstr "도착했다."
 
 #. Test/Blueprints/TestDualCompanionSwitching/Cue_0012_Text
 #. Speaker : Kanerah_Companion
 msgctxt "5fc66e29-0da6-4e87-af22-98fce0f788f4"
 msgid "Ok"
-msgstr ""
+msgstr "그래"
 
 #. Test/Blueprints/TestDualCompanionSwitching/Cue_0013_Text
 #. Speaker : Kalikke_Companion
 msgctxt "a7fe2649-3411-4b00-9c8c-9a4fdb397f61"
 msgid "Here I am"
-msgstr ""
+msgstr "도착했다."
 
 #. Test/Blueprints/TestDualCompanionSwitching/Cue_0015_Text
 #. Speaker : Kanerah_Companion
 msgctxt "0c3ba61a-7088-42f6-9a22-d47803578cdf"
 msgid "Evil"
-msgstr ""
+msgstr "악"
 
 #. Test/Blueprints/TestDualCompanionSwitching/Cue_0016_Text
 #. Speaker : Kalikke_Companion
 msgctxt "aed75c6a-3be7-4551-8dc4-feffd6f7b418"
 msgid "Good"
-msgstr ""
+msgstr "선"
 
 #. Test/Blueprints/TestInterchapters/Interchapter01/Answer_0002_Text
 msgctxt "23f65ab0-5f05-44de-b6f5-a5c00e3a7b72"
 msgid "Continue"
-msgstr ""
+msgstr "계속"
 
 #. Test/Blueprints/TestInterchapters/Interchapter01/Answer_0006_Text
 msgctxt "1a733752-e5ec-43b0-b1c9-ddde0437743e"
 msgid "Continue"
-msgstr ""
+msgstr "계속"
 
 #. Test/Blueprints/TestInterchapters/Interchapter01/BookPage_0001_Title
 msgctxt "28e7adcc-d21c-4f46-9064-855479a6fdfc"
 msgid "Journey"
-msgstr ""
+msgstr "여행"
 
 #. Test/Blueprints/TestInterchapters/Interchapter01/BookPage_0004_Title
 msgctxt "521ebcfd-8bde-41eb-900b-eca971300c71"
 msgid "Teapot"
-msgstr ""
+msgstr "찻주전자"
 
 #. Test/Blueprints/TestInterchapters/Interchapter01/Cue_0003_Text
 msgctxt "b0417646-feab-47ca-91f8-3f66aed72da1"
