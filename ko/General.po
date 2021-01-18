@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2021-01-15 04:31+0000\n"
-"Last-Translator: JJ <howmindqwerty@gmail.com>\n"
+"PO-Revision-Date: 2021-01-18 03:38+0000\n"
+"Last-Translator: ㅇㅇ <fhsp1245@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/general/ko/>\n"
 "Language: ko\n"
@@ -9448,7 +9448,7 @@ msgstr ""
 "아시마르는 대개는 셀레스티얼, 아니면 다른 선량한 아웃사이더의 피를 가진 인간입니다. 아시마르는 항상 자애롭지는 않지만 악한 쪽 보다는 "
 "친절한 쪽으로 행동하는 편입니다. 아시마르의 유산은 여러 세대에 걸쳐 잠재되어 있을 수 있기 때문에, 양친이 평범한 사람처럼 보인다 "
 "하더라도 그 자식에게 갑자기 발현될 수 있습니다. 대부분의 사회는 아시마르 출산을 좋은 징조로 해석하고 있지만, 일부 아시마르는 오히려 "
-"자기 종족의 평판을 이용하기도 합니다. 그들은 다른 사람들의 기대를 잔혹한 성정이나 속물 근성을 내보이는 행위로 잔인하게 배신합니다. "
+"자기 종족의 평판을 이용하기도 합니다. 그들은 잔혹한 성정이나 속물 근성을 내보이는 행위로 다른 사람들의 기대를 잔인하게 배신합니다.\n"
 "아시마르는 그들의 특이한 유산을 드러내는 약간의 사소한 신체적 특징을 제외하고는 인간과 비슷합니다. 전형적인 아시마르의 외모적 특징은 "
 "금속처럼 빛나는 머리카락, 특이한 눈이나 피부색 등입니다."
 
@@ -22800,7 +22800,7 @@ msgctxt "9a79584c-3993-4731-8a7a-41aed3192020"
 msgid ""
 "\"I will send them back.\" {n}Ekun is silent, obviously not going to "
 "continue.{/n}"
-msgstr ""
+msgstr "\"내가 그들을 돌려 보낼게.\" {n}에쿤은 이어지지 않을 것임이 분명한 침묵에 빠졌습니다.{/n}"
 
 #. Test/Dialogues/Industry/Rank2/Cue_0019_Text
 #. Speaker : Jubilost_Companion
@@ -22809,21 +22809,23 @@ msgid ""
 "\"As you wish, as you wish... since you don't mind, I will find these "
 "refugees a job in the city. Let them serve the urban community.\""
 msgstr ""
+"\"너가 바란다면, 너가 바란다면... 너가 꺼려하지 않는다면, 나는 이 난민들을 위해 도시에서 일자리를 찾을 거야. 그들이 도시의 "
+"공동체에 기여할 수 있도록 말이지.\""
 
 #. Test/Dialogues/Industry/Rank3/Answer_0009_Text
 msgctxt "36d9bb1d-7b24-4e73-96b1-3eb98cdfef75"
 msgid "\"We will build a manufactory.\""
-msgstr ""
+msgstr "\"우리는 제조소를 건설할 것이다.\""
 
 #. Test/Dialogues/Industry/Rank3/Answer_0010_Text
 msgctxt "93c2143b-43da-42a9-9077-e507903c1beb"
 msgid "\"We will do without a manufactory.\""
-msgstr ""
+msgstr "\"우리는 제조소 없이 할 것이다.\""
 
 #. Test/Dialogues/Industry/Rank3/Answer_0011_Text
 msgctxt "d4b86cb4-a722-482c-88cf-68ba23cd6472"
 msgid "\"I would rely on your decision.\""
-msgstr ""
+msgstr "\"당신의 결정에 기대겠습니다.\""
 
 #. Test/Dialogues/Industry/Rank3/Cue_0001_Text
 #. Speaker : Ekun_Companion
@@ -22833,6 +22835,8 @@ msgid ""
 "\"They brought a scheme. Large manufactory for making fabric. Someone from "
 "Galt thought it up, now one trader wants to build one here.\""
 msgstr ""
+"{n}에쿤은 계획도가 그려진 종이 한 뭉치를 당신에게 건네줍니다.{/n} \"그들이 계획을 가져왔어. 거대한 섬유 제조소라는군. 갈트 "
+"출신의 누군가가 생각해낸 것 같아, 지금은 무역상 한 명이 여기서 짓고 싶다는군.\""
 
 #. Test/Dialogues/Industry/Rank3/Cue_0002_Text
 #. Speaker : Ekun_Companion
@@ -22844,6 +22848,9 @@ msgid ""
 "vegetables from farms around. If manufactory poisons the soil, it will be "
 "bad for everybody.\""
 msgstr ""
+"\"장인들은 같은 작업을 세 배 정도 느리게 하지. 주변의 공기와 물을 오염시키지 않고 말이지.\" {n}에쿤은 그의 이마를 "
+"문지릅니다.{/n} \"나라면 거절할거야. 수도에는 사람이 너무 많아 - 그들은 모두 숨 쉬고, 물을 마시고, 농장에서 온 야채를 먹지. "
+"만약 제조소가 땅을 오염시킨다면, 모두에게 안 좋은 일이 될거야.\""
 
 #. Test/Dialogues/Industry/Rank3/Cue_0003_Text
 #. Speaker : Jubilost_Companion
@@ -22853,6 +22860,8 @@ msgid ""
 "progress reached your backwater district!\" {n}The gnome proudly "
 "demonstrates you a sheaf of paper, covered with schematic drawings.{/n}"
 msgstr ""
+"{n}주빌로스트는 기쁨으로 빛납니다.{/n} \"이것 좀 봐! 마침내 과학과 진보가 너의 후진 구역까지 닿았어!\"{n}그 노움은 "
+"당신에게 계획도가 그려진 한 뭉치의 종이를 자랑스럽게 보여줍니다.{/n}"
 
 #. Test/Dialogues/Industry/Rank3/Cue_0004_Text
 #. Speaker : Jubilost_Companion
@@ -22863,6 +22872,8 @@ msgid ""
 "make us forget about problems with cloth supply. Your subjects will always "
 "be dressed, sleep on real sheets and read books in fabric bindings!\""
 msgstr ""
+"\"{name}, 이것은 갈탄 섬유 제조소의 계획이야, 한 명의 기업가가 나에게 건네주었어. 공학적 생각의 기적이야, 이것은 우리의 의류 "
+"공급의 문제를 잊게 만들어 줄 거야. 당신의 사람들은 언제나 잘 차려입고, 진짜 시트에서 잠을 자고 천으로 묶여진 책을 읽을 수 있어!\""
 
 #. Test/Dialogues/Industry/Rank3/Cue_0005_Text
 #. Speaker : Jubilost_Companion
@@ -22873,24 +22884,27 @@ msgid ""
 "be sure of! And this...\" {n}Jubilost slaps the pile of drawings.{/n} \"Is "
 "more reliable than any craftshop!\""
 msgstr ""
+"\"I hope you aren't thinking about rejecting this project?설마 계획을 거절할 생각은 "
+"아니겠지? 그래, 냄새와 매연이 있겠지, 그러나 시민들을 생각해 - 그들은 확신할 수 있는 일자리가 필요해! 그리고 이것은...\" {n}"
+"주빌로스트는 계획도의 묶음을 내려칩니다.{/n} \"어떤 공방보다도 더 믿을 수 있어!\""
 
 #. Test/Dialogues/Industry/Rank3/Cue_0012_Text
 #. Speaker : Ekun_Companion
 msgctxt "5cbfb221-8afe-4abf-9599-48591d051e62"
 msgid "{n}Ekun silently shakes his head and looks away.{/n}"
-msgstr ""
+msgstr "{n}에쿤은 조용히 그의 머리를 젓고 다른 곳을 쳐다봅니다.{/n}"
 
 #. Test/Dialogues/Industry/Rank3/Cue_0013_Text
 #. Speaker : Jubilost_Companion
 msgctxt "06e139d4-86d0-4b60-b42c-c4fc47838611"
 msgid "\"Great! I will pass your consent to the entrepreneur!\""
-msgstr ""
+msgstr "\"좋아! 그 기업가에게 승인서를 전해줄게!\""
 
 #. Test/Dialogues/Industry/Rank3/Cue_0015_Text
 #. Speaker : Ekun_Companion
 msgctxt "b2930243-8eb3-4dfc-a666-7db67b1917de"
 msgid "{n}A shade of a smile crosses Ekun's face.{/n} \"I will tell him\"."
-msgstr ""
+msgstr "{n}웃음의 그림자가 에쿤의 얼굴을 가로지릅니다.{/n} \"그에게 말해줄게\"."
 
 #. Test/Dialogues/Industry/Rank3/Cue_0016_Text
 #. Speaker : Jubilost_Companion
@@ -22900,12 +22914,14 @@ msgid ""
 "your close-mindedness doesn't seize to amaze me. But fine, I will do as you "
 "say!\""
 msgstr ""
+"{n}주빌로스트의 빛나는 눈은 어두워집니다. 그는 무겁게 한숨을 쉽니다.{/n} \"너의 근시안적 태도는 나를 놀라게 하지 않는군. "
+"그러나 좋아, 너가 말한대로 할게!\""
 
 #. Test/Dialogues/Industry/Rank3/Cue_0018_Text
 #. Speaker : Ekun_Companion
 msgctxt "d5682f6e-2c17-4c02-a969-ded45ee331b2"
 msgid "\"I will pass your refusal to the trader.\""
-msgstr ""
+msgstr "\"너의 거절서를 무역상에게 전해줄게.\""
 
 #. Test/Dialogues/Industry/Rank3/Cue_0019_Text
 #. Speaker : Jubilost_Companion
@@ -22913,136 +22929,136 @@ msgctxt "1c5ef5e9-92e0-4e92-958c-35e25c74bd08"
 msgid ""
 "\"There you go. And now if you'll excuse me, I need to discuss the "
 "implementation of this idea in our capital with its author.\""
-msgstr ""
+msgstr "\"그러면 그렇지. 이제 너만 괜찮다면, 나는 그 저자와 우리의 도시에 이 생각을 적용시키는 것에 대해서 토론이 필요해.\""
 
 #. Test/Dialogues/KingdomAsCompanion/CN - On the Edge/HuntingLodgeServant/Answer_0057_AlignmentShift.Description
 msgctxt "55acb73e-84c8-41d6-895c-e361da5a081d"
 msgid "Allowed Brody return the stolen chain and clear himself."
-msgstr ""
+msgstr "브로디가 훔친 의자를 돌려놓고 치우는 것을 허락합니다."
 
 #. Test/Dialogues/KingdomAsCompanion/CN - On the Edge/HuntingLodgeServant/Answer_0058_AlignmentShift.Description
 msgctxt "5be6cd68-39ce-4dda-9d96-29869e2699c4"
 msgid "Sent Brody to the court for the theft."
-msgstr ""
+msgstr "브로디를 도둑질의 죄로 법정에 세웁니다."
 
 #. Test/Dialogues/KingdomAsCompanion/CN - On the Edge/HuntingLodgeServant/Answer_0059_AlignmentShift.Description
 msgctxt "0a27019a-4dc3-49d1-a19f-ff6c33641f59"
 msgid "Executed Brody for no good reason."
-msgstr ""
+msgstr "브로디를 아무 이유 없이 처형합니다."
 
 #. Test/Dialogues/KingdomAsCompanion/CN - On the Edge/HuntingLodgeServant/Answer_0060_AlignmentShift.Description
 msgctxt "95bced9b-4b8c-42e6-9e5c-c53a96774e22"
 msgid "Allowed Brody go."
-msgstr ""
+msgstr "브로디가 떠나는 것을 허락합니다."
 
 #. Test/Dialogues/KingdomAsCompanion/CN - On the Edge/OTP_Cintella/Answer_0024_AlignmentShift.Description
 msgctxt "befec802-dfa0-45ab-97dc-c549fb957f65"
 msgid "Let Cintella go."
-msgstr ""
+msgstr "신텔라는 가게 합니다."
 
 #. Test/Dialogues/KingdomAsCompanion/CN - On the Edge/OTP_Cintella/Answer_0025_AlignmentShift.Description
 msgctxt "94a7e498-9d39-44f1-a69f-daca81f51cda"
 msgid "Put Cintella on trial."
-msgstr ""
+msgstr "신텔라를 재판에 회부합니다."
 
 #. Test/Dialogues/KingdomAsCompanion/CN - On the Edge/OTP_Cintella/Answer_0026_AlignmentShift.Description
 msgctxt "29e1c206-b350-4772-ad6c-a137b126d673"
 msgid "Killed Cintella without trial."
-msgstr ""
+msgstr "신텔라를 재판 없이 죽입니다."
 
 #. Test/Dialogues/KingdomAsCompanion/CN - On the Edge/OTP_Cintella/Answer_0027_AlignmentShift.Description
 msgctxt "f967aac5-24e6-477f-b9d0-c655f28b0f12"
 msgid "Encouraged Cintella before her trial."
-msgstr ""
+msgstr "신텔라가 재판으로 향하기 전에 격려합니다."
 
 #. Test/Dialogues/KingdomAsCompanion/CN - On the Edge/OTP_Cintella/Answer_0028_AlignmentShift.Description
 msgctxt "3653c9f5-ebee-48a7-babf-df0e54cd58ed"
 msgid "Took the last valuables from Cintella in exchange for her freedom."
-msgstr ""
+msgstr "그녀의 석방을 조건으로 신텔라로부터 남은 귀중품들을 차지합니다."
 
 #. Test/Dialogues/KingdomAsCompanion/CN - On the Edge/OTP_Cintella/Items/LeaemsLetter_Name_String
 msgctxt "02a28682-6c42-4b76-9654-451ff156d305"
 msgid "Folded Note"
-msgstr ""
+msgstr "접힌 노트"
 
 #. Test/Dialogues/KingdomAsCompanion/CN - On the Edge/TavernLeaema_Main/Answer_0052_AlignmentShift.Description
 msgctxt "d4883d35-50d3-48c5-bf46-8538245ca459"
 msgid "Kicked Leaema out of the capital."
-msgstr ""
+msgstr "레에마를 수도 밖으로 쫓아냅니다."
 
 #. Test/Dialogues/KingdomAsCompanion/CN - On the Edge/TavernLeaema_Main/Answer_0104_AlignmentShift.Description
 msgctxt "1bc846cc-3f24-4a91-b913-ea6ec441774c"
 msgid "Blamed Leaema for breaking the law."
-msgstr ""
+msgstr "레에마를 위법을 이유로 비난합니다."
 
 #. Test/Dialogues/KingdomAsCompanion/CN - On the Edge/TavernLeaema_Main/Answer_0105_AlignmentShift.Description
 msgctxt "dea9ca88-68fa-445c-ae5b-477ed7f38667"
 msgid "Killed Leaema and her followers."
-msgstr ""
+msgstr "레에마와 그녀의 동행을 죽입니다."
 
 #. Test/Dialogues/KingdomAsCompanion/CN - On the Edge/TavernLeaema_Main/Answer_0112_AlignmentShift.Description
 msgctxt "2dda17c6-7939-4514-b92e-710cddb9593e"
 msgid "Decided to leave Leaema and her \"business\" alone."
-msgstr ""
+msgstr "레에마와 그녀의 \"사업\"을 방치하기로 결정합니다."
 
 #. Test/Dialogues/KingdomAsCompanion/CN - On the Edge/TavernLeaema_Main/Answer_0113_AlignmentShift.Description
 msgctxt "4557f0e0-2bd6-4e47-a142-50e51a794afd"
 msgid "Demanded a share of Leaema's income."
-msgstr ""
+msgstr "레에마의 수입의 일부를 요구합니다."
 
 #. Test/Dialogues/KingdomAsCompanion/CN - On the Edge/TavernLeaema_Main/Answer_0114_AlignmentShift.Description
 msgctxt "d075465a-5d10-4fbc-99a7-a485265a8e62"
 msgid "Gave Leaema a chance to leave without repercussions."
-msgstr ""
+msgstr "레에마에게 아무 조건 없이 떠날 수 있는 기회를 제공합니다."
 
 #. Test/Dialogues/KingdomAsCompanion/CN - On the Edge/TavernLeaema_Main/Answer_0140_AlignmentShift.Description
 msgctxt "18b4ffec-3b2d-480a-b320-adcf3ade6991"
 msgid "Outlawed prostitution and expelled Leaema from the capital."
-msgstr ""
+msgstr "매춘을 불법행위로 규정하고, 레에마를 수도에서 방출합니다."
 
 #. Test/Dialogues/KingdomAsCompanion/CN - On the Edge/ThroneRoomLeaema/Answer_0014_AlignmentShift.Description
 msgctxt "88d5eb4b-6494-4672-af72-738a6abd89e9"
 msgid "Sought benefit in the arrival of a newcomer."
-msgstr ""
+msgstr "이주민의 도착으로부터 이익을 찾습니다."
 
 #. Test/Dialogues/KingdomAsCompanion/CN - On the Edge/ThroneRoomLeaema/Answer_0015_AlignmentShift.Description
 msgctxt "d45b6d34-62af-4581-bffd-6a29b159e78b"
 msgid "Greeted a newcomer to the capital."
-msgstr ""
+msgstr "이주민을 수도로 안내합니다."
 
 #. Test/Dialogues/KingdomAsCompanion/CN - On the Edge/ThroneRoomLeaema/Answer_0016_AlignmentShift.Description
 msgctxt "551d8fb4-0151-4053-bc89-c1dfa9640020"
 msgid "Turned away a newcomer because of the personal grudge."
-msgstr ""
+msgstr "개인적인 이유로 이주민을 거절합니다."
 
 #. Test/Dialogues/Landmark_RockyClimbHigh/Answ_LC_Leave_Text
 msgctxt "9b98f67a-1f41-400c-9c6b-9af29dca8238"
 msgid "[Leave]"
-msgstr ""
+msgstr "[떠납니다]"
 
 #. Test/Dialogues/Landmark_RockyClimbHigh/Answ_LC_Use_Text
 msgctxt "27ddf30a-3667-4c3a-83a4-9fd66da51cb0"
 msgid "[Climb down the hillside]"
-msgstr ""
+msgstr "[산비탈로 내려갑니다]"
 
 #. Test/Dialogues/Landmark_RockyClimbHigh/Cue_LC_Fail_Text
 msgctxt "aa063e38-fc78-4d2d-8b77-ed9820eb353a"
 msgid ""
 "Be it the stairs' fault, or your own acrobatic skills, you slip and fall in "
 "the middle of the climb, hitting the ground hard."
-msgstr ""
+msgstr "계단의 잘못인지, 당신의 곡예 기술의 문제인지, 당신은 오르는 도중에 떨어져, 땅에 심하게 부딛혔습니다."
 
 #. Test/Dialogues/Landmark_RockyClimbHigh/Cue_LC_Info_Text
 msgctxt "57da52c9-feab-4f56-83dc-4f3c696300e8"
 msgid ""
 "These ancient, crumbling stairs could be used to go up and down the steep "
 "hillside before you, if you can handle the climb."
-msgstr ""
+msgstr "이 고대의, 갈라진 계산은 당신 뒤에 있는 언덕을 오르고 내려가는 데 사용할 수 있을 것 같습니다, 당신이 활용할 수만 있다면."
 
 #. Test/Dialogues/Landmark_RockyClimbHigh/Cue_LC_Success_Text
 msgctxt "c439148e-a940-49f8-b669-43a1b12767d1"
 msgid "The ancient stairs are helpful in climbing down the hillside."
-msgstr ""
+msgstr "이 고대 계산은 언덕으로 내려가는 데 도움을 줄 것 같습니다."
 
 #. Test/Dialogues/Landmark_RockyClimbLow/Answ_LC_Leave_Text
 msgctxt "e0736a46-2744-4d9a-ade6-294b798f02cd"
@@ -23064,19 +23080,19 @@ msgctxt "2f70b548-5262-4c98-bcd1-2f260d5c2804"
 msgid ""
 "Be it the stairs' fault, or your own acrobatic skills, you slip and fall in "
 "the middle of the climb, hitting the ground hard."
-msgstr ""
+msgstr "계단의 잘못인지, 당신의 곡예 기술의 문제인지, 당신은 오르는 도중에 떨어져, 땅에 심하게 부딛혔습니다."
 
 #. Test/Dialogues/Landmark_RockyClimbLow/Cue_LC_Info_Text
 msgctxt "c74b9bcd-f30b-4569-8ec8-07af5b46a8ee"
 msgid ""
 "These ancient, crumbling stairs could be used to go up and down the steep "
 "hillside before you, if you can handle the climb."
-msgstr ""
+msgstr "이 고대의, 갈라진 계산은 당신 뒤에 있는 언덕을 오르고 내려가는 데 사용할 수 있을 것 같습니다, 당신이 활용할 수만 있다면."
 
 #. Test/Dialogues/Landmark_RockyClimbLow/Cue_LC_Success_Text
 msgctxt "7c881958-3889-479d-bee5-9d23ff900f0c"
 msgid "The ancient stairs are helpful in climbing the hillside."
-msgstr ""
+msgstr "이 고대 계산은 언덕으로 올라가는 데 도움을 줄 것 같습니다."
 
 #. Test/Dialogues/PartyBanter/VS_AmiriEkun_01/Cue_0002 1_Text
 #. Speaker : Amiri_Companion
@@ -23084,13 +23100,13 @@ msgctxt "e54e61f9-2338-4363-9d43-03c4207ba068"
 msgid ""
 "\"Yeah, great. Mind making a new axe handle for me? You see, I... Was "
 "cutting wood and shattered the axe handle.\""
-msgstr ""
+msgstr "\"그래, 좋아. 나에게 새 도끼 자루를 만들어 주지 않겠어? 너도 알겠지만... 나무를 베다가 도끼 자루를 산산조각냈거든.\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriEkun_01/Cue_0002 2_Text
 #. Speaker : Amiri_Companion
 msgctxt "fce811f7-46e0-4409-9656-98465313ab80"
 msgid "\"How, how… I was angry, got it? So will you fix it for me or what?\""
-msgstr ""
+msgstr "\"어, 어떻게... 나는 화났어, 알아? 그니까 고칠거야 말거야?\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriEkun_01/Cue_0002 3_Text
 #. Speaker : Amiri_Companion
@@ -23098,19 +23114,19 @@ msgctxt "cb910947-2a54-4822-b3b7-13f80107f20b"
 msgid ""
 "\"Not at all, I am not stupid! I just thought it was easy and there was no "
 "need to bother others.\""
-msgstr ""
+msgstr "\"절대 아니야, 나는 멍청하지 않아! 나는 단지 그게 쉽다고 생각했고, 다른 사람을 괴롭힐 필요가 없다고 생각했을 뿐이야.\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriEkun_01/Cue_0002_Text
 #. Speaker : Amiri_Companion
 msgctxt "9b04f6a8-9c7f-4f0f-86b6-42f051f4afde"
 msgid "\"Hey, archer, you're a handyman type, right?\""
-msgstr ""
+msgstr "\"이봐, 활쟁이, 너는 일 잘하는 사람이야, 그렇지?\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriEkun_01/Cue_0003 1_Text
 #. Speaker : Ekun_Companion
 msgctxt "fac72d35-89fc-4261-b1ce-441a1e9cf39c"
 msgid "\"Easily. But how could that happen? That axe was rather sturdy.\""
-msgstr ""
+msgstr "\"그런데 그런 일이 어떻게 일어난거지? 그 도끼는 매우 견고했는데.\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriEkun_01/Cue_0003 2_Text
 #. Speaker : Ekun_Companion
@@ -23119,12 +23135,14 @@ msgid ""
 "\"Of course. It was painful to see you trying to do it yourself. Wanted to "
 "offer help, but thought you're the kind of I-do-it-all-myself person.\""
 msgstr ""
+"\"물론이지. 너가 스스로 고치려고 하는 모습을 보는 것은 고통스러웠거든. 도와주고는 싶었지만, 나는 너가 스스로-모든-것을-한다는 "
+"사람이라고 생각했었어.\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriEkun_01/Cue_0003_Text
 #. Speaker : Ekun_Companion
 msgctxt "9cb85466-dfe0-4720-83f2-f3ff00e27c86"
 msgid "\"Yes, I used to be a carpenter in my village.\""
-msgstr ""
+msgstr "\"그래, 나는 내 마을에서 목수였었지.\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriJubilost_01/Cue_0002 1_Text
 #. Speaker : Jubilost_Companion
@@ -23132,7 +23150,7 @@ msgctxt "3dde61e9-78f1-469b-83fb-3a9313321570"
 msgid ""
 "\"I've been to many places, and, as you can see, I always survived. The "
 "secret is in careful preparations and the best equipment!\""
-msgstr ""
+msgstr "\"나는 많은 장소를 다녀봤지, 그리고, 너도 알다시피, 나는 항상 살아남았지. 그 비밀은 사려깊은 준비와 최고의 장비라고!\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriJubilost_01/Cue_0002 2_Text
 #. Speaker : Jubilost_Companion
@@ -23140,7 +23158,7 @@ msgctxt "cf65ecea-f686-45bb-a180-b435a1a92189"
 msgid ""
 "\"I won't last long, so what? I bet you won't last long without those "
 "muscles of yours!\""
-msgstr ""
+msgstr "\"나는 오래 버티지 못할 거야, 그래서? 너의 근육 없이는 너도 오래 버티지 못할 거라는 데 내기를 걸지.\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriJubilost_01/Cue_0002 3_Text
 #. Speaker : Jubilost_Companion
@@ -23153,6 +23171,9 @@ msgid ""
 "make alchemist's fire — do you think you'd last longer than if I was left in "
 "the north unequipped?\""
 msgstr ""
+"\"그래서 정말로 너는 뇌가 운동이 필요 없다고 믿고 있는 거야? 나는 내가 공부를 시작했을 때 꼬마였지. 나는 산성으로 인해 많은 "
+"흉터가 남았어 - 너가 쇠로 인해 입은 흉터만큼이나 많이! 만약 누군가 너를 실험실로 데려가서 유리병과 물약과 함께 너를 내벼려두고 "
+"알케미스트의 불꽃을 만들기를 원한다면 - 내가 북쪽에서 장비 없이 버틸 수 있는 것만큼 너가 오래 버틸 수 있다고 생각하니?\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriJubilost_01/Cue_0002_Text
 #. Speaker : Jubilost_Companion
@@ -23162,6 +23183,8 @@ msgid ""
 "have to admit: in no other land of the Inner Sea had I tried anything like "
 "giant sloth igunaq!\""
 msgstr ""
+"\"그래서 너는 맘모스 군주의 영토에서 왔다고? 거기에 한 번 가본 적이 있지. 인정해야 겠어: 내해의 땅의 어느 곳에서도 거대 나무늘보 "
+"이구나크만큼 도전해본 것이 없어!\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriJubilost_01/Cue_0003 1_Text
 #. Speaker : Amiri_Companion
@@ -23169,13 +23192,13 @@ msgctxt "73f88df3-a2eb-4622-8ce2-f1f7371c5911"
 msgid ""
 "\"Oh, sure! You need all that stuff of yours to survive. I bet you wouldn't "
 "last an hour without it!\""
-msgstr ""
+msgstr "\"오, 좋아! 살아남기 위해서는 그것들이 필요할 거야. 그것 없이는 한 시간도 버틸 수 없다는 데 내기를 걸지!\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriJubilost_01/Cue_0003 2_Text
 #. Speaker : Amiri_Companion
 msgctxt "3a088db8-73ef-4b70-8365-756ee80475ad"
 msgid "\"Ugh. You can't compare those! Muscles need work-outs!\""
-msgstr ""
+msgstr "\"윽. 그것과는 비교할 수 없어! 근육은 운-동이 필요하다고!\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriJubilost_01/Cue_0003 3_Text
 #. Speaker : Amiri_Companion
@@ -23183,13 +23206,13 @@ msgctxt "bd91b9b7-2577-4f6f-b7d5-a20e2a0fdda3"
 msgid ""
 "\"Enough bragging… Also, giant sloth's shitty for igunaq. Glyptodon's much "
 "better!\""
-msgstr ""
+msgstr "\"자랑은 충분해... 그리고, 그 더러운 거대 나무늘보 이구나크 말인데. 그립토돈이 더 훌륭하다고!\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriJubilost_01/Cue_0003_Text
 #. Speaker : Amiri_Companion
 msgctxt "91d4b8dd-6190-47ae-8557-f6f1f6d9cc5b"
 msgid "\"Bullshit! Your kind could never survive there. Not after an igunaq!\""
-msgstr ""
+msgstr "\"헛소리! 너같은 놈들은 거기서 절대로 살아남을 수 없어. 이구나크는 제쳐두더라도!\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriOctavia_01/Cue_0002 1_Text
 #. Speaker : Octavia_Companion
@@ -23198,6 +23221,8 @@ msgid ""
 "\"On the contrary, we are better, bigger than that. We are civilized people, "
 "so we don't need to resort to such cruel violence.\""
 msgstr ""
+"\"그와는 반대로, 우리는 더 낫고, 더 큰 존재에요. 우리는 문명화된 사람들이에요, 그러니 우리는 그런 잔혹한 범죄에 의존할 필요가 "
+"없어요.\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriOctavia_01/Cue_0002 2_Text
 #. Speaker : Octavia_Companion
@@ -23207,12 +23232,14 @@ msgid ""
 "the demolition of their lairs and homes, and I don't know… I feel pity for "
 "them, I guess...\""
 msgstr ""
+"\"아마도 당신이 맞아요. 저는 그냥... 문명의 진보를 보았어요, 그들의 둥지와 집의 파괴는, 저는 알지 못했어요... 그들에게 "
+"동정심을 느껴요...\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriOctavia_01/Cue_0002 3_Text
 #. Speaker : Octavia_Companion
 msgctxt "f1fe1a86-26df-4606-916b-a0e50f1e389a"
 msgid "\"You might be right.\""
-msgstr ""
+msgstr "\"당신 말이 맞을지도 몰라요.\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriOctavia_01/Cue_0002_Text
 #. Speaker : Octavia_Companion
@@ -23222,6 +23249,8 @@ msgid ""
 "monsters, and we kill them on the spot... They could have lived there for "
 "centuries before we arrived with our spells and steel!\""
 msgstr ""
+"\"무언가 잘못되었다고 느껴져요. 우리는 트롤과 다른 몬스터의 땅에 와서는, 그들을 죽였죠... 우리가 주문과 쇠로 무장해서 오기 전에 "
+"그들은 그곳에서 수십세기를 살았을지도 몰라요!\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriOctavia_01/Cue_0003 1_Text
 #. Speaker : Amiri_Companion
@@ -23231,6 +23260,8 @@ msgid ""
 "we're bigger? Take any troll — twice bigger and tenfold stronger than you. "
 "And giants are as big as walking mountains! And yet we must spare them?\""
 msgstr ""
+"\"너가 '문명화된 사람들' 부분을 말할 때, 나는 너를 때릴 뻔했어! 아무 트롤이나 데리고 와 봐 - 너보다 두 배는 크고 열 배는 "
+"강하다고. 자이언트들은 걸어다니는 산만큼이나 크다고! 그런데도 그들을 놔줘야 하니?\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriOctavia_01/Cue_0003 2_Text
 #. Speaker : Amiri_Companion
@@ -23239,6 +23270,8 @@ msgid ""
 "\"First we kill enough so they learn to stop attacking us — and then you can "
 "pity those who remain. And until then — no more whining!\""
 msgstr ""
+"\"먼저 우리가 그들을 충분히 죽이고 나면 그들은 우리를 향한 공격을 멈춰야 된다는 것을 알게 될거야 - 그 다음 너는 남아있는 자들에게 "
+"동정심을 가질 수 있어. 그 때까지 - 징징거리지 좀 마!\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriOctavia_01/Cue_0003_Text
 #. Speaker : Amiri_Companion
@@ -23246,7 +23279,7 @@ msgctxt "e4a87df6-6758-49fd-876c-f47b3e8c8e0a"
 msgid ""
 "\"What's wrong? They do the same when come to villages and eat up everybody… "
 "How are we worse?\""
-msgstr ""
+msgstr "\"뭐가 잘못됐어? 그들이 마을로 들어와 모두를 먹어치울 때, 그들도 똑같이 한다고... 어떻게 우리가 더 나쁠 수 있지?\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriValerie_01/Cue_0002 1_Text
 #. Speaker : Amiri_Companion
@@ -23255,6 +23288,8 @@ msgid ""
 "\"Training? Ha, lucky you! Where I came from, girls weren't taught to fight. "
 "I had to sneak around to watch elder hunters train boys!\""
 msgstr ""
+"\"훈련이라고? 하, 운도 좋군! 내가 자란 곳은, 여자애들은 싸우는 법을 가르침받지 못했어. 나는 나이 든 사냥꾼들이 남자애들을 "
+"훈련하는 것을 몰래 지켜봐야 했다고!\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriValerie_01/Cue_0002 2_Text
 #. Speaker : Amiri_Companion
@@ -23264,6 +23299,8 @@ msgid ""
 "the crowd. Hunters just toss all the dirty work to women, so they can have "
 "fun playing tough heroes!\""
 msgstr ""
+"\"꿈 깨! 누군가는 옷을 만들고, 애를 낳고, 사람들을 먹여야 한다고. 사냥꾼들은 모든 잡일을 여자들에게 던질 뿐이었지, 그리고 거친 "
+"영웅놀이를 즐길 수 있었지!\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriValerie_01/Cue_0002 3_Text
 #. Speaker : Amiri_Companion
@@ -23275,6 +23312,9 @@ msgid ""
 "Hot one! Wish I could see our tribesmen sending her to mend hides! They'd "
 "have to patch their own hides after, ha-ha!\""
 msgstr ""
+"\"물론이지! 그게 내가 떠난 이유야. 여기도 더러운 것들이 있지만, 적어도 남자들이 여자들을 쓰레기처럼 취급하지는 않는다고. 여자는 "
+"원하는 어떤 것이든 될 수 있어 - 파이터, 위저드, 심지어 족장도! 이 소위 자만디라고 불리는 사람을 보라고! 멋지잖아! 부족원들이 "
+"그녀를 보내서 가죽을 다듬게 하는 것을 생각해봐! 그들은 스스로 가죽을 다져야만 할거야, 하-하!\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriValerie_01/Cue_0002 4_Text
 #. Speaker : Amiri_Companion
@@ -23282,13 +23322,13 @@ msgctxt "ec318e7f-e72e-47d8-9dc0-7410bca9046f"
 msgid ""
 "\"You not bad yourself! Anyway, tell me when you are in the mood for "
 "sparring!\""
-msgstr ""
+msgstr "\"나쁘지 않네! 어쨌든, 너가 싸우고 싶은 기분일 때 말만 해!\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriValerie_01/Cue_0002_Text
 #. Speaker : Amiri_Companion
 msgctxt "802bb0d8-8e8f-4ca5-af73-415cd260fe26"
 msgid "\"You are good fighter, you know that? Want to spar?\""
-msgstr ""
+msgstr "\"너는 좋은 싸움꾼이야, 너 그거 알아? 싸우고 싶지?\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriValerie_01/Cue_0003 1_Text
 #. Speaker : Valerie_Companion
@@ -23297,6 +23337,8 @@ msgid ""
 "\"Really? I had imagined that in the Realm of the Mammoth Lords everyone is "
 "a warrior — no matter old or young, man or woman.\""
 msgstr ""
+"\"정말입니까? 저는 맘모스 군주의 영토의 모든 사람은 전사들일 거라고 생각해 왔습니다 - 늙거나 어리거나, 남자거나, 여자거나 상관없이."
+"\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriValerie_01/Cue_0003 2_Text
 #. Speaker : Valerie_Companion
@@ -23306,18 +23348,20 @@ msgid ""
 "but they could share the rest of work. How many promising warrior women must "
 "have wasted their talents among cooking pots and dirty diapers!\""
 msgstr ""
+"\"그것은 완전히 공평하지 않습니다... 남자는 분명히 애를 낳을 수 없습니다, 그러나 여전히 나머지 일들을 나눠서 할 수 있습니다. "
+"얼마나 많은 유망한 전사들의 재능이 요리 냄비와 더러운 기저귀 사이에서 낭비 되었을지!\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriValerie_01/Cue_0003 3_Text
 #. Speaker : Valerie_Companion
 msgctxt "11c98839-bbc5-40f2-8e38-ff5509788c81"
 msgid "\"I'm happy you managed to break free. You're a formidable fighter.\""
-msgstr ""
+msgstr "\"당신이 자유를 찾아서 기쁩니다. 당신은 대단한 싸움꾼입니다.\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriValerie_01/Cue_0003 4_Text
 #. Speaker : Valerie_Companion
 msgctxt "97880428-b696-4b70-bf2e-00a1e07c9030"
 msgid "\"I surely will!\""
-msgstr ""
+msgstr "\"반드시 그렇게 하겠습니다!\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriValerie_01/Cue_0003_Text
 #. Speaker : Valerie_Companion
@@ -23326,6 +23370,8 @@ msgid ""
 "\"Well… I'm a bit busy right now. But later — why not! You know, since I've "
 "finished my training, you are the first one who made me such a proposal.\""
 msgstr ""
+"\"글쎄요... 저는 지금은 약간 바쁩니다. 나중에라면 - 안 될 것 없습니다! 당신도 알다시피, 제가 훈련을 마친 이후로, 그런 제안을 "
+"한 사람은 당신이 처음입니다.\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunHarrim_01/Cue_0002 1_Text
 #. Speaker : Harrim_Companion
@@ -23333,7 +23379,7 @@ msgctxt "e2dab811-9a64-4b52-8eb8-b8839b5cf4f7"
 msgid ""
 "\"That's how it is... I'm sorry, Ekun, this was an impolite question. But is "
 "your choice a correct one?\""
-msgstr ""
+msgstr "\"그것이 어떻게... 미안하네, 에쿤, 이것은 정중하지 못한 질문이었네. 그러나 자네의 선택은 옳은 것인가?\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunHarrim_01/Cue_0002 2_Text
 #. Speaker : Harrim_Companion
@@ -23342,18 +23388,20 @@ msgid ""
 "\"But what has Torag given you? After all, you've lost everything. Why "
 "didn't he protect you, why didn't he help you?\""
 msgstr ""
+"\"그러나 토락은 자네에게 무엇을 주었는가? 이것보게, 자네는 모든 것을 잃었네. 왜 그는 자네를 지켜주지 않았나, 왜 그는 자네를 "
+"도와주지 않았나?\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunHarrim_01/Cue_0002 3_Text
 #. Speaker : Harrim_Companion
 msgctxt "188a4443-bf7a-4ec6-ae79-d8283e9c131a"
 msgid "\"So you don't think he's let you down?\""
-msgstr ""
+msgstr "\"그래서 자네는 그가 자네를 버렸다고 생각하지 않는건가?\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunHarrim_01/Cue_0002_Text
 #. Speaker : Harrim_Companion
 msgctxt "86d902f6-ff95-4800-af10-0f9edc0fe88d"
 msgid "\"So even your people were lured into worshipping Torag?\""
-msgstr ""
+msgstr "\"심지어 자네의 사람들조차 토락을 숭배하라고 꾀어졌는가?\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunHarrim_01/Cue_0003 1_Text
 #. Speaker : Ekun_Companion
@@ -23361,7 +23409,7 @@ msgctxt "b677e283-ff73-471f-85b3-6ff67bbe9a1e"
 msgid ""
 "\"This question, impolite too. But I will answer. Yes, my choice was right. "
 "I never regretted.\""
-msgstr ""
+msgstr "\"이 질문, 또한 정중하지 않군. 그러나 나는 대답하지. 그래, 나의 선택은 옳았어. 나는 절대로 후회하지 않아.\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunHarrim_01/Cue_0003 2_Text
 #. Speaker : Ekun_Companion
@@ -23372,6 +23420,9 @@ msgid ""
 "not carry us down this way on their backs. Never asked for charity from "
 "anyone, especially from my god.\""
 msgstr ""
+"\"너의 질문은 똑똑하지도 너에게 가치가 있지도 않아. 너는 신이 유모처럼 해야 한다고 믿고 있는건가, 우리에게 음식과 마실 것을 주고 "
+"우리의 눈물을 닦아 줘야 한다고? 신들은 그저 길을 가리킬 뿐이야, 등에 업고 길을 가는 게 아니라고. 누구에게도 관용을 구하지 마, "
+"특별히 신으로부터.\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunHarrim_01/Cue_0003 3_Text
 #. Speaker : Ekun_Companion
@@ -23383,12 +23434,15 @@ msgid ""
 "Torag to blame for that? He teaches his followers to hone their skills, my "
 "skills were forgotten... Torag didn't let me down. I did.\""
 msgstr ""
+"\"마을에서의 삶은 행복한 것이었어. 나무와 망치질과 못질의 나날들. 나의 활은 벽에 걸려 있었지, 오랬동안 나는 활을 들 필요가 "
+"없었어. 몬스터가 마을로 왔을 때, 나의 활질은 녹슬어 있었어. 그것으로 토락이 비난받아야 하는가? 토락은 그를 믿는 자에게 기술을 "
+"연마하라고 가르쳤지만, 나의 기술은 녹슬어 있었어... 토락이 나를 버린 게 아니야. 내가 토락을 버린 것이야.\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunHarrim_01/Cue_0003_Text
 #. Speaker : Ekun_Companion
 msgctxt "e21b57eb-7767-4b36-8ede-b3c8c5be6194"
 msgid "\"I'm not the people It's just me. My faith was not forced on me.\""
-msgstr ""
+msgstr "\"나는 그 사람들이 아니라 그냥 나일 뿐이야. 나의 믿음은 강요된 것이 아니야.\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunJubilost_01/Cue_0002 1_Text
 #. Speaker : Ekun_Companion
@@ -23398,6 +23452,8 @@ msgid ""
 "to Razmiran. They were 'scientific expedition'. And their leader was "
 "'renowned' writer.\""
 msgstr ""
+"\"한 때, 노움의 집단이 우리와 상행을 같이 했었어. 그들의 길은 압살롬에서 라즈미란에 이르는 것이었어. 그들은 '과학적 여정' "
+"중이었지. 그들을 이끄는 자는 '잘 알려진' 작가였어.\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunJubilost_01/Cue_0002 2_Text
 #. Speaker : Ekun_Companion
@@ -23408,6 +23464,9 @@ msgid ""
 "distance, never shared food. A servant brought them bowl of our stew. Famous "
 "gnome poured it over servant's head.\""
 msgstr ""
+"\"거짓 없이 말하자면, 그들은 좋은 동료가 아니었어. 그들은 우리와 떨어져서 야영했었지. 그렇게 하면 그들을 보호하기가 더 어려워지는데 "
+"말이지. 그들은 거리를 유지했고, 음식을 나누지 않았어. 한 고용인이 우리의 스튜에서 한 그릇을 떠서 그들에게 가져다 주었지. 유명한 "
+"노움은 그의 머리에 그릇을 부어버렸지.\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunJubilost_01/Cue_0002 3_Text
 #. Speaker : Ekun_Companion
@@ -23416,12 +23475,13 @@ msgid ""
 "\"This conversation has gone wrong. Just wanted to say that now you're a "
 "fine companion. It's good to fight along with you.\""
 msgstr ""
+"\"이 대화는 잘 되지 않는군. 그저 지금은 우리가 괜찮은 동료라는 것을 말하고 싶을 뿐이야. 너와 함께 싸우는 것은 좋은 일이야.\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunJubilost_01/Cue_0002_Text
 #. Speaker : Ekun_Companion
 msgctxt "a79cb180-9fb8-4161-89d4-fd727c5e1cad"
 msgid "\"I used to guard many trade caravans and travelers.\""
-msgstr ""
+msgstr "\"나는 많은 무역 상행인들과 여행자들을 보호하는 일을 하곤 했었지.\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunJubilost_01/Cue_0003 1_Text
 #. Speaker : Jubilost_Companion
@@ -23429,7 +23489,7 @@ msgctxt "e52928b7-aea6-4e91-90f3-9b24b4df5167"
 msgid ""
 "\"That's extremely useful information. Thanks for sharing it with me. And "
 "now don't let me detain you further…\""
-msgstr ""
+msgstr "\"그것은 최고로 유용한 정보야. 나에게 정보를 나눠주어 고마워. 이제 너를 더는 지체하지 않을게...\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunJubilost_01/Cue_0003 2_Text
 #. Speaker : Jubilost_Companion
@@ -23443,6 +23503,10 @@ msgid ""
 "just out of scientific interest, and I had no interest in repeating that "
 "dangerous experiment! Oh no, never, no way!\""
 msgstr ""
+"\"오, 그래, 이제 그 여행이 완벽하게 기억났어! 특별히 너의 보안 서비스에 관한 멋진 부분들에 관해 말이지. 우리는 돈을 냈음에도, "
+"너가 불 옆에서 부르는 멍청한 노래를 들어야만 했지! 너도 알다시피, 우리는 민족학적 여정을 하고 있는 중이 아니었지 그리고 우리는 "
+"분명하게 술 취해서 부르는 노래에 관심이 없었지! 그리고 그 스튜를 떠올리게 하지마! 한 입 맛 보았는데, 과학적 관심이 아니라면, 나는 "
+"그 위험한 실험을 하는데 전혀 관심이 없었어! 오 안돼, 아니야, 절대!\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunJubilost_01/Cue_0003 3_Text
 #. Speaker : Jubilost_Companion
@@ -23453,6 +23517,9 @@ msgid ""
 "without plugging his ears and nose! And now, when we are done with this "
 "touching moment, would you mind if I go back to work?\""
 msgstr ""
+"\"오, 그러면 이것은 칭찬의 이상한 한 종류인건가? 글쎄, 나는 정중하게 되돌려줘야 할 것 같군. 이거야: 이제 한 사람이 그의 귀와 "
+"코를 막지 않고도 불 옆에 있는 너와 앉을 수 있게 된 거지! 그리고 지금, 이 감동적인 순간이 끝났다면, 이제 일하러 돌아가 봐도 될까?"
+"\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunJubilost_01/Cue_0003_Text
 #. Speaker : Jubilost_Companion
@@ -23461,12 +23528,14 @@ msgid ""
 "{n}Jubilost stops jotting things in his notebook and gives Ekun an irritated "
 "look.{/n} \"I'm extremely happy for you.\""
 msgstr ""
+"{n}주빌로스트는 그의 공책에 무언가를 끄적이는 것을 멈추고, 에쿤을 짜증섞인 눈길로 바라봅니다.{/n} \"나는 너로 인해 최고로 "
+"행복해.\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunOctavia_01/Cue_0002 1_Text
 #. Speaker : Octavia_Companion
 msgctxt "b478a46c-6996-4145-8fc5-5888863b6fa7"
 msgid "\"They gobble! Got it? They are goblins, so they gobble!\""
-msgstr ""
+msgstr "\"고블고블! 알겠어요? 그들은 고블린이에요, 그래서 그들은 고블고블 먹는거에요!\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunOctavia_01/Cue_0002 2_Text
 #. Speaker : Octavia_Companion
@@ -23475,6 +23544,8 @@ msgid ""
 "\"That was a pun. I'm just trying to cheer you up. You're so grim all the "
 "time… I'd like to see you smile at least once, for a change.\""
 msgstr ""
+"\"그건 말장난이었어요. 저는 그저 당신을 기운나게 하려던 거에요. 당신은 하루종일 너무 우울해 있어요... 저는 당신이 적어도 한 "
+"번이라도 웃는 것을 보고 싶어요, 변화를 위해서요.\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunOctavia_01/Cue_0002 3_Text
 #. Speaker : Octavia_Companion
@@ -23486,18 +23557,21 @@ msgid ""
 "nevertheless. That was our way to survive, you need to laugh sometimes just "
 "like you need food and water. You're a ranger, you must understand that.\""
 msgstr ""
+"\"미안해요. 당신에게 힘든 것이라는 것을 알았어요. 하지만 당신도 알다시피... 사슬에 묶인 노예인 우리들조차 웃을 수 있는 몇 가지 "
+"이유를 찾았어요... 아마도 그 이유들은 멍청하고, 저속하고, 음울했죠... 그래도 우리는 그 이유들을 찾았죠. 그게 우리가 살아남은 "
+"방법이었어요, 당신은 음식이나 물을 찾듯이 대때로 웃음을 찾아야 해요. 당신은 레인저예요. 당신은 그것을 이해해야만 해요.\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunOctavia_01/Cue_0002 4_Text
 #. Speaker : Octavia_Companion
 msgctxt "b3d21c67-ad6f-48b9-9c6c-2f1ed7c035d8"
 msgid "\"Ha-ha-ha-ha-ha, that's a good one!\""
-msgstr ""
+msgstr "\"하-하-하-하-하, 좋아요!\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunOctavia_01/Cue_0002_Text
 #. Speaker : Octavia_Companion
 msgctxt "0521a58a-f137-443a-b1d5-53d6702ea24f"
 msgid "\"Ekun, hey, Ekun! What do goblins do when it's time for breakfast?\""
-msgstr ""
+msgstr "\"에쿤, 이봐요, 에쿤! 고블린이 아침을 먹을 때 무엇을 하는지 아세요?\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunOctavia_01/Cue_0003 1_Text
 #. Speaker : Ekun_Companion
@@ -23505,7 +23579,7 @@ msgctxt "30507a22-da0f-44e4-a98e-9f90daf81bf4"
 msgid ""
 "\"Don't understand. You've been telling odd things all day. Perhaps my "
 "Common is not fine enough to understand?\""
-msgstr ""
+msgstr "\"이해할 수 없어. 너는 하루 종일 이상한 것들을 말하고 다니는군. 아마 나의 상식이 이해하기에 충분하지 못한건가?\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunOctavia_01/Cue_0003 2_Text
 #. Speaker : Ekun_Companion
@@ -23515,6 +23589,8 @@ msgid ""
 "ago now. That man, who knew how to smile, dead and buried. Someone else is "
 "standing here.\""
 msgstr ""
+"\"예전에는 많이 웃었지. 내 아내와, 딸과 있는 동안은 말이야. 그 시간은 오래 전의 일이야. 그 남자, 어떻게 웃을 지 알던 사람은, "
+"죽고 묻혀졌어. 여기는 누군가 다른 사람이 서있는 거야.\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunOctavia_01/Cue_0003 3_Text
 #. Speaker : Ekun_Companion
@@ -23523,12 +23599,13 @@ msgid ""
 "\"Understandable. But everyone has own ways to survive. So don't expect me "
 "to start… shooting puns instead of arrows.\""
 msgstr ""
+"\"이해할 수 있군. 그러나 모든 사람은 각자만의 생존법이 있어. 내가 시작하기를... 화살 대신에 말장난을 쏘는 것을 예상하지 마.\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunOctavia_01/Cue_0003_Text
 #. Speaker : Ekun_Companion
 msgctxt "880632c9-fa9a-4b62-b098-ff0aecac92ce"
 msgid "\"Don't know. They eat meat?\""
-msgstr ""
+msgstr "\"모르겠군. 고기를 먹나?\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunValerie_01/Cue_0002 1_Text
 #. Speaker : Ekun_Companion
@@ -23539,6 +23616,8 @@ msgid ""
 "their heads. But you seem peaceful. As if you haven't lost faith but found "
 "it.\""
 msgstr ""
+"\"누군가는 슬픔으로 가득하고, 용서를 구하지. 다른 사람은 분개하고 복수를 구하지. 그들은 하늘에 저주를 마치 돌처럼 던지고는, 그들의 "
+"머리에 떨어지기를 바라보고 있지. 그러나 너는 평화로워 보이는군. 한 때 믿음을 잃었지만 찾은 사람처럼.\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunValerie_01/Cue_0002 2_Text
 #. Speaker : Ekun_Companion
@@ -23546,7 +23625,7 @@ msgctxt "6e3dbf1e-3a54-4d99-bdbc-4dc3cac1b378"
 msgid ""
 "\"Worshipping a god tough at times. But how do you live without faith? What "
 "do you rely on now?\""
-msgstr ""
+msgstr "\"신을 숭배하는 것은 때때로 힘든 일이지. 하지만 너는 어떻게 믿음 없이 살지? 너는 지금 무엇에 의지하지?\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunValerie_01/Cue_0002 3_Text
 #. Speaker : Ekun_Companion
@@ -23557,6 +23636,9 @@ msgid ""
 "ride on god's back. Now it's obvious: there is third type, too. Those whose "
 "deity is trying to ride them.\""
 msgstr ""
+"\"토락의 한 신부는 나에게 사람에는 두 종류가 있다고 말해주더군: 한 사람은 신과 함께 그들의 삶의 여정을 따라가는 사람이고, 다른 "
+"이는 신의 등에 업혀 여정을 떠나기를 원하는 사람이라고. 이제 명백하군: 세 번째 종류의 사람도 있어. 신격이 올라타려는 사람이 말이지."
+"\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunValerie_01/Cue_0002 4_Text
 #. Speaker : Ekun_Companion
@@ -23566,13 +23648,15 @@ msgid ""
 "is yours. Had no intentions to talk about gods. Wanted to learn more about "
 "you.\""
 msgstr ""
+"\"모든 사람은 그들 자신의 믿음을 선택해. 나의 선택은 나의 것, 너의 선택은 너의 것이야. 신에 관해 이야기할 의도는 없었어. 너에 "
+"대해 더 알고 싶었어.\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunValerie_01/Cue_0002_Text
 #. Speaker : Ekun_Companion
 msgctxt "ed6781e1-4ae2-4128-b918-5f8d390b0ddf"
 msgid ""
 "\"Met other paladins who've lost their faith. You're different from them.\""
-msgstr ""
+msgstr "\"믿음을 잃어버린 팔라딘들은 만나 봤어. 너는 그들과는 다르군.\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunValerie_01/Cue_0003 1_Text
 #. Speaker : Valerie_Companion
@@ -23584,6 +23668,9 @@ msgid ""
 "that you were speaking about, they were rejected, while I have freed myself."
 "\""
 msgstr ""
+"\"제가 생각하기에, 당신은 그렇게 말할 수 있습니다. 저는 믿음에 관한 적절한 토론을 알지 못합니다만, 당신이 원한다면, 대답해 "
+"드리겠습니다. 저는 어린 시절부터 셸린의 신도였습니다만, 그 선택은 만들어진 것이었습니다. 당신이 말씀하신 팔라딘들은, 거절당한 "
+"것입니다, 반면 저는 저를 해방시켰습니다.\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunValerie_01/Cue_0003 2_Text
 #. Speaker : Valerie_Companion
@@ -23593,6 +23680,8 @@ msgid ""
 "speaking, I feel much easier now, when my self-esteem does not depend on "
 "approval of some hypocritical divine aunt!\""
 msgstr ""
+"\"많은 것들이 있습니다. 함께 싸우는 나의 동료들. 나의 승리들. 나의 명예. 진심으로 말씀드리건데, 저는 지금 훨씬 편안합니다, 저의 "
+"자존심이 몇몇의 위선적인 신성한 숙모에 의해 승인받을 필요가 없으니까요!\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunValerie_01/Cue_0003 3_Text
 #. Speaker : Valerie_Companion
@@ -23602,12 +23691,14 @@ msgid ""
 "man. Sincerely speaking, I was worried you would start preaching Torag's "
 "faith to me.\""
 msgstr ""
+"\"하-하-하, 명석한 관찰입니다! 감사합니다, 에쿤. 당신은 좋은 사람입니다. 진심으로 말씀드리건데, 저에게 토락의 신앙을 설교하지는 "
+"않을 지 걱정했습니다.\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunValerie_01/Cue_0003_Text
 #. Speaker : Valerie_Companion
 msgctxt "69722599-29bd-4f30-97a9-6fbc1252f75f"
 msgid "\"How so, if I may ask?\""
-msgstr ""
+msgstr "\"어떻게 말입니까, 제가 물어봐도 괜찮다면요?\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimJubilost_01/Cue_0002 1_Text
 #. Speaker : Jubilost_Companion
@@ -23618,6 +23709,9 @@ msgid ""
 "collarbone.{/n} \"An expedition to the Boneyard is such a peculiar thing. No "
 "one ever plans it, but everyone goes there anyway, sooner or later.\""
 msgstr ""
+"\"저런, 저런... 너가 스스로 생각해볼래, 아니면 내가 힌트를 줘야하나?\"{n} 주빌로스트는 그의 윗옷의 깃을 잡아당겨 그의 쇄골 "
+"밑의 상처를 보여주었습니다.{/n} \"본야드로의 여정은 이상한 것이지. 누구도 계획하지 않지만, 모든 사람은 그곳에 가게 되지, 빠르던 "
+"늦던지 간에.\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimJubilost_01/Cue_0002 2_Text
 #. Speaker : Jubilost_Companion
@@ -23627,6 +23721,8 @@ msgid ""
 "grins. Unlike Pharasma — she's the scary one! Fortunately our cleric found "
 "me before I'd made a closer acquaintance with her! Are you disappointed?\""
 msgstr ""
+"\"오, 특별한 건 없네, 특별한 건 전혀 없네. 그는 그저 하늘에 매달려 씩 웃고 있지. 파라스마와 달리 - 그녀는 무섭지! 다행히도 "
+"우리의 클레릭은 그녀와 가까이 접촉하기 전에 나를 발견했지! 실망스럽나?\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimJubilost_01/Cue_0002 3_Text
 #. Speaker : Jubilost_Companion
@@ -23640,6 +23736,11 @@ msgid ""
 "like to show you that they are smart, so why not use it? Today, for example, "
 "I've learned a thing or two about the Boneyard.\""
 msgstr ""
+"\"헤헤, 나는 나의 독자에게 거짓말하지 않아. 그러나 지역 사람들은 거짓말을 지금도 그렇도 그 때도 사용할 수 있었어. 너가 무언가를 "
+"직접적으로 물어보면, 사람들은 침묵하거나 거짓말 해. 하지만 너가 의도적으로 무언가를 멍청하게 말하면, 사람들은 정정하기 위해 열성을 다 "
+"하지! 만약 너가 스튜의 비밀 조리법을 알고 싶다면 - 스스로 요리를 시작해야 해, 그리고 지역 사람이 스튜 냄비를 너로부터 가로챌 "
+"때까지 기다리는 거지. 사람들은 그들이 똑똑하다는 것을 보여주고 싶어해, 왜 이것을 이용하지 않지? 오늘날, 예를 들면, 나는 본야드에 "
+"대해 한 두 가지를 배웠다고.\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimJubilost_01/Cue_0002_Text
 #. Speaker : Jubilost_Companion
@@ -23647,13 +23748,13 @@ msgctxt "41e28f4d-76a8-4371-8a2d-875e1dfad5ef"
 msgid ""
 "\"So you follow the teachings of Groetus? You know, I've seen him with my "
 "own eyes!\""
-msgstr ""
+msgstr "\"그래서 너는 그로투스의 가르침을 따르는 건가? 너 그거 알아, 나는 내 두 눈으로 그를 본 적이 있다고!\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimJubilost_01/Cue_0003 1_Text
 #. Speaker : Harrim_Companion
 msgctxt "bb22664a-3854-4cb8-8a6a-13a253d7d62c"
 msgid "\"That's such a correct thing to say! So what does he look like?\""
-msgstr ""
+msgstr "\"그것 참 맞는 말이군! 그래서 그는 어떻게 생겼나?\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimJubilost_01/Cue_0003 2_Text
 #. Speaker : Harrim_Companion
@@ -23664,18 +23765,20 @@ msgid ""
 "person bears no scars. Can it be that all your books are full of such "
 "blatant lies, too?\""
 msgstr ""
+"\"오, 주빌로스트... 자네는 왜 나에게 거짓말을 하나? 만약 자네가 부활했다면, 자네는 파라스마를 볼 수 없었네, 그로투스는 더더욱 "
+"그렇고. 게다가, 부활한 사람은 흉터가 남지 않네. 자네의 책들도 그런 뻔한 거짓말들로 가득한 것인가?\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimJubilost_01/Cue_0003 3_Text
 #. Speaker : Harrim_Companion
 msgctxt "6972f1bd-d302-4ca6-8cd7-cbc1ddadb6ce"
 msgid "\"So much pride, so much cunning…\""
-msgstr ""
+msgstr "\"지나친 자부심, 지나친 교활함...\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimJubilost_01/Cue_0003_Text
 #. Speaker : Harrim_Companion
 msgctxt "61291ef9-874e-440a-a529-efead3cbcd7f"
 msgid "\"What are you talking about? How can this be possible?\""
-msgstr ""
+msgstr "\"자네는 도대체 무엇을 이야기 하는가? 어떻게 그것이 가능한가?\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimOctavia_01/Cue_0002 1_Text
 #. Speaker : Octavia_Companion
@@ -23684,6 +23787,8 @@ msgid ""
 "\"Because if you continue to brush it with your hand, you'll tear it out "
 "completely! You are bald already — want to end up without a beard, too?\""
 msgstr ""
+"\"왜냐하면 당신이 손으로 계속 수염을 쓰다듬는다면, 완전히 찢어질 것이기 때문이죠! 당신은 이미 대머리인데 - 수염도 없애고 싶으신가요?"
+"\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimOctavia_01/Cue_0002 2_Text
 #. Speaker : Octavia_Companion
@@ -23691,7 +23796,7 @@ msgctxt "562be29a-766a-4e76-925c-e14e822e9d5f"
 msgid ""
 "\"Are you serious? So, your point is: sooner or later we all have to die, so "
 "there is no need to comb the beard?\""
-msgstr ""
+msgstr "\"진심이신가요? 그래서, 당신의 요점은: 빠르건 늦건 우리는 모두 죽을 것이고, 그래서 수염을 빗을 필요가 없다는 건가요?\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimOctavia_01/Cue_0002 3_Text
 #. Speaker : Octavia_Companion
@@ -23700,6 +23805,8 @@ msgid ""
 "\"You're a lucky person, Harrim. Actually, I even envy you a bit. It's "
 "obvious your bald head has never been beaten down by life.\""
 msgstr ""
+"\"당신은 운 좋은 사람이에요, 하림. 실제로, 저는 심지어 당신이 약간 부러워요. 당신의 대머리는 삶에 의해서 두들겨 지지 않은 것임이 "
+"분명하니까요.\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimOctavia_01/Cue_0002 4_Text
 #. Speaker : Octavia_Companion
@@ -23712,13 +23819,17 @@ msgid ""
 "because their heads were crammed with crappy philosophy like this, so they "
 "had no will to survive despite all the odds!\""
 msgstr ""
+"\"그래요, 그렇죠, 당신은 당신의 그 미친 생각들에서 나온 모든 덩어리들을 생각해서 고통받는 거에요! 말해봐요, 당신은 노예 군락에서 "
+"살아본 적이 있나요? 당신은 채찍으로 맞아본 일이 있나요? 저는 당신같은 사람들은 전에 본 적이 있어요. 당신 같은 사람들은 그저 누워서 "
+"죽어요. 약하거나 아파서가 아니라, 그들의 머리가 그런 쓰레기 같은 철학들로 가득하기 때문이죠, 그래서 그들은 다른 모든 것에도 불구하고 "
+"살려고 하는 의지가 없어요!\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimOctavia_01/Cue_0002_Text
 #. Speaker : Octavia_Companion
 msgctxt "c111a17b-f2d0-4332-8975-ac8d619d4b91"
 msgid ""
 "\"Harrim, hey Harrim! You should take a comb and give your beard a brush!\""
-msgstr ""
+msgstr "\"하림, 이봐요 하림! 당신은 빗을 가지고 수염을 빗어야만 해요!\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimOctavia_01/Cue_0003 1_Text
 #. Speaker : Harrim_Companion
@@ -23728,6 +23839,8 @@ msgid ""
 "my flesh as well — that's how we all will look when Groetus meets us in the "
 "end of times…\""
 msgstr ""
+"\"오 나의 아이야... 자네도 알다시피, 나는 수염 뿐만 아니라 나의 육신도 없어질 것이네 - 그것이 시간의 끝에서 그로투스와 만나는 "
+"모습이지...\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimOctavia_01/Cue_0003 2_Text
 #. Speaker : Harrim_Companion
@@ -23737,12 +23850,14 @@ msgid ""
 "hurricane of the universe. But the day will come when the hurricane "
 "subsides, and all the dust calms down in eternal tranquility.\""
 msgstr ""
+"\"그렇네. 우리의 삶은 그저 우주의 울부짖는 폭풍 속에서 춤추는 먼지들이라네. 폭풍이 진정되면, 그 때가 오고, 모든 먼지는 영원한 "
+"안식으로 가라앉네.\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimOctavia_01/Cue_0003 3_Text
 #. Speaker : Harrim_Companion
 msgctxt "f7a97a9a-e6d2-4c21-97a0-b144d238ae27"
 msgid "\"Me? What do you know about me? I've endured so much suffering…\""
-msgstr ""
+msgstr "\"나 말인가? 자네는 나에 대해 무엇을 아는가? 나는 많은 고통을 감내해 왔네...\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimOctavia_01/Cue_0003 4_Text
 #. Speaker : Harrim_Companion
@@ -23751,18 +23866,20 @@ msgid ""
 "\"Hmmm… Well, they died, so what? Sooner or later — what's the difference? "
 "Whatever. Just give me your comb now and begone.\""
 msgstr ""
+"\"흠... 글쎄, 그들은 죽었군, 그래서 무엇인가? 빠르거나 늦거나 - 무엇이 다른가? 어쨌든. 나에게 너의 빗을 주고 이만 가 보게."
+"\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimOctavia_01/Cue_0003_Text
 #. Speaker : Harrim_Companion
 msgctxt "bbe81a89-4fba-4f40-b2a2-979e2177f7bb"
 msgid "\"Wh-what? Why should I do that?\""
-msgstr ""
+msgstr "\"뭐-뭐라고? 왜 내가 그런 일을 해야만 하는가?\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimValerie_01/Cue_0002 1_Text
 #. Speaker : Valerie_Companion
 msgctxt "9e5f2d90-5c1d-4c31-846b-9a9c71aa382c"
 msgid "\"Beg yoru pardon?!\""
-msgstr ""
+msgstr "\"모라구요?!\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimValerie_01/Cue_0002 2_Text
 #. Speaker : Valerie_Companion
@@ -23771,6 +23888,7 @@ msgid ""
 "\"Undressing me with your eyes is a spiritual practice? I had no idea you "
 "were a cleric of Calistria or some other open-minded deity!\""
 msgstr ""
+"\"당신의 눈으로 옷을 벗기는 것이 영적인 활동이라는 겁니까? 당신이 칼리스트리아나 다른 개방적인 신격의 성직자인지 몰랐습니다!\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimValerie_01/Cue_0002 3_Text
 #. Speaker : Valerie_Companion
@@ -23784,12 +23902,17 @@ msgid ""
 "empty chatter. There aren't any \"outsides\" or \"insides\". We are who we "
 "are, and no arguments can change that, my apologies.\""
 msgstr ""
+"{n}발레리는 손가락으로 나무랄 데 없는 얼굴의 피부를 천천히 만지면서, 그 안에 있는 뼈를 느꼈다, 그리고 그녀의 목소리는 "
+"부드러워졌다.{/n} \"이상하고 특이하게 들리지만, 당신의 의견에는 요점이 있습니다. 셸린은 그녀를 믿는 자에게 다르게 가르칩니다: "
+"외적으로 추함이 있더라도 그 넘어에는 숨겨진 내면의 아름다움이 있다고 합니다. 제 어리석인 의견을 드리자면, 두 생각 모두 공허한 "
+"이야기에 불과합니다. \"외부\" 혹은 \"내부\"라는 것은 없습니다. 우리는 우리입니다, 그리고 어떤 의견을 이를 바꿀 수는 없습니다, "
+"죄송합니다.\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimValerie_01/Cue_0002 4_Text
 #. Speaker : Valerie_Companion
 msgctxt "e377e736-a8b1-4a3a-91f8-ec6552f7cf5b"
 msgid "\"I'll think about your words.\""
-msgstr ""
+msgstr "\"당신의 말씀을 생각해 보겠습니다.\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimValerie_01/Cue_0002_Text
 #. Speaker : Valerie_Companion
@@ -23799,12 +23922,14 @@ msgid ""
 "the very dawn, you have been throwing such close glances at me, I do not "
 "know what to think about it!\""
 msgstr ""
+"\"어째서 저를 계속 바라보는 것입니까? 정말로 불편해지기 시작했습니다! 이른 새벽부터, 당신은 계속 저를 관찰하는 시선을 던졌습니다, "
+"저는 어떻게 생각해야할 지 모르겠습니다!\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimValerie_01/Cue_0003 1_Text
 #. Speaker : Harrim_Companion
 msgctxt "e640d7cf-103d-45e0-92d5-6a0827352dec"
 msgid "\"Oh, no, don't get me wrong! It's a spiritual practice.\""
-msgstr ""
+msgstr "\"오, 아니, 오해하지 말게! 이것은 영적인 활동이라네.\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimValerie_01/Cue_0003 2_Text
 #. Speaker : Harrim_Companion
@@ -23817,6 +23942,10 @@ msgid ""
 "You strip the flesh from living beings or even inanimate things — layer by "
 "layer — and what do you find in the end? Ashes and bones. Our true essence.\""
 msgstr ""
+"\"잠시만 상상해보게... 자네는 아름다운 여성을 보고 있네. 당신의 마음 속에서, 당신은 그녀의 피부를 벗기네, 자네는 그 밑에 무엇이 "
+"보이는가? 그저 살과 뼈일 뿐이네. 이것을 생각해보면: 아름다움의 모든 것은 피부의 얇은 층 안에 존재하는 것이네. 이것을 한 꺼풀 "
+"벗겨내면 - 모든 아름다움은 사라지네. 자네는 살아 있거나 심지어 살아 있지 않은 것들에서 살을 벗기네 - 층에서 층으로 - 자네는 "
+"마지막에 무엇을 보게 되는가? 재와 뼈일 뿐이네. 우리의 진정한 본질이네.\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimValerie_01/Cue_0003 3_Text
 #. Speaker : Harrim_Companion
@@ -23825,6 +23954,8 @@ msgid ""
 "\"I see, I see. You're not prepared to accept the truth yet. It's all right: "
 "we all will have to face it in the hour of our death. Oh, yes…\""
 msgstr ""
+"\"알겠네, 알겠네. 자네는 아직 진실을 받아들일 준비가 되지 않은 것 같네. 모두 괜찮네: 우리는 죽음의 시간이 다가오면 진실을 "
+"맞이해야만 할 것이네. 오 그래...\""
 
 #. Test/Dialogues/PartyBanter/VS_HarrimValerie_01/Cue_0003_Text
 #. Speaker : Harrim_Companion
@@ -23832,7 +23963,7 @@ msgctxt "81ae050f-51ed-4df3-b153-6c4fec64f9f1"
 msgid ""
 "\"Wh-what? Ah… Don't worry about that, Valerie. I've just been undressing "
 "you with my eyes…\""
-msgstr ""
+msgstr "\"무-무엇이? 아... 걱정하지 말게, 발레리. 나는 그저 자네를 내 눈으로 벗기고 있었을 뿐이네...\""
 
 #. Test/Dialogues/PartyBanter/VS_JubilostOctavia_01/Cue_0002 1_Text
 #. Speaker : Octavia_Companion
@@ -23842,6 +23973,8 @@ msgid ""
 "general. Are there any places where everyone is absolutely free, and their "
 "own master?\""
 msgstr ""
+"\"아니요, 저는 노예에 대해서 말하고 있는 것이 아니에요. 이것은, 글쎄요... 일반적인 자유에 관한 것이에요. 모든 사람이 완전하게 "
+"자유롭고 그들 자신이 그들의 주인인 곳이 있을까요?\""
 
 #. Test/Dialogues/PartyBanter/VS_JubilostOctavia_01/Cue_0002 2_Text
 #. Speaker : Octavia_Companion
@@ -23850,6 +23983,8 @@ msgid ""
 "\"Yeah, that's right… But isn't it possible to set an order where everyone "
 "does what they want, and no one oppresses anyone?\""
 msgstr ""
+"\"예, 맞는 말이에요... 하지만 모든 사람이 그들이 원하는 것을 하고 그 누구도 누군가를 억압하지 않는 질서를 만드는 것이 가능하지 "
+"않을까요?\""
 
 #. Test/Dialogues/PartyBanter/VS_JubilostOctavia_01/Cue_0002 3_Text
 #. Speaker : Octavia_Companion
@@ -23858,6 +23993,7 @@ msgid ""
 "\"Ugh, what a horrible idea! No, the old way of fighting evil is better. You "
 "know, good can also have fists!\""
 msgstr ""
+"\"윽, 그런 끔찍한 생각도 있네요! 아니요, 악과 싸우는 옛날의 방식이 더 낫겠어요. 당신도 알다시피, 선한 사람도 주먹이 있거든요!\""
 
 #. Test/Dialogues/PartyBanter/VS_JubilostOctavia_01/Cue_0002_Text
 #. Speaker : Octavia_Companion
@@ -23865,7 +24001,7 @@ msgctxt "e523b145-e9d1-444b-b507-bd0021c4ba9a"
 msgid ""
 "\"Jubilost! You've been everywhere, seen everything. Tell me, is there a "
 "place where everyone is free anywhere in Golarion?\""
-msgstr ""
+msgstr "\"주빌로스트! 당신은 모든 곳에 가봤고, 모든 것을 보았죠. 말해주세요, 골라리온에 모든 사람이 자유로운 곳이 있나요?\""
 
 #. Test/Dialogues/PartyBanter/VS_JubilostOctavia_01/Cue_0003 1_Text
 #. Speaker : Jubilost_Companion
@@ -23876,6 +24012,9 @@ msgid ""
 "and his men have lost their freedom to reave and rob. Now we are trying to "
 "create an environment with less freedom, and more order.\""
 msgstr ""
+"\"내 사랑스러운 소녀여, 너는 지금 너가 어디에 있다고 생각하는거지? 사실, 이곳의 자유의 수준은 약간 떨어지지; 지역 범죄 조직의 "
+"우두머리의 머리가 잘려나갔고 그의 남은 부하들은 약탈과 도둑질의 자유를 잃었지. 지금 우리는 더 적은 자유를 가진 환경을 만들려고 하는 "
+"중이지, 더 많은 규율과 함께.\""
 
 #. Test/Dialogues/PartyBanter/VS_JubilostOctavia_01/Cue_0003 2_Text
 #. Speaker : Jubilost_Companion
@@ -23888,6 +24027,9 @@ msgid ""
 "put a spell on all the villains, so they will want to plant flowers instead "
 "of doing evil things. How do you like that solution?\""
 msgstr ""
+"\"몇몇의 누군가를 붙잡고 억압을 시작할 때, 너는 무엇을 할 수 있지? 여기에는 두 선택지만이 존재해 - 정당한 권위를 세우는 것과 "
+"누군가의 주먹이 날아오는 순간 너의 자유가 끝난다는 사실을 받아들이는 것! 그럼에도 너는 - 세번째 선택지로써 - 그 악당들에 주문을 "
+"꽂아줄 수 있겠지, 그래서 그들은 나쁜 행동을 하는 대신에 꽃을 심기를 원하게 될거야. 이 해결책은 어떠니?\""
 
 #. Test/Dialogues/PartyBanter/VS_JubilostOctavia_01/Cue_0003 3_Text
 #. Speaker : Jubilost_Companion
@@ -23897,6 +24039,8 @@ msgid ""
 "against the freedom of others. That's an entertaining thought, isn't it? "
 "Ponder it, while you're on the road.\""
 msgstr ""
+"\"우리는 이 결론에 도달했군 - 선한 이유를 위해서라면, 너의 주먹을 사용해서 다른 이들의 자유를 억압할 것이라는 것을. 그것은 "
+"흥미로운 생각이야, 그렇지 않니? 곰곰히 생각해 봐, 너가 길을 걷는 도중에 말이지.\""
 
 #. Test/Dialogues/PartyBanter/VS_JubilostOctavia_01/Cue_0003_Text
 #. Speaker : Jubilost_Companion
@@ -23910,6 +24054,10 @@ msgid ""
 "slave market, while another is a citadel for escaped slaves, where they "
 "execute slave traders...\""
 msgstr ""
+"\"아주 흥미로운 질문인걸! 그에 대한 대답은 너가 말하는 자유가 어떤 종류인지에 따라 달려있지. 만약 자유가 노예로부터의 해방이라면 - "
+"대답은 간단하지: 노예 제도는 {g|River Kingdoms}강의 왕국들{/g}에서 금지되어 있지. 알도란에서도, 마찬가지지. 게브 "
+"왕국에서는, 사람들은 언데드를 노예로 부리지. 바리시아에는, 카에르 마가라고 불리는 도시가 있어. 그 도시의 구역 중 하나에는 거대한 "
+"노예 시장이 있어, 반대로 다른 구역에는 도망 노예의 성채가 있어, 그들은 그곳에서 노예 상인들을 처형하지...\""
 
 #. Test/Dialogues/PartyBanter/VS_JubilostValerie_01/Cue_0002 1_Text
 #. Speaker : Valerie_Companion
@@ -23917,25 +24065,25 @@ msgctxt "1b3a0b79-bf56-44ed-b021-c497107f021c"
 msgid ""
 "\"Oh, no, not that. But our kitchen maid had a book called '99 soups of the "
 "Inner Sea Region'.\""
-msgstr ""
+msgstr "\"오, 아니요, 그게 아닙니다. 하지만 우리의 주방 하녀는 '내해 지역의 99 종류의 수프'라는 책을 가지고 있었습니다.\""
 
 #. Test/Dialogues/PartyBanter/VS_JubilostValerie_01/Cue_0002 2_Text
 #. Speaker : Valerie_Companion
 msgctxt "6bf52147-1f65-405a-af6e-53eb6938e561"
 msgid "\"Nothing, I believe.\""
-msgstr ""
+msgstr "\"없습니다, 제 생각에는.\""
 
 #. Test/Dialogues/PartyBanter/VS_JubilostValerie_01/Cue_0002_Text
 #. Speaker : Valerie_Companion
 msgctxt "da5efadc-f786-4c29-aa26-0f9b3a5feb0a"
 msgid "\"Jubilost. I had one of your books when I lived back home.\""
-msgstr ""
+msgstr "\"주빌로스트. 제가 고향에 있을 때 당신의 책 하나를 가지고 있었습니다.\""
 
 #. Test/Dialogues/PartyBanter/VS_JubilostValerie_01/Cue_0003 1_Text
 #. Speaker : Jubilost_Companion
 msgctxt "d56ddb02-96b0-438f-9052-f9565a2e2972"
 msgid "\"That was it, then? Did you have anything else written by me?\""
-msgstr ""
+msgstr "\"그랬었군, 그러면? 내가 쓴 다른 책도 가지고 있니?\""
 
 #. Test/Dialogues/PartyBanter/VS_JubilostValerie_01/Cue_0003 2_Text
 #. Speaker : Jubilost_Companion
@@ -23944,6 +24092,8 @@ msgid ""
 "\"Well… As I've said earlier, my books can be found throughout the whole of "
 "Avistan — from the finest homes of the nobility to the simplest kitchens!\""
 msgstr ""
+"\"흠... 내가 전에 말했듯이, 나의 책들은 아비스탄 전역에서 발견되지 - 귀족의 가장 좋은 집에서부터 가장 단순한 주방에 이르기까지!"
+"\""
 
 #. Test/Dialogues/PartyBanter/VS_JubilostValerie_01/Cue_0003_Text
 #. Speaker : Jubilost_Companion
@@ -23953,6 +24103,8 @@ msgid ""
 "book was that? Illustrated Atlas of Avistan? Or, perhaps, Traveler's Essays?"
 "\""
 msgstr ""
+"\"확실히, 내의 책들은 귀족의 가장 좋은 힘에서도 발견되지! 어떤 책이지? 그림이 그려진 아비스탄 지도? 오, 아마도, 여행자의 수기?"
+"\""
 
 #. Test/Dialogues/PartyBanter/VS_OctaviaValerie_01/Cue_0002 1_Text
 #. Speaker : Octavia_Companion
@@ -23961,6 +24113,7 @@ msgid ""
 "\"You're so lucky! Saving so much time and energy! I have to wake up before "
 "dawn every morning to make myself look good.\""
 msgstr ""
+"\"당신은 운도 좋군요! 그 많은 시간과 에너지를 절약할 수 있다니요! 저는 저를 꾸미기 위해 매일 아침 새벽 전에 일어나야 한답니다.\""
 
 #. Test/Dialogues/PartyBanter/VS_OctaviaValerie_01/Cue_0002 2_Text
 #. Speaker : Octavia_Companion
@@ -23972,12 +24125,15 @@ msgid ""
 "appearance — even in the barrack or in the tent — serves as the reminder of "
 "who we really are.\""
 msgstr ""
+"\"당신도 알다시피... 저는 스스로를 위해서 해요. 당신이 한 명의 노예라면, 당신이 당신의 것이 아니라는 생각이 너무 당연하게 "
+"받아들여져요, 그래서 당신이 어떻게 보이는 지 생각할 필요가 없어요. 그리고 이것은 죽음을 의미하죠. 우리의 외모를 신경 쓰는 것 - "
+"심지어 군영지와 야영지에서조차 - 우리가 진정 누군지를 상기시켜주지요.\""
 
 #. Test/Dialogues/PartyBanter/VS_OctaviaValerie_01/Cue_0002 3_Text
 #. Speaker : Octavia_Companion
 msgctxt "9fda215b-0d43-4a34-8331-9a3520754696"
 msgid "\"Tee-hee, come on, stop it! You flatter me!\""
-msgstr ""
+msgstr "\"티-히, 잠깐만요, 멈추세요! 당신은 저를 꼬시고 있어요!\""
 
 #. Test/Dialogues/PartyBanter/VS_OctaviaValerie_01/Cue_0002_Text
 #. Speaker : Octavia_Companion
@@ -23987,6 +24143,8 @@ msgid ""
 "me? How do you manage to pay no attention to your appearance and still look "
 "gorgeous?\""
 msgstr ""
+"\"머리카락이 완전히 엉망이야 - 또... 발레리, 당신의 비밀을 알려 줄 수 있나요? 어떻게 당신은 외모에 신경을 안 쓰는데도 그렇게 "
+"아름다울 수 있나요?\""
 
 #. Test/Dialogues/PartyBanter/VS_OctaviaValerie_01/Cue_0003 1_Text
 #. Speaker : Valerie_Companion
@@ -23997,6 +24155,9 @@ msgid ""
 "Who are you trying to impress when every morning you put on make-up in your "
 "tent? You think trolls or kobolds would notice?\""
 msgstr ""
+"\"만약 제 말이 무례하게 들린다면 용서를 구합니다, 외모를 다듬는 것을 거부함으로써 귀중한 시간을 절약하는 것이 더 쉽지 않겠습니까? "
+"아침마다 당신이 텐트에서 외모를 꾸밀 때 누구에게 인상을 주고 싶으신 겁니까? 당신은 트롤이나 코볼트가 알아차릴 것이라고 생각하시는 "
+"겁니까?\""
 
 #. Test/Dialogues/PartyBanter/VS_OctaviaValerie_01/Cue_0003 2_Text
 #. Speaker : Valerie_Companion
@@ -24005,6 +24166,8 @@ msgid ""
 "\"Sounds familiar! Nobles are taught to share this point of view from early "
 "childhood. You must have some blue blood in your veins.\""
 msgstr ""
+"\"익숙하게 들립니다! 귀족들은 아주 어릴 때부터 그 같은 관점을 공유하도록 교육 받습니다. 당신의 혈관 속에는 푸른 피가 흐르는 것이 "
+"분명합니다.\""
 
 #. Test/Dialogues/PartyBanter/VS_OctaviaValerie_01/Cue_0003_Text
 #. Speaker : Valerie_Companion
@@ -24013,11 +24176,12 @@ msgid ""
 "\"There is no secret at all. I don't do anything special, don't even think "
 "about it. I just don't know why everything works out like that.\""
 msgstr ""
+"\"비밀은 전혀 없습니다. 저는 특별한 무언가를 하지 않습니다, 생각하지도 않습니다. 저도 어째서 그렇게 되는지 알지 못합니다.\""
 
 #. Test/Dialogues/Raven_Fake/Answer_31865_Text
 msgctxt "84b30f4f-c6b4-4ede-a60f-ffb3b08ea42b"
 msgid "Close."
-msgstr ""
+msgstr "닫기."
 
 #. Test/Dialogues/Raven_Fake/Cue_27624_Text
 msgctxt "d02df48c-74f7-47d7-9dbd-4e2a58336233"
@@ -24026,81 +24190,83 @@ msgid ""
 "councilors insist on your speedy return to the capital. Some urgent matters "
 "require your personal attention."
 msgstr ""
+"검은 까마귀는 당신의 수도에서 소식을 가지고 왔습니다. 당신의 평의원이 당신의 수도로의 신속한 복귀를 원하고 있습니다. 몇몇 긴급한 "
+"사안들이 당신의 주의를 필요로 합니다."
 
 #. Test/Dialogues/RecruitmentTest/Answer_37487_Text
 msgctxt "d0f5ccd2-ec6e-4125-b8b1-e8d91d586619"
 msgid "No"
-msgstr ""
+msgstr "아니오"
 
 #. Test/Dialogues/RecruitmentTest/Answer_47628_Text
 msgctxt "3051a154-eb1f-42d0-9ee3-88b2ac27d648"
 msgid "Yes"
-msgstr ""
+msgstr "예"
 
 #. Test/Dialogues/RecruitmentTest/Answer_98535_AlignmentShift.Description
 msgctxt "ccb35bb4-cf0f-46e3-aa75-fe9d849e155d"
 msgid "Something goes wrong."
-msgstr ""
+msgstr "무언가 잘못되어갑니다."
 
 #. Test/Dialogues/RecruitmentTest/Answer_98535_Text
 msgctxt "3504cbd8-5991-4346-84a6-a06d0fc734db"
 msgid "NG shift. Need Neutral."
-msgstr ""
+msgstr "중립 선 변경. 중립 필요."
 
 #. Test/Dialogues/RecruitmentTest/Answer_98536_AlignmentShift.Description
 msgctxt "dd36c83f-914b-4879-bc0f-e2114d0ea726"
 msgid "shift LN"
-msgstr ""
+msgstr "변경 질서 중립"
 
 #. Test/Dialogues/RecruitmentTest/Answer_98536_Text
 msgctxt "00f64eb5-ebe0-42de-be44-a67ee5dd4b42"
 msgid "LN shift"
-msgstr ""
+msgstr "질서 중립 변경"
 
 #. Test/Dialogues/RecruitmentTest/Answer_98537_Text
 msgctxt "bbd55042-f083-48a6-8cdd-03f7b3c2de51"
 msgid "Need Neutral"
-msgstr ""
+msgstr "중립 필요"
 
 #. Test/Dialogues/RecruitmentTest/Answer_98538_Text
 msgctxt "76a4a064-a496-4f6c-af6b-386d22bedf3c"
 msgid "Нет, я хочу русскоговорящего наёмника"
-msgstr ""
+msgstr "Нет, я хочу русскоговорящего наёмника"
 
 #. Test/Dialogues/RecruitmentTest/Answer_98541_Text
 msgctxt "7366293e-4a9e-4b9b-b21c-5de6ef85b467"
 msgid "Это слишком дорого"
-msgstr ""
+msgstr "Это слишком дорого"
 
 #. Test/Dialogues/RecruitmentTest/Answer_98542_Text
 msgctxt "9f4cf497-bf09-40d1-8cbe-0557c59d39df"
 msgid "Возьми мои деньги и Давай его сюда"
-msgstr ""
+msgstr "Возьми мои деньги и Давай его сюда"
 
 #. Test/Dialogues/RecruitmentTest/Cue_16461_Text
 msgctxt "48d67714-573b-47f5-a3b9-cbafc65f3e62"
 msgid "Yay"
-msgstr ""
+msgstr "예이"
 
 #. Test/Dialogues/RecruitmentTest/Cue_98539_Text
 msgctxt "219f4680-f2c1-4d8c-9597-cfc8c71988b1"
 msgid "Okay, give me your money. It cost {custom_companion_cost}"
-msgstr ""
+msgstr "좋습니다, 돈을 주십시오. 비용은 {custom_companion_cost}입니다"
 
 #. Test/Dialogues/RecruitmentTest/RecTectCue1_Text
 msgctxt "e88de41d-dea6-4b4f-829e-2b41d010f740"
 msgid "Hi i wana be in yer party"
-msgstr ""
+msgstr "안녕 니 일행에 들가고 싶음"
 
 #. Test/Dialogues/StartBook_Alpha/Answer_0004_Text
 msgctxt "6019119b-8dd4-4340-bd9d-4d8fd736ae06"
 msgid "Continue."
-msgstr ""
+msgstr "계속하기."
 
 #. Test/Dialogues/StartBook_Alpha/Answer_0006_Text
 msgctxt "bc4d0eb6-3dc4-49c1-9494-8b2b8b3bbdd3"
 msgid "Close."
-msgstr ""
+msgstr "닫기."
 
 #. Test/Dialogues/StartBook_Alpha/Cue_0003_Text
 msgctxt "4455c1c0-145b-47c9-a062-6adc798e4d22"
@@ -24118,32 +24284,39 @@ msgid ""
 "with small steps — our first order of business is to ensure the safety of a "
 "trading post belonging to one Oleg Leveton..."
 msgstr ""
+"도둑 맞은 땅\n"
+"누구도 이 땅을 가지고 있지 않지만, 모든 사람은 이 땅을 골치 아파합니다. 질 나쁜 수 마일의 도로로 이어진 영토는 논쟁거리이고, 모든 "
+"길은 도적과 몬스터들로 가득합니다. 그리고 그곳이 우리의 대담하지만 아직 유명하지 않은 영웅이 이끄는 작은 일행이 향하고 있는 곳입니다. "
+"{g|Brevoy}브레보이{/g} 소드로드는 질서의 일부를 회복하기 위해 우리를 그곳에 보냈고, 우리는 수사슴 군주로 알려진 우두머리에 "
+"의해 이끌어지는 도적 패거리들과 싸우기 시작했습니다. 성공의 보상은 남작의 작위와 해방된 땅을 통치할 권리입니다. 실패의 대가는 - "
+"불명예스러운 죽음입니다. 그러나 위대함의 길은 언제나 작은 발걸음에서 시작됩니다 - 우리의 첫번째 임무는 올렉 레베튼의 무역소의 안전을 "
+"확실히 하는 것입니다."
 
 #. Test/Dialogues/Start_OTP_Tuskgutter/Answer_0005_Text
 msgctxt "39388e4c-b213-466b-adee-cf60e31be549"
 msgid "\"Don't you think we've got enough to do without this Tuskgutter?\""
-msgstr ""
+msgstr "\"터스크거터를 없애지 않아도 된다고 생각해?\""
 
 #. Test/Dialogues/Start_OTP_Tuskgutter/Answer_0007_Text
 msgctxt "acaf77d4-edd7-4e02-a6c4-87170b73a104"
 msgid ""
 "\"Seems like you can't wait to slay this boar. Is this something personal?\""
-msgstr ""
+msgstr "\"이 멧돼지를 죽이고 싶어 안달하는 것처럼 보이는데. 무슨 개인적인 이유라도 있어?\""
 
 #. Test/Dialogues/Start_OTP_Tuskgutter/Answer_0011_Text
 msgctxt "57fd31a8-0fe1-4951-9305-396d96beceb0"
 msgid "\"No. We have no time to entertain ourselves with hunting.\""
-msgstr ""
+msgstr "\"아니. 우리에게 사냥을 즐길 시간은 없어.\""
 
 #. Test/Dialogues/Start_OTP_Tuskgutter/Answer_0012_Text
 msgctxt "e372701e-daae-4b2c-93ee-74f9f6b181bd"
 msgid "\"I said no. This conversation is over.\""
-msgstr ""
+msgstr "\"아니라고 했어. 이 대화는 끝났어.\""
 
 #. Test/Dialogues/Start_OTP_Tuskgutter/Answer_0014_Text
 msgctxt "14e33566-4928-474a-aadc-6984e1509c4f"
 msgid "\"All right, let's go and kill this Tuskgutter.\""
-msgstr ""
+msgstr "\"좋아, 가서 터스크거터를 죽이자.\""
 
 #. Test/Dialogues/Start_OTP_Tuskgutter/Cue_0003_Text
 msgctxt "c3a1bca4-35aa-432d-93c4-d0807c790895"
@@ -24153,6 +24326,8 @@ msgid ""
 "right? Wanna bet I can chop off the snout of this Tuskgutter in a single "
 "fight? Come on, see for yourself!\""
 msgstr ""
+"\"올렉은 사람들이 그 몬스터가 있는 장소를 알지만, 상대할 정도로 강인하지 못하다고 말했어. 그런데 우리는 지역의 겁쟁이 보다는 낫지, "
+"안그래? 내가 터스크거터를의 주둥이를 한 번의 전투를 썰어버릴 수 있을 지 내기할까? 이봐, 가서 직접 확인해보자!\""
 
 #. Test/Dialogues/Start_OTP_Tuskgutter/Cue_0006_Text
 msgctxt "4849b37d-32c1-4bda-932c-330c782aaf3e"
@@ -24161,6 +24336,8 @@ msgid ""
 "things right! Bandits is one thing, but we are still supposed to get rid of "
 "monsters, too! And, besides, reward is a good thing, right?\""
 msgstr ""
+"{n}바바리안은 움찔합니다.{/n} \"이봐! 들어봐, 그들은 우리를 옳은 일을 하라고 여기로 보냈어! 도적도 그 중 하나지만, 우리는 "
+"여전히 몬스터들을 제거해야만 한다고! 그리고, 게다가, 보상도 짭짤하잖아, 안그래?\""
 
 #. Test/Dialogues/Start_OTP_Tuskgutter/Cue_0008_Text
 msgctxt "5158ca67-353a-406d-bfa0-007b895e4acc"
@@ -24169,6 +24346,8 @@ msgid ""
 "good man's leg! This must be avenged, right? Or next time he tears off "
 "someone's head!\""
 msgstr ""
+"\"무엇을?! 아니, 이렇게는 아니야, 나는 그저... 좋아... 잘라! 이 돼지는 선량한 사람의 다리를 찢었어! 이것은 복수야, "
+"그렇지? 다음에 그는 누군가의 머리를 찢을거야!\""
 
 #. Test/Dialogues/Start_OTP_Tuskgutter/Cue_0010_Text
 msgctxt "e8dd7026-75ae-4dd8-bf19-f7cfed913ab1"
@@ -24176,6 +24355,8 @@ msgid ""
 "{n}Amiri looks aside.{/n} \"Well… Not exactly. I tell you some other time. "
 "Probably. And now let's just go and slice this monster into bacon stripes!\""
 msgstr ""
+"{n}아미리는 옆을 쳐다봅니다.{/n} \"글쎄... 정확히는 아니야. 나중에 더 이야기해 줄게. 아마도. 지금은 떠나서 이 몬스터를 "
+"잘라 베이컨으로 만들자고!\""
 
 #. Test/Dialogues/Start_OTP_Tuskgutter/Cue_0013_Text
 msgctxt "df5eb16f-fdb7-48c2-9db2-0c63de6a15dd"
@@ -24184,6 +24365,8 @@ msgid ""
 "in Amiri's voice. {/n}\"Why it's such a big deal for you to go and watch me "
 "cutting this pig? Your Stag Lord won't go anywhere!\""
 msgstr ""
+"\"들어봐, 왜 너는 그렇게 지루한 놈이지, 응? {n}- 당신은 아미리 목소리 속의 씁쓸함을 들을 수 있습니다. {/n}\"내가 이 "
+"돼지를 써는 것을 보는 것이 왜 너에게 그렇게까지 큰 일이지? 너의 수사슴 군주는 아무데도 가지 않을텐데!\""
 
 #. Test/Dialogues/Start_OTP_Tuskgutter/Cue_0015_Text
 msgctxt "924657e9-756b-43df-886b-e419079815a5"
@@ -24191,13 +24374,15 @@ msgid ""
 "\"That's what you are, huh? Fine!\" {n}Amiri spits on the ground and goes "
 "away, stomping her feet — obviously to drown her disappointment in beer.{/n}"
 msgstr ""
+"\"그게 너란 놈이야, 응? 좋아!\" {n}아미리는 땅에 침을 뱉고는 떠났습니다, 발을 쿵쿵거리며 - 분명히 그녀의 실망감을 맥주에 "
+"빠뜨릴 것 같습니다.{/n}"
 
 #. Test/Dialogues/Start_OTP_Tuskgutter/Cue_0018_Text
 msgctxt "4ca97fe2-fed3-46eb-b5e0-831acee7c581"
 msgid ""
 "{n}Amiri gives you a wide grin and slaps your shoulder.{/n} \"Riiiight, "
 "that's the way I like it! Let's do it!\""
-msgstr ""
+msgstr "{n}아미리는 크게 씩 웃으며 당신의 어깨를 칩니다.{/n} \"쪼오오았어, 그게 내가 원한 거야! 사냥하자!\""
 
 #. Test/Dialogues/Start_OTP_Tuskgutter/Cue_0019_Text
 msgctxt "4b6df8dc-3779-420d-ab73-383d1b286dc7"
@@ -24208,32 +24393,36 @@ msgid ""
 "huge! And angry! He teared off some fellow's leg, so this fellow took "
 "offence and set a reward for monster's head!\""
 msgstr ""
+"{n}아미리가 당신을 입구 근처에서 붙잡습니다. 짓궂은 웃음이 그녀의 얼굴을 환하게 합니다.{/n} \"들어봐, 여기 좋은 소식이 있어! "
+"올렉이 야생 돼지가 이곳 숲속에 있다고 내게 말했어. 그냥 돼지가 아니라, 진정한 멧돼지야. 터스크거터, 이곳 사람들은 그렇게 불러. "
+"그는 거대하지! 그리고 화가 나있지! 그는 몇몇의 다리를 찢었어, 그리고 사람들은 공격을 하려고 하고 그 몬스터의 머리에 현상금을 "
+"붙여놨어!\""
 
 #. Test/Dialogues/TrashToDelete/Dialogue_DemonShrine/Answer_0019_AlignmentShift.Description
 msgctxt "ebb788d9-df57-4acc-b814-687223bb20d4"
 msgid "Destroyed altar of Charon, the Horseman of Death."
-msgstr ""
+msgstr "죽음의 기수, 케런의 제단이 파괴 되었습니다."
 
 #. Test/Dialogues/TrashToDelete/Dialogue_DemonShrine/Answer_0021_AlignmentShift.Description
 msgctxt "d03f9686-e31a-45fe-9cb6-7db5d050d4ee"
 msgid "Sacrificed companion's blood on altar of Charon, the Horseman of Death."
-msgstr ""
+msgstr "죽음의 기수, 케런의 제단에 동료의 피가 희생 되었습니다."
 
 #. Test/Dialogues/TrashToDelete/LichPuzzle/Answer_0014_AlignmentShift.Description
 msgctxt "d22713c5-5f19-4d53-ad7b-e90e57bce2d0"
 msgid "Sacrificed {mf|himself|herself}."
-msgstr ""
+msgstr "{mf|그 자신|그녀 자신}이 희생 되었습니다."
 
 #. Test/Dialogues/TrashToDelete/LichPuzzle/Answer_0015_AlignmentShift.Description
 msgctxt "5c45e8b0-3a04-46f7-be10-0e350eb9e5de"
 msgid "Sacrificed innocent."
-msgstr ""
+msgstr "무고한 사람이 희생 되었습니다."
 
 #. Test/Dialogues/TristianAngry/Answer_0008_AlignmentShift.Description
 msgctxt "c2b1127b-7a29-4239-bafd-bbf18854d3ab"
 msgid ""
 "Denied Tristian the participation in destroying the Kingdom of the Cleansed."
-msgstr ""
+msgstr "정화된 자들의 왕국을 파괴한다는 트리스탄의 참여 제의에 반대하였습니다."
 
 #. Test/Dialogues/VSKE_NeedForProtection/Answer_03662_Text
 msgctxt "79b7f0f1-0ff2-4132-a47a-eef537244745"
@@ -24241,11 +24430,13 @@ msgid ""
 "\"Yes, I heard you. Our barony has grown, our garrison has not, so the "
 "guards are spread thin. What do you suggest we do?\""
 msgstr ""
+"\"그래, 들었네. 우리의 남작령은 성장하고 있지만, 우리의 수비대는 그렇지 않네, 그래서 경비대가 얇게 퍼져있지. 우리가 무엇을 해야 "
+"하는지 제안이 있나?\""
 
 #. Test/Dialogues/VSKE_NeedForProtection/Answer_96058_Text
 msgctxt "b3d84f02-3679-4e38-9277-1597f1c8ab26"
 msgid "[debug end]"
-msgstr ""
+msgstr "[디버그 종료]"
 
 #. Test/Dialogues/VSKE_NeedForProtection/Answer_96059_Text
 msgctxt "180274ac-13dc-4ea7-84df-5372e3c3a632"
@@ -24253,29 +24444,31 @@ msgid ""
 "\"Eh? Sorry, Kesten, I got distracted. Were you saying something about the "
 "guards? How there's not enough of them to protect my barony?\""
 msgstr ""
+"\"응? 미안하네, 케스턴, 잠시 주의를 잃었네. 수비대에 대해 말하고 있지 않았나? 어떻게 남작령을 지키는 자들이 부족할 수가 있는 "
+"것인가?\""
 
 #. Test/Dialogues/VSKE_NeedForProtection/AskCounsilors_Answer_Text
 msgctxt "491dfe37-3223-4b7d-8658-2f4a05007bbd"
 msgid "\"What would my advisors suggest?\""
-msgstr ""
+msgstr "\"나의 조언자가 제안할 것은 무엇인가?\""
 
 #. Test/Dialogues/VSKE_NeedForProtection/Castle_Answer_AlignmentShift.Description
 msgctxt "3d179c43-cbf9-444a-9697-e75add7913da"
 msgid "Prioritized your own security over the protection of subjects."
-msgstr ""
+msgstr "백성의 보호보다 당신 자신의 보호가 우선시 되었습니다."
 
 #. Test/Dialogues/VSKE_NeedForProtection/Castle_Answer_Text
 msgctxt "7219b63c-b568-4a9c-9ae3-d841105561c8"
 msgid ""
 "\"I need them here at the castle for my protection — a barony without a "
 "{mf|baron|baroness} would soon collapse.\""
-msgstr ""
+msgstr "\"나의 보호를 위해 그들이 여기에 필요하네 - 남작 없는 남작령은 곧 무너질 걸세.\""
 
 #. Test/Dialogues/VSKE_NeedForProtection/Cue_06263_Text
 #. Speaker : Capital_Kesten
 msgctxt "032d2f75-f6fb-4690-91c8-77d19aef062a"
 msgid "\"As you command, Your Grace\"."
-msgstr ""
+msgstr "\"당신의 명령대로, 전하\"."
 
 #. Test/Dialogues/VSKE_NeedForProtection/Cue_33477_Text
 #. Speaker : Capital_Jhod
@@ -24283,7 +24476,7 @@ msgctxt "9c5226a9-bd39-4a90-bac5-7ae132ab242f"
 msgid ""
 "\"We have to defend the farms and villages. The people's safety must come "
 "first, and we cannot betray their trust.\""
-msgstr ""
+msgstr "\"우리는 농장과 마을들을 지켜야 합니다. 백성의 안전이 먼저 있어야 합니다, 우리는 그들의 신뢰를 배신해서는 안됩니다.\""
 
 #. Test/Dialogues/VSKE_NeedForProtection/Cue_55573_Text
 #. Speaker : Capital_Kesten
@@ -24292,12 +24485,14 @@ msgid ""
 "{n}Kesten shifts uneasily.{/n} \"Towns might be best.\" {n}His brow "
 "furrows.{/n} \"Yes — towns. Might help with recruitment, too? Who knows.\""
 msgstr ""
+"{n}케스턴은 쉽게 움직이지 않습니다.{/n} \"마을들이 가장 좋을지 모릅니다.\" {n}그의 눈가가 주름집니다.{/n} \"그렇습니다 "
+"- 마을들. 병사 모집에도 도움이 될 지 모릅니다, 그렇지 않습니까? 누가 알겠습니까.\""
 
 #. Test/Dialogues/VSKE_NeedForProtection/Cue_58471_Text
 #. Speaker : Capital_Kesten
 msgctxt "8eca81e9-3f2b-4dfe-ba92-377d2699eea7"
 msgid "\"Your Grace? Are you listening to me?\""
-msgstr ""
+msgstr "\"전하? 듣고 계십니까?\""
 
 #. Test/Dialogues/VSKE_NeedForProtection/Cue_61919_Text
 msgctxt "ffddd962-7acd-4ac2-86d5-2ffec0a6de09"
@@ -24309,6 +24504,10 @@ msgid ""
 "are sharp.{/n} \"And perhaps we can back up our dear warden if he's not up "
 "to the task.\""
 msgstr ""
+"\"오, 이 성은 그렇네. 우리가 무엇을 선택하던지 간에, 누군가는 혜택을 보고, 다른 누군가는 고통을 받을 것이네, 그러한 선택은 종종 "
+"지역 영주에게 대가를 치르게 하네, 보통 그들의 머리로 말일세. 나는, 나만을 위해, 나의 경비대가 우리의 직접적인 감독 아래로 오기를 "
+"선호하네...\" {n}랜더의 미소는 커졌습니다, 그러나 그의 눈매는 날카롭습니다.{/n} \"그리고 아마도 우리는 감시관이 임무가 없을 "
+"때면 그를 활용할 수 있을 것일세.\""
 
 #. Test/Dialogues/VSKE_NeedForProtection/Cue_83686_Text
 #. Speaker : Capital_Kesten
@@ -24319,6 +24518,9 @@ msgid ""
 "for the best. The question is where — in the towns? Farms? Trade routes?\" "
 "{n}He glances around.{/n} \"Or here at the castle, perhaps?\""
 msgstr ""
+"\"모집하고는 있습니다만 - 시간이 걸릴 것입니다.\" {n}케스턴은 시선을 아래로 내립니다.{/n} \"지금 우리는 우리의 경비대가 "
+"주둔할 가장 좋은 곳이 어딘지 - 마을인지, 농장인지, 교역로인지 정해야만 합니다.\" {n}그는 주변을 응시합니다.{/n} \"아니면 "
+"이곳 성도 아마도 가능할지 모릅니다?\""
 
 #. Test/Dialogues/VSKE_NeedForProtection/Farms_Answer_Text
 msgctxt "b29899d9-bf2f-498f-9cbc-01b5c41ff98b"
@@ -24326,6 +24528,8 @@ msgid ""
 "\"Farms and villages, it's little use to protect our people only to watch "
 "them starve, and I'll not risk a famine.\""
 msgstr ""
+"\"농장과 마을이네, 우리의 백성들이 굶주는 것을 살피는 것은 약간의 노력이면 될 것일세, 그리고 나는 기근의 위험을 감수하지 않을 "
+"것이네.\""
 
 #. Test/Dialogues/VSKE_NeedForProtection/NeedForProtection_Start_Cue_Text
 #. Speaker : Capital_Kesten
@@ -24333,36 +24537,36 @@ msgctxt "5c640119-4f93-4029-ac5c-8bcc9ba60675"
 msgid ""
 "\"…that's why, as I said, our forces are not enough to defend all our people…"
 "\""
-msgstr ""
+msgstr "\"...그것이, 제가 말씀 드렸듯이, 우리의 군대가 모든 백성을 지키기에 충분하지 않은 이유입니다...\""
 
 #. Test/Dialogues/VSKE_NeedForProtection/NoDecision_AlignmentShift.Description
 msgctxt "756253ef-6ef7-446f-a65b-73bf41506974"
 msgid "Let Kesten make the decision about the way to protect the barony."
-msgstr ""
+msgstr "남작령을 지키는 방법에 대해 케스턴에게 결정을 맡겼습니다."
 
 #. Test/Dialogues/VSKE_NeedForProtection/NoDecision_Text
 msgctxt "e51ceeb9-ced1-4396-9bbd-ff86d953fae8"
 msgid "\"I've appointed you Warden, Kesten, so you must decide.\""
-msgstr ""
+msgstr "\"나는 케스턴, 감시관인 자네에게 맡기기로 하였네. 자네는 결정해야 할 것이네.\""
 
 #. Test/Dialogues/VSKE_NeedForProtection/ProtectAll_Answer_Text
 msgctxt "344e68ee-0545-4b83-9bb6-5519cff4884b"
 msgid ""
 "\"Every part of this barony is important, we must try to defend all we can.\""
-msgstr ""
+msgstr "\"남작령의 모든 부분은 중요하네, 우리는 우리가 가능한 모든 것을 지키려고 노력해야 하네.\""
 
 #. Test/Dialogues/VSKE_NeedForProtection/Town_Answer_Text
 msgctxt "b823f1c8-bc8a-46f2-a318-ad5455ed08b3"
 msgid ""
 "\"We should defend our people, and that means we should guard the towns.\""
-msgstr ""
+msgstr "\"우리는 우리의 백성을 지켜내야 하네, 이것은 우리가 마을을 지켜야 한다는 의미일세.\""
 
 #. Test/Dialogues/VSKE_NeedForProtection/TradeRouts_Answer_Text
 msgctxt "716dcb83-a6c5-42c7-bdde-305c8fa3845e"
 msgid ""
 "\"Trade routes should be our priority. The barony would not survive if its "
 "supply lines are cut off.\""
-msgstr ""
+msgstr "\"교역로는 우리의 우선 사항이 되어야 하네. 공급선이 끊긴다면 남작령은 살아남을 수 없네.\""
 
 #. Test/Dialogues/VS_Companions/Amiri/Cue_36529_Text
 msgctxt "2d8ea7e6-a5cc-4f20-82b7-3f241d5a57be"
@@ -24373,6 +24577,8 @@ msgid ""
 "look proudly and searchingly, as if she is constantly looking for the next "
 "enemy to fight.{/n}"
 msgstr ""
+"{n}그녀는 강인함의 살아있는 화신인 것처럼 보이는 키 크고, 근육질인 여성입니다. 그녀는 전투에서 도망치는 법이 없으며, 그녀의 어깨, "
+"복부, 얼굴의 흉터들은 그 증거입니다. 마치 계속해서 다음의 싸울 상대를 찾는 것처럼, 그녀의 눈은 자부심과 면밀함이 있습니다.{/n}"
 
 #. Test/Dialogues/VS_Companions/Amiri/Cue_59467_Text
 msgctxt "df1420b7-2904-42b7-8694-4af133ed8194"
@@ -24381,6 +24587,8 @@ msgid ""
 "Having left her wearisome motherland, she joined you and helped to fight for "
 "this barony against the Stag Lord and his gang.{/n}"
 msgstr ""
+"{n}아미리는 맘모스 군주의 멀리 떨어진 영토에서 온 가차 없는 바바리안입니다. 황량한 고향을 떠난 그녀는 당신에 합류하여 남작령을 위해 "
+"수사슴과 그의 패거리와 싸우는 것을 도와주고 있습니다.{/n}"
 
 #. Test/Dialogues/VS_Companions/Amiri/Cue_64351_Text
 msgctxt "fae986f1-8ccf-4ce2-b390-a94e1c9142f0"
@@ -24390,6 +24598,9 @@ msgid ""
 "a sissy like...\" {n}She looks around, searching for the fitting "
 "comparison.{/n} \"…like everyone else in here.\""
 msgstr ""
+"\"뭣이? 우리가 언제 행진한다고?\" {n}아미리가 근육을 덥히기 위해 익숙한 동작으로 어깨를 늘립니다.{/n} \"나는 활동이 "
+"필요해. 그렇지 않으면 나는...\" {n}그녀는 주위를 둘러보며, 적당한 대상을 찾고 있습니다.{/n} \"…여기 있는 모두처럼 "
+"계집애가 될거야.\""
 
 #. Test/Dialogues/VS_Companions/Amiri/Cue_69840_Text
 msgctxt "493349b6-86e3-437e-9994-ce556fc2852b"
@@ -24399,6 +24610,8 @@ msgid ""
 "who were stupid enough to fight instead of running away with all the "
 "possible speed.{/n}"
 msgstr ""
+"{n}그녀의 오만함과 고집 센 태도에도 불구하고, 그녀는 어떤 전투에서도 의지할 수 있습니다. 그녀의 거대한 검은 가능한 빠르게 도망치는 "
+"것 대신에 싸우러 오는 멍청한 적들을 쉽게 잘라버립니다.{/n}"
 
 #. Test/Dialogues/VS_Companions/Harrim/Cue_12847_Text
 msgctxt "04575055-c03d-43af-914e-80bfaedd7a6f"
@@ -24408,6 +24621,8 @@ msgid ""
 "graves and heard someone's woeful sobs. That's a good sign for the beginning "
 "of the campaign.\""
 msgstr ""
+"\"그렇게 하게\" {n}하림은 위엄 있게 끄덕입니다. 그의 손가락은 수염을 빗습니다.{/n} \"그로투스께서 나에게 좋은 꿈을 꾸게 "
+"하셨네. 나는 어둠과 무덤을 보았고 누군가의 슬픈 울음을 들었네. 그것은 작전 시작의 좋은 징조일세.\""
 
 #. Test/Dialogues/VS_Companions/Harrim/Cue_29271_Text
 msgctxt "6cbf3985-32c0-4ede-80eb-2ad182e2e72e"
@@ -24416,6 +24631,8 @@ msgid ""
 "in battles, as he could help the allies with his healing magic — \"in the "
 "name of prolonged never-ending agony of life\", as he puts it.{/n}"
 msgstr ""
+"{n}그의 모든 이상한 점에도 불구하고, 이 드워프는 전투에서 귀중한 지원을 해줍니다. 그는 치유 마법으로 동료들을 도와줍니다 - "
+"\"연장된 끊나지 않는 삶의 고통으로 이름으로\", 라는 말을 하면서.{/n}"
 
 #. Test/Dialogues/VS_Companions/Harrim/Cue_35649_Text
 msgctxt "7736f3fa-de46-42b3-a0b7-ecc162efc1a9"
@@ -24425,6 +24642,9 @@ msgid ""
 "has sent me some strange dreams. I've seen...sunshine! My god is definitely "
 "displeased with me. I won't go anywhere until I entreat his forgiveness.\""
 msgstr ""
+"\"하지만 안돼! 아-안-돼-애!!!\" {n}그의 예상치 못한 외침 후, 주변의 모두는 잠시 얼어붙었습니다, 그러나 긴장이 풀리고 "
+"나서, 누가 소리쳤는지 알게 되었습니다.{/n} \"그로투스께서 나에게 이상한 꿈을 꾸게 하셨네. 나는 보았네... 햇빛을! 나의 "
+"신께서는 나에게 화가 나신 게 분명하네. 나는 그의 용서를 받을 때까지 아무데도 가지 않을 것이네.\""
 
 #. Test/Dialogues/VS_Companions/Harrim/Cue_36554_Text
 msgctxt "9dfc3d80-df7f-4465-933e-e9798e605f52"
@@ -24434,6 +24654,8 @@ msgid ""
 "prayers or curses. His bald head reflects the splashes of shy morning "
 "sun.{/n}"
 msgstr ""
+"{n}하림은 당신이 다가오는 것을 보지 못했습니다. 그는 바닥을 응시하며, 기도인지 저주인지 모를 무언가를 속삭이며, 분주히 그의 회색빛 "
+"수염을 잡고 있습니다. 그의 대머리는 아침 햇살의 빛을 반사시킵니다.{/n}"
 
 #. Test/Dialogues/VS_Companions/Harrim/Cue_59478_Text
 msgctxt "1f4004f4-21dc-4826-b22f-740a7b751981"
@@ -24443,6 +24665,8 @@ msgid ""
 "oddball, which was particularly facilitated by his worship of Groetus — the "
 "god of the end times and oblivion.{/n}"
 msgstr ""
+"{n}그 드워프는 오래 전에 당신의 일행에 합류했습니다 - 당신의 출발 바로 직후. 거의 즉시 그는 진정한 괴짜의 명성을 얻었습니다, "
+"이는 특히 그의 그로투스에 대한 숭배로 유발됩니다. - 그로투스는 시간의 끝과 잊혀짐의 신입니다.{/n}"
 
 #. Test/Dialogues/VS_Companions/Harrim/Cue_93314_Text
 msgctxt "841c0b19-526f-4356-8946-a0221caebb86"
@@ -24451,6 +24675,8 @@ msgid ""
 "half-blindly.{/n} \"What? It's time to go? Yet again new sorrows have "
 "befallen our home.\""
 msgstr ""
+"{n}당신의 발을 알아차리며, 드워프는 그의 머리를 들고 침침한 눈으로 꿈뻑거리며 쳐다봅니다.{/n} \"무엇인가? 출발할 시간이 "
+"되었나? 또 새로운 슬픔이 우리의 집에 닥치겠구먼.\""
 
 #. Test/Dialogues/VS_Companions/Octavia/Cue_32871_Text
 msgctxt "8210489d-46db-465a-8ea3-f071e9f30b3b"
@@ -24460,6 +24686,9 @@ msgid ""
 "usual. Unsurprisingly so, for she is a wizard and definitely uses some "
 "everyday spells to maintain her flawless looks.{/n}"
 msgstr ""
+"{n}당신은 옥타비아에게 다가갑니다. 그녀는 당신의 충직한 보좌관이자 많은 전투를 함께 한 동료입니다. 그녀의 평상시처럼 긴, 밤색 "
+"머리카락은 우아하게 빗어졌습니다. 놀랍지 않게, 그녀는 위저드이며, 그녀의 나무랄 데 없는 외모를 유지하는 데 조금의 매일의 주문을 "
+"분명히 사용하고 있습니다.{/n}"
 
 #. Test/Dialogues/VS_Companions/Octavia/Cue_53488_Text
 msgctxt "21639526-ae5a-4abf-9621-84e3a1529258"
@@ -24467,6 +24696,8 @@ msgid ""
 "{n}Octavia looks a bit contemplative today, but she smiles as soon as you "
 "approach.{/n} \"Oh, hello! I've just been thinking of you.\""
 msgstr ""
+"{n}옥타비아는 오늘 약간 생각에 잠긴 듯이 보입니다, 그러나 그녀는 당신이 다가오자 마자 미소를 짓습니다.{/n} \"오, 안녕하세요! "
+"당신을 잠깐 생각하고 있었어요.\""
 
 #. Test/Dialogues/VS_Companions/Octavia/Cue_55973_Text
 msgctxt "e0bf68ac-2621-474c-864e-6317e58ed023"
@@ -24474,6 +24705,8 @@ msgid ""
 "\"I've heard you're going to some new adventure with the trolls which are "
 "immune to fire! I wish I could go with you! It's so exciting!\""
 msgstr ""
+"\"저는 당신이 불꽃에 면역인 트롤과 함께 하는 새로운 모험을 떠날 거라고 들었어요! 저는 당신과 함께 하길 바래요! 너무 신나 보여요!"
+"\""
 
 #. Test/Dialogues/VS_Companions/Octavia/Cue_84549_Text
 msgctxt "6aac8dcd-4c3d-4b46-a845-e1fa1525335e"
@@ -24482,13 +24715,15 @@ msgid ""
 "gates. Just don't be long! It's impolite to make a girl wait.\" {n}She winks "
 "playfully.{/n}"
 msgstr ""
+"\"저는 여기서의 일을 마무리하고 마을 입구 근처에서 당신을 기다리고 있을게요. 너무 늦게 오지 마세요! 소녀를 기다리게 하는 건 "
+"정중하지 못해요.\" {n}그녀는 장난스럽게 윙크합니다.{/n}"
 
 #. Test/Dialogues/VS_Companions/Octavia/Cue_96179_Text
 msgctxt "d720a605-abd2-4243-9104-991f58a32e88"
 msgid ""
 "\"I've heard you're going to some new adventure. Would you take me along? "
 "It's such fun to travel with you!\""
-msgstr ""
+msgstr "\"저는 당신이 새로운 모험을 떠날 거라고 들었어요. 데려가 주시면 안되나요? 당신과 여행하는 것은 너무 즐거워요!\""
 
 #. Test/Dialogues/VS_Companions/Octavia/Cue_99915_Text
 msgctxt "1af9d183-ce05-427a-ae01-c1308709bbbf"
@@ -24498,6 +24733,9 @@ msgid ""
 "head, making her lovely locks dance.{/n} \"We'll deal with it ourselves. I'm "
 "so absent-minded today... Let's talk later, ok?\""
 msgstr ""
+"{n}그녀는 한숨 쉬고는 그녀의 입술을 오므립니다.{/n} \"불행히도, 저는 오늘 갈 수 없어요. 저는 중요한 소식을 기다리고 "
+"있거든요... 오, 신경쓰지 마세요.\" {n}옥타비아는 머리를 흔들고는 사랑스러운 로크 춤을 춥니다.{/n} \"이것은 우리가 "
+"해결할게요. 저는 오늘 너무 정신이 없어요... 나중에 이야기해요. 알았죠?\""
 
 #. Test/Dialogues/VS_Companions/Valerie/Cue_03154_Text
 msgctxt "d2604513-0c1c-4cbc-9afe-dcf04598ae3b"
@@ -24508,6 +24746,9 @@ msgid ""
 "glance of those eyes, many men, and some women too, would attempt the "
 "unaccomplishable.{/n}"
 msgstr ""
+"{n}당신은 쉽게 당신의 남작령에서, 심지어 골라리온에서 조차, 발레리는 가장 아름다운 여성 중 한 명이라고 부를 수 있습니다. 크고 "
+"빛나는 하늘색 눈이 강조되는 그녀의 얼굴 비율은 이상적입니다. 그 눈을 한 번이라도 본 많은 남자들과 몇몇의 여자들은 달성할 수 없는 "
+"목표를 시도하게 됩니다.{/n}"
 
 #. Test/Dialogues/VS_Companions/Valerie/Cue_05433_Text
 msgctxt "080d85be-bf35-4c99-91b9-159037e82132"
@@ -24516,6 +24757,8 @@ msgid ""
 "ago Valerie used to train in the Paladin Order of Shelyn, so she still can't "
 "get rid of excessive courtesy her mentors had implanted in her.{/n}"
 msgstr ""
+"\"좋은 아침입니다, 전하. 정말 좋은 날입니다, 그렇지 않습니까?\" {n}얼마 전까지 발레리는 셰린의 질서를 따르는 팔라딘의 훈련을 "
+"받고 있었습니다, 그래서 그녀는 스승이 주입한 지나친 예의범절을 여전히 지우지 못하고 있습니다.{/n}"
 
 #. Test/Dialogues/VS_Companions/Valerie/Cue_27517_Text
 msgctxt "6e46e2ac-4056-4fe2-bff5-50fb92a4b099"
@@ -24524,6 +24767,8 @@ msgid ""
 "careless charm. Her proud posture and the way she keeps her head up make "
 "Valerie look unapproachable and superior.{/n}"
 msgstr ""
+"{n}그녀의 금발 머리는 비대칭적으로 잘라져 있습니다, 이상하게도 그녀에게 털털한 매력을 부여합니다. 그녀의 자부심 있는 자세와 그녀가 "
+"고개를 들고 있는 방식은 발레리를 다가갈 수 없는 윗사람처럼 보이게 만듭니다.{/n}"
 
 #. Test/Dialogues/VS_Companions/Valerie/Cue_70886_Text
 msgctxt "5513d228-aa2e-4499-9991-66c45715ef15"
@@ -24534,6 +24779,9 @@ msgid ""
 "slightest idea about the proper instruction of the soldiers. You'll be "
 "absolutely fine without my help. He will definitely not.\""
 msgstr ""
+"{n}당신의 응시하는 시선에, 발레리는 부끄러움을 느낀 것처럼 보입니다, 그녀는 얼굴을 찌뿌립니다.{/n} \"더 구체적으로 말하자면, "
+"오늘 경비병 훈련에 제가 참여하겠다고 그에게 알린 사람은 저입니다. 이 얼간이는 군인의 적절한 지도에 대해서 조금의 생각도 없습니다. "
+"당신은 저의 도움 없이도 완전히 괜찮을 것입니다. 그는 절대로 그렇지 않습니다.\""
 
 #. Test/Dialogues/VS_Companions/Valerie/Cue_74506_Text
 msgctxt "e32835a5-512b-4c60-ab2b-b32b8b342abd"
@@ -24542,6 +24790,8 @@ msgid ""
 "trolls. I would be pleased to defend you from those beasts.\" {n}Valerie "
 "speaks with prim dignity.{/n} \"We'll meet at the town gate.\""
 msgstr ""
+"\"새롭고 위험한 적들이 당신의 남작령 국경에 나타났습니다: 트롤입니다. 그 야수들로부터 당신을 지킬 수 있다면 그것은 저의 기쁨입니다."
+"\"{n}발레리는 단정한 위엄과 함께 이야기합니다.{/n} \"우리는 마을 입구에서 만날 것입니다.\""
 
 #. Test/Dialogues/VS_Companions/Valerie/Cue_92082_Text
 msgctxt "cedeef34-6d1d-4bea-8e3b-cc1ad88d1d70"
@@ -24550,6 +24800,8 @@ msgid ""
 "who supported you even before the {g|Restov}Restov{/g} Swordlords granted "
 "you a barony.{/n}"
 msgstr ""
+"{n}발레리는 당신이 다가오는 것을 자세히 바라봅니다. 그녀는 {g|Restov}레스토브{/g} 소드로드가 당시에게 남작의 작위를 "
+"수여하기 전부터 당신을 지원하는 충직한 동료입니다.{/n}"
 
 #. Test/Dialogues/VS_Companions/Valerie/Cue_92455_Text
 msgctxt "78d63dc3-36f4-4783-a1a6-55b70b50b19e"
@@ -24558,16 +24810,18 @@ msgid ""
 "crusade.\" {n}She glances towards Kesten.{/n} \"Garess has pleaded for my "
 "help in instructing the new guardsmen.\""
 msgstr ""
+"\"저의 가장 큰 후회에도 불구하고, 저는 오늘의 성전에 당신을 지킬 수 없을 것입니다.\" {n}그녀는 케스턴을 바라봅니다.{/n} "
+"\"가레스가 새 경비병 훈련에 제 도움을 요청했기 때문입니다.\""
 
 #. Test/Dialogues/VS_StartBook/Answer_0005_Text
 msgctxt "bf024bf4-5672-4d31-b02b-0869fc52af59"
 msgid "Continue."
-msgstr ""
+msgstr "계속하기."
 
 #. Test/Dialogues/VS_StartBook/Answer_0006_Text
 msgctxt "bb476d97-f280-4940-9ecb-c33741f3a214"
 msgid "Close."
-msgstr ""
+msgstr "닫기."
 
 #. Test/Dialogues/VS_StartBook/Cue_0001_Text_String
 msgctxt "4a5e20da-962c-409d-be7a-312adce6b979"
@@ -24594,6 +24848,19 @@ msgid ""
 "esteemed reader! Follow me to the Stolen Lands!\n"
 "Linzi (gotta come up with some fancy nickname here!!!)\""
 msgstr ""
+"서론\n"
+"“사람이란 무엇인가? 이야기를 사랑하는 동물이다.” 대 예술 아카데미의 제 스승인 통찰력 있는 자, 명예로운 이오발드 교수님은 말씀하시곤 "
+"하셨습니다. 우리의 세계는 강과 산, 숲과 도시로 이루어져 있는 것이 아니라, 셀 수 없는 이야기들로 이루어져 있습니다! 그것은 바드의 "
+"일이 왜 중요한 지에 대한 대답입니다. 우리는 이야기를 찾고, 보존하고, 전해주기 때문입니다.\n"
+"진실을 말해 주자면, 저는 아카데미를 졸업하지 못했습니다 – 왜냐하면 왕에 관해 오행시를 지었기 때문입니다. 하지만 걱정하지 마세요! "
+"바드가 되는 것은 졸업을 해서 되는 게 아닙니다. 바드는 높은 소명으로 되는 것입니다. 진정한 바드가 있어야할 곳은 학교의 벽 안이 "
+"아니라, 여기 바깥입니다, 살아있는 역사가 만들어지는 곳 말이죠. 그것을 증명하기 위해서, 저는 책을 쓰기 시작했습니다, 바로 당신이, "
+"오 나의 독자가, 지금 들고 있는 이 책 말이죠. 여기에 골라리온 전체에서 듣지 못한 가장 놀라운 이야기를 기록하려고 합니다.\n"
+"제 이름은 린지(나중에 더 멋진 필명을 더할 것입니다)이고, 저의 길은 {g|Stolen Lands}도둑맞은 땅{/g}으로 이어졌습니다. "
+"이곳은 신비롭고 위험한 장소입니다. 시간은 또다시 다양한 영광과 명예를 얻으려 하는 영웅들을 유혹하지만, 대다수의 이들은 불명예스러운 "
+"죽음을 맞이할 뿐입니다. 저는 이 이야기가 어떻게 끝날 지 모릅니다 – 왜냐하면 이제 막 시작했기 때문이죠, 저는 제가 본 모든 것을 "
+"아무것도 숨기지 않고 전부 기록할 것입니다. 그래서, 따라오세요, 저의 자랑스러운 독자님! 저를 따라 도둑맞은 땅에 오세요!\n"
+"린지(여기에 멋진 필명을 더할 것임!!!)"
 
 #. Test/Dialogues/VS_StartBook/Cue_0004_Text
 msgctxt "0cf56be9-6f1d-419f-9d92-0a2b6dd48cc7"
@@ -24609,6 +24876,12 @@ msgid ""
 "of all kinds. The first thing that threatened the young barony were nasty "
 "trolls, eager to feast on human flesh…"
 msgstr ""
+"트롤 소동\n"
+"그러므로, 수많은 여정 끝에, 한 명의 진정한 영웅이 마침내 도착했습니다 – {g|Stolen Lands}도둑맞은 땅{/g}에 법과 "
+"질서를 가져온 바로 그 사람입니다. 그 지역을 차지하고 있던 도적들을 무찌르고, 그{mf||녀}는 보상으로 남작의 작위를 받아 이 땅의 "
+"독립된 통치자가 되었습니다! 그{mf||녀}는 이후 행복하게 잘 살았을까요? 당신이 원한대로! 도둑맞은 땅의 발전은 이제 막 시작되고 "
+"있습니다, 대다수의 영역이 몬스터와 같은 것들로 들끓는 늪, 쓸모 없는 땅, 황무지이기 때문입니다. 이 젊은 남작령을 가장 먼저 위협한 "
+"것은 인간의 육체에 환장한 불쾌한 트롤이었습니다…"
 
 #. Test/Dialogues/VS_ThorneRoom_Linzi/Cue_0001_Text
 msgctxt "4f43223b-996b-422b-aa40-a938851df9b4"
@@ -24620,6 +24893,9 @@ msgid ""
 "\"Hi! Any idea what rhymes with 'fiends'? I thought about 'battlefields', "
 "but that sounds kinda crappy.\""
 msgstr ""
+"{n}산발의 머리카락을 하고, 때 탄 여행자의 겉옷을 입은 한 명의 하플링 소녀는 깃펜의 끝을 씹고 있습니다. 당신이 다가가자 그녀는 "
+"공책으로부터 눈을 올리고, 아무렇게도 휘갈겨 쓰고, 당신에게 밝은 미소를 보냅니다. {/n}\n"
+"\"안녕! '데블'과 맞는 음율에 대한 좋은 생각이 있니? 나는 '대부'를 생각했었어, 그런데 좀 이상하게 들리는 것 같애.\""
 
 #. Test/Dialogues/VS_ThorneRoom_Linzi/Cue_0002_Text
 msgctxt "9e3d89d8-e076-4e4d-8190-fdc1307a5dc7"
@@ -24631,6 +24907,10 @@ msgid ""
 "lauded. She found that hero in you, the tamer of the {g|Stolen Lands}Stolen "
 "Lands{/g}.{/n}"
 msgstr ""
+"{n}린지는 {g|Pitax}피탁스{/g}의 대 예술 아카데미의 학생이었습니다. 그러나 \"가장 높은 이의 명성을 향한 불경스러움\"을 "
+"이유로 방출되었습니다 - 정확히는, 이로바티 왕에 관한 선정적인 오행시를 지었기 때문입니다. 새로운 위대한 서사시를 작성하고 싶다는 "
+"열망으로, 그는 찬양할 가치가 있는 영웅을 찾아 나섰습니다. 그녀는 당신 안에서 그 영웅, {g|Stolen Lands}도둑맞은 땅{/g}"
+"을 다스리는 자를 찾았습니다.{/n}"
 
 #. Test/Dialogues/VS_ThorneRoom_Linzi/Cue_0003_Text
 msgctxt "07211251-002a-48a8-8078-d8d0faec2f18"
@@ -24640,6 +24920,8 @@ msgid ""
 "righty? There isn't much adventuring to do in the capital, monsters aren't "
 "coming here themselves... Well, I hope so!\""
 msgstr ""
+"\"신경쓰지 마. 언제 출발할거야? 새로운 장을 위한 재료가 필요해. 너의 영웅적인 행동에 대한 노래 말이지, 너는 그 행동을 해야 해, "
+"알았지? 수도에는 모험할 것이 별로 없어, 몬스터는 스스로 오지도 않고... 좋아, 내가 원했던 대로야!\""
 
 #. Test/Dialogues/VS_ThorneRoom_Linzi/Cue_0004_Text
 msgctxt "050bffbd-803e-4bf4-a143-ce95e7f5956f"
@@ -24649,173 +24931,176 @@ msgid ""
 "I'd go with you, but I need to finish the chapter while I'm in the zone. "
 "When you come back, tell me everything. Every! Single! Detail!\""
 msgstr ""
+"{n}그녀는 당신의 얼굴 앞에서 공책을 흔듭니다.{/n} \"너는 알게 될거야! 나의 책은 너를 골라리온 사상 가장 전설적인 영웅으로 "
+"만들어 줄 거야! 나는 너와 함께 가고 싶지만, 내가 집중하고 있는 동안에 이 장을 끝낼 필요가 있어. 너가 돌아오면, 모든 것을 "
+"말해줘. 모든 것! 작은 것이라도! 상세히!\""
 
 #. Test/GameplayPrototypes/Kingdom/CheatDialog/Answer_0002_Text_1
 msgctxt "dc1f35d3-71f6-437e-b4f2-952eb8270b6f"
 msgid "Increase Military rank"
-msgstr ""
+msgstr "군사 등급 상승"
 
 #. Test/GameplayPrototypes/Kingdom/CheatDialog/Answer_0003 10_Text
 msgctxt "3fcf568a-29ec-4587-ae76-5e4e899a0a15"
 msgid "Increase Industry"
-msgstr ""
+msgstr "산업 상승"
 
 #. Test/GameplayPrototypes/Kingdom/CheatDialog/Answer_0003 1_Text
 msgctxt "23f296b0-4c1b-45c0-a54f-a244e08fdf69"
 msgid "Increase Loyalty"
-msgstr ""
+msgstr "민심 상승"
 
 #. Test/GameplayPrototypes/Kingdom/CheatDialog/Answer_0003 2_Text
 msgctxt "bab38afb-af34-4eb5-8c57-f6d3ebadcef7"
 msgid "Increase Military"
-msgstr ""
+msgstr "군사 상승"
 
 #. Test/GameplayPrototypes/Kingdom/CheatDialog/Answer_0003 3_Text
 msgctxt "7761a13c-ce8d-4330-895a-1ae3982a2a9d"
 msgid "Increase Economy"
-msgstr ""
+msgstr "경제 상승"
 
 #. Test/GameplayPrototypes/Kingdom/CheatDialog/Answer_0003 4_Text
 msgctxt "f05e33b5-eb2b-47e1-80b3-7863efdc3c8f"
 msgid "Increase Relations"
-msgstr ""
+msgstr "외교 상승"
 
 #. Test/GameplayPrototypes/Kingdom/CheatDialog/Answer_0003 5_Text
 msgctxt "c3d0e4ea-944d-4cfc-8353-4d4c0a5fcffd"
 msgid "Increase Divine"
-msgstr ""
+msgstr "신성 상승"
 
 #. Test/GameplayPrototypes/Kingdom/CheatDialog/Answer_0003 6_Text
 msgctxt "c85b1e64-58f8-42ff-b8bb-ab9824dbe492"
 msgid "Increase Arcane"
-msgstr ""
+msgstr "비전 상승"
 
 #. Test/GameplayPrototypes/Kingdom/CheatDialog/Answer_0003 7_Text
 msgctxt "51a860b4-3f5c-41c5-ba81-77a8e4ddb671"
 msgid "Increase Cunning"
-msgstr ""
+msgstr "첩보 상승"
 
 #. Test/GameplayPrototypes/Kingdom/CheatDialog/Answer_0003 8_Text
 msgctxt "0109b607-c7c2-4b5c-b7e3-0c65d9cac83c"
 msgid "Increase Stability"
-msgstr ""
+msgstr "치안 상승"
 
 #. Test/GameplayPrototypes/Kingdom/CheatDialog/Answer_0003 9_Text
 msgctxt "e13bc0b5-b014-44e5-9245-766f3b4ce7ba"
 msgid "Increase Culture"
-msgstr ""
+msgstr "문화 상승"
 
 #. Test/GameplayPrototypes/Kingdom/CheatDialog/Answer_0003_Text_1
 msgctxt "001604c6-72a8-4ae2-9077-19e8bcd1dfad"
 msgid "Increase Population"
-msgstr ""
+msgstr "인구 상승"
 
 #. Test/GameplayPrototypes/Kingdom/CheatDialog/Answer_0004 1_Text
 msgctxt "9ebda641-408f-48f3-9da0-f9dd7d645713"
 msgid "Make Jhod refuse being a general"
-msgstr ""
+msgstr "조드가 장군이 되는 것을 거절하게 만듭니다"
 
 #. Test/GameplayPrototypes/Kingdom/CheatDialog/Answer_0004_Text
 msgctxt "f1f0d724-87a7-47c2-8f80-dfddd71c1d0f"
 msgid "Let Jhod be a General"
-msgstr ""
+msgstr "조드가 장군이 되게 합니다"
 
 #. Test/GameplayPrototypes/Kingdom/CheatDialog/Answer_0005_Text
 msgctxt "fdea39e8-f6c9-495a-9b30-003d35c29d37"
 msgid "Increase kingdom stats"
-msgstr ""
+msgstr "왕국 스탯 상승"
 
 #. Test/GameplayPrototypes/Kingdom/CheatDialog/Answer_0007_Text
 msgctxt "d2e73e37-8028-40e1-9756-25869e6e05e2"
 msgid "Changed my mind"
-msgstr ""
+msgstr "마음을 바꾸었습니다"
 
 #. Test/GameplayPrototypes/Kingdom/CheatDialog/Answer_0008_Text
 msgctxt "b6f28d5f-9609-45f7-a217-02a63882a666"
 msgid "No I'd rather not thanks"
-msgstr ""
+msgstr "아니 나는 고마워하지 않을 것이네"
 
 #. Test/GameplayPrototypes/Kingdom/CheatDialog/Cue_0001_Text_1
 msgctxt "89e36e57-6ca5-4637-888f-39f70dc4cd1f"
 msgid "Let us cheat, Your Majesty"
-msgstr ""
+msgstr "치트를 쓰시죠, 전하"
 
 #. Test/GameplayPrototypes/Kingdom/CheatDialog/Cue_0006_Text
 msgctxt "42155384-0eec-4ac2-baa8-7f581d38f1e0"
 msgid "As you wish"
-msgstr ""
+msgstr "당신이 바란다면"
 
 #. Test/Mechanics/VS_FakeWeaponsAndOther/Corrosive_m_Description
 msgctxt "72692301-9428-40e1-b1c9-ee8a5867de84"
 msgid ""
 "Corrosive weapon deals an extra 1d6 points of acid damage on a successful "
 "hit."
-msgstr ""
+msgstr "부식성 무기는 명중시 1d6점의 산성 피해를 추가합니다."
 
 #. Test/Mechanics/VS_FakeWeaponsAndOther/Corrosive_m_EnchantName
 msgctxt "a07658c7-80a0-4dab-b498-32f71259ddd0"
 msgid "Corrosive"
-msgstr ""
+msgstr "부식성"
 
 #. Test/Mechanics/VS_FakeWeaponsAndOther/Corrosive_m_Prefix
 msgctxt "ff29db01-943d-4820-a39a-7c0e7202e1b3"
 msgid "Corrosive"
-msgstr ""
+msgstr "부식성"
 
 #. Test/Scenes/TestMap/TestSimple/TEST_Resource_m_DescriptionText
 msgctxt "fd95dd6d-f059-46af-9ddf-83597fbdc6aa"
 msgid "test"
-msgstr ""
+msgstr "테스트"
 
 #. Test/Scenes/TestMap/TestSimple/TestChannelEnergyScroll_m_DescriptionText
 msgctxt "93352ea3-59f9-43ef-a683-17f6e9b475c9"
 msgid "Description"
-msgstr ""
+msgstr "설명"
 
 #. Test/Scenes/TestMap/TestSimple/TestChannelEnergyScroll_m_DisplayNameText
 msgctxt "1b5b4ac2-6e42-481d-bb98-0176e1fc73f6"
 msgid "TestChannelEnergyScroll"
-msgstr ""
+msgstr "테스트에너지전달스크롤"
 
 #. Test/Scenes/TestMap/TestSimple/TestFireballScroll_m_DescriptionText
 msgctxt "9e04f8d5-649a-4541-9fce-ff96cf2007e0"
 msgid "TestDescription"
-msgstr ""
+msgstr "테스트설명"
 
 #. Test/Scenes/TestMap/TestSimple/TestFireballScroll_m_DisplayNameText
 msgctxt "dbee763e-6f32-4f8f-b250-be93cfdc0fb0"
 msgid "TestFireballScroll"
-msgstr ""
+msgstr "테스트화염구스크롤"
 
 #. Test/UnitTests/Items/DefaultArmorType_m_DefaultNameText
 msgctxt "ce294f79-dd92-4756-8b58-990f33d65395"
 msgid "DefaultArmor"
-msgstr ""
+msgstr "디폴트갑옷"
 
 #. Test/UnitTests/Items/DefaultArmorType_m_DescriptionText
 msgctxt "8def50dd-bd7d-4803-977e-47853f4a4fe2"
 msgid "DefaultArmor"
-msgstr ""
+msgstr "디폴트갑옷"
 
 #. Test/UnitTests/Items/DefaultArmorType_m_TypeNameText
 msgctxt "83c11b9c-c470-429f-bbc9-cfe6d01a49ec"
 msgid "DefaultArmorType"
-msgstr ""
+msgstr "디폴트갑옷유형"
 
 #. Test/UnitTests/Items/DefaultShieldArmorType_m_DefaultNameText
 msgctxt "ba4d847d-694d-44b4-8f90-b9fc649e8918"
 msgid "DefaultArmor"
-msgstr ""
+msgstr "디폴트갑옷"
 
 #. Test/UnitTests/Items/DefaultShieldArmorType_m_DescriptionText
 msgctxt "0e35f177-2404-477b-bf3f-c877bda60511"
 msgid "DefaultArmor"
-msgstr ""
+msgstr "디폴트갑옷"
 
 #. Test/UnitTests/Items/DefaultShieldArmorType_m_TypeNameText
 msgctxt "79172789-786b-402c-a0e9-7aacae4e2565"
 msgid "DefaultArmorType"
-msgstr ""
+msgstr "디폴트갑옷유형"
 
 #. UI/Console/TurnBasedMode/UIFlatFooted_m_Description
 msgctxt "bff82ed8-efbe-4cee-906c-a775f143b0c5"
@@ -24826,6 +25111,8 @@ msgid ""
 "Combat Maneuver Defense (CMD) (if any) and does not make attacks of "
 "opportunity."
 msgstr ""
+"전투 중 아직 행동하지 않거나 적을 적절하게 볼 수 없는 캐릭터는 무방비 상태입니다. 이는 상황에 정상적으로 반응할 수 없음을 "
+"의미합니다. 무방비 상태의 캐릭터는 그의 AC와 전법 방어도(CMD)에 민첩 보너스를 잃고 기회 공격을 하지 못합니다."
 
 #. UI/Console/TurnBasedMode/UIFlatFooted_m_DisplayName
 msgctxt "f2e72c85-2ae9-423d-bcba-acf4a65c7d22"
