@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2021-01-27 08:33+0000\n"
+"PO-Revision-Date: 2021-01-29 14:02+0000\n"
 "Last-Translator: 크라운싼도 <pbakeun@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/root/ko/>\n"
@@ -1983,12 +1983,12 @@ msgstr "암습!"
 #. Mechanics/Blueprints/Root/GameLog/GameLog_Attack.TooltipAttackNumber_1
 msgctxt "08e2b7b6-480c-473f-8fad-0b4602d1cdfc"
 msgid "Attack number: {attack_number} out of {attacks_count}"
-msgstr "공격 횟수: {attack_number}회 중 {attacks_count}번째 공격"
+msgstr "공격 횟수: {attacks_count}회 중 {attack_number}번째 공격"
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_Attack.TooltipAttackNumber_String
 msgctxt "1ab86d92-8fbb-46c4-a518-418ad148d7cb"
 msgid "Attack number: {attack_number} out of {attacks_count}"
-msgstr "공격 횟수: {attack_number}회 중 {attacks_count}번째 공격"
+msgstr "공격 횟수: {attacks_count}회 중 {attack_number}번째 공격"
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_Attack.TooltipAttackRoll
 msgctxt "86b690ea-d1fb-435a-a90f-0c93c2bbf8cb"
@@ -2708,7 +2708,7 @@ msgstr "시간 지남"
 #. Mechanics/Blueprints/Root/GameLog/GameLog_TrapSpotted.Message
 msgctxt "12f75e5f-fd39-4b15-acec-426835ef55cd"
 msgid "<b>{source}</b> spots a trap."
-msgstr "<b>{source}</b>: 자물쇠를 딸 수 없음."
+msgstr "<b>{source}</b>: 함정 발견."
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_UnitBark.Message
 msgctxt "2ef2b59d-e390-45e3-9dba-030f7259271c"
@@ -6462,9 +6462,9 @@ msgid ""
 "harming their enemies, a trait Calistria's followers hope to emulate when "
 "pursuing their goals."
 msgstr ""
-"칼리스트리아는 \"향미의 침\", \"꺼지지 않는 불\"로도 불리는 욕망과 복수의 여신으로, 수많은 얼굴과 외형을 지니고 있습니다. "
+"칼리스트리아는 \"감미로운 독침\", \"꺼지지 않는 불\"로도 불리는 욕망과 복수의 여신으로, 수많은 얼굴과 외형을 지니고 있습니다. "
 "그녀의 변덕스러운 기질과 쉽게 변하는 본성에 공감하는 엘프들은 그녀를 특히 더 숭배합니다. 그녀의 말벌에 대한 애착은 복수심에 불타는 이 "
-"여신에게 \"향미의 침\"이라는 칭호를 부여했습니다. 복수를 부르짖는 칼리스트리아의 추종자들은 마치 적을 쏜 뒤에도 계속 살아가는 "
+"여신에게 \"감미로운 독침\"이라는 칭호를 부여했습니다. 복수를 부르짖는 칼리스트리아의 추종자들은 마치 적을 쏜 뒤에도 계속 살아가는 "
 "말벌처럼 자신들의 목적을 달성하고 난 이후의 삶을 온전히 살 수 있기를 그녀에게 기원합니다."
 
 #. Mechanics/Blueprints/Root/Glossary Characters_Entries.Array.data[18].Name
@@ -6810,7 +6810,7 @@ msgid ""
 "Platinum Band, which maintains relatively small centers of worship in Oppara "
 "and Absalom."
 msgstr ""
-"길을 이끄는 자, 압수는 존재하는 크리처 중에 가장 강력하고 나이가 많기로 손에 꼬힙니다. 용의 전승에 따르면, 그녀와 그녀의 짝, "
+"길을 이끄는 자, 압수는 존재하는 크리처 중에 가장 강력하고 나이가 많기로 손에 꼬힙니다. 용의 전승에 따르면, 그와 그의 짝, "
 "티아매트가 세계를 창조한 용신들을 낳았다고 합니다. 압수는 모든 선한 드래곤과 금속 드래곤들의 수호신입니다. 그는 거의 모든 드래곤들을 "
 "자기 자식처럼 아끼는 아버지와 같은 존재로 전해집니다. 그는 로바거그에 맞서 모든 존재를 지키기 위한 싸움에 나선 신성한 크리처 중 "
 "하나입니다.\n"
@@ -10029,12 +10029,12 @@ msgid ""
 "The Boneyard, sometimes referred to as Purgatory, is a neutral plane where "
 "the souls of dead mortals from the Material Plane are judged by the goddess "
 "Pharasma."
-msgstr "연옥이라고도 불리는 본야드는 중립 성향의 차원으로, 물질계에서 죽은 자의 영혼이 끌려와 여신 파라즈마의 심판을 받는 곳입니다."
+msgstr "연옥이라고도 불리는 뼈무덤은 중립 성향의 차원으로, 물질계에서 죽은 자의 영혼이 끌려와 여신 파라즈마의 심판을 받는 곳입니다."
 
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[43].Name
 msgctxt "354c7265-60d9-4217-83d7-46ba9f7701d8"
 msgid "Boneyard (Purgatory)"
-msgstr "본야드 (연옥)"
+msgstr "뼈무덤 (연옥)"
 
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[44].Description
 msgctxt "75dd00b8-233f-47ee-bb74-4288c64930fd"
@@ -10123,7 +10123,7 @@ msgid ""
 "esoteric tradition considers the River of Souls to be a ley line, and simply "
 "one part of the multiverse's network of magical pathways."
 msgstr ""
-"영혼의 강은 필멸자의 영혼이 물질계에서 외부 차원에 있는 파라즈마의 본야드로 끊임없이 이동하는 흐름을 말합니다. 본야드에서 필멸자의 "
+"영혼의 강은 필멸자의 영혼이 물질계에서 외부 차원에 있는 파라즈마의 뼈무덤으로 끊임없이 이동하는 흐름을 말합니다.뼈무덤에서 필멸자의 "
 "영혼은 그 영원한 운명과 행방이 정해집니다.\n"
 "아스트라 차원에서 영혼의 강은 마치 거대하고 구불구불한 은실처럼 보이는데, 가까이서 보면 물고기떼처럼 은빛 안개 속을 움직이는 수많은 "
 "영혼들을 볼 수 있습니다. 음양비결에서는 영혼의 강을 일종의 기맥이자 다중우주 연결망의 마법적 통로로 여깁니다."
@@ -13910,13 +13910,13 @@ msgid ""
 "wildernesses in the River Kingdoms. It features a great variety of life, and "
 "an even greater number of mysteries."
 msgstr ""
-"훔친 땅에 누워있는 천 목소리는 강의 왕국들의 삼림지대 중에서도 가장 밀도가 높은 편입니다. 매우 다양한 생명과 그보다 더 많은 신비가 "
-"이곳의 특징입니다."
+"도둑맞은 땅에 누워있는 천 개의 목소리는 강의 왕국들의 삼림지대 중에서도 가장 밀도가 높은 편입니다. 매우 다양한 생명과 그보다 더 많은 "
+"신비가 이곳의 특징입니다."
 
 #. Mechanics/Blueprints/Root/Glossary_Entries.Array.data[95].Name
 msgctxt "98a464a1-ba09-4ce1-8315-de331790081b"
 msgid "Thousand Voices"
-msgstr "천 목소리"
+msgstr "천 개의 목소리"
 
 #. Mechanics/Blueprints/Root/Glossary_Entries.Array.data[96].Description
 msgctxt "8284867f-540f-4dd2-8283-65bf441bfa0e"
@@ -13926,14 +13926,14 @@ msgid ""
 "mention the tales of unexplained disappearances, ghosts, and winding paths "
 "which encircle and confuse those who dare to walk the forest path."
 msgstr ""
-"천 목소리는 신비롭고 이상한 곳으로, 키 큰 너도밤나무, 하얀 참나무, 독미나리 수풀로 가득 차 있습니다. 누가 이곳에 대해 말해줄 때면 "
-"가장 먼저 알려주는 것이 있습니다. 그것은 바로 설명이 안되는 실종, 유령, 함부로 숲길을 걷는 사람들을 에워싸고 교란하는 구불구불한 "
-"숲길에 관한 이야기입니다."
+"천 개의 목소리는 신비롭고 이상한 곳으로, 키 큰 너도밤나무, 하얀 참나무, 독미나리 수풀로 가득 차 있습니다. 누가 이곳에 대해 말해줄 "
+"때면 가장 먼저 알려주는 것이 있습니다. 그것은 바로 설명이 안되는 실종, 유령, 함부로 숲길을 걷는 사람들을 에워싸고 교란하는 "
+"구불구불한 숲길에 관한 이야기입니다."
 
 #. Mechanics/Blueprints/Root/Glossary_Entries.Array.data[96].Name
 msgctxt "092d5336-aa02-483c-a09a-3f07e2c8b7cb"
 msgid "Thousand Voices"
-msgstr "천 목소리"
+msgstr "천 개의 목소리"
 
 #. Mechanics/Blueprints/Root/Glossary_Entries.Array.data[97].Description
 msgctxt "7207a8e7-e85e-4e0e-964d-586f0dbd0bf4"
@@ -17940,7 +17940,7 @@ msgstr "성향"
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.AlignmentShifted
 msgctxt "cfb3b1a8-8393-4173-9b1f-a48515c655af"
 msgid "Alignment shifted to"
-msgstr "성향이 변동되었습니다:"
+msgstr "성향이 변동되었습니다"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.AlignmentShifts
 msgctxt "8fff2389-1576-42e2-825b-45e0c0522b0e"
@@ -18270,7 +18270,7 @@ msgstr "근접"
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.NE
 msgctxt "b0f8176b-d14b-4c6b-8051-d9372c7b98fb"
 msgid "NE"
-msgstr "질서 악"
+msgstr "중립 악"
 
 #. Mechanics/Blueprints/Root/UIStrings_CharacterSheet.NG
 msgctxt "0e3c3231-099c-40a0-991a-c4129370e58b"
@@ -21890,12 +21890,12 @@ msgstr "장비 가능"
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.CanBeUsed
 msgctxt "a9d997f1-14f6-4ebe-ae04-03f30685e4fd"
 msgid "Can be used by this character."
-msgstr "사용 가능"
+msgstr "사용 가능."
 
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.CanBeUsedWithSkill
 msgctxt "311512ab-8286-479e-8711-df3d42f6ad96"
 msgid "Can be used with skill check."
-msgstr "기술 판정 필요"
+msgstr "기술 판정 필요."
 
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.CanCastArcaneSpellsOfLevel
 msgctxt "440bb758-c15b-4f64-9954-7dcb2a9276dc"
@@ -22190,7 +22190,7 @@ msgstr "공격"
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.OneFrom
 msgctxt "6d911cfe-5425-4033-8604-30d14edf990b"
 msgid "Has one of the following features:"
-msgstr "다음 특성 중 하나 보유"
+msgstr "다음 특성 중 하나 보유:"
 
 #. Mechanics/Blueprints/Root/UIStrings_Tooltips.PartialSwarmImmunity
 msgctxt "43063986-d9b0-445e-b0eb-95d1a98efb57"
@@ -23294,7 +23294,7 @@ msgstr "아니, 됐어요."
 #. Mechanics/Blueprints/Root/UITexts/Formations_Hint_String
 msgctxt "b8e16f0c-891d-4768-a5c5-ea68d07a456a"
 msgid "Press Shift to snap to the grid"
-msgstr "Shift 키를 눌러 그리드에 스냅합니다."
+msgstr "Shift 키를 눌러 그리드에 스냅합니다"
 
 #. Mechanics/Blueprints/Root/UITexts/Formations_Next/Complete text_String
 msgctxt "16ce4893-2c3c-42b2-b43f-80fe9ba4cfbf"
@@ -24013,7 +24013,7 @@ msgstr "무기 세트"
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[0].Description
 msgctxt "f03f4c4d-a968-47b6-bc43-50553d8dc673"
 msgid "<align=center>Press [J] to open</align>"
-msgstr "<align=center>[J] 키를 눌러 열 수 있습니다</align>."
+msgstr "<align=center>[J] 키를 눌러 열 수 있습니다</align>"
 
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[0].Name
 msgctxt "cc216901-cf93-4e16-b823-9f5dd25adff8"

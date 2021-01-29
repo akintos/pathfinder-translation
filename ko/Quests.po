@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2021-01-24 06:01+0000\n"
+"PO-Revision-Date: 2021-01-29 14:02+0000\n"
 "Last-Translator: ㅇㅇ <fhsp1245@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/quests/ko/>\n"
@@ -1290,7 +1290,7 @@ msgstr "때가 되었어요! 민둥 언덕마루에 찾아가 우리 사제들�
 #. Mechanics/Blueprints/World/Quests/BloodMoon/BloodMoon1/CreaturesFirstMoon_Title_String
 msgctxt "0a1b2ec9-1e0c-4fcc-ac50-1e7423c2e4d9"
 msgid "Get to the Bald Hilltop!"
-msgstr "민둥 언덕마루(Bald Hilltop)으로 가시오!"
+msgstr "민둥 언덕마루로 가시오!"
 
 #. Mechanics/Blueprints/World/Quests/BloodMoon/BloodMoon1/EventFirstMoon_Description
 msgctxt "e7a2a1c4-2d57-43bc-b9e3-1143e9c884a0"
@@ -2390,7 +2390,7 @@ msgid ""
 "repeating the same words over and over: \"Shrike River.\" We should go there "
 "and discover the source of these terrible dreams!"
 msgstr ""
-"최근 우리의 영웅은 잠을 이루지 못했어요. 침대에 빈대가 많아서 그런 건 아니에요! 눈을 감을 때마다 {mf|그|그녀)를 괴롭히는 악몽을 "
+"최근 우리의 영웅은 잠을 이루지 못했어요. 침대에 빈대가 많아서 그런 건 아니에요! 눈을 감을 때마다 {mf|그|그녀}를 괴롭히는 악몽을 "
 "꾸거든요. 물에 팅팅 불은 시체가 계속해서 \"슈라이크 강\"이라고 말하는 꿈이죠. 그곳으로 가서 이 끔찍한 꿈의 근원이 무엇인지 "
 "알아봐야해요!"
 
@@ -2802,7 +2802,7 @@ msgstr ""
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/StolenLand/14_ReportToJamandi_Title
 msgctxt "27ea81fc-7bc2-49e6-8314-3d667ca092e4"
 msgid "Tell Jamandi Aldori about your victory over the Stag Lord."
-msgstr "자만디 알도리에게 당신이 수사슴 군주와 싸워 이겼음을 알려라"
+msgstr "자만디 알도리에게 당신이 수사슴 군주와 싸워 이겼음을 알려라."
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/StolenLand/14add1_TalkJhod_Description
 msgctxt "4769dbc5-3db6-4f5e-bd6a-fe33d11a1f95"
@@ -7134,7 +7134,7 @@ msgid ""
 "portal to Nyrissa's dominions before the kingdom falls..."
 msgstr ""
 "왕국을 보호하기 위해, 우리의 용감한 지도자는 사악한 님프 나이리사와 결판을 내야합니다. 그녀가 일으킨 개화 현상이 왕국 전역을 공격하고 "
-"있습니다. - 왕국이 무너지기 전에 - 서둘러 천개의 목소리 지역으로 가 나이리사의 본거지로 통하는 포탈을 찾아내야합니다."
+"있습니다. 왕국이 무너지기 전에 서둘러 천 개의 목소리 지역에 도착해 나이리사의 본거지로 통하는 포탈을 찾아내야합니다."
 
 #. Mechanics/Blueprints/World/Quests/C61_SoundofaThousandScreams/AgainstAllOdds/AgainstAllOdds_Title
 msgctxt "8731ac43-eff9-480a-9de2-876925e8a169"
@@ -7170,14 +7170,12 @@ msgctxt "f0c5bcfe-5fc8-45bd-b97d-b55e4ed68340"
 msgid ""
 "Before passing the trial, it would be wise to consult any relevant books "
 "you've discovered, and learn all you can about the Suramgamin order."
-msgstr ""
-"시험을 통과하기 전에, 당신이 발견한 것과 관련된 책들을 조사해서, 슈람가민(Suramgamin) 결사단에 대해 최대한 알아내는 게 "
-"좋겠습니다."
+msgstr "시험을 통과하기 전에, 당신이 발견한 것과 관련된 책들을 조사해서, 슈람가민 결사단에 대해 최대한 알아내는 게 좋겠습니다."
 
 #. Mechanics/Blueprints/World/Quests/C61_SoundofaThousandScreams/SecretsOfSuramgamin/Addendum_3-1_Description
 msgctxt "295b3740-d434-4a61-a42b-b2845e87a637"
 msgid "Find Puja on Talon Peak"
-msgstr "탈론 봉우리(Talon Peak)에서 푸자(Puja)를 찾아라"
+msgstr "발톱 봉우리에서 푸자를 찾아라"
 
 #. Mechanics/Blueprints/World/Quests/C61_SoundofaThousandScreams/SecretsOfSuramgamin/Obj_01_TrialPhoenix_Description
 msgctxt "cb3a5e03-7f01-4ebd-bf3c-ff64d0154514"
@@ -7216,8 +7214,8 @@ msgid ""
 "the Wolf. For some reason, he decided that the best place to meet would be "
 "the summit of Talon Peak."
 msgstr ""
-"얼마나 많은 시험이 남은 걸까요? 음, 다음 시험은 늑대 푸자(Puja the Wolf)가 주관한다고 합니다. 어떤 이유에선지, 그는 "
-"탈론 봉우리 정상을 시험 장소로 결정했습니다."
+"얼마나 많은 시험이 남은 걸까요? 음, 다음 시험은 늑대 푸자가 주관한다고 합니다. 어떤 이유에선지, 그는 발톱 봉우리 정상을 시험 "
+"장소로 결정했습니다."
 
 #. Mechanics/Blueprints/World/Quests/C61_SoundofaThousandScreams/SecretsOfSuramgamin/Obj_03_TrialWolf_Title
 msgctxt "44d772fe-a091-4c10-be02-3d05c63660e6"
@@ -7229,12 +7227,12 @@ msgctxt "332fd8fe-5232-42cd-99ac-00aa898c3957"
 msgid ""
 "Finally, the final trial! It will be held by Vidya the Lion near the Castle "
 "of Knives."
-msgstr "마침내, 마지막 시험입니다! 칼날의 성 근처에서 사자 비디야(Vidya the Lion)가 시험을 주관할 것입니다."
+msgstr "마침내, 마지막 시험입니다! 칼날의 성 근처에서 사자 비드야가 시험을 주관할 것입니다."
 
 #. Mechanics/Blueprints/World/Quests/C61_SoundofaThousandScreams/SecretsOfSuramgamin/Obj_04_TrialLion_Title
 msgctxt "dff90464-02e2-4616-951e-b28e2ce9efd6"
 msgid "Pass the trial of Vidya the Lion"
-msgstr "사자 비디야의 시험을 통과하라"
+msgstr "사자 비드야의 시험을 통과하라"
 
 #. Mechanics/Blueprints/World/Quests/C61_SoundofaThousandScreams/SecretsOfSuramgamin/Obj_05_Verdict_Description
 msgctxt "761a4c6e-94ee-41af-ae24-b762584e9bf4"
@@ -7272,15 +7270,15 @@ msgid ""
 "prepared a test for h{mf|im|er} – and I bet they won't be easy! I hope the "
 "reward is worth the trouble!"
 msgstr ""
-"이상한 손님들 - 신비로운 슈람가민(Suramgamin) 결사단의 수도사들이 우리 땅을 방문했습니다. 이들은 폭력에 완전한 관용으로 "
-"대응하므로서 악에 맞설 것을 설파합니다. 그들은 우리를 돕고자 하지만, 먼저 우리의 {mf|왕|여왕}이 도움을 받을 자격이 있는지 "
-"증명해야 한다고 합니다. 결사단의 각 지도자들이 이를 위한 시험을 준비했다고 하는데 - 분명 간단한 시험은 아니겠지요! 어려움에 걸맞는 "
-"보상이 있기만을 바랄 뿐입니다!"
+"이상한 손님들 - 신비로운 슈람가민 결사단의 수도사들이 우리 땅을 방문했습니다. 이들은 폭력에 완전한 관용으로 대응하므로서 악에 맞설 "
+"것을 설파합니다. 그들은 우리를 돕고자 하지만, 먼저 우리의 {mf|왕|여왕}이 도움을 받을 자격이 있는지 증명해야 한다고 합니다. "
+"결사단의 각 지도자들이 이를 위한 시험을 준비했다고 하는데 - 분명 간단한 시험은 아니겠지요! 어려움에 걸맞는 보상이 있기만을 바랄 "
+"뿐입니다!"
 
 #. Mechanics/Blueprints/World/Quests/C61_SoundofaThousandScreams/SecretsOfSuramgamin/Quest_SecretsOfSuramgamin_Title
 msgctxt "5ab43bcf-bfc1-40ed-a31f-9f7be452b8b3"
 msgid "The Secrets of Suramgamin"
-msgstr "슈람가민(Suramgamin)의 비밀"
+msgstr "슈람가민의 비밀"
 
 #. Mechanics/Blueprints/World/Quests/C61_SoundofaThousandScreams/SoundOfAThousandScreams/01_DefeatNyrissa_Description
 msgctxt "849b8e29-ff9c-44d3-af16-bf06bca1839c"
@@ -7316,8 +7314,8 @@ msgid ""
 "we get to the Shrine, Nyrissa will have to appear and answer for everything, "
 "whether she wants to or not!"
 msgstr ""
-"이 집 어딘가에 나이리사가 - 그녀가 무너뜨린 왕국의 낱알을 채워두는 잔 - 사죄(Apology)를 보관하는 성지(Shrine)가 "
-"있습니다.우리가 성지에 다다르면, 나이리사는 어쩔 수없이 모습을 드러내고 우리를 상대해야 할겁니다!"
+"이 집 어딘가에 나이리사가 - 그녀가 무너뜨린 왕국의 낱알을 채워두는 잔 — 사죄를 보관하는 성지가 있습니다.우리가 성지에 다다르면, "
+"나이리사는 어쩔 수없이 모습을 드러내고 우리를 상대해야 할겁니다!"
 
 #. Mechanics/Blueprints/World/Quests/C61_SoundofaThousandScreams/SoundOfAThousandScreams/03_GainAccessToSanctum_Title
 msgctxt "bdaee207-a183-45a8-9c88-f5ad8dbb4193"
@@ -11817,8 +11815,8 @@ msgid ""
 "guards are powerless against this calamity. Only the ruler's personal "
 "intervention will be able to put an end to it."
 msgstr ""
-"{mf | baronness | King | Queen}에게 예기치 않은 나쁜 소식이있었습니다. 빼앗긴 땅에서 갑작스런 죽음들이 일어나고 "
-"있습니다! 경비병들은 이런 재난에 대해선 무력합니다. 통치자의 집적적인 개입 만이 이 문제를 끝낼 수 있습니다."
+"{mf|남작|여남작|왕|여왕}에게 예기치 않은 나쁜 소식이 있었습니다. 도둑맞은 땅에서 갑작스런 죽음들이 일어나고 있습니다! 경비병들은 "
+"이런 재난에 대해선 무력합니다. 통치자의 직접적인 개입 만이 이 문제를 끝낼 수 있습니다."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/KingdomAsCompanion/CN_OnTheEdge/CN_OnTheEdge_Title
 msgctxt "2b9847ef-af8c-4cde-9fee-43af63c03798"
@@ -12884,7 +12882,7 @@ msgid ""
 "early to relax! The {mf|baron|baroness|king|queen} and {mf|his|her} Leaders "
 "have their hands full!"
 msgstr ""
-"이 축복받은 땅의 통치자는 아바다 그 자신이 보살피고 있다는 것을 틀림없다고 생각한 순례자들이 왕국으로 찾아오고 있습니다. 안심하긴 "
+"이 축복받은 땅의 통치자는 아바다르 그 자신이 보살피고 있다는 것을 틀림없다고 생각한 순례자들이 왕국으로 찾아오고 있습니다. 안심하긴 "
 "이릅니다. {mf|남작|여남작|왕|여왕}과 그의 보좌관들은 할 일이 아직 많으니까요!"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/TheDevelopment/Dev_08_60RankUps_Title
@@ -12943,9 +12941,9 @@ msgid ""
 "write down and keep forever the tiniest details of how {name} turned this "
 "forsaken place into the jewel of the Stolen Lands!"
 msgstr ""
-"좋습니다, 우리의 {mf|hero|heroine}는 이제 남작령을 손에 넣었습니다! {mf|그|그녀}는 나라를 다스리는 문제로 골머리를 "
-"싸멜테고 , 저는 이 나라의 연대기 작가가 되겠지요. 이제부터 전 {name}이 이 버려진 땅을 도둑맞은 땅의 보석으로 바꾸는 과정을 "
-"토씨하나 빠뜨리지 않고 기록해서 영원히 남길 겁니다!"
+"좋습니다, 우리의 {mf|주인공|여주인공}이 이제 남작령을 손에 넣었습니다! {mf|그|그녀}는 나라를 다스리는 문제로 골머리를 싸멜테고 "
+", 저는 이 나라의 연대기 작가가 되겠지요. 이제부터 전 {name}이 이 버려진 땅을 도둑맞은 땅의 보석으로 바꾸는 과정을 토씨하나 "
+"빠뜨리지 않고 기록해서 영원히 남길 겁니다!"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/TheDevelopment/TheDevelopment_Title
 msgctxt "7743b5ee-ac31-4155-ba56-0cecfb8f4903"
@@ -13375,12 +13373,12 @@ msgstr ""
 #. Mechanics/Blueprints/World/Quests/c71_CursedKing/CursedKing/Addendum_1stShard_Description
 msgctxt "c0d72a3f-0274-42fe-a956-d3e52f94f176"
 msgid "We found the first fragment and brought it to the Storyteller"
-msgstr "첫번째 조각을 찾아 이야기꾼에게 전달했습니다."
+msgstr "첫번째 조각을 찾아 이야기꾼에게 전달했습니다"
 
 #. Mechanics/Blueprints/World/Quests/c71_CursedKing/CursedKing/Addendum_2ndShard_Description
 msgctxt "caaa0b17-24f3-4507-ad37-802b234504ed"
 msgid "The second fragment was found and delivered to the Storyteller"
-msgstr "두 번째 조각을 찾아 이야기꾼에게 전달했습니다."
+msgstr "두 번째 조각을 찾아 이야기꾼에게 전달했습니다"
 
 #. Mechanics/Blueprints/World/Quests/c71_CursedKing/CursedKing/Addendum_3rdShard_Description
 msgctxt "4ee70281-fb8f-49ef-81fe-00f7f002f10b"
