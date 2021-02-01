@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2021-01-31 04:02+0000\n"
-"Last-Translator: ㅇㅇ <fhsp1245@naver.com>\n"
+"PO-Revision-Date: 2021-02-01 16:05+0000\n"
+"Last-Translator: 크라운싼도 <pbakeun@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/root/ko/>\n"
 "Language: ko\n"
@@ -2380,7 +2380,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/GameLog/GameLog_HealStatDamage.MessageWithUnknownSource
 msgctxt "6c8a1950-825d-427d-a8c6-3fd0684b0f60"
 msgid "<b>{target}</b> had <b>{count} {description}</b> damage restored."
-msgstr "<b>{target}</b>: <b>{description}</b> 피해 <b>{count}</b> 회복됨."
+msgstr "<b>{target}</b>: <b>{count}{description}</b> 피해 <b>{count}</b> 회복됨."
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_HealStatDrain.MessageWithSource
 msgctxt "6381e747-4976-4057-bdff-fb4636c15dc3"
@@ -5131,7 +5131,7 @@ msgstr "언어"
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/Localization_m_Values.Array.data[0].ItemName
 msgctxt "294fa0a2-31ad-4e8d-aa02-8f6a1960aee1"
 msgid "English"
-msgstr "English"
+msgstr "영어"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/Localization_m_Values.Array.data[1].ItemName
 msgctxt "7874fcf6-67cc-41b6-8626-66cab3cb800a"
@@ -5141,12 +5141,12 @@ msgstr "Русский"
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/Localization_m_Values.Array.data[2].ItemName
 msgctxt "30cdcd7a-1d5f-45c7-b53d-e8d9c7684b2b"
 msgid "Français"
-msgstr "Français"
+msgstr "프랑스어"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/Localization_m_Values.Array.data[3].ItemName
 msgctxt "8724ddce-9cc7-46b5-b94c-c4cb74ed8b0e"
 msgid "Deutsch"
-msgstr "Deutsch"
+msgstr "독일어"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/Localization_m_Values.Array.data[4].ItemName
 msgctxt "99c88acb-6c94-4643-ad7c-fdc1a64f34d1"
@@ -9565,8 +9565,8 @@ msgid ""
 msgstr ""
 "태초 세계는 지금은 물질계와 그림자 차원으로 갈라진 차원보다 먼저 만들어진 차원으로, 신들이 초안으로 만든 차원이라는 의미로 그 이름을 "
 "갖게 되었습니다. 물질계 및 그림자 차원과 유사하지만 표준 우주론 외부에 존재하며, 다른 두 차원의 '이면'이 됩니다.\n"
-"태초 세계는 보편적이고 고정된 물리 법칙이 없는 미완의 세계로, 물리적 특성의 시험장으로 남아있습니다. 이 세계에서 물리적 특성은 그때 "
-"그때 다르거나, 적용되다가 말고, 때로는 변화하고 진화하기도 합니다. 중력은 태초 세계의 각 부분에 대해 일관성이 없고, 빛의 속도는 "
+"태초 세계는 보편적이고 고정된 물리 법칙이 없는 미완의 세계로, 물리적 특성의 시험장으로 남아있습니다. 이 세계에서 물리적 특성은 "
+"그때그때 다르거나, 적용되다가 말고, 때로는 변화하고 진화하기도 합니다. 중력은 태초 세계의 각 부분에 대해 일관성이 없고, 빛의 속도는 "
 "제멋대로 변합니다. 이런 일관성 없는 법칙이 적용되는 영역이 겹치는 경우 무슨 일이 일어날 지는 예측할 수 없습니다.\n"
 "태초 세계는 다종다양한 이상한 크리처들의 서식지이며, 물질계 식물과 동물들의 원형처럼 보입니다. 주로 페이들이 거주하고, 그 중에서도 "
 "가장 강력한 존재들은 원로라고 부릅니다."
