@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2021-02-01 16:05+0000\n"
-"Last-Translator: 크라운싼도 <pbakeun@naver.com>\n"
+"PO-Revision-Date: 2021-02-08 14:02+0000\n"
+"Last-Translator: ㅇㅇ <fhsp1245@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/root/ko/>\n"
 "Language: ko\n"
@@ -2380,7 +2380,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/GameLog/GameLog_HealStatDamage.MessageWithUnknownSource
 msgctxt "6c8a1950-825d-427d-a8c6-3fd0684b0f60"
 msgid "<b>{target}</b> had <b>{count} {description}</b> damage restored."
-msgstr "<b>{target}</b>: <b>{count}{description}</b> 피해 <b>{count}</b> 회복됨."
+msgstr "<b>{target}</b>: <b>{count} {description}</b> 피해 <b>{count}</b> 회복됨."
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_HealStatDrain.MessageWithSource
 msgctxt "6381e747-4976-4057-bdff-fb4636c15dc3"
@@ -8198,14 +8198,14 @@ msgctxt "b95a3440-b26a-4fe5-b1c3-d84039a2fcca"
 msgid ""
 "You ordered the execution of all of Lamashtu's secret followers, who you "
 "found in Dumra's lodge."
-msgstr "당신은 덤라의 오두막에서 발견한 모든 라마슈투의 숨겨진 추종자들을 처형할 것을 명령했습니다."
+msgstr "당신은 덤라의 산장에서 발견한 모든 라마슈투의 숨겨진 추종자들을 처형할 것을 명령했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[87].Description
 msgctxt "50a09bc6-70ca-4788-8d24-fd4cbb4c3012"
 msgid ""
 "After finding a secret group of Lamashtu worshippers in Dumra's lodge, you "
 "ordered the execution of their leader, priestess Tsanna."
-msgstr "덤라의 오두막에서 은신했던 라마슈투의 추종자들 무리를 발견한 후, 당신은 그들의 리더인 산나를 처형할 것을 명령했습니다."
+msgstr "덤라의 산장에서 은신했던 라마슈투의 추종자들 무리를 발견한 후, 당신은 그들의 리더인 산나를 처형할 것을 명령했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[88].Description
 msgctxt "d17a2616-531b-4f7d-92cd-2dd97c94f9ef"
@@ -9593,7 +9593,7 @@ msgstr ""
 "녹지가 있어 수많은 문화가 번성하기에 완벽한 환경을 가지고 있습니다. 실제로 골라리온은 태양계에서 가장 인구가 많은 행성입니다. 다른 "
 "행성에 비해 생명친화적인 환경을 타고난 것이 아마도 신들의 작품이기 때문이 아닐까 하는 이유로 천문학자들은 때때로 골라리온을 '아이'라고 "
 "부릅니다. 그러나 골라리온은 그 핵에 미친 신 로바거그를 가둬 놓고 있기에, 다른 행성의 천문학자들은 그 우주적 역할에 빗대어 "
-"'우리'라고 부르곤 합니다."
+"'새장'이라고 부르곤 합니다."
 
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[22].Description_1
 msgctxt "be3d6c3f-2351-45df-a82e-b38e1c35f624"
@@ -9611,7 +9611,7 @@ msgstr ""
 "골라리온 행성은 물질계의 먼 곳에서 노란 태양을 공전합니다. 태양계의 11개 행성 중 세 번째인 이 푸른 행성은 광활한 바다와 푸르른 "
 "녹지가 있어 수많은 문화에게 완벽한 환경을 가지고 있습니다. 실제로 골라리온은 태양계에서 가장 인구가 많은 행성입니다. 이렇게 "
 "생명친화적인 환경을 타고난 것이 아마도 신들의 작품이기 때문이 아닐까 하는 이유로 천문학자들은 때때로 골라리온을 '아이'라고 부릅니다. "
-"그러나 골라리온은 그 핵에 미친 신 로바거그를 가둬 놓고 있기에, 다른 행성의 천문학자들은 그 우주적 역할에 빗대어 '우리'라고 부르곤 "
+"그러나 골라리온은 그 핵에 미친 신 로바거그를 가둬 놓고 있기에, 다른 행성의 천문학자들은 그 우주적 역할에 빗대어 '새장'이라고 부르곤 "
 "합니다."
 
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[22].Name
@@ -13994,7 +13994,7 @@ msgstr ""
 "녹지가 있어 수많은 문화가 번성하기에 완벽한 환경을 가지고 있습니다. 실제로 골라리온은 태양계에서 가장 인구가 많은 행성입니다. 다른 "
 "행성에 비해 생명친화적인 환경을 타고난 것이 아마도 신들의 작품이기 때문이 아닐까 하는 이유로 천문학자들은 때때로 골라리온을 '아이'라고 "
 "부릅니다. 그러나 골라리온은 그 핵에 미친 신 로바거그를 가둬 놓고 있기에, 다른 행성의 천문학자들은 그 우주적 역할에 빗대어 "
-"'우리'라고 부르곤 합니다."
+"'새장'이라고 부르곤 합니다."
 
 #. Mechanics/Blueprints/Root/IntimidateDescription_String
 msgctxt "07efe782-6410-4fe3-998a-b0255347c142"
