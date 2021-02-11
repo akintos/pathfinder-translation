@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2021-02-05 05:02+0000\n"
-"Last-Translator: ㅇㅇ <fhsp1245@naver.com>\n"
+"PO-Revision-Date: 2021-02-11 02:01+0000\n"
+"Last-Translator: 크라운싼도 <pbakeun@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -260,7 +260,7 @@ msgid ""
 "Provides a spell resistance of 16 to the {mf|baron|baroness|King|Queen} and "
 "{mf|his|her} companions while fighting in claimed regions."
 msgstr ""
-"획기적인 연구로 주문 저항의 새로운 비밀을 밝혀냈습니다. 점령지에서 싸울 때 {mf|남작|여남작|왕|여왕}과 {mf|그의|그녀의} "
+"획기적인 연구로 주문 저항의 새로운 비밀을 밝혀냈습니다. 점령지에서 싸울 때 {mf|남작|남작|왕|여왕}과 {mf|그의|그녀의} "
 "동료들에게 주문 저항 16을 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-Ups/ArcRank7-SpellResistance_DisplayName_String
@@ -3839,7 +3839,7 @@ msgid ""
 "{mf|baron's|baroness'|King's|Queen's} refusal to partake in the ceremony. "
 "The lizardfolk are appalled at the incomprehensible show of disrespect!"
 msgstr ""
-"아아, 보좌관이 {mf|남작|여남작|왕|여왕}이 의식에 불참하는 것을 요령껏 설명하지 못했습니다. 도마뱀인간은 이해할 수 없는 무례한 "
+"아아, 보좌관이 {mf|남작|남작|왕|여왕}이 의식에 불참하는 것을 요령껏 설명하지 못했습니다. 도마뱀인간은 이해할 수 없는 무례한 "
 "모습에 경악하고 있습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/ChiefIsDead_Solutions.Entries.Array.data[0].Resolutions.Array.data[1].LocalizedDescription_String
@@ -3851,7 +3851,7 @@ msgid ""
 "without really understanding what was being said. They were nevertheless "
 "content with this polite refusal."
 msgstr ""
-"보좌관은 그 초대를 정중히 거절할 수 있었습니다. 도마뱀인간들은 문화적 차이와 지금 {mf|남작|여남작|왕|여왕}이 아주 바쁘다는 것에 "
+"보좌관은 그 초대를 정중히 거절할 수 있었습니다. 도마뱀인간들은 문화적 차이와 지금 {mf|남작|남작|왕|여왕}이 아주 바쁘다는 것에 "
 "대한 기나긴 설명을 사려깊게 들어주었습니다. 비록 무슨 말인지 잘 이해하지는 못했지만, 그럼에도 이 공손한 거절에 만족했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced10/DeadmansLegacy_LocalizedDescription
@@ -25709,7 +25709,7 @@ msgstr "엠베스 여행자가 흥미로운 제안을 했습니다."
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC22-EnvoyIntro_LocalizedName
 msgctxt "2f0c5321-caf8-4cec-834e-aae0347d56e1"
 msgid "Invitation for the {mf|Baron|Baroness}"
-msgstr "{mf|남작|여남작}에게 보내는 초대"
+msgstr "{mf|남작|남작}에게 보내는 초대"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC22-HonorOfTheFallen_LocalizedDescription
 msgctxt "f22dd185-5b83-4b23-bf52-ec5d8c52a1d5"
