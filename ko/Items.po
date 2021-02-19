@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2021-02-18 08:00+0000\n"
-"Last-Translator: 크라운싼도 <pbakeun@naver.com>\n"
+"PO-Revision-Date: 2021-02-19 17:00+0000\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/items/ko/>\n"
 "Language: ko\n"
@@ -4846,7 +4846,7 @@ msgstr ""
 #. Mechanics/Blueprints/Equipment/Bracers/GearsRuleItem_DisplayNameText_String
 msgctxt "7cc5cc5d-84cd-4f2e-8ceb-71834adc9a81"
 msgid "Gear's Rule"
-msgstr "톱니바퀴의 법칙"
+msgstr "기어스 지배"
 
 #. Mechanics/Blueprints/Equipment/Bracers/GearsRuleItem_m_DescriptionText
 msgctxt "a0bb9739-85f7-4819-9c29-750ef9886740"
@@ -4967,10 +4967,9 @@ msgstr ""
 "재앙이라 부르기로 하였습니다:\n"
 "-팔 4개를 지닌 미등록 안드로이드 한 대. 이 안드로이드의 사이버웨어는 몹시 개조되어 폭발을 통한 장애나 사망의 유발이 허용되어 "
 "있었습니다. 이것을 수리해서 사용해 보려고 하였으나, 이상한 나노 기기 구름 덩어리를 추출해내는데 그쳤습니다. 지금은 만질 수 있는 "
-"형태로 안정화되었지만 일부 데이터가 손상되어 있습니다. 일단 복구를 시도하였으나 성공한 것은 자신을 \"기어스\"라는 존재로, 또는 "
-"\"엘로니엘\", \"세이\", \"신드라\", \"엘프리다\", \"맥스\", \"빌리\", \"샌달리\"라는 이름 중의 하나로 "
-"인식하는 자기 인식을 추출해낸 것 뿐입니다. 재난의 원흉이 이중에 있기를 바라고 있습니다. 수사의 단서가 될만한 것이 그것 밖에 없습니다."
-"\n"
+"형태로 안정화되었지만 일부 데이터가 손상되어 있습니다. 일단 복구를 시도하였으나 성공한 것은 \"기어스\"라는 자기 인식과, \"엘로니엘"
+"\", \"세이\", \"신드라\", \"엘프리다\", \"맥스\", \"빌리\", \"샌달리\"라는 몇개의 반복되는 이름들을 추출해낸 "
+"것 뿐입니다. 재난의 원흉이 이중에 있기를 바라고 있습니다. 수사의 단서가 될만한 것이 그것 밖에 없습니다.\n"
 "-날개와 강력한 성스러운 오라를 지닌 여성형 천사 같은 존재. 한결 같은 치유 능력으로 재앙의 처리를 엄청나게 늦추었습니다. 재앙이 "
 "피해를 받는 것보다 더 빠르게 치유되는 것 같았고, 치유될 때마다 우리 인원이 그 반동을 받아 자연 발화를 일으켰던 것으로 보입니다.\n"
 "-뿔, 꼬리, 작고 뾰족한 송곳니, 극도의 민첩성을 지닌 여성형 데블 또는 짐승. 유발한 피해가 동료들에 비할 바는 아니었지만, 제일 "
@@ -14325,12 +14324,12 @@ msgstr "뇌성의 무기는 귀에 거슬리는 굉음을 천둥처럼 일으켜
 #. Mechanics/Blueprints/Weapons/Enchantments/Thundering_m_EnchantName
 msgctxt "a79f0833-e4ec-4a67-ae75-1508ad54648b"
 msgid "Thundering"
-msgstr "뇌성의"
+msgstr "뇌성"
 
 #. Mechanics/Blueprints/Weapons/Enchantments/Thundering_m_Prefix
 msgctxt "ee860fff-f174-4d18-9d88-3b8a6363014d"
 msgid "Thundering"
-msgstr "뇌성의"
+msgstr "뇌성"
 
 #. Mechanics/Blueprints/Weapons/Enchantments/Ultrasound_m_Description
 msgctxt "e33c6acd-34a2-4a16-834b-390bb6025d74"
