@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 18:51+0900\n"
-"PO-Revision-Date: 2021-07-08 13:23+0000\n"
-"Last-Translator: rampage <crualguy@gmail.com>\n"
+"PO-Revision-Date: 2021-07-22 11:23+0000\n"
+"Last-Translator: 냠 <setsuna444@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "pathfinder_kingmaker/kingdom/ko/>\n"
 "Language: ko\n"
@@ -21775,8 +21775,8 @@ msgid ""
 "creates an obstacle to the natural flow of energy through the region. The "
 "druids can fix this, and lift the unpleasant atmosphere in the settlement."
 msgstr ""
-"드루이드들은 정착지 중 하나가 좋지 못한 곳에 위치해 이 지역을 통과하는 에너지의 자연적인 흐름을 방해하고 있다는 것을 발견했다. 그들은 "
-"이것을 고쳐, 정착지의 불편한 기운을 해소해낼 수 있다."
+"드루이드들은 정착지 중 하나가 좋지 못한 곳에 위치해 이 지역을 통과하는 에너지의 자연적인 흐름을 방해하고 있다는 것을 발견했습니다. "
+"이것을 고쳐, 정착지의 불편한 기운을 해소해낼 수 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra 50/Deck3/BrokenHarmony_LocalizedName
 msgctxt "8aed8495-acb1-4ecf-b35c-0d12eac2b333"
@@ -22583,19 +22583,19 @@ msgctxt "918e81df-554c-4573-87ce-42cb4a2fb146"
 msgid ""
 "A mob of monsters invaded the region, then dispersed into the woods and "
 "wilds. The lands must be cleared of them before they cause great harm."
-msgstr "한 무리의 괴물이 지역에 침입해 숲과 야생으로 흩어졌다. 그들이 큰 피해를 입히기 전에 이곳을 깨끗하게 만들어야 한다."
+msgstr "한 무리의 괴물이 지역에 침입해 숲과 야생으로 흩어졌습니다. 큰 피해를 입히기 전에 놈들을 소탕해야 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra 50/Deck4/WanderingMonsters_LocalizedName
 msgctxt "d14d32cd-b5bc-4b72-bd97-ae3060849bbf"
 msgid "Wandering Monsters"
-msgstr "떠돌이 괴물"
+msgstr "떠도는 괴물들"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra 50/Deck4/WanderingMonsters_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "218e08e1-7917-44fc-b6b9-ca0556e50784"
 msgid ""
 "Our warriors failed to deal with the monsters. They swept across the "
 "countryside, killing many people."
-msgstr "전사들은 괴물을 처리하는 데 실패했다. 괴물들은 많은 사람들을 죽이며 교외를 휩쓸고 다녔다."
+msgstr "전사들은 괴물을 처리하는 데 실패했습니다. 괴물들은 많은 사람들을 죽이며 교외를 휩쓸고 다녔습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra 50/Deck4/WanderingMonsters_Solutions.Entries.Array.data[2].Resolutions.Array.data[1].LocalizedDescription_String
 msgctxt "2bafa095-2c68-4d86-90b9-b67860a05d3d"
@@ -33745,8 +33745,8 @@ msgid ""
 "partners with Brevoy. Effect: increases Economy and Relations by 7 and "
 "provides 1 BP per week for each Relation Rank above 6."
 msgstr ""
-"지금처럼 왕국이 강하고 번영할 때 브레보이와 전략적 파트너에 대해 논의할 수 있습니다. 효과: 경제 및 관계가 7 증가하고 관계 랭크가 "
-"6이 초과되면 초과된 수치 당 각각 주당 1BP를 제공합니다."
+"이제 왕국이 강력해지고 번창하였으니 브레보이와 전략적 파트너에 대해 논의할 수 있게 되었습니다. 효과: 경제 및 외교 지표가 7 증가하고 "
+"6을 넘어가는 외교 등급 마다 주당 1BP를 제공합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/StrategicPartnershipBrevoy_LocalizedName
 msgctxt "913838e2-4746-4f02-ac33-e086d2800655"
@@ -33806,7 +33806,7 @@ msgctxt "2d378309-00cd-4c49-89c9-a0d88cdc2499"
 msgid ""
 "Provides 10 BP per week, but reduces income by 1 for each rank of Stability "
 "and Espionage below 10."
-msgstr "주당 10BP를 제공하지만, 치안과 첩보 각 랭크에 대해 1의 소득을 감소시킵니다."
+msgstr "주당 10BP를 제공하지만, 치안과 첩보 등급이 10이 될 때까지 등급 당 수입이 1 감소합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/TradeAgreements/TradingWithDaggermark_LocalizedName
 msgctxt "4243691c-13bc-4ab2-ab16-9023abc2a3fd"
@@ -36016,7 +36016,7 @@ msgstr "첩보"
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.BuildFreeCost
 msgctxt "9afc76dc-63d8-4ed8-a2bf-9dbabbf8a8d1"
 msgid "Free"
-msgstr "자유"
+msgstr "무료"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.BuildPointsDiscountFormat
 msgctxt "2b5666d1-c0ed-489f-958d-2ec7000f5af9"
@@ -36060,7 +36060,7 @@ msgctxt "c95c2009-d5b0-479a-bb82-9f0cc3457498"
 msgid ""
 "Choose an advisor to handle this event. Advisors will act according to their "
 "position in government, beliefs, and alignment. Choose wisely!"
-msgstr "이 사건을 다룰 보좌관을 고르십시오. 보좌관은 직위, 신념, 성향에 따라 행동할 것입니다. 잘 골라야 합니다!"
+msgstr "이 사건을 다룰 보좌관을 고르십시오. 보좌관은 직위, 신념, 성향에 따라 행동할 것입니다. 현명하게 선택하십시오!"
 
 #. Mechanics/Blueprints/Kingdom/KingdomUIRoot_Texts.EmptyCompanionHeaderPortrait
 msgctxt "676e989e-f655-47fa-bb8b-4a7a1f1118c7"
